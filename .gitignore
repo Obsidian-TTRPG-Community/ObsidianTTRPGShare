@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore Obsidian Files
+.obsidian
+.trash
