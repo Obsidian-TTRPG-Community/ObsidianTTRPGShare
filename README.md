@@ -20,7 +20,9 @@ This content is only possible through the combined efforts of a fellow Table Top
 
 
 ## Feel like buying coffees? 
-If you have anyone you'd like to support, click their link below and give them a boost. Feeling lucky? How about a roll of the die instead?
+If you have anyone you'd like to support, click their link below and buy them a coffee. 
+
+Feeling lucky? How about a roll of the die instead?
 
 | D3 |
 |:---:|
