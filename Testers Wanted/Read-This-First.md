@@ -7,7 +7,9 @@ If you are uploading your content for testing, grab a copy of the [**Testing Tem
 Your pull request will need to contain the submission in the following format:
 
 ```
-Folder Structure: Root/Testers Wanted/Your Chosen Name - Your Folder Name/
+Folder Structure: 
+Root/Testers Wanted/Your Chosen Name - Your Folder Name/
+
 Included Files: 
 1. Your files
 2. Any specific licenses for your created content if it is not the MIT License
