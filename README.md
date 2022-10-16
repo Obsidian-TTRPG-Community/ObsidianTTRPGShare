@@ -26,6 +26,6 @@ Feeling lucky? How about a roll of the die instead?
 
 | D3 |
 |:---:|
-|[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)||
-|[Kepano](https://www.buymeacoffee.com/kepano)||
-| Roll again |
+|[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)|
+|[Kepano](https://www.buymeacoffee.com/kepano)|
+| [SlRvb](https://ko-fi.com/slrvb) |
