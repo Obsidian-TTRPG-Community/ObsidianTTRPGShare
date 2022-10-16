@@ -1,5 +1,7 @@
 # Your File Name Here
+You will need to remove the backticks when you load this file into Obsidian.
 
+```
 % 
 Information that is necessary to achieve the look and feel of your submission needs to go in this area
 Basic Formatting:
@@ -13,22 +15,26 @@ Code Block Formatting:
 - Include both a Sample Code Block and a Code Block That will Render True when loaded into Obsidian. 
 - You do not need to provide images or YAML files for the example to work as in screenshots. It only needs to render so the user can plug in their own data.
 %
+```
+
 __Plugins Required__: [**Plugin Name**](pluginlink)
 __Thanks To__: [**name**](plugunlink)
-
+```
 %
 Summary of what it does here. 
 
 If you are assuming a user knows a certain amount of knowledge, include that information here. 
 %
-
+```
 # Instruction Header 1
 
+```
 % 
 Instructions should be broken up by headers per section. Utilize a combination of H2-H6.
 %
-
-
+```
+```
 %
 Very long instruction files should include a link that takes the user back to the top of the page.
-%%
+%
+```
