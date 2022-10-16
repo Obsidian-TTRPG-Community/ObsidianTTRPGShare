@@ -8,7 +8,10 @@ Your pull request will need to contain the submission in the following format:
 
 ```
 Folder Structure: Root/Testers Wanted/Your Chosen Name - Your Folder Name/
-Included Files: Your files, any specific licenses for your created content if it is not the MIT License, and "your chosen name - your tool name - testing template.md"
+Included Files: 
+1. Your files
+2. Any specific licenses for your created content if it is not the MIT License
+3. "your chosen name - your tool name - testing template.md"
 ```
 
 ## How to use this folder as a tester
