@@ -24,8 +24,8 @@ If you have anyone you'd like to support, click their link below and buy them a 
 
 Feeling lucky? How about a roll of the die instead?
 
-| D3 |
+| d3 |
 |:---:|
 |[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)|
 |[Kepano](https://www.buymeacoffee.com/kepano)|
-| [SlRvb](https://ko-fi.com/slrvb) |
+|[SlRvb](https://ko-fi.com/slrvb) |
