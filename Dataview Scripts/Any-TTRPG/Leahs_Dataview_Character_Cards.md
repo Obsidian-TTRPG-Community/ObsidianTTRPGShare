@@ -10,7 +10,7 @@ This is the Dataview table and CSS setup that allows you to have the Dataview ch
 
 In addition, these instructions can be applied to other information that you want to become a Dataview Card. Monsters. Deities. Books. Baseball Cards with Stats. Simply change the YAML/Frontmatter, and the Dataview Table Headers accordingly and voila, you have your updated cards.
 
-For these instructions, we will stick to character examples. Additionally, the links will appear as standard markdown links on Github, but within Obsidian, you can use Wikilinks if you choose.
+For these instructions, we will stick to character examples. It is **HIGHLY recommended** to download this markdown file into your vault as Github will not show you that we are using dataview calls. Additionally, the links will appear as standard markdown links on Github, but within Obsidian, you can use Wikilinks if you choose.
 
 > Obsidian Theme Wizards, Sorcerers, and Warlocks! Does your theme have built-in CSS with a similar design? Ping @Sigrunixia on Github or @LittleMaelstrom on the Obsidian Discord to get added to this guide. 
 
@@ -68,7 +68,6 @@ SORT file.name asc
 ```
 
 ### Empty Minimal Codeblock (Obsidian Render)
-
 ```dataview
 TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
@@ -85,7 +84,7 @@ SORT file.name asc
 ```
 
 ## Instructions for Its Theme Card Callout
-If you have ITS Theme, you will be utilizing the integrated [Cards Callout](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md#cards) functionality that already exists within ITS. Additionally, it is recommended that you go ahead and open up the Image Positions guide as you may need it to handle the sizing of the [Embedded Images](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions.md).
+If you have ITS Theme, you will be utilizing the integrated [**Cards Callout**](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md#cards) functionality that already exists within ITS. Additionally, it is recommended that you go ahead and open up the Image Positions guide as you may need it to handle the sizing of the [**Embedded Images**](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Image-Positions.md).
 
 ### Sample ITS Code-block
 
@@ -126,7 +125,7 @@ TABLE WITHOUT ID
 >```
 
 ## All Other Themes
-Those with other themes will need to download the extracted [Kepano-Minimal-Cards](CSS/Kepano-Minimal-Cards.css) and place it into their `.obsidian/snippets` folder, then activate it in settings -> appearance.
+Those with other themes will need to download the extracted [**Kepano-Minimal-Cards**](CSS/Kepano-Minimal-Cards.css) and place it into their `.obsidian/snippets` folder, then activate it in settings -> appearance.
 
 Then, you will need to add the CssClass to your YAML/Frontmatter as Minimal Users needed to.
 
