@@ -1,11 +1,11 @@
 # Leahs Dataview Character Cards
 __Plugins Required__: [**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
 
-__Big Thanks To__: [**Leah**](https://leahferguson.com), [**Kepano**](https://github.com/kepano), and [SIRvb](https://github.com/SlRvb/)
+__Big Thanks To__: [**Leah**](https://leahferguson.com), [**Kepano**](https://github.com/kepano), and [**SIRvb**](https://github.com/SlRvb/)
 
-This is the Dataview table and CSS setup that allows you to have the Dataview character cards that Leah shared in [Obsidian Discord's Showcase-Notes](https://cdn.discordapp.com/attachments/744933215063638183/1031021544056561754/Screen_Shot_2022-10-15_at_9.25.37_PM.png) channel. As the styling of this script is reliant upon CSS, we have included several instructions on how to achieve this look:
+This is the Dataview table and CSS setup that allows you to have the Dataview character cards that Leah shared in [**Obsidian Discord's Showcase-Notes**](https://cdn.discordapp.com/attachments/744933215063638183/1031021544056561754/Screen_Shot_2022-10-15_at_9.25.37_PM.png) channel. As the styling of this script is reliant upon CSS, we have included several instructions on how to achieve this look:
 - [**Minimal Theme**](https://github.com/kepano/obsidian-minimal) Users
-- [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) Users
+- [**ITS Theme**](https://github.com/SlRvb/Obsidian--ITS-Theme) Users
 - All Other Theme Users
 
 In addition, these instructions can be applied to other information that you want to become a Dataview Card. Monsters. Deities. Books. Baseball Cards with Stats. Simply change the YAML/Frontmatter, and the Dataview Table Headers accordingly and voila, you have your updated cards.
