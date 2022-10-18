@@ -1,5 +1,5 @@
 # ObsidianTTRPGShare
-This is a repository for downloading and sharing TTRPG elements that may be useful for Obsidian.md TTRPG Users. We're also a space to collaborate 
+This is a repository for downloading and sharing TTRPG elements that may be useful for Obsidian.md TTRPG Users.
 
 ## Please Contribute!
 This content is only possible through the combined efforts of a fellow Table Top Role Playing Game Enthusiasts who want to grow the community and make things more fun for everyone. Want to give back? Please take the time to contribute your custom code, callouts, scripts, tables, and other useful items to this repository. 
