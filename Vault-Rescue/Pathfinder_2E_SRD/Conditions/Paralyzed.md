@@ -1,0 +1,5 @@
+#pf/condition 
+# Paralyzed
+**Source**: Core Rulebook pg. 621
+
+Your body is frozen in place. You have the [Flat-footed](Flat-footed.md) condition and can't act except to [Recall Knowledge](../Actions/Recall%20Knowledge.md) and use actions that require only the use of your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving your body, so you can't [Seek](../Actions/Seek.md) while paralyzed.
