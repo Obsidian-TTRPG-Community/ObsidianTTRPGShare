@@ -3,7 +3,7 @@
 
 __Plugins Required__: [**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
 __External Files__: Any CSV File
-__Thanks To__: [**Yilmas**]()
+__Thanks To__: [**Yilmas**](https://github.com/Yilmas)
 
 This Dataview inquiry pulls information out of a CSV file based off the template specified, and also features the option to select based off Frontmatter keys.
 
