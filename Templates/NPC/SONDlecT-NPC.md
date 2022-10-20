@@ -1,8 +1,13 @@
 # ViXxuASXbar's NPC Template
+
 **Plugin Dependencies**: 
+
 [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+
 [Templater](https://github.com/SilentVoid13/Templater)
+
 [Admonitions](https://github.com/valentine195/obsidian-admonition)
+
 **Thanks To**: [ViXxuASXbar](https://github.com/SONDLecT/obsidian-dm-templates)
 
 
