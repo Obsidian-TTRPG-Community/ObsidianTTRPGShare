@@ -29,7 +29,7 @@ type: ["YourCardTypeHere"]
 cssClass: 
 ---
 %% 
-campaign:: [[Awesome-Campaign-Note)]
+campaign:: [[Awesome-Campaign-Note]]
 token:: [[Awesome-Direct-Image-Link-No-Embeds-Yo]]
 %% 
 
