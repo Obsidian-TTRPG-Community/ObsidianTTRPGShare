@@ -13,7 +13,7 @@ The ObsidianTTRPGShare currently maintains three goals:
 ## Please Contribute!
 This content is only possible through the combined efforts of a fellow Table Top Role Playing Game enthusiasts who want to grow the community and make things more fun for everyone. Want to give back? Please take the time to contribute your custom code, callouts, scripts, tables, and other useful items to this repository. 
 
-_If you are a contributor who also has a contribution link, please update the section below to be added to the die table._
+_If you are a contributor who also has a coffee link, please update the section below to be added to the die table._
 
 
 ## Feel like buying coffees? 
