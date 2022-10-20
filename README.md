@@ -3,7 +3,7 @@ This is a repository for downloading and sharing TTRPG elements that may be usef
 
 
 ## Goals
-The ObsidianTTRPGShare currently maintains three goals
+The ObsidianTTRPGShare currently maintains three goals:
 
 1. Encouraging the collection and categorization of data shared on [Obsidian Discord](https://discord.gg/obsidianmd) that would otherwise become lost and forgotten over time. 
 2. Act as an incubator for refining those elements so they may be added to the [Obsidian TTRPG Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+TTRPG). 
