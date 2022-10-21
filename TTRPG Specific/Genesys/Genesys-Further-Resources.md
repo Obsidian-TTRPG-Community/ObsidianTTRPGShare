@@ -9,7 +9,7 @@ Not everything gets hosted here at the TTRPGShare. In those cases, with permissi
 
 **Summary**: 
 
-This repository is dedicated to compiling and creating various tools for make Obsidian more friendly to Genesys system players, who currently lack a space in the D20 dominated environment. Currently, this repository has the following resources.
+This repository is dedicated to compiling and creating various tools to make Obsidian more friendly to Genesys system players, who currently lack a space in the D20 dominated environment. Currently, this repository has the following resources.
 
 1. A CSS Snippet for placing Star Wars RPG and Genesys dice images into your notes.
 
