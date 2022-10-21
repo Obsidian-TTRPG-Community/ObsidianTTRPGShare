@@ -8,22 +8,28 @@
 
 [Admonitions](https://github.com/valentine195/obsidian-admonition)
 
-**Thanks To**: [ViXxuASXbar](https://github.com/SONDLecT/obsidian-dm-templates)
+**Thanks To**: [ViXxuASXbar](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
 
 
 ## Goals
 Provide aesthetically interesting, consistent structure and templates to assist preparing for a D&D session, campaign or adventure.
 
-## How to Use
-Remove the backtick codeblocks and these instructions from within Obsidian, to be able to use the template below.
-
 
 ## How It May Look
 
-![](../Images/SONDLecT_NPC.png)
+![](../Z_Images/SONDLecT_NPC.png)
 
 
-``````
+
+## How to Use
+Remove the back-tick code blocks that are marked out with the phrases "Remove this line and the all the ones above it." and "Remove this line and all the ones below it.". 
+
+Once those are gone, the template is ready to be used in Obsidian. 
+
+
+`````
+Remove this line and the all the ones above it.
+
 ---
 type: "npc"
 tags:
@@ -76,12 +82,13 @@ title: Statblock
 
 
 ---
-```ad-example
+````ad-example
 title: Mentions in Session Notes
 ```dataview
 TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
 ```
-
+````
 
 <% await tp.file.move("/dnd/npc/" + tp.file.title) %>
-``````
+
+`````
