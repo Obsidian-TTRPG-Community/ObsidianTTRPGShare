@@ -4,3 +4,26 @@
 # Ignore Obsidian Files
 .obsidian
 .trash
+
+
+# Activity Data
+sync.log
+some.log
+dlFolderLastChange
+
+# redundant
+.config/karabiner/automatic_backups
+
+# default location of (large) coc extensions; actually not necessary because of `g.coc_data_home` is changed in the coc-config, but still put here as a safety net
+.config/coc
+
+# in case of accidental saving of such files in the repo
+*.mp4
+*.part
+
+# safety net in case sensitive data is accidentally moved
+pw.*
+*.kdb
+*.kdbx
+*.pfx
+*.key
