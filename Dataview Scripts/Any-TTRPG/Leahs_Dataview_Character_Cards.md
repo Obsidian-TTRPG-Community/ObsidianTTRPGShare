@@ -56,7 +56,7 @@ cssclass: cards, cards-1-1, cards-cols-4
 TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
 	embed(token) AS "Art",
-	rac AS "Race",
+	race AS "Race",
 	clas AS "Class",
 	subs AS "Subclass",
 	back AS "Background",
