@@ -18,31 +18,31 @@ The main display table will have the following dataview inquiry. This allows me 
 
 
 
-```
+````markdown
 > ```dataview
 > TABLE WITHOUT ID Template,HD,AC,Atk,Dmg,Shock,Move,ML,Inst,Skill,Save
 > FROM "05 - Resources/Creatures/WWN_Table_Creatures.csv"
 > ```
-```
+````
 
 ## NPC Note
 
 Then on a specific NPC, I have a Frontmatter, where the key is obtained through the previous table. 
 
-```
+```markdown
 ---
 creature_template: Name of specific Row
 ---
 ```
 
 Then finally somewhere in the note I do:
-```
+````markdown
 >```dataview
 >TABLE WITHOUT ID Template,HD,AC,Atk,Dmg,Shock,Move,ML,Inst,Skill,Save
 >FROM "05 - Resources/Creatures/WWN_Table_Creatures.csv"
 >WHERE Template = this.creature_template
 >```
-```
+````
 
 
 **Do note!** The .cvs file's first row with the column names need to match the column names of the Table. Elsewise, the data will not match up correctly. 
@@ -51,5 +51,5 @@ Then finally somewhere in the note I do:
 
 If you have done everything correctly, you will end up with a tabled result like this below.
 
-![](https://cdn.discordapp.com/attachments/916477002909876265/1031753602240352256/unknown.png)
+![Sectors Without Numbers Statblock](https://cdn.discordapp.com/attachments/916477002909876265/1031753602240352256/unknown.png)
 

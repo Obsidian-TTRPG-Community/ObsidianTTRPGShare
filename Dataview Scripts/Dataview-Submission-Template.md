@@ -1,7 +1,7 @@
-# Your File Name Here
+# Your File Name Here 1
 You will need to remove the backticks when you load this file into Obsidian.
 
-```
+```markdown
 % 
 Information that is necessary to achieve the look and feel of your submission needs to go in this area
 Basic Formatting:
@@ -24,21 +24,24 @@ Code Block Formatting:
 __Plugins Required__: [**Plugin Name**](pluginlink)
 
 __Thanks To__: [**name**](plugunlink)
-```
+```markdown
 %
 Summary of what it does here. 
 
 If you are assuming a user knows a certain amount of knowledge, include that information here. 
 %
 ```
-# Instruction Header 1
+## Instruction Header 2
 
-```
+```markdown
 % 
 Instructions should be broken up by headers per section. Utilize a combination of H2-H6.
 %
 ```
-```
+
+### Instruction Header 3
+
+```markdown
 %
 Very long instruction files should include a link that takes the user back to the top of the page.
 %

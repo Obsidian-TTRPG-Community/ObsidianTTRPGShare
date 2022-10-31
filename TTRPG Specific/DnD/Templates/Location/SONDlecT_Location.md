@@ -2,15 +2,15 @@
 
 **Plugin Dependencies**: 
 
-[Admonitions](https://github.com/valentine195/obsidian-admonition)
+[**Admonitions**](https://github.com/valentine195/obsidian-admonition)
 
-[Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+[**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
 
-[Leaflet](https://github.com/valentine195/obsidian-leaflet-plugin)
+[**Leaflet**](https://github.com/valentine195/obsidian-leaflet-plugin)
 
-[Templater](https://github.com/SilentVoid13/Templater)
+[**Templater**](https://github.com/SilentVoid13/Templater)
 
-**Thanks To**: [ViXxuASXbar](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+**Thanks To**: [**ViXxuASXbar**](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
 
 
 ## Goals

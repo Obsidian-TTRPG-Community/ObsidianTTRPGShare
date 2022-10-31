@@ -2,16 +2,15 @@
 
 **Plugin Dependencies**: 
 
-[Admonitions](https://github.com/valentine195/obsidian-admonition)
+[**Admonitions**](https://github.com/valentine195/obsidian-admonition)
 
-[Templater](https://github.com/SilentVoid13/Templater)
+[**Templater**](https://github.com/SilentVoid13/Templater)
 
-**Thanks To**: [ViXxuASXbar](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+**Thanks To**: [**ViXxuASXbar**](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
 
 
 ## Goals
 Provide aesthetically interesting, consistent structure and templates to assist preparing for a D&D session, campaign or adventure.
-
 
 ## How It May Look
 
