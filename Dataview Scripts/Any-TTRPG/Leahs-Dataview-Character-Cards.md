@@ -23,7 +23,7 @@ Replace all the items in brackets with information of your choosing. Then, proce
 
 ### Sample Character Note
 
-```
+```markdown
 ---
 type: ["YourCardTypeHere"]
 cssClass: 
@@ -43,7 +43,7 @@ background:: [[Awesome-Background-Here]]
 ## Instructions for Minimal Theme
 If you have Minimal Theme already installed, all you need to do to have your Dataview code render as Leah's did is add the following code block to your YAML/Frontmatter.
 
-```
+```yaml
 ---
 cssclass: cards, cards-1-1, cards-cols-4
 ---
@@ -51,7 +51,7 @@ cssclass: cards, cards-1-1, cards-cols-4
 
 ### Sample Minimal Code-block
 
-```
+````markdown
 >```dataview
 TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
@@ -66,6 +66,8 @@ WHERE contains(type, "mypc") -- This will look for frontmatter that has type: my
 WHERE !contains(type, "backup") -- But will exclude frontmatter with type: backup
 SORT file.name asc
 ```
+````
+
 
 ### Empty Minimal Codeblock (Obsidian Render)
 ```dataview
@@ -88,7 +90,7 @@ If you have ITS Theme, you will be utilizing the integrated [**Cards Callout**](
 
 ### Sample ITS Code-block
 
-```
+````markdown
 > [!cards|dataview 4]
 >```dataview
 TABLE WITHOUT ID
@@ -104,7 +106,7 @@ TABLE WITHOUT ID
 >WHERE !contains(secret, "chars") -- But exclude frontmatter secret: chars
 >SORT file.name asc
 >```
-```
+````
 
 ### Empty Its Code-block (Obsidian Render)
 
@@ -129,7 +131,7 @@ Those with other themes will need to download the extracted [**Kepano-Minimal-Ca
 
 Then, you will need to add the CssClass to your YAML/Frontmatter as Minimal Users needed to.
 
-```
+```yaml
 ---
 cssclass: cards, cards-1-1, cards-cols-4
 ---
@@ -138,7 +140,7 @@ cssclass: cards, cards-1-1, cards-cols-4
 From there, you will proceed as if you were a Minimal Theme user. However, due to the fact you are using a different theme, certain elements may not look the same. You may also have to edit Kepano's CSS file, or edit other CSS files, in order to achieve the look you desire. However, in testing, we found it to work well as long as you were not overlapping too many different CSS classes, and as long as you were not making a very large gallery.
 
 ### Sample Other Themes Code-block
-```
+````markdown
 >```dataview
 TABLE WITHOUT ID
 	link(file.path, name) AS "Name",
@@ -153,6 +155,7 @@ WHERE contains(type, "my pc")
 WHERE !contains(type, "backup")
 SORT file.name asc
 ```
+````
 
 ### Empty Other Themes Code-block (Obsidian Render)
 ```dataview

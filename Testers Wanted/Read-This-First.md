@@ -2,11 +2,11 @@
 This is a section of tools, scripts, and other features that are near completion, have been tested, but need some more hands on it to confirm it works on edge-cases.
 
 ## How to this use folder as a contributor
-If you are uploading your content for testing, grab a copy of the [**Testing Template**](testing-template.md), fill it out, and include it in your pull request. 
+If you are uploading your content for testing, grab a copy of the [**Testing Template**](Testing-Template.md), fill it out, and include it in your pull request. 
 
 Your pull request will need to contain the submission in the following format:
 
-```
+```md
 Folder Structure: 
 Root/Testers Wanted/Your Chosen Name - Your Folder Name/
 

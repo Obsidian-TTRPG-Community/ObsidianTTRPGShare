@@ -2,13 +2,13 @@
 
 __Dependencies__:
 
-[**foreveryones_dropcaps.css**](css/foreveryones_dropcaps.css) from the css folder
+[__foreveryones_dropcaps.css__](css/foreveryones_dropcaps.css) from the css folder
 
-[**William Morris Letter Clipart @ Open Clipart**](https://openclipart.org/search/?query=William+Morris) from the images folder
+[__William Morris Letter Clipart @ Open Clipart__](https://openclipart.org/search/?query=William+Morris) from the images folder
 
-*All content under Open Clipart is licensed under* [***Creative Commons 1.0 License***](https://creativecommons.org/publicdomain/zero/1.0/).
+*All content under Open Clipart is licensed under* [*__Creative Commons 1.0 License__*](https://creativecommons.org/publicdomain/zero/1.0/).
 
-__Thanks to__: [**Foreveryone1**](https://github.com/foreveryone1)
+__Thanks to__: [__Foreveryone1__](https://github.com/foreveryone1)
 
 ## What It May Look Like
 
@@ -43,5 +43,4 @@ This snippet has been tested on Default, Minimal, ITS Theme, Ebullientworks, Anu
 
 ![sigrunixia_dropcap_darktest1](images/sigrunixia_dropcap_darktest1.png)
 
-
-> **Note**: A callout background is underway for this dropcap CSS to be used for light and dark backgrounds, and is undergoing additional testing. This page will be updated when it is released.
+> __Note__: A callout background is underway for this dropcap CSS to be used for light and dark backgrounds, and is undergoing additional testing. This page will be updated when it is released.

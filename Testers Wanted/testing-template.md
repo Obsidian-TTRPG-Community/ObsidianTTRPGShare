@@ -1,7 +1,7 @@
-# your chosen name - your tool name - Testing Template
+# Your chosen name - your tool name - Testing Template
 If you load this into Obsidian, you may need to remove the backticks. 
 
-```
+```md
 Information that is necessary to achieve the look and feel of your submission needs to go in this area
 
 Basic Formatting:
@@ -33,7 +33,7 @@ __External Tools Required__: [**Tool Name**](ToolLink) `Put None if None Require
 
 __Thanks To__: [**Your Name of Choice**](YourLinkofChoice) 
 
-```
+```md
 %
 Summary of what it does here. 
 
@@ -44,7 +44,7 @@ If there are different instructions for operating systems, call it out here.
 ```
 
 ## Contact Information
-````
+```md
 %
 This is where you would put how users can contact you to:
 1. Report issues with your tool
@@ -57,11 +57,11 @@ This is where you would put how users can contact you to:
   - You may need to direct them to the Obsidian Forums
   - You may need to direct them to a specific channel on Obsidian Discord
 %
-````
+```
 
 ## Instruction Header 1
 
-```
+```md
 % 
 Instructions should be broken up by headers per section. 
 
@@ -69,7 +69,7 @@ Utilize a combination of H2-H6.
 %
 ```
 
-```
+```md
 %
 Very long instruction files should include a link that takes the user back to the top of the page.
 %
