@@ -5,6 +5,8 @@
 .obsidian
 .trash
 
+# Ignore vscode
+.vscode
 
 # Activity Data
 sync.log

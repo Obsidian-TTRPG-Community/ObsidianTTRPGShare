@@ -1,0 +1,11 @@
+/* 
+Dataview Cards Options 
+Originally by SlRVB
+
+Updated by Sigrunixia
+*/
+
+/* This will change link colors in callout cards with dataview enabled to red. td a denotes table links. */
+.callout[data-callout~=cards][data-callout-metadata~=dataview] > .dataview.table-view-table td a {
+	color: red;
+}
