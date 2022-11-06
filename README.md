@@ -1,6 +1,6 @@
 # ObsidianTTRPGShare
 
-This is a repository for the downloading and sharing TTRPG elements that may be useful for [**Obsidian**](https://obsidian.md) TTRPG Users. We also utilize this repository as a headquarters to 
+This is a repository for the downloading and sharing TTRPG elements that may be useful for [**Obsidian**](https://obsidian.md) TTRPG Users. We also utilize this repository as a headquarters to plan community building and philanthropy. 
 
 ## Now Available
 Our [**Master Resources Wiki**](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/wiki) is now available to add recommended content to. Anyone with a Github account may add to the Wiki.
