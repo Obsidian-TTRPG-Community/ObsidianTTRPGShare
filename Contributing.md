@@ -1,4 +1,4 @@
-# Contributing
+# Contributing to the TTRPG Share
 
 We're always happy to receive a pull request. See a typo? Feel free to fix it! No PR is too big or too small.
 
