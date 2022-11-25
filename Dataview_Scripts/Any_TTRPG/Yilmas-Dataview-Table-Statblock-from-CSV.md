@@ -2,14 +2,14 @@
 
 
 __Plugins Required__: [**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
-__External Files__: Any CSV File
+__External Files__: A CSV file containing all creatures.
 __Thanks To__: [**Yilmas**](https://github.com/Yilmas)
 
 This Dataview inquiry pulls information out of a CSV file based off the template specified, and also features the option to select based off Frontmatter keys.
 
 This process assumes you are comfortable with Dataview and CSV files.
 
-It was originally created to make a statblock for Sectors Without Numbers NPC's, but this can be adapted to any TTTRPG that uses statblocks. 
+It was originally created to make a statblock for Stars and Worlds Without Number NPC's, but this can be adapted to any TTTRPG that uses statblocks. 
 
 
 ## The Main Table
@@ -51,5 +51,5 @@ Then finally somewhere in the note I do:
 
 If you have done everything correctly, you will end up with a tabled result like this below.
 
-![Sectors Without Numbers Statblock](https://cdn.discordapp.com/attachments/916477002909876265/1031753602240352256/unknown.png)
+![Worlds Without Number Statblock](https://cdn.discordapp.com/attachments/916477002909876265/1031753602240352256/unknown.png)
 
