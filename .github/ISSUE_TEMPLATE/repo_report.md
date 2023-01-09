@@ -8,6 +8,7 @@ assignees: [ObsidianTTRPGProject, Sigrunixia]
 ---
 
 **Describe the Request**
+
 _A clear and concise description of what it is you are seeking to change about the Repository files._
 
 
@@ -17,8 +18,9 @@ _Do you intend to Submit a Pull Request to add this request (Yes/No)?_
 
 ## Additions Only
 
-** Use Case **
-_What is your use case for asking this? Your perspective will be helpful in possible implementation of this. _
+**Use Case**
+
+_What is your use case for asking this? Your perspective will be helpful in possible implementation of this._
 
 
 
