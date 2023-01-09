@@ -1,5 +1,5 @@
 ---
-name: Conversion Projection
+name: Conversion Project
 about: Create a Thread to Document Your Conversion Project
 title: '[Conversion]'
 labels: '[Conversion]'
@@ -12,13 +12,14 @@ assignees: ''
 
 **Repo Link:** [replace-url-here](www.replace-plunkett-url.com)
 
-**Assistance** I am (looking/not looking) for assistance. _If looking for assistance, add the Conversion Help Label to your thread._
+**Assistance** I am (**looking/not looking**) for assistance. _If looking for assistance, add the Conversion Help Label to your thread._
 
 
-_You can delete everything from this line and below if you wish to customize as you will. It is included in the template to give you an idea of ways you can document your progress. 
-_
+_You can delete everything from this line and below if you wish to customize as you will. It is included in the template to give you an idea of ways you can document your progress._
 ## To-Do List 
+
 ### Modules Finished
+
 - [ ] Bestiary
 - [X] Character Rules
 - [ ] Classes
@@ -33,6 +34,7 @@ _
 - [X] Legal
 
 ### Classes
+
 - [x] Barbarian
 - [x] Bard
 - [X] Chaos Mage
@@ -50,6 +52,7 @@ _
 - [ ] Wizard
 
 ### Other To-Dos
+
 - [ ] Custom Layout for TTRPG Statblocks
 - [ ] Finish integrating support for Dice Roller
 - [ ] Confirm Monsters fully integrated for Initiative Tracker
