@@ -3,7 +3,7 @@ name: Repository Request
 about: Report an problem or an addition request to the Repository Files
 title: '[Repo]'
 labels: 'Repo'
-assignees: [@ObsidianTTRPGProject, @Sigrunixia]
+assignees: [ObsidianTTRPGProject, Sigrunixia]
 
 ---
 
