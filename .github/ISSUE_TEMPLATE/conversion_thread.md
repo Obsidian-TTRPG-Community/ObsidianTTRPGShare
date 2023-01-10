@@ -2,7 +2,7 @@
 name: Conversion Project
 about: Create a Thread to Document Your Conversion Project
 title: '[Conversion]'
-labels: '[Conversion]'
+labels: 'Conversion'
 assignees: ''
 
 ---
