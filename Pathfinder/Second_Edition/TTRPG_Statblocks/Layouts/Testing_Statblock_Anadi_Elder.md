@@ -29,9 +29,9 @@ health: 95
 speed: 25 feet, climb 25 feet
 offense:
   - name: Melee
-    desc: "1 shortsword ([[agile]], [[finesse]], [[versatile]] S), **Damage**: 5 (1d6+5) piercing"
+    desc: "1 shortsword +15 ([[agile]], [[finesse]], [[versatile]] S), **Damage**: 5 (1d6+5) piercing"
   - name: Melee
-    desc: "1 fangs `dice: 1d20+16` +16 [`dice: 1d20+11` +11 / `dice: 1d20+6` +6] ([[finesse]]), **Damage** `dice: 2d6+5` (2d6+5) piercing plus anadi venom"
+    desc: "1 fangs 1d20+16` +16 [`dice: 1d20+11` +11 / `dice: 1d20+6` +6] ([[finesse]]), **Damage** `dice: 2d6+5` (2d6+5) piercing plus anadi venom"
   - name: Ranged
     desc: "1 composite longbow `dice: 1d20+16` +16 [`dice: 1d20+11` +11 / `dice: 1d20+6` +6] ([[deadly]] 1d10, [[propulsive]], [[range]] increment 100 feet, [[reload]] 0, [[volley]] 30 feet), **Damage** `dice: 1d8+1` (1d8+1) piercing"
   - name: Anadi Venom
@@ -42,18 +42,16 @@ offense:
     desc: "([[concentrate]], [[exploration]], [[manipulate]]) By spending several minutes, an anadi can produce silk to craft items made of cloth. A single anadi can produce enough silk in a day to craft a single garment."
 modifier: +15
 armorclass: 23
-sourcebook: "[Age of Ashes #1: Hellknight Hill](https://paizo.com/products/btq024tw), *page 85*."
+sourcebook: "*Age of Ashes #1: Hellknight Hill*, *page 85*."
 spells0:
   - name: Arcane Innate Spells
     desc: "DC 25, attack +17\n - **3rd:** [[hypnotic pattern]], [[invisibility sphere]]\n - **2nd:** [[blur]], [[invisibility]], [[mirror image]]\n - **1st:** [[color spray]], [[illusory disguise]], [[illusory object]]\n - **Cantrips (3rd):** [[detect magic]], [[electric arc]], [[ghost sound]], [[mage hand]], [[message]]"
 ---
 
-
-
 [Archive Link](https://2e.aonprd.com/Monsters.aspx?ID=432)
 
 ```statblock
-layout: Pathfinder Second Edition
+layout: Test2e
 monster: Anadi Elder
 ```
 
