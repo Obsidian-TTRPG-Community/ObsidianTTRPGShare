@@ -2,7 +2,7 @@
 
 ## What does it Looks Like?
 
-![BnB Layout Version 1](BNB-V1.png)
+![BnB Layout Version 1](_attachments/BNB-V1.png)
 
 ## The Codeblock
 
@@ -129,4 +129,4 @@ loot:
 
 ## Explanatory Screenshot
 
-![Explanation in a Screenshot](BNB-Explanation.png)  
+![Explanation in a Screenshot](_attachments/BNB-Explanation.png)  

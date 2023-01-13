@@ -24,4 +24,4 @@ Super Badass Enemies also have the following compared to their non-Super Badass 
 Additionally, they get a two modifiers from the table below, rolled at random or chosen by the BM.
 
 (Link to your Modifier Table Below)
-![[Badass-Enemies-Tags-Table#^bunkersBadassEnemyTags]]
+![](Badass-Enemies-Tags-Table#^bunkersBadassEnemyTags)
