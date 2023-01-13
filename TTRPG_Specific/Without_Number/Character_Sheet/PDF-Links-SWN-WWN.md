@@ -3,7 +3,7 @@ _for Worlds & Stars Without Number_
 
 List of character sheets and their creators can be found below.
 
-_Note this file is only for PDF versions, please see [this](https://) for Obsidian based Character Sheets!_
+_Note this file is only for PDF versions, please see [this](/TTRPG_Specific/Without_Number/Character_Sheet/Obsidian-Links-SWN-WWN.md) for Obsidian based Character Sheets!_
 
 
 ### Combined Character Sheet
