@@ -1,0 +1,30 @@
+# Incapacitation
+#pf2e/trait 
+*Source* Core Rulebook pg. 633 3.0
+
+An ability with this trait can take a character completely out of the fight or even kill them, and it’s harder to use on a more powerful character. If a spell has the incapacitation trait, any creature of more than twice the spell’s level treats the result of their check to prevent being incapacitated by the spell as one degree of success better, or the result of any check the spellcaster made to incapacitate them as one degree of success worse.
+
+If any other effect has the incapacitation trait, a creature of higher level than the item, creature, or hazard generating the effect gains the same benefits.
+
+--- 
+
+### Actions
+[Master Strike](Master%20Strike)
+
+### Curses
+[Curse of Slumber](Curse%20of%20Slumber)
+
+### Equipment
+[Dream Pollen Snare](Dream%20Pollen%20Snare), [Dreaming Round](Dreaming%20Round), [Drover's Band](Drover's%20Band), [Lethargy Poison](Lethargy%20Poison), [Spirit-Sealing Fulu](Spirit-Sealing%20Fulu), [Stupor Poison](Stupor%20Poison), [Tusk and Fang Chain](Tusk%20and%20Fang%20Chain)
+
+### Feats
+[Calaca's Showstopper](Calaca's%20Showstopper), [Critical Debilitations](Critical%20Debilitations), [Instigate Psychic Duel](Instigate%20Psychic%20Duel), [Oneiric Influence](Oneiric%20Influence), [Paralyzing Slash](Paralyzing%20Slash), [Radiant Burst](Radiant%20Burst), [Sabotage](Sabotage), [Scare to Death](Scare%20to%20Death), [Silencing Strike](Silencing%20Strike), [Sleeper Hold](Sleeper%20Hold), [Swap Reflections](Swap%20Reflections)
+
+### Focus Spells
+[Blinding Beauty](../Spells_Rituals/Focus%20Spells/Level%203/Blinding%20Beauty.md), [Charming Touch](../Spells_Rituals/Focus%20Spells/Level%201/Charming%20Touch.md), [Charming Words](../Spells_Rituals/Focus%20Spells/Level%201/Charming%20Words.md), [Claim Undead](../Spells_Rituals/Focus%20Spells/Level%206/Claim%20Undead.md), [Commanding Lash](../Spells_Rituals/Focus%20Spells/Level%204/Commanding%20Lash.md), [Dreamer's Call](../Spells_Rituals/Focus%20Spells/Level%204/Dreamer's%20Call.md), [Eject Soul](../Spells_Rituals/Focus%20Spells/Level%201/Eject%20Soul.md), [Overflowing Sorrow](../Spells_Rituals/Focus%20Spells/Level%204/Overflowing%20Sorrow.md), [Pied Piping](../Spells_Rituals/Focus%20Spells/Level%2010/Pied%20Piping.md), [Quivering Palm](../Spells_Rituals/Focus%20Spells/Level%208/Quivering%20Palm.md), [Shared Nightmare](../Spells_Rituals/Focus%20Spells/Level%204/Shared%20Nightmare.md), [Stasis](../Spells_Rituals/Focus%20Spells/Level%204/Stasis.md), [You're Mine](../Spells_Rituals/Focus%20Spells/Level%205/You're%20Mine.md)
+
+### Hazards
+[Color Spray Trap](Color%20Spray%20Trap)
+
+### Spells
+[Aromatic Lure](../Spells_Rituals/Arcane_Tradition/Level%204/Aromatic%20Lure.md), [Astral Labyrinth](../Spells_Rituals/Arcane_Tradition/Level%209/Astral%20Labyrinth.md), [Baleful Polymorph](../Spells_Rituals/Arcane_Tradition/Level%206/Baleful%20Polymorph.md), [Banishment](../Spells_Rituals/Arcane_Tradition/Level%205/Banishment.md), [Behold the Weave](../Spells_Rituals/Arcane_Tradition/Level%203/Behold%20the%20Weave.md), [Blinding Fury](../Spells_Rituals/Arcane_Tradition/Level%206/Blinding%20Fury.md), [Blindness](../Spells_Rituals/Arcane_Tradition/Level%203/Blindness.md), [Calm Emotions](../Spells_Rituals/Arcane_Tradition/Level%202/Calm%20Emotions.md), [Charitable Urge](../Spells_Rituals/Arcane_Tradition/Level%202/Charitable%20Urge.md), [Charm](../Spells_Rituals/Arcane_Tradition/Level%201/Charm.md), [Color Spray](../Spells_Rituals/Arcane_Tradition/Level%201/Color%20Spray.md), [Compel True Name](../Spells_Rituals/Arcane_Tradition/Level%204/Compel%20True%20Name.md), [Déjà Vu](../Spells_Rituals/Arcane_Tradition/Level%201/Déjà%20Vu.md), [Dominate](../Spells_Rituals/Arcane_Tradition/Level%206/Dominate.md), [Fabricated Truth](../Spells_Rituals/Arcane_Tradition/Level%2010/Fabricated%20Truth.md), [Falling Sky](../Spells_Rituals/Arcane_Tradition/Level%208/Falling%20Sky.md), [Favorable Review](../Spells_Rituals/Arcane_Tradition/Level%204/Favorable%20Review.md), [Feeblemind](../Spells_Rituals/Arcane_Tradition/Level%206/Feeblemind.md), [Glimmer of Charm](../Spells_Rituals/Arcane_Tradition/Level%205/Glimmer%20of%20Charm.md), [Hallucination](../Spells_Rituals/Arcane_Tradition/Level%205/Hallucination.md), [Hypnopompic Terrors](../Spells_Rituals/Arcane_Tradition/Level%208/Hypnopompic%20Terrors.md), [Impending Doom](../Spells_Rituals/Arcane_Tradition/Level%203/Impending%20Doom.md), [Magical Fetters](../Spells_Rituals/Arcane_Tradition/Level%203/Magical%20Fetters.md), [Maze of Locked Doors](../Spells_Rituals/Arcane_Tradition/Level%207/Maze%20of%20Locked%20Doors.md), [Ocular Overload](../Spells_Rituals/Arcane_Tradition/Level%204/Ocular%20Overload.md), [Overwhelming Presence](../Spells_Rituals/Arcane_Tradition/Level%209/Overwhelming%20Presence.md), [Paralyze](../Spells_Rituals/Arcane_Tradition/Level%203/Paralyze.md), [Phantom Prison](../Spells_Rituals/Arcane_Tradition/Level%203/Phantom%20Prison.md), [1 TTRPG/PF2e Wiki/Traits/Possession](1%20TTRPG/PF2e%20Wiki/Traits/Possession), [Scintillating Pattern](../Spells_Rituals/Arcane_Tradition/Level%208/Scintillating%20Pattern.md), [1 TTRPG/PF2e Wiki/Traits/Sleep](1%20TTRPG/PF2e%20Wiki/Traits/Sleep), [Subconscious Suggestion](../Spells_Rituals/Arcane_Tradition/Level%205/Subconscious%20Suggestion.md), [Suggestion](../Spells_Rituals/Arcane_Tradition/Level%204/Suggestion.md), [Synaptic Pulse](../Spells_Rituals/Arcane_Tradition/Level%205/Synaptic%20Pulse.md), [Telepathic Demand](../Spells_Rituals/Arcane_Tradition/Level%209/Telepathic%20Demand.md), [Uncontrollable Dance](../Spells_Rituals/Arcane_Tradition/Level%208/Uncontrollable%20Dance.md), [Undermine Reality](../Spells_Rituals/Arcane_Tradition/Level%208/Undermine%20Reality.md), [Unfathomable Song](../Spells_Rituals/Arcane_Tradition/Level%209/Unfathomable%20Song.md), [Vibrant Pattern](../Spells_Rituals/Arcane_Tradition/Level%206/Vibrant%20Pattern.md), [Warp Mind](../Spells_Rituals/Arcane_Tradition/Level%207/Warp%20Mind.md)

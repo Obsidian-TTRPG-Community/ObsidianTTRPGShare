@@ -1,0 +1,13 @@
+# Agile
+#pf2e/trait 
+*Source* Core Rulebook pg. 282 3.0
+
+The multiple attack penalty you take with this weapon on the second attack on your turn is –4 instead of –5, and –8 instead of –10 on the third and subsequent attacks in the turn.
+
+---
+
+### Monk Unarmed Attacks
+[Cobra Fang](Cobra%20Fang), [Crane Wing](Crane%20Wing), [Fire Talon](Fire%20Talon), [Flowing Wave](Flowing%20Wave), [Lashing Branch](Lashing%20Branch), [Shadow Grasp](Shadow%20Grasp), [Stumbling Swing](Stumbling%20Swing), [Tiger Claw](Tiger%20Claw), [Wind Crash](Wind%20Crash), [Wolf Jaw](Wolf%20Jaw)
+
+### Weapons
+[Air repeater](Air%20repeater), [Bayonet](Bayonet), [Black Powder Knuckle Dusters](Black%20Powder%20Knuckle%20Dusters), [Bladed Gauntlet](Bladed%20Gauntlet), [Blowgun](Blowgun), [Boarding Axe](Boarding%20Axe), [Butterfly Sword](Butterfly%20Sword), [Buugeng](Buugeng), [Clan Dagger](Clan%20Dagger), [Claw Blade](Claw%20Blade), [Dagger](Dagger), [Dagger Pistol](Dagger%20Pistol), [Dart](Dart), [Dart Umbrella](Dart%20Umbrella), [Dogslicer](Dogslicer), [Exquisite Sword Cane](Exquisite%20Sword%20Cane), [Exquisite Sword Cane Sheath](Exquisite%20Sword%20Cane%20Sheath), [Fangwire](Fangwire), [Fighting Fan](Fighting%20Fan), [Filcher's Fork](Filcher's%20Fork), [Fire Poi](Fire%20Poi), [Fist](Fist), [Forked Bipod](Forked%20Bipod), [Gauntlet](Gauntlet), [Hand Adze](Hand%20Adze), [Hatchet](Hatchet), [Juggling Club](Juggling%20Club), [Kama](Kama), [Karambit](Karambit), [Katar](Katar), [Knuckle Duster](Knuckle%20Duster), [Kukri](Kukri), [Light Hammer](Light%20Hammer), [Light Mace](Light%20Mace), [Light Pick](Light%20Pick), [Lion Scythe](Lion%20Scythe), [Main-gauche](Main-gauche), [Nightstick](Nightstick), [Orc Knuckle Dagger](Orc%20Knuckle%20Dagger), [Piranha Kiss](Piranha%20Kiss), [Poi](Poi), [Polytool](Polytool), [Reinforced Frame](Reinforced%20Frame), [Sai](Sai), [Sap](Sap), [Sawtooth Saber](Sawtooth%20Saber), [Scourge](Scourge), [Shauth Blade](Shauth%20Blade), [Shortsword](Shortsword), [Shuriken](Shuriken), [Sickle](Sickle), [Spiked Gauntlet](Spiked%20Gauntlet), [Starknife](Starknife), [Stiletto Pen](Stiletto%20Pen), [Sword Cane](Sword%20Cane), [Tamchal Chakram](Tamchal%20Chakram), [Tekko-kagi](Tekko-kagi), [Tengu Gale Blade](Tengu%20Gale%20Blade), [Throwing Knife](Throwing%20Knife), [Thunder Sling](Thunder%20Sling), [Tonfa](Tonfa), [Wakizashi](Wakizashi), [War Razor](War%20Razor), [Wheel Blades](Wheel%20Blades), [Wheel Spikes](Wheel%20Spikes), [Wind and Fire Wheel](Wind%20and%20Fire%20Wheel), [Wish Knife](Wish%20Knife)
