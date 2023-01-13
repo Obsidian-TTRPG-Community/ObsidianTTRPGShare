@@ -8,14 +8,14 @@ date_created: <% tp.file.creation_date("YYYY-MM-DD")%>
 cssclasses: cards
 ---
 > [!info]- Resources:
-> * **[[Dungeon23 Project]]**
+> * **[Dungeon23 Project](Dungeon23%20Project)**
 > * **Dungeon Scrawl** for drawing maps: https://app.dungeonscrawl.com/
 > * > [!NOTE]+ Dice Tray:
 > 
 | **d100**:`dice: d100` | **d20**: `dice: d20` | **d12**: `dice: d12` | **d10**: `dice: d10` | **d8** `dice: d8`  | **d6**: `dice: d6`  | **d4**: `dice: d4`  |
 | --------------------- | -------------------- | --- | --- | --- | --- | --- |
 
-#### Level:: [[Dungeon23 Week <%tp.date.now("WW")%>]]
+#### Level:: [Dungeon23 Week <%tp.date.now("WW")%>](Dungeon23%20Week%20<%tp.date.now("WW")%>)
 #### Connected Rooms:
 
 # Room:

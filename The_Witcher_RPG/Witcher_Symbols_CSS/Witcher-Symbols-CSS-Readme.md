@@ -2,7 +2,7 @@
 
 I (Craftidore) haven't actually played the Witcher RPG, but Seth asked me to create a tags-to-symbols CSS snippet for the game similar to my [Genesys Dice snippet](<https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/tree/main/TTRPG Specific/Genesys/Genesys-Further-Resources>). If there are any errors with Witcher symbols (esp. stuff like symbols not matching up with the right tags) let me know by @ing me on the Obsidian discord.
 
-The CSS snippet to install can be found [here](src/witcher.css), and the source scss can be found [here](src/witcher.scss).
+The CSS snippet to install can be found [here](_attachments/witcher.css), and the source scss can be found [here](_attachments/witcher.scss).
 
 ### Additional Info
 

@@ -2,9 +2,9 @@
 
 __Dependencies__:
 
-[__foreveryones_dropcaps.css__](css/foreveryones_dropcaps.css) from the css folder
+[__foreveryones_dropcaps.css__](foreveryones_dropcaps.css) from this folder.
 
-[__William Morris Letter Clipart @ Open Clipart__](https://openclipart.org/search/?query=William+Morris) from the images folder
+[__William Morris Letter Clipart @ Open Clipart__](https://openclipart.org/search/?query=William+Morris) from this folder.
 
 *All content under Open Clipart is licensed under* [*__Creative Commons 1.0 License__*](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -12,7 +12,7 @@ __Thanks to__: [__Foreveryone1__](https://github.com/foreveryone1)
 
 ## What It May Look Like
 
-![lorem_ipsum](images/foreveryones_lorem_ipsum.png)
+![lorem_ipsum](_attachments/foreveryones_lorem_ipsum.png)
 
 ## How To Install
 
@@ -41,6 +41,6 @@ height: 150px;
 
 This snippet has been tested on Default, Minimal, ITS Theme, Ebullientworks, AnuPpuccin, Wyrd, and Shimmering Focus. It worked on every theme and you will find some slight variances on the spacing distance from the icon to the text as expected. However, it suffered from the same issue on dark backgrounds; the letter disappears.Here it is on AnuPpuccin, for example.
 
-![sigrunixia_dropcap_darktest1](images/sigrunixia_dropcap_darktest1.png)
+![sigrunixia_dropcap_darktest1](_attachments/sigrunixia_dropcap_darktest1.png)
 
 > __Note__: A callout background is underway for this dropcap CSS to be used for light and dark backgrounds, and is undergoing additional testing. This page will be updated when it is released.

@@ -17,7 +17,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![](../_attachments/SONDLecT_Item.png)
+![](_attachments/SONDLecT_Item.png)
 
 
 
