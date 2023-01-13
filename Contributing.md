@@ -12,3 +12,4 @@ All contributions are subject to the **[Developer Certificate of Origin (DCO)](
 2. Include a general description of what you are submitting.
 3. Licenses in this repository are MIT by default. If you operate under a different license, please include it with your submission.
 4. If you are a contributor with a Ko.Fi, patreon, or other similar link, add yourself to the dice roll table at the bottom of the Readme.
+5. Please slugify your file names. The dreaded `%20` has plagued us long enough.  
