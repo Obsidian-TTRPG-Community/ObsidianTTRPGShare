@@ -7,7 +7,7 @@ To facilitate the rapid changes happening in the community and to make content a
 
 **Old:** `Type of Content -> TTRPG-System`
 
-**New:** `TTRPG-System -> Type of Content`
+**New:** `TTRPG-System -> Subtype (If Applicable) -> Type of Content`
 
 ## Goals
 
