@@ -1,5 +1,6 @@
 # Arcane Weaving
-#pf2e/ritual/level_3
+
+# pf2e/ritual/level_3
 ==[Uncommon](../../../Traits/Uncommon.md)== ==[Divination](../../../Traits/Divination.md)==
 *Source* Pathfinder Release 169: Kindled Magic pg. 79
 **Cast** 1 day; **Cost** rare silks worth a total value of 20 gp × the spell level; **Secondary Casters** 1
