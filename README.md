@@ -1,9 +1,10 @@
 # ObsidianTTRPGShare
 
-This is a repository for the downloading and sharing TTRPG elements that may be useful for [**Obsidian**](https://obsidian.md) TTRPG Users. We also utilize this repository as a headquarters to plan community building and philanthropy. 
+This is a repository for the downloading and sharing TTRPG elements that may be useful for [**Obsidian**](https://obsidian.md) TTRPG Users. We also utilize this repository as a headquarters to plan community building and philanthropy.
 
 ## New as of January 2023
-To facilitate the rapid changes happening in the community and to make content as easy to find as possible, the repository has switched it's structure. 
+
+To facilitate the rapid changes happening in the community and to make content as easy to find as possible, the repository has switched it's structure.
 
 **Old:** `Type of Content -> TTRPG-System`
 
