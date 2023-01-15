@@ -7,7 +7,11 @@ statblock: true
 source: Pathfinder
 name: Pit Fiend
 level: 20
-traits: LE, Large, Devil, Fiend
+traits: 
+  - LE
+  - Large
+  - Devil
+  - Fiend
 perception: +37
 senses:
   - greater darkvision;
