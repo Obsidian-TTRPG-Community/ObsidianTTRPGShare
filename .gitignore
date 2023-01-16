@@ -5,8 +5,11 @@
 .obsidian
 .trash
 
-# Ignore vscode
+# Ignore vscode and friends
 .vscode
+node_modules
+package-lock.json
+package.json
 
 # Activity Data
 sync.log
