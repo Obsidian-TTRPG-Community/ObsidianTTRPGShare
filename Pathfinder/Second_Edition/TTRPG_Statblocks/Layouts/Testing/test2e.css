@@ -69,7 +69,7 @@ Our Base for Statblocks Variables
 .statblock.test2e {
 	/* Design Colors */
 	--statblock-background-color: #f6f4f2;
-	--statblock-border-color: rgb(51, 51, 51);
+	--statblock-border-color:rgb(51, 51, 51);
 	--statblock-bar-border-color: rgb(51, 51, 51);
 	--statblock-rule-color: rgb(51, 51, 51);
 	--statblock-bar-color: rgb(51, 51, 51);
@@ -184,6 +184,25 @@ Theme Specific Fixes at the End. I cannot ccount for everything in a statblock a
 	border: none;
 }
 
+/* attempt to assert font glyphs as king */
+.statblock.test2e p {
+	font-family: "Pathfinder", system-ui, -apple-system,
+	BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+	"Open Sans", "Helvetica Neue", sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+.statblock.test2e body {
+	font-family: "Pathfinder", system-ui, -apple-system,
+	BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+	"Open Sans", "Helvetica Neue", sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
 /* Font Fixes for H3 in Pf2e */
 .statblock.test2e h3,
 .markdown-rendered h3,
@@ -195,9 +214,12 @@ Theme Specific Fixes at the End. I cannot ccount for everything in a statblock a
 	line-height: var(--statblock-h3-line-height);
 	font-size: var(--statblock-h3-size);
 	color: var(--statblock-h3-color);
-	font-weight: var(--statblock-h3-weight);
-	font-style: var(--statblock-h3-font-style);
-	font-family: var(--statblock-h3-font-family);
+	font-family: "Pathfinder", system-ui, -apple-system,
+	BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+	"Open Sans", "Helvetica Neue", sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
 }
 
 /* Help the Hyperlinks! */
@@ -209,6 +231,12 @@ a {
 	font-style: var(--statblock-hyperlink-font-weight);
 	text-decoration: var(--statblock-hyperlink-text-decoration);
 	text-underline-position: var(--statblock-hyperlink-text-underline-position);
+	font-family: "Pathfinder", system-ui, -apple-system,
+	BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+	"Open Sans", "Helvetica Neue", sans-serif;
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
 }
 
 /* Bai Bai Big Top Bar, Hello Tiny Top Bar */
@@ -223,33 +251,34 @@ a {
 
 /* Fix the TRAITS! BIGGGGG section */
 .statblock.test2e .statblock-item-inline {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	align-content: flex-start;
-	align-items: baseline;
-	justify-content: flex-start;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: baseline;
+    justify-content: flex-start;
 }
 
 .statblock.test2e .rare_01 {
-	background-color: rgb(54, 69, 79);
-	/* common */
+    background-color: rgb(54, 69, 79);
+    /* common */
 }
 
 .statblock.test2e .rare_02 {
-	background-color: rgb(143, 85, 66);
-	/* uncommon */
+    background-color: rgb(143, 85, 66)
+    /* uncommon */
 }
 
 .statblock.test2e .rare_03 {
-	background-color: rgb(11, 37, 96);
-	/* rare */
+    background-color: rgb(11, 37, 96)
+    /* rare */
 }
 
 .statblock.test2e .rare_04 {
-	background-color: rgb(77, 27, 106);
-	/* unique */
+    background-color: rgb(77, 27, 106)
+    /* unique */
 }
+
 
 .statblock.test2e .alignment {
 	background-color: rgb(89, 98, 143);
@@ -287,11 +316,11 @@ a {
 	font-style: var(--statblock-subheading-font-style);
 	font-weight: var(--statblock-subheading-font-weight);
 	letter-spacing: var(--statblock-subheading-letter-spacing);
-	min-width: var(--statblock-subheading-min-width);
+ 	min-width: var(--statblock-subheading-min-width);
 	margin: var(--statblock-subheading-margins);
 	padding: var(--statblock-subheading-padding);
 	text-align: var(--statblock-subheading-text-align);
-	text-transform: var(--statblock-subheading-text-transform);
+	text-transform: var(--statblock-subheading-text-transform); 
 }
 
 /* 
@@ -310,14 +339,13 @@ Now for Specific Fixes!
 
 /* Corrects the Level property to Be Right Attributes and spacing */
 .statblock.test2e .level {
-	color: var(--statblock-heading-font-color);
-	font-size: var(--statblock-heading-font-size);
-	font-weight: var(--statblock-heading-font-weight);
-	line-height: var(--statblock-heading-line-height);
-	text-transform: uppercase;
-	text-align: right;
-	position: relative;
-	left: 68%;
+    color: var(--statblock-heading-font-color);
+    font-size: var(--statblock-heading-font-size);
+    font-weight: var(--statblock-heading-font-weight);
+    line-height: var(--statblock-heading-line-height);
+    text-transform: uppercase;
+    text-align: right;
+    position: sticky;
 }
 
 /* prevents an empty section header from generating a border */
