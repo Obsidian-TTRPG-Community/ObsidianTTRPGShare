@@ -37,7 +37,7 @@ If you have anyone you'd like to support, click their link below and buy them a 
 
 Feeling lucky? How about a roll of the die instead?
 
-> __Roll__:
+> __Roll__: 1d6
 
 |                           Column A                           | Columb B |
 |:------------------------------------------------------------:| -------- |
