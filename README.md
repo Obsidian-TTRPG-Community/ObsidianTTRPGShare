@@ -1,7 +1,3 @@
----
-aliases: ObsidianTTRPGShare
----
-
 # ObsidianTTRPGShare
 
 This is a repository for the downloading and sharing TTRPG elements that may be useful for [**Obsidian**](https://obsidian.md) TTRPG Users. We also utilize this repository as a headquarters to plan community building and philanthropy.
