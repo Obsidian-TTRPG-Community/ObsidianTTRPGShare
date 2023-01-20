@@ -35,7 +35,7 @@ Feeling lucky? How about a roll of the die instead?
 
 > __Roll__: 1d6
 
-|                           Column A                           | Columb B |
+|                           Column A                           | Column B |
 |:------------------------------------------------------------:| -------- |
 | __[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)__ |          |
 |      __[Kepano](https://www.buymeacoffee.com/kepano)__       |          |
