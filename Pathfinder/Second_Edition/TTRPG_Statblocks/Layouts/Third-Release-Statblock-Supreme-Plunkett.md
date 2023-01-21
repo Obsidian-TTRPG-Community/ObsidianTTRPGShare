@@ -30,7 +30,7 @@ Now to focus on CSS Balancing. As you can see, if name is too long, Creature fre
 # They are not attached to any blocks, so feel free to keep this in any custom statblocks you make for easy copy and paste. 
 oneA: ⬻ # U+2b3b
 twoA: ⬺ # U+2b3a
-threeA: ⬺ # U+2b3d
+threeA: ⬽ # U+2b3d
 delay: ⭓ # U+2b53
 react: ⬲ # U+2b32
 
