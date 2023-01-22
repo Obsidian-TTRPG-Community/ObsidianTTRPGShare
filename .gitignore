@@ -32,3 +32,9 @@ pw.*
 *.kdbx
 *.pfx
 *.key
+.markdownlint.yml
+.gitignore
+.gitignore
+.stylelintrc.json
+.prettierrc
+.markdownlintignore
