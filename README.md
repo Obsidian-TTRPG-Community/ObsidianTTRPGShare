@@ -6,9 +6,9 @@ This is a repository for the downloading and sharing TTRPG elements that may be 
 
 To facilitate the rapid changes happening in the community and to make content as easy to find as possible, the repository has switched it's structure.
 
-__Old:__ `Type of Content -> TTRPG-System`
+**Old:** `Type of Content -> TTRPG-System`
 
-__New:__ `TTRPG-System -> Subtype (If Applicable) -> Type of Content`
+**New:** `TTRPG-System -> Subtype (If Applicable) -> Type of Content`
 
 ## Goals
 
@@ -33,7 +33,7 @@ If you have anyone you'd like to support, click their link below and buy them a 
 
 Feeling lucky? How about a roll of the die instead?
 
-> __Roll__: 1d6
+> **Roll**: 1d6
 
 |                           Column A                           | Column B |
 |:------------------------------------------------------------:| -------- |
