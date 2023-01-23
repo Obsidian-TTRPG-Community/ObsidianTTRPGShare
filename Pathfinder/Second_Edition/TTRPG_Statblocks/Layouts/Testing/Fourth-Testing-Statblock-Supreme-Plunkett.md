@@ -98,7 +98,7 @@ abilities_top:
 - name: Happy Presence
   desc: "([[aura]], [[emotion]], [[happy]], [[mental]]); 90 feet, DC 46."
 - name: Sunlight Shinies
-  desc: "A Plunkett at the sun's Zenith is [[Happy]] and [[Beaming]]. He gains an [[Extra Attack]] of choice for thirty minutes minutes after soaking in the Sun's rays. The effect is cancelled or negated by clouds, and is halved by an eclipse of any kind."
+  desc: "A Plunkett at\n the sun's Zenith is [[Happy]] and [[Beaming]]. He gains an [[Extra Attack]] of choice for thirty minutes minutes after soaking in the Sun's rays. The effect is cancelled or negated by clouds, and is halved by an eclipse of any kind."
 
 # AC, Fort, Ref, and Will on the same line. Add : after the bold underscores to trigger a roll detection. Dont want rolls? Disable in addon, or remove the :.
 

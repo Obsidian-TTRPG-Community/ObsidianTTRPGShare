@@ -6,9 +6,9 @@ This is a repository for the downloading and sharing TTRPG elements that may be 
 
 To facilitate the rapid changes happening in the community and to make content as easy to find as possible, the repository has switched it's structure.
 
-**Old:** `Type of Content -> TTRPG-System`
+__Old:__ `Type of Content -> TTRPG-System`
 
-**New:** `TTRPG-System -> Subtype (If Applicable) -> Type of Content`
+__New:__ `TTRPG-System -> Subtype (If Applicable) -> Type of Content`
 
 ## Goals
 
@@ -27,15 +27,19 @@ This content is only possible through the combined efforts of a fellow Table Top
 >
 >_Elsewise, @Sigrunixia will find it and add it, eventually._
 
-## Feel like buying coffees?
+## Feel Like Buying Coffees?
 
 If you have anyone you'd like to support, click their link below and buy them a coffee.
 
 Feeling lucky? How about a roll of the die instead?
 
-| d4 |
-|:---:|
-|**[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)**|
-|**[Kepano](https://www.buymeacoffee.com/kepano)**|
-|**[SlRvb](https://ko-fi.com/slrvb)** |
-|**[Yilmas](https://ko-fi.com/yilmas)** |
+> __Roll__: 1d6
+
+|                           Column A                           | Column B |
+|:------------------------------------------------------------:| -------- |
+| __[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)__ |          |
+|      __[Kepano](https://www.buymeacoffee.com/kepano)__       |          |
+|             __[SlRvb](https://ko-fi.com/slrvb)__             |          |
+|            __[Yilmas](https://ko-fi.com/yilmas)__            |          |
+|        __[Sigrunixia](https://ko-fi.com/sigrunixia)__        |          |
+|        __[Nicholevdh](https://ko-fi.com/nicolevdh)__         |          |
