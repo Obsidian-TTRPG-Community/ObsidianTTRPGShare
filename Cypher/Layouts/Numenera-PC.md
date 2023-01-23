@@ -54,4 +54,4 @@ attacks:
 
 This is what the above code should look like when rendered:
 
-![Numenera PC statblock](_attachments/numenera-pc-sample.png_)
+![Numenera PC statblock](_attachments/numenera-pc-sample.png)
