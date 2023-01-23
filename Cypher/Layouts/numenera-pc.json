@@ -1,0 +1,218 @@
+{
+    "name": "Numenera PC",
+    "blocks": [
+    {
+        "type": "heading",
+        "id": "e95a2bcb689b",
+        "properties": [
+        "name"
+        ],
+        "size": 1,
+        "fallback": "-"
+    },
+    {
+        "type": "image",
+        "id": "2aaad8da3b9a",
+        "properties": [
+        "image"
+        ],
+        "fallback": "-"
+    },
+    {
+        "type": "property",
+        "id": "a82908abe849",
+        "properties": [
+        "descriptor"
+        ],
+        "fallback": "-",
+        "display": "Descriptor"
+    },
+    {
+        "type": "property",
+        "id": "787b0ad93998",
+        "properties": [
+        "type"
+        ],
+        "fallback": "-",
+        "display": "Type"
+    },
+    {
+        "type": "property",
+        "id": "58e9aa0a2b69",
+        "properties": [
+        "focus"
+        ],
+        "fallback": "-",
+        "display": "Focus"
+    },
+    {
+        "type": "property",
+        "id": "b8b8fa6a2bfb",
+        "properties": [
+        "armor"
+        ],
+        "fallback": "-",
+        "display": "Armor"
+    },
+    {
+        "type": "property",
+        "id": "c899eb49fb3b",
+        "properties": [
+        "tier"
+        ],
+        "fallback": "-",
+        "display": "Tier"
+    },
+    {
+        "type": "property",
+        "id": "dbcb8af8eb9b",
+        "properties": [
+        "effort"
+        ],
+        "fallback": "-",
+        "display": "Effort"
+    },
+    {
+        "type": "property",
+        "id": "e9493b481bfb",
+        "properties": [
+        "xp"
+        ],
+        "fallback": "-",
+        "display": "XP",
+        "hasRule": true
+    },
+    {
+        "type": "inline",
+        "id": "9bba18c9bb78",
+        "properties": [],
+        "nested": [
+        {
+            "type": "property",
+            "id": "eb68b879c949",
+            "properties": [
+            "might"
+            ],
+            "fallback": "-",
+            "display": "Might"
+        },
+        {
+            "type": "property",
+            "id": "2b8b58398989",
+            "properties": [
+            "mightedge"
+            ],
+            "fallback": "-",
+            "display": "Might Edge"
+        }
+        ]
+    },
+    {
+        "type": "inline",
+        "id": "2b9bfb2a080b",
+        "properties": [],
+        "nested": [
+        {
+            "type": "property",
+            "id": "d8f8286b3beb",
+            "properties": [
+            "speed"
+            ],
+            "fallback": "-",
+            "display": "Speed"
+        },
+        {
+            "type": "property",
+            "id": "6a783a7a1ba9",
+            "properties": [
+            "speedcost"
+            ],
+            "fallback": "-",
+            "display": "Speed Cost"
+        },
+        {
+            "type": "property",
+            "id": "c9a90bcb79a9",
+            "properties": [
+            "speedEdge"
+            ],
+            "fallback": "-",
+            "display": "Speed Edge"
+        }
+        ]
+    },
+    {
+        "type": "inline",
+        "id": "08fa4ae8797a",
+        "properties": [],
+        "nested": [
+        {
+            "type": "property",
+            "id": "c9c9095b4b2a",
+            "properties": [
+            "intellect"
+            ],
+            "fallback": "-",
+            "display": "Intellect"
+        },
+        {
+            "type": "property",
+            "id": "2b9b39b87948",
+            "properties": [
+            "intellectedge"
+            ],
+            "fallback": "-",
+            "display": "Intellect Edge",
+            "hasRule": false
+        }
+        ],
+        "hasRule": true
+    },
+    {
+        "type": "traits",
+        "id": "48b88b0bbbd9",
+        "properties": [
+        "abilities"
+        ],
+        "fallback": "- [Hedge Magic, 1 Intellect point.]",
+        "heading": "Special Abilities"
+    },
+    {
+        "type": "traits",
+        "id": "ca2a09d99b59",
+        "properties": [
+        "cyphers"
+        ],
+        "fallback": "- [Gravity-nullifying spray, Description]",
+        "heading": "Cyphers",
+        "markdown": true
+    },
+    {
+        "type": "traits",
+        "id": "7b19398be908",
+        "properties": [
+        "skills"
+        ],
+        "fallback": "- [Understanding numenera, trained.]",
+        "heading": "Skills"
+    },
+    {
+        "type": "traits",
+        "id": "5acb69d99b6b",
+        "properties": [
+        "equipment"
+        ],
+        "fallback": "- [Oddity, Description]",
+        "heading": "Equipment"
+    },
+    {
+        "type": "traits",
+        "id": "fac9aa6aa91a",
+        "properties": [
+        "attacks"
+        ],
+        "fallback": "- [Onslaught, 2 Intellect points. Description]",
+        "heading": "Attacks"
+    }
+    ]
+}
