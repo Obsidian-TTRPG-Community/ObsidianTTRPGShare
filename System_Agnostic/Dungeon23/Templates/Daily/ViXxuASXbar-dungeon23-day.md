@@ -4,7 +4,7 @@ tags:
   - dungeon23
   - dungeon23/day
   - dnd
-date_created: <% tp.file.creation_date("YYYY-MM-DD")%>
+date_created: 2023-01-23
 cssclasses: cards
 ---
 > [!info]- Resources:
@@ -15,7 +15,7 @@ cssclasses: cards
 | **d100**:`dice: d100` | **d20**: `dice: d20` | **d12**: `dice: d12` | **d10**: `dice: d10` | **d8** `dice: d8`  | **d6**: `dice: d6`  | **d4**: `dice: d4`  |
 | --------------------- | -------------------- | --- | --- | --- | --- | --- |
 
-#### Level:: [Dungeon23 Week <%tp.date.now("WW")%>](Dungeon23%20Week%20<%tp.date.now("WW")%>)
+#### Level:: [Dungeon23 Week 04](Dungeon23%20Week%2004)
 #### Connected Rooms:
 
 # Room:
@@ -48,8 +48,7 @@ cssclasses: cards
 TABLE 
 Map AS "Room",
 Description AS "Description"
-FROM #dungeon23-day AND [[Dungeon23 Week <%tp.date.now("WW")%>]] AND -"Templates"
+FROM #dungeon23-day AND [[Dungeon23 Week 04]] AND -"Templates"
 ```
 
 
-<% await tp.file.move("/dnd/dungeon23/" + tp.date.now("YYYY-MM-DD") + " Daily Dungeon23")%>

@@ -27,16 +27,16 @@ Once those are gone, the template is ready to be used in Obsidian.
 Remove this line and all the ones above it.
 
 ---
-alias: "Week of <% moment().isoWeekday(7).format("Do MMMM YYYY") %>"
+alias: "Week of 29th January 2023"
 type: "session-notes"
 tags:
   - "dnd" 
   - "session-notes"
-date_created: <% tp.file.creation_date("YYYY-MM-DD")%>
+date_created: 2023-01-23
 dnd_session_date: 
 summary: [""]
 ---
-# Session Notes: <% moment().isoWeekday(7).format("MMMM Do YYYY") %>
+# Session Notes: January 29th 2023
 #session-notes 
 ```ad-example
 title: Log
@@ -74,7 +74,7 @@ collapse: open
 ## Select magic item rewards
 
 
-<% await tp.file.move("/dnd/session-notes/" + moment().isoWeekday(7).format("YYYY-MM-DD") + " Session Notes") %>
+
 
 
 Remove this line and all the ones below it.

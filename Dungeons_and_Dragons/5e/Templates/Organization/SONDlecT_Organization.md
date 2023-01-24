@@ -34,8 +34,8 @@ tags:
 aliases:
 type: "organization"
 ---
-# [[<%tp.file.title%>]]
-<% await tp.file.move("/dnd/organizations/" + tp.file.title) %>
+# [[Vital Singularity]]
+
 **Summary**:: 
 
 ## Description:
@@ -43,9 +43,9 @@ Lorem ipsum..
 
 ## Organizational Structure:
 
-### Leader: [[<% await tp.frontmatter.leaders%>]]
+### Leader: [[undefined]]
 
-### Other members of <%tp.file.title%>
+### Other members of Vital Singularity
 * . . .
 
 
@@ -54,7 +54,7 @@ Lorem ipsum..
 ````ad-example
 title: Mentions in Session Notes
 ```dataview
-TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
+TABLE summary AS "Session Summary" FROM #session-notes AND [[Vital Singularity]]
 ```
 ````
 

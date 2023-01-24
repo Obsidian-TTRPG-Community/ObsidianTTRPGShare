@@ -35,15 +35,15 @@ type: "adventure"
 tags:
   - dnd
   - campaign
-  - "<%tp.file.title%>"
+  - "Vital Singularity"
 ruleset: "5th Edition Dungeons and Dragons"
 world: ""
 ---
-# [[<%tp.file.title%>]]
-<% await tp.file.move("/dnd/campaigns/" + tp.file.title) %>
+# [[Vital Singularity]]
+
 
 ```ad-important
-title: <%tp.file.title%> Hook
+title: Vital Singularity Hook
 ***What is this campaign about? What is the goal?***
 Summary:: 
 ```
@@ -77,7 +77,7 @@ title: Campaign Fronts:
 ```
 
 ````ad-tldr
-title: Player Characters in <%tp.file.title%>
+title: Player Characters in Vital Singularity
 ```dataview
 TABLE
 class AS "Character Class",
@@ -85,7 +85,7 @@ race AS "Character Race",
 organization AS "Affiliation",
 ddb_link AS "link:",
 player AS "Player"
-FROM #player-characters AND [[<%tp.file.title%>]]
+FROM #player-characters AND [[Vital Singularity]]
 ```
 ````
 
@@ -94,7 +94,7 @@ FROM #player-characters AND [[<%tp.file.title%>]]
 ````ad-example
 title: Mentions in Session Notes
 ```dataview
-TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
+TABLE summary AS "Session Summary" FROM #session-notes AND [[Vital Singularity]]
 ```
 ````
 

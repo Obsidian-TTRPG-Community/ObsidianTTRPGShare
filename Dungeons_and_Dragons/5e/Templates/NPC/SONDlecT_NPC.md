@@ -36,12 +36,12 @@ tags:
   - "dnd"
   - "npc"
 
-date_added: <% tp.date.now("YYYY-MM-DD") %>
+date_added: 2023-01-23
 ---
-# [[<% tp.file.title %>]]
+# [[Vital Singularity]]
 
 ```ad-example
-title: [[<% tp.file.title %>]]  Raw Data:
+title: [[Vital Singularity]]  Raw Data:
 collapse: closed
 **summary**:: 
 **campaign**:: 
@@ -54,7 +54,7 @@ collapse: closed
 **class**::
 ```
 ```ad-quote
-title: - *<%tp.file.title%>:*
+title: - *Vital Singularity:*
 collapse: open
 *`= this.summary`*
 ```
@@ -85,10 +85,10 @@ title: Statblock
 ````ad-example
 title: Mentions in Session Notes
 ```dataview
-TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
+TABLE summary AS "Session Summary" FROM #session-notes AND [[Vital Singularity]]
 ```
 ````
 
-<% await tp.file.move("/dnd/npc/" + tp.file.title) %>
+
 
 `````

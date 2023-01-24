@@ -38,10 +38,10 @@ tags:
   - "dnd"
   - "location"
 ---
-# <%tp.file.title%>
+# Vital Singularity
 *(Remember: Choose an evocative title)*
 ```ad-example
-title: [[<% tp.file.title %>]]  Raw Data:
+title: [[Vital Singularity]]  Raw Data:
 collapse: closed
 **summary**:: ""
 **location**:: 
@@ -49,21 +49,21 @@ collapse: closed
 **campaign::** 
 ```
 
-# Features of <% tp.file.title %>:
+# Features of Vital Singularity:
 ```ad-note
-title: Three Fantastic Aspects of <%tp.file.title%>
-*Focus on: scale. Big things, old things, vast things. Is <%tp.file.title%> relevant to a character's background?*
+title: Three Fantastic Aspects of Vital Singularity
+*Focus on: scale. Big things, old things, vast things. Is Vital Singularity relevant to a character's background?*
 1. -
 2. -
 3. -
 ```
 
-# <% tp.file.title %> Map(s):
+# Vital Singularity Map(s):
 ````ad-info
 title: Map
 collapse: open
 ```leaflet
-id: "<%tp.file.title%>" 
+id: "Vital Singularity" 
 image:   
 defaultZoom: 6 
 zoomDelta: .5 
@@ -82,11 +82,11 @@ collapse: open
 ````ad-example
 title: Mentions in Session Notes
 ```dataview
-TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
+TABLE summary AS "Session Summary" FROM #session-notes AND [[Vital Singularity]]
 ```
 ````
 
-<% await tp.file.move("/dnd/location/" + tp.file.title) %>
+
 
 Remove this line and the one below it.
 ``````
