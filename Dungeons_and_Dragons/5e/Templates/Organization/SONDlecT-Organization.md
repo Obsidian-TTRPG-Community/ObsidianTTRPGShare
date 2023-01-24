@@ -1,24 +1,24 @@
 # ViXxuASXbar's Organization Template
 
-**Plugin Dependencies**: 
+__Plugin Dependencies__:
 
-[**Admonitions**](https://github.com/valentine195/obsidian-admonition)
+[__Admonitions__](https://github.com/valentine195/obsidian-admonition)
 
-[**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
+[__Dataview__](https://github.com/blacksmithgu/obsidian-dataview)
 
-[**Templater**](https://github.com/SilentVoid13/Templater)
+[__Templater__](https://github.com/SilentVoid13/Templater)
 
-**Thanks To**: [**ViXxuASXbar**](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
-
+__Thanks To__: [__ViXxuASXbar__](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
 
 ## Goals
+
 Provide aesthetically interesting, consistent structure and templates to assist preparing for a D&D session, campaign or adventure.
 
 ## How to Use
-Remove the back-tick code blocks that are marked out with the phrases "Remove this line and the all the ones above it." and "Remove this line and all the ones below it.". 
 
-Once those are gone, the template is ready to be used in Obsidian. 
+Remove the back-tick code blocks that are marked out with the phrases "Remove this line and the all the ones above it." and "Remove this line and all the ones below it.".
 
+Once those are gone, the template is ready to be used in Obsidian.
 
 `````
 Remove this line and the all the ones above it.

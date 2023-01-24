@@ -1,5 +1,5 @@
 
-%% Based on https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template and https://thealexandrian.net/wordpress/46250/roleplaying-games/advanced-npc-templates %%
+%% Based on <https://thealexandrian.net/wordpress/37916/roleplaying-games/universal-npc-roleplaying-template> and <https://thealexandrian.net/wordpress/46250/roleplaying-games/advanced-npc-templates> %%
 
 ## Appearance
 
@@ -9,10 +9,10 @@
 
 ## Roleplaying
 
-%% Shortest section, try to capture a unique voice. **DO NOT REPEAT YOURSELF** %%
+%% Shortest section, try to capture a unique voice. __DO NOT REPEAT YOURSELF__ %%
 
-- <% tp.file.cursor(2) %>
-- 
+* <% tp.file.cursor(2) %>
+*
 
 ## Background
 
@@ -25,7 +25,7 @@
 %% Essential information for the PCs, necessary clues, etc. *NOT* key info about the NPC (that's what background is for). %%
 
 1. <% tp.file.cursor(4) %>
-2. 
+2.
 
 ## Statblock
 
