@@ -11,7 +11,7 @@ traits: rare
 misc: situationalBenefit
 ---
 
-[[### Tide Watcher]]
+[Tide Watcher](###%20Tide%20Watcher)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Where you hail from, the ocean is the lifeblood of your community; knowing how i
 
 Choose two ability boosts. One must be to Charisma or Intelligence, and one is a free ability boost.
 
-You're trained in [[Nature]] and [[Ocean Lore]]. During the night when you can see the moon, you gain a +1 circumstance bonus to [[Survival]] checks to discern weather patterns and predict upcoming weather conditions—this bonus increases to +2 if you're in the vicinity of the ocean.
+You're trained in [Nature](Nature) and [Ocean Lore](Ocean%20Lore). During the night when you can see the moon, you gain a +1 circumstance bonus to [Survival](Survival) checks to discern weather patterns and predict upcoming weather conditions—this bonus increases to +2 if you're in the vicinity of the ocean.
 

@@ -20,4 +20,4 @@ __Source__ Advanced Player's Guide pg. 221 2.0
 
 ---
 
-You can't be affected by anything unless you choose to be. For the duration of the spell, you are immune to any effect or damage that would harm you, excluding effects caused by [artifacts](artifacts), deific power, and similarly powerful sources. You can still be affected by anything you're willing to have affect you.
+You can't be affected by anything unless you choose to be. For the duration of the spell, you are immune to any effect or damage that would harm you, excluding effects caused by [artifacts](../../../../../../../80-13th-Age-SRD/Magic-Items/Artifacts.md), deific power, and similarly powerful sources. You can still be affected by anything you're willing to have affect you.

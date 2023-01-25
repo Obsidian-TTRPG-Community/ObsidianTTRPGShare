@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Reputation Seeker]]
+[Reputation Seeker](###%20Reputation%20Seeker)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ You've decided that joining an adventuring group would be the best way to secure
 
 Choose two ability boosts. One must be Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the Darklands, Desert, or [[Jungle Lore]] skill. You gain the [[Terrain Expertise]] skill feat (underground if you have [[Darklands Lore]], desert if you have [[Desert Lore]], or forest if you have [[Jungle Lore]]).
+You're trained in the [Survival](Survival) skill and the Darklands, Desert, or [Jungle Lore](Jungle%20Lore) skill. You gain the [Terrain Expertise](Terrain%20Expertise) skill feat (underground if you have [Darklands Lore](Darklands%20Lore), desert if you have [Desert Lore](Desert%20Lore), or forest if you have [Jungle Lore](Jungle%20Lore)).
 

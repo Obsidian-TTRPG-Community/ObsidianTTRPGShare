@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Second Chance Champion]]
+[Second Chance Champion](###%20Second%20Chance%20Champion)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Now, after training for a decade to ensure you don't repeat any of your prior mi
 
 Choose two ability boosts. One must be to Dexterity or Strength, and one is a free ability boost.
 
-You're trained in [[Acrobatics]] and the [[Gladiatorial Lore]] skill. You gain the [[Cat Fall]] skill feat.
+You're trained in [Acrobatics](Acrobatics) and the [Gladiatorial Lore](Gladiatorial%20Lore) skill. You gain the [Cat Fall](Cat%20Fall) skill feat.
 

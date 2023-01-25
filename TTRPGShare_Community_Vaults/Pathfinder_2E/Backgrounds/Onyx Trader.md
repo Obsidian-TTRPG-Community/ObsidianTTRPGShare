@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Onyx Trader]]
+[Onyx Trader](###%20Onyx%20Trader)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Oprak doesn't share the secrets of the Onyx Vault with many, but you are one of 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Mercantile Lore]] skill. You gain the [[Multilingual]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Mercantile Lore](Mercantile%20Lore) skill. You gain the [Multilingual](Multilingual) skill feat.
 

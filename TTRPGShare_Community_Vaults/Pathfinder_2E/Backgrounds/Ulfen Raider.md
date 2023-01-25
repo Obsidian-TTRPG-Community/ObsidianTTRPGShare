@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Ulfen Raider]]
+[Ulfen Raider](###%20Ulfen%20Raider)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You are an Ulfen warrior, feared among Avistan for the merciless and devastating
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Sailing Lore]] skill.
+You're trained in the [Intimidation](Intimidation) skill and the [Sailing Lore](Sailing%20Lore) skill.
 
-You gain the [[Intimidating Glare]] skill feat.
+You gain the [Intimidating Glare](Intimidating%20Glare) skill feat.
 

@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Scion of Slayers]]
+[Scion of Slayers](###%20Scion%20of%20Slayers)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You were born into a lineage of undead slayers. No mere occupation, in your fami
 
 Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Undead Lore]] skill. You can cast [[disrupt undead]] as an innate divine cantrip.
+You're trained in the [Athletics](Athletics) skill and the [Undead Lore](Undead%20Lore) skill. You can cast [disrupt undead](../Spells_Rituals/Arcane_Tradition/Cantrips/Disrupt%20Undead.md) as an innate divine cantrip.
 
 You can use Intelligence as your spellcasting ability for this innate spell.
 

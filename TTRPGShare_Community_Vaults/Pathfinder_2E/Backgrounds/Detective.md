@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Detective]]
+[Detective](###%20Detective)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You solved crimes as a police inspector or took jobs for wealthy clients as a pr
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Underworld Lore]] skill. You gain the [[Streetwise]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Streetwise](Streetwise) skill feat.
 

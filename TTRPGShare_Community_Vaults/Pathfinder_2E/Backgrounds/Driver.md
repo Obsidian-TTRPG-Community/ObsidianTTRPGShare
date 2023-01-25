@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Driver]]
+[Driver](###%20Driver)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You practically live behind the controls of a vehicle, and can handle just about
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Acrobatics]] skill and the [[Piloting Lore]] skill. You gain the [[Assurance]] skill feat with [[Piloting Lore]].
+You're trained in the [Acrobatics](Acrobatics) skill and the [Piloting Lore](Piloting%20Lore) skill. You gain the [Assurance](Assurance) skill feat with [Piloting Lore](Piloting%20Lore).
 

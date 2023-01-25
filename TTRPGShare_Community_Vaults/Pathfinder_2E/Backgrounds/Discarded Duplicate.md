@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Discarded Duplicate]]
+[Discarded Duplicate](###%20Discarded%20Duplicate)
 `=this.traits`
 
 

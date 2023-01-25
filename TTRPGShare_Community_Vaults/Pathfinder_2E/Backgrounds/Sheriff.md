@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Sheriff]]
+[Sheriff](###%20Sheriff)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You protect your town, watch over those who have placed their trust in you, and 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Hunting Lore]] skill. You gain the [[Group Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Hunting Lore](Hunting%20Lore) skill. You gain the [Group Coercion](Group%20Coercion) skill feat.
 

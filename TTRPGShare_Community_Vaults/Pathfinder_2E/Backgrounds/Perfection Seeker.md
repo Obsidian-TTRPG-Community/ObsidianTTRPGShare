@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Perfection Seeker]]
+[Perfection Seeker](###%20Perfection%20Seeker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You aspire to perfect your body and mind in the tradition of Jalmeray's Houses o
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Acrobatics]] skill as well as the [[Warfare Lore]] skill. You gain the [[Cat Fall]] skill feat.
+You're trained in the [Acrobatics](Acrobatics) skill as well as the [Warfare Lore](Warfare%20Lore) skill. You gain the [Cat Fall](Cat%20Fall) skill feat.
 

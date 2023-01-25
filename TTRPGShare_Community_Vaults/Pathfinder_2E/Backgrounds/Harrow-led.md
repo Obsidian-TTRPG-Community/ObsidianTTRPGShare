@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Harrow-led]]
+[Harrow-led](###%20Harrow-led)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Randomly determine two harrow suits tied to your character, each reflecting a sp
 
 Choose two ability boosts. One must be to your aligned or misaligned score, and one is a free ability boost.
 
-You're trained in your choice of the [[Occultism]], [[Performance]], or [[Society]] skill and the [[Harrow Lore]] skill. You gain the [[Dubious Knowledge]] skill feat.
+You're trained in your choice of the [Occultism](Occultism), [Performance](Performance), or [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Harrow Lore](Harrow%20Lore) skill. You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

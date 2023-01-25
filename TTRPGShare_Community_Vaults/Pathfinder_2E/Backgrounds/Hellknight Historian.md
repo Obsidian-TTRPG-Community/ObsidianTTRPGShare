@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Hellknight Historian]]
+[Hellknight Historian](###%20Hellknight%20Historian)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You decided to join the Call for Heroes to hoping to gain an opportunity to expl
 
 Choose two ability boosts. One must be Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Architecture Lore]] skill. You gain the [[Courtly Graces]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Architecture Lore](Architecture%20Lore) skill. You gain the [Courtly Graces](Courtly%20Graces) skill feat.
 

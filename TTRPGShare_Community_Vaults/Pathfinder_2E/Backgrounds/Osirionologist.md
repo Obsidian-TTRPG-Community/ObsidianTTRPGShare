@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Osirionologist]]
+[Osirionologist](###%20Osirionologist)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You might be a traveling professor, a member of a society like the Pathfinders o
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Ancient Osirion Lore]] skill. You gain the [[Oddity Identification]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Ancient Osirion Lore](Ancient%20Osirion%20Lore) skill. You gain the [Oddity Identification](Oddity%20Identification) skill feat.
 

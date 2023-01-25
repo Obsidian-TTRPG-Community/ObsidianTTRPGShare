@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Medicinal Clocksmith]]
+[Medicinal Clocksmith](###%20Medicinal%20Clocksmith)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ While others might have looked to clockwork as a mechanical innovation, you see 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Engineering Lore]] skill. You gain the [[Risky Surgery]] skill feat.
+You're trained in the [Medicine](Medicine) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Risky Surgery](Risky%20Surgery) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Pyre Tender]]
+[Pyre Tender](###%20Pyre%20Tender)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You're experienced at building funeral pyres. You might have lit flaming biers i
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Funeral Lore]] skill.
+You're trained in the [Crafting](Crafting) skill and the [Funeral Lore](Funeral%20Lore) skill.
 
-You gain the [[Alchemical Crafting]] skill feat.
+You gain the [Alchemical Crafting](Alchemical%20Crafting) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Shory Seeker]]
+[Shory Seeker](###%20Shory%20Seeker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You've dedicated your life to unraveling the secrets of the ancient Shory Empire
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Shory Lore]] skill. You gain the [[Specialty Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Shory Lore](Shory%20Lore) skill. You gain the [Specialty Crafting](Specialty%20Crafting) skill feat.
 

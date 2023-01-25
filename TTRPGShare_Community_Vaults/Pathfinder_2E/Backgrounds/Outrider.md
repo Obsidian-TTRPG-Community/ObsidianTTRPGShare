@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Outrider]]
+[Outrider](###%20Outrider)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ In your youth, you galloped on horseback over vast prairies, serving as a vangua
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Nature]] skill and the [[Plains Lore]] skill.
+You're trained in the [Nature](Nature) skill and the [Plains Lore](Plains%20Lore) skill.
 
-You gain the [[Express Rider]] skill feat.
+You gain the [Express Rider](Express%20Rider) skill feat.
 

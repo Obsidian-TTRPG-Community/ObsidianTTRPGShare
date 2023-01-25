@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Toymaker]]
+[Toymaker](###%20Toymaker)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You delight in making little trinkets for children of all ages, and seeing their
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Mercantile Lore]] skill. You gain the [[Specialty Crafting]] skill feat, choosing artistry, blacksmithing, glassmaking, leatherworking, tailoring, or woodworking as your specialty.
+You're trained in the [Crafting](Crafting) skill and the [Mercantile Lore](Mercantile%20Lore) skill. You gain the [Specialty Crafting](Specialty%20Crafting) skill feat, choosing artistry, blacksmithing, glassmaking, leatherworking, tailoring, or woodworking as your specialty.
 
 While most backgrounds are available to any character, some backgrounds are so unusual that just having them makes a character rare and extraordinary.
 

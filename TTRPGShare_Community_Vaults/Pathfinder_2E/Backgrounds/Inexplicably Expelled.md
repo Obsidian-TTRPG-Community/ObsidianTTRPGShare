@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Inexplicably Expelled]]
+[Inexplicably Expelled](###%20Inexplicably%20Expelled)
 `=this.traits`
 
 
@@ -27,5 +27,5 @@ Unfortunately for Mugland, he chose the wrong student to destroy. Now, you'll do
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Academia Lore]] skill. You gain the [[Alchemical Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Academia Lore](Academia%20Lore) skill. You gain the [Alchemical Crafting](Alchemical%20Crafting) skill feat.
 

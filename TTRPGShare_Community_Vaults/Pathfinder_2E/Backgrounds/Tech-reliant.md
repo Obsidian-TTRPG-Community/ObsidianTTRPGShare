@@ -11,7 +11,7 @@ traits: rare
 misc: situationalBenefit,drawback
 ---
 
-[[### Tech-reliant]]
+[Tech-reliant](###%20Tech-reliant)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Some event, be it an accident, attack, or disaster, has left you horribly scarre
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Medicine]] skill. You gain the [[Battle Medicine]] skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and [[magical]] effects with the [[healing]] trait have no effect on you.
+You're trained in the [Crafting](Crafting) skill and the [Medicine](Medicine) skill. You gain the [Battle Medicine](Battle%20Medicine) skill feat, and a +1 circumstance bonus to saving throws against spells. Healing spells, healing magic items, and [magical](../Traits/Magical.md) effects with the [healing](../Traits/Healing.md) trait have no effect on you.
 

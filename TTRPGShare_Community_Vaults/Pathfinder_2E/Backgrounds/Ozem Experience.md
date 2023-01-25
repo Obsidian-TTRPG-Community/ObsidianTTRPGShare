@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Ozem Experience]]
+[Ozem Experience](###%20Ozem%20Experience)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You or someone close to you worked with the Knights of Ozem before Lastwall fell
 
 Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Warfare Lore]] skill. You gain the [[Courtly Graces]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Warfare Lore](Warfare%20Lore) skill. You gain the [Courtly Graces](Courtly%20Graces) skill feat.
 

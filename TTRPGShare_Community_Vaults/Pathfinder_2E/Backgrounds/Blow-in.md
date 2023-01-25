@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Blow-in]]
+[Blow-in](###%20Blow-in)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Although you'd planned to move on quickly, the circus folk have adopted you as o
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in your choice of the [[Deception]] or [[Thievery]] skills. You gain a skill feat: [[Lengthy Diversion]] if you chose [[Deception]], or [[Subtle Theft]] if you chose [[Thievery]]. You are also trained in the [[Underworld Lore]] skill.
+You're trained in your choice of the [Deception](Deception) or [Thievery](Thievery) skills. You gain a skill feat: [Lengthy Diversion](Lengthy%20Diversion) if you chose [Deception](Deception), or [Subtle Theft](Subtle%20Theft) if you chose [Thievery](Thievery). You are also trained in the [Underworld Lore](Underworld%20Lore) skill.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Fireworks Performer]]
+[Fireworks Performer](###%20Fireworks%20Performer)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Of course, someone who travels the roads with a pack full of high explosives is 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and the [[Engineering Lore]] skill. You gain the [[Fascinating Performance]] skill feat.
+You're trained in the [Performance](Performance) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Fascinating Performance](Fascinating%20Performance) skill feat.
 

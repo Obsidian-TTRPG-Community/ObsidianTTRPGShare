@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Fogfen Tale-teller]]
+[Fogfen Tale-teller](###%20Fogfen%20Tale-teller)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You know there are monstrous things out in the swamp known as Fogfen; you've see
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in [[Athletics]] and the [[Swamp Lore]] skill. You gain the [[Titan Wrestler]] skill feat.
+You're trained in [Athletics](Athletics) and the [Swamp Lore](Swamp%20Lore) skill. You gain the [Titan Wrestler](Titan%20Wrestler) skill feat.
 

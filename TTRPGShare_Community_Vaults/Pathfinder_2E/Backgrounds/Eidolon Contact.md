@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Eidolon Contact]]
+[Eidolon Contact](###%20Eidolon%20Contact)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You might have forged a powerful conduit with that eidolon, allowing you to mani
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in your choice of [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]], and a [[Lore]] skill for the creature associated with your contacted eidolon (such as [[Angel Lore]] or [[Dragon Lore]]). You gain the [[Dubious Knowledge]] skill feat.
+You're trained in your choice of [Arcana](Arcana), [Nature](Nature), [Occultism](Occultism), or [Religion](Religion), and a [Lore](Lore) skill for the creature associated with your contacted eidolon (such as [Angel Lore](Angel%20Lore) or [Dragon Lore](Dragon%20Lore)). You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

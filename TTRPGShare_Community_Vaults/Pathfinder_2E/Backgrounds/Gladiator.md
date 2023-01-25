@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Gladiator]]
+[Gladiator](###%20Gladiator)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Before you attained true fame, you departed—or escaped—the arena to explore 
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and the [[Gladiatorial Lore]] skill. You gain the [[Impressive Performance]] skill feat.
+You're trained in the [Performance](Performance) skill and the [Gladiatorial Lore](Gladiatorial%20Lore) skill. You gain the [Impressive Performance](Impressive%20Performance) skill feat.
 

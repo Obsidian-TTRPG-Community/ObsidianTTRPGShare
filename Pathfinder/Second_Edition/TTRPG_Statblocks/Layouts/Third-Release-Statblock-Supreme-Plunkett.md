@@ -13,8 +13,8 @@ Now to focus on CSS Balancing. As you can see, if name is too long, Creature fre
 ## What you Need?
 
 1. This File
-2. [Test2e.json](Test2e.json) which you load into TTRPG Statblocks
-3. [test2e.css](test2e.css) which goes into your .obsidian/snippets
+2. [Test2e.json](_attachments/Test2e.json) which you load into TTRPG Statblocks
+3. [test2e.css](_attachments/test2e.css) which goes into your .obsidian/snippets
 
 ## What it Should Look Like
 

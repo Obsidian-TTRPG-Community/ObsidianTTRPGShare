@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Hermit]]
+[Hermit](###%20Hermit)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ This might be a welcome reprieve from solitude or an unwanted change, but in eit
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Nature]] or [[Occultism]] skill, plus a [[Lore]] skill related to the terrain you lived in as a hermit (such as [[Cave Lore]] or [[Desert Lore]]). You gain the [[Dubious Knowledge]] skill feat.
+You're trained in the [Nature](Nature) or [Occultism](Occultism) skill, plus a [Lore](Lore) skill related to the terrain you lived in as a hermit (such as [Cave Lore](Cave%20Lore) or [Desert Lore](Desert%20Lore)). You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

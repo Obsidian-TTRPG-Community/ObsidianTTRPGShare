@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Bounty Hunter]]
+[Bounty Hunter](###%20Bounty%20Hunter)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive a
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Legal Lore]] skill.
+You're trained in the [Survival](Survival) skill and the [Legal Lore](Legal%20Lore) skill.
 
-You gain the [[Experienced Tracker]] skill feat.
+You gain the [Experienced Tracker](Experienced%20Tracker) skill feat.
 

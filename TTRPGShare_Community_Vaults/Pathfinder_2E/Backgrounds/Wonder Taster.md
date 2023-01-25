@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Wonder Taster]]
+[Wonder Taster](###%20Wonder%20Taster)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Having once sampled Numerian fluids, you've tasted knowledge beyond comprehensio
 
 Choose two ability boosts. One must be to Intelligence or Constitution, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Alchemical Lore]] skill. You gain the [[Alchemical Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Alchemical Lore](Alchemical%20Lore) skill. You gain the [Alchemical Crafting](Alchemical%20Crafting) skill feat.
 

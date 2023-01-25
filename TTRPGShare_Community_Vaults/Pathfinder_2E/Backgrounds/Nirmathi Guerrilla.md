@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Nirmathi Guerrilla]]
+[Nirmathi Guerrilla](###%20Nirmathi%20Guerrilla)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Woodcraft comes naturally to you, and you have learned how to use the forest to 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Forest Lore]] skill. You gain the [[Terrain Stalker]] (underbrush)} skill feat.
+You're trained in the [Stealth](Stealth) skill and the [Forest Lore](Forest%20Lore) skill. You gain the [Terrain Stalker](Terrain%20Stalker) (underbrush)} skill feat.
 

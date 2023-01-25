@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Sponsored By A Village]]
+[Sponsored By A Village](###%20Sponsored%20By%20A%20Village)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You come from a small community far from any large cities, but the Magaambya is 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [[Crafting]] or [[Survival]] skill. You gain a skill feat: [[Crafter's Appraisal]] if you chose [[Crafting]] or [[Forager]] if you chose [[Survival]]. You're also trained in the [[Mafika Ayuwari Lore]] skill appropriate for the terrain around your community (such as [[Forest Lore]] or [[Jungle Lore]]),Your recommended primary branch is the Cascade Bearers.
+You're trained in your choice of the [Crafting](Crafting) or [Survival](Survival) skill. You gain a skill feat: [Crafter's Appraisal](Crafter's%20Appraisal) if you chose [Crafting](Crafting) or [Forager](Forager) if you chose [Survival](Survival). You're also trained in the [Mafika Ayuwari Lore](Mafika%20Ayuwari%20Lore) skill appropriate for the terrain around your community (such as [Forest Lore](Forest%20Lore) or [Jungle Lore](Jungle%20Lore)),Your recommended primary branch is the Cascade Bearers.
 

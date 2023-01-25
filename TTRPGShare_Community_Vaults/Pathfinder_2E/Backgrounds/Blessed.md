@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Blessed]]
+[Blessed](###%20Blessed)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You have been blessed by a divinity. For an unknown reason, and irrespective of 
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You are trained in a [[Lore]] skill associated with the deity who blessed you (such as [[Shelyn Lore]]) if you know their identity, or else in a [[Lore]] skill of the GM's choice if you don't. Either you can cast [[guidance]] as a divine innate spell at will, or you gain a similar blessing determined by the GM.
+You are trained in a [Lore](Lore) skill associated with the deity who blessed you (such as [Shelyn Lore](Shelyn%20Lore)) if you know their identity, or else in a [Lore](Lore) skill of the GM's choice if you don't. Either you can cast [guidance](../Spells_Rituals/Arcane_Tradition/Cantrips/Guidance.md) as a divine innate spell at will, or you gain a similar blessing determined by the GM.
 

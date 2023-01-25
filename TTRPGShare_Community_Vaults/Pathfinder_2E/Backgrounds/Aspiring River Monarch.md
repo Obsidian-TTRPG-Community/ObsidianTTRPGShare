@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Aspiring River Monarch]]
+[Aspiring River Monarch](###%20Aspiring%20River%20Monarch)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ New realms rise constantly in the River Kingdoms, and you intend to lead one of 
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Politics Lore]] skill. You gain the [[Courtly Graces]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Politics Lore](Politics%20Lore) skill. You gain the [Courtly Graces](Courtly%20Graces) skill feat.
 

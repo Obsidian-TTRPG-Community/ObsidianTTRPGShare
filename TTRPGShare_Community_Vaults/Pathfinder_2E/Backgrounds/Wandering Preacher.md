@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Wandering Preacher]]
+[Wandering Preacher](###%20Wandering%20Preacher)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ While you once spoke to a small congregation in a ramshackle church, those days 
 
 Choose two ability boosts. One boost must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Religion]] skill and a [[Lore]] skill associated with the deity you preach for (such as [[Pharasmin Lore]]). You gain the [[Pilgrim's Token]] skill feat.
+You're trained in the [Religion](Religion) skill and a [Lore](Lore) skill associated with the deity you preach for (such as [Pharasmin Lore](Pharasmin%20Lore)). You gain the [Pilgrim's Token](Pilgrim's%20Token) skill feat.
 

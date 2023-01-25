@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Reclaimer Investigator]]
+[Reclaimer Investigator](###%20Reclaimer%20Investigator)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Whatever the organization gains from the pact, some mysterious force with its ow
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Crimson Reclaimers Lore]] skill. You gain the [[Oddity Identification]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Crimson Reclaimers Lore](Crimson%20Reclaimers%20Lore) skill. You gain the [Oddity Identification](Oddity%20Identification) skill feat.
 

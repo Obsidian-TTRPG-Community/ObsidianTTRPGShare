@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Spotter]]
+[Spotter](###%20Spotter)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ An eye for detail, a sense for the wind, and a strong trust in your gut feelings
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Scouting Lore]] skill. You gain the [[Terrain Stalker]] skill feat.
+You're trained in the [Stealth](Stealth) skill and the [Scouting Lore](Scouting%20Lore) skill. You gain the [Terrain Stalker](Terrain%20Stalker) skill feat.
 

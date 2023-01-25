@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Gunsmith]]
+[Gunsmith](###%20Gunsmith)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ You've taken those skills on the road, using them to assist yourself and your al
 
 Choose two ability boosts. One of these boosts must be to Intelligence or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Engineering Lore]] skill. You gain the [[Quick Repair]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Quick Repair](Quick%20Repair) skill feat.
 

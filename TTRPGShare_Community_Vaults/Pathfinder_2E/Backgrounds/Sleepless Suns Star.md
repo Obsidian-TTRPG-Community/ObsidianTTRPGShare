@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Sleepless Suns Star]]
+[Sleepless Suns Star](###%20Sleepless%20Suns%20Star)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Your laudable performance has earned you a transfer to the newly formed Edgewatc
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Society]], plus either [[Gladiatorial Lore]] or [[Genealogy Lore]]. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with members of the Sleepless Suns and residents of the Foreign Quarter. You gain the [[Multilingual]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md), plus either [Gladiatorial Lore](Gladiatorial%20Lore) or [Genealogy Lore](Genealogy%20Lore). You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with members of the Sleepless Suns and residents of the Foreign Quarter. You gain the [Multilingual](Multilingual) skill feat.
 

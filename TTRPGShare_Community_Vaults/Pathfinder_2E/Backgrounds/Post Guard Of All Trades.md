@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Post Guard Of All Trades]]
+[Post Guard Of All Trades](###%20Post%20Guard%20Of%20All%20Trades)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ For all the excitement of guarding Absalom's Postern Gate, the Post Guard wasn't
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill, a [[Lore]] skill of your choice, and you gain a bonus language. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with Post Guards. You gain the [[Dubious Knowledge]] skill feat.
+You're trained in the [Performance](Performance) skill, a [Lore](Lore) skill of your choice, and you gain a bonus language. You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with Post Guards. You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

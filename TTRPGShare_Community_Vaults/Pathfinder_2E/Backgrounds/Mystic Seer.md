@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Mystic Seer]]
+[Mystic Seer](###%20Mystic%20Seer)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You delight crowds by reading minds, telling futures, and contacting spirits. Al
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and the [[Scam Lore]] skill.
+You're trained in the [Arcana](Arcana) skill and the [Scam Lore](Scam%20Lore) skill.
 
-You gain the [[Arcane Sense]] skill feat.
+You gain the [Arcane Sense](Arcane%20Sense) skill feat.
 

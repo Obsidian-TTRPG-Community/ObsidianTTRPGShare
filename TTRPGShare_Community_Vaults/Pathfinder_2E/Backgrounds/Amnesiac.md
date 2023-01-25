@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Amnesiac]]
+[Amnesiac](###%20Amnesiac)
 `=this.traits`
 
 

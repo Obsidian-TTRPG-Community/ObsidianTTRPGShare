@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Thrune Loyalist]]
+[Thrune Loyalist](###%20Thrune%20Loyalist)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Despite the setbacks Cheliax has suffered recently, your loyalties lie with the 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Religion]] skill and the [[Hell Lore]] skill You gain the [[Student of the Canon]] skill feat.
+You're trained in the [Religion](Religion) skill and the [Hell Lore](Hell%20Lore) skill You gain the [Student of the Canon](Student%20of%20the%20Canon) skill feat.
 

@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Sponsored By Teacher Ot]]
+[Sponsored By Teacher Ot](###%20Sponsored%20By%20Teacher%20Ot)
 `=this.traits`
 
 
@@ -25,7 +25,7 @@ Talking about it further with him, Takulu agreed that he would sponsor you perso
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in your choice of the [[Survival]] or [[Performance]] skill. You gain a skill feat: [[Survey Wildlife]] if you chose [[Survival]] or [[Impressive Performance]] if you chose [[Performance]]. You're also trained in [[Nantambu Lore]].
+You're trained in your choice of the [Survival](Survival) or [Performance](Performance) skill. You gain a skill feat: [Survey Wildlife](Survey%20Wildlife) if you chose [Survival](Survival) or [Impressive Performance](Impressive%20Performance) if you chose [Performance](Performance). You're also trained in [Nantambu Lore](Nantambu%20Lore).
 
 Your recommended primary branch is the Emerald Boughs.
 

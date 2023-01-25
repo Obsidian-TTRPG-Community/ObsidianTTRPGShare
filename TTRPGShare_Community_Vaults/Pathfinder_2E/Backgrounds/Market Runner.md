@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Market Runner]]
+[Market Runner](###%20Market%20Runner)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Keeleno Lathenar, the proprietor of Otari Market, is a grim and bitter man. A we
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Otari Lore]] skill. You gain the [[Hobnobber]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Otari Lore](Otari%20Lore) skill. You gain the [Hobnobber](Hobnobber) skill feat.
 

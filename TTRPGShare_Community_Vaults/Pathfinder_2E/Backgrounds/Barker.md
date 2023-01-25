@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Barker]]
+[Barker](###%20Barker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You're skilled at shouting to catch and keep the attention of passersby. A few w
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Crowd Lore]] skill. You gain the [[Group Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Crowd Lore](Crowd%20Lore) skill. You gain the [Group Coercion](Group%20Coercion) skill feat.
 

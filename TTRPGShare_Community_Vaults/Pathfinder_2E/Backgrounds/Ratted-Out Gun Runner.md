@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Ratted-Out Gun Runner]]
+[Ratted-Out Gun Runner](###%20Ratted-Out%20Gun%20Runner)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ Even though you escaped arrest, your identity was compromised, and your old acco
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Firearm Lore]] skill. You gain the [[Experienced Smuggler]] skill feat.
+You're trained in the [Stealth](Stealth) skill and the [Firearm Lore](Firearm%20Lore) skill. You gain the [Experienced Smuggler](Experienced%20Smuggler) skill feat.
 

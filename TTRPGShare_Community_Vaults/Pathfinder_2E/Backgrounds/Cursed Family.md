@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Cursed Family]]
+[Cursed Family](###%20Cursed%20Family)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Rumors abound that your family is cursed. While that would explain several unfor
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Curse Lore]] skill. You gain the [[Oddity Identification]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Curse Lore](Curse%20Lore) skill. You gain the [Oddity Identification](Oddity%20Identification) skill feat.
 

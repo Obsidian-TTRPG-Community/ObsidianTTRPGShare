@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Rigger]]
+[Rigger](###%20Rigger)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Even though your work is often done before the crowds arrive, you know your skil
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Circus Lore]] skill. You gain the [[Combat Climber]] skill feat.
+You're trained in the [Athletics](Athletics) skill and the [Circus Lore](Circus%20Lore) skill. You gain the [Combat Climber](Combat%20Climber) skill feat.
 

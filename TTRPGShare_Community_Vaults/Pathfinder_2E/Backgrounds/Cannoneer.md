@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Cannoneer]]
+[Cannoneer](###%20Cannoneer)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You served as a crewmate aboard a military vessel or pirate ship and were respon
 
 Choose two ability boosts. One boost must be to Dexterity or Strength, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Warfare Lore]] skill. You gain the [[Hefty Hauler]] skill feat.
+You're trained in the [Athletics](Athletics) skill and the [Warfare Lore](Warfare%20Lore) skill. You gain the [Hefty Hauler](Hefty%20Hauler) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Raised by Belief]]
+[Raised by Belief](###%20Raised%20by%20Belief)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Whether in a monastery, a religious household, or just as part of your everyday 
 
 Choose two ability boosts. One boost must be to an ability specified in the Divine Ability entry for your deity, and one is a free ability boost.
 
-You're trained in your deity's associated skill, and you gain Assurance with that skill. You gain a [[Lore]] skill with a subcategory associated with your deity ([[Abadar Lore]], for instance).
+You're trained in your deity's associated skill, and you gain Assurance with that skill. You gain a [Lore](Lore) skill with a subcategory associated with your deity ([Abadar Lore](Abadar%20Lore), for instance).
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Lastwall Survivor]]
+[Lastwall Survivor](###%20Lastwall%20Survivor)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You managed to escape the devastation that the Whispering Tyrant brought to your
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Undead Lore]] skill. You gain the [[Battle Medicine]] skill feat.
+You're trained in the [Medicine](Medicine) skill and the [Undead Lore](Undead%20Lore) skill. You gain the [Battle Medicine](Battle%20Medicine) skill feat.
 

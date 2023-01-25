@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Scholar]]
+[Scholar](###%20Scholar)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Eventually, that curiosity led you to leave your studies and become an adventure
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]] skill, and gain the [[Assurance]] skill feat in your chosen skill. You're also trained in the [[Academia Lore]] skill.
+You're trained in your choice of the [Arcana](Arcana), [Nature](Nature), [Occultism](Occultism), or [Religion](Religion) skill, and gain the [Assurance](Assurance) skill feat in your chosen skill. You're also trained in the [Academia Lore](Academia%20Lore) skill.
 

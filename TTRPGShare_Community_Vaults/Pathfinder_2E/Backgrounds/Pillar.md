@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Pillar]]
+[Pillar](###%20Pillar)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Not every Knight of Lastwall contributes to the crusade through combat. Pillars 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in one of your choice of the [[Medicine]], [[Society]], or [[Survival]] skills, as well as the [[Labor Lore]] skill. You gain the [[Additional Lore]] skill feat.
+You're trained in one of your choice of the [Medicine](Medicine), [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md), or [Survival](Survival) skills, as well as the [Labor Lore](Labor%20Lore) skill. You gain the [Additional Lore](Additional%20Lore) skill feat.
 

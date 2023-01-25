@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Ward]]
+[Ward](###%20Ward)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ When you were young, you became the ward of another house—boarded, fed, and ed
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and the [[Genealogy Lore]] skill. You gain the [[Fascinating Performance]] skill feat.
+You're trained in the [Performance](Performance) skill and the [Genealogy Lore](Genealogy%20Lore) skill. You gain the [Fascinating Performance](Fascinating%20Performance) skill feat.
 

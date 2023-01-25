@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Barkeep]]
+[Barkeep](###%20Barkeep)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You have five specialties: hefting barrels, drinking, polishing steins, drinking
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Alcohol Lore]] skill. You gain the [[Hobnobber]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Alcohol Lore](Alcohol%20Lore) skill. You gain the [Hobnobber](Hobnobber) skill feat.
 

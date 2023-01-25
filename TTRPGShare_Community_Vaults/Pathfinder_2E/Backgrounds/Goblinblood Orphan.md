@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Goblinblood Orphan]]
+[Goblinblood Orphan](###%20Goblinblood%20Orphan)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Your family, whether goblin, hobgoblin, or human, died in the Goblinblood Wars. 
 
 Choose two ability boosts. One must be to Dexterity or Constitution, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Goblin Lore]] skill. You gain the [[Assurance]] skill feat with [[Survival]].
+You're trained in the [Survival](Survival) skill and the [Goblin Lore](Goblin%20Lore) skill. You gain the [Assurance](Assurance) skill feat with [Survival](Survival).
 

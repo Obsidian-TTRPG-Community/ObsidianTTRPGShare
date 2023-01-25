@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Snubbed Out Stoolie]]
+[Snubbed Out Stoolie](###%20Snubbed%20Out%20Stoolie)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ Not only is it as though you were never a shieldmarshal at all, but you've got a
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Underworld Lore]] skill. You gain the [[Lie to Me]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Lie to Me](Lie%20to%20Me) skill feat.
 

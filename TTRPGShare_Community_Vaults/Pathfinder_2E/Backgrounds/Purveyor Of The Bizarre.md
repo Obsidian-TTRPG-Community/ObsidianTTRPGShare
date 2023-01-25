@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Purveyor Of The Bizarre]]
+[Purveyor Of The Bizarre](###%20Purveyor%20Of%20The%20Bizarre)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Whether in Katapesh or one of the bustling markets along the Path of Salt, you'v
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and the [[Mercantile Lore]] skill.
+You're trained in the [Arcana](Arcana) skill and the [Mercantile Lore](Mercantile%20Lore) skill.
 
-You gain the [[Quick Identification]] skill feat.
+You gain the [Quick Identification](Quick%20Identification) skill feat.
 

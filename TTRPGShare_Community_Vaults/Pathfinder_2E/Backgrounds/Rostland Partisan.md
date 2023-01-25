@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Rostland Partisan]]
+[Rostland Partisan](###%20Rostland%20Partisan)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You grew up among the southern houses of Brevoy in old Rostland. You're accustom
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Politics Lore]] skill.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Politics Lore](Politics%20Lore) skill.
 
-You gain the [[Group Impression]] skill feat.
+You gain the [Group Impression](Group%20Impression) skill feat.
 

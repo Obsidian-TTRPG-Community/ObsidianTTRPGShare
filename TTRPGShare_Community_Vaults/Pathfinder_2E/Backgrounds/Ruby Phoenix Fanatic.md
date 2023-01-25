@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Ruby Phoenix Fanatic]]
+[Ruby Phoenix Fanatic](###%20Ruby%20Phoenix%20Fanatic)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Now she's finally back from a mysterious 300-year quest on the plane of Axis so 
 
 You've also trained your body to prove yourself a worthy champion. When Hao Jin's committee invited you and some friends to take part in the tournament's prequalifier, you just about fainted from excitement. Is your dream of meeting the Ruby Phoenix about to come true? As long as you win enough matches to get into the actual tournament, it just might! Just try not to act too star-struck when you finally get a chance to talk to her, okay? Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Axis Lore]], [[Gladiatorial Lore]], and [[Goka Lore]] skills. You gain the [[Dubious Knowledge]] skill feat.
+You're trained in the [Axis Lore](Axis%20Lore), [Gladiatorial Lore](Gladiatorial%20Lore), and [Goka Lore](Goka%20Lore) skills. You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

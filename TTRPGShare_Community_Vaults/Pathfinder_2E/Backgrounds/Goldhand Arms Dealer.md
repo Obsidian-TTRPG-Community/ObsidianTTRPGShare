@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Goldhand Arms Dealer]]
+[Goldhand Arms Dealer](###%20Goldhand%20Arms%20Dealer)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You're a dwarven agent of the Goldhand Lodge, a collection of dwarven merchants 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in [[Diplomacy]] and [[Mercantile Lore]]. You gain the [[Group Impression]] skill feat.
+You're trained in [Diplomacy](Diplomacy) and [Mercantile Lore](Mercantile%20Lore). You gain the [Group Impression](Group%20Impression) skill feat.
 

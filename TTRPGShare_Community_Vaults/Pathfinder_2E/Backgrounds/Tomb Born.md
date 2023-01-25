@@ -11,7 +11,7 @@ traits: rare
 misc: ability
 ---
 
-[[### Tomb Born]]
+[Tomb Born](###%20Tomb%20Born)
 `=this.traits`
 
 
@@ -19,11 +19,11 @@ Your parents conceived you for a fell purpose at a site tainted by death, like a
 
 Choose two ability boosts. One must be to Dexterity or Constitution, and one is a free ability boost.
 
-You're trained in the [[Undead Lore]] skill. You gain the Final Spite reaction.
+You're trained in the [Undead Lore](Undead%20Lore) skill. You gain the Final Spite reaction.
 
 
 
 > [!tip] Final Spite 
 > **Frequency** 1 per day
 > **Trigger**  You're reduced to 0 Hit Points
-> **Effect** You make a [[Strike]] before falling [[unconscious]].
+> **Effect** You make a [Strike](../Rules/Actions/Strike.md) before falling [unconscious](../Conditions/Unconscious.md).

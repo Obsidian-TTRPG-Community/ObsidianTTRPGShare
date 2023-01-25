@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Sponsored By A Stranger]]
+[Sponsored By A Stranger](###%20Sponsored%20By%20A%20Stranger)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You remember the day the stranger approached you to make several peculiar inquir
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [[Occultism]] or [[Nature]] skill. You gain your choice of the [[Dubious Knowledge]] or [[Quick Identification]] skill feat. You're also trained in [[Insect Lore]].
+You're trained in your choice of the [Occultism](Occultism) or [Nature](Nature) skill. You gain your choice of the [Dubious Knowledge](Dubious%20Knowledge) or [Quick Identification](Quick%20Identification) skill feat. You're also trained in [Insect Lore](Insect%20Lore).
 
 Your recommended primary branch is the Rain-Scribes.
 

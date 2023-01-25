@@ -11,7 +11,7 @@ traits: rare,pervasive magic
 misc: 
 ---
 
-[[### Mystic Tutor]]
+[Mystic Tutor](###%20Mystic%20Tutor)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You spent years predicting, identifying, and harnessing the innate magical talen
 
 Choose two ability boosts. One must be Intelligence or Wisdom and one is a free ability boost.
 
-Your innate [[magical]] trait is [[arcane]] or [[occult]]. You're trained in either [[Arcana]] or [[Occultism]], depending on your innate [[magical]] trait, and the [[Academia Lore]] skill. You gain the [[Recognize Spell]] skill feat.
+Your innate [magical](../Traits/Magical.md) trait is [arcane](../Traits/Arcane.md) or [occult](../Traits/Occult.md). You're trained in either [Arcana](Arcana) or [Occultism](Occultism), depending on your innate [magical](../Traits/Magical.md) trait, and the [Academia Lore](Academia%20Lore) skill. You gain the [Recognize Spell](Recognize%20Spell) skill feat.
 

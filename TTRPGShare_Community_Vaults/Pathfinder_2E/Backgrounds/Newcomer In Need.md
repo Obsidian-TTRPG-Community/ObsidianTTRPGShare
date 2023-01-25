@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Newcomer In Need]]
+[Newcomer In Need](###%20Newcomer%20In%20Need)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ The tough circumstances of your upbringing in one of Goka's more downtrodden nei
 
 Choose two ability boosts. One must be to Constitution or Dexterity, and one is a free ability boost.
 
-You're trained in [[Society]] and the [[Goka Lore]] skill. You gain the [[Streetwise]] skill feat.
+You're trained in [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) and the [Goka Lore](Goka%20Lore) skill. You gain the [Streetwise](Streetwise) skill feat.
 

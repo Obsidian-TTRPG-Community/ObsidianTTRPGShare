@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Final Blade Survivor]]
+[Final Blade Survivor](###%20Final%20Blade%20Survivor)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You fell prey to the whims of the Galtan mob and were scheduled for execution by
 
 Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Revolution Lore]] skill. You gain the [[Charming Liar]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Revolution Lore](Revolution%20Lore) skill. You gain the [Charming Liar](Charming%20Liar) skill feat.
 

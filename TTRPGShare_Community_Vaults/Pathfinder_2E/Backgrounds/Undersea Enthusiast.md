@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Undersea Enthusiast]]
+[Undersea Enthusiast](###%20Undersea%20Enthusiast)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You love diving and exploring the world beneath the waves, and long periods of s
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Ocean Lore]] skill.
+You're trained in the [Athletics](Athletics) skill and the [Ocean Lore](Ocean%20Lore) skill.
 
-You gain the [[Underwater Marauder]] skill feat.
+You gain the [Underwater Marauder](Underwater%20Marauder) skill feat.
 

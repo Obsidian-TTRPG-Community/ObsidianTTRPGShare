@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Undercover Contender]]
+[Undercover Contender](###%20Undercover%20Contender)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ You've told a small squad of your closest confidants about your mission, and you
 
 Choose two ability boosts. One must be to Charisma or Dexterity, and one is a free ability boost.
 
-You're trained in [[Deception]] and the [[Underworld Lore]] skill. You gain the [[Lengthy Diversion]] skill feat.
+You're trained in [Deception](Deception) and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Lengthy Diversion](Lengthy%20Diversion) skill feat.
 

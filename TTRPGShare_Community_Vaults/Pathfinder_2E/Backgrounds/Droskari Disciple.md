@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Droskari Disciple]]
+[Droskari Disciple](###%20Droskari%20Disciple)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You grew up in the church of the Dark Smith, where you learned the value of hard
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You gain the [[Skill Training]] skill feat, and you're trained in the [[Droskar Lore]] skill.
+You gain the [Skill Training](Skill%20Training) skill feat, and you're trained in the [Droskar Lore](Droskar%20Lore) skill.
 

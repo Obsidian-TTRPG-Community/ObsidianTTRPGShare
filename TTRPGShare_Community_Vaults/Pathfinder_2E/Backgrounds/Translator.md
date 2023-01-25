@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Translator]]
+[Translator](###%20Translator)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ In your youth, you learned to transcribe books and translate scrolls to preserve
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Scribing Lore]] skill. You gain the [[Multilingual]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Scribing Lore](Scribing%20Lore) skill. You gain the [Multilingual](Multilingual) skill feat.
 

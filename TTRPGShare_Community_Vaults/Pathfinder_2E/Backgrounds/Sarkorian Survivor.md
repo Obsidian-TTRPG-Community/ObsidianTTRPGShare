@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Sarkorian Survivor]]
+[Sarkorian Survivor](###%20Sarkorian%20Survivor)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ The devastation and carnage of the Worldwound were nearly complete, but you some
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free boost.
 
-You're trained in the [[Survival]] skill and the [[Sarkorian History Lore]] skill. You gain the [[Forager]] skill feat.
+You're trained in the [Survival](Survival) skill and the [Sarkorian History Lore](Sarkorian%20History%20Lore) skill. You gain the [Forager](Forager) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Black Market Smuggler]]
+[Black Market Smuggler](###%20Black%20Market%20Smuggler)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You know how to work the less-than-legal side of the region's markets and know h
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Underworld Lore]] skill.
+You're trained in the [Stealth](Stealth) skill and the [Underworld Lore](Underworld%20Lore) skill.
 
-You gain the [[Experienced Smuggler]] skill feat.
+You gain the [Experienced Smuggler](Experienced%20Smuggler) skill feat.
 

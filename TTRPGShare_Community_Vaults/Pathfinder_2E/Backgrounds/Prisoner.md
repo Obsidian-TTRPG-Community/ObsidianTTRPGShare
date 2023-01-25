@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Prisoner]]
+[Prisoner](###%20Prisoner)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ In your adventuring life, you take full advantage of your newfound freedom.
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Underworld Lore]] skill. You gain the [[Experienced Smuggler]] skill feat.
+You're trained in the [Stealth](Stealth) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Experienced Smuggler](Experienced%20Smuggler) skill feat.
 

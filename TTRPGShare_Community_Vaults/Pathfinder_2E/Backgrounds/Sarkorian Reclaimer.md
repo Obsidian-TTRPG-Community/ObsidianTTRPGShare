@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Sarkorian Reclaimer]]
+[Sarkorian Reclaimer](###%20Sarkorian%20Reclaimer)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Whether you trace your heritage to lost Sarkoris or are a crusader trying to ato
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free boost.
 
-You're trained in the [[Medicine]] skill and the [[Abyssal Lore]] skill.
+You're trained in the [Medicine](Medicine) skill and the [Abyssal Lore](Abyssal%20Lore) skill.
 
-You gain the [[Battle Medicine]] skill feat.
+You gain the [Battle Medicine](Battle%20Medicine) skill feat.
 

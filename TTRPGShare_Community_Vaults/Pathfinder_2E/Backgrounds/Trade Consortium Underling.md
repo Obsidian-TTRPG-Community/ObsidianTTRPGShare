@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Trade Consortium Underling]]
+[Trade Consortium Underling](###%20Trade%20Consortium%20Underling)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Your experience as a ledger-keeper for one of Absalom's trade guilds has made yo
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Business Lore]] skill.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Business Lore](Business%20Lore) skill.
 
-You gain the [[Experienced Professional]] skill feat.
+You gain the [Experienced Professional](Experienced%20Professional) skill feat.
 

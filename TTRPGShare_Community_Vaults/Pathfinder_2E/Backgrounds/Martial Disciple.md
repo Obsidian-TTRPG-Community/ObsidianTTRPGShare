@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Martial Disciple]]
+[Martial Disciple](###%20Martial%20Disciple)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You dedicated yourself to intense training and rigorous study to become a great 
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in your choice of the [[Acrobatics]] or [[Athletics]] skill. You gain a skill feat: [[Cat Fall]] if you chose [[Acrobatics]] or [[Quick Jump]] if you chose [[Athletics]]. You're also trained in the [[Warfare Lore]] skill.
+You're trained in your choice of the [Acrobatics](Acrobatics) or [Athletics](Athletics) skill. You gain a skill feat: [Cat Fall](Cat%20Fall) if you chose [Acrobatics](Acrobatics) or [Quick Jump](Quick%20Jump) if you chose [Athletics](Athletics). You're also trained in the [Warfare Lore](Warfare%20Lore) skill.
 

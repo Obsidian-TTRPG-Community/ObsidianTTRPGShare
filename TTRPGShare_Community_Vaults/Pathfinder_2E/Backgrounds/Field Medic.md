@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Field Medic]]
+[Field Medic](###%20Field%20Medic)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You patched up soldiers, guards, or other combatants, and learned a fair amount 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Warfare Lore]] skill. You gain the [[Battle Medicine]] skill feat.
+You're trained in the [Medicine](Medicine) skill and the [Warfare Lore](Warfare%20Lore) skill. You gain the [Battle Medicine](Battle%20Medicine) skill feat.
 

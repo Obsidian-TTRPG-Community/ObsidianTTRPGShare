@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Entertainer]]
+[Entertainer](###%20Entertainer)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Through an education in the arts or sheer dogged practice, you learned to entert
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and the [[Theater Lore]] skill. You gain the [[Fascinating Performance]] skill feat.
+You're trained in the [Performance](Performance) skill and the [Theater Lore](Theater%20Lore) skill. You gain the [Fascinating Performance](Fascinating%20Performance) skill feat.
 

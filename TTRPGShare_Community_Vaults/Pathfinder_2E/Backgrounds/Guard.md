@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Guard]]
+[Guard](###%20Guard)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ However you left the guard, you might think of adventuring as a way to use your 
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Legal Lore]] or [[Warfare Lore]] skill. You gain the [[Quick Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Legal Lore](Legal%20Lore) or [Warfare Lore](Warfare%20Lore) skill. You gain the [Quick Coercion](Quick%20Coercion) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Night Watch]]
+[Night Watch](###%20Night%20Watch)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ When everyone else slumbers, you're on guard. You might have been a watch member
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and either [[Legal Lore]] or the [[Lore]] skill for your home settlement. You gain the [[Quick Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and either [Legal Lore](Legal%20Lore) or the [Lore](Lore) skill for your home settlement. You gain the [Quick Coercion](Quick%20Coercion) skill feat.
 

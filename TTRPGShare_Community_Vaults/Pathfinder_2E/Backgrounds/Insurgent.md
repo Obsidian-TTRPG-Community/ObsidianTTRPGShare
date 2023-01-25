@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Insurgent]]
+[Insurgent](###%20Insurgent)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You were more than a rebel; you were a revolutionary, fighting for the promise o
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Warfare Lore]] skill. You gain the [[Lengthy Diversion]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Warfare Lore](Warfare%20Lore) skill. You gain the [Lengthy Diversion](Lengthy%20Diversion) skill feat.
 

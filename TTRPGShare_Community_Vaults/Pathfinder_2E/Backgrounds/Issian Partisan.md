@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Issian Partisan]]
+[Issian Partisan](###%20Issian%20Partisan)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Steeped in the cultural legacy of pirates and smugglers, you rely on your clever
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Underworld Lore]] skill. You gain the [[Charming Liar]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Charming Liar](Charming%20Liar) skill feat.
 

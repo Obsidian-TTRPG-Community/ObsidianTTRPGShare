@@ -51,9 +51,9 @@ loot:
 
 ### How to Install
 
-1. Download [Bunkers.json](Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
+1. Download [Bunkers.json](_attachments/Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
 
-2. Download [bunkers-and-badasses-ttrpg-statblocks-Normal.css](bunkers-and-badasses-ttrpg-statblocks-Normal.css) and place into your `.obsidian/snippets` directory.
+2. Download [bunkers-and-badasses-ttrpg-statblocks-Normal.css](_attachments/bunkers-and-badasses-ttrpg-statblocks-Normal.css) and place into your `.obsidian/snippets` directory.
 
 3. Enable the snippet.
 

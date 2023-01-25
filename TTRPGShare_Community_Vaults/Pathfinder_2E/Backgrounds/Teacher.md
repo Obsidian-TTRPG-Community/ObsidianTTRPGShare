@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Teacher]]
+[Teacher](###%20Teacher)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You are incredibly knowledgeable, skilled, and perhaps even trained to teach chi
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [[Performance]] or [[Society]] skills, along with the [[Academia Lore]] skill. You gain the [[Experienced Professional]] skill feat.
+You're trained in your choice of the [Performance](Performance) or [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skills, along with the [Academia Lore](Academia%20Lore) skill. You gain the [Experienced Professional](Experienced%20Professional) skill feat.
 

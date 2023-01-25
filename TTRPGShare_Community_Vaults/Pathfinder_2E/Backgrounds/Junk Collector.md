@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Junk Collector]]
+[Junk Collector](###%20Junk%20Collector)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You live by the adage that one person's trash is another's treasure. Whether by 
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and your choice of either the [[Engineering Lore]] or [[Mining Lore]] skill. You gain the [[Crafter's Appraisal]] skill feat.
+You're trained in the [Crafting](Crafting) skill and your choice of either the [Engineering Lore](Engineering%20Lore) or [Mining Lore](Mining%20Lore) skill. You gain the [Crafter's Appraisal](Crafter's%20Appraisal) skill feat.
 

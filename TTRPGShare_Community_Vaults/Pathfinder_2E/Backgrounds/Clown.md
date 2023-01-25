@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Clown]]
+[Clown](###%20Clown)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Although you've spent time in greasepaint and colorful clothing to amuse crowds,
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and the [[Clown Lore]] skill. You gain the [[Virtuosic Performer]] (comedy) skill feat.
+You're trained in the [Performance](Performance) skill and the [Clown Lore](Clown%20Lore) skill. You gain the [Virtuosic Performer](Virtuosic%20Performer) (comedy) skill feat.
 

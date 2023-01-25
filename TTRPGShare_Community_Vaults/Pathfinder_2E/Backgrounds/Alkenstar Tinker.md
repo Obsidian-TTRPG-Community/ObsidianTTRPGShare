@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Alkenstar Tinker]]
+[Alkenstar Tinker](###%20Alkenstar%20Tinker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Your dedication to the scientific inquiry of your native Alkenstar provides grea
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Engineering Lore]] skill. You gain the [[Alchemical Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Alchemical Crafting](Alchemical%20Crafting) skill feat.
 

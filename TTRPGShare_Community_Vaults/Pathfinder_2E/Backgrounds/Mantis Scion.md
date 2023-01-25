@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Mantis Scion]]
+[Mantis Scion](###%20Mantis%20Scion)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ At least one of your parents is a member of the notorious Red Mantis assassins, 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Assassin Lore]] skill.
+You're trained in the [Stealth](Stealth) skill and the [Assassin Lore](Assassin%20Lore) skill.
 
-You gain the [[Assurance]] skill feat with [[Stealth]].
+You gain the [Assurance](Assurance) skill feat with [Stealth](Stealth).
 

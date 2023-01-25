@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Witch Wary]]
+[Witch Wary](###%20Witch%20Wary)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You have little love or trust for spellcraft and those who practice it, and have
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Curse Lore]] skill. You gain the [[Oddity Identification]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Curse Lore](Curse%20Lore) skill. You gain the [Oddity Identification](Oddity%20Identification) skill feat.
 

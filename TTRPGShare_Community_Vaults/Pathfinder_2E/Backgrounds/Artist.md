@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Artist]]
+[Artist](###%20Artist)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Adventuring might help you find inspiration, or simply be a way to survive until
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Art Lore]] skill. You gain the [[Specialty Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Art Lore](Art%20Lore) skill. You gain the [Specialty Crafting](Specialty%20Crafting) skill feat.
 

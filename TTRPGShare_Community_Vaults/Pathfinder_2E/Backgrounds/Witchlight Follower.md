@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Witchlight Follower]]
+[Witchlight Follower](###%20Witchlight%20Follower)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You stepped forward for a closer look, and then still further when the lights re
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in [[Survival]] and the [[Wisp Lore]] skill. You gain the [[Terrain Expertise]] skill feat with both swamp terrain and subterranean bodies of water.
+You're trained in [Survival](Survival) and the [Wisp Lore](Wisp%20Lore) skill. You gain the [Terrain Expertise](Terrain%20Expertise) skill feat with both swamp terrain and subterranean bodies of water.
 

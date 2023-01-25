@@ -11,7 +11,7 @@ traits: rare,pervasive magic
 misc: 
 ---
 
-[[### Energy Scarred]]
+[Energy Scarred](###%20Energy%20Scarred)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Exposure to a significant magical event overloaded you with magical energy. Perh
 
 Choose two ability boosts. One must be Constitution and one is a free ability boost.
 
-Your innate [[magical]] trait is [[primal]]. Choose acid, cold, electricity, fire, force, negative, positive, or sonic. You are trained in a [[Lore]] skill associated with the chosen energy (such as [[Fire Lore]]) and you gain resistance to that energy type equal to half your level (minimum 1).
+Your innate [magical](../Traits/Magical.md) trait is [primal](../Traits/Primal.md). Choose acid, cold, electricity, fire, force, negative, positive, or sonic. You are trained in a [Lore](Lore) skill associated with the chosen energy (such as [Fire Lore](Fire%20Lore)) and you gain resistance to that energy type equal to half your level (minimum 1).
 

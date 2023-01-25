@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Student Of Magic]]
+[Student Of Magic](###%20Student%20Of%20Magic)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You are currently enrolled at a school of magic, where you're learning the funda
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of [[Arcana]], [[Nature]], [[Occultism]], or [[Religion]], as well as [[Academia Lore]]. You gain the [[Recognize Spell]] skill feat.
+You're trained in your choice of [Arcana](Arcana), [Nature](Nature), [Occultism](Occultism), or [Religion](Religion), as well as [Academia Lore](Academia%20Lore). You gain the [Recognize Spell](Recognize%20Spell) skill feat.
 

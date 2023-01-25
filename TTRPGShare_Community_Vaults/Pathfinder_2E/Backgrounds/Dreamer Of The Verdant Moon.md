@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Dreamer Of The Verdant Moon]]
+[Dreamer Of The Verdant Moon](###%20Dreamer%20Of%20The%20Verdant%20Moon)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You spent your early days in the aftermath of one of the great ravenings. You su
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You gain the [[Ravening's Desperation]] skill feat (below), and you're trained in the [[Survival]] and [[Zevgavizeb Lore]] skills.
+You gain the [Ravening's Desperation](Ravening's%20Desperation) skill feat (below), and you're trained in the [Survival](Survival) and [Zevgavizeb Lore](Zevgavizeb%20Lore) skills.
 

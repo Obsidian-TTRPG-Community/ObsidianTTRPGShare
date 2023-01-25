@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Aspiring Free Captain]]
+[Aspiring Free Captain](###%20Aspiring%20Free%20Captain)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You seek to join the Free Captains of the Shackles and have learned everything y
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Sailing Lore]] skill.
+You're trained in the [Intimidation](Intimidation) skill and the [Sailing Lore](Sailing%20Lore) skill.
 
-You gain the [[Group Coercion]] skill feat.
+You gain the [Group Coercion](Group%20Coercion) skill feat.
 

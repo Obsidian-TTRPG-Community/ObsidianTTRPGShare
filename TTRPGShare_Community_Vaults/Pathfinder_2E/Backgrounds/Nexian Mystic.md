@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Nexian Mystic]]
+[Nexian Mystic](###%20Nexian%20Mystic)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Your initiations into the Nexian mysteries and the philosophies of the Arclords 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and a [[Lore]] skill related to one plane of your choice (other than the Material Plane). You gain the [[Arcane Sense]] skill feat.
+You're trained in the [Arcana](Arcana) skill and a [Lore](Lore) skill related to one plane of your choice (other than the Material Plane). You gain the [Arcane Sense](Arcane%20Sense) skill feat.
 

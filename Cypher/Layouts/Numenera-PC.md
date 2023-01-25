@@ -4,7 +4,7 @@ This is a statblock layout for the Cypher System, specifically for Player Charac
 
 ## Usage
 
-1. Download [numenera-pc.json](numenera-pc.json) and optionally the [numa-venus-token.png](_attachments/numa-venus-token.png) if you want to see what an image looks like in the statblock.
+1. Download [numenera-pc.json](_attachments/numenera-pc.json) and optionally the [numa-venus-token.png](_attachments/numa-venus-token.png) if you want to see what an image looks like in the statblock.
 2. In Obsidian, go to Settings > TTRPG Statblocks.
 3. Under *Layouts*, click *Import from JSON*.
 4. Select the downloaded JSON file.

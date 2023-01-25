@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Saboteur]]
+[Saboteur](###%20Saboteur)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Whether you do it for personal enjoyment or at the behest of a mercenary company
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Thievery]] skill and the [[Engineering Lore]] skill. You gain the [[Concealing Legerdemain]] skill feat.
+You're trained in the [Thievery](Thievery) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Concealing Legerdemain](Concealing%20Legerdemain) skill feat.
 

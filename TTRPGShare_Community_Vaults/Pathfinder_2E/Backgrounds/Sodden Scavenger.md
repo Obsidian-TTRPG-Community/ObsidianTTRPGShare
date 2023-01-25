@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Sodden Scavenger]]
+[Sodden Scavenger](###%20Sodden%20Scavenger)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You've managed to eke out an existence in the storm-wracked Sodden Lands and hav
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Swamp Lore]] skill.
+You're trained in the [Survival](Survival) skill and the [Swamp Lore](Swamp%20Lore) skill.
 
-You gain the [[Forager]] skill feat.
+You gain the [Forager](Forager) skill feat.
 
