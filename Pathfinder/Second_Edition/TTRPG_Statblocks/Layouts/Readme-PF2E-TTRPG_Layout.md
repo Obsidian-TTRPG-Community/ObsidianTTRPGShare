@@ -21,7 +21,9 @@ Wikilink Embed: ![[Pathfinder2e-Statblocks-RC1.png]]
 
 Wikilink Relative Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
 
-Markdown Embed: ![](_attachments/Pathfinder2e-Statblocks-RC1.png)
+Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
+
+![](_attachments/Pathfinder2e-Statblocks-RC1.png)
 
 
 1. Fully fleshed and *mostly*\** theme-proof statblock layout. 
