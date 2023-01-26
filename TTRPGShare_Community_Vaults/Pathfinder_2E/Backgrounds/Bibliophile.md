@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Bibliophile]]
+[Bibliophile](###%20Bibliophile)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You love few things more than a good book, and as a result, Odd Stories is your 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and the [[Library Lore]] skill. You gain the [[Arcane Sense]] skill feat.
+You're trained in the [Arcana](Arcana) skill and the [Library Lore](Library%20Lore) skill. You gain the [Arcane Sense](Arcane%20Sense) skill feat.
 

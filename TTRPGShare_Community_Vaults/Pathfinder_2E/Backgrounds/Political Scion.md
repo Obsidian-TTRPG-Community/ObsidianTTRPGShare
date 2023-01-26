@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Political Scion]]
+[Political Scion](###%20Political%20Scion)
 `=this.traits`
 
 
@@ -25,5 +25,5 @@ But you don't care—you know you're doing the right thing by taking on the roug
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and [[Legal Lore]]. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with members of Absalom's political establishment. You gain the [[Hobnobber]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and [Legal Lore](Legal%20Lore). You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with members of Absalom's political establishment. You gain the [Hobnobber](Hobnobber) skill feat.
 

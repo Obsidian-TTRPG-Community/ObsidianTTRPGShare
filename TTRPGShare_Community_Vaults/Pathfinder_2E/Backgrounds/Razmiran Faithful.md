@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Razmiran Faithful]]
+[Razmiran Faithful](###%20Razmiran%20Faithful)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You serve a living god who rules upon the face of Golarion, and this gives your 
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Razmir Lore]] skill. You gain the [[Group Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Razmir Lore](Razmir%20Lore) skill. You gain the [Group Coercion](Group%20Coercion) skill feat.
 

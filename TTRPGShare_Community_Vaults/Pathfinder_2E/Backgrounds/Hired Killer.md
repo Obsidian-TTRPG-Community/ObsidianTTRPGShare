@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Hired Killer]]
+[Hired Killer](###%20Hired%20Killer)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ And then you found that maybe it didn't bother you as much as it should have. An
 
 Choose two ability boosts. One boost must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Underworld Lore]] skill. You gain the [[Terrain Stalker]] skill feat, choosing a terrain appropriate for where you make your kills.
+You're trained in the [Stealth](Stealth) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Terrain Stalker](Terrain%20Stalker) skill feat, choosing a terrain appropriate for where you make your kills.
 

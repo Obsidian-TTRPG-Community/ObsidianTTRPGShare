@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Harbor Guard Moonlighter]]
+[Harbor Guard Moonlighter](###%20Harbor%20Guard%20Moonlighter)
 `=this.traits`
 
 
@@ -21,7 +21,7 @@ Despite the decline in your performance, Lieutenant Lavarsus of Edgewatch sees p
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and your choice of [[Sailing Lore]] or [[Hunting Lore]]. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with Harbor Guards, ship captains, and freelance adventurers.
+You're trained in the [Athletics](Athletics) skill and your choice of [Sailing Lore](Sailing%20Lore) or [Hunting Lore](Hunting%20Lore). You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with Harbor Guards, ship captains, and freelance adventurers.
 
-You gain the [[Quick Jump]] skill feat.
+You gain the [Quick Jump](Quick%20Jump) skill feat.
 

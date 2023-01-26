@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Spell Seeker]]
+[Spell Seeker](###%20Spell%20Seeker)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Instead, you've devoted yourself to understanding truly esoteric spells, which i
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in either the [[Arcana]] skill or Occult skill, as well as the [[Library Lore]] skill. You gain the [[Recognize Spell]] skill feat.
+You're trained in either the [Arcana](Arcana) skill or Occult skill, as well as the [Library Lore](Library%20Lore) skill. You gain the [Recognize Spell](Recognize%20Spell) skill feat.
 

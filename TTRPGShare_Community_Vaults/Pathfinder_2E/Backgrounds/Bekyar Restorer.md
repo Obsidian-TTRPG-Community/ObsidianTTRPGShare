@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Bekyar Restorer]]
+[Bekyar Restorer](###%20Bekyar%20Restorer)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Though many Bekyars worship demons, you seek to pave a different path for yourse
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Abyss Lore]] skill.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Abyss Lore](Abyss%20Lore) skill.
 
-You gain the [[Group Impression]] skill feat.
+You gain the [Group Impression](Group%20Impression) skill feat.
 

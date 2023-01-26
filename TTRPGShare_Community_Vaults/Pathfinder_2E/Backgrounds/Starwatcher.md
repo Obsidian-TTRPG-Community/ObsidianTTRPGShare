@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Starwatcher]]
+[Starwatcher](###%20Starwatcher)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You're one of Wrin Sivinxi's closest confidantes. You've spent many long nights 
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Astrology Lore]] skill. You gain the [[Dubious Knowledge]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Astrology Lore](Astrology%20Lore) skill. You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

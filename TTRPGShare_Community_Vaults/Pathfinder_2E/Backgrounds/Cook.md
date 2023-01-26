@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Cook]]
+[Cook](###%20Cook)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You grew up in the kitchens of a tavern or other dining establishment and excell
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Cooking Lore]] skill. You gain the [[Seasoned]] skill feat.
+You're trained in the [Survival](Survival) skill and the [Cooking Lore](Cooking%20Lore) skill. You gain the [Seasoned](Seasoned) skill feat.
 

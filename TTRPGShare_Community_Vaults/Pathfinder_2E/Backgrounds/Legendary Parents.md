@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Legendary Parents]]
+[Legendary Parents](###%20Legendary%20Parents)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ One or more of your parents (either biological or adoptive) were heroes of the A
 
 Choose two ability boosts. One must be in Dexterity or Charisma, and the other is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Genealogy Lore]] skill. You gain the [[Group Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Genealogy Lore](Genealogy%20Lore) skill. You gain the [Group Coercion](Group%20Coercion) skill feat.
 

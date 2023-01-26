@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Tall Tale]]
+[Tall Tale](###%20Tall%20Tale)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You've ridden a tornado, lassoed a river, mooned a dragon under a full moon, and
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in [[Performance]]. You gain the [[Impressive Performance]] skill feat. You can gain the [[Connections]] skill feat later without being expert in [[Society]] or having [[Courtly Graces]]—this represents less traditional social connections and more the way that your legend has spread, and you've learned to leverage your legend, with people wanting to meet you and see you for themselves.
+You're trained in [Performance](Performance). You gain the [Impressive Performance](Impressive%20Performance) skill feat. You can gain the [Connections](Connections) skill feat later without being expert in [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) or having [Courtly Graces](Courtly%20Graces)—this represents less traditional social connections and more the way that your legend has spread, and you've learned to leverage your legend, with people wanting to meet you and see you for themselves.
 

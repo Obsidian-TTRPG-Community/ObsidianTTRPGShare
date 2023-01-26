@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Haunted Citizen]]
+[Haunted Citizen](###%20Haunted%20Citizen)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You grew up in a region where undead lurk everywhere. This could be a domain as 
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Lore]] skill for your home settlement. You gain the [[No Cause for Alarm]] skill feat (Advanced Player's Guide 208).
+You're trained in the [Diplomacy](Diplomacy) skill and the [Lore](Lore) skill for your home settlement. You gain the [No Cause for Alarm](No%20Cause%20for%20Alarm) skill feat (Advanced Player's Guide 208).
 

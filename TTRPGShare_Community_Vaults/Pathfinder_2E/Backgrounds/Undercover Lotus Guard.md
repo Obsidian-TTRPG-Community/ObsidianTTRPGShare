@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Undercover Lotus Guard]]
+[Undercover Lotus Guard](###%20Undercover%20Lotus%20Guard)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You transferred to the Edgewatch after your cover was unexpectedly blown and you
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill, [[Art Lore]], and [[Underworld Lore]]. You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to interact with Lotus Guards and high-ranking criminals like guild masters, gang leaders, and mob bosses. You gain the [[Charming Liar]] skill feat.
+You're trained in the [Deception](Deception) skill, [Art Lore](Art%20Lore), and [Underworld Lore](Underworld%20Lore). You gain a +1 circumstance bonus to Deception, Diplomacy, and Intimidation checks to interact with Lotus Guards and high-ranking criminals like guild masters, gang leaders, and mob bosses. You gain the [Charming Liar](Charming%20Liar) skill feat.
 

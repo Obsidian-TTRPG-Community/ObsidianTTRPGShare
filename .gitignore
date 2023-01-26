@@ -11,6 +11,12 @@ node_modules
 package-lock.json
 package.json
 
+# We haven't talked about syncing these yet
+.stylelintrc.json
+.prettierrc
+.markdownlintignore
+.markdownlint.yml
+
 # Activity Data
 sync.log
 some.log
@@ -32,3 +38,4 @@ pw.*
 *.kdbx
 *.pfx
 *.key
+

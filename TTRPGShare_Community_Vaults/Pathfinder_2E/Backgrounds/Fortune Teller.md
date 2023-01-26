@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Fortune Teller]]
+[Fortune Teller](###%20Fortune%20Teller)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You might have used these skills to guide your community, or simply to make mone
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Fortune-Telling Lore]] skill. You gain the [[Oddity Identification]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Fortune-Telling Lore](Fortune-Telling%20Lore) skill. You gain the [Oddity Identification](Oddity%20Identification) skill feat.
 

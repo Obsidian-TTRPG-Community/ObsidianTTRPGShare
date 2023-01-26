@@ -127,7 +127,7 @@ TABLE WITHOUT ID
 >```
 
 ## All Other Themes
-Those with other themes will need to download the extracted [**Kepano-Minimal-Cards**](CSS_Snippets/Kepano-Minimal-Cards.css) and place it into their `.obsidian/snippets` folder, then activate it in settings -> appearance.
+Those with other themes will need to download the extracted [**Kepano-Minimal-Cards**](_attachments/Kepano-Minimal-Cards.css) and place it into their `.obsidian/snippets` folder, then activate it in settings -> appearance.
 
 Then, you will need to add the CssClass to your YAML/Frontmatter as Minimal Users needed to.
 

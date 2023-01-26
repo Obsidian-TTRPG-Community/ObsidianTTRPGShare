@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Vidrian Reformer]]
+[Vidrian Reformer](###%20Vidrian%20Reformer)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You know that the only way your homeland of Vidrian can remain free from outside
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Politics Lore]] skill.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Politics Lore](Politics%20Lore) skill.
 
-You gain the [[Hobnobber]] skill feat.
+You gain the [Hobnobber](Hobnobber) skill feat.
 

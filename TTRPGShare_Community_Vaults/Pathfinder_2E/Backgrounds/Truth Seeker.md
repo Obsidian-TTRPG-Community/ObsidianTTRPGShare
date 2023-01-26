@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Truth Seeker]]
+[Truth Seeker](###%20Truth%20Seeker)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Perhaps you've heard strange rumors that the town's founder, Lamond Breachton, w
 
 You plan to join the Call for Heroes so that you can make yourself known to the council, or perhaps even ingratiating yourself to them, so you can seek the truth and eventually uncover Breachill's secrets! Choose two ability boosts. One must be Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Politics Lore]] skill. You gain the [[Lie to Me]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Politics Lore](Politics%20Lore) skill. You gain the [Lie to Me](Lie%20to%20Me) skill feat.
 

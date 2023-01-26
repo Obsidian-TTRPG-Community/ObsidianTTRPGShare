@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Undertaker]]
+[Undertaker](###%20Undertaker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ People die. This is the unfortunate fact of life on which you've founded your bu
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and a [[Lore]] skill specializing in one local type of undead. You gain the [[Forensic Acumen]] skill feat (Advanced Player's Guide 206).
+You're trained in the [Medicine](Medicine) skill and a [Lore](Lore) skill specializing in one local type of undead. You gain the [Forensic Acumen](Forensic%20Acumen) skill feat (Advanced Player's Guide 206).
 

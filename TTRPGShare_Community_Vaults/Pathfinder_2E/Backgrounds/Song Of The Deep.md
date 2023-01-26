@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Song Of The Deep]]
+[Song Of The Deep](###%20Song%20Of%20The%20Deep)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ During a sea voyage, you washed overboard, ingested sea water, and drowned. Merf
 
 You gain one ability boost. It must be to Strength, Constitution, or Charisma.
 
-You're trained in the [[Athletics]] skill and the [[Ocean Lore]] skill. You have the ability to breathe underwater.
+You're trained in the [Athletics](Athletics) skill and the [Ocean Lore](Ocean%20Lore) skill. You have the ability to breathe underwater.
 
 **Special** You can choose to lose the ability to breathe air when you take this background, making you only able to breathe underwater. If you do, you gain a second ability boost, which is a free ability boost.
 

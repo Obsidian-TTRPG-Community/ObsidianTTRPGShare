@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Oenopion Ooze-tender]]
+[Oenopion Ooze-tender](###%20Oenopion%20Ooze-tender)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Your apprenticeship in one of Oenopion's unorthodox arcane and alchemical academ
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Ooze Lore]] skill. You gain the [[Dubious Knowledge]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Ooze Lore](Ooze%20Lore) skill. You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

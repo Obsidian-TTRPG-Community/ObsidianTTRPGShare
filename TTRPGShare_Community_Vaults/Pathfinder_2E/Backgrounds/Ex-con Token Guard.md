@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Ex-con Token Guard]]
+[Ex-con Token Guard](###%20Ex-con%20Token%20Guard)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ You transferred to the Edgewatch, the Precipice Quarter's new precinct, in the h
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Thievery]] skill and your choice of [[Legal Lore]] or [[Underworld Lore]]. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with Token Guards and convicted criminals such as prison inmates. You gain the [[Pickpocket]] skill feat.
+You're trained in the [Thievery](Thievery) skill and your choice of [Legal Lore](Legal%20Lore) or [Underworld Lore](Underworld%20Lore). You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with Token Guards and convicted criminals such as prison inmates. You gain the [Pickpocket](Pickpocket) skill feat.
 

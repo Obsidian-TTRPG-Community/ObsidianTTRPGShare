@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Root Worker]]
+[Root Worker](###%20Root%20Worker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Some ailments can't be cured by herbs alone. You learned ritual remedies as well
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Herbalism Lore]] skill. You gain the [[Root Magic]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Herbalism Lore](Herbalism%20Lore) skill. You gain the [Root Magic](Root%20Magic) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Bandit]]
+[Bandit](###%20Bandit)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Now, adventure is your stock and trade, and years of camping and skirmishing hav
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and a [[Lore]] skill related to the terrain you worked in (such as [[Desert Lore]] or [[Plains Lore]]). You gain the [[Group Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and a [Lore](Lore) skill related to the terrain you worked in (such as [Desert Lore](Desert%20Lore) or [Plains Lore](Plains%20Lore)). You gain the [Group Coercion](Group%20Coercion) skill feat.
 

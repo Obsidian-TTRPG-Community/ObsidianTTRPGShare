@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Aerialist]]
+[Aerialist](###%20Aerialist)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Experienced with trapezes, aerial silks, and hoops, your skill is in performing 
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Acrobatics]] skill and the [[Rope Lore]] skill. You gain the [[Cat Fall]] skill feat.
+You're trained in the [Acrobatics](Acrobatics) skill and the [Rope Lore](Rope%20Lore) skill. You gain the [Cat Fall](Cat%20Fall) skill feat.
 

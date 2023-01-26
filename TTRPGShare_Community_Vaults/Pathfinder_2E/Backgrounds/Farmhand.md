@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Farmhand]]
+[Farmhand](###%20Farmhand)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ With a strong back and an understanding of seasonal cycles, you tilled the land 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Farming Lore]] skill. You gain the [[Assurance]] skill feat with [[Athletics]].
+You're trained in the [Athletics](Athletics) skill and the [Farming Lore](Farming%20Lore) skill. You gain the [Assurance](Assurance) skill feat with [Athletics](Athletics).
 

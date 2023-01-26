@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Noble]]
+[Noble](###%20Noble)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ To the common folk, the life of a noble seems one of idyllic luxury, but growing
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and your choice of the [[Genealogy Lore]] or [[Heraldry Lore]] skill. You gain the [[Courtly Graces]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and your choice of the [Genealogy Lore](Genealogy%20Lore) or [Heraldry Lore](Heraldry%20Lore) skill. You gain the [Courtly Graces](Courtly%20Graces) skill feat.
 

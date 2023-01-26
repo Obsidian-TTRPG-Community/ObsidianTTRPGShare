@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Hounded Thief]]
+[Hounded Thief](###%20Hounded%20Thief)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Some time ago, you stole a unique item from a strange individual. It might have 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Thievery]] skill and the [[Underworld Lore]] skill. You gain the [[Pickpocket]] skill feat.
+You're trained in the [Thievery](Thievery) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Pickpocket](Pickpocket) skill feat.
 

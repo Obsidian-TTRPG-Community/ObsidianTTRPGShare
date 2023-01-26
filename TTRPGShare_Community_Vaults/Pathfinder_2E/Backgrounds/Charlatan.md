@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Charlatan]]
+[Charlatan](###%20Charlatan)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You traveled from place to place, peddling false fortunes and snake oil in one t
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Underworld Lore]] skill. You gain the [[Charming Liar]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Charming Liar](Charming%20Liar) skill feat.
 

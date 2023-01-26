@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Magical Misfit]]
+[Magical Misfit](###%20Magical%20Misfit)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You don't understand folks who claim that magical talent is some sort of burden 
 
 Choose two ability boosts. One must be to Intelligence or Dexterity, and one is a free ability boost.
 
-You're trained in [[Arcana]] and [[Underworld Lore]]. You gain the [[Trick Magic Item]] skill feat.
+You're trained in [Arcana](Arcana) and [Underworld Lore](Underworld%20Lore). You gain the [Trick Magic Item](Trick%20Magic%20Item) skill feat.
 

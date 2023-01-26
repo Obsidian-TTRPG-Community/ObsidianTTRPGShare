@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Criminal]]
+[Criminal](###%20Criminal)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ As an unscrupulous independent or as a member of an underworld organization, you
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Stealth]] skill and the [[Underworld Lore]] skill. You gain the [[Experienced Smuggler]] skill feat.
+You're trained in the [Stealth](Stealth) skill and the [Underworld Lore](Underworld%20Lore) skill. You gain the [Experienced Smuggler](Experienced%20Smuggler) skill feat.
 

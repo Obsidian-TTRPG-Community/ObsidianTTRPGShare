@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Musical Prodigy]]
+[Musical Prodigy](###%20Musical%20Prodigy)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Ever since you were young, you've been almost supernaturally skilled in a partic
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in [[Performance]] and [[Music Lore]]. You gain the [[Virtuosic Performer]] skill feat.
+You're trained in [Performance](Performance) and [Music Lore](Music%20Lore). You gain the [Virtuosic Performer](Virtuosic%20Performer) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Nomad]]
+[Nomad](###%20Nomad)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Traveling far and wide, you picked up basic tactics for surviving on the road an
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and a [[Lore]] skill related to one terrain you traveled in (such as [[Desert Lore]] or [[Swamp Lore]]). You gain the [[Assurance]] skill feat with [[Survival]].
+You're trained in the [Survival](Survival) skill and a [Lore](Lore) skill related to one terrain you traveled in (such as [Desert Lore](Desert%20Lore) or [Swamp Lore](Swamp%20Lore)). You gain the [Assurance](Assurance) skill feat with [Survival](Survival).
 

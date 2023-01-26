@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### False Medium]]
+[False Medium](###%20False%20Medium)
 `=this.traits`
 
 
@@ -21,7 +21,7 @@ Whether you decided to take a more righteous path, were caught and pledged to ma
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in [[Occultism]] and [[Fortune-Telling Lore]].
+You're trained in [Occultism](Occultism) and [Fortune-Telling Lore](Fortune-Telling%20Lore).
 
-You gain the [[Deceptive Worship]] skill feat.
+You gain the [Deceptive Worship](Deceptive%20Worship) skill feat.
 

@@ -11,13 +11,13 @@ traits: rare
 misc: 
 ---
 
-[[### Aiudara Seeker]]
+[Aiudara Seeker](###%20Aiudara%20Seeker)
 `=this.traits`
 
 
-The aiudara of [[Alseta]]'s Ring have become more well known, and you are interested in learning more about them.
+The aiudara of [Alseta](Alseta)'s Ring have become more well known, and you are interested in learning more about them.
 
 Choose two ability boosts. One must be in Intelligence or Wisdom, and the other is a free ability boost.
 
-You're trained in the [[Arcana]] skill and the [[Portal Lore]] skill. You gain the [[Quick Identification]] skill feat.
+You're trained in the [Arcana](Arcana) skill and the [Portal Lore](Portal%20Lore) skill. You gain the [Quick Identification](Quick%20Identification) skill feat.
 

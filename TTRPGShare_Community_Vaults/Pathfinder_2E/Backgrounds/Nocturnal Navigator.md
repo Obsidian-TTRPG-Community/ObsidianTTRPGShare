@@ -11,7 +11,7 @@ traits: rare
 misc: situationalBenefit
 ---
 
-[[### Nocturnal Navigator]]
+[Nocturnal Navigator](###%20Nocturnal%20Navigator)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You have a great affinity for the night skies. You watch the stars, and you feel
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in [[Survival]]. Whenever you can clearly identify the stars, if you roll a success on a check to [[Sense Direction]] or otherwise orienteer, you get a critical success instead; if you roll a critical failure at such a check, you get a failure instead.
+You're trained in [Survival](Survival). Whenever you can clearly identify the stars, if you roll a success on a check to [Sense Direction](Sense%20Direction) or otherwise orienteer, you get a critical success instead; if you roll a critical failure at such a check, you get a failure instead.
 

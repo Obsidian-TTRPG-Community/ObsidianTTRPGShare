@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Rivethun Adherent]]
+[Rivethun Adherent](###%20Rivethun%20Adherent)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You have spent time learning the practices and traditions of the ancient Rivethu
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Spirit Lore]] skill.
+You're trained in the [Occultism](Occultism) skill and the [Spirit Lore](Spirit%20Lore) skill.
 
-You gain the [[Recognize Spell]] skill feat.
+You gain the [Recognize Spell](Recognize%20Spell) skill feat.
 

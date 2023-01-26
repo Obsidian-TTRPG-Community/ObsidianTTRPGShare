@@ -11,7 +11,7 @@ traits: rare
 misc: sense
 ---
 
-[[### Magical Experiment]]
+[Magical Experiment](###%20Magical%20Experiment)
 `=this.traits`
 
 
@@ -21,7 +21,7 @@ You may have signed up for this voluntarily, but it may have been against your w
 
 You gain one ability boost. It must be to Constitution.
 
-You're trained in [[Occultism]] and the [[Academia Lore]] skill.
+You're trained in [Occultism](Occultism) and the [Academia Lore](Academia%20Lore) skill.
 
 You gain one special ability as a result of the magical experimentation. Work with the GM to select an appropriate ability from the following list or to come up with another special ability.
 

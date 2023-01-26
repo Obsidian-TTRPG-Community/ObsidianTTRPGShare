@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Local Scion]]
+[Local Scion](###%20Local%20Scion)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ The Call for Heroes is one of your hometown's most iconic traditions, and you wa
 
 Choose two ability boosts. One must be Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Breachill Lore]] skill. You gain the [[Specialty Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Breachill Lore](Breachill%20Lore) skill. You gain the [Specialty Crafting](Specialty%20Crafting) skill feat.
 

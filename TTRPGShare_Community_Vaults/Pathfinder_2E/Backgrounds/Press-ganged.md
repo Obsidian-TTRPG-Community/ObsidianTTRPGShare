@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Press-ganged]]
+[Press-ganged](###%20Press-ganged)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ Though you were initially trained as a simple deckhand, you may have subsequentl
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Sailing Lore]] skill. You gain the [[Experienced Professional]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Sailing Lore](Sailing%20Lore) skill. You gain the [Experienced Professional](Experienced%20Professional) skill feat.
 

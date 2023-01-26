@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Eclipseborn]]
+[Eclipseborn](###%20Eclipseborn)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You were born at the exact moment of a solar or lunar eclipse. At the eclipse's 
 
 Choose two ability boosts. One must be to Charisma or Constitution, and one is a free ability boost.
 
-Decide with the GM what catastrophic event coincided with your birth; you're trained in a [[Lore]] skill related to that event. You can cast [[ill omen]] as an occult innate spell once per day. After you [[Cast this Spell]], but before you regain the ability to cast it the following day, the GM can force you to reroll a successful saving throw, attack roll, or skill check as misfortune finds its way back to you. This is a [[misfortune]] effect. If this effect causes you to fail the associated saving throw, attack roll, or skill check, you can cast [[ill omen]] again a second time that day.
+Decide with the GM what catastrophic event coincided with your birth; you're trained in a [Lore](Lore) skill related to that event. You can cast [ill omen](../Spells_Rituals/Arcane_Tradition/Level%201/Ill%20Omen.md) as an occult innate spell once per day. After you [Cast this Spell](Cast%20this%20Spell), but before you regain the ability to cast it the following day, the GM can force you to reroll a successful saving throw, attack roll, or skill check as misfortune finds its way back to you. This is a [misfortune](../Traits/Misfortune.md) effect. If this effect causes you to fail the associated saving throw, attack roll, or skill check, you can cast [ill omen](../Spells_Rituals/Arcane_Tradition/Level%201/Ill%20Omen.md) again a second time that day.
 

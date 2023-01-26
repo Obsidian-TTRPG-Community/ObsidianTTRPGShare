@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Grizzled Muckrucker]]
+[Grizzled Muckrucker](###%20Grizzled%20Muckrucker)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ Thankfully, you found an out: an invitation to transfer to the newly formed Edge
 
 Choose two ability boosts. One must be to Constitution or Charisma, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill, as well as either [[Labor Lore]] or [[Underworld Lore]]. You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with Muckruckers, mercenaries, and adventurers. You gain the [[Experienced Tracker]] skill feat.
+You're trained in the [Survival](Survival) skill, as well as either [Labor Lore](Labor%20Lore) or [Underworld Lore](Underworld%20Lore). You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with Muckruckers, mercenaries, and adventurers. You gain the [Experienced Tracker](Experienced%20Tracker) skill feat.
 

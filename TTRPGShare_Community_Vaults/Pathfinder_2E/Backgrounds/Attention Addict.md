@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Attention Addict]]
+[Attention Addict](###%20Attention%20Addict)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ It's already clear that you'll be named Ruby Phoenix Champion—the challenges l
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in [[Performance]] and the [[Gladiatorial Lore]] skill. You gain the [[Impressive Performance]] skill feat.
+You're trained in [Performance](Performance) and the [Gladiatorial Lore](Gladiatorial%20Lore) skill. You gain the [Impressive Performance](Impressive%20Performance) skill feat.
 

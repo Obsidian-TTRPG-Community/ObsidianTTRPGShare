@@ -1,4 +1,4 @@
-# ViXxuASXbar's Organization Template
+# ViXxuASXbar's Item Template
 
 **Plugin Dependencies**: 
 
@@ -14,6 +14,13 @@
 ## Goals
 Provide aesthetically interesting, consistent structure and templates to assist preparing for a D&D session, campaign or adventure.
 
+
+## How It May Look
+
+![](_attachments/SONDLecT_Item.png)
+
+
+
 ## How to Use
 Remove the back-tick code blocks that are marked out with the phrases "Remove this line and the all the ones above it." and "Remove this line and all the ones below it.". 
 
@@ -24,37 +31,24 @@ Once those are gone, the template is ready to be used in Obsidian.
 Remove this line and the all the ones above it.
 
 ---
-baseofOperations: ["",]
-leaders: [""]
-alignment: [""]
-enemies: [""]
+date: "2023-01-23"
 tags:
   - "dnd"
-  - "organization"
+  - item
 aliases:
-type: "organization"
+  - ""
+type: "item"
 ---
-# [[<%tp.file.title%>]]
-<% await tp.file.move("/dnd/organizations/" + tp.file.title) %>
-**Summary**:: 
+# Vital Singularity
 
-## Description:
-Lorem ipsum..
-
-## Organizational Structure:
-
-### Leader: [[<% await tp.frontmatter.leaders%>]]
-
-### Other members of <%tp.file.title%>
-* . . .
-
+**summary**:: "
 
 
 ---
 ````ad-example
 title: Mentions in Session Notes
 ```dataview
-TABLE summary AS "Session Summary" FROM #session-notes AND [[<%tp.file.title%>]]
+TABLE summary AS "Session Summary" FROM #session-notes AND [[Vital Singularity]]
 ```
 ````
 

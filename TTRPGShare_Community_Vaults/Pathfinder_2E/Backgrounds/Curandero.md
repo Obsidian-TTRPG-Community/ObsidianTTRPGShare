@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Curandero]]
+[Curandero](###%20Curandero)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You learned the healing arts of your community wielding your ceremonial chonta, 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Herbalism Lore]] skill. You gain the [[Inoculation]] skill feat (Pathfinder Advanced Player's Guide 207).
+You're trained in the [Medicine](Medicine) skill and the [Herbalism Lore](Herbalism%20Lore) skill. You gain the [Inoculation](Inoculation) skill feat (Pathfinder Advanced Player's Guide 207).
 

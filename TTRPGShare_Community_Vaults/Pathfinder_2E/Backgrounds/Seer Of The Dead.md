@@ -11,7 +11,7 @@ traits: rare
 misc: situationalBenefit
 ---
 
-[[### Seer Of The Dead]]
+[Seer Of The Dead](###%20Seer%20Of%20The%20Dead)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You have long been gifted with the ability to see and speak with the departed. T
 
 You gain one ability boost. It must be to Constitution or Wisdom.
 
-You're trained in [[Religion]] and [[Undead Lore]]. You gain the effects of the [[spirit sense]] spell at all times.
+You're trained in [Religion](Religion) and [Undead Lore](Undead%20Lore). You gain the effects of the [spirit sense](../Spells_Rituals/Arcane_Tradition/Level%202/Spirit%20Sense.md) spell at all times.
 

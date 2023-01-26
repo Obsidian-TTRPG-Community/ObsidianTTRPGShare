@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Atteran Rancher]]
+[Atteran Rancher](###%20Atteran%20Rancher)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You grew up breeding and training the famous horses of the Atteran Ranches in no
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Nature]] skill and the [[Animal Lore]] skill. You gain the [[Train Animal]] skill feat.
+You're trained in the [Nature](Nature) skill and the [Animal Lore](Animal%20Lore) skill. You gain the [Train Animal](Train%20Animal) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Academy Dropout]]
+[Academy Dropout](###%20Academy%20Dropout)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You were enrolled at a prestigious magical academy, but you've since dropped out
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in [[Arcana]] and [[Academia Lore]]. You gain the [[Dubious Knowledge]] skill feat.
+You're trained in [Arcana](Arcana) and [Academia Lore](Academia%20Lore). You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

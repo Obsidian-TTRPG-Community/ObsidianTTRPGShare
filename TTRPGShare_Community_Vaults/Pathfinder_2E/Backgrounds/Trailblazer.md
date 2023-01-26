@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Trailblazer]]
+[Trailblazer](###%20Trailblazer)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Uncharted realms have always intrigued you, and you've explored and mapped large
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Cartography Lore]] skill.
+You're trained in the [Survival](Survival) skill and the [Cartography Lore](Cartography%20Lore) skill.
 
-You gain the [[Terrain Expertise]] skill feat with one terrain you've explored (such as forest or underground).
+You gain the [Terrain Expertise](Terrain%20Expertise) skill feat with one terrain you've explored (such as forest or underground).
 

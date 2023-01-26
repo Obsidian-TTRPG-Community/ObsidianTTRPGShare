@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Merchant]]
+[Merchant](###%20Merchant)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ In a dusty shop, market stall, or merchant caravan, you bartered wares for coin 
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Mercantile Lore]] skill. You gain the [[Bargain Hunter]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Mercantile Lore](Mercantile%20Lore) skill. You gain the [Bargain Hunter](Bargain%20Hunter) skill feat.
 

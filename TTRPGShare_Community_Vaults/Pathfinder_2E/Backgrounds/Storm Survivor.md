@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Storm Survivor]]
+[Storm Survivor](###%20Storm%20Survivor)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Through luck or through skill, you managed to survive a catastrophic maritime di
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Weather Lore]] skill.
+You're trained in the [Survival](Survival) skill and the [Weather Lore](Weather%20Lore) skill.
 
-You gain the [[Forager]] skill feat.
+You gain the [Forager](Forager) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Bookkeeper]]
+[Bookkeeper](###%20Bookkeeper)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You ran the numbers on a large farm, for a merchant's endeavors, or with a major
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Accounting Lore]] skill. You gain the [[Eye for Numbers]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Accounting Lore](Accounting%20Lore) skill. You gain the [Eye for Numbers](Eye%20for%20Numbers) skill feat.
 

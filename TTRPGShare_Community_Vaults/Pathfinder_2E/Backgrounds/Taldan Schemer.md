@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Taldan Schemer]]
+[Taldan Schemer](###%20Taldan%20Schemer)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ Whether willing or unwilling, you have been involved in the many cutthroat polit
 
 Choose two ability boosts. One must be to Charisma or Constitution, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Politics Lore]] skill. You gain the [[Hobnobber]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Politics Lore](Politics%20Lore) skill. You gain the [Hobnobber](Hobnobber) skill feat.
 

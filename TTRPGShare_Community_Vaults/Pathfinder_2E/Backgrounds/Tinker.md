@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Tinker]]
+[Tinker](###%20Tinker)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ It might be a genius device with tremendous potential... or it might explode.
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Engineering Lore]] skill. You gain the [[Specialty Crafting]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Specialty Crafting](Specialty%20Crafting) skill feat.
 

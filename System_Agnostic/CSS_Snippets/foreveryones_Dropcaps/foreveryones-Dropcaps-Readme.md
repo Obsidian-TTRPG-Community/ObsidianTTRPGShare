@@ -2,7 +2,7 @@
 
 __Dependencies__:
 
-[__foreveryones_dropcaps.css__](foreveryones_dropcaps.css) from this folder.
+[__foreveryones_dropcaps.css__](_attachments/foreveryones_dropcaps.css) from this folder.
 
 [__William Morris Letter Clipart @ Open Clipart__](https://openclipart.org/search/?query=William+Morris) from this folder.
 

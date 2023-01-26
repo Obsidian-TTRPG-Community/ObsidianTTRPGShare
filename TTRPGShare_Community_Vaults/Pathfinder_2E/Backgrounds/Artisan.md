@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Artisan]]
+[Artisan](###%20Artisan)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ As an apprentice, you practiced a particular form of building or crafting, devel
 
 Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Guild Lore]] skill.
+You're trained in the [Crafting](Crafting) skill and the [Guild Lore](Guild%20Lore) skill.
 
-You gain the [[Specialty Crafting]] skill feat.
+You gain the [Specialty Crafting](Specialty%20Crafting) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Eldritch Anatomist]]
+[Eldritch Anatomist](###%20Eldritch%20Anatomist)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Some cultures shape flesh to extreme degrees, creating aberrations from humanoid
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Fleshwarp Lore]] skill. You gain the [[Assurance]] skill feat with [[Medicine]].
+You're trained in the [Medicine](Medicine) skill and the [Fleshwarp Lore](Fleshwarp%20Lore) skill. You gain the [Assurance](Assurance) skill feat with [Medicine](Medicine).
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Wildwood Local]]
+[Wildwood Local](###%20Wildwood%20Local)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Choose two ability boosts.
 
 One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Nature]] skill as well as the [[Forest Lore]] skill. You gain the [[Natural Medicine]] skill feat.
+You're trained in the [Nature](Nature) skill as well as the [Forest Lore](Forest%20Lore) skill. You gain the [Natural Medicine](Natural%20Medicine) skill feat.
 

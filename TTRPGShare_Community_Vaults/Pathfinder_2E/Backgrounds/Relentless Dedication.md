@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Relentless Dedication]]
+[Relentless Dedication](###%20Relentless%20Dedication)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Your commitment to the cause is so clear, it overcame whatever disqualified your
 
 Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
 
-You're trained in the [[Warfare Lore]] skill, and you gain the [[Canny Acumen]] feat.
+You're trained in the [Warfare Lore](Warfare%20Lore) skill, and you gain the [Canny Acumen](Canny%20Acumen) feat.
 

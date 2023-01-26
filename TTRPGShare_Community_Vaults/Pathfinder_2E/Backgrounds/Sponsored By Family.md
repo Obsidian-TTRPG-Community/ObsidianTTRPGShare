@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Sponsored By Family]]
+[Sponsored By Family](###%20Sponsored%20By%20Family)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Several members of your family have studied at the Magaambya, although not all o
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in your choice of the [[Diplomacy]] or [[Society]] skill. You gain a skill feat: [[Hobnobber]] if you chose [[Diplomacy]] or [[Eye for Numbers]] if you chose [[Society]]. You're also trained in [[Magaambya Lore]].
+You're trained in your choice of the [Diplomacy](Diplomacy) or [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill. You gain a skill feat: [Hobnobber](Hobnobber) if you chose [Diplomacy](Diplomacy) or [Eye for Numbers](Eye%20for%20Numbers) if you chose [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md). You're also trained in [Magaambya Lore](Magaambya%20Lore).
 
 Your recommended primary branch is the Uzunjati.
 

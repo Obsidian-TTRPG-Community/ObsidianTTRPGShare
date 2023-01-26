@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Saloon Entertainer]]
+[Saloon Entertainer](###%20Saloon%20Entertainer)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ All you want to do is entertain the people, but sure enough, bad news seems to f
 
 Choose two ability boosts. One must be to Charisma or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and a [[Lore]] skill of your choice. You gain the [[Virtuosic Performer]] skill feat.
+You're trained in the [Performance](Performance) skill and a [Lore](Lore) skill of your choice. You gain the [Virtuosic Performer](Virtuosic%20Performer) skill feat.
 

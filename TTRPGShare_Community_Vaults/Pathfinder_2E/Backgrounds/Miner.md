@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Miner]]
+[Miner](###%20Miner)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You earned a living wrenching precious minerals from the lightless depths of the
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Mining Lore]] skill. You gain the [[Terrain Expertise]] skill feat with underground terrain.
+You're trained in the [Survival](Survival) skill and the [Mining Lore](Mining%20Lore) skill. You gain the [Terrain Expertise](Terrain%20Expertise) skill feat with underground terrain.
 

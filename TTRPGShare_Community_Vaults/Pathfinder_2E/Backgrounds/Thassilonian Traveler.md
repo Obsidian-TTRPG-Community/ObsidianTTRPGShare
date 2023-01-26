@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Thassilonian Traveler]]
+[Thassilonian Traveler](###%20Thassilonian%20Traveler)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You come from ancient Thassilon, one of the citizens that appeared out of time a
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and the [[Thassilon Lore]] skill.
+You're trained in the [Arcana](Arcana) skill and the [Thassilon Lore](Thassilon%20Lore) skill.
 
-You gain the [[Dubious Knowledge]] skill feat.
+You gain the [Dubious Knowledge](Dubious%20Knowledge) skill feat.
 

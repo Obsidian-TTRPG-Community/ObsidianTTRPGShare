@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Emissary]]
+[Emissary](###%20Emissary)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ As a diplomat or messenger, you traveled to lands far and wide. Communicating wi
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and a [[Lore]] skill related to one city you've visited often. You gain the [[Multilingual]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and a [Lore](Lore) skill related to one city you've visited often. You gain the [Multilingual](Multilingual) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Returning Descendant]]
+[Returning Descendant](###%20Returning%20Descendant)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You've decided to respond to the Call for Heroes to follow in your ancestor's fo
 
 Choose two ability boosts. One must be Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Thievery]] skill and the [[Engineering Lore]] skill. You gain the [[Pickpocket]] skill feat.
+You're trained in the [Thievery](Thievery) skill and the [Engineering Lore](Engineering%20Lore) skill. You gain the [Pickpocket](Pickpocket) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Cultist]]
+[Cultist](###%20Cultist)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You were (or still are) a member of a cult whose rites may involve sacred dances
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Occultism]] skill and the [[Lore]] skill related to your deity or cult. You gain the [[Schooled in Secrets]] skill feat.
+You're trained in the [Occultism](Occultism) skill and the [Lore](Lore) skill related to your deity or cult. You gain the [Schooled in Secrets](Schooled%20in%20Secrets) skill feat.
 

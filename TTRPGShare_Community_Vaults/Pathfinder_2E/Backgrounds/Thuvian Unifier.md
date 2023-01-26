@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Thuvian Unifier]]
+[Thuvian Unifier](###%20Thuvian%20Unifier)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You believe the city-states of Thuvia should be united into one nation under the
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Politics Lore]] skill. You gain the [[Quick Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Politics Lore](Politics%20Lore) skill. You gain the [Quick Coercion](Quick%20Coercion) skill feat.
 

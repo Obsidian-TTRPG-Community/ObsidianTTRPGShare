@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Quick]]
+[Quick](###%20Quick)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ Staying alive among the scheming, ravenous undead of Geb required a deep knowled
 
 Choose two ability boosts. One must be to Charisma or Constitution, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Undead Lore]] skill.
+You're trained in the [Deception](Deception) skill and the [Undead Lore](Undead%20Lore) skill.
 
-You gain the [[Charming Liar]] skill feat.
+You gain the [Charming Liar](Charming%20Liar) skill feat.
 

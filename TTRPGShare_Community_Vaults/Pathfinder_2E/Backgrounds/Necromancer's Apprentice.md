@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Necromancer's Apprentice]]
+[Necromancer's Apprentice](###%20Necromancer's%20Apprentice)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You apprenticed under a necromancer—a hard education in a field where a cadave
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and the [[Necromancy Lore]] skill. You gain the [[Quick Identification]] skill feat.
+You're trained in the [Arcana](Arcana) skill and the [Necromancy Lore](Necromancy%20Lore) skill. You gain the [Quick Identification](Quick%20Identification) skill feat.
 

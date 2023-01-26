@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Bright Lion]]
+[Bright Lion](###%20Bright%20Lion)
 `=this.traits`
 
 
@@ -21,7 +21,7 @@ You're experienced operating undercover and have had to be cautious of what you 
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Mzali Lore]] skill.
+You're trained in the [Deception](Deception) skill and the [Mzali Lore](Mzali%20Lore) skill.
 
-You gain the [[Lie to Me]] skill feat.
+You gain the [Lie to Me](Lie%20to%20Me) skill feat.
 

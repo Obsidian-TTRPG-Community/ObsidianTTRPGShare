@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Circus Born]]
+[Circus Born](###%20Circus%20Born)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ The itinerant life of a traveling circus performer is nothing new to you; you we
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in the [[Performance]] skill and the [[Circus Lore]] skill. You gain the [[Experienced Professional]] skill feat.
+You're trained in the [Performance](Performance) skill and the [Circus Lore](Circus%20Lore) skill. You gain the [Experienced Professional](Experienced%20Professional) skill feat.
 

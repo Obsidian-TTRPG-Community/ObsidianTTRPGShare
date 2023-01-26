@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Out-of-towner]]
+[Out-of-towner](###%20Out-of-towner)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ You're excited to meet new people and cultures, and answering the Call for Heroe
 
 Choose two ability boosts. One must be Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and one of the following [[Lore]] skills thematically associated with the members of the ancestry you grew up with: Dwarf, Elf, Gnome, Goblin, or Halfling. You gain the [[Hobnobber]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and one of the following [Lore](Lore) skills thematically associated with the members of the ancestry you grew up with: Dwarf, Elf, Gnome, Goblin, or Halfling. You gain the [Hobnobber](Hobnobber) skill feat.
 

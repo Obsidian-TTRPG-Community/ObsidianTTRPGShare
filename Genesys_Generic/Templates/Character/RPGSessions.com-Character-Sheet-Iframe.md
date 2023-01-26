@@ -1,8 +1,8 @@
 ---
-statblock: <%tp.file.cursor(1)%>
+statblock: <% tp.file.cursor(1) %>
 ---
 
-<%tp.file.cursor(2)%>
+<% tp.file.cursor(2) %>
 
 ## Sessions' Stat Block
 

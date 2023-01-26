@@ -11,7 +11,7 @@ traits: rare
 misc: ability
 ---
 
-[[### Otherworldly Mission]]
+[Otherworldly Mission](###%20Otherworldly%20Mission)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You're called to serve a specific purpose—your deity told you so, and so it mu
 
 You should work with your GM on how to handle the truth of your character's backstory or leave it to the GM to decide in secret. Is this call to action a message from the character's own mind, are they being manipulated by some manner of supernatural entity, or are they actually getting marching orders from one of the deities of the setting? Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in [[Religion]]. Once per adventure, you can ask the voice you believe to be a deity for orders and get some kind of instruction—you never get any kind of explanation, simply a command to go somewhere or do something. Following those commands isn't always safe, but it's usually interesting.
+You're trained in [Religion](Religion). Once per adventure, you can ask the voice you believe to be a deity for orders and get some kind of instruction—you never get any kind of explanation, simply a command to go somewhere or do something. Following those commands isn't always safe, but it's usually interesting.
 

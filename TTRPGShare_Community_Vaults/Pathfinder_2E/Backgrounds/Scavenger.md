@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Scavenger]]
+[Scavenger](###%20Scavenger)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You've made a living sorting through the things society throws away. You might h
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Survival]] skill and the [[Lore]] skill for the settlement you grew up scavenging in. You gain the [[Forager]] skill feat.
+You're trained in the [Survival](Survival) skill and the [Lore](Lore) skill for the settlement you grew up scavenging in. You gain the [Forager](Forager) skill feat.
 

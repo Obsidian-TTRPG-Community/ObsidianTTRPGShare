@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Junker]]
+[Junker](###%20Junker)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You live on the outskirts of civilization, combing through the detritus left beh
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Lore]] skill of the terrain in which you scavenge. You gain the [[Hefty Hauler]] skill feat.
+You're trained in the [Athletics](Athletics) skill and the [Lore](Lore) skill of the terrain in which you scavenge. You gain the [Hefty Hauler](Hefty%20Hauler) skill feat.
 

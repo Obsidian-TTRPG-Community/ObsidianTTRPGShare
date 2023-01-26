@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Butcher]]
+[Butcher](###%20Butcher)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You've spent uncounted hours walking up and down crowded and noisy circus stands
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Mercantile Lore]] skill. You gain the [[Read Lips]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Mercantile Lore](Mercantile%20Lore) skill. You gain the [Read Lips](Read%20Lips) skill feat.
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Herbalist]]
+[Herbalist](###%20Herbalist)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You're adept at collecting the right natural cures in all sorts of environments 
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Nature]] skill and the [[Herbalism Lore]] skill. You gain the [[Natural Medicine]] skill feat.
+You're trained in the [Nature](Nature) skill and the [Herbalism Lore](Herbalism%20Lore) skill. You gain the [Natural Medicine](Natural%20Medicine) skill feat.
 

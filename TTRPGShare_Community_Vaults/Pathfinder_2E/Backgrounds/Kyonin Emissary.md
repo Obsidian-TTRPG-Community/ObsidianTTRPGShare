@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Kyonin Emissary]]
+[Kyonin Emissary](###%20Kyonin%20Emissary)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You were trained to be an ambassador of the elven land of Kyonin, and you have n
 
 Choose two ability boosts. One must be to Charisma or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Politics Lore]] skill. You gain the [[Multilingual]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Politics Lore](Politics%20Lore) skill. You gain the [Multilingual](Multilingual) skill feat.
 

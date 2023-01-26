@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Haunted]]
+[Haunted](###%20Haunted)
 `=this.traits`
 
 `=this.traits`
@@ -20,5 +20,5 @@ You are followed by a spirit or entity, either from childhood or since a traumat
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You are trained in [[Occultism]] and an additional skill in which the haunting entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [[Aiding]] you. If you accept but fail the check, you are frightened on a critical failure). The initial [[frightened]] value can't be reduced by effects that would reduce or prevent the condition (such as a fighter's bravery).
+You are trained in [Occultism](Occultism) and an additional skill in which the haunting entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [Aiding](Aiding) you. If you accept but fail the check, you are frightened on a critical failure). The initial [frightened](../Conditions/Frightened.md) value can't be reduced by effects that would reduce or prevent the condition (such as a fighter's bravery).
 

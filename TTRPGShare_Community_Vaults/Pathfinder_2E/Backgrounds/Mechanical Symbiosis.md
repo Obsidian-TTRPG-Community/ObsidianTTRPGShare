@@ -11,7 +11,7 @@ traits: rare
 misc: 
 ---
 
-[[### Mechanical Symbiosis]]
+[Mechanical Symbiosis](###%20Mechanical%20Symbiosis)
 `=this.traits`
 
 
@@ -27,7 +27,7 @@ The entity might talk to you periodically, or it might only speak when it wants 
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Arcana]] skill and an additional skill in which the clockwork entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [[Aiding]] you.
+You're trained in the [Arcana](Arcana) skill and an additional skill in which the clockwork entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [Aiding](Aiding) you.
 
 If you accept but fail the check, the entity clenches up and you are stunned on a critical failure).
 

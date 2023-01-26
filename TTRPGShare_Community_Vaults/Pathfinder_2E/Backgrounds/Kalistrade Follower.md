@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Kalistrade Follower]]
+[Kalistrade Follower](###%20Kalistrade%20Follower)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You follow the philosophy of the Prophecies of Kalistrade, seeking to build up y
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Kalistrade Lore]] skill. You gain the [[Bargain Hunter]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Kalistrade Lore](Kalistrade%20Lore) skill. You gain the [Bargain Hunter](Bargain%20Hunter) skill feat.
 

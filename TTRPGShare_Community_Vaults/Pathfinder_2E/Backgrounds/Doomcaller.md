@@ -11,7 +11,7 @@ traits: rare
 misc: ability
 ---
 
-[[### Doomcaller]]
+[Doomcaller](###%20Doomcaller)
 `=this.traits`
 
 

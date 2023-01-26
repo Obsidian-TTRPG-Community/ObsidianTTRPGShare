@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Ustalavic Academic]]
+[Ustalavic Academic](###%20Ustalavic%20Academic)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You were educated at a famed Ustalavic academy, such as the University of Lepids
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Academia Lore]] skill. You gain the [[Skill Training]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Academia Lore](Academia%20Lore) skill. You gain the [Skill Training](Skill%20Training) skill feat.
 

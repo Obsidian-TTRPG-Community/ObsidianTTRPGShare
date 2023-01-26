@@ -11,7 +11,7 @@ traits:
 misc: situationalBenefit
 ---
 
-[[### Godless Graycloak]]
+[Godless Graycloak](###%20Godless%20Graycloak)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You finally found a like mind in Captain Runewulf, "the Unbeliever," whose reput
 
 Your good record has earned you a transfer—temporary or not, the choice is yours—to the newly formed Edgewatch, where you'll use your authority to guard the lives of not just Absalomians, but all who have come to your grand city to experience its wonders. Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Religion]] skill and your choice of a specific religion [[Lore]] skill (such as [[Iomedae Lore]] or [[Norgorber Lore]]),You gain a +1 circumstance bonus to [[Deception]], [[Diplomacy]], and [[Intimidation]] checks to interact with Graycloaks, priests, and clerics. You gain the [[Quick Identification]] feat.
+You're trained in the [Religion](Religion) skill and your choice of a specific religion [Lore](Lore) skill (such as [Iomedae Lore](Iomedae%20Lore) or [Norgorber Lore](Norgorber%20Lore)),You gain a +1 circumstance bonus to [Deception](Deception), [Diplomacy](Diplomacy), and [Intimidation](Intimidation) checks to interact with Graycloaks, priests, and clerics. You gain the [Quick Identification](Quick%20Identification) feat.
 

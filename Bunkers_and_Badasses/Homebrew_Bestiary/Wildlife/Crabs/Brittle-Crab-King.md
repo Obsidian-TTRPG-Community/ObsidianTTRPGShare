@@ -4,7 +4,7 @@ alias: ["Brittle Crab King"]
 cr: 3
 cssclass: bunkers, wonderlands
 hp: 30
-initiative: 
+modifier: 
 statblock: true
 tags:
 - BnB/Bestiary/Crab/Brittle-Crab-King
@@ -55,4 +55,3 @@ loot:
 - name: 
   desc: "Long Ago, Brittle Crab King was impaled with a Hewn Axe. Once free of the shell, the rusted head will do 3 (1d4) damage per swing."
 ```
-

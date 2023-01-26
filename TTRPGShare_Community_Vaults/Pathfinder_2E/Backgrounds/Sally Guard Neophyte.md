@@ -11,7 +11,7 @@ traits:
 misc: equipment
 ---
 
-[[### Sally Guard Neophyte]]
+[Sally Guard Neophyte](###%20Sally%20Guard%20Neophyte)
 `=this.traits`
 
 
@@ -23,5 +23,5 @@ You'll prove them wrong, one way or another, and show everyone that you can prot
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Nature]] skill and your choice of [[Hunting Lore]] or [[Stabling Lore]]. You start out with a [[riding horse]], as well as a suit of shoddy half plate} armor, a shoddy longsword, and a shoddy lance.
+You're trained in the [Nature](Nature) skill and your choice of [Hunting Lore](Hunting%20Lore) or [Stabling Lore](Stabling%20Lore). You start out with a [riding horse](riding%20horse), as well as a suit of shoddy half plate} armor, a shoddy longsword, and a shoddy lance.
 

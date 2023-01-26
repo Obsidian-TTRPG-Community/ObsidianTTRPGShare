@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Pilgrim]]
+[Pilgrim](###%20Pilgrim)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ In your youth, you made several pilgrimages to important shrines and holy sites.
 
 Choose two ability boosts. One must be to Wisdom or Charisma, and one is a free ability boost.
 
-You're trained in the [[Religion]] skill and the [[Lore]] skill for your patron deity. You gain the [[Pilgrim's Token]] skill feat.
+You're trained in the [Religion](Religion) skill and the [Lore](Lore) skill for your patron deity. You gain the [Pilgrim's Token](Pilgrim's%20Token) skill feat.
 

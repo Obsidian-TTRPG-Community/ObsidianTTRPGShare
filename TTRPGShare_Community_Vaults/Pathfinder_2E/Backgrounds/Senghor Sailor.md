@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Senghor Sailor]]
+[Senghor Sailor](###%20Senghor%20Sailor)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ As an experienced sailor from Senghor, you know that the only thing saving you f
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Crafting]] skill and the [[Sailing Lore]] skill. You gain the [[Quick Repair]] skill feat.
+You're trained in the [Crafting](Crafting) skill and the [Sailing Lore](Sailing%20Lore) skill. You gain the [Quick Repair](Quick%20Repair) skill feat.
 

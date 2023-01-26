@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Belkzen Slayer]]
+[Belkzen Slayer](###%20Belkzen%20Slayer)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You are a fearsome warrior from the Hold of Belkzen, and your clan counts on you
 
 Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Orc Lore]] skill.
+You're trained in the [Intimidation](Intimidation) skill and the [Orc Lore](Orc%20Lore) skill.
 
-You gain the [[Intimidating Glare]] skill feat.
+You gain the [Intimidating Glare](Intimidating%20Glare) skill feat.
 

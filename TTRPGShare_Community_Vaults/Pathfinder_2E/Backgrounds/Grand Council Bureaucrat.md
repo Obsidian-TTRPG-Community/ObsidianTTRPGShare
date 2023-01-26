@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Grand Council Bureaucrat]]
+[Grand Council Bureaucrat](###%20Grand%20Council%20Bureaucrat)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You spent years working as a clerk to a functionary in Absalom's government. You
 
 Choose two ability boosts. One must be to Charisma or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Government Lore]] skill. You gain the [[Group Impression]] skill feat.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Government Lore](Government%20Lore) skill. You gain the [Group Impression](Group%20Impression) skill feat.
 

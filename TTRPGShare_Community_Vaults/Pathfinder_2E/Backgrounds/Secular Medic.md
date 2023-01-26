@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Secular Medic]]
+[Secular Medic](###%20Secular%20Medic)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You're from Rahadoum, where the Laws of Mortality taught you to reject the gods,
 
 Choose two ability boosts. One must be to Wisdom or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Anatomy Lore]] skill.
+You're trained in the [Medicine](Medicine) skill and the [Anatomy Lore](Anatomy%20Lore) skill.
 
-You gain the [[Battle Medicine]] skill feat.
+You gain the [Battle Medicine](Battle%20Medicine) skill feat.
 

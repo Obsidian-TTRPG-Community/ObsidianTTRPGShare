@@ -11,7 +11,7 @@ traits: uncommon
 misc: 
 ---
 
-[[### Alkenstar Sojourner]]
+[Alkenstar Sojourner](###%20Alkenstar%20Sojourner)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Either way, journalism and scientific curiosity opened the door to a life of adv
 
 Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
 
-You're trained in [[Society]] and [[Engineering Lore]]. You gain the [[Streetwise]] skill feat.
+You're trained in [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) and [Engineering Lore](Engineering%20Lore). You gain the [Streetwise](Streetwise) skill feat.
 

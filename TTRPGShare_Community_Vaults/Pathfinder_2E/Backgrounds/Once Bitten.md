@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Once Bitten]]
+[Once Bitten](###%20Once%20Bitten)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ After an altercation with an undead creature, you feared you might be infected. 
 
 Choose two ability boosts. One must be to Dexterity or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Medicine]] skill and the [[Undead Lore]] skill. You gain the [[Battle Medicine]] skill feat.
+You're trained in the [Medicine](Medicine) skill and the [Undead Lore](Undead%20Lore) skill. You gain the [Battle Medicine](Battle%20Medicine) skill feat.
 

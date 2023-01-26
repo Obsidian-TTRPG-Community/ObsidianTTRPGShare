@@ -11,7 +11,7 @@ traits: rare
 misc: ability
 ---
 
-[[### Feybound]]
+[Feybound](###%20Feybound)
 `=this.traits`
 
 
@@ -21,7 +21,7 @@ Perhaps you made a purchase at the legendary Witchmarket or partook deeply of fe
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You are trained in [[Fey Lore]] and gain the Fey's Fortune free action. You must follow some rule or limitation as part of your pact with the fey. If you violate the rule, you lose Fey's Fortune until you receive the effects of a successful atone ritual using the [[Nature]] skill. The exact limitation is up to you and the GM, but the most common requirement is that you must fulfill a single request from any fey who knows your name.
+You are trained in [Fey Lore](Fey%20Lore) and gain the Fey's Fortune free action. You must follow some rule or limitation as part of your pact with the fey. If you violate the rule, you lose Fey's Fortune until you receive the effects of a successful atone ritual using the [Nature](Nature) skill. The exact limitation is up to you and the GM, but the most common requirement is that you must fulfill a single request from any fey who knows your name.
 
 
 

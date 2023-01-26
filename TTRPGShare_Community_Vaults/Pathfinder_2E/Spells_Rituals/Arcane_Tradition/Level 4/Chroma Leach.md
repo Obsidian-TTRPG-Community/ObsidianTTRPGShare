@@ -17,7 +17,7 @@ __Source__ Advanced Player's Guide pg. 217 2.0
 
 ---
 
-Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living. The target must attempt a Fortitude save; creatures with the [gnome](gnome) trait take a –2 circumstance penalty to this save.
+Your hand glows with impossible colors from beyond the stars, and your touch saps both color and vitality from the living. The target must attempt a Fortitude save; creatures with the [gnome](../../../../../../../80-13th-Age-SRD/Races/Gnome.md) trait take a –2 circumstance penalty to this save.
 
 **Critical Success** The target is unaffected.  
 **Success** The target is [Enfeebled](../../../Conditions/Enfeebled.md) 2 for 1 round.  

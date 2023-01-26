@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Freed Slave Of Absalom]]
+[Freed Slave Of Absalom](###%20Freed%20Slave%20Of%20Absalom)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ As a recently freed slave in Absalom, you belong to a new, closeknit social clas
 
 Choose two ability boosts. One must be to Constitution or Intelligence, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and the [[Absalom Lore]] skill.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and the [Absalom Lore](Absalom%20Lore) skill.
 
-You gain the [[Streetwise]] skill feat.
+You gain the [Streetwise](Streetwise) skill feat.
 

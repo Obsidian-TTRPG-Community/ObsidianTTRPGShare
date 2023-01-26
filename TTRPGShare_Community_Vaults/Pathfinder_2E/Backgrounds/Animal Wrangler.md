@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Animal Wrangler]]
+[Animal Wrangler](###%20Animal%20Wrangler)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You have a long history of working with large circus animals for the Celestial M
 
 Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
 
-You're trained in your choice of the [[Athletics]] or [[Nature]] skills. You gain a skill feat: Titan Wrestler if you chose [[Athletics]], or Train Animal if you chose [[Nature]]. You are also trained in a [[Lore]] skill related to a particular kind of common animal (such as [[Equine Lore]], [[Feline Lore]], or [[Pachyderm Lore]]).
+You're trained in your choice of the [Athletics](Athletics) or [Nature](Nature) skills. You gain a skill feat: Titan Wrestler if you chose [Athletics](Athletics), or Train Animal if you chose [Nature](Nature). You are also trained in a [Lore](Lore) skill related to a particular kind of common animal (such as [Equine Lore](Equine%20Lore), [Feline Lore](Feline%20Lore), or [Pachyderm Lore](Pachyderm%20Lore)).
 

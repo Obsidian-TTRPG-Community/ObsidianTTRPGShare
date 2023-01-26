@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Gambler]]
+[Gambler](###%20Gambler)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ The thrill of the win drew you into games of chance. This might have been a lucr
 
 Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
 
-You're trained in the [[Deception]] skill and the [[Games Lore]] skill. You gain the [[Lie to Me]] skill feat.
+You're trained in the [Deception](Deception) skill and the [Games Lore](Games%20Lore) skill. You gain the [Lie to Me](Lie%20to%20Me) skill feat.
 

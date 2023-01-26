@@ -11,7 +11,7 @@ traits: rare
 misc: ability
 ---
 
-[[### Genie-blessed]]
+[Genie-blessed](###%20Genie-blessed)
 `=this.traits`
 
 
@@ -21,7 +21,7 @@ Meanwhile, other genies of the same kind recognize you as one blessed by one of 
 
 Choose two ability boosts. One must be to Charisma, and one is a free ability boost.
 
-You're trained in the [[Diplomacy]] skill and the [[Genie Lore]] skill. You gain the Wish for Luck free action.
+You're trained in the [Diplomacy](Diplomacy) skill and the [Genie Lore](Genie%20Lore) skill. You gain the Wish for Luck free action.
 
 
 

@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Sailor]]
+[Sailor](###%20Sailor)
 `=this.traits`
 
 
@@ -19,7 +19,7 @@ You heard the call of the sea from a young age. Perhaps you signed onto a mercha
 
 Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
 
-You're trained in the [[Athletics]] skill and the [[Sailing Lore]] skill.
+You're trained in the [Athletics](Athletics) skill and the [Sailing Lore](Sailing%20Lore) skill.
 
-You gain the [[Underwater Marauder]] skill feat.
+You gain the [Underwater Marauder](Underwater%20Marauder) skill feat.
 

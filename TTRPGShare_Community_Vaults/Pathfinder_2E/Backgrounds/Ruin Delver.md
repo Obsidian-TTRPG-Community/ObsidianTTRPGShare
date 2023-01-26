@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Ruin Delver]]
+[Ruin Delver](###%20Ruin%20Delver)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ You've heard that these ruins are pretty well picked over, and mostly collapsed,
 
 Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
 
-You're trained in [[Acrobatics]] and the [[Roseguard Lore]] skill. You gain the [[Cat Fall]] skill feat.
+You're trained in [Acrobatics](Acrobatics) and the [Roseguard Lore](Roseguard%20Lore) skill. You gain the [Cat Fall](Cat%20Fall) skill feat.
 

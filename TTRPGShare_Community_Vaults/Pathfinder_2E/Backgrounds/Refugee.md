@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Refugee]]
+[Refugee](###%20Refugee)
 `=this.traits`
 
 
@@ -21,5 +21,5 @@ Adventuring is a way to support yourself while offering hope to those who need i
 
 Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Society]] skill and a [[Lore]] skill related to the settlement you came from. You gain the [[Streetwise]] skill feat.
+You're trained in the [Society](../../../../../20-Wyrmspire/14-Dragonling-Zettel/Society.md) skill and a [Lore](Lore) skill related to the settlement you came from. You gain the [Streetwise](Streetwise) skill feat.
 

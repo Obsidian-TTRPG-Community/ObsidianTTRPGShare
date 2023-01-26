@@ -11,7 +11,7 @@ traits:
 misc: 
 ---
 
-[[### Shadow Haunted]]
+[Shadow Haunted](###%20Shadow%20Haunted)
 `=this.traits`
 
 
@@ -19,5 +19,5 @@ You are from Nidal, and regardless of your personal values, Zon-Kuthon has a cla
 
 Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
 
-You're trained in the [[Intimidation]] skill and the [[Shadow Plane Lore]] skill. You gain the [[Quick Coercion]] skill feat.
+You're trained in the [Intimidation](Intimidation) skill and the [Shadow Plane Lore](Shadow%20Plane%20Lore) skill. You gain the [Quick Coercion](Quick%20Coercion) skill feat.
 
