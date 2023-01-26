@@ -12,12 +12,25 @@ modifier: 6
 level: 2
 ---
 # Readme for PF2E Statblocks
-Sigrunixia/LittleMaelstrom
-Fate
 
 The Obsidian TTRPG Share team presents the Release Candidate 1 for the Pathfinder 2E TTRPG Statblock Layout.
 
-The Developers who took on this task are Sigrunixia/LittleMaelstrom, and Fate.
+## Features
+
+![[Pathfinder2e-Statblocks-RC1.png]]
+
+1. Fully fleshed and *mostly*\** theme-proof statblock layout. 
+2. Initiative tracker integration
+3. Most fields accept markdown (But do not use asterisks, use underscores!)
+4. Conditional fields
+5. Commented CSS File so you can make it your own.
+
+\* ITS Theme users, there may still be *some* formatting issues until the new release. Alternatively, you can switch to using ITS Beta.
+
+### A Special Thanks
+
+> The Developers who took on this task are Sigrunixia/LittleMaelstrom, and Fate. The repository will be its maintainers but Sigrunixia and Fate will continue to take a lead role in updates as they work to transition to making this statblock layout into an official layout included within TTRPG Statblocks.
+
 
 ## What you need to make this statblock shine
 1. [[Path2eBlock.json]], to install into TTRPG Statblocks
