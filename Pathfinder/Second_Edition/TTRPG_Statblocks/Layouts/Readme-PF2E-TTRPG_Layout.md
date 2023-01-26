@@ -17,7 +17,12 @@ The Obsidian TTRPG Share team presents the Release Candidate 1 for the Pathfinde
 
 ## Features
 
-![[Pathfinder2e-Statblocks-RC1.png]]
+Wikilink Embed: ![[Pathfinder2e-Statblocks-RC1.png]]
+
+Wikilink Relative Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
+
+Markdown Embed: ![](_attachments/Pathfinder2e-Statblocks-RC1.png)
+
 
 1. Fully fleshed and *mostly*\** theme-proof statblock layout. 
 2. Initiative tracker integration
