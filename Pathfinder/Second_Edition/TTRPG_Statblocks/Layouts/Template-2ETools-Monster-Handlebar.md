@@ -30,7 +30,7 @@ alignment: "{{uppercase this}}"
 {{#if (test this (toRegex "^(tiny|small|medium|large|huge|gargantuan)$"))}}
 size: "{{capitalize this}}"
 {{else}}
-trait_0{{(add @index 1)}}: "{{capitalizeAll this}}"
+trait_0{{add @index 1}}: "{{capitalizeAll this}}"
 {{/if}}
 {{/if}}
 {{/if}}
