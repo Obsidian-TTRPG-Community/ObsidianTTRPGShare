@@ -26,7 +26,7 @@ trait_03: "Aberration"
 perception:
   - name: "Perception"
     desc: "Perception +29; __imprecise [[tremorsense]] 60__;"
-languages: "Aklo (can&#x27;t speak any language);  telepathy;"
+languages: "Aklo (can't speak any language);  telepathy;"
 skills:
   - name: "Skills"
     desc: "__Deception__: +30 (1d20+30); __Intimidation__: +30 (1d20+30); __Occultism__: +27 (1d20+27); "

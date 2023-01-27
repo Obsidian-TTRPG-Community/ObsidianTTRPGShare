@@ -26,7 +26,7 @@ trait_03: "Beast"
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise scent 30__;"
-languages: "Common (can&#x27;t speak any language); "
+languages: "Common (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +11 (1d20+11); __Athletics__: +10 (1d20+10); "

@@ -55,7 +55,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 29; __Cantrips (5th)__ [[mage hand]], [[message]], [[read aura]], [[shield]]; __3rd__ [[mind reading]] (at will); __4th__ [[blink]], [[confusion]], [[crushing despair]], [[dream message]], [[invisibility]] (at will), [[nightmare]]; __5th__ [[hallucination]], [[mind probe]];"
+    desc: "DC 29; __Cantrips (5th)__ [[mage hand]], [[message]], [[read aura]], [[shield]]; __3rd__ [[mind reading]] (at will); __4th__ [[blink]], [[confusion]], [[crushing despair]], [[dream message]], [[invisibility]] (at will) self only, [[nightmare]]; __5th__ [[hallucination]], [[mind probe]];"
 sourcebook: "_Bestiary_, page 245."
 ```
 

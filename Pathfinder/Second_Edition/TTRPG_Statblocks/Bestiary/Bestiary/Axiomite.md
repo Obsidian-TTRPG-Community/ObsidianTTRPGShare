@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 27, attack +17; __Cantrips (4th)__ [[telekinetic projectile]]; __1st__ [[true strike]] (at will); __2nd__ [[telekinetic maneuver]]; __3rd__ [[haste]] (3), [[paralyze]]; __4th__ [[dispel magic]], [[divine wrath]], [[lightning bolt]] (3); __5th__ [[telekinetic haul]];"
+    desc: "DC 27, attack +17; __Cantrips (4th)__ [[telekinetic projectile]]; __1st__ [[true strike]] (at will); __2nd__ [[telekinetic maneuver]]; __3rd__ [[haste]] (3), [[paralyze]]; __4th__ [[dispel magic]], [[divine wrath]] lawful, [[lightning bolt]] (3); __5th__ [[telekinetic haul]];"
 sourcebook: "_Bestiary_, page 9."
 ```
 

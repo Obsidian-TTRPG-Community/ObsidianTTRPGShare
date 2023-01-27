@@ -79,7 +79,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 43; __Cantrips (8th)__ [[ghost sound]]; __1st__ [[create water]]; __7th__ [[project image]]; __8th__ [[hallucinatory terrain]] (at will), [[illusory creature]] (at will), [[illusory object]] (at will), [[ventriloquism]] (at will);"
+    desc: "DC 43; __Cantrips (8th)__ [[ghost sound]]; __1st__ [[create water]] at will; see desert thirst; __7th__ [[project image]] see mirage; __8th__ [[hallucinatory terrain]] (at will), [[illusory creature]] (at will), [[illusory object]] (at will), [[ventriloquism]] (at will);"
 sourcebook: "_Bestiary_, page 108."
 ```
 

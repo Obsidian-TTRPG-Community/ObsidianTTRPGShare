@@ -27,7 +27,7 @@ trait_04: "Beast"
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise [[tremorsense]] 60__;"
-languages: "Jotun (can&#x27;t speak any language); "
+languages: "Jotun (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +18 (1d20+18); __Stealth__: +13 (1d20+13); "

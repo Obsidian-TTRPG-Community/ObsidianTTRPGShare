@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23; __1st__ [[detect alignment]]; __3rd__ [[dispel magic]] (2), [[paralyze]]; __4th__ [[dimension door]] (at will); __7th__ [[fly]]; __Constant__ __(2nd)__ [[see invisibility]];"
+    desc: "DC 23; __1st__ [[detect alignment]] at will; good only; __3rd__ [[dispel magic]] (2), [[paralyze]]; __4th__ [[dimension door]] (at will); __7th__ [[fly]]; __Constant__ __(2nd)__ [[see invisibility]];"
 sourcebook: "_Bestiary_, page 71."
 ```
 

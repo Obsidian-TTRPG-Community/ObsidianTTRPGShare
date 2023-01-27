@@ -67,7 +67,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __1st__ [[detect alignment]]; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __7th__ [[plane shift]] (2); __8th__ [[discern location]], [[finger of death]]; __Constant__ __(6th)__ [[true seeing]];"
+    desc: "DC 37; __1st__ [[detect alignment]] at will; good only; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __7th__ [[plane shift]] (2); __8th__ [[discern location]], [[finger of death]]; __Constant__ __(6th)__ [[true seeing]];"
 sourcebook: "_Bestiary_, page 73."
 ```
 

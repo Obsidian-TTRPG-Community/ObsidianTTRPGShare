@@ -27,7 +27,7 @@ trait_04: "Fire"
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
-languages: "Sylvan (can&#x27;t speak any language); "
+languages: "Sylvan (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +14 (1d20+14); __Athletics__: +14 (1d20+14); __Survival__: +14 (1d20+14), (Survival: +17 (1d20+17) to Track); "

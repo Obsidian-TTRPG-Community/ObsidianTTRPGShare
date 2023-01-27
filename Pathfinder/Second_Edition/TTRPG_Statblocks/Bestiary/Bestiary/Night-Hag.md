@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 28; __1st__ [[ray of enfeeblement]] (at will), [[sleep]] (at will); __2nd__ [[invisibility]] (at will); __3rd__ [[dream message]] (at will), [[magic missile]] (at will); __5th__ [[nightmare]], [[shadow blast]] (2); __8th__ [[dream council]]; __9th__ [[bind soul]], [[ethereal jaunt]]; __Constant__ __(2nd)__ [[detect alignment]], __(3rd)__ [[detect magic]];"
+    desc: "DC 28; __1st__ [[ray of enfeeblement]] (at will), [[sleep]] (at will); __2nd__ [[invisibility]] (at will); __3rd__ [[dream message]] (at will), [[magic missile]] (at will); __5th__ [[nightmare]], [[shadow blast]] (2) from heartstone; __8th__ [[dream council]]; __9th__ [[bind soul]] at will; from heartstone, [[ethereal jaunt]] at will; from heartstone; __Constant__ __(2nd)__ [[detect alignment]], __(3rd)__ [[detect magic]];"
 sourcebook: "_Bestiary_, page 202."
 ```
 

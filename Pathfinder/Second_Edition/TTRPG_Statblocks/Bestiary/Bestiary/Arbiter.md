@@ -60,7 +60,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __1st__ [[command]], [[detect alignment]] (at will), [[mending]] (3); __4th__ [[read omens]];"
+    desc: "DC 17; __1st__ [[command]], [[detect alignment]] (at will) chaotic only, [[mending]] (3); __4th__ [[read omens]];"
 sourcebook: "_Bestiary_, page 8."
 ```
 

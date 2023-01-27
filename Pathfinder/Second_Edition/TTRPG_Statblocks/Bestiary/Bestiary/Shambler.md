@@ -26,7 +26,7 @@ trait_03: "Plant"
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
-languages: "Common, Elven, Sylvan (can&#x27;t speak any language); "
+languages: "Common, Elven, Sylvan (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +16 (1d20+16); __Stealth__: +12 (1d20+12), (Stealth: +18 (1d20+18) in forests or swamps); "

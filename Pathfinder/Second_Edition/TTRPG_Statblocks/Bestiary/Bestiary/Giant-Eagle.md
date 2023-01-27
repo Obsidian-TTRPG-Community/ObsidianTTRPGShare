@@ -26,7 +26,7 @@ trait_03: "Beast"
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__;"
-languages: "Auran, Sylvan (can&#x27;t speak any language); "
+languages: "Auran, Sylvan (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +11 (1d20+11); __Athletics__: +8 (1d20+8); "

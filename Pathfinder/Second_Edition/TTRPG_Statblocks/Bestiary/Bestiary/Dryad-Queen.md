@@ -77,7 +77,7 @@ spellcasting:
   - name: "Primal Prepared Spells"
     desc: "DC 35, attack +25; __Cantrips (7th)__ [[detect magic]], [[guidance]], [[light]], [[ray of frost]], [[stabilize]]; __1st__ [[fleet step]], [[gust of wind]], [[negate aroma]]; __2nd__ [[animal messenger]], [[faerie fire]], [[remove fear]]; __3rd__ [[earthbind]], [[haste]], [[wall of thorns]]; __4th__ [[fly]], [[resist energy]], [[stoneskin]]; __5th__ [[cone of cold]], [[death ward]], [[heal]]; __6th__ [[baleful polymorph]], [[chain lightning]], [[tangling creepers]]; __7th__ [[regenerate]], [[summon plant or fungus]];"
   - name: "Primal Innate Spells"
-    desc: "DC 35, attack +25; __Cantrips (5th)__ [[tanglefoot]]; __2nd__ [[shape wood]] (at will), [[tree shape]] (at will); __3rd__ [[entangle]] (at will), [[sleep]] (at will); __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[tree stride]] (3); __8th__ [[impaling briars]]; __Constant__ __(4th)__ [[speak with plants]];"
+    desc: "DC 35, attack +25; __Cantrips (5th)__ [[tanglefoot]]; __2nd__ [[shape wood]] (at will), [[tree shape]] (at will); __3rd__ [[entangle]] (at will), [[sleep]] (at will); __4th__ [[charm]] (at will), [[suggestion]] (at will); __5th__ [[tree stride]] (3); __8th__ [[impaling briars]] Core Rulebook 400; __Constant__ __(4th)__ [[speak with plants]];"
 sourcebook: "_Bestiary_, page 249."
 ```
 

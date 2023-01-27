@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 35; __1st__ [[detect alignment]]; __3rd__ [[locate]]; __7th__ [[sunburst]];"
+    desc: "DC 35; __1st__ [[detect alignment]] evil only; __3rd__ [[locate]] gems only; __7th__ [[sunburst]];"
 sourcebook: "_Bestiary_, page 124."
 ```
 

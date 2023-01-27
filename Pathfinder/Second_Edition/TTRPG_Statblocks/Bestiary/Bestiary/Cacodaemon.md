@@ -58,7 +58,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[detect magic]]; __1st__ [[detect alignment]], [[fear]]; __2nd__ [[invisibility]]; __4th__ [[read omens]];"
+    desc: "DC 17; __Cantrips (1st)__ [[detect magic]] at will; __1st__ [[detect alignment]] at will; good only, [[fear]]; __2nd__ [[invisibility]] at will; self only; __4th__ [[read omens]];"
 sourcebook: "_Bestiary_, page 70."
 ```
 

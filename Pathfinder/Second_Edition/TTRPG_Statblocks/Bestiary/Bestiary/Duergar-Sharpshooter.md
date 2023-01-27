@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 12; __2nd__ [[enlarge]], [[invisibility]];"
+    desc: "DC 12; __2nd__ [[enlarge]] self only, [[invisibility]] self only;"
 sourcebook: "_Bestiary_, page 138."
 ```
 

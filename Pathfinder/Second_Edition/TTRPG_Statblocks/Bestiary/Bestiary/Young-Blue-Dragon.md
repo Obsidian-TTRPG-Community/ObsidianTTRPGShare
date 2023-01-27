@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 28; __Cantrips (4th)__ [[ghost sound]]; __1st__ [[create water]];"
+    desc: "DC 28; __Cantrips (4th)__ [[ghost sound]]; __1st__ [[create water]] at will; see desert thirst;"
 sourcebook: "_Bestiary_, page 107."
 ```
 

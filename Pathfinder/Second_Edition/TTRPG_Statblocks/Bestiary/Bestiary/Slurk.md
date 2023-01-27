@@ -26,7 +26,7 @@ trait_03: "Animal"
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
-languages: "Draconic (can&#x27;t speak any language); "
+languages: "Draconic (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +6 (1d20+6), (Acrobatics: +8 (1d20+8) to Escape); __Athletics__: +8 (1d20+8); __Stealth__: +5 (1d20+5); "

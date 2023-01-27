@@ -54,7 +54,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 21; __4th__ [[invisibility]];"
+    desc: "DC 21; __4th__ [[invisibility]] self only;"
   - name: "Arcane Spontaneous Spells"
     desc: "DC 18, attack +10; __Cantrips (1st)__ [[dancing lights]], [[ghost sound]], [[prestidigitation]], [[tanglefoot]], [[telekinetic projectile]]; __1st__ (4 slots) [[grease]], [[illusory object]], [[sleep]];"
 sourcebook: "_Bestiary_, page 157."

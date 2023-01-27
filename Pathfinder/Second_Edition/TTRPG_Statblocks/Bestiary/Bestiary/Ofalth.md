@@ -26,7 +26,7 @@ trait_03: "Aberration"
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
-languages: "Common (can&#x27;t speak any language); "
+languages: "Common (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +23 (1d20+23); __Stealth__: +19 (1d20+19), (Stealth: +23 (1d20+23) in trash and rubbish); "

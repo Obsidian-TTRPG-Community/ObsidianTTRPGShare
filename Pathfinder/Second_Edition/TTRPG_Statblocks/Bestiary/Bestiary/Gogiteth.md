@@ -26,7 +26,7 @@ trait_03: "Aberration"
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
-languages: "Undercommon (can&#x27;t speak); "
+languages: "Undercommon (can't speak); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +19 (1d20+19); __Athletics__: +24 (1d20+24); __Stealth__: +21 (1d20+21); __Survival__: +17 (1d20+17), (Survival: +24 (1d20+24) to Track); "

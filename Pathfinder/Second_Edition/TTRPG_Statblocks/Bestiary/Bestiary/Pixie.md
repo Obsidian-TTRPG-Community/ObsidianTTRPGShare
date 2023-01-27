@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[dancing lights]], [[detect magic]], [[ghost sound]], [[shield]]; __1st__ [[illusory disguise]]; __2nd__ [[entangle]], [[faerie fire]]; __3rd__ [[dispel magic]]; __4th__ [[invisibility]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[dancing lights]], [[detect magic]], [[ghost sound]], [[shield]]; __1st__ [[illusory disguise]]; __2nd__ [[entangle]], [[faerie fire]]; __3rd__ [[dispel magic]]; __4th__ [[invisibility]] at will; self only;"
 sourcebook: "_Bestiary_, page 309."
 ```
 

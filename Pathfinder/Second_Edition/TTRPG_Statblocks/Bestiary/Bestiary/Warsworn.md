@@ -27,7 +27,7 @@ trait_04: "Undead"
 perception:
   - name: "Perception"
     desc: "Perception +27; __darkvision__;"
-languages: "Common (can&#x27;t speak any language); "
+languages: "Common (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +33 (1d20+33); "

@@ -68,7 +68,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 33; __Cantrips (7th)__ [[dancing lights]], [[detect magic]], [[light]]; __1st__ [[charm]], [[detect alignment]], [[illusory disguise]] (at will); __2nd__ [[continual flame]] (at will), [[dispel magic]] (at will); __3rd__ [[mind reading]]; __4th__ [[heal]] (4), [[invisibility]], [[restoration]]; __5th__ [[banishment]]; __6th__ [[illusory scene]]; __7th__ [[chromatic wall]], [[dispel magic]], [[heal]], [[prismatic spray]]; __Constant__ __(5th)__ [[tongues]], __(7th)__ [[see invisibility]];"
+    desc: "DC 33; __Cantrips (7th)__ [[dancing lights]], [[detect magic]], [[light]]; __1st__ [[charm]], [[detect alignment]] at will; evil only, [[illusory disguise]] (at will); __2nd__ [[continual flame]] (at will), [[dispel magic]] (at will); __3rd__ [[mind reading]]; __4th__ [[heal]] (4), [[invisibility]] at will; self only, [[restoration]]; __5th__ [[banishment]]; __6th__ [[illusory scene]]; __7th__ [[chromatic wall]], [[dispel magic]], [[heal]], [[prismatic spray]]; __Constant__ __(5th)__ [[tongues]], __(7th)__ [[see invisibility]];"
 sourcebook: "_Bestiary_, page 33."
 ```
 

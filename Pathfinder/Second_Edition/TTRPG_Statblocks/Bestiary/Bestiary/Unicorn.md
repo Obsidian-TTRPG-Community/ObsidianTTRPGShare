@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 21; __Cantrips (2nd)__ [[light]]; __1st__ [[detect alignment]] (at will); __3rd__ [[heal]] (2), [[neutralize poison]]; __5th__ [[tree stride]];"
+    desc: "DC 21; __Cantrips (2nd)__ [[light]]; __1st__ [[detect alignment]] (at will) good only; __3rd__ [[heal]] (2), [[neutralize poison]]; __5th__ [[tree stride]];"
 sourcebook: "_Bestiary_, page 316."
 ```
 

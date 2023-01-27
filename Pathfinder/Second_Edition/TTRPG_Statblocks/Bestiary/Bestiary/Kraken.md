@@ -70,7 +70,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 40; __7th__ [[resist energy]]; __8th__ [[punishing winds]]; __10th__ [[dominate]];"
+    desc: "DC 40; __7th__ [[resist energy]]; __8th__ [[punishing winds]]; __10th__ [[dominate]] animals only;"
 sourcebook: "_Bestiary_, page 214."
 ```
 

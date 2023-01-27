@@ -70,7 +70,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 28; __2nd__ [[blur]] (at will), [[illusory object]]; __4th__ [[hydraulic push]] (at will), [[hydraulic torrent]], [[solid fog]]; __5th__ [[control water]] (at will), [[hallucinatory terrain]]; __7th__ [[plane shift]]; __Constant__ __(1st)__ [[detect alignment]], __(5th)__ [[detect magic]];"
+    desc: "DC 28; __2nd__ [[blur]] (at will), [[illusory object]]; __4th__ [[hydraulic push]] (at will), [[hydraulic torrent]], [[solid fog]]; __5th__ [[control water]] (at will), [[hallucinatory terrain]]; __7th__ [[plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(1st)__ [[detect alignment]], __(5th)__ [[detect magic]];"
 sourcebook: "_Bestiary_, page 165."
 ```
 

@@ -73,7 +73,7 @@ spellcasting:
   - name: "Primal Prepared Spells"
     desc: "DC 28, attack +18; __Cantrips (4th)__ [[detect magic]], [[guidance]], [[light]], [[ray of frost]], [[stabilize]]; __1st__ [[fleet step]], [[gust of wind]], [[negate aroma]]; __2nd__ [[animal messenger]], [[faerie fire]], [[tree shape]]; __3rd__ [[earth bind]], [[haste]], [[heal]]; __4th__ [[heal]], [[summon animal]];"
   - name: "Primal Innate Spells"
-    desc: "DC 28; __1st__ [[charm]], [[create water]]; __4th__ [[tidal surge]];"
+    desc: "DC 28; __1st__ [[charm]], [[create water]]; __4th__ [[tidal surge]] at will; Core Rulebook 397;"
 sourcebook: "_Bestiary_, page 248."
 ```
 

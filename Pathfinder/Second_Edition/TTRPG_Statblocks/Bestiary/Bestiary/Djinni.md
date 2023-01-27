@@ -66,7 +66,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 23; __2nd__ [[enhance victuals]] (at will), [[invisibility]]; __3rd__ [[illusory creature]], [[illusory object]]; __4th__ [[creation]], [[gaseous form]]; __7th__ [[plane shift]]; __Constant__ __(3rd)__ [[detect magic]];"
+    desc: "DC 23; __2nd__ [[enhance victuals]] (at will), [[invisibility]] at will; self only; __3rd__ [[illusory creature]], [[illusory object]]; __4th__ [[creation]], [[gaseous form]]; __7th__ [[plane shift]] at will; to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(3rd)__ [[detect magic]];"
 sourcebook: "_Bestiary_, page 163."
 ```
 
