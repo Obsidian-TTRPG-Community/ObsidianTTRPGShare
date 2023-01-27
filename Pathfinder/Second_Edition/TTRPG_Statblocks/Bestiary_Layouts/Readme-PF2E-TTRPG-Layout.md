@@ -11,13 +11,13 @@ ac: 19
 modifier: 6
 level: 2
 ---
-# Readme for PF2E Statblocks
+# Readme for PF2E Bestiary Statblocks
 
 The Obsidian TTRPG Share team presents the Release Candidate 1 for the Pathfinder 2E TTRPG Statblock Layout.
 
 ## Features
 
-Wikilink Embed: ![[Pathfinder2e-Statblocks-RC1.png]]
+Wikilink Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
 
 Wikilink Relative Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
 
@@ -40,8 +40,9 @@ Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
 
 
 ## What you need to make this statblock shine
-1. [[Path2eBlock.json]], to install into TTRPG Statblocks
-2. [[Pathfinder2E-TTRPG-Statblock.css]] into your `.obsidian/snippets` folder. 
+1. [[_attachments/Path2eBlock.json]], to install into TTRPG Statblocks
+2. [[_attachments/Pathfinder2E-TTRPG-Statblock.css]] into your `.obsidian/snippets` folder. 
+2.a. ITS Users will need to use [[_attachments/Pathfinder2E-TTRPG-Statblock-ITS.css]] until ITS 2.0 is out, or until the TTRPG Share indicates otherwise. 
 
 ### Optional
 3. This [[Template-2ETools-Monster-Handlebar]] file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker.
@@ -59,9 +60,6 @@ Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
 ## Example Kobold Trapmaster
 ```statblock
 # Optional Columns
-columns: 2
-forcecolumns: true
-
 # Needs to have Path2eBlock to call CSS
 layout: Path2eBlock
 statblock: true
