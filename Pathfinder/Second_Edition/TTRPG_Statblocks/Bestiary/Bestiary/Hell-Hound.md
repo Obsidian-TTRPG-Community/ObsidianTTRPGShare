@@ -29,7 +29,7 @@ trait_05: "Fire"
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __imprecise scent 60__;"
-languages: "Infernal (can&#x27;t speak any language); "
+languages: "Infernal (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +8 (1d20+8); __Athletics__: +9 (1d20+9); __Stealth__: +8 (1d20+8); __Survival__: +9 (1d20+9), (Survival: +11 (1d20+11) to Track); "

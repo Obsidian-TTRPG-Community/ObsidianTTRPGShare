@@ -54,7 +54,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 17; __2nd__ [[enlarge]]; __3rd__ [[meld into stone]];"
+    desc: "DC 17; __2nd__ [[enlarge]] self only; __3rd__ [[meld into stone]];"
 sourcebook: "_Bestiary_, page 150."
 ```
 

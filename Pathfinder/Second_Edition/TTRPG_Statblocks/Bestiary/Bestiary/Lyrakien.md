@@ -56,7 +56,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 17; __Cantrips (1st)__ [[dancing lights]], [[daze]], [[detect magic]]; __1st__ [[detect alignment]], [[heal]], [[illusory object]]; __4th__ [[read omens]]; __Constant__ __(4th)__ [[freedom of movement]];"
+    desc: "DC 17; __Cantrips (1st)__ [[dancing lights]], [[daze]], [[detect magic]]; __1st__ [[detect alignment]] at will; evil only, [[heal]], [[illusory object]]; __4th__ [[read omens]]; __Constant__ __(4th)__ [[freedom of movement]];"
 sourcebook: "_Bestiary_, page 30."
 ```
 

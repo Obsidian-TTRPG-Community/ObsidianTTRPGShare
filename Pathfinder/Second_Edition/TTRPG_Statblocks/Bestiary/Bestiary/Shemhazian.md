@@ -71,7 +71,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 37; __2nd__ [[invisibility]] (at will); __4th__ [[clairvoyance]] (3), [[dimension door]] (at will); __5th__ [[dimension door]], [[prying eye]] (3); __8th__ [[divine decree]]; __Constant__ __(7th)__ [[fly]], [[true seeing]];"
+    desc: "DC 37; __2nd__ [[invisibility]] (at will); __4th__ [[clairvoyance]] (3), [[dimension door]] (at will); __5th__ [[dimension door]], [[prying eye]] (3); __8th__ [[divine decree]] evil only; __Constant__ __(7th)__ [[fly]], [[true seeing]];"
 sourcebook: "_Bestiary_, page 80."
 ```
 

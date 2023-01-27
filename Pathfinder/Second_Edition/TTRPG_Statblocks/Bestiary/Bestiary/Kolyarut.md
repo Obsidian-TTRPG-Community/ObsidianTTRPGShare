@@ -59,7 +59,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 32; __1st__ [[command]] (at will); __2nd__ [[invisibility]]; __3rd__ [[paralyze]] (2); __4th__ [[illusory disguise]] (at will), [[suggestion]] (2); __5th__ [[command]]; __8th__ [[discern location]];"
+    desc: "DC 32; __1st__ [[command]] (at will); __2nd__ [[invisibility]] self only; __3rd__ [[paralyze]] (2); __4th__ [[illusory disguise]] (at will), [[suggestion]] (2); __5th__ [[command]]; __8th__ [[discern location]];"
 sourcebook: "_Bestiary_, page 10."
 ```
 

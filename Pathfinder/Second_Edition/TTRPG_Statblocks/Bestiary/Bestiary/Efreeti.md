@@ -65,7 +65,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 29, attack +19; __Cantrips (5th)__ [[produce flame]]; __4th__ [[gaseous form]], [[invisibility]] (2); __5th__ [[illusory object]]; __7th__ [[plane shift]]; __Constant__ __(5th)__ [[detect magic]];"
+    desc: "DC 29, attack +19; __Cantrips (5th)__ [[produce flame]]; __4th__ [[gaseous form]], [[invisibility]] (2); __5th__ [[illusory object]]; __7th__ [[plane shift]] Elemental Planes, or [[Material Plane]] only; __Constant__ __(5th)__ [[detect magic]];"
 sourcebook: "_Bestiary_, page 164."
 ```
 

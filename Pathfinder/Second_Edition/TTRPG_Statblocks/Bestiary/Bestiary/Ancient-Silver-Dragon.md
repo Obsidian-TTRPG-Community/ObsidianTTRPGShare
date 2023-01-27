@@ -75,7 +75,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 40; __1st__ [[detect alignment]];"
+    desc: "DC 40; __1st__ [[detect alignment]] evil only;"
 sourcebook: "_Bestiary_, page 127."
 ```
 

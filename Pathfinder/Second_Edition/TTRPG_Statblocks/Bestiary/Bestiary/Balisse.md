@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 26; __1st__ [[detect alignment]] (at will); __2nd__ [[invisibility]] (at will); __3rd__ [[remove fear]] (at will); __4th__ [[divine wrath]], [[heal]], [[paralyze]], [[remove curse]], [[remove disease]];"
+    desc: "DC 26; __1st__ [[detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __3rd__ [[remove fear]] (at will); __4th__ [[divine wrath]], [[heal]], [[paralyze]], [[remove curse]], [[remove disease]];"
 sourcebook: "_Bestiary_, page 18."
 ```
 

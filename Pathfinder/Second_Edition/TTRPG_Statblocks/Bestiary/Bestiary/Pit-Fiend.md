@@ -75,7 +75,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __8th__ [[dispel magic]] (at will), [[divine decree]] (at will), [[fireball]] (at will), [[scrying]], [[wall of fire]] (at will); __9th__ [[bind soul]] (at will); __10th__ [[meteor swarm]], [[miracle]], [[power word stun]]; __Constant__ __(8th)__ [[true seeing]];"
+    desc: "DC 42; __4th__ [[dimension door]] (at will); __5th__ [[dimension door]]; __8th__ [[dispel magic]] (at will), [[divine decree]] (at will), [[fireball]] (at will), [[scrying]], [[wall of fire]] (at will); __9th__ [[bind soul]] (at will); __10th__ [[meteor swarm]], [[miracle]] once per year, [[power word stun]]; __Constant__ __(8th)__ [[true seeing]];"
 sourcebook: "_Bestiary_, page 92."
 ```
 

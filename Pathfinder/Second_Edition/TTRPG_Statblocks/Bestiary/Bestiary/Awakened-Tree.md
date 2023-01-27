@@ -26,7 +26,7 @@ trait_03: "Plant"
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__;"
-languages: "Arboreal (can&#x27;t speak any language); "
+languages: "Arboreal (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +14 (1d20+14); __Stealth__: +9 (1d20+9), (Stealth: +14 (1d20+14) in forests); "

@@ -63,9 +63,9 @@ attacks:
 
 spellcasting:
   - name: "Divine Prepared Spells"
-    desc: "DC 18; __Cantrips (1st)__ [[detect magic]], [[shield]]; __1st__ [[fear]], [[harm]], [[magic weapon]], [[Cantrips]], [[shield]];"
+    desc: "DC 18; __Cantrips (1st)__ [[detect magic]], [[shield]]; __1st__ [[fear]], [[harm]], [[magic weapon]], [[Cantrips]] 1st, [[shield]];"
   - name: "Occult Innate Spells"
-    desc: "DC 18; __2nd__ [[enlarge]], [[invisibility]];"
+    desc: "DC 18; __2nd__ [[enlarge]] self only, [[invisibility]] self only;"
 sourcebook: "_Bestiary_, page 139."
 ```
 

@@ -62,7 +62,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 17; __1st__ [[charm]], [[create water]], [[tidal surge]]; __Constant__ __(2nd)__ [[speak with animals]];"
+    desc: "DC 17; __1st__ [[charm]], [[create water]], [[tidal surge]] Core Rulebook 397; __Constant__ __(2nd)__ [[speak with animals]];"
 sourcebook: "_Bestiary_, page 246."
 ```
 

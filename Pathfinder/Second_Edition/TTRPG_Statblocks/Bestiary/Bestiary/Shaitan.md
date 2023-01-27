@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Arcane Innate Spells"
-    desc: "DC 24; __2nd__ [[glitterdust]] (2); __4th__ [[shape stone]] (at will); __5th__ [[veil]], [[wall of stone]]; __7th__ [[plane shift]]; __Constant__ __(4th)__ [[detect magic]];"
+    desc: "DC 24; __2nd__ [[glitterdust]] (2); __4th__ [[shape stone]] (at will); __5th__ [[veil]] self only, [[wall of stone]]; __7th__ [[plane shift]] to Astral Plane,Elemental Planes,or Material Plane only; __Constant__ __(4th)__ [[detect magic]];"
 sourcebook: "_Bestiary_, page 164."
 ```
 

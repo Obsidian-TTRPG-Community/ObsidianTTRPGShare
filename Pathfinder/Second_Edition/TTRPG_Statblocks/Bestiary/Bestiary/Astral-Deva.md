@@ -64,7 +64,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 36, attack +28; __Cantrips (7th)__ [[light]]; __1st__ [[detect alignment]] (at will); __2nd__ [[invisibility]] (at will); __4th__ [[discern lies]] (at will); __7th__ [[blade barrier]], [[divine decree]], [[divine wrath]], [[heal]], [[remove curse]], [[remove disease]], [[remove fear]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 36, attack +28; __Cantrips (7th)__ [[light]]; __1st__ [[detect alignment]] (at will) evil only; __2nd__ [[invisibility]] (at will) self only; __4th__ [[discern lies]] (at will); __7th__ [[blade barrier]], [[divine decree]], [[divine wrath]], [[heal]], [[remove curse]], [[remove disease]], [[remove fear]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 19."
 ```
 

@@ -74,7 +74,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 42, attack +32; __2nd__ [[detect alignment]]; __4th__ [[confusion]] (at will), [[dimension door]] (at will); __5th__ [[creation]] (at will), [[dimension door]], [[hallucinatory terrain]] (2); __6th__ [[teleport]]; __7th__ [[disintegrate]], [[dispel magic]] (at will), [[shatter]] (at will), [[warp mind]] (3); __8th__ [[baleful polymorph]], [[confusion]]; __9th__ [[divine wrath]], [[prismatic sphere]]; __Constant__ __(4th)__ [[freedom of movement]], __(5th)__ [[tongues]];"
+    desc: "DC 42, attack +32; __2nd__ [[detect alignment]] at will; lawful only; __4th__ [[confusion]] (at will), [[dimension door]] (at will); __5th__ [[creation]] (at will), [[dimension door]], [[hallucinatory terrain]] (2); __6th__ [[teleport]] at will; self only; __7th__ [[disintegrate]], [[dispel magic]] (at will), [[shatter]] (at will), [[warp mind]] (3); __8th__ [[baleful polymorph]], [[confusion]]; __9th__ [[divine wrath]] chaotic only, [[prismatic sphere]]; __Constant__ __(4th)__ [[freedom of movement]], __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 269."
 ```
 

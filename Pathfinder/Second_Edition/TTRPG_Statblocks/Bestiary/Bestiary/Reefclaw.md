@@ -27,7 +27,7 @@ trait_04: "Aquatic"
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
-languages: "Common (can&#x27;t speak any language); "
+languages: "Common (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +7 (1d20+7); __Athletics__: +4 (1d20+4), (Athletics: +8 (1d20+8) to Swim); "

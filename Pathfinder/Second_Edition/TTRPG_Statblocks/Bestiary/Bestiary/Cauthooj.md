@@ -26,7 +26,7 @@ trait_03: "Beast"
 perception:
   - name: "Perception"
     desc: "Perception +22; __imprecise thoughtsense 60__;"
-languages: "Sylvan (can&#x27;t speak any language); "
+languages: "Sylvan (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +24 (1d20+24); __Stealth__: +25 (1d20+25); "

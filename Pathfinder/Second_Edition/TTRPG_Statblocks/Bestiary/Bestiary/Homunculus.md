@@ -26,7 +26,7 @@ trait_03: "Construct"
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
-languages: "Common (can&#x27;t speak any language);  master link;"
+languages: "Common (can't speak any language);  master link;"
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +5 (1d20+5); __Stealth__: +5 (1d20+5); "

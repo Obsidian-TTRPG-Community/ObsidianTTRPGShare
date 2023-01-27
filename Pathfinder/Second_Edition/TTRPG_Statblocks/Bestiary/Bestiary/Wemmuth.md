@@ -26,7 +26,7 @@ trait_03: "Plant"
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __imprecise [[tremorsense]] 60__;"
-languages: "Aklo, Sylvan (can&#x27;t speak any language); "
+languages: "Aklo, Sylvan (can't speak any language); "
 skills:
   - name: "Skills"
     desc: "__Athletics__: +30 (1d20+30); __Deception__: +28 (1d20+28); __Stealth__: +30 (1d20+30); __Survival__: +27 (1d20+27); "

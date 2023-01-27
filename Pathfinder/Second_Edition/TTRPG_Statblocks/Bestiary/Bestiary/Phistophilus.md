@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 31; __Cantrips (7th)__ [[detect magic]]; __3rd__ [[mind reading]] (at will); __4th__ [[dimension door]] (at will), [[private sanctum]], [[silence]]; __5th__ [[dimension door]], [[fireball]], [[illusory scene]], [[lightning bolt]], [[locate]] (at will), [[mind probe]], [[sending]] (at will); __7th__ [[plane shift]]; __10th__ [[scrying]] (at will); __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 31; __Cantrips (7th)__ [[detect magic]]; __3rd__ [[mind reading]] (at will); __4th__ [[dimension door]] (at will), [[private sanctum]], [[silence]]; __5th__ [[dimension door]], [[fireball]], [[illusory scene]], [[lightning bolt]], [[locate]] (at will), [[mind probe]], [[sending]] (at will); __7th__ [[plane shift]]; __10th__ [[scrying]] (at will) see infernal investment; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 90."
 ```
 

@@ -61,7 +61,7 @@ attacks:
 
 spellcasting:
   - name: "Divine Innate Spells"
-    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[ghost sound]], [[inspire competence]], [[inspire courage]]; __1st__ [[counter performance]]; __2nd__ [[invisibility]] (at will), [[sound burst]] (at will); __3rd__ [[heal]], [[remove curse]], [[remove disease]], [[remove fear]] (at will), [[sound burst]]; __Constant__ __(5th)__ [[tongues]];"
+    desc: "DC 23, attack +13; __Cantrips (3rd)__ [[ghost sound]], [[inspire competence]] Core Rulebook 386, [[inspire courage]] Core Rulebook 386; __1st__ [[counter performance]] at will; Core Rulebook 386; __2nd__ [[invisibility]] (at will) self only, [[sound burst]] (at will); __3rd__ [[heal]], [[remove curse]], [[remove disease]], [[remove fear]] (at will), [[sound burst]]; __Constant__ __(5th)__ [[tongues]];"
 sourcebook: "_Bestiary_, page 17."
 ```
 

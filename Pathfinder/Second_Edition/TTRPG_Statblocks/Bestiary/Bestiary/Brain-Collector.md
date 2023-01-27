@@ -33,7 +33,7 @@ skills:
     desc: "__Acrobatics__: +17 (1d20+17); __Arcana__: +18 (1d20+18); __Athletics__: +16 (1d20+16); __Occultism__: +21 (1d20+21); __Stealth__: +17 (1d20+17); __Lore (all subcategories)__: +18 (1d20+18); "
 abilityMods: [6, 3, 5, 4, 4, 3]
 
-abilities_top:
+abilities_mid:
   - name: "Brain Blisters"
     desc: "  A brain collector has seven brain blisters on its back that it uses to house stolen brains. A brain collector without all seven blisters full is [[stupefied|stupefied]] with a value equal to the number of empty blisters."
   - name: "Brain Loss"

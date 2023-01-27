@@ -63,7 +63,7 @@ attacks:
 
 spellcasting:
   - name: "Primal Innate Spells"
-    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[bane]]; __2nd__ [[speak with animals]];"
+    desc: "DC 16; __Cantrips (1st)__ [[prestidigitation]]; __1st__ [[bane]]; __2nd__ [[speak with animals]] at will; arthropods only;"
 sourcebook: "_Bestiary_, page 192."
 ```
 
