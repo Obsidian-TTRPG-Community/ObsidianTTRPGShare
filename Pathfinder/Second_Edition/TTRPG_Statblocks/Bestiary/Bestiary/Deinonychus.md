@@ -1,0 +1,66 @@
+---
+noteType: pf2eMonster
+tags: 
+  - pf2e/creature/type/animal
+  - pf2e/creature/level/2
+statblock: true
+statblock-link: "#Deinonychus"
+name: "Deinonychus"
+hp: 30
+ac: 19
+modifier: 7
+level: 2
+---
+### Deinonychus
+```statblock
+columns: 2
+forcecolumns: true
+layout: Path2eBlock
+statblock: true
+source: "B1"
+name: "Deinonychus"
+level: "Creature 2"
+alignment: "N"
+size: "Medium"
+trait_03: "Animal"
+trait_04: "Dinosaur"
+perception:
+  - name: "Perception"
+    desc: "Perception +7; __low-light vision__, __imprecise scent 30__;"
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +7 (1d20+7); __Athletics__: +9 (1d20+9), (Athletics: +12 (1d20+12) jumping); __Stealth__: +7 (1d20+7); "
+abilityMods: [3, 3, 4, -4, 1, 2]
+
+abilities_bot:
+  - name: "Darting Attack"
+    desc: "⬻  The deinonychus [[Stride|Strides]] up to 10 feet and then makes a [[Strike]], or makes a [[Strike]] and then [[Stride|Strides]] up to 10 feet."
+  - name: "Predator's Advantage"
+    desc: "  Bleeding creatures are [[flat-footed|flat-footed]] to the deinonychus."
+
+speed: 30 feet
+
+ac: 19
+armorclass:
+  - name: AC
+    desc: "19; __Fort__: +10 (1d20+10); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+health:
+  - name: HP
+    desc: "30; "
+
+
+attacks:
+  - name: Melee
+    desc: "⬻ jaws +9 __Damage__ 1 (2d6+3) piercing"
+  - name: Melee
+    desc: "⬻ talon +9 ([[agile]]); __Damage__ 1 (1d6+3) slashing plus 1 (1d4) bleed"
+
+sourcebook: "_Bestiary_, page 97."
+```
+
+### Encounter
+```encounter-table
+name: Deinonychus
+creatures:
+  - 1: Deinonychus
+```
