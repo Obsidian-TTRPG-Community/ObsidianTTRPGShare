@@ -1,0 +1,65 @@
+---
+noteType: pf2eMonster
+tags: 
+  - pf2e/creature/type/elemental
+  - pf2e/creature/level/3
+statblock: true
+statblock-link: "#Cinder Rat"
+name: "Cinder Rat"
+hp: 45
+ac: 18
+modifier: 9
+level: 3
+---
+### Cinder Rat
+```statblock
+columns: 2
+forcecolumns: true
+layout: Path2eBlock
+statblock: true
+source: "B1"
+name: "Cinder Rat"
+level: "Creature 3"
+alignment: "N"
+size: "Small"
+trait_03: "Elemental"
+trait_04: "Fire"
+perception:
+  - name: "Perception"
+    desc: "Perception +9; __darkvision__, __smoke vision__;"
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +10 (1d20+10); __Stealth__: +10 (1d20+10); __Survival__: +9 (1d20+9); "
+abilityMods: [2, 3, 2, -4, 2, 0]
+
+abilities_top:
+  - name: "Smoke Vision"
+    desc: "  The cinder rat ignores the [[concealed|concealed]] condition from smoke."
+abilities_mid:
+  - name: "Fetid Fumes"
+    desc: " ([[aura]], [[fire]]);  5 feet. A creature that enters the aura or begins its turn there must succeed at a DC 22 Fortitude save or become [[sickened|sickened 1]]. Everything within the aura, including the cinder rat, is [[concealed|concealed]] by smoke."
+
+speed: 40 feet
+
+ac: 18
+armorclass:
+  - name: AC
+    desc: "18; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +6 (1d20+6);"
+health:
+  - name: HP
+    desc: "45;  __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 5;"
+
+
+attacks:
+  - name: Melee
+    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1 (1d8+4) fire plus 1 (1d4) [[persistent damage|persistent fire]]"
+
+sourcebook: "_Bestiary_, page 148."
+```
+
+### Encounter
+```encounter-table
+name: Cinder Rat
+creatures:
+  - 1: Cinder Rat
+```
