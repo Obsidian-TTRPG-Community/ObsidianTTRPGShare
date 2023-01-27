@@ -1,0 +1,63 @@
+---
+noteType: pf2eMonster
+tags: 
+  - pf2e/creature/type/animal
+  - pf2e/creature/level/1
+statblock: true
+statblock-link: "#Hyena"
+name: "Hyena"
+hp: 20
+ac: 16
+modifier: 6
+level: 1
+---
+### Hyena
+```statblock
+columns: 2
+forcecolumns: true
+layout: Path2eBlock
+statblock: true
+source: "B1"
+name: "Hyena"
+level: "Creature 1"
+alignment: "N"
+size: "Medium"
+trait_03: "Animal"
+perception:
+  - name: "Perception"
+    desc: "Perception +6; __low-light vision__, __imprecise scent 30__;"
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +6 (1d20+6); __Athletics__: +7 (1d20+7); __Stealth__: +6 (1d20+6); "
+abilityMods: [3, 3, 2, -4, 1, -2]
+
+abilities_bot:
+  - name: "Drag"
+    desc: "⬻  The hyena makes a jaws [[Strike]] against a [[prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
+  - name: "Pack Attack"
+    desc: "  The hyena deals an extra 1 (1d4) damage to any creature that's within reach of at least two of the hyena's allies."
+
+speed: 40 feet
+
+ac: 16
+armorclass:
+  - name: AC
+    desc: "16; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +4 (1d20+4);"
+health:
+  - name: HP
+    desc: "20; "
+
+
+attacks:
+  - name: Melee
+    desc: "⬻ jaws +8 __Damage__ 1 (1d8+3) piercing plus Knockdown"
+
+sourcebook: "_Bestiary_, page 211."
+```
+
+### Encounter
+```encounter-table
+name: Hyena
+creatures:
+  - 1: Hyena
+```

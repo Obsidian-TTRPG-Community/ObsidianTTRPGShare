@@ -39,3 +39,5 @@ pw.*
 *.pfx
 *.key
 
+# Sigrunixia's Task Tracking file for TTRPG-Share Management
+The-Purple-Scale-Ledger.md
