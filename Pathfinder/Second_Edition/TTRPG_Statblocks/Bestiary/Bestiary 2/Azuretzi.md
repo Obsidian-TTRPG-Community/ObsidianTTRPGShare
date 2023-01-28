@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature with an active spell effect within 30 feet of the azuretzi fails to resist another azuretzi's Mocking Touch __Effect__  The azuretzi attempts to counteract one ongoing spell effect on the target creature with a [[Thievery]] check. If it is successful, it transfers the ongoing spell effect to itself. The creature then becomes temporarily immune to Spell Pilfer for 24 hours."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d12+4) bludgeoning, DC 22."
+    desc: "⬻  1d12+4 (1d12+4) bludgeoning, DC 22."
   - name: "Mimic Form"
     desc: "⬻ ([[concentrate]], [[[magical tradition]]], [[polymorph]], [[transmutation]]);  As [[Change Shape]], but an azuretzi can assume the specific form of a Medium or smaller creature it [[Seek|Seeks]] with a successful DC 25."
   - name: "Mocking Touch"
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +15 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (2d10+4) piercing plus 1 (1d6) chaotic"
+    desc: "⬻ jaws +15 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 2d10+4 (2d10+4) piercing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ claw +15 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (2d8+4) slashing plus 1 (1d6) chaotic"
+    desc: "⬻ claw +15 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 2d8+4 (2d8+4) slashing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ tail +13 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d12+4) bludgeoning plus 1 (1d6) chaotic and Grab"
+    desc: "⬻ tail +13 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d12+4 (2d12+4) bludgeoning plus 1d6 (1d6) chaotic and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"

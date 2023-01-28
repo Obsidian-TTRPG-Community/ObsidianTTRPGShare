@@ -37,7 +37,7 @@ abilityMods: [2, 0, 2, 0, 2, 3]
 
 abilities_mid:
   - name: "Iron Mind"
-    desc: "  Duergar taskmasters automatically [[2|disbelieving illusions|0|disbelieve all illusion]] of 1st level or lower."
+    desc: "  Duergar taskmasters automatically [[disbelieving illusions|disbelieve all illusions]] of 1st level or lower."
   - name: "Light Blindness"
     desc: " "
 abilities_top:
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ maul +8 ([[shove]]); __Damage__ 1 (1d12+2) bludgeoning"
+    desc: "⬻ maul +8 ([[shove]]); __Damage__ 1d12+2 (1d12+2) bludgeoning"
 
 spellcasting:
   - name: "Divine Prepared Spells"

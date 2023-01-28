@@ -43,9 +43,9 @@ abilities_mid:
     desc: " ([[emotion]], [[necromancy]], [[occult]]);  If the revenant's murderer dies, the revenant is immediately destroyed. A revenant that can't sense their murderer must attempt a DC 11 flat check once every 24 hours to avoid becoming [[immobilized|immobilized]] and [[prone|prone]]; they immediately rise again once they can sense their murderer. A murderer who becomes undead does not trigger the revenant's destruction until the murderer is finally destroyed. The revenant gains a +2 status bonus to checks and DCs against their murderer."
 abilities_bot:
   - name: "Baleful Shriek"
-    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[incapacitation]], [[mental]]);  The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's [[incapacitation]] trait. The revenant can't use Baleful Shriek again for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[frightened|frightened 2]].\n__Failure__ The creature is [[frightened|frightened 2]] and [[paralyzed|paralyzed]] for 1 round.\n__Critical Failure__ The creature is [[frightened|frightened 3]] and [[paralyzed|paralyzed]] for 1 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[incapacitation]], [[mental]]);  The revenant wails horribly. Each creature within a 60-foot burst must attempt a DC 23 Will save. Regardless of the outcome of their saving throw, affected creatures are then immune to Baleful Shriek for 1 hour. The revenant's murderer never improves their degree of success due to this ability's [[incapacitation]] trait. The revenant can't use Baleful Shriek again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[frightened|frightened 2]].\n__Failure__ The creature is [[frightened|frightened 2]] and [[paralyzed|paralyzed]] for 1 round.\n__Critical Failure__ The creature is [[frightened|frightened 3]] and [[paralyzed|paralyzed]] for 1d4 (1d4) rounds."
   - name: "Constrict"
-    desc: "⬻  1 (2d6+5) bludgeoning, DC 24."
+    desc: "⬻  2d6+5 (2d6+5) bludgeoning, DC 24."
 
 speed: 25 feet
 
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d8+5) slashing plus Grab"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d8+5 (2d8+5) slashing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 227."
 ```

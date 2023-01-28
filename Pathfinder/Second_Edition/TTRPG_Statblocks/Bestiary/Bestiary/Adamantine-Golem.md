@@ -37,11 +37,11 @@ abilityMods: [9, -1, 9, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by acid (1 (9d10), 1 (2d10) from areas or [[persistent damage|persistent damage]]); healed by fire (area 1 (2d10) HP); [[slowed|slowed]] by electricity."
+    desc: "  harmed by acid (9d10 (9d10), 2d10 (2d10) from areas or [[persistent damage|persistent damage]]); healed by fire (area 2d10 (2d10) HP); [[slowed|slowed]] by electricity."
   - name: "Repair Mode"
     desc: "  When the adamantine golem is at 0 HP, it isn't destroyed. Instead, it enters repair mode, during which it is [[slowed|slowed 1]], can't take reactions, and can take only the Self-[[Repair]] action. Once it has more than 30 HP, it can use any type of action and can use reactions, though it remains [[slowed|slowed 1]] and can't take any reactions until the start of its next turn. If a critical hit with an adamantine vorpal weapon reduces the golem to 0 HP, or if such a weapon hits it while it's already at 0 HP, then the golem is destroyed."
   - name: "Vulnerable to Dispelling"
-    desc: "  The golem can be targeted by disjunction and dispel magic. If targeted by such a spell of 9th level or higher, the golem has its resistance to physical damage lowered to 15 and is [[slowed|slowed 1]] (or [[slowed|slowed 2]] if in repair mode) for 1 (1d4) rounds. During this time, if the golem is reduced to 0 HP while already in repair mode, it is destroyed."
+    desc: "  The golem can be targeted by disjunction and dispel magic. If targeted by such a spell of 9th level or higher, the golem has its resistance to physical damage lowered to 15 and is [[slowed|slowed 1]] (or [[slowed|slowed 2]] if in repair mode) for 1d4 (1d4) rounds. During this time, if the golem is reduced to 0 HP while already in repair mode, it is destroyed."
 abilities_bot:
   - name: "Destructive Strike"
     desc: "  On a critical hit, the adamantine golem's fist [[Strike]] breaks the target's armor, if any, in addition to dealing damage to the target. If the target has a shield raised, the golem breaks the shield instead."
@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Self-Repair"
     desc: "⬻ ([[manipulate]]);  The golem repairs itself, regaining 30 Hit Points."
   - name: "Vent"
-    desc: "⬻ ([[fire]]);  The golem vents a 30-foot cone of superheated steam from its internal forge. This deals 1 (15d6) fire damage to all creatures in the cone (DC 40 basic Reflex). The golem can't use Vent again for 1 (1d6) rounds."
+    desc: "⬻ ([[fire]]);  The golem vents a 30-foot cone of superheated steam from its internal forge. This deals 15d6 (15d6) fire damage to all creatures in the cone (DC 40 basic Reflex). The golem can't use Vent again for 1d6 (1d6) rounds."
 
 speed: 30 feet
 
@@ -65,7 +65,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +35 ([[deadly|deadly 3d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+17) bludgeoning plus destructive strike"
+    desc: "⬻ fist +35 ([[deadly|deadly 3d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+17 (3d10+17) bludgeoning plus destructive strike"
 
 sourcebook: "_Bestiary_, page 189."
 ```

@@ -49,7 +49,7 @@ abilities_bot:
   - name: "Boar Charge"
     desc: "⬺  The wereboar [[Stride|Strides]] twice and then makes a melee [[Strike]]. As long as they moved at least 20 feet, they gain a +2 circumstance bonus to their attack roll."
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +10 for 1 (1d4+2) bludgeoning, or boar with Speed 40 feet and tusk for 1 (2d6+4) piercing."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +10 for 1d4+2 (1d4+2) bludgeoning, or boar with Speed 40 feet and tusk for 2d6+4 (2d6+4) piercing."
   - name: "Curse of the Wereboar"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  Saving Throw DC 18 Fortitude."
   - name: "Moon Frenzy"
@@ -68,13 +68,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +10 ([[agile]], [[versatile|versatile s]]); __Damage__ 1 (1d4+6) piercing"
+    desc: "⬻ dagger +10 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
   - name: Melee
-    desc: "⬻ tusk +10 __Damage__ 1 (1d8+6) piercing plus curse of the wereboar"
+    desc: "⬻ tusk +10 __Damage__ 1d8+6 (1d8+6) piercing plus curse of the wereboar"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1 (1d4+6) piercing"
+    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1d4+6 (1d4+6) piercing"
   - name: Ranged
-    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+4) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+4 (1d4+4) piercing"
 
 sourcebook: "_Bestiary 2_, page 290."
 ```

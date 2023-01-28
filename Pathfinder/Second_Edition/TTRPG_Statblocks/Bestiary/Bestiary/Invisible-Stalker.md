@@ -39,7 +39,7 @@ abilities_mid:
     desc: "  The [[invisible|invisible]] stalker is [[invisible|invisible]] at all times, though when it takes a [[hostile|hostile]] action of any kind, it is [[hidden|hidden]] instead of [[undetected|undetected]] until the start of its next turn, as the vague outline of its humanoid form is faintly visible for a short period of time."
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The [[invisible|invisible]] stalker deals 1 (2d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The [[invisible|invisible]] stalker deals 2d6 (2d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Swift Tracker"
     desc: "  The [[invisible|invisible]] stalker moves at full Speed while [[Track|Tracking]]."
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +18 ([[agile]], [[finesse]]); __Damage__ 1 (1d10+5) bludgeoning"
+    desc: "⬻ fist +18 ([[agile]], [[finesse]]); __Damage__ 1d10+5 (1d10+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 144."
 ```

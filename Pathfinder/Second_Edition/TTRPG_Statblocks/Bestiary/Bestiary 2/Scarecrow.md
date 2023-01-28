@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Baleful Glow"
     desc: "⭓ ([[concentrate]], [[mental]], [[occult]]);  The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[flat-footed|flat-footed]] against the scarecrow for 1 round. It can suppress the light by using this action again."
   - name: "Clawing Fear"
-    desc: "  The scarecrow's strikes deal an additional 1 (1d6) mental damage to [[frightened|frightened]] creatures."
+    desc: "  The scarecrow's strikes deal an additional 1d6 (1d6) mental damage to [[frightened|frightened]] creatures."
   - name: "Mundane Appearance"
     desc: "⬻ ([[concentrate]]);  Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [[Deception]] checks and DCs to pass as an ordinary scarecrow."
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[versatile|versatile s]]); __Damage__ 1 (2d6+7) bludgeoning plus clawing fear"
+    desc: "⬻ claw +13 ([[versatile|versatile s]]); __Damage__ 2d6+7 (2d6+7) bludgeoning plus clawing fear"
 
 sourcebook: "_Bestiary 2_, page 232."
 ```

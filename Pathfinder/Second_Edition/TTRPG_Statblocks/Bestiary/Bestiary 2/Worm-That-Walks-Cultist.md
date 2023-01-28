@@ -37,10 +37,10 @@ abilityMods: [5, 8, 5, 5, 4, 8]
 
 abilities_mid:
   - name: "Discorporate"
-    desc: "  When the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1 (1d10) days. While the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
+    desc: "  When the worm that walks is reduced to 0 HP, it discorporates and the component worms that make up its body disperse in every direction. If even a single worm escapes, the worm that walks will eventually re-form using a process that typically takes 1d10 (1d10) days. While the exact circumstances and surroundings determine how long the worm that walks's foes have to dispatch the fleeing worms before they escape, usually its foes have only a single round. Typically, this requires the application of an area effect or splash weapon within 1 round to the space where the worm that walks collapsed. After any amount of area or splash damage is dealt to that space, the character dealing the damage must attempt a DC 15 flat check. Each subsequent area or splash damage effect performed on the area reduces the DC of this flat check by 2, to a minimum of DC 5. If any of these flat checks succeed, none of the worms escape, and the worm that walks is destroyed permanently. At the GM's discretion, clever means of trapping or otherwise detaining the vermin may extend the time allowed to finish off the worm that walks."
 abilities_bot:
   - name: "Squirming Embrace"
-    desc: "⬻  1 (5d8) piercing, DC 32."
+    desc: "⬻  5d8 (5d8) piercing, DC 32."
   - name: "Swarm Shape"
     desc: "⬻ ([[concentrate]]);  The worm that walks collapses into a shapeless swarm of worms. It drops all held, worn, and carried items. While discorporated, the worm that walks can't use attack actions and can't cast spells, but it can move through areas small enough for its individual worms to fit without having to [[Squeeze]]. It can use the same action to coalesce back into its normal form."
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +29 ([[reach|reach 10 feet]]); __Damage__ 1 (4d8+14) [[persistent damage|persistent piercing damage]]"
+    desc: "⬻ tendril +29 ([[reach|reach 10 feet]]); __Damage__ 4d8+14 (4d8+14) [[persistent damage|persistent piercing damage]]"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

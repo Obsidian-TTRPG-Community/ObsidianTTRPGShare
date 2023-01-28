@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bastard sword +26 ([[lawful]], [[magical]], [[two-hand|two-hand d12]]); __Damage__ 1 (2d8+13) slashing plus 1 (1d6) lawful"
+    desc: "⬻ bastard sword +26 ([[lawful]], [[magical]], [[two-hand|two-hand d12]]); __Damage__ 2d8+13 (2d8+13) slashing plus 1d6 (1d6) lawful"
   - name: Melee
-    desc: "⬻ fist +23 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1 (1d10+11) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ fist +23 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1d10+11 (1d10+11) bludgeoning plus 1d6 (1d6) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"

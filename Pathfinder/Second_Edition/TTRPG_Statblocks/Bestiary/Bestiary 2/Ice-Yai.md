@@ -65,9 +65,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +27 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+16) bludgeoning plus 1 (2d6) cold and frozen strike"
+    desc: "⬻ fist +27 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus 2d6 (2d6) cold and frozen strike"
   - name: Ranged
-    desc: "⬻ ice missile +25 ([[cold]], [[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 1 (2d10+12) cold and frozen strike"
+    desc: "⬻ ice missile +25 ([[cold]], [[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d10+12 (2d10+12) cold and frozen strike"
 
 spellcasting:
   - name: "Primal Innate Spells"

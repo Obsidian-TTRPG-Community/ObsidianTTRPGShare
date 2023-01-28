@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Frightful Moan"
     desc: "⬻ ([[auditory]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]]);  DC 29."
   - name: "Telekinetic Assault"
-    desc: "⬺ ([[divine]], [[evocation]]);  1 (6d6) bludgeoning, DC 29."
+    desc: "⬺ ([[divine]], [[evocation]]);  6d6 (6d6) bludgeoning, DC 29."
 
 speed: fly 25 feet
 
@@ -62,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ghostly hand +21 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d8+12) negative"
+    desc: "⬻ ghostly hand +21 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d8+12 (2d8+12) negative"
 
 spellcasting:
   - name: "Arcane Innate Spells"

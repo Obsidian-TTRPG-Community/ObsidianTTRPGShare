@@ -39,9 +39,9 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8+9) bludgeoning, DC 25 ([[grabbed|grabbed]] by claws only)"
+    desc: "⬻  1d8+9 (1d8+9) bludgeoning, DC 25 ([[grabbed|grabbed]] by claws only)"
   - name: "Mandibles"
-    desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] and [[paralyzed|paralyzed]] by the chuul's tentacles.  __Effect__  The creature takes 1 (3d6) piercing damage."
+    desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] and [[paralyzed|paralyzed]] by the chuul's tentacles.  __Effect__  The creature takes 3d6 (3d6) piercing damage."
   - name: "Paralytic Venom"
     desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[paralyzed|paralyzed]]. (1 round)"
   - name: "Tentacle Transfer"
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claws +19 ([[reach|reach 10 feet]]); __Damage__ 1 (2d8+9) bludgeoning plus Grab"
+    desc: "⬻ claws +19 ([[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 64."
 ```

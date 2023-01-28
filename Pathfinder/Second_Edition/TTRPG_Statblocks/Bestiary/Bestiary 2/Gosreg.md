@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or its attack and damage modifiers with its [[Strike|Strikes]], but it might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Mind Bolt"
-    desc: "⬺ ([[illusion]], [[mental]], [[occult]]);  A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 1 (6d6) mental damage (DC 30 basic Will save). On a critical failure, the creature is also [[confused|confused]] for 1 (1d4) rounds."
+    desc: "⬺ ([[illusion]], [[mental]], [[occult]]);  A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 6d6 (6d6) mental damage (DC 30 basic Will save). On a critical failure, the creature is also [[confused|confused]] for 1d4 (1d4) rounds."
 
 speed: 25 feet
 
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[finesse]]); __Damage__ 1 (2d10+7) piercing plus 1 (1d10) mental"
+    desc: "⬻ jaws +21 ([[finesse]]); __Damage__ 2d10+7 (2d10+7) piercing plus 1d10 (1d10) mental"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +21 ([[agile]], [[finesse]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 spellcasting:
   - name: "Occult Innate Spells"

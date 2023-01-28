@@ -35,7 +35,7 @@ abilityMods: [0, 3, 2, -4, 2, -2]
 
 abilities_bot:
   - name: "Compsognathus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
 
 speed: 30 feet, swim 15 feet
 
@@ -50,7 +50,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6) piercing plus compsognathus venom"
+    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1d6 (1d6) piercing plus compsognathus venom"
 
 sourcebook: "_Bestiary 2_, page 80."
 ```

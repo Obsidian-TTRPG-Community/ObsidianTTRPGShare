@@ -56,13 +56,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ orc necksplitter +7 ([[forceful]], [[sweep]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ orc necksplitter +7 ([[forceful]], [[sweep]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ shortsword +7 ([[agile]], [[versatile|versatile p]]); __Damage__ 1 (1d6+4) slashing"
+    desc: "⬻ shortsword +7 ([[agile]], [[versatile|versatile p]]); __Damage__ 1d6+4 (1d6+4) slashing"
   - name: Melee
-    desc: "⬻ fist +7 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ fist +7 ([[agile]], [[nonlethal]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +5 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +5 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 257."
 ```

@@ -38,7 +38,7 @@ abilityMods: [4, 3, 2, -2, 2, -2]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬻ ([[divine]], [[evocation]], [[fire]]);  The hell hound breathes flames that deal 1 (4d6) fire damage to all creatures in a 15-foot cone (DC 19 basic Reflex save). The hell hound can't use Breath Weapon again for 1 (1d4) rounds. If the hell hound would take fire damage or be targeted by a [[fire]] effect, its Breath Weapon recharges."
+    desc: "⬻ ([[divine]], [[evocation]], [[fire]]);  The hell hound breathes flames that deal 4d6 (4d6) fire damage to all creatures in a 15-foot cone (DC 19 basic Reflex save). The hell hound can't use Breath Weapon again for 1d4 (1d4) rounds. If the hell hound would take fire damage or be targeted by a [[fire]] effect, its Breath Weapon recharges."
 
 speed: 40 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 ([[magical]]); __Damage__ 1 (1d8+4) piercing plus 1 (1d6) evil and 1 (1d6) fire"
+    desc: "⬻ jaws +13 ([[magical]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d6 (1d6) evil and 1d6 (1d6) fire"
 
 sourcebook: "_Bestiary_, page 205."
 ```

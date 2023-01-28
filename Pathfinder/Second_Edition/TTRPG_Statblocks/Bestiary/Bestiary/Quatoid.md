@@ -40,7 +40,7 @@ abilities_mid:
     desc: " ([[aura]], [[emotion]], [[mental]], [[visual]]);  30 feet. The aura sheds dim light. Creatures in the emanation gain a +2 circumstance bonus to saving throws against [[emotion]] effects. The quatoid can activate or deactivate its calming bioluminescence as a single action, which has the [[concentrate]] trait."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d12+6) bludgeoning, DC 25."
+    desc: "⬻  1d12+6 (1d12+6) bludgeoning, DC 25."
 
 speed: 25 feet, swim 25 feet
 
@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+6) bludgeoning plus Grab"
+    desc: "⬻ tentacle +16 ([[reach|reach 10 feet]]); __Damage__ 2d12+6 (2d12+6) bludgeoning plus Grab"
 
 spellcasting:
   - name: "Primal Innate Spells"

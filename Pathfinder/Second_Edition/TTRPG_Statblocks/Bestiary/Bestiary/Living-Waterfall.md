@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wave +15 ([[reach|reach 10 feet]]); __Damage__ 1 (2d8+7) bludgeoning plus Push or Pull 5 feet"
+    desc: "⬻ wave +15 ([[reach|reach 10 feet]]); __Damage__ 2d8+7 (2d8+7) bludgeoning plus Push or Pull 5 feet"
 
 sourcebook: "_Bestiary_, page 152."
 ```

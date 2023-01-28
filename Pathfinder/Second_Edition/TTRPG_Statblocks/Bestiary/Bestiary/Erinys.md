@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flaming longsword +19 ([[evil]], [[fire]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (1d8+8) slashing plus 1 (1d6) evil and 1 (1d6) fire"
+    desc: "⬻ flaming longsword +19 ([[evil]], [[fire]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d8+8 (1d8+8) slashing plus 1d6 (1d6) evil and 1d6 (1d6) fire"
   - name: Ranged
-    desc: "⬻ flaming composite longbow +20 ([[deadly|deadly 1d10]], [[evil]], [[fire]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1 (2d8+4) piercing plus 1 (1d6) evil and 1 (1d6) fire"
+    desc: "⬻ flaming composite longbow +20 ([[deadly|deadly 1d10]], [[evil]], [[fire]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+4 (2d8+4) piercing plus 1d6 (1d6) evil and 1d6 (1d6) fire"
   - name: Ranged
     desc: "⬻ rope +19 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ rope snare"
 

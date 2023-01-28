@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shadow hand +18 ([[finesse]], [[magical]]); __Damage__ 1 (2d10+6) negative"
+    desc: "⬻ shadow hand +18 ([[finesse]], [[magical]]); __Damage__ 2d10+6 (2d10+6) negative"
 
 spellcasting:
   - name: "Divine Innate Spells"

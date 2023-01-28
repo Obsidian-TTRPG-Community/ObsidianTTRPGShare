@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Final End"
     desc: "  The marut is anathema to beings that unnaturally extend their existence, including undead. Its fists bypass such creatures' resistances to damage and apply the creatures' highest weakness to damage. If a marut kills a creature that rejuvenates, like a lich or ghost, it always knows that the creature isn't fully defeated."
   - name: "Fists of Thunder and Lightning"
-    desc: " ([[divine]], [[evocation]], [[incapacitation]]);  Each time the marut makes a fist [[Strike]], it chooses either lightning or thunder. If it chooses lightning, the attack deals an additional 1 (2d12) electricity damage and the target must succeed at a DC 33 Fortitude save or be [[blinded|blinded]] for 1 minute. If it chooses thunder, the attack deals an additional 1 (3d8) sonic damage and the target must succeed at a DC 36 Fortitude save or be [[deafened|deafened]] for 1 minute."
+    desc: " ([[divine]], [[evocation]], [[incapacitation]]);  Each time the marut makes a fist [[Strike]], it chooses either lightning or thunder. If it chooses lightning, the attack deals an additional 2d12 (2d12) electricity damage and the target must succeed at a DC 33 Fortitude save or be [[blinded|blinded]] for 1 minute. If it chooses thunder, the attack deals an additional 3d8 (3d8) sonic damage and the target must succeed at a DC 36 Fortitude save or be [[deafened|deafened]] for 1 minute."
 
 speed: 25 feet; air walk;
 
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +30 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+11) bludgeoning plus 1 (1d6) lawful and fists of thunder and lightning"
+    desc: "⬻ fist +30 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+11 (3d8+11) bludgeoning plus 1d6 (1d6) lawful and fists of thunder and lightning"
 
 spellcasting:
   - name: "Divine Innate Spells"

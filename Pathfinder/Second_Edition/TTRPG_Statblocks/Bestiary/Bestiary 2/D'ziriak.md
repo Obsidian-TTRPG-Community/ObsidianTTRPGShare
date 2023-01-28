@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +12 ([[agile]], [[finesse]]); __Damage__ 1 (1d10+4) piercing"
+    desc: "⬻ claw +12 ([[agile]], [[finesse]]); __Damage__ 1d10+4 (1d10+4) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"

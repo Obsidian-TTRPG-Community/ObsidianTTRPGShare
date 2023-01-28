@@ -37,7 +37,7 @@ abilityMods: [7, -1, 4, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by cold and water (1 (5d10), 1 (2d8) from areas and [[persistent damage|persistent damage]]); healed by acid (area 1 (2d8) HP); [[slowed|slowed]] by earth."
+    desc: "  harmed by cold and water (5d10 (5d10), 2d8 (2d8) from areas and [[persistent damage|persistent damage]]); healed by acid (area 2d8 (2d8) HP); [[slowed|slowed]] by earth."
   - name: "Vulnerable to Stone to Flesh"
     desc: "  A [[stone to flesh]] spell negates the golem's golem antimagic and its resistance to physical damage for 1 round. A [[flesh to stone]] spell reverses this effect immediately."
 abilities_bot:
@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Inexorable March"
     desc: "⬻  The stone golem [[Stride|Strides]] up to its Speed, pushing back each creature whose space it moves into and damaging them if they try to stop its movement. A creature can attempt to bar the way by succeeding at a DC 34 Fortitude save. On a critical success, the resisting creature takes no damage; otherwise it is damaged as if hit by the golem's fist."
   - name: "Slowing Pulse"
-    desc: "⬻ ([[arcane]], [[concentrate]], [[transmutation]]);  Each creature in a 10-foot emanation must succeed at a DC 30 Fortitude save or be [[slowed|slowed 1]] for 1 minute. The golem can't use Slowing Pulse again for 1 (1d4) rounds."
+    desc: "⬻ ([[arcane]], [[concentrate]], [[transmutation]]);  Each creature in a 10-foot emanation must succeed at a DC 30 Fortitude save or be [[slowed|slowed 1]] for 1 minute. The golem can't use Slowing Pulse again for 1d4 (1d4) rounds."
 
 speed: 20 feet
 
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +24 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+13) bludgeoning"
+    desc: "⬻ fist +24 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
 
 sourcebook: "_Bestiary_, page 187."
 ```

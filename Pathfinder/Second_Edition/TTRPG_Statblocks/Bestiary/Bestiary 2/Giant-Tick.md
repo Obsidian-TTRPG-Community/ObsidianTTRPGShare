@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Attach"
     desc: "  When the giant tick [[Strike|Strikes]] a creature larger than itself, its barbed hypostome attaches it to that creature. This is similar to Grabbing the creature, but the giant tick moves with that creature rather than holding it in place. The giant tick is [[flat-footed|flat-footed]] while attached. If the giant tick is killed or pushed away while attached to a creature on which it has used Blood Drain, that creature takes 1 [[persistent damage|persistent bleed damage]]. Escaping the attachment or removing the giant tick in other ways doesn't cause bleed damage."
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The giant tick is attached to a creature  __Effect__  The giant tick uses its hypostome to drain blood from the creature it's attached to. This deals 1 (1d4) damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a giant tick is [[drained|drained 1]] until it receives healing (of any kind or amount)."
+    desc: "⬻ __Requirements__ The giant tick is attached to a creature  __Effect__  The giant tick uses its hypostome to drain blood from the creature it's attached to. This deals 1d4 (1d4) damage, and the giant tick gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a giant tick is [[drained|drained 1]] until it receives healing (of any kind or amount)."
   - name: "Tick Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 17 Fortitude. __Stage 1__ [[enfeebled|enfeebled]] (1 day) __Stage 2__ [[enfeebled|enfeebled 2]]. (1 day)"
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hypostome +8 ([[finesse]]); __Damage__ 1 (1d6+1) plus attach and tick fever"
+    desc: "⬻ hypostome +8 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) plus attach and tick fever"
 
 sourcebook: "_Bestiary 2_, page 260."
 ```

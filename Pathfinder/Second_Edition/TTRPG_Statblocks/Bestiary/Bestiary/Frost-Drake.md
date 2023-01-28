@@ -39,12 +39,12 @@ abilities_top:
     desc: "  Snow doesn't impair a frost drake's vision; it ignores concealment from snowfall."
 abilities_mid:
   - name: "Retaliatory Strike"
-    desc: "⬲ __Trigger__ A creature within reach of the frost drake's tail successfully damages the frost drake with a [[Strike]]. __Effect__  The frost drake attempts to [[Strike]] with its tail. If the [[Strike]] hits, it deals an additional 1 (1d6) damage."
+    desc: "⬲ __Trigger__ A creature within reach of the frost drake's tail successfully damages the frost drake with a [[Strike]]. __Effect__  The frost drake attempts to [[Strike]] with its tail. If the [[Strike]] hits, it deals an additional 1d6 (1d6) damage."
 abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The frost drake makes two gangs [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Freezing Mist Breath"
-    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot-burst cloud of freezing mist. Those in the burst take 1 (8d6) cold damage (DC 25 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into [[terrain|difficult terrain]] for 1 (2d4) rounds. It can't use Freezing Mist Breath again for 1 (1d6) rounds."
+    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The frost drake spits a ball of liquid up to 60 feet that explodes into a 20-foot-burst cloud of freezing mist. Those in the burst take 8d6 (8d6) cold damage (DC 25 basic Reflex save). The mist cakes all surfaces in the area with a sheet of slippery ice that turns the area into [[terrain|difficult terrain]] for 2d4 (2d4) rounds. It can't use Freezing Mist Breath again for 1d6 (1d6) rounds."
   - name: "Ice Climb"
     desc: "  A frost drake can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Speed Surge"
@@ -63,9 +63,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +17 __Damage__ 1 (2d12+8) piercing plus 1 (1d6) cold"
+    desc: "⬻ fangs +17 __Damage__ 2d12+8 (2d12+8) piercing plus 1d6 (1d6) cold"
   - name: Melee
-    desc: "⬻ tail +17 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+8) bludgeoning"
+    desc: "⬻ tail +17 ([[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) bludgeoning"
 
 sourcebook: "_Bestiary_, page 134."
 ```

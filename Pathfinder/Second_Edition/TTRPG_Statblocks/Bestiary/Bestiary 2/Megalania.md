@@ -34,9 +34,9 @@ abilityMods: [7, 2, 4, -4, 2, -2]
 
 abilities_bot:
   - name: "Megalania Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1 (2d6) poison damage, [[clumsy|clumsy 2]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1 (2d6) poison damage, [[clumsy|clumsy 3]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[clumsy|clumsy 2]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d6 (2d6) poison damage, [[clumsy|clumsy 3]], and [[flat-footed|flat-footed]] (1 round)"
   - name: "Swallow Whole"
-    desc: " ([[attack]]);  Large, 1 (2d10+7) bludgeoning, Rupture 16."
+    desc: " ([[attack]]);  Large, 2d10+7 (2d10+7) bludgeoning, Rupture 16."
 
 speed: 25 feet, swim 25 feet
 

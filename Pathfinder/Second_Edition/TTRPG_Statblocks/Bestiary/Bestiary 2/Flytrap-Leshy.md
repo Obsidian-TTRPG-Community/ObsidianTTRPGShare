@@ -38,10 +38,10 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  As sunflower leshy, except plants regain 1 (3d6) Hit Points and the area sprouts flytraps instead of sunflowers."
+    desc: " ([[healing]]);  As sunflower leshy, except plants regain 3d6 (3d6) Hit Points and the area sprouts flytraps instead of sunflowers."
 abilities_bot:
   - name: "Amalgam"
-    desc: "⬻ ([[polymorph]], [[primal]], [[transmutation]]);  A flytrap leshy can combine itself with an adjacent and willing flytrap leshy that is not currently affected by Amalgam. The leshy using Amalgam physically merges with the target, restoring 1 (3d8) Hit Points to the target. The leshy can [[Sustain a Spell]] to continue Amalgam, but once they stop, the target leshy takes 1 (3d8) damage. If the target leshy dies, Amalgam ends at once and the original leshy gains the [[dying|dying]] condition or increases their [[dying|dying]] condition value by 1 if they were already [[dying|dying]]. As long as Amalgam is sustained, the target leshy gains a +1 status bonus to attack rolls and saving throws, its AC increases to 21, and it gains an additional reaction at the start of each turn."
+    desc: "⬻ ([[polymorph]], [[primal]], [[transmutation]]);  A flytrap leshy can combine itself with an adjacent and willing flytrap leshy that is not currently affected by Amalgam. The leshy using Amalgam physically merges with the target, restoring 3d8 (3d8) Hit Points to the target. The leshy can [[Sustain a Spell]] to continue Amalgam, but once they stop, the target leshy takes 3d8 (3d8) damage. If the target leshy dies, Amalgam ends at once and the original leshy gains the [[dying|dying]] condition or increases their [[dying|dying]] condition value by 1 if they were already [[dying|dying]]. As long as Amalgam is sustained, the target leshy gains a +1 status bonus to attack rolls and saving throws, its AC increases to 21, and it gains an additional reaction at the start of each turn."
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The flytrap leshy transforms into a Small flytrap. This ability otherwise uses the effects of tree shape."
   - name: "Flytrap Toxin"
@@ -60,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flytrap mouth +13 ([[versatile|versatile s]]); __Damage__ 1 (1d8+6) piercing plus 1 (1d6) acid and flytrap toxin"
+    desc: "⬻ flytrap mouth +13 ([[versatile|versatile s]]); __Damage__ 1d8+6 (1d8+6) piercing plus 1d6 (1d6) acid and flytrap toxin"
   - name: Melee
-    desc: "⬻ flytrap hand +13 ([[agile]], [[versatile|versatile s]]); __Damage__ 1 (1d6+6) piercing plus 1 (1d6) acid and flytrap toxin"
+    desc: "⬻ flytrap hand +13 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d6+6 (1d6+6) piercing plus 1d6 (1d6) acid and flytrap toxin"
   - name: Ranged
-    desc: "⬻ spittle +11 ([[acid]], [[range increment|range increment 10 feet]]); __Damage__ 1 (1d6+6) acid plus flytrap toxin"
+    desc: "⬻ spittle +11 ([[acid]], [[range increment|range increment 10 feet]]); __Damage__ 1d6+6 (1d6+6) acid plus flytrap toxin"
 
 spellcasting:
   - name: "Primal Innate Spells"

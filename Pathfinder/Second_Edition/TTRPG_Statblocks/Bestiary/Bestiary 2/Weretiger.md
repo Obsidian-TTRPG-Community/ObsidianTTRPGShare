@@ -45,7 +45,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +14 for 1 (1d4+7) bludgeoning, or tiger with Speed 30 feet and Wrestle (Bestiary page 53)."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +14 for 1d4+7 (1d4+7) bludgeoning, or tiger with Speed 30 feet and Wrestle (Bestiary page 53)."
   - name: "Curse of the Weretiger"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  Saving Throw DC 21 Fortitude."
   - name: "Moon Frenzy"
@@ -68,9 +68,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (2d6+7) piercing plus curse of the weretiger and [[Grab]]"
+    desc: "⬻ jaws +14 __Damage__ 2d6+7 (2d6+7) piercing plus curse of the weretiger and [[Grab]]"
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]]); __Damage__ 1 (2d4+7) slashing and [[Grab]]"
+    desc: "⬻ claw +14 ([[agile]]); __Damage__ 2d4+7 (2d4+7) slashing and [[Grab]]"
 
 sourcebook: "_Bestiary 2_, page 291."
 ```

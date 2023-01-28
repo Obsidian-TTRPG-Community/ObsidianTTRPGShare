@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Enraged Cunning"
     desc: "  There are few things as dangerously persistent in the natural world as an angry unkindness of ravens. A raven swarm can hound its prey through most barriers. Simple latches, unsecured chimney flues, loosely shuttered windows, and similar obstacles rarely keep an unkindness away. A raven swarm attempts a [[Thievery]] check to bypass many of these simple obstructions, typically against DC 20."
   - name: "Swarming Beaks"
-    desc: "⬻  The ravens' angry pecking deals 1 (1d8) piercing damage to each enemy in the swarm's space (DC 20 basic Reflex save). A creature that critically fails its save is [[blinded|blinded]] for 1 (1d4) rounds as the ravens focus their attacks on the target's vulnerable face."
+    desc: "⬻  The ravens' angry pecking deals 1d8 (1d8) piercing damage to each enemy in the swarm's space (DC 20 basic Reflex save). A creature that critically fails its save is [[blinded|blinded]] for 1d4 (1d4) rounds as the ravens focus their attacks on the target's vulnerable face."
 
 speed: 10 feet, fly 40 feet
 

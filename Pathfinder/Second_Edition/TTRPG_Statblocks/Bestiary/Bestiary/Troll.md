@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +14 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+5) piercing"
+    desc: "⬻ jaws +14 ([[reach|reach 10 feet]]); __Damage__ 2d10+5 (2d10+5) piercing"
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+5) slashing"
+    desc: "⬻ claw +14 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+5 (2d8+5) slashing"
 
 sourcebook: "_Bestiary_, page 314."
 ```

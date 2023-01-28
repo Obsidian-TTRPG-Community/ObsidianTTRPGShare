@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatclub +10 ([[backswing]], [[shove]]); __Damage__ 1 (1d10+4) bludgeoning"
+    desc: "⬻ greatclub +10 ([[backswing]], [[shove]]); __Damage__ 1d10+4 (1d10+4) bludgeoning"
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ fist +10 ([[agile]], [[nonlethal]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 257."
 ```

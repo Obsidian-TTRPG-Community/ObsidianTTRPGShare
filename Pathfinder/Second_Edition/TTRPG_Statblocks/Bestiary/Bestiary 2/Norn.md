@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Shift Fate"
     desc: "⬲ ([[divination]], [[occult]]); __Trigger__ A creature within 120 feet attempts a saving throw __Effect__  The creature rolls the saving throw twice, and then the norn decides which result applies. If the norn chooses the lower roll, this is a [[misfortune]] effect; if she chooses the higher roll, it's a [[fortune]] effect; if they're the same, she decides which trait to apply."
   - name: "Snip Thread"
-    desc: "⬺ ([[death]], [[manipulate]], [[necromancy]], [[occult]]); __Frequency__ three times per day  __Effect__  The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 negative damage (DC 42 basic Fortitude save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately. A creature slain by Snip Thread can't be restored to life except by miracle, wish, or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours. The norn can't use Snip Thread again for 1 (1d4) rounds."
+    desc: "⬺ ([[death]], [[manipulate]], [[necromancy]], [[occult]]); __Frequency__ three times per day  __Effect__  The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 negative damage (DC 42 basic Fortitude save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately. A creature slain by Snip Thread can't be restored to life except by miracle, wish, or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours. The norn can't use Snip Thread again for 1d4 (1d4) rounds."
 
 speed: 35 feet, fly 35 feet
 
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ norn shears +38 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile p]]); __Damage__ 1 (4d6+15) slashing plus 1 (5d6) negative and sever fate"
+    desc: "⬻ norn shears +38 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile p]]); __Damage__ 4d6+15 (4d6+15) slashing plus 5d6 (5d6) negative and sever fate"
   - name: Melee
-    desc: "⬻ hand of fate +38 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (4d10+15) negative plus sever fate"
+    desc: "⬻ hand of fate +38 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d10+15 (4d10+15) negative plus sever fate"
 
 spellcasting:
   - name: "Occult Innate Spells"

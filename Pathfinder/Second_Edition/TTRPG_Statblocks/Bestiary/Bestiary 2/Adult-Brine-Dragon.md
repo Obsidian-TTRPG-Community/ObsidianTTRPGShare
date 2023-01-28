@@ -42,16 +42,16 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 30."
   - name: "Brine Spit"
-    desc: "⬲ __Trigger__ A creature the brine dragon observes within 30 feet uses a concentrate action __Effect__  The dragon spits a glob of caustic salt water at the creature. The creature takes 1 (5d6) acid damage (DC 30 basic Reflex save). On a failure, the concentrate action is disrupted."
+    desc: "⬲ __Trigger__ A creature the brine dragon observes within 30 feet uses a concentrate action __Effect__  The dragon spits a glob of caustic salt water at the creature. The creature takes 5d6 (5d6) acid damage (DC 30 basic Reflex save). On a failure, the concentrate action is disrupted."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 1 (13d6) acid damage in a 100-foot line (DC 32 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 13d6 (13d6) acid damage in a 100-foot line (DC 32 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
     desc: "  The dragon recharges their Breath Weapon whenever they score a critical hit with a [[Strike]]."
   - name: "Desiccating Bite"
-    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 1 (4d6) [[persistent damage|persistent acid damage]], and is [[sickened|sickened 2]] from the pain of salt and brine in its wounds."
+    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 4d6 (4d6) [[persistent damage|persistent acid damage]], and is [[sickened|sickened 2]] from the pain of salt and brine in its wounds."
 
 speed: 40 feet, fly 120 feet, swim 60 feet
 
@@ -66,13 +66,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +26 ([[acid]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+12) piercing plus 1 (3d4) acid"
+    desc: "⬻ jaws +26 ([[acid]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+12 (3d10+12) piercing plus 3d4 (3d4) acid"
   - name: Melee
-    desc: "⬻ claw +26 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+12) slashing"
+    desc: "⬻ claw +26 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+12 (3d8+12) slashing"
   - name: Melee
-    desc: "⬻ tail +24 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d12+12) bludgeoning"
+    desc: "⬻ tail +24 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d12+12 (3d12+12) bludgeoning"
   - name: Melee
-    desc: "⬻ wing +24 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (1d12+12) piercing"
+    desc: "⬻ wing +24 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1d12+12 (1d12+12) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

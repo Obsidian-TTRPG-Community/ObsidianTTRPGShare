@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Awaken Tree"
     desc: "⬺ ([[concentrate]], [[primal]]);  The arboreal regent causes a tree within 180 feet to uproot itself and fight as a minion using the statistics for an awakened tree. The arboreal regent can control up to two awakened trees at a time, and it can issue commands to both trees as a single action, which has the [[concentrate]] and [[auditory]] traits."
   - name: "Sunder Objects"
-    desc: "  When an arboreal regent damages an item or structure, it deals an additional 1 (2d10) damage to that item or structure."
+    desc: "  When an arboreal regent damages an item or structure, it deals an additional 2d10 (2d10) damage to that item or structure."
   - name: "Throw Rock"
     desc: "⬻ "
 
@@ -57,11 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ branch +19 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+7) bludgeoning"
+    desc: "⬻ branch +19 ([[reach|reach 15 feet]]); __Damage__ 2d12+7 (2d12+7) bludgeoning"
   - name: Melee
-    desc: "⬻ root +19 ([[trip]]); __Damage__ 1 (2d8+7) bludgeoning"
+    desc: "⬻ root +19 ([[trip]]); __Damage__ 2d8+7 (2d8+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d10+7) bludgeoning"
+    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+7 (2d10+7) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

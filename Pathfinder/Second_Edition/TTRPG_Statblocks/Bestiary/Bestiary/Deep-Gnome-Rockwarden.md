@@ -48,9 +48,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pick +10 ([[fatal|fatal d10]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ pick +10 ([[fatal|fatal d10]]); __Damage__ 1d6 (1d6) piercing"
   - name: Ranged
-    desc: "⬻ sling +11 ([[propulsive]], [[range increment|range increment 50 feet]]); __Damage__ 1 (1d6) bludgeoning"
+    desc: "⬻ sling +11 ([[propulsive]], [[range increment|range increment 50 feet]]); __Damage__ 1d6 (1d6) bludgeoning"
 
 spellcasting:
   - name: "Primal Prepared Spells"

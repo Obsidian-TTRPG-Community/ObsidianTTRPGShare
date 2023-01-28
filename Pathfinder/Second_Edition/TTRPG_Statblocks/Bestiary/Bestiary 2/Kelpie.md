@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 __Damage__ 1 (2d6+7) bludgeoning plus Grab"
+    desc: "⬻ jaws +13 __Damage__ 2d6+7 (2d6+7) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary 2_, page 154."
 ```

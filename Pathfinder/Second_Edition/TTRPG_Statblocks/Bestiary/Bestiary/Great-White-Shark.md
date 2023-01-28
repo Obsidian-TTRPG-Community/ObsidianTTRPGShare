@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Breach"
     desc: "⬺  The shark Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet high, making a [[Strike]] against a creature at any point during the jump (this lets it attack a creature within 30 feet of the water's surface). After the [[Strike]], the shark splashes back down into the water."
   - name: "Savage"
-    desc: "⬻ __Requirements__ The shark hit with a jaws [[Strike]] on its most recent action this turn.  __Effect__  The creature the shark hit takes 1 (1d12) slashing damage."
+    desc: "⬻ __Requirements__ The shark hit with a jaws [[Strike]] on its most recent action this turn.  __Effect__  The creature the shark hit takes 1d12 (1d12) slashing damage."
   - name: "Strafing Chomp"
     desc: "⬻  The shark Swims up to half its swim Speed, makes a jaws [[Strike]], and then Swims up to half its Speed further. The [[Strike]] deals half damage."
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (1d12+8) piercing"
+    desc: "⬻ jaws +14 __Damage__ 1d12+8 (1d12+8) piercing"
 
 sourcebook: "_Bestiary_, page 291."
 ```

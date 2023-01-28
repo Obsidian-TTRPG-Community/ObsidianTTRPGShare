@@ -34,7 +34,7 @@ abilityMods: [4, 5, 2, -5, 2, -5]
 
 abilities_bot:
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The giant mosquito has a creature [[grabbed|grabbed]]  __Effect__  The giant mosquito uses its proboscis to drain blood from the [[grabbed|grabbed]] creature. This deals 1 (3d6) damage, and the giant mosquito gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a giant mosquito is [[drained|drained 1]] until it receives healing of any kind or amount."
+    desc: "⬻ __Requirements__ The giant mosquito has a creature [[grabbed|grabbed]]  __Effect__  The giant mosquito uses its proboscis to drain blood from the [[grabbed|grabbed]] creature. This deals 3d6 (3d6) damage, and the giant mosquito gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a giant mosquito is [[drained|drained 1]] until it receives healing of any kind or amount."
   - name: "Septic Malaria"
     desc: " ([[disease]]);  __Saving Throw__ DC 24 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 day) __Stage 2__ [[drained|drained 1]] and [[sickened|sickened 1]] (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ [[unconscious|unconscious]]  (1 day)"
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ proboscis +17 ([[finesse]]); __Damage__ 1 (2d10+7) piercing plus Grab and septic malaria"
+    desc: "⬻ proboscis +17 ([[finesse]]); __Damage__ 2d10+7 (2d10+7) piercing plus Grab and septic malaria"
 
 sourcebook: "_Bestiary 2_, page 175."
 ```

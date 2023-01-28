@@ -37,12 +37,12 @@ abilityMods: [7, 3, 6, 4, 5, 4]
 
 abilities_mid:
   - name: "Purity Vulnerability"
-    desc: "  A hezrou revels in the foulness it exudes and becomes distraught when contaminations are purified. The first time in a round when a contamination is purified (such as via purify food and drink) or a toxin is neutralized (such as via neutralize poison) within 30 feet of a hezrou, the demon takes 1 (6d6) mental damage."
+    desc: "  A hezrou revels in the foulness it exudes and becomes distraught when contaminations are purified. The first time in a round when a contamination is purified (such as via purify food and drink) or a toxin is neutralized (such as via neutralize poison) within 30 feet of a hezrou, the demon takes 6d6 (6d6) mental damage."
   - name: "Stench"
     desc: " ([[aura]], [[olfactory]]);  30 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 27 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for as long as itʼs [[sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 abilities_bot:
   - name: "Poisonous Pustules"
-    desc: "⬻ ([[poison]]); __Requirements__ The hezrou is grappling a creature  __Effect__  Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature [[grabbed|grabbed]] or [[restrained|restrained]] by the hezrou takes 1 (2d12+6) poison damage (DC 30 basic Fortitude save)."
+    desc: "⬻ ([[poison]]); __Requirements__ The hezrou is grappling a creature  __Effect__  Toxic fluids spurt from burst boils and weeping wens on the hezrou's body. A creature [[grabbed|grabbed]] or [[restrained|restrained]] by the hezrou takes 2d12+6 (2d12+6) poison damage (DC 30 basic Fortitude save)."
 
 speed: 30 feet, swim 30 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws (evil, magical, reach <10 feet>) +24 __Damage__ 1 (2d12+13) piercing plus 1 (1d6) evil and Grab"
+    desc: "⬻ jaws (evil, magical, reach <10 feet>) +24 __Damage__ 2d12+13 (2d12+13) piercing plus 1d6 (1d6) evil and Grab"
   - name: Melee
-    desc: "⬻ claw (agile, evil, magical, reach <10 feet>) +24 __Damage__ 1 (2d8+13) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw (agile, evil, magical, reach <10 feet>) +24 __Damage__ 2d8+13 (2d8+13) slashing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"

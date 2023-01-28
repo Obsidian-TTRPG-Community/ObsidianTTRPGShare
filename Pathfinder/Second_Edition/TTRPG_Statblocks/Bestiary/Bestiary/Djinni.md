@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +15 ([[forceful +1]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d6+10) slashing"
+    desc: "⬻ scimitar +15 ([[forceful +1]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d6+10 (1d6+10) slashing"
   - name: Melee
-    desc: "⬻ fist +16 ([[agile]], [[finesse]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1 (1d4+10) bludgeoning"
+    desc: "⬻ fist +16 ([[agile]], [[finesse]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1d4+10 (1d4+10) bludgeoning"
   - name: Ranged
-    desc: "⬻ crashing wind +15 ([[air]], [[arcane]], [[evocation]], [[range increment|range increment 20 feet]]); __Damage__ 1 (1d8+6) bludgeoning"
+    desc: "⬻ crashing wind +15 ([[air]], [[arcane]], [[evocation]], [[range increment|range increment 20 feet]]); __Damage__ 1d8+6 (1d8+6) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ holy warhammer +30 ([[good]], [[magical]], [[shove]]); __Damage__ 1 (2d8+22) bludgeoning plus 1 (1d6) good"
+    desc: "⬻ holy warhammer +30 ([[good]], [[magical]], [[shove]]); __Damage__ 2d8+22 (2d8+22) bludgeoning plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

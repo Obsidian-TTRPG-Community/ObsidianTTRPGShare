@@ -39,7 +39,7 @@ abilities_top:
     desc: "  A zombie is permanently [[slowed|slowed 1]] and can't use reactions."
 abilities_bot:
   - name: "Jaws"
-    desc: "⬻ ([[attack]]); __Requirements__ The zombie has a creature [[grabbed|grabbed]] or [[restrained|restrained]].  __Effect__  The zombie makes a jaws unarmed melee [[Strike]] against the [[grabbed|grabbed]] or [[restrained|restrained]] creature with an attack modifier of +7 that deals 1 (1d8+3) piercing damage."
+    desc: "⬻ ([[attack]]); __Requirements__ The zombie has a creature [[grabbed|grabbed]] or [[restrained|restrained]].  __Effect__  The zombie makes a jaws unarmed melee [[Strike]] against the [[grabbed|grabbed]] or [[restrained|restrained]] creature with an attack modifier of +7 that deals 1d8+3 (1d8+3) piercing damage."
 
 speed: 25 feet
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +7 __Damage__ 1 (1d6+3) bludgeoning plus Grab"
+    desc: "⬻ fist +7 __Damage__ 1d6+3 (1d6+3) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 340."
 ```

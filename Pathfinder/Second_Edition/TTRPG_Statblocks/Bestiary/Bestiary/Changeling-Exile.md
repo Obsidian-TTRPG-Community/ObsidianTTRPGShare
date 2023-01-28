@@ -49,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claws +11 ([[agile]]); __Damage__ 1 (1d4+4) slashing"
+    desc: "⬻ claws +11 ([[agile]]); __Damage__ 1d4+4 (1d4+4) slashing"
   - name: Melee
-    desc: "⬻ staff +11 ([[two-hand|two-hand d8]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ staff +11 ([[two-hand|two-hand d8]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
 
 spellcasting:
   - name: "Primal Prepared Spells"

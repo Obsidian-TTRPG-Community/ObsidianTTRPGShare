@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +25 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (3d4+5) bludgeoning plus 1 (4d6) fire and 1 (2d4) [[persistent damage|persistent fire]]"
+    desc: "⬻ fist +25 ([[agile]], [[finesse]], [[magical]]); __Damage__ 3d4+5 (3d4+5) bludgeoning plus 4d6 (4d6) fire and 2d4 (2d4) [[persistent damage|persistent fire]]"
   - name: Melee
-    desc: "⬻ fire ray +25 ([[arcane]], [[evocation]], [[magical]], [[range|range 100 feet]]); __Damage__ 1 (3d10+3) fire, plus 1 (2d10) positive damage if the target is undead"
+    desc: "⬻ fire ray +25 ([[arcane]], [[evocation]], [[magical]], [[range|range 100 feet]]); __Damage__ 3d10+3 (3d10+3) fire, plus 2d10 (2d10) positive damage if the target is undead"
 
 spellcasting:
   - name: "Occult Innate Spells"

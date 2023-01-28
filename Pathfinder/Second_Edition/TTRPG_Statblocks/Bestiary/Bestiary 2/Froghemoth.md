@@ -48,11 +48,11 @@ abilities_bot:
   - name: "Flailing Tentacles"
     desc: "⬺  The froghemoth makes up to four tentacle [[Strike|Strikes]], each against a different target. These count toward the froghemoth's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks."
   - name: "Greater Constrict"
-    desc: "⬻  1 (3d6+12), DC 33."
+    desc: "⬻  3d6+12 (3d6+12), DC 33."
   - name: "Retract Tongue"
     desc: "⬺  The froghemoth pulls a creature [[grabbed|grabbed]] by its tongue toward itself. The froghemoth rolls an [[Athletics]] check against the creature's Fortitude DC. On a success, the froghemoth pulls the creature into an adjacent space, and if it critically succeeds it can also make a bite [[Strike]] against the creature after the pull."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Large, 1 (3d6+9) bludgeoning, Rupture 24."
+    desc: "⬻ ([[attack]]);  Large, 3d6+9 (3d6+9) bludgeoning, Rupture 24."
 
 speed: 20 feet, swim 30 feet
 
@@ -67,11 +67,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +27 ([[reach|reach 10 feet]]); __Damage__ 1 (3d12+14) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +27 ([[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) piercing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ tentacle +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+14) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tentacle +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d8+14 (3d8+14) bludgeoning plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ tongue +27 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 1 (2d10+14) piercing plus barbed tongue"
+    desc: "⬻ tongue +27 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d10+14 (2d10+14) piercing plus barbed tongue"
 
 sourcebook: "_Bestiary 2_, page 122."
 ```

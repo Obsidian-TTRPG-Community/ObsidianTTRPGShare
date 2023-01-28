@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scythe branch +18 ([[backswing]], [[deadly|deadly d10]], [[reach|reach 15 feet]]); __Damage__ 1 (2d10+9) slashing"
+    desc: "⬻ scythe branch +18 ([[backswing]], [[deadly|deadly d10]], [[reach|reach 15 feet]]); __Damage__ 2d10+9 (2d10+9) slashing"
 
 sourcebook: "_Bestiary 2_, page 235."
 ```

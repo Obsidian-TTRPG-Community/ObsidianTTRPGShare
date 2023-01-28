@@ -59,9 +59,9 @@ abilities_bot:
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Sanguine Mauling"
-    desc: "⬻ __Requirements__ The vrykolakas ancient's last action was to Drink Blood  __Effect__  The vrykolakas ancient makes two claw [[Strike|Strikes]]. Both count toward its multiple attack penalty, but the penalty increases only after it makes both attacks. If it hits with both claws, the target takes 1 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻ __Requirements__ The vrykolakas ancient's last action was to Drink Blood  __Effect__  The vrykolakas ancient makes two claw [[Strike|Strikes]]. Both count toward its multiple attack penalty, but the penalty increases only after it makes both attacks. If it hits with both claws, the target takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
   - name: "Steal Breath"
-    desc: "⬺ ([[manipulate]]); __Requirements__ The vrykolakas ancient is adjacent to an [[unconscious|unconscious]] creature  __Effect__  The vrykolakas ancient steals the creature's breath. The [[unconscious|unconscious]] creature begins suffocating, can't be awakened for 1 round, and must attempt a DC 33 Fortitude save. If a creature is targeted with this ability in consecutive rounds, the save DC decreases by 2 each round after the first.\n__Critical Success__ The target immediately awakens and is then temporarily immune to [[Steal]] Breath for 24 hours.\n__Success__ The target is unaffected.\n__Failure__ The target takes 1 (1d10) damage.\n__Critical Failure__ The target is reduced to 0 HP and becomes [[dying|dying 1]]."
+    desc: "⬺ ([[manipulate]]); __Requirements__ The vrykolakas ancient is adjacent to an [[unconscious|unconscious]] creature  __Effect__  The vrykolakas ancient steals the creature's breath. The [[unconscious|unconscious]] creature begins suffocating, can't be awakened for 1 round, and must attempt a DC 33 Fortitude save. If a creature is targeted with this ability in consecutive rounds, the save DC decreases by 2 each round after the first.\n__Critical Success__ The target immediately awakens and is then temporarily immune to [[Steal]] Breath for 24 hours.\n__Success__ The target is unaffected.\n__Failure__ The target takes 1d10 (1d10) damage.\n__Critical Failure__ The target is reduced to 0 HP and becomes [[dying|dying 1]]."
 
 speed: 40 feet, climb 20 feet
 
@@ -76,9 +76,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +27 __Damage__ 1 (3d10+17) piercing plus Drink Blood"
+    desc: "⬻ fangs +27 __Damage__ 3d10+17 (3d10+17) piercing plus Drink Blood"
   - name: Melee
-    desc: "⬻ claw +27 ([[agile]]); __Damage__ 1 (3d6+17) slashing"
+    desc: "⬻ claw +27 ([[agile]]); __Damage__ 3d6+17 (3d6+17) slashing"
 
 spellcasting:
   - name: "Divine Innate Spells"

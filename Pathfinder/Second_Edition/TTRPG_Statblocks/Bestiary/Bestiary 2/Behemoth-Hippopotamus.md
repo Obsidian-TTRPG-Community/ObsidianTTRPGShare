@@ -45,7 +45,7 @@ abilities_bot:
   - name: "An Engulfing"
     desc: "  Chomp counts as two attacks for the multiple attack penalty."
   - name: "Swallow Whole"
-    desc: "⬻  Medium, 1 (2d12+10) bludgeoning, Rupture 26."
+    desc: "⬻  Medium, 2d12+10 (2d12+10) bludgeoning, Rupture 26."
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 29."
 
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[deadly|deadly d12]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+10) piercing plus Grab"
+    desc: "⬻ jaws +23 ([[deadly|deadly d12]], [[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus Grab"
   - name: Melee
-    desc: "⬻ foot +21 __Damage__ 1 (2d8+9) bludgeoning"
+    desc: "⬻ foot +21 __Damage__ 2d8+9 (2d8+9) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 144."
 ```

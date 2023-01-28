@@ -40,9 +40,9 @@ abilities_bot:
   - name: "Hidden Movement"
     desc: "  If the lizardfolk scout starts its turn [[undetected|undetected]] by a creature or [[hidden|hidden]] from it, that creature is [[flat-footed|flat-footed]] against the scout's attacks until the end of the scout's turn."
   - name: "Giant Centipede Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d8) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1 (1d12) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1d12 (1d12) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round)"
   - name: "Sneak Attack"
-    desc: "  The lizardfolk scout deals an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The lizardfolk scout deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Terrain Advantage"
     desc: "  Non-lizardfolk creatures in [[terrain|difficult terrain]] and non-lizardfolk creatures that are in water and lack a swim Speed are [[flat-footed|flat-footed]] to the lizardfolk defender."
 abilities_top:
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +7 __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ jaws +7 __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Melee
-    desc: "⬻ tail +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+2) bludgeoning"
+    desc: "⬻ tail +8 ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
     desc: "⬻ blowgun +8 ([[agile]], [[nonlethal]], [[range increment|range increment 20 feet]], [[reload|reload 1]]); __Damage__ 1 piercing plus giant centipede venom"
 

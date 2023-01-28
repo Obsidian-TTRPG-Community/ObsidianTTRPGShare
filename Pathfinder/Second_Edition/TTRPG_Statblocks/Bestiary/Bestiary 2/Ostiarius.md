@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 1 (2d6+2) slashing plus 1 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ claw +13 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 2d6+2 (2d6+2) slashing plus 2d6 (2d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

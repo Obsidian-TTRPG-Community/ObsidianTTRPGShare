@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ sickle +9 ([[agile]], [[finesse]], [[trip]]); __Damage__ 1 (1d4+1) slashing"
+    desc: "⬻ sickle +9 ([[agile]], [[finesse]], [[trip]]); __Damage__ 1d4+1 (1d4+1) slashing"
   - name: Ranged
-    desc: "⬻ dart +9 ([[agile]], [[thrown|thrown 20 feet]]); __Damage__ 1 (1d4+1) piercing"
+    desc: "⬻ dart +9 ([[agile]], [[thrown|thrown 20 feet]]); __Damage__ 1d4+1 (1d4+1) piercing"
 
 sourcebook: "_Bestiary 2_, page 139."
 ```

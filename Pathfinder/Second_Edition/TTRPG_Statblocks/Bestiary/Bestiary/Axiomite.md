@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ warhammer +20 ([[lawful]], [[magical]], [[shove]]); __Damage__ 1 (2d8+11) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ warhammer +20 ([[lawful]], [[magical]], [[shove]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus 1d6 (1d6) lawful"
   - name: Melee
-    desc: "⬻ fist +17 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1 (1d8+5) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ fist +17 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1d8+5 (1d8+5) bludgeoning plus 1d6 (1d6) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"

@@ -41,9 +41,9 @@ abilities_mid:
     desc: "  Whenever a mandragora begins its turn in an area of magical darkness, it is [[slowed|slowed 1]] on that turn."
 abilities_bot:
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The mandragora has a creature [[grabbed|grabbed]]  __Effect__  The mandragora drains blood from the creature it has [[grabbed|grabbed]], dealing 1 (2d6) damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a mandragora is [[drained|drained 1]] until it receives healing of any kind or amount."
+    desc: "⬻ __Requirements__ The mandragora has a creature [[grabbed|grabbed]]  __Effect__  The mandragora drains blood from the creature it has [[grabbed|grabbed]], dealing 2d6 (2d6) damage. If the creature is a demon, fey, or sorcerer, the mandragora gains temporary Hit Points equal to the damage dealt. A creature that has its blood [[drained|drained]] by a mandragora is [[drained|drained 1]] until it receives healing of any kind or amount."
   - name: "Mandragora Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 1 (1d6) poison damage, [[confused|confused]], and [[stupefied|stupefied 1]] (1 round) __Stage 3__ 1 (2d6) poison damage, [[confused|confused]], and [[stupefied|stupefied 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[stupefied|stupefied 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage, [[confused|confused]], and [[stupefied|stupefied 1]] (1 round) __Stage 3__ 2d6 (2d6) poison damage, [[confused|confused]], and [[stupefied|stupefied 1]] (1 round)"
   - name: "Piercing Shriek"
     desc: "⬻ ([[auditory]], [[evocation]], [[mental]], [[primal]]);  Frequency once per day; The mandragora emits an unsettling shriek. Each non-mandragora creature within 30 feet must attempt a DC 25 Will save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[sickened|sickened 1]].\n__Failure__ The creature is [[sickened|sickened 2]].\n__Critical Failure__ The creature is [[sickened|sickened 2]] and [[slowed|slowed 1]]. As long as the creature remains [[sickened|sickened]], this [[slowed|slowed]] condition value can't be reduced below 1."
 
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +14 ([[finesse]]); __Damage__ 1 (2d8+4) piercing plus Grab"
+    desc: "⬻ jaws +14 ([[finesse]]); __Damage__ 2d8+4 (2d8+4) piercing plus Grab"
   - name: Melee
-    desc: "⬻ thorny vine +14 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d4+4) slashing plus mandragora venom"
+    desc: "⬻ thorny vine +14 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d4+4 (2d4+4) slashing plus mandragora venom"
 
 sourcebook: "_Bestiary 2_, page 170."
 ```

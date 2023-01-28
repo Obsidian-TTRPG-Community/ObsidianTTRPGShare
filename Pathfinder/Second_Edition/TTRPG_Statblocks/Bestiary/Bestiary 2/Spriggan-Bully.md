@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Bully's Bludgeon"
     desc: "⬻  The spriggan bully makes a morningstar [[Strike]] with a +2 circumstance bonus to its attack roll. This attack is nonlethal."
   - name: "Sneak Attack"
-    desc: "  The spriggan bully's [[Strike|Strikes]] deal an additional 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spriggan bully's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 20 feet
 
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ morningstar +10 ([[versatile|versatile p]]); __Damage__ 1 (1d6+6) bludgeoning"
+    desc: "⬻ morningstar +10 ([[versatile|versatile p]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +11 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8) piercing"
+    desc: "⬻ crossbow +11 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

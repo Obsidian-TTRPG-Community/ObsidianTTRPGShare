@@ -37,14 +37,14 @@ abilityMods: [10, 6, 9, -3, 6, 1]
 
 abilities_mid:
   - name: "Maddening Cacophony"
-    desc: " ([[auditory]], [[aura]], [[incapacitation]], [[mental]]);  60 feet. A shoggoth constantly voices syllables and mutterings that mortals were not meant to hear. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Will save or become [[confused|confused]] for 1 round (1 (2d4) rounds on a critical failure). A creature that successfully saves is temporarily immune for 24 hours."
+    desc: " ([[auditory]], [[aura]], [[incapacitation]], [[mental]]);  60 feet. A shoggoth constantly voices syllables and mutterings that mortals were not meant to hear. A creature entering the aura or starting its turn in the aura must succeed at a DC 38 Will save or become [[confused|confused]] for 1 round (2d4 (2d4) rounds on a critical failure). A creature that successfully saves is temporarily immune for 24 hours."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (2d10+15) bludgeoning."
+    desc: "⬻  2d10+15 (2d10+15) bludgeoning."
   - name: "Eat Away"
-    desc: "  A creature that begins its turn inside the shoggoth takes 1 (9d6) acid damage."
+    desc: "  A creature that begins its turn inside the shoggoth takes 9d6 (9d6) acid damage."
   - name: "Engulf"
-    desc: "⬺  DC 40, 1 (6d6) acid, [[Escape]] DC 40, Rupture 40."
+    desc: "⬺  DC 40, 6d6 (6d6) acid, [[Escape]] DC 40, Rupture 40."
 
 speed: 40 feet, climb 25 feet, swim 50 feet
 
@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +35 ([[magical]], [[reach|reach 30 feet]]); __Damage__ 1 (4d10+18) bludgeoning plus Grab"
+    desc: "⬻ pseudopod +35 ([[magical]], [[reach|reach 30 feet]]); __Damage__ 4d10+18 (4d10+18) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 293."
 ```

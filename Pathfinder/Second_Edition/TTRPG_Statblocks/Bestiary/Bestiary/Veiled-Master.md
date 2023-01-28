@@ -65,11 +65,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +30 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+12) slashing plus slime"
+    desc: "⬻ claw +30 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+12 (3d10+12) slashing plus slime"
   - name: Melee
-    desc: "⬻ fangs +28 ([[agile]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (3d8+12) piercing plus slime and consume memories"
+    desc: "⬻ fangs +28 ([[agile]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 3d8+12 (3d8+12) piercing plus slime and consume memories"
   - name: Melee
-    desc: "⬻ tentacle +28 ([[agile]], [[electricity]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (7d6) electricity plus thoughtlance"
+    desc: "⬻ tentacle +28 ([[agile]], [[electricity]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 7d6 (7d6) electricity plus thoughtlance"
 
 spellcasting:
   - name: "Occult Innate Spells"

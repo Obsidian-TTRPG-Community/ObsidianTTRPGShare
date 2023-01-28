@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +18 ([[chaotic]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (1d8+10) slashing plus 1 (1d6) chaotic and 1 (1d6) good"
+    desc: "⬻ longsword +18 ([[chaotic]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d8+10 (1d8+10) slashing plus 1d6 (1d6) chaotic and 1d6 (1d6) good"
   - name: Melee
-    desc: "⬻ tail +18 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+10) bludgeoning plus 1 (1d6) chaotic, 1 (1d6) good, and Grab"
+    desc: "⬻ tail +18 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning plus 1d6 (1d6) chaotic, 1d6 (1d6) good, and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"

@@ -38,12 +38,12 @@ abilities_mid:
   - name: "Heliotrope"
     desc: "⭓ ([[aura]], [[evocation]], [[light]], [[primal]]); __Requirements__ The sunflower leshy begins its turn in an area of bright light  __Effect__  The sunflower leshy reflects the sun or another source of bright light from their face. Each creature that ends its turn in a 20-foot emanation must attempt a DC 16 Will save.\n__Success__ The creature is unaffected and is temporarily immune to heliotrope for 24 hours.\n__Failure__ The creature is distracted by the light, becoming [[flat-footed|flat-footed]] for 1 round.\n__Critical Failure__ As failure, but the creature is also [[dazzled|dazzled]] for 1 round."
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  When a sunflower leshy dies, a burst of primal energy explodes from its body, restoring 1 (1d8) Hit Points to each plant creature in a 30-foot emanation. This area immediately fills with sunflowers, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for these sunflowers, they wither after 24 hours."
+    desc: " ([[healing]]);  When a sunflower leshy dies, a burst of primal energy explodes from its body, restoring 1d8 (1d8) Hit Points to each plant creature in a 30-foot emanation. This area immediately fills with sunflowers, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for these sunflowers, they wither after 24 hours."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  The sunflower leshy transforms into a Small flower. This ability otherwise uses the effects of tree shape."
   - name: "Seed Spray"
-    desc: "⬺ ([[conjuration]], [[primal]]);  The sunflower leshy launches a deluge of seeds from their head in a 15-foot cone, dealing 1 (2d6) bludgeoning damage to creatures within the area (DC 16 basic Reflex save). It gains a +2 status bonus to this damage against [[dazzled|dazzled]] creatures. The sunflower leshy can't use Seed Spray again for 1 (1d4) rounds."
+    desc: "⬺ ([[conjuration]], [[primal]]);  The sunflower leshy launches a deluge of seeds from their head in a 15-foot cone, dealing 2d6 (2d6) bludgeoning damage to creatures within the area (DC 16 basic Reflex save). It gains a +2 status bonus to this damage against [[dazzled|dazzled]] creatures. The sunflower leshy can't use Seed Spray again for 1d4 (1d4) rounds."
 
 speed: 25 feet
 
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +6 ([[agile]], [[finesse]]); __Damage__ 1 (1d8) bludgeoning"
+    desc: "⬻ tendril +6 ([[agile]], [[finesse]]); __Damage__ 1d8 (1d8) bludgeoning"
   - name: Ranged
-    desc: "⬻ seed +6 ([[range increment|range increment 20 feet]]); __Damage__ 1 (1d6) bludgeoning"
+    desc: "⬻ seed +6 ([[range increment|range increment 20 feet]]); __Damage__ 1d6 (1d6) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

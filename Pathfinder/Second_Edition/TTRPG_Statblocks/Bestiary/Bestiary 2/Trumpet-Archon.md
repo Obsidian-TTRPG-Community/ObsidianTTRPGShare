@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bastard sword +29 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d12+13) slashing plus 1 (2d6) sonic and 1 (1d6) good"
+    desc: "⬻ bastard sword +29 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 2d12+13 (2d12+13) slashing plus 2d6 (2d6) sonic and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

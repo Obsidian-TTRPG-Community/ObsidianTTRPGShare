@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +16 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+8) piercing plus lunar naga venom"
+    desc: "⬻ fangs +16 ([[agile]], [[finesse]]); __Damage__ 2d6+8 (2d6+8) piercing plus lunar naga venom"
 
 spellcasting:
   - name: "Primal Spontaneous Spells"

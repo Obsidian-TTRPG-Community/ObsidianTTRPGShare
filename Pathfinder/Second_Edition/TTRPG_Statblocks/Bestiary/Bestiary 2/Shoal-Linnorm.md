@@ -42,9 +42,9 @@ abilities_mid:
     desc: "⬲  Tail only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]], [[water]]);  The shoal linnorm exhales scalding steam that deals 1 (12d8) fire damage in a 60-foot cone (DC 36 basic Reflex save). The steam lingers until the end of the linnorm's next turn; anyone who enters the area or begins their turn in the area takes 1 (6d8) fire damage (DC 36 Reflex save negates) During this time, the steam is so thick that it impedes movement as well as sight, turning the area into [[terrain|difficult terrain]]. All creatures in the steam become [[concealed|concealed]], and all creatures outside the steam become [[concealed|concealed]] to creatures within it. The shoal linnorm can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]], [[water]]);  The shoal linnorm exhales scalding steam that deals 12d8 (12d8) fire damage in a 60-foot cone (DC 36 basic Reflex save). The steam lingers until the end of the linnorm's next turn; anyone who enters the area or begins their turn in the area takes 6d8 (6d8) fire damage (DC 36 Reflex save negates) During this time, the steam is so thick that it impedes movement as well as sight, turning the area into [[terrain|difficult terrain]]. All creatures in the steam become [[concealed|concealed]], and all creatures outside the steam become [[concealed|concealed]] to creatures within it. The shoal linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Shoal Linnorm Venom"
-    desc: " ([[fire]], [[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1 (4d6) fire damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (6d6) fire damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[fire]], [[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 4d6 (4d6) fire damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 6d6 (6d6) fire damage and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 35 feet, fly 100 feet, swim 100 feet; freedom of movement;
 
@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +31 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d12+16) piercing plus shoal linnorm venom"
+    desc: "⬻ jaws +31 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d12+16 (3d12+16) piercing plus shoal linnorm venom"
   - name: Melee
-    desc: "⬻ claw +31 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+16) slashing"
+    desc: "⬻ claw +31 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+16 (3d8+16) slashing"
   - name: Melee
-    desc: "⬻ tail +31 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (4d6+16) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tail +31 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d6+16 (4d6+16) bludgeoning plus [[Improved Grab]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

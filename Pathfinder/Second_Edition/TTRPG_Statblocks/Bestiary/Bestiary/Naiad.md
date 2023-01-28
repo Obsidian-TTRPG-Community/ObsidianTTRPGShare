@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aqueous fist +8 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 1 (1d6) bludgeoning"
+    desc: "⬻ aqueous fist +8 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 1d6 (1d6) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

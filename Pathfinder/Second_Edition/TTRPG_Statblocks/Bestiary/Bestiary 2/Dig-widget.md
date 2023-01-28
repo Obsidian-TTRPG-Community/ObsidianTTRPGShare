@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Fastening Leap"
     desc: "⬻  The dig-widget Leaps up 20 feet onto a creature or object and attempts a corkscrew [[Strike]] against it. If the [[Strike]] damages the target, the dig-widget attaches to the target (typically to the back of a creature). This is similar to Grabbing the creature, but the dig-widget moves with that creature rather than holding it in place. While attached, the dig-widget can't use its corkscrew. The dig-widget can be Shoved off, or it can detach itself with an [[Interact]] action."
   - name: "Sneak Attack"
-    desc: "  A dig-widget's [[Strike|Strikes]] deal an additional 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A dig-widget's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 30 feet, burrow 15 feet
 
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ drill +14 ([[fatal|fatal d10]], [[finesse]]); __Damage__ 1 (2d6+4) piercing plus 1 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ drill +14 ([[fatal|fatal d10]], [[finesse]]); __Damage__ 2d6+4 (2d6+4) piercing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
   - name: Melee
-    desc: "⬻ corkscrew +14 ([[finesse]]); __Damage__ 1 (2d8+4) piercing"
+    desc: "⬻ corkscrew +14 ([[finesse]]); __Damage__ 2d8+4 (2d8+4) piercing"
 
 sourcebook: "_Bestiary 2_, page 79."
 ```

@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Eerie Flexibility"
     desc: "  An ogre spider can fit through tight spaces as if it were a Large creature. While [[Squeeze|Squeezing]], it can move at its full speed."
   - name: "Ogre Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage, [[clumsy|clumsy 1]], and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1 (2d6) poison damage, [[clumsy|clumsy 1]], and [[enfeebled|enfeebled 1]] (1 round) __Stage 4__ 1 (2d6) poison damage, [[clumsy|clumsy 2]], and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage, [[clumsy|clumsy 1]], and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 2d6 (2d6) poison damage, [[clumsy|clumsy 1]], and [[enfeebled|enfeebled 1]] (1 round) __Stage 4__ 2d6 (2d6) poison damage, [[clumsy|clumsy 2]], and [[enfeebled|enfeebled 2]] (1 round)"
   - name: "Web Trap"
     desc: "  A creature hit by the ogre spider's web attack is [[immobilized|immobilized]] and stuck to the nearest surface until it [[Escape|Escapes]] (DC 22)."
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +15 __Damage__ 1 (2d8+8) plus ogre spider venom"
+    desc: "⬻ bite +15 __Damage__ 2d8+8 (2d8+8) plus ogre spider venom"
   - name: Ranged
     desc: "⬻ web +13 ([[range increment|range increment 30 feet]]); __Damage__ web trap"
 

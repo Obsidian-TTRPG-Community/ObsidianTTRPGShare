@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Amnesia Venom"
     desc: " ([[mental]], [[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[flat-footed|flat-footed]] (1 round) __Stage 2__ [[flat-footed|flat-footed]] and [[clumsy|clumsy 1]] (1 round) __Stage 3__ [[confused|confused]], [[flat-footed|flat-footed]], and [[clumsy|clumsy 2]]. (1 round)"
   - name: "Constrict"
-    desc: "⬻  1 (2d6+2) bludgeoning."
+    desc: "⬻  2d6+2 (2d6+2) bludgeoning."
   - name: "Root"
     desc: "⬻ ([[concentrate]]);  Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on [[Deception]] checks and DCs to pass as a non-creature plant."
 
@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vine +21 ([[acid]], [[agile]]); __Damage__ 1 (3d6+8) bludgeoning plus 1 (3d6) acid and Grab"
+    desc: "⬻ vine +21 ([[acid]], [[agile]]); __Damage__ 3d6+8 (3d6+8) bludgeoning plus 3d6 (3d6) acid and Grab"
   - name: Ranged
-    desc: "⬻ acid glob +23 ([[acid]], [[range|range 30 feet]]); __Damage__ 1 (4d8) acid plus amnesia venom"
+    desc: "⬻ acid glob +23 ([[acid]], [[range|range 30 feet]]); __Damage__ 4d8 (4d8) acid plus amnesia venom"
 
 sourcebook: "_Bestiary_, page 94."
 ```

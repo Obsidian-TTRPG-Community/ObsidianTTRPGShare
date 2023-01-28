@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d6+3) piercing plus Grab"
+    desc: "⬻ jaws +8 __Damage__ 1d6+3 (1d6+3) piercing plus Grab"
   - name: Melee
     desc: "⬻ tongue +8 ([[reach|reach 15 feet]]); __Damage__ tongue grab"
 

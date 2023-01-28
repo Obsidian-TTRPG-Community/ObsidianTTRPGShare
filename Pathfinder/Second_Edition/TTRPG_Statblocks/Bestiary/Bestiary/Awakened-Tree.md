@@ -50,9 +50,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ branch +16 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+6) bludgeoning"
+    desc: "⬻ branch +16 ([[reach|reach 15 feet]]); __Damage__ 2d8+6 (2d8+6) bludgeoning"
   - name: Melee
-    desc: "⬻ root +16 ([[trip]]); __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ root +16 ([[trip]]); __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 sourcebook: "_Bestiary_, page 25."
 ```

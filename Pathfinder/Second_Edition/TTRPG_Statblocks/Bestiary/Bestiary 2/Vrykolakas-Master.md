@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +23 __Damage__ 1 (2d12+13) piercing plus"
+    desc: "⬻ fangs +23 __Damage__ 2d12+13 (2d12+13) piercing plus"
 
 sourcebook: "_Bestiary 2_, page 276."
 ```

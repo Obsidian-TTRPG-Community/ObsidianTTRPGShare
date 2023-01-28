@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The Nessian warhound is critically hit by any [[Strike]]. __Effect__  The Nessian warhound's Breath Weapon recharges. It can immediately use it as part of this reaction."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬻ ([[divine]], [[evocation]], [[fire]]);  The warhound breathes flames that deal 1 (10d6) fire damage to all creatures in a 15-foot cone (DC 28 basic Reflex save.) The warhound can't use Breath Weapon again for 1 (1d4) rounds. If the Nessian warhound would take fire damage or be targeted by a [[fire]] effect, its Breath Weapon recharges."
+    desc: "⬻ ([[divine]], [[evocation]], [[fire]]);  The warhound breathes flames that deal 10d6 (10d6) fire damage to all creatures in a 15-foot cone (DC 28 basic Reflex save.) The warhound can't use Breath Weapon again for 1d4 (1d4) rounds. If the Nessian warhound would take fire damage or be targeted by a [[fire]] effect, its Breath Weapon recharges."
 
 speed: 40 feet
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[magical]]); __Damage__ 1 (2d8+6) piercing plus 1 (1d6) evil and 1 (2d6) fire"
+    desc: "⬻ jaws +21 ([[magical]]); __Damage__ 2d8+6 (2d8+6) piercing plus 1d6 (1d6) evil and 2d6 (2d6) fire"
 
 sourcebook: "_Bestiary_, page 205."
 ```

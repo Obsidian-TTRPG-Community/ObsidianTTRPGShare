@@ -39,14 +39,14 @@ abilities_top:
     desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Dragon Heat"
-    desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  5 feet, 1 (3d6) fire damage (DC 30 basic Reflex)"
+    desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  5 feet, 3d6 (3d6) fire damage (DC 30 basic Reflex)"
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 33."
   - name: "Attack of Opportunity"
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 1 (15d6) fire damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 15d6 (15d6) fire damage in a 50-foot cone (DC 36 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -65,13 +65,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +29 ([[fire]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d12+15) piercing plus 1 (2d6) fire"
+    desc: "⬻ jaws +29 ([[fire]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d12+15 (3d12+15) piercing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ claw +29 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+15) slashing"
+    desc: "⬻ claw +29 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+15 (3d10+15) slashing"
   - name: Melee
-    desc: "⬻ tail +27 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d12+13) slashing"
+    desc: "⬻ tail +27 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d12+13 (3d12+13) slashing"
   - name: Melee
-    desc: "⬻ wing +27 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d10+13) slashing"
+    desc: "⬻ wing +27 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d10+13 (2d10+13) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ torch +7 ([[fire]]); __Damage__ 1 (1d4) bludgeoning plus 1 fire"
+    desc: "⬻ torch +7 ([[fire]]); __Damage__ 1d4 (1d4) bludgeoning plus 1 fire"
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"

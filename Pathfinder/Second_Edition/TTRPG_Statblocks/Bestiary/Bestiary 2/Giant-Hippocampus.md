@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 1 (2d6+10) bludgeoning"
+    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 142."
 ```

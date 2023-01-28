@@ -52,9 +52,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 __Damage__ 1 (2d6+3) piercing"
+    desc: "⬻ jaws +9 __Damage__ 2d6+3 (2d6+3) piercing"
   - name: Melee
-    desc: "⬻ talon +9 ([[agile]]); __Damage__ 1 (1d6+3) slashing plus 1 (1d4) bleed"
+    desc: "⬻ talon +9 ([[agile]]); __Damage__ 1d6+3 (1d6+3) slashing plus 1d4 (1d4) bleed"
 
 sourcebook: "_Bestiary_, page 97."
 ```

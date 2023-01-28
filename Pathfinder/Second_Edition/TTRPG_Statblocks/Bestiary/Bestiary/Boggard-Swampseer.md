@@ -42,9 +42,9 @@ abilities_top:
     desc: "staff;"
 abilities_bot:
   - name: "Destructive Croak"
-    desc: "⬺ ([[sonic]]);  The swampseer utters a powerful croak that deals 1 (4d6) sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [[frightened|frightened]] condition takes additional sonic damage equal to twice the value of their [[frightened|frightened]] condition. The boggard can't use."
+    desc: "⬺ ([[sonic]]);  The swampseer utters a powerful croak that deals 4d6 (4d6) sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [[frightened|frightened]] condition takes additional sonic damage equal to twice the value of their [[frightened|frightened]] condition. The boggard can't use."
   - name: "Destructive"
-    desc: "  Croak again for 1 (1d4) rounds."
+    desc: "  Croak again for 1d4 (1d4) rounds."
   - name: "Drowning Drone"
     desc: "⬲ ([[auditory]], [[mental]]); __Trigger__ The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an [[auditory]] or [[sonic]] effect. __Effect__  The swampseer releases a croak that drowns out other sound. It rolls a [[Performance]] check. It and boggard allies in the area can use the higher result of the swampseer's [[Performance]] check or their saves to resolve the effects against the [[auditory]] or [[sonic]] effect."
   - name: "Swamp Stride"
@@ -69,7 +69,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ staff +10 ([[two-hand|two-hand d8]]); __Damage__ 1 (1d4+6) bludgeoning"
+    desc: "⬻ staff +10 ([[two-hand|two-hand d8]]); __Damage__ 1d4+6 (1d4+6) bludgeoning"
   - name: Melee
     desc: "⬻ tongue +10 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
 

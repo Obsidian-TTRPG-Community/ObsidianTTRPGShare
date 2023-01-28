@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hand +24 ([[finesse]], [[magical]]); __Damage__ 1 (4d8) negative plus paralyzing touch"
+    desc: "⬻ hand +24 ([[finesse]], [[magical]]); __Damage__ 4d8 (4d8) negative plus paralyzing touch"
 
 spellcasting:
   - name: "Arcane Prepared Spells"

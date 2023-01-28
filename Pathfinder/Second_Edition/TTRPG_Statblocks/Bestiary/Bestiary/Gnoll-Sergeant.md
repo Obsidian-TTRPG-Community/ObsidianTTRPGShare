@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Bark Orders"
     desc: "⬻ ([[auditory]], [[linguistic]]);  The gnoll sergeant commands its allies to reposition. Any allies who hear and understand this order can use a reaction to [[Step]]."
   - name: "Pack Attack"
-    desc: "  A gnoll hunter deals 1 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
+    desc: "  A gnoll hunter deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
   - name: "Rugged Travel"
     desc: "  A gnoll ignores the first square of [[terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
 
@@ -61,11 +61,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +14 ([[forceful]], [[sweep]]); __Damage__ 1 (1d6+7) slashing"
+    desc: "⬻ scimitar +14 ([[forceful]], [[sweep]]); __Damage__ 1d6+7 (1d6+7) slashing"
   - name: Melee
-    desc: "⬻ jaws +14 ([[agile]]); __Damage__ 1 (1d6+7) piercing"
+    desc: "⬻ jaws +14 ([[agile]]); __Damage__ 1d6+7 (1d6+7) piercing"
   - name: Ranged
-    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 179."
 ```

@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 __Damage__ 1 (1d6+3) piercing plus goblin pox"
+    desc: "⬻ jaws +9 __Damage__ 1d6+3 (1d6+3) piercing plus goblin pox"
 
 sourcebook: "_Bestiary_, page 182."
 ```

@@ -35,7 +35,7 @@ abilityMods: [0, 3, 1, -4, 3, 0]
 
 abilities_bot:
   - name: "Blue-Ringed Octopus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d4) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage (1 round) __Stage 3__ 1 (1d6) poison damage and [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage (1 round) __Stage 3__ 1d6 (1d6) poison damage and [[paralyzed|paralyzed]] (1 round)"
   - name: "Camouflage"
     desc: "  The blue-ringed octopus can change the color of its skin to [[Hide]] even if it doesn't have cover."
   - name: "Jet"
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +7 ([[finesse]]); __Damage__ 1 (1d6) piercing plus blue-ringed octopus venom"
+    desc: "⬻ beak +7 ([[finesse]]); __Damage__ 1d6 (1d6) piercing plus blue-ringed octopus venom"
   - name: Melee
     desc: "⬻ arms +6 __Damage__ Grab"
 

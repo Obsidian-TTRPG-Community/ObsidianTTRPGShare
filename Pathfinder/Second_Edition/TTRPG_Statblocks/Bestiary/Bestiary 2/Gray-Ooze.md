@@ -40,7 +40,7 @@ abilities_top:
     desc: "⬲ __Requirements__ Initiative has not yet been rolled __Trigger__ A creature enters a space occupied by a gray ooze __Effect__  The gray ooze automatically notices the creature, then makes a pseudopod [[Strike]] against one creature adjacent to itself before rolling initiative."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6) bludgeoning plus 1 (1d6) acid, DC 21."
+    desc: "⬻  1d6 (1d6) bludgeoning plus 1d6 (1d6) acid, DC 21."
   - name: "Gray Ooze Acid"
     desc: "  A gray ooze's acid damages only metal and organic materials, not stone."
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +13 ([[agile]]); __Damage__ 1 (1d6+5) bludgeoning plus 1 (1d6) acid and Grab"
+    desc: "⬻ pseudopod +13 ([[agile]]); __Damage__ 1d6+5 (1d6+5) bludgeoning plus 1d6 (1d6) acid and Grab"
 
 sourcebook: "_Bestiary 2_, page 194."
 ```

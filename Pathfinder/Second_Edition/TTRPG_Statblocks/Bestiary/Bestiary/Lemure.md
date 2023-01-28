@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +7 ([[evil]], [[magical]]); __Damage__ 1 (1d4+2) slashing plus 1 evil"
+    desc: "⬻ claw +7 ([[evil]], [[magical]]); __Damage__ 1d4+2 (1d4+2) slashing plus 1 evil"
 
 sourcebook: "_Bestiary_, page 86."
 ```

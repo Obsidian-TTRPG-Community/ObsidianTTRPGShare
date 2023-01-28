@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +8 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]], [[fire]], [[magical]]); __Damage__ 1 (1d6-3) piercing plus 1 fire"
+    desc: "⬻ rapier +8 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]], [[fire]], [[magical]]); __Damage__ 1d6-3 (1d6-3) piercing plus 1 fire"
   - name: Ranged
-    desc: "⬻ luminous spark +8 ([[fire]], [[light]], [[range|range 20 feet]]); __Damage__ 1 (1d4) fire"
+    desc: "⬻ luminous spark +8 ([[fire]], [[light]], [[range|range 20 feet]]); __Damage__ 1d4 (1d4) fire"
 
 spellcasting:
   - name: "Primal Innate Spells"

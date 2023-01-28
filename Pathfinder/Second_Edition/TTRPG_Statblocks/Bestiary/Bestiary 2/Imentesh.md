@@ -44,11 +44,11 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The imentesh takes the appearance of any Large or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]], but might change the damage type its [[Strike|Strikes]] deal."
   - name: "Constrict"
-    desc: "⬻  1 (1d10+11) bludgeoning, DC 29."
+    desc: "⬻  1d10+11 (1d10+11) bludgeoning, DC 29."
   - name: "Inflict Warpwave"
     desc: "⬻ ([[divine]], [[transmutation]]);  An imentesh inflicts a warpwave on a creature within 100 feet (page 204; (DC 29 Fortitude save to resist)."
   - name: "Sneak Attack"
-    desc: "  An imentesh's [[Strike|Strikes]] deal an additional 1 (2d6) precision damage to [[flat-footed|flat-footed]] targets."
+    desc: "  An imentesh's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] targets."
   - name: "Warpwave Strike"
     desc: " ([[divine]], [[transmutation]]);  Any creature struck and damaged by an imentesh's jaws [[Strike]] must succeed at a DC 29 Fortitude save or be subject to a warpwave (page 204)."
 
@@ -65,11 +65,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+11) piercing plus 1 (1d6) chaotic and warpwave strike"
+    desc: "⬻ jaws +23 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+11 (2d10+11) piercing plus 1d6 (1d6) chaotic and warpwave strike"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+11) slashing plus 1 (1d6) chaotic"
+    desc: "⬻ claw +23 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+11 (2d6+11) slashing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ tail +23 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d10+11) bludgeoning plus 1 (1d6) chaotic and Grab"
+    desc: "⬻ tail +23 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d10+11 (2d10+11) bludgeoning plus 1d6 (1d6) chaotic and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"

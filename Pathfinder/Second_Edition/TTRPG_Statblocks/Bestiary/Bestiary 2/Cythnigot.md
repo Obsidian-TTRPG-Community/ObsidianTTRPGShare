@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +8 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (1d10+1) piercing plus 1 (1d4) chaotic and tangle spores"
+    desc: "⬻ bite +8 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 1d10+1 (1d10+1) piercing plus 1d4 (1d4) chaotic and tangle spores"
 
 spellcasting:
   - name: "Occult Innate Spells"

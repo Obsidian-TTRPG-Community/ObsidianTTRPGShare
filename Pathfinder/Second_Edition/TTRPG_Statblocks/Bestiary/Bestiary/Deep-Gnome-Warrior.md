@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +10 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +10 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ heavy crossbow +8 ([[range increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1 (1d10) piercing"
+    desc: "⬻ heavy crossbow +8 ([[range increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1d10 (1d10) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

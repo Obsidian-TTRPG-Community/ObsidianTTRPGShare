@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +8 ([[agile]]); __Damage__ 1 (1d8+3) bludgeoning"
+    desc: "⬻ tail +8 ([[agile]]); __Damage__ 1d8+3 (1d8+3) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 226."
 ```

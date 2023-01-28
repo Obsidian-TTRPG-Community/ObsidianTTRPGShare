@@ -39,7 +39,7 @@ abilities_top:
     desc: " ([[abjuration]], [[primal]]);  The leshy can store an item of light Bulk or less in its head, concealing it as nondetection. If stored for 24 hours, the item benefits from mending."
 abilities_mid:
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  As leaf leshy, except plants regain 1 (1d8) Hit Points and the area sprouts gourds instead of tree saplings."
+    desc: " ([[healing]]);  As leaf leshy, except plants regain 1d8 (1d8) Hit Points and the area sprouts gourds instead of tree saplings."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As leaf leshy, except the gourd leshy transforms into a gourd-bearing plant."
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+2) bludgeoning plus ensnare"
+    desc: "⬻ fist +7 ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) bludgeoning plus ensnare"
   - name: Ranged
-    desc: "⬻ seed +9 ([[range increment|range increment 30 feet]]); __Damage__ 1 (1d6+2) bludgeoning plus ensnare"
+    desc: "⬻ seed +9 ([[range increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus ensnare"
 
 spellcasting:
   - name: "Primal Innate Spells"

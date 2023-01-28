@@ -36,7 +36,7 @@ abilityMods: [-2, 4, 1, 1, 3, 3]
 
 abilities_bot:
   - name: "Starlight Blast"
-    desc: "⬺ ([[chaotic]], [[good]], [[light]]);  The lyrakien unleashes a blast of holy starlight in a 5-foot burst centered on itself. Creatures in the area take 1 (1d6) chaotic damage and 1 (1d6) good damage (DC 17 basic Reflex save). The lyrakien can't use Starlight Blast or its starlight ray ranged attack for 1 (1d4) rounds."
+    desc: "⬺ ([[chaotic]], [[good]], [[light]]);  The lyrakien unleashes a blast of holy starlight in a 5-foot burst centered on itself. Creatures in the area take 1d6 (1d6) chaotic damage and 1d6 (1d6) good damage (DC 17 basic Reflex save). The lyrakien can't use Starlight Blast or its starlight ray ranged attack for 1d4 (1d4) rounds."
 
 speed: 25 feet, fly 50 feet
 
@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +9 ([[agile]], [[chaotic]], [[finesse]], [[good]], [[magical]]); __Damage__ 1 (1d4) –2 bludgeoning plus 1 chaotic and 1 good"
+    desc: "⬻ fist +9 ([[agile]], [[chaotic]], [[finesse]], [[good]], [[magical]]); __Damage__ 1d4 (1d4) –2 bludgeoning plus 1 chaotic and 1 good"
   - name: Ranged
-    desc: "⬻ starlight ray +9 ([[chaotic]], [[good]], [[light]], [[range|range 10 feet]]); __Damage__ 1 (1d4) chaotic and 1 (1d4) good"
+    desc: "⬻ starlight ray +9 ([[chaotic]], [[good]], [[light]], [[range|range 10 feet]]); __Damage__ 1d4 (1d4) chaotic and 1d4 (1d4) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

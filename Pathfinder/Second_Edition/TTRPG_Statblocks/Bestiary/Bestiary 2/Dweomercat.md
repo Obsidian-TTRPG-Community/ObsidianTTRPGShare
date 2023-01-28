@@ -46,7 +46,7 @@ abilities_mid:
   - name: "Enchantment"
     desc: "  The dweomercat gains a +1 status bonus to all saves."
   - name: "Evocation"
-    desc: "  Magical feedback deals 1 (4d6) force damage to the triggering spellcaster (DC 22 basic Reflex save)."
+    desc: "  Magical feedback deals 4d6 (4d6) force damage to the triggering spellcaster (DC 22 basic Reflex save)."
   - name: "Illusion"
     desc: "  The dweomercat becomes [[invisible|invisible]]. This effect ends if the dweomercat uses a [[hostile|hostile]] action, in addition to the normal end conditions."
   - name: "Necromancy"
@@ -72,9 +72,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 ([[magical]]); __Damage__ 1 (2d10+7) piercing plus Grab"
+    desc: "⬻ jaws +17 ([[magical]]); __Damage__ 2d10+7 (2d10+7) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]], [[magical]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +17 ([[agile]], [[magical]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

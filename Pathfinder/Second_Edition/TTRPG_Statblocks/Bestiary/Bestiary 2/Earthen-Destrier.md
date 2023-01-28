@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ lance arm +14 ([[deadly|deadly d8]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) piercing and lancing charge"
+    desc: "⬻ lance arm +14 ([[deadly|deadly d8]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) piercing and lancing charge"
   - name: Melee
-    desc: "⬻ hoof +14 __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ hoof +14 __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 108."
 ```

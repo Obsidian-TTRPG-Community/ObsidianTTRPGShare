@@ -64,9 +64,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ holy greatsword +44 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (4d12+22) slashing plus 1 (2d6) good"
+    desc: "⬻ holy greatsword +44 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 4d12+22 (4d12+22) slashing plus 2d6 (2d6) good"
   - name: Ranged
-    desc: "⬻ holy longbow +40 ([[deadly|deadly d10]], [[good]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1 (4d8+17) piercing plus 1 (2d6) good and arrow of mortality"
+    desc: "⬻ holy longbow +40 ([[deadly|deadly d10]], [[good]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 4d8+17 (4d8+17) piercing plus 2d6 (2d6) good and arrow of mortality"
 
 sourcebook: "_Bestiary 2_, page 16."
 ```

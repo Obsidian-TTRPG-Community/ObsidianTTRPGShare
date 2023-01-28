@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The giant maggot takes damage __Effect__  The giant maggot regurgitates its rancid, foul meal. All creatures in a 5-foot emanation must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure). The giant maggot can't use Regurgitation again until it spends at least an hour feeding on a corpse."
 abilities_bot:
   - name: "Gnaw Flesh"
-    desc: "⬻ __Requirements__ The giant maggot has [[Grabbed|Grabbed]] a creature  __Effect__  The giant maggot deals 1 (1d8+2) slashing damage to the [[grabbed|grabbed]] creature as it chews the creature's flesh (DC 19 basic Reflex save)."
+    desc: "⬻ __Requirements__ The giant maggot has [[Grabbed|Grabbed]] a creature  __Effect__  The giant maggot deals 1d8+2 (1d8+2) slashing damage to the [[grabbed|grabbed]] creature as it chews the creature's flesh (DC 19 basic Reflex save)."
 
 speed: 10 feet
 
@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +6 __Damage__ 1 (1d8+2) piercing plus Grab"
+    desc: "⬻ mandibles +6 __Damage__ 1d8+2 (1d8+2) piercing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 120."
 ```

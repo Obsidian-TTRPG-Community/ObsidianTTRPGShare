@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ falchion +20 ([[forceful +1]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d10+12) slashing"
+    desc: "⬻ falchion +20 ([[forceful +1]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d10+12 (1d10+12) slashing"
   - name: Melee
-    desc: "⬻ fist +19 ([[agile]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1 (1d4+12) bludgeoning plus Push 10 feet and shove into stone"
+    desc: "⬻ fist +19 ([[agile]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1d4+12 (1d4+12) bludgeoning plus Push 10 feet and shove into stone"
 
 spellcasting:
   - name: "Arcane Innate Spells"

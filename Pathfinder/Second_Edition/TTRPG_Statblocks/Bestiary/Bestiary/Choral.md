@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +14 ([[agile]], [[finesse]], [[good]], [[magical]]); __Damage__ 1 (3d6+1) bludgeoning plus 1 (1d6) good"
+    desc: "⬻ fist +14 ([[agile]], [[finesse]], [[good]], [[magical]]); __Damage__ 3d6+1 (3d6+1) bludgeoning plus 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ piercing hymn +17 ([[good]], [[magical]], [[range|range 90 feet]], [[sonic]]); __Damage__ 1 (4d6) sonic damage plus 1 (1d6) good and deafening aria"
+    desc: "⬻ piercing hymn +17 ([[good]], [[magical]], [[range|range 90 feet]], [[sonic]]); __Damage__ 4d6 (4d6) sonic damage plus 1d6 (1d6) good and deafening aria"
 
 spellcasting:
   - name: "Divine Innate Spells"

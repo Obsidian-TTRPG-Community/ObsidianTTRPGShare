@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Enfeebling Humors"
     desc: " ([[necromancy]], [[occult]]);  A creature damaged by a hag's claw must succeed at a DC 20 Fortitude save or be [[enfeebled|enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[enfeebled|enfeebled 2]] for 1 day."
   - name: "Exhale Miasma"
-    desc: "⬺ ([[necromancy]], [[occult]]);  The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1 (1d4) rounds."
+    desc: "⬺ ([[necromancy]], [[occult]]);  The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1d4 (1d4) rounds."
 
 speed: 25 feet, swim 25 feet
 
@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]], [[magical]]); __Damage__ 1 (1d10+5) slashing plus enfeebling humors"
+    desc: "⬻ claw +14 ([[agile]], [[magical]]); __Damage__ 1d10+5 (1d10+5) slashing plus enfeebling humors"
 
 spellcasting:
   - name: "Occult Innate Spells"

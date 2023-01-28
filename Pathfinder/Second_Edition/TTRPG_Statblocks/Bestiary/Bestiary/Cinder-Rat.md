@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1 (1d8+4) fire plus 1 (1d4) [[persistent damage|persistent fire]]"
+    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+4 (1d8+4) fire plus 1d4 (1d4) [[persistent damage|persistent fire]]"
 
 sourcebook: "_Bestiary_, page 148."
 ```

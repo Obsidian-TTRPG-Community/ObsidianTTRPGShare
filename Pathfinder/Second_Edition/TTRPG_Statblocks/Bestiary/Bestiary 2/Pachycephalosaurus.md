@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ skull +11 ([[forceful]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+6) bludgeoning"
+    desc: "⬻ skull +11 ([[forceful]], [[reach|reach 10 feet]]); __Damage__ 1d10+6 (1d10+6) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 81."
 ```

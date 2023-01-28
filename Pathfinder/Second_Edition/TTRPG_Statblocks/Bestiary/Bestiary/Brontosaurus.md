@@ -52,9 +52,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +23 ([[sweep]], [[reach|reach 20 feet]]); __Damage__ 1 (2d10+13) bludgeoning plus Improved Knockdown"
+    desc: "⬻ tail +23 ([[sweep]], [[reach|reach 20 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning plus Improved Knockdown"
   - name: Melee
-    desc: "⬻ foot +23 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+13) bludgeoning"
+    desc: "⬻ foot +23 ([[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) bludgeoning"
 
 sourcebook: "_Bestiary_, page 100."
 ```

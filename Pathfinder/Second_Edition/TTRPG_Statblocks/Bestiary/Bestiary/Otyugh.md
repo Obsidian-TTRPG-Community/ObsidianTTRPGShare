@@ -38,11 +38,11 @@ abilities_mid:
     desc: " ([[aura]], [[olfactory]]);  40 feet. A creature entering the aura must succeed at a DC 20 Fortitude save or be [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for the same duration on a critical failure). On a success, the creature is temporarily immune to the [[sickened|sickened]] and [[slowed|slowed]] effects of this stench for 1 hour. Regardless of the save, while within the aura, creatures take a –2 circumstance penalty to saves against diseases. An otyugh's stench is due to the offal and refuse that it wallows in, so cleaning the creature thoroughly (with create water and sufficient scrubbing, for example) deactivates the aura, while a sufficiently plugged nose allows an individual to avoid exposure to the stench."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6+6) bludgeoning, DC 22."
+    desc: "⬻  1d6+6 (1d6+6) bludgeoning, DC 22."
   - name: "Reposition"
     desc: "⬻  The otyugh attempts to move all creatures that it has [[grabbed|grabbed]] into other spaces within the reach of its tentacles, rolling a single [[Athletics]] check and comparing the result against each creature's Fortitude DC. On a failure, the creature remains in place, and on a critical failure, the creature is no longer [[grabbed|grabbed]]."
   - name: "Filth Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 20 Fortitude. __Stage 1__ carrier with no ill effect (1 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] as long as it remains [[sickened|sickened]] (1 day) __Stage 4__ [[unconscious|unconscious]] ; (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 20 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] as long as it remains [[sickened|sickened]] (1 day) __Stage 4__ [[unconscious|unconscious]] ; (1 day)"
 
 speed: 20 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (2d6+6) piercing plus filth fever"
+    desc: "⬻ jaws +14 __Damage__ 2d6+6 (2d6+6) piercing plus filth fever"
   - name: Melee
-    desc: "⬻ tentacle +14 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d6+6) bludgeoning plus Grab"
+    desc: "⬻ tentacle +14 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 258."
 ```

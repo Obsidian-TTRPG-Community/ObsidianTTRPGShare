@@ -34,7 +34,7 @@ abilityMods: [1, 2, 2, -4, 1, -1]
 
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  The dog's [[Strike|Strikes]] deal 1 (1d4) extra damage to creatures within the reach of at least two of the dog's allies."
+    desc: "  The dog's [[Strike|Strikes]] deal 1d4 (1d4) extra damage to creatures within the reach of at least two of the dog's allies."
 
 speed: 30 feet
 
@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +6 __Damage__ 1 (1d4+1) piercing"
+    desc: "⬻ jaws +6 __Damage__ 1d4+1 (1d4+1) piercing"
 
 sourcebook: "_Bestiary_, page 102."
 ```

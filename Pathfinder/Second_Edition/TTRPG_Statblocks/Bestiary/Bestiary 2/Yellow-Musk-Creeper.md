@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tendril +9 ([[reach|reach 10 feet]]); __Damage__ 1 (1d10+3) piercing"
+    desc: "⬻ tendril +9 ([[reach|reach 10 feet]]); __Damage__ 1d10+3 (1d10+3) piercing"
 
 sourcebook: "_Bestiary 2_, page 300."
 ```

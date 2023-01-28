@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +17 ([[deadly|deadly 1d8]], [[forceful]], [[reach]]); __Damage__ 1 (1d8+10) slashing"
+    desc: "⬻ glaive +17 ([[deadly|deadly 1d8]], [[forceful]], [[reach]]); __Damage__ 1d8+10 (1d8+10) slashing"
   - name: Ranged
-    desc: "⬻ composite shortbow +15 ([[brutal]], [[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ composite shortbow +15 ([[brutal]], [[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+8 (1d6+8) piercing"
 
 sourcebook: "_Bestiary_, page 207."
 ```

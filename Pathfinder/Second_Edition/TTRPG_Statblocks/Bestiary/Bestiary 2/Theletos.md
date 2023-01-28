@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Fate Drain"
     desc: " ([[curse]], [[divine]], [[mental]]);  A creature damaged by the theletos's tentacle must succeed at a DC 22 Will save or become [[stupefied|stupefied 1]]. As long as the creature is [[stupefied|stupefied]], it can no longer benefit from [[fortune]] effects. If the target fails additional saves against this ability, the condition value increases by 1 (to a maximum of [[stupefied|stupefied 4]]). This condition value decreases by 1 every 24 hours."
   - name: "Wrath of Fate"
-    desc: "⬺ ([[curse]], [[divine]], [[mental]], [[misfortune]]);  The theletos releases a 60-foot cone of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will save or be [[slowed|slowed 1]] indefinitely. An affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer [[slowed|slowed]] after that roll. The theletos can't use Wrath of Fate again for 1 (1d4) rounds."
+    desc: "⬺ ([[curse]], [[divine]], [[mental]], [[misfortune]]);  The theletos releases a 60-foot cone of energy from its center. Creatures in the cone become overwhelmed with the knowledge of various fates that destiny has in store for them and lack of clear pathways to these potential futures. They must succeed at a DC 26 Will save or be [[slowed|slowed 1]] indefinitely. An affected creature can choose to roll twice when it attempts an attack, saving throw, or skill check and take the lower result. Regardless of the outcome, that creature is no longer [[slowed|slowed]] after that roll. The theletos can't use Wrath of Fate again for 1d4 (1d4) rounds."
 
 speed: 25 feet, fly 25 feet
 
@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +17 ([[lawful]], [[magical]]); __Damage__ 1 (2d10+4) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ fist +17 ([[lawful]], [[magical]]); __Damage__ 2d10+4 (2d10+4) bludgeoning plus 1d6 (1d6) lawful"
   - name: Melee
-    desc: "⬻ tentacle +17 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1 (2d8+4) slashing plus 1 (1d6) lawful and fate drain"
+    desc: "⬻ tentacle +17 ([[agile]], [[lawful]], [[magical]]); __Damage__ 2d8+4 (2d8+4) slashing plus 1d6 (1d6) lawful and fate drain"
 
 spellcasting:
   - name: "Divine Innate Spells"

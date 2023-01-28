@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature touches the web lurker's web while the web lurker is on it. __Effect__  Requirement Initiative has not yet been rolled. The web lurker automatically notices the creature and [[Stride|Strides]] or Climbs before rolling initiative."
 abilities_bot:
   - name: "Web Lurker Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1 (1d6) poison and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1 (1d6) poison, [[flat-footed|flat-footed]], and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[flat-footed|flat-footed]], and [[slowed|slowed 1]] (1 round)"
   - name: "Web Trap"
     desc: "  A creature hit by the web lurker's web attack is [[immobilized|immobilized]] and stuck to the nearest surface until it succeeds at DC 20 [[Acrobatics]] check to [[Escape]]."
   - name: "Web Lurker Traps"
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +11 ([[poison]]); __Damage__ 1 (1d8+6) piercing plus web lurker venom"
+    desc: "⬻ fangs +11 ([[poison]]); __Damage__ 1d8+6 (1d8+6) piercing plus web lurker venom"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d8+6) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d8+6 (1d8+6) slashing"
   - name: Melee
     desc: "⬻ web +11 __Damage__ web trap"
 

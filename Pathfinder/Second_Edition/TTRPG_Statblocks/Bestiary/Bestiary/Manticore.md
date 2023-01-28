@@ -50,11 +50,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 __Damage__ 1 (2d8+8) piercing"
+    desc: "⬻ jaws +17 __Damage__ 2d8+8 (2d8+8) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Ranged
-    desc: "⬻ spike +14 ([[range increment|range increment 40 feet]]); __Damage__ 1 (1d10+5) piercing"
+    desc: "⬻ spike +14 ([[range increment|range increment 40 feet]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Bestiary_, page 232."
 ```

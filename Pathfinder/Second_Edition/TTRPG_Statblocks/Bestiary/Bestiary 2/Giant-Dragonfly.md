@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +14 __Damage__ 1 (1d12+7) piercing plus Grab"
+    desc: "⬻ mandibles +14 __Damage__ 1d12+7 (1d12+7) piercing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 98."
 ```

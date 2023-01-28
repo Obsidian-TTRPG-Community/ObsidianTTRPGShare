@@ -34,7 +34,7 @@ abilityMods: [2, 4, 3, -5, 2, -4]
 
 abilities_bot:
   - name: "Cave Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d4) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1 (1d8) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 30 feet, climb 15 feet
 
@@ -49,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pincer +9 ([[agile]], [[finesse]]); __Damage__ 1 (1d8+2) slashing plus Grab"
+    desc: "⬻ pincer +9 ([[agile]], [[finesse]]); __Damage__ 1d8+2 (1d8+2) slashing plus Grab"
   - name: Melee
-    desc: "⬻ stinger +9 ([[finesse]]); __Damage__ 1 (1d6+2) piercing plus cave scorpion venom"
+    desc: "⬻ stinger +9 ([[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing plus cave scorpion venom"
 
 sourcebook: "_Bestiary 2_, page 234."
 ```

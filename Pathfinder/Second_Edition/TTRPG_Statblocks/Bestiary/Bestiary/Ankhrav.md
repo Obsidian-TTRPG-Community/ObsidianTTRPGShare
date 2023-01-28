@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Armor-Rending Bite"
     desc: "⬺  The ankhrav makes a mandibles [[Strike]]; if the [[Strike]] hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
   - name: "Spray Acid"
-    desc: "⬺ ([[acid]]); __Frequency__ once per hour  __Effect__  The ankhrav spews acid in a 30-foot cone, dealing 1 (3d6) acid damage and 1 (1d6) [[persistent damage|persistent acid damage]] (DC 20 basic Reflex save)."
+    desc: "⬺ ([[acid]]); __Frequency__ once per hour  __Effect__  The ankhrav spews acid in a 30-foot cone, dealing 3d6 (3d6) acid damage and 1d6 (1d6) [[persistent damage|persistent acid damage]] (DC 20 basic Reflex save)."
 
 speed: 25 feet, burrow 20 feet
 
@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +13 ([[acid]]); __Damage__ 1 (1d8+4) piercing plus 1 (1d6) acid"
+    desc: "⬻ mandibles +13 ([[acid]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d6 (1d6) acid"
   - name: Ranged
-    desc: "⬻ acid spit +10 ([[acid]], [[range|range 30 feet]]); __Damage__ 1 (3d6) acid"
+    desc: "⬻ acid spit +10 ([[acid]], [[range|range 30 feet]]); __Damage__ 3d6 (3d6) acid"
 
 sourcebook: "_Bestiary_, page 22."
 ```

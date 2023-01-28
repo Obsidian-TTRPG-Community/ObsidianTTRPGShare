@@ -40,7 +40,7 @@ abilities_top:
     desc: "  A gelatinous cube is so clear that it's difficult to spot. A successful DC 23 [[Perception]] check is required to notice a stationary cube, and a creature must be [[Search|Searching]] to attempt this check. A creature that walks into the cube is automatically Engulfed (this usually causes the GM to call for initiative)."
 abilities_bot:
   - name: "Engulf"
-    desc: "⬺  DC 19, 1 (2d6) acid, [[Escape]] DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis."
+    desc: "⬺  DC 19, 2d6 (2d6) acid, [[Escape]] DC 19, Rupture 7. A creature Engulfed by the gelatinous cube must also attempt a saving throw against paralysis."
   - name: "Paralysis"
     desc: " ([[incapacitation]]);  A creature Engulfed by the cube or hit by its attack is [[paralyzed|paralyzed]] unless it succeeds at a DC 20 Fortitude save. A victim can attempt a new save to recover at the end of each of its turns."
   - name: "Weak Acid"
@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ cube face +11 __Damage__ 1 (1d6) acid plus paralysis"
+    desc: "⬻ cube face +11 __Damage__ 1d6 (1d6) acid plus paralysis"
 
 sourcebook: "_Bestiary_, page 254."
 ```

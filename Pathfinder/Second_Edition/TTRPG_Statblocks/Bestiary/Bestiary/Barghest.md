@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 __Damage__ 1 (2d8+5) piercing"
+    desc: "⬻ jaws +13 __Damage__ 2d8+5 (2d8+5) piercing"
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]]); __Damage__ 1 (2d6+5) slashing"
+    desc: "⬻ claw +13 ([[agile]]); __Damage__ 2d6+5 (2d6+5) slashing"
 
 spellcasting:
   - name: "Divine Innate Spells"

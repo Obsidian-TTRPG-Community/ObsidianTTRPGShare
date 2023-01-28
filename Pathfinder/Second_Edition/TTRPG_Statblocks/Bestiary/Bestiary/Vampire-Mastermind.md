@@ -45,7 +45,7 @@ abilities_mid:
     desc: "⭓ "
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  Giant bat with fangs +19 for 1 (2d8+9) piercing."
+    desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  Giant bat with fangs +19 for 2d8+9 (2d8+9) piercing."
   - name: "Create Spawn"
     desc: " ([[divine]], [[downtime]], [[necromancy]]); "
   - name: "Dominate"
@@ -72,7 +72,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]]); __Damage__ 1 (2d8+9) slashing plus Grab"
+    desc: "⬻ claw +18 ([[agile]]); __Damage__ 2d8+9 (2d8+9) slashing plus Grab"
 
 spellcasting:
   - name: "Arcane Prepared Spells"

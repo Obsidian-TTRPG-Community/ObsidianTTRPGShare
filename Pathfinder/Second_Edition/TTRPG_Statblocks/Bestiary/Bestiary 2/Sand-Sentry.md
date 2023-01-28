@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +17 __Damage__ 1 (2d8+8) bludgeoning plus blinding sand"
+    desc: "⬻ fist +17 __Damage__ 2d8+8 (2d8+8) bludgeoning plus blinding sand"
 
 sourcebook: "_Bestiary 2_, page 109."
 ```

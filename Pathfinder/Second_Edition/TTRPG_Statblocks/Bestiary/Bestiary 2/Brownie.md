@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6)"
+    desc: "⬻ shortsword +7 ([[agile]], [[finesse]]); __Damage__ 1d6 (1d6)"
 
 spellcasting:
   - name: "Primal Innate Spells"

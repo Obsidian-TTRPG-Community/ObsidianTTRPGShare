@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Drain Life"
     desc: " ([[divine]], [[necromancy]]);  When the wraith damages a living creature with its spectral hand [[Strike]], the wraith gains 5 temporary Hit Points and the creature must succeed at a DC 23 Fortitude save or become [[drained|drained 1]]. Further damage dealt by the wraith increases the amount of drain by 1 on a failed save to a maximum of [[drained|drained 4]]."
   - name: "Wraith Spawn"
-    desc: " ([[divine]], [[necromancy]]);  A living humanoid slain by a wraith's spectral hand [[Strike]] rises as a wraith spawn after 1 (1d4) rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[clumsy|clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer [[clumsy|clumsy]]."
+    desc: " ([[divine]], [[necromancy]]);  A living humanoid slain by a wraith's spectral hand [[Strike]] rises as a wraith spawn after 1d4 (1d4) rounds. This wraith spawn is under the command of the wraith that killed it. It doesn't have drain life or wraith spawn and becomes [[clumsy|clumsy 2]] for as long as it is a wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will, gains Wraith Spawn, and is no longer [[clumsy|clumsy]]."
 
 speed: fly 40 feet
 
@@ -62,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spectral hand +17 ([[finesse]]); __Damage__ 1 (2d8+5) negative plus drain life"
+    desc: "⬻ spectral hand +17 ([[finesse]]); __Damage__ 2d8+5 (2d8+5) negative plus drain life"
 
 sourcebook: "_Bestiary_, page 335."
 ```

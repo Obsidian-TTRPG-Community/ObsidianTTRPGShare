@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Agile Swimmer"
     desc: "  Fire jellyfish swarms use [[Acrobatics]] to [[Swim]]."
   - name: "Burning Swarm"
-    desc: "⬻ ([[poison]]);  Each enemy in the swarm's space takes 1 (3d8) poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom."
+    desc: "⬻ ([[poison]]);  Each enemy in the swarm's space takes 3d8 (3d8) poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom."
   - name: "Fire Jelly Venom"
     desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 1]] (1 round) __Stage 2__ [[clumsy|clumsy 2]] (1 round) __Stage 3__ [[clumsy|clumsy 3]] (1 round)"
 

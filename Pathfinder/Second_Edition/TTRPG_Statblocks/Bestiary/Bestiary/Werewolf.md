@@ -47,13 +47,13 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +11 for 1 (1d4+8) bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +11 for 1d4+8 (1d4+8) bludgeoning, or wolf with Speed 40 feet and jaws with Knockdown."
   - name: "Curse of the Werewolf"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  __Saving Throw__ 19 Fortitude."
   - name: "Moon Frenzy"
-    desc: " ([[polymorph]], [[primal]], [[transmutation]]);  When a full moon appears in the night sky, the werewolf must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werewolf returns to humanoid form and is fatigued for 1 (2d4) hours."
+    desc: " ([[polymorph]], [[primal]], [[transmutation]]);  When a full moon appears in the night sky, the werewolf must enter hybrid form, can't Change Shape thereafter, becomes one size larger, increases its reach by 5 feet, and increases the damage of its jaws by 2. When the moon sets or the sun rises, the werewolf returns to humanoid form and is fatigued for 2d4 (2d4) hours."
   - name: "Pack Attack"
-    desc: "  The werewolf's [[Strike|Strikes]] deal 1 (1d6) extra damage to creatures within reach of at least two of the werewolf's allies."
+    desc: "  The werewolf's [[Strike|Strikes]] deal 1d6 (1d6) extra damage to creatures within reach of at least two of the werewolf's allies."
 
 speed: 25 feet
 
@@ -68,13 +68,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ battle axe +11 ([[sweep]]); __Damage__ 1 (1d8+8) slashing"
+    desc: "⬻ battle axe +11 ([[sweep]]); __Damage__ 1d8+8 (1d8+8) slashing"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d6+8) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d6+8 (1d6+8) slashing"
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d8+8) piercing plus curse of the werewolf"
+    desc: "⬻ jaws +11 __Damage__ 1d8+8 (1d8+8) piercing plus curse of the werewolf"
   - name: Ranged
-    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ composite shortbow +9 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 330."
 ```

@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d10+6) piercing plus Knockdown"
+    desc: "⬻ jaws +11 __Damage__ 1d10+6 (1d10+6) piercing plus Knockdown"
 
 sourcebook: "_Bestiary_, page 146."
 ```

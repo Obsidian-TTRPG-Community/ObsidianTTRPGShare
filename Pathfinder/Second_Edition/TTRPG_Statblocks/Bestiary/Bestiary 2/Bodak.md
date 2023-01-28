@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +18 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+6) bludgeoning plus 1 (1d6) negative"
+    desc: "⬻ fist +18 ([[agile]], [[finesse]]); __Damage__ 2d6+6 (2d6+6) bludgeoning plus 1d6 (1d6) negative"
 
 sourcebook: "_Bestiary 2_, page 42."
 ```

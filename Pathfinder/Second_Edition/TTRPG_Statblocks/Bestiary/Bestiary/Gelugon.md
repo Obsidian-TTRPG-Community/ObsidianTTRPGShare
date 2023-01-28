@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ frost longspear +28 ([[cold]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+12) piercing plus 1 (1d6) cold, 1 (1d6) evil, and slowing frost"
+    desc: "⬻ frost longspear +28 ([[cold]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+12 (2d8+12) piercing plus 1d6 (1d6) cold, 1d6 (1d6) evil, and slowing frost"
   - name: Melee
-    desc: "⬻ tail +25 ([[agile]], [[cold]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+12) bludgeoning plus 1 (2d6) cold, 1 (1d6) evil, and slowing frost"
+    desc: "⬻ tail +25 ([[agile]], [[cold]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus 2d6 (2d6) cold, 1d6 (1d6) evil, and slowing frost"
   - name: Ranged
-    desc: "⬻ frost longspear +27 ([[cold]], [[magical]], [[thrown|thrown 20 feet]]); __Damage__ 1 (2d8+12) piercing plus 1 (1d6) cold"
+    desc: "⬻ frost longspear +27 ([[cold]], [[magical]], [[thrown|thrown 20 feet]]); __Damage__ 2d8+12 (2d8+12) piercing plus 1d6 (1d6) cold"
 
 spellcasting:
   - name: "Divine Innate Spells"

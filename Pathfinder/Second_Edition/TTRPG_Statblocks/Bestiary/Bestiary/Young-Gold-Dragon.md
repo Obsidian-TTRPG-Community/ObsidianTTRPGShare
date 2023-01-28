@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 30-foot cone that deals 1 (11d6) fire damage (DC 31 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save or become [[enfeebled|enfeebled 1]] for 1 minute (or [[enfeebled|enfeebled 2]] on a critical failure).</li></ul>"
+    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 30-foot cone that deals 11d6 (11d6) fire damage (DC 31 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save or become [[enfeebled|enfeebled 1]] for 1 minute (or [[enfeebled|enfeebled 2]] on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The gold dragon makes two claw [[Strike|Strikes]] and one horns [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -60,13 +60,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +24 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+12) piercing plus 1 (2d6) fire"
+    desc: "⬻ jaws +24 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ claw +24 ([[agile]]); __Damage__ 1 (2d10+12) slashing"
+    desc: "⬻ claw +24 ([[agile]]); __Damage__ 2d10+12 (2d10+12) slashing"
   - name: Melee
-    desc: "⬻ tail +22 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+10) slashing"
+    desc: "⬻ tail +22 ([[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) slashing"
   - name: Melee
-    desc: "⬻ horns +22 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d12+10) piercing"
+    desc: "⬻ horns +22 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d12+10 (1d12+10) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

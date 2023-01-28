@@ -49,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +6 ([[finesse]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ beak +6 ([[finesse]]); __Damage__ 1d6 (1d6) piercing"
   - name: Melee
-    desc: "⬻ talon +6 ([[agile]], [[finesse]]); __Damage__ 1 (1d4) slashing"
+    desc: "⬻ talon +6 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) slashing"
 
 sourcebook: "_Bestiary_, page 141."
 ```

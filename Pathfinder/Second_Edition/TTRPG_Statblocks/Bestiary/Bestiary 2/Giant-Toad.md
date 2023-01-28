@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Giant Toad Poison"
     desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[stupefied|stupefied 1]] (1 round) __Stage 2__ [[stupefied|stupefied 1]] and [[confused|confused]] (1 round)"
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Medium, 1 (1d8+2) bludgeoning, Rupture 8."
+    desc: "⬻ ([[attack]]);  Medium, 1d8+2 (1d8+2) bludgeoning, Rupture 8."
   - name: "Tongue Grab"
     desc: "  A creature hit by the giant toad's tongue becomes [[grabbed|grabbed]] by the giant toad. The creature isn't [[immobilized|immobilized]], but it can't move beyond the reach of the toad's tongue. A creature can sever the tongue with a successful [[Strike]] against AC 15 that deals at least 6 slashing damage. This deals no damage to the toad but prevents it from using its tongue [[Strike]] until it regrows its tongue, which takes a week."
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +11 __Damage__ 1 (1d8+5) piercing plus Grab"
+    desc: "⬻ bite +11 __Damage__ 1d8+5 (1d8+5) piercing plus Grab"
   - name: Melee
     desc: "⬻ tongue +11 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
 

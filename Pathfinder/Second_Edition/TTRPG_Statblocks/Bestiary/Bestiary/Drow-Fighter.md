@@ -47,7 +47,7 @@ abilities_bot:
   - name: "Quick Draw"
     desc: "⬻  The drow fighter draws a weapon using the [[Interact]] action, then [[Strike|Strikes]] with that weapon."
   - name: "Skewer"
-    desc: "⬺  The drow fighter [[Strike|Strikes]] with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1 (1d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬺  The drow fighter [[Strike|Strikes]] with its rapier, and gains a +1 circumstance bonus to the attack roll. A creature damaged by the attack takes 1d6 (1d6) [[persistent damage|persistent bleed damage]]."
 
 speed: 30 feet
 
@@ -62,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Melee
-    desc: "⬻ main-gauche +9 ([[agile]], [[disarm]], [[finesse]], [[parry]], [[versatile|versatile s]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ main-gauche +9 ([[agile]], [[disarm]], [[finesse]], [[parry]], [[versatile|versatile s]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6+1) piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6+1 (1d6+1) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Divine Innate Spells"

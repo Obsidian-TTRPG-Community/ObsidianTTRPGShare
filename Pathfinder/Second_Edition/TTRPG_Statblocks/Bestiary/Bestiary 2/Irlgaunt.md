@@ -36,7 +36,7 @@ abilityMods: [7, 8, 5, 4, 5, 4]
 
 abilities_bot:
   - name: "Regurgitate Gastrolith"
-    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The irlgaunt violently regurgitates a melonsized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 1 (7d6) piercing damage and 1 (7d6) acid damage to creatures in a 20-foot burst (DC 33 basic Reflex save). The irlgaunt can't Regurgitate Gastroliths for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The irlgaunt violently regurgitates a melonsized clot of brittle stone supernaturally infused with digestive enzymes. The stone and acid explode on impact within a range of 30 feet, dealing 7d6 (7d6) piercing damage and 7d6 (7d6) acid damage to creatures in a 20-foot burst (DC 33 basic Reflex save). The irlgaunt can't Regurgitate Gastroliths for 1d4 (1d4) rounds."
   - name: "Stone Step"
     desc: "  The irlgaunt ignores [[terrain|difficult terrain]] composed of rocks and stone."
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +26 __Damage__ 1 (3d8+13) piercing plus 1 (2d6) acid"
+    desc: "⬻ jaws +26 __Damage__ 3d8+13 (3d8+13) piercing plus 2d6 (2d6) acid"
   - name: Melee
-    desc: "⬻ legs +26 ([[agile]]); __Damage__ 1 (3d10+13) bludgeoning"
+    desc: "⬻ legs +26 ([[agile]]); __Damage__ 3d10+13 (3d10+13) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

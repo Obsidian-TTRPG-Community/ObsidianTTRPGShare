@@ -57,11 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +8 ([[sweep]]); __Damage__ 1 (1d12+3) slashing"
+    desc: "⬻ greataxe +8 ([[sweep]]); __Damage__ 1d12+3 (1d12+3) slashing"
   - name: Melee
-    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
   - name: Ranged
-    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
 
 sourcebook: "_Bestiary_, page 54."
 ```

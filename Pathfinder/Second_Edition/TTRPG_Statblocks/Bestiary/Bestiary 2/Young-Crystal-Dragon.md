@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using __Effect__  The dragon makes a tail [[Strike]] at the creature with a –2 penalty. If it hits, the dragon disrupts the creature's action."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[primal]]);  The dragon breathes a flurry of piercing crystals that deal 1 (8d6) piercing damage in a 30-foot cone (DC 25 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[primal]]);  The dragon breathes a flurry of piercing crystals that deal 8d6 (8d6) piercing damage in a 30-foot cone (DC 25 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[sonic]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+8) slashing plus 1 (2d6) piercing"
+    desc: "⬻ jaws +18 ([[sonic]], [[reach|reach 10 feet]]); __Damage__ 2d8+8 (2d8+8) slashing plus 2d6 (2d6) piercing"
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +18 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Melee
-    desc: "⬻ tail +16 ([[reach|reach 15 feet]]); __Damage__ 1 (1d10+8) slashing"
+    desc: "⬻ tail +16 ([[reach|reach 15 feet]]); __Damage__ 1d10+8 (1d10+8) slashing"
 
 spellcasting:
   - name: "Primal Innate Spells"

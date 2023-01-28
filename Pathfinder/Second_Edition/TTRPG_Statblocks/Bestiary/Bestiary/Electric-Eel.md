@@ -50,9 +50,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +6 __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ jaws +6 __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Melee
-    desc: "⬻ tail +6 ([[agile]]); __Damage__ 1 (1d4+1) bludgeoning plus 1 (1d4) electricity and stunning shock"
+    desc: "⬻ tail +6 ([[agile]]); __Damage__ 1d4+1 (1d4+1) bludgeoning plus 1d4 (1d4) electricity and stunning shock"
 
 sourcebook: "_Bestiary_, page 142."
 ```

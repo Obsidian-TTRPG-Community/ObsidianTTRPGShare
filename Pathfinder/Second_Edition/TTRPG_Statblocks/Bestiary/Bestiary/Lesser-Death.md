@@ -65,7 +65,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ keen scythe +32 ([[agile]], [[deadly|deadly 2d10]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (3d10+14) slashing plus 1 (1d12) negative"
+    desc: "⬻ keen scythe +32 ([[agile]], [[deadly|deadly 2d10]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d10+14 (3d10+14) slashing plus 1d12 (1d12) negative"
 
 spellcasting:
   - name: "Divine Innate Spells"

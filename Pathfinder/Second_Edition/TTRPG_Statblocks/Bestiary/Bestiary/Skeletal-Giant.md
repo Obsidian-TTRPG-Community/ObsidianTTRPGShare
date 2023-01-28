@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +12 ([[deadly|deadly d8]], [[forceful]], [[reach|reach 15 feet]]); __Damage__ 1 (1d8+7) slashing"
+    desc: "⬻ glaive +12 ([[deadly|deadly d8]], [[forceful]], [[reach|reach 15 feet]]); __Damage__ 1d8+7 (1d8+7) slashing"
   - name: Melee
-    desc: "⬻ horns +12 ([[agile]]); __Damage__ 1 (1d10+5) piercing"
+    desc: "⬻ horns +12 ([[agile]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Bestiary_, page 299."
 ```

@@ -42,9 +42,9 @@ abilities_top:
     desc: "staff;"
 abilities_bot:
   - name: "Illusory Retreat"
-    desc: "⬽ ([[arcane]], [[illusion]], [[manipulate]], [[move]]); __Requirements__ The kobold dragon mage is adjacent to at least one enemy. __Frequency__ once per hour  __Effect__  The dragon mage creates an illusion of itself in its square and then becomes [[invisible|invisible]] (with the effects of a 2nd-level [[invisibility]] spell) for 1 (1d4) rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies. This is a 1st-level spell that requires a somatic component."
+    desc: "⬽ ([[arcane]], [[illusion]], [[manipulate]], [[move]]); __Requirements__ The kobold dragon mage is adjacent to at least one enemy. __Frequency__ once per hour  __Effect__  The dragon mage creates an illusion of itself in its square and then becomes [[invisible|invisible]] (with the effects of a 2nd-level [[invisibility]] spell) for 1d4 (1d4) rounds. The dragon mage can move up to half its Speed, but it must end its movement in a space that's not adjacent to any enemies. This is a 1st-level spell that requires a somatic component."
   - name: "Sneak Attack"
-    desc: "  The dragon mage deals an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The dragon mage deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6-1) slashing"
+    desc: "⬻ claw +7 ([[agile]], [[finesse]]); __Damage__ 1d6-1 (1d6-1) slashing"
   - name: Melee
-    desc: "⬻ staff +3 ([[two-hand|two-hand d8]]); __Damage__ 1 (1d4-1) bludgeoning"
+    desc: "⬻ staff +3 ([[two-hand|two-hand d8]]); __Damage__ 1d4-1 (1d4-1) bludgeoning"
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"

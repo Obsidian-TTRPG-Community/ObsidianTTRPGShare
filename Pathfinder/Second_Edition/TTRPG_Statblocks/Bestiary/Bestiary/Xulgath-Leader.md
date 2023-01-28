@@ -57,13 +57,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +11 ([[sweep]]); __Damage__ 1 (1d10+6) slashing plus Weakening [[Strike]]"
+    desc: "⬻ greataxe +11 ([[sweep]]); __Damage__ 1d10+6 (1d10+6) slashing plus Weakening [[Strike]]"
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d6+6) piercing plus Weakening [[Strike]]"
+    desc: "⬻ jaws +11 __Damage__ 1d6+6 (1d6+6) piercing plus Weakening [[Strike]]"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d4+6) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d4+6 (1d4+6) slashing"
   - name: Ranged
-    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 337."
 ```

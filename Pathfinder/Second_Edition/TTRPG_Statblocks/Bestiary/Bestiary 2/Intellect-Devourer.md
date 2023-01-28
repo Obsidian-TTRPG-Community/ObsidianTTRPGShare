@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ talon +18 ([[agile]], [[finesse]]); __Damage__ 1 (2d10+5) slashing"
+    desc: "⬻ talon +18 ([[agile]], [[finesse]]); __Damage__ 2d10+5 (2d10+5) slashing"
 
 spellcasting:
   - name: "Occult Innate Spells"

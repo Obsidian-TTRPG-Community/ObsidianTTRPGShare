@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+6) slashing and 1 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 2d6+6 (2d6+6) slashing and 1d6 (1d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

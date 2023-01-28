@@ -43,7 +43,7 @@ abilities_top:
     desc: "+1 striking longspear;"
 abilities_bot:
   - name: "Breath Weapon"
-    desc: " ([[evocation]], [[fire]], [[occult]]);  The jyoti breathes a blast of searing flame infused with positive energy in a 40-foot cone that deals 1 (8d6) fire damage plus 1 (4d6) positive damage to creatures in the area (DC 28 basic Reflex save) The jyoti can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: " ([[evocation]], [[fire]], [[occult]]);  The jyoti breathes a blast of searing flame infused with positive energy in a 40-foot cone that deals 8d6 (8d6) fire damage plus 4d6 (4d6) positive damage to creatures in the area (DC 28 basic Reflex save) The jyoti can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Infuse Weapons"
     desc: " ([[occult]], [[evocation]]);  Any weapon a jyoti wields becomes a flaming ghost touch weapon while the jyoti holds it."
 
@@ -60,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flaming ghost touch longspear +20 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) piercing plus 1 (1d6) fire"
+    desc: "⬻ flaming ghost touch longspear +20 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) piercing plus 1d6 (1d6) fire"
   - name: Melee
-    desc: "⬻ beak +21 ([[finesse]]); __Damage__ 1 (2d12+6) piercing plus 1 (1d6) fire"
+    desc: "⬻ beak +21 ([[finesse]]); __Damage__ 2d12+6 (2d12+6) piercing plus 1d6 (1d6) fire"
   - name: Melee
-    desc: "⬻ talon +21 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+6) slashing plus 1 (1d6) fire"
+    desc: "⬻ talon +21 ([[agile]], [[finesse]]); __Damage__ 2d8+6 (2d8+6) slashing plus 1d6 (1d6) fire"
 
 spellcasting:
   - name: "Occult Innate Spells"

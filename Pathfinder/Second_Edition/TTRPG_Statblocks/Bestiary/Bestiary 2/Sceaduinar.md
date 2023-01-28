@@ -39,7 +39,7 @@ abilities_mid:
   - name: "Void Child"
     desc: "  Sceaduinars have neither souls nor the ability to create. A sceaduinar is immune to effects that target a soul (such as bind soul or resurrect) or that require knowledge of a creature's identity (such as scrying), and critically fails [[Crafting]] checks."
   - name: "Wing Flash"
-    desc: "⬲ __Trigger__ A creature attempts a melee attack against a sceaduinar or an __Effect__  [[Acrobatics]] check to [[Tumble Through]] the sceaduinar's space; The sceaduinar flexes its wings to emit a brief pulse of negative energy that deals 1 (4d6) negative damage to the triggering creature (DC 22 basic Reflex save)."
+    desc: "⬲ __Trigger__ A creature attempts a melee attack against a sceaduinar or an __Effect__  [[Acrobatics]] check to [[Tumble Through]] the sceaduinar's space; The sceaduinar flexes its wings to emit a brief pulse of negative energy that deals 4d6 (4d6) negative damage to the triggering creature (DC 22 basic Reflex save)."
 abilities_bot:
   - name: "Drain Life"
     desc: " ([[necromancy]], [[occult]]);  When the sceaduinar damages a living creature with its jaws [[Strike]], the sceaduinar gains 5 temporary Hit Points and the creature must succeed at a DC 25 Fortitude save or become [[drained|drained 1]]. Further damage dealt to the creature by the sceaduinar increases the [[drained|drained]] value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d6+4) piercing plus 1 (2d6) negative and drain life"
+    desc: "⬻ jaws +18 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d6+4 (2d6+4) piercing plus 2d6 (2d6) negative and drain life"
   - name: Melee
-    desc: "⬻ wing +18 ([[agile]], [[finesse]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+4) slashing plus 1 (2d6) negative"
+    desc: "⬻ wing +18 ([[agile]], [[finesse]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+4 (2d6+4) slashing plus 2d6 (2d6) negative"
 
 spellcasting:
   - name: "Occult Innate Spells"

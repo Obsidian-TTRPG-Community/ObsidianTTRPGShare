@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 __Damage__ 1 (2d10+10) piercing"
+    desc: "⬻ jaws +21 __Damage__ 2d10+10 (2d10+10) piercing"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]]); __Damage__ 1 (2d8+10) slashing"
+    desc: "⬻ claw +21 ([[agile]]); __Damage__ 2d8+10 (2d8+10) slashing"
 
 sourcebook: "_Bestiary_, page 48."
 ```

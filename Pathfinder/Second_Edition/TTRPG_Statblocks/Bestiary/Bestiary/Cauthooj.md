@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +26 ([[agile]], [[deadly|deadly 1d12]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+12) piercing"
+    desc: "⬻ beak +26 ([[agile]], [[deadly|deadly 1d12]], [[reach|reach 10 feet]]); __Damage__ 2d12+12 (2d12+12) piercing"
 
 sourcebook: "_Bestiary_, page 55."
 ```

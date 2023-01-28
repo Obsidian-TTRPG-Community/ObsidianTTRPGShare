@@ -36,7 +36,7 @@ abilityMods: [2, 4, 1, 1, 0, 1]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The tengu deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The tengu deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[flat-footed|flat-footed]] to the tengu."
 abilities_top:
@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +10 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ rapier +10 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Melee
-    desc: "⬻ beak +10 ([[finesse]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ beak +10 ([[finesse]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 310."
 ```

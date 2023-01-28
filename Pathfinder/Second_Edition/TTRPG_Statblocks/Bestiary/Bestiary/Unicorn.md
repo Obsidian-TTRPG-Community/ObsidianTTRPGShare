@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Ghost Touch"
     desc: "  A unicorn's [[Strike|Strikes]] have the effects of a ghost touch property rune."
   - name: "Powerful Charge"
-    desc: "⬺  The unicorn [[Stride|Strides]] up to double its Speed in a straight line and then makes a horn [[Strike]]. If the unicorn moved at least 20 feet, it deals an additional 1 (2d6) damage on a hit."
+    desc: "⬺  The unicorn [[Stride|Strides]] up to double its Speed in a straight line and then makes a horn [[Strike]]. If the unicorn moved at least 20 feet, it deals an additional 2d6 (2d6) damage on a hit."
 
 speed: 45 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horn +12 ([[good]], [[magical]]); __Damage__ 1 (1d10+4) piercing plus 1 (1d6) good and ghost touch"
+    desc: "⬻ horn +12 ([[good]], [[magical]]); __Damage__ 1d10+4 (1d10+4) piercing plus 1d6 (1d6) good and ghost touch"
   - name: Melee
-    desc: "⬻ hoof +12 ([[agile]], [[magical]]); __Damage__ 1 (1d8+4) bludgeoning and ghost touch"
+    desc: "⬻ hoof +12 ([[agile]], [[magical]]); __Damage__ 1d8+4 (1d8+4) bludgeoning and ghost touch"
 
 spellcasting:
   - name: "Primal Innate Spells"

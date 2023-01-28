@@ -70,9 +70,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ branch +27 ([[finesse]], [[magical]]); __Damage__ 1 (3d12+8) bludgeoning"
+    desc: "⬻ branch +27 ([[finesse]], [[magical]]); __Damage__ 3d12+8 (3d12+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ leaves +27 ([[conjuration]], [[plant]], [[primal]], [[range increment|range increment 60 feet]]); __Damage__ 1 (3d8+6) slashing"
+    desc: "⬻ leaves +27 ([[conjuration]], [[plant]], [[primal]], [[range increment|range increment 60 feet]]); __Damage__ 3d8+6 (3d8+6) slashing"
 
 spellcasting:
   - name: "Primal Prepared Spells"

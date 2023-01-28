@@ -35,7 +35,7 @@ abilityMods: [6, 4, 4, 1, 3, 5]
 
 abilities_mid:
   - name: "Mohrg Spawn"
-    desc: " ([[occult]], [[necromancy]]);  A living creature slain by a mohrg that had a lower level than the mohrg rises as a mohrg spawn after 1 (1d4) rounds, on its turn. This mohrg spawn is under the command of the mohrg that created it. If the creator of the mohrg spawn is destroyed, the mohrg spawn is destroyed as well, immediately collapsing into a pile of decayed flesh and bones."
+    desc: " ([[occult]], [[necromancy]]);  A living creature slain by a mohrg that had a lower level than the mohrg rises as a mohrg spawn after 1d4 (1d4) rounds, on its turn. This mohrg spawn is under the command of the mohrg that created it. If the creator of the mohrg spawn is destroyed, the mohrg spawn is destroyed as well, immediately collapsing into a pile of decayed flesh and bones."
 abilities_bot:
   - name: "Paralysis"
     desc: " ([[occult]], [[incapacitation]], [[necromancy]]);  A living creature hit by a mohrg's tongue [[Strike]] must succeed at a DC 26 Fortitude save or become [[paralyzed|paralyzed]]. The creature can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each attempt."
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +20 __Damage__ 1 (2d10+9) slashing plus Grab"
+    desc: "⬻ claw +20 __Damage__ 2d10+9 (2d10+9) slashing plus Grab"
   - name: Melee
     desc: "⬻ tongue +20 ([[agile]]); __Damage__ paralysis"
 

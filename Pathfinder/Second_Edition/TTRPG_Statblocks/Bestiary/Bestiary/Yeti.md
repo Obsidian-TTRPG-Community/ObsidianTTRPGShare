@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +15 __Damage__ 1 (2d10+5) slashing"
+    desc: "⬻ claw +15 __Damage__ 2d10+5 (2d10+5) slashing"
 
 sourcebook: "_Bestiary_, page 338."
 ```

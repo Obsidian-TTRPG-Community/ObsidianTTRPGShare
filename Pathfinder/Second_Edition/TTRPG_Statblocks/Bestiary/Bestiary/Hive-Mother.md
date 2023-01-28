@@ -40,9 +40,9 @@ abilities_bot:
   - name: "Armor-Rending Bite"
     desc: "⬺  The hive mother makes a mandibles [[Strike]]; if the [[Strike]] hits, the target's armor takes the damage and the acid damage bypasses the armor's Hardness."
   - name: "Frenzy Pheromone"
-    desc: "⬺  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[quickened|quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for [[Burrow]], [[Stride]], or [[Strike]] actions. The hive mother can't unleash the pheromone again for 1 (1d4) rounds."
+    desc: "⬺  The hive mother unleashes a pheromone that causes all other ankhravs within a 100-foot emanation to become [[quickened|quickened 1]] until the start of the hive mother's next turn, and they can use the extra action only for [[Burrow]], [[Stride]], or [[Strike]] actions. The hive mother can't unleash the pheromone again for 1d4 (1d4) rounds."
   - name: "Spray Acid"
-    desc: "⬺ ([[acid]]);  The hive mother spews acid in a 60-foot cone, dealing 1 (8d6) acid damage and 1 (1d6) [[persistent damage|persistent acid damage]] (DC 26 basic Reflex save). It can't spew acid again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]]);  The hive mother spews acid in a 60-foot cone, dealing 8d6 (8d6) acid damage and 1d6 (1d6) [[persistent damage|persistent acid damage]] (DC 26 basic Reflex save). It can't spew acid again for 1d4 (1d4) rounds."
 
 speed: 25 feet, burrow 20 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +20 ([[acid]]); __Damage__ 1 (2d8+6) piercing plus 1 (2d6) acid"
+    desc: "⬻ mandibles +20 ([[acid]]); __Damage__ 2d8+6 (2d8+6) piercing plus 2d6 (2d6) acid"
   - name: Ranged
-    desc: "⬻ acid spit +17 ([[acid]], [[range|range 30 feet]]); __Damage__ 1 (5d6) acid"
+    desc: "⬻ acid spit +17 ([[acid]], [[range|range 30 feet]]); __Damage__ 5d6 (5d6) acid"
 
 sourcebook: "_Bestiary_, page 22."
 ```

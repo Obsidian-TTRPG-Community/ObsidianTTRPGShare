@@ -37,14 +37,14 @@ abilityMods: [4, -2, 3, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by fire (1 (4d6), 1 (1d8) from areas or [[persistent damage|persistent damage]]); healed by electricity (area 1 (1d6) HP); [[slowed|slowed]] by cold."
+    desc: "  harmed by fire (4d6 (4d6), 1d8 (1d8) from areas or [[persistent damage|persistent damage]]); healed by electricity (area 1d6 (1d6) HP); [[slowed|slowed]] by cold."
   - name: "Stench"
     desc: " ([[aura]], [[olfactory]]);  40 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 19 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] for as long as it's [[sickened|sickened]] on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves against disease and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
   - name: "Vulnerable to Gentle Repose"
-    desc: "  Casting a [[gentle repose]] spell on a carrion golem causes it to grow stiff. The golem attempts a DC 19 Fortitude save. It's unaffected on a critical success, [[slowed|slowed 1]] for 1 (1d4) rounds on a success, and on a failure is [[immobilized|immobilized]] and [[slowed|slowed]] for 1 (1d4) rounds."
+    desc: "  Casting a [[gentle repose]] spell on a carrion golem causes it to grow stiff. The golem attempts a DC 19 Fortitude save. It's unaffected on a critical success, [[slowed|slowed 1]] for 1d4 (1d4) rounds on a success, and on a failure is [[immobilized|immobilized]] and [[slowed|slowed]] for 1d4 (1d4) rounds."
 abilities_bot:
   - name: "Filth Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 19 Fortitude. __Stage 1__ carrier with no ill effect (1 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] as long as it remains [[sickened|sickened]] (1 day) __Stage 4__ [[unconscious|unconscious]]  (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 19 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] as long as it remains [[sickened|sickened]] (1 day) __Stage 4__ [[unconscious|unconscious]]  (1 day)"
 
 speed: 25 feet
 
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +14 ([[magical]]); __Damage__ 1 (2d10+4) piercing plus filth fever"
+    desc: "⬻ jaws +14 ([[magical]]); __Damage__ 2d10+4 (2d10+4) piercing plus filth fever"
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]], [[magical]]); __Damage__ 1 (2d6+4) slashing plus filth fever"
+    desc: "⬻ claw +14 ([[agile]], [[magical]]); __Damage__ 2d6+4 (2d6+4) slashing plus filth fever"
 
 sourcebook: "_Bestiary 2_, page 128."
 ```

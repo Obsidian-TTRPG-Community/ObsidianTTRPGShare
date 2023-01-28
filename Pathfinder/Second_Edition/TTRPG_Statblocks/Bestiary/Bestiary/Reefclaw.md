@@ -39,9 +39,9 @@ abilities_mid:
     desc: "⬲ __Trigger__ The reefclaw is reduced to 0 Hit Points. __Effect__  The reefclaw makes a claw [[Strike]] before [[dying|dying]]."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6) bludgeoning, DC 17."
+    desc: "⬻  1d6 (1d6) bludgeoning, DC 17."
   - name: "Reefclaw Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 5 feet, swim 30 feet
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +9 ([[finesse]]); __Damage__ 1 (1d6+1) slashing plus reefclaw venom and Grab"
+    desc: "⬻ claw +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing plus reefclaw venom and Grab"
 
 sourcebook: "_Bestiary_, page 279."
 ```

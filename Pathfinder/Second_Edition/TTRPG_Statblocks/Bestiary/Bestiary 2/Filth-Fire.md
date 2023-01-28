@@ -39,7 +39,7 @@ abilities_top:
     desc: "  The filth fire ignores the [[concealed|concealed]] condition from smoke."
 abilities_bot:
   - name: "Noxious Burst"
-    desc: "⬺  Toxic materials and churning rubbish within the filth fire's body explode in one of three ways. The filth fire chooses the effect, but it can't make the same choice twice in a row.<ul class='inner-bullet-list'><li>__Fiery Beam__ (evocation, fire, primal) The filth fire expels a 30-foot line of flame that deals 1 (3d6) fire damage with a DC 21 basic Reflex save.</li><li>__Shrapnel Blast__ (evocation, primal) The filth fire shoots jagged rubbish out in a 5-foot emanation that deals 1 (2d12) piercing damage with a DC 21 basic Reflex save.</li><li>__Toxic Fumes__ (evocation, poison, primal) The filth fire belches a 15-foot cone of toxic smoke that deals 1 (2d6) poison damage (DC 21 basic Fortitude save). A creature that fails is also [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure).</li></ul>"
+    desc: "⬺  Toxic materials and churning rubbish within the filth fire's body explode in one of three ways. The filth fire chooses the effect, but it can't make the same choice twice in a row.<ul class='inner-bullet-list'><li>__Fiery Beam__ (evocation, fire, primal) The filth fire expels a 30-foot line of flame that deals 3d6 (3d6) fire damage with a DC 21 basic Reflex save.</li><li>__Shrapnel Blast__ (evocation, primal) The filth fire shoots jagged rubbish out in a 5-foot emanation that deals 2d12 (2d12) piercing damage with a DC 21 basic Reflex save.</li><li>__Toxic Fumes__ (evocation, poison, primal) The filth fire belches a 15-foot cone of toxic smoke that deals 2d6 (2d6) poison damage (DC 21 basic Fortitude save). A creature that fails is also [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure).</li></ul>"
 
 speed: 25 feet
 
@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ burning lash +13 ([[finesse]]); __Damage__ 1 (2d6+3) bludgeoning plus 1 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ burning lash +13 ([[finesse]]); __Damage__ 2d6+3 (2d6+3) bludgeoning plus 1d6 (1d6) [[persistent damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ ember ball +13 ([[fire]], [[range increment|range increment 20 feet]]); __Damage__ 1 (1d6+3) bludgeoning plus 1 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ ember ball +13 ([[fire]], [[range increment|range increment 20 feet]]); __Damage__ 1d6+3 (1d6+3) bludgeoning plus 1d6 (1d6) [[persistent damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 110."
 ```

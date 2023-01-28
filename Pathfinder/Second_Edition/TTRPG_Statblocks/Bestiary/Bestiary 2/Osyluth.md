@@ -36,13 +36,13 @@ abilityMods: [5, 5, 4, 3, 4, 4]
 
 abilities_bot:
   - name: "Osyluth Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage, [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (3d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1 (3d6) poison damage and [[enfeebled|enfeebled 2]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage, [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 3d6 (3d6) poison damage and [[enfeebled|enfeebled 2]]. (1 round)"
   - name: "Quick Invisibility"
     desc: "  The osyluth can cast innate invisibility using only 1 action."
   - name: "Sadistic Strike"
-    desc: "  An osyluth deals an extra 1 (2d6) damage whenever they [[Strike]] an [[enfeebled|enfeebled]], [[frightened|frightened]], or [[prone|prone]] creature."
+    desc: "  An osyluth deals an extra 2d6 (2d6) damage whenever they [[Strike]] an [[enfeebled|enfeebled]], [[frightened|frightened]], or [[prone|prone]] creature."
   - name: "Stygian Inquisitor"
-    desc: "⬻ ([[linguistic]], [[mental]]);  The osyluth telepathically questions a creature affected by zone of truth. After 1 round, if the creature intentionally refuses to answer the question, it takes 1 (2d6) mental damage."
+    desc: "⬻ ([[linguistic]], [[mental]]);  The osyluth telepathically questions a creature affected by zone of truth. After 1 round, if the creature intentionally refuses to answer the question, it takes 2d6 (2d6) mental damage."
   - name: "Tail Sweep"
     desc: "⬻  The osyluth sweeps their tail in a 15-foot cone. Each creature in the cone must succeed at a DC 26 Reflex save or be knocked [[prone|prone]]."
 
@@ -59,13 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[evil]], [[magical]]); __Damage__ 1 (2d10+11) piercing plus 1 (1d6) evil"
+    desc: "⬻ jaws +21 ([[evil]], [[magical]]); __Damage__ 2d10+11 (2d10+11) piercing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+11) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +21 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+11 (2d6+11) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ stinger +21 ([[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (1d10+11) piercing plus 1 (1d6) evil and osyluth venom"
+    desc: "⬻ stinger +21 ([[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1d10+11 (1d10+11) piercing plus 1d6 (1d6) evil and osyluth venom"
   - name: Ranged
-    desc: "⬻ bone shard +21 ([[evil]], [[magical]], [[range increment|range increment 30 feet]]); __Damage__ 1 (2d6+8) piercing"
+    desc: "⬻ bone shard +21 ([[evil]], [[magical]], [[range increment|range increment 30 feet]]); __Damage__ 2d6+8 (2d6+8) piercing"
 
 spellcasting:
   - name: "Divine Innate Spells"

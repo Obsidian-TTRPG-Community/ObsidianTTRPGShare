@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vile touch +18 ([[finesse]]); __Damage__ 1 (6d6) negative plus spectral corruption"
+    desc: "⬻ vile touch +18 ([[finesse]]); __Damage__ 6d6 (6d6) negative plus spectral corruption"
 
 sourcebook: "_Bestiary 2_, page 248."
 ```

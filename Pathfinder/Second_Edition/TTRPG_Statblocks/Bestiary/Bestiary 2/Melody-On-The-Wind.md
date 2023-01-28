@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The melody on the wind is targeted by a spell with the [[auditory]] trait __Effect__  The melody on the wind attempts to counteract the spell. If it succeeds, the spell effect is caught in a blast of wind that sweeps it back to its origin, affecting the caster. Targets of the triggering effect other than the melody on the wind are still affected normally."
 abilities_bot:
   - name: "Mesmerizing Melody"
-    desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[mental]], [[primal]]);  The melody on the wind sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 30 Will save to resist becoming [[fascinated|fascinated]] by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[fascinated|fascinated]] for 1 round.\n__Failure__ The creature is [[fascinated|fascinated]] for 1 (1d4) rounds."
+    desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[mental]], [[primal]]);  The melody on the wind sings in a sonorous chorus. Any creature in a 30-foot emanation must attempt a DC 30 Will save to resist becoming [[fascinated|fascinated]] by the melody on the wind. A creature that succeeds at its save is temporarily immune for 24 hours.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[fascinated|fascinated]] for 1 round.\n__Failure__ The creature is [[fascinated|fascinated]] for 1d4 (1d4) rounds."
   - name: "Swiftness"
     desc: "  The melody on the wind's movement doesn't trigger reactions."
   - name: "Elemental, Earth"
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wind gust +23 ([[agile]], [[finesse]]); __Damage__ 1 (2d10+10) bludgeoning plus Push"
+    desc: "⬻ wind gust +23 ([[agile]], [[finesse]]); __Damage__ 2d10+10 (2d10+10) bludgeoning plus Push"
   - name: Ranged
-    desc: "⬻ solid refrain +23 ([[range increment|range increment 70 feet]]); __Damage__ 1 (2d8+10) sonic"
+    desc: "⬻ solid refrain +23 ([[range increment|range increment 70 feet]]); __Damage__ 2d8+10 (2d8+10) sonic"
 
 sourcebook: "_Bestiary 2_, page 107."
 ```

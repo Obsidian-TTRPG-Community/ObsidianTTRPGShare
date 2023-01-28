@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trident +7 __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ trident +7 __Damage__ 1d8+2 (1d8+2) piercing"
   - name: Ranged
-    desc: "⬻ trident +9 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ trident +9 ([[thrown|thrown 20 feet]]); __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Bestiary_, page 235."
 ```

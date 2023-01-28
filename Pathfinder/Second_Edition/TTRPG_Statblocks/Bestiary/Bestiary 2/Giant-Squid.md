@@ -35,7 +35,7 @@ abilityMods: [7, 3, 4, -4, 6, -2]
 
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d10+10) bludgeoning, DC 25."
+    desc: "⬻  1d10+10 (1d10+10) bludgeoning, DC 25."
   - name: "Jet"
     desc: "⬺ ([[move]]);  The giant squid moves up to 200 feet in a straight line through the water without triggering any reactions."
   - name: "Ravenous Embrace"
@@ -54,11 +54,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +21 __Damage__ 1 (2d12+11) piercing"
+    desc: "⬻ beak +21 __Damage__ 2d12+11 (2d12+11) piercing"
   - name: Melee
-    desc: "⬻ barbed tentacles +21 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 1 (2d10+11) slashing plus Grab"
+    desc: "⬻ barbed tentacles +21 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 2d10+11 (2d10+11) slashing plus Grab"
   - name: Melee
-    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+11) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus [[Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 254."
 ```

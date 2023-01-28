@@ -57,11 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +14 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4+6) piercing"
+    desc: "⬻ dagger +14 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +14 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ shortbow +14 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Ranged
-    desc: "⬻ dagger +14 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+6) piercing"
+    desc: "⬻ dagger +14 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

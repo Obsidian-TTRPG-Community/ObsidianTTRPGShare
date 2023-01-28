@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tusk +10 __Damage__ 1 (2d6+4) piercing"
+    desc: "⬻ tusk +10 __Damage__ 2d6+4 (2d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 43."
 ```

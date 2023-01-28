@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hoof +10 __Damage__ 1 (1d8+5) bludgeoning"
+    desc: "⬻ hoof +10 __Damage__ 1d8+5 (1d8+5) bludgeoning"
   - name: Melee
-    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1 (1d6+5) bludgeoning"
+    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 260."
 ```

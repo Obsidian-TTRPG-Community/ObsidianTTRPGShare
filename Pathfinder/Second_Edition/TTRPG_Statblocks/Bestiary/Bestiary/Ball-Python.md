@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature [[grabbed|grabbed]] or [[restrained|restrained]] by the ball python attempts to [[Escape]]. __Effect__  The DC of the [[Escape]] check is increased by 2."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8) bludgeoning, DC 17."
+    desc: "⬻  1d8 (1d8) bludgeoning, DC 17."
   - name: "Wrap in Coils"
     desc: "⬻ __Requirements__ A Medium or smaller creature is [[grabbed|grabbed]] or [[restrained|restrained]] in the ball python's jaws.  __Effect__  The ball python moves the creature into its coils, freeing its jaws to make attacks, then uses Constrict against the creature. The ball python's coils can hold one creature."
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d8+3) piercing plus Grab"
+    desc: "⬻ jaws +8 __Damage__ 1d8+3 (1d8+3) piercing plus Grab"
 
 sourcebook: "_Bestiary_, page 302."
 ```

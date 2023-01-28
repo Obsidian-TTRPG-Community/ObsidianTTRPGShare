@@ -36,7 +36,7 @@ abilityMods: [3, -1, 2, -2, 0, -1]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[earth]]);  The earth mephit breathes rocks in a 15-foot cone that deals 1 (2d6) bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[earth]]);  The earth mephit breathes rocks in a 15-foot cone that deals 2d6 (2d6) bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, burrow 20 feet, fly 15 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +8 __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ fist +8 __Damage__ 1d6+3 (1d6+3) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

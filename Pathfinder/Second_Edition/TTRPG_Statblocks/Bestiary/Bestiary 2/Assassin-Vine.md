@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ ([[primal]], [[transmutation]]);  Trigger The assassin vine detects a creature within 20 feet via [[tremorsense]]; The assassin vine causes vegetation within a 20-foot emanation to writhe for 1 round, turning this area into [[terrain|difficult terrain]]. When a creature starts its turn in this area, it must attempt a DC 20 Reflex save. On a failure, it takes a –10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure it is also [[immobilized|immobilized]] for 1 round. A creature can attempt to [[Escape]] to remove these effects. Assassin vines are immune to Grasping Foliage."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8+4) bludgeoning, DC 20."
+    desc: "⬻  1d8+4 (1d8+4) bludgeoning, DC 20."
 
 speed: 5 feet
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vine +12 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+6) bludgeoning plus Grab"
+    desc: "⬻ vine +12 ([[reach|reach 10 feet]]); __Damage__ 1d8+6 (1d8+6) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary 2_, page 26."
 ```

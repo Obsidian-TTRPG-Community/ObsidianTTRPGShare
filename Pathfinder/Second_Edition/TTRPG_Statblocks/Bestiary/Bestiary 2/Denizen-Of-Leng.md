@@ -39,7 +39,7 @@ abilities_mid:
   - name: "No Breath"
     desc: "  Denizens of Leng don't need to breathe."
   - name: "Planar Fast Healing"
-    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1 (1d4) rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function."
+    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 (1d4) rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function."
 abilities_top:
   - name: Items
     desc: "+1 striking kukri, Leng ruby worth 30 gp (2);"
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ kukri +18 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 1 (2d6+6) slashing plus 1 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ kukri +18 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 2d6+6 (2d6+6) slashing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
   - name: Melee
-    desc: "⬻ jaws +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d10+6) piercing plus debilitating bite"
+    desc: "⬻ jaws +17 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) piercing plus debilitating bite"
 
 spellcasting:
   - name: "Occult Innate Spells"

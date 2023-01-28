@@ -39,9 +39,9 @@ abilities_top:
     desc: "  An amoeba swarm can sense nearby creatures through vibration and air or water movement."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d4) bludgeoning plus 1 (1d4) acid, DC 17."
+    desc: "⬻  1d4 (1d4) bludgeoning plus 1d4 (1d4) acid, DC 17."
   - name: "Envelop"
-    desc: "⬽ __Requirements__ The giant amoeba begins its turn with a target its size or smaller [[grabbed|grabbed]]  __Effect__  The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1 (1d6) acid, [[Escape]] DC 17, Rupture 3)."
+    desc: "⬽ __Requirements__ The giant amoeba begins its turn with a target its size or smaller [[grabbed|grabbed]]  __Effect__  The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 (1d6) acid, [[Escape]] DC 17, Rupture 3)."
   - name: "Weak Acid"
     desc: "  An amoeba's acid damages only organic material—not metal, stone, or other inorganic substances."
 
@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +8 __Damage__ 1 (1d6) acid plus Grab"
+    desc: "⬻ pseudopod +8 __Damage__ 1d6 (1d6) acid plus Grab"
 
 sourcebook: "_Bestiary 2_, page 192."
 ```

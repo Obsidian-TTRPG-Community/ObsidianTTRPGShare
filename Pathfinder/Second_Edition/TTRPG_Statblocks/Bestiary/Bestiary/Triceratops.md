@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 26."
   - name: "Vicious Gore"
-    desc: "  A triceratops deals 1 (2d6) extra [[persistent damage|persistent bleed damage]] to [[prone|prone]] targets it hits with its horns."
+    desc: "  A triceratops deals 2d6 (2d6) extra [[persistent damage|persistent bleed damage]] to [[prone|prone]] targets it hits with its horns."
 
 speed: 30 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horns +19 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+9) piercing plus Knockdown"
+    desc: "⬻ horns +19 ([[reach|reach 15 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus Knockdown"
   - name: Melee
-    desc: "⬻ foot +19 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+9) bludgeoning"
+    desc: "⬻ foot +19 ([[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
 
 sourcebook: "_Bestiary_, page 99."
 ```

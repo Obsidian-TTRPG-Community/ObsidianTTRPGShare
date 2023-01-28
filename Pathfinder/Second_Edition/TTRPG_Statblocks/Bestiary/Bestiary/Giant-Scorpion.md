@@ -37,9 +37,9 @@ abilities_mid:
     desc: "⬲  Stinger only."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6+4) bludgeoning, DC 20."
+    desc: "⬻  1d6+4 (1d6+4) bludgeoning, DC 20."
   - name: "Giant Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d10) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d10) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1 (2d10) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 40 feet
 
@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pincer +11 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d8+6) slashing plus Grab"
+    desc: "⬻ pincer +11 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d8+6 (1d8+6) slashing plus Grab"
   - name: Melee
-    desc: "⬻ stinger +11 ([[reach|reach 10 feet]]); __Damage__ 1 (1d6+6) piercing plus giant scorpion venom"
+    desc: "⬻ stinger +11 ([[reach|reach 10 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus giant scorpion venom"
 
 sourcebook: "_Bestiary_, page 285."
 ```

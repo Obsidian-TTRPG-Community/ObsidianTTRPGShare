@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +15 ([[versatile|versatile p]]); __Damage__ 1 (1d8+7) slashing"
+    desc: "⬻ longsword +15 ([[versatile|versatile p]]); __Damage__ 1d8+7 (1d8+7) slashing"
   - name: Ranged
-    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8+3) piercing"
+    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 spellcasting:
   - name: "Divine Innate Spells"

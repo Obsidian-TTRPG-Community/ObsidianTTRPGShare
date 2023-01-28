@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Focus Gaze"
     desc: "⬻ ([[arcane]], [[concentrate]], [[incapacitation]], [[transmutation]], [[visual]]);  The medusa fixes their glare at a creature they can see within 30 feet. The target must immediately attempt a Fortitude save against the medusa's petrifying gaze. If the creature was already [[slowed|slowed]] by petrifying gaze before attempting its save, a failed save causes it to be [[petrified|petrified]] permanently. After attempting its save, the creature is then temporarily immune until the start of the medusa's next turn."
   - name: "Serpent Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 25 feet
 
@@ -60,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +18 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+8) piercing plus serpent venom"
+    desc: "⬻ shortsword +18 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+8 (1d6+8) piercing plus serpent venom"
   - name: Melee
-    desc: "⬻ snake fangs +16 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+8) piercing plus serpent venom"
+    desc: "⬻ snake fangs +16 ([[agile]], [[finesse]]); __Damage__ 1d4+8 (1d4+8) piercing plus serpent venom"
   - name: Ranged
-    desc: "⬻ composite shortbow +19 ([[deadly|deadly 1d10]], [[magical]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6+7) piercing plus serpent venom"
+    desc: "⬻ composite shortbow +19 ([[deadly|deadly 1d10]], [[magical]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+7 (1d6+7) piercing plus serpent venom"
 
 sourcebook: "_Bestiary_, page 234."
 ```

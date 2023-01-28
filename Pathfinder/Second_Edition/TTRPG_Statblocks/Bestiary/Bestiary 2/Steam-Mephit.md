@@ -41,9 +41,9 @@ abilities_top:
     desc: "  The steam mephit ignores the [[concealed|concealed]] condition from mist and steam."
 abilities_bot:
   - name: "Boiling Rain"
-    desc: "⬺ ([[arcane]], [[conjuration]], [[fire]], [[water]]);  Frequency once per day; The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 1 (2d8) fire damage (DC 17 basic Reflex save), and small unattended flames (such as [[torch|torches]]) are extinguished."
+    desc: "⬺ ([[arcane]], [[conjuration]], [[fire]], [[water]]);  Frequency once per day; The steam mephit calls down a rain boiling water that surrounds them in a 10-foot emanation. Creatures in the area take 2d8 (2d8) fire damage (DC 17 basic Reflex save), and small unattended flames (such as [[torch|torches]]) are extinguished."
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[fire]]);  The steam mephit spits a cloud of steam in a 15-foot cone that deals 1 (2d6) fire damage to each creature within the area (DC 17 basic Reflex save). The steam mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[fire]]);  The steam mephit spits a cloud of steam in a 15-foot cone that deals 2d6 (2d6) fire damage to each creature within the area (DC 17 basic Reflex save). The steam mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Elemental, Water"
     desc: "  Water elementals that become infused with cold or mist have increased mobility in regions outside of bodies of water."
 
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+1) slashing"
+    desc: "⬻ claw +7 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

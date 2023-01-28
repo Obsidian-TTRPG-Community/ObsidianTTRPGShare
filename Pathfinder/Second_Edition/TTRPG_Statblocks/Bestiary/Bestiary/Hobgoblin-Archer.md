@@ -42,7 +42,7 @@ abilities_top:
     desc: "crossbow (20 bolts), scale mail, [[shortsword]];"
 abilities_bot:
   - name: "Crossbow Precision"
-    desc: "  The first time the archer hits with a crossbow attack in a round, it deals 1 (1d8) extra precision damage."
+    desc: "  The first time the archer hits with a crossbow attack in a round, it deals 1d8 (1d8) extra precision damage."
   - name: "Perfect Aim"
     desc: "  The hobgoblin archer ignores the [[concealed|concealed]] condition. Their targets don't benefit from lesser cover, and they reduce the AC bonus from standard cover by 2 against the hobgoblin archer's attack."
   - name: "Running Reload"
@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +12 ([[agile]], [[versatile|versatile s]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ shortsword +12 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +14 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8+2) piercing plus crossbow precision"
+    desc: "⬻ crossbow +14 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+2 (1d8+2) piercing plus crossbow precision"
 
 sourcebook: "_Bestiary_, page 207."
 ```

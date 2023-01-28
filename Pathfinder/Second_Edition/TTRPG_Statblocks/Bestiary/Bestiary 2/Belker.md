@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d10+5) slashing"
+    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 2d10+5 (2d10+5) slashing"
   - name: Melee
-    desc: "⬻ wing +17 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+5) bludgeoning"
+    desc: "⬻ wing +17 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d8+5 (2d8+5) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 106."
 ```

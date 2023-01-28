@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Petitioner (Dead Vault)"
 tags: 
-  - pf2e/creature/level/
+  - pf2e/creature/level/1
 statblock: true
 statblock-link: "#Petitioner (Dead Vault)"
 name: "Petitioner (Dead Vault)"
@@ -38,12 +38,12 @@ armorclass:
     desc: "15; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
 health:
   - name: HP
-    desc: "22;"
+    desc: "22; "
 
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +7 __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ bite +7 __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Bestiary 2_, page 198."
 ```

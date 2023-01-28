@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Draining Strike"
     desc: " ([[divine]], [[necromancy]]);  When a thanadaemon damages a living creature with a melee [[Strike]], the creature must succeed at a DC 33 Fortitude save or become [[drained|drained 1]]. Further damage dealt by the thanadaemon increases the [[drained|drained]] condition value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
   - name: "Focus Gaze"
-    desc: "⬻ ([[concentrate]], [[divine]], [[fear]], [[visual]]);  The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already [[frightened|frightened]], a failed save causes it to become [[fleeing|fleeing]] for 1 (1d4) rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
+    desc: "⬻ ([[concentrate]], [[divine]], [[fear]], [[visual]]);  The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already [[frightened|frightened]], a failed save causes it to become [[fleeing|fleeing]] for 1d4 (1d4) rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
   - name: "Soul Crush"
     desc: "⬺ ([[manipulate]]); __Requirements__ The thanadaemon has a soul gem  __Effect__  The thanadaemon crushes the soul gem in one hand and gains fast healing 15 for 1 minute."
 
@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bo staff +28 ([[evil]], [[magical]], [[parry]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (3d8+14) bludgeoning plus 1 (1d6) negative, 1 (1d6) evil, and draining strike"
+    desc: "⬻ bo staff +28 ([[evil]], [[magical]], [[parry]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d8+14 (3d8+14) bludgeoning plus 1d6 (1d6) negative, 1d6 (1d6) evil, and draining strike"
   - name: Melee
-    desc: "⬻ claw +27 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 1 (3d6+14) slashing plus 1 (1d6) evil and draining strike"
+    desc: "⬻ claw +27 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 3d6+14 (3d6+14) slashing plus 1d6 (1d6) evil and draining strike"
 
 spellcasting:
   - name: "Divine Innate Spells"

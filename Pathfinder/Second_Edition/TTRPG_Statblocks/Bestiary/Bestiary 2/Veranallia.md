@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ sickle +39 ([[agile]], [[finesse]], [[trip]]); __Damage__ 1 (3d4+16) slashing plus 1 (4d6) cold and 1 (1d6) good"
+    desc: "⬻ sickle +39 ([[agile]], [[finesse]], [[trip]]); __Damage__ 3d4+16 (3d4+16) slashing plus 4d6 (4d6) cold and 1d6 (1d6) good"
   - name: Melee
-    desc: "⬻ vine +39 ([[reach|reach 20 feet]]); __Damage__ 1 (4d12+16) bludgeoning plus 1 (1d6) good and [[Improved Grab]]"
+    desc: "⬻ vine +39 ([[reach|reach 20 feet]]); __Damage__ 4d12+16 (4d12+16) bludgeoning plus 1d6 (1d6) good and [[Improved Grab]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

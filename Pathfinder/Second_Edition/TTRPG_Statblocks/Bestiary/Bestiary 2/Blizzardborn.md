@@ -40,7 +40,7 @@ abilities_top:
     desc: "  The blizzardborn ignores the [[concealed|concealed]] condition from falling snow."
 abilities_mid:
   - name: "Shattering Ice"
-    desc: "⬲ __Trigger__ An enemy hits the blizzardborn with an attack that deals physical damage __Effect__  A portion of the blizzardborn's body shatters into an explosion of razor sharp ice crystals and blinding snow that deals 1 (2d6) piercing damage to opponents in a 5-foot emanation (DC 24 basic Reflex save). Anyone who fails is also [[blinded|blinded]] for 1 round (or 3 rounds on a critical failure)."
+    desc: "⬲ __Trigger__ An enemy hits the blizzardborn with an attack that deals physical damage __Effect__  A portion of the blizzardborn's body shatters into an explosion of razor sharp ice crystals and blinding snow that deals 2d6 (2d6) piercing damage to opponents in a 5-foot emanation (DC 24 basic Reflex save). Anyone who fails is also [[blinded|blinded]] for 1 round (or 3 rounds on a critical failure)."
 abilities_bot:
   - name: "Ice Burrow"
     desc: "  The blizzardborn can [[Burrow]] through ice or snow with a."
@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ice claw +17 ([[versatile bludgeoning]]); __Damage__ 1 (2d6+8) slashing plus 1 (1d6) [[persistent damage|persistent cold]]"
+    desc: "⬻ ice claw +17 ([[versatile bludgeoning]]); __Damage__ 2d6+8 (2d6+8) slashing plus 1d6 (1d6) [[persistent damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 115."
 ```

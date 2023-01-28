@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Deep Breath"
     desc: "  A deinosuchus can hold its breath for about 2 hours."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Large, 1 (2d8+7) bludgeoning, Rupture 18."
+    desc: "⬻ ([[attack]]);  Large, 2d8+7 (2d8+7) bludgeoning, Rupture 18."
 
 speed: 30 feet, swim 40 feet
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +22 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+13) piercing plus Grab"
+    desc: "⬻ jaws +22 ([[reach|reach 15 feet]]); __Damage__ 2d10+13 (2d10+13) piercing plus Grab"
   - name: Melee
-    desc: "⬻ tail +20 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (1d10+11) bludgeoning"
+    desc: "⬻ tail +20 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1d10+11 (1d10+11) bludgeoning"
 
 sourcebook: "_Bestiary_, page 67."
 ```

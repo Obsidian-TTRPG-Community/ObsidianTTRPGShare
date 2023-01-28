@@ -54,11 +54,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ orc knuckle dagger +7 ([[agile]], [[disarm]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ orc knuckle dagger +7 ([[agile]], [[disarm]]); __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Melee
-    desc: "⬻ fist +7 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d4+3) bludgeoning"
+    desc: "⬻ fist +7 ([[agile]], [[nonlethal]]); __Damage__ 1d4+3 (1d4+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +4 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ javelin +4 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Bestiary_, page 256."
 ```

@@ -39,7 +39,7 @@ abilities_top:
     desc: "  The fire mephit ignores the [[concealed|concealed]] condition from smoke."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[fire]]);  The fire mephit breathes flames in a 15-foot cone that deals 1 (2d4) fire and 1 (1d4) [[persistent damage|persistent fire damage]] to each creature within the area (DC 17 basic Reflex save). The fire mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[fire]]);  The fire mephit breathes flames in a 15-foot cone that deals 2d4 (2d4) fire and 1d4 (1d4) [[persistent damage|persistent fire damage]] to each creature within the area (DC 17 basic Reflex save). The fire mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, fly 25 feet
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1 (1d6) piercing and 1 (1d4) fire"
+    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1d6 (1d6) piercing and 1d4 (1d4) fire"
 
 spellcasting:
   - name: "Arcane Innate Spells"

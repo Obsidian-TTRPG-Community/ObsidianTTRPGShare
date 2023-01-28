@@ -35,10 +35,10 @@ abilityMods: [2, 6, 4, -4, 2, 4]
 
 abilities_mid:
   - name: "Pour Down Throat"
-    desc: "⬲ __Trigger__ A creature in the sportlebore swarm's area speaks, uses a verbal component, or opens its mouth __Effect__  A portion of the sportlebore swarm attempts to surge down the throat of the triggering creature, which must attempt a DC 25 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature gets a mouthful of sportlebores. It spits the insects out and avoids further damage, but it can't speak for 1 round, and if it was performing a verbal spellcasting action, the spell fails and the caster wastes the action.\n__Failure__ The creature takes 1 (4d6) piercing damage from sportlebore bites, can't speak for 1 round, and loses a spell as noted under Success.\n__Critical Failure__ As failure, but the creature is also exposed to sportlebore infestation."
+    desc: "⬲ __Trigger__ A creature in the sportlebore swarm's area speaks, uses a verbal component, or opens its mouth __Effect__  A portion of the sportlebore swarm attempts to surge down the throat of the triggering creature, which must attempt a DC 25 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature gets a mouthful of sportlebores. It spits the insects out and avoids further damage, but it can't speak for 1 round, and if it was performing a verbal spellcasting action, the spell fails and the caster wastes the action.\n__Failure__ The creature takes 4d6 (4d6) piercing damage from sportlebore bites, can't speak for 1 round, and loses a spell as noted under Success.\n__Critical Failure__ As failure, but the creature is also exposed to sportlebore infestation."
 abilities_bot:
   - name: "Swarming Bites"
-    desc: "⬻  Each creature in the sportlebore swarm's area takes 1 (4d6) piercing damage (DC 25 basic Reflex save)."
+    desc: "⬻  Each creature in the sportlebore swarm's area takes 4d6 (4d6) piercing damage (DC 25 basic Reflex save)."
 
 speed: 35 feet, fly 35 feet
 

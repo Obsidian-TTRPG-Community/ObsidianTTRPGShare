@@ -39,7 +39,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Rhinoceros Charge"
-    desc: "⬺  As rhinoceros, except 1 (3d12+6) damage and DC 24."
+    desc: "⬺  As rhinoceros, except 3d12+6 (3d12+6) damage and DC 24."
   - name: "Trample"
     desc: "⬽  Medium or smaller, foot, DC 21."
 
@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horn +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+6) piercing"
+    desc: "⬻ horn +16 ([[reach|reach 10 feet]]); __Damage__ 2d12+6 (2d12+6) piercing"
   - name: Melee
-    desc: "⬻ foot +16 __Damage__ 1 (2d8+6) bludgeoning"
+    desc: "⬻ foot +16 __Damage__ 2d8+6 (2d8+6) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 228."
 ```

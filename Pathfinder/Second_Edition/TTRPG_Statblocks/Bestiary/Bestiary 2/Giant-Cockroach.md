@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+1) piercing"
+    desc: "⬻ mandibles +8 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing"
 
 sourcebook: "_Bestiary 2_, page 53."
 ```

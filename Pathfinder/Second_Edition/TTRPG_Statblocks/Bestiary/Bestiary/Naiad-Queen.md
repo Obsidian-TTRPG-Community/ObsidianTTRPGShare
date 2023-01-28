@@ -68,7 +68,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aqueous fist +17 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ aqueous fist +17 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 spellcasting:
   - name: "Primal Prepared Spells"

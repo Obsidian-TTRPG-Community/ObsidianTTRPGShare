@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Carry Off Prey"
     desc: "  The gogiteth can move at its full Speed while it has a creature [[grabbed|grabbed]] in its jaws, bringing the [[grabbed|grabbed]] creature along."
   - name: "Constrict"
-    desc: "⬻  1 (3d6+12) bludgeoning, DC 32."
+    desc: "⬻  3d6+12 (3d6+12) bludgeoning, DC 32."
   - name: "Skittering Assault"
     desc: "⬺  The gogiteth [[Stride|Strides]] three times. Once per [[Stride]], it can attempt a leg [[Strike]] against a creature in its reach at any point during the [[Stride]]; it must make each attack against a different creature, but it doesn't apply its multiple attack penalty until after making all its [[Strike|Strikes]]. If any of the [[Strike|Strikes]] result in a critical failure, Skittering Assault ends."
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +26 __Damage__ 1 (3d10+12) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +26 __Damage__ 3d10+12 (3d10+12) piercing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ leg +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (3d6+12) piercing"
+    desc: "⬻ leg +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d6+12 (3d6+12) piercing"
 
 sourcebook: "_Bestiary_, page 183."
 ```

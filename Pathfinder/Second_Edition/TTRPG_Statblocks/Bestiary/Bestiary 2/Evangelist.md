@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ chain +17 ([[disarm]], [[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (2d8+7) piercing plus 1 (1d6) [[persistent damage|persistent bleed]] and impaling chain"
+    desc: "⬻ chain +17 ([[disarm]], [[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 2d8+7 (2d8+7) piercing plus 1d6 (1d6) [[persistent damage|persistent bleed]] and impaling chain"
 
 sourcebook: "_Bestiary 2_, page 282."
 ```

@@ -44,9 +44,9 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The akizendri takes on the appearance of any Small or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]], but might change the damage type its [[Strike|Strikes]] deal."
   - name: "Constrict"
-    desc: "⬻  1 (1d8+3) bludgeoning, DC 20."
+    desc: "⬻  1d8+3 (1d8+3) bludgeoning, DC 20."
   - name: "Garbled Thoughts"
-    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the akizendri's bite [[Strike]] must attempt a DC 20 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[stupefied|stupefied 1]] for 1 (1d4) rounds.\n__Critical Failure__ As failure, but the creature is also [[confused|confused]] for 1 round."
+    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the akizendri's bite [[Strike]] must attempt a DC 20 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[stupefied|stupefied 1]] for 1d4 (1d4) rounds.\n__Critical Failure__ As failure, but the creature is also [[confused|confused]] for 1 round."
   - name: "Text Immersion"
     desc: " ([[divine]], [[transmutation]]);  When the akizendri casts secret page, it can physically immerse itself in the text, changing the message of the text in the process. It can exit the book at any point by Dismissing secret page, at which point it appears in a space adjacent to the text. If it does so to begin combat, it rolls a [[Deception]] check for initiative. As long as it remains immersed in the text, the akizendri has no body. It can communicate telepathically with a creature as long as the creature touches the book or scroll that contains the secret page. It can sense nearby creatures using its entropy sense, but not in any other way, nor can it use any attack, manipulate, or move actions or speak aloud. If the object it is immersed in is destroyed, the akizendri reappears in an adjacent square and is [[stunned|stunned 1]]."
 
@@ -63,9 +63,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +12 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (2d8+3) piercing plus 1 (1d4) chaotic and garbled thoughts"
+    desc: "⬻ jaws +12 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 2d8+3 (2d8+3) piercing plus 1d4 (1d4) chaotic and garbled thoughts"
   - name: Melee
-    desc: "⬻ tail +12 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (2d6+3) bludgeoning plus 1 (1d4) chaotic and Grab"
+    desc: "⬻ tail +12 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 2d6+3 (2d6+3) bludgeoning plus 1d4 (1d4) chaotic and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"

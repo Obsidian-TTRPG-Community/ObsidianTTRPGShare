@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jagged jaws +15 ([[fatal|fatal d10]]); __Damage__ 1 (2d8+8) slashing"
+    desc: "⬻ jagged jaws +15 ([[fatal|fatal d10]]); __Damage__ 2d8+8 (2d8+8) slashing"
   - name: Melee
-    desc: "⬻ hoof +13 ([[agile]]); __Damage__ 1 (2d4+8) bludgeoning"
+    desc: "⬻ hoof +13 ([[agile]]); __Damage__ 2d4+8 (2d4+8) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 162."
 ```

@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +9 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (1d4) –2 bludgeoning"
+    desc: "⬻ fist +9 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1d4 (1d4) –2 bludgeoning"
   - name: Ranged
-    desc: "⬻ dissonant note +9 ([[evocation]], [[magical]], [[range|range 30 feet]], [[sonic]]); __Damage__ 1 (1d8) sonic"
+    desc: "⬻ dissonant note +9 ([[evocation]], [[magical]], [[range|range 30 feet]], [[sonic]]); __Damage__ 1d8 (1d8) sonic"
 
 spellcasting:
   - name: "Primal Innate Spells"

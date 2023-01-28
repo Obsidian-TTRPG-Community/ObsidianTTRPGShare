@@ -37,7 +37,7 @@ abilityMods: [1, 3, 1, -2, 0, 0]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[arcane]]);  The water mephit breathes acid in a 15-foot cone that deals 1 (2d6) acid damage to each creature within the area (DC 17 basic Reflex save). The water mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[arcane]]);  The water mephit breathes acid in a 15-foot cone that deals 2d6 (2d6) acid damage to each creature within the area (DC 17 basic Reflex save). The water mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Drench"
     desc: "⬻ ([[abjuration]], [[arcane]], [[water]]);  The water mephit puts out all fires in a 5-foot emanation. The mephit extinguishes all non-magical fires automatically and attempts to [[counteracting|counteract]] magical fires (+7 counteract modifier)."
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +8 ([[finesse]]); __Damage__ 1 (1d6+1) slashing"
+    desc: "⬻ claw +8 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing"
 
 sourcebook: "_Bestiary_, page 151."
 ```

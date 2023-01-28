@@ -34,7 +34,7 @@ abilityMods: [4, 1, 4, -5, 1, -4]
 
 abilities_bot:
   - name: "Giant Ant Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d10) poison and [[enfeebled|enfeebled 2]] (1 round) __Stage 3__ 1 (1d12) poison and [[enfeebled|enfeebled 3]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 18 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d8 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d10 (1d10) poison and [[enfeebled|enfeebled 2]] (1 round) __Stage 3__ 1d12 (1d12) poison and [[enfeebled|enfeebled 3]] (1 round)"
   - name: "Haul Away"
     desc: "⬻ __Requirements__ The giant ant has a Large or smaller creature [[grabbed|grabbed]]  __Effect__  The giant ant [[Stride|Strides]] up to its full Speed, carrying the [[grabbed|grabbed]] creature with it. It is [[encumbered|encumbered]] if the [[grabbed|grabbed]] creature is Medium or larger."
 
@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +11 __Damage__ 1 (1d8+4) slashing plus Grab"
+    desc: "⬻ mandibles +11 __Damage__ 1d8+4 (1d8+4) slashing plus Grab"
   - name: Melee
-    desc: "⬻ stinger +11 ([[agile]]); __Damage__ 1 (1d6+4) piercing plus giant ant venom"
+    desc: "⬻ stinger +11 ([[agile]]); __Damage__ 1d6+4 (1d6+4) piercing plus giant ant venom"
 
 sourcebook: "_Bestiary 2_, page 20."
 ```

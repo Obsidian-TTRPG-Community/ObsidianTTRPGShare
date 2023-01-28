@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within the sea snake's reach uses a move action __Effect__  The sea snake makes a bite [[Strike]] against the attacker."
 abilities_bot:
   - name: "Sea Snake Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
 
 speed: 15 feet, swim 25 feet
 
@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d8) piercing plus sea snake venom"
+    desc: "⬻ fangs +7 ([[agile]], [[finesse]]); __Damage__ 1d8 (1d8) piercing plus sea snake venom"
 
 sourcebook: "_Bestiary 2_, page 245."
 ```

@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ morningstar +8 ([[versatile|versatile p]]); __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ morningstar +8 ([[versatile|versatile p]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Melee
     desc: "⬻ tongue +8 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
   - name: Ranged
-    desc: "⬻ sling +7 ([[propulsive]], [[reload|reload 1]], [[range increment|range increment 50 feet]]); __Damage__ 1 (1d6+1) bludgeoning"
+    desc: "⬻ sling +7 ([[propulsive]], [[reload|reload 1]], [[range increment|range increment 50 feet]]); __Damage__ 1d6+1 (1d6+1) bludgeoning"
 
 sourcebook: "_Bestiary_, page 44."
 ```

@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The shadow drake makes one bite [[Strike]] and two tail [[Strike|Strikes]] in any order."
   - name: "Shadow Breath"
-    desc: "⬺ ([[arcane]], [[cold]], [[evocation]], [[shadow]]);  A shadow drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 1 (3d6) cold damage (DC 18 basic Reflex save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +10 counteract modifier. The shadow drake can't use Shadow Breath again for 1 (1d6) rounds."
+    desc: "⬺ ([[arcane]], [[cold]], [[evocation]], [[shadow]]);  A shadow drake spits a ball of black liquid that explodes into a cloud of frigid black shadow. This attack has a range of 40 feet and explodes in a 5-foot-radius burst. Creatures within the burst take 3d6 (3d6) cold damage (DC 18 basic Reflex save). The explosion of shadow also snuffs out mundane light sources the size of a torch, lantern, or smaller, and attempts to counteract magical light with a +10 counteract modifier. The shadow drake can't use Shadow Breath again for 1d6 (1d6) rounds."
   - name: "Speed Surge"
     desc: "⬻ __Frequency__ three times per day  __Effect__  The shadow drake [[Stride|Strides]] or [[Fly|Flies]] twice."
 
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 ([[finesse]]); __Damage__ 1 (1d10+3) piercing"
+    desc: "⬻ jaws +11 ([[finesse]]); __Damage__ 1d10+3 (1d10+3) piercing"
   - name: Melee
-    desc: "⬻ tail +11 ([[agile]], [[finesse]]); __Damage__ 1 (1d8+3) bludgeoning"
+    desc: "⬻ tail +11 ([[agile]], [[finesse]]); __Damage__ 1d8+3 (1d8+3) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 100."
 ```

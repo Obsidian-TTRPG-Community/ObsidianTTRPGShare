@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Drink Blood"
     desc: "⬻ ([[divine]], [[necromancy]]);  When Drinking Blood, the spawn regains 5 HP."
   - name: "Sneak Attack"
-    desc: "  The vampire spawn deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The vampire spawn deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet, climb 25 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]]); __Damage__ 1 (1d8+6) slashing plus Grab"
+    desc: "⬻ claw +14 ([[agile]]); __Damage__ 1d8+6 (1d8+6) slashing plus Grab"
 
 sourcebook: "_Bestiary_, page 320."
 ```

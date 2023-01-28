@@ -62,13 +62,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+8) piercing"
+    desc: "⬻ jaws +18 ([[reach|reach 10 feet]]); __Damage__ 2d12+8 (2d12+8) piercing"
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+8) slashing"
+    desc: "⬻ claw +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+8 (2d8+8) slashing"
   - name: Melee
-    desc: "⬻ club +18 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+8) bludgeoning"
+    desc: "⬻ club +18 ([[reach|reach 10 feet]]); __Damage__ 2d6+8 (2d6+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ club +13 ([[thrown|thrown 10 feet]]); __Damage__ 1 (2d6+8) bludgeoning"
+    desc: "⬻ club +13 ([[thrown|thrown 10 feet]]); __Damage__ 2d6+8 (2d6+8) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 266."
 ```

@@ -49,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ogre hook +12 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (1d10+7) piercing"
+    desc: "⬻ ogre hook +12 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1d10+7 (1d10+7) piercing"
   - name: Ranged
-    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+7) piercing"
+    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+7 (1d6+7) piercing"
 
 sourcebook: "_Bestiary_, page 252."
 ```

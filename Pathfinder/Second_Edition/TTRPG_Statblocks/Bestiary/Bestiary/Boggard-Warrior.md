@@ -59,13 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +10 __Damage__ 1 (1d6+6) bludgeoning"
+    desc: "⬻ club +10 __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Melee
     desc: "⬻ tongue +10 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
   - name: Ranged
-    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ club +6 ([[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+6) bludgeoning"
+    desc: "⬻ club +6 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
 
 sourcebook: "_Bestiary_, page 44."
 ```

@@ -41,7 +41,7 @@ abilities_mid:
     desc: "  If a brain collector takes 30 damage from a critical hit or takes 25 mental damage, it must succeed at a DC 26 save (Fortitude for critical damage or Will for mental damage) or one of its brain blisters is destroyed."
 abilities_bot:
   - name: "Brain Collector Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d6) poison, [[enfeebled|enfeebled 1]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 1 (2d6) poison, [[enfeebled|enfeebled 2]], and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[enfeebled|enfeebled 1]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[enfeebled|enfeebled 2]], and [[slowed|slowed 1]] (1 round)"
   - name: "Collect Brain"
     desc: "⬻ ([[manipulate]]);  The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an [[Interact]] action to secure the brain in one of its empty brain blisters."
 
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +20 __Damage__ 1 (2d12+6) piercing plus brain collector venom"
+    desc: "⬻ jaws +20 __Damage__ 2d12+6 (2d12+6) piercing plus brain collector venom"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]]); __Damage__ 1 (2d8+6) slashing"
+    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

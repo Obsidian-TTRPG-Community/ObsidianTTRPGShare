@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1 (1d6-3) slashing"
+    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6-3 (1d6-3) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

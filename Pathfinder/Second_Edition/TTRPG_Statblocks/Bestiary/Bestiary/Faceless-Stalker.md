@@ -43,7 +43,7 @@ abilities_bot:
   - name: "Revert Form"
     desc: "⭓ __Requirements__ The faceless stalker is in an assumed form.  __Effect__  The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks."
   - name: "Sneak Attack"
-    desc: "  The faceless stalker deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The faceless stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 abilities_top:
   - name: Items
     desc: "longsword, studded leather;"
@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +14 ([[versatile|versatile p]]); __Damage__ 1 (1d8+6) slashing"
+    desc: "⬻ longsword +14 ([[versatile|versatile p]]); __Damage__ 1d8+6 (1d8+6) slashing"
   - name: Melee
-    desc: "⬻ claw +12 ([[agile]]); __Damage__ 1 (2d6+6) slashing plus Grab"
+    desc: "⬻ claw +12 ([[agile]]); __Damage__ 2d6+6 (2d6+6) slashing plus Grab"
 
 spellcasting:
   - name: "Occult Innate Spells"

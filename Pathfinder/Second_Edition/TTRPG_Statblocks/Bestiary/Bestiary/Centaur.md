@@ -56,13 +56,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hoof +9 ([[agile]]); __Damage__ 1 (1d10+4) bludgeoning"
+    desc: "⬻ hoof +9 ([[agile]]); __Damage__ 1d10+4 (1d10+4) bludgeoning"
   - name: Melee
-    desc: "⬻ longsword +11 ([[versatile|versatile p]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ longsword +11 ([[versatile|versatile p]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ spear +11 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +11 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ spear +9 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +9 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 60."
 ```

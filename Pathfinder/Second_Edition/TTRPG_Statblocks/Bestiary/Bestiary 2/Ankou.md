@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Shadow Doubles"
     desc: "⬻ to ⬽ ([[illusion]], [[occult]], [[shadow]]); __Frequency__ once per day  __Effect__  For each action spent to use this ability, the ankou creates one shadowy duplicate of themself anywhere within 60 feet of themself. Shadow doubles have the same statistics as an ankou, but they have the summoned trait, have 84 Hit Points, can't use Shadow Doubles or innate spells, and have an attack bonus of +25 for their [[Strike|Strikes]]. A shadow double that attempts a saving throw against a [[light]] effect can't get a result better than failure. Each double remains for 1 round, until it's reduced to 0 Hit Points, or until it moves further than 120 feet from the ankou, whichever comes first. Each round thereafter, the ankou can spend a single action that has the [[concentrate]] trait to extend the duration of surviving duplicates by 1 round, to a maximum duration of 1 minute. The ankou can see through the eyes of all of the shadow doubles at once. A character who Seeks can identify an ankou as real or a shadow double with a successful DC 39 [[Perception]] check."
   - name: "Sneak Attack"
-    desc: "  An ankou's [[Strike|Strikes]] deal an additional 1 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  An ankou's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: fly 75 feet
 
@@ -52,9 +52,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +29 ([[agile]], [[cold iron]]); __Damage__ 1 (3d6+15) slashing"
+    desc: "⬻ claw +29 ([[agile]], [[cold iron]]); __Damage__ 3d6+15 (3d6+15) slashing"
   - name: Melee
-    desc: "⬻ wing +29 ([[cold iron]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+15) piercing plus 1 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ wing +29 ([[cold iron]], [[reach|reach 10 feet]]); __Damage__ 2d6+15 (2d6+15) piercing plus 2d6 (2d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

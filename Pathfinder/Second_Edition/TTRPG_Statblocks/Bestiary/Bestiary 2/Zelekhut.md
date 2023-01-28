@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ chain +21 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+6) slashing plus 1 (2d6) electricity and 1 (1d6) lawful plus Knockdown"
+    desc: "⬻ chain +21 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+6 (2d10+6) slashing plus 2d6 (2d6) electricity and 1d6 (1d6) lawful plus Knockdown"
 
 spellcasting:
   - name: "Divine Innate Spells"

@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Pounce"
     desc: "⬻  The tiger [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the tiger began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
   - name: "Sneak Attack"
-    desc: "  The tiger deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The tiger deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Wrestle"
     desc: "⬻  The tiger makes a claw [[Strike]] against a creature it is grabbing. If the attack hits, that creature is knocked [[prone|prone]]."
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 __Damage__ 1 (1d10+7) piercing plus Grab"
+    desc: "⬻ jaws +13 __Damage__ 1d10+7 (1d10+7) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]]); __Damage__ 1 (1d8+7) slashing"
+    desc: "⬻ claw +13 ([[agile]]); __Damage__ 1d8+7 (1d8+7) slashing"
 
 sourcebook: "_Bestiary_, page 53."
 ```

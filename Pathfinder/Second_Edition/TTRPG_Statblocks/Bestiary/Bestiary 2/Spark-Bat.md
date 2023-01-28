@@ -50,7 +50,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+5) electricity"
+    desc: "⬻ jaws +11 ([[agile]], [[finesse]]); __Damage__ 1d4+5 (1d4+5) electricity"
 
 sourcebook: "_Bestiary 2_, page 106."
 ```

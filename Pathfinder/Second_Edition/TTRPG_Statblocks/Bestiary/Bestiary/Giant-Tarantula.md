@@ -34,9 +34,9 @@ abilityMods: [6, 1, 5, -5, 2, -4]
 
 abilities_bot:
   - name: "Hair Barrage"
-    desc: "⬺  The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 1 (4d6) piercing damage with a DC 25 basic Reflex save."
+    desc: "⬺  The tarantula flicks its legs, flinging spiky hairs in a 15-foot cone. This deals 4d6 (4d6) piercing damage with a DC 25 basic Reflex save."
   - name: "Giant Tarantula Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 8 rounds __Stage 1__ 1 (1d6) poison (1 round) __Stage 2__ 1 (1d6) poison, [[flat-footed|flat-footed]], and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 1 (1d6) poison, [[flat-footed|flat-footed]], and [[clumsy|clumsy 2]] (null) __Stage 4__ 1 (1d6) poison and [[paralyzed|paralyzed]]. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 23 Fortitude. __Maximum Duration__ 8 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 1d6 (1d6) poison, [[flat-footed|flat-footed]], and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 1d6 (1d6) poison, [[flat-footed|flat-footed]], and [[clumsy|clumsy 2]] (null) __Stage 4__ 1d6 (1d6) poison and [[paralyzed|paralyzed]]. (1 round)"
 
 speed: 30 feet, climb 30 feet
 
@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +17 __Damage__ 1 (2d8+8) piercing plus giant tarantula venom"
+    desc: "⬻ fangs +17 __Damage__ 2d8+8 (2d8+8) piercing plus giant tarantula venom"
   - name: Melee
-    desc: "⬻ leg +17 ([[reach|reach 10 feet]]); __Damage__ 1 (1d12+8) bludgeoning plus Knockdown"
+    desc: "⬻ leg +17 ([[reach|reach 10 feet]]); __Damage__ 1d12+8 (1d12+8) bludgeoning plus Knockdown"
 
 sourcebook: "_Bestiary_, page 307."
 ```

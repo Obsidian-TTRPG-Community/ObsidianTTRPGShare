@@ -38,7 +38,7 @@ abilities_top:
     desc: "  A tatzlwyrm's green, gray, and brown scales provide it natural camouflage. In areas of dense undergrowth, a tatzlwyrm can move at its full Speed when Sneaking, and it gains a +4 circumstance bonus to [[Hide]]."
 abilities_bot:
   - name: "Poison Gasp"
-    desc: "⬻  The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude save; the creature takes a –2 circumstance penalty to this save if it's [[grabbed|grabbed]] or [[flat-footed|flat-footed]]. The tatzlwyrm can't use Poison Gasp again for 2 rounds.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[sickened|sickened 1]].\n__Failure__ The target takes 1 (2d6) poison damage and is [[enfeebled|enfeebled 1]] for 1 round.\n__Critical Failure__ The target takes 1 (4d6) poison damage and is [[enfeebled|enfeebled 1]] for 1 minute."
+    desc: "⬻  The tatzlwyrm belches a puff of poisonous vapor into the face of an adjacent creature, which must attempt a DC 15 Fortitude save; the creature takes a –2 circumstance penalty to this save if it's [[grabbed|grabbed]] or [[flat-footed|flat-footed]]. The tatzlwyrm can't use Poison Gasp again for 2 rounds.\n__Critical Success__ The target is unaffected.\n__Success__ The target is [[sickened|sickened 1]].\n__Failure__ The target takes 2d6 (2d6) poison damage and is [[enfeebled|enfeebled 1]] for 1 round.\n__Critical Failure__ The target takes 4d6 (4d6) poison damage and is [[enfeebled|enfeebled 1]] for 1 minute."
 
 speed: 30 feet, climb 30 feet
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[magical]]); __Damage__ 1 (1d8+6) piercing"
+    desc: "⬻ jaws +10 ([[magical]]); __Damage__ 1d8+6 (1d8+6) piercing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]], [[magical]]); __Damage__ 1 (1d6+6) slashing"
+    desc: "⬻ claw +10 ([[agile]], [[magical]]); __Damage__ 1d6+6 (1d6+6) slashing"
 
 sourcebook: "_Bestiary 2_, page 256."
 ```

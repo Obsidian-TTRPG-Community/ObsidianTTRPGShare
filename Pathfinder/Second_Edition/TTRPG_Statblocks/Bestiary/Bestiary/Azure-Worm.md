@@ -41,13 +41,13 @@ abilities_mid:
     desc: "⬲ __Frequency__ once per day __Trigger__ The purple worm would be affected by a condition or adverse effect (such as baleful polymorph). __Effect__  The purple worm negates the triggering condition or effect. s from artifacts, deities, or a similarly powerful source can't be avoided in this way."
 abilities_bot:
   - name: "Azure Worm Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 37 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 1 (4d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 1 (6d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 37 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 4d6 (4d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 6d6 (6d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
   - name: "Breach"
     desc: "⬺  The azure worm Swims up to its swim Speed, then Leaps vertically out of the water up to 30 feet, making a [[Strike]] against a creature at the apex of the jump (this lets it attack a creature within 45 feet of the water's surface). After the [[Strike]], the worm splashes back down. It can use [[Improved Grab]] on this [[Strike]] and follow it up with Fast Swallow."
   - name: "Fast Swallow"
     desc: "⬲ __Trigger__ The worm Grabs a creature. __Effect__  The worm uses Swallow Whole."
   - name: "Swallow Whole"
-    desc: "⬻  Huge, 1 (3d8+10) bludgeoning, Rupture 27."
+    desc: "⬻  Huge, 3d8+10 (3d8+10) bludgeoning, Rupture 27."
   - name: "Thrash"
     desc: "⬺  The worm makes a [[Strike]] once against each creature in its reach. It can [[Strike]] up to once with its jaws, up to once with its stinger, and any number of times with its body. Each attack counts toward the worm's multiple attack penalty, but the multiple attack penalty doesn't increase until after it makes all the attacks."
 
@@ -64,11 +64,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +31 ([[deadly|deadly 2d10]], [[reach|reach 15 feet]]); __Damage__ 1 (3d12+16) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +31 ([[deadly|deadly 2d10]], [[reach|reach 15 feet]]); __Damage__ 3d12+16 (3d12+16) piercing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ stinger +31 ([[agile]], [[poison]], [[reach|reach 15 feet]]); __Damage__ 1 (4d6+16) piercing plus azure worm venom"
+    desc: "⬻ stinger +31 ([[agile]], [[poison]], [[reach|reach 15 feet]]); __Damage__ 4d6+16 (4d6+16) piercing plus azure worm venom"
   - name: Melee
-    desc: "⬻ body +29 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+14) bludgeoning"
+    desc: "⬻ body +29 ([[reach|reach 15 feet]]); __Damage__ 2d8+14 (2d8+14) bludgeoning"
 
 sourcebook: "_Bestiary_, page 57."
 ```

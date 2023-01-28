@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ barbed chain +22 ([[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]], [[versatile|versatile s]]); __Damage__ 1 (2d8+9) piercing plus 1 (1d6) evil and 1 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ barbed chain +22 ([[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]], [[versatile|versatile s]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) evil and 2d6 (2d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

@@ -44,7 +44,7 @@ abilities_top:
     desc: "lethargy poison (3 doses), shortsword;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The quickling's [[Strike|Strikes]] deal an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The quickling's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Supernatural Speed"
     desc: "  The quickling's speed, combined with nearly instantaneous acceleration and deceleration, enables them to move in astonishing ways. As long as they have a firm surface to travel across, they can [[Stride]] their full movement vertically or horizontally. They can even run across unstable surfaces, such as water, in the same way, although dangerous surfaces (acid, lava, etc.) harm them as normal. They must end their movement on a horizontal surface capable of bearing their weight or else they fall."
 
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +11 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+2) piercing plus lethargy poison"
+    desc: "⬻ shortsword +11 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+2 (1d6+2) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Primal Innate Spells"

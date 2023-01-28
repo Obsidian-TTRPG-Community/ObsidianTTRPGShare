@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hoof +9 __Damage__ 1 (1d8+5) bludgeoning"
+    desc: "⬻ hoof +9 __Damage__ 1d8+5 (1d8+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 299."
 ```

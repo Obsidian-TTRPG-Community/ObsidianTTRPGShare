@@ -44,9 +44,9 @@ abilities_bot:
   - name: "Holy Armaments"
     desc: " ([[divine]], [[evocation]]);  Any weapon gains the effect of a holy property rune while a monadic deva wields it."
   - name: "Rebuke Soul"
-    desc: "⬻ ([[auditory]], [[divine]], [[enchantment]], [[good]], [[incapacitation]]);  The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 1 (5d10) good damage and must attempt a DC 32 Fortitude save. Regardless of the outcome, the target is then temporarily immune for 10 minutes.\n__Critical Success__ The target is unaffected.\n__Success__ The target takes half damage and is [[stunned|stunned 1]].\n__Failure__ The target takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The target takes double damage and is [[stunned|stunned 4]]."
+    desc: "⬻ ([[auditory]], [[divine]], [[enchantment]], [[good]], [[incapacitation]]);  The monadic deva speaks a word to cause a creature's soul to recoil at its sins or an undead creature to recoil at its lack of a soul. One non-good living or undead target within 40 feet takes 5d10 (5d10) good damage and must attempt a DC 32 Fortitude save. Regardless of the outcome, the target is then temporarily immune for 10 minutes.\n__Critical Success__ The target is unaffected.\n__Success__ The target takes half damage and is [[stunned|stunned 1]].\n__Failure__ The target takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The target takes double damage and is [[stunned|stunned 4]]."
   - name: "Solid Blow"
-    desc: " ([[divine]], [[evocation]], [[force]]);  When a monadic deva hits a target for the second time during its turn with its mace, it deals an additional 1 (2d12) force damage as its weapon shimmers with ripples of power."
+    desc: " ([[divine]], [[evocation]], [[force]]);  When a monadic deva hits a target for the second time during its turn with its mace, it deals an additional 2d12 (2d12) force damage as its weapon shimmers with ripples of power."
 
 speed: 30 feet, fly 60 feet
 
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ holy mace +28 ([[good]], [[magical]], [[shove]]); __Damage__ 1 (2d6+15) bludgeoning plus 1 (1d6) force and 1 (1d6) good plus solid blow"
+    desc: "⬻ holy mace +28 ([[good]], [[magical]], [[shove]]); __Damage__ 2d6+15 (2d6+15) bludgeoning plus 1d6 (1d6) force and 1d6 (1d6) good plus solid blow"
 
 spellcasting:
   - name: "Divine Innate Spells"

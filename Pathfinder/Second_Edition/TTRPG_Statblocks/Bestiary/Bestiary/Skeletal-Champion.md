@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +10 ([[versatile|versatile p]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ longsword +10 ([[versatile|versatile p]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1 (1d6+4) slashing"
+    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1d6+4 (1d6+4) slashing"
   - name: Melee
-    desc: "⬻ lance +10 ([[deadly|deadly d8]], [[jousting|jousting d6]], [[reach|reach 10 feet]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ lance +10 ([[deadly|deadly d8]], [[jousting|jousting d6]], [[reach|reach 10 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
 
 sourcebook: "_Bestiary_, page 298."
 ```

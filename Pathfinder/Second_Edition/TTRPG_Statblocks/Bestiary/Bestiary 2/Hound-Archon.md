@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatsword +14 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (1d12+6) slashing plus 1 (1d6) good"
+    desc: "⬻ greatsword +14 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d12+6 (1d12+6) slashing plus 1d6 (1d6) good"
   - name: Melee
-    desc: "⬻ jaws +14 ([[agile]], [[good]], [[magical]]); __Damage__ 1 (1d6+6) piercing plus 1 (1d6) good"
+    desc: "⬻ jaws +14 ([[agile]], [[good]], [[magical]]); __Damage__ 1d6+6 (1d6+6) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

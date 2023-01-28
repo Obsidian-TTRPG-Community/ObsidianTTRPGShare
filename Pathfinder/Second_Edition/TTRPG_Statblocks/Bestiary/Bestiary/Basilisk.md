@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ ([[arcane]], [[aura]], [[transmutation]], [[visual]]); __Trigger__ A creature within 30 feet that the basilisk can see starts its turn. __Effect__  The target must attempt a DC 20 Fortitude save. If it fails, it's slow 1 for 1 minute as its body slowly stiffens."
 abilities_bot:
   - name: "Petrifying Gaze"
-    desc: "⬺ ([[arcane]], [[concentrate]], [[incapacitation]], [[transmutation]], [[visual]]);  The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude save. If it fails and has not already been [[slowed|slowed]] by Petrifying Glance or this ability, it becomes [[slowed|slowed 1]]. If the creature was already [[slowed|slowed]] by this ability or Petrifying Glance, a failed save causes the creature to be [[petrified|petrified]] permanently. A creature [[petrified|petrified]] in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh. A single basilisk contains enough blood to coat 1 (1d3) Medium creatures in this manner."
+    desc: "⬺ ([[arcane]], [[concentrate]], [[incapacitation]], [[transmutation]], [[visual]]);  The basilisk stares at a creature it can see within 30 feet. That creature must attempt a DC 22 Fortitude save. If it fails and has not already been [[slowed|slowed]] by Petrifying Glance or this ability, it becomes [[slowed|slowed 1]]. If the creature was already [[slowed|slowed]] by this ability or Petrifying Glance, a failed save causes the creature to be [[petrified|petrified]] permanently. A creature [[petrified|petrified]] in this manner that is coated (not just splashed) with fresh basilisk blood (taken from a basilisk that has been dead no longer than 1 hour) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 (1d3) Medium creatures in this manner."
 
 speed: 20 feet
 
@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +15 __Damage__ 1 (2d8+4) piercing"
+    desc: "⬻ jaws +15 __Damage__ 2d8+4 (2d8+4) piercing"
 
 sourcebook: "_Bestiary_, page 38."
 ```

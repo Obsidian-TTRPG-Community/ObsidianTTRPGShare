@@ -60,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +8 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +8 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Melee
-    desc: "⬻ mandibles +8 ([[agile]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ mandibles +8 ([[agile]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ spear +10 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ spear +10 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Bestiary 2_, page 43."
 ```

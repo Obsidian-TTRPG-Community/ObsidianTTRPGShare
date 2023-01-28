@@ -38,9 +38,9 @@ abilityMods: [4, 6, 2, 6, 4, 2]
 
 abilities_mid:
   - name: "Otherworldly Mind"
-    desc: " ([[mental]]);  Whenever a creature targets the hound with a [[mental]] effect, that creature takes 1 (4d6) mental damage (DC 25 basic Will save). On a critical failure, it also becomes [[confused|confused]] for 1 (1d4) rounds."
+    desc: " ([[mental]]);  Whenever a creature targets the hound with a [[mental]] effect, that creature takes 4d6 (4d6) mental damage (DC 25 basic Will save). On a critical failure, it also becomes [[confused|confused]] for 1d4 (1d4) rounds."
   - name: "Ripping Gaze"
-    desc: " ([[aura]], [[evocation]], [[occult]], [[visual]]);  30 feet. The hound of Tindalos's eyes glow balefully, causing painful but bloodless wounds to rip open in the body of a creature that meets its awful gaze. When a creature ends its turn in the aura's emanation, it takes 1 (4d6) slashing damage (DC 25 basic Fortitude save). A creature that critically succeeds at its save is temporarily immune for 24 hours."
+    desc: " ([[aura]], [[evocation]], [[occult]], [[visual]]);  30 feet. The hound of Tindalos's eyes glow balefully, causing painful but bloodless wounds to rip open in the body of a creature that meets its awful gaze. When a creature ends its turn in the aura's emanation, it takes 4d6 (4d6) slashing damage (DC 25 basic Fortitude save). A creature that critically succeeds at its save is temporarily immune for 24 hours."
   - name: "Vulnerable to Curved Space"
     desc: "  When a hound of Tindalos is not adjacent to a structural angle of 90o (or more acute), its resistance to physical damage is suppressed and it becomes [[sickened|sickened 1]]. It can't recover from this [[sickened|sickened]] condition, but the condition ends automatically once the hound is again adjacent to a suitable angle."
 abilities_bot:
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 __Damage__ 1 (2d10+7) piercing"
+    desc: "⬻ jaws +17 __Damage__ 2d10+7 (2d10+7) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 spellcasting:
   - name: "Occult Innate Spells"

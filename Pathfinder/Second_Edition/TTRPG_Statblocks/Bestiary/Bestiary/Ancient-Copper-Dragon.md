@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within reach of the copper dragon's tail uses a move action or leaves a square during a move action it's using. __Effect__  The dragon makes a tail [[Strike]] at the creature with a –2 penalty. If it hits, the dragon disrupts the triggering action."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>__Acid__ (acid, arcane, evocation); The dragon breathes acid in a 100-foot line that deals 1 (18d6) acid damage (DC 38 basic Fortitude save).</li><li>__Slowing Gas__ (arcane, transmutation); The dragon breathes a 100-foot line of slowing gas. Each creature in the area must succeed at a DC 38 Fortitude save or be [[slowed|slowed 1]] for 1 round (or [[slowed|slowed 2]] on a critical failure).</li></ul>"
+    desc: "⬺  The copper dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Acid__ (acid, arcane, evocation); The dragon breathes acid in a 100-foot line that deals 18d6 (18d6) acid damage (DC 38 basic Fortitude save).</li><li>__Slowing Gas__ (arcane, transmutation); The dragon breathes a 100-foot line of slowing gas. Each creature in the area must succeed at a DC 38 Fortitude save or be [[slowed|slowed 1]] for 1 round (or [[slowed|slowed 2]] on a critical failure).</li></ul>"
   - name: "Climb Stone"
     desc: "  The dragon's climb speed functions only when climbing stone surfaces."
   - name: "Draconic Frenzy"
@@ -67,11 +67,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +33 ([[acid]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+16) piercing plus 1 (3d8) acid"
+    desc: "⬻ jaws +33 ([[acid]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+16 (3d10+16) piercing plus 3d8 (3d8) acid"
   - name: Melee
-    desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+16) slashing"
+    desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+16 (3d10+16) slashing"
   - name: Melee
-    desc: "⬻ tail +31 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d10+14) bludgeoning"
+    desc: "⬻ tail +31 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 2d10+14 (2d10+14) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

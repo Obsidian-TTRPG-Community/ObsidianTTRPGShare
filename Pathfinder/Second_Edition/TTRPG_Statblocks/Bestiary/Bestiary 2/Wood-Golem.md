@@ -37,9 +37,9 @@ abilityMods: [5, 4, 3, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by fire (1 (4d8), 1 (2d6) from areas or [[persistent damage|persistent damage]]); healed by plant (area 1 (2d6) HP); [[slowed|slowed]] by earth."
+    desc: "  harmed by fire (4d8 (4d8), 2d6 (2d6) from areas or [[persistent damage|persistent damage]]); healed by plant (area 2d6 (2d6) HP); [[slowed|slowed]] by earth."
   - name: "Vulnerable to Shape Wood"
-    desc: "  A wood golem targeted by shape wood takes 1 (2d8) damage per spell level, with a basic Fortitude save against the caster's spell DC. On a critical failure, the golem is also [[immobilized|immobilized]] for 1 (1d4) rounds."
+    desc: "  A wood golem targeted by shape wood takes 2d8 (2d8) damage per spell level, with a basic Fortitude save against the caster's spell DC. On a critical failure, the golem is also [[immobilized|immobilized]] for 1d4 (1d4) rounds."
   - name: "Splinter"
     desc: "⬲ ([[arcane]], [[transmutation]]);  Trigger The wood golem takes physical damage; A jagged, sizable splinter of wood lances out at the golem's attacker. The golem makes a splinter [[Strike]] against an adjacent creature without triggering reactions."
 abilities_bot:
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +17 ([[magical]]); __Damage__ 1 (2d8+8) bludgeoning"
+    desc: "⬻ fist +17 ([[magical]]); __Damage__ 2d8+8 (2d8+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ splinter +16 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ 1 (2d4+8) piercing"
+    desc: "⬻ splinter +16 ([[magical]], [[range increment|range increment 30 feet]]); __Damage__ 2d4+8 (2d4+8) piercing"
 
 sourcebook: "_Bestiary 2_, page 130."
 ```

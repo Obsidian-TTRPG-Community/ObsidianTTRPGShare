@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +14 __Damage__ 1 (2d8+4) bludgeoning plus adhesive"
+    desc: "⬻ pseudopod +14 __Damage__ 2d8+4 (2d8+4) bludgeoning plus adhesive"
 
 sourcebook: "_Bestiary_, page 236."
 ```

@@ -36,7 +36,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 25."
   - name: "Tusk Sweep"
-    desc: "⬺  The anancus sweeps its long tusks back and forth, dealing 1 (4d6) bludgeoning damage to all creatures in a 15-foot cone, who must make a DC 27 basic Reflex save."
+    desc: "⬺  The anancus sweeps its long tusks back and forth, dealing 4d6 (4d6) bludgeoning damage to all creatures in a 15-foot cone, who must make a DC 27 basic Reflex save."
 
 speed: 40 feet
 
@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tusk +19 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+11) piercing"
+    desc: "⬻ tusk +19 ([[reach|reach 15 feet]]); __Damage__ 2d12+11 (2d12+11) piercing"
   - name: Melee
-    desc: "⬻ foot +17 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+9) bludgeoning"
+    desc: "⬻ foot +17 ([[reach|reach 10 feet]]); __Damage__ 2d10+9 (2d10+9) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 116."
 ```

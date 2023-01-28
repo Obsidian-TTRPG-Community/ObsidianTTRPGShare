@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+10) piercing plus Grab"
+    desc: "⬻ jaws +17 ([[reach|reach 15 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus Grab"
   - name: Melee
-    desc: "⬻ paddle +17 __Damage__ 1 (2d6+10) bludgeoning"
+    desc: "⬻ paddle +17 __Damage__ 2d6+10 (2d6+10) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 105."
 ```

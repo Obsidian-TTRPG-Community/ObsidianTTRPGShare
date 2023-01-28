@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +10 __Damage__ 1 (1d10+3) piercing"
+    desc: "⬻ beak +10 __Damage__ 1d10+3 (1d10+3) piercing"
 
 sourcebook: "_Bestiary_, page 272."
 ```

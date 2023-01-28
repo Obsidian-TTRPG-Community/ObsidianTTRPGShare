@@ -34,9 +34,9 @@ abilityMods: [9, 4, 6, -5, 6, -4]
 
 abilities_bot:
   - name: "Black Scorpion Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d12) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 1 (3d12) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 1 (4d12) poison damage, [[clumsy|clumsy 4]], and [[slowed|slowed 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 36 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d12 (2d12) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 3d12 (3d12) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 4d12 (4d12) poison damage, [[clumsy|clumsy 4]], and [[slowed|slowed 2]] (1 round)"
   - name: "Greater Constrict"
-    desc: "⬻  1 (2d12+12) bludgeoning, DC 36."
+    desc: "⬻  2d12+12 (2d12+12) bludgeoning, DC 36."
   - name: "Rapid Stinging"
     desc: "⬺  The black scorpion makes three stinger [[Strike|Strikes]], each against a different target. Its multiple attack penalty applies to each attack, but the penalty increases only after all the attacks have been made."
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pincer +30 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 1 (3d12+15) slashing plus Grab"
+    desc: "⬻ pincer +30 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 3d12+15 (3d12+15) slashing plus Grab"
   - name: Melee
-    desc: "⬻ stinger +30 ([[reach|reach 30 feet]]); __Damage__ 1 (3d8+15) piercing plus black scorpion venom"
+    desc: "⬻ stinger +30 ([[reach|reach 30 feet]]); __Damage__ 3d8+15 (3d8+15) piercing plus black scorpion venom"
 
 sourcebook: "_Bestiary 2_, page 234."
 ```

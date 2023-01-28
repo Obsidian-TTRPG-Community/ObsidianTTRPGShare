@@ -41,10 +41,10 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 20."
   - name: "Freezing Blood"
-    desc: "⬲ ([[arcane]], [[cold]]); __Trigger__ An adjacent creature deals piercing or slashing damage to the dragon. __Effect__  The dragon's blood sprays on the creature, dealing 1 (1d6) cold damage. A creature that takes cold damage in this way is [[slowed|slowed 1]] for 1 round."
+    desc: "⬲ ([[arcane]], [[cold]]); __Trigger__ An adjacent creature deals piercing or slashing damage to the dragon. __Effect__  The dragon's blood sprays on the creature, dealing 1d6 (1d6) cold damage. A creature that takes cold damage in this way is [[slowed|slowed 1]] for 1 round."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The dragon breathes a cloud of frost that deals 1 (7d6) cold damage in a 30-foot cone (DC 24 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The dragon breathes a cloud of frost that deals 7d6 (7d6) cold damage in a 30-foot cone (DC 24 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Ice Climb"
     desc: "  A white dragon can climb on ice as though it had the listed climb Speed. It ignores [[terrain|difficult terrain]] and [[terrain|greater difficult terrain]] from ice and snow and doesn't risk falling when crossing ice."
   - name: "Ground Slam"
-    desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 24 Reflex save or fall [[prone|prone]] and take 1 (2d6) bludgeoning damage. The dragon can then [[Step]]."
+    desc: "⬻  The dragon slams into the ground. It can do this if it's on the ground or Flying within 10 feet of the ground. Each creature on the ground within 10 feet must succeed at a DC 24 Reflex save or fall [[prone|prone]] and take 2d6 (2d6) bludgeoning damage. The dragon can then [[Step]]."
   - name: "Shape Ice"
     desc: "⬺ ([[arcane]], [[transmutation]], [[water]]);  The dragon reshapes a cube of ice or snow it touches, up to 10 feet across. Any creature standing atop the ice must succeed at a DC 15 Reflex save or [[Acrobatics]] check. On a failure, the creature falls [[prone|prone]] atop the ice; on a critical failure, it falls off the ice entirely and is also [[prone|prone]]."
 
@@ -69,11 +69,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 ([[cold]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+9) piercing plus 1 (1d6) cold"
+    desc: "⬻ jaws +17 ([[cold]], [[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) cold"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+9) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+9 (2d6+9) slashing"
   - name: Melee
-    desc: "⬻ tail +15 ([[reach|reach 15 feet]]); __Damage__ 1 (1d8+8) bludgeoning"
+    desc: "⬻ tail +15 ([[reach|reach 15 feet]]); __Damage__ 1d8+8 (1d8+8) bludgeoning"
 
 sourcebook: "_Bestiary_, page 113."
 ```

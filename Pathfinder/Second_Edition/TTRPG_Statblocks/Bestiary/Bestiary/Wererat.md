@@ -47,13 +47,13 @@ abilities_mid:
     desc: "⬲ __Trigger__ The wererat is targeted with a melee or ranged attack by an attacker it can see. __Effect__  The wererat gains a +2 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +10 for 1 (1d4+2) bludgeoning, or Small rat with Speed 30 feet, climb 10 feet."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +10 for 1d4+2 (1d4+2) bludgeoning, or Small rat with Speed 30 feet, climb 10 feet."
   - name: "Curse of the Werecreature"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  __Saving Throw__ 18 Fortitude."
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Sneak Attack"
-    desc: "  The wererat deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The wererat deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -68,13 +68,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+2) slashing"
+    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) slashing"
   - name: Melee
-    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1 (1d8+2) piercing plus curse of the wererat"
+    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+2 (1d8+2) piercing plus curse of the wererat"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 329."
 ```

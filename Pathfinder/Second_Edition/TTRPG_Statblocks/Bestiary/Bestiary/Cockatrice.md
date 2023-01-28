@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +13 ([[finesse]], [[magical]]); __Damage__ 1 (1d8) –2 piercing plus calcification"
+    desc: "⬻ beak +13 ([[finesse]], [[magical]]); __Damage__ 1d8 (1d8) –2 piercing plus calcification"
 
 sourcebook: "_Bestiary_, page 66."
 ```

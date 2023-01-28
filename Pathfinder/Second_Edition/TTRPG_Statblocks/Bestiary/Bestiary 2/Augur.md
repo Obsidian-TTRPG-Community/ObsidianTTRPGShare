@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ blade +8 ([[agile]], [[evil]], [[finesse]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (1d4-1) slashing plus 1 (1d4) [[persistent damage|persistent bleed]]"
+    desc: "⬻ blade +8 ([[agile]], [[evil]], [[finesse]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d4-1 (1d4-1) slashing plus 1d4 (1d4) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

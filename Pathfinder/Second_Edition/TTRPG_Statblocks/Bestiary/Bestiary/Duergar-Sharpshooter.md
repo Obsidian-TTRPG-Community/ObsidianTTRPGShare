@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ light mace +5 ([[agile]], [[finesse]], [[shove]]); __Damage__ 1 (1d4+1) bludgeoning"
+    desc: "⬻ light mace +5 ([[agile]], [[finesse]], [[shove]]); __Damage__ 1d4+1 (1d4+1) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +7 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8) piercing or bola bolt"
+    desc: "⬻ crossbow +7 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing or bola bolt"
 
 spellcasting:
   - name: "Occult Innate Spells"

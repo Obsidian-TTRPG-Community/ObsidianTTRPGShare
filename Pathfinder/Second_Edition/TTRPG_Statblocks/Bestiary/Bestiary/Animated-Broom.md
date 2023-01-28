@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bristles +6 ([[agile]], [[magical]], [[finesse]]); __Damage__ 1 (1d4) bludgeoning plus dust"
+    desc: "⬻ bristles +6 ([[agile]], [[magical]], [[finesse]]); __Damage__ 1d4 (1d4) bludgeoning plus dust"
 
 sourcebook: "_Bestiary_, page 20."
 ```

@@ -36,11 +36,11 @@ abilities_bot:
   - name: "Grab"
     desc: " "
   - name: "Pierce Armor"
-    desc: "⬻  The smilodon makes a fangs [[Strike]] against a creature it is grabbing. If the attack hits, the creature is knocked [[prone|prone]]; if the creature is wearing armor with hardness 10 or lower, the armor is [[broken|broken]]. If this [[Strike]] breaks a creature's armor or damages a creature who is unarmored or wearing [[broken|broken]] armor, the creature also takes 1 (2d6) [[persistent damage|persistent bleed damage]]. This [[Strike]] doesn't further damage armor that's already [[broken|broken]]."
+    desc: "⬻  The smilodon makes a fangs [[Strike]] against a creature it is grabbing. If the attack hits, the creature is knocked [[prone|prone]]; if the creature is wearing armor with hardness 10 or lower, the armor is [[broken|broken]]. If this [[Strike]] breaks a creature's armor or damages a creature who is unarmored or wearing [[broken|broken]] armor, the creature also takes 2d6 (2d6) [[persistent damage|persistent bleed damage]]. This [[Strike]] doesn't further damage armor that's already [[broken|broken]]."
   - name: "Pounce"
     desc: "⬻  The smilodon [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the smilodon began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
   - name: "Sneak Attack"
-    desc: "  The smilodon deals 1 (1d6) extra precision damage to creatures that are [[flat-footed|flat-footed]]."
+    desc: "  The smilodon deals 1d6 (1d6) extra precision damage to creatures that are [[flat-footed|flat-footed]]."
 
 speed: 30 feet
 
@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +16 __Damage__ 1 (2d10+6) piercing plus Grab"
+    desc: "⬻ fangs +16 __Damage__ 2d10+6 (2d10+6) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +16 ([[agile]]); __Damage__ 1 (2d8+6) slashing plus"
+    desc: "⬻ claw +16 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing plus"
 
 sourcebook: "_Bestiary_, page 53."
 ```

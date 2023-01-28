@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +15 ([[deadly|deadly d10]]); __Damage__ 1 (2d8+8) piercing"
+    desc: "⬻ jaws +15 ([[deadly|deadly d10]]); __Damage__ 2d8+8 (2d8+8) piercing"
   - name: Melee
-    desc: "⬻ foot +13 __Damage__ 1 (1d10+8) bludgeoning"
+    desc: "⬻ foot +13 __Damage__ 1d10+8 (1d10+8) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 144."
 ```

@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +20 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+11) piercing"
+    desc: "⬻ jaws +20 ([[reach|reach 10 feet]]); __Damage__ 2d12+11 (2d12+11) piercing"
   - name: Melee
-    desc: "⬻ tentacle +20 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 1 (2d8+11) slashing plus mind lash"
+    desc: "⬻ tentacle +20 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 2d8+11 (2d8+11) slashing plus mind lash"
 
 sourcebook: "_Bestiary 2_, page 118."
 ```

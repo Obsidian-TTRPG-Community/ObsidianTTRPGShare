@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ stone longsword +13 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+10) bludgeoning"
+    desc: "⬻ stone longsword +13 ([[reach|reach 10 feet]]); __Damage__ 1d8+10 (1d8+10) bludgeoning"
   - name: Melee
-    desc: "⬻ shield bash +13 __Damage__ 1 (1d6+10) bludgeoning"
+    desc: "⬻ shield bash +13 __Damage__ 1d6+10 (1d6+10) bludgeoning"
 
 sourcebook: "_Bestiary_, page 24."
 ```

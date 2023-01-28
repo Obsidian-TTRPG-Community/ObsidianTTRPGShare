@@ -40,11 +40,11 @@ abilities_mid:
     desc: "⬲ ([[divine]], [[illusion]]); __Trigger__ The hellcat begins its turn in bright light __Effect__  The hellcat becomes [[invisible|invisible]] until its no longer in bright light. If the hellcat uses a [[hostile|hostile]] action, the invisibility ends after that [[hostile|hostile]] action is completed."
 abilities_bot:
   - name: "Fearful Attack"
-    desc: "  The hellcat deals an additional 1 (1d6) precision damage to [[frightened|frightened]] creatures."
+    desc: "  The hellcat deals an additional 1d6 (1d6) precision damage to [[frightened|frightened]] creatures."
   - name: "Infernal Mindlink"
     desc: "⬻ ([[concentrate]], [[divine]], [[divination]]);  The hellcat telepathically link its senses to all other hellcats within 100 feet for 10 minutes. It loses this contact with any hellcat that moves out of a 100-foot radius. While linked to at least one ally, the hellcat can't be flanked and gains a +2 status bonus to Will saving throws."
   - name: "Menacing Growl"
-    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The hellcat produces a low growl to disorient and frighten foes. The hellcat can cause this vocalization to originate from somewhere else within 30 feet. Non-fiends in a 15-foot burst must attempt a DC 25 Will save. The hellcat can't issue another Menacing Growl for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune for 24 hours.\n__Success__ The creature is [[frightened|frightened 1]].\n__Failure__ The creature is [[frightened|frightened 2]].\n__Critical Failure__ The creature is [[frightened|frightened 4]]."
+    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]]);  The hellcat produces a low growl to disorient and frighten foes. The hellcat can cause this vocalization to originate from somewhere else within 30 feet. Non-fiends in a 15-foot burst must attempt a DC 25 Will save. The hellcat can't issue another Menacing Growl for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune for 24 hours.\n__Success__ The creature is [[frightened|frightened 1]].\n__Failure__ The creature is [[frightened|frightened 2]].\n__Critical Failure__ The creature is [[frightened|frightened 4]]."
   - name: "Pounce"
     desc: "⬻  The hellcat [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the hellcat began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the ability's [[Strike]]."
 
@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 __Damage__ 1 (2d12+7) piercing"
+    desc: "⬻ jaws +18 __Damage__ 2d12+7 (2d12+7) piercing"
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +18 ([[agile]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 sourcebook: "_Bestiary 2_, page 141."
 ```

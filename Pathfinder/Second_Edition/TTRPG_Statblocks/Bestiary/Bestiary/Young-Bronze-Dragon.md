@@ -42,7 +42,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 60-foot line that deals 1 (6d12) electricity damage (DC 28 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 60-foot line of repulsive gas. Each creature in the area must succeed at a DC 28 Will save or become [[fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"
+    desc: "⬺  The bronze dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Lightning__ (arcane, electricity, evocation); The dragon breathes lightning in a 60-foot line that deals 6d12 (6d12) electricity damage (DC 28 basic Reflex save).</li><li>__Repulsion Gas__ (abjuration, arcane, incapacitation, mental); The dragon breathes a 60-foot line of repulsive gas. Each creature in the area must succeed at a DC 28 Will save or become [[fleeing|fleeing]] from the dragon for 1 round (or 2 rounds on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[electricity]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+11) piercing plus 1 (1d12) electricity"
+    desc: "⬻ jaws +21 ([[electricity]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) piercing plus 1d12 (1d12) electricity"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]]); __Damage__ 1 (2d8+11) slashing"
+    desc: "⬻ claw +21 ([[agile]]); __Damage__ 2d8+11 (2d8+11) slashing"
   - name: Melee
-    desc: "⬻ tail +19 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+9) bludgeoning"
+    desc: "⬻ tail +19 ([[reach|reach 10 feet]]); __Damage__ 1d8+9 (1d8+9) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ chain +34 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+17) bludgeoning plus Improved"
+    desc: "⬻ chain +34 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+17 (3d10+17) bludgeoning plus Improved"
 
 sourcebook: "_Bestiary 2_, page 258."
 ```

@@ -53,13 +53,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +17 __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ spear +17 __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (1d6+8) slashing plus Grab"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1d6+8 (1d6+8) slashing plus Grab"
   - name: Ranged
-    desc: "⬻ spear +14 ([[thrown|thrown 20 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+8) piercing"
+    desc: "⬻ spear +14 ([[thrown|thrown 20 feet]], [[versatile|versatile s]]); __Damage__ 1d4+8 (1d4+8) piercing"
   - name: Ranged
-    desc: "⬻ javelin +15 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ javelin +15 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+8 (1d6+8) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"

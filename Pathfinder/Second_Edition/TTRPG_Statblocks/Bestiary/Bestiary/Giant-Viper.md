@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Coil"
     desc: "⬻  The giant viper uses an action to coil itself, increasing its reach with its fangs from 5 to 10 feet. After the giant viper [[Strike|Strikes]] with its fangs, it becomes uncoiled."
   - name: "Giant Viper Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison (1 round) __Stage 2__ 1 (1d6) poison and [[drained|drained 1]]. (null)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 1d6 (1d6) poison and [[drained|drained 1]]. (null)"
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +11 ([[finesse]]); __Damage__ 1 (1d8+3) piercing plus giant viper venom"
+    desc: "⬻ fangs +11 ([[finesse]]); __Damage__ 1d8+3 (1d8+3) piercing plus giant viper venom"
 
 sourcebook: "_Bestiary_, page 303."
 ```

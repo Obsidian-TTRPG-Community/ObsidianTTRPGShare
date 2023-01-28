@@ -44,7 +44,7 @@ abilities_top:
     desc: "+1 striking greatsword, sack with 5 rocks;"
 abilities_bot:
   - name: "Lightning"
-    desc: "⬽  Blade three (electricity, evocation, primal) The storm giant raises one hand to the sky, channeling a bolt of lightning into the blade held in the other. The giant makes a greatsword [[Strike]] with a –2 circumstance penalty against each creature within its reach. It makes only one attack roll and compares the result against each creature's AC. This [[Strike]] deals an additional 1 (3d12) electricity damage and counts as two attacks for the giant's multiple attack penalty."
+    desc: "⬽  Blade three (electricity, evocation, primal) The storm giant raises one hand to the sky, channeling a bolt of lightning into the blade held in the other. The giant makes a greatsword [[Strike]] with a –2 circumstance penalty against each creature within its reach. It makes only one attack roll and compares the result against each creature's AC. This [[Strike]] deals an additional 3d12 (3d12) electricity damage and counts as two attacks for the giant's multiple attack penalty."
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wide Swing"
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatsword +28 ([[magical]], [[reach|reach 15 feet]], [[versatile|versatile p]]); __Damage__ 1 (2d12+16) slashing plus 1 (1d6) electricity"
+    desc: "⬻ greatsword +28 ([[magical]], [[reach|reach 15 feet]], [[versatile|versatile p]]); __Damage__ 2d12+16 (2d12+16) slashing plus 1d6 (1d6) electricity"
   - name: Melee
-    desc: "⬻ fist +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+16) bludgeoning plus 1 (1d6) electricity"
+    desc: "⬻ fist +27 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus 1d6 (1d6) electricity"
   - name: Ranged
-    desc: "⬻ rock +37 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d10+16) bludgeoning"
+    desc: "⬻ rock +37 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+16 (2d10+16) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

@@ -42,7 +42,7 @@ abilities_mid:
     desc: "⬲ ([[arcane]], [[aura]], [[transmutation]], [[visual]]); __Trigger__ A creature within 30 feet that the dracolisk can see starts its turn __Effect__  The target must attempt a DC 26 Fortitude save. If it fails, it becomes [[slowed|slowed 1]] for 1 minute as its body stiffens."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]]);  The dracolisk breathes a gout of energy based on its draconic heritage, as noted below. This breath weapon deals 1 (6d10) damage of the appropriate type, with a DC 28 basic save of a type indicated in parenthesis below. The dracolisk can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]]);  The dracolisk breathes a gout of energy based on its draconic heritage, as noted below. This breath weapon deals 6d10 (6d10) damage of the appropriate type, with a DC 28 basic save of a type indicated in parenthesis below. The dracolisk can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Black"
     desc: " ([[acid]]);  60-foot line of acid (Reflex)"
   - name: "Blue"
@@ -54,9 +54,9 @@ abilities_bot:
   - name: "White"
     desc: " ([[cold]]);  30-foot cone of cold (Reflex)"
   - name: "Petrifying Gaze"
-    desc: "⬺ ([[arcane]], [[concentrate]], [[incapacitation]], [[transmutation]], [[visual]]);  The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude save. If it fails and has not already been [[slowed|slowed]] by Petrifying Glance or this ability, it becomes [[slowed|slowed 1]]. If the creature already was [[slowed|slowed]] by this ability or Petrifying Glance, a failed save causes the creature to be [[petrified|petrified]] permanently. A creature [[petrified|petrified]] in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1 (1d4+2) Medium creatures in this manner."
+    desc: "⬺ ([[arcane]], [[concentrate]], [[incapacitation]], [[transmutation]], [[visual]]);  The dracolisk stares at a creature it can see within 30 feet. That creature must attempt a DC 28 Fortitude save. If it fails and has not already been [[slowed|slowed]] by Petrifying Glance or this ability, it becomes [[slowed|slowed 1]]. If the creature already was [[slowed|slowed]] by this ability or Petrifying Glance, a failed save causes the creature to be [[petrified|petrified]] permanently. A creature [[petrified|petrified]] in this manner can be instantly restored to flesh by being coated (not just splashed) with fresh dracolisk or basilisk blood no more than 1 hour old. A single dracolisk contains enough blood to coat 1d4+2 (1d4+2) Medium creatures in this manner."
   - name: "Savage Jaws"
-    desc: "⬺  The dracolisk makes a single [[Strike]] with its jaws. If the attack hits, it deals 1 (4d12+16) piercing damage (versatile S ) This counts as two attacks for its multiple attack penalty."
+    desc: "⬺  The dracolisk makes a single [[Strike]] with its jaws. If the attack hits, it deals 4d12+16 (4d12+16) piercing damage (versatile S ) This counts as two attacks for its multiple attack penalty."
 
 speed: 20 feet, fly 40 feet
 
@@ -71,9 +71,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 __Damage__ 1 (2d12+8) piercing"
+    desc: "⬻ jaws +21 __Damage__ 2d12+8 (2d12+8) piercing"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]]); __Damage__ 1 (2d10+8) slashing"
+    desc: "⬻ claw +21 ([[agile]]); __Damage__ 2d10+8 (2d10+8) slashing"
 
 sourcebook: "_Bestiary 2_, page 35."
 ```

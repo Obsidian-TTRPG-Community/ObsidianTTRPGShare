@@ -48,13 +48,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trident +10 __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ trident +10 __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1 (1d6+4) slashing"
+    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1d6+4 (1d6+4) slashing"
   - name: Melee
-    desc: "⬻ fangs +10 __Damage__ 1 (2d4+4) piercing"
+    desc: "⬻ fangs +10 __Damage__ 2d4+4 (2d4+4) piercing"
   - name: Ranged
-    desc: "⬻ trident +7 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d8+3) piercing"
+    desc: "⬻ trident +7 ([[thrown|thrown 20 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 sourcebook: "_Bestiary_, page 12."
 ```

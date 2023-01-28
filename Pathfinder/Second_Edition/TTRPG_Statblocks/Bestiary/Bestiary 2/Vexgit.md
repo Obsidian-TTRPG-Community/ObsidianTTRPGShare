@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ maul +8 ([[shove]]); __Damage__ 1 (1d12+1) bludgeoning plus"
+    desc: "⬻ maul +8 ([[shove]]); __Damage__ 1d12+1 (1d12+1) bludgeoning plus"
 
 sourcebook: "_Bestiary 2_, page 134."
 ```

@@ -62,13 +62,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +17 ([[agile]], [[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d8+11) piercing"
+    desc: "⬻ shortsword +17 ([[agile]], [[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 1d8+11 (1d8+11) piercing"
   - name: Melee
-    desc: "⬻ fist +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d6+11) bludgeoning"
+    desc: "⬻ fist +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+11 (1d6+11) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite longbow +18 ([[deadly|deadly d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1 (1d8+8) piercing"
+    desc: "⬻ composite longbow +18 ([[deadly|deadly d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+8 (1d8+8) piercing"
   - name: Ranged
-    desc: "⬻ rock +17 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d6+11) bludgeoning"
+    desc: "⬻ rock +17 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d6+11 (2d6+11) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

@@ -46,9 +46,9 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[arcane]], [[concentrate]], [[polymorph]], [[transmutation]]);  The marid can take on the appearance of any water elemental or humanoid. This ability doesn't change the marid's Speed or its attack and damage bonuses with its [[Strike|Strikes]]."
   - name: "Rush of Water"
-    desc: "⬺ ([[arcane]], [[evocation]], [[water]]);  The marid releases a jet of water in a 60-foot line, dealing 1 (9d6) bludgeoning damage (DC 28 basic Reflex save). A creature that fails its save is also pushed 10 feet (20 feet on a critical failure). The marid can't use Rush of Water again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[water]]);  The marid releases a jet of water in a 60-foot line, dealing 9d6 (9d6) bludgeoning damage (DC 28 basic Reflex save). A creature that fails its save is also pushed 10 feet (20 feet on a critical failure). The marid can't use Rush of Water again for 1d4 (1d4) rounds."
   - name: "Skewer"
-    desc: "⬻  The marid makes a trident [[Strike]], dealing an extra 1 (2d6) [[persistent damage|persistent bleed damage]] on a hit (1 (4d6) on a critical hit)."
+    desc: "⬻  The marid makes a trident [[Strike]], dealing an extra 2d6 (2d6) [[persistent damage|persistent bleed damage]] on a hit (4d6 (4d6) on a critical hit)."
 
 speed: 20 feet, swim 40 feet
 
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trident +21 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+11) piercing"
+    desc: "⬻ trident +21 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) piercing"
   - name: Melee
-    desc: "⬻ fist +20 ([[agile]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1 (1d4+11) bludgeoning"
+    desc: "⬻ fist +20 ([[agile]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1d4+11 (1d4+11) bludgeoning"
   - name: Ranged
-    desc: "⬻ trident +21 ([[magical]], [[thrown|thrown 20 feet]]); __Damage__ 1 (2d8+11) piercing"
+    desc: "⬻ trident +21 ([[magical]], [[thrown|thrown 20 feet]]); __Damage__ 2d8+11 (2d8+11) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

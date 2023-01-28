@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +7 __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ club +7 __Damage__ 1d6+3 (1d6+3) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

@@ -39,9 +39,9 @@ abilities_top:
     desc: "  A zombie is permanently [[slowed|slowed 1]] and can't use reactions."
 abilities_bot:
   - name: "Jaws"
-    desc: "⬻ ([[attack]]); __Requirements__ The zombie has a creature [[grabbed|grabbed]] or [[restrained|restrained]].  __Effect__  The zombie makes a jaws unarmed melee [[Strike]] against the [[grabbed|grabbed]] or [[restrained|restrained]] creature with an attack modifier of +9 that deals 1 (1d12+4) piercing damage. A creature damaged by the jaws is exposed to zombie rot."
+    desc: "⬻ ([[attack]]); __Requirements__ The zombie has a creature [[grabbed|grabbed]] or [[restrained|restrained]].  __Effect__  The zombie makes a jaws unarmed melee [[Strike]] against the [[grabbed|grabbed]] or [[restrained|restrained]] creature with an attack modifier of +9 that deals 1d12+4 (1d12+4) piercing damage. A creature damaged by the jaws is exposed to zombie rot."
   - name: "Zombie Rot"
-    desc: " ([[disease]], [[necromancy]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 1 (1d6) negative damage (1 day) __Stage 3__ 1 (1d6) negative damage (1 day) __Stage 4__ 1 (1d6) negative damage ; (1 day)"
+    desc: " ([[disease]], [[necromancy]]);  __Saving Throw__ DC 18 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 1d6 (1d6) negative damage (1 day) __Stage 3__ 1d6 (1d6) negative damage (1 day) __Stage 4__ 1d6 (1d6) negative damage ; (1 day)"
 
 speed: 25 feet
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +9 __Damage__ 1 (1d8+4) bludgeoning plus Grab and zombie rot"
+    desc: "⬻ fist +9 __Damage__ 1d8+4 (1d8+4) bludgeoning plus Grab and zombie rot"
 
 sourcebook: "_Bestiary_, page 340."
 ```

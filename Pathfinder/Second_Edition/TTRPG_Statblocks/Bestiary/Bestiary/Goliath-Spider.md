@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ ([[attack]]); __Requirements__ Initiative has not yet been rolled. __Trigger__ A creature touches the hunting spider's web while the spider is on it. __Effect__  The hunting spider automatically notices the creature and [[Stride|Strides]], Climbs, or Descends on a Web before it rolls initiative."
 abilities_bot:
   - name: "Goliath Spider Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison and [[slowed|slowed 1]] (1 round) __Stage 2__ 1 (2d6) poison and [[slowed|slowed 2]] (1 round) __Stage 3__ [[paralyzed|paralyzed]] for 1 (2d4) hours. (null)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison and [[slowed|slowed 1]] (1 round) __Stage 2__ 2d6 (2d6) poison and [[slowed|slowed 2]] (1 round) __Stage 3__ [[paralyzed|paralyzed]] for 2d4 (2d4) hours. (null)"
   - name: "Web Tether"
     desc: "  A creature hit by the spider's web [[Strike]] is [[restrained|restrained]] and tethered to the spider, preventing it from moving farther away from the spider. The spider can have one creature tethered at a time. The DC to [[Escape]] or [[Force Open]] the web is 30. The tether can be severed with a [[Strike]] (AC 20, Hardness 5, HP 20), but this doesn't free the [[restrained|restrained]] creature."
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +24 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+12) piercing plus goliath spider venom"
+    desc: "⬻ fangs +24 ([[reach|reach 10 feet]]); __Damage__ 2d12+12 (2d12+12) piercing plus goliath spider venom"
   - name: Ranged
     desc: "⬻ web +22 ([[range increment|range increment 60 feet]]); __Damage__ web tether"
 

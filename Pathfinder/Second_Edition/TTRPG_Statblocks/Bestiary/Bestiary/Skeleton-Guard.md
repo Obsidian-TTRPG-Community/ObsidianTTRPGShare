@@ -48,11 +48,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +6 ([[forceful]], [[sweep]]); __Damage__ 1 (1d6+2) slashing"
+    desc: "⬻ scimitar +6 ([[forceful]], [[sweep]]); __Damage__ 1d6+2 (1d6+2) slashing"
   - name: Melee
-    desc: "⬻ claw +6 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+2) slashing"
+    desc: "⬻ claw +6 ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +6 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +6 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 298."
 ```

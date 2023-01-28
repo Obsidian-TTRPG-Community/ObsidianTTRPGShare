@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (1d8-1) piercing plus 1 (1d4) chaotic"
+    desc: "⬻ jaws +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1d8-1 (1d8-1) piercing plus 1d4 (1d4) chaotic"
   - name: Melee
-    desc: "⬻ tail +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (1d4-1) slashing plus 1 (1d4) chaotic and confounding lash"
+    desc: "⬻ tail +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1d4-1 (1d4-1) slashing plus 1d4 (1d4) chaotic and confounding lash"
 
 spellcasting:
   - name: "Divine Innate Spells"

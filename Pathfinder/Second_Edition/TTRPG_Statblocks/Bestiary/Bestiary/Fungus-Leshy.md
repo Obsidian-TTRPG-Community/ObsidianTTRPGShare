@@ -36,7 +36,7 @@ abilityMods: [2, 4, 2, -1, 2, 0]
 
 abilities_mid:
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  As leaf leshy, except only fungi are healed, they regain 1 (2d8) Hit Points, and the area sprouts fungi."
+    desc: " ([[healing]]);  As leaf leshy, except only fungi are healed, they regain 2d8 (2d8) Hit Points, and the area sprouts fungi."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As leaf leshy, except the fungus leshy transforms into a giant mushroom or patch of fungi."
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ fist +10 ([[agile]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ spore pod +10 ([[range increment|range increment 30 feet]]); __Damage__ 1 (1d6+2) bludgeoning plus spores"
+    desc: "⬻ spore pod +10 ([[range increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus spores"
 
 spellcasting:
   - name: "Primal Innate Spells"

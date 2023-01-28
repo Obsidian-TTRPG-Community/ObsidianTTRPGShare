@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flaming bastard sword +23 ([[good]], [[magical]], [[two-hand|two-hand d12]]); __Damage__ 1 (2d8+9) slashing plus 1 (1d6) fire and 1 (1d6) good"
+    desc: "⬻ flaming bastard sword +23 ([[good]], [[magical]], [[two-hand|two-hand d12]]); __Damage__ 2d8+9 (2d8+9) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

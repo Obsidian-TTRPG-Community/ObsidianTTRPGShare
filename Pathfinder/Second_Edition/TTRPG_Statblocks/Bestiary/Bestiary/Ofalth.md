@@ -40,7 +40,7 @@ abilities_mid:
     desc: "  A ofalth gains fast healing 2 when in an area with a high concentration of debris, junk, or excrement, such as a refuse heap or sewer."
 abilities_bot:
   - name: "Wretched Weeps"
-    desc: " ([[disease]]);  __Saving Throw__ DC 26 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 1 (2d8) [[persistent damage|persistent bleed damage]] every hour and [[enfeebled|enfeebled 1]] (1 day) __Stage 3__ 1 (2d8) [[persistent damage|persistent bleed damage]] every hour and [[enfeebled|enfeebled 2]] (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 26 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 2d8 (2d8) [[persistent damage|persistent bleed damage]] every hour and [[enfeebled|enfeebled 1]] (1 day) __Stage 3__ 2d8 (2d8) [[persistent damage|persistent bleed damage]] every hour and [[enfeebled|enfeebled 2]] (1 day)"
 
 speed: 30 feet
 
@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +23 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+13) bludgeoning plus wretched weeps"
+    desc: "⬻ fist +23 ([[reach|reach 10 feet]]); __Damage__ 2d12+13 (2d12+13) bludgeoning plus wretched weeps"
   - name: Ranged
-    desc: "⬻ fling offal +19 ([[range increment|range increment 30 feet]]); __Damage__ 1 (2d10+7) bludgeoning plus wretched weeps"
+    desc: "⬻ fling offal +19 ([[range increment|range increment 30 feet]]); __Damage__ 2d10+7 (2d10+7) bludgeoning plus wretched weeps"
 
 sourcebook: "_Bestiary_, page 251."
 ```

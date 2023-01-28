@@ -44,7 +44,7 @@ abilities_top:
     desc: "+1 ranseur;"
 abilities_bot:
   - name: "Force Bolt"
-    desc: "⬻ to ⬽ ([[arcane]], [[evocation]], [[force]]);  The witchwyrd fires one magic missile per action spent (dealing 1 (1d4+1) force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
+    desc: "⬻ to ⬽ ([[arcane]], [[evocation]], [[force]]);  The witchwyrd fires one magic missile per action spent (dealing 1d4+1 (1d4+1) force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
 
 speed: 25 feet
 
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ranseur +16 ([[disarm]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+6) piercing"
+    desc: "⬻ ranseur +16 ([[disarm]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1d10+6 (1d10+6) piercing"
   - name: Melee
-    desc: "⬻ fist +15 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d6+6) bludgeoning plus Grab"
+    desc: "⬻ fist +15 ([[agile]], [[nonlethal]]); __Damage__ 1d6+6 (1d6+6) bludgeoning plus Grab"
 
 spellcasting:
   - name: "Arcane Innate Spells"

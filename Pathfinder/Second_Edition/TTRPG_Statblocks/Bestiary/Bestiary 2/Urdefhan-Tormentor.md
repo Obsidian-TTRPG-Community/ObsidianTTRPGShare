@@ -36,7 +36,7 @@ abilityMods: [3, 1, 3, 2, 4, 2]
 
 abilities_mid:
   - name: "Necrotic Decay"
-    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an urdefhan dies, its [[invisible|invisible]] flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 1 (5d6) negative damage to creatures in this area as their flesh curdles and rots as well (DC 21 basic Fortitude save)."
+    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an urdefhan dies, its [[invisible|invisible]] flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 5d6 (5d6) negative damage to creatures in this area as their flesh curdles and rots as well (DC 21 basic Fortitude save)."
 abilities_top:
   - name: Items
     desc: "warhammer;"
@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ warhammer +12 ([[shove]]); __Damage__ 1 (1d8+5) bludgeoning"
+    desc: "⬻ warhammer +12 ([[shove]]); __Damage__ 1d8+5 (1d8+5) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (2d6+5) piercing plus"
+    desc: "⬻ jaws +14 __Damage__ 2d6+5 (2d6+5) piercing plus"
 
 sourcebook: "_Bestiary 2_, page 273."
 ```

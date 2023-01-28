@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Focus Gaze"
     desc: "⬻ ([[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]], [[visual]]);  The interlocutor stares at a creature they can see within 30 feet. The creature must immediately attempt a Will save against glimpse of stolen flesh. In addition, if the creature was already [[stunned|stunned]], on a failed save, it feels its internal organs twist and writhe, and is [[clumsy|clumsy 2]] for 1 minute. After attempting this save, the creature is then temporarily immune until the start of the interlocutor's next turn."
   - name: "Surgical Rend"
-    desc: "⬻  This functions as the Rend ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, [[Strike|Strikes]] against the creature deal 1 (1d6) extra precision damage."
+    desc: "⬻  This functions as the Rend ability, dealing claw damage. In addition, if the target is a living creature with organs and muscle, the interlocutor opens a precise wound. Until the creature is restored to its maximum Hit Points, thus closing the wound, [[Strike|Strikes]] against the creature deal 1d6 (1d6) extra precision damage."
 
 speed: 40 feet
 
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +25 ([[deadly|deadly 2d10]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+13) slashing plus 1 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ claw +25 ([[deadly|deadly 2d10]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+13 (3d10+13) slashing plus 2d6 (2d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

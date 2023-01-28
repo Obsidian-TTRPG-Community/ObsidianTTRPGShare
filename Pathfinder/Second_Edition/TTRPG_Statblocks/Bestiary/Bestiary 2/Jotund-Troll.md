@@ -47,7 +47,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Cacophonous Roar"
-    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[confused|confused]] for 1 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[emotion]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The jotund troll emits a cacophonous roar from all their heads with a mystical power that distorts the listener's mind. Each non-troll creature within 100 feet must attempt a DC 34 Will save. The jotund troll can't use Cacophonous Roar for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Cacophonous Roar for 24 hours.\n__Success__ The creature is [[stupefied|stupefied 1]] for 1 round.\n__Failure__ The creature is [[confused|confused]] for 1 round.\n__Critical Failure__ The creature is [[confused|confused]] for 1d4 (1d4) rounds."
   - name: "Fast Swallow"
     desc: "⬲ __Trigger__ The jotund troll Grabs a creature with their jaws __Effect__  The troll uses [[Swallow Whole]]."
   - name: "Ravenous Jaws"
@@ -55,7 +55,7 @@ abilities_bot:
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Medium, 1 (3d12+8) bludgeoning, Rupture 36."
+    desc: "⬻ ([[attack]]);  Medium, 3d12+8 (3d12+8) bludgeoning, Rupture 36."
   - name: "Throw Rock"
     desc: "⬻ "
 
@@ -72,11 +72,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +29 ([[reach|reach 15 feet]]); __Damage__ 1 (3d12+14) piercing"
+    desc: "⬻ jaws +29 ([[reach|reach 15 feet]]); __Damage__ 3d12+14 (3d12+14) piercing"
   - name: Melee
-    desc: "⬻ claw +29 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+14) slashing"
+    desc: "⬻ claw +29 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d10+14 (3d10+14) slashing"
   - name: Ranged
-    desc: "⬻ rock +30 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d12+14) bludgeoning"
+    desc: "⬻ rock +30 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d12+14 (2d12+14) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 267."
 ```

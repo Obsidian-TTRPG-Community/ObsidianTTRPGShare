@@ -37,11 +37,11 @@ abilities_bot:
   - name: "Compression"
     desc: "  A giant octopus can move through a gap at least 2 feet wide without [[Squeeze|Squeezing]], and can [[Squeeze]] through a gap at least 1 foot wide."
   - name: "Constrict"
-    desc: "⬻  1 (1d8+9) bludgeoning."
+    desc: "⬻  1d8+9 (1d8+9) bludgeoning."
   - name: "Giant Octopus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1 (2d6) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1 (2d6) poison damage, [[clumsy|clumsy 2]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d6 (2d6) poison damage, [[clumsy|clumsy 2]], and [[flat-footed|flat-footed]] (1 round)"
   - name: "Ink Cloud"
-    desc: "⬻  The octopus emits a cloud of black ink in a 30-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are [[undetected|undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute. The octopus can't use Ink Cloud again for 1 (2d6) rounds."
+    desc: "⬻  The octopus emits a cloud of black ink in a 30-foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are [[undetected|undetected]] and can't use their sense of smell. The cloud dissipates after 1 minute. The octopus can't use Ink Cloud again for 2d6 (2d6) rounds."
   - name: "Jet"
     desc: "⬺ ([[move]]);  The octopus moves up to 200 feet in a straight line through the water without triggering reactions."
   - name: "Writhing Arms"
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ arm +20 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+9) bludgeoning plus Grab"
+    desc: "⬻ arm +20 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning plus Grab"
   - name: Melee
-    desc: "⬻ beak +20 __Damage__ 1 (2d8+9) piercing plus giant octopus venom"
+    desc: "⬻ beak +20 __Damage__ 2d8+9 (2d8+9) piercing plus giant octopus venom"
 
 sourcebook: "_Bestiary_, page 250."
 ```

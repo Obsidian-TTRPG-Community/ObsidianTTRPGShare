@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature ends its movement adjacent to the viper or within the viper's space. __Effect__  The viper [[Stride|Strides]], Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
 abilities_bot:
   - name: "Viper Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d8) poison. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d8 (1d8) poison. (1 round)"
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 
@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d8-3) piercing plus viper venom"
+    desc: "⬻ fangs +8 ([[agile]], [[finesse]]); __Damage__ 1d8-3 (1d8-3) piercing plus viper venom"
 
 sourcebook: "_Bestiary_, page 302."
 ```

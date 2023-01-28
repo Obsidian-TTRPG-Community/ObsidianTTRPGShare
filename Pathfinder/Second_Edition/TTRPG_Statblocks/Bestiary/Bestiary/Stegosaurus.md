@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +18 ([[sweep]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+9) piercing"
+    desc: "⬻ tail +18 ([[sweep]], [[reach|reach 15 feet]]); __Damage__ 2d8+9 (2d8+9) piercing"
   - name: Melee
-    desc: "⬻ foot +18 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+9) bludgeoning"
+    desc: "⬻ foot +18 ([[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
 
 sourcebook: "_Bestiary_, page 98."
 ```

@@ -36,7 +36,7 @@ abilityMods: [4, 3, 2, -1, 1, 0]
 
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  A gnoll hunter deals 1 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
+    desc: "  A gnoll hunter deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
   - name: "Rugged Travel"
     desc: "  A gnoll ignores the first square of [[terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
 abilities_top:
@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ battle axe +10 ([[sweep]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ battle axe +10 ([[sweep]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ jaws +10 ([[agile]]); __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ jaws +10 ([[agile]]); __Damage__ 1d8+2 (1d8+2) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 178."
 ```

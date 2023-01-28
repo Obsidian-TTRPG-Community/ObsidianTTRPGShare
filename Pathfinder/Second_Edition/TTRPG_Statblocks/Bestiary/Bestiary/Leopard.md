@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Pounce"
     desc: "⬻  The leopard [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the leopard began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after this ability's [[Strike]]."
   - name: "Sneak Attack"
-    desc: "  The leopard deals 1 (1d4) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The leopard deals 1d4 (1d4) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 30 feet, climb 20 feet
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1 (1d10+3) piercing plus Grab"
+    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d10+3 (1d10+3) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+3) slashing"
+    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1d6+3 (1d6+3) slashing"
 
 sourcebook: "_Bestiary_, page 52."
 ```

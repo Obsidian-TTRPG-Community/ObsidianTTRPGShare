@@ -36,7 +36,7 @@ abilityMods: [7, 2, 7, 3, 3, 7]
 
 abilities_mid:
   - name: "Truth Vulnerability"
-    desc: "  A glabrezu's lies sustain them, and the truth can destroy them. Whenever a [[revelation]] effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as zone of truth), the demon takes 1 (3d6) mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
+    desc: "  A glabrezu's lies sustain them, and the truth can destroy them. Whenever a [[revelation]] effect counteracts or reveals the glabrezu's illusions or the glabrezu fails a save against an effect that would prevent them from lying (such as zone of truth), the demon takes 3d6 (3d6) mental damage. They take this damage only once per effect, even if the effect reveals multiple illusions or prevents multiple lies."
 abilities_bot:
   - name: "Captive Rake"
     desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] in the glabrezu's pincer.  __Effect__  The glabrezu pulls the [[grabbed|grabbed]] creature up to 5 feet closer, then makes two claw [[Strike|Strikes]] against it. Those [[Strike|Strikes]] count as one attack when determining a treachery demon's multiple attack penalty, and the penalty doesn't increase until after both [[Strike|Strikes]]."
@@ -62,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pincer +27 ([[deadly|deadly 2d10]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+13) bludgeoning plus 1 (1d6) evil and Grab"
+    desc: "⬻ pincer +27 ([[deadly|deadly 2d10]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+13 (3d10+13) bludgeoning plus 1d6 (1d6) evil and Grab"
   - name: Melee
-    desc: "⬻ claw +27 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d6+13) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +27 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d6+13 (3d6+13) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ jaws +27 ([[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d12+13) piercing plus 1 (1d6) evil"
+    desc: "⬻ jaws +27 ([[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d12+13 (3d12+13) piercing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"

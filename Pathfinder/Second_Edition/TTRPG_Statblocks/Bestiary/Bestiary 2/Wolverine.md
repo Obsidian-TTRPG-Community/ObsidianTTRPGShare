@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Wolverine Rage"
-    desc: "⬻ ([[concentrate]], [[emotion]], [[mental]]);  The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[unconscious|unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws [[Strike]] deals 1 (1d8+7) damage, and its claw [[Strike]] deals 1 (1d6+7) damage. While raging, the wolverine can't use actions that have the [[concentrate]] trait, except for [[Seek]]. After it's stopped raging, a wolverine can't use Wolverine [[Rage]] again for 1 minute."
+    desc: "⬻ ([[concentrate]], [[emotion]], [[mental]]);  The wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[unconscious|unconscious]], whichever comes first. While raging, the wolverine has AC 17, its jaws [[Strike]] deals 1d8+7 (1d8+7) damage, and its claw [[Strike]] deals 1d6+7 (1d6+7) damage. While raging, the wolverine can't use actions that have the [[concentrate]] trait, except for [[Seek]]. After it's stopped raging, a wolverine can't use Wolverine [[Rage]] again for 1 minute."
 
 speed: 25 feet, burrow 10 feet, climb 10 feet
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d8+5) piercing"
+    desc: "⬻ jaws +11 __Damage__ 1d8+5 (1d8+5) piercing"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d6+5) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d6+5 (1d6+5) slashing"
 
 sourcebook: "_Bestiary 2_, page 295."
 ```

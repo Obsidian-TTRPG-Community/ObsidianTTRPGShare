@@ -41,7 +41,7 @@ abilities_top:
     desc: "fish hook, oar (functions as mace);"
 abilities_bot:
   - name: "Hooked"
-    desc: "  A creature struck by the culdewen's fish hook is skewered, taking 1 (1d4) [[persistent damage|persistent bleed damage]] as long as the hook remains stuck in it. The fish hook can be removed only if a creature spends an [[Interact]] action and succeeds at a DC 25 [[Athletics]] check to pull it free."
+    desc: "  A creature struck by the culdewen's fish hook is skewered, taking 1d4 (1d4) [[persistent damage|persistent bleed damage]] as long as the hook remains stuck in it. The fish hook can be removed only if a creature spends an [[Interact]] action and succeeds at a DC 25 [[Athletics]] check to pull it free."
   - name: "Land the Fish"
     desc: "⬻ __Requirements__ A creature is hooked by the culdewen's fish hook and adjacent to the culdewen  __Effect__  The culdewen hoists the creature over their shoulder, as though it weighs no more than a fish. Unless the creature is unable to act, the culdewen must attempt an [[Athletics]] check against the creature's Fortitude DC. On a success, the creature is [[restrained|restrained]] by the culdewen. While hoisting a creature, the culdewen gains a +20-foot status bonus to their Speeds and is compelled to escape with it (see culdewen's curse above)."
   - name: "Reel In"
@@ -62,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fish hook +17 ([[trip]]); __Damage__ 1 (2d10+7) piercing plus hooked"
+    desc: "⬻ fish hook +17 ([[trip]]); __Damage__ 2d10+7 (2d10+7) piercing plus hooked"
   - name: Melee
-    desc: "⬻ oar +17 ([[shove]]); __Damage__ 1 (2d6+7) bludgeoning"
+    desc: "⬻ oar +17 ([[shove]]); __Damage__ 2d6+7 (2d6+7) bludgeoning"
   - name: Ranged
-    desc: "⬻ fish hook +18 ([[thrown|thrown 30 feet]]); __Damage__ 1 (2d10+7) piercing plus hooked"
+    desc: "⬻ fish hook +18 ([[thrown|thrown 30 feet]]); __Damage__ 2d10+7 (2d10+7) piercing plus hooked"
 
 sourcebook: "_Bestiary 2_, page 57."
 ```

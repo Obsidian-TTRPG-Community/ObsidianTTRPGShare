@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +8 __Damage__ 1 (1d6+3) piercing plus fly pox"
+    desc: "⬻ mandibles +8 __Damage__ 1d6+3 (1d6+3) piercing plus fly pox"
 
 sourcebook: "_Bestiary 2_, page 120."
 ```

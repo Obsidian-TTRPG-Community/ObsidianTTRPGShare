@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Avernal Fever"
     desc: " ([[disease]]);  __Saving Throw__ DC 23 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ [[enfeebled|enfeebled 1]] (1 day) __Stage 3__ [[enfeebled|enfeebled 2]] (1 day)"
   - name: "Infernal Wound"
-    desc: " ([[divine]], [[necromancy]]);  A bearded devil's glaive [[Strike]] also deals 1 (1d6) [[persistent damage|persistent bleed damage]] that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Administer First Aid]] to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature."
+    desc: " ([[divine]], [[necromancy]]);  A bearded devil's glaive [[Strike]] also deals 1d6 (1d6) [[persistent damage|persistent bleed damage]] that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Administer First Aid]] to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 21 counteract check or the magic fails to heal the creature."
   - name: "Reposition"
     desc: "⭓ __Trigger__ The devil hits a creature with a glaive [[Strike]]. __Effect__  The devil moves the creature 5 feet in any direction. The destination square must be within reach of the devil's glaive. This movement doesn't trigger reactions."
   - name: "Wriggling Beard"
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +15 ([[deadly|deadly 1d8]], [[evil]], [[forceful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (1d8+7) slashing plus 1 (2d6) evil and infernal wound"
+    desc: "⬻ glaive +15 ([[deadly|deadly 1d8]], [[evil]], [[forceful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1d8+7 (1d8+7) slashing plus 2d6 (2d6) evil and infernal wound"
   - name: Melee
-    desc: "⬻ claw +15 ([[agile]], [[evil]], [[magical]]); __Damage__ 1 (2d6+7) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +15 ([[agile]], [[evil]], [[magical]]); __Damage__ 2d6+7 (2d6+7) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ beard +15 ([[magical]]); __Damage__ 1 (1d6+7) piercing plus Avernal fever"
+    desc: "⬻ beard +15 ([[magical]]); __Damage__ 1d6+7 (1d6+7) piercing plus Avernal fever"
 
 spellcasting:
   - name: "Divine Innate Spells"

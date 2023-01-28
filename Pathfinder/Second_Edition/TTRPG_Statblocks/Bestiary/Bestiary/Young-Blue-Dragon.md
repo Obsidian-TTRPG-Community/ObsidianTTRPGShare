@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 1 (5d12) electricity damage in an 80-foot line (DC 28 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 5d12 (5d12) electricity damage in an 80-foot line (DC 28 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Desert Thirst"
     desc: " ([[arcane]], [[transmutation]]);  When casting create water, the dragon can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 26 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body."
   - name: "Draconic Frenzy"
@@ -65,13 +65,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[electricity]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+11) piercing plus 1 (1d12) electricity"
+    desc: "⬻ jaws +21 ([[electricity]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) piercing plus 1d12 (1d12) electricity"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]]); __Damage__ 1 (2d8+11) slashing"
+    desc: "⬻ claw +21 ([[agile]]); __Damage__ 2d8+11 (2d8+11) slashing"
   - name: Melee
-    desc: "⬻ tail +19 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+9) bludgeoning"
+    desc: "⬻ tail +19 ([[reach|reach 15 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning"
   - name: Melee
-    desc: "⬻ horns +19 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+9) piercing"
+    desc: "⬻ horns +19 ([[reach|reach 10 feet]]); __Damage__ 1d8+9 (1d8+9) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

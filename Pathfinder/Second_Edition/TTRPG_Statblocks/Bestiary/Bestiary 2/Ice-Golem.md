@@ -38,16 +38,16 @@ abilityMods: [5, 0, 4, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by fire (1 (4d6), 1 (1d10) from areas or [[persistent damage|persistent damage]]); healed by cold (area 1 (1d6) HP); [[slowed|slowed]] by water."
+    desc: "  harmed by fire (4d6 (4d6), 1d10 (1d10) from areas or [[persistent damage|persistent damage]]); healed by cold (area 1d6 (1d6) HP); [[slowed|slowed]] by water."
   - name: "Icy Demise"
-    desc: " ([[arcane]], [[cold]], [[evocation]]);  When an ice golem is destroyed, its body explodes in a blast of frigid air and razor-sharp ice, dealing 1 (2d6) slashing damage and 1 (2d6) cold damage to creatures in a 20-foot emanation, with a DC 19 basic Reflex save."
+    desc: " ([[arcane]], [[cold]], [[evocation]]);  When an ice golem is destroyed, its body explodes in a blast of frigid air and razor-sharp ice, dealing 2d6 (2d6) slashing damage and 2d6 (2d6) cold damage to creatures in a 20-foot emanation, with a DC 19 basic Reflex save."
   - name: "Vulnerable to Endure Elements"
     desc: "  An ice golem can be targeted with endure elements even if it's not willing. If it is targeted, for 1 round it can't use Breath Weapon or benefit from creeping cold, and its fist attack doesn't deal cold damage."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The ice golem exhales a blast of freezing mist that deals 1 (6d6) cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[cold]], [[evocation]]);  The ice golem exhales a blast of freezing mist that deals 6d6 (6d6) cold damage in a 30-foot cone (DC 22 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Creeping Cold"
-    desc: " ([[arcane]], [[cold]], [[evocation]]);  When the ice golem gets a critical hit with a fist [[Strike]], the target also takes 1 (2d6) [[persistent damage|persistent cold damage]] and is [[slowed|slowed 1]] for 1 round."
+    desc: " ([[arcane]], [[cold]], [[evocation]]);  When the ice golem gets a critical hit with a fist [[Strike]], the target also takes 2d6 (2d6) [[persistent damage|persistent cold damage]] and is [[slowed|slowed 1]] for 1 round."
 
 speed: 25 feet
 
@@ -62,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +15 ([[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d6+7) bludgeoning plus 1 (1d6) cold"
+    desc: "⬻ fist +15 ([[magical]], [[versatile|versatile p]]); __Damage__ 2d6+7 (2d6+7) bludgeoning plus 1d6 (1d6) cold"
 
 sourcebook: "_Bestiary 2_, page 129."
 ```

@@ -36,10 +36,10 @@ abilityMods: [4, 4, 2, -3, 2, -2]
 
 abilities_mid:
   - name: "Cinder Dispersal"
-    desc: "⬲ ([[fire]], [[primal]], [[transmutation]]); __Frequency__ once per day __Trigger__ The elananx takes damage from a [[hostile|hostile]] source. __Effect__  The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[concealed|concealed]], and any creature ending its turn there takes 1 (2d6) fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx [[Strike|Strikes]] a creature using its first action after returning to its normal form, the target is [[flat-footed|flat-footed]] and the [[Strike]] deals an extra 1 (1d6) fire damage."
+    desc: "⬲ ([[fire]], [[primal]], [[transmutation]]); __Frequency__ once per day __Trigger__ The elananx takes damage from a [[hostile|hostile]] source. __Effect__  The elananx disperses into a cloud of smoke and cinders, filling its space and a 20-foot emanation. While in this form, the elananx can't be attacked or targeted, and it doesn't take up space. Anything inside this cloud is [[concealed|concealed]], and any creature ending its turn there takes 2d6 (2d6) fire damage. At the start of its turn, the elananx returns to its normal form in any square the cloud covered. If the elananx [[Strike|Strikes]] a creature using its first action after returning to its normal form, the target is [[flat-footed|flat-footed]] and the [[Strike]] deals an extra 1d6 (1d6) fire damage."
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  The elananx's [[Strike|Strikes]] deal an extra 1 (1d6) damage to creatures within the reach of at least two of its allies."
+    desc: "  The elananx's [[Strike|Strikes]] deal an extra 1d6 (1d6) damage to creatures within the reach of at least two of its allies."
   - name: "Pounce"
     desc: "⬻  The elananx [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the elananx began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the attack."
   - name: "Elemental, Air"
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +16 ([[magical]]); __Damage__ 1 (2d6+8) piercing and 1 (1d6) fire"
+    desc: "⬻ jaws +16 ([[magical]]); __Damage__ 2d6+8 (2d6+8) piercing and 1d6 (1d6) fire"
   - name: Melee
-    desc: "⬻ claw +16 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +16 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
 
 sourcebook: "_Bestiary_, page 143."
 ```

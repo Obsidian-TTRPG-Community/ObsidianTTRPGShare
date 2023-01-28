@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ fist +10 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"

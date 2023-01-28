@@ -39,10 +39,10 @@ abilities_top:
     desc: " ([[divination]], [[divine]]);  A skulltaker taps into the memories of the creatures whose bones make up its body. This gives it the [[Lore|Skeletal Lore]] skill, which it can use to [[Recall Knowledge]] of any kind. In addition, it can speak and understand all the languages known by the creatures whose bones make up its body (typically including Common and the regional language of the skulltakerʼs home region). The skulltaker can use [[Lore|Skeletal Lore]] as the primary skill check for the legend lore ritual (Core Rulebook 413), and it can cast legend lore without secondary casters."
 abilities_mid:
   - name: "Shard Storm"
-    desc: " ([[air]], [[aura]], [[divine]], [[necromancy]]);  10 feet. A cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm attempts to counteract any death ward effect on the creature (+30 counteract modifier) and then deals 1 (4d6) slashing damage and 1 (4d6) negative damage to the creature, with a DC 40 basic Reflex save."
+    desc: " ([[air]], [[aura]], [[divine]], [[necromancy]]);  10 feet. A cloud of bone shards surrounds the skulltaker. When a creature moves into the emanation or begins its turn there, shard storm attempts to counteract any death ward effect on the creature (+30 counteract modifier) and then deals 4d6 (4d6) slashing damage and 4d6 (4d6) negative damage to the creature, with a DC 40 basic Reflex save."
 abilities_bot:
   - name: "Bonetaker"
-    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal champion]] in 1 (1d4) rounds. These skeletal champions are [[controlled|controlled]] by the skulltaker."
+    desc: " ([[divine]], [[necromancy]]);  Whenever a creature dies within 60 feet of a skulltaker, the skulltaker draws a portion of the creature's bones into its shard storm. The creature must succeed at a DC 40 Will save or rise as a [[skeletal champion]] in 1d4 (1d4) rounds. These skeletal champions are [[controlled|controlled]] by the skulltaker."
   - name: "Energy Drain"
     desc: " ([[divine]], [[necromancy]]);  When a skulltaker hits with a melee [[Strike]], the target must succeed at a DC 40 Fortitude save or become [[drained|drained 2]] and [[doomed|doomed 1]]."
   - name: "Splintered Ground"
@@ -61,11 +61,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +35 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+14) piercing plus 1 (3d6) negative and energy drain"
+    desc: "⬻ jaws +35 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+14 (3d10+14) piercing plus 3d6 (3d6) negative and energy drain"
   - name: Melee
-    desc: "⬻ claw +35 ([[agile]], [[deadly|deadly 2d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d6+14) slashing plus 1 (3d6) negative and energy drain"
+    desc: "⬻ claw +35 ([[agile]], [[deadly|deadly 2d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d6+14 (3d6+14) slashing plus 3d6 (3d6) negative and energy drain"
   - name: Ranged
-    desc: "⬻ bone javelin +33 ([[magical]], [[thrown|thrown 100 feet]]); __Damage__ 1 (3d8+6) piercing plus 1 (3d6) negative"
+    desc: "⬻ bone javelin +33 ([[magical]], [[thrown|thrown 100 feet]]); __Damage__ 3d8+6 (3d8+6) piercing plus 3d6 (3d6) negative"
 
 spellcasting:
   - name: "Divine Innate Spells"

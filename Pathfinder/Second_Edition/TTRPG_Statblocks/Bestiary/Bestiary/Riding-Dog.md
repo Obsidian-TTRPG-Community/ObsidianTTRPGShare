@@ -37,7 +37,7 @@ abilities_mid:
     desc: "⬲  DC 17."
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  The dog's [[Strike|Strikes]] deal 1 (1d4) extra damage to creatures within the reach of at least two of the dog's allies."
+    desc: "  The dog's [[Strike|Strikes]] deal 1d4 (1d4) extra damage to creatures within the reach of at least two of the dog's allies."
 
 speed: 35 feet
 

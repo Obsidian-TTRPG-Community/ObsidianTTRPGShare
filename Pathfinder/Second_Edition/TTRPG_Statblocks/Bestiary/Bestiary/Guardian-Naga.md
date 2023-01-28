@@ -36,7 +36,7 @@ abilityMods: [5, 6, 5, 3, 5, 4]
 
 abilities_bot:
   - name: "Guardian Naga Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (3d6) poison (1 round) __Stage 2__ 1 (3d6) poison and [[drained|drained 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) poison (1 round) __Stage 2__ 3d6 (3d6) poison and [[drained|drained 1]] (1 round)"
 
 speed: 25 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +22 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+8) piercing plus guardian naga venom"
+    desc: "⬻ fangs +22 ([[agile]], [[finesse]]); __Damage__ 2d8+8 (2d8+8) piercing plus guardian naga venom"
   - name: Ranged
     desc: "⬻ spit +22 ([[agile]], [[poison]], [[range increment|range increment 30 feet]]); __Damage__ guardian naga venom"
 

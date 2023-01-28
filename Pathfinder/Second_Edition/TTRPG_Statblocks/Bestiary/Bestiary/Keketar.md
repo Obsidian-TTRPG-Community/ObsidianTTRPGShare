@@ -41,14 +41,14 @@ abilities_mid:
   - name: "Protean Anatomy"
     desc: " ([[divine]], [[transmutation]]);  A voidworm's vital organs shift and change shape and position constantly. Immediately after the voidworm takes acid, electricity, or sonic damage, it gains the listed amount of resistance to that damage type. This lasts for 1 hour or until the next time the protean takes damage of one of the other types (in which case its resistance changes to match that type), whichever comes first. The voidworm is immune to [[polymorph]] effects unless it is a willing target. If [[blinded|blinded]] or [[deafened|deafened]], the voidworm automatically recovers at the end of its next turn as new sensory organs grow to replace the compromised ones."
   - name: "Spatial Riptide"
-    desc: " ([[aura]], [[divine]], [[transmutation]]);  30 feet. A creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 38 Fortitude save or wink out of existence for 1 (1d4) rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[stunned|stunned 1]]. Keketars are immune to this effect."
+    desc: " ([[aura]], [[divine]], [[transmutation]]);  30 feet. A creature using a teleportation ability within the aura or arriving in it via teleportation must succeed at a DC 38 Fortitude save or wink out of existence for 1d4 (1d4) rounds before completing the teleport. The creature can't act, sense anything, or be targeted. On a successful save, the creature completes the teleport normally but is [[stunned|stunned 1]]. Keketars are immune to this effect."
   - name: "Attack of Opportunity"
     desc: "⬲ "
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The keketar can take the appearance of any Huge or smaller creature. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]], but might change the damage type its [[Strike|Strikes]] deal."
   - name: "Constrict"
-    desc: "⬻  1 (1d10+15) bludgeoning, DC 42."
+    desc: "⬻  1d10+15 (1d10+15) bludgeoning, DC 42."
   - name: "Reshape Reality"
     desc: " ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  When the keketar casts hallucinatory terrain, it infuses the illusion with quasi-real substance. Creatures that do not [[2|disbelieving illusions|0|disbelieve the illusion]] treat structures and terrain created through the spell as though they were real, ascending illusory stairs, becoming trapped by illusory quicksand, and so on."
   - name: "Warpwave Strike"
@@ -67,11 +67,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +33 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+15) piercing plus 1 (1d6) chaotic and warpwave strike"
+    desc: "⬻ jaws +33 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+15 (3d10+15) piercing plus 1d6 (1d6) chaotic and warpwave strike"
   - name: Melee
-    desc: "⬻ claw +33 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+15) slashing plus 1 (1d6) chaotic and warpwave strike"
+    desc: "⬻ claw +33 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+15 (2d10+15) slashing plus 1d6 (1d6) chaotic and warpwave strike"
   - name: Melee
-    desc: "⬻ tail +33 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+15) bludgeoning plus Grab"
+    desc: "⬻ tail +33 ([[reach|reach 15 feet]]); __Damage__ 2d10+15 (2d10+15) bludgeoning plus Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"

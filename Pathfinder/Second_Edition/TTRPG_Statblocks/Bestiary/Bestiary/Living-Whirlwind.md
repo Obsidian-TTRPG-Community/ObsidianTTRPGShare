@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ gust +14 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+7) bludgeoning plus Push 5 feet"
+    desc: "⬻ gust +14 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d6+7 (2d6+7) bludgeoning plus Push 5 feet"
 
 sourcebook: "_Bestiary_, page 144."
 ```

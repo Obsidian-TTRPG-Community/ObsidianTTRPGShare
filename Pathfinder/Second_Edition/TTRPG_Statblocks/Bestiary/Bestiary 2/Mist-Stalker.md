@@ -42,7 +42,7 @@ abilities_top:
     desc: "  The mist stalker ignores the [[concealed|concealed]] condition from mist and fog."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8+4) bludgeoning, DC 21."
+    desc: "⬻  1d8+4 (1d8+4) bludgeoning, DC 21."
   - name: "Solidify Mist"
     desc: "⬻ ([[primal]], [[transmutation]], [[water]]);  The mist stalker makes its mist cloud congeal, causing the aura to be [[terrain|difficult terrain]] until the start of the mist stalker's next turn. In addition, the mist stalker can make the mist even thicker around a single Medium or smaller creature within the cloud. The creature must succeed at a DC 20 Reflex save or become [[immobilized|immobilized]] until it [[Escape|Escapes]] or it is no longer in the mist cloud's emanation."
 
@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +14 ([[finesse]], [[sweep]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+4) bludgeoning plus Grab"
+    desc: "⬻ tentacle +14 ([[finesse]], [[sweep]], [[reach|reach 10 feet]]); __Damage__ 2d8+4 (2d8+4) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary 2_, page 114."
 ```

@@ -66,9 +66,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +20 ([[magical]]); __Damage__ 1 (2d8+8) piercing plus 1 (1d6) evil and Abyssal plague"
+    desc: "⬻ jaws +20 ([[magical]]); __Damage__ 2d8+8 (2d8+8) piercing plus 1d6 (1d6) evil and Abyssal plague"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]], [[magical]]); __Damage__ 1 (2d10+8) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +20 ([[agile]], [[magical]]); __Damage__ 2d10+8 (2d10+8) slashing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Occult Innate Spells"

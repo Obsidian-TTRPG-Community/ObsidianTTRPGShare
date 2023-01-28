@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flail +16 ([[disarm]], [[reach|reach 10 feet]], [[sweep]], [[trip]]); __Damage__ 1 (2d6+10) bludgeoning"
+    desc: "⬻ flail +16 ([[disarm]], [[reach|reach 10 feet]], [[sweep]], [[trip]]); __Damage__ 2d6+10 (2d6+10) bludgeoning"
   - name: Melee
-    desc: "⬻ fist +16 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d6+10) bludgeoning"
+    desc: "⬻ fist +16 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+10 (1d6+10) bludgeoning"
 
 sourcebook: "_Bestiary_, page 156."
 ```

@@ -50,9 +50,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +7 ([[finesse]]); __Damage__ 1 (1d8) piercing"
+    desc: "⬻ beak +7 ([[finesse]]); __Damage__ 1d8 (1d8) piercing"
   - name: Melee
-    desc: "⬻ tentacles +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6) bludgeoning"
+    desc: "⬻ tentacles +7 ([[agile]], [[finesse]]); __Damage__ 1d6 (1d6) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 254."
 ```

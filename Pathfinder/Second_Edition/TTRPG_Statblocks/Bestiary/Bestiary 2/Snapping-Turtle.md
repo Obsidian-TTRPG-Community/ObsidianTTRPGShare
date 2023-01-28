@@ -37,7 +37,7 @@ abilities_top:
     desc: "  The snapping turtle can hold its breath for 30 minutes."
 abilities_bot:
   - name: "Clench Jaws"
-    desc: "⬻ __Requirements__ The snapping turtle damaged a creature with a jaws  __Effect__  [[Strike]] in its previous action; The snapping turtle clenches its jaws down and automatically deals an additional 1 (1d4) bludgeoning damage to the creature it just bit."
+    desc: "⬻ __Requirements__ The snapping turtle damaged a creature with a jaws  __Effect__  [[Strike]] in its previous action; The snapping turtle clenches its jaws down and automatically deals an additional 1d4 (1d4) bludgeoning damage to the creature it just bit."
   - name: "Shell Defense"
     desc: "⬻  The snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 18, but it can't act except to reemerge, which it can do as a single action."
 

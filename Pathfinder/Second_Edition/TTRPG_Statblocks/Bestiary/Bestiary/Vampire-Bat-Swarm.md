@@ -38,7 +38,7 @@ abilities_top:
     desc: "  A bat swarm can use its hearing as a precise sense at the listed range."
 abilities_bot:
   - name: "Blood Feast"
-    desc: "⬻  Each enemy in the bat swarm's space takes 1 (1d4) piercing damage (DC 16 basic Reflex save). Creatures that fail this save also take 1 [[persistent damage|persistent bleed damage]]."
+    desc: "⬻  Each enemy in the bat swarm's space takes 1d4 (1d4) piercing damage (DC 16 basic Reflex save). Creatures that fail this save also take 1 [[persistent damage|persistent bleed damage]]."
 
 speed: 5 feet, fly 30 feet
 

@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +37 ([[deadly|deadly d8]], [[evil]], [[forceful]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+17) slashing plus 1 (2d6) evil and 1 (4d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ glaive +37 ([[deadly|deadly d8]], [[evil]], [[forceful]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+17 (3d8+17) slashing plus 2d6 (2d6) evil and 4d6 (4d6) [[persistent damage|persistent bleed]]"
   - name: Ranged
-    desc: "⬻ hurled weapon +35 ([[deadly|deadly 1d10]], [[evil]], [[magical]], [[propulsive]], [[range|range 120 feet]]); __Damage__ 1 (2d10+12) piercing plus 1 (1d6) evil and 1 (4d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ hurled weapon +35 ([[deadly|deadly 1d10]], [[evil]], [[magical]], [[propulsive]], [[range|range 120 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus 1d6 (1d6) evil and 4d6 (4d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

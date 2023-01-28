@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +8 ([[agile]], [[finesse]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ dagger +8 ([[agile]], [[finesse]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ lesser alchemist's fire +8 ([[range increment|range increment 30 feet]]); __Damage__ 1 (1d8) fire plus 1 [[persistent damage|persistent fire damage]] and 1 fire splash damage"
+    desc: "⬻ lesser alchemist's fire +8 ([[range increment|range increment 30 feet]]); __Damage__ 1d8 (1d8) fire plus 1 [[persistent damage|persistent fire damage]] and 1 fire splash damage"
 
 sourcebook: "_Bestiary 2_, page 200."
 ```

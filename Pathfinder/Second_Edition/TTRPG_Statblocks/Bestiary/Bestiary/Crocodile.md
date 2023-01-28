@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 __Damage__ 1 (1d10+4) piercing plus Grab"
+    desc: "⬻ jaws +10 __Damage__ 1d10+4 (1d10+4) piercing plus Grab"
   - name: Melee
-    desc: "⬻ tail +10 ([[agile]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ tail +10 ([[agile]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 67."
 ```

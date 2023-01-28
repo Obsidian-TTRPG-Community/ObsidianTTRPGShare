@@ -38,7 +38,7 @@ abilityMods: [0, 4, 0, -2, 0, 2]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[cold]]);  The ice mephit breathes shards of ice in a 15-foot cone that deals 1 (1d6) cold damage and 1 (1d6) piercing damage to each creature within the area (DC 17 basic Reflex save). The ice mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[cold]]);  The ice mephit breathes shards of ice in a 15-foot cone that deals 1d6 (1d6) cold damage and 1d6 (1d6) piercing damage to each creature within the area (DC 17 basic Reflex save). The ice mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, fly 25 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +9 ([[agile]], [[finesse]]); __Damage__ 1 (1d4) slashing and 1 (1d4) cold"
+    desc: "⬻ claw +9 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) slashing and 1d4 (1d4) cold"
 
 sourcebook: "_Bestiary 2_, page 112."
 ```

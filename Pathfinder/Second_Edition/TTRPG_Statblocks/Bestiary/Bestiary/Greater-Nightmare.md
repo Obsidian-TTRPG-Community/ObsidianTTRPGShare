@@ -40,7 +40,7 @@ abilities_top:
     desc: " ([[aura]]);  20 feet. The nightmare continually exhales black smoke that creates concealment in an aura around it. Nightmares and their riders can see through this smoke. A creature that begins its turn in the area becomes [[sickened|sickened 2]] (DC 28 Fortitude negates) and is then temporarily immune sickness from the smoke for 1 minute. The nightmare, its rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's [[sickened|sickened]] effect but not the concealment."
 abilities_bot:
   - name: "Flaming Gallop"
-    desc: "⬺ ([[fire]]);  The nightmare [[Stride|Strides]] or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 1 (6d6) fire damage (DC 30 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop."
+    desc: "⬺ ([[fire]]);  The nightmare [[Stride|Strides]] or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6 (6d6) fire damage (DC 30 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop."
   - name: "Trample"
     desc: "⬽  Large or smaller, hoof, DC 30."
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +24 ([[evil]], [[magical]]); __Damage__ 1 (2d10+11) piercing plus 1 (1d6) evil"
+    desc: "⬻ jaws +24 ([[evil]], [[magical]]); __Damage__ 2d10+11 (2d10+11) piercing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ hoof +24 ([[agile]], [[evil]], [[fire]], [[magical]]); __Damage__ 1 (1d8+11) bludgeoning plus 1 (1d6) evil and 1 (2d8) fire"
+    desc: "⬻ hoof +24 ([[agile]], [[evil]], [[fire]], [[magical]]); __Damage__ 1d8+11 (1d8+11) bludgeoning plus 1d6 (1d6) evil and 2d8 (2d8) fire"
 
 spellcasting:
   - name: "Divine Innate Spells"

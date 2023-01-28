@@ -35,7 +35,7 @@ abilityMods: [7, 4, 4, -4, 4, 0]
 
 abilities_bot:
   - name: "Gouging Lunge"
-    desc: "⬺  The iguanodon makes a thumb spike [[Strike]] at an adjacent foe and then [[Stride|Strides]] up to 15 feet, dragging its thumb spike across the foe to gouge out a brutal wound. If this [[Strike]] hits, it deals an extra 1 (1d8) points of slashing damage and the following [[Stride]] does not trigger reactions from the creature struck. This thumb spike [[Strike]] counts as two attacks when calculating the iguanodon's multiple attack penalty."
+    desc: "⬺  The iguanodon makes a thumb spike [[Strike]] at an adjacent foe and then [[Stride|Strides]] up to 15 feet, dragging its thumb spike across the foe to gouge out a brutal wound. If this [[Strike]] hits, it deals an extra 1d8 (1d8) points of slashing damage and the following [[Stride]] does not trigger reactions from the creature struck. This thumb spike [[Strike]] counts as two attacks when calculating the iguanodon's multiple attack penalty."
 
 speed: 25 feet
 
@@ -50,9 +50,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ thumb spike +17 ([[deadly|deadly d10]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+9) piercing"
+    desc: "⬻ thumb spike +17 ([[deadly|deadly d10]], [[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) piercing"
   - name: Melee
-    desc: "⬻ tail +15 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+9) bludgeoning"
+    desc: "⬻ tail +15 ([[reach|reach 15 feet]]); __Damage__ 2d10+9 (2d10+9) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 82."
 ```

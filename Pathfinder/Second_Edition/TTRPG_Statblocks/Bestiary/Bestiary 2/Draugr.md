@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +10 ([[sweep]]); __Damage__ 1 (1d12+4) slashing plus grotesque gift"
+    desc: "⬻ greataxe +10 ([[sweep]]); __Damage__ 1d12+4 (1d12+4) slashing plus grotesque gift"
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]]); __Damage__ 1 (1d4+4) slashing plus grotesque gift"
+    desc: "⬻ fist +10 ([[agile]]); __Damage__ 1d4+4 (1d4+4) slashing plus grotesque gift"
 
 sourcebook: "_Bestiary 2_, page 102."
 ```

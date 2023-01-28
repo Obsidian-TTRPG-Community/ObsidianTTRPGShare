@@ -64,9 +64,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +12 ([[agile]], [[finesse]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ fangs +12 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +12 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ hand crossbow +12 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
   - name: Ranged
     desc: "⬻ alchemical bomb +13 ([[range increment|range increment 20 feet]], [[splash]]); __Damage__ varies by bomb"
 

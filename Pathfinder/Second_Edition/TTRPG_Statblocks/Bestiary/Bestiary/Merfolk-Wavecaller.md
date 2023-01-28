@@ -37,7 +37,7 @@ abilityMods: [3, 2, 1, 0, 4, 2]
 
 abilities_bot:
   - name: "Hydraulic Asphyxiation"
-    desc: "⬻ ([[divine]], [[evocation]], [[water]]); __Requirements__ The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.  __Effect__  The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become [[immobilized|immobilized]] for 1 round and immediately lose 1 (1d4) actions' worth of air (or twice that on a critical failure)."
+    desc: "⬻ ([[divine]], [[evocation]], [[water]]); __Requirements__ The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.  __Effect__  The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become [[immobilized|immobilized]] for 1 round and immediately lose 1d4 (1d4) actions' worth of air (or twice that on a critical failure)."
 abilities_top:
   - name: Items
     desc: "dagger;"
@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +9 ([[agile]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
   - name: Ranged
-    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
 
 spellcasting:
   - name: "Primal Prepared Spells"

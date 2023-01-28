@@ -44,7 +44,7 @@ abilities_top:
     desc: "[[aklys]], [[giant centipede venom]] (4 doses), [[hand crossbow]] (20 [[bolt|bolts]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A dero stalker deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A dero stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 20 feet
 
@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aklys +8 ([[trip]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ aklys +8 ([[trip]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]; page 85); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]; page 85); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing plus giant centipede venom"
+    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus giant centipede venom"
 
 spellcasting:
   - name: "Occult Innate Spells"

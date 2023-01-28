@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +19 ([[forceful +2]], [[sweep]]); __Damage__ 1 (2d6+10) slashing"
+    desc: "⬻ scimitar +19 ([[forceful +2]], [[sweep]]); __Damage__ 2d6+10 (2d6+10) slashing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"

@@ -36,7 +36,7 @@ abilityMods: [3, 5, 3, 0, 2, 3]
 
 abilities_bot:
   - name: "Jaunt"
-    desc: "⬻ ([[conjuration]], [[move]], [[primal]], [[teleportation]]);  The poracha teleports up to 40 feet. It must have line of sight to the space it teleports to. It can't use Jaunt again for 1 (1d4) rounds."
+    desc: "⬻ ([[conjuration]], [[move]], [[primal]], [[teleportation]]);  The poracha teleports up to 40 feet. It must have line of sight to the space it teleports to. It can't use Jaunt again for 1d4 (1d4) rounds."
   - name: "Object Meld"
     desc: "⬺ ([[primal]], [[transmutation]]);  The poracha touches an adjacent object of enough volume to contain it. It merges into the object indefinitely, and while it's inside, time moves exceptionally slowly for it and it has only limited perception of the outside world. The poracha can sense what's going on outside the object only using [[tremorsense]]. The poracha can use only mental actions or Jaunt; if it Jaunts, it leaves the object and appears where it chooses. If a creature [[Strike|Strikes]] the object, the poracha is expelled unharmed."
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 ([[finesse]], [[magical]]); __Damage__ 1 (2d6+7) piercing"
+    desc: "⬻ jaws +13 ([[finesse]], [[magical]]); __Damage__ 2d6+7 (2d6+7) piercing"
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d4+7) slashing"
+    desc: "⬻ claw +13 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d4+7 (2d4+7) slashing"
 
 sourcebook: "_Bestiary_, page 265."
 ```

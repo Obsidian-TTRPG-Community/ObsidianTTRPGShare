@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Hidden Movement"
     desc: "  If a xulgath skulker starts its turn [[undetected|undetected]] by a creature or merely [[hidden|hidden]] from it, that creature is [[flat-footed|flat-footed]] against the skulker's attacks until the end of the skulker's turn."
   - name: "Sneak Attack"
-    desc: "  A xulgath skulker deals an additional 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A xulgath skulker deals an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -61,13 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
   - name: Melee
-    desc: "⬻ jaws +9 __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ jaws +9 __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+3) slashing"
+    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1d4+3 (1d4+3) slashing"
   - name: Ranged
-    desc: "⬻ dagger +10 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +10 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
 
 sourcebook: "_Bestiary_, page 337."
 ```

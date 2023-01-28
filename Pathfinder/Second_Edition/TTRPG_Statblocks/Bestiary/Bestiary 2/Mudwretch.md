@@ -43,13 +43,13 @@ abilities_mid:
     desc: "  If a mudwretch takes any damage from horrid wilting or a similar effect, takes 10 or more fire damage from a single effect, or spends more than 24 hours outside of a source of sufficient hydration (such as a swamp, river, well, or recent rainfall), it becomes dehydrated. While dehydrated, the mudwretch can't Spew Mud, is [[sickened|sickened 2]], and is [[slowed|slowed 1]] until it either fully immerses in water, spends 1 minute in the rain, or rehydrates in another way (such as via Gory Hydration)."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8+2) bludgeoning, DC 18."
+    desc: "⬻  1d8+2 (1d8+2) bludgeoning, DC 18."
   - name: "Gory Hydration"
-    desc: "⬲ __Requirements__ The mudwretch is dehydrated __Trigger__ The mudwretch deals Constrict damage to a living creature that has blood __Effect__  The mudwretch squeezes harder, dealing 1 (1d6) [[persistent damage|persistent bleed damage]] to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated."
+    desc: "⬲ __Requirements__ The mudwretch is dehydrated __Trigger__ The mudwretch deals Constrict damage to a living creature that has blood __Effect__  The mudwretch squeezes harder, dealing 1d6 (1d6) [[persistent damage|persistent bleed damage]] to the target. The mudwretch absorbs this blood, removing any penalties it had as a result of being dehydrated."
   - name: "Mud Puddle"
     desc: "⬻ ([[concentrate]]);  Until it next acts, the mudwretch appears to be an ordinary puddle of mud. It has an automatic result of 20 on [[Deception]] checks to pass as a mud puddle and can make a fist [[Strike]] against a creature that walks onto the mud puddle as a reaction."
   - name: "Spew Mud"
-    desc: "⬺ ([[conjuration]], [[primal]]);  The mudwretch spews a 20-foot line of pressurized mud that deals 1 (2d10) bludgeoning damage (DC 18 basic Reflex save). On a critical failure, a creature also takes a –10-foot status penalty to its Speeds for 1 round. The mudwretch can't Spew Mud again for 1 (1d4) rounds."
+    desc: "⬺ ([[conjuration]], [[primal]]);  The mudwretch spews a 20-foot line of pressurized mud that deals 2d10 (2d10) bludgeoning damage (DC 18 basic Reflex save). On a critical failure, a creature also takes a –10-foot status penalty to its Speeds for 1 round. The mudwretch can't Spew Mud again for 1d4 (1d4) rounds."
 
 speed: 20 feet, swim 20 feet
 
@@ -64,7 +64,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]]); __Damage__ 1 (1d8+4) bludgeoning plus Grab"
+    desc: "⬻ fist +10 ([[agile]]); __Damage__ 1d8+4 (1d8+4) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary 2_, page 176."
 ```

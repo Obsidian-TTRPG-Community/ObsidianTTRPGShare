@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Braincloud"
     desc: "⬻ ([[attack]], [[enchantment]], [[mental]], [[occult]], [[open]]);  The shoggti caresses a creature with a tentacle and supernaturally erodes the creature's capability for thought as it does so. The target must succeed at a DC 25 Will save or become [[stupefied|stupefied 2]], with an unlimited duration. The target can attempt the save to remove the [[stupefied|stupefied]] condition again once per day when it makes its daily preparations."
   - name: "Constrict"
-    desc: "⬻  1 (1d10+8) bludgeoning, DC 25."
+    desc: "⬻  1d10+8 (1d10+8) bludgeoning, DC 25."
   - name: "Fascinating Display"
     desc: "⬺ ([[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[occult]], [[visual]]);  The shoggti writhes its tentacles and shifts its coloration to put on an unnaturally fascinating hypnotic display. Creatures in a 30-foot emanation must attempt a DC 25 Will save, after which they are temporarily immune to further Fascinating Displays for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[sickened|sickened 1]].\n__Failure__ The creature is [[fascinated|fascinated]] for 1 minute. Once the fascination effect ends, the creature is [[sickened|sickened 1]].\n__Critical Failure__ The creature is [[fascinated|fascinated]] for 1 minute, can't use reactions while [[fascinated|fascinated]], and is [[sickened|sickened 2]] once the fascination ends."
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +18 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+8) piercing plus 1 (1d6) chaotic"
+    desc: "⬻ bite +18 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d12+8 (2d12+8) piercing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ pincer +18 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile b]]); __Damage__ 1 (2d8+8) slashing plus 1 (1d6) chaotic and Grab"
+    desc: "⬻ pincer +18 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile b]]); __Damage__ 2d8+8 (2d8+8) slashing plus 1d6 (1d6) chaotic and Grab"
 
 spellcasting:
   - name: "Occult Innate Spells"

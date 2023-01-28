@@ -36,7 +36,7 @@ abilityMods: [2, 5, 2, -1, 2, 1]
 
 abilities_mid:
   - name: "Death Flame"
-    desc: " ([[light]]);  When the stalker dies, their body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 1 (5d6) fire damage (DC 21 basic Reflex save) The stalker's gear and treasure are unaffected by the flames and are left in a pile where they died."
+    desc: " ([[light]]);  When the stalker dies, their body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 5d6 (5d6) fire damage (DC 21 basic Reflex save) The stalker's gear and treasure are unaffected by the flames and are left in a pile where they died."
 abilities_top:
   - name: Items
     desc: "black smear poison (6 doses; see below), leather armor, shortsword (2);"
@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Encircling Command"
     desc: "⬻ ([[auditory]]);  Each caligni creeper within 30 feet of the stalker can [[Step]]. Each creeper can benefit from Encircling Command only once per round."
   - name: "Sneak Attack"
-    desc: "  The caligni stalker deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The caligni stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Black Smear Poison"
     desc: "  Many calignis use a debilitating poison crafted from subterranean fungi."
 
@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +13 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+7) piercing plus black smear poison (see below)"
+    desc: "⬻ shortsword +13 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+7 (1d6+7) piercing plus black smear poison (see below)"
 
 spellcasting:
   - name: "Occult Innate Spells"

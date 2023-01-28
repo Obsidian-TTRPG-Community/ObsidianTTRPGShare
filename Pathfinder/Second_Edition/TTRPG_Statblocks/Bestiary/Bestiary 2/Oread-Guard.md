@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bastard sword +9 ([[two-hand|two-hand d12]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ bastard sword +9 ([[two-hand|two-hand d12]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Ranged
-    desc: "⬻ light hammer +6 ([[agile]], [[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ light hammer +6 ([[agile]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 201."
 ```

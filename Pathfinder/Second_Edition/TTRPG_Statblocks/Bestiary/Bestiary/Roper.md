@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 __Damage__ 1 (2d12+12) piercing"
+    desc: "⬻ jaws +21 __Damage__ 2d12+12 (2d12+12) piercing"
   - name: Melee
     desc: "⬻ strand +23 ([[reach|reach 50 feet]]); __Damage__ sticky strand"
 

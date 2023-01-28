@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Drench"
     desc: "⬻ ([[abjuration]], [[primal]], [[water]]);  The elemental puts out all fires in a 20-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
   - name: "Surge"
-    desc: "⬺  The elemental tsunami quickly expands its space to fill the area of its vortex. Creatures within the vortex's emanation take 1 (5d12+6) bludgeoning damage (DC 31 basic Fortitude save). A creature that fails this save is Pushed 20 feet. The elemental tsunami then retracts to its former space. The elemental tsunami can't Surge again for 1 (1d4) rounds."
+    desc: "⬺  The elemental tsunami quickly expands its space to fill the area of its vortex. Creatures within the vortex's emanation take 5d12+6 (5d12+6) bludgeoning damage (DC 31 basic Fortitude save). A creature that fails this save is Pushed 20 feet. The elemental tsunami then retracts to its former space. The elemental tsunami can't Surge again for 1d4 (1d4) rounds."
 
 speed: 35 feet, swim 100 feet
 
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wave +24 ([[reach|reach 20 feet]]); __Damage__ 1 (2d12+12) bludgeoning plus Push or Pull 10 feet"
+    desc: "⬻ wave +24 ([[reach|reach 20 feet]]); __Damage__ 2d12+12 (2d12+12) bludgeoning plus Push or Pull 10 feet"
 
 sourcebook: "_Bestiary_, page 153."
 ```

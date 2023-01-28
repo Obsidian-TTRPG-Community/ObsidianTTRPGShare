@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +15 ([[agile]], [[finesse]]); __Damage__ 1 (2d8) piercing plus steal breath"
+    desc: "⬻ jaws +15 ([[agile]], [[finesse]]); __Damage__ 2d8 (2d8) piercing plus steal breath"
   - name: Melee
-    desc: "⬻ bony hand (agile) +13 __Damage__ 1 (2d10) negative plus steal voice"
+    desc: "⬻ bony hand (agile) +13 __Damage__ 2d10 (2d10) negative plus steal voice"
 
 sourcebook: "_Bestiary 2_, page 28."
 ```

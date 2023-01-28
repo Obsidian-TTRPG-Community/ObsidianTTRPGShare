@@ -42,7 +42,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Athach Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[enfeebled|enfeebled 1]] (null) __Stage 2__ 1 (2d6) poison damage and [[enfeebled|enfeebled 2]] (null)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 1]] (null) __Stage 2__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 2]] (null)"
   - name: "Swift Claw"
     desc: "⬲ __Trigger__ The athach hits a creature with two fist [[Strike|Strikes]] __Effect__  The athach makes a claw [[Strike]] with no multiple attack penalty against the creature it hit with its fist [[Strike|Strikes]]. This claw attack does not increase the athach's multiple attack penalty."
   - name: "Throw Rock"
@@ -61,13 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +25 ([[reach|reach 10 feet]]); __Damage__ 1 (3d12+13) bludgeoning"
+    desc: "⬻ fist +25 ([[reach|reach 10 feet]]); __Damage__ 3d12+13 (3d12+13) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +25 __Damage__ 1 (3d8+13) piercing plus athach venom"
+    desc: "⬻ jaws +25 __Damage__ 3d8+13 (3d8+13) piercing plus athach venom"
   - name: Melee
-    desc: "⬻ claw +25 ([[agile]]); __Damage__ 1 (3d8+13) slashing"
+    desc: "⬻ claw +25 ([[agile]]); __Damage__ 3d8+13 (3d8+13) slashing"
   - name: Ranged
-    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (3d8+13) bludgeoning"
+    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 3d8+13 (3d8+13) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 27."
 ```

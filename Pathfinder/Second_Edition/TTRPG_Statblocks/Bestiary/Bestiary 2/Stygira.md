@@ -62,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+10) slashing plus stone curse"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+10 (2d6+10) slashing plus stone curse"
 
 spellcasting:
   - name: "Occult Innate Spells"

@@ -50,9 +50,9 @@ abilities_bot:
   - name: "Chain of Malebolge"
     desc: "⬻ __Requirements__ The cornugon's last action was a success with a spiked chain  __Effect__  [[Strike]]; The devil pulls the creature 5 feet closer and grabs it with the spiked chain ([[Escape]] DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away."
   - name: "Infernal Wound"
-    desc: " ([[divine]], [[necromancy]]);  A cornugon's tail [[Strike]] deals 1 (4d6) [[persistent damage|persistent bleed damage]]. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to [[Administer First Aid]] to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally [[wounded|wounded]] creature must succeed at a DC 34 counteract check or the magic fails to heal the creature."
+    desc: " ([[divine]], [[necromancy]]);  A cornugon's tail [[Strike]] deals 4d6 (4d6) [[persistent damage|persistent bleed damage]]. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to [[Administer First Aid]] to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally [[wounded|wounded]] creature must succeed at a DC 34 counteract check or the magic fails to heal the creature."
   - name: "Stunning Chain"
-    desc: " ([[incapacitation]]);  If the cornugon critically hits with its spiked chain [[Strike]], the target must succeed at a DC 34 Fortitude save or be [[stunned|stunned]] for 1 round (1 (1d4) rounds on a critical failure)."
+    desc: " ([[incapacitation]]);  If the cornugon critically hits with its spiked chain [[Strike]], the target must succeed at a DC 34 Fortitude save or be [[stunned|stunned]] for 1 round (1d4 (1d4) rounds on a critical failure)."
 
 speed: 25 feet, fly 50 feet
 
@@ -67,11 +67,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spiked chain +34 ([[disarm]], [[evil]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (3d8+16) slashing plus 1 (2d6) evil and stunning chain"
+    desc: "⬻ spiked chain +34 ([[disarm]], [[evil]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d8+16 (3d8+16) slashing plus 2d6 (2d6) evil and stunning chain"
   - name: Melee
-    desc: "⬻ claw +32 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+14) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +32 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+14 (3d10+14) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ tail +32 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+14) slashing plus 1 (1d6) evil and infernal wound"
+    desc: "⬻ tail +32 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+14 (3d8+14) slashing plus 1d6 (1d6) evil and infernal wound"
 
 spellcasting:
   - name: "Divine Innate Spells"

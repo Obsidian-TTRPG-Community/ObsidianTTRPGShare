@@ -34,7 +34,7 @@ abilityMods: [-1, 3, 1, -5, 1, -4]
 
 abilities_bot:
   - name: "Giant Centipede Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 14 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d8) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1 (1d12) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 14 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1d12 (1d12) poison damage, [[clumsy|clumsy 1]], and [[flat-footed|flat-footed]] (1 round)"
 
 speed: 30 feet, climb 30 feet
 
@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +6 ([[finesse]]); __Damage__ 1 (1d4-1) piercing plus giant centipede venom"
+    desc: "⬻ mandibles +6 ([[finesse]]); __Damage__ 1d4-1 (1d4-1) piercing plus giant centipede venom"
 
 sourcebook: "_Bestiary_, page 61."
 ```

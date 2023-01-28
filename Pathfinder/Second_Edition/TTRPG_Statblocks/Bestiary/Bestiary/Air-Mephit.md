@@ -36,7 +36,7 @@ abilityMods: [1, 4, 0, -2, 0, 0]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[air]], [[arcane]]);  The air mephit breathes sand and grit in a 15-foot cone that deals 1 (2d6) slashing damage to each creature within the area (DC 17 basic Reflex save). The air mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[air]], [[arcane]]);  The air mephit breathes sand and grit in a 15-foot cone that deals 2d6 (2d6) slashing damage to each creature within the area (DC 17 basic Reflex save). The air mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, fly 40 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +9 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+1) slashing"
+    desc: "⬻ claw +9 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

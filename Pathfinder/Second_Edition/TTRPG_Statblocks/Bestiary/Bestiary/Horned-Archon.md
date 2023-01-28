@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horn +11 ([[magical]]); __Damage__ 1 (2d8+3) piercing plus 1 (1d6) good and Push"
+    desc: "⬻ horn +11 ([[magical]]); __Damage__ 2d8+3 (2d8+3) piercing plus 1d6 (1d6) good and Push"
   - name: Ranged
-    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley]]); __Damage__ 1 (1d8+4) piercing plus 1 (1d6) good"
+    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley]]); __Damage__ 1d8+4 (1d8+4) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

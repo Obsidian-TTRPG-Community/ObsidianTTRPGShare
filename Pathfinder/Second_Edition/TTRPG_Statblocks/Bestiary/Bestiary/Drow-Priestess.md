@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Divine Prepared Spells"

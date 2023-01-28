@@ -53,11 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +12 __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ club +12 __Damage__ 1d6+4 (1d6+4) bludgeoning"
   - name: Melee
-    desc: "⬻ talon +15 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+4) slashing"
+    desc: "⬻ talon +15 ([[agile]], [[finesse]]); __Damage__ 2d6+4 (2d6+4) slashing"
   - name: Ranged
-    desc: "⬻ club +15 ([[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ club +15 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 204."
 ```

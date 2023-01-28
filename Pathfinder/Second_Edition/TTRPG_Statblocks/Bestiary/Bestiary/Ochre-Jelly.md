@@ -41,7 +41,7 @@ abilities_mid:
     desc: "  Whenever an ochre jelly is hit by an attack or effect that would deal slashing, piercing, or electricity damage and the ochre jelly has at least 10 HP, the jelly splits into two identical jellies with half the original's HP. One jelly is in the same space as the original, and the other appears in an adjacent unoccupied space. If no adjacent space is unoccupied, it automatically pushes creatures and objects out of the way to fill a space (the GM decides if an object or creature is too big or sturdy to push)."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8+3) bludgeoning plus 1 (1d4) acid, DC 23."
+    desc: "⬻  1d8+3 (1d8+3) bludgeoning plus 1d4 (1d4) acid, DC 23."
   - name: "Ochre Acid"
     desc: "  An ochre jelly's acid damages only flesh—not bone, stone, wood, or other materials."
 
@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +15 __Damage__ 1 (1d8+7) bludgeoning plus 1 (2d4) acid and Grab"
+    desc: "⬻ pseudopod +15 __Damage__ 1d8+7 (1d8+7) bludgeoning plus 2d4 (2d4) acid and Grab"
 
 sourcebook: "_Bestiary_, page 255."
 ```

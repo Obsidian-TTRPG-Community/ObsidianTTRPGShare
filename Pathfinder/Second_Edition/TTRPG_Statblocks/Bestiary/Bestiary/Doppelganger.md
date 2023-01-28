@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1 (2d6+5) slashing"
+    desc: "⬻ claw +10 ([[agile]]); __Damage__ 2d6+5 (2d6+5) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

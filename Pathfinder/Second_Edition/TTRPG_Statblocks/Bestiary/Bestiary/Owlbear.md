@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ talon +14 ([[agile]]); __Damage__ 1 (1d10+6) piercing plus Grab"
+    desc: "⬻ talon +14 ([[agile]]); __Damage__ 1d10+6 (1d10+6) piercing plus Grab"
   - name: Melee
-    desc: "⬻ beak +14 __Damage__ 1 (1d12+6) piercing"
+    desc: "⬻ beak +14 __Damage__ 1d12+6 (1d12+6) piercing"
 
 sourcebook: "_Bestiary_, page 259."
 ```

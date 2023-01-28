@@ -39,14 +39,14 @@ abilities_mid:
   - name: "Berserk"
     desc: "  A severely damaged clay golem has a chance of going berserk. If it has 50 or fewer Hit Points at the start of its turn, the golem must succeed at a DC 5 flat check or go berserk. A berserk golem wildly attacks the nearest living creature, or the nearest object if no creatures are nearby."
   - name: "Golem Antimagic"
-    desc: "  harmed by cold and water (1 (5d10), 1 (2d6) from areas or [[persistent damage|persistent damage]]); healed by acid (area 1 (2d6) HP); [[slowed|slowed]] by earth."
+    desc: "  harmed by cold and water (5d10 (5d10), 2d6 (2d6) from areas or [[persistent damage|persistent damage]]); healed by acid (area 2d6 (2d6) HP); [[slowed|slowed]] by earth."
   - name: "Vulnerable to Disintegrate"
     desc: "  A [[disintegrate]] spell affects the golem but deals half the normal amount of damage and causes the golem to become [[slowed|slowed 2]] for 1 round."
   - name: "Quicken"
     desc: "⭓ ([[divine]], [[transmutation]]); __Frequency__ once per day __Trigger__ The clay golem's turn begins. __Effect__  It can't trigger this free action on the first turn of combat. The clay golem becomes [[quickened|quickened]] for 1 minute."
 abilities_bot:
   - name: "Berserk Slam"
-    desc: "⬻ __Requirements__ The golem is berserk.  __Effect__  The clay golem [[Strike|Strikes]] with its fist at a –1 circumstance penalty. If its [[Strike]] hits, the clay golem deals an additional 1 (1d8) damage and knocks the target [[prone|prone]]."
+    desc: "⬻ __Requirements__ The golem is berserk.  __Effect__  The clay golem [[Strike|Strikes]] with its fist at a –1 circumstance penalty. If its [[Strike]] hits, the clay golem deals an additional 1d8 (1d8) damage and knocks the target [[prone|prone]]."
   - name: "Cursed Wound"
     desc: " ([[divine]], [[curse]], [[necromancy]]);  A creature hit by the clay golem's fist must succeed at a DC 29 Fortitude save or be cursed until healed to its maximum HP. The cursed creature can't regain HP except via magic, and anyone casting a spell to heal the creature must succeed at a DC 29 counteract check or the healing has no effect. The golem's counteract level is equal to its creature level."
 
@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +24 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+12) bludgeoning plus cursed wound"
+    desc: "⬻ fist +24 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+12 (2d10+12) bludgeoning plus cursed wound"
 
 sourcebook: "_Bestiary_, page 186."
 ```

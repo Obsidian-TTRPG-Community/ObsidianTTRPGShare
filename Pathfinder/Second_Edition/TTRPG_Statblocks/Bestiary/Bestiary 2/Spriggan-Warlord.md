@@ -45,7 +45,7 @@ abilities_bot:
   - name: "Bully's Bludgeon"
     desc: "⬻  The spriggan warlord makes a morningstar [[Strike]] with a +2 circumstance bonus to its attack roll. This attack is nonlethal."
   - name: "Sneak Attack"
-    desc: "  The spriggan warlord's [[Strike|Strikes]] deal an additional 1 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spriggan warlord's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Warlord's Training"
     desc: "  A spriggan warlord has access to the critical specialization effects for crossbows and morningstars, and the reload of any crossbow they wield is reduced by 1 (to a minimum of 0)."
 
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ morningstar +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d6+9) bludgeoning"
+    desc: "⬻ morningstar +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +18 ([[magical]], [[range increment|range increment 120 feet]], [[reload|reload 0]]); __Damage__ 1 (2d8) piercing"
+    desc: "⬻ crossbow +18 ([[magical]], [[range increment|range increment 120 feet]], [[reload|reload 0]]); __Damage__ 2d8 (2d8) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

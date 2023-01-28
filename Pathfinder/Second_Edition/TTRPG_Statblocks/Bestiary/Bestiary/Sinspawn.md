@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[agile]]); __Damage__ 1 (1d8+4) piercing plus sinful bite"
+    desc: "⬻ jaws +10 ([[agile]]); __Damage__ 1d8+4 (1d8+4) piercing plus sinful bite"
   - name: Melee
-    desc: "⬻ claw +10 __Damage__ 1 (1d6+4) slashing"
+    desc: "⬻ claw +10 __Damage__ 1d6+4 (1d6+4) slashing"
 
 sourcebook: "_Bestiary_, page 297."
 ```

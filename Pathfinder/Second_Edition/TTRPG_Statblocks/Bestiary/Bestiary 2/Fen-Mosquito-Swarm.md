@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Pyrexic Malaria"
     desc: " ([[disease]]);  __Saving Throw__ DC 20 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 day) __Stage 2__ [[enfeebled|enfeebled 1]] and [[sickened|sickened 1]] (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ [[unconscious|unconscious]]  (1 day)"
   - name: "Swarming Bites"
-    desc: "⬻  Each enemy in the swarm's space takes 1 (1d6) piercing damage (DC 20 basic Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1 (1d4) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻  Each enemy in the swarm's space takes 1d6 (1d6) piercing damage (DC 20 basic Reflex save) and is exposed to pyrexic malaria. Creatures that fail the saving throw also take 1d4 (1d4) [[persistent damage|persistent bleed damage]]."
 
 speed: 5 feet, fly 25 feet
 

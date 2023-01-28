@@ -47,7 +47,7 @@ abilities_mid:
     desc: "⬲ __Requirements__ The dragon is aware of the attack and has a free wing __Trigger__ The dragon is the target of a ranged attack __Effect__  The cloud dragon flexes a wing and creates a billowing cloud of mist. The dragon is treated as if they were [[hidden|hidden]] for the purposes of resolving the triggering attack, so normally the attacker must succeed at a DC 11 flat check to target them. The dragon also gains a +4 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The dragon breathes a thundercloud that deals 1 (20d6) electricity damage in a 60-foot cone (DC 41 basic Reflex save). This cloud remains in the area for 1 (1d4) rounds, with the effects of obscuring mist. A creature that ends its turn inside of the cloud takes 1 (10d6) electricity damage (DC 41 basic Reflex save). The cloud dragon can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The dragon breathes a thundercloud that deals 20d6 (20d6) electricity damage in a 60-foot cone (DC 41 basic Reflex save). This cloud remains in the area for 1d4 (1d4) rounds, with the effects of obscuring mist. A creature that ends its turn inside of the cloud takes 10d6 (10d6) electricity damage (DC 41 basic Reflex save). The cloud dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Cloud Form"
     desc: "⬻ ([[polymorph]], [[primal]], [[transmutation]]);  The cloud dragon's body becomes vaporous and misty. They gain the effects of gaseous form, except their fly Speed remains unchanged. The cloud dragon can use this action again to return to physical form."
   - name: "Cloud Walk"
@@ -72,13 +72,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +36 ([[electricity]], [[magical]], [[reach|reach 20 feet]], [[sonic]]); __Damage__ 1 (3d10+17) piercing plus 1 (2d12) electricity, 1 (4d6) sonic, and thundering bite"
+    desc: "⬻ jaws +36 ([[electricity]], [[magical]], [[reach|reach 20 feet]], [[sonic]]); __Damage__ 3d10+17 (3d10+17) piercing plus 2d12 (2d12) electricity, 4d6 (4d6) sonic, and thundering bite"
   - name: Melee
-    desc: "⬻ claw +36 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d10+17) slashing"
+    desc: "⬻ claw +36 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+17 (4d10+17) slashing"
   - name: Melee
-    desc: "⬻ tail +34 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (4d12+17) bludgeoning"
+    desc: "⬻ tail +34 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d12+17 (4d12+17) bludgeoning"
   - name: Melee
-    desc: "⬻ horn +34 ([[deadly|deadly d12]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d12+17) piercing"
+    desc: "⬻ horn +34 ([[deadly|deadly d12]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d12+17 (3d12+17) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

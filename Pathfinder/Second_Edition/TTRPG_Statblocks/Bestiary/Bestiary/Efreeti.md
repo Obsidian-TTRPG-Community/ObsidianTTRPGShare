@@ -38,7 +38,7 @@ abilityMods: [5, 3, 4, 1, 2, 4]
 
 abilities_bot:
   - name: "Burning Grasp"
-    desc: " ([[fire]]);  When the efreeti grabs a creature, that creature takes 1 (2d6) fire damage, and takes 1 (2d6) fire damage at the end of each of its turns as long as it remains [[grabbed|grabbed]]."
+    desc: " ([[fire]]);  When the efreeti grabs a creature, that creature takes 2d6 (2d6) fire damage, and takes 2d6 (2d6) fire damage at the end of each of its turns as long as it remains [[grabbed|grabbed]]."
   - name: "Change Size"
     desc: "⬺ ([[arcane]], [[concentrate]], [[polymorph]], [[transmutation]]); __Frequency__ once per day  __Effect__  The efreeti changes a creature's size. This works as a 4th-level [[enlarge]] or [[shrink]] spell but can target an unwilling creature (DC 29 Fortitude save negates)."
   - name: "Combat Grab"
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +21 ([[fire]], [[forceful +2]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (2d6+11) slashing plus 1 (2d6) fire"
+    desc: "⬻ scimitar +21 ([[fire]], [[forceful +2]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 2d6+11 (2d6+11) slashing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ fist +20 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (1d4+11) bludgeoning plus 1 (2d6) fire"
+    desc: "⬻ fist +20 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1d4+11 (1d4+11) bludgeoning plus 2d6 (2d6) fire"
 
 spellcasting:
   - name: "Arcane Innate Spells"

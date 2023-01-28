@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vine +17 ([[reach|reach 10 feet]]); __Damage__ 1 (2d8+8) bludgeoning plus Grab"
+    desc: "⬻ vine +17 ([[reach|reach 10 feet]]); __Damage__ 2d8+8 (2d8+8) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 290."
 ```

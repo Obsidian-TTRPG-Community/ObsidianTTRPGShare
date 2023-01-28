@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬺  Huge or smaller, foot, DC 40."
   - name: "Ultrasonic Blast"
-    desc: "⬻ ([[arcane]], [[evocation]], [[sonic]]);  The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 1 (12d10) sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[stunned|stunned 1]].\n__Failure__ The creature takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The creature takes double damage and is [[stunned|stunned 3]]."
+    desc: "⬻ ([[arcane]], [[evocation]], [[sonic]]);  The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 (12d10) sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[stunned|stunned 1]].\n__Failure__ The creature takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The creature takes double damage and is [[stunned|stunned 3]]."
 
 speed: 50 feet; air walk, water walk;
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trunk +35 ([[magical]], [[reach|reach 20 feet]], [[sweep]], [[trip]]); __Damage__ 1 (5d10+17) bludgeoning plus Grab"
+    desc: "⬻ trunk +35 ([[magical]], [[reach|reach 20 feet]], [[sweep]], [[trip]]); __Damage__ 5d10+17 (5d10+17) bludgeoning plus Grab"
   - name: Melee
-    desc: "⬻ foot +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (5d8+15) bludgeoning"
+    desc: "⬻ foot +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 5d8+15 (5d8+15) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

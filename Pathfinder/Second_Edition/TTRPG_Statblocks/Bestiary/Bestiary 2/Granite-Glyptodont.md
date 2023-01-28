@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +20 ([[forceful]], [[reach|reach 10 feet]], [[versatile piercing]]); __Damage__ 1 (2d12+9) bludgeoning plus calcification"
+    desc: "⬻ tail +20 ([[forceful]], [[reach|reach 10 feet]], [[versatile piercing]]); __Damage__ 2d12+9 (2d12+9) bludgeoning plus calcification"
 
 sourcebook: "_Bestiary 2_, page 109."
 ```

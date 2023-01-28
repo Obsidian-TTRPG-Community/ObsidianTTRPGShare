@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +5 ([[finesse]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ jaws +5 ([[finesse]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

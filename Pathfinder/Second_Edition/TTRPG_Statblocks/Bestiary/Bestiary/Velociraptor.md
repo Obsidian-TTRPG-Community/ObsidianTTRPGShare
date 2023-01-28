@@ -37,7 +37,7 @@ abilities_bot:
   - name: "Leaping Charge"
     desc: "⬻  The velociraptor [[Stride|Strides]] up to 10 feet, ignoring [[terrain|difficult terrain]] as it leaps over obstacles. It then makes a [[Strike]] with its talons, gaining a +1 circumstance bonus to its attack roll."
   - name: "Pack Attack"
-    desc: "  The velociraptor deals 1 (1d4) extra damage to any creature that's within reach of at least two of the velociraptor's allies."
+    desc: "  The velociraptor deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the velociraptor's allies."
 
 speed: 40 feet
 
@@ -52,9 +52,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 ([[finesse]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ jaws +8 ([[finesse]]); __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Melee
-    desc: "⬻ talon +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+3) slashing"
+    desc: "⬻ talon +8 ([[agile]], [[finesse]]); __Damage__ 1d4+3 (1d4+3) slashing"
 
 sourcebook: "_Bestiary_, page 96."
 ```

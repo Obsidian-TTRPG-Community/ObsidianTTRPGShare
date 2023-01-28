@@ -40,7 +40,7 @@ abilities_bot:
   - name: "Feed"
     desc: "⬻ ([[manipulate]]); __Requirements__ The ghonhatine is adjacent to the corpse of a creature that died within the last hour  __Effect__  The ghonhatine devours a chunk of the corpse. For 1 minute, the ghonhatine gains fast healing 5 and a +2 status bonus to damage rolls. It can gain these benefits from any given corpse only once."
   - name: "Fleshgout"
-    desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ carrier with no ill effect (1 (1d4) hours) __Stage 2__ [[enfeebled|enfeebled 1]] and [[drained|drained 1]] (1 day) __Stage 3__ [[enfeebled|enfeebled 2]] and [[drained|drained 2]] (1 day) __Stage 4__ [[enfeebled|enfeebled 2]] and [[drained|drained 3]] (1 day) __Stage 5__ [[drained|drained 4]], [[enfeebled|enfeebled 2]], and [[unconscious|unconscious]]  (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[enfeebled|enfeebled 1]] and [[drained|drained 1]] (1 day) __Stage 3__ [[enfeebled|enfeebled 2]] and [[drained|drained 2]] (1 day) __Stage 4__ [[enfeebled|enfeebled 2]] and [[drained|drained 3]] (1 day) __Stage 5__ [[drained|drained 4]], [[enfeebled|enfeebled 2]], and [[unconscious|unconscious]]  (1 day)"
 
 speed: 35 feet
 
@@ -55,11 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+10) piercing plus 1 (1d6) [[persistent damage|persistent acid]]"
+    desc: "⬻ jaws +23 ([[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus 1d6 (1d6) [[persistent damage|persistent acid]]"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+10) slashing"
+    desc: "⬻ claw +23 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) slashing"
   - name: Ranged
-    desc: "⬻ vomit +19 ([[acid]], [[range increment|range increment 20 feet]]); __Damage__ 1 (5d6) acid plus fleshgout"
+    desc: "⬻ vomit +19 ([[acid]], [[range increment|range increment 20 feet]]); __Damage__ 5d6 (5d6) acid plus fleshgout"
 
 sourcebook: "_Bestiary 2_, page 119."
 ```

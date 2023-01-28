@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ misty tendril +10 ([[agile]], [[finesse]]); __Damage__ 1 (2d6) slashing damage plus 1 (1d6) [[persistent damage|persistent bleed damage]] and blood siphon"
+    desc: "⬻ misty tendril +10 ([[agile]], [[finesse]]); __Damage__ 2d6 (2d6) slashing damage plus 1d6 (1d6) [[persistent damage|persistent bleed damage]] and blood siphon"
 
 sourcebook: "_Bestiary 2_, page 278."
 ```

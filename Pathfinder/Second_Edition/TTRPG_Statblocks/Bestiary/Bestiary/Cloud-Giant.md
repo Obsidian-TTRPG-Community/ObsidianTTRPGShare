@@ -48,7 +48,7 @@ abilities_bot:
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wind Strike"
-    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 1 (4d8) bludgeoning damage and is [[deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 1 (2d8) sonic damage.\n__Failure__ The creature takes 1 (4d8) sonic damage and is [[deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[prone|prone]]."
+    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 (4d8) bludgeoning damage and is [[deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 2d8 (2d8) sonic damage.\n__Failure__ The creature takes 4d8 (4d8) sonic damage and is [[deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[prone|prone]]."
 
 speed: 30 feet
 
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ranseur +25 ([[disarm]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d10+13) piercing"
+    desc: "⬻ ranseur +25 ([[disarm]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 2d10+13 (2d10+13) piercing"
   - name: Melee
-    desc: "⬻ fist +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+13) bludgeoning"
+    desc: "⬻ fist +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d10+13) bludgeoning"
+    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

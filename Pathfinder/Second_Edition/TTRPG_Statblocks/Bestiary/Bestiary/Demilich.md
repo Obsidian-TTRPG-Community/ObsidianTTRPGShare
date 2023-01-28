@@ -41,14 +41,14 @@ abilities_top:
     desc: "demilich eye gem (2);"
 abilities_mid:
   - name: "Telekinetic Whirlwind"
-    desc: " ([[arcane]], [[aura]], [[evocation]]);  20 feet. Telekinetic whirlwind activates when the demilich ends torpor. Loose debris in the area whip up into a whirling storm. This obscures vision, making any creature in the area [[concealed|concealed]], and causes creatures in its area (except the demilich) to treat all creatures as [[concealed|concealed]]. Any creature other than the demilich that enters or begins its turn in the aura takes 1 (2d12) bludgeoning damage."
+    desc: " ([[arcane]], [[aura]], [[evocation]]);  20 feet. Telekinetic whirlwind activates when the demilich ends torpor. Loose debris in the area whip up into a whirling storm. This obscures vision, making any creature in the area [[concealed|concealed]], and causes creatures in its area (except the demilich) to treat all creatures as [[concealed|concealed]]. Any creature other than the demilich that enters or begins its turn in the aura takes 2d12 (2d12) bludgeoning damage."
   - name: "Contingency"
     desc: "⬲ __Trigger__ While the lich is in torpor, a creature disturbs the demilich's remains, touches its treasure, or casts a spell that would affect the demilich. __Effect__  A demilich has one permanent 8th-level [[contingency]] spell in effect with one of its arcane innate spells of 5th level or lower as the companion spell—typically dimension door. The demilich ends torpor, rolls initiative, and gains the effect of its contingency's companion spell. The contingency resets after 24 hours."
   - name: "Countermeasures"
     desc: "⭓ __Trigger__ The demilich's turn begins. __Effect__  The demilich casts blink, fly, spell turning, or true seeing on itself. It usually chooses spell turning unless it already has that spell in effect."
 abilities_bot:
   - name: "Demilich Eye Gems"
-    desc: " ([[arcane]]);  A demilich has gemstone eyes that glow when the demilich is active. Each eye contains an 8th-level spell that targets one creature (usually one eye has maze and the other polar ray). The demilich can Activate an eye. This uses the number of spellcasting actions the spell requires, and also requires command and envision components. When the demilich casts a spell from a gemstone eye, that eye stops glowing for 1 (1d4) rounds, during which time that eye's spell can't be used. Occasionally, one or both of the two demilich eye gems can be harvested from a destroyed demilich as magic items (see below)."
+    desc: " ([[arcane]]);  A demilich has gemstone eyes that glow when the demilich is active. Each eye contains an 8th-level spell that targets one creature (usually one eye has maze and the other polar ray). The demilich can Activate an eye. This uses the number of spellcasting actions the spell requires, and also requires command and envision components. When the demilich casts a spell from a gemstone eye, that eye stops glowing for 1d4 (1d4) rounds, during which time that eye's spell can't be used. Occasionally, one or both of the two demilich eye gems can be harvested from a destroyed demilich as magic items (see below)."
   - name: "Devour Soul"
     desc: "⬻ ([[arcane]], [[necromancy]], [[negative]]); __Requirements__ A soul has been trapped in one of the demilich's blight quartz gems (see Trap Soul) for 24 hours.  __Effect__  The demilich consumes the soul. The soul is utterly destroyed, and the demilich regains HP equal to double the creature's level."
   - name: "Mental Magic"
@@ -71,7 +71,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +27 ([[reach|reach 0 feet]], [[finesse]], [[magical]]); __Damage__ 1 (1d4-3) piercing plus 1 (6d6) negative"
+    desc: "⬻ jaws +27 ([[reach|reach 0 feet]], [[finesse]], [[magical]]); __Damage__ 1d4-3 (1d4-3) piercing plus 6d6 (6d6) negative"
 
 spellcasting:
   - name: "Arcane Innate Spells"

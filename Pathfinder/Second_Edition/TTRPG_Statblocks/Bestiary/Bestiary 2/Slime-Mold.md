@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +8 __Damage__ 1 (1d8+3) bludgeoning plus slime rot"
+    desc: "⬻ pseudopod +8 __Damage__ 1d8+3 (1d8+3) bludgeoning plus slime rot"
 
 sourcebook: "_Bestiary 2_, page 193."
 ```

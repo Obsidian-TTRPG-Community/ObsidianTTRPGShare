@@ -64,11 +64,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ corpse wave +32 ([[magical]]); __Damage__ 1 (4d12+9) bludgeoning plus energy drain"
+    desc: "⬻ corpse wave +32 ([[magical]]); __Damage__ 4d12+9 (4d12+9) bludgeoning plus energy drain"
   - name: Melee
     desc: "⬻ animated weapon +30 ([[agile]], [[magical]], [[reach|reach 100 feet]], [[versatile|versatile b]], [[versatile|versatile p]]); __Damage__ four of the weapon's damage dice +9 of the weapon's damage type"
   - name: Ranged
-    desc: "⬻ scrap ball +28 ([[magical]], [[range increment|range increment 100 feet]]); __Damage__ 1 (4d12+9) bludgeoning plus plummet"
+    desc: "⬻ scrap ball +28 ([[magical]], [[range increment|range increment 100 feet]]); __Damage__ 4d12+9 (4d12+9) bludgeoning plus plummet"
 
 sourcebook: "_Bestiary_, page 323."
 ```

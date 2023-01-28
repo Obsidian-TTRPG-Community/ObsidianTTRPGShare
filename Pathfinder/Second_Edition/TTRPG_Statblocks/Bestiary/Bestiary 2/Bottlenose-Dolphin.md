@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ snout +6 __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ snout +6 __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +6 __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ jaws +6 __Damage__ 1d6+2 (1d6+2) piercing"
 
 sourcebook: "_Bestiary 2_, page 84."
 ```

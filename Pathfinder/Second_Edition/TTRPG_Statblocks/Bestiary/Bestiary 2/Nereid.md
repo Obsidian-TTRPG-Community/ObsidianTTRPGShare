@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ poisonous touch +23 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (6d6) poison"
+    desc: "⬻ poisonous touch +23 ([[agile]], [[finesse]], [[magical]]); __Damage__ 6d6 (6d6) poison"
 
 spellcasting:
   - name: "Primal Innate Spells"

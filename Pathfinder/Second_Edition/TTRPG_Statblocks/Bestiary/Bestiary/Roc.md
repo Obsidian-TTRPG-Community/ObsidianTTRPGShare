@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +21 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+12) piercing"
+    desc: "⬻ beak +21 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) piercing"
   - name: Melee
-    desc: "⬻ talon +21 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+12) slashing plus [[Improved Grab]]"
+    desc: "⬻ talon +21 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+12 (2d8+12) slashing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ wing +21 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 1 (2d6+10) bludgeoning plus Improved Push 10 feet"
+    desc: "⬻ wing +21 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning plus Improved Push 10 feet"
 
 sourcebook: "_Bestiary_, page 281."
 ```

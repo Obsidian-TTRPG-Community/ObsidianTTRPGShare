@@ -44,7 +44,7 @@ abilities_mid:
     desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels compelled to offer pieces of its own flesh to the eremite. The creature must succeed at a DC 40 Will save or become [[paralyzed|paralyzed]] for 1 round."
 abilities_bot:
   - name: "Evisceration"
-    desc: "⬻ ([[attack]]); __Requirements__ The eremite has a creature [[grabbed|grabbed]]  __Effect__  The eremite excises flesh or bone from a creature it has [[grabbed|grabbed]]. The target takes 1 (6d10) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻ ([[attack]]); __Requirements__ The eremite has a creature [[grabbed|grabbed]]  __Effect__  The eremite excises flesh or bone from a creature it has [[grabbed|grabbed]]. The target takes 6d10 (6d10) [[persistent damage|persistent bleed damage]]."
   - name: "Exquisite Pain"
     desc: "  An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee [[Strike|Strikes]] must succeed at a DC 40 Fortitude save or be [[stunned|stunned 2]] ([[stunned|stunned 4]] on a critical failure). A creature that critically succeeds is temporarily immune for 24 hours."
   - name: "Focus Gaze"
@@ -67,9 +67,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 1 (4d8+19) piercing plus 1 (2d6) [[persistent damage|persistent bleed]] and exquisite pain"
+    desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 4d8+19 (4d8+19) piercing plus 2d6 (2d6) [[persistent damage|persistent bleed]] and exquisite pain"
   - name: Melee
-    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 1 (3d6+19) slashing plus 1 (2d6) [[persistent damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
+    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 3d6+19 (3d6+19) slashing plus 2d6 (2d6) [[persistent damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
 
 spellcasting:
   - name: "Divine Innate Spells"

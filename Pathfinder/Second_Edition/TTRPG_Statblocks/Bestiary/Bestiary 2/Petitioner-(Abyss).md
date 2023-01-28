@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Petitioner (Abyss)"
 tags: 
-  - pf2e/creature/level/
+  - pf2e/creature/level/1
 statblock: true
 statblock-link: "#Petitioner (Abyss)"
 name: "Petitioner (Abyss)"
@@ -37,7 +37,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +7 __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ jaws +7 __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Bestiary 2_, page 198."
 ```

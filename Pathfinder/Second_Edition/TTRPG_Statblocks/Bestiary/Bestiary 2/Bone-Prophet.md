@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Raise Serpent"
     desc: "⬽ ([[divine]], [[necromancy]]); __Frequency__ once per day  __Effect__  The bone prophet animates corpses of snakes, serpentfolk, or similar serpentine creatures within a 30-foot emanation. Any flesh on the bodies sloughs off, and they rise as skeletons. The bone prophet can raise one Large creature as a skeletal giant or up to three Medium creatures as skeletal champions; the equipment and attacks might be different depending on the corpses' possessions (Bestiary 298). These skeletons have the minion trait and are under the bone prophet's control; the bone prophet can give all these minions the same command with a single action that has the [[concentrate]] trait. Any skeletal minions that still remain after 10 minutes crumble to dust."
   - name: "Serpentfolk Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
 abilities_top:
   - name: Items
     desc: "invisibility potion, religious symbol of Ydersius, +1 striking staff;"
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ staff +18 ([[magical]], [[two-hand|two-hand d8]]); __Damage__ 1 (2d4+9) bludgeoning"
+    desc: "⬻ staff +18 ([[magical]], [[two-hand|two-hand d8]]); __Damage__ 2d4+9 (2d4+9) bludgeoning"
   - name: Melee
-    desc: "⬻ fangs +17 ([[finesse]]); __Damage__ 1 (2d6+9) piercing plus serpentfolk venom"
+    desc: "⬻ fangs +17 ([[finesse]]); __Damage__ 2d6+9 (2d6+9) piercing plus serpentfolk venom"
 
 spellcasting:
   - name: "Divine Spontaneous Spells"

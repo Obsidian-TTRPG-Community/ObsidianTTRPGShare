@@ -37,14 +37,14 @@ abilityMods: [5, 4, 5, -5, 0, -5]
 
 abilities_mid:
   - name: "Golem Antimagic"
-    desc: "  harmed by sonic (1 (6d6), 1 (2d6) from areas or [[persistent damage|persistent damage]]); healed by fire (area 1 (2d6) HP); [[slowed|slowed]] by cold."
+    desc: "  harmed by sonic (6d6 (6d6), 2d6 (2d6) from areas or [[persistent damage|persistent damage]]); healed by fire (area 2d6 (2d6) HP); [[slowed|slowed]] by cold."
   - name: "Vulnerable to Shatter"
     desc: "  A glass golem is affected by the [[shatter]] spell as though the golem were an unattended object."
   - name: "Spell Reflection"
     desc: "⬲ ([[abjuration]], [[arcane]]);  Trigger The glass golem is targeted by a spell; The glass golem positions its magical, reflective surfaces to turn the spell back on the caster. It tries to counteract the spell by attempting an [[Acrobatics]] check for its counteract check. If it successfully counteract the spell, the effect is turned back on the caster."
 abilities_bot:
   - name: "Dazzling Brilliance"
-    desc: "⬺ ([[evocation]], [[light]], [[visual]]);  The glass golem creates waves of scintillating luminosity that cast bright light in a 60-foot emanation (and dim light for the next 60 feet). The light lasts until the start of the glass golem's next turn, after which the glass golem can't use Dazzling Brilliance for 1 (1d4) rounds. A creature within the bright light or that enters the bright light must attempt a DC 23 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[dazzled|dazzled]] for 1 round.\n__Critical Failure__ The creature is [[blinded|blinded]] for 1 round and then [[dazzled|dazzled]] for an additional 4 rounds."
+    desc: "⬺ ([[evocation]], [[light]], [[visual]]);  The glass golem creates waves of scintillating luminosity that cast bright light in a 60-foot emanation (and dim light for the next 60 feet). The light lasts until the start of the glass golem's next turn, after which the glass golem can't use Dazzling Brilliance for 1d4 (1d4) rounds. A creature within the bright light or that enters the bright light must attempt a DC 23 Will save.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[dazzled|dazzled]] for 1 round.\n__Critical Failure__ The creature is [[blinded|blinded]] for 1 round and then [[dazzled|dazzled]] for an additional 4 rounds."
 
 speed: 25 feet
 
@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bladed limb +20 ([[agile]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d6+8) slashing plus 1 (1d6) bleed"
+    desc: "⬻ bladed limb +20 ([[agile]], [[magical]], [[versatile|versatile p]]); __Damage__ 2d6+8 (2d6+8) slashing plus 1d6 (1d6) bleed"
 
 sourcebook: "_Bestiary 2_, page 131."
 ```

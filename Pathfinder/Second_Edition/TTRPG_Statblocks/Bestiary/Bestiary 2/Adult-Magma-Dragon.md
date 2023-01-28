@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack __Effect__  The dragon raises a wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, they descend 10 feet after the attack."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The dragon breathes a blast of magma that deals 1 (9d6) fire damage and 1 (4d12) bludgeoning damage in a 40-foot cone (DC 33 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The dragon breathes a blast of magma that deals 9d6 (9d6) fire damage and 4d12 (4d12) bludgeoning damage in a 40-foot cone (DC 33 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one horn [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -52,7 +52,7 @@ abilities_bot:
   - name: "Magma Swim"
     desc: "  A magma dragon's swim Speed functions only when the dragon is Swimming through magma or molten lava."
   - name: "Volcanic Purge"
-    desc: "⬻  If the next action the dragon uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 1 (4d6) [[persistent damage|persistent fire damage]], and as long as it has this [[persistent damage|persistent fire damage]], it also takes a –10-foot status penalty to its Speeds."
+    desc: "⬻  If the next action the dragon uses is Breath Weapon, the magma clings to those it damages. Each creature that fails its save against the Breath Weapon takes 4d6 (4d6) [[persistent damage|persistent fire damage]], and as long as it has this [[persistent damage|persistent fire damage]], it also takes a –10-foot status penalty to its Speeds."
 
 speed: 40 feet, fly 140 feet; magma swim 40 feet;
 
@@ -67,13 +67,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +27 ([[fire]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+12) piercing plus 1 (3d6) fire"
+    desc: "⬻ jaws +27 ([[fire]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+12 (3d10+12) piercing plus 3d6 (3d6) fire"
   - name: Melee
-    desc: "⬻ claw +27 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+12) slashing"
+    desc: "⬻ claw +27 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+12 (3d10+12) slashing"
   - name: Melee
-    desc: "⬻ tail +25 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d12+12) bludgeoning"
+    desc: "⬻ tail +25 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d12+12 (3d12+12) bludgeoning"
   - name: Melee
-    desc: "⬻ horns +25 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d10+12) piercing"
+    desc: "⬻ horns +25 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

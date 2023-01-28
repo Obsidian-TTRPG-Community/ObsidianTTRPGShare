@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Drag"
     desc: "⬻  The hyena makes a jaws [[Strike]] against a [[prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
   - name: "Pack Attack"
-    desc: "  The hyaenodon deals an extra 1 (1d6) damage to any creature within reach of at least two of the hyaenodon's allies."
+    desc: "  The hyaenodon deals an extra 1d6 (1d6) damage to any creature within reach of at least two of the hyaenodon's allies."
 
 speed: 40 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +12 __Damage__ 1 (1d10+5) piercing plus Knockdown and bonecrunching bite"
+    desc: "⬻ jaws +12 __Damage__ 1d10+5 (1d10+5) piercing plus Knockdown and bonecrunching bite"
 
 sourcebook: "_Bestiary_, page 211."
 ```

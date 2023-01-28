@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bastard sword +10 ([[two-hand|two-hand d12]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ bastard sword +10 ([[two-hand|two-hand d12]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ fist +10 ([[agile]], [[nonlethal]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 47."
 ```

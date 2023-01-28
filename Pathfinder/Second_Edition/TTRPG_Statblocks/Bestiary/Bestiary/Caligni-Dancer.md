@@ -43,12 +43,12 @@ abilities_mid:
   - name: "Distracting Frolic"
     desc: "⬲ ([[fortune]], [[manipulate]]);  Trigger An ally within 10 feet of the dancer rolls a saving throw against a [[mental]] or [[illusion]] effect. The target ally can roll the save twice and take the better result."
   - name: "Death Flare"
-    desc: " ([[light]]);  When the dancer dies, their body combusts in a flare of white light. All creatures in a 10-foot emanation must succeed at a DC 17 Fortitude save or be [[dazzled|dazzled]] for 1 (1d4) rounds. Calignis that fail this save are also [[frightened|frightened 1]]. The dancer's gear and treasure are left in a pile where they died. As this isn't a [[magical]] effect, the light has no effect within magical darkness."
+    desc: " ([[light]]);  When the dancer dies, their body combusts in a flare of white light. All creatures in a 10-foot emanation must succeed at a DC 17 Fortitude save or be [[dazzled|dazzled]] for 1d4 (1d4) rounds. Calignis that fail this save are also [[frightened|frightened 1]]. The dancer's gear and treasure are left in a pile where they died. As this isn't a [[magical]] effect, the light has no effect within magical darkness."
 abilities_bot:
   - name: "Dancer's Curse"
     desc: "⬻ ([[curse]], [[enchantment]], [[occult]], [[mental]]);  The caligni dancer touches a foe and curses it. If the target fails a DC 18 Will save, it gains [[clumsy|clumsy 1]] and [[stupefied|stupefied 1]]. The target is then temporarily immune for 24 hours. These conditions persist until the curse is removed. The victim can attempt a new DC 18 Will save once per hour to end the curse."
   - name: "Sneak Attack"
-    desc: "  The caligni dancer deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The caligni dancer deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ baton +9 ([[agile]], [[finesse]], [[shove]]); __Damage__ 1 (1d4) bludgeoning"
+    desc: "⬻ baton +9 ([[agile]], [[finesse]], [[shove]]); __Damage__ 1d4 (1d4) bludgeoning"
   - name: Melee
-    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"

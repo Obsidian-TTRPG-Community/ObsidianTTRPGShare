@@ -37,7 +37,7 @@ abilityMods: [4, 3, 2, -2, 3, 1]
 
 abilities_bot:
   - name: "Bay"
-    desc: "⬽ ([[auditory]], [[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]]);  The yeth hound emits an unearthly howl audible up to 300 feet away. Any nonfiend creature that hears the howl must succeed at a DC 20 Will save or become [[frightened|frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth hound is instead [[frightened|frightened 3]] and [[fleeing|fleeing]] for 1 (1d4) rounds (or until it recovers from its [[frightened|frightened]] condition). Whether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
+    desc: "⬽ ([[auditory]], [[concentrate]], [[divine]], [[enchantment]], [[fear]], [[mental]]);  The yeth hound emits an unearthly howl audible up to 300 feet away. Any nonfiend creature that hears the howl must succeed at a DC 20 Will save or become [[frightened|frightened 1]]. Any creature that critically fails and is within 60 feet of the yeth hound is instead [[frightened|frightened 3]] and [[fleeing|fleeing]] for 1d4 (1d4) rounds (or until it recovers from its [[frightened|frightened]] condition). Whether it succeeds or fails the saving throw, the creature is then temporarily immune to Bay for 24 hours."
   - name: "Sinister Bite"
     desc: "  A good creature bitten by a yeth hound must attempt a DC 20 Will save. On a critical success, the creature is temporarily immune to sinister bite for 1 minute. A creature that fails becomes [[frightened|frightened 1]], or increases the value of its [[frightened|frightened]] condition by 1 if already [[frightened|frightened]]."
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d8+6) piercing plus 1 (1d6) evil, Knockdown, and sinister bite"
+    desc: "⬻ jaws +11 __Damage__ 1d8+6 (1d8+6) piercing plus 1d6 (1d6) evil, Knockdown, and sinister bite"
 
 spellcasting:
   - name: "Divine Innate Spells"

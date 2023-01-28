@@ -41,13 +41,13 @@ abilities_bot:
   - name: "Dune"
     desc: "⬻ ([[concentrate]]);  Until the next time it acts, the zaramuun appears to be a sand dune. It has an automatic result of 47 (50 in sandy terrain) on [[Deception]] and [[Stealth]] checks and DCs to pass as a sand dune. Any creature that walks onto the zaramuun moves into its body and is Engulfed."
   - name: "Engulf"
-    desc: "⬺  DC 35, 1 (4d12) bludgeoning damage and dimensional anchor, [[Escape]] DC 32, Rupture 28."
+    desc: "⬺  DC 35, 4d12 (4d12) bludgeoning damage and dimensional anchor, [[Escape]] DC 32, Rupture 28."
   - name: "Raking Sand"
     desc: "⬻ __Requirements__ The zaramuun hit with a melee [[Strike]] with its last action, or it has a creature Engulfed.  __Effect__  The zaramuun attempts to [[Disarm]] one primarily metal or stone object from the Struck or Engulfed creature and casts its innate dimensional anchor on the target creature."
   - name: "Sand Glide"
     desc: "  The zaramuun can [[Burrow]] through sand and dirt (but not stone) at its full burrow Speed, leaving no tunnel or sign of its passing. Any Engulfed creatures are left behind when it Burrows. Loose sand and scree are not [[terrain|difficult terrain]] for a zaramuun."
   - name: "Sandblast"
-    desc: "⬺ ([[earth]]);  The zaramuun sprays a blast of sand that deals 1 (11d10) slashing damage to all creatures in a 60-foot line (Reflex DC 38). It can't Sandblast again for 1 (1d4) rounds.\n__Critical Success__ No effect.\n__Success__ Half damage.\n__Failure__ Full damage.\n__Critical Failure__ Full damage and [[blinded|blinded]] for 1 round."
+    desc: "⬺ ([[earth]]);  The zaramuun sprays a blast of sand that deals 11d10 (11d10) slashing damage to all creatures in a 60-foot line (Reflex DC 38). It can't Sandblast again for 1d4 (1d4) rounds.\n__Critical Success__ No effect.\n__Success__ Half damage.\n__Failure__ Full damage.\n__Critical Failure__ Full damage and [[blinded|blinded]] for 1 round."
 
 speed: 35 feet, burrow 35 feet; sand glide;
 
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +33 __Damage__ 1 (4d12+13) bludgeoning"
+    desc: "⬻ fist +33 __Damage__ 4d12+13 (4d12+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock or metal debris +29 ([[range increment|range increment 120 feet]]); __Damage__ 1 (4d8+13) bludgeoning"
+    desc: "⬻ rock or metal debris +29 ([[range increment|range increment 120 feet]]); __Damage__ 4d8+13 (4d8+13) bludgeoning"
 
 spellcasting:
   - name: "Divine Innate Spells"

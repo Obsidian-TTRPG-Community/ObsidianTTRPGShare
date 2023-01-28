@@ -37,11 +37,11 @@ abilityMods: [6, -1, 4, -2, 0, -2]
 
 abilities_bot:
   - name: "Glutton's Feast"
-    desc: "  If the ogre glutton damages a living creature with their jaws [[Strike]], they gain 1 (1d4) temporary Hit Points for 1 minute."
+    desc: "  If the ogre glutton damages a living creature with their jaws [[Strike]], they gain 1d4 (1d4) temporary Hit Points for 1 minute."
   - name: "Glutton's Rush"
-    desc: "⬺  The ogre glutton [[Stride|Strides]] twice and makes a jaws [[Strike]]. If they damage a living creature with this [[Strike]], the temporary Hit Points they receive from glutton's feast is increased to 1 (2d4)."
+    desc: "⬺  The ogre glutton [[Stride|Strides]] twice and makes a jaws [[Strike]]. If they damage a living creature with this [[Strike]], the temporary Hit Points they receive from glutton's feast is increased to 2d4 (2d4)."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Small, 1 (2d4+4) bludgeoning, Rupture 14."
+    desc: "⬻ ([[attack]]);  Small, 2d4+4 (2d4+4) bludgeoning, Rupture 14."
 abilities_top:
   - name: Items
     desc: "leather armor, greataxe;"
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d12+8) slashing"
+    desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d12+8 (1d12+8) slashing"
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (1d8+8) piercing plus Grab and glutton's feast"
+    desc: "⬻ jaws +14 __Damage__ 1d8+8 (1d8+8) piercing plus Grab and glutton's feast"
 
 sourcebook: "_Bestiary_, page 253."
 ```

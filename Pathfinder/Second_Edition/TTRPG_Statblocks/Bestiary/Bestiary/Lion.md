@@ -34,11 +34,11 @@ abilityMods: [4, 3, 2, -4, 2, -2]
 
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  The lion deals 1 (1d4) extra damage to any creature that's within reach of at least two of the lion's allies."
+    desc: "  The lion deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the lion's allies."
   - name: "Pounce"
     desc: "⬻  The lion [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the lion began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the ability's [[Strike]]."
   - name: "Sneak Attack"
-    desc: "  The lion deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The lion deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 30 feet
 
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d10+6) piercing plus Grab"
+    desc: "⬻ jaws +11 __Damage__ 1d10+6 (1d10+6) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d8+6) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d8+6 (1d8+6) slashing"
 
 sourcebook: "_Bestiary_, page 52."
 ```

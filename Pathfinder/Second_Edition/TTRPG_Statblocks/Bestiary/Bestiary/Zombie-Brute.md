@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +11 ([[reach|reach 10 feet]]); __Damage__ 1 (1d12+5) bludgeoning plus Improved Push 5 feet"
+    desc: "⬻ fist +11 ([[reach|reach 10 feet]]); __Damage__ 1d12+5 (1d12+5) bludgeoning plus Improved Push 5 feet"
 
 sourcebook: "_Bestiary_, page 341."
 ```

@@ -43,7 +43,7 @@ abilities_top:
     desc: "[[dagger]] (2), [[shortsword]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ dagger +8 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ dagger +8 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+2 (1d4+2) piercing"
 
 sourcebook: "_Bestiary 2_, page 243."
 ```

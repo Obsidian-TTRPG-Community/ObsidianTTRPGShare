@@ -39,7 +39,7 @@ abilityMods: [3, 1, 2, -2, 0, 2]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[poison]]);  The ooze mephit spits toxic slime in a 15-foot cone that deals 1 (2d6) poison damage to each creature within the area (DC 17 basic Reflex save). The ooze mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[poison]]);  The ooze mephit spits toxic slime in a 15-foot cone that deals 2d6 (2d6) poison damage to each creature within the area (DC 17 basic Reflex save). The ooze mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, fly 20 feet
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +8 __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ fist +8 __Damage__ 1d6+3 (1d6+3) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"

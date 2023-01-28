@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using. __Effect__  The dragon makes a tail [[Strike]] at the creature with a –2 penalty. If it hits, the dragon disrupts the creature's action."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes a toxic cloud that deals 1 (9d6) poison damage in a 40-foot cone (DC 25 basic Fortitude save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes a toxic cloud that deals 9d6 (9d6) poison damage in a 40-foot cone (DC 25 basic Fortitude save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one horn [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -62,13 +62,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +20 ([[poison]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+8) piercing plus 1 (2d4) poison"
+    desc: "⬻ jaws +20 ([[poison]], [[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) piercing plus 2d4 (2d4) poison"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]]); __Damage__ 1 (2d8+8) slashing"
+    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+8 (2d8+8) slashing"
   - name: Melee
-    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+7) bludgeoning"
+    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 2d8+7 (2d8+7) bludgeoning"
   - name: Melee
-    desc: "⬻ horn +18 ([[reach|reach 10 feet]]); __Damage__ 1 (1d12+7) piercing"
+    desc: "⬻ horn +18 ([[reach|reach 10 feet]]); __Damage__ 1d12+7 (1d12+7) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

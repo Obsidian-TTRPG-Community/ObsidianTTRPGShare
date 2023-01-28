@@ -43,9 +43,9 @@ abilities_bot:
   - name: "Improved Grab"
     desc: "⭓ "
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The cairn linnorm expels a 60-foot cone of negative energy–infused acid, dealing 1 (19d6) acid damage to creatures in the area (DC 40 basic Reflex save) The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude save or become [[drained|drained 1]] ([[drained|drained 2]] on a critical failure). The cairn linnorm can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The cairn linnorm expels a 60-foot cone of negative energy–infused acid, dealing 19d6 (19d6) acid damage to creatures in the area (DC 40 basic Reflex save) The acid also saps the life out of affected creatures. At the beginning of the linnorm's next turn, each creature that failed the Reflex save must succeed at a DC 40 Fortitude save or become [[drained|drained 1]] ([[drained|drained 2]] on a critical failure). The cairn linnorm can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Cairn Linnorm Venom"
-    desc: " ([[acid]], [[poison]]);  __Saving Throw__ DC 41 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1 (6d6) acid damage and [[drained|drained 1]] (1 round) __Stage 2__ 1 (8d6) acid damage and [[drained|drained 2]] (1 round)"
+    desc: " ([[acid]], [[poison]]);  __Saving Throw__ DC 41 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 6d6 (6d6) acid damage and [[drained|drained 1]] (1 round) __Stage 2__ 8d6 (8d6) acid damage and [[drained|drained 2]] (1 round)"
 
 speed: 35 feet, climb 40 feet, fly 100 feet, swim 40 feet; [[freedom of movement]];
 
@@ -60,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +35 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (3d12+17) piercing plus cairn linnorm venom"
+    desc: "⬻ jaws +35 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 3d12+17 (3d12+17) piercing plus cairn linnorm venom"
   - name: Melee
-    desc: "⬻ claw +35 ([[agile]], [[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (3d8+17) slashing"
+    desc: "⬻ claw +35 ([[agile]], [[magical]], [[reach|reach 25 feet]]); __Damage__ 3d8+17 (3d8+17) slashing"
   - name: Melee
-    desc: "⬻ tail +35 ([[agile]], [[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (3d10+17) bludgeoning plus"
+    desc: "⬻ tail +35 ([[agile]], [[magical]], [[reach|reach 25 feet]]); __Damage__ 3d10+17 (3d10+17) bludgeoning plus"
 
 spellcasting:
   - name: "Primal Innate Spells"

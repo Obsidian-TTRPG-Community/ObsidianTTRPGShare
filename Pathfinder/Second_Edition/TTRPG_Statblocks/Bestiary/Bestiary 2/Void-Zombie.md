@@ -35,7 +35,7 @@ abilityMods: [3, -2, 2, -5, 0, -2]
 
 abilities_mid:
   - name: "Salt Water Vulnerability"
-    desc: "  Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals 1 (4d6) acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become [[slowed|slowed 1]] until the end of its next turn."
+    desc: "  Salt water acts as an extremely strong acid on the larval akata inside the void zombie. Full immersion in salt water deals 4d6 (4d6) acid damage per round. On any round in which the void zombie takes damage due to its salt water weakness, the larval akata retreats to the depths of the void zombie's body, causing the void zombie to become [[slowed|slowed 1]] until the end of its next turn."
 abilities_bot:
   - name: "Feed on Blood"
     desc: "⬻ __Requirements__ The void zombie's previous action was a successful feeding tendril [[Strike]] against the target creature  __Effect__  The void zombie uses its feeding tendril to drain blood from the creature struck. The void zombie regains 4 Hit Points, and the creature is [[drained|drained 1]] until it receives healing of any kind or amount."
@@ -53,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +8 __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ fist +8 __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Melee
-    desc: "⬻ feeding tendril +6 ([[agile]]); __Damage__ 1 (1d4+3) piercing plus Feed on Blood"
+    desc: "⬻ feeding tendril +6 ([[agile]]); __Damage__ 1d4+3 (1d4+3) piercing plus Feed on Blood"
 
 sourcebook: "_Bestiary 2_, page 288."
 ```

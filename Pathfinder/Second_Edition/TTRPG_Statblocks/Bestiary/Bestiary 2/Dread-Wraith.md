@@ -44,11 +44,11 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Absorb Wraith"
-    desc: "⬺  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 1 (6d10) negative damage to each creature along the line (DC 28 basic Fortitude save). The dread wraith absorbs the essence of the target wraith, becoming [[quickened|quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to [[Fly]] or [[Strike]]. An unwilling target can attempt a DC 28 Will save to resist being absorbed."
+    desc: "⬺  The dread wraith extends its hand toward another wraith creature within 100 feet. The target wraith dissolves and streaks toward the dread wraith in a straight line, dealing 6d10 (6d10) negative damage to each creature along the line (DC 28 basic Fortitude save). The dread wraith absorbs the essence of the target wraith, becoming [[quickened|quickened]] and gaining a +10-foot status bonus to its fly Speed for a number of rounds equal to the level of the absorbed wraith. It can use its extra action only to [[Fly]] or [[Strike]]. An unwilling target can attempt a DC 28 Will save to resist being absorbed."
   - name: "Drain Life"
     desc: " ([[divine]], [[necromancy]]);  When the dread wraith damages a living creature with its spectral hand [[Strike]], the wraith gains 10 temporary Hit Points and the target must succeed at a DC 28 Fortitude save or become [[drained|drained 1]]. Further damage dealt by the wraith increases the [[drained|drained]] condition value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
   - name: "Wraith Spawn"
-    desc: " ([[divine]], [[necromancy]]);  A living humanoid slain by a wraith's spectral hand [[Strike]] rises as a wraith spawn after 1 (1d4) rounds. This wraith spawn is under the command of the dread wraith that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn."
+    desc: " ([[divine]], [[necromancy]]);  A living humanoid slain by a wraith's spectral hand [[Strike]] rises as a wraith spawn after 1d4 (1d4) rounds. This wraith spawn is under the command of the dread wraith that killed it. It doesn't have drain life or wraith spawn. If the creator of the wraith spawn dies, the wraith spawn becomes a full-fledged, autonomous wraith; it regains its free will and gains drain life and wraith spawn."
 
 speed: fly 60 feet
 
@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spectral hand +21 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+7) negative plus drain life"
+    desc: "⬻ spectral hand +21 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d10+7 (2d10+7) negative plus drain life"
 
 sourcebook: "_Bestiary 2_, page 298."
 ```

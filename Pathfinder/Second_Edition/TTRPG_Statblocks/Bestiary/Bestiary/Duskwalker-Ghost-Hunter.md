@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hatchet +12 ([[agile]], [[sweep]]); __Damage__ 1 (1d6+5) slashing"
+    desc: "⬻ hatchet +12 ([[agile]], [[sweep]]); __Damage__ 1d6+5 (1d6+5) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Ranged
-    desc: "⬻ hatchet +14 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+5) slashing"
+    desc: "⬻ hatchet +14 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1d6+5 (1d6+5) slashing"
 
 sourcebook: "_Bestiary_, page 262."
 ```

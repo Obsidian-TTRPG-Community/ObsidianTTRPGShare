@@ -46,7 +46,7 @@ abilities_bot:
   - name: "Blood Frenzy"
     desc: "⭓ ([[rage]]);  As sea devil scout, 15 temporary HP."
   - name: "Bloodletting"
-    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
+    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
   - name: "Hateful Tide"
     desc: "⬺ ([[rage]]); __Requirements__ The sea devil baron is in a blood frenzy.  __Effect__  The sea devil baron unleashes a whirlwind of attacks against its foes, making a single melee [[Strike]] with its claws or jaws against each opponent within reach."
 
@@ -63,13 +63,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longspear +17 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+11) piercing"
+    desc: "⬻ longspear +17 ([[reach|reach 10 feet]]); __Damage__ 1d8+11 (1d8+11) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (1d6+8) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1d6+8 (1d6+8) slashing"
   - name: Melee
-    desc: "⬻ jaws +17 __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ jaws +17 __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Ranged
-    desc: "⬻ spear +17 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d8+11) piercing"
+    desc: "⬻ spear +17 ([[thrown|thrown 20 feet]]); __Damage__ 1d8+11 (1d8+11) piercing"
 
 sourcebook: "_Bestiary_, page 287."
 ```

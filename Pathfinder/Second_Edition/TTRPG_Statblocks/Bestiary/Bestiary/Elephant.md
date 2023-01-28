@@ -51,11 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tusk +16 ([[reach|reach 10 feet]]); __Damage__ 1 (3d8+9) piercing"
+    desc: "⬻ tusk +16 ([[reach|reach 10 feet]]); __Damage__ 3d8+9 (3d8+9) piercing"
   - name: Melee
     desc: "⬻ trunk +18 ([[reach|reach 15 feet]]); __Damage__ grabbing trunk"
   - name: Melee
-    desc: "⬻ foot +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+9) bludgeoning"
+    desc: "⬻ foot +16 ([[reach|reach 10 feet]]); __Damage__ 2d10+9 (2d10+9) bludgeoning"
 
 sourcebook: "_Bestiary_, page 154."
 ```

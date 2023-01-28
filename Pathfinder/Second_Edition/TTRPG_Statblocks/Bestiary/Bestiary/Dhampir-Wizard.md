@@ -55,13 +55,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile S]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile S]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Melee
-    desc: "⬻ staff +6 ([[two-handed d8]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ staff +6 ([[two-handed d8]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Melee
-    desc: "⬻ fist +7 ([[agile]], [[finesse]], [[nonlethal]]); __Damage__ 1 (1d4+2) bludgeoning"
+    desc: "⬻ fist +7 ([[agile]], [[finesse]], [[nonlethal]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile S]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile S]]); __Damage__ 1d4+2 (1d4+2) piercing"
 
 spellcasting:
   - name: "Arcane Prepared Spells"

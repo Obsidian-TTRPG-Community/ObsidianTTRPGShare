@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ghostly hand +13 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d6+2) negative"
+    desc: "⬻ ghostly hand +13 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d6+2 (2d6+2) negative"
 
 sourcebook: "_Bestiary_, page 167."
 ```

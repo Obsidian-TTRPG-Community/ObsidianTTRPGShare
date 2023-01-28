@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Fair Competition"
     desc: " ([[divine]], [[enchantment]], [[mental]]);  Once per day, a bralani can spend 1 minute to bless willing creatures within 100 feet who are about to participate in a contest. This blessing lasts 24 hours. If a blessed creature cheats or uses the contest to harm another, the creature grows visibly ill, becoming [[sickened|sickened 1]] and unable to remove this condition for the duration or until they withdraw from the competition. At the end of the contest, participants who competed fairly find it easier to negotiate and understand their opponent's perspective. For 1 hour, they gain a +2 status bonus to [[Diplomacy]] checks and [[Recall Knowledge]] checks that directly pertain to their opponents."
   - name: "Whirlwind Blast"
-    desc: "⬺ ([[air]], [[divine]], [[evocation]]);  The bralani generates a 20-foot line of scouring wind that deals 1 (7d6) bludgeoning damage (DC 24 basic Reflex save) It can't use this ability again for 1 (1d4) rounds."
+    desc: "⬺ ([[air]], [[divine]], [[evocation]]);  The bralani generates a 20-foot line of scouring wind that deals 7d6 (7d6) bludgeoning damage (DC 24 basic Reflex save) It can't use this ability again for 1d4 (1d4) rounds."
   - name: "Wind Form"
     desc: "  A bralani flies at full Speed in gaseous form."
 abilities_top:
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +16 ([[forceful]], [[sweep]]); __Damage__ 1 (1d6+8) slashing plus 1 (2d6) electricity and 1 (1d6) good"
+    desc: "⬻ scimitar +16 ([[forceful]], [[sweep]]); __Damage__ 1d6+8 (1d6+8) slashing plus 2d6 (2d6) electricity and 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ composite longbow +18 ([[deadly|deadly 1d10]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1 (1d8+6) plus 1 (1d6) electricity and 1 (1d6) good"
+    desc: "⬻ composite longbow +18 ([[deadly|deadly 1d10]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+6 (1d8+6) plus 1d6 (1d6) electricity and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

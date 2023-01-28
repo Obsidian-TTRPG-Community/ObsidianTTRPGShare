@@ -50,7 +50,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wing +11 ([[agile]], [[finesse]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ wing +11 ([[agile]], [[finesse]]); __Damage__ 1d8+4 (1d8+4) slashing"
 
 sourcebook: "_Bestiary_, page 144."
 ```

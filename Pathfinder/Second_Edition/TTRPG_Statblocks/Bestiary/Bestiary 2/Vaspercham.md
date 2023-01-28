@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +33 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+16) bludgeoning plus hallucinatory brine"
+    desc: "⬻ tentacle +33 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+16 (3d10+16) bludgeoning plus hallucinatory brine"
   - name: Ranged
-    desc: "⬻ water blast +33 ([[brutal]], [[magical]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 1 (2d8+16) bludgeoning plus hallucinatory brine"
+    desc: "⬻ water blast +33 ([[brutal]], [[magical]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus hallucinatory brine"
 
 spellcasting:
   - name: "Arcane Innate Spells"

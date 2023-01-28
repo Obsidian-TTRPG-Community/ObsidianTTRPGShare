@@ -44,7 +44,7 @@ abilities_mid:
     desc: " ([[aura]], [[earth]], [[occult]]);  120 feet. While its core is implanted, a grikkitog infests all earth and stone within 120 feet, as long as there is a contiguous physical connection between the earth, including stone objects touching on the ground. This effect spreads even if the grikkitog does not have line of effect, though it can affect earth or stone on the surface and exposed to the air only if at least part of its core is exposed as well. Within the aura, it can grow maws and eyes everywhere. It can make jaws attacks against any creature, originating from any earth or stone in the aura adjacent to that creature. Determine cover from the origin point of the attack, not from the grikkitog's core."
 abilities_bot:
   - name: "Barbed Maw Upon"
-    desc: "  Striking a creature with its jaws, the grikkitog can extend its barbed teeth, immobilizing the target unless it succeeds at a DC 34 Reflex save. While [[immobilized|immobilized]], the victim takes 1 (3d8) [[persistent damage|persistent bleed damage]] and the grikkitog feeds upon its flesh. The creature is [[immobilized|immobilized]] until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[Escape]]. The grikkitog can immobilize any number of creatures with these maws."
+    desc: "  Striking a creature with its jaws, the grikkitog can extend its barbed teeth, immobilizing the target unless it succeeds at a DC 34 Reflex save. While [[immobilized|immobilized]], the victim takes 3d8 (3d8) [[persistent damage|persistent bleed damage]] and the grikkitog feeds upon its flesh. The creature is [[immobilized|immobilized]] until the grikkitog ends the effect as a free action or the target succeeds at a DC 38 check to [[Escape]]. The grikkitog can immobilize any number of creatures with these maws."
   - name: "Earth Glide"
     desc: "  The grikkitog can [[Burrow]] through dirt and stone at its full burrow Speed, leaving no tunnels or signs of its passing."
 
@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +29 ([[magical]]); __Damage__ 1 (3d12+14) piercing plus barbed maw"
+    desc: "⬻ jaws +29 ([[magical]]); __Damage__ 3d12+14 (3d12+14) piercing plus barbed maw"
 
 sourcebook: "_Bestiary_, page 195."
 ```

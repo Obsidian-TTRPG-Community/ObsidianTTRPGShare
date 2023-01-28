@@ -49,7 +49,7 @@ abilities_top:
     desc: "greatclub, hide armor;"
 abilities_bot:
   - name: "Powerful Charge"
-    desc: "⬺  The great cyclops [[Stride|Strides]] twice and makes a horn [[Strike]]. If it moved at least 20 feet away from its starting position, the [[Strike]]'s damage is increased to 1 (3d10+20)."
+    desc: "⬺  The great cyclops [[Stride|Strides]] twice and makes a horn [[Strike]]. If it moved at least 20 feet away from its starting position, the [[Strike]]'s damage is increased to 3d10+20 (3d10+20)."
   - name: "Throw Rock"
     desc: "⬻ "
 
@@ -66,13 +66,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatclub +25 ([[backswing]], [[reach|reach 15 feet]], [[shove]]); __Damage__ 1 (3d10+13) bludgeoning"
+    desc: "⬻ greatclub +25 ([[backswing]], [[reach|reach 15 feet]], [[shove]]); __Damage__ 3d10+13 (3d10+13) bludgeoning"
   - name: Melee
-    desc: "⬻ horn +25 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+13) piercing"
+    desc: "⬻ horn +25 ([[reach|reach 15 feet]]); __Damage__ 2d10+13 (2d10+13) piercing"
   - name: Melee
-    desc: "⬻ fist +25 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (3d4+13) bludgeoning"
+    desc: "⬻ fist +25 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d4+13 (3d4+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +23 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (4d6+7) bludgeoning"
+    desc: "⬻ rock +23 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 4d6+7 (4d6+7) bludgeoning"
 
 sourcebook: "_Bestiary_, page 69."
 ```

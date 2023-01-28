@@ -61,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flaming scimitar +20 ([[fire]], [[forceful]], [[good]], [[magical]], [[sweep]]); __Damage__ 1 (2d6+8) slashing plus 1 (1d6) fire and 1 (1d6) good"
+    desc: "⬻ flaming scimitar +20 ([[fire]], [[forceful]], [[good]], [[magical]], [[sweep]]); __Damage__ 2d6+8 (2d6+8) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

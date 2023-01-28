@@ -37,11 +37,11 @@ abilities_top:
     desc: "  A skaveling can use its hearing as a precise sense at the listed range."
 abilities_bot:
   - name: "Bone-Chilling Screech"
-    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]], [[necromancy]], [[occult]]);  The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a 20-foot emanation must also attempt a DC 22 Will save. The skaveling can't use Bone-Chilling Screech again for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Bone-"
+    desc: "⬺ ([[auditory]], [[emotion]], [[fear]], [[mental]], [[necromancy]], [[occult]]);  The skaveling unleashes a horrifying screech that chills the very bones of those close enough to feel it. The screech can be heard for miles, but each creature in a 20-foot emanation must also attempt a DC 22 Will save. The skaveling can't use Bone-Chilling Screech again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected and is temporarily immune to Bone-"
   - name: "Chilling"
     desc: "  Screech for 24 hours.\n__Success__ The creature is [[frightened|frightened 1]].\n__Failure__ The creature is [[frightened|frightened 2]].\n__Critical Failure__ The creature is [[frightened|frightened 2]] and [[stunned|stunned 1]] by fear."
   - name: "Ghoul Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 1 (2d6) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 1 (2d6) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4  (1 day)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 2d6 (2d6) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 2d6 (2d6) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4  (1 day)"
   - name: "Paralysis"
     desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any creature hit by the skaveling's [[Strike|Strikes]] must attempt a DC 22 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[slowed|slowed 1]].\n__Failure__ The creature is [[paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each save. into a standard potion of flying."
 

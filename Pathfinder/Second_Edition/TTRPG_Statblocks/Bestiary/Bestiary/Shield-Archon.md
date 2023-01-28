@@ -65,7 +65,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ holy striking spear +22 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+10) piercing plus 1 (1d6) good"
+    desc: "⬻ holy striking spear +22 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+10 (2d6+10) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

@@ -43,10 +43,10 @@ abilities_mid:
   - name: "Extra Reaction"
     desc: "  The dragon gains 2 reactions at the start of its turn each round."
   - name: "Golden Luck"
-    desc: "⬲ __Trigger__ The gold dragon fails a saving throw. __Effect__  The dragon improves its result by one degree of success, turning a failure into a success or a critical failure into a normal failure. The dragon can't use this ability again for 1 (1d4) rounds."
+    desc: "⬲ __Trigger__ The gold dragon fails a saving throw. __Effect__  The dragon improves its result by one degree of success, turning a failure into a success or a critical failure into a normal failure. The dragon can't use this ability again for 1d4 (1d4) rounds."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 50-foot cone that deals 1 (20d6) fire damage (DC 44 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 50-foot cone must succeed at a DC 44 Fortitude save or become [[enfeebled|enfeebled 3]] for 1 minute (or [[enfeebled|enfeebled 4]] on a critical failure).</li></ul>"
+    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 50-foot cone that deals 20d6 (20d6) fire damage (DC 44 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 50-foot cone must succeed at a DC 44 Fortitude save or become [[enfeebled|enfeebled 3]] for 1 minute (or [[enfeebled|enfeebled 4]] on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The gold dragon makes two claw [[Strike|Strikes]] and one horns [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -65,13 +65,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +38 ([[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (4d12+17) piercing plus 1 (4d6) fire"
+    desc: "⬻ jaws +38 ([[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d12+17 (4d12+17) piercing plus 4d6 (4d6) fire"
   - name: Melee
-    desc: "⬻ claw +38 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d10+17) slashing"
+    desc: "⬻ claw +38 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+17 (4d10+17) slashing"
   - name: Melee
-    desc: "⬻ tail +36 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (4d10+15) slashing"
+    desc: "⬻ tail +36 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d10+15 (4d10+15) slashing"
   - name: Melee
-    desc: "⬻ horns +36 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d12+15) piercing"
+    desc: "⬻ horns +36 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 2d12+15 (2d12+15) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

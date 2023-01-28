@@ -37,9 +37,9 @@ abilityMods: [7, 3, 5, 6, 5, 5]
 
 abilities_bot:
   - name: "Greater Constrict"
-    desc: "⬻  1 (2d10+7) bludgeoning, DC 29."
+    desc: "⬻  2d10+7 (2d10+7) bludgeoning, DC 29."
   - name: "Quetz Couatl Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d8) poison damage, [[enfeebled|enfeebled 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1 (2d10) poison damage, [[enfeebled|enfeebled 2]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[enfeebled|enfeebled 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[enfeebled|enfeebled 2]], and [[flat-footed|flat-footed]] (1 round)"
   - name: "Radiant Wings"
     desc: "⬺ ([[divine]], [[enchantment]], [[incapacitation]], [[mental]], [[visual]]);  The quetz couatl spreads its multicolored wings and radiant plumage. Each enemy within 30 feet must attempt a DC 29 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours.\n__Success__ The creature is [[dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[dazzled|dazzled]] for 1 minute.\n__Critical Failure__ As failure, but if the creature is evil, it is also [[stunned|stunned 3]]."
   - name: "Wrap in Coils"
@@ -60,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[magical]]); __Damage__ 1 (2d10+13) piercing plus quetz couatl venom and Grab"
+    desc: "⬻ jaws +23 ([[magical]]); __Damage__ 2d10+13 (2d10+13) piercing plus quetz couatl venom and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"

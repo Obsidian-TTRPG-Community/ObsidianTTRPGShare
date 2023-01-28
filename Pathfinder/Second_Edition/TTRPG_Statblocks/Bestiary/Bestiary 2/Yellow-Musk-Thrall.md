@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +7 __Damage__ 1 (1d4+3) bludgeoning plus Grab and pollen touch"
+    desc: "⬻ fist +7 __Damage__ 1d4+3 (1d4+3) bludgeoning plus Grab and pollen touch"
 
 sourcebook: "_Bestiary 2_, page 301."
 ```

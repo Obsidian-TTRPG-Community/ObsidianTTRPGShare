@@ -41,9 +41,9 @@ abilities_bot:
   - name: "Breach"
     desc: "⬺ ([[attack]], [[move]]);  The megalodon Swims up to its swim Speed, then Leaps vertically out of the water up to 25 feet high, making a [[Strike]] against a creature at any point during the jump (this lets it attack a creature within 35 feet of the water's surface or 40 feet with its tail). After the [[Strike]], the shark splashes back down into the water."
   - name: "Savage"
-    desc: "⬻ __Requirements__ The megalodon hit with a jaws [[Strike]] on its most recent action this turn.  __Effect__  The creature the megalodon hit takes 1 (2d12) slashing damage."
+    desc: "⬻ __Requirements__ The megalodon hit with a jaws [[Strike]] on its most recent action this turn.  __Effect__  The creature the megalodon hit takes 2d12 (2d12) slashing damage."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Huge, 1 (2d8+5) bludgeoning, Rupture 20."
+    desc: "⬻ ([[attack]]);  Huge, 2d8+5 (2d8+5) bludgeoning, Rupture 20."
 
 speed: swim 80 feet
 
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +22 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+10) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +22 ([[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ tail +22 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+10) piercing plus Push 15 feet"
+    desc: "⬻ tail +22 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+10 (2d8+10) piercing plus Push 15 feet"
 
 sourcebook: "_Bestiary_, page 291."
 ```

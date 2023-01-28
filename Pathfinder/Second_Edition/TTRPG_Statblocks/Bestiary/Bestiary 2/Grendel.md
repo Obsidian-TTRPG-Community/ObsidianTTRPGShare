@@ -50,7 +50,7 @@ abilities_bot:
   - name: "Hands of the Murderer"
     desc: "  Grendel's fist [[Strike|Strikes]] deal 18 bludgeoning damage on a failure (but no damage on a critical failure)."
   - name: "Tooth Grind"
-    desc: "⬻ __Requirements__ Grendel is grabbing a creature  __Effect__  Grendel makes a bludgeoning jaws [[Strike]] against the creature he's grabbing. On a hit, the creature also takes 1 (2d6) [[persistent damage|persistent bleed damage]] and becomes [[wounded|wounded 1]], or increases its [[wounded|wounded]] value by 1 if already [[wounded|wounded]]. On a critical hit, the creature instead becomes [[wounded|wounded 2]], or increases its [[wounded|wounded]] value by 2 if already [[wounded|wounded]]. If a creature dies from Tooth Grind, Grendel regains 40 HP; this is a [[healing]] effect."
+    desc: "⬻ __Requirements__ Grendel is grabbing a creature  __Effect__  Grendel makes a bludgeoning jaws [[Strike]] against the creature he's grabbing. On a hit, the creature also takes 2d6 (2d6) [[persistent damage|persistent bleed damage]] and becomes [[wounded|wounded 1]], or increases its [[wounded|wounded]] value by 1 if already [[wounded|wounded]]. On a critical hit, the creature instead becomes [[wounded|wounded 2]], or increases its [[wounded|wounded]] value by 2 if already [[wounded|wounded]]. If a creature dies from Tooth Grind, Grendel regains 40 HP; this is a [[healing]] effect."
   - name: "Throw Rock"
     desc: "⬻ "
 
@@ -67,11 +67,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +37 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (4d8+18) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ fist +37 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d8+18 (4d8+18) bludgeoning plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ jaws +37 ([[magical]], [[reach|reach 10 feet]], [[versatile|versatile b]]); __Damage__ 1 (4d10+18) piercing"
+    desc: "⬻ jaws +37 ([[magical]], [[reach|reach 10 feet]], [[versatile|versatile b]]); __Damage__ 4d10+18 (4d10+18) piercing"
   - name: Ranged
-    desc: "⬻ rock +37 ([[brutal]], [[range increment|range increment 150 feet]]); __Damage__ 1 (2d12+18) bludgeoning"
+    desc: "⬻ rock +37 ([[brutal]], [[range increment|range increment 150 feet]]); __Damage__ 2d12+18 (2d12+18) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 136."
 ```

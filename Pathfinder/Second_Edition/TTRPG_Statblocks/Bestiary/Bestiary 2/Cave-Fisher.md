@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +10 __Damage__ 1 (1d10+6) slashing"
+    desc: "⬻ claw +10 __Damage__ 1d10+6 (1d10+6) slashing"
   - name: Ranged
     desc: "⬻ filament +11 ([[range|range 60 feet]]); __Damage__ sticky filament"
 

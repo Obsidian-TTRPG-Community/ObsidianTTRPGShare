@@ -38,7 +38,7 @@ abilities_top:
     desc: "  A stingray in water can use its electrolocation as an imprecise sense at the listed range to detect living creatures that are in the same body of water as itself."
 abilities_bot:
   - name: "Stingray Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d4) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[clumsy|clumsy 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[clumsy|clumsy 1]] (1 round)"
 
 speed: swim 30 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ sting +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+1) piercing plus stingray venom"
+    desc: "⬻ sting +7 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus stingray venom"
 
 sourcebook: "_Bestiary 2_, page 226."
 ```

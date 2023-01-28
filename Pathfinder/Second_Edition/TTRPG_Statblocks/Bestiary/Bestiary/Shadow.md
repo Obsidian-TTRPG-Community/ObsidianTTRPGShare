@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shadow hand +15 ([[finesse]], [[magical]]); __Damage__ 1 (2d6+3) negative"
+    desc: "⬻ shadow hand +15 ([[finesse]], [[magical]]); __Damage__ 2d6+3 (2d6+3) negative"
 
 sourcebook: "_Bestiary_, page 289."
 ```

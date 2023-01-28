@@ -43,7 +43,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Abyssal Rot"
-    desc: " ([[disease]], [[necromancy]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (3d6) negative damage (1 round) __Stage 2__ 1 (3d6) negative damage and [[drained|drained 1]] (1 round) __Stage 3__ 1 (3d6) negative damage and [[drained|drained 2]] (1 round)"
+    desc: " ([[disease]], [[necromancy]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) negative damage (1 round) __Stage 2__ 3d6 (3d6) negative damage and [[drained|drained 1]] (1 round) __Stage 3__ 3d6 (3d6) negative damage and [[drained|drained 2]] (1 round)"
   - name: "Dimensional Tether"
     desc: "  A creature hit by the bebilith's web [[Strike]] is [[restrained|restrained]] and tethered to the bebilith, preventing it from moving further away from the bebilith. The [[restrained|restrained]] creature is also under the effects of a [[dimensional anchor]] spell (DC 29) with a duration that lasts as long as the creature remains tethered. The bebilith can have only one creature tethered at a time. The DC to [[Escape]] or [[Force Open]] the tether is 29. The tether can be severed with a [[Strike]] (AC 20, Hardness 2, HP 20); this ends the dimensional anchor effect but does not free the [[restrained|restrained]] creature."
   - name: "Penetrating Strike"
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+13) piercing plus"
+    desc: "⬻ jaws +23 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+13 (2d10+13) piercing plus"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+13) slashing"
+    desc: "⬻ claw +23 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) slashing"
   - name: Ranged
     desc: "⬻ web +23 ([[range increment|range increment 60 feet]]); __Damage__ dimensional tether"
 

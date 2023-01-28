@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+3) piercing plus 1 (1d4) [[persistent damage|persistent fire]]"
+    desc: "⬻ jaws +10 ([[agile]], [[finesse]]); __Damage__ 1d4+3 (1d4+3) piercing plus 1d4 (1d4) [[persistent damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 110."
 ```

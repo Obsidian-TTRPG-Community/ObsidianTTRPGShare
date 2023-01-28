@@ -36,7 +36,7 @@ abilityMods: [4, 3, 2, -1, 1, 0]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The bugbear tormentor deals 1 (1d6) extra precision damage to flatfooted creatures."
+    desc: "  The bugbear tormentor deals 1d6 (1d6) extra precision damage to flatfooted creatures."
   - name: "Twin Feint"
     desc: "⬺  The bugbear tormentor makes a dazzling series of attacks with two weapons, using the first attack to throw their foe off guard against a second attack at a different angle. They make one [[Strike]] with each of their two melee weapons, both against the same target. The target is automatically [[flat-footed|flat-footed]] against the second attack. Apply the bugbear tormentor's multiple attack penalty to the [[Strike|Strikes]] normally."
 abilities_top:
@@ -56,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +11 ([[agile]], [[versatile|versatile s]]); __Damage__ 1 (1d4+6) piercing"
+    desc: "⬻ dagger +11 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
   - name: Melee
-    desc: "⬻ sickle +11 ([[agile]], [[finesse]], [[trip]]); __Damage__ 1 (1d4+6) slashing"
+    desc: "⬻ sickle +11 ([[agile]], [[finesse]], [[trip]]); __Damage__ 1d4+6 (1d4+6) slashing"
   - name: Ranged
-    desc: "⬻ dagger +10 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+6) piercing"
+    desc: "⬻ dagger +10 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+6 (1d4+6) piercing"
 
 sourcebook: "_Bestiary_, page 47."
 ```

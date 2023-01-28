@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +29 __Damage__ 1 (3d6+14) slashing plus 1 (3d6) fire and 1 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ claw +29 __Damage__ 3d6+14 (3d6+14) slashing plus 3d6 (3d6) fire and 1d6 (1d6) [[persistent damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ flame jet +29 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 1 (6d6) fire plus 1 (2d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ flame jet +29 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d6 (2d6) [[persistent damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

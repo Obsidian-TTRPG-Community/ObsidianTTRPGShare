@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Pin Prey"
     desc: "⬲ __Trigger__ The tyrannosaurus critically hits a Large or smaller foe with its foot. __Effect__  The creature struck by the foot is knocked [[prone|prone]] and the tyrannosaurus uses its foot to hold the creature in place. As long as the tyrannosaurus doesn't move from its position, the pinned creature is [[Grabbed|Grabbed]]. A tyrannosaurus gains a +2 circumstance bonus to attack a creature it has pinned in this manner, but it cannot use Swallow Whole on the target unless it uses its jaws to Grab the victim first."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Medium, 1 (3d6+8) bludgeoning, Rupture 26."
+    desc: "⬻ ([[attack]]);  Medium, 3d6+8 (3d6+8) bludgeoning, Rupture 26."
   - name: "Trample"
     desc: "⬽  Huge or smaller, foot, DC 29."
   - name: "Rabies"
@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +22 ([[deadly|deadly 1d12]], [[reach|reach 20 feet]]); __Damage__ 1 (2d12+12) piercing plus Grab"
+    desc: "⬻ jaws +22 ([[deadly|deadly 1d12]], [[reach|reach 20 feet]]); __Damage__ 2d12+12 (2d12+12) piercing plus Grab"
   - name: Melee
-    desc: "⬻ foot +22 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+12) bludgeoning"
+    desc: "⬻ foot +22 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) bludgeoning"
 
 sourcebook: "_Bestiary_, page 101."
 ```

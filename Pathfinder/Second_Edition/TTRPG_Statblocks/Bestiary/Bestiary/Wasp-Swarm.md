@@ -35,9 +35,9 @@ abilityMods: [-4, 4, 2, -5, 2, -1]
 
 abilities_bot:
   - name: "Swarming Stings"
-    desc: "⬻  Each enemy in the swarm's space takes 1 (2d8) piercing damage (DC 21 basic Reflex save) and is exposed to wasp venom. A successful save negates the poison exposure."
+    desc: "⬻  Each enemy in the swarm's space takes 2d8 (2d8) piercing damage (DC 21 basic Reflex save) and is exposed to wasp venom. A successful save negates the poison exposure."
   - name: "Wasp Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison (1 round) __Stage 2__ 1 (2d6) poison and [[clumsy|clumsy 2]] (2 rounds)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 21 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison (1 round) __Stage 2__ 2d6 (2d6) poison and [[clumsy|clumsy 2]] (2 rounds)"
 
 speed: 20 feet, fly 40 feet
 

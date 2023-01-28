@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Undulate"
     desc: "⬻  The giant whiptail centipede [[Stride|Strides]] or [[Step|Steps]]. During this movement, it can pass through spaces as narrow as 5 feet without [[Squeeze|Squeezing]]."
   - name: "Whiptail Centipede Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d10) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1 (2d10) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 1 (2d10) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d10 (1d10) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 2d10 (2d10) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[clumsy|clumsy 2]] (1 round)"
 
 speed: 30 feet, climb 30 feet
 
@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +11 ([[reach|reach 10 feet]]); __Damage__ 1 (1d10+6) piercing plus whiptail centipede venom"
+    desc: "⬻ mandibles +11 ([[reach|reach 10 feet]]); __Damage__ 1d10+6 (1d10+6) piercing plus whiptail centipede venom"
   - name: Melee
-    desc: "⬻ tail +11 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (1d6+6) bludgeoning plus Knockdown"
+    desc: "⬻ tail +11 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning plus Knockdown"
 
 sourcebook: "_Bestiary 2_, page 50."
 ```

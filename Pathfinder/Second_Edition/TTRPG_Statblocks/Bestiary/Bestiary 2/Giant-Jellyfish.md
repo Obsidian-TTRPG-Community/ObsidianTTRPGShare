@@ -36,7 +36,7 @@ abilityMods: [6, 4, 6, -5, 0, -5]
 
 abilities_bot:
   - name: "Jellyfish Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d8) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 1 (2d10) poison damage and [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d8 (2d8) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[paralyzed|paralyzed]] (1 round)"
   - name: "Squeeze"
     desc: "  A giant jellyfish can fit into tight spaces as if it were a Medium creature. It can move at its full Speed while [[Squeeze|Squeezing]]."
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +18 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 1 (2d8+8) bludgeoning plus jellyfish venom"
+    desc: "⬻ tentacle +18 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 2d8+8 (2d8+8) bludgeoning plus jellyfish venom"
 
 sourcebook: "_Bestiary 2_, page 152."
 ```

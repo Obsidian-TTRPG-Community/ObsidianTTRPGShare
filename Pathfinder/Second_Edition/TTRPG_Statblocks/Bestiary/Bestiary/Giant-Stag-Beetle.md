@@ -49,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +13 __Damage__ 1 (2d8+5) piercing"
+    desc: "⬻ mandibles +13 __Damage__ 2d8+5 (2d8+5) piercing"
   - name: Melee
-    desc: "⬻ foot +11 __Damage__ 1 (1d10+5) bludgeoning"
+    desc: "⬻ foot +11 __Damage__ 1d10+5 (1d10+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 41."
 ```

@@ -42,7 +42,7 @@ abilities_top:
     desc: "[[shortsword]];"
 abilities_bot:
   - name: "Electrical Burst"
-    desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The arbiter releases an electrical burst from its body that deals 1 (3d6) electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes [[stunned|stunned]] for 24 hours."
+    desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The arbiter releases an electrical burst from its body that deals 3d6 (3d6) electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes [[stunned|stunned]] for 24 hours."
 
 speed: 20 feet, fly 40 feet
 
@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[lawful]], [[magical]], [[versatile|versatile s]]); __Damage__ 1 (1d6+1) piercing plus 1 (1d4) lawful"
+    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[lawful]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d4 (1d4) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"

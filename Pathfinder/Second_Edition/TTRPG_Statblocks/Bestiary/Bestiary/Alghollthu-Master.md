@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +16 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+10) bludgeoning plus slime"
+    desc: "⬻ tentacle +16 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+10 (2d8+10) bludgeoning plus slime"
 
 spellcasting:
   - name: "Occult Innate Spells"

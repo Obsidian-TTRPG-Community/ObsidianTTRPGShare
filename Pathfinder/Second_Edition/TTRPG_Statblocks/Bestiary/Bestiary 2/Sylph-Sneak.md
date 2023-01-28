@@ -43,7 +43,7 @@ abilities_top:
     desc: "leather armor, starknife;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The sylph sneak's [[Strike|Strikes]] deal 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The sylph sneak's [[Strike|Strikes]] deal 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[flat-footed|flat-footed]] to the sylph sneak."
   - name: "Wind's Guidance"
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ starknife +9 ([[agile]], [[deadly|deadly d6]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4+4)"
+    desc: "⬻ starknife +9 ([[agile]], [[deadly|deadly d6]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+4 (1d4+4)"
   - name: Ranged
-    desc: "⬻ starknife +9 ([[agile]], [[deadly|deadly d6]], [[thrown|thrown 30 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+1)"
+    desc: "⬻ starknife +9 ([[agile]], [[deadly|deadly d6]], [[thrown|thrown 30 feet]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1)"
 
 sourcebook: "_Bestiary 2_, page 202."
 ```

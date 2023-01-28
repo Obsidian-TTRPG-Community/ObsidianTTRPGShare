@@ -58,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +17 __Damage__ 1 (2d8+8) piercing plus Drink Blood"
+    desc: "⬻ fangs +17 __Damage__ 2d8+8 (2d8+8) piercing plus Drink Blood"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
 
 sourcebook: "_Bestiary 2_, page 276."
 ```

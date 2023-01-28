@@ -44,11 +44,11 @@ abilities_top:
     desc: "+1 striking gaff, sack with 5 rocks;"
 abilities_bot:
   - name: "Hook Shake"
-    desc: "⬻ __Requirements__ A creature adjacent to the marsh giant is [[prone|prone]] in water at least 1 foot deep  __Effect__  The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an [[Athletics]] check against the target's Fortitude DC.\n__Critical Success__ The target takes 1 (6d6+14) piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n__Success__ The target takes 1 (3d6+14) piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n__Failure__ The target is unaffected.\n__Critical Failure__ As failure, but the giant drops its gaff as well."
+    desc: "⬻ __Requirements__ A creature adjacent to the marsh giant is [[prone|prone]] in water at least 1 foot deep  __Effect__  The marsh giant uses its gaff to shake the creature back and forth and hold it underwater. The giant attempts an [[Athletics]] check against the target's Fortitude DC.\n__Critical Success__ The target takes 6d6+14 (6d6+14) piercing damage and loses 5 rounds' worth of air if they were holding their breath.\n__Success__ The target takes 3d6+14 (3d6+14) piercing damage and loses 3 rounds' worth of air if they were holding their breath.\n__Failure__ The target is unaffected.\n__Critical Failure__ As failure, but the giant drops its gaff as well."
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Twist the Hook"
-    desc: "⬺  The marsh giant makes a melee [[Strike]] with its gaff. If it hits, it twists and yanks the gaff to create an awful wound, dealing 1 (3d6) [[persistent damage|persistent bleed damage]] to the creature."
+    desc: "⬺  The marsh giant makes a melee [[Strike]] with its gaff. If it hits, it twists and yanks the gaff to create an awful wound, dealing 3d6 (3d6) [[persistent damage|persistent bleed damage]] to the creature."
 
 speed: 35 feet, swim 20 feet
 
@@ -63,11 +63,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ gaff +20 ([[magical]], [[reach|reach 10 feet]], [[trip]], [[versatile|versatile p]]); __Damage__ 1 (2d6+14) bludgeoning"
+    desc: "⬻ gaff +20 ([[magical]], [[reach|reach 10 feet]], [[trip]], [[versatile|versatile p]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
   - name: Melee
-    desc: "⬻ fist +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+14) bludgeoning"
+    desc: "⬻ fist +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +20 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d6+14) bludgeoning"
+    desc: "⬻ rock +20 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"

@@ -34,7 +34,7 @@ abilityMods: [2, 4, 1, -4, 2, -2]
 
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  The wolf's [[Strike|Strikes]] deal 1 (1d4) extra damage to creatures within reach of at least two of the wolf's allies."
+    desc: "  The wolf's [[Strike|Strikes]] deal 1d4 (1d4) extra damage to creatures within reach of at least two of the wolf's allies."
 
 speed: 35 feet
 
@@ -49,7 +49,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 __Damage__ 1 (1d6+2) piercing plus Knockdown"
+    desc: "⬻ jaws +9 __Damage__ 1d6+2 (1d6+2) piercing plus Knockdown"
 
 sourcebook: "_Bestiary_, page 334."
 ```

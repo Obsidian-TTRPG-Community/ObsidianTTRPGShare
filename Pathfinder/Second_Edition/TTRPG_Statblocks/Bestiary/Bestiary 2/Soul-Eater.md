@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +19 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+3) slashing plus 1 (2d6) negative and mind-numbing touch"
+    desc: "⬻ claw +19 ([[agile]], [[finesse]]); __Damage__ 2d6+3 (2d6+3) slashing plus 2d6 (2d6) negative and mind-numbing touch"
 
 sourcebook: "_Bestiary 2_, page 247."
 ```

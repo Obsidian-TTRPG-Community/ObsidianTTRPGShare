@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ nightmare tendril +20 ([[agile]], [[finesse]]); __Damage__ 1 (4d8) negative plus endless nightmare"
+    desc: "⬻ nightmare tendril +20 ([[agile]], [[finesse]]); __Damage__ 4d8 (4d8) negative plus endless nightmare"
 
 spellcasting:
   - name: "Occult Innate Spells"

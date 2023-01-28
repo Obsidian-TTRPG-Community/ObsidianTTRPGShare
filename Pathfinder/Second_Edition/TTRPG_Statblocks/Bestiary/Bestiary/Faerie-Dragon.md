@@ -36,7 +36,7 @@ abilityMods: [-2, 4, 0, 2, 0, 2]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes euphoric gas in a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[stupefied|stupefied 2]] and [[slowed|slowed 1]] for 1 (1d4) rounds; on a critical failure, the duration is 1 minute. The faerie dragon can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes euphoric gas in a 10-foot cone. Each creature in the area must succeed at a DC 18 Fortitude save or become [[stupefied|stupefied 2]] and [[slowed|slowed 1]] for 1d4 (1d4) rounds; on a critical failure, the duration is 1 minute. The faerie dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 15 feet, fly 40 feet, swim 20 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 ([[magical]], [[finesse]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ jaws +10 ([[magical]], [[finesse]]); __Damage__ 1d4 (1d4) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

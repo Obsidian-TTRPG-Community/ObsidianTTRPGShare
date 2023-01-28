@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack __Effect__  The dragon raises a wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, they descend 10 feet after the attack."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The dragon breathes a blast of magma that deals 1 (5d6) fire damage and 1 (3d12) bludgeoning damage in a 30-foot cone (DC 28 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The dragon breathes a blast of magma that deals 5d6 (5d6) fire damage and 3d12 (3d12) bludgeoning damage in a 30-foot cone (DC 28 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one horn [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -65,13 +65,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+10) piercing plus 1 (2d6) fire"
+    desc: "⬻ jaws +21 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) piercing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]]); __Damage__ 1 (2d10+10) slashing"
+    desc: "⬻ claw +21 ([[agile]]); __Damage__ 2d10+10 (2d10+10) slashing"
   - name: Melee
-    desc: "⬻ tail +19 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+10) bludgeoning"
+    desc: "⬻ tail +19 ([[reach|reach 15 feet]]); __Damage__ 2d12+10 (2d12+10) bludgeoning"
   - name: Melee
-    desc: "⬻ horns +19 ([[reach|reach 10 feet]]); __Damage__ 1 (1d10+10) piercing"
+    desc: "⬻ horns +19 ([[reach|reach 10 feet]]); __Damage__ 1d10+10 (1d10+10) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

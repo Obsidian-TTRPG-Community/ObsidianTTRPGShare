@@ -35,7 +35,7 @@ abilityMods: [4, 2, 4, -4, 3, 0]
 
 abilities_mid:
   - name: "Pus Burst"
-    desc: "⬲ __Trigger__ The giant crawling hand takes piercing or slashing damage __Effect__  A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 1 (4d6) negative damage. The affected creature must attempt a DC 21 Reflex save.\n__Critical Success__ The creature takes no damage.\n__Success__ The creature takes half damage and becomes [[sickened|sickened 1]].\n__Failure__ The creature takes full damage and becomes [[sickened|sickened 2]].\n__Critical Failure__ The creature takes double damage and becomes [[sickened|sickened 3]]."
+    desc: "⬲ __Trigger__ The giant crawling hand takes piercing or slashing damage __Effect__  A random creature adjacent to the giant crawling hand is sprayed with vile pus that deals 4d6 (4d6) negative damage. The affected creature must attempt a DC 21 Reflex save.\n__Critical Success__ The creature takes no damage.\n__Success__ The creature takes half damage and becomes [[sickened|sickened 1]].\n__Failure__ The creature takes full damage and becomes [[sickened|sickened 2]].\n__Critical Failure__ The creature takes double damage and becomes [[sickened|sickened 3]]."
 abilities_bot:
   - name: "Mark Quarry"
     desc: "  A crawling hand can be assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand ever has no quarry, it automatically gains the next creature it damages as its quarry. The hand gains a +1 circumstance bonus to [[Perception]] checks when it Seeks its quarry, to [[Survival]] checks when it Tracks its quarry, and damage rolls when it [[Strike|Strikes]] its quarry."
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +15 __Damage__ 1 (2d6+7) slashing plus Grab"
+    desc: "⬻ claw +15 __Damage__ 2d6+7 (2d6+7) slashing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 56."
 ```

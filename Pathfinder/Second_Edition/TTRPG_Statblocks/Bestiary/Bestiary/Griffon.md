@@ -51,11 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +14 ([[deadly|deadly 1d10]]); __Damage__ 1 (2d8+4) piercing"
+    desc: "⬻ beak +14 ([[deadly|deadly 1d10]]); __Damage__ 2d8+4 (2d8+4) piercing"
   - name: Melee
-    desc: "⬻ talon +14 ([[agile]]); __Damage__ 1 (2d6+4) piercing"
+    desc: "⬻ talon +14 ([[agile]]); __Damage__ 2d6+4 (2d6+4) piercing"
   - name: Melee
-    desc: "⬻ wing +14 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+4) bludgeoning"
+    desc: "⬻ wing +14 ([[reach|reach 10 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 194."
 ```

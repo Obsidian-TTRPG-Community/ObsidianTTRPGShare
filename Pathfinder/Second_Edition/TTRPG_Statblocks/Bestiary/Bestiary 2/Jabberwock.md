@@ -47,7 +47,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within the jabberwock's reach uses a manipulate action or a move action, leaves a square during a move action, makes a ranged attack, or uses a concentrate action __Effect__  The jabberwock makes a claw [[Strike]] against the triggering creature. If the [[Strike]] hits, the jabberwock disrupts the triggering action."
 abilities_bot:
   - name: "Burble"
-    desc: "⬺  The jabberwock creates a blast of strange noises and shouted nonsense in the various languages it knows (and invariably some languages it doesn't know), creating one of two effects. The jabberwock can't Burble again for 1d4 rounds.<ul class='inner-bullet-list'><li>__Confusion__ (aura, emotion, enchantment, mental, primal) 60 feet. Each creature in the emanation must succeed at a DC 46 Will save or become confused for 1 (1d4) rounds.</li><li>__Sonic Beam__ (evocation, primal, sonic) The jabberwock focuses its Burbling into a 60 foot line of sonic energy that deals 1 (24d6) sonic damage to creatures in the area (DC 46 basic Reflex save).</li></ul>"
+    desc: "⬺  The jabberwock creates a blast of strange noises and shouted nonsense in the various languages it knows (and invariably some languages it doesn't know), creating one of two effects. The jabberwock can't Burble again for 1d4 rounds.<ul class='inner-bullet-list'><li>__Confusion__ (aura, emotion, enchantment, mental, primal) 60 feet. Each creature in the emanation must succeed at a DC 46 Will save or become confused for 1d4 (1d4) rounds.</li><li>__Sonic Beam__ (evocation, primal, sonic) The jabberwock focuses its Burbling into a 60 foot line of sonic energy that deals 24d6 (24d6) sonic damage to creatures in the area (DC 46 basic Reflex save).</li></ul>"
   - name: "Jaws That Bite"
     desc: "  If the jabberwock makes a jaws attack and rolls a natural 19 on the d20 roll, the attack is a critical hit. This has no effect if the 19 would be a failure."
   - name: "Whiffling"
@@ -66,15 +66,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +42 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d12+19) piercing"
+    desc: "⬻ jaws +42 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d12+19 (4d12+19) piercing"
   - name: Melee
-    desc: "⬻ claw +42 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d8+19) slashing plus [[Improved Grab]]"
+    desc: "⬻ claw +42 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+19 (4d8+19) slashing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ tail +42 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d10+19) bludgeoning plus [[Improved Knockdown]]"
+    desc: "⬻ tail +42 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+19 (4d10+19) bludgeoning plus [[Improved Knockdown]]"
   - name: Melee
-    desc: "⬻ wing +40 ([[magical]], [[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (4d8+19) bludgeoning"
+    desc: "⬻ wing +40 ([[magical]], [[agile]], [[reach|reach 15 feet]]); __Damage__ 4d8+19 (4d8+19) bludgeoning"
   - name: Ranged
-    desc: "⬻ eyes of flame +42 ([[fire]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 1 (10d6) fire plus 1 (4d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ eyes of flame +42 ([[fire]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 10d6 (10d6) fire plus 4d6 (4d6) [[persistent damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 151."
 ```

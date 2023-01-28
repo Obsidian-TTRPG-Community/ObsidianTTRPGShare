@@ -45,7 +45,7 @@ abilities_top:
     desc: "chain shirt, greataxe, hatchet (8);"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Medium human with fist +13 for 1 (1d4+7) bludgeoning, or grizzly bear with Speed 35 feet."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Medium human with fist +13 for 1d4+7 (1d4+7) bludgeoning, or grizzly bear with Speed 35 feet."
   - name: "Curse of the Werebear"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  __Saving Throw__ 22 Fortitude."
   - name: "Hunt Prey"
@@ -55,7 +55,7 @@ abilities_bot:
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Precision Edge"
-    desc: "  The werebear deals 1 (1d8) additional precision damage on its first successful [[Strike]] against its hunted target on each of its turns."
+    desc: "  The werebear deals 1d8 (1d8) additional precision damage on its first successful [[Strike]] against its hunted target on each of its turns."
 
 speed: 25 feet
 
@@ -70,15 +70,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+7) slashing plus Grab"
+    desc: "⬻ claw +13 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d10+7 (1d10+7) slashing plus Grab"
   - name: Melee
-    desc: "⬻ greataxe +13 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d12+7) slashing"
+    desc: "⬻ greataxe +13 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d12+7 (1d12+7) slashing"
   - name: Melee
-    desc: "⬻ hatchet +13 ([[agile]], [[sweep]]); __Damage__ 1 (1d6+7) slashing"
+    desc: "⬻ hatchet +13 ([[agile]], [[sweep]]); __Damage__ 1d6+7 (1d6+7) slashing"
   - name: Melee
-    desc: "⬻ jaws +13 ([[reach|reach 10 feet]]); __Damage__ 1 (1d12+7) piercing plus curse of the werebear"
+    desc: "⬻ jaws +13 ([[reach|reach 10 feet]]); __Damage__ 1d12+7 (1d12+7) piercing plus curse of the werebear"
   - name: Ranged
-    desc: "⬻ hatchet +10 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+7) slashing"
+    desc: "⬻ hatchet +10 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1d6+7 (1d6+7) slashing"
 
 sourcebook: "_Bestiary_, page 331."
 ```

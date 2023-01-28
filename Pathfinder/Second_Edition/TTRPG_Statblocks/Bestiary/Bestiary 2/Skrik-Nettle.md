@@ -57,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +17 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) piercing plus skrik nettle venom"
+    desc: "⬻ beak +17 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) piercing plus skrik nettle venom"
 
 sourcebook: "_Bestiary 2_, page 242."
 ```

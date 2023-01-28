@@ -40,7 +40,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature that the giant crab can see targets the crab with an attack __Effect__  The giant crab scuttles to the side and gains a +2 circumstance bonus to AC against the triggering attack. After the attack resolves, the crab can [[Stride]] up to its speed in a straight line as part of the reaction."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6+4) bludgeoning, DC 18."
+    desc: "⬻  1d6+4 (1d6+4) bludgeoning, DC 18."
 
 speed: 25 feet, swim 15 feet
 
@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +10 __Damage__ 1 (1d10+4) slashing plus Grab"
+    desc: "⬻ claw +10 __Damage__ 1d10+4 (1d10+4) slashing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 55."
 ```

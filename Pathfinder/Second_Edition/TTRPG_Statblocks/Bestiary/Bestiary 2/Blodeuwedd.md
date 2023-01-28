@@ -45,7 +45,7 @@ abilities_top:
     desc: "+1 sling;"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬺ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  A blodeuwedd can take on the appearance of a single unique humanoid or the form of a prairie owl. When in humanoid form, the blodeuwedd loses its claw attack. In owl form, its statistics change as follows: Size Small; Speed fly 60 feet; Melee ⬻ talons +15, Damage 1 (1d3+1). A blodeuwedd can return to their normal form as a free action."
+    desc: "⬺ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  A blodeuwedd can take on the appearance of a single unique humanoid or the form of a prairie owl. When in humanoid form, the blodeuwedd loses its claw attack. In owl form, its statistics change as follows: Size Small; Speed fly 60 feet; Melee ⬻ talons +15, Damage 1d3+1 (1d3+1). A blodeuwedd can return to their normal form as a free action."
   - name: "Living Footsteps Every"
     desc: "  [[Stride]] action taken by a blodeuwedd causes small plants, grasses, and wildflowers to sprout from the ground, though they can suppress this effect if they desire. In a region or terrain that wouldn't normally support plant life, these plants thrive for 1 minute before withering away."
   - name: "Nature's Infusion"
@@ -64,11 +64,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +14 ([[agile]]); __Damage__ 2d8+7 (2d8+7) slashing"
   - name: Ranged
-    desc: "⬻ sling +17 ([[propulsive]], [[range increment|range increment 50 feet]]); __Damage__ 1 (2d6+4) bludgeoning"
+    desc: "⬻ sling +17 ([[propulsive]], [[range increment|range increment 50 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
   - name: Melee
-    desc: "⬻ talons +15 __Damage__ 1 (1d3+1)."
+    desc: "⬻ talons +15 __Damage__ 1d3+1 (1d3+1)."
 
 spellcasting:
   - name: "Primal Innate Spells"

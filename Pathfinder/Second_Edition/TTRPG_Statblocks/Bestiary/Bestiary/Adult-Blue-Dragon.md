@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 1 (9d12) electricity damage in a 100-foot line (DC 33 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 9d12 (9d12) electricity damage in a 100-foot line (DC 33 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Desert Thirst"
     desc: " ([[arcane]], [[transmutation]]);  When casting create water, the dragon can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 32 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body."
   - name: "Draconic Frenzy"
@@ -65,13 +65,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +27 ([[electricity]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+12) piercing plus 1 (1d12) electricity"
+    desc: "⬻ jaws +27 ([[electricity]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+12 (3d8+12) piercing plus 1d12 (1d12) electricity"
   - name: Melee
-    desc: "⬻ claw +27 ([[magical]], [[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+12) slashing"
+    desc: "⬻ claw +27 ([[magical]], [[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+12 (3d8+12) slashing"
   - name: Melee
-    desc: "⬻ tail +25 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d8+10) bludgeoning"
+    desc: "⬻ tail +25 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d8+10 (3d8+10) bludgeoning"
   - name: Melee
-    desc: "⬻ horns +25 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+10) piercing"
+    desc: "⬻ horns +25 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+10 (2d8+10) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

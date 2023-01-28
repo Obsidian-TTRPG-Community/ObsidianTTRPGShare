@@ -49,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +11 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+4) bludgeoning"
+    desc: "⬻ fist +11 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +11 ([[reach|reach 5 feet]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ jaws +11 ([[reach|reach 5 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
 
 sourcebook: "_Bestiary_, page 23."
 ```

@@ -38,7 +38,7 @@ abilities_bot:
   - name: "Hurried Retreat"
     desc: "⬻ __Requirements__ The kobold warrior is adjacent to at least one enemy.  __Effect__  The kobold warrior [[Stride|Strides]] up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
   - name: "Sneak Attack"
-    desc: "  The kobold scout deals an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The kobold scout deals an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 abilities_top:
   - name: Items
     desc: "crossbow (20 bolts), leather armor, [[shortsword]], snare kit;"
@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6 (1d6) piercing"
   - name: Ranged
-    desc: "⬻ crossbow +9 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8) piercing"
+    desc: "⬻ crossbow +9 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 sourcebook: "_Bestiary_, page 213."
 ```

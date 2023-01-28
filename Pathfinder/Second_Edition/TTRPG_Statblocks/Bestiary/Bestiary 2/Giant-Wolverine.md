@@ -34,13 +34,13 @@ abilityMods: [6, 3, 3, -4, 3, 0]
 
 abilities_bot:
   - name: "Gnaw"
-    desc: "⬻ __Requirements__ The wolverine has a creature [[grabbed|grabbed]] from its jaws [[Strike]]  __Effect__  The wolverine chews violently on the creature, dealing 1 (2d6) piercing damage (DC 21 basic Fortitude save). A creature that fails its save also takes 1 (2d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻ __Requirements__ The wolverine has a creature [[grabbed|grabbed]] from its jaws [[Strike]]  __Effect__  The wolverine chews violently on the creature, dealing 2d6 (2d6) piercing damage (DC 21 basic Fortitude save). A creature that fails its save also takes 2d6 (2d6) [[persistent damage|persistent bleed damage]]."
   - name: "Pounce"
     desc: "⬻  The wolverine [[Stride|Strides]] and makes a [[Strike]] at the end of that movement. If the wolverine begins this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the attack."
   - name: "Rend"
     desc: "⬻ ([[claw]]); "
   - name: "Wolverine Rage"
-    desc: "⬻  The giant wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[unconscious|unconscious]], whichever comes first. While raging, the giant wolverine has AC 20, its jaws Strike deals 1 (2d6+11) damage, and its claw Strike deals 1 (2d4+11) damage. While raging, the giant wolverine can't use actions that have the [[concentrate]] trait, except for [[Seek]]. After it's stopped raging, a giant wolverine can't use Wolverine Rage again for 1 minute."
+    desc: "⬻  The giant wolverine enters a state of pure rage that lasts either for 1 minute, until there are no enemies it can perceive, or until it falls [[unconscious|unconscious]], whichever comes first. While raging, the giant wolverine has AC 20, its jaws Strike deals 2d6+11 (2d6+11) damage, and its claw Strike deals 2d4+11 (2d4+11) damage. While raging, the giant wolverine can't use actions that have the [[concentrate]] trait, except for [[Seek]]. After it's stopped raging, a giant wolverine can't use Wolverine Rage again for 1 minute."
 
 speed: 25 feet, climb 10 feet
 
@@ -55,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +12 __Damage__ 1 (2d6+8) piercing plus Grab"
+    desc: "⬻ jaws +12 __Damage__ 2d6+8 (2d6+8) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +12 ([[agile]]); __Damage__ 1 (2d4+8) slashing"
+    desc: "⬻ claw +12 ([[agile]]); __Damage__ 2d4+8 (2d4+8) slashing"
 
 sourcebook: "_Bestiary 2_, page 295."
 ```

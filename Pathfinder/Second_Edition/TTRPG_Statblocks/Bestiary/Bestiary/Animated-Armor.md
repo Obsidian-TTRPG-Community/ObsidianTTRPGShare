@@ -50,9 +50,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +11 ([[deadly|deadly 1d8]], [[forceful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ glaive +11 ([[deadly|deadly 1d8]], [[forceful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ gauntlet +9 ([[agile]], [[free-hand]], [[magical]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ gauntlet +9 ([[agile]], [[free-hand]], [[magical]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 20."
 ```

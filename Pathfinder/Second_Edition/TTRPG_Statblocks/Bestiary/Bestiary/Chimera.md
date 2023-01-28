@@ -43,9 +43,9 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]]);  The chimera breathes a cone or line that deals 1 (9d6) damage to all creatures in the area (DC 26 basic save of a type indicated below). The color of the chimera's dragon head determines the area of the Breath Weapon, the type of damage it deals, and the type of save to avoid it. The chimera can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>Black 60-foot line of acid (Reflex)</li><li>Blue 60-foot line of electricity (Reflex)</li><li>Green 30-foot cone of poison (Fortitude)</li><li>Red 30-foot cone of fire (Reflex)</li><li>White 30-foot cone of cold (Reflex)</li></ul>"
+    desc: "⬺ ([[arcane]], [[evocation]]);  The chimera breathes a cone or line that deals 9d6 (9d6) damage to all creatures in the area (DC 26 basic save of a type indicated below). The color of the chimera's dragon head determines the area of the Breath Weapon, the type of damage it deals, and the type of save to avoid it. The chimera can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>Black 60-foot line of acid (Reflex)</li><li>Blue 60-foot line of electricity (Reflex)</li><li>Green 30-foot cone of poison (Fortitude)</li><li>Red 30-foot cone of fire (Reflex)</li><li>White 30-foot cone of cold (Reflex)</li></ul>"
   - name: "Draconic Bite"
-    desc: "  A chimera's dragon head deals an extra 1 (2d6) damage of a type matching the dragon's color (see Breath Weapon)."
+    desc: "  A chimera's dragon head deals an extra 2d6 (2d6) damage of a type matching the dragon's color (see Breath Weapon)."
   - name: "Three-Headed Strike"
     desc: "⬺  The chimera makes a [[Strike]] with its dragon jaws, lion jaws, and goat horns, each at a –2 penalty and targeting a different creature. These [[Strike|Strikes]] count as only one attack for the chimera's multiple attack penalty, and the penalty doesn't increase until after it has made all three attacks."
 
@@ -62,13 +62,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dragon jaws +20 __Damage__ 1 (2d6+9) piercing plus 1 (2d6) energy damage (see draconic bite)"
+    desc: "⬻ dragon jaws +20 __Damage__ 2d6+9 (2d6+9) piercing plus 2d6 (2d6) energy damage (see draconic bite)"
   - name: Melee
-    desc: "⬻ lion jaws +20 __Damage__ 1 (2d10+9) piercing"
+    desc: "⬻ lion jaws +20 __Damage__ 2d10+9 (2d10+9) piercing"
   - name: Melee
-    desc: "⬻ goat horns +20 __Damage__ 1 (2d10+9) piercing"
+    desc: "⬻ goat horns +20 __Damage__ 2d10+9 (2d10+9) piercing"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]]); __Damage__ 1 (2d6+9) slashing"
+    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d6+9 (2d6+9) slashing"
 
 sourcebook: "_Bestiary_, page 63."
 ```

@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ silver rapier +13 ([[deadly|deadly 1d10]], [[disarm]], [[finesse]], [[good]], [[magical]]); __Damage__ 1 (1d6+7) piercing plus 1 (1d4) good"
+    desc: "⬻ silver rapier +13 ([[deadly|deadly 1d10]], [[disarm]], [[finesse]], [[good]], [[magical]]); __Damage__ 1d6+7 (1d6+7) piercing plus 1d4 (1d4) good"
 
 spellcasting:
   - name: "Divine Innate Spells"

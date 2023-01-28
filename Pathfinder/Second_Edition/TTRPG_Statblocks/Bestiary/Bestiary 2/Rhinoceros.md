@@ -34,7 +34,7 @@ abilityMods: [6, 0, 4, -4, 3, -1]
 
 abilities_bot:
   - name: "Rhinoceros Charge"
-    desc: "⬺  The rhinoceros [[Stride|Strides]] twice, then makes a horn [[Strike]]. As long as the rhinoceros moved at least 20 feet, the [[Strike]]'s damage increases to 1 (3d8+6). A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex save or be automatically Shoved back 5 feet and knocked [[prone|prone]] by the force of the blow."
+    desc: "⬺  The rhinoceros [[Stride|Strides]] twice, then makes a horn [[Strike]]. As long as the rhinoceros moved at least 20 feet, the [[Strike]]'s damage increases to 3d8+6 (3d8+6). A Medium or smaller creature struck by this attack must succeed at a DC 21 Reflex save or be automatically Shoved back 5 feet and knocked [[prone|prone]] by the force of the blow."
   - name: "Trample"
     desc: "⬽  Medium or smaller, foot, DC 18."
 
@@ -51,9 +51,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horn +14 __Damage__ 1 (2d8+6) piercing"
+    desc: "⬻ horn +14 __Damage__ 2d8+6 (2d8+6) piercing"
   - name: Melee
-    desc: "⬻ foot +12 __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ foot +12 __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 228."
 ```

@@ -38,7 +38,7 @@ abilities_top:
     desc: "  A grimstalker can [[Hide]] in natural environments, even if it doesn't have cover."
 abilities_bot:
   - name: "Grimstalker Sap"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[clumsy|clumsy 1]]  (1 round) __Stage 3__ 1 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[clumsy|clumsy 1]]  (1 round) __Stage 3__ 2d6 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
   - name: "Woodland Stride"
     desc: "  A grimstalker can always find a path, almost as if foliage parts before it. A grimstalker ignores [[terrain|difficult terrain]] caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede its progress."
 
@@ -55,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +15 ([[agile]]); __Damage__ 1 (2d6+7) slashing plus grimstalker sap"
+    desc: "⬻ claw +15 ([[agile]]); __Damage__ 2d6+7 (2d6+7) slashing plus grimstalker sap"
 
 spellcasting:
   - name: "Primal Innate Spells"

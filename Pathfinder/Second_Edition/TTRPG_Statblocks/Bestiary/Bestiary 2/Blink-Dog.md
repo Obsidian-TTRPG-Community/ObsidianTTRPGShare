@@ -36,7 +36,7 @@ abilityMods: [1, 3, 2, 1, 4, 2]
 
 abilities_bot:
   - name: "Pack Attack"
-    desc: "  The blink dog's [[Strike|Strikes]] deal an additional 1 (1d4) damage to creatures within the reach of at least two of the blink dog's allies."
+    desc: "  The blink dog's [[Strike|Strikes]] deal an additional 1d4 (1d4) damage to creatures within the reach of at least two of the blink dog's allies."
 
 speed: 35 feet
 
@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws (agile, finesse) +11 __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ jaws (agile, finesse) +11 __Damage__ 1d6+3 (1d6+3) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"

@@ -54,11 +54,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ staff +8 ([[two-hand|two-hand d8]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ staff +8 ([[two-hand|two-hand d8]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ jaws +8 __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Melee
-    desc: "⬻ tail +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+2) bludgeoning"
+    desc: "⬻ tail +8 ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) bludgeoning"
 
 spellcasting:
   - name: "Primal Prepared Spells"

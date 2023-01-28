@@ -52,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d10+3) piercing plus necrophidic paralysis"
+    desc: "⬻ jaws +8 ([[agile]], [[finesse]]); __Damage__ 1d10+3 (1d10+3) piercing plus necrophidic paralysis"
 
 sourcebook: "_Bestiary 2_, page 180."
 ```

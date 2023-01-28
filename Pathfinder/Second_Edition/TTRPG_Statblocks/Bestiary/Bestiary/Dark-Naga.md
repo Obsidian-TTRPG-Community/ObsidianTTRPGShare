@@ -39,7 +39,7 @@ abilities_mid:
     desc: " ([[abjuration]], [[occult]]);  Dark nagas are immune to any form of mind reading."
 abilities_bot:
   - name: "Dark Naga Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 5 minutes __Stage 1__ [[slowed|slowed 1]] (1 round) __Stage 2__ [[slowed|slowed 2]] (1 round) __Stage 3__ [[unconscious|unconscious]] with no [[Perception]] check to wake up (1 (1d4+1) minutes)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 5 minutes __Stage 1__ [[slowed|slowed 1]] (1 round) __Stage 2__ [[slowed|slowed 2]] (1 round) __Stage 3__ [[unconscious|unconscious]] with no [[Perception]] check to wake up (1d4+1 (1d4+1) minutes)"
 
 speed: 30 feet
 
@@ -54,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +19 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+5) piercing plus dark naga venom"
+    desc: "⬻ fangs +19 ([[agile]], [[finesse]]); __Damage__ 2d8+5 (2d8+5) piercing plus dark naga venom"
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"

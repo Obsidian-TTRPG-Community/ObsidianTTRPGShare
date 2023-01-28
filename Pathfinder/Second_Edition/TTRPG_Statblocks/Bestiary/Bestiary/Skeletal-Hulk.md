@@ -48,7 +48,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+11) slashing"
+    desc: "⬻ claw +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+11 (2d6+11) slashing"
 
 sourcebook: "_Bestiary_, page 299."
 ```

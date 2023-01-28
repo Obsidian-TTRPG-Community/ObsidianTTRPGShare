@@ -43,7 +43,7 @@ abilities_top:
     desc: " ([[abjuration]], [[primal]]);  A water orm automatically tries to counteract any detection, revelation, or scrying divination attempted against it, using its [[Stealth]] modifier for the counteract check."
 abilities_bot:
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Large, 1 (2d8+8) bludgeoning, Rupture 22."
+    desc: "⬻ ([[attack]]);  Large, 2d8+8 (2d8+8) bludgeoning, Rupture 22."
   - name: "Water Travel"
     desc: "⬽ ([[primal]], [[transmutation]], [[water]]);  A water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water. While in this form, a water orm's swim Speed increases to 600 feet, it automatically succeeds at [[Athletics]] checks to swim, and it gains a +4 circumstance bonus to [[Stealth]] checks in water. A water orm can remain in this form for 8 hours, but it can't enter salt water when using this ability. A water orm can return to its normal form using a single action which has the [[concentrate]] trait."
 
@@ -60,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +24 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+11) piercing plus Grab"
+    desc: "⬻ jaws +24 ([[reach|reach 15 feet]]); __Damage__ 2d10+11 (2d10+11) piercing plus Grab"
   - name: Melee
-    desc: "⬻ tail +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d6+11) bludgeoning"
+    desc: "⬻ tail +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d6+11 (2d6+11) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 289."
 ```

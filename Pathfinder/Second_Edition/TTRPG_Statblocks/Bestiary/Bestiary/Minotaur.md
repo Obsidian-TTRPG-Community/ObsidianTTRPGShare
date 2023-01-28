@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Hunted Fear"
     desc: "⬻  The minotaur snorts and clomps as it hunts its prey, inspiring terror. The minotaur makes an [[Intimidation]] check to [[Demoralize]] all living creatures within 60 feet that can hear the minotaur but not see it. Roll once and apply the result to all creatures. If the targets are in a maze or similarly difficult-to-navigate structure, the minotaur gains a +4 circumstance bonus to this check. Creatures that become [[frightened|frightened]] as a result also take a –2 circumstance penalty to [[Survival]] checks to avoid getting lost for 1 minute. This use of [[Demoralize]] doesn't have the [[visual]] trait. Each target is temporarily immune for 1 minute."
   - name: "Powerful Charge"
-    desc: "⬺  The minotaur [[Stride|Strides]] twice, then makes a horn [[Strike]]. If it moved at least 20 feet from its starting position, the [[Strike]]'s damage is increased to 1 (2d8+10)."
+    desc: "⬺  The minotaur [[Stride|Strides]] twice, then makes a horn [[Strike]]. If it moved at least 20 feet from its starting position, the [[Strike]]'s damage is increased to 2d8+10 (2d8+10)."
 
 speed: 25 feet
 
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d12+8) slashing"
+    desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d12+8 (1d12+8) slashing"
   - name: Melee
-    desc: "⬻ horn +14 __Damage__ 1 (1d8+8) piercing"
+    desc: "⬻ horn +14 __Damage__ 1d8+8 (1d8+8) piercing"
 
 sourcebook: "_Bestiary_, page 237."
 ```

@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Punishing Momentum"
     desc: "⬻ __Requirements__ The wyvern [[grabbed|grabbed]] a creature this turn using Powerful Dive.  __Effect__  The wyvern can [[Fly]] at half Speed while holding the creature in its claws, carrying that creature along with it and dropping it at the end of its movement. Alternatively, the wyvern can [[Strike]] the creature with its stinger with a +2 circumstance bonus."
   - name: "Wyvern Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (5d6) poison damage (1 round) __Stage 2__ 1 (6d6) poison damage (1 round) __Stage 3__ 1 (8d6) poison damage (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 5d6 (5d6) poison damage (1 round) __Stage 2__ 6d6 (6d6) poison damage (1 round) __Stage 3__ 8d6 (8d6) poison damage (1 round)"
 
 speed: 20 feet, fly 60 feet
 
@@ -59,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +17 __Damage__ 1 (2d12+5) piercing"
+    desc: "⬻ fangs +17 __Damage__ 2d12+5 (2d12+5) piercing"
   - name: Melee
-    desc: "⬻ claw +17 __Damage__ 1 (2d8+5) slashing plus Grab"
+    desc: "⬻ claw +17 __Damage__ 2d8+5 (2d8+5) slashing plus Grab"
   - name: Melee
-    desc: "⬻ stinger +15 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+5) piercing plus wyvern venom"
+    desc: "⬻ stinger +15 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+5 (2d6+5) piercing plus wyvern venom"
 
 sourcebook: "_Bestiary_, page 133."
 ```

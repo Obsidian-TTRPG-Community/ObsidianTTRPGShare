@@ -42,7 +42,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The brass dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire) The dragon breathes fire in a 100-foot line that deals 1 (16d6) fire damage (DC 39 basic Reflex save).</li><li>__Sleep Gas__ (arcane, enchantment, incapacitation, sleep); The dragon breathes an 80-foot cone of sleep gas. Each creature within the cone must succeed at a DC 39 Fortitude save or fall [[unconscious|unconscious]] for 1 (1d6) rounds, or 1 minute on a critical failure.</li></ul>"
+    desc: "⬺  The brass dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire) The dragon breathes fire in a 100-foot line that deals 16d6 (16d6) fire damage (DC 39 basic Reflex save).</li><li>__Sleep Gas__ (arcane, enchantment, incapacitation, sleep); The dragon breathes an 80-foot cone of sleep gas. Each creature within the cone must succeed at a DC 39 Fortitude save or fall [[unconscious|unconscious]] for 1d6 (1d6) rounds, or 1 minute on a critical failure.</li></ul>"
   - name: "Desert Wind"
     desc: "⬺ ([[air]], [[arcane]], [[concentrate]], [[evocation]]); __Frequency__ three times per day  __Effect__  The dragon calls upon the desert wind. This has the same effect as gust of wind (DC 37 Fortitude) but in a 60-foot cone. A creature that fails its save is also [[blinded|blinded]] until the end of its next turn (or for 1 minute on a critical failure)."
   - name: "Draconic Frenzy"
@@ -63,9 +63,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +32 ([[fire]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+15) piercing plus 1 (3d6) fire and 1 (2d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ jaws +32 ([[fire]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+15 (3d10+15) piercing plus 3d6 (3d6) fire and 2d6 (2d6) [[persistent damage|persistent fire]]"
   - name: Melee
-    desc: "⬻ claw +32 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+15) slashing"
+    desc: "⬻ claw +32 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+15 (3d10+15) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

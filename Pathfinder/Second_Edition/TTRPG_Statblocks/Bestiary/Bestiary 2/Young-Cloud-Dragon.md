@@ -47,7 +47,7 @@ abilities_mid:
     desc: "⬲ __Requirements__ The dragon is aware of the attack and has a free wing __Trigger__ The dragon is the target of a ranged attack __Effect__  The cloud dragon flexes a wing and creates a billowing cloud of mist. The dragon is treated as if they were [[hidden|hidden]] for the purposes of resolving the triggering attack, so normally the attacker must succeed at a DC 11 flat check to target them. The dragon also gains a +4 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The dragon breathes a thundercloud that deals 1 (11d6) electricity damage in a 40-foot cone (DC 29 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[electricity]], [[evocation]], [[primal]]);  The dragon breathes a thundercloud that deals 11d6 (11d6) electricity damage in a 40-foot cone (DC 29 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Cloud Walk"
     desc: "  The cloud dragon can tread on clouds or fog as though on solid ground."
   - name: "Draconic Frenzy"
@@ -68,13 +68,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[electricity]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+13) piercing plus 1 (1d12) electricity"
+    desc: "⬻ jaws +23 ([[electricity]], [[reach|reach 10 feet]]); __Damage__ 2d10+13 (2d10+13) piercing plus 1d12 (1d12) electricity"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]]); __Damage__ 1 (2d8+13) slashing"
+    desc: "⬻ claw +23 ([[agile]]); __Damage__ 2d8+13 (2d8+13) slashing"
   - name: Melee
-    desc: "⬻ tail +21 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+13) bludgeoning"
+    desc: "⬻ tail +21 ([[reach|reach 15 feet]]); __Damage__ 2d12+13 (2d12+13) bludgeoning"
   - name: Melee
-    desc: "⬻ horn +21 ([[deadly|deadly d8]], [[reach|reach 10 feet]]); __Damage__ 1 (1d12+11) piercing"
+    desc: "⬻ horn +21 ([[deadly|deadly d8]], [[reach|reach 10 feet]]); __Damage__ 1d12+11 (1d12+11) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"

@@ -2,7 +2,7 @@
 noteType: pf2eMonster
 aliases: "Petitioner (Abaddon)"
 tags: 
-  - pf2e/creature/level/
+  - pf2e/creature/level/1
 statblock: true
 statblock-link: "#Petitioner (Abaddon)"
 name: "Petitioner (Abaddon)"
@@ -37,7 +37,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +7 __Damage__ 1 (1d8+2) bludgeoning"
+    desc: "⬻ fist +7 __Damage__ 1d8+2 (1d8+2) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 198."
 ```

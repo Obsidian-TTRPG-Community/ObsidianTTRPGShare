@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Beckoning Call"
     desc: "⬻ ([[auditory]], [[concentrate]], [[enchantment]], [[incapacitation]], [[mental]], [[primal]]);  The rusalka cries out a compelling invitation. Each non-fey creature within a 300-foot emanation must attempt a DC 27 Will save. The effect lasts for 1 round, but if the rusalka uses Beckoning Call again on subsequent rounds, the duration extends by 1 round for all affected creatures. Once a creature succeeds at any save against Beckoning Call, that creature is temporarily immune for 24 hours.\n__Success__ The creature is unaffected.\n__Failure__ The creature is [[fascinated|fascinated]] and must spend each of its actions to move closer to the rusalka, avoiding obvious dangers. If a beckoned creature is adjacent to the rusalka, it stays still and doesn't act. If attacked by the rusalka, the creature is freed from captivation at the end of the rusalka's turn.\n__Critical Failure__ As failure, but if attacked by the rusalka, the creature can attempt a new save only at the start of its next turn, rather than being freed at the end of the rusalka's turn."
   - name: "Constrict"
-    desc: "⬻  1 (2d8+10) bludgeoning, DC 32."
+    desc: "⬻  2d8+10 (2d8+10) bludgeoning, DC 32."
   - name: "Entangling Tresses"
     desc: "  A rusalka can have up to eight creatures [[grabbed|grabbed]] within their tresses at a time."
   - name: "Flowing Hair"
@@ -63,7 +63,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tresses +24 ([[agile]], [[finesse]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+10) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ tresses +24 ([[agile]], [[finesse]], [[reach|reach 15 feet]]); __Damage__ 3d8+10 (3d8+10) bludgeoning plus [[Improved Grab]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

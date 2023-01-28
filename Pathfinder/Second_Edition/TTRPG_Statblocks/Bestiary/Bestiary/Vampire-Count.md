@@ -44,7 +44,7 @@ abilities_mid:
     desc: "⭓ "
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  Giant bat with fangs +15 for 1 (1d8+9) piercing."
+    desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  Giant bat with fangs +15 for 1d8+9 (1d8+9) piercing."
   - name: "Create Spawn"
     desc: " ([[divine]], [[downtime]], [[necromancy]]); "
   - name: "Dominate"
@@ -67,9 +67,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +17 ([[deadly|deadly 1d8]], [[disarm +1]]); __Damage__ 1 (1d6+11) piercing"
+    desc: "⬻ rapier +17 ([[deadly|deadly 1d8]], [[disarm +1]]); __Damage__ 1d6+11 (1d6+11) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (1d8+8) slashing plus Grab"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1d8+8 (1d8+8) slashing plus Grab"
 
 sourcebook: "_Bestiary_, page 320."
 ```

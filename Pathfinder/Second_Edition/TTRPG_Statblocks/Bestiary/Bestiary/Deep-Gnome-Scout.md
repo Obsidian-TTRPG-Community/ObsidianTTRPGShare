@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ light pick +7 ([[agile]], [[fatal|fatal d8]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ light pick +7 ([[agile]], [[fatal|fatal d8]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Ranged
-    desc: "⬻ sling +9 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6+1) bludgeoning"
+    desc: "⬻ sling +9 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+1 (1d6+1) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"

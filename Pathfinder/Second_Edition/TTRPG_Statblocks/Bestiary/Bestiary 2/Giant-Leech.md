@@ -35,7 +35,7 @@ abilityMods: [4, 1, 3, -5, 1, -5]
 
 abilities_bot:
   - name: "Blood Drain"
-    desc: "⬻ __Requirements__ The giant leech has a creature [[grabbed|grabbed]] or [[restrained|restrained]]  __Effect__  The giant leech drains blood from the creature it has [[grabbed|grabbed]]. This deals 1 (2d4) damage. A creature that has its blood [[drained|drained]] by a giant leech is [[drained|drained 1]] until it receives any kind or amount of healing."
+    desc: "⬻ __Requirements__ The giant leech has a creature [[grabbed|grabbed]] or [[restrained|restrained]]  __Effect__  The giant leech drains blood from the creature it has [[grabbed|grabbed]]. This deals 2d4 (2d4) damage. A creature that has its blood [[drained|drained]] by a giant leech is [[drained|drained 1]] until it receives any kind or amount of healing."
 
 speed: 5 feet, swim 20 feet
 
@@ -50,7 +50,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mouth +10 __Damage__ 1 (1d4+6) piercing plus Grab"
+    desc: "⬻ mouth +10 __Damage__ 1d4+6 (1d4+6) piercing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 156."
 ```

@@ -50,15 +50,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
 
 spellcasting:
   - name: "Primal Spontaneous Spells"
     desc: "DC 17, attack +9; __Cantrips (1st)__ [[acid splash]], [[detect magic]], [[know direction]], [[stabilize]], [[tanglefoot]]; __1st__ [[create water]], [[heal]], [[hydraulic push]];"
   - name: "Sorcerer Bloodline Spells"
-    desc: "DC 17, attack +9; __1st__ [[elemental toss]] ((1 Focus Point));"
+    desc: "DC 17, attack +9; __1st__ [[elemental toss]] (1 Focus Point);"
 sourcebook: "_Bestiary 2_, page 203."
 ```
 

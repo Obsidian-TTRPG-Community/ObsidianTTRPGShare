@@ -38,7 +38,7 @@ abilityMods: [6, 2, 6, -2, 2, 2]
 
 abilities_mid:
   - name: "Sunlight Petrification"
-    desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[slowed|slowed 1]] and can't use reactions or Trample. The [[slowed|slowed]] value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[petrified|petrified]] until they spends at least 1 minute in darkness. Spells like sunburst that create magical sunlight cannot petrify a cavern troll, but the troll is [[slowed|slowed 1]] for 1 (1d4) rounds after being exposed to such an effect."
+    desc: "  If exposed to direct sunlight, a cavern troll immediately becomes [[slowed|slowed 1]] and can't use reactions or Trample. The [[slowed|slowed]] value increases by 1 each time the cavern troll ends its turn in sunlight. If the cavern troll's actions are reduced to 0 in this way, they become [[petrified|petrified]] until they spends at least 1 minute in darkness. Spells like sunburst that create magical sunlight cannot petrify a cavern troll, but the troll is [[slowed|slowed 1]] for 1d4 (1d4) rounds after being exposed to such an effect."
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Catch Rock"
@@ -64,11 +64,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+8) piercing"
+    desc: "⬻ jaws +16 ([[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) piercing"
   - name: Melee
-    desc: "⬻ claw +16 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +16 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Ranged
-    desc: "⬻ rock +16 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (1d12+8) bludgeoning"
+    desc: "⬻ rock +16 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1d12+8 (1d12+8) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 265."
 ```

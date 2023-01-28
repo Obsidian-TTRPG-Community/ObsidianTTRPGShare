@@ -41,7 +41,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The brass dragon breathes fire in a 60-foot line that deals 1 (8d6) fire damage (DC 26 basic Reflex save). The dragon can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The brass dragon breathes fire in a 60-foot line that deals 8d6 (8d6) fire damage (DC 26 basic Reflex save). The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one jaws [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -60,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +19 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+8) piercing plus 1 (1d8) fire"
+    desc: "⬻ jaws +19 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 2d6+8 (2d6+8) piercing plus 1d8 (1d8) fire"
   - name: Melee
-    desc: "⬻ claw +19 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +19 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Melee
-    desc: "⬻ wing +17 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+7) slashing"
+    desc: "⬻ wing +17 ([[reach|reach 10 feet]]); __Damage__ 1d8+7 (1d8+7) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"

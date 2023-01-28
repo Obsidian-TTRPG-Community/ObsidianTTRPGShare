@@ -42,7 +42,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within reach of the dragon's tail takes an action to [[Strike]] or attempt a skill check __Effect__  The dragon [[Strike|Strikes]] with its tail at the triggering creature at a –2 penalty. If it hits, the creature takes a –2 circumstance penalty to the triggering roll."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[arcane]], [[evocation]]);  The dragon breathes a spray of acid that deals 1 (8d6) acid damage in a 60-foot line (DC 25 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[arcane]], [[evocation]]);  The dragon breathes a spray of acid that deals 8d6 (8d6) acid damage in a 60-foot line (DC 25 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one horns [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -61,13 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +19 ([[acid]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+9) piercing plus 1 (1d6) acid"
+    desc: "⬻ jaws +19 ([[acid]], [[reach|reach 10 feet]]); __Damage__ 2d10+9 (2d10+9) piercing plus 1d6 (1d6) acid"
   - name: Melee
-    desc: "⬻ claw +19 ([[agile]]); __Damage__ 1 (2d6+9) slashing"
+    desc: "⬻ claw +19 ([[agile]]); __Damage__ 2d6+9 (2d6+9) slashing"
   - name: Melee
-    desc: "⬻ tail +17 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+7) bludgeoning"
+    desc: "⬻ tail +17 ([[reach|reach 15 feet]]); __Damage__ 2d8+7 (2d8+7) bludgeoning"
   - name: Melee
-    desc: "⬻ horns +17 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+7) piercing"
+    desc: "⬻ horns +17 ([[reach|reach 10 feet]]); __Damage__ 1d8+7 (1d8+7) piercing"
 
 sourcebook: "_Bestiary_, page 105."
 ```

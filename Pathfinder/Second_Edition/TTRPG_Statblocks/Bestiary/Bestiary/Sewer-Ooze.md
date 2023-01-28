@@ -38,7 +38,7 @@ abilities_top:
     desc: "  A sewer ooze can sense nearby motion through vibration and air movement."
 abilities_bot:
   - name: "Filth Wave"
-    desc: "⬻ __Frequency__ once per minute  __Effect__  The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1 (1d4) acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[prone|prone]]). A creature can spend an [[Interact]] action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "⬻ __Frequency__ once per minute  __Effect__  The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1d4 (1d4) acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[prone|prone]]). A creature can spend an [[Interact]] action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
 
 speed: 10 feet
 
@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +9 __Damage__ 1 (1d6+1) bludgeoning plus 1 (1d4) acid"
+    desc: "⬻ pseudopod +9 __Damage__ 1d6+1 (1d6+1) bludgeoning plus 1d4 (1d4) acid"
 
 sourcebook: "_Bestiary_, page 254."
 ```

@@ -51,7 +51,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +11 ([[magical]]); __Damage__ 1 (1d8+6) bludgeoning plus Grab"
+    desc: "⬻ fist +11 ([[magical]]); __Damage__ 1d8+6 (1d8+6) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 21."
 ```

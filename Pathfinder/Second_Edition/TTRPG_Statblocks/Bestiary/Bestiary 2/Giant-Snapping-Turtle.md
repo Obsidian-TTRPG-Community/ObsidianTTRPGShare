@@ -41,7 +41,7 @@ abilities_bot:
   - name: "Shell Defense"
     desc: "⬻  The snapping turtle retracts its limbs and head into its shell and ends its turn. This increases its AC to 30, but it can't act except to reemerge, which it can do as a single action."
   - name: "Swallow Whole"
-    desc: "⬻  Large, 1 (2d12+7) bludgeoning, Rupture 30."
+    desc: "⬻  Large, 2d12+7 (2d12+7) bludgeoning, Rupture 30."
 
 speed: 20 feet, swim 40 feet
 
@@ -56,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +22 __Damage__ 1 (2d12+10) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +22 __Damage__ 2d12+10 (2d12+10) piercing plus [[Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 269."
 ```

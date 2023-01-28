@@ -41,7 +41,7 @@ abilities_mid:
     desc: "  A will-o'-wisp is immune to all spells except faerie fire, glitterdust, magic missile, and maze."
 abilities_bot:
   - name: "Feed on Fear"
-    desc: "⬻ ([[concentrate]]); __Requirements__ An enemy is under a [[fear]] effect or [[dying|dying]] within 15 feet of the will-o'-wisp.  __Effect__  The will-o'-wisp feeds on the creature's terror. It regains 1 (2d4) Hit Points, and if it has Gone Dark, its glow reignites. A will-o'-wisp can take this action only once per round."
+    desc: "⬻ ([[concentrate]]); __Requirements__ An enemy is under a [[fear]] effect or [[dying|dying]] within 15 feet of the will-o'-wisp.  __Effect__  The will-o'-wisp feeds on the creature's terror. It regains 2d4 (2d4) Hit Points, and if it has Gone Dark, its glow reignites. A will-o'-wisp can take this action only once per round."
   - name: "Go Dark"
     desc: "⬻ ([[concentrate]]);  The will-o'-wisp extinguishes its glow, becoming [[invisible|invisible]]. It can end this effect with another use of this action. If it uses its shock attack while [[invisible|invisible]], the arc of electricity lets any observer determine its location, making the will-o'-wisp only [[hidden|hidden]] to all observers until it moves."
 
@@ -58,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shock +17 ([[electricity]], [[magical]]); __Damage__ 1 (2d8+4) electricity"
+    desc: "⬻ shock +17 ([[electricity]], [[magical]]); __Damage__ 2d8+4 (2d8+4) electricity"
 
 sourcebook: "_Bestiary_, page 333."
 ```

@@ -36,16 +36,16 @@ abilityMods: [7, 2, 5, -3, 1, -2]
 
 abilities_mid:
   - name: "Heat"
-    desc: " ([[aura]], [[evocation]], [[fire]], [[primal]]);  5 feet. A creature that starts its turn in the aura takes 1 (1d6) fire damage. Whenever the remorhaz takes damage from an enemy, this damage increases to 1 (2d6) until the start of its next turn. Any creature that hits a remorhaz with an unarmed [[Strike]] takes 1 (2d6) fire damage, and a weapon that hits a remorhaz takes 1 (2d6) fire damage."
+    desc: " ([[aura]], [[evocation]], [[fire]], [[primal]]);  5 feet. A creature that starts its turn in the aura takes 1d6 (1d6) fire damage. Whenever the remorhaz takes damage from an enemy, this damage increases to 2d6 (2d6) until the start of its next turn. Any creature that hits a remorhaz with an unarmed [[Strike]] takes 2d6 (2d6) fire damage, and a weapon that hits a remorhaz takes 2d6 (2d6) fire damage."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The remorhaz unleashes a gout of flame that deals 1 (8d6) fire damage in a 30-foot cone (DC 26 basic Reflex save). It can't use."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The remorhaz unleashes a gout of flame that deals 8d6 (8d6) fire damage in a 30-foot cone (DC 26 basic Reflex save). It can't use."
   - name: "Breath"
-    desc: "  Weapon again for 1 (1d4) rounds."
+    desc: "  Weapon again for 1d4 (1d4) rounds."
   - name: "Ice Tunneler"
     desc: "  A remorhaz can leave a tunnel when it burrows through ice or snow, and it usually does."
   - name: "Swallow Whole"
-    desc: "⬻  Large, 1 (2d8+5) bludgeoning plus 1 (2d6) fire, Rupture 12."
+    desc: "⬻  Large, 2d8+5 (2d8+5) bludgeoning plus 2d6 (2d6) fire, Rupture 12."
   - name: "Thrash"
     desc: "⬺  The remorhaz [[Strike|Strikes]] once with its jaws and once with its tail, each targeting a different creature. Each attack counts toward the remorhaz's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks have been made."
 
@@ -62,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+9) piercing plus Grab"
+    desc: "⬻ jaws +18 ([[reach|reach 15 feet]]); __Damage__ 2d10+9 (2d10+9) piercing plus Grab"
   - name: Melee
-    desc: "⬻ tail +18 ([[fire]], [[reach|reach 15 feet]]); __Damage__ 1 (1d10+3) bludgeoning plus 1 (2d6) fire"
+    desc: "⬻ tail +18 ([[fire]], [[reach|reach 15 feet]]); __Damage__ 1d10+3 (1d10+3) bludgeoning plus 2d6 (2d6) fire"
 
 sourcebook: "_Bestiary_, page 280."
 ```

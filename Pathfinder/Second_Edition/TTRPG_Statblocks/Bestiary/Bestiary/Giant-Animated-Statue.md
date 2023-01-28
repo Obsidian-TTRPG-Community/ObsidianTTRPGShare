@@ -39,9 +39,9 @@ abilities_mid:
     desc: "  Like normal objects, a giant animated statue has Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once a giant animated statue is reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks and its Armor Class is reduced to 22."
 abilities_bot:
   - name: "Brazier"
-    desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal [[Strike|Strikes]] or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 1 (2d8) fire damage."
+    desc: "  The statue carries a wide brazier full of hot coals. To make flaming coal [[Strike|Strikes]] or use Burn Alive, the statue must have the brazier held in one hand or otherwise have it within reach. Instead of targeting the statue with an attack, a creature can target the brazier directly. The brazier has the same AC and saves as the statue. Dealing 15 cold damage to the brazier or dousing it with at least 2 gallons of water extinguishes the coals. This prevents the statue from using Burn Alive and causes its ranged attacks to no longer deal 2d8 (2d8) fire damage."
   - name: "Burn Alive"
-    desc: "⬻ ([[fire]]);  The statue grinds a creature it has [[grabbed|grabbed]] into the red-hot coals of its brazier. The target takes 1 (3d8) fire damage and 1 (1d8) [[persistent damage|persistent fire damage]]."
+    desc: "⬻ ([[fire]]);  The statue grinds a creature it has [[grabbed|grabbed]] into the red-hot coals of its brazier. The target takes 3d8 (3d8) fire damage and 1d8 (1d8) [[persistent damage|persistent fire damage]]."
 
 speed: 30 feet
 
@@ -56,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ stone fist +19 ([[magical]]); __Damage__ 1 (2d12+6) bludgeoning plus Grab"
+    desc: "⬻ stone fist +19 ([[magical]]); __Damage__ 2d12+6 (2d12+6) bludgeoning plus Grab"
   - name: Ranged
-    desc: "⬻ flaming coal +12 ([[fire]], [[magical]], [[range increment|range increment 80 feet]]); __Damage__ 1 (2d6+6) bludgeoning and 1 (2d8) fire"
+    desc: "⬻ flaming coal +12 ([[fire]], [[magical]], [[range increment|range increment 80 feet]]); __Damage__ 2d6+6 (2d6+6) bludgeoning and 2d8 (2d8) fire"
 
 sourcebook: "_Bestiary_, page 21."
 ```

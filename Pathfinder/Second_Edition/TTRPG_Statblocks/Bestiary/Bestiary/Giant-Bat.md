@@ -52,9 +52,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +10 __Damage__ 1 (1d10+4) slashing"
+    desc: "⬻ fangs +10 __Damage__ 1d10+4 (1d10+4) slashing"
   - name: Melee
-    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 39."
 ```

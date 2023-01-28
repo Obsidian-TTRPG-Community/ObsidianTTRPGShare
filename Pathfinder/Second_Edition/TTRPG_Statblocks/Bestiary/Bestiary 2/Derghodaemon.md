@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Savage Assault"
     desc: "⬺  The derghodaemon makes up to five claw [[Strike|Strikes]], each against a different target. These attacks count toward the derghodaemon's multiple attack penalty, but the penalty doesn't increase until after all the attacks."
   - name: "Swarming Infestation"
-    desc: "⬺  The derghodaemon spews a large swarm, making a swarm spit [[Strike]] against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex save (at a –2 circumstance penalty if it was actually hit by the swarm spit). [[persistent damage|persistent damage]] caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect. The derghodaemon can't use this ability for 1 (1d4) rounds.\n__Critical Success__ The swarm disperses as soon as it deals its swarm spit [[Strike]] damage.\n__Success__ The swarm clings to the target and infests it, dealing 1 (1d6) [[persistent damage|persistent piercing damage]].\n__Failure__ The swarm clings to the target and infests it, dealing 1 (2d6) [[persistent damage|persistent piercing damage]].\n__Critical Failure__ As failure, but the hissing sounds caused by the infestation also cause the target to become [[confused|confused]] for 1 round; this additional effect has the auditory, [[emotion]], and [[mental]] traits."
+    desc: "⬺  The derghodaemon spews a large swarm, making a swarm spit [[Strike]] against up to two adjacent targets within range. Whether or not the targets are hit, each must attempt a DC 31 Reflex save (at a –2 circumstance penalty if it was actually hit by the swarm spit). [[persistent damage|persistent damage]] caused by the swarming infestation ends as soon as the creature takes any amount of damage from an area effect. The derghodaemon can't use this ability for 1d4 (1d4) rounds.\n__Critical Success__ The swarm disperses as soon as it deals its swarm spit [[Strike]] damage.\n__Success__ The swarm clings to the target and infests it, dealing 1d6 (1d6) [[persistent damage|persistent piercing damage]].\n__Failure__ The swarm clings to the target and infests it, dealing 2d6 (2d6) [[persistent damage|persistent piercing damage]].\n__Critical Failure__ As failure, but the hissing sounds caused by the infestation also cause the target to become [[confused|confused]] for 1 round; this additional effect has the auditory, [[emotion]], and [[mental]] traits."
 
 speed: 35 feet
 
@@ -57,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +25 ([[deadly|deadly 1d12]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+10) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +25 ([[deadly|deadly 1d12]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+10 (3d8+10) slashing plus 1d6 (1d6) evil"
   - name: Ranged
-    desc: "⬻ swarm spit +25 ([[evil]], [[magical]], [[range|range 60 feet]]); __Damage__ 1 (2d6+13) piercing plus 1 (1d6) evil"
+    desc: "⬻ swarm spit +25 ([[evil]], [[magical]], [[range|range 60 feet]]); __Damage__ 2d6+13 (2d6+13) piercing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"

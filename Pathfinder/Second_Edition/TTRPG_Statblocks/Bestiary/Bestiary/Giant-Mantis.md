@@ -53,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ leg +12 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+5) piercing plus Grab"
+    desc: "⬻ leg +12 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d10+5 (1d10+5) piercing plus Grab"
 
 sourcebook: "_Bestiary_, page 233."
 ```

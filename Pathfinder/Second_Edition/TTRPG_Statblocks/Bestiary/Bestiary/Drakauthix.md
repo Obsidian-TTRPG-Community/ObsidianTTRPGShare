@@ -42,7 +42,7 @@ abilities_bot:
   - name: "Reel In"
     desc: "⬻  The drakauthix pulls all creatures it has [[grabbed|grabbed 15]] feet closer to itself."
   - name: "Spore Tendrils"
-    desc: "⬻  The tendrils that cover the drakauthix's body reach out and infest adjacent creatures, dealing 1 (4d6) poison damage and 1 (1d6) [[persistent damage|persistent poison damage]]. A creature can attempt a basic DC 27 Reflex save to reduce this damage, but one [[grabbed|grabbed]] by the drakauthix takes a –4 circumstance penalty to this save."
+    desc: "⬻  The tendrils that cover the drakauthix's body reach out and infest adjacent creatures, dealing 4d6 (4d6) poison damage and 1d6 (1d6) [[persistent damage|persistent poison damage]]. A creature can attempt a basic DC 27 Reflex save to reduce this damage, but one [[grabbed|grabbed]] by the drakauthix takes a –4 circumstance penalty to this save."
   - name: "Whirlwind of Hooks"
     desc: "⬺  ]The drakauthix whirls, whipping creatures around it. The drakauthix makes a tentacle [[Strike]] against every creature within its reach."
 
@@ -59,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +20 ([[reach|reach 30 feet]]); __Damage__ 1 (3d8+9) piercing plus [[Improved Grab]]"
+    desc: "⬻ tentacle +20 ([[reach|reach 30 feet]]); __Damage__ 3d8+9 (3d8+9) piercing plus [[Improved Grab]]"
 
 sourcebook: "_Bestiary_, page 129."
 ```

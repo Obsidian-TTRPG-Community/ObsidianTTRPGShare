@@ -63,9 +63,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ holy greatsword +28 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d12+13) slashing plus 1 (1d6) good and 1 (1d6) other (see Choose Weakness)"
+    desc: "⬻ holy greatsword +28 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 2d12+13 (2d12+13) slashing plus 1d6 (1d6) good and 1d6 (1d6) other (see Choose Weakness)"
   - name: Ranged
-    desc: "⬻ light ray +25 ([[chaotic]], [[good]], [[light]], [[range|range 300 feet]]); __Damage__ 1 (1d12) chaotic plus 1 (1d12) good plus 1 (2d6+6) other (see Choose Weakness)"
+    desc: "⬻ light ray +25 ([[chaotic]], [[good]], [[light]], [[range|range 300 feet]]); __Damage__ 1d12 (1d12) chaotic plus 1d12 (1d12) good plus 2d6+6 (2d6+6) other (see Choose Weakness)"
 
 spellcasting:
   - name: "Divine Innate Spells"

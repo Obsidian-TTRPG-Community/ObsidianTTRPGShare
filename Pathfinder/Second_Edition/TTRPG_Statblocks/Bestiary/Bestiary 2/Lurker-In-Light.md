@@ -39,7 +39,7 @@ abilities_bot:
   - name: "Ritual Gate"
     desc: "⬻ ([[conjuration]], [[primal]]); __Requirements__ The lurker in light has reduced a living creature to 0 Hit Points on this turn or its previous turn and has a summon fey innate spell available  __Effect__  The lurker in light casts summon fey with only a verbal component, using the act of slaughter to replace the normal material and somatic components for the spell. If the fey creature summoned has the same alignment as the lurker in light, the lurker in light can sustain the [[summon fey]] spell for up to 1 hour instead of 1 minute."
   - name: "Sneak Attack"
-    desc: "  A lurker in light's [[Strike|Strikes]] deal an additional 1 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A lurker in light's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet, fly 25 feet
 
@@ -54,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+2) slashing"
+    desc: "⬻ claw +14 ([[agile]], [[finesse]]); __Damage__ 2d6+2 (2d6+2) slashing"
   - name: Ranged
-    desc: "⬻ mote of light +14 ([[agile]], [[magical]], [[range increment|range increment 10 feet]]); __Damage__ 1 (2d4+2) force plus lurker's glow"
+    desc: "⬻ mote of light +14 ([[agile]], [[magical]], [[range increment|range increment 10 feet]]); __Damage__ 2d4+2 (2d4+2) force plus lurker's glow"
 
 spellcasting:
   - name: "Primal Innate Spells"

@@ -37,12 +37,12 @@ abilityMods: [6, 7, 5, 7, 6, 6]
 
 abilities_mid:
   - name: "Self-Resurrection"
-    desc: " ([[healing]], [[necromancy]], [[primal]]);  When a phoenix dies, it collapses into a pile of smoldering ashes before returning to life fully healed 1 (1d4) rounds later, as if subject to a 7th-level resurrect ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [[disintegrate]] spell can't use this ability. A phoenix whose remains rest within an area devoted to an evil deity by consecrate can't self-resurrect until its remains are no longer in that area. A phoenix can self-resurrect only once per year."
+    desc: " ([[healing]], [[necromancy]], [[primal]]);  When a phoenix dies, it collapses into a pile of smoldering ashes before returning to life fully healed 1d4 (1d4) rounds later, as if subject to a 7th-level resurrect ritual. Self-resurrection happens only if there are some remains to resurrect; for instance, a phoenix killed by a [[disintegrate]] spell can't use this ability. A phoenix whose remains rest within an area devoted to an evil deity by consecrate can't self-resurrect until its remains are no longer in that area. A phoenix can self-resurrect only once per year."
   - name: "Shroud of Flame"
-    desc: " ([[aura]], [[evocation]], [[fire]], [[primal]]);  20 feet. 1 (4d6) fire, DC 37 basic Reflex save. While this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches it takes 1 (2d6) fire damage. The phoenix can activate or deactivate the aura with a single action, which has the [[concentrate]] trait."
+    desc: " ([[aura]], [[evocation]], [[fire]], [[primal]]);  20 feet. 4d6 (4d6) fire, DC 37 basic Reflex save. While this aura is active, any adjacent creature that hits the phoenix with a melee attack or otherwise touches it takes 2d6 (2d6) fire damage. The phoenix can activate or deactivate the aura with a single action, which has the [[concentrate]] trait."
 abilities_bot:
   - name: "Flaming Strafe"
-    desc: "⬻ ([[evocation]], [[fire]], [[primal]]);  The phoenix blazes with superheated flame and Flies up to its Speed. It deals 1 (6d6) fire damage to each creature within 20 feet of each square it moves through (DC 37 basic Reflex save)."
+    desc: "⬻ ([[evocation]], [[fire]], [[primal]]);  The phoenix blazes with superheated flame and Flies up to its Speed. It deals 6d6 (6d6) fire damage to each creature within 20 feet of each square it moves through (DC 37 basic Reflex save)."
 
 speed: 25 feet, fly 70 feet
 
@@ -57,11 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +30 ([[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (1d12+9) piercing plus 1 (3d8) fire and 1 (2d10) [[persistent damage|persistent fire]]"
+    desc: "⬻ beak +30 ([[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d12+9 (1d12+9) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[persistent damage|persistent fire]]"
   - name: Melee
-    desc: "⬻ talon +30 ([[agile]], [[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (1d6+6) piercing plus 1 (3d8) fire and 1 (2d10) [[persistent damage|persistent fire]]"
+    desc: "⬻ talon +30 ([[agile]], [[finesse]], [[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1d6+6 (1d6+6) piercing plus 3d8 (3d8) fire and 2d10 (2d10) [[persistent damage|persistent fire]]"
   - name: Ranged
-    desc: "⬻ flame jet +30 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 1 (6d6) fire plus 1 (2d10) [[persistent damage|persistent fire]]"
+    desc: "⬻ flame jet +30 ([[fire]], [[range increment|range increment 40 feet]]); __Damage__ 6d6 (6d6) fire plus 2d10 (2d10) [[persistent damage|persistent fire]]"
 
 spellcasting:
   - name: "Primal Innate Spells"

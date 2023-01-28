@@ -64,11 +64,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longspear +26 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d8+15) piercing"
+    desc: "⬻ longspear +26 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 2d8+15 (2d8+15) piercing"
   - name: Melee
-    desc: "⬻ fist +25 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (3d6+15) bludgeoning"
+    desc: "⬻ fist +25 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 3d6+15 (3d6+15) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d10+15) bludgeoning"
+    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+15 (2d10+15) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 126."
 ```

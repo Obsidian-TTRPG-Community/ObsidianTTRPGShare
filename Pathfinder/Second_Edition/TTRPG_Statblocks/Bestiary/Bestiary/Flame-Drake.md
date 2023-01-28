@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The flame drake makes two fangs [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Fireball Breath"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 1 (6d6) fire damage (DC 22 basic Reflex save). The flame drake can't use Fireball Breath again for 1 (1d6) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The flame drake expels a ball of flame to a range of 180 feet that explodes in a 20-foot burst. Creatures in the burst take 6d6 (6d6) fire damage (DC 22 basic Reflex save). The flame drake can't use Fireball Breath again for 1d6 (1d6) rounds."
   - name: "Speed Surge"
     desc: "⬻ __Frequency__ three times per day  __Effect__  The flame drake [[Stride|Strides]] or [[Fly|Flies]] twice."
 
@@ -61,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +14 __Damage__ 1 (2d8+5) piercing plus 1 (1d6) fire"
+    desc: "⬻ fangs +14 __Damage__ 2d8+5 (2d8+5) piercing plus 1d6 (1d6) fire"
   - name: Melee
-    desc: "⬻ tail +14 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+5) bludgeoning"
+    desc: "⬻ tail +14 ([[reach|reach 10 feet]]); __Damage__ 2d6+5 (2d6+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 131."
 ```

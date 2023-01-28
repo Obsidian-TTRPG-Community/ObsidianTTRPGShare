@@ -44,7 +44,7 @@ abilities_bot:
   - name: "Drown"
     desc: "⬺ ([[conjuration]], [[divine]], [[incapacitation]]);  The sarglagon conjures murky water to fill the lungs of a creature that can't breathe water within 30 feet. The target must attempt a DC 26 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ The target coughs up water and is [[sickened|sickened 1]].\n__Failure__ The target is holding its breath (Core Rulebook 478). The only action it can take is to attempt a Fortitude save against Drown to expel the water, which is a single action.\n__Critical Failure__ The target falls [[unconscious|unconscious]] and begins suffocating. If the target succeeds at its Fortitude save while suffocating, it coughs up the water and can breathe again."
   - name: "Sarglagon Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
 
 speed: 25 feet, fly 25 feet, swim 30 feet
 
@@ -59,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +20 ([[evil]], [[magical]]); __Damage__ 1 (2d12+9) piercing plus 1 (1d6) evil"
+    desc: "⬻ fangs +20 ([[evil]], [[magical]]); __Damage__ 2d12+9 (2d12+9) piercing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ tentacle arm +20 ([[agile]], [[evil]], [[magical]]); __Damage__ 1 (2d8+9) bludgeoning plus 1 (1d6) evil and sarglagon venom"
+    desc: "⬻ tentacle arm +20 ([[agile]], [[evil]], [[magical]]); __Damage__ 2d8+9 (2d8+9) bludgeoning plus 1d6 (1d6) evil and sarglagon venom"
 
 spellcasting:
   - name: "Divine Innate Spells"
