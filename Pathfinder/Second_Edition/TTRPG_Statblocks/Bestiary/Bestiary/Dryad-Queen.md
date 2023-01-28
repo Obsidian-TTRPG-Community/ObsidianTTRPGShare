@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Dryad Queen"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/type/plant

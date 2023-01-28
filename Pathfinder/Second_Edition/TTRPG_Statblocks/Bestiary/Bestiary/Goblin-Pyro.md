@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Goblin Pyro"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1

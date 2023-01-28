@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Drow Rogue"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
@@ -38,7 +39,7 @@ abilities_top:
   - name: "Light Blindness"
     desc: " "
   - name: Items
-    desc: "hand crossbow (10 bolts), lethargy poison 2, [[shortsword]], studded leather armor;"
+    desc: "hand crossbow (10 bolts), lethargy poison (2 doses), [[shortsword]], studded leather armor;"
 abilities_mid:
   - name: "Nimble Dodge"
     desc: "⬲ __Requirements__ A drow rogue can't use this reaction while [[encumbered|encumbered]]. __Trigger__ The drow rogue is hit or critically hit by an attack made by a creature the drow rogue can see. __Effect__  The drow rogue gains a +2 circumstance bonus to their Armor Class against the triggering attack."

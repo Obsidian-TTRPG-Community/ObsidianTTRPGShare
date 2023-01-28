@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Boggard Swampseer"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
@@ -53,7 +54,7 @@ abilities_bot:
   - name: "Tongue Grab"
     desc: "  As boggard scout, except AC 15 and 4 HP."
   - name: "Blue Dragonfly Poison"
-    desc: "  Boggards brew a potent toxin made from blue dragonflies., Swampseers consume this mixture to awaken their divine powers, but the poison inspires crippling hallucinations in most other creatures."
+    desc: "  Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison inspires crippling hallucinations in most other creatures."
 
 speed: 20 feet, swim 25 feet; swamp stride;
 

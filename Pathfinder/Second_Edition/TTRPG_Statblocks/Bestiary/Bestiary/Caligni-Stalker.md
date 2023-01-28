@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Caligni Stalker"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
@@ -35,7 +36,7 @@ abilityMods: [2, 5, 2, -1, 2, 1]
 
 abilities_mid:
   - name: "Death Flame"
-    desc: " ([[light]]);  When the stalker dies, their body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 1 (5d6) fire damage (DC 21 basic Reflex save), The stalker's gear and treasure are unaffected by the flames and are left in a pile where they died."
+    desc: " ([[light]]);  When the stalker dies, their body combusts in a flash of white-hot flame. All creatures in a 20-foot burst take 1 (5d6) fire damage (DC 21 basic Reflex save) The stalker's gear and treasure are unaffected by the flames and are left in a pile where they died."
 abilities_top:
   - name: Items
     desc: "black smear poison (6 doses; see below), leather armor, shortsword (2);"

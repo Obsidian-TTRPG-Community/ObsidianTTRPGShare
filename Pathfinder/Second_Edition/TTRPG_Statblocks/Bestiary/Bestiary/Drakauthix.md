@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Drakauthix"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/9

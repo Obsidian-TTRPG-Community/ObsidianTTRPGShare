@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Fungus Leshy"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/2

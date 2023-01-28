@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Manticore"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
@@ -34,7 +35,7 @@ abilityMods: [5, 2, 4, -2, 2, -1]
 
 abilities_bot:
   - name: "Spike Volley"
-    desc: "⬻  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate [[Strike]] against each; this counts as only one [[Strike]] for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single [[Strike]]. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[immobilized|immobilized]]. A creature that succeeds at a DC 23 [[Athletics]] check (attempted as a single action) can pull the spike free., A manticore can hurl no more than 12 spikes in 24 hours."
+    desc: "⬻  The manticore flings up to two spikes from its tail, targeting either two different creatures or a single creature. If the manticore targets two different creatures, these creatures must be within 20 feet of one another, and the manticore makes a separate [[Strike]] against each; this counts as only one [[Strike]] for the manticore's multiple attack penalty, and the penalty doesn't increase until after both attacks. If the manticore fires both spikes at the same creature, it makes a single [[Strike]]. If the attack hits, it deals the damage of a single spike, but the target is pinned in place, rendering it [[immobilized|immobilized]]. A creature that succeeds at a DC 23 [[Athletics]] check (attempted as a single action) can pull the spike free. A manticore can hurl no more than 12 spikes in 24 hours."
 
 speed: 25 feet, fly 40 feet
 

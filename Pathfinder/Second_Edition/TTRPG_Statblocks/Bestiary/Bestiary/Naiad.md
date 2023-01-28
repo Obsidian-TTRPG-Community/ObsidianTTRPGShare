@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Naiad"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/1

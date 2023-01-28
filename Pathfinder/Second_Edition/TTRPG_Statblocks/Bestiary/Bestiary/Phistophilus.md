@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Phistophilus"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
@@ -38,11 +39,11 @@ abilities_mid:
     desc: "  A signed contract carried by a living contract devil (including draped over its horns) is immune to damage from all creatures other than that contract devil. A contract devil is immune to [[mental]] effects that would make it destroy, nullify, or alter a contract."
 abilities_bot:
   - name: "Draft Contract"
-    desc: "⬽ ([[conjuration]], [[divine]], [[manipulate]]);  The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[wish]] spell but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell., While the contract is in effect, the victim can't be restored to life except by wish or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
+    desc: "⬽ ([[conjuration]], [[divine]], [[manipulate]]);  The contract devil produces an infernal contract for a single living mortal. This contract can grant a wide range of abilities and effects, akin to the power of a [[wish]] spell but fulfilled to the letter by the contract devil. To receive any of those benefits, the mortal must willingly sign its true name to the contract. At that point, the mortal's soul is bound to the contract devil and Hell. While the contract is in effect, the victim can't be restored to life except by wish or similar magic. If the mortal is restored to life by those means, the contract devil knows which mortal came to life and can locate the creature or creatures who restored the mortal to life for 1 year, gaining the effects of a [[locate]] spell with unlimited range. Avoiding the terms of an infernal contract is difficult and often dangerous."
   - name: "Infernal Investment"
     desc: "  A contract devil can cast a 10th-level innate [[scrying]] spell at will, but only to target a creature with which it has a contract. The target automatically critically fails its save."
   - name: "Infernal Wound"
-    desc: " ([[divine]], [[necromancy]]);  A contract devil's glaive [[Strike]] also deals 1 (3d6) [[persistent damage|persistent bleed damage]] that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery., The DC to [[Administer First Aid]] to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature."
+    desc: " ([[divine]], [[necromancy]]);  A contract devil's glaive [[Strike]] also deals 1 (3d6) [[persistent damage|persistent bleed damage]] that resists attempts to heal it. The flat check to stop the bleeding starts at DC 20. The DC is reduced to 15 only if the bleeding creature or an ally successfully assists with the recovery. The DC to [[Administer First Aid]] to a creature with an infernal wound is increased by 5. A spellcaster or item attempting to use healing magic on a creature suffering from an infernal wound must succeed at a DC 29 counteract check or the magic fails to heal the creature."
 
 speed: 25 feet
 

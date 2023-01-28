@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Drow Fighter"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
@@ -38,7 +39,7 @@ abilities_top:
   - name: "Light Blindness"
     desc: " "
   - name: Items
-    desc: "hand crossbow (10 bolts), leather armor, lethargy poison 2, rapier;"
+    desc: "hand crossbow (10 bolts), leather armor, lethargy poison (2 doses), rapier;"
 abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "

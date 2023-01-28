@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Wight"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/3

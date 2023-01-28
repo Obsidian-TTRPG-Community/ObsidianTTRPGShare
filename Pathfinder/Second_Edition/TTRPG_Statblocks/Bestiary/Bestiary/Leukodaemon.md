@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Leukodaemon"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/9
@@ -43,7 +44,7 @@ abilities_mid:
     desc: " ([[aura]], [[disease]]);  30 feet. Leukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a –2 status penalty to saves against [[disease]] effects. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[divine]]);  The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 1 (4d8) piercing damage (DC 28 basic Reflex save), A creature that fails the save becomes [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure)."
+    desc: "⬺ ([[evocation]], [[divine]]);  The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 1 (4d8) piercing damage (DC 28 basic Reflex save) A creature that fails the save becomes [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure)."
   - name: "Daemonic Pestilence"
     desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ carrier (1 day) __Stage 2__ [[drained|drained 1]] (1 day) __Stage 3__ [[drained|drained 2]] (1 day) __Stage 4__ [[drained|drained 2]] (1 day) __Stage 5__ [[drained|drained 3]] (1 week) __Stage 6__ dead. (null)"
   - name: "Quicken Pestilence"

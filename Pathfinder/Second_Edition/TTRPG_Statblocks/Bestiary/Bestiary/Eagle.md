@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Eagle"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1

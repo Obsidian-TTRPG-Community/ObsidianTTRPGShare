@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Mammoth"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/10

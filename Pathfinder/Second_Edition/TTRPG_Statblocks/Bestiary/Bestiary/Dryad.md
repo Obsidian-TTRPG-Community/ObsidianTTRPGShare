@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Dryad"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/type/plant
@@ -43,7 +44,7 @@ abilities_mid:
     desc: "  A dryad is mystically bonded to a single great tree and must remain within 300 feet of it. If she moves beyond that range, she becomes [[sickened|sickened 1]] and is unable to recover. She must attempt a DC 18 Fortitude save every hour or increase the [[sickened|sickened]] value by 1 (to a maximum of [[sickened|sickened 4]]). After 24 hours, she becomes [[drained|drained 1]], with this value increasing by 1 every additional 24 hours. A dryad can perform a 24-hour ritual to bond herself to a new tree."
 abilities_bot:
   - name: "Tree Meld"
-    desc: "⬺ ([[primal]], [[transmutation]]);  The dryad touches a tree of enough volume to contain her and merges into it for as long as she wishes. She can [[Cast a Spell]] while inside as long as the spell doesn't require a line of effect outside the tree. She can hear, but not see, what's going on outside the tree. She can [[Dismiss]] this effect., Significant physical damage dealt to the tree expels the dryad from the tree and deals 1 (3d6) damage to her. Passwall expels the dryad without dealing damage., If a dryad uses this ability on her bonded tree, she instead enters an extradimensional living space within the tree; Tree Meld gains the [[extradimensional]] trait. A dryad can bring up to two other creatures with her when entering her home within her bonded tree. The dryad can still be expelled from this space as above."
+    desc: "⬺ ([[primal]], [[transmutation]]);  The dryad touches a tree of enough volume to contain her and merges into it for as long as she wishes. She can [[Cast a Spell]] while inside as long as the spell doesn't require a line of effect outside the tree. She can hear, but not see, what's going on outside the tree. She can [[Dismiss]] this effect. Significant physical damage dealt to the tree expels the dryad from the tree and deals 1 (3d6) damage to her. Passwall expels the dryad without dealing damage. If a dryad uses this ability on her bonded tree, she instead enters an extradimensional living space within the tree; Tree Meld gains the [[extradimensional]] trait. A dryad can bring up to two other creatures with her when entering her home within her bonded tree. The dryad can still be expelled from this space as above."
 
 speed: 25 feet
 

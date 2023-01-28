@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Axiomite"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/8

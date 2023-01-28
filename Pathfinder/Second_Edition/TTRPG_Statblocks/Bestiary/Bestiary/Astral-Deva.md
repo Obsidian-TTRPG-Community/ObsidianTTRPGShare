@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Astral Deva"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/14

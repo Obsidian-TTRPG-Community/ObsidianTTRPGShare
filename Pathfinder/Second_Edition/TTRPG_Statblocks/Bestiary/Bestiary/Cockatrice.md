@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Cockatrice"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
@@ -33,7 +34,7 @@ abilityMods: [-2, 4, 1, -3, 1, -1]
 
 abilities_bot:
   - name: "Calcification"
-    desc: " ([[incapacitation]], [[primal]], [[transmutation]]);  A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude save or become [[slowed|slowed 1]] (or [[slowed|slowed 2]] on a critical failure). Further failed saves against calcification increase the [[slowed|slowed]] condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[petrified|petrified]]., Every 24 hours after it was [[petrified|petrified]], the victim can attempt a DC 20 Fortitude save to recover. On a success, it becomes flesh again, but is [[slowed|slowed 1]] for the next 24 hours. On a critical success, the creature recovers and isn't [[slowed|slowed]]. On a failure, the creature remains [[petrified|petrified]], but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
+    desc: " ([[incapacitation]], [[primal]], [[transmutation]]);  A peck from a cockatrice hardens the flesh of the creature struck. The target must succeed at a DC 20 Fortitude save or become [[slowed|slowed 1]] (or [[slowed|slowed 2]] on a critical failure). Further failed saves against calcification increase the [[slowed|slowed]] condition. Once a creature's actions are reduced to 0 by calcification, that creature becomes [[petrified|petrified]]. Every 24 hours after it was [[petrified|petrified]], the victim can attempt a DC 20 Fortitude save to recover. On a success, it becomes flesh again, but is [[slowed|slowed 1]] for the next 24 hours. On a critical success, the creature recovers and isn't [[slowed|slowed]]. On a failure, the creature remains [[petrified|petrified]], but can try again in 24 hours. On a critical failure, the petrification is permanent, and the creature can't attempt any more saves."
 
 speed: 20 feet, fly 40 feet
 

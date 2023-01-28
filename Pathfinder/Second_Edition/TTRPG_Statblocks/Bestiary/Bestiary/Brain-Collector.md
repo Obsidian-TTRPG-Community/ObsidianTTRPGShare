@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Brain Collector"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/8

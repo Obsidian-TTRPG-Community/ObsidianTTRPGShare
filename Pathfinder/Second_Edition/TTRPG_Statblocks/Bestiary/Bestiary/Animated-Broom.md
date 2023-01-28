@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Animated Broom"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/-1

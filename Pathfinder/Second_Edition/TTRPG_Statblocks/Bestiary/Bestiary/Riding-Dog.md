@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Riding Dog"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/1

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Kolyarut"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/12
@@ -36,7 +37,7 @@ abilityMods: [7, 4, 5, 1, 4, 2]
 
 abilities_top:
   - name: "Truespeech"
-    desc: "  A kolyarut can speak with and understand any creature that has a language., Items +1 striking bastard sword."
+    desc: "  A kolyarut can speak with and understand any creature that has a language. Items +1 striking bastard sword."
   - name: Items
     desc: "+1 striking bastard sword;"
 

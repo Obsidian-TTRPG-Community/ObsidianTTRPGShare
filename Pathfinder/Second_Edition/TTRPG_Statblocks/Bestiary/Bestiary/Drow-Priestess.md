@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Drow Priestess"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
@@ -38,7 +39,7 @@ abilities_top:
   - name: "Light Blindness"
     desc: " "
   - name: Items
-    desc: "chain mail, hand crossbow (10 bolts), steel shield (Hardness 5, HP 20, BT 10), lethargy poison 4, rapier, religious symbol;"
+    desc: "chain mail, hand crossbow (10 bolts), steel shield (Hardness 5, HP 20, BT 10), lethargy poison (4 doses), rapier, religious symbol;"
 abilities_mid:
   - name: "Shield Block"
     desc: "⬲ "
