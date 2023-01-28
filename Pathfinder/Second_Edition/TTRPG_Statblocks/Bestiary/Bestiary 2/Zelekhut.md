@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Zelekhut"
+statblock: inline
 name: "Zelekhut"
-hp: 160
-ac: 28
-modifier: 21
 level: 9
 ---
-### Zelekhut
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Aeon"
 trait_04: "Inevitable"
 trait_05: "Monitor"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __true seeing__;"
@@ -51,6 +49,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +17 (1d20+17); __Ref__: +20 (1d20+20); __Will__: +18 (1d20+18);"
+hp: 160
 health:
   - name: HP
     desc: "160;  __Immunities__ death; __Weaknesses__ chaotic 10;"
@@ -58,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ chain +21 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+6) slashing plus 1 (2d6) electricity and 1 (1d6) lawful plus Knockdown"
+    desc: "⬻ chain +21 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+6 (2d10+6) slashing plus 2d6 (2d6) electricity and 1d6 (1d6) lawful plus Knockdown"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 9."
 ```
 
-### Encounter
 ```encounter-table
 name: Zelekhut
 creatures:

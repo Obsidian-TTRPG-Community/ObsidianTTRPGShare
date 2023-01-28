@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Goblin Dog"
+statblock: inline
 name: "Goblin Dog"
-hp: 17
-ac: 17
-modifier: 6
 level: 1
 ---
-### Goblin Dog
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__, __imprecise scent 30__;"
@@ -51,6 +49,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +8 (1d20+8); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 17
 health:
   - name: HP
     desc: "17; "
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 __Damage__ 1 (1d6+3) piercing plus goblin pox"
+    desc: "⬻ jaws +9 __Damage__ 1d6+3 (1d6+3) piercing plus goblin pox"
 
 sourcebook: "_Bestiary_, page 182."
 ```
 
-### Encounter
 ```encounter-table
 name: Goblin Dog
 creatures:

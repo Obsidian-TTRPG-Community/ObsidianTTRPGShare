@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Troll King"
+statblock: inline
 name: "Troll King"
-hp: 220
-ac: 28
-modifier: 19
 level: 10
 ---
-### Troll King
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Troll"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +23 (1d20+23); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 220
 health:
   - name: HP
     desc: "220; [[regeneration]] 30 (deactivated by acid or fire); __Weaknesses__ fire 10;"
@@ -62,14 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+13) piercing"
+    desc: "⬻ jaws +23 ([[reach|reach 10 feet]]); __Damage__ 2d12+13 (2d12+13) piercing"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+13) slashing"
+    desc: "⬻ claw +23 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+13 (2d8+13) slashing"
 
 sourcebook: "_Bestiary_, page 315."
 ```
 
-### Encounter
 ```encounter-table
 name: Troll King
 creatures:

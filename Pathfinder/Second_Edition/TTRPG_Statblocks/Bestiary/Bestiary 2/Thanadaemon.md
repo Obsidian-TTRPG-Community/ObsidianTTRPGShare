@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Thanadaemon"
+statblock: inline
 name: "Thanadaemon"
-hp: 270
-ac: 34
-modifier: 26
 level: 13
 ---
-### Thanadaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __true seeing__;"
@@ -44,7 +42,7 @@ abilities_bot:
   - name: "Draining Strike"
     desc: " ([[divine]], [[necromancy]]);  When a thanadaemon damages a living creature with a melee [[Strike]], the creature must succeed at a DC 33 Fortitude save or become [[drained|drained 1]]. Further damage dealt by the thanadaemon increases the [[drained|drained]] condition value by 1 on a failed save, to a maximum of [[drained|drained 4]]."
   - name: "Focus Gaze"
-    desc: "⬻ ([[concentrate]], [[divine]], [[fear]], [[visual]]);  The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already [[frightened|frightened]], a failed save causes it to become [[fleeing|fleeing]] for 1 (1d4) rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
+    desc: "⬻ ([[concentrate]], [[divine]], [[fear]], [[visual]]);  The thanadaemon glares at a single creature they can see within 30 feet. The target must immediately attempt a DC 33 Will save against the thanadaemon's terrifying gaze. If the target was already [[frightened|frightened]], a failed save causes it to become [[fleeing|fleeing]] for 1d4 (1d4) rounds. After attempting its save, the creature is temporarily immune to this ability until the start of the thanadaemon's next turn."
   - name: "Soul Crush"
     desc: "⬺ ([[manipulate]]); __Requirements__ The thanadaemon has a soul gem  __Effect__  The thanadaemon crushes the soul gem in one hand and gains fast healing 15 for 1 minute."
 
@@ -54,6 +52,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +21 (1d20+21); __Ref__: +23 (1d20+23); __Will__: +26 (1d20+26);"
+hp: 270
 health:
   - name: HP
     desc: "270;  __Immunities__ death effects; __Weaknesses__ good 10;"
@@ -61,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bo staff +28 ([[evil]], [[magical]], [[parry]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (3d8+14) bludgeoning plus 1 (1d6) negative, 1 (1d6) evil, and draining strike"
+    desc: "⬻ bo staff +28 ([[evil]], [[magical]], [[parry]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d8+14 (3d8+14) bludgeoning plus 1d6 (1d6) negative, 1d6 (1d6) evil, and draining strike"
   - name: Melee
-    desc: "⬻ claw +27 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 1 (3d6+14) slashing plus 1 (1d6) evil and draining strike"
+    desc: "⬻ claw +27 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 3d6+14 (3d6+14) slashing plus 1d6 (1d6) evil and draining strike"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 61."
 ```
 
-### Encounter
 ```encounter-table
 name: Thanadaemon
 creatures:

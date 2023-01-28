@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Morrigna"
+statblock: inline
 name: "Morrigna"
-hp: 240
-ac: 38
-modifier: 28
 level: 15
 ---
-### Morrigna
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __lifesense 60__;"
@@ -48,7 +46,7 @@ abilities_bot:
   - name: "Spider Minions"
     desc: "⬽ ([[conjuration]], [[divine]]);  The morrigna summons a [[giant tarantula]] or [[spider swarm]]. These spiders have the summoned trait and remain for 10 minutes or until reduced to 0 Hit Points, whichever comes first. The morrigna does not need to [[Sustain a Spell|Sustain the Spell]] to direct these summoned creatures, and the morrigna can have any number of summoned spiders in existence at once. The morrigna can see through the eyes of any of their summoned spiders at any time."
   - name: "Spirit Touch"
-    desc: "  A morrigna's [[Strike|Strikes]] affect incorporeal creatures as though etched with a ghost touch property rune and deal 1 (4d6) negative damage to living creatures or 1 (4d6) positive damage to undead."
+    desc: "  A morrigna's [[Strike|Strikes]] affect incorporeal creatures as though etched with a ghost touch property rune and deal 4d6 (4d6) negative damage to living creatures or 4d6 (4d6) positive damage to undead."
 
 speed: 30 feet, climb 30 feet
 
@@ -56,6 +54,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +25 (1d20+25); __Ref__: +27 (1d20+27); __Will__: +29 (1d20+29);"
+hp: 240
 health:
   - name: HP
     desc: "240; [[regeneration]] 20 (deactivated by acid or fire); __Immunities__ death effects, disease; __Resistances__ negative 15, poison 15"
@@ -63,9 +62,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bo staff +31 ([[magical]], [[parry]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (2d8+14) bludgeoning plus spirit touch"
+    desc: "⬻ bo staff +31 ([[magical]], [[parry]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 2d8+14 (2d8+14) bludgeoning plus spirit touch"
   - name: Melee
-    desc: "⬻ web wrappings +29 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d12+14) bludgeoning plus Grab and spirit touch"
+    desc: "⬻ web wrappings +29 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) bludgeoning plus Grab and spirit touch"
 
 spellcasting:
   - name: "Divine Spontaneous Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 271."
 ```
 
-### Encounter
 ```encounter-table
 name: Morrigna
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Wererat"
+statblock: inline
 name: "Wererat"
-hp: 45
-ac: 19
-modifier: 8
 level: 2
 ---
-### Wererat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_03: "Beast"
 trait_04: "Human"
 trait_05: "Humanoid"
 trait_06: "Werecreature"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise scent 30__;"
@@ -47,13 +45,13 @@ abilities_mid:
     desc: "⬲ __Trigger__ The wererat is targeted with a melee or ranged attack by an attacker it can see. __Effect__  The wererat gains a +2 circumstance bonus to AC against the triggering attack."
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +10 for 1 (1d4+2) bludgeoning, or Small rat with Speed 30 feet, climb 10 feet."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Human with fist +10 for 1d4+2 (1d4+2) bludgeoning, or Small rat with Speed 30 feet, climb 10 feet."
   - name: "Curse of the Werecreature"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  __Saving Throw__ 18 Fortitude."
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Sneak Attack"
-    desc: "  The wererat deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The wererat deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -61,6 +59,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Weaknesses__ silver 5;"
@@ -68,18 +67,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ shortsword +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+2) slashing"
+    desc: "⬻ claw +10 ([[agile]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) slashing"
   - name: Melee
-    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1 (1d8+2) piercing plus curse of the wererat"
+    desc: "⬻ jaws +10 ([[finesse]]); __Damage__ 1d8+2 (1d8+2) piercing plus curse of the wererat"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 329."
 ```
 
-### Encounter
 ```encounter-table
 name: Wererat
 creatures:

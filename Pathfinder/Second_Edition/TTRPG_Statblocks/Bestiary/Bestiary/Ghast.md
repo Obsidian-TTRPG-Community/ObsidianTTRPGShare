@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Ghast"
+statblock: inline
 name: "Ghast"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Ghast
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Ghoul"
 trait_04: "Undead"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -39,9 +37,9 @@ abilities_mid:
     desc: " ([[aura]], [[olfactory]]);  10 feet. A creature entering the aura or starting its turn in the aura must succeed at a DC 16 Fortitude save or become [[sickened|sickened 1]] (plus [[slowed|slowed 1]] as long as it's [[sickened|sickened]] on a critical failure). While within the aura, the creature takes a –2 circumstance penalty to saves against [[disease]] and to recover from the [[sickened|sickened]] condition. A creature that succeeds at its save is temporarily immune for 1 minute."
 abilities_bot:
   - name: "Consume Flesh"
-    desc: "⬻ ([[manipulate]]); __Requirements__ The ghast is adjacent to the corpse of a creature that died within the last hour.  __Effect__  The ghast regains 1 (3d6) Hit Points. It can regain Hit Points from any given corpse only once."
+    desc: "⬻ ([[manipulate]]); __Requirements__ The ghast is adjacent to the corpse of a creature that died within the last hour.  __Effect__  The ghast regains 3d6 (3d6) Hit Points. It can regain Hit Points from any given corpse only once."
   - name: "Ghast Fever"
-    desc: "  __Saving Throw__ DC 16 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 1 (3d8) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 1 (3d8) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4 (1 day) __Stage 6__ dead, and rises as a [[ghast|b1]] the next midnight (undefined)"
+    desc: "  __Saving Throw__ DC 16 Fortitude. __Stage 1__ carrier with no ill effect (1 day) __Stage 2__ 3d8 (3d8) negative damage and regains half as many Hit Points from all healing (1 day) __Stage 3__ as stage 2 (1 day) __Stage 4__ 3d8 (3d8) negative damage and gains no benefit from healing (1 day) __Stage 5__ as stage 4 (1 day) __Stage 6__ dead, and rises as a [[ghast|b1]] the next midnight (undefined)"
   - name: "Paralysis"
     desc: " ([[incapacitation]], [[occult]], [[necromancy]]);  Any living creature hit by a ghast's attack must succeed at a DC 15 Fortitude save or become [[paralyzed|paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save."
   - name: "Swift Leap"
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
@@ -60,14 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 ([[finesse]]); __Damage__ 1 (1d6+5) piercing plus ghast fever and paralysis"
+    desc: "⬻ jaws +11 ([[finesse]]); __Damage__ 1d6+5 (1d6+5) piercing plus ghast fever and paralysis"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]], [[finesse]]); __Damage__ 1 (1d4+5) slashing plus paralysis"
+    desc: "⬻ claw +11 ([[agile]], [[finesse]]); __Damage__ 1d4+5 (1d4+5) slashing plus paralysis"
 
 sourcebook: "_Bestiary_, page 169."
 ```
 
-### Encounter
 ```encounter-table
 name: Ghast
 creatures:

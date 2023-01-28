@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Slime Mold"
+statblock: inline
 name: "Slime Mold"
-hp: 60
-ac: 12
-modifier: 6
 level: 2
 ---
-### Slime Mold
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Fungus"
 trait_04: "Mindless"
 trait_05: "Ooze"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __motion sense 60__, __no vision__;"
@@ -48,6 +46,7 @@ ac: 12
 armorclass:
   - name: AC
     desc: "12; __Fort__: +11 (1d20+11); __Ref__: +3 (1d20+3); __Will__: +4 (1d20+4);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -55,12 +54,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +8 __Damage__ 1 (1d8+3) bludgeoning plus slime rot"
+    desc: "⬻ pseudopod +8 __Damage__ 1d8+3 (1d8+3) bludgeoning plus slime rot"
 
 sourcebook: "_Bestiary 2_, page 193."
 ```
 
-### Encounter
 ```encounter-table
 name: Slime Mold
 creatures:

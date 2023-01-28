@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Sea Drake"
+statblock: inline
 name: "Sea Drake"
-hp: 95
-ac: 24
-modifier: 14
 level: 6
 ---
-### Sea Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Amphibious"
 trait_04: "Dragon"
 trait_05: "Water"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise scent 30__;"
@@ -37,10 +35,10 @@ abilityMods: [6, 2, 4, -1, 2, 0]
 
 abilities_mid:
   - name: "Electrified Blood"
-    desc: "⬲ ([[electricity]]); __Trigger__ An adjacent creature deals piercing or slashing damage to the sea drake __Effect__  An arc of electricity courses through the sea drake's blood. The triggering creature takes 1 (1d6) electricity damage."
+    desc: "⬲ ([[electricity]]); __Trigger__ An adjacent creature deals piercing or slashing damage to the sea drake __Effect__  An arc of electricity courses through the sea drake's blood. The triggering creature takes 1d6 (1d6) electricity damage."
 abilities_bot:
   - name: "Ball Lightning Breath"
-    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 1 (7d6) electricity damage (DC 24 basic Reflex save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 basic Reflex save). The sea drake can't use Ball Lightning Breath again for 1 (1d6) rounds."
+    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The sea drake spews a ball of electricity that strikes a primary target within 100 feet, dealing 7d6 (7d6) electricity damage (DC 24 basic Reflex save). The lightning then arcs to up to three secondary targets within 30 feet of the primary target, striking the closest available targets first. The secondary bolts each strike one secondary target and deal the same rolled damage value as the primary bolt (DC 22 basic Reflex save). The sea drake can't use Ball Lightning Breath again for 1d6 (1d6) rounds."
   - name: "Briny Wound"
     desc: "  A sea drake's saliva carries a large quantity of salt, making its bite wounds even more painful. When a creature takes damage from a sea drake's jaws [[Strike]], the creature must attempt a DC 24 Fortitude save; the creature is then temporarily immune to briny wound for 1 minute.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[sickened|sickened 1]].\n__Failure__ The creature is [[sickened|sickened 2]].\n__Critical Failure__ The creature is [[sickened|sickened 2]] and [[slowed|slowed 1]] as long as it's [[sickened|sickened]]."
   - name: "Capsize"
@@ -56,6 +54,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 95
 health:
   - name: HP
     desc: "95;  __Immunities__ electricity, paralyzed, sleep;"
@@ -63,14 +62,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 __Damage__ 1 (2d8+9) piercing plus briny wound"
+    desc: "⬻ jaws +17 __Damage__ 2d8+9 (2d8+9) piercing plus briny wound"
   - name: Melee
-    desc: "⬻ tail +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+9) bludgeoning"
+    desc: "⬻ tail +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 101."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Drake
 creatures:

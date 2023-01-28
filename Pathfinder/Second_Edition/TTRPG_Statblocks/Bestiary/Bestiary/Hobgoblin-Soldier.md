@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Hobgoblin Soldier"
+statblock: inline
 name: "Hobgoblin Soldier"
-hp: 20
-ac: 18
-modifier: 7
 level: 1
 ---
-### Hobgoblin Soldier
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18;  (20 with shield raised); __Fort__: +5 (1d20+5); __Ref__: +6 (1d20+6); __Will__: +5 (1d20+5);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -58,14 +57,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +8 ([[versatile|versatile p]]); __Damage__ 1 (1d8+3) slashing"
+    desc: "⬻ longsword +8 ([[versatile|versatile p]]); __Damage__ 1d8+3 (1d8+3) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 206."
 ```
 
-### Encounter
 ```encounter-table
 name: Hobgoblin Soldier
 creatures:

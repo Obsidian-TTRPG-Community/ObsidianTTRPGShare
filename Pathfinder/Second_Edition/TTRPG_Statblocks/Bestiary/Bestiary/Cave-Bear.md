@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Cave Bear"
+statblock: inline
 name: "Cave Bear"
-hp: 95
-ac: 24
-modifier: 13
 level: 6
 ---
-### Cave Bear
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +11 (1d20+11); __Will__: +13 (1d20+13);"
+hp: 95
 health:
   - name: HP
     desc: "95; "
@@ -51,14 +50,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +16 __Damage__ 1 (2d10+6) piercing"
+    desc: "⬻ jaws +16 __Damage__ 2d10+6 (2d10+6) piercing"
   - name: Melee
-    desc: "⬻ claw +16 ([[agile]]); __Damage__ 1 (2d8+6) slashing plus Grab"
+    desc: "⬻ claw +16 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing plus Grab"
 
 sourcebook: "_Bestiary_, page 40."
 ```
 
-### Encounter
 ```encounter-table
 name: Cave Bear
 creatures:

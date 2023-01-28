@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Bebilith"
+statblock: inline
 name: "Bebilith"
-hp: 200
-ac: 30
-modifier: 21
 level: 10
 ---
-### Bebilith
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Beast"
 trait_04: "Fiend"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __imprecise scent 30__, __scent demons 60__;"
@@ -43,7 +41,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Abyssal Rot"
-    desc: " ([[disease]], [[necromancy]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (3d6) negative damage (1 round) __Stage 2__ 1 (3d6) negative damage and [[drained|drained 1]] (1 round) __Stage 3__ 1 (3d6) negative damage and [[drained|drained 2]] (1 round)"
+    desc: " ([[disease]], [[necromancy]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 3d6 (3d6) negative damage (1 round) __Stage 2__ 3d6 (3d6) negative damage and [[drained|drained 1]] (1 round) __Stage 3__ 3d6 (3d6) negative damage and [[drained|drained 2]] (1 round)"
   - name: "Dimensional Tether"
     desc: "  A creature hit by the bebilith's web [[Strike]] is [[restrained|restrained]] and tethered to the bebilith, preventing it from moving further away from the bebilith. The [[restrained|restrained]] creature is also under the effects of a [[dimensional anchor]] spell (DC 29) with a duration that lasts as long as the creature remains tethered. The bebilith can have only one creature tethered at a time. The DC to [[Escape]] or [[Force Open]] the tether is 29. The tether can be severed with a [[Strike]] (AC 20, Hardness 2, HP 20); this ends the dimensional anchor effect but does not free the [[restrained|restrained]] creature."
   - name: "Penetrating Strike"
@@ -55,6 +53,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +22 (1d20+22); __Ref__: +19 (1d20+19); __Will__: +19 (1d20+19);"
+hp: 200
 health:
   - name: HP
     desc: "200;  __Weaknesses__ good 10;"
@@ -62,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+13) piercing plus"
+    desc: "⬻ jaws +23 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+13 (2d10+13) piercing plus"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+13) slashing"
+    desc: "⬻ claw +23 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) slashing"
   - name: Ranged
     desc: "⬻ web +23 ([[range increment|range increment 60 feet]]); __Damage__ dimensional tether"
 
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 37."
 ```
 
-### Encounter
 ```encounter-table
 name: Bebilith
 creatures:

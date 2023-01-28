@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Werebear"
+statblock: inline
 name: "Werebear"
-hp: 75
-ac: 23
-modifier: 11
 level: 4
 ---
-### Werebear
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_04: "Beast"
 trait_05: "Human"
 trait_06: "Humanoid"
 trait_07: "Werecreature"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__, __imprecise scent 30__;"
@@ -45,7 +43,7 @@ abilities_top:
     desc: "chain shirt, greataxe, hatchet (8);"
 abilities_bot:
   - name: "Change Shape"
-    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Medium human with fist +13 for 1 (1d4+7) bludgeoning, or grizzly bear with Speed 35 feet."
+    desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  Medium human with fist +13 for 1d4+7 (1d4+7) bludgeoning, or grizzly bear with Speed 35 feet."
   - name: "Curse of the Werebear"
     desc: " ([[curse]], [[necromancy]], [[primal]]);  __Saving Throw__ 22 Fortitude."
   - name: "Hunt Prey"
@@ -55,7 +53,7 @@ abilities_bot:
   - name: "Moon Frenzy"
     desc: " ([[polymorph]], [[primal]], [[transmutation]]); "
   - name: "Precision Edge"
-    desc: "  The werebear deals 1 (1d8) additional precision damage on its first successful [[Strike]] against its hunted target on each of its turns."
+    desc: "  The werebear deals 1d8 (1d8) additional precision damage on its first successful [[Strike]] against its hunted target on each of its turns."
 
 speed: 25 feet
 
@@ -63,6 +61,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +10 (1d20+10);"
+hp: 75
 health:
   - name: HP
     desc: "75; "
@@ -70,20 +69,19 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+7) slashing plus Grab"
+    desc: "⬻ claw +13 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d10+7 (1d10+7) slashing plus Grab"
   - name: Melee
-    desc: "⬻ greataxe +13 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d12+7) slashing"
+    desc: "⬻ greataxe +13 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d12+7 (1d12+7) slashing"
   - name: Melee
-    desc: "⬻ hatchet +13 ([[agile]], [[sweep]]); __Damage__ 1 (1d6+7) slashing"
+    desc: "⬻ hatchet +13 ([[agile]], [[sweep]]); __Damage__ 1d6+7 (1d6+7) slashing"
   - name: Melee
-    desc: "⬻ jaws +13 ([[reach|reach 10 feet]]); __Damage__ 1 (1d12+7) piercing plus curse of the werebear"
+    desc: "⬻ jaws +13 ([[reach|reach 10 feet]]); __Damage__ 1d12+7 (1d12+7) piercing plus curse of the werebear"
   - name: Ranged
-    desc: "⬻ hatchet +10 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+7) slashing"
+    desc: "⬻ hatchet +10 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1d6+7 (1d6+7) slashing"
 
 sourcebook: "_Bestiary_, page 331."
 ```
 
-### Encounter
 ```encounter-table
 name: Werebear
 creatures:

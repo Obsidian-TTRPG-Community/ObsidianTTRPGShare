@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Zephyr Hawk"
+statblock: inline
 name: "Zephyr Hawk"
-hp: 36
-ac: 21
-modifier: 7
 level: 3
 ---
-### Zephyr Hawk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -43,6 +41,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +6 (1d20+6); __Ref__: +13 (1d20+13); __Will__: +7 (1d20+7);"
+hp: 36
 health:
   - name: HP
     desc: "36; "
@@ -50,12 +49,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wing +11 ([[agile]], [[finesse]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ wing +11 ([[agile]], [[finesse]]); __Damage__ 1d8+4 (1d8+4) slashing"
 
 sourcebook: "_Bestiary_, page 144."
 ```
 
-### Encounter
 ```encounter-table
 name: Zephyr Hawk
 creatures:

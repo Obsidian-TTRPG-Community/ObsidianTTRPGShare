@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#War Horse"
+statblock: inline
 name: "War Horse"
-hp: 36
-ac: 17
-modifier: 6
 level: 2
 ---
-### War Horse
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 36
 health:
   - name: HP
     desc: "36; "
@@ -52,12 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hoof +9 __Damage__ 1 (1d6+5) bludgeoning"
+    desc: "⬻ hoof +9 __Damage__ 1d6+5 (1d6+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 209."
 ```
 
-### Encounter
 ```encounter-table
 name: War Horse
 creatures:

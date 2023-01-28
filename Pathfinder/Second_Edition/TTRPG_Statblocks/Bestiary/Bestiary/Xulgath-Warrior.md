@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Xulgath Warrior"
+statblock: inline
 name: "Xulgath Warrior"
-hp: 21
-ac: 16
-modifier: 6
 level: 1
 ---
-### Xulgath Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Xulgath"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 21
 health:
   - name: HP
     desc: "21; "
@@ -54,20 +53,19 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +9 __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ club +9 __Damage__ 1d6+4 (1d6+4) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +9 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ jaws +9 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Melee
-    desc: "⬻ claw +9 ([[agile]]); __Damage__ 1 (1d4+4) slashing"
+    desc: "⬻ claw +9 ([[agile]]); __Damage__ 1d4+4 (1d4+4) slashing"
   - name: Ranged
-    desc: "⬻ club +7 ([[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ club +7 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +7 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +7 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 336."
 ```
 
-### Encounter
 ```encounter-table
 name: Xulgath Warrior
 creatures:

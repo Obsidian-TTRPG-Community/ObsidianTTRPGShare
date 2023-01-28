@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Hydra"
+statblock: inline
 name: "Hydra"
-hp: 90
-ac: 23
-modifier: 17
 level: 6
 ---
-### Hydra
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Huge"
 trait_03: "Beast"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __low-light vision__, __imprecise scent 30__;"
@@ -43,7 +41,7 @@ abilities_mid:
     desc: "  A hydra gains an extra reaction per round for each of its heads beyond the first, which it can use only to make Attacks of Opportunity. It can't use more than 1 reaction on the same triggering action, even if a creature leaves several squares within its reach, and the hydra must use a different head for each [[Attack of Opportunity]] it makes. Whenever one of the hydra's heads is severed, the hydra loses 1 of its extra reactions per round."
 abilities_bot:
   - name: "Focused Assault"
-    desc: "⬺  The hydra attacks a single target with its heads, overwhelming its foe with multiple attacks and leaving almost nowhere to dodge. The hydra [[Strike|Strikes]] with its fangs. On a successful attack, the hydra deals damage from its fangs [[Strike]] to the target, plus an additional 1 (1d6) damage for every head it has beyond the first. Even on a failed attack, the hydra deals the damage from one fangs [[Strike]] to the target creature, though it still misses completely on a critical failure. This counts toward the hydra's multiple attack penalty as a number of attacks equal to the number of heads the hydra has."
+    desc: "⬺  The hydra attacks a single target with its heads, overwhelming its foe with multiple attacks and leaving almost nowhere to dodge. The hydra [[Strike|Strikes]] with its fangs. On a successful attack, the hydra deals damage from its fangs [[Strike]] to the target, plus an additional 1d6 (1d6) damage for every head it has beyond the first. Even on a failed attack, the hydra deals the damage from one fangs [[Strike]] to the target creature, though it still misses completely on a critical failure. This counts toward the hydra's multiple attack penalty as a number of attacks equal to the number of heads the hydra has."
   - name: "Storm of Jaws"
     desc: "⬺  The hydra makes a number of [[Strike|Strikes]] up to its number of heads, each against a different target. These attacks count toward the hydra's multiple attack penalty, but the multiple attack penalty doesn't increase until after the hydra makes all its attacks."
 
@@ -53,6 +51,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 90
 health:
   - name: HP
     desc: "90; hydra regeneration; __Immunities__ area damage; __Weaknesses__ slashing 5;"
@@ -60,12 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+7) piercing"
+    desc: "⬻ fangs +16 ([[reach|reach 10 feet]]); __Damage__ 2d6+7 (2d6+7) piercing"
 
 sourcebook: "_Bestiary_, page 210."
 ```
 
-### Encounter
 ```encounter-table
 name: Hydra
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Dero Magister"
+statblock: inline
 name: "Dero Magister"
-hp: 65
-ac: 22
-modifier: 8
 level: 5
 ---
-### Dero Magister
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Small"
 trait_04: "Dero"
 trait_05: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -40,7 +38,7 @@ abilities_mid:
     desc: "  A dero magister takes 10 damage for every hour they're exposed to sunlight."
 abilities_top:
   - name: Items
-    desc: "[[aklys|b1]];"
+    desc: "[[aklys]];"
 abilities_bot:
   - name: "Cytillesh Stare"
     desc: "⬻ ([[concentrate]], [[incapacitation]], [[mental]], [[visual]]); __Frequency__ once per round  __Effect__  The magister focuses their gaze on a creature they can see within 30 feet. The target is [[dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[confused|confused]] for 1 round."
@@ -51,6 +49,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +10 (1d20+10); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 65
 health:
   - name: HP
     desc: "65;  __Immunities__ confusion; __Weaknesses__ vulnerable to sunlight ;"
@@ -58,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aklys +10 ([[trip]]); __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ aklys +10 ([[trip]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ aklys +13 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ aklys +13 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 85."
 ```
 
-### Encounter
 ```encounter-table
 name: Dero Magister
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Bythos"
+statblock: inline
 name: "Bythos"
-hp: 245
-ac: 39
-modifier: 30
 level: 16
 ---
-### Bythos
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LN"
 size: "Large"
 trait_04: "Aeon"
 trait_05: "Monitor"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__;"
@@ -40,7 +38,7 @@ abilities_top:
     desc: "  When a bythos conveys information, it does so wordlessly through psychic projections. This acts as telepathy with a range of 100 feet but is understandable to all creatures regardless of whether they have a language. The meaning to non-aeons can be vague and is often mysterious. A bythos can use this ability to communicate flawlessly with any other aeon on the same plane."
 abilities_mid:
   - name: "Confusing Gaze"
-    desc: " ([[aura]], [[divine]], [[enchantment]], [[emotion]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. A creature that ends its turn in the aura must attempt a DC 34 Will save. If it fails, it's [[confused|confused]] for 1 round (or 1 (1d4) rounds on a critical failure)."
+    desc: " ([[aura]], [[divine]], [[enchantment]], [[emotion]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. A creature that ends its turn in the aura must attempt a DC 34 Will save. If it fails, it's [[confused|confused]] for 1 round (or 1d4 (1d4) rounds on a critical failure)."
   - name: "Temporal Reversion"
     desc: "⭓ ([[fortune]]); __Frequency__ once per day __Trigger__ The bythos fails or critically fails a check __Effect__  The bythos rerolls the triggering check and takes the better result."
 abilities_bot:
@@ -51,7 +49,7 @@ abilities_bot:
   - name: "Temporal Flurry"
     desc: "⬺  The bythos makes four fist [[Strike|Strikes]]. Its multiple attack penalty increases normally with each attack."
   - name: "Temporal Strike"
-    desc: "⬺ ([[divine]], [[conjuration]], [[incapacitation]], [[teleportation]]);  The bythos touches a creature or object to displace it from time. The target attempts a DC 37 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ Time flows around the target; the target is [[slowed|slowed 1]] for 1 round.\n__Failure__ The target disappears from the present moment and reappears in the same location 1 (1d4) rounds later as if no time had passed for it. If a creature or object occupies that space when the target returns, the target appears in the closest available space to its original location.\n__Critical Failure__ As failure, but the target is [[slowed|slowed 1]] for an extra 1 (1d4) rounds after it returns."
+    desc: "⬺ ([[divine]], [[conjuration]], [[incapacitation]], [[teleportation]]);  The bythos touches a creature or object to displace it from time. The target attempts a DC 37 Fortitude save.\n__Critical Success__ The target is unaffected.\n__Success__ Time flows around the target; the target is [[slowed|slowed 1]] for 1 round.\n__Failure__ The target disappears from the present moment and reappears in the same location 1d4 (1d4) rounds later as if no time had passed for it. If a creature or object occupies that space when the target returns, the target appears in the closest available space to its original location.\n__Critical Failure__ As failure, but the target is [[slowed|slowed 1]] for an extra 1d4 (1d4) rounds after it returns."
 
 speed: fly 35 feet
 
@@ -59,6 +57,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +25 (1d20+25); __Ref__: +26 (1d20+26); __Will__: +30 (1d20+30);"
+hp: 245
 health:
   - name: HP
     desc: "245; [[regeneration]] 15 (deactivated by chaotic); __Weaknesses__ chaotic 15;"
@@ -66,7 +65,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +32 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+16) bludgeoning plus 1 (2d8) cold and 1 (2d8) lawful"
+    desc: "⬻ fist +32 ([[lawful]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus 2d8 (2d8) cold and 2d8 (2d8) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 11."
 ```
 
-### Encounter
 ```encounter-table
 name: Bythos
 creatures:

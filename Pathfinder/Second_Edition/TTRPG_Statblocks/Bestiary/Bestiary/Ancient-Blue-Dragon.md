@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Ancient Blue Dragon"
+statblock: inline
 name: "Ancient Blue Dragon"
-hp: 370
-ac: 42
-modifier: 31
 level: 18
 ---
-### Ancient Blue Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Electricity"
+modifier: 31
 perception:
   - name: "Perception"
     desc: "Perception +31; __darkvision__, __imprecise scent 60__;"
@@ -45,7 +43,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: " ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 1 (12d12) electricity damage in a 120-foot line (DC 40 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds. Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears 80 feet above a point of the dragon's choosing along the Breath Weapon's path. Clouds last for 10 minutes and allow the dragon to use Storm Breath."
+    desc: " ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 12d12 (12d12) electricity damage in a 120-foot line (DC 40 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds. Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears 80 feet above a point of the dragon's choosing along the Breath Weapon's path. Clouds last for 10 minutes and allow the dragon to use Storm Breath."
   - name: "Desert Thirst"
     desc: " ([[arcane]], [[transmutation]]);  When casting create water, the dragon can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 37 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body."
   - name: "Draconic Frenzy"
@@ -55,7 +53,7 @@ abilities_bot:
   - name: "Mirage"
     desc: "  Whenever the dragon uses Breath Weapon while the illusory image from its innate [[project image]] spell persists, it can cause the Breath Weapon to originate from itself or the image."
   - name: "Storm Breath"
-    desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]); __Requirements__ A storm cloud created by Breath Weapon is within 500 feet, and the dragon can see the cloud. __Frequency__ once per round  __Effect__  The dragon calls down a lightning bolt from a storm cloud created by its Breath Weapon. This creates a vertical line of lightning to the ground that deals 1 (6d12) electricity damage to all enemies in its path (DC 40 basic Reflex save)."
+    desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]); __Requirements__ A storm cloud created by Breath Weapon is within 500 feet, and the dragon can see the cloud. __Frequency__ once per round  __Effect__  The dragon calls down a lightning bolt from a storm cloud created by its Breath Weapon. This creates a vertical line of lightning to the ground that deals 6d12 (6d12) electricity damage to all enemies in its path (DC 40 basic Reflex save)."
 
 speed: 50 feet, burrow 30 feet, fly 200 feet
 
@@ -63,6 +61,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +32 (1d20+32); __Ref__: +30 (1d20+30); __Will__: +33 (1d20+33);"
+hp: 370
 health:
   - name: HP
     desc: "370;  __Immunities__ electricity, paralyzed, sleep;"
@@ -70,13 +69,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +35 ([[electricity]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+15) piercing plus 1 (2d12) electricity"
+    desc: "⬻ jaws +35 ([[electricity]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+15 (3d10+15) piercing plus 2d12 (2d12) electricity"
   - name: Melee
-    desc: "⬻ claw +35 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+15) slashing"
+    desc: "⬻ claw +35 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+15 (3d10+15) slashing"
   - name: Melee
-    desc: "⬻ tail +33 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (3d10+13) bludgeoning"
+    desc: "⬻ tail +33 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 3d10+13 (3d10+13) bludgeoning"
   - name: Melee
-    desc: "⬻ horns +33 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d10+13) piercing"
+    desc: "⬻ horns +33 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 2d10+13 (2d10+13) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 108."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Blue Dragon
 creatures:

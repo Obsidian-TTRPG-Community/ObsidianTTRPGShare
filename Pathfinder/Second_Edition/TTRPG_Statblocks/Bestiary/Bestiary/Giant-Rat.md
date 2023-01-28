@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Giant Rat"
+statblock: inline
 name: "Giant Rat"
-hp: 8
-ac: 15
-modifier: 5
 level: -1
 ---
-### Giant Rat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature -1"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -34,7 +32,7 @@ abilityMods: [1, 3, 2, -4, 1, -3]
 
 abilities_bot:
   - name: "Filth Fever"
-    desc: " ([[disease]]);  __Saving Throw__ DC 14 Fortitude. __Stage 1__ carrier with no ill effect (1 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] (1 day) __Stage 4__ [[unconscious|unconscious]] (1 day) __Stage 5__ dead (undefined)"
+    desc: " ([[disease]]);  __Saving Throw__ DC 14 Fortitude. __Stage 1__ carrier with no ill effect (1d4 (1d4) hours) __Stage 2__ [[sickened|sickened 1]] (1 day) __Stage 3__ [[sickened|sickened 1]] and [[slowed|slowed 1]] (1 day) __Stage 4__ [[unconscious|unconscious]] (1 day) __Stage 5__ dead (undefined)"
 
 speed: 30 feet, climb 10 feet
 
@@ -42,6 +40,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +6 (1d20+6); __Ref__: +7 (1d20+7); __Will__: +3 (1d20+3);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -49,12 +48,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+1) piercing plus filth fever"
+    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus filth fever"
 
 sourcebook: "_Bestiary_, page 276."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Rat
 creatures:

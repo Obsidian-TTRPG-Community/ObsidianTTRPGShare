@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Pugwampi"
+statblock: inline
 name: "Pugwampi"
-hp: 17
-ac: 16
-modifier: 6
 level: 0
 ---
-### Pugwampi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Tiny"
 trait_03: "Fey"
 trait_04: "Gremlin"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 17
 health:
   - name: HP
     desc: "17;  __Weaknesses__ cold iron 2;"
@@ -54,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1 (1d6-3) slashing"
+    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6-3 (1d6-3) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[magical]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 193."
 ```
 
-### Encounter
 ```encounter-table
 name: Pugwampi
 creatures:

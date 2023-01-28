@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Shadow Giant"
+statblock: inline
 name: "Shadow Giant"
-hp: 275
-ac: 33
-modifier: 20
 level: 13
 ---
-### Shadow Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
 trait_05: "Shadow"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +25 (1d20+25); __Ref__: +20 (1d20+20); __Will__: +23 (1d20+23);"
+hp: 275
 health:
   - name: HP
     desc: "275; "
@@ -62,16 +61,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spiked chain +27 ([[disarm]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (3d8+18) slashing plus pall of shadow"
+    desc: "⬻ spiked chain +27 ([[disarm]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d8+18 (3d8+18) slashing plus pall of shadow"
   - name: Melee
-    desc: "⬻ fist +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+18) bludgeoning plus pall of shadow"
+    desc: "⬻ fist +26 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+18 (3d8+18) bludgeoning plus pall of shadow"
   - name: Ranged
-    desc: "⬻ rock +26 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d8+18) bludgeoning"
+    desc: "⬻ rock +26 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d8+18 (2d8+18) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 127."
 ```
 
-### Encounter
 ```encounter-table
 name: Shadow Giant
 creatures:

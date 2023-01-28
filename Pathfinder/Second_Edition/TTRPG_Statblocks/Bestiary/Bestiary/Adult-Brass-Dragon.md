@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Adult Brass Dragon"
+statblock: inline
 name: "Adult Brass Dragon"
-hp: 215
-ac: 31
-modifier: 21
 level: 11
 ---
-### Adult Brass Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 30__;"
@@ -41,7 +39,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The brass dragon breathes fire in an 80-foot line that deals 1 (12d6) fire damage (DC 32 basic Reflex save). The dragon can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The brass dragon breathes fire in an 80-foot line that deals 12d6 (12d6) fire damage (DC 32 basic Reflex save). The dragon can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Desert Wind"
     desc: "⬺ ([[air]], [[arcane]], [[concentrate]], [[evocation]]); __Frequency__ three times per day  __Effect__  The dragon calls upon the desert wind. This has the same effect as gust of wind (DC 30 Fortitude) but in a 60-foot cone. A creature that fails its save is also [[blinded|blinded]] until the end of its next turn (or for 1 minute on a critical failure)."
   - name: "Draconic Frenzy"
@@ -55,6 +53,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +22 (1d20+22); __Ref__: +20 (1d20+20); __Will__: +21 (1d20+21);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ fire, paralyzed, sleep;"
@@ -62,11 +61,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +24 ([[fire]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+12) piercing plus 1 (2d6) fire"
+    desc: "⬻ jaws +24 ([[fire]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ claw +24 ([[agile]], [[magical]]); __Damage__ 1 (2d10+12) slashing"
+    desc: "⬻ claw +24 ([[agile]], [[magical]]); __Damage__ 2d10+12 (2d10+12) slashing"
   - name: Melee
-    desc: "⬻ wing +22 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (1d12+10) slashing"
+    desc: "⬻ wing +22 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1d12+10 (1d12+10) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 118."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Brass Dragon
 creatures:

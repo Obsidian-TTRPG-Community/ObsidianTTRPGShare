@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Giant Gecko"
+statblock: inline
 name: "Giant Gecko"
-hp: 20
-ac: 16
-modifier: 7
 level: 1
 ---
-### Giant Gecko
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__;"
@@ -42,6 +40,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +5 (1d20+5);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -49,12 +48,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ jaws +8 __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Bestiary_, page 228."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Gecko
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Skeletal Giant"
+statblock: inline
 name: "Skeletal Giant"
-hp: 50
-ac: 17
-modifier: 7
 level: 3
 ---
-### Skeletal Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Mindless"
 trait_04: "Skeleton"
 trait_05: "Undead"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +10 (1d20+10); __Ref__: +8 (1d20+8); __Will__: +7 (1d20+7);"
+hp: 50
 health:
   - name: HP
     desc: "50; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
@@ -56,14 +55,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ glaive +12 ([[deadly|deadly d8]], [[forceful]], [[reach|reach 15 feet]]); __Damage__ 1 (1d8+7) slashing"
+    desc: "⬻ glaive +12 ([[deadly|deadly d8]], [[forceful]], [[reach|reach 15 feet]]); __Damage__ 1d8+7 (1d8+7) slashing"
   - name: Melee
-    desc: "⬻ horns +12 ([[agile]]); __Damage__ 1 (1d10+5) piercing"
+    desc: "⬻ horns +12 ([[agile]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Bestiary_, page 299."
 ```
 
-### Encounter
 ```encounter-table
 name: Skeletal Giant
 creatures:

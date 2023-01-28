@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Gelugon"
+statblock: inline
 name: "Gelugon"
-hp: 215
-ac: 34
-modifier: 26
 level: 13
 ---
-### Gelugon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __greater darkvision__;"
@@ -49,6 +47,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +24 (1d20+24); __Ref__: +24 (1d20+24); __Will__: +26 (1d20+26);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ cold, fire; __Weaknesses__ good 10; __Resistances__ physical 10 (except silver), poison 10"
@@ -56,11 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ frost longspear +28 ([[cold]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+12) piercing plus 1 (1d6) cold, 1 (1d6) evil, and slowing frost"
+    desc: "⬻ frost longspear +28 ([[cold]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+12 (2d8+12) piercing plus 1d6 (1d6) cold, 1d6 (1d6) evil, and slowing frost"
   - name: Melee
-    desc: "⬻ tail +25 ([[agile]], [[cold]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+12) bludgeoning plus 1 (2d6) cold, 1 (1d6) evil, and slowing frost"
+    desc: "⬻ tail +25 ([[agile]], [[cold]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus 2d6 (2d6) cold, 1d6 (1d6) evil, and slowing frost"
   - name: Ranged
-    desc: "⬻ frost longspear +27 ([[cold]], [[magical]], [[thrown|thrown 20 feet]]); __Damage__ 1 (2d8+12) piercing plus 1 (1d6) cold"
+    desc: "⬻ frost longspear +27 ([[cold]], [[magical]], [[thrown|thrown 20 feet]]); __Damage__ 2d8+12 (2d8+12) piercing plus 1d6 (1d6) cold"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 91."
 ```
 
-### Encounter
 ```encounter-table
 name: Gelugon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Ratfolk Grenadier"
+statblock: inline
 name: "Ratfolk Grenadier"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Ratfolk Grenadier
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LN"
 size: "Small"
 trait_03: "Humanoid"
 trait_04: "Ratfolk"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -57,6 +55,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +13 (1d20+13); __Will__: +9 (1d20+9);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -64,16 +63,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +12 ([[agile]], [[finesse]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ fangs +12 ([[agile]], [[finesse]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +12 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ hand crossbow +12 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing"
   - name: Ranged
     desc: "⬻ alchemical bomb +13 ([[range increment|range increment 20 feet]], [[splash]]); __Damage__ varies by bomb"
 
 sourcebook: "_Bestiary_, page 277."
 ```
 
-### Encounter
 ```encounter-table
 name: Ratfolk Grenadier
 creatures:

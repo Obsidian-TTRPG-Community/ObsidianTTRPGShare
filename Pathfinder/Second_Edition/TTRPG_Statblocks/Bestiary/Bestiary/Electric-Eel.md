@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Electric Eel"
+statblock: inline
 name: "Electric Eel"
-hp: 18
-ac: 16
-modifier: 4
 level: 1
 ---
-### Electric Eel
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __low-light vision__;"
@@ -43,6 +41,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -50,14 +49,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +6 __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ jaws +6 __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Melee
-    desc: "⬻ tail +6 ([[agile]]); __Damage__ 1 (1d4+1) bludgeoning plus 1 (1d4) electricity and stunning shock"
+    desc: "⬻ tail +6 ([[agile]]); __Damage__ 1d4+1 (1d4+1) bludgeoning plus 1d4 (1d4) electricity and stunning shock"
 
 sourcebook: "_Bestiary_, page 142."
 ```
 
-### Encounter
 ```encounter-table
 name: Electric Eel
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Orca"
+statblock: inline
 name: "Orca"
-hp: 75
-ac: 21
-modifier: 12
 level: 5
 ---
-### Orca
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __aquatic echolocation 120__, __low-light vision__;"
@@ -49,6 +47,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +14 (1d20+14); __Ref__: +11 (1d20+11); __Will__: +12 (1d20+12);"
+hp: 75
 health:
   - name: HP
     desc: "75; "
@@ -56,12 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 __Damage__ 1 (2d8+9) piercing plus Grab"
+    desc: "⬻ jaws +13 __Damage__ 2d8+9 (2d8+9) piercing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 84."
 ```
 
-### Encounter
 ```encounter-table
 name: Orca
 creatures:

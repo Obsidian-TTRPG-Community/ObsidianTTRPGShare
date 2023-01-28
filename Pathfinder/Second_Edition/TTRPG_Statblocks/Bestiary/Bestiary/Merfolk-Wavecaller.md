@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Merfolk Wavecaller"
+statblock: inline
 name: "Merfolk Wavecaller"
-hp: 30
-ac: 17
-modifier: 8
 level: 2
 ---
-### Merfolk Wavecaller
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Aquatic"
 trait_04: "Humanoid"
 trait_05: "Merfolk"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__;"
@@ -37,7 +35,7 @@ abilityMods: [3, 2, 1, 0, 4, 2]
 
 abilities_bot:
   - name: "Hydraulic Asphyxiation"
-    desc: "⬻ ([[divine]], [[evocation]], [[water]]); __Requirements__ The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.  __Effect__  The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become [[immobilized|immobilized]] for 1 round and immediately lose 1 (1d4) actions' worth of air (or twice that on a critical failure)."
+    desc: "⬻ ([[divine]], [[evocation]], [[water]]); __Requirements__ The target is fully submerged in water, within 30 feet of the merfolk wavecaller, and holding its breath.  __Effect__  The merfolk wavecaller commands the tides to crush their foe's throat, rooting the target in place and forcing it to choke up precious air. The target must succeed at a DC 18 Fortitude save or become [[immobilized|immobilized]] for 1 round and immediately lose 1d4 (1d4) actions' worth of air (or twice that on a critical failure)."
 abilities_top:
   - name: Items
     desc: "dagger;"
@@ -48,6 +46,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +6 (1d20+6); __Will__: +10 (1d20+10);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -55,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +9 ([[agile]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
   - name: Ranged
-    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+3) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+3 (1d4+3) piercing"
 
 spellcasting:
   - name: "Primal Prepared Spells"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 235."
 ```
 
-### Encounter
 ```encounter-table
 name: Merfolk Wavecaller
 creatures:

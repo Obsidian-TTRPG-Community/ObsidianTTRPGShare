@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Ahuizotl"
+statblock: inline
 name: "Ahuizotl"
-hp: 105
-ac: 23
-modifier: 13
 level: 6
 ---
-### Ahuizotl
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Large"
 trait_04: "Amphibious"
 trait_05: "Beast"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +17 (1d20+17); __Ref__: +13 (1d20+13); __Will__: +13 (1d20+13);"
+hp: 105
 health:
   - name: HP
     desc: "105; "
@@ -55,16 +54,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 __Damage__ 1 (2d8+8) piercing"
+    desc: "⬻ jaws +17 __Damage__ 2d8+8 (2d8+8) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Melee
-    desc: "⬻ tail claw +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d4+8) slashing plus [[Improved Grab]]"
+    desc: "⬻ tail claw +17 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d4+8 (2d4+8) slashing plus [[Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 12."
 ```
 
-### Encounter
 ```encounter-table
 name: Ahuizotl
 creatures:

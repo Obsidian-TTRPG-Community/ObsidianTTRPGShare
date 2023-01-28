@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Nilith"
+statblock: inline
 name: "Nilith"
-hp: 150
-ac: 32
-modifier: 19
 level: 10
 ---
-### Nilith
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "NE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -35,7 +33,7 @@ abilityMods: [3, 5, 4, 3, 3, 5]
 
 abilities_bot:
   - name: "Mind Crush"
-    desc: "⬻ ([[enchantment]], [[mental]], [[occult]]); __Requirements__ The nilith has a creature [[grabbed|grabbed]].  __Effect__  The nilith reaches into the mind of the [[grabbed|grabbed]] creature and implants disjointed images of the victim's worst fears and nightmares. The [[grabbed|grabbed]] creature takes 1 (6d6) mental damage (DC 31 basic Will save). On a critical failure, the target is also affected as though by feeblemind, and it must attempt a second Will save against that effect."
+    desc: "⬻ ([[enchantment]], [[mental]], [[occult]]); __Requirements__ The nilith has a creature [[grabbed|grabbed]].  __Effect__  The nilith reaches into the mind of the [[grabbed|grabbed]] creature and implants disjointed images of the victim's worst fears and nightmares. The [[grabbed|grabbed]] creature takes 6d6 (6d6) mental damage (DC 31 basic Will save). On a critical failure, the target is also affected as though by feeblemind, and it must attempt a second Will save against that effect."
 
 speed: 25 feet, climb 30 feet
 
@@ -43,6 +41,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +17 (1d20+17); __Ref__: +20 (1d20+20); __Will__: +20 (1d20+20);"
+hp: 150
 health:
   - name: HP
     desc: "150; "
@@ -50,9 +49,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d10+9) slashing plus Grab"
+    desc: "⬻ claw +23 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d10+9 (2d10+9) slashing plus Grab"
   - name: Melee
-    desc: "⬻ fangs +23 ([[finesse]], [[magical]]); __Damage__ 1 (2d12+9) piercing"
+    desc: "⬻ fangs +23 ([[finesse]], [[magical]]); __Damage__ 2d12+9 (2d12+9) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -60,7 +59,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 245."
 ```
 
-### Encounter
 ```encounter-table
 name: Nilith
 creatures:

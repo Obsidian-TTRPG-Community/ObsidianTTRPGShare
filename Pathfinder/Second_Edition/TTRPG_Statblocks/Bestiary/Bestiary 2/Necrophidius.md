@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Necrophidius"
+statblock: inline
 name: "Necrophidius"
-hp: 50
-ac: 19
-modifier: 9
 level: 3
 ---
-### Necrophidius
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Construct"
 trait_04: "Mindless"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 50
 health:
   - name: HP
     desc: "50;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -52,12 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d10+3) piercing plus necrophidic paralysis"
+    desc: "⬻ jaws +8 ([[agile]], [[finesse]]); __Damage__ 1d10+3 (1d10+3) piercing plus necrophidic paralysis"
 
 sourcebook: "_Bestiary 2_, page 180."
 ```
 
-### Encounter
 ```encounter-table
 name: Necrophidius
 creatures:

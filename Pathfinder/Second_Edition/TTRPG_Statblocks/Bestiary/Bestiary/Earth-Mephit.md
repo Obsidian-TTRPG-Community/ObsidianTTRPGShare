@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Earth Mephit"
+statblock: inline
 name: "Earth Mephit"
-hp: 20
-ac: 15
-modifier: 3
 level: 1
 ---
-### Earth Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -36,7 +34,7 @@ abilityMods: [3, -1, 2, -2, 0, -1]
 
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[earth]]);  The earth mephit breathes rocks in a 15-foot cone that deals 1 (2d6) bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth mephit can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[earth]]);  The earth mephit breathes rocks in a 15-foot cone that deals 2d6 (2d6) bludgeoning damage to each creature within the area (DC 17 basic Reflex save). The earth mephit can't use Breath Weapon again for 1d4 (1d4) rounds."
 
 speed: 20 feet, burrow 20 feet, fly 15 feet
 
@@ -44,6 +42,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +8 (1d20+8); __Ref__: +4 (1d20+4); __Will__: +3 (1d20+3);"
+hp: 20
 health:
   - name: HP
     desc: "20; fast healing 2 (while underground);"
@@ -51,7 +50,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +8 __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ fist +8 __Damage__ 1d6+3 (1d6+3) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -59,7 +58,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 150."
 ```
 
-### Encounter
 ```encounter-table
 name: Earth Mephit
 creatures:

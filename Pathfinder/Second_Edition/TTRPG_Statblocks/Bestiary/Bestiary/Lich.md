@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Lich"
+statblock: inline
 name: "Lich"
-hp: 190
-ac: 31
-modifier: 20
 level: 12
 ---
-### Lich
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "NE"
 size: "Medium"
 trait_04: "Undead"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -56,6 +54,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +17 (1d20+17); __Ref__: +21 (1d20+21); __Will__: +23 (1d20+23);"
+hp: 190
 health:
   - name: HP
     desc: "190; negative healing, rejuvenation; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 10, physical 10 (except magic bludgeoning)"
@@ -63,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hand +24 ([[finesse]], [[magical]]); __Damage__ 1 (4d8) negative plus paralyzing touch"
+    desc: "⬻ hand +24 ([[finesse]], [[magical]]); __Damage__ 4d8 (4d8) negative plus paralyzing touch"
 
 spellcasting:
   - name: "Arcane Prepared Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 221."
 ```
 
-### Encounter
 ```encounter-table
 name: Lich
 creatures:

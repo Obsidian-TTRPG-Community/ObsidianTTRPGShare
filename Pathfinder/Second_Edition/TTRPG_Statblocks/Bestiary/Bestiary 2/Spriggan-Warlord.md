@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Spriggan Warlord"
+statblock: inline
 name: "Spriggan Warlord"
-hp: 120
-ac: 25
-modifier: 14
 level: 7
 ---
-### Spriggan Warlord
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
 trait_05: "Spriggan"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __low-light vision__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Bully's Bludgeon"
     desc: "⬻  The spriggan warlord makes a morningstar [[Strike]] with a +2 circumstance bonus to its attack roll. This attack is nonlethal."
   - name: "Sneak Attack"
-    desc: "  The spriggan warlord's [[Strike|Strikes]] deal an additional 1 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spriggan warlord's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Warlord's Training"
     desc: "  A spriggan warlord has access to the critical specialization effects for crossbows and morningstars, and the reload of any crossbow they wield is reduced by 1 (to a minimum of 0)."
 
@@ -55,6 +53,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 120
 health:
   - name: HP
     desc: "120; "
@@ -62,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ morningstar +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d6+9) bludgeoning"
+    desc: "⬻ morningstar +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +18 ([[magical]], [[range increment|range increment 120 feet]], [[reload|reload 0]]); __Damage__ 1 (2d8) piercing"
+    desc: "⬻ crossbow +18 ([[magical]], [[range increment|range increment 120 feet]], [[reload|reload 0]]); __Damage__ 2d8 (2d8) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 253."
 ```
 
-### Encounter
 ```encounter-table
 name: Spriggan Warlord
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Living Boulder"
+statblock: inline
 name: "Living Boulder"
-hp: 36
-ac: 17
-modifier: 6
 level: 2
 ---
-### Living Boulder
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __[[tremorsense]] 30__;"
@@ -45,6 +43,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +10 (1d20+10); __Ref__: +5 (1d20+5); __Will__: +8 (1d20+8);"
+hp: 36
 health:
   - name: HP
     desc: "36; "
@@ -52,12 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +10 __Damage__ 1 (1d8+6) piercing"
+    desc: "⬻ jaws +10 __Damage__ 1d8+6 (1d8+6) piercing"
 
 sourcebook: "_Bestiary 2_, page 108."
 ```
 
-### Encounter
 ```encounter-table
 name: Living Boulder
 creatures:

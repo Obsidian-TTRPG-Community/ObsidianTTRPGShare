@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Scarecrow"
+statblock: inline
 name: "Scarecrow"
-hp: 60
-ac: 19
-modifier: 11
 level: 4
 ---
-### Scarecrow
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Medium"
 trait_03: "Construct"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -39,7 +37,7 @@ abilities_bot:
   - name: "Baleful Glow"
     desc: "⭓ ([[concentrate]], [[mental]], [[occult]]);  The scarecrow's head bursts into ghostly, heatless flame that sheds bright light in a 20-foot emanation (and dim light to the next 20 feet). If the scarecrow uses this ability on the first round of combat, any creature that has not acted yet is startled and becomes [[flat-footed|flat-footed]] against the scarecrow for 1 round. It can suppress the light by using this action again."
   - name: "Clawing Fear"
-    desc: "  The scarecrow's strikes deal an additional 1 (1d6) mental damage to [[frightened|frightened]] creatures."
+    desc: "  The scarecrow's strikes deal an additional 1d6 (1d6) mental damage to [[frightened|frightened]] creatures."
   - name: "Mundane Appearance"
     desc: "⬻ ([[concentrate]]);  Until it acts, the scarecrow resembles an ordinary scarecrow. It has an automatic result of 32 on [[Deception]] checks and DCs to pass as an ordinary scarecrow."
 
@@ -49,6 +47,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +13 (1d20+13); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Weaknesses__ fire 5;"
@@ -56,12 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[versatile|versatile s]]); __Damage__ 1 (2d6+7) bludgeoning plus clawing fear"
+    desc: "⬻ claw +13 ([[versatile|versatile s]]); __Damage__ 2d6+7 (2d6+7) bludgeoning plus clawing fear"
 
 sourcebook: "_Bestiary 2_, page 232."
 ```
 
-### Encounter
 ```encounter-table
 name: Scarecrow
 creatures:

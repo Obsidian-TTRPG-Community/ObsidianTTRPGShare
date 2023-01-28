@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Lemure"
+statblock: inline
 name: "Lemure"
-hp: 20
-ac: 13
-modifier: 0
 level: 0
 ---
-### Lemure
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Devil"
 trait_04: "Fiend"
 trait_05: "Mindless"
+modifier: 0
 perception:
   - name: "Perception"
     desc: "Perception +0; __greater darkvision__;"
@@ -44,6 +42,7 @@ ac: 13
 armorclass:
   - name: AC
     desc: "13; __Fort__: +10 (1d20+10); __Ref__: +5 (1d20+5); __Will__: +3 (1d20+3);"
+hp: 20
 health:
   - name: HP
     desc: "20;  __Immunities__ fire, mental; __Weaknesses__ good 3;"
@@ -51,12 +50,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +7 ([[evil]], [[magical]]); __Damage__ 1 (1d4+2) slashing plus 1 evil"
+    desc: "⬻ claw +7 ([[evil]], [[magical]]); __Damage__ 1d4+2 (1d4+2) slashing plus 1 evil"
 
 sourcebook: "_Bestiary_, page 86."
 ```
 
-### Encounter
 ```encounter-table
 name: Lemure
 creatures:

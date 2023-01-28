@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Ghost Commoner"
+statblock: inline
 name: "Ghost Commoner"
-hp: 30
-ac: 20
-modifier: 10
 level: 4
 ---
-### Ghost Commoner
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_03: "Ghost"
 trait_04: "Incorporeal"
 trait_05: "Spirit"
 trait_06: "Undead"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +8 (1d20+8); __Ref__: +11 (1d20+11); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; negative healing, rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 5 (except force, ghost touch, or positive; double resistance vs. non-magical)"
@@ -60,12 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ghostly hand +13 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d6+2) negative"
+    desc: "⬻ ghostly hand +13 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d6+2 (2d6+2) negative"
 
 sourcebook: "_Bestiary_, page 167."
 ```
 
-### Encounter
 ```encounter-table
 name: Ghost Commoner
 creatures:

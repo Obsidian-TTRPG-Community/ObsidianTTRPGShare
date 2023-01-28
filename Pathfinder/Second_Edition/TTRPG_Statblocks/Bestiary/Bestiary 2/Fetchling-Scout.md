@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Fetchling Scout"
+statblock: inline
 name: "Fetchling Scout"
-hp: 18
-ac: 18
-modifier: 5
 level: 1
 ---
-### Fetchling Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Fetchling"
 trait_04: "Humanoid"
 trait_05: "Shadow"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Shadow Stride"
     desc: "⬻ ([[illusion]], [[occult]], [[shadow]]); __Requirements__ The fetchling is in dim light  __Effect__  The fetchling [[Stride|Strides]]. They have a +10-foot status bonus to their Speed during this [[Stride]]. The DC from shadow blending increases to 11 during this [[Stride]], and the fetchling remains concealed by dim light until the end of the movement, even if they leave dim light during the [[Stride]]."
   - name: "Sneak Attack"
-    desc: "  The fetchling scout's [[Strike|Strikes]] deal an additional 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The fetchling scout's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -60,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4+1) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1) piercing"
   - name: Ranged
-    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+1) piercing"
+    desc: "⬻ dagger +9 ([[agile]], [[finesse]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 117."
 ```
 
-### Encounter
 ```encounter-table
 name: Fetchling Scout
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Yellow Musk Thrall"
+statblock: inline
 name: "Yellow Musk Thrall"
-hp: 12
-ac: 14
-modifier: 0
 level: -1
 ---
-### Yellow Musk Thrall
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Mindless"
 trait_04: "Plant"
+modifier: 0
 perception:
   - name: "Perception"
     desc: "Perception +0; __low-light vision__;"
@@ -51,6 +49,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +6 (1d20+6); __Ref__: +0 (1d20+0); __Will__: +2 (1d20+2);"
+hp: 12
 health:
   - name: HP
     desc: "12;  __Immunities__ mental; __Weaknesses__ fire 5;"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +7 __Damage__ 1 (1d4+3) bludgeoning plus Grab and pollen touch"
+    desc: "⬻ fist +7 __Damage__ 1d4+3 (1d4+3) bludgeoning plus Grab and pollen touch"
 
 sourcebook: "_Bestiary 2_, page 301."
 ```
 
-### Encounter
 ```encounter-table
 name: Yellow Musk Thrall
 creatures:

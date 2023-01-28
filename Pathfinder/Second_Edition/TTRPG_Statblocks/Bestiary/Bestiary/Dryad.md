@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Dryad"
+statblock: inline
 name: "Dryad"
-hp: 55
-ac: 19
-modifier: 10
 level: 3
 ---
-### Dryad
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Medium"
 trait_03: "Fey"
 trait_04: "Nymph"
 trait_05: "Plant"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -44,7 +42,7 @@ abilities_mid:
     desc: "  A dryad is mystically bonded to a single great tree and must remain within 300 feet of it. If she moves beyond that range, she becomes [[sickened|sickened 1]] and is unable to recover. She must attempt a DC 18 Fortitude save every hour or increase the [[sickened|sickened]] value by 1 (to a maximum of [[sickened|sickened 4]]). After 24 hours, she becomes [[drained|drained 1]], with this value increasing by 1 every additional 24 hours. A dryad can perform a 24-hour ritual to bond herself to a new tree."
 abilities_bot:
   - name: "Tree Meld"
-    desc: "⬺ ([[primal]], [[transmutation]]);  The dryad touches a tree of enough volume to contain her and merges into it for as long as she wishes. She can [[Cast a Spell]] while inside as long as the spell doesn't require a line of effect outside the tree. She can hear, but not see, what's going on outside the tree. She can [[Dismiss]] this effect. Significant physical damage dealt to the tree expels the dryad from the tree and deals 1 (3d6) damage to her. Passwall expels the dryad without dealing damage. If a dryad uses this ability on her bonded tree, she instead enters an extradimensional living space within the tree; Tree Meld gains the [[extradimensional]] trait. A dryad can bring up to two other creatures with her when entering her home within her bonded tree. The dryad can still be expelled from this space as above."
+    desc: "⬺ ([[primal]], [[transmutation]]);  The dryad touches a tree of enough volume to contain her and merges into it for as long as she wishes. She can [[Cast a Spell]] while inside as long as the spell doesn't require a line of effect outside the tree. She can hear, but not see, what's going on outside the tree. She can [[Dismiss]] this effect. Significant physical damage dealt to the tree expels the dryad from the tree and deals 3d6 (3d6) damage to her. Passwall expels the dryad without dealing damage. If a dryad uses this ability on her bonded tree, she instead enters an extradimensional living space within the tree; Tree Meld gains the [[extradimensional]] trait. A dryad can bring up to two other creatures with her when entering her home within her bonded tree. The dryad can still be expelled from this space as above."
 
 speed: 25 feet
 
@@ -52,6 +50,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +11 (1d20+11); __Will__: +10 (1d20+10);"
+hp: 55
 health:
   - name: HP
     desc: "55;  __Weaknesses__ cold iron 5, fire 5;"
@@ -59,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ branch +12 ([[finesse]], [[magical]]); __Damage__ 1 (1d12+2) bludgeoning"
+    desc: "⬻ branch +12 ([[finesse]], [[magical]]); __Damage__ 1d12+2 (1d12+2) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 246."
 ```
 
-### Encounter
 ```encounter-table
 name: Dryad
 creatures:

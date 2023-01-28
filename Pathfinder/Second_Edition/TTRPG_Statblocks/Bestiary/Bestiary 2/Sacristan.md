@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Sacristan"
+statblock: inline
 name: "Sacristan"
-hp: 175
-ac: 30
-modifier: 19
 level: 10
 ---
-### Sacristan
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __greater darkvision__, __painsight__;"
@@ -54,6 +52,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +22 (1d20+22); __Ref__: +19 (1d20+19); __Will__: +17 (1d20+17);"
+hp: 175
 health:
   - name: HP
     desc: "175; [[regeneration]] 10 (deactivated by good or silver); __Immunities__ cold;"
@@ -61,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ barbed chain +22 ([[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]], [[versatile|versatile s]]); __Damage__ 1 (2d8+9) piercing plus 1 (1d6) evil and 1 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ barbed chain +22 ([[evil]], [[magical]], [[reach|reach 10 feet]], [[trip]], [[versatile|versatile s]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) evil and 2d6 (2d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 283."
 ```
 
-### Encounter
 ```encounter-table
 name: Sacristan
 creatures:

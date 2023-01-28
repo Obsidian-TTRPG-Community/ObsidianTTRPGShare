@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Piscodaemon"
+statblock: inline
 name: "Piscodaemon"
-hp: 200
-ac: 28
-modifier: 19
 level: 10
 ---
-### Piscodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Daemon"
 trait_05: "Fiend"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__, __see invisibility__;"
@@ -39,14 +37,14 @@ abilities_mid:
   - name: "Attack of Opportunity"
     desc: "⬲ "
   - name: "Enhance Venom"
-    desc: "⬲ ([[divine]], [[misfortune]], [[necromancy]], [[poison]]); __Trigger__ A creature within 30 feet attempts a saving throw against piscovenom __Effect__  The creature takes an additional 1 (2d8) poison damage even if it succeeds at its save."
+    desc: "⬲ ([[divine]], [[misfortune]], [[necromancy]], [[poison]]); __Trigger__ A creature within 30 feet attempts a saving throw against piscovenom __Effect__  The creature takes an additional 2d8 (2d8) poison damage even if it succeeds at its save."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (2d10+6) bludgeoning, DC 30."
+    desc: "⬻  2d10+6 (2d10+6) bludgeoning, DC 30."
   - name: "Gory Rend"
-    desc: "⬺  The piscodaemon makes two claw [[Strike|Strikes]] against the same creature. If both hit, the creature takes 1 (2d10) [[persistent damage|persistent bleed damage]] and is exposed to piscovenom."
+    desc: "⬺  The piscodaemon makes two claw [[Strike|Strikes]] against the same creature. If both hit, the creature takes 2d10 (2d10) [[persistent damage|persistent bleed damage]] and is exposed to piscovenom."
   - name: "Piscovenom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 1 (4d8) poison and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 30 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d8 (1d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 3__ 4d8 (4d8) poison and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 25 feet, swim 40 feet
 
@@ -54,6 +52,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +22 (1d20+22); __Ref__: +16 (1d20+16); __Will__: +19 (1d20+19);"
+hp: 200
 health:
   - name: HP
     desc: "200;  __Immunities__ poison, death effects; __Weaknesses__ good 10;"
@@ -61,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +23 ([[evil]], [[magical]]); __Damage__ 1 (2d10+12) slashing plus 1 (1d6) evil and Grab"
+    desc: "⬻ claw +23 ([[evil]], [[magical]]); __Damage__ 2d10+12 (2d10+12) slashing plus 1d6 (1d6) evil and Grab"
   - name: Melee
-    desc: "⬻ tentacle +23 ([[agile]], [[evil]], [[magical]]); __Damage__ 1 (2d6+12) bludgeoning plus 1 (1d6) evil and piscovenom"
+    desc: "⬻ tentacle +23 ([[agile]], [[evil]], [[magical]]); __Damage__ 2d6+12 (2d6+12) bludgeoning plus 1d6 (1d6) evil and piscovenom"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 58."
 ```
 
-### Encounter
 ```encounter-table
 name: Piscodaemon
 creatures:

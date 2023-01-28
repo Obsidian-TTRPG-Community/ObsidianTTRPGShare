@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Quetzalcoatlus"
+statblock: inline
 name: "Quetzalcoatlus"
-hp: 110
-ac: 25
-modifier: 15
 level: 7
 ---
-### Quetzalcoatlus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__, __imprecise scent 30__;"
@@ -42,6 +40,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +16 (1d20+16); __Ref__: +17 (1d20+17); __Will__: +12 (1d20+12);"
+hp: 110
 health:
   - name: HP
     desc: "110; "
@@ -49,14 +48,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +17 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+10) piercing plus 1 (1d8) [[persistent damage|persistent bleed]]"
+    desc: "⬻ beak +17 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) piercing plus 1d8 (1d8) [[persistent damage|persistent bleed]]"
   - name: Melee
-    desc: "⬻ talon +17 __Damage__ 1 (2d8+10) piercing plus Grab"
+    desc: "⬻ talon +17 __Damage__ 2d8+10 (2d8+10) piercing plus Grab"
 
 sourcebook: "_Bestiary_, page 272."
 ```
 
-### Encounter
 ```encounter-table
 name: Quetzalcoatlus
 creatures:

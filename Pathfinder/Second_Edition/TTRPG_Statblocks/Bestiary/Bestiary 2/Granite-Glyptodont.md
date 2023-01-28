@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Granite Glyptodont"
+statblock: inline
 name: "Granite Glyptodont"
-hp: 145
-ac: 28
-modifier: 17
 level: 8
 ---
-### Granite Glyptodont
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__, __imprecise [[tremorsense]] 90__;"
@@ -47,6 +45,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +13 (1d20+13); __Will__: +17 (1d20+17);"
+hp: 145
 health:
   - name: HP
     desc: "145; "
@@ -54,12 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +20 ([[forceful]], [[reach|reach 10 feet]], [[versatile piercing]]); __Damage__ 1 (2d12+9) bludgeoning plus calcification"
+    desc: "⬻ tail +20 ([[forceful]], [[reach|reach 10 feet]], [[versatile piercing]]); __Damage__ 2d12+9 (2d12+9) bludgeoning plus calcification"
 
 sourcebook: "_Bestiary 2_, page 109."
 ```
 
-### Encounter
 ```encounter-table
 name: Granite Glyptodont
 creatures:

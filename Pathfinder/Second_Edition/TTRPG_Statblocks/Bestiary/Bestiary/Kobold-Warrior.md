@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Kobold Warrior"
+statblock: inline
 name: "Kobold Warrior"
-hp: 8
-ac: 16
-modifier: 3
 level: -1
 ---
-### Kobold Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Humanoid"
 trait_04: "Kobold"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -38,7 +36,7 @@ abilities_bot:
   - name: "Hurried Retreat"
     desc: "⬻ __Requirements__ The kobold warrior is adjacent to at least one enemy.  __Effect__  The kobold warrior [[Stride|Strides]] up to its Speed plus 5 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. It must end this movement in a space that's not adjacent to any enemy."
   - name: "Sneak Attack"
-    desc: "  The kobold warrior deals an extra 1 (1d4) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The kobold warrior deals an extra 1d4 (1d4) precision damage to [[flat-footed|flat-footed]] creatures."
 abilities_top:
   - name: Items
     desc: "leather armor, sling (20 bullets), spear;"
@@ -49,6 +47,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +3 (1d20+3);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -56,16 +55,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +3 __Damage__ 1 (1d6+1) piercing"
+    desc: "⬻ spear +3 __Damage__ 1d6+1 (1d6+1) piercing"
   - name: Ranged
-    desc: "⬻ sling +5 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1 (1d4) bludgeoning"
+    desc: "⬻ sling +5 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d4 (1d4) bludgeoning"
   - name: Ranged
-    desc: "⬻ spear +5 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+1) piercing"
+    desc: "⬻ spear +5 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+1 (1d6+1) piercing"
 
 sourcebook: "_Bestiary_, page 212."
 ```
 
-### Encounter
 ```encounter-table
 name: Kobold Warrior
 creatures:

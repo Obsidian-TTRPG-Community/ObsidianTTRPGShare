@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Bulette"
+statblock: inline
 name: "Bulette"
-hp: 120
-ac: 30
-modifier: 16
 level: 8
 ---
-### Bulette
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +20 (1d20+20); __Ref__: +16 (1d20+16); __Will__: +14 (1d20+14);"
+hp: 120
 health:
   - name: HP
     desc: "120; "
@@ -53,14 +52,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 __Damage__ 1 (2d10+10) piercing"
+    desc: "⬻ jaws +21 __Damage__ 2d10+10 (2d10+10) piercing"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]]); __Damage__ 1 (2d8+10) slashing"
+    desc: "⬻ claw +21 ([[agile]]); __Damage__ 2d8+10 (2d8+10) slashing"
 
 sourcebook: "_Bestiary_, page 48."
 ```
 
-### Encounter
 ```encounter-table
 name: Bulette
 creatures:

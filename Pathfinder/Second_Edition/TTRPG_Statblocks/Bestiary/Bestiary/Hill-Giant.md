@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Hill Giant"
+statblock: inline
 name: "Hill Giant"
-hp: 140
-ac: 24
-modifier: 13
 level: 7
 ---
-### Hill Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Earth"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__;"
@@ -55,6 +53,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +17 (1d20+17); __Ref__: +12 (1d20+12); __Will__: +13 (1d20+13);"
+hp: 140
 health:
   - name: HP
     desc: "140; "
@@ -62,16 +61,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatclub +19 ([[backswing]], [[reach|reach 10 feet]], [[shove]]); __Damage__ 1 (1d10+14) bludgeoning"
+    desc: "⬻ greatclub +19 ([[backswing]], [[reach|reach 10 feet]], [[shove]]); __Damage__ 1d10+14 (1d10+14) bludgeoning"
   - name: Melee
-    desc: "⬻ fist +19 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ fist +19 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (1d8+14) bludgeoning"
+    desc: "⬻ rock +19 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1d8+14 (1d8+14) bludgeoning"
 
 sourcebook: "_Bestiary_, page 170."
 ```
 
-### Encounter
 ```encounter-table
 name: Hill Giant
 creatures:

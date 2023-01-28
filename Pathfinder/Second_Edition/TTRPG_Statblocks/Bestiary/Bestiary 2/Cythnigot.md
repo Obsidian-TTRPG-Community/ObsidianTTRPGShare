@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Cythnigot"
+statblock: inline
 name: "Cythnigot"
-hp: 14
-ac: 16
-modifier: 5
 level: 1
 ---
-### Cythnigot
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Tiny"
 trait_04: "Fiend"
 trait_05: "Qlippoth"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +9 (1d20+9); __Ref__: +6 (1d20+6); __Will__: +5 (1d20+5);"
+hp: 14
 health:
   - name: HP
     desc: "14;  __Immunities__ controlled, fear; __Weaknesses__ lawful 3;"
@@ -54,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bite +8 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (1d10+1) piercing plus 1 (1d4) chaotic and tangle spores"
+    desc: "⬻ bite +8 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 1d10+1 (1d10+1) piercing plus 1d4 (1d4) chaotic and tangle spores"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 212."
 ```
 
-### Encounter
 ```encounter-table
 name: Cythnigot
 creatures:

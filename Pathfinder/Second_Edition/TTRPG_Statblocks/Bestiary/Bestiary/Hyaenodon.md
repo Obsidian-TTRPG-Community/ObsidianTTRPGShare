@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Hyaenodon"
+statblock: inline
 name: "Hyaenodon"
-hp: 45
-ac: 19
-modifier: 9
 level: 3
 ---
-### Hyaenodon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __low-light vision__, __imprecise scent 30__;"
@@ -38,7 +36,7 @@ abilities_bot:
   - name: "Drag"
     desc: "⬻  The hyena makes a jaws [[Strike]] against a [[prone|prone]] enemy. If it hits, in addition to dealing damage, the hyena [[Stride|Strides]] up to 10 feet, dragging the enemy along."
   - name: "Pack Attack"
-    desc: "  The hyaenodon deals an extra 1 (1d6) damage to any creature within reach of at least two of the hyaenodon's allies."
+    desc: "  The hyaenodon deals an extra 1d6 (1d6) damage to any creature within reach of at least two of the hyaenodon's allies."
 
 speed: 40 feet
 
@@ -46,6 +44,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +10 (1d20+10); __Ref__: +8 (1d20+8); __Will__: +7 (1d20+7);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -53,12 +52,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +12 __Damage__ 1 (1d10+5) piercing plus Knockdown and bonecrunching bite"
+    desc: "⬻ jaws +12 __Damage__ 1d10+5 (1d10+5) piercing plus Knockdown and bonecrunching bite"
 
 sourcebook: "_Bestiary_, page 211."
 ```
 
-### Encounter
 ```encounter-table
 name: Hyaenodon
 creatures:

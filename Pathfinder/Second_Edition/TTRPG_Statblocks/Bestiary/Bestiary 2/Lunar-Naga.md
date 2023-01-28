@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Lunar Naga"
+statblock: inline
 name: "Lunar Naga"
-hp: 100
-ac: 24
-modifier: 16
 level: 6
 ---
-### Lunar Naga
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Large"
 trait_04: "Aberration"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +15 (1d20+15); __Ref__: +16 (1d20+16); __Will__: +17 (1d20+17);"
+hp: 100
 health:
   - name: HP
     desc: "100; "
@@ -53,7 +52,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +16 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+8) piercing plus lunar naga venom"
+    desc: "⬻ fangs +16 ([[agile]], [[finesse]]); __Damage__ 2d6+8 (2d6+8) piercing plus lunar naga venom"
 
 spellcasting:
   - name: "Primal Spontaneous Spells"
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 178."
 ```
 
-### Encounter
 ```encounter-table
 name: Lunar Naga
 creatures:

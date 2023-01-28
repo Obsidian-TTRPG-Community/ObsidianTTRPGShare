@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Sewer Ooze"
+statblock: inline
 name: "Sewer Ooze"
-hp: 40
-ac: 8
-modifier: 3
 level: 1
 ---
-### Sewer Ooze
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __motion sense 60__, __no vision__;"
@@ -38,7 +36,7 @@ abilities_top:
     desc: "  A sewer ooze can sense nearby motion through vibration and air movement."
 abilities_bot:
   - name: "Filth Wave"
-    desc: "⬻ __Frequency__ once per minute  __Effect__  The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1 (1d4) acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[prone|prone]]). A creature can spend an [[Interact]] action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
+    desc: "⬻ __Frequency__ once per minute  __Effect__  The sewer ooze unleashes a wave of filth, covering all creatures within a 20-foot emanation. Each creature in the area must succeed at a DC 17 Reflex save or take 1d4 (1d4) acid damage and take a –10-foot penalty to its Speeds for 1 minute (on a critical failure, the creature also falls [[prone|prone]]). A creature can spend an [[Interact]] action to clean someone off, decreasing the Speed penalty by 5 feet with each action."
 
 speed: 10 feet
 
@@ -46,6 +44,7 @@ ac: 8
 armorclass:
   - name: AC
     desc: "8; __Fort__: +9 (1d20+9); __Ref__: +1 (1d20+1); __Will__: +3 (1d20+3);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -53,12 +52,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +9 __Damage__ 1 (1d6+1) bludgeoning plus 1 (1d4) acid"
+    desc: "⬻ pseudopod +9 __Damage__ 1d6+1 (1d6+1) bludgeoning plus 1d4 (1d4) acid"
 
 sourcebook: "_Bestiary_, page 254."
 ```
 
-### Encounter
 ```encounter-table
 name: Sewer Ooze
 creatures:

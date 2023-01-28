@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Giant Hippocampus"
+statblock: inline
 name: "Giant Hippocampus"
-hp: 170
-ac: 27
-modifier: 16
 level: 8
 ---
-### Giant Hippocampus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Huge"
 trait_04: "Animal"
 trait_05: "Aquatic"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +16 (1d20+16); __Will__: +14 (1d20+14);"
+hp: 170
 health:
   - name: HP
     desc: "170; "
@@ -54,12 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 1 (2d6+10) bludgeoning"
+    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 142."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Hippocampus
 creatures:

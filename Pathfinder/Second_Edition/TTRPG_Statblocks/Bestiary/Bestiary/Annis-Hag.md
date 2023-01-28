@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Annis Hag"
+statblock: inline
 name: "Annis Hag"
-hp: 85
-ac: 24
-modifier: 15
 level: 6
 ---
-### Annis Hag
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Hag"
 trait_04: "Humanoid"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 85
 health:
   - name: HP
     desc: "85; "
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +16 ([[agile]], [[cold iron]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) slashing plus Grab"
+    desc: "⬻ claw +16 ([[agile]], [[cold iron]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) slashing plus Grab"
 
 sourcebook: "_Bestiary_, page 202."
 ```
 
-### Encounter
 ```encounter-table
 name: Annis Hag
 creatures:

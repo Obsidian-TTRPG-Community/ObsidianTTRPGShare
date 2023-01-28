@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Spear Frog"
+statblock: inline
 name: "Spear Frog"
-hp: 12
-ac: 14
-modifier: 6
 level: 0
 ---
-### Spear Frog
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -37,7 +35,7 @@ abilities_mid:
     desc: "  Anytime a creature touches the spear frog or an adjacent creature [[Strike|Strikes]] the spear frog with a melee attack, that creature is exposed to spear frog venom."
 abilities_bot:
   - name: "Spear Frog Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 15 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d4) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 15 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
   - name: "Sticky Feet"
     desc: "  Spear frogs are not [[flat-footed|flat-footed]] when Balancing on a narrow surface, and they gain a +4 bonus to Reflex saves to avoid falling."
 
@@ -47,6 +45,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 12
 health:
   - name: HP
     desc: "12; "
@@ -54,12 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6) piercing plus spear frog venom"
+    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1d6 (1d6) piercing plus spear frog venom"
 
 sourcebook: "_Bestiary 2_, page 121."
 ```
 
-### Encounter
 ```encounter-table
 name: Spear Frog
 creatures:

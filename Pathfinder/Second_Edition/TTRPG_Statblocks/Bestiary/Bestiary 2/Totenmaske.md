@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Totenmaske"
+statblock: inline
 name: "Totenmaske"
-hp: 128
-ac: 25
-modifier: 15
 level: 7
 ---
-### Totenmaske
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "NE"
 size: "Medium"
 trait_03: "Undead"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +15 (1d20+15); __Ref__: +17 (1d20+17); __Will__: +13 (1d20+13);"
+hp: 128
 health:
   - name: HP
     desc: "128; negative healing;"
@@ -52,14 +51,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[finesse]]); __Damage__ 1 (2d6+7) piercing plus 1 (2d6) negative"
+    desc: "⬻ jaws +18 ([[finesse]]); __Damage__ 2d6+7 (2d6+7) piercing plus 2d6 (2d6) negative"
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +18 ([[agile]], [[finesse]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 sourcebook: "_Bestiary 2_, page 262."
 ```
 
-### Encounter
 ```encounter-table
 name: Totenmaske
 creatures:

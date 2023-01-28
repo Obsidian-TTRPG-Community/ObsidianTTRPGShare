@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Deep Gnome Warrior"
+statblock: inline
 name: "Deep Gnome Warrior"
-hp: 34
-ac: 18
-modifier: 7
 level: 2
 ---
-### Deep Gnome Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18;  (20 with shield raised); __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 34
 health:
   - name: HP
     desc: "34; "
@@ -56,9 +55,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +10 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +10 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ heavy crossbow +8 ([[range increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1 (1d10) piercing"
+    desc: "⬻ heavy crossbow +8 ([[range increment|range increment 120 feet]], [[reload|reload 2]]); __Damage__ 1d10 (1d10) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 75."
 ```
 
-### Encounter
 ```encounter-table
 name: Deep Gnome Warrior
 creatures:

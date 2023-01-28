@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Owlbear"
+statblock: inline
 name: "Owlbear"
-hp: 70
-ac: 21
-modifier: 13
 level: 4
 ---
-### Owlbear
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +7 (1d20+7); __Will__: +11 (1d20+11);"
+hp: 70
 health:
   - name: HP
     desc: "70; "
@@ -53,14 +52,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ talon +14 ([[agile]]); __Damage__ 1 (1d10+6) piercing plus Grab"
+    desc: "⬻ talon +14 ([[agile]]); __Damage__ 1d10+6 (1d10+6) piercing plus Grab"
   - name: Melee
-    desc: "⬻ beak +14 __Damage__ 1 (1d12+6) piercing"
+    desc: "⬻ beak +14 __Damage__ 1d12+6 (1d12+6) piercing"
 
 sourcebook: "_Bestiary_, page 259."
 ```
 
-### Encounter
 ```encounter-table
 name: Owlbear
 creatures:

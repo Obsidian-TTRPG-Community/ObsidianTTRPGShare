@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Gorilla"
+statblock: inline
 name: "Gorilla"
-hp: 45
-ac: 19
-modifier: 8
 level: 3
 ---
-### Gorilla
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise scent 30__;"
@@ -42,6 +40,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +12 (1d20+12); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -49,14 +48,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +11 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+4) bludgeoning"
+    desc: "⬻ fist +11 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +11 ([[reach|reach 5 feet]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ jaws +11 ([[reach|reach 5 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
 
 sourcebook: "_Bestiary_, page 23."
 ```
 
-### Encounter
 ```encounter-table
 name: Gorilla
 creatures:

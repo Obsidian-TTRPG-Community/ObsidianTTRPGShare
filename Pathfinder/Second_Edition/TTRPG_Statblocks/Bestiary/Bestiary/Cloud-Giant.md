@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Cloud Giant"
+statblock: inline
 name: "Cloud Giant"
-hp: 220
-ac: 30
-modifier: 22
 level: 11
 ---
-### Cloud Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_03: "Air"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __low-light vision__, __imprecise scent 30__;"
@@ -48,7 +46,7 @@ abilities_bot:
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wind Strike"
-    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 1 (4d8) bludgeoning damage and is [[deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 1 (2d8) sonic damage.\n__Failure__ The creature takes 1 (4d8) sonic damage and is [[deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[prone|prone]]."
+    desc: "⬺ ([[air]], [[evocation]], [[primal]]);  The cloud giant [[Strike|Strikes]] a creature with its ranseur, surrounded in a roar of rushing air. On a hit, the target takes an additional 4d8 (4d8) bludgeoning damage and is [[deafened|deafened]] for 1 minute. Whether or not the [[Strike]] hits, each non-cloud giant within a 20-foot emanation, including the target of the [[Strike]], is buffeted by roaring winds and must attempt a DC 30 Fortitude saving throw.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes 2d8 (2d8) sonic damage.\n__Failure__ The creature takes 4d8 (4d8) sonic damage and is [[deafened|deafened]] until the end of its next turn.\n__Critical Failure__ As failure, but double damage and also knocked [[prone|prone]]."
 
 speed: 30 feet
 
@@ -56,6 +54,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +25 (1d20+25); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 220
 health:
   - name: HP
     desc: "220; "
@@ -63,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ranseur +25 ([[disarm]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d10+13) piercing"
+    desc: "⬻ ranseur +25 ([[disarm]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 2d10+13 (2d10+13) piercing"
   - name: Melee
-    desc: "⬻ fist +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+13) bludgeoning"
+    desc: "⬻ fist +24 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+13 (2d8+13) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d10+13) bludgeoning"
+    desc: "⬻ rock +24 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d10+13 (2d10+13) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 173."
 ```
 
-### Encounter
 ```encounter-table
 name: Cloud Giant
 creatures:

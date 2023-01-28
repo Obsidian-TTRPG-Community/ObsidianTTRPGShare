@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Young Gold Dragon"
+statblock: inline
 name: "Young Gold Dragon"
-hp: 230
-ac: 32
-modifier: 21
 level: 11
 ---
-### Young Gold Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __imprecise scent 60__;"
@@ -41,7 +39,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 30-foot cone that deals 1 (11d6) fire damage (DC 31 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save or become [[enfeebled|enfeebled 1]] for 1 minute (or [[enfeebled|enfeebled 2]] on a critical failure).</li></ul>"
+    desc: "⬺  The gold dragon breathes in one of two ways. The dragon can't use Breath Weapon again for 1d4 (1d4) rounds.<ul class='inner-bullet-list'><li>__Flame__ (arcane, evocation, fire); The dragon breathes a blast of flame in a 30-foot cone that deals 11d6 (11d6) fire damage (DC 31 basic Reflex save).</li><li>__Weakening Gas__ (arcane, necromancy); The dragon breathes a blast of weakening gas. Each creature within a 30-foot cone must succeed at a DC 31 Fortitude save or become [[enfeebled|enfeebled 1]] for 1 minute (or [[enfeebled|enfeebled 2]] on a critical failure).</li></ul>"
   - name: "Draconic Frenzy"
     desc: "⬺  The gold dragon makes two claw [[Strike|Strikes]] and one horns [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -53,6 +51,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +22 (1d20+22); __Ref__: +20 (1d20+20); __Will__: +22 (1d20+22);"
+hp: 230
 health:
   - name: HP
     desc: "230;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -60,13 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +24 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+12) piercing plus 1 (2d6) fire"
+    desc: "⬻ jaws +24 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ claw +24 ([[agile]]); __Damage__ 1 (2d10+12) slashing"
+    desc: "⬻ claw +24 ([[agile]]); __Damage__ 2d10+12 (2d10+12) slashing"
   - name: Melee
-    desc: "⬻ tail +22 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+10) slashing"
+    desc: "⬻ tail +22 ([[reach|reach 10 feet]]); __Damage__ 2d10+10 (2d10+10) slashing"
   - name: Melee
-    desc: "⬻ horns +22 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d12+10) piercing"
+    desc: "⬻ horns +22 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d12+10 (1d12+10) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 124."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Gold Dragon
 creatures:

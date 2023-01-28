@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Axiomite"
+statblock: inline
 name: "Axiomite"
-hp: 155
-ac: 26
-modifier: 19
 level: 8
 ---
-### Axiomite
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LN"
 size: "Medium"
 trait_03: "Aeon"
 trait_04: "Monitor"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +13 (1d20+13); __Ref__: +16 (1d20+16); __Will__: +18 (1d20+18);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ disease, emotion, fear; __Weaknesses__ chaotic 10;"
@@ -54,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ warhammer +20 ([[lawful]], [[magical]], [[shove]]); __Damage__ 1 (2d8+11) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ warhammer +20 ([[lawful]], [[magical]], [[shove]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus 1d6 (1d6) lawful"
   - name: Melee
-    desc: "⬻ fist +17 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1 (1d8+5) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ fist +17 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1d8+5 (1d8+5) bludgeoning plus 1d6 (1d6) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 9."
 ```
 
-### Encounter
 ```encounter-table
 name: Axiomite
 creatures:

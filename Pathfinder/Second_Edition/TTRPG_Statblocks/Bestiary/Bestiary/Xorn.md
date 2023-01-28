@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Xorn"
+statblock: inline
 name: "Xorn"
-hp: 115
-ac: 25
-modifier: 15
 level: 7
 ---
-### Xorn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -46,6 +44,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; all-around vision; __Fort__: +18 (1d20+18); __Ref__: +11 (1d20+11); __Will__: +13 (1d20+13);"
+hp: 115
 health:
   - name: HP
     desc: "115;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ cold 5, electricity 5, fire 5"
@@ -53,14 +52,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaw +18 ([[deadly|deadly 1d10]]); __Damage__ 1 (2d10+8) piercing"
+    desc: "⬻ jaw +18 ([[deadly|deadly 1d10]]); __Damage__ 2d10+8 (2d10+8) piercing"
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +18 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
 
 sourcebook: "_Bestiary_, page 146."
 ```
 
-### Encounter
 ```encounter-table
 name: Xorn
 creatures:

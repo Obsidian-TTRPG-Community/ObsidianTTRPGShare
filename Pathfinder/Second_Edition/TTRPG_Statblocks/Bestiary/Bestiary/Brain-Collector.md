@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Brain Collector"
+statblock: inline
 name: "Brain Collector"
-hp: 140
-ac: 26
-modifier: 18
 level: 8
 ---
-### Brain Collector
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Large"
 trait_04: "Aberration"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -41,7 +39,7 @@ abilities_mid:
     desc: "  If a brain collector takes 30 damage from a critical hit or takes 25 mental damage, it must succeed at a DC 26 save (Fortitude for critical damage or Will for mental damage) or one of its brain blisters is destroyed."
 abilities_bot:
   - name: "Brain Collector Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d6) poison, [[enfeebled|enfeebled 1]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 1 (2d6) poison, [[enfeebled|enfeebled 2]], and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 26 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[enfeebled|enfeebled 1]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 2d6 (2d6) poison, [[enfeebled|enfeebled 2]], and [[slowed|slowed 1]] (1 round)"
   - name: "Collect Brain"
     desc: "⬻ ([[manipulate]]);  The brain collector collects a brain of a creature that has been dead for no more than 1 minute. It can then use an [[Interact]] action to secure the brain in one of its empty brain blisters."
 
@@ -51,6 +49,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +15 (1d20+15); __Ref__: +13 (1d20+13); __Will__: +18 (1d20+18);"
+hp: 140
 health:
   - name: HP
     desc: "140;  __Immunities__ confused; __Weaknesses__ brain loss ;"
@@ -58,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +20 __Damage__ 1 (2d12+6) piercing plus brain collector venom"
+    desc: "⬻ jaws +20 __Damage__ 2d12+6 (2d12+6) piercing plus brain collector venom"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]]); __Damage__ 1 (2d8+6) slashing"
+    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+6 (2d8+6) slashing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 46."
 ```
 
-### Encounter
 ```encounter-table
 name: Brain Collector
 creatures:

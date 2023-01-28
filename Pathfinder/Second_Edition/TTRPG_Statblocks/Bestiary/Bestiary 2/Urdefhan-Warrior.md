@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Urdefhan Warrior"
+statblock: inline
 name: "Urdefhan Warrior"
-hp: 55
-ac: 18
-modifier: 9
 level: 3
 ---
-### Urdefhan Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Urdefhan"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __greater darkvision__;"
@@ -36,7 +34,7 @@ abilityMods: [3, 1, 2, 0, 2, 2]
 
 abilities_mid:
   - name: "Necrotic Decay"
-    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an urdefhan dies, its [[invisible|invisible]] flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 1 (3d6) negative damage to creatures in this area as their flesh curdles and rots as well (DC 17 basic Fortitude save)."
+    desc: " ([[divine]], [[necromancy]], [[negative]]);  When an urdefhan dies, its [[invisible|invisible]] flesh quickly rots away and sublimates into a foul-smelling gas that fills a 5-foot emanation around the body. This gas deals 3d6 (3d6) negative damage to creatures in this area as their flesh curdles and rots as well (DC 17 basic Fortitude save)."
   - name: "Attack of Opportunity"
     desc: "⬲ "
 abilities_top:
@@ -54,6 +52,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +9 (1d20+9);"
+hp: 55
 health:
   - name: HP
     desc: "55; negative healing; __Immunities__ death effects, disease, fear; __Weaknesses__ positive 5;"
@@ -61,16 +60,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rhoka sword +12 ([[deadly|deadly 1d8]], [[two-hand 1d10]]); __Damage__ 1 (1d8+6) slashing"
+    desc: "⬻ rhoka sword +12 ([[deadly|deadly 1d8]], [[two-hand 1d10]]); __Damage__ 1d8+6 (1d8+6) slashing"
   - name: Melee
-    desc: "⬻ jaws +12 __Damage__ 1 (1d6+6) piercing plus Wicked Bite"
+    desc: "⬻ jaws +12 __Damage__ 1d6+6 (1d6+6) piercing plus Wicked Bite"
   - name: Ranged
-    desc: "⬻ composite longbow +10 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ composite longbow +10 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[volley|volley 30 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
 
 sourcebook: "_Bestiary 2_, page 272."
 ```
 
-### Encounter
 ```encounter-table
 name: Urdefhan Warrior
 creatures:

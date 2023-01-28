@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Skum"
+statblock: inline
 name: "Skum"
-hp: 40
-ac: 16
-modifier: 6
 level: 2
 ---
-### Skum
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -41,6 +39,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -48,18 +47,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trident +10 __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ trident +10 __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
-    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1 (1d6+4) slashing"
+    desc: "⬻ claw +10 ([[agile]]); __Damage__ 1d6+4 (1d6+4) slashing"
   - name: Melee
-    desc: "⬻ fangs +10 __Damage__ 1 (2d4+4) piercing"
+    desc: "⬻ fangs +10 __Damage__ 2d4+4 (2d4+4) piercing"
   - name: Ranged
-    desc: "⬻ trident +7 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d8+3) piercing"
+    desc: "⬻ trident +7 ([[thrown|thrown 20 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 sourcebook: "_Bestiary_, page 12."
 ```
 
-### Encounter
 ```encounter-table
 name: Skum
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Blue-ringed Octopus"
+statblock: inline
 name: "Blue-ringed Octopus"
-hp: 15
-ac: 16
-modifier: 6
 level: 0
 ---
-### Blue-ringed Octopus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -35,7 +33,7 @@ abilityMods: [0, 3, 1, -4, 3, 0]
 
 abilities_bot:
   - name: "Blue-Ringed Octopus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d4) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage (1 round) __Stage 3__ 1 (1d6) poison damage and [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage (1 round) __Stage 3__ 1d6 (1d6) poison damage and [[paralyzed|paralyzed]] (1 round)"
   - name: "Camouflage"
     desc: "  The blue-ringed octopus can change the color of its skin to [[Hide]] even if it doesn't have cover."
   - name: "Jet"
@@ -49,6 +47,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +3 (1d20+3); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -56,14 +55,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +7 ([[finesse]]); __Damage__ 1 (1d6) piercing plus blue-ringed octopus venom"
+    desc: "⬻ beak +7 ([[finesse]]); __Damage__ 1d6 (1d6) piercing plus blue-ringed octopus venom"
   - name: Melee
     desc: "⬻ arms +6 __Damage__ Grab"
 
 sourcebook: "_Bestiary 2_, page 187."
 ```
 
-### Encounter
 ```encounter-table
 name: Blue-ringed Octopus
 creatures:

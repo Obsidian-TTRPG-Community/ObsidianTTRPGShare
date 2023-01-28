@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Sea Devil Scout"
+statblock: inline
 name: "Sea Devil Scout"
-hp: 30
-ac: 18
-modifier: 9
 level: 2
 ---
-### Sea Devil Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Devil"
 trait_05: "Humanoid"
 trait_06: "Sea"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __wavesense 30__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Blood Frenzy"
     desc: "⭓ ([[rage]]); __Requirements__ The sea devil is not [[fatigued|fatigued]] or already in a frenzy. __Trigger__ The sea devil deals bleed damage to a living creature. __Effect__  The sea devil flies into a frenzy that lasts 1 minute. While frenzied, the sea devil gains a +1 status bonus to attack rolls with its claws and jaws, gains a +4 status bonus to damage rolls with its claws and jaws, gains 7 temporary HP until the end of the frenzy, and takes a –2 status penalty to AC. The sea devil can't voluntarily stop its frenzy. After its frenzy, the sea devil is [[fatigued|fatigued]]."
   - name: "Bloodletting"
-    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
+    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
 
 speed: 25 feet, swim 35 feet
 
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -60,16 +59,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longspear +11 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8+3) piercing"
+    desc: "⬻ longspear +11 ([[reach|reach 10 feet]]); __Damage__ 1d8+3 (1d8+3) piercing"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d6+3) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d6+3 (1d6+3) slashing"
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d8+3) piercing"
+    desc: "⬻ jaws +11 __Damage__ 1d8+3 (1d8+3) piercing"
 
 sourcebook: "_Bestiary_, page 286."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Devil Scout
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Xulgath Leader"
+statblock: inline
 name: "Xulgath Leader"
-hp: 44
-ac: 20
-modifier: 9
 level: 3
 ---
-### Xulgath Leader
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Xulgath"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +9 (1d20+9); __Ref__: +6 (1d20+6); __Will__: +9 (1d20+9);"
+hp: 44
 health:
   - name: HP
     desc: "44; "
@@ -57,18 +56,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +11 ([[sweep]]); __Damage__ 1 (1d10+6) slashing plus Weakening [[Strike]]"
+    desc: "⬻ greataxe +11 ([[sweep]]); __Damage__ 1d10+6 (1d10+6) slashing plus Weakening [[Strike]]"
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d6+6) piercing plus Weakening [[Strike]]"
+    desc: "⬻ jaws +11 __Damage__ 1d6+6 (1d6+6) piercing plus Weakening [[Strike]]"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d4+6) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d4+6 (1d4+6) slashing"
   - name: Ranged
-    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 337."
 ```
 
-### Encounter
 ```encounter-table
 name: Xulgath Leader
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Denizen Of Leng"
+statblock: inline
 name: "Denizen Of Leng"
-hp: 100
-ac: 27
-modifier: 17
 level: 8
 ---
-### Denizen Of Leng
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Aberration"
 trait_04: "Dream"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -39,7 +37,7 @@ abilities_mid:
   - name: "No Breath"
     desc: "  Denizens of Leng don't need to breathe."
   - name: "Planar Fast Healing"
-    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1 (1d4) rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function."
+    desc: "  A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, they have fast healing 5. They lose this ability on Leng or in areas where planar connections do not function. If killed, their body dissolves into nothingness in 1d4 (1d4) rounds, leaving behind their equipment. A slain denizen reforms in Leng; they can be permanently killed only when their planar fast healing doesn't function."
 abilities_top:
   - name: Items
     desc: "+1 striking kukri, Leng ruby worth 30 gp (2);"
@@ -55,6 +53,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +19 (1d20+19); __Will__: +17 (1d20+17);"
+hp: 100
 health:
   - name: HP
     desc: "100; planar fast healing 5; __Immunities__ cold; __Resistances__ critical hits 10, precision 10"
@@ -62,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ kukri +18 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 1 (2d6+6) slashing plus 1 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ kukri +18 ([[agile]], [[finesse]], [[magical]], [[trip]]); __Damage__ 2d6+6 (2d6+6) slashing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
   - name: Melee
-    desc: "⬻ jaws +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d10+6) piercing plus debilitating bite"
+    desc: "⬻ jaws +17 ([[agile]], [[finesse]]); __Damage__ 2d10+6 (2d10+6) piercing plus debilitating bite"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 70."
 ```
 
-### Encounter
 ```encounter-table
 name: Denizen Of Leng
 creatures:

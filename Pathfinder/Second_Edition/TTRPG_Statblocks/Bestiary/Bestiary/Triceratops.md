@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Triceratops"
+statblock: inline
 name: "Triceratops"
-hp: 140
-ac: 26
-modifier: 16
 level: 8
 ---
-### Triceratops
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__, __imprecise scent 30__;"
@@ -42,7 +40,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 26."
   - name: "Vicious Gore"
-    desc: "  A triceratops deals 1 (2d6) extra [[persistent damage|persistent bleed damage]] to [[prone|prone]] targets it hits with its horns."
+    desc: "  A triceratops deals 2d6 (2d6) extra [[persistent damage|persistent bleed damage]] to [[prone|prone]] targets it hits with its horns."
 
 speed: 30 feet
 
@@ -50,6 +48,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +18 (1d20+18); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 140
 health:
   - name: HP
     desc: "140; "
@@ -57,14 +56,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horns +19 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+9) piercing plus Knockdown"
+    desc: "⬻ horns +19 ([[reach|reach 15 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus Knockdown"
   - name: Melee
-    desc: "⬻ foot +19 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+9) bludgeoning"
+    desc: "⬻ foot +19 ([[reach|reach 10 feet]]); __Damage__ 2d6+9 (2d6+9) bludgeoning"
 
 sourcebook: "_Bestiary_, page 99."
 ```
 
-### Encounter
 ```encounter-table
 name: Triceratops
 creatures:

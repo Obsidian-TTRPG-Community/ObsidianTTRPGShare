@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Astral Deva"
+statblock: inline
 name: "Astral Deva"
-hp: 285
-ac: 36
-modifier: 26
 level: 14
 ---
-### Astral Deva
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Medium"
 trait_03: "Angel"
 trait_04: "Celestial"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +27 (1d20+27); __Ref__: +26 (1d20+26); __Will__: +22 (1d20+22);"
+hp: 285
 health:
   - name: HP
     desc: "285;  __Weaknesses__ evil 15;"
@@ -61,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ holy warhammer +30 ([[good]], [[magical]], [[shove]]); __Damage__ 1 (2d8+22) bludgeoning plus 1 (1d6) good"
+    desc: "⬻ holy warhammer +30 ([[good]], [[magical]], [[shove]]); __Damage__ 2d8+22 (2d8+22) bludgeoning plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 19."
 ```
 
-### Encounter
 ```encounter-table
 name: Astral Deva
 creatures:

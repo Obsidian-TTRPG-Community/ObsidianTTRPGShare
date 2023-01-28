@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Athach"
+statblock: inline
 name: "Athach"
-hp: 250
-ac: 33
-modifier: 22
 level: 12
 ---
-### Athach
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -42,7 +40,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Athach Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[enfeebled|enfeebled 1]] (null) __Stage 2__ 1 (2d6) poison damage and [[enfeebled|enfeebled 2]] (null)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 1]] (null) __Stage 2__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 2]] (null)"
   - name: "Swift Claw"
     desc: "⬲ __Trigger__ The athach hits a creature with two fist [[Strike|Strikes]] __Effect__  The athach makes a claw [[Strike]] with no multiple attack penalty against the creature it hit with its fist [[Strike|Strikes]]. This claw attack does not increase the athach's multiple attack penalty."
   - name: "Throw Rock"
@@ -54,6 +52,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +25 (1d20+25); __Ref__: +20 (1d20+20); __Will__: +21 (1d20+21);"
+hp: 250
 health:
   - name: HP
     desc: "250;  __Weaknesses__ cold iron 10;"
@@ -61,18 +60,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +25 ([[reach|reach 10 feet]]); __Damage__ 1 (3d12+13) bludgeoning"
+    desc: "⬻ fist +25 ([[reach|reach 10 feet]]); __Damage__ 3d12+13 (3d12+13) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +25 __Damage__ 1 (3d8+13) piercing plus athach venom"
+    desc: "⬻ jaws +25 __Damage__ 3d8+13 (3d8+13) piercing plus athach venom"
   - name: Melee
-    desc: "⬻ claw +25 ([[agile]]); __Damage__ 1 (3d8+13) slashing"
+    desc: "⬻ claw +25 ([[agile]]); __Damage__ 3d8+13 (3d8+13) slashing"
   - name: Ranged
-    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (3d8+13) bludgeoning"
+    desc: "⬻ rock +25 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 3d8+13 (3d8+13) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 27."
 ```
 
-### Encounter
 ```encounter-table
 name: Athach
 creatures:

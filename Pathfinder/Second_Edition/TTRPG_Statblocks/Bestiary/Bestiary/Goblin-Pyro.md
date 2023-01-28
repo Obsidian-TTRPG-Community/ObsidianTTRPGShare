@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Goblin Pyro"
+statblock: inline
 name: "Goblin Pyro"
-hp: 15
-ac: 17
-modifier: 4
 level: 1
 ---
-### Goblin Pyro
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +4 (1d20+4);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -54,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ torch +7 ([[fire]]); __Damage__ 1 (1d4) bludgeoning plus 1 fire"
+    desc: "⬻ torch +7 ([[fire]]); __Damage__ 1d4 (1d4) bludgeoning plus 1 fire"
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 181."
 ```
 
-### Encounter
 ```encounter-table
 name: Goblin Pyro
 creatures:

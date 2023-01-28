@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Viper"
+statblock: inline
 name: "Viper"
-hp: 8
-ac: 15
-modifier: 5
 level: -1
 ---
-### Viper
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature -1"
 alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -37,7 +35,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature ends its movement adjacent to the viper or within the viper's space. __Effect__  The viper [[Stride|Strides]], Climbs, or Swims up to 10 feet (or up to the relevant Speed, if that Speed is less than 10 feet). It must end its movement in a location that isn't within 5 feet of a foe. This movement doesn't trigger reactions."
 abilities_bot:
   - name: "Viper Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d8) poison. (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d8 (1d8) poison. (1 round)"
 
 speed: 20 feet, climb 20 feet, swim 20 feet
 
@@ -45,6 +43,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +2 (1d20+2); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -52,12 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +8 ([[agile]], [[finesse]]); __Damage__ 1 (1d8-3) piercing plus viper venom"
+    desc: "⬻ fangs +8 ([[agile]], [[finesse]]); __Damage__ 1d8-3 (1d8-3) piercing plus viper venom"
 
 sourcebook: "_Bestiary_, page 302."
 ```
 
-### Encounter
 ```encounter-table
 name: Viper
 creatures:

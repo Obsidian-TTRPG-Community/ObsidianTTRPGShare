@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Barghest"
+statblock: inline
 name: "Barghest"
-hp: 50
-ac: 21
-modifier: 12
 level: 4
 ---
-### Barghest
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CE"
 size: "Medium"
 trait_03: "Fiend"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise scent 30__;"
@@ -48,6 +46,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +12 (1d20+12); __Will__: +8 (1d20+8);"
+hp: 50
 health:
   - name: HP
     desc: "50;  __Resistances__ fire 5, physical 5 (except magical)"
@@ -55,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 __Damage__ 1 (2d8+5) piercing"
+    desc: "⬻ jaws +13 __Damage__ 2d8+5 (2d8+5) piercing"
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]]); __Damage__ 1 (2d6+5) slashing"
+    desc: "⬻ claw +13 ([[agile]]); __Damage__ 2d6+5 (2d6+5) slashing"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 36."
 ```
 
-### Encounter
 ```encounter-table
 name: Barghest
 creatures:

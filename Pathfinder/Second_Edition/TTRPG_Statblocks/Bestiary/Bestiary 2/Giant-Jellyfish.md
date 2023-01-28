@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Giant Jellyfish"
+statblock: inline
 name: "Giant Jellyfish"
-hp: 165
-ac: 15
-modifier: 12
 level: 7
 ---
-### Giant Jellyfish
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Animal"
 trait_04: "Aquatic"
 trait_05: "Mindless"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -36,7 +34,7 @@ abilityMods: [6, 4, 6, -5, 0, -5]
 
 abilities_bot:
   - name: "Jellyfish Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d8) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 1 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 1 (2d10) poison damage and [[paralyzed|paralyzed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d8 (2d8) poison damage and [[clumsy|clumsy 1]] (1 round) __Stage 2__ 3d6 (3d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 3__ 2d10 (2d10) poison damage and [[paralyzed|paralyzed]] (1 round)"
   - name: "Squeeze"
     desc: "  A giant jellyfish can fit into tight spaces as if it were a Medium creature. It can move at its full Speed while [[Squeeze|Squeezing]]."
 
@@ -46,6 +44,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +1 (1d20+1);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Immunities__ mental, precision; __Weaknesses__ piercing 5, slashing 5;"
@@ -53,12 +52,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +18 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 1 (2d8+8) bludgeoning plus jellyfish venom"
+    desc: "⬻ tentacle +18 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 2d8+8 (2d8+8) bludgeoning plus jellyfish venom"
 
 sourcebook: "_Bestiary 2_, page 152."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Jellyfish
 creatures:

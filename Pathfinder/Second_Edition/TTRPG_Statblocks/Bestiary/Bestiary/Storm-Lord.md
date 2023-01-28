@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Storm Lord"
+statblock: inline
 name: "Storm Lord"
-hp: 120
-ac: 30
-modifier: 18
 level: 9
 ---
-### Storm Lord
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +15 (1d20+15); __Ref__: +20 (1d20+20); __Will__: +16 (1d20+16);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -56,14 +55,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ gust +20 ([[finesse]], [[reach|reach 15 feet]]); __Damage__ 1 (2d12+10) bludgeoning plus Push 5 feet"
+    desc: "⬻ gust +20 ([[finesse]], [[reach|reach 15 feet]]); __Damage__ 2d12+10 (2d12+10) bludgeoning plus Push 5 feet"
   - name: Ranged
-    desc: "⬻ lightning lash +20 ([[range increment|range increment 50 feet]]); __Damage__ 1 (2d12+4) electricity"
+    desc: "⬻ lightning lash +20 ([[range increment|range increment 50 feet]]); __Damage__ 2d12+4 (2d12+4) electricity"
 
 sourcebook: "_Bestiary_, page 145."
 ```
 
-### Encounter
 ```encounter-table
 name: Storm Lord
 creatures:

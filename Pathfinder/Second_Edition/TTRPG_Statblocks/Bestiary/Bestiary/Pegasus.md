@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Pegasus"
+statblock: inline
 name: "Pegasus"
-hp: 55
-ac: 19
-modifier: 12
 level: 3
 ---
-### Pegasus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "NG"
 size: "Large"
 trait_03: "Beast"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise scent 30__;"
@@ -48,6 +46,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +11 (1d20+11); __Will__: +7 (1d20+7);"
+hp: 55
 health:
   - name: HP
     desc: "55; "
@@ -55,14 +54,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hoof +10 __Damage__ 1 (1d8+5) bludgeoning"
+    desc: "⬻ hoof +10 __Damage__ 1d8+5 (1d8+5) bludgeoning"
   - name: Melee
-    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1 (1d6+5) bludgeoning"
+    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1d6+5 (1d6+5) bludgeoning"
 
 sourcebook: "_Bestiary_, page 260."
 ```
 
-### Encounter
 ```encounter-table
 name: Pegasus
 creatures:

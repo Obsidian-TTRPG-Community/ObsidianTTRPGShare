@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Terotricus"
+statblock: inline
 name: "Terotricus"
-hp: 370
-ac: 42
-modifier: 31
 level: 19
 ---
-### Terotricus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "CE"
 size: "Gargantuan"
 trait_04: "Fungus"
+modifier: 31
 perception:
   - name: "Perception"
     desc: "Perception +31; __darkvision__, __imprecise [[tremorsense]] 120__;"
@@ -51,6 +49,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +34 (1d20+34); __Ref__: +28 (1d20+28); __Will__: +33 (1d20+33);"
+hp: 370
 health:
   - name: HP
     desc: "370; [[regeneration]] 25 (deactivated by cold); __Immunities__ controlled, disease, paralyzed, sleep; __Weaknesses__ cold 15, cold iron 15, good 15, slashing 10; __Resistances__ fire 15"
@@ -58,14 +57,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +37 ([[chaotic]], [[evil]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (4d10+16) bludgeoning plus 1 (2d6) chaotic, 1 (2d6) evil, and [[Improved Grab]] or Improved Push 20 feet (40 feet on a critical hit)"
+    desc: "⬻ tentacle +37 ([[chaotic]], [[evil]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d10+16 (4d10+16) bludgeoning plus 2d6 (2d6) chaotic, 2d6 (2d6) evil, and [[Improved Grab]] or Improved Push 20 feet (40 feet on a critical hit)"
   - name: Ranged
-    desc: "⬻ spores +37 ([[chaotic]], [[evil]], [[magical]], [[range increment|range increment 80 feet]]); __Damage__ 1 (4d8+6) poison plus 1 (2d6) chaotic, 1 (2d6) evil, spore blight, and sticky spores"
+    desc: "⬻ spores +37 ([[chaotic]], [[evil]], [[magical]], [[range increment|range increment 80 feet]]); __Damage__ 4d8+6 (4d8+6) poison plus 2d6 (2d6) chaotic, 2d6 (2d6) evil, spore blight, and sticky spores"
 
 sourcebook: "_Bestiary_, page 311."
 ```
 
-### Encounter
 ```encounter-table
 name: Terotricus
 creatures:

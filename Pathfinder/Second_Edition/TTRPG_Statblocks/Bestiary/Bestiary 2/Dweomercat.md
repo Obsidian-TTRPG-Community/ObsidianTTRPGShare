@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Dweomercat"
+statblock: inline
 name: "Dweomercat"
-hp: 100
-ac: 25
-modifier: 15
 level: 7
 ---
-### Dweomercat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CN"
 size: "Medium"
 trait_04: "Beast"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __detect magic__, __imprecise scent 30__;"
@@ -46,7 +44,7 @@ abilities_mid:
   - name: "Enchantment"
     desc: "  The dweomercat gains a +1 status bonus to all saves."
   - name: "Evocation"
-    desc: "  Magical feedback deals 1 (4d6) force damage to the triggering spellcaster (DC 22 basic Reflex save)."
+    desc: "  Magical feedback deals 4d6 (4d6) force damage to the triggering spellcaster (DC 22 basic Reflex save)."
   - name: "Illusion"
     desc: "  The dweomercat becomes [[invisible|invisible]]. This effect ends if the dweomercat uses a [[hostile|hostile]] action, in addition to the normal end conditions."
   - name: "Necromancy"
@@ -65,6 +63,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +12 (1d20+12); __Ref__: +17 (1d20+17); __Will__: +17 (1d20+17);"
+hp: 100
 health:
   - name: HP
     desc: "100; "
@@ -72,9 +71,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 ([[magical]]); __Damage__ 1 (2d10+7) piercing plus Grab"
+    desc: "⬻ jaws +17 ([[magical]]); __Damage__ 2d10+7 (2d10+7) piercing plus Grab"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]], [[magical]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +17 ([[agile]], [[magical]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -82,7 +81,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 103."
 ```
 
-### Encounter
 ```encounter-table
 name: Dweomercat
 creatures:

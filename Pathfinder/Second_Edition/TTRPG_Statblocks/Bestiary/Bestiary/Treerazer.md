@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/25
 statblock: true
-statblock-link: "#Treerazer"
+statblock: inline
 name: "Treerazer"
-hp: 550
-ac: 54
-modifier: 46
 level: 25
 ---
-### Treerazer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Amphibious"
 trait_05: "Demon"
 trait_06: "Fiend"
+modifier: 46
 perception:
   - name: "Perception"
     desc: "Perception +46; __darkvision__, __true seeing__;"
@@ -46,7 +44,7 @@ abilities_top:
     desc: "Blackaxe (page 313);"
 abilities_bot:
   - name: "Defoliation"
-    desc: "⬺ ([[primal]], [[necromancy]], [[plant]]);  Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither. Non-creature plants immediately wither and die. Plant creatures take 1 (20d8) negative damage with a DC 49 basic Fortitude save. A creature that fails its save is [[doomed|doomed 1]] for 1 minute and [[sickened|sickened 3]]. Treerazer can choose to exclude any number of plants in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant creatures that are allied to his cause. Treerazer can't use Defoliation for 1 (1d4) rounds."
+    desc: "⬺ ([[primal]], [[necromancy]], [[plant]]);  Treerazer exudes a pulse of sickly green light in a 30-foot-radius emanation. All plants in the area (including creatures under the effect of his aura of corruption) blacken and wither. Non-creature plants immediately wither and die. Plant creatures take 20d8 (20d8) negative damage with a DC 49 basic Fortitude save. A creature that fails its save is [[doomed|doomed 1]] for 1 minute and [[sickened|sickened 3]]. Treerazer can choose to exclude any number of plants in the area from this effect, and generally does so to preserve twisted and corrupted plants or fungi, or plant creatures that are allied to his cause. Treerazer can't use Defoliation for 1d4 (1d4) rounds."
   - name: "Dispelling Strike"
     desc: "⭓ ([[abjuration]], [[primal]]); __Frequency__ once per round __Trigger__ Treerazer hits a creature, object, or spell effect with a weapon [[Strike]] or a defoliation attack. __Effect__  Treerazer casts his innate dispel magic, targeting the creature he hit with his [[Strike]] or one spell affecting that creature."
   - name: "Staggering Strike"
@@ -58,6 +56,7 @@ ac: 54
 armorclass:
   - name: AC
     desc: "54; __Fort__: +42 (1d20+42); __Ref__: +40 (1d20+40); __Will__: +43 (1d20+43);"
+hp: 550
 health:
   - name: HP
     desc: "550; [[regeneration]] 50 (deactivated by good); __Immunities__ mental, poison, death effects, disease; __Weaknesses__ good 20; __Resistances__ acid 20, cold 15, fire 15, physical 20 (except cold iron)"
@@ -65,9 +64,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ Blackaxe +47 ([[acid]], [[chaotic]], [[evil]], [[magical]], [[reach|reach 15 feet]], [[sweep; page 313]]); __Damage__ 1 (4d12+15) slashing plus 1 (1d6) acid, 1 (1d6) chaotic, and 1 (1d6) evil, and 1 (2d6) slashing vs. plants"
+    desc: "⬻ Blackaxe +47 ([[acid]], [[chaotic]], [[evil]], [[magical]], [[reach|reach 15 feet]], [[sweep; page 313]]); __Damage__ 4d12+15 (4d12+15) slashing plus 1d6 (1d6) acid, 1d6 (1d6) chaotic, and 1d6 (1d6) evil, and 2d6 (2d6) slashing vs. plants"
   - name: Melee
-    desc: "⬻ jaws +45 ([[agile]], [[chaotic]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d10+18) slashing plus 1 (2d6) chaotic and 1 (2d6) evil"
+    desc: "⬻ jaws +45 ([[agile]], [[chaotic]], [[evil]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d10+18 (4d10+18) slashing plus 2d6 (2d6) chaotic and 2d6 (2d6) evil"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 312."
 ```
 
-### Encounter
 ```encounter-table
 name: Treerazer
 creatures:

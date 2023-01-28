@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Drow Priestess"
+statblock: inline
 name: "Drow Priestess"
-hp: 39
-ac: 20
-modifier: 9
 level: 3
 ---
-### Drow Priestess
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Drow"
 trait_04: "Elf"
 trait_05: "Humanoid"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20;  (22 with shield raised); __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +11 (1d20+11);"
+hp: 39
 health:
   - name: HP
     desc: "39;  __Immunities__ sleep;"
@@ -57,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ rapier +9 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing plus lethargy poison"
+    desc: "⬻ hand crossbow +9 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Divine Prepared Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 137."
 ```
 
-### Encounter
 ```encounter-table
 name: Drow Priestess
 creatures:

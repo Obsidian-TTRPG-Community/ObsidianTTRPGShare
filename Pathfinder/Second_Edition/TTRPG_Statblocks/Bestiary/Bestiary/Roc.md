@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Roc"
+statblock: inline
 name: "Roc"
-hp: 180
-ac: 27
-modifier: 18
 level: 9
 ---
-### Roc
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 9"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__;"
@@ -49,6 +47,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +20 (1d20+20); __Ref__: +17 (1d20+17); __Will__: +16 (1d20+16);"
+hp: 180
 health:
   - name: HP
     desc: "180; "
@@ -56,16 +55,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +21 ([[reach|reach 15 feet]]); __Damage__ 1 (2d10+12) piercing"
+    desc: "⬻ beak +21 ([[reach|reach 15 feet]]); __Damage__ 2d10+12 (2d10+12) piercing"
   - name: Melee
-    desc: "⬻ talon +21 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+12) slashing plus [[Improved Grab]]"
+    desc: "⬻ talon +21 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d8+12 (2d8+12) slashing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ wing +21 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 1 (2d6+10) bludgeoning plus Improved Push 10 feet"
+    desc: "⬻ wing +21 ([[agile]], [[reach|reach 30 feet]]); __Damage__ 2d6+10 (2d6+10) bludgeoning plus Improved Push 10 feet"
 
 sourcebook: "_Bestiary_, page 281."
 ```
 
-### Encounter
 ```encounter-table
 name: Roc
 creatures:

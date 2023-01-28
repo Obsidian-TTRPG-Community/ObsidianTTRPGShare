@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/21
 statblock: true
-statblock-link: "#Grim Reaper"
+statblock: inline
 name: "Grim Reaper"
-hp: 320
-ac: 47
-modifier: 41
 level: 21
 ---
-### Grim Reaper
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_04: "Unique"
 alignment: "NE"
 size: "Medium"
 trait_04: "Undead"
+modifier: 41
 perception:
   - name: "Perception"
     desc: "Perception +41; __darkvision__, __see invisibility__, __status sight__, __true seeing__;"
@@ -64,6 +62,7 @@ ac: 47
 armorclass:
   - name: AC
     desc: "47; __Fort__: +37 (1d20+37); __Ref__: +41 (1d20+41); __Will__: +38 (1d20+38);"
+hp: 320
 health:
   - name: HP
     desc: "320; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 15"
@@ -71,7 +70,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ keen scythe +40 ([[agile]], [[deadly|deadly 3d10]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (4d10+23) slashing plus death strike and energy drain"
+    desc: "⬻ keen scythe +40 ([[agile]], [[deadly|deadly 3d10]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 4d10+23 (4d10+23) slashing plus death strike and energy drain"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 196."
 ```
 
-### Encounter
 ```encounter-table
 name: Grim Reaper
 creatures:

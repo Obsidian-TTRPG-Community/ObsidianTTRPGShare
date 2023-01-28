@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Two-headed Troll"
+statblock: inline
 name: "Two-headed Troll"
-hp: 190
-ac: 24
-modifier: 18
 level: 8
 ---
-### Two-headed Troll
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_04: "Giant"
 trait_05: "Troll"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +20 (1d20+20); __Ref__: +15 (1d20+15); __Will__: +14 (1d20+14);"
+hp: 190
 health:
   - name: HP
     desc: "190; [[regeneration]] 25 (deactivated by acid or fire); __Weaknesses__ fire 10;"
@@ -62,18 +61,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+8) piercing"
+    desc: "⬻ jaws +18 ([[reach|reach 10 feet]]); __Damage__ 2d12+8 (2d12+8) piercing"
   - name: Melee
-    desc: "⬻ claw +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+8) slashing"
+    desc: "⬻ claw +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+8 (2d8+8) slashing"
   - name: Melee
-    desc: "⬻ club +18 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+8) bludgeoning"
+    desc: "⬻ club +18 ([[reach|reach 10 feet]]); __Damage__ 2d6+8 (2d6+8) bludgeoning"
   - name: Ranged
-    desc: "⬻ club +13 ([[thrown|thrown 10 feet]]); __Damage__ 1 (2d6+8) bludgeoning"
+    desc: "⬻ club +13 ([[thrown|thrown 10 feet]]); __Damage__ 2d6+8 (2d6+8) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 266."
 ```
 
-### Encounter
 ```encounter-table
 name: Two-headed Troll
 creatures:

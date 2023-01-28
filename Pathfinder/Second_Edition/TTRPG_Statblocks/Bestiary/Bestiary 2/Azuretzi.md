@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Azuretzi"
+statblock: inline
 name: "Azuretzi"
-hp: 75
-ac: 22
-modifier: 11
 level: 5
 ---
-### Azuretzi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __imprecise entropy sense 30__;"
@@ -44,7 +42,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature with an active spell effect within 30 feet of the azuretzi fails to resist another azuretzi's Mocking Touch __Effect__  The azuretzi attempts to counteract one ongoing spell effect on the target creature with a [[Thievery]] check. If it is successful, it transfers the ongoing spell effect to itself. The creature then becomes temporarily immune to Spell Pilfer for 24 hours."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d12+4) bludgeoning, DC 22."
+    desc: "⬻  1d12+4 (1d12+4) bludgeoning, DC 22."
   - name: "Mimic Form"
     desc: "⬻ ([[concentrate]], [[[magical tradition]]], [[polymorph]], [[transmutation]]);  As [[Change Shape]], but an azuretzi can assume the specific form of a Medium or smaller creature it [[Seek|Seeks]] with a successful DC 25."
   - name: "Mocking Touch"
@@ -56,6 +54,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +11 (1d20+11); __Ref__: +15 (1d20+15); __Will__: +11 (1d20+11);"
+hp: 75
 health:
   - name: HP
     desc: "75; fast healing 2; __Weaknesses__ lawful 5; __Resistances__ precision 5, protean anatomy 8"
@@ -63,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +15 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (2d10+4) piercing plus 1 (1d6) chaotic"
+    desc: "⬻ jaws +15 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 2d10+4 (2d10+4) piercing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ claw +15 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (2d8+4) slashing plus 1 (1d6) chaotic"
+    desc: "⬻ claw +15 ([[agile]], [[chaotic]], [[finesse]], [[magical]]); __Damage__ 2d8+4 (2d8+4) slashing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ tail +13 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d12+4) bludgeoning plus 1 (1d6) chaotic and Grab"
+    desc: "⬻ tail +13 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d12+4 (2d12+4) bludgeoning plus 1d6 (1d6) chaotic and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 206."
 ```
 
-### Encounter
 ```encounter-table
 name: Azuretzi
 creatures:

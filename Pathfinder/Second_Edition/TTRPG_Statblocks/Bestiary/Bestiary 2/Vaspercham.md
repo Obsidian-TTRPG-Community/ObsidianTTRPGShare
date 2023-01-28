@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Vaspercham"
+statblock: inline
 name: "Vaspercham"
-hp: 335
-ac: 41
-modifier: 30
 level: 17
 ---
-### Vaspercham
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Aberration"
 trait_04: "Aquatic"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __see invisibility__;"
@@ -51,6 +49,7 @@ ac: 41
 armorclass:
   - name: AC
     desc: "41; __Fort__: +31 (1d20+31); __Ref__: +25 (1d20+25); __Will__: +32 (1d20+32);"
+hp: 335
 health:
   - name: HP
     desc: "335;  __Weaknesses__ fire 15; __Resistances__ cold 10, electricity 10"
@@ -58,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +33 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+16) bludgeoning plus hallucinatory brine"
+    desc: "⬻ tentacle +33 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+16 (3d10+16) bludgeoning plus hallucinatory brine"
   - name: Ranged
-    desc: "⬻ water blast +33 ([[brutal]], [[magical]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 1 (2d8+16) bludgeoning plus hallucinatory brine"
+    desc: "⬻ water blast +33 ([[brutal]], [[magical]], [[range increment|range increment 100 feet]], [[water]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus hallucinatory brine"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 279."
 ```
 
-### Encounter
 ```encounter-table
 name: Vaspercham
 creatures:

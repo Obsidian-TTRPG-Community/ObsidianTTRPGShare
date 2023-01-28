@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Compsognathus"
+statblock: inline
 name: "Compsognathus"
-hp: 8
-ac: 15
-modifier: 5
 level: -1
 ---
-### Compsognathus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -35,7 +33,7 @@ abilityMods: [0, 3, 2, -4, 2, -2]
 
 abilities_bot:
   - name: "Compsognathus Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d8 (1d8) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
 
 speed: 30 feet, swim 15 feet
 
@@ -43,6 +41,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -50,12 +49,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d6) piercing plus compsognathus venom"
+    desc: "⬻ jaws +7 ([[agile]], [[finesse]]); __Damage__ 1d6 (1d6) piercing plus compsognathus venom"
 
 sourcebook: "_Bestiary 2_, page 80."
 ```
 
-### Encounter
 ```encounter-table
 name: Compsognathus
 creatures:

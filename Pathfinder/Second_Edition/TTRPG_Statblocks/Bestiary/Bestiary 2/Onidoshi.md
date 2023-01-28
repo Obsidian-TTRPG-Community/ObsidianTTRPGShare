@@ -7,14 +7,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Onidoshi"
+statblock: inline
 name: "Onidoshi"
-hp: 125
-ac: 27
-modifier: 17
 level: 8
 ---
-### Onidoshi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_03: "Fiend"
 trait_04: "Giant"
 trait_05: "Humanoid"
 trait_06: "Oni"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +15 (1d20+15); __Will__: +15 (1d20+15);"
+hp: 125
 health:
   - name: HP
     desc: "125; [[regeneration]] 7 (deactivated by acid or fire);"
@@ -61,11 +60,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ falchion +21 ([[forceful]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (2d10+9) slashing"
+    desc: "⬻ falchion +21 ([[forceful]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 2d10+9 (2d10+9) slashing"
   - name: Melee
-    desc: "⬻ fist +20 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+9) bludgeoning"
+    desc: "⬻ fist +20 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning"
   - name: Ranged
-    desc: "⬻ composite shortbow +17 ([[deadly|deadly 1d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]]); __Damage__ 1 (2d6+9) piercing"
+    desc: "⬻ composite shortbow +17 ([[deadly|deadly 1d10]], [[range increment|range increment 100 feet]], [[reload|reload 0]]); __Damage__ 2d6+9 (2d6+9) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 188."
 ```
 
-### Encounter
 ```encounter-table
 name: Onidoshi
 creatures:

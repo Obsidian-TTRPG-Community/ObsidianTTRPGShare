@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Hadrosaurid"
+statblock: inline
 name: "Hadrosaurid"
-hp: 60
-ac: 21
-modifier: 13
 level: 4
 ---
-### Hadrosaurid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +11 (1d20+11);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 82."
 ```
 
-### Encounter
 ```encounter-table
 name: Hadrosaurid
 creatures:

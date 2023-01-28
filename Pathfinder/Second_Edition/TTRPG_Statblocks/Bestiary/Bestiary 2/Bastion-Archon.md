@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Bastion Archon"
+statblock: inline
 name: "Bastion Archon"
-hp: 280
-ac: 47
-modifier: 37
 level: 20
 ---
-### Bastion Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LG"
 size: "Huge"
 trait_04: "Archon"
 trait_05: "Celestial"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __true seeing__;"
@@ -50,7 +48,7 @@ abilities_bot:
   - name: "Entrench"
     desc: "⬻  The bastion archon locks itself in place, becoming voluntarily [[immobilized|immobilized]]. While Entrenched, the archon can't be forcibly moved or tripped, and it gains a +2 circumstance bonus to AC and Reflex saves. Entrench ends automatically as soon as the bastion archon uses another move action."
   - name: "Holy Beam"
-    desc: "⬺ ([[divine]], [[good]], [[incapacitation]], [[light]]);  The bastion archon releases a blinding beam of holy light in a 500-foot line that deals 1 (20d6) good damage to non-archons in the area, with a DC 38 Reflex save. The bastion archon can't use Holy Beam again for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[blinded|blinded]] for 1 (1d4) rounds.\n__Critical Failure__ The creature takes double damage and is [[blinded|blinded]] permanently."
+    desc: "⬺ ([[divine]], [[good]], [[incapacitation]], [[light]]);  The bastion archon releases a blinding beam of holy light in a 500-foot line that deals 20d6 (20d6) good damage to non-archons in the area, with a DC 38 Reflex save. The bastion archon can't use Holy Beam again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage.\n__Failure__ The creature takes full damage and is [[blinded|blinded]] for 1d4 (1d4) rounds.\n__Critical Failure__ The creature takes double damage and is [[blinded|blinded]] permanently."
 
 speed: 70 feet; air walk;
 
@@ -58,6 +56,7 @@ ac: 47
 armorclass:
   - name: AC
     desc: "47; __Fort__: +38 (1d20+38); __Ref__: +31 (1d20+31); __Will__: +34 (1d20+34);"
+hp: 280
 health:
   - name: HP
     desc: "280; fast healing 30; __Weaknesses__ evil 15;"
@@ -65,7 +64,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +40 ([[good]], [[lawful]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d8+20) bludgeoning plus 1 (2d6) good"
+    desc: "⬻ fist +40 ([[good]], [[lawful]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+20 (4d8+20) bludgeoning plus 2d6 (2d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 25."
 ```
 
-### Encounter
 ```encounter-table
 name: Bastion Archon
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Young Brine Dragon"
+statblock: inline
 name: "Young Brine Dragon"
-hp: 142
-ac: 27
-modifier: 16
 level: 8
 ---
-### Young Brine Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_04: "Amphibious"
 trait_05: "Dragon"
 trait_06: "Elemental"
 trait_07: "Water"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 60__;"
@@ -42,10 +40,10 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 24."
   - name: "Brine Spit"
-    desc: "⬲ __Trigger__ A creature the brine dragon observes within 30 feet uses a concentrate action __Effect__  The dragon spits a glob of caustic salt water at the creature. The creature takes 1 (3d6) acid damage (DC 26 basic Reflex save). On a failure, the concentrate action is disrupted."
+    desc: "⬲ __Trigger__ A creature the brine dragon observes within 30 feet uses a concentrate action __Effect__  The dragon spits a glob of caustic salt water at the creature. The creature takes 3d6 (3d6) acid damage (DC 26 basic Reflex save). On a failure, the concentrate action is disrupted."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 1 (9d6) acid damage in an 80-foot line (DC 26 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 9d6 (9d6) acid damage in an 80-foot line (DC 26 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -57,6 +55,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +16 (1d20+16); __Will__: +16 (1d20+16);"
+hp: 142
 health:
   - name: HP
     desc: "142;  __Immunities__ acid, paralyzed, sleep;"
@@ -64,13 +63,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +20 ([[acid]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+8) piercing plus 1 (2d4) acid"
+    desc: "⬻ jaws +20 ([[acid]], [[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) piercing plus 2d4 (2d4) acid"
   - name: Melee
-    desc: "⬻ claw +20 ([[agile]]); __Damage__ 1 (2d8+8) slashing"
+    desc: "⬻ claw +20 ([[agile]]); __Damage__ 2d8+8 (2d8+8) slashing"
   - name: Melee
-    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+8) bludgeoning"
+    desc: "⬻ tail +18 ([[reach|reach 15 feet]]); __Damage__ 2d12+8 (2d12+8) bludgeoning"
   - name: Melee
-    desc: "⬻ wing +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d12+8) piercing"
+    desc: "⬻ wing +18 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d12+8 (1d12+8) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 87."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Brine Dragon
 creatures:

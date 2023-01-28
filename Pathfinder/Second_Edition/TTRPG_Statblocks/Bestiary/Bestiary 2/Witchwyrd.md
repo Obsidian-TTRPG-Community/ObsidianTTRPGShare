@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Witchwyrd"
+statblock: inline
 name: "Witchwyrd"
-hp: 110
-ac: 22
-modifier: 12
 level: 6
 ---
-### Witchwyrd
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LN"
 size: "Medium"
 trait_04: "Humanoid"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -44,7 +42,7 @@ abilities_top:
     desc: "+1 ranseur;"
 abilities_bot:
   - name: "Force Bolt"
-    desc: "⬻ to ⬽ ([[arcane]], [[evocation]], [[force]]);  The witchwyrd fires one magic missile per action spent (dealing 1 (1d4+1) force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
+    desc: "⬻ to ⬽ ([[arcane]], [[evocation]], [[force]]);  The witchwyrd fires one magic missile per action spent (dealing 1d4+1 (1d4+1) force damage each). They can't spend more actions on this ability than they have free hands. If they use a hand that has Absorbed Force, that hand hurls two missiles instead of one, expending the held energy."
 
 speed: 25 feet
 
@@ -52,6 +50,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +13 (1d20+13); __Ref__: +13 (1d20+13); __Will__: +15 (1d20+15);"
+hp: 110
 health:
   - name: HP
     desc: "110;  __Resistances__ force 5"
@@ -59,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ranseur +16 ([[disarm]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+6) piercing"
+    desc: "⬻ ranseur +16 ([[disarm]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1d10+6 (1d10+6) piercing"
   - name: Melee
-    desc: "⬻ fist +15 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d6+6) bludgeoning plus Grab"
+    desc: "⬻ fist +15 ([[agile]], [[nonlethal]]); __Damage__ 1d6+6 (1d6+6) bludgeoning plus Grab"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 294."
 ```
 
-### Encounter
 ```encounter-table
 name: Witchwyrd
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Adult Green Dragon"
+statblock: inline
 name: "Adult Green Dragon"
-hp: 215
-ac: 34
-modifier: 22
 level: 12
 ---
-### Adult Green Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Huge"
 trait_03: "Amphibious"
 trait_04: "Dragon"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __imprecise scent 60__;"
@@ -41,7 +39,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within reach of the dragon's tail uses a move action or leaves a square during a move action it's using. __Effect__  The dragon makes a tail [[Strike]] at the creature with a –2 penalty. If it hits, the dragon disrupts the creature's action."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes a toxic cloud that deals 1 (13d6) poison damage in a 50-foot cone (DC 31 basic Fortitude save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[poison]]);  The dragon breathes a toxic cloud that deals 13d6 (13d6) poison damage in a 50-foot cone (DC 31 basic Fortitude save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one horn [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -57,6 +55,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +20 (1d20+20); __Ref__: +22 (1d20+22); __Will__: +23 (1d20+23);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ poison, paralyzed, sleep;"
@@ -64,13 +63,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +26 ([[magical]], [[poison]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+12) piercing plus 1 (3d4) poison"
+    desc: "⬻ jaws +26 ([[magical]], [[poison]], [[reach|reach 15 feet]]); __Damage__ 3d10+12 (3d10+12) piercing plus 3d4 (3d4) poison"
   - name: Melee
-    desc: "⬻ claw +26 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+12) slashing"
+    desc: "⬻ claw +26 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+12 (3d8+12) slashing"
   - name: Melee
-    desc: "⬻ tail +24 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d8+10) bludgeoning"
+    desc: "⬻ tail +24 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d8+10 (3d8+10) bludgeoning"
   - name: Melee
-    desc: "⬻ horn +24 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+10) piercing"
+    desc: "⬻ horn +24 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+10 (2d8+10) piercing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 110."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Green Dragon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Faceless Stalker"
+statblock: inline
 name: "Faceless Stalker"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Faceless Stalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -43,7 +41,7 @@ abilities_bot:
   - name: "Revert Form"
     desc: "⭓ __Requirements__ The faceless stalker is in an assumed form.  __Effect__  The faceless stalker resumes its true form. Until the start of its next turn, it gains a +2 status bonus to attack rolls, damage rolls, saving throws, and skill checks."
   - name: "Sneak Attack"
-    desc: "  The faceless stalker deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The faceless stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 abilities_top:
   - name: Items
     desc: "longsword, studded leather;"
@@ -54,6 +52,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +9 (1d20+9); __Ref__: +9 (1d20+9); __Will__: +12 (1d20+12);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -61,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +14 ([[versatile|versatile p]]); __Damage__ 1 (1d8+6) slashing"
+    desc: "⬻ longsword +14 ([[versatile|versatile p]]); __Damage__ 1d8+6 (1d8+6) slashing"
   - name: Melee
-    desc: "⬻ claw +12 ([[agile]]); __Damage__ 1 (2d6+6) slashing plus Grab"
+    desc: "⬻ claw +12 ([[agile]]); __Damage__ 2d6+6 (2d6+6) slashing plus Grab"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 13."
 ```
 
-### Encounter
 ```encounter-table
 name: Faceless Stalker
 creatures:

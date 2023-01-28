@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Tidal Master"
+statblock: inline
 name: "Tidal Master"
-hp: 155
-ac: 28
-modifier: 18
 level: 9
 ---
-### Tidal Master
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +21 (1d20+21); __Will__: +15 (1d20+15);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ fire 10"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wave +21 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+11) bludgeoning plus Push or Pull 10 feet"
+    desc: "⬻ wave +21 ([[reach|reach 15 feet]]); __Damage__ 2d12+11 (2d12+11) bludgeoning plus Push or Pull 10 feet"
 
 sourcebook: "_Bestiary_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Tidal Master
 creatures:

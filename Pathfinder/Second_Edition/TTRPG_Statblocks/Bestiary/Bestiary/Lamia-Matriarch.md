@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Lamia Matriarch"
+statblock: inline
 name: "Lamia Matriarch"
-hp: 135
-ac: 27
-modifier: 15
 level: 8
 ---
-### Lamia Matriarch
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "CE"
 size: "Large"
 trait_03: "Beast"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +13 (1d20+13); __Ref__: +18 (1d20+18); __Will__: +17 (1d20+17);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ controlled;"
@@ -57,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +19 ([[forceful +2]], [[sweep]]); __Damage__ 1 (2d6+10) slashing"
+    desc: "⬻ scimitar +19 ([[forceful +2]], [[sweep]]); __Damage__ 2d6+10 (2d6+10) slashing"
 
 spellcasting:
   - name: "Occult Spontaneous Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 217."
 ```
 
-### Encounter
 ```encounter-table
 name: Lamia Matriarch
 creatures:

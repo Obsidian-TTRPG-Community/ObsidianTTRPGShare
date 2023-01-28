@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Ghost Mage"
+statblock: inline
 name: "Ghost Mage"
-hp: 135
-ac: 27
-modifier: 17
 level: 10
 ---
-### Ghost Mage
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_03: "Ghost"
 trait_04: "Incorporeal"
 trait_05: "Spirit"
 trait_06: "Undead"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -47,7 +45,7 @@ abilities_bot:
   - name: "Frightful Moan"
     desc: "⬻ ([[auditory]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[mental]]);  DC 29."
   - name: "Telekinetic Assault"
-    desc: "⬺ ([[divine]], [[evocation]]);  1 (6d6) bludgeoning, DC 29."
+    desc: "⬺ ([[divine]], [[evocation]]);  6d6 (6d6) bludgeoning, DC 29."
 
 speed: fly 25 feet
 
@@ -55,6 +53,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +19 (1d20+19); __Will__: +22 (1d20+22);"
+hp: 135
 health:
   - name: HP
     desc: "135; negative healing, rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 10 (except force, ghost touch, or positive; double resistance vs. non-magical)"
@@ -62,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ghostly hand +21 ([[agile]], [[finesse]], [[magical]]); __Damage__ 1 (2d8+12) negative"
+    desc: "⬻ ghostly hand +21 ([[agile]], [[finesse]], [[magical]]); __Damage__ 2d8+12 (2d8+12) negative"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 167."
 ```
 
-### Encounter
 ```encounter-table
 name: Ghost Mage
 creatures:

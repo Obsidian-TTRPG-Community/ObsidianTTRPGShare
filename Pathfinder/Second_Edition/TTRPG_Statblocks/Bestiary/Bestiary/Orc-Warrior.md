@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Orc Warrior"
+statblock: inline
 name: "Orc Warrior"
-hp: 23
-ac: 18
-modifier: 6
 level: 1
 ---
-### Orc Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Orc"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 23
 health:
   - name: HP
     desc: "23; "
@@ -56,18 +55,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ orc necksplitter +7 ([[forceful]], [[sweep]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ orc necksplitter +7 ([[forceful]], [[sweep]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ shortsword +7 ([[agile]], [[versatile|versatile p]]); __Damage__ 1 (1d6+4) slashing"
+    desc: "⬻ shortsword +7 ([[agile]], [[versatile|versatile p]]); __Damage__ 1d6+4 (1d6+4) slashing"
   - name: Melee
-    desc: "⬻ fist +7 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ fist +7 ([[agile]], [[nonlethal]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +5 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +5 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 257."
 ```
 
-### Encounter
 ```encounter-table
 name: Orc Warrior
 creatures:

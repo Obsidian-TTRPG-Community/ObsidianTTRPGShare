@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Naiad"
+statblock: inline
 name: "Naiad"
-hp: 20
-ac: 16
-modifier: 6
 level: 1
 ---
-### Naiad
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Fey"
 trait_05: "Nymph"
 trait_06: "Water"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -52,6 +50,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +3 (1d20+3); __Ref__: +6 (1d20+6); __Will__: +8 (1d20+8);"
+hp: 20
 health:
   - name: HP
     desc: "20;  __Weaknesses__ cold iron 3; __Resistances__ fire 3"
@@ -59,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aqueous fist +8 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 1 (1d6) bludgeoning"
+    desc: "⬻ aqueous fist +8 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 1d6 (1d6) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 246."
 ```
 
-### Encounter
 ```encounter-table
 name: Naiad
 creatures:

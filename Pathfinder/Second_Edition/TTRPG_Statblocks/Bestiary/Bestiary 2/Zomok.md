@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Zomok"
+statblock: inline
 name: "Zomok"
-hp: 310
-ac: 39
-modifier: 28
 level: 16
 ---
-### Zomok
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_03: "Dragon"
 trait_04: "Plant"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -37,11 +35,11 @@ abilityMods: [9, 5, 9, 3, 6, 6]
 
 abilities_bot:
   - name: "Entombing Breath"
-    desc: "⬺ ([[conjuration]], [[earth]], [[primal]]);  The zomok blasts forth a 60-foot cone of earth and gravel, dealing 1 (17d6) bludgeoning damage (DC 34 basic Reflex save); [[prone|prone]] creatures take a –2 circumstance penalty to this saving throw. Creatures touching the ground that fail their saves take a 10-foot circumstance penalty to their Speeds and are [[restrained|restrained]] ([[Escape]] DC 34) on a critical failure. The zomok can't use Entombing Breath again for 1 (1d4) rounds. The bodies of creatures slain by Entombing Breath instantly decompose and are destroyed—they can be restored to life only by a 7th-level or higher spell or ritual that restores life. The creature's equipment is unharmed but buried under 5 feet of earth."
+    desc: "⬺ ([[conjuration]], [[earth]], [[primal]]);  The zomok blasts forth a 60-foot cone of earth and gravel, dealing 17d6 (17d6) bludgeoning damage (DC 34 basic Reflex save); [[prone|prone]] creatures take a –2 circumstance penalty to this saving throw. Creatures touching the ground that fail their saves take a 10-foot circumstance penalty to their Speeds and are [[restrained|restrained]] ([[Escape]] DC 34) on a critical failure. The zomok can't use Entombing Breath again for 1d4 (1d4) rounds. The bodies of creatures slain by Entombing Breath instantly decompose and are destroyed—they can be restored to life only by a 7th-level or higher spell or ritual that restores life. The creature's equipment is unharmed but buried under 5 feet of earth."
   - name: "Forest Step"
-    desc: "⬻ ([[conjuration]], [[healing]], [[necromancy]], [[primal]], [[teleportation]]); __Frequency__ three times per day  __Effect__  The zomok teleports itself with the effects of a 5th-level [[dimension door]] spell, but the zomok must begin and end the [[teleportation]] effect in forest terrain. The zomok regains 1 (10d10) Hit Points during this teleportation. Creatures swallowed by the zomok are left behind. The zomok can't use Forest [[Step]] again for 1 (1d6+1) rounds."
+    desc: "⬻ ([[conjuration]], [[healing]], [[necromancy]], [[primal]], [[teleportation]]); __Frequency__ three times per day  __Effect__  The zomok teleports itself with the effects of a 5th-level [[dimension door]] spell, but the zomok must begin and end the [[teleportation]] effect in forest terrain. The zomok regains 10d10 (10d10) Hit Points during this teleportation. Creatures swallowed by the zomok are left behind. The zomok can't use Forest [[Step]] again for 1d6+1 (1d6+1) rounds."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Huge, 1 (3d12+9) bludgeoning, Rupture 35."
+    desc: "⬻ ([[attack]]);  Huge, 3d12+9 (3d12+9) bludgeoning, Rupture 35."
   - name: "Trample"
     desc: "⬽  Huge or smaller, tail, DC 32."
 
@@ -51,6 +49,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +31 (1d20+31); __Ref__: +25 (1d20+25); __Will__: +28 (1d20+28);"
+hp: 310
 health:
   - name: HP
     desc: "310;  __Immunities__ poison, paralyzed, sleep, stunned;"
@@ -58,11 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +33 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d12+17) piercing plus [[Improved Grab]]"
+    desc: "⬻ jaws +33 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 3d12+17 (3d12+17) piercing plus [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+17) slashing"
+    desc: "⬻ claw +33 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+17 (3d8+17) slashing"
   - name: Melee
-    desc: "⬻ tail +33 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+17) bludgeoning"
+    desc: "⬻ tail +33 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+17 (3d10+17) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 303."
 ```
 
-### Encounter
 ```encounter-table
 name: Zomok
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Veiled Master"
+statblock: inline
 name: "Veiled Master"
-hp: 270
-ac: 34
-modifier: 25
 level: 14
 ---
-### Veiled Master
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Large"
 trait_04: "Aberration"
 trait_05: "Aquatic"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__;"
@@ -58,6 +56,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +26 (1d20+26); __Ref__: +22 (1d20+22); __Will__: +24 (1d20+24);"
+hp: 270
 health:
   - name: HP
     desc: "270;  __Immunities__ electricity, mental, controlled;"
@@ -65,11 +64,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +30 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+12) slashing plus slime"
+    desc: "⬻ claw +30 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+12 (3d10+12) slashing plus slime"
   - name: Melee
-    desc: "⬻ fangs +28 ([[agile]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (3d8+12) piercing plus slime and consume memories"
+    desc: "⬻ fangs +28 ([[agile]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile s]]); __Damage__ 3d8+12 (3d8+12) piercing plus slime and consume memories"
   - name: Melee
-    desc: "⬻ tentacle +28 ([[agile]], [[electricity]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (7d6) electricity plus thoughtlance"
+    desc: "⬻ tentacle +28 ([[agile]], [[electricity]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 7d6 (7d6) electricity plus thoughtlance"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 15."
 ```
 
-### Encounter
 ```encounter-table
 name: Veiled Master
 creatures:

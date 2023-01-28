@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Spriggan Bully"
+statblock: inline
 name: "Spriggan Bully"
-hp: 48
-ac: 19
-modifier: 10
 level: 3
 ---
-### Spriggan Bully
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
 trait_05: "Spriggan"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Bully's Bludgeon"
     desc: "⬻  The spriggan bully makes a morningstar [[Strike]] with a +2 circumstance bonus to its attack roll. This attack is nonlethal."
   - name: "Sneak Attack"
-    desc: "  The spriggan bully's [[Strike|Strikes]] deal an additional 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The spriggan bully's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 20 feet
 
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +11 (1d20+11); __Will__: +8 (1d20+8);"
+hp: 48
 health:
   - name: HP
     desc: "48; "
@@ -60,9 +59,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ morningstar +10 ([[versatile|versatile p]]); __Damage__ 1 (1d6+6) bludgeoning"
+    desc: "⬻ morningstar +10 ([[versatile|versatile p]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Ranged
-    desc: "⬻ crossbow +11 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8) piercing"
+    desc: "⬻ crossbow +11 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8 (1d8) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 252."
 ```
 
-### Encounter
 ```encounter-table
 name: Spriggan Bully
 creatures:

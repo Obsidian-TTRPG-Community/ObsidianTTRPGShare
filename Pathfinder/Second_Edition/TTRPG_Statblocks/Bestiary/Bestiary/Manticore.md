@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Manticore"
+statblock: inline
 name: "Manticore"
-hp: 90
-ac: 23
-modifier: 14
 level: 6
 ---
-### Manticore
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "LE"
 size: "Large"
 trait_03: "Beast"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise scent 30__;"
@@ -43,6 +41,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +12 (1d20+12);"
+hp: 90
 health:
   - name: HP
     desc: "90; "
@@ -50,16 +49,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +17 __Damage__ 1 (2d8+8) piercing"
+    desc: "⬻ jaws +17 __Damage__ 2d8+8 (2d8+8) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
   - name: Ranged
-    desc: "⬻ spike +14 ([[range increment|range increment 40 feet]]); __Damage__ 1 (1d10+5) piercing"
+    desc: "⬻ spike +14 ([[range increment|range increment 40 feet]]); __Damage__ 1d10+5 (1d10+5) piercing"
 
 sourcebook: "_Bestiary_, page 232."
 ```
 
-### Encounter
 ```encounter-table
 name: Manticore
 creatures:

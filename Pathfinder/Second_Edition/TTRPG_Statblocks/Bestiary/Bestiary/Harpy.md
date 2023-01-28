@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Harpy"
+statblock: inline
 name: "Harpy"
-hp: 68
-ac: 22
-modifier: 12
 level: 5
 ---
-### Harpy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +15 (1d20+15); __Will__: +12 (1d20+12);"
+hp: 68
 health:
   - name: HP
     desc: "68; "
@@ -53,16 +52,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +12 __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ club +12 __Damage__ 1d6+4 (1d6+4) bludgeoning"
   - name: Melee
-    desc: "⬻ talon +15 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+4) slashing"
+    desc: "⬻ talon +15 ([[agile]], [[finesse]]); __Damage__ 2d6+4 (2d6+4) slashing"
   - name: Ranged
-    desc: "⬻ club +15 ([[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+4) bludgeoning"
+    desc: "⬻ club +15 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+4 (1d6+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 204."
 ```
 
-### Encounter
 ```encounter-table
 name: Harpy
 creatures:

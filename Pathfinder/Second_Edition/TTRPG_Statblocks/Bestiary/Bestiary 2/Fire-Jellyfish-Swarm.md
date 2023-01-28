@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Fire Jellyfish Swarm"
+statblock: inline
 name: "Fire Jellyfish Swarm"
-hp: 155
-ac: 13
-modifier: 10
 level: 6
 ---
-### Fire Jellyfish Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Animal"
 trait_04: "Aquatic"
 trait_05: "Mindless"
 trait_06: "Swarm"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -39,7 +37,7 @@ abilities_bot:
   - name: "Agile Swimmer"
     desc: "  Fire jellyfish swarms use [[Acrobatics]] to [[Swim]]."
   - name: "Burning Swarm"
-    desc: "⬻ ([[poison]]);  Each enemy in the swarm's space takes 1 (3d8) poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom."
+    desc: "⬻ ([[poison]]);  Each enemy in the swarm's space takes 3d8 (3d8) poison damage (DC 24 basic Reflex save) and is exposed to fire jelly venom."
   - name: "Fire Jelly Venom"
     desc: " ([[poison]]);  __Saving Throw__ DC 24 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[clumsy|clumsy 1]] (1 round) __Stage 2__ [[clumsy|clumsy 2]] (1 round) __Stage 3__ [[clumsy|clumsy 3]] (1 round)"
 
@@ -49,6 +47,7 @@ ac: 13
 armorclass:
   - name: AC
     desc: "13; __Fort__: +16 (1d20+16); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ mental, precision, swarm mind; __Weaknesses__ area damage 7, splash ;"
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 152."
 ```
 
-### Encounter
 ```encounter-table
 name: Fire Jellyfish Swarm
 creatures:

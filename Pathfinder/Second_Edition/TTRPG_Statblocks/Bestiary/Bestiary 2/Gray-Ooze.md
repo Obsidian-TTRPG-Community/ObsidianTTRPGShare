@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Gray Ooze"
+statblock: inline
 name: "Gray Ooze"
-hp: 60
-ac: 14
-modifier: 8
 level: 4
 ---
-### Gray Ooze
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __motion sense 60__, __no vision__;"
@@ -40,7 +38,7 @@ abilities_top:
     desc: "⬲ __Requirements__ Initiative has not yet been rolled __Trigger__ A creature enters a space occupied by a gray ooze __Effect__  The gray ooze automatically notices the creature, then makes a pseudopod [[Strike]] against one creature adjacent to itself before rolling initiative."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6) bludgeoning plus 1 (1d6) acid, DC 21."
+    desc: "⬻  1d6 (1d6) bludgeoning plus 1d6 (1d6) acid, DC 21."
   - name: "Gray Ooze Acid"
     desc: "  A gray ooze's acid damages only metal and organic materials, not stone."
 
@@ -50,6 +48,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ acid, mental, precision, critical hits, unconscious, visual;"
@@ -57,12 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +13 ([[agile]]); __Damage__ 1 (1d6+5) bludgeoning plus 1 (1d6) acid and Grab"
+    desc: "⬻ pseudopod +13 ([[agile]]); __Damage__ 1d6+5 (1d6+5) bludgeoning plus 1d6 (1d6) acid and Grab"
 
 sourcebook: "_Bestiary 2_, page 194."
 ```
 
-### Encounter
 ```encounter-table
 name: Gray Ooze
 creatures:

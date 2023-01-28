@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Fungus Leshy"
+statblock: inline
 name: "Fungus Leshy"
-hp: 30
-ac: 19
-modifier: 6
 level: 2
 ---
-### Fungus Leshy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Fungus"
 trait_04: "Leshy"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -36,7 +34,7 @@ abilityMods: [2, 4, 2, -1, 2, 0]
 
 abilities_mid:
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  As leaf leshy, except only fungi are healed, they regain 1 (2d8) Hit Points, and the area sprouts fungi."
+    desc: " ([[healing]]);  As leaf leshy, except only fungi are healed, they regain 2d8 (2d8) Hit Points, and the area sprouts fungi."
 abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[polymorph]], [[primal]], [[transmutation]]);  As leaf leshy, except the fungus leshy transforms into a giant mushroom or patch of fungi."
@@ -51,6 +49,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -58,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]], [[finesse]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ fist +10 ([[agile]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ spore pod +10 ([[range increment|range increment 30 feet]]); __Damage__ 1 (1d6+2) bludgeoning plus spores"
+    desc: "⬻ spore pod +10 ([[range increment|range increment 30 feet]]); __Damage__ 1d6+2 (1d6+2) bludgeoning plus spores"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 219."
 ```
 
-### Encounter
 ```encounter-table
 name: Fungus Leshy
 creatures:

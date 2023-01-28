@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Leukodaemon"
+statblock: inline
 name: "Leukodaemon"
-hp: 155
-ac: 28
-modifier: 20
 level: 9
 ---
-### Leukodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __plaguesense 60__;"
@@ -44,7 +42,7 @@ abilities_mid:
     desc: " ([[aura]], [[disease]]);  30 feet. Leukodaemons radiate infection. All creatures within 30 feet of a leukodaemon take a –2 status penalty to saves against [[disease]] effects. If a creature within range contracts or progresses a disease, all adjacent creatures are exposed to the same disease, at the same DC."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[evocation]], [[divine]]);  The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 1 (4d8) piercing damage (DC 28 basic Reflex save) A creature that fails the save becomes [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure)."
+    desc: "⬺ ([[evocation]], [[divine]]);  The leukodaemon exhales a cloud of corpse-bloated, biting black flies in a 20-foot cone. Creatures within the cone take 4d8 (4d8) piercing damage (DC 28 basic Reflex save) A creature that fails the save becomes [[sickened|sickened 1]] (or [[sickened|sickened 2]] on a critical failure)."
   - name: "Daemonic Pestilence"
     desc: " ([[disease]]);  __Saving Throw__ DC 28 Fortitude. __Stage 1__ carrier (1 day) __Stage 2__ [[drained|drained 1]] (1 day) __Stage 3__ [[drained|drained 2]] (1 day) __Stage 4__ [[drained|drained 2]] (1 day) __Stage 5__ [[drained|drained 3]] (1 week) __Stage 6__ dead. (null)"
   - name: "Quicken Pestilence"
@@ -56,6 +54,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +21 (1d20+21); __Will__: +19 (1d20+19);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ death effects, disease; __Weaknesses__ good 10;"
@@ -63,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[disease]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+9) piercing plus 1 (1d6) evil and daemonic pestilence"
+    desc: "⬻ jaws +21 ([[disease]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d12+9 (2d12+9) piercing plus 1d6 (1d6) evil and daemonic pestilence"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]], [[disease]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+9) slashing plus 1 (1d6) evil and daemonic pestilence"
+    desc: "⬻ claw +21 ([[agile]], [[disease]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) slashing plus 1d6 (1d6) evil and daemonic pestilence"
   - name: Ranged
-    desc: "⬻ composite longbow +21 ([[deadly|deadly 1d10]], [[disease]], [[evil]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1 (2d8+9) piercing plus 1 (1d6) evil and Daemonic Pestilence"
+    desc: "⬻ composite longbow +21 ([[deadly|deadly 1d10]], [[disease]], [[evil]], [[magical]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 2d8+9 (2d8+9) piercing plus 1d6 (1d6) evil and Daemonic Pestilence"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 72."
 ```
 
-### Encounter
 ```encounter-table
 name: Leukodaemon
 creatures:

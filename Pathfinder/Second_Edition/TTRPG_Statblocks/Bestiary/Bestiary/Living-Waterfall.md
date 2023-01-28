@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Living Waterfall"
+statblock: inline
 name: "Living Waterfall"
-hp: 90
-ac: 20
-modifier: 10
 level: 5
 ---
-### Living Waterfall
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +14 (1d20+14); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ fire 5"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wave +15 ([[reach|reach 10 feet]]); __Damage__ 1 (2d8+7) bludgeoning plus Push or Pull 5 feet"
+    desc: "⬻ wave +15 ([[reach|reach 10 feet]]); __Damage__ 2d8+7 (2d8+7) bludgeoning plus Push or Pull 5 feet"
 
 sourcebook: "_Bestiary_, page 152."
 ```
 
-### Encounter
 ```encounter-table
 name: Living Waterfall
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Quatoid"
+statblock: inline
 name: "Quatoid"
-hp: 120
-ac: 25
-modifier: 18
 level: 7
 ---
-### Quatoid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -40,7 +38,7 @@ abilities_mid:
     desc: " ([[aura]], [[emotion]], [[mental]], [[visual]]);  30 feet. The aura sheds dim light. Creatures in the emanation gain a +2 circumstance bonus to saving throws against [[emotion]] effects. The quatoid can activate or deactivate its calming bioluminescence as a single action, which has the [[concentrate]] trait."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d12+6) bludgeoning, DC 25."
+    desc: "⬻  1d12+6 (1d12+6) bludgeoning, DC 25."
 
 speed: 25 feet, swim 25 feet
 
@@ -48,6 +46,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +15 (1d20+15); __Will__: +18 (1d20+18);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ bludgeoning 5, fire 5"
@@ -55,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+6) bludgeoning plus Grab"
+    desc: "⬻ tentacle +16 ([[reach|reach 10 feet]]); __Damage__ 2d12+6 (2d12+6) bludgeoning plus Grab"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Quatoid
 creatures:

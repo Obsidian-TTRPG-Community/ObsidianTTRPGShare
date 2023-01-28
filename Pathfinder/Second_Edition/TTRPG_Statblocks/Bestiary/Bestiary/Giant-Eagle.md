@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Giant Eagle"
+statblock: inline
 name: "Giant Eagle"
-hp: 45
-ac: 19
-modifier: 11
 level: 3
 ---
-### Giant Eagle
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "NG"
 size: "Large"
 trait_03: "Beast"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__;"
@@ -48,6 +46,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -55,14 +54,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +12 __Damage__ 1 (2d8+5) piercing"
+    desc: "⬻ beak +12 __Damage__ 2d8+5 (2d8+5) piercing"
   - name: Melee
-    desc: "⬻ talon +12 ([[agile]]); __Damage__ 1 (1d10+5) slashing plus Grab"
+    desc: "⬻ talon +12 ([[agile]]); __Damage__ 1d10+5 (1d10+5) slashing plus Grab"
 
 sourcebook: "_Bestiary_, page 141."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Eagle
 creatures:

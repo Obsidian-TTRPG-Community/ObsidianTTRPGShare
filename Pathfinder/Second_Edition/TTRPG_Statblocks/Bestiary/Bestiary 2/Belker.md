@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Belker"
+statblock: inline
 name: "Belker"
-hp: 78
-ac: 25
-modifier: 14
 level: 6
 ---
-### Belker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __smoke vision__;"
@@ -52,6 +50,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +17 (1d20+17); __Will__: +12 (1d20+12);"
+hp: 78
 health:
   - name: HP
     desc: "78;  __Immunities__ bleed, poison, precision, paralyzed, sleep;"
@@ -59,14 +58,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d10+5) slashing"
+    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 2d10+5 (2d10+5) slashing"
   - name: Melee
-    desc: "⬻ wing +17 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+5) bludgeoning"
+    desc: "⬻ wing +17 ([[agile]], [[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d8+5 (2d8+5) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 106."
 ```
 
-### Encounter
 ```encounter-table
 name: Belker
 creatures:

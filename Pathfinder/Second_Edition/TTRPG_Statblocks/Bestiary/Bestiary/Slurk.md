@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Slurk"
+statblock: inline
 name: "Slurk"
-hp: 35
-ac: 17
-modifier: 6
 level: 2
 ---
-### Slurk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +10 (1d20+10); __Ref__: +6 (1d20+6); __Will__: +4 (1d20+4);"
+hp: 35
 health:
   - name: HP
     desc: "35; "
@@ -52,14 +51,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tusks +11 ([[deadly|deadly 1d10]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ tusks +11 ([[deadly|deadly 1d10]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Ranged
     desc: "⬻ slime squirt +9 ([[range increment|range increment 30 feet]]); __Damage__ entangling slime"
 
 sourcebook: "_Bestiary_, page 301."
 ```
 
-### Encounter
 ```encounter-table
 name: Slurk
 creatures:

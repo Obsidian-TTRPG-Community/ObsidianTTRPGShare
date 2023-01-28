@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Giant Dragonfly"
+statblock: inline
 name: "Giant Dragonfly"
-hp: 60
-ac: 21
-modifier: 11
 level: 4
 ---
-### Giant Dragonfly
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __imprecise wavesense 30__;"
@@ -46,6 +44,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +12 (1d20+12); __Ref__: +14 (1d20+14); __Will__: +9 (1d20+9);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -53,12 +52,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +14 __Damage__ 1 (1d12+7) piercing plus Grab"
+    desc: "⬻ mandibles +14 __Damage__ 1d12+7 (1d12+7) piercing plus Grab"
 
 sourcebook: "_Bestiary 2_, page 98."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Dragonfly
 creatures:

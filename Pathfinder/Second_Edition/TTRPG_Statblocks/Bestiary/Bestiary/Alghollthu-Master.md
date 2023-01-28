@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Alghollthu Master"
+statblock: inline
 name: "Alghollthu Master"
-hp: 135
-ac: 23
-modifier: 17
 level: 7
 ---
-### Alghollthu Master
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Huge"
 trait_04: "Aberration"
 trait_05: "Aquatic"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +10 (1d20+10); __Will__: +16 (1d20+16);"
+hp: 135
 health:
   - name: HP
     desc: "135; "
@@ -55,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +16 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+10) bludgeoning plus slime"
+    desc: "⬻ tentacle +16 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+10 (2d8+10) bludgeoning plus slime"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 14."
 ```
 
-### Encounter
 ```encounter-table
 name: Alghollthu Master
 creatures:

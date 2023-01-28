@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Sea Snake"
+statblock: inline
 name: "Sea Snake"
-hp: 15
-ac: 16
-modifier: 5
 level: 0
 ---
-### Sea Snake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -40,7 +38,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature within the sea snake's reach uses a move action __Effect__  The sea snake makes a bite [[Strike]] against the attacker."
 abilities_bot:
   - name: "Sea Snake Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
 
 speed: 15 feet, swim 25 feet
 
@@ -48,6 +46,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +3 (1d20+3);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -55,12 +54,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +7 ([[agile]], [[finesse]]); __Damage__ 1 (1d8) piercing plus sea snake venom"
+    desc: "⬻ fangs +7 ([[agile]], [[finesse]]); __Damage__ 1d8 (1d8) piercing plus sea snake venom"
 
 sourcebook: "_Bestiary 2_, page 245."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Snake
 creatures:

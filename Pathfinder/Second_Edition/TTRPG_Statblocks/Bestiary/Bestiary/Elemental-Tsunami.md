@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Elemental Tsunami"
+statblock: inline
 name: "Elemental Tsunami"
-hp: 195
-ac: 31
-modifier: 22
 level: 11
 ---
-### Elemental Tsunami
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Huge"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Drench"
     desc: "⬻ ([[abjuration]], [[primal]], [[water]]);  The elemental puts out all fires in a 20-foot emanation. It extinguishes all non-magical fires automatically and attempts to counteract magical fires (+20 counteract modifier)."
   - name: "Surge"
-    desc: "⬺  The elemental tsunami quickly expands its space to fill the area of its vortex. Creatures within the vortex's emanation take 1 (5d12+6) bludgeoning damage (DC 31 basic Fortitude save). A creature that fails this save is Pushed 20 feet. The elemental tsunami then retracts to its former space. The elemental tsunami can't Surge again for 1 (1d4) rounds."
+    desc: "⬺  The elemental tsunami quickly expands its space to fill the area of its vortex. Creatures within the vortex's emanation take 5d12+6 (5d12+6) bludgeoning damage (DC 31 basic Fortitude save). A creature that fails this save is Pushed 20 feet. The elemental tsunami then retracts to its former space. The elemental tsunami can't Surge again for 1d4 (1d4) rounds."
 
 speed: 35 feet, swim 100 feet
 
@@ -53,6 +51,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +21 (1d20+21); __Ref__: +22 (1d20+22); __Will__: +19 (1d20+19);"
+hp: 195
 health:
   - name: HP
     desc: "195;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ fire 10"
@@ -60,12 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ wave +24 ([[reach|reach 20 feet]]); __Damage__ 1 (2d12+12) bludgeoning plus Push or Pull 10 feet"
+    desc: "⬻ wave +24 ([[reach|reach 20 feet]]); __Damage__ 2d12+12 (2d12+12) bludgeoning plus Push or Pull 10 feet"
 
 sourcebook: "_Bestiary_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Elemental Tsunami
 creatures:

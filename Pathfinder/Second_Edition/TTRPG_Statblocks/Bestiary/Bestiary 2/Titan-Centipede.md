@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Titan Centipede"
+statblock: inline
 name: "Titan Centipede"
-hp: 155
-ac: 28
-modifier: 18
 level: 9
 ---
-### Titan Centipede
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 9"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -34,9 +32,9 @@ abilityMods: [8, 1, 5, -5, 5, -4]
 
 abilities_bot:
   - name: "Impaling Critical"
-    desc: "  When a titan centipede scores a critical hit with its mandibles, the target is painfully pierced with barbed spines and bristles, taking 1 (1d6) [[persistent damage|persistent bleed damage]] and becoming [[flat-footed|flat-footed]] as long as the bleed damage continues."
+    desc: "  When a titan centipede scores a critical hit with its mandibles, the target is painfully pierced with barbed spines and bristles, taking 1d6 (1d6) [[persistent damage|persistent bleed damage]] and becoming [[flat-footed|flat-footed]] as long as the bleed damage continues."
   - name: "Titan Centipede Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 1 (2d8) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 1 (2d10) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 28 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 1]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[clumsy|clumsy 2]], and [[slowed|slowed 2]] (1 round)"
   - name: "Trample"
     desc: "⬽  Huge or smaller, foot, DC 28."
   - name: "Undulate"
@@ -48,6 +46,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +20 (1d20+20); __Ref__: +16 (1d20+16); __Will__: +18 (1d20+18);"
+hp: 155
 health:
   - name: HP
     desc: "155; "
@@ -55,14 +54,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +21 ([[reach|reach 20 feet]]); __Damage__ 1 (2d10+12) piercing plus titan centipede venom"
+    desc: "⬻ mandibles +21 ([[reach|reach 20 feet]]); __Damage__ 2d10+12 (2d10+12) piercing plus titan centipede venom"
   - name: Melee
-    desc: "⬻ foot +19 __Damage__ 1 (2d8+10) bludgeoning"
+    desc: "⬻ foot +19 __Damage__ 2d8+10 (2d8+10) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 50."
 ```
 
-### Encounter
 ```encounter-table
 name: Titan Centipede
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Leng Spider"
+statblock: inline
 name: "Leng Spider"
-hp: 235
-ac: 34
-modifier: 24
 level: 13
 ---
-### Leng Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Aberration"
 trait_05: "Dream"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__, __detect magic__, __greater web sense__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Lay Web Trap"
     desc: "⬻ ([[manipulate]]);  Frequency three times per day; The Leng spider spins a web within 20 feet of itself to create a grasping snare, stunning snare, or warning snare. The Leng spider's web provides all the raw materials it needs. All save and [[Escape]] DCs associated with web traps use the Leng spider's [[Crafting]] DC for traps (DC 36). A web trap decays after 24 hours."
   - name: "Leng Spider Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[drained|drained 1]] (1 round) __Stage 2__ 1 (2d6) poison damage, [[confused|confused]], and [[drained|drained 2]]  (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 33 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[drained|drained 1]] (1 round) __Stage 2__ 2d6 (2d6) poison damage, [[confused|confused]], and [[drained|drained 2]]  (1 round)"
 
 speed: 40 feet, climb 40 feet; air walk;
 
@@ -53,6 +51,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +22 (1d20+22); __Ref__: +26 (1d20+26); __Will__: +24 (1d20+24);"
+hp: 235
 health:
   - name: HP
     desc: "235; fast healing 10; __Immunities__ cold, confused;"
@@ -60,13 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ web war flail +27 ([[disarm]], [[magical]], [[reach|reach 15 feet]], [[sweep]], [[trip]]); __Damage__ 1 (3d10+14) bludgeoning"
+    desc: "⬻ web war flail +27 ([[disarm]], [[magical]], [[reach|reach 15 feet]], [[sweep]], [[trip]]); __Damage__ 3d10+14 (3d10+14) bludgeoning"
   - name: Melee
-    desc: "⬻ fangs +27 ([[reach|reach 10 feet]]); __Damage__ 1 (3d12+14) piercing plus"
+    desc: "⬻ fangs +27 ([[reach|reach 10 feet]]); __Damage__ 3d12+14 (3d12+14) piercing plus"
   - name: Melee
-    desc: "⬻ leg +27 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+14) slashing"
+    desc: "⬻ leg +27 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+14 (3d8+14) slashing"
   - name: Ranged
-    desc: "⬻ web bola +28 ([[magical]], [[nonlethal]], [[ranged trip]], [[thrown|thrown 20 feet]]); __Damage__ 1 (2d6+14) bludgeoning"
+    desc: "⬻ web bola +28 ([[magical]], [[nonlethal]], [[ranged trip]], [[thrown|thrown 20 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 157."
 ```
 
-### Encounter
 ```encounter-table
 name: Leng Spider
 creatures:

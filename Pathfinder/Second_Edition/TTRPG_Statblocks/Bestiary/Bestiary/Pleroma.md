@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Pleroma"
+statblock: inline
 name: "Pleroma"
-hp: 335
-ac: 45
-modifier: 37
 level: 20
 ---
-### Pleroma
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LN"
 size: "Large"
 trait_03: "Aeon"
 trait_04: "Monitor"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __lifesense 120__, __true seeing__;"
@@ -44,7 +42,7 @@ abilities_bot:
   - name: "Energy Touch"
     desc: "  A pleroma's touch deals its choice of positive or negative damage, but neither energy can be used to heal a creature."
   - name: "Sphere of Creation"
-    desc: "⬺ ([[incapacitation]], [[magical]]);  Three times per day, a pleroma can manifest a 2-foot-diameter sphere of white energy that hovers above its left hand. By using a single action, which has the [[concentrate]] trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring [[terrain|difficult terrain]], but it can't move farther than 300 feet away from the pleroma. Wherever the sphere travels, it leaves behind a 5-foot-wide path of new matter, creating either new terrain (the pleroma's choice of normal, difficult, or [[terrain|greater difficult terrain]]) or a 5-foot-square solid barrier of a single natural substance (such as clay, wood, or stone). The sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 1 (20d6) positive damage (even if they are living) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, become one with the new material and can be restored only via a 10th-level spell. A pleroma can have only one Sphere of Creation in existence at a time, and the sphere automatically vanishes in a flash of blinding light after 1 (1d4) minutes. All creatures within 30 feet of the sphere of creation when it vanishes must succeed at a DC 43 Fortitude save or be permanently [[blinded|blinded]]."
+    desc: "⬺ ([[incapacitation]], [[magical]]);  Three times per day, a pleroma can manifest a 2-foot-diameter sphere of white energy that hovers above its left hand. By using a single action, which has the [[concentrate]] trait, the pleroma can cause the sphere to fly 10 feet. The sphere can move in any direction, ignoring [[terrain|difficult terrain]], but it can't move farther than 300 feet away from the pleroma. Wherever the sphere travels, it leaves behind a 5-foot-wide path of new matter, creating either new terrain (the pleroma's choice of normal, difficult, or [[terrain|greater difficult terrain]]) or a 5-foot-square solid barrier of a single natural substance (such as clay, wood, or stone). The sphere can enter the space of a creature; when it does, the creature must succeed at a DC 43 Fortitude save or be absorbed into the sphere. On a successful save, the creature is pushed to a space of the GM's choice away from the sphere. Those who fail take 20d6 (20d6) positive damage (even if they are living) and are pushed away as a success. Those who critically fail, or are reduced to 0 HP by the damage from a failure, become one with the new material and can be restored only via a 10th-level spell. A pleroma can have only one Sphere of Creation in existence at a time, and the sphere automatically vanishes in a flash of blinding light after 1d4 (1d4) minutes. All creatures within 30 feet of the sphere of creation when it vanishes must succeed at a DC 43 Fortitude save or be permanently [[blinded|blinded]]."
   - name: "Sphere of Oblivion"
     desc: "⬺ ([[incapacitation]], [[magical]]);  Three times per day, a pleroma can manifest a 2-foot-diameter sphere of complete and utter darkness that hovers above its right hand. It can move and control the sphere in the same manner as its Sphere of Creation. The sphere is an empty void that lasts for 1 minute before collapsing in on itself and winking out of existence. Once manifested, the sphere can be used as a ranged attack, but it blinks out of existence immediately after that attack is resolved. Any unattended object that touches the void is sucked in and completely destroyed. Larger objects (such as ships or buildings) are destroyed at a rate of one 10-foot cube per round of contact. The sphere can enter the space of a creature, with effects similar to the Sphere of Creation except that it deals negative damage (even to undead) on a failure and annihilates rather than incorporating the creature into material. Such a destroyed creature can be restored only by a 10th-level spell."
 
@@ -54,6 +52,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +32 (1d20+32); __Ref__: +31 (1d20+31); __Will__: +37 (1d20+37);"
+hp: 335
 health:
   - name: HP
     desc: "335; [[regeneration]] 20 (deactivated by chaotic); __Immunities__ negative, positive; __Weaknesses__ chaotic 20;"
@@ -61,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ energy touch (agile, lawful, magical) +36 __Damage__ 1 (5d8+18) positive or negative damage plus 1 (1d6) lawful"
+    desc: "⬻ energy touch (agile, lawful, magical) +36 __Damage__ 5d8+18 (5d8+18) positive or negative damage plus 1d6 (1d6) lawful"
   - name: Ranged
     desc: "⬻ Sphere of Oblivion +37 ([[magical]]); __Damage__ see Sphere of Oblivion"
 
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 10."
 ```
 
-### Encounter
 ```encounter-table
 name: Pleroma
 creatures:

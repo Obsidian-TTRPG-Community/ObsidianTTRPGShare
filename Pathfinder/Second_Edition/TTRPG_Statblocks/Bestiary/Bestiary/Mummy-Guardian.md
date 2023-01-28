@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Mummy Guardian"
+statblock: inline
 name: "Mummy Guardian"
-hp: 110
-ac: 23
-modifier: 16
 level: 6
 ---
-### Mummy Guardian
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Mummy"
 trait_04: "Undead"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -39,7 +37,7 @@ abilities_mid:
     desc: " ([[aura]], [[divine]], [[emotion]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]]);  30 feet. Living creatures are [[frightened|frightened 1]] while in a mummy guardian's despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave the area. When a creature first enters the area, it must succeed at a DC 22 Will save (after taking the penalty from being [[frightened|frightened]]) or be [[paralyzed|paralyzed]] for 1 round. The creature is then temporarily immune for 24 hours."
 abilities_bot:
   - name: "Mummy Rot"
-    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]], [[negative]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 1 (4d6) negative damage and [[stupefied|stupefied 1]] (1 day)"
+    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]], [[negative]]);  __Saving Throw__ DC 22 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 4d6 (4d6) negative damage and [[stupefied|stupefied 1]] (1 day)"
 
 speed: 20 feet
 
@@ -47,6 +45,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +14 (1d20+14); __Ref__: +10 (1d20+10); __Will__: +16 (1d20+16);"
+hp: 110
 health:
   - name: HP
     desc: "110; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ fire 5;"
@@ -54,12 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +16 __Damage__ 1 (2d6+7) bludgeoning plus mummy rot"
+    desc: "⬻ fist +16 __Damage__ 2d6+7 (2d6+7) bludgeoning plus mummy rot"
 
 sourcebook: "_Bestiary_, page 240."
 ```
 
-### Encounter
 ```encounter-table
 name: Mummy Guardian
 creatures:

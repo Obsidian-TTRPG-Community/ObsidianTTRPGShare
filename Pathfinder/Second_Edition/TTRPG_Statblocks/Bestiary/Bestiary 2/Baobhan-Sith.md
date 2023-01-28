@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Baobhan Sith"
+statblock: inline
 name: "Baobhan Sith"
-hp: 105
-ac: 24
-modifier: 12
 level: 6
 ---
-### Baobhan Sith
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Medium"
 trait_04: "Fey"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -48,6 +46,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +12 (1d20+12); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 105
 health:
   - name: HP
     desc: "105; "
@@ -55,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+6) slashing and 1 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ claw +17 ([[agile]], [[finesse]]); __Damage__ 2d6+6 (2d6+6) slashing and 1d6 (1d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 33."
 ```
 
-### Encounter
 ```encounter-table
 name: Baobhan Sith
 creatures:

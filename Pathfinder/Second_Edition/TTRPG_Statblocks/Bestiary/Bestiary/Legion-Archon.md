@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Legion Archon"
+statblock: inline
 name: "Legion Archon"
-hp: 100
-ac: 27
-modifier: 15
 level: 7
 ---
-### Legion Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Medium"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +17 (1d20+17); __Ref__: +11 (1d20+11); __Will__: +15 (1d20+15);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Weaknesses__ evil 10; __Resistances__ fire 15"
@@ -61,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flame of justice +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 1 (2d10+5) slashing plus 1 (1d6) fire and 1 (1d6) good"
+    desc: "⬻ flame of justice +18 ([[magical]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
   - name: Ranged
-    desc: "⬻ flame of justice +15 ([[magical]], [[range increment|range increment 30 feet]], [[versatile|versatile p]]); __Damage__ 1 (2d10+5) slashing plus 1 (1d6) fire and 1 (1d6) good"
+    desc: "⬻ flame of justice +15 ([[magical]], [[range increment|range increment 30 feet]], [[versatile|versatile p]]); __Damage__ 2d10+5 (2d10+5) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 28."
 ```
 
-### Encounter
 ```encounter-table
 name: Legion Archon
 creatures:

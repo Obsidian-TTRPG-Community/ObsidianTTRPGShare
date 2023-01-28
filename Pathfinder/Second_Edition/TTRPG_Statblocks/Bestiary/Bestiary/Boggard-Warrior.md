@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Boggard Warrior"
+statblock: inline
 name: "Boggard Warrior"
-hp: 38
-ac: 17
-modifier: 8
 level: 2
 ---
-### Boggard Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Boggard"
 trait_05: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +10 (1d20+10); __Ref__: +5 (1d20+5); __Will__: +8 (1d20+8);"
+hp: 38
 health:
   - name: HP
     desc: "38; "
@@ -59,18 +58,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ club +10 __Damage__ 1 (1d6+6) bludgeoning"
+    desc: "⬻ club +10 __Damage__ 1d6+6 (1d6+6) bludgeoning"
   - name: Melee
     desc: "⬻ tongue +10 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
   - name: Ranged
-    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ club +6 ([[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+6) bludgeoning"
+    desc: "⬻ club +6 ([[thrown|thrown 10 feet]]); __Damage__ 1d6+6 (1d6+6) bludgeoning"
 
 sourcebook: "_Bestiary_, page 44."
 ```
 
-### Encounter
 ```encounter-table
 name: Boggard Warrior
 creatures:

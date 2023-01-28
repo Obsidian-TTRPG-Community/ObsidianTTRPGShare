@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Redcap"
+statblock: inline
 name: "Redcap"
-hp: 60
-ac: 21
-modifier: 12
 level: 5
 ---
-### Redcap
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Small"
 trait_03: "Fey"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -47,7 +45,7 @@ abilities_bot:
   - name: "Deadly Cleave"
     desc: "⬲ __Trigger__ The redcap reduces a creature to 0 Hit __Effect__  Points with a scythe [[Strike]]. The redcap makes another scythe [[Strike]] against a different creature, using the same multiple attack penalty as the scythe [[Strike]] that triggered this reaction. This counts toward its multiple attack penalty."
   - name: "Stomp"
-    desc: "⬻  The redcap [[Stride|Strides]] up to half its Speed and makes a boot [[Strike]] at any point during that movement. If the boot [[Strike]] hits a [[prone|prone]] creature, it deals an extra 1 (2d6) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻  The redcap [[Stride|Strides]] up to half its Speed and makes a boot [[Strike]] at any point during that movement. If the boot [[Strike]] hits a [[prone|prone]] creature, it deals an extra 2d6 (2d6) [[persistent damage|persistent bleed damage]]."
 
 speed: 50 feet
 
@@ -55,6 +53,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 60
 health:
   - name: HP
     desc: "60; fast healing 10; __Weaknesses__ cold iron 5, divine revulsion ;"
@@ -62,14 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scythe +15 ([[deadly|deadly 1d10]], [[trip]]); __Damage__ 1 (1d10+10) slashing"
+    desc: "⬻ scythe +15 ([[deadly|deadly 1d10]], [[trip]]); __Damage__ 1d10+10 (1d10+10) slashing"
   - name: Melee
-    desc: "⬻ boot +13 ([[agile]], [[versatile|versatile b]]); __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ boot +13 ([[agile]], [[versatile|versatile b]]); __Damage__ 1d6+8 (1d6+8) piercing"
 
 sourcebook: "_Bestiary_, page 278."
 ```
 
-### Encounter
 ```encounter-table
 name: Redcap
 creatures:

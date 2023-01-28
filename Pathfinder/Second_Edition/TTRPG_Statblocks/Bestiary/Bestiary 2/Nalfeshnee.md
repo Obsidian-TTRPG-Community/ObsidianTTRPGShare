@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Nalfeshnee"
+statblock: inline
 name: "Nalfeshnee"
-hp: 365
-ac: 34
-modifier: 25
 level: 14
 ---
-### Nalfeshnee
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __true seeing__;"
@@ -36,7 +34,7 @@ abilityMods: [8, 2, 8, 5, 5, 4]
 
 abilities_mid:
   - name: "Forfeiture Aversion"
-    desc: "  A nalfeshnee's greed is such that losing possessions causes them harm. If an item is stolen from a nalfeshnee, the demon takes 1 (3d6+10) mental damage."
+    desc: "  A nalfeshnee's greed is such that losing possessions causes them harm. If an item is stolen from a nalfeshnee, the demon takes 3d6+10 (3d6+10) mental damage."
   - name: "Greedy Grab"
     desc: "⬲ __Trigger__ A creature critically fails a weapon [[Strike]] against the nalfeshnee __Effect__  The nalfeshnee attempts to [[Disarm]] the weapon used in the triggering [[Strike]] at a –2 circumstance penalty. On a success, the nalfeshnee steals the weapon."
 abilities_bot:
@@ -51,6 +49,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +28 (1d20+28); __Ref__: +22 (1d20+22); __Will__: +23 (1d20+23);"
+hp: 365
 health:
   - name: HP
     desc: "365;  __Weaknesses__ cold iron 15, good 15;"
@@ -58,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +29 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d12+14) piercing"
+    desc: "⬻ jaws +29 ([[magical]], [[reach|reach 15 feet]]); __Damage__ 3d12+14 (3d12+14) piercing"
   - name: Melee
-    desc: "⬻ claw +29 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d8+14) slashing"
+    desc: "⬻ claw +29 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d8+14 (3d8+14) slashing"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 68."
 ```
 
-### Encounter
 ```encounter-table
 name: Nalfeshnee
 creatures:

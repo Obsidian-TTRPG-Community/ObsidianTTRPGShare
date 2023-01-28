@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Lurker In Light"
+statblock: inline
 name: "Lurker In Light"
-hp: 72
-ac: 22
-modifier: 13
 level: 5
 ---
-### Lurker In Light
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "NE"
 size: "Small"
 trait_03: "Fey"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__;"
@@ -39,7 +37,7 @@ abilities_bot:
   - name: "Ritual Gate"
     desc: "⬻ ([[conjuration]], [[primal]]); __Requirements__ The lurker in light has reduced a living creature to 0 Hit Points on this turn or its previous turn and has a summon fey innate spell available  __Effect__  The lurker in light casts summon fey with only a verbal component, using the act of slaughter to replace the normal material and somatic components for the spell. If the fey creature summoned has the same alignment as the lurker in light, the lurker in light can sustain the [[summon fey]] spell for up to 1 hour instead of 1 minute."
   - name: "Sneak Attack"
-    desc: "  A lurker in light's [[Strike|Strikes]] deal an additional 1 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A lurker in light's [[Strike|Strikes]] deal an additional 2d6 (2d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet, fly 25 feet
 
@@ -47,6 +45,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +14 (1d20+14); __Will__: +13 (1d20+13);"
+hp: 72
 health:
   - name: HP
     desc: "72;  __Immunities__ blinded;"
@@ -54,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+2) slashing"
+    desc: "⬻ claw +14 ([[agile]], [[finesse]]); __Damage__ 2d6+2 (2d6+2) slashing"
   - name: Ranged
-    desc: "⬻ mote of light +14 ([[agile]], [[magical]], [[range increment|range increment 10 feet]]); __Damage__ 1 (2d4+2) force plus lurker's glow"
+    desc: "⬻ mote of light +14 ([[agile]], [[magical]], [[range increment|range increment 10 feet]]); __Damage__ 2d4+2 (2d4+2) force plus lurker's glow"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 169."
 ```
 
-### Encounter
 ```encounter-table
 name: Lurker In Light
 creatures:

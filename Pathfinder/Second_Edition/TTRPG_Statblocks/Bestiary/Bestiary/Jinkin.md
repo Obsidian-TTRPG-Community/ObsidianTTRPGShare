@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Jinkin"
+statblock: inline
 name: "Jinkin"
-hp: 19
-ac: 17
-modifier: 7
 level: 1
 ---
-### Jinkin
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Tiny"
 trait_03: "Fey"
 trait_04: "Gremlin"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -36,7 +34,7 @@ abilityMods: [-2, 4, 0, 2, 2, 2]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The jinkin deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The jinkin deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Tinker"
     desc: " ([[curse]], [[primal]], [[transmutation]]);  A group of six jinkins can work together for an hour to imbue an item with a curse at a range of 60 feet. While this process is lengthy, it's also unobtrusive and can be performed while Hiding. Jinkins prefer to use this ability on magic items. The curse makes the item unreliable (DC 5 flat check or waste any action to [[Interact]] with or Activate the item), adds a bizarre requirement to use the item, or imparts some other curse of a similar caliber."
 abilities_top:
@@ -49,6 +47,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 19
 health:
   - name: HP
     desc: "19; "
@@ -56,7 +55,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1 (1d6) –2 piercing"
+    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6 (1d6) –2 piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 193."
 ```
 
-### Encounter
 ```encounter-table
 name: Jinkin
 creatures:

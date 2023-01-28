@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Behemoth Hippopotamus"
+statblock: inline
 name: "Behemoth Hippopotamus"
-hp: 190
-ac: 29
-modifier: 19
 level: 10
 ---
-### Behemoth Hippopotamus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __low-light vision__, __imprecise scent 30__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "An Engulfing"
     desc: "  Chomp counts as two attacks for the multiple attack penalty."
   - name: "Swallow Whole"
-    desc: "⬻  Medium, 1 (2d12+10) bludgeoning, Rupture 26."
+    desc: "⬻  Medium, 2d12+10 (2d12+10) bludgeoning, Rupture 26."
   - name: "Trample"
     desc: "⬽  Large or smaller, foot, DC 29."
 
@@ -55,6 +53,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +22 (1d20+22); __Ref__: +17 (1d20+17); __Will__: +19 (1d20+19);"
+hp: 190
 health:
   - name: HP
     desc: "190; "
@@ -62,14 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[deadly|deadly d12]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+10) piercing plus Grab"
+    desc: "⬻ jaws +23 ([[deadly|deadly d12]], [[reach|reach 10 feet]]); __Damage__ 2d12+10 (2d12+10) piercing plus Grab"
   - name: Melee
-    desc: "⬻ foot +21 __Damage__ 1 (2d8+9) bludgeoning"
+    desc: "⬻ foot +21 __Damage__ 2d8+9 (2d8+9) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 144."
 ```
 
-### Encounter
 ```encounter-table
 name: Behemoth Hippopotamus
 creatures:

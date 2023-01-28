@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Griffon"
+statblock: inline
 name: "Griffon"
-hp: 60
-ac: 21
-modifier: 11
 level: 4
 ---
-### Griffon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __imprecise scent 60__;"
@@ -44,6 +42,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +13 (1d20+13); __Will__: +7 (1d20+7);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -51,16 +50,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +14 ([[deadly|deadly 1d10]]); __Damage__ 1 (2d8+4) piercing"
+    desc: "⬻ beak +14 ([[deadly|deadly 1d10]]); __Damage__ 2d8+4 (2d8+4) piercing"
   - name: Melee
-    desc: "⬻ talon +14 ([[agile]]); __Damage__ 1 (2d6+4) piercing"
+    desc: "⬻ talon +14 ([[agile]]); __Damage__ 2d6+4 (2d6+4) piercing"
   - name: Melee
-    desc: "⬻ wing +14 ([[reach|reach 10 feet]]); __Damage__ 1 (2d6+4) bludgeoning"
+    desc: "⬻ wing +14 ([[reach|reach 10 feet]]); __Damage__ 2d6+4 (2d6+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 194."
 ```
 
-### Encounter
 ```encounter-table
 name: Griffon
 creatures:

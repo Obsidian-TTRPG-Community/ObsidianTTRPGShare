@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Specter"
+statblock: inline
 name: "Specter"
-hp: 95
-ac: 25
-modifier: 15
 level: 7
 ---
-### Specter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Incorporeal"
 trait_04: "Undead"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 95
 health:
   - name: HP
     desc: "95; negative healing; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all 5 (except force, ghost touch, or positive; double resistance vs. non-magical)"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vile touch +18 ([[finesse]]); __Damage__ 1 (6d6) negative plus spectral corruption"
+    desc: "⬻ vile touch +18 ([[finesse]]); __Damage__ 6d6 (6d6) negative plus spectral corruption"
 
 sourcebook: "_Bestiary 2_, page 248."
 ```
 
-### Encounter
 ```encounter-table
 name: Specter
 creatures:

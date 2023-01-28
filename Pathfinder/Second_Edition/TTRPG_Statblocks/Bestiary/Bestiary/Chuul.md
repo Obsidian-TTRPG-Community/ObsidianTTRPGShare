@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Chuul"
+statblock: inline
 name: "Chuul"
-hp: 100
-ac: 28
-modifier: 15
 level: 7
 ---
-### Chuul
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
 trait_04: "Amphibious"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -39,9 +37,9 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d8+9) bludgeoning, DC 25 ([[grabbed|grabbed]] by claws only)"
+    desc: "⬻  1d8+9 (1d8+9) bludgeoning, DC 25 ([[grabbed|grabbed]] by claws only)"
   - name: "Mandibles"
-    desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] and [[paralyzed|paralyzed]] by the chuul's tentacles.  __Effect__  The creature takes 1 (3d6) piercing damage."
+    desc: "⬻ __Requirements__ A creature is [[grabbed|grabbed]] and [[paralyzed|paralyzed]] by the chuul's tentacles.  __Effect__  The creature takes 3d6 (3d6) piercing damage."
   - name: "Paralytic Venom"
     desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[paralyzed|paralyzed]]. (1 round)"
   - name: "Tentacle Transfer"
@@ -53,6 +51,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +15 (1d20+15); __Will__: +12 (1d20+12);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Immunities__ poison;"
@@ -60,12 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claws +19 ([[reach|reach 10 feet]]); __Damage__ 1 (2d8+9) bludgeoning plus Grab"
+    desc: "⬻ claws +19 ([[reach|reach 10 feet]]); __Damage__ 2d8+9 (2d8+9) bludgeoning plus Grab"
 
 sourcebook: "_Bestiary_, page 64."
 ```
 
-### Encounter
 ```encounter-table
 name: Chuul
 creatures:

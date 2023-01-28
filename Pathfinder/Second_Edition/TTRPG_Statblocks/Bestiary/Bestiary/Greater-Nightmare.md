@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Greater Nightmare"
+statblock: inline
 name: "Greater Nightmare"
-hp: 200
-ac: 31
-modifier: 22
 level: 11
 ---
-### Greater Nightmare
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Huge"
 trait_03: "Beast"
 trait_04: "Fiend"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -40,7 +38,7 @@ abilities_top:
     desc: " ([[aura]]);  20 feet. The nightmare continually exhales black smoke that creates concealment in an aura around it. Nightmares and their riders can see through this smoke. A creature that begins its turn in the area becomes [[sickened|sickened 2]] (DC 28 Fortitude negates) and is then temporarily immune sickness from the smoke for 1 minute. The nightmare, its rider, any creature currently holding its breath (or that does not need to breathe), and any creature immune to poison are immune to the aura's [[sickened|sickened]] effect but not the concealment."
 abilities_bot:
   - name: "Flaming Gallop"
-    desc: "⬺ ([[fire]]);  The nightmare [[Stride|Strides]] or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 1 (6d6) fire damage (DC 30 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop."
+    desc: "⬺ ([[fire]]);  The nightmare [[Stride|Strides]] or Flies up to triple its Speed. Its hooves burst with intense flame, dealing 6d6 (6d6) fire damage (DC 30 basic Reflex save) once to each creature other than the nightmare's rider that the nightmare moves adjacent to during its gallop."
   - name: "Trample"
     desc: "⬽  Large or smaller, hoof, DC 30."
 
@@ -50,6 +48,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +25 (1d20+25); __Ref__: +24 (1d20+24); __Will__: +21 (1d20+21);"
+hp: 200
 health:
   - name: HP
     desc: "200; "
@@ -57,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +24 ([[evil]], [[magical]]); __Damage__ 1 (2d10+11) piercing plus 1 (1d6) evil"
+    desc: "⬻ jaws +24 ([[evil]], [[magical]]); __Damage__ 2d10+11 (2d10+11) piercing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ hoof +24 ([[agile]], [[evil]], [[fire]], [[magical]]); __Damage__ 1 (1d8+11) bludgeoning plus 1 (1d6) evil and 1 (2d8) fire"
+    desc: "⬻ hoof +24 ([[agile]], [[evil]], [[fire]], [[magical]]); __Damage__ 1d8+11 (1d8+11) bludgeoning plus 1d6 (1d6) evil and 2d8 (2d8) fire"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 244."
 ```
 
-### Encounter
 ```encounter-table
 name: Greater Nightmare
 creatures:

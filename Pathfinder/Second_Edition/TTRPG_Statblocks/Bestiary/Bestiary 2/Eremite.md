@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Eremite"
+statblock: inline
 name: "Eremite"
-hp: 375
-ac: 45
-modifier: 34
 level: 20
 ---
-### Eremite
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; __greater darkvision__, __painsight__, __true seeing__;"
@@ -44,7 +42,7 @@ abilities_mid:
     desc: " ([[aura]], [[divine]], [[enchantment]], [[fear]], [[incapacitation]], [[mental]], [[visual]]);  30 feet. When a creature ends its turn in the aura, it feels compelled to offer pieces of its own flesh to the eremite. The creature must succeed at a DC 40 Will save or become [[paralyzed|paralyzed]] for 1 round."
 abilities_bot:
   - name: "Evisceration"
-    desc: "⬻ ([[attack]]); __Requirements__ The eremite has a creature [[grabbed|grabbed]]  __Effect__  The eremite excises flesh or bone from a creature it has [[grabbed|grabbed]]. The target takes 1 (6d10) [[persistent damage|persistent bleed damage]]."
+    desc: "⬻ ([[attack]]); __Requirements__ The eremite has a creature [[grabbed|grabbed]]  __Effect__  The eremite excises flesh or bone from a creature it has [[grabbed|grabbed]]. The target takes 6d10 (6d10) [[persistent damage|persistent bleed damage]]."
   - name: "Exquisite Pain"
     desc: "  An eremite's knowledge of pressure points and pain centers is unsurpassed. A creature hit by an eremite's melee [[Strike|Strikes]] must succeed at a DC 40 Fortitude save or be [[stunned|stunned 2]] ([[stunned|stunned 4]] on a critical failure). A creature that critically succeeds is temporarily immune for 24 hours."
   - name: "Focus Gaze"
@@ -60,6 +58,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +37 (1d20+37); __Ref__: +32 (1d20+32); __Will__: +34 (1d20+34);"
+hp: 375
 health:
   - name: HP
     desc: "375; [[regeneration]] 25 (deactivated by good or silver); __Weaknesses__ good 20, silver 20;"
@@ -67,9 +66,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 1 (4d8+19) piercing plus 1 (2d6) [[persistent damage|persistent bleed]] and exquisite pain"
+    desc: "⬻ jaws +39 ([[evil]], [[magical]]); __Damage__ 4d8+19 (4d8+19) piercing plus 2d6 (2d6) [[persistent damage|persistent bleed]] and exquisite pain"
   - name: Melee
-    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 1 (3d6+19) slashing plus 1 (2d6) [[persistent damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
+    desc: "⬻ claw +39 ([[agile]], [[evil]], [[magical]]); __Damage__ 3d6+19 (3d6+19) slashing plus 2d6 (2d6) [[persistent damage|persistent bleed]], exquisite pain, and [[Improved Grab]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 285."
 ```
 
-### Encounter
 ```encounter-table
 name: Eremite
 creatures:

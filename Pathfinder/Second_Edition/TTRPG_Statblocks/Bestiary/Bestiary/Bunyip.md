@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Bunyip"
+statblock: inline
 name: "Bunyip"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### Bunyip
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __blood scent__, __darkvision__, __imprecise scent 100__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Roar"
     desc: "⬻ ([[auditory]], [[concentrate]], [[emotion]], [[enchantment]], [[fear]], [[mental]], [[primal]]);  The bunyip lets out a loud and horrifying roar. Other creatures within 100 feet must succeed at a DC 21 Will save or become [[frightened|frightened 2]] ([[frightened|frightened 3]] on a critical failure, [[frightened|frightened 1]] on a success, or unaffected on a critical success) No matter the result, the creature is temporarily immune to the effect for 1 minute."
   - name: "Shift Form"
-    desc: "⬻ ([[morph]], [[primal]], [[transmutation]]);  A bunyip can alter its form slightly to gain an advantage and make it harder to recognize. When it does, its teeth shrink and its jaws [[Strike]] doesn't deal the 1 (1d6) [[persistent damage|persistent bleed damage]]. It can choose to gain either a long snake tail, granting its tail [[Strike]] reach 10 feet and Grab, or squat crocodile legs, increasing its land Speed to 20 feet. If it uses Shift Form again, the bunyip can return to normal or switch between a long tail or crocodile legs."
+    desc: "⬻ ([[morph]], [[primal]], [[transmutation]]);  A bunyip can alter its form slightly to gain an advantage and make it harder to recognize. When it does, its teeth shrink and its jaws [[Strike]] doesn't deal the 1d6 (1d6) [[persistent damage|persistent bleed damage]]. It can choose to gain either a long snake tail, granting its tail [[Strike]] reach 10 feet and Grab, or squat crocodile legs, increasing its land Speed to 20 feet. If it uses Shift Form again, the bunyip can return to normal or switch between a long tail or crocodile legs."
 
 speed: 10 feet, swim 40 feet
 
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -60,14 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (1d10+4) piercing plus 1 (1d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ jaws +11 __Damage__ 1d10+4 (1d10+4) piercing plus 1d6 (1d6) [[persistent damage|persistent bleed]]"
   - name: Melee
-    desc: "⬻ tail +11 ([[agile]]); __Damage__ 1 (1d8+4) bludgeoning"
+    desc: "⬻ tail +11 ([[agile]]); __Damage__ 1d8+4 (1d8+4) bludgeoning"
 
 sourcebook: "_Bestiary_, page 49."
 ```
 
-### Encounter
 ```encounter-table
 name: Bunyip
 creatures:

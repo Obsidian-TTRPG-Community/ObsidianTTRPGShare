@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Boggard Scout"
+statblock: inline
 name: "Boggard Scout"
-hp: 24
-ac: 16
-modifier: 7
 level: 1
 ---
-### Boggard Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Boggard"
 trait_05: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +9 (1d20+9); __Ref__: +5 (1d20+5); __Will__: +7 (1d20+7);"
+hp: 24
 health:
   - name: HP
     desc: "24; "
@@ -59,16 +58,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ morningstar +8 ([[versatile|versatile p]]); __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ morningstar +8 ([[versatile|versatile p]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Melee
     desc: "⬻ tongue +8 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
   - name: Ranged
-    desc: "⬻ sling +7 ([[propulsive]], [[reload|reload 1]], [[range increment|range increment 50 feet]]); __Damage__ 1 (1d6+1) bludgeoning"
+    desc: "⬻ sling +7 ([[propulsive]], [[reload|reload 1]], [[range increment|range increment 50 feet]]); __Damage__ 1d6+1 (1d6+1) bludgeoning"
 
 sourcebook: "_Bestiary_, page 44."
 ```
 
-### Encounter
 ```encounter-table
 name: Boggard Scout
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#D'ziriak"
+statblock: inline
 name: "D'ziriak"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### D'ziriak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Aberration"
 trait_04: "Shadow"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -60,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +12 ([[agile]], [[finesse]]); __Damage__ 1 (1d10+4) piercing"
+    desc: "⬻ claw +12 ([[agile]], [[finesse]]); __Damage__ 1d10+4 (1d10+4) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 104."
 ```
 
-### Encounter
 ```encounter-table
 name: D'ziriak
 creatures:

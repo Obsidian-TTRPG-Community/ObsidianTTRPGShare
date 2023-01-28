@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Scythe Tree"
+statblock: inline
 name: "Scythe Tree"
-hp: 105
-ac: 24
-modifier: 14
 level: 6
 ---
-### Scythe Tree
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "CE"
 size: "Huge"
 trait_03: "Plant"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __lifesense 30__, __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +17 (1d20+17); __Ref__: +8 (1d20+8); __Will__: +9 (1d20+9);"
+hp: 105
 health:
   - name: HP
     desc: "105;  __Resistances__ bludgeoning 5, piercing 5"
@@ -57,12 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scythe branch +18 ([[backswing]], [[deadly|deadly d10]], [[reach|reach 15 feet]]); __Damage__ 1 (2d10+9) slashing"
+    desc: "⬻ scythe branch +18 ([[backswing]], [[deadly|deadly d10]], [[reach|reach 15 feet]]); __Damage__ 2d10+9 (2d10+9) slashing"
 
 sourcebook: "_Bestiary 2_, page 235."
 ```
 
-### Encounter
 ```encounter-table
 name: Scythe Tree
 creatures:

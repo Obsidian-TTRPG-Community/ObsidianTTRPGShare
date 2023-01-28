@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Cornugon"
+statblock: inline
 name: "Cornugon"
-hp: 300
-ac: 38
-modifier: 28
 level: 16
 ---
-### Cornugon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __greater darkvision__;"
@@ -50,9 +48,9 @@ abilities_bot:
   - name: "Chain of Malebolge"
     desc: "⬻ __Requirements__ The cornugon's last action was a success with a spiked chain  __Effect__  [[Strike]]; The devil pulls the creature 5 feet closer and grabs it with the spiked chain ([[Escape]] DC 42). The creature is automatically freed if the devil makes another spiked chain attack or moves away."
   - name: "Infernal Wound"
-    desc: " ([[divine]], [[necromancy]]);  A cornugon's tail [[Strike]] deals 1 (4d6) [[persistent damage|persistent bleed damage]]. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to [[Administer First Aid]] to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally [[wounded|wounded]] creature must succeed at a DC 34 counteract check or the magic fails to heal the creature."
+    desc: " ([[divine]], [[necromancy]]);  A cornugon's tail [[Strike]] deals 4d6 (4d6) [[persistent damage|persistent bleed damage]]. The DC of the flat check to stop the bleeding starts at 20 and is reduced to 15 only if someone successfully assists. The DC to [[Administer First Aid]] to a creature with an infernal wound increases by 10. A spellcaster or item using healing magic on an infernally [[wounded|wounded]] creature must succeed at a DC 34 counteract check or the magic fails to heal the creature."
   - name: "Stunning Chain"
-    desc: " ([[incapacitation]]);  If the cornugon critically hits with its spiked chain [[Strike]], the target must succeed at a DC 34 Fortitude save or be [[stunned|stunned]] for 1 round (1 (1d4) rounds on a critical failure)."
+    desc: " ([[incapacitation]]);  If the cornugon critically hits with its spiked chain [[Strike]], the target must succeed at a DC 34 Fortitude save or be [[stunned|stunned]] for 1 round (1d4 (1d4) rounds on a critical failure)."
 
 speed: 25 feet, fly 50 feet
 
@@ -60,6 +58,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +31 (1d20+31); __Ref__: +26 (1d20+26); __Will__: +26 (1d20+26);"
+hp: 300
 health:
   - name: HP
     desc: "300;  __Immunities__ fire; __Weaknesses__ good 15; __Resistances__ physical 15 (except silver), poison 15"
@@ -67,11 +66,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spiked chain +34 ([[disarm]], [[evil]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (3d8+16) slashing plus 1 (2d6) evil and stunning chain"
+    desc: "⬻ spiked chain +34 ([[disarm]], [[evil]], [[finesse]], [[magical]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 3d8+16 (3d8+16) slashing plus 2d6 (2d6) evil and stunning chain"
   - name: Melee
-    desc: "⬻ claw +32 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d10+14) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw +32 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d10+14 (3d10+14) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ tail +32 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+14) slashing plus 1 (1d6) evil and infernal wound"
+    desc: "⬻ tail +32 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+14 (3d8+14) slashing plus 1d6 (1d6) evil and infernal wound"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 77."
 ```
 
-### Encounter
 ```encounter-table
 name: Cornugon
 creatures:

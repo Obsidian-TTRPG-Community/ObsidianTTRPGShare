@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Frost Troll"
+statblock: inline
 name: "Frost Troll"
-hp: 90
-ac: 19
-modifier: 12
 level: 4
 ---
-### Frost Troll
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Cold"
 trait_05: "Giant"
 trait_06: "Troll"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +13 (1d20+13); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 90
 health:
   - name: HP
     desc: "90; [[regeneration]] 15 (deactivated by acid or fire); __Immunities__ cold; __Weaknesses__ fire 10;"
@@ -61,18 +60,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +13 ([[reach|reach 10 feet]]); __Damage__ 1 (2d8+7) piercing"
+    desc: "⬻ jaws +13 ([[reach|reach 10 feet]]); __Damage__ 2d8+7 (2d8+7) piercing"
   - name: Melee
-    desc: "⬻ hatchet +13 ([[agile]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (2d6+7) slashing"
+    desc: "⬻ hatchet +13 ([[agile]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 2d6+7 (2d6+7) slashing"
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d4+7) slashing"
+    desc: "⬻ claw +13 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d4+7 (2d4+7) slashing"
   - name: Ranged
-    desc: "⬻ hatchet +10 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1 (2d6+7) slashing"
+    desc: "⬻ hatchet +10 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 2d6+7 (2d6+7) slashing"
 
 sourcebook: "_Bestiary 2_, page 264."
 ```
 
-### Encounter
 ```encounter-table
 name: Frost Troll
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Bugbear Thug"
+statblock: inline
 name: "Bugbear Thug"
-hp: 34
-ac: 17
-modifier: 7
 level: 2
 ---
-### Bugbear Thug
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __imprecise scent 30__;"
@@ -49,6 +47,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 34
 health:
   - name: HP
     desc: "34; "
@@ -56,16 +55,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bastard sword +10 ([[two-hand|two-hand d12]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ bastard sword +10 ([[two-hand|two-hand d12]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Melee
-    desc: "⬻ fist +10 ([[agile]], [[nonlethal]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ fist +10 ([[agile]], [[nonlethal]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ javelin +8 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 47."
 ```
 
-### Encounter
 ```encounter-table
 name: Bugbear Thug
 creatures:

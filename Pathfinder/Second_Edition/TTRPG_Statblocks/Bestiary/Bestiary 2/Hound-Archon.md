@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Hound Archon"
+statblock: inline
 name: "Hound Archon"
-hp: 70
-ac: 22
-modifier: 13
 level: 4
 ---
-### Hound Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Medium"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +14 (1d20+14); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Weaknesses__ evil 5;"
@@ -61,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatsword +14 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1 (1d12+6) slashing plus 1 (1d6) good"
+    desc: "⬻ greatsword +14 ([[good]], [[magical]], [[versatile|versatile p]]); __Damage__ 1d12+6 (1d12+6) slashing plus 1d6 (1d6) good"
   - name: Melee
-    desc: "⬻ jaws +14 ([[agile]], [[good]], [[magical]]); __Damage__ 1 (1d6+6) piercing plus 1 (1d6) good"
+    desc: "⬻ jaws +14 ([[agile]], [[good]], [[magical]]); __Damage__ 1d6+6 (1d6+6) piercing plus 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 22."
 ```
 
-### Encounter
 ```encounter-table
 name: Hound Archon
 creatures:

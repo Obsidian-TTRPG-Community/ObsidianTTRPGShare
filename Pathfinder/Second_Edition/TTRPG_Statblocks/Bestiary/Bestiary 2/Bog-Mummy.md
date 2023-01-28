@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Bog Mummy"
+statblock: inline
 name: "Bog Mummy"
-hp: 85
-ac: 21
-modifier: 12
 level: 5
 ---
-### Bog Mummy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Mummy"
 trait_04: "Undead"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -41,7 +39,7 @@ abilities_mid:
     desc: "⬲ __Requirements__ Initiative has not yet been rolled __Trigger__ A creature walks on top of a bog mummy that lies buried in the mud or peat below __Effect__  The bog mummy automatically notices the creature and Burrows before rolling initiative."
 abilities_bot:
   - name: "Bog Rot"
-    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]], [[negative]]);  __Saving Throw__ DC 21 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 1 (3d6) negative damage and [[clumsy|clumsy 1]] (1 day)"
+    desc: " ([[curse]], [[disease]], [[divine]], [[necromancy]], [[negative]]);  __Saving Throw__ DC 21 Fortitude. __Stage 1__ carrier with no ill effect (1 minute) __Stage 2__ 3d6 (3d6) negative damage and [[clumsy|clumsy 1]] (1 day)"
   - name: "Gamemastery Guide"
     desc: "  121)."
 
@@ -51,6 +49,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +9 (1d20+9); __Will__: +14 (1d20+14);"
+hp: 85
 health:
   - name: HP
     desc: "85; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ cold 5;"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +14 __Damage__ 1 (2d6+5) plus bog rot"
+    desc: "⬻ fist +14 __Damage__ 2d6+5 (2d6+5) plus bog rot"
 
 sourcebook: "_Bestiary 2_, page 177."
 ```
 
-### Encounter
 ```encounter-table
 name: Bog Mummy
 creatures:

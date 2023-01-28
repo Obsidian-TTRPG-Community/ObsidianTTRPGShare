@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Boggard Swampseer"
+statblock: inline
 name: "Boggard Swampseer"
-hp: 40
-ac: 18
-modifier: 11
 level: 3
 ---
-### Boggard Swampseer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Boggard"
 trait_05: "Humanoid"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -42,9 +40,9 @@ abilities_top:
     desc: "staff;"
 abilities_bot:
   - name: "Destructive Croak"
-    desc: "⬺ ([[sonic]]);  The swampseer utters a powerful croak that deals 1 (4d6) sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [[frightened|frightened]] condition takes additional sonic damage equal to twice the value of their [[frightened|frightened]] condition. The boggard can't use."
+    desc: "⬺ ([[sonic]]);  The swampseer utters a powerful croak that deals 4d6 (4d6) sonic damage to any non-boggard within a 15-foot emanation (DC 19 basic Fortitude save); any creature with the [[frightened|frightened]] condition takes additional sonic damage equal to twice the value of their [[frightened|frightened]] condition. The boggard can't use."
   - name: "Destructive"
-    desc: "  Croak again for 1 (1d4) rounds."
+    desc: "  Croak again for 1d4 (1d4) rounds."
   - name: "Drowning Drone"
     desc: "⬲ ([[auditory]], [[mental]]); __Trigger__ The boggard swampseer or one of its allies within 60 feet attempts a saving throw against an [[auditory]] or [[sonic]] effect. __Effect__  The swampseer releases a croak that drowns out other sound. It rolls a [[Performance]] check. It and boggard allies in the area can use the higher result of the swampseer's [[Performance]] check or their saves to resolve the effects against the [[auditory]] or [[sonic]] effect."
   - name: "Swamp Stride"
@@ -62,6 +60,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +7 (1d20+7); __Will__: +11 (1d20+11);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -69,7 +68,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ staff +10 ([[two-hand|two-hand d8]]); __Damage__ 1 (1d4+6) bludgeoning"
+    desc: "⬻ staff +10 ([[two-hand|two-hand d8]]); __Damage__ 1d4+6 (1d4+6) bludgeoning"
   - name: Melee
     desc: "⬻ tongue +10 ([[reach|reach 10 feet]]); __Damage__ tongue grab"
 
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 45."
 ```
 
-### Encounter
 ```encounter-table
 name: Boggard Swampseer
 creatures:

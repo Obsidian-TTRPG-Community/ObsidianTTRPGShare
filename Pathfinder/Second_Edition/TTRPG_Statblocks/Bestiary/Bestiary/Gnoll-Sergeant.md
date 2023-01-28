@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Gnoll Sergeant"
+statblock: inline
 name: "Gnoll Sergeant"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Gnoll Sergeant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Gnoll"
 trait_04: "Humanoid"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -44,7 +42,7 @@ abilities_bot:
   - name: "Bark Orders"
     desc: "⬻ ([[auditory]], [[linguistic]]);  The gnoll sergeant commands its allies to reposition. Any allies who hear and understand this order can use a reaction to [[Step]]."
   - name: "Pack Attack"
-    desc: "  A gnoll hunter deals 1 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
+    desc: "  A gnoll hunter deals 1d4 (1d4) extra damage to any creature that's within reach of at least two of the gnoll hunter's allies."
   - name: "Rugged Travel"
     desc: "  A gnoll ignores the first square of [[terrain|difficult terrain]] it moves into each time it [[Step|Steps]] or [[Stride|Strides]]."
 
@@ -54,6 +52,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -61,16 +60,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +14 ([[forceful]], [[sweep]]); __Damage__ 1 (1d6+7) slashing"
+    desc: "⬻ scimitar +14 ([[forceful]], [[sweep]]); __Damage__ 1d6+7 (1d6+7) slashing"
   - name: Melee
-    desc: "⬻ jaws +14 ([[agile]]); __Damage__ 1 (1d6+7) piercing"
+    desc: "⬻ jaws +14 ([[agile]]); __Damage__ 1d6+7 (1d6+7) piercing"
   - name: Ranged
-    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ composite shortbow +12 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 179."
 ```
 
-### Encounter
 ```encounter-table
 name: Gnoll Sergeant
 creatures:

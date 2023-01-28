@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Badger"
+statblock: inline
 name: "Badger"
-hp: 15
-ac: 16
-modifier: 6
 level: 0
 ---
-### Badger
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__, __imprecise scent 30__;"
@@ -42,6 +40,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +8 (1d20+8); __Ref__: +5 (1d20+5); __Will__: +6 (1d20+6);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -49,14 +48,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d8) piercing"
+    desc: "⬻ jaws +8 __Damage__ 1d8 (1d8) piercing"
   - name: Melee
-    desc: "⬻ claw +8 ([[agile]]); __Damage__ 1 (1d6) slashing"
+    desc: "⬻ claw +8 ([[agile]]); __Damage__ 1d6 (1d6) slashing"
 
 sourcebook: "_Bestiary 2_, page 32."
 ```
 
-### Encounter
 ```encounter-table
 name: Badger
 creatures:

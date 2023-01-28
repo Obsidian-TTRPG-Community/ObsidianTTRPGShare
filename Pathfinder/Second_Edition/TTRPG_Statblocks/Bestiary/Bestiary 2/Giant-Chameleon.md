@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Giant Chameleon"
+statblock: inline
 name: "Giant Chameleon"
-hp: 60
-ac: 18
-modifier: 10
 level: 3
 ---
-### Giant Chameleon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -45,6 +43,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; all-around vision; __Fort__: +8 (1d20+8); __Ref__: +12 (1d20+12); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 168."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Chameleon
 creatures:

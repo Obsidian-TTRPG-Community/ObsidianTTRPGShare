@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Arbiter"
+statblock: inline
 name: "Arbiter"
-hp: 22
-ac: 16
-modifier: 7
 level: 1
 ---
-### Arbiter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Tiny"
 trait_03: "Aeon"
 trait_04: "Inevitable"
 trait_05: "Monitor"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __detect alignment (chaotic only)__, __locate inevitable__;"
@@ -42,7 +40,7 @@ abilities_top:
     desc: "[[shortsword]];"
 abilities_bot:
   - name: "Electrical Burst"
-    desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The arbiter releases an electrical burst from its body that deals 1 (3d6) electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes [[stunned|stunned]] for 24 hours."
+    desc: "⬺ ([[divine]], [[electricity]], [[evocation]]);  The arbiter releases an electrical burst from its body that deals 3d6 (3d6) electricity damage (DC 17 basic Reflex save). Following such a burst, the arbiter becomes [[stunned|stunned]] for 24 hours."
 
 speed: 20 feet, fly 40 feet
 
@@ -50,6 +48,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
+hp: 22
 health:
   - name: HP
     desc: "22;  __Immunities__ poison, death effects, disease, emotion, unconscious; __Weaknesses__ chaotic 3;"
@@ -57,7 +56,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[lawful]], [[magical]], [[versatile|versatile s]]); __Damage__ 1 (1d6+1) piercing plus 1 (1d4) lawful"
+    desc: "⬻ shortsword +9 ([[agile]], [[finesse]], [[lawful]], [[magical]], [[versatile|versatile s]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d4 (1d4) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 8."
 ```
 
-### Encounter
 ```encounter-table
 name: Arbiter
 creatures:

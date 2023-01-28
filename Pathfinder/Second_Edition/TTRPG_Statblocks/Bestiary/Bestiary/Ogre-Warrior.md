@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Ogre Warrior"
+statblock: inline
 name: "Ogre Warrior"
-hp: 50
-ac: 17
-modifier: 5
 level: 3
 ---
-### Ogre Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -42,6 +40,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +11 (1d20+11); __Ref__: +6 (1d20+6); __Will__: +5 (1d20+5);"
+hp: 50
 health:
   - name: HP
     desc: "50; "
@@ -49,14 +48,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ogre hook +12 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (1d10+7) piercing"
+    desc: "⬻ ogre hook +12 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1d10+7 (1d10+7) piercing"
   - name: Ranged
-    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+7) piercing"
+    desc: "⬻ javelin +6 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+7 (1d6+7) piercing"
 
 sourcebook: "_Bestiary_, page 252."
 ```
 
-### Encounter
 ```encounter-table
 name: Ogre Warrior
 creatures:

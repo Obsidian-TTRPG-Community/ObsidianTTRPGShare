@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Ostiarius"
+statblock: inline
 name: "Ostiarius"
-hp: 67
-ac: 21
-modifier: 15
 level: 5
 ---
-### Ostiarius
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __greater darkvision__, __painsight__, __sense portal__;"
@@ -56,6 +54,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +9 (1d20+9); __Ref__: +15 (1d20+15); __Will__: +13 (1d20+13);"
+hp: 67
 health:
   - name: HP
     desc: "67; [[regeneration]] 5 (deactivated by good or silver); __Immunities__ cold; __Weaknesses__ good 5, silver 5;"
@@ -63,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 1 (2d6+2) slashing plus 1 (2d6) [[persistent damage|persistent bleed]]"
+    desc: "⬻ claw +13 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 2d6+2 (2d6+2) slashing plus 2d6 (2d6) [[persistent damage|persistent bleed]]"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 281."
 ```
 
-### Encounter
 ```encounter-table
 name: Ostiarius
 creatures:

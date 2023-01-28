@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Quelaunt"
+statblock: inline
 name: "Quelaunt"
-hp: 305
-ac: 36
-modifier: 29
 level: 15
 ---
-### Quelaunt
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 15"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __imprecise [[tremorsense]] 60__;"
@@ -39,7 +37,7 @@ abilities_bot:
   - name: "Emotional Frenzy"
     desc: "⬽  The quelaunt casts up to three spells chosen from its at-will innate spells and its emotional focus spells."
   - name: "Feed on Emotion"
-    desc: "⬻ ([[attack]], [[emotion]], [[incapacitation]], [[mental]]); __Frequency__ once per round  __Effect__  The quelaunt feeds on the emotional unrest of a single creature within 30 feet that's under a harmful [[emotion]] effect. The target must succeed at a DC 37 Will save or take 1 (4d10) mental damage and be [[stunned|stunned]] for 1 round. If the target fails its saving throw, the quelaunt regains the same number of Hit Points and Feed on Emotion does not cost the quelaunt an action, allowing it to use another action this turn."
+    desc: "⬻ ([[attack]], [[emotion]], [[incapacitation]], [[mental]]); __Frequency__ once per round  __Effect__  The quelaunt feeds on the emotional unrest of a single creature within 30 feet that's under a harmful [[emotion]] effect. The target must succeed at a DC 37 Will save or take 4d10 (4d10) mental damage and be [[stunned|stunned]] for 1 round. If the target fails its saving throw, the quelaunt regains the same number of Hit Points and Feed on Emotion does not cost the quelaunt an action, allowing it to use another action this turn."
   - name: "Rapid Strikes"
     desc: "⬺ ([[attack]]);  The quelaunt makes three melee [[Strike|Strikes]], each against a different target within reach. The multiple attack penalty applies to each attack, but increases only after all the attacks have been made."
   - name: "Spiral of Despair"
@@ -51,6 +49,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +27 (1d20+27); __Ref__: +26 (1d20+26); __Will__: +31 (1d20+31);"
+hp: 305
 health:
   - name: HP
     desc: "305; "
@@ -58,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +30 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (3d8+12) slashing"
+    desc: "⬻ claw +30 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 3d8+12 (3d8+12) slashing"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 273."
 ```
 
-### Encounter
 ```encounter-table
 name: Quelaunt
 creatures:

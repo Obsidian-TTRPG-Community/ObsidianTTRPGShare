@@ -7,14 +7,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Ice Yai"
+statblock: inline
 name: "Ice Yai"
-hp: 230
-ac: 34
-modifier: 26
 level: 13
 ---
-### Ice Yai
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -30,6 +27,7 @@ trait_04: "Fiend"
 trait_05: "Giant"
 trait_06: "Humanoid"
 trait_07: "Oni"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __greater darkvision__;"
@@ -58,6 +56,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +21 (1d20+21); __Ref__: +25 (1d20+25); __Will__: +23 (1d20+23);"
+hp: 230
 health:
   - name: HP
     desc: "230; [[regeneration]] 15 (deactivated by acid or fire); __Weaknesses__ fire 15;"
@@ -65,9 +64,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +27 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+16) bludgeoning plus 1 (2d6) cold and frozen strike"
+    desc: "⬻ fist +27 ([[agile]], [[evil]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+16 (2d8+16) bludgeoning plus 2d6 (2d6) cold and frozen strike"
   - name: Ranged
-    desc: "⬻ ice missile +25 ([[cold]], [[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 1 (2d10+12) cold and frozen strike"
+    desc: "⬻ ice missile +25 ([[cold]], [[evil]], [[magical]], [[range increment|range increment 60 feet]]); __Damage__ 2d10+12 (2d10+12) cold and frozen strike"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 189."
 ```
 
-### Encounter
 ```encounter-table
 name: Ice Yai
 creatures:

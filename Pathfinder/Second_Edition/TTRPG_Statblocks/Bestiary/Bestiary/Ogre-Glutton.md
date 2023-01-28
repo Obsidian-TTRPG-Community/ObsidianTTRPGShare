@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Ogre Glutton"
+statblock: inline
 name: "Ogre Glutton"
-hp: 70
-ac: 18
-modifier: 6
 level: 4
 ---
-### Ogre Glutton
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -37,11 +35,11 @@ abilityMods: [6, -1, 4, -2, 0, -2]
 
 abilities_bot:
   - name: "Glutton's Feast"
-    desc: "  If the ogre glutton damages a living creature with their jaws [[Strike]], they gain 1 (1d4) temporary Hit Points for 1 minute."
+    desc: "  If the ogre glutton damages a living creature with their jaws [[Strike]], they gain 1d4 (1d4) temporary Hit Points for 1 minute."
   - name: "Glutton's Rush"
-    desc: "⬺  The ogre glutton [[Stride|Strides]] twice and makes a jaws [[Strike]]. If they damage a living creature with this [[Strike]], the temporary Hit Points they receive from glutton's feast is increased to 1 (2d4)."
+    desc: "⬺  The ogre glutton [[Stride|Strides]] twice and makes a jaws [[Strike]]. If they damage a living creature with this [[Strike]], the temporary Hit Points they receive from glutton's feast is increased to 2d4 (2d4)."
   - name: "Swallow Whole"
-    desc: "⬻ ([[attack]]);  Small, 1 (2d4+4) bludgeoning, Rupture 14."
+    desc: "⬻ ([[attack]]);  Small, 2d4+4 (2d4+4) bludgeoning, Rupture 14."
 abilities_top:
   - name: Items
     desc: "leather armor, greataxe;"
@@ -52,6 +50,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +14 (1d20+14); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 70
 health:
   - name: HP
     desc: "70; "
@@ -59,14 +58,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d12+8) slashing"
+    desc: "⬻ greataxe +14 ([[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d12+8 (1d12+8) slashing"
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (1d8+8) piercing plus Grab and glutton's feast"
+    desc: "⬻ jaws +14 __Damage__ 1d8+8 (1d8+8) piercing plus Grab and glutton's feast"
 
 sourcebook: "_Bestiary_, page 253."
 ```
 
-### Encounter
 ```encounter-table
 name: Ogre Glutton
 creatures:

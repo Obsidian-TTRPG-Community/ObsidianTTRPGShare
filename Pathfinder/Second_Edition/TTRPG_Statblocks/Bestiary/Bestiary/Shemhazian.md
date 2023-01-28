@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Shemhazian"
+statblock: inline
 name: "Shemhazian"
-hp: 350
-ac: 39
-modifier: 30
 level: 16
 ---
-### Shemhazian
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -38,7 +36,7 @@ abilities_mid:
   - name: "Paralyzing Gaze"
     desc: " ([[aura]], [[divine]], [[enchantment]], [[visual]]);  30 feet. A non-evil creature that ends its turn in the aura must attempt a DC 35 Fortitude save. If it fails, it's [[slowed|slowed 1]] for 1 round, and if it critically fails, it is instead [[paralyzed|paralyzed]] for 1 round."
   - name: "Succor Vulnerability"
-    desc: "  A shemhazian's mutilation is a part of them, and they can't bear to see it reversed. The first time each round that a creature heals from damage the shemhazian dealt on their last turn, the demon takes 1 (3d6) mental damage."
+    desc: "  A shemhazian's mutilation is a part of them, and they can't bear to see it reversed. The first time each round that a creature heals from damage the shemhazian dealt on their last turn, the demon takes 3d6 (3d6) mental damage."
   - name: "Tail Whip"
     desc: "⬲ __Trigger__ A creature within reach of the shemhazian's tail leaves a square during a move action it's using. __Effect__  The shemhazian attempts to [[Trip]] the triggering creature. On a success, the creature also takes damage as if the shemhazian had hit with a tail [[Strike]], and if the creature was flying, it falls 30 feet."
 abilities_bot:
@@ -55,6 +53,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +32 (1d20+32); __Ref__: +26 (1d20+26); __Will__: +27 (1d20+27);"
+hp: 350
 health:
   - name: HP
     desc: "350;  __Weaknesses__ cold iron 15, good 15;"
@@ -62,13 +61,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws (evil, magical, reach <20 feet>) +33 __Damage__ 1 (3d12+17) piercing plus 1 (1d6) evil and enfeebling bite"
+    desc: "⬻ jaws (evil, magical, reach <20 feet>) +33 __Damage__ 3d12+17 (3d12+17) piercing plus 1d6 (1d6) evil and enfeebling bite"
   - name: Melee
-    desc: "⬻ claw (agile, evil, magical, reach <20 feet>) +33 __Damage__ 1 (3d8+17) slashing plus 1 (1d6) evil"
+    desc: "⬻ claw (agile, evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) slashing plus 1d6 (1d6) evil"
   - name: Melee
-    desc: "⬻ pincer (evil, magical, reach <20 feet>) +33 __Damage__ 1 (3d8+17) bludgeoning plus 1 (1d6) evil and [[Improved Grab]]"
+    desc: "⬻ pincer (evil, magical, reach <20 feet>) +33 __Damage__ 3d8+17 (3d8+17) bludgeoning plus 1d6 (1d6) evil and [[Improved Grab]]"
   - name: Melee
-    desc: "⬻ tail (evil, magical, reach <30 feet>) +33 __Damage__ 1 (3d6+17) slashing plus 1 (1d6) evil"
+    desc: "⬻ tail (evil, magical, reach <30 feet>) +33 __Damage__ 3d6+17 (3d6+17) slashing plus 1d6 (1d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 80."
 ```
 
-### Encounter
 ```encounter-table
 name: Shemhazian
 creatures:

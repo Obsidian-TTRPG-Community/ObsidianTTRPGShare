@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Living Whirlwind"
+statblock: inline
 name: "Living Whirlwind"
-hp: 50
-ac: 24
-modifier: 10
 level: 5
 ---
-### Living Whirlwind
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +9 (1d20+9); __Ref__: +16 (1d20+16); __Will__: +10 (1d20+10);"
+hp: 50
 health:
   - name: HP
     desc: "50;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -54,12 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ gust +14 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+7) bludgeoning plus Push 5 feet"
+    desc: "⬻ gust +14 ([[finesse]], [[reach|reach 10 feet]]); __Damage__ 2d6+7 (2d6+7) bludgeoning plus Push 5 feet"
 
 sourcebook: "_Bestiary_, page 144."
 ```
 
-### Encounter
 ```encounter-table
 name: Living Whirlwind
 creatures:

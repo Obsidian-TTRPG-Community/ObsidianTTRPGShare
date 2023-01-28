@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Sea Devil Brute"
+statblock: inline
 name: "Sea Devil Brute"
-hp: 60
-ac: 21
-modifier: 7
 level: 4
 ---
-### Sea Devil Brute
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Devil"
 trait_05: "Humanoid"
 trait_06: "Sea"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __wavesense 30__;"
@@ -45,7 +43,7 @@ abilities_bot:
   - name: "Blood Frenzy"
     desc: "⭓ ([[rage]]);  As sea devil scout, 11 temporary HP."
   - name: "Bloodletting"
-    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
+    desc: "  When the sea devil deals piercing or slashing damage, it also deals 1d4 (1d4) [[persistent damage|persistent bleed damage]] if the target was [[flat-footed|flat-footed]] or if the attack was a critical hit."
   - name: "Unimpeded Throw"
     desc: "  A sea devil brute can use thrown ranged weapons underwater with no penalty due to range increment."
 
@@ -55,6 +53,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -62,18 +61,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trident +14 __Damage__ 1 (1d8+8) piercing"
+    desc: "⬻ trident +14 __Damage__ 1d8+8 (1d8+8) piercing"
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]]); __Damage__ 1 (1d6+6) slashing"
+    desc: "⬻ claw +14 ([[agile]]); __Damage__ 1d6+6 (1d6+6) slashing"
   - name: Melee
-    desc: "⬻ jaws +14 __Damage__ 1 (1d8+6) piercing"
+    desc: "⬻ jaws +14 __Damage__ 1d8+6 (1d8+6) piercing"
   - name: Ranged
-    desc: "⬻ trident +11 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d8+8) piercing"
+    desc: "⬻ trident +11 ([[thrown|thrown 20 feet]]); __Damage__ 1d8+8 (1d8+8) piercing"
 
 sourcebook: "_Bestiary_, page 287."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Devil Brute
 creatures:

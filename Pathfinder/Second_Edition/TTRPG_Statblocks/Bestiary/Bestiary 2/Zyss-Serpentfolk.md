@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Zyss Serpentfolk"
+statblock: inline
 name: "Zyss Serpentfolk"
-hp: 25
-ac: 18
-modifier: 8
 level: 2
 ---
-### Zyss Serpentfolk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Humanoid"
 trait_05: "Serpentfolk"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise scent 30__;"
@@ -37,7 +35,7 @@ abilityMods: [-1, 4, 2, 4, 2, 3]
 
 abilities_bot:
   - name: "Serpentfolk Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 16 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d4 (1d4) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d4 (2d4) poison damage and [[enfeebled|enfeebled 1]] (1 round)"
 abilities_top:
   - name: Items
     desc: "dagger, shortbow (30 arrows);"
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +8 (1d20+8); __Will__: +8 (1d20+8);"
+hp: 25
 health:
   - name: HP
     desc: "25; "
@@ -55,11 +54,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +10 ([[finesse]]); __Damage__ 1 (1d6+1) piercing plus serpentfolk venom"
+    desc: "⬻ fangs +10 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus serpentfolk venom"
   - name: Melee
-    desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4+1) piercing plus serpentfolk venom"
+    desc: "⬻ dagger +10 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1) piercing plus serpentfolk venom"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1 (1d6+2) piercing plus serpentfolk venom"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]]); __Damage__ 1d6+2 (1d6+2) piercing plus serpentfolk venom"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 237."
 ```
 
-### Encounter
 ```encounter-table
 name: Zyss Serpentfolk
 creatures:

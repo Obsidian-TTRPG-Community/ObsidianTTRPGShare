@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Duergar Bombardier"
+statblock: inline
 name: "Duergar Bombardier"
-hp: 20
-ac: 18
-modifier: 4
 level: 1
 ---
-### Duergar Bombardier
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Duergar"
 trait_04: "Dwarf"
 trait_05: "Humanoid"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__;"
@@ -59,6 +57,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -66,7 +65,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ warhammer +4 ([[shove]]); __Damage__ 1 (1d8+1) bludgeoning"
+    desc: "⬻ warhammer +4 ([[shove]]); __Damage__ 1d8+1 (1d8+1) bludgeoning"
   - name: Ranged
     desc: "⬻ bomb +8 ([[range increment|range increment 30 feet]], [[splash]]); __Damage__ varies by bomb"
 
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 139."
 ```
 
-### Encounter
 ```encounter-table
 name: Duergar Bombardier
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Esobok"
+statblock: inline
 name: "Esobok"
-hp: 55
-ac: 18
-modifier: 12
 level: 3
 ---
-### Esobok
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __lifesense 60__, __imprecise scent 60__;"
@@ -38,7 +36,7 @@ abilities_bot:
   - name: "Pounce"
     desc: "⬻  The esobok [[Stride|Strides]] and then makes a [[Strike]]. If it began this action [[hidden|hidden]], it remains [[hidden|hidden]] until after the [[Strike]]."
   - name: "Spirit Touch"
-    desc: "  An esobok's [[Strike|Strikes]] affect incorporeal creatures with the effects of a ghost touch property rune and deal 1 (1d6) negative damage to living creatures and 1 (1d6) positive damage to undead."
+    desc: "  An esobok's [[Strike|Strikes]] affect incorporeal creatures with the effects of a ghost touch property rune and deal 1d6 (1d6) negative damage to living creatures and 1d6 (1d6) positive damage to undead."
   - name: "Wrench Spirit"
     desc: "⬻ ([[attack]], [[divine]], [[incapacitation]], [[necromancy]]);  Requirement A creature is [[grabbed|grabbed]] by the esobok's jaws; The esobok releases the target from the Grab but wrenches its spirit free as it does so. The creature must attempt a DC 20 Will save. Creatures without souls (such as most constructs) and creatures whose bodies and souls are one (such as most celestials, fiends, and monitors) that roll a failure or critical failure on the save get a success instead.\n__Critical Success__ The creature is unaffected.\n__Success__ The target is [[stunned|stunned 1]].\n__Failure__ The esobok wrenches the target's soul from its body into its jaws. Mindless undead creatures of level 2 or lower are destroyed, other undead creatures are [[stunned|stunned]] for 1 round, and all other creatures are [[paralyzed|paralyzed]]. At the end of each of its turns, a creature [[paralyzed|paralyzed]] by this effect can attempt a new save to end the effect. The paralysis ends automatically if the esobok attempts a jaws [[Strike]] or speaks.\n__Critical Failure__ As failure, but as long as a creature is [[stunned|stunned]] or [[paralyzed|paralyzed]], it is also [[stupefied|stupefied 2]]."
 
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +11 (1d20+11); __Ref__: +8 (1d20+8); __Will__: +8 (1d20+8);"
+hp: 55
 health:
   - name: HP
     desc: "55;  __Immunities__ death effects, disease;"
@@ -55,9 +54,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +12 ([[magical]]); __Damage__ 1 (1d10+3) piercing plus Grab and spirit touch"
+    desc: "⬻ jaws +12 ([[magical]]); __Damage__ 1d10+3 (1d10+3) piercing plus Grab and spirit touch"
   - name: Melee
-    desc: "⬻ claw +12 ([[agile]], [[magical]]); __Damage__ 1 (1d6+3) slashing plus spirit touch"
+    desc: "⬻ claw +12 ([[agile]], [[magical]]); __Damage__ 1d6+3 (1d6+3) slashing plus spirit touch"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 208."
 ```
 
-### Encounter
 ```encounter-table
 name: Esobok
 creatures:

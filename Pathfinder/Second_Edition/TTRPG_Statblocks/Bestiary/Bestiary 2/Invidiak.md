@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Invidiak"
+statblock: inline
 name: "Invidiak"
-hp: 90
-ac: 22
-modifier: 15
 level: 7
 ---
-### Invidiak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Demon"
 trait_04: "Fiend"
 trait_05: "Incorporeal"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -37,7 +35,7 @@ abilityMods: [-5, 4, 3, 2, 2, 5]
 
 abilities_mid:
   - name: "Exorcism Vulnerability"
-    desc: "  If an invidiak attempts to possess a creature and the creature rolls a critical success on its saving throw to resist possession, or if an invidiak's possession of a creature is ended prematurely, such as via a successful dispel magic, the invidiak takes 1 (6d6) mental damage and cannot use possession for 24 hours."
+    desc: "  If an invidiak attempts to possess a creature and the creature rolls a critical success on its saving throw to resist possession, or if an invidiak's possession of a creature is ended prematurely, such as via a successful dispel magic, the invidiak takes 6d6 (6d6) mental damage and cannot use possession for 24 hours."
 abilities_bot:
   - name: "Favored Host"
     desc: "  Each invidiak has a particular type of creature they prefer possessing, chosen from the following list: aberration, animal, beast, or any humanoid (such as dwarf)—in most cases, the favored type of target is human. When an invidiak uses possession against a favored host, the duration of possession increases to unlimited, and the effect lasts until dispelled or until the invidiak dismisses it."
@@ -52,6 +50,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +15 (1d20+15); __Ref__: +16 (1d20+16); __Will__: +13 (1d20+13);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ poison, precision, disease; __Weaknesses__ cold iron 5, good 5;"
@@ -59,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +13 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 1 (2d8) cold plus 1 (2d6) evil"
+    desc: "⬻ claw +13 ([[agile]], [[evil]], [[finesse]], [[magical]]); __Damage__ 2d8 (2d8) cold plus 2d6 (2d6) evil"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 65."
 ```
 
-### Encounter
 ```encounter-table
 name: Invidiak
 creatures:

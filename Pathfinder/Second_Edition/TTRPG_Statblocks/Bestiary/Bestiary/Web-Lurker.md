@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Web Lurker"
+statblock: inline
 name: "Web Lurker"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### Web Lurker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "NE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -41,7 +39,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ A creature touches the web lurker's web while the web lurker is on it. __Effect__  Requirement Initiative has not yet been rolled. The web lurker automatically notices the creature and [[Stride|Strides]] or Climbs before rolling initiative."
 abilities_bot:
   - name: "Web Lurker Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1 (1d6) poison and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1 (1d6) poison, [[flat-footed|flat-footed]], and [[slowed|slowed 1]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 19 Fortitude. __Maximum Duration__ 10 rounds __Stage 1__ 1d6 (1d6) poison and [[flat-footed|flat-footed]] (1 round) __Stage 2__ 1d6 (1d6) poison, [[flat-footed|flat-footed]], and [[slowed|slowed 1]] (1 round)"
   - name: "Web Trap"
     desc: "  A creature hit by the web lurker's web attack is [[immobilized|immobilized]] and stuck to the nearest surface until it succeeds at DC 20 [[Acrobatics]] check to [[Escape]]."
   - name: "Web Lurker Traps"
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +10 (1d20+10); __Ref__: +11 (1d20+11); __Will__: +8 (1d20+8);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -60,16 +59,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +11 ([[poison]]); __Damage__ 1 (1d8+6) piercing plus web lurker venom"
+    desc: "⬻ fangs +11 ([[poison]]); __Damage__ 1d8+6 (1d8+6) piercing plus web lurker venom"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d8+6) slashing"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d8+6 (1d8+6) slashing"
   - name: Melee
     desc: "⬻ web +11 __Damage__ web trap"
 
 sourcebook: "_Bestiary_, page 325."
 ```
 
-### Encounter
 ```encounter-table
 name: Web Lurker
 creatures:

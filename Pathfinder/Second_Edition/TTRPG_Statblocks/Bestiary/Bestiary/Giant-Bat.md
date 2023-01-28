@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Bat"
+statblock: inline
 name: "Giant Bat"
-hp: 30
-ac: 18
-modifier: 11
 level: 2
 ---
-### Giant Bat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __precise echolocation 40__, __low-light vision__;"
@@ -45,6 +43,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +7 (1d20+7);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -52,14 +51,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +10 __Damage__ 1 (1d10+4) slashing"
+    desc: "⬻ fangs +10 __Damage__ 1d10+4 (1d10+4) slashing"
   - name: Melee
-    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ wing +10 ([[agile]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 39."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Bat
 creatures:

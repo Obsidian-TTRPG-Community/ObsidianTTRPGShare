@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Naiad Queen"
+statblock: inline
 name: "Naiad Queen"
-hp: 100
-ac: 26
-modifier: 18
 level: 7
 ---
-### Naiad Queen
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_04: "Amphibious"
 trait_05: "Fey"
 trait_06: "Nymph"
 trait_07: "Water"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__, __speak with animals__;"
@@ -61,6 +59,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +17 (1d20+17);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Weaknesses__ cold iron 10; __Resistances__ fire 10"
@@ -68,7 +67,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aqueous fist +17 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ aqueous fist +17 ([[agile]], [[finesse]], [[magical]], [[water]]); __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 spellcasting:
   - name: "Primal Prepared Spells"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 248."
 ```
 
-### Encounter
 ```encounter-table
 name: Naiad Queen
 creatures:

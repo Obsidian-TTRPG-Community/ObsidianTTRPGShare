@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Desert Drake"
+statblock: inline
 name: "Desert Drake"
-hp: 135
-ac: 27
-modifier: 15
 level: 8
 ---
-### Desert Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Earth"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 30__;"
@@ -41,7 +39,7 @@ abilities_bot:
   - name: "Draconic Frenzy"
     desc: "⬺  The desert drake makes two fangs [[Strike|Strikes]] and one tail [[Strike]] in any order."
   - name: "Sandstorm Breath"
-    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The desert drake spits a ball of electrically charged sand to a range of 60 feet that explodes into a cloud with a 15-foot-radius burst. Creatures in the area take 1 (9d6) electricity damage (DC 27 basic Reflex save). The cloud remains for 1 (1d4) rounds, granting concealment to everything within. The desert drake can't use Sandstorm Breath again for 1 (1d6) rounds."
+    desc: "⬺ ([[arcane]], [[electricity]], [[evocation]]);  The desert drake spits a ball of electrically charged sand to a range of 60 feet that explodes into a cloud with a 15-foot-radius burst. Creatures in the area take 9d6 (9d6) electricity damage (DC 27 basic Reflex save). The cloud remains for 1d4 (1d4) rounds, granting concealment to everything within. The desert drake can't use Sandstorm Breath again for 1d6 (1d6) rounds."
   - name: "Speed Surge"
     desc: "⬻ __Frequency__ three times per day  __Effect__  The desert drake [[Stride|Strides]] or [[Fly|Flies]] twice."
 
@@ -51,6 +49,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +13 (1d20+13);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ paralyzed, unconscious; __Resistances__ electricity 16"
@@ -58,14 +57,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +20 __Damage__ 1 (2d12+8) piercing plus 1 (1d6) electricity"
+    desc: "⬻ fangs +20 __Damage__ 2d12+8 (2d12+8) piercing plus 1d6 (1d6) electricity"
   - name: Melee
-    desc: "⬻ tail +20 ([[reach|reach 10 feet]]); __Damage__ 1 (2d10+8) bludgeoning plus Push 5 feet"
+    desc: "⬻ tail +20 ([[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) bludgeoning plus Push 5 feet"
 
 sourcebook: "_Bestiary_, page 135."
 ```
 
-### Encounter
 ```encounter-table
 name: Desert Drake
 creatures:

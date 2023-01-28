@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Goblin Warrior"
+statblock: inline
 name: "Goblin Warrior"
-hp: 6
-ac: 16
-modifier: 2
 level: -1
 ---
-### Goblin Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 2
 perception:
   - name: "Perception"
     desc: "Perception +2; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +3 (1d20+3);"
+hp: 6
 health:
   - name: HP
     desc: "6; "
@@ -54,14 +53,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ dogslicer +8 ([[agile]], [[backstabber]], [[finesse]]); __Damage__ 1 (1d6) slashing"
+    desc: "⬻ dogslicer +8 ([[agile]], [[backstabber]], [[finesse]]); __Damage__ 1d6 (1d6) slashing"
   - name: Ranged
-    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +8 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 180."
 ```
 
-### Encounter
 ```encounter-table
 name: Goblin Warrior
 creatures:

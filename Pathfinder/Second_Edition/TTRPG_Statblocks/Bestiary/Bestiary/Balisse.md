@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Balisse"
+statblock: inline
 name: "Balisse"
-hp: 145
-ac: 26
-modifier: 18
 level: 8
 ---
-### Balisse
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Medium"
 trait_03: "Angel"
 trait_04: "Celestial"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +18 (1d20+18);"
+hp: 145
 health:
   - name: HP
     desc: "145;  __Weaknesses__ evil 10; __Resistances__ fire 15"
@@ -61,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flaming scimitar +20 ([[fire]], [[forceful]], [[good]], [[magical]], [[sweep]]); __Damage__ 1 (2d6+8) slashing plus 1 (1d6) fire and 1 (1d6) good"
+    desc: "⬻ flaming scimitar +20 ([[fire]], [[forceful]], [[good]], [[magical]], [[sweep]]); __Damage__ 2d6+8 (2d6+8) slashing plus 1d6 (1d6) fire and 1d6 (1d6) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 18."
 ```
 
-### Encounter
 ```encounter-table
 name: Balisse
 creatures:

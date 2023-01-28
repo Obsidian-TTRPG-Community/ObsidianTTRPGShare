@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Duskwalker Ghost Hunter"
+statblock: inline
 name: "Duskwalker Ghost Hunter"
-hp: 56
-ac: 21
-modifier: 10
 level: 4
 ---
-### Duskwalker Ghost Hunter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Duskwalker"
 trait_04: "Human"
 trait_05: "Humanoid"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21;  (22 against prey; see Hunt Prey); __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 56
 health:
   - name: HP
     desc: "56;  __Immunities__ effects that would transform their body or soul to an undead;"
@@ -59,16 +58,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hatchet +12 ([[agile]], [[sweep]]); __Damage__ 1 (1d6+5) slashing"
+    desc: "⬻ hatchet +12 ([[agile]], [[sweep]]); __Damage__ 1d6+5 (1d6+5) slashing"
   - name: Ranged
-    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1 (1d8+4) piercing"
+    desc: "⬻ composite longbow +14 ([[deadly|deadly 1d10]], [[propulsive]], [[range increment|range increment 100 feet]], [[reload|reload 0]], [[volley|volley 30 feet]]); __Damage__ 1d8+4 (1d8+4) piercing"
   - name: Ranged
-    desc: "⬻ hatchet +14 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1 (1d6+5) slashing"
+    desc: "⬻ hatchet +14 ([[agile]], [[sweep]], [[thrown|thrown 10 feet]]); __Damage__ 1d6+5 (1d6+5) slashing"
 
 sourcebook: "_Bestiary_, page 262."
 ```
 
-### Encounter
 ```encounter-table
 name: Duskwalker Ghost Hunter
 creatures:

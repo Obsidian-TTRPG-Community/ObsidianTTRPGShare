@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Changeling Exile"
+statblock: inline
 name: "Changeling Exile"
-hp: 45
-ac: 19
-modifier: 11
 level: 3
 ---
-### Changeling Exile
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Changeling"
 trait_04: "Human"
 trait_05: "Humanoid"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -42,6 +40,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -49,9 +48,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claws +11 ([[agile]]); __Damage__ 1 (1d4+4) slashing"
+    desc: "⬻ claws +11 ([[agile]]); __Damage__ 1d4+4 (1d4+4) slashing"
   - name: Melee
-    desc: "⬻ staff +11 ([[two-hand|two-hand d8]]); __Damage__ 1 (1d4+4) bludgeoning"
+    desc: "⬻ staff +11 ([[two-hand|two-hand d8]]); __Damage__ 1d4+4 (1d4+4) bludgeoning"
 
 spellcasting:
   - name: "Primal Prepared Spells"
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 62."
 ```
 
-### Encounter
 ```encounter-table
 name: Changeling Exile
 creatures:

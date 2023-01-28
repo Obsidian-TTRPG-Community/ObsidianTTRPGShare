@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Young Red Dragon"
+statblock: inline
 name: "Young Red Dragon"
-hp: 210
-ac: 30
-modifier: 20
 level: 10
 ---
-### Young Red Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __imprecise scent 60__, __smoke vision__;"
@@ -44,7 +42,7 @@ abilities_mid:
     desc: "⬲  Jaws only."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 1 (11d6) fire damage in a 40-foot cone (DC 30 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 11d6 (11d6) fire damage in a 40-foot cone (DC 30 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -56,6 +54,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +21 (1d20+21); __Ref__: +18 (1d20+18); __Will__: +19 (1d20+19);"
+hp: 210
 health:
   - name: HP
     desc: "210;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -63,13 +62,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+12) piercing plus 1 (2d6) fire"
+    desc: "⬻ jaws +23 ([[fire]], [[reach|reach 10 feet]]); __Damage__ 2d12+12 (2d12+12) piercing plus 2d6 (2d6) fire"
   - name: Melee
-    desc: "⬻ claw +23 ([[agile]]); __Damage__ 1 (2d10+12) slashing"
+    desc: "⬻ claw +23 ([[agile]]); __Damage__ 2d10+12 (2d10+12) slashing"
   - name: Melee
-    desc: "⬻ tail +21 ([[reach|reach 15 feet]]); __Damage__ 1 (2d12+10) slashing"
+    desc: "⬻ tail +21 ([[reach|reach 15 feet]]); __Damage__ 2d12+10 (2d12+10) slashing"
   - name: Melee
-    desc: "⬻ wing +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (1d10+10) slashing"
+    desc: "⬻ wing +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1d10+10 (1d10+10) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Red Dragon
 creatures:

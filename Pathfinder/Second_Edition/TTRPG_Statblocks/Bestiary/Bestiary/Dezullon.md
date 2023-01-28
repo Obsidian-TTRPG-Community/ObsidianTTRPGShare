@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Dezullon"
+statblock: inline
 name: "Dezullon"
-hp: 130
-ac: 30
-modifier: 18
 level: 10
 ---
-### Dezullon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "N"
 size: "Medium"
 trait_03: "Plant"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__;"
@@ -39,7 +37,7 @@ abilities_bot:
   - name: "Amnesia Venom"
     desc: " ([[mental]], [[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ [[flat-footed|flat-footed]] (1 round) __Stage 2__ [[flat-footed|flat-footed]] and [[clumsy|clumsy 1]] (1 round) __Stage 3__ [[confused|confused]], [[flat-footed|flat-footed]], and [[clumsy|clumsy 2]]. (1 round)"
   - name: "Constrict"
-    desc: "⬻  1 (2d6+2) bludgeoning."
+    desc: "⬻  2d6+2 (2d6+2) bludgeoning."
   - name: "Root"
     desc: "⬻ ([[concentrate]]);  Until the next time it acts, the dezullon appears to be a normal pitcher plant. It has an automatic result of 41 (44 in forests or swamps) on [[Deception]] checks and DCs to pass as a non-creature plant."
 
@@ -49,6 +47,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +17 (1d20+17); __Ref__: +21 (1d20+21); __Will__: +16 (1d20+16);"
+hp: 130
 health:
   - name: HP
     desc: "130; [[regeneration]] 15 (deactivated by fire); __Resistances__ acid 20"
@@ -56,14 +55,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ vine +21 ([[acid]], [[agile]]); __Damage__ 1 (3d6+8) bludgeoning plus 1 (3d6) acid and Grab"
+    desc: "⬻ vine +21 ([[acid]], [[agile]]); __Damage__ 3d6+8 (3d6+8) bludgeoning plus 3d6 (3d6) acid and Grab"
   - name: Ranged
-    desc: "⬻ acid glob +23 ([[acid]], [[range|range 30 feet]]); __Damage__ 1 (4d8) acid plus amnesia venom"
+    desc: "⬻ acid glob +23 ([[acid]], [[range|range 30 feet]]); __Damage__ 4d8 (4d8) acid plus amnesia venom"
 
 sourcebook: "_Bestiary_, page 94."
 ```
 
-### Encounter
 ```encounter-table
 name: Dezullon
 creatures:

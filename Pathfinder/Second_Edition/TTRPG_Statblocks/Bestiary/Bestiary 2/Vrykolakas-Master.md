@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Vrykolakas Master"
+statblock: inline
 name: "Vrykolakas Master"
-hp: 190
-ac: 30
-modifier: 19
 level: 10
 ---
-### Vrykolakas Master
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Undead"
 trait_04: "Vampire"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +19 (1d20+19); __Ref__: +21 (1d20+21); __Will__: +17 (1d20+17);"
+hp: 190
 health:
   - name: HP
     desc: "190; negative healing; __Immunities__ poison, death effects, disease, paralyze, sleep;"
@@ -60,12 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +23 __Damage__ 1 (2d12+13) piercing plus"
+    desc: "⬻ fangs +23 __Damage__ 2d12+13 (2d12+13) piercing plus"
 
 sourcebook: "_Bestiary 2_, page 276."
 ```
 
-### Encounter
 ```encounter-table
 name: Vrykolakas Master
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Tengu Sneak"
+statblock: inline
 name: "Tengu Sneak"
-hp: 27
-ac: 19
-modifier: 6
 level: 2
 ---
-### Tengu Sneak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Tengu"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -36,7 +34,7 @@ abilityMods: [2, 4, 1, 1, 0, 1]
 
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The tengu deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The tengu deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Surprise Attacker"
     desc: "  On the first round of combat, creatures that haven't acted yet are [[flat-footed|flat-footed]] to the tengu."
 abilities_top:
@@ -49,6 +47,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +4 (1d20+4);"
+hp: 27
 health:
   - name: HP
     desc: "27; "
@@ -56,16 +55,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ rapier +10 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ rapier +10 ([[deadly|deadly 1d8]], [[disarm]], [[finesse]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Melee
-    desc: "⬻ beak +10 ([[finesse]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ beak +10 ([[finesse]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Ranged
-    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1 (1d6) piercing"
+    desc: "⬻ shortbow +10 ([[deadly|deadly 1d10]], [[range increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Bestiary_, page 310."
 ```
 
-### Encounter
 ```encounter-table
 name: Tengu Sneak
 creatures:

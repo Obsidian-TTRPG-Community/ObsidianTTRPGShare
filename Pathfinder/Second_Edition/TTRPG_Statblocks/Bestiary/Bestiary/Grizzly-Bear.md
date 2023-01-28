@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Grizzly Bear"
+statblock: inline
 name: "Grizzly Bear"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### Grizzly Bear
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +12 (1d20+12); __Ref__: +6 (1d20+6); __Will__: +8 (1d20+8);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -51,14 +50,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +11 __Damage__ 1 (2d8+4) piercing"
+    desc: "⬻ jaws +11 __Damage__ 2d8+4 (2d8+4) piercing"
   - name: Melee
-    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1 (1d10+4) slashing plus Grab"
+    desc: "⬻ claw +11 ([[agile]]); __Damage__ 1d10+4 (1d10+4) slashing plus Grab"
 
 sourcebook: "_Bestiary_, page 40."
 ```
 
-### Encounter
 ```encounter-table
 name: Grizzly Bear
 creatures:

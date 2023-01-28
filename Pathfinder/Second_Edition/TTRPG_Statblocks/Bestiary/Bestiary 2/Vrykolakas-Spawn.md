@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Vrykolakas Spawn"
+statblock: inline
 name: "Vrykolakas Spawn"
-hp: 99
-ac: 24
-modifier: 14
 level: 6
 ---
-### Vrykolakas Spawn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Undead"
 trait_04: "Vampire"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +14 (1d20+14); __Ref__: +16 (1d20+16); __Will__: +12 (1d20+12);"
+hp: 99
 health:
   - name: HP
     desc: "99; negative healing; __Immunities__ poison, death effects, disease, paralyze, sleep;"
@@ -58,14 +57,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +17 __Damage__ 1 (2d8+8) piercing plus Drink Blood"
+    desc: "⬻ fangs +17 __Damage__ 2d8+8 (2d8+8) piercing plus Drink Blood"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+8) slashing"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+8 (2d6+8) slashing"
 
 sourcebook: "_Bestiary 2_, page 276."
 ```
 
-### Encounter
 ```encounter-table
 name: Vrykolakas Spawn
 creatures:

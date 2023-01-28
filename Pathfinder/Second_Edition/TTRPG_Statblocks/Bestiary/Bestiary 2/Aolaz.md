@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Aolaz"
+statblock: inline
 name: "Aolaz"
-hp: 255
-ac: 42
-modifier: 33
 level: 18
 ---
-### Aolaz
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Gargantuan"
 trait_04: "Construct"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __flawless hearing__, __low-light vision__;"
@@ -42,7 +40,7 @@ abilities_bot:
   - name: "Trample"
     desc: "⬺  Huge or smaller, foot, DC 40."
   - name: "Ultrasonic Blast"
-    desc: "⬻ ([[arcane]], [[evocation]], [[sonic]]);  The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 1 (12d10) sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[stunned|stunned 1]].\n__Failure__ The creature takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The creature takes double damage and is [[stunned|stunned 3]]."
+    desc: "⬻ ([[arcane]], [[evocation]], [[sonic]]);  The aolaz releases a tremendous blast of sonic energy from its trunk in a 150-foot line, dealing 12d10 (12d10) sonic damage. The frequency of this sound is such that it is completely imperceptible to humanoids, but the damage it wreaks is all too evident. Each creature in the area must attempt a DC 40 Fortitude save. The aolaz can't use Ultrasonic Blast again for 1d4 (1d4) rounds.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature takes half damage and is [[stunned|stunned 1]].\n__Failure__ The creature takes full damage and is [[stunned|stunned 2]].\n__Critical Failure__ The creature takes double damage and is [[stunned|stunned 3]]."
 
 speed: 50 feet; air walk, water walk;
 
@@ -50,6 +48,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +35 (1d20+35); __Ref__: +27 (1d20+27); __Will__: +31 (1d20+31);"
+hp: 255
 health:
   - name: HP
     desc: "255;  __Immunities__ bleed, poison, sonic, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -57,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trunk +35 ([[magical]], [[reach|reach 20 feet]], [[sweep]], [[trip]]); __Damage__ 1 (5d10+17) bludgeoning plus Grab"
+    desc: "⬻ trunk +35 ([[magical]], [[reach|reach 20 feet]], [[sweep]], [[trip]]); __Damage__ 5d10+17 (5d10+17) bludgeoning plus Grab"
   - name: Melee
-    desc: "⬻ foot +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (5d8+15) bludgeoning"
+    desc: "⬻ foot +33 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 5d8+15 (5d8+15) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 21."
 ```
 
-### Encounter
 ```encounter-table
 name: Aolaz
 creatures:

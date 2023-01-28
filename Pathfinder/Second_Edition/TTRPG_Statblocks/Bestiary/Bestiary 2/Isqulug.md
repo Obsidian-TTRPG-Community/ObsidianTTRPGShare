@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Isqulug"
+statblock: inline
 name: "Isqulug"
-hp: 230
-ac: 31
-modifier: 24
 level: 11
 ---
-### Isqulug
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Aberration"
 trait_05: "Amphibious"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __greater darkvision__, __host scent 30__;"
@@ -40,7 +38,7 @@ abilities_top:
     desc: "  An isqulug can precisely sense any creature infected with isqulugia within 30 feet, and knows the current stage of the disease."
 abilities_bot:
   - name: "Expel Infestation"
-    desc: "⬺  The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 1 (6d10) piercing damage as the swarm feeds on their flesh (DC 30 basic Reflex save). Any creature that takes damage is exposed to isqulugia. The isqulug becomes [[stupefied|stupefied 1]] for 1 (1d4) rounds, during which it can't Expel Infestation."
+    desc: "⬺  The isqulug expels larvae from the hivemind in its head in a 30-foot cone. Creatures in this area take 6d10 (6d10) piercing damage as the swarm feeds on their flesh (DC 30 basic Reflex save). Any creature that takes damage is exposed to isqulugia. The isqulug becomes [[stupefied|stupefied 1]] for 1d4 (1d4) rounds, during which it can't Expel Infestation."
   - name: "Isqulugia"
     desc: " ([[disease]], [[incapacitation]], [[primal]], [[transmutation]], [[virulent]]);  __Saving Throw__ DC 30 Fortitude. __Stage 1__ [[sickened|sickened 1]] (1 hour) __Stage 2__ [[fatigued|fatigued]] and [[sickened|sickened 2]] (1 day) __Stage 3__ [[fatigued|fatigued]] and [[slowed|slowed 1]] (1 day) __Stage 4__ [[paralyzed|paralyzed]] (1 day) __Stage 5__ the creature dies, and its body violently transforms into a new isqulug. (null)"
   - name: "Malleability"
@@ -54,6 +52,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; all-around vision; __Fort__: +24 (1d20+24); __Ref__: +20 (1d20+20); __Will__: +18 (1d20+18);"
+hp: 230
 health:
   - name: HP
     desc: "230; [[regeneration]] 10 (deactivated by cold); __Immunities__ swarm mind; __Weaknesses__ cold 10;"
@@ -61,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tentacle +22 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d12+11) bludgeoning plus isqulugia"
+    desc: "⬻ tentacle +22 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d12+11 (2d12+11) bludgeoning plus isqulugia"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 149."
 ```
 
-### Encounter
 ```encounter-table
 name: Isqulug
 creatures:

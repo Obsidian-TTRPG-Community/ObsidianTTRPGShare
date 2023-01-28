@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Unicorn"
+statblock: inline
 name: "Unicorn"
-hp: 45
-ac: 20
-modifier: 13
 level: 3
 ---
-### Unicorn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Beast"
 trait_04: "Fey"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __imprecise scent 30__;"
@@ -42,7 +40,7 @@ abilities_bot:
   - name: "Ghost Touch"
     desc: "  A unicorn's [[Strike|Strikes]] have the effects of a ghost touch property rune."
   - name: "Powerful Charge"
-    desc: "⬺  The unicorn [[Stride|Strides]] up to double its Speed in a straight line and then makes a horn [[Strike]]. If the unicorn moved at least 20 feet, it deals an additional 1 (2d6) damage on a hit."
+    desc: "⬺  The unicorn [[Stride|Strides]] up to double its Speed in a straight line and then makes a horn [[Strike]]. If the unicorn moved at least 20 feet, it deals an additional 2d6 (2d6) damage on a hit."
 
 speed: 45 feet
 
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +10 (1d20+10); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -57,9 +56,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ horn +12 ([[good]], [[magical]]); __Damage__ 1 (1d10+4) piercing plus 1 (1d6) good and ghost touch"
+    desc: "⬻ horn +12 ([[good]], [[magical]]); __Damage__ 1d10+4 (1d10+4) piercing plus 1d6 (1d6) good and ghost touch"
   - name: Melee
-    desc: "⬻ hoof +12 ([[agile]], [[magical]]); __Damage__ 1 (1d8+4) bludgeoning and ghost touch"
+    desc: "⬻ hoof +12 ([[agile]], [[magical]]); __Damage__ 1d8+4 (1d8+4) bludgeoning and ghost touch"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 316."
 ```
 
-### Encounter
 ```encounter-table
 name: Unicorn
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Earthen Destrier"
+statblock: inline
 name: "Earthen Destrier"
-hp: 72
-ac: 20
-modifier: 10
 level: 4
 ---
-### Earthen Destrier
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +14 (1d20+14); __Ref__: +9 (1d20+9); __Will__: +10 (1d20+10);"
+hp: 72
 health:
   - name: HP
     desc: "72; "
@@ -57,14 +56,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ lance arm +14 ([[deadly|deadly d8]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) piercing and lancing charge"
+    desc: "⬻ lance arm +14 ([[deadly|deadly d8]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) piercing and lancing charge"
   - name: Melee
-    desc: "⬻ hoof +14 __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ hoof +14 __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 sourcebook: "_Bestiary 2_, page 108."
 ```
 
-### Encounter
 ```encounter-table
 name: Earthen Destrier
 creatures:

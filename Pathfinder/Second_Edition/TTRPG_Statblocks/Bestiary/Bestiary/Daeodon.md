@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Daeodon"
+statblock: inline
 name: "Daeodon"
-hp: 60
-ac: 21
-modifier: 12
 level: 4
 ---
-### Daeodon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +9 (1d20+9); __Will__: +10 (1d20+10);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -52,12 +51,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ tusk +14 __Damage__ 1 (2d8+6) piercing"
+    desc: "⬻ tusk +14 __Damage__ 2d8+6 (2d8+6) piercing"
 
 sourcebook: "_Bestiary_, page 43."
 ```
 
-### Encounter
 ```encounter-table
 name: Daeodon
 creatures:

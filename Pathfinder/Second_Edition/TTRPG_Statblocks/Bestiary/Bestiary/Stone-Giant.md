@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Stone Giant"
+statblock: inline
 name: "Stone Giant"
-hp: 150
-ac: 27
-modifier: 16
 level: 8
 ---
-### Stone Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Earth"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +14 (1d20+14); __Will__: +14 (1d20+14);"
+hp: 150
 health:
   - name: HP
     desc: "150; "
@@ -61,16 +60,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ greatclub +21 ([[backswing]], [[magical]], [[reach|reach 10 feet]], [[shove]]); __Damage__ 1 (2d10+12) bludgeoning"
+    desc: "⬻ greatclub +21 ([[backswing]], [[magical]], [[reach|reach 10 feet]], [[shove]]); __Damage__ 2d10+12 (2d10+12) bludgeoning"
   - name: Melee
-    desc: "⬻ fist +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d6+14) bludgeoning"
+    desc: "⬻ fist +20 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d6+14 (2d6+14) bludgeoning"
   - name: Ranged
-    desc: "⬻ rock +18 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 1 (2d6+12) bludgeoning"
+    desc: "⬻ rock +18 ([[brutal]], [[range increment|range increment 120 feet]]); __Damage__ 2d6+12 (2d6+12) bludgeoning"
 
 sourcebook: "_Bestiary_, page 170."
 ```
 
-### Encounter
 ```encounter-table
 name: Stone Giant
 creatures:

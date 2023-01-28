@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Giant Amoeba"
+statblock: inline
 name: "Giant Amoeba"
-hp: 45
-ac: 8
-modifier: 4
 level: 1
 ---
-### Giant Amoeba
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Amphibious"
 trait_04: "Mindless"
 trait_05: "Ooze"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __motion sense 60__, __no vision__;"
@@ -39,9 +37,9 @@ abilities_top:
     desc: "  An amoeba swarm can sense nearby creatures through vibration and air or water movement."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d4) bludgeoning plus 1 (1d4) acid, DC 17."
+    desc: "⬻  1d4 (1d4) bludgeoning plus 1d4 (1d4) acid, DC 17."
   - name: "Envelop"
-    desc: "⬽ __Requirements__ The giant amoeba begins its turn with a target its size or smaller [[grabbed|grabbed]]  __Effect__  The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1 (1d6) acid, [[Escape]] DC 17, Rupture 3)."
+    desc: "⬽ __Requirements__ The giant amoeba begins its turn with a target its size or smaller [[grabbed|grabbed]]  __Effect__  The giant amoeba maintains the Grab and extends pseudopods to surround the creature and pull it inside the amoeba's body. This thereafter has the same effect as if the amoeba had Engulfed the creature (DC 17, 1d6 (1d6) acid, [[Escape]] DC 17, Rupture 3)."
   - name: "Weak Acid"
     desc: "  An amoeba's acid damages only organic material—not metal, stone, or other inorganic substances."
 
@@ -51,6 +49,7 @@ ac: 8
 armorclass:
   - name: AC
     desc: "8; __Fort__: +7 (1d20+7); __Ref__: +3 (1d20+3); __Will__: +5 (1d20+5);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Immunities__ acid, mental, precision, critical hits, unconscious, visual;"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ pseudopod +8 __Damage__ 1 (1d6) acid plus Grab"
+    desc: "⬻ pseudopod +8 __Damage__ 1d6 (1d6) acid plus Grab"
 
 sourcebook: "_Bestiary 2_, page 192."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Amoeba
 creatures:

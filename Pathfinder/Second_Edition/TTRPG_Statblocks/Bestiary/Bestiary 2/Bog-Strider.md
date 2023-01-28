@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Bog Strider"
+statblock: inline
 name: "Bog Strider"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Bog Strider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Medium"
 trait_04: "Aberration"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __wavesense 120__;"
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -60,16 +59,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +8 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +8 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Melee
-    desc: "⬻ mandibles +8 ([[agile]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ mandibles +8 ([[agile]]); __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ spear +10 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ spear +10 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Bestiary 2_, page 43."
 ```
 
-### Encounter
 ```encounter-table
 name: Bog Strider
 creatures:

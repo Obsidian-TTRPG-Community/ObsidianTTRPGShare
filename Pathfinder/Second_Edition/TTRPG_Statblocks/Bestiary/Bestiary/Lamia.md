@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Lamia"
+statblock: inline
 name: "Lamia"
-hp: 95
-ac: 24
-modifier: 13
 level: 6
 ---
-### Lamia
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "CE"
 size: "Large"
 trait_03: "Beast"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +12 (1d20+12); __Ref__: +15 (1d20+15); __Will__: +15 (1d20+15);"
+hp: 95
 health:
   - name: HP
     desc: "95; "
@@ -53,13 +52,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ spear +17 __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ spear +17 __Damage__ 1d6+8 (1d6+8) piercing"
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (1d6+8) slashing plus Grab"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1d6+8 (1d6+8) slashing plus Grab"
   - name: Ranged
-    desc: "⬻ spear +14 ([[thrown|thrown 20 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+8) piercing"
+    desc: "⬻ spear +14 ([[thrown|thrown 20 feet]], [[versatile|versatile s]]); __Damage__ 1d4+8 (1d4+8) piercing"
   - name: Ranged
-    desc: "⬻ javelin +15 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+8) piercing"
+    desc: "⬻ javelin +15 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+8 (1d6+8) piercing"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 216."
 ```
 
-### Encounter
 ```encounter-table
 name: Lamia
 creatures:

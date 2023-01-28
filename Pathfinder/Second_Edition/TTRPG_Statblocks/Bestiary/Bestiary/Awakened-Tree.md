@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Awakened Tree"
+statblock: inline
 name: "Awakened Tree"
-hp: 100
-ac: 22
-modifier: 13
 level: 6
 ---
-### Awakened Tree
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Huge"
 trait_03: "Plant"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__;"
@@ -43,6 +41,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +16 (1d20+16); __Ref__: +9 (1d20+9); __Will__: +13 (1d20+13);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Weaknesses__ axe vulnerability , fire 10; __Resistances__ bludgeoning 5, piercing 5"
@@ -50,14 +49,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ branch +16 ([[reach|reach 15 feet]]); __Damage__ 1 (2d8+6) bludgeoning"
+    desc: "⬻ branch +16 ([[reach|reach 15 feet]]); __Damage__ 2d8+6 (2d8+6) bludgeoning"
   - name: Melee
-    desc: "⬻ root +16 ([[trip]]); __Damage__ 1 (2d6+6) bludgeoning"
+    desc: "⬻ root +16 ([[trip]]); __Damage__ 2d6+6 (2d6+6) bludgeoning"
 
 sourcebook: "_Bestiary_, page 25."
 ```
 
-### Encounter
 ```encounter-table
 name: Awakened Tree
 creatures:

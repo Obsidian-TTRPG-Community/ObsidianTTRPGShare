@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Lizardfolk Defender"
+statblock: inline
 name: "Lizardfolk Defender"
-hp: 21
-ac: 16
-modifier: 7
 level: 1
 ---
-### Lizardfolk Defender
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Lizardfolk"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7;"
@@ -54,6 +52,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16;  (18 with shield raised); __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 21
 health:
   - name: HP
     desc: "21; "
@@ -61,18 +60,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flail +8 ([[disarm]], [[sweep]], [[trip]]); __Damage__ 1 (1d6+3) bludgeoning"
+    desc: "⬻ flail +8 ([[disarm]], [[sweep]], [[trip]]); __Damage__ 1d6+3 (1d6+3) bludgeoning"
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ jaws +8 __Damage__ 1d6+3 (1d6+3) piercing"
   - name: Melee
-    desc: "⬻ tail +8 ([[agile]]); __Damage__ 1 (1d4+3) bludgeoning"
+    desc: "⬻ tail +8 ([[agile]]); __Damage__ 1d4+3 (1d4+3) bludgeoning"
   - name: Ranged
-    desc: "⬻ javelin +7 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+3) piercing"
+    desc: "⬻ javelin +7 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+3 (1d6+3) piercing"
 
 sourcebook: "_Bestiary_, page 230."
 ```
 
-### Encounter
 ```encounter-table
 name: Lizardfolk Defender
 creatures:

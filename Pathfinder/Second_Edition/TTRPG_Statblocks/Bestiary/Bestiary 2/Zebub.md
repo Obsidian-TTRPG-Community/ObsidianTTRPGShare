@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Zebub"
+statblock: inline
 name: "Zebub"
-hp: 30
-ac: 20
-modifier: 12
 level: 3
 ---
-### Zebub
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __greater darkvision__;"
@@ -40,7 +38,7 @@ abilities_bot:
   - name: "Infernal Eye"
     desc: "⬽ ([[divine]], [[divination]]);  The zebub records everything they see, and though they don't remember all observations, they can pass them along to another creature. The zebub replays 10 minutes of witnessed events to a touched willing creature, which receives the memories in a flash of information. By remaining in contact, the zebub can spend additional 3-action activities to replay more information. After relaying their visions to another, the zebub can't ever recall those events again."
   - name: "Sneak Attack"
-    desc: "  The zebub's [[Strike|Strikes]] deal an additional 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The zebub's [[Strike|Strikes]] deal an additional 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 15 feet, fly 50 feet
 
@@ -48,6 +46,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30;  __Immunities__ fire; __Weaknesses__ good 5; __Resistances__ physical 5"
@@ -55,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +12 ([[evil]], [[finesse]], [[magical]]); __Damage__ 1 (1d10+3) piercing plus 1 (1d6) evil and Cocytan filth"
+    desc: "⬻ mandibles +12 ([[evil]], [[finesse]], [[magical]]); __Damage__ 1d10+3 (1d10+3) piercing plus 1d6 (1d6) evil and Cocytan filth"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 72."
 ```
 
-### Encounter
 ```encounter-table
 name: Zebub
 creatures:

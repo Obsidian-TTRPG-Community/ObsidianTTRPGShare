@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Greater Shadow"
+statblock: inline
 name: "Greater Shadow"
-hp: 75
-ac: 24
-modifier: 14
 level: 7
 ---
-### Greater Shadow
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Incorporeal"
 trait_04: "Undead"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +11 (1d20+11); __Ref__: +18 (1d20+18); __Will__: +15 (1d20+15);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ light vulnerability ; __Resistances__ all 10 (except force, ghost touch, or positive; double resistance against non-magical)"
@@ -58,7 +57,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shadow hand +18 ([[finesse]], [[magical]]); __Damage__ 1 (2d10+6) negative"
+    desc: "⬻ shadow hand +18 ([[finesse]], [[magical]]); __Damage__ 2d10+6 (2d10+6) negative"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 289."
 ```
 
-### Encounter
 ```encounter-table
 name: Greater Shadow
 creatures:

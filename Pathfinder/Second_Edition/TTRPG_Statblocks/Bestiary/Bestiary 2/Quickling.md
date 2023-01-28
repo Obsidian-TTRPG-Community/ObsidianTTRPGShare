@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Quickling"
+statblock: inline
 name: "Quickling"
-hp: 25
-ac: 22
-modifier: 9
 level: 3
 ---
-### Quickling
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Small"
 trait_04: "Fey"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __low-light vision__;"
@@ -44,7 +42,7 @@ abilities_top:
     desc: "lethargy poison (3 doses), shortsword;"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  The quickling's [[Strike|Strikes]] deal an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  The quickling's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
   - name: "Supernatural Speed"
     desc: "  The quickling's speed, combined with nearly instantaneous acceleration and deceleration, enables them to move in astonishing ways. As long as they have a firm surface to travel across, they can [[Stride]] their full movement vertically or horizontally. They can even run across unstable surfaces, such as water, in the same way, although dangerous surfaces (acid, lava, etc.) harm them as normal. They must end their movement on a horizontal surface capable of bearing their weight or else they fall."
 
@@ -54,6 +52,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +6 (1d20+6); __Ref__: +13 (1d20+13); __Will__: +8 (1d20+8);"
+hp: 25
 health:
   - name: HP
     desc: "25;  __Weaknesses__ cold iron 5;"
@@ -61,7 +60,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +11 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+2) piercing plus lethargy poison"
+    desc: "⬻ shortsword +11 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+2 (1d6+2) piercing plus lethargy poison"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 218."
 ```
 
-### Encounter
 ```encounter-table
 name: Quickling
 creatures:

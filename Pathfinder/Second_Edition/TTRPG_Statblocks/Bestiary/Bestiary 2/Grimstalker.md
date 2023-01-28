@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Grimstalker"
+statblock: inline
 name: "Grimstalker"
-hp: 60
-ac: 22
-modifier: 12
 level: 5
 ---
-### Grimstalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Medium"
 trait_03: "Fey"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -38,7 +36,7 @@ abilities_top:
     desc: "  A grimstalker can [[Hide]] in natural environments, even if it doesn't have cover."
 abilities_bot:
   - name: "Grimstalker Sap"
-    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (1d6) poison damage (1 round) __Stage 2__ 1 (1d6) poison damage and [[clumsy|clumsy 1]]  (1 round) __Stage 3__ 1 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 22 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1d6 (1d6) poison damage (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[clumsy|clumsy 1]]  (1 round) __Stage 3__ 2d6 (2d6) poison damage and [[clumsy|clumsy 2]] (1 round)"
   - name: "Woodland Stride"
     desc: "  A grimstalker can always find a path, almost as if foliage parts before it. A grimstalker ignores [[terrain|difficult terrain]] caused by plants, such as bushes, vines, and undergrowth. Even plants manipulated by magic don't impede its progress."
 
@@ -48,6 +46,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +15 (1d20+15); __Will__: +12 (1d20+12);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -55,7 +54,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +15 ([[agile]]); __Damage__ 1 (2d6+7) slashing plus grimstalker sap"
+    desc: "⬻ claw +15 ([[agile]]); __Damage__ 2d6+7 (2d6+7) slashing plus grimstalker sap"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 137."
 ```
 
-### Encounter
 ```encounter-table
 name: Grimstalker
 creatures:

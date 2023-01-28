@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Merfolk Warrior"
+statblock: inline
 name: "Merfolk Warrior"
-hp: 19
-ac: 18
-modifier: 6
 level: 1
 ---
-### Merfolk Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Aquatic"
 trait_04: "Humanoid"
 trait_05: "Merfolk"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +4 (1d20+4);"
+hp: 19
 health:
   - name: HP
     desc: "19; "
@@ -55,14 +54,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ trident +7 __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ trident +7 __Damage__ 1d8+2 (1d8+2) piercing"
   - name: Ranged
-    desc: "⬻ trident +9 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d8+2) piercing"
+    desc: "⬻ trident +9 ([[thrown|thrown 20 feet]]); __Damage__ 1d8+2 (1d8+2) piercing"
 
 sourcebook: "_Bestiary_, page 235."
 ```
 
-### Encounter
 ```encounter-table
 name: Merfolk Warrior
 creatures:

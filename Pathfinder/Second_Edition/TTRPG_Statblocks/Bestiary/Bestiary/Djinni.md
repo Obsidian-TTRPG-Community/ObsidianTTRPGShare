@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Djinni"
+statblock: inline
 name: "Djinni"
-hp: 71
-ac: 22
-modifier: 13
 level: 5
 ---
-### Djinni
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Air"
 trait_05: "Elemental"
 trait_06: "Genie"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __detect magic__;"
@@ -52,6 +50,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +14 (1d20+14); __Will__: +11 (1d20+11);"
+hp: 71
 health:
   - name: HP
     desc: "71;  __Immunities__ acid; __Resistances__ mental 5, sonic 5"
@@ -59,11 +58,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ scimitar +15 ([[forceful +1]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d6+10) slashing"
+    desc: "⬻ scimitar +15 ([[forceful +1]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d6+10 (1d6+10) slashing"
   - name: Melee
-    desc: "⬻ fist +16 ([[agile]], [[finesse]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1 (1d4+10) bludgeoning"
+    desc: "⬻ fist +16 ([[agile]], [[finesse]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1d4+10 (1d4+10) bludgeoning"
   - name: Ranged
-    desc: "⬻ crashing wind +15 ([[air]], [[arcane]], [[evocation]], [[range increment|range increment 20 feet]]); __Damage__ 1 (1d8+6) bludgeoning"
+    desc: "⬻ crashing wind +15 ([[air]], [[arcane]], [[evocation]], [[range increment|range increment 20 feet]]); __Damage__ 1d8+6 (1d8+6) bludgeoning"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 163."
 ```
 
-### Encounter
 ```encounter-table
 name: Djinni
 creatures:

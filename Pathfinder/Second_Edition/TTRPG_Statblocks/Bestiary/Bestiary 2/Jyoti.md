@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Jyoti"
+statblock: inline
 name: "Jyoti"
-hp: 155
-ac: 28
-modifier: 21
 level: 9
 ---
-### Jyoti
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Fire"
 trait_04: "Humanoid"
 trait_05: "Positive"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -43,7 +41,7 @@ abilities_top:
     desc: "+1 striking longspear;"
 abilities_bot:
   - name: "Breath Weapon"
-    desc: " ([[evocation]], [[fire]], [[occult]]);  The jyoti breathes a blast of searing flame infused with positive energy in a 40-foot cone that deals 1 (8d6) fire damage plus 1 (4d6) positive damage to creatures in the area (DC 28 basic Reflex save) The jyoti can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: " ([[evocation]], [[fire]], [[occult]]);  The jyoti breathes a blast of searing flame infused with positive energy in a 40-foot cone that deals 8d6 (8d6) fire damage plus 4d6 (4d6) positive damage to creatures in the area (DC 28 basic Reflex save) The jyoti can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Infuse Weapons"
     desc: " ([[occult]], [[evocation]]);  Any weapon a jyoti wields becomes a flaming ghost touch weapon while the jyoti holds it."
 
@@ -53,6 +51,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ poison, death effects, disease; __Resistances__ fire 10, negative 10"
@@ -60,11 +59,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ flaming ghost touch longspear +20 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) piercing plus 1 (1d6) fire"
+    desc: "⬻ flaming ghost touch longspear +20 ([[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) piercing plus 1d6 (1d6) fire"
   - name: Melee
-    desc: "⬻ beak +21 ([[finesse]]); __Damage__ 1 (2d12+6) piercing plus 1 (1d6) fire"
+    desc: "⬻ beak +21 ([[finesse]]); __Damage__ 2d12+6 (2d12+6) piercing plus 1d6 (1d6) fire"
   - name: Melee
-    desc: "⬻ talon +21 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+6) slashing plus 1 (1d6) fire"
+    desc: "⬻ talon +21 ([[agile]], [[finesse]]); __Damage__ 2d8+6 (2d8+6) slashing plus 1d6 (1d6) fire"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Jyoti
 creatures:

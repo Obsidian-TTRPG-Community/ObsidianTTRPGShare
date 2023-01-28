@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Aasimar Redeemer"
+statblock: inline
 name: "Aasimar Redeemer"
-hp: 73
-ac: 23
-modifier: 11
 level: 5
 ---
-### Aasimar Redeemer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Aasimar"
 trait_04: "Human"
 trait_05: "Humanoid"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23;  (25 with shield raised); __Fort__: +12 (1d20+12); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 73
 health:
   - name: HP
     desc: "73; "
@@ -59,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longsword +15 ([[versatile|versatile p]]); __Damage__ 1 (1d8+7) slashing"
+    desc: "⬻ longsword +15 ([[versatile|versatile p]]); __Damage__ 1d8+7 (1d8+7) slashing"
   - name: Ranged
-    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1 (1d8+3) piercing"
+    desc: "⬻ crossbow +12 ([[range increment|range increment 120 feet]], [[reload|reload 1]]); __Damage__ 1d8+3 (1d8+3) piercing"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 263."
 ```
 
-### Encounter
 ```encounter-table
 name: Aasimar Redeemer
 creatures:

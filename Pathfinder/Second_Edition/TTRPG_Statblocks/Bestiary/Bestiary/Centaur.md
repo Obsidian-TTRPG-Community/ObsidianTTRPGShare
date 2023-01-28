@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Centaur"
+statblock: inline
 name: "Centaur"
-hp: 40
-ac: 20
-modifier: 9
 level: 3
 ---
-### Centaur
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Beast"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20;  (22 with shield raised); __Fort__: +8 (1d20+8); __Ref__: +9 (1d20+9); __Will__: +9 (1d20+9);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -56,18 +55,17 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ hoof +9 ([[agile]]); __Damage__ 1 (1d10+4) bludgeoning"
+    desc: "⬻ hoof +9 ([[agile]]); __Damage__ 1d10+4 (1d10+4) bludgeoning"
   - name: Melee
-    desc: "⬻ longsword +11 ([[versatile|versatile p]]); __Damage__ 1 (1d8+4) slashing"
+    desc: "⬻ longsword +11 ([[versatile|versatile p]]); __Damage__ 1d8+4 (1d8+4) slashing"
   - name: Melee
-    desc: "⬻ spear +11 __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +11 __Damage__ 1d6+4 (1d6+4) piercing"
   - name: Ranged
-    desc: "⬻ spear +9 ([[thrown|thrown 20 feet]]); __Damage__ 1 (1d6+4) piercing"
+    desc: "⬻ spear +9 ([[thrown|thrown 20 feet]]); __Damage__ 1d6+4 (1d6+4) piercing"
 
 sourcebook: "_Bestiary_, page 60."
 ```
 
-### Encounter
 ```encounter-table
 name: Centaur
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Ancient Brine Dragon"
+statblock: inline
 name: "Ancient Brine Dragon"
-hp: 330
-ac: 40
-modifier: 32
 level: 17
 ---
-### Ancient Brine Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_04: "Amphibious"
 trait_05: "Dragon"
 trait_06: "Elemental"
 trait_07: "Water"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __darkvision__, __imprecise scent 60__;"
@@ -42,14 +40,14 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 36."
   - name: "Brine Spit"
-    desc: "⬲ __Trigger__ A creature the brine dragon observes within 30 feet uses a concentrate action __Effect__  The dragon spits a glob of caustic salt water at the creature. The creature takes 1 (7d6) acid damage (DC 36 basic Reflex save). On a failure, the concentrate action is disrupted."
+    desc: "⬲ __Trigger__ A creature the brine dragon observes within 30 feet uses a concentrate action __Effect__  The dragon spits a glob of caustic salt water at the creature. The creature takes 7d6 (7d6) acid damage (DC 36 basic Reflex save). On a failure, the concentrate action is disrupted."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 1 (18d6) acid damage in a 120-foot line (DC 38 basic Reflex save). They can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[acid]], [[evocation]], [[primal]]);  The dragon breathes a spray of acidic salt water that deals 18d6 (18d6) acid damage in a 120-foot line (DC 38 basic Reflex save). They can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Capsize"
     desc: "⬻ ([[attack]]);  The dragon tries to capsize an adjacent aquatic vessel of their size or smaller. They must succeed at an [[Athletics]] check with a DC of 35 (reduced by 5 for each size smaller the vessel is than the dragon) or the pilot's [[Lore|Sailing Lore]] DC, whichever is higher."
   - name: "Desiccating Bite"
-    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 1 (6d6) [[persistent damage|persistent acid damage]], and is [[sickened|sickened 3]] from the pain of salt and brine in its wounds."
+    desc: "⬺  The dragon makes a jaws [[Strike]]. On a hit, the target takes 6d6 (6d6) [[persistent damage|persistent acid damage]], and is [[sickened|sickened 3]] from the pain of salt and brine in its wounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -63,6 +61,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +31 (1d20+31); __Ref__: +30 (1d20+30); __Will__: +30 (1d20+30);"
+hp: 330
 health:
   - name: HP
     desc: "330;  __Immunities__ acid, paralyzed, sleep;"
@@ -70,13 +69,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +34 ([[acid]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d10+17) piercing plus 1 (5d4) acid"
+    desc: "⬻ jaws +34 ([[acid]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d10+17 (3d10+17) piercing plus 5d4 (5d4) acid"
   - name: Melee
-    desc: "⬻ claw +34 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (3d10+17) slashing"
+    desc: "⬻ claw +34 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 3d10+17 (3d10+17) slashing"
   - name: Melee
-    desc: "⬻ tail +32 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (3d12+17) bludgeoning"
+    desc: "⬻ tail +32 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 3d12+17 (3d12+17) bludgeoning"
   - name: Melee
-    desc: "⬻ wing +32 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (2d12+17) piercing"
+    desc: "⬻ wing +32 ([[magical]], [[reach|reach 20 feet]]); __Damage__ 2d12+17 (2d12+17) piercing"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 88."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Brine Dragon
 creatures:

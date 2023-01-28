@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Duergar Taskmaster"
+statblock: inline
 name: "Duergar Taskmaster"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Duergar Taskmaster
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Duergar"
 trait_04: "Dwarf"
 trait_05: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -37,7 +35,7 @@ abilityMods: [2, 0, 2, 0, 2, 3]
 
 abilities_mid:
   - name: "Iron Mind"
-    desc: "  Duergar taskmasters automatically [[2|disbelieving illusions|0|disbelieve all illusion]] of 1st level or lower."
+    desc: "  Duergar taskmasters automatically [[disbelieving illusions|disbelieve all illusions]] of 1st level or lower."
   - name: "Light Blindness"
     desc: " "
 abilities_top:
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +4 (1d20+4); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -60,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ maul +8 ([[shove]]); __Damage__ 1 (1d12+2) bludgeoning"
+    desc: "⬻ maul +8 ([[shove]]); __Damage__ 1d12+2 (1d12+2) bludgeoning"
 
 spellcasting:
   - name: "Divine Prepared Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 139."
 ```
 
-### Encounter
 ```encounter-table
 name: Duergar Taskmaster
 creatures:

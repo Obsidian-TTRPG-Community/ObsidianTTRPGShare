@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Stygira"
+statblock: inline
 name: "Stygira"
-hp: 80
-ac: 26
-modifier: 17
 level: 7
 ---
-### Stygira
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Medium"
 trait_04: "Earth"
 trait_05: "Fey"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __gemsight__;"
@@ -55,6 +53,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +15 (1d20+15); __Ref__: +13 (1d20+13); __Will__: +19 (1d20+19);"
+hp: 80
 health:
   - name: HP
     desc: "80;  __Immunities__ paralyzed, petrified, visual; __Weaknesses__ cold iron 5; __Resistances__ physical 10 (except adamantine)"
@@ -62,7 +61,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +17 ([[agile]]); __Damage__ 1 (2d6+10) slashing plus stone curse"
+    desc: "⬻ claw +17 ([[agile]]); __Damage__ 2d6+10 (2d6+10) slashing plus stone curse"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 255."
 ```
 
-### Encounter
 ```encounter-table
 name: Stygira
 creatures:

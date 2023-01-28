@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Shaitan"
+statblock: inline
 name: "Shaitan"
-hp: 110
-ac: 25
-modifier: 15
 level: 7
 ---
-### Shaitan
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Earth"
 trait_05: "Elemental"
 trait_06: "Genie"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __detect magic__, __imprecise [[tremorsense]] 60__;"
@@ -51,6 +49,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +18 (1d20+18); __Ref__: +12 (1d20+12); __Will__: +15 (1d20+15);"
+hp: 110
 health:
   - name: HP
     desc: "110; "
@@ -58,9 +57,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ falchion +20 ([[forceful +1]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1 (1d10+12) slashing"
+    desc: "⬻ falchion +20 ([[forceful +1]], [[magical]], [[reach|reach 10 feet]], [[sweep]]); __Damage__ 1d10+12 (1d10+12) slashing"
   - name: Melee
-    desc: "⬻ fist +19 ([[agile]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1 (1d4+12) bludgeoning plus Push 10 feet and shove into stone"
+    desc: "⬻ fist +19 ([[agile]], [[magical]], [[nonlethal]], [[reach|reach 10 feet]]); __Damage__ 1d4+12 (1d4+12) bludgeoning plus Push 10 feet and shove into stone"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 164."
 ```
 
-### Encounter
 ```encounter-table
 name: Shaitan
 creatures:

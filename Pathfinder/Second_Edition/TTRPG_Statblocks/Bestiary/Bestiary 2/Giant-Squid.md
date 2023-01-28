@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Giant Squid"
+statblock: inline
 name: "Giant Squid"
-hp: 155
-ac: 28
-modifier: 21
 level: 9
 ---
-### Giant Squid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -35,7 +33,7 @@ abilityMods: [7, 3, 4, -4, 6, -2]
 
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d10+10) bludgeoning, DC 25."
+    desc: "⬻  1d10+10 (1d10+10) bludgeoning, DC 25."
   - name: "Jet"
     desc: "⬺ ([[move]]);  The giant squid moves up to 200 feet in a straight line through the water without triggering any reactions."
   - name: "Ravenous Embrace"
@@ -47,6 +45,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 155
 health:
   - name: HP
     desc: "155; "
@@ -54,16 +53,15 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ beak +21 __Damage__ 1 (2d12+11) piercing"
+    desc: "⬻ beak +21 __Damage__ 2d12+11 (2d12+11) piercing"
   - name: Melee
-    desc: "⬻ barbed tentacles +21 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 1 (2d10+11) slashing plus Grab"
+    desc: "⬻ barbed tentacles +21 ([[agile]], [[reach|reach 25 feet]]); __Damage__ 2d10+11 (2d10+11) slashing plus Grab"
   - name: Melee
-    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+11) bludgeoning plus [[Improved Grab]]"
+    desc: "⬻ arm +21 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 2d8+11 (2d8+11) bludgeoning plus [[Improved Grab]]"
 
 sourcebook: "_Bestiary 2_, page 254."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Squid
 creatures:

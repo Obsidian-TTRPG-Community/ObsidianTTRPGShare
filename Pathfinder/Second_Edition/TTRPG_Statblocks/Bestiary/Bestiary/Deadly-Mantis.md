@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Deadly Mantis"
+statblock: inline
 name: "Deadly Mantis"
-hp: 220
-ac: 31
-modifier: 20
 level: 11
 ---
-### Deadly Mantis
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 11"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +24 (1d20+24); __Ref__: +20 (1d20+20); __Will__: +18 (1d20+18);"
+hp: 220
 health:
   - name: HP
     desc: "220; "
@@ -55,14 +54,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ mandibles +25 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+14) piercing"
+    desc: "⬻ mandibles +25 ([[reach|reach 10 feet]]); __Damage__ 2d12+14 (2d12+14) piercing"
   - name: Melee
-    desc: "⬻ leg +24 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 1 (2d10+14) piercing plus Grab"
+    desc: "⬻ leg +24 ([[agile]], [[reach|reach 20 feet]]); __Damage__ 2d10+14 (2d10+14) piercing plus Grab"
 
 sourcebook: "_Bestiary_, page 233."
 ```
 
-### Encounter
 ```encounter-table
 name: Deadly Mantis
 creatures:

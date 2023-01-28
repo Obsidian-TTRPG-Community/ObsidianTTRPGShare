@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Reefclaw"
+statblock: inline
 name: "Reefclaw"
-hp: 17
-ac: 20
-modifier: 8
 level: 1
 ---
-### Reefclaw
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Aberration"
 trait_04: "Aquatic"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -39,9 +37,9 @@ abilities_mid:
     desc: "⬲ __Trigger__ The reefclaw is reduced to 0 Hit Points. __Effect__  The reefclaw makes a claw [[Strike]] before [[dying|dying]]."
 abilities_bot:
   - name: "Constrict"
-    desc: "⬻  1 (1d6) bludgeoning, DC 17."
+    desc: "⬻  1d6 (1d6) bludgeoning, DC 17."
   - name: "Reefclaw Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (1d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 17 Fortitude. __Maximum Duration__ 4 rounds __Stage 1__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1d6 (1d6) poison damage and [[enfeebled|enfeebled 2]] (1 round)"
 
 speed: 5 feet, swim 30 feet
 
@@ -49,6 +47,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +7 (1d20+7); __Ref__: +9 (1d20+9); __Will__: +4 (1d20+4);"
+hp: 17
 health:
   - name: HP
     desc: "17; "
@@ -56,12 +55,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +9 ([[finesse]]); __Damage__ 1 (1d6+1) slashing plus reefclaw venom and Grab"
+    desc: "⬻ claw +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) slashing plus reefclaw venom and Grab"
 
 sourcebook: "_Bestiary_, page 279."
 ```
 
-### Encounter
 ```encounter-table
 name: Reefclaw
 creatures:

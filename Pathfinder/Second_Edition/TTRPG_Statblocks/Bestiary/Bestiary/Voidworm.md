@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Voidworm"
+statblock: inline
 name: "Voidworm"
-hp: 16
-ac: 17
-modifier: 4
 level: 1
 ---
-### Voidworm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Tiny"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__, __imprecise entropy sense 30__;"
@@ -52,6 +50,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 16
 health:
   - name: HP
     desc: "16; fast healing 1; __Resistances__ precision 3, protean anatomy 5"
@@ -59,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (1d8-1) piercing plus 1 (1d4) chaotic"
+    desc: "⬻ jaws +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1d8-1 (1d8-1) piercing plus 1d4 (1d4) chaotic"
   - name: Melee
-    desc: "⬻ tail +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1 (1d4-1) slashing plus 1 (1d4) chaotic and confounding lash"
+    desc: "⬻ tail +9 ([[chaotic]], [[finesse]], [[magical]]); __Damage__ 1d4-1 (1d4-1) slashing plus 1d4 (1d4) chaotic and confounding lash"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 266."
 ```
 
-### Encounter
 ```encounter-table
 name: Voidworm
 creatures:

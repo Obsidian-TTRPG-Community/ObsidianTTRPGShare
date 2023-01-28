@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Gosreg"
+statblock: inline
 name: "Gosreg"
-hp: 195
-ac: 31
-modifier: 21
 level: 11
 ---
-### Gosreg
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Medium"
 trait_04: "Aberration"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __thoughtsense 60__;"
@@ -44,7 +42,7 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[occult]], [[polymorph]], [[transmutation]]);  The gosreg takes on the appearance of any Small or Medium humanoid. This doesn't change its Speed or its attack and damage modifiers with its [[Strike|Strikes]], but it might change the damage type its [[Strike|Strikes]] deal (typically to bludgeoning)."
   - name: "Mind Bolt"
-    desc: "⬺ ([[illusion]], [[mental]], [[occult]]);  A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 1 (6d6) mental damage (DC 30 basic Will save). On a critical failure, the creature is also [[confused|confused]] for 1 (1d4) rounds."
+    desc: "⬺ ([[illusion]], [[mental]], [[occult]]);  A gosreg concentrates its field of discordant mental energy and projects it into the mind of an enemy within 60 feet. The target takes 6d6 (6d6) mental damage (DC 30 basic Will save). On a critical failure, the creature is also [[confused|confused]] for 1d4 (1d4) rounds."
 
 speed: 25 feet
 
@@ -52,6 +50,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +18 (1d20+18); __Ref__: +23 (1d20+23); __Will__: +22 (1d20+22);"
+hp: 195
 health:
   - name: HP
     desc: "195;  __Immunities__ confused; __Resistances__ mental 10"
@@ -59,9 +58,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 ([[finesse]]); __Damage__ 1 (2d10+7) piercing plus 1 (1d10) mental"
+    desc: "⬻ jaws +21 ([[finesse]]); __Damage__ 2d10+7 (2d10+7) piercing plus 1d10 (1d10) mental"
   - name: Melee
-    desc: "⬻ claw +21 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+7) slashing"
+    desc: "⬻ claw +21 ([[agile]], [[finesse]]); __Damage__ 2d8+7 (2d8+7) slashing"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 133."
 ```
 
-### Encounter
 ```encounter-table
 name: Gosreg
 creatures:

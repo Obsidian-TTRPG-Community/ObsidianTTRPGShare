@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Dero Stalker"
+statblock: inline
 name: "Dero Stalker"
-hp: 30
-ac: 19
-modifier: 5
 level: 2
 ---
-### Dero Stalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Dero"
 trait_04: "Humanoid"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -44,7 +42,7 @@ abilities_top:
     desc: "[[aklys]], [[giant centipede venom]] (4 doses), [[hand crossbow]] (20 [[bolt|bolts]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A dero stalker deals 1 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A dero stalker deals 1d6 (1d6) extra precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 20 feet
 
@@ -52,6 +50,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +3 (1d20+3);"
+hp: 30
 health:
   - name: HP
     desc: "30;  __Weaknesses__ vulnerable to sunlight ;"
@@ -59,11 +58,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ aklys +8 ([[trip]]); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ aklys +8 ([[trip]]); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]; page 85); __Damage__ 1 (1d6+2) bludgeoning"
+    desc: "⬻ aklys +10 ([[ranged trip]], [[tethered]], [[thrown|thrown 20 feet]]; page 85); __Damage__ 1d6+2 (1d6+2) bludgeoning"
   - name: Ranged
-    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6) piercing plus giant centipede venom"
+    desc: "⬻ hand crossbow +10 ([[range increment|range increment 60 feet]], [[reload|reload 1]]); __Damage__ 1d6 (1d6) piercing plus giant centipede venom"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 84."
 ```
 
-### Encounter
 ```encounter-table
 name: Dero Stalker
 creatures:

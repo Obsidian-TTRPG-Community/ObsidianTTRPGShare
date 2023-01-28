@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Leaf Leshy"
+statblock: inline
 name: "Leaf Leshy"
-hp: 15
-ac: 18
-modifier: 4
 level: 0
 ---
-### Leaf Leshy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Leshy"
 trait_04: "Plant"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __low-light vision__;"
@@ -36,7 +34,7 @@ abilityMods: [-1, 2, 2, -2, 2, 1]
 
 abilities_mid:
   - name: "Verdant Burst"
-    desc: " ([[healing]]);  When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1 (1d4) Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for these trees, they wither after 24 hours."
+    desc: " ([[healing]]);  When a leaf leshy dies, a burst of primal energy explodes from its body, restoring 1d4 (1d4) Hit Points to each plant creature in a 30-foot emanation. This area is filled with tree saplings, becoming [[terrain|difficult terrain]]. If the terrain is not a viable environment for these trees, they wither after 24 hours."
 abilities_top:
   - name: Items
     desc: "longspear;"
@@ -54,6 +52,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +6 (1d20+6); __Will__: +4 (1d20+4);"
+hp: 15
 health:
   - name: HP
     desc: "15; Weaknesses fire 2; __Weaknesses__ fire 2;"
@@ -61,9 +60,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ longspear +3 ([[reach|reach 10 feet]]); __Damage__ 1 (1d8-1) piercing"
+    desc: "⬻ longspear +3 ([[reach|reach 10 feet]]); __Damage__ 1d8-1 (1d8-1) piercing"
   - name: Ranged
-    desc: "⬻ seedpod +6 ([[range increment|range increment 30 feet]]); __Damage__ 1 (1d6) bludgeoning plus deafening blow"
+    desc: "⬻ seedpod +6 ([[range increment|range increment 30 feet]]); __Damage__ 1d6 (1d6) bludgeoning plus deafening blow"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 218."
 ```
 
-### Encounter
 ```encounter-table
 name: Leaf Leshy
 creatures:

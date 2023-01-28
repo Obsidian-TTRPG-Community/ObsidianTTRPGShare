@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Naunet"
+statblock: inline
 name: "Naunet"
-hp: 120
-ac: 24
-modifier: 14
 level: 7
 ---
-### Naunet
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Large"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise entropy sense 30__;"
@@ -46,9 +44,9 @@ abilities_bot:
   - name: "Change Shape"
     desc: "⬻ ([[concentrate]], [[divine]], [[polymorph]], [[transmutation]]);  The naunet can take the appearance of any Small, Medium, or Large animal, beast, or humanoid. This doesn't change its Speed or its attack and damage bonuses with its [[Strike|Strikes]] but might change the damage type its [[Strike|Strikes]] deal."
   - name: "Confounding Slam"
-    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the naunet's tentacle [[Strike]] is [[stupefied|stupefied 2]] for 1 (1d4) rounds (DC 24 Will negates). If the creature was already [[stupefied|stupefied]] in this way, the duration extends by 1 round instead. A chaotic creature is only [[stupefied|stupefied 1]] instead."
+    desc: " ([[divine]], [[emotion]], [[enchantment]], [[mental]]);  A creature hit by the naunet's tentacle [[Strike]] is [[stupefied|stupefied 2]] for 1d4 (1d4) rounds (DC 24 Will negates). If the creature was already [[stupefied|stupefied]] in this way, the duration extends by 1 round instead. A chaotic creature is only [[stupefied|stupefied 1]] instead."
   - name: "Constrict"
-    desc: "⬻  1 (1d8+8) bludgeoning, DC 26."
+    desc: "⬻  1d8+8 (1d8+8) bludgeoning, DC 26."
 
 speed: 25 feet, fly 30 feet, swim 25 feet; freedom of movement;
 
@@ -56,6 +54,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +18 (1d20+18); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 120
 health:
   - name: HP
     desc: "120; fast healing 2; __Weaknesses__ lawful 5; __Resistances__ precision 5, protean anatomy 10"
@@ -63,11 +62,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +18 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d10+8) piercing plus 1 (1d6) chaotic"
+    desc: "⬻ jaws +18 ([[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d10+8 (2d10+8) piercing plus 1d6 (1d6) chaotic"
   - name: Melee
-    desc: "⬻ tail +18 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (2d8+8) bludgeoning plus 1 (1d6) chaotic and Grab"
+    desc: "⬻ tail +18 ([[chaotic]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 2d8+8 (2d8+8) bludgeoning plus 1d6 (1d6) chaotic and Grab"
   - name: Melee
-    desc: "⬻ tentacle +18 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (2d8+6) piercing plus 1 (1d6) chaotic and confounding slam"
+    desc: "⬻ tentacle +18 ([[agile]], [[chaotic]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 2d8+6 (2d8+6) piercing plus 1d6 (1d6) chaotic and confounding slam"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 267."
 ```
 
-### Encounter
 ```encounter-table
 name: Naunet
 creatures:

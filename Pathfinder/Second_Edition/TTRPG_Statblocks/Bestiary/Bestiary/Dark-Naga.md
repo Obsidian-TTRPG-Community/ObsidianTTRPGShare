@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Dark Naga"
+statblock: inline
 name: "Dark Naga"
-hp: 115
-ac: 27
-modifier: 15
 level: 7
 ---
-### Dark Naga
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LE"
 size: "Large"
 trait_04: "Aberration"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __mind reading 30__;"
@@ -39,7 +37,7 @@ abilities_mid:
     desc: " ([[abjuration]], [[occult]]);  Dark nagas are immune to any form of mind reading."
 abilities_bot:
   - name: "Dark Naga Venom"
-    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 5 minutes __Stage 1__ [[slowed|slowed 1]] (1 round) __Stage 2__ [[slowed|slowed 2]] (1 round) __Stage 3__ [[unconscious|unconscious]] with no [[Perception]] check to wake up (1 (1d4+1) minutes)"
+    desc: " ([[incapacitation]], [[poison]]);  __Saving Throw__ DC 25 Fortitude. __Maximum Duration__ 5 minutes __Stage 1__ [[slowed|slowed 1]] (1 round) __Stage 2__ [[slowed|slowed 2]] (1 round) __Stage 3__ [[unconscious|unconscious]] with no [[Perception]] check to wake up (1d4+1 (1d4+1) minutes)"
 
 speed: 30 feet
 
@@ -47,6 +45,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +15 (1d20+15); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 115
 health:
   - name: HP
     desc: "115; "
@@ -54,7 +53,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fangs +19 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+5) piercing plus dark naga venom"
+    desc: "⬻ fangs +19 ([[agile]], [[finesse]]); __Damage__ 2d8+5 (2d8+5) piercing plus dark naga venom"
 
 spellcasting:
   - name: "Arcane Spontaneous Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 242."
 ```
 
-### Encounter
 ```encounter-table
 name: Dark Naga
 creatures:

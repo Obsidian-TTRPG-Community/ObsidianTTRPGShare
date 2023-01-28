@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Quetz Couatl"
+statblock: inline
 name: "Quetz Couatl"
-hp: 175
-ac: 30
-modifier: 21
 level: 10
 ---
-### Quetz Couatl
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LG"
 size: "Large"
 trait_04: "Beast"
 trait_05: "Couatl"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __detect alignment__;"
@@ -37,9 +35,9 @@ abilityMods: [7, 3, 5, 6, 5, 5]
 
 abilities_bot:
   - name: "Greater Constrict"
-    desc: "⬻  1 (2d10+7) bludgeoning, DC 29."
+    desc: "⬻  2d10+7 (2d10+7) bludgeoning, DC 29."
   - name: "Quetz Couatl Venom"
-    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (2d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 1 (2d8) poison damage, [[enfeebled|enfeebled 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 1 (2d10) poison damage, [[enfeebled|enfeebled 2]], and [[flat-footed|flat-footed]] (1 round)"
+    desc: " ([[poison]]);  __Saving Throw__ DC 29 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 2d6 (2d6) poison damage and [[enfeebled|enfeebled 1]] (1 round) __Stage 2__ 2d8 (2d8) poison damage, [[enfeebled|enfeebled 1]], and [[flat-footed|flat-footed]] (1 round) __Stage 3__ 2d10 (2d10) poison damage, [[enfeebled|enfeebled 2]], and [[flat-footed|flat-footed]] (1 round)"
   - name: "Radiant Wings"
     desc: "⬺ ([[divine]], [[enchantment]], [[incapacitation]], [[mental]], [[visual]]);  The quetz couatl spreads its multicolored wings and radiant plumage. Each enemy within 30 feet must attempt a DC 29 Will save.\n__Critical Success__ The creature is unaffected and is temporarily immune to Radiant Wings for 24 hours.\n__Success__ The creature is [[dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[dazzled|dazzled]] for 1 minute.\n__Critical Failure__ As failure, but if the creature is evil, it is also [[stunned|stunned 3]]."
   - name: "Wrap in Coils"
@@ -53,6 +51,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +19 (1d20+19); __Ref__: +19 (1d20+19); __Will__: +21 (1d20+21);"
+hp: 175
 health:
   - name: HP
     desc: "175; "
@@ -60,7 +59,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +23 ([[magical]]); __Damage__ 1 (2d10+13) piercing plus quetz couatl venom and Grab"
+    desc: "⬻ jaws +23 ([[magical]]); __Damage__ 2d10+13 (2d10+13) piercing plus quetz couatl venom and Grab"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 54."
 ```
 
-### Encounter
 ```encounter-table
 name: Quetz Couatl
 creatures:

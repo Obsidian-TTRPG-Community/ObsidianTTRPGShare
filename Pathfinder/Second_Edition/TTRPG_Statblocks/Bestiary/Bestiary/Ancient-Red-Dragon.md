@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Ancient Red Dragon"
+statblock: inline
 name: "Ancient Red Dragon"
-hp: 425
-ac: 45
-modifier: 35
 level: 19
 ---
-### Ancient Red Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Fire"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __darkvision__, __imprecise scent 60__, __smoke vision__;"
@@ -40,7 +38,7 @@ abilities_top:
     desc: "  Smoke doesn't impair a red dragon's vision; it ignores the [[concealed|concealed]] condition from smoke."
 abilities_mid:
   - name: "Dragon Heat"
-    desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  10 feet, 1 (4d6) fire damage (DC 39 basic Reflex)"
+    desc: " ([[arcane]], [[aura]], [[evocation]], [[fire]]);  10 feet, 4d6 (4d6) fire damage (DC 39 basic Reflex)"
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 40."
   - name: "Attack of Opportunity"
@@ -49,7 +47,7 @@ abilities_mid:
     desc: "⬲ ([[abjuration]], [[arcane]]); __Trigger__ A creature within 100 feet casts a fire spell, or a fire spell otherwise comes into effect from a source within 100 feet. __Effect__  The dragon makes all the choices to determine the targets, destination, or other effects of the spell, as though it were the caster."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 1 (20d6) fire damage in a 60-foot cone (DC 42 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds."
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The dragon breathes a blast of flame that deals 20d6 (20d6) fire damage in a 60-foot cone (DC 42 basic Reflex save). It can't use Breath Weapon again for 1d4 (1d4) rounds."
   - name: "Draconic Frenzy"
     desc: "⬺  The dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
   - name: "Draconic Momentum"
@@ -63,6 +61,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +35 (1d20+35); __Ref__: +32 (1d20+32); __Will__: +35 (1d20+35);"
+hp: 425
 health:
   - name: HP
     desc: "425;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 20;"
@@ -70,13 +69,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +37 ([[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (4d10+17) piercing plus 1 (3d6) fire"
+    desc: "⬻ jaws +37 ([[fire]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 4d10+17 (4d10+17) piercing plus 3d6 (3d6) fire"
   - name: Melee
-    desc: "⬻ claw +37 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 1 (4d8+17) slashing"
+    desc: "⬻ claw +37 ([[agile]], [[magical]], [[reach|reach 15 feet]]); __Damage__ 4d8+17 (4d8+17) slashing"
   - name: Melee
-    desc: "⬻ tail +35 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 1 (4d10+15) slashing"
+    desc: "⬻ tail +35 ([[magical]], [[reach|reach 25 feet]]); __Damage__ 4d10+15 (4d10+15) slashing"
   - name: Melee
-    desc: "⬻ wing +35 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 1 (3d8+15) slashing"
+    desc: "⬻ wing +35 ([[agile]], [[magical]], [[reach|reach 20 feet]]); __Damage__ 3d8+15 (3d8+15) slashing"
 
 spellcasting:
   - name: "Arcane Innate Spells"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Red Dragon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Roper"
+statblock: inline
 name: "Roper"
-hp: 215
-ac: 29
-modifier: 21
 level: 10
 ---
-### Roper
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Large"
 trait_04: "Aberration"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +20 (1d20+20); __Ref__: +15 (1d20+15); __Will__: +21 (1d20+21);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Weaknesses__ fire 10; __Resistances__ electricity 10"
@@ -60,14 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +21 __Damage__ 1 (2d12+12) piercing"
+    desc: "⬻ jaws +21 __Damage__ 2d12+12 (2d12+12) piercing"
   - name: Melee
     desc: "⬻ strand +23 ([[reach|reach 50 feet]]); __Damage__ sticky strand"
 
 sourcebook: "_Bestiary_, page 282."
 ```
 
-### Encounter
 ```encounter-table
 name: Roper
 creatures:

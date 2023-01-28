@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Ogre Boss"
+statblock: inline
 name: "Ogre Boss"
-hp: 130
-ac: 25
-modifier: 12
 level: 7
 ---
-### Ogre Boss
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +12 (1d20+12); __Will__: +15 (1d20+15);"
+hp: 130
 health:
   - name: HP
     desc: "130; "
@@ -60,14 +59,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ ogre hook +19 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1 (1d10+11) piercing"
+    desc: "⬻ ogre hook +19 ([[deadly|deadly 1d10]], [[reach|reach 10 feet]], [[trip]]); __Damage__ 1d10+11 (1d10+11) piercing"
   - name: Ranged
-    desc: "⬻ javelin +12 ([[thrown|thrown 30 feet]]); __Damage__ 1 (1d6+11) piercing"
+    desc: "⬻ javelin +12 ([[thrown|thrown 30 feet]]); __Damage__ 1d6+11 (1d6+11) piercing"
 
 sourcebook: "_Bestiary_, page 253."
 ```
 
-### Encounter
 ```encounter-table
 name: Ogre Boss
 creatures:

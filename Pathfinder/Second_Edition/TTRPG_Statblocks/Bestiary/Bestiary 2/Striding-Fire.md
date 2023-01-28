@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Striding Fire"
+statblock: inline
 name: "Striding Fire"
-hp: 115
-ac: 24
-modifier: 14
 level: 6
 ---
-### Striding Fire
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Medium"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __smoke vision__;"
@@ -39,7 +37,7 @@ abilities_top:
     desc: "  The striding fire ignores the [[concealed|concealed]] condition from smoke."
 abilities_bot:
   - name: "Burning Rush"
-    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The striding fire [[Stride|Strides]] up to double its Speed in a straight line. Its movement during this [[Stride]] doesn't trigger reactions. Any creature the striding fire was adjacent to at any point during this [[Stride]] must attempt a DC 24 basic Reflex save. If it critically fails, it is knocked [[prone|prone]] by a wave of heated air. The striding fire can't use Burning Rush for 1 (1d4) rounds."
+    desc: "⬺ ([[evocation]], [[fire]], [[primal]]);  The striding fire [[Stride|Strides]] up to double its Speed in a straight line. Its movement during this [[Stride]] doesn't trigger reactions. Any creature the striding fire was adjacent to at any point during this [[Stride]] must attempt a DC 24 basic Reflex save. If it critically fails, it is knocked [[prone|prone]] by a wave of heated air. The striding fire can't use Burning Rush for 1d4 (1d4) rounds."
 
 speed: 50 feet
 
@@ -47,6 +45,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +11 (1d20+11); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 115
 health:
   - name: HP
     desc: "115;  __Immunities__ bleed, fire, poison, paralyzed, sleep;"
@@ -54,12 +53,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +17 ([[agile]], [[finesse]]); __Damage__ 1 (2d8+5) bludgeoning plus 1 (1d6) [[persistent damage|persistent fire]]"
+    desc: "⬻ fist +17 ([[agile]], [[finesse]]); __Damage__ 2d8+5 (2d8+5) bludgeoning plus 1d6 (1d6) [[persistent damage|persistent fire]]"
 
 sourcebook: "_Bestiary 2_, page 111."
 ```
 
-### Encounter
 ```encounter-table
 name: Striding Fire
 creatures:

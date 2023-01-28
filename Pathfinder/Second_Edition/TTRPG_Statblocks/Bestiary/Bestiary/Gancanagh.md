@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Gancanagh"
+statblock: inline
 name: "Gancanagh"
-hp: 75
-ac: 21
-modifier: 11
 level: 4
 ---
-### Gancanagh
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Medium"
 trait_03: "Azata"
 trait_04: "Celestial"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +9 (1d20+9); __Ref__: +13 (1d20+13); __Will__: +11 (1d20+11);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Weaknesses__ cold iron 5, evil 5;"
@@ -59,7 +58,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ silver rapier +13 ([[deadly|deadly 1d10]], [[disarm]], [[finesse]], [[good]], [[magical]]); __Damage__ 1 (1d6+7) piercing plus 1 (1d4) good"
+    desc: "⬻ silver rapier +13 ([[deadly|deadly 1d10]], [[disarm]], [[finesse]], [[good]], [[magical]]); __Damage__ 1d6+7 (1d6+7) piercing plus 1d4 (1d4) good"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 31."
 ```
 
-### Encounter
 ```encounter-table
 name: Gancanagh
 creatures:

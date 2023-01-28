@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Deep Gnome Scout"
+statblock: inline
 name: "Deep Gnome Scout"
-hp: 18
-ac: 17
-modifier: 7
 level: 1
 ---
-### Deep Gnome Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -54,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ light pick +7 ([[agile]], [[fatal|fatal d8]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ light pick +7 ([[agile]], [[fatal|fatal d8]]); __Damage__ 1d4+2 (1d4+2) piercing"
   - name: Ranged
-    desc: "⬻ sling +9 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1 (1d6+1) bludgeoning"
+    desc: "⬻ sling +9 ([[propulsive]], [[range increment|range increment 50 feet]], [[reload|reload 1]]); __Damage__ 1d6+1 (1d6+1) bludgeoning"
 
 spellcasting:
   - name: "Primal Innate Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 74."
 ```
 
-### Encounter
 ```encounter-table
 name: Deep Gnome Scout
 creatures:

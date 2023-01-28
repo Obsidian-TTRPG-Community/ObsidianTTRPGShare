@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Green Hag"
+statblock: inline
 name: "Green Hag"
-hp: 70
-ac: 21
-modifier: 10
 level: 4
 ---
-### Green Hag
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Hag"
 trait_04: "Humanoid"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -48,7 +46,7 @@ abilities_bot:
   - name: "Enfeebling Humors"
     desc: " ([[necromancy]], [[occult]]);  A creature damaged by a hag's claw must succeed at a DC 20 Fortitude save or be [[enfeebled|enfeebled 1]] for 1 day. On a critical failure, or if it gets hit again and fails its save a second time, it's [[enfeebled|enfeebled 2]] for 1 day."
   - name: "Exhale Miasma"
-    desc: "⬺ ([[necromancy]], [[occult]]);  The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1 (1d4) rounds."
+    desc: "⬺ ([[necromancy]], [[occult]]);  The green hag exhales a miasma of green vapors. Each living creature in a 15-foot cone is affected by her enfeebling humors (attempting a save as normal). She can't use Exhale Miasma again for 1d4 (1d4) rounds."
 
 speed: 25 feet, swim 25 feet
 
@@ -56,6 +54,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +11 (1d20+11); __Will__: +12 (1d20+12);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Weaknesses__ cold iron 5;"
@@ -63,7 +62,7 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ claw +14 ([[agile]], [[magical]]); __Damage__ 1 (1d10+5) slashing plus enfeebling humors"
+    desc: "⬻ claw +14 ([[agile]], [[magical]]); __Damage__ 1d10+5 (1d10+5) slashing plus enfeebling humors"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 201."
 ```
 
-### Encounter
 ```encounter-table
 name: Green Hag
 creatures:

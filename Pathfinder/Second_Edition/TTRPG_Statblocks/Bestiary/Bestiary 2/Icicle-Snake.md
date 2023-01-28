@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Icicle Snake"
+statblock: inline
 name: "Icicle Snake"
-hp: 35
-ac: 18
-modifier: 7
 level: 2
 ---
-### Icicle Snake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Cold"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 35
 health:
   - name: HP
     desc: "35;  __Immunities__ bleed, cold, poison, paralyzed, sleep;"
@@ -51,12 +50,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1 (1d6+1) piercing plus 1 (1d6) [[persistent damage|persistent cold]]"
+    desc: "⬻ jaws +9 ([[finesse]]); __Damage__ 1d6+1 (1d6+1) piercing plus 1d6 (1d6) [[persistent damage|persistent cold]]"
 
 sourcebook: "_Bestiary 2_, page 114."
 ```
 
-### Encounter
 ```encounter-table
 name: Icicle Snake
 creatures:

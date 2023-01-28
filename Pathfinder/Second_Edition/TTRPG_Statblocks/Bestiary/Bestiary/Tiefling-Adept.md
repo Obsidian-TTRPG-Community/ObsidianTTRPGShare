@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Tiefling Adept"
+statblock: inline
 name: "Tiefling Adept"
-hp: 29
-ac: 17
-modifier: 6
 level: 3
 ---
-### Tiefling Adept
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Tiefling"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +8 (1d20+8);"
+hp: 29
 health:
   - name: HP
     desc: "29; "
@@ -57,11 +56,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ staff +6 ([[two-handed 1d8]]); __Damage__ 1 (1d6) bludgeoning"
+    desc: "⬻ staff +6 ([[two-handed 1d8]]); __Damage__ 1d6 (1d6) bludgeoning"
   - name: Melee
-    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d4 (1d4) piercing"
   - name: Ranged
-    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+1) piercing"
+    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+1 (1d4+1) piercing"
 
 spellcasting:
   - name: "Arcane Prepared Spells"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 262."
 ```
 
-### Encounter
 ```encounter-table
 name: Tiefling Adept
 creatures:

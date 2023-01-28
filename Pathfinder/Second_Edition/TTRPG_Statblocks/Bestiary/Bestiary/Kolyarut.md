@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Kolyarut"
+statblock: inline
 name: "Kolyarut"
-hp: 215
-ac: 34
-modifier: 23
 level: 12
 ---
-### Kolyarut
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Aeon"
 trait_04: "Inevitable"
 trait_05: "Monitor"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +23 (1d20+23); __Ref__: +24 (1d20+24); __Will__: +22 (1d20+22);"
+hp: 215
 health:
   - name: HP
     desc: "215; [[regeneration]] 15 (deactivated by chaotic); __Immunities__ poison, death effects, disease, emotion, unconscious;"
@@ -54,9 +53,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ bastard sword +26 ([[lawful]], [[magical]], [[two-hand|two-hand d12]]); __Damage__ 1 (2d8+13) slashing plus 1 (1d6) lawful"
+    desc: "⬻ bastard sword +26 ([[lawful]], [[magical]], [[two-hand|two-hand d12]]); __Damage__ 2d8+13 (2d8+13) slashing plus 1d6 (1d6) lawful"
   - name: Melee
-    desc: "⬻ fist +23 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1 (1d10+11) bludgeoning plus 1 (1d6) lawful"
+    desc: "⬻ fist +23 ([[agile]], [[lawful]], [[magical]]); __Damage__ 1d10+11 (1d10+11) bludgeoning plus 1d6 (1d6) lawful"
 
 spellcasting:
   - name: "Divine Innate Spells"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 10."
 ```
 
-### Encounter
 ```encounter-table
 name: Kolyarut
 creatures:

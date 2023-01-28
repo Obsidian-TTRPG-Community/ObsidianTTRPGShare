@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Norn"
+statblock: inline
 name: "Norn"
-hp: 375
-ac: 46
-modifier: 41
 level: 20
 ---
-### Norn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "LN"
 size: "Large"
 trait_04: "Fey"
+modifier: 41
 perception:
   - name: "Perception"
     desc: "Perception +41; __detect magic__, __greater darkvision__, __lifesense 120__, __true seeing__;"
@@ -47,7 +45,7 @@ abilities_bot:
   - name: "Shift Fate"
     desc: "⬲ ([[divination]], [[occult]]); __Trigger__ A creature within 120 feet attempts a saving throw __Effect__  The creature rolls the saving throw twice, and then the norn decides which result applies. If the norn chooses the lower roll, this is a [[misfortune]] effect; if she chooses the higher roll, it's a [[fortune]] effect; if they're the same, she decides which trait to apply."
   - name: "Snip Thread"
-    desc: "⬺ ([[death]], [[manipulate]], [[necromancy]], [[occult]]); __Frequency__ three times per day  __Effect__  The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 negative damage (DC 42 basic Fortitude save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately. A creature slain by Snip Thread can't be restored to life except by miracle, wish, or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours. The norn can't use Snip Thread again for 1 (1d4) rounds."
+    desc: "⬺ ([[death]], [[manipulate]], [[necromancy]], [[occult]]); __Frequency__ three times per day  __Effect__  The norn produces a golden thread linked to the fate of a creature within 100 feet of her, then snips it short with her shears. The target takes 100 negative damage (DC 42 basic Fortitude save). If the target is reduced to 0 Hit Points from this damage, the thread is completely severed and the creature dies immediately. A creature slain by Snip Thread can't be restored to life except by miracle, wish, or similarly powerful magic; or by divine intervention. Regardless of the outcome of their saving throw, a creature targeted by Snip Thread then becomes temporarily immune for 24 hours. The norn can't use Snip Thread again for 1d4 (1d4) rounds."
 
 speed: 35 feet, fly 35 feet
 
@@ -55,6 +53,7 @@ ac: 46
 armorclass:
   - name: AC
     desc: "46; __Fort__: +34 (1d20+34); __Ref__: +30 (1d20+30); __Will__: +38 (1d20+38);"
+hp: 375
 health:
   - name: HP
     desc: "375; [[regeneration]] 20 (deactivated by cold iron); __Immunities__ flat-footed, negative;"
@@ -62,9 +61,9 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ norn shears +38 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile p]]); __Damage__ 1 (4d6+15) slashing plus 1 (5d6) negative and sever fate"
+    desc: "⬻ norn shears +38 ([[deadly|deadly 2d12]], [[magical]], [[reach|reach 10 feet]], [[versatile|versatile p]]); __Damage__ 4d6+15 (4d6+15) slashing plus 5d6 (5d6) negative and sever fate"
   - name: Melee
-    desc: "⬻ hand of fate +38 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 1 (4d10+15) negative plus sever fate"
+    desc: "⬻ hand of fate +38 ([[agile]], [[magical]], [[reach|reach 10 feet]]); __Damage__ 4d10+15 (4d10+15) negative plus sever fate"
 
 spellcasting:
   - name: "Occult Innate Spells"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 184."
 ```
 
-### Encounter
 ```encounter-table
 name: Norn
 creatures:

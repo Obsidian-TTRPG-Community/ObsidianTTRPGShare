@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Giant Frog"
+statblock: inline
 name: "Giant Frog"
-hp: 30
-ac: 15
-modifier: 7
 level: 1
 ---
-### Giant Frog
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__;"
@@ -44,6 +42,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -51,14 +50,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ jaws +8 __Damage__ 1 (1d6+3) piercing plus Grab"
+    desc: "⬻ jaws +8 __Damage__ 1d6+3 (1d6+3) piercing plus Grab"
   - name: Melee
     desc: "⬻ tongue +8 ([[reach|reach 15 feet]]); __Damage__ tongue grab"
 
 sourcebook: "_Bestiary 2_, page 121."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Frog
 creatures:

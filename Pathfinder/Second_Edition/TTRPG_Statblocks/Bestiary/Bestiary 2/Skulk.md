@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Skulk"
+statblock: inline
 name: "Skulk"
-hp: 21
-ac: 16
-modifier: 5
 level: 1
 ---
-### Skulk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Skulk"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__;"
@@ -43,7 +41,7 @@ abilities_top:
     desc: "[[dagger]] (2), [[shortsword]];"
 abilities_bot:
   - name: "Sneak Attack"
-    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
+    desc: "  A skulk's [[Strike|Strikes]] deal an extra 1d6 (1d6) precision damage to [[flat-footed|flat-footed]] creatures."
 
 speed: 25 feet
 
@@ -51,6 +49,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 21
 health:
   - name: HP
     desc: "21; "
@@ -58,14 +57,13 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d6+2) piercing"
+    desc: "⬻ shortsword +8 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1d6+2 (1d6+2) piercing"
   - name: Ranged
-    desc: "⬻ dagger +8 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4+2) piercing"
+    desc: "⬻ dagger +8 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1d4+2 (1d4+2) piercing"
 
 sourcebook: "_Bestiary 2_, page 243."
 ```
 
-### Encounter
 ```encounter-table
 name: Skulk
 creatures:

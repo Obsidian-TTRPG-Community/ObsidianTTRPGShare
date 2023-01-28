@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Bodak"
+statblock: inline
 name: "Bodak"
-hp: 160
-ac: 27
-modifier: 17
 level: 8
 ---
-### Bodak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Medium"
 trait_04: "Undead"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__, __lifesense 60__;"
@@ -51,6 +49,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +13 (1d20+13); __Ref__: +16 (1d20+16); __Will__: +19 (1d20+19);"
+hp: 160
 health:
   - name: HP
     desc: "160; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ good 10;"
@@ -58,12 +57,11 @@ health:
 
 attacks:
   - name: Melee
-    desc: "⬻ fist +18 ([[agile]], [[finesse]]); __Damage__ 1 (2d6+6) bludgeoning plus 1 (1d6) negative"
+    desc: "⬻ fist +18 ([[agile]], [[finesse]]); __Damage__ 2d6+6 (2d6+6) bludgeoning plus 1d6 (1d6) negative"
 
 sourcebook: "_Bestiary 2_, page 42."
 ```
 
-### Encounter
 ```encounter-table
 name: Bodak
 creatures:
