@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Crag Linnorm"
+statblock: inline
 name: "Crag Linnorm"
-hp: 270
-ac: 37
-modifier: 26
 level: 14
 ---
-### Crag Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Fire"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -54,6 +52,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +28 (1d20+28); __Ref__: +24 (1d20+24); __Will__: +22 (1d20+22);"
+hp: 270
 health:
   - name: HP
     desc: "270; [[regeneration]] 10 (deactivated by cold iron); __Immunities__ fire, curse, paralyzed, sleep; __Weaknesses__ cold iron 10;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 224."
 ```
 
-### Encounter
 ```encounter-table
 name: Crag Linnorm
 creatures:

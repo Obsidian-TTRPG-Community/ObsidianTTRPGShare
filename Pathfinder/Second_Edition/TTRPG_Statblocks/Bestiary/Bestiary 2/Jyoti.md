@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Jyoti"
+statblock: inline
 name: "Jyoti"
-hp: 155
-ac: 28
-modifier: 21
 level: 9
 ---
-### Jyoti
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Fire"
 trait_04: "Humanoid"
 trait_05: "Positive"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ poison, death effects, disease; __Resistances__ fire 10, negative 10"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Jyoti
 creatures:

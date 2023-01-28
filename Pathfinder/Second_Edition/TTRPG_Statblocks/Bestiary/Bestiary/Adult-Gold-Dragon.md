@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Adult Gold Dragon"
+statblock: inline
 name: "Adult Gold Dragon"
-hp: 330
-ac: 38
-modifier: 29
 level: 15
 ---
-### Adult Gold Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Huge"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __darkvision__, __imprecise scent 60__;"
@@ -55,6 +53,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +28 (1d20+28); __Ref__: +25 (1d20+25); __Will__: +28 (1d20+28);"
+hp: 330
 health:
   - name: HP
     desc: "330;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 15;"
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 124."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Gold Dragon
 creatures:

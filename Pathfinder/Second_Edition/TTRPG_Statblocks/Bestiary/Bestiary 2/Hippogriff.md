@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Hippogriff"
+statblock: inline
 name: "Hippogriff"
-hp: 32
-ac: 18
-modifier: 8
 level: 2
 ---
-### Hippogriff
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 32
 health:
   - name: HP
     desc: "32; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 143."
 ```
 
-### Encounter
 ```encounter-table
 name: Hippogriff
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Yellow Musk Brute"
+statblock: inline
 name: "Yellow Musk Brute"
-hp: 45
-ac: 15
-modifier: 4
 level: 2
 ---
-### Yellow Musk Brute
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Mindless"
 trait_04: "Plant"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __low-light vision__;"
@@ -51,6 +49,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +10 (1d20+10); __Ref__: +3 (1d20+3); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Immunities__ mental; __Weaknesses__ fire 10;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 301."
 ```
 
-### Encounter
 ```encounter-table
 name: Yellow Musk Brute
 creatures:

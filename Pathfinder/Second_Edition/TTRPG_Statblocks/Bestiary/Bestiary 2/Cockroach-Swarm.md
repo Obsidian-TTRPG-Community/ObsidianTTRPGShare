@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Cockroach Swarm"
+statblock: inline
 name: "Cockroach Swarm"
-hp: 20
-ac: 18
-modifier: 6
 level: 2
 ---
-### Cockroach Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __imprecise scent 60__;"
@@ -45,6 +43,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 20
 health:
   - name: HP
     desc: "20;  __Immunities__ precision, swarm mind; __Weaknesses__ area damage 5, splash damage 5;"
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 53."
 ```
 
-### Encounter
 ```encounter-table
 name: Cockroach Swarm
 creatures:

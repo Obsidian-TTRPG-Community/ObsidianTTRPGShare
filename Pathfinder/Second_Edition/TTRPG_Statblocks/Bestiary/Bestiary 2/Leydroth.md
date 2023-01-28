@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Leydroth"
+statblock: inline
 name: "Leydroth"
-hp: 315
-ac: 40
-modifier: 30
 level: 17
 ---
-### Leydroth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "NE"
 size: "Large"
 trait_04: "Beast"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise magic sense 60__;"
@@ -54,6 +52,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; or 36 vs. non-magical; __Fort__: +32 (1d20+32); __Ref__: +30 (1d20+30); __Will__: +28 (1d20+28);"
+hp: 315
 health:
   - name: HP
     desc: "315;  __Resistances__ all 15"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 163."
 ```
 
-### Encounter
 ```encounter-table
 name: Leydroth
 creatures:

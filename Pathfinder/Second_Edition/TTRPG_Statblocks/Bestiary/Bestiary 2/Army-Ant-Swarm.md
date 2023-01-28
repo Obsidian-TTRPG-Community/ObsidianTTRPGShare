@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Army Ant Swarm"
+statblock: inline
 name: "Army Ant Swarm"
-hp: 55
-ac: 21
-modifier: 11
 level: 5
 ---
-### Army Ant Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 55
 health:
   - name: HP
     desc: "55;  __Immunities__ precision, swarm mind; __Weaknesses__ area ; __Resistances__ bludgeoning 2, piercing 5, slashing 5"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 20."
 ```
 
-### Encounter
 ```encounter-table
 name: Army Ant Swarm
 creatures:

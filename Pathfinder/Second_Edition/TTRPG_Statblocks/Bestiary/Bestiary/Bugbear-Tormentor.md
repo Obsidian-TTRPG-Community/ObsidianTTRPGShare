@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Bugbear Tormentor"
+statblock: inline
 name: "Bugbear Tormentor"
-hp: 44
-ac: 20
-modifier: 8
 level: 3
 ---
-### Bugbear Tormentor
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise scent 30__;"
@@ -49,6 +47,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +9 (1d20+9); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 44
 health:
   - name: HP
     desc: "44; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 47."
 ```
 
-### Encounter
 ```encounter-table
 name: Bugbear Tormentor
 creatures:

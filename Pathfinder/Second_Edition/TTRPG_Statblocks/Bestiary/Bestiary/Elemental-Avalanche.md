@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Elemental Avalanche"
+statblock: inline
 name: "Elemental Avalanche"
-hp: 215
-ac: 32
-modifier: 20
 level: 11
 ---
-### Elemental Avalanche
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __imprecise [[tremorsense]] 90__;"
@@ -56,6 +54,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +26 (1d20+26); __Ref__: +17 (1d20+17); __Will__: +21 (1d20+21);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary_, page 147."
 ```
 
-### Encounter
 ```encounter-table
 name: Elemental Avalanche
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Unicorn"
+statblock: inline
 name: "Unicorn"
-hp: 45
-ac: 20
-modifier: 13
 level: 3
 ---
-### Unicorn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Beast"
 trait_04: "Fey"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +10 (1d20+10); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 316."
 ```
 
-### Encounter
 ```encounter-table
 name: Unicorn
 creatures:

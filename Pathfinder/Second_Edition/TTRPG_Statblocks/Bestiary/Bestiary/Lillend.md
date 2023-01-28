@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Lillend"
+statblock: inline
 name: "Lillend"
-hp: 145
-ac: 25
-modifier: 16
 level: 7
 ---
-### Lillend
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Azata"
 trait_04: "Celestial"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +14 (1d20+14); __Ref__: +16 (1d20+16); __Will__: +16 (1d20+16);"
+hp: 145
 health:
   - name: HP
     desc: "145;  __Weaknesses__ cold iron 10, evil 10;"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 32."
 ```
 
-### Encounter
 ```encounter-table
 name: Lillend
 creatures:

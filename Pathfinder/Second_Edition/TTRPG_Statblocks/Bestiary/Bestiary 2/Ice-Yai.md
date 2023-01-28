@@ -7,14 +7,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Ice Yai"
+statblock: inline
 name: "Ice Yai"
-hp: 230
-ac: 34
-modifier: 26
 level: 13
 ---
-### Ice Yai
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -30,6 +27,7 @@ trait_04: "Fiend"
 trait_05: "Giant"
 trait_06: "Humanoid"
 trait_07: "Oni"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __greater darkvision__;"
@@ -58,6 +56,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +21 (1d20+21); __Ref__: +25 (1d20+25); __Will__: +23 (1d20+23);"
+hp: 230
 health:
   - name: HP
     desc: "230; [[regeneration]] 15 (deactivated by acid or fire); __Weaknesses__ fire 15;"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 189."
 ```
 
-### Encounter
 ```encounter-table
 name: Ice Yai
 creatures:

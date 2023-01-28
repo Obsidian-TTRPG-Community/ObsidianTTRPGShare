@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Nabasu"
+statblock: inline
 name: "Nabasu"
-hp: 165
-ac: 27
-modifier: 17
 level: 8
 ---
-### Nabasu
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +19 (1d20+19); __Ref__: +16 (1d20+16); __Will__: +16 (1d20+16);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Weaknesses__ cold iron 5, good 5;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 66."
 ```
 
-### Encounter
 ```encounter-table
 name: Nabasu
 creatures:

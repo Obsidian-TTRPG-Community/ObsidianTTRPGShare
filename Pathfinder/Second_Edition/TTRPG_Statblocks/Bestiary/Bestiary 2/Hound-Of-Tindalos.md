@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/time
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Hound Of Tindalos"
+statblock: inline
 name: "Hound Of Tindalos"
-hp: 90
-ac: 25
-modifier: 17
 level: 7
 ---
-### Hound Of Tindalos
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Aberration"
 trait_05: "Time"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __greater darkvision__;"
@@ -53,6 +51,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ controlled, emotion; __Resistances__ mental 10, poison 10, physical 10"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 146."
 ```
 
-### Encounter
 ```encounter-table
 name: Hound Of Tindalos
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Ant"
+statblock: inline
 name: "Giant Ant"
-hp: 30
-ac: 18
-modifier: 7
 level: 2
 ---
-### Giant Ant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +10 (1d20+10); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 20."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Ant
 creatures:

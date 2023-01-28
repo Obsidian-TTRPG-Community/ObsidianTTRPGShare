@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Iron Golem"
+statblock: inline
 name: "Iron Golem"
-hp: 190
-ac: 34
-modifier: 21
 level: 13
 ---
-### Iron Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -56,6 +54,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +26 (1d20+26); __Ref__: +21 (1d20+21); __Will__: +22 (1d20+22);"
+hp: 190
 health:
   - name: HP
     desc: "190;  __Immunities__ bleed, fire, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ physical 15 (except adamantine)"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 188."
 ```
 
-### Encounter
 ```encounter-table
 name: Iron Golem
 creatures:

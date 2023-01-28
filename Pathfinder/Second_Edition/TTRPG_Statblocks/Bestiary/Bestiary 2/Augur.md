@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Augur"
+statblock: inline
 name: "Augur"
-hp: 14
-ac: 17
-modifier: 8
 level: 1
 ---
-### Augur
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Tiny"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __greater darkvision__, __painsight__;"
@@ -52,6 +50,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +4 (1d20+4); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 14
 health:
   - name: HP
     desc: "14; [[regeneration]] 2 (deactivated by good or silver); __Immunities__ cold; __Weaknesses__ good 5, silver 5;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 280."
 ```
 
-### Encounter
 ```encounter-table
 name: Augur
 creatures:

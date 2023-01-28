@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Azuretzi"
+statblock: inline
 name: "Azuretzi"
-hp: 75
-ac: 22
-modifier: 11
 level: 5
 ---
-### Azuretzi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __imprecise entropy sense 30__;"
@@ -56,6 +54,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +11 (1d20+11); __Ref__: +15 (1d20+15); __Will__: +11 (1d20+11);"
+hp: 75
 health:
   - name: HP
     desc: "75; fast healing 2; __Weaknesses__ lawful 5; __Resistances__ precision 5, protean anatomy 8"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 206."
 ```
 
-### Encounter
 ```encounter-table
 name: Azuretzi
 creatures:

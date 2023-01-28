@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Zombie Brute"
+statblock: inline
 name: "Zombie Brute"
-hp: 70
-ac: 15
-modifier: 4
 level: 2
 ---
-### Zombie Brute
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Mindless"
 trait_04: "Undead"
 trait_05: "Zombie"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +10 (1d20+10); __Ref__: +3 (1d20+3); __Will__: +6 (1d20+6);"
+hp: 70
 health:
   - name: HP
     desc: "70; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ positive 10, slashing 10;"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary_, page 341."
 ```
 
-### Encounter
 ```encounter-table
 name: Zombie Brute
 creatures:

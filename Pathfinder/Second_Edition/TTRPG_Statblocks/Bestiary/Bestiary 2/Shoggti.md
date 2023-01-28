@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Shoggti"
+statblock: inline
 name: "Shoggti"
-hp: 105
-ac: 25
-modifier: 13
 level: 7
 ---
-### Shoggti
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Amphibious"
 trait_05: "Fiend"
 trait_06: "Qlippoth"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 105
 health:
   - name: HP
     desc: "105;  __Immunities__ controlled, fear; __Weaknesses__ lawful 5;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 213."
 ```
 
-### Encounter
 ```encounter-table
 name: Shoggti
 creatures:

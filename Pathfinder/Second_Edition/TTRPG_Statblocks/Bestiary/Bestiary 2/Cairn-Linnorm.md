@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Cairn Linnorm"
+statblock: inline
 name: "Cairn Linnorm"
-hp: 360
-ac: 43
-modifier: 30
 level: 18
 ---
-### Cairn Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Gargantuan"
 trait_04: "Dragon"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __imprecise scent 60__, __[[darkvision]]__, __[[true seeing]]__;"
@@ -53,6 +51,7 @@ ac: 43
 armorclass:
   - name: AC
     desc: "43; __Fort__: +34 (1d20+34); __Ref__: +30 (1d20+30); __Will__: +26 (1d20+26);"
+hp: 360
 health:
   - name: HP
     desc: "360; [[regeneration]] 15 (deactivated by cold iron); __Weaknesses__ cold iron 15;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 166."
 ```
 
-### Encounter
 ```encounter-table
 name: Cairn Linnorm
 creatures:

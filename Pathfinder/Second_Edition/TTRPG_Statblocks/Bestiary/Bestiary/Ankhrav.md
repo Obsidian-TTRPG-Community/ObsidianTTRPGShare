@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Ankhrav"
+statblock: inline
 name: "Ankhrav"
-hp: 40
-ac: 20
-modifier: 7
 level: 3
 ---
-### Ankhrav
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -44,6 +42,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +12 (1d20+12); __Ref__: +8 (1d20+8); __Will__: +7 (1d20+7);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 22."
 ```
 
-### Encounter
 ```encounter-table
 name: Ankhrav
 creatures:

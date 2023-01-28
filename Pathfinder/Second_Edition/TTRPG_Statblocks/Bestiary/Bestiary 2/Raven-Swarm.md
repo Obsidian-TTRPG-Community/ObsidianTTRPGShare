@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Raven Swarm"
+statblock: inline
 name: "Raven Swarm"
-hp: 30
-ac: 19
-modifier: 9
 level: 3
 ---
-### Raven Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __low-light vision__;"
@@ -45,6 +43,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +12 (1d20+12); __Will__: +9 (1d20+9);"
+hp: 30
 health:
   - name: HP
     desc: "30;  __Immunities__ precision, swarm mind; __Weaknesses__ area ;"
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 221."
 ```
 
-### Encounter
 ```encounter-table
 name: Raven Swarm
 creatures:

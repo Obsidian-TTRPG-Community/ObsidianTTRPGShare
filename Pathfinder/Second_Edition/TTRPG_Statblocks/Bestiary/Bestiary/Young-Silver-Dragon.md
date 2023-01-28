@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Young Silver Dragon"
+statblock: inline
 name: "Young Silver Dragon"
-hp: 200
-ac: 31
-modifier: 20
 level: 10
 ---
-### Young Silver Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Large"
 trait_03: "Cold"
 trait_04: "Dragon"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __fog vision__, __imprecise scent 60__;"
@@ -58,6 +56,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +20 (1d20+20); __Ref__: +17 (1d20+17); __Will__: +21 (1d20+21);"
+hp: 200
 health:
   - name: HP
     desc: "200;  __Immunities__ cold, paralyzed, sleep; __Weaknesses__ fire 10;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 126."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Silver Dragon
 creatures:

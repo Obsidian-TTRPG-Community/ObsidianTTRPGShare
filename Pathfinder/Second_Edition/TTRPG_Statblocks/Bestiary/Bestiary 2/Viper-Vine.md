@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Viper Vine"
+statblock: inline
 name: "Viper Vine"
-hp: 270
-ac: 33
-modifier: 22
 level: 13
 ---
-### Viper Vine
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 13"
 alignment: "N"
 size: "Large"
 trait_03: "Plant"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __low-light vision__, __imprecise [[tremorsense]] 60__;"
@@ -47,6 +45,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +26 (1d20+26); __Ref__: +24 (1d20+24); __Will__: +22 (1d20+22);"
+hp: 270
 health:
   - name: HP
     desc: "270;  __Resistances__ poison 15"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 287."
 ```
 
-### Encounter
 ```encounter-table
 name: Viper Vine
 creatures:

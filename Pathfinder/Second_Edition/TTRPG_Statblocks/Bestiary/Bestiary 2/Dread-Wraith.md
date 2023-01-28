@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Dread Wraith"
+statblock: inline
 name: "Dread Wraith"
-hp: 130
-ac: 28
-modifier: 19
 level: 9
 ---
-### Dread Wraith
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Incorporeal"
 trait_04: "Undead"
 trait_05: "Wraith"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__, __lifesense 60__;"
@@ -56,6 +54,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +16 (1d20+16); __Ref__: +19 (1d20+19); __Will__: +21 (1d20+21);"
+hp: 130
 health:
   - name: HP
     desc: "130; negative healing; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all 10 (except force, ghost touch, or positive; double resistance vs. non-magical)"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 298."
 ```
 
-### Encounter
 ```encounter-table
 name: Dread Wraith
 creatures:

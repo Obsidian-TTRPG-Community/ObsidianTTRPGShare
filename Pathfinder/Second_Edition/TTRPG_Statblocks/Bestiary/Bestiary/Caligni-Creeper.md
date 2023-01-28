@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Caligni Creeper"
+statblock: inline
 name: "Caligni Creeper"
-hp: 30
-ac: 19
-modifier: 8
 level: 2
 ---
-### Caligni Creeper
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Caligni"
 trait_04: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __greater darkvision__, __light blindness__;"
@@ -50,6 +48,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 30
 health:
   - name: HP
     desc: "30; death flash;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 50."
 ```
 
-### Encounter
 ```encounter-table
 name: Caligni Creeper
 creatures:

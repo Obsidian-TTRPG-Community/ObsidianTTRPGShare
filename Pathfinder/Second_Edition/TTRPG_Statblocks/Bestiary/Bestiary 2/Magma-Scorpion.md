@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Magma Scorpion"
+statblock: inline
 name: "Magma Scorpion"
-hp: 155
-ac: 28
-modifier: 18
 level: 8
 ---
-### Magma Scorpion
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__, __smoke vision__;"
@@ -48,6 +46,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +19 (1d20+19); __Ref__: +14 (1d20+14); __Will__: +16 (1d20+16);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ bleed, fire, poison, paralyzed, sleep;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 111."
 ```
 
-### Encounter
 ```encounter-table
 name: Magma Scorpion
 creatures:

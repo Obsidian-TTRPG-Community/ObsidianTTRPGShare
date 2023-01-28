@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Carrion Golem"
+statblock: inline
 name: "Carrion Golem"
-hp: 60
-ac: 19
-modifier: 6
 level: 4
 ---
-### Carrion Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Medium"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +13 (1d20+13); __Ref__: +8 (1d20+8); __Will__: +10 (1d20+10);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ bleed, electricity, death effects, disease, doomed, drained, fatigued, healing, magic (see below);"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 128."
 ```
 
-### Encounter
 ```encounter-table
 name: Carrion Golem
 creatures:

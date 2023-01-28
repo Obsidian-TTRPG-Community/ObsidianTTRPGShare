@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Mudwretch"
+statblock: inline
 name: "Mudwretch"
-hp: 40
-ac: 16
-modifier: 9
 level: 2
 ---
-### Mudwretch
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Earth"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -57,6 +55,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +11 (1d20+11); __Ref__: +4 (1d20+4); __Will__: +9 (1d20+9);"
+hp: 40
 health:
   - name: HP
     desc: "40;  __Immunities__ bleed, poison, critical hits, paralyzed, sleep; __Weaknesses__ fire 5; __Resistances__ acid 3, physical 3 except bludgeoning"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 176."
 ```
 
-### Encounter
 ```encounter-table
 name: Mudwretch
 creatures:

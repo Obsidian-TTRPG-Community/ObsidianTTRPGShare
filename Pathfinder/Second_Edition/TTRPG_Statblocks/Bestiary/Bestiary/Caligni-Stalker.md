@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Caligni Stalker"
+statblock: inline
 name: "Caligni Stalker"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Caligni Stalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Medium"
 trait_03: "Caligni"
 trait_04: "Humanoid"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __greater darkvision__, __light blindness__;"
@@ -56,6 +54,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +10 (1d20+10); __Ref__: +13 (1d20+13); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60; death flame;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 51."
 ```
 
-### Encounter
 ```encounter-table
 name: Caligni Stalker
 creatures:

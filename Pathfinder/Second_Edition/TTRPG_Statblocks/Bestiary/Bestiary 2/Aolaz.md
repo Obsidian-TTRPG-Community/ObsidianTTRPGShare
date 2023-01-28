@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Aolaz"
+statblock: inline
 name: "Aolaz"
-hp: 255
-ac: 42
-modifier: 33
 level: 18
 ---
-### Aolaz
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Gargantuan"
 trait_04: "Construct"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __flawless hearing__, __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +35 (1d20+35); __Ref__: +27 (1d20+27); __Will__: +31 (1d20+31);"
+hp: 255
 health:
   - name: HP
     desc: "255;  __Immunities__ bleed, poison, sonic, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 21."
 ```
 
-### Encounter
 ```encounter-table
 name: Aolaz
 creatures:

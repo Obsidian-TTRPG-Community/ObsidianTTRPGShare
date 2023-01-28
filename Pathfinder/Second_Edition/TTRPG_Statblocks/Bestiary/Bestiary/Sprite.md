@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Sprite"
+statblock: inline
 name: "Sprite"
-hp: 11
-ac: 15
-modifier: 4
 level: -1
 ---
-### Sprite
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Tiny"
 trait_03: "Fey"
 trait_04: "Sprite"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __low-light vision__;"
@@ -46,6 +44,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +2 (1d20+2); __Ref__: +8 (1d20+8); __Will__: +4 (1d20+4);"
+hp: 11
 health:
   - name: HP
     desc: "11; "
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 308."
 ```
 
-### Encounter
 ```encounter-table
 name: Sprite
 creatures:

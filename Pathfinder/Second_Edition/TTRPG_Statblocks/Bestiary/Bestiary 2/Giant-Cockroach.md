@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Giant Cockroach"
+statblock: inline
 name: "Giant Cockroach"
-hp: 20
-ac: 16
-modifier: 6
 level: 1
 ---
-### Giant Cockroach
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __imprecise scent 60__;"
@@ -42,6 +40,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +6 (1d20+6); __Ref__: +8 (1d20+8); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -54,7 +53,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 53."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Cockroach
 creatures:

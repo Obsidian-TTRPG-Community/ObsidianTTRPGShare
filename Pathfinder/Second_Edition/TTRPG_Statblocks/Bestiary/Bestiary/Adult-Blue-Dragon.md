@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Adult Blue Dragon"
+statblock: inline
 name: "Adult Blue Dragon"
-hp: 260
-ac: 34
-modifier: 24
 level: 13
 ---
-### Adult Blue Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Huge"
 trait_03: "Dragon"
 trait_04: "Electricity"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__, __imprecise scent 60__;"
@@ -58,6 +56,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +24 (1d20+24); __Ref__: +23 (1d20+23); __Will__: +23 (1d20+23);"
+hp: 260
 health:
   - name: HP
     desc: "260;  __Immunities__ electricity, paralyzed, sleep;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 108."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Blue Dragon
 creatures:

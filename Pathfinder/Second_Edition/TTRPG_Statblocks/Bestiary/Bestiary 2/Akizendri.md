@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Akizendri"
+statblock: inline
 name: "Akizendri"
-hp: 42
-ac: 19
-modifier: 8
 level: 3
 ---
-### Akizendri
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise entropy sense 30__;"
@@ -56,6 +54,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +11 (1d20+11); __Will__: +10 (1d20+10);"
+hp: 42
 health:
   - name: HP
     desc: "42; fast healing 1; __Weaknesses__ lawful 3; __Resistances__ precision 3, protean anatomy 6"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 204."
 ```
 
-### Encounter
 ```encounter-table
 name: Akizendri
 creatures:

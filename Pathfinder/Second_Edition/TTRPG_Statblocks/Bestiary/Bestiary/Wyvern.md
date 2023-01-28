@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Wyvern"
+statblock: inline
 name: "Wyvern"
-hp: 95
-ac: 24
-modifier: 13
 level: 6
 ---
-### Wyvern
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "NE"
 size: "Large"
 trait_03: "Dragon"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __imprecise scent 30__;"
@@ -52,6 +50,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +13 (1d20+13);"
+hp: 95
 health:
   - name: HP
     desc: "95;  __Immunities__ paralyzed, unconscious;"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 133."
 ```
 
-### Encounter
 ```encounter-table
 name: Wyvern
 creatures:

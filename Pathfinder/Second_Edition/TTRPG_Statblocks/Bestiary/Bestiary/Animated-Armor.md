@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Animated Armor"
+statblock: inline
 name: "Animated Armor"
-hp: 20
-ac: 17
-modifier: 6
 level: 2
 ---
-### Animated Armor
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Construct"
 trait_04: "Mindless"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -43,6 +41,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17;  (13 when broken); __Fort__: +10 (1d20+10); __Ref__: +3 (1d20+3); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary_, page 20."
 ```
 
-### Encounter
 ```encounter-table
 name: Animated Armor
 creatures:

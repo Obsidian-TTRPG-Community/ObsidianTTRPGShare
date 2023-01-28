@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Skulk"
+statblock: inline
 name: "Skulk"
-hp: 21
-ac: 16
-modifier: 5
 level: 1
 ---
-### Skulk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Skulk"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__;"
@@ -51,6 +49,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 21
 health:
   - name: HP
     desc: "21; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 243."
 ```
 
-### Encounter
 ```encounter-table
 name: Skulk
 creatures:

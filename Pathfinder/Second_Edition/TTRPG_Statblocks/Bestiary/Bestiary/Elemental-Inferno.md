@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Elemental Inferno"
+statblock: inline
 name: "Elemental Inferno"
-hp: 210
-ac: 31
-modifier: 20
 level: 11
 ---
-### Elemental Inferno
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __smoke vision__;"
@@ -56,6 +54,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +21 (1d20+21); __Ref__: +23 (1d20+23); __Will__: +19 (1d20+19);"
+hp: 210
 health:
   - name: HP
     desc: "210; explosion; __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 15;"
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary_, page 149."
 ```
 
-### Encounter
 ```encounter-table
 name: Elemental Inferno
 creatures:

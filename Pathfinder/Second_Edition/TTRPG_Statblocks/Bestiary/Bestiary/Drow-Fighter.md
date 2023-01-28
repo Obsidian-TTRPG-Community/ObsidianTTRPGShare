@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Drow Fighter"
+statblock: inline
 name: "Drow Fighter"
-hp: 18
-ac: 18
-modifier: 6
 level: 1
 ---
-### Drow Fighter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Drow"
 trait_04: "Elf"
 trait_05: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +9 (1d20+9); __Will__: +4 (1d20+4);"
+hp: 18
 health:
   - name: HP
     desc: "18;  __Immunities__ sleep;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 136."
 ```
 
-### Encounter
 ```encounter-table
 name: Drow Fighter
 creatures:

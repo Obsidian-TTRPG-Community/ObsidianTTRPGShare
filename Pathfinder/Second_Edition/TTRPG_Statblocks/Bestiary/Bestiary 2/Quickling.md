@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Quickling"
+statblock: inline
 name: "Quickling"
-hp: 25
-ac: 22
-modifier: 9
 level: 3
 ---
-### Quickling
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Small"
 trait_04: "Fey"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __low-light vision__;"
@@ -54,6 +52,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +6 (1d20+6); __Ref__: +13 (1d20+13); __Will__: +8 (1d20+8);"
+hp: 25
 health:
   - name: HP
     desc: "25;  __Weaknesses__ cold iron 5;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 218."
 ```
 
-### Encounter
 ```encounter-table
 name: Quickling
 creatures:

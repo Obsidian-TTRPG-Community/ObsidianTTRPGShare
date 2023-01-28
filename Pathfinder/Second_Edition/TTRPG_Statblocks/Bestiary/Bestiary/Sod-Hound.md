@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Sod Hound"
+statblock: inline
 name: "Sod Hound"
-hp: 44
-ac: 19
-modifier: 9
 level: 3
 ---
-### Sod Hound
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __imprecise crystal sense 60__, __darkvision__;"
@@ -46,6 +44,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +12 (1d20+12); __Ref__: +6 (1d20+6); __Will__: +7 (1d20+7);"
+hp: 44
 health:
   - name: HP
     desc: "44; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 146."
 ```
 
-### Encounter
 ```encounter-table
 name: Sod Hound
 creatures:

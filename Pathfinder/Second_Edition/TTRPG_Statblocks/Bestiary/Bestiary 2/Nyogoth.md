@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Nyogoth"
+statblock: inline
 name: "Nyogoth"
-hp: 175
-ac: 29
-modifier: 19
 level: 10
 ---
-### Nyogoth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Medium"
 trait_04: "Fiend"
 trait_05: "Qlippoth"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +20 (1d20+20); __Ref__: +19 (1d20+19); __Will__: +16 (1d20+16);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ acid, controlled, fear; __Weaknesses__ lawful 10; __Resistances__ mental 10, physical 10 (except cold iron)"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 214."
 ```
 
-### Encounter
 ```encounter-table
 name: Nyogoth
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Ghast"
+statblock: inline
 name: "Ghast"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Ghast
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Ghoul"
 trait_04: "Undead"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 169."
 ```
 
-### Encounter
 ```encounter-table
 name: Ghast
 creatures:

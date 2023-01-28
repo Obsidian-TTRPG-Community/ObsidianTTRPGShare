@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Giant Flytrap"
+statblock: inline
 name: "Giant Flytrap"
-hp: 185
-ac: 29
-modifier: 17
 level: 10
 ---
-### Giant Flytrap
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Mindless"
 trait_04: "Plant"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __imprecise [[tremorsense]] 60__;"
@@ -50,6 +48,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +21 (1d20+21); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 185
 health:
   - name: HP
     desc: "185;  __Immunities__ mental; __Weaknesses__ fire 10; __Resistances__ acid 10"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 160."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Flytrap
 creatures:

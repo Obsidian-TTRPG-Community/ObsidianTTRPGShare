@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Veranallia"
+statblock: inline
 name: "Veranallia"
-hp: 475
-ac: 45
-modifier: 38
 level: 20
 ---
-### Veranallia
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Medium"
 trait_03: "Azata"
 trait_04: "Celestial"
+modifier: 38
 perception:
   - name: "Perception"
     desc: "Perception +38; __darkvision__, __imprecise [[tremorsense]] 120__;"
@@ -49,6 +47,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +36 (1d20+36); __Ref__: +34 (1d20+34); __Will__: +38 (1d20+38);"
+hp: 475
 health:
   - name: HP
     desc: "475;  __Weaknesses__ cold iron 20, evil 20;"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 31."
 ```
 
-### Encounter
 ```encounter-table
 name: Veranallia
 creatures:

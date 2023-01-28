@@ -7,14 +7,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Onidoshi"
+statblock: inline
 name: "Onidoshi"
-hp: 125
-ac: 27
-modifier: 17
 level: 8
 ---
-### Onidoshi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_03: "Fiend"
 trait_04: "Giant"
 trait_05: "Humanoid"
 trait_06: "Oni"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +15 (1d20+15); __Will__: +15 (1d20+15);"
+hp: 125
 health:
   - name: HP
     desc: "125; [[regeneration]] 7 (deactivated by acid or fire);"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 188."
 ```
 
-### Encounter
 ```encounter-table
 name: Onidoshi
 creatures:

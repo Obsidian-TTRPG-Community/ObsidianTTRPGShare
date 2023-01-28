@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Dig-widget"
+statblock: inline
 name: "Dig-widget"
-hp: 65
-ac: 23
-modifier: 9
 level: 5
 ---
-### Dig-widget
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Construct"
 trait_04: "Mindless"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -51,6 +49,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +10 (1d20+10); __Ref__: +14 (1d20+14); __Will__: +7 (1d20+7);"
+hp: 65
 health:
   - name: HP
     desc: "65;  __Immunities__ bleed, death;"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 79."
 ```
 
-### Encounter
 ```encounter-table
 name: Dig-widget
 creatures:

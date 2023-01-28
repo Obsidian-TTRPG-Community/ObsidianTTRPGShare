@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Sunflower Leshy"
+statblock: inline
 name: "Sunflower Leshy"
-hp: 20
-ac: 16
-modifier: 7
 level: 1
 ---
-### Sunflower Leshy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Leshy"
 trait_04: "Plant"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 160."
 ```
 
-### Encounter
 ```encounter-table
 name: Sunflower Leshy
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Earth Mephit"
+statblock: inline
 name: "Earth Mephit"
-hp: 20
-ac: 15
-modifier: 3
 level: 1
 ---
-### Earth Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -44,6 +42,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +8 (1d20+8); __Ref__: +4 (1d20+4); __Will__: +3 (1d20+3);"
+hp: 20
 health:
   - name: HP
     desc: "20; fast healing 2 (while underground);"
@@ -59,7 +58,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 150."
 ```
 
-### Encounter
 ```encounter-table
 name: Earth Mephit
 creatures:

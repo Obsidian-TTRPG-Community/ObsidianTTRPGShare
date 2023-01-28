@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Greater Nightmare"
+statblock: inline
 name: "Greater Nightmare"
-hp: 200
-ac: 31
-modifier: 22
 level: 11
 ---
-### Greater Nightmare
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Huge"
 trait_03: "Beast"
 trait_04: "Fiend"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +25 (1d20+25); __Ref__: +24 (1d20+24); __Will__: +21 (1d20+21);"
+hp: 200
 health:
   - name: HP
     desc: "200; "
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 244."
 ```
 
-### Encounter
 ```encounter-table
 name: Greater Nightmare
 creatures:

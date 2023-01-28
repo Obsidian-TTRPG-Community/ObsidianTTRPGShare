@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Imentesh"
+statblock: inline
 name: "Imentesh"
-hp: 175
-ac: 30
-modifier: 19
 level: 10
 ---
-### Imentesh
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Large"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__, __imprecise entropy sense 60__;"
@@ -58,6 +56,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +21 (1d20+21); __Ref__: +19 (1d20+19); __Will__: +17 (1d20+17);"
+hp: 175
 health:
   - name: HP
     desc: "175; fast healing 5; __Weaknesses__ lawful 10; __Resistances__ precision 10, protean anatomy 15"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 207."
 ```
 
-### Encounter
 ```encounter-table
 name: Imentesh
 creatures:

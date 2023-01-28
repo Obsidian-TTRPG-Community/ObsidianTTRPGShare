@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Kraken"
+statblock: inline
 name: "Kraken"
-hp: 360
-ac: 42
-modifier: 34
 level: 18
 ---
-### Kraken
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Gargantuan"
 trait_04: "Aquatic"
 trait_05: "Beast"
+modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; __darkvision__;"
@@ -56,6 +54,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +35 (1d20+35); __Ref__: +28 (1d20+28); __Will__: +32 (1d20+32);"
+hp: 360
 health:
   - name: HP
     desc: "360;  __Immunities__ controlled, emotion; __Resistances__ cold 10, poison 20"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 214."
 ```
 
-### Encounter
 ```encounter-table
 name: Kraken
 creatures:

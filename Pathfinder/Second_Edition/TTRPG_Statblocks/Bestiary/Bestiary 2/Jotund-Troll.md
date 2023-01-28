@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Jotund Troll"
+statblock: inline
 name: "Jotund Troll"
-hp: 360
-ac: 35
-modifier: 29
 level: 15
 ---
-### Jotund Troll
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Giant"
 trait_05: "Mutant"
 trait_06: "Troll"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __darkvision__;"
@@ -65,6 +63,7 @@ ac: 35
 armorclass:
   - name: AC
     desc: "35; all-around vision; __Fort__: +31 (1d20+31); __Ref__: +23 (1d20+23); __Will__: +23 (1d20+23);"
+hp: 360
 health:
   - name: HP
     desc: "360; [[regeneration]] 40 (deactivated by acid or fire); __Weaknesses__ fire 10;"
@@ -81,7 +80,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 267."
 ```
 
-### Encounter
 ```encounter-table
 name: Jotund Troll
 creatures:

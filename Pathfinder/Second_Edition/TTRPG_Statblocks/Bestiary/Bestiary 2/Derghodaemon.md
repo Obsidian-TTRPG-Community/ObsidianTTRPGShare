@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Derghodaemon"
+statblock: inline
 name: "Derghodaemon"
-hp: 240
-ac: 33
-modifier: 24
 level: 12
 ---
-### Derghodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__, __imprecise scent 60__;"
@@ -50,6 +48,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +21 (1d20+21); __Ref__: +24 (1d20+24); __Will__: +22 (1d20+22);"
+hp: 240
 health:
   - name: HP
     desc: "240;  __Immunities__ confusion, death effects, swarm attacks;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 60."
 ```
 
-### Encounter
 ```encounter-table
 name: Derghodaemon
 creatures:

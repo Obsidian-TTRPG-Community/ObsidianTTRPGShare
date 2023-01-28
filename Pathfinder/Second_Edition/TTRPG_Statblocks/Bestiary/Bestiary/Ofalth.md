@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Ofalth"
+statblock: inline
 name: "Ofalth"
-hp: 170
-ac: 31
-modifier: 18
 level: 10
 ---
-### Ofalth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +22 (1d20+22); __Ref__: +17 (1d20+17); __Will__: +18 (1d20+18);"
+hp: 170
 health:
   - name: HP
     desc: "170; filth wallow; __Immunities__ poison, disease;"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 251."
 ```
 
-### Encounter
 ```encounter-table
 name: Ofalth
 creatures:

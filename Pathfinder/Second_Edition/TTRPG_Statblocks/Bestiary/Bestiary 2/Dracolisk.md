@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Dracolisk"
+statblock: inline
 name: "Dracolisk"
-hp: 155
-ac: 28
-modifier: 18
 level: 9
 ---
-### Dracolisk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "N"
 size: "Large"
 trait_04: "Beast"
 trait_05: "Dragon"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -64,6 +62,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +20 (1d20+20); __Ref__: +17 (1d20+17); __Will__: +18 (1d20+18);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ paralyzed, petrified, sleep; __Resistances__ draconic resistance 10"
@@ -78,7 +77,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 35."
 ```
 
-### Encounter
 ```encounter-table
 name: Dracolisk
 creatures:

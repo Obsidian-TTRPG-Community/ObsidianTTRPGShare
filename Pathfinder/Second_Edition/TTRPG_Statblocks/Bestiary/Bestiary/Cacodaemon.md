@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Cacodaemon"
+statblock: inline
 name: "Cacodaemon"
-hp: 22
-ac: 16
-modifier: 6
 level: 1
 ---
-### Cacodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Tiny"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 22
 health:
   - name: HP
     desc: "22;  __Immunities__ death effects;"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 70."
 ```
 
-### Encounter
 ```encounter-table
 name: Cacodaemon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Greater Barghest"
+statblock: inline
 name: "Greater Barghest"
-hp: 105
-ac: 25
-modifier: 16
 level: 7
 ---
-### Greater Barghest
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_04: "Fiend"
 trait_05: "Mutant"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +12 (1d20+12);"
+hp: 105
 health:
   - name: HP
     desc: "105;  __Weaknesses__ good 5, lawful 5; __Resistances__ fire 10, physical 10 (except magical)"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 37."
 ```
 
-### Encounter
 ```encounter-table
 name: Greater Barghest
 creatures:

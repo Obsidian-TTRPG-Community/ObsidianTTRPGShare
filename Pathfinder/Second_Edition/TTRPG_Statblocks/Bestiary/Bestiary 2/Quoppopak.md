@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Quoppopak"
+statblock: inline
 name: "Quoppopak"
-hp: 195
-ac: 31
-modifier: 22
 level: 11
 ---
-### Quoppopak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Aberration"
 trait_04: "Aquatic"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __low-light vision__;"
@@ -51,6 +49,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +22 (1d20+22); __Ref__: +23 (1d20+23); __Will__: +18 (1d20+18);"
+hp: 195
 health:
   - name: HP
     desc: "195; "
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 219."
 ```
 
-### Encounter
 ```encounter-table
 name: Quoppopak
 creatures:

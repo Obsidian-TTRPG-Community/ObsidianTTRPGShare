@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Fire Giant"
+statblock: inline
 name: "Fire Giant"
-hp: 175
-ac: 31
-modifier: 18
 level: 10
 ---
-### Fire Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Fire"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__;"
@@ -56,6 +54,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +23 (1d20+23); __Ref__: +16 (1d20+16); __Will__: +18 (1d20+18);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ fire; __Weaknesses__ cold 10;"
@@ -72,7 +71,6 @@ attacks:
 sourcebook: "_Bestiary_, page 172."
 ```
 
-### Encounter
 ```encounter-table
 name: Fire Giant
 creatures:

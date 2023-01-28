@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Ogre Spider"
+statblock: inline
 name: "Ogre Spider"
-hp: 70
-ac: 23
-modifier: 13
 level: 5
 ---
-### Ogre Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __web sense__;"
@@ -49,6 +47,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +13 (1d20+13); __Will__: +9 (1d20+9);"
+hp: 70
 health:
   - name: HP
     desc: "70; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 249."
 ```
 
-### Encounter
 ```encounter-table
 name: Ogre Spider
 creatures:

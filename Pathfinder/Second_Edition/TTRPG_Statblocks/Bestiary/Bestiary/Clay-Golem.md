@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Clay Golem"
+statblock: inline
 name: "Clay Golem"
-hp: 175
-ac: 29
-modifier: 16
 level: 10
 ---
-### Clay Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -56,6 +54,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +23 (1d20+23); __Ref__: +16 (1d20+16); __Will__: +17 (1d20+17);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ acid, bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ physical 10 (except adamantine)"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 186."
 ```
 
-### Encounter
 ```encounter-table
 name: Clay Golem
 creatures:

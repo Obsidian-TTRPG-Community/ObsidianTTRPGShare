@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Stone Mauler"
+statblock: inline
 name: "Stone Mauler"
-hp: 180
-ac: 27
-modifier: 16
 level: 9
 ---
-### Stone Mauler
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise [[tremorsense]] 80__;"
@@ -52,6 +50,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +23 (1d20+23); __Ref__: +15 (1d20+15); __Will__: +19 (1d20+19);"
+hp: 180
 health:
   - name: HP
     desc: "180;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 147."
 ```
 
-### Encounter
 ```encounter-table
 name: Stone Mauler
 creatures:

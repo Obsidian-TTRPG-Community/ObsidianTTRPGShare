@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Sea Hag"
+statblock: inline
 name: "Sea Hag"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### Sea Hag
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Hag"
 trait_05: "Humanoid"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +11 (1d20+11); __Ref__: +8 (1d20+8); __Will__: +10 (1d20+10);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 200."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Hag
 creatures:

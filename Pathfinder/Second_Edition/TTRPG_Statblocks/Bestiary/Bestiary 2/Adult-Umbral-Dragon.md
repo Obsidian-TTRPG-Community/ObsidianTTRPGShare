@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Adult Umbral Dragon"
+statblock: inline
 name: "Adult Umbral Dragon"
-hp: 275
-ac: 37
-modifier: 29
 level: 15
 ---
-### Adult Umbral Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Shadow"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __greater darkvision__, __imprecise scent 60__;"
@@ -56,6 +54,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +27 (1d20+27); __Ref__: +25 (1d20+25); __Will__: +27 (1d20+27);"
+hp: 275
 health:
   - name: HP
     desc: "275;  __Immunities__ negative, paralyzed, sleep;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 96."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Umbral Dragon
 creatures:

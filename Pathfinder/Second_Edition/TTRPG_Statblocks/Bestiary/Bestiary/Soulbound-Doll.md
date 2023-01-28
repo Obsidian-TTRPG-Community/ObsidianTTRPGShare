@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Soulbound Doll"
+statblock: inline
 name: "Soulbound Doll"
-hp: 23
-ac: 20
-modifier: 8
 level: 2
 ---
-### Soulbound Doll
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ trait_01: "Any"
 size: "Tiny"
 trait_03: "Construct"
 trait_04: "Soulbound"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 23
 health:
   - name: HP
     desc: "23; "
@@ -59,7 +58,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 304."
 ```
 
-### Encounter
 ```encounter-table
 name: Soulbound Doll
 creatures:

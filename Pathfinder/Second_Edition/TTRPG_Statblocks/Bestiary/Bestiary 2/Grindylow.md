@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Grindylow"
+statblock: inline
 name: "Grindylow"
-hp: 14
-ac: 15
-modifier: 5
 level: 0
 ---
-### Grindylow
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Aberration"
 trait_04: "Amphibious"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +6 (1d20+6); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 14
 health:
   - name: HP
     desc: "14; "
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 138."
 ```
 
-### Encounter
 ```encounter-table
 name: Grindylow
 creatures:

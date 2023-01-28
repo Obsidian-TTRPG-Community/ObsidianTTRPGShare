@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Werebear"
+statblock: inline
 name: "Werebear"
-hp: 75
-ac: 23
-modifier: 11
 level: 4
 ---
-### Werebear
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_04: "Beast"
 trait_05: "Human"
 trait_06: "Humanoid"
 trait_07: "Werecreature"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__, __imprecise scent 30__;"
@@ -63,6 +61,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +10 (1d20+10);"
+hp: 75
 health:
   - name: HP
     desc: "75; "
@@ -83,7 +82,6 @@ attacks:
 sourcebook: "_Bestiary_, page 331."
 ```
 
-### Encounter
 ```encounter-table
 name: Werebear
 creatures:

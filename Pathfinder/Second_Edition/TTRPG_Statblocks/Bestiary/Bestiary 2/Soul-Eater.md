@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Soul Eater"
+statblock: inline
 name: "Soul Eater"
-hp: 80
-ac: 26
-modifier: 15
 level: 7
 ---
-### Soul Eater
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "NE"
 size: "Medium"
 trait_04: "Fiend"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __greater darkvision__;"
@@ -51,6 +49,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +13 (1d20+13); __Ref__: +19 (1d20+19); __Will__: +15 (1d20+15);"
+hp: 80
 health:
   - name: HP
     desc: "80;  __Immunities__ poison, precision, critical hits, disease, paralyzed, sleep; __Weaknesses__ good 10;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 247."
 ```
 
-### Encounter
 ```encounter-table
 name: Soul Eater
 creatures:

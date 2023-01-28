@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Ancient Green Dragon"
+statblock: inline
 name: "Ancient Green Dragon"
-hp: 315
-ac: 41
-modifier: 30
 level: 17
 ---
-### Ancient Green Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Gargantuan"
 trait_04: "Amphibious"
 trait_05: "Dragon"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__;"
@@ -63,6 +61,7 @@ ac: 41
 armorclass:
   - name: AC
     desc: "41; __Fort__: +30 (1d20+30); __Ref__: +29 (1d20+29); __Will__: +32 (1d20+32);"
+hp: 315
 health:
   - name: HP
     desc: "315;  __Immunities__ poison, paralyzed, sleep;"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 110."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Green Dragon
 creatures:

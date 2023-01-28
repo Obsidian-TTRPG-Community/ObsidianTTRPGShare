@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Xulgath Skulker"
+statblock: inline
 name: "Xulgath Skulker"
-hp: 28
-ac: 19
-modifier: 7
 level: 2
 ---
-### Xulgath Skulker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Xulgath"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +5 (1d20+5);"
+hp: 28
 health:
   - name: HP
     desc: "28; "
@@ -72,7 +71,6 @@ attacks:
 sourcebook: "_Bestiary_, page 337."
 ```
 
-### Encounter
 ```encounter-table
 name: Xulgath Skulker
 creatures:

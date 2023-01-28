@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Goblin Commando"
+statblock: inline
 name: "Goblin Commando"
-hp: 18
-ac: 17
-modifier: 5
 level: 1
 ---
-### Goblin Commando
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 180."
 ```
 
-### Encounter
 ```encounter-table
 name: Goblin Commando
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Cyclops"
+statblock: inline
 name: "Cyclops"
-hp: 80
-ac: 21
-modifier: 12
 level: 5
 ---
-### Cyclops
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "NE"
 size: "Large"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -54,6 +52,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +8 (1d20+8); __Will__: +12 (1d20+12);"
+hp: 80
 health:
   - name: HP
     desc: "80; "
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 68."
 ```
 
-### Encounter
 ```encounter-table
 name: Cyclops
 creatures:

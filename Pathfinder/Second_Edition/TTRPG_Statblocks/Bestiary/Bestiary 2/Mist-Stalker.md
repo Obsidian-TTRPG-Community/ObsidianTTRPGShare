@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Mist Stalker"
+statblock: inline
 name: "Mist Stalker"
-hp: 58
-ac: 20
-modifier: 13
 level: 4
 ---
-### Mist Stalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __mist vision__;"
@@ -52,6 +50,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +10 (1d20+10); __Ref__: +12 (1d20+12); __Will__: +11 (1d20+11);"
+hp: 58
 health:
   - name: HP
     desc: "58; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 114."
 ```
 
-### Encounter
 ```encounter-table
 name: Mist Stalker
 creatures:

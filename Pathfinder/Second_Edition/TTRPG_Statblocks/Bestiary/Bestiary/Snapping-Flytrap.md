@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Snapping Flytrap"
+statblock: inline
 name: "Snapping Flytrap"
-hp: 50
-ac: 18
-modifier: 7
 level: 3
 ---
-### Snapping Flytrap
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Mindless"
 trait_04: "Plant"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __imprecise [[tremorsense]] 30__;"
@@ -50,6 +48,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +12 (1d20+12); __Ref__: +8 (1d20+8); __Will__: +7 (1d20+7);"
+hp: 50
 health:
   - name: HP
     desc: "50;  __Immunities__ mental; __Weaknesses__ fire 5; __Resistances__ acid 5"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 160."
 ```
 
-### Encounter
 ```encounter-table
 name: Snapping Flytrap
 creatures:

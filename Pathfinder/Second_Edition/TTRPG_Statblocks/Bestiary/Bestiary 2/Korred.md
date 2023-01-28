@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Korred"
+statblock: inline
 name: "Korred"
-hp: 65
-ac: 21
-modifier: 12
 level: 4
 ---
-### Korred
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CN"
 size: "Small"
 trait_04: "Fey"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -56,6 +54,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +10 (1d20+10); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 65
 health:
   - name: HP
     desc: "65;  __Weaknesses__ cold iron 5;"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 155."
 ```
 
-### Encounter
 ```encounter-table
 name: Korred
 creatures:

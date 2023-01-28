@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Ooze Mephit"
+statblock: inline
 name: "Ooze Mephit"
-hp: 24
-ac: 14
-modifier: 3
 level: 1
 ---
-### Ooze Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_04: "Amphibious"
 trait_05: "Earth"
 trait_06: "Elemental"
 trait_07: "Water"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +7 (1d20+7); __Ref__: +4 (1d20+4); __Will__: +3 (1d20+3);"
+hp: 24
 health:
   - name: HP
     desc: "24; fast healing 2 (while touching mud or slime); __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 113."
 ```
 
-### Encounter
 ```encounter-table
 name: Ooze Mephit
 creatures:

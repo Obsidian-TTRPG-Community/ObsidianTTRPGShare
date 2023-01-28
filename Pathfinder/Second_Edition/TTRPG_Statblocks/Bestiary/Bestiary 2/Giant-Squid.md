@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Giant Squid"
+statblock: inline
 name: "Giant Squid"
-hp: 155
-ac: 28
-modifier: 21
 level: 9
 ---
-### Giant Squid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 155
 health:
   - name: HP
     desc: "155; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 254."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Squid
 creatures:

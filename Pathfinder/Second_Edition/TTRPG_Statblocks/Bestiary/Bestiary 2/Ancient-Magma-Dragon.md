@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Ancient Magma Dragon"
+statblock: inline
 name: "Ancient Magma Dragon"
-hp: 390
-ac: 42
-modifier: 33
 level: 18
 ---
-### Ancient Magma Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Elemental"
 trait_06: "Fire"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __imprecise scent 60__;"
@@ -62,6 +60,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +34 (1d20+34); __Ref__: +30 (1d20+30); __Will__: +31 (1d20+31);"
+hp: 390
 health:
   - name: HP
     desc: "390;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 15;"
@@ -83,7 +82,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 95."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Magma Dragon
 creatures:

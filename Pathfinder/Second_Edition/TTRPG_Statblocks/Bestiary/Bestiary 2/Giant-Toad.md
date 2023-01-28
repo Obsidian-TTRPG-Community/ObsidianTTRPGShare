@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Toad"
+statblock: inline
 name: "Giant Toad"
-hp: 36
-ac: 17
-modifier: 8
 level: 2
 ---
-### Giant Toad
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise scent 30__;"
@@ -49,6 +47,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 36
 health:
   - name: HP
     desc: "36; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 261."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Toad
 creatures:

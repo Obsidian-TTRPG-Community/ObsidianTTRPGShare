@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Aapoph Serpentfolk"
+statblock: inline
 name: "Aapoph Serpentfolk"
-hp: 60
-ac: 18
-modifier: 8
 level: 3
 ---
-### Aapoph Serpentfolk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Medium"
 trait_04: "Humanoid"
 trait_05: "Mutant"
 trait_06: "Serpentfolk"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise scent 30__;"
@@ -54,6 +52,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +10 (1d20+10); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Resistances__ poison 5"
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 238."
 ```
 
-### Encounter
 ```encounter-table
 name: Aapoph Serpentfolk
 creatures:

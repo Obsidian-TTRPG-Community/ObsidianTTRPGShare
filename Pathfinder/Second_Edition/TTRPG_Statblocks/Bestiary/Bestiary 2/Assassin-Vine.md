@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Assassin Vine"
+statblock: inline
 name: "Assassin Vine"
-hp: 68
-ac: 18
-modifier: 10
 level: 3
 ---
-### Assassin Vine
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Mindless"
 trait_04: "Plant"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__, __[[tremorsense]] 30__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +10 (1d20+10); __Ref__: +7 (1d20+7); __Will__: +8 (1d20+8);"
+hp: 68
 health:
   - name: HP
     desc: "68;  __Weaknesses__ fire 5, slashing 5;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 26."
 ```
 
-### Encounter
 ```encounter-table
 name: Assassin Vine
 creatures:

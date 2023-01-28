@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Amoeba Swarm"
+statblock: inline
 name: "Amoeba Swarm"
-hp: 35
-ac: 9
-modifier: 3
 level: 1
 ---
-### Amoeba Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Mindless"
 trait_05: "Ooze"
 trait_06: "Swarm"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __motion sense 60__, __no vision__;"
@@ -50,6 +48,7 @@ ac: 9
 armorclass:
   - name: AC
     desc: "9; __Fort__: +8 (1d20+8); __Ref__: +1 (1d20+1); __Will__: +3 (1d20+3);"
+hp: 35
 health:
   - name: HP
     desc: "35;  __Immunities__ acid, mental, precision, critical hits, unconscious, visual;"
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 192."
 ```
 
-### Encounter
 ```encounter-table
 name: Amoeba Swarm
 creatures:

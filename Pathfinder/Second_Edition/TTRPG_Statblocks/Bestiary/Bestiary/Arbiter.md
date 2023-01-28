@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Arbiter"
+statblock: inline
 name: "Arbiter"
-hp: 22
-ac: 16
-modifier: 7
 level: 1
 ---
-### Arbiter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Tiny"
 trait_03: "Aeon"
 trait_04: "Inevitable"
 trait_05: "Monitor"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __detect alignment (chaotic only)__, __locate inevitable__;"
@@ -50,6 +48,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
+hp: 22
 health:
   - name: HP
     desc: "22;  __Immunities__ poison, death effects, disease, emotion, unconscious; __Weaknesses__ chaotic 3;"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 8."
 ```
 
-### Encounter
 ```encounter-table
 name: Arbiter
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Nalfeshnee"
+statblock: inline
 name: "Nalfeshnee"
-hp: 365
-ac: 34
-modifier: 25
 level: 14
 ---
-### Nalfeshnee
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __true seeing__;"
@@ -51,6 +49,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +28 (1d20+28); __Ref__: +22 (1d20+22); __Will__: +23 (1d20+23);"
+hp: 365
 health:
   - name: HP
     desc: "365;  __Weaknesses__ cold iron 15, good 15;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 68."
 ```
 
-### Encounter
 ```encounter-table
 name: Nalfeshnee
 creatures:

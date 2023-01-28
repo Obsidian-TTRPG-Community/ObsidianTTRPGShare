@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Duergar Sharpshooter"
+statblock: inline
 name: "Duergar Sharpshooter"
-hp: 16
-ac: 17
-modifier: 4
 level: 0
 ---
-### Duergar Sharpshooter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Duergar"
 trait_04: "Dwarf"
 trait_05: "Humanoid"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 138."
 ```
 
-### Encounter
 ```encounter-table
 name: Duergar Sharpshooter
 creatures:

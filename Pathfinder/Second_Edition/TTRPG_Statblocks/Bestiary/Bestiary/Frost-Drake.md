@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Frost Drake"
+statblock: inline
 name: "Frost Drake"
-hp: 115
-ac: 25
-modifier: 14
 level: 7
 ---
-### Frost Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Cold"
 trait_04: "Dragon"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise scent 30__, __snow vision__;"
@@ -56,6 +54,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +14 (1d20+14);"
+hp: 115
 health:
   - name: HP
     desc: "115;  __Immunities__ cold, paralyzed, unconscious; __Weaknesses__ fire 10;"
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary_, page 134."
 ```
 
-### Encounter
 ```encounter-table
 name: Frost Drake
 creatures:

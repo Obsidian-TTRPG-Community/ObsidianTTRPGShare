@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Brood Leech Swarm"
+statblock: inline
 name: "Brood Leech Swarm"
-hp: 40
-ac: 19
-modifier: 9
 level: 4
 ---
-### Brood Leech Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Amphibious"
 trait_04: "Animal"
 trait_05: "Swarm"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __[[tremorsense]] 30__;"
@@ -46,6 +44,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +12 (1d20+12); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 40
 health:
   - name: HP
     desc: "40;  __Immunities__ precision, swarm mind; __Weaknesses__ area damage 5, salt 5, splash damage 5;"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 156."
 ```
 
-### Encounter
 ```encounter-table
 name: Brood Leech Swarm
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Medusa"
+statblock: inline
 name: "Medusa"
-hp: 105
-ac: 25
-modifier: 16
 level: 7
 ---
-### Medusa
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "LE"
 size: "Medium"
 trait_03: "Humanoid"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; all-around vision; __Fort__: +15 (1d20+15); __Ref__: +16 (1d20+16); __Will__: +14 (1d20+14);"
+hp: 105
 health:
   - name: HP
     desc: "105; "
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary_, page 234."
 ```
 
-### Encounter
 ```encounter-table
 name: Medusa
 creatures:

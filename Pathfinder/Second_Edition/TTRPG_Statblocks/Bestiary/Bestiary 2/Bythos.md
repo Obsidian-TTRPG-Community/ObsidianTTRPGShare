@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Bythos"
+statblock: inline
 name: "Bythos"
-hp: 245
-ac: 39
-modifier: 30
 level: 16
 ---
-### Bythos
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LN"
 size: "Large"
 trait_04: "Aeon"
 trait_05: "Monitor"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__;"
@@ -59,6 +57,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +25 (1d20+25); __Ref__: +26 (1d20+26); __Will__: +30 (1d20+30);"
+hp: 245
 health:
   - name: HP
     desc: "245; [[regeneration]] 15 (deactivated by chaotic); __Weaknesses__ chaotic 15;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 11."
 ```
 
-### Encounter
 ```encounter-table
 name: Bythos
 creatures:

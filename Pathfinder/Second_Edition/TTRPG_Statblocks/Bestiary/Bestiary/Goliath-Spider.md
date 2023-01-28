@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Goliath Spider"
+statblock: inline
 name: "Goliath Spider"
-hp: 220
-ac: 30
-modifier: 22
 level: 11
 ---
-### Goliath Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 11"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __web sense__;"
@@ -50,6 +48,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +25 (1d20+25); __Ref__: +21 (1d20+21); __Will__: +17 (1d20+17);"
+hp: 220
 health:
   - name: HP
     desc: "220; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 307."
 ```
 
-### Encounter
 ```encounter-table
 name: Goliath Spider
 creatures:

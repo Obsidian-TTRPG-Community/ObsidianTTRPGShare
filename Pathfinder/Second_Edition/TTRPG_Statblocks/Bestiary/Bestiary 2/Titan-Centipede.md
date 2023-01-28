@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Titan Centipede"
+statblock: inline
 name: "Titan Centipede"
-hp: 155
-ac: 28
-modifier: 18
 level: 9
 ---
-### Titan Centipede
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 9"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +20 (1d20+20); __Ref__: +16 (1d20+16); __Will__: +18 (1d20+18);"
+hp: 155
 health:
   - name: HP
     desc: "155; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 50."
 ```
 
-### Encounter
 ```encounter-table
 name: Titan Centipede
 creatures:

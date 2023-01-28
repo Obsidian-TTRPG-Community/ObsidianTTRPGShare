@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Peluda"
+statblock: inline
 name: "Peluda"
-hp: 170
-ac: 30
-modifier: 21
 level: 10
 ---
-### Peluda
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +21 (1d20+21); __Ref__: +17 (1d20+17); __Will__: +19 (1d20+19);"
+hp: 170
 health:
   - name: HP
     desc: "170;  __Immunities__ fire, paralyzed, sleep;"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 196."
 ```
 
-### Encounter
 ```encounter-table
 name: Peluda
 creatures:

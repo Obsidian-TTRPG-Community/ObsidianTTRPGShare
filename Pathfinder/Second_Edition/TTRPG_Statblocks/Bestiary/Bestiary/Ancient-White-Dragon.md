@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Ancient White Dragon"
+statblock: inline
 name: "Ancient White Dragon"
-hp: 330
-ac: 36
-modifier: 30
 level: 15
 ---
-### Ancient White Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Cold"
 trait_05: "Dragon"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__, __snow vision__;"
@@ -67,6 +65,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +30 (1d20+30); __Ref__: +26 (1d20+26); __Will__: +24 (1d20+24);"
+hp: 330
 health:
   - name: HP
     desc: "330;  __Immunities__ cold, paralyzed, sleep; __Weaknesses__ fire 15;"
@@ -86,7 +85,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 115."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient White Dragon
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Adult Brine Dragon"
+statblock: inline
 name: "Adult Brine Dragon"
-hp: 222
-ac: 33
-modifier: 23
 level: 12
 ---
-### Adult Brine Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_04: "Amphibious"
 trait_05: "Dragon"
 trait_06: "Elemental"
 trait_07: "Water"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__, __imprecise scent 60__;"
@@ -59,6 +57,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +25 (1d20+25); __Ref__: +20 (1d20+20); __Will__: +21 (1d20+21);"
+hp: 222
 health:
   - name: HP
     desc: "222;  __Immunities__ acid, paralyzed, sleep;"
@@ -80,7 +79,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 87."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Brine Dragon
 creatures:

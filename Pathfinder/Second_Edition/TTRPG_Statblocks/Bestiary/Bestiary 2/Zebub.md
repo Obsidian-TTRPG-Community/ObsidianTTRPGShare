@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Zebub"
+statblock: inline
 name: "Zebub"
-hp: 30
-ac: 20
-modifier: 12
 level: 3
 ---
-### Zebub
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __greater darkvision__;"
@@ -48,6 +46,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30;  __Immunities__ fire; __Weaknesses__ good 5; __Resistances__ physical 5"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 72."
 ```
 
-### Encounter
 ```encounter-table
 name: Zebub
 creatures:

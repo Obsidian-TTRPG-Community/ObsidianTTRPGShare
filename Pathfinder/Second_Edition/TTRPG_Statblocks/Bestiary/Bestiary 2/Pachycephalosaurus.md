@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Pachycephalosaurus"
+statblock: inline
 name: "Pachycephalosaurus"
-hp: 65
-ac: 19
-modifier: 10
 level: 3
 ---
-### Pachycephalosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +12 (1d20+12); __Ref__: +11 (1d20+11); __Will__: +7 (1d20+7);"
+hp: 65
 health:
   - name: HP
     desc: "65; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 81."
 ```
 
-### Encounter
 ```encounter-table
 name: Pachycephalosaurus
 creatures:

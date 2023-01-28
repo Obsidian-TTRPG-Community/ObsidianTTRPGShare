@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Grig"
+statblock: inline
 name: "Grig"
-hp: 20
-ac: 17
-modifier: 7
 level: 1
 ---
-### Grig
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Tiny"
 trait_03: "Fey"
 trait_04: "Sprite"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__;"
@@ -44,6 +42,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +9 (1d20+9);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 308."
 ```
 
-### Encounter
 ```encounter-table
 name: Grig
 creatures:

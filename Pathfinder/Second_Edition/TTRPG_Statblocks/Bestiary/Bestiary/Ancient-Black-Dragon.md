@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Ancient Black Dragon"
+statblock: inline
 name: "Ancient Black Dragon"
-hp: 325
-ac: 39
-modifier: 30
 level: 16
 ---
-### Ancient Black Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Acid"
 trait_05: "Amphibious"
 trait_06: "Dragon"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__;"
@@ -57,6 +55,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +30 (1d20+30); __Ref__: +27 (1d20+27); __Will__: +29 (1d20+29);"
+hp: 325
 health:
   - name: HP
     desc: "325;  __Immunities__ acid, paralyzed, sleep;"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 106."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Black Dragon
 creatures:

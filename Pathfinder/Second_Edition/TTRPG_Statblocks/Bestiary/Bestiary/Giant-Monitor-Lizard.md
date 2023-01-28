@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Monitor Lizard"
+statblock: inline
 name: "Giant Monitor Lizard"
-hp: 30
-ac: 18
-modifier: 7
 level: 2
 ---
-### Giant Monitor Lizard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 229."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Monitor Lizard
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Megalania"
+statblock: inline
 name: "Megalania"
-hp: 125
-ac: 25
-modifier: 15
 level: 7
 ---
-### Megalania
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__, __imprecise scent 60__;"
@@ -44,6 +42,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +13 (1d20+13);"
+hp: 125
 health:
   - name: HP
     desc: "125; "
@@ -54,7 +53,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 168."
 ```
 
-### Encounter
 ```encounter-table
 name: Megalania
 creatures:

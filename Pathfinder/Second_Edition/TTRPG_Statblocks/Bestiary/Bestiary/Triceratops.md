@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Triceratops"
+statblock: inline
 name: "Triceratops"
-hp: 140
-ac: 26
-modifier: 16
 level: 8
 ---
-### Triceratops
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +18 (1d20+18); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 140
 health:
   - name: HP
     desc: "140; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 99."
 ```
 
-### Encounter
 ```encounter-table
 name: Triceratops
 creatures:

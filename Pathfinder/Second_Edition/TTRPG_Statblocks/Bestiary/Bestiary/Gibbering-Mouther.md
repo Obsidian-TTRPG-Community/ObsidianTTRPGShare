@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Gibbering Mouther"
+statblock: inline
 name: "Gibbering Mouther"
-hp: 120
-ac: 21
-modifier: 15
 level: 5
 ---
-### Gibbering Mouther
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "N"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; All-Around Vision; __Fort__: +15 (1d20+15); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Weaknesses__ bludgeoning 5;"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 176."
 ```
 
-### Encounter
 ```encounter-table
 name: Gibbering Mouther
 creatures:

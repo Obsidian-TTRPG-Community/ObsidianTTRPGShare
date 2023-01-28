@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Deep Gnome Rockwarden"
+statblock: inline
 name: "Deep Gnome Rockwarden"
-hp: 63
-ac: 22
-modifier: 14
 level: 5
 ---
-### Deep Gnome Rockwarden
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -41,6 +39,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +12 (1d20+12); __Ref__: +9 (1d20+9); __Will__: +14 (1d20+14);"
+hp: 63
 health:
   - name: HP
     desc: "63; "
@@ -60,7 +59,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 75."
 ```
 
-### Encounter
 ```encounter-table
 name: Deep Gnome Rockwarden
 creatures:

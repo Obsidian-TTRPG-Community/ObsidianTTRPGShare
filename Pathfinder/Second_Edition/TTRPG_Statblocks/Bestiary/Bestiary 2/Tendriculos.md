@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Tendriculos"
+statblock: inline
 name: "Tendriculos"
-hp: 120
-ac: 25
-modifier: 15
 level: 7
 ---
-### Tendriculos
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Fungus"
 trait_04: "Plant"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__;"
@@ -52,6 +50,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +12 (1d20+12); __Will__: +13 (1d20+13);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ acid; __Weaknesses__ fire 5; __Resistances__ piercing 5, slashing 5"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 257."
 ```
 
-### Encounter
 ```encounter-table
 name: Tendriculos
 creatures:

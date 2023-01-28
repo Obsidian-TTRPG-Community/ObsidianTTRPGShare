@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Nightmare"
+statblock: inline
 name: "Nightmare"
-hp: 100
-ac: 24
-modifier: 14
 level: 6
 ---
-### Nightmare
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Beast"
 trait_04: "Fiend"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +15 (1d20+15); __Ref__: +15 (1d20+15); __Will__: +12 (1d20+12);"
+hp: 100
 health:
   - name: HP
     desc: "100; "
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 244."
 ```
 
-### Encounter
 ```encounter-table
 name: Nightmare
 creatures:

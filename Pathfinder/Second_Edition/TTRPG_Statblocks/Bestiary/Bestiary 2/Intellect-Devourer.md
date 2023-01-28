@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Intellect Devourer"
+statblock: inline
 name: "Intellect Devourer"
-hp: 130
-ac: 26
-modifier: 16
 level: 8
 ---
-### Intellect Devourer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Small"
 trait_04: "Aberration"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __lifesense 60__;"
@@ -50,6 +48,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +14 (1d20+14); __Ref__: +16 (1d20+16); __Will__: +18 (1d20+18);"
+hp: 130
 health:
   - name: HP
     desc: "130; "
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 147."
 ```
 
-### Encounter
 ```encounter-table
 name: Intellect Devourer
 creatures:

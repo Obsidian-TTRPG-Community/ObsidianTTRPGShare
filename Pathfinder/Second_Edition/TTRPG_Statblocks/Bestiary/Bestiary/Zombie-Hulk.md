@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Zombie Hulk"
+statblock: inline
 name: "Zombie Hulk"
-hp: 160
-ac: 21
-modifier: 8
 level: 6
 ---
-### Zombie Hulk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Huge"
 trait_03: "Mindless"
 trait_04: "Undead"
 trait_05: "Zombie"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +16 (1d20+16); __Ref__: +9 (1d20+9); __Will__: +12 (1d20+12);"
+hp: 160
 health:
   - name: HP
     desc: "160; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 341."
 ```
 
-### Encounter
 ```encounter-table
 name: Zombie Hulk
 creatures:

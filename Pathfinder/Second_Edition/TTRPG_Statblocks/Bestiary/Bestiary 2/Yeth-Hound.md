@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Yeth Hound"
+statblock: inline
 name: "Yeth Hound"
-hp: 55
-ac: 18
-modifier: 9
 level: 3
 ---
-### Yeth Hound
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Beast"
 trait_04: "Fiend"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +12 (1d20+12);"
+hp: 55
 health:
   - name: HP
     desc: "55; "
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 302."
 ```
 
-### Encounter
 ```encounter-table
 name: Yeth Hound
 creatures:

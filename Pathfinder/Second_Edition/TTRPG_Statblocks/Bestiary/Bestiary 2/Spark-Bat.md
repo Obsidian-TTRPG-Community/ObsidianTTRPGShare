@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Spark Bat"
+statblock: inline
 name: "Spark Bat"
-hp: 18
-ac: 19
-modifier: 7
 level: 2
 ---
-### Spark Bat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Tiny"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -43,6 +41,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +5 (1d20+5); __Ref__: +11 (1d20+11); __Will__: +7 (1d20+7);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 106."
 ```
 
-### Encounter
 ```encounter-table
 name: Spark Bat
 creatures:

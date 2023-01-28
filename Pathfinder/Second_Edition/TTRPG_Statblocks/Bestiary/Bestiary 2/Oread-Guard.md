@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Oread Guard"
+statblock: inline
 name: "Oread Guard"
-hp: 20
-ac: 19
-modifier: 7
 level: 1
 ---
-### Oread Guard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Oread"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7;"
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19;  (21 with shield raised); __Fort__: +7 (1d20+7); __Ref__: +6 (1d20+6); __Will__: +5 (1d20+5);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 201."
 ```
 
-### Encounter
 ```encounter-table
 name: Oread Guard
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Flesh Golem"
+statblock: inline
 name: "Flesh Golem"
-hp: 140
-ac: 26
-modifier: 12
 level: 8
 ---
-### Flesh Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +18 (1d20+18); __Ref__: +14 (1d20+14); __Will__: +15 (1d20+15);"
+hp: 140
 health:
   - name: HP
     desc: "140;  __Immunities__ bleed, electricity, mental, poison, disease, death effects, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ physical 5 (except adamantine)"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 185."
 ```
 
-### Encounter
 ```encounter-table
 name: Flesh Golem
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Vampire Spawn Rogue"
+statblock: inline
 name: "Vampire Spawn Rogue"
-hp: 40
-ac: 22
-modifier: 12
 level: 4
 ---
-### Vampire Spawn Rogue
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Undead"
 trait_04: "Vampire"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +13 (1d20+13); __Will__: +11 (1d20+11);"
+hp: 40
 health:
   - name: HP
     desc: "40; coffin restoration, fast healing 5, negative healing; __Immunities__ poison, death effects, disease, paralyze, sleep; __Weaknesses__ vampire weaknesses ;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 320."
 ```
 
-### Encounter
 ```encounter-table
 name: Vampire Spawn Rogue
 creatures:

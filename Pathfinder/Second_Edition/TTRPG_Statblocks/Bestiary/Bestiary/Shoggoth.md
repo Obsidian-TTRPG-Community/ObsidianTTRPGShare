@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Shoggoth"
+statblock: inline
 name: "Shoggoth"
-hp: 275
-ac: 39
-modifier: 34
 level: 18
 ---
-### Shoggoth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CN"
 size: "Huge"
 trait_04: "Aberration"
 trait_05: "Amphibious"
+modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 60__;"
@@ -52,6 +50,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; all-around vision; __Fort__: +33 (1d20+33); __Ref__: +30 (1d20+30); __Will__: +30 (1d20+30);"
+hp: 275
 health:
   - name: HP
     desc: "275; fast healing 20; __Immunities__ precision, blinded, controlled, critical hits, deafened, sleep; __Resistances__ acid 20, cold 20, sonic 20"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 293."
 ```
 
-### Encounter
 ```encounter-table
 name: Shoggoth
 creatures:

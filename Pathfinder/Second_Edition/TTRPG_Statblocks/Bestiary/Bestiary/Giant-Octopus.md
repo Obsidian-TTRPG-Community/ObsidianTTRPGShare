@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Giant Octopus"
+statblock: inline
 name: "Giant Octopus"
-hp: 135
-ac: 27
-modifier: 15
 level: 8
 ---
-### Giant Octopus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__;"
@@ -53,6 +51,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 135
 health:
   - name: HP
     desc: "135; "
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 250."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Octopus
 creatures:

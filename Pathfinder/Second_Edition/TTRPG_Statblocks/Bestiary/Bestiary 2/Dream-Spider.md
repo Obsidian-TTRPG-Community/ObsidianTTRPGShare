@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Dream Spider"
+statblock: inline
 name: "Dream Spider"
-hp: 15
-ac: 16
-modifier: 6
 level: 0
 ---
-### Dream Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __web sense__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 249."
 ```
 
-### Encounter
 ```encounter-table
 name: Dream Spider
 creatures:

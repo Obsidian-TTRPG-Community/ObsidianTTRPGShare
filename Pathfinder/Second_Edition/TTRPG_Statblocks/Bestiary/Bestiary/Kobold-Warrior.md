@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Kobold Warrior"
+statblock: inline
 name: "Kobold Warrior"
-hp: 8
-ac: 16
-modifier: 3
 level: -1
 ---
-### Kobold Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Humanoid"
 trait_04: "Kobold"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +3 (1d20+3);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 212."
 ```
 
-### Encounter
 ```encounter-table
 name: Kobold Warrior
 creatures:

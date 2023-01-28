@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Bastion Archon"
+statblock: inline
 name: "Bastion Archon"
-hp: 280
-ac: 47
-modifier: 37
 level: 20
 ---
-### Bastion Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LG"
 size: "Huge"
 trait_04: "Archon"
 trait_05: "Celestial"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __true seeing__;"
@@ -58,6 +56,7 @@ ac: 47
 armorclass:
   - name: AC
     desc: "47; __Fort__: +38 (1d20+38); __Ref__: +31 (1d20+31); __Will__: +34 (1d20+34);"
+hp: 280
 health:
   - name: HP
     desc: "280; fast healing 30; __Weaknesses__ evil 15;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 25."
 ```
 
-### Encounter
 ```encounter-table
 name: Bastion Archon
 creatures:

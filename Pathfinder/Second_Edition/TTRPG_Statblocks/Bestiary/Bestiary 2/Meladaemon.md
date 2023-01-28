@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Meladaemon"
+statblock: inline
 name: "Meladaemon"
-hp: 225
-ac: 31
-modifier: 21
 level: 11
 ---
-### Meladaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __imprecise lifesense 30__;"
@@ -51,6 +49,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +23 (1d20+23); __Ref__: +20 (1d20+20); __Will__: +19 (1d20+19);"
+hp: 225
 health:
   - name: HP
     desc: "225;  __Immunities__ death effects; __Weaknesses__ good 10;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 59."
 ```
 
-### Encounter
 ```encounter-table
 name: Meladaemon
 creatures:

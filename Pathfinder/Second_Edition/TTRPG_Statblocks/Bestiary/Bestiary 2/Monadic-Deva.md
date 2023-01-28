@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Monadic Deva"
+statblock: inline
 name: "Monadic Deva"
-hp: 245
-ac: 33
-modifier: 25
 level: 12
 ---
-### Monadic Deva
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Medium"
 trait_03: "Angel"
 trait_04: "Celestial"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +24 (1d20+24); __Ref__: +21 (1d20+21); __Will__: +20 (1d20+20);"
+hp: 245
 health:
   - name: HP
     desc: "245;  __Immunities__ death effects; __Weaknesses__ evil 10;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 15."
 ```
 
-### Encounter
 ```encounter-table
 name: Monadic Deva
 creatures:

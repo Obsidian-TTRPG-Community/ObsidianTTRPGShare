@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Giant Tarantula"
+statblock: inline
 name: "Giant Tarantula"
-hp: 135
-ac: 21
-modifier: 14
 level: 6
 ---
-### Giant Tarantula
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +15 (1d20+15); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 135
 health:
   - name: HP
     desc: "135; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 307."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Tarantula
 creatures:

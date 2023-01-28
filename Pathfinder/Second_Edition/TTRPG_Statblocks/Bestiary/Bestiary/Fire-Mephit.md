@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Fire Mephit"
+statblock: inline
 name: "Fire Mephit"
-hp: 16
-ac: 17
-modifier: 3
 level: 1
 ---
-### Fire Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__, __smoke vision__;"
@@ -47,6 +45,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +3 (1d20+3); __Ref__: +9 (1d20+9); __Will__: +7 (1d20+7);"
+hp: 16
 health:
   - name: HP
     desc: "16; fast healing 2 (while touching fire); __Immunities__ bleed, fire, poison, paralyzed, sleep;"
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 151."
 ```
 
-### Encounter
 ```encounter-table
 name: Fire Mephit
 creatures:

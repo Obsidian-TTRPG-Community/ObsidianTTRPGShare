@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Babau"
+statblock: inline
 name: "Babau"
-hp: 130
-ac: 24
-modifier: 13
 level: 6
 ---
-### Babau
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __see invisibility__;"
@@ -54,6 +52,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +14 (1d20+14); __Ref__: +16 (1d20+16); __Will__: +11 (1d20+11);"
+hp: 130
 health:
   - name: HP
     desc: "130;  __Weaknesses__ cold iron 5, good 5;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 64."
 ```
 
-### Encounter
 ```encounter-table
 name: Babau
 creatures:

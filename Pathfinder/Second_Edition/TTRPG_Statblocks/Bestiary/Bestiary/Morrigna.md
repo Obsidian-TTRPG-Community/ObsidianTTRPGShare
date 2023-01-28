@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Morrigna"
+statblock: inline
 name: "Morrigna"
-hp: 240
-ac: 38
-modifier: 28
 level: 15
 ---
-### Morrigna
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __lifesense 60__;"
@@ -56,6 +54,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +25 (1d20+25); __Ref__: +27 (1d20+27); __Will__: +29 (1d20+29);"
+hp: 240
 health:
   - name: HP
     desc: "240; [[regeneration]] 20 (deactivated by acid or fire); __Immunities__ death effects, disease; __Resistances__ negative 15, poison 15"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 271."
 ```
 
-### Encounter
 ```encounter-table
 name: Morrigna
 creatures:

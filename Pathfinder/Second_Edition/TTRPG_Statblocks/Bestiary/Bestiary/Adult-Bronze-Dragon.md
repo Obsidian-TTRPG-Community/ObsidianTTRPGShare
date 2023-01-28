@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Adult Bronze Dragon"
+statblock: inline
 name: "Adult Bronze Dragon"
-hp: 260
-ac: 34
-modifier: 23
 level: 13
 ---
-### Adult Bronze Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Huge"
 trait_03: "Amphibious"
 trait_04: "Dragon"
 trait_05: "Water"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__, __imprecise scent 60__;"
@@ -58,6 +56,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +24 (1d20+24); __Ref__: +23 (1d20+23); __Will__: +26 (1d20+26);"
+hp: 260
 health:
   - name: HP
     desc: "260;  __Immunities__ electricity, paralyzed, sleep;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 120."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Bronze Dragon
 creatures:

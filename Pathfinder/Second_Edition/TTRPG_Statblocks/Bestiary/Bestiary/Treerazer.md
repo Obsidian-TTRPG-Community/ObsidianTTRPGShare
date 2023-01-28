@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/25
 statblock: true
-statblock-link: "#Treerazer"
+statblock: inline
 name: "Treerazer"
-hp: 550
-ac: 54
-modifier: 46
 level: 25
 ---
-### Treerazer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Amphibious"
 trait_05: "Demon"
 trait_06: "Fiend"
+modifier: 46
 perception:
   - name: "Perception"
     desc: "Perception +46; __darkvision__, __true seeing__;"
@@ -58,6 +56,7 @@ ac: 54
 armorclass:
   - name: AC
     desc: "54; __Fort__: +42 (1d20+42); __Ref__: +40 (1d20+40); __Will__: +43 (1d20+43);"
+hp: 550
 health:
   - name: HP
     desc: "550; [[regeneration]] 50 (deactivated by good); __Immunities__ mental, poison, death effects, disease; __Weaknesses__ good 20; __Resistances__ acid 20, cold 15, fire 15, physical 20 (except cold iron)"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 312."
 ```
 
-### Encounter
 ```encounter-table
 name: Treerazer
 creatures:

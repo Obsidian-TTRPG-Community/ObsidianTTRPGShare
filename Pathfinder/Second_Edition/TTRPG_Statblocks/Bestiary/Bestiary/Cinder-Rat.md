@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Cinder Rat"
+statblock: inline
 name: "Cinder Rat"
-hp: 45
-ac: 18
-modifier: 9
 level: 3
 ---
-### Cinder Rat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __smoke vision__;"
@@ -46,6 +44,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 5;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 148."
 ```
 
-### Encounter
 ```encounter-table
 name: Cinder Rat
 creatures:

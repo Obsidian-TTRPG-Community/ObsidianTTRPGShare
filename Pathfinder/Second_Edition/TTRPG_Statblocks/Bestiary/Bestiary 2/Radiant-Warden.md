@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Radiant Warden"
+statblock: inline
 name: "Radiant Warden"
-hp: 300
-ac: 40
-modifier: 30
 level: 17
 ---
-### Radiant Warden
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Gargantuan"
 trait_04: "Construct"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +32 (1d20+32); __Ref__: +29 (1d20+29); __Will__: +28 (1d20+28);"
+hp: 300
 health:
   - name: HP
     desc: "300;  __Immunities__ bleed, poison, death effects, disease, doomed, drained, fatigued, necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ mental 15, physical 15 (except adamantine)"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 220."
 ```
 
-### Encounter
 ```encounter-table
 name: Radiant Warden
 creatures:

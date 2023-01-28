@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Adult Cloud Dragon"
+statblock: inline
 name: "Adult Cloud Dragon"
-hp: 254
-ac: 36
-modifier: 28
 level: 14
 ---
-### Adult Cloud Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Huge"
 trait_04: "Air"
 trait_05: "Dragon"
 trait_06: "Elemental"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __mist vision__, __imprecise scent 60__;"
@@ -63,6 +61,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +26 (1d20+26); __Ref__: +23 (1d20+23); __Will__: +26 (1d20+26);"
+hp: 254
 health:
   - name: HP
     desc: "254;  __Immunities__ electricity, paralyzed, sleep;"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 90."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Cloud Dragon
 creatures:

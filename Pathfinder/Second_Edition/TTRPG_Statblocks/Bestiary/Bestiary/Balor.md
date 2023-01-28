@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Balor"
+statblock: inline
 name: "Balor"
-hp: 480
-ac: 45
-modifier: 36
 level: 20
 ---
-### Balor
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 36
 perception:
   - name: "Perception"
     desc: "Perception +36; __darkvision__, __true seeing__;"
@@ -62,6 +60,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +39 (1d20+39); __Ref__: +35 (1d20+35); __Will__: +34 (1d20+34);"
+hp: 480
 health:
   - name: HP
     desc: "480;  __Immunities__ fire; __Weaknesses__ cold 20, cold iron 20, good 20;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 83."
 ```
 
-### Encounter
 ```encounter-table
 name: Balor
 creatures:

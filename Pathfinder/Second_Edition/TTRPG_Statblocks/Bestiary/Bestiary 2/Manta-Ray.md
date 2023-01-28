@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Manta Ray"
+statblock: inline
 name: "Manta Ray"
-hp: 24
-ac: 16
-modifier: 6
 level: 1
 ---
-### Manta Ray
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __imprecise electrolocation 30__, __low-light vision__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 24
 health:
   - name: HP
     desc: "24; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 226."
 ```
 
-### Encounter
 ```encounter-table
 name: Manta Ray
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Purrodaemon"
+statblock: inline
 name: "Purrodaemon"
-hp: 335
-ac: 43
-modifier: 33
 level: 18
 ---
-### Purrodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __true seeing__;"
@@ -53,6 +51,7 @@ ac: 43
 armorclass:
   - name: AC
     desc: "43; __Fort__: +33 (1d20+33); __Ref__: +30 (1d20+30); __Will__: +29 (1d20+29);"
+hp: 335
 health:
   - name: HP
     desc: "335;  __Immunities__ bleed, death effects; __Weaknesses__ good 15;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 62."
 ```
 
-### Encounter
 ```encounter-table
 name: Purrodaemon
 creatures:

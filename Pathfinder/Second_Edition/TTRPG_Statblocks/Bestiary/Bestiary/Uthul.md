@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Uthul"
+statblock: inline
 name: "Uthul"
-hp: 250
-ac: 36
-modifier: 20
 level: 14
 ---
-### Uthul
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +28 (1d20+28); __Ref__: +29 (1d20+29); __Will__: +22 (1d20+22);"
+hp: 250
 health:
   - name: HP
     desc: "250;  __Immunities__ electricity, poison, paralyze, sleep;"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 317."
 ```
 
-### Encounter
 ```encounter-table
 name: Uthul
 creatures:

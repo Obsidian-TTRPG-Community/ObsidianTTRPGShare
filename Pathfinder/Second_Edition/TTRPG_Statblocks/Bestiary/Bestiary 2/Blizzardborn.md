@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Blizzardborn"
+statblock: inline
 name: "Blizzardborn"
-hp: 105
-ac: 24
-modifier: 14
 level: 6
 ---
-### Blizzardborn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Cold"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __snow vision__;"
@@ -51,6 +49,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 105
 health:
   - name: HP
     desc: "105;  __Immunities__ bleed, cold, poison, paralyzed, sleep; __Weaknesses__ fire 5;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 115."
 ```
 
-### Encounter
 ```encounter-table
 name: Blizzardborn
 creatures:

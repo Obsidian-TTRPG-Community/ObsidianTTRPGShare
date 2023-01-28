@@ -7,14 +7,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Fire Yai"
+statblock: inline
 name: "Fire Yai"
-hp: 250
-ac: 36
-modifier: 26
 level: 14
 ---
-### Fire Yai
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -30,6 +27,7 @@ trait_04: "Fire"
 trait_05: "Giant"
 trait_06: "Humanoid"
 trait_07: "Oni"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __greater darkvision__;"
@@ -59,6 +57,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +28 (1d20+28); __Ref__: +26 (1d20+26); __Will__: +24 (1d20+24);"
+hp: 250
 health:
   - name: HP
     desc: "250; [[regeneration]] 15 (deactivated by acid or cold); __Immunities__ fire;"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 190."
 ```
 
-### Encounter
 ```encounter-table
 name: Fire Yai
 creatures:

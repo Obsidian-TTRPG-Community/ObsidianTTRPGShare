@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Elananx"
+statblock: inline
 name: "Elananx"
-hp: 95
-ac: 24
-modifier: 14
 level: 6
 ---
-### Elananx
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Fey"
 trait_04: "Fire"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +12 (1d20+12); __Ref__: +16 (1d20+16); __Will__: +12 (1d20+12);"
+hp: 95
 health:
   - name: HP
     desc: "95;  __Immunities__ fire; __Weaknesses__ cold iron 5;"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 143."
 ```
 
-### Encounter
 ```encounter-table
 name: Elananx
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Olethrodaemon"
+statblock: inline
 name: "Olethrodaemon"
-hp: 450
-ac: 44
-modifier: 33
 level: 20
 ---
-### Olethrodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Gargantuan"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __true seeing__, __imprecise [[tremorsense]] 120__;"
@@ -54,6 +52,7 @@ ac: 44
 armorclass:
   - name: AC
     desc: "44; __Fort__: +35 (1d20+35); __Ref__: +32 (1d20+32); __Will__: +34 (1d20+34);"
+hp: 450
 health:
   - name: HP
     desc: "450;  __Immunities__ death effects; __Weaknesses__ good 20;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 63."
 ```
 
-### Encounter
 ```encounter-table
 name: Olethrodaemon
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Blodeuwedd"
+statblock: inline
 name: "Blodeuwedd"
-hp: 105
-ac: 24
-modifier: 14
 level: 6
 ---
-### Blodeuwedd
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "CN"
 size: "Medium"
 trait_04: "Fey"
 trait_05: "Plant"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __low-light vision__;"
@@ -57,6 +55,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +12 (1d20+12); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 105
 health:
   - name: HP
     desc: "105; "
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 41."
 ```
 
-### Encounter
 ```encounter-table
 name: Blodeuwedd
 creatures:

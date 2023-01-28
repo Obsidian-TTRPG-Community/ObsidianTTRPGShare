@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Adult Brass Dragon"
+statblock: inline
 name: "Adult Brass Dragon"
-hp: 215
-ac: 31
-modifier: 21
 level: 11
 ---
-### Adult Brass Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 30__;"
@@ -55,6 +53,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +22 (1d20+22); __Ref__: +20 (1d20+20); __Will__: +21 (1d20+21);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ fire, paralyzed, sleep;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 118."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Brass Dragon
 creatures:

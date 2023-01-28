@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Cornugon"
+statblock: inline
 name: "Cornugon"
-hp: 300
-ac: 38
-modifier: 28
 level: 16
 ---
-### Cornugon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __greater darkvision__;"
@@ -60,6 +58,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +31 (1d20+31); __Ref__: +26 (1d20+26); __Will__: +26 (1d20+26);"
+hp: 300
 health:
   - name: HP
     desc: "300;  __Immunities__ fire; __Weaknesses__ good 15; __Resistances__ physical 15 (except silver), poison 15"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 77."
 ```
 
-### Encounter
 ```encounter-table
 name: Cornugon
 creatures:

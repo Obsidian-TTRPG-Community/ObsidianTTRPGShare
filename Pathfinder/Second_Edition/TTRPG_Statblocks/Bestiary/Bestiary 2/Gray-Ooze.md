@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Gray Ooze"
+statblock: inline
 name: "Gray Ooze"
-hp: 60
-ac: 14
-modifier: 8
 level: 4
 ---
-### Gray Ooze
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __motion sense 60__, __no vision__;"
@@ -50,6 +48,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ acid, mental, precision, critical hits, unconscious, visual;"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 194."
 ```
 
-### Encounter
 ```encounter-table
 name: Gray Ooze
 creatures:

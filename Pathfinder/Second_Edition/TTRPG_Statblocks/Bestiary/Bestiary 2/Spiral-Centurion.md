@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Spiral Centurion"
+statblock: inline
 name: "Spiral Centurion"
-hp: 170
-ac: 31
-modifier: 20
 level: 11
 ---
-### Spiral Centurion
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Construct"
 trait_04: "Mindless"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +22 (1d20+22); __Ref__: +25 (1d20+25); __Will__: +16 (1d20+16);"
+hp: 170
 health:
   - name: HP
     desc: "170;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 250."
 ```
 
-### Encounter
 ```encounter-table
 name: Spiral Centurion
 creatures:

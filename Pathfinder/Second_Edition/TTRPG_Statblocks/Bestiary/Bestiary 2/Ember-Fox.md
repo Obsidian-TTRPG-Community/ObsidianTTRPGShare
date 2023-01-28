@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Ember Fox"
+statblock: inline
 name: "Ember Fox"
-hp: 35
-ac: 18
-modifier: 8
 level: 2
 ---
-### Ember Fox
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Small"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 35
 health:
   - name: HP
     desc: "35;  __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 5;"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 110."
 ```
 
-### Encounter
 ```encounter-table
 name: Ember Fox
 creatures:

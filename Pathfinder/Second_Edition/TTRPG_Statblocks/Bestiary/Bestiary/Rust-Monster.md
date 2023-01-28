@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Rust Monster"
+statblock: inline
 name: "Rust Monster"
-hp: 40
-ac: 19
-modifier: 8
 level: 3
 ---
-### Rust Monster
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __metal scent 30__;"
@@ -52,6 +50,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 283."
 ```
 
-### Encounter
 ```encounter-table
 name: Rust Monster
 creatures:

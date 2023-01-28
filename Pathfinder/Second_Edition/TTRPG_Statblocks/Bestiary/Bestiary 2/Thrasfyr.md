@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Thrasfyr"
+statblock: inline
 name: "Thrasfyr"
-hp: 350
-ac: 40
-modifier: 31
 level: 17
 ---
-### Thrasfyr
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Beast"
 trait_05: "Fire"
 trait_06: "Tane"
+modifier: 31
 perception:
   - name: "Perception"
     desc: "Perception +31; __darkvision__, __see invisibility__;"
@@ -46,6 +44,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +35 (1d20+35); __Ref__: +28 (1d20+28); __Will__: +27 (1d20+27);"
+hp: 350
 health:
   - name: HP
     desc: "350; [[regeneration]] 25 (deactivated by acid or cold); __Immunities__ fire; __Weaknesses__ cold ;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 258."
 ```
 
-### Encounter
 ```encounter-table
 name: Thrasfyr
 creatures:

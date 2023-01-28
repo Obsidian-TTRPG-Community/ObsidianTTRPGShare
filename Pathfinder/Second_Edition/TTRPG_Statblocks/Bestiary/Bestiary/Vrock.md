@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Vrock"
+statblock: inline
 name: "Vrock"
-hp: 185
-ac: 28
-modifier: 18
 level: 9
 ---
-### Vrock
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +20 (1d20+20); __Ref__: +18 (1d20+18); __Will__: +15 (1d20+15);"
+hp: 185
 health:
   - name: HP
     desc: "185;  __Weaknesses__ cold iron 10, good 10; __Resistances__ electricity 10"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 78."
 ```
 
-### Encounter
 ```encounter-table
 name: Vrock
 creatures:

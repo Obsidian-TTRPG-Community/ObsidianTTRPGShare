@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/petitioner
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Petitioner"
+statblock: inline
 name: "Petitioner"
-hp: 22
-ac: 15
-modifier: 7
 level: 1
 ---
-### Petitioner
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 size: "Medium"
 trait_02: "Petitioner"
 trait_03: "Varies"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -43,6 +41,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
+hp: 22
 health:
   - name: HP
     desc: "22; "
@@ -53,7 +52,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 198."
 ```
 
-### Encounter
 ```encounter-table
 name: Petitioner
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Living Landslide"
+statblock: inline
 name: "Living Landslide"
-hp: 90
-ac: 21
-modifier: 12
 level: 5
 ---
-### Living Landslide
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -50,6 +48,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +15 (1d20+15); __Ref__: +8 (1d20+8); __Will__: +10 (1d20+10);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 146."
 ```
 
-### Encounter
 ```encounter-table
 name: Living Landslide
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Pit Fiend"
+statblock: inline
 name: "Pit Fiend"
-hp: 335
-ac: 46
-modifier: 37
 level: 20
 ---
-### Pit Fiend
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __greater darkvision__, __true seeing__;"
@@ -59,6 +57,7 @@ ac: 46
 armorclass:
   - name: AC
     desc: "46; __Fort__: +37 (1d20+37); __Ref__: +32 (1d20+32); __Will__: +35 (1d20+35);"
+hp: 335
 health:
   - name: HP
     desc: "335; [[regeneration]] 30 (deactivated by good); __Immunities__ fire; __Weaknesses__ good 15; __Resistances__ physical 15 (except silver), poison 15"
@@ -80,7 +79,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 92."
 ```
 
-### Encounter
 ```encounter-table
 name: Pit Fiend
 creatures:

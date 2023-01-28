@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Quelaunt"
+statblock: inline
 name: "Quelaunt"
-hp: 305
-ac: 36
-modifier: 29
 level: 15
 ---
-### Quelaunt
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 15"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __imprecise [[tremorsense]] 60__;"
@@ -51,6 +49,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +27 (1d20+27); __Ref__: +26 (1d20+26); __Will__: +31 (1d20+31);"
+hp: 305
 health:
   - name: HP
     desc: "305; "
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 273."
 ```
 
-### Encounter
 ```encounter-table
 name: Quelaunt
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Mummy Guardian"
+statblock: inline
 name: "Mummy Guardian"
-hp: 110
-ac: 23
-modifier: 16
 level: 6
 ---
-### Mummy Guardian
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Mummy"
 trait_04: "Undead"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +14 (1d20+14); __Ref__: +10 (1d20+10); __Will__: +16 (1d20+16);"
+hp: 110
 health:
   - name: HP
     desc: "110; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ fire 5;"
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 240."
 ```
 
-### Encounter
 ```encounter-table
 name: Mummy Guardian
 creatures:

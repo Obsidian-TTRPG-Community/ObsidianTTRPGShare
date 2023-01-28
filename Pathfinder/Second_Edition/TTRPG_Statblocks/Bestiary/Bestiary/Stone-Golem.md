@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Stone Golem"
+statblock: inline
 name: "Stone Golem"
-hp: 175
-ac: 30
-modifier: 17
 level: 11
 ---
-### Stone Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +24 (1d20+24); __Ref__: +18 (1d20+18); __Will__: +19 (1d20+19);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ acid, bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ physical 10 (except adamantine)"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 187."
 ```
 
-### Encounter
 ```encounter-table
 name: Stone Golem
 creatures:

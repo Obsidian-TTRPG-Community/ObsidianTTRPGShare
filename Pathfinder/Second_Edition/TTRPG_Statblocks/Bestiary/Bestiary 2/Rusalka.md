@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Rusalka"
+statblock: inline
 name: "Rusalka"
-hp: 230
-ac: 33
-modifier: 22
 level: 12
 ---
-### Rusalka
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Aquatic"
 trait_04: "Fey"
 trait_05: "Water"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __low-light vision__;"
@@ -56,6 +54,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +21 (1d20+21); __Ref__: +25 (1d20+25); __Will__: +21 (1d20+21);"
+hp: 230
 health:
   - name: HP
     desc: "230;  __Weaknesses__ cold iron 15; __Resistances__ fire 10"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 229."
 ```
 
-### Encounter
 ```encounter-table
 name: Rusalka
 creatures:

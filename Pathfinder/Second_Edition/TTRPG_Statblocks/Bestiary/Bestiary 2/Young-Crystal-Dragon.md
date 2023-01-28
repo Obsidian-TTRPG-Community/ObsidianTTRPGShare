@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Young Crystal Dragon"
+statblock: inline
 name: "Young Crystal Dragon"
-hp: 105
-ac: 27
-modifier: 15
 level: 7
 ---
-### Young Crystal Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Large"
 trait_04: "Dragon"
 trait_05: "Earth"
 trait_06: "Elemental"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 30__;"
@@ -56,6 +54,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +14 (1d20+14); __Will__: +15 (1d20+15);"
+hp: 105
 health:
   - name: HP
     desc: "105;  __Immunities__ paralyzed, sleep; __Weaknesses__ sonic 5;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 91."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Crystal Dragon
 creatures:

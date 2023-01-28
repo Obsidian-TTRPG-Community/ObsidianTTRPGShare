@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Thulgant"
+statblock: inline
 name: "Thulgant"
-hp: 305
-ac: 42
-modifier: 30
 level: 18
 ---
-### Thulgant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_04: "Fiend"
 trait_05: "Qlippoth"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __greater darkvision__, __true seeing__;"
@@ -53,6 +51,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +30 (1d20+30); __Ref__: +28 (1d20+28); __Will__: +32 (1d20+32);"
+hp: 305
 health:
   - name: HP
     desc: "305; fast healing 10; __Immunities__ controlled, fear; __Weaknesses__ lawful 15;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 217."
 ```
 
-### Encounter
 ```encounter-table
 name: Thulgant
 creatures:

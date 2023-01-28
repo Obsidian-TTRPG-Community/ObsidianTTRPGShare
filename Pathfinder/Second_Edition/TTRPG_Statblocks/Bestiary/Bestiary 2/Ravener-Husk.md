@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Ravener Husk"
+statblock: inline
 name: "Ravener Husk"
-hp: 325
-ac: 35
-modifier: 26
 level: 14
 ---
-### Ravener Husk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Undead"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __soulsense 60__;"
@@ -52,6 +50,7 @@ ac: 35
 armorclass:
   - name: AC
     desc: "35; __Fort__: +28 (1d20+28); __Ref__: +22 (1d20+22); __Will__: +26 (1d20+26);"
+hp: 325
 health:
   - name: HP
     desc: "325; negative healing; __Immunities__ poison, death effects, disease, paralyzed, sleep; __Weaknesses__ good 10;"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 224."
 ```
 
-### Encounter
 ```encounter-table
 name: Ravener Husk
 creatures:

@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Sandpoint Devil"
+statblock: inline
 name: "Sandpoint Devil"
-hp: 165
-ac: 27
-modifier: 16
 level: 8
 ---
-### Sandpoint Devil
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "NE"
 size: "Large"
 trait_04: "Beast"
 trait_05: "Fiend"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __greater darkvision__, __imprecise scent 30__;"
@@ -55,6 +53,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +19 (1d20+19); __Ref__: +14 (1d20+14); __Will__: +16 (1d20+16);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Immunities__ fire, fear; __Weaknesses__ cold iron 5;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 230."
 ```
 
-### Encounter
 ```encounter-table
 name: Sandpoint Devil
 creatures:

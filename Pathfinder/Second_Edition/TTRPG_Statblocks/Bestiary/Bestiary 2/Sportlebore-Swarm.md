@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Sportlebore Swarm"
+statblock: inline
 name: "Sportlebore Swarm"
-hp: 85
-ac: 25
-modifier: 13
 level: 7
 ---
-### Sportlebore Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__;"
@@ -46,6 +44,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +15 (1d20+15); __Ref__: +17 (1d20+17); __Will__: +13 (1d20+13);"
+hp: 85
 health:
   - name: HP
     desc: "85;  __Immunities__ precision, swarm mind; __Weaknesses__ area damage 7, splash ; __Resistances__ bludgeoning 3, piercing 7, slashing 7"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 251."
 ```
 
-### Encounter
 ```encounter-table
 name: Sportlebore Swarm
 creatures:

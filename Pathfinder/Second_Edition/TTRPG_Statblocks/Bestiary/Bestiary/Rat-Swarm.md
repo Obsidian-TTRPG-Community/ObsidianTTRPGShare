@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Rat Swarm"
+statblock: inline
 name: "Rat Swarm"
-hp: 14
-ac: 14
-modifier: 5
 level: 1
 ---
-### Rat Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +2 (1d20+2); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 14
 health:
   - name: HP
     desc: "14;  __Immunities__ precision, swarm mind;"
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary_, page 276."
 ```
 
-### Encounter
 ```encounter-table
 name: Rat Swarm
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Remorhaz"
+statblock: inline
 name: "Remorhaz"
-hp: 120
-ac: 25
-modifier: 14
 level: 7
 ---
-### Remorhaz
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Huge"
 trait_04: "Beast"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -55,6 +53,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +18 (1d20+18); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ cold, fire;"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary_, page 280."
 ```
 
-### Encounter
 ```encounter-table
 name: Remorhaz
 creatures:

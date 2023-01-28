@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Keketar"
+statblock: inline
 name: "Keketar"
-hp: 290
-ac: 40
-modifier: 30
 level: 17
 ---
-### Keketar
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Large"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise entropy sense 60__;"
@@ -60,6 +58,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +30 (1d20+30); __Ref__: +28 (1d20+28); __Will__: +34 (1d20+34);"
+hp: 290
 health:
   - name: HP
     desc: "290; fast healing 10; __Weaknesses__ lawful 15; __Resistances__ precision 10, protean anatomy 25"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 269."
 ```
 
-### Encounter
 ```encounter-table
 name: Keketar
 creatures:

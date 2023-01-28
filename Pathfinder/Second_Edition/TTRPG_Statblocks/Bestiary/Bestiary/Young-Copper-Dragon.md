@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Young Copper Dragon"
+statblock: inline
 name: "Young Copper Dragon"
-hp: 150
-ac: 27
-modifier: 16
 level: 8
 ---
-### Young Copper Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Earth"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 60__;"
@@ -55,6 +53,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +17 (1d20+17); __Will__: +16 (1d20+16);"
+hp: 150
 health:
   - name: HP
     desc: "150;  __Immunities__ acid, paralyzed, sleep;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 121."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Copper Dragon
 creatures:

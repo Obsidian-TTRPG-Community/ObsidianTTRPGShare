@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Vampire Mastermind"
+statblock: inline
 name: "Vampire Mastermind"
-hp: 115
-ac: 27
-modifier: 20
 level: 9
 ---
-### Vampire Mastermind
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Medium"
 trait_04: "Undead"
 trait_05: "Vampire"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -65,6 +63,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +20 (1d20+20);"
+hp: 115
 health:
   - name: HP
     desc: "115; coffin restoration, fast healing 10, negative healing; __Immunities__ poison, death effects, disease, paralyze, sleep; __Weaknesses__ vampire weaknesses ; __Resistances__ physical 10 (except magical silver)"
@@ -80,7 +79,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 321."
 ```
 
-### Encounter
 ```encounter-table
 name: Vampire Mastermind
 creatures:

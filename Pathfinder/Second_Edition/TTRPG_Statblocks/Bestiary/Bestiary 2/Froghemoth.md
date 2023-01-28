@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Froghemoth"
+statblock: inline
 name: "Froghemoth"
-hp: 285
-ac: 32
-modifier: 25
 level: 13
 ---
-### Froghemoth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Huge"
 trait_04: "Aberration"
 trait_05: "Amphibious"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __otherworldly vision 30__;"
@@ -60,6 +58,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; all-around vision; __Fort__: +26 (1d20+26); __Ref__: +21 (1d20+21); __Will__: +23 (1d20+23);"
+hp: 285
 health:
   - name: HP
     desc: "285;  __Immunities__ electricity;"
@@ -76,7 +75,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 122."
 ```
 
-### Encounter
 ```encounter-table
 name: Froghemoth
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Gelatinous Cube"
+statblock: inline
 name: "Gelatinous Cube"
-hp: 90
-ac: 10
-modifier: 5
 level: 3
 ---
-### Gelatinous Cube
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __motion sense 60__, __no vision__;"
@@ -52,6 +50,7 @@ ac: 10
 armorclass:
   - name: AC
     desc: "10; __Fort__: +12 (1d20+12); __Ref__: +0 (1d20+0); __Will__: +5 (1d20+5);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ acid, mental, precision, critical hits, unconscious, visual;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 254."
 ```
 
-### Encounter
 ```encounter-table
 name: Gelatinous Cube
 creatures:

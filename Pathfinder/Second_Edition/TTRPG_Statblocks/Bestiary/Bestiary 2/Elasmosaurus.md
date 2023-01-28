@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Elasmosaurus"
+statblock: inline
 name: "Elasmosaurus"
-hp: 125
-ac: 25
-modifier: 16
 level: 7
 ---
-### Elasmosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__, __imprecise scent 30__;"
@@ -54,6 +52,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +13 (1d20+13); __Will__: +16 (1d20+16);"
+hp: 125
 health:
   - name: HP
     desc: "125; "
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 105."
 ```
 
-### Encounter
 ```encounter-table
 name: Elasmosaurus
 creatures:

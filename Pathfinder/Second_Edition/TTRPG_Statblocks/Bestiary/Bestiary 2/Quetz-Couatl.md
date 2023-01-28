@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Quetz Couatl"
+statblock: inline
 name: "Quetz Couatl"
-hp: 175
-ac: 30
-modifier: 21
 level: 10
 ---
-### Quetz Couatl
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LG"
 size: "Large"
 trait_04: "Beast"
 trait_05: "Couatl"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __detect alignment__;"
@@ -53,6 +51,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +19 (1d20+19); __Ref__: +19 (1d20+19); __Will__: +21 (1d20+21);"
+hp: 175
 health:
   - name: HP
     desc: "175; "
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 54."
 ```
 
-### Encounter
 ```encounter-table
 name: Quetz Couatl
 creatures:

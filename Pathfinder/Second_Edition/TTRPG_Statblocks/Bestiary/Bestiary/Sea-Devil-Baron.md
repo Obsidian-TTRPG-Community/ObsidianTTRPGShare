@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Sea Devil Baron"
+statblock: inline
 name: "Sea Devil Baron"
-hp: 95
-ac: 24
-modifier: 13
 level: 6
 ---
-### Sea Devil Baron
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_04: "Devil"
 trait_05: "Humanoid"
 trait_06: "Mutant"
 trait_07: "Sea"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __wavesense 30__;"
@@ -56,6 +54,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +14 (1d20+14); __Will__: +13 (1d20+13);"
+hp: 95
 health:
   - name: HP
     desc: "95; "
@@ -74,7 +73,6 @@ attacks:
 sourcebook: "_Bestiary_, page 287."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Devil Baron
 creatures:

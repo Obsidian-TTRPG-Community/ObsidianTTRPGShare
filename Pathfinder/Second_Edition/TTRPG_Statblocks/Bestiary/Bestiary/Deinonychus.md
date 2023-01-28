@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Deinonychus"
+statblock: inline
 name: "Deinonychus"
-hp: 30
-ac: 19
-modifier: 7
 level: 2
 ---
-### Deinonychus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +10 (1d20+10); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 97."
 ```
 
-### Encounter
 ```encounter-table
 name: Deinonychus
 creatures:

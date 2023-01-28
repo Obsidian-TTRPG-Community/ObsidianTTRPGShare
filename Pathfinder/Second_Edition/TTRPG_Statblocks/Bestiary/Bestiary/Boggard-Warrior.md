@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Boggard Warrior"
+statblock: inline
 name: "Boggard Warrior"
-hp: 38
-ac: 17
-modifier: 8
 level: 2
 ---
-### Boggard Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Boggard"
 trait_05: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +10 (1d20+10); __Ref__: +5 (1d20+5); __Will__: +8 (1d20+8);"
+hp: 38
 health:
   - name: HP
     desc: "38; "
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary_, page 44."
 ```
 
-### Encounter
 ```encounter-table
 name: Boggard Warrior
 creatures:

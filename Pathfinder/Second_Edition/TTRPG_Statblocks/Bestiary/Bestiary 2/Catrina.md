@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Catrina"
+statblock: inline
 name: "Catrina"
-hp: 75
-ac: 22
-modifier: 13
 level: 5
 ---
-### Catrina
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __lifesense 60__;"
@@ -51,6 +49,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +11 (1d20+11); __Ref__: +12 (1d20+12); __Will__: +13 (1d20+13);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Immunities__ death effects, disease; __Resistances__ negative 5, poison 5"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 209."
 ```
 
-### Encounter
 ```encounter-table
 name: Catrina
 creatures:

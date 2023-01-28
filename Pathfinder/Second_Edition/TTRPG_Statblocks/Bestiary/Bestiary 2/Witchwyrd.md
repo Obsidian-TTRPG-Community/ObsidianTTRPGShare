@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Witchwyrd"
+statblock: inline
 name: "Witchwyrd"
-hp: 110
-ac: 22
-modifier: 12
 level: 6
 ---
-### Witchwyrd
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LN"
 size: "Medium"
 trait_04: "Humanoid"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +13 (1d20+13); __Ref__: +13 (1d20+13); __Will__: +15 (1d20+15);"
+hp: 110
 health:
   - name: HP
     desc: "110;  __Resistances__ force 5"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 294."
 ```
 
-### Encounter
 ```encounter-table
 name: Witchwyrd
 creatures:

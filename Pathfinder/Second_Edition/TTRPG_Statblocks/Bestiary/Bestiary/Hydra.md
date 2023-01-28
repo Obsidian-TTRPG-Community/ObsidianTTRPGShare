@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Hydra"
+statblock: inline
 name: "Hydra"
-hp: 90
-ac: 23
-modifier: 17
 level: 6
 ---
-### Hydra
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Huge"
 trait_03: "Beast"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __low-light vision__, __imprecise scent 30__;"
@@ -53,6 +51,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 90
 health:
   - name: HP
     desc: "90; hydra regeneration; __Immunities__ area damage; __Weaknesses__ slashing 5;"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 210."
 ```
 
-### Encounter
 ```encounter-table
 name: Hydra
 creatures:

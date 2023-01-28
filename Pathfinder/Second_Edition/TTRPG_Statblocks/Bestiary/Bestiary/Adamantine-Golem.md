@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Adamantine Golem"
+statblock: inline
 name: "Adamantine Golem"
-hp: 255
-ac: 42
-modifier: 26
 level: 18
 ---
-### Adamantine Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__;"
@@ -58,6 +56,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +33 (1d20+33); __Ref__: +27 (1d20+27); __Will__: +29 (1d20+29);"
+hp: 255
 health:
   - name: HP
     desc: "255; repair mode; __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, fire, healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious; __Resistances__ physical 20 (except vorpal adamantine)"
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary_, page 189."
 ```
 
-### Encounter
 ```encounter-table
 name: Adamantine Golem
 creatures:

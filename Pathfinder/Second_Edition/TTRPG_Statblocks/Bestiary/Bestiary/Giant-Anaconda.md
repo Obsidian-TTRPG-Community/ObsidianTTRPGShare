@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Giant Anaconda"
+statblock: inline
 name: "Giant Anaconda"
-hp: 175
-ac: 25
-modifier: 17
 level: 8
 ---
-### Giant Anaconda
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __low-light vision__, __imprecise scent 60__;"
@@ -51,6 +49,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +20 (1d20+20); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 175
 health:
   - name: HP
     desc: "175; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 303."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Anaconda
 creatures:

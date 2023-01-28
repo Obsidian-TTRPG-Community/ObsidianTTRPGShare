@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Marrmora"
+statblock: inline
 name: "Marrmora"
-hp: 280
-ac: 37
-modifier: 27
 level: 15
 ---
-### Marrmora
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Fey"
 trait_04: "Fire"
+modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; __low-light vision__;"
@@ -49,6 +47,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +29 (1d20+29); __Ref__: +25 (1d20+25); __Will__: +27 (1d20+27);"
+hp: 280
 health:
   - name: HP
     desc: "280;  __Immunities__ fire; __Weaknesses__ cold iron 15; __Resistances__ physical 10"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 171."
 ```
 
-### Encounter
 ```encounter-table
 name: Marrmora
 creatures:

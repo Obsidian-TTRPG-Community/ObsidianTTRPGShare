@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Chimera"
+statblock: inline
 name: "Chimera"
-hp: 135
-ac: 27
-modifier: 16
 level: 8
 ---
-### Chimera
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Large"
 trait_04: "Beast"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 30__;"
@@ -55,6 +53,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +16 (1d20+16); __Will__: +14 (1d20+14);"
+hp: 135
 health:
   - name: HP
     desc: "135; "
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 63."
 ```
 
-### Encounter
 ```encounter-table
 name: Chimera
 creatures:

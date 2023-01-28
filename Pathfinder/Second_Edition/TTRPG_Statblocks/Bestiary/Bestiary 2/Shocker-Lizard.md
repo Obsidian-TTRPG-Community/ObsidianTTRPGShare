@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Shocker Lizard"
+statblock: inline
 name: "Shocker Lizard"
-hp: 32
-ac: 18
-modifier: 7
 level: 2
 ---
-### Shocker Lizard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __greater electrolocation 20__, __low-light vision__;"
@@ -51,6 +49,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 32
 health:
   - name: HP
     desc: "32; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 240."
 ```
 
-### Encounter
 ```encounter-table
 name: Shocker Lizard
 creatures:

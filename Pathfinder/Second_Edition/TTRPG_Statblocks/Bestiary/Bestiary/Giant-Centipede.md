@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Giant Centipede"
+statblock: inline
 name: "Giant Centipede"
-hp: 8
-ac: 15
-modifier: 6
 level: -1
 ---
-### Giant Centipede
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature -1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -42,6 +40,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +7 (1d20+7); __Ref__: +6 (1d20+6); __Will__: +2 (1d20+2);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -54,7 +53,6 @@ attacks:
 sourcebook: "_Bestiary_, page 61."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Centipede
 creatures:

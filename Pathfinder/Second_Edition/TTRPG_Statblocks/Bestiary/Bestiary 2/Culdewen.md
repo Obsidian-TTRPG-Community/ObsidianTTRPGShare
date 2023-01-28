@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Culdewen"
+statblock: inline
 name: "Culdewen"
-hp: 105
-ac: 25
-modifier: 15
 level: 7
 ---
-### Culdewen
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Amphibious"
 trait_04: "Fey"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__;"
@@ -55,6 +53,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +14 (1d20+14); __Ref__: +18 (1d20+18); __Will__: +13 (1d20+13);"
+hp: 105
 health:
   - name: HP
     desc: "105; "
@@ -71,7 +70,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 57."
 ```
 
-### Encounter
 ```encounter-table
 name: Culdewen
 creatures:

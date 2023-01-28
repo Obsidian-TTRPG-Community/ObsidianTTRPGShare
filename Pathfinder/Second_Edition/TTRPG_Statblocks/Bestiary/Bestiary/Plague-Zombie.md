@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Plague Zombie"
+statblock: inline
 name: "Plague Zombie"
-hp: 50
-ac: 13
-modifier: 3
 level: 1
 ---
-### Plague Zombie
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Mindless"
 trait_04: "Undead"
 trait_05: "Zombie"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 13
 armorclass:
   - name: AC
     desc: "13; __Fort__: +6 (1d20+6); __Ref__: +3 (1d20+3); __Will__: +4 (1d20+4);"
+hp: 50
 health:
   - name: HP
     desc: "50; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 340."
 ```
 
-### Encounter
 ```encounter-table
 name: Plague Zombie
 creatures:

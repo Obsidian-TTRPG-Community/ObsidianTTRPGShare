@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Homunculus"
+statblock: inline
 name: "Homunculus"
-hp: 17
-ac: 17
-modifier: 3
 level: 0
 ---
-### Homunculus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Tiny"
 trait_03: "Construct"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +2 (1d20+2); __Ref__: +7 (1d20+7); __Will__: +3 (1d20+3);"
+hp: 17
 health:
   - name: HP
     desc: "17; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 208."
 ```
 
-### Encounter
 ```encounter-table
 name: Homunculus
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Ancient Brass Dragon"
+statblock: inline
 name: "Ancient Brass Dragon"
-hp: 325
-ac: 39
-modifier: 30
 level: 16
 ---
-### Ancient Brass Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CG"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Fire"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 60__;"
@@ -56,6 +54,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +30 (1d20+30); __Ref__: +29 (1d20+29); __Will__: +30 (1d20+30);"
+hp: 325
 health:
   - name: HP
     desc: "325;  __Immunities__ fire, paralyzed, sleep;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 118."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Brass Dragon
 creatures:

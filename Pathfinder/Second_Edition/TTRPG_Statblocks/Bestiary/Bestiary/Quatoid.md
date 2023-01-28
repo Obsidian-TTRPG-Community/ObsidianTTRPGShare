@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Quatoid"
+statblock: inline
 name: "Quatoid"
-hp: 120
-ac: 25
-modifier: 18
 level: 7
 ---
-### Quatoid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +15 (1d20+15); __Will__: +18 (1d20+18);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ bludgeoning 5, fire 5"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Quatoid
 creatures:

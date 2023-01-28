@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Arboreal Regent"
+statblock: inline
 name: "Arboreal Regent"
-hp: 150
-ac: 26
-modifier: 18
 level: 8
 ---
-### Arboreal Regent
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "NG"
 size: "Huge"
 trait_03: "Plant"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +20 (1d20+20); __Ref__: +11 (1d20+11); __Will__: +16 (1d20+16);"
+hp: 150
 health:
   - name: HP
     desc: "150;  __Weaknesses__ axe vulnerability , fire 10; __Resistances__ bludgeoning 5, piercing 5"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 25."
 ```
 
-### Encounter
 ```encounter-table
 name: Arboreal Regent
 creatures:

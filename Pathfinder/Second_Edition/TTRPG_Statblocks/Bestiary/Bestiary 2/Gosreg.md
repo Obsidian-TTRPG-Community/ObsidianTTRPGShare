@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Gosreg"
+statblock: inline
 name: "Gosreg"
-hp: 195
-ac: 31
-modifier: 21
 level: 11
 ---
-### Gosreg
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Medium"
 trait_04: "Aberration"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __thoughtsense 60__;"
@@ -52,6 +50,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +18 (1d20+18); __Ref__: +23 (1d20+23); __Will__: +22 (1d20+22);"
+hp: 195
 health:
   - name: HP
     desc: "195;  __Immunities__ confused; __Resistances__ mental 10"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 133."
 ```
 
-### Encounter
 ```encounter-table
 name: Gosreg
 creatures:

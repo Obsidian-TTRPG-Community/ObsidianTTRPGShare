@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Hippocampus"
+statblock: inline
 name: "Hippocampus"
-hp: 24
-ac: 16
-modifier: 6
 level: 1
 ---
-### Hippocampus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +9 (1d20+9); __Ref__: +4 (1d20+4); __Will__: +6 (1d20+6);"
+hp: 24
 health:
   - name: HP
     desc: "24; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 142."
 ```
 
-### Encounter
 ```encounter-table
 name: Hippocampus
 creatures:

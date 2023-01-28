@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Mohrg"
+statblock: inline
 name: "Mohrg"
-hp: 120
-ac: 28
-modifier: 17
 level: 8
 ---
-### Mohrg
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "CE"
 size: "Medium"
 trait_03: "Undead"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +16 (1d20+16); __Will__: +13 (1d20+13);"
+hp: 120
 health:
   - name: HP
     desc: "120; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Resistances__ piercing 10, slashing 5"
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 172."
 ```
 
-### Encounter
 ```encounter-table
 name: Mohrg
 creatures:

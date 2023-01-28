@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Young Black Dragon"
+statblock: inline
 name: "Young Black Dragon"
-hp: 125
-ac: 25
-modifier: 15
 level: 7
 ---
-### Young Black Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Acid"
 trait_04: "Amphibious"
 trait_05: "Dragon"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 60__;"
@@ -54,6 +52,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +17 (1d20+17); __Ref__: +12 (1d20+12); __Will__: +15 (1d20+15);"
+hp: 125
 health:
   - name: HP
     desc: "125;  __Immunities__ acid, paralyzed, sleep;"
@@ -72,7 +71,6 @@ attacks:
 sourcebook: "_Bestiary_, page 105."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Black Dragon
 creatures:

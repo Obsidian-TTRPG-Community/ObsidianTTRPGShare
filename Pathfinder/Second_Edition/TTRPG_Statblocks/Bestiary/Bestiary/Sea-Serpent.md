@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Sea Serpent"
+statblock: inline
 name: "Sea Serpent"
-hp: 210
-ac: 35
-modifier: 22
 level: 12
 ---
-### Sea Serpent
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Gargantuan"
 trait_04: "Animal"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 35
 armorclass:
   - name: AC
     desc: "35; __Fort__: +25 (1d20+25); __Ref__: +21 (1d20+21); __Will__: +21 (1d20+21);"
+hp: 210
 health:
   - name: HP
     desc: "210; "
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary_, page 288."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Serpent
 creatures:

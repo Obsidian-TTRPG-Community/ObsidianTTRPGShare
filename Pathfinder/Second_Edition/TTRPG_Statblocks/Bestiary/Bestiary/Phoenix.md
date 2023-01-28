@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Phoenix"
+statblock: inline
 name: "Phoenix"
-hp: 300
-ac: 36
-modifier: 27
 level: 15
 ---
-### Phoenix
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NG"
 size: "Gargantuan"
 trait_04: "Beast"
 trait_05: "Fire"
+modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; __darkvision__, __detect magic__, __see invisibility__;"
@@ -50,6 +48,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +27 (1d20+27); __Ref__: +31 (1d20+31); __Will__: +28 (1d20+28);"
+hp: 300
 health:
   - name: HP
     desc: "300; [[regeneration]] 20 (deactivated by cold or evil), self-resurrection; __Immunities__ fire; __Weaknesses__ cold 10, evil 10;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 261."
 ```
 
-### Encounter
 ```encounter-table
 name: Phoenix
 creatures:

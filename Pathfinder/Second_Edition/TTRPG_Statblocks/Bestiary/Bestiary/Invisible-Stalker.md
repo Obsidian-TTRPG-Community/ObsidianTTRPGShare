@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Invisible Stalker"
+statblock: inline
 name: "Invisible Stalker"
-hp: 70
-ac: 26
-modifier: 16
 level: 7
 ---
-### Invisible Stalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +14 (1d20+14); __Ref__: +18 (1d20+18); __Will__: +11 (1d20+11);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 144."
 ```
 
-### Encounter
 ```encounter-table
 name: Invisible Stalker
 creatures:

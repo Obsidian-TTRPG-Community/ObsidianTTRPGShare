@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Nuckelavee"
+statblock: inline
 name: "Nuckelavee"
-hp: 190
-ac: 28
-modifier: 16
 level: 9
 ---
-### Nuckelavee
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Amphibious"
 trait_04: "Fey"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__;"
@@ -58,6 +56,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +19 (1d20+19); __Ref__: +16 (1d20+16); __Will__: +20 (1d20+20);"
+hp: 190
 health:
   - name: HP
     desc: "190;  __Immunities__ poison, disease; __Weaknesses__ cold iron 10;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 186."
 ```
 
-### Encounter
 ```encounter-table
 name: Nuckelavee
 creatures:

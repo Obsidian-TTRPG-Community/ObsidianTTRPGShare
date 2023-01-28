@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Trumpet Archon"
+statblock: inline
 name: "Trumpet Archon"
-hp: 285
-ac: 36
-modifier: 26
 level: 14
 ---
-### Trumpet Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Medium"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +24 (1d20+24); __Ref__: +24 (1d20+24); __Will__: +27 (1d20+27);"
+hp: 285
 health:
   - name: HP
     desc: "285;  __Weaknesses__ evil 15; __Resistances__ sonic 15"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 23."
 ```
 
-### Encounter
 ```encounter-table
 name: Trumpet Archon
 creatures:

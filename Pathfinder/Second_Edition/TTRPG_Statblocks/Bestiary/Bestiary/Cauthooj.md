@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Cauthooj"
+statblock: inline
 name: "Cauthooj"
-hp: 215
-ac: 33
-modifier: 22
 level: 12
 ---
-### Cauthooj
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 12"
 alignment: "N"
 size: "Medium"
 trait_03: "Beast"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __imprecise thoughtsense 60__;"
@@ -51,6 +49,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +25 (1d20+25); __Ref__: +20 (1d20+20); __Will__: +18 (1d20+18);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Resistances__ sonic 15"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 55."
 ```
 
-### Encounter
 ```encounter-table
 name: Cauthooj
 creatures:

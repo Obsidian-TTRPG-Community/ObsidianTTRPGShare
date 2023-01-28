@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Dullahan"
+statblock: inline
 name: "Dullahan"
-hp: 95
-ac: 28
-modifier: 14
 level: 7
 ---
-### Dullahan
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LE"
 size: "Medium"
 trait_04: "Undead"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __lifesense 60__;"
@@ -56,6 +54,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +13 (1d20+13); __Ref__: +15 (1d20+15); __Will__: +17 (1d20+17);"
+hp: 95
 health:
   - name: HP
     desc: "95; fast healing 5; __Immunities__ poison, fear, death effects, disease, paralyzed, unconscious; __Weaknesses__ good 5;"
@@ -74,7 +73,6 @@ attacks:
 sourcebook: "_Bestiary_, page 140."
 ```
 
-### Encounter
 ```encounter-table
 name: Dullahan
 creatures:

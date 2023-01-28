@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Megaprimatus"
+statblock: inline
 name: "Megaprimatus"
-hp: 150
-ac: 26
-modifier: 15
 level: 8
 ---
-### Megaprimatus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +19 (1d20+19); __Ref__: +16 (1d20+16); __Will__: +13 (1d20+13);"
+hp: 150
 health:
   - name: HP
     desc: "150; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 23."
 ```
 
-### Encounter
 ```encounter-table
 name: Megaprimatus
 creatures:

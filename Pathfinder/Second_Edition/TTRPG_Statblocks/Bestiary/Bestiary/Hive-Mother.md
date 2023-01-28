@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Hive Mother"
+statblock: inline
 name: "Hive Mother"
-hp: 120
-ac: 29
-modifier: 16
 level: 8
 ---
-### Hive Mother
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Huge"
 trait_04: "Animal"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise [[tremorsense]] 90__;"
@@ -50,6 +48,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +18 (1d20+18); __Ref__: +15 (1d20+15); __Will__: +14 (1d20+14);"
+hp: 120
 health:
   - name: HP
     desc: "120; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 22."
 ```
 
-### Encounter
 ```encounter-table
 name: Hive Mother
 creatures:

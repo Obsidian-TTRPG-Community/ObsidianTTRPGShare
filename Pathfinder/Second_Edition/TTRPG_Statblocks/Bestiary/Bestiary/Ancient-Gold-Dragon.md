@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Ancient Gold Dragon"
+statblock: inline
 name: "Ancient Gold Dragon"
-hp: 450
-ac: 46
-modifier: 36
 level: 20
 ---
-### Ancient Gold Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LG"
 size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Fire"
+modifier: 36
 perception:
   - name: "Perception"
     desc: "Perception +36; __darkvision__, __imprecise scent 80__;"
@@ -58,6 +56,7 @@ ac: 46
 armorclass:
   - name: AC
     desc: "46; __Fort__: +37 (1d20+37); __Ref__: +34 (1d20+34); __Will__: +39 (1d20+39);"
+hp: 450
 health:
   - name: HP
     desc: "450;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 20;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 125."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Gold Dragon
 creatures:

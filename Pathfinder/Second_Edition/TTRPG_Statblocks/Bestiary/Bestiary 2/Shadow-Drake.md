@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Shadow Drake"
+statblock: inline
 name: "Shadow Drake"
-hp: 28
-ac: 17
-modifier: 6
 level: 2
 ---
-### Shadow Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Tiny"
 trait_03: "Dragon"
 trait_04: "Shadow"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __imprecise scent 30__;"
@@ -55,6 +53,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 28
 health:
   - name: HP
     desc: "28;  __Immunities__ paralyzed, sleep;"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 100."
 ```
 
-### Encounter
 ```encounter-table
 name: Shadow Drake
 creatures:

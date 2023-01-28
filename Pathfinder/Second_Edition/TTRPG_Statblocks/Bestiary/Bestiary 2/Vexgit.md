@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Vexgit"
+statblock: inline
 name: "Vexgit"
-hp: 24
-ac: 16
-modifier: 6
 level: 1
 ---
-### Vexgit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Tiny"
 trait_03: "Fey"
 trait_04: "Gremlin"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 24
 health:
   - name: HP
     desc: "24; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 134."
 ```
 
-### Encounter
 ```encounter-table
 name: Vexgit
 creatures:

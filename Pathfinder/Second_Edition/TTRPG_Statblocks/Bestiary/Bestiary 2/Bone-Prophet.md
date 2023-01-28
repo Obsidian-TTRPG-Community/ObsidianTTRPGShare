@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Bone Prophet"
+statblock: inline
 name: "Bone Prophet"
-hp: 115
-ac: 27
-modifier: 15
 level: 8
 ---
-### Bone Prophet
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Humanoid"
 trait_05: "Serpentfolk"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +14 (1d20+14); __Ref__: +15 (1d20+15); __Will__: +19 (1d20+19);"
+hp: 115
 health:
   - name: HP
     desc: "115; "
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 239."
 ```
 
-### Encounter
 ```encounter-table
 name: Bone Prophet
 creatures:

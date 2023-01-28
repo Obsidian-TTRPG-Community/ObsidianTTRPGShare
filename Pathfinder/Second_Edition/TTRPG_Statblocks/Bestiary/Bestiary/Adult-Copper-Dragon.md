@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Adult Copper Dragon"
+statblock: inline
 name: "Adult Copper Dragon"
-hp: 235
-ac: 33
-modifier: 23
 level: 12
 ---
-### Adult Copper Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Earth"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__, __imprecise scent 60__;"
@@ -55,6 +53,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +23 (1d20+23); __Ref__: +22 (1d20+22); __Will__: +22 (1d20+22);"
+hp: 235
 health:
   - name: HP
     desc: "235;  __Immunities__ acid, paralyzed, sleep;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 122."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Copper Dragon
 creatures:

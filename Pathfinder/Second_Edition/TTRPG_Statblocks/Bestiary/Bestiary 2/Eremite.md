@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Eremite"
+statblock: inline
 name: "Eremite"
-hp: 375
-ac: 45
-modifier: 34
 level: 20
 ---
-### Eremite
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; __greater darkvision__, __painsight__, __true seeing__;"
@@ -60,6 +58,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +37 (1d20+37); __Ref__: +32 (1d20+32); __Will__: +34 (1d20+34);"
+hp: 375
 health:
   - name: HP
     desc: "375; [[regeneration]] 25 (deactivated by good or silver); __Weaknesses__ good 20, silver 20;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 285."
 ```
 
-### Encounter
 ```encounter-table
 name: Eremite
 creatures:

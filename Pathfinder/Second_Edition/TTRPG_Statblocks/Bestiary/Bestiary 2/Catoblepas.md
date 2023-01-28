@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Catoblepas"
+statblock: inline
 name: "Catoblepas"
-hp: 215
-ac: 33
-modifier: 22
 level: 12
 ---
-### Catoblepas
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 12"
 alignment: "CE"
 size: "Large"
 trait_03: "Beast"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +24 (1d20+24); __Ref__: +20 (1d20+20); __Will__: +22 (1d20+22);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ poison, disease, olfactory;"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 48."
 ```
 
-### Encounter
 ```encounter-table
 name: Catoblepas
 creatures:

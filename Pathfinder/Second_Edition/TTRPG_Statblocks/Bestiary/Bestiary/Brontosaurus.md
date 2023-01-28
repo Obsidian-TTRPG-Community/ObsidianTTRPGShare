@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Brontosaurus"
+statblock: inline
 name: "Brontosaurus"
-hp: 220
-ac: 28
-modifier: 16
 level: 10
 ---
-### Brontosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +21 (1d20+21); __Ref__: +14 (1d20+14); __Will__: +16 (1d20+16);"
+hp: 220
 health:
   - name: HP
     desc: "220; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 100."
 ```
 
-### Encounter
 ```encounter-table
 name: Brontosaurus
 creatures:

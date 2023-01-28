@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Mukradi"
+statblock: inline
 name: "Mukradi"
-hp: 300
-ac: 37
-modifier: 24
 level: 15
 ---
-### Mukradi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 15"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Beast"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -53,6 +51,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; all-around vision; __Fort__: +32 (1d20+32); __Ref__: +23 (1d20+23); __Will__: +26 (1d20+26);"
+hp: 300
 health:
   - name: HP
     desc: "300;  __Resistances__ acid 20, electricity 20, fire 20"
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 239."
 ```
 
-### Encounter
 ```encounter-table
 name: Mukradi
 creatures:

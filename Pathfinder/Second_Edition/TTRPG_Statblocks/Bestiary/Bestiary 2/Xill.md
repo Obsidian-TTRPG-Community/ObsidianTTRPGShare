@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Xill"
+statblock: inline
 name: "Xill"
-hp: 100
-ac: 24
-modifier: 15
 level: 6
 ---
-### Xill
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Medium"
 trait_04: "Aberration"
 trait_05: "Ethereal"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -59,6 +57,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24;  (26 with shield raised); __Fort__: +15 (1d20+15); __Ref__: +17 (1d20+17); __Will__: +11 (1d20+11);"
+hp: 100
 health:
   - name: HP
     desc: "100; "
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 299."
 ```
 
-### Encounter
 ```encounter-table
 name: Xill
 creatures:

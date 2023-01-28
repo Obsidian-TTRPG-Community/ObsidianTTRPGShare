@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Barbazu"
+statblock: inline
 name: "Barbazu"
-hp: 60
-ac: 22
-modifier: 13
 level: 5
 ---
-### Barbazu
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __greater darkvision__;"
@@ -56,6 +54,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +15 (1d20+15); __Ref__: +11 (1d20+11); __Will__: +11 (1d20+11);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ fire; __Weaknesses__ good 5; __Resistances__ physical 5 (except silver), poison 10"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 88."
 ```
 
-### Encounter
 ```encounter-table
 name: Barbazu
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Spriggan Warlord"
+statblock: inline
 name: "Spriggan Warlord"
-hp: 120
-ac: 25
-modifier: 14
 level: 7
 ---
-### Spriggan Warlord
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
 trait_05: "Spriggan"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __low-light vision__;"
@@ -55,6 +53,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +13 (1d20+13); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 120
 health:
   - name: HP
     desc: "120; "
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 253."
 ```
 
-### Encounter
 ```encounter-table
 name: Spriggan Warlord
 creatures:

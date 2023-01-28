@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Tyrannosaurus"
+statblock: inline
 name: "Tyrannosaurus"
-hp: 180
-ac: 29
-modifier: 19
 level: 10
 ---
-### Tyrannosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __low-light vision__, __imprecise scent 30__;"
@@ -51,6 +49,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +21 (1d20+21); __Ref__: +15 (1d20+15); __Will__: +19 (1d20+19);"
+hp: 180
 health:
   - name: HP
     desc: "180; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 101."
 ```
 
-### Encounter
 ```encounter-table
 name: Tyrannosaurus
 creatures:

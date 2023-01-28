@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Leaf Leshy"
+statblock: inline
 name: "Leaf Leshy"
-hp: 15
-ac: 18
-modifier: 4
 level: 0
 ---
-### Leaf Leshy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Leshy"
 trait_04: "Plant"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __low-light vision__;"
@@ -54,6 +52,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +6 (1d20+6); __Will__: +4 (1d20+4);"
+hp: 15
 health:
   - name: HP
     desc: "15; Weaknesses fire 2; __Weaknesses__ fire 2;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 218."
 ```
 
-### Encounter
 ```encounter-table
 name: Leaf Leshy
 creatures:

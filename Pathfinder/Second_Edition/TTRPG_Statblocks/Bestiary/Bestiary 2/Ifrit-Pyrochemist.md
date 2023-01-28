@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Ifrit Pyrochemist"
+statblock: inline
 name: "Ifrit Pyrochemist"
-hp: 18
-ac: 18
-modifier: 3
 level: 1
 ---
-### Ifrit Pyrochemist
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Ifrit"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3;"
@@ -50,6 +48,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +5 (1d20+5); __Ref__: +6 (1d20+6); __Will__: +3 (1d20+3);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 200."
 ```
 
-### Encounter
 ```encounter-table
 name: Ifrit Pyrochemist
 creatures:

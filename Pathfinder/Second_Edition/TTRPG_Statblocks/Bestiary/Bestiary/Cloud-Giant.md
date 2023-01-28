@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Cloud Giant"
+statblock: inline
 name: "Cloud Giant"
-hp: 220
-ac: 30
-modifier: 22
 level: 11
 ---
-### Cloud Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_03: "Air"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __low-light vision__, __imprecise scent 30__;"
@@ -56,6 +54,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +25 (1d20+25); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 220
 health:
   - name: HP
     desc: "220; "
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 173."
 ```
 
-### Encounter
 ```encounter-table
 name: Cloud Giant
 creatures:

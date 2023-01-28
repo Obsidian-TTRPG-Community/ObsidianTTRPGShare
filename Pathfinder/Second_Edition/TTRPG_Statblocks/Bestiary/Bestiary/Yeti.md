@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Yeti"
+statblock: inline
 name: "Yeti"
-hp: 115
-ac: 21
-modifier: 15
 level: 5
 ---
-### Yeti
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Large"
 trait_04: "Humanoid"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 30__;"
@@ -54,6 +52,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +15 (1d20+15); __Ref__: +11 (1d20+11); __Will__: +13 (1d20+13);"
+hp: 115
 health:
   - name: HP
     desc: "115;  __Immunities__ cold; __Weaknesses__ fire 10;"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 338."
 ```
 
-### Encounter
 ```encounter-table
 name: Yeti
 creatures:

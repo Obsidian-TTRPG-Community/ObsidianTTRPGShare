@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Duergar Taskmaster"
+statblock: inline
 name: "Duergar Taskmaster"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Duergar Taskmaster
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Duergar"
 trait_04: "Dwarf"
 trait_05: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +4 (1d20+4); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 139."
 ```
 
-### Encounter
 ```encounter-table
 name: Duergar Taskmaster
 creatures:

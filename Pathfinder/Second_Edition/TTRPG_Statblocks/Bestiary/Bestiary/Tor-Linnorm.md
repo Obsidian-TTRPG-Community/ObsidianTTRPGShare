@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/21
 statblock: true
-statblock-link: "#Tor Linnorm"
+statblock: inline
 name: "Tor Linnorm"
-hp: 440
-ac: 47
-modifier: 37
 level: 21
 ---
-### Tor Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Fire"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -58,6 +56,7 @@ ac: 47
 armorclass:
   - name: AC
     desc: "47; __Fort__: +38 (1d20+38); __Ref__: +35 (1d20+35); __Will__: +33 (1d20+33);"
+hp: 440
 health:
   - name: HP
     desc: "440; [[regeneration]] 20 (deactivated by cold iron); __Immunities__ fire, curse, paralyzed, sleep; __Weaknesses__ cold iron 15;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 227."
 ```
 
-### Encounter
 ```encounter-table
 name: Tor Linnorm
 creatures:

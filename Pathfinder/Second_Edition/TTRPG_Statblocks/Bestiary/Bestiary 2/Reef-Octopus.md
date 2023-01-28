@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Reef Octopus"
+statblock: inline
 name: "Reef Octopus"
-hp: 20
-ac: 17
-modifier: 7
 level: 1
 ---
-### Reef Octopus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__;"
@@ -51,6 +49,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +7 (1d20+7);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 187."
 ```
 
-### Encounter
 ```encounter-table
 name: Reef Octopus
 creatures:

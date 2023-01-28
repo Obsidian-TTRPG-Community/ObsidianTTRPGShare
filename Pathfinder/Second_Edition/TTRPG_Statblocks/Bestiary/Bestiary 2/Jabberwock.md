@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/23
 statblock: true
-statblock-link: "#Jabberwock"
+statblock: inline
 name: "Jabberwock"
-hp: 500
-ac: 49
-modifier: 40
 level: 23
 ---
-### Jabberwock
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Tane"
+modifier: 40
 perception:
   - name: "Perception"
     desc: "Perception +40; __darkvision__, __scent 120__, __true seeing__;"
@@ -59,6 +57,7 @@ ac: 49
 armorclass:
   - name: AC
     desc: "49; __Fort__: +39 (1d20+39); __Ref__: +37 (1d20+37); __Will__: +40 (1d20+40);"
+hp: 500
 health:
   - name: HP
     desc: "500; [[regeneration]] 25 (deactivated by vorpal weapons); __Immunities__ paralyzed, sleep; __Weaknesses__ vorpal weapons 20, vorpal fear ; __Resistances__ fire 20"
@@ -79,7 +78,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 151."
 ```
 
-### Encounter
 ```encounter-table
 name: Jabberwock
 creatures:

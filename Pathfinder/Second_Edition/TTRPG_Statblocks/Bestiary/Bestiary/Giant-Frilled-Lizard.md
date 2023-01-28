@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Giant Frilled Lizard"
+statblock: inline
 name: "Giant Frilled Lizard"
-hp: 75
-ac: 22
-modifier: 11
 level: 5
 ---
-### Giant Frilled Lizard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__, __imprecise scent 30__;"
@@ -42,6 +40,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +13 (1d20+13); __Ref__: +12 (1d20+12); __Will__: +9 (1d20+9);"
+hp: 75
 health:
   - name: HP
     desc: "75; "
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary_, page 229."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Frilled Lizard
 creatures:

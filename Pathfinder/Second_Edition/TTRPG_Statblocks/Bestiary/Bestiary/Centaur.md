@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Centaur"
+statblock: inline
 name: "Centaur"
-hp: 40
-ac: 20
-modifier: 9
 level: 3
 ---
-### Centaur
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Beast"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20;  (22 with shield raised); __Fort__: +8 (1d20+8); __Ref__: +9 (1d20+9); __Will__: +9 (1d20+9);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 60."
 ```
 
-### Encounter
 ```encounter-table
 name: Centaur
 creatures:

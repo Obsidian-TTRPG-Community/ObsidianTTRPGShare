@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Cloaker"
+statblock: inline
 name: "Cloaker"
-hp: 80
-ac: 22
-modifier: 12
 level: 5
 ---
-### Cloaker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CN"
 size: "Large"
 trait_03: "Aberration"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +13 (1d20+13); __Ref__: +12 (1d20+12); __Will__: +12 (1d20+12);"
+hp: 80
 health:
   - name: HP
     desc: "80; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 65."
 ```
 
-### Encounter
 ```encounter-table
 name: Cloaker
 creatures:

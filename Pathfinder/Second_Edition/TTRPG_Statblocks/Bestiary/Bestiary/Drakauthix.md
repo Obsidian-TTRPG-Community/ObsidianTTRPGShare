@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Drakauthix"
+statblock: inline
 name: "Drakauthix"
-hp: 190
-ac: 25
-modifier: 17
 level: 9
 ---
-### Drakauthix
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 9"
 alignment: "N"
 size: "Huge"
 trait_03: "Fungus"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__, __imprecise sporesight 60__;"
@@ -52,6 +50,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +21 (1d20+21); __Ref__: +13 (1d20+13); __Will__: +15 (1d20+15);"
+hp: 190
 health:
   - name: HP
     desc: "190;  __Weaknesses__ fire 10, slashing 10;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 129."
 ```
 
-### Encounter
 ```encounter-table
 name: Drakauthix
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Grippli Scout"
+statblock: inline
 name: "Grippli Scout"
-hp: 20
-ac: 18
-modifier: 8
 level: 1
 ---
-### Grippli Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Grippli"
 trait_04: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 139."
 ```
 
-### Encounter
 ```encounter-table
 name: Grippli Scout
 creatures:

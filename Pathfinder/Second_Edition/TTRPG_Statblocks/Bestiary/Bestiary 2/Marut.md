@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Marut"
+statblock: inline
 name: "Marut"
-hp: 230
-ac: 37
-modifier: 26
 level: 15
 ---
-### Marut
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Aeon"
 trait_04: "Inevitable"
 trait_05: "Monitor"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __true seeing__;"
@@ -53,6 +51,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +27 (1d20+27); __Ref__: +25 (1d20+25); __Will__: +26 (1d20+26);"
+hp: 230
 health:
   - name: HP
     desc: "230; [[regeneration]] 15 (deactivated by chaotic); __Immunities__ poison, death effects, disease, emotion, unconscious; __Weaknesses__ chaotic 15;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 10."
 ```
 
-### Encounter
 ```encounter-table
 name: Marut
 creatures:

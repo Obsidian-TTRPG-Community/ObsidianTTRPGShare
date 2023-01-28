@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Sceaduinar"
+statblock: inline
 name: "Sceaduinar"
-hp: 100
-ac: 25
-modifier: 15
 level: 7
 ---
-### Sceaduinar
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Aberration"
 trait_05: "Negative"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __greater darkvision__, __lifesense 120__;"
@@ -52,6 +50,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +16 (1d20+16); __Ref__: +18 (1d20+18); __Will__: +14 (1d20+14);"
+hp: 100
 health:
   - name: HP
     desc: "100; negative healing; __Immunities__ death effects, drained; __Weaknesses__ good 10; __Resistances__ physical 5 except adamantine"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 233."
 ```
 
-### Encounter
 ```encounter-table
 name: Sceaduinar
 creatures:

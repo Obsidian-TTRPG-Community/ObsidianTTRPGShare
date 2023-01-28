@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Brownie"
+statblock: inline
 name: "Brownie"
-hp: 25
-ac: 16
-modifier: 7
 level: 1
 ---
-### Brownie
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Tiny"
 trait_03: "Fey"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__;"
@@ -48,6 +46,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +9 (1d20+9); __Will__: +9 (1d20+9);"
+hp: 25
 health:
   - name: HP
     desc: "25; "
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 44."
 ```
 
-### Encounter
 ```encounter-table
 name: Brownie
 creatures:

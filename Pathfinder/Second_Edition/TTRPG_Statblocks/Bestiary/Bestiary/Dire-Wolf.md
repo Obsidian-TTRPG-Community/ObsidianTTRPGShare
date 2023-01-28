@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Dire Wolf"
+statblock: inline
 name: "Dire Wolf"
-hp: 50
-ac: 18
-modifier: 10
 level: 3
 ---
-### Dire Wolf
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +11 (1d20+11); __Ref__: +8 (1d20+8); __Will__: +8 (1d20+8);"
+hp: 50
 health:
   - name: HP
     desc: "50; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 334."
 ```
 
-### Encounter
 ```encounter-table
 name: Dire Wolf
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Pleroma"
+statblock: inline
 name: "Pleroma"
-hp: 335
-ac: 45
-modifier: 37
 level: 20
 ---
-### Pleroma
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LN"
 size: "Large"
 trait_03: "Aeon"
 trait_04: "Monitor"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __lifesense 120__, __true seeing__;"
@@ -54,6 +52,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +32 (1d20+32); __Ref__: +31 (1d20+31); __Will__: +37 (1d20+37);"
+hp: 335
 health:
   - name: HP
     desc: "335; [[regeneration]] 20 (deactivated by chaotic); __Immunities__ negative, positive; __Weaknesses__ chaotic 20;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 10."
 ```
 
-### Encounter
 ```encounter-table
 name: Pleroma
 creatures:

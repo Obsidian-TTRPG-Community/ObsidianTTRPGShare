@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Dragon Turtle"
+statblock: inline
 name: "Dragon Turtle"
-hp: 140
-ac: 29
-modifier: 18
 level: 9
 ---
-### Dragon Turtle
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Amphibious"
 trait_04: "Dragon"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +19 (1d20+19); __Ref__: +15 (1d20+15); __Will__: +16 (1d20+16);"
+hp: 140
 health:
   - name: HP
     desc: "140;  __Immunities__ fire, paralyzed, sleep;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 128."
 ```
 
-### Encounter
 ```encounter-table
 name: Dragon Turtle
 creatures:

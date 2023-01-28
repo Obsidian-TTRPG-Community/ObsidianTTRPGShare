@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Dandasuka"
+statblock: inline
 name: "Dandasuka"
-hp: 60
-ac: 23
-modifier: 12
 level: 5
 ---
-### Dandasuka
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Fiend"
 trait_04: "Rakshasa"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +12 (1d20+12); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Weaknesses__ good 5; __Resistances__ physical 5"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 274."
 ```
 
-### Encounter
 ```encounter-table
 name: Dandasuka
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Salamander"
+statblock: inline
 name: "Salamander"
-hp: 125
-ac: 26
-modifier: 15
 level: 7
 ---
-### Salamander
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +15 (1d20+15); __Ref__: +16 (1d20+16); __Will__: +13 (1d20+13);"
+hp: 125
 health:
   - name: HP
     desc: "125;  __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 148."
 ```
 
-### Encounter
 ```encounter-table
 name: Salamander
 creatures:

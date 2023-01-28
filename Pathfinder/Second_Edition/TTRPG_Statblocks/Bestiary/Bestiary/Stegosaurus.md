@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Stegosaurus"
+statblock: inline
 name: "Stegosaurus"
-hp: 125
-ac: 23
-modifier: 15
 level: 7
 ---
-### Stegosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +17 (1d20+17); __Ref__: +13 (1d20+13); __Will__: +13 (1d20+13);"
+hp: 125
 health:
   - name: HP
     desc: "125; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary_, page 98."
 ```
 
-### Encounter
 ```encounter-table
 name: Stegosaurus
 creatures:

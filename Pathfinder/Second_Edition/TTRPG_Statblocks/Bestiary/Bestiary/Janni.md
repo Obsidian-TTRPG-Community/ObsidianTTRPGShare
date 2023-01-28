@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Janni"
+statblock: inline
 name: "Janni"
-hp: 60
-ac: 20
-modifier: 11
 level: 4
 ---
-### Janni
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Elemental"
 trait_04: "Genie"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +11 (1d20+11);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Resistances__ fire 5"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 162."
 ```
 
-### Encounter
 ```encounter-table
 name: Janni
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Naunet"
+statblock: inline
 name: "Naunet"
-hp: 120
-ac: 24
-modifier: 14
 level: 7
 ---
-### Naunet
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Large"
 trait_03: "Monitor"
 trait_04: "Protean"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise entropy sense 30__;"
@@ -56,6 +54,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +18 (1d20+18); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 120
 health:
   - name: HP
     desc: "120; fast healing 2; __Weaknesses__ lawful 5; __Resistances__ precision 5, protean anatomy 10"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 267."
 ```
 
-### Encounter
 ```encounter-table
 name: Naunet
 creatures:

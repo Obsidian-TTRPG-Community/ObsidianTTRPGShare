@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Carnivorous Blob"
+statblock: inline
 name: "Carnivorous Blob"
-hp: 300
-ac: 20
-modifier: 23
 level: 13
 ---
-### Carnivorous Blob
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __motion sense 240__, __no vision__;"
@@ -55,6 +53,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +25 (1d20+25); __Ref__: +14 (1d20+14); __Will__: +19 (1d20+19);"
+hp: 300
 health:
   - name: HP
     desc: "300;  __Immunities__ acid, mental, piercing, precision, slashing, sonic, critical hits, unconscious, visual;"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 195."
 ```
 
-### Encounter
 ```encounter-table
 name: Carnivorous Blob
 creatures:

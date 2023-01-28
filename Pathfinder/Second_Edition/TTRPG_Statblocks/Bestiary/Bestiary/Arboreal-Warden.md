@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Arboreal Warden"
+statblock: inline
 name: "Arboreal Warden"
-hp: 75
-ac: 20
-modifier: 11
 level: 4
 ---
-### Arboreal Warden
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "NG"
 size: "Large"
 trait_03: "Plant"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__;"
@@ -53,6 +51,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20;  (22 with shield raised); __Fort__: +13 (1d20+13); __Ref__: +9 (1d20+9); __Will__: +11 (1d20+11);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Weaknesses__ axe vulnerability , fire 10; __Resistances__ bludgeoning 5, piercing 5"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 24."
 ```
 
-### Encounter
 ```encounter-table
 name: Arboreal Warden
 creatures:

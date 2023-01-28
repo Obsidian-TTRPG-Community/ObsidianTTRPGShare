@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Invidiak"
+statblock: inline
 name: "Invidiak"
-hp: 90
-ac: 22
-modifier: 15
 level: 7
 ---
-### Invidiak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Demon"
 trait_04: "Fiend"
 trait_05: "Incorporeal"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +15 (1d20+15); __Ref__: +16 (1d20+16); __Will__: +13 (1d20+13);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ poison, precision, disease; __Weaknesses__ cold iron 5, good 5;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 65."
 ```
 
-### Encounter
 ```encounter-table
 name: Invidiak
 creatures:

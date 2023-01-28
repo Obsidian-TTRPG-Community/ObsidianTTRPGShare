@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Hezrou"
+statblock: inline
 name: "Hezrou"
-hp: 245
-ac: 31
-modifier: 21
 level: 11
 ---
-### Hezrou
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Amphibious"
 trait_04: "Demon"
 trait_05: "Fiend"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +23 (1d20+23); __Ref__: +18 (1d20+18); __Will__: +22 (1d20+22);"
+hp: 245
 health:
   - name: HP
     desc: "245;  __Weaknesses__ cold iron 10, good 10;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 67."
 ```
 
-### Encounter
 ```encounter-table
 name: Hezrou
 creatures:

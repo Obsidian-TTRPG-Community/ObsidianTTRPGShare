@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Flame Drake"
+statblock: inline
 name: "Flame Drake"
-hp: 75
-ac: 22
-modifier: 12
 level: 5
 ---
-### Flame Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise scent 30__, __smoke vision__;"
@@ -54,6 +52,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +10 (1d20+10);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Immunities__ fire, paralyzed, unconscious; __Weaknesses__ cold 10;"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 131."
 ```
 
-### Encounter
 ```encounter-table
 name: Flame Drake
 creatures:

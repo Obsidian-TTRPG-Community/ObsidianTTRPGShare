@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Giant Crawling Hand"
+statblock: inline
 name: "Giant Crawling Hand"
-hp: 75
-ac: 22
-modifier: 12
 level: 5
 ---
-### Giant Crawling Hand
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "NE"
 size: "Medium"
 trait_03: "Undead"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __lifesense 30__, __imprecise [[tremorsense]] 30__;"
@@ -46,6 +44,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +10 (1d20+10);"
+hp: 75
 health:
   - name: HP
     desc: "75; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious, visual;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 56."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Crawling Hand
 creatures:

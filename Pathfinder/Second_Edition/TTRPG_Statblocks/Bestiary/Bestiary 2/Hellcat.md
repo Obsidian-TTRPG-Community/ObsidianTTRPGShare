@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Hellcat"
+statblock: inline
 name: "Hellcat"
-hp: 110
-ac: 25
-modifier: 16
 level: 7
 ---
-### Hellcat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Beast"
 trait_04: "Fiend"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 30__;"
@@ -54,6 +52,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +15 (1d20+15); __Ref__: +17 (1d20+17); __Will__: +12 (1d20+12);"
+hp: 110
 health:
   - name: HP
     desc: "110;  __Weaknesses__ good 5; __Resistances__ fire 10, physical 5"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 141."
 ```
 
-### Encounter
 ```encounter-table
 name: Hellcat
 creatures:

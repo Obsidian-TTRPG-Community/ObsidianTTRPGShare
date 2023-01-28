@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Jungle Drake"
+statblock: inline
 name: "Jungle Drake"
-hp: 90
-ac: 23
-modifier: 13
 level: 6
 ---
-### Jungle Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Earth"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __imprecise scent 30__;"
@@ -57,6 +55,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +17 (1d20+17); __Ref__: +13 (1d20+13); __Will__: +11 (1d20+11);"
+hp: 90
 health:
   - name: HP
     desc: "90;  __Immunities__ poison, disease, paralyzed, unconscious;"
@@ -71,7 +70,6 @@ attacks:
 sourcebook: "_Bestiary_, page 132."
 ```
 
-### Encounter
 ```encounter-table
 name: Jungle Drake
 creatures:

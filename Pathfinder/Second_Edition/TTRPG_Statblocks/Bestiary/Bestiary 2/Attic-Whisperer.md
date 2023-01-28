@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Attic Whisperer"
+statblock: inline
 name: "Attic Whisperer"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Attic Whisperer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "NE"
 size: "Small"
 trait_03: "Undead"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +8 (1d20+8); __Ref__: +13 (1d20+13); __Will__: +12 (1d20+12);"
+hp: 60
 health:
   - name: HP
     desc: "60; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 28."
 ```
 
-### Encounter
 ```encounter-table
 name: Attic Whisperer
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Leprechaun"
+statblock: inline
 name: "Leprechaun"
-hp: 25
-ac: 18
-modifier: 11
 level: 2
 ---
-### Leprechaun
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "CN"
 size: "Small"
 trait_03: "Fey"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__;"
@@ -45,6 +43,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +11 (1d20+11); __Will__: +10 (1d20+10);"
+hp: 25
 health:
   - name: HP
     desc: "25; "
@@ -60,7 +59,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 158."
 ```
 
-### Encounter
 ```encounter-table
 name: Leprechaun
 creatures:

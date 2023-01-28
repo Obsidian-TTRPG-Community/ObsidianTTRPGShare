@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Wood Golem"
+statblock: inline
 name: "Wood Golem"
-hp: 95
-ac: 23
-modifier: 12
 level: 6
 ---
-### Wood Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Medium"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +16 (1d20+16); __Will__: +12 (1d20+12);"
+hp: 95
 health:
   - name: HP
     desc: "95;  __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below);"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 130."
 ```
 
-### Encounter
 ```encounter-table
 name: Wood Golem
 creatures:

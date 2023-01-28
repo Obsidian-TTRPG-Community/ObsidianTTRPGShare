@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Banshee"
+statblock: inline
 name: "Banshee"
-hp: 250
-ac: 39
-modifier: 32
 level: 17
 ---
-### Banshee
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Medium"
 trait_04: "Incorporeal"
 trait_05: "Spirit"
 trait_06: "Undead"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __darkvision__, __imprecise hears heartbeats 60__;"
@@ -59,6 +57,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +25 (1d20+25); __Ref__: +29 (1d20+29); __Will__: +32 (1d20+32);"
+hp: 250
 health:
   - name: HP
     desc: "250; negative healing; __Immunities__ poison, precision, disease, paralyzed, unconscious; __Resistances__ all damage 12 (except force, ghost touch, or positive; double resistance vs. non-magical)"
@@ -71,7 +70,6 @@ attacks:
 sourcebook: "_Bestiary_, page 34."
 ```
 
-### Encounter
 ```encounter-table
 name: Banshee
 creatures:

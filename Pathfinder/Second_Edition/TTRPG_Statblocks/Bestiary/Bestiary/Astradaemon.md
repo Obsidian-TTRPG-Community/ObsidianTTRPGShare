@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Astradaemon"
+statblock: inline
 name: "Astradaemon"
-hp: 240
-ac: 39
-modifier: 28
 level: 16
 ---
-### Astradaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __lifesense 30__, __true seeing__;"
@@ -53,6 +51,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +27 (1d20+27); __Ref__: +30 (1d20+30); __Will__: +26 (1d20+26);"
+hp: 240
 health:
   - name: HP
     desc: "240;  __Immunities__ negative, death effects; __Weaknesses__ good 15;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 73."
 ```
 
-### Encounter
 ```encounter-table
 name: Astradaemon
 creatures:

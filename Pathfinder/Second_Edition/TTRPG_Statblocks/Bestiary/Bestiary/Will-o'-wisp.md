@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Will-o'-wisp"
+statblock: inline
 name: "Will-o'-wisp"
-hp: 50
-ac: 27
-modifier: 16
 level: 6
 ---
-### Will-o'-wisp
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Aberration"
 trait_04: "Air"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +10 (1d20+10); __Ref__: +16 (1d20+16); __Will__: +14 (1d20+14);"
+hp: 50
 health:
   - name: HP
     desc: "50;  __Immunities__ magic;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 333."
 ```
 
-### Encounter
 ```encounter-table
 name: Will-o'-wisp
 creatures:

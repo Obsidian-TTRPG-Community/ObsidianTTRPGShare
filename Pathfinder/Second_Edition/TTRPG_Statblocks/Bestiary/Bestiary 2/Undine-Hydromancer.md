@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Undine Hydromancer"
+statblock: inline
 name: "Undine Hydromancer"
-hp: 15
-ac: 16
-modifier: 5
 level: 1
 ---
-### Undine Hydromancer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Human"
 trait_05: "Humanoid"
 trait_06: "Undine"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5;"
@@ -43,6 +41,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +5 (1d20+5); __Will__: +7 (1d20+7);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -58,11 +57,10 @@ spellcasting:
   - name: "Primal Spontaneous Spells"
     desc: "DC 17, attack +9; __Cantrips (1st)__ [[acid splash]], [[detect magic]], [[know direction]], [[stabilize]], [[tanglefoot]]; __1st__ [[create water]], [[heal]], [[hydraulic push]];"
   - name: "Sorcerer Bloodline Spells"
-    desc: "DC 17, attack +9; __1st__ [[elemental toss]] (1 Focus Point);"
+    desc: "DC 17, attack +9; __1st__ [[elemental toss]] ((1 Focus Point));"
 sourcebook: "_Bestiary 2_, page 203."
 ```
 
-### Encounter
 ```encounter-table
 name: Undine Hydromancer
 creatures:

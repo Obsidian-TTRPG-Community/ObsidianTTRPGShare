@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Storm Giant"
+statblock: inline
 name: "Storm Giant"
-hp: 235
-ac: 34
-modifier: 24
 level: 13
 ---
-### Storm Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_03: "Amphibious"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __low-light vision__;"
@@ -56,6 +54,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +28 (1d20+28); __Ref__: +21 (1d20+21); __Will__: +23 (1d20+23);"
+hp: 235
 health:
   - name: HP
     desc: "235;  __Immunities__ electricity;"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 174."
 ```
 
-### Encounter
 ```encounter-table
 name: Storm Giant
 creatures:

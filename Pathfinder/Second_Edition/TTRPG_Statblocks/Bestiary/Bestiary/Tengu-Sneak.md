@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Tengu Sneak"
+statblock: inline
 name: "Tengu Sneak"
-hp: 27
-ac: 19
-modifier: 6
 level: 2
 ---
-### Tengu Sneak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Tengu"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -49,6 +47,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +4 (1d20+4);"
+hp: 27
 health:
   - name: HP
     desc: "27; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 310."
 ```
 
-### Encounter
 ```encounter-table
 name: Tengu Sneak
 creatures:

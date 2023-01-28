@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Kobold Scout"
+statblock: inline
 name: "Kobold Scout"
-hp: 16
-ac: 18
-modifier: 8
 level: 1
 ---
-### Kobold Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Humanoid"
 trait_04: "Kobold"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 213."
 ```
 
-### Encounter
 ```encounter-table
 name: Kobold Scout
 creatures:

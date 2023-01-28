@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Mastodon"
+statblock: inline
 name: "Mastodon"
-hp: 175
-ac: 26
-modifier: 17
 level: 9
 ---
-### Mastodon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 9"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +20 (1d20+20); __Ref__: +13 (1d20+13); __Will__: +17 (1d20+17);"
+hp: 175
 health:
   - name: HP
     desc: "175; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 116."
 ```
 
-### Encounter
 ```encounter-table
 name: Mastodon
 creatures:

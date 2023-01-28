@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Adult Crystal Dragon"
+statblock: inline
 name: "Adult Crystal Dragon"
-hp: 185
-ac: 33
-modifier: 20
 level: 11
 ---
-### Adult Crystal Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Huge"
 trait_04: "Dragon"
 trait_05: "Earth"
 trait_06: "Elemental"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 30__;"
@@ -58,6 +56,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +24 (1d20+24); __Ref__: +19 (1d20+19); __Will__: +20 (1d20+20);"
+hp: 185
 health:
   - name: HP
     desc: "185;  __Immunities__ paralyzed, sleep; __Weaknesses__ sonic 10;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 92."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Crystal Dragon
 creatures:

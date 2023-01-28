@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Jinkin"
+statblock: inline
 name: "Jinkin"
-hp: 19
-ac: 17
-modifier: 7
 level: 1
 ---
-### Jinkin
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Tiny"
 trait_03: "Fey"
 trait_04: "Gremlin"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 19
 health:
   - name: HP
     desc: "19; "
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 193."
 ```
 
-### Encounter
 ```encounter-table
 name: Jinkin
 creatures:

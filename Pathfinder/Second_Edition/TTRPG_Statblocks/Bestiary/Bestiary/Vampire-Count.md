@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Vampire Count"
+statblock: inline
 name: "Vampire Count"
-hp: 65
-ac: 24
-modifier: 17
 level: 6
 ---
-### Vampire Count
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Undead"
 trait_04: "Vampire"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -60,6 +58,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +11 (1d20+11); __Ref__: +14 (1d20+14); __Will__: +17 (1d20+17);"
+hp: 65
 health:
   - name: HP
     desc: "65; coffin restoration, fast healing 7, negative healing; __Immunities__ poison, death effects, disease, paralyze, sleep; __Weaknesses__ vampire weaknesses ; __Resistances__ physical 7 (except magical silver)"
@@ -74,7 +73,6 @@ attacks:
 sourcebook: "_Bestiary_, page 320."
 ```
 
-### Encounter
 ```encounter-table
 name: Vampire Count
 creatures:

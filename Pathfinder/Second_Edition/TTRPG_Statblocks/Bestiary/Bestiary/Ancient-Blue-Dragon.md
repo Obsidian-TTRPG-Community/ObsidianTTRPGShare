@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Ancient Blue Dragon"
+statblock: inline
 name: "Ancient Blue Dragon"
-hp: 370
-ac: 42
-modifier: 31
 level: 18
 ---
-### Ancient Blue Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Electricity"
+modifier: 31
 perception:
   - name: "Perception"
     desc: "Perception +31; __darkvision__, __imprecise scent 60__;"
@@ -63,6 +61,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +32 (1d20+32); __Ref__: +30 (1d20+30); __Will__: +33 (1d20+33);"
+hp: 370
 health:
   - name: HP
     desc: "370;  __Immunities__ electricity, paralyzed, sleep;"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 108."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Blue Dragon
 creatures:

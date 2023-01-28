@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Leech"
+statblock: inline
 name: "Giant Leech"
-hp: 32
-ac: 17
-modifier: 5
 level: 2
 ---
-### Giant Leech
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Animal"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __[[tremorsense]] 30__;"
@@ -43,6 +41,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +9 (1d20+9); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 32
 health:
   - name: HP
     desc: "32; "
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 156."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Leech
 creatures:

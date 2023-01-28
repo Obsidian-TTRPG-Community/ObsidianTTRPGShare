@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/astral
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Shining Child"
+statblock: inline
 name: "Shining Child"
-hp: 215
-ac: 33
-modifier: 23
 level: 12
 ---
-### Shining Child
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 12"
 alignment: "CE"
 size: "Medium"
 trait_03: "Astral"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +22 (1d20+22); __Ref__: +19 (1d20+19); __Will__: +19 (1d20+19);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ fire, blinded, dazzled;"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 292."
 ```
 
-### Encounter
 ```encounter-table
 name: Shining Child
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Smilodon"
+statblock: inline
 name: "Smilodon"
-hp: 110
-ac: 23
-modifier: 14
 level: 6
 ---
-### Smilodon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __low-light vision__, __imprecise scent 60__;"
@@ -48,6 +46,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 110
 health:
   - name: HP
     desc: "110; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 53."
 ```
 
-### Encounter
 ```encounter-table
 name: Smilodon
 creatures:

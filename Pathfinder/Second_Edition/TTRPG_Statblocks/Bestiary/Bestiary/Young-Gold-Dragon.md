@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Young Gold Dragon"
+statblock: inline
 name: "Young Gold Dragon"
-hp: 230
-ac: 32
-modifier: 21
 level: 11
 ---
-### Young Gold Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__, __imprecise scent 60__;"
@@ -53,6 +51,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +22 (1d20+22); __Ref__: +20 (1d20+20); __Will__: +22 (1d20+22);"
+hp: 230
 health:
   - name: HP
     desc: "230;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 124."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Gold Dragon
 creatures:

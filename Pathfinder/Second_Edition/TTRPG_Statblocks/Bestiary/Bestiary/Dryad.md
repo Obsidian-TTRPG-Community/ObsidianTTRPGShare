@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Dryad"
+statblock: inline
 name: "Dryad"
-hp: 55
-ac: 19
-modifier: 10
 level: 3
 ---
-### Dryad
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Medium"
 trait_03: "Fey"
 trait_04: "Nymph"
 trait_05: "Plant"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -52,6 +50,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +11 (1d20+11); __Will__: +10 (1d20+10);"
+hp: 55
 health:
   - name: HP
     desc: "55;  __Weaknesses__ cold iron 5, fire 5;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 246."
 ```
 
-### Encounter
 ```encounter-table
 name: Dryad
 creatures:

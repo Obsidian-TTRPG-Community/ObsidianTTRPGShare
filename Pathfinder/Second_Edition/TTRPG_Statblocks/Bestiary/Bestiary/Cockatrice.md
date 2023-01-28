@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Cockatrice"
+statblock: inline
 name: "Cockatrice"
-hp: 45
-ac: 19
-modifier: 8
 level: 3
 ---
-### Cockatrice
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Small"
 trait_03: "Beast"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -42,6 +40,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +11 (1d20+11); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -54,7 +53,6 @@ attacks:
 sourcebook: "_Bestiary_, page 66."
 ```
 
-### Encounter
 ```encounter-table
 name: Cockatrice
 creatures:

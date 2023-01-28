@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Weretiger"
+statblock: inline
 name: "Weretiger"
-hp: 75
-ac: 21
-modifier: 11
 level: 4
 ---
-### Weretiger
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_03: "Beast"
 trait_04: "Human"
 trait_05: "Humanoid"
 trait_06: "Werecreature"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__, __imprecise scent 30__;"
@@ -61,6 +59,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +13 (1d20+13); __Will__: +9 (1d20+9);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Weaknesses__ silver 5;"
@@ -75,7 +74,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 291."
 ```
 
-### Encounter
 ```encounter-table
 name: Weretiger
 creatures:

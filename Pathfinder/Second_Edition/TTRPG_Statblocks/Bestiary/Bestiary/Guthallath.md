@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Guthallath"
+statblock: inline
 name: "Guthallath"
-hp: 325
-ac: 43
-modifier: 30
 level: 19
 ---
-### Guthallath
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Gargantuan"
 trait_04: "Construct"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __true seeing__;"
@@ -54,6 +52,7 @@ ac: 43
 armorclass:
   - name: AC
     desc: "43; __Fort__: +38 (1d20+38); __Ref__: +32 (1d20+32); __Will__: +30 (1d20+30);"
+hp: 325
 health:
   - name: HP
     desc: "325;  __Immunities__ bleed, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ physical 15 (except adamantine)"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 199."
 ```
 
-### Encounter
 ```encounter-table
 name: Guthallath
 creatures:

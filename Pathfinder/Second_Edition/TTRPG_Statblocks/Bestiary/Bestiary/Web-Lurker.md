@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Web Lurker"
+statblock: inline
 name: "Web Lurker"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### Web Lurker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "NE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +10 (1d20+10); __Ref__: +11 (1d20+11); __Will__: +8 (1d20+8);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary_, page 325."
 ```
 
-### Encounter
 ```encounter-table
 name: Web Lurker
 creatures:

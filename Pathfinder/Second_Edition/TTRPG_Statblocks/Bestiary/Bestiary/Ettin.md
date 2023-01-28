@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Ettin"
+statblock: inline
 name: "Ettin"
-hp: 110
-ac: 21
-modifier: 16
 level: 6
 ---
-### Ettin
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +16 (1d20+16); __Ref__: +11 (1d20+11); __Will__: +12 (1d20+12);"
+hp: 110
 health:
   - name: HP
     desc: "110; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 156."
 ```
 
-### Encounter
 ```encounter-table
 name: Ettin
 creatures:

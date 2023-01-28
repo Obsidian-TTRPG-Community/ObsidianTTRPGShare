@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Witchfire"
+statblock: inline
 name: "Witchfire"
-hp: 125
-ac: 28
-modifier: 18
 level: 9
 ---
-### Witchfire
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Medium"
 trait_04: "Incorporeal"
 trait_05: "Spirit"
 trait_06: "Undead"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +21 (1d20+21); __Will__: +18 (1d20+18);"
+hp: 125
 health:
   - name: HP
     desc: "125; negative healing; __Immunities__ fire, poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all 10"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 293."
 ```
 
-### Encounter
 ```encounter-table
 name: Witchfire
 creatures:

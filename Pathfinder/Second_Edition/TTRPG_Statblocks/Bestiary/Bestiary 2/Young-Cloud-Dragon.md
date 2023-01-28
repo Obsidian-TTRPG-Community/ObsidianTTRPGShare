@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Young Cloud Dragon"
+statblock: inline
 name: "Young Cloud Dragon"
-hp: 175
-ac: 30
-modifier: 22
 level: 10
 ---
-### Young Cloud Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Large"
 trait_04: "Air"
 trait_05: "Dragon"
 trait_06: "Elemental"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __mist vision__, __imprecise scent 60__;"
@@ -61,6 +59,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +21 (1d20+21); __Ref__: +18 (1d20+18); __Will__: +20 (1d20+20);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ electricity, paralyzed, sleep;"
@@ -82,7 +81,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 89."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Cloud Dragon
 creatures:

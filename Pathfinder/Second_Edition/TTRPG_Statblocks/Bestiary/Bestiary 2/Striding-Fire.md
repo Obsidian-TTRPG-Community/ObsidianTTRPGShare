@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Striding Fire"
+statblock: inline
 name: "Striding Fire"
-hp: 115
-ac: 24
-modifier: 14
 level: 6
 ---
-### Striding Fire
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Medium"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __smoke vision__;"
@@ -47,6 +45,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +11 (1d20+11); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 115
 health:
   - name: HP
     desc: "115;  __Immunities__ bleed, fire, poison, paralyzed, sleep;"
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 111."
 ```
 
-### Encounter
 ```encounter-table
 name: Striding Fire
 creatures:

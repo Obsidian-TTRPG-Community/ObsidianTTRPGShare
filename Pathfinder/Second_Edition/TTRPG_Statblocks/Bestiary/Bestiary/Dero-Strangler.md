@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Dero Strangler"
+statblock: inline
 name: "Dero Strangler"
-hp: 45
-ac: 19
-modifier: 6
 level: 3
 ---
-### Dero Strangler
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Dero"
 trait_04: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +10 (1d20+10); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Immunities__ confusion; __Weaknesses__ vulnerable to sunlight ;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 84."
 ```
 
-### Encounter
 ```encounter-table
 name: Dero Strangler
 creatures:

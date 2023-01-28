@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Wendigo"
+statblock: inline
 name: "Wendigo"
-hp: 315
-ac: 40
-modifier: 32
 level: 17
 ---
-### Wendigo
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_04: "Beast"
 trait_05: "Cold"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __darkvision__, __heatsight 60__;"
@@ -54,6 +52,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +32 (1d20+32); __Ref__: +30 (1d20+30); __Will__: +26 (1d20+26);"
+hp: 315
 health:
   - name: HP
     desc: "315; [[regeneration]] 30 (deactivated by cold iron); __Immunities__ cold, fear;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 327."
 ```
 
-### Encounter
 ```encounter-table
 name: Wendigo
 creatures:

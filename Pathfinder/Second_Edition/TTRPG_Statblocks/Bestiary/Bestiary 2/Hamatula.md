@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Hamatula"
+statblock: inline
 name: "Hamatula"
-hp: 165
-ac: 31
-modifier: 24
 level: 11
 ---
-### Hamatula
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __greater darkvision__;"
@@ -53,6 +51,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +23 (1d20+23); __Ref__: +20 (1d20+20); __Will__: +20 (1d20+20);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Immunities__ fire; __Weaknesses__ good 10; __Resistances__ physical 10 (except silver), poison 10"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 74."
 ```
 
-### Encounter
 ```encounter-table
 name: Hamatula
 creatures:

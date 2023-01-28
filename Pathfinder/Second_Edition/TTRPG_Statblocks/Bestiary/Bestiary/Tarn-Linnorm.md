@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Tarn Linnorm"
+statblock: inline
 name: "Tarn Linnorm"
-hp: 400
-ac: 46
-modifier: 35
 level: 20
 ---
-### Tarn Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Gargantuan"
 trait_04: "Acid"
 trait_05: "Amphibious"
 trait_06: "Dragon"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -59,6 +57,7 @@ ac: 46
 armorclass:
   - name: AC
     desc: "46; __Fort__: +36 (1d20+36); __Ref__: +32 (1d20+32); __Will__: +31 (1d20+31);"
+hp: 400
 health:
   - name: HP
     desc: "400; [[regeneration]] 15 (deactivated by cold iron); __Immunities__ acid, curse, paralyzed, sleep; __Weaknesses__ cold iron 15;"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 226."
 ```
 
-### Encounter
 ```encounter-table
 name: Tarn Linnorm
 creatures:

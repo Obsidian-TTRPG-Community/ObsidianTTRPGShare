@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Adult Black Dragon"
+statblock: inline
 name: "Adult Black Dragon"
-hp: 215
-ac: 31
-modifier: 22
 level: 11
 ---
-### Adult Black Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Acid"
 trait_04: "Amphibious"
 trait_05: "Dragon"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __imprecise scent 60__;"
@@ -56,6 +54,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +23 (1d20+23); __Ref__: +18 (1d20+18); __Will__: +21 (1d20+21);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ acid, paralyzed, sleep;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 105."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Black Dragon
 creatures:

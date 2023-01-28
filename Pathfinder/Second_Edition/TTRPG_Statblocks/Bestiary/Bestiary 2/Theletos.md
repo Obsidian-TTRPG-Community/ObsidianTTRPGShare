@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Theletos"
+statblock: inline
 name: "Theletos"
-hp: 125
-ac: 25
-modifier: 18
 level: 7
 ---
-### Theletos
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LN"
 size: "Medium"
 trait_03: "Aeon"
 trait_04: "Monitor"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +16 (1d20+16); __Ref__: +13 (1d20+13); __Will__: +18 (1d20+18);"
+hp: 125
 health:
   - name: HP
     desc: "125; "
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 8."
 ```
 
-### Encounter
 ```encounter-table
 name: Theletos
 creatures:

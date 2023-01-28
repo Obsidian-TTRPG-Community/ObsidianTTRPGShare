@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Ancient Umbral Dragon"
+statblock: inline
 name: "Ancient Umbral Dragon"
-hp: 375
-ac: 45
-modifier: 36
 level: 20
 ---
-### Ancient Umbral Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Shadow"
+modifier: 36
 perception:
   - name: "Perception"
     desc: "Perception +36; __greater darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 60__;"
@@ -58,6 +56,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +35 (1d20+35); __Ref__: +33 (1d20+33); __Will__: +38 (1d20+38);"
+hp: 375
 health:
   - name: HP
     desc: "375;  __Immunities__ negative, paralyzed, sleep;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 97."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Umbral Dragon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Succubus"
+statblock: inline
 name: "Succubus"
-hp: 100
-ac: 23
-modifier: 15
 level: 7
 ---
-### Succubus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +15 (1d20+15); __Ref__: +14 (1d20+14); __Will__: +17 (1d20+17);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Weaknesses__ cold iron 5, good 5;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 77."
 ```
 
-### Encounter
 ```encounter-table
 name: Succubus
 creatures:

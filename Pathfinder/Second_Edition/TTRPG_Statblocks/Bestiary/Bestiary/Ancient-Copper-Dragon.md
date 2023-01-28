@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Ancient Copper Dragon"
+statblock: inline
 name: "Ancient Copper Dragon"
-hp: 345
-ac: 41
-modifier: 30
 level: 17
 ---
-### Ancient Copper Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CG"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Earth"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__;"
@@ -60,6 +58,7 @@ ac: 41
 armorclass:
   - name: AC
     desc: "41; __Fort__: +30 (1d20+30); __Ref__: +32 (1d20+32); __Will__: +32 (1d20+32);"
+hp: 345
 health:
   - name: HP
     desc: "345;  __Immunities__ acid, paralyzed, sleep;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 122."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Copper Dragon
 creatures:

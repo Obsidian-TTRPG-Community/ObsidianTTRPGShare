@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Chupacabra"
+statblock: inline
 name: "Chupacabra"
-hp: 45
-ac: 20
-modifier: 9
 level: 3
 ---
-### Chupacabra
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Small"
 trait_03: "Beast"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +9 (1d20+9); __Ref__: +11 (1d20+11); __Will__: +7 (1d20+7);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 52."
 ```
 
-### Encounter
 ```encounter-table
 name: Chupacabra
 creatures:

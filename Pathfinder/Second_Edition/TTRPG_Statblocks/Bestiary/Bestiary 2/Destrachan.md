@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Destrachan"
+statblock: inline
 name: "Destrachan"
-hp: 135
-ac: 27
-modifier: 20
 level: 8
 ---
-### Destrachan
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __echolocation 120__, __no vision__;"
@@ -50,6 +48,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +13 (1d20+13); __Will__: +18 (1d20+18);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ blinded, visual;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 71."
 ```
 
-### Encounter
 ```encounter-table
 name: Destrachan
 creatures:

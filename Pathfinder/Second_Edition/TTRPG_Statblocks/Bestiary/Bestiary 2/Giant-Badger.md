@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Badger"
+statblock: inline
 name: "Giant Badger"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Giant Badger
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +10 (1d20+10); __Ref__: +6 (1d20+6); __Will__: +8 (1d20+8);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 32."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Badger
 creatures:

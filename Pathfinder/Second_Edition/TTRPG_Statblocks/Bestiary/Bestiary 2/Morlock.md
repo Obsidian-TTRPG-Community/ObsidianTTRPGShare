@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Morlock"
+statblock: inline
 name: "Morlock"
-hp: 38
-ac: 17
-modifier: 7
 level: 2
 ---
-### Morlock
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 38
 health:
   - name: HP
     desc: "38; "
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 174."
 ```
 
-### Encounter
 ```encounter-table
 name: Morlock
 creatures:

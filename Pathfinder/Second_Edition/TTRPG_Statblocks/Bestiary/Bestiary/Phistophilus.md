@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Phistophilus"
+statblock: inline
 name: "Phistophilus"
-hp: 150
-ac: 30
-modifier: 21
 level: 10
 ---
-### Phistophilus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __greater darkvision__;"
@@ -51,6 +49,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +18 (1d20+18); __Ref__: +18 (1d20+18); __Will__: +23 (1d20+23);"
+hp: 150
 health:
   - name: HP
     desc: "150;  __Immunities__ fire, ward contract; __Weaknesses__ good 10; __Resistances__ physical 10 (except silver), poison 10"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 90."
 ```
 
-### Encounter
 ```encounter-table
 name: Phistophilus
 creatures:

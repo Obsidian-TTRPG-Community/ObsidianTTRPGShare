@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Young Magma Dragon"
+statblock: inline
 name: "Young Magma Dragon"
-hp: 175
-ac: 28
-modifier: 18
 level: 9
 ---
-### Young Magma Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Large"
 trait_04: "Dragon"
 trait_05: "Elemental"
 trait_06: "Fire"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__, __imprecise scent 60__;"
@@ -58,6 +56,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +19 (1d20+19); __Ref__: +16 (1d20+16); __Will__: +18 (1d20+18);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 94."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Magma Dragon
 creatures:

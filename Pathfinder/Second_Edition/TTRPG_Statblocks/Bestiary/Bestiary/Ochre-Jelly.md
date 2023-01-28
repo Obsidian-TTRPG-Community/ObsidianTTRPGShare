@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Ochre Jelly"
+statblock: inline
 name: "Ochre Jelly"
-hp: 150
-ac: 12
-modifier: 7
 level: 5
 ---
-### Ochre Jelly
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __motion sense 60__, __no vision__;"
@@ -51,6 +49,7 @@ ac: 12
 armorclass:
   - name: AC
     desc: "12; __Fort__: +15 (1d20+15); __Ref__: +4 (1d20+4); __Will__: +7 (1d20+7);"
+hp: 150
 health:
   - name: HP
     desc: "150;  __Immunities__ acid, electricity, mental, piercing, precision, slashing, critical hits, unconscious, visual;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 255."
 ```
 
-### Encounter
 ```encounter-table
 name: Ochre Jelly
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Devourer"
+statblock: inline
 name: "Devourer"
-hp: 175
-ac: 31
-modifier: 22
 level: 11
 ---
-### Devourer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "NE"
 size: "Large"
 trait_04: "Undead"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +20 (1d20+20); __Ref__: +18 (1d20+18); __Will__: +24 (1d20+24);"
+hp: 175
 health:
   - name: HP
     desc: "175; negative healing; __Immunities__ poison, death effects, disease, paralyzed, spell deflection, unconscious;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 78."
 ```
 
-### Encounter
 ```encounter-table
 name: Devourer
 creatures:

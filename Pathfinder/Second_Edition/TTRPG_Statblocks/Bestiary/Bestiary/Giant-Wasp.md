@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Giant Wasp"
+statblock: inline
 name: "Giant Wasp"
-hp: 45
-ac: 19
-modifier: 8
 level: 3
 ---
-### Giant Wasp
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +11 (1d20+11); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 324."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Wasp
 creatures:

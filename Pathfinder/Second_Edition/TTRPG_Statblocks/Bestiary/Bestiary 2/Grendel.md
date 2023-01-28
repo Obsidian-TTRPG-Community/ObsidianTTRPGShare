@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Grendel"
+statblock: inline
 name: "Grendel"
-hp: 360
-ac: 44
-modifier: 35
 level: 19
 ---
-### Grendel
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_04: "Unique"
 alignment: "CE"
 size: "Large"
 trait_04: "Humanoid"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __darkvision__, __keen hearing 120__;"
@@ -60,6 +58,7 @@ ac: 44
 armorclass:
   - name: AC
     desc: "44; __Fort__: +36 (1d20+36); __Ref__: +32 (1d20+32); __Will__: +31 (1d20+31);"
+hp: 360
 health:
   - name: HP
     desc: "360;  __Resistances__ all 15 (except unarmed attacks)"
@@ -76,7 +75,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 136."
 ```
 
-### Encounter
 ```encounter-table
 name: Grendel
 creatures:

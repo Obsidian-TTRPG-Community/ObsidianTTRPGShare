@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Leucrotta"
+statblock: inline
 name: "Leucrotta"
-hp: 85
-ac: 21
-modifier: 11
 level: 5
 ---
-### Leucrotta
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Large"
 trait_03: "Beast"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __imprecise scent 30__;"
@@ -48,6 +46,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +15 (1d20+15); __Ref__: +9 (1d20+9); __Will__: +11 (1d20+11);"
+hp: 85
 health:
   - name: HP
     desc: "85; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 162."
 ```
 
-### Encounter
 ```encounter-table
 name: Leucrotta
 creatures:

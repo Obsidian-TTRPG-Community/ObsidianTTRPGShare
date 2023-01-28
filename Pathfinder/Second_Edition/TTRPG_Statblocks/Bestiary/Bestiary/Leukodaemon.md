@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Leukodaemon"
+statblock: inline
 name: "Leukodaemon"
-hp: 155
-ac: 28
-modifier: 20
 level: 9
 ---
-### Leukodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __plaguesense 60__;"
@@ -56,6 +54,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +21 (1d20+21); __Will__: +19 (1d20+19);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Immunities__ death effects, disease; __Weaknesses__ good 10;"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 72."
 ```
 
-### Encounter
 ```encounter-table
 name: Leukodaemon
 creatures:

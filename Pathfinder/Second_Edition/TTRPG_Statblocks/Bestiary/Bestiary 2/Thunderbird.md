@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Thunderbird"
+statblock: inline
 name: "Thunderbird"
-hp: 200
-ac: 31
-modifier: 22
 level: 11
 ---
-### Thunderbird
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Gargantuan"
 trait_04: "Air"
 trait_05: "Beast"
 trait_06: "Electricity"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __stormsight__;"
@@ -58,6 +56,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +24 (1d20+24); __Ref__: +20 (1d20+20); __Will__: +22 (1d20+22);"
+hp: 200
 health:
   - name: HP
     desc: "200;  __Immunities__ electricity; __Resistances__ sonic 10"
@@ -74,7 +73,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 259."
 ```
 
-### Encounter
 ```encounter-table
 name: Thunderbird
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Azure Worm"
+statblock: inline
 name: "Azure Worm"
-hp: 320
-ac: 35
-modifier: 22
 level: 15
 ---
-### Azure Worm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_04: "Amphibious"
 trait_05: "Animal"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __imprecise [[tremorsense]] 100__;"
@@ -57,6 +55,7 @@ ac: 35
 armorclass:
   - name: AC
     desc: "35; __Fort__: +32 (1d20+32); __Ref__: +20 (1d20+20); __Will__: +23 (1d20+23);"
+hp: 320
 health:
   - name: HP
     desc: "320; "
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 57."
 ```
 
-### Encounter
 ```encounter-table
 name: Azure Worm
 creatures:

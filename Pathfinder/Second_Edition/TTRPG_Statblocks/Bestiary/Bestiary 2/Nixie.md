@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Nixie"
+statblock: inline
 name: "Nixie"
-hp: 25
-ac: 16
-modifier: 6
 level: 1
 ---
-### Nixie
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Aquatic"
 trait_04: "Fey"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 25
 health:
   - name: HP
     desc: "25; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 183."
 ```
 
-### Encounter
 ```encounter-table
 name: Nixie
 creatures:

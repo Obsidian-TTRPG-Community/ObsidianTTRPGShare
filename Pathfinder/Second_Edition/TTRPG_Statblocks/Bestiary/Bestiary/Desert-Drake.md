@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Desert Drake"
+statblock: inline
 name: "Desert Drake"
-hp: 135
-ac: 27
-modifier: 15
 level: 8
 ---
-### Desert Drake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Earth"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 30__;"
@@ -51,6 +49,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +13 (1d20+13);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ paralyzed, unconscious; __Resistances__ electricity 16"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 135."
 ```
 
-### Encounter
 ```encounter-table
 name: Desert Drake
 creatures:

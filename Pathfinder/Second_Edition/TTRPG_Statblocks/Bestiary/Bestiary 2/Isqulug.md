@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Isqulug"
+statblock: inline
 name: "Isqulug"
-hp: 230
-ac: 31
-modifier: 24
 level: 11
 ---
-### Isqulug
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Aberration"
 trait_05: "Amphibious"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __greater darkvision__, __host scent 30__;"
@@ -54,6 +52,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; all-around vision; __Fort__: +24 (1d20+24); __Ref__: +20 (1d20+20); __Will__: +18 (1d20+18);"
+hp: 230
 health:
   - name: HP
     desc: "230; [[regeneration]] 10 (deactivated by cold); __Immunities__ swarm mind; __Weaknesses__ cold 10;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 149."
 ```
 
-### Encounter
 ```encounter-table
 name: Isqulug
 creatures:

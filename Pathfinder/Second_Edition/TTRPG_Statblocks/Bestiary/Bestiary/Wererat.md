@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Wererat"
+statblock: inline
 name: "Wererat"
-hp: 45
-ac: 19
-modifier: 8
 level: 2
 ---
-### Wererat
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_03: "Beast"
 trait_04: "Human"
 trait_05: "Humanoid"
 trait_06: "Werecreature"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise scent 30__;"
@@ -61,6 +59,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +8 (1d20+8);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Weaknesses__ silver 5;"
@@ -79,7 +78,6 @@ attacks:
 sourcebook: "_Bestiary_, page 329."
 ```
 
-### Encounter
 ```encounter-table
 name: Wererat
 creatures:

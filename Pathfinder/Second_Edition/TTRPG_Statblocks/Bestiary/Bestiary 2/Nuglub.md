@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Nuglub"
+statblock: inline
 name: "Nuglub"
-hp: 34
-ac: 18
-modifier: 5
 level: 2
 ---
-### Nuglub
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Fey"
 trait_04: "Gremlin"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +10 (1d20+10); __Will__: +5 (1d20+5);"
+hp: 34
 health:
   - name: HP
     desc: "34;  __Weaknesses__ cold iron 2;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 135."
 ```
 
-### Encounter
 ```encounter-table
 name: Nuglub
 creatures:

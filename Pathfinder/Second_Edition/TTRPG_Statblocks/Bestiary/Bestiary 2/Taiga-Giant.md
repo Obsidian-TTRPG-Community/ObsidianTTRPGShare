@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Taiga Giant"
+statblock: inline
 name: "Taiga Giant"
-hp: 230
-ac: 32
-modifier: 23
 level: 12
 ---
-### Taiga Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CN"
 size: "Huge"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __low-light vision__, __see invisibility__;"
@@ -57,6 +55,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +25 (1d20+25); __Ref__: +20 (1d20+20); __Will__: +22 (1d20+22);"
+hp: 230
 health:
   - name: HP
     desc: "230;  __Immunities__ controlled;"
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 126."
 ```
 
-### Encounter
 ```encounter-table
 name: Taiga Giant
 creatures:

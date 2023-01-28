@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Sphinx"
+statblock: inline
 name: "Sphinx"
-hp: 135
-ac: 27
-modifier: 18
 level: 8
 ---
-### Sphinx
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "N"
 size: "Large"
 trait_03: "Beast"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __[[darkvision]]__, __[[detect magic]]__, __[[see invisibility]]__;"
@@ -50,6 +48,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +16 (1d20+16); __Ref__: +14 (1d20+14); __Will__: +19 (1d20+19);"
+hp: 135
 health:
   - name: HP
     desc: "135; "
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 305."
 ```
 
-### Encounter
 ```encounter-table
 name: Sphinx
 creatures:

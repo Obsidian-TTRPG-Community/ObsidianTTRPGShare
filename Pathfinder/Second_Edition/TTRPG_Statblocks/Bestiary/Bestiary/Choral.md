@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Choral"
+statblock: inline
 name: "Choral"
-hp: 100
-ac: 24
-modifier: 14
 level: 6
 ---
-### Choral
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Small"
 trait_03: "Angel"
 trait_04: "Celestial"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +10 (1d20+10); __Ref__: +14 (1d20+14); __Will__: +16 (1d20+16);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Weaknesses__ evil 5; __Resistances__ sonic 5"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 17."
 ```
 
-### Encounter
 ```encounter-table
 name: Choral
 creatures:

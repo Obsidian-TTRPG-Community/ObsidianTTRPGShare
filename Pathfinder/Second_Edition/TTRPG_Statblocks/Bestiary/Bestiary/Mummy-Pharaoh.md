@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Mummy Pharaoh"
+statblock: inline
 name: "Mummy Pharaoh"
-hp: 165
-ac: 27
-modifier: 20
 level: 9
 ---
-### Mummy Pharaoh
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Medium"
 trait_04: "Mummy"
 trait_05: "Undead"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -61,6 +59,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +19 (1d20+19); __Ref__: +15 (1d20+15); __Will__: +20 (1d20+20);"
+hp: 165
 health:
   - name: HP
     desc: "165; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ fire 10;"
@@ -75,7 +74,6 @@ attacks:
 sourcebook: "_Bestiary_, page 241."
 ```
 
-### Encounter
 ```encounter-table
 name: Mummy Pharaoh
 creatures:

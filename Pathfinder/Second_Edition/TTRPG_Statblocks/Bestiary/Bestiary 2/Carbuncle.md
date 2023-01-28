@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Carbuncle"
+statblock: inline
 name: "Carbuncle"
-hp: 20
-ac: 16
-modifier: 7
 level: 1
 ---
-### Carbuncle
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Tiny"
 trait_04: "Beast"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +8 (1d20+8); __Ref__: +3 (1d20+3); __Will__: +6 (1d20+6);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 47."
 ```
 
-### Encounter
 ```encounter-table
 name: Carbuncle
 creatures:

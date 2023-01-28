@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Mandragora"
+statblock: inline
 name: "Mandragora"
-hp: 60
-ac: 21
-modifier: 11
 level: 4
 ---
-### Mandragora
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CE"
 size: "Small"
 trait_03: "Plant"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __blood scent__, __low-light vision__;"
@@ -53,6 +51,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +13 (1d20+13); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Weaknesses__ fire 5; __Resistances__ bludgeoning 5, electricity 5"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 170."
 ```
 
-### Encounter
 ```encounter-table
 name: Mandragora
 creatures:

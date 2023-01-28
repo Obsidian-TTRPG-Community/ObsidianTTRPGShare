@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Shambler"
+statblock: inline
 name: "Shambler"
-hp: 120
-ac: 22
-modifier: 12
 level: 6
 ---
-### Shambler
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Large"
 trait_03: "Plant"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +17 (1d20+17); __Ref__: +11 (1d20+11); __Will__: +14 (1d20+14);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ electricity; __Resistances__ fire 5"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 290."
 ```
 
-### Encounter
 ```encounter-table
 name: Shambler
 creatures:

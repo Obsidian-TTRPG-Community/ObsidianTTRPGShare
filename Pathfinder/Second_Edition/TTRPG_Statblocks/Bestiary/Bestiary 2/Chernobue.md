@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Chernobue"
+statblock: inline
 name: "Chernobue"
-hp: 220
-ac: 33
-modifier: 25
 level: 12
 ---
-### Chernobue
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_04: "Fiend"
 trait_05: "Qlippoth"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __greater darkvision__, __imprecise scent 30__;"
@@ -52,6 +50,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +23 (1d20+23); __Ref__: +18 (1d20+18); __Will__: +25 (1d20+25);"
+hp: 220
 health:
   - name: HP
     desc: "220;  __Immunities__ controlled, fear; __Weaknesses__ lawful 10; __Resistances__ mental 10, physical 10 (except cold iron)"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 214."
 ```
 
-### Encounter
 ```encounter-table
 name: Chernobue
 creatures:

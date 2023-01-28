@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Brain Collector"
+statblock: inline
 name: "Brain Collector"
-hp: 140
-ac: 26
-modifier: 18
 level: 8
 ---
-### Brain Collector
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Large"
 trait_04: "Aberration"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +15 (1d20+15); __Ref__: +13 (1d20+13); __Will__: +18 (1d20+18);"
+hp: 140
 health:
   - name: HP
     desc: "140;  __Immunities__ confused; __Weaknesses__ brain loss ;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 46."
 ```
 
-### Encounter
 ```encounter-table
 name: Brain Collector
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Ankylosaurus"
+statblock: inline
 name: "Ankylosaurus"
-hp: 90
-ac: 26
-modifier: 12
 level: 6
 ---
-### Ankylosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +16 (1d20+16); __Ref__: +10 (1d20+10); __Will__: +12 (1d20+12);"
+hp: 90
 health:
   - name: HP
     desc: "90; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 97."
 ```
 
-### Encounter
 ```encounter-table
 name: Ankylosaurus
 creatures:

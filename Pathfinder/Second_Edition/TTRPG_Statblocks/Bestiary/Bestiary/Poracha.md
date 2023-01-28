@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Poracha"
+statblock: inline
 name: "Poracha"
-hp: 50
-ac: 23
-modifier: 10
 level: 4
 ---
-### Poracha
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Medium"
 trait_04: "Beast"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise [[tremorsense]] 10__;"
@@ -46,6 +44,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +9 (1d20+9); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 50
 health:
   - name: HP
     desc: "50; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary_, page 265."
 ```
 
-### Encounter
 ```encounter-table
 name: Poracha
 creatures:

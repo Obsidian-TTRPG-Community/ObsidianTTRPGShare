@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Fjord Linnorm"
+statblock: inline
 name: "Fjord Linnorm"
-hp: 315
-ac: 40
-modifier: 28
 level: 16
 ---
-### Fjord Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_04: "Amphibious"
 trait_05: "Dragon"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -52,6 +50,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +30 (1d20+30); __Ref__: +28 (1d20+28); __Will__: +24 (1d20+24);"
+hp: 315
 health:
   - name: HP
     desc: "315; [[regeneration]] 10 (deactivated; __Immunities__ cold, curse, paralyzed, sleep; __Weaknesses__ cold ;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 165."
 ```
 
-### Encounter
 ```encounter-table
 name: Fjord Linnorm
 creatures:

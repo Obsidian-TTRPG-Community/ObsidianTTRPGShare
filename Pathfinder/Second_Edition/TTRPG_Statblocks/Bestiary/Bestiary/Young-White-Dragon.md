@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Young White Dragon"
+statblock: inline
 name: "Young White Dragon"
-hp: 115
-ac: 23
-modifier: 13
 level: 6
 ---
-### Young White Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Cold"
 trait_04: "Dragon"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __imprecise scent 60__, __snow vision__;"
@@ -62,6 +60,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +16 (1d20+16); __Ref__: +14 (1d20+14); __Will__: +11 (1d20+11);"
+hp: 115
 health:
   - name: HP
     desc: "115;  __Immunities__ cold, paralyzed, sleep; __Weaknesses__ fire 5;"
@@ -78,7 +77,6 @@ attacks:
 sourcebook: "_Bestiary_, page 113."
 ```
 
-### Encounter
 ```encounter-table
 name: Young White Dragon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Choker"
+statblock: inline
 name: "Choker"
-hp: 28
-ac: 18
-modifier: 7
 level: 2
 ---
-### Choker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "CE"
 size: "Small"
 trait_03: "Aberration"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 28
 health:
   - name: HP
     desc: "28; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 51."
 ```
 
-### Encounter
 ```encounter-table
 name: Choker
 creatures:

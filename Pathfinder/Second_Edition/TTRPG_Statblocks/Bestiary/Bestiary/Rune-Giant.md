@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Rune Giant"
+statblock: inline
 name: "Rune Giant"
-hp: 330
-ac: 38
-modifier: 28
 level: 16
 ---
-### Rune Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Gargantuan"
 trait_04: "Evil"
 trait_05: "Giant"
 trait_06: "Humanoid"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __low-light vision__;"
@@ -65,6 +63,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +33 (1d20+33); __Ref__: +26 (1d20+26); __Will__: +28 (1d20+28);"
+hp: 330
 health:
   - name: HP
     desc: "330;  __Immunities__ fire;"
@@ -86,7 +85,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 175."
 ```
 
-### Encounter
 ```encounter-table
 name: Rune Giant
 creatures:

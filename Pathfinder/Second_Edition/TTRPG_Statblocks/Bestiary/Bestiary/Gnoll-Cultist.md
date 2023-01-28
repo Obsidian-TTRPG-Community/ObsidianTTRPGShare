@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Gnoll Cultist"
+statblock: inline
 name: "Gnoll Cultist"
-hp: 45
-ac: 19
-modifier: 8
 level: 3
 ---
-### Gnoll Cultist
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Gnoll"
 trait_04: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +6 (1d20+6); __Will__: +10 (1d20+10);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 179."
 ```
 
-### Encounter
 ```encounter-table
 name: Gnoll Cultist
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Young Brass Dragon"
+statblock: inline
 name: "Young Brass Dragon"
-hp: 125
-ac: 25
-modifier: 15
 level: 7
 ---
-### Young Brass Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 30__;"
@@ -53,6 +51,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +16 (1d20+16); __Ref__: +15 (1d20+15); __Will__: +14 (1d20+14);"
+hp: 125
 health:
   - name: HP
     desc: "125;  __Immunities__ fire, paralyzed, sleep;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 117."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Brass Dragon
 creatures:

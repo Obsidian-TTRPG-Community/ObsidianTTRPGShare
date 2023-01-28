@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Shuln"
+statblock: inline
 name: "Shuln"
-hp: 195
-ac: 33
-modifier: 20
 level: 12
 ---
-### Shuln
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Huge"
 trait_04: "Beast"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __scent 30__, __imprecise [[tremorsense]] 60__;"
@@ -47,6 +45,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +25 (1d20+25); __Ref__: +19 (1d20+19); __Will__: +21 (1d20+21);"
+hp: 195
 health:
   - name: HP
     desc: "195; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 294."
 ```
 
-### Encounter
 ```encounter-table
 name: Shuln
 creatures:

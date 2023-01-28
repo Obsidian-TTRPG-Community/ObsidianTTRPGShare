@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Blindheim"
+statblock: inline
 name: "Blindheim"
-hp: 27
-ac: 18
-modifier: 9
 level: 2
 ---
-### Blindheim
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -42,6 +40,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 27
 health:
   - name: HP
     desc: "27; "
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 39."
 ```
 
-### Encounter
 ```encounter-table
 name: Blindheim
 creatures:

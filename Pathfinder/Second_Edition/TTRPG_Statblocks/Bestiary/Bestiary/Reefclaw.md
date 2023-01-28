@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Reefclaw"
+statblock: inline
 name: "Reefclaw"
-hp: 17
-ac: 20
-modifier: 8
 level: 1
 ---
-### Reefclaw
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Aberration"
 trait_04: "Aquatic"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +7 (1d20+7); __Ref__: +9 (1d20+9); __Will__: +4 (1d20+4);"
+hp: 17
 health:
   - name: HP
     desc: "17; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 279."
 ```
 
-### Encounter
 ```encounter-table
 name: Reefclaw
 creatures:

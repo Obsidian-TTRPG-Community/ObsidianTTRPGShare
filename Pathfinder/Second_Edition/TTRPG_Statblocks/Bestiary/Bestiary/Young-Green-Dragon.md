@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Young Green Dragon"
+statblock: inline
 name: "Young Green Dragon"
-hp: 135
-ac: 28
-modifier: 16
 level: 8
 ---
-### Young Green Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Amphibious"
 trait_04: "Dragon"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 60__;"
@@ -55,6 +53,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +16 (1d20+16); __Ref__: +16 (1d20+16); __Will__: +17 (1d20+17);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ poison, paralyzed, sleep;"
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 109."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Green Dragon
 creatures:

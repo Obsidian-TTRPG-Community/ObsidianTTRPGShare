@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Wemmuth"
+statblock: inline
 name: "Wemmuth"
-hp: 335
-ac: 37
-modifier: 25
 level: 15
 ---
-### Wemmuth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 15"
 alignment: "NE"
 size: "Huge"
 trait_03: "Plant"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -49,6 +47,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +27 (1d20+27); __Ref__: +27 (1d20+27); __Will__: +24 (1d20+24);"
+hp: 335
 health:
   - name: HP
     desc: "335; blood leech;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 326."
 ```
 
-### Encounter
 ```encounter-table
 name: Wemmuth
 creatures:

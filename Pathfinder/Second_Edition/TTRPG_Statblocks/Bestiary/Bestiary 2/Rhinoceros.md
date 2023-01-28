@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Rhinoceros"
+statblock: inline
 name: "Rhinoceros"
-hp: 70
-ac: 22
-modifier: 9
 level: 4
 ---
-### Rhinoceros
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +14 (1d20+14); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 70
 health:
   - name: HP
     desc: "70; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 228."
 ```
 
-### Encounter
 ```encounter-table
 name: Rhinoceros
 creatures:

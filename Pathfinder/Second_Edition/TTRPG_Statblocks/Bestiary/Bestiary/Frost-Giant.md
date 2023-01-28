@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Frost Giant"
+statblock: inline
 name: "Frost Giant"
-hp: 150
-ac: 29
-modifier: 17
 level: 9
 ---
-### Frost Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Cold"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __low-light vision__;"
@@ -58,6 +56,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +23 (1d20+23); __Ref__: +16 (1d20+16); __Will__: +16 (1d20+16);"
+hp: 150
 health:
   - name: HP
     desc: "150;  __Immunities__ cold; __Weaknesses__ fire 10;"
@@ -74,7 +73,6 @@ attacks:
 sourcebook: "_Bestiary_, page 171."
 ```
 
-### Encounter
 ```encounter-table
 name: Frost Giant
 creatures:

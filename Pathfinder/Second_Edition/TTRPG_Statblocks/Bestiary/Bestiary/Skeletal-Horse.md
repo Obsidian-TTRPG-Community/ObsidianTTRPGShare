@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Skeletal Horse"
+statblock: inline
 name: "Skeletal Horse"
-hp: 33
-ac: 16
-modifier: 8
 level: 2
 ---
-### Skeletal Horse
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Mindless"
 trait_04: "Skeleton"
 trait_05: "Undead"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +8 (1d20+8);"
+hp: 33
 health:
   - name: HP
     desc: "33; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 299."
 ```
 
-### Encounter
 ```encounter-table
 name: Skeletal Horse
 creatures:

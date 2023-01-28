@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Dryad Queen"
+statblock: inline
 name: "Dryad Queen"
-hp: 220
-ac: 35
-modifier: 25
 level: 13
 ---
-### Dryad Queen
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Medium"
 trait_04: "Fey"
 trait_05: "Nymph"
 trait_06: "Plant"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __low-light vision__;"
@@ -63,6 +61,7 @@ ac: 35
 armorclass:
   - name: AC
     desc: "35; __Fort__: +24 (1d20+24); __Ref__: +26 (1d20+26); __Will__: +24 (1d20+24);"
+hp: 220
 health:
   - name: HP
     desc: "220;  __Weaknesses__ cold iron 10, fire 10;"
@@ -82,7 +81,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 249."
 ```
 
-### Encounter
 ```encounter-table
 name: Dryad Queen
 creatures:

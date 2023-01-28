@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Giant Scorpion"
+statblock: inline
 name: "Giant Scorpion"
-hp: 45
-ac: 19
-modifier: 9
 level: 3
 ---
-### Giant Scorpion
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -47,6 +45,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +12 (1d20+12); __Ref__: +9 (1d20+9); __Will__: +7 (1d20+7);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 285."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Scorpion
 creatures:

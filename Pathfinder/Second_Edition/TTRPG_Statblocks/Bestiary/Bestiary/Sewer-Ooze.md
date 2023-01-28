@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Sewer Ooze"
+statblock: inline
 name: "Sewer Ooze"
-hp: 40
-ac: 8
-modifier: 3
 level: 1
 ---
-### Sewer Ooze
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __motion sense 60__, __no vision__;"
@@ -46,6 +44,7 @@ ac: 8
 armorclass:
   - name: AC
     desc: "8; __Fort__: +9 (1d20+9); __Ref__: +1 (1d20+1); __Will__: +3 (1d20+3);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 254."
 ```
 
-### Encounter
 ```encounter-table
 name: Sewer Ooze
 creatures:

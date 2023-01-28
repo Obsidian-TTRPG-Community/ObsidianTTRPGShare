@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Orc Warchief"
+statblock: inline
 name: "Orc Warchief"
-hp: 32
-ac: 19
-modifier: 11
 level: 2
 ---
-### Orc Warchief
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Orc"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +6 (1d20+6); __Will__: +7 (1d20+7);"
+hp: 32
 health:
   - name: HP
     desc: "32; "
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary_, page 257."
 ```
 
-### Encounter
 ```encounter-table
 name: Orc Warchief
 creatures:

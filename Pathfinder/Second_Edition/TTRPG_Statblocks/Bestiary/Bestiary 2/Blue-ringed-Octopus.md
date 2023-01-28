@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Blue-ringed Octopus"
+statblock: inline
 name: "Blue-ringed Octopus"
-hp: 15
-ac: 16
-modifier: 6
 level: 0
 ---
-### Blue-ringed Octopus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -49,6 +47,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +3 (1d20+3); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 187."
 ```
 
-### Encounter
 ```encounter-table
 name: Blue-ringed Octopus
 creatures:

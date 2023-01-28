@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Nereid"
+statblock: inline
 name: "Nereid"
-hp: 175
-ac: 30
-modifier: 20
 level: 10
 ---
-### Nereid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Aquatic"
 trait_04: "Fey"
 trait_05: "Water"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +16 (1d20+16); __Ref__: +22 (1d20+22); __Will__: +18 (1d20+18);"
+hp: 175
 health:
   - name: HP
     desc: "175;  __Immunities__ poison; __Weaknesses__ cold iron 10;"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 182."
 ```
 
-### Encounter
 ```encounter-table
 name: Nereid
 creatures:

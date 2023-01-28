@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Ancient Bronze Dragon"
+statblock: inline
 name: "Ancient Bronze Dragon"
-hp: 360
-ac: 43
-modifier: 32
 level: 18
 ---
-### Ancient Bronze Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Gargantuan"
 trait_04: "Amphibious"
 trait_05: "Dragon"
 trait_06: "Water"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __darkvision__, __imprecise scent 100__;"
@@ -63,6 +61,7 @@ ac: 43
 armorclass:
   - name: AC
     desc: "43; __Fort__: +32 (1d20+32); __Ref__: +30 (1d20+30); __Will__: +34 (1d20+34);"
+hp: 360
 health:
   - name: HP
     desc: "360;  __Immunities__ electricity, paralyzed, sleep;"
@@ -82,7 +81,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 120."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Bronze Dragon
 creatures:

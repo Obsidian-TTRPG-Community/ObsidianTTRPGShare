@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Black Scorpion"
+statblock: inline
 name: "Black Scorpion"
-hp: 275
-ac: 38
-modifier: 27
 level: 15
 ---
-### Black Scorpion
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 15"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; __darkvision__, __imprecise [[tremorsense]] 90__;"
@@ -46,6 +44,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +29 (1d20+29); __Ref__: +25 (1d20+25); __Will__: +25 (1d20+25);"
+hp: 275
 health:
   - name: HP
     desc: "275; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 234."
 ```
 
-### Encounter
 ```encounter-table
 name: Black Scorpion
 creatures:

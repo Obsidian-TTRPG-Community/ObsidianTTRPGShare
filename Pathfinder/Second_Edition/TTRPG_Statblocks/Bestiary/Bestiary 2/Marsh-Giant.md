@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Marsh Giant"
+statblock: inline
 name: "Marsh Giant"
-hp: 150
-ac: 27
-modifier: 16
 level: 8
 ---
-### Marsh Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_03: "Amphibious"
 trait_04: "Giant"
 trait_05: "Humanoid"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__;"
@@ -56,6 +54,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +13 (1d20+13); __Will__: +17 (1d20+17);"
+hp: 150
 health:
   - name: HP
     desc: "150; "
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 125."
 ```
 
-### Encounter
 ```encounter-table
 name: Marsh Giant
 creatures:

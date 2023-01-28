@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Spriggan Bully"
+statblock: inline
 name: "Spriggan Bully"
-hp: 48
-ac: 19
-modifier: 10
 level: 3
 ---
-### Spriggan Bully
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Gnome"
 trait_04: "Humanoid"
 trait_05: "Spriggan"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +11 (1d20+11); __Will__: +8 (1d20+8);"
+hp: 48
 health:
   - name: HP
     desc: "48; "
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 252."
 ```
 
-### Encounter
 ```encounter-table
 name: Spriggan Bully
 creatures:

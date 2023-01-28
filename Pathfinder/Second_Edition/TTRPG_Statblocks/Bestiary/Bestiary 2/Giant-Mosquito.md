@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Giant Mosquito"
+statblock: inline
 name: "Giant Mosquito"
-hp: 80
-ac: 24
-modifier: 17
 level: 6
 ---
-### Giant Mosquito
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__, __imprecise scent 60__;"
@@ -44,6 +42,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +14 (1d20+14); __Ref__: +17 (1d20+17); __Will__: +12 (1d20+12);"
+hp: 80
 health:
   - name: HP
     desc: "80; "
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 175."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Mosquito
 creatures:

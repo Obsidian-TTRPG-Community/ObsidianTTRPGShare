@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Zombie Shambler"
+statblock: inline
 name: "Zombie Shambler"
-hp: 20
-ac: 12
-modifier: 0
 level: -1
 ---
-### Zombie Shambler
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Mindless"
 trait_04: "Undead"
 trait_05: "Zombie"
+modifier: 0
 perception:
   - name: "Perception"
     desc: "Perception +0; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 12
 armorclass:
   - name: AC
     desc: "12; __Fort__: +6 (1d20+6); __Ref__: +0 (1d20+0); __Will__: +2 (1d20+2);"
+hp: 20
 health:
   - name: HP
     desc: "20; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ positive 5, slashing 5;"
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 340."
 ```
 
-### Encounter
 ```encounter-table
 name: Zombie Shambler
 creatures:

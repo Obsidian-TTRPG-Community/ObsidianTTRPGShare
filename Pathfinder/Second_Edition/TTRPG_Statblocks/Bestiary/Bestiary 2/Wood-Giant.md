@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Wood Giant"
+statblock: inline
 name: "Wood Giant"
-hp: 120
-ac: 24
-modifier: 15
 level: 6
 ---
-### Wood Giant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CG"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __low-light vision__;"
@@ -55,6 +53,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +17 (1d20+17); __Ref__: +14 (1d20+14); __Will__: +13 (1d20+13);"
+hp: 120
 health:
   - name: HP
     desc: "120; "
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 124."
 ```
 
-### Encounter
 ```encounter-table
 name: Wood Giant
 creatures:

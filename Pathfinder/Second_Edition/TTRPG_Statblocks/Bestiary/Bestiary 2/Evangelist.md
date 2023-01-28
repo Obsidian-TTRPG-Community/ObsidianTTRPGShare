@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Evangelist"
+statblock: inline
 name: "Evangelist"
-hp: 90
-ac: 24
-modifier: 13
 level: 6
 ---
-### Evangelist
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __greater darkvision__, __painsight__;"
@@ -56,6 +54,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +15 (1d20+15); __Ref__: +14 (1d20+14); __Will__: +11 (1d20+11);"
+hp: 90
 health:
   - name: HP
     desc: "90; [[regeneration]] 10 (deactivated by good or silver); __Immunities__ cold;"
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 282."
 ```
 
-### Encounter
 ```encounter-table
 name: Evangelist
 creatures:

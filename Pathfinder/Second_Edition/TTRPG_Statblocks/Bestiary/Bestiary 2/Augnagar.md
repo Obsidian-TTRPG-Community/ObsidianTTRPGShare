@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Augnagar"
+statblock: inline
 name: "Augnagar"
-hp: 225
-ac: 36
-modifier: 27
 level: 14
 ---
-### Augnagar
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Fiend"
 trait_05: "Qlippoth"
+modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; __greater darkvision__, __imprecise scent 30__, __true seeing__;"
@@ -49,6 +47,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +28 (1d20+28); __Ref__: +23 (1d20+23); __Will__: +25 (1d20+25);"
+hp: 225
 health:
   - name: HP
     desc: "225;  __Immunities__ controlled, fear; __Weaknesses__ lawful 15; __Resistances__ mental 15, physical 15 exept cold iron"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 216."
 ```
 
-### Encounter
 ```encounter-table
 name: Augnagar
 creatures:

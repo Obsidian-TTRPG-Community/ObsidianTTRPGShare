@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Verdurous Ooze"
+statblock: inline
 name: "Verdurous Ooze"
-hp: 157
-ac: 12
-modifier: 8
 level: 6
 ---
-### Verdurous Ooze
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __motion sense 60__, __no vision__;"
@@ -57,6 +55,7 @@ ac: 12
 armorclass:
   - name: AC
     desc: "12; __Fort__: +17 (1d20+17); __Ref__: +8 (1d20+8); __Will__: +10 (1d20+10);"
+hp: 157
 health:
   - name: HP
     desc: "157;  __Immunities__ acid, mental, piercing, precision, slashing, critical hits, unconscious, visual;"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 194."
 ```
 
-### Encounter
 ```encounter-table
 name: Verdurous Ooze
 creatures:

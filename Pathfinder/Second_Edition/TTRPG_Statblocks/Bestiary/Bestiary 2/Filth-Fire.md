@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Filth Fire"
+statblock: inline
 name: "Filth Fire"
-hp: 70
-ac: 21
-modifier: 11
 level: 4
 ---
-### Filth Fire
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__, __smoke vision__;"
@@ -47,6 +45,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +12 (1d20+12); __Ref__: +13 (1d20+13); __Will__: +9 (1d20+9);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Immunities__ bleed, fire, poison, paralyzed, sleep;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 110."
 ```
 
-### Encounter
 ```encounter-table
 name: Filth Fire
 creatures:

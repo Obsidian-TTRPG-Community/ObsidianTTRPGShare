@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Marilith"
+statblock: inline
 name: "Marilith"
-hp: 380
-ac: 40
-modifier: 30
 level: 17
 ---
-### Marilith
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __true seeing__;"
@@ -60,6 +58,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +31 (1d20+31); __Ref__: +29 (1d20+29); __Will__: +27 (1d20+27);"
+hp: 380
 health:
   - name: HP
     desc: "380;  __Weaknesses__ cold iron 15, good 15;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 81."
 ```
 
-### Encounter
 ```encounter-table
 name: Marilith
 creatures:

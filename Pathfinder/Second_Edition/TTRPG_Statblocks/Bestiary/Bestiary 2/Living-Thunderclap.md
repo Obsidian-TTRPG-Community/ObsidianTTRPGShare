@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Living Thunderclap"
+statblock: inline
 name: "Living Thunderclap"
-hp: 50
-ac: 22
-modifier: 9
 level: 4
 ---
-### Living Thunderclap
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +10 (1d20+10); __Ref__: +12 (1d20+12); __Will__: +9 (1d20+9);"
+hp: 50
 health:
   - name: HP
     desc: "50; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 106."
 ```
 
-### Encounter
 ```encounter-table
 name: Living Thunderclap
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Redcap"
+statblock: inline
 name: "Redcap"
-hp: 60
-ac: 21
-modifier: 12
 level: 5
 ---
-### Redcap
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Small"
 trait_03: "Fey"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -55,6 +53,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 60
 health:
   - name: HP
     desc: "60; fast healing 10; __Weaknesses__ cold iron 5, divine revulsion ;"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary_, page 278."
 ```
 
-### Encounter
 ```encounter-table
 name: Redcap
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Young Red Dragon"
+statblock: inline
 name: "Young Red Dragon"
-hp: 210
-ac: 30
-modifier: 20
 level: 10
 ---
-### Young Red Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __imprecise scent 60__, __smoke vision__;"
@@ -56,6 +54,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +21 (1d20+21); __Ref__: +18 (1d20+18); __Will__: +19 (1d20+19);"
+hp: 210
 health:
   - name: HP
     desc: "210;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Red Dragon
 creatures:

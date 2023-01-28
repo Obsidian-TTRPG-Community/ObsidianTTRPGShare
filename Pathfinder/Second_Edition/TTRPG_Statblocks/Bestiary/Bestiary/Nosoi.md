@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Nosoi"
+statblock: inline
 name: "Nosoi"
-hp: 18
-ac: 16
-modifier: 6
 level: 1
 ---
-### Nosoi
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Tiny"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __lifesense 60__;"
@@ -51,6 +49,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 18
 health:
   - name: HP
     desc: "18;  __Immunities__ death effects, disease;"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 270."
 ```
 
-### Encounter
 ```encounter-table
 name: Nosoi
 creatures:

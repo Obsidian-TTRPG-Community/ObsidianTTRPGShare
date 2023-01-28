@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Esobok"
+statblock: inline
 name: "Esobok"
-hp: 55
-ac: 18
-modifier: 12
 level: 3
 ---
-### Esobok
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __lifesense 60__, __imprecise scent 60__;"
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +11 (1d20+11); __Ref__: +8 (1d20+8); __Will__: +8 (1d20+8);"
+hp: 55
 health:
   - name: HP
     desc: "55;  __Immunities__ death effects, disease;"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 208."
 ```
 
-### Encounter
 ```encounter-table
 name: Esobok
 creatures:

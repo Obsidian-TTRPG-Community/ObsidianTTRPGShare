@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Umonlee"
+statblock: inline
 name: "Umonlee"
-hp: 320
-ac: 39
-modifier: 25
 level: 15
 ---
-### Umonlee
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Huge"
 trait_04: "Amphibious"
 trait_05: "Beast"
 trait_06: "Cold"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __imprecise [[tremorsense]] 80__;"
@@ -48,6 +46,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +28 (1d20+28); __Ref__: +26 (1d20+26); __Will__: +23 (1d20+23);"
+hp: 320
 health:
   - name: HP
     desc: "320;  __Immunities__ cold; __Weaknesses__ fire 15;"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 271."
 ```
 
-### Encounter
 ```encounter-table
 name: Umonlee
 creatures:

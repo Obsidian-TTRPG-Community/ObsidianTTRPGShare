@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Riding Pony"
+statblock: inline
 name: "Riding Pony"
-hp: 16
-ac: 14
-modifier: 4
 level: 0
 ---
-### Riding Pony
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +7 (1d20+7); __Ref__: +4 (1d20+4); __Will__: +4 (1d20+4);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary_, page 209."
 ```
 
-### Encounter
 ```encounter-table
 name: Riding Pony
 creatures:

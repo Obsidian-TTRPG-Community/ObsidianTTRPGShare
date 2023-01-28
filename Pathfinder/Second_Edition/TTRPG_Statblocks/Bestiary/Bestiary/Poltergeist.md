@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Poltergeist"
+statblock: inline
 name: "Poltergeist"
-hp: 55
-ac: 22
-modifier: 11
 level: 5
 ---
-### Poltergeist
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Medium"
 trait_03: "Incorporeal"
 trait_04: "Spirit"
 trait_05: "Undead"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -58,6 +56,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +14 (1d20+14); __Will__: +13 (1d20+13);"
+hp: 55
 health:
   - name: HP
     desc: "55; rejuvenation; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all damage 5 (except force, ghost touch, or positive; double resistance against non-magical)"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 264."
 ```
 
-### Encounter
 ```encounter-table
 name: Poltergeist
 creatures:

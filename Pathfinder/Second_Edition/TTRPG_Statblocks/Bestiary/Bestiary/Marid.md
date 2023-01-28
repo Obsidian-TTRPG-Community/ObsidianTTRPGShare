@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Marid"
+statblock: inline
 name: "Marid"
-hp: 145
-ac: 28
-modifier: 18
 level: 9
 ---
-### Marid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Elemental"
 trait_05: "Genie"
 trait_06: "Water"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__, __detect alignment__, __detect magic__, __imprecise wavesense 60__;"
@@ -56,6 +54,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +21 (1d20+21); __Will__: +17 (1d20+17);"
+hp: 145
 health:
   - name: HP
     desc: "145;  __Resistances__ fire 10"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 165."
 ```
 
-### Encounter
 ```encounter-table
 name: Marid
 creatures:

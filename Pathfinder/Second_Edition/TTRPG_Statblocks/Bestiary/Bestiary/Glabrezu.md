@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Glabrezu"
+statblock: inline
 name: "Glabrezu"
-hp: 280
-ac: 34
-modifier: 24
 level: 13
 ---
-### Glabrezu
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__, __true seeing__;"
@@ -55,6 +53,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +26 (1d20+26); __Ref__: +19 (1d20+19); __Will__: +24 (1d20+24);"
+hp: 280
 health:
   - name: HP
     desc: "280;  __Weaknesses__ cold iron 10, good 10;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 79."
 ```
 
-### Encounter
 ```encounter-table
 name: Glabrezu
 creatures:

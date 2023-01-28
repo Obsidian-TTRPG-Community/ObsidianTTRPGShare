@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Shield Archon"
+statblock: inline
 name: "Shield Archon"
-hp: 125
-ac: 31
-modifier: 19
 level: 10
 ---
-### Shield Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Large"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -58,6 +56,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31;  (33 with shield raised); __Fort__: +23 (1d20+23); __Ref__: +15 (1d20+15); __Will__: +19 (1d20+19);"
+hp: 125
 health:
   - name: HP
     desc: "125;  __Weaknesses__ evil 10;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 29."
 ```
 
-### Encounter
 ```encounter-table
 name: Shield Archon
 creatures:

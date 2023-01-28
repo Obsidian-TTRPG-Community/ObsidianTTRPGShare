@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Shemhazian"
+statblock: inline
 name: "Shemhazian"
-hp: 350
-ac: 39
-modifier: 30
 level: 16
 ---
-### Shemhazian
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -55,6 +53,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +32 (1d20+32); __Ref__: +26 (1d20+26); __Will__: +27 (1d20+27);"
+hp: 350
 health:
   - name: HP
     desc: "350;  __Weaknesses__ cold iron 15, good 15;"
@@ -76,7 +75,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 80."
 ```
 
-### Encounter
 ```encounter-table
 name: Shemhazian
 creatures:

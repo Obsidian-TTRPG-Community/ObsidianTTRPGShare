@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Spinosaurus"
+statblock: inline
 name: "Spinosaurus"
-hp: 200
-ac: 30
-modifier: 21
 level: 11
 ---
-### Spinosaurus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __low-light vision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +23 (1d20+23); __Ref__: +21 (1d20+21); __Will__: +19 (1d20+19);"
+hp: 200
 health:
   - name: HP
     desc: "200; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 83."
 ```
 
-### Encounter
 ```encounter-table
 name: Spinosaurus
 creatures:

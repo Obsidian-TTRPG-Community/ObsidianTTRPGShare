@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/23
 statblock: true
-statblock-link: "#Solar"
+statblock: inline
 name: "Solar"
-hp: 500
-ac: 49
-modifier: 40
 level: 23
 ---
-### Solar
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NG"
 size: "Large"
 trait_04: "Angel"
 trait_05: "Celestial"
+modifier: 40
 perception:
   - name: "Perception"
     desc: "Perception +40; __darkvision__, __true seeing__;"
@@ -57,6 +55,7 @@ ac: 49
 armorclass:
   - name: AC
     desc: "49; __Fort__: +40 (1d20+40); __Ref__: +34 (1d20+34); __Will__: +37 (1d20+37);"
+hp: 500
 health:
   - name: HP
     desc: "500; [[regeneration]] 20 (deactivated by evil); __Weaknesses__ evil 25;"
@@ -71,7 +70,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 16."
 ```
 
-### Encounter
 ```encounter-table
 name: Solar
 creatures:

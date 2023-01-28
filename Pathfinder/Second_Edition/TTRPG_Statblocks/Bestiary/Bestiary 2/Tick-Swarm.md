@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Tick Swarm"
+statblock: inline
 name: "Tick Swarm"
-hp: 130
-ac: 28
-modifier: 18
 level: 9
 ---
-### Tick Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +19 (1d20+19); __Ref__: +19 (1d20+19); __Will__: +14 (1d20+14);"
+hp: 130
 health:
   - name: HP
     desc: "130;  __Immunities__ precision, swarm; __Weaknesses__ area damage 10, splash ; __Resistances__ bludgeoning 5, piercing 10, slashing 10"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 260."
 ```
 
-### Encounter
 ```encounter-table
 name: Tick Swarm
 creatures:

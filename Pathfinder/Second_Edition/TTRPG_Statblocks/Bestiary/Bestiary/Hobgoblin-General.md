@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Hobgoblin General"
+statblock: inline
 name: "Hobgoblin General"
-hp: 90
-ac: 25
-modifier: 13
 level: 6
 ---
-### Hobgoblin General
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +12 (1d20+12); __Ref__: +15 (1d20+15); __Will__: +13 (1d20+13);"
+hp: 90
 health:
   - name: HP
     desc: "90; "
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 207."
 ```
 
-### Encounter
 ```encounter-table
 name: Hobgoblin General
 creatures:

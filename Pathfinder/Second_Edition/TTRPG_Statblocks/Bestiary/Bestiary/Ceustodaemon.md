@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Ceustodaemon"
+statblock: inline
 name: "Ceustodaemon"
-hp: 130
-ac: 23
-modifier: 14
 level: 6
 ---
-### Ceustodaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __see invisibility__;"
@@ -48,6 +46,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +12 (1d20+12);"
+hp: 130
 health:
   - name: HP
     desc: "130;  __Immunities__ death effects;"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 71."
 ```
 
-### Encounter
 ```encounter-table
 name: Ceustodaemon
 creatures:

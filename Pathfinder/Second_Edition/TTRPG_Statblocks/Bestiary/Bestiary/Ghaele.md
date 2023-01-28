@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Ghaele"
+statblock: inline
 name: "Ghaele"
-hp: 235
-ac: 34
-modifier: 25
 level: 13
 ---
-### Ghaele
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Medium"
 trait_03: "Azata"
 trait_04: "Celestial"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __see invisibility__;"
@@ -56,6 +54,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +26 (1d20+26); __Ref__: +20 (1d20+20); __Will__: +23 (1d20+23);"
+hp: 235
 health:
   - name: HP
     desc: "235;  __Weaknesses__ cold iron 15, evil 15; __Resistances__ energy 15"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 33."
 ```
 
-### Encounter
 ```encounter-table
 name: Ghaele
 creatures:

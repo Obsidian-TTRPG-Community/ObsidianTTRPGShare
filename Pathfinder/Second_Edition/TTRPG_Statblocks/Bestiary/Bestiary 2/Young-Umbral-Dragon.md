@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Young Umbral Dragon"
+statblock: inline
 name: "Young Umbral Dragon"
-hp: 195
-ac: 31
-modifier: 22
 level: 11
 ---
-### Young Umbral Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Large"
 trait_04: "Dragon"
 trait_05: "Shadow"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __greater darkvision__, __imprecise scent 60__;"
@@ -56,6 +54,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +22 (1d20+22); __Ref__: +20 (1d20+20); __Will__: +22 (1d20+22);"
+hp: 195
 health:
   - name: HP
     desc: "195;  __Immunities__ negative, paralyzed, sleep;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 96."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Umbral Dragon
 creatures:

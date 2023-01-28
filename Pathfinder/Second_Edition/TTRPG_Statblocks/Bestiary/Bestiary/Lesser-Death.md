@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Lesser Death"
+statblock: inline
 name: "Lesser Death"
-hp: 255
-ac: 39
-modifier: 32
 level: 16
 ---
-### Lesser Death
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "NE"
 size: "Medium"
 trait_04: "Undead"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __darkvision__, __see invisibility__, __status sight__, __true seeing__;"
@@ -58,6 +56,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +30 (1d20+30); __Ref__: +33 (1d20+33); __Will__: +32 (1d20+32);"
+hp: 255
 health:
   - name: HP
     desc: "255; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 197."
 ```
 
-### Encounter
 ```encounter-table
 name: Lesser Death
 creatures:

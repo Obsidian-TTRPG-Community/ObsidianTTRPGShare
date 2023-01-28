@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Worm That Walks Cultist"
+statblock: inline
 name: "Worm That Walks Cultist"
-hp: 200
-ac: 36
-modifier: 25
 level: 14
 ---
-### Worm That Walks Cultist
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Medium"
 trait_04: "Aberration"
 trait_05: "Swarm"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -50,6 +48,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; all-around vision; __Fort__: +23 (1d20+23); __Ref__: +28 (1d20+28); __Will__: +26 (1d20+26);"
+hp: 200
 health:
   - name: HP
     desc: "200; fast healing 10; __Immunities__ poison, precision, disease, paralyzed, swarm mind, unconscious; __Weaknesses__ area damage 10, splash damage 10; __Resistances__ physical 10"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 297."
 ```
 
-### Encounter
 ```encounter-table
 name: Worm That Walks Cultist
 creatures:

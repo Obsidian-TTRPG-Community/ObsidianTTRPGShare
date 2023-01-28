@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Mitflit"
+statblock: inline
 name: "Mitflit"
-hp: 10
-ac: 15
-modifier: 4
 level: -1
 ---
-### Mitflit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Fey"
 trait_04: "Gremlin"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__, __imprecise scent 30__;"
@@ -51,6 +49,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +2 (1d20+2); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 10
 health:
   - name: HP
     desc: "10; "
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 192."
 ```
 
-### Encounter
 ```encounter-table
 name: Mitflit
 creatures:

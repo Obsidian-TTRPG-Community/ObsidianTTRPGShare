@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Wasp Swarm"
+statblock: inline
 name: "Wasp Swarm"
-hp: 45
-ac: 18
-modifier: 10
 level: 4
 ---
-### Wasp Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +10 (1d20+10); __Ref__: +12 (1d20+12); __Will__: +8 (1d20+8);"
+hp: 45
 health:
   - name: HP
     desc: "45;  __Immunities__ precision, swarm mind; __Weaknesses__ area damage 5, splash damage 5;"
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary_, page 324."
 ```
 
-### Encounter
 ```encounter-table
 name: Wasp Swarm
 creatures:

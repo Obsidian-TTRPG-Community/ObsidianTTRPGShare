@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Horned Archon"
+statblock: inline
 name: "Horned Archon"
-hp: 65
-ac: 22
-modifier: 11
 level: 4
 ---
-### Horned Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Medium"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +11 (1d20+11); __Ref__: +10 (1d20+10); __Will__: +11 (1d20+11);"
+hp: 65
 health:
   - name: HP
     desc: "65;  __Weaknesses__ evil 5;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 27."
 ```
 
-### Encounter
 ```encounter-table
 name: Horned Archon
 creatures:

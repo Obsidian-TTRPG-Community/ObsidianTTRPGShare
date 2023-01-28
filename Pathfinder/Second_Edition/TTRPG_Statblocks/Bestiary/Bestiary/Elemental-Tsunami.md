@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Elemental Tsunami"
+statblock: inline
 name: "Elemental Tsunami"
-hp: 195
-ac: 31
-modifier: 22
 level: 11
 ---
-### Elemental Tsunami
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Huge"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +21 (1d20+21); __Ref__: +22 (1d20+22); __Will__: +19 (1d20+19);"
+hp: 195
 health:
   - name: HP
     desc: "195;  __Immunities__ bleed, poison, paralyzed, sleep; __Resistances__ fire 10"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 153."
 ```
 
-### Encounter
 ```encounter-table
 name: Elemental Tsunami
 creatures:

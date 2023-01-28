@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Trollhound"
+statblock: inline
 name: "Trollhound"
-hp: 65
-ac: 17
-modifier: 6
 level: 3
 ---
-### Trollhound
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Beast"
 trait_04: "Troll"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +14 (1d20+14); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 65
 health:
   - name: HP
     desc: "65; [[regeneration]] 15 (deactivated by acid or fire);"
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 268."
 ```
 
-### Encounter
 ```encounter-table
 name: Trollhound
 creatures:

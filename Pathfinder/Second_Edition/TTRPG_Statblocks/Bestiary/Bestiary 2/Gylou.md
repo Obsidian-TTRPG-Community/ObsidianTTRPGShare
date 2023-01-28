@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Gylou"
+statblock: inline
 name: "Gylou"
-hp: 240
-ac: 36
-modifier: 28
 level: 14
 ---
-### Gylou
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __greater darkvision__, __true seeing__;"
@@ -48,6 +46,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +22 (1d20+22); __Ref__: +25 (1d20+25); __Will__: +28 (1d20+28);"
+hp: 240
 health:
   - name: HP
     desc: "240;  __Immunities__ fire; __Weaknesses__ good 10; __Resistances__ physical 10 (except silver)"
@@ -65,7 +64,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 76."
 ```
 
-### Encounter
 ```encounter-table
 name: Gylou
 creatures:

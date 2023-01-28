@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Kelpie"
+statblock: inline
 name: "Kelpie"
-hp: 60
-ac: 21
-modifier: 11
 level: 4
 ---
-### Kelpie
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Amphibious"
 trait_04: "Fey"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __low-light vision__;"
@@ -46,6 +44,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Weaknesses__ cold iron 5;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 154."
 ```
 
-### Encounter
 ```encounter-table
 name: Kelpie
 creatures:

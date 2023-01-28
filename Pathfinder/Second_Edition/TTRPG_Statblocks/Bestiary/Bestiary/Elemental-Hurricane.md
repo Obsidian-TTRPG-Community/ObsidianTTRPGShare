@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
 statblock: true
-statblock-link: "#Elemental Hurricane"
+statblock: inline
 name: "Elemental Hurricane"
-hp: 140
-ac: 32
-modifier: 20
 level: 11
 ---
-### Elemental Hurricane
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +19 (1d20+19); __Ref__: +24 (1d20+24); __Will__: +18 (1d20+18);"
+hp: 140
 health:
   - name: HP
     desc: "140;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 145."
 ```
 
-### Encounter
 ```encounter-table
 name: Elemental Hurricane
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Boggard Swampseer"
+statblock: inline
 name: "Boggard Swampseer"
-hp: 40
-ac: 18
-modifier: 11
 level: 3
 ---
-### Boggard Swampseer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Boggard"
 trait_05: "Humanoid"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -62,6 +60,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +7 (1d20+7); __Will__: +11 (1d20+11);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 45."
 ```
 
-### Encounter
 ```encounter-table
 name: Boggard Swampseer
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Gnoll Hunter"
+statblock: inline
 name: "Gnoll Hunter"
-hp: 29
-ac: 18
-modifier: 7
 level: 2
 ---
-### Gnoll Hunter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Gnoll"
 trait_04: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
+hp: 29
 health:
   - name: HP
     desc: "29; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 178."
 ```
 
-### Encounter
 ```encounter-table
 name: Gnoll Hunter
 creatures:

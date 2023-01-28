@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Norn"
+statblock: inline
 name: "Norn"
-hp: 375
-ac: 46
-modifier: 41
 level: 20
 ---
-### Norn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "LN"
 size: "Large"
 trait_04: "Fey"
+modifier: 41
 perception:
   - name: "Perception"
     desc: "Perception +41; __detect magic__, __greater darkvision__, __lifesense 120__, __true seeing__;"
@@ -55,6 +53,7 @@ ac: 46
 armorclass:
   - name: AC
     desc: "46; __Fort__: +34 (1d20+34); __Ref__: +30 (1d20+30); __Will__: +38 (1d20+38);"
+hp: 375
 health:
   - name: HP
     desc: "375; [[regeneration]] 20 (deactivated by cold iron); __Immunities__ flat-footed, negative;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 184."
 ```
 
-### Encounter
 ```encounter-table
 name: Norn
 creatures:

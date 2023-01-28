@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Adult Green Dragon"
+statblock: inline
 name: "Adult Green Dragon"
-hp: 215
-ac: 34
-modifier: 22
 level: 12
 ---
-### Adult Green Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Huge"
 trait_03: "Amphibious"
 trait_04: "Dragon"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __imprecise scent 60__;"
@@ -57,6 +55,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +20 (1d20+20); __Ref__: +22 (1d20+22); __Will__: +23 (1d20+23);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ poison, paralyzed, sleep;"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 110."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Green Dragon
 creatures:

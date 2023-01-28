@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Spirit Naga"
+statblock: inline
 name: "Spirit Naga"
-hp: 160
-ac: 28
-modifier: 18
 level: 9
 ---
-### Spirit Naga
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "NE"
 size: "Large"
 trait_04: "Aberration"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +15 (1d20+15); __Ref__: +20 (1d20+20); __Will__: +18 (1d20+18);"
+hp: 160
 health:
   - name: HP
     desc: "160; "
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 179."
 ```
 
-### Encounter
 ```encounter-table
 name: Spirit Naga
 creatures:

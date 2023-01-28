@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Steam Mephit"
+statblock: inline
 name: "Steam Mephit"
-hp: 19
-ac: 16
-modifier: 3
 level: 1
 ---
-### Steam Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Small"
 trait_04: "Elemental"
 trait_05: "Fire"
 trait_06: "Water"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__, __steam vision__;"
@@ -53,6 +51,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +9 (1d20+9); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 19
 health:
   - name: HP
     desc: "19; fast healing 2 (in boiling water or steam); __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 3;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 113."
 ```
 
-### Encounter
 ```encounter-table
 name: Steam Mephit
 creatures:

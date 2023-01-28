@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Ancient Silver Dragon"
+statblock: inline
 name: "Ancient Silver Dragon"
-hp: 410
-ac: 45
-modifier: 32
 level: 19
 ---
-### Ancient Silver Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LG"
 size: "Gargantuan"
 trait_04: "Cold"
 trait_05: "Dragon"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __darkvision__, __fog vision__, __imprecise scent 60__;"
@@ -61,6 +59,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +34 (1d20+34); __Ref__: +31 (1d20+31); __Will__: +34 (1d20+34);"
+hp: 410
 health:
   - name: HP
     desc: "410;  __Immunities__ cold, paralyzed, sleep; __Weaknesses__ fire 15;"
@@ -80,7 +79,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 127."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Silver Dragon
 creatures:

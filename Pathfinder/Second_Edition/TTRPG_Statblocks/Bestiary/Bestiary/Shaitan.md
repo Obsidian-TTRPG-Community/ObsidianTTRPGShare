@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Shaitan"
+statblock: inline
 name: "Shaitan"
-hp: 110
-ac: 25
-modifier: 15
 level: 7
 ---
-### Shaitan
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Earth"
 trait_05: "Elemental"
 trait_06: "Genie"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __detect magic__, __imprecise [[tremorsense]] 60__;"
@@ -51,6 +49,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +18 (1d20+18); __Ref__: +12 (1d20+12); __Will__: +15 (1d20+15);"
+hp: 110
 health:
   - name: HP
     desc: "110; "
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 164."
 ```
 
-### Encounter
 ```encounter-table
 name: Shaitan
 creatures:

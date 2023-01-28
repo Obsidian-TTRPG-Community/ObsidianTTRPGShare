@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Hyena"
+statblock: inline
 name: "Hyena"
-hp: 20
-ac: 16
-modifier: 6
 level: 1
 ---
-### Hyena
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary_, page 211."
 ```
 
-### Encounter
 ```encounter-table
 name: Hyena
 creatures:

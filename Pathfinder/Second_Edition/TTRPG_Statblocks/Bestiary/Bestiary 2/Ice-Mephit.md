@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Ice Mephit"
+statblock: inline
 name: "Ice Mephit"
-hp: 18
-ac: 17
-modifier: 3
 level: 1
 ---
-### Ice Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Small"
 trait_04: "Air"
 trait_05: "Elemental"
 trait_06: "Water"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +3 (1d20+3);"
+hp: 18
 health:
   - name: HP
     desc: "18; fast healing 2 (while touching ice or snow); __Immunities__ bleed, cold, poison, paralyzed, sleep; __Weaknesses__ fire 3;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Ice Mephit
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Sand Sentry"
+statblock: inline
 name: "Sand Sentry"
-hp: 94
-ac: 24
-modifier: 14
 level: 6
 ---
-### Sand Sentry
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -49,6 +47,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 94
 health:
   - name: HP
     desc: "94;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 109."
 ```
 
-### Encounter
 ```encounter-table
 name: Sand Sentry
 creatures:

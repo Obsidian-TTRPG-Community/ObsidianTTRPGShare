@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Skulltaker"
+statblock: inline
 name: "Skulltaker"
-hp: 300
-ac: 42
-modifier: 33
 level: 18
 ---
-### Skulltaker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "NE"
 size: "Huge"
 trait_04: "Undead"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __true seeing__;"
@@ -54,6 +52,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +31 (1d20+31); __Ref__: +33 (1d20+33); __Will__: +35 (1d20+35);"
+hp: 300
 health:
   - name: HP
     desc: "300;  __Immunities__ cold, poison, death effects, disease, paralyzed, unconscious; __Resistances__ piercing 15, slashing 15"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 300."
 ```
 
-### Encounter
 ```encounter-table
 name: Skulltaker
 creatures:

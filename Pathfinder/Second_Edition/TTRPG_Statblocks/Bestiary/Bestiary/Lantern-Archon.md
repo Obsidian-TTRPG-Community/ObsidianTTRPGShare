@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Lantern Archon"
+statblock: inline
 name: "Lantern Archon"
-hp: 20
-ac: 16
-modifier: 6
 level: 1
 ---
-### Lantern Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Small"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20;  __Weaknesses__ evil 3; __Resistances__ fire 3"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 26."
 ```
 
-### Encounter
 ```encounter-table
 name: Lantern Archon
 creatures:

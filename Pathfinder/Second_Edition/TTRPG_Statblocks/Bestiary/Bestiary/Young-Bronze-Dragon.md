@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Young Bronze Dragon"
+statblock: inline
 name: "Young Bronze Dragon"
-hp: 170
-ac: 28
-modifier: 18
 level: 9
 ---
-### Young Bronze Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Amphibious"
 trait_04: "Dragon"
 trait_05: "Water"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__, __imprecise scent 60__;"
@@ -56,6 +54,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +19 (1d20+19); __Ref__: +17 (1d20+17); __Will__: +19 (1d20+19);"
+hp: 170
 health:
   - name: HP
     desc: "170;  __Immunities__ electricity, paralyzed, sleep;"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 119."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Bronze Dragon
 creatures:

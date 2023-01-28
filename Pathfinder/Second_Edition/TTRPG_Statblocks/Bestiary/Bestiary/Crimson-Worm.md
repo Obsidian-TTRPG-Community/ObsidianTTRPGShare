@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Crimson Worm"
+statblock: inline
 name: "Crimson Worm"
-hp: 410
-ac: 40
-modifier: 25
 level: 18
 ---
-### Crimson Worm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_04: "Beast"
 trait_05: "Fire"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __darkvision__, __imprecise [[tremorsense]] 100__;"
@@ -61,6 +59,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +36 (1d20+36); __Ref__: +25 (1d20+25); __Will__: +27 (1d20+27);"
+hp: 410
 health:
   - name: HP
     desc: "410;  __Immunities__ fire; __Weaknesses__ cold 15;"
@@ -77,7 +76,6 @@ attacks:
 sourcebook: "_Bestiary_, page 59."
 ```
 
-### Encounter
 ```encounter-table
 name: Crimson Worm
 creatures:

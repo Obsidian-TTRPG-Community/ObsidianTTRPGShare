@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Drow Rogue"
+statblock: inline
 name: "Drow Rogue"
-hp: 26
-ac: 19
-modifier: 6
 level: 2
 ---
-### Drow Rogue
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Drow"
 trait_04: "Elf"
 trait_05: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +6 (1d20+6); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 26
 health:
   - name: HP
     desc: "26;  __Immunities__ sleep;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 137."
 ```
 
-### Encounter
 ```encounter-table
 name: Drow Rogue
 creatures:

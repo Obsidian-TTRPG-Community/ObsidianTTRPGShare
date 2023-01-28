@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Vampire Squid"
+statblock: inline
 name: "Vampire Squid"
-hp: 15
-ac: 16
-modifier: 7
 level: 0
 ---
-### Vampire Squid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -43,6 +41,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 254."
 ```
 
-### Encounter
 ```encounter-table
 name: Vampire Squid
 creatures:

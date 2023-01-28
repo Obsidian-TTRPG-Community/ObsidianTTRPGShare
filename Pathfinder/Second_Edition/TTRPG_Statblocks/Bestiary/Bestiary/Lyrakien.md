@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Lyrakien"
+statblock: inline
 name: "Lyrakien"
-hp: 25
-ac: 17
-modifier: 8
 level: 1
 ---
-### Lyrakien
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Tiny"
 trait_03: "Azata"
 trait_04: "Celestial"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 25
 health:
   - name: HP
     desc: "25; "
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 30."
 ```
 
-### Encounter
 ```encounter-table
 name: Lyrakien
 creatures:

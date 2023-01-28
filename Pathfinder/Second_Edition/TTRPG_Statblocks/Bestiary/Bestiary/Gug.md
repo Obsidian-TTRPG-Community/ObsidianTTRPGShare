@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Gug"
+statblock: inline
 name: "Gug"
-hp: 175
-ac: 30
-modifier: 19
 level: 10
 ---
-### Gug
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +22 (1d20+22); __Ref__: +17 (1d20+17); __Will__: +19 (1d20+19);"
+hp: 175
 health:
   - name: HP
     desc: "175; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 198."
 ```
 
-### Encounter
 ```encounter-table
 name: Gug
 creatures:

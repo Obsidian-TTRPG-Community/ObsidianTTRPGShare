@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Vampiric Mist"
+statblock: inline
 name: "Vampiric Mist"
-hp: 35
-ac: 18
-modifier: 9
 level: 3
 ---
-### Vampiric Mist
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "NE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __imprecise sense blood 60__;"
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +12 (1d20+12); __Will__: +9 (1d20+9);"
+hp: 35
 health:
   - name: HP
     desc: "35;  __Immunities__ precision; __Weaknesses__ fire 5;"
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 278."
 ```
 
-### Encounter
 ```encounter-table
 name: Vampiric Mist
 creatures:

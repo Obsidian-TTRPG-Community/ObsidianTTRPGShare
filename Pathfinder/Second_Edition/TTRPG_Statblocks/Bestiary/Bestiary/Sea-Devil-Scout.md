@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Sea Devil Scout"
+statblock: inline
 name: "Sea Devil Scout"
-hp: 30
-ac: 18
-modifier: 9
 level: 2
 ---
-### Sea Devil Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Devil"
 trait_05: "Humanoid"
 trait_06: "Sea"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__, __wavesense 30__;"
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary_, page 286."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Devil Scout
 creatures:

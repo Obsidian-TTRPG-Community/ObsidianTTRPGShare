@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Wraith"
+statblock: inline
 name: "Wraith"
-hp: 80
-ac: 24
-modifier: 14
 level: 6
 ---
-### Wraith
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Incorporeal"
 trait_04: "Undead"
 trait_05: "Wraith"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __lifesense 60__;"
@@ -55,6 +53,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +8 (1d20+8); __Ref__: +14 (1d20+14); __Will__: +14 (1d20+14);"
+hp: 80
 health:
   - name: HP
     desc: "80; negative healing; __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Resistances__ all 5 (except force, ghost touch, or positive; double resistance vs. non-magical)"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 335."
 ```
 
-### Encounter
 ```encounter-table
 name: Wraith
 creatures:

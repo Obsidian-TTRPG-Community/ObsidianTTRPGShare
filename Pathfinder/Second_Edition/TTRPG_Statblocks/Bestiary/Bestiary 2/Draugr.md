@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Draugr"
+statblock: inline
 name: "Draugr"
-hp: 35
-ac: 17
-modifier: 7
 level: 2
 ---
-### Draugr
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Undead"
 trait_04: "Water"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +11 (1d20+11); __Ref__: +6 (1d20+6); __Will__: +7 (1d20+7);"
+hp: 35
 health:
   - name: HP
     desc: "35;  __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ positive 5; __Resistances__ fire 3"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 102."
 ```
 
-### Encounter
 ```encounter-table
 name: Draugr
 creatures:

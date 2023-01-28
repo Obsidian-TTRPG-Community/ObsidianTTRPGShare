@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Snapping Turtle"
+statblock: inline
 name: "Snapping Turtle"
-hp: 9
-ac: 16
-modifier: 3
 level: -1
 ---
-### Snapping Turtle
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature -1"
 alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __low-light vision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +8 (1d20+8); __Ref__: +1 (1d20+1); __Will__: +3 (1d20+3);"
+hp: 9
 health:
   - name: HP
     desc: "9; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 269."
 ```
 
-### Encounter
 ```encounter-table
 name: Snapping Turtle
 creatures:

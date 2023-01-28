@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Leopard"
+statblock: inline
 name: "Leopard"
-hp: 30
-ac: 18
-modifier: 7
 level: 2
 ---
-### Leopard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +5 (1d20+5);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary_, page 52."
 ```
 
-### Encounter
 ```encounter-table
 name: Leopard
 creatures:

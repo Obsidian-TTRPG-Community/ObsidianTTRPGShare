@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Stingray"
+statblock: inline
 name: "Stingray"
-hp: 15
-ac: 16
-modifier: 6
 level: 0
 ---
-### Stingray
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __imprecise electrolocation 30__, __low-light vision__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 226."
 ```
 
-### Encounter
 ```encounter-table
 name: Stingray
 creatures:

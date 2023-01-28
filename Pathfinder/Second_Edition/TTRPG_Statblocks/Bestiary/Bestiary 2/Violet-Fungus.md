@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Violet Fungus"
+statblock: inline
 name: "Violet Fungus"
-hp: 60
-ac: 17
-modifier: 8
 level: 3
 ---
-### Violet Fungus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Fungus"
 trait_04: "Mindless"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __no vision__, __[[tremorsense]] 60__;"
@@ -43,6 +41,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +10 (1d20+10); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ bleed, mental, poison, fatigued, sleep, unconscious;"
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 286."
 ```
 
-### Encounter
 ```encounter-table
 name: Violet Fungus
 creatures:

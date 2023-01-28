@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Ogre Glutton"
+statblock: inline
 name: "Ogre Glutton"
-hp: 70
-ac: 18
-modifier: 6
 level: 4
 ---
-### Ogre Glutton
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +14 (1d20+14); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 70
 health:
   - name: HP
     desc: "70; "
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 253."
 ```
 
-### Encounter
 ```encounter-table
 name: Ogre Glutton
 creatures:

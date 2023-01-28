@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Grimstalker"
+statblock: inline
 name: "Grimstalker"
-hp: 60
-ac: 22
-modifier: 12
 level: 5
 ---
-### Grimstalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Medium"
 trait_03: "Fey"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -48,6 +46,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +15 (1d20+15); __Will__: +12 (1d20+12);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 137."
 ```
 
-### Encounter
 ```encounter-table
 name: Grimstalker
 creatures:

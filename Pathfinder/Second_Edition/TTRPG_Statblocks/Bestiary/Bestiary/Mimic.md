@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Mimic"
+statblock: inline
 name: "Mimic"
-hp: 75
-ac: 20
-modifier: 9
 level: 4
 ---
-### Mimic
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +11 (1d20+11); __Ref__: +9 (1d20+9); __Will__: +9 (1d20+9);"
+hp: 75
 health:
   - name: HP
     desc: "75; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary_, page 236."
 ```
 
-### Encounter
 ```encounter-table
 name: Mimic
 creatures:

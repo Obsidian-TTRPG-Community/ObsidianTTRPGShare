@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Zyss Serpentfolk"
+statblock: inline
 name: "Zyss Serpentfolk"
-hp: 25
-ac: 18
-modifier: 8
 level: 2
 ---
-### Zyss Serpentfolk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Humanoid"
 trait_05: "Serpentfolk"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise scent 30__;"
@@ -48,6 +46,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +6 (1d20+6); __Ref__: +8 (1d20+8); __Will__: +8 (1d20+8);"
+hp: 25
 health:
   - name: HP
     desc: "25; "
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 237."
 ```
 
-### Encounter
 ```encounter-table
 name: Zyss Serpentfolk
 creatures:

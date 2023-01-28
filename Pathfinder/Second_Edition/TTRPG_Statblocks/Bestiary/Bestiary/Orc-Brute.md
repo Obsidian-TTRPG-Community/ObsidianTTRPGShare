@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Orc Brute"
+statblock: inline
 name: "Orc Brute"
-hp: 15
-ac: 15
-modifier: 5
 level: 0
 ---
-### Orc Brute
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Orc"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +6 (1d20+6); __Ref__: +4 (1d20+4); __Will__: +2 (1d20+2);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 256."
 ```
 
-### Encounter
 ```encounter-table
 name: Orc Brute
 creatures:

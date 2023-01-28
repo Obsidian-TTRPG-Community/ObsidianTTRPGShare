@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Kobold Dragon Mage"
+statblock: inline
 name: "Kobold Dragon Mage"
-hp: 25
-ac: 17
-modifier: 5
 level: 2
 ---
-### Kobold Dragon Mage
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Small"
 trait_03: "Humanoid"
 trait_04: "Kobold"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
+hp: 25
 health:
   - name: HP
     desc: "25;  __Resistances__ poison 5 (see dragonscaled)"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 213."
 ```
 
-### Encounter
 ```encounter-table
 name: Kobold Dragon Mage
 creatures:

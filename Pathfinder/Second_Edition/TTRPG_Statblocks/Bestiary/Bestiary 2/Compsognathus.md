@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Compsognathus"
+statblock: inline
 name: "Compsognathus"
-hp: 8
-ac: 15
-modifier: 5
 level: -1
 ---
-### Compsognathus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Tiny"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -43,6 +41,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 8
 health:
   - name: HP
     desc: "8; "
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 80."
 ```
 
-### Encounter
 ```encounter-table
 name: Compsognathus
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Terotricus"
+statblock: inline
 name: "Terotricus"
-hp: 370
-ac: 42
-modifier: 31
 level: 19
 ---
-### Terotricus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "CE"
 size: "Gargantuan"
 trait_04: "Fungus"
+modifier: 31
 perception:
   - name: "Perception"
     desc: "Perception +31; __darkvision__, __imprecise [[tremorsense]] 120__;"
@@ -51,6 +49,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +34 (1d20+34); __Ref__: +28 (1d20+28); __Will__: +33 (1d20+33);"
+hp: 370
 health:
   - name: HP
     desc: "370; [[regeneration]] 25 (deactivated by cold); __Immunities__ controlled, disease, paralyzed, sleep; __Weaknesses__ cold 15, cold iron 15, good 15, slashing 10; __Resistances__ fire 15"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 311."
 ```
 
-### Encounter
 ```encounter-table
 name: Terotricus
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Interlocutor"
+statblock: inline
 name: "Interlocutor"
-hp: 215
-ac: 33
-modifier: 24
 level: 12
 ---
-### Interlocutor
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Fiend"
 trait_04: "Velstrac"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __greater darkvision__, __painsight__;"
@@ -54,6 +52,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +23 (1d20+23); __Ref__: +21 (1d20+21); __Will__: +26 (1d20+26);"
+hp: 215
 health:
   - name: HP
     desc: "215; [[regeneration]] 20 (deactivated by good or silver); __Immunities__ cold;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 284."
 ```
 
-### Encounter
 ```encounter-table
 name: Interlocutor
 creatures:

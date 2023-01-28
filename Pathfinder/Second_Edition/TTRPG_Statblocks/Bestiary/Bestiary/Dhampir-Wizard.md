@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Dhampir Wizard"
+statblock: inline
 name: "Dhampir Wizard"
-hp: 22
-ac: 17
-modifier: 4
 level: 2
 ---
-### Dhampir Wizard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Dhampir"
 trait_04: "Human"
 trait_05: "Humanoid"
+modifier: 4
 perception:
   - name: "Perception"
     desc: "Perception +4; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +4 (1d20+4); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 22
 health:
   - name: HP
     desc: "22; negative healing;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 95."
 ```
 
-### Encounter
 ```encounter-table
 name: Dhampir Wizard
 creatures:

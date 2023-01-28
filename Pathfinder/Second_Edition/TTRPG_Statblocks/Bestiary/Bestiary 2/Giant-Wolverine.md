@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Giant Wolverine"
+statblock: inline
 name: "Giant Wolverine"
-hp: 65
-ac: 21
-modifier: 9
 level: 4
 ---
-### Giant Wolverine
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __low-light vision__, __imprecise scent 30__;"
@@ -48,6 +46,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 65
 health:
   - name: HP
     desc: "65; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 295."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Wolverine
 creatures:

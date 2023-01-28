@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Adult White Dragon"
+statblock: inline
 name: "Adult White Dragon"
-hp: 215
-ac: 29
-modifier: 20
 level: 10
 ---
-### Adult White Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Cold"
 trait_04: "Dragon"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __imprecise scent 60__, __snow vision__;"
@@ -64,6 +62,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +22 (1d20+22); __Ref__: +19 (1d20+19); __Will__: +17 (1d20+17);"
+hp: 215
 health:
   - name: HP
     desc: "215;  __Immunities__ cold, paralyzed, sleep; __Weaknesses__ fire 10;"
@@ -83,7 +82,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 114."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult White Dragon
 creatures:

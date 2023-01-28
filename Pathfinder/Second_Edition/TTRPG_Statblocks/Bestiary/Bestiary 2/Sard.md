@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Sard"
+statblock: inline
 name: "Sard"
-hp: 400
-ac: 43
-modifier: 35
 level: 19
 ---
-### Sard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Gargantuan"
 trait_04: "Electricity"
 trait_05: "Plant"
 trait_06: "Tane"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __low-light vision__, __[[tremorsense]] 120__;"
@@ -58,6 +56,7 @@ ac: 43
 armorclass:
   - name: AC
     desc: "43; __Fort__: +35 (1d20+35); __Ref__: +31 (1d20+31); __Will__: +33 (1d20+33);"
+hp: 400
 health:
   - name: HP
     desc: "400; fast healing 15; __Weaknesses__ cold iron 15; __Resistances__ fire 15, physical 15"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 231."
 ```
 
-### Encounter
 ```encounter-table
 name: Sard
 creatures:

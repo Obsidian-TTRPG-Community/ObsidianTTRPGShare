@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Tiger"
+statblock: inline
 name: "Tiger"
-hp: 60
-ac: 21
-modifier: 12
 level: 4
 ---
-### Tiger
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +8 (1d20+8);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary_, page 53."
 ```
 
-### Encounter
 ```encounter-table
 name: Tiger
 creatures:

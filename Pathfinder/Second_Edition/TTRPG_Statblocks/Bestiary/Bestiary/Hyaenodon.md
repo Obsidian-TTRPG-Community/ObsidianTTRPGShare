@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Hyaenodon"
+statblock: inline
 name: "Hyaenodon"
-hp: 45
-ac: 19
-modifier: 9
 level: 3
 ---
-### Hyaenodon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +10 (1d20+10); __Ref__: +8 (1d20+8); __Will__: +7 (1d20+7);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 211."
 ```
 
-### Encounter
 ```encounter-table
 name: Hyaenodon
 creatures:

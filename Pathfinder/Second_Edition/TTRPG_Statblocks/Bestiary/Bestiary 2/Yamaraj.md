@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Yamaraj"
+statblock: inline
 name: "Yamaraj"
-hp: 375
-ac: 45
-modifier: 37
 level: 20
 ---
-### Yamaraj
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Huge"
 trait_04: "Monitor"
 trait_05: "Psychopomp"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __lifesense 240__, __true seeing__;"
@@ -56,6 +54,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +33 (1d20+33); __Ref__: +31 (1d20+31); __Will__: +35 (1d20+35);"
+hp: 375
 health:
   - name: HP
     desc: "375; fast healing 20, lightning drinker; __Immunities__ electricity, death effects, disease; __Resistances__ negative 20, poison 20"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 211."
 ```
 
-### Encounter
 ```encounter-table
 name: Yamaraj
 creatures:

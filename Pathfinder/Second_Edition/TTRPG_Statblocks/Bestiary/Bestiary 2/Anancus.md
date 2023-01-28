@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Anancus"
+statblock: inline
 name: "Anancus"
-hp: 170
-ac: 25
-modifier: 16
 level: 8
 ---
-### Anancus
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +19 (1d20+19); __Ref__: +14 (1d20+14); __Will__: +16 (1d20+16);"
+hp: 170
 health:
   - name: HP
     desc: "170; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 116."
 ```
 
-### Encounter
 ```encounter-table
 name: Anancus
 creatures:

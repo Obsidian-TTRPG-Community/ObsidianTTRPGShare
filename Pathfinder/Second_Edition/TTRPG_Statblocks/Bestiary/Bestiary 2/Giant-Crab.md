@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Crab"
+statblock: inline
 name: "Giant Crab"
-hp: 24
-ac: 19
-modifier: 8
 level: 2
 ---
-### Giant Crab
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +7 (1d20+7); __Ref__: +9 (1d20+9); __Will__: +8 (1d20+8);"
+hp: 24
 health:
   - name: HP
     desc: "24;  __Resistances__ physical 3 (except bludgeoning)"
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 55."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Crab
 creatures:

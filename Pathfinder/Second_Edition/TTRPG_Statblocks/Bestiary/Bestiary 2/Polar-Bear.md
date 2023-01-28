@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Polar Bear"
+statblock: inline
 name: "Polar Bear"
-hp: 73
-ac: 22
-modifier: 12
 level: 5
 ---
-### Polar Bear
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__, __imprecise scent 60__;"
@@ -44,6 +42,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +14 (1d20+14); __Ref__: +10 (1d20+10); __Will__: +10 (1d20+10);"
+hp: 73
 health:
   - name: HP
     desc: "73; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 36."
 ```
 
-### Encounter
 ```encounter-table
 name: Polar Bear
 creatures:

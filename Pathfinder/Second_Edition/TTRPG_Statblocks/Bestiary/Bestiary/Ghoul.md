@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Ghoul"
+statblock: inline
 name: "Ghoul"
-hp: 20
-ac: 16
-modifier: 7
 level: 1
 ---
-### Ghoul
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Ghoul"
 trait_04: "Undead"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +4 (1d20+4); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 20
 health:
   - name: HP
     desc: "20; negative healing;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 169."
 ```
 
-### Encounter
 ```encounter-table
 name: Ghoul
 creatures:

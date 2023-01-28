@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Thanadaemon"
+statblock: inline
 name: "Thanadaemon"
-hp: 270
-ac: 34
-modifier: 26
 level: 13
 ---
-### Thanadaemon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Daemon"
 trait_04: "Fiend"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __true seeing__;"
@@ -54,6 +52,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +21 (1d20+21); __Ref__: +23 (1d20+23); __Will__: +26 (1d20+26);"
+hp: 270
 health:
   - name: HP
     desc: "270;  __Immunities__ death effects; __Weaknesses__ good 10;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 61."
 ```
 
-### Encounter
 ```encounter-table
 name: Thanadaemon
 creatures:

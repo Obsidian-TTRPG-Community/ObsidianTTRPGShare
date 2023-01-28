@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Ancient Red Dragon"
+statblock: inline
 name: "Ancient Red Dragon"
-hp: 425
-ac: 45
-modifier: 35
 level: 19
 ---
-### Ancient Red Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Dragon"
 trait_05: "Fire"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __darkvision__, __imprecise scent 60__, __smoke vision__;"
@@ -63,6 +61,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +35 (1d20+35); __Ref__: +32 (1d20+32); __Will__: +35 (1d20+35);"
+hp: 425
 health:
   - name: HP
     desc: "425;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 20;"
@@ -84,7 +83,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Red Dragon
 creatures:

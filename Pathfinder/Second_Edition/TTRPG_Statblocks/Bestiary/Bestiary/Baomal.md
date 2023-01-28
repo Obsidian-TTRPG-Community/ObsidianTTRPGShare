@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/20
 statblock: true
-statblock-link: "#Baomal"
+statblock: inline
 name: "Baomal"
-hp: 315
-ac: 48
-modifier: 34
 level: 20
 ---
-### Baomal
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Gargantuan"
 trait_03: "Aberration"
 trait_04: "Aquatic"
+modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; __darkvision__, __imprecise scent 80__;"
@@ -59,6 +57,7 @@ ac: 48
 armorclass:
   - name: AC
     desc: "48; __Fort__: +36 (1d20+36); __Ref__: +30 (1d20+30); __Will__: +34 (1d20+34);"
+hp: 315
 health:
   - name: HP
     desc: "315;  __Resistances__ physical 10"
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 35."
 ```
 
-### Encounter
 ```encounter-table
 name: Baomal
 creatures:

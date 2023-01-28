@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Giant Mantis"
+statblock: inline
 name: "Giant Mantis"
-hp: 40
-ac: 20
-modifier: 9
 level: 3
 ---
-### Giant Mantis
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 3"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +10 (1d20+10); __Ref__: +12 (1d20+12); __Will__: +7 (1d20+7);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 233."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Mantis
 creatures:

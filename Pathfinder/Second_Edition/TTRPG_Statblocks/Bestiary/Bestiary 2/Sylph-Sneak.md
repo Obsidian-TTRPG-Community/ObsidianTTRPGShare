@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Sylph Sneak"
+statblock: inline
 name: "Sylph Sneak"
-hp: 17
-ac: 18
-modifier: 5
 level: 1
 ---
-### Sylph Sneak
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Sylph"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5;"
@@ -55,6 +53,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +4 (1d20+4); __Ref__: +9 (1d20+9); __Will__: +8 (1d20+8);"
+hp: 17
 health:
   - name: HP
     desc: "17; "
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 202."
 ```
 
-### Encounter
 ```encounter-table
 name: Sylph Sneak
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Flytrap Leshy"
+statblock: inline
 name: "Flytrap Leshy"
-hp: 72
-ac: 20
-modifier: 11
 level: 4
 ---
-### Flytrap Leshy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Leshy"
 trait_04: "Plant"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +13 (1d20+13);"
+hp: 72
 health:
   - name: HP
     desc: "72;  __Resistances__ acid 5"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 161."
 ```
 
-### Encounter
 ```encounter-table
 name: Flytrap Leshy
 creatures:

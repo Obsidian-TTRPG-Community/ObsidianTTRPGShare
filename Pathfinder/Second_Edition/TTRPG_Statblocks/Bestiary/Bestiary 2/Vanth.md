@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/monitor
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Vanth"
+statblock: inline
 name: "Vanth"
-hp: 105
-ac: 27
-modifier: 15
 level: 7
 ---
-### Vanth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Monitor"
 trait_04: "Psychopomp"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __lifesense 60__;"
@@ -56,6 +54,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +15 (1d20+15); __Ref__: +13 (1d20+13); __Will__: +17 (1d20+17);"
+hp: 105
 health:
   - name: HP
     desc: "105;  __Immunities__ death effects, disease; __Resistances__ negative 10, poison 10"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 210."
 ```
 
-### Encounter
 ```encounter-table
 name: Vanth
 creatures:

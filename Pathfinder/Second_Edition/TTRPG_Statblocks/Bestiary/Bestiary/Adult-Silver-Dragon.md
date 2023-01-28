@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Adult Silver Dragon"
+statblock: inline
 name: "Adult Silver Dragon"
-hp: 295
-ac: 37
-modifier: 26
 level: 14
 ---
-### Adult Silver Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Huge"
 trait_03: "Cold"
 trait_04: "Dragon"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __fog vision__, __imprecise scent 60__;"
@@ -58,6 +56,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +26 (1d20+26); __Ref__: +23 (1d20+23); __Will__: +28 (1d20+28);"
+hp: 295
 health:
   - name: HP
     desc: "295;  __Immunities__ cold, paralyzed, sleep; __Weaknesses__ fire 10;"
@@ -77,7 +76,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 126."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Silver Dragon
 creatures:

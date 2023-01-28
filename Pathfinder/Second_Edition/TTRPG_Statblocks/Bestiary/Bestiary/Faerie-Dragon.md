@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Faerie Dragon"
+statblock: inline
 name: "Faerie Dragon"
-hp: 30
-ac: 18
-modifier: 16
 level: 2
 ---
-### Faerie Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CG"
 size: "Tiny"
 trait_04: "Dragon"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +5 (1d20+5); __Ref__: +12 (1d20+12); __Will__: +11 (1d20+11);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 157."
 ```
 
-### Encounter
 ```encounter-table
 name: Faerie Dragon
 creatures:

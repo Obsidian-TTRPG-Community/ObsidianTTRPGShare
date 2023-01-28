@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Athach"
+statblock: inline
 name: "Athach"
-hp: 250
-ac: 33
-modifier: 22
 level: 12
 ---
-### Athach
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Giant"
 trait_04: "Humanoid"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +25 (1d20+25); __Ref__: +20 (1d20+20); __Will__: +21 (1d20+21);"
+hp: 250
 health:
   - name: HP
     desc: "250;  __Weaknesses__ cold iron 10;"
@@ -72,7 +71,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 27."
 ```
 
-### Encounter
 ```encounter-table
 name: Athach
 creatures:

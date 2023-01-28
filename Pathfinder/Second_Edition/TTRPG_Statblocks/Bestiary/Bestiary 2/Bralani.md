@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Bralani"
+statblock: inline
 name: "Bralani"
-hp: 120
-ac: 24
-modifier: 14
 level: 6
 ---
-### Bralani
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Medium"
 trait_03: "Azata"
 trait_04: "Celestial"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +13 (1d20+13); __Ref__: +17 (1d20+17); __Will__: +12 (1d20+12);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Weaknesses__ cold iron 5, evil 5;"
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 30."
 ```
 
-### Encounter
 ```encounter-table
 name: Bralani
 creatures:

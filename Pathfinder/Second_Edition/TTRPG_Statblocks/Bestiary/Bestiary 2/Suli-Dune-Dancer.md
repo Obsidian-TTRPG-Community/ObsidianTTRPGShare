@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Suli Dune Dancer"
+statblock: inline
 name: "Suli Dune Dancer"
-hp: 16
-ac: 15
-modifier: 5
 level: 1
 ---
-### Suli Dune Dancer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Suli"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5;"
@@ -51,6 +49,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +3 (1d20+3); __Ref__: +5 (1d20+5); __Will__: +5 (1d20+5);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 202."
 ```
 
-### Encounter
 ```encounter-table
 name: Suli Dune Dancer
 creatures:

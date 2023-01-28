@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Skaveling"
+statblock: inline
 name: "Skaveling"
-hp: 80
-ac: 22
-modifier: 15
 level: 5
 ---
-### Skaveling
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "CE"
 size: "Large"
 trait_03: "Undead"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __echolocation 40__;"
@@ -51,6 +49,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +11 (1d20+11); __Ref__: +13 (1d20+13); __Will__: +15 (1d20+15);"
+hp: 80
 health:
   - name: HP
     desc: "80; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 241."
 ```
 
-### Encounter
 ```encounter-table
 name: Skaveling
 creatures:

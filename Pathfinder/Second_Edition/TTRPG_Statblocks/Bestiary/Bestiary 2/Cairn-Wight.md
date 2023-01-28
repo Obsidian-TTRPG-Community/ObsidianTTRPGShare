@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Cairn Wight"
+statblock: inline
 name: "Cairn Wight"
-hp: 67
-ac: 20
-modifier: 11
 level: 4
 ---
-### Cairn Wight
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "LE"
 size: "Medium"
 trait_04: "Undead"
 trait_05: "Wight"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +11 (1d20+11);"
+hp: 67
 health:
   - name: HP
     desc: "67;  __Immunities__ poison, death effects, disease, paralyze, unconscious;"
@@ -69,7 +68,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 292."
 ```
 
-### Encounter
 ```encounter-table
 name: Cairn Wight
 creatures:

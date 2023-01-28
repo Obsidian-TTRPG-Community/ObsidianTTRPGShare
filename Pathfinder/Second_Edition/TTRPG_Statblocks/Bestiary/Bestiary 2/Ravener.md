@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/21
 statblock: true
-statblock-link: "#Ravener"
+statblock: inline
 name: "Ravener"
-hp: 500
-ac: 47
-modifier: 37
 level: 21
 ---
-### Ravener
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Fire"
 trait_06: "Undead"
+modifier: 37
 perception:
   - name: "Perception"
     desc: "Perception +37; __darkvision__, __imprecise scent 60__, __smoke vision__, __soulsense 60__;"
@@ -69,6 +67,7 @@ ac: 47
 armorclass:
   - name: AC
     desc: "47; __Fort__: +38 (1d20+38); __Ref__: +34 (1d20+34); __Will__: +37 (1d20+37);"
+hp: 500
 health:
   - name: HP
     desc: "500; negative healing; __Immunities__ fire, poison, death effects, disease, paralyzed, sleep; __Weaknesses__ cold 20, good 20;"
@@ -90,7 +89,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 224."
 ```
 
-### Encounter
 ```encounter-table
 name: Ravener
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Sinspawn"
+statblock: inline
 name: "Sinspawn"
-hp: 30
-ac: 18
-modifier: 10
 level: 2
 ---
-### Sinspawn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "NE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise sin scent 30__;"
@@ -53,6 +51,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +10 (1d20+10); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 30
 health:
   - name: HP
     desc: "30;  __Immunities__ controlled; __Resistances__ mental 5"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 297."
 ```
 
-### Encounter
 ```encounter-table
 name: Sinspawn
 creatures:

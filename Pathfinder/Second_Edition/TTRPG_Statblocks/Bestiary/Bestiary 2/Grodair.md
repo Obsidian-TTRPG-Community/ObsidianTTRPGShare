@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Grodair"
+statblock: inline
 name: "Grodair"
-hp: 88
-ac: 20
-modifier: 13
 level: 5
 ---
-### Grodair
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_03: "Amphibious"
 trait_04: "Beast"
 trait_05: "Fey"
 trait_06: "Water"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +15 (1d20+15); __Ref__: +9 (1d20+9); __Will__: +11 (1d20+11);"
+hp: 88
 health:
   - name: HP
     desc: "88; "
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 140."
 ```
 
-### Encounter
 ```encounter-table
 name: Grodair
 creatures:

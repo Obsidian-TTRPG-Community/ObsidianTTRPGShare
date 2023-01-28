@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Vrolikai"
+statblock: inline
 name: "Vrolikai"
-hp: 375
-ac: 44
-modifier: 33
 level: 19
 ---
-### Vrolikai
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Large"
 trait_04: "Demon"
 trait_05: "Fiend"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __true seeing__;"
@@ -56,6 +54,7 @@ ac: 44
 armorclass:
   - name: AC
     desc: "44; __Fort__: +34 (1d20+34); __Ref__: +31 (1d20+31); __Will__: +31 (1d20+31);"
+hp: 375
 health:
   - name: HP
     desc: "375;  __Immunities__ death effects; __Weaknesses__ cold iron 15, good 15;"
@@ -75,7 +74,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 69."
 ```
 
-### Encounter
 ```encounter-table
 name: Vrolikai
 creatures:

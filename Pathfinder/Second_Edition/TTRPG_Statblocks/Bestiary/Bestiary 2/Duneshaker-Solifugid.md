@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/18
 statblock: true
-statblock-link: "#Duneshaker Solifugid"
+statblock: inline
 name: "Duneshaker Solifugid"
-hp: 340
-ac: 42
-modifier: 30
 level: 18
 ---
-### Duneshaker Solifugid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 18"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -48,6 +46,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +31 (1d20+31); __Ref__: +33 (1d20+33); __Will__: +28 (1d20+28);"
+hp: 340
 health:
   - name: HP
     desc: "340; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 246."
 ```
 
-### Encounter
 ```encounter-table
 name: Duneshaker Solifugid
 creatures:

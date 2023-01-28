@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Great White Shark"
+statblock: inline
 name: "Great White Shark"
-hp: 60
-ac: 21
-modifier: 11
 level: 4
 ---
-### Great White Shark
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __blood scent__, __imprecise scent 100__;"
@@ -50,6 +48,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +12 (1d20+12); __Ref__: +10 (1d20+10); __Will__: +9 (1d20+9);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 291."
 ```
 
-### Encounter
 ```encounter-table
 name: Great White Shark
 creatures:

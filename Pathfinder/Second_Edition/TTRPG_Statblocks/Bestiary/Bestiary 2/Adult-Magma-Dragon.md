@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Adult Magma Dragon"
+statblock: inline
 name: "Adult Magma Dragon"
-hp: 270
-ac: 34
-modifier: 23
 level: 13
 ---
-### Adult Magma Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Huge"
 trait_04: "Dragon"
 trait_05: "Elemental"
 trait_06: "Fire"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__, __imprecise scent 60__;"
@@ -60,6 +58,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +26 (1d20+26); __Ref__: +21 (1d20+21); __Will__: +23 (1d20+23);"
+hp: 270
 health:
   - name: HP
     desc: "270;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 15;"
@@ -81,7 +80,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 94."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Magma Dragon
 creatures:

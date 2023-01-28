@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Demilich"
+statblock: inline
 name: "Demilich"
-hp: 220
-ac: 38
-modifier: 19
 level: 15
 ---
-### Demilich
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "NE"
 size: "Tiny"
 trait_04: "Undead"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__, __true seeing__;"
@@ -64,6 +62,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +23 (1d20+23); __Ref__: +27 (1d20+27); __Will__: +23 (1d20+23);"
+hp: 220
 health:
   - name: HP
     desc: "220; negative healing; __Immunities__ poison, disease, paralyzed, polymorph, unconscious; __Resistances__ cold 5, electricity 5, fire 5, physical 5 (except bludgeoning)"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 222."
 ```
 
-### Encounter
 ```encounter-table
 name: Demilich
 creatures:

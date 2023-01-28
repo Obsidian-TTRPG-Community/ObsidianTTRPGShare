@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Taiga Linnorm"
+statblock: inline
 name: "Taiga Linnorm"
-hp: 385
-ac: 44
-modifier: 33
 level: 19
 ---
-### Taiga Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Gargantuan"
 trait_04: "Dragon"
+modifier: 33
 perception:
   - name: "Perception"
     desc: "Perception +33; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -55,6 +53,7 @@ ac: 44
 armorclass:
   - name: AC
     desc: "44; __Fort__: +35 (1d20+35); __Ref__: +31 (1d20+31); __Will__: +29 (1d20+29);"
+hp: 385
 health:
   - name: HP
     desc: "385; [[regeneration]] 15 (deactivated by cold iron); __Weaknesses__ cold iron 15;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 167."
 ```
 
-### Encounter
 ```encounter-table
 name: Taiga Linnorm
 creatures:

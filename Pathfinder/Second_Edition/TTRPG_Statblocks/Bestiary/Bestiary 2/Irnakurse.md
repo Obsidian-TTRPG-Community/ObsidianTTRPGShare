@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Irnakurse"
+statblock: inline
 name: "Irnakurse"
-hp: 152
-ac: 28
-modifier: 18
 level: 9
 ---
-### Irnakurse
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 9"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +20 (1d20+20); __Ref__: +18 (1d20+18); __Will__: +16 (1d20+16);"
+hp: 152
 health:
   - name: HP
     desc: "152; "
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 118."
 ```
 
-### Encounter
 ```encounter-table
 name: Irnakurse
 creatures:

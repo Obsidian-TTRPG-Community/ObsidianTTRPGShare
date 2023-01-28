@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Drider"
+statblock: inline
 name: "Drider"
-hp: 95
-ac: 24
-modifier: 13
 level: 6
 ---
-### Drider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -48,6 +46,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +13 (1d20+13); __Ref__: +13 (1d20+13); __Will__: +15 (1d20+15);"
+hp: 95
 health:
   - name: HP
     desc: "95; "
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 159."
 ```
 
-### Encounter
 ```encounter-table
 name: Drider
 creatures:

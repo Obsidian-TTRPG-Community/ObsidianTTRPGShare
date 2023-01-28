@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Akata"
+statblock: inline
 name: "Akata"
-hp: 15
-ac: 16
-modifier: 6
 level: 1
 ---
-### Akata
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Medium"
 trait_04: "Aberration"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__, __no hearing__, __imprecise scent 30__;"
@@ -53,6 +51,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +9 (1d20+9); __Ref__: +5 (1d20+5); __Will__: +6 (1d20+6);"
+hp: 15
 health:
   - name: HP
     desc: "15;  __Immunities__ disease; __Resistances__ fire 5, poison 5"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 13."
 ```
 
-### Encounter
 ```encounter-table
 name: Akata
 creatures:

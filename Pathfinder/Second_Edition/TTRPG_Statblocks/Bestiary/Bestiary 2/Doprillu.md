@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Doprillu"
+statblock: inline
 name: "Doprillu"
-hp: 260
-ac: 36
-modifier: 22
 level: 14
 ---
-### Doprillu
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 14"
 alignment: "NE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__, __see invisibility__;"
@@ -52,6 +50,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +27 (1d20+27); __Ref__: +28 (1d20+28); __Will__: +24 (1d20+24);"
+hp: 260
 health:
   - name: HP
     desc: "260; [[regeneration]] 20 (deactivated by cold); __Immunities__ enfeebled (while wearing its; __Resistances__ fire 15"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 85."
 ```
 
-### Encounter
 ```encounter-table
 name: Doprillu
 creatures:

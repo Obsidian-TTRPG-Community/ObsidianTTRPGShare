@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Calathgar"
+statblock: inline
 name: "Calathgar"
-hp: 75
-ac: 21
-modifier: 10
 level: 4
 ---
-### Calathgar
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Cold"
 trait_04: "Plant"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __scent 30__;"
@@ -49,6 +47,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +10 (1d20+10); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 75
 health:
   - name: HP
     desc: "75;  __Immunities__ cold; __Weaknesses__ fire 5, slashing 5;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 45."
 ```
 
-### Encounter
 ```encounter-table
 name: Calathgar
 creatures:

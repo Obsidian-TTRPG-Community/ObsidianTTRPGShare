@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Elephant"
+statblock: inline
 name: "Elephant"
-hp: 130
-ac: 23
-modifier: 13
 level: 7
 ---
-### Elephant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +18 (1d20+18); __Ref__: +11 (1d20+11); __Will__: +13 (1d20+13);"
+hp: 130
 health:
   - name: HP
     desc: "130; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary_, page 154."
 ```
 
-### Encounter
 ```encounter-table
 name: Elephant
 creatures:

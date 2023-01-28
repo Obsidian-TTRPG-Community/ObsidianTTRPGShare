@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Giant Slug"
+statblock: inline
 name: "Giant Slug"
-hp: 165
-ac: 25
-modifier: 14
 level: 8
 ---
-### Giant Slug
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 8"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __no hearing__, __imprecise scent 60__;"
@@ -48,6 +46,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +21 (1d20+21); __Ref__: +11 (1d20+11); __Will__: +14 (1d20+14);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Weaknesses__ salt 5;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 244."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Slug
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Skrik Nettle"
+statblock: inline
 name: "Skrik Nettle"
-hp: 130
-ac: 22
-modifier: 16
 level: 6
 ---
-### Skrik Nettle
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "N"
 size: "Large"
 trait_03: "Aberration"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __motionsense 30__;"
@@ -50,6 +48,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +10 (1d20+10); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 130
 health:
   - name: HP
     desc: "130; fast healing 5; __Weaknesses__ piercing 5, slashing 5;"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 242."
 ```
 
-### Encounter
 ```encounter-table
 name: Skrik Nettle
 creatures:

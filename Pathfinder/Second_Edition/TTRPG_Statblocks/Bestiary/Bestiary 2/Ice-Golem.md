@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Ice Golem"
+statblock: inline
 name: "Ice Golem"
-hp: 80
-ac: 21
-modifier: 9
 level: 5
 ---
-### Ice Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_04: "Cold"
 trait_05: "Construct"
 trait_06: "Golem"
 trait_07: "Mindless"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -55,6 +53,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +15 (1d20+15); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 80
 health:
   - name: HP
     desc: "80;  __Immunities__ bleed, cold, electricity, death effects, disease, doomed, drained, fatigued, healing, magic (see below); __Resistances__ physical 5 exept adamantine and bludgeoning"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 129."
 ```
 
-### Encounter
 ```encounter-table
 name: Ice Golem
 creatures:

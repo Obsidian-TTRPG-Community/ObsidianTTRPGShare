@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Djinni"
+statblock: inline
 name: "Djinni"
-hp: 71
-ac: 22
-modifier: 13
 level: 5
 ---
-### Djinni
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Air"
 trait_05: "Elemental"
 trait_06: "Genie"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__, __detect magic__;"
@@ -52,6 +50,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +14 (1d20+14); __Will__: +11 (1d20+11);"
+hp: 71
 health:
   - name: HP
     desc: "71;  __Immunities__ acid; __Resistances__ mental 5, sonic 5"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 163."
 ```
 
-### Encounter
 ```encounter-table
 name: Djinni
 creatures:

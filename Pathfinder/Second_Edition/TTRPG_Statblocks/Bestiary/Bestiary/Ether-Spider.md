@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Ether Spider"
+statblock: inline
 name: "Ether Spider"
-hp: 75
-ac: 21
-modifier: 12
 level: 5
 ---
-### Ether Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Beast"
 trait_04: "Ethereal"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +12 (1d20+12); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 75
 health:
   - name: HP
     desc: "75; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 155."
 ```
 
-### Encounter
 ```encounter-table
 name: Ether Spider
 creatures:

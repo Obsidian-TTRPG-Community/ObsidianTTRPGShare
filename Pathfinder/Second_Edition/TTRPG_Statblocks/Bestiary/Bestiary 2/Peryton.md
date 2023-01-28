@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Peryton"
+statblock: inline
 name: "Peryton"
-hp: 60
-ac: 21
-modifier: 13
 level: 4
 ---
-### Peryton
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CE"
 size: "Medium"
 trait_03: "Beast"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +8 (1d20+8); __Ref__: +11 (1d20+11); __Will__: +13 (1d20+13);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 197."
 ```
 
-### Encounter
 ```encounter-table
 name: Peryton
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Blink Dog"
+statblock: inline
 name: "Blink Dog"
-hp: 30
-ac: 18
-modifier: 8
 level: 2
 ---
-### Blink Dog
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LG"
 size: "Medium"
 trait_04: "Beast"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +11 (1d20+11);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -59,7 +58,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 40."
 ```
 
-### Encounter
 ```encounter-table
 name: Blink Dog
 creatures:

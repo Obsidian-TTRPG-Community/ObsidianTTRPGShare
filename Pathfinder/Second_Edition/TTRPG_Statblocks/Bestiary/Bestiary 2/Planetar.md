@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Planetar"
+statblock: inline
 name: "Planetar"
-hp: 300
-ac: 39
-modifier: 28
 level: 16
 ---
-### Planetar
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NG"
 size: "Large"
 trait_04: "Angel"
 trait_05: "Celestial"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __true seeing__;"
@@ -55,6 +53,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +28 (1d20+28); __Ref__: +25 (1d20+25); __Will__: +28 (1d20+28);"
+hp: 300
 health:
   - name: HP
     desc: "300; [[regeneration]] 15 (deactivated by evil); __Weaknesses__ evil 15;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 16."
 ```
 
-### Encounter
 ```encounter-table
 name: Planetar
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Lizardfolk Scout"
+statblock: inline
 name: "Lizardfolk Scout"
-hp: 17
-ac: 17
-modifier: 8
 level: 1
 ---
-### Lizardfolk Scout
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Lizardfolk"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8;"
@@ -55,6 +53,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +8 (1d20+8); __Will__: +6 (1d20+6);"
+hp: 17
 health:
   - name: HP
     desc: "17; "
@@ -71,7 +70,6 @@ attacks:
 sourcebook: "_Bestiary_, page 231."
 ```
 
-### Encounter
 ```encounter-table
 name: Lizardfolk Scout
 creatures:

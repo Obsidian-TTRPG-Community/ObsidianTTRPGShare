@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Mammoth"
+statblock: inline
 name: "Mammoth"
-hp: 190
-ac: 29
-modifier: 18
 level: 10
 ---
-### Mammoth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "N"
 size: "Huge"
 trait_03: "Animal"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__, __imprecise scent 30__;"
@@ -49,6 +47,7 @@ ac: 29
 armorclass:
   - name: AC
     desc: "29; __Fort__: +21 (1d20+21); __Ref__: +15 (1d20+15); __Will__: +18 (1d20+18);"
+hp: 190
 health:
   - name: HP
     desc: "190; "
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 154."
 ```
 
-### Encounter
 ```encounter-table
 name: Mammoth
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/ooze
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Black Pudding"
+statblock: inline
 name: "Black Pudding"
-hp: 165
-ac: 14
-modifier: 9
 level: 7
 ---
-### Black Pudding
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Mindless"
 trait_04: "Ooze"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __motion sense 60__, __no vision__;"
@@ -55,6 +53,7 @@ ac: 14
 armorclass:
   - name: AC
     desc: "14; __Fort__: +18 (1d20+18); __Ref__: +6 (1d20+6); __Will__: +11 (1d20+11);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Immunities__ acid, mental, piercing, precision, slashing, critical hits, unconscious, visual;"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 255."
 ```
 
-### Encounter
 ```encounter-table
 name: Black Pudding
 creatures:

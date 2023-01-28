@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Basidirond"
+statblock: inline
 name: "Basidirond"
-hp: 80
-ac: 22
-modifier: 8
 level: 5
 ---
-### Basidirond
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Fungus"
 trait_04: "Mindless"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise [[tremorsense]] 30__;"
@@ -48,6 +46,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +12 (1d20+12);"
+hp: 80
 health:
   - name: HP
     desc: "80;  __Immunities__ cold, mental; __Weaknesses__ slashing 5;"
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 34."
 ```
 
-### Encounter
 ```encounter-table
 name: Basidirond
 creatures:

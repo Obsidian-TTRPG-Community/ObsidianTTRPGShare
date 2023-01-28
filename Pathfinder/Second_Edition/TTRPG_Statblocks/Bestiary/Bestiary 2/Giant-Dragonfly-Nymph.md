@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Giant Dragonfly Nymph"
+statblock: inline
 name: "Giant Dragonfly Nymph"
-hp: 46
-ac: 19
-modifier: 8
 level: 3
 ---
-### Giant Dragonfly Nymph
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise wavesense 30__;"
@@ -43,6 +41,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +11 (1d20+11); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 46
 health:
   - name: HP
     desc: "46; "
@@ -55,7 +54,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 98."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Dragonfly Nymph
 creatures:

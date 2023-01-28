@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Emperor Cobra"
+statblock: inline
 name: "Emperor Cobra"
-hp: 80
-ac: 22
-modifier: 13
 level: 5
 ---
-### Emperor Cobra
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "N"
 size: "Large"
 trait_03: "Animal"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__, __imprecise scent 30__;"
@@ -44,6 +42,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +15 (1d20+15); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 80
 health:
   - name: HP
     desc: "80; "
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 245."
 ```
 
-### Encounter
 ```encounter-table
 name: Emperor Cobra
 creatures:

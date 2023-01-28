@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Lurker In Light"
+statblock: inline
 name: "Lurker In Light"
-hp: 72
-ac: 22
-modifier: 13
 level: 5
 ---
-### Lurker In Light
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "NE"
 size: "Small"
 trait_03: "Fey"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __low-light vision__;"
@@ -47,6 +45,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +14 (1d20+14); __Will__: +13 (1d20+13);"
+hp: 72
 health:
   - name: HP
     desc: "72;  __Immunities__ blinded;"
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 169."
 ```
 
-### Encounter
 ```encounter-table
 name: Lurker In Light
 creatures:

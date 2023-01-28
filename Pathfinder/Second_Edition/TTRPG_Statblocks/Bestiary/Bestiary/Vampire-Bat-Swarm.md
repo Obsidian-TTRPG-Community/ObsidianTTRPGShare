@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Vampire Bat Swarm"
+statblock: inline
 name: "Vampire Bat Swarm"
-hp: 11
-ac: 15
-modifier: 10
 level: 1
 ---
-### Vampire Bat Swarm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Animal"
 trait_04: "Swarm"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __precise echolocation 20__, __low-light vision__;"
@@ -46,6 +44,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +6 (1d20+6);"
+hp: 11
 health:
   - name: HP
     desc: "11;  __Immunities__ precision, swarm mind; __Weaknesses__ area damage 3, splash damage 3;"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary_, page 39."
 ```
 
-### Encounter
 ```encounter-table
 name: Vampire Bat Swarm
 creatures:

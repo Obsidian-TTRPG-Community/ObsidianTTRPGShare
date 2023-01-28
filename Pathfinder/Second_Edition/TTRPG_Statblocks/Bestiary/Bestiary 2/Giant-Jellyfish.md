@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Giant Jellyfish"
+statblock: inline
 name: "Giant Jellyfish"
-hp: 165
-ac: 15
-modifier: 12
 level: 7
 ---
-### Giant Jellyfish
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Animal"
 trait_04: "Aquatic"
 trait_05: "Mindless"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +17 (1d20+17); __Ref__: +15 (1d20+15); __Will__: +1 (1d20+1);"
+hp: 165
 health:
   - name: HP
     desc: "165;  __Immunities__ mental, precision; __Weaknesses__ piercing 5, slashing 5;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 152."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Jellyfish
 creatures:

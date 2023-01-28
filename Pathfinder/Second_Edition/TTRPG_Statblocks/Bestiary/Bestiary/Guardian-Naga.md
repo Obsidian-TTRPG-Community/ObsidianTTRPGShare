@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Guardian Naga"
+statblock: inline
 name: "Guardian Naga"
-hp: 175
-ac: 31
-modifier: 22
 level: 10
 ---
-### Guardian Naga
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LG"
 size: "Large"
 trait_04: "Aberration"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +20 (1d20+20); __Ref__: +21 (1d20+21); __Will__: +22 (1d20+22);"
+hp: 175
 health:
   - name: HP
     desc: "175; "
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 243."
 ```
 
-### Encounter
 ```encounter-table
 name: Guardian Naga
 creatures:

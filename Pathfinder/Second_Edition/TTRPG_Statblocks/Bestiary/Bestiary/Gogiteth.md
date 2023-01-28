@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Gogiteth"
+statblock: inline
 name: "Gogiteth"
-hp: 250
-ac: 31
-modifier: 21
 level: 12
 ---
-### Gogiteth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 12"
 alignment: "CE"
 size: "Large"
 trait_03: "Aberration"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 31
 armorclass:
   - name: AC
     desc: "31; __Fort__: +25 (1d20+25); __Ref__: +22 (1d20+22); __Will__: +20 (1d20+20);"
+hp: 250
 health:
   - name: HP
     desc: "250;  __Resistances__ poison 10"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 183."
 ```
 
-### Encounter
 ```encounter-table
 name: Gogiteth
 creatures:

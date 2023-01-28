@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Wolf"
+statblock: inline
 name: "Wolf"
-hp: 24
-ac: 15
-modifier: 7
 level: 1
 ---
-### Wolf
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__, __imprecise scent 30__;"
@@ -42,6 +40,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 24
 health:
   - name: HP
     desc: "24; "
@@ -54,7 +53,6 @@ attacks:
 sourcebook: "_Bestiary_, page 334."
 ```
 
-### Encounter
 ```encounter-table
 name: Wolf
 creatures:

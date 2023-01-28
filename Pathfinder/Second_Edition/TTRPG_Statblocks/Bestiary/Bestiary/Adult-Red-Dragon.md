@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Adult Red Dragon"
+statblock: inline
 name: "Adult Red Dragon"
-hp: 305
-ac: 37
-modifier: 26
 level: 14
 ---
-### Adult Red Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Huge"
 trait_03: "Dragon"
 trait_04: "Fire"
+modifier: 26
 perception:
   - name: "Perception"
     desc: "Perception +26; __darkvision__, __imprecise scent 60__, __smoke vision__;"
@@ -58,6 +56,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +28 (1d20+28); __Ref__: +25 (1d20+25); __Will__: +26 (1d20+26);"
+hp: 305
 health:
   - name: HP
     desc: "305;  __Immunities__ fire, paralyzed, sleep; __Weaknesses__ cold 15;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Adult Red Dragon
 creatures:

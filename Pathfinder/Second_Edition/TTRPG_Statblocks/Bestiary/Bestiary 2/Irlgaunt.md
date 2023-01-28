@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Irlgaunt"
+statblock: inline
 name: "Irlgaunt"
-hp: 265
-ac: 34
-modifier: 24
 level: 13
 ---
-### Irlgaunt
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Large"
 trait_03: "Aberration"
 trait_04: "Earth"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +22 (1d20+22); __Ref__: +25 (1d20+25); __Will__: +24 (1d20+24);"
+hp: 265
 health:
   - name: HP
     desc: "265; Immunities acid; __Immunities__ acid;"
@@ -63,7 +62,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 148."
 ```
 
-### Encounter
 ```encounter-table
 name: Irlgaunt
 creatures:

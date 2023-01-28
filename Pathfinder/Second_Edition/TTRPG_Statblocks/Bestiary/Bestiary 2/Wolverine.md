@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Wolverine"
+statblock: inline
 name: "Wolverine"
-hp: 34
-ac: 18
-modifier: 8
 level: 2
 ---
-### Wolverine
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __low-light vision__, __imprecise scent 30__;"
@@ -46,6 +44,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +7 (1d20+7); __Will__: +6 (1d20+6);"
+hp: 34
 health:
   - name: HP
     desc: "34; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 295."
 ```
 
-### Encounter
 ```encounter-table
 name: Wolverine
 creatures:

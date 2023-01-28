@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Crawling Hand"
+statblock: inline
 name: "Crawling Hand"
-hp: 8
-ac: 12
-modifier: 5
 level: -1
 ---
-### Crawling Hand
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature -1"
 alignment: "NE"
 size: "Tiny"
 trait_03: "Undead"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __lifesense 30__, __imprecise [[tremorsense]] 30__;"
@@ -45,6 +43,7 @@ ac: 12
 armorclass:
   - name: AC
     desc: "12; __Fort__: +2 (1d20+2); __Ref__: +5 (1d20+5); __Will__: +2 (1d20+2);"
+hp: 8
 health:
   - name: HP
     desc: "8; negative healing;"
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 56."
 ```
 
-### Encounter
 ```encounter-table
 name: Crawling Hand
 creatures:

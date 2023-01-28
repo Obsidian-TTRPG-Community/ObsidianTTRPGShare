@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Osyluth"
+statblock: inline
 name: "Osyluth"
-hp: 135
-ac: 28
-modifier: 21
 level: 9
 ---
-### Osyluth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __greater darkvision__;"
@@ -52,6 +50,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +17 (1d20+17); __Ref__: +18 (1d20+18); __Will__: +17 (1d20+17);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ fire; __Weaknesses__ good 10;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 74."
 ```
 
-### Encounter
 ```encounter-table
 name: Osyluth
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Skeletal Hulk"
+statblock: inline
 name: "Skeletal Hulk"
-hp: 105
-ac: 25
-modifier: 16
 level: 7
 ---
-### Skeletal Hulk
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Huge"
 trait_03: "Mindless"
 trait_04: "Skeleton"
 trait_05: "Undead"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -41,6 +39,7 @@ ac: 25
 armorclass:
   - name: AC
     desc: "25; __Fort__: +15 (1d20+15); __Ref__: +15 (1d20+15); __Will__: +13 (1d20+13);"
+hp: 105
 health:
   - name: HP
     desc: "105; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
@@ -53,7 +52,6 @@ attacks:
 sourcebook: "_Bestiary_, page 299."
 ```
 
-### Encounter
 ```encounter-table
 name: Skeletal Hulk
 creatures:

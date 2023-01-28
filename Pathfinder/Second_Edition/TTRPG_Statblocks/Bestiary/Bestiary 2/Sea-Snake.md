@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Sea Snake"
+statblock: inline
 name: "Sea Snake"
-hp: 15
-ac: 16
-modifier: 5
 level: 0
 ---
-### Sea Snake
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -48,6 +46,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +5 (1d20+5); __Ref__: +9 (1d20+9); __Will__: +3 (1d20+3);"
+hp: 15
 health:
   - name: HP
     desc: "15; "
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 245."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Snake
 creatures:

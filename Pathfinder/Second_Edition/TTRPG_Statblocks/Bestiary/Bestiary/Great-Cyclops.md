@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Great Cyclops"
+statblock: inline
 name: "Great Cyclops"
-hp: 235
-ac: 32
-modifier: 22
 level: 12
 ---
-### Great Cyclops
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Huge"
 trait_04: "Giant"
 trait_05: "Humanoid"
 trait_06: "Mutant"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __low-light vision__;"
@@ -59,6 +57,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +25 (1d20+25); __Ref__: +19 (1d20+19); __Will__: +22 (1d20+22);"
+hp: 235
 health:
   - name: HP
     desc: "235; "
@@ -77,7 +76,6 @@ attacks:
 sourcebook: "_Bestiary_, page 69."
 ```
 
-### Encounter
 ```encounter-table
 name: Great Cyclops
 creatures:

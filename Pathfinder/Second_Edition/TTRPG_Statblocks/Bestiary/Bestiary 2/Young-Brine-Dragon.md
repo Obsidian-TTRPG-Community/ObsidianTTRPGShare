@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Young Brine Dragon"
+statblock: inline
 name: "Young Brine Dragon"
-hp: 142
-ac: 27
-modifier: 16
 level: 8
 ---
-### Young Brine Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -29,6 +26,7 @@ trait_04: "Amphibious"
 trait_05: "Dragon"
 trait_06: "Elemental"
 trait_07: "Water"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __imprecise scent 60__;"
@@ -57,6 +55,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +16 (1d20+16); __Will__: +16 (1d20+16);"
+hp: 142
 health:
   - name: HP
     desc: "142;  __Immunities__ acid, paralyzed, sleep;"
@@ -78,7 +77,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 87."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Brine Dragon
 creatures:

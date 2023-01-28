@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Vrykolakas Ancient"
+statblock: inline
 name: "Vrykolakas Ancient"
-hp: 250
-ac: 34
-modifier: 23
 level: 13
 ---
-### Vrykolakas Ancient
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Undead"
 trait_05: "Vampire"
+modifier: 23
 perception:
   - name: "Perception"
     desc: "Perception +23; __darkvision__;"
@@ -69,6 +67,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +23 (1d20+23); __Ref__: +24 (1d20+24); __Will__: +21 (1d20+21);"
+hp: 250
 health:
   - name: HP
     desc: "250; negative healing; __Immunities__ poison, death effects, disease, paralyze, sleep;"
@@ -86,7 +85,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 277."
 ```
 
-### Encounter
 ```encounter-table
 name: Vrykolakas Ancient
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Urdefhan Tormentor"
+statblock: inline
 name: "Urdefhan Tormentor"
-hp: 77
-ac: 21
-modifier: 13
 level: 5
 ---
-### Urdefhan Tormentor
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Urdefhan"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __greater darkvision__;"
@@ -47,6 +45,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +10 (1d20+10); __Will__: +15 (1d20+15);"
+hp: 77
 health:
   - name: HP
     desc: "77; negative healing; __Immunities__ death effects, disease, fear; __Weaknesses__ positive 5;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 273."
 ```
 
-### Encounter
 ```encounter-table
 name: Urdefhan Tormentor
 creatures:

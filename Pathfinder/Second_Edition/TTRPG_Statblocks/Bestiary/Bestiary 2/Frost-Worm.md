@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Frost Worm"
+statblock: inline
 name: "Frost Worm"
-hp: 225
-ac: 33
-modifier: 22
 level: 12
 ---
-### Frost Worm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Cold"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 33
 armorclass:
   - name: AC
     desc: "33; __Fort__: +24 (1d20+24); __Ref__: +22 (1d20+22); __Will__: +20 (1d20+20);"
+hp: 225
 health:
   - name: HP
     desc: "225;  __Immunities__ cold; __Weaknesses__ fire 15;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 123."
 ```
 
-### Encounter
 ```encounter-table
 name: Frost Worm
 creatures:

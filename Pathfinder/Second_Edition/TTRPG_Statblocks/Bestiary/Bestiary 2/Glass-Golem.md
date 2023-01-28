@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Glass Golem"
+statblock: inline
 name: "Glass Golem"
-hp: 135
-ac: 26
-modifier: 14
 level: 8
 ---
-### Glass Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Construct"
 trait_05: "Golem"
 trait_06: "Mindless"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +17 (1d20+17); __Ref__: +16 (1d20+16); __Will__: +14 (1d20+14);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Immunities__ bleed, death effects, disease, doomed, drained, fatigued, healing, magic (see below); __Resistances__ physical 10 (except adamantine or bludgeoning)"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 131."
 ```
 
-### Encounter
 ```encounter-table
 name: Glass Golem
 creatures:

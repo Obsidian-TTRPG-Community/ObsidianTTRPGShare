@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Hunting Spider"
+statblock: inline
 name: "Hunting Spider"
-hp: 16
-ac: 17
-modifier: 7
 level: 1
 ---
-### Hunting Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __web sense__;"
@@ -50,6 +48,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 306."
 ```
 
-### Encounter
 ```encounter-table
 name: Hunting Spider
 creatures:

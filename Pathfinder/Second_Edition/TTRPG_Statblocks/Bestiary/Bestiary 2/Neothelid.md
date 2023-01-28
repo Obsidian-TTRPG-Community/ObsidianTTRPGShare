@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Neothelid"
+statblock: inline
 name: "Neothelid"
-hp: 345
-ac: 37
-modifier: 29
 level: 15
 ---
-### Neothelid
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "CE"
 size: "Gargantuan"
 trait_04: "Aberration"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __greater darkvision__, __thoughtsense 100__;"
@@ -56,6 +54,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +27 (1d20+27); __Ref__: +23 (1d20+23); __Will__: +29 (1d20+29);"
+hp: 345
 health:
   - name: HP
     desc: "345;  __Immunities__ acid; __Weaknesses__ cold iron 15; __Resistances__ mental 15"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 181."
 ```
 
-### Encounter
 ```encounter-table
 name: Neothelid
 creatures:

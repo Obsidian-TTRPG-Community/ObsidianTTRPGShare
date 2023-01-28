@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Young Blue Dragon"
+statblock: inline
 name: "Young Blue Dragon"
-hp: 170
-ac: 28
-modifier: 18
 level: 9
 ---
-### Young Blue Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Large"
 trait_03: "Dragon"
 trait_04: "Electricity"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __darkvision__, __imprecise scent 60__;"
@@ -58,6 +56,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +19 (1d20+19); __Ref__: +18 (1d20+18); __Will__: +19 (1d20+19);"
+hp: 170
 health:
   - name: HP
     desc: "170;  __Immunities__ electricity, paralyzed, sleep;"
@@ -79,7 +78,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 107."
 ```
 
-### Encounter
 ```encounter-table
 name: Young Blue Dragon
 creatures:

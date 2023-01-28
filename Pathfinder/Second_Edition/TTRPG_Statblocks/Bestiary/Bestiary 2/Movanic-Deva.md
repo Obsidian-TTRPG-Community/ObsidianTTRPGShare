@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Movanic Deva"
+statblock: inline
 name: "Movanic Deva"
-hp: 195
-ac: 30
-modifier: 22
 level: 10
 ---
-### Movanic Deva
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Medium"
 trait_03: "Angel"
 trait_04: "Celestial"
+modifier: 22
 perception:
   - name: "Perception"
     desc: "Perception +22; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +21 (1d20+21); __Ref__: +17 (1d20+17); __Will__: +19 (1d20+19);"
+hp: 195
 health:
   - name: HP
     desc: "195;  __Immunities__ negative; __Weaknesses__ evil 10;"
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 14."
 ```
 
-### Encounter
 ```encounter-table
 name: Movanic Deva
 creatures:

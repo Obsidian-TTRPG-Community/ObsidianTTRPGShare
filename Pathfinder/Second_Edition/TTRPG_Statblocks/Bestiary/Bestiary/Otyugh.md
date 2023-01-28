@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Otyugh"
+statblock: inline
 name: "Otyugh"
-hp: 70
-ac: 20
-modifier: 10
 level: 4
 ---
-### Otyugh
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Large"
 trait_03: "Aberration"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +12 (1d20+12); __Ref__: +8 (1d20+8); __Will__: +10 (1d20+10);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Immunities__ disease;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary_, page 258."
 ```
 
-### Encounter
 ```encounter-table
 name: Otyugh
 creatures:

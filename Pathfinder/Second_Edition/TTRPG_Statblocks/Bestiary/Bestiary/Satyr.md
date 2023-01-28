@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Satyr"
+statblock: inline
 name: "Satyr"
-hp: 80
-ac: 19
-modifier: 10
 level: 4
 ---
-### Satyr
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CN"
 size: "Medium"
 trait_03: "Fey"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +11 (1d20+11); __Will__: +12 (1d20+12);"
+hp: 80
 health:
   - name: HP
     desc: "80; "
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 284."
 ```
 
-### Encounter
 ```encounter-table
 name: Satyr
 creatures:

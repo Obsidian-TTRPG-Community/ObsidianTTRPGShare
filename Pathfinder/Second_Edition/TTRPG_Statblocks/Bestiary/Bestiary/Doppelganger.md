@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Doppelganger"
+statblock: inline
 name: "Doppelganger"
-hp: 50
-ac: 18
-modifier: 7
 level: 3
 ---
-### Doppelganger
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Medium"
 trait_04: "Humanoid"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +5 (1d20+5); __Ref__: +10 (1d20+10); __Will__: +11 (1d20+11);"
+hp: 50
 health:
   - name: HP
     desc: "50; "
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 103."
 ```
 
-### Encounter
 ```encounter-table
 name: Doppelganger
 creatures:

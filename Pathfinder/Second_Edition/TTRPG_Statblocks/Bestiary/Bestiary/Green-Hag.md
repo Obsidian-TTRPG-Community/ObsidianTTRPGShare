@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Green Hag"
+statblock: inline
 name: "Green Hag"
-hp: 70
-ac: 21
-modifier: 10
 level: 4
 ---
-### Green Hag
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Hag"
 trait_04: "Humanoid"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -56,6 +54,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +11 (1d20+11); __Will__: +12 (1d20+12);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Weaknesses__ cold iron 5;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 201."
 ```
 
-### Encounter
 ```encounter-table
 name: Green Hag
 creatures:

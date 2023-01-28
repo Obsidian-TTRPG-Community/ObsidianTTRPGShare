@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Sea Devil Brute"
+statblock: inline
 name: "Sea Devil Brute"
-hp: 60
-ac: 21
-modifier: 7
 level: 4
 ---
-### Sea Devil Brute
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ trait_03: "Amphibious"
 trait_04: "Devil"
 trait_05: "Humanoid"
 trait_06: "Sea"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__, __wavesense 30__;"
@@ -55,6 +53,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +11 (1d20+11); __Will__: +9 (1d20+9);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 287."
 ```
 
-### Encounter
 ```encounter-table
 name: Sea Devil Brute
 creatures:

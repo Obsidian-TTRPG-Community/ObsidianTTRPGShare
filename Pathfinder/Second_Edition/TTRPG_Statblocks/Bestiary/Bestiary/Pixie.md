@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Pixie"
+statblock: inline
 name: "Pixie"
-hp: 40
-ac: 23
-modifier: 12
 level: 4
 ---
-### Pixie
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CN"
 size: "Small"
 trait_03: "Fey"
 trait_04: "Sprite"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __low-light vision__;"
@@ -47,6 +45,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +8 (1d20+8); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 309."
 ```
 
-### Encounter
 ```encounter-table
 name: Pixie
 creatures:

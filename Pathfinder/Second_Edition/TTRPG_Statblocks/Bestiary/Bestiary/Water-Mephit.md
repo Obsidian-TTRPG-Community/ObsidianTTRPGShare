@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Water Mephit"
+statblock: inline
 name: "Water Mephit"
-hp: 20
-ac: 16
-modifier: 3
 level: 1
 ---
-### Water Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Small"
 trait_03: "Aquatic"
 trait_04: "Elemental"
 trait_05: "Water"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +11 (1d20+11); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20; fast healing 2 (while underwater); __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 151."
 ```
 
-### Encounter
 ```encounter-table
 name: Water Mephit
 creatures:

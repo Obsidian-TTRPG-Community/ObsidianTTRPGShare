@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Iguanodon"
+statblock: inline
 name: "Iguanodon"
-hp: 95
-ac: 24
-modifier: 14
 level: 6
 ---
-### Iguanodon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Animal"
 trait_04: "Dinosaur"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __low-light vision__, __imprecise scent 30__;"
@@ -43,6 +41,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +16 (1d20+16); __Ref__: +12 (1d20+12); __Will__: +14 (1d20+14);"
+hp: 95
 health:
   - name: HP
     desc: "95; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 82."
 ```
 
-### Encounter
 ```encounter-table
 name: Iguanodon
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Scarecrow"
+statblock: inline
 name: "Scarecrow"
-hp: 60
-ac: 19
-modifier: 11
 level: 4
 ---
-### Scarecrow
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "N"
 size: "Medium"
 trait_03: "Construct"
+modifier: 11
 perception:
   - name: "Perception"
     desc: "Perception +11; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +13 (1d20+13); __Ref__: +8 (1d20+8); __Will__: +11 (1d20+11);"
+hp: 60
 health:
   - name: HP
     desc: "60;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Weaknesses__ fire 5;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 232."
 ```
 
-### Encounter
 ```encounter-table
 name: Scarecrow
 creatures:

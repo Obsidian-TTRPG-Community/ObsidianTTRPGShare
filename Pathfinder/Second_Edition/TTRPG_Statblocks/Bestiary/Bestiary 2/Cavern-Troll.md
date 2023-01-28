@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Cavern Troll"
+statblock: inline
 name: "Cavern Troll"
-hp: 135
-ac: 22
-modifier: 14
 level: 6
 ---
-### Cavern Troll
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Large"
 trait_04: "Earth"
 trait_05: "Giant"
 trait_06: "Troll"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -57,6 +55,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +18 (1d20+18); __Ref__: +13 (1d20+13); __Will__: +8 (1d20+8);"
+hp: 135
 health:
   - name: HP
     desc: "135; [[regeneration]] 20 (deactivated by acid or sonic); __Immunities__ bleed;"
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 265."
 ```
 
-### Encounter
 ```encounter-table
 name: Cavern Troll
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Melody On The Wind"
+statblock: inline
 name: "Melody On The Wind"
-hp: 170
-ac: 30
-modifier: 21
 level: 10
 ---
-### Melody On The Wind
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Air"
 trait_04: "Elemental"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __darkvision__;"
@@ -53,6 +51,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +16 (1d20+16); __Ref__: +22 (1d20+22); __Will__: +19 (1d20+19);"
+hp: 170
 health:
   - name: HP
     desc: "170;  __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 107."
 ```
 
-### Encounter
 ```encounter-table
 name: Melody On The Wind
 creatures:

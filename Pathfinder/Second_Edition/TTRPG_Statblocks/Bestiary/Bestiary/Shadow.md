@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Shadow"
+statblock: inline
 name: "Shadow"
-hp: 40
-ac: 20
-modifier: 10
 level: 4
 ---
-### Shadow
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Incorporeal"
 trait_04: "Undead"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +8 (1d20+8); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 40
 health:
   - name: HP
     desc: "40;  __Immunities__ poison, precision, death effects, disease, paralyzed, unconscious; __Weaknesses__ light vulnerability ; __Resistances__ all 5 (except force, ghost touch, or positive; double resistance against non-magical)"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 289."
 ```
 
-### Encounter
 ```encounter-table
 name: Shadow
 creatures:

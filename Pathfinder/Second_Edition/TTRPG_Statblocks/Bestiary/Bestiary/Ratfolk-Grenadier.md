@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Ratfolk Grenadier"
+statblock: inline
 name: "Ratfolk Grenadier"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Ratfolk Grenadier
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LN"
 size: "Small"
 trait_03: "Humanoid"
 trait_04: "Ratfolk"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -57,6 +55,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +11 (1d20+11); __Ref__: +13 (1d20+13); __Will__: +9 (1d20+9);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 277."
 ```
 
-### Encounter
 ```encounter-table
 name: Ratfolk Grenadier
 creatures:

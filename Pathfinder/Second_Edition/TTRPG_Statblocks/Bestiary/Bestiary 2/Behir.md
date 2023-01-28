@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Behir"
+statblock: inline
 name: "Behir"
-hp: 140
-ac: 27
-modifier: 17
 level: 8
 ---
-### Behir
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Beast"
 trait_04: "Electricity"
+modifier: 17
 perception:
   - name: "Perception"
     desc: "Perception +17; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +19 (1d20+19); __Ref__: +16 (1d20+16); __Will__: +15 (1d20+15);"
+hp: 140
 health:
   - name: HP
     desc: "140; "
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 38."
 ```
 
-### Encounter
 ```encounter-table
 name: Behir
 creatures:

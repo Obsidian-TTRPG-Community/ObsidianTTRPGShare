@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Ancient Crystal Dragon"
+statblock: inline
 name: "Ancient Crystal Dragon"
-hp: 275
-ac: 42
-modifier: 28
 level: 16
 ---
-### Ancient Crystal Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Gargantuan"
 trait_04: "Dragon"
 trait_05: "Earth"
 trait_06: "Elemental"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __imprecise scent 60__, __imprecise [[tremorsense]] 60__;"
@@ -62,6 +60,7 @@ ac: 42
 armorclass:
   - name: AC
     desc: "42; __Fort__: +30 (1d20+30); __Ref__: +27 (1d20+27); __Will__: +29 (1d20+29);"
+hp: 275
 health:
   - name: HP
     desc: "275;  __Immunities__ paralyzed, sleep; __Weaknesses__ sonic 15;"
@@ -81,7 +80,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 92."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Crystal Dragon
 creatures:

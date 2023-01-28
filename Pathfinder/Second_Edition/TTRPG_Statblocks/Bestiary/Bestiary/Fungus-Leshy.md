@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Fungus Leshy"
+statblock: inline
 name: "Fungus Leshy"
-hp: 30
-ac: 19
-modifier: 6
 level: 2
 ---
-### Fungus Leshy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Fungus"
 trait_04: "Leshy"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 30
 health:
   - name: HP
     desc: "30; "
@@ -68,7 +67,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 219."
 ```
 
-### Encounter
 ```encounter-table
 name: Fungus Leshy
 creatures:

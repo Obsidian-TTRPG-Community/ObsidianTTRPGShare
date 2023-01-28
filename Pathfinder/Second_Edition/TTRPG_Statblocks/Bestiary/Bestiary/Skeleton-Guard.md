@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Skeleton Guard"
+statblock: inline
 name: "Skeleton Guard"
-hp: 4
-ac: 16
-modifier: 2
 level: -1
 ---
-### Skeleton Guard
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Mindless"
 trait_04: "Skeleton"
 trait_05: "Undead"
+modifier: 2
 perception:
   - name: "Perception"
     desc: "Perception +2; __darkvision__;"
@@ -41,6 +39,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +2 (1d20+2); __Ref__: +8 (1d20+8); __Will__: +2 (1d20+2);"
+hp: 4
 health:
   - name: HP
     desc: "4; negative healing; __Immunities__ mental, poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary_, page 298."
 ```
 
-### Encounter
 ```encounter-table
 name: Skeleton Guard
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Dark Naga"
+statblock: inline
 name: "Dark Naga"
-hp: 115
-ac: 27
-modifier: 15
 level: 7
 ---
-### Dark Naga
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LE"
 size: "Large"
 trait_04: "Aberration"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__, __mind reading 30__;"
@@ -47,6 +45,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +15 (1d20+15); __Ref__: +17 (1d20+17); __Will__: +15 (1d20+15);"
+hp: 115
 health:
   - name: HP
     desc: "115; "
@@ -64,7 +63,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 242."
 ```
 
-### Encounter
 ```encounter-table
 name: Dark Naga
 creatures:

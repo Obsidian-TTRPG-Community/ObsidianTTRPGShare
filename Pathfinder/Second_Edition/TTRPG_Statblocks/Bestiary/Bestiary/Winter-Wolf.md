@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Winter Wolf"
+statblock: inline
 name: "Winter Wolf"
-hp: 70
-ac: 23
-modifier: 14
 level: 5
 ---
-### Winter Wolf
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 5"
 alignment: "NE"
 size: "Large"
 trait_03: "Beast"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise scent 30__;"
@@ -50,6 +48,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +13 (1d20+13); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 70
 health:
   - name: HP
     desc: "70;  __Immunities__ cold; __Weaknesses__ fire 5;"
@@ -62,7 +61,6 @@ attacks:
 sourcebook: "_Bestiary_, page 322."
 ```
 
-### Encounter
 ```encounter-table
 name: Winter Wolf
 creatures:

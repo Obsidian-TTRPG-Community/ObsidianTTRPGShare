@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Faceless Stalker"
+statblock: inline
 name: "Faceless Stalker"
-hp: 60
-ac: 21
-modifier: 10
 level: 4
 ---
-### Faceless Stalker
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CE"
 size: "Medium"
 trait_03: "Aberration"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +9 (1d20+9); __Ref__: +9 (1d20+9); __Will__: +12 (1d20+12);"
+hp: 60
 health:
   - name: HP
     desc: "60; "
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 13."
 ```
 
-### Encounter
 ```encounter-table
 name: Faceless Stalker
 creatures:

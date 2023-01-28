@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Hodag"
+statblock: inline
 name: "Hodag"
-hp: 90
-ac: 24
-modifier: 14
 level: 6
 ---
-### Hodag
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Large"
 trait_04: "Beast"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __imprecise scent 30__;"
@@ -52,6 +50,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +17 (1d20+17); __Ref__: +14 (1d20+14); __Will__: +12 (1d20+12);"
+hp: 90
 health:
   - name: HP
     desc: "90; "
@@ -68,7 +67,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 145."
 ```
 
-### Encounter
 ```encounter-table
 name: Hodag
 creatures:

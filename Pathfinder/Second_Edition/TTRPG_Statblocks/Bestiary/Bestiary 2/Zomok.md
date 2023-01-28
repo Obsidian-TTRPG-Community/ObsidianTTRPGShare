@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Zomok"
+statblock: inline
 name: "Zomok"
-hp: 310
-ac: 39
-modifier: 28
 level: 16
 ---
-### Zomok
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "N"
 size: "Gargantuan"
 trait_03: "Dragon"
 trait_04: "Plant"
+modifier: 28
 perception:
   - name: "Perception"
     desc: "Perception +28; __darkvision__, __imprecise [[tremorsense]] 60__;"
@@ -51,6 +49,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +31 (1d20+31); __Ref__: +25 (1d20+25); __Will__: +28 (1d20+28);"
+hp: 310
 health:
   - name: HP
     desc: "310;  __Immunities__ poison, paralyzed, sleep, stunned;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 303."
 ```
 
-### Encounter
 ```encounter-table
 name: Zomok
 creatures:

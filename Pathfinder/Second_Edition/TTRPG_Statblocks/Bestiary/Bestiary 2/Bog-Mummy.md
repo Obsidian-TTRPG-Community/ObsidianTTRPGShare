@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Bog Mummy"
+statblock: inline
 name: "Bog Mummy"
-hp: 85
-ac: 21
-modifier: 12
 level: 5
 ---
-### Bog Mummy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Mummy"
 trait_04: "Undead"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__, __imprecise [[tremorsense]] 30__;"
@@ -51,6 +49,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +9 (1d20+9); __Will__: +14 (1d20+14);"
+hp: 85
 health:
   - name: HP
     desc: "85; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Weaknesses__ cold 5;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 177."
 ```
 
-### Encounter
 ```encounter-table
 name: Bog Mummy
 creatures:

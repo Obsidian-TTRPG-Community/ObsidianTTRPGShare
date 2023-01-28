@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Skeletal Champion"
+statblock: inline
 name: "Skeletal Champion"
-hp: 25
-ac: 19
-modifier: 8
 level: 2
 ---
-### Skeletal Champion
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Skeleton"
 trait_04: "Undead"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19;  (21 with shield raised); __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +6 (1d20+6);"
+hp: 25
 health:
   - name: HP
     desc: "25; negative healing; __Immunities__ poison, death effects, disease, paralyzed, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary_, page 298."
 ```
 
-### Encounter
 ```encounter-table
 name: Skeletal Champion
 creatures:

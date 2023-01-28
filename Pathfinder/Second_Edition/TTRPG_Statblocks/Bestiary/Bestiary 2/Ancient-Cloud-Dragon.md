@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Ancient Cloud Dragon"
+statblock: inline
 name: "Ancient Cloud Dragon"
-hp: 355
-ac: 44
-modifier: 34
 level: 19
 ---
-### Ancient Cloud Dragon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ size: "Gargantuan"
 trait_04: "Air"
 trait_05: "Dragon"
 trait_06: "Elemental"
+modifier: 34
 perception:
   - name: "Perception"
     desc: "Perception +34; __darkvision__, __mist vision__, __imprecise scent 60__;"
@@ -65,6 +63,7 @@ ac: 44
 armorclass:
   - name: AC
     desc: "44; __Fort__: +36 (1d20+36); __Ref__: +32 (1d20+32); __Will__: +34 (1d20+34);"
+hp: 355
 health:
   - name: HP
     desc: "355;  __Immunities__ electricity, paralyzed, sleep;"
@@ -86,7 +85,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 90."
 ```
 
-### Encounter
 ```encounter-table
 name: Ancient Cloud Dragon
 creatures:

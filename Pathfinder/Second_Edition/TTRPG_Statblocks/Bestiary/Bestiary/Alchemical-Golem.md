@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Alchemical Golem"
+statblock: inline
 name: "Alchemical Golem"
-hp: 150
-ac: 27
-modifier: 15
 level: 9
 ---
-### Alchemical Golem
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -28,6 +25,7 @@ trait_04: "Alchemical"
 trait_05: "Construct"
 trait_06: "Golem"
 trait_07: "Mindless"
+modifier: 15
 perception:
   - name: "Perception"
     desc: "Perception +15; __darkvision__;"
@@ -57,6 +55,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +20 (1d20+20); __Ref__: +19 (1d20+19); __Will__: +15 (1d20+15);"
+hp: 150
 health:
   - name: HP
     desc: "150;  __Immunities__ acid, bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, magic (see below), necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Resistances__ physical 12 (except adamantine or bludgeoning)"
@@ -71,7 +70,6 @@ attacks:
 sourcebook: "_Bestiary_, page 185."
 ```
 
-### Encounter
 ```encounter-table
 name: Alchemical Golem
 creatures:

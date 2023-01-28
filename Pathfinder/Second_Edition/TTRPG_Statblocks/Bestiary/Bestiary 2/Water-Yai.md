@@ -7,14 +7,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Water Yai"
+statblock: inline
 name: "Water Yai"
-hp: 295
-ac: 40
-modifier: 32
 level: 17
 ---
-### Water Yai
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -30,6 +27,7 @@ trait_04: "Giant"
 trait_05: "Humanoid"
 trait_06: "Oni"
 trait_07: "Water"
+modifier: 32
 perception:
   - name: "Perception"
     desc: "Perception +32; __greater darkvision__;"
@@ -59,6 +57,7 @@ ac: 40
 armorclass:
   - name: AC
     desc: "40; __Fort__: +27 (1d20+27); __Ref__: +29 (1d20+29); __Will__: +34 (1d20+34);"
+hp: 295
 health:
   - name: HP
     desc: "295; [[regeneration]] 15 (deactivated by acid and fire);"
@@ -80,7 +79,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 191."
 ```
 
-### Encounter
 ```encounter-table
 name: Water Yai
 creatures:

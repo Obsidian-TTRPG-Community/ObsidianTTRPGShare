@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Animated Statue"
+statblock: inline
 name: "Animated Statue"
-hp: 35
-ac: 19
-modifier: 9
 level: 3
 ---
-### Animated Statue
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Medium"
 trait_03: "Construct"
 trait_04: "Earth"
 trait_05: "Mindless"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __darkvision__;"
@@ -44,6 +42,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19;  (15 when broken); __Fort__: +12 (1d20+12); __Ref__: +5 (1d20+5); __Will__: +5 (1d20+5);"
+hp: 35
 health:
   - name: HP
     desc: "35;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -56,7 +55,6 @@ attacks:
 sourcebook: "_Bestiary_, page 21."
 ```
 
-### Encounter
 ```encounter-table
 name: Animated Statue
 creatures:

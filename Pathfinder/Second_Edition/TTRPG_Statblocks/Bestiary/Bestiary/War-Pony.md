@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#War Pony"
+statblock: inline
 name: "War Pony"
-hp: 20
-ac: 16
-modifier: 5
 level: 1
 ---
-### War Pony
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __low-light vision__, __imprecise scent 30__;"
@@ -45,6 +43,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +8 (1d20+8); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary_, page 209."
 ```
 
-### Encounter
 ```encounter-table
 name: War Pony
 creatures:

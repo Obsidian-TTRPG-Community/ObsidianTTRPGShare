@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9
 statblock: true
-statblock-link: "#Firewyrm"
+statblock: inline
 name: "Firewyrm"
-hp: 165
-ac: 28
-modifier: 16
 level: 9
 ---
-### Firewyrm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Huge"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__, __smoke vision__;"
@@ -52,6 +50,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +20 (1d20+20); __Will__: +15 (1d20+15);"
+hp: 165
 health:
   - name: HP
     desc: "165; explosion; __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 10;"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 149."
 ```
 
-### Encounter
 ```encounter-table
 name: Firewyrm
 creatures:

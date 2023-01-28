@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Bunyip"
+statblock: inline
 name: "Bunyip"
-hp: 45
-ac: 19
-modifier: 10
 level: 3
 ---
-### Bunyip
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Animal"
 trait_04: "Aquatic"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __blood scent__, __darkvision__, __imprecise scent 100__;"
@@ -53,6 +51,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +6 (1d20+6);"
+hp: 45
 health:
   - name: HP
     desc: "45; "
@@ -67,7 +66,6 @@ attacks:
 sourcebook: "_Bestiary_, page 49."
 ```
 
-### Encounter
 ```encounter-table
 name: Bunyip
 creatures:

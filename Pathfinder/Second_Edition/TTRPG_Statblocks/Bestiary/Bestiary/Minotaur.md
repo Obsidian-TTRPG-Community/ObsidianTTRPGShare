@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Minotaur"
+statblock: inline
 name: "Minotaur"
-hp: 70
-ac: 20
-modifier: 12
 level: 4
 ---
-### Minotaur
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 4"
 alignment: "CE"
 size: "Large"
 trait_03: "Humanoid"
+modifier: 12
 perception:
   - name: "Perception"
     desc: "Perception +12; __darkvision__;"
@@ -52,6 +50,7 @@ ac: 20
 armorclass:
   - name: AC
     desc: "20; __Fort__: +13 (1d20+13); __Ref__: +8 (1d20+8); __Will__: +10 (1d20+10);"
+hp: 70
 health:
   - name: HP
     desc: "70; "
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 237."
 ```
 
-### Encounter
 ```encounter-table
 name: Minotaur
 creatures:

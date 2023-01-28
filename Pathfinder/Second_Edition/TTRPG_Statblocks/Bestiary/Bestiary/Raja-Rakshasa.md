@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Raja Rakshasa"
+statblock: inline
 name: "Raja Rakshasa"
-hp: 155
-ac: 30
-modifier: 19
 level: 10
 ---
-### Raja Rakshasa
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Fiend"
 trait_04: "Rakshasa"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +19 (1d20+19); __Ref__: +21 (1d20+21); __Will__: +18 (1d20+18);"
+hp: 155
 health:
   - name: HP
     desc: "155;  __Weaknesses__ good 10; __Resistances__ physical 10 (except piercing)"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 275."
 ```
 
-### Encounter
 ```encounter-table
 name: Raja Rakshasa
 creatures:

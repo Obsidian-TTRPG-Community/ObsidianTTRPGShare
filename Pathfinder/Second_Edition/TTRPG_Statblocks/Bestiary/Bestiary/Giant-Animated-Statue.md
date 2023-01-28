@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Giant Animated Statue"
+statblock: inline
 name: "Giant Animated Statue"
-hp: 100
-ac: 26
-modifier: 13
 level: 7
 ---
-### Giant Animated Statue
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Huge"
 trait_03: "Construct"
 trait_04: "Earth"
 trait_05: "Mindless"
+modifier: 13
 perception:
   - name: "Perception"
     desc: "Perception +13; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26;  (22 when broken); __Fort__: +17 (1d20+17); __Ref__: +10 (1d20+10); __Will__: +9 (1d20+9);"
+hp: 100
 health:
   - name: HP
     desc: "100;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 21."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Animated Statue
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Ankou"
+statblock: inline
 name: "Ankou"
-hp: 280
-ac: 36
-modifier: 25
 level: 14
 ---
-### Ankou
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 14"
 alignment: "LE"
 size: "Large"
 trait_03: "Fey"
+modifier: 25
 perception:
   - name: "Perception"
     desc: "Perception +25; __lifesense 120__, __low-light vision__;"
@@ -45,6 +43,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +23 (1d20+23); __Ref__: +28 (1d20+28); __Will__: +24 (1d20+24);"
+hp: 280
 health:
   - name: HP
     desc: "280; "
@@ -62,7 +61,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 19."
 ```
 
-### Encounter
 ```encounter-table
 name: Ankou
 creatures:

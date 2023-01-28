@@ -6,14 +6,11 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Leng Spider"
+statblock: inline
 name: "Leng Spider"
-hp: 235
-ac: 34
-modifier: 24
 level: 13
 ---
-### Leng Spider
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ alignment: "CE"
 size: "Huge"
 trait_04: "Aberration"
 trait_05: "Dream"
+modifier: 24
 perception:
   - name: "Perception"
     desc: "Perception +24; __darkvision__, __detect magic__, __greater web sense__;"
@@ -53,6 +51,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +22 (1d20+22); __Ref__: +26 (1d20+26); __Will__: +24 (1d20+24);"
+hp: 235
 health:
   - name: HP
     desc: "235; fast healing 10; __Immunities__ cold, confused;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 157."
 ```
 
-### Encounter
 ```encounter-table
 name: Leng Spider
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Coil Spy"
+statblock: inline
 name: "Coil Spy"
-hp: 48
-ac: 22
-modifier: 10
 level: 4
 ---
-### Coil Spy
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Humanoid"
 trait_05: "Serpentfolk"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __imprecise scent 30__;"
@@ -51,6 +49,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +9 (1d20+9); __Ref__: +12 (1d20+12); __Will__: +10 (1d20+10);"
+hp: 48
 health:
   - name: HP
     desc: "48; "
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 238."
 ```
 
-### Encounter
 ```encounter-table
 name: Coil Spy
 creatures:

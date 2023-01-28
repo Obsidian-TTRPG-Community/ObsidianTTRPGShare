@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/15
 statblock: true
-statblock-link: "#Shoal Linnorm"
+statblock: inline
 name: "Shoal Linnorm"
-hp: 295
-ac: 38
-modifier: 27
 level: 15
 ---
-### Shoal Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_04: "Amphibious"
 trait_05: "Dragon"
+modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -52,6 +50,7 @@ ac: 38
 armorclass:
   - name: AC
     desc: "38; __Fort__: +29 (1d20+29); __Ref__: +25 (1d20+25); __Will__: +22 (1d20+22);"
+hp: 295
 health:
   - name: HP
     desc: "295; [[regeneration]] 10 (deactivated; __Immunities__ fire, curse, paralyzed, sleep; __Weaknesses__ cold iron 10;"
@@ -71,7 +70,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 164."
 ```
 
-### Encounter
 ```encounter-table
 name: Shoal Linnorm
 creatures:

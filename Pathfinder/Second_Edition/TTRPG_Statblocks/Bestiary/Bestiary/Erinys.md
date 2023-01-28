@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Erinys"
+statblock: inline
 name: "Erinys"
-hp: 120
-ac: 27
-modifier: 18
 level: 8
 ---
-### Erinys
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Devil"
 trait_04: "Fiend"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __greater darkvision__, __true seeing__;"
@@ -51,6 +49,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +17 (1d20+17); __Ref__: +19 (1d20+19); __Will__: +16 (1d20+16);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ fire; __Weaknesses__ good 5;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 89."
 ```
 
-### Encounter
 ```encounter-table
 name: Erinys
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Moonflower"
+statblock: inline
 name: "Moonflower"
-hp: 120
-ac: 24
-modifier: 16
 level: 8
 ---
-### Moonflower
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Huge"
 trait_04: "Plant"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +18 (1d20+18); __Ref__: +10 (1d20+10); __Will__: +16 (1d20+16);"
+hp: 120
 health:
   - name: HP
     desc: "120; fast healing 10; __Immunities__ electricity; __Weaknesses__ fire 10;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 173."
 ```
 
-### Encounter
 ```encounter-table
 name: Moonflower
 creatures:

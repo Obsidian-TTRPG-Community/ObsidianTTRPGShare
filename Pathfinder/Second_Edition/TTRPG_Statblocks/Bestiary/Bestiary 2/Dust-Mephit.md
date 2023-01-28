@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Dust Mephit"
+statblock: inline
 name: "Dust Mephit"
-hp: 16
-ac: 17
-modifier: 3
 level: 1
 ---
-### Dust Mephit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -27,6 +24,7 @@ size: "Small"
 trait_04: "Air"
 trait_05: "Earth"
 trait_06: "Elemental"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +5 (1d20+5);"
+hp: 16
 health:
   - name: HP
     desc: "16; fast healing 2 (in dust or sand); __Immunities__ bleed, poison, paralyzed, sleep;"
@@ -61,7 +60,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 112."
 ```
 
-### Encounter
 ```encounter-table
 name: Dust Mephit
 creatures:

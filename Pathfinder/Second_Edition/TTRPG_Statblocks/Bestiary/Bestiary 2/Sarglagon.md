@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Sarglagon"
+statblock: inline
 name: "Sarglagon"
-hp: 120
-ac: 27
-modifier: 18
 level: 8
 ---
-### Sarglagon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Large"
 trait_03: "Amphibious"
 trait_04: "Devil"
 trait_05: "Fiend"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __greater darkvision__, __see invisibility__;"
@@ -52,6 +50,7 @@ ac: 27
 armorclass:
   - name: AC
     desc: "27; __Fort__: +18 (1d20+18); __Ref__: +13 (1d20+13); __Will__: +16 (1d20+16);"
+hp: 120
 health:
   - name: HP
     desc: "120;  __Immunities__ fire; __Weaknesses__ good 5; __Resistances__ physical 5 (except silver), poison 10"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 73."
 ```
 
-### Encounter
 ```encounter-table
 name: Sarglagon
 creatures:

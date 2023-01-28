@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/19
 statblock: true
-statblock-link: "#Star Archon"
+statblock: inline
 name: "Star Archon"
-hp: 400
-ac: 43
-modifier: 35
 level: 19
 ---
-### Star Archon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LG"
 size: "Medium"
 trait_03: "Archon"
 trait_04: "Celestial"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __darkvision__, __true seeing__;"
@@ -56,6 +54,7 @@ ac: 43
 armorclass:
   - name: AC
     desc: "43; __Fort__: +31 (1d20+31); __Ref__: +34 (1d20+34); __Will__: +34 (1d20+34);"
+hp: 400
 health:
   - name: HP
     desc: "400;  __Weaknesses__ evil 15; __Resistances__ fire 15"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 24."
 ```
 
-### Encounter
 ```encounter-table
 name: Star Archon
 creatures:

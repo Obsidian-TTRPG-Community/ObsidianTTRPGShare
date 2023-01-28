@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/celestial
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Cassisian"
+statblock: inline
 name: "Cassisian"
-hp: 20
-ac: 18
-modifier: 6
 level: 1
 ---
-### Cassisian
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NG"
 size: "Tiny"
 trait_03: "Angel"
 trait_04: "Celestial"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +7 (1d20+7); __Ref__: +6 (1d20+6); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20;  __Weaknesses__ evil 3; __Resistances__ cold 3, fire 3"
@@ -66,7 +65,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 16."
 ```
 
-### Encounter
 ```encounter-table
 name: Cassisian
 creatures:

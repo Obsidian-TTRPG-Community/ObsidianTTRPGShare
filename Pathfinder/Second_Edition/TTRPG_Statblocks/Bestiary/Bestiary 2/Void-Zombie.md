@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Void Zombie"
+statblock: inline
 name: "Void Zombie"
-hp: 26
-ac: 13
-modifier: 3
 level: 1
 ---
-### Void Zombie
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_03: "Rare"
 alignment: "N"
 size: "Medium"
 trait_04: "Undead"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 13
 armorclass:
   - name: AC
     desc: "13; __Fort__: +7 (1d20+7); __Ref__: +3 (1d20+3); __Will__: +5 (1d20+5);"
+hp: 26
 health:
   - name: HP
     desc: "26; negative healing; __Immunities__ poison, death effects, disease, paralyzed; __Weaknesses__ salt water 5, slashing 2;"
@@ -60,7 +59,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 288."
 ```
 
-### Encounter
 ```encounter-table
 name: Void Zombie
 creatures:

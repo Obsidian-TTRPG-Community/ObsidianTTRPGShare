@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/21
 statblock: true
-statblock-link: "#Lerritan"
+statblock: inline
 name: "Lerritan"
-hp: 490
-ac: 46
-modifier: 35
 level: 21
 ---
-### Lerritan
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ size: "Gargantuan"
 trait_03: "Earth"
 trait_04: "Elemental"
 trait_05: "Fire"
+modifier: 35
 perception:
   - name: "Perception"
     desc: "Perception +35; __low-light vision__;"
@@ -55,6 +53,7 @@ ac: 46
 armorclass:
   - name: AC
     desc: "46; __Fort__: +38 (1d20+38); __Ref__: +34 (1d20+34); __Will__: +36 (1d20+36);"
+hp: 490
 health:
   - name: HP
     desc: "490;  __Immunities__ fire, poison, paralyzed, sleep; __Weaknesses__ cold 20;"
@@ -74,7 +73,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 159."
 ```
 
-### Encounter
 ```encounter-table
 name: Lerritan
 creatures:

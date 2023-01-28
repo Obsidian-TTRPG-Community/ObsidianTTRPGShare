@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Grothlut"
+statblock: inline
 name: "Grothlut"
-hp: 50
-ac: 19
-modifier: 5
 level: 3
 ---
-### Grothlut
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Aberration"
 trait_04: "Mindless"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +11 (1d20+11); __Ref__: +5 (1d20+5); __Will__: +7 (1d20+7);"
+hp: 50
 health:
   - name: HP
     desc: "50;  __Immunities__ acid, mental;"
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 158."
 ```
 
-### Encounter
 ```encounter-table
 name: Grothlut
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Skum"
+statblock: inline
 name: "Skum"
-hp: 40
-ac: 16
-modifier: 6
 level: 2
 ---
-### Skum
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Amphibious"
 trait_04: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -41,6 +39,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +4 (1d20+4);"
+hp: 40
 health:
   - name: HP
     desc: "40; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 12."
 ```
 
-### Encounter
 ```encounter-table
 name: Skum
 creatures:

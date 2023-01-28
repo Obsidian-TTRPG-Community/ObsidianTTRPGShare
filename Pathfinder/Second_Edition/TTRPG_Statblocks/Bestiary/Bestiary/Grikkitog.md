@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14
 statblock: true
-statblock-link: "#Grikkitog"
+statblock: inline
 name: "Grikkitog"
-hp: 200
-ac: 36
-modifier: 29
 level: 14
 ---
-### Grikkitog
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Huge"
 trait_03: "Aberration"
 trait_04: "Earth"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __darkvision__, __manifold vision__, __imprecise [[tremorsense]] 30__;"
@@ -54,6 +52,7 @@ ac: 36
 armorclass:
   - name: AC
     desc: "36; __Fort__: +28 (1d20+28); __Ref__: +23 (1d20+23); __Will__: +24 (1d20+24);"
+hp: 200
 health:
   - name: HP
     desc: "200;  __Resistances__ all damage 10 (except adamantine)"
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 195."
 ```
 
-### Encounter
 ```encounter-table
 name: Grikkitog
 creatures:

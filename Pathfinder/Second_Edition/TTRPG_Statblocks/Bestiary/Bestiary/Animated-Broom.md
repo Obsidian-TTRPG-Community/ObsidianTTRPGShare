@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/construct
   - pf2e/creature/level/-1
 statblock: true
-statblock-link: "#Animated Broom"
+statblock: inline
 name: "Animated Broom"
-hp: 6
-ac: 16
-modifier: 3
 level: -1
 ---
-### Animated Broom
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Small"
 trait_03: "Construct"
 trait_04: "Mindless"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16;  (14 when broken); __Fort__: +3 (1d20+3); __Ref__: +6 (1d20+6); __Will__: +3 (1d20+3);"
+hp: 6
 health:
   - name: HP
     desc: "6;  __Immunities__ bleed, mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious;"
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary_, page 20."
 ```
 
-### Encounter
 ```encounter-table
 name: Animated Broom
 creatures:

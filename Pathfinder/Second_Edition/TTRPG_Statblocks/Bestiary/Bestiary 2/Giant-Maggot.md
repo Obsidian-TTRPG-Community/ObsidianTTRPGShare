@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Giant Maggot"
+statblock: inline
 name: "Giant Maggot"
-hp: 18
-ac: 13
-modifier: 3
 level: 0
 ---
-### Giant Maggot
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 3
 perception:
   - name: "Perception"
     desc: "Perception +3; __no vision__, __[[tremorsense]] 30__;"
@@ -45,6 +43,7 @@ ac: 13
 armorclass:
   - name: AC
     desc: "13; __Fort__: +9 (1d20+9); __Ref__: +3 (1d20+3); __Will__: +3 (1d20+3);"
+hp: 18
 health:
   - name: HP
     desc: "18; "
@@ -57,7 +56,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 120."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Maggot
 creatures:

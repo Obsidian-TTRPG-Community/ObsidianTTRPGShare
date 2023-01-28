@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Dero Magister"
+statblock: inline
 name: "Dero Magister"
-hp: 65
-ac: 22
-modifier: 8
 level: 5
 ---
-### Dero Magister
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Small"
 trait_04: "Dero"
 trait_05: "Humanoid"
+modifier: 8
 perception:
   - name: "Perception"
     desc: "Perception +8; __darkvision__;"
@@ -51,6 +49,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +10 (1d20+10); __Ref__: +13 (1d20+13); __Will__: +10 (1d20+10);"
+hp: 65
 health:
   - name: HP
     desc: "65;  __Immunities__ confusion; __Weaknesses__ vulnerable to sunlight ;"
@@ -70,7 +69,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 85."
 ```
 
-### Encounter
 ```encounter-table
 name: Dero Magister
 creatures:

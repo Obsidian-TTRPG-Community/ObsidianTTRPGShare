@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Wight"
+statblock: inline
 name: "Wight"
-hp: 50
-ac: 18
-modifier: 10
 level: 3
 ---
-### Wight
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "LE"
 size: "Medium"
 trait_03: "Undead"
 trait_04: "Wight"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -49,6 +47,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +11 (1d20+11); __Ref__: +6 (1d20+6); __Will__: +10 (1d20+10);"
+hp: 50
 health:
   - name: HP
     desc: "50; negative healing; __Immunities__ poison, death effects, disease, paralyze, unconscious;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 332."
 ```
 
-### Encounter
 ```encounter-table
 name: Wight
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/level/21
 statblock: true
-statblock-link: "#Mu Spore"
+statblock: inline
 name: "Mu Spore"
-hp: 350
-ac: 45
-modifier: 36
 level: 21
 ---
-### Mu Spore
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 21"
 alignment: "CN"
 size: "Gargantuan"
 trait_03: "Fungus"
+modifier: 36
 perception:
   - name: "Perception"
     desc: "Perception +36; __low-light vision__, __windsense 240__;"
@@ -63,6 +61,7 @@ ac: 45
 armorclass:
   - name: AC
     desc: "45; __Fort__: +38 (1d20+38); __Ref__: +32 (1d20+32); __Will__: +38 (1d20+38);"
+hp: 350
 health:
   - name: HP
     desc: "350; [[regeneration]] 50 (deactivated by sonic); __Resistances__ acid 20, all 10 except sonic"
@@ -77,7 +76,6 @@ attacks:
 sourcebook: "_Bestiary_, page 238."
 ```
 
-### Encounter
 ```encounter-table
 name: Mu Spore
 creatures:

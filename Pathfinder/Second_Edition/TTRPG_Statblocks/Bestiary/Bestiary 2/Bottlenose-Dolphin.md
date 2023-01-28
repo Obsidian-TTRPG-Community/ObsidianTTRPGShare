@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
 statblock: true
-statblock-link: "#Bottlenose Dolphin"
+statblock: inline
 name: "Bottlenose Dolphin"
-hp: 16
-ac: 15
-modifier: 7
 level: 0
 ---
-### Bottlenose Dolphin
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 0"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __aquatic echolocation 120__, __low-light vision__;"
@@ -47,6 +45,7 @@ ac: 15
 armorclass:
   - name: AC
     desc: "15; __Fort__: +6 (1d20+6); __Ref__: +7 (1d20+7); __Will__: +5 (1d20+5);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 84."
 ```
 
-### Encounter
 ```encounter-table
 name: Bottlenose Dolphin
 creatures:

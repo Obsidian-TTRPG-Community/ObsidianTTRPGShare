@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Warsworn"
+statblock: inline
 name: "Warsworn"
-hp: 350
-ac: 37
-modifier: 27
 level: 16
 ---
-### Warsworn
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "NE"
 size: "Gargantuan"
 trait_04: "Undead"
+modifier: 27
 perception:
   - name: "Perception"
     desc: "Perception +27; __darkvision__;"
@@ -57,6 +55,7 @@ ac: 37
 armorclass:
   - name: AC
     desc: "37; __Fort__: +29 (1d20+29); __Ref__: +25 (1d20+25); __Will__: +27 (1d20+27);"
+hp: 350
 health:
   - name: HP
     desc: "350; negative healing; __Immunities__ poison, death effects, disease, paralyze, unconscious;"
@@ -73,7 +72,6 @@ attacks:
 sourcebook: "_Bestiary_, page 323."
 ```
 
-### Encounter
 ```encounter-table
 name: Warsworn
 creatures:

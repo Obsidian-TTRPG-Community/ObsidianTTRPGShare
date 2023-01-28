@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
 statblock: true
-statblock-link: "#Living Wildfire"
+statblock: inline
 name: "Living Wildfire"
-hp: 80
-ac: 22
-modifier: 10
 level: 5
 ---
-### Living Wildfire
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Medium"
 trait_03: "Elemental"
 trait_04: "Fire"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__, __smoke vision__;"
@@ -47,6 +45,7 @@ ac: 22
 armorclass:
   - name: AC
     desc: "22; __Fort__: +11 (1d20+11); __Ref__: +15 (1d20+15); __Will__: +10 (1d20+10);"
+hp: 80
 health:
   - name: HP
     desc: "80; explosion; __Immunities__ bleed, fire, poison, paralyzed, sleep; __Weaknesses__ cold 5;"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 148."
 ```
 
-### Encounter
 ```encounter-table
 name: Living Wildfire
 creatures:

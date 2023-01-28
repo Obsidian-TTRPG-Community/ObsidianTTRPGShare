@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Giant Tick"
+statblock: inline
 name: "Giant Tick"
-hp: 20
-ac: 16
-modifier: 6
 level: 1
 ---
-### Giant Tick
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 1"
 alignment: "N"
 size: "Small"
 trait_03: "Animal"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __darkvision__;"
@@ -46,6 +44,7 @@ ac: 16
 armorclass:
   - name: AC
     desc: "16; __Fort__: +9 (1d20+9); __Ref__: +6 (1d20+6); __Will__: +4 (1d20+4);"
+hp: 20
 health:
   - name: HP
     desc: "20; "
@@ -58,7 +57,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 260."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Tick
 creatures:

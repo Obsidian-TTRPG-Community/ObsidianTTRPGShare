@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/7
 statblock: true
-statblock-link: "#Drainberry Bush"
+statblock: inline
 name: "Drainberry Bush"
-hp: 135
-ac: 23
-modifier: 16
 level: 7
 ---
-### Drainberry Bush
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 7"
 alignment: "N"
 size: "Large"
 trait_03: "Plant"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __lifesense 120__;"
@@ -52,6 +50,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +17 (1d20+17); __Ref__: +13 (1d20+13); __Will__: +13 (1d20+13);"
+hp: 135
 health:
   - name: HP
     desc: "135;  __Weaknesses__ fire 5;"
@@ -64,7 +63,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 99."
 ```
 
-### Encounter
 ```encounter-table
 name: Drainberry Bush
 creatures:

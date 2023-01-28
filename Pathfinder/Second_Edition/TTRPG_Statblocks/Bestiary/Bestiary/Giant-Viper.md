@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
 statblock: true
-statblock-link: "#Giant Viper"
+statblock: inline
 name: "Giant Viper"
-hp: 26
-ac: 19
-modifier: 7
 level: 2
 ---
-### Giant Viper
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 2"
 alignment: "N"
 size: "Medium"
 trait_03: "Animal"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __low-light vision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 19
 armorclass:
   - name: AC
     desc: "19; __Fort__: +8 (1d20+8); __Ref__: +11 (1d20+11); __Will__: +6 (1d20+6);"
+hp: 26
 health:
   - name: HP
     desc: "26; "
@@ -59,7 +58,6 @@ attacks:
 sourcebook: "_Bestiary_, page 303."
 ```
 
-### Encounter
 ```encounter-table
 name: Giant Viper
 creatures:

@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Goblin War Chanter"
+statblock: inline
 name: "Goblin War Chanter"
-hp: 16
-ac: 17
-modifier: 5
 level: 1
 ---
-### Goblin War Chanter
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Small"
 trait_03: "Goblin"
 trait_04: "Humanoid"
+modifier: 5
 perception:
   - name: "Perception"
     desc: "Perception +5; __darkvision__;"
@@ -50,6 +48,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +7 (1d20+7); __Ref__: +8 (1d20+8); __Will__: +5 (1d20+5);"
+hp: 16
 health:
   - name: HP
     desc: "16; "
@@ -67,7 +66,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 181."
 ```
 
-### Encounter
 ```encounter-table
 name: Goblin War Chanter
 creatures:

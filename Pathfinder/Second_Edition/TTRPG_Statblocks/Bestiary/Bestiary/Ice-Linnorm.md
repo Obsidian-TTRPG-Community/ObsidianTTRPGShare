@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/level/17
 statblock: true
-statblock-link: "#Ice Linnorm"
+statblock: inline
 name: "Ice Linnorm"
-hp: 330
-ac: 41
-modifier: 29
 level: 17
 ---
-### Ice Linnorm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "CE"
 size: "Gargantuan"
 trait_04: "Cold"
 trait_05: "Dragon"
+modifier: 29
 perception:
   - name: "Perception"
     desc: "Perception +29; __darkvision__, __imprecise scent 60__, __true seeing__;"
@@ -54,6 +52,7 @@ ac: 41
 armorclass:
   - name: AC
     desc: "41; __Fort__: +32 (1d20+32); __Ref__: +28 (1d20+28); __Will__: +27 (1d20+27);"
+hp: 330
 health:
   - name: HP
     desc: "330; [[regeneration]] 10 (deactivated by cold iron); __Immunities__ cold, curse, paralyzed, sleep; __Weaknesses__ cold iron 15, fire 10;"
@@ -73,7 +72,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 225."
 ```
 
-### Encounter
 ```encounter-table
 name: Ice Linnorm
 creatures:

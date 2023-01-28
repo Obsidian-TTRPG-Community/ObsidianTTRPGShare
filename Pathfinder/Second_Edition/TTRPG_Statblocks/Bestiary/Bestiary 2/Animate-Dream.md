@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/dream
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Animate Dream"
+statblock: inline
 name: "Animate Dream"
-hp: 110
-ac: 24
-modifier: 14
 level: 8
 ---
-### Animate Dream
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -26,6 +23,7 @@ alignment: "NE"
 size: "Medium"
 trait_04: "Dream"
 trait_05: "Incorporeal"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__;"
@@ -45,6 +43,7 @@ ac: 24
 armorclass:
   - name: AC
     desc: "24; __Fort__: +15 (1d20+15); __Ref__: +18 (1d20+18); __Will__: +14 (1d20+14);"
+hp: 110
 health:
   - name: HP
     desc: "110;  __Immunities__ poison, precision, disease, paralyzed, sleep; __Resistances__ all 5"
@@ -60,7 +59,6 @@ spellcasting:
 sourcebook: "_Bestiary 2_, page 18."
 ```
 
-### Encounter
 ```encounter-table
 name: Animate Dream
 creatures:

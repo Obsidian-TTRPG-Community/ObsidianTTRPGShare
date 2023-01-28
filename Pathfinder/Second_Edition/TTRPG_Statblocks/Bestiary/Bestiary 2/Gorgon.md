@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Gorgon"
+statblock: inline
 name: "Gorgon"
-hp: 135
-ac: 28
-modifier: 19
 level: 8
 ---
-### Gorgon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "N"
 size: "Large"
 trait_04: "Beast"
+modifier: 19
 perception:
   - name: "Perception"
     desc: "Perception +19; __darkvision__, __imprecise scent 30__;"
@@ -47,6 +45,7 @@ ac: 28
 armorclass:
   - name: AC
     desc: "28; __Fort__: +18 (1d20+18); __Ref__: +13 (1d20+13); __Will__: +17 (1d20+17);"
+hp: 135
 health:
   - name: HP
     desc: "135; "
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 132."
 ```
 
-### Encounter
 ```encounter-table
 name: Gorgon
 creatures:

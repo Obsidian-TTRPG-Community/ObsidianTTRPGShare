@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Catfolk Pouncer"
+statblock: inline
 name: "Catfolk Pouncer"
-hp: 19
-ac: 17
-modifier: 6
 level: 1
 ---
-### Catfolk Pouncer
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CG"
 size: "Medium"
 trait_03: "Catfolk"
 trait_04: "Humanoid"
+modifier: 6
 perception:
   - name: "Perception"
     desc: "Perception +6; __low-light vision__;"
@@ -50,6 +48,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +6 (1d20+6); __Ref__: +9 (1d20+9); __Will__: +4 (1d20+4);"
+hp: 19
 health:
   - name: HP
     desc: "19; "
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 54."
 ```
 
-### Encounter
 ```encounter-table
 name: Catfolk Pouncer
 creatures:

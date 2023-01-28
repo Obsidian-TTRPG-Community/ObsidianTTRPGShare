@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/level/1
 statblock: true
-statblock-link: "#Quasit"
+statblock: inline
 name: "Quasit"
-hp: 25
-ac: 17
-modifier: 7
 level: 1
 ---
-### Quasit
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Tiny"
 trait_03: "Demon"
 trait_04: "Fiend"
+modifier: 7
 perception:
   - name: "Perception"
     desc: "Perception +7; __darkvision__;"
@@ -54,6 +52,7 @@ ac: 17
 armorclass:
   - name: AC
     desc: "17; __Fort__: +4 (1d20+4); __Ref__: +10 (1d20+10); __Will__: +7 (1d20+7);"
+hp: 25
 health:
   - name: HP
     desc: "25;  __Weaknesses__ cold iron 3, good 3;"
@@ -69,7 +68,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 76."
 ```
 
-### Encounter
 ```encounter-table
 name: Quasit
 creatures:

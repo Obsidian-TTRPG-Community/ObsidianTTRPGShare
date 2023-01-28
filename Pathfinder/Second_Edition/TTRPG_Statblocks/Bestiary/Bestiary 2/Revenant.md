@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
 statblock: true
-statblock-link: "#Revenant"
+statblock: inline
 name: "Revenant"
-hp: 115
-ac: 23
-modifier: 14
 level: 6
 ---
-### Revenant
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 6"
 alignment: "LN"
 size: "Medium"
 trait_03: "Undead"
+modifier: 14
 perception:
   - name: "Perception"
     desc: "Perception +14; __darkvision__, __sense murderer__;"
@@ -53,6 +51,7 @@ ac: 23
 armorclass:
   - name: AC
     desc: "23; __Fort__: +14 (1d20+14); __Ref__: +13 (1d20+13); __Will__: +17 (1d20+17);"
+hp: 115
 health:
   - name: HP
     desc: "115; negative healing; __Immunities__ poison, death effects, disease, paralyzed, sleep; __Resistances__ physical 5 (except slashing)"
@@ -65,7 +64,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 227."
 ```
 
-### Encounter
 ```encounter-table
 name: Revenant
 creatures:

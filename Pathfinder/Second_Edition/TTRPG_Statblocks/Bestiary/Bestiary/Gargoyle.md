@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/4
 statblock: true
-statblock-link: "#Gargoyle"
+statblock: inline
 name: "Gargoyle"
-hp: 40
-ac: 21
-modifier: 10
 level: 4
 ---
-### Gargoyle
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Medium"
 trait_03: "Beast"
 trait_04: "Earth"
+modifier: 10
 perception:
   - name: "Perception"
     desc: "Perception +10; __darkvision__;"
@@ -47,6 +45,7 @@ ac: 21
 armorclass:
   - name: AC
     desc: "21; __Fort__: +13 (1d20+13); __Ref__: +10 (1d20+10); __Will__: +10 (1d20+10);"
+hp: 40
 health:
   - name: HP
     desc: "40;  __Resistances__ physical 5 (except adamantine)"
@@ -61,7 +60,6 @@ attacks:
 sourcebook: "_Bestiary_, page 161."
 ```
 
-### Encounter
 ```encounter-table
 name: Gargoyle
 creatures:

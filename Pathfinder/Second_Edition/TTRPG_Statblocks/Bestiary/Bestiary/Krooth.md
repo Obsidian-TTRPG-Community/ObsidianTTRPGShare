@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
 statblock: true
-statblock-link: "#Krooth"
+statblock: inline
 name: "Krooth"
-hp: 150
-ac: 26
-modifier: 16
 level: 8
 ---
-### Krooth
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "N"
 size: "Large"
 trait_03: "Amphibious"
 trait_04: "Animal"
+modifier: 16
 perception:
   - name: "Perception"
     desc: "Perception +16; __low-light vision__, __imprecise scent 60__;"
@@ -50,6 +48,7 @@ ac: 26
 armorclass:
   - name: AC
     desc: "26; __Fort__: +20 (1d20+20); __Ref__: +17 (1d20+17); __Will__: +14 (1d20+14);"
+hp: 150
 health:
   - name: HP
     desc: "150; "
@@ -66,7 +65,6 @@ attacks:
 sourcebook: "_Bestiary_, page 215."
 ```
 
-### Encounter
 ```encounter-table
 name: Krooth
 creatures:

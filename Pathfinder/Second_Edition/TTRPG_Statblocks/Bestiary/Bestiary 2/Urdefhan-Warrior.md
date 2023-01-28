@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
 statblock: true
-statblock-link: "#Urdefhan Warrior"
+statblock: inline
 name: "Urdefhan Warrior"
-hp: 55
-ac: 18
-modifier: 9
 level: 3
 ---
-### Urdefhan Warrior
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "NE"
 size: "Medium"
 trait_03: "Humanoid"
 trait_04: "Urdefhan"
+modifier: 9
 perception:
   - name: "Perception"
     desc: "Perception +9; __greater darkvision__;"
@@ -54,6 +52,7 @@ ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +9 (1d20+9); __Ref__: +8 (1d20+8); __Will__: +9 (1d20+9);"
+hp: 55
 health:
   - name: HP
     desc: "55; negative healing; __Immunities__ death effects, disease, fear; __Weaknesses__ positive 5;"
@@ -70,7 +69,6 @@ attacks:
 sourcebook: "_Bestiary 2_, page 272."
 ```
 
-### Encounter
 ```encounter-table
 name: Urdefhan Warrior
 creatures:

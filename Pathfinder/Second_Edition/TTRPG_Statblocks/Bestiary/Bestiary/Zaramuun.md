@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/elemental
   - pf2e/creature/level/16
 statblock: true
-statblock-link: "#Zaramuun"
+statblock: inline
 name: "Zaramuun"
-hp: 291
-ac: 39
-modifier: 30
 level: 16
 ---
-### Zaramuun
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ alignment: "CE"
 size: "Large"
 trait_03: "Earth"
 trait_04: "Elemental"
+modifier: 30
 perception:
   - name: "Perception"
     desc: "Perception +30; __darkvision__, __[[tremorsense]] 60__;"
@@ -55,6 +53,7 @@ ac: 39
 armorclass:
   - name: AC
     desc: "39; __Fort__: +34 (1d20+34); __Ref__: +30 (1d20+30); __Will__: +25 (1d20+25);"
+hp: 291
 health:
   - name: HP
     desc: "291;  __Immunities__ poison, paralyzed, sleep;"
@@ -72,7 +71,6 @@ spellcasting:
 sourcebook: "_Bestiary_, page 339."
 ```
 
-### Encounter
 ```encounter-table
 name: Zaramuun
 creatures:

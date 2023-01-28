@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/plant
   - pf2e/creature/level/10
 statblock: true
-statblock-link: "#Dezullon"
+statblock: inline
 name: "Dezullon"
-hp: 130
-ac: 30
-modifier: 18
 level: 10
 ---
-### Dezullon
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 10"
 alignment: "N"
 size: "Medium"
 trait_03: "Plant"
+modifier: 18
 perception:
   - name: "Perception"
     desc: "Perception +18; __low-light vision__;"
@@ -49,6 +47,7 @@ ac: 30
 armorclass:
   - name: AC
     desc: "30; __Fort__: +17 (1d20+17); __Ref__: +21 (1d20+21); __Will__: +16 (1d20+16);"
+hp: 130
 health:
   - name: HP
     desc: "130; [[regeneration]] 15 (deactivated by fire); __Resistances__ acid 20"
@@ -63,7 +62,6 @@ attacks:
 sourcebook: "_Bestiary_, page 94."
 ```
 
-### Encounter
 ```encounter-table
 name: Dezullon
 creatures:

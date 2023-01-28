@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/animal
   - pf2e/creature/level/13
 statblock: true
-statblock-link: "#Purple Worm"
+statblock: inline
 name: "Purple Worm"
-hp: 270
-ac: 32
-modifier: 20
 level: 13
 ---
-### Purple Worm
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -24,6 +21,7 @@ level: "Creature 13"
 alignment: "N"
 size: "Gargantuan"
 trait_03: "Animal"
+modifier: 20
 perception:
   - name: "Perception"
     desc: "Perception +20; __darkvision__, __imprecise [[tremorsense]] 100__;"
@@ -57,6 +55,7 @@ ac: 32
 armorclass:
   - name: AC
     desc: "32; __Fort__: +28 (1d20+28); __Ref__: +21 (1d20+21); __Will__: +21 (1d20+21);"
+hp: 270
 health:
   - name: HP
     desc: "270; "
@@ -75,7 +74,6 @@ attacks:
 sourcebook: "_Bestiary_, page 56."
 ```
 
-### Encounter
 ```encounter-table
 name: Purple Worm
 creatures:

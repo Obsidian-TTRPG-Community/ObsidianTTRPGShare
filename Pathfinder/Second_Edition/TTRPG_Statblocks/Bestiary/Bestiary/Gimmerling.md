@@ -5,14 +5,11 @@ tags:
   - pf2e/creature/type/fey
   - pf2e/creature/level/12
 statblock: true
-statblock-link: "#Gimmerling"
+statblock: inline
 name: "Gimmerling"
-hp: 235
-ac: 34
-modifier: 21
 level: 12
 ---
-### Gimmerling
+
 ```statblock
 columns: 2
 forcecolumns: true
@@ -25,6 +22,7 @@ rare_02: "Uncommon"
 alignment: "LE"
 size: "Small"
 trait_04: "Fey"
+modifier: 21
 perception:
   - name: "Perception"
     desc: "Perception +21; __imprecise hungersense 30__, __low-light vision__;"
@@ -60,6 +58,7 @@ ac: 34
 armorclass:
   - name: AC
     desc: "34; __Fort__: +22 (1d20+22); __Ref__: +25 (1d20+25); __Will__: +19 (1d20+19);"
+hp: 235
 health:
   - name: HP
     desc: "235;  __Weaknesses__ cold iron 10;"
@@ -76,7 +75,6 @@ attacks:
 sourcebook: "_Bestiary_, page 177."
 ```
 
-### Encounter
 ```encounter-table
 name: Gimmerling
 creatures:
