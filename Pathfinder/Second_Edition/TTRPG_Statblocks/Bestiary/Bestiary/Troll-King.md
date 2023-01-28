@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Troll King"
 tags: 
   - pf2e/creature/type/giant
   - pf2e/creature/level/10

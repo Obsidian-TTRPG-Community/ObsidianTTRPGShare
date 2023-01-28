@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Ancient Silver Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
@@ -41,7 +42,7 @@ abilities_mid:
   - name: "Frightful Presence"
     desc: " ([[aura]], [[emotion]], [[fear]], [[mental]]);  90 feet, DC 40."
   - name: "Cold Aura"
-    desc: "⬲ ([[cold]], [[aura]]);  15 feet, 1 (3d6) cold damage. The silver dragon can turn this aura on or off as a single action, which has the [[concentrate]] trait, and can choose not to affect allies within the aura., Reflect Spell Trigger The silver dragon critically succeeds at a saving throw against a spell, or a caster trying to target the dragon critically fails their attack roll. The spell is reflected back upon the caster, with the effect of spell turning."
+    desc: "⬲ ([[cold]], [[aura]]);  15 feet, 1 (3d6) cold damage. The silver dragon can turn this aura on or off as a single action, which has the [[concentrate]] trait, and can choose not to affect allies within the aura. Reflect Spell Trigger The silver dragon critically succeeds at a saving throw against a spell, or a caster trying to target the dragon critically fails their attack roll. The spell is reflected back upon the caster, with the effect of spell turning."
   - name: "Wing Deflection"
     desc: "⬲ __Trigger__ The silver dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is flying, it descends 10 feet after the attack is complete."
 abilities_bot:

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Morrigna"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/15

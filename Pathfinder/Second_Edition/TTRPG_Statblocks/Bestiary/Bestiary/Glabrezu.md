@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Glabrezu"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/13

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Gourd Leshy"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/1

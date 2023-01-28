@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Xulgath Leader"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
@@ -41,7 +42,7 @@ abilities_top:
     desc: "breastplate, greataxe, javelin (4);"
 abilities_bot:
   - name: "Weakening Strike"
-    desc: "⬻  The target must succeed at a DC 20 Fortitude save or become [[enfeebled|enfeebled 1]] (or [[enfeebled|enfeebled 2]] on a critical hit) for 1 round., Lone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty."
+    desc: "⬻  The target must succeed at a DC 20 Fortitude save or become [[enfeebled|enfeebled 1]] (or [[enfeebled|enfeebled 2]] on a critical hit) for 1 round. Lone exiles of yeti clans have little use for treasure and leave the gear of their slain victims behind where it is quickly covered by snowfall. Clan-based yetis, on the other hand, create beautifully carved stonework, some of which they shape into protective talismans of rare beauty."
 
 speed: 25 feet
 

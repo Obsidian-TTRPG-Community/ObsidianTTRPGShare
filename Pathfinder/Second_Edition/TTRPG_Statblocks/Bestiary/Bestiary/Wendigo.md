@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Wendigo"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/17

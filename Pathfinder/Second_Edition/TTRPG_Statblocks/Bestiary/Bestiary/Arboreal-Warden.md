@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Arboreal Warden"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/4

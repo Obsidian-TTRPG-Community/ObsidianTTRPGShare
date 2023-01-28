@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Unicorn"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/type/fey

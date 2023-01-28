@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Werebear"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/type/humanoid

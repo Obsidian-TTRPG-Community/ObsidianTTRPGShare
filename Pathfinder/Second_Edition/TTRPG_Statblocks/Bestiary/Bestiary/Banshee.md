@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Banshee"
 tags: 
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
@@ -50,7 +51,7 @@ abilities_bot:
   - name: "Terrifying Touch"
     desc: " ([[emotion]], [[enchantment]], [[fear]], [[occult]]);  A creature damaged by the banshee's touch that isn't already [[frightened|frightened]] must attempt a DC 38 Will save (DC 43 if the attack was a critical hit). If the creature fails its save, it's [[frightened|frightened 2]]; on a critical failure, the creature also cowers with fear and is [[stunned|stunned 4]]. If the creature is protected against fear by a spell or magic item, the banshee's touch first attempts to counteract the protection effect, with the effect of a 9th-level [[dispel magic]] spell."
   - name: "Wail"
-    desc: "⬺ ([[auditory]], [[concentrate]], [[death]], [[necromancy]], [[occult]]);  The banshee unleashes a soul-chilling [[wail of the banshee]] (DC 38). This Wail overcomes silence and similar effects of 5th level or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th level., The banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1 (1d4) rounds."
+    desc: "⬺ ([[auditory]], [[concentrate]], [[death]], [[necromancy]], [[occult]]);  The banshee unleashes a soul-chilling [[wail of the banshee]] (DC 38). This Wail overcomes silence and similar effects of 5th level or lower. The banshee can instead use Wail as a three-action activity to overcome such effects of up to 8th level. The banshee's Wail resonates for 1 round, and any creature that comes within the area during that time must attempt a save against the effect. A creature can't be affected more than once by the same Wail. The banshee can't Wail again for 1 (1d4) rounds."
 
 speed: fly 60 feet
 

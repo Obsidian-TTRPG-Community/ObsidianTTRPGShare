@@ -1,0 +1,71 @@
+---
+noteType: pf2eMonster
+aliases: "Woolly Rhinoceros"
+tags: 
+  - pf2e/creature/type/animal
+  - pf2e/creature/level/6
+statblock: true
+statblock-link: "#Woolly Rhinoceros"
+name: "Woolly Rhinoceros"
+hp: 100
+ac: 25
+modifier: 11
+level: 6
+---
+### Woolly Rhinoceros
+```statblock
+columns: 2
+forcecolumns: true
+layout: Path2eBlock
+statblock: true
+source: "B2"
+name: "Woolly Rhinoceros"
+level: "Creature 6"
+alignment: "N"
+size: "Large"
+trait_03: "Animal"
+perception:
+  - name: "Perception"
+    desc: "Perception +11; __imprecise scent 30__;"
+skills:
+  - name: "Skills"
+    desc: "__Athletics__: +16 (1d20+16); __Survival__: +13 (1d20+13); "
+abilityMods: [6, 1, 5, -4, 3, -1]
+
+abilities_mid:
+  - name: "Cold Adaptation"
+    desc: "  The woolly rhinoceros treats environmental [[cold]] effects as if they were one step less extreme."
+  - name: "Ferocity"
+    desc: "⬲ "
+abilities_bot:
+  - name: "Rhinoceros Charge"
+    desc: "⬺  As rhinoceros, except 1 (3d12+6) damage and DC 24."
+  - name: "Trample"
+    desc: "⬽  Medium or smaller, foot, DC 21."
+
+speed: 35 feet
+
+ac: 25
+armorclass:
+  - name: AC
+    desc: "25; __Fort__: +17 (1d20+17); __Ref__: +11 (1d20+11); __Will__: +15 (1d20+15);"
+health:
+  - name: HP
+    desc: "100; "
+
+
+attacks:
+  - name: Melee
+    desc: "⬻ horn +16 ([[reach|reach 10 feet]]); __Damage__ 1 (2d12+6) piercing"
+  - name: Melee
+    desc: "⬻ foot +16 __Damage__ 1 (2d8+6) bludgeoning"
+
+sourcebook: "_Bestiary 2_, page 228."
+```
+
+### Encounter
+```encounter-table
+name: Woolly Rhinoceros
+creatures:
+  - 1: Woolly Rhinoceros
+```

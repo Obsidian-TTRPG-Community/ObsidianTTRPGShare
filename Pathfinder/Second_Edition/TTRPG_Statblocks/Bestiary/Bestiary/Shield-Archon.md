@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Shield Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/10

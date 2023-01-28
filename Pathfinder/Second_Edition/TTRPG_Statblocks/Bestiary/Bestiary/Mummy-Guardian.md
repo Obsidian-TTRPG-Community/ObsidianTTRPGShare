@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Mummy Guardian"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/6

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Ghost Mage"
 tags: 
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead

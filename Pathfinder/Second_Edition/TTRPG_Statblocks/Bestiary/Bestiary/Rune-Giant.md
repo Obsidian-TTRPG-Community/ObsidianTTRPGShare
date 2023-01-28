@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Rune Giant"
 tags: 
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
@@ -52,7 +53,7 @@ abilities_bot:
   - name: "Flashing Runes"
     desc: "⭓ ([[arcane]], [[evocation]], [[light]]); __Trigger__ The rune giant uses an arcane ability or casts an arcane spell. __Effect__  The runes on the giant's body flash as they produce magical energy. Each creature within a 10-foot emanation must attempt a DC 35 Fortitude save.\n__Critical Success__ The creature is unaffected.\n__Success__ The creature is [[dazzled|dazzled]] for 1 round.\n__Failure__ The creature is [[blinded|blinded]] for 1 round."
   - name: "Invoke Rune"
-    desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]);  The rune giant invokes one of the runes on its body, causing the rune to spray forth a 30-foot cone of sparks that deals 1 (6d12) electricity damage to all creatures in the cone (DC 37 basic Reflex save), A glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect listed below of the giant's choice. The giant can't use Invoke Rune again for 1 (1d4) rounds. The effect on the weapon lasts for 1 minute. If the giant places a new rune on a weapon, any previously placed rune immediately vanishes, ending its effect.<ul class='inner-bullet-list'><li>__Rune of Destruction__ The weapon gains the [[deadly]] trait with three weapon damage dice of the same die size as for the base weapon, and a creature hit with the weapon is [[drained|drained 1]] unless it succeeds at a DC 35 Fortitude save.</li><li>__Rune of Flames__ The weapon deals an additional 1 (3d6) fire damage on all attacks.</li><li>__Rune of Smiting__ When the weapon hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</li></ul>"
+    desc: "⬻ ([[arcane]], [[concentrate]], [[electricity]], [[evocation]]);  The rune giant invokes one of the runes on its body, causing the rune to spray forth a 30-foot cone of sparks that deals 1 (6d12) electricity damage to all creatures in the cone (DC 37 basic Reflex save) A glowing copy of the invoked rune appears on a single weapon the giant holds, granting the weapon one effect listed below of the giant's choice. The giant can't use Invoke Rune again for 1 (1d4) rounds. The effect on the weapon lasts for 1 minute. If the giant places a new rune on a weapon, any previously placed rune immediately vanishes, ending its effect.<ul class='inner-bullet-list'><li>__Rune of Destruction__ The weapon gains the [[deadly]] trait with three weapon damage dice of the same die size as for the base weapon, and a creature hit with the weapon is [[drained|drained 1]] unless it succeeds at a DC 35 Fortitude save.</li><li>__Rune of Flames__ The weapon deals an additional 1 (3d6) fire damage on all attacks.</li><li>__Rune of Smiting__ When the weapon hits, the giant can Push the target back 10 feet, or 20 feet on a critical hit.</li></ul>"
   - name: "Throw Rock"
     desc: "⬻ "
   - name: "Wide Swing"

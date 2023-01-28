@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Giant Animated Statue"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/7

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Sewer Ooze"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1

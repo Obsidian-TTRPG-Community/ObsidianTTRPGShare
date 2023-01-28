@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Purple Worm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/13
@@ -42,7 +43,7 @@ abilities_bot:
   - name: "Purple Worm Venom"
     desc: " ([[poison]]);  __Saving Throw__ DC 32 Fortitude. __Maximum Duration__ 6 rounds __Stage 1__ 1 (5d6) poison damage and [[enfeebled|enfeebled 2]] , (1 round) __Stage 2__ 1 (6d6) poison damage, and [[enfeebled|enfeebled 2]] (1 round) __Stage 3__ 1 (8d6) poison damage and [[enfeebled|enfeebled 2]]. (1 round)"
   - name: "Regurgitate"
-    desc: "  The purple worm can violently regurgitate a creature or boulder it has swallowed to make a ranged [[Strike]]. The [[Strike]] deals bludgeoning damage depending on the size of the projectile: Tiny deals 1 (2d6+13), Small 1 (3d6+13), Medium 1 (4d6+13), Large 1 (5d6+13), and Huge 1 (6d6+13). A regurgitated creature takes falling damage from the height of the target or from 20 feet, whichever is greater., Boulders occupy space in the worm's stomach as a creature of equivalent size, and purple worms often have several boulders swallowed. A purple worm can use a single action to swallow a new boulder."
+    desc: "  The purple worm can violently regurgitate a creature or boulder it has swallowed to make a ranged [[Strike]]. The [[Strike]] deals bludgeoning damage depending on the size of the projectile: Tiny deals 1 (2d6+13), Small 1 (3d6+13), Medium 1 (4d6+13), Large 1 (5d6+13), and Huge 1 (6d6+13). A regurgitated creature takes falling damage from the height of the target or from 20 feet, whichever is greater. Boulders occupy space in the worm's stomach as a creature of equivalent size, and purple worms often have several boulders swallowed. A purple worm can use a single action to swallow a new boulder."
   - name: "Rock Tunneler"
     desc: "  A purple worm can burrow through solid stone at a Speed of 20 feet. It can leave a tunnel if it desires, and it usually does."
   - name: "Swallow Whole"

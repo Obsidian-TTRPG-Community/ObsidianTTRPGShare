@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Will-o'-wisp"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
