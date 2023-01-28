@@ -1,0 +1,70 @@
+---
+noteType: pf2eMonster
+aliases: "Undine Hydromancer"
+tags: 
+  - pf2e/creature/type/humanoid
+  - pf2e/creature/level/1
+statblock: true
+statblock-link: "#Undine Hydromancer"
+name: "Undine Hydromancer"
+hp: 15
+ac: 16
+modifier: 5
+level: 1
+---
+### Undine Hydromancer
+```statblock
+columns: 2
+forcecolumns: true
+layout: Path2eBlock
+statblock: true
+source: "B2"
+name: "Undine Hydromancer"
+level: "Creature 1"
+alignment: "CG"
+size: "Medium"
+trait_03: "Amphibious"
+trait_04: "Human"
+trait_05: "Humanoid"
+trait_06: "Undine"
+perception:
+  - name: "Perception"
+    desc: "Perception +5;"
+languages: "Aquan, Common; "
+skills:
+  - name: "Skills"
+    desc: "__Arcana__: +3 (1d20+3); __Athletics__: +3 (1d20+3); __Diplomacy__: +7 (1d20+7); __Intimidation__: +7 (1d20+7); __Nature__: +5 (1d20+5); __Survival__: +5 (1d20+5); "
+abilityMods: [0, 2, 1, 0, 2, 4]
+
+
+speed: 25 feet, swim 25 feet
+
+ac: 16
+armorclass:
+  - name: AC
+    desc: "16; __Fort__: +4 (1d20+4); __Ref__: +5 (1d20+5); __Will__: +7 (1d20+7);"
+health:
+  - name: HP
+    desc: "15; "
+
+
+attacks:
+  - name: Melee
+    desc: "⬻ dagger +7 ([[agile]], [[finesse]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+  - name: Ranged
+    desc: "⬻ dagger +7 ([[agile]], [[thrown|thrown 10 feet]], [[versatile|versatile s]]); __Damage__ 1 (1d4) piercing"
+
+spellcasting:
+  - name: "Primal Spontaneous Spells"
+    desc: "DC 17, attack +9; __Cantrips (1st)__ [[acid splash]], [[detect magic]], [[know direction]], [[stabilize]], [[tanglefoot]]; __1st__ [[create water]], [[heal]], [[hydraulic push]];"
+  - name: "Sorcerer Bloodline Spells"
+    desc: "DC 17, attack +9; __1st__ [[elemental toss]] ((1 Focus Point));"
+sourcebook: "_Bestiary 2_, page 203."
+```
+
+### Encounter
+```encounter-table
+name: Undine Hydromancer
+creatures:
+  - 1: Undine Hydromancer
+```
