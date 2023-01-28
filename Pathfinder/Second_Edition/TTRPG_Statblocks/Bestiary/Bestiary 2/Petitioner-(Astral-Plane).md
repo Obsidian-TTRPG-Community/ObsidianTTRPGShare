@@ -8,8 +8,8 @@ statblock-link: "#Petitioner (Astral Plane)"
 name: "Petitioner (Astral Plane)"
 hp: 22
 ac: 15
-modifier: 
-level: 
+modifier: 7
+level: 1
 ---
 ### Petitioner (Astral Plane)
 ```statblock
@@ -19,14 +19,12 @@ layout: Path2eBlock
 statblock: true
 source: "B2"
 name: "Petitioner (Astral Plane)"
-level: "Creature "
+level: "Creature 1"
 perception:
   - name: "Perception"
-    desc: "Perception +;"
-languages: "Any one spoken in life (such as common); "
-abilityMods: [, , , , , ]
-
-abilities_bot:
+    desc: "Perception +7; darkvision"
+languages: "Any one spoken in life (such as common);"
+abilityMods: [2, 2, 2, 2, 2, 2]
 
 speed: fly 20 feet, 25 feet
 

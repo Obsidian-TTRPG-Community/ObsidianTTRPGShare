@@ -8,8 +8,8 @@ statblock-link: "#Petitioner (Boneyard)"
 name: "Petitioner (Boneyard)"
 hp: 22
 ac: 15
-modifier: 
-level: 
+modifier: 7
+level: 1
 ---
 ### Petitioner (Boneyard)
 ```statblock
@@ -19,14 +19,12 @@ layout: Path2eBlock
 statblock: true
 source: "B2"
 name: "Petitioner (Boneyard)"
-level: "Creature "
+level: "Creature 1"
 perception:
   - name: "Perception"
-    desc: "Perception +;"
-languages: "Requian; "
-abilityMods: [, , , , , ]
-
-abilities_bot:
+    desc: "Perception +7; darkvision"
+languages: "Requian;"
+abilityMods: [2, 2, 2, 2, 2, 2]
 
 speed: 25 feet
 
@@ -36,7 +34,7 @@ armorclass:
     desc: "15; __Fort__: +7 (1d20+7); __Ref__: +7 (1d20+7); __Will__: +7 (1d20+7);"
 health:
   - name: HP
-    desc: "22; "
+    desc: "22;"
 
 
 attacks:

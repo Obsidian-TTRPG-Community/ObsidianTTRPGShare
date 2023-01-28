@@ -8,8 +8,8 @@ statblock-link: "#Petitioner (Axis)"
 name: "Petitioner (Axis)"
 hp: 22
 ac: 15
-modifier: 
-level: 
+modifier: 7
+level: 1
 ---
 ### Petitioner (Axis)
 ```statblock
@@ -19,14 +19,12 @@ layout: Path2eBlock
 statblock: true
 source: "B2"
 name: "Petitioner (Axis)"
-level: "Creature "
+level: "Creature 1"
 perception:
   - name: "Perception"
-    desc: "Perception +;"
-languages: "Utopian; "
-abilityMods: [, , , , , ]
-
-abilities_bot:
+    desc: "Perception +7; darkvision"
+languages: "Utopian;"
+abilityMods: [2, 2, 2, 2, 2, 2]
 
 speed: 25 feet
 

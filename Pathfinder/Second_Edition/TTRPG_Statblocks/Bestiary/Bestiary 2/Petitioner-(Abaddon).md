@@ -8,8 +8,8 @@ statblock-link: "#Petitioner (Abaddon)"
 name: "Petitioner (Abaddon)"
 hp: 22
 ac: 15
-modifier: 
-level: 
+modifier: 7
+level: 1
 ---
 ### Petitioner (Abaddon)
 ```statblock
@@ -19,15 +19,12 @@ layout: Path2eBlock
 statblock: true
 source: "B2"
 name: "Petitioner (Abaddon)"
-level: "Creature "
+level: "Creature 1"
 perception:
   - name: "Perception"
-    desc: "Perception +;"
-languages: "Daemonic; "
-abilityMods: [, , , , , ]
-
-abilities_bot:
-
+    desc: "Perception +7; darkvision"
+languages: "Daemonic;"
+abilityMods: [2, 2, 2, 2, 2, 2]
 
 ac: 15
 armorclass:
