@@ -33,14 +33,14 @@ If you have anyone you'd like to support, click their link below and buy them a 
 
 Feeling lucky? How about a roll of the die instead?
 
-> __Roll__: 1d6
+> __Roll__: 1d7
 
 |                           Column A                           | Column B |
 |:------------------------------------------------------------:| -------- |
-| __[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)__ |          |
+| __[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)__ | __[Fate](https://ko-fi.com/fatebreak)__          |
 |      __[Kepano](https://www.buymeacoffee.com/kepano)__       |          |
 |             __[SlRvb](https://ko-fi.com/slrvb)__             |          |
 |            __[Yilmas](https://ko-fi.com/yilmas)__            |          |
 |        __[Sigrunixia](https://ko-fi.com/sigrunixia)__        |          |
 |        __[Nicholevdh](https://ko-fi.com/nicolevdh)__         |          |
-|           __[Fate](https://ko-fi.com/fatebreak)__            |          |
+
