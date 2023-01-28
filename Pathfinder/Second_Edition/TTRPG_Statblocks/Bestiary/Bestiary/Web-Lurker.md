@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Web Lurker"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3

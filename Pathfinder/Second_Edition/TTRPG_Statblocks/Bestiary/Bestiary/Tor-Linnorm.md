@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Tor Linnorm"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/21

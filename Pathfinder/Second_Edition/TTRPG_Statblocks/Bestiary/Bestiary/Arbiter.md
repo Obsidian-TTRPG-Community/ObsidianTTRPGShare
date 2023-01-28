@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Arbiter"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/1
@@ -36,7 +37,7 @@ abilityMods: [1, 4, 2, 0, 2, 1]
 
 abilities_top:
   - name: "Locate Inevitable"
-    desc: "  An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, but it cannot sense the range of the inevitable., Items shortsword."
+    desc: "  An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, but it cannot sense the range of the inevitable. Items shortsword."
   - name: Items
     desc: "[[shortsword]];"
 abilities_bot:

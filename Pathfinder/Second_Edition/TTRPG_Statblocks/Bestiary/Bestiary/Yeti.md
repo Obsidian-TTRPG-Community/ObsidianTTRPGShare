@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Yeti"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Storm Lord"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/9

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Redcap"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
@@ -34,7 +35,7 @@ abilityMods: [4, 4, 2, 1, 1, 2]
 
 abilities_top:
   - name: "Red Cap"
-    desc: " ([[necromancy]], [[primal]]);  A redcap's woolen hat is dyed with the blood of its victims., If the redcap loses its cap, it no longer benefits from fast healing and takes a –4 status penalty to its damage rolls. It can create a new cap in 10 minutes, but that cap doesn't grant its powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it."
+    desc: " ([[necromancy]], [[primal]]);  A redcap's woolen hat is dyed with the blood of its victims. If the redcap loses its cap, it no longer benefits from fast healing and takes a –4 status penalty to its damage rolls. It can create a new cap in 10 minutes, but that cap doesn't grant its powers until the redcap has turned it red with Blood Soak. A cap has no benefit for creatures other than the redcap who made it."
   - name: Items
     desc: "iron boots, red cap, scythe;"
 abilities_mid:

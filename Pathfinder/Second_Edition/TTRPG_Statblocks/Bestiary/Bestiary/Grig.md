@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Grig"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/1

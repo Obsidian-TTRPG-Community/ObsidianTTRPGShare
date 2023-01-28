@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Duskwalker Ghost Hunter"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
@@ -38,7 +39,7 @@ abilities_bot:
   - name: "Ghost Hunter"
     desc: "  The duskwalker's weapons have the benefits of the ghost touch property rune on attacks against incorporeal undead."
   - name: "Hunt Prey"
-    desc: "⬻  The duskwalker designates as its prey a single creature that it can see and hear or that it is [[Track|Tracking]]. It gains a +2 circumstance bonus to [[Perception]] checks when it Seeks its prey and a +2 circumstance bonus to [[Survival]] checks when it Tracks its prey. It also ignores the penalty for making ranged attacks within its second range increment against its prey., Lastly, it gains a +2 circumstance bonus to [[Deception]] checks, [[Intimidation]] checks, and [[Stealth]] checks against its prey and to any check to [[Recall Knowledge]] about its prey, as well as a +1 circumstance bonus to AC against its prey's attacks. The duskwalker can have only one prey designated at a time."
+    desc: "⬻  The duskwalker designates as its prey a single creature that it can see and hear or that it is [[Track|Tracking]]. It gains a +2 circumstance bonus to [[Perception]] checks when it Seeks its prey and a +2 circumstance bonus to [[Survival]] checks when it Tracks its prey. It also ignores the penalty for making ranged attacks within its second range increment against its prey. Lastly, it gains a +2 circumstance bonus to [[Deception]] checks, [[Intimidation]] checks, and [[Stealth]] checks against its prey and to any check to [[Recall Knowledge]] about its prey, as well as a +1 circumstance bonus to AC against its prey's attacks. The duskwalker can have only one prey designated at a time."
   - name: "Hunted Shot"
     desc: "⬻ __Frequency__ once per round  __Effect__  The duskwalker makes two longbow [[Strike|Strikes]] against its hunted prey. If both [[Strike|Strikes]] hit, combine their damage for the purpose of resistances and weaknesses."
 abilities_top:

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Fire Giant"
 tags: 
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid

@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Faceless Stalker"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4

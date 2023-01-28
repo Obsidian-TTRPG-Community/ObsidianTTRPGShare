@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Daeodon"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
@@ -36,7 +37,7 @@ abilities_mid:
     desc: "⬲ "
 abilities_bot:
   - name: "Daeodon Charge"
-    desc: "⬺  The daeodon [[Stride|Strides]] twice and then makes a tusk [[Strike]]. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll., A medium or smaller creature struck by this attack must succeed at a DC 19 Reflex save or be knocked [[prone|prone]] by the force of the blow."
+    desc: "⬺  The daeodon [[Stride|Strides]] twice and then makes a tusk [[Strike]]. As long as it moved at least 20 feet, it gains a +2 circumstance bonus to its attack roll. A medium or smaller creature struck by this attack must succeed at a DC 19 Reflex save or be knocked [[prone|prone]] by the force of the blow."
 
 speed: 40 feet
 

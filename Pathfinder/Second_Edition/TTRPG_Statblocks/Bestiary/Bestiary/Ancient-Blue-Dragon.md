@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Ancient Blue Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/18
@@ -44,7 +45,7 @@ abilities_mid:
     desc: "⬲ __Trigger__ The dragon is targeted with an attack. __Effect__  The dragon raises its wing, gaining a +2 circumstance bonus to AC against the triggering attack. If the dragon is Flying, it descends 10 feet after the attack is complete."
 abilities_bot:
   - name: "Breath Weapon"
-    desc: " ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 1 (12d12) electricity damage in a 120-foot line (DC 40 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds., Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears 80 feet above a point of the dragon's choosing along the Breath Weapon's path. Clouds last for 10 minutes and allow the dragon to use Storm Breath."
+    desc: " ([[arcane]], [[electricity]], [[evocation]]);  The dragon breathes lightning that deals 1 (12d12) electricity damage in a 120-foot line (DC 40 basic Reflex save). It can't use Breath Weapon again for 1 (1d4) rounds. Each time the dragon uses Breath Weapon, a 20-foot-radius storm cloud appears 80 feet above a point of the dragon's choosing along the Breath Weapon's path. Clouds last for 10 minutes and allow the dragon to use Storm Breath."
   - name: "Desert Thirst"
     desc: " ([[arcane]], [[transmutation]]);  When casting create water, the dragon can attempt to destroy liquid instead of creating it, turning an equal amount of liquid into sand. This destroys liquid magic or alchemical items if they're of a lower level than the dragon (a creature can attempt a DC 37 Will save to protect all liquids in its possession). This doesn't affect the liquids in a creature's body."
   - name: "Draconic Frenzy"

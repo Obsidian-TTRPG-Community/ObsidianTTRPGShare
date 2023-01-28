@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Adult Black Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/11

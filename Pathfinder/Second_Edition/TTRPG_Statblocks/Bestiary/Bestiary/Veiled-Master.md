@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Veiled Master"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14

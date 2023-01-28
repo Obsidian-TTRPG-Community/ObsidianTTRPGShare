@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Great White Shark"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/4

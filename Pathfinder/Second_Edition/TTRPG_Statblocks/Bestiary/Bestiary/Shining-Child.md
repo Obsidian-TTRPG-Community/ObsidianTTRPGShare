@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Shining Child"
 tags: 
   - pf2e/creature/type/astral
   - pf2e/creature/level/12

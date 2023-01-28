@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Gelatinous Cube"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/3

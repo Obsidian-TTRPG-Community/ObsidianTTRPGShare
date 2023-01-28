@@ -1,5 +1,6 @@
 ---
 noteType: pf2eMonster
+aliases: "Remorhaz"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/7
@@ -46,7 +47,7 @@ abilities_bot:
   - name: "Swallow Whole"
     desc: "⬻  Large, 1 (2d8+5) bludgeoning plus 1 (2d6) fire, Rupture 12."
   - name: "Thrash"
-    desc: "⬺  The remorhaz [[Strike|Strikes]] once with its jaws and once with its tail, each targeting a different creature., Each attack counts toward the remorhaz's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks have been made."
+    desc: "⬺  The remorhaz [[Strike|Strikes]] once with its jaws and once with its tail, each targeting a different creature. Each attack counts toward the remorhaz's multiple attack penalty, but the multiple attack penalty doesn't increase until after all the attacks have been made."
 
 speed: 35 feet, burrow 30 feet
 
