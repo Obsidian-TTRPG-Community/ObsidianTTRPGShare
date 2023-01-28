@@ -8,8 +8,8 @@ statblock-link: "#Petitioner (Abyss)"
 name: "Petitioner (Abyss)"
 hp: 22
 ac: 15
-modifier: 
-level: 
+modifier: 7
+level: 1
 ---
 ### Petitioner (Abyss)
 ```statblock
@@ -19,15 +19,12 @@ layout: Path2eBlock
 statblock: true
 source: "B2"
 name: "Petitioner (Abyss)"
-level: "Creature "
+level: "Creature 1"
 perception:
   - name: "Perception"
-    desc: "Perception +;"
-languages: "Abyssal; "
-abilityMods: [, , , , , ]
-
-abilities_bot:
-
+    desc: "Perception +7; darkvision"
+languages: "Abyssal;"
+abilityMods: [2, 2, 2, 2, 2, 2]
 
 ac: 15
 armorclass:

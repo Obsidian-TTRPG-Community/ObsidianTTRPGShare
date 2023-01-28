@@ -43,3 +43,4 @@ Feeling lucky? How about a roll of the die instead?
 |            __[Yilmas](https://ko-fi.com/yilmas)__            |          |
 |        __[Sigrunixia](https://ko-fi.com/sigrunixia)__        |          |
 |        __[Nicholevdh](https://ko-fi.com/nicolevdh)__         |          |
+|           __[Fate](https://ko-fi.com/fatebreak)__            |          |
