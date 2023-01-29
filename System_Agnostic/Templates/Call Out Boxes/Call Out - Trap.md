@@ -1,0 +1,2 @@
+> [!danger]+ Trap
+> Text

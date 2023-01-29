@@ -1,0 +1,2 @@
+> [!tip]+ Treasure
+> Text
