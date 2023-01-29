@@ -26,7 +26,7 @@ Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
 ![](_attachments/Pathfinder2e-Statblocks-RC1.png)
 
 
-1. Fully fleshed and *mostly*\** theme-proof statblock layout. 
+1. Fully fleshed and *mostly*\* theme-proof statblock layout. 
 2. Initiative tracker integration
 3. Most fields accept markdown (But do not use asterisks, use underscores!)
 4. Conditional fields
@@ -42,7 +42,6 @@ Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
 ## What you need to make this statblock shine
 1. [[_attachments/Path2eBlock.json]], to install into TTRPG Statblocks
 2. [[_attachments/Pathfinder2E-TTRPG-Statblock.css]] into your `.obsidian/snippets` folder. 
-2.a. ITS Users will need to use [[_attachments/Pathfinder2E-TTRPG-Statblock-ITS.css]] until ITS 2.0 is out, or until the TTRPG Share indicates otherwise. 
 
 ### Optional
 3. This [[Template-2ETools-Monster-Handlebar]] file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker.
