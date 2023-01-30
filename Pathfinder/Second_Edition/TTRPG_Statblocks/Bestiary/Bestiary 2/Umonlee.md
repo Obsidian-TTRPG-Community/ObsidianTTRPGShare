@@ -4,7 +4,6 @@ aliases: "Umonlee"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/15
-statblock: true
 statblock: inline
 name: "Umonlee"
 level: 15

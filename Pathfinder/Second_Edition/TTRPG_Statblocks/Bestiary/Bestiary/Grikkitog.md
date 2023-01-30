@@ -4,7 +4,6 @@ aliases: "Grikkitog"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Grikkitog"
 level: 14

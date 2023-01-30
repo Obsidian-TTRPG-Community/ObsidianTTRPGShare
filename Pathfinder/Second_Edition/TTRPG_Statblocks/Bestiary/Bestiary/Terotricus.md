@@ -4,7 +4,6 @@ aliases: "Terotricus"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Terotricus"
 level: 19

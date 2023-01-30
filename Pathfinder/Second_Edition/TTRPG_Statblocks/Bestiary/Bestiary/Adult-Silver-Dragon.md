@@ -4,7 +4,6 @@ aliases: "Adult Silver Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Adult Silver Dragon"
 level: 14

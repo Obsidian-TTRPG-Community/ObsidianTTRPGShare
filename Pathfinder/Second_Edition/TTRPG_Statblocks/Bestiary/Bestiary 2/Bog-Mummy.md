@@ -4,7 +4,6 @@ aliases: "Bog Mummy"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Bog Mummy"
 level: 5

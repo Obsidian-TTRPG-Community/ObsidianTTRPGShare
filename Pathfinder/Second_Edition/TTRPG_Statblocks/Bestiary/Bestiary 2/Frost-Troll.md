@@ -4,7 +4,6 @@ aliases: "Frost Troll"
 tags: 
   - pf2e/creature/type/giant
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Frost Troll"
 level: 4

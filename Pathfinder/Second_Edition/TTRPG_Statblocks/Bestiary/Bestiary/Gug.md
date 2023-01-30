@@ -4,7 +4,6 @@ aliases: "Gug"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Gug"
 level: 10

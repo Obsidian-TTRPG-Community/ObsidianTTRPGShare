@@ -4,7 +4,6 @@ aliases: "Nuckelavee"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Nuckelavee"
 level: 9

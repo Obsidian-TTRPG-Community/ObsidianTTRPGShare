@@ -4,7 +4,6 @@ aliases: "Gnoll Sergeant"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Gnoll Sergeant"
 level: 4

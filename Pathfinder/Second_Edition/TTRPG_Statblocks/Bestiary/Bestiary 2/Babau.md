@@ -4,7 +4,6 @@ aliases: "Babau"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Babau"
 level: 6

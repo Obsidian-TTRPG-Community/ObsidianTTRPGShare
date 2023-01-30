@@ -4,7 +4,6 @@ aliases: "Mitflit"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/-1
-statblock: true
 statblock: inline
 name: "Mitflit"
 level: -1

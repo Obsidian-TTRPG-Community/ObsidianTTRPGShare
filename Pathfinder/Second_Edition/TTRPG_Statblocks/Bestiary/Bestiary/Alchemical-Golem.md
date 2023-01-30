@@ -4,7 +4,6 @@ aliases: "Alchemical Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Alchemical Golem"
 level: 9

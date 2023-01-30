@@ -4,7 +4,6 @@ aliases: "Thrasfyr"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/17
-statblock: true
 statblock: inline
 name: "Thrasfyr"
 level: 17

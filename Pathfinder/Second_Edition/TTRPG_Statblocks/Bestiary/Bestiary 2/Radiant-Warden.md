@@ -4,7 +4,6 @@ aliases: "Radiant Warden"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/17
-statblock: true
 statblock: inline
 name: "Radiant Warden"
 level: 17

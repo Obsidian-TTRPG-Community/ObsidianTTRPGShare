@@ -4,7 +4,6 @@ aliases: "Treerazer"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/25
-statblock: true
 statblock: inline
 name: "Treerazer"
 level: 25

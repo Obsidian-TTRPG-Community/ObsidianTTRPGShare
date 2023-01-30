@@ -4,7 +4,6 @@ aliases: "Giant Chameleon"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Giant Chameleon"
 level: 3

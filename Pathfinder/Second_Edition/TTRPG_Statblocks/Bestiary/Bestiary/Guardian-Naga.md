@@ -4,7 +4,6 @@ aliases: "Guardian Naga"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Guardian Naga"
 level: 10

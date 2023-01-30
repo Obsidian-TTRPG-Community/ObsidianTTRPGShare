@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Wood Giant"
 level: 6

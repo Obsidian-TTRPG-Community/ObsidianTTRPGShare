@@ -4,7 +4,6 @@ aliases: "Nereid"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Nereid"
 level: 10

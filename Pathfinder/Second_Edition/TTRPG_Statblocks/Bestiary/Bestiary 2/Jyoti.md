@@ -4,7 +4,6 @@ aliases: "Jyoti"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Jyoti"
 level: 9

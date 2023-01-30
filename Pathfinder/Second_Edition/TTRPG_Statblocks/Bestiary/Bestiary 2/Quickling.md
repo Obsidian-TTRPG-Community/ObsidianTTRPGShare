@@ -4,7 +4,6 @@ aliases: "Quickling"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Quickling"
 level: 3

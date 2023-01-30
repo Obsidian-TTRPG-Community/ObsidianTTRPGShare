@@ -4,7 +4,6 @@ aliases: "Movanic Deva"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Movanic Deva"
 level: 10

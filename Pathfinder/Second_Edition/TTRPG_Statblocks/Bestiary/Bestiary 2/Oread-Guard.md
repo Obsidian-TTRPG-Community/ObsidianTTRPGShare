@@ -4,7 +4,6 @@ aliases: "Oread Guard"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Oread Guard"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Amoeba Swarm"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Amoeba Swarm"
 level: 1

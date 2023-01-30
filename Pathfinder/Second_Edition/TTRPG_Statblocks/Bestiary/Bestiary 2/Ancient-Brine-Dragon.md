@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/elemental
   - pf2e/creature/level/17
-statblock: true
 statblock: inline
 name: "Ancient Brine Dragon"
 level: 17

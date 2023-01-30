@@ -4,7 +4,6 @@ aliases: "Lemure"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/0
-statblock: true
 statblock: inline
 name: "Lemure"
 level: 0

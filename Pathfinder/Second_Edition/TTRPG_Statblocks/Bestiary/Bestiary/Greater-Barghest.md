@@ -4,7 +4,6 @@ aliases: "Greater Barghest"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Greater Barghest"
 level: 7

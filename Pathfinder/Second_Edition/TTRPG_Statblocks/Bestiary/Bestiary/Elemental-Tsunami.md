@@ -4,7 +4,6 @@ aliases: "Elemental Tsunami"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Elemental Tsunami"
 level: 11

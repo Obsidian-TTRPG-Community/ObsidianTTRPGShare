@@ -4,7 +4,6 @@ aliases: "Leaf Leshy"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/0
-statblock: true
 statblock: inline
 name: "Leaf Leshy"
 level: 0

@@ -4,7 +4,6 @@ aliases: "Quasit"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Quasit"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Adult Blue Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/13
-statblock: true
 statblock: inline
 name: "Adult Blue Dragon"
 level: 13

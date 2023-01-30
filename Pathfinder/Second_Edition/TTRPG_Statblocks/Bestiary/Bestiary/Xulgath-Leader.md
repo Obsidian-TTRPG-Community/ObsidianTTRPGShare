@@ -4,7 +4,6 @@ aliases: "Xulgath Leader"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Xulgath Leader"
 level: 3

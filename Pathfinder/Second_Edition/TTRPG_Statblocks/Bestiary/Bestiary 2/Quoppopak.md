@@ -4,7 +4,6 @@ aliases: "Quoppopak"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Quoppopak"
 level: 11

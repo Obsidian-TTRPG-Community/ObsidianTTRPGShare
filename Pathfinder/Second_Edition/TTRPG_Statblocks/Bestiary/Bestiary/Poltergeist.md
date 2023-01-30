@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Poltergeist"
 level: 5

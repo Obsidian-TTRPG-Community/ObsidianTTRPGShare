@@ -4,7 +4,6 @@ aliases: "Legion Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Legion Archon"
 level: 7

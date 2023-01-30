@@ -4,7 +4,6 @@ aliases: "Boggard Scout"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Boggard Scout"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Snapping Flytrap"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Snapping Flytrap"
 level: 3

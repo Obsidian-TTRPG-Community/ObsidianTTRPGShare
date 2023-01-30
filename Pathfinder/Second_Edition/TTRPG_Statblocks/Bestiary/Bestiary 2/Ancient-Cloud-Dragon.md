@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/elemental
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Ancient Cloud Dragon"
 level: 19

@@ -4,7 +4,6 @@ aliases: "Giant Whiptail Centipede"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Giant Whiptail Centipede"
 level: 3

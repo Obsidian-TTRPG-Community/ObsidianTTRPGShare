@@ -4,7 +4,6 @@ aliases: "Choral"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Choral"
 level: 6

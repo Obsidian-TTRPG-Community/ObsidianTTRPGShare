@@ -4,7 +4,6 @@ aliases: "Giant Wolverine"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Giant Wolverine"
 level: 4

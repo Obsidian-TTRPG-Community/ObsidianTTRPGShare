@@ -4,7 +4,6 @@ aliases: "Web Lurker"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Web Lurker"
 level: 3

@@ -4,7 +4,6 @@ aliases: "Glass Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Glass Golem"
 level: 8

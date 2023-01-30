@@ -4,7 +4,6 @@ aliases: "Gnoll Hunter"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Gnoll Hunter"
 level: 2

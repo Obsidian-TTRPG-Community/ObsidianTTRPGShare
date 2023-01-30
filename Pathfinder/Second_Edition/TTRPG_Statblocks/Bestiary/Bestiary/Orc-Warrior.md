@@ -4,7 +4,6 @@ aliases: "Orc Warrior"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Orc Warrior"
 level: 1

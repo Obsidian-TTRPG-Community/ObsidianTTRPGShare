@@ -4,7 +4,6 @@ aliases: "Cloaker"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Cloaker"
 level: 5

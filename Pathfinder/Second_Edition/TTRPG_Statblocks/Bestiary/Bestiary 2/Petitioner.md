@@ -4,7 +4,6 @@ aliases: "Petitioner"
 tags: 
   - pf2e/creature/type/petitioner
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Petitioner"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Attic Whisperer"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Attic Whisperer"
 level: 4

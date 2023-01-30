@@ -4,7 +4,6 @@ aliases: "Flesh Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Flesh Golem"
 level: 8

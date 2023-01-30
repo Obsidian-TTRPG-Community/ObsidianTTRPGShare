@@ -4,7 +4,6 @@ aliases: "Redcap"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Redcap"
 level: 5

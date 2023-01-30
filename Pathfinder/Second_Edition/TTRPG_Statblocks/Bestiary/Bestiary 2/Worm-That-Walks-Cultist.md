@@ -4,7 +4,6 @@ aliases: "Worm That Walks Cultist"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Worm That Walks Cultist"
 level: 14

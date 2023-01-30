@@ -4,7 +4,6 @@ aliases: "Harpy"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Harpy"
 level: 5

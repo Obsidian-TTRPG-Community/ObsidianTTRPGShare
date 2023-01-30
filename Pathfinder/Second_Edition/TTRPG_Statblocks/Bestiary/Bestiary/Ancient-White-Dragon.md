@@ -4,7 +4,6 @@ aliases: "Ancient White Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/15
-statblock: true
 statblock: inline
 name: "Ancient White Dragon"
 level: 15

@@ -4,7 +4,6 @@ aliases: "Triceratops"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Triceratops"
 level: 8

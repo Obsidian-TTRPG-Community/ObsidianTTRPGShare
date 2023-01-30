@@ -4,7 +4,6 @@ aliases: "Stone Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Stone Golem"
 level: 11

@@ -4,7 +4,6 @@ aliases: "Young Brass Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Young Brass Dragon"
 level: 7

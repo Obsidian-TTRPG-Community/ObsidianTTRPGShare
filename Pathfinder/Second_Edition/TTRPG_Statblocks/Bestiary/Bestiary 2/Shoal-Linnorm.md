@@ -4,7 +4,6 @@ aliases: "Shoal Linnorm"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/15
-statblock: true
 statblock: inline
 name: "Shoal Linnorm"
 level: 15

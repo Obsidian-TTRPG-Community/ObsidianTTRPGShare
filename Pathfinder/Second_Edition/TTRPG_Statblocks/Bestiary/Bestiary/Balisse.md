@@ -4,7 +4,6 @@ aliases: "Balisse"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Balisse"
 level: 8

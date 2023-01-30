@@ -4,7 +4,6 @@ aliases: "Bodak"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Bodak"
 level: 8

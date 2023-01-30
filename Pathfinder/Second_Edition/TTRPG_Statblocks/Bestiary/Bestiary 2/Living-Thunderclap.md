@@ -4,7 +4,6 @@ aliases: "Living Thunderclap"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Living Thunderclap"
 level: 4

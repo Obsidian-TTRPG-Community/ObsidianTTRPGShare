@@ -3,7 +3,6 @@ noteType: pf2eMonster
 aliases: "Petitioner (Astral Plane)"
 tags: 
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Petitioner (Astral Plane)"
 level: 1

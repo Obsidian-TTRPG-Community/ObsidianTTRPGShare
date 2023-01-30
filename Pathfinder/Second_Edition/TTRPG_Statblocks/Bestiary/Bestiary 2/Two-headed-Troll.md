@@ -4,7 +4,6 @@ aliases: "Two-headed Troll"
 tags: 
   - pf2e/creature/type/giant
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Two-headed Troll"
 level: 8

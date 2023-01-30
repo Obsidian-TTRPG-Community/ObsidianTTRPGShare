@@ -4,7 +4,6 @@ aliases: "Viper Vine"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/13
-statblock: true
 statblock: inline
 name: "Viper Vine"
 level: 13

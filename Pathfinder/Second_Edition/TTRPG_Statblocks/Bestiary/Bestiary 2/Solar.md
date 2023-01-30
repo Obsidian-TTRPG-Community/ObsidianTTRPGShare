@@ -4,7 +4,6 @@ aliases: "Solar"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/23
-statblock: true
 statblock: inline
 name: "Solar"
 level: 23

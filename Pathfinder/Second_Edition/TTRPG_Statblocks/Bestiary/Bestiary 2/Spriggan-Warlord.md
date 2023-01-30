@@ -4,7 +4,6 @@ aliases: "Spriggan Warlord"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Spriggan Warlord"
 level: 7

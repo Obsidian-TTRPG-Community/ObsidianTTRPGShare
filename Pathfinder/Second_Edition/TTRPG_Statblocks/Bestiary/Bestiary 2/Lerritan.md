@@ -4,7 +4,6 @@ aliases: "Lerritan"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/21
-statblock: true
 statblock: inline
 name: "Lerritan"
 level: 21

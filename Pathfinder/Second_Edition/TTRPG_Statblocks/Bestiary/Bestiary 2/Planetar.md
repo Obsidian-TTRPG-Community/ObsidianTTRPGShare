@@ -4,7 +4,6 @@ aliases: "Planetar"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/16
-statblock: true
 statblock: inline
 name: "Planetar"
 level: 16

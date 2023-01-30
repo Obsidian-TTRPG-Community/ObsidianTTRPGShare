@@ -4,7 +4,6 @@ aliases: "Giant Eagle"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Giant Eagle"
 level: 3

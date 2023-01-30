@@ -4,7 +4,6 @@ aliases: "Jinkin"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Jinkin"
 level: 1

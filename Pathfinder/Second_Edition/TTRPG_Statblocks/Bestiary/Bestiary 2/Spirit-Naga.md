@@ -4,7 +4,6 @@ aliases: "Spirit Naga"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Spirit Naga"
 level: 9

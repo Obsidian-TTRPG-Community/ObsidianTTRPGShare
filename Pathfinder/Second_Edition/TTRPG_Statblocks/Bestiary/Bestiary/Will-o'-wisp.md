@@ -4,7 +4,6 @@ aliases: "Will-o'-wisp"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Will-o'-wisp"
 level: 6

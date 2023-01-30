@@ -4,7 +4,6 @@ aliases: "Bastion Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/20
-statblock: true
 statblock: inline
 name: "Bastion Archon"
 level: 20

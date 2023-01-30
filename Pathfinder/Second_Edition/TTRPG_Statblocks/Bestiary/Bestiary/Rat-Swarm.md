@@ -4,7 +4,6 @@ aliases: "Rat Swarm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Rat Swarm"
 level: 1

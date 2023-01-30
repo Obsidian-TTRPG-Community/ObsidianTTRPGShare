@@ -4,7 +4,6 @@ aliases: "Grim Reaper"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/21
-statblock: true
 statblock: inline
 name: "Grim Reaper"
 level: 21

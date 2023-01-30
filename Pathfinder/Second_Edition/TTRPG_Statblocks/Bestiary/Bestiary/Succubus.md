@@ -4,7 +4,6 @@ aliases: "Succubus"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Succubus"
 level: 7

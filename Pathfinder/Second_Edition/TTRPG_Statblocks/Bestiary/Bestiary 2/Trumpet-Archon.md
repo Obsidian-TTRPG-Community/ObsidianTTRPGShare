@@ -4,7 +4,6 @@ aliases: "Trumpet Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Trumpet Archon"
 level: 14
