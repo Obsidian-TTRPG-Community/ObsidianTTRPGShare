@@ -14,8 +14,7 @@ Pathfinder Glyphs Only and any associated classes to call those Glyphs
 
 @font-face {
     font-family: "Pathfinder";
-    src: url("data:application/x-font-ttf;charset=utf-8;base64,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")
-        format("truetype");
+    src: url("data:application/x-font-ttf;charset=utf-8;base64,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") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -73,11 +72,10 @@ Our Base for Statblocks Variables
     --statblock-primary-color: rgb(51, 51, 51);
     --statblock-rule-color: rgb(51, 51, 51);
     --statblock-background-color: rgb(246, 244, 242);
-    --statblock-background-color-alt: rgb(
-        229,
-        224,
-        219
-    ); /* Alternate Background Color */
+    --statblock-background-color-alt: rgb(229,
+            224,
+            219);
+    /* Alternate Background Color */
 
     --statblock-bar-color: var(--statblock-rule-color);
     --statblock-bar-border-size: 1px;
@@ -213,12 +211,13 @@ Our Base for Statblocks Variables
 
 /* Bar - Bai Bai Big Top Bar, Hello Tiny Top Bar */
 .statblock[class*="path2eblock"] .bar {
-    height: 1px; /* Default is 5px */
+    height: 1px;
+    /* Default is 5px */
     background: var(--statblock-bar-color);
-    border: var(--statblock-bar-border-size) solid
-        var(--statblock-bar-border-color);
+    border: var(--statblock-bar-border-size) solid var(--statblock-bar-border-color);
     z-index: 1;
-    width: fit-content; /* Default is Auto */
+    width: fit-content;
+    /* Default is Auto */
 }
 
 /* Global Content */
@@ -229,21 +228,19 @@ Our Base for Statblocks Variables
     background-color: var(--statblock-background-color);
     padding: 0.5em;
     border: var(--statblock-border-size) var(--statblock-border-color) solid;
-    box-shadow: var(--statblock-box-shadow-x-offset)
-        var(--statblock-box-shadow-y-offset) var(--statblock-box-shadow-blur)
-        var(--statblock-box-shadow-color);
+    box-shadow: var(--statblock-box-shadow-x-offset) var(--statblock-box-shadow-y-offset) var(--statblock-box-shadow-blur) var(--statblock-box-shadow-color);
     margin-left: 2px;
     margin-right: 2px;
     display: flex;
     gap: 1rem;
 }
 
-.statblock[class*="path2eblock"] .statblock-content > :global(.column) {
+.statblock[class*="path2eblock"] .statblock-content> :global(.column) {
     width: var(--statblock-column-width);
 }
 
 @media screen and (max-width: 400px) {
-   .statblock.statblock[class*="path2eblock"] .statblock-content > :global(.column) {
+    .statblock.statblock[class*="path2eblock"] .statblock-content> :global(.column) {
         width: 75vw;
     }
 }
@@ -270,36 +267,36 @@ Our Base for Statblocks Variables
 }
 
 /* Add margin to all root level containers and inline containers that have a line sub element, except if it is the title bar */
-.statblock[class*="path2eblock"] .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)) {
+.statblock[class*="path2eblock"] .statblock-content>.column> :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)) {
     margin-block: 0.25rem;
 }
 
-.statblock[class*="path2eblock"] .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child {
+.statblock[class*="path2eblock"] .statblock-content>.column> :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child {
     margin-bottom: 0;
 }
 
 /* Add margin to all containers for tapered-rules */
-.statblock[class*="path2eblock"] .statblock-content > .column > .statblock-item-container:has(.tapered-rule) {
+.statblock[class*="path2eblock"] .statblock-content>.column>.statblock-item-container:has(.tapered-rule) {
     margin-block: 0.25rem;
 }
 
 /* Remove margin top from rule followin the title bar */
-.statblock[class*="path2eblock"] .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule) {
+.statblock[class*="path2eblock"] .statblock-content>.column>.statblock-item-inline:has(.name)+.statblock-item-container:has(.tapered-rule) {
     margin-top: 0;
 }
 
 
-.statblock[class*="path2eblock"] .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)) {
+.statblock[class*="path2eblock"] .statblock-content>.column> :is(.statblock-item-container, .statblock-item-inline)> :is(.property, .line:has(.property-name)) {
     margin-left: 1em;
 }
 
-.statblock[class*="path2eblock"] .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name {
+.statblock[class*="path2eblock"] .statblock-content>.column> :is(.statblock-item-container, .statblock-item-inline)> :is(.property, .line) .property-name {
     margin-left: -1em;
 }
 
 
 /* Hazard Block Specific */
-.statblock.path2eblockhaz .statblock-content > .column > .statblock-item-container:has(> .effect) {
+.statblock.path2eblockhaz .statblock-content>.column>.statblock-item-container:has(> .effect) {
     margin-left: 1em;
 }
 
@@ -333,6 +330,7 @@ Usually this is going to be:
     justify-content: space-between;
     align-items: center;
 }
+
 .statblock[class*="path2eblock"] .heading {
     font-family: var(--statblock-heading-font);
     color: var(--statblock-heading-font-color);
@@ -352,16 +350,17 @@ Usually this is going to be:
     width: var(--statblock-image-width);
     height: var(--statblock-image-height);
 }
+
 .statblock[class*="path2eblock"] .image.pointer {
     cursor: pointer;
 }
+
 .statblock[class*="path2eblock"] img {
     object-fit: cover;
     width: 100%;
     height: 100%;
     border-radius: 100%;
-    border: var(--statblock-image-border-size) solid
-        var(--statblock-image-border-color);
+    border: var(--statblock-image-border-size) solid var(--statblock-image-border-color);
     object-position: center;
 }
 
@@ -371,7 +370,7 @@ Usually this is going to be:
     line-height: var(--statblock-property-line-height);
     display: block;
     color: var(--statblock-property-line-font-color);
-} 
+}
 
 /* Make properties look consistent */
 .statblock[class*="path2eblock"] .statblock-rendered-text-content {
@@ -407,6 +406,7 @@ Usually this is going to be:
     break-inside: avoid-column;
     break-after: avoid-column;
 }
+
 .statblock[class*="path2eblock"] h2.section-header {
     border: none;
     color: var(--statblock-section-heading-font-color);
@@ -432,7 +432,8 @@ Usually this is going to be:
     margin-bottom: 0;
     break-inside: avoid-column;
     break-after: avoid-column;
-    display: none; /* Lets just get rid of this for now, actually */
+    display: none;
+    /* Lets just get rid of this for now, actually */
 }
 
 /* Spells */
@@ -571,21 +572,21 @@ Theme Specific Fixes at the End. I cannot ccount for everything in a statblock a
     text-transform: var(--statblock-traits-text-transform);
 }
 
-.statblock[class*="path2eblock"] .rare_01    span.property-name,
-.statblock[class*="path2eblock"] .rare_02    span.property-name,
-.statblock[class*="path2eblock"] .rare_03    span.property-name,
-.statblock[class*="path2eblock"] .rare_04    span.property-name,
-.statblock[class*="path2eblock"] .alignment  span.property-name,
-.statblock[class*="path2eblock"] .size       span.property-name, 
-.statblock[class*="path2eblock"] .xp         span.property-name,
+.statblock[class*="path2eblock"] .rare_01 span.property-name,
+.statblock[class*="path2eblock"] .rare_02 span.property-name,
+.statblock[class*="path2eblock"] .rare_03 span.property-name,
+.statblock[class*="path2eblock"] .rare_04 span.property-name,
+.statblock[class*="path2eblock"] .alignment span.property-name,
+.statblock[class*="path2eblock"] .size span.property-name,
+.statblock[class*="path2eblock"] .xp span.property-name,
 .statblock[class*="path2eblock"] .kingdom_xp span.property-name,
-.statblock[class*="path2eblock"] .trait_01   span.property-name,
-.statblock[class*="path2eblock"] .trait_02   span.property-name,
-.statblock[class*="path2eblock"] .trait_03   span.property-name,
-.statblock[class*="path2eblock"] .trait_04   span.property-name,
-.statblock[class*="path2eblock"] .trait_05   span.property-name,
-.statblock[class*="path2eblock"] .trait_06   span.property-name,
-.statblock[class*="path2eblock"] .trait_07   span.property-name {
+.statblock[class*="path2eblock"] .trait_01 span.property-name,
+.statblock[class*="path2eblock"] .trait_02 span.property-name,
+.statblock[class*="path2eblock"] .trait_03 span.property-name,
+.statblock[class*="path2eblock"] .trait_04 span.property-name,
+.statblock[class*="path2eblock"] .trait_05 span.property-name,
+.statblock[class*="path2eblock"] .trait_06 span.property-name,
+.statblock[class*="path2eblock"] .trait_07 span.property-name {
     display: none;
 }
 
@@ -660,8 +661,8 @@ Now for Specific Fixes!
     flex: 1;
 }
 
-.statblock[class*="path2eblock"] .name,
-.statblock[class*="path2eblock"] .level {
+.statblock[class*="path2eblock"] .name p,
+.statblock[class*="path2eblock"] .level p {
     align-self: flex-start;
     font-size: 1.2em;
     font-weight: 900;
@@ -697,19 +698,19 @@ Now for Specific Fixes!
     text-align: var(--statblock-list-text-align);
 }
 
-.statblock[class*="path2eblock"] .markdown-source-view ol > li,
-.statblock[class*="path2eblock"] .markdown-source-view ul > li,
-.statblock[class*="path2eblock"] .markdown-preview-view ol > li,
-.statblock[class*="path2eblock"] .markdown-preview-view ul > li,
-.statblock[class*="path2eblock"] .markdown-rendered ul > li,
+.statblock[class*="path2eblock"] .markdown-source-view ol>li,
+.statblock[class*="path2eblock"] .markdown-source-view ul>li,
+.statblock[class*="path2eblock"] .markdown-preview-view ol>li,
+.statblock[class*="path2eblock"] .markdown-preview-view ul>li,
+.statblock[class*="path2eblock"] .markdown-rendered ul>li,
 .statblock[class*="path2eblock"] .mod-cm6 .HyperMD-list-line.cm-line {
     padding-top: var(--statblock-list-padding-top);
     padding-bottom: var(--statblock-list-padding-bottom);
 }
 
 
-.statblock[class*="path2eblock"] ol > li::marker,
-ul > li::marker,
+.statblock[class*="path2eblock"] ol>li::marker,
+ul>li::marker,
 .cm-s-obsidian .cm-formatting-list {
     color: var(--list-marker-color);
 }
@@ -721,22 +722,6 @@ ul > li::marker,
     text-indent: 0px;
     text-align: start;
     text-align-last: start;
-}
-
-
-
-
-/* 
-Various Theme Fixes
-*/
-
-/* ITS Theme Retail */
-
-/* ITS - Fixes Background Colors on some properties */
-.statblock[class*="path2eblock"] body,
-.statblock[class*="path2eblock"] .statblock-item-container:nth-child(odd) :is(.line, .property) {
-    background: transparent;
-    background-color: var(--statblock-background-color);
 }
 
 /*
