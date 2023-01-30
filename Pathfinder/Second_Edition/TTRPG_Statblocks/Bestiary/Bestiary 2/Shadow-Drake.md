@@ -4,7 +4,6 @@ aliases: "Shadow Drake"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Shadow Drake"
 level: 2

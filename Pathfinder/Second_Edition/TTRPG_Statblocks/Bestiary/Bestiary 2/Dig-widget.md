@@ -4,7 +4,6 @@ aliases: "Dig-widget"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Dig-widget"
 level: 5

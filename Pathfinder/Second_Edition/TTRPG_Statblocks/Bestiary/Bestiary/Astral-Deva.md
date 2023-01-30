@@ -4,7 +4,6 @@ aliases: "Astral Deva"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Astral Deva"
 level: 14

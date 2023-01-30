@@ -4,7 +4,6 @@ aliases: "Marilith"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/17
-statblock: true
 statblock: inline
 name: "Marilith"
 level: 17

@@ -4,7 +4,6 @@ aliases: "Faerie Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Faerie Dragon"
 level: 2

@@ -4,7 +4,6 @@ aliases: "Osyluth"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Osyluth"
 level: 9

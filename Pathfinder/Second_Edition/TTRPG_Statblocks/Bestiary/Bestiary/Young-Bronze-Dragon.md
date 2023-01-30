@@ -4,7 +4,6 @@ aliases: "Young Bronze Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Young Bronze Dragon"
 level: 9

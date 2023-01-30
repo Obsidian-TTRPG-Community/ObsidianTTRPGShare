@@ -4,7 +4,6 @@ aliases: "Skeletal Horse"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Skeletal Horse"
 level: 2

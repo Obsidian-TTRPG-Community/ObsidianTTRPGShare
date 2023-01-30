@@ -4,7 +4,6 @@ aliases: "Cairn Wight"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Cairn Wight"
 level: 4

@@ -4,7 +4,6 @@ aliases: "Hodag"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Hodag"
 level: 6

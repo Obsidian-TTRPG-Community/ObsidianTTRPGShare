@@ -4,7 +4,6 @@ aliases: "Sacristan"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Sacristan"
 level: 10

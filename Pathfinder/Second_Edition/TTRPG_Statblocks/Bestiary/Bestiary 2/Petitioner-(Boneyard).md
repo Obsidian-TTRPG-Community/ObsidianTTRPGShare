@@ -3,7 +3,6 @@ noteType: pf2eMonster
 aliases: "Petitioner (Boneyard)"
 tags: 
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Petitioner (Boneyard)"
 level: 1

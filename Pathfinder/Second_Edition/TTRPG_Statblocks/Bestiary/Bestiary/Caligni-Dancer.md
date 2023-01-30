@@ -4,7 +4,6 @@ aliases: "Caligni Dancer"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Caligni Dancer"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Mukradi"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/15
-statblock: true
 statblock: inline
 name: "Mukradi"
 level: 15

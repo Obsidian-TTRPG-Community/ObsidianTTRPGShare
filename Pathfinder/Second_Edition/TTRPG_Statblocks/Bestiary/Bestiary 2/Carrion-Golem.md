@@ -4,7 +4,6 @@ aliases: "Carrion Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Carrion Golem"
 level: 4

@@ -4,7 +4,6 @@ aliases: "Mu Spore"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/21
-statblock: true
 statblock: inline
 name: "Mu Spore"
 level: 21

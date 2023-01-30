@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Weretiger"
 level: 4

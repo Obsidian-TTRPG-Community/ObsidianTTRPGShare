@@ -4,7 +4,6 @@ aliases: "Zebub"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Zebub"
 level: 3

@@ -4,7 +4,6 @@ aliases: "Assassin Vine"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Assassin Vine"
 level: 3

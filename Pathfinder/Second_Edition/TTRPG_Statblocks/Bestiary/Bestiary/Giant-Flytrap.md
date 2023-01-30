@@ -4,7 +4,6 @@ aliases: "Giant Flytrap"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Giant Flytrap"
 level: 10

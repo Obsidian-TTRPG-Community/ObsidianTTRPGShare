@@ -4,7 +4,6 @@ aliases: "Animate Dream"
 tags: 
   - pf2e/creature/type/dream
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Animate Dream"
 level: 8

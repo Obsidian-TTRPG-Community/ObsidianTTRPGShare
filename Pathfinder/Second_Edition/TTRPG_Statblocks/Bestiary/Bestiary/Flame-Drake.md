@@ -4,7 +4,6 @@ aliases: "Flame Drake"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Flame Drake"
 level: 5

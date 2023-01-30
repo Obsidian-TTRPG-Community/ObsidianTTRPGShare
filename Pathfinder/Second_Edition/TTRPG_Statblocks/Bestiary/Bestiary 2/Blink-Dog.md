@@ -4,7 +4,6 @@ aliases: "Blink Dog"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Blink Dog"
 level: 2

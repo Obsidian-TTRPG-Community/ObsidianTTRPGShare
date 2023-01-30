@@ -4,7 +4,6 @@ aliases: "Intellect Devourer"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Intellect Devourer"
 level: 8

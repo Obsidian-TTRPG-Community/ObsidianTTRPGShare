@@ -4,7 +4,6 @@ aliases: "Vampiric Mist"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Vampiric Mist"
 level: 3

@@ -4,7 +4,6 @@ aliases: "Yellow Musk Thrall"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/-1
-statblock: true
 statblock: inline
 name: "Yellow Musk Thrall"
 level: -1

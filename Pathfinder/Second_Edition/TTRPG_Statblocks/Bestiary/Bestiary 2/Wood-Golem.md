@@ -4,7 +4,6 @@ aliases: "Wood Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Wood Golem"
 level: 6

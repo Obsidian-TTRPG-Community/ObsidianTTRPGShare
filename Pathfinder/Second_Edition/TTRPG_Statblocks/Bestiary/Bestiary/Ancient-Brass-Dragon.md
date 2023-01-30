@@ -4,7 +4,6 @@ aliases: "Ancient Brass Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/16
-statblock: true
 statblock: inline
 name: "Ancient Brass Dragon"
 level: 16

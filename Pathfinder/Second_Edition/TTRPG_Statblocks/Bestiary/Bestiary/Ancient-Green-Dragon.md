@@ -4,7 +4,6 @@ aliases: "Ancient Green Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/17
-statblock: true
 statblock: inline
 name: "Ancient Green Dragon"
 level: 17

@@ -4,7 +4,6 @@ aliases: "Badger"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
-statblock: true
 statblock: inline
 name: "Badger"
 level: 0

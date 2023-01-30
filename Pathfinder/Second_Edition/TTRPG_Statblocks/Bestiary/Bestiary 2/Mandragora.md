@@ -4,7 +4,6 @@ aliases: "Mandragora"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Mandragora"
 level: 4

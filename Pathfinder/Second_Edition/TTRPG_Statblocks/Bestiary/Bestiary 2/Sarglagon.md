@@ -4,7 +4,6 @@ aliases: "Sarglagon"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Sarglagon"
 level: 8

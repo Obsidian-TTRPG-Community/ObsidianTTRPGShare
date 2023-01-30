@@ -4,7 +4,6 @@ aliases: "Griffon"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Griffon"
 level: 4

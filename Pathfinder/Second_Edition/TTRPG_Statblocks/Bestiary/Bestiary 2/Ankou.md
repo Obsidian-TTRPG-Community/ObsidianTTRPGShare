@@ -4,7 +4,6 @@ aliases: "Ankou"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Ankou"
 level: 14

@@ -4,7 +4,6 @@ aliases: "Animated Armor"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Animated Armor"
 level: 2

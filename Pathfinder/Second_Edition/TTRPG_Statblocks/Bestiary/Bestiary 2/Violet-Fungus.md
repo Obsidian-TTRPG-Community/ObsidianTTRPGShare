@@ -4,7 +4,6 @@ aliases: "Violet Fungus"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Violet Fungus"
 level: 3

@@ -4,7 +4,6 @@ aliases: "Elananx"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Elananx"
 level: 6

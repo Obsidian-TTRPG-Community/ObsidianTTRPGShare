@@ -4,7 +4,6 @@ aliases: "Shining Child"
 tags: 
   - pf2e/creature/type/astral
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Shining Child"
 level: 12

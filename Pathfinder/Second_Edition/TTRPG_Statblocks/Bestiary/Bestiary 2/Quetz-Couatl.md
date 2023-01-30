@@ -4,7 +4,6 @@ aliases: "Quetz Couatl"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Quetz Couatl"
 level: 10

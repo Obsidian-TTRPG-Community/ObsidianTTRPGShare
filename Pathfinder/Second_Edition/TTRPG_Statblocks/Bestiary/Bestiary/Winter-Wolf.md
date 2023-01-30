@@ -4,7 +4,6 @@ aliases: "Winter Wolf"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Winter Wolf"
 level: 5

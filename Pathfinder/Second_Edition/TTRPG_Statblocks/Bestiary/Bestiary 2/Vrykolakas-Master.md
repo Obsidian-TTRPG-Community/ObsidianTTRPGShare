@@ -4,7 +4,6 @@ aliases: "Vrykolakas Master"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Vrykolakas Master"
 level: 10

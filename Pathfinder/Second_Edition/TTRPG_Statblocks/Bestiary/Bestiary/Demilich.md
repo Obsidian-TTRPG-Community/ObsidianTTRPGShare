@@ -4,7 +4,6 @@ aliases: "Demilich"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/15
-statblock: true
 statblock: inline
 name: "Demilich"
 level: 15

@@ -4,7 +4,6 @@ aliases: "Horned Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Horned Archon"
 level: 4

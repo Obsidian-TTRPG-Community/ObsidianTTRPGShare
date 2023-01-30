@@ -4,7 +4,6 @@ aliases: "Vampire Spawn Rogue"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Vampire Spawn Rogue"
 level: 4

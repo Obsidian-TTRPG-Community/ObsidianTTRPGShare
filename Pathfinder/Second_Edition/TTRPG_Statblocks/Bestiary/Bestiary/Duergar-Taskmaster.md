@@ -4,7 +4,6 @@ aliases: "Duergar Taskmaster"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Duergar Taskmaster"
 level: 2
@@ -35,7 +34,7 @@ abilityMods: [2, 0, 2, 0, 2, 3]
 
 abilities_mid:
   - name: "Iron Mind"
-    desc: "  Duergar taskmasters automatically [[disbelieving illusions|disbelieve all illusions]] of 1st level or lower."
+    desc: "  Duergar taskmasters automatically [[2|disbelieving illusions|0|disbelieve all illusion]] of 1st level or lower."
   - name: "Light Blindness"
     desc: " "
 abilities_top:

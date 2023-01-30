@@ -4,7 +4,6 @@ aliases: "Shield Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Shield Archon"
 level: 10

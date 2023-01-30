@@ -4,7 +4,6 @@ aliases: "Giant Animated Statue"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Giant Animated Statue"
 level: 7

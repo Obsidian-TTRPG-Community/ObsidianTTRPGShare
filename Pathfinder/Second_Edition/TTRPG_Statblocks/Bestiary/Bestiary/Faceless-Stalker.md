@@ -4,7 +4,6 @@ aliases: "Faceless Stalker"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Faceless Stalker"
 level: 4

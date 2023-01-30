@@ -4,7 +4,6 @@ aliases: "Baomal"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/20
-statblock: true
 statblock: inline
 name: "Baomal"
 level: 20

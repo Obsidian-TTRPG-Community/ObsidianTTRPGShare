@@ -4,7 +4,6 @@ aliases: "Gourd Leshy"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Gourd Leshy"
 level: 1

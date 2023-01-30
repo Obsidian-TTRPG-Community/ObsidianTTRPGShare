@@ -4,7 +4,6 @@ aliases: "Rust Monster"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Rust Monster"
 level: 3

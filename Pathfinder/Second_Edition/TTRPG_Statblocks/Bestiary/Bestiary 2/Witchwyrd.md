@@ -4,7 +4,6 @@ aliases: "Witchwyrd"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Witchwyrd"
 level: 6

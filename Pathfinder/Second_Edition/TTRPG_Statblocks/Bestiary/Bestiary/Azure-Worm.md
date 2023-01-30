@@ -4,7 +4,6 @@ aliases: "Azure Worm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/15
-statblock: true
 statblock: inline
 name: "Azure Worm"
 level: 15

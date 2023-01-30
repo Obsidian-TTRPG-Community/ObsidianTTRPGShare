@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/undead
   - pf2e/creature/level/14
-statblock: true
 statblock: inline
 name: "Ravener Husk"
 level: 14

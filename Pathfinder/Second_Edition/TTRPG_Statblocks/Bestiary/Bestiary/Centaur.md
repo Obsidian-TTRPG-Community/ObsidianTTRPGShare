@@ -4,7 +4,6 @@ aliases: "Centaur"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Centaur"
 level: 3

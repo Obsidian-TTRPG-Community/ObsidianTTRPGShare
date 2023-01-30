@@ -4,7 +4,6 @@ aliases: "Gosreg"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Gosreg"
 level: 11

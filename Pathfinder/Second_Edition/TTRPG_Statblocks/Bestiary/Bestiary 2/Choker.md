@@ -4,7 +4,6 @@ aliases: "Choker"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Choker"
 level: 2

@@ -4,7 +4,6 @@ aliases: "Striding Fire"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Striding Fire"
 level: 6

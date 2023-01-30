@@ -4,7 +4,6 @@ aliases: "Peluda"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Peluda"
 level: 10

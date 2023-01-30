@@ -4,7 +4,6 @@ aliases: "Bulette"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Bulette"
 level: 8

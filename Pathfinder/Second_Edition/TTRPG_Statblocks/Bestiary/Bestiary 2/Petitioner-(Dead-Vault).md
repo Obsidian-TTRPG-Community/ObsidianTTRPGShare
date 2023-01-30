@@ -3,7 +3,6 @@ noteType: pf2eMonster
 aliases: "Petitioner (Dead Vault)"
 tags: 
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Petitioner (Dead Vault)"
 level: 1

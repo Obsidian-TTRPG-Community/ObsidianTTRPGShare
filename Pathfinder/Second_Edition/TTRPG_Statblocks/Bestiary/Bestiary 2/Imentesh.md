@@ -4,7 +4,6 @@ aliases: "Imentesh"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Imentesh"
 level: 10

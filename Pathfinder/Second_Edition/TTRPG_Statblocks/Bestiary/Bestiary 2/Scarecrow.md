@@ -4,7 +4,6 @@ aliases: "Scarecrow"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Scarecrow"
 level: 4

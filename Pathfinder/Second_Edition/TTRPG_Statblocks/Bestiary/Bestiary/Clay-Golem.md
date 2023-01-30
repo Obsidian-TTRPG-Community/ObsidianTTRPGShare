@@ -4,7 +4,6 @@ aliases: "Clay Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Clay Golem"
 level: 10

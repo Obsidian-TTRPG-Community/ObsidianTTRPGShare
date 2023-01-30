@@ -4,7 +4,6 @@ aliases: "Dezullon"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Dezullon"
 level: 10

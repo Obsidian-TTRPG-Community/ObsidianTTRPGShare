@@ -4,7 +4,6 @@ aliases: "Kelpie"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Kelpie"
 level: 4

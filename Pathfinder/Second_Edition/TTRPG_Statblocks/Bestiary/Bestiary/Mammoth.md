@@ -4,7 +4,6 @@ aliases: "Mammoth"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Mammoth"
 level: 10

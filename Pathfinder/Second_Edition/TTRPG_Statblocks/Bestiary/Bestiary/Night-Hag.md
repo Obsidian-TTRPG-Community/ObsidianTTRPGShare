@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/fiend
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Night Hag"
 level: 9

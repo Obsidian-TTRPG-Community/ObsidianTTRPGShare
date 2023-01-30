@@ -4,7 +4,6 @@ aliases: "Sea Devil Scout"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Sea Devil Scout"
 level: 2

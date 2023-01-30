@@ -4,7 +4,6 @@ aliases: "Lantern Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Lantern Archon"
 level: 1

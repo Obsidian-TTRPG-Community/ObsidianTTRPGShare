@@ -4,7 +4,6 @@ aliases: "Iron Golem"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/13
-statblock: true
 statblock: inline
 name: "Iron Golem"
 level: 13

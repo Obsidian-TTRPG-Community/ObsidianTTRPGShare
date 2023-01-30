@@ -6,7 +6,6 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/17
-statblock: true
 statblock: inline
 name: "Water Yai"
 level: 17

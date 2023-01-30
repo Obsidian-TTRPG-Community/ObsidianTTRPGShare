@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/giant
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Athach"
 level: 12

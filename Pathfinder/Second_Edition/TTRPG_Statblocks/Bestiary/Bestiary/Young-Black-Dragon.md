@@ -4,7 +4,6 @@ aliases: "Young Black Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Young Black Dragon"
 level: 7

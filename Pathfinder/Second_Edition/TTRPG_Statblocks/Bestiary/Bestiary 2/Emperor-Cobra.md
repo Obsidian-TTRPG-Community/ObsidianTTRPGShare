@@ -4,7 +4,6 @@ aliases: "Emperor Cobra"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Emperor Cobra"
 level: 5

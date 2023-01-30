@@ -4,7 +4,6 @@ aliases: "Devourer"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Devourer"
 level: 11

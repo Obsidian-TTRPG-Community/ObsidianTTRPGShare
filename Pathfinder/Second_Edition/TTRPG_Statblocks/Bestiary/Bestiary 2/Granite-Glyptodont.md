@@ -4,7 +4,6 @@ aliases: "Granite Glyptodont"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Granite Glyptodont"
 level: 8

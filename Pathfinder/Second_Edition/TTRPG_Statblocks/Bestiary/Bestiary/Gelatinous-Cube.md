@@ -4,7 +4,6 @@ aliases: "Gelatinous Cube"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Gelatinous Cube"
 level: 3

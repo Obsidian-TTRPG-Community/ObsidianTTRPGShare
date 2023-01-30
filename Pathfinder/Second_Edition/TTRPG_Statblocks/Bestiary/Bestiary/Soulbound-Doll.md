@@ -4,7 +4,6 @@ aliases: "Soulbound Doll"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Soulbound Doll"
 level: 2
@@ -54,7 +53,7 @@ attacks:
 
 spellcasting:
   - name: "Occult Innate Spells"
-    desc: "DC 18, attack +8; __Cantrips (1st)__ [[light]], [[mage hand]], [[prestidigitation]]; __3rd__ [[levitate]], one additional spell depending on the donor soul's alignment __Lawful Good:__ [[zone of truth]]; __Neutral Good:__ [[heroism]]; __Chaotic Good:__ [[heal]]; __Lawful Neutral:__ [[nondetection]]; __Neutral:__ [[wall of thorns]]; __Chaotic Neutral:__ [[grease]]; __Lawful Evil:__ [[chilling darkness]]; __Neutral Evil:__ [[harm]]; __Chaotic Evil:__ [[vampiric touch]];"
+    desc: "DC 18, attack +8; __Cantrips (1st)__ [[light]], [[mage hand]], [[prestidigitation]]; __3rd__ [[levitate]], [[one additional spell depending on the donor soul's alignment]] __Lawful Good:__ [[zone of truth]]; __Neutral Good:__ [[heroism]]; __Chaotic Good:__ [[heal]]; __Lawful Neutral:__ [[nondetection]]; __Neutral:__ [[wall of thorns]]; __Chaotic Neutral:__ [[grease]]; __Lawful Evil:__ [[chilling darkness]]; __Neutral Evil:__ [[harm]]; __Chaotic Evil:__ [[vampiric touch]];"
 sourcebook: "_Bestiary_, page 304."
 ```
 

@@ -4,7 +4,6 @@ aliases: "Mummy Guardian"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Mummy Guardian"
 level: 6

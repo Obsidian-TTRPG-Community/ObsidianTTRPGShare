@@ -4,7 +4,6 @@ aliases: "Behemoth Hippopotamus"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Behemoth Hippopotamus"
 level: 10

@@ -4,7 +4,6 @@ aliases: "Alghollthu Master"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Alghollthu Master"
 level: 7

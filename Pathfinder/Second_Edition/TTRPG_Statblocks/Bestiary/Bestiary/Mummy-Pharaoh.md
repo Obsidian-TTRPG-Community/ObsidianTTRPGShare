@@ -4,7 +4,6 @@ aliases: "Mummy Pharaoh"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Mummy Pharaoh"
 level: 9

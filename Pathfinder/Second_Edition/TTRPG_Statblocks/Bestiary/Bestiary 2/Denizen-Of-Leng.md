@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/aberration
   - pf2e/creature/type/dream
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Denizen Of Leng"
 level: 8

@@ -4,7 +4,6 @@ aliases: "Spark Bat"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Spark Bat"
 level: 2

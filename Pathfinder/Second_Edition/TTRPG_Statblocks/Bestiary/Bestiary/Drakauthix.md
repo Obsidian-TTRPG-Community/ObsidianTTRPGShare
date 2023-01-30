@@ -4,7 +4,6 @@ aliases: "Drakauthix"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Drakauthix"
 level: 9

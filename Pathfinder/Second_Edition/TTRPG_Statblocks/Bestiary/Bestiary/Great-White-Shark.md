@@ -4,7 +4,6 @@ aliases: "Great White Shark"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Great White Shark"
 level: 4

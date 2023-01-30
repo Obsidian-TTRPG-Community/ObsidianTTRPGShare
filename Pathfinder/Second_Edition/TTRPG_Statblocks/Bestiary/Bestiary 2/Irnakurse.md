@@ -4,7 +4,6 @@ aliases: "Irnakurse"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Irnakurse"
 level: 9

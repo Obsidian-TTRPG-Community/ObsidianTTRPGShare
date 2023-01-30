@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/fungus
   - pf2e/creature/type/plant
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Tendriculos"
 level: 7

@@ -4,7 +4,6 @@ aliases: "Sea Drake"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Sea Drake"
 level: 6

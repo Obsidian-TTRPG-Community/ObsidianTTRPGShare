@@ -4,7 +4,6 @@ aliases: "Monadic Deva"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Monadic Deva"
 level: 12
