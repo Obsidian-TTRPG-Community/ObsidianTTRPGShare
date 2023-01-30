@@ -4,7 +4,6 @@ aliases: "Chernobue"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Chernobue"
 level: 12

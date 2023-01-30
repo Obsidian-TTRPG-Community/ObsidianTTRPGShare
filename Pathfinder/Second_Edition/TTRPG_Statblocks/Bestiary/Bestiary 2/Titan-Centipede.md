@@ -4,7 +4,6 @@ aliases: "Titan Centipede"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Titan Centipede"
 level: 9

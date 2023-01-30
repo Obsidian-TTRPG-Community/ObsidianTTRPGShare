@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/beast
   - pf2e/creature/type/fiend
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Bebilith"
 level: 10

@@ -4,7 +4,6 @@ aliases: "Earthen Destrier"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Earthen Destrier"
 level: 4

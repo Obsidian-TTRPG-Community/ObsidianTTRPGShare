@@ -4,7 +4,6 @@ aliases: "Star Archon"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Star Archon"
 level: 19

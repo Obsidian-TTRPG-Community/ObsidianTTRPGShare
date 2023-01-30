@@ -4,7 +4,6 @@ aliases: "Warsworn"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/16
-statblock: true
 statblock: inline
 name: "Warsworn"
 level: 16

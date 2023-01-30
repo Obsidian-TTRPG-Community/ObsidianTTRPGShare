@@ -4,7 +4,6 @@ aliases: "Dullahan"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Dullahan"
 level: 7

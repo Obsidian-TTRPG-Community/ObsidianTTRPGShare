@@ -4,7 +4,6 @@ aliases: "Pleroma"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/20
-statblock: true
 statblock: inline
 name: "Pleroma"
 level: 20

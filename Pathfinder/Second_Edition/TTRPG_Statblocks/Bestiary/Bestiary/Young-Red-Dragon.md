@@ -4,7 +4,6 @@ aliases: "Young Red Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Young Red Dragon"
 level: 10

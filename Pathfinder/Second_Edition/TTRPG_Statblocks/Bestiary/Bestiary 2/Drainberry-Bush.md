@@ -4,7 +4,6 @@ aliases: "Drainberry Bush"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Drainberry Bush"
 level: 7

@@ -4,7 +4,6 @@ aliases: "Astradaemon"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/16
-statblock: true
 statblock: inline
 name: "Astradaemon"
 level: 16

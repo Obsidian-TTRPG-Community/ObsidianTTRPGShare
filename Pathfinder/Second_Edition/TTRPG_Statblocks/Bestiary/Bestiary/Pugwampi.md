@@ -4,7 +4,6 @@ aliases: "Pugwampi"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/0
-statblock: true
 statblock: inline
 name: "Pugwampi"
 level: 0

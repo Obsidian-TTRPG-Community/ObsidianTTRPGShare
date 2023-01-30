@@ -4,7 +4,6 @@ aliases: "Flytrap Leshy"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Flytrap Leshy"
 level: 4

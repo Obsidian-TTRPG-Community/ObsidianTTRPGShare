@@ -4,7 +4,6 @@ aliases: "Blizzardborn"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Blizzardborn"
 level: 6

@@ -4,7 +4,6 @@ aliases: "Giant Amoeba"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Giant Amoeba"
 level: 1

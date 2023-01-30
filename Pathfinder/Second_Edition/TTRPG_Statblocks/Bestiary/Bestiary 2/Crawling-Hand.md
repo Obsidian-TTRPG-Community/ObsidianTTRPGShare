@@ -4,7 +4,6 @@ aliases: "Crawling Hand"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/-1
-statblock: true
 statblock: inline
 name: "Crawling Hand"
 level: -1

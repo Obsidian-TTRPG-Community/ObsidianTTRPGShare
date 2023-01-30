@@ -4,7 +4,6 @@ aliases: "Spiral Centurion"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Spiral Centurion"
 level: 11

@@ -4,7 +4,6 @@ aliases: "Frost Worm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Frost Worm"
 level: 12

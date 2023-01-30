@@ -4,7 +4,6 @@ aliases: "Cairn Linnorm"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/18
-statblock: true
 statblock: inline
 name: "Cairn Linnorm"
 level: 18

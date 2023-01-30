@@ -4,7 +4,6 @@ aliases: "Axiomite"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Axiomite"
 level: 8

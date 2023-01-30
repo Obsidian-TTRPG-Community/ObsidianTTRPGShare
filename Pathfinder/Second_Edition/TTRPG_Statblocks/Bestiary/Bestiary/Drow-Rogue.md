@@ -4,7 +4,6 @@ aliases: "Drow Rogue"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Drow Rogue"
 level: 2

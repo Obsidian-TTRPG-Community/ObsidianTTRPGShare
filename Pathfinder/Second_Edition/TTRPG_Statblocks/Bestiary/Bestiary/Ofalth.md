@@ -4,7 +4,6 @@ aliases: "Ofalth"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Ofalth"
 level: 10

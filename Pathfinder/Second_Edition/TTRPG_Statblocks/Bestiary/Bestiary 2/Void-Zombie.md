@@ -4,7 +4,6 @@ aliases: "Void Zombie"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Void Zombie"
 level: 1

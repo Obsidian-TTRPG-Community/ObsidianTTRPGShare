@@ -4,7 +4,6 @@ aliases: "Cinder Rat"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Cinder Rat"
 level: 3

@@ -4,7 +4,6 @@ aliases: "Lich"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Lich"
 level: 12

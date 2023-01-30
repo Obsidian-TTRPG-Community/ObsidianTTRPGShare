@@ -4,7 +4,6 @@ aliases: "Vampire Bat Swarm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Vampire Bat Swarm"
 level: 1

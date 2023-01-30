@@ -4,7 +4,6 @@ aliases: "Guthallath"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Guthallath"
 level: 19

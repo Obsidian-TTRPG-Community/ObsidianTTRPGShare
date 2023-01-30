@@ -4,7 +4,6 @@ aliases: "Zombie Hulk"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Zombie Hulk"
 level: 6

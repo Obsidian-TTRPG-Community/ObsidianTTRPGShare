@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/spirit
   - pf2e/creature/type/undead
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Ghost Commoner"
 level: 4

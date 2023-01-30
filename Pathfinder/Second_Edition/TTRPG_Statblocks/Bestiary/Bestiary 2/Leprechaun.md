@@ -4,7 +4,6 @@ aliases: "Leprechaun"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Leprechaun"
 level: 2

@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/plant
   - pf2e/creature/level/16
-statblock: true
 statblock: inline
 name: "Zomok"
 level: 16

@@ -4,7 +4,6 @@ aliases: "Shambler"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Shambler"
 level: 6

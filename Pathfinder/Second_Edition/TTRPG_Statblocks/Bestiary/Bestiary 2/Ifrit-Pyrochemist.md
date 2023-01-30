@@ -4,7 +4,6 @@ aliases: "Ifrit Pyrochemist"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Ifrit Pyrochemist"
 level: 1

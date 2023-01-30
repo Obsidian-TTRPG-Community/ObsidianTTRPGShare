@@ -4,7 +4,6 @@ aliases: "Sportlebore Swarm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Sportlebore Swarm"
 level: 7

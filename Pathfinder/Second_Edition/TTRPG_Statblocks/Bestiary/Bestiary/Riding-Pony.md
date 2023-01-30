@@ -4,7 +4,6 @@ aliases: "Riding Pony"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/0
-statblock: true
 statblock: inline
 name: "Riding Pony"
 level: 0

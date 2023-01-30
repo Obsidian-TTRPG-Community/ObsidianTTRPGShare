@@ -4,7 +4,6 @@ aliases: "Deadly Mantis"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/11
-statblock: true
 statblock: inline
 name: "Deadly Mantis"
 level: 11

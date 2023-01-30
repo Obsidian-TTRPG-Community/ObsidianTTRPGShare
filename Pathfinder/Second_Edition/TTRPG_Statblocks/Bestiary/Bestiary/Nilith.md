@@ -4,7 +4,6 @@ aliases: "Nilith"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Nilith"
 level: 10

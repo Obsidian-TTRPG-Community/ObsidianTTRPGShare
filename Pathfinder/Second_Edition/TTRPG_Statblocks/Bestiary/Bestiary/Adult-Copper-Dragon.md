@@ -4,7 +4,6 @@ aliases: "Adult Copper Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Adult Copper Dragon"
 level: 12

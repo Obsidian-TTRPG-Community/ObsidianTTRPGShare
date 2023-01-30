@@ -4,7 +4,6 @@ aliases: "Lillend"
 tags: 
   - pf2e/creature/type/celestial
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Lillend"
 level: 7

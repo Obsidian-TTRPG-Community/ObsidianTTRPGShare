@@ -4,7 +4,6 @@ aliases: "Coil Spy"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Coil Spy"
 level: 4

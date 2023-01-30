@@ -4,7 +4,6 @@ aliases: "Poracha"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Poracha"
 level: 4

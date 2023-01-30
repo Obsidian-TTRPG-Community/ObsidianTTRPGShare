@@ -4,7 +4,6 @@ aliases: "Giant Bat"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Giant Bat"
 level: 2

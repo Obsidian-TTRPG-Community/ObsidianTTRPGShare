@@ -4,7 +4,6 @@ aliases: "Ancient Red Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Ancient Red Dragon"
 level: 19

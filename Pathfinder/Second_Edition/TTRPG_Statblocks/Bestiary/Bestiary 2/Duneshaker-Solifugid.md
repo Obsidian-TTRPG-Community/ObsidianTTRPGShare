@@ -4,7 +4,6 @@ aliases: "Duneshaker Solifugid"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/18
-statblock: true
 statblock: inline
 name: "Duneshaker Solifugid"
 level: 18

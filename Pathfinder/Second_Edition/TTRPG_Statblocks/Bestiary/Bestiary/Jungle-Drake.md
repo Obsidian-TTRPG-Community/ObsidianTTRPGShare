@@ -4,7 +4,6 @@ aliases: "Jungle Drake"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Jungle Drake"
 level: 6

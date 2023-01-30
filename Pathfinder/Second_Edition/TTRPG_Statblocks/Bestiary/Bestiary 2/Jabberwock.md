@@ -4,7 +4,6 @@ aliases: "Jabberwock"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/23
-statblock: true
 statblock: inline
 name: "Jabberwock"
 level: 23

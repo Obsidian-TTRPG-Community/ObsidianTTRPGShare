@@ -4,7 +4,6 @@ aliases: "Gimmerling"
 tags: 
   - pf2e/creature/type/fey
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Gimmerling"
 level: 12

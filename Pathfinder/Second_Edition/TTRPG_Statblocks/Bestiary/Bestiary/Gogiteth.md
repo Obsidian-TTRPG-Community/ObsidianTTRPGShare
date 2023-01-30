@@ -4,7 +4,6 @@ aliases: "Gogiteth"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Gogiteth"
 level: 12

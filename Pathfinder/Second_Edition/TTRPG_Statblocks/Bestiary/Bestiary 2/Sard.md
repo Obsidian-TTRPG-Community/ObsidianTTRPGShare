@@ -4,7 +4,6 @@ aliases: "Sard"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Sard"
 level: 19

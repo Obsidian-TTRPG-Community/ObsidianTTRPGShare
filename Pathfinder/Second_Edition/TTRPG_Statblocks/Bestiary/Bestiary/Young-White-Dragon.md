@@ -4,7 +4,6 @@ aliases: "Young White Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Young White Dragon"
 level: 6

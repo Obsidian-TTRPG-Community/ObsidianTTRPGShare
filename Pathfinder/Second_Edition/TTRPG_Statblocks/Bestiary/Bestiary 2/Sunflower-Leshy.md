@@ -4,7 +4,6 @@ aliases: "Sunflower Leshy"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Sunflower Leshy"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Chuul"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Chuul"
 level: 7

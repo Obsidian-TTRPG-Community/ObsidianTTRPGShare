@@ -4,7 +4,6 @@ aliases: "Troll"
 tags: 
   - pf2e/creature/type/giant
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Troll"
 level: 5

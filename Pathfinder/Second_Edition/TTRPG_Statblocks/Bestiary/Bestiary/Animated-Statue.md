@@ -4,7 +4,6 @@ aliases: "Animated Statue"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Animated Statue"
 level: 3

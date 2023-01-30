@@ -4,7 +4,6 @@ aliases: "Brine Shark"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Brine Shark"
 level: 3

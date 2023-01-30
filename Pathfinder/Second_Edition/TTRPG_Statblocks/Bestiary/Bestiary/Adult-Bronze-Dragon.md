@@ -4,7 +4,6 @@ aliases: "Adult Bronze Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/13
-statblock: true
 statblock: inline
 name: "Adult Bronze Dragon"
 level: 13

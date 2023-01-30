@@ -4,7 +4,6 @@ aliases: "Verdurous Ooze"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Verdurous Ooze"
 level: 6

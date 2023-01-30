@@ -4,7 +4,6 @@ aliases: "Catoblepas"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/12
-statblock: true
 statblock: inline
 name: "Catoblepas"
 level: 12

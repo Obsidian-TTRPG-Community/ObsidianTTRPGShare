@@ -4,7 +4,6 @@ aliases: "Frost Drake"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Frost Drake"
 level: 7

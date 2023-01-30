@@ -4,7 +4,6 @@ aliases: "Giant Snapping Turtle"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/9
-statblock: true
 statblock: inline
 name: "Giant Snapping Turtle"
 level: 9

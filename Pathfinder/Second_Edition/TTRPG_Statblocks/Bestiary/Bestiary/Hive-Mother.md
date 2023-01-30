@@ -4,7 +4,6 @@ aliases: "Hive Mother"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Hive Mother"
 level: 8

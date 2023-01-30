@@ -4,7 +4,6 @@ aliases: "Arbiter"
 tags: 
   - pf2e/creature/type/monitor
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Arbiter"
 level: 1

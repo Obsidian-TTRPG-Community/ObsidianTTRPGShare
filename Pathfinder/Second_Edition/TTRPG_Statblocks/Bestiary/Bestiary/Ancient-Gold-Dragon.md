@@ -4,7 +4,6 @@ aliases: "Ancient Gold Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/20
-statblock: true
 statblock: inline
 name: "Ancient Gold Dragon"
 level: 20

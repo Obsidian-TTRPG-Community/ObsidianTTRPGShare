@@ -4,7 +4,6 @@ aliases: "Water Orm"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Water Orm"
 level: 10

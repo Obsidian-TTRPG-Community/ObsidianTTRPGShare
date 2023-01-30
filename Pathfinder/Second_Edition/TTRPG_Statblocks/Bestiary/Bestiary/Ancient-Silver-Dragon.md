@@ -4,7 +4,6 @@ aliases: "Ancient Silver Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/19
-statblock: true
 statblock: inline
 name: "Ancient Silver Dragon"
 level: 19

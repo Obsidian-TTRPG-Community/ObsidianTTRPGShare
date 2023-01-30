@@ -4,7 +4,6 @@ aliases: "Sewer Ooze"
 tags: 
   - pf2e/creature/type/ooze
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Sewer Ooze"
 level: 1

@@ -4,7 +4,6 @@ aliases: "Orc Brute"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/0
-statblock: true
 statblock: inline
 name: "Orc Brute"
 level: 0

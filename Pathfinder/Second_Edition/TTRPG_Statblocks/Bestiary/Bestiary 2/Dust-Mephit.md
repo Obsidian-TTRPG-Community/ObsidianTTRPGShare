@@ -4,7 +4,6 @@ aliases: "Dust Mephit"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Dust Mephit"
 level: 1

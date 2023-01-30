@@ -4,7 +4,6 @@ aliases: "Gelugon"
 tags: 
   - pf2e/creature/type/fiend
   - pf2e/creature/level/13
-statblock: true
 statblock: inline
 name: "Gelugon"
 level: 13

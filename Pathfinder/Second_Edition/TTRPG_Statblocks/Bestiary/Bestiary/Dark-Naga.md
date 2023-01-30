@@ -4,7 +4,6 @@ aliases: "Dark Naga"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Dark Naga"
 level: 7

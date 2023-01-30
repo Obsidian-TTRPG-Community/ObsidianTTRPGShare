@@ -4,7 +4,6 @@ aliases: "Ghast"
 tags: 
   - pf2e/creature/type/undead
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Ghast"
 level: 2

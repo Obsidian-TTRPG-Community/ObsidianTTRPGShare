@@ -4,7 +4,6 @@ aliases: "Fen Mosquito Swarm"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Fen Mosquito Swarm"
 level: 3

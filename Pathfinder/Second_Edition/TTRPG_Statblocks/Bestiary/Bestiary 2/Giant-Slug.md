@@ -4,7 +4,6 @@ aliases: "Giant Slug"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Giant Slug"
 level: 8

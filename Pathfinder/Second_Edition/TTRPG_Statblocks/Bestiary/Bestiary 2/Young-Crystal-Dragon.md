@@ -5,7 +5,6 @@ tags:
   - pf2e/creature/type/dragon
   - pf2e/creature/type/elemental
   - pf2e/creature/level/7
-statblock: true
 statblock: inline
 name: "Young Crystal Dragon"
 level: 7

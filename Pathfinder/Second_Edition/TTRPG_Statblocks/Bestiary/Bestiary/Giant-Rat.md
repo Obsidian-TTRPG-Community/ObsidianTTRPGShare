@@ -4,7 +4,6 @@ aliases: "Giant Rat"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
-statblock: true
 statblock: inline
 name: "Giant Rat"
 level: -1

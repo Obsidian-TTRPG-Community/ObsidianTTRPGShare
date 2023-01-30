@@ -4,7 +4,6 @@ aliases: "Young Green Dragon"
 tags: 
   - pf2e/creature/type/dragon
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Young Green Dragon"
 level: 8

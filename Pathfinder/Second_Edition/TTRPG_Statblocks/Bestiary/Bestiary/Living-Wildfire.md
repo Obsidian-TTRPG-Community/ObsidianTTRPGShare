@@ -4,7 +4,6 @@ aliases: "Living Wildfire"
 tags: 
   - pf2e/creature/type/elemental
   - pf2e/creature/level/5
-statblock: true
 statblock: inline
 name: "Living Wildfire"
 level: 5

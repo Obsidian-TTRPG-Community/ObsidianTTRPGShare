@@ -4,7 +4,6 @@ aliases: "{{{name}}}"
 tags: {{#each traits}}{{#if (test this (toRegex "^(aberration|dream|time|humanoid|animal|astral|beast|dragon|fey|fiend|spirit|celestial|construct|elemental|plant|undead|giant|ooze|fungus|monitor|petitioner)$"))}}
   - pf2e/creature/type/{{this}}{{/if}}{{/each}}
   - pf2e/creature/level/{{level}}
-statblock: true
 statblock: inline
 name: "{{{name}}}"
 level: {{level}}

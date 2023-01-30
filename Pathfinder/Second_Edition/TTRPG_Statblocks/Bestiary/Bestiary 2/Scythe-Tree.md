@@ -4,7 +4,6 @@ aliases: "Scythe Tree"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/6
-statblock: true
 statblock: inline
 name: "Scythe Tree"
 level: 6

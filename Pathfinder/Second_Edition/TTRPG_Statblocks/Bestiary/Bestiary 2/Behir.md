@@ -4,7 +4,6 @@ aliases: "Behir"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/8
-statblock: true
 statblock: inline
 name: "Behir"
 level: 8

@@ -4,7 +4,6 @@ aliases: "Carbuncle"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/1
-statblock: true
 statblock: inline
 name: "Carbuncle"
 level: 1

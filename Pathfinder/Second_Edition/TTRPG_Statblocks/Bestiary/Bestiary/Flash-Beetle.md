@@ -4,7 +4,6 @@ aliases: "Flash Beetle"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/-1
-statblock: true
 statblock: inline
 name: "Flash Beetle"
 level: -1

@@ -4,7 +4,6 @@ aliases: "Fungus Leshy"
 tags: 
   - pf2e/creature/type/fungus
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Fungus Leshy"
 level: 2

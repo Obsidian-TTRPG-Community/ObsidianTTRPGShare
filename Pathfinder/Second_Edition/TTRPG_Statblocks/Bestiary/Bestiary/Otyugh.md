@@ -4,7 +4,6 @@ aliases: "Otyugh"
 tags: 
   - pf2e/creature/type/aberration
   - pf2e/creature/level/4
-statblock: true
 statblock: inline
 name: "Otyugh"
 level: 4

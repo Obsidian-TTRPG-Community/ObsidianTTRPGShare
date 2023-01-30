@@ -4,7 +4,6 @@ aliases: "Cockatrice"
 tags: 
   - pf2e/creature/type/beast
   - pf2e/creature/level/3
-statblock: true
 statblock: inline
 name: "Cockatrice"
 level: 3

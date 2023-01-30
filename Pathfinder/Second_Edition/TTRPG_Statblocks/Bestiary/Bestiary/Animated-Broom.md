@@ -4,7 +4,6 @@ aliases: "Animated Broom"
 tags: 
   - pf2e/creature/type/construct
   - pf2e/creature/level/-1
-statblock: true
 statblock: inline
 name: "Animated Broom"
 level: -1

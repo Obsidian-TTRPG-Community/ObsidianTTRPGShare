@@ -4,7 +4,6 @@ aliases: "Yellow Musk Creeper"
 tags: 
   - pf2e/creature/type/plant
   - pf2e/creature/level/2
-statblock: true
 statblock: inline
 name: "Yellow Musk Creeper"
 level: 2

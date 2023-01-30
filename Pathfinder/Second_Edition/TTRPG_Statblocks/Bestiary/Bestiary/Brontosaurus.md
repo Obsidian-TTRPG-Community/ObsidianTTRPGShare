@@ -4,7 +4,6 @@ aliases: "Brontosaurus"
 tags: 
   - pf2e/creature/type/animal
   - pf2e/creature/level/10
-statblock: true
 statblock: inline
 name: "Brontosaurus"
 level: 10
