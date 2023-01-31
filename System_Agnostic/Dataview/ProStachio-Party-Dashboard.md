@@ -1,4 +1,7 @@
 
+%% This Dashboard Snippet Requires the Cards Callout from [SlRvb's ITS Callouts](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md) Snippet. %%
+
+
 # **Current Party**
 **[[🧙‍♂️ Player Database|Edit Players]]** | **[[👨‍👩‍👧‍👦 NPC Database|Edit NPCs]]**
 > [!cards|dataview 5]
