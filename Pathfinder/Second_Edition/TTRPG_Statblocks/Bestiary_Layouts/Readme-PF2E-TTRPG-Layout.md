@@ -21,7 +21,7 @@ Wikilink Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
 
 Wikilink Relative Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
 
-Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
+Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)` *Which is below*.
 
 ![](_attachments/Pathfinder2e-Statblocks-RC1.png)
 
@@ -46,7 +46,7 @@ Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
 ### Optional
 3. This [[Template-2ETools-Monster-Handlebar]] file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker.
 
-  You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
+You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
 
 ## Required Plugins
 1. [Obsidian TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks)
