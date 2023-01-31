@@ -55,7 +55,7 @@ spellcasting:
   - name: "Primal Prepared Spells"
     desc: "DC 21, attack +11; __Cantrips (2nd)__ [[dancing lights]], [[produce flame]], [[read aura]], [[tanglefoot]]; __1st__ [[burning hands]], [[shillelagh]], [[ventriloquism]]; __2nd__ [[darkness]], [[humanoid form]];"
   - name: "Druid Order Spells"
-    desc: "DC 21; __2nd__ [[wild morph]], [[wild shape]];"
+    desc: "DC 21, (1 Focus Point); __2nd__ [[wild morph]], [[wild shape]];"
 sourcebook: "_Bestiary_, page 62."
 ```
 
