@@ -56,7 +56,7 @@ spellcasting:
   - name: "Primal Spontaneous Spells"
     desc: "DC 17, attack +9; __Cantrips (1st)__ [[acid splash]], [[detect magic]], [[know direction]], [[stabilize]], [[tanglefoot]]; __1st__ [[create water]], [[heal]], [[hydraulic push]];"
   - name: "Sorcerer Bloodline Spells"
-    desc: "DC 17, attack +9; __1st__ [[elemental toss]] ((1 Focus Point));"
+    desc: "DC 17, attack +9, (1 Focus Point); __1st__ [[elemental toss]];"
 sourcebook: "_Bestiary 2_, page 203."
 ```
 
