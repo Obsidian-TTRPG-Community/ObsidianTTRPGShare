@@ -37,7 +37,7 @@ abilities_mid:
     desc: "  A dero magister takes 10 damage for every hour they're exposed to sunlight."
 abilities_top:
   - name: Items
-    desc: "[[aklys|b1]];"
+    desc: "[[aklys]];"
 abilities_bot:
   - name: "Cytillesh Stare"
     desc: "⬻ ([[concentrate]], [[incapacitation]], [[mental]], [[visual]]); __Frequency__ once per round  __Effect__  The magister focuses their gaze on a creature they can see within 30 feet. The target is [[dazzled|dazzled]] for 1 round and must succeed at a DC 24 Will saving throw or be [[confused|confused]] for 1 round."
