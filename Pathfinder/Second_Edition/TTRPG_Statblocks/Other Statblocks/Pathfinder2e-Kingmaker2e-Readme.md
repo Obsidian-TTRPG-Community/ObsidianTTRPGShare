@@ -4,6 +4,14 @@ This folder includes some miscellaneous statblocks for Pathfinder 2e.
 
 All of these statblocks are modeled after the statblocks in the Kingmaker 2e Adventure Path.
 
+## 2023-01-31
+
+A word of caution:
+
+Currently, the statblocks in this css file have green traits. While the statblocks in the bestiary css have red traits. If using both, the green traits will take over. A merged CSS will be created by 2023-02-03 that will allow the two to coexist. 
+
+\- Sigrunixia
+
 ## Statblocks
 
 Images of the statblocks below are in the images folder.
