@@ -1,4 +1,7 @@
 
+%% This file requires SlRvb's [ITS Callouts Script](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Guide/Callouts.md) %%
+
+
 > [!infobox]
 > # `=this.file.name`
 > **Pronounced:**  "`=this.Pronounced`"
