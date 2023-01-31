@@ -8,7 +8,7 @@ _Note this file is only for Obsidian versions, please see [this](PDF-Links-SWN-W
 ### Combined WN Character Sheet
 _for both SWN and WWN, by **[Yilmas](https://github.com/Yilmas)**_
 
-[[Yilmas' Combined WN Character Sheet]]
+[Yilmas' Combined WN Character Sheet](<Yilmas' Combined WN Character Sheet.md>)
 
 Requires: ITS Theme
 _If you remove the Infobox, you can remove the dependency to ITS Theme_
