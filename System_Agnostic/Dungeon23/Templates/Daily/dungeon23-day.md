@@ -98,6 +98,6 @@ room AS "Room",
 file.link AS "Link",
 Description AS "Description",
 Map AS "Visual"
-FROM #dungeon<%the_year%>/day AND -"þ-meta"
+FROM #dungeon<%the_year%>/day AND -"Templates"
 WHERE week = <%the_week%>
 ```
