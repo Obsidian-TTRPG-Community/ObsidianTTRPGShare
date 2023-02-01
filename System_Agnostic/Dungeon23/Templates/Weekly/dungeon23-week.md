@@ -1,10 +1,33 @@
+<%*
+let event = moment();
+const execution_value = await tp.system.suggester(["Yes", "No"], ["true", "false"], false, "Writing for today?");
+if ( execution_value == "false" ) {
+    event = moment(await tp.system.prompt("Enter Date in format: YYYY-MM-DD"));
+}
+let the_day  = event.format("YYYY-MM-DD");
+let the_week = event.format("W");
+let the_year = event.format("YY");
+console.log("Event [%o]: %o, %o, %o, %o", event.toString('YYYY-MM-DD'), the_day, the_week, the_year);
+
+let status =  await tp.system.suggester(
+  ["good", "needs-revision", "unfinished", "started", "draft"], 
+  ["100", "80", "60", "40", "20"], 
+  true);
+
+const title = event.format("gggg-[W]ww") + ": Week " + event.format("WW");
+await tp.file.rename(title);
+const source = await tp.system.suggester(["5e", "a5e", "pf2e", "wwn"], ["5e", "a5e", "pf2e", "wwn"], false, "Choose System");
+-%>
 ---
-type: dungeon23
+type: dungeon<%the_year%>-day
 tags:
-  - dungeon23
-  - dungeon23/week
-  - dnd
-date_created: 2023-01-01
+  - dungeon<%the_year%>/week
+  - <%source%>
+date: <%the_day%>
+week: <%the_week%>
+status: <%status%>
+aliases: [Week <%the_week%>]
+title: <%title%>
 cssclasses: cards
 ---
 > [!info]- Resources:
@@ -13,7 +36,21 @@ cssclasses: cards
 > 
 | **d100**:`dice: d100` | **d20**: `dice: d20` | **d12**: `dice: d12` | **d10**: `dice: d10` | **d8** `dice: d8`  | **d6**: `dice: d6`  | **d4**: `dice: d4`  |
 | --------------------- | -------------------- | --- | --- | --- | --- | --- |
-# Level:: 1
+
+> [!info] ## Burn after reading!
+> You will need the following plugins:
+> - Templater
+> - Dataview
+> - Dice Roller
+> 
+> You may wish to use these plugins:
+> - Calender
+> - Periodic Notes
+> - Heatmap Calendar
+> 1. Set up *Periodic Notes*, *Calendar* to use the templates for the day and week notes. You can also use them with <Ctrl/Cmd>-P.
+> 2. Set up Templater to use the directory (rename if desired)  _Templates/_ as your Template directory.
+> 3. Turn on *Dataview inline JS* in Dataview in order to use the Heatmap calender in the Project note.
+> 4. Remove this Callout before using.# Level:: <%the_week%>
 
 # Theme / Characteristics
 Write me a list of 10 different rooms with their descriptions that can be in a mega dungeon. The rooms should be thematically connected and creative and interesting.  
@@ -40,11 +77,15 @@ Write me a list of 10 different rooms with their descriptions that can be in a m
 
 
 # On this floor...
+
 ```dataview
-TABLE 
-Map AS "Room",
-Description AS "Description"
-FROM #dungeon23-day AND [[Dungeon23 Week 1]] AND -"Templates"
+TABLE WITHOUT ID
+file.link.title AS "Title",
+week AS "Week",
+room AS "Room",
+file.link AS "Link",
+Description AS "Description",
+Map AS "Visual"
+FROM #dungeon<%the_year%>/day AND -"þ-meta"
+WHERE week = <%the_week%>
 ```
-
-
