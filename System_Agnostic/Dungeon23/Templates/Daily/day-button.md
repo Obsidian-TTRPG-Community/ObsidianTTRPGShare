@@ -1,6 +1,6 @@
 # Day Button
 
-ViXxuASXbar Codeblock for use with Button Plugin and Daily Notes.
+Codeblock for use with Button Plugin and Daily Notes.
 
 ## Codeblock
 
