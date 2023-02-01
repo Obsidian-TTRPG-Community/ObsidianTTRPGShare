@@ -1,32 +1,33 @@
 ---
+ac: 19
+hp: 28
+level: 2
+modifier: 6
+name: "Kobold Trapmaster"
 noteType: pf2eMonster
-tags: 
-  - pf2e/creature/type/humanoid
-  - pf2e/creature/level/2
 statblock: true
 statblock-link: "#Kobold Trapmaster"
-name: "Kobold Trapmaster"
-hp: 28
-ac: 19
-modifier: 6
-level: 2
+tags:
+  - pf2e/creature/type/humanoid
+  - pf2e/creature/level/2
+title: Readme for PF2E Bestiary Statblocks
 ---
+
 # Readme for PF2E Bestiary Statblocks
 
 The Obsidian TTRPG Share team presents the Release Candidate 1 for the Pathfinder 2E TTRPG Statblock Layout.
 
 ## Features
 
-Wikilink Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
+Wikilink Embed: ![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)
 
-Wikilink Relative Embed: ![[_attachments/Pathfinder2e-Statblocks-RC1.png]]
+Wikilink Relative Embed: ![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)
 
-Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
+Markdown Embed: `![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)` *Which is below*.
 
-![](_attachments/Pathfinder2e-Statblocks-RC1.png)
+![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)
 
-
-1. Fully fleshed and *mostly*\* theme-proof statblock layout. 
+1. Fully fleshed and *mostly*\* theme-proof statblock layout.
 2. Initiative tracker integration
 3. Most fields accept markdown (But do not use asterisks, use underscores!)
 4. Conditional fields
@@ -38,25 +39,32 @@ Markdown Embed: `![](_attachments/Pathfinder2e-Statblocks-RC1.png)`
 
 > The Developers who took on this task are Sigrunixia/LittleMaelstrom, and Fate. The repository will be its maintainers but Sigrunixia and Fate will continue to take a lead role in updates as they work to transition to making this statblock layout into an official layout included within TTRPG Statblocks.
 
+## What You Need to Make This Statblock Shine
 
-## What you need to make this statblock shine
-1. [[_attachments/Path2eBlock.json]], to install into TTRPG Statblocks
-2. [[_attachments/Pathfinder2E-TTRPG-Statblock.css]] into your `.obsidian/snippets` folder. 
+1. [Path2eBlock.json](_attachments/Path2eBlock.json), to install into TTRPG Statblocks
+2. [Pathfinder2E-TTRPG-Bestiary-Only.css](../CSS-Snippets/Pathfinder2E-TTRPG-Bestiary-Only.css) into your `.obsidian/snippets` folder.
+
+**Note**: In The `CSS-Snippets` folder there is a [Pathfinder2E-TTRPG-Statblock-Kingmaker-and-Green-Bestiary.css](../CSS-Snippets/Pathfinder2E-TTRPG-Statblock-Kingmaker-and-Green-Bestiary.css) available for other statblocks. Currently, that .css is not compatible with this one in that it will turn all the red traits green. A patch will be released by 2023-02-03 and both files will be combined into one.
+
+If you want the extra Kingmaker layouts, use the `Kingmaker and Green Bestiary`. If you want Bestiary only, use `Bestiary Only`.
 
 ### Optional
-3. This [[Template-2ETools-Monster-Handlebar]] file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker.
 
-  You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
+1. This [Template-2ETools-Monster-Handlebar](Template-2ETools-Monster-Handlebar.md) file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker.
+
+You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
 
 ## Required Plugins
+
 1. [Obsidian TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks)
 2. [Obsidian Dice Rollers](https://github.com/valentine195/obsidian-dice-roller)
 
-### Optional But Nice!
-3. [Obsidian Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker)
+### Optional But Nice
 
+1. [Obsidian Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker)
 
 ## Example Kobold Trapmaster
+
 ```statblock
 # Optional Columns
 # Needs to have Path2eBlock to call CSS
@@ -107,6 +115,7 @@ sourcebook: "_Troubles In Otari_, page 45."
 ```
 
 ### Encounter
+
 ```encounter-table
 name: Kobold Trapmaster
 creatures:
