@@ -1,13 +1,15 @@
 ---
 aliases: Persistent Damage
-tags: pf2e/condition
+page: 621
+source: Core Rulebook
+tags: pf2e/condition/persistent-damage
 ---
 
 # Persistent Damage
 
 **Source**: Core Rulebook pg. 621
 
-Persistent damage comes from effects like acid, being on fire, or many other situations. It appears as “X persistent type damage,” where “X” is the amount of damage dealt and “type” is the damage type. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Instead of taking persistent damage immediately, you take it at the end of each of your turns as long as you have the condition, rolling any damage dice anew each time. After you take persistent damage, roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed, the condition ends.
+Persistent damage comes from effects like [acid](../Traits/Acid.md), being on [fire](../Traits/Fire.md), or many other situations. It appears as “X persistent type damage,” where “X” is the amount of damage dealt and “type” is the damage type. Like normal damage, it can be doubled or halved based on the results of an attack roll or saving throw. Instead of taking persistent damage immediately, you take it at the end of each of your turns as long as you have the condition, rolling any damage dice anew each time. After you take persistent damage, roll a DC 15 flat check to see if you recover from the persistent damage. If you succeed, the condition ends.
 
 ## Persistent Damage Rules
 
@@ -32,4 +34,4 @@ Immunities, resistances, and weaknesses all apply to persistent damage. If an ef
 
 ### Multiple Persistent Damage Conditions
 
-You can be simultaneously affected by multiple persistent damage conditions so long as they have different damage types. If you would gain more than one persistent damage condition with the same damage type, the higher amount of damage overrides the lower amount. The damage you take from persistent damage occurs all at once, so if something triggers when you take damage, it triggers only once; for example, if you're dying with several types of persistent damage, the persistent damage increases your dying condition only once.
+You can be simultaneously affected by multiple persistent damage [conditions](Conditions.md) so long as they have different damage types. If you would gain more than one persistent damage condition with the same damage type, the higher amount of damage overrides the lower amount. The damage you take from persistent damage occurs all at once, so if something triggers when you take damage, it triggers only once; for example, if you're [dying](Dying.md) with several types of persistent damage, the persistent damage increases your dying condition only once.

@@ -1,6 +1,8 @@
 ---
 aliases: Encumbered
-tags: pf2e/condition
+page: 619
+source: Core Rulebook
+tags: pf2e/condition/encumbered
 ---
 
 # Encumbered

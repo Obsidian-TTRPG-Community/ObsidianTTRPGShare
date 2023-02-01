@@ -1,6 +1,8 @@
 ---
 aliases: Drained
-tags: pf2e/condition
+page: 619
+source: Core Rulebook
+tags: pf2e/condition/drained
 ---
 
 # Drained

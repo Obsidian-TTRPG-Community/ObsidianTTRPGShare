@@ -1,11 +1,13 @@
 ---
 aliases: Stunned
-tags: pf2e/condition
+page: 622
+source: Core Rulebook
+tags: pf2e/condition/stunned
 ---
 
 # Stunned
 
-[Source](Source): Core Rulebook pg. 622
+**Source**: Core Rulebook pg. 622
 
 You've become senseless. You can't act while stunned. Stunned usually includes a value, which indicates how many total actions you lose, possibly over multiple turns, from being stunned. Each time you regain actions (such as at the start of your turn), reduce the number you regain by your stunned value, then reduce your stunned value by the number of actions you lost.
 

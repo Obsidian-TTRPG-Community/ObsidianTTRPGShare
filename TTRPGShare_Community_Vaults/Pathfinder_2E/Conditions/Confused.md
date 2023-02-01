@@ -1,6 +1,8 @@
 ---
 aliases: Confused
-tags: pf2e/condition
+page: 618
+source: Core Rulebook
+tags: pf2e/condition/confused
 ---
 
 # Confused
