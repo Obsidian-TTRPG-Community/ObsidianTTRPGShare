@@ -1,3 +1,24 @@
+You will need the following plugins:
+- Templater
+- Dataview
+- Dice Roller
+
+You may wish to use these plugins:
+- Calender
+- Periodic Notes
+- Heatmap Calendar
+1. Set up *Periodic Notes*, *Calendar* to use the templates for the day and week notes. You can also use them with <Ctrl/Cmd>-P.
+2. Set up Templater to use the directory (rename if desired)  _Templates/_ as your Template directory.
+3. Turn on *Dataview inline JS* in Dataview in order to use the Heatmap calender in the Project note.
+4. Remove this Callout before using.
+
+
+To activate the note below for use, remove the 5 backticks above and below the <(^.^)>. There will be 4 to be removed. Also, remove all these instructions, obviously. 
+
+<(^.^)<
+`````
+>(^.^)>
+
 <%*
 let event = moment();
 const execution_value = await tp.system.suggester(["Yes", "No"], ["true", "false"], false, "Writing for today?");
@@ -50,7 +71,9 @@ cssclasses: cards
 > 1. Set up *Periodic Notes*, *Calendar* to use the templates for the day and week notes. You can also use them with <Ctrl/Cmd>-P.
 > 2. Set up Templater to use the directory (rename if desired)  _Templates/_ as your Template directory.
 > 3. Turn on *Dataview inline JS* in Dataview in order to use the Heatmap calender in the Project note.
-> 4. Remove this Callout before using.# Level:: <%the_week%>
+> 4. Remove this Callout before using.
+
+# Level:: <%the_week%>
 
 # Theme / Characteristics
 Write me a list of 10 different rooms with their descriptions that can be in a mega dungeon. The rooms should be thematically connected and creative and interesting.  
@@ -89,3 +112,6 @@ Map AS "Visual"
 FROM #dungeon<%the_year%>/day AND -"Templates"
 WHERE week = <%the_week%>
 ```
+^(^.^)^
+`````
+<(^.^)>

@@ -1,3 +1,28 @@
+
+# Dungeon23 Day Template
+
+## Burn after reading!
+You will need the following plugins:
+- Templater
+- Dataview
+- Dice Roller
+
+You may wish to use these plugins:
+- Calender
+- Periodic Notes
+- Heatmap Calendar
+1. Set up *Periodic Notes*, *Calendar* to use the templates for the day and week notes. You can also use them with <Ctrl/Cmd>-P.
+2. Set up Templater to use the directory (rename if desired)  _Templates/_ as your Template directory.
+3. Turn on *Dataview inline JS* in Dataview in order to use the Heatmap calender in the Project note.
+4. Remove this Callout before using.
+
+
+To activate the note below for use, remove the 5 backticks above and below the <(^.^)>. There will be 4 to be removed. Also, remove all these instructions, obviously. 
+
+<(^.^)<
+`````
+>(^.^)>
+
 <%*
 const title = await tp.system.prompt("Enter Room Title");
 let event = moment();
@@ -101,3 +126,7 @@ Map AS "Visual"
 FROM #dungeon<%the_year%>/day AND -"Templates"
 WHERE week = <%the_week%>
 ```
+
+^(^.^)^
+`````
+<(^.^)>
