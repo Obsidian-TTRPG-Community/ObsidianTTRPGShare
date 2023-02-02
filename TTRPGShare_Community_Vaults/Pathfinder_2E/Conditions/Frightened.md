@@ -1,6 +1,9 @@
 ---
 aliases: Frightened
-tags: pf2e/condition
+errata: 3.0
+page: 620
+source: Core Rulebook
+tags: pf2e/condition/frightened
 ---
 
 # Frightened

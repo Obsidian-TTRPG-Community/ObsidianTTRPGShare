@@ -1,6 +1,8 @@
 ---
 aliases: Unnoticed
-tags: pf2e/condition
+page: 623
+source: Core Rulebook
+tags: pf2e/condition/unnoticed
 ---
 
 # Unnoticed
