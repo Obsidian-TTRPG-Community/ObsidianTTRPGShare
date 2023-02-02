@@ -19,13 +19,9 @@ The Obsidian TTRPG Share team presents the Release Candidate 1 for the Pathfinde
 
 ## Features
 
-Wikilink Embed: ![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)
+![Pathfinder2e-Statblocks-Combo](_attachments/Pathfinder2e-Statblocks-Combo.png)
 
-Wikilink Relative Embed: ![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)
-
-Markdown Embed: `![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)` *Which is below*.
-
-![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statblocks-RC1.png)
+> **Note**: The custom callouts are altering the statblock font and look. The main thing to note is the differing types of traits and layout now available up top and how they coexist.
 
 1. Fully fleshed and *mostly*\* theme-proof statblock layout.
 2. Initiative tracker integration
@@ -38,15 +34,14 @@ Markdown Embed: `![Pathfinder2e-Statblocks-RC1](_attachments/Pathfinder2e-Statbl
 ### A Special Thanks
 
 > The Developers who took on this task are Sigrunixia/LittleMaelstrom, and Fate. The repository will be its maintainers but Sigrunixia and Fate will continue to take a lead role in updates as they work to transition to making this statblock layout into an official layout included within TTRPG Statblocks.
+> Additionally, thanks goes to [Moritz Jung](https://github.com/mProjectsCode) who created the Pathfinder 2E Kingmaker layouts, and who gave me quite a fun challenge in merging the css files together. :) \- Sigrunixia
 
 ## What You Need to Make This Statblock Shine
 
 1. [Path2eBlock.json](_attachments/Path2eBlock.json), to install into TTRPG Statblocks
-2. [Pathfinder2E-TTRPG-Bestiary-Only.css](../CSS-Snippets/Pathfinder2E-TTRPG-Bestiary-Only.css) into your `.obsidian/snippets` folder.
+2. [Pathfinder2E-TTRPG-Statblock](_attachments/Pathfinder2E-TTRPG-Statblock.css) into your `.obsidian/snippets` folder.
 
-**Note**: In The `CSS-Snippets` folder there is a [Pathfinder2E-TTRPG-Statblock-Kingmaker-and-Green-Bestiary.css](../CSS-Snippets/Pathfinder2E-TTRPG-Statblock-Kingmaker-and-Green-Bestiary.css) available for other statblocks. Currently, that .css is not compatible with this one in that it will turn all the red traits green. A patch will be released by 2023-02-03 and both files will be combined into one.
-
-If you want the extra Kingmaker layouts, use the `Kingmaker and Green Bestiary`. If you want Bestiary only, use `Bestiary Only`.
+If you want the extra Kingmaker layouts, check out the [Pathfinder2e-Kingmaker2e-Readme](../Kingmaker_Layouts/Pathfinder2e-Kingmaker2e-Readme.md). They can be used alongside the bestiary layouts.
 
 ### Optional
 
