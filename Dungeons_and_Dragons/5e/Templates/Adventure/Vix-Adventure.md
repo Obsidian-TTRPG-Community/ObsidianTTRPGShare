@@ -1,4 +1,4 @@
-# ViXxuASXbar's Adventure Template
+# ViX's Adventure Template
 
 __Plugin Dependencies__:
 
@@ -8,7 +8,7 @@ __Plugin Dependencies__:
 
 [__Templater__](https://github.com/SilentVoid13/Templater)
 
-__Thanks To__: [__ViXxuASXbar__](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+__Thanks To__: Vix
 
 ## Goals
 
@@ -16,7 +16,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![Adventure Page](_attachments/SONDLecT_Adventure.png)
+![Adventure Page](_attachments/Vix_Adventure.png)
 
 ## How to Use
 

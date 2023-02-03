@@ -1,4 +1,4 @@
-# ViXxuASXbar's Location Template
+# Vix's Location Template
 
 __Plugin Dependencies__:
 
@@ -10,7 +10,7 @@ __Plugin Dependencies__:
 
 [__Templater__](https://github.com/SilentVoid13/Templater)
 
-__Thanks To__: [__ViXxuASXbar__](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+__Thanks To__: Vix
 
 ## Goals
 
@@ -18,7 +18,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![](_attachments/SONDLecT_Location.png)
+![](_attachments/Vix_Location.png)
 
 ## How to Use
 

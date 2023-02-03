@@ -1,4 +1,4 @@
-# ViXxuASXbar's Player Character Template
+# Vix's Player Character Template
 
 __Plugin Dependencies__:
 
@@ -8,7 +8,7 @@ __Plugin Dependencies__:
 
 [__Templater__](https://github.com/SilentVoid13/Templater)
 
-__Thanks To__: [__ViXxuASXbar__](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+__Thanks To__: Vix
 
 ## Goals
 
