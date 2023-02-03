@@ -1,4 +1,4 @@
-# ViXxuASXbar's Item Template
+# ViX's Item Template
 
 **Plugin Dependencies**: 
 
@@ -8,7 +8,7 @@
 
 [**Templater**](https://github.com/SilentVoid13/Templater)
 
-**Thanks To**: [**ViXxuASXbar**](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+**Thanks To**: Vix
 
 
 ## Goals
@@ -17,7 +17,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![](_attachments/SONDLecT_Item.png)
+![](_attachments/Vix_Item.png)
 
 
 

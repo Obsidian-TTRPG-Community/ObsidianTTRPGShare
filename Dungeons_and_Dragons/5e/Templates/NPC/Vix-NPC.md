@@ -1,4 +1,4 @@
-# ViXxuASXbar's NPC Template
+# Vix's NPC Template
 
 __Plugin Dependencies__:
 
@@ -8,7 +8,7 @@ __Plugin Dependencies__:
 
 [__Admonitions__](https://github.com/valentine195/obsidian-admonition)
 
-__Thanks To__: [__ViXxuASXbar__](https://github.com/SONDLecT/obsidian-dm-templates) A.K.A. SONDlecT
+__Thanks To__: Vix
 
 ## Goals
 
@@ -16,7 +16,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![](_attachments/SONDLecT_NPC.png)
+![](_attachments/Vix_NPC.png)
 
 ## How to Use
 
