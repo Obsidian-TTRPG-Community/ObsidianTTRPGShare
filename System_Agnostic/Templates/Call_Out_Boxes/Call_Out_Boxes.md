@@ -1,5 +1,4 @@
----
----
+
 # Call Out Boxes
 
 > [!note]- Custom Name
@@ -10,9 +9,11 @@
 
 > [!abstract]+
 > Hi this is my note
+> The + keeps it open!
 
 > [!info]-
 > This is my text
+> The - keeps it collapsed!
 
 > [!tip]-
 > This is my text
