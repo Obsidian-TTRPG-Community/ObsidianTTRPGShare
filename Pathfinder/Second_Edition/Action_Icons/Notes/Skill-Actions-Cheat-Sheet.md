@@ -1,11 +1,11 @@
 | Skill Name         | Page   | Untrained                                                            | Trained Only                                           |
 | ------------------ | ------ | -------------------------------------------------------------------- | ------------------------------------------------------ |
-| ACROBATICS (Dex)   | p. 240 | [[Balance]] [[MOVE]] *⬻{ .Pathfinder }*                              | Maneuver in Flight [[MOVE]] *⬻{ .Pathfinder }*         |
-|                    |        | [[Tumble Through]] [[MOVE]] *⬻{ .Pathfinder }*                       | Squeeze [[MOVE]] E                                     |
-| ARCANA (Int)       | p. 241 | [[Recall Knowledge]] G [[SECRET]] *⬻{ .Pathfinder }*                 | Borrow an Arcane Spell E                               |
-|                    |        |                                                                      | Decipher Writing E [[SECRET]]                          |
-|                    |        |                                                                      | Identify Magic E [[SECRET]]                            |
-|                    |        |                                                                      | Learn a Spell E                                        |
+| ACROBATICS (Dex)   | p. 240 | [[Balance]] [[MOVE]] *⬻{ .Pathfinder }*                              | [[Maneuver in Flight]] [[MOVE]] *⬻{ .Pathfinder }*         |
+|                    |        | [[Tumble Through]] [[MOVE]] *⬻{ .Pathfinder }*                       | [[Squeeze]] [[MOVE]] E                                     |
+| ARCANA (Int)       | p. 241 | [[Recall Knowledge]] G [[SECRET]] *⬻{ .Pathfinder }*                 | [[Borrow an Arcane Spell]] E                               |
+|                    |        |                                                                      | [[Decipher Writing]] E [[SECRET]]                          |
+|                    |        |                                                                      | [[Identify Magic]] E [[SECRET]]                            |
+|                    |        |                                                                      | [[Learn a Spell]] E                                        |
 | ATHLETICS (Str)    | p. 241 | [[Climb]] [[MOVE]] *⬻{ .Pathfinder }*                                | [[Disarm]] [[ATTACK]] *⬻{ .Pathfinder }*               |
 |                    |        | [[Force Open]] [[ATTACK]] *⬻{ .Pathfinder }*                         |                                                        |
 |                    |        | [[Grapple]] [[ATTACK]] *⬻{ .Pathfinder }*                            |                                                        |
@@ -16,7 +16,7 @@
 |                    |        | [[Trip]] [[ATTACK]] *⬻{ .Pathfinder }*                               |                                                        |
 | CRAFTING (Int)     | p. 243 | [[Recall Knowledge]] G [[SECRET]] *⬻{ .Pathfinder }*                 | [[Craft]] D [[MANIPULATE]]                             |
 |                    |        | [[Repair]] E [[Manipulate]]                                          | [[Earn Income]] D G                                    |
-|                    |        |                                                                      | Identify Alchemy E                                     |
+|                    |        |                                                                      | [[Identify Alchemy]] E                                     |
 | DECEPTION (Cha)    | p. 245 | [[Create a Diversion]] [[MANIPULATE]] *⬻{ .Pathfinder }*             | [[Feint]] *⬻{ .Pathfinder }*                           |
 |                    |        | [[Impersonate]] E [[MANIPULATE]] [[SECRET]]                          |                                                        |
 |                    |        | [[Lie]] [[SECRET]]                                                   |                                                        |
@@ -27,7 +27,7 @@
 |                    |        | [[Demoralize]] *⬻{ .Pathfinder }*                                    |                                                        |
 | LORE (Int)         | p. 247 | [[Recall Knowledge]] G [[SECRET]]                                    | [[Earn Income]] D G                                    |
 | MEDICINE (Wis)     | p. 248 | [[Administer-First-Aid]] [[MANIPULATE]] *⬺{ .Pathfinder }*           | [[Treat Disease]] D [[MANIPULATE]]                     |
-|                    |        | [[Recall Knowledge]] G [[SECRET]] *⬻{ .Pathfinder }*                 | Treat Poison [[MANIPULATE]] *⬻{ .Pathfinder }*         |
+|                    |        | [[Recall Knowledge]] G [[SECRET]] *⬻{ .Pathfinder }*                 | [[Treat Poison]] [[MANIPULATE]] *⬻{ .Pathfinder }*         |
 |                    |        |                                                                      | [[Treat Wounds]] E [[MANIPULATE]]                      |
 | NATURE (Wis)       | p. 249 | [[Command an Animal]] *⬻{ .Pathfinder }*                             | [[Identify Magic]] E G [[SECRET]]                      |
 |                    |        | [[Recall Knowledge]] G *⬻{ .Pathfinder }*                            | [[Learn a Spell]] E G                                  |
@@ -40,7 +40,7 @@
 |                    |        |                                                                      | [[Learn a Spell]] E G [[SECRET]]                       |
 | SOCIETY (Dex)      | p. 251 | [[Recall Knowledge]] G [[SECRET]] *⬻{ .Pathfinder }*                 | [[Create Forgery]] D                                   |
 |                    |        | [[Subsist]] D G                                                      | [[Decipher Writing]] E G                               |
-| STEALTH (Dex)      | p. 251 | [[Conceal an Object]] [[MANIPULATION]] [[SECRET]] *⬻{ .Pathfinder }* |                                                        |
+| STEALTH (Dex)      | p. 251 | [[Conceal an Object]] [[MANIPULATE]] [[SECRET]] *⬻{ .Pathfinder }* |                                                        |
 |                    |        | [[Hide]] [[SECRET]] *⬻{ .Pathfinder }*                               |                                                        |
 |                    |        | [[Sneak]] [[MOVE]] [[SECRET]] *⬻{ .Pathfinder }*                     |                                                        |
 | SURVIVAL (Wis)     | o. 252 | [[Sense Direction]] E [[SECRET]]                                     | [[Cover Tracks]] E [[MOVE]]                            |
