@@ -7,55 +7,59 @@ tags:
 statblock: inline
 name: "Clockwork Dragon"
 level: 16
-title: Readme for PF2E Bestiary Statblocks
 ---
 
-# Readme for PF2E Bestiary Statblocks
+# Default Pathfinder 2nd Edition Statblocks
 
-The Obsidian TTRPG Share team presents the Release Candidate 1 for the Pathfinder 2E TTRPG Statblock Layout.
+The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblock Layout.
+
+![Release 1.3 of PF2E - Stylesettings](../Default_Layouts/_attachments/PF2E-1.3-StyleSettings.gif)
 
 ## Features
-
-![Pathfinder2e-Statblocks-Combo](_attachments/Pathfinder2e-Statblocks-Combo.png)
-
-> **Note**: The custom callouts are altering the statblock font and look. The main thing to note is the differing types of traits and layout now available up top and how they coexist.
 
 1. Fully fleshed and *mostly*\* theme-proof statblock layout.
 2. Initiative tracker integration
 3. Most fields accept markdown (But do not use asterisks, use underscores!)
 4. Conditional fields
-5. Commented CSS File so you can make it your own.
 
 \* ITS Theme users, there may still be *some* formatting issues until the new release. Alternatively, you can switch to using ITS Beta.
 
-### A Special Thanks
+### A Special Thanks To...
 
-> The Developers who took on this task are Sigrunixia/LittleMaelstrom, and Fate. The repository will be its maintainers but Sigrunixia and Fate will continue to take a lead role in updates as they work to transition to making this statblock layout into an official layout included within TTRPG Statblocks.
-> Additionally, thanks goes to [Moritz Jung](https://github.com/mProjectsCode) who created the Pathfinder 2E Kingmaker layouts, and who gave me quite a fun challenge in merging the css files together. :) \- Sigrunixia
+- [Fate](https://github.com/Fatebreak), for making the initial layout for the statblock, and then for diving into making the handlebar template support.
 
-## What You Need to Make This Statblock Shine
+- [Moritz Jung](https://github.com/mProjectsCode), for bringing Kingmaker Layouts and helping us push the envelope of what is possible on Statblock CSS. 
 
-1. [Path2eBlock.json](_attachments/Path2eBlock.json), to install into TTRPG Statblocks
-2. [Pathfinder2E-TTRPG-Statblock](_attachments/Pathfinder2E-TTRPG-Statblock.css) into your `.obsidian/snippets` folder.
+- [Sigrunixia](https://github.com/sigrunixia), for the passion and obsession that comes with tweaking the design of statblock, and the outreach and follow-up support that happens with it.
 
-If you want the extra Kingmaker layouts, check out the [Pathfinder2e-Kingmaker2e-Readme](../Kingmaker_Layouts/Pathfinder2e-Kingmaker2e-Readme.md). They can be used alongside the bestiary layouts.
+## Installing the Layout
 
-### Optional
-
-1. This [Template-2ETools-Monster-Handlebar](Template-2ETools-Monster-Handlebar.md) file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker.
-
-You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
-
-## Required Plugins
-
+**You will need the following plugins**:
 1. [Obsidian TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks)
 2. [Obsidian Dice Rollers](https://github.com/valentine195/obsidian-dice-roller)
 
-### Optional But Nice
-
+**We highly recommend also picking up these two optional plugins**:
 1. [Obsidian Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker)
+2. [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) - For Coloration Changes as Shown in the Gif.
 
-## Example Clockwork Dragon
+**You will need the following items**:
+1. The [Pathfinder2E-TTRPG-Statblock-v1.3](../Default_Layouts/_attachments/Pathfinder2E-TTRPG-Statblock-v1.3.css) installed into your `obsidian/snippets` directory.
+2. The [Path2eBlock](_attachments/Path2eBlock.json) file downloaded.
+
+**Once you have those items, you will need to do the following**:
+1. Toggle the Pathfinder CSS snippet to on in `Settings -> Appearances`
+2. Import the .json file into TTRPG Statblocks from the plugin's settings page. 
+3. Use the [Clockwork Dragon](README-PF2E-Default-Layout.md#Clockwork%20Dragon) below to test that the statblock loads correctly.
+
+If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README](../Kingmaker_Layouts/README-PF2E-Kingmaker-Layouts.md). 
+
+> **Note**: As of 1.3 release, the coloration for the Kingmaker layours can be chosen over the default layout in Style Settings. In a future release, they can both be used at once, once again. 
+
+### Optional Tools
+
+1. This [Template-2ETools-Monster-Handlebar](Template-2ETools-Monster-Handlebar.md) file to take .json data from the [PF2E Tools Bestiary](https://pf2etools.com/bestiary.html#aapoph%20serpentfolk_b2) to your vault. Complete with YAML data for Initiative Tracker. You will need to use [Obsidian Import Json](https://github.com/farling42/obsidian-import-json) to use this handlebar template.
+
+## Clockwork Dragon
 
 ```statblock
 layout: Path2eBlock
@@ -112,7 +116,8 @@ attacks:
 
 sourcebook: "_Bestiary 3_, page 51."
 ```
-### Encounter
+
+## Encounter
 
 ```encounter-table
 name: Clockwork Dragon

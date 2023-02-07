@@ -1,0 +1,1579 @@
+/*!
+Pathfinder TTRPG General Statblock Layout CSS
+By: Moritz Jung (https://github.com/mProjectsCode) and Sigrunixia
+
+V 1.3
+
+Looking for !important? Check for Rare_0X, and Trait_0X. That is the only spots they are used in this file.
+*/
+@font-face {
+  font-family: "Pathfinder";
+  src: url(data:application/x-font-ttf;charset=utf-8;base64,AAEAAAALAIAAAwAwT1MvMg8xOUgAAAC8AAAAYGNtYXBWj1fJAAABHAAAAHRnYXNwAAAAEAAAAZAAAAAIZ2x5ZlORXq8AAAGYAAACYGhlYWQnahodAAAD+AAAADZoaGVhDDUIawAABDAAAAAkaG10eCWQAIcAAARUAAAAKGxvY2ECvAH8AAAEfAAAABZtYXhwAA8APwAABJQAAAAgbmFtZQQfBa8AAAS0AAAC63Bvc3QAAwAAAAAHoAAAACAAAwTLAZAABQAAApkCzAAAAI8CmQLMAAAB6wAzAQkAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAABAAAArUwPA/8AAQAPAAEAAAAABAAAAAAAAAAAAAAAgAAAAAAADAAAAAwAAABwAAQADAAAAHAADAAEAAAAcAAQAWAAAABIAEAADAAIAAQAgADArMis7Kz0rU//9//8AAAAAACAAMCsyKzorPStT//3//wAB/+P/1NTT1MzUy9S2AAMAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAH//wAPAAEAAAAAAAAAAAACAAA3OQEAAAAAAQAAAAAAAAAAAAIAADc5AQAAAAABAAAAAAAAAAAAAgAANzkBAAAAAAEAAAAAAAAAAAACAAA3OQEAAAAAAgAoACIEHwNXADcAPAAAASYnJicmJyYHBgcGBwYHBgc2NzY3Njc2NzYXFhcWFxYXFgcGBwYHBgcGBwYnFhcWNzY3Njc2NzYBBSc3AQQdFzs8VFNlZWpLQUEzMyQkERUdHSMkKSouVVFRQ0QwMBISEBEsK0RDVRwcGxs/REVFalRUNjYVFPyNAeltOP5MAkdHOTklJQ0ODwsYGCIiKyovGhYXEhINDQcMCwsdHi4uOTo3Ny0uISAMBAECAQ4DAwoPKSg5OEVE/opnldf++wAAAAMAIP/BBmADvwAFAAkADwAACQEHCQEXAQcXNyUBBxcHFwQa/gH2AQj++Pb+vLe3twTS/kDZ6OjZAcAB//f++P749wK2t7e3CAHA2Ojo2QAAAgAC/8AD/gPAAAUACQAACQEHCQEXAQcXNwP+/gD3AQn+9/f+u7e3twHAAgD3/vf+9/cCt7e3twAEAC3/wAhzA8AABQALAA8AFQAACQEHCQEXCQEHFwcXAQcXNyUBBxcHFwQp/gD3AQn+9/cGSv6Yr7u7r/nZt7e3BNz+P9rp6doBwAIA9/73/vf3AgoBaK66u64CFre3twgBwdno6dkAAAMAEP/ABBADwAAEAAkADwAACQQBNxcHJwEnNyc3AQIU/fwB/QID/gT+uG1tbW0BN3H79XwBZwPA/fr+BgIDAf3+EG1tbW3+hHH79nz+mQAAAQAAAAEZmgtZ1jpfDzz1AAsEAAAAAADf694DAAAAAN/r3gMAAP/ACHMDwAAAAAgAAgAAAAAAAAABAAADwP/AAAAIoAAAAAAIcwABAAAAAAAAAAAAAAAAAAAACgQAAAAAAAAAAAAAAAIAAAAEAAAABFAAKAaAACAEAAACCKAALQQgABAAAAAAAAoAFAAeACgAkAC4ANQBCAEwAAAAAQAAAAoAPQAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABIA3gABAAAAAAABAAoAAAABAAAAAAACAAcB2gABAAAAAAADAAoBngABAAAAAAAEAAoB7wABAAAAAAAFAAsBfQABAAAAAAAGAAoBvAABAAAAAAAKADYA2wABAAAAAAANABcAHgABAAAAAAAOACgAYwADAAEECQABABQACgADAAEECQACAA4B4QADAAEECQADABQBqAADAAEECQAEABQB+QADAAEECQAFABYBiAADAAEECQAGABQBxgADAAEECQAKAGwBEQADAAEECQANAC4ANQADAAEECQAOAFAAi1BhdGhmaW5kZXIAUABhAHQAaABmAGkAbgBkAGUAclBhaXpvIENvbW11bml0eSBMaWNlbnNlAFAAYQBpAHoAbwAgAEMAbwBtAG0AdQBuAGkAdAB5ACAATABpAGMAZQBuAHMAZWh0dHBzOi8vcGFpem8uY29tL2NvbW11bml0eS9jb21tdW5pdHl1c2UAaAB0AHQAcABzADoALwAvAHAAYQBpAHoAbwAuAGMAbwBtAC8AYwBvAG0AbQB1AG4AaQB0AHkALwBjAG8AbQBtAHUAbgBpAHQAeQB1AHMAZVBhdGhmaW5kZXIgMmUgQWN0aW9uIEdseXBocwpGb250IGdlbmVyYXRlZCBieSBJY29Nb29uLgBQAGEAdABoAGYAaQBuAGQAZQByACAAMgBlACAAQQBjAHQAaQBvAG4AIABHAGwAeQBwAGgAcwAKAEYAbwBuAHQAIABnAGUAbgBlAHIAYQB0AGUAZAAgAGIAeQAgAEkAYwBvAE0AbwBvAG4ALlZlcnNpb24gMS4xAFYAZQByAHMAaQBvAG4AIAAxAC4AMVBhdGhmaW5kZXIAUABhAHQAaABmAGkAbgBkAGUAclBhdGhmaW5kZXIAUABhAHQAaABmAGkAbgBkAGUAclJlZ3VsYXIAUgBlAGcAdQBsAGEAclBhdGhmaW5kZXIAUABhAHQAaABmAGkAbgBkAGUAcgAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^=glyph-],
+[class*=" glyph-"] {
+  font-family: "Pathfinder" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.glyph-1action:before {
+  content: "\2b3b";
+}
+.glyph-2actions:before {
+  content: "\2b3a";
+}
+.glyph-3actions:before {
+  content: "\2b3d";
+}
+.glyph-delay:before {
+  content: "\2b53";
+}
+.glyph-reaction:before {
+  content: "\2b32";
+}
+.statblock.path2eblock,
+.statblock.path2eblockact,
+.statblock.path2eblockhaz,
+.statblock.path2eblockinf,
+.statblock.path2eblockmisc,
+.statblock.path2eblockquest,
+.statblock.path2eblockset {
+  --statblock-primary-color: rgb(51, 51, 51);
+  --statblock-rule-color: rgb(51, 51, 51);
+  --statblock-background-color: rgb(246, 244, 242);
+  --statblock-background-color-alt: rgb(229, 224, 219);
+  --statblock-bar-color: var(--statblock-rule-color);
+  --statblock-bar-border-size: 1px;
+  --statblock-bar-border-color: var(--statblock-rule-color);
+  --statblock-image-width: 75px;
+  --statblock-image-height: 75px;
+  --statblock-image-border-size: 2px;
+  --statblock-image-border-color: rgb(51, 51, 51);
+  --statblock-border-size: 1px;
+  --statblock-border-color: rgb(51, 51, 51);
+  --statblock-box-shadow-color: rgb(255, 215, 0);
+  --statblock-box-shadow-x-offset: 0;
+  --statblock-box-shadow-y-offset: 0;
+  --statblock-box-shadow-blur: 1.5em;
+  --statblock-font-color: var(--statblock-primary-color);
+  --statblock-font-weight: 400;
+  --statblock-content-font:
+    system-ui,
+    "Pathfinder",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  --statblock-content-font-size: 13px;
+  --statblock-heading-font:
+    system-ui,
+    "Pathfinder",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  --statblock-heading-font-color: var(--statblock-font-color);
+  --statblock-heading-font-size: 1.35em;
+  --statblock-heading-font-variant: small-caps;
+  --statblock-heading-font-weight: 700;
+  --statblock-heading-line-height: 1;
+  --statblock-property-line-height: 1.33em;
+  --statblock-property-font-color: var(--statblock-font-color);
+  --statblock-property-name-font-color: var(--statblock-font-color);
+  --statblock-property-name-font-weight: bold;
+  --statblock-section-heading-border-size: 1px;
+  --statblock-section-heading-border-color: transparent;
+  --statblock-section-heading-font-color: var(--statblock-font-color);
+  --statblock-section-heading-font-size: 1.33 empx;
+  --statblock-section-heading-font-variant: small-caps;
+  --statblock-section-heading-font-weight: 400;
+  --statblock-saves-line-height: 1.33em;
+  --statblock-spells-font-style: italic;
+  --statblock-traits-font-size: 12px;
+  --statblock-traits-font-style: normal;
+  --statblock-traits-font-weight: 900;
+  --statblock-table-header-font-weight: bold;
+  --statblock-other-font:
+    system-ui,
+    "Pathfinder",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  --statblock-traits-font:
+    system-ui,
+    "Pathfinder",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  --statblock-text-normal: rgb(--color-base-100);
+  --statblock-text-muted: rgb(--color-base-50);
+  --statblock-text-faint: rgba(--statblock-primary-color, 0.5);
+  --statblock-hyperlink-color: rgb(61, 102, 142);
+  --statblock-hyperlink-text-decoration: rgb(51, 51, 51) underline solid;
+  --statblock-hyperlink-text-shadow: 0.5px 0.5px 0.5px rgba(61, 102, 142);
+  --statblock-italic-font-color: rgb(77, 27, 105);
+  --statblock-h3-variant: small-caps;
+  --statblock-h3-letter-spacing: 1;
+  --statblock-h3-line-height: 1.33em;
+  --statblock-h3-size: 13px;
+  --statblock-h3-color: rgb(51, 51, 51);
+  --statblock-h3-weight: 400;
+  --statblock-h3-font-style: normal;
+  --statblock-h3-font-family:
+    system-ui,
+    "Pathfinder",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Open Sans",
+    "Helvetica Neue",
+    sans-serif;
+  --statblock-column-width: 400px;
+  --statblock-column2-width: 1000px;
+  --statblock-traits-box-sizing: border-box;
+  --statblock-traits-font-color: rgb(255, 255, 255);
+  --statblock-traits-letter-spacing: 0.01em;
+  --statblock-traits-margins: 1px;
+  --statblock-traits-min-width: 4em;
+  --statblock-traits-padding: 0.4em 1.1em 0.25em;
+  --statblock-traits-text-align: center;
+  --statblock-traits-text-transform: uppercase;
+  --statblock-one-common-default: rgb(54, 69, 79);
+  --statblock-two-uncommon-default: rgb(143, 85, 66);
+  --statblock-three-rare-default: rgb(11, 37, 96);
+  --statblock-four-unique-default: rgb(77, 27, 106);
+  --statblock-alignment-default: rgb(89, 98, 143);
+  --statblock-size-default: rgb(75, 122, 92);
+  --statblock-trait-default: rgb(86, 12, 6);
+  --statblock-one-common-kingmaker: rgb(54, 69, 79);
+  --statblock-two-uncommon-kingmaker: rgb(143, 85, 66);
+  --statblock-three-rare-kingmaker: rgb(11, 37, 96);
+  --statblock-four-unique-kingmaker: rgb(77, 27, 106);
+  --statblock-alignment-kingmaker: rgb(97, 129, 157);
+  --statblock-size-kingmaker: rgb(25, 66, 26);
+  --statblock-trait-kingmaker: rgb(125, 143, 63);
+  --statblock-list-bullet-border: none;
+  --statblock-list-bullet-radius: 50%;
+  --statblock-list-bullet-size: 0.3em;
+  --statblock-list-bullet-transform: none;
+  --statblock-list-numbered-style: decimal;
+  --statblock-list-indent: 2em;
+  --statblock-list-margin-block-start: 1em;
+  --statblock-list-margin-block-end: 1em;
+  --statblock-list-margin-inline-start: 0px;
+  --statblock-list-margin-inline-end: 0px;
+  --statblock-list-marker-color: blue;
+  --statblock-list-marker-color-collapsed: var(--text-accent);
+  --statblock-list-marker-color-hover: var(--text-muted);
+  --statblock-list-padding-inline-start: 40px;
+  --statblock-list-padding-top: 0;
+  --statblock-list-padding-bottom: 0;
+  --statblock-list-spacing: 0.075em;
+  --statblock-list-style-type: disc;
+  --statblock-list-text-align: -webkit-match-parent;
+  --statblock-upper-level-padding: 2em;
+  --statblock-upper-level-margin: 2em;
+}
+.statblock.path2eblock .bar,
+.statblock.path2eblockact .bar,
+.statblock.path2eblockhaz .bar,
+.statblock.path2eblockinf .bar,
+.statblock.path2eblockmisc .bar,
+.statblock.path2eblockquest .bar,
+.statblock.path2eblockset .bar {
+  height: 1px;
+  background: var(--statblock-bar-color);
+  border: var(--statblock-bar-border-size) solid var(--statblock-bar-border-color);
+  z-index: 1;
+  width: fit-content;
+}
+.statblock.path2eblock .statblock-content,
+.statblock.path2eblockact .statblock-content,
+.statblock.path2eblockhaz .statblock-content,
+.statblock.path2eblockinf .statblock-content,
+.statblock.path2eblockmisc .statblock-content,
+.statblock.path2eblockquest .statblock-content,
+.statblock.path2eblockset .statblock-content {
+  font-family: var(--statblock-content-font);
+  font-size: var(--statblock-content-font-size);
+  color: var(--statblock-font-color);
+  background-color: var(--statblock-background-color);
+  padding: 0.5em;
+  border: var(--statblock-border-size) var(--statblock-border-color) solid;
+  box-shadow: var(--statblock-box-shadow-x-offset) var(--statblock-box-shadow-y-offset) var(--statblock-box-shadow-blur) var(--statblock-box-shadow-color);
+  margin: 0.5em 2px;
+  display: flex;
+  gap: 1rem;
+}
+.statblock.path2eblock .statblock-content > :global(.column),
+.statblock.path2eblockact .statblock-content > :global(.column),
+.statblock.path2eblockhaz .statblock-content > :global(.column),
+.statblock.path2eblockinf .statblock-content > :global(.column),
+.statblock.path2eblockmisc .statblock-content > :global(.column),
+.statblock.path2eblockquest .statblock-content > :global(.column),
+.statblock.path2eblockset .statblock-content > :global(.column) {
+  width: var(--statblock-column-width);
+}
+.statblock.path2eblock .statblock-content :global(.statblock-item-container),
+.statblock.path2eblockact .statblock-content :global(.statblock-item-container),
+.statblock.path2eblockhaz .statblock-content :global(.statblock-item-container),
+.statblock.path2eblockinf .statblock-content :global(.statblock-item-container),
+.statblock.path2eblockmisc .statblock-content :global(.statblock-item-container),
+.statblock.path2eblockquest .statblock-content :global(.statblock-item-container),
+.statblock.path2eblockset .statblock-content :global(.statblock-item-container) {
+  margin-bottom: 0.25rem;
+}
+.statblock.path2eblock .statblock-content:global(.statblock-detached),
+.statblock.path2eblockact .statblock-content:global(.statblock-detached),
+.statblock.path2eblockhaz .statblock-content:global(.statblock-detached),
+.statblock.path2eblockinf .statblock-content:global(.statblock-detached),
+.statblock.path2eblockmisc .statblock-content:global(.statblock-detached),
+.statblock.path2eblockquest .statblock-content:global(.statblock-detached),
+.statblock.path2eblockset .statblock-content:global(.statblock-detached) {
+  position: absolute;
+  top: -9999px;
+}
+.statblock.path2eblock .statblock-content:global(.statblock-item-inline),
+.statblock.path2eblockact .statblock-content:global(.statblock-item-inline),
+.statblock.path2eblockhaz .statblock-content:global(.statblock-item-inline),
+.statblock.path2eblockinf .statblock-content:global(.statblock-item-inline),
+.statblock.path2eblockmisc .statblock-content:global(.statblock-item-inline),
+.statblock.path2eblockquest .statblock-content:global(.statblock-item-inline),
+.statblock.path2eblockset .statblock-content:global(.statblock-item-inline) {
+  display: flex;
+  justify-content: space-between;
+}
+.statblock.path2eblock .statblock-content .statblock-item-container,
+.statblock.path2eblockact .statblock-content .statblock-item-container,
+.statblock.path2eblockhaz .statblock-content .statblock-item-container,
+.statblock.path2eblockinf .statblock-content .statblock-item-container,
+.statblock.path2eblockmisc .statblock-content .statblock-item-container,
+.statblock.path2eblockquest .statblock-content .statblock-item-container,
+.statblock.path2eblockset .statblock-content .statblock-item-container {
+  margin: 0;
+}
+.statblock.path2eblock .statblock-content > .column,
+.statblock.path2eblockact .statblock-content > .column,
+.statblock.path2eblockhaz .statblock-content > .column,
+.statblock.path2eblockinf .statblock-content > .column,
+.statblock.path2eblockmisc .statblock-content > .column,
+.statblock.path2eblockquest .statblock-content > .column,
+.statblock.path2eblockset .statblock-content > .column {
+}
+.statblock.path2eblock .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline),
+.statblock.path2eblockact .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline),
+.statblock.path2eblockhaz .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline),
+.statblock.path2eblockinf .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline),
+.statblock.path2eblockmisc .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline),
+.statblock.path2eblockquest .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline),
+.statblock.path2eblockset .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) {
+}
+.statblock.path2eblock .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)),
+.statblock.path2eblockact .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)),
+.statblock.path2eblockhaz .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)),
+.statblock.path2eblockinf .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)),
+.statblock.path2eblockmisc .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)),
+.statblock.path2eblockquest .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)),
+.statblock.path2eblockset .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)) {
+  margin-block: 0.25rem;
+}
+.statblock.path2eblock .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child,
+.statblock.path2eblockact .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child,
+.statblock.path2eblockhaz .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child,
+.statblock.path2eblockinf .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child,
+.statblock.path2eblockmisc .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child,
+.statblock.path2eblockquest .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child,
+.statblock.path2eblockset .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline):has(:is(.line, .property)):not(:has(.line.name)):last-child {
+  margin-bottom: 0;
+}
+.statblock.path2eblock .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)),
+.statblock.path2eblockact .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)),
+.statblock.path2eblockhaz .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)),
+.statblock.path2eblockinf .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)),
+.statblock.path2eblockmisc .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)),
+.statblock.path2eblockquest .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)),
+.statblock.path2eblockset .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line:has(.property-name)) {
+  margin-left: 1em;
+}
+.statblock.path2eblock .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name,
+.statblock.path2eblockact .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name,
+.statblock.path2eblockhaz .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name,
+.statblock.path2eblockinf .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name,
+.statblock.path2eblockmisc .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name,
+.statblock.path2eblockquest .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name,
+.statblock.path2eblockset .statblock-content > .column > :is(.statblock-item-container, .statblock-item-inline) > :is(.property, .line) .property-name {
+  margin-left: -1em;
+}
+.statblock.path2eblock .statblock-content > .column > .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockact .statblock-content > .column > .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockhaz .statblock-content > .column > .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockinf .statblock-content > .column > .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockmisc .statblock-content > .column > .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockquest .statblock-content > .column > .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockset .statblock-content > .column > .statblock-item-container:has(.tapered-rule) {
+  margin-block: 0.25rem;
+}
+.statblock.path2eblock .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockact .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockhaz .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockinf .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockmisc .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockquest .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule),
+.statblock.path2eblockset .statblock-content > .column > .statblock-item-inline:has(.name) + .statblock-item-container:has(.tapered-rule) {
+  margin-top: 0;
+}
+.statblock.path2eblock .statblock-content > .column > .statblock-item-container:has(.effect),
+.statblock.path2eblockact .statblock-content > .column > .statblock-item-container:has(.effect),
+.statblock.path2eblockhaz .statblock-content > .column > .statblock-item-container:has(.effect),
+.statblock.path2eblockinf .statblock-content > .column > .statblock-item-container:has(.effect),
+.statblock.path2eblockmisc .statblock-content > .column > .statblock-item-container:has(.effect),
+.statblock.path2eblockquest .statblock-content > .column > .statblock-item-container:has(.effect),
+.statblock.path2eblockset .statblock-content > .column > .statblock-item-container:has(.effect) {
+  margin-left: 1em;
+}
+@media screen and (max-width: 400px) {
+  .statblock.path2eblock .statblock-content > :global(.column),
+  .statblock.path2eblockact .statblock-content > :global(.column),
+  .statblock.path2eblockhaz .statblock-content > :global(.column),
+  .statblock.path2eblockinf .statblock-content > :global(.column),
+  .statblock.path2eblockmisc .statblock-content > :global(.column),
+  .statblock.path2eblockquest .statblock-content > :global(.column),
+  .statblock.path2eblockset .statblock-content > :global(.column) {
+    width: 75vw;
+  }
+}
+.statblock.path2eblock .dice-roller-result,
+.statblock.path2eblockact .dice-roller-result,
+.statblock.path2eblockhaz .dice-roller-result,
+.statblock.path2eblockinf .dice-roller-result,
+.statblock.path2eblockmisc .dice-roller-result,
+.statblock.path2eblockquest .dice-roller-result,
+.statblock.path2eblockset .dice-roller-result {
+  font-weight: var(--statblock-font-weight);
+}
+.statblock.path2eblock .roller-result,
+.statblock.path2eblockact .roller-result,
+.statblock.path2eblockhaz .roller-result,
+.statblock.path2eblockinf .roller-result,
+.statblock.path2eblockmisc .roller-result,
+.statblock.path2eblockquest .roller-result,
+.statblock.path2eblockset .roller-result {
+  font-weight: var(--statblock-font-weight);
+}
+.statblock.path2eblock .flex-container,
+.statblock.path2eblockact .flex-container,
+.statblock.path2eblockhaz .flex-container,
+.statblock.path2eblockinf .flex-container,
+.statblock.path2eblockmisc .flex-container,
+.statblock.path2eblockquest .flex-container,
+.statblock.path2eblockset .flex-container {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.statblock.path2eblock .heading,
+.statblock.path2eblockact .heading,
+.statblock.path2eblockhaz .heading,
+.statblock.path2eblockinf .heading,
+.statblock.path2eblockmisc .heading,
+.statblock.path2eblockquest .heading,
+.statblock.path2eblockset .heading {
+  align-items: center;
+  color: var(--statblock-heading-font-color);
+  display: flex;
+  font-family: var(--statblock-heading-font);
+  font-variant: var(--statblock-heading-font-variant);
+  font-weight: var(--statblock-heading-font-weight);
+  justify-content: space-between;
+  line-height: var(--statblock-heading-line-height);
+  letter-spacing: 1px;
+  margin: 0;
+}
+.statblock.path2eblock .image,
+.statblock.path2eblockact .image,
+.statblock.path2eblockhaz .image,
+.statblock.path2eblockinf .image,
+.statblock.path2eblockmisc .image,
+.statblock.path2eblockquest .image,
+.statblock.path2eblockset .image {
+  width: var(--statblock-image-width);
+  height: var(--statblock-image-height);
+}
+.statblock.path2eblock .image.pointer,
+.statblock.path2eblockact .image.pointer,
+.statblock.path2eblockhaz .image.pointer,
+.statblock.path2eblockinf .image.pointer,
+.statblock.path2eblockmisc .image.pointer,
+.statblock.path2eblockquest .image.pointer,
+.statblock.path2eblockset .image.pointer {
+  cursor: pointer;
+}
+.statblock.path2eblock img,
+.statblock.path2eblockact img,
+.statblock.path2eblockhaz img,
+.statblock.path2eblockinf img,
+.statblock.path2eblockmisc img,
+.statblock.path2eblockquest img,
+.statblock.path2eblockset img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  border: var(--statblock-image-border-size) solid var(--statblock-image-border-color);
+  object-position: center;
+}
+.statblock.path2eblock .line,
+.statblock.path2eblockact .line,
+.statblock.path2eblockhaz .line,
+.statblock.path2eblockinf .line,
+.statblock.path2eblockmisc .line,
+.statblock.path2eblockquest .line,
+.statblock.path2eblockset .line {
+  line-height: var(--statblock-property-line-height);
+  display: block;
+  color: var(--statblock-property-line-font-color);
+}
+.statblock.path2eblock .statblock-rendered-text-content,
+.statblock.path2eblockact .statblock-rendered-text-content,
+.statblock.path2eblockhaz .statblock-rendered-text-content,
+.statblock.path2eblockinf .statblock-rendered-text-content,
+.statblock.path2eblockmisc .statblock-rendered-text-content,
+.statblock.path2eblockquest .statblock-rendered-text-content,
+.statblock.path2eblockset .statblock-rendered-text-content {
+  color: var(--statblock-property-name-font-color);
+  font-weight: var(--statblock-property-name-font-weight);
+}
+.statblock.path2eblock :is(.statblock-markdown, .property),
+.statblock.path2eblockact :is(.statblock-markdown, .property),
+.statblock.path2eblockhaz :is(.statblock-markdown, .property),
+.statblock.path2eblockinf :is(.statblock-markdown, .property),
+.statblock.path2eblockmisc :is(.statblock-markdown, .property),
+.statblock.path2eblockquest :is(.statblock-markdown, .property),
+.statblock.path2eblockset :is(.statblock-markdown, .property) {
+  line-height: var(--statblock-property-line-height);
+}
+.statblock.path2eblock div.tapered-rule,
+.statblock.path2eblockact div.tapered-rule,
+.statblock.path2eblockhaz div.tapered-rule,
+.statblock.path2eblockinf div.tapered-rule,
+.statblock.path2eblockmisc div.tapered-rule,
+.statblock.path2eblockquest div.tapered-rule,
+.statblock.path2eblockset div.tapered-rule {
+  width: auto;
+  margin: 0;
+  height: 1px;
+  background: var(--statblock-bar-color);
+  clip-path: unset !important;
+  -webkit-clip-path: unset;
+}
+.statblock.path2eblock h1.section-header,
+.statblock.path2eblockact h1.section-header,
+.statblock.path2eblockhaz h1.section-header,
+.statblock.path2eblockinf h1.section-header,
+.statblock.path2eblockmisc h1.section-header,
+.statblock.path2eblockquest h1.section-header,
+.statblock.path2eblockset h1.section-header {
+  border: none;
+  color: var(--statblock-section-heading-font-color);
+  font-size: var(--statblock-section-heading-font-size);
+  font-variant: var(--statblock-section-heading-font-variant);
+  font-weight: var(--statblock-section-heading-font-weight);
+  letter-spacing: 1px;
+  margin: 0;
+  margin-bottom: 0.3em;
+  break-inside: avoid-column;
+  break-after: avoid-column;
+}
+.statblock.path2eblock h2.section-header,
+.statblock.path2eblockact h2.section-header,
+.statblock.path2eblockhaz h2.section-header,
+.statblock.path2eblockinf h2.section-header,
+.statblock.path2eblockmisc h2.section-header,
+.statblock.path2eblockquest h2.section-header,
+.statblock.path2eblockset h2.section-header {
+  border: none;
+  color: var(--statblock-section-heading-font-color);
+  font-size: var(--statblock-section-heading-font-size);
+  font-variant: var(--statblock-section-heading-font-variant);
+  font-weight: var(--statblock-section-heading-font-weight);
+  letter-spacing: 1px;
+  margin: 0;
+  margin-bottom: 0.3em;
+  break-inside: avoid-column;
+  break-after: avoid-column;
+}
+.statblock.path2eblock h3.section-header,
+.statblock.path2eblockact h3.section-header,
+.statblock.path2eblockhaz h3.section-header,
+.statblock.path2eblockinf h3.section-header,
+.statblock.path2eblockmisc h3.section-header,
+.statblock.path2eblockquest h3.section-header,
+.statblock.path2eblockset h3.section-header {
+  border: none;
+  color: var(--statblock-section-heading-font-color);
+  font-size: var(--statblock-section-heading-font-size);
+  font-variant: var(--statblock-section-heading-font-variant);
+  font-weight: var(--statblock-section-heading-font-weight);
+  letter-spacing: 1px;
+  margin: 0;
+  margin-bottom: 0;
+  break-inside: avoid-column;
+  break-after: avoid-column;
+  display: none;
+}
+.statblock.path2eblock .spell-line .spells,
+.statblock.path2eblockact .spell-line .spells,
+.statblock.path2eblockhaz .spell-line .spells,
+.statblock.path2eblockinf .spell-line .spells,
+.statblock.path2eblockmisc .spell-line .spells,
+.statblock.path2eblockquest .spell-line .spells,
+.statblock.path2eblockset .spell-line .spells {
+  font-style: var(--statblock-spells-font-style);
+}
+.statblock.path2eblock .statblock-table-header,
+.statblock.path2eblockact .statblock-table-header,
+.statblock.path2eblockhaz .statblock-table-header,
+.statblock.path2eblockinf .statblock-table-header,
+.statblock.path2eblockmisc .statblock-table-header,
+.statblock.path2eblockquest .statblock-table-header,
+.statblock.path2eblockset .statblock-table-header {
+  font-weight: var(--statblock-table-header-font-weight);
+}
+.statblock.path2eblock .table,
+.statblock.path2eblockact .table,
+.statblock.path2eblockhaz .table,
+.statblock.path2eblockinf .table,
+.statblock.path2eblockmisc .table,
+.statblock.path2eblockquest .table,
+.statblock.path2eblockset .table {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.statblock.path2eblock .table-item,
+.statblock.path2eblockact .table-item,
+.statblock.path2eblockhaz .table-item,
+.statblock.path2eblockinf .table-item,
+.statblock.path2eblockmisc .table-item,
+.statblock.path2eblockquest .table-item,
+.statblock.path2eblockset .table-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column nowrap;
+}
+.statblock.path2eblock .traits,
+.statblock.path2eblockact .traits,
+.statblock.path2eblockhaz .traits,
+.statblock.path2eblockinf .traits,
+.statblock.path2eblockmisc .traits,
+.statblock.path2eblockquest .traits,
+.statblock.path2eblockset .traits {
+  margin: 0;
+  margin-right: 0.25em;
+  display: inline;
+  font-weight: var(--statblock-traits-font-weight) !important;
+  font-style: var(--statblock-traits-font-style) !important;
+}
+.statblock.path2eblock .statblock-item-inline,
+.statblock.path2eblockact .statblock-item-inline,
+.statblock.path2eblockhaz .statblock-item-inline,
+.statblock.path2eblockinf .statblock-item-inline,
+.statblock.path2eblockmisc .statblock-item-inline,
+.statblock.path2eblockquest .statblock-item-inline,
+.statblock.path2eblockset .statblock-item-inline {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-items: baseline;
+  justify-content: flex-start;
+}
+.statblock.path2eblock .rare_01,
+.statblock.path2eblockact .rare_01,
+.statblock.path2eblockhaz .rare_01,
+.statblock.path2eblockinf .rare_01,
+.statblock.path2eblockmisc .rare_01,
+.statblock.path2eblockquest .rare_01,
+.statblock.path2eblockset .rare_01 {
+  background-color: var(--statblock-one-common-default) !important;
+}
+.statblock.path2eblock .rare_02,
+.statblock.path2eblockact .rare_02,
+.statblock.path2eblockhaz .rare_02,
+.statblock.path2eblockinf .rare_02,
+.statblock.path2eblockmisc .rare_02,
+.statblock.path2eblockquest .rare_02,
+.statblock.path2eblockset .rare_02 {
+  background-color: var(--statblock-two-uncommon-default) !important;
+}
+.statblock.path2eblock .rare_03,
+.statblock.path2eblockact .rare_03,
+.statblock.path2eblockhaz .rare_03,
+.statblock.path2eblockinf .rare_03,
+.statblock.path2eblockmisc .rare_03,
+.statblock.path2eblockquest .rare_03,
+.statblock.path2eblockset .rare_03 {
+  background-color: var(--statblock-three-rare-default) !important;
+}
+.statblock.path2eblock .rare_04,
+.statblock.path2eblockact .rare_04,
+.statblock.path2eblockhaz .rare_04,
+.statblock.path2eblockinf .rare_04,
+.statblock.path2eblockmisc .rare_04,
+.statblock.path2eblockquest .rare_04,
+.statblock.path2eblockset .rare_04 {
+  background-color: var(--statblock-four-unique-default) !important;
+}
+.statblock.path2eblock .alignment,
+.statblock.path2eblockact .alignment,
+.statblock.path2eblockhaz .alignment,
+.statblock.path2eblockinf .alignment,
+.statblock.path2eblockmisc .alignment,
+.statblock.path2eblockquest .alignment,
+.statblock.path2eblockset .alignment {
+  background-color: var(--statblock-alignment-default) !important;
+}
+.statblock.path2eblock .size,
+.statblock.path2eblockact .size,
+.statblock.path2eblockhaz .size,
+.statblock.path2eblockinf .size,
+.statblock.path2eblockmisc .size,
+.statblock.path2eblockquest .size,
+.statblock.path2eblockset .size {
+  background-color: var(--statblock-size-default) !important;
+}
+.statblock.path2eblock .xp,
+.statblock.path2eblock .kingdom_xp,
+.statblock.path2eblock .trait_01,
+.statblock.path2eblock .trait_02,
+.statblock.path2eblock .trait_03,
+.statblock.path2eblock .trait_04,
+.statblock.path2eblock .trait_05,
+.statblock.path2eblock .trait_06,
+.statblock.path2eblock .trait_07,
+.statblock.path2eblockact .xp,
+.statblock.path2eblockact .kingdom_xp,
+.statblock.path2eblockact .trait_01,
+.statblock.path2eblockact .trait_02,
+.statblock.path2eblockact .trait_03,
+.statblock.path2eblockact .trait_04,
+.statblock.path2eblockact .trait_05,
+.statblock.path2eblockact .trait_06,
+.statblock.path2eblockact .trait_07,
+.statblock.path2eblockhaz .xp,
+.statblock.path2eblockhaz .kingdom_xp,
+.statblock.path2eblockhaz .trait_01,
+.statblock.path2eblockhaz .trait_02,
+.statblock.path2eblockhaz .trait_03,
+.statblock.path2eblockhaz .trait_04,
+.statblock.path2eblockhaz .trait_05,
+.statblock.path2eblockhaz .trait_06,
+.statblock.path2eblockhaz .trait_07,
+.statblock.path2eblockinf .xp,
+.statblock.path2eblockinf .kingdom_xp,
+.statblock.path2eblockinf .trait_01,
+.statblock.path2eblockinf .trait_02,
+.statblock.path2eblockinf .trait_03,
+.statblock.path2eblockinf .trait_04,
+.statblock.path2eblockinf .trait_05,
+.statblock.path2eblockinf .trait_06,
+.statblock.path2eblockinf .trait_07,
+.statblock.path2eblockmisc .xp,
+.statblock.path2eblockmisc .kingdom_xp,
+.statblock.path2eblockmisc .trait_01,
+.statblock.path2eblockmisc .trait_02,
+.statblock.path2eblockmisc .trait_03,
+.statblock.path2eblockmisc .trait_04,
+.statblock.path2eblockmisc .trait_05,
+.statblock.path2eblockmisc .trait_06,
+.statblock.path2eblockmisc .trait_07,
+.statblock.path2eblockquest .xp,
+.statblock.path2eblockquest .kingdom_xp,
+.statblock.path2eblockquest .trait_01,
+.statblock.path2eblockquest .trait_02,
+.statblock.path2eblockquest .trait_03,
+.statblock.path2eblockquest .trait_04,
+.statblock.path2eblockquest .trait_05,
+.statblock.path2eblockquest .trait_06,
+.statblock.path2eblockquest .trait_07,
+.statblock.path2eblockset .xp,
+.statblock.path2eblockset .kingdom_xp,
+.statblock.path2eblockset .trait_01,
+.statblock.path2eblockset .trait_02,
+.statblock.path2eblockset .trait_03,
+.statblock.path2eblockset .trait_04,
+.statblock.path2eblockset .trait_05,
+.statblock.path2eblockset .trait_06,
+.statblock.path2eblockset .trait_07 {
+  background-color: var(--statblock-trait-default) !important;
+}
+.statblock.path2eblock .rare_01,
+.statblock.path2eblock .rare_02,
+.statblock.path2eblock .rare_03,
+.statblock.path2eblock .rare_04,
+.statblock.path2eblock .alignment,
+.statblock.path2eblock .size,
+.statblock.path2eblock .xp,
+.statblock.path2eblock .kingdom_xp,
+.statblock.path2eblock .trait_01,
+.statblock.path2eblock .trait_02,
+.statblock.path2eblock .trait_03,
+.statblock.path2eblock .trait_04,
+.statblock.path2eblock .trait_05,
+.statblock.path2eblock .trait_06,
+.statblock.path2eblock .trait_07,
+.statblock.path2eblockact .rare_01,
+.statblock.path2eblockact .rare_02,
+.statblock.path2eblockact .rare_03,
+.statblock.path2eblockact .rare_04,
+.statblock.path2eblockact .alignment,
+.statblock.path2eblockact .size,
+.statblock.path2eblockact .xp,
+.statblock.path2eblockact .kingdom_xp,
+.statblock.path2eblockact .trait_01,
+.statblock.path2eblockact .trait_02,
+.statblock.path2eblockact .trait_03,
+.statblock.path2eblockact .trait_04,
+.statblock.path2eblockact .trait_05,
+.statblock.path2eblockact .trait_06,
+.statblock.path2eblockact .trait_07,
+.statblock.path2eblockhaz .rare_01,
+.statblock.path2eblockhaz .rare_02,
+.statblock.path2eblockhaz .rare_03,
+.statblock.path2eblockhaz .rare_04,
+.statblock.path2eblockhaz .alignment,
+.statblock.path2eblockhaz .size,
+.statblock.path2eblockhaz .xp,
+.statblock.path2eblockhaz .kingdom_xp,
+.statblock.path2eblockhaz .trait_01,
+.statblock.path2eblockhaz .trait_02,
+.statblock.path2eblockhaz .trait_03,
+.statblock.path2eblockhaz .trait_04,
+.statblock.path2eblockhaz .trait_05,
+.statblock.path2eblockhaz .trait_06,
+.statblock.path2eblockhaz .trait_07,
+.statblock.path2eblockinf .rare_01,
+.statblock.path2eblockinf .rare_02,
+.statblock.path2eblockinf .rare_03,
+.statblock.path2eblockinf .rare_04,
+.statblock.path2eblockinf .alignment,
+.statblock.path2eblockinf .size,
+.statblock.path2eblockinf .xp,
+.statblock.path2eblockinf .kingdom_xp,
+.statblock.path2eblockinf .trait_01,
+.statblock.path2eblockinf .trait_02,
+.statblock.path2eblockinf .trait_03,
+.statblock.path2eblockinf .trait_04,
+.statblock.path2eblockinf .trait_05,
+.statblock.path2eblockinf .trait_06,
+.statblock.path2eblockinf .trait_07,
+.statblock.path2eblockmisc .rare_01,
+.statblock.path2eblockmisc .rare_02,
+.statblock.path2eblockmisc .rare_03,
+.statblock.path2eblockmisc .rare_04,
+.statblock.path2eblockmisc .alignment,
+.statblock.path2eblockmisc .size,
+.statblock.path2eblockmisc .xp,
+.statblock.path2eblockmisc .kingdom_xp,
+.statblock.path2eblockmisc .trait_01,
+.statblock.path2eblockmisc .trait_02,
+.statblock.path2eblockmisc .trait_03,
+.statblock.path2eblockmisc .trait_04,
+.statblock.path2eblockmisc .trait_05,
+.statblock.path2eblockmisc .trait_06,
+.statblock.path2eblockmisc .trait_07,
+.statblock.path2eblockquest .rare_01,
+.statblock.path2eblockquest .rare_02,
+.statblock.path2eblockquest .rare_03,
+.statblock.path2eblockquest .rare_04,
+.statblock.path2eblockquest .alignment,
+.statblock.path2eblockquest .size,
+.statblock.path2eblockquest .xp,
+.statblock.path2eblockquest .kingdom_xp,
+.statblock.path2eblockquest .trait_01,
+.statblock.path2eblockquest .trait_02,
+.statblock.path2eblockquest .trait_03,
+.statblock.path2eblockquest .trait_04,
+.statblock.path2eblockquest .trait_05,
+.statblock.path2eblockquest .trait_06,
+.statblock.path2eblockquest .trait_07,
+.statblock.path2eblockset .rare_01,
+.statblock.path2eblockset .rare_02,
+.statblock.path2eblockset .rare_03,
+.statblock.path2eblockset .rare_04,
+.statblock.path2eblockset .alignment,
+.statblock.path2eblockset .size,
+.statblock.path2eblockset .xp,
+.statblock.path2eblockset .kingdom_xp,
+.statblock.path2eblockset .trait_01,
+.statblock.path2eblockset .trait_02,
+.statblock.path2eblockset .trait_03,
+.statblock.path2eblockset .trait_04,
+.statblock.path2eblockset .trait_05,
+.statblock.path2eblockset .trait_06,
+.statblock.path2eblockset .trait_07 {
+  color: var(--statblock-traits-font-color) !important;
+  font-size: var(--statblock-traits-font-size);
+  font-style: var(--statblock-traits-font-style) !important;
+  font-weight: var(--statblock-traits-font-weight) !important;
+  letter-spacing: var(--statblock-traits-letter-spacing);
+  min-width: var(--statblock-traits-min-width);
+  margin: var(--statblock-traits-margins);
+  padding: var(--statblock-traits-padding);
+  text-align: var(--statblock-traits-text-align);
+  text-transform: var(--statblock-traits-text-transform);
+}
+.statblock.path2eblock .rare_01 span.property-name,
+.statblock.path2eblock .rare_02 span.property-name,
+.statblock.path2eblock .rare_03 span.property-name,
+.statblock.path2eblock .rare_04 span.property-name,
+.statblock.path2eblock .alignment span.property-name,
+.statblock.path2eblock .size span.property-name,
+.statblock.path2eblock .xp span.property-name,
+.statblock.path2eblock .kingdom_xp span.property-name,
+.statblock.path2eblock .trait_01 span.property-name,
+.statblock.path2eblock .trait_02 span.property-name,
+.statblock.path2eblock .trait_03 span.property-name,
+.statblock.path2eblock .trait_04 span.property-name,
+.statblock.path2eblock .trait_05 span.property-name,
+.statblock.path2eblock .trait_06 span.property-name,
+.statblock.path2eblock .trait_07 span.property-name,
+.statblock.path2eblockact .rare_01 span.property-name,
+.statblock.path2eblockact .rare_02 span.property-name,
+.statblock.path2eblockact .rare_03 span.property-name,
+.statblock.path2eblockact .rare_04 span.property-name,
+.statblock.path2eblockact .alignment span.property-name,
+.statblock.path2eblockact .size span.property-name,
+.statblock.path2eblockact .xp span.property-name,
+.statblock.path2eblockact .kingdom_xp span.property-name,
+.statblock.path2eblockact .trait_01 span.property-name,
+.statblock.path2eblockact .trait_02 span.property-name,
+.statblock.path2eblockact .trait_03 span.property-name,
+.statblock.path2eblockact .trait_04 span.property-name,
+.statblock.path2eblockact .trait_05 span.property-name,
+.statblock.path2eblockact .trait_06 span.property-name,
+.statblock.path2eblockact .trait_07 span.property-name,
+.statblock.path2eblockhaz .rare_01 span.property-name,
+.statblock.path2eblockhaz .rare_02 span.property-name,
+.statblock.path2eblockhaz .rare_03 span.property-name,
+.statblock.path2eblockhaz .rare_04 span.property-name,
+.statblock.path2eblockhaz .alignment span.property-name,
+.statblock.path2eblockhaz .size span.property-name,
+.statblock.path2eblockhaz .xp span.property-name,
+.statblock.path2eblockhaz .kingdom_xp span.property-name,
+.statblock.path2eblockhaz .trait_01 span.property-name,
+.statblock.path2eblockhaz .trait_02 span.property-name,
+.statblock.path2eblockhaz .trait_03 span.property-name,
+.statblock.path2eblockhaz .trait_04 span.property-name,
+.statblock.path2eblockhaz .trait_05 span.property-name,
+.statblock.path2eblockhaz .trait_06 span.property-name,
+.statblock.path2eblockhaz .trait_07 span.property-name,
+.statblock.path2eblockinf .rare_01 span.property-name,
+.statblock.path2eblockinf .rare_02 span.property-name,
+.statblock.path2eblockinf .rare_03 span.property-name,
+.statblock.path2eblockinf .rare_04 span.property-name,
+.statblock.path2eblockinf .alignment span.property-name,
+.statblock.path2eblockinf .size span.property-name,
+.statblock.path2eblockinf .xp span.property-name,
+.statblock.path2eblockinf .kingdom_xp span.property-name,
+.statblock.path2eblockinf .trait_01 span.property-name,
+.statblock.path2eblockinf .trait_02 span.property-name,
+.statblock.path2eblockinf .trait_03 span.property-name,
+.statblock.path2eblockinf .trait_04 span.property-name,
+.statblock.path2eblockinf .trait_05 span.property-name,
+.statblock.path2eblockinf .trait_06 span.property-name,
+.statblock.path2eblockinf .trait_07 span.property-name,
+.statblock.path2eblockmisc .rare_01 span.property-name,
+.statblock.path2eblockmisc .rare_02 span.property-name,
+.statblock.path2eblockmisc .rare_03 span.property-name,
+.statblock.path2eblockmisc .rare_04 span.property-name,
+.statblock.path2eblockmisc .alignment span.property-name,
+.statblock.path2eblockmisc .size span.property-name,
+.statblock.path2eblockmisc .xp span.property-name,
+.statblock.path2eblockmisc .kingdom_xp span.property-name,
+.statblock.path2eblockmisc .trait_01 span.property-name,
+.statblock.path2eblockmisc .trait_02 span.property-name,
+.statblock.path2eblockmisc .trait_03 span.property-name,
+.statblock.path2eblockmisc .trait_04 span.property-name,
+.statblock.path2eblockmisc .trait_05 span.property-name,
+.statblock.path2eblockmisc .trait_06 span.property-name,
+.statblock.path2eblockmisc .trait_07 span.property-name,
+.statblock.path2eblockquest .rare_01 span.property-name,
+.statblock.path2eblockquest .rare_02 span.property-name,
+.statblock.path2eblockquest .rare_03 span.property-name,
+.statblock.path2eblockquest .rare_04 span.property-name,
+.statblock.path2eblockquest .alignment span.property-name,
+.statblock.path2eblockquest .size span.property-name,
+.statblock.path2eblockquest .xp span.property-name,
+.statblock.path2eblockquest .kingdom_xp span.property-name,
+.statblock.path2eblockquest .trait_01 span.property-name,
+.statblock.path2eblockquest .trait_02 span.property-name,
+.statblock.path2eblockquest .trait_03 span.property-name,
+.statblock.path2eblockquest .trait_04 span.property-name,
+.statblock.path2eblockquest .trait_05 span.property-name,
+.statblock.path2eblockquest .trait_06 span.property-name,
+.statblock.path2eblockquest .trait_07 span.property-name,
+.statblock.path2eblockset .rare_01 span.property-name,
+.statblock.path2eblockset .rare_02 span.property-name,
+.statblock.path2eblockset .rare_03 span.property-name,
+.statblock.path2eblockset .rare_04 span.property-name,
+.statblock.path2eblockset .alignment span.property-name,
+.statblock.path2eblockset .size span.property-name,
+.statblock.path2eblockset .xp span.property-name,
+.statblock.path2eblockset .kingdom_xp span.property-name,
+.statblock.path2eblockset .trait_01 span.property-name,
+.statblock.path2eblockset .trait_02 span.property-name,
+.statblock.path2eblockset .trait_03 span.property-name,
+.statblock.path2eblockset .trait_04 span.property-name,
+.statblock.path2eblockset .trait_05 span.property-name,
+.statblock.path2eblockset .trait_06 span.property-name,
+.statblock.path2eblockset .trait_07 span.property-name {
+  display: none;
+}
+.statblock.path2eblock h3,
+.statblock.path2eblock .markdown-rendered h3,
+.statblock.path2eblock .HyperMD-header-3,
+.statblock.path2eblock .inline-title[data-level="3"],
+.statblock.path2eblock .HyperMD-list-line .cm-header-3,
+.statblock.path2eblockact h3,
+.statblock.path2eblockact .markdown-rendered h3,
+.statblock.path2eblockact .HyperMD-header-3,
+.statblock.path2eblockact .inline-title[data-level="3"],
+.statblock.path2eblockact .HyperMD-list-line .cm-header-3,
+.statblock.path2eblockhaz h3,
+.statblock.path2eblockhaz .markdown-rendered h3,
+.statblock.path2eblockhaz .HyperMD-header-3,
+.statblock.path2eblockhaz .inline-title[data-level="3"],
+.statblock.path2eblockhaz .HyperMD-list-line .cm-header-3,
+.statblock.path2eblockinf h3,
+.statblock.path2eblockinf .markdown-rendered h3,
+.statblock.path2eblockinf .HyperMD-header-3,
+.statblock.path2eblockinf .inline-title[data-level="3"],
+.statblock.path2eblockinf .HyperMD-list-line .cm-header-3,
+.statblock.path2eblockmisc h3,
+.statblock.path2eblockmisc .markdown-rendered h3,
+.statblock.path2eblockmisc .HyperMD-header-3,
+.statblock.path2eblockmisc .inline-title[data-level="3"],
+.statblock.path2eblockmisc .HyperMD-list-line .cm-header-3,
+.statblock.path2eblockquest h3,
+.statblock.path2eblockquest .markdown-rendered h3,
+.statblock.path2eblockquest .HyperMD-header-3,
+.statblock.path2eblockquest .inline-title[data-level="3"],
+.statblock.path2eblockquest .HyperMD-list-line .cm-header-3,
+.statblock.path2eblockset h3,
+.statblock.path2eblockset .markdown-rendered h3,
+.statblock.path2eblockset .HyperMD-header-3,
+.statblock.path2eblockset .inline-title[data-level="3"],
+.statblock.path2eblockset .HyperMD-list-line .cm-header-3 {
+  font-variant: var(--statblock-h3-variant);
+  letter-spacing: var(--statblock-h3-letter-spacing);
+  line-height: var(--statblock-h3-line-height);
+  font-size: var(--statblock-h3-size);
+  color: var(--statblock-h3-color);
+}
+.statblock.path2eblock a,
+.statblock.path2eblock a:-webkit-any-link,
+.statblock.path2eblock a.internal-link,
+.statblock.path2eblockact a,
+.statblock.path2eblockact a:-webkit-any-link,
+.statblock.path2eblockact a.internal-link,
+.statblock.path2eblockhaz a,
+.statblock.path2eblockhaz a:-webkit-any-link,
+.statblock.path2eblockhaz a.internal-link,
+.statblock.path2eblockinf a,
+.statblock.path2eblockinf a:-webkit-any-link,
+.statblock.path2eblockinf a.internal-link,
+.statblock.path2eblockmisc a,
+.statblock.path2eblockmisc a:-webkit-any-link,
+.statblock.path2eblockmisc a.internal-link,
+.statblock.path2eblockquest a,
+.statblock.path2eblockquest a:-webkit-any-link,
+.statblock.path2eblockquest a.internal-link,
+.statblock.path2eblockset a,
+.statblock.path2eblockset a:-webkit-any-link,
+.statblock.path2eblockset a.internal-link {
+  color: var(--statblock-hyperlink-color);
+  font-weight: bolder;
+  text-decoration: var(--statblock-hyperlink-text-decoration);
+}
+.statblock.path2eblock b,
+.statblock.path2eblock strong,
+.statblock.path2eblock .cm-strong,
+.statblock.path2eblockact b,
+.statblock.path2eblockact strong,
+.statblock.path2eblockact .cm-strong,
+.statblock.path2eblockhaz b,
+.statblock.path2eblockhaz strong,
+.statblock.path2eblockhaz .cm-strong,
+.statblock.path2eblockinf b,
+.statblock.path2eblockinf strong,
+.statblock.path2eblockinf .cm-strong,
+.statblock.path2eblockmisc b,
+.statblock.path2eblockmisc strong,
+.statblock.path2eblockmisc .cm-strong,
+.statblock.path2eblockquest b,
+.statblock.path2eblockquest strong,
+.statblock.path2eblockquest .cm-strong,
+.statblock.path2eblockset b,
+.statblock.path2eblockset strong,
+.statblock.path2eblockset .cm-strong {
+  font-weight: var(--statblock-property-name-font-weight);
+  color: var(--statblock-property-name-font-color);
+}
+.statblock.path2eblock i,
+.statblock.path2eblock em,
+.statblock.path2eblock .cm-em,
+.statblock.path2eblockact i,
+.statblock.path2eblockact em,
+.statblock.path2eblockact .cm-em,
+.statblock.path2eblockhaz i,
+.statblock.path2eblockhaz em,
+.statblock.path2eblockhaz .cm-em,
+.statblock.path2eblockinf i,
+.statblock.path2eblockinf em,
+.statblock.path2eblockinf .cm-em,
+.statblock.path2eblockmisc i,
+.statblock.path2eblockmisc em,
+.statblock.path2eblockmisc .cm-em,
+.statblock.path2eblockquest i,
+.statblock.path2eblockquest em,
+.statblock.path2eblockquest .cm-em,
+.statblock.path2eblockset i,
+.statblock.path2eblockset em,
+.statblock.path2eblockset .cm-em {
+  font-style: italic;
+  color: var(--statblock-italic-font-color);
+  font-weight: 500;
+}
+.statblock.path2eblock .statblock-item-inline:has(.name),
+.statblock.path2eblockact .statblock-item-inline:has(.name),
+.statblock.path2eblockhaz .statblock-item-inline:has(.name),
+.statblock.path2eblockinf .statblock-item-inline:has(.name),
+.statblock.path2eblockmisc .statblock-item-inline:has(.name),
+.statblock.path2eblockquest .statblock-item-inline:has(.name),
+.statblock.path2eblockset .statblock-item-inline:has(.name) {
+}
+.statblock.path2eblock .statblock-item-inline:has(.name) .image,
+.statblock.path2eblockact .statblock-item-inline:has(.name) .image,
+.statblock.path2eblockhaz .statblock-item-inline:has(.name) .image,
+.statblock.path2eblockinf .statblock-item-inline:has(.name) .image,
+.statblock.path2eblockmisc .statblock-item-inline:has(.name) .image,
+.statblock.path2eblockquest .statblock-item-inline:has(.name) .image,
+.statblock.path2eblockset .statblock-item-inline:has(.name) .image {
+  width: unset;
+  height: unset;
+}
+.statblock.path2eblock .statblock-item-inline:has(.name) img,
+.statblock.path2eblockact .statblock-item-inline:has(.name) img,
+.statblock.path2eblockhaz .statblock-item-inline:has(.name) img,
+.statblock.path2eblockinf .statblock-item-inline:has(.name) img,
+.statblock.path2eblockmisc .statblock-item-inline:has(.name) img,
+.statblock.path2eblockquest .statblock-item-inline:has(.name) img,
+.statblock.path2eblockset .statblock-item-inline:has(.name) img {
+  width: unset;
+  height: var(--statblock-property-line-height);
+  border-radius: 0;
+  border: none;
+}
+.statblock.path2eblock .statblock-item-inline,
+.statblock.path2eblockact .statblock-item-inline,
+.statblock.path2eblockhaz .statblock-item-inline,
+.statblock.path2eblockinf .statblock-item-inline,
+.statblock.path2eblockmisc .statblock-item-inline,
+.statblock.path2eblockquest .statblock-item-inline,
+.statblock.path2eblockset .statblock-item-inline {
+}
+.statblock.path2eblock .statblock-item-inline:has(.statblock-inline-item .name),
+.statblock.path2eblockact .statblock-item-inline:has(.statblock-inline-item .name),
+.statblock.path2eblockhaz .statblock-item-inline:has(.statblock-inline-item .name),
+.statblock.path2eblockinf .statblock-item-inline:has(.statblock-inline-item .name),
+.statblock.path2eblockmisc .statblock-item-inline:has(.statblock-inline-item .name),
+.statblock.path2eblockquest .statblock-item-inline:has(.statblock-inline-item .name),
+.statblock.path2eblockset .statblock-item-inline:has(.statblock-inline-item .name) {
+  display: flex;
+  flex-direction: row;
+  margin-inline: 0.25em;
+  gap: 0.25em;
+}
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item:has(.name),
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item:has(.name),
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item:has(.name),
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item:has(.name),
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item:has(.name),
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item:has(.name),
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item:has(.name) {
+  flex: 1;
+}
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item .level,
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item .level,
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item .level,
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item .level,
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item .level,
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item .level,
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item .name,
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item .level {
+}
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item .level p,
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item .level p,
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item .level p,
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item .level p,
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item .level p,
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item .level p,
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item .name p,
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item .level p {
+  align-self: flex-start;
+  font-size: 1.2em;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblock .statblock-item-inline .statblock-inline-item .level span.property-name,
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblockact .statblock-item-inline .statblock-inline-item .level span.property-name,
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblockhaz .statblock-item-inline .statblock-inline-item .level span.property-name,
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblockinf .statblock-item-inline .statblock-inline-item .level span.property-name,
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblockmisc .statblock-item-inline .statblock-inline-item .level span.property-name,
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblockquest .statblock-item-inline .statblock-inline-item .level span.property-name,
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item .name span.property-name,
+.statblock.path2eblockset .statblock-item-inline .statblock-inline-item .level span.property-name {
+  display: none;
+}
+.statblock.path2eblock ul,
+.statblock.path2eblockact ul,
+.statblock.path2eblockhaz ul,
+.statblock.path2eblockinf ul,
+.statblock.path2eblockmisc ul,
+.statblock.path2eblockquest ul,
+.statblock.path2eblockset ul {
+  display: block;
+  list-style-type: var(--statblock-list-style-type);
+  margin-block-start: var(--statblock-list-margin-block-start);
+  margin-block-end: var(--statblock-list-margin-block-end);
+  margin-inline-start: var(--statblock-list-margin-inline-start);
+  margin-inline-end: var(--statblock-list-margin-inline-end);
+  padding-inline-start: var(--statblock-list-padding-inline-start);
+}
+.statblock.path2eblock .markdown-rendered ul,
+.statblock.path2eblock .markdown-rendered ol,
+.statblock.path2eblockact .markdown-rendered ul,
+.statblock.path2eblockact .markdown-rendered ol,
+.statblock.path2eblockhaz .markdown-rendered ul,
+.statblock.path2eblockhaz .markdown-rendered ol,
+.statblock.path2eblockinf .markdown-rendered ul,
+.statblock.path2eblockinf .markdown-rendered ol,
+.statblock.path2eblockmisc .markdown-rendered ul,
+.statblock.path2eblockmisc .markdown-rendered ol,
+.statblock.path2eblockquest .markdown-rendered ul,
+.statblock.path2eblockquest .markdown-rendered ol,
+.statblock.path2eblockset .markdown-rendered ul,
+.statblock.path2eblockset .markdown-rendered ol {
+  padding-inline-start: var(--statblock-list-indent);
+}
+.statblock.path2eblock li,
+.statblock.path2eblockact li,
+.statblock.path2eblockhaz li,
+.statblock.path2eblockinf li,
+.statblock.path2eblockmisc li,
+.statblock.path2eblockquest li,
+.statblock.path2eblockset li {
+  color: var(--statblock-content-font);
+  display: list-item;
+  text-align: var(--statblock-list-text-align);
+}
+.statblock.path2eblock .markdown-source-view ol > li,
+.statblock.path2eblock .markdown-source-view ul > li,
+.statblock.path2eblock .markdown-preview-view ol > li,
+.statblock.path2eblock .markdown-preview-view ul > li,
+.statblock.path2eblock .markdown-rendered ul > li,
+.statblock.path2eblock .mod-cm6 .HyperMD-list-line.cm-line,
+.statblock.path2eblockact .markdown-source-view ol > li,
+.statblock.path2eblockact .markdown-source-view ul > li,
+.statblock.path2eblockact .markdown-preview-view ol > li,
+.statblock.path2eblockact .markdown-preview-view ul > li,
+.statblock.path2eblockact .markdown-rendered ul > li,
+.statblock.path2eblockact .mod-cm6 .HyperMD-list-line.cm-line,
+.statblock.path2eblockhaz .markdown-source-view ol > li,
+.statblock.path2eblockhaz .markdown-source-view ul > li,
+.statblock.path2eblockhaz .markdown-preview-view ol > li,
+.statblock.path2eblockhaz .markdown-preview-view ul > li,
+.statblock.path2eblockhaz .markdown-rendered ul > li,
+.statblock.path2eblockhaz .mod-cm6 .HyperMD-list-line.cm-line,
+.statblock.path2eblockinf .markdown-source-view ol > li,
+.statblock.path2eblockinf .markdown-source-view ul > li,
+.statblock.path2eblockinf .markdown-preview-view ol > li,
+.statblock.path2eblockinf .markdown-preview-view ul > li,
+.statblock.path2eblockinf .markdown-rendered ul > li,
+.statblock.path2eblockinf .mod-cm6 .HyperMD-list-line.cm-line,
+.statblock.path2eblockmisc .markdown-source-view ol > li,
+.statblock.path2eblockmisc .markdown-source-view ul > li,
+.statblock.path2eblockmisc .markdown-preview-view ol > li,
+.statblock.path2eblockmisc .markdown-preview-view ul > li,
+.statblock.path2eblockmisc .markdown-rendered ul > li,
+.statblock.path2eblockmisc .mod-cm6 .HyperMD-list-line.cm-line,
+.statblock.path2eblockquest .markdown-source-view ol > li,
+.statblock.path2eblockquest .markdown-source-view ul > li,
+.statblock.path2eblockquest .markdown-preview-view ol > li,
+.statblock.path2eblockquest .markdown-preview-view ul > li,
+.statblock.path2eblockquest .markdown-rendered ul > li,
+.statblock.path2eblockquest .mod-cm6 .HyperMD-list-line.cm-line,
+.statblock.path2eblockset .markdown-source-view ol > li,
+.statblock.path2eblockset .markdown-source-view ul > li,
+.statblock.path2eblockset .markdown-preview-view ol > li,
+.statblock.path2eblockset .markdown-preview-view ul > li,
+.statblock.path2eblockset .markdown-rendered ul > li,
+.statblock.path2eblockset .mod-cm6 .HyperMD-list-line.cm-line {
+  padding-top: var(--statblock-list-padding-top);
+  padding-bottom: var(--statblock-list-padding-bottom);
+}
+.statblock.path2eblock ol > li::marker,
+.statblock.path2eblock ul > li::marker,
+.statblock.path2eblock .cm-s-obsidian .cm-formatting-list,
+.statblock.path2eblockact ol > li::marker,
+.statblock.path2eblockact ul > li::marker,
+.statblock.path2eblockact .cm-s-obsidian .cm-formatting-list,
+.statblock.path2eblockhaz ol > li::marker,
+.statblock.path2eblockhaz ul > li::marker,
+.statblock.path2eblockhaz .cm-s-obsidian .cm-formatting-list,
+.statblock.path2eblockinf ol > li::marker,
+.statblock.path2eblockinf ul > li::marker,
+.statblock.path2eblockinf .cm-s-obsidian .cm-formatting-list,
+.statblock.path2eblockmisc ol > li::marker,
+.statblock.path2eblockmisc ul > li::marker,
+.statblock.path2eblockmisc .cm-s-obsidian .cm-formatting-list,
+.statblock.path2eblockquest ol > li::marker,
+.statblock.path2eblockquest ul > li::marker,
+.statblock.path2eblockquest .cm-s-obsidian .cm-formatting-list,
+.statblock.path2eblockset ol > li::marker,
+.statblock.path2eblockset ul > li::marker,
+.statblock.path2eblockset .cm-s-obsidian .cm-formatting-list {
+  color: var(--list-marker-color);
+}
+.statblock.path2eblock ::marker,
+.statblock.path2eblockact ::marker,
+.statblock.path2eblockhaz ::marker,
+.statblock.path2eblockinf ::marker,
+.statblock.path2eblockmisc ::marker,
+.statblock.path2eblockquest ::marker,
+.statblock.path2eblockset ::marker {
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+  text-indent: 0;
+  text-align: start;
+  text-align-last: start;
+}
+/*!
+/* @settings
+name: Pathfinder Statblocks
+id: path2eblock
+collapsed: false
+settings:
+  -
+    id: statblock-theme
+    title: Statblock Theme
+    description: The theme of the statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblock-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblock-theme-default
+    -
+        label: Kingmaker
+        value: path2eblock-theme-kingmaker
+ */
+body.path2eblock-theme-default .statblock.path2eblock .rare_01,
+body.path2eblock-theme-default .statblock.path2eblockact .rare_01,
+body.path2eblock-theme-default .statblock.path2eblockhaz .rare_01,
+body.path2eblock-theme-default .statblock.path2eblockinf .rare_01,
+body.path2eblock-theme-default .statblock.path2eblockmisc .rare_01,
+body.path2eblock-theme-default .statblock.path2eblockquest .rare_01,
+body.path2eblock-theme-default .statblock.path2eblockset .rare_01 {
+  background-color: var(--statblock-one-common-default) !important;
+}
+body.path2eblock-theme-default .statblock.path2eblock .rare_02,
+body.path2eblock-theme-default .statblock.path2eblockact .rare_02,
+body.path2eblock-theme-default .statblock.path2eblockhaz .rare_02,
+body.path2eblock-theme-default .statblock.path2eblockinf .rare_02,
+body.path2eblock-theme-default .statblock.path2eblockmisc .rare_02,
+body.path2eblock-theme-default .statblock.path2eblockquest .rare_02,
+body.path2eblock-theme-default .statblock.path2eblockset .rare_02 {
+  background-color: var(--statblock-two-uncommon-default) !important;
+}
+body.path2eblock-theme-default .statblock.path2eblock .rare_03,
+body.path2eblock-theme-default .statblock.path2eblockact .rare_03,
+body.path2eblock-theme-default .statblock.path2eblockhaz .rare_03,
+body.path2eblock-theme-default .statblock.path2eblockinf .rare_03,
+body.path2eblock-theme-default .statblock.path2eblockmisc .rare_03,
+body.path2eblock-theme-default .statblock.path2eblockquest .rare_03,
+body.path2eblock-theme-default .statblock.path2eblockset .rare_03 {
+  background-color: var(--statblock-three-rare-default) !important;
+}
+body.path2eblock-theme-default .statblock.path2eblock .rare_04,
+body.path2eblock-theme-default .statblock.path2eblockact .rare_04,
+body.path2eblock-theme-default .statblock.path2eblockhaz .rare_04,
+body.path2eblock-theme-default .statblock.path2eblockinf .rare_04,
+body.path2eblock-theme-default .statblock.path2eblockmisc .rare_04,
+body.path2eblock-theme-default .statblock.path2eblockquest .rare_04,
+body.path2eblock-theme-default .statblock.path2eblockset .rare_04 {
+  background-color: var(--statblock-four-unique-default) !important;
+}
+body.path2eblock-theme-default .statblock.path2eblock .alignment,
+body.path2eblock-theme-default .statblock.path2eblockact .alignment,
+body.path2eblock-theme-default .statblock.path2eblockhaz .alignment,
+body.path2eblock-theme-default .statblock.path2eblockinf .alignment,
+body.path2eblock-theme-default .statblock.path2eblockmisc .alignment,
+body.path2eblock-theme-default .statblock.path2eblockquest .alignment,
+body.path2eblock-theme-default .statblock.path2eblockset .alignment {
+  background-color: var(--statblock-alignment-default) !important;
+}
+body.path2eblock-theme-default .statblock.path2eblock .size,
+body.path2eblock-theme-default .statblock.path2eblockact .size,
+body.path2eblock-theme-default .statblock.path2eblockhaz .size,
+body.path2eblock-theme-default .statblock.path2eblockinf .size,
+body.path2eblock-theme-default .statblock.path2eblockmisc .size,
+body.path2eblock-theme-default .statblock.path2eblockquest .size,
+body.path2eblock-theme-default .statblock.path2eblockset .size {
+  background-color: var(--statblock-size-default) !important;
+}
+body.path2eblock-theme-default .statblock.path2eblock .xp,
+body.path2eblock-theme-default .statblock.path2eblock .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblock .trait_01,
+body.path2eblock-theme-default .statblock.path2eblock .trait_02,
+body.path2eblock-theme-default .statblock.path2eblock .trait_03,
+body.path2eblock-theme-default .statblock.path2eblock .trait_04,
+body.path2eblock-theme-default .statblock.path2eblock .trait_05,
+body.path2eblock-theme-default .statblock.path2eblock .trait_06,
+body.path2eblock-theme-default .statblock.path2eblock .trait_07,
+body.path2eblock-theme-default .statblock.path2eblockact .xp,
+body.path2eblock-theme-default .statblock.path2eblockact .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_01,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_02,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_03,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_04,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_05,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_06,
+body.path2eblock-theme-default .statblock.path2eblockact .trait_07,
+body.path2eblock-theme-default .statblock.path2eblockhaz .xp,
+body.path2eblock-theme-default .statblock.path2eblockhaz .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_01,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_02,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_03,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_04,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_05,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_06,
+body.path2eblock-theme-default .statblock.path2eblockhaz .trait_07,
+body.path2eblock-theme-default .statblock.path2eblockinf .xp,
+body.path2eblock-theme-default .statblock.path2eblockinf .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_01,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_02,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_03,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_04,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_05,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_06,
+body.path2eblock-theme-default .statblock.path2eblockinf .trait_07,
+body.path2eblock-theme-default .statblock.path2eblockmisc .xp,
+body.path2eblock-theme-default .statblock.path2eblockmisc .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_01,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_02,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_03,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_04,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_05,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_06,
+body.path2eblock-theme-default .statblock.path2eblockmisc .trait_07,
+body.path2eblock-theme-default .statblock.path2eblockquest .xp,
+body.path2eblock-theme-default .statblock.path2eblockquest .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_01,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_02,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_03,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_04,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_05,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_06,
+body.path2eblock-theme-default .statblock.path2eblockquest .trait_07,
+body.path2eblock-theme-default .statblock.path2eblockset .xp,
+body.path2eblock-theme-default .statblock.path2eblockset .kingdom_xp,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_01,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_02,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_03,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_04,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_05,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_06,
+body.path2eblock-theme-default .statblock.path2eblockset .trait_07 {
+  background-color: var(--statblock-trait-default) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .rare_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .rare_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .rare_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .rare_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .rare_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .rare_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .rare_01 {
+  background-color: var(--statblock-one-common-kingmaker) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .rare_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .rare_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .rare_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .rare_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .rare_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .rare_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .rare_02 {
+  background-color: var(--statblock-two-uncommon-kingmaker) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .rare_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .rare_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .rare_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .rare_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .rare_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .rare_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .rare_03 {
+  background-color: var(--statblock-three-rare-kingmaker) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .rare_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .rare_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .rare_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .rare_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .rare_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .rare_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .rare_04 {
+  background-color: var(--statblock-four-unique-kingmaker) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .alignment,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .alignment,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .alignment,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .alignment,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .alignment,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .alignment,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .alignment {
+  background-color: var(--statblock-alignment-kingmaker) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .size,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .size,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .size,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .size,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .size,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .size,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .size {
+  background-color: var(--statblock-size-kingmaker) !important;
+}
+body.path2eblock-theme-kingmaker .statblock.path2eblock .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblock .trait_07,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblockact .trait_07,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblockhaz .trait_07,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblockinf .trait_07,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblockmisc .trait_07,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblockquest .trait_07,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .kingdom_xp,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_01,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_02,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_03,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_04,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_05,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_06,
+body.path2eblock-theme-kingmaker .statblock.path2eblockset .trait_07 {
+  background-color: var(--statblock-trait-kingmaker) !important;
+}
