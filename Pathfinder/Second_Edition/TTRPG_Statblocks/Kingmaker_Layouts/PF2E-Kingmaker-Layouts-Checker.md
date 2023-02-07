@@ -157,7 +157,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 ```statblock
 layout: Path2eBlockQuest
 
-icon: [[pf2e-quest-icon.png]]
+icon: [](_attachments/pf2e-quest-icon.png)
 
 name: "Quest Name"
 
