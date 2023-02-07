@@ -1,15 +1,12 @@
 ---
-ac: 19
-hp: 28
-level: 2
-modifier: 6
-name: "Kobold Trapmaster"
 noteType: pf2eMonster
-statblock: true
-statblock-link: "#Kobold Trapmaster"
-tags:
-  - pf2e/creature/type/humanoid
-  - pf2e/creature/level/2
+aliases: "Clockwork Dragon"
+tags: 
+  - pf2e/creature/type/construct
+  - pf2e/creature/level/16
+statblock: inline
+name: "Clockwork Dragon"
+level: 16
 title: Readme for PF2E Bestiary Statblocks
 ---
 
@@ -58,61 +55,67 @@ You will need to use [Obsidian Import Json](https://github.com/farling42/obsidia
 
 1. [Obsidian Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker)
 
-## Example Kobold Trapmaster
+## Example Clockwork Dragon
 
 ```statblock
-# Optional Columns
-# Needs to have Path2eBlock to call CSS
 layout: Path2eBlock
 statblock: true
-
-# source automatically creates a source in the statblock directory for you
-source: Pathfinder
-name: "Kobold Trapmaster"
-level: "Creature 2"
-alignment: "LE"
-size: "Small"
-trait_02: "Humanoid"
-trait_03: "Kobold"
+source: "B3"
+name: "Clockwork Dragon"
+level: "Creature 16"
+rare_03: "Rare"
+alignment: "N"
+size: "Huge"
+trait_04: "Clockwork"
+trait_05: "Construct"
+trait_06: "Mindless"
+modifier: 28
 perception:
   - name: "Perception"
-    desc: "Perception +6; __darkvision__;"
+    desc: "Perception +28; __darkvision__;"
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +7 (1d20+7); __Crafting__: +8 (1d20+8); "
-abilityMods: [2, 4, 1, 4, 3, 1]
+    desc: "__Acrobatics__: +29 (1d20+29); __Athletics__: +33 (1d20+33); "
+abilityMods: [9, 5, 5, -5, 4, -5]
 
+abilities_mid:
+  - name: "Self-Destruct"
+    desc: "⬲ __Trigger__ The clockwork dragon is reduced to 0 Hit Points __Effect__  A clockwork dragon must use this reaction unless specifically programmed otherwise by its creator; ; The dragon screeches to a stop and emits a steady, loud ticking sound. At the beginning of what would have been its next turn, the dragon explodes, dealing 12d10 (12d10) piercing damage in a 40-foot emanation (DC 37 basic Reflex save). An adjacent creature can cancel the self-destruct sequence by succeeding at a DC 37 [[Thievery]] check to [[Disable a Device]]."
 abilities_bot:
-  - name: "Hurried Retreat"
-    desc: "⬻ If the kobold is adjacent to at least one enemy, the kobold [[Stride|Strides]] up to 30 feet and gains a +2 circumstance bonus to AC against reactions triggered by this movement. The kobold must end this movement in a space that's not adjacent to an enemy."
-  - name: "Sneak Attack"
-    desc: " The kobold trapmaster deals an extra 1 (1d6) damage to creatures that have the [[flat-footed|flat-footed]] condition."
-  - name: "Quick Trap"
-    desc: "⬽ The kobold trapmaster deploys one spike trap in an adjacent square."
-  - name: "Spike Trap"
-    desc: " Once this trap is deployed, anyone who steps on the square it's in takes 1 (2d8) piercing damage and must attempt a DC 17 basic Reflex saving throw."
-abilities_top:
-  - name: Items
-    desc: "leather armor, shortsword, spear (3), spike trap (3);"
+  - name: "Breath Weapon"
+    desc: "⬺ ([[arcane]], [[evocation]], [[fire]]);  The clockwork dragon breathes a spray of flaming oil that deals 16d6 (16d6) fire damage in a 40-foot cone (DC 37 basic Reflex save). Creatures that fail their saves are covered in burning oil and take 2d6 (2d6) [[persistent damage|persistent fire damage]]. The clockwork dragon can't use Breath Weapon again for 2 rounds."
+  - name: "Draconic Frenzy"
+    desc: "⬺  The clockwork dragon makes two claw [[Strike|Strikes]] and one wing [[Strike]] in any order."
+  - name: "Spearing Tail"
+    desc: "⬺  The clockwork dragon attacks with the sharp point of its tail. It makes a tail [[Strike]] against each creature in a 20-foot line, rolling the attack roll once and applying the result to each target. Any creature hit takes 4d6 (4d6) [[persistent damage|persistent bleed damage]] (doubled on a critical hit) This counts as two attacks for the dragon's multiple attack penalty."
 
-ac: 19
+speed: 40 feet, fly 120 feet
+
+ac: 39
 armorclass:
   - name: AC
-    desc: "19; __Fort__: +7 (1d20+7); __Ref__: +10 (1d20+10); __Will__: +5 (1d20+5);"
+    desc: "39; __Fort__: +30 (1d20+30); __Ref__: +28 (1d20+28); __Will__: +25 (1d20+25);"
+hp: 265
 health:
   - name: HP
-    desc: "28; "
-
+    desc: "265;  __Immunities__ mental, poison, death effects, disease, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, sickened, unconscious; __Weaknesses__ electricity 15, orichalcum 15; __Resistances__ physical 15."
 
 attacks:
+  - name: Melee
+    desc: "⬻ adamantine jaws +33 ([[reach|reach 15 feet]]); __Damage__ 3d12+17 (3d12+17) piercing."
+  - name: Melee
+    desc: "⬻ adamantine claw +33 ([[agile]], [[reach|reach 10 feet]]); __Damage__ 3d8+17 (3d8+17) slashing."
+  - name: Melee
+    desc: "⬻ tail +31 ([[reach|reach 20 feet]]); __Damage__ 3d12+15 (3d12+15) bludgeoning."
+  - name: Melee
+    desc: "⬻ wing +31 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d10+15 (2d10+15) piercing."
 
-sourcebook: "_Troubles In Otari_, page 45."
+sourcebook: "_Bestiary 3_, page 51."
 ```
-
 ### Encounter
 
 ```encounter-table
-name: Kobold Trapmaster
+name: Clockwork Dragon
 creatures:
-  - 1: Kobold Trapmaster
+  - 1: Clockwork Dragon
 ```
