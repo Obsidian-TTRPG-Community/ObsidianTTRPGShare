@@ -34,6 +34,10 @@ The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblo
 
 ## Installing the Layout
 
+> **Note**: You must have at minimum Obsidian Installer [Release 1.1.9](https://github.com/obsidianmd/obsidian-releases/releases) for this CSS Snippet to work. You can find your release version in the **Obsidian Help** -> **Show Debug Menu**. You can install the new release on top of your existing install, and it will upgrade the installer. 
+
+![Obsidian-Installer-Screenshot](_attachments/Obsidian-Installer-Screenshot.png)
+
 **You will need the following plugins**:
 1. [Obsidian TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks)
 2. [Obsidian Dice Rollers](https://github.com/valentine195/obsidian-dice-roller)
@@ -43,7 +47,7 @@ The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblo
 2. [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) - For Coloration Changes as Shown in the Gif.
 
 **You will need the following items**:
-1. The [Pathfinder2E-TTRPG-Statblock-v1.3](../Default_Layouts/_attachments/Pathfinder2E-TTRPG-Statblock-v1.3.css) installed into your `obsidian/snippets` directory.
+1. The [Pathfinder2E-TTRPG-Statblock-v1.4](_attachments/Pathfinder2E-TTRPG-Statblock-v1.4.css) installed into your `obsidian/snippets` directory.
 2. The [Path2eBlock](_attachments/Path2eBlock.json) file downloaded.
 
 **Once you have those items, you will need to do the following**:
@@ -53,7 +57,7 @@ The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblo
 
 If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README](../Kingmaker_Layouts/README-PF2E-Kingmaker-Layouts.md). 
 
-> **Note**: As of 1.3 release, the coloration for the Kingmaker layours can be chosen over the default layout in Style Settings. In a future release, they can both be used at once, once again. 
+> **Note**: As of 1.4 release, style settings options have been expanded for all "Traiting" options per layout. 
 
 ### Optional Tools
 
