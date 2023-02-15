@@ -1,0 +1,335 @@
+
+---
+default: true
+whitespace: false
+
+# MD001 - Heading levels should only increment by one level at a time
+heading-increment: false
+
+# Sigrunixia Suggests Disabling Header-Increment Because so many important CSS Snippets like Infobox rely on changing header increment.
+# If True, H1 -> H2 -> H3, always. If False, H1 -> H6 -> H3 is allowed. 
+
+# MD003 - Heading style
+heading-style:
+  style: atx
+  
+# Sigrunixia Suggests ATX, because # is the most common call for headers within Obsidian versus ---- or =====
+# I plan to follow this up with rule 
+
+# MD004 - Unordered list style - Tags: bullet, ul
+ul-style:
+  style: dash
+  
+# Default is consistent. Sigrunixia recommends dashes, as asterisk is used for emphasis, strong, page line. A * ***word*** can trigger false positives for these three rules. Sublists would be bound by this rule as well.
+
+# MD005 - Inconsistent indentation for list items at the same level
+list-indent: true
+
+# Sigrunixia recommends leaving this as true. This is often caused by hard tabs. It also will help catch any YAML/statblock cases that get cease rendering to no longer be caught by YAML linting due to lack of lineup. Triggering of this rule manifests as:
+# - list item
+#  - list item
+#      - list item
+
+# MD007 - Unordered list indentation
+ul-indent:
+  indent: 4
+  
+# 2 is the default. However, various linters and prettiers absolutely require 4. We should not run into this often. If we do, we can look at this. 
+
+# MD009 - Trailing spaces. See https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#md009---trailing-spaces
+no-trailing-spaces:
+  br_spaces: 2
+  list_item_empty_lines: true
+  
+  # Once again, this is due to parsers. Javascript and YAML in particular have certain end of line and spacing parsing requirements.
+  # List empty Lines to true due to tabs being used otherwise
+
+# MD010 - Hard tabs
+no-hard-tabs: true
+  spaces_per_tab: 1
+  code_blocks: true
+  ignore_code_languages: 
+  
+# Sigrunixia recommends True on No Hard Tabs due to the amount of YAML we have. 
+# We can autofix these by deciding how many spaces we want those tabs replaced with. Default is 1. 
+# We can scan code blocks as well. Default is true. 
+# We can enable languages to ignore using "Fenced code languages to ignore (string[], default [])".
+
+# MD011 - Reversed link syntax
+no-reversed-links: true
+# In the case of markdown links being needed like in SRD Vaults [link](www.link.com) is standard. We don't want (www.link.com)[link] as it wont render.
+# (example)[^1] will not trigger this rule. 
+
+# MD012 - Multiple consecutive blank lines
+no-multiple-blanks: false
+
+# Sigrunixia Recommends Disabling this as blank lines do matter in Obsidian rendering due to some themes turning them into <br />
+# Default maximum is 1
+
+# MD013 - Line length
+line-length: 1000
+  code_blocks: false
+  headers: true
+  heading_line_length: 200
+  stern: true
+  tables: false
+  
+# Sigrunixia a maximum line lenght of 1000. That should maximize readability, and catch edge cases. 
+# Code blocks and tables have been set to false. 
+# Headers set to true with a line length of 200. That is super generous here. 
+# Stern warns us when there are long lines that could be fixed, but does not automatically fail the file based on that alone. 
+# Tables have been set to false. It may generate odd edge cases. 
+# Per the document "This rule has an exception when there is no whitespace beyond the configured line length. This allows you to include items such as long URLs without being forced to break them in the middle."
+
+# MD014 - Dollar signs used before commands without showing output
+commands-show-output: false
+
+# Sigrunixia recommends that we set this to false. Dataviewjs and inline scripts will utilize a $ first approach and will not show output. 
+
+# MD018 - No space after hash on atx style heading
+no-missing-space-atx: false
+
+# Sigrunixia recommends that set this to false. 
+# For those who use body tags, it will create this situation. 
+# tags:: # dnd/monster
+# # dnd/monster
+
+# MD019 - Multiple spaces after hash on atx style heading
+no-multiple-space-atx: true
+
+# Sigrunixia recommends this be set to true. This fixes headings that should be headings.
+# #  Header that has too much space
+# # Header that is the right space
+
+# MD020 - No space inside hashes on closed atx style heading
+no-missing-space-closed-atx: false
+
+# Sigrunixia recommends that set this to false.
+# Sadly, this rule will also fire if either side of the "header" is missing a space, acting the same as MD018.
+
+# MD021 - Multiple spaces inside hashes on closed atx style heading
+no-multiple-space-closed-atx: false
+
+# Sigrunixia recommends this be set to false. 
+# I cannot trust it to not overreach on tags
+
+# MD022 - Headings should be surrounded by blank lines
+blanks-around-headings: false
+#  lines_above: 2
+#  lines_below: 1
+
+# Sigrunixia recommends this as false due to infoboxes and callouts
+
+# MD023 - Headings must start at the beginning of the line
+heading-start-left: false
+
+# Sigrunixia recommends this as false due to infoboxes and callouts
+
+# MD024 - Multiple headings with the same content
+no-duplicate-heading:
+  allow_different_nesting: true
+
+# For outline purposes and linking, duplicate headings suck. We have options here:
+# Different nesting is Main -> Boo -> Bah and Main -> Lah -> Bah is okay
+# See https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#md024---multiple-headings-with-the-same-content and lets talk.
+
+# MD025 - Multiple top level headings in the same document
+single-h1: false
+# front_matter_title: "" This is used if YAML has a title key
+# level: 1 Default header level is 1. This can be set to 2 for Obsidian. Github will kill us. 
+
+# Sigrunixia prefers true, but she knows Josh and Co have H1 like 3 times.
+# So this is likely going to be false. 
+
+# MD026 - Trailing punctuation in heading
+no-trailing-punctuation: true
+#  punctuation: (string, default .,;:!。，；：！)
+
+# Sigrunixia recommends true as some headings, themes, and plugins will not render things like .,;:!。，；：!.
+# We can choose what to ignore, however. 
+
+# MD027 - Multiple spaces after blockquote symbol
+no-multiple-space-blockquote: true
+
+# Sigrunixia recommends true as this can break callout formatting for things like columns and infoboxes.
+# Example is >> [NestedInfobox] is okay.
+# However >>  is not because it will not conform to the same nested level.
+# This will also trigger indendtation rules.
+
+# MD028 - Blank line inside blockquote
+no-blanks-blockquote: false
+
+# Sigrunixia recommends false as this can break callout formatting for things like columns and infoboxes.
+# Oftentime callouts of different sorts are separated only by one blank line.
+
+# MD029 - Ordered list item prefix
+ol-prefix:
+  style: ordered
+#  style: one Default is one
+
+# Sigrunixia recommends ordered. 
+# There is little reason to have a numbered list using the same number. 
+# 1. Pie versus 1. Pie
+# 1. Pie versus 2. Pie
+# 1. Pie versus 3. Pie
+
+# MD030 - Spaces after list markers
+list-marker-space:
+  ul_single: 3
+  ol_single: 1
+  ul_multi: 3
+  ol_multi: 1
+  
+# Sigrunixia recommends this as true.
+# Default for everything is 1. However, parsers and linters typically require UL to be 3 spaces.
+
+# MD031 - Fenced code blocks should be surrounded by blank lines
+blanks-around-fences: true
+  list_items: false
+
+# Sigrunixia recommends this as true.
+# Some parsers and editors will not read without a blank line before and after. 
+# Also recommends disabling for list items.
+
+# MD032 - Lists should be surrounded by blank lines
+blanks-around-lists: false
+
+# As above, recommend disabling for lists. 
+
+# MD033 - Inline HTML
+no-inline-html: false
+
+# Sigrunixia recommends leaving as false. 
+
+# MD034 - Bare URL used
+no-bare-urls: true
+
+# Sigrunixia recommends true to turn bare links into a markdown compatible clickable link. 
+
+# MD035 - Horizontal rule style
+hr-style:
+  style: "* * *"
+  
+# Sigrunixia recommends Style * * * to prevent --- creating headers.
+# Nor accidently turning strong and emphasis into a line.
+
+# MD036 - Emphasis used instead of a heading
+no-emphasis-as-heading: false
+#  punctuation: (string, default .,;:!?。，；：！？)
+
+# Sigrunixia recommends leaving false
+# Sometimes bold is better than a header
+
+# MD037 - Spaces inside emphasis markers
+no-space-in-emphasis: true
+
+# Sirgunixia recommends leaving this true to fix spaces between words and their emphasis.
+# ** Word ** becomes **Word**
+# If someone intentionally wanted ** Word **, they can use graves or backslash. 
+
+# MD038 - Spaces inside code span elements
+no-space-in-code: true
+
+# Sigrunixia recommends leaving this true. 
+# Fixes this `` `backticks` ``
+
+# MD039 - Spaces inside link text
+no-space-in-links: true
+
+# Sigrunixia recommends leaving this true.
+# Fixes [ a link ](https://www.example.com/)
+
+# MD040 - Fenced code blocks should have a language specified
+fenced-code-language: true
+
+# Sigrunixia recommends leaving this true. 
+# It only wants to see ```statblock
+# It does not want to see ``` ... bueller? 
+
+# MD041 - First line in file should be a top level heading
+first-line-h1: false
+
+# Sigrunixia recommends leaving this false
+# For YAML.
+
+# MD042 - No empty links
+no-empty-links: true
+
+# Sigrunixia recommends leaving this true
+# No reason for empty links. 
+
+# MD043 - Required heading structure
+required-headings: true
+
+# Sigrunixia recommends leaving this false
+# We're not forcing header levels.
+# Same for Structure
+
+
+# MD044 - Proper names should have the correct capitalization
+proper-names:
+  names:
+    - JavaScript
+  html_elements: true  
+  code_blocks: true
+
+# Sigrunixia is curious about leaving this as true.
+# It may cut the need for a different linter file.
+
+
+# MD045 - Images should have alternate text (alt text)
+no-alt-text: true
+
+# Sigrunixia suggests leaving this as true
+# For accessability reasons. 
+
+# MD046 - Code block style
+code-block-style:
+  style: fenced
+
+# Sigrunixia suggests leaving this as true
+
+# MD047 - Files should end with a single newline character
+single-trailing-newline: true
+
+# MD048 - Code fence style
+code-fence-style:
+  style: backtick
+
+# Because most parsers want backtick and not the snake. ~~~
+
+# MD049 - Emphasis style should be consistent
+emphasis-style:
+  style: asterisk
+
+# MD050 - Strong style should be consistent
+strong-style:
+  style: asterisk
+  
+# Sigrunixia has a question
+# She was unable to test this adequately with statblocks in the linter.
+# Theoretically, MD linter should leave codeblock alone for strong
+# If it does not, we want underscore, or else statblock bold will stop working.
+# Help please?
+
+# MD051 - Link fragments should be valid
+link-fragments: true
+
+# Sigrunixia recommends leaving this as true.
+# It helps keep Github Consistency
+# Changes # Title [Link](#fragment) to # Title [Link](#title)
+
+# MD052 - Reference links and images should use a label that is defined
+reference-links-images: true
+
+# Sigrunixia recommends leaving this true.
+# Also please read this. There is a lot. 
+# https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#md052---reference-links-and-images-should-use-a-label-that-is-defined
+
+# MD053 - Link and image reference definitions should be needed
+link-image-reference-definitions: true
+
+# Sigrunixia suggests leaving as default
+# I dont see us coming into this much
+# However, because of that, when it happens, I want to know?
+# https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md#md053---link-and-image-reference-definitions-should-be-needed
