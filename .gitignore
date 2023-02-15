@@ -4,6 +4,7 @@
 # Ignore OS Files 
 *.linux
 .DS_Store
+*.ds-store*
 .fuse_hidden*
 .Trash-*
 .directory
@@ -86,11 +87,13 @@ pw.*
 *.stackdump
 crash-*
 
-
 # Various Maintainers's Task Tracking file for TTRPG-Share Management
 # Sigrunixia
-The-Purple-Scale-Ledger.md 
+The-Purple-Scale-Ledger.md
 
 # Editorconfigs, Linters, and Prettiers we have not decided on yet
-.prettier*
-.editorconfig
+*.prettier*
+*.editorconfig*
+*.stylelint*
+*.markdownlint*
+*.markdown-ignore*
