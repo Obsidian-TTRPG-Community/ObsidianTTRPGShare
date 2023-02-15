@@ -1,77 +1,212 @@
 ---
+# Base Markdownlint configuration
 default: true
 whitespace: false
-heading-increment: false
-heading-style:
-  style: atx
-ul-style:
-  style: dash
-list-indent: true
-ul-indent:
-  indent: 4
-no-trailing-spaces:
-  br_spaces: 2
-  list_item_empty_lines: true
-no-hard-tabs: true
-spaces_per_tab: 1
-no-reversed-links: true
-no-multiple-blanks: false
-line-length: 1000
-code_blocks: false
-headers: true
-heading_line_length: 200
-stern: true
-tables: false
-commands-show-output: false
-no-missing-space-atx: false
-no-multiple-space-atx: true
-no-missing-space-closed-atx: false
-no-multiple-space-closed-atx: false
-blanks-around-headings: false
-heading-start-left: false
-no-duplicate-heading:
-  allow_different_nesting: true
-single-h1: false
-no-trailing-punctuation: true
-no-multiple-space-blockquote: true
-no-blanks-blockquote: false
-ol-prefix:
-  style: ordered
-list-marker-space:
+
+# Grouping these, so they are out of "order"
+
+# ==Headings==
+# Heading levels should only increment by one level at a time
+MD001: false
+
+# First line in a file should be a top-level heading
+MD041: false
+
+# Heading style
+MD003:
+  style: "atx"
+  
+# Headings should be surrounded by blank lines
+MD022: false
+  # Blank lines above heading
+  lines_above: 0
+  # Blank lines below heading
+  lines_below: 0
+  
+# Multiple headings with the same content
+MD024:
+  # Only check sibling headings
+  allow_different_nesting: true 
+  
+# Multiple top-level headings in the same document
+MD025: false
+  # Heading level
+  level: 1
+  # RegExp for matching title in front matter
+  front_matter_title: "^\\s*title\\s*[:=]"
+  
+# Trailing punctuation in heading
+MD026:
+  # Punctuation characters
+  punctuation: ".,;:!。，；：！"
+ 
+# Emphasis used instead of a heading
+MD036:
+  # Punctuation characters
+  punctuation: ".,;:!?。，；：！？"
+  
+# Required heading structure
+MD043: false
+  
+# ==Lists==
+# Unordered list style
+MD004:
+  style: "dash"
+
+# Unordered list indentation
+MD007:
+  # Spaces for indent
+  indent: 2
+  # Whether to indent the first level of the list
+  start_indented: false
+  
+# MD029/ol-prefix - Ordered list item prefix
+MD029:
+  # List style
+  style: "one_or_ordered"
+
+# MD030/list-marker-space - Spaces after list markers
+MD030:
+  # Spaces for single-line unordered list items
   ul_single: 3
+  # Spaces for single-line ordered list items
   ol_single: 1
+  # Spaces for multi-line unordered list items
   ul_multi: 3
+  # Spaces for multi-line ordered list items
   ol_multi: 1
-blanks-around-fences: true
-list_items: false
-blanks-around-lists: false
-no-inline-html: false
-no-bare-urls: true
-hr-style:
-  style: "* * *"
-no-emphasis-as-heading: false
-no-space-in-emphasis: true
-no-space-in-code: true
-no-space-in-links: true
-fenced-code-language: true
-first-line-h1: false
-no-empty-links: true
-required-headings: true
-proper-names:
-  names:
-    - JavaScript
-  html_elements: true
+
+
+# ==Spaces==
+# Trailing spaces
+MD009:
+  # Spaces for line break
+  br_spaces: 2
+  # Allow spaces for empty lines in list items
+  list_item_empty_lines: false
+  # Include unnecessary breaks
+  strict: false
+
+# Hard tabs
+MD010:
+  # Include code blocks
   code_blocks: true
-no-alt-text: true
-code-block-style:
-  style: fenced
-single-trailing-newline: true
-code-fence-style:
-  style: backtick
-emphasis-style:
-  style: asterisk
-strong-style:
-  style: asterisk
-link-fragments: true
-reference-links-images: true
-link-image-reference-definitions: true
+
+# Multiple consecutive blank lines
+MD012:
+  # Consecutive blank lines
+  maximum: 1
+  
+# Files should end with a single newline character
+MD047: true
+  
+# ==Prose==
+# Horizontal rule style
+MD035:
+  # Horizontal rule style
+  style: "---"
+
+# Line length
+MD013:
+  # Number of characters
+  line_length: 1000
+  # Number of characters for headings
+  heading_line_length: 200
+  # Number of characters for code blocks
+  code_block_line_length: 1000
+  # Include code blocks
+  code_blocks: false
+  # Include tables
+  tables: false
+  # Include headings
+  headings: true
+  # Include headings
+  headers: true
+  # Strict length checking
+  strict: false
+  # Stern length checking
+  stern: true
+
+# Spaces inside emphasis markers
+MD037: false
+
+# Proper names should have the correct capitalization
+MD044:
+  # List of proper names
+  names: [
+    "API",
+    "Bunkers & Badasses",
+    "DnD",
+    "DnD 3.5",
+    "Docker",
+    "Dragon",
+    "Dungeons & Dragons",
+    "Git",
+    "GitHub",
+    "JSON",
+    "Markdown",
+    "markdownlint",
+    "Obsidian",
+    "Pathfinder",
+    "PF2E",
+    "PF1E",
+    "SSH",
+    "Trello",,
+    "TypeScript",
+    "Ubuntu",
+    "Unicorn",
+    "URL",
+   "YAML",
+  ]
+  code_blocks: false
+  html_elements: false
+
+# Emphasis style should be consistent
+MD049: 
+  # Consistent Styling
+  style: "consistent"
+  
+# Strong style should be consistent
+MD050:
+  # Consistent Styling
+  style: "consistent"
+
+# ==Code==
+# Inline HTML
+MD033:
+  # Allowed elements
+  allowed_elements: [<sup>]
+
+# Spaces inside code span elements
+MD038: False
+
+# Spaces inside link text
+MD039: False
+  
+# Fenced code blocks should have a language specified
+MD040: 
+  language_only: true
+
+# Code block style
+MD046:
+  # Block style
+  style: "fenced"
+
+# Code fence style
+MD048:
+  # Code fence syle
+  style: "backtick"
+ 
+# Link fragments should be valid
+MD051: true
+
+# ==Accessibility==
+# Images should have alternate text (alt text)
+MD045: true
+
+# Reference links and images should use a label that is defined
+MD052: true
+
+# Link and image reference definitions should be needed
+MD053: 
+  ignored_definitions: ["//"]
