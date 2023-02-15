@@ -1,5 +1,4 @@
 ---
-# Base Markdownlint configuration
 default: true
 whitespace: false
 
@@ -17,10 +16,9 @@ MD003:
   style: "atx"
   
 # Headings should be surrounded by blank lines
-MD022: false
-  # Blank lines above heading
+MD022:
+  # Blank lines above and belowheading
   lines_above: 0
-  # Blank lines below heading
   lines_below: 0
   
 # Multiple headings with the same content
@@ -29,10 +27,9 @@ MD024:
   allow_different_nesting: true 
   
 # Multiple top-level headings in the same document
-MD025: false
-  # Heading level
+MD025: 
+  # Heading level and RegExp for matching title in front matter
   level: 1
-  # RegExp for matching title in front matter
   front_matter_title: "^\\s*title\\s*[:=]"
   
 # Trailing punctuation in heading
@@ -154,12 +151,12 @@ MD044:
     "Trello",,
     "TypeScript",
     "Ubuntu",
-    "Unicorn",
+    "Unicorn", 
     "URL",
    "YAML",
   ]
-  code_blocks: false
-  html_elements: false
+   code_blocks: false
+   html_elements: false
 
 # Emphasis style should be consistent
 MD049: 
