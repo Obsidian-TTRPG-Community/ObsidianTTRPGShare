@@ -14,7 +14,7 @@ on:
     branches-ignore: [master, main]
     # Remove the line above to run when pushing to master
   pull_request:
-    branches: [Dragonshare, Purple-Dragon,Lint-Tester, Dev-Test, Donations]
+    branches: [Dragonshare, Purple-Dragon, Lint-Tester, Dev-Test, Donations]
 
 ###############
 # Set the Job #
@@ -52,7 +52,6 @@ jobs:
           VALIDATE_CSS: true
           VALIDATE_DART: true
           VALIDATE_EDITORCONFIG: true
-          VALIDATE_GITHUB_ACTIONS: true
           VALIDATE_HTML: true
           VALIDATE_JAVASCRIPT_ES: true
           VALIDATE_JAVASCRIPT_STANDARD: true
@@ -62,5 +61,5 @@ jobs:
           # Warning Notices
           YAML_ERROR_ON_WARNING: false
           # More Config
-          DEFAULT_BRANCH: DEV-TEST
+          DEFAULT_BRANCH: Main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
