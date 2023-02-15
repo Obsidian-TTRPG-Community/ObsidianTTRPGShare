@@ -153,7 +153,7 @@ MD044:
     "Ubuntu",
     "Unicorn", 
     "URL",
-   "YAML",
+    "YAML",
   ]
   code_blocks: false
   html_elements: false
