@@ -148,15 +148,15 @@ MD044:
     "PF2E",
     "PF1E",
     "SSH",
-    "Trello",,
+    "Trello",
     "TypeScript",
     "Ubuntu",
     "Unicorn", 
     "URL",
    "YAML",
   ]
-   code_blocks: false
-   html_elements: false
+  code_blocks: false
+  html_elements: false
 
 # Emphasis style should be consistent
 MD049: 
