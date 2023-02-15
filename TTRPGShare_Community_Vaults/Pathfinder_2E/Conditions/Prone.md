@@ -1,6 +1,8 @@
 ---
 aliases: Prone
-tags: pf2e/condition
+page: 621
+source: Core Rulebook
+tags: pf2e/condition/prone
 ---
 
 # Prone

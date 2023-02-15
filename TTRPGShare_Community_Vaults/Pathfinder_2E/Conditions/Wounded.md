@@ -1,6 +1,8 @@
 ---
 aliases: Wounded
-tags: pf2e/condition
+page: 623
+source: Core Rulebook
+tags: pf2e/condition/wounded
 ---
 
 # Wounded

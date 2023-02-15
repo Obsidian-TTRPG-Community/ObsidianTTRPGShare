@@ -1,5 +1,7 @@
 ---
 aliases: Undetected
+page: 623
+source: Core Rulebook
 tags: pf2e/condition
 ---
 

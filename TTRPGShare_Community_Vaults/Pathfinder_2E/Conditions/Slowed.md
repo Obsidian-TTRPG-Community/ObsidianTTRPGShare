@@ -1,6 +1,8 @@
 ---
 aliases: Slowed
-tags: pf2e/condition
+page: 622
+source: Core Rulebook
+tags: pf2e/condition/slowed
 ---
 
 # Slowed

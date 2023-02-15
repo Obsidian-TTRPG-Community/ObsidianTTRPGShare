@@ -1,6 +1,8 @@
 ---
 aliases: Indifferent
-tags: pf2e/condition
+page: 620
+source: Core Rulebook
+tags: pf2e/condition/indifferent
 ---
 
 # Indifferent

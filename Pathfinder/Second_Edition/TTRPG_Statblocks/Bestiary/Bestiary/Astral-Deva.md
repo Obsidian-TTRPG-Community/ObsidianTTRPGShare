@@ -10,8 +10,6 @@ level: 14
 ---
 
 ```statblock
-columns: 2
-forcecolumns: true
 layout: Path2eBlock
 statblock: true
 source: "B1"
