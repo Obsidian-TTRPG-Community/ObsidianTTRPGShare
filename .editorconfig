@@ -1,0 +1,28 @@
+
+
+# Stop the editor from looking for .editorconfig files in the parent directories
+# root = true
+root = true
+
+# Non-configurable Prettier behaviors
+[*]
+charset = utf-8
+insert_final_newline = true
+tab_width = 4
+
+# Configurable Prettier behaviors
+# (change these if your Prettier config differs)
+end_of_line = lf
+indent_style = space
+indent_size = 2
+max_line_length = 120
+
+# Code Specific: Examples Below, Delete if not using.
+# Don't Judge me - Sigrunixia D:
+# [*.sass]
+# indent_size = 5
+# [*.scss]
+# indent_size = 3
+# [{*.yaml,*.yml}]
+# indent_size = 4
+
