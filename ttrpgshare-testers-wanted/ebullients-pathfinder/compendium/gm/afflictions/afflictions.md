@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-index
+---
+# Index of Afflictions
+
+- [Blinding Sickness, _Disease 7_](blinding-sickness.md)
+- [Bog Rot, _Disease 0_](bog-rot.md)
+- [Bone Chill, _Disease 5_](bone-chill.md)
+- [Brain Worms, _Disease 11_](brain-worms.md)
+- [Bubonic Plague, _Disease 3_](bubonic-plague.md)
+- [Choking Death, _Disease 6_](choking-death.md)
+- [Coward's Roots, _Curse 4_](cowards-roots.md)
+- [Curse of Nightmares, _Curse 2_](curse-of-nightmares.md)
+- [Curse of Slumber, _Curse 11_](curse-of-slumber.md)
+- [Curse of the Ravenous, _Curse 5_](curse-of-the-ravenous.md)
+- [Grave Curse, _Curse Level Varies_](grave-curse.md)
+- [Malaria, _Disease 2_](malaria.md)
+- [Nightmare Fever, _Disease 8_](nightmare-fever.md)
+- [Oath of the Flesh, _Curse 7_](oath-of-the-flesh.md)
+- [Reviled of Nature, _Curse 18_](reviled-of-nature.md)
+- [Reviling Earth, _Curse 12_](reviling-earth.md)
+- [Scarlet Fever, _Disease 1_](scarlet-fever.md)
+- [Scarlet Leprosy, _Disease 4_](scarlet-leprosy.md)
+- [Sellsword's Folly, _Curse 9_](sellswords-folly.md)
+- [Sewer Haze, _Disease 7_](sewer-haze.md)
+- [Slayer's Haunt, _Curse 4_](slayers-haunt.md)
+- [Spirit Anchor, _Curse 13_](spirit-anchor.md)
+- [Sword of Anathema, _Curse 20_](sword-of-anathema.md)
+- [Tetanus, _Disease 1_](tetanus.md)
+- [Theft of Thought, _Curse 3_](theft-of-thought.md)
+- [Thief's Retribution, _Curse 19_](thiefs-retribution.md)
+- [Tuberculosis, _Disease 1_](tuberculosis.md)
+- [Unending Thirst, _Curse 15_](unending-thirst.md)
+- [Wizard's Ward, _Curse 6_](wizards-ward.md)
