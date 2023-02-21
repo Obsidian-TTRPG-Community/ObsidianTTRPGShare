@@ -1,5 +1,0 @@
----
-alias: Untitled
----
-
-# Untitled
