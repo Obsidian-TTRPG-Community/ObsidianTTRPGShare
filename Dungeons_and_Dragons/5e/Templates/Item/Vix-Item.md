@@ -2,11 +2,11 @@
 
 **Plugin Dependencies**: 
 
-[**Admonitions**](https://github.com/valentine195/obsidian-admonition)
+**[Admonitions](https://github.com/valentine195/obsidian-admonition)**
 
-[**Dataview**](https://github.com/blacksmithgu/obsidian-dataview)
+**[Dataview](https://github.com/blacksmithgu/obsidian-dataview)**
 
-[**Templater**](https://github.com/SilentVoid13/Templater)
+**[Templater](https://github.com/SilentVoid13/Templater)**
 
 **Thanks To**: Vix
 
@@ -17,7 +17,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![](_attachments/Vix_Item.png)
+![](zzAttachments/Vix_Item.png)
 
 
 

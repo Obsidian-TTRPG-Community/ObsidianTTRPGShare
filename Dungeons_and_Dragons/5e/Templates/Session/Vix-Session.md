@@ -1,12 +1,12 @@
 # Vix's Session Template
 
-__Plugin Dependencies__:
+**Plugin Dependencies**:
 
-[__Admonitions__](https://github.com/valentine195/obsidian-admonition)
+**[Admonitions](https://github.com/valentine195/obsidian-admonition)**
 
-[__Templater__](https://github.com/SilentVoid13/Templater)
+**[Templater](https://github.com/SilentVoid13/Templater)**
 
-__Thanks To__: Vix
+**Thanks To**: Vix
 
 ## Goals
 
@@ -14,7 +14,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![Session Page](_attachments/Vix_Session.png)
+![Session Page](zzAttachments/Vix_Session.png)
 
 ## How to Use
 
