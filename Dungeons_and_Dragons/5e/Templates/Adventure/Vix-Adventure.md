@@ -1,14 +1,14 @@
 # ViX's Adventure Template
 
-__Plugin Dependencies__:
+**Plugin Dependencies**:
 
-[__Admonitions__](https://github.com/valentine195/obsidian-admonition)
+**[Admonitions](https://github.com/valentine195/obsidian-admonition)**
 
-[__Dataview__](https://github.com/blacksmithgu/obsidian-dataview)
+**[Dataview](https://github.com/blacksmithgu/obsidian-dataview)**
 
-[__Templater__](https://github.com/SilentVoid13/Templater)
+**[Templater](https://github.com/SilentVoid13/Templater)**
 
-__Thanks To__: Vix
+**Thanks To**: Vix
 
 ## Goals
 
@@ -16,7 +16,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![Adventure Page](_attachments/Vix_Adventure.png)
+![Adventure Page](zzAttachments/Vix_Adventure.png)
 
 ## How to Use
 

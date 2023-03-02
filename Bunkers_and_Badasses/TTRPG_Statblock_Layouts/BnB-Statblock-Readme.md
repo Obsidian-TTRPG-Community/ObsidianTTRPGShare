@@ -2,7 +2,7 @@
 
 ## What does it Looks Like?
 
-![BnB Layout Version 1](_attachments/BNB-V1.png)
+![BnB Layout Version 1](zzAttachments/BNB-V1.png)
 
 ## The Codeblock
 
@@ -51,9 +51,9 @@ loot:
 
 ### How to Install
 
-1. Download [Bunkers.json](_attachments/Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
+1. Download [Bunkers.json](zzAttachments/Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
 
-2. Download [bunkers-and-badasses-ttrpg-statblocks-Normal.css](_attachments/bunkers-and-badasses-ttrpg-statblocks-Normal.css) and place into your `.obsidian/snippets` directory.
+2. Download [bunkers-and-badasses-ttrpg-statblocks-Normal.css](zzAttachments/bunkers-and-badasses-ttrpg-statblocks-Normal.css) and place into your `.obsidian/snippets` directory.
 
 3. Enable the snippet.
 
@@ -129,4 +129,4 @@ loot:
 
 ## Explanatory Screenshot
 
-![Explanation in a Screenshot](_attachments/BNB-Explanation.png)  
+![Explanation in a Screenshot](zzAttachments/BNB-Explanation.png)  

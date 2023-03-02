@@ -19,7 +19,7 @@ cssclasses: cards
 > 3. Turn on *Dataview inline JS* in Dataview in order to use the Heatmap calender in the Project note.
 > 4. Remove this Callout before using.
 
-![[Dungeon23-Logo-Horizontal-Non-Photo-Blue.png]]
+![[../../Resources/Dungeon23-Asset-Pack/PNGs/Dungeon23-Logo-Horizontal-Non-Photo-Blue.png]]
 
 Summary:: The Dungeon<% tp.date.now('YY') %> project is a DM challenge to draw/write one dungeon room per day, every day, for <% tp.date.now('YYYY') %>. Rooms are grouped together by week, so eventually there are 52 different modular sets of 7-room dungeons, each connected into a **megadungeon**. The megadungeon can be a *dungeon*, but it could also be an overland map, a world, a massive space ship - whatever. The goal is to *Create Every Day*.
 

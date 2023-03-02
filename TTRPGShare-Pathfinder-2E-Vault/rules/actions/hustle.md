@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclass: pf2e,pf2e-action
+tags:
+- action/basic
+- compendium/src/pf2e/crb
+- trait/exploration
+- trait/move
+aliases: ["Hustle"]
+---
+# Hustle (basic)
+[exploration](../traits/exploration.md)  [move](../traits/move.md)  
+*Source: Core Rulebook p. 480*  
+
+
+
+You strain yourself to move at double your travel speed. You can Hustle only for a number of minutes equal to your Constitution modifier × 10 (minimum 10 minutes). If you are in a group that is Hustling, use the lowest Constitution modifier among everyone to determine how fast the group can Hustle together.
