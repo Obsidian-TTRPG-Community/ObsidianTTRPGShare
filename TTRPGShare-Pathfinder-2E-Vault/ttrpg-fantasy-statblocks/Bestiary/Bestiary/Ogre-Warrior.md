@@ -29,7 +29,7 @@ perception:
 languages: "Jotun; "
 skills:
   - name: "Skills"
-    desc: "__Athletics__: +12 (1d20+12); "
+    desc: "__Athletics__: +12 (1d20+12); __Intimidation__: +9 (1d20+9);"
 abilityMods: [5, -1, 4, -2, 0, -2]
 
 
