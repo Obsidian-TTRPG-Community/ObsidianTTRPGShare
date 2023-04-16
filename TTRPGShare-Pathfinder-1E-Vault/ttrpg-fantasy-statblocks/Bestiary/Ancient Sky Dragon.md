@@ -5,7 +5,7 @@ name: Ancient Sky Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 18
 name: Ancient Sky Dragon
 Monster_XP: 153600
@@ -18,7 +18,6 @@ perception: +39
 senses: cloud sight, dragon senses
 AC: 38, touch 5, flat-footed 38 (dex -1, natural +33, size -4)
 HP: 348
-HP_extra: 
 HD: 24d12+192
 saves: Fort +21, Ref +15, Will +23
 immune: electricity, paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: temperate or warm mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

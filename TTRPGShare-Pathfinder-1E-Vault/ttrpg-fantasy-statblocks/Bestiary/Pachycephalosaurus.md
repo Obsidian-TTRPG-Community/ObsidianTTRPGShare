@@ -5,7 +5,7 @@ name: Pachycephalosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Pachycephalosaurus
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +6, Will +2
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm or temperate plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Clobbering Charge (Ex)

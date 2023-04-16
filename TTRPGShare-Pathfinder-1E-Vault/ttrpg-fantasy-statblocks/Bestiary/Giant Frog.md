@@ -5,7 +5,7 @@ name: Giant Frog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Giant Frog
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +3
 senses: low-light vision, scent
 AC: 12, touch 11, flat-footed 11 (dex +1, natural +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +6, Will -1
 speed: 30 ft., swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm marshes and aquatic
   - name: Organisation
     desc: solitary, pair, or army (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tongue (Ex)

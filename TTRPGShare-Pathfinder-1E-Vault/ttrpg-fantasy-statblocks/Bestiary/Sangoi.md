@@ -5,7 +5,7 @@ name: Sangoi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Sangoi
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +15
 senses: hear heartbeat, low-light vision
 AC: 21, touch 18, flat-footed 14 (dex +6, dodge +1, natural +3, size +1)
 HP: 82
-HP_extra: 
 HD: 11d6+44
 saves: Fort +7, Ref +13, Will +8
 DR: 5/cold iron

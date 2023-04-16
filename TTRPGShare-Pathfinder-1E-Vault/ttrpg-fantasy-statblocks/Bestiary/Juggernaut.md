@@ -5,7 +5,7 @@ name: Juggernaut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Juggernaut
 Monster_XP: 12800
@@ -39,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Faith-Bound (Su)

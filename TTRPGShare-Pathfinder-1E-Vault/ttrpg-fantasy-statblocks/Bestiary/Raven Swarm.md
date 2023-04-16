@@ -5,7 +5,7 @@ name: Raven Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Raven Swarm
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 27
-HP_extra: 
 HD: 5d8+5
 saves: Fort +5, Ref +8, Will +3
 defensive_abilities: swarm traits
@@ -38,6 +37,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary or unkindness (2-6 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blindness (Ex)

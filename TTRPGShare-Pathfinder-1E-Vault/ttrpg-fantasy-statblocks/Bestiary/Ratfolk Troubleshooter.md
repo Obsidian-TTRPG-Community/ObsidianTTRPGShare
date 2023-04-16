@@ -5,7 +5,7 @@ name: Ratfolk Troubleshooter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Ratfolk Troubleshooter
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +12
 senses: darkvision
 AC: 19, touch 15, flat-footed 15 (armor +4, dex +4, size +1)
 HP: 42
-HP_extra: 
 HD: 6d8+12
 saves: Fort +5, Ref +10, Will +4
 defensive_abilities: evasion, trap sense +2, uncanny dodge

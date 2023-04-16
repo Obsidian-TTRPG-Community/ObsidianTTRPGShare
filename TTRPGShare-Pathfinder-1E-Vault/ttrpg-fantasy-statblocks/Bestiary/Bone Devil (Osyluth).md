@@ -5,7 +5,7 @@ name: Bone Devil (Osyluth)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Bone Devil (Osyluth)
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness
 aura: fear aura
 AC: 25, touch 14, flat-footed 20 (dex +5, natural +11, size -1)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +12, Will +7
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or inquisition (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

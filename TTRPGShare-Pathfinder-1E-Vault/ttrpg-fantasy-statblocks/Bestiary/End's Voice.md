@@ -5,7 +5,7 @@ name: End's Voice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 64: Beyond the Doomsday Door"
+source: "Pathfinder No. 64: Beyond the Doomsday Door"
 Monster_CR: 15
 name: End's Voice
 Monster_XP: 51200

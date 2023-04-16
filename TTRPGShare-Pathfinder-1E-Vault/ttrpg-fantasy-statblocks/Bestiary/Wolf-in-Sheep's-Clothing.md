@@ -5,7 +5,7 @@ name: Wolf-in-Sheep's-Clothing
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Wolf-in-Sheep's-Clothing
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +14
 senses: all-around vision, darkvision
 AC: 21, touch 10, flat-footed 21 (natural +11)
 HP: 97
-HP_extra: 
 HD: 13d8+39
 saves: Fort +9, Ref +6, Will +10
 speed: 5 ft., burrow 5 ft., climb 5 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Corpse Lure (Ex)

@@ -5,7 +5,7 @@ name: Guardian Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Guardian Naga
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision
 AC: 24, touch 15, flat-footed 18 (dex +6, natural +9, size -1)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +9, Ref +12, Will +12
 speed: 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

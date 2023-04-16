@@ -5,7 +5,7 @@ name: Svirfneblin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Svirfneblin
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +2, dodge +2, size +1)
 HP: 15
-HP_extra: 
 HD: 1d10+5
 saves: Fort +6, Ref +6, Will +2
 SR: 12

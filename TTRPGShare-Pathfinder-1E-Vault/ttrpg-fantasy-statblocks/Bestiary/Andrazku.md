@@ -5,7 +5,7 @@ name: Andrazku
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 69: Maiden, Mother, Crone"
+source: "Pathfinder No. 69: Maiden, Mother, Crone"
 Monster_CR: 5
 name: Andrazku
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, scent
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +7)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +6, Will +2
 immune: cold, electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Icewalking (Ex)

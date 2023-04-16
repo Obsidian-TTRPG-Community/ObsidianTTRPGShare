@@ -5,7 +5,7 @@ name: Kurobozu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Kurobozu
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision
 AC: 20, touch 20, flat-footed 16 (dex +4, monk +2, wis +4)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +9, Will +10
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or guard (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

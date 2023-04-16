@@ -5,7 +5,7 @@ name: Orc Thug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Orc Thug
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +3)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +0, Ref +7, Will +0
 defensive_abilities: evasion, ferocity, trap sense +1, uncanny dodge

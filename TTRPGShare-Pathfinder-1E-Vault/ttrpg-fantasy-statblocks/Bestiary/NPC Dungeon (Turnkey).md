@@ -5,7 +5,7 @@ name: NPC Dungeon (Turnkey)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 3
 name: NPC Dungeon (Turnkey)
 Monster_XP: 800
@@ -18,7 +18,6 @@ INI: +0
 perception: +4
 AC: 19, touch 10, flat-footed 19 (armor +9)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +5, Ref +1, Will +0
 speed: 20 ft.

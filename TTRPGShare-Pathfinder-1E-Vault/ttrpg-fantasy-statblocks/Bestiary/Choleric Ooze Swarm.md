@@ -5,7 +5,7 @@ name: Choleric Ooze Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 2
 name: Choleric Ooze Swarm
 Monster_XP: 600
@@ -17,7 +17,6 @@ INI: -5
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -5, size +2)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +5, Ref -4, Will -4
 immune: ooze traits, swarm traits
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, mass (3-7), or sludge (3-5 melancholic ooze swarms and 2-4 choleric ooze swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

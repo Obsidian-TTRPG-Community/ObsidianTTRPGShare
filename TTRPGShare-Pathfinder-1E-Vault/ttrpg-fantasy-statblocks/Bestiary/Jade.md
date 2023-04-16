@@ -5,7 +5,7 @@ name: Jade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 27: What Lies in Dust"
+source: "Pathfinder No. 27: What Lies in Dust"
 Monster_CR: 4
 name: Jade
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: tainted air
 AC: 20, touch 17, flat-footed 16 (armor +2, dex +3, size +4)
 HP: 22
-HP_extra: 
 HD: 4d10
 saves: Fort +1, Ref +6, Will +2
 immune: cold, construct traits, electricity, fire
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Jade Breath (Su)

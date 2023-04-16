@@ -5,7 +5,7 @@ name: Living Topiary
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Living Topiary
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +10, Ref +3, Will +1
 immune: plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, garden (2-4), or boscage (5-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Assimilate (Ex)

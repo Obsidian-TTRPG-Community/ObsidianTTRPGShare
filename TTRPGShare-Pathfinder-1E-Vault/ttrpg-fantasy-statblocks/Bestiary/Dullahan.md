@@ -5,7 +5,7 @@ name: Dullahan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Dullahan
 Monster_XP: 3200

@@ -5,7 +5,7 @@ name: NPC Island Defender
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Island Defender
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +15
 senses: low-light vision
 AC: 24, touch 14, flat-footed 22 (armor +7, deflection +2, dex +2, shield +3)
 HP: 47
-HP_extra: 
 HD: 7d8+12
 saves: Fort +6, Ref +6, Will +8
 saves_other: +2 vs. enchantments, +4 vs. fey and plant-targeted effects

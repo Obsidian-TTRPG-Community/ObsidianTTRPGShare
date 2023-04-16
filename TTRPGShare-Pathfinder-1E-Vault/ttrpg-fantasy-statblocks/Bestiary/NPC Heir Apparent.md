@@ -5,7 +5,7 @@ name: NPC Heir Apparent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Heir Apparent
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +1
 perception: +3
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +1, Ref +2, Will +3
 speed: 20 ft.

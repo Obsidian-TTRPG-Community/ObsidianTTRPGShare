@@ -5,7 +5,7 @@ name: Ahriman, Lord of All Divs
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 26
 name: Ahriman, Lord of All Divs
 Monster_XP: 2457600

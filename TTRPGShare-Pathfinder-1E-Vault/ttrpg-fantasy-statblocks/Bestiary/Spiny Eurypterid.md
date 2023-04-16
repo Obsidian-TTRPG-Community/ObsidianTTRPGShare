@@ -5,7 +5,7 @@ name: Spiny Eurypterid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 9
 name: Spiny Eurypterid
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 22, touch 7, flat-footed 22 (dex -1, natural +15, size -2)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +13, Ref +3, Will +5
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: warm ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Egregore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Egregore
 Monster_XP: 9600
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: cult (1 plus 13-20 cultists)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cult Mind (Su)

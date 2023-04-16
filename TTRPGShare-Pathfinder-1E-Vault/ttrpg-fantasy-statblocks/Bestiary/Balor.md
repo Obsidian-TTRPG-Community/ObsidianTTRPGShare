@@ -5,7 +5,7 @@ name: Balor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 20
 name: Balor
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, true seeing
 aura: flaming body, unholy aura
 AC: 36, touch 20, flat-footed 29 (deflection +4, dex +7, natural +16, size -1)
 HP: 370
-HP_extra: 
 HD: 20d10+260
 saves: Fort +29, Ref +17, Will +25
 immune: electricity, fire, poison

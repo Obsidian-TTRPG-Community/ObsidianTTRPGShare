@@ -5,7 +5,7 @@ name: Bat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/8
 name: Bat
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +6
 senses: blindsense, low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +0, Ref +4, Will +2
 speed: 5 ft., fly 40 ft. (good)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate and hot forests and deserts
   - name: Organisation
     desc: colony (10-400)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

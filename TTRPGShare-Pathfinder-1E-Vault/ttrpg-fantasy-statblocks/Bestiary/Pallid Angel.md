@@ -5,7 +5,7 @@ name: Pallid Angel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 12
 name: Pallid Angel
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision, detect good, detect magic, low-light vision
 aura: frightful presence
 AC: 25, touch 13, flat-footed 22 (dex +3, natural +12)
 HP: 150
-HP_extra: 
 HD: 12d10+84
 saves: Fort +15, Ref +7, Will +11
 saves_other: +4 vs. poison

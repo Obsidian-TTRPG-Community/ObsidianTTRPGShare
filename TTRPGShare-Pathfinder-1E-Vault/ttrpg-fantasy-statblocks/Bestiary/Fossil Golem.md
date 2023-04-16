@@ -5,7 +5,7 @@ name: Fossil Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Fossil Golem
 Monster_XP: 19200
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision, low-light vision
 AC: 26, touch 9, flat-footed 25 (dex +1, natural +17, size -2)
 HP: 122
-HP_extra: 
 HD: 15d10+40
 saves: Fort +5, Ref +6, Will +5
 immune: construct traits, magic

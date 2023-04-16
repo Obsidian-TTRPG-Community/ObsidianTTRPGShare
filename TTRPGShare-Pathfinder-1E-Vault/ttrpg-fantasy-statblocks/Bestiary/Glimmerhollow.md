@@ -5,7 +5,7 @@ name: Glimmerhollow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 9
 name: Glimmerhollow
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: blindsight, tremorsense
 aura: hypnotic lure
 AC: 15, touch 3, flat-footed 15 (dex -5, natural +12, size -2)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +8, Ref -1, Will -1
 immune: acid, cold, ooze traits

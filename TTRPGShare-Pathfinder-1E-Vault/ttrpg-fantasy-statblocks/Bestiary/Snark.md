@@ -5,7 +5,7 @@ name: Snark
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 1/4
 name: Snark
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +3, Will +1
 speed: 20 ft., fly 30 ft. (poor), climb 15 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any (First World)
   - name: Organisation
     desc: solitary, pair, or conspiracy (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Bioluminescence (Ex)

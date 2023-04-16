@@ -5,7 +5,7 @@ name: Thalassic Behemoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Thalassic Behemoth
 Monster_XP: 307200
@@ -46,6 +46,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Water Jet (Su)

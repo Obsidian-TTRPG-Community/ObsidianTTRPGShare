@@ -5,7 +5,7 @@ name: NPC Undead Bane
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Undead Bane
 Monster_XP: 76800
@@ -19,7 +19,6 @@ INI: +9
 perception: +22
 AC: 26, touch 17, flat-footed 21 (armor +6, deflection +1, dex +4, dodge +1, insight +1, natural +3)
 HP: 138
-HP_extra: 
 HD: 9d10+1d6+7d10+43
 saves: Fort +16, Ref +17, Will +11
 defensive_abilities: evasion

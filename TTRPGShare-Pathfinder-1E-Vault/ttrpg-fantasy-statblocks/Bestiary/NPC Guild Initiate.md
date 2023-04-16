@@ -5,7 +5,7 @@ name: NPC Guild Initiate
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Guild Initiate
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +8
 perception: +9
 AC: 18, touch 15, flat-footed 14 (armor +3, dex +4, size +1)
 HP: 41
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +11, Will +1
 saves_other: +2 vs. fear

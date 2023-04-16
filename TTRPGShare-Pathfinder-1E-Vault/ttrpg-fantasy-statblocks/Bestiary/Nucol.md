@@ -5,7 +5,7 @@ name: Nucol
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 4
 name: Nucol
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, detect magic, low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +7, Will +2
 immune: death effects, disease, fear, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or sounder (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Cough (Su)

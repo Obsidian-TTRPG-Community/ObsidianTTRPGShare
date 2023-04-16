@@ -5,7 +5,7 @@ name: Skull Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 1
 name: Skull Swarm
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +2, Will +3
 immune: undead traits, weapon damage
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or mass (3-5)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 43: Haunting of Harrowstone

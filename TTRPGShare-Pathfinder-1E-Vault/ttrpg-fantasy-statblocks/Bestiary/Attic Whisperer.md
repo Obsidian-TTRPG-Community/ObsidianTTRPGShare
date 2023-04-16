@@ -5,7 +5,7 @@ name: Attic Whisperer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Attic Whisperer
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: darkvision
 aura: sobs
 AC: 19, touch 16, flat-footed 14 (dex +4, dodge +1, natural +3, size +1)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +5, Ref +6, Will +8
 immune: undead traits
@@ -36,6 +35,7 @@ ecology:
     desc: any urban or ruins
   - name: Organisation
     desc: solitary, pair, or chorus (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Aura of Sobs (Su)

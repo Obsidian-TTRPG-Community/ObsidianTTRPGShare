@@ -5,7 +5,7 @@ name: NPC Arcanothief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Arcanothief
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +4
 perception: +16
 AC: 22, touch 16, flat-footed 18 (armor +5, deflection +1, dex +4, natural +1, size +1)
 HP: 111
-HP_extra: 
 HD: 4d8+5d6+4d6+44
 saves: Fort +9, Ref +16, Will +10
 saves_other: +2 vs. fear

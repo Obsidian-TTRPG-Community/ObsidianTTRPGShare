@@ -5,7 +5,7 @@ name: Sahuagin Baron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Sahuagin Baron
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +13
 senses: blindsense, darkvision
 AC: 25, touch 13, flat-footed 22 (armor +7, dex +3, natural +5)
 HP: 101
-HP_extra: 
 HD: 9d10+52
 saves: Fort +11, Ref +9, Will +7
 defensive_abilities: bravery +2

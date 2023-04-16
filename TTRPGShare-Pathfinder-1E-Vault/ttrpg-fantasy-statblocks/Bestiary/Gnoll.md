@@ -5,7 +5,7 @@ name: Gnoll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Gnoll
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision
 AC: 15, touch 10, flat-footed 15 (armor +2, natural +1, shield +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +0, Will +0
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Jinmenju
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Jinmenju
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: all-around vision, blindsense, low-light vision
 aura: unsettling drone
 AC: 25, touch 7, flat-footed 25 (dex -1, natural +18, size -2)
 HP: 149
-HP_extra: 
 HD: 13d8+91
 saves: Fort +14, Ref +5, Will +5
 immune: plant traits, poison
@@ -39,6 +38,7 @@ ecology:
     desc: temperate hills or mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Enticing Head-Fruits (Su)

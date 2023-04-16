@@ -5,7 +5,7 @@ name: Blood Bramble
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Blood Bramble
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, tremorsense
 AC: 24, touch 18, flat-footed 15 (dex +9, natural +6, size -1)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +14, Ref +13, Will +8
 immune: plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or thicket (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Bramble Incursion (Ex)

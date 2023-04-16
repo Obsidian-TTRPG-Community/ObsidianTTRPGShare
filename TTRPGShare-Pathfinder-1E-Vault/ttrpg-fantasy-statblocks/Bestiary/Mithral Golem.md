@@ -5,7 +5,7 @@ name: Mithral Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Mithral Golem
 Monster_XP: 76800
@@ -16,7 +16,6 @@ INI: +7
 senses: darkvision, low-light vision
 AC: 32, touch 16, flat-footed 24 (dex +7, dodge +1, natural +16, size -2)
 HP: 172
-HP_extra: 
 HD: 24d10+40
 saves: Fort +8, Ref +15, Will +8
 immune: construct traits, magic

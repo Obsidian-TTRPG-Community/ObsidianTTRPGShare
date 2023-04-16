@@ -5,7 +5,7 @@ name: NPC Brigand (Bandit)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/2
 name: NPC Brigand (Bandit)
 Monster_XP: 200
@@ -18,7 +18,6 @@ INI: +2
 perception: -1
 AC: 17, touch 13, flat-footed 14 (armor +3, dex +2, dodge +1, shield +1)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +2, Will -1
 speed: 30 ft.

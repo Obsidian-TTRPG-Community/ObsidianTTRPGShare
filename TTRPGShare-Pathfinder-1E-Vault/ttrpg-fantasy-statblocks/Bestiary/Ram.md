@@ -5,7 +5,7 @@ name: Ram
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Ram
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +5, Will +2
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

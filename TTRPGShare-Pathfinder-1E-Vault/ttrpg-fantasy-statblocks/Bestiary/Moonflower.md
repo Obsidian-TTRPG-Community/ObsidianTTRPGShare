@@ -5,7 +5,7 @@ name: Moonflower
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Moonflower
 Monster_XP: 4800
@@ -44,6 +44,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or cluster (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Light Pulse (Su)

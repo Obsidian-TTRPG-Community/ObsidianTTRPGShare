@@ -5,7 +5,7 @@ name: Zohanil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Zohanil
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, detect good, detect magic, low-light vision, see invisibility
 AC: 25, touch 15, flat-footed 20 (dex +4, dodge +1, natural +10)
 HP: 138
-HP_extra: 
 HD: 12d10+72
 saves: Fort +14, Ref +8, Will +14
 immune: death effects, disease, fear effects, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Addiction (Ex)

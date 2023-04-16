@@ -5,7 +5,7 @@ name: Adult Black Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Adult Black Dragon
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 28, touch 10, flat-footed 27 (dex +1, natural +18, size -1)
 HP: 161
-HP_extra: 
 HD: 14d12+70
 saves: Fort +14, Ref +10, Will +12
 immune: acid, paralysis, sleep

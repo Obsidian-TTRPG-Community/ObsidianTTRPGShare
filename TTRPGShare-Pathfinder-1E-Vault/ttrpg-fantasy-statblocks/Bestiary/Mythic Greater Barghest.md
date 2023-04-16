@@ -5,7 +5,7 @@ name: Mythic Greater Barghest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 8
 name: Mythic Greater Barghest
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, scent
 AC: 22, touch 11, flat-footed 20 (dex +2, natural +11, size -1)
 HP: 105
-HP_extra: 
 HD: 9d10+56
 saves: Fort +9, Ref +10, Will +10
 DR: 10/epic and magic
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or cult (1 plus goblin tribe)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Goblin King (Su)

@@ -5,7 +5,7 @@ name: Cerberus Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 14
 name: Cerberus Worm
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +9
 senses: all-around vision, darkvision, low-light vision
 AC: 27, touch 7, flat-footed 26 (dex +1, natural +20, size -4)
 HP: 229
-HP_extra: 
 HD: 17d10+136
 saves: Fort +18, Ref +13, Will +6
 immune: poison
@@ -42,6 +41,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Elusive (Su)

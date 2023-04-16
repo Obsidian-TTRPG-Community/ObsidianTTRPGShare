@@ -5,7 +5,7 @@ name: Elephant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Elephant
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +21
 senses: low-light vision, scent
 AC: 17, touch 8, flat-footed 17 (natural +9, size -2)
 HP: 93
-HP_extra: 
 HD: 11d8+44
 saves: Fort +13, Ref +7, Will +6
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary or herd (6-30)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

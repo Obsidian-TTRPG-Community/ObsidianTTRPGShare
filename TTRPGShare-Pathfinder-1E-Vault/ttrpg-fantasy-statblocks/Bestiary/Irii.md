@@ -5,7 +5,7 @@ name: Irii
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 19
 name: Irii
 Monster_XP: 204800

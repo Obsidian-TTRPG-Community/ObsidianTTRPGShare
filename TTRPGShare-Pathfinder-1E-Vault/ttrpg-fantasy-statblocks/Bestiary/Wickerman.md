@@ -5,7 +5,7 @@ name: Wickerman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Wickerman
 Monster_XP: 25600
@@ -40,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Burning Brand (Ex)

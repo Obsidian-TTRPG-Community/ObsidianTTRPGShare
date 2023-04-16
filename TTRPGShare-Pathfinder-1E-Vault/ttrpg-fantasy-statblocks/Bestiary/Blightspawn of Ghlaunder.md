@@ -5,7 +5,7 @@ name: Blightspawn of Ghlaunder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Feast of Ravenmoor"
+source: "Feast of Ravenmoor"
 Monster_CR: 5
 name: Blightspawn of Ghlaunder
 Monster_XP: 1600

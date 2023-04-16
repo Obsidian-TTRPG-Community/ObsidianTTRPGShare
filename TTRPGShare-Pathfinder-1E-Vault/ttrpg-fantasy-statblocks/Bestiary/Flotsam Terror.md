@@ -5,7 +5,7 @@ name: Flotsam Terror
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 121: The Lost Outpost"
+source: "Pathfinder No. 121: The Lost Outpost"
 Monster_CR: 4
 name: Flotsam Terror
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 16, touch 11, flat-footed 16 (natural +5, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +2, Will +9
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or float (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Discorporate (Su)

@@ -5,7 +5,7 @@ name: Crackling Skull Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 10
 name: Crackling Skull Swarm
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision
 AC: 22, touch 15, flat-footed 19 (dex +3, natural +7, size +2)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +8, Will +10
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, horde (2-3), or clatter (4-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bone Shards (Su)

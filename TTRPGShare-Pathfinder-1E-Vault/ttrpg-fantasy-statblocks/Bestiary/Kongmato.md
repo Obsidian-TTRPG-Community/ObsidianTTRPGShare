@@ -5,7 +5,7 @@ name: Kongmato
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 42: Sanctum of the Serpent God"
+source: "Pathfinder No. 42: Sanctum of the Serpent God"
 Monster_CR: 15
 name: Kongmato
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 29, touch 11, flat-footed 26 (dex +3, natural +18, size -2)
 HP: 261
-HP_extra: 
 HD: 18d12+141
 saves: Fort +19, Ref +16, Will +13
 immune: dragon traits, magic paralysis, sleep, sonic
@@ -42,6 +41,7 @@ ecology:
     desc: tropical forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Narrow Flight (Ex)

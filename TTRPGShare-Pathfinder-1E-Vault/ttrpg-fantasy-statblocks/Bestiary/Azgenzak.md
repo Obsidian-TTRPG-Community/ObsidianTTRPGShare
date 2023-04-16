@@ -5,7 +5,7 @@ name: Azgenzak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 69: Maiden, Mother, Crone"
+source: "Pathfinder No. 69: Maiden, Mother, Crone"
 Monster_CR: 8
 name: Azgenzak
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: all-around vision, darkvision, low-light vision
 aura: frightful presence
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +8, Ref +6, Will +8
 immune: fire, poison
@@ -44,6 +43,7 @@ ecology:
     desc: warm and temperate fresh water and swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Burning Blindness (Su)

@@ -5,7 +5,7 @@ name: Red Reaver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 13
 name: Red Reaver
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 29, touch 7, flat-footed 29 (dex -2, natural +22, size -1)
 HP: 184
-HP_extra: 
 HD: 16d10+96
 saves: Fort +16, Ref +8, Will +8
 immune: sleep
@@ -43,6 +42,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Distracted by Beauty (Ex)

@@ -5,7 +5,7 @@ name: Greater Ice Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Greater Ice Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, snow vision
 AC: 23, touch 13, flat-footed 18 (dex +4, dodge +1, natural +10, size -2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +14, Will +4
 immune: cold, elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land or water (Plane of Water)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

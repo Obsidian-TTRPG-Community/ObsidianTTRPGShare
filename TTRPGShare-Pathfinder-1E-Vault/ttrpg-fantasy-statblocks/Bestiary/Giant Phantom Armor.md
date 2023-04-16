@@ -5,7 +5,7 @@ name: Giant Phantom Armor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Giant Phantom Armor
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision
 AC: 18, touch 9, flat-footed 18 (armor +9, size -1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +3, Ref +1, Will +4
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

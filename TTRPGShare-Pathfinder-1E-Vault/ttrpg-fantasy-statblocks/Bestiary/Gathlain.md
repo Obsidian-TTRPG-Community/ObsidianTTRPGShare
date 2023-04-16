@@ -5,7 +5,7 @@ name: Gathlain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Gathlain
 Monster_XP: 200
@@ -19,7 +19,6 @@ perception: -1
 senses: low-light vision
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 7
-HP_extra: 
 HD: 1d6+1
 saves: Fort +0, Ref +3, Will +1
 speed: 30 ft., fly 40 ft. (poor)

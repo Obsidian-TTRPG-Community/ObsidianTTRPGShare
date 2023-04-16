@@ -5,7 +5,7 @@ name: Misery Siktempora
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 135: Runeplague"
+source: "Pathfinder No. 135: Runeplague"
 Monster_CR: 12
 name: Misery Siktempora
 Monster_XP: 19200
@@ -41,6 +41,7 @@ ecology:
     desc: any (Dimension of Time)
   - name: Organisation
     desc: solitary, pair, or desperation (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Burst of Uncanny Speed (Su)

@@ -5,7 +5,7 @@ name: Estuarine Worm (Ahket Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 82: Secrets of the Sphinx"
+source: "Pathfinder No. 82: Secrets of the Sphinx"
 Monster_CR: 10
 name: Estuarine Worm (Ahket Form)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision, tremorsense
 AC: 22, touch 11, flat-footed 19 (dex +3, natural +11, size -2)
 HP: 126
-HP_extra: 
 HD: 11d10+66
 saves: Fort +13, Ref +10, Will +6
 saves_other: +4 vs. enchantment
@@ -44,6 +43,7 @@ ecology:
     desc: warm marshes and rivers
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Guiding Star (Su)

@@ -5,7 +5,7 @@ name: Creeper Ivy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Creeper Ivy
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +2, Will +0
 immune: plant traits
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests and urban
   - name: Organisation
     desc: solitary, pair, or tangle (3-10)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

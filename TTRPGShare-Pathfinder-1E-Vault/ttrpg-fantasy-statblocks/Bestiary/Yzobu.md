@@ -5,7 +5,7 @@ name: Yzobu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Yzobu
 Monster_XP: 400
@@ -18,7 +18,6 @@ senses: low-light vision, scent
 aura: stench
 AC: 13, touch 10, flat-footed 12 (dex +1, natural +3, size -1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +4, Will +1
 speed: 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: cold hills and plains
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Stampede (Ex)

@@ -5,7 +5,7 @@ name: Duergar Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Duergar Captain
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 22, touch 10, flat-footed 20 (armor +10, deflection +1, natural +1, size -1)
 HP: 90
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +4, Will +6
 saves_other: +2 vs. spells

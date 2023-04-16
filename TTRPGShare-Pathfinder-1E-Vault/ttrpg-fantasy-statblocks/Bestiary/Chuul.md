@@ -5,7 +5,7 @@ name: Chuul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Chuul
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +6, Will +9
 immune: poison
@@ -40,6 +39,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Paralytic Tentacles (Ex)

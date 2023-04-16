@@ -5,7 +5,7 @@ name: Polong
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Polong
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: murderous intent
 AC: 19, touch 19, flat-footed 15 (deflection +5, dex +4)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +8, Ref +7, Will +11
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bottle-Bound (Su)

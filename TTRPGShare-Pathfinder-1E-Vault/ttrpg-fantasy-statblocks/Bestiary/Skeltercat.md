@@ -5,7 +5,7 @@ name: Skeltercat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 92: The Hill Giant's Pledge"
+source: "Pathfinder No. 92: The Hill Giant's Pledge"
 Monster_CR: 4
 name: Skeltercat
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision, scent
 AC: 17, touch 15, flat-footed 12 (dex +4, dodge +1, natural +2)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +8, Will +4
 defensive_abilities: mixed mind
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests, hills, or mountains
   - name: Organisation
     desc: solitary, pair, or clan (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Mixed Mind (Ex)

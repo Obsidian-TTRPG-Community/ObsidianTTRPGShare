@@ -5,7 +5,7 @@ name: Lusca
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Lusca
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, low-light vision
 AC: 32, touch 6, flat-footed 32 (natural +26, size -4)
 HP: 270
-HP_extra: 
 HD: 20d10+160
 saves: Fort +20, Ref +12, Will +11
 immune: electricity, poison
@@ -40,6 +39,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Poison (Ex)

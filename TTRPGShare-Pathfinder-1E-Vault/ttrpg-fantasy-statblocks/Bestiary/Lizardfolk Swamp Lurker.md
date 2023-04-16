@@ -5,7 +5,7 @@ name: Lizardfolk Swamp Lurker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Lizardfolk Swamp Lurker
 Monster_XP: 4800

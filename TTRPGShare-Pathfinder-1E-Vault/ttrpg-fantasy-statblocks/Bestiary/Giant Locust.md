@@ -5,7 +5,7 @@ name: Giant Locust
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Giant Locust
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +3, Will +1
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm deserts or plains
   - name: Organisation
     desc: solitary, pair, gang (3-8), or colony (5-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Leap (Ex)

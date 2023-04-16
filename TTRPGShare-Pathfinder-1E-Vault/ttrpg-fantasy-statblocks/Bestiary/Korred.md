@@ -5,7 +5,7 @@ name: Korred
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Korred
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 33
-HP_extra: 
 HD: 6d6+12
 saves: Fort +4, Ref +8, Will +7
 DR: 5/cold iron

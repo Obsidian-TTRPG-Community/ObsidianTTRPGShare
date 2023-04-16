@@ -5,7 +5,7 @@ name: Giant Ground Cricket
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 2
 name: Giant Ground Cricket
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +3, Will +1
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spines (Ex)

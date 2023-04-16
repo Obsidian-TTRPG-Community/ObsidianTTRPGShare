@@ -5,7 +5,7 @@ name: Jellyfish Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Jellyfish Swarm
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 54
-HP_extra: 
 HD: 12d8
 saves: Fort +8, Ref +5, Will +4
 immune: swarm traits, weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary or bloom (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

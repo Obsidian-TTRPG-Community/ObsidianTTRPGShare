@@ -5,7 +5,7 @@ name: Cytillipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Cytillipede
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +7, Will +2
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cytillesh Flash (Su)

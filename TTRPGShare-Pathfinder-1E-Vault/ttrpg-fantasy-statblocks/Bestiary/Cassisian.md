@@ -5,7 +5,7 @@ name: Cassisian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Cassisian
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision
 aura: lesser protective aura
 AC: 14, touch 11, flat-footed 14 (natural +3, size +1)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +3, Will +2
 saves_other: +4 vs. poison
@@ -42,6 +41,7 @@ ecology:
     desc: any good-aligned plane
   - name: Organisation
     desc: solitary, pair, or squad (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Perfect Memory (Ex)

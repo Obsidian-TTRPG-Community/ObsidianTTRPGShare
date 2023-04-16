@@ -5,7 +5,7 @@ name: Bishop Agathion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 61: Shards of Sin"
+source: "Pathfinder No. 61: Shards of Sin"
 Monster_CR: 4
 name: Bishop Agathion
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, detect evil
 aura: fear
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 38
-HP_extra: 
 HD: 7d10
 saves: Fort +2, Ref +8, Will +8
 saves_other: +4 vs. poison
@@ -43,6 +42,7 @@ ecology:
     desc: any waters (Nirvana)
   - name: Organisation
     desc: solitary, pair, or contingent (6-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fear Aura (Su)

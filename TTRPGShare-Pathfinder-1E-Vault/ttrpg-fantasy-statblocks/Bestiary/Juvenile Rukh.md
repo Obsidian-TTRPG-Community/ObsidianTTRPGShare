@@ -5,7 +5,7 @@ name: Juvenile Rukh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Juvenile Rukh
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +17
 senses: low-light vision
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +6, Will +2
 speed: 20 ft., fly 40 ft. (poor)
@@ -37,6 +36,7 @@ ecology:
     desc: warm mountains or deserts
   - name: Organisation
     desc: pair or flock (3d4)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 4

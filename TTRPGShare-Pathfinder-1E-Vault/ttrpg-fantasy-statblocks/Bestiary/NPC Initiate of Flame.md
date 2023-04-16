@@ -5,7 +5,7 @@ name: NPC Initiate of Flame
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Initiate of Flame
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +0
 perception: +6
 AC: 14, touch 10, flat-footed 14 (armor +4)
 HP: 15
-HP_extra: 
 HD: 1d8+7
 saves: Fort +5, Ref +0, Will +4
 saves_other: +2 vs. poison, spells, and spell-like abilities

@@ -5,7 +5,7 @@ name: Octopus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Octopus
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +6, Will +1
 defensive_abilities: ink cloud
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or cold ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ink Cloud (Ex)

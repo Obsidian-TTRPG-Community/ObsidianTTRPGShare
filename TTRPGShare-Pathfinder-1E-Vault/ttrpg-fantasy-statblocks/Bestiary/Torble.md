@@ -5,7 +5,7 @@ name: Torble
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 25: The Bastards of Erebus"
+source: "Pathfinder No. 25: The Bastards of Erebus"
 Monster_CR: 1/8
 name: Torble
 Monster_XP: 50
@@ -16,7 +16,6 @@ INI: +2
 senses: blindsight, darkvision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 1
-HP_extra: 
 HD: 1d8-3
 saves: Fort -1, Ref +2, Will +2
 immune: acid

@@ -5,7 +5,7 @@ name: Eidolon, Unfettered
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Eidolon, Unfettered
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 26, touch 14, flat-footed 22 (dex +4, natural +12)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +7, Ref +11, Will +9
 defensive_abilities: improved evasion
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 sources:
   - name: Bestiary 3

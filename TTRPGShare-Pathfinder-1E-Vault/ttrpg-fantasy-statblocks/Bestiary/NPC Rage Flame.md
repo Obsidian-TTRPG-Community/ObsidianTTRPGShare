@@ -5,7 +5,7 @@ name: NPC Rage Flame
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Rage Flame
 Monster_XP: 153600
@@ -20,7 +20,6 @@ perception: +23
 senses: darkvision
 AC: 28, touch 16, flat-footed 26 (armor +8, deflection +3, dex +2, insight +1, shield +4)
 HP: 161
-HP_extra: 
 HD: 19d8+72
 saves: Fort +16, Ref +11, Will +22
 saves_other: +4 vs. fey and plant-targeted effects

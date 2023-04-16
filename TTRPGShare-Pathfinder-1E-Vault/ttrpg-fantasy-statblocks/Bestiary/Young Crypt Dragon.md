@@ -5,7 +5,7 @@ name: Young Crypt Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Young Crypt Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +26
 senses: dragon senses
 AC: 24, touch 10, flat-footed 23 (dex +1, natural +14, size -1)
 HP: 147
-HP_extra: 
 HD: 14d12+56
 saves: Fort +13, Ref +10, Will +14
 defensive_abilities: grave endurance

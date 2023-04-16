@@ -5,7 +5,7 @@ name: Fallen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Fallen
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +17
 senses: blindsense, darkvision
 AC: 22, touch 17, flat-footed 19 (armor +4, deflection +4, dex +3, shield +1)
 HP: 93
-HP_extra: 
 HD: 11d8+44
 saves: Fort +7, Ref +6, Will +10
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, squad (2-6), or platoon (7-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Agent of Despair (Su)

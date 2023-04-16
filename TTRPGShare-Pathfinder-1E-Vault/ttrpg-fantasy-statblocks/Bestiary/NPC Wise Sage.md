@@ -5,7 +5,7 @@ name: NPC Wise Sage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Wise Sage
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +0
 perception: +1
 AC: 11, touch 11, flat-footed 11 (deflection +1)
 HP: 28
-HP_extra: 
 HD: 8d8-8
 saves: Fort +2, Ref +3, Will +8
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Drowning Devil (Sarglagon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Drowning Devil (Sarglagon)
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness, see invisibility
 aura: heavy aura
 AC: 21, touch 17, flat-footed 13 (dex +7, dodge +1, natural +4, size -1)
 HP: 103
-HP_extra: 
 HD: 9d10+54
 saves: Fort +12, Ref +10, Will +11
 immune: fire, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or guard (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Drown (Su)

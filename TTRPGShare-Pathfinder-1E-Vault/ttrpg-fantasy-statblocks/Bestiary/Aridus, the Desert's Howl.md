@@ -5,7 +5,7 @@ name: Aridus, the Desert's Howl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 19
 name: Aridus, the Desert's Howl
 Monster_XP: 204800

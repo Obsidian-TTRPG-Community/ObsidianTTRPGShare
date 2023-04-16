@@ -5,7 +5,7 @@ name: Ravener
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 30: The Twice-Damned Prince"
+source: "Pathfinder No. 30: The Twice-Damned Prince"
 Monster_CR: 18
 name: Ravener
 Monster_XP: 153600
@@ -42,6 +42,7 @@ ecology:
     desc: any forest, hill, jungle, or plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Camouflage (Ex)

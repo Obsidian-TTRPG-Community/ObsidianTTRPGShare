@@ -5,7 +5,7 @@ name: Fukujin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 52: Forest of Spirits"
+source: "Pathfinder No. 52: Forest of Spirits"
 Monster_CR: 3
 name: Fukujin
 Monster_XP: 800
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, garden (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Luck (Su)

@@ -5,7 +5,7 @@ name: Hell Gigas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 30: The Twice-Damned Prince"
+source: "Pathfinder No. 30: The Twice-Damned Prince"
 Monster_CR: 15
 name: Hell Gigas
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +29
 senses: darkvision
 AC: 29, touch 9, flat-footed 26 (armor +6, dex +3, natural +14, size -4)
 HP: 237
-HP_extra: 
 HD: 19d8+152
 saves: Fort +19, Ref +11, Will +12
 immune: fire

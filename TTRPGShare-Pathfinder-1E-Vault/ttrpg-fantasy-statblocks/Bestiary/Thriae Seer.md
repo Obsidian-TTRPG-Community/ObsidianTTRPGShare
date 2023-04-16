@@ -5,7 +5,7 @@ name: Thriae Seer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Thriae Seer
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +27
 senses: darkvision, detect secret doors, low-light vision
 AC: 25, touch 15, flat-footed 20 (dex +5, natural +10)
 HP: 133
-HP_extra: 
 HD: 14d10+56
 saves: Fort +8, Ref +16, Will +15
 immune: poison, sonic

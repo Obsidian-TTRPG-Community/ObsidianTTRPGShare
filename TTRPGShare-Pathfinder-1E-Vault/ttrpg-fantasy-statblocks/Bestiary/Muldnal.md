@@ -5,7 +5,7 @@ name: Muldnal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 3
 name: Muldnal
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, detect snares and pits, low-light vision, tremorsense
 AC: 14, touch 10, flat-footed 14 (dex -1, natural +4, size +1)
 HP: 38
-HP_extra: 
 HD: 4d10+16
 saves: Fort +8, Ref +3, Will +6
 saves_other: +4 vs. poison
@@ -47,6 +46,7 @@ ecology:
     desc: any underground (Nirvana)
   - name: Organisation
     desc: solitary, pair, or labor (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dust Child (Ex)

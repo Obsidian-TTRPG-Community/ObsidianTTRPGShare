@@ -5,7 +5,7 @@ name: Mardahamman, Cyclops Tyrant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 15
 name: Mardahamman, Cyclops Tyrant
 Monster_XP: 51200

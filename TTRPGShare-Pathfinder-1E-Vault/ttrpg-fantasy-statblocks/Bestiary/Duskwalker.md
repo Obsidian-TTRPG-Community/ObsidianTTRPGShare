@@ -5,7 +5,7 @@ name: Duskwalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 1/2
 name: Duskwalker
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 12
-HP_extra: 
 HD: 1d10+2
 saves: Fort +3, Ref +5, Will +2
 saves_other: +2 vs. negative energy and death effects

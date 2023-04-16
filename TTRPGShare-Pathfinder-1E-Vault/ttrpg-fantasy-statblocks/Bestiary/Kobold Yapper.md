@@ -5,7 +5,7 @@ name: Kobold Yapper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Kobold Yapper
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 22, touch 16, flat-footed 17 (armor +5, dex +4, dodge +1, natural +1, size +1)
 HP: 31
-HP_extra: 
 HD: 8d8-8
 saves: Fort +0, Ref +10, Will +6
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

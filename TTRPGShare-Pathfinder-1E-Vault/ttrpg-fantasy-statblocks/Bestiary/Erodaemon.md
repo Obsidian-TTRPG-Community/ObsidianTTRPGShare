@@ -5,7 +5,7 @@ name: Erodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Erodaemon
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, detect good
 AC: 25, touch 16, flat-footed 19 (dex +5, dodge +1, natural +9)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +9, Ref +14, Will +12
 immune: acid, death effects, disease, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or harem (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Charisma Drain (Su)

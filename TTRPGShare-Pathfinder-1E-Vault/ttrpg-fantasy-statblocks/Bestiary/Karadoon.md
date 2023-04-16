@@ -5,7 +5,7 @@ name: Karadoon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 6
 name: Karadoon
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 16 (dex +4, natural +7, size -1)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +8, Ref +8, Will +5
 immune: poison

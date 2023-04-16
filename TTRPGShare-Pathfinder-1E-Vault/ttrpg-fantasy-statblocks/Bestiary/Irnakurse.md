@@ -5,7 +5,7 @@ name: Irnakurse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Irnakurse
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 23, touch 12, flat-footed 20 (dex +3, natural +11, size -1)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +9, Ref +8, Will +9
 speed: 10 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Mind Lash (Su)

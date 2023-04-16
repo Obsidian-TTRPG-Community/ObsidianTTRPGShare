@@ -5,7 +5,7 @@ name: NPC Savage Mercenary
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Savage Mercenary
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +1
 perception: +5
 AC: 15, touch 9, flat-footed 14 (armor +6, dex +1, rage -2)
 HP: 17
-HP_extra: 
 HD: 1d12+5
 saves: Fort +6, Ref +1, Will +3
 speed: 30 ft.

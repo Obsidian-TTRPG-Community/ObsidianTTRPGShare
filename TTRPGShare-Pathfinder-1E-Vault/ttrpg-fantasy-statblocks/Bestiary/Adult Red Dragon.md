@@ -5,7 +5,7 @@ name: Adult Red Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 14
 name: Adult Red Dragon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: dragon senses, smoke vision
 aura: fire, frightful presence
 AC: 29, touch 8, flat-footed 29 (natural +21, size -2)
 HP: 212
-HP_extra: 
 HD: 17d12+102
 saves: Fort +16, Ref +10, Will +15
 immune: fire, paralysis, sleep

@@ -5,7 +5,7 @@ name: Graveknight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Graveknight
 Monster_XP: 12800
@@ -21,7 +21,6 @@ senses: darkvision
 aura: sacrilegious aura
 AC: 25, touch 11, flat-footed 24 (armor +10, dex +1, natural +4)
 HP: 139
-HP_extra: 
 HD: 10d10+80
 saves: Fort +13, Ref +6, Will +6
 saves_other: +3 vs. fear

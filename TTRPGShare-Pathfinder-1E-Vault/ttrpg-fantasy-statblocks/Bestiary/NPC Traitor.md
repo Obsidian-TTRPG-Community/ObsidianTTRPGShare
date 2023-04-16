@@ -5,7 +5,7 @@ name: NPC Traitor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Traitor
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: -1
 perception: +14
 AC: 11, touch 9, flat-footed 11 (armor +2, dex -1)
 HP: 55
-HP_extra: 
 HD: 10d6+20
 saves: Fort +6, Ref +4, Will +6
 immune: detect thoughts, discern lies, alignment detection

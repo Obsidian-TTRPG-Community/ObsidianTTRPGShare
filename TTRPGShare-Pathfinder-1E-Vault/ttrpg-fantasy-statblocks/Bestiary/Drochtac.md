@@ -5,7 +5,7 @@ name: Drochtac
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Gallows of Madness"
+source: "Gallows of Madness"
 Monster_CR: 1
 name: Drochtac
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 13
-HP_extra: 
 HD: 3d6+3
 saves: Fort +2, Ref +4, Will +4
 DR: 2/cold iron
@@ -37,6 +36,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Revolting Taste (Ex)

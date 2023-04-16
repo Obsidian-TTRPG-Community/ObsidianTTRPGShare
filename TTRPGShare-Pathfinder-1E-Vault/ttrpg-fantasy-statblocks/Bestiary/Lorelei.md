@@ -5,7 +5,7 @@ name: Lorelei
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 12
 name: Lorelei
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 162
-HP_extra: 
 HD: 12d8+108
 saves: Fort +13, Ref +5, Will +13
 immune: sonic
@@ -43,6 +42,7 @@ ecology:
     desc: any coastlines
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Murmur (Su)

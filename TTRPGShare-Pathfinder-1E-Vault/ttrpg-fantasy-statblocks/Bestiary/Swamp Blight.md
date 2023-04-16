@@ -5,7 +5,7 @@ name: Swamp Blight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Swamp Blight
 Monster_XP: 102400
@@ -44,6 +44,7 @@ ecology:
     desc: any swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Mosquitoes Aura (Su)

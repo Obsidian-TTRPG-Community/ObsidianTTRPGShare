@@ -5,7 +5,7 @@ name: NPC Local Celebrity
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Local Celebrity
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +1
 perception: +4
 AC: 12, touch 11, flat-footed 11 (armor +1, dex +1)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +4, Will +3
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

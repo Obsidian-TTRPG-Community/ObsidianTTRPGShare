@@ -5,7 +5,7 @@ name: Mythic Marilith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 21
 name: Mythic Marilith
 Monster_XP: 409600

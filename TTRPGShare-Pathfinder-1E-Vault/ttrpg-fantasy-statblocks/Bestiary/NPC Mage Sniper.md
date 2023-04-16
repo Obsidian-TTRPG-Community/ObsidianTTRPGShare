@@ -5,7 +5,7 @@ name: NPC Mage Sniper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Mage Sniper
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +27
 senses: darkvision, low-light vision, see invisibility
 AC: 21, touch 16, flat-footed 17 (armor +4, deflection +2, dex +4, natural +1)
 HP: 69
-HP_extra: 
 HD: 14d6+18
 saves: Fort +7, Ref +10, Will +11
 saves_other: +2 vs. enchantments

@@ -5,7 +5,7 @@ name: Flying Squirrel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/3
 name: Flying Squirrel
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +4, Will +1
 speed: 20 ft., fly 40 ft. (clumsy)
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Glide (Ex)

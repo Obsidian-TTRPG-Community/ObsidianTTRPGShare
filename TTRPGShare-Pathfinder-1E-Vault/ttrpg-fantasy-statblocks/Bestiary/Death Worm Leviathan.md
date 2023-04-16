@@ -5,7 +5,7 @@ name: Death Worm Leviathan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 11
 name: Death Worm Leviathan
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision, tremorsense
 AC: 23, touch 9, flat-footed 20 (dex +3, natural +14, size -4)
 HP: 157
-HP_extra: 
 HD: 15d10+75
 saves: Fort +14, Ref +12, Will +5
 immune: acid, electricity, poison
@@ -42,6 +41,7 @@ ecology:
     desc: warm deserts, hills, or plains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Corrosive Blood (Ex)

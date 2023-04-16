@@ -5,7 +5,7 @@ name: NPC Aldori Swordlord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 5
 name: NPC Aldori Swordlord
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +5
 perception: +0
 AC: 19, touch 13, flat-footed 16 (armor +4, dex +3, shield +2)
 HP: 54
-HP_extra: 
 HD: 6d10+17
 saves: Fort +7, Ref +6, Will +2
 defensive_abilities: bravery +1, defensive parry

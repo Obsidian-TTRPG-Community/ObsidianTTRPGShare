@@ -5,7 +5,7 @@ name: Ugothokra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 88: Valley of the Brain Collectors"
+source: "Pathfinder No. 88: Valley of the Brain Collectors"
 Monster_CR: 7
 name: Ugothokra
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision
 AC: 20, touch 17, flat-footed 14 (dex +5, dodge +1, natural +3, size +1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +8, Will +10
 immune: cold, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Combined Arms (Ex)

@@ -5,7 +5,7 @@ name: Enisysian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 124: City in the Deep"
+source: "Pathfinder No. 124: City in the Deep"
 Monster_CR: 4
 name: Enisysian
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: mental disarmament, mucus cloud
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +3, Ref +4, Will +7
 immune: mind-affecting effects
@@ -42,6 +41,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or with 1 veiled master
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alghollthu’s Bane (Su)

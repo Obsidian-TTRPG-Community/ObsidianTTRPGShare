@@ -5,7 +5,7 @@ name: Feeder in the Depths
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Feeder in the Depths
 Monster_XP: 4800
@@ -42,6 +42,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Feast (Su)

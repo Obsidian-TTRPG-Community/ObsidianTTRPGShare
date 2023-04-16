@@ -5,7 +5,7 @@ name: Karkinoi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Karkinoi
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +6, Ref +6, Will +6
 speed: 30 ft., other_semicolon sideways scuttle ft., swim 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, gang (2-6), or tribe (3-18)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Sideways Scuttle (Ex)

@@ -5,7 +5,7 @@ name: Augur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Augur
 Monster_XP: 600
@@ -40,6 +40,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, pack (3-5), or squad (6-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Unnerving Gaze (Ex)

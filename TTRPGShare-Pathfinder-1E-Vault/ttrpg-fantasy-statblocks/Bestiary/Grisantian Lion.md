@@ -5,7 +5,7 @@ name: Grisantian Lion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 132: The Six-Legend Soul"
+source: "Pathfinder No. 132: The Six-Legend Soul"
 Monster_CR: 14
 name: Grisantian Lion
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 29, touch 13, flat-footed 24 (dex +5, natural +16, size -2)
 HP: 184
-HP_extra: 
 HD: 16d10+96
 saves: Fort +16, Ref +15, Will +8
 immune: disease, poison
@@ -43,6 +42,7 @@ ecology:
     desc: warm plains or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Tearing Claws (Ex)

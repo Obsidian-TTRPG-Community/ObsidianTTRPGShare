@@ -5,7 +5,7 @@ name: Belker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Belker
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 20, touch 14, flat-footed 15 (dex +5, natural +6, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +11, Will +2
 DR: 5/-
@@ -42,6 +41,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary, pair, or clutch (3-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Smoke Claws (Ex)

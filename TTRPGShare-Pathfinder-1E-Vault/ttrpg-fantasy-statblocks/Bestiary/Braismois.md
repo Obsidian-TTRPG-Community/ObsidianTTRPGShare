@@ -5,7 +5,7 @@ name: Braismois
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Druma, Profit and Prophecy"
+source: "Druma, Profit and Prophecy"
 Monster_CR: 22
 name: Braismois
 Monster_XP: 614400
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: fine print
 AC: 40, touch 28, flat-footed 30 (deflection +8, dex +10, natural +12)
 HP: 377
-HP_extra: 
 HD: 26d10+234
 saves: Fort +17, Ref +25, Will +24
 immune: acid, charm, compulsion, death effects, disease, emotion, enchantments, mind-reading, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Daemonic Harbinger Traits

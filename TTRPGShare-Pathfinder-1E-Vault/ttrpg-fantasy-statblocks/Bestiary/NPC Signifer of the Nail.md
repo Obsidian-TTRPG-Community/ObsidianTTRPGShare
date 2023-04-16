@@ -5,7 +5,7 @@ name: NPC Signifer of the Nail
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Castles of the Inner Sea"
+source: "Castles of the Inner Sea"
 Monster_CR: 6
 name: NPC Signifer of the Nail
 Monster_XP: 2400

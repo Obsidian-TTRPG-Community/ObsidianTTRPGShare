@@ -5,7 +5,7 @@ name: Kawa Akago
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Kawa Akago
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 16, touch 14, flat-footed 13 (dex +3, natural +2, size +1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +4, Will +2
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate marshes or rivers
   - name: Organisation
     desc: solitary, pair, or clutch (2-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood-Burning Fangs (Ex)

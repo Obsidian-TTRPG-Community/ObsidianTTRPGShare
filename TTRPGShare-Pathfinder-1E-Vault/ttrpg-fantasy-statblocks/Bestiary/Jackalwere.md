@@ -5,7 +5,7 @@ name: Jackalwere
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Jackalwere
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision, scent
 AC: 17, touch 14, flat-footed 13 (armor +2, dex +3, dodge +1, natural +1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +6, Will +2
 DR: 5/cold iron

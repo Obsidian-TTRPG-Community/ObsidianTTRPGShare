@@ -5,7 +5,7 @@ name: Globster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Globster
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: -5
 aura: stench
 AC: 16, touch 4, flat-footed 16 (dex -5, natural +12, size -1)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +7, Ref -3, Will -3
 immune: acid, bludgeoning and piercing damage, ooze traits
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans or coastlines
   - name: Organisation
     desc: solitary, pair, or beaching (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Create Spawn (Ex)

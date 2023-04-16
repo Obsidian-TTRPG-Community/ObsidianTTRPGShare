@@ -5,7 +5,7 @@ name: NPC Sundering Axe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Sundering Axe
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +1
 perception: +12
 AC: 18, touch 9, flat-footed 17 (armor +9, dex +1, rage -2)
 HP: 93
-HP_extra: 
 HD: 7d12+42
 saves: Fort +11, Ref +4, Will +7
 saves_other: +2 vs. poison, spells, and spell-like abilities

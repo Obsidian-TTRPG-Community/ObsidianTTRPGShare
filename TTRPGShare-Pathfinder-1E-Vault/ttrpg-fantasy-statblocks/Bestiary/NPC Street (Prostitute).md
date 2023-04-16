@@ -5,7 +5,7 @@ name: NPC Street (Prostitute)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Street (Prostitute)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +2
 perception: +5
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +1, Ref +4, Will +2
 speed: 30 ft.

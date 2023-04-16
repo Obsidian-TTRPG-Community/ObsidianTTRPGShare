@@ -5,7 +5,7 @@ name: Boggle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Boggle
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: mindboggle
 AC: 21, touch 18, flat-footed 14 (dex +6, dodge +1, natural +3, size +1)
 HP: 102
-HP_extra: 
 HD: 12d6+60
 saves: Fort +9, Ref +14, Will +9
 DR: 10/cold iron
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Mindboggle Aura (Su)

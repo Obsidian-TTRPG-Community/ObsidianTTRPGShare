@@ -5,7 +5,7 @@ name: Warmonger Wasp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Warmonger Wasp
 Monster_XP: 3200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or flight (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

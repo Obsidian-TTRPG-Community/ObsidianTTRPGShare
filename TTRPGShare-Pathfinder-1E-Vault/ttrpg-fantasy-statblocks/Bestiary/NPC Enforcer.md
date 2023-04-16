@@ -5,7 +5,7 @@ name: NPC Enforcer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Enforcer
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +1
 perception: +4
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +2, Ref +5, Will +7
 speed: 30 ft.

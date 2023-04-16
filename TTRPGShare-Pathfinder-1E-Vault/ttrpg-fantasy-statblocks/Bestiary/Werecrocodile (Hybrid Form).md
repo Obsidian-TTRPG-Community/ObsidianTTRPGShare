@@ -5,7 +5,7 @@ name: Werecrocodile (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Werecrocodile (Hybrid Form)
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 23, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 30
-HP_extra: 
 HD: 3d10+9
 saves: Fort +8, Ref +2, Will +2
 saves_other: +1 vs. fear

@@ -5,7 +5,7 @@ name: Chernobue
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Chernobue
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision, scent
 aura: misfortune
 AC: 27, touch 13, flat-footed 23 (dex +4, natural +14, size -1)
 HP: 150
-HP_extra: 
 HD: 12d10+84
 saves: Fort +15, Ref +10, Will +11
 immune: cold, poison, mind-affecting effects
@@ -44,6 +43,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Misfortune (Su)

@@ -5,7 +5,7 @@ name: NPC Dancing Dervish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Dancing Dervish
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +8
 perception: +12
 AC: 20, touch 16, flat-footed 15 (armor +4, deflection +1, dex +4, dodge +1)
 HP: 68
-HP_extra: 
 HD: 10d8+20
 saves: Fort +4, Ref +11, Will +2
 defensive_abilities: evasion, improved uncanny dodge, trap sense +3

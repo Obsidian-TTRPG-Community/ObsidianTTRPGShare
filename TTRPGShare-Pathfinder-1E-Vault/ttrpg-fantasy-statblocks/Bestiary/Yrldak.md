@@ -5,7 +5,7 @@ name: Yrldak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 10
 name: Yrldak
 Monster_XP: 9600

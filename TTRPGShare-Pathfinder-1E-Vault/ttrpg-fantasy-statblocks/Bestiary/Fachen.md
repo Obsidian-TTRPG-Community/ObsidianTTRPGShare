@@ -5,7 +5,7 @@ name: Fachen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Fachen
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: fear
 AC: 18, touch 14, flat-footed 14 (dex +1, dodge +3, natural +4)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +4, Ref +3, Will +8
 speed: 30 ft.

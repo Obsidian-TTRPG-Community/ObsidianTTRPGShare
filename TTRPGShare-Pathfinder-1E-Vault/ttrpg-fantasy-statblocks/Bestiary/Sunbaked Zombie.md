@@ -5,7 +5,7 @@ name: Sunbaked Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 80: Empty Graves"
+source: "Pathfinder No. 80: Empty Graves"
 Monster_CR: 1
 name: Sunbaked Zombie
 Monster_XP: 400
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 12
-HP_extra: 
 HD: 2d8+3
 saves: Fort +0, Ref +1, Will +3
 immune: undead traits

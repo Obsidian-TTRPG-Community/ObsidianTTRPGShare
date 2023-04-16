@@ -5,7 +5,7 @@ name: Gammenore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 89: Palace of Fallen Stars"
+source: "Pathfinder No. 89: Palace of Fallen Stars"
 Monster_CR: 8
 name: Gammenore
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 102
-HP_extra: 
 HD: 12d10+36
 saves: Fort +11, Ref +11, Will +7
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary, pair, or cluster (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ice Spikes (Su)

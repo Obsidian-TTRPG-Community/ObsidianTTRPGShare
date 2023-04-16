@@ -5,7 +5,7 @@ name: Camel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Camel
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 10 (dex +3, natural +1, size -1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +6, Will +0
 speed: 50 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spit (Ex)

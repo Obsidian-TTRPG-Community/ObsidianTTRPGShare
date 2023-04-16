@@ -5,7 +5,7 @@ name: Shax
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 74: Sword of Valor"
+source: "Pathfinder No. 74: Sword of Valor"
 Monster_CR: 28
 name: Shax
 Monster_XP: 4915200

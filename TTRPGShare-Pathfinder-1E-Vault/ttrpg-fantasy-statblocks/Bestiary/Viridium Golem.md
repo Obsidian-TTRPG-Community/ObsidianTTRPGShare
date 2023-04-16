@@ -5,7 +5,7 @@ name: Viridium Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Viridium Golem
 Monster_XP: 153600
@@ -16,7 +16,6 @@ INI: +5
 senses: darkvision, low-light vision
 AC: 33, touch 13, flat-footed 28 (dex +5, natural +20, size -2)
 HP: 222
-HP_extra: 
 HD: 28d10+68
 saves: Fort +9, Ref +14, Will +9
 immune: construct traits, magic

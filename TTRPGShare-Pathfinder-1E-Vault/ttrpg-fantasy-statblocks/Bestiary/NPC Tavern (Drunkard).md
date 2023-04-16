@@ -5,7 +5,7 @@ name: NPC Tavern (Drunkard)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Tavern (Drunkard)
 Monster_XP: 400

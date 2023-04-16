@@ -5,7 +5,7 @@ name: Coryphae
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 6
 name: Coryphae
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 16, touch 16, flat-footed 10 (dex +5, dodge +1)
 HP: 65
-HP_extra: 
 HD: 10d6+30
 saves: Fort +6, Ref +12, Will +8
 DR: 5/cold iron
@@ -37,6 +36,7 @@ ecology:
     desc: any underground or urban
   - name: Organisation
     desc: solitary, troupe (2-6), or company (8-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cut in with Care (Su)

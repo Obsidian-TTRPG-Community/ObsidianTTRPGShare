@@ -5,7 +5,7 @@ name: Spiny Starfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Spiny Starfish
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +1, Will +0
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or cluster (3-22)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Firm Grip (Ex)

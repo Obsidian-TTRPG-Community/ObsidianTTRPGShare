@@ -5,7 +5,7 @@ name: Ratfolk Elder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Ratfolk Elder
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 19, touch 11, flat-footed 19 (armor +7, shield +1, size +1)
 HP: 80
-HP_extra: 
 HD: 9d8+36
 saves: Fort +12, Ref +5, Will +12
 speed: 40 ft.

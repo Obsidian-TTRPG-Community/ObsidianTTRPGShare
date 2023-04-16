@@ -5,7 +5,7 @@ name: Vilsteth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 77: Herald of the Ivory Labyrinth"
+source: "Pathfinder No. 77: Herald of the Ivory Labyrinth"
 Monster_CR: 16
 name: Vilsteth
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +36
 senses: darkvision, see invisibility
 AC: 30, touch 14, flat-footed 26 (dex +4, natural +16)
 HP: 225
-HP_extra: 
 HD: 18d10+126
 saves: Fort +18, Ref +10, Will +14
 immune: electricity, mind-affecting effects, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or conspiracy (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Idolatry (Su)

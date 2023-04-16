@@ -5,7 +5,7 @@ name: Giant Hellgrammite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Giant Hellgrammite
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision
 AC: 18, touch 11, flat-footed 16 (dex +2, natural +7, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +4, Will +1
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: temperate rivers
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Death Grip (Ex)

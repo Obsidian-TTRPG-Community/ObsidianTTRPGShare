@@ -5,7 +5,7 @@ name: Sea Snake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 1
 name: Sea Snake
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +5, Will +1
 speed: 20 ft., climb 20 ft., swim 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

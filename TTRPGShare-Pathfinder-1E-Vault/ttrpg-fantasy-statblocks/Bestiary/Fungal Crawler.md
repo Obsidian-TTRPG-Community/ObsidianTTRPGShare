@@ -5,7 +5,7 @@ name: Fungal Crawler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Fungal Crawler
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 16, touch 16, flat-footed 11 (dex +5, size +1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +3, Ref +6, Will +5
 immune: mind-affecting effects, paralysis, poison, polymorph effects, sleep, stunning
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Leap (Ex)

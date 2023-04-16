@@ -5,7 +5,7 @@ name: Dire Bear (Cave Bear)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Dire Bear (Cave Bear)
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision, scent
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +12, Ref +8, Will +4
 speed: 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

@@ -5,7 +5,7 @@ name: Ettercap
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Ettercap
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +6, Ref +4, Will +6
 speed: 30 ft., climb 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Giant Emperor Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Giant Emperor Scorpion
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 24, touch 7, flat-footed 23 (dex +1, natural +17, size -4)
 HP: 142
-HP_extra: 
 HD: 15d8+75
 saves: Fort +14, Ref +6, Will +6
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ambush Pit (Ex)

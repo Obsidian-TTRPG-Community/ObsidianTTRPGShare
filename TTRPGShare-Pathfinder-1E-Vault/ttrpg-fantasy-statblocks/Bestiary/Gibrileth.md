@@ -5,7 +5,7 @@ name: Gibrileth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Worldwound"
+source: "The Worldwound"
 Monster_CR: 11
 name: Gibrileth
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +25
 senses: darkvision, scent
 AC: 25, touch 13, flat-footed 21 (dex +4, natural +12, size -1)
 HP: 137
-HP_extra: 
 HD: 11d10+77
 saves: Fort +14, Ref +9, Will +10
 immune: acid, disease, electricity, poison

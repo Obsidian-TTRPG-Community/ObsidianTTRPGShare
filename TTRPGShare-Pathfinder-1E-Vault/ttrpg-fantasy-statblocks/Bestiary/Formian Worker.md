@@ -5,7 +5,7 @@ name: Formian Worker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Formian Worker
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: blindsense, darkvision, hive mind
 AC: 12, touch 11, flat-footed 12 (natural +1, size +1)
 HP: 6
-HP_extra: 
 HD: 1d10+1
 saves: Fort +1, Ref +2, Will +2
 resist: sonic 10

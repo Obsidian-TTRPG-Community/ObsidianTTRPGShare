@@ -5,7 +5,7 @@ name: Pyrausta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/4
 name: Pyrausta
 Monster_XP: 100
@@ -40,6 +40,7 @@ ecology:
     desc: any warm
   - name: Organisation
     desc: solitary, pair, or swarm (12-20)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Heart of Flame (Ex)

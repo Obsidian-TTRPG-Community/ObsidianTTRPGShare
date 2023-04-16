@@ -5,7 +5,7 @@ name: Ratfolk Warden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Ratfolk Warden
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 21, touch 13, flat-footed 19 (armor +7, dex +2, shield +1, size +1)
 HP: 42
-HP_extra: 
 HD: 5d10+10
 saves: Fort +7, Ref +4, Will +2
 defensive_abilities: bravery +1

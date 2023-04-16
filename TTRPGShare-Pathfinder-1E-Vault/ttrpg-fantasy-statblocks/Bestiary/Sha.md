@@ -5,7 +5,7 @@ name: Sha
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Sha
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision, sandstorm sight
 AC: 17, touch 14, flat-footed 13 (dex +4, natural +3)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +7, Ref +9, Will +4
 speed: 40 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Su)

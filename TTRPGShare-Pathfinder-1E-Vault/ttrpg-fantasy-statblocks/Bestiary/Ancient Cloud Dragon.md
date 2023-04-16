@@ -5,7 +5,7 @@ name: Ancient Cloud Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 18
 name: Ancient Cloud Dragon
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: dragon senses, mist vision
 aura: frightful presence
 AC: 36, touch 4, flat-footed 36 (dex -2, natural +32, size -4)
 HP: 324
-HP_extra: 
 HD: 24d12+168
 saves: Fort +21, Ref +12, Will +21
 immune: electricity, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any sky (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

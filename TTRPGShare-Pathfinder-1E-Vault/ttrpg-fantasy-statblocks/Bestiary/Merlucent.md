@@ -5,7 +5,7 @@ name: Merlucent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 104: Wrath of Thrune"
+source: "Pathfinder No. 104: Wrath of Thrune"
 Monster_CR: 3
 name: Merlucent
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +3, Ref +4, Will +6
 resist: cold 5
@@ -42,6 +41,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, hunting group (3-6), or clan (9-14)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Arcane Echo (Su)

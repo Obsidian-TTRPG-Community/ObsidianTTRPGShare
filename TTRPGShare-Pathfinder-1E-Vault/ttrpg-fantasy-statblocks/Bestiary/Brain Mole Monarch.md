@@ -5,7 +5,7 @@ name: Brain Mole Monarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Brain Mole Monarch
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision, scent, second sight, tremorsense
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +7, Ref +7, Will +7
 defensive_abilities: shrouded mind
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests, hills, or plains
   - name: Organisation
     desc: solitary or nest (1 monarch and 4-10 brain moles)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Brain Exchange (Su)

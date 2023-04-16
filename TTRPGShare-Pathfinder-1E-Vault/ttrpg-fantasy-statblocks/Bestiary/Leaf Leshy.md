@@ -5,7 +5,7 @@ name: Leaf Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Leaf Leshy
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 13, touch 12, flat-footed 12 (armor +1, dex +1, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +1, Will +1
 immune: electricity, sonic, plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: any forest or hill
   - name: Organisation
     desc: solitary or grove (2-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Glide (Ex)

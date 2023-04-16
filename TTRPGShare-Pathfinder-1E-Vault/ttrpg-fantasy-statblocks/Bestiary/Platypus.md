@@ -5,7 +5,7 @@ name: Platypus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Platypus
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision, electrolocation
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +4, Will +1
 speed: 10 ft., swim 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or tropical rivers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Electrolocation (Ex)

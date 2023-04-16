@@ -5,7 +5,7 @@ name: Goblin Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Goblin Troop
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 17, touch 15, flat-footed 13 (armor +2, dex +3, dodge +1, size +1)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +6, Ref +9, Will +4
 defensive_abilities: troop traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests or plains (usually coastal regions)
   - name: Organisation
     desc: solitary or band (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Overwhelm (Ex)

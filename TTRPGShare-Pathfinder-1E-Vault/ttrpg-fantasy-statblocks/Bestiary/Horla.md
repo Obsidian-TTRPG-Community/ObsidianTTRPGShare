@@ -5,7 +5,7 @@ name: Horla
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Horla
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision
 AC: 18, touch 16, flat-footed 13 (dex +5, natural +2, size +1)
 HP: 104
-HP_extra: 
 HD: 11d8+55
 saves: Fort +8, Ref +8, Will +11
 immune: fear, fire, poison, sleep
@@ -38,6 +37,7 @@ ecology:
     desc: any (Ethereal plane)
   - name: Organisation
     desc: solitary, pair, or invasion (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorb Language (Ex)

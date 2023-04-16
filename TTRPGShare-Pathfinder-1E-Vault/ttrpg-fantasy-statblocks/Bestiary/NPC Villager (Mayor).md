@@ -5,7 +5,7 @@ name: NPC Villager (Mayor)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 8
 name: NPC Villager (Mayor)
 Monster_XP: 4800
@@ -18,7 +18,6 @@ INI: +0
 perception: +10
 AC: 16, touch 10, flat-footed 16 (armor +4, shield +2)
 HP: 44
-HP_extra: 
 HD: 10d8
 saves: Fort +3, Ref +3, Will +8
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Wolpertinger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 61: Shards of Sin"
+source: "Pathfinder No. 61: Shards of Sin"
 Monster_CR: 1
 name: Wolpertinger
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +5, Ref +5, Will +1
 speed: 40 ft., fly 40 ft. (average)
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests or hills
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 61: Shards of Sin

@@ -5,7 +5,7 @@ name: Carrion Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Carrion Golem
 Monster_XP: 1200
@@ -17,7 +17,6 @@ senses: blindsense, darkvision, low-light vision
 aura: foul stench
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 42
-HP_extra: 
 HD: 4d10+20
 saves: Fort +1, Ref +2, Will +1
 immune: construct traits, magic
@@ -35,6 +34,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Foul Stench (Ex)

@@ -5,7 +5,7 @@ name: Spiroskek
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 6
 name: Spiroskek
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, tremorsense
 AC: 19, touch 15, flat-footed 14 (dex +4, dodge +1, natural +4)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +10, Will +5
 immune: disease, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Freewheeling Charge (Ex)

@@ -5,7 +5,7 @@ name: Troglodyte Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Troglodyte Priest
 Monster_XP: 800
@@ -21,7 +21,6 @@ senses: darkvision
 aura: stench
 AC: 19, touch 9, flat-footed 19 (armor +4, dex -1, natural +6)
 HP: 30
-HP_extra: 
 HD: 5d8+8
 saves: Fort +7, Ref +0, Will +5
 speed: 20 ft.

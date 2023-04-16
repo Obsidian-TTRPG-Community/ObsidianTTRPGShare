@@ -5,7 +5,7 @@ name: Giant Mantis Shrimp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Giant Mantis Shrimp
 Monster_XP: 6400
@@ -17,7 +17,6 @@ INI: +7
 senses: darkvision, incredible sight
 AC: 26, touch 17, flat-footed 19 (dex +7, natural +9)
 HP: 105
-HP_extra: 
 HD: 14d8+42
 saves: Fort +12, Ref +11, Will +5
 immune: mind-affecting effects

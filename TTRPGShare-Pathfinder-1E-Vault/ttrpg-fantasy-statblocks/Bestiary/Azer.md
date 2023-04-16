@@ -5,7 +5,7 @@ name: Azer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Azer
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision
 AC: 18, touch 11, flat-footed 17 (armor +5, dex +1, natural +2)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +5, Ref +1, Will +4
 immune: fire

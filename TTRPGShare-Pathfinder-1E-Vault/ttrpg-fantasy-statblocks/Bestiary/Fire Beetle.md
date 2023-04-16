@@ -5,7 +5,7 @@ name: Fire Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Fire Beetle
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 12, touch 11, flat-footed 12 (natural +1, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +0, Will +0
 immune: mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, cluster (2-6) or colony (7-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Luminescence (Ex)

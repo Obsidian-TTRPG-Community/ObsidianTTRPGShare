@@ -5,7 +5,7 @@ name: Formian Warrior
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Formian Warrior
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsense, darkvision, hive mind
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +7, Will +4
 resist: sonic 10

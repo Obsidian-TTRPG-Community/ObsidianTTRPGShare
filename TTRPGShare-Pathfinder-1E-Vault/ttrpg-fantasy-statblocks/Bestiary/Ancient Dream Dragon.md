@@ -5,7 +5,7 @@ name: Ancient Dream Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 19
 name: Ancient Dream Dragon
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: dragon senses, dreamsight
 aura: frightful presence
 AC: 38, touch 5, flat-footed 38 (dex -1, natural +33, size -4)
 HP: 337
-HP_extra: 
 HD: 25d12+175
 saves: Fort +21, Ref +15, Will +22
 immune: paralysis, sleep

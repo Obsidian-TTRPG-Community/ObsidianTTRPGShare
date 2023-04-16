@@ -5,7 +5,7 @@ name: Baku Dreamweaver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 11
 name: Baku Dreamweaver
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +25
 senses: darkvision, low-light vision, thoughtsense
 AC: 25, touch 25, flat-footed 18 (dex +7, deflection +8)
 HP: 174
-HP_extra: 
 HD: 12d10+96
 saves: Fort +16, Ref +15, Will +12
 immune: mind-affecting effects, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Consume Dream (Su)

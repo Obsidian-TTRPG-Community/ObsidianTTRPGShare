@@ -5,7 +5,7 @@ name: NPC Furious Crusader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Furious Crusader
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +13
 aura: courage, faith, justice, resolve, righteousness
 AC: 30, touch 15, flat-footed 29 (armor +13, deflection +3, dex +1, natural +2, size +1)
 HP: 139
-HP_extra: 
 HD: 18d10+36
 saves: Fort +18, Ref +12, Will +17
 saves_other: +2 vs. fear

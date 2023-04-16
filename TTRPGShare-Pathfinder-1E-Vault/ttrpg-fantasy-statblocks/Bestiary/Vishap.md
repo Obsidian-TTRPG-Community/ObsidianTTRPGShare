@@ -5,7 +5,7 @@ name: Vishap
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 19
 name: Vishap
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: frightful presence
 AC: 35, touch 4, flat-footed 33 (dex +2, natural +31, size -8)
 HP: 362
-HP_extra: 
 HD: 25d12+200
 saves: Fort +22, Ref +16, Will +16
 immune: poison, paralysis, sleep
@@ -45,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Ley Swim (Su)

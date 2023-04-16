@@ -5,7 +5,7 @@ name: Cave Blight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 19
 name: Cave Blight
 Monster_XP: 204800
@@ -43,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Irradiate Domain (Su)

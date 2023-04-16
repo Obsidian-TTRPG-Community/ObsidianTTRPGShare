@@ -5,7 +5,7 @@ name: Medium Ice Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Medium Ice Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, snow vision
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +4, Will +1
 immune: cold, elemental traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land or water (Plane of Water)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

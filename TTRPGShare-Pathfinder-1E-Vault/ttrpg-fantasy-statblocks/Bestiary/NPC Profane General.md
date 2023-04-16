@@ -5,7 +5,7 @@ name: NPC Profane General
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Profane General
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +0
 perception: +16
 AC: 22, touch 10, flat-footed 22 (armor +11, natural +1)
 HP: 121
-HP_extra: 
 HD: 13d8+59
 saves: Fort +13, Ref +5, Will +12
 DR: 10/adamantine

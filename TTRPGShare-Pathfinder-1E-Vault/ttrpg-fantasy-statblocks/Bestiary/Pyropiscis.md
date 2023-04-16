@@ -5,7 +5,7 @@ name: Pyropiscis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 95: Anvil of Fire"
+source: "Pathfinder No. 95: Anvil of Fire"
 Monster_CR: 8
 name: Pyropiscis
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision, tremorsense
 AC: 22, touch 11, flat-footed 20 (armor +11, dex +2, size -1)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +11, Ref +9, Will +5
 immune: fire
@@ -44,6 +43,7 @@ ecology:
     desc: warm mountains or underground
   - name: Organisation
     desc: solitary, pack (3-6), or school (12-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hibernation (Ex)

@@ -5,7 +5,7 @@ name: Shimmerwing Dragonfly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Shimmerwing Dragonfly
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +2, Will +1
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm swamps
   - name: Organisation
     desc: solitary, pair, or flight (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

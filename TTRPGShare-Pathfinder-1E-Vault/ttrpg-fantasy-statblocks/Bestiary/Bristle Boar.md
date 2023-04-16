@@ -5,7 +5,7 @@ name: Bristle Boar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 3
 name: Bristle Boar
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +6, Will +2
 defensive_abilities: ferocity
@@ -34,6 +33,7 @@ ecology:
     desc: any plains or hills
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spines (Ex)

@@ -5,7 +5,7 @@ name: NPC Graceful Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Graceful Slayer
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +23
 senses: low-light vision
 AC: 20, touch 13, flat-footed 15 (armor +7, dex +5, rage -2)
 HP: 218
-HP_extra: 
 HD: 17d12+102
 saves: Fort +17, Ref +12, Will +11
 saves_other: +6 vs. enchantments

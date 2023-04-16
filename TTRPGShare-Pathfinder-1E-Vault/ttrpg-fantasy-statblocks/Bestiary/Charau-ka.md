@@ -5,7 +5,7 @@ name: Charau-ka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 2
 name: Charau-ka
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +4, Will +2
 speed: 30 ft., climb 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, patrol (3-8), or tribe (9-20 plus 1-3 dire apes, 1-3 fighter sub-chieftains of 2nd level, 1 cleric of Angazhan of 3rd-5th level, and 1 chieftain of any class of 4th-8th level)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Shrieking Frenzy (Su)

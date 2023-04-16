@@ -5,7 +5,7 @@ name: Foo Lion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Foo Lion
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 17, touch 12, flat-footed 14 (dex +3, natural +5, size -1)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +7, Will +4
 immune: poison, disease, paralysis, sleep
@@ -46,6 +45,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

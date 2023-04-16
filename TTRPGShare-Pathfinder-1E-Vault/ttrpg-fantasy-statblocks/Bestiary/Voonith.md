@@ -5,7 +5,7 @@ name: Voonith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Voonith
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 17, touch 14, flat-footed 14 (dex +3, natural +3, size +1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +7, Will +2
 speed: 30 ft., swim 50 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any rivers or marshes
   - name: Organisation
     desc: solitary, pair, or clutch (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blood-Freezing Howl (Su)

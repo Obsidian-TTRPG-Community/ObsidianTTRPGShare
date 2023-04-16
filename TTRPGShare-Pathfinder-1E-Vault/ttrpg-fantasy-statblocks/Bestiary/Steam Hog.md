@@ -5,7 +5,7 @@ name: Steam Hog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Steam Hog
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 19, touch 8, flat-footed 19 (armor +5, natural +6, size -2)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +10, Ref +6, Will +6
 resist: fire 15

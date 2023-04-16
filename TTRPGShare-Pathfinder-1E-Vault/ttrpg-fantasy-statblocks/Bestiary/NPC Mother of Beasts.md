@@ -5,7 +5,7 @@ name: NPC Mother of Beasts
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Mother of Beasts
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +3
 perception: +14
 AC: 21, touch 10, flat-footed 21 (armor +11, deflection +1, dex -1)
 HP: 78
-HP_extra: 
 HD: 10d8+30
 saves: Fort +10, Ref +3, Will +12
 saves_other: +2 vs. good opponents

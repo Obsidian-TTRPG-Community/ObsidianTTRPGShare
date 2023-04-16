@@ -5,7 +5,7 @@ name: Rukh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Rukh
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +32
 senses: low-light vision
 AC: 23, touch 8, flat-footed 21 (dex +2, natural +15, size -4)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +11, Will +7
 speed: 40 ft., fly 80 ft. (average)
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts or mountains
   - name: Organisation
     desc: solitary, pair, or nest (2 adults and 1d4 juveniles)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 4

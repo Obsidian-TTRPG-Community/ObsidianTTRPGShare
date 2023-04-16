@@ -5,7 +5,7 @@ name: NPC Technic League Hireling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 3
 name: NPC Technic League Hireling
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +4
 perception: +8
 AC: 18, touch 14, flat-footed 14 (armor +3, dex +4, shield +1)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +9, Will +1
 defensive_abilities: evasion, trap sense +1, uncanny dodge

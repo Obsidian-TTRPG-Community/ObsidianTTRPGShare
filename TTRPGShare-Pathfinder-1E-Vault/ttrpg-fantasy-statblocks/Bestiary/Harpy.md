@@ -5,7 +5,7 @@ name: Harpy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Harpy
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 16, touch 13, flat-footed 13 (armor +2, dex +2, dodge +1, natural +1)
 HP: 38
-HP_extra: 
 HD: 7d10
 saves: Fort +4, Ref +7, Will +6
 speed: 20 ft., fly 80 ft. (average)

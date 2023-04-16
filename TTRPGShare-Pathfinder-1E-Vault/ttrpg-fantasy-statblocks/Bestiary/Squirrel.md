@@ -5,7 +5,7 @@ name: Squirrel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Squirrel
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 18, touch 18, flat-footed 14 (dex +4, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +6, Will +1
 speed: 20 ft., climb 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or scurry (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

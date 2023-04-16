@@ -5,7 +5,7 @@ name: Young Dream Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Young Dream Dragon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +22
 senses: dragon senses, dreamsight
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 104
-HP_extra: 
 HD: 11d12+33
 saves: Fort +10, Ref +8, Will +9
 immune: paralysis, sleep

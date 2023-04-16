@@ -5,7 +5,7 @@ name: Zuvembie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Zuvembie
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 15, touch 13, flat-footed 12 (dex +2, dodge +1, natural +2)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +3, Ref +3, Will +6
 immune: cold, undead traits

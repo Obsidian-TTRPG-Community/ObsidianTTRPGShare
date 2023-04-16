@@ -5,7 +5,7 @@ name: Oceanid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Oceanid
 Monster_XP: 3200
@@ -42,6 +42,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Water Dependency (Ex)

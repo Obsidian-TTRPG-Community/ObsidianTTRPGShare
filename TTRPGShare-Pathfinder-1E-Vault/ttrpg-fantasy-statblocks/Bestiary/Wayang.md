@@ -5,7 +5,7 @@ name: Wayang
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Wayang
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 8
-HP_extra: 
 HD: 1d6+2
 saves: Fort +1, Ref +3, Will +1
 saves_other: +2 vs. shadow spells

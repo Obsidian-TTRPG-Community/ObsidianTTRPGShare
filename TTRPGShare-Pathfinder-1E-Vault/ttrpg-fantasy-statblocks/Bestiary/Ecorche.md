@@ -5,7 +5,7 @@ name: Ecorche
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 16
 name: Ecorche
 Monster_XP: 76800
@@ -42,6 +42,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Seize Skin (Su)

@@ -5,7 +5,7 @@ name: Gravedragger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 89: Palace of Fallen Stars"
+source: "Pathfinder No. 89: Palace of Fallen Stars"
 Monster_CR: 15
 name: Gravedragger
 Monster_XP: 51200

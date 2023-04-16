@@ -5,7 +5,7 @@ name: Phasmadaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Phasmadaemon
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision, deathwatch, true seeing
 aura: frightful presence
 AC: 32, touch 17, flat-footed 24 (dex +7, dodge +1, natural +15, size -1)
 HP: 264
-HP_extra: 
 HD: 23d10+138
 saves: Fort +19, Ref +14, Will +19
 immune: acid, death effects, disease, fear, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or cabal (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Consume Fear (Su)

@@ -5,7 +5,7 @@ name: Giant Squid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Giant Squid
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +22
 senses: low-light vision
 AC: 20, touch 11, flat-footed 17 (dex +3, natural +9, size -2)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +14, Ref +13, Will +5
 defensive_abilities: ink cloud (20-ft. radius)
@@ -38,6 +37,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

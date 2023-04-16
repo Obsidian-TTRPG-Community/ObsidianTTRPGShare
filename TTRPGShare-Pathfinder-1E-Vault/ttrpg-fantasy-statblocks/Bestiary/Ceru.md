@@ -5,7 +5,7 @@ name: Ceru
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 2
 name: Ceru
 Monster_XP: 600
@@ -40,6 +40,7 @@ ecology:
     desc: any urban (Vudra)
   - name: Organisation
     desc: solitary, pair, or litter (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Luckbringer (Su)

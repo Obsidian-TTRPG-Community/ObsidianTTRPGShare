@@ -5,7 +5,7 @@ name: Elder Fire Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Elder Fire Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 26, touch 18, flat-footed 16 (dex +9, dodge +1, natural +8, size -2)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +19, Will +7
 immune: elemental traits, fire

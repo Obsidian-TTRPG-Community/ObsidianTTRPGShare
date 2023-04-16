@@ -5,7 +5,7 @@ name: Orc
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Orc
 Monster_XP: 135
@@ -19,7 +19,6 @@ perception: -1
 senses: darkvision
 AC: 13, touch 10, flat-footed 13 (armor +3)
 HP: 6
-HP_extra: 
 HD: 1d10+1
 saves: Fort +3, Ref +0, Will -1
 defensive_abilities: ferocity

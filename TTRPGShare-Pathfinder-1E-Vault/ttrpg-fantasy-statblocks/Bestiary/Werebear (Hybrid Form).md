@@ -5,7 +5,7 @@ name: Werebear (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Werebear (Hybrid Form)
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 23, touch 11, flat-footed 21 (armor +4, dex +2, natural +8, size -1)
 HP: 46
-HP_extra: 
 HD: 4d10+20
 saves: Fort +6, Ref +6, Will +2
 DR: 10/silver

@@ -5,7 +5,7 @@ name: Kamadan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Kamadan
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 17, touch 12, flat-footed 14 (dex +2, dodge +1, natural +5, size -1)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +6, Will +2
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm plains
   - name: Organisation
     desc: solitary, pair, or pack (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

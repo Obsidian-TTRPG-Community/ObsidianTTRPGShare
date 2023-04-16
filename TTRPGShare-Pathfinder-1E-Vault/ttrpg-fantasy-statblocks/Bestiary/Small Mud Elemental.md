@@ -5,7 +5,7 @@ name: Small Mud Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Small Mud Elemental
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 16, touch 10, flat-footed 16 (dex -1, natural +6, size +1)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +2, Will +0
 immune: acid, elemental traits
@@ -36,6 +35,7 @@ ecology:
     desc: any land or water (Plane of Earth)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

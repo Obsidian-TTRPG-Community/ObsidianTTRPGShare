@@ -5,7 +5,7 @@ name: Daitengu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Daitengu
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, true seeing
 AC: 26, touch 24, flat-footed 21 (dex +5, monk +3, natural +2, wis +6)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +9, Ref +13, Will +14
 immune: disease, mind-affecting effects

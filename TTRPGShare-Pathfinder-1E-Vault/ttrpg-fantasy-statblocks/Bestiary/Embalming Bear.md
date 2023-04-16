@@ -5,7 +5,7 @@ name: Embalming Bear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tears at Bitter Manor"
+source: "Tears at Bitter Manor"
 Monster_CR: 7
 name: Embalming Bear
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 20, touch 8, flat-footed 20 (dex -1, natural +12, size -1)
 HP: 74
-HP_extra: 
 HD: 8d10+30
 saves: Fort +2, Ref +1, Will +2
 immune: construct traits
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

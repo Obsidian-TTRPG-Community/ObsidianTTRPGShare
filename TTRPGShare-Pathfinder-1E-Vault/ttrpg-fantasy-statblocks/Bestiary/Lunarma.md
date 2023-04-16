@@ -5,7 +5,7 @@ name: Lunarma
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Lunarma
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +10
 senses: all-around vision, darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +9, Ref +4, Will +9
 immune: cold, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or hive (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Barbed Carapace (Ex)

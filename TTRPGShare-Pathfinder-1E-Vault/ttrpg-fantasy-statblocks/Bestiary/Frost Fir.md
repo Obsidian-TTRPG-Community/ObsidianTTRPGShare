@@ -5,7 +5,7 @@ name: Frost Fir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 67: The Snows of Summer"
+source: "Pathfinder No. 67: The Snows of Summer"
 Monster_CR: 1
 name: Frost Fir
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: low-light vision
 AC: 13, touch 10, flat-footed 13 (natural +3)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +0, Will +1
 immune: cold, plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: cold and temperate forests
   - name: Organisation
     desc: solitary, pair, stand (3-6), or grove (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Sticky Resin (Ex)

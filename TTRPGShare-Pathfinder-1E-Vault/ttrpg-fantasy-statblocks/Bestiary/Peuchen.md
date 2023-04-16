@@ -5,7 +5,7 @@ name: Peuchen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Peuchen
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, low-light vision, scent
 AC: 24, touch 16, flat-footed 18 (dex +6, natural +8)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +13, Ref +14, Will +9
 speed: 30 ft., fly 50 ft. (good)
@@ -39,6 +38,7 @@ ecology:
     desc: any warm or temperate land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

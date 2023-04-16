@@ -5,7 +5,7 @@ name: Unfettered Phantom
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Unfettered Phantom
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +4, Will +4
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any (Ethereal Plane or Material Plane)
   - name: Organisation
     desc: solitary, pair, or flock (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Incorporeal Step (Su)

@@ -5,7 +5,7 @@ name: NPC Trickster Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Trickster Mage
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision
 AC: 16, touch 14, flat-footed 13 (armor +2, dex +2, dodge +1, size +1)
 HP: 46
-HP_extra: 
 HD: 8d6+16
 saves: Fort +3, Ref +4, Will +10
 saves_other: +2 vs. illusions

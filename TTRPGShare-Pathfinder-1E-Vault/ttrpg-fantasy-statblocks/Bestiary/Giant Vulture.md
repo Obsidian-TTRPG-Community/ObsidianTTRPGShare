@@ -5,7 +5,7 @@ name: Giant Vulture
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Giant Vulture
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +10, Ref +6, Will +3
 saves_other: +4 vs. disease
@@ -39,6 +38,7 @@ ecology:
     desc: warm plains or hills
   - name: Organisation
     desc: solitary, pair, or flock (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Diseased (Ex)

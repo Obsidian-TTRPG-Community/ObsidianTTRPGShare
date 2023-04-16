@@ -5,7 +5,7 @@ name: Tooth Fairy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/4
 name: Tooth Fairy
 Monster_XP: 100
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 5
-HP_extra: 
 HD: 2d6-2
 saves: Fort -1, Ref +5, Will +5
 DR: 2/cold iron
@@ -41,6 +40,7 @@ ecology:
     desc: any urban or plains
   - name: Organisation
     desc: solitary, pair, or gang (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Death Throes (Su)

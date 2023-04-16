@@ -5,7 +5,7 @@ name: Sceaduinar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Sceaduinar
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, lifesense, low-light vision
 AC: 20, touch 16, flat-footed 14 (dex +5, dodge +1, natural +4)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +11, Will +5
 immune: cold, death effects, disease, energy drain, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary or death squad (2-11)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Entropic Flesh (Ex)

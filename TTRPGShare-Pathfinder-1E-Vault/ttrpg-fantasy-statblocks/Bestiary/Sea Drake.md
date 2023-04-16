@@ -5,7 +5,7 @@ name: Sea Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Sea Drake
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 73
-HP_extra: 
 HD: 7d12+28
 saves: Fort +9, Ref +9, Will +5
 immune: electricity, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any coastlines
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ball Lightning Breath (Su)

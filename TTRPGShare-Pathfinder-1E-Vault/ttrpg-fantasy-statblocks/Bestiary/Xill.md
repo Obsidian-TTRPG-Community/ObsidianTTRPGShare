@@ -5,7 +5,7 @@ name: Xill
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Xill
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 21, touch 14, flat-footed 17 (dex +4, natural +5, shield +2)
 HP: 67
-HP_extra: 
 HD: 9d10+18
 saves: Fort +8, Ref +10, Will +6
 SR: 17

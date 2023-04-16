@@ -5,7 +5,7 @@ name: Ichthyocentaur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Ichthyocentaur
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 18, touch 13, flat-footed 15 (dex +3, dodge +1, natural +5, size -1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +5, Ref +8, Will +8
 speed: 5 ft., swim 60 ft.

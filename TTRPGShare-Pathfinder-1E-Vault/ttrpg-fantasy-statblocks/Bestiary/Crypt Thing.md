@@ -5,7 +5,7 @@ name: Crypt Thing
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Crypt Thing
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: fear
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +4, Ref +6, Will +8
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Teleporting Burst (Su)

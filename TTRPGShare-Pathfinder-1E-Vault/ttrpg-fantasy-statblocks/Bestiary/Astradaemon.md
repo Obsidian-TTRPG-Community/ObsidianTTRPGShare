@@ -5,7 +5,7 @@ name: Astradaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Astradaemon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: darkvision, deathwatch, true seeing
 aura: soul siphon
 AC: 29, touch 17, flat-footed 21 (dex +7, dodge +1, natural +12, size -1)
 HP: 212
-HP_extra: 
 HD: 17d10+119
 saves: Fort +12, Ref +17, Will +14
 immune: acid, death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon or Astral Plane)
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devour Soul (Su)

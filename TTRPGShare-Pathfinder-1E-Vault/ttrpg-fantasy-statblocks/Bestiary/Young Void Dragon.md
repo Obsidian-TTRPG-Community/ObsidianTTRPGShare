@@ -5,7 +5,7 @@ name: Young Void Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Young Void Dragon
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +14
 senses: dragon senses, see in darkness
 AC: 22, touch 11, flat-footed 20 (dex +2, natural +11, size -1)
 HP: 95
-HP_extra: 
 HD: 10d12+30
 saves: Fort +10, Ref +9, Will +10
 immune: cold, confusion, insanity effects, paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

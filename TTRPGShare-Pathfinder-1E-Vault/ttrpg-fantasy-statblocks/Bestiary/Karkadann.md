@@ -5,7 +5,7 @@ name: Karkadann
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Karkadann
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, detect evil, detect good, low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +6, Will +6
 immune: disease, poison
@@ -40,6 +39,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or bristle (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Magical Strike (Ex)

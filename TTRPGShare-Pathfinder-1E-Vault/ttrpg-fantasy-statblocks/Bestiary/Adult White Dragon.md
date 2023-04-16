@@ -5,7 +5,7 @@ name: Adult White Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Adult White Dragon
 Monster_XP: 9600
@@ -19,7 +19,6 @@ senses: dragon senses, snow vision
 aura: cold, frightful presence
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 149
-HP_extra: 
 HD: 13d12+65
 saves: Fort +13, Ref +9, Will +10
 immune: cold, paralysis, sleep

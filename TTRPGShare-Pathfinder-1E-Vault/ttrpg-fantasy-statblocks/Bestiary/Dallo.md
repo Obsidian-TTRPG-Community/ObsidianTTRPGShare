@@ -5,7 +5,7 @@ name: Dallo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 1
 name: Dallo
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 14, touch 11, flat-footed 14 (natural +3, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +3, Will +3
 saves_other: +4 vs. ingested poisons
@@ -35,6 +34,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or herd (6-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spit (Ex)

@@ -5,7 +5,7 @@ name: Qaishan Yeti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 7
 name: Qaishan Yeti
 Monster_XP: 3200

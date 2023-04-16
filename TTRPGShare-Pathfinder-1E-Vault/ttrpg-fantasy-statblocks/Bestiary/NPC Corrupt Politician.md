@@ -5,7 +5,7 @@ name: NPC Corrupt Politician
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 4
 name: NPC Corrupt Politician
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +2
 perception: +8
 AC: 13, touch 12, flat-footed 11 (armor +1, dex +2)
 HP: 36
-HP_extra: 
 HD: 5d8+10
 saves: Fort +2, Ref +6, Will +4
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

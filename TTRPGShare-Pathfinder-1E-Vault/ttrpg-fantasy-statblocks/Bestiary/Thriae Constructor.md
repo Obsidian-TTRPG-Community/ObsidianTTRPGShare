@@ -5,7 +5,7 @@ name: Thriae Constructor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Thriae Constructor
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +3
 senses: darkvision
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 218
-HP_extra: 
 HD: 19d10+114
 saves: Fort +12, Ref +11, Will +14
 immune: mind-affecting effects, poison, sonic
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or troop (1 plus 6-15 thriae soldiers)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Encase (Ex)

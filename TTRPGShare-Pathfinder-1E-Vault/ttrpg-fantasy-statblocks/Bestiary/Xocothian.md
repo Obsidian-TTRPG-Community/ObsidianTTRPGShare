@@ -5,7 +5,7 @@ name: Xocothian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Xocothian
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 33
-HP_extra: 
 HD: 6d10
 saves: Fort +5, Ref +5, Will +5
 DR: 5/cold iron
@@ -40,6 +39,7 @@ ecology:
     desc: any (Plane of Air or Plane of Water)
   - name: Organisation
     desc: solitary, pair, or school (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Form of Sea and Sky (Su)

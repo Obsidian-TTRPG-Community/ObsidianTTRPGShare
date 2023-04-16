@@ -5,7 +5,7 @@ name: NPC Griffon Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Griffon Rider
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +15
 senses: low-light vision
 AC: 22, touch 12, flat-footed 20 (armor +7, dex +2, shield +3)
 HP: 94
-HP_extra: 
 HD: 10d10+35
 saves: Fort +11, Ref +7, Will +6
 saves_other: +2 vs. enchantments, +3 vs. fear

@@ -5,7 +5,7 @@ name: Papa Chupar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 7
 name: Papa Chupar
 Monster_XP: 3200
@@ -19,7 +19,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 93
-HP_extra: 
 HD: 11d10+33
 saves: Fort +10, Ref +9, Will +6
 speed: 30 ft., fly 60 ft. (average)

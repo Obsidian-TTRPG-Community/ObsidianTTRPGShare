@@ -5,7 +5,7 @@ name: NPC Daring Bravo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Daring Bravo
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +2
 senses: low-light vision
 AC: 18, touch 14, flat-footed 15 (armor +3, dex +2, dodge +1, shield +1, size +1)
 HP: 21
-HP_extra: 
 HD: 2d10+6
 saves: Fort +5, Ref +2, Will +0
 saves_other: +2 vs. illusions, +1 vs. fear

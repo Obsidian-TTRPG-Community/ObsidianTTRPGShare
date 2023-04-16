@@ -5,7 +5,7 @@ name: Anisydaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 142: Gardens of Gallowspire"
+source: "Pathfinder No. 142: Gardens of Gallowspire"
 Monster_CR: 13
 name: Anisydaemon
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: arcane sight, blindsight, detect good
 aura: worry
 AC: 28, touch 13, flat-footed 24 (natural +15, dex +4, size -1)
 HP: 172
-HP_extra: 
 HD: 15d10+90
 saves: Fort +15, Ref +11, Will +14
 immune: acid, death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or lurk (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Worry (Su)

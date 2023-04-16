@@ -5,7 +5,7 @@ name: Trelmarixian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 27
 name: Trelmarixian
 Monster_XP: 3276800
@@ -43,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary or mounted (Trelmarixian and the Black Horse)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Predecessor’s Rage (Su)

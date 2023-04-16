@@ -5,7 +5,7 @@ name: Kokogiak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 69: Maiden, Mother, Crone"
+source: "Pathfinder No. 69: Maiden, Mother, Crone"
 Monster_CR: 12
 name: Kokogiak
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision, low-light vision
 AC: 25, touch 9, flat-footed 24 (dex +1, natural +16, size -2)
 HP: 172
-HP_extra: 
 HD: 15d10+90
 saves: Fort +15, Ref +10, Will +9
 immune: cold, illusions
@@ -41,6 +40,7 @@ ecology:
     desc: cold coastlines, hills, or plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blizzard Breath (Su)

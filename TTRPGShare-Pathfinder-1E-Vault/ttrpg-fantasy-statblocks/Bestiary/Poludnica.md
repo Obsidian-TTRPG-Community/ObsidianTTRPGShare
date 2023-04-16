@@ -5,7 +5,7 @@ name: Poludnica
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 72: The Witch Queen's Revenge"
+source: "Pathfinder No. 72: The Witch Queen's Revenge"
 Monster_CR: 10
 name: Poludnica
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: sunstroke haze
 AC: 24, touch 20, flat-footed 18 (armor +4, deflection +4, dex +5, dodge +1)
 HP: 119
-HP_extra: 
 HD: 14d6+70
 saves: Fort +11, Ref +14, Will +11
 immune: blindness, exhaustion, fatigue, fire

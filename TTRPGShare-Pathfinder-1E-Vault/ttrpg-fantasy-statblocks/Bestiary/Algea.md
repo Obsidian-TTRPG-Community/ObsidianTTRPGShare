@@ -5,7 +5,7 @@ name: Algea
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Algea
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: darkvision, greater arcane sight, low-light vision, spiritsense
 aura: grief
 AC: 24, touch 24, flat-footed 14 (dex +10, size +4)
 HP: 149
-HP_extra: 
 HD: 13d10+78
 saves: Fort +12, Ref +20, Will +16
 immune: death effects, disease, poison, weapon damage
@@ -44,6 +43,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary or spiral (2-6 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Grief (Su)

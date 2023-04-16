@@ -5,7 +5,7 @@ name: Nuno
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Nuno
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +6
 senses: tremorsense
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 3
-HP_extra: 
 HD: 1d6
 saves: Fort +0, Ref +4, Will +4
 DR: 2/cold iron
@@ -42,6 +41,7 @@ ecology:
     desc: any warm land or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ant Affinity (Su)

@@ -5,7 +5,7 @@ name: Soulpierced
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 132: The Six-Legend Soul"
+source: "Pathfinder No. 132: The Six-Legend Soul"
 Monster_CR: 17
 name: Soulpierced
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +39
 senses: darkvision
 AC: 31, touch 31, flat-footed 18 (deflection +8, dex +12, dodge +1)
 HP: 275
-HP_extra: 
 HD: 22d8+176
 saves: Fort +15, Ref +19, Will +19
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or agony (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Frustrating Touch (Su)

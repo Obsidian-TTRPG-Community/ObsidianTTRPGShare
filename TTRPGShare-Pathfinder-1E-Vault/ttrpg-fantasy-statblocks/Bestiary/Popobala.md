@@ -5,7 +5,7 @@ name: Popobala
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Popobala
 Monster_XP: 51200
@@ -41,6 +41,7 @@ ecology:
     desc: warm coasts or forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Shape (Su)

@@ -5,7 +5,7 @@ name: Skincrawler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1/2
 name: Skincrawler
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 11, touch 11, flat-footed 11 (dex -1, size +2)
 HP: 9
-HP_extra: 
 HD: 1d8+5
 saves: Fort +5, Ref -1, Will -5
 immune: ooze traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or rash (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Attachment (Ex)

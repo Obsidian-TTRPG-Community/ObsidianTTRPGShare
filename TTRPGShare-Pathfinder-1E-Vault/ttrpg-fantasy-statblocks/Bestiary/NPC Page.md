@@ -5,7 +5,7 @@ name: NPC Page
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/3
 name: NPC Page
 Monster_XP: 135
@@ -19,7 +19,6 @@ INI: +2
 perception: +6
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +0, Ref +3, Will +3
 saves_other: +2 vs. fear

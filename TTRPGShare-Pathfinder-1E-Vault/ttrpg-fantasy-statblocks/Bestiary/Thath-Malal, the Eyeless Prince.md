@@ -5,7 +5,7 @@ name: Thath-Malal, the Eyeless Prince
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 13
 name: Thath-Malal, the Eyeless Prince
 Monster_XP: 25600
@@ -19,7 +19,6 @@ perception: +22
 senses: blindsight, trace teleport
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 178
-HP_extra: 
 HD: 17d8+102
 saves: Fort +13, Ref +5, Will +14
 DR: 10/cold iron

@@ -5,7 +5,7 @@ name: Ketesthius
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 13
 name: Ketesthius
 Monster_XP: 25600
@@ -39,6 +39,7 @@ ecology:
     desc: any oceans or coastlines
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Bigger Inside (Su)

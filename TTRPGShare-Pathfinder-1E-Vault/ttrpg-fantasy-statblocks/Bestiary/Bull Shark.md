@@ -5,7 +5,7 @@ name: Bull Shark
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Bull Shark
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: blindsense, keen scent, low-light vision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +5, Will +1
 speed: swim 60 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or school (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

@@ -5,7 +5,7 @@ name: Young Bronze Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Young Bronze Dragon
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +20
 senses: dragon senses
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 95
-HP_extra: 
 HD: 10d12+30
 saves: Fort +10, Ref +8, Will +10
 immune: electricity, paralysis, sleep

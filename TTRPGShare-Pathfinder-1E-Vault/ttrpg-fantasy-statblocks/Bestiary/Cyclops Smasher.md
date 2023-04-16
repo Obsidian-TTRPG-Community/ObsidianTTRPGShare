@@ -5,7 +5,7 @@ name: Cyclops Smasher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 9
 name: Cyclops Smasher
 Monster_XP: 6400

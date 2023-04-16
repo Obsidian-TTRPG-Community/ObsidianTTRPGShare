@@ -5,7 +5,7 @@ name: Hellfire Ignis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 3
 name: Hellfire Ignis
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision
 AC: 16, touch 16, flat-footed 11 (dex +5, size +1)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +9, Will +4
 immune: fire
@@ -40,6 +39,7 @@ ecology:
     desc: any forests or plains
   - name: Organisation
     desc: solitary, gang (2-5), or crew (4-8 plus 1 advanced leader)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Brimstone Essence (Ex)

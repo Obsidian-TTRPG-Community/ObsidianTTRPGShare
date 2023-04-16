@@ -5,7 +5,7 @@ name: NPC Marauder (Viking)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 7
 name: NPC Marauder (Viking)
 Monster_XP: 3200

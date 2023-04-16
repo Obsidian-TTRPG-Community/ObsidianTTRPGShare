@@ -5,7 +5,7 @@ name: Equine Bone Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 10
 name: Equine Bone Golem
 Monster_XP: 9600
@@ -18,7 +18,6 @@ INI: +6
 senses: darkvision, low-light vision
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 118
-HP_extra: 
 HD: 16d10+30
 saves: Fort +5, Ref +7, Will +5
 immune: construct traits, magic

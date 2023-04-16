@@ -5,7 +5,7 @@ name: Thanadaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 13
 name: Thanadaemon
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +25
 senses: darkvision, true seeing
 AC: 27, touch 14, flat-footed 23 (dex +3, dodge +1, natural +13)
 HP: 172
-HP_extra: 
 HD: 15d10+90
 saves: Fort +11, Ref +12, Will +14
 immune: acid, death effects, disease, poison

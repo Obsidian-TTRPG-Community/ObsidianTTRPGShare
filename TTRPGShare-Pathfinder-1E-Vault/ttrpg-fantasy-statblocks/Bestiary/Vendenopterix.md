@@ -5,7 +5,7 @@ name: Vendenopterix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Vendenopterix
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +3, Ref +8, Will +7
 saves_other: +2 vs. enchantments
@@ -45,6 +44,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ability Drain (Su)

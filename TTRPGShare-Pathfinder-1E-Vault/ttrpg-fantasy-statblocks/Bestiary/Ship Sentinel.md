@@ -5,7 +5,7 @@ name: Ship Sentinel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 7
 name: Ship Sentinel
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: +9
 senses: darkvision, low-light vision, ship sight
 AC: 20, touch 14, flat-footed 15 (dex +5, natural +6, size -1)
 HP: 68
-HP_extra: 
 HD: 7d10+30
 saves: Fort +2, Ref +7, Will +8
 immune: construct traits

@@ -5,7 +5,7 @@ name: NPC Death Whisperer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Death Whisperer
 Monster_XP: 153600
@@ -19,7 +19,6 @@ INI: +10
 perception: +23
 AC: 28, touch 18, flat-footed 22 (armor +6, deflection +2, dex +5, dodge +1, natural +2, shield +2)
 HP: 184
-HP_extra: 
 HD: 19d8+95
 saves: Fort +12, Ref +20, Will +12
 defensive_abilities: improved evasion, improved uncanny dodge, trap sense +6

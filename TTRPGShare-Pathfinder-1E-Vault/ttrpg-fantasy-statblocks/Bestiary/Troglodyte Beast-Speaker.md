@@ -5,7 +5,7 @@ name: Troglodyte Beast-Speaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Troglodyte Beast-Speaker
 Monster_XP: 800
@@ -21,7 +21,6 @@ senses: darkvision
 aura: stench
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 35
-HP_extra: 
 HD: 5d8+13
 saves: Fort +8, Ref +3, Will +5
 speed: 30 ft., climb 20 ft.

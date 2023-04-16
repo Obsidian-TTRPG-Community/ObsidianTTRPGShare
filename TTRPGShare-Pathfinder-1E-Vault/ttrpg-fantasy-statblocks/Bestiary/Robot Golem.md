@@ -5,7 +5,7 @@ name: Robot Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 11
 name: Robot Golem
 Monster_XP: 12800
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 27, touch 9, flat-footed 27 (natural +18, size -1)
 HP: 112
-HP_extra: 
 HD: 15d10+30
 saves: Fort +5, Ref +5, Will +5
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Magic (Ex)

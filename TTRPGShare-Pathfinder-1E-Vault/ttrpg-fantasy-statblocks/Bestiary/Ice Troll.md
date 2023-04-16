@@ -5,7 +5,7 @@ name: Ice Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Ice Troll
 Monster_XP: 1200
@@ -40,6 +40,7 @@ ecology:
     desc: cold mountains or underground
   - name: Organisation
     desc: solitary or band (3-6)
+  - name: Treasure
     desc: standard
 sources:
   - name: Bestiary 2

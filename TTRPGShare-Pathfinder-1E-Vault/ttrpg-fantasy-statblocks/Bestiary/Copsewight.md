@@ -5,7 +5,7 @@ name: Copsewight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 11
 name: Copsewight
 Monster_XP: 12800

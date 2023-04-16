@@ -5,7 +5,7 @@ name: Vegepygmy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Vegepygmy
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 16, touch 13, flat-footed 14 (dex +2, natural +3, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +0
 immune: electricity, plant traits

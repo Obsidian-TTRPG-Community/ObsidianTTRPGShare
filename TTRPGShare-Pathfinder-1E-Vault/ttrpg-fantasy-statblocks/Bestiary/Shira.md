@@ -5,7 +5,7 @@ name: Shira
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Shira
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, see in darkness, true seeing
 AC: 27, touch 16, flat-footed 20 (dex +7, natural +11, size -1)
 HP: 150
-HP_extra: 
 HD: 12d10+84
 saves: Fort +11, Ref +15, Will +14
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Consume Essence (Su)

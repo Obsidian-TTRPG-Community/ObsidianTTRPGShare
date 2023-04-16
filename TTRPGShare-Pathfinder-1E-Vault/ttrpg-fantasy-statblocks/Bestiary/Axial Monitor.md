@@ -5,7 +5,7 @@ name: Axial Monitor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 15
 name: Axial Monitor
 Monster_XP: 51200

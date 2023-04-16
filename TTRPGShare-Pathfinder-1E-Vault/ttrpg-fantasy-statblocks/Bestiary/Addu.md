@@ -5,7 +5,7 @@ name: Addu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 15
 name: Addu
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, low-light vision
 AC: 28, touch 10, flat-footed 24 (dex +4, natural +18, size -4)
 HP: 212
-HP_extra: 
 HD: 17d10+119
 saves: Fort +17, Ref +14, Will +9
 immune: poison
@@ -39,6 +38,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Miasmic Breath (Su)

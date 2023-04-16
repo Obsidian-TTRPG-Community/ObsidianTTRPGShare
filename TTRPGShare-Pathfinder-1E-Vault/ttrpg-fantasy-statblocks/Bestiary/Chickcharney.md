@@ -5,7 +5,7 @@ name: Chickcharney
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 3
 name: Chickcharney
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +7, Will +2
 speed: 20 ft., fly 30 ft. (average)
@@ -35,6 +34,7 @@ ecology:
     desc: warm forests, hills, or plains
   - name: Organisation
     desc: solitary or nesting pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blessed Trill (Su)

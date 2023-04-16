@@ -5,7 +5,7 @@ name: Cruciarus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 102: Breaking the Bones of Hell"
+source: "Pathfinder No. 102: Breaking the Bones of Hell"
 Monster_CR: 12
 name: Cruciarus
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision
 AC: 26, touch 26, flat-footed 16 (deflection +6, dex +9, dodge +1)
 HP: 157
-HP_extra: 
 HD: 15d8+90
 saves: Fort +13, Ref +16, Will +14
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or torment (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Pain Touch (Su)

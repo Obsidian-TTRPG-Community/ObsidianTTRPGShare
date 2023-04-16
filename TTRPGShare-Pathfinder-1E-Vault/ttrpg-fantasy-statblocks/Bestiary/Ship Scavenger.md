@@ -5,7 +5,7 @@ name: Ship Scavenger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 5
 name: Ship Scavenger
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +2
 perception: +9
 AC: 17, touch 12, flat-footed 15 (armor +4, dex +2, shield +1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +7, Ref +7, Will +3
 saves_other: +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments

@@ -5,7 +5,7 @@ name: NPC Noble (Noble)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 8
 name: NPC Noble (Noble)
 Monster_XP: 4800
@@ -18,7 +18,6 @@ INI: +2
 perception: +5
 AC: 19, touch 13, flat-footed 16 (armor +5, dex +2, dodge +1, shield +1)
 HP: 60
-HP_extra: 
 HD: 10d8+15
 saves: Fort +5, Ref +6, Will +8
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Megaloceros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Megaloceros
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 16, touch 11, flat-footed 14 (dex +2, natural +5, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +8, Will +3
 speed: 50 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold or temperate forest and plains
   - name: Organisation
     desc: solitary, pair, or herd (3-50)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

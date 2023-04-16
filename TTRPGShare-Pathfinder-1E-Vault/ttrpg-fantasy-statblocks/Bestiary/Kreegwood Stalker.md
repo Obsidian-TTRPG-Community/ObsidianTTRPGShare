@@ -5,7 +5,7 @@ name: Kreegwood Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 3
 name: Kreegwood Stalker
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +6
 senses: low-light vision
 AC: 16, touch 11, flat-footed 15 (armor +2, dex +1, natural +3)
 HP: 34
-HP_extra: 
 HD: 3d10+18
 saves: Fort +8, Ref +4, Will +1
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Hollow One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 112: The Whisper Out of Time"
+source: "Pathfinder No. 112: The Whisper Out of Time"
 Monster_CR: 10
 name: Hollow One
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 26, touch 16, flat-footed 20 (dex +5, dodge +1, natural +10)
 HP: 117
-HP_extra: 
 HD: 15d10+35
 saves: Fort +5, Ref +10, Will +5
 immune: construct traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dread (Su)

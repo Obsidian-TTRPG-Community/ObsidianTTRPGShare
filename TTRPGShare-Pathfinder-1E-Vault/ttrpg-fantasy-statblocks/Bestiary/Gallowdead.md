@@ -5,7 +5,7 @@ name: Gallowdead
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 16
 name: Gallowdead
 Monster_XP: 76800
@@ -18,7 +18,6 @@ senses: darkvision
 aura: whispers
 AC: 31, touch 15, flat-footed 26 (dex +4, dodge +1, natural +16)
 HP: 228
-HP_extra: 
 HD: 24d8+120
 saves: Fort +13, Ref +12, Will +17
 immune: cold, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or plague (3-18)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Whispers (Su)

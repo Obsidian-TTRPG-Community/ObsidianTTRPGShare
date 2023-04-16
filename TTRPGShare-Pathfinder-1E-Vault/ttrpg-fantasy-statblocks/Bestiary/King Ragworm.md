@@ -5,7 +5,7 @@ name: King Ragworm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 124: City in the Deep"
+source: "Pathfinder No. 124: City in the Deep"
 Monster_CR: 13
 name: King Ragworm
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision, tremorsense
 AC: 28, touch 15, flat-footed 19 (dex +9, natural +13, size -4)
 HP: 187
-HP_extra: 
 HD: 15d8+120
 saves: Fort +17, Ref +14, Will +8
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Eversible Pharynx (Ex)

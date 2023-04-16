@@ -5,7 +5,7 @@ name: Shell Sentinel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 98: Turn of the Torrent"
+source: "Pathfinder No. 98: Turn of the Torrent"
 Monster_CR: 5
 name: Shell Sentinel
 Monster_XP: 1600
@@ -43,6 +43,7 @@ ecology:
     desc: any (usually aquatic)
   - name: Organisation
     desc: solitary, pair, or gang (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Discorporate (Su)

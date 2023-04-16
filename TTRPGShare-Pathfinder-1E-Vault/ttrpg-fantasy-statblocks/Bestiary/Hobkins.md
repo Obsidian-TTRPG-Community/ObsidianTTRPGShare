@@ -5,7 +5,7 @@ name: Hobkins
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Hobkins
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 9
-HP_extra: 
 HD: 2d6+2
 saves: Fort +1, Ref +5, Will +4
 DR: 5/cold iron
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, gang (2-5), or infestation (6-30 plus 1 hobkins malefactor)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Collateral Damage (Su)

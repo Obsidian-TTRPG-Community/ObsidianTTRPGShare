@@ -5,7 +5,7 @@ name: Young Umbral Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Young Umbral Dragon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 senses: dragon senses
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 104
-HP_extra: 
 HD: 11d12+33
 saves: Fort +10, Ref +8, Will +10
 immune: cold, death effects, energy drain, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

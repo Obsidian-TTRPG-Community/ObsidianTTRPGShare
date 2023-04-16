@@ -5,7 +5,7 @@ name: Large Mud Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Large Mud Elemental
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, tremorsense
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +7, Will +2
 immune: acid, elemental traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land or water (Plane of Earth)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

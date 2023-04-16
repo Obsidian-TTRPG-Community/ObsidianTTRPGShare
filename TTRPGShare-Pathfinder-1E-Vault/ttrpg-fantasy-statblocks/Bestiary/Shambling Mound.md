@@ -5,7 +5,7 @@ name: Shambling Mound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Shambling Mound
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +5, Will +5
 immune: electricity
@@ -44,6 +43,7 @@ ecology:
     desc: temperate forest or marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Electric Fortitude (Ex)

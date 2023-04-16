@@ -5,7 +5,7 @@ name: Garipan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Academy of Secrets"
+source: "Academy of Secrets"
 Monster_CR: 10
 name: Garipan
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 23, touch 13, flat-footed 20 (dex +2, dodge +1, natural +10)
 HP: 133
-HP_extra: 
 HD: 14d10+56
 saves: Fort +13, Ref +8, Will +11
 immune: poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Material Plane only)
   - name: Organisation
     desc: solitary or brood (4-12)
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

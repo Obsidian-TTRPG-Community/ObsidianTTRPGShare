@@ -5,7 +5,7 @@ name: Urhag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Urhag
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: blindsense, see in darkness
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +4, Ref +2, Will +7
 immune: disease
@@ -40,6 +39,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or coven (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Gnaw into Flesh (Ex)

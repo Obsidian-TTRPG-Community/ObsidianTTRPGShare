@@ -5,7 +5,7 @@ name: NPC Criminal (Street Thug)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Criminal (Street Thug)
 Monster_XP: 400

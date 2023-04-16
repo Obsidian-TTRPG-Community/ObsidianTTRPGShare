@@ -5,7 +5,7 @@ name: Huge Air Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Huge Air Elemental
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 22, touch 18, flat-footed 12 (dex +9, dodge +1, natural +4, size -2)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +11, Ref +16, Will +5
 immune: elemental traits

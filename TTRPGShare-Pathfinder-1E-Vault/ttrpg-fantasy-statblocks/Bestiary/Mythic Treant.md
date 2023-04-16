@@ -5,7 +5,7 @@ name: Mythic Treant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 10
 name: Mythic Treant
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 senses: low-light vision
 AC: 25, touch 7, flat-footed 25 (dex -1, natural +18, size -2)
 HP: 146
-HP_extra: 
 HD: 12d8+92
 saves: Fort +13, Ref +3, Will +10
 immune: plant traits
@@ -45,6 +44,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary or grove (2-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Animate Trees (Sp)

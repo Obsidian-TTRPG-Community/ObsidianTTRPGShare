@@ -5,7 +5,7 @@ name: Eaisge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ire of the Storm"
+source: "Ire of the Storm"
 Monster_CR: 1
 name: Eaisge
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +1, Will +4
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any swamp or water
   - name: Organisation
     desc: solitary, pair, or wreck (3-15)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

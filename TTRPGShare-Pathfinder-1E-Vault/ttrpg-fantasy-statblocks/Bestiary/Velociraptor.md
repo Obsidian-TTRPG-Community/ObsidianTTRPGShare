@@ -5,7 +5,7 @@ name: Velociraptor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Velociraptor
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +6, Will +3
 defensive_abilities: evasion
@@ -39,6 +38,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Leaping Charge (Ex)

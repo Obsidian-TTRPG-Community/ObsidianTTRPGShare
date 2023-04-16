@@ -5,7 +5,7 @@ name: Emperor Walrus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Emperor Walrus
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +16
 senses: low-light vision
 AC: 20, touch 5, flat-footed 20 (dex -1, natural +15, size -4)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +14, Ref +7, Will +8
 speed: 20 ft., swim 60 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, pair, or herd (1-3 and 5-20 walruses)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

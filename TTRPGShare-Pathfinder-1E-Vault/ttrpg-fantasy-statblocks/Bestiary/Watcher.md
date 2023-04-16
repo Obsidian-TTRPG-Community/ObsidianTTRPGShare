@@ -5,7 +5,7 @@ name: Watcher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 22
 name: Watcher
 Monster_XP: 614400
@@ -41,6 +41,7 @@ ecology:
     desc: any (Jandelay)
   - name: Organisation
     desc: solitary or council (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Beacon of Jandelay (Su)

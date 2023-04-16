@@ -5,7 +5,7 @@ name: Coffin Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Coffin Guard
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision
 AC: 18, touch 14, flat-footed 14 (armor +4, dex +4)
 HP: 38
-HP_extra: 
 HD: 4d10+12
 saves: Fort +5, Ref +8, Will +2
 saves_other: +2 vs. enchantments

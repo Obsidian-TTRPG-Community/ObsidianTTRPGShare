@@ -5,7 +5,7 @@ name: Venomroach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 3
 name: Venomroach
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision
 AC: 15, touch 10, flat-footed 14 (dex +1, natural +5, size -1)
 HP: 31
-HP_extra: 
 HD: 3d8+18
 saves: Fort +9, Ref +2, Will +2
 immune: mind-affecting effects
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or intrusion (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

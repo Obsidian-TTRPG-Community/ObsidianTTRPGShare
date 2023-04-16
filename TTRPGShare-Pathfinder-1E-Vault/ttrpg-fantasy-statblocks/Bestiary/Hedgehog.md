@@ -5,7 +5,7 @@ name: Hedgehog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/8
 name: Hedgehog
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 18, touch 17, flat-footed 15 (dex +3, natural +1, size +4)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +0, Ref +5, Will +1
 speed: 20 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: tropical or temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spiny Defense (Ex)

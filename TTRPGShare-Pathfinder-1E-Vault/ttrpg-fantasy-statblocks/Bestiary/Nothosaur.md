@@ -5,7 +5,7 @@ name: Nothosaur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 5
 name: Nothosaur
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +9, Ref +6, Will +4
 speed: 20 ft., swim 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sprint (Ex)

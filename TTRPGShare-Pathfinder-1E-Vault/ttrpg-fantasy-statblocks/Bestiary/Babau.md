@@ -5,7 +5,7 @@ name: Babau
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Babau
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, see invisibility
 AC: 19, touch 11, flat-footed 18 (dex +1, natural +8)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +10, Ref +6, Will +5
 immune: electricity, poison

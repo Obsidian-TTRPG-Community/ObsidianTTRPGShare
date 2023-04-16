@@ -5,7 +5,7 @@ name: Aurumvorax
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Aurumvorax
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision, scent
 AC: 23, touch 15, flat-footed 19 (dex +4, natural +8, size +1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +14, Ref +12, Will +7
 immune: poison
@@ -38,6 +37,7 @@ ecology:
     desc: temperate plains, hills, or forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Grab (Ex)

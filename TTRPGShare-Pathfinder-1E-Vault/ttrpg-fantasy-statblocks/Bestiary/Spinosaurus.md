@@ -5,7 +5,7 @@ name: Spinosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Spinosaurus
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +25
 senses: low-light vision, scent
 AC: 24, touch 8, flat-footed 22 (dex +2, natural +16, size -4)
 HP: 170
-HP_extra: 
 HD: 20d8+80
 saves: Fort +16, Ref +16, Will +9
 speed: 40 ft., swim 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm forests or swamps
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

@@ -5,7 +5,7 @@ name: Zealot Wraith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 7
 name: Zealot Wraith
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 18, touch 18, flat-footed 13 (deflection +3, dex +4, dodge +1)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +6, Ref +7, Will +10
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or conclave (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Curse of Sorrowful Wasting (Su)

@@ -5,7 +5,7 @@ name: Styracosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Styracosaurus
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +10, Ref +6, Will +5
 defensive_abilities: ferocity
@@ -37,6 +36,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Reflexive Strike (Ex)

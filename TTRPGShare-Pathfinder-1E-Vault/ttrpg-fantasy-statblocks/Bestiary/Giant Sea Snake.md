@@ -5,7 +5,7 @@ name: Giant Sea Snake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 7
 name: Giant Sea Snake
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 20, touch 10, flat-footed 18 (dex +2, natural +10, size -2)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +11, Ref +10, Will +5
 speed: 30 ft., climb 20 ft., swim 40 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

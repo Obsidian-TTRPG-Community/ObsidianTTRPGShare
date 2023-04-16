@@ -5,7 +5,7 @@ name: Grendler Red-Chains
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 11
 name: Grendler Red-Chains
 Monster_XP: 12800

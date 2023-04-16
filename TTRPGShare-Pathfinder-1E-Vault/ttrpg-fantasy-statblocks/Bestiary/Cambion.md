@@ -5,7 +5,7 @@ name: Cambion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Cambion
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (armor +3, dex +1, natural +1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +2, Will +4
 immune: electricity, poison

@@ -5,7 +5,7 @@ name: NPC Courtesan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Courtesan
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +2
 perception: +13
 AC: 15, touch 15, flat-footed 12 (deflection +2, dex +2, dodge +1)
 HP: 81
-HP_extra: 
 HD: 12d8+24
 saves: Fort +6, Ref +10, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

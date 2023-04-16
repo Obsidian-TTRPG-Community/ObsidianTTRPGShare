@@ -5,7 +5,7 @@ name: Apostle Kyton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 12
 name: Apostle Kyton
 Monster_XP: 19200

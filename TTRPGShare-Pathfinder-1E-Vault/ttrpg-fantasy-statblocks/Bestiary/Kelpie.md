@@ -5,7 +5,7 @@ name: Kelpie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Kelpie
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 38
-HP_extra: 
 HD: 7d6+14
 saves: Fort +4, Ref +8, Will +6
 resist: fire 10
@@ -38,6 +37,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or shoal (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Captivating Lure (Su)

@@ -5,7 +5,7 @@ name: Mobat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Mobat
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: blindsense, low-light vision
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +6, Will +2
 speed: 20 ft., fly 40 ft. (good)
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm forests, hills, or underground
   - name: Organisation
     desc: solitary or colony (2-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Screech (Su)

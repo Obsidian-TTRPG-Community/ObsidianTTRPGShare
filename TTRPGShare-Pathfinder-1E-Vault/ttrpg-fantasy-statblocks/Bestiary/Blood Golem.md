@@ -5,7 +5,7 @@ name: Blood Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Blood Golem
 Monster_XP: 2400
@@ -16,7 +16,6 @@ INI: +4
 senses: blindsight, darkvision, low-light vision
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 64
-HP_extra: 
 HD: 8d10+20
 saves: Fort +2, Ref +6, Will +4
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Drain (Su)

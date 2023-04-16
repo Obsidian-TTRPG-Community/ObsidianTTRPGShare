@@ -5,7 +5,7 @@ name: Xiao
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Xiao
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, low-light vision, scent
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +6, Will +1
 speed: 30 ft., fly 30 ft. (good)

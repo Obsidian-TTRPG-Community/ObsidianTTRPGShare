@@ -5,7 +5,7 @@ name: Blighted Fey (Satyr)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 6
 name: Blighted Fey (Satyr)
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +20
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (dex +2, dodge +1, natural +7)
 HP: 76
-HP_extra: 
 HD: 8d8+40
 saves: Fort +6, Ref +8, Will +8
 immune: disease, paralysis, poison, polymorph

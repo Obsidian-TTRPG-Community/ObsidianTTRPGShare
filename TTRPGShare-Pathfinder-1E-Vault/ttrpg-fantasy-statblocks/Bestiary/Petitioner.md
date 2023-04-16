@@ -5,7 +5,7 @@ name: Petitioner
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Petitioner
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 10, touch 10, flat-footed 10
 HP: 16
-HP_extra: 
 HD: 2d10+5
 saves: Fort +4, Ref +3, Will +0
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, group (3-12), or army (13 or more)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Petitioner Traits

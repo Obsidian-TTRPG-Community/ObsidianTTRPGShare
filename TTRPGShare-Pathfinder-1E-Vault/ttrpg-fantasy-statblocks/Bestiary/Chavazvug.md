@@ -5,7 +5,7 @@ name: Chavazvug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 22
 name: Chavazvug
 Monster_XP: 614400
@@ -45,6 +45,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Boiling Spray (Su)

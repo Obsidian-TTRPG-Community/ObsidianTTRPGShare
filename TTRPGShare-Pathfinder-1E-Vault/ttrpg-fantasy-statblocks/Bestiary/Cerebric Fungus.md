@@ -5,7 +5,7 @@ name: Cerebric Fungus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Cerebric Fungus
 Monster_XP: 800
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Otherworldly Mind (Ex)

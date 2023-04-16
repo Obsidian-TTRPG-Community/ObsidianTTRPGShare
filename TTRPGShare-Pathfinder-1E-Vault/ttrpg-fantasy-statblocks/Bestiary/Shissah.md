@@ -5,7 +5,7 @@ name: Shissah
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Qadira, Jewel of the East"
+source: "Qadira, Jewel of the East"
 Monster_CR: 4
 name: Shissah
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: desert senses, low-light vision, scent
 AC: 17, touch 14, flat-footed 12 (dex +5, natural +3, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +8, Ref +9, Will +3
 speed: 60 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or herd (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Desert Dweller (Ex)

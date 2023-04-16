@@ -5,7 +5,7 @@ name: Bramble Throne
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 132: The Six-Legend Soul"
+source: "Pathfinder No. 132: The Six-Legend Soul"
 Monster_CR: 16
 name: Bramble Throne
 Monster_XP: 76800
@@ -18,7 +18,6 @@ senses: low-light vision, thoughtsense, tremorsense
 aura: supplication
 AC: 30, touch 14, flat-footed 24 (dex +6, natural +16, size -2)
 HP: 230
-HP_extra: 
 HD: 20d8+140
 saves: Fort +19, Ref +12, Will +12
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Puppet Ruler (Su)

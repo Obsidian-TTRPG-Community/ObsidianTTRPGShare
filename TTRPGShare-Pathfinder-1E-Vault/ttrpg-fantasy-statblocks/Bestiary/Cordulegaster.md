@@ -5,7 +5,7 @@ name: Cordulegaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 98: Turn of the Torrent"
+source: "Pathfinder No. 98: Turn of the Torrent"
 Monster_CR: 6
 name: Cordulegaster
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +4, Will +8
 immune: waters of the River Styx
@@ -42,6 +41,7 @@ ecology:
     desc: any freshwater (River Styx)
   - name: Organisation
     desc: solitary or cluster (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Extending Jaw (Ex)

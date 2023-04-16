@@ -5,7 +5,7 @@ name: Tikbalang
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Tikbalang
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision, low-light vision, scent
 AC: 22, touch 13, flat-footed 18 (dex +3, dodge +1, natural +9, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +10, Ref +11, Will +11
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm jungles or forests
   - name: Organisation
     desc: solitary, pair, or gang (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spines (Ex)

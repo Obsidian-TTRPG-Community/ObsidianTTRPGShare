@@ -5,7 +5,7 @@ name: Festering Ulunat (The Unholy First)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
+source: "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
 Monster_CR: 24
 name: Festering Ulunat (The Unholy First)
 Monster_XP: 1228800
@@ -43,6 +43,7 @@ ecology:
     desc: any (Sothis)
   - name: Organisation
     desc: unique
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Crush (Ex)

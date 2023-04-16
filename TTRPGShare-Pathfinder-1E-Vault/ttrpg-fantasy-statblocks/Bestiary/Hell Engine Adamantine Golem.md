@@ -5,7 +5,7 @@ name: Hell Engine Adamantine Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 20
 name: Hell Engine Adamantine Golem
 Monster_XP: 307200
@@ -39,6 +39,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 sources:
   - name: Construct Handbook

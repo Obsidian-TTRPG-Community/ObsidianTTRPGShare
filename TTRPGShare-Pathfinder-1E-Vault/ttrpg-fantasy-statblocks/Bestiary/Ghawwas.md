@@ -5,7 +5,7 @@ name: Ghawwas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Ghawwas
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, detect good, detect magic, see in darkness
 AC: 26, touch 11, flat-footed 24 (dex +2, natural +15, size -1)
 HP: 161
-HP_extra: 
 HD: 14d10+84
 saves: Fort +10, Ref +13, Will +11
 immune: fire, poison
@@ -45,6 +44,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Boiling Sea (Su)

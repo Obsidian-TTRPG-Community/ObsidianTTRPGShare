@@ -5,7 +5,7 @@ name: Manitou
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 15
 name: Manitou
 Monster_XP: 51200
@@ -45,6 +45,7 @@ ecology:
     desc: any plains or forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Positive Energy Aura (Su)

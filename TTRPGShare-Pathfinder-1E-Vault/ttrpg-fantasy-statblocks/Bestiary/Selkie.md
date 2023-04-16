@@ -5,7 +5,7 @@ name: Selkie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Selkie
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, scent
 AC: 18, touch 13, flat-footed 15 (dex +3, natural +5)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +4, Ref +8, Will +5
 resist: cold 10
@@ -38,6 +37,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, pair, or pack (3-14)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Echo of Reason (Su)

@@ -5,7 +5,7 @@ name: Nixie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Nixie
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 9
-HP_extra: 
 HD: 2d6+2
 saves: Fort +1, Ref +6, Will +4
 DR: 5/cold iron

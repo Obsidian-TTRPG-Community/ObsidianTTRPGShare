@@ -5,7 +5,7 @@ name: Rust-Risen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 86: Lords of Rust"
+source: "Pathfinder No. 86: Lords of Rust"
 Monster_CR: 2
 name: Rust-Risen
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +2, Will +4
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Absorb Electricity (Ex)

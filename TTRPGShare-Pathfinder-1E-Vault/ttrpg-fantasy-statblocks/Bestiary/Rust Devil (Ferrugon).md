@@ -5,7 +5,7 @@ name: Rust Devil (Ferrugon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 101: The Kintargo Contract"
+source: "Pathfinder No. 101: The Kintargo Contract"
 Monster_CR: 12
 name: Rust Devil (Ferrugon)
 Monster_XP: 19200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or company (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

@@ -5,7 +5,7 @@ name: Duergar Tyrant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 3
 name: Duergar Tyrant
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, armor +5)
 HP: 37
-HP_extra: 
 HD: 3d8+12
 saves: Fort +7, Ref +4, Will +3
 saves_other: +2 vs. spells or +4 vs. psychic spells

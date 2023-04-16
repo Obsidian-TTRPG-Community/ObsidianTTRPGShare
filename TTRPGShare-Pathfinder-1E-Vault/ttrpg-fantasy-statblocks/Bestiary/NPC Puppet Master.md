@@ -5,7 +5,7 @@ name: NPC Puppet Master
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Puppet Master
 Monster_XP: 153600
@@ -20,7 +20,6 @@ perception: +24
 senses: low-light vision
 AC: 24, touch 16, flat-footed 21 (armor +4, deflection +3, dex +2, dodge +1, natural +4)
 HP: 139
-HP_extra: 
 HD: 19d6+70
 saves: Fort +13, Ref +12, Will +17
 saves_other: +2 vs. enchantments, +4 vs. mind-affecting

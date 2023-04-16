@@ -5,7 +5,7 @@ name: Giant Starfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Giant Starfish
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 104
-HP_extra: 
 HD: 11d8+55
 saves: Fort +12, Ref +4, Will +3
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any coastlines or oceans
   - name: Organisation
     desc: solitary, pair, or cluster (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Firm Grip (Ex)

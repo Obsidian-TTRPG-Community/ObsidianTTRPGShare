@@ -5,7 +5,7 @@ name: NPC Initiate
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Initiate
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +0
 perception: +1
 AC: 12, touch 10, flat-footed 12 (armor +2)
 HP: 16
-HP_extra: 
 HD: 3d6+6
 saves: Fort +4, Ref +1, Will +4
 saves_other: +2 vs. good

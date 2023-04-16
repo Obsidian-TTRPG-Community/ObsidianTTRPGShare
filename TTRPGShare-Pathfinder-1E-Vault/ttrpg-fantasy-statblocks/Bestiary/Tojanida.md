@@ -5,7 +5,7 @@ name: Tojanida
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Tojanida
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +14
 senses: all-around vision, darkvision
 AC: 21, touch 12, flat-footed 19 (dex +1, dodge +1, natural +9)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +6, Will +3
 resist: electricity 10, fire 10
@@ -41,6 +40,7 @@ ecology:
     desc: any water (Plane of Water)
   - name: Organisation
     desc: solitary, pair, clutch (3-6), or cult (1 tojanida plus 2-12 humanoid followers)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ink Cloud (Ex)

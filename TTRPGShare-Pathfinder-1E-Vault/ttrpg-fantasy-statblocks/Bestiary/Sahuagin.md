@@ -5,7 +5,7 @@ name: Sahuagin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Sahuagin
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: blindsense, darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +4, Ref +4, Will +4
 weak: light blindness

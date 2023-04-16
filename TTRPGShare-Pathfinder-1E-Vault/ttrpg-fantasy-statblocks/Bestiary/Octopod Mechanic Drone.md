@@ -5,7 +5,7 @@ name: Octopod Mechanic Drone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 13
 name: Octopod Mechanic Drone
 Monster_XP: 25600
@@ -44,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Crew Boss (Ex)

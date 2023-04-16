@@ -5,7 +5,7 @@ name: Tiger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Tiger
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +8, Ref +7, Will +3
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

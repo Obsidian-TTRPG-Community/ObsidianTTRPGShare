@@ -5,7 +5,7 @@ name: Lapsudaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 106: For Queen and Empire"
+source: "Pathfinder No. 106: For Queen and Empire"
 Monster_CR: 14
 name: Lapsudaemon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: blindsense, darkvision
 aura: frightful presence
 AC: 29, touch 24, flat-footed 18 (deflection +3, dex +10, dodge +1, natural +5)
 HP: 199
-HP_extra: 
 HD: 19d10+95
 saves: Fort +11, Ref +21, Will +15
 immune: acid, bludgeoning, death effects, disease, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary or storm (2-11)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Constant Motion (Su)

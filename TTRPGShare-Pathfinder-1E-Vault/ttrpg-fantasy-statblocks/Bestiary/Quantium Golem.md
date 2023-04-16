@@ -5,7 +5,7 @@ name: Quantium Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 20
 name: Quantium Golem
 Monster_XP: 307200
@@ -16,7 +16,6 @@ INI: -2
 senses: darkvision, link, low-light vision
 AC: 37, touch 4, flat-footed 37 (dex -2, natural +33, size -4)
 HP: 375
-HP_extra: 
 HD: 30d10+210
 saves: Fort +10, Ref +8, Will +10
 immune: construct traits, magic

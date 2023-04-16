@@ -5,7 +5,7 @@ name: Ancient Gravedigger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 10
 name: Ancient Gravedigger
 Monster_XP: 9600
@@ -19,7 +19,6 @@ perception: +17
 senses: darkvision
 AC: 22, touch 14, flat-footed 18 (armor +4, deflection +1, dex +4, natural +3)
 HP: 112
-HP_extra: 
 HD: 12d8+58
 saves: Fort +8, Ref +8, Will +13
 immune: undead traits

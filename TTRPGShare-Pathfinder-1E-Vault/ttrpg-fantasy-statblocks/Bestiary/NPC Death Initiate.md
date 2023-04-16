@@ -5,7 +5,7 @@ name: NPC Death Initiate
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Death Initiate
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +5
 perception: +18
 AC: 25, touch 21, flat-footed 19 (armor +2, deflection +1, dex +5, dodge +1, monk +2, natural +2, wis +2)
 HP: 88
-HP_extra: 
 HD: 9d8+4d8+22
 saves: Fort +9, Ref +14, Will +10
 saves_other: +2 vs. enchantments or poison

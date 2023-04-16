@@ -5,7 +5,7 @@ name: Hobgoblin Paragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 10
 name: Hobgoblin Paragon
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 22, touch 20, flat-footed 17 (armor +2, deflection +1, dex +4, dodge +1, monk +2, wis +2)
 HP: 119
-HP_extra: 
 HD: 11d8+66
 saves: Fort +13, Ref +13, Will +11
 saves_other: +2 vs. enchantments

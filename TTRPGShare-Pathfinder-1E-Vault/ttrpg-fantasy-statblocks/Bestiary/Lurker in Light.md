@@ -5,7 +5,7 @@ name: Lurker in Light
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Lurker in Light
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +16
 senses: low-light vision
 AC: 18, touch 15, flat-footed 14 (dex +4, natural +3, size +1)
 HP: 44
-HP_extra: 
 HD: 8d6+16
 saves: Fort +4, Ref +10, Will +9
 immune: blindness

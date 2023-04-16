@@ -5,7 +5,7 @@ name: Lemming
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Lemming
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +2, Ref +3, Will +1
 speed: 15 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: cold plains
   - name: Organisation
     desc: solitary, pair, or slice (3-30)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

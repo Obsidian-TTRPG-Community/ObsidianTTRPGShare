@@ -5,7 +5,7 @@ name: Mordiggian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 110: The Thrushmoor Terror"
+source: "Pathfinder No. 110: The Thrushmoor Terror"
 Monster_CR: 30
 name: Mordiggian
 Monster_XP: 9830400
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Absorb Light (Su)

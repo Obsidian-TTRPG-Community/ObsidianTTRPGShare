@@ -5,7 +5,7 @@ name: Wereboar (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Wereboar (Hybrid Form)
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 14, touch 9, flat-footed 13 (armor +3, dex +1, natural +2, rage -2)
 HP: 30
-HP_extra: 
 HD: 2d12+17
 saves: Fort +8, Ref +1, Will +4
 DR: 10/silver

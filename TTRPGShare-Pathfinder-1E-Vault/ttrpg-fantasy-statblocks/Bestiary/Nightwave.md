@@ -5,7 +5,7 @@ name: Nightwave
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 20
 name: Nightwave
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: darksense, darkvision, detect magic, low-light vision
 aura: blackest depths, desecrating aura
 AC: 36, touch 5, flat-footed 33 (dex +3, natural +31, size -8)
 HP: 391
-HP_extra: 
 HD: 29d8+261
 saves: Fort +18, Ref +16, Will +25
 immune: cold, undead traits
@@ -45,6 +44,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blackest Depths (Su)

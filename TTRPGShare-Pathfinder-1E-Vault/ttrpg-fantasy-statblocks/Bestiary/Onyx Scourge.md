@@ -5,7 +5,7 @@ name: Onyx Scourge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 120: Vault of the Onyx Citadel"
+source: "Pathfinder No. 120: Vault of the Onyx Citadel"
 Monster_CR: 16
 name: Onyx Scourge
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +27
 senses: darkvision, see in darkness, tremorsense
 AC: 30, touch 10, flat-footed 28 (dex +2, natural +20, size -2)
 HP: 231
-HP_extra: 
 HD: 22d10+110
 saves: Fort +18, Ref +11, Will +15
 immune: death effects, elemental traits, energy drain, negative energy
@@ -40,6 +39,7 @@ ecology:
     desc: any underground (Plane of Earth)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Channel Negative Energy (Su)

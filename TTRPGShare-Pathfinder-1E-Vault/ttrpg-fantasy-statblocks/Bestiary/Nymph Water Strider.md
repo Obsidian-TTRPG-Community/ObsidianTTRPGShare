@@ -5,7 +5,7 @@ name: Nymph Water Strider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/4
 name: Nymph Water Strider
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense, tremorsense_other
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +2, Will +0
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or colony (2-9)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 4

@@ -5,7 +5,7 @@ name: Greater Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Greater Earth Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, tremorsense
 AC: 21, touch 7, flat-footed 21 (dex -1, natural +14, size -2)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +13, Ref +3, Will +8
 immune: elemental traits

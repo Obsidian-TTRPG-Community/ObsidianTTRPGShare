@@ -5,7 +5,7 @@ name: Deathtrap Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Deathtrap Ooze
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: -5
 senses: blindsight
 AC: 10, touch 5, flat-footed 10 (dex -4, natural +5, size -1)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +10, Ref +0, Will -1
 immune: acid, ooze traits
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

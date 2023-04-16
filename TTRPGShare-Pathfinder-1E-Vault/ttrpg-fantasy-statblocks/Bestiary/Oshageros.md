@@ -5,7 +5,7 @@ name: Oshageros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Oshageros
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +24
 senses: blindsense, darkvision, detect law
 AC: 28, touch 18, flat-footed 20 (dex +7, dodge +1, natural +10)
 HP: 195
-HP_extra: 
 HD: 17d10+102
 saves: Fort +13, Ref +19, Will +16
 immune: acid, polymorph effects
@@ -42,6 +41,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary, pair, or school (3-8 oshageroses)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Draining Tentacles (Ex)

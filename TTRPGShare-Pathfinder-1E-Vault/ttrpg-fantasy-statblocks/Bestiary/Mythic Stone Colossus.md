@@ -5,7 +5,7 @@ name: Mythic Stone Colossus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 19
 name: Mythic Stone Colossus
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: selective antimagic aura
 AC: 31, touch 2, flat-footed 31 (natural +29, size -8)
 HP: 265
-HP_extra: 
 HD: 21d10+150
 saves: Fort +7, Ref +7, Will +7
 immune: construct traits
@@ -43,6 +42,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or mobile fortification (1 plus 6-12 Medium humanoid archers)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alternate Form (Ex)

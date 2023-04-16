@@ -5,7 +5,7 @@ name: Stone Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Stone Giant
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 22, touch 11, flat-footed 20 (dex +2, natural +11, size -1)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +12, Ref +6, Will +7
 defensive_abilities: improved rock catching

@@ -5,7 +5,7 @@ name: Flail Snail
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Flail Snail
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +5
 senses: blindsense, darkvision, low-light vision, scent, tremorsense
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +3, Will +2
 immune: poison

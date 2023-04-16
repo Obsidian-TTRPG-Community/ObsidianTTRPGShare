@@ -5,7 +5,7 @@ name: Tidepool Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 55: The Wormwood Mutiny"
+source: "Pathfinder No. 55: The Wormwood Mutiny"
 Monster_CR: 3
 name: Tidepool Dragon
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 30
-HP_extra: 
 HD: 4d12+4
 saves: Fort +5, Ref +7, Will +6
 immune: paralysis, sleep

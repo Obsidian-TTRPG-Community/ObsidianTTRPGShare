@@ -5,7 +5,7 @@ name: Thuskchoon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Thuskchoon
 Monster_XP: 409600
@@ -46,6 +46,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Entangling Acid (Ex)

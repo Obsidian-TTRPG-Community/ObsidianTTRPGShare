@@ -5,7 +5,7 @@ name: Liminal Sprite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Liminal Sprite
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 16, touch 15, flat-footed 13 (dex +3, natural +1, size +2)
 HP: 16
-HP_extra: 
 HD: 3d6+6
 saves: Fort +3, Ref +6, Will +4
 immune: sleep

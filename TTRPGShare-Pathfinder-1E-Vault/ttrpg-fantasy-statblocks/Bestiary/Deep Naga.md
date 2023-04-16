@@ -5,7 +5,7 @@ name: Deep Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 12
 name: Deep Naga
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +21
 senses: darkvision, low-light vision
 AC: 27, touch 13, flat-footed 22 (dex +5, natural +14, size -2)
 HP: 161
-HP_extra: 
 HD: 17d8+85
 saves: Fort +10, Ref +10, Will +15
 defensive_abilities: spell siphon
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or nest (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ley-Line Dependent (Su)

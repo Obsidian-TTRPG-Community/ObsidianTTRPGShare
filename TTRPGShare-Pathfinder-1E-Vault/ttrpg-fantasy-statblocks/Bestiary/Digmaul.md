@@ -5,7 +5,7 @@ name: Digmaul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Digmaul
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 16, touch 15, flat-footed 11 (dex +5, natural +1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +9, Will +2
 speed: 30 ft., climb 20 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ball Tail (Ex)

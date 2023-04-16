@@ -5,7 +5,7 @@ name: Rock Tuatara
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 1/3
 name: Rock Tuatara
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +3, Will +0
 speed: 20 ft., climb 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or nest (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Primitive Eye (Ex)

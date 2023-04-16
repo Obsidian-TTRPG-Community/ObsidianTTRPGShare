@@ -5,7 +5,7 @@ name: Mythic Young Red Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 12
 name: Mythic Young Red Dragon
 Monster_XP: 19200
@@ -43,6 +43,7 @@ ecology:
     desc: warm mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Smoke Vision (Ex)

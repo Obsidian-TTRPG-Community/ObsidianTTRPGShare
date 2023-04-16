@@ -5,7 +5,7 @@ name: Nisid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 4
 name: Nisid
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision
 AC: 17, touch 14, flat-footed 14 (dex +3, natural +3, size +1)
 HP: 33
-HP_extra: 
 HD: 6d6+12
 saves: Fort +4, Ref +8, Will +8
 DR: 5/cold iron

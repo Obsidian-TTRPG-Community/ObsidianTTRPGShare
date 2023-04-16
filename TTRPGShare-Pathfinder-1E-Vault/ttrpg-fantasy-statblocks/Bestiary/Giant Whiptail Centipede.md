@@ -5,7 +5,7 @@ name: Giant Whiptail Centipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Giant Whiptail Centipede
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 15, touch 8, flat-footed 14 (natural +7, size -2)
 HP: 38
-HP_extra: 
 HD: 4d8+20
 saves: Fort +9, Ref +1, Will +1
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm forests or underground
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

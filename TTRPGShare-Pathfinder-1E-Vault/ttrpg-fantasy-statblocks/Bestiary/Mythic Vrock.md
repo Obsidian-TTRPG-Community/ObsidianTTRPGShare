@@ -5,7 +5,7 @@ name: Mythic Vrock
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 11
 name: Mythic Vrock
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision
 AC: 27, touch 12, flat-footed 24 (dex +3, natural +15, size -1)
 HP: 152
-HP_extra: 
 HD: 9d10+103
 saves: Fort +13, Ref +11, Will +6
 immune: electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or gang (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Entrapping Vines (Ex)

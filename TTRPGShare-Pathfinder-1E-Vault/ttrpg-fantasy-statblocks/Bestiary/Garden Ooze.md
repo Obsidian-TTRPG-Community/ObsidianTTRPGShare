@@ -5,7 +5,7 @@ name: Garden Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Garden Ooze
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +4, Will -4
 immune: acid
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests, marshes, and urban
   - name: Organisation
     desc: solitary, pair, or patch (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

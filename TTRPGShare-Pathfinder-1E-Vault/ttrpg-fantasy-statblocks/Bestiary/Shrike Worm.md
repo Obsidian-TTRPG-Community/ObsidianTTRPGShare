@@ -5,7 +5,7 @@ name: Shrike Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 114: Black Stars Beckon"
+source: "Pathfinder No. 114: Black Stars Beckon"
 Monster_CR: 15
 name: Shrike Worm
 Monster_XP: 51200
@@ -18,7 +18,6 @@ senses: blindsight, darkvision
 aura: impossible form
 AC: 29, touch 11, flat-footed 26 (dex +3, natural +18, size -2)
 HP: 231
-HP_extra: 
 HD: 22d8+132
 saves: Fort +14, Ref +10, Will +17
 saves_other: +6 vs. illusion
@@ -42,6 +41,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary, pair, or delusion (3-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Illusion Sense (Ex)

@@ -5,7 +5,7 @@ name: Hallowed Lynx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 17
 name: Hallowed Lynx
 Monster_XP: 102400
@@ -18,7 +18,6 @@ senses: arcane sight, darkvision, low-light vision, scent
 aura: hallowed lights
 AC: 29, touch 17, flat-footed 23 (dex +5, dodge +1, natural +12, size +1)
 HP: 241
-HP_extra: 
 HD: 23d10+115
 saves: Fort +17, Ref +20, Will +14
 immune: blindness, fire, light effects
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blinding Orb (Su)

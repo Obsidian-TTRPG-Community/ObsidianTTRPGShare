@@ -5,7 +5,7 @@ name: Ancient Green Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 17
 name: Ancient Green Dragon
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 36, touch 5, flat-footed 36 (dex -1, natural +31, size -4)
 HP: 310
-HP_extra: 
 HD: 23d12+161
 saves: Fort +20, Ref +12, Will +20
 immune: acid, paralysis, sleep

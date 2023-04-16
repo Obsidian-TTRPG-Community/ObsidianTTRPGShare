@@ -5,7 +5,7 @@ name: Adult Copper Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 12
 name: Adult Copper Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +22
 aura: frightful presence
 AC: 29, touch 10, flat-footed 28 (dex +1, natural +19, size -1)
 HP: 172
-HP_extra: 
 HD: 15d12+75
 saves: Fort +14, Ref +10, Will +13
 immune: acid, paralysis, sleep

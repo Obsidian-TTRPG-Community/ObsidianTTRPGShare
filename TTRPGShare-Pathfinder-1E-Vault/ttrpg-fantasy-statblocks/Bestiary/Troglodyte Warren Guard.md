@@ -5,7 +5,7 @@ name: Troglodyte Warren Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Troglodyte Warren Guard
 Monster_XP: 6400

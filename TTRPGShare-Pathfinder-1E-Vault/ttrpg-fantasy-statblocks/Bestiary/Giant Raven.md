@@ -5,7 +5,7 @@ name: Giant Raven
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1
 name: Giant Raven
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +5, Will +2
 saves_other: +4 vs. ingested disease
@@ -35,6 +34,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary, pair, or conspiracy (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Scavenger (Ex)

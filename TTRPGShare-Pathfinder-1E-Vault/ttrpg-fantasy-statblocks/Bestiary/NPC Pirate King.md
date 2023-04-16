@@ -5,7 +5,7 @@ name: NPC Pirate King
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Pirate King
 Monster_XP: 38400
@@ -20,7 +20,6 @@ perception: +2
 senses: low-light vision
 AC: 25, touch 15, flat-footed 20 (armor +7, dex +5, natural +3)
 HP: 150
-HP_extra: 
 HD: 15d10+63
 saves: Fort +15, Ref +15, Will +10
 saves_other: +2 vs. enchantments, +4 vs. fear

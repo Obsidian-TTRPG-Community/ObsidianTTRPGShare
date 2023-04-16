@@ -5,7 +5,7 @@ name: Mythic Elohim
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 23
 name: Mythic Elohim
 Monster_XP: 819200
@@ -44,6 +44,7 @@ ecology:
     desc: any (extraplanar)
   - name: Organisation
     desc: solitary or horde (1 plus 5-20 animals, magical beasts, and plants of CR 8-10)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Create Life (Su)

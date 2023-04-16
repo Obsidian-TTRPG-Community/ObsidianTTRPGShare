@@ -5,7 +5,7 @@ name: Medium Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Medium Earth Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, tremorsense
 AC: 18, touch 9, flat-footed 18 (dex -1, natural +9)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +0, Will +4
 immune: elemental traits

@@ -5,7 +5,7 @@ name: Woundwyrm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 15
 name: Woundwyrm
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +22
 senses: blindsight
 AC: 30, touch 10, flat-footed 28 (dex +1, dodge +1, natural +20, size -2)
 HP: 225
-HP_extra: 
 HD: 18d12+108
 saves: Fort +17, Ref +12, Will +12
 immune: acid, dragon traits, gaze attacks, illusions, magic paralysis and sleep, poison, polymorph, visual effects
@@ -41,6 +40,7 @@ ecology:
     desc: any (the Worldwound)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Entropic Breath (Su)

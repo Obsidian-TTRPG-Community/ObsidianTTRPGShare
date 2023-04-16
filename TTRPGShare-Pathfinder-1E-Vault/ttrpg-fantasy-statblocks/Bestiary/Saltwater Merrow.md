@@ -5,7 +5,7 @@ name: Saltwater Merrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Saltwater Merrow
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +7
 senses: low-light vision
 AC: 19, touch 11, flat-footed 16 (dex +3, natural +8, size -2)
 HP: 80
-HP_extra: 
 HD: 7d8+49
 saves: Fort +11, Ref +5, Will +4
 speed: 40 ft., swim 40 ft.

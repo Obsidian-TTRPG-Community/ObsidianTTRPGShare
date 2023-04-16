@@ -5,7 +5,7 @@ name: NPC Unseen Archer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Unseen Archer
 Monster_XP: 38400
@@ -20,7 +20,6 @@ perception: +21
 senses: low-light vision
 AC: 22, touch 17, flat-footed 16 (armor +5, deflection +1, dex +5, dodge +1)
 HP: 101
-HP_extra: 
 HD: 15d8+30
 saves: Fort +7, Ref +16, Will +7
 saves_other: +2 vs. enchantments

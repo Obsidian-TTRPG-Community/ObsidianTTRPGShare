@@ -5,7 +5,7 @@ name: NPC Doomsayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Doomsayer
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +2
 perception: +17
 AC: 22, touch 14, flat-footed 20 (armor +8, deflection +2, dex +2)
 HP: 133
-HP_extra: 
 HD: 20d8+40
 saves: Fort +12, Ref +18, Will +15
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

@@ -5,7 +5,7 @@ name: Vilderavn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Vilderavn
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: deathwatch, low-light vision, see in darkness, true seeing
 aura: frightful presence, shatter loyalties
 AC: 34, touch 24, flat-footed 26 (dex +7, dodge +2, insight +5, natural +10)
 HP: 253
-HP_extra: 
 HD: 22d6+176
 saves: Fort +17, Ref +21, Will +18
 immune: curses, death effects, energy drain, fear
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or unkindness (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bloodbird (Su)

@@ -5,7 +5,7 @@ name: Bearded Devil (Barbazu)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Bearded Devil (Barbazu)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, see in darkness
 AC: 19, touch 12, flat-footed 17 (dex +2, natural +7)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +7, Will +3
 immune: fire, poison

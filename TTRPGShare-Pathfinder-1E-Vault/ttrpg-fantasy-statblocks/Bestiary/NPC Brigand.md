@@ -5,7 +5,7 @@ name: NPC Brigand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Brigand
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +1
 perception: +0
 AC: 13, touch 11, flat-footed 12 (armor +2, dex +1)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +4, Ref +1, Will +0
 speed: 30 ft.

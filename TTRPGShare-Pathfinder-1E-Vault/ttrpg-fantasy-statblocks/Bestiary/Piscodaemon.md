@@ -5,7 +5,7 @@ name: Piscodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Piscodaemon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, detect good, detect magic, see invisibility
 AC: 24, touch 14, flat-footed 20 (dex +4, natural +10)
 HP: 137
-HP_extra: 
 HD: 11d10+77
 saves: Fort +14, Ref +7, Will +9
 immune: acid, death effects, disease, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or knot (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Augmented Critical (Ex)

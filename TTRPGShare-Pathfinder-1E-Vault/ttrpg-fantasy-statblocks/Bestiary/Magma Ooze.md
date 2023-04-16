@@ -5,7 +5,7 @@ name: Magma Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Magma Ooze
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +8, Ref -2, Will -2
 immune: fire, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any volcano or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Lava Body (Ex)

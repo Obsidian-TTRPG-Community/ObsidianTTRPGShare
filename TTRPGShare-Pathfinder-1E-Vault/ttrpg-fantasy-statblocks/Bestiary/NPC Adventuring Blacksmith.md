@@ -5,7 +5,7 @@ name: NPC Adventuring Blacksmith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Adventuring Blacksmith
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +3
 senses: low-light vision
 AC: 20, touch 9, flat-footed 20 (armor +9, dex -1, shield +2)
 HP: 61
-HP_extra: 
 HD: 6d10+24
 saves: Fort +8, Ref +1, Will +3
 saves_other: +2 vs. enchantments, +2 vs. fear

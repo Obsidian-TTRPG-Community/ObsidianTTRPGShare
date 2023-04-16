@@ -5,7 +5,7 @@ name: Young Sea Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Young Sea Dragon
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +5
 senses: dragon senses
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 85
-HP_extra: 
 HD: 9d12+27
 saves: Fort +11, Ref +7, Will +9
 immune: electricity, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

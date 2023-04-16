@@ -5,7 +5,7 @@ name: Adult Forest Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 14
 name: Adult Forest Dragon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: dragon senses, tremorsense
 aura: frightful presence
 AC: 30, touch 8, flat-footed 30 (natural +22, size -2)
 HP: 229
-HP_extra: 
 HD: 17d12+119
 saves: Fort +16, Ref +10, Will +15
 immune: paralysis, poison, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

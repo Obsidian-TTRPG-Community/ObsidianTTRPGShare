@@ -5,7 +5,7 @@ name: Sangudaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Sangudaemon
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, scent
 aura: bleeding aura
 AC: 23, touch 16, flat-footed 17 (dex +5, dodge +1, natural +7)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +13, Will +7
 immune: acid, bleed, death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, cluster (2-5), or hunt (6-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Augmented Critical (Ex)

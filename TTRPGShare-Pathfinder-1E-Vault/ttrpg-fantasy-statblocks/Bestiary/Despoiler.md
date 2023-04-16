@@ -5,7 +5,7 @@ name: Despoiler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 7
 name: Despoiler
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 20, touch 14, flat-footed 16 (dex +3, dodge +1, natural +6)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +8, Will +9
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Black Shards (Ex)

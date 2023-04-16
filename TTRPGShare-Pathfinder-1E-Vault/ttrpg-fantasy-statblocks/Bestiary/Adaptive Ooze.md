@@ -5,7 +5,7 @@ name: Adaptive Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 123: The Flooded Cathedral"
+source: "Pathfinder No. 123: The Flooded Cathedral"
 Monster_CR: 7
 name: Adaptive Ooze
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref -2, Will -2
 immune: ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or divergence (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Form (Su)

@@ -5,7 +5,7 @@ name: Hyakume
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 15
 name: Hyakume
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +19
 senses: all-around vision, darkvision, low-light vision
 AC: 32, touch 18, flat-footed 23 (dex +8, dodge +1, natural +14, size -1)
 HP: 218
-HP_extra: 
 HD: 19d8+133
 saves: Fort +13, Ref +14, Will +17
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or enclave (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Drain Memory (Su)

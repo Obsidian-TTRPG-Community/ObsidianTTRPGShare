@@ -5,7 +5,7 @@ name: Wretchghost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 98: Turn of the Torrent"
+source: "Pathfinder No. 98: Turn of the Torrent"
 Monster_CR: 5
 name: Wretchghost
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 16, touch 16, flat-footed 12 (deflection +2, dex +3, dodge +1)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +4, Ref +5, Will +8
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Addiction (Su)

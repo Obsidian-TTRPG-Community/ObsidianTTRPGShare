@@ -5,7 +5,7 @@ name: Shadow Collector
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Shadow Collector
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +18
 senses: low-light vision
 AC: 21, touch 19, flat-footed 13 (dex +7, dodge +1, natural +2, size +1)
 HP: 90
-HP_extra: 
 HD: 12d6+48
 saves: Fort +8, Ref +15, Will +11
 DR: 10/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: No Shadow (Ex)

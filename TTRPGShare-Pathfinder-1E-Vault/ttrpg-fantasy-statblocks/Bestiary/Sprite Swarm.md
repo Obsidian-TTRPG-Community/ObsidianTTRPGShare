@@ -5,7 +5,7 @@ name: Sprite Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 5
 name: Sprite Swarm
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +14
 senses: low-light vision, detect evil, detect good
 AC: 18, touch 18, flat-footed 14 (dex +3, dodge +1, size +4)
 HP: 45
-HP_extra: 
 HD: 10d6+10
 saves: Fort +4, Ref +10, Will +7
 immune: weapon damage
@@ -42,6 +41,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Angry Glow (Su)

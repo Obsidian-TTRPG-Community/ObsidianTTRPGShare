@@ -5,7 +5,7 @@ name: Marut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 15
 name: Marut
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or patrol (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fists of Lightning and Thunder (Su)

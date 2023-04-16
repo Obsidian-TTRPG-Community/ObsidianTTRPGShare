@@ -5,7 +5,7 @@ name: Boggard Scarred One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Boggard Scarred One
 Monster_XP: 2400

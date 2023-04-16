@@ -5,7 +5,7 @@ name: Kobold Monster Wrangler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Kobold Monster Wrangler
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 22, touch 14, flat-footed 19 (armor +5, dex +3, natural +1, shield +2, size +1)
 HP: 17
-HP_extra: 
 HD: 2d10+2
 saves: Fort +3, Ref +3, Will +0
 weak: light sensitivity

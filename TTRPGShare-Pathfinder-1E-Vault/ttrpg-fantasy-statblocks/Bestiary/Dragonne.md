@@ -5,7 +5,7 @@ name: Dragonne
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Dragonne
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +9, Ref +9, Will +4
 speed: 40 ft., fly 30 ft. (poor)
@@ -39,6 +38,7 @@ ecology:
     desc: temperate deserts
   - name: Organisation
     desc: solitary, pair, or pride (5-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Roar (Su)

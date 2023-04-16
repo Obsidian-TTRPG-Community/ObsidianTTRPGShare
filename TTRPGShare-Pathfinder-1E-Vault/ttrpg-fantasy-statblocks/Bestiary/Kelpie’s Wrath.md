@@ -5,7 +5,7 @@ name: Kelpie’s Wrath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 55: The Wormwood Mutiny"
+source: "Pathfinder No. 55: The Wormwood Mutiny"
 Monster_CR: 15
 name: Kelpie’s Wrath
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Fighter Training (Ex)

@@ -5,7 +5,7 @@ name: Young Lunar Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Young Lunar Dragon
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +17
 senses: dragon senses, see in darkness
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 105
-HP_extra: 
 HD: 10d12+40
 saves: Fort +10, Ref +7, Will +11
 immune: cold, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

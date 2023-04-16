@@ -5,7 +5,7 @@ name: Great Diadem Urchin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 5
 name: Great Diadem Urchin
 Monster_XP: 1600
@@ -39,6 +39,7 @@ ecology:
     desc: temperate or warm oceans or coastlines
   - name: Organisation
     desc: solitary, pair, cluster (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

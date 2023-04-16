@@ -5,7 +5,7 @@ name: Domovoi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Domovoi
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 17, touch 15, flat-footed 14 (dex +2, dodge +1, natural +2, size +2)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +6, Will +5
 DR: 5/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gathering (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Telekinesis (Su)

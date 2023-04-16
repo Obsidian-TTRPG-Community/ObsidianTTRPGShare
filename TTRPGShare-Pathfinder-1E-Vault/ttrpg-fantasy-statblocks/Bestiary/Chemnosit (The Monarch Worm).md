@@ -5,7 +5,7 @@ name: Chemnosit (The Monarch Worm)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 23
 name: Chemnosit (The Monarch Worm)
 Monster_XP: 819200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Darklands)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hungry Gaze (Su)

@@ -5,7 +5,7 @@ name: Desert Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Desert Drake
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision, scent, tremorsense
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 103
-HP_extra: 
 HD: 9d12+45
 saves: Fort +11, Ref +8, Will +8
 immune: paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dazzling Emergence (Ex)

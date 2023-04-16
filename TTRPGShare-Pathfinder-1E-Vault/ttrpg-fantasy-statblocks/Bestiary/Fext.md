@@ -5,7 +5,7 @@ name: Fext
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Fext
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +20
 senses: darkvision
 AC: 25, touch 12, flat-footed 23 (armor +9, dex +1, dodge +1, natural +2, shield +2)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +9, Will +11
 immune: cold, undead traits

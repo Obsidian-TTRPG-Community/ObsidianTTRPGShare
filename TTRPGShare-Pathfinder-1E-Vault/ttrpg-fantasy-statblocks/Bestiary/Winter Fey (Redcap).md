@@ -5,7 +5,7 @@ name: Winter Fey (Redcap)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 68: The Shackled Hut"
+source: "Pathfinder No. 68: The Shackled Hut"
 Monster_CR: 7
 name: Winter Fey (Redcap)
 Monster_XP: 3200

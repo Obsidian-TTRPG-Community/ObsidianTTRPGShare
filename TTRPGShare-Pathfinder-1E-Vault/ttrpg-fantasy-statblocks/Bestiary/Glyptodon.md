@@ -5,7 +5,7 @@ name: Glyptodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Glyptodon
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +16
 senses: low-light vision, scent
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +11, Ref +6, Will +4
 speed: 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

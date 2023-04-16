@@ -5,7 +5,7 @@ name: Obsidian Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Obsidian Golem
 Monster_XP: 19200
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 27, touch 9, flat-footed 27 (natural +18, size -1)
 HP: 123
-HP_extra: 
 HD: 17d10+30
 saves: Fort +5, Ref +5, Will +5
 immune: construct traits, magic
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or eruption (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Throes (Ex)

@@ -5,7 +5,7 @@ name: Guardian Spirit Imp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Summoner's Handbook"
+source: "Monster Summoner's Handbook"
 Monster_CR: 4
 name: Guardian Spirit Imp
 Monster_XP: 1200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary or with ward
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

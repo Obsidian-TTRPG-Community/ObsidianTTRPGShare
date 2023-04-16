@@ -5,7 +5,7 @@ name: Fetchling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Fetchling
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 10
-HP_extra: 
 HD: 1d8+2
 saves: Fort +2, Ref +5, Will -1
 resist: cold 5, electricity 5

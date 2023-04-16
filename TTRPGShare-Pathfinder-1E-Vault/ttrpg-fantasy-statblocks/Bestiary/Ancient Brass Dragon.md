@@ -5,7 +5,7 @@ name: Ancient Brass Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 16
 name: Ancient Brass Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: fire, frightful presence
 AC: 38, touch 8, flat-footed 38 (natural +30, size -2)
 HP: 297
-HP_extra: 
 HD: 22d12+154
 saves: Fort +20, Ref +13, Will +18
 immune: fire, paralysis, sleep

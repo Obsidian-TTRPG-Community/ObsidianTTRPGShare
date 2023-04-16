@@ -5,7 +5,7 @@ name: Hollow Helm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 47: Ashes at Dawn"
+source: "Pathfinder No. 47: Ashes at Dawn"
 Monster_CR: 1
 name: Hollow Helm
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision
 AC: 16, touch 13, flat-footed 15 (dex +1, natural +3, size +2)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +1, Will +3
 immune: undead traits

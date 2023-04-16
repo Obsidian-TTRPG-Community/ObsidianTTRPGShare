@@ -5,7 +5,7 @@ name: Young White Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Young White Dragon
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: dragon senses, snow vision
 AC: 20, touch 12, flat-footed 18 (dex +2, natural +8)
 HP: 66
-HP_extra: 
 HD: 7d12+21
 saves: Fort +8, Ref +7, Will +5
 immune: cold, paralysis, sleep

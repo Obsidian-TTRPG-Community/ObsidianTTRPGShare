@@ -5,7 +5,7 @@ name: NPC Risen Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 5
 name: NPC Risen Guard
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +2
 perception: +6
 AC: 21, touch 11, flat-footed 20 (armor +8, dex +1, shield +2)
 HP: 49
-HP_extra: 
 HD: 6d10+12
 saves: Fort +8, Ref +5, Will +5
 defensive_abilities: bravery +2

@@ -5,7 +5,7 @@ name: Mountain Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Mountain Giant
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: low-light vision, see in darkness
 aura: frightful presence
 AC: 33, touch 11, flat-footed 28 (armor +4, dex +5, natural +17, shield +1, size -4)
 HP: 297
-HP_extra: 
 HD: 22d8+198
 saves: Fort +18, Ref +12, Will +20
 immune: cold, fear, mindaffecting- effects, poison

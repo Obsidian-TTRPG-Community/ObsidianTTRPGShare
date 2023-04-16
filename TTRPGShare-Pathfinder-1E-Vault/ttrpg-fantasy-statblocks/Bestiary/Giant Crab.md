@@ -5,7 +5,7 @@ name: Giant Crab
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Giant Crab
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +2, Will +1
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary or cast (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Water Dependency (Ex)

@@ -5,7 +5,7 @@ name: Yamasoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 64: Beyond the Doomsday Door"
+source: "Pathfinder No. 64: Beyond the Doomsday Door"
 Monster_CR: 24
 name: Yamasoth
 Monster_XP: 1228800
@@ -46,6 +46,7 @@ ecology:
     desc: any (Sekatar-Seraktis)
   - name: Organisation
     desc: solitary or group (Yamasoth plus 2d6 gongorinans and 2d6 various polymorphed minions)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Gaze Weapon (Su)

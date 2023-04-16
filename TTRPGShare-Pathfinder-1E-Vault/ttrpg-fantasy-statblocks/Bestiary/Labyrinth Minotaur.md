@@ -5,7 +5,7 @@ name: Labyrinth Minotaur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 77: Herald of the Ivory Labyrinth"
+source: "Pathfinder No. 77: Herald of the Ivory Labyrinth"
 Monster_CR: 16
 name: Labyrinth Minotaur
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision
 AC: 29, touch 13, flat-footed 29 (dex +4, natural +16, size -1)
 HP: 232
-HP_extra: 
 HD: 15d10+150
 saves: Fort +19, Ref +9, Will +17
 resist: fire 20

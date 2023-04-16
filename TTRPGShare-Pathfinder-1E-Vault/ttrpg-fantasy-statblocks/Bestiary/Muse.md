@@ -5,7 +5,7 @@ name: Muse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Muse
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +22
 senses: blindsight, low-light vision
 AC: 32, touch 28, flat-footed 23 (armor +4, deflection +9, dex +8)
 HP: 229
-HP_extra: 
 HD: 17d6+170
 saves: Fort +19, Ref +27, Will +21
 immune: sonic
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gathering (2-9)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Art is Life (Ex)

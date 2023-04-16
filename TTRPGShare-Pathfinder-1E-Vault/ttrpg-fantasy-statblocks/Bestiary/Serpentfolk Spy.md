@@ -5,7 +5,7 @@ name: Serpentfolk Spy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Serpentfolk Spy
 Monster_XP: 1600

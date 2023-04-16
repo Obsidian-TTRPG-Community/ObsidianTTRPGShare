@@ -5,7 +5,7 @@ name: Witchwyrd
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Witchwyrd
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, detect magic
 AC: 19, touch 12, flat-footed 17 (armor +4, dex +2, natural +3)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +7, Ref +8, Will +9
 DR: 5/magic
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, entourage (1 witchwyrd and 2-5 humanoid guards), or enclave (2-5 witchwyrds and 11-20 humanoid guards)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Absorb Force (Su)

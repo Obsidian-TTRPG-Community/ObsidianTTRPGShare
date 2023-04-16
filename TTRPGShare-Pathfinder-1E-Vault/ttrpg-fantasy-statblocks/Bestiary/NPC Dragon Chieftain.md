@@ -5,7 +5,7 @@ name: NPC Dragon Chieftain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Dragon Chieftain
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +18
 senses: blindsense, darkvision
 AC: 27, touch 12, flat-footed 27 (armor +9, deflection +2, dex -1, insight +1, natural +6)
 HP: 189
-HP_extra: 
 HD: 10d8+7d12+95
 saves: Fort +16, Ref +11, Will +14
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

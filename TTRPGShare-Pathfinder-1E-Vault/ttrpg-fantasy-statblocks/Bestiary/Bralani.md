@@ -5,7 +5,7 @@ name: Bralani
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Bralani
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 66
-HP_extra: 
 HD: 7d10+28
 saves: Fort +9, Ref +9, Will +6
 immune: electricity, petrification

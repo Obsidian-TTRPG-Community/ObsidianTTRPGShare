@@ -5,7 +5,7 @@ name: Abandoned One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tears at Bitter Manor"
+source: "Tears at Bitter Manor"
 Monster_CR: 4
 name: Abandoned One
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: blindsense, darkvision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +3, Will +7
 immune: undead traits
@@ -36,6 +35,7 @@ ecology:
     desc: any forest or swamp
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Curse of Oblivion (Su)

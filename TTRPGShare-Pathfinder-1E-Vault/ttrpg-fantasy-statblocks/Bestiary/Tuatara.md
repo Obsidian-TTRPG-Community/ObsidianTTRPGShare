@@ -5,7 +5,7 @@ name: Tuatara
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/4
 name: Tuatara
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +3, Will +0
 speed: 20 ft., climb 20 ft.

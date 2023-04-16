@@ -5,7 +5,7 @@ name: Seru
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Seru
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 15, touch 14, flat-footed 12 (dex +2, dodge +1, natural +1, size +1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +5, Will +2
 speed: 20 ft., fly 40 ft. (average)
@@ -39,6 +38,7 @@ ecology:
     desc: any land (jungles, swamps, or underground)
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

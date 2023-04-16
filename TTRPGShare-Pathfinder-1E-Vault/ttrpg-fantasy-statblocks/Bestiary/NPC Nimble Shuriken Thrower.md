@@ -5,7 +5,7 @@ name: NPC Nimble Shuriken Thrower
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Nimble Shuriken Thrower
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +3
 perception: +11
 AC: 18, touch 18, flat-footed 14 (dex +3, dodge +1, monk +1, size +1, wis +2)
 HP: 40
-HP_extra: 
 HD: 6d8+10
 saves: Fort +7, Ref +9, Will +8
 saves_other: +2 vs. enchantments, +2 vs. fear

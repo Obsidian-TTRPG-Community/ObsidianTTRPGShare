@@ -5,7 +5,7 @@ name: Bloodplate Burster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 129: The Twilight Child"
+source: "Pathfinder No. 129: The Twilight Child"
 Monster_CR: 9
 name: Bloodplate Burster
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +24
 senses: blindsight, scent, tremorsense
 AC: 24, touch 10, flat-footed 22 (dex +1, dodge +1, natural +14, size -2)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +12, Ref +7, Will +7
 immune: acid, plant traits, sight-based effects
@@ -37,6 +36,7 @@ ecology:
     desc: temperate or warm deserts or plains
   - name: Organisation
     desc: solitary, pair, or frenzy (3-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Awlspines (Ex)

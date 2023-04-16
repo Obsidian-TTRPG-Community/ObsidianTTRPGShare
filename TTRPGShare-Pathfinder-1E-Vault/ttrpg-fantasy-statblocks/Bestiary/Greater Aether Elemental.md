@@ -5,7 +5,7 @@ name: Greater Aether Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Greater Aether Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: blindsense, darkvision
 AC: 24, touch 24, flat-footed 14 (deflection +6, dex +10, size -2)
 HP: 149
-HP_extra: 
 HD: 13d10+78
 saves: Fort +14, Ref +18, Will +6
 immune: elemental traits, force
@@ -42,6 +41,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

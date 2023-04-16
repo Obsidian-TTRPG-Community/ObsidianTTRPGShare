@@ -5,7 +5,7 @@ name: Scitalis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Scitalis
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 27, touch 17, flat-footed 23 (dex +4, natural +10, size -1)
 HP: 175
-HP_extra: 
 HD: 14d12+84
 saves: Fort +15, Ref +13, Will +11
 immune: paralysis, sleep
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, den (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Prismatic Pattern (Su)

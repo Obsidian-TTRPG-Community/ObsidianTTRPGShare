@@ -5,7 +5,7 @@ name: Steward of the Skein
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Steward of the Skein
 Monster_XP: 51200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fate Aura (Su)

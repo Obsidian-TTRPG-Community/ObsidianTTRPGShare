@@ -5,7 +5,7 @@ name: NPC Blade Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Blade Lord
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +25
 senses: low-light vision
 AC: 30, touch 20, flat-footed 23 (armor +8, deflection +3, dex +6, dodge +1, natural +1, shield +1)
 HP: 173
-HP_extra: 
 HD: 20d8+80
 saves: Fort +10, Ref +20, Will +8
 saves_other: +2 vs. enchantments

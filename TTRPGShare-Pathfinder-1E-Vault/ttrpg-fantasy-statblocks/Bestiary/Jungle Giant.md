@@ -5,7 +5,7 @@ name: Jungle Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Jungle Giant
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +15
 senses: low-light vision
 AC: 24, touch 16, flat-footed 20 (deflection +4, dex +4, natural +8, size -2)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +13, Will +7
 immune: disease, poison

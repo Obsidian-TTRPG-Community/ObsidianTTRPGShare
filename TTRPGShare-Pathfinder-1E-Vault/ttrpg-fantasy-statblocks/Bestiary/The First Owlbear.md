@@ -5,7 +5,7 @@ name: The First Owlbear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 10
 name: The First Owlbear
 Monster_XP: 9600
@@ -42,6 +42,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Mythic Adventures

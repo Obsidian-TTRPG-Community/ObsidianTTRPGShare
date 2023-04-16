@@ -5,7 +5,7 @@ name: Umbral Shepherd
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 5
 name: Umbral Shepherd
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (deflection +2, dex +2)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +3, Ref +9, Will +8
 defensive_abilities: incorporeal
@@ -37,6 +36,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or choir (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Planebound (Ex)

@@ -5,7 +5,7 @@ name: Rune Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Godsmouth Heresy"
+source: "The Godsmouth Heresy"
 Monster_CR: 1
 name: Rune Guardian
 Monster_XP: 400
@@ -38,6 +38,7 @@ ecology:
     desc: any (Thassilonian runes)
   - name: Organisation
     desc: solitary, pair, or syllabary (7 rune guardians, 1 of each sin)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: School Vulnerability (Ex)

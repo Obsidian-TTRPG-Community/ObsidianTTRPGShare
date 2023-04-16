@@ -5,7 +5,7 @@ name: Ankhrav
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 9
 name: Ankhrav
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 24, touch 8, flat-footed 24 (natural +16, size -2)
 HP: 115
-HP_extra: 
 HD: 10d10+60
 saves: Fort +13, Ref +7, Will +7
 speed: 40 ft., burrow 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any hills, plains, or underground
   - name: Organisation
     desc: solitary, royal party (1 ankhrav plus 2-12 ankhegs), or army (1-3 ankhravs plus 2-8 ankhegs)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Spit Acid (Ex)

@@ -5,7 +5,7 @@ name: Morgodea
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 99: Dance of the Damned"
+source: "Pathfinder No. 99: Dance of the Damned"
 Monster_CR: 4
 name: Morgodea
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: cockroach cloud
 AC: 19, touch 15, flat-footed 14 (dex +5, natural +4)
 HP: 33
-HP_extra: 
 HD: 6d6+12
 saves: Fort +4, Ref +10, Will +6
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or infestation (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Cockroach Cloud (Su)

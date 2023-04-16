@@ -5,7 +5,7 @@ name: Cave Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Cave Scorpion
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +1, Will +1
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

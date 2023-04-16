@@ -5,7 +5,7 @@ name: NPC Mountaineer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Mountaineer
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +2
 perception: +12
 AC: 21, touch 12, flat-footed 19 (armor +7, dex +2, shield +2)
 HP: 59
-HP_extra: 
 HD: 7d10+16
 saves: Fort +8, Ref +8, Will +5
 saves_other: +2 vs. poison, spells, and spell-like abilities

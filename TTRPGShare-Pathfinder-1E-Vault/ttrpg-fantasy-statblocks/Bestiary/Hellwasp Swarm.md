@@ -5,7 +5,7 @@ name: Hellwasp Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Hellwasp Swarm
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 21, touch 21, flat-footed 14 (dex +6, dodge +1, size +4)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +10, Ref +10, Will +7
 immune: swarm traits, weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or infestation (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Inhabit (Ex)

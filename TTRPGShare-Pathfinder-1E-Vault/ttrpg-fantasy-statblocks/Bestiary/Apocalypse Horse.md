@@ -5,7 +5,7 @@ name: Apocalypse Horse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 25
 name: Apocalypse Horse
 Monster_XP: 1638400
@@ -45,6 +45,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary (unique), group (all four apocalypse horses), or with associated Horseman
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Apocalyptic Breath Weapon (Su)

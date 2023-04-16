@@ -5,7 +5,7 @@ name: Exscinder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Exscinder
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, low-light vision, true seeing
 AC: 29, touch 12, flat-footed 25 (dex +4, natural +17, size -2, deflection vs. evil +2)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +16, Ref +10, Will +16
 saves_other: +4 vs. poison

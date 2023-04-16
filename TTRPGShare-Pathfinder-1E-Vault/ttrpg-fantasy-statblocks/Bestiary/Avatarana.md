@@ -5,7 +5,7 @@ name: Avatarana
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 12
 name: Avatarana
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 26, touch 15, flat-footed 21 (dex +4, dodge +1, natural +11)
 HP: 157
-HP_extra: 
 HD: 15d10+75
 saves: Fort +14, Ref +11, Will +11
 DR: 15/good and piercing
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, cult (1 plus 6-36 humanoid followers)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absolute Independence (Ex)

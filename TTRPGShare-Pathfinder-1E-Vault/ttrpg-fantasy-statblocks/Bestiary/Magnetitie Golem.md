@@ -5,7 +5,7 @@ name: Magnetitie Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 95: Anvil of Fire"
+source: "Pathfinder No. 95: Anvil of Fire"
 Monster_CR: 10
 name: Magnetitie Golem
 Monster_XP: 9600
@@ -17,7 +17,6 @@ senses: darkvision, low-light vision
 aura: magnetic field
 AC: 24, touch 8, flat-footed 24 (dex -1, natural +16, size -1)
 HP: 101
-HP_extra: 
 HD: 13d10+30
 saves: Fort +4, Ref +3, Will +5
 immune: construct traits, magic

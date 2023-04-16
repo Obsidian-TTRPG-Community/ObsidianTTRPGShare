@@ -5,7 +5,7 @@ name: Inubrix Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 14
 name: Inubrix Golem
 Monster_XP: 38400
@@ -16,7 +16,6 @@ INI: +3
 senses: darkvision, low-light vision, true seeing
 AC: 28, touch 12, flat-footed 25 (dex +3, natural +16, size -1)
 HP: 140
-HP_extra: 
 HD: 20d10+30
 saves: Fort +6, Ref +9, Will +6
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

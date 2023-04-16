@@ -5,7 +5,7 @@ name: Rakshasa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Rakshasa
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 25, touch 16, flat-footed 19 (dex +5, dodge +1, natural +9)
 HP: 115
-HP_extra: 
 HD: 10d10+60
 saves: Fort +9, Ref +12, Will +8
 DR: 15/good and piercing

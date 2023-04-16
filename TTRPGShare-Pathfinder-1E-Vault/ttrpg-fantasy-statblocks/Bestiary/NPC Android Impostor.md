@@ -5,7 +5,7 @@ name: NPC Android Impostor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 5
 name: NPC Android Impostor
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 16, touch 10, flat-footed 16 (armor +6)
 HP: 55
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +3, Will +4
 immune: disease, emotion-based effects, exhaustion, fatigue, fear, sleep

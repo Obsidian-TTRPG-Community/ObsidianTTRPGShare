@@ -5,7 +5,7 @@ name: Electric Eel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Electric Eel
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 17
-HP_extra: 
 HD: 2d8+8
 saves: Fort +7, Ref +5, Will +0
 resist: electricity 10
@@ -36,6 +35,7 @@ ecology:
     desc: warm fresh water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Electricity (Ex)

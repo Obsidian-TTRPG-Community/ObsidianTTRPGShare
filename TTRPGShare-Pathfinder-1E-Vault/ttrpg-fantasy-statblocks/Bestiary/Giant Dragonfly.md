@@ -5,7 +5,7 @@ name: Giant Dragonfly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Giant Dragonfly
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +7, Ref +4, Will +3
 immune: mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: temperate or warm land
   - name: Organisation
     desc: solitary or flight (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Darting Charge (Ex)

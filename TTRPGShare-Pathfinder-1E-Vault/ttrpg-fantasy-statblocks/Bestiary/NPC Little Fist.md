@@ -5,7 +5,7 @@ name: NPC Little Fist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Little Fist
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +8
 perception: +20
 AC: 29, touch 25, flat-footed 24 (armor +2, deflection +1, dex +4, dodge +1, monk +3, natural +2, size +1, wis +5)
 HP: 80
-HP_extra: 
 HD: 14d8+14
 saves: Fort +12, Ref +15, Will +16
 saves_other: +2 vs. enchantments, +2 vs. fear

@@ -5,7 +5,7 @@ name: Trumpet Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 14
 name: Trumpet Archon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: aura of menace, magic circle against evil
 AC: 27, touch 13, flat-footed 24 (dex +3, natural +14, deflection vs. evil +2)
 HP: 175
-HP_extra: 
 HD: 14d10+98
 saves: Fort +16, Ref +9, Will +14
 saves_other: +4 vs. poison, +2 resistance vs. evil
@@ -41,6 +40,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary, pair, or squad (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spells

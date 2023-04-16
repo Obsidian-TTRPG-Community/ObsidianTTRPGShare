@@ -5,7 +5,7 @@ name: NPC Feisty Hotspur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Feisty Hotspur
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +7
 perception: +19
 AC: 26, touch 19, flat-footed 19 (armor +6, deflection +1, dex +6, dodge +1, natural +1, size +1)
 HP: 101
-HP_extra: 
 HD: 9d8+4d10+35
 saves: Fort +9, Ref +18, Will +10
 saves_other: +2 vs. fear

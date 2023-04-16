@@ -5,7 +5,7 @@ name: NPC Halfling Slinger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Halfling Slinger
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +5
 perception: +5
 AC: 22, touch 16, flat-footed 17 (armor +6, dex +5, size +1)
 HP: 72
-HP_extra: 
 HD: 9d10+18
 saves: Fort +11, Ref +11, Will +9
 saves_other: +4 vs. fear

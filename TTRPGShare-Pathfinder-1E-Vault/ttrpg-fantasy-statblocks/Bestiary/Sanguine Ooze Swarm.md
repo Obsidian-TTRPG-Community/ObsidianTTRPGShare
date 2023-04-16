@@ -5,7 +5,7 @@ name: Sanguine Ooze Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 1/3
 name: Sanguine Ooze Swarm
 Monster_XP: 135
@@ -17,7 +17,6 @@ INI: -5
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -5, size +2)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +3, Ref -5, Will -5
 immune: ooze traits, swarm traits
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or coagulum (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Euphoric Slime (Ex)

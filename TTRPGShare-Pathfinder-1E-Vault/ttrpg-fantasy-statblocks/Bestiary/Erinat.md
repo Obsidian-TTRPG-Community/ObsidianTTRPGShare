@@ -5,7 +5,7 @@ name: Erinat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 2
 name: Erinat
 Monster_XP: 600
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: discordant
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HP_extra: 
 HD: 3d6+9
 saves: Fort +3, Ref +6, Will +2
 DR: 5/cold iron

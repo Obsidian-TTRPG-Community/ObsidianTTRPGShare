@@ -5,7 +5,7 @@ name: Akaruzug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 15
 name: Akaruzug
 Monster_XP: 51200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: unhallow
 AC: 30, touch 16, flat-footed 27 (deflection +4, dex +3, natural +14, size -1)
 HP: 220
-HP_extra: 
 HD: 20d10+110
 saves: Fort +8, Ref +11, Will +10
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Soul Engine (Su)

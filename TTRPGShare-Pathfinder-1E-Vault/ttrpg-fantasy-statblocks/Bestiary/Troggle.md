@@ -5,7 +5,7 @@ name: Troggle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Troggle
 Monster_XP: 1200
@@ -40,6 +40,7 @@ ecology:
     desc: cold hills and mountains
   - name: Organisation
     desc: solitary, pair, or gang (3-4)
+  - name: Treasure
     desc: half
 special_abilities:
   - name: Ogre Blood (Ex)

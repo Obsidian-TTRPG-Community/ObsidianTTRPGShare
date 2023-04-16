@@ -5,7 +5,7 @@ name: Tuyewera
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 4
 name: Tuyewera
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +5, Will +6
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Daytime Invisibility (Su)

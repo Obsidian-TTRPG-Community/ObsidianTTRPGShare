@@ -5,7 +5,7 @@ name: Hungry Flesh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Hungry Flesh
 Monster_XP: 800
@@ -37,6 +37,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary or cluster (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disease (Ex)

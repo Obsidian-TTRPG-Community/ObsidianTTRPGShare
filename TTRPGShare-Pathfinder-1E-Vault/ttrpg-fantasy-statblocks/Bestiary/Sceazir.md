@@ -5,7 +5,7 @@ name: Sceazir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 9
 name: Sceazir
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, lifesense, low-light vision
 AC: 22, touch 14, flat-footed 17 (dex +4, dodge +1, natural +8, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +8, Ref +12, Will +10
 immune: cold, death effects, disease, energy drain, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary, voidpair (1 plus 1 sceaduinar) or howling (4-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bond of the Void (Su)

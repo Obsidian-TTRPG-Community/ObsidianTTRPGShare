@@ -5,7 +5,7 @@ name: Fire Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Fire Giant
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +14
 senses: low-light vision
 AC: 24, touch 8, flat-footed 24 (armor +8, dex -1, natural +8, size -1)
 HP: 142
-HP_extra: 
 HD: 15d8+75
 saves: Fort +14, Ref +4, Will +9
 immune: fire

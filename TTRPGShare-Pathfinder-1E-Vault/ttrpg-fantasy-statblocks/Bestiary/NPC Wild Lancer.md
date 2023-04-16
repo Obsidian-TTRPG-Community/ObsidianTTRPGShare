@@ -5,7 +5,7 @@ name: NPC Wild Lancer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Wild Lancer
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision
 AC: 18, touch 9, flat-footed 17 (armor +7, dex +1, rage -2, shield +2)
 HP: 63
-HP_extra: 
 HD: 5d12+25
 saves: Fort +9, Ref +3, Will +5
 saves_other: +3 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments

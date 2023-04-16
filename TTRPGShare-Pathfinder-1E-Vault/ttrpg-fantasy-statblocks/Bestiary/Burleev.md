@@ -5,7 +5,7 @@ name: Burleev
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Burleev
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, detect magic
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +5, Ref +3, Will +5
 immune: cold or fire
@@ -42,6 +41,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary, pair, or cabal (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Frostfire Spirit (Su)

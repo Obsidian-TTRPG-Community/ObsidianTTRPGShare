@@ -5,7 +5,7 @@ name: Ancient Brine Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Ancient Brine Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 37, touch 7, flat-footed 37 (dex -1, natural +30, size -2)
 HP: 275
-HP_extra: 
 HD: 22d12+132
 saves: Fort +19, Ref +14, Will +18
 immune: acid, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any aquatic (Plane of Water)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

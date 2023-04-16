@@ -5,7 +5,7 @@ name: Dust Digger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Dust Digger
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 16, touch 9, flat-footed 16 (natural +7, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +5, Ref +1, Will +4
 speed: 10 ft., burrow 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or colony (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sinkhole (Ex)

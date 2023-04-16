@@ -5,7 +5,7 @@ name: NPC Mad Prophet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Mad Prophet
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +17
 senses: low-light vision
 AC: 19, touch 12, flat-footed 18 (armor +5, dex +1, natural +2, size +1)
 HP: 97
-HP_extra: 
 HD: 9d8+4d8+35
 saves: Fort +11, Ref +7, Will +13
 saves_other: +2 vs. illusions

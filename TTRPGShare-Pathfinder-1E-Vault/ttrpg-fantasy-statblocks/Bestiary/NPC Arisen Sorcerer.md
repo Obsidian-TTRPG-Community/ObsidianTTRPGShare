@@ -5,7 +5,7 @@ name: NPC Arisen Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Arisen Sorcerer
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +6
 perception: +16
 AC: 30, touch 17, flat-footed 27 (armor +4, deflection +4, dex +2, dodge +1, natural +9)
 HP: 217
-HP_extra: 
 HD: 20d6+145
 saves: Fort +16, Ref +11, Will +18
 saves_other: +4 morale bonus vs. undead spells and spell-like abilities

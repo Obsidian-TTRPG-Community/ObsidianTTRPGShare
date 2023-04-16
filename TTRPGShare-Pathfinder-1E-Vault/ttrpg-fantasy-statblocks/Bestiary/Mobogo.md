@@ -5,7 +5,7 @@ name: Mobogo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Mobogo
 Monster_XP: 9600
@@ -43,6 +43,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Swamp Stride (Ex)

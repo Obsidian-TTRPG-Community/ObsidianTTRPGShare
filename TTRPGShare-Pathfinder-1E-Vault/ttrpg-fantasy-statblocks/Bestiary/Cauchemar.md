@@ -5,7 +5,7 @@ name: Cauchemar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Cauchemar
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision
 AC: 26, touch 10, flat-footed 24 (dex +2, natural +16, size -2)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +11, Will +7
 speed: 40 ft., fly 90 ft. (good)
@@ -38,6 +37,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

@@ -5,7 +5,7 @@ name: Ghoul Creeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Ghoul Creeper
 Monster_XP: 800
@@ -19,7 +19,6 @@ perception: +11
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (armor +2, dex +4, natural +2)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +7, Will +7
 immune: undead traits

@@ -5,7 +5,7 @@ name: NPC Pyromaniac Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Pyromaniac Mage
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +6
 perception: +12
 AC: 19, touch 14, flat-footed 16 (armor +4, deflection +1, dex +2, dodge +1, natural +1)
 HP: 81
-HP_extra: 
 HD: 13d6+33
 saves: Fort +9, Ref +11, Will +12
 immune: fire (120 points)

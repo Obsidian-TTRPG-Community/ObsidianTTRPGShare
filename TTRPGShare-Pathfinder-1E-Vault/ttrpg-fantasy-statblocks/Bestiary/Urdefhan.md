@@ -5,7 +5,7 @@ name: Urdefhan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Urdefhan
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (armor +3, dex +1, natural +2)
 HP: 25
-HP_extra: 
 HD: 3d10+9
 saves: Fort +6, Ref +4, Will +4
 immune: death effects (see below), disease, fear, level drain

@@ -5,7 +5,7 @@ name: Giant Wasp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Giant Wasp
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision
 AC: 14, touch 10, flat-footed 13 (dex +1, natural +4, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +2, Will +2
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, group (3-6), or nest (7-19)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

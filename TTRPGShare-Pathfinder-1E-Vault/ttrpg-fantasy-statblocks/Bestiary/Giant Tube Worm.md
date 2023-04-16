@@ -5,7 +5,7 @@ name: Giant Tube Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 2
 name: Giant Tube Worm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +5, Will +1
 immune: mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or cluster (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

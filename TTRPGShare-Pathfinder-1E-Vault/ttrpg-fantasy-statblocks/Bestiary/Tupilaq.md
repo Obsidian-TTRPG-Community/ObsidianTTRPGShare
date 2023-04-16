@@ -5,7 +5,7 @@ name: Tupilaq
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Tupilaq
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 20, touch 15, flat-footed 16 (dex +4, natural +5, size +1)
 HP: 59
-HP_extra: 
 HD: 9d10+10
 saves: Fort +3, Ref +7, Will +3
 immune: construct traits
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Scrimshaw Magic (Sp)

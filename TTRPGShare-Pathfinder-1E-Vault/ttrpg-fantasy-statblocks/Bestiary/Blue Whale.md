@@ -5,7 +5,7 @@ name: Blue Whale
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 59: The Price of Infamy"
+source: "Pathfinder No. 59: The Price of Infamy"
 Monster_CR: 12
 name: Blue Whale
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +27
 senses: low-light vision
 AC: 26, touch 1, flat-footed 26 (dex -1, natural +25, size -8)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +17, Ref +9, Will +8
 speed: swim 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or pod (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hold Breath (Ex)

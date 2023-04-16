@@ -5,7 +5,7 @@ name: Minotaur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Minotaur
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 14, touch 9, flat-footed 14 (natural +5, size -1)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +6, Ref +5, Will +5
 defensive_abilities: natural cunning

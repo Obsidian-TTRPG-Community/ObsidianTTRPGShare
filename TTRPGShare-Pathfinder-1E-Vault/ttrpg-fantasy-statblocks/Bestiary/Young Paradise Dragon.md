@@ -5,7 +5,7 @@ name: Young Paradise Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Young Paradise Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +24
 senses: dragon senses
 AC: 24, touch 10, flat-footed 23 (dex +1, natural +14, size -1)
 HP: 161
-HP_extra: 
 HD: 14d12+70
 saves: Fort +14, Ref +10, Will +12
 immune: force effects, paralysis, petrification, poison, sleep

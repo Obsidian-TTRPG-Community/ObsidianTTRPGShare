@@ -5,7 +5,7 @@ name: Adult Tumult Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 16
 name: Adult Tumult Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 31, touch 8, flat-footed 31 (natural +23, size -2)
 HP: 290
-HP_extra: 
 HD: 20d12+160
 saves: Fort +20, Ref +12, Will +17
 immune: paralysis, sleep, warpproof

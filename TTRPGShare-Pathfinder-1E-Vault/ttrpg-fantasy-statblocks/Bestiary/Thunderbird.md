@@ -5,7 +5,7 @@ name: Thunderbird
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Thunderbird
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, stormsight
 aura: storm aura
 AC: 25, touch 10, flat-footed 21 (dex +3, dodge +1, natural +15, size -4)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +12, Will +9
 immune: electricity, sonic
@@ -39,6 +38,7 @@ ecology:
     desc: any hills or mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Thunderbolt (Su)

@@ -5,7 +5,7 @@ name: Barrow Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fangwood Keep"
+source: "Fangwood Keep"
 Monster_CR: 6
 name: Barrow Hound
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, see invisibility
 AC: 20, touch 12, flat-footed 17 (dex +2, dodge +1, natural +8, size -1)
 HP: 75
-HP_extra: 
 HD: 10d6+40
 saves: Fort +7, Ref +9, Will +8
 speed: 50 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any (the First World)
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dimensional Bark (Su)

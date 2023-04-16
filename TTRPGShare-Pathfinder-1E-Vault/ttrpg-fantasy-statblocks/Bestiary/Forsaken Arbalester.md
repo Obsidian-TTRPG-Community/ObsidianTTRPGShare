@@ -5,7 +5,7 @@ name: Forsaken Arbalester
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 102: Breaking the Bones of Hell"
+source: "Pathfinder No. 102: Breaking the Bones of Hell"
 Monster_CR: 3
 name: Forsaken Arbalester
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (armor +5, dex +1)
 HP: 27
-HP_extra: 
 HD: 6d8
 saves: Fort +2, Ref +3, Will +6
 immune: undead traits

@@ -5,7 +5,7 @@ name: Swimming Eye Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 109: In Search of Sanity"
+source: "Pathfinder No. 109: In Search of Sanity"
 Monster_CR: 4
 name: Swimming Eye Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 16, touch 16, flat-footed 12 (dex +3, dodge +1, size +2)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +4, Ref +5, Will +8
 defensive_abilities: all-around vision, ruptured membranes, swarm traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm water
   - name: Organisation
     desc: solitary or bloom (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Indescribable Swarm (Ex)

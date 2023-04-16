@@ -5,7 +5,7 @@ name: NPC Hellknight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 10
 name: NPC Hellknight
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +2
 perception: +7
 AC: 28, touch 12, flat-footed 26 (armor +10, dex +2, shield +6)
 HP: 92
-HP_extra: 
 HD: 11d10+27
 saves: Fort +9, Ref +6, Will +5
 defensive_abilities: bravery +1, force of will (+2, +4)

@@ -5,7 +5,7 @@ name: Nihiloi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 29: Mother of Flies"
+source: "Pathfinder No. 29: Mother of Flies"
 Monster_CR: 11
 name: Nihiloi
 Monster_XP: 12800
@@ -44,6 +44,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, cell (2-8), or cabal (9-26)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Broadcast (Su)

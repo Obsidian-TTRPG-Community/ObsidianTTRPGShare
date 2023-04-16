@@ -5,7 +5,7 @@ name: Exoskeleton Giant Cockroach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1/2
 name: Exoskeleton Giant Cockroach
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 12
-HP_extra: 
 HD: 2d8+3
 saves: Fort +0, Ref +1, Will +3
 immune: undead traits

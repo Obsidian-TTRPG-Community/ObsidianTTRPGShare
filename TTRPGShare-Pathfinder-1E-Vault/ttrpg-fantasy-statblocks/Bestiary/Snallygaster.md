@@ -5,7 +5,7 @@ name: Snallygaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Snallygaster
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +4, Ref +3, Will +6
 speed: 20 ft., fly 60 ft. (good)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests or mountains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aerial Charge (Ex)

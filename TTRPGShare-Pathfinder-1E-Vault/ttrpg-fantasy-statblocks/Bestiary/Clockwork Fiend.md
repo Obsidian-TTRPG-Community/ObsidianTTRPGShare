@@ -5,7 +5,7 @@ name: Clockwork Fiend
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Clockwork Fiend
 Monster_XP: 102400
@@ -17,7 +17,6 @@ INI: +12
 senses: darkvision, low-light vision, see in darkness
 AC: 32, touch 20, flat-footed 22 (dex +8, dodge +2, natural +12)
 HP: 146
-HP_extra: 
 HD: 23d10+20
 saves: Fort +7, Ref +17, Will +7
 immune: construct traits, fire
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or blasphemy (2 clockwork fiends plus 4-8 clockwork angels)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Explosive Rend (Su)

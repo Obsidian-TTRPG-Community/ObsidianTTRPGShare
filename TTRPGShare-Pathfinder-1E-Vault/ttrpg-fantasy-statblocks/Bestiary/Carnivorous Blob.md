@@ -5,7 +5,7 @@ name: Carnivorous Blob
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 13
 name: Carnivorous Blob
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight, tremorsense
 AC: 2, touch 2, flat-footed 2 (size -8)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +12, Ref +5, Will +0
 immune: acid, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Absorb Flesh (Ex)

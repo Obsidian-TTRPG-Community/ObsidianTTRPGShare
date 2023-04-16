@@ -5,7 +5,7 @@ name: Giant Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Giant Spider
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 14, touch 13, flat-footed 11 (dex +3, natural +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +4, Will +1
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

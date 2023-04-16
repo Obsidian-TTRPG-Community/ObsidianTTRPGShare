@@ -5,7 +5,7 @@ name: Orphne
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 4
 name: Orphne
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: desecrating aura
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 39
-HP_extra: 
 HD: 6d6+18
 saves: Fort +5, Ref +8, Will +5
 DR: 5/cold iron
@@ -39,6 +38,7 @@ ecology:
     desc: Any underground or urban
   - name: Organisation
     desc: solitary, pair, or wake (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bone Dance (Su)

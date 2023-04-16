@@ -5,7 +5,7 @@ name: Faceless Hulk (Ugoroth)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 110: The Thrushmoor Terror"
+source: "Pathfinder No. 110: The Thrushmoor Terror"
 Monster_CR: 9
 name: Faceless Hulk (Ugoroth)
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 18, touch 9, flat-footed 18 (natural +9, size -1)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +8, Ref +4, Will +11
 resist: cold 5, fire 5

@@ -5,7 +5,7 @@ name: Violet Fungus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Violet Fungus
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: -1
 senses: low-light vision
 AC: 15, touch 9, flat-footed 15 (dex -1, natural +6)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +0, Will +1
 immune: plant traits
@@ -34,6 +33,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or grove (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Rot (Ex)

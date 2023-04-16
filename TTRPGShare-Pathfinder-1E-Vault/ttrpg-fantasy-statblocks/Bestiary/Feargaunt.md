@@ -5,7 +5,7 @@ name: Feargaunt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 9
 name: Feargaunt
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: nightmare
 AC: 23, touch 23, flat-footed 17 (deflection +7, dex +5, dodge +1, size -1)
 HP: 102
-HP_extra: 
 HD: 12d10+36
 saves: Fort +7, Ref +13, Will +11
 defensive_abilities: incorporeal
@@ -41,6 +40,7 @@ ecology:
     desc: any (Dimension of Dreams)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Never Far Behind (Su)

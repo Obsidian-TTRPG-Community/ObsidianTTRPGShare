@@ -5,7 +5,7 @@ name: Dragon Turtle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Dragon Turtle
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: low-light vision, darkvision, scent
 AC: 23, touch 8, flat-footed 23 (natural +15, size -2)
 HP: 126
-HP_extra: 
 HD: 12d12+48
 saves: Fort +12, Ref +8, Will +9
 immune: fire, sleep, paralysis
@@ -41,6 +40,7 @@ ecology:
     desc: temperate aquatic
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Breath Weapon (Su)

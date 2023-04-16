@@ -5,7 +5,7 @@ name: Doppeldrek
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Doppeldrek
 Monster_XP: 1600
@@ -37,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or group (1 disguised as a creature plus an assortment of creatures of that type)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Change Shape (Su)

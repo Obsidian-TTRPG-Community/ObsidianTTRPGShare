@@ -5,7 +5,7 @@ name: Vespergaunt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Vespergaunt
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: blindsight, true seeing
 aura: madness
 AC: 24, touch 16, flat-footed 18 (dex +5, dodge +1, natural +8)
 HP: 195
-HP_extra: 
 HD: 17d8+119
 saves: Fort +14, Ref +12, Will +9
 immune: cold, ooze traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (outer space)
   - name: Organisation
     desc: solitary or convocation (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Madness (Su)

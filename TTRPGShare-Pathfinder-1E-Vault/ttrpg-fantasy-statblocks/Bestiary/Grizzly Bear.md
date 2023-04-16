@@ -5,7 +5,7 @@ name: Grizzly Bear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Grizzly Bear
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 16, touch 10, flat-footed 15 (dex +1, natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +8, Ref +5, Will +2
 speed: 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

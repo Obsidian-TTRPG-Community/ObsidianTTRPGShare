@@ -5,7 +5,7 @@ name: Thrush
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/3
 name: Thrush
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +0, Ref +4, Will +2
 speed: 10 ft., fly 40 ft. (average)
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or flock (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Magic

@@ -5,7 +5,7 @@ name: Giant Crawling Hand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Giant Crawling Hand
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsense, darkvision
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +4, Ref +6, Will +6
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Mark Quarry (Su)

@@ -5,7 +5,7 @@ name: Demonic Deadfall Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Worldwound"
+source: "The Worldwound"
 Monster_CR: 9
 name: Demonic Deadfall Scorpion
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, tremorsense
 AC: 24, touch 11, flat-footed 21 (dex +2, dodge +1, natural +13, size -2)
 HP: 115
-HP_extra: 
 HD: 10d8+70
 saves: Fort +13, Ref +7, Will +7
 immune: electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

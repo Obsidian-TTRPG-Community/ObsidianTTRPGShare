@@ -5,7 +5,7 @@ name: Galluvix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 128: Songbird, Scion, Saboteur"
+source: "Pathfinder No. 128: Songbird, Scion, Saboteur"
 Monster_CR: 2
 name: Galluvix
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +3, Ref +5, Will +1
 defensive_abilities: drift
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or skulk (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Drift (Ex)

@@ -5,7 +5,7 @@ name: NPC Callous Rake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Callous Rake
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +1
 perception: +0
 AC: 20, touch 11, flat-footed 19 (armor +7, dex +1, shield +2)
 HP: 12
-HP_extra: 
 HD: 1d10+2
 saves: Fort +3, Ref +1, Will +2
 speed: 20 ft.

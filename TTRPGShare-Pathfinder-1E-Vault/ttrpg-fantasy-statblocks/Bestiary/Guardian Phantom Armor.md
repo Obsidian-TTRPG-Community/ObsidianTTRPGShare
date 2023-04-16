@@ -5,7 +5,7 @@ name: Guardian Phantom Armor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Guardian Phantom Armor
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 21, touch 11, flat-footed 20 (armor +9, dex +1, shield +1)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +1, Ref +2, Will +3
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

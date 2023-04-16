@@ -5,7 +5,7 @@ name: NPC Bramble Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Bramble Sorcerer
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +7
 senses: low-light vision
 AC: 18, touch 13, flat-footed 15 (armor +4, dex +2, dodge +1, natural +1)
 HP: 30
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +6, Will +4
 saves_other: +2 vs. enchantments

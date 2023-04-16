@@ -5,7 +5,7 @@ name: NPC Dungeon (Torturer)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Dungeon (Torturer)
 Monster_XP: 1600

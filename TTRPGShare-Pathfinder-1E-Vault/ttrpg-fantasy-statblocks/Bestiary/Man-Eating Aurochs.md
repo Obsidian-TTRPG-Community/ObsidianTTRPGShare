@@ -5,7 +5,7 @@ name: Man-Eating Aurochs
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 74: Sword of Valor"
+source: "Pathfinder No. 74: Sword of Valor"
 Monster_CR: 3
 name: Man-Eating Aurochs
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 15, touch 9, flat-footed 15 (natural +6, size -1)
 HP: 31
-HP_extra: 
 HD: 3d10+15
 saves: Fort +8, Ref +3, Will +3
 DR: 5/slashing
@@ -41,6 +40,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Stampede (Ex)

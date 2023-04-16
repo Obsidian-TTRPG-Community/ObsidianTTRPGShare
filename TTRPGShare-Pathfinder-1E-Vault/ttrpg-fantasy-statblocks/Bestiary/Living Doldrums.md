@@ -5,7 +5,7 @@ name: Living Doldrums
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 123: The Flooded Cathedral"
+source: "Pathfinder No. 123: The Flooded Cathedral"
 Monster_CR: 12
 name: Living Doldrums
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stagnant
 AC: 8, touch 8, flat-footed 6 (dex +1, dodge +1, size -4)
 HP: 162
-HP_extra: 
 HD: 13d10+91
 saves: Fort +11, Ref +9, Will +15
 immune: acid, elemental traits
@@ -44,6 +43,7 @@ ecology:
     desc: any air (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Gaseous (Ex)

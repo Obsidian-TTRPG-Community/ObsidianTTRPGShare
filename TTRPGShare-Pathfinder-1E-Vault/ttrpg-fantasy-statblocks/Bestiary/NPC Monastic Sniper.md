@@ -5,7 +5,7 @@ name: NPC Monastic Sniper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Monastic Sniper
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +19
 senses: low-light vision
 AC: 24, touch 22, flat-footed 20 (armor +2, deflection +1, dex +3, dodge +1, monk +3, wis +4)
 HP: 85
-HP_extra: 
 HD: 13d8+23
 saves: Fort +11, Ref +13, Will +14
 saves_other: +4 vs. enchantments

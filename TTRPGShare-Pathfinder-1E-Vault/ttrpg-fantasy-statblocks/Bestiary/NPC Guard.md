@@ -5,7 +5,7 @@ name: NPC Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Guard
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: -1
 perception: +5
 AC: 13, touch 9, flat-footed 13 (armor +4, dex -1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +3, Ref +0, Will +2
 speed: 30 ft.

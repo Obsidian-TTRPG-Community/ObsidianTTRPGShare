@@ -5,7 +5,7 @@ name: Tanaq Mammoth-Eater, Taiga Giant Shaman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 17
 name: Tanaq Mammoth-Eater, Taiga Giant Shaman
 Monster_XP: 102400

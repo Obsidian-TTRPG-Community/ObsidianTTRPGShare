@@ -5,7 +5,7 @@ name: Vayuphak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 5
 name: Vayuphak
 Monster_XP: 1600

@@ -5,7 +5,7 @@ name: Bone Ship
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Bone Ship
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: blood wake
 AC: 36, touch 6, flat-footed 32 (dex +3, natural +30, size -8)
 HP: 299
-HP_extra: 
 HD: 26d8+182
 saves: Fort +17, Ref +14, Will +20
 immune: undead traits
@@ -44,6 +43,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blood Wake (Su)

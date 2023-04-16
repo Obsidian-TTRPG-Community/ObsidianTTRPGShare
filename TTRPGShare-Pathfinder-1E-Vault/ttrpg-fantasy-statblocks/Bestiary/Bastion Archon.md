@@ -5,7 +5,7 @@ name: Bastion Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 20
 name: Bastion Archon
 Monster_XP: 307200
@@ -45,6 +45,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Mending (Su)

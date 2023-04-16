@@ -5,7 +5,7 @@ name: Dark Dancer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Dark Dancer
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: see in darkness
 AC: 15, touch 15, flat-footed 11 (dex +4, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +7, Will +0
 weak: light blindness

@@ -5,7 +5,7 @@ name: Crucidaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Crucidaemon
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, deathwatch, detect good, true seeing
 AC: 29, touch 16, flat-footed 23 (dex +5, dodge +1, natural +13)
 HP: 212
-HP_extra: 
 HD: 17d10+119
 saves: Fort +17, Ref +12, Will +13
 immune: acid, bleed, death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or inquisition (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Chained Daggers (Su)

@@ -5,7 +5,7 @@ name: Giant Frilled Lizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Giant Frilled Lizard
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +11, Ref +8, Will +4
 speed: 30 ft., climb 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forest, plains, or hills
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Intimidating Charge (Ex)

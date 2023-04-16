@@ -5,7 +5,7 @@ name: Shadow Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 102: Breaking the Bones of Hell"
+source: "Pathfinder No. 102: Breaking the Bones of Hell"
 Monster_CR: 14
 name: Shadow Golem
 Monster_XP: 38400
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, see in darkness
 aura: shadow
 AC: 29, touch 19, flat-footed 25 (deflection +6, dex +4, natural +10, size -1)
 HP: 151
-HP_extra: 
 HD: 22d10+30
 saves: Fort +7, Ref +11, Will +7
 immune: cold, construct traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

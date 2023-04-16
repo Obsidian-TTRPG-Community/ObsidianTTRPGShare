@@ -5,7 +5,7 @@ name: Urannag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Urannag
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +18
 senses: tremorsense
 AC: 22, touch 8, flat-footed 22 (natural +14, size -2)
 HP: 100
-HP_extra: 
 HD: 11d10+40
 saves: Fort +5, Ref +5, Will +5
 immune: gaze attacks, visual effects and illusions, sight-based attacks, construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any swamps (the Abyss)
   - name: Organisation
     desc: solitary, pair, tangle (3-5), or menace (6-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Encage (Ex)

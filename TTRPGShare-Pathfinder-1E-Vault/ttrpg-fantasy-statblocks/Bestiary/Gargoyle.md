@@ -5,7 +5,7 @@ name: Gargoyle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Gargoyle
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +4, Ref +6, Will +4
 DR: 10/magic
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or wing (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Freeze (Ex)

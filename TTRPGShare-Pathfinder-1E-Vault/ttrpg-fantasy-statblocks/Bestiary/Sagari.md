@@ -5,7 +5,7 @@ name: Sagari
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Sagari
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +3, Ref +4, Will +2
 speed: 10 ft., fly 30 ft. (perfect)
@@ -38,6 +37,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary, pair, herd (3-8), or harras (9-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Baleful Whinny (Su)

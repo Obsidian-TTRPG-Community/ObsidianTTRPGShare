@@ -5,7 +5,7 @@ name: Sapphire Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 2
 name: Sapphire Ooze
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +3
 senses: blindsight
 AC: 14, touch 14, flat-footed 10 (dex +3, dodge +1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +4, Ref +4, Will +1
 immune: acid, mind-affecting effects, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Amorphous Aegis (Ex)

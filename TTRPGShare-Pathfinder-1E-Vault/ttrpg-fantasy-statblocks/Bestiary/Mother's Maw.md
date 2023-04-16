@@ -5,7 +5,7 @@ name: Mother's Maw
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 47: Ashes at Dawn"
+source: "Pathfinder No. 47: Ashes at Dawn"
 Monster_CR: 15
 name: Mother's Maw
 Monster_XP: 51200

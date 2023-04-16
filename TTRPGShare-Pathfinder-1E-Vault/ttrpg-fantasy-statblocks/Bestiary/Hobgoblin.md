@@ -5,7 +5,7 @@ name: Hobgoblin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Hobgoblin
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (armor +3, dex +2, shield +1)
 HP: 17
-HP_extra: 
 HD: 1d10+7
 saves: Fort +5, Ref +2, Will +1
 speed: 30 ft.

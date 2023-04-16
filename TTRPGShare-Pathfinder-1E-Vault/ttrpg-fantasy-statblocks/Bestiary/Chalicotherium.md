@@ -5,7 +5,7 @@ name: Chalicotherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Chalicotherium
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 18, touch 9, flat-footed 18 (natural +9, size -1)
 HP: 68
-HP_extra: 
 HD: 8d8+32
 saves: Fort +10, Ref +6, Will +4
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

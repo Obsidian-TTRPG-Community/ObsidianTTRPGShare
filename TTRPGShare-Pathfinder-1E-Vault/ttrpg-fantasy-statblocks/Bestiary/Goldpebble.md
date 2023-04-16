@@ -5,7 +5,7 @@ name: Goldpebble
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 128: Songbird, Scion, Saboteur"
+source: "Pathfinder No. 128: Songbird, Scion, Saboteur"
 Monster_CR: 5
 name: Goldpebble
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision, tremorsense
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +8, Will +3
 resist: cold 10

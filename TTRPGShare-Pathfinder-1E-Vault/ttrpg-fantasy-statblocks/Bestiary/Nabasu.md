@@ -5,7 +5,7 @@ name: Nabasu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Nabasu
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision
 AC: 22, touch 14, flat-footed 18 (dex +3, dodge +1, natural +8)
 HP: 103
-HP_extra: 
 HD: 9d10+54
 saves: Fort +9, Ref +9, Will +9
 immune: death effects, electricity, paralysis, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Consume Life (Su)

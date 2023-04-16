@@ -5,7 +5,7 @@ name: Elder Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Elder Earth Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, tremorsense
 AC: 23, touch 7, flat-footed 23 (dex -1, natural +16, size -2)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +15, Ref +4, Will +10
 immune: elemental traits

@@ -5,7 +5,7 @@ name: Inkariax
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 137: The City Outside of Time"
+source: "Pathfinder No. 137: The City Outside of Time"
 Monster_CR: 26
 name: Inkariax
 Monster_XP: 2457600
@@ -45,6 +45,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Bloody Icicles (Su)

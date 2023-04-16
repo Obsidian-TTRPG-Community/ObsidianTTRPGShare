@@ -5,7 +5,7 @@ name: Badger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Badger
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 9
-HP_extra: 
 HD: 1d8+5
 saves: Fort +4, Ref +3, Will +1
 speed: 30 ft., burrow 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or clan (3-6)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 2

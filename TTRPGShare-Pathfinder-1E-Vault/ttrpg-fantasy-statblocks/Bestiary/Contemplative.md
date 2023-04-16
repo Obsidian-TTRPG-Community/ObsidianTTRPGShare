@@ -5,7 +5,7 @@ name: Contemplative
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Contemplative
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: blindsight, darkvision
 AC: 12, touch 12, flat-footed 10 (dex +1, dodge +1)
 HP: 18
-HP_extra: 
 HD: 4d10-4
 saves: Fort +0, Ref +5, Will +7
 immune: mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, trio, or band (4-7)
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

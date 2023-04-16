@@ -5,7 +5,7 @@ name: Prismatic Orrery
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 13
 name: Prismatic Orrery
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, true seeing
 AC: 24, touch 8, flat-footed 22 (dex +2, natural +16, size -4)
 HP: 159
-HP_extra: 
 HD: 18d10+60
 saves: Fort +6, Ref +8, Will +6
 immune: construct traits

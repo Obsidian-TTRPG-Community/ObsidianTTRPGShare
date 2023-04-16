@@ -5,7 +5,7 @@ name: Fyndylsnitch the Shadowking
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 7
 name: Fyndylsnitch the Shadowking
 Monster_XP: 3200
@@ -19,7 +19,6 @@ perception: +20
 senses: darkvision, low-light vision
 AC: 16, touch 15, flat-footed 12 (dex +4, natural +1, size +1)
 HP: 54
-HP_extra: 
 HD: 9d6+23
 saves: Fort +5, Ref +9, Will +11
 DR: 5/cold iron

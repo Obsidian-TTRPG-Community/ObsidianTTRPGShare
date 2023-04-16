@@ -5,7 +5,7 @@ name: Drow Demonic Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Drow Demonic Champion
 Monster_XP: 6400
@@ -21,7 +21,6 @@ senses: darkvision
 aura: cowardice, despair
 AC: 25, touch 11, flat-footed 24 (armor +10, dex +1, shield +4)
 HP: 79
-HP_extra: 
 HD: 10d10+20
 saves: Fort +11, Ref +7, Will +9
 saves_other: +2 vs. enchantments

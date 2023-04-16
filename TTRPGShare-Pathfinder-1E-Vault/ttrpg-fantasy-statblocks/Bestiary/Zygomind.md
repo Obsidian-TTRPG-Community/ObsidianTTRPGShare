@@ -5,7 +5,7 @@ name: Zygomind
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Zygomind
 Monster_XP: 153600

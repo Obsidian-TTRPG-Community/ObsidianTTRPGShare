@@ -5,7 +5,7 @@ name: Mythic Anunnaki
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Mythic Anunnaki
 Monster_XP: 153600
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cabal (6-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bestow Knowledge (Su)

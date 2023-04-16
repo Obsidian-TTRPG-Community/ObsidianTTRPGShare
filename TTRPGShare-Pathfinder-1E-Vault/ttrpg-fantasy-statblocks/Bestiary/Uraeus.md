@@ -5,7 +5,7 @@ name: Uraeus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Uraeus
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision, scent
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +7, Ref +8, Will +4
 immune: disease
@@ -40,6 +39,7 @@ ecology:
     desc: warm rivers
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

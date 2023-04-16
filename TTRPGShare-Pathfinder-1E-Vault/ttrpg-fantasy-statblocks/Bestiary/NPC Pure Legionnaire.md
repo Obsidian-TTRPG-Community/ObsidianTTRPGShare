@@ -5,7 +5,7 @@ name: NPC Pure Legionnaire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 6
 name: NPC Pure Legionnaire
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +2
 perception: +15
 AC: 18, touch 13, flat-footed 15 (armor +5, dex +2, dodge +1)
 HP: 64
-HP_extra: 
 HD: 7d10+21
 saves: Fort +7, Ref +10, Will +5
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Duppy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Duppy
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: unnatural aura
 AC: 20, touch 20, flat-footed 14 (deflection +4, dex +6)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +11, Will +8
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: warm coastlines
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ravenous Hounds (Sp)

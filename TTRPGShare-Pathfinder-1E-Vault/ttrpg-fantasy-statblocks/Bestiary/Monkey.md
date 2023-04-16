@@ -5,7 +5,7 @@ name: Monkey
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/4
 name: Monkey
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 speed: 30 ft., climb 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, band (3-9), or troop (10-40)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

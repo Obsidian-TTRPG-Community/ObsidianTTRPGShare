@@ -5,7 +5,7 @@ name: NPC Skilled Sniper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Skilled Sniper
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +3)
 HP: 23
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +6, Will +1
 saves_other: +2 vs. enchantments

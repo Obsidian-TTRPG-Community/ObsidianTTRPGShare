@@ -5,7 +5,7 @@ name: Lichen Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 3
 name: Lichen Leshy
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 13 (armor +1, dex +1, natural +1, size +1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +6, Ref +2, Will +3
 immune: electricity, plant traits, sonic
@@ -42,6 +41,7 @@ ecology:
     desc: any hills or mountains
   - name: Organisation
     desc: solitary or patch (2-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Degradation (Ex)

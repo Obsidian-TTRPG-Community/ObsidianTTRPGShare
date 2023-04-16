@@ -5,7 +5,7 @@ name: Giant Fly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Giant Fly
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +3, Will -2
 immune: disease, mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: any temperate or tropical
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

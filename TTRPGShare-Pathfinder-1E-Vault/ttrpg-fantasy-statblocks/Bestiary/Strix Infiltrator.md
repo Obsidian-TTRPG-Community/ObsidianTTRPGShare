@@ -5,7 +5,7 @@ name: Strix Infiltrator
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 3
 name: Strix Infiltrator
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +1, Ref +7, Will +3
 saves_other: +2 bonus vs. poison, +2 bonus vs. illusion spells or effects

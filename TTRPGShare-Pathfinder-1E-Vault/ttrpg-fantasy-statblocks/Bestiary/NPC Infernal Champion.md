@@ -5,7 +5,7 @@ name: NPC Infernal Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Infernal Champion
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +8
 perception: +4
 AC: 30, touch 13, flat-footed 27 (armor +12, dex +3, natural +5)
 HP: 233
-HP_extra: 
 HD: 20d10+119
 saves: Fort +24, Ref +19, Will +17
 saves_other: +5 vs. fear

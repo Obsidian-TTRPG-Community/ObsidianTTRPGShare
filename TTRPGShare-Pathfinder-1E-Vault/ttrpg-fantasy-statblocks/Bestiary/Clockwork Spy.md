@@ -5,7 +5,7 @@ name: Clockwork Spy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Clockwork Spy
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +1, dodge +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +0, Ref +3, Will +0
 immune: construct traits

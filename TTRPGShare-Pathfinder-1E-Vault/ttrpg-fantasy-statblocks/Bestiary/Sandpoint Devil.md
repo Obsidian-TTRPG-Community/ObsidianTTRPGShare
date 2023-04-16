@@ -5,7 +5,7 @@ name: Sandpoint Devil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 8
 name: Sandpoint Devil
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, low-light vision, scent
 AC: 22, touch 13, flat-footed 18 (dex +3, dodge +1, natural +9, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +7, Will +11
 immune: fire, fear effects
@@ -41,6 +40,7 @@ ecology:
     desc: any (Varisia)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Bay (Su)

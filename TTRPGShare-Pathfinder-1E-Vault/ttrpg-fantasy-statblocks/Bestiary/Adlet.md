@@ -5,7 +5,7 @@ name: Adlet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Adlet
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 24, touch 19, flat-footed 15 (dex +8, dodge +1, natural +5)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +17, Will +8
 immune: cold

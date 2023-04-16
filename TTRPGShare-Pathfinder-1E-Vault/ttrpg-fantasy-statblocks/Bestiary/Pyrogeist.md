@@ -5,7 +5,7 @@ name: Pyrogeist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 130: City in the Lion's Eye"
+source: "Pathfinder No. 130: City in the Lion's Eye"
 Monster_CR: 10
 name: Pyrogeist
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision
 AC: 23, touch 23, flat-footed 16 (deflection +7, dex +6, dodge +1, size -1)
 HP: 126
-HP_extra: 
 HD: 11d8+77
 saves: Fort +10, Ref +9, Will +12
 immune: fire, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

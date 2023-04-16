@@ -5,7 +5,7 @@ name: Implacable Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 8
 name: Implacable Stalker
 Monster_XP: 4800
@@ -21,7 +21,6 @@ senses: darkvision, see invisibility, sense fear
 aura: fear aura
 AC: 25, touch 11, flat-footed 24 (dex +1, natural +14)
 HP: 101
-HP_extra: 
 HD: 7d10+63
 saves: Fort +13, Ref +6, Will +5
 immune: electricity, poison

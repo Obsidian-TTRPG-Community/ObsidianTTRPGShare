@@ -5,7 +5,7 @@ name: NPC Temple (Acolyte)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/2
 name: NPC Temple (Acolyte)
 Monster_XP: 200
@@ -18,7 +18,6 @@ INI: +0
 perception: +2
 AC: 17, touch 10, flat-footed 17 (armor +5, shield +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +0, Will +4
 speed: 20 ft.

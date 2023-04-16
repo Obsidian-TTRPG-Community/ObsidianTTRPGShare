@@ -5,7 +5,7 @@ name: NPC Duergar Ironclad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 10
 name: NPC Duergar Ironclad
 Monster_XP: 9600

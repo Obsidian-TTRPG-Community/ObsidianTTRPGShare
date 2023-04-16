@@ -5,7 +5,7 @@ name: Skrimsl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Skrimsl
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision, low-light vision
 AC: 28, touch 12, flat-footed 24 (dex +4, natural +16, size -2)
 HP: 178
-HP_extra: 
 HD: 17d10+85
 saves: Fort +15, Ref +14, Will +13
 immune: cold, electricity
@@ -41,6 +40,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Absorb Lightning (Su)

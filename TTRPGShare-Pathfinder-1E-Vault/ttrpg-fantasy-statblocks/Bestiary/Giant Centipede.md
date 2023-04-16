@@ -5,7 +5,7 @@ name: Giant Centipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Giant Centipede
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +0
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm forest or underground
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (EX)

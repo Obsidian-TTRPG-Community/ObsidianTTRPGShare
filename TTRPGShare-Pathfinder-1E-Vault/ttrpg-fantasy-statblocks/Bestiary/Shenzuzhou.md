@@ -5,7 +5,7 @@ name: Shenzuzhou
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Ruby Phoenix Tournament"
+source: "The Ruby Phoenix Tournament"
 Monster_CR: 12
 name: Shenzuzhou
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: darkvision, lifesense
 aura: fear
 AC: 27, touch 12, flat-footed 24 (dex +3, natural +15, size -1)
 HP: 127
-HP_extra: 
 HD: 17d8+51
 saves: Fort +8, Ref +10, Will +12
 immune: undead traits

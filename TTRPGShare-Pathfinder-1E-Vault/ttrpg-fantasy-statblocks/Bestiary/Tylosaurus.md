@@ -5,7 +5,7 @@ name: Tylosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Tylosaurus
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, darkvision
 AC: 20, touch 8, flat-footed 18 (dex +1, dodge +1, natural +12, size -4)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +15, Ref +8, Will +4
 speed: 20 ft., swim 50 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm aquatic
   - name: Organisation
     desc: solitary, pair, or school (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

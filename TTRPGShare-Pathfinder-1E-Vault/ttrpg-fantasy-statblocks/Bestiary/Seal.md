@@ -5,7 +5,7 @@ name: Seal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Seal
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +3, Will +1
 speed: 10 ft., swim 60 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or rookery (3-22)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

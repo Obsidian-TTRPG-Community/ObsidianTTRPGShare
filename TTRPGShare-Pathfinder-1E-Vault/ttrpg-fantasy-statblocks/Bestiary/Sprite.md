@@ -5,7 +5,7 @@ name: Sprite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/3
 name: Sprite
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +6
 senses: detect evil, detect good, low-light vision
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 3
-HP_extra: 
 HD: 1d6
 saves: Fort +0, Ref +5, Will +2
 DR: 2/cold iron

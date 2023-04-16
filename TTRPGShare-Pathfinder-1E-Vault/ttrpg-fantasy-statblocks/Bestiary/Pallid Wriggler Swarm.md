@@ -5,7 +5,7 @@ name: Pallid Wriggler Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 109: In Search of Sanity"
+source: "Pathfinder No. 109: In Search of Sanity"
 Monster_CR: 2
 name: Pallid Wriggler Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +11
 senses: blindsense, scent
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +3, Ref +3, Will +5
 immune: weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or cloud (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Indescribable Swarm (Ex)

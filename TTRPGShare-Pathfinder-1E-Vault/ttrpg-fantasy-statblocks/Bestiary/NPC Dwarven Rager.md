@@ -5,7 +5,7 @@ name: NPC Dwarven Rager
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Dwarven Rager
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +2
 perception: +7
 AC: 18, touch 10, flat-footed 16 (armor +6, dex +2, rage -2, shield +2)
 HP: 28
-HP_extra: 
 HD: 2d12+10
 saves: Fort +7, Ref +2, Will +4
 saves_other: +2 vs. poison, spells, and spell-like abilities

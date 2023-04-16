@@ -5,7 +5,7 @@ name: Armadillo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Armadillo
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +8
 senses: scent
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 defensive_abilities: protective ball
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm plains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Natural Diver (Ex)

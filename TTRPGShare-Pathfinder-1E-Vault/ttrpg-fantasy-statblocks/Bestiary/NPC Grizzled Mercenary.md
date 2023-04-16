@@ -5,7 +5,7 @@ name: NPC Grizzled Mercenary
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Grizzled Mercenary
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +0
 perception: +4
 AC: 18, touch 10, flat-footed 18 (armor +8)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +7, Ref +3, Will +3
 speed: 20 ft.

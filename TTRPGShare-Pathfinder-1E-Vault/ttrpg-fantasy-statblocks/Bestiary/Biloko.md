@@ -5,7 +5,7 @@ name: Biloko
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 38: Racing to Ruin"
+source: "Pathfinder No. 38: Racing to Ruin"
 Monster_CR: 1/2
 name: Biloko
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 5
-HP_extra: 
 HD: 2d6-2
 saves: Fort -1, Ref +5, Will +4
 speed: 20 ft.

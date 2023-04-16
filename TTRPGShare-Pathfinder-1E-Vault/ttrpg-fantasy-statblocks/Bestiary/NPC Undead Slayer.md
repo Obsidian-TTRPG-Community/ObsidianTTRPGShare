@@ -5,7 +5,7 @@ name: NPC Undead Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Undead Slayer
 Monster_XP: 51200
@@ -19,7 +19,6 @@ INI: +2
 perception: +21
 AC: 25, touch 14, flat-footed 23 (armor +6, deflection +2, dex +2, natural +5)
 HP: 132
-HP_extra: 
 HD: 16d10+40
 saves: Fort +17, Ref +15, Will +10
 immune: cold (120 points), fire (120 points), poison

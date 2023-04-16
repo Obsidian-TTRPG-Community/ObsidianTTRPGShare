@@ -5,7 +5,7 @@ name: NPC Adventurer (Battle Mage)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Adventurer (Battle Mage)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: +6
 perception: +6
 AC: 16, touch 12, flat-footed 14 (mage armor +4, dex +2)
 HP: 33
-HP_extra: 
 HD: 6d6+12
 saves: Fort +3, Ref +4, Will +5
 speed: 30 ft.

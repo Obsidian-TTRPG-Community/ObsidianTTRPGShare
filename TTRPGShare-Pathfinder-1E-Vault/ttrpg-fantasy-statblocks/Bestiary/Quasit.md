@@ -5,7 +5,7 @@ name: Quasit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Quasit
 Monster_XP: 600
@@ -41,6 +41,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or flock (2-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

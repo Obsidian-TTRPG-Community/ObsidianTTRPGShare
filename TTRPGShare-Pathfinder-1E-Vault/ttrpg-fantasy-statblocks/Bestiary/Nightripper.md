@@ -5,7 +5,7 @@ name: Nightripper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 24
 name: Nightripper
 Monster_XP: 1228800

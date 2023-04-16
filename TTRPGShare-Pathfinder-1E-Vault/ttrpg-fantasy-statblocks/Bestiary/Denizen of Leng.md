@@ -5,7 +5,7 @@ name: Denizen of Leng
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Denizen of Leng
 Monster_XP: 4800

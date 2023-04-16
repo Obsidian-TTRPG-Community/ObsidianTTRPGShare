@@ -5,7 +5,7 @@ name: Ancient Sovereign Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Ancient Sovereign Dragon
 Monster_XP: 307200
@@ -18,7 +18,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 39, touch 5, flat-footed 39 (dex -1, natural +34, size -4)
 HP: 377
-HP_extra: 
 HD: 26d12+208
 saves: Fort +23, Ref +16, Will +24
 immune: paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

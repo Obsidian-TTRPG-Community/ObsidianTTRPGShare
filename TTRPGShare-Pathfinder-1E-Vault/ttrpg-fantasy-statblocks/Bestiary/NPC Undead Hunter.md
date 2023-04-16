@@ -5,7 +5,7 @@ name: NPC Undead Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Undead Hunter
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +20
 senses: darkvision
 AC: 16, touch 9, flat-footed 15 (armor +7, dex +1, rage -2)
 HP: 237
-HP_extra: 
 HD: 16d12+128
 saves: Fort +19, Ref +8, Will +11
 saves_other: +6 vs. spells and supernatural or spell-like abilities, +4 vs. enchantments

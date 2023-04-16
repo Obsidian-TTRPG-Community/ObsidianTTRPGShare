@@ -5,7 +5,7 @@ name: Iron Sentinel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 134: It Came from Hollow Mountain"
+source: "Pathfinder No. 134: It Came from Hollow Mountain"
 Monster_CR: 5
 name: Iron Sentinel
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, detect magic, low-light vision
 AC: 19, touch 15, flat-footed 15 (dex +4, natural +4, size +1)
 HP: 54
-HP_extra: 
 HD: 8d10+10
 saves: Fort +2, Ref +8, Will +2
 immune: cold, construct traits, magic
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or troop (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alert (Su)

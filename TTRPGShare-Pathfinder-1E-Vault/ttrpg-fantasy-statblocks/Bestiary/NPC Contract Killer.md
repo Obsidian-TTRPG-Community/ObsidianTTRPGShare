@@ -5,7 +5,7 @@ name: NPC Contract Killer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Contract Killer
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +17
 senses: low-light vision
 AC: 21, touch 16, flat-footed 16 (armor +5, deflection +1, dex +5)
 HP: 86
-HP_extra: 
 HD: 11d8+33
 saves: Fort +5, Ref +13, Will +5
 saves_other: +2 vs. enchantments

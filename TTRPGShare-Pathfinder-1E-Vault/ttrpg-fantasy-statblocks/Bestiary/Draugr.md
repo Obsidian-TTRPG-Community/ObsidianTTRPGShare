@@ -5,7 +5,7 @@ name: Draugr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Draugr
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision
 AC: 14, touch 10, flat-footed 14 (armor +2, natural +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +2, Ref +1, Will +3
 immune: undead traits

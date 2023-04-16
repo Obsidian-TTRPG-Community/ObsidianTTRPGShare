@@ -5,7 +5,7 @@ name: Nualidu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 105: The Inferno Gate"
+source: "Pathfinder No. 105: The Inferno Gate"
 Monster_CR: 5
 name: Nualidu
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +8, Will +4
 immune: electricity, petrification
@@ -43,6 +42,7 @@ ecology:
     desc: any water (Elysium)
   - name: Organisation
     desc: solitary, pair, or pod (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aqueous (Ex)

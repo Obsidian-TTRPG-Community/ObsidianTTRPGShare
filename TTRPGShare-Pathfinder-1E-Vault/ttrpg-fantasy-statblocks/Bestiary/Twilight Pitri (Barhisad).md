@@ -5,7 +5,7 @@ name: Twilight Pitri (Barhisad)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Twilight Pitri (Barhisad)
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: frightful presence
 AC: 36, touch 32, flat-footed 27 (dex +8, dodge +1, shield +4, size -1, wis +14)
 HP: 300
-HP_extra: 
 HD: 24d10+168
 saves: Fort +15, Ref +22, Will +22
 saves_other: +2 vs. enchantment
@@ -46,6 +45,7 @@ ecology:
     desc: any (Positive Energy Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Anatomical Undoing (Ex)

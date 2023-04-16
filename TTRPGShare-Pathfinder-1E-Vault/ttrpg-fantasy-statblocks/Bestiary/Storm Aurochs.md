@@ -5,7 +5,7 @@ name: Storm Aurochs
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 96: Shadow of the Storm Tyrant"
+source: "Pathfinder No. 96: Shadow of the Storm Tyrant"
 Monster_CR: 9
 name: Storm Aurochs
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +21
 senses: darkvision, low-light vision, scent
 AC: 23, touch 11, flat-footed 20 (dex +2, dodge +1, natural +12, size -2)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +13, Ref +10, Will +12
 immune: electricity, sonic
@@ -40,6 +39,7 @@ ecology:
     desc: any sky
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Stampede (Ex)

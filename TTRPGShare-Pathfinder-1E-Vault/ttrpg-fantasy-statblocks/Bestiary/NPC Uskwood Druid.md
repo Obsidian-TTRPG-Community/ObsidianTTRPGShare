@@ -5,7 +5,7 @@ name: NPC Uskwood Druid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 10
 name: NPC Uskwood Druid
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +20
 senses: low-light vision
 AC: 22, touch 14, flat-footed 19 (armor +6, deflection +1, dex +2, dodge +1, shield +2)
 HP: 86
-HP_extra: 
 HD: 11d8+33
 saves: Fort +10, Ref +7, Will +13
 saves_other: +2 vs. enchantment, +4 vs. fey and plant-targeted effects

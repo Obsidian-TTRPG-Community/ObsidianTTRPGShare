@@ -5,7 +5,7 @@ name: Shadowgarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 25: The Bastards of Erebus"
+source: "Pathfinder No. 25: The Bastards of Erebus"
 Monster_CR: 2
 name: Shadowgarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (armor +2, dex +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +5, Will +5
 defensive_abilities: feather fall, shadow blend
@@ -39,6 +38,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary or gathering (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Feather Fall (Ex)

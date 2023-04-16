@@ -5,7 +5,7 @@ name: NPC Expert Blacksmith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Expert Blacksmith
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +0
 senses: darkvision
 AC: 12, touch 10, flat-footed 12 (armor +2)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +2, Will +5
 saves_other: +2 vs. poison, spells, and spell-like abilities

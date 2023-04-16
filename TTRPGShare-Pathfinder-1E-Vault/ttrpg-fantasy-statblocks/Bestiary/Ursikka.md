@@ -5,7 +5,7 @@ name: Ursikka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Ursikka
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision, scent, tremorsense
 AC: 24, touch 8, flat-footed 24 (natural +16, size -2)
 HP: 138
-HP_extra: 
 HD: 12d10+72
 saves: Fort +14, Ref +10, Will +5
 saves_other: +4 vs. mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any cold land
   - name: Organisation
     desc: solitary, pair, or hive (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Coat Claws (Ex)

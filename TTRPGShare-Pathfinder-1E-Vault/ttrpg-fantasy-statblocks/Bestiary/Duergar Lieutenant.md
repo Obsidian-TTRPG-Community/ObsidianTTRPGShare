@@ -5,7 +5,7 @@ name: Duergar Lieutenant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Duergar Lieutenant
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 20, touch 11, flat-footed 19 (armor +5, dex +1, natural +4)
 HP: 61
-HP_extra: 
 HD: 6d10+24
 saves: Fort +8, Ref +6, Will +4
 saves_other: +2 vs. spells

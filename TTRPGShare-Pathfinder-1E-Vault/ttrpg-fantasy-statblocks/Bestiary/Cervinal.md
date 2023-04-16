@@ -5,7 +5,7 @@ name: Cervinal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Cervinal
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision, detect scrying, low-light vision, see invisibility
 AC: 32, touch 15, flat-footed 26 (dex +5, dodge +1, natural +17, size -1)
 HP: 283
-HP_extra: 
 HD: 21d10+168
 saves: Fort +20, Ref +14, Will +19
 saves_other: +4 vs. poison

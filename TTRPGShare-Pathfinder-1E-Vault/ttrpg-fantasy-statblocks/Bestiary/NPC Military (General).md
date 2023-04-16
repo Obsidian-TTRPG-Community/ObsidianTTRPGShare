@@ -5,7 +5,7 @@ name: NPC Military (General)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 10
 name: NPC Military (General)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ INI: +1
 perception: +10
 AC: 23, touch 13, flat-footed 21 (armor +10, deflection +1, dex +1, dodge +1)
 HP: 85
-HP_extra: 
 HD: 11d10+25
 saves: Fort +11, Ref +6, Will +5
 saves_other: +3 vs. fear

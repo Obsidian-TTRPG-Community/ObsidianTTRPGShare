@@ -5,7 +5,7 @@ name: Basilisk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Basilisk
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 17, touch 9, flat-footed 17 (dex -1, natural +8)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +9, Ref +4, Will +5
 speed: 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Gaze (Ex)

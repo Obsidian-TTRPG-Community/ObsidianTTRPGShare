@@ -5,7 +5,7 @@ name: Danse Macabre
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 14
 name: Danse Macabre
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision, lifesense
 aura: dance of death
 AC: 29, touch 29, flat-footed 19 (deflection +10, dex +9, dodge +1, size -1)
 HP: 203
-HP_extra: 
 HD: 14d8+140
 saves: Fort +14, Ref +13, Will +17
 immune: cold, undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Dance of Death (Su)

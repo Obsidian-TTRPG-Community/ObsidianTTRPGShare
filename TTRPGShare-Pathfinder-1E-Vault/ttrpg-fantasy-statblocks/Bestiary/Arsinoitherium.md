@@ -5,7 +5,7 @@ name: Arsinoitherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Arsinoitherium
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 20, touch 9, flat-footed 20 (natural +11, size -1)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +13, Ref +6, Will +4
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

@@ -5,7 +5,7 @@ name: Mist Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Mist Drake
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, fogvision, low-light vision, scent
 AC: 19, touch 12, flat-footed 16 (dex +2, dodge +1, natural +7, size -1)
 HP: 57
-HP_extra: 
 HD: 6d12+18
 saves: Fort +8, Ref +7, Will +6
 immune: paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: cold or temperate coasts, hills, or marshes
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fogburst (Su)

@@ -5,7 +5,7 @@ name: Giant Sea Anemone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Giant Sea Anemone
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +0
 senses: blindsight
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +3, Will +1
 immune: gaze attacks, mind-affecting effects, poison, vision-based effects
@@ -41,6 +40,7 @@ ecology:
     desc: any oceans or coastlines
   - name: Organisation
     desc: solitary, pair, or cluster (2-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Anchored (Ex)

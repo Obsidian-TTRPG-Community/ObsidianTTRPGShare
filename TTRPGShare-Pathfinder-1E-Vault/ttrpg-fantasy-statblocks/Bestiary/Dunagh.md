@@ -5,7 +5,7 @@ name: Dunagh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Daughters of Fury"
+source: "Daughters of Fury"
 Monster_CR: 4
 name: Dunagh
 Monster_XP: 1200
@@ -40,6 +40,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Fate (Su)

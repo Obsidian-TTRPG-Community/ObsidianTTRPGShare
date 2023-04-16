@@ -5,7 +5,7 @@ name: Chemosit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 38: Racing to Ruin"
+source: "Pathfinder No. 38: Racing to Ruin"
 Monster_CR: 4
 name: Chemosit
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision, low-light vision, scent
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +8, Ref +7, Will +3
 speed: 40 ft., climb 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or troop (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Brain Eater (Su)

@@ -5,7 +5,7 @@ name: Gaki
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Gaki
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, detect evil
 AC: 20, touch 13, flat-footed 17 (dex +2, dodge +1, natural +7)
 HP: 74
-HP_extra: 
 HD: 9d8+32
 saves: Fort +5, Ref +7, Will +9
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Aversion to Sun and Moon (Ex)

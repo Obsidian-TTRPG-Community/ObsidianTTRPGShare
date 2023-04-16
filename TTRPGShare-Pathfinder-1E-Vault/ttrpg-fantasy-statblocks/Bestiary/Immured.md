@@ -5,7 +5,7 @@ name: Immured
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Daughters of Fury"
+source: "Daughters of Fury"
 Monster_CR: 3
 name: Immured
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision
 aura: breathlessness
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +3, Ref +1, Will +5
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Breathlessness (Su)

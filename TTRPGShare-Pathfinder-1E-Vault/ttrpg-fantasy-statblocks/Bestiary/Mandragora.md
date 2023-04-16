@@ -5,7 +5,7 @@ name: Mandragora
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Mandragora
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +7, Will +2
 immune: plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: cold or temperate forests
   - name: Organisation
     desc: solitary, pair, or grove (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

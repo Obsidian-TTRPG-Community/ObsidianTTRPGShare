@@ -5,7 +5,7 @@ name: Ghole
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Ghole
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +22
 senses: darkvision, scent sickness
 AC: 26, touch 14, flat-footed 22 (dex +4, natural +12)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +12, Ref +14, Will +13
 immune: disease
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bolster Disease (Su)

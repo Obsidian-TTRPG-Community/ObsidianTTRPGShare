@@ -5,7 +5,7 @@ name: Harionago
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Harionago
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +20
 senses: darkvision
 AC: 25, touch 15, flat-footed 20 (dex +5, natural +10)
 HP: 147
-HP_extra: 
 HD: 14d8+84
 saves: Fort +10, Ref +9, Will +12
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Infectious Laughter (Su)

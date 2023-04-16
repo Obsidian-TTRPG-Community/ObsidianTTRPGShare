@@ -5,7 +5,7 @@ name: Frost Giant Elite Scout
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Frost Giant Elite Scout
 Monster_XP: 25600

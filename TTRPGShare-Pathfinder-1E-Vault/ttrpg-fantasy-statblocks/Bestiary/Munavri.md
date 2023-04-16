@@ -5,7 +5,7 @@ name: Munavri
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1
 name: Munavri
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 11
-HP_extra: 
 HD: 1d8+3
 saves: Fort +2, Ref +3, Will +4
 SR: 9

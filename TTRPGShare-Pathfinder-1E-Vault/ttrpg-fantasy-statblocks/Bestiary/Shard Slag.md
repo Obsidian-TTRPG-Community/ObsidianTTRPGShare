@@ -5,7 +5,7 @@ name: Shard Slag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Shard Slag
 Monster_XP: 4800
@@ -18,7 +18,6 @@ senses: blindsight, tremorsense
 aura: molten form
 AC: 20, touch 6, flat-footed 20 (dex -2, natural +14, size -2)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +10, Ref +2, Will -1
 immune: acid, electricity, fire, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any volcanoes or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Burrow (Ex)

@@ -5,7 +5,7 @@ name: Taotieh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Taotieh
 Monster_XP: 12800
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 28, touch 11, flat-footed 26 (dex +2, natural +17, size -1)
 HP: 107
-HP_extra: 
 HD: 14d10+30
 saves: Fort +4, Ref +6, Will +6
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Swallow Whole (Su)

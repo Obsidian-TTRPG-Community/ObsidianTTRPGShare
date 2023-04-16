@@ -5,7 +5,7 @@ name: NPC Angel Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Angel Slayer
 Monster_XP: 38400
@@ -20,7 +20,6 @@ perception: +20
 senses: darkvision
 AC: 26, touch 14, flat-footed 23 (armor +6, deflection +1, dex +3, natural +5, shield +1)
 HP: 112
-HP_extra: 
 HD: 15d10+25
 saves: Fort +13, Ref +17, Will +12
 immune: cold (120 points)

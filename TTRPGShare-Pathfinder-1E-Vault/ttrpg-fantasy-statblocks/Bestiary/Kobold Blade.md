@@ -5,7 +5,7 @@ name: Kobold Blade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Kobold Blade
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 22, touch 15, flat-footed 18 (armor +6, dex +4, natural +1, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+4
 saves: Fort +4, Ref +5, Will +1
 defensive_abilities: bravery +1

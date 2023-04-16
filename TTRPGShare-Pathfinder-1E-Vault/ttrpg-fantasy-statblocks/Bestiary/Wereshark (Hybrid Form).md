@@ -5,7 +5,7 @@ name: Wereshark (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Wereshark (Hybrid Form)
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +2
 senses: blindsense, low-light vision, keen scent
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 36
-HP_extra: 
 HD: 3d10+15
 saves: Fort +6, Ref +2, Will +3
 DR: 10/silver

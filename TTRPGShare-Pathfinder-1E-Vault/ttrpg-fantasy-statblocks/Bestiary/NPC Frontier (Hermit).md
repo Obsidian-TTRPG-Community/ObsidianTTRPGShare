@@ -5,7 +5,7 @@ name: NPC Frontier (Hermit)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC Frontier (Hermit)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ INI: +0
 perception: +10
 AC: 11, touch 10, flat-footed 11 (armor +1)
 HP: 38
-HP_extra: 
 HD: 7d8+7
 saves: Fort +7, Ref +3, Will +10
 saves_other: +4 vs. fey and plant-targeted effects

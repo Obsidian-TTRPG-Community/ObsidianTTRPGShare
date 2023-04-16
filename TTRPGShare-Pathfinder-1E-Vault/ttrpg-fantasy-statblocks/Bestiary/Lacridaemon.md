@@ -5,7 +5,7 @@ name: Lacridaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Lacridaemon
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision, detect good, detect magic
 aura: weeping
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +4, Will +5
 immune: acid, cold, death effects, disease, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or lurk (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poisonous Tears (Su)

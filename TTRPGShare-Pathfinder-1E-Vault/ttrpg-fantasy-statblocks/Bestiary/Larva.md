@@ -5,7 +5,7 @@ name: Larva
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 76: The Midnight Isles"
+source: "Pathfinder No. 76: The Midnight Isles"
 Monster_CR: 1
 name: Larva
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 10, touch 10, flat-footed 10
 HP: 16
-HP_extra: 
 HD: 2d10+5
 saves: Fort +4, Ref +3, Will +0
 resist: cold 10, electricity 10, fire 10

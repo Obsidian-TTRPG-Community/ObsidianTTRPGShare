@@ -5,7 +5,7 @@ name: Tychilarius
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 23
 name: Tychilarius
 Monster_XP: 819200
@@ -18,7 +18,6 @@ perception: +37
 senses: darkvision, true seeing
 AC: 41, touch 25, flat-footed 29 (dex +12, insight +11, natural +16, size -8)
 HP: 495
-HP_extra: 
 HD: 22d8+396
 saves: Fort +25, Ref +19, Will +25
 saves_other: +4 vs. psychic spells and effects
@@ -45,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: unique
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Overcharge Synapses (Su)

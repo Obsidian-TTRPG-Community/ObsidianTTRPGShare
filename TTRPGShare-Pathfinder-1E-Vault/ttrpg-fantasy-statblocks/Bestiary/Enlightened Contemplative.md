@@ -5,7 +5,7 @@ name: Enlightened Contemplative
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 5
 name: Enlightened Contemplative
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +17
 senses: blindsight, darkvision, thoughtsense
 AC: 16, touch 16, flat-footed 15 (deflection +5, dex +1)
 HP: 40
-HP_extra: 
 HD: 9d10-9
 saves: Fort +4, Ref +7, Will +9
 defensive_abilities: psychic buffer
@@ -37,6 +36,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, band (2-5), or entourage (1 plus 2-4 contemplatives)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Phrenic Disruption (Su)

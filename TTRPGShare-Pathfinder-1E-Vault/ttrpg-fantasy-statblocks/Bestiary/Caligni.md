@@ -5,7 +5,7 @@ name: Caligni
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Caligni
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +3
 senses: see in darkness
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 12
-HP_extra: 
 HD: 1d8+4
 saves: Fort +3, Ref +5, Will -1
 weak: light sensitivity

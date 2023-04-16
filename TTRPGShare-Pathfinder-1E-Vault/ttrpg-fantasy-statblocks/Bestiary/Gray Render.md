@@ -5,7 +5,7 @@ name: Gray Render
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Gray Render
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision, scent
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 100
-HP_extra: 
 HD: 8d10+56
 saves: Fort +13, Ref +7, Will +4
 speed: 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary (plus bonded creatures if any)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Double Damage Against Objects (Ex)

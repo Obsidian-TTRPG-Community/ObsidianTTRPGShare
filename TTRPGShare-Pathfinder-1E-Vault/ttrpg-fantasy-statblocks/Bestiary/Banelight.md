@@ -5,7 +5,7 @@ name: Banelight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Banelight
 Monster_XP: 19200
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or witchlight (3-10 plus 4-6 will-o’-wisps or lurkers in light)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Banelight Aura (Su)

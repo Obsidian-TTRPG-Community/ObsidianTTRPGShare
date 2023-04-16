@@ -5,7 +5,7 @@ name: Dark Spitter Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Dark Spitter Beetle
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +1, Will +1
 immune: acid, mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: single, pair, or cluster (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Monster Codex

@@ -5,7 +5,7 @@ name: Scarecrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Scarecrow
 Monster_XP: 1200
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +1, Ref +1, Will +1
 immune: cold, construct traits
@@ -35,6 +34,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fascinating Gaze (Su)

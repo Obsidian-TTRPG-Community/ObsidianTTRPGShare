@@ -5,7 +5,7 @@ name: Plague Locust Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 79: The Half-Dead City"
+source: "Pathfinder No. 79: The Half-Dead City"
 Monster_CR: 8
 name: Plague Locust Swarm
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision
 AC: 22, touch 22, flat-footed 18 (dex +4, size +8)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +11, Ref +8, Will +5
 immune: mind-affecting effects, weapon damage
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts or plains
   - name: Organisation
     desc: solitary, pair, or calamity (3-64)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Devour (Ex)

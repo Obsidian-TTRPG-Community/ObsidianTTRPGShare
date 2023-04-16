@@ -5,7 +5,7 @@ name: Gray Goo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Gray Goo
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 29, touch 29, flat-footed 18 (dex +10, dodge +1, size +8)
 HP: 123
-HP_extra: 
 HD: 19d10+19
 saves: Fort +8, Ref +18, Will +8
 immune: construct traits, weapon damage
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or storm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dismantle (Ex)

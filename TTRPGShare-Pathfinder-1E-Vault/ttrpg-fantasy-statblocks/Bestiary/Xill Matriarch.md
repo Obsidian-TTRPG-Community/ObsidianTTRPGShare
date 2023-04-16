@@ -5,7 +5,7 @@ name: Xill Matriarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 9
 name: Xill Matriarch
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 23, touch 14, flat-footed 19 (dex +4, natural +7, shield +2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +10, Will +12
 speed: 40 ft.

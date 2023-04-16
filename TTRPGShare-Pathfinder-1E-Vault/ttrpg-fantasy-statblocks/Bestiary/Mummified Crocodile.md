@@ -5,7 +5,7 @@ name: Mummified Crocodile
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 2
 name: Mummified Crocodile
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision
 AC: 14, touch 10, flat-footed 13 (dex +1, natural +4, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +4, Will +2
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: warm ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Roll (Ex)

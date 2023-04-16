@@ -5,7 +5,7 @@ name: Tempest Behemoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 22
 name: Tempest Behemoth
 Monster_XP: 614400
@@ -46,6 +46,7 @@ ecology:
     desc: any air
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gale (Su)

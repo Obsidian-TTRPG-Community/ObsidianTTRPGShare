@@ -5,7 +5,7 @@ name: NPC Deadly Spy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Deadly Spy
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +13
 senses: low-light vision
 AC: 19, touch 14, flat-footed 15 (armor +5, dex +4)
 HP: 53
-HP_extra: 
 HD: 9d8+9
 saves: Fort +4, Ref +10, Will +2
 saves_other: +2 vs. enchantments

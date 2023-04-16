@@ -5,7 +5,7 @@ name: Firbolg
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Firbolg
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision
 AC: 17, touch 10, flat-footed 17 (armor +2, dex +1, natural +5, size -1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +5, Will +6
 speed: 40 ft.

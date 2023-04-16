@@ -5,7 +5,7 @@ name: NPC Daredevil Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Daredevil Hunter
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +21
 senses: darkvision, low-light vision
 AC: 33, touch 19, flat-footed 26 (armor +9, deflection +2, dex +6, dodge +1, natural +5)
 HP: 142
-HP_extra: 
 HD: 17d10+44
 saves: Fort +15, Ref +20, Will +9
 saves_other: +2 vs. enchantments

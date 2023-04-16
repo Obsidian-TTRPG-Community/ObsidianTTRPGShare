@@ -5,7 +5,7 @@ name: NPC Chameleon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Chameleon
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision
 AC: 19, touch 13, flat-footed 17 (armor +6, deflection +1, dex +1, dodge +1)
 HP: 75
-HP_extra: 
 HD: 11d8+22
 saves: Fort +4, Ref +8, Will +7
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

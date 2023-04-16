@@ -5,7 +5,7 @@ name: Mummified Hippopotamus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 6
 name: Mummified Hippopotamus
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, scent
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +7, Ref +5, Will +3
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: warm ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Capsize (Ex)

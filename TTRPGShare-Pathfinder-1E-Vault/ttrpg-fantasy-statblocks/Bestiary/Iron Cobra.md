@@ -5,7 +5,7 @@ name: Iron Cobra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Iron Cobra
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 18 (dex +2, natural +7, size +1)
 HP: 15
-HP_extra: 
 HD: 1d10+10
 saves: Fort +0, Ref +2, Will +0
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or nest (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Find Target (Su)

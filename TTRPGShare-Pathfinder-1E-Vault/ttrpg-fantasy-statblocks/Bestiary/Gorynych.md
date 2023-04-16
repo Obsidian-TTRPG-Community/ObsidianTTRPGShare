@@ -5,7 +5,7 @@ name: Gorynych
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Gorynych
 Monster_XP: 51200
@@ -41,6 +41,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Breath Weapon (Su)

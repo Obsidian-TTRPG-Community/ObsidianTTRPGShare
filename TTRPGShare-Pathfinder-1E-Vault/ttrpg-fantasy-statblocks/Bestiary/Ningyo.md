@@ -5,7 +5,7 @@ name: Ningyo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 1
 name: Ningyo
 Monster_XP: 400
@@ -17,7 +17,6 @@ INI: +1
 perception: +2
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +1, Ref +4, Will +5
 speed: 20 ft., swim 40 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or shoal (3-22)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Group Grapplers (Ex)

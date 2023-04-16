@@ -5,7 +5,7 @@ name: Dragon Horse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Dragon Horse
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, know alignment, low-light vision
 AC: 23, touch 13, flat-footed 19 (dex +3, dodge +1, natural +10, size -1)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +10, Will +9
 speed: 60 ft., fly 120 ft. (good)
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapons (Su)

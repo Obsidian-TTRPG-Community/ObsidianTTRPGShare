@@ -5,7 +5,7 @@ name: Walrus (FF)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Animal Archive"
+source: "Animal Archive"
 Monster_CR: 4
 name: Walrus (FF)
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +8, Ref +6, Will +1
 speed: 20 ft., swim 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold coastlines
   - name: Organisation
     desc: solitary, pair, or herd (3-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fatal Gore (Ex)

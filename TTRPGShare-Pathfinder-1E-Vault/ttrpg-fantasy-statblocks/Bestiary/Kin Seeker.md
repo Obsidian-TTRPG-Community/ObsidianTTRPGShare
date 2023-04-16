@@ -5,7 +5,7 @@ name: Kin Seeker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 6
 name: Kin Seeker
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 21, touch 13, flat-footed 18 (armor +3, dex +3, natural +3, shield +2)
 HP: 48
-HP_extra: 
 HD: 6d8+18
 saves: Fort +5, Ref +6, Will +3
 defensive_abilities: ferocity

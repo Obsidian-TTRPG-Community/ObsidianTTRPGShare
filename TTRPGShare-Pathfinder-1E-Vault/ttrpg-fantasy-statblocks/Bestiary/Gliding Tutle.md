@@ -5,7 +5,7 @@ name: Gliding Tutle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 121: The Lost Outpost"
+source: "Pathfinder No. 121: The Lost Outpost"
 Monster_CR: 2
 name: Gliding Tutle
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 14, touch 9, flat-footed 14 (natural +5, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +4, Ref +3, Will +1
 speed: 10 ft., fly 30 ft. (clumsy), swim 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests and coasts
   - name: Organisation
     desc: solitary, pair, or den (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Glide (Ex)

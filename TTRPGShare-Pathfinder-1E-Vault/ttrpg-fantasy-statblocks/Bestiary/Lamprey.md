@@ -5,7 +5,7 @@ name: Lamprey
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Lamprey
 Monster_XP: 135
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +4, Will +1
 speed: swim 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate oceans
   - name: Organisation
     desc: solitary, pair, or school (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

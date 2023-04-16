@@ -5,7 +5,7 @@ name: Abysogh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 96: Shadow of the Storm Tyrant"
+source: "Pathfinder No. 96: Shadow of the Storm Tyrant"
 Monster_CR: 15
 name: Abysogh
 Monster_XP: 51200

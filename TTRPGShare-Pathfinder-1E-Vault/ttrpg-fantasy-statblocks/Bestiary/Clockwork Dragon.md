@@ -5,7 +5,7 @@ name: Clockwork Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 16
 name: Clockwork Dragon
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, see invisibility
 AC: 34, touch 14, flat-footed 28 (dex +4, dodge +2, natural +20, size -2)
 HP: 177
-HP_extra: 
 HD: 25d10+40
 saves: Fort +8, Ref +14, Will +8
 immune: construct traits
@@ -46,6 +45,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adamantine Weapons (Ex)

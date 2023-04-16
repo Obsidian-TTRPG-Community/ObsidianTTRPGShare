@@ -5,7 +5,7 @@ name: Mole (FF)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Familiar Folio"
+source: "Familiar Folio"
 Monster_CR: 1/6
 name: Mole (FF)
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 12, touch 12, flat-footed 12 (size +2)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +2, Will +0
 speed: 20 ft., burrow 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or labor (3-5)
+  - name: Treasure
     desc: none
 sources:
   - name: Familiar Folio

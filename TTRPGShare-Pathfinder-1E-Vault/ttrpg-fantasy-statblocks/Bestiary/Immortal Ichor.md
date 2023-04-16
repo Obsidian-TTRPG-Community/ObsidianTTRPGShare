@@ -5,7 +5,7 @@ name: Immortal Ichor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 17
 name: Immortal Ichor
 Monster_XP: 102400
@@ -40,6 +40,7 @@ ecology:
     desc: any ruins or underground
   - name: Organisation
     desc: solitary or cult (1 plus 3-12 worshipers or juju zombies)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corrupt Ally (Su)

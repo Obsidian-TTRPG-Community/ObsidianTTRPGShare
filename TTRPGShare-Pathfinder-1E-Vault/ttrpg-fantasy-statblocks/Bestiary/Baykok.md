@@ -5,7 +5,7 @@ name: Baykok
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Baykok
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision
 AC: 24, touch 17, flat-footed 17 (dex +6, dodge +1, natural +7)
 HP: 97
-HP_extra: 
 HD: 15d8+30
 saves: Fort +7, Ref +11, Will +9
 immune: undead traits

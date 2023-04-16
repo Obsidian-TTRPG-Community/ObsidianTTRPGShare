@@ -5,7 +5,7 @@ name: Esobok
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Esobok
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision, detect undead, low-light vision, scent, spiritsense
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +4, Will +6
 immune: death effects, disease, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary, pack (2-6), or hunting party (3-10 plus 1 vanth psychopomp)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Eater of the Dead (Su)

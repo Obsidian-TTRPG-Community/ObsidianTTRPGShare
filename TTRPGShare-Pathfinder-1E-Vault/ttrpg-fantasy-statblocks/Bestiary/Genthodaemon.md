@@ -5,7 +5,7 @@ name: Genthodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 71: Rasputin Must Die!"
+source: "Pathfinder No. 71: Rasputin Must Die!"
 Monster_CR: 5
 name: Genthodaemon
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: destruction
 AC: 18, touch 9, flat-footed 18 (natural +9, size -1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +5, Will +3
 immune: acid, death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary or squad (2-18)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Destruction (Su)

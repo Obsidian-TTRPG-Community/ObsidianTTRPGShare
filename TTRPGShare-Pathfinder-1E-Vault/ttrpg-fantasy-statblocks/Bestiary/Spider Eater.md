@@ -5,7 +5,7 @@ name: Spider Eater
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Spider Eater
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision, scent
 AC: 18, touch 12, flat-footed 15 (dex +2, dodge +1, natural +6, size -1)
 HP: 52
-HP_extra: 
 HD: 5d10+25
 saves: Fort +9, Ref +6, Will +2
 defensive_abilities: freedom of movement
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or brood (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Implant (Ex)

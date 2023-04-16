@@ -5,7 +5,7 @@ name: Grassling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 129: The Twilight Child"
+source: "Pathfinder No. 129: The Twilight Child"
 Monster_CR: 6
 name: Grassling
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: greensight, low-light vision
 AC: 19, touch 15, flat-footed 15 (dex +4, natural +4, size +1)
 HP: 65
-HP_extra: 
 HD: 10d6+30
 saves: Fort +5, Ref +11, Will +8
 defensive_abilities: plant form
@@ -36,6 +35,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, or tuft (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Plant Form (Ex)

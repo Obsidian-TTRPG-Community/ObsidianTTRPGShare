@@ -5,7 +5,7 @@ name: Ugash-Iram
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 15
 name: Ugash-Iram
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, low-light vision, see in darkness
 AC: 28, touch 6, flat-footed 24 (dex +4, natural +22, size -8)
 HP: 229
-HP_extra: 
 HD: 17d10+136
 saves: Fort +18, Ref +14, Will +10
 resist: acid 10, cold 10

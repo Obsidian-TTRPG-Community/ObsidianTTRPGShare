@@ -5,7 +5,7 @@ name: Young Cloud Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Young Cloud Dragon
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: dragon senses, mist vision
 AC: 20, touch 9, flat-footed 20 (natural +11, size -1)
 HP: 95
-HP_extra: 
 HD: 10d12+30
 saves: Fort +10, Ref +7, Will +10
 immune: electricity, paralysis, sleep
@@ -37,6 +36,7 @@ ecology:
     desc: any sky (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 spell-like_abilities:
   - name:

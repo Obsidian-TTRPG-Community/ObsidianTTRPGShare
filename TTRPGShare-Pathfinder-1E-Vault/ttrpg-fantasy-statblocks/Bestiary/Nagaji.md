@@ -5,7 +5,7 @@ name: Nagaji
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Nagaji
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +4
 senses: low-light vision
 AC: 15, touch 12, flat-footed 13 (armor +2, dex +2, natural +1)
 HP: 10
-HP_extra: 
 HD: 1d10
 saves: Fort +1, Ref +2, Will +1
 saves_other: +2 vs. mind-affecting effects and poison

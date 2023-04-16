@@ -5,7 +5,7 @@ name: Cherufe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 13
 name: Cherufe
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 24, touch 9, flat-footed 23 (dex +1, natural +15, size -2)
 HP: 189
-HP_extra: 
 HD: 18d10+90
 saves: Fort +16, Ref +14, Will +10
 immune: fire
@@ -43,6 +42,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fire Healing (Ex)

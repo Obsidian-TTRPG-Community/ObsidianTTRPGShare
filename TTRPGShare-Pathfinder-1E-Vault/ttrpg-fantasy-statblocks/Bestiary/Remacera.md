@@ -5,7 +5,7 @@ name: Remacera
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The First World, Realm of the Fey"
+source: "The First World, Realm of the Fey"
 Monster_CR: 6
 name: Remacera
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision
 AC: 18, touch 11, flat-footed 15 (dex +1, dodge +1, natural +7, size -1)
 HP: 85
-HP_extra: 
 HD: 10d6+50
 saves: Fort +8, Ref +8, Will +8
 resist: acid 10, cold 10, fire 10
@@ -39,6 +38,7 @@ ecology:
     desc: any forests and hills (First World)
   - name: Organisation
     desc: solitary, pair, or nest (3-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: New Growth (Su)

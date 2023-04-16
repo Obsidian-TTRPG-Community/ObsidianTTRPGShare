@@ -5,7 +5,7 @@ name: NPC Street Performer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Street Performer
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +2
 perception: +5
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 14
-HP_extra: 
 HD: 2d8+1
 saves: Fort +1, Ref +5, Will +4
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

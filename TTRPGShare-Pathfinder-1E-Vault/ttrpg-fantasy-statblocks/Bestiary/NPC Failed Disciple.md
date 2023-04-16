@@ -5,7 +5,7 @@ name: NPC Failed Disciple
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Failed Disciple
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +4
 senses: darkvision
 AC: 25, touch 16, flat-footed 21 (armor +4, dex +3, dodge +1, insight +1, monk +1, natural +5)
 HP: 175
-HP_extra: 
 HD: 18d10+72
 saves: Fort +19, Ref +17, Will +16
 saves_other: +5 vs. fear

@@ -5,7 +5,7 @@ name: NPC Battle Skald
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Battle Skald
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +1
 perception: +19
 AC: 23, touch 13, flat-footed 21 (armor +7, deflection +3, dex +1, dodge +1, natural +3, rage -2)
 HP: 261
-HP_extra: 
 HD: 6d12+4d8+10d8+146
 saves: Fort +20, Ref +17, Will +17
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

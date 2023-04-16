@@ -5,7 +5,7 @@ name: NPC Drow Matron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 15
 name: NPC Drow Matron
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 22, touch 12, flat-footed 20 (armor +8, dex +2, natural +2)
 HP: 116
-HP_extra: 
 HD: 15d8+45
 saves: Fort +13, Ref +14, Will +18
 saves_other: +2 vs. enchantment

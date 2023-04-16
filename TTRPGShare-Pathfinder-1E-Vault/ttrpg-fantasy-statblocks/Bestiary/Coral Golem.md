@@ -5,7 +5,7 @@ name: Coral Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Coral Golem
 Monster_XP: 6400
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 96
-HP_extra: 
 HD: 12d10+30
 saves: Fort +4, Ref +4, Will +4
 immune: construct traits, magic
@@ -38,6 +37,7 @@ ecology:
     desc: warm oceans or coastlines
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aquatic Reconstruction (Ex)

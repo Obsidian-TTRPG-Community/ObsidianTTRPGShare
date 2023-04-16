@@ -5,7 +5,7 @@ name: Soulbound Shell
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 12
 name: Soulbound Shell
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 26, touch 11, flat-footed 25 (armor +4, dex +1, natural +11)
 HP: 132
-HP_extra: 
 HD: 15d10+50
 saves: Fort +5, Ref +6, Will +7
 immune: construct traits

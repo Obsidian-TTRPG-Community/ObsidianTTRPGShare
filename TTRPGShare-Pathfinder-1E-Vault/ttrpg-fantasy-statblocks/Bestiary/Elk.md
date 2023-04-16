@@ -5,7 +5,7 @@ name: Elk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Elk
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +8, Will +2
 speed: 50 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: cold or temperate plains
   - name: Organisation
     desc: solitary, pair, or herd (3-50)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

@@ -5,7 +5,7 @@ name: Ubashki Lynx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Kingdoms"
+source: "Lost Kingdoms"
 Monster_CR: 6
 name: Ubashki Lynx
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 17, touch 12, flat-footed 14 (dex +3, natural +5, size -1)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +4, Ref +7, Will +7
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or warm deserts
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Piercing Howl (Su)

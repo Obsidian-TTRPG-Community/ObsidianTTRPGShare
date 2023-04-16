@@ -5,7 +5,7 @@ name: Brass Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 14
 name: Brass Golem
 Monster_XP: 38400
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision, see invisibility
 AC: 30, touch 8, flat-footed 30 (natural +22, size -2)
 HP: 150
-HP_extra: 
 HD: 20d10+40
 saves: Fort +6, Ref +6, Will +7
 immune: construct traits, fire, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or watch (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Brass Falchion (Ex)

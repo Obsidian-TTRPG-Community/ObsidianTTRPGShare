@@ -5,7 +5,7 @@ name: Puffin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Puffin
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +0, Ref +4, Will +2
 speed: 10 ft., fly 30 ft. (average), swim 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: cold coastlines
   - name: Organisation
     desc: solitary, pair, or colony (3-20)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

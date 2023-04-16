@@ -5,7 +5,7 @@ name: Kravyad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 7
 name: Kravyad
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, scent
 aura: electrocution
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +9, Will +6
 immune: electricty
@@ -40,6 +39,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary, pair, or ravage (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Electrocution Aura (Su)

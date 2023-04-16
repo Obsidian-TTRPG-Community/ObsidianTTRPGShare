@@ -5,7 +5,7 @@ name: Albino Cave Solifugid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Albino Cave Solifugid
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +8, Ref +3, Will +2
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

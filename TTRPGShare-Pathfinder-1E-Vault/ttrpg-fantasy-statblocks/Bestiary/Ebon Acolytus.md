@@ -5,7 +5,7 @@ name: Ebon Acolytus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 30: The Twice-Damned Prince"
+source: "Pathfinder No. 30: The Twice-Damned Prince"
 Monster_CR: 7
 name: Ebon Acolytus
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 20, touch 8, flat-footed 20 (dex -1, natural +12, size -1)
 HP: 79
-HP_extra: 
 HD: 9d10+30
 saves: Fort +3, Ref +2, Will +3
 immune: construct traits
@@ -35,6 +34,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Prostration (Ex)

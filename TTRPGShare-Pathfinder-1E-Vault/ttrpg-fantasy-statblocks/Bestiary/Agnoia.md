@@ -5,7 +5,7 @@ name: Agnoia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 14
 name: Agnoia
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision, detect magic, detect thoughts
 aura: ignorance
 AC: 29, touch 17, flat-footed 25 (deflection +4, dex +4, natural +12, size -1)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +14, Ref +14, Will +18
 immune: cold, critical hits, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, or forgetting (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Ignorance (Su)

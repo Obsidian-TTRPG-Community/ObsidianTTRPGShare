@@ -5,7 +5,7 @@ name: Saumen Kar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 51: The Hungry Storm"
+source: "Pathfinder No. 51: The Hungry Storm"
 Monster_CR: 10
 name: Saumen Kar
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +21
 senses: darkvision, scent
 AC: 24, touch 11, flat-footed 22 (deflection +4, dex +2, natural +9, size -1)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +11, Ref +10, Will +9
 immune: cold

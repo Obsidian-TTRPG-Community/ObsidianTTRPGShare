@@ -5,7 +5,7 @@ name: Hydraggon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Hydraggon
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +4, Will +4
 immune: cold, mind-affecting effects, poison

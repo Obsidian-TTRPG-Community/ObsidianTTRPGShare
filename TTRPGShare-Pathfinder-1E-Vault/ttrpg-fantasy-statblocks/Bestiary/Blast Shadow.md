@@ -5,7 +5,7 @@ name: Blast Shadow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 5
 name: Blast Shadow
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +5, Ref +6, Will +7
 immune: fire, undead traits

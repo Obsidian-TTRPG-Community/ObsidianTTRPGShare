@@ -5,7 +5,7 @@ name: Lizardfolk Vanguard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Lizardfolk Vanguard
 Monster_XP: 600

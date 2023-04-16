@@ -5,7 +5,7 @@ name: Skaveling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Skaveling
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +14
 senses: blindsense
 AC: 19, touch 13, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 58
-HP_extra: 
 HD: 9d8+18
 saves: Fort +5, Ref +6, Will +8
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or colony (2-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disease (Su)

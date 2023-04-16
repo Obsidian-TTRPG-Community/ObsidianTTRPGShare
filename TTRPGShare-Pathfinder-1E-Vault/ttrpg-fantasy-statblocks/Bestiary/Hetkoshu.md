@@ -5,7 +5,7 @@ name: Hetkoshu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 12
 name: Hetkoshu
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +15
 senses: low-light vision
 AC: 25, touch 6, flat-footed 25 (natural +19, size -4)
 HP: 172
-HP_extra: 
 HD: 15d8+105
 saves: Fort +16, Ref +9, Will +11
 speed: 20 ft., swim 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: warm marshes or rivers
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Roll (Ex)

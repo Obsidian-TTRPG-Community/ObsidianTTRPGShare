@@ -5,7 +5,7 @@ name: Rhinoceros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Rhinoceros
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +12
 senses: scent
 AC: 16, touch 9, flat-footed 16 (natural +7, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +10, Ref +4, Will +2
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

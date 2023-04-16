@@ -5,7 +5,7 @@ name: Brain Mole
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Brain Mole
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision, low-light vision, scent, second sight, tremorsense
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +5, Will +2
 defensive_abilities: shrouded mind
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests, hills, or plains
   - name: Organisation
     desc: solitary, pair, or nest (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Brain Drain (Su)

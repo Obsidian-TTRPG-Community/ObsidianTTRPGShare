@@ -5,7 +5,7 @@ name: Blindheim
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Blindheim
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 16, touch 14, flat-footed 13 (dex +2, dodge +1, natural +2, size +1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +5, Will +2
 immune: blindness
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or family (3-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blinding Gaze (Ex)

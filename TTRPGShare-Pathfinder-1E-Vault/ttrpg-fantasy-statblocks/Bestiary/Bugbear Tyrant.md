@@ -5,7 +5,7 @@ name: Bugbear Tyrant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Bugbear Tyrant
 Monster_XP: 25600

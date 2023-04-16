@@ -5,7 +5,7 @@ name: NPC Cavern Defender
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Cavern Defender
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision
 AC: 20, touch 13, flat-footed 17 (armor +5, dex +2, dodge +1, shield +2)
 HP: 31
-HP_extra: 
 HD: 5d8+5
 saves: Fort +6, Ref +6, Will +9
 saves_other: +2 vs. enchantments, +4 vs. fey and plant-targeted effects

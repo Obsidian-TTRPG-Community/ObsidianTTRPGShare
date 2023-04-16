@@ -5,7 +5,7 @@ name: Heikegani
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Heikegani
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: unnatural aura
 AC: 18, touch 12, flat-footed 17 (dex +1, natural +6, size +1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +5, Ref +2, Will +6
 speed: 30 ft., swim 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any coastlines
   - name: Organisation
     desc: solitary or guard (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Challenge (Su)

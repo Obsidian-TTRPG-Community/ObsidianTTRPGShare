@@ -5,7 +5,7 @@ name: Swordfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 2
 name: Swordfish
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +10
 senses: low-light vision
 AC: 14, touch 11, flat-footed 12 (armor +3, dex +2, size -1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +6, Will +2
 speed: swim 70 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Piercing Rush (Ex)

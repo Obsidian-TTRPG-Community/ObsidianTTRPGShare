@@ -5,7 +5,7 @@ name: Eclipse Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 19
 name: Eclipse Giant
 Monster_XP: 204800
@@ -18,7 +18,6 @@ perception: +41
 senses: low-light vision, see in darkness
 AC: 32, touch 6, flat-footed 32 (natural +26, size -4)
 HP: 312
-HP_extra: 
 HD: 25d8+200
 saves: Fort +16, Ref +15, Will +21
 immune: death effects

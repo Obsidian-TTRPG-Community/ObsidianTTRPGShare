@@ -5,7 +5,7 @@ name: Cyclops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Cyclops
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision
 AC: 19, touch 8, flat-footed 19 (armor +4, dex -1, natural +7, size -1)
 HP: 65
-HP_extra: 
 HD: 10d8+20
 saves: Fort +9, Ref +2, Will +4
 defensive_abilities: ferocity

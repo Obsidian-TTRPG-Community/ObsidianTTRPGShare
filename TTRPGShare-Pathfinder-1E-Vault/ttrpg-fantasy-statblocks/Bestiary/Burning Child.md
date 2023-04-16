@@ -5,7 +5,7 @@ name: Burning Child
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 10
 name: Burning Child
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 aura: elemental aura, frightful presence
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 150
-HP_extra: 
 HD: 15d8+75
 saves: Fort +9, Ref +12, Will +11
 immune: fire, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: unique
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Binary State (Su)

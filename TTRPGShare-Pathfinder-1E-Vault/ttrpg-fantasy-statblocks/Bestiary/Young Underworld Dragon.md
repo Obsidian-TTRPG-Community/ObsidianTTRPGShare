@@ -5,7 +5,7 @@ name: Young Underworld Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Young Underworld Dragon
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +12
 senses: dragon senses, smoke vision
 AC: 21, touch 11, flat-footed 20 (dex +1, natural +10)
 HP: 76
-HP_extra: 
 HD: 8d12+24
 saves: Fort +9, Ref +7, Will +7
 immune: fire, paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

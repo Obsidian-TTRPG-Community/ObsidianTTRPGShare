@@ -5,7 +5,7 @@ name: Shalkeshka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 8
 name: Shalkeshka
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision, scent, tremorsense
 AC: 21, touch 12, flat-footed 18 (dex +3, natural +9, size -1)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +11, Ref +10, Will +3
 speed: 30 ft., burrow 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate and warm deserts and plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Burrowing Charge (Ex)

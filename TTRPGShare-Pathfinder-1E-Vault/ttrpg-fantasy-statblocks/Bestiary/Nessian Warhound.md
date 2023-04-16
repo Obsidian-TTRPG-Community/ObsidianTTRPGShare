@@ -5,7 +5,7 @@ name: Nessian Warhound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Nessian Warhound
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, scent
 AC: 24, touch 11, flat-footed 22 (armor +6, dex +2, natural +7, size -1)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +13, Ref +10, Will +5
 immune: fire

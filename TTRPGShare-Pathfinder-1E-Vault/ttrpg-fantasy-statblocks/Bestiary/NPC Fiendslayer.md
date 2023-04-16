@@ -5,7 +5,7 @@ name: NPC Fiendslayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Fiendslayer
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +26
 senses: low-light vision
 AC: 28, touch 16, flat-footed 22 (armor +8, dex +5, dodge +1, natural +4)
 HP: 125
-HP_extra: 
 HD: 13d10+49
 saves: Fort +12, Ref +14, Will +7
 saves_other: +2 vs. enchantments

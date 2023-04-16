@@ -5,7 +5,7 @@ name: Gargoyle Abductor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 10
 name: Gargoyle Abductor
 Monster_XP: 9600

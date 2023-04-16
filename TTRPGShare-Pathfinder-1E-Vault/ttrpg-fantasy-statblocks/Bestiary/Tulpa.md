@@ -5,7 +5,7 @@ name: Tulpa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Tulpa
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 19, touch 18, flat-footed 15 (dex +3, dodge +1, monk +1, wis +3, natural +1)
 HP: 46
-HP_extra: 
 HD: 5d8+20
 saves: Fort +6, Ref +7, Will +7
 saves_other: +2 vs. enchantment, +4 vs. mind-affecting effects

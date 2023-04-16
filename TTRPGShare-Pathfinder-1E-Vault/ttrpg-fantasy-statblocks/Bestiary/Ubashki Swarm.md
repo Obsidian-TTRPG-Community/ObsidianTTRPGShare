@@ -5,7 +5,7 @@ name: Ubashki Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Kingdoms"
+source: "Lost Kingdoms"
 Monster_CR: 2
 name: Ubashki Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +6, Will +3
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or nuisance (3-5 swarms plus 1 ubashki lynx)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

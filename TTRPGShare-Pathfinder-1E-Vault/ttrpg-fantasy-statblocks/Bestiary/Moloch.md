@@ -5,7 +5,7 @@ name: Moloch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 29
 name: Moloch
 Monster_XP: 6553600

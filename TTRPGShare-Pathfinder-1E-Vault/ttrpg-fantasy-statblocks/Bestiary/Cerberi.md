@@ -5,7 +5,7 @@ name: Cerberi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Cerberi
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +15
 senses: soul scent
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +8, Will +4
 speed: 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or pack (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cerberus’s Jaws (Su)

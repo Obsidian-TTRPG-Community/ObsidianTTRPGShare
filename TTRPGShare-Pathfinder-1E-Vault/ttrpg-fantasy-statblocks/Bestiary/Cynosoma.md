@@ -5,7 +5,7 @@ name: Cynosoma
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 12
 name: Cynosoma
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision
 AC: 27, touch 22, flat-footed 21 (deflection +6, dex +6, natural +5)
 HP: 162
-HP_extra: 
 HD: 12d10+96
 saves: Fort +12, Ref +14, Will +16
 immune: cold

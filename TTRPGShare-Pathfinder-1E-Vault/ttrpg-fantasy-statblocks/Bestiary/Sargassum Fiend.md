@@ -5,7 +5,7 @@ name: Sargassum Fiend
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Sargassum Fiend
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: blindsense, tremorsense
 aura: mirage
 AC: 24, touch 12, flat-footed 21 (dex +2, dodge +1, natural +12, size -1)
 HP: 123
-HP_extra: 
 HD: 13d8+65
 saves: Fort +15, Ref +8, Will +4
 immune: plant traits

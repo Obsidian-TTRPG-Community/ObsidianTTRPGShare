@@ -5,7 +5,7 @@ name: Ancient Silver Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 19
 name: Ancient Silver Dragon
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: dragon senses, fog vision
 aura: cold, frightful presence
 AC: 38, touch 5, flat-footed 38 (dex -1, natural +33, size -4)
 HP: 337
-HP_extra: 
 HD: 25d12+175
 saves: Fort +21, Ref +15, Will +23
 immune: acid, cold, paralysis, sleep

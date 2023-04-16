@@ -5,7 +5,7 @@ name: Taiga Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Taiga Giant
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision
 AC: 26, touch 14, flat-footed 24 (armor +4, deflection +4, dex +2, natural +8, size -2)
 HP: 157
-HP_extra: 
 HD: 15d8+90
 saves: Fort +15, Ref +9, Will +10
 immune: enchantment and illusion spells

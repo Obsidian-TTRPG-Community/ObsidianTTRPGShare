@@ -5,7 +5,7 @@ name: Giant Amoeba
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Giant Amoeba
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: -5
 senses: blindsight
 AC: 6, touch 6, flat-footed 6 (dex -5, size +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +3, Ref -5, Will -5
 defensive_abilities: ooze traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary or colony (2-9)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

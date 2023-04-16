@@ -5,7 +5,7 @@ name: Quillcat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 103: The Hellfire Compact"
+source: "Pathfinder No. 103: The Hellfire Compact"
 Monster_CR: 1
 name: Quillcat
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 14
-HP_extra: 
 HD: 2d8+5
 saves: Fort +4, Ref +5, Will +1
 defensive_abilities: quill defense
@@ -39,6 +38,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Quill Defense (Ex)

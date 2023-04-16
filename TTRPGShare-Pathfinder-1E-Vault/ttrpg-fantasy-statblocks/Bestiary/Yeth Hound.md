@@ -5,7 +5,7 @@ name: Yeth Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Yeth Hound
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +6, Will +6
 DR: 5/silver
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (6-11)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Bay (Su)

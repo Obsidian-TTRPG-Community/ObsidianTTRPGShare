@@ -5,7 +5,7 @@ name: Sun Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Sun Giant
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: solar
 AC: 31, touch 11, flat-footed 28 (armor +5, dex +3, natural +15, size -2)
 HP: 241
-HP_extra: 
 HD: 23d8+138
 saves: Fort +19, Ref +12, Will +14
 immune: blind, dazzled, fire

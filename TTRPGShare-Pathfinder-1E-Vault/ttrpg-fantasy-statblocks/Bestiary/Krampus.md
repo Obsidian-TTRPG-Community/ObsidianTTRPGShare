@@ -5,7 +5,7 @@ name: Krampus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Krampus
 Monster_XP: 409600
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Capture (Su)

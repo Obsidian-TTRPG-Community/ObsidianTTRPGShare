@@ -5,7 +5,7 @@ name: Atomie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Atomie
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 9
-HP_extra: 
 HD: 2d6+2
 saves: Fort +1, Ref +6, Will +5
 DR: 2/cold iron

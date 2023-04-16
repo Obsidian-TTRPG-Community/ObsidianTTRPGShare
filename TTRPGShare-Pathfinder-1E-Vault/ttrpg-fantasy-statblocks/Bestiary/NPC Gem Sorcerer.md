@@ -5,7 +5,7 @@ name: NPC Gem Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Gem Sorcerer
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 12, touch 10, flat-footed 12 (armor +2)
 HP: 18
-HP_extra: 
 HD: 2d6+9
 saves: Fort +2, Ref +0, Will +3
 saves_other: +2 vs. poison, spells, and spell-like abilities

@@ -5,7 +5,7 @@ name: Ahool
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Ahool
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +11, Will +8
 defensive_abilities: ferocity
@@ -41,6 +40,7 @@ ecology:
     desc: warm forests or warm ruins
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Snapping Bite (Ex)

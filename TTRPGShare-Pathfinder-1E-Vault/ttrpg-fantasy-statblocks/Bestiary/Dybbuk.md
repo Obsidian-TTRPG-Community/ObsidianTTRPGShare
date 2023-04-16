@@ -5,7 +5,7 @@ name: Dybbuk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Dybbuk
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +29
 senses: darkvision
 AC: 28, touch 28, flat-footed 17 (deflection +7, dex +11)
 HP: 207
-HP_extra: 
 HD: 18d8+126
 saves: Fort +13, Ref +17, Will +17
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Malevolence (Su)

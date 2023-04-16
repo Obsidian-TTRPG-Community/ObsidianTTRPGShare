@@ -5,7 +5,7 @@ name: Shriezyx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Shriezyx
 Monster_XP: 1200
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or hive (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Fear of Fire (Ex)

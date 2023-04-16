@@ -5,7 +5,7 @@ name: Memitim
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Memitim
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, detect good, low-light vision, spiritsense, tru
 aura: terminal aura
 AC: 32, touch 19, flat-footed 23 (dex +9, natural +13)
 HP: 216
-HP_extra: 
 HD: 16d10+128
 saves: Fort +13, Ref +19, Will +15
 immune: acid, death effects, disease

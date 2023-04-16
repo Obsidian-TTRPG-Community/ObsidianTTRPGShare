@@ -5,7 +5,7 @@ name: Stag Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Stag Archon
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision
 aura: menace
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 33
-HP_extra: 
 HD: 6d10
 saves: Fort +5, Ref +4, Will +7
 saves_other: +4 vs. poison

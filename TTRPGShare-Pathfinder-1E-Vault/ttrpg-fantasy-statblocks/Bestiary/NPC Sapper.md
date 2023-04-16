@@ -5,7 +5,7 @@ name: NPC Sapper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Sapper
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +1
 perception: +8
 AC: 13, touch 11, flat-footed 12 (armor +2, dex +1)
 HP: 27
-HP_extra: 
 HD: 5d8+5
 saves: Fort +1, Ref +4, Will +4
 speed: 30 ft.

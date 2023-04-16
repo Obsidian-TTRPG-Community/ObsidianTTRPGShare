@@ -5,7 +5,7 @@ name: NPC Usij Cabalist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 4
 name: NPC Usij Cabalist
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +1
 perception: +4
 AC: 16, touch 11, flat-footed 15 (armor +5, dex +1)
 HP: 31
-HP_extra: 
 HD: 5d8+5
 saves: Fort +6, Ref +3, Will +8
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Titanic Whip Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 16
 name: Titanic Whip Spider
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision
 AC: 31, touch 9, flat-footed 24 (dex +7, natural +22, size -8)
 HP: 250
-HP_extra: 
 HD: 20d8+160
 saves: Fort +20, Ref +13, Will +6
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm hills
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

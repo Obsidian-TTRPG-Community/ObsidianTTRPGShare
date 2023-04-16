@@ -5,7 +5,7 @@ name: The Mistress of the Fen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 12
 name: The Mistress of the Fen
 Monster_XP: 19200

@@ -5,7 +5,7 @@ name: Derro Brainwasher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 5
 name: Derro Brainwasher
 Monster_XP: 1600

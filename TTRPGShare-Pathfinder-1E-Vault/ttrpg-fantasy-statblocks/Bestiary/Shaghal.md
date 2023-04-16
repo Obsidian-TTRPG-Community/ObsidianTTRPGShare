@@ -5,7 +5,7 @@ name: Shaghal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Feast of Dust"
+source: "Feast of Dust"
 Monster_CR: 8
 name: Shaghal
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +10, Will +5
 immune: acid, disease, poison
@@ -37,6 +36,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Su)

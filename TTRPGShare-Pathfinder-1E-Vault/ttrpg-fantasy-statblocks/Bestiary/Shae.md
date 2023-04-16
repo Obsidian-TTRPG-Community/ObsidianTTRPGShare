@@ -5,7 +5,7 @@ name: Shae
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Shae
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 16, touch 16, flat-footed 10 (dex +6)
 HP: 38
-HP_extra: 
 HD: 4d10+16
 saves: Fort +8, Ref +7, Will +7
 immune: cold

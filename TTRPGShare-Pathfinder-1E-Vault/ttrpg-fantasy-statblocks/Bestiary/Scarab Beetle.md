@@ -5,7 +5,7 @@ name: Scarab Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 6
 name: Scarab Beetle
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +4, Will +3
 immune: death effects, disease, mind-affecting effects, paralysis
@@ -35,6 +34,7 @@ ecology:
     desc: warm deserts (Osirion)
   - name: Organisation
     desc: solitary or swarm (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gnaw (Ex)

@@ -5,7 +5,7 @@ name: Rorkoun
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 32: Rivers Run Red"
+source: "Pathfinder No. 32: Rivers Run Red"
 Monster_CR: 6
 name: Rorkoun
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, size -2)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +9, Ref +5, Will +7
 weak: vulnerability to acid
@@ -41,6 +40,7 @@ ecology:
     desc: temperate marshes and underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Aquatic Dependency (Ex)

@@ -5,7 +5,7 @@ name: Wind Yai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 54: The Empty Throne"
+source: "Pathfinder No. 54: The Empty Throne"
 Monster_CR: 16
 name: Wind Yai
 Monster_XP: 76800

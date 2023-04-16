@@ -5,7 +5,7 @@ name: Ghoul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Ghoul
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +2, Will +5
 defensive_abilities: channel resistance +2
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, gang (2-4), or pack (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

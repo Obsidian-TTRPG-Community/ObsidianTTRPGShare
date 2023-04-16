@@ -5,7 +5,7 @@ name: NPC Vigilant Bodyguard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Vigilant Bodyguard
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +5
 perception: +10
 AC: 20, touch 16, flat-footed 18 (armor +4, dex +1, dodge +1, wis +4)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +4, Will +7
 saves_other: +2 vs. enchantments

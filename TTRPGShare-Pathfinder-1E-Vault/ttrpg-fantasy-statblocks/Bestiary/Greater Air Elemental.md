@@ -5,7 +5,7 @@ name: Greater Air Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Greater Air Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 25, touch 19, flat-footed 14 (dex +10, dodge +1, natural +6, size -2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +18, Will +6
 immune: elemental traits

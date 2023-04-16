@@ -5,7 +5,7 @@ name: Typhilipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 103: The Hellfire Compact"
+source: "Pathfinder No. 103: The Hellfire Compact"
 Monster_CR: 2
 name: Typhilipede
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness
 aura: shadow
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +2
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any underground (Hell)
   - name: Organisation
     desc: solitary, mass (2-9), or colony (10-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Shadow (Su)

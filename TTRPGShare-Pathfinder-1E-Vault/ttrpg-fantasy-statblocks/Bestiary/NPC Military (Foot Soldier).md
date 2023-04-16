@@ -5,7 +5,7 @@ name: NPC Military (Foot Soldier)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/3
 name: NPC Military (Foot Soldier)
 Monster_XP: 135
@@ -18,7 +18,6 @@ INI: +1
 perception: +0
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 8
-HP_extra: 
 HD: 1d10+3
 saves: Fort +2, Ref +1, Will +0
 speed: 20 ft.

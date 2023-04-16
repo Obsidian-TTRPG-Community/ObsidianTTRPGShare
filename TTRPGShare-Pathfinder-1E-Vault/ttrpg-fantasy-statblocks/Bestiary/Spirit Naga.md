@@ -5,7 +5,7 @@ name: Spirit Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Spirit Naga
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +22
 senses: darkvision
 AC: 23, touch 14, flat-footed 18 (dex +5, natural +9, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +8, Ref +10, Will +10
 speed: 40 ft., swim 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary or nest (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Charming Gaze (Su)

@@ -5,7 +5,7 @@ name: Hamadryad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 15
 name: Hamadryad
 Monster_XP: 51200

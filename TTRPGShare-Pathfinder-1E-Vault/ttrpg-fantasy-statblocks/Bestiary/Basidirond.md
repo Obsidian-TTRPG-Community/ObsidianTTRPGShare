@@ -5,7 +5,7 @@ name: Basidirond
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Basidirond
 Monster_XP: 1600
@@ -16,7 +16,6 @@ INI: +1
 senses: low-light vision, tremorsense
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +7)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +3, Will +2
 immune: cold, plant traits
@@ -34,6 +33,7 @@ ecology:
     desc: any non-cold underground
   - name: Organisation
     desc: solitary, pair, or grove (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Hallucination Cloud (Ex)

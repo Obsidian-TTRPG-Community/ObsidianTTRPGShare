@@ -5,7 +5,7 @@ name: Shulsaga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Shulsaga
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 16, touch 14, flat-footed 12 (dex +4, natural +2)
 HP: 22
-HP_extra: 
 HD: 4d10
 saves: Fort +1, Ref +8, Will +7
 speed: 30 ft., fly 60 ft. (perfect)

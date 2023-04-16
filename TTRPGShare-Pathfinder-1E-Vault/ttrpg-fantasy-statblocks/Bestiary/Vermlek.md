@@ -5,7 +5,7 @@ name: Vermlek
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Vermlek
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsense, darkvision, scent
 AC: 15, touch 9, flat-footed 15 (armor +3, dex -1, natural +3)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +8, Ref +0, Will +5
 immune: electricity, poison

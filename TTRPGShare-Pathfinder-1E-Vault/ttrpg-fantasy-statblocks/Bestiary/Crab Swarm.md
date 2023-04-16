@@ -5,7 +5,7 @@ name: Crab Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Crab Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 18, touch 16, flat-footed 16 (dex +2, natural +2, size +4)
 HP: 38
-HP_extra: 
 HD: 7d8+7
 saves: Fort +6, Ref +4, Will +2
 immune: mind-affecting effects, swarm traits, weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary, pair, or wave (3-8 swarms)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

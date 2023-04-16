@@ -5,7 +5,7 @@ name: Saguaroi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Saguaroi
 Monster_XP: 1600
@@ -38,6 +38,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, party (3-9), or tribe (10-20)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Needle Cone (Ex)

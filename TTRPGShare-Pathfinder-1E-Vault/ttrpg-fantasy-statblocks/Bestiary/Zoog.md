@@ -5,7 +5,7 @@ name: Zoog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Zoog
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, detect magic, low-light vision, scent, spell sight
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +5, Will +1
 speed: 30 ft., climb 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary, pair, gang (3-14), tribe (15+ plus 50% noncombatants)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Otherworldly Touch (Ex)

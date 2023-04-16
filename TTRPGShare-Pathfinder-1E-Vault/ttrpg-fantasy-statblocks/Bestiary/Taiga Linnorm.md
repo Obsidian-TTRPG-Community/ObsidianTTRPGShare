@@ -5,7 +5,7 @@ name: Taiga Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 19
 name: Taiga Linnorm
 Monster_XP: 204800
@@ -43,6 +43,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

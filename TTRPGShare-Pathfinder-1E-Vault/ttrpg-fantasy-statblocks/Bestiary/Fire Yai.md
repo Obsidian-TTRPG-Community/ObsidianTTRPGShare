@@ -5,7 +5,7 @@ name: Fire Yai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Fire Yai
 Monster_XP: 51200

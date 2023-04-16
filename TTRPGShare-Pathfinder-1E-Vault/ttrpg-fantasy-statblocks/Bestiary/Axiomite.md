@@ -5,7 +5,7 @@ name: Axiomite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Axiomite
 Monster_XP: 4800

@@ -5,7 +5,7 @@ name: Wyvern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Wyvern
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision, low-light vision, scent
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 73
-HP_extra: 
 HD: 7d12+28
 saves: Fort +9, Ref +6, Will +8
 immune: sleep, paralysis
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm hills
   - name: Organisation
     desc: solitary, pair, or flight (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

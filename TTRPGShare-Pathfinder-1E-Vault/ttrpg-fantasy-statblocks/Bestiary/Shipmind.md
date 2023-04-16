@@ -5,7 +5,7 @@ name: Shipmind
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 88: Valley of the Brain Collectors"
+source: "Pathfinder No. 88: Valley of the Brain Collectors"
 Monster_CR: 13
 name: Shipmind
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +20
 senses: blindsight, detect good, detect law, detect magic
 AC: 27, touch 17, flat-footed 18 (dex +9, armor +10, size -2)
 HP: 161
-HP_extra: 
 HD: 14d8+98
 saves: Fort +11, Ref +13, Will +12
 immune: bludgeoning, charm effects, electricity, fire, ooze traits

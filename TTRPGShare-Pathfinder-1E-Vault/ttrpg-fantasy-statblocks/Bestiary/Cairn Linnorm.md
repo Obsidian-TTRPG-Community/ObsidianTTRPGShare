@@ -5,7 +5,7 @@ name: Cairn Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 18
 name: Cairn Linnorm
 Monster_XP: 153600
@@ -44,6 +44,7 @@ ecology:
     desc: cold hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

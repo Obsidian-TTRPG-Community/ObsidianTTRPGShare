@@ -5,7 +5,7 @@ name: Huecuva
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Huecuva
 Monster_XP: 600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: faithlessness
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +3, Will +4
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cloister (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Faithlessness (Su)

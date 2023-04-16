@@ -5,7 +5,7 @@ name: Frost Giant Raider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 11
 name: Frost Giant Raider
 Monster_XP: 12800

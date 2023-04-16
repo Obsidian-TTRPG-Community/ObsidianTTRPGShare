@@ -5,7 +5,7 @@ name: Akilep, Lady of Stone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 13
 name: Akilep, Lady of Stone
 Monster_XP: 25600
@@ -19,7 +19,6 @@ perception: +30
 senses: darkvision, low-light vision
 AC: 28, touch 5, flat-footed 28 (dex -1, natural +23, size -4)
 HP: 207
-HP_extra: 
 HD: 18d10+108
 saves: Fort +17, Ref +10, Will +13
 DR: 10/magic

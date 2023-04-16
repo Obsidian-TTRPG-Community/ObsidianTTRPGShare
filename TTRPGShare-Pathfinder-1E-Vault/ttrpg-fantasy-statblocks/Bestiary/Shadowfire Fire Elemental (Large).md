@@ -5,7 +5,7 @@ name: Shadowfire Fire Elemental (Large)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Emerald Spire Superdungeon"
+source: "The Emerald Spire Superdungeon"
 Monster_CR: 7
 name: Shadowfire Fire Elemental (Large)
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 20, touch 16, flat-footed 13 (dex +6, dodge +1, natural +4, size -1)
 HP: 60
-HP_extra: 
 HD: 8d10+16
 saves: Fort +8, Ref +12, Will +4
 immune: cold, elemental traits, fire
@@ -45,6 +44,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

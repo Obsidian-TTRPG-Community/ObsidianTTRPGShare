@@ -5,7 +5,7 @@ name: Myrmidon Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Myrmidon Robot
 Monster_XP: 12800
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or unit (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Laser Rifle (Ex)

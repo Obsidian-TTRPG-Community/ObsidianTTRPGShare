@@ -5,7 +5,7 @@ name: Tenebrous Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Tenebrous Worm
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +14, Ref +6, Will +8
 immune: acid
@@ -37,6 +36,7 @@ ecology:
     desc: any land (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or swarm (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Su)

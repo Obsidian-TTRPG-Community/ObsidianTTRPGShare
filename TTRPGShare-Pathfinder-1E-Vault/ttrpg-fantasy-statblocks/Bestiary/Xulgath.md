@@ -5,7 +5,7 @@ name: Xulgath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 4
 name: Xulgath
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stench
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +8, Ref +5, Will +6
 speed: 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: any underground (Deep Tolguth)
   - name: Organisation
     desc: solitary, pair, or clutch (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Psychogenic Secretions (Su)

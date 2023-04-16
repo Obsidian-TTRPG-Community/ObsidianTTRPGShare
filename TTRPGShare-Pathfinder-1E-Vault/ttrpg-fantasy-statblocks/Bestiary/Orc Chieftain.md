@@ -5,7 +5,7 @@ name: Orc Chieftain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Orc Chieftain
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 24, touch 13, flat-footed 21 (armor +11, dex +3)
 HP: 99
-HP_extra: 
 HD: 10d10+40
 saves: Fort +9, Ref +6, Will +1
 defensive_abilities: bravery +3, ferocity

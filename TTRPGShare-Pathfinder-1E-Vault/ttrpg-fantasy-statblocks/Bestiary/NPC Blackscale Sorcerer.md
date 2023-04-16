@@ -5,7 +5,7 @@ name: NPC Blackscale Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Blackscale Sorcerer
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 19, touch 12, flat-footed 18 (armor +4, deflection +1, dex +1, natural +3)
 HP: 82
-HP_extra: 
 HD: 10d6+45
 saves: Fort +8, Ref +5, Will +7
 resist: acid 10

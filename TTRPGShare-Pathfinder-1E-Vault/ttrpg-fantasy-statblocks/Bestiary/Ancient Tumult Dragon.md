@@ -5,7 +5,7 @@ name: Ancient Tumult Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 21
 name: Ancient Tumult Dragon
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 40, touch 5, flat-footed 40 (dex -1, natural +35, size -4)
 HP: 462
-HP_extra: 
 HD: 28d12+280
 saves: Fort +26, Ref +17, Will +23
 immune: paralysis, sleep, warpproof

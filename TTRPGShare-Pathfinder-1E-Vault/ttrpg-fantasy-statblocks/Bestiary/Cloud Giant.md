@@ -5,7 +5,7 @@ name: Cloud Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Cloud Giant
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +17
 senses: low-light vision, scent
 AC: 25, touch 9, flat-footed 24 (armor +4, dex +1, natural +12, size -2)
 HP: 168
-HP_extra: 
 HD: 16d8+96
 saves: Fort +16, Ref +6, Will +10
 defensive_abilities: rock catching

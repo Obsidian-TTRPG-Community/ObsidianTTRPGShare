@@ -5,7 +5,7 @@ name: Greater Shadow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Greater Shadow
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 18, touch 18, flat-footed 12 (deflection +2, dex +5, dodge +1)
 HP: 58
-HP_extra: 
 HD: 9d8+18
 saves: Fort +5, Ref +8, Will +7
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Strength Damage (Su)

@@ -5,7 +5,7 @@ name: Xoveron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 73: The Worldwound Incursion"
+source: "Pathfinder No. 73: The Worldwound Incursion"
 Monster_CR: 27
 name: Xoveron
 Monster_XP: 3276800
@@ -45,6 +45,7 @@ ecology:
     desc: any (Ghahazi, Abyss)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Devastating Blow (Su)

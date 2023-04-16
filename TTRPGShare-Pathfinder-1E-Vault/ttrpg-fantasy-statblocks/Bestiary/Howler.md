@@ -5,7 +5,7 @@ name: Howler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Howler
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +6, Will +3
 defensive_abilities: quill defense
@@ -39,6 +38,7 @@ ecology:
     desc: any land (Abyss)
   - name: Organisation
     desc: solitary or pack (2-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Howl (Su)

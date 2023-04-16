@@ -5,7 +5,7 @@ name: Blightspawn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Blightspawn
 Monster_XP: 1600
@@ -41,6 +41,7 @@ ecology:
     desc: any swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Su)

@@ -5,7 +5,7 @@ name: Serpentfolk Spellblade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Serpentfolk Spellblade
 Monster_XP: 25600

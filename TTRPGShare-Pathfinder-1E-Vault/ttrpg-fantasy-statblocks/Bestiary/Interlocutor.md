@@ -5,7 +5,7 @@ name: Interlocutor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Interlocutor
 Monster_XP: 19200
@@ -41,6 +41,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or gang (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Surgical Strikes (Ex)

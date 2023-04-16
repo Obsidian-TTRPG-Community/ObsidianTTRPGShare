@@ -5,7 +5,7 @@ name: Duergar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Duergar
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +1
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (armor +6, dex -1, shield +2)
 HP: 8
-HP_extra: 
 HD: 1d10+3
 saves: Fort +4, Ref -1, Will +1
 saves_other: +2 vs. spells

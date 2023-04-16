@@ -5,7 +5,7 @@ name: Boilborn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Boilborn
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: -4
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -5, size +2)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +3, Ref -5, Will -4
 immune: ooze traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or infestation (2-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Throes (Su)

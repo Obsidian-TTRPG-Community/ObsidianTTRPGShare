@@ -5,7 +5,7 @@ name: NPC Dagger Master
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Dagger Master
 Monster_XP: 102400
@@ -19,7 +19,6 @@ INI: +5
 perception: +23
 AC: 27, touch 18, flat-footed 22 (armor +6, deflection +2, dex +5, natural +2, shield +1, size +1)
 HP: 138
-HP_extra: 
 HD: 18d8+54
 saves: Fort +9, Ref +17, Will +7
 saves_other: +2 vs. fear

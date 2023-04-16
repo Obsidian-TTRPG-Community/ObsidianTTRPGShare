@@ -5,7 +5,7 @@ name: Purple Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 12
 name: Purple Worm
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision, tremorsense
 AC: 26, touch 4, flat-footed 26 (dex -2, natural +22, size -4)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +17, Ref +8, Will +4
 speed: 20 ft., burrow 20 ft., swim 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

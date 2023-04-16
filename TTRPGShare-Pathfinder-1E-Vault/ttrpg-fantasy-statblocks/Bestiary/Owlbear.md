@@ -5,7 +5,7 @@ name: Owlbear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Owlbear
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 15, touch 10, flat-footed 14 (dex +1, natural +5, size -1)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +10, Ref +5, Will +2
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

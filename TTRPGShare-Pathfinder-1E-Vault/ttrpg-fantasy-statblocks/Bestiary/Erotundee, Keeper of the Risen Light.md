@@ -5,7 +5,7 @@ name: Erotundee, Keeper of the Risen Light
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 22
 name: Erotundee, Keeper of the Risen Light
 Monster_XP: 614400

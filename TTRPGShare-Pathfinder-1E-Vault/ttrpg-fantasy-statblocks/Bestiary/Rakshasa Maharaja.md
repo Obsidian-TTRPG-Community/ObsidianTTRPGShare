@@ -5,7 +5,7 @@ name: Rakshasa Maharaja
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Rakshasa Maharaja
 Monster_XP: 307200
@@ -18,7 +18,6 @@ perception: +31
 senses: all-around vision, darkvision
 AC: 37, touch 24, flat-footed 27 (deflection +4, dex +9, dodge +1, natural +13)
 HP: 310
-HP_extra: 
 HD: 20d10+200
 saves: Fort +16, Ref +21, Will +18
 DR: 20/good and piercing

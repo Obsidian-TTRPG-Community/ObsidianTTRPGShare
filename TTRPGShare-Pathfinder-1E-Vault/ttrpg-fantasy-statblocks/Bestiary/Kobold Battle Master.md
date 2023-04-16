@@ -5,7 +5,7 @@ name: Kobold Battle Master
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Kobold Battle Master
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +13
 senses: darkvision
 AC: 23, touch 12, flat-footed 22 (armor +8, dex +1, natural +1, shield +2, size +1)
 HP: 57
-HP_extra: 
 HD: 7d10+14
 saves: Fort +7, Ref +4, Will +4
 saves_other: +2 bonus vs. paralysis and sleep

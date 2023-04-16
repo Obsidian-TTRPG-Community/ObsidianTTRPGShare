@@ -5,7 +5,7 @@ name: Coloxus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Coloxus
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision, scent
 AC: 26, touch 19, flat-footed 17 (dex +9, natural +7)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +15, Ref +19, Will +9
 immune: electricity, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: urban (Abyss)
   - name: Organisation
     desc: solitary, pair, or swarm (3-8)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Droning Wings (Ex)

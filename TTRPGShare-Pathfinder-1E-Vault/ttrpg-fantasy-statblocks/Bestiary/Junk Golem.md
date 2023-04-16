@@ -5,7 +5,7 @@ name: Junk Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Junk Golem
 Monster_XP: 1200
@@ -35,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Discorporate (Ex)

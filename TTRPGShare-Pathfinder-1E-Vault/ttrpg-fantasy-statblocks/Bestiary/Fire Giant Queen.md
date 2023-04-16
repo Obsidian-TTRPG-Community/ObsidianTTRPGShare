@@ -5,7 +5,7 @@ name: Fire Giant Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 19
 name: Fire Giant Queen
 Monster_XP: 204800

@@ -5,7 +5,7 @@ name: NPC Orc Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Orc Slayer
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +14
 senses: low-light vision
 AC: 22, touch 15, flat-footed 18 (armor +5, deflection +1, dex +4, natural +2)
 HP: 62
-HP_extra: 
 HD: 8d10+14
 saves: Fort +8, Ref +13, Will +4
 saves_other: +2 vs. enchantments

@@ -5,7 +5,7 @@ name: Vireseed Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 39: The City of Seven Spears"
+source: "Pathfinder No. 39: The City of Seven Spears"
 Monster_CR: 5
 name: Vireseed Swarm
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +0
 senses: blindsense
 AC: 19, touch 19, flat-footed 18 (dex +1, size +8)
 HP: 51
-HP_extra: 
 HD: 7d8+35
 saves: Fort +9, Ref +3, Will +2
 immune: plant traits, weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, flight (2-4 swarms), or cloud (5-7 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Infestation (Ex)

@@ -5,7 +5,7 @@ name: Bodak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Bodak
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 21, touch 13, flat-footed 18 (dex +2, dodge +1, natural +8)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +6, Ref +5, Will +8
 immune: electricity, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land (evil Outer Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Gaze (Su)

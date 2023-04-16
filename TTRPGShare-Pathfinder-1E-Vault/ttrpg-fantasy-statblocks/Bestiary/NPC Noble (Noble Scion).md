@@ -5,7 +5,7 @@ name: NPC Noble (Noble Scion)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 2
 name: NPC Noble (Noble Scion)
 Monster_XP: 600
@@ -18,7 +18,6 @@ INI: +1
 perception: +3
 AC: 17, touch 11, flat-footed 16 (armor +4, dex +1, shield +2)
 HP: 20
-HP_extra: 
 HD: 4d8+2
 saves: Fort +1, Ref +2, Will +3
 speed: 30 ft.

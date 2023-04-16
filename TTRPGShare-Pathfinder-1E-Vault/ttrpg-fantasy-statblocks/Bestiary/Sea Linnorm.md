@@ -5,7 +5,7 @@ name: Sea Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 126: Beyond the Veiled Past"
+source: "Pathfinder No. 126: Beyond the Veiled Past"
 Monster_CR: 22
 name: Sea Linnorm
 Monster_XP: 614400
@@ -43,6 +43,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

@@ -5,7 +5,7 @@ name: Star Monarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 9
 name: Star Monarch
 Monster_XP: 6400
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: dreamwarden
 AC: 22, touch 15, flat-footed 15 (dex +6, dodge +1, natural +7, size -2)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +14, Will +9
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: any (Varisia)
   - name: Organisation
     desc: solitary, pair, or rabble (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dreamwarden (Su)

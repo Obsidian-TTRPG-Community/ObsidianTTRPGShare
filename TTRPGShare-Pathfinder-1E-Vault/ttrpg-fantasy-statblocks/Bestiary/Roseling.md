@@ -5,7 +5,7 @@ name: Roseling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 7
 name: Roseling
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 20, touch 16, flat-footed 15 (dex +5, natural +4, size +1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +8, Will +7
 immune: electricity, petrification, plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary, pair, or bed (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Euphoria (Su)

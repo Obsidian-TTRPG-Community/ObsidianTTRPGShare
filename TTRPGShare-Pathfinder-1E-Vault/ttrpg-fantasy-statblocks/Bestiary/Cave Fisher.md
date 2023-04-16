@@ -5,7 +5,7 @@ name: Cave Fisher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Cave Fisher
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +2, Will +1
 immune: mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or tangle (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Filament (Ex)

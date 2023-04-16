@@ -5,7 +5,7 @@ name: Emerald Automaton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Emerald Spire Superdungeon"
+source: "The Emerald Spire Superdungeon"
 Monster_CR: 4
 name: Emerald Automaton
 Monster_XP: 1200
@@ -17,7 +17,6 @@ senses: darkvision, low-light vision
 aura: electricity
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +1, Ref +2, Will +1
 immune: construct traits

@@ -5,7 +5,7 @@ name: Giant Ant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Giant Ant
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, scent
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 18
-HP_extra: 
 HD: 2d8+9
 saves: Fort +6, Ref +0, Will +1
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, gang (3-6), or hive (7-18 plus 10-100 workers, 2-8 drones, and 1 queen)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

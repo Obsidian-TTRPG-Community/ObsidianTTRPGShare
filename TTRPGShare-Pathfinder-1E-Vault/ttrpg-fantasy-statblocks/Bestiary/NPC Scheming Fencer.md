@@ -5,7 +5,7 @@ name: NPC Scheming Fencer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Scheming Fencer
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +6
 perception: +0
 AC: 25, touch 16, flat-footed 19 (armor +7, dex +6, natural +2)
 HP: 98
-HP_extra: 
 HD: 11d10+33
 saves: Fort +10, Ref +10, Will +6
 saves_other: +3 vs. fear

@@ -5,7 +5,7 @@ name: NPC Ruffian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Ruffian
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +3
 perception: +4
 AC: 11, touch 9, flat-footed 11 (armor +2, dex -1)
 HP: 45
-HP_extra: 
 HD: 7d6+21
 saves: Fort +3, Ref +1, Will +1
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Cervapral
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 5
 name: Cervapral
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, enchantment sense, scent
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +5, Ref +9, Will +7
 saves_other: +4 vs. poison

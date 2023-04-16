@@ -5,7 +5,7 @@ name: Roofgarden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 7
 name: Roofgarden
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, tremorsense
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +12, Ref +6, Will +7
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forest or urban
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Creeping Cover (Ex)

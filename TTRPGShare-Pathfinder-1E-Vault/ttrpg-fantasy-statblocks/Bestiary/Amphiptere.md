@@ -5,7 +5,7 @@ name: Amphiptere
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Amphiptere
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision, scent
 AC: 16, touch 9, flat-footed 16 (natural +7, size -1)
 HP: 42
-HP_extra: 
 HD: 5d12+10
 saves: Fort +6, Ref +4, Will +5
 immune: paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: temperate or warm deserts, hills, or mountains
   - name: Organisation
     desc: solitary, pair, or flight (3-18)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Impale (Ex)

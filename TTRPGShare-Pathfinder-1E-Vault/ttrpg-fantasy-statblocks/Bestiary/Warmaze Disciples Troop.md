@@ -5,7 +5,7 @@ name: Warmaze Disciples Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 11
 name: Warmaze Disciples Troop
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 25, touch 11, flat-footed 23 (armor +6, dex +1, dodge +1, natural +8, size -1)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +11, Ref +11, Will +12
 defensive_abilities: natural cunning, troop traits
@@ -42,6 +41,7 @@ ecology:
     desc: any mountains or underground
   - name: Organisation
     desc: solitary, pair, or force (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Javelin Barrage (Ex)

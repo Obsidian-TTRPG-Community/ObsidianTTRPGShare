@@ -5,7 +5,7 @@ name: Pugwampi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Pugwampi
 Monster_XP: 200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: unluck
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 6
-HP_extra: 
 HD: 1d6+3
 saves: Fort +0, Ref +3, Will +4
 DR: 2/cold iron

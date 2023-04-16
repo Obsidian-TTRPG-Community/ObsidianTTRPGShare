@@ -5,7 +5,7 @@ name: White-Eyed Torturer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 12
 name: White-Eyed Torturer
 Monster_XP: 19200

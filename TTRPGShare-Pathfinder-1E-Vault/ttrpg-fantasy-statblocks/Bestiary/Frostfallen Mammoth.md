@@ -5,7 +5,7 @@ name: Frostfallen Mammoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 51: The Hungry Storm"
+source: "Pathfinder No. 51: The Hungry Storm"
 Monster_CR: 10
 name: Frostfallen Mammoth
 Monster_XP: 9600
@@ -17,7 +17,6 @@ INI: +1
 senses: darkvision, lifesense
 AC: 25, touch 9, flat-footed 26 (dex +1, natural +16, size -2)
 HP: 91
-HP_extra: 
 HD: 14d8+28
 saves: Fort +5, Ref +5, Will +9
 immune: cold, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any cold land
   - name: Organisation
     desc: solitary, pair, or drove (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 51: The Hungry Storm

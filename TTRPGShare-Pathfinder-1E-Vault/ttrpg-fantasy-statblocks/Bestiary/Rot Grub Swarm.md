@@ -5,7 +5,7 @@ name: Rot Grub Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Rot Grub Swarm
 Monster_XP: 3200
@@ -17,7 +17,6 @@ INI: +2
 senses: blindsense
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +5, Will +3
 immune: mind-affecting effects, weapon damage
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Infestation (Ex)

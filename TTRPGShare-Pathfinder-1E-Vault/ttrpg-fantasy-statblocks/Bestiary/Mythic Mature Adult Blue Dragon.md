@@ -5,7 +5,7 @@ name: Mythic Mature Adult Blue Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 17
 name: Mythic Mature Adult Blue Dragon
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, low-light vision
 aura: frightful presence
 AC: 39, touch 9, flat-footed 38 (dex +1, natural +30, size -2)
 HP: 295
-HP_extra: 
 HD: 18d12+178
 saves: Fort +17, Ref +12, Will +14
 immune: dragon traits, electricity, fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Bend Bolt (Su)

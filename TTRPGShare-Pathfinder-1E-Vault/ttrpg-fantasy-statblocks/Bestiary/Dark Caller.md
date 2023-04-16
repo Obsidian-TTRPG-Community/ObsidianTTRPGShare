@@ -5,7 +5,7 @@ name: Dark Caller
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Dark Caller
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +8
 senses: detect magic, see in darkness
 AC: 17, touch 14, flat-footed 13 (dex +3, dodge +1, natural +3)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +4, Ref +9, Will +3
 weak: light blindness

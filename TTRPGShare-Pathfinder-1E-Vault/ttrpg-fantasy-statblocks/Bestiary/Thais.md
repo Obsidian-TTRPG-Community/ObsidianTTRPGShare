@@ -5,7 +5,7 @@ name: Thais
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Thais
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: bravery
 AC: 32, touch 25, flat-footed 23 (deflection +7, dex +8, dodge +1, natural +7, size -1)
 HP: 195
-HP_extra: 
 HD: 17d10+102
 saves: Fort +17, Ref +21, Will +12
 immune: electricity, fear, petrification

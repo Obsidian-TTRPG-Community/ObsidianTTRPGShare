@@ -5,7 +5,7 @@ name: Quickling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Quickling
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 20, touch 19, flat-footed 12 (dex +7, dodge +1, natural +1, size +1)
 HP: 18
-HP_extra: 
 HD: 4d6+4
 saves: Fort +2, Ref +11, Will +6
 DR: 5/cold iron

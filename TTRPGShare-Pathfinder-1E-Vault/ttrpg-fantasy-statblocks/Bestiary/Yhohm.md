@@ -5,7 +5,7 @@ name: Yhohm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Yhohm
 Monster_XP: 1200
@@ -46,6 +46,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary, pair, or flight (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Holy Fire (Su)

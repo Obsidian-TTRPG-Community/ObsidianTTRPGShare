@@ -5,7 +5,7 @@ name: Strix Rokoa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 11
 name: Strix Rokoa
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 20, touch 12, flat-footed 19 (armor +7, deflection +1, dex +1, natural +1)
 HP: 78
-HP_extra: 
 HD: 12d8+24
 saves: Fort +7, Ref +7, Will +14
 saves_other: +2 bonus vs. illusion spells or effects

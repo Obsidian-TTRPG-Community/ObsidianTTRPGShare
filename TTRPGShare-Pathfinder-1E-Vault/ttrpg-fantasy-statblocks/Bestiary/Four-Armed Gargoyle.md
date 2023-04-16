@@ -5,7 +5,7 @@ name: Four-Armed Gargoyle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 9
 name: Four-Armed Gargoyle
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision
 AC: 24, touch 10, flat-footed 23 (dex +1, natural +14, size -1)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +10, Ref +8, Will +9
 DR: 10/magic

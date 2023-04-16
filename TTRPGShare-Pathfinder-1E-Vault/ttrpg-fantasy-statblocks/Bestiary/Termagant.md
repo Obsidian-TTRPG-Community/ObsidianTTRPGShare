@@ -5,7 +5,7 @@ name: Termagant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 17
 name: Termagant
 Monster_XP: 102400
@@ -41,6 +41,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or circle (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Su)

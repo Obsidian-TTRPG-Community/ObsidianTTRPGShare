@@ -5,7 +5,7 @@ name: Immolation Devil (Puragaus)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 19
 name: Immolation Devil (Puragaus)
 Monster_XP: 204800
@@ -42,6 +42,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or council (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Hellfire (Su)

@@ -5,7 +5,7 @@ name: Reefclaw
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Reefclaw
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +1, Will +4
 resist: cold 5
@@ -39,6 +38,7 @@ ecology:
     desc: any water (coastal)
   - name: Organisation
     desc: solitary, school (2-5), or harem (6-11)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Frenzy (Su)

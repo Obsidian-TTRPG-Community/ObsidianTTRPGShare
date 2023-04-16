@@ -5,7 +5,7 @@ name: NPC Merchant (Merchant Prince)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 9
 name: NPC Merchant (Merchant Prince)
 Monster_XP: 6400
@@ -18,7 +18,6 @@ INI: +3
 perception: +17
 AC: 18, touch 13, flat-footed 15 (armor +5, dex +3)
 HP: 58
-HP_extra: 
 HD: 10d8+13
 saves: Fort +6, Ref +11, Will +8
 defensive_abilities: evasion, trap sense +2, uncanny dodge

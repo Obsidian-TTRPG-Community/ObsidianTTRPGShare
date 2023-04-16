@@ -5,7 +5,7 @@ name: Adult Lunar Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Adult Lunar Dragon
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 28, touch 7, flat-footed 28 (dex -1, natural +21, size -2)
 HP: 200
-HP_extra: 
 HD: 16d12+96
 saves: Fort +15, Ref +9, Will +16
 immune: cold, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

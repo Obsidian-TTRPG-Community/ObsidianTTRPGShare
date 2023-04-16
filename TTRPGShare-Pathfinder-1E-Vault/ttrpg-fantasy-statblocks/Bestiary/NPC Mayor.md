@@ -5,7 +5,7 @@ name: NPC Mayor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Mayor
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +0
 perception: +2
 AC: 15, touch 10, flat-footed 15 (armor +5)
 HP: 31
-HP_extra: 
 HD: 7d8
 saves: Fort +4, Ref +4, Will +9
 speed: 35 ft.

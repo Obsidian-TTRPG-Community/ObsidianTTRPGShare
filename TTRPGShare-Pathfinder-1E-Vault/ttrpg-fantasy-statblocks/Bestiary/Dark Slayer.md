@@ -5,7 +5,7 @@ name: Dark Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Dark Slayer
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +4
 senses: detect magic, see in darkness
 AC: 15, touch 15, flat-footed 11 (dex +4, size +1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +8, Will +1
 weak: light blindness

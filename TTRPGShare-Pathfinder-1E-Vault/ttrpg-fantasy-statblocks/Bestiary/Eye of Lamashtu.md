@@ -5,7 +5,7 @@ name: Eye of Lamashtu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Eye of Lamashtu
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 18, touch 11, flat-footed 17 (armor +5, dex +1, natural +2)
 HP: 31
-HP_extra: 
 HD: 6d8+4
 saves: Fort +7, Ref +2, Will +7
 speed: 20 ft.

@@ -5,7 +5,7 @@ name: Skeletal Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Skeletal Champion
 Monster_XP: 600

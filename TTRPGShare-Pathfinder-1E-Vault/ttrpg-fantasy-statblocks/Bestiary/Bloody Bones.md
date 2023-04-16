@@ -5,7 +5,7 @@ name: Bloody Bones
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Bloody Bones
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +20
 senses: darkvision, lifesense
 AC: 24, touch 19, flat-footed 20 (dex +4, natural +5, profane +5)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +13, Will +12
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gang (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hide in Plain Sight (Su)

@@ -5,7 +5,7 @@ name: Sawleg Locust
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Sawleg Locust
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 14, touch 13, flat-footed 13 (dex +1, natural +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +1, Will +0
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any desert or plains
   - name: Organisation
     desc: solitary, pair, or flight (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Leap (Ex)

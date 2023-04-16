@@ -5,7 +5,7 @@ name: Clockwork Overseer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 123: The Flooded Cathedral"
+source: "Pathfinder No. 123: The Flooded Cathedral"
 Monster_CR: 7
 name: Clockwork Overseer
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: all-around vision, darkvision, low-light vision
 aura: aura of command
 AC: 21, touch 14, flat-footed 17 (dex +2, dodge +2, natural +7)
 HP: 75
-HP_extra: 
 HD: 10d10+20
 saves: Fort +4, Ref +8, Will +5
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, crew (1 plus 2-5 clockwork servants), or deployment (1-2 plus 2-5 clockwork soldiers)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Command (Ex)

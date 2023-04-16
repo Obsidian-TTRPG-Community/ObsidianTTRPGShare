@@ -5,7 +5,7 @@ name: Handmaiden Devil (Gylou)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Handmaiden Devil (Gylou)
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, true seeing
 AC: 31, touch 17, flat-footed 24 (dex +7, natural +14)
 HP: 187
-HP_extra: 
 HD: 15d10+105
 saves: Fort +16, Ref +16, Will +10
 immune: fire, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, retinue (1 gylou and 2d4 erinyes), or cortege (1-4 gylous and 2d10 erinyes)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Agile Grappler (Ex)

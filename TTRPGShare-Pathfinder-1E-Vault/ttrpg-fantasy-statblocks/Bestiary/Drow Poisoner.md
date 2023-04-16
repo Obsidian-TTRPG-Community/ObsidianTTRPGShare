@@ -5,7 +5,7 @@ name: Drow Poisoner
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 11
 name: Drow Poisoner
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +17
 senses: all-around vision, darkvision
 AC: 23, touch 16, flat-footed 18 (armor +6, deflection +1, dex +5, natural +1)
 HP: 81
-HP_extra: 
 HD: 12d8+24
 saves: Fort +10, Ref +14, Will +5
 saves_other: +2 vs. enchantment

@@ -5,7 +5,7 @@ name: Deadly Mantis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 11
 name: Deadly Mantis
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 25, touch 6, flat-footed 21 (dex +4, natural +19, size -8)
 HP: 152
-HP_extra: 
 HD: 16d8+80
 saves: Fort +15, Ref +9, Will +5
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: tropical jungles (Mediogalti Island)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fling (Ex)

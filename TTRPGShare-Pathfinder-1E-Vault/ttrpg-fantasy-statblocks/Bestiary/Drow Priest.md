@@ -5,7 +5,7 @@ name: Drow Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Drow Priest
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 24, touch 13, flat-footed 23 (armor +9, deflection +2, dex +1, shield +2)
 HP: 31
-HP_extra: 
 HD: 5d8+5
 saves: Fort +5, Ref +2, Will +8
 saves_other: +2 vs. enchantment

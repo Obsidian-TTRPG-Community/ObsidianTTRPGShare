@@ -5,7 +5,7 @@ name: Donkey Rat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/4
 name: Donkey Rat
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +5, Will +1
 speed: 30 ft., swim 20 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: temperate coast or forest
   - name: Organisation
     desc: solitary, pair, or nest (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Magic

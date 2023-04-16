@@ -5,7 +5,7 @@ name: Agrawgh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 5
 name: Agrawgh
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, tremorsense
 AC: 18, touch 9, flat-footed 18 (natural +9, size -1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +8, Ref +5, Will +1
 immune: acid
@@ -39,6 +38,7 @@ ecology:
     desc: any underground (Plane of Earth)
   - name: Organisation
     desc: solitary, pair, or crew (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Burrow (Ex)

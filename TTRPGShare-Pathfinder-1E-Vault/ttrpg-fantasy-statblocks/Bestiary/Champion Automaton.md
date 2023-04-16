@@ -5,7 +5,7 @@ name: Champion Automaton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 10
 name: Champion Automaton
 Monster_XP: 9600
@@ -45,6 +45,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Arcane Pincers (Ex)

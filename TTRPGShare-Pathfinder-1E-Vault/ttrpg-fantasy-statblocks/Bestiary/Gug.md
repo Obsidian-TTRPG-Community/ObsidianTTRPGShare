@@ -5,7 +5,7 @@ name: Gug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Gug
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +27
 senses: darkvision
 AC: 24, touch 10, flat-footed 23 (dex +1, natural +14, size -1)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +6, Will +12
 immune: disease, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or camp (3-10)
+  - name: Treasure
     desc: standard
 sources:
   - name: Bestiary 2

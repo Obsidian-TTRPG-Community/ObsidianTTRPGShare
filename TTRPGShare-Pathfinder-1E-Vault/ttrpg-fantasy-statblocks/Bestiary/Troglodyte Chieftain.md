@@ -5,7 +5,7 @@ name: Troglodyte Chieftain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Troglodyte Chieftain
 Monster_XP: 4800

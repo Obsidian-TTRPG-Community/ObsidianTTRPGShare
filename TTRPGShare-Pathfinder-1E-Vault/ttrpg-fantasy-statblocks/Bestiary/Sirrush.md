@@ -5,7 +5,7 @@ name: Sirrush
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 21
 name: Sirrush
 Monster_XP: 409600
@@ -45,6 +45,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary or flight (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

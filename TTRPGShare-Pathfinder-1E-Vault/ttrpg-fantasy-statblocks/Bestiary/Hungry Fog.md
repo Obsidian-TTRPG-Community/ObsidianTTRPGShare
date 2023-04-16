@@ -5,7 +5,7 @@ name: Hungry Fog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Hungry Fog
 Monster_XP: 2400
@@ -17,7 +17,6 @@ senses: blindsight
 aura: bewitching brume
 AC: 5, touch 5, flat-footed 5 (dex -3, size -2)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +6, Ref -1, Will -3
 immune: acid, electricity, ooze traits, sonic
@@ -40,6 +39,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary, pair, or bank (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bewitching Brume (Su)

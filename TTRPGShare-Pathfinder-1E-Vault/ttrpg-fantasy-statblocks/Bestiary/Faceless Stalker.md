@@ -5,7 +5,7 @@ name: Faceless Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Faceless Stalker
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +5, Ref +4, Will +6
 DR: 5/piercing or slashing

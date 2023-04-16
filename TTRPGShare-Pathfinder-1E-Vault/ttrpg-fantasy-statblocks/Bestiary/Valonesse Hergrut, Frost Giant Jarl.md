@@ -5,7 +5,7 @@ name: Valonesse Hergrut, Frost Giant Jarl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 18
 name: Valonesse Hergrut, Frost Giant Jarl
 Monster_XP: 153600

@@ -5,7 +5,7 @@ name: Mimic Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 123: The Flooded Cathedral"
+source: "Pathfinder No. 123: The Flooded Cathedral"
 Monster_CR: 9
 name: Mimic Ooze
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 18, touch 18, flat-footed 10 (dex +7, dodge +1)
 HP: 105
-HP_extra: 
 HD: 14d8+42
 saves: Fort +7, Ref +11, Will -1
 immune: acid, mind-affecting effects, ooze traits, piercing damage
@@ -35,6 +34,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Enshroud (Ex)

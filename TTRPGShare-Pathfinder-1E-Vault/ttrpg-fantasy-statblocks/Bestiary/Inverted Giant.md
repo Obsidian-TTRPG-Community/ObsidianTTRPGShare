@@ -5,7 +5,7 @@ name: Inverted Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Kingdoms"
+source: "Lost Kingdoms"
 Monster_CR: 11
 name: Inverted Giant
 Monster_XP: 12800
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Claws (Ex)

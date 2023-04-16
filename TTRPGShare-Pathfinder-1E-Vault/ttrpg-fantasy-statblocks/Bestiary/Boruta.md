@@ -5,7 +5,7 @@ name: Boruta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 9
 name: Boruta
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +20
 senses: low-light vision
 AC: 23, touch 13, flat-footed 20 (dex +2, dodge +1, natural +10)
 HP: 105
-HP_extra: 
 HD: 14d8+42
 saves: Fort +12, Ref +6, Will +7
 immune: electricity, plant traits
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, party (2-4), or band (2-4 borutas plus 1-3 shambling mounds)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Electric Fortitude (Ex)

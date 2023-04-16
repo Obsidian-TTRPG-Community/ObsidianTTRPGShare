@@ -5,7 +5,7 @@ name: Crimson Jellyfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Crimson Jellyfish
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +2, Will +2
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: temperate oceans
   - name: Organisation
     desc: solitary, pack (2-4), or bloom (5-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

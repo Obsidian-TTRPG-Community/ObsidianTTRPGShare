@@ -5,7 +5,7 @@ name: Elder Lightning Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Elder Lightning Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 25, touch 19, flat-footed 14 (dex +10, dodge +1, natural +6, size -2)
 HP: 136
-HP_extra: 
 HD: 16d10+48
 saves: Fort +13, Ref +20, Will +7
 immune: electricity, elemental traits
@@ -39,6 +38,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

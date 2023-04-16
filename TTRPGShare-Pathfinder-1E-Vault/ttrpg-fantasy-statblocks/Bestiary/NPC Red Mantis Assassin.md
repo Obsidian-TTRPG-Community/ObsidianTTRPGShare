@@ -5,7 +5,7 @@ name: NPC Red Mantis Assassin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 13
 name: NPC Red Mantis Assassin
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +22
 senses: low-light vision
 AC: 23, touch 15, flat-footed 19 (armor +6, deflection +1, dex +3, dodge +1, natural +1, shield +1)
 HP: 101
-HP_extra: 
 HD: 14d8+35
 saves: Fort +5, Ref +12, Will +5
 saves_other: +2 vs. enchantment

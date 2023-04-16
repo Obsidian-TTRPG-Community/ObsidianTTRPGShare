@@ -5,7 +5,7 @@ name: Nogitsune
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 50: Night of Frozen Shadows"
+source: "Pathfinder No. 50: Night of Frozen Shadows"
 Monster_CR: 7
 name: Nogitsune
 Monster_XP: 3200

@@ -5,7 +5,7 @@ name: Oracular Cyclops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 58: Island of Empty Eyes"
+source: "Pathfinder No. 58: Island of Empty Eyes"
 Monster_CR: 7
 name: Oracular Cyclops
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +20
 senses: low-light vision
 AC: 21, touch 14, flat-footed 20 (dex +1, insight +4, natural +7, size -1)
 HP: 91
-HP_extra: 
 HD: 14d8+28
 saves: Fort +11, Ref +5, Will +7
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Lizardfolk Clutch Mother
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Lizardfolk Clutch Mother
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +4
 perception: +22
 AC: 22, touch 11, flat-footed 22 (armor +6, deflection +1, natural +5)
 HP: 95
-HP_extra: 
 HD: 14d8+32
 saves: Fort +15, Ref +7, Will +16
 saves_other: +4 vs. enchantments

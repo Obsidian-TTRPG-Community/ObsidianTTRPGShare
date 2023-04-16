@@ -5,7 +5,7 @@ name: NPC Cultist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Cultist
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +7
 perception: +3
 AC: 19, touch 13, flat-footed 16 (armor +4, dex +3, natural +2)
 HP: 45
-HP_extra: 
 HD: 10d6+10
 saves: Fort +5, Ref +6, Will +12
 speed: 30 ft., fly 60 ft. (good)

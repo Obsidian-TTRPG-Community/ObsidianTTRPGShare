@@ -5,7 +5,7 @@ name: Marax
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 90: The Divinity Drive"
+source: "Pathfinder No. 90: The Divinity Drive"
 Monster_CR: 11
 name: Marax
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +20
 senses: low-light vision, scent
 AC: 25, touch 11, flat-footed 23 (dex +2, natural +14, size -1)
 HP: 152
-HP_extra: 
 HD: 16d8+80
 saves: Fort +17, Ref +12, Will +7
 saves_other: +2 vs. poison
@@ -40,6 +39,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

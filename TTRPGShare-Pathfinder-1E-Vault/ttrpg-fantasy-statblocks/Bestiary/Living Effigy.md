@@ -5,7 +5,7 @@ name: Living Effigy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 94: Ice Tomb of the Giant Queen"
+source: "Pathfinder No. 94: Ice Tomb of the Giant Queen"
 Monster_CR: 8
 name: Living Effigy
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 20, touch 6, flat-footed 20 (dex -2, natural +14, size -2)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +3, Ref +1, Will +6
 immune: construct traits

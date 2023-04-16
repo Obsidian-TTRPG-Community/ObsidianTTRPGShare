@@ -5,7 +5,7 @@ name: Scarlet Walker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Rise of the Runelords Anniversary Edition"
+source: "Rise of the Runelords Anniversary Edition"
 Monster_CR: 12
 name: Scarlet Walker
 Monster_XP: 19200
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or crowd (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blood-Draining Gaze (Su)

@@ -5,7 +5,7 @@ name: Derhii
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Derhii
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, scent
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +5, Ref +8, Will +8
 speed: 30 ft., fly 60 ft. (poor), climb 30 ft.

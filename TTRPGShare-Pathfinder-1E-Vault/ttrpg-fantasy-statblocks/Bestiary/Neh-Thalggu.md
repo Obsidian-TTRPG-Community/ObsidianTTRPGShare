@@ -5,7 +5,7 @@ name: Neh-Thalggu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Neh-Thalggu
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +17
 senses: darkvision
 AC: 21, touch 19, flat-footed 18 (dex +3, natural +2, insight +7, size -1)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +9, Ref +6, Will +11
 immune: confusion effects
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Brain Collection (Ex)

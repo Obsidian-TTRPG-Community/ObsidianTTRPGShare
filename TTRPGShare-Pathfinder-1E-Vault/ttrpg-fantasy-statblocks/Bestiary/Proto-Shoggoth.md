@@ -5,7 +5,7 @@ name: Proto-Shoggoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 112: The Whisper Out of Time"
+source: "Pathfinder No. 112: The Whisper Out of Time"
 Monster_CR: 11
 name: Proto-Shoggoth
 Monster_XP: 12800
@@ -39,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or mass (2-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Create Spawn (Ex)

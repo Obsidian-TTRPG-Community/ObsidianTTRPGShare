@@ -5,7 +5,7 @@ name: Vildeis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 28
 name: Vildeis
 Monster_XP: 4915200

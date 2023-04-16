@@ -5,7 +5,7 @@ name: Taniniver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 18
 name: Taniniver
 Monster_XP: 153600
@@ -18,7 +18,6 @@ senses: darkvision, deathwatch
 aura: frightful presence
 AC: 33, touch 8, flat-footed 33 (natural +25, size -2)
 HP: 270
-HP_extra: 
 HD: 20d12+140
 saves: Fort +21, Ref +12, Will +15
 immune: paralysis, sleep, visual effects
@@ -43,6 +42,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Ex)

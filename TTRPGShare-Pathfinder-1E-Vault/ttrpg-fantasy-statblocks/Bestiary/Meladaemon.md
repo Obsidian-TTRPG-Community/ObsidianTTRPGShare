@@ -5,7 +5,7 @@ name: Meladaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Meladaemon
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: darkvision, detect good, detect magic
 aura: consumptive aura
 AC: 25, touch 15, flat-footed 19 (dex +6, natural +10, size -1)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +11, Ref +15, Will +14
 immune: acid, critical hits, death effects, disease, poison, sneak attack
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pack (2-5), or cabal (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Consumptive Aura (Su)

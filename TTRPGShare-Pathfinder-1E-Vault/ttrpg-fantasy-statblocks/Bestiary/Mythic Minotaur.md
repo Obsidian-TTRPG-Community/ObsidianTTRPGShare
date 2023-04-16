@@ -5,7 +5,7 @@ name: Mythic Minotaur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 6
 name: Mythic Minotaur
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 72
-HP_extra: 
 HD: 7d10+34
 saves: Fort +6, Ref +5, Will +5
 DR: 5/epic

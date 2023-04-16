@@ -5,7 +5,7 @@ name: Dire Wolf
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Dire Wolf
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +6, Will +2
 speed: 50 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: cold or temperate forests
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

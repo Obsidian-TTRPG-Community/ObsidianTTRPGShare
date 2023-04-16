@@ -5,7 +5,7 @@ name: D’ziriak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: D’ziriak
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +2, Ref +6, Will +6
 speed: 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any land (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, swarm (3-20), or hive (21-100)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dazzling Burst (Su)

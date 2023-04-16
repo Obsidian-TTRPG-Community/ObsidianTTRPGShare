@@ -5,7 +5,7 @@ name: Leng Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Leng Hound
 Monster_XP: 9600
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pack (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Charnel Deception (Ex)

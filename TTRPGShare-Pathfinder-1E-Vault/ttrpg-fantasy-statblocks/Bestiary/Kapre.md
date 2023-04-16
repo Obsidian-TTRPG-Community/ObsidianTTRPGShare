@@ -5,7 +5,7 @@ name: Kapre
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Kapre
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: confounding
 AC: 24, touch 10, flat-footed 22 (dex +2, natural +14, size -2)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +12, Ref +9, Will +9
 immune: plant traits
@@ -44,6 +43,7 @@ ecology:
     desc: warm or temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blow Smoke (Su)

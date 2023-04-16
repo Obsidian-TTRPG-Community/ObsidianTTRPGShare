@@ -5,7 +5,7 @@ name: Animated Object
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Animated Object
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 14, touch 10, flat-footed 12 (natural +4)
 HP: 36
-HP_extra: 
 HD: 3d10+20
 saves: Fort +1, Ref +1, Will -4
 immune: construct traits
@@ -34,6 +33,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or group (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Construction Points

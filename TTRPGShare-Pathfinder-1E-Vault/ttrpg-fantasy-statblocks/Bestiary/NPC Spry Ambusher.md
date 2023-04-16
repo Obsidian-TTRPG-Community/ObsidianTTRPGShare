@@ -5,7 +5,7 @@ name: NPC Spry Ambusher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Spry Ambusher
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +12
 senses: low-light vision
 AC: 21, touch 17, flat-footed 19 (armor +4, dex +1, dodge +1, monk +1, size +1, wis +3)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +6, Will +8
 saves_other: +2 vs. enchantments and illusions

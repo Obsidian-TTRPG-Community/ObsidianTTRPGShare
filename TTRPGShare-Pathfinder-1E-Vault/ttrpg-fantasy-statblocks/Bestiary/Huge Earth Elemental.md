@@ -5,7 +5,7 @@ name: Huge Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Huge Earth Elemental
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, tremorsense
 AC: 19, touch 7, flat-footed 19 (dex -1, natural +12, size -2)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +11, Ref +2, Will +7
 immune: elemental traits

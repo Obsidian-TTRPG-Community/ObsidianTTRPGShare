@@ -5,7 +5,7 @@ name: Bebilith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Bebilith
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, scent
 AC: 22, touch 9, flat-footed 21 (dex +1, natural +13, size -2)
 HP: 150
-HP_extra: 
 HD: 12d10+84
 saves: Fort +15, Ref +11, Will +7
 DR: 10/good
@@ -41,6 +40,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary or band (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dismantle Armor (Ex)

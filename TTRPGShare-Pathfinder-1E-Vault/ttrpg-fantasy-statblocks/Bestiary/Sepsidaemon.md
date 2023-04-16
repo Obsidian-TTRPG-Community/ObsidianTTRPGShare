@@ -5,7 +5,7 @@ name: Sepsidaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 7
 name: Sepsidaemon
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: dakrvision, scent
 aura: septic wounds
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +10, Will +7
 immune: acid, death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or infection (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

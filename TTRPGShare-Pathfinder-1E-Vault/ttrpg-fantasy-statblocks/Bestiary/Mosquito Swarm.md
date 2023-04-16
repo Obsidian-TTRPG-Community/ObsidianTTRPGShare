@@ -5,7 +5,7 @@ name: Mosquito Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Mosquito Swarm
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 31
-HP_extra: 
 HD: 7d8
 saves: Fort +5, Ref +3, Will +3
 immune: mind-affecting effects, weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: tropical swamps
   - name: Organisation
     desc: solitary, pair, fury (3-6 swarms), or scourge (7-12 swarms)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

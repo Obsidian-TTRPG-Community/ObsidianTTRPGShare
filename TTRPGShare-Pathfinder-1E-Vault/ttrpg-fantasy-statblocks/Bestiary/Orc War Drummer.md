@@ -5,7 +5,7 @@ name: Orc War Drummer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Orc War Drummer
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +1, Ref +6, Will +4
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

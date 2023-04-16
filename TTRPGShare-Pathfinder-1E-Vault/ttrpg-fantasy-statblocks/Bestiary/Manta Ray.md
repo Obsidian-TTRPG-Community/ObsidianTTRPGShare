@@ -5,7 +5,7 @@ name: Manta Ray
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Manta Ray
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: blindsense, low-light vision
 AC: 13, touch 10, flat-footed 12 (dex +1, natural +3, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +4, Will +2
 speed: swim 60 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or flight (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

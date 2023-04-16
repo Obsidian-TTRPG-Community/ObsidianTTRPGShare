@@ -5,7 +5,7 @@ name: Belostomatid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 49: The Brinewall Legacy"
+source: "Pathfinder No. 49: The Brinewall Legacy"
 Monster_CR: 3
 name: Belostomatid
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision, tremorsense
 aura: stench
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +2, Will +1
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: temperate lakes, rivers, or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Digestive Enzymes (Ex)

@@ -5,7 +5,7 @@ name: Herecite of Asmodeus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 100: A Song of Silver"
+source: "Pathfinder No. 100: A Song of Silver"
 Monster_CR: 9
 name: Herecite of Asmodeus
 Monster_XP: 6400
@@ -18,7 +18,6 @@ senses: darkvision, detect good, see invisibility
 aura: desecration
 AC: 24, touch 19, flat-footed 20 (dex +4, natural +5, profane +5)
 HP: 138
-HP_extra: 
 HD: 12d8+84
 saves: Fort +11, Ref +10, Will +11
 immune: undead traits

@@ -5,7 +5,7 @@ name: Deathweb
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Deathweb
 Monster_XP: 2400
@@ -18,7 +18,6 @@ senses: darkvision
 aura: infestation
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 71
-HP_extra: 
 HD: 11d8+22
 saves: Fort +5, Ref +5, Will +8
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Heresy Devil (Ayngavhaul)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Heresy Devil (Ayngavhaul)
 Monster_XP: 19200
@@ -44,6 +44,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or lecture (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corpulence (Ex)

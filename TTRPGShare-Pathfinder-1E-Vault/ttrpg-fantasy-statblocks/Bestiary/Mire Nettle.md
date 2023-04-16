@@ -5,7 +5,7 @@ name: Mire Nettle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 2
 name: Mire Nettle
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +2, Will +1
 immune: plant traits
@@ -36,6 +35,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, thicket (2-6), or grove (7-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Pain (Ex)

@@ -5,7 +5,7 @@ name: Derakni
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Worldwound"
+source: "The Worldwound"
 Monster_CR: 10
 name: Derakni
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +25
 senses: darkvision, scent
 AC: 25, touch 15, flat-footed 19 (dex +6, natural +10, size -1)
 HP: 126
-HP_extra: 
 HD: 11d10+66
 saves: Fort +13, Ref +13, Will +8
 immune: electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or swarm (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Drone (Su)

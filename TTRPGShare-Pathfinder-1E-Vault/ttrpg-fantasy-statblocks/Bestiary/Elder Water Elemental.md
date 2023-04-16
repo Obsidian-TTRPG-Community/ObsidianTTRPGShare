@@ -5,7 +5,7 @@ name: Elder Water Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Elder Water Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 24, touch 15, flat-footed 17 (dex +6, dodge +1, natural +9, size -2)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +18, Will +5
 immune: elemental traits

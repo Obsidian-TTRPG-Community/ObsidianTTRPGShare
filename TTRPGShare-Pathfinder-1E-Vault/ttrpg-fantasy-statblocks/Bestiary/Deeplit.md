@@ -5,7 +5,7 @@ name: Deeplit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 5
 name: Deeplit
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: palelight
 AC: 19, touch 12, flat-footed 17 (armor +4, dex +2, natural +3)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +4, Will +8
 immune: blindness, undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or team (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Consume Light (Su)

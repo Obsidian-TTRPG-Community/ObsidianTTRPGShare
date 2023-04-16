@@ -5,7 +5,7 @@ name: Red Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 12
 name: Red Rider
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 29, touch 15, flat-footed 24 (armor +8, dex +5, natural +4, shield +2)
 HP: 152
-HP_extra: 
 HD: 16d6+96
 saves: Fort +11, Ref +15, Will +14
 immune: cold, poison
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bright Blast (Su)

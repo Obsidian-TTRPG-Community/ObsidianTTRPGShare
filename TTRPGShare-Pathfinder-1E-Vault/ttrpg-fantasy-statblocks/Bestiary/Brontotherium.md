@@ -5,7 +5,7 @@ name: Brontotherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Brontotherium
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +16
 senses: low-light vision, scent
 AC: 21, touch 8, flat-footed 21 (natural +13, size -2)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +13, Ref +7, Will +8
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any plains
   - name: Organisation
     desc: solitary, pair, or herd (3-9)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 6

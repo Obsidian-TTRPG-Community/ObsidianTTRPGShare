@@ -5,7 +5,7 @@ name: Cheetah
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Cheetah
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 11 (dex +4, natural +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +7, Will +2
 speed: 50 ft., other_semicolon sprint ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sprint (Ex)

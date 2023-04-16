@@ -5,7 +5,7 @@ name: Raktavarna
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Raktavarna
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, detect magic
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +3, Ref +6, Will +4
 DR: 5/good or piercing
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or rack (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Shape (Su)

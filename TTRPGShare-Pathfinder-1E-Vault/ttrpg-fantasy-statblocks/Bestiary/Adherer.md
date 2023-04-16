@@ -5,7 +5,7 @@ name: Adherer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Adherer
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +7, Will +5
 DR: 5/-
@@ -41,6 +40,7 @@ ecology:
     desc: any temperate or underground
   - name: Organisation
     desc: solitary, gang (2-5), or nest (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Adhesive (Su)

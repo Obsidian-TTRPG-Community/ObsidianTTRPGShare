@@ -5,7 +5,7 @@ name: Malbolgian Cerberi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 28: The Infernal Syndrome"
+source: "Pathfinder No. 28: The Infernal Syndrome"
 Monster_CR: 12
 name: Malbolgian Cerberi
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, soul scent
 AC: 26, touch 10, flat-footed 25 (dex +1, natural +16, size -1)
 HP: 161
-HP_extra: 
 HD: 14d10+84
 saves: Fort +15, Ref +10, Will +6
 speed: 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Cerberus’s Jaws (Su)

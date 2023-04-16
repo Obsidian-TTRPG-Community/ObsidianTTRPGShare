@@ -5,7 +5,7 @@ name: Leechroot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Leechroot
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +3
 senses: darkvision, tremorsense
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +3, Ref +0, Will +7
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary, garden (2-5), or hivemind (4-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bloodthirst (Su)

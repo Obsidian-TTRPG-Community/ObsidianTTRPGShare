@@ -5,7 +5,7 @@ name: Hag Eye Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 72: The Witch Queen's Revenge"
+source: "Pathfinder No. 72: The Witch Queen's Revenge"
 Monster_CR: 3
 name: Hag Eye Ooze
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 6, touch 6, flat-footed 6 (dex -5, size +1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +5, Ref -4, Will -4
 immune: acid, cold, ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: temperate marshes or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spell Channel (Su)

@@ -5,7 +5,7 @@ name: Iophanite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Iophanite
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4, deflection vs. evil +2)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +7, Will +1
 saves_other: +4 vs. poison, +4 resistance vs. evil
@@ -45,6 +44,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary, pair, or squad (3-8)
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

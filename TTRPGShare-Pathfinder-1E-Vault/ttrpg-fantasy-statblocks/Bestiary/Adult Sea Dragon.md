@@ -5,7 +5,7 @@ name: Adult Sea Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Adult Sea Dragon
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 172
-HP_extra: 
 HD: 15d12+75
 saves: Fort +16, Ref +11, Will +14
 immune: electricity, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

@@ -5,7 +5,7 @@ name: Kerakinsi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 4
 name: Kerakinsi
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +2, dodge +1, natural +4)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +3, Ref +7, Will +7
 immune: deafness, electricity, sonic
@@ -37,6 +36,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary, pair, or storm (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Discharge (Su)

@@ -5,7 +5,7 @@ name: Coral Capuchin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1
 name: Coral Capuchin
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision 60 f t., low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +6, Will +1
 weak: moisture dependency
@@ -43,6 +42,7 @@ ecology:
     desc: warm coasts or oceans
   - name: Organisation
     desc: solitary, pair, or tribe (3-24 plus one matriarch)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cursed Bite (Su)

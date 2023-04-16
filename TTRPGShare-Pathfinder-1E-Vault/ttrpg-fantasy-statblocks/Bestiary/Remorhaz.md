@@ -5,7 +5,7 @@ name: Remorhaz
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Remorhaz
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision, tremorsense
 AC: 20, touch 9, flat-footed 19 (dex +1, natural +11, size -2)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +11, Ref +7, Will +4
 immune: fire, cold
@@ -38,6 +37,7 @@ ecology:
     desc: cold deserts and glaciers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Heat (Su)

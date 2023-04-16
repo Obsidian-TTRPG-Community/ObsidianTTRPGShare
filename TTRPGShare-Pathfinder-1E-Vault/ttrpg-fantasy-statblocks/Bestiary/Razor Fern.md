@@ -5,7 +5,7 @@ name: Razor Fern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Razor Fern
 Monster_XP: 100
@@ -16,7 +16,6 @@ INI: +2
 senses: low-light vision, tremorsense
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +2, Will +0
 immune: plant traits

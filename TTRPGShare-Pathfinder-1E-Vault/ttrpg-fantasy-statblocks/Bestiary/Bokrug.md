@@ -5,7 +5,7 @@ name: Bokrug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 27
 name: Bokrug
 Monster_XP: 3276800
@@ -45,6 +45,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Critical Poisoning (Su)

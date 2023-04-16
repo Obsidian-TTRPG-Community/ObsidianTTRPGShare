@@ -5,7 +5,7 @@ name: Ayandamahla, the Crimson Lotus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 24
 name: Ayandamahla, the Crimson Lotus
 Monster_XP: 1228800

@@ -5,7 +5,7 @@ name: Yithian Elder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 13
 name: Yithian Elder
 Monster_XP: 25600

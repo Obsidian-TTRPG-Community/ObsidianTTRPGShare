@@ -5,7 +5,7 @@ name: Flame Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Flame Drake
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 57
-HP_extra: 
 HD: 6d12+18
 saves: Fort +8, Ref +6, Will +6
 immune: fire, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: temperate mountains or hills
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fireball Breath (Su)

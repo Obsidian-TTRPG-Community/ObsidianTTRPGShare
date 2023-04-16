@@ -5,7 +5,7 @@ name: Ghalzarokh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 15
 name: Ghalzarokh
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +37
 senses: darkvision, scent, see invisibility
 AC: 30, touch 12, flat-footed 27 (dex +3, natural +18, size -1)
 HP: 218
-HP_extra: 
 HD: 19d10+114
 saves: Fort +17, Ref +11, Will +18
 immune: electricity, fire, mind-affecting effects, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or trio
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Project Blame (Su)

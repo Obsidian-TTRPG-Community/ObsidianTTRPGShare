@@ -5,7 +5,7 @@ name: Sea Bonze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Sea Bonze
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +33
 senses: blindsight
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 231
-HP_extra: 
 HD: 22d8+132
 saves: Fort +13, Ref +9, Will +19
 immune: cold, electricity, undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dooming Gaze (Su)

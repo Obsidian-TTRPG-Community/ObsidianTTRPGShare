@@ -5,7 +5,7 @@ name: Megatherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Megatherium
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, scent
 AC: 18, touch 8, flat-footed 18 (natural +10, size -2)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +9, Ref +5, Will +3
 speed: 30 ft., climb 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm forest
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

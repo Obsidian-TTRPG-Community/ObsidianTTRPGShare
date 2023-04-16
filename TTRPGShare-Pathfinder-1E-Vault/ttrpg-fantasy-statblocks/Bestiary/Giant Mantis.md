@@ -5,7 +5,7 @@ name: Giant Mantis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Giant Mantis
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 15, touch 10, flat-footed 14 (dex +1, natural +5, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +2, Will +3
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Lunge (Ex)

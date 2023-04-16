@@ -5,7 +5,7 @@ name: Nixudaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 96: Shadow of the Storm Tyrant"
+source: "Pathfinder No. 96: Shadow of the Storm Tyrant"
 Monster_CR: 7
 name: Nixudaemon
 Monster_XP: 3200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or corps (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Damning Scourge (Su)

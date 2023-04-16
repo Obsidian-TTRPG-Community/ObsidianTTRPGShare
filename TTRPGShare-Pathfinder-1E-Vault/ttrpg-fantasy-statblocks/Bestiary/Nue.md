@@ -5,7 +5,7 @@ name: Nue
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Nue
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 24, touch 15, flat-footed 18 (dex +5, dodge +1, natural +9, size -1)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +13, Ref +13, Will +7
 speed: 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests or mountains
   - name: Organisation
     desc: solitary, pair, or ambush (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cloud Form (Su)

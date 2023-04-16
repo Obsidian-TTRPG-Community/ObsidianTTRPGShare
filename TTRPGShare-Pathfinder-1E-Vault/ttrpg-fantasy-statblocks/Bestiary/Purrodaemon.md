@@ -5,7 +5,7 @@ name: Purrodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 18
 name: Purrodaemon
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: fear, unholy aura
 AC: 35, touch 19, flat-footed 29 (deflection +4, dex +6, natural +16, size -1)
 HP: 294
-HP_extra: 
 HD: 19d10+190
 saves: Fort +25, Ref +21, Will +14
 immune: acid, death effects, disease, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, patrol (2-5), or unit (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Weapon Steep (Su)

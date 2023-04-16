@@ -5,7 +5,7 @@ name: NPC Falconer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Falconer
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +1
 perception: +10
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 17
-HP_extra: 
 HD: 5d8-5
 saves: Fort +0, Ref +4, Will +3
 speed: 30 ft.

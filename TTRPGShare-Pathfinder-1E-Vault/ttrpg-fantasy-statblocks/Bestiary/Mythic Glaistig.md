@@ -5,7 +5,7 @@ name: Mythic Glaistig
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 21
 name: Mythic Glaistig
 Monster_XP: 409600
@@ -46,6 +46,7 @@ ecology:
     desc: temperate forests or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Airbane

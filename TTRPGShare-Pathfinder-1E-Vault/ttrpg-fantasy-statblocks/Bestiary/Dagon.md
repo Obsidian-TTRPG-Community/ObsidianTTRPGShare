@@ -5,7 +5,7 @@ name: Dagon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 28
 name: Dagon
 Monster_XP: 4915200
@@ -47,6 +47,7 @@ ecology:
     desc: any oceans (Abyss)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

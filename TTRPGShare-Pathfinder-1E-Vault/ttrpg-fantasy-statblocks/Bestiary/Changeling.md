@@ -5,7 +5,7 @@ name: Changeling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Changeling
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 10, touch 9, flat-footed 10 (dex -1, natural +1)
 HP: 8
-HP_extra: 
 HD: 1d6+2
 saves: Fort +1, Ref -1, Will +4
 speed: 30 ft.

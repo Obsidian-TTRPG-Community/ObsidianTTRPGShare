@@ -5,7 +5,7 @@ name: Rawhead
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Rawhead
 Monster_XP: 38400
@@ -18,7 +18,6 @@ senses: darkvision, see in darkness
 aura: frightful presence
 AC: 29, touch 17, flat-footed 22 (armor +4, dex +6, dodge +1, natural +8)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +12, Ref +16, Will +15
 immune: bleed, fear

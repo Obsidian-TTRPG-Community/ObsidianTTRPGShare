@@ -5,7 +5,7 @@ name: Pickled Punk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Pickled Punk
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +1, Ref +1, Will +4
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

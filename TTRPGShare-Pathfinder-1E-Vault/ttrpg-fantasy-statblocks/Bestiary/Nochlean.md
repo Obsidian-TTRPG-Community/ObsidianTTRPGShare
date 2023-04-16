@@ -5,7 +5,7 @@ name: Nochlean
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 133: Secrets of Roderic's Cove"
+source: "Pathfinder No. 133: Secrets of Roderic's Cove"
 Monster_CR: 3
 name: Nochlean
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +13
 senses: child-scent, darkvision, low-light vision
 AC: 15, touch 14, flat-footed 11 (dex +4, natural +1)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +8, Will +5
 DR: 5/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Child-Scent (Ex)

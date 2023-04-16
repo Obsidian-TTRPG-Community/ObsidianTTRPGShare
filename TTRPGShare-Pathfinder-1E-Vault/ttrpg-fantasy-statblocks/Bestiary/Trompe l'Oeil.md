@@ -5,7 +5,7 @@ name: Trompe l'Oeil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 6
 name: Trompe l'Oeil
 Monster_XP: 2400
@@ -19,7 +19,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 19, touch 11, flat-footed 18 (armor +7, dex +1, shield +1)
 HP: 79
-HP_extra: 
 HD: 7d8+48
 saves: Fort +5, Ref +5, Will +7
 defensive_abilities: construct traits, rejuvenation
@@ -45,6 +44,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 sources:
   - name: Horror Adventures

@@ -5,7 +5,7 @@ name: Swamp Barracuda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 2
 name: Swamp Barracuda
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: keen scent, low-light vision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +4, Ref +6, Will +2
 speed: 10 ft., swim 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate or warm marshes
   - name: Organisation
     desc: solitary, pack (2-5), or school (6-11)
+  - name: Treasure
     desc: none
 sources:
   - name: Magnimar, City of Monuments

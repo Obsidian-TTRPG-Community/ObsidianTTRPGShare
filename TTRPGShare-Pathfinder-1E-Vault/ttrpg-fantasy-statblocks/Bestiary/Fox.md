@@ -5,7 +5,7 @@ name: Fox
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/4
 name: Fox
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +4, Will +1
 speed: 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or skulk (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

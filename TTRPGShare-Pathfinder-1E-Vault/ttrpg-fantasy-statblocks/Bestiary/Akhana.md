@@ -5,7 +5,7 @@ name: Akhana
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Akhana
 Monster_XP: 19200
@@ -40,6 +40,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, or collective (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Soul Siphoning (Su)

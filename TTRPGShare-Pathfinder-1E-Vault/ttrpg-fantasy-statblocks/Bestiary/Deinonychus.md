@@ -5,7 +5,7 @@ name: Deinonychus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Deinonychus
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +6, Will +2
 speed: 60 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

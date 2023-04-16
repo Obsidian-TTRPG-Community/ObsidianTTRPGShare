@@ -5,7 +5,7 @@ name: Worg
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Worg
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +5, Ref +6, Will +3
 speed: 50 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests and plains
   - name: Organisation
     desc: solitary, pair, or pack (3-11)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

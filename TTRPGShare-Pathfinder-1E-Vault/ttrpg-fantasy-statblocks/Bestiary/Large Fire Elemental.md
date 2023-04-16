@@ -5,7 +5,7 @@ name: Large Fire Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Large Fire Elemental
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 19, touch 15, flat-footed 13 (dex +5, dodge +1, natural +4, size -1)
 HP: 60
-HP_extra: 
 HD: 8d10+16
 saves: Fort +8, Ref +11, Will +4
 immune: elemental traits, fire

@@ -5,7 +5,7 @@ name: NPC Golem-Breaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Golem-Breaker
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +20
 senses: darkvision
 AC: 31, touch 16, flat-footed 28 (armor +10, deflection +3, dex +2, dodge +1, natural +5)
 HP: 203
-HP_extra: 
 HD: 18d10+100
 saves: Fort +18, Ref +15, Will +10
 saves_other: +2 vs. poison, spells, and spell-like abilities

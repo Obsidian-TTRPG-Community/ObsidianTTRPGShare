@@ -5,7 +5,7 @@ name: Hobgoblin Lieutenant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Hobgoblin Lieutenant
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 47
-HP_extra: 
 HD: 5d10+15
 saves: Fort +8, Ref +7, Will +3
 speed: 20 ft.

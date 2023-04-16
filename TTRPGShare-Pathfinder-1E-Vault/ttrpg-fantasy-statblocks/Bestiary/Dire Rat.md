@@ -5,7 +5,7 @@ name: Dire Rat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Dire Rat
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +5, Will +1
 speed: 40 ft., climb 20 ft., swim 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or pack (2-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

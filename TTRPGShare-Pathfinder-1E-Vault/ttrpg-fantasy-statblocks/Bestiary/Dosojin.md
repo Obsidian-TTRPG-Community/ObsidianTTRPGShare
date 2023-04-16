@@ -5,7 +5,7 @@ name: Dosojin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 52: Forest of Spirits"
+source: "Pathfinder No. 52: Forest of Spirits"
 Monster_CR: 7
 name: Dosojin
 Monster_XP: 3200
@@ -40,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, mated pair, or cloister (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Manipulate Path (Su)

@@ -5,7 +5,7 @@ name: Abhominal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 123: The Flooded Cathedral"
+source: "Pathfinder No. 123: The Flooded Cathedral"
 Monster_CR: 6
 name: Abhominal
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, scent
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +6, Ref +6, Will +9
 immune: acid, cold, undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Barbed Tentacles (Ex)

@@ -5,7 +5,7 @@ name: Goblin Stickylord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Goblin Stickylord
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +10
 senses: darkvision
 AC: 24, touch 17, flat-footed 18 (armor +5, dex +6, natural +2, size +1)
 HP: 49
-HP_extra: 
 HD: 7d8+14
 saves: Fort +7, Ref +12, Will +3
 saves_other: +2 vs. fire, +4 vs. poison

@@ -5,7 +5,7 @@ name: Xacarba
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 15
 name: Xacarba
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +29
 senses: arcane sight, darkvision, detect good, low-light vision, scent, true seeing
 AC: 31, touch 12, flat-footed 25 (dex +5, dodge +1, natural +19, size -4)
 HP: 210
-HP_extra: 
 HD: 20d10+100
 saves: Fort +17, Ref +13, Will +20
 immune: electricity, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any land (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Su)

@@ -5,7 +5,7 @@ name: NPC Razmiran Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 9
 name: NPC Razmiran Priest
 Monster_XP: 6400

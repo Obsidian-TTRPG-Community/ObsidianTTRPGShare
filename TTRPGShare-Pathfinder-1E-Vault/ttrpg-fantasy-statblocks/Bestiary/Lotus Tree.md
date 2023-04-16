@@ -5,7 +5,7 @@ name: Lotus Tree
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 20
 name: Lotus Tree
 Monster_XP: 307200
@@ -41,6 +41,7 @@ ecology:
     desc: any coastlines or forests
   - name: Organisation
     desc: solitary or grove (1-3 plus 2-7 charmed allies)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Hallucination (Su)

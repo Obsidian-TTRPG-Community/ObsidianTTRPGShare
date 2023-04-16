@@ -5,7 +5,7 @@ name: NPC Heretic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Heretic
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +5
 senses: low-light vision
 AC: 13, touch 13, flat-footed 13 (deflection +3)
 HP: 36
-HP_extra: 
 HD: 8d6+8
 saves: Fort +4, Ref +3, Will +12
 saves_other: +2 vs. enchantments

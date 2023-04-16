@@ -5,7 +5,7 @@ name: Adult Dream Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Adult Dream Dragon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: dragon senses, dreamsight
 aura: frightful presence
 AC: 29, touch 8, flat-footed 29 (natural +21, size -2)
 HP: 195
-HP_extra: 
 HD: 17d12+85
 saves: Fort +15, Ref +12, Will +14
 immune: paralysis, sleep

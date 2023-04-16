@@ -5,7 +5,7 @@ name: Mederach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 105: The Inferno Gate"
+source: "Pathfinder No. 105: The Inferno Gate"
 Monster_CR: 9
 name: Mederach
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision, detect evil
 AC: 23, touch 9, flat-footed 23 (natural +14, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +6, Will +11
 DR: 10/evil
@@ -41,6 +40,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or team (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Peaceful Intent (Su)

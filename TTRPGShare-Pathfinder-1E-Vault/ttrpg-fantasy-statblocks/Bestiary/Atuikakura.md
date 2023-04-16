@@ -5,7 +5,7 @@ name: Atuikakura
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Atuikakura
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Collapse (Ex)

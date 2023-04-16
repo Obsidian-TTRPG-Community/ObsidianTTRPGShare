@@ -5,7 +5,7 @@ name: NPC Savage Plant Sage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Savage Plant Sage
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 20, touch 11, flat-footed 19 (armor +7, dex +1, natural +2)
 HP: 32
-HP_extra: 
 HD: 4d8+11
 saves: Fort +6, Ref +2, Will +5
 saves_other: +4 vs. fey and plant-targeted effects

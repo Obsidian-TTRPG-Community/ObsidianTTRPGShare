@@ -5,7 +5,7 @@ name: Nightwalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Nightwalker
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: darksense, darkvision, detect magic, low-light vision
 aura: desecrating aura
 AC: 31, touch 10, flat-footed 29 (dex +2, natural +21, size -2)
 HP: 241
-HP_extra: 
 HD: 21d8+147
 saves: Fort +14, Ref +11, Will +19
 immune: cold, undead traits
@@ -45,6 +44,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fear Gaze (Su)

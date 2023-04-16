@@ -5,7 +5,7 @@ name: NPC Cutpurse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Cutpurse
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +7
 perception: +3
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +3)
 HP: 10
-HP_extra: 
 HD: 1d8+2
 saves: Fort +1, Ref +5, Will -1
 speed: 30 ft.

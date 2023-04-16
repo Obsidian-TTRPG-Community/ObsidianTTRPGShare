@@ -5,7 +5,7 @@ name: Dire Lion (Spotted Lion)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Dire Lion (Spotted Lion)
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +9, Ref +8, Will +3
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm plains or hills
   - name: Organisation
     desc: solitary, pair, or pride (3-8)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

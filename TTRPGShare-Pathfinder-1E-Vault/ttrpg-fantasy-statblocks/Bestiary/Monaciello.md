@@ -5,7 +5,7 @@ name: Monaciello
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Monaciello
 Monster_XP: 400
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: stymie channeling
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 14
-HP_extra: 
 HD: 2d6+7
 saves: Fort +2, Ref +5, Will +4
 saves_other: +4 vs. divine magic

@@ -5,7 +5,7 @@ name: NPC Fey Enchantress
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Fey Enchantress
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +12
 senses: low-light vision
 AC: 21, touch 16, flat-footed 17 (armor +4, deflection +2, dex +3, dodge +1, natural +1)
 HP: 56
-HP_extra: 
 HD: 12d6+12
 saves: Fort +5, Ref +10, Will +12
 saves_other: +2 vs. enchantments

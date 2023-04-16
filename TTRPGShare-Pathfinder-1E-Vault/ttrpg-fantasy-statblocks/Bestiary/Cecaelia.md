@@ -5,7 +5,7 @@ name: Cecaelia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Cecaelia
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision, tentacle sense
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +4, Ref +9, Will +6
 speed: 30 ft., swim 40 ft., jet 200 ft.

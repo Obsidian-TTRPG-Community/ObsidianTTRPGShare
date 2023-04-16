@@ -5,7 +5,7 @@ name: Redkind
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 2
 name: Redkind
 Monster_XP: 600
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: twisted shadows
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 16
-HP_extra: 
 HD: 3d6+6
 saves: Fort +3, Ref +7, Will +2
 weak: situational blindness
@@ -37,6 +36,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or gaggle (2-5 redkind, plus 1 bogeyman)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Situational Blindness (Su)

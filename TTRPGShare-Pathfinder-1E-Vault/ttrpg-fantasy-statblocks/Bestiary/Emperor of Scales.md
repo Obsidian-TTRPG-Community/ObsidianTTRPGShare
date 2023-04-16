@@ -5,7 +5,7 @@ name: Emperor of Scales
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 42: Sanctum of the Serpent God"
+source: "Pathfinder No. 42: Sanctum of the Serpent God"
 Monster_CR: 15
 name: Emperor of Scales
 Monster_XP: 51200
@@ -48,6 +48,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Acidic Gore (Su)

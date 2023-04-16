@@ -5,7 +5,7 @@ name: Adaro
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Adaro
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsense, darkvision, low-light vision, keen scent
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +7, Will +5
 speed: 10 ft., swim 50 ft.

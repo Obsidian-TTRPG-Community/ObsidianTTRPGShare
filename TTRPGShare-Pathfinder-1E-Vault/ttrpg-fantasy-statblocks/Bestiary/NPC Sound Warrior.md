@@ -5,7 +5,7 @@ name: NPC Sound Warrior
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Sound Warrior
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +3
 perception: +17
 AC: 24, touch 17, flat-footed 20 (armor +4, deflection +2, dex +3, dodge +1, natural +3, size +1)
 HP: 76
-HP_extra: 
 HD: 5d8+4d8+4d6+18
 saves: Fort +10, Ref +11, Will +14
 saves_other: +2 vs. fear, +4 vs. fey and plant-targeted effects, +4 vs. bardic performance, language-dependent, and sonic

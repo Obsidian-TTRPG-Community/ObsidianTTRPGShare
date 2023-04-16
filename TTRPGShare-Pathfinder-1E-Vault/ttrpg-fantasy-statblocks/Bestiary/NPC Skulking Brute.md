@@ -5,7 +5,7 @@ name: NPC Skulking Brute
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Skulking Brute
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 19
-HP_extra: 
 HD: 2d8+7
 saves: Fort +1, Ref +5, Will +1
 defensive_abilities: evasion, orc ferocity

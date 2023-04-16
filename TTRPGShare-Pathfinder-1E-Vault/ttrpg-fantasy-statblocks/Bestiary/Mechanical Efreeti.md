@@ -5,7 +5,7 @@ name: Mechanical Efreeti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 1
 name: Mechanical Efreeti
 Monster_XP: 400
@@ -17,7 +17,6 @@ INI: +6
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 14 (dex +2, dodge +2, natural +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +0, Ref +4, Will +0
 immune: construct traits

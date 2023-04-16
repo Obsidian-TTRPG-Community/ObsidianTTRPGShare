@@ -5,7 +5,7 @@ name: Belier Devil (Bdellavritra)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Belier Devil (Bdellavritra)
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, see in darkness
 AC: 33, touch 15, flat-footed 27 (dex +6, natural +18, size -1)
 HP: 212
-HP_extra: 
 HD: 17d10+119
 saves: Fort +17, Ref +11, Will +20
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Possession (Su)

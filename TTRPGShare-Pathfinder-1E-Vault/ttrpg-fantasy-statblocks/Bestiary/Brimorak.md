@@ -5,7 +5,7 @@ name: Brimorak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Brimorak
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: smoke breath
 AC: 18, touch 14, flat-footed 15 (dex +3, natural +4, size +1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +8, Will +3
 immune: electricity, fire

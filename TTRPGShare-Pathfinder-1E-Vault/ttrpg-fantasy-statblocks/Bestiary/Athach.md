@@ -5,7 +5,7 @@ name: Athach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Athach
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 26, touch 9, flat-footed 25 (armor +2, dex +1, natural +15, size -2)
 HP: 161
-HP_extra: 
 HD: 14d8+98
 saves: Fort +16, Ref +5, Will +7
 resist: cold 10

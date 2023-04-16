@@ -5,7 +5,7 @@ name: Greater Magma Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Greater Magma Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 19, touch 7, flat-footed 19 (dex -1, natural +12, size -2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +7, Will +4
 immune: fire, elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

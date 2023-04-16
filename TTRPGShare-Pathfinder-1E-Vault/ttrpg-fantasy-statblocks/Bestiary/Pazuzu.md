@@ -5,7 +5,7 @@ name: Pazuzu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 30
 name: Pazuzu
 Monster_XP: 9830400

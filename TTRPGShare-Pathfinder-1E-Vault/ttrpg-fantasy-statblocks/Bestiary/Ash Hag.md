@@ -5,7 +5,7 @@ name: Ash Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 5
 name: Ash Hag
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +4, Ref +6, Will +9
 immune: fire
@@ -38,6 +37,7 @@ ecology:
     desc: any urban or ruins
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ash Affinity (Ex)

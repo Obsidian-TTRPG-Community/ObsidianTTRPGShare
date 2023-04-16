@@ -5,7 +5,7 @@ name: Chicome
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 143: Borne by the Sun's Grace"
+source: "Pathfinder No. 143: Borne by the Sun's Grace"
 Monster_CR: 16
 name: Chicome
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: darkvision, , detect chaos/evil/good/law
 aura: resplendence
 AC: 31, touch 14, flat-footed 25 (dex +5, dodge +1, natural +17, size -2)
 HP: 250
-HP_extra: 
 HD: 20d10+140
 saves: Fort +13, Ref +19, Will +21
 immune: acid, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: warm badlands or ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Resplendence (Sp)

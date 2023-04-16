@@ -5,7 +5,7 @@ name: Mythic Drakainia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 25
 name: Mythic Drakainia
 Monster_XP: 1638400
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Birth Spawn (Ex)

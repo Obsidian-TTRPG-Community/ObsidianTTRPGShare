@@ -5,7 +5,7 @@ name: Keeper of the Yellow Sign
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 110: The Thrushmoor Terror"
+source: "Pathfinder No. 110: The Thrushmoor Terror"
 Monster_CR: 6
 name: Keeper of the Yellow Sign
 Monster_XP: 2400
@@ -18,7 +18,6 @@ senses: darkvision
 aura: disquieting aura
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 66
-HP_extra: 
 HD: 7d8+35
 saves: Fort +8, Ref +4, Will +5
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disquieting Aura (Su)

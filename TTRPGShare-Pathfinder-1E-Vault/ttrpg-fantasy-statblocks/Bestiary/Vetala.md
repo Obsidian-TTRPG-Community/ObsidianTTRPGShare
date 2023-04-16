@@ -5,7 +5,7 @@ name: Vetala
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 6
 name: Vetala
 Monster_XP: 2400

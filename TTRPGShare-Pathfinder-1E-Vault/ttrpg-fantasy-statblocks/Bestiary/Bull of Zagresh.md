@@ -5,7 +5,7 @@ name: Bull of Zagresh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 7
 name: Bull of Zagresh
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 20, touch 9, flat-footed 18 (dex +1, natural +11, size -2)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +10, Ref +7, Will +3
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any hills or plains
   - name: Organisation
     desc: solitary, pair, or herd (10-30)
+  - name: Treasure
     desc: none
 sources:
   - name: Belkzen, Hold of the Orc Hordes

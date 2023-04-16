@@ -5,7 +5,7 @@ name: NPC Pirate (Sailor)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 1/2
 name: NPC Pirate (Sailor)
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +3
 perception: +4
 AC: 16, touch 14, flat-footed 12 (armor +2, dex +3, dodge +1)
 HP: 9
-HP_extra: 
 HD: 1d8+1
 saves: Fort +1, Ref +5, Will +0
 speed: 30 ft.

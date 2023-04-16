@@ -5,7 +5,7 @@ name: Ghost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Ghost
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +18
 senses: darkvision
 AC: 17, touch 17, flat-footed 15 (dex +1, dodge +1, deflection +5)
 HP: 73
-HP_extra: 
 HD: 7d8+42
 saves: Fort +7, Ref +5, Will +7
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: NPC Gear
 sources:
   - name: Pathfinder RPG Bestiary

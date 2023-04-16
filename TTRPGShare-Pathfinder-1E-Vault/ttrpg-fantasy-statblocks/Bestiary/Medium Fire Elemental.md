@@ -5,7 +5,7 @@ name: Medium Fire Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Medium Fire Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 17, touch 14, flat-footed 13 (dex +3, dodge +1, natural +3)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +7, Will +1
 immune: elemental traits, fire

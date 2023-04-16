@@ -5,7 +5,7 @@ name: Scrapyard Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 3
 name: Scrapyard Robot
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 14, touch 9, flat-footed 14 (dex -1, natural +5)
 HP: 42
-HP_extra: 
 HD: 4d10+20
 saves: Fort +1, Ref +0, Will +1
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any ruin (Numeria)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fall to Pieces (Ex)

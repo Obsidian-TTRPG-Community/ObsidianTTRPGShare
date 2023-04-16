@@ -5,7 +5,7 @@ name: NPC Traitorous Brigand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Traitorous Brigand
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: -1
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (armor +6)
 HP: 30
-HP_extra: 
 HD: 3d10+9
 saves: Fort +5, Ref +2, Will +2
 saves_other: +1 vs. fear

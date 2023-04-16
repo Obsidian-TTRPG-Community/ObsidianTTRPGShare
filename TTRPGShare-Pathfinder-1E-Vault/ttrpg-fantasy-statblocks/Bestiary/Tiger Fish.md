@@ -5,7 +5,7 @@ name: Tiger Fish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 1
 name: Tiger Fish
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +5, Will +2
 speed: swim 50 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm rivers or swamps
   - name: Organisation
     desc: solitary, pair, group (3-5), or school (5-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Interlocking Bite (Ex)

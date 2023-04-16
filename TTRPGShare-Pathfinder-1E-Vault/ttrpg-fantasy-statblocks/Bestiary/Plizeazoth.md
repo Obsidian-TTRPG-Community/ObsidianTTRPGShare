@@ -5,7 +5,7 @@ name: Plizeazoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 125: Tower of the Drowned Dead"
+source: "Pathfinder No. 125: Tower of the Drowned Dead"
 Monster_CR: 12
 name: Plizeazoth
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision, thoughtsense
 aura: mucus cloud
 AC: 26, touch 13, flat-footed 21 (dex +4, dodge +1, natural +13, size -2)
 HP: 157
-HP_extra: 
 HD: 15d8+90
 saves: Fort +13, Ref +11, Will +13
 immune: mind-affecting effects, pain effects
@@ -44,6 +43,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Mucus Cloud (Ex)

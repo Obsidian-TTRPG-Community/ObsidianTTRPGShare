@@ -5,7 +5,7 @@ name: Quick Striker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 12
 name: Quick Striker
 Monster_XP: 19200

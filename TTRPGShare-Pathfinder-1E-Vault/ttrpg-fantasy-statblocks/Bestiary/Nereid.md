@@ -5,7 +5,7 @@ name: Nereid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Nereid
 Monster_XP: 9600
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: beguiling aura
 AC: 25, touch 25, flat-footed 15 (deflection +5, dex +9, dodge +1)
 HP: 126
-HP_extra: 
 HD: 12d6+84
 saves: Fort +11, Ref +17, Will +14
 immune: cold, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary or troupe (1 nereid plus 1 giant squid, 1 giant octopus, 1 giant moray eel, or an orca)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Beguiling Aura (Su)

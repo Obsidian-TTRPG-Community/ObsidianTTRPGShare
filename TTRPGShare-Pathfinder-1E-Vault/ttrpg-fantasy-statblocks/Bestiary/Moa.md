@@ -5,7 +5,7 @@ name: Moa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Moa
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +6, Will +1
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, group (3-5), or colony (6-100)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

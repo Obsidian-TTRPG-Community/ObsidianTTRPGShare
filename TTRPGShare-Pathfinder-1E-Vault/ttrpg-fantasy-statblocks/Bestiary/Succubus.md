@@ -5,7 +5,7 @@ name: Succubus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Succubus
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, detect good
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 84
-HP_extra: 
 HD: 8d10+40
 saves: Fort +7, Ref +9, Will +10
 immune: electricity, fire, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or harem (3-12)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Energy Drain (Su)

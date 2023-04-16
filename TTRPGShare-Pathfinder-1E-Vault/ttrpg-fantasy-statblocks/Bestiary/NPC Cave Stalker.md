@@ -5,7 +5,7 @@ name: NPC Cave Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Cave Stalker
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 54
-HP_extra: 
 HD: 6d8+24
 saves: Fort +5, Ref +8, Will +4
 saves_other: +2 vs. poison, spells, and spell-like abilities

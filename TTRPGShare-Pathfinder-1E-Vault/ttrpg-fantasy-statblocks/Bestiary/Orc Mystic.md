@@ -5,7 +5,7 @@ name: Orc Mystic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Orc Mystic
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 15, touch 9, flat-footed 15 (armor +6, dex -1)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +5, Ref +1, Will +5
 defensive_abilities: ferocity

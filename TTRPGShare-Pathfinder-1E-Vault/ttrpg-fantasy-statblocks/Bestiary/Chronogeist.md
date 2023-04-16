@@ -5,7 +5,7 @@ name: Chronogeist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 137: The City Outside of Time"
+source: "Pathfinder No. 137: The City Outside of Time"
 Monster_CR: 14
 name: Chronogeist
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision, lifesense
 AC: 29, touch 29, flat-footed 17 (deflection +7, dex +11, dodge +1)
 HP: 207
-HP_extra: 
 HD: 18d8+126
 saves: Fort +13, Ref +17, Will +17
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: Crystilan (Xin-Edasseril)
   - name: Organisation
     desc: solitary, pair, or keening (3-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disrupt Time (Su)

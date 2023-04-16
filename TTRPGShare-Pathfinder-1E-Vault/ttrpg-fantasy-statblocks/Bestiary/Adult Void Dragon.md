@@ -5,7 +5,7 @@ name: Adult Void Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Adult Void Dragon
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 29, touch 9, flat-footed 28 (dex +1, natural +20, size -2)
 HP: 184
-HP_extra: 
 HD: 16d12+80
 saves: Fort +15, Ref +11, Will +15
 immune: cold, confusion, insanity effects, paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

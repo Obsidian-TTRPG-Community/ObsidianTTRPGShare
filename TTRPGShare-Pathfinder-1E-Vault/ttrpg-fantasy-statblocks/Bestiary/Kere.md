@@ -5,7 +5,7 @@ name: Kere
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 64: Beyond the Doomsday Door"
+source: "Pathfinder No. 64: Beyond the Doomsday Door"
 Monster_CR: 10
 name: Kere
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, low-light vision, spiritsense
 AC: 22, touch 15, flat-footed 17 (dex +5, natural +7)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +8, Ref +15, Will +13
 immune: death effects, disease, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (graveyards or the Boneyard)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Grave Dependent (Su)

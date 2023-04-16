@@ -5,7 +5,7 @@ name: NPC Longboat Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 4
 name: NPC Longboat Captain
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +3
 perception: -1
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 42
-HP_extra: 
 HD: 5d10++10
 saves: Fort +6, Ref +4, Will +2
 saves_other: +1 vs. fear

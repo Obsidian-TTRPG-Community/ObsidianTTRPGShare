@@ -5,7 +5,7 @@ name: Death Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Death Dog
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision, scent
 AC: 13, touch 11, flat-footed 11 (dex +2, natural +2, size -1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +4, Ref +5, Will +2
 speed: 30 ft.
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disease (Su)

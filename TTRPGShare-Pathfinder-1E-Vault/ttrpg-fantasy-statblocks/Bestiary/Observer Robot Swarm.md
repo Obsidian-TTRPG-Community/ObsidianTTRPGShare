@@ -5,7 +5,7 @@ name: Observer Robot Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 86: Lords of Rust"
+source: "Pathfinder No. 86: Lords of Rust"
 Monster_CR: 10
 name: Observer Robot Swarm
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +30
 senses: darkvision, low-light vision
 AC: 23, touch 17, flat-footed 18 (dex +4, dodge +1, natural +6, size +2)
 HP: 117
-HP_extra: 
 HD: 18d10+18
 saves: Fort +6, Ref +12, Will +12
 immune: construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary or cloud (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Camouflage (Ex)

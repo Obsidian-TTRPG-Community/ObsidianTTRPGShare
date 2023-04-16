@@ -5,7 +5,7 @@ name: Ohancanu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 5
 name: Ohancanu
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 52
-HP_extra: 
 HD: 7d6+28
 saves: Fort +6, Ref +7, Will +7
 DR: 5/cold iron

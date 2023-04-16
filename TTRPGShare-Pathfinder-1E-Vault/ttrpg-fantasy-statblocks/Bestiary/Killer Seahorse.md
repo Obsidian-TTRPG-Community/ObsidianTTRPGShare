@@ -5,7 +5,7 @@ name: Killer Seahorse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Killer Seahorse
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision
 AC: 17, touch 9, flat-footed 16 (armor +8, dex +1, size -2)
 HP: 63
-HP_extra: 
 HD: 6d8+36
 saves: Fort +10, Ref +6, Will +3
 defensive_abilities: anchor (see giant seahorse)
@@ -38,6 +37,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or school (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

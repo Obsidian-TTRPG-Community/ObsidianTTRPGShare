@@ -5,7 +5,7 @@ name: Ixion Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 106: For Queen and Empire"
+source: "Pathfinder No. 106: For Queen and Empire"
 Monster_CR: 13
 name: Ixion Worm
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, low-light vision, true seeing
 AC: 27, touch 14, flat-footed 22 (dex +4, dodge +1, natural +13, size -1)
 HP: 187
-HP_extra: 
 HD: 15d10+105
 saves: Fort +16, Ref +9, Will +14
 resist: fire 10, sonic 10
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or caravan (4-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dual Form (Ex)

@@ -5,7 +5,7 @@ name: Gray Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Gray Ooze
 Monster_XP: 1200
@@ -16,7 +16,6 @@ INI: -5
 senses: blindsight
 AC: 5, touch 5, flat-footed 5 (dex -5)
 HP: 50
-HP_extra: 
 HD: 4d8+32
 saves: Fort +9, Ref -4, Will -4
 immune: cold, fire
@@ -35,6 +34,7 @@ ecology:
     desc: cold marshes and underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

@@ -5,7 +5,7 @@ name: Water Orm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Water Orm
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 24, touch 11, flat-footed 21 (dex +3, natural +13, size -2)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +13, Ref +13, Will +7
 immune: cold
@@ -44,6 +43,7 @@ ecology:
     desc: any lakes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Elusive (Su)

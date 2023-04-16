@@ -5,7 +5,7 @@ name: Medium Aether Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Medium Aether Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: blindsense, darkvision
 AC: 17, touch 17, flat-footed 13 (deflection +3, dex +4)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +8, Will +3
 immune: elemental traits, force
@@ -39,6 +38,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

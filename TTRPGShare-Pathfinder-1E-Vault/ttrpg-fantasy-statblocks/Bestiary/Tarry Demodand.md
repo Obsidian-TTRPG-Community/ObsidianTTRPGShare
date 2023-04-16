@@ -5,7 +5,7 @@ name: Tarry Demodand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Tarry Demodand
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision, detect good, detect magic
 AC: 26, touch 13, flat-footed 23 (armor +6, dex +3, natural +7)
 HP: 171
-HP_extra: 
 HD: 18d10+72
 saves: Fort +15, Ref +11, Will +12
 saves_other: +4 vs. divine spells

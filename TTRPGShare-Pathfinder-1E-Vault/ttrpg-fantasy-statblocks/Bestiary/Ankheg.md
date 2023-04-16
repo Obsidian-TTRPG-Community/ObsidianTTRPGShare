@@ -5,7 +5,7 @@ name: Ankheg
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Ankheg
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision, tremorsense
 AC: 16, touch 9, flat-footed 16 (natural +7, size -1)
 HP: 28
-HP_extra: 
 HD: 3d10+12
 saves: Fort +6, Ref +3, Will +2
 speed: 30 ft., burrow 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm plains
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Spit Acid (Ex)

@@ -5,7 +5,7 @@ name: Cytillesh Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "No Response from Deepmar"
+source: "No Response from Deepmar"
 Monster_CR: 1
 name: Cytillesh Zombie
 Monster_XP: 400
@@ -16,7 +16,6 @@ INI: +4
 senses: darkvision
 AC: 18, touch 12, flat-footed 14 (armor +2, dex +4, natural +2)
 HP: 12
-HP_extra: 
 HD: 2d8+3
 saves: Fort +0, Ref +4, Will +3
 immune: undead traits

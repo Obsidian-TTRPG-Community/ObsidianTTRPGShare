@@ -5,7 +5,7 @@ name: Dire Tiger (Smilodon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Dire Tiger (Smilodon)
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 105
-HP_extra: 
 HD: 14d8+42
 saves: Fort +12, Ref +11, Will +5
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any forests, plains, and swamps
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

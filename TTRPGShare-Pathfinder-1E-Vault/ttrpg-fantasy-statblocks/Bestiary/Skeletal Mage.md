@@ -5,7 +5,7 @@ name: Skeletal Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 5
 name: Skeletal Mage
 Monster_XP: 1600

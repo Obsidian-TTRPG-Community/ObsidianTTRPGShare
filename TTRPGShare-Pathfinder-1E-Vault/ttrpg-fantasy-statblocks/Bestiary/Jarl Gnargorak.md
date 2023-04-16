@@ -5,7 +5,7 @@ name: Jarl Gnargorak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 25
 name: Jarl Gnargorak
 Monster_XP: 1638400

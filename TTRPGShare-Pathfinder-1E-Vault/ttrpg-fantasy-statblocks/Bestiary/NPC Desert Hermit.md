@@ -5,7 +5,7 @@ name: NPC Desert Hermit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 8
 name: NPC Desert Hermit
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +3
 perception: +15
 AC: 18, touch 15, flat-footed 14 (armor +3, deflection +1, dex +3, dodge +1)
 HP: 80
-HP_extra: 
 HD: 9d8+36
 saves: Fort +8, Ref +6, Will +11
 saves_other: +4 vs. fey and plant-targeted effects

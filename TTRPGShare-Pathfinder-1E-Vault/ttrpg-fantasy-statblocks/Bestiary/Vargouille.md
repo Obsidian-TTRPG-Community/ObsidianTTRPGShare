@@ -5,7 +5,7 @@ name: Vargouille
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Vargouille
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +4, Will +2
 speed: fly 30 ft. (good)
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: pair, cluster (3-6), or mob (7-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Kiss (Su)

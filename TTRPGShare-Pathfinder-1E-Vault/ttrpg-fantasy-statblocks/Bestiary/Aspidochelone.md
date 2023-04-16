@@ -5,7 +5,7 @@ name: Aspidochelone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 27: What Lies in Dust"
+source: "Pathfinder No. 27: What Lies in Dust"
 Monster_CR: 17
 name: Aspidochelone
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: -2
 senses: darkvision, low-light vision
 AC: 27, touch -1, flat-footed 27 (armor +28, dex -3, size -8)
 HP: 297
-HP_extra: 
 HD: 22d10+176
 saves: Fort +23, Ref +10, Will +7
 speed: 0 ft., swim 120 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Capsize (Ex)

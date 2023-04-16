@@ -5,7 +5,7 @@ name: Trench Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 71: Rasputin Must Die!"
+source: "Pathfinder No. 71: Rasputin Must Die!"
 Monster_CR: 6
 name: Trench Zombie
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 18, touch 15, flat-footed 13 (dex +4, dodge +1, natural +3)
 HP: 43
-HP_extra: 
 HD: 6d10+6
 saves: Fort +4, Ref +6, Will +3
 immune: acid, cold, electricity, undead traits

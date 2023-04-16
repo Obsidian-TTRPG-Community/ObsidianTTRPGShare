@@ -5,7 +5,7 @@ name: Stygira
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 33: The Varnhold Vanishing"
+source: "Pathfinder No. 33: The Varnhold Vanishing"
 Monster_CR: 7
 name: Stygira
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +23
 senses: blindsight, blindsight_other, scent, true seeing with gem eye
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +6, Ref +9, Will +14
 immune: gaze attacks, paralysis, petrification

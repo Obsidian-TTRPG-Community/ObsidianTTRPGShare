@@ -5,7 +5,7 @@ name: Eygreas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 13
 name: Eygreas
 Monster_XP: 25600

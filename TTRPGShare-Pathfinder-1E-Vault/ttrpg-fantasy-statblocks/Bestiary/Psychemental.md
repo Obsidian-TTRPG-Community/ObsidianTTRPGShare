@@ -5,7 +5,7 @@ name: Psychemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Psychemental
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision, thoughtsense
 aura: mental static
 AC: 19, touch 19, flat-footed 14 (deflection +3, dex +4, dodge +1, size +1)
 HP: 82
-HP_extra: 
 HD: 11d10+22
 saves: Fort +7, Ref +11, Will +11
 defensive_abilities: incorporeal
@@ -39,6 +38,7 @@ ecology:
     desc: any (Astral Plane)
   - name: Organisation
     desc: solitary, pair, or quorum (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Mass Erasure (Su)

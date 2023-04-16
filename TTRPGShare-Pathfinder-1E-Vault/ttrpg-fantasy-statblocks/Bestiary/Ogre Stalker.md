@@ -5,7 +5,7 @@ name: Ogre Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Ogre Stalker
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 19, touch 10, flat-footed 18 (armor +4, dex +1, natural +5, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +5, Will +2
 defensive_abilities: evasion, trap sense +1

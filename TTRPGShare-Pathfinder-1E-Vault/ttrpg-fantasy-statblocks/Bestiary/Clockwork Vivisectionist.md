@@ -5,7 +5,7 @@ name: Clockwork Vivisectionist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 112: The Whisper Out of Time"
+source: "Pathfinder No. 112: The Whisper Out of Time"
 Monster_CR: 10
 name: Clockwork Vivisectionist
 Monster_XP: 9600
@@ -17,7 +17,6 @@ INI: +6
 senses: all-around vision, darkvision, low-light vision
 AC: 24, touch 14, flat-footed 20 (dex +2, dodge +2, natural +10)
 HP: 91
-HP_extra: 
 HD: 13d10+20
 saves: Fort +4, Ref +8, Will +3
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Anesthetizing Injection (Ex)

@@ -5,7 +5,7 @@ name: Syrinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 1/3
 name: Syrinx
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision, low-light vision
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 5
-HP_extra: 
 HD: 1d6-1
 saves: Fort -1, Ref -1, Will +4
 saves_other: +2 vs. mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: temperate mountains (Arcadia)
   - name: Organisation
     desc: solitary, pair, or cell (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Speak with Avians (Ex)

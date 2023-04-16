@@ -5,7 +5,7 @@ name: Feranth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 90: The Divinity Drive"
+source: "Pathfinder No. 90: The Divinity Drive"
 Monster_CR: 14
 name: Feranth
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision, tremorsense
 AC: 29, touch 6, flat-footed 29 (dex -2, natural +23, size -2)
 HP: 218
-HP_extra: 
 HD: 19d10+114
 saves: Fort +16, Ref +9, Will +11
 DR: 5/adamantine
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts or mountains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ambush (Ex)

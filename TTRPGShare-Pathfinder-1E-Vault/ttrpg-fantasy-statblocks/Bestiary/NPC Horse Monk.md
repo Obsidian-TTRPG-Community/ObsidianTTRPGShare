@@ -5,7 +5,7 @@ name: NPC Horse Monk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Horse Monk
 Monster_XP: 51200
@@ -19,7 +19,6 @@ INI: +2
 perception: +21
 AC: 26, touch 22, flat-footed 23 (armor +4, deflection +2, dex +2, dodge +1, monk +4, wis +3)
 HP: 91
-HP_extra: 
 HD: 16d8+16
 saves: Fort +14, Ref +15, Will +16
 saves_other: +2 vs. enchantments

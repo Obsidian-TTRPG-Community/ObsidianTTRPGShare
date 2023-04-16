@@ -5,7 +5,7 @@ name: Triton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Triton
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 14, touch 10, flat-footed 14 (natural +4)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +1, Will +4
 speed: 5 ft., swim 40 ft.

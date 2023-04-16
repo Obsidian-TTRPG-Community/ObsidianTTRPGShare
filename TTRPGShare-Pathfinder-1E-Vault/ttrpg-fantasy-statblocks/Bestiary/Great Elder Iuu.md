@@ -5,7 +5,7 @@ name: Great Elder Iuu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 93: Forge of the Giant God"
+source: "Pathfinder No. 93: Forge of the Giant God"
 Monster_CR: 15
 name: Great Elder Iuu
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: courage
 AC: 30, touch 13, flat-footed 26 (dex +3, dodge +1, natural +17, size -1)
 HP: 216
-HP_extra: 
 HD: 16d10+128
 saves: Fort +18, Ref +8, Will +15
 immune: fear

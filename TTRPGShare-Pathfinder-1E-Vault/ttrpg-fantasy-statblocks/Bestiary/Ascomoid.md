@@ -5,7 +5,7 @@ name: Ascomoid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Ascomoid
 Monster_XP: 1600
@@ -16,7 +16,6 @@ INI: +1
 senses: tremorsense
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +3, Will +2
 immune: plant traits

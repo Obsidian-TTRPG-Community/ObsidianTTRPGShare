@@ -5,7 +5,7 @@ name: NPC Healer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Healer
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +1
 perception: +4
 AC: 16, touch 12, flat-footed 15 (armor +4, dex +1, size +1)
 HP: 34
-HP_extra: 
 HD: 9d6+3
 saves: Fort +6, Ref +5, Will +11
 saves_other: +2 vs. fear

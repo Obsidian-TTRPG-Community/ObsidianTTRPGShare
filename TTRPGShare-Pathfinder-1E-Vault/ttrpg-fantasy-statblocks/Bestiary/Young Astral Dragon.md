@@ -5,7 +5,7 @@ name: Young Astral Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Young Astral Dragon
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: dragon senses, see invisibility
 aura: mental static
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 95
-HP_extra: 
 HD: 10d12+30
 saves: Fort +10, Ref +9, Will +10
 saves_other: +4 vs. psychic spells

@@ -5,7 +5,7 @@ name: Sahuagin Prince
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Sahuagin Prince
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +16
 senses: blindsense, darkvision
 AC: 28, touch 14, flat-footed 25 (armor +7, deflection +1, dex +3, natural +7)
 HP: 148
-HP_extra: 
 HD: 12d10+82
 saves: Fort +16, Ref +13, Will +11
 weak: light blindness

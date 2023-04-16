@@ -5,7 +5,7 @@ name: Ocean Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Ocean Giant
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +24
 senses: low-light vision
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 218
-HP_extra: 
 HD: 19d8+133
 saves: Fort +18, Ref +8, Will +10
 resist: cold 30, electricity 30

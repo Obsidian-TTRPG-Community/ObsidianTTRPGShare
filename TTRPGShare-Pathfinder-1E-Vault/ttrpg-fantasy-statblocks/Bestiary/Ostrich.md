@@ -5,7 +5,7 @@ name: Ostrich
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 1
 name: Ostrich
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +5, Will +1
 speed: 60 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: warm deserts or plains
   - name: Organisation
     desc: solitary, pair, pride (5-10), or flock (11-50)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Crouch (Ex)

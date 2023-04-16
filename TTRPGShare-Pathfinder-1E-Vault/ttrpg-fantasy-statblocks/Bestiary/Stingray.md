@@ -5,7 +5,7 @@ name: Stingray
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Stingray
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsense, low-light vision
 AC: 12, touch 11, flat-footed 11 (dex +1, natural +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +4, Will +1
 speed: swim 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or flight (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

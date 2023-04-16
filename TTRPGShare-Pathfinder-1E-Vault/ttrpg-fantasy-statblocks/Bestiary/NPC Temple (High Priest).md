@@ -5,7 +5,7 @@ name: NPC Temple (High Priest)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 12
 name: NPC Temple (High Priest)
 Monster_XP: 19200
@@ -18,7 +18,6 @@ INI: +0
 perception: +15
 AC: 15, touch 10, flat-footed 15 (armor +3, shield +2)
 HP: 90
-HP_extra: 
 HD: 13d8+32
 saves: Fort +13, Ref +7, Will +18
 defensive_abilities: unity (2/day)

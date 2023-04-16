@@ -5,7 +5,7 @@ name: Drow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Drow
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 15, touch 12, flat-footed 13 (armor +2, dex +2, shield +1)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +2, Ref +2, Will -1
 saves_other: +2 vs. enchantment

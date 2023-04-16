@@ -5,7 +5,7 @@ name: Sayona
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 12
 name: Sayona
 Monster_XP: 19200
@@ -38,6 +38,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary or retinue (1d3 plus 2d6 spawn)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorb Blood (Su)

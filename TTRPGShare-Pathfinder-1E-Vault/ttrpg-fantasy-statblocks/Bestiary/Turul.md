@@ -5,7 +5,7 @@ name: Turul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 19
 name: Turul
 Monster_XP: 204800
@@ -41,6 +41,7 @@ ecology:
     desc: any (Positive Energy Plane)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Adamantine Attacks (Ex)

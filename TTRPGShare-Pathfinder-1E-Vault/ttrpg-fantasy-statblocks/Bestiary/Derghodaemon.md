@@ -5,7 +5,7 @@ name: Derghodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Derghodaemon
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: all-around vision, darkvision, detect magic, see invisibility
 aura: feeblemind
 AC: 27, touch 14, flat-footed 22 (dex +5, natural +13, size -1)
 HP: 161
-HP_extra: 
 HD: 14d10+84
 saves: Fort +15, Ref +14, Will +7
 immune: acid, death effects, disease, poison
@@ -46,6 +45,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary or infestation (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Feeblemind Aura (Su)

@@ -5,7 +5,7 @@ name: Troodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Troodon
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +5, Will +2
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Easily Trained (Ex)

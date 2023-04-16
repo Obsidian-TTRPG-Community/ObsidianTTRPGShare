@@ -5,7 +5,7 @@ name: Slithering Tracker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Slithering Tracker
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsense
 AC: 15, touch 15, flat-footed 11 (dex +4, size +1)
 HP: 42
-HP_extra: 
 HD: 4d8+24
 saves: Fort +7, Ref +5, Will +1
 immune: mind-affecting effects, ooze traits
@@ -39,6 +38,7 @@ ecology:
     desc: any ruins or underground
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Paralysis (Ex)

@@ -5,7 +5,7 @@ name: Duergar Anvil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Duergar Anvil
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, wis +2)
 HP: 18
-HP_extra: 
 HD: 2d8+6
 saves: Fort +5, Ref +5, Will +5
 saves_other: +2 vs. spells

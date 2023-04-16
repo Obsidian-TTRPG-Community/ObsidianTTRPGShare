@@ -5,7 +5,7 @@ name: Bat Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Bat Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +15
 senses: blindsense, low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +3, Ref +7, Will +3
 immune: weapon damage
@@ -42,6 +41,7 @@ ecology:
     desc: any temperate or tropical
   - name: Organisation
     desc: solitary, pair, flight (3-6 swarms), or colony (11-20 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Wounding (Ex)

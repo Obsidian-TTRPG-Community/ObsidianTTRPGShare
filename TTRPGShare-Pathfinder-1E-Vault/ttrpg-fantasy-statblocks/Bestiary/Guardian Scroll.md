@@ -5,7 +5,7 @@ name: Guardian Scroll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Guardian Scroll
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, size +2)
 HP: 27
-HP_extra: 
 HD: 5d10
 saves: Fort +1, Ref +5, Will +1
 immune: bludgeoning, crushing, and falling damage, construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or collection (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Smothering Wrap (Ex)

@@ -5,7 +5,7 @@ name: Psychic Lich
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 12
 name: Psychic Lich
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 20, touch 15, flat-footed 19 (deflection +1, dex +1, natural +5, wis +3)
 HP: 96
-HP_extra: 
 HD: 11d6+55
 saves: Fort +8, Ref +8, Will +12
 immune: cold, electricity, undead traits

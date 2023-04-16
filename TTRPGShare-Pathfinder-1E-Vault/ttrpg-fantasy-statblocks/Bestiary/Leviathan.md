@@ -5,7 +5,7 @@ name: Leviathan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 30
 name: Leviathan
 Monster_XP: 9830400
@@ -18,7 +18,6 @@ perception: +48
 senses: low-light vision, scent, see in darkness, true seeing
 AC: 48, touch 13, flat-footed 37 (dex +11, natural +35, size -8)
 HP: 765
-HP_extra: 
 HD: 34d10+578
 saves: Fort +36, Ref +30, Will +24
 immune: ability damage, ability drain, bleed, cold, death effects, disease, energy drain, fear, paralysis, sleep

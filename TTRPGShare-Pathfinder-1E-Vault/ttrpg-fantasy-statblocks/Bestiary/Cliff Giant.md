@@ -5,7 +5,7 @@ name: Cliff Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Cliff Giant
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +15
 senses: low-light vision, tremorsense
 AC: 23, touch 10, flat-footed 22 (armor +4, dex +1, natural +9, size -1)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +7, Will +11
 resist: acid 10, fire 10

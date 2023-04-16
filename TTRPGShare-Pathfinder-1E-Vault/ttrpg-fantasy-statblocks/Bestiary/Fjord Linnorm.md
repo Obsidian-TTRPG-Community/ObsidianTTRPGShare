@@ -5,7 +5,7 @@ name: Fjord Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 16
 name: Fjord Linnorm
 Monster_XP: 76800
@@ -43,6 +43,7 @@ ecology:
     desc: cold mountainous coastlines
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

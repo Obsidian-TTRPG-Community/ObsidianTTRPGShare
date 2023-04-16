@@ -5,7 +5,7 @@ name: Mu Spore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 21
 name: Mu Spore
 Monster_XP: 409600
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Grasping Tendrils (Ex)

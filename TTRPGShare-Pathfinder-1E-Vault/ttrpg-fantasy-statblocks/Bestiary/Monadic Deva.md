@@ -5,7 +5,7 @@ name: Monadic Deva
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Monadic Deva
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision
 aura: protective aura
 AC: 27, touch 14, flat-footed 23 (dex +4, natural +13, deflection vs. evil +4)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +15, Ref +13, Will +10
 saves_other: +4 vs. poison

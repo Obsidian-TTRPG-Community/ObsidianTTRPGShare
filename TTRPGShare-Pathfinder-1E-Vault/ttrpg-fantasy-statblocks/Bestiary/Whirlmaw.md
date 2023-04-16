@@ -5,7 +5,7 @@ name: Whirlmaw
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 8
 name: Whirlmaw
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, keen sight, tremorsense
 AC: 20, touch 16, flat-footed 14 (dex +6, natural +4)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +8, Ref +10, Will +8
 immune: fire

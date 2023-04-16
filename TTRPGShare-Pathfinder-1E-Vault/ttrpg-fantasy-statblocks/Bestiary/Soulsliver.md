@@ -5,7 +5,7 @@ name: Soulsliver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Soulsliver
 Monster_XP: 600
@@ -42,6 +42,7 @@ ecology:
     desc: any land (extraplanar)
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Death Throes (Su)

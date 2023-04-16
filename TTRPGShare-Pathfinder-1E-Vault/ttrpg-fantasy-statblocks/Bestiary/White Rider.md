@@ -5,7 +5,7 @@ name: White Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 11
 name: White Rider
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: blinding light
 AC: 27, touch 17, flat-footed 20 (armor +6, dex +7, natural +4)
 HP: 136
-HP_extra: 
 HD: 16d6+80
 saves: Fort +10, Ref +17, Will +15
 immune: cold, poison

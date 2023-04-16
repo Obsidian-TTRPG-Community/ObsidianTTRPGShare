@@ -5,7 +5,7 @@ name: Hastur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 29
 name: Hastur
 Monster_XP: 6553600
@@ -47,6 +47,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Fulvous Dreams (Su)

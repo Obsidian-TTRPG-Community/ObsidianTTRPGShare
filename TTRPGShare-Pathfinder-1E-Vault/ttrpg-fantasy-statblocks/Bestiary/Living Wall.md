@@ -5,7 +5,7 @@ name: Living Wall
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Living Wall
 Monster_XP: 1200
@@ -39,6 +39,7 @@ ecology:
     desc: any ruins or underground
   - name: Organisation
     desc: solitary or pack (2-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Crushing Push (Ex)

@@ -5,7 +5,7 @@ name: Nependis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Nependis
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision, scent
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +10, Ref +10, Will +11
 defensive_abilities: ferocity
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or troop (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Abduct (Ex)

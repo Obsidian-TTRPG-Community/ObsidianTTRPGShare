@@ -5,7 +5,7 @@ name: Su
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Su
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +10
 senses: all-around vision, darkvision, low-light vision, scent
 AC: 21, touch 15, flat-footed 16 (dex +4, dodge +1, natural +6)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +11, Ref +12, Will +6
 immune: disease
@@ -42,6 +41,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary, pair, or troop (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Whelp Family (Su)

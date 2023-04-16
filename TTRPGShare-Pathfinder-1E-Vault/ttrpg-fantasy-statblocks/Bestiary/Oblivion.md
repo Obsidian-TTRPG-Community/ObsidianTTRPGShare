@@ -5,7 +5,7 @@ name: Oblivion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 20
 name: Oblivion
 Monster_XP: 307200
@@ -47,6 +47,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Annihilation (Su)

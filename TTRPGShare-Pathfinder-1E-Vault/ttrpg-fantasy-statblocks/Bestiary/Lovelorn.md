@@ -5,7 +5,7 @@ name: Lovelorn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Lovelorn
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: blindsense, darkvision
 AC: 18, touch 16, flat-footed 14 (dex +4, natural +2, size +2)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +7, Will +6
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or tragedy (3-6 plus 2-12 zombies)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cynic’s Bite (Su)

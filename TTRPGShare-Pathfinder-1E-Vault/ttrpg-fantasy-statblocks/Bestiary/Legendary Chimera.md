@@ -5,7 +5,7 @@ name: Legendary Chimera
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 13
 name: Legendary Chimera
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: all-around vision, darkvision, low-light vision, scent
 aura: frightful presence
 AC: 26, touch 8, flat-footed 26 (natural +18, size -2)
 HP: 178
-HP_extra: 
 HD: 17d10+85
 saves: Fort +15, Ref +12, Will +8
 immune: bleed, death effects, disease, fire, poison

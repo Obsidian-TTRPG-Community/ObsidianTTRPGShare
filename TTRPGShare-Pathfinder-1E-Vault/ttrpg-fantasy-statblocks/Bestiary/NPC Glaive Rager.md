@@ -5,7 +5,7 @@ name: NPC Glaive Rager
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Glaive Rager
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +12
 senses: low-light vision
 AC: 17, touch 10, flat-footed 16 (armor +7, dex +1, rage -2, size +1)
 HP: 105
-HP_extra: 
 HD: 8d12+48
 saves: Fort +12, Ref +4, Will +5
 saves_other: +4 vs. spells and spell-like or supernatural abilities, +2 vs. illusions

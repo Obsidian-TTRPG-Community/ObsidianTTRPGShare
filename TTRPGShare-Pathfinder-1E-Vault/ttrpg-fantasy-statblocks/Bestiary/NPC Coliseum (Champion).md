@@ -5,7 +5,7 @@ name: NPC Coliseum (Champion)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 9
 name: NPC Coliseum (Champion)
 Monster_XP: 6400

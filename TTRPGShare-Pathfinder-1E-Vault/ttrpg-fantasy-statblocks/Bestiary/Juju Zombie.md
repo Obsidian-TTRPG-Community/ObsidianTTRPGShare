@@ -5,7 +5,7 @@ name: Juju Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Juju Zombie
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 18, touch 15, flat-footed 13 (dex +4, dodge +1, natural +3)
 HP: 15
-HP_extra: 
 HD: 2d8+3
 saves: Fort +0, Ref +7, Will +1
 immune: cold, electricity, magic missile, undead traits

@@ -5,7 +5,7 @@ name: NPC Seductive Enchanter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Seductive Enchanter
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +9
 senses: low-light vision
 AC: 19, touch 14, flat-footed 16 (armor +4, deflection +1, dex +3, natural +1)
 HP: 40
-HP_extra: 
 HD: 8d6+10
 saves: Fort +4, Ref +6, Will +8
 saves_other: +2 vs. enchantments

@@ -5,7 +5,7 @@ name: Bloodbrush
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 2
 name: Bloodbrush
 Monster_XP: 600
@@ -16,7 +16,6 @@ INI: +0
 senses: low-light vision
 AC: 13, touch 11, flat-footed 13 (natural +2, size +1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +1, Will +1
 immune: plant traits
@@ -36,6 +35,7 @@ ecology:
     desc: cold or temperate plains
   - name: Organisation
     desc: solitary, pair, or field (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Barbs (Ex)

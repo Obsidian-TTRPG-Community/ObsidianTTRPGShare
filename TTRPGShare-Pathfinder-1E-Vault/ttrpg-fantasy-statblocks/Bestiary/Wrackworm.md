@@ -5,7 +5,7 @@ name: Wrackworm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 20
 name: Wrackworm
 Monster_XP: 307200
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Caustic Ichor (Ex)

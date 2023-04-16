@@ -5,7 +5,7 @@ name: Serpentfolk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Serpentfolk
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, scent
 AC: 18, touch 15, flat-footed 13 (dex +5, natural +3)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +6, Ref +9, Will +6
 immune: mind-affecting effects, paralysis, poison

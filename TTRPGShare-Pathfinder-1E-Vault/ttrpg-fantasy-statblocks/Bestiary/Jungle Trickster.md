@@ -5,7 +5,7 @@ name: Jungle Trickster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 8
 name: Jungle Trickster
 Monster_XP: 4800

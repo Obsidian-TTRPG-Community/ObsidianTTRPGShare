@@ -5,7 +5,7 @@ name: Elder Mud Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Elder Mud Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, tremorsense
 AC: 23, touch 14, flat-footed 17 (dex +5, dodge +1, natural +9, size -2)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +17, Will +5
 immune: acid, elemental traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land or water (Plane of Earth)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

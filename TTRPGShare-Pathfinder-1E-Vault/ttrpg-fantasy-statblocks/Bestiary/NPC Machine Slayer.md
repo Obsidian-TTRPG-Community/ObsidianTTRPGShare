@@ -5,7 +5,7 @@ name: NPC Machine Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 8
 name: NPC Machine Slayer
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +4
 perception: +13
 AC: 19, touch 14, flat-footed 15 (armor +5, dex +4)
 HP: 79
-HP_extra: 
 HD: 9d10+25
 saves: Fort +9, Ref +11, Will +5
 defensive_abilities: evasion

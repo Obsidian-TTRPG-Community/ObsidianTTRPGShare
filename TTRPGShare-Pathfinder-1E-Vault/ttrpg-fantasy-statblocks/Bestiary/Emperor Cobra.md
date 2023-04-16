@@ -5,7 +5,7 @@ name: Emperor Cobra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Emperor Cobra
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 18, touch 11, flat-footed 16 (dex +2, natural +7, size -1)
 HP: 51
-HP_extra: 
 HD: 6d8+24
 saves: Fort +9, Ref +7, Will +5
 speed: 30 ft., climb 30 ft., swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm swamps
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

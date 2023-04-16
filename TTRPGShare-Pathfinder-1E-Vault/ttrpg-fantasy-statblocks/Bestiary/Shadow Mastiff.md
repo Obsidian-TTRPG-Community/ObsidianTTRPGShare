@@ -5,7 +5,7 @@ name: Shadow Mastiff
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Shadow Mastiff
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, scent
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +7, Will +5
 defensive_abilities: shadow blend
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bay (Su)

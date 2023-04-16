@@ -5,7 +5,7 @@ name: Leaf Ray
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Leaf Ray
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +3, Will +1
 immune: plant traits
@@ -35,6 +34,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary or rustle (2-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Snapping Turtle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/3
 name: Snapping Turtle
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 12, touch 11, flat-footed 12 (dex -1, natural +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +1, Will +1
 speed: 10 ft., swim 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm water or shore
   - name: Organisation
     desc: solitary or band (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Shell (Ex)

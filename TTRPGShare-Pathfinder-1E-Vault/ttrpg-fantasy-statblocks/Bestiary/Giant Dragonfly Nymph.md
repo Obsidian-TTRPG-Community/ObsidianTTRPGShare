@@ -5,7 +5,7 @@ name: Giant Dragonfly Nymph
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Giant Dragonfly Nymph
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +2, Will +2
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm water
   - name: Organisation
     desc: solitary, pair, or brood (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Extending Jaw (Ex)

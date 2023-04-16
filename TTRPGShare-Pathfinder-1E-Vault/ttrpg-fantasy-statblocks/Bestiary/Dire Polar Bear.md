@@ -5,7 +5,7 @@ name: Dire Polar Bear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Dire Polar Bear
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, scent
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 115
-HP_extra: 
 HD: 10d8+70
 saves: Fort +14, Ref +10, Will +6
 speed: 40 ft., swim 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: cold coastlines or plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

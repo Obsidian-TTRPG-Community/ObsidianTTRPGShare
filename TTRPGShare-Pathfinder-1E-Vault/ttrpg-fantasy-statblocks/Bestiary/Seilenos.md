@@ -5,7 +5,7 @@ name: Seilenos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 19
 name: Seilenos
 Monster_XP: 204800

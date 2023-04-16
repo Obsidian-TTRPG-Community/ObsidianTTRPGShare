@@ -5,7 +5,7 @@ name: Codex Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Summoner's Handbook"
+source: "Monster Summoner's Handbook"
 Monster_CR: 5
 name: Codex Archon
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, detect magic, low-light vision
 aura: aura of menace, magic circle against evil
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +7, Ref +7, Will +5
 saves_other: +4 vs. poison, +2 vs. evil
@@ -43,6 +42,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary, pair, or team (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Codex (Su)

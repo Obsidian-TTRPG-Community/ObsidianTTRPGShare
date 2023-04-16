@@ -5,7 +5,7 @@ name: Kikimora
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Kikimora
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision
 AC: 18, touch 15, flat-footed 13 (dex +4, dodge +1, natural +3)
 HP: 45
-HP_extra: 
 HD: 7d6+21
 saves: Fort +4, Ref +9, Will +8
 DR: 5/cold iron
@@ -37,6 +36,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hidey-Hole (Su)

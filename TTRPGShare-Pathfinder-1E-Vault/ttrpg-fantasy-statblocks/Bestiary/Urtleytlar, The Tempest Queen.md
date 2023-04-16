@@ -5,7 +5,7 @@ name: Urtleytlar, The Tempest Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 20
 name: Urtleytlar, The Tempest Queen
 Monster_XP: 307200

@@ -5,7 +5,7 @@ name: Yithian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Yithian
 Monster_XP: 6400
@@ -40,6 +40,7 @@ ecology:
     desc: Any
   - name: Organisation
     desc: solitary, pair, band (3-9), or enclave (10-100)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Amnesia (Su)

@@ -5,7 +5,7 @@ name: Duneshaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Duneshaker
 Monster_XP: 153600
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, tremorsense
 AC: 33, touch 10, flat-footed 25 (dex +8, natural +23, size -8)
 HP: 290
-HP_extra: 
 HD: 20d8+200
 saves: Fort +22, Ref +14, Will +14
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Venom Spray (Ex)

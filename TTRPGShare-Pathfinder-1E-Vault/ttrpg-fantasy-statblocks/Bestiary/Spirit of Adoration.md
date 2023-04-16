@@ -5,7 +5,7 @@ name: Spirit of Adoration
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 50: Night of Frozen Shadows"
+source: "Pathfinder No. 50: Night of Frozen Shadows"
 Monster_CR: 15
 name: Spirit of Adoration
 Monster_XP: 51200
@@ -47,6 +47,7 @@ ecology:
     desc: any (extraplanar)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Charming (Su)

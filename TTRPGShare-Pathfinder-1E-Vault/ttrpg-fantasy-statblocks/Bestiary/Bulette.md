@@ -5,7 +5,7 @@ name: Bulette
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Bulette
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent, tremorsense
 AC: 22, touch 10, flat-footed 20 (dex +2, natural +12, size -2)
 HP: 84
-HP_extra: 
 HD: 8d10+40
 saves: Fort +11, Ref +8, Will +5
 speed: 40 ft., burrow 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Leap (Ex)

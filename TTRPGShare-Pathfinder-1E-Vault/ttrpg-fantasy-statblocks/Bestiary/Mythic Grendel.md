@@ -5,7 +5,7 @@ name: Mythic Grendel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 19
 name: Mythic Grendel
 Monster_XP: 204800
@@ -46,6 +46,7 @@ ecology:
     desc: cold swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Brutal Surge (Su)

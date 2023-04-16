@@ -5,7 +5,7 @@ name: Charda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Charda
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 20, touch 13, flat-footed 18 (dex +2, natural +7, size +1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +7, Ref +10, Will +7
 defensive_abilities: ferocity, Immune cold, poison
@@ -38,6 +37,7 @@ ecology:
     desc: cold aquatic or underground
   - name: Organisation
     desc: solitary, pair, gang (3-5), or tribe (6-14)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Black Bile (Su)

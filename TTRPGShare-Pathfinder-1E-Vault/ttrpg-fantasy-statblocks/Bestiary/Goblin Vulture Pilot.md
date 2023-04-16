@@ -5,7 +5,7 @@ name: Goblin Vulture Pilot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Goblin Vulture Pilot
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 21, touch 15, flat-footed 17 (armor +4, dex +4, natural +2, size +1)
 HP: 38
-HP_extra: 
 HD: 4d8+17
 saves: Fort +5, Ref +8, Will +2
 saves_other: +2 against poison

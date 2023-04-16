@@ -5,7 +5,7 @@ name: Tauhoti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Druma, Profit and Prophecy"
+source: "Druma, Profit and Prophecy"
 Monster_CR: 1/6
 name: Tauhoti
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +5, Will +2
 saves_other: +2 vs. Intelligence and Wisdom damage
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests or hills
   - name: Organisation
     desc: solitary, pair, or emporium (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Excellent Memory (Ex)

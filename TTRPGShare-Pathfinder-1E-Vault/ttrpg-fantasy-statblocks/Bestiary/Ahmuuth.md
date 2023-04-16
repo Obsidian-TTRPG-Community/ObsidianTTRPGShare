@@ -5,7 +5,7 @@ name: Ahmuuth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Ahmuuth
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision, spiritsense
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +3, shield +4)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +9, Ref +3, Will +8
 immune: death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary, pair, or inquisition (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Animated Shield (Su)

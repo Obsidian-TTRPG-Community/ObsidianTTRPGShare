@@ -5,7 +5,7 @@ name: NPC Spell Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Spell Hunter
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +2
 perception: +5
 AC: 22, touch 12, flat-footed 20 (armor +10, dex +2)
 HP: 64
-HP_extra: 
 HD: 7d10+21
 saves: Fort +9, Ref +5, Will +5
 saves_other: +2 vs. poison, spells, and spell-like abilities

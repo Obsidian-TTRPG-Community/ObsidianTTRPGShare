@@ -5,7 +5,7 @@ name: Seugathi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Seugathi
 Monster_XP: 2400

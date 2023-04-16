@@ -5,7 +5,7 @@ name: Adult Sky Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Adult Sky Dragon
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: cloud sight, dragon senses
 aura: frightful presence
 AC: 29, touch 8, flat-footed 29 (natural +21, size -2)
 HP: 184
-HP_extra: 
 HD: 16d12+80
 saves: Fort +15, Ref +12, Will +17
 immune: electricity, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: temperate or warm mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

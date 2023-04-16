@@ -5,7 +5,7 @@ name: NPC Bloodfire Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Bloodfire Sorcerer
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 17, touch 12, flat-footed 16 (armor +4, deflection +1, dex +1, natural +1)
 HP: 60
-HP_extra: 
 HD: 7d6+33
 saves: Fort +3, Ref +3, Will +7
 resist: fire 10

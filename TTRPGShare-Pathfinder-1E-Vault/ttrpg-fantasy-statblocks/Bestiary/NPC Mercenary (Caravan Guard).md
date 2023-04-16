@@ -5,7 +5,7 @@ name: NPC Mercenary (Caravan Guard)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Mercenary (Caravan Guard)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +5
 perception: +4
 AC: 19, touch 11, flat-footed 18 (armor +7, dex +1, shield +1)
 HP: 16
-HP_extra: 
 HD: 2d10+5
 saves: Fort +5, Ref +1, Will +1
 saves_other: +1 vs. fear

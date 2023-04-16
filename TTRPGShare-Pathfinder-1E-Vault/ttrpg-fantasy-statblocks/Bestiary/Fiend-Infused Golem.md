@@ -5,7 +5,7 @@ name: Fiend-Infused Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 13
 name: Fiend-Infused Golem
 Monster_XP: 25600
@@ -39,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Berserk Liberation (Ex)

@@ -5,7 +5,7 @@ name: Elder Aether Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Elder Aether Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: blindsense, darkvision
 AC: 26, touch 26, flat-footed 15 (deflection +7, dex +11, size -2)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +17, Ref +21, Will +7
 immune: elemental traits, force
@@ -42,6 +41,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

@@ -5,7 +5,7 @@ name: Grizzled Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Grizzled Rider
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +10
 senses: darkvision
 AC: 22, touch 15, flat-footed 18 (armor +5, dex +4, shield +2, size +1)
 HP: 47
-HP_extra: 
 HD: 6d10+10
 saves: Fort +6, Ref +9, Will +3
 speed: 30 ft.

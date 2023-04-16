@@ -5,7 +5,7 @@ name: Stymphalides Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 26: The Sixfold Trial"
+source: "Pathfinder No. 26: The Sixfold Trial"
 Monster_CR: 6
 name: Stymphalides Swarm
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision
 AC: 23, touch 17, flat-footed 18 (dex +4, dodge +1, natural +6, size +2)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +7, Ref +9, Will +3
 immune: fire
@@ -41,6 +40,7 @@ ecology:
     desc: warm plains and deserts
   - name: Organisation
     desc: solitary, flock (2-4 swarms), or host (5-8 swarms)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Dazzle (Ex)

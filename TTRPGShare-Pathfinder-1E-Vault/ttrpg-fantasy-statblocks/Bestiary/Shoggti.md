@@ -5,7 +5,7 @@ name: Shoggti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Shoggti
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision
 AC: 21, touch 12, flat-footed 18 (dex +3, natural +9, size -1)
 HP: 80
-HP_extra: 
 HD: 7d10+42
 saves: Fort +11, Ref +5, Will +9
 immune: cold, poison, mind-affecting effects
@@ -46,6 +45,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary, pair, or slaver band (3-10 plus 6-12 slaves of various races)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Braincloud (Su)

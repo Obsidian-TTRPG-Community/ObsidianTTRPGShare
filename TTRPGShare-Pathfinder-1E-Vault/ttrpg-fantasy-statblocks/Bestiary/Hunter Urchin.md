@@ -5,7 +5,7 @@ name: Hunter Urchin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 1
 name: Hunter Urchin
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: all-around vision, low-light vision, scent, tremorsense
 AC: 12, touch 6, flat-footed 12 (dex -4, natural +6)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref -4, Will +0
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or warm ocean or coastline
   - name: Organisation
     desc: solitary, pair, or cluster (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: All-Around Vision (Ex)

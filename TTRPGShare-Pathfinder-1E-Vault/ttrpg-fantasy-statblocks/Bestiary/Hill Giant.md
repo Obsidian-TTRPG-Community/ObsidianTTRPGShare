@@ -5,7 +5,7 @@ name: Hill Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Hill Giant
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +6
 senses: low-light vision
 AC: 21, touch 8, flat-footed 21 (armor +4, dex -1, natural +9, size -1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +2, Will +3
 defensive_abilities: rock catching

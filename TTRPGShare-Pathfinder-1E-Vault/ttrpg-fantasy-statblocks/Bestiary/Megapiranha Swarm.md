@@ -5,7 +5,7 @@ name: Megapiranha Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 39: The City of Seven Spears"
+source: "Pathfinder No. 39: The City of Seven Spears"
 Monster_CR: 6
 name: Megapiranha Swarm
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +6
 senses: blindsense, keen scent
 AC: 17, touch 14, flat-footed 15 (dex +2, natural +3, size +2)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +9, Ref +10, Will +4
 defensive_abilities: swarm traits
@@ -38,6 +37,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary, shoal (2-4 swarms), or school (5-7 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Keen Scent

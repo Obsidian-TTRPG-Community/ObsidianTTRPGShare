@@ -5,7 +5,7 @@ name: Giant Rot Grub
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Giant Rot Grub
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +1
 senses: blindsense
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +2, Will +1
 immune: mind-affecting effects
@@ -33,6 +32,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gnaw (Ex)

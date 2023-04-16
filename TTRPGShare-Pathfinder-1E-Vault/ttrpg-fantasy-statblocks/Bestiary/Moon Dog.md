@@ -5,7 +5,7 @@ name: Moon Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Moon Dog
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision, detect evil, detect magic, keen senses, scent, see invisibility
 AC: 23, touch 13, flat-footed 20 (dex +2, dodge +1, natural +10)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +10, Will +9
 immune: fear
@@ -43,6 +42,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary, pair, or pack (3-11)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bay (Su)

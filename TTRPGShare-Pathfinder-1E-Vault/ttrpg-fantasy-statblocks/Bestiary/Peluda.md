@@ -5,7 +5,7 @@ name: Peluda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Peluda
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 24, touch 10, flat-footed 23 (dex +1, natural +14, size -1)
 HP: 126
-HP_extra: 
 HD: 11d12+55
 saves: Fort +14, Ref +8, Will +11
 immune: fire, paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: temperate marshes or plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Poison (Ex)

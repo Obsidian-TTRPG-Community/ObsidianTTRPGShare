@@ -5,7 +5,7 @@ name: Rat King
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Rat King
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 13 (dex +4, dodge +1, natural +2, size +1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +9, Will +4
 defensive_abilities: critical hits, flanking, effects that target a specific number of creatures
@@ -38,6 +37,7 @@ ecology:
     desc: any urban or underground
   - name: Organisation
     desc: solitary, pack (2-4), or infestation (5-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

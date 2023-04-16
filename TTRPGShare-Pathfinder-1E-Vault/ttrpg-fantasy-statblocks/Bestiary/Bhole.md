@@ -5,7 +5,7 @@ name: Bhole
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 17
 name: Bhole
 Monster_XP: 102400
@@ -17,7 +17,6 @@ perception: +28
 senses: darkvision, low-light vision
 AC: 33, touch 1, flat-footed 33 (dex -1, natural +32, size -8)
 HP: 290
-HP_extra: 
 HD: 20d10+180
 saves: Fort +21, Ref +13, Will +11
 immune: acid, fire, disease, magical control, paralysis, poison, sleep, stun
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

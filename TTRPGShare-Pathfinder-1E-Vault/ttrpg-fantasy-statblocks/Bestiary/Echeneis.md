@@ -5,7 +5,7 @@ name: Echeneis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Echeneis
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 13, touch 11, flat-footed 13 (natural +2, size +1)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +1
 speed: 5 ft., swim 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm or temperate water
   - name: Organisation
     desc: solitary, pair, or school (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

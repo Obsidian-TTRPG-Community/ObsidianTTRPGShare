@@ -5,7 +5,7 @@ name: Imp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Imp
 Monster_XP: 600
@@ -41,6 +41,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or flock (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

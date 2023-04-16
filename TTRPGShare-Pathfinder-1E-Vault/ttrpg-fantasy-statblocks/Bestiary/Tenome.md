@@ -5,7 +5,7 @@ name: Tenome
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Tenome
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +2, dodge +1, natural +4)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +3, Ref +7, Will +7
 weak: obscuring grapple
@@ -36,6 +35,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or scourge (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bone Drink (Su)

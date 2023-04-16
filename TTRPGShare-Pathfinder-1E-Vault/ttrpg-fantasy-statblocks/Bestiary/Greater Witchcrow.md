@@ -5,7 +5,7 @@ name: Greater Witchcrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 67: The Snows of Summer"
+source: "Pathfinder No. 67: The Snows of Summer"
 Monster_CR: 3
 name: Greater Witchcrow
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, detect magic, low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +5, Ref +7, Will +4
 resist: cold 5
@@ -39,6 +38,7 @@ ecology:
     desc: cold and temperate forests and plains
   - name: Organisation
     desc: solitary, pair, covey (3-12), or murder (13-30)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Apportation (Su)

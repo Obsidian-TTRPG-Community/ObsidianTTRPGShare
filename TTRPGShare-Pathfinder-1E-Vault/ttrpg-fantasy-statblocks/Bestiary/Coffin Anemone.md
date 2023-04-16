@@ -5,7 +5,7 @@ name: Coffin Anemone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1
 name: Coffin Anemone
 Monster_XP: 400
@@ -17,7 +17,6 @@ INI: +2
 senses: blindsight
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +3, Will +1
 immune: gaze attacks, mind-affecting effects, poison, vision-based effects
@@ -35,6 +34,7 @@ ecology:
     desc: temperate coastlines or oceans
   - name: Organisation
     desc: solitary, pair, or graveyard (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Anchored (Ex)

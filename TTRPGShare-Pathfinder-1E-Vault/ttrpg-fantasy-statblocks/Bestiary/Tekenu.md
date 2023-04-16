@@ -5,7 +5,7 @@ name: Tekenu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 80: Empty Graves"
+source: "Pathfinder No. 80: Empty Graves"
 Monster_CR: 6
 name: Tekenu
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +6
 senses: lifesense
 AC: 16, touch 16, flat-footed 11 (dex +4, dodge +1, size +1)
 HP: 65
-HP_extra: 
 HD: 10d8+20
 saves: Fort +5, Ref +7, Will +7
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: warm ruins
   - name: Organisation
     desc: solitary, pair, or stewardship (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Canopic Consumption (Su)

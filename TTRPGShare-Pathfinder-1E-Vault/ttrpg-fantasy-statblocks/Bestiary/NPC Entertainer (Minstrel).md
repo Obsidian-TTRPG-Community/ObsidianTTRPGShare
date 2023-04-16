@@ -5,7 +5,7 @@ name: NPC Entertainer (Minstrel)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Entertainer (Minstrel)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: +2
 perception: +8
 AC: 17, touch 12, flat-footed 15 (armor +4, dex +2, shield +1)
 HP: 30
-HP_extra: 
 HD: 6d8+3
 saves: Fort +2, Ref +7, Will +4
 saves_other: +4 vs. bardic performance, language- dependent, and sonic

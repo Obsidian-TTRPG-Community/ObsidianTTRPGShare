@@ -5,7 +5,7 @@ name: NPC Tribe (Shaman)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Tribe (Shaman)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: -1
 perception: +1
 AC: 12, touch 9, flat-footed 12 (armor +3, dex -1)
 HP: 31
-HP_extra: 
 HD: 7d6+7
 saves: Fort +3, Ref +1, Will +6
 speed: 30 ft.

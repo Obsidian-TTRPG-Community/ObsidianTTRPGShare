@@ -5,7 +5,7 @@ name: Choral
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Choral
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: darkvision, detect evil
 aura: protective aura
 AC: 19, touch 14, flat-footed 16 (dex +3, natural +5, size +1, deflection vs. evil +4)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +6, Ref +9, Will +9
 saves_other: +4 vs. poison, +4 resistance vs. evil
@@ -43,6 +42,7 @@ ecology:
     desc: any good-aligned planes
   - name: Organisation
     desc: solo, duet, or Ensemble (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Countersong (Su)

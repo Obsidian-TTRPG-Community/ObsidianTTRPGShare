@@ -5,7 +5,7 @@ name: Glabrezu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Glabrezu
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision, true seeing
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 186
-HP_extra: 
 HD: 12d10+120
 saves: Fort +18, Ref +4, Will +11
 immune: electricity, poison
@@ -45,6 +44,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or troop (1 glabrezu, 1 succubus, and 2-5 vrocks)
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

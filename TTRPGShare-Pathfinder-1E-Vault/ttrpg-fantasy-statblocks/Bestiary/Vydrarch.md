@@ -5,7 +5,7 @@ name: Vydrarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 14
 name: Vydrarch
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 29, touch 9, flat-footed 26 (dex +3, natural +20, size -4)
 HP: 199
-HP_extra: 
 HD: 19d10+95
 saves: Fort +16, Ref +14, Will +12
 immune: poison, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: temperate oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison Spines (Ex)

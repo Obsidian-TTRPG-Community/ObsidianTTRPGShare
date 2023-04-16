@@ -5,7 +5,7 @@ name: Giant Blowfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 5
 name: Giant Blowfish
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +5
 senses: low-light vision
 AC: 18, touch 10, flat-footed 17 (armor +8, dex +1, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +10, Ref +6, Will +4
 defensive_abilities: quills
@@ -37,6 +36,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or school (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Revenant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Revenant
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, sense murderer
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +6, Will +7
 immune: cold, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Baleful Shriek (Su)

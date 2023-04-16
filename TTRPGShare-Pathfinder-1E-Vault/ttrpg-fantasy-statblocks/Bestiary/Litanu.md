@@ -5,7 +5,7 @@ name: Litanu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 125: Tower of the Drowned Dead"
+source: "Pathfinder No. 125: Tower of the Drowned Dead"
 Monster_CR: 11
 name: Litanu
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 25, touch 15, flat-footed 20 (dex +4, dodge +1, natural +10)
 HP: 147
-HP_extra: 
 HD: 14d8+84
 saves: Fort +11, Ref +8, Will +12
 immune: undead traits

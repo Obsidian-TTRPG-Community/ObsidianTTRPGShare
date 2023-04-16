@@ -5,7 +5,7 @@ name: Guardian Doll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 3
 name: Guardian Doll
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 16, touch 15, flat-footed 13 (dex +3, natural +1, size +2)
 HP: 22
-HP_extra: 
 HD: 4d10
 saves: Fort +1, Ref +4, Will +2
 immune: cold, construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary, pair, or coven (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Doll’s Dagger (Su)

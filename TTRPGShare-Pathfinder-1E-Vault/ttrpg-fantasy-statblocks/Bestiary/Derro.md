@@ -5,7 +5,7 @@ name: Derro
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Derro
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 17, touch 13, flat-footed 15 (armor +2, dex +2, natural +2, size +1)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +5, Ref +3, Will +6
 SR: 14

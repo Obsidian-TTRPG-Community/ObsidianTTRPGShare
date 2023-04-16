@@ -5,7 +5,7 @@ name: Yurei
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Yurei
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision
 AC: 27, touch 22, flat-footed 15 (dex +7, dodge +5, natural +5)
 HP: 157
-HP_extra: 
 HD: 15d8+90
 saves: Fort +11, Ref +14, Will +16
 immune: cold, undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or haunting (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Choking Suffocation (Su)

@@ -5,7 +5,7 @@ name: Kasthezvi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 135: Runeplague"
+source: "Pathfinder No. 135: Runeplague"
 Monster_CR: 12
 name: Kasthezvi
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +22
 senses: blindsense, darkvision
 AC: 27, touch 15, flat-footed 22 (dex +4, dodge +1, natural +12)
 HP: 152
-HP_extra: 
 HD: 16d8+80
 saves: Fort +10, Ref +9, Will +15
 saves_other: +9 vs. mind-affecting effects
@@ -44,6 +43,7 @@ ecology:
     desc: any underground (Kaer Maga)
   - name: Organisation
     desc: solitary, pair, or cabal (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Shape (Su)

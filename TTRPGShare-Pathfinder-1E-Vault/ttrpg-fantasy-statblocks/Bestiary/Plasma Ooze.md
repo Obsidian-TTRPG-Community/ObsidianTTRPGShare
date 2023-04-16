@@ -5,7 +5,7 @@ name: Plasma Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 16
 name: Plasma Ooze
 Monster_XP: 76800
@@ -18,7 +18,6 @@ senses: blindsight
 aura: magnetic pulse
 AC: 6, touch 6, flat-footed 6 (size -4)
 HP: 241
-HP_extra: 
 HD: 21d8+147
 saves: Fort +14, Ref +7, Will +2
 immune: acid, electricity, fire, bludgeoning and piercing damage, ooze traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Magnetic Pulse (Su)

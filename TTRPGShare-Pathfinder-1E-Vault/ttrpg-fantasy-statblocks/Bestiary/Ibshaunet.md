@@ -5,7 +5,7 @@ name: Ibshaunet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 11
 name: Ibshaunet
 Monster_XP: 12800
@@ -45,6 +45,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary or devouring (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corrosive Aura (Su)

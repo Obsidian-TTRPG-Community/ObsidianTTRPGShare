@@ -5,7 +5,7 @@ name: Giant Muckdweller
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Giant Muckdweller
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +5, Will +4
 speed: 20 ft., swim 60 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary, pack (3-7), or swarm (8-17)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blinding Spray (Ex)

@@ -5,7 +5,7 @@ name: Prism Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 17
 name: Prism Dragon
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +28
 senses: blindsight, darkvision, low-light vision
 AC: 35, touch 9, flat-footed 34 (dex +1, natural +26, size -2)
 HP: 283
-HP_extra: 
 HD: 21d12+147
 saves: Fort +21, Ref +15, Will +17
 saves_other: +4 vs. psychic spells
@@ -45,6 +44,7 @@ ecology:
     desc: any mountain or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

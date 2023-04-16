@@ -5,7 +5,7 @@ name: Ratling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Ratling
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, detect magic, low-light vision
 AC: 16, touch 15, flat-footed 13 (dex +2, dodge +1, natural +1, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +1
 immune: disease, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or conclave (2-20 plus 2-12 dire rats and 1-4 rat swarms)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Scroll Use (Ex)

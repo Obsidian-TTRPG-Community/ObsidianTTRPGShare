@@ -5,7 +5,7 @@ name: Rusalka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Rusalka
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +22
 senses: low-light vision
 AC: 25, touch 17, flat-footed 18 (dex +6, dodge +1, natural +8)
 HP: 150
-HP_extra: 
 HD: 20d6+80
 saves: Fort +12, Ref +18, Will +15
 immune: fire
@@ -42,6 +41,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or eddy (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Beckoning Call (Su)

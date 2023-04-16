@@ -5,7 +5,7 @@ name: Ghoran
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Ghoran
 Monster_XP: 400
@@ -19,7 +19,6 @@ perception: +5
 senses: low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 12
-HP_extra: 
 HD: 1d8+4
 saves: Fort +3, Ref +3, Will +3
 immune: plant traits

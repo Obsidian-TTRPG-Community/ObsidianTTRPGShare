@@ -5,7 +5,7 @@ name: Dreamthief Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 11
 name: Dreamthief Hag
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, see alignment
 AC: 27, touch 16, flat-footed 21 (dex +6, natural +11)
 HP: 149
-HP_extra: 
 HD: 13d10+78
 saves: Fort +14, Ref +10, Will +12
 immune: cold, fire, mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any (Dimension of Dreams)
   - name: Organisation
     desc: solitary, mounted (1 plus 1 advanced nightmare), or coven (1 plus 2 hags of any type)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dream Theft (Su)

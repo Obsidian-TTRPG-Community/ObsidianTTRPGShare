@@ -5,7 +5,7 @@ name: Leprechaun
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Leprechaun
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +17
 senses: low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 18
-HP_extra: 
 HD: 4d6+4
 saves: Fort +2, Ref +7, Will +6
 DR: 5/cold iron

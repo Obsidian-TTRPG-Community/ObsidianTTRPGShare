@@ -5,7 +5,7 @@ name: Troll Monarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 15
 name: Troll Monarch
 Monster_XP: 51200

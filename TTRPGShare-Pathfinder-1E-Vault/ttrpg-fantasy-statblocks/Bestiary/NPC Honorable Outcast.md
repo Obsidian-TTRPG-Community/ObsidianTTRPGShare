@@ -5,7 +5,7 @@ name: NPC Honorable Outcast
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Honorable Outcast
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 16, touch 9, flat-footed 16 (armor +7, dex -1)
 HP: 23
-HP_extra: 
 HD: 2d10+8
 saves: Fort +7, Ref +0, Will +5
 defensive_abilities: orc ferocity

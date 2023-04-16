@@ -5,7 +5,7 @@ name: Spellgorger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 107: Scourge of the Godclaw"
+source: "Pathfinder No. 107: Scourge of the Godclaw"
 Monster_CR: 12
 name: Spellgorger
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: scent magic
 aura: discordant field
 AC: 26, touch 26, flat-footed 17 (deflection +8, dex +8, dodge +1, size -1)
 HP: 161
-HP_extra: 
 HD: 14d8+98
 saves: Fort +13, Ref +12, Will +9
 immune: fire, force, ooze traits
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or gluttony (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Deflective Shield (Su)

@@ -5,7 +5,7 @@ name: Vorgozen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 29
 name: Vorgozen
 Monster_XP: 6553600
@@ -47,6 +47,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Absorb Magic (Ex)

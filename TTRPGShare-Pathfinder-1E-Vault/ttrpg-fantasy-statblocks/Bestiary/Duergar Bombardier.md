@@ -5,7 +5,7 @@ name: Duergar Bombardier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Duergar Bombardier
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 22, touch 14, flat-footed 18 (armor +2, dex +4, natural +6)
 HP: 18
-HP_extra: 
 HD: 2d8+6
 saves: Fort +5, Ref +7, Will +0
 saves_other: +2 vs. spells

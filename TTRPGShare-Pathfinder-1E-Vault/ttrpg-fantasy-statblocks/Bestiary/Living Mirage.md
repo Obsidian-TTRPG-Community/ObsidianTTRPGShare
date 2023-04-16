@@ -5,7 +5,7 @@ name: Living Mirage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Living Mirage
 Monster_XP: 6400
@@ -16,7 +16,6 @@ INI: +0
 perception: -5
 AC: 6, touch 6, flat-footed 6 (size -4)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +9, Ref +4, Will -1
 immune: sonic, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any deserts or oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Consuming Mirage (Ex)

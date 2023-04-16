@@ -5,7 +5,7 @@ name: NPC Investigator Wizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Investigator Wizard
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +8
 perception: +5
 AC: 18, touch 14, flat-footed 15 (armor +4, deflection +1, dex +2, dodge +1)
 HP: 22
-HP_extra: 
 HD: 4d6+6
 saves: Fort +2, Ref +3, Will +5
 speed: 30 ft.

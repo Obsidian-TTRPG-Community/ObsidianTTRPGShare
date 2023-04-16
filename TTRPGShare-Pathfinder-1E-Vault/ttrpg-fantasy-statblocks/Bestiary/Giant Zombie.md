@@ -5,7 +5,7 @@ name: Giant Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 45: Broken Moon"
+source: "Pathfinder No. 45: Broken Moon"
 Monster_CR: 8
 name: Giant Zombie
 Monster_XP: 4800
@@ -19,7 +19,6 @@ perception: +0
 senses: darkvision
 AC: 19, touch 9, flat-footed 18 (armor +6, dex +1, natural +4, size -2)
 HP: 126
-HP_extra: 
 HD: 23d8+23
 saves: Fort +7, Ref +8, Will +13
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: any warm
   - name: Organisation
     desc: solitary, pair, or band (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 45: Broken Moon

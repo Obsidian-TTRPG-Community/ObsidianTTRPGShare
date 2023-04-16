@@ -5,7 +5,7 @@ name: Cythnigot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Cythnigot
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, detect law, detect magic
 AC: 14, touch 13, flat-footed 13 (dex +1, natural +1, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +1, Ref +6, Will +2
 immune: cold, poison, mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or bloom (2-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Horrific Appearance (Su)

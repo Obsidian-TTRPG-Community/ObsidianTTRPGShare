@@ -5,7 +5,7 @@ name: Putrid Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Putrid Ooze
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -1, size -2)
 HP: 172
-HP_extra: 
 HD: 15d8+105
 saves: Fort +12, Ref +14, Will +0
 immune: ooze traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Putrid Acid (Ex)

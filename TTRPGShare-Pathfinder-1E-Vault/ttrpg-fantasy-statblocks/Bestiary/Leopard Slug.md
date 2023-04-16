@@ -5,7 +5,7 @@ name: Leopard Slug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: None
 name: Leopard Slug
 Monster_XP: None
@@ -17,7 +17,6 @@ perception: -2
 senses: darkvision
 AC: 11, touch 11, flat-footed 11 (dex -3, size +4)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref -3, Will -2
 immune: mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or cornucopia (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Slime Strand (Ex)

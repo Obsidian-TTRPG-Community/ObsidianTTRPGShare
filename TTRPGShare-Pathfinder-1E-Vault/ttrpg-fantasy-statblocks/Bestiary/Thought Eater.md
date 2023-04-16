@@ -5,7 +5,7 @@ name: Thought Eater
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Thought Eater
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 16, touch 16, flat-footed 12 (dex +4, size +2)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +1, Ref +5, Will +5
 defensive_abilities: ethereal body
@@ -39,6 +38,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary or group (1-3)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Eat Thoughts (Su)

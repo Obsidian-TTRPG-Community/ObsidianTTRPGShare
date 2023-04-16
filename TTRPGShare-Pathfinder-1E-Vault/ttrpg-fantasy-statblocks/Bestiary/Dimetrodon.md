@@ -5,7 +5,7 @@ name: Dimetrodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Dimetrodon
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +6, Will +2
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tearing Bite (Ex)

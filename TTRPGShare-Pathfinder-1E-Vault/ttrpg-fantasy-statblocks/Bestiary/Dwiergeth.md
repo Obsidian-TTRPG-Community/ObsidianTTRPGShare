@@ -5,7 +5,7 @@ name: Dwiergeth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 13
 name: Dwiergeth
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 28, touch 17, flat-footed 20 (dex +7, dodge +1, natural +11, size -1)
 HP: 175
-HP_extra: 
 HD: 13d8+117
 saves: Fort +13, Ref +11, Will +15
 immune: blindness, dazzling, poison, visual effects
@@ -43,6 +42,7 @@ ecology:
     desc: cold mountains (Material Plane or Abyss)
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Forever Gullet (Su)

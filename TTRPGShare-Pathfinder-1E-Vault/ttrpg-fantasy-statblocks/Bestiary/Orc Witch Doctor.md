@@ -5,7 +5,7 @@ name: Orc Witch Doctor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Orc Witch Doctor
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +10
 senses: darkvision
 AC: 17, touch 13, flat-footed 15 (armor +4, deflection +1, dex +2)
 HP: 94
-HP_extra: 
 HD: 9d6+60
 saves: Fort +7, Ref +6, Will +10
 saves_other: +2 vs. pain

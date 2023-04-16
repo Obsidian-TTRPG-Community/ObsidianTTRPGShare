@@ -5,7 +5,7 @@ name: Ice Yai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 14
 name: Ice Yai
 Monster_XP: 38400
@@ -45,6 +45,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary or gang (1 plus 4-16 frost giants)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Icy Missile (Su)

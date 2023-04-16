@@ -5,7 +5,7 @@ name: Angheuvore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 139: The Dead Road"
+source: "Pathfinder No. 139: The Dead Road"
 Monster_CR: 2
 name: Angheuvore
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: carrion sense, darkvision, low-light vision
 AC: 15, touch 12, flat-footed 13 (armor +2, dex +2, natural +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +3, Will +2
 saves_other: +4 vs. mind-affecting effects

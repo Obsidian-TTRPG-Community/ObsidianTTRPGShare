@@ -5,7 +5,7 @@ name: NPC Sleepless Detective
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 9
 name: NPC Sleepless Detective
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +1
 perception: +23
 AC: 16, touch 11, flat-footed 15 (armor +5, dex +1)
 HP: 53
-HP_extra: 
 HD: 10d8+5
 saves: Fort +6, Ref +9, Will +9
 saves_other: +4 vs. poison

@@ -5,7 +5,7 @@ name: Kappa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Kappa
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +6, Will +5
 resist: acid 5, cold 5
@@ -41,6 +40,7 @@ ecology:
     desc: any lake or river
   - name: Organisation
     desc: solitary, pair, or bale (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Head Bowl (Su)

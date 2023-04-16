@@ -5,7 +5,7 @@ name: NPC Aloof Archer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Aloof Archer
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision
 AC: 20, touch 11, flat-footed 19 (armor +9, dex +1)
 HP: 52
-HP_extra: 
 HD: 8d10+8
 saves: Fort +6, Ref +4, Will +2
 saves_other: +2 vs. enchantments

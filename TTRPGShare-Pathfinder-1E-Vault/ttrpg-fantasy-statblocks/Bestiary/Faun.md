@@ -5,7 +5,7 @@ name: Faun
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Faun
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 13
-HP_extra: 
 HD: 3d6+3
 saves: Fort +2, Ref +6, Will +5
 DR: 2/cold iron

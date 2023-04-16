@@ -5,7 +5,7 @@ name: Adult Green Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 12
 name: Adult Green Dragon
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 27, touch 8, flat-footed 27 (natural +19, size -2)
 HP: 172
-HP_extra: 
 HD: 15d12+75
 saves: Fort +14, Ref +9, Will +14
 immune: acid, paralysis, sleep

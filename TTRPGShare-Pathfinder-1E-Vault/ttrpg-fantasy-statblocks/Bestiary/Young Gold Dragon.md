@@ -5,7 +5,7 @@ name: Young Gold Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Young Gold Dragon
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +22
 senses: dragon senses
 AC: 23, touch 10, flat-footed 22 (dex +1, natural +13, size -1)
 HP: 126
-HP_extra: 
 HD: 12d12+48
 saves: Fort +12, Ref +9, Will +13
 immune: fire, paralysis, sleep

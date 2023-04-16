@@ -5,7 +5,7 @@ name: Medusa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Medusa
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: all-around vision, darkvision
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +6, Ref +8, Will +7
 speed: 30 ft.

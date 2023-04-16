@@ -5,7 +5,7 @@ name: Black Butterfly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 28
 name: Black Butterfly
 Monster_XP: 4915200

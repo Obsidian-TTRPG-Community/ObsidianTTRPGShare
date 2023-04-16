@@ -5,7 +5,7 @@ name: Viper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Viper
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 16, touch 15, flat-footed 13 (dex +3, natural +1, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +5, Will +1
 speed: 20 ft., climb 20 ft., swim 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any temperate and warm
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

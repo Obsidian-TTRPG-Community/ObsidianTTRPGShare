@@ -5,7 +5,7 @@ name: NPC Fighting School (Battle Monk)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 4
 name: NPC Fighting School (Battle Monk)
 Monster_XP: 1200
@@ -18,7 +18,6 @@ INI: +2
 perception: +12
 AC: 19, touch 18, flat-footed 16 (armor +1, dex +2, dodge +1, monk +4)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +7, Will +9
 saves_other: +2 vs. enchantment

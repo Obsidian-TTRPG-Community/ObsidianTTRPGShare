@@ -5,7 +5,7 @@ name: Wraith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Wraith
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision, lifesense
 aura: unnatural aura
 AC: 18, touch 18, flat-footed 14 (deflection +5, dex +3)
 HP: 47
-HP_extra: 
 HD: 5d8+25
 saves: Fort +6, Ref +4, Will +6
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, gang (3-6), or pack (7-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Create Spawn (Su)

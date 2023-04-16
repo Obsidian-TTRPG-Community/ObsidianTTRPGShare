@@ -5,7 +5,7 @@ name: NPC Sczarni Thug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 1
 name: NPC Sczarni Thug
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +3
 perception: +6
 AC: 14, touch 13, flat-footed 11 (armor +1, dex +3)
 HP: 18
-HP_extra: 
 HD: 2d8+6
 saves: Fort +2, Ref +6, Will +1
 defensive_abilities: evasion

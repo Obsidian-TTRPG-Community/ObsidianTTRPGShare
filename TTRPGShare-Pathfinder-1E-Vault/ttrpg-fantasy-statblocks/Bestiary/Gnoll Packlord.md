@@ -5,7 +5,7 @@ name: Gnoll Packlord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Gnoll Packlord
 Monster_XP: 6400

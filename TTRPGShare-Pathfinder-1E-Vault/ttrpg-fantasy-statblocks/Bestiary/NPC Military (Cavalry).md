@@ -5,7 +5,7 @@ name: NPC Military (Cavalry)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Military (Cavalry)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: +3
 perception: +1
 AC: 23, touch 12, flat-footed 21 (armor +8, dex +2, shield +3)
 HP: 42
-HP_extra: 
 HD: 6d10+9
 saves: Fort +6, Ref +5, Will +3
 saves_other: +2 vs. fear

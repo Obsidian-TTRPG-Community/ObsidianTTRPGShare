@@ -5,7 +5,7 @@ name: Ninkonda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 108: Hell Comes to Westcrown"
+source: "Pathfinder No. 108: Hell Comes to Westcrown"
 Monster_CR: 17
 name: Ninkonda
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: blindsight, darkvision, low-light vision, true seeing
 aura: protective aura
 AC: 32, touch 14, flat-footed 27 (dex +4, dodge +1, natural +18, size -1)
 HP: 270
-HP_extra: 
 HD: 20d10+160
 saves: Fort +20, Ref +12, Will +16
 saves_other: +4 vs. evil
@@ -46,6 +45,7 @@ ecology:
     desc: any good-aligned plane
   - name: Organisation
     desc: solitary, pair, or squad (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Nailed Fists (Su)

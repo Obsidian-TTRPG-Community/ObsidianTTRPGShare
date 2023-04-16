@@ -5,7 +5,7 @@ name: Vilkacis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 45: Broken Moon"
+source: "Pathfinder No. 45: Broken Moon"
 Monster_CR: 7
 name: Vilkacis
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision, scent
 AC: 19, touch 19, flat-footed 13 (deflection +3, dex +6)
 HP: 85
-HP_extra: 
 HD: 10d8+4
 saves: Fort +6, Ref +11, Will +9
 immune: cold, undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bestial Possession (Su)

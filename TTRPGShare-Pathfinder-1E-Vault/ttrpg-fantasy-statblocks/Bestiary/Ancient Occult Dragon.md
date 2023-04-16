@@ -5,7 +5,7 @@ name: Ancient Occult Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Ancient Occult Dragon
 Monster_XP: 51200
@@ -18,7 +18,6 @@ senses: appraising sight, aura sight, dragon senses
 aura: frightful presence, protective aura
 AC: 38, touch 8, flat-footed 38 (natural +30, size -2)
 HP: 270
-HP_extra: 
 HD: 20d12+140
 saves: Fort +19, Ref +12, Will +20
 immune: paralysis, sleep

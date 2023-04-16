@@ -5,7 +5,7 @@ name: Formian Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 17
 name: Formian Queen
 Monster_XP: 102400
@@ -40,6 +40,7 @@ ecology:
     desc: warm or temperate land or underground
   - name: Organisation
     desc: hive (1 plus 300-5,000 formians)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Hive Frenzy (Su)

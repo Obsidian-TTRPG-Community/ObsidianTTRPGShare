@@ -5,7 +5,7 @@ name: NPC Town Watcher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Town Watcher
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +3
 perception: +8
 AC: 17, touch 14, flat-footed 14 (armor +3, dex +3, size +1)
 HP: 15
-HP_extra: 
 HD: 2d10
 saves: Fort +4, Ref +7, Will +2
 saves_other: +2 vs. fear

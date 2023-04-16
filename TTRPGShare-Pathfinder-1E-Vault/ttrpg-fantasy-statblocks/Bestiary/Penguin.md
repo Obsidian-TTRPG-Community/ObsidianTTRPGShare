@@ -5,7 +5,7 @@ name: Penguin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Penguin
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 11, touch 10, flat-footed 11 (dex -1, natural +1, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +1, Will +1
 speed: 10 ft., swim 40 ft., toboggan 30 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: cold plains
   - name: Organisation
     desc: solitary, pair, or colony (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Toboggan (Ex)

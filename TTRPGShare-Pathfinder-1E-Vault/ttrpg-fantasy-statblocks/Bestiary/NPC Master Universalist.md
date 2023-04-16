@@ -5,7 +5,7 @@ name: NPC Master Universalist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Master Universalist
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +18
 senses: low-light vision
 AC: 26, touch 18, flat-footed 25 (armor +4, deflection +5, dex +1, insight +2, natural +4)
 HP: 172
-HP_extra: 
 HD: 20d6+100
 saves: Fort +14, Ref +14, Will +18
 saves_other: +2 vs. enchantments, +4 vs. mind-affecting

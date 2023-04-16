@@ -5,7 +5,7 @@ name: Nachzehrer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 12
 name: Nachzehrer
 Monster_XP: 19200
@@ -41,6 +41,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blood Drain (Su)

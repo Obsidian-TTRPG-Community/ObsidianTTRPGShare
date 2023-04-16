@@ -5,7 +5,7 @@ name: Broken Soul Lillend
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Broken Soul Lillend
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 24, touch 12, flat-footed 21 (dex +3, natural +12, size -1)
 HP: 101
-HP_extra: 
 HD: 7d10+63
 saves: Fort +12, Ref +10, Will +6
 immune: electricity, petrification, poison

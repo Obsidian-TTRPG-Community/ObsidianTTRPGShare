@@ -5,7 +5,7 @@ name: Arcanotheign
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Arcanotheign
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, arcane sight
 aura: energy channel
 AC: 27, touch 27, flat-footed 18 (deflection +8, dex +8, dodge +1)
 HP: 195
-HP_extra: 
 HD: 17d10+102
 saves: Fort +18, Ref +13, Will +17
 saves_other: +2 vs. chaos/evil/good/law
@@ -43,6 +42,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corporeal Form (Ex)

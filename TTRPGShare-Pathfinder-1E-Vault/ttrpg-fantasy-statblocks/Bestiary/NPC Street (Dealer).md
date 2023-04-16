@@ -5,7 +5,7 @@ name: NPC Street (Dealer)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 3
 name: NPC Street (Dealer)
 Monster_XP: 800
@@ -18,7 +18,6 @@ INI: +2
 perception: +6
 AC: 14, touch 12, flat-footed 12 (armor +2, dex +2)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +5, Will +2
 defensive_abilities: evasion, trap sense +1

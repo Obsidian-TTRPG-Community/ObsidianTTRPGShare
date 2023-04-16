@@ -5,7 +5,7 @@ name: Energized Ice Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 7
 name: Energized Ice Golem
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: caustic mist
 AC: 21, touch 10, flat-footed 21 (natural +11)
 HP: 73
-HP_extra: 
 HD: 6d10+40
 saves: Fort +2, Ref +2, Will +2
 immune: cold, construct traits, magic
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 sources:
   - name: Construct Handbook

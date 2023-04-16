@@ -5,7 +5,7 @@ name: Whale
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Whale
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +23
 senses: blindsight, low-light vision
 AC: 22, touch 4, flat-footed 22 (dex -2, natural +18, size -4)
 HP: 157
-HP_extra: 
 HD: 15d8+90
 saves: Fort +17, Ref +7, Will +7
 speed: swim 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Capsize (Ex)

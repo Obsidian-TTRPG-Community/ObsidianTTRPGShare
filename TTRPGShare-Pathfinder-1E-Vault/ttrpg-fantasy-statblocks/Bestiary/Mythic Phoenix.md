@@ -5,7 +5,7 @@ name: Mythic Phoenix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 18
 name: Mythic Phoenix
 Monster_XP: 153600
@@ -47,6 +47,7 @@ ecology:
     desc: warm desert and hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Death Throes (Su)

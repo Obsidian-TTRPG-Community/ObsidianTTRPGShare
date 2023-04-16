@@ -5,7 +5,7 @@ name: Schir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Schir
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, see invisibility
 AC: 19, touch 12, flat-footed 17 (dex +2, natural +7)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +3, Will +3
 immune: disease, electricity, poison

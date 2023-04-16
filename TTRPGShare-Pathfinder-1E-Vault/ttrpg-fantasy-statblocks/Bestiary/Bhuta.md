@@ -5,7 +5,7 @@ name: Bhuta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Bhuta
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, scent
 AC: 24, touch 24, flat-footed 16 (deflection +6, dex +7, dodge +1)
 HP: 147
-HP_extra: 
 HD: 14d8+84
 saves: Fort +10, Ref +11, Will +10
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any aboveground natural area
   - name: Organisation
     desc: solitary or with a group of animals
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Drain (Su)

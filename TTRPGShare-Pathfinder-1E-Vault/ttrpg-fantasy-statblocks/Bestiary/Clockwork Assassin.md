@@ -5,7 +5,7 @@ name: Clockwork Assassin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Clockwork Assassin
 Monster_XP: 25600
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or contract (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Integrated Rapier (Ex)

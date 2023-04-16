@@ -5,7 +5,7 @@ name: NPC Green Warden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Green Warden
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +14
 senses: low-light vision
 AC: 19, touch 15, flat-footed 14 (armor +4, dex +5)
 HP: 51
-HP_extra: 
 HD: 5d10+2d6+2d10
 saves: Fort +7, Ref +9, Will +10
 saves_other: +2 vs. enchantments, +1 vs. fear

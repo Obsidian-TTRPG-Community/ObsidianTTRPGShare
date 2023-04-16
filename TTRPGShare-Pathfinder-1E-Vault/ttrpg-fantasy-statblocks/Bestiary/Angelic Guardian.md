@@ -5,7 +5,7 @@ name: Angelic Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 5
 name: Angelic Guardian
 Monster_XP: 1600
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 53
-HP_extra: 
 HD: 6d10+20
 saves: Fort +2, Ref +4, Will +2
 immune: construct traits, fire
@@ -37,6 +36,7 @@ ecology:
     desc: any urban (Magnimar)
   - name: Organisation
     desc: solitary, assembly (2-4), or choir (5-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Deflective Wings (Ex)

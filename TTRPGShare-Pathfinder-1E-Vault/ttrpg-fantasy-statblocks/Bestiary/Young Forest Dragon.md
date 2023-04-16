@@ -5,7 +5,7 @@ name: Young Forest Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Young Forest Dragon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +15
 senses: dragon senses, tremorsense
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 126
-HP_extra: 
 HD: 11d12+55
 saves: Fort +11, Ref +8, Will +8
 immune: paralysis, poison, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

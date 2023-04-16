@@ -5,7 +5,7 @@ name: NPC Aspis Consortium Spy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 10
 name: NPC Aspis Consortium Spy
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +4
 perception: +16
 AC: 22, touch 17, flat-footed 17 (armor +5, deflection +1, dex +4, dodge +1, size +1)
 HP: 75
-HP_extra: 
 HD: 11d8+22
 saves: Fort +5, Ref +12, Will +10
 saves_other: +2 vs. fear, +4 vs. bardic performance, language-dependent, and sonic

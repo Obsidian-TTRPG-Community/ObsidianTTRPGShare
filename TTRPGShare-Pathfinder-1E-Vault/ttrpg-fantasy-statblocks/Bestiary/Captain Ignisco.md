@@ -5,7 +5,7 @@ name: Captain Ignisco
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 6
 name: Captain Ignisco
 Monster_XP: 2400

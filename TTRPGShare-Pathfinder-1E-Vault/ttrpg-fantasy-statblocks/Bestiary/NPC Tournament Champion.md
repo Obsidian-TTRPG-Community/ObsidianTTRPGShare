@@ -5,7 +5,7 @@ name: NPC Tournament Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Tournament Champion
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +25
 senses: low-light vision
 AC: 21, touch 15, flat-footed 17 (armor +6, deflection +1, dex +4)
 HP: 86
-HP_extra: 
 HD: 7d8+2d6+4d10+22
 saves: Fort +6, Ref +15, Will +11
 saves_other: +2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic

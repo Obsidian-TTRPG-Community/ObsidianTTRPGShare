@@ -5,7 +5,7 @@ name: NPC Axe Warrior
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Axe Warrior
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 15, touch 9, flat-footed 14 (armor +6, dex +1, rage -2)
 HP: 40
-HP_extra: 
 HD: 3d12+15
 saves: Fort +7, Ref +2, Will +3
 defensive_abilities: orc ferocity, trap sense +1, uncanny dodge

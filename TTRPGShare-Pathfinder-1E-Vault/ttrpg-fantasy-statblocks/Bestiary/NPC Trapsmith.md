@@ -5,7 +5,7 @@ name: NPC Trapsmith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Trapsmith
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +14
 senses: low-light vision
 AC: 19, touch 16, flat-footed 15 (armor +3, deflection +1, dex +3, dodge +1, size +1)
 HP: 63
-HP_extra: 
 HD: 8d8+24
 saves: Fort +6, Ref +12, Will +4
 saves_other: +2 vs. illusions

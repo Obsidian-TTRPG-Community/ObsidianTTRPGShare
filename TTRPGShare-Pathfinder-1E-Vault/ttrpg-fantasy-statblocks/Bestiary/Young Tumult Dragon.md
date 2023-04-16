@@ -5,7 +5,7 @@ name: Young Tumult Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 12
 name: Young Tumult Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +20
 senses: dragon senses
 AC: 24, touch 10, flat-footed 23 (dex +1, natural +14, size -1)
 HP: 175
-HP_extra: 
 HD: 14d12+84
 saves: Fort +15, Ref +10, Will +12
 immune: paralysis, sleep, warpproof

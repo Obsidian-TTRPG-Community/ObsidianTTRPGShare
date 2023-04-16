@@ -5,7 +5,7 @@ name: NPC Herald of Armageddon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Herald of Armageddon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ INI: +5
 perception: +5
 AC: 26, touch 13, flat-footed 25 (armor +12, deflection +2, dex +1, natural +1)
 HP: 131
-HP_extra: 
 HD: 17d8+51
 saves: Fort +13, Ref +7, Will +16
 saves_other: +1 vs. good

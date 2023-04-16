@@ -5,7 +5,7 @@ name: Orc Sergeant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Orc Sergeant
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +0
 senses: darkvision
 AC: 13, touch 9, flat-footed 13 (armor +4, dex -1)
 HP: 30
-HP_extra: 
 HD: 3d10+9
 saves: Fort +5, Ref +0, Will +1
 defensive_abilities: bravery +1, ferocity

@@ -5,7 +5,7 @@ name: Mythic Elder Water Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 14
 name: Mythic Elder Water Elemental
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 30, touch 16, flat-footed 22 (dex +6, dodge +2, natural +14, size -2)
 HP: 202
-HP_extra: 
 HD: 16d10+114
 saves: Fort +14, Ref +18, Will +6
 immune: elemental traits
@@ -40,6 +39,7 @@ ecology:
     desc: any (Plane of Water)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Drench (Ex)

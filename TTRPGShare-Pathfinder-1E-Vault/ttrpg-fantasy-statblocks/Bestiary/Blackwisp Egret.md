@@ -5,7 +5,7 @@ name: Blackwisp Egret
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 91: Battle of Bloodmarch Hills"
+source: "Pathfinder No. 91: Battle of Bloodmarch Hills"
 Monster_CR: 1/3
 name: Blackwisp Egret
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 defensive_abilities: deceptive target
@@ -34,6 +33,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, pair, or flock (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Deceptive Target (Ex)

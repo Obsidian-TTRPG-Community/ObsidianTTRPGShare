@@ -5,7 +5,7 @@ name: Giant Ant Lion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Giant Ant Lion
 Monster_XP: 1600
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, tremorsense
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +9, Ref +2, Will +2
 immune: mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary or nest (2-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Sand Trap (Ex)

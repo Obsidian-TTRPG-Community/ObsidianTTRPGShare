@@ -5,7 +5,7 @@ name: Nephlei
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 9
 name: Nephlei
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 20, touch 17, flat-footed 16 (deflection +4, dex +4, natural +3, size -1)
 HP: 115
-HP_extra: 
 HD: 11d10+55
 saves: Fort +12, Ref +15, Will +13
 immune: cold, electricity
@@ -40,6 +39,7 @@ ecology:
     desc: any sky (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Crackling Whip (Su)

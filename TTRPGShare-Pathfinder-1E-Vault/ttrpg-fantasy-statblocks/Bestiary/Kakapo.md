@@ -5,7 +5,7 @@ name: Kakapo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Kakapo
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +3
 senses: low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will -1
 speed: 30 ft., other_semicolon glide ft., climb 10 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm jungles
   - name: Organisation
     desc: solitary, pair, or family (3-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Glide (Ex)

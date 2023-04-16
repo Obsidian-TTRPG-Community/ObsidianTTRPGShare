@@ -5,7 +5,7 @@ name: Apocalypse Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 45: Broken Moon"
+source: "Pathfinder No. 45: Broken Moon"
 Monster_CR: 2
 name: Apocalypse Zombie
 Monster_XP: 600
@@ -19,7 +19,6 @@ perception: +0
 senses: darkvision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +1, Ref +3, Will +4
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Brain-Eating (Ex)

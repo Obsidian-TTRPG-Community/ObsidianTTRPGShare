@@ -5,7 +5,7 @@ name: Seps
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Seps
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +17
 senses: darkvision, low-light vision, scent
 AC: 26, touch 10, flat-footed 24 (dex +2, natural +16, size -2)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +11, Will +6
 immune: acid, poison

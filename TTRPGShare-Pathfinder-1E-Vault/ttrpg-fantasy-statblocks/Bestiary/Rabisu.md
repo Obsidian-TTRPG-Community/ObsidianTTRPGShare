@@ -5,7 +5,7 @@ name: Rabisu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Qadira, Jewel of the East"
+source: "Qadira, Jewel of the East"
 Monster_CR: 11
 name: Rabisu
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +22
 senses: low-light vision, scent, see in darkness
 AC: 25, touch 18, flat-footed 17 (dex +8, dodge +1, natural +7)
 HP: 147
-HP_extra: 
 HD: 14d6+98
 saves: Fort +11, Ref +16, Will +14
 immune: fire, bleed, fear
@@ -42,6 +41,7 @@ ecology:
     desc: warm deserts, hills, and mountains
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blood Frenzy (Ex)

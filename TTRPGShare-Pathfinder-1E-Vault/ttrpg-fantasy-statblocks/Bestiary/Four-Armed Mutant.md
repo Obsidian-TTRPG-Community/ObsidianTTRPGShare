@@ -5,7 +5,7 @@ name: Four-Armed Mutant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 3
 name: Four-Armed Mutant
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +6
 senses: blindsense, darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 18
-HP_extra: 
 HD: 2d10+7
 saves: Fort +4, Ref +4, Will +4
 weak: light blindness

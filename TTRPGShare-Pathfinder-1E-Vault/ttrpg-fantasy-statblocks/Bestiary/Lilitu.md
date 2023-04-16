@@ -5,7 +5,7 @@ name: Lilitu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Lilitu
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: unholy aura
 AC: 34, touch 24, flat-footed 28 (deflection +4, dex +5, dodge +1, natural +10, profane +4)
 HP: 263
-HP_extra: 
 HD: 17d10+170
 saves: Fort +19, Ref +23, Will +20
 immune: electricity, poison
@@ -46,6 +45,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, gathering (3-5), or cult (1 lilitu and 6-12 succubi)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Branding (Su)

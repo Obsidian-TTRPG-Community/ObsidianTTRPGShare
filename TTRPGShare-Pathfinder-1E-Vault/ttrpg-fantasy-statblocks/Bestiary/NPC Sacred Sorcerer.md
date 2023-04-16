@@ -5,7 +5,7 @@ name: NPC Sacred Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Sacred Sorcerer
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +2
 perception: +9
 AC: 19, touch 14, flat-footed 16 (armor +4, deflection +1, dex +2, dodge +1, natural +1)
 HP: 75
-HP_extra: 
 HD: 9d6+41
 saves: Fort +5, Ref +8, Will +9
 resist: acid 10, cold 10

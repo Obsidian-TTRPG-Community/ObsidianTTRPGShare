@@ -5,7 +5,7 @@ name: Kakuen-Taka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 14
 name: Kakuen-Taka
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision
 AC: 16, touch 15, flat-footed 9 (dex +6, dodge +1, natural +1, size -2)
 HP: 199
-HP_extra: 
 HD: 21d10+84
 saves: Fort +17, Ref +20, Will +10
 immune: poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (the Worldwound)
   - name: Organisation
     desc: solitary, patrol (1 swarm with 1 flesh mansion and 1d4 carrionstorms), or gang (1d3 patrols)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Consume Flesh (Su)

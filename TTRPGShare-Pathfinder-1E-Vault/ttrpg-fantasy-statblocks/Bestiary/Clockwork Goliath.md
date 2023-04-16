@@ -5,7 +5,7 @@ name: Clockwork Goliath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 19
 name: Clockwork Goliath
 Monster_XP: 204800
@@ -17,7 +17,6 @@ INI: +9
 senses: darkvision, low-light vision
 AC: 35, touch 13, flat-footed 28 (dex +5, dodge +2, natural +22, size -4)
 HP: 214
-HP_extra: 
 HD: 28d10+60
 saves: Fort +9, Ref +16, Will +9
 immune: construct traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or siege (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cannon (Ex)

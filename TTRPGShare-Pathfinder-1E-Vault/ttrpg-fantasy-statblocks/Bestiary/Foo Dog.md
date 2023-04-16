@@ -5,7 +5,7 @@ name: Foo Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Foo Dog
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 17
-HP_extra: 
 HD: 2d10+6
 saves: Fort +6, Ref +5, Will +3
 immune: poison, disease, paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

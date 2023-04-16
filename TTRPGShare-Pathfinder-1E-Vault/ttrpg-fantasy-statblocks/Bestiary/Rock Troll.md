@@ -5,7 +5,7 @@ name: Rock Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Rock Troll
 Monster_XP: 2400
@@ -39,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Sunlight Petrification (Ex)

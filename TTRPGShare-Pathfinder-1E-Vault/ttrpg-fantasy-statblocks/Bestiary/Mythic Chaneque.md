@@ -5,7 +5,7 @@ name: Mythic Chaneque
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Mythic Chaneque
 Monster_XP: 400
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: fear aura
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 19
-HP_extra: 
 HD: 3d6+9
 saves: Fort +1, Ref +6, Will +5
 speed: 20 ft., fly 60 ft. (clumsy), climb 20 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary or gang (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Steal Soul (Su)

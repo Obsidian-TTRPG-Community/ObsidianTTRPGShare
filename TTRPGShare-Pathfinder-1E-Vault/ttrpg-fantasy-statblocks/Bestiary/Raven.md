@@ -5,7 +5,7 @@ name: Raven
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/6
 name: Raven
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +4, Will +2
 speed: 10 ft., fly 40 ft. (average)
@@ -35,6 +34,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary, pair, flock (3-12), or unkindness (13-100)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

@@ -5,7 +5,7 @@ name: Pilo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 85: Fires of Creation"
+source: "Pathfinder No. 85: Fires of Creation"
 Monster_CR: 2
 name: Pilo
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +4, Will +3
 defensive_abilities: roll up
@@ -35,6 +34,7 @@ ecology:
     desc: any deserts
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

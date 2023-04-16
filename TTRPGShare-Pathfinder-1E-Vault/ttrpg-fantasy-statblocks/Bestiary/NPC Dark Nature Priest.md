@@ -5,7 +5,7 @@ name: NPC Dark Nature Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Dark Nature Priest
 Monster_XP: 102400
@@ -19,7 +19,6 @@ INI: +3
 perception: +24
 AC: 28, touch 19, flat-footed 24 (armor +4, deflection +3, dex +3, dodge +1, insight +1, shield +5, size +1)
 HP: 156
-HP_extra: 
 HD: 18d8+72
 saves: Fort +18, Ref +13, Will +20
 saves_other: +2 vs. fear, +4 vs. fey and plant-targeted effects

@@ -5,7 +5,7 @@ name: Bacallia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Druma, Profit and Prophecy"
+source: "Druma, Profit and Prophecy"
 Monster_CR: 1
 name: Bacallia
 Monster_XP: 400
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: dazzling
 AC: 12, touch 12, flat-footed 11 (dex +1, natural +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +4, Will +1
 defensive_abilities: pristine wool
@@ -36,6 +35,7 @@ ecology:
     desc: temperate hills or mountains
   - name: Organisation
     desc: solitary, pair, or majesty (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dazzling (Ex)

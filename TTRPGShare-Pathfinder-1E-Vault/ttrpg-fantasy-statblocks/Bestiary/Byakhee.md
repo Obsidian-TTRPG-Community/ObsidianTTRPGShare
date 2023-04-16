@@ -5,7 +5,7 @@ name: Byakhee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 110: The Thrushmoor Terror"
+source: "Pathfinder No. 110: The Thrushmoor Terror"
 Monster_CR: 4
 name: Byakhee
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, see in darkness
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +5, Ref +4, Will +7
 immune: cold, confusion and insanity effects, critical hits, hunger, sneak attacks, thirst
@@ -37,6 +36,7 @@ ecology:
     desc: any air
   - name: Organisation
     desc: solitary, pair, or flock (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bloodlust (Ex)

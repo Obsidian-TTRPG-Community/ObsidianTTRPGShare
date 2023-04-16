@@ -5,7 +5,7 @@ name: Carbuncle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Carbuncle
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 12, touch 10, flat-footed 12 (dex -2, natural +2, size +2)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +1, Will +3
 weak: vulnerability to suggestion
@@ -39,6 +38,7 @@ ecology:
     desc: any forests or swamps
   - name: Organisation
     desc: solitary or group (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Empath (Su)

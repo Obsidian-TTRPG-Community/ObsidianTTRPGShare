@@ -5,7 +5,7 @@ name: Boggart
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Boggart
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 16, touch 16, flat-footed 11 (dex +5, size +1)
 HP: 31
-HP_extra: 
 HD: 7d6+7
 saves: Fort +3, Ref +10, Will +5
 DR: 5/cold iron
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests or swamps
   - name: Organisation
     desc: solitary, gang (2-5), or band (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Abduct (Ex)

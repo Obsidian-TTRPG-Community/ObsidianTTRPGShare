@@ -5,7 +5,7 @@ name: Clockwork Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Clockwork Golem
 Monster_XP: 19200
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision, low-light vision
 AC: 26, touch 10, flat-footed 25 (dex +1, natural +16, size -1)
 HP: 118
-HP_extra: 
 HD: 16d10+30
 saves: Fort +5, Ref +6, Will +5
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Burst (Ex)

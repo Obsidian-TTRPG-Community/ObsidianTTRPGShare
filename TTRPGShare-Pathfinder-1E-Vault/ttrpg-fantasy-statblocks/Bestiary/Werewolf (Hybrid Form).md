@@ -5,7 +5,7 @@ name: Werewolf (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Werewolf (Hybrid Form)
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 22, touch 12, flat-footed 20 (armor +6, dex +2, natural +4)
 HP: 21
-HP_extra: 
 HD: 2d10+6
 saves: Fort +6, Ref +2, Will +2
 DR: 10/silver

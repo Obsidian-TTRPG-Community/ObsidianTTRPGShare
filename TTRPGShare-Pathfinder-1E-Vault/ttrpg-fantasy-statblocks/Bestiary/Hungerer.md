@@ -5,7 +5,7 @@ name: Hungerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Rise of the Runelords Anniversary Edition"
+source: "Rise of the Runelords Anniversary Edition"
 Monster_CR: 15
 name: Hungerer
 Monster_XP: 51200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: stench
 AC: 31, touch 10, flat-footed 29 (dex +1, dodge +1, natural +21, size -2)
 HP: 220
-HP_extra: 
 HD: 21d10+105
 saves: Fort +12, Ref +15, Will +18
 immune: acid, poison
@@ -42,6 +41,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary or feast (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devastating Bite (Ex)

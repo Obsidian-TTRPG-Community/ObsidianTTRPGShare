@@ -5,7 +5,7 @@ name: Mythic Ettin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 8
 name: Mythic Ettin
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: stench
 AC: 22, touch 8, flat-footed 22 (armor +3, dex -1, natural +11, size -1)
 HP: 89
-HP_extra: 
 HD: 10d8+44
 saves: Fort +9, Ref +2, Will +5
 DR: 5/epic

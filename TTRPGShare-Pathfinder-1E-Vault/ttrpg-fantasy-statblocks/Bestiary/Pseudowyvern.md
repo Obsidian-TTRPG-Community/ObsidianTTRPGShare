@@ -5,7 +5,7 @@ name: Pseudowyvern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Legacy of Dragons"
+source: "Legacy of Dragons"
 Monster_CR: 2
 name: Pseudowyvern
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision, scent
 AC: 17, touch 14, flat-footed 15 (dex +2, natural +3, size +2)
 HP: 22
-HP_extra: 
 HD: 3d12+3
 saves: Fort +4, Ref +5, Will +4
 immune: paralysis, sleep
@@ -37,6 +36,7 @@ ecology:
     desc: temperate or warm forests or hills
   - name: Organisation
     desc: solitary, pair, or flight (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

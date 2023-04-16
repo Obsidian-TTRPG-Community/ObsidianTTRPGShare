@@ -5,7 +5,7 @@ name: Smoke Sentinel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 9
 name: Smoke Sentinel
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision, see alignment
 AC: 20, touch 20, flat-footed 14 (deflection +6, dex +5, dodge +1, size -2)
 HP: 98
-HP_extra: 
 HD: 9d10+49
 saves: Fort +3, Ref +8, Will +8
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Engulf (Ex)

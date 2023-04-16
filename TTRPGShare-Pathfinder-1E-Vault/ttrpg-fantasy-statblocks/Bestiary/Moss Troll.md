@@ -5,7 +5,7 @@ name: Moss Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Moss Troll
 Monster_XP: 800
@@ -42,6 +42,7 @@ ecology:
     desc: cold or temperate forests
   - name: Organisation
     desc: solitary, gang (2-3), or troop (4-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fear of Fire (Ex)

@@ -5,7 +5,7 @@ name: Young Nightmare Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Young Nightmare Dragon
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: dragon senses, dreamsight, see in darkness
 AC: 19, touch 11, flat-footed 18 (dex +1, natural +8)
 HP: 80
-HP_extra: 
 HD: 7d12+35
 saves: Fort +10, Ref +6, Will +7
 immune: mind-affecting effects, paralysis, sleep

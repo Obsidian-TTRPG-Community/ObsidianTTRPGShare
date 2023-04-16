@@ -5,7 +5,7 @@ name: Pharaonic Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Pharaonic Guardian
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision
 AC: 25, touch 21, flat-footed 18 (deflection +5, dex +7, shield +4, size -1)
 HP: 142
-HP_extra: 
 HD: 15d8+75
 saves: Fort +10, Ref +12, Will +12
 immune: undead traits

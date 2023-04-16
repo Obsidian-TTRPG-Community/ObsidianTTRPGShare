@@ -5,7 +5,7 @@ name: Grim Reaper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 20
 name: Grim Reaper
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: fear aura
 AC: 32, touch 20, flat-footed 30 (deflection +9, dex +2, natural +12, size -1)
 HP: 378
-HP_extra: 
 HD: 28d8+252
 saves: Fort +18, Ref +11, Will +20
 immune: undead traits

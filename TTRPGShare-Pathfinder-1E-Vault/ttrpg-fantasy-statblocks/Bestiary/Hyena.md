@@ -5,7 +5,7 @@ name: Hyena
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Hyena
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +5, Will +1
 speed: 50 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

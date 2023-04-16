@@ -5,7 +5,7 @@ name: Catrina
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Catrina
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, spiritsense
 aura: calm emotions
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +5, Ref +8, Will +9
 immune: death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Purgatory)
   - name: Organisation
     desc: solitary, pair, or reception (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Calm Emotions Aura (Su)

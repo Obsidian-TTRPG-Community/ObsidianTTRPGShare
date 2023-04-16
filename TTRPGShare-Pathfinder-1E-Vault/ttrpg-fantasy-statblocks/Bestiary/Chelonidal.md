@@ -5,7 +5,7 @@ name: Chelonidal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 121: The Lost Outpost"
+source: "Pathfinder No. 121: The Lost Outpost"
 Monster_CR: 7
 name: Chelonidal
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision, see invisibility
 AC: 22, touch 22, flat-footed 20 (dex +2, natural +10)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +7, Will +10
 saves_other: +4 vs. movement effects and poison

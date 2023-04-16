@@ -5,7 +5,7 @@ name: Mythic Griffon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 5
 name: Mythic Griffon
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 62
-HP_extra: 
 HD: 5d10+35
 saves: Fort +7, Ref +6, Will +4
 DR: 5/epic
@@ -42,6 +41,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary, pair, or pride (6-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Power Dive (Ex)

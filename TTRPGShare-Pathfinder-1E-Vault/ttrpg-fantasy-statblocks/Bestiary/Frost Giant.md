@@ -5,7 +5,7 @@ name: Frost Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Frost Giant
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +10
 senses: low-light vision
 AC: 21, touch 8, flat-footed 21 (armor +4, dex -1, natural +9, size -1)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +14, Ref +3, Will +6
 immune: cold

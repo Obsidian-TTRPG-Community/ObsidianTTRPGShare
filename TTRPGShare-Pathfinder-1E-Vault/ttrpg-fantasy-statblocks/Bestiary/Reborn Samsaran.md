@@ -5,7 +5,7 @@ name: Reborn Samsaran
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 1/2
 name: Reborn Samsaran
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +6
 senses: low-light vision
 AC: 12, touch 9, flat-footed 12 (armor +3, dex -1)
 HP: 10
-HP_extra: 
 HD: 1d8+2
 saves: Fort +3, Ref +1, Will +4
 weak: aura transparency

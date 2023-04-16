@@ -5,7 +5,7 @@ name: Giant Jellyfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Giant Jellyfish
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 11, touch 11, flat-footed 9 (dex +2, size -1)
 HP: 94
-HP_extra: 
 HD: 9d8+54
 saves: Fort +12, Ref +5, Will +3
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pack (2-5), or bloom (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

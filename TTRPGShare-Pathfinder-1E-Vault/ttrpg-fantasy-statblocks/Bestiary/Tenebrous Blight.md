@@ -5,7 +5,7 @@ name: Tenebrous Blight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 6
 name: Tenebrous Blight
 Monster_XP: 2400
@@ -37,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or grove (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Darken Flames (Ex)

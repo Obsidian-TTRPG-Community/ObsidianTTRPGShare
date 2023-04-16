@@ -5,7 +5,7 @@ name: Mythic Lich
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 17
 name: Mythic Lich
 Monster_XP: 102400
@@ -21,7 +21,6 @@ senses: darkvision, spell perception
 aura: fear
 AC: 36, touch 14, flat-footed 34 (armor +7, deflection +2, dex +2, natural +15)
 HP: 209
-HP_extra: 
 HD: 13d8+147
 saves: Fort +16, Ref +9, Will +21
 immune: cold, electricity, undead traits

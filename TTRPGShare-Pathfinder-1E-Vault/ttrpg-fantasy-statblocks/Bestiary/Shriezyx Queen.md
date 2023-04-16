@@ -5,7 +5,7 @@ name: Shriezyx Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 134: It Came from Hollow Mountain"
+source: "Pathfinder No. 134: It Came from Hollow Mountain"
 Monster_CR: 8
 name: Shriezyx Queen
 Monster_XP: 4800
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or hive (1 plus 3-12 shriezyx)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hive Influence (Su)

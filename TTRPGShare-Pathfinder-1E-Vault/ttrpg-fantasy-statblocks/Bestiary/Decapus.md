@@ -5,7 +5,7 @@ name: Decapus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Decapus
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +4, Ref +3, Will +5
 speed: 10 ft., climb 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests or underground
   - name: Organisation
     desc: solitary or mated pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Tentacles (Ex)

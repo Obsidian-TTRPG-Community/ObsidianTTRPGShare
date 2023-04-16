@@ -5,7 +5,7 @@ name: Berbalang
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Berbalang
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision
 AC: 20, touch 15, flat-footed 15 (dex +4, dodge +1, natural +5)
 HP: 68
-HP_extra: 
 HD: 8d8+32
 saves: Fort +6, Ref +6, Will +9
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pack (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Projection (Su)

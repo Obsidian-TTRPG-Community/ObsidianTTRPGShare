@@ -5,7 +5,7 @@ name: Ioun Wyrd
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Ioun Wyrd
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +2
 senses: blindsight
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +0, Ref +2, Will +2
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ioun Affinity (Su)

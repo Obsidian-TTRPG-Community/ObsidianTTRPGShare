@@ -5,7 +5,7 @@ name: Isonade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Isonade
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, keen scent
 AC: 28, touch 8, flat-footed 26 (dex +1, dodge +1, natural +20, size -4)
 HP: 230
-HP_extra: 
 HD: 20d10+120
 saves: Fort +18, Ref +13, Will +13
 SR: 26
@@ -41,6 +40,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hooked Appendages (Ex)

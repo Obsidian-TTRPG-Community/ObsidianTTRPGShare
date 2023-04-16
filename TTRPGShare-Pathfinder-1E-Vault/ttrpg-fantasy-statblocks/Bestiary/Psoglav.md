@@ -5,7 +5,7 @@ name: Psoglav
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Psoglav
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +20
 senses: scent, see in darkness
 AC: 28, touch 19, flat-footed 19 (dex +8, dodge +1, natural +9)
 HP: 187
-HP_extra: 
 HD: 15d10+105
 saves: Fort +12, Ref +17, Will +11
 DR: 10/cold iron and piercing

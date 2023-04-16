@@ -5,7 +5,7 @@ name: Alpluachra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Alpluachra
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +4
 senses: low-light vision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 5
-HP_extra: 
 HD: 1d6+2
 saves: Fort +2, Ref +3, Will +2
 defensive_abilities: numbing slime
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests or fresh water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Implant (Ex)

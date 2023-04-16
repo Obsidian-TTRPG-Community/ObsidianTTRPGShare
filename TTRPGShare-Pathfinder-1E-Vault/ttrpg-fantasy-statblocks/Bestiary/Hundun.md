@@ -5,7 +5,7 @@ name: Hundun
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 21
 name: Hundun
 Monster_XP: 409600
@@ -18,7 +18,6 @@ perception: +36
 senses: blindsense, detect law
 AC: 37, touch 23, flat-footed 31 (deflection +8, dex +6, natural +14, size -1)
 HP: 364
-HP_extra: 
 HD: 27d8+243
 saves: Fort +18, Ref +23, Will +21
 immune: aging effects, cold, disease, mind-affecting effects, petrification, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss, Limbo, or Negative Energy Plane)
   - name: Organisation
     desc: solitary, pair, or mob (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Entropic Mind (Ex)

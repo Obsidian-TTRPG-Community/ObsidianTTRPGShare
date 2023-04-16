@@ -5,7 +5,7 @@ name: Siabrae
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Siabrae
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +32
 senses: darkvision, tremorsense
 AC: 27, touch 11, flat-footed 27 (armor +6, deflection +2, dex -1, natural +10)
 HP: 178
-HP_extra: 
 HD: 14d8+112
 saves: Fort +15, Ref +5, Will +16
 saves_other: +4 vs. fey and plant-targeted effects

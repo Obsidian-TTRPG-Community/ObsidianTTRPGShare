@@ -5,7 +5,7 @@ name: Chosen of Lamashtu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 12
 name: Chosen of Lamashtu
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 22, touch 10, flat-footed 22 (armor +10, deflection +1, dex -1, natural +2)
 HP: 95
-HP_extra: 
 HD: 13d8+37
 saves: Fort +13, Ref +3, Will +13
 DR: 10/adamantine

@@ -5,7 +5,7 @@ name: Adult Gold Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 15
 name: Adult Gold Dragon
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 30, touch 8, flat-footed 30 (natural +22, size -2)
 HP: 225
-HP_extra: 
 HD: 18d12+108
 saves: Fort +17, Ref +11, Will +18
 immune: fire, paralysis, sleep

@@ -5,7 +5,7 @@ name: Ceratioidi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Ceratioidi
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +4, Will +6
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any saltwater
   - name: Organisation
     desc: solitary, mated individual, or clan (3-20)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dual Mind (Ex)

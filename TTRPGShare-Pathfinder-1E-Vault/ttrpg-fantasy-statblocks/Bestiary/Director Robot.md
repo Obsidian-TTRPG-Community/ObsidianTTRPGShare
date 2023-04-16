@@ -5,7 +5,7 @@ name: Director Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 90: The Divinity Drive"
+source: "Pathfinder No. 90: The Divinity Drive"
 Monster_CR: 10
 name: Director Robot
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 23, touch 13, flat-footed 19 (dex +3, dodge +1, natural +10, size -1)
 HP: 121
-HP_extra: 
 HD: 14d10+44
 saves: Fort +7, Ref +10, Will +9
 immune: construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary, patrol (1 director and 2-8 gearsmen), or unit (1 director, 2-12 gearsmen, and 1 myrmidon)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Advanced Analytics (Ex)

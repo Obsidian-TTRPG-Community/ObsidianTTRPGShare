@@ -5,7 +5,7 @@ name: Bore Worm Monarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 7
 name: Bore Worm Monarch
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: -2
 senses: tremorsense
 AC: 19, touch 7, flat-footed 19 (dex -2, natural +12, size -1)
 HP: 78
-HP_extra: 
 HD: 12d8+24
 saves: Fort +10, Ref +2, Will +4
 immune: acid, mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or tremor (1 plus 1d6 bore worm swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Corrosive Wake (Ex)

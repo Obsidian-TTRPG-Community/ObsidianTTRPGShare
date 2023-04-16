@@ -5,7 +5,7 @@ name: NPC Raging Swimmer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Raging Swimmer
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +19
 senses: low-light vision, scent
 AC: 14, touch 10, flat-footed 12 (armor +4, dex +2, rage -2)
 HP: 109
-HP_extra: 
 HD: 9d12+45
 saves: Fort +11, Ref +6, Will +6
 saves_other: +4 vs. spells and spell-like and supernatural abilities, +2 vs. enchantments

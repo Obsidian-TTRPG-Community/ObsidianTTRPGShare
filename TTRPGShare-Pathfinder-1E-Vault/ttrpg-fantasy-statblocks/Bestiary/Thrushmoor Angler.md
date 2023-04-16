@@ -5,7 +5,7 @@ name: Thrushmoor Angler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 111: Dreams of the Yellow King"
+source: "Pathfinder No. 111: Dreams of the Yellow King"
 Monster_CR: 8
 name: Thrushmoor Angler
 Monster_XP: 4800
@@ -38,6 +38,7 @@ ecology:
     desc: temperate forests, swamps, and water
   - name: Organisation
     desc: solitary, pair, or cloister (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Projected Victim (Su)

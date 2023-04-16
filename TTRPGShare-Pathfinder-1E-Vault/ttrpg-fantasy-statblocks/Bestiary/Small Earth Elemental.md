@@ -5,7 +5,7 @@ name: Small Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Small Earth Elemental
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 17, touch 10, flat-footed 17 (dex -1, natural +7, size +1)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref -1, Will +3
 immune: elemental traits

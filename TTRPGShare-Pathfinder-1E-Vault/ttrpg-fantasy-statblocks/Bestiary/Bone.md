@@ -5,7 +5,7 @@ name: Bone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 27: What Lies in Dust"
+source: "Pathfinder No. 27: What Lies in Dust"
 Monster_CR: 2
 name: Bone
 Monster_XP: 600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: feverish fortitude
 AC: 16, touch 15, flat-footed 15 (armor +1, dex +1, size +4)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +1, Ref +2, Will +2
 immune: construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Feverish Fortitude (Su)

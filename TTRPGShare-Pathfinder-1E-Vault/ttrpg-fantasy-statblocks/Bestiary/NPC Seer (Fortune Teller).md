@@ -5,7 +5,7 @@ name: NPC Seer (Fortune Teller)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Seer (Fortune Teller)
 Monster_XP: 1600

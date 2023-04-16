@@ -5,7 +5,7 @@ name: Melfesh Monster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 61: Shards of Sin"
+source: "Pathfinder No. 61: Shards of Sin"
 Monster_CR: 6
 name: Melfesh Monster
 Monster_XP: 2400
@@ -38,6 +38,7 @@ ecology:
     desc: any (Varisia)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Envelop (Ex)

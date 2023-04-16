@@ -5,7 +5,7 @@ name: NPC River Cleric
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 3
 name: NPC River Cleric
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +2
 perception: +6
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +4, Will +7
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Suli
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Suli
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: -1
 senses: low-light vision
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 11
-HP_extra: 
 HD: 1d10+1
 saves: Fort +2, Ref +3, Will -1
 resist: acid 5, cold 5, electricity 5, fire 5

@@ -5,7 +5,7 @@ name: Choking Shade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 134: It Came from Hollow Mountain"
+source: "Pathfinder No. 134: It Came from Hollow Mountain"
 Monster_CR: 5
 name: Choking Shade
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 18, touch 18, flat-footed 13 (deflection +3, dex +4, dodge +1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +8, Will +7
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or haunting (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Create Spawn (Su)

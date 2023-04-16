@@ -5,7 +5,7 @@ name: Yolubilis Heron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 97: In Hell's Bright Shadow"
+source: "Pathfinder No. 97: In Hell's Bright Shadow"
 Monster_CR: 6
 name: Yolubilis Heron
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, size -2)
 HP: 68
-HP_extra: 
 HD: 8d8+32
 saves: Fort +10, Ref +8, Will +3
 speed: 30 ft., fly 60 ft. (average)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate rivers and swamps
   - name: Organisation
     desc: solitary, pair, or stand (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Still Predator (Ex)

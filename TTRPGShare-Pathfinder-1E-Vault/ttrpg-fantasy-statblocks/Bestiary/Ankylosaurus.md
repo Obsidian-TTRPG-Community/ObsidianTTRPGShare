@@ -5,7 +5,7 @@ name: Ankylosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Ankylosaurus
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, scent
 AC: 22, touch 8, flat-footed 22 (natural +14, size -2)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +12, Ref +7, Will +4
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm forests and plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Stun (Ex)

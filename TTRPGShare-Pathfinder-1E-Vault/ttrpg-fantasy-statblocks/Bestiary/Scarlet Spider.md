@@ -5,7 +5,7 @@ name: Scarlet Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/4
 name: Scarlet Spider
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 18, touch 17, flat-footed 13 (dex +5, natural +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +0
 immune: mind-affecting effects
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

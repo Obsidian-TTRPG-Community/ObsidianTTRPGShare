@@ -5,7 +5,7 @@ name: NPC Mithral Master
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Mithral Master
 Monster_XP: 153600
@@ -21,7 +21,6 @@ senses: low-light vision
 aura: courage, faith, justice, resolve, righteousness
 AC: 31, touch 16, flat-footed 29 (armor +10, deflection +4, dex +2, natural +2, shield +3)
 HP: 185
-HP_extra: 
 HD: 19d10+76
 saves: Fort +20, Ref +13, Will +15
 saves_other: +2 vs. enchantments

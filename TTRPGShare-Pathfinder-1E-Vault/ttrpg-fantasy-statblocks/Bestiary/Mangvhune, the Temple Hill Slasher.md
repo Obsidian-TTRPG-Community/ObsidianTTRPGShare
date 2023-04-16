@@ -5,7 +5,7 @@ name: Mangvhune, the Temple Hill Slasher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 16
 name: Mangvhune, the Temple Hill Slasher
 Monster_XP: 76800

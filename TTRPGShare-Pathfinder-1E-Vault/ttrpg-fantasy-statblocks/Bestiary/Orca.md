@@ -5,7 +5,7 @@ name: Orca
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Orca
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +19
 senses: blindsight, low-light vision
 AC: 16, touch 10, flat-footed 14 (dex +2, natural +6, size -2)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +8, Will +5
 speed: swim 80 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-20)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

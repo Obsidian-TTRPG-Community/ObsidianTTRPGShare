@@ -5,7 +5,7 @@ name: Warmonger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 19
 name: Warmonger
 Monster_XP: 204800
@@ -16,7 +16,6 @@ INI: +6
 senses: darkvision, low-light vision
 AC: 34, touch 14, flat-footed 28 (dex +6, natural +20, size -2)
 HP: 344
-HP_extra: 
 HD: 28d10+190
 saves: Fort +9, Ref +15, Will +16
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Automatic Crossbow (Ex)

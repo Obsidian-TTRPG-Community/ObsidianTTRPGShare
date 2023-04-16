@@ -5,7 +5,7 @@ name: Pharmakos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 15
 name: Pharmakos
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, see invisibility, tremorsense
 AC: 30, touch 5, flat-footed 30 (dex -1, natural +25, size -4)
 HP: 232
-HP_extra: 
 HD: 16d8+160
 saves: Fort +15, Ref +6, Will +10
 immune: acid, death effects, mind-affecting effects, pain, paralysis, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

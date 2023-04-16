@@ -5,7 +5,7 @@ name: Ectoplasmic Human
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Ectoplasmic Human
 Monster_XP: 200
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +0, Ref +0, Will +2
 immune: undead traits
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or haunt (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Horrifying Ooze (Su)

@@ -5,7 +5,7 @@ name: Titanoboa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Titanoboa
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +17
 senses: low-light vision, scent
 AC: 28, touch 4, flat-footed 26 (dex +2, natural +24, size -8)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +17, Ref +12, Will +10
 speed: 30 ft., climb 30 ft., swim 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 6

@@ -5,7 +5,7 @@ name: Shaitan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Shaitan
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, tremorsense
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +4, Will +8
 immune: electricity

@@ -5,7 +5,7 @@ name: Avoral
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Avoral
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, detect magic, low-light vision, see invisibility, true seein
 aura: fear aura
 AC: 25, touch 17, flat-footed 18 (dex +6, dodge +1, natural +8)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +11, Ref +12, Will +6
 saves_other: +4 vs. poison
@@ -44,6 +43,7 @@ ecology:
     desc: any air (Nirvana)
   - name: Organisation
     desc: solitary, pair, or squad (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: True Seeing (Su)

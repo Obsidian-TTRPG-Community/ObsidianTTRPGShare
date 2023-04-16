@@ -5,7 +5,7 @@ name: Giant Crab Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Giant Crab Spider
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +2, Will +0
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: warm or temperate forests
   - name: Organisation
     desc: solitary, pair, or colony (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

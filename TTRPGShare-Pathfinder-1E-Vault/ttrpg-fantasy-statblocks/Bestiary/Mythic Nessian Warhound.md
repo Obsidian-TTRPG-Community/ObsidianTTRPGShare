@@ -5,7 +5,7 @@ name: Mythic Nessian Warhound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 11
 name: Mythic Nessian Warhound
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, scent, see in darkness
 AC: 28, touch 11, flat-footed 26 (armor +6, dex +2, natural +11, size -1)
 HP: 166
-HP_extra: 
 HD: 12d10+100
 saves: Fort +13, Ref +10, Will +6
 immune: fire

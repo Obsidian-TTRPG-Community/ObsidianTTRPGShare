@@ -5,7 +5,7 @@ name: NPC Sister of the Golden Erinyes
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 10
 name: NPC Sister of the Golden Erinyes
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +7
 perception: +16
 AC: 20, touch 20, flat-footed 16 (deflection +1, dex +3, dodge +1, monk +2, wis +3)
 HP: 97
-HP_extra: 
 HD: 11d8+44
 saves: Fort +9, Ref +12, Will +10
 saves_other: +2 vs. enchantments

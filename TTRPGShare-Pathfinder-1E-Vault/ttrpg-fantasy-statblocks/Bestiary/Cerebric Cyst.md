@@ -5,7 +5,7 @@ name: Cerebric Cyst
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 7
 name: Cerebric Cyst
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: thoughtsense
 aura: brain static, mental static
 AC: 19, touch 19, flat-footed 14 (dex +4, dodge +1, insight +2, size +2)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +9, Ref +9, Will +11
 immune: ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any ruins or underground
   - name: Organisation
     desc: solitary, pair, flight (3-6), or colony (7-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Brain Static (Su)

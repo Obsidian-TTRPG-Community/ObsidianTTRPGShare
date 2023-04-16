@@ -5,7 +5,7 @@ name: NPC Coliseum (Gladiator)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Coliseum (Gladiator)
 Monster_XP: 1600

@@ -5,7 +5,7 @@ name: Centaur Charger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 14
 name: Centaur Charger
 Monster_XP: 38400

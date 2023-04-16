@@ -5,7 +5,7 @@ name: NPC Entertainer (Storyteller)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Entertainer (Storyteller)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +2
 perception: +4
 AC: 17, touch 13, flat-footed 14 (armor +3, dex +2, dodge +1, shield +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +1, Ref +5, Will +2
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

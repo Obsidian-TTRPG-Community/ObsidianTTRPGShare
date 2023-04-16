@@ -5,7 +5,7 @@ name: NPC Shackled Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 5
 name: NPC Shackled Sorcerer
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +2
 perception: +1
 AC: 13, touch 12, flat-footed 11 (armor +1, dex +2)
 HP: 35
-HP_extra: 
 HD: 6d6+12
 saves: Fort +4, Ref +5, Will +7
 speed: 30 ft., swim 30 ft.

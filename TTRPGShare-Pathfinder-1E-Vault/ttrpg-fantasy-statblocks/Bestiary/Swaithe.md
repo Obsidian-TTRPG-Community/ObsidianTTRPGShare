@@ -5,7 +5,7 @@ name: Swaithe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Swaithe
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsense, darkvision
 AC: 18, touch 14, flat-footed 15 (dex +3, natural +4, size +1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +3, Ref +9, Will +4
 immune: electricity, gaze attacks, poison, visual effects and attacks relying on sight
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or gang (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Eyeless (Ex)

@@ -5,7 +5,7 @@ name: NPC Supreme Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Supreme Hunter
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +25
 senses: darkvision
 AC: 31, touch 18, flat-footed 26 (armor +8, deflection +3, dex +4, dodge +1, natural +5)
 HP: 184
-HP_extra: 
 HD: 20d10+70
 saves: Fort +20, Ref +22, Will +13
 immune: fire (120 points), poison

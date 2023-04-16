@@ -5,7 +5,7 @@ name: Devilfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Devilfish
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +5
 senses: low-light vision, see in darkness
 AC: 17, touch 12, flat-footed 14 (dex +3, natural +5, size -1)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +7, Will +2
 resist: cold 10
@@ -40,6 +39,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

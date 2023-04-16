@@ -5,7 +5,7 @@ name: Centaur
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Centaur
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 20, touch 11, flat-footed 18 (armor +6, dex +2, natural +1, shield +2, size -1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +6, Will +6
 speed: 50 ft.,  35 ft. in armor

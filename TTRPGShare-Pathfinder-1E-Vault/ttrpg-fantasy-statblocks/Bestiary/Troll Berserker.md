@@ -5,7 +5,7 @@ name: Troll Berserker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Troll Berserker
 Monster_XP: 6400

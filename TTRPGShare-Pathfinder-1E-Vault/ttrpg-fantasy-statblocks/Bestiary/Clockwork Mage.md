@@ -5,7 +5,7 @@ name: Clockwork Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Clockwork Mage
 Monster_XP: 6400
@@ -17,7 +17,6 @@ INI: +9
 senses: darkvision, low-light vision
 AC: 25, touch 17, flat-footed 18 (dex +5, dodge +2, natural +8)
 HP: 102
-HP_extra: 
 HD: 15d10+20
 saves: Fort +5, Ref +12, Will +7
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Wand Magic (Su)

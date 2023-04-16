@@ -5,7 +5,7 @@ name: Great Horned Owl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Great Horned Owl
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +4, Will +2
 speed: 10 ft., fly 60 ft. (average)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

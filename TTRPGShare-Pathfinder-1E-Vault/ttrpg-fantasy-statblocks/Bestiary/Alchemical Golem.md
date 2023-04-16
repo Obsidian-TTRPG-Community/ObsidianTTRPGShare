@@ -5,7 +5,7 @@ name: Alchemical Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Alchemical Golem
 Monster_XP: 6400
@@ -16,7 +16,6 @@ INI: +4
 senses: darkvision, low-light vision
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 96
-HP_extra: 
 HD: 12d10+30
 saves: Fort +4, Ref +8, Will +4
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alchemy (Ex)

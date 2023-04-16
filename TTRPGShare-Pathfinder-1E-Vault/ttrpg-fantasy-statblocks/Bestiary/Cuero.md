@@ -5,7 +5,7 @@ name: Cuero
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Cuero
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: blindsense, darkvision
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +6, Ref +4, Will +7
 speed: 10 ft., swim 40 ft.
@@ -41,6 +40,7 @@ ecology:
     desc: temperate lakes or rivers
   - name: Organisation
     desc: solitary, pair, or pack (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Muddy Cloud (Ex)

@@ -5,7 +5,7 @@ name: NPC Queen of Staves
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Queen of Staves
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision
 AC: 19, touch 14, flat-footed 15 (armor +4, dex +3, dodge +1, natural +1)
 HP: 67
-HP_extra: 
 HD: 2d10+5d6+2d10+23
 saves: Fort +9, Ref +6, Will +8
 saves_other: +2 vs. enchantments, +1 vs. fear

@@ -5,7 +5,7 @@ name: Occulari
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 7
 name: Occulari
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +26
 senses: all-around vision, darkvision, true seeing
 AC: 20, touch 20, flat-footed 14 (dex +5, dodge +1, size +4)
 HP: 82
-HP_extra: 
 HD: 11d8+33
 saves: Fort +8, Ref +10, Will +10
 immune: weapon damage
@@ -44,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, surveillance (2-5), or reconnaissance (6-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Capitulating Gaze (Su)

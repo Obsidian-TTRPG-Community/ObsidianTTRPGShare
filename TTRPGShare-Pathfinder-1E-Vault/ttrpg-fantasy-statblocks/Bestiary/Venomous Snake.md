@@ -5,7 +5,7 @@ name: Venomous Snake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Venomous Snake
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +4, Will +1
 speed: 20 ft., climb 20 ft., swim 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any temperate or warm
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

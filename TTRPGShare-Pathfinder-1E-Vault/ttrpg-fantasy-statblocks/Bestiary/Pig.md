@@ -5,7 +5,7 @@ name: Pig
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/3
 name: Pig
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +6, Ref +3, Will +1
 speed: 30 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

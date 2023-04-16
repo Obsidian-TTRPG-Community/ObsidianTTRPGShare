@@ -5,7 +5,7 @@ name: Yaddithian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Yaddithian
 Monster_XP: 4800
@@ -19,7 +19,6 @@ perception: +11
 senses: darkvision
 AC: 15, touch 13, flat-footed 13 (deflection +1, dex +2, natural +2)
 HP: 61
-HP_extra: 
 HD: 9d6+27
 saves: Fort +5, Ref +5, Will +5
 resist: cold 5

@@ -5,7 +5,7 @@ name: NPC Barmaid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Barmaid
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +1
 perception: +6
 AC: 12, touch 12, flat-footed 10 (dex +1, dodge +1)
 HP: 17
-HP_extra: 
 HD: 5d6
 saves: Fort +1, Ref +2, Will +1
 speed: 35 ft.

@@ -5,7 +5,7 @@ name: Pseudodragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Pseudodragon
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: blindsense, darkvision, low-light vision
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 15
-HP_extra: 
 HD: 2d12+2
 saves: Fort +4, Ref +5, Will +4
 immune: paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or clutch (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

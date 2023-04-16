@@ -5,7 +5,7 @@ name: Animate Dream
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Animate Dream
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 20, touch 20, flat-footed 15 (deflection +5, dex +4, dodge +1)
 HP: 90
-HP_extra: 
 HD: 12d10+24
 saves: Fort +10, Ref +8, Will +12
 defensive_abilities: incorporeal
@@ -37,6 +36,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Nightmare Curse (Ex)

@@ -5,7 +5,7 @@ name: Juggerloathe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 16
 name: Juggerloathe
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision, scent, tremorsense
 AC: 32, touch 7, flat-footed 31 (dex +1, natural +25, size -4)
 HP: 256
-HP_extra: 
 HD: 19d10+152
 saves: Fort +19, Ref +14, Will +12
 DR: 10/adamantine
@@ -39,6 +38,7 @@ ecology:
     desc: any (Hold of Belkzen)
   - name: Organisation
     desc: unique
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Devour Life (Su)

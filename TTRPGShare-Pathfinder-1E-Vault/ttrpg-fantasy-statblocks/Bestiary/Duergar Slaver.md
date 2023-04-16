@@ -5,7 +5,7 @@ name: Duergar Slaver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1/2
 name: Duergar Slaver
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 10
-HP_extra: 
 HD: 1d8+2
 saves: Fort +1, Ref +4, Will +3
 saves_other: +2 vs. spells

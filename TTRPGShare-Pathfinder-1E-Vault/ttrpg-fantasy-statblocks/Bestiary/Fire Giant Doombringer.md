@@ -5,7 +5,7 @@ name: Fire Giant Doombringer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 18
 name: Fire Giant Doombringer
 Monster_XP: 153600
@@ -20,7 +20,6 @@ perception: +32
 senses: low-light vision
 AC: 32, touch 12, flat-footed 30 (armor +9, deflection +1, dex +2, natural +8, shield +3, size -1)
 HP: 341
-HP_extra: 
 HD: 31d8+202
 saves: Fort +20, Ref +12, Will +20
 saves_other: +4 vs. disease, death effects, mind-affecting effects, poison, sleep, stunning

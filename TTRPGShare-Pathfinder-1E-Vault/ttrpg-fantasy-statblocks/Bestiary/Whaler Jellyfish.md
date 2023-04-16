@@ -5,7 +5,7 @@ name: Whaler Jellyfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Whaler Jellyfish
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +7
 senses: blindsight
 AC: 32, touch 8, flat-footed 26 (dex +6, natural +24, size -8)
 HP: 270
-HP_extra: 
 HD: 20d8+180
 saves: Fort +21, Ref +12, Will +13
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pack (2-4), or bloom (5-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aquatic Transparency (Ex)

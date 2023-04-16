@@ -5,7 +5,7 @@ name: Carnivorous Crystal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Carnivorous Crystal
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: blindsight
 aura: subsonic hum
 AC: 17, touch 5, flat-footed 17 (dex -5, natural +12)
 HP: 136
-HP_extra: 
 HD: 16d8+64
 saves: Fort +9, Ref +0, Will +0
 immune: cold, electricity, ooze traits
@@ -42,6 +41,7 @@ ecology:
     desc: any underground (Plane of Earth)
   - name: Organisation
     desc: solitary, colony (2-4), or formation (5-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Brittle (Ex)

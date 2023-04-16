@@ -5,7 +5,7 @@ name: Vanth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Vanth
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, spiritsense
 aura: fear
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +11, Ref +6, Will +10
 immune: death effects, disease, poison

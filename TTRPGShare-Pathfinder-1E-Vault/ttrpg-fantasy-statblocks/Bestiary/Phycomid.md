@@ -5,7 +5,7 @@ name: Phycomid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Phycomid
 Monster_XP: 1200
@@ -16,7 +16,6 @@ INI: +0
 senses: tremorsense
 AC: 17, touch 11, flat-footed 17 (natural +6, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +2, Will +2
 immune: acid, plant traits
@@ -32,6 +31,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or infestation (2-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Acid Pellet (Ex)

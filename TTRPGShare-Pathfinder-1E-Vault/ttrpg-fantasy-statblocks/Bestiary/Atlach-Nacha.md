@@ -5,7 +5,7 @@ name: Atlach-Nacha
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 112: The Whisper Out of Time"
+source: "Pathfinder No. 112: The Whisper Out of Time"
 Monster_CR: 28
 name: Atlach-Nacha
 Monster_XP: 4915200
@@ -48,6 +48,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Critical Poisoning (Su)

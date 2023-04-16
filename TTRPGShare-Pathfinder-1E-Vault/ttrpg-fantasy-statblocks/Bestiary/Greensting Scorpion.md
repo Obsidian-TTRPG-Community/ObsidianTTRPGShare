@@ -5,7 +5,7 @@ name: Greensting Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/4
 name: Greensting Scorpion
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 18, touch 15, flat-footed 15 (dex +3, natural +3, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +3, Will +0
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: warm or temperate forests
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Shadow Animal Lion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Nidal, Land of Shadows"
+source: "Nidal, Land of Shadows"
 Monster_CR: 4
 name: Shadow Animal Lion
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 16, touch 14, flat-footed 11 (dex +5, natural +2, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +9, Will +3
 defensive_abilities: shadow blend
@@ -44,6 +43,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or pride (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blinding Savagery (Ex)

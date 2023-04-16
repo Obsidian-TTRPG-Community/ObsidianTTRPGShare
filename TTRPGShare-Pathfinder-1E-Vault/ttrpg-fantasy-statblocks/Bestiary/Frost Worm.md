@@ -5,7 +5,7 @@ name: Frost Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Frost Worm
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 27, touch 11, flat-footed 24 (dex +3, natural +16, size -2)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +15, Ref +13, Will +10
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: cold plains or mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Cold (Su)

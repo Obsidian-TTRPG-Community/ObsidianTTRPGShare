@@ -5,7 +5,7 @@ name: Hive Warrior
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 5
 name: Hive Warrior
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +14
 senses: blindsense, blindsight, hive mind
 AC: 20, touch 12, flat-footed 18 (dex +2, natural +8)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +4, Ref +4, Will +9
 immune: acid
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or hive (1-50 hive workers and warriors plus 1-20 larva swarms and 1 queen)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Acid Spit (Ex)

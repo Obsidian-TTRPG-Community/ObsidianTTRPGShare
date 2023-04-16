@@ -5,7 +5,7 @@ name: Crocodile
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Crocodile
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 14, touch 10, flat-footed 13 (dex +1, natural +4, size -1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +4, Will +2
 speed: 20 ft., other_semicolon sprint ft., swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm rivers and marshes
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Roll (Ex)

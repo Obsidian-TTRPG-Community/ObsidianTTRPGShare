@@ -5,7 +5,7 @@ name: Sandman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Sandman
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision, tremorsense
 aura: sleep
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +5, Will +3
 immune: elemental traits
@@ -42,6 +41,7 @@ ecology:
     desc: any land (Plane of Earth)
   - name: Organisation
     desc: solitary, gang (2-4), or shoal (5-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sand Form (Su)

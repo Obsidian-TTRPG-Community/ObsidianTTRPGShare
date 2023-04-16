@@ -5,7 +5,7 @@ name: Gale Spirit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 104: Wrath of Thrune"
+source: "Pathfinder No. 104: Wrath of Thrune"
 Monster_CR: 6
 name: Gale Spirit
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: darkvision, lifesense
 aura: unnatural aura
 AC: 20, touch 20, flat-footed 16 (deflection +5, dex +4, size +1)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +7, Ref +8, Will +5
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Baleful Gust (Su)

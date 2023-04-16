@@ -5,7 +5,7 @@ name: Skittergoat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 91: Battle of Bloodmarch Hills"
+source: "Pathfinder No. 91: Battle of Bloodmarch Hills"
 Monster_CR: 1/2
 name: Skittergoat
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref +5, Will +0
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate hills or plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Egg Cracker (Ex)

@@ -5,7 +5,7 @@ name: Gare Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 50: Night of Frozen Shadows"
+source: "Pathfinder No. 50: Night of Frozen Shadows"
 Monster_CR: 15
 name: Gare Linnorm
 Monster_XP: 51200
@@ -42,6 +42,7 @@ ecology:
     desc: cold rivers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

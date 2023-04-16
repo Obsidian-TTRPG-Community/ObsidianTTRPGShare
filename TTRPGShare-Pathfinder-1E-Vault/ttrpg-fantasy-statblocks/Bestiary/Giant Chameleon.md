@@ -5,7 +5,7 @@ name: Giant Chameleon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Giant Chameleon
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +6, Will +1
 speed: 40 ft., climb 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests and mountains
   - name: Organisation
     desc: solitary, pair, or blend (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tongue (Ex)

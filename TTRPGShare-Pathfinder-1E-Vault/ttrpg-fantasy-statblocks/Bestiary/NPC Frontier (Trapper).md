@@ -5,7 +5,7 @@ name: NPC Frontier (Trapper)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 3
 name: NPC Frontier (Trapper)
 Monster_XP: 800
@@ -18,7 +18,6 @@ INI: +2
 perception: +7
 AC: 17, touch 13, flat-footed 14 (armor +3, dex +2, dodge +1, shield +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +5, Ref +6, Will +2
 speed: 30 ft.

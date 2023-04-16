@@ -5,7 +5,7 @@ name: NPC Aspis Consortium Commander
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 13
 name: NPC Aspis Consortium Commander
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +5
 perception: +15
 AC: 21, touch 16, flat-footed 16 (armor +5, deflection +1, dex +5)
 HP: 110
-HP_extra: 
 HD: 13d8+48
 saves: Fort +8, Ref +15, Will +7
 defensive_abilities: evasion, improved uncanny dodge, trap sense +5

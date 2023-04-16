@@ -5,7 +5,7 @@ name: Black Pudding
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Black Pudding
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 3, touch 3, flat-footed 3 (size -2, dex -5)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +9, Ref -2, Will -2
 defensive_abilities: split, ooze traits
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

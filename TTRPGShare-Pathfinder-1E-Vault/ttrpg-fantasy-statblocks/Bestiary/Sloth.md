@@ -5,7 +5,7 @@ name: Sloth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/6
 name: Sloth
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision, scent
 AC: 11, touch 10, flat-footed 11 (dex -2, natural +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +0, Will +1
 speed: 5 ft., climb 5 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

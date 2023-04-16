@@ -5,7 +5,7 @@ name: Chuul, Lesser
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 4
 name: Chuul, Lesser
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +3, Will +5
 speed: 30 ft., swim 20 ft.

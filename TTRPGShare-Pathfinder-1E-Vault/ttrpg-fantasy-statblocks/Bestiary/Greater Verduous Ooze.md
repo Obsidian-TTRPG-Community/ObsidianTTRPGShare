@@ -5,7 +5,7 @@ name: Greater Verduous Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 35: War of the River Kings"
+source: "Pathfinder No. 35: War of the River Kings"
 Monster_CR: 11
 name: Greater Verduous Ooze
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: blindsight, tremorsense
 aura: sleep
 AC: 6, touch 4, flat-footed 6 (dex -5, natural armor +2, size -1)
 HP: 175
-HP_extra: 
 HD: 15d8+54
 saves: Fort +13, Ref +0, Will +0
 immune: acid, fire, mind-affecting effects, ooze traits, slashing and piercing damage

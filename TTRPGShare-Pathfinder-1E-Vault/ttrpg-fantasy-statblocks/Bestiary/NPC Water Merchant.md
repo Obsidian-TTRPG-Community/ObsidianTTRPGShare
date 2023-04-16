@@ -5,7 +5,7 @@ name: NPC Water Merchant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Water Merchant
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +13
 senses: low-light vision
 AC: 28, touch 15, flat-footed 25 (armor +7, deflection +1, dex +3, natural +3, shield +3, size +1)
 HP: 88
-HP_extra: 
 HD: 10d8+40
 saves: Fort +10, Ref +9, Will +12
 saves_other: +2 vs. illusions, +4 vs. fey and plant-targeted effects

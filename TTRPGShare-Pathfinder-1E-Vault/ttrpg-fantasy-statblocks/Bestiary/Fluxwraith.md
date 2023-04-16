@@ -5,7 +5,7 @@ name: Fluxwraith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 126: Beyond the Veiled Past"
+source: "Pathfinder No. 126: Beyond the Veiled Past"
 Monster_CR: 17
 name: Fluxwraith
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision, lifesense
 aura: slow aura
 AC: 26, touch 26, flat-footed 16 (deflection +6, dex +9, dodge +1)
 HP: 273
-HP_extra: 
 HD: 26d8+156
 saves: Fort +14, Ref +17, Will +20
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or cluster (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Slow Aura (Su)

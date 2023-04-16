@@ -5,7 +5,7 @@ name: Thognorok
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Thognorok
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 16, touch 9, flat-footed 16 (dex -1, natural +7)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +0, Will +5
 immune: cold, mind-affecting effects, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or gang (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid Web (Su)

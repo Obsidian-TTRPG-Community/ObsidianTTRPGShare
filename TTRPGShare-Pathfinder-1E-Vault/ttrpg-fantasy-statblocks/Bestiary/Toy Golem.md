@@ -5,7 +5,7 @@ name: Toy Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 5
 name: Toy Golem
 Monster_XP: 1600

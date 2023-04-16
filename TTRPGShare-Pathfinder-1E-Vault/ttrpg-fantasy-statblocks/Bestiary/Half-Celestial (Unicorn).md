@@ -5,7 +5,7 @@ name: Half-Celestial (Unicorn)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Half-Celestial (Unicorn)
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, scent
 aura: magic circle against evil
 AC: 17, touch 13, flat-footed 13 (dex +4, natural +4, size -1, deflection vs. evil +2)
 HP: 42
-HP_extra: 
 HD: 4d10+20
 saves: Fort +9, Ref +8, Will +8
 saves_other: +4 vs. poison
@@ -48,6 +47,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, mated pair, or blessing (3-6)
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

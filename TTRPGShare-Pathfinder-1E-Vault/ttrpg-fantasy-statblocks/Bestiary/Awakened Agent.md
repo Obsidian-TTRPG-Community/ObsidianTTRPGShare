@@ -5,7 +5,7 @@ name: Awakened Agent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 11
 name: Awakened Agent
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +6
 perception: +9
 AC: 14, touch 13, flat-footed 12 (deflection +1, dex +2, natural +1)
 HP: 66
-HP_extra: 
 HD: 12d6+24
 saves: Fort +8, Ref +8, Will +11
 saves_other: +2 vs. non-aboleth enchantments and -2 vs. aboleth enchantments

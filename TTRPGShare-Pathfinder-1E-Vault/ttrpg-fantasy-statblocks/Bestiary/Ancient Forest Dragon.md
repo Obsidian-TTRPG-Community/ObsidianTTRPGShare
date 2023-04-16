@@ -5,7 +5,7 @@ name: Ancient Forest Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 19
 name: Ancient Forest Dragon
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: dragon senses, tremorsense
 aura: frightful presence
 AC: 39, touch 5, flat-footed 39 (dex -1, natural +34, size -4)
 HP: 387
-HP_extra: 
 HD: 25d12+225
 saves: Fort +22, Ref +13, Will +21
 immune: paralysis, poison, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

@@ -5,7 +5,7 @@ name: Chimney Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Daughters of Fury"
+source: "Daughters of Fury"
 Monster_CR: 2
 name: Chimney Troll
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 11 (dex +3, natural +2, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +4, Will +1
 resist: fire 10
@@ -44,6 +43,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or gang (2-3)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Inhale Flames (Ex)

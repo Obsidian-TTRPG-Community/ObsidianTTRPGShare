@@ -5,7 +5,7 @@ name: Mimic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Mimic
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +5, Will +6
 immune: acid
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Adhesive (Ex)

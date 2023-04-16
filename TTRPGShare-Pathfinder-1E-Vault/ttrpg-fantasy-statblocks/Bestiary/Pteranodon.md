@@ -5,7 +5,7 @@ name: Pteranodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Pteranodon
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 16, touch 14, flat-footed 11 (dex +4, dodge +1, natural +2, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +8, Will +3
 speed: 10 ft., fly 50 ft. (clumsy)
@@ -35,6 +34,7 @@ ecology:
     desc: warm coastline
   - name: Organisation
     desc: solitary, pair, or flock (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

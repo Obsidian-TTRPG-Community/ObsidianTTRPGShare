@@ -5,7 +5,7 @@ name: Giant Mosquito
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Giant Mosquito
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, scent
 AC: 19, touch 17, flat-footed 12 (dex +7, natural +2)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +9, Ref +9, Will +3
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or tropical swamps
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

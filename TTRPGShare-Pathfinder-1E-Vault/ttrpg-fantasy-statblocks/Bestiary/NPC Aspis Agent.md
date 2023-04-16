@@ -5,7 +5,7 @@ name: NPC Aspis Agent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 4
 name: NPC Aspis Agent
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +2
 perception: +10
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 26
-HP_extra: 
 HD: 5d8
 saves: Fort +0, Ref +6, Will +5
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

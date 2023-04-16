@@ -5,7 +5,7 @@ name: Mythic Wyvern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 8
 name: Mythic Wyvern
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, low-light vision, scent
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 103
-HP_extra: 
 HD: 7d12+58
 saves: Fort +9, Ref +6, Will +8
 immune: dragon traits, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: temperate or warm hills
   - name: Organisation
     desc: solitary, pair, or flight (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

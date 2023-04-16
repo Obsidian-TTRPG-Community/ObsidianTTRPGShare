@@ -5,7 +5,7 @@ name: Clockwork Snail
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Wardens of the Reborn Forge"
+source: "Wardens of the Reborn Forge"
 Monster_CR: 10
 name: Clockwork Snail
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 26, touch 14, flat-footed 21 (dex +3, dodge +2, natural +12, size -1)
 HP: 101
-HP_extra: 
 HD: 13d10+30
 saves: Fort +4, Ref +9, Will +4
 immune: construct traits, eidite sickness

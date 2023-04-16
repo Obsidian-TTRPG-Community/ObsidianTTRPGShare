@@ -5,7 +5,7 @@ name: Pavbagha
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Pavbagha
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, scent
 aura: courage
 AC: 16, touch 10, flat-footed 15 (dex +1, natural +6, size -1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +4, Will +7
 immune: fear
@@ -46,6 +45,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary, pair, or pride (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Courage (Su)

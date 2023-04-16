@@ -5,7 +5,7 @@ name: NPC Fatal Axe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Fatal Axe
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +25
 senses: darkvision
 AC: 24, touch 13, flat-footed 24 (armor +9, deflection +2, insight +1, natural +2)
 HP: 183
-HP_extra: 
 HD: 10d8+10d8+90
 saves: Fort +12, Ref +14, Will +12
 saves_other: +2 vs. spells and spell-like abilities

@@ -5,7 +5,7 @@ name: Olethrodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 20
 name: Olethrodaemon
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: unholy aura
 AC: 38, touch 18, flat-footed 30 (deflection +4, dex +8, natural +20, size -4)
 HP: 370
-HP_extra: 
 HD: 20d10+260
 saves: Fort +29, Ref +18, Will +26
 immune: acid, death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or apocalypse (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Adamantine Claws (Ex)

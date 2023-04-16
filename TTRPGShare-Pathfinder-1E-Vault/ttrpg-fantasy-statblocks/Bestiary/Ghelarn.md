@@ -5,7 +5,7 @@ name: Ghelarn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 85: Fires of Creation"
+source: "Pathfinder No. 85: Fires of Creation"
 Monster_CR: 2
 name: Ghelarn
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, tremorsense
 AC: 14, touch 9, flat-footed 14 (natural +5, size -1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +4, Ref +1, Will +5
 resist: fire 5
@@ -42,6 +41,7 @@ ecology:
     desc: cold or temperate deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Carapace (Ex)

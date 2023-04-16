@@ -5,7 +5,7 @@ name: NPC Osirionologist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 7
 name: NPC Osirionologist
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +3
 perception: +14
 AC: 19, touch 14, flat-footed 15 (armor +5, dex +3, dodge +1)
 HP: 71
-HP_extra: 
 HD: 8d8+32
 saves: Fort +6, Ref +9, Will +5
 defensive_abilities: evasion, trap sense +2, uncanny dodge

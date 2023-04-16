@@ -5,7 +5,7 @@ name: Young Solar Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Young Solar Dragon
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +15
 senses: dragon senses, see in darkness
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 115
-HP_extra: 
 HD: 11d12+44
 saves: Fort +10, Ref +11, Will +10
 immune: fire, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

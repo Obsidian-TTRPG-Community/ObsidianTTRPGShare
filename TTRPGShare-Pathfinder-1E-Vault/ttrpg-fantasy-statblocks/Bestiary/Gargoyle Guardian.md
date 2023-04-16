@@ -5,7 +5,7 @@ name: Gargoyle Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 8
 name: Gargoyle Guardian
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 22, touch 11, flat-footed 20 (dex +2, natural +11, size -1)
 HP: 90
-HP_extra: 
 HD: 11d10+30
 saves: Fort +3, Ref +5, Will +3
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or wing (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Freeze (Ex)

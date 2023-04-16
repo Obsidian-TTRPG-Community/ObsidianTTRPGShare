@@ -5,7 +5,7 @@ name: Multiplying T-Rex Skeleton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 9
 name: Multiplying T-Rex Skeleton
 Monster_XP: 6400
@@ -16,7 +16,6 @@ INI: +6
 senses: darkvision
 AC: 14, touch 8, flat-footed 12 (dex +2, natural +6, size -4)
 HP: 81
-HP_extra: 
 HD: 18d8
 saves: Fort +6, Ref +8, Will +11
 immune: cold, undead traits

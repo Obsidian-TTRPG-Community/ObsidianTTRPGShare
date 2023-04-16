@@ -5,7 +5,7 @@ name: NPC Taunting Comedian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Taunting Comedian
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +3
 perception: +1
 AC: 18, touch 13, flat-footed 15 (armor +5, dex +3)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +8, Will +4
 saves_other: +2 vs. fear, +4 vs. bardic performance, language-dependent, and sonic

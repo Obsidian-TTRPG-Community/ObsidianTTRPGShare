@@ -5,7 +5,7 @@ name: Accomplice Devil (Hesperian)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Accomplice Devil (Hesperian)
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, detect good, see in darkness
 AC: 17, touch 10, flat-footed 17 (natural +7)
 HP: 33
-HP_extra: 
 HD: 6d10
 saves: Fort +5, Ref +2, Will +8
 immune: fire, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or cabal (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: All-Around Vision (Ex)

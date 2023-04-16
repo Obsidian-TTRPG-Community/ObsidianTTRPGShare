@@ -5,7 +5,7 @@ name: NPC Natural Arcanist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Natural Arcanist
 Monster_XP: 51200
@@ -19,7 +19,6 @@ INI: +3
 perception: +12
 AC: 23, touch 18, flat-footed 19 (armor +3, deflection +3, dex +3, dodge +1, natural +2, size +1)
 HP: 137
-HP_extra: 
 HD: 16d6+79
 saves: Fort +11, Ref +12, Will +16
 saves_other: +2 vs. fear

@@ -5,7 +5,7 @@ name: Ataxian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Ataxian
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsense, darkvision
 AC: 16, touch 13, flat-footed 15 (dex +1, natural +3, size +2)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +2, Will +5
 immune: poison, fear
@@ -44,6 +43,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or brawl (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Possession (Su)

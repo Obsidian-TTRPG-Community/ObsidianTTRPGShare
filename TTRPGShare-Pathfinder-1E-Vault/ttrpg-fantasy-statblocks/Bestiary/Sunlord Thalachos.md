@@ -5,7 +5,7 @@ name: Sunlord Thalachos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Sunlord Thalachos
 Monster_XP: 51200

@@ -5,7 +5,7 @@ name: Sodden Drauger Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 9
 name: Sodden Drauger Troop
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stench
 AC: 23, touch 13, flat-footed 20 (armor +4, dex +2, dodge +1, natural +6)
 HP: 93
-HP_extra: 
 HD: 11d8+44
 saves: Fort +6, Ref +7, Will +9
 immune: undead traits
@@ -44,6 +43,7 @@ ecology:
     desc: any coastal
   - name: Organisation
     desc: solitary, horde (2-4), or uprising (5-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Opportunist Mauler (Ex)

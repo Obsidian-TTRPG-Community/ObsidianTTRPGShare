@@ -5,7 +5,7 @@ name: Tear of Nuruu'gal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Cities of Golarion"
+source: "Lost Cities of Golarion"
 Monster_CR: 6
 name: Tear of Nuruu'gal
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: -3
 senses: blindsight
 AC: 6, touch 6, flat-footed 6 (dex -5, size +1)
 HP: 62
-HP_extra: 
 HD: 5d8+40
 saves: Fort +8, Ref -4, Will -2
 immune: fire, ooze traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pack (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Symbiosis (Ex)

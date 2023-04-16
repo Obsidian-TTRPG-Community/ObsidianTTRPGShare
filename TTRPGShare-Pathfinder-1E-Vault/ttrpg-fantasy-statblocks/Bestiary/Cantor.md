@@ -5,7 +5,7 @@ name: Cantor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 9
 name: Cantor
 Monster_XP: 6400
@@ -38,6 +38,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or expedition (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lingering Touch (Su)

@@ -5,7 +5,7 @@ name: Ghoul Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Ghoul Stalker
 Monster_XP: 2400
@@ -19,7 +19,6 @@ perception: +14
 senses: darkvision
 AC: 18, touch 15, flat-footed 13 (armor +1, dex +5, natural +2)
 HP: 74
-HP_extra: 
 HD: 8d8+38
 saves: Fort +5, Ref +10, Will +8
 immune: undead traits

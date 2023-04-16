@@ -5,7 +5,7 @@ name: Wild Hunt Monarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 19
 name: Wild Hunt Monarch
 Monster_XP: 204800
@@ -18,7 +18,6 @@ perception: +37
 senses: greensight, low-light vision, mistsight, scent, see in darkness
 AC: 34, touch 26, flat-footed 26 (deflection +8, dex +7, dodge +1, natural +8)
 HP: 325
-HP_extra: 
 HD: 26d6+234
 saves: Fort +19, Ref +22, Will +23
 immune: cold

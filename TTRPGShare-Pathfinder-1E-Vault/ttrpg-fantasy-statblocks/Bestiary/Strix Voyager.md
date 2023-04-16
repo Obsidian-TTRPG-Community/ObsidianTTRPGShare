@@ -5,7 +5,7 @@ name: Strix Voyager
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 5
 name: Strix Voyager
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 19, touch 12, flat-footed 17 (armor +5, dex +2, natural +1, shield +1)
 HP: 27
-HP_extra: 
 HD: 6d8
 saves: Fort +1, Ref +7, Will +6
 saves_other: +4 vs. bardic performance, language-dependent, and sonic, +2 bonus vs. illusion spells or effects

@@ -5,7 +5,7 @@ name: Comozant Wyrd
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Comozant Wyrd
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 18, touch 18, flat-footed 15 (deflection +4, dex +3, size +1)
 HP: 27
-HP_extra: 
 HD: 5d10
 saves: Fort +1, Ref +9, Will +7
 immune: cold, electricity, elemental traits
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans (during storms)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Illuminating Flames (Su)

@@ -5,7 +5,7 @@ name: Mockingfey
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1
 name: Mockingfey
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 13
-HP_extra: 
 HD: 3d6+3
 saves: Fort +2, Ref +6, Will +4
 speed: 20 ft., fly 60 ft. (good)
@@ -37,6 +36,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary, pair, or jape (3-20)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Mock (Su)

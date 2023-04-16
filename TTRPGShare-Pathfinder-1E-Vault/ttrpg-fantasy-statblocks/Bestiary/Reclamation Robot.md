@@ -5,7 +5,7 @@ name: Reclamation Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 88: Valley of the Brain Collectors"
+source: "Pathfinder No. 88: Valley of the Brain Collectors"
 Monster_CR: 12
 name: Reclamation Robot
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, low-light vision
 AC: 27, touch 16, flat-footed 20 (dex +7, natural +11, size -1)
 HP: 168
-HP_extra: 
 HD: 16d10+30 plus 50 hp force field
 saves: Fort +7, Ref +12, Will +7
 immune: construct traits
@@ -47,6 +46,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, duo, or work gang (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Combined Arms (Ex)

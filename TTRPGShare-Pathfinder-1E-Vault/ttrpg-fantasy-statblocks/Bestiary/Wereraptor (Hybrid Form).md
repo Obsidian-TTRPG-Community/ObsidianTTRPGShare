@@ -5,7 +5,7 @@ name: Wereraptor (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 3
 name: Wereraptor (Hybrid Form)
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 18, touch 13, flat-footed 15 (armor +2, dex +3, natural +3)
 HP: 30
-HP_extra: 
 HD: 3d10+9
 saves: Fort +5, Ref +6, Will +3
 DR: 10/silver

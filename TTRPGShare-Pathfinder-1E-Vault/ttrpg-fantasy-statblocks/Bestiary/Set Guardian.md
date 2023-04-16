@@ -5,7 +5,7 @@ name: Set Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
+source: "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
 Monster_CR: 13
 name: Set Guardian
 Monster_XP: 25600
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision, low-light vision
 AC: 29, touch 9, flat-footed 27 (dex +1, natural +19, size -1)
 HP: 151
-HP_extra: 
 HD: 22d10+30
 saves: Fort +7, Ref +8, Will +10
 immune: construct traits, fire

@@ -5,7 +5,7 @@ name: Demonic Giant Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Worldwound"
+source: "The Worldwound"
 Monster_CR: 2
 name: Demonic Giant Spider
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, tremorsense
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +5, Ref +4, Will +1
 immune: acid, electricity, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

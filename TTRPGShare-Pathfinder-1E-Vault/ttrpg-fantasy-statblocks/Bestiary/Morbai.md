@@ -5,7 +5,7 @@ name: Morbai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 6
 name: Morbai
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision, spiritsense
 AC: 20, touch 15, flat-footed 16 (dex +4, natural +5, size +1)
 HP: 68
-HP_extra: 
 HD: 8d10+40
 saves: Fort +13, Ref +6, Will +9
 immune: death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary, pair, or team (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Healer’s Muse (Su)

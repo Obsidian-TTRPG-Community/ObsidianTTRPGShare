@@ -5,7 +5,7 @@ name: Sifkesh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 75: Demon's Heresy"
+source: "Pathfinder No. 75: Demon's Heresy"
 Monster_CR: 28
 name: Sifkesh
 Monster_XP: 4915200

@@ -5,7 +5,7 @@ name: NPC Shoanti Gladiator
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 2
 name: NPC Shoanti Gladiator
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +0
 perception: +8
 AC: 15, touch 8, flat-footed 15 (armor +7, rage -2)
 HP: 34
-HP_extra: 
 HD: 3d12+9
 saves: Fort +6, Ref +1, Will +5
 defensive_abilities: uncanny dodge, trap sense +1

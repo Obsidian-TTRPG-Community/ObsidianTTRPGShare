@@ -5,7 +5,7 @@ name: Ancient Crystal Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 15
 name: Ancient Crystal Dragon
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: dragon senses, tremorsense
 aura: frightful presence
 AC: 37, touch 8, flat-footed 37 (natural +29, size -2)
 HP: 283
-HP_extra: 
 HD: 21d12+147
 saves: Fort +21, Ref +14, Will +17
 immune: paralysis, sleep, sonic
@@ -44,6 +43,7 @@ ecology:
     desc: any underground (Plane of Earth)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

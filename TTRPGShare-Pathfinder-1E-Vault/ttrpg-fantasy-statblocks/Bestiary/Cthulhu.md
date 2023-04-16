@@ -5,7 +5,7 @@ name: Cthulhu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 30
 name: Cthulhu
 Monster_XP: 9830400
@@ -45,6 +45,7 @@ ecology:
     desc: any (R’lyeh)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Cleaving Claws (Ex)

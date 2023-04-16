@@ -5,7 +5,7 @@ name: NPC Demon Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Demon Hunter
 Monster_XP: 204800
@@ -21,7 +21,6 @@ senses: darkvision
 aura: courage, faith, justice, resolve, righteousness
 AC: 30, touch 14, flat-footed 30 (armor +14, deflection +4, natural +2)
 HP: 214
-HP_extra: 
 HD: 20d10+100
 saves: Fort +23, Ref +14, Will +19
 immune: charm, compulsion, disease, fear, poison

@@ -5,7 +5,7 @@ name: Hive Larva Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 5
 name: Hive Larva Swarm
 Monster_XP: 1600
@@ -17,7 +17,6 @@ INI: +2
 senses: blindsense, blingsight, hibe mind
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +4, Will +5
 immune: acid, mind-affecting effects, weapon damage
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or hive (1-20 plus 1-50 hive workers and warriors and 1 queen)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Infest (Ex)

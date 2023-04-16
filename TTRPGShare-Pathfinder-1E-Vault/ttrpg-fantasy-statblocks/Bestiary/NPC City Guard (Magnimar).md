@@ -5,7 +5,7 @@ name: NPC City Guard (Magnimar)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 1/2
 name: NPC City Guard (Magnimar)
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +4
 perception: +3
 AC: 15, touch 10, flat-footed 15 (armor +5)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +3, Ref +0, Will +1
 speed: 20 ft.

@@ -5,7 +5,7 @@ name: Enlightened Construct Clockwork Soldier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 8
 name: Enlightened Construct Clockwork Soldier
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, lifesense, low-light vision
 AC: 20, touch 14, flat-footed 16 (dex +2, dodge +2, natural +6)
 HP: 64
-HP_extra: 
 HD: 8d10+20
 saves: Fort +2, Ref +6, Will +2
 saves_other: +4 vs. enchantments

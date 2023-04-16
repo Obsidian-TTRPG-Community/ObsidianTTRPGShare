@@ -5,7 +5,7 @@ name: Indarugant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 94: Ice Tomb of the Giant Queen"
+source: "Pathfinder No. 94: Ice Tomb of the Giant Queen"
 Monster_CR: 14
 name: Indarugant
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +27
 senses: darkvision
 AC: 29, touch 11, flat-footed 26 (armor +4, dex +2, dodge +1, natural +14, size -2)
 HP: 190
-HP_extra: 
 HD: 20d8+100
 saves: Fort +10, Ref +10, Will +16
 immune: cold, undead traits

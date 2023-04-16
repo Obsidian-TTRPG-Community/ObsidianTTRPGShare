@@ -5,7 +5,7 @@ name: Mythic Graeae
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Mythic Graeae
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: blindsense, darkvision
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 65
-HP_extra: 
 HD: 6d10+32
 saves: Fort +3, Ref +8, Will +8
 DR: 5/epic
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, a pair, or coven (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Coven (Ex)

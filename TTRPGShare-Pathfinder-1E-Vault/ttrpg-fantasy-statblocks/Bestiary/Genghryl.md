@@ -5,7 +5,7 @@ name: Genghryl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 11
 name: Genghryl
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision, tremorsense
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +12, Will +9
 resist: acid 10, cold 10
@@ -43,6 +42,7 @@ ecology:
     desc: any plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disturbing Vocalizations (Su)

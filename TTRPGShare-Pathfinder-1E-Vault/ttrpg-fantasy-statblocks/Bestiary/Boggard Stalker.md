@@ -5,7 +5,7 @@ name: Boggard Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Boggard Stalker
 Monster_XP: 6400

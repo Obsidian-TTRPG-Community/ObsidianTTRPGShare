@@ -5,7 +5,7 @@ name: Mindslaver Mold
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Mindslaver Mold
 Monster_XP: 800
@@ -39,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or infestation (2-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Avoidance (Ex)

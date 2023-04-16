@@ -5,7 +5,7 @@ name: Giant Ant Spore Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Giant Ant Spore Zombie
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, scent
 AC: 17, touch 10, flat-footed 17 (natural +7)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +4, Ref +3, Will +5
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or bloom (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

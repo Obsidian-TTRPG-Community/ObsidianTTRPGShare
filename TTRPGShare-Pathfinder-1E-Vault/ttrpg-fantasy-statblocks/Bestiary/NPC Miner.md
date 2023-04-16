@@ -5,7 +5,7 @@ name: NPC Miner
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Miner
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 11, touch 9, flat-footed 11 (armor +2, dex -1)
 HP: 16
-HP_extra: 
 HD: 3d6+6
 saves: Fort +3, Ref +0, Will +2
 saves_other: +2 vs. poison, spells, and spell-like abilities

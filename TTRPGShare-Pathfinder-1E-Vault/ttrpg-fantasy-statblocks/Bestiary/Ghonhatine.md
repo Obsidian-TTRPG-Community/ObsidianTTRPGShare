@@ -5,7 +5,7 @@ name: Ghonhatine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Ghonhatine
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision, scent
 aura: powerful stench
 AC: 24, touch 7, flat-footed 24 (dex -2, natural +17, size -1)
 HP: 162
-HP_extra: 
 HD: 12d8+108
 saves: Fort +13, Ref +2, Will +6
 immune: acid, critical hits, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or squad (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Feed (Su)

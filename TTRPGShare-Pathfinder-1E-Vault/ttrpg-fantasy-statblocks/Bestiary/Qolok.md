@@ -5,7 +5,7 @@ name: Qolok
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Qolok
 Monster_XP: 76800
@@ -44,6 +44,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary or terror (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Instill Phobia (Su)

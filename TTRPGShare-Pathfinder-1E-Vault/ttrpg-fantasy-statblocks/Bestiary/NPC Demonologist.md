@@ -5,7 +5,7 @@ name: NPC Demonologist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Demonologist
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +22
 senses: see invisibility
 AC: 27, touch 15, flat-footed 27 (armor +7, deflection +5, natural +5)
 HP: 112
-HP_extra: 
 HD: 10d6+10d6+40
 saves: Fort +14, Ref +13, Will +21
 speed: 30 ft.

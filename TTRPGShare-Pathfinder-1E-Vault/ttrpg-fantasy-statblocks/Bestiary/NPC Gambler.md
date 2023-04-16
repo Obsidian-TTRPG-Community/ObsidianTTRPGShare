@@ -5,7 +5,7 @@ name: NPC Gambler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Gambler
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +1
 perception: +10
 AC: 16, touch 11, flat-footed 15 (armor +5, dex +1)
 HP: 49
-HP_extra: 
 HD: 7d8+14
 saves: Fort +3, Ref +6, Will +5
 saves_other: +2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic

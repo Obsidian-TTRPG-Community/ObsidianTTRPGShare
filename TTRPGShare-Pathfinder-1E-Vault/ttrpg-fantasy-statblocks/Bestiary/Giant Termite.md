@@ -5,7 +5,7 @@ name: Giant Termite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Giant Termite
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, scent, tremorsense
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +1, Will +2
 immune: disease, mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: warm forests, plains, or underground
   - name: Organisation
     desc: solitary, pair, nest (3-9), or colony (10-60)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gnaw (Ex)

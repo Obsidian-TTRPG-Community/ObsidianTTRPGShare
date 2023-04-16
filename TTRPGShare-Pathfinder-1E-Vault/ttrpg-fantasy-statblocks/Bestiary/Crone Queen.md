@@ -5,7 +5,7 @@ name: Crone Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Crone Queen
 Monster_XP: 51200
@@ -42,6 +42,7 @@ ecology:
     desc: cold ruins
   - name: Organisation
     desc: solitary, coven (3-6), or court (12-14)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Cold (Ex)

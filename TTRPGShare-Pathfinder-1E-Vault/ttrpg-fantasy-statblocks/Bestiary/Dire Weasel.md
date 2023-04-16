@@ -5,7 +5,7 @@ name: Dire Weasel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Dire Weasel
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 17, touch 12, flat-footed 14 (dex +3, natural +5, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +7, Will +2
 speed: 40 ft.
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or den (3-6)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 4

@@ -5,7 +5,7 @@ name: Narrik
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 7
 name: Narrik
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: darkvision, scent, taste fear
 aura: frightful presence
 AC: 21, touch 15, flat-footed 15 (dex +4, dodge +1, natural +6)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +7, Ref +7, Will +9
 defensive_abilities: alien anatomy
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Alien Anatomy (Ex)

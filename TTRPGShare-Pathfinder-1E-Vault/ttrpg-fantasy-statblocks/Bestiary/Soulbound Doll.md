@@ -5,7 +5,7 @@ name: Soulbound Doll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Soulbound Doll
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +3
 senses: darkvision, low-light vision
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +1, Ref +3, Will +1
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or family (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Alignment Variation (Ex)

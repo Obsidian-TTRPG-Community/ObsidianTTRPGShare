@@ -5,7 +5,7 @@ name: Ancient Void Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 18
 name: Ancient Void Dragon
 Monster_XP: 153600
@@ -18,7 +18,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 38, touch 6, flat-footed 38 (natural +32, size -4)
 HP: 324
-HP_extra: 
 HD: 24d12+168
 saves: Fort +21, Ref +16, Will +21
 immune: cold, confusion, insanity effects, paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

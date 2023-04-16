@@ -5,7 +5,7 @@ name: Lampadarius
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Lampadarius
 Monster_XP: 1200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Shadow Plane)
   - name: Organisation
     desc: solitary, pair, or choir (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Semi-Incorporeal (Su)

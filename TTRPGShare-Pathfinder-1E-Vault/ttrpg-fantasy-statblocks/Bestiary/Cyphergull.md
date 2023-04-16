@@ -5,7 +5,7 @@ name: Cyphergull
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 133: Secrets of Roderic's Cove"
+source: "Pathfinder No. 133: Secrets of Roderic's Cove"
 Monster_CR: 2
 name: Cyphergull
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +5
 senses: arcane sight, darkvision, low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +6, Will +4
 speed: 10 ft., fly 50 ft. (good), swim 10 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate coasts
   - name: Organisation
     desc: solitary, pair, flock (3-12), or colony
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Arcane Attacks (Su)

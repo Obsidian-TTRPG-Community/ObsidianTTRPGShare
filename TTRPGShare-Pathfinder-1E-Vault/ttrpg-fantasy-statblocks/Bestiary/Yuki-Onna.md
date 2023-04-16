@@ -5,7 +5,7 @@ name: Yuki-Onna
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Yuki-Onna
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: snowstorm
 AC: 21, touch 21, flat-footed 16 (deflection +6, dex +4, dodge +1)
 HP: 94
-HP_extra: 
 HD: 9d8+54
 saves: Fort +9, Ref +7, Will +11
 immune: cold, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Chilling Touch (Su)

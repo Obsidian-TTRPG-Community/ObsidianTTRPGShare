@@ -5,7 +5,7 @@ name: Serpentfolk Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Serpentfolk Hunter
 Monster_XP: 2400
@@ -19,7 +19,6 @@ perception: +13
 senses: darkvision, scent
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 66
-HP_extra: 
 HD: 7d10+28
 saves: Fort +10, Ref +10, Will +4
 immune: mind-affecting effects, paralysis, poison

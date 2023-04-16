@@ -5,7 +5,7 @@ name: Tiyanak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Tiyanak
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, scent
 AC: 19, touch 17, flat-footed 13 (dex +5, dodge +1, natural +2, size +1)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +8, Will +7
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hobbling Gait (Ex)

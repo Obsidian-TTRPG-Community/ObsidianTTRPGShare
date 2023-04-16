@@ -5,7 +5,7 @@ name: NPC Scholar (Sage)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 11
 name: NPC Scholar (Sage)
 Monster_XP: 12800

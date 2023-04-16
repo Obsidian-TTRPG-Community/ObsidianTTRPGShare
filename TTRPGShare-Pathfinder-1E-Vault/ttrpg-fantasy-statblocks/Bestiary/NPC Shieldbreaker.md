@@ -5,7 +5,7 @@ name: NPC Shieldbreaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Shieldbreaker
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +3
 perception: +12
 AC: 24, touch 14, flat-footed 20 (armor +10, dex +3, dodge +1)
 HP: 134
-HP_extra: 
 HD: 12d10+64
 saves: Fort +14, Ref +8, Will +7
 saves_other: +2 vs. poison, spells, and spell-like abilities

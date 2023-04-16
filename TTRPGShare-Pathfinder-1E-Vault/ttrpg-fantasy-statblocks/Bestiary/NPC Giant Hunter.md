@@ -5,7 +5,7 @@ name: NPC Giant Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Giant Hunter
 Monster_XP: 38400
@@ -21,7 +21,6 @@ senses: low-light vision
 aura: courage, faith, justice, resolve
 AC: 24, touch 13, flat-footed 24 (armor +10, deflection +2, natural +1, size +1)
 HP: 137
-HP_extra: 
 HD: 15d10+50
 saves: Fort +16, Ref +10, Will +15
 saves_other: +2 vs. illusions

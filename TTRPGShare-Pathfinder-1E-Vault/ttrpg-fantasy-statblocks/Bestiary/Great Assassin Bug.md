@@ -5,7 +5,7 @@ name: Great Assassin Bug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Great Assassin Bug
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +6, Will +3
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any warm
   - name: Organisation
     desc: solitary or nest (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

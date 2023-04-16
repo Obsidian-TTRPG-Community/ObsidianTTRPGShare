@@ -5,7 +5,7 @@ name: Mythic Aboleth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 9
 name: Mythic Aboleth
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: mucus cloud
 AC: 23, touch 9, flat-footed 22 (dex +1, natural +14, size -2)
 HP: 118
-HP_extra: 
 HD: 9d8+78
 saves: Fort +9, Ref +6, Will +11
 DR: 5/epic
@@ -41,6 +40,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary, pair, brood (3-6), or shoal (7-19)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Mucus Cloud (Ex)

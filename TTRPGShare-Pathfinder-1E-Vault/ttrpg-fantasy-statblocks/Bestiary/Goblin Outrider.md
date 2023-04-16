@@ -5,7 +5,7 @@ name: Goblin Outrider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Goblin Outrider
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 20, touch 15, flat-footed 16 (armor +3, dex +4, shield +2, size +1)
 HP: 19
-HP_extra: 
 HD: 2d10+4
 saves: Fort +4, Ref +7, Will +1
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Amphisbaena
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Amphisbaena
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: all-around vision, darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +6, Ref +7, Will +3
 immune: petrification
@@ -42,6 +41,7 @@ ecology:
     desc: temperate hills or underground
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

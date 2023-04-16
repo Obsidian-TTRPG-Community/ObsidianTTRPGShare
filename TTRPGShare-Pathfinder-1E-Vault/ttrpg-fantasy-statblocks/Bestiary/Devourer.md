@@ -5,7 +5,7 @@ name: Devourer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Devourer
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 25, touch 12, flat-footed 22 (dex +3, natural +13, size -1)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +7, Will +12
 defensive_abilities: spell deflection, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devour Soul (Su)

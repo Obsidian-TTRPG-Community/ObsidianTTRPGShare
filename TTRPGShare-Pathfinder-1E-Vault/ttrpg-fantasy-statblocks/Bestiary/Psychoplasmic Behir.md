@@ -5,7 +5,7 @@ name: Psychoplasmic Behir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 9
 name: Psychoplasmic Behir
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 25, touch 11, flat-footed 22 (dex +3, natural +14, size -2)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +10, Will +5
 immune: electricity
@@ -45,6 +44,7 @@ ecology:
     desc: any (Astral Plane)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Grab (Ex)

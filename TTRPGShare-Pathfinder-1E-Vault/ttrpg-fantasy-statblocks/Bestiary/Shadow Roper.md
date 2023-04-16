@@ -5,7 +5,7 @@ name: Shadow Roper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Shadow Roper
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, low-light vision
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 162
-HP_extra: 
 HD: 12d8+108
 saves: Fort +13, Ref +5, Will +13
 immune: electricity
@@ -47,6 +46,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Strands (Ex)

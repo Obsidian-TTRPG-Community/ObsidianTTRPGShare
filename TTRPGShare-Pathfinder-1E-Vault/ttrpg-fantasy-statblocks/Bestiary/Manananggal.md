@@ -5,7 +5,7 @@ name: Manananggal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Manananggal
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision
 AC: 20, touch 14, flat-footed 16 (dex +3, dodge +1, natural +6)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +8, Will +10
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pack (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Separate (Su)

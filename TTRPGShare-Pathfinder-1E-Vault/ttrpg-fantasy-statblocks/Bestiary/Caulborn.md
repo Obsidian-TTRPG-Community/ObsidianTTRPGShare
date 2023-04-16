@@ -5,7 +5,7 @@ name: Caulborn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Caulborn
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +15
 senses: blindsense, darkvision, thoughtsense
 AC: 19, touch 18, flat-footed 15 (deflection +4, dex +4, natural +1)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +6, Ref +8, Will +13
 immune: visual effects
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Consume Thoughts (Ex)

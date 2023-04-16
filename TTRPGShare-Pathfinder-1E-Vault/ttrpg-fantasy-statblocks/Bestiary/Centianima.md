@@ -5,7 +5,7 @@ name: Centianima
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 103: The Hellfire Compact"
+source: "Pathfinder No. 103: The Hellfire Compact"
 Monster_CR: 4
 name: Centianima
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: all-around vision, darkvision
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +5, Ref +3, Will +5
 immune: cold, undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any ruins
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Burst of Bone (Ex)

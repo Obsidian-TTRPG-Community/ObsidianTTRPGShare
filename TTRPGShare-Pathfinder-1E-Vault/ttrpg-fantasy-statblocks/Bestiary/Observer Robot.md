@@ -5,7 +5,7 @@ name: Observer Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 86: Lords of Rust"
+source: "Pathfinder No. 86: Lords of Rust"
 Monster_CR: 2
 name: Observer Robot
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 18, touch 14, flat-footed 16 (dex +2, natural +4, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +1, Ref +5, Will +4
 immune: construct traits
@@ -45,6 +44,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary or deployment (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Camouflage (Ex)

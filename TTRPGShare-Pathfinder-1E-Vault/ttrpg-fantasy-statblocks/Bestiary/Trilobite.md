@@ -5,7 +5,7 @@ name: Trilobite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/4
 name: Trilobite
 Monster_XP: 100
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +0
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, group (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Curl (Ex)

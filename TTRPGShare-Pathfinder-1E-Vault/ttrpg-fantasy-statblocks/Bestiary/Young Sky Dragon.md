@@ -5,7 +5,7 @@ name: Young Sky Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Young Sky Dragon
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +22
 senses: cloud sight, dragon senses
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 95
-HP_extra: 
 HD: 10d12+30
 saves: Fort +10, Ref +10, Will +10
 immune: electricity, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

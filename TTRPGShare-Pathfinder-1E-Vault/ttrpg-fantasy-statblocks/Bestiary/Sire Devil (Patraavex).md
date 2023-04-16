@@ -5,7 +5,7 @@ name: Sire Devil (Patraavex)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 7
 name: Sire Devil (Patraavex)
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, see in darkness, see invisibility
 AC: 21, touch 15, flat-footed 16 (dex +5, natural +6)
 HP: 84
-HP_extra: 
 HD: 8d10+40
 saves: Fort +11, Ref +11, Will +4
 immune: fire, poison

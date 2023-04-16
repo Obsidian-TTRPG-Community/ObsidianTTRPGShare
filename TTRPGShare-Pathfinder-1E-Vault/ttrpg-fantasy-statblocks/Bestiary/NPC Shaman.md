@@ -5,7 +5,7 @@ name: NPC Shaman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Shaman
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 11, touch 9, flat-footed 11 (armor +2, dex -1)
 HP: 11
-HP_extra: 
 HD: 2d6+4
 saves: Fort +1, Ref +1, Will +5
 defensive_abilities: orc ferocity

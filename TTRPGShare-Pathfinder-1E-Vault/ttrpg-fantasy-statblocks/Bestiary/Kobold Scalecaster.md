@@ -5,7 +5,7 @@ name: Kobold Scalecaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1/2
 name: Kobold Scalecaster
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 7
-HP_extra: 
 HD: 1d6+1
 saves: Fort +0, Ref +3, Will +3
 weak: light sensitivity

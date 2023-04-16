@@ -5,7 +5,7 @@ name: Winter Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Winter Hag
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, see invisibility, snow vision
 AC: 20, touch 11, flat-footed 19 (dex +1, natural +9)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +8, Ref +8, Will +8
 immune: cold
@@ -43,6 +42,7 @@ ecology:
     desc: cold forests or plains
   - name: Organisation
     desc: solitary, patrol (1 plus 1 winter wolf), or coven (3 hags of any type)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

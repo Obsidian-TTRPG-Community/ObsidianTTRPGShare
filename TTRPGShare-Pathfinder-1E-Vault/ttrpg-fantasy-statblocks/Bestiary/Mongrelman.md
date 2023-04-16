@@ -5,7 +5,7 @@ name: Mongrelman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Mongrelman
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +2, Ref +4, Will +4
 speed: 30 ft.

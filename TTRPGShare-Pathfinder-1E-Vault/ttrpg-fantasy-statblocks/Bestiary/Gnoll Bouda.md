@@ -5,7 +5,7 @@ name: Gnoll Bouda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Gnoll Bouda
 Monster_XP: 25600

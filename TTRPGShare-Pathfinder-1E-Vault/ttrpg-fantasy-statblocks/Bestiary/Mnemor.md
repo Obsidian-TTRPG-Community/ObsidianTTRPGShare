@@ -5,7 +5,7 @@ name: Mnemor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 5
 name: Mnemor
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, detect magic, detect thoughts, see in darkness
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +6, Ref +9, Will +7
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Easily Forgotten (Su)

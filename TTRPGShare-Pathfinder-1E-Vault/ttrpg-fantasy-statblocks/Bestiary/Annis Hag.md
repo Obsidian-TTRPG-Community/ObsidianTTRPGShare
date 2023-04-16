@@ -5,7 +5,7 @@ name: Annis Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Annis Hag
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 66
-HP_extra: 
 HD: 7d10+28
 saves: Fort +8, Ref +6, Will +6
 DR: 5/bludgeoning
@@ -39,6 +38,7 @@ ecology:
     desc: cold marshes
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

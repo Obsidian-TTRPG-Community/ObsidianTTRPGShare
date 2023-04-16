@@ -5,7 +5,7 @@ name: Noqual Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 18
 name: Noqual Golem
 Monster_XP: 153600
@@ -17,7 +17,6 @@ senses: darkvision, low-light vision
 aura: impeded magic
 AC: 32, touch 10, flat-footed 30 (dex +2, natural +22, size -2)
 HP: 202
-HP_extra: 
 HD: 25d10+65
 saves: Fort +8, Ref +10, Will +8
 saves_other: +8 vs. spells, spell-like abilities, and supernatural abilities

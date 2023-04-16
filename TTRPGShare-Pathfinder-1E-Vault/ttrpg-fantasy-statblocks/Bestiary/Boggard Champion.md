@@ -5,7 +5,7 @@ name: Boggard Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Boggard Champion
 Monster_XP: 3200

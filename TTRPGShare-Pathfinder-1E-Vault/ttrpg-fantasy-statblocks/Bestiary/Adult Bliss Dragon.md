@@ -5,7 +5,7 @@ name: Adult Bliss Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 137: The City Outside of Time"
+source: "Pathfinder No. 137: The City Outside of Time"
 Monster_CR: 16
 name: Adult Bliss Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 32, touch 8, flat-footed 32 (natural +24, size -2)
 HP: 270
-HP_extra: 
 HD: 20d12+140
 saves: Fort +19, Ref +12, Will +17
 immune: ability damage, ability drain, electricity, paralysis, petrification, sleep

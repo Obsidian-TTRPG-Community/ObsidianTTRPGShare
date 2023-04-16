@@ -5,7 +5,7 @@ name: Panthereon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 82: Secrets of the Sphinx"
+source: "Pathfinder No. 82: Secrets of the Sphinx"
 Monster_CR: 11
 name: Panthereon
 Monster_XP: 12800
@@ -16,7 +16,6 @@ INI: +3
 senses: darkvision, low-light vision, true seeing
 AC: 24, touch 8, flat-footed 24 (dex -1, natural +16, size -1)
 HP: 118
-HP_extra: 
 HD: 16d10+30
 saves: Fort +5, Ref +4, Will +7
 immune: construct traits, magic

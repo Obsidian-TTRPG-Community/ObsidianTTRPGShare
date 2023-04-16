@@ -5,7 +5,7 @@ name: Hanshepsu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 83: The Slave Trenches of Hakotep"
+source: "Pathfinder No. 83: The Slave Trenches of Hakotep"
 Monster_CR: 10
 name: Hanshepsu
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 24, touch 14, flat-footed 20 (dex +4, natural +10)
 HP: 102
-HP_extra: 
 HD: 15d10+20
 saves: Fort +5, Ref +11, Will +8
 immune: construct traits, magic
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts (Osirion)
   - name: Organisation
     desc: solitary or unit (2-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Magic (Ex)

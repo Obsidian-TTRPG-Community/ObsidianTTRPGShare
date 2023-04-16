@@ -5,7 +5,7 @@ name: Oozlosh, Marsh Giant High Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 14
 name: Oozlosh, Marsh Giant High Priest
 Monster_XP: 38400

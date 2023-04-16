@@ -5,7 +5,7 @@ name: NPC Thunder Wizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Thunder Wizard
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +7
 perception: +10
 AC: 19, touch 15, flat-footed 16 (armor +4, deflection +1, dex +3, size +1)
 HP: 37
-HP_extra: 
 HD: 7d6+10
 saves: Fort +5, Ref +7, Will +10
 saves_other: +2 vs. fear

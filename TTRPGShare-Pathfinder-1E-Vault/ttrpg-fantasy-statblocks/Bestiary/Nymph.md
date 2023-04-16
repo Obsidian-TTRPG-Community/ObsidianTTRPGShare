@@ -5,7 +5,7 @@ name: Nymph
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Nymph
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: blinding beauty
 AC: 23, touch 23, flat-footed 17 (deflection +7, dex +5, dodge +1)
 HP: 60
-HP_extra: 
 HD: 8d6+32
 saves: Fort +13, Ref +18, Will +16
 DR: 10/cold iron

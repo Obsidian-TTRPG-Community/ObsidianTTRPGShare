@@ -5,7 +5,7 @@ name: Breathless Orchid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Gallows of Madness"
+source: "Gallows of Madness"
 Monster_CR: 2
 name: Breathless Orchid
 Monster_XP: 600
@@ -16,7 +16,6 @@ INI: +3
 senses: blindsight, low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +4, Will +2
 immune: plant traits
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or patch (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

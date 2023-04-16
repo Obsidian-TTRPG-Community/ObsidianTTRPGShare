@@ -5,7 +5,7 @@ name: Mythic Shen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 24
 name: Mythic Shen
 Monster_XP: 1228800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, mistsight, scent, see invisibility, true s
 aura: frightful presence
 AC: 44, touch 8, flat-footed 44 (dex +2, natural +38, size -4)
 HP: 568
-HP_extra: 
 HD: 29d12+380
 saves: Fort +26, Ref +20, Will +24
 immune: paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Change Shape (Su)

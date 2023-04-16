@@ -5,7 +5,7 @@ name: Skunk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/4
 name: Skunk
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +4, Will +1
 speed: 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or surfeit (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Musk (Ex)

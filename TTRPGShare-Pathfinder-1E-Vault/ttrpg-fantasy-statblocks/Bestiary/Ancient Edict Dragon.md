@@ -5,7 +5,7 @@ name: Ancient Edict Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 21
 name: Ancient Edict Dragon
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 41, touch 4, flat-footed 41 (dex -2, natural +35, shield +2, size -4)
 HP: 434
-HP_extra: 
 HD: 28d12+252
 saves: Fort +25, Ref +16, Will +25
 immune: disease, fear, paralysis, poison, sleep

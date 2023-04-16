@@ -5,7 +5,7 @@ name: Ochre Jelly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Ochre Jelly
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 63
-HP_extra: 
 HD: 6d8+36
 saves: Fort +8, Ref -3, Will -3
 immune: electricity, mind-affecting effects, ooze traits, slashing and piercing damage
@@ -37,6 +36,7 @@ ecology:
     desc: temperate underground or marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

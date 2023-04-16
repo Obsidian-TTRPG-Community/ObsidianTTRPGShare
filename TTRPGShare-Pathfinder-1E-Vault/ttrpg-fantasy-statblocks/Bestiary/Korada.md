@@ -5,7 +5,7 @@ name: Korada
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 26
 name: Korada
 Monster_XP: 2457600

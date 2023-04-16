@@ -5,7 +5,7 @@ name: NPC Tribe (Cannibal)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Tribe (Cannibal)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +1
 perception: +6
 AC: 13, touch 9, flat-footed 12 (armor +4, dex +1, rage -2)
 HP: 25
-HP_extra: 
 HD: 2d12+12
 saves: Fort +8, Ref +1, Will +3
 defensive_abilities: uncanny dodge

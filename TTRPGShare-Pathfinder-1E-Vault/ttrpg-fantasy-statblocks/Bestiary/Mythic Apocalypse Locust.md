@@ -5,7 +5,7 @@ name: Mythic Apocalypse Locust
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Mythic Apocalypse Locust
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 20, touch 9, flat-footed 20 (natural +11, size -1)
 HP: 75
-HP_extra: 
 HD: 6d10+42
 saves: Fort +7, Ref +2, Will +6
 DR: 5/epic
@@ -39,6 +38,7 @@ ecology:
     desc: any evil-aligned planes
   - name: Organisation
     desc: solitary, pair, or colony (3-30)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Abyssal Torment (Su)

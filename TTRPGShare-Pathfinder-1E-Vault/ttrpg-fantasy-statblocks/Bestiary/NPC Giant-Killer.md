@@ -5,7 +5,7 @@ name: NPC Giant-Killer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Giant-Killer
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +18
 senses: low-light vision
 AC: 24, touch 15, flat-footed 21 (armor +6, deflection +1, dex +2, dodge +1, natural +3, size +1)
 HP: 116
-HP_extra: 
 HD: 11d10+51
 saves: Fort +12, Ref +10, Will +6
 saves_other: +2 vs. illusions

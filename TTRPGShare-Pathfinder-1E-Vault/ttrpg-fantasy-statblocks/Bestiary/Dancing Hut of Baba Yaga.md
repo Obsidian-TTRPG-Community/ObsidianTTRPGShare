@@ -5,7 +5,7 @@ name: Dancing Hut of Baba Yaga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 68: The Shackled Hut"
+source: "Pathfinder No. 68: The Shackled Hut"
 Monster_CR: 17
 name: Dancing Hut of Baba Yaga
 Monster_XP: 102400
@@ -40,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary (none)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immortal Structure (Ex)

@@ -5,7 +5,7 @@ name: Iguanodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Iguanodon
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision, scent
 AC: 19, touch 10, flat-footed 17 (dex +2, natural +9, size -2)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +10, Ref +8, Will +4
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests or swamps
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Thumb Spikes (Ex)

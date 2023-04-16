@@ -5,7 +5,7 @@ name: Werebat (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Werebat (Hybrid Form)
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 16, touch 12, flat-footed 14 (armor +2, dex +2, natural +2)
 HP: 26
-HP_extra: 
 HD: 3d8+9
 saves: Fort +4, Ref +5, Will +3
 DR: 10/silver

@@ -5,7 +5,7 @@ name: Destrachan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Destrachan
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +27
 senses: blindsight
 AC: 19, touch 11, flat-footed 17 (dex +1, dodge +1, natural +8, size -1)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +9, Ref +7, Will +12
 immune: gaze attacks, visual effects, illusions, attacks relying on sight
@@ -42,6 +41,7 @@ ecology:
     desc: underground
   - name: Organisation
     desc: solitary, pair, or pack (3-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Destructive Harmonics (Su)

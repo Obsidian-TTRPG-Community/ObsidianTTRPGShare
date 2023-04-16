@@ -5,7 +5,7 @@ name: Devotee of the Ravener King
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 7
 name: Devotee of the Ravener King
 Monster_XP: 3200

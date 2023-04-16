@@ -5,7 +5,7 @@ name: Tikoloshe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 40: Vaults of Madness"
+source: "Pathfinder No. 40: Vaults of Madness"
 Monster_CR: 3
 name: Tikoloshe
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +12
 senses: blindsense, blindsight
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +2, Ref +3, Will +6
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: warm forests, oceans, or rivers
   - name: Organisation
     desc: solitary, gang (2-8), or clan (9-20)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blind

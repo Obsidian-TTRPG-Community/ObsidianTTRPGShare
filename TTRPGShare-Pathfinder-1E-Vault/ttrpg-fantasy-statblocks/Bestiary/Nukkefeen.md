@@ -5,7 +5,7 @@ name: Nukkefeen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Gallows of Madness"
+source: "Gallows of Madness"
 Monster_CR: 1
 name: Nukkefeen
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsight
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 14
-HP_extra: 
 HD: 4d6
 saves: Fort +1, Ref +6, Will +4
 DR: 2/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or family (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blind (Ex)

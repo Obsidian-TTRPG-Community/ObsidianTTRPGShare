@@ -5,7 +5,7 @@ name: Elder Wyrm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 24
 name: Elder Wyrm
 Monster_XP: 1228800
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

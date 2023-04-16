@@ -5,7 +5,7 @@ name: Dire Ape (Gigantopithecus)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Dire Ape (Gigantopithecus)
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +6, Will +4
 speed: 30 ft., climb 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or troop (3-6)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

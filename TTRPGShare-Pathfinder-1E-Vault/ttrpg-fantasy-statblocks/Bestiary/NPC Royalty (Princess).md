@@ -5,7 +5,7 @@ name: NPC Royalty (Princess)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC Royalty (Princess)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ INI: +3
 perception: +8
 AC: 20, touch 14, flat-footed 16 (armor +5, dex +3, dodge +1, shield +1)
 HP: 40
-HP_extra: 
 HD: 8d8+4
 saves: Fort +3, Ref +6, Will +6
 speed: 30 ft.

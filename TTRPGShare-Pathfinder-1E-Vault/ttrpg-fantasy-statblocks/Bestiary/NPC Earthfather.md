@@ -5,7 +5,7 @@ name: NPC Earthfather
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Earthfather
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +1
 perception: +22
 AC: 33, touch 16, flat-footed 31 (armor +12, deflection +3, dex +1, dodge +1, insight +1, shield +5)
 HP: 150
-HP_extra: 
 HD: 20d8+57
 saves: Fort +17, Ref +10, Will +22
 saves_other: +2 vs. poison, spells, and spell-like abilities

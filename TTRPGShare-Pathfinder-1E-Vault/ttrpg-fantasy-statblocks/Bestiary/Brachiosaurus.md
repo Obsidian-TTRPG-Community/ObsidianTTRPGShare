@@ -5,7 +5,7 @@ name: Brachiosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Brachiosaurus
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +28
 senses: low-light vision, scent
 AC: 18, touch 6, flat-footed 18 (natural +12, size -4)
 HP: 171
-HP_extra: 
 HD: 18d8+90
 saves: Fort +18, Ref +11, Will +9
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

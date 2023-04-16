@@ -5,7 +5,7 @@ name: Adult Etheric Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Adult Etheric Dragon
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: dragon senses, see in darkness
 aura: frightful presence
 AC: 27, touch 9, flat-footed 27 (natural +18, size -1)
 HP: 175
-HP_extra: 
 HD: 14d12+84
 saves: Fort +15, Ref +9, Will +12
 immune: paralysis, sleep

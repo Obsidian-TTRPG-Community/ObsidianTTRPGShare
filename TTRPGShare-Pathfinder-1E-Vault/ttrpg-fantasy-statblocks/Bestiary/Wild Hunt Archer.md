@@ -5,7 +5,7 @@ name: Wild Hunt Archer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Wild Hunt Archer
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +31
 senses: greensight, low-light vision, scent, see in darkness
 AC: 28, touch 24, flat-footed 19 (deflection +5, dex +9, natural +4)
 HP: 187
-HP_extra: 
 HD: 22d6+110
 saves: Fort +12, Ref +22, Will +19
 immune: cold

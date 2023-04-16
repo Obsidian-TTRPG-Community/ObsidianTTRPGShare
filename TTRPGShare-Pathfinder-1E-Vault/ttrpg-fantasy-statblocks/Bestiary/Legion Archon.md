@@ -5,7 +5,7 @@ name: Legion Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Legion Archon
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision
 aura: aura of menace
 AC: 23, touch 11, flat-footed 22 (armor +9, dex +1, natural +3, deflection vs. evil +2)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +3, Will +8
 saves_other: +4 vs. poison, +2 vs. evil

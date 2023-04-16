@@ -5,7 +5,7 @@ name: Incutilis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Incutilis
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 17, touch 14, flat-footed 15 (dex +2, natural +3, size +2)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +1, Ref +3, Will +5
 speed: 5 ft., climb 5 ft., swim 60 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or colony (3-12 plus enslaved puppets)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Puppetmaster (Su)

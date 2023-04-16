@@ -5,7 +5,7 @@ name: Joyful Thing
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Nidal, Land of Shadows"
+source: "Nidal, Land of Shadows"
 Monster_CR: 6
 name: Joyful Thing
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 19, touch 11, flat-footed 19 (dex -2, natural +8, profane +3)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +11, Ref +5, Will +9
 immune: fear, pain effects
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or coven (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blessing of Pain (Su)

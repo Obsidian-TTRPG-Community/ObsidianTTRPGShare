@@ -5,7 +5,7 @@ name: Mythic Argus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Mythic Argus
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: all-around vision, arcane sight, darkvision, detect scrying, limitless v
 aura: frightful presence
 AC: 30, touch 12, flat-footed 28 (dex +2, insight +4, natural +18, size -4)
 HP: 184
-HP_extra: 
 HD: 13d8+126
 saves: Fort +10, Ref +6, Will +9
 immune: blindness, dazzled
@@ -47,6 +46,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absolute Readiness (Ex)

@@ -5,7 +5,7 @@ name: Prydanu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 126: Beyond the Veiled Past"
+source: "Pathfinder No. 126: Beyond the Veiled Past"
 Monster_CR: 16
 name: Prydanu
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, true seeing
 aura: clarity's grace
 AC: 31, touch 19, flat-footed 26 (deflection +5, dex +5, natural +12, size -1)
 HP: 243
-HP_extra: 
 HD: 18d10+144
 saves: Fort +13, Ref +16, Will +20
 immune: electricity, mind-affecting effects, petrification

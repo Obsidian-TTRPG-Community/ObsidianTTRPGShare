@@ -5,7 +5,7 @@ name: Barbed Devil (Hamatula)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Barbed Devil (Hamatula)
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, see in darkness
 AC: 26, touch 16, flat-footed 20 (dex +6, natural +10)
 HP: 138
-HP_extra: 
 HD: 12d10+72
 saves: Fort +14, Ref +14, Will +8
 immune: fire, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, team (3-5), or squad (6-11)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Barbed Defense (Su)

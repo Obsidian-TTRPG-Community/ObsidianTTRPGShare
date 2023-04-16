@@ -5,7 +5,7 @@ name: NPC Crusader (Squire)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/3
 name: NPC Crusader (Squire)
 Monster_XP: 135
@@ -18,7 +18,6 @@ INI: +1
 perception: -1
 AC: 13, touch 11, flat-footed 12 (armor +1, dex +1, shield +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +1, Ref +1, Will +1
 speed: 30 ft.

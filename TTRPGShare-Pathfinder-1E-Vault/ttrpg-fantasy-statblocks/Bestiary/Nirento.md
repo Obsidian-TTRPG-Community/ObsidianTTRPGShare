@@ -5,7 +5,7 @@ name: Nirento
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 4
 name: Nirento
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsight, low-light vision
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +8, Ref +3, Will +0
 immune: plant traits, sonic
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or grove (3-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Hypnotic Display (Ex)

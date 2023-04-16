@@ -5,7 +5,7 @@ name: Valkyrie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Valkyrie
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, deathwatch
 AC: 27, touch 19, flat-footed 24 (armor +8, deflection +6, dex +3)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +10, Ref +13, Will +15
 immune: cold, electricity, poison

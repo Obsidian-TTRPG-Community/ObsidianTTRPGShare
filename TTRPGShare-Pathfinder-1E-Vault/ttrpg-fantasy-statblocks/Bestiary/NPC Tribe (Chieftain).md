@@ -5,7 +5,7 @@ name: NPC Tribe (Chieftain)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 10
 name: NPC Tribe (Chieftain)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ INI: +1
 perception: +2
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 102
-HP_extra: 
 HD: 12d10+36
 saves: Fort +9, Ref +5, Will +3
 speed: 20 ft.

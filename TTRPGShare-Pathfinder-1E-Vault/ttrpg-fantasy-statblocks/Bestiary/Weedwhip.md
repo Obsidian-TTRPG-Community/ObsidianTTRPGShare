@@ -5,7 +5,7 @@ name: Weedwhip
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Weedwhip
 Monster_XP: 600
@@ -17,7 +17,6 @@ senses: blindsight, low-light vision
 aura: stench
 AC: 14, touch 13, flat-footed 11 (dex +3, natural +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +4, Will +2
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or patch (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Camouflage (Ex)

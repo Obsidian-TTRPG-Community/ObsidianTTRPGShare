@@ -5,7 +5,7 @@ name: Blink Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Blink Dog
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +5, Will +4
 speed: 40 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: temperate plains or forests
   - name: Organisation
     desc: solitary, pair, or pack (3-14)
+  - name: Treasure
     desc: incidental
 spell-like_abilities:
   - name:

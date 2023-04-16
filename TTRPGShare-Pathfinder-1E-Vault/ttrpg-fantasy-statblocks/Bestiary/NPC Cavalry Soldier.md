@@ -5,7 +5,7 @@ name: NPC Cavalry Soldier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Cavalry Soldier
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 21, touch 10, flat-footed 21 (armor +9, shield +2)
 HP: 67
-HP_extra: 
 HD: 9d10+18
 saves: Fort +7, Ref +3, Will +4
 saves_other: +2 vs. enchantments

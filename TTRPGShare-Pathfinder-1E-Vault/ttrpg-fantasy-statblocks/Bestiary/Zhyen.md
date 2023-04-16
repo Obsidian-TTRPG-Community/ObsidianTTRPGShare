@@ -5,7 +5,7 @@ name: Zhyen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Qadira, Gateway to the East"
+source: "Qadira, Gateway to the East"
 Monster_CR: 1/2
 name: Zhyen
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision
 AC: 17, touch 14, flat-footed 15 (dex +2, natural +3, size +2)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +4, Will +4
 resist: acid 5, cold 5, electricity 5, fire 5
@@ -38,6 +37,7 @@ ecology:
     desc: any desert or elemental plane
   - name: Organisation
     desc: solitary or gang (1 zhyen and 2-4 mephits)
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

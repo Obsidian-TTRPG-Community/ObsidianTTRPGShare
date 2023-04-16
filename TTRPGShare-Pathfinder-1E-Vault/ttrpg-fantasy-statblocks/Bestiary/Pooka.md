@@ -5,7 +5,7 @@ name: Pooka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Pooka
 Monster_XP: 600
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or ruse (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Su)

@@ -5,7 +5,7 @@ name: Oliphaunt of Jandelay
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 30
 name: Oliphaunt of Jandelay
 Monster_XP: 9830400

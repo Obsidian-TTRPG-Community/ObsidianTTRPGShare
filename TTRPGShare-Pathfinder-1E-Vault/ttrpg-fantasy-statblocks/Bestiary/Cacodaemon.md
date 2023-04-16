@@ -5,7 +5,7 @@ name: Cacodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Cacodaemon
 Monster_XP: 600
@@ -42,6 +42,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary or swarm (2-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

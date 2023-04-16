@@ -5,7 +5,7 @@ name: Kobold Bomber
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Kobold Bomber
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 19, touch 14, flat-footed 16 (armor +4, dex +3, natural +1, size +1)
 HP: 12
-HP_extra: 
 HD: 2d8
 saves: Fort +2, Ref +6, Will +1
 saves_other: +2 vs. poison

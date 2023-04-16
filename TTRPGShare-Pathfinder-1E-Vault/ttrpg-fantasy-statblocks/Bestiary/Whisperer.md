@@ -5,7 +5,7 @@ name: Whisperer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 20
 name: Whisperer
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: blindsight, low-light vision, see in darkness
 aura: whispers
 AC: 35, touch 35, flat-footed 24 (deflection +9, dex +10, dodge +1, insight +6, size -1)
 HP: 363
-HP_extra: 
 HD: 22d6+286
 saves: Fort +20, Ref +23, Will +21
 immune: cold, disease, mind-affecting effects, poison, sonic
@@ -44,6 +43,7 @@ ecology:
     desc: any wilderness
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Anticipation (Ex)

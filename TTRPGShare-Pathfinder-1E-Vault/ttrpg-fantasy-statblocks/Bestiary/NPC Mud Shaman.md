@@ -5,7 +5,7 @@ name: NPC Mud Shaman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Mud Shaman
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +0
 perception: +13
 AC: 22, touch 10, flat-footed 22 (armor +7, natural +3, shield +2)
 HP: 69
-HP_extra: 
 HD: 9d8+25
 saves: Fort +8, Ref +5, Will +11
 saves_other: +4 vs. fey and plant-targeted effects

@@ -5,7 +5,7 @@ name: NPC Hateful Scourge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Hateful Scourge
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +25
 senses: low-light vision
 AC: 28, touch 14, flat-footed 27 (armor +10, deflection +2, dex +1, insight +1, shield +4)
 HP: 158
-HP_extra: 
 HD: 17d8+78
 saves: Fort +16, Ref +9, Will +20
 saves_other: +2 vs. enchantments, +4 vs. fey and plant-targeted effects

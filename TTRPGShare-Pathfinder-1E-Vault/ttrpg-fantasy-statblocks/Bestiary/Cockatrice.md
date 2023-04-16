@@ -5,7 +5,7 @@ name: Cockatrice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Cockatrice
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 27
-HP_extra: 
 HD: 5d10
 saves: Fort +4, Ref +7, Will +2
 speed: 20 ft., fly 60 ft. (poor)
@@ -33,6 +32,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, flight (3-5), or flock (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Petrification (Su)

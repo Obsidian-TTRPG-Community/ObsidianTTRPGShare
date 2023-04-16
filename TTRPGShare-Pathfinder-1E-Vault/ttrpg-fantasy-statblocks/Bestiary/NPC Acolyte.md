@@ -5,7 +5,7 @@ name: NPC Acolyte
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/3
 name: NPC Acolyte
 Monster_XP: 135
@@ -19,7 +19,6 @@ INI: +1
 perception: +1
 AC: 14, touch 11, flat-footed 13 (armor +3, dex +1)
 HP: 5
-HP_extra: 
 HD: 1d6+2
 saves: Fort -1, Ref +1, Will +3
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Turtle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/6
 name: Turtle
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision
 AC: 16, touch 10, flat-footed 16 (dex -2, natural +6, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +0, Will +1
 speed: 5 ft., swim 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate or tropical forests, oceans, and rivers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Shell Retreat (Ex)

@@ -5,7 +5,7 @@ name: Shield Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Shield Archon
 Monster_XP: 9600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: aura of menace, magic circle against evil
 AC: 29, touch 10, flat-footed 28 (armor +9, dex +1, natural +4, shield +6, size -1)
 HP: 112
-HP_extra: 
 HD: 9d10+63
 saves: Fort +13, Ref +7, Will +8
 saves_other: +4 vs. poison

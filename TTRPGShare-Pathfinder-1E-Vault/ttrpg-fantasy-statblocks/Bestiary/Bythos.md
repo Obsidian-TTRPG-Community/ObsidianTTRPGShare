@@ -5,7 +5,7 @@ name: Bythos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Bythos
 Monster_XP: 76800
@@ -42,6 +42,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, or tribunal (3 bythos)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aging Strike (Su)

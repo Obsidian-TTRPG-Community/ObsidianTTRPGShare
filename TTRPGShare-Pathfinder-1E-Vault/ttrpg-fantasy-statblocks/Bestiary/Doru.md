@@ -5,7 +5,7 @@ name: Doru
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Doru
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, detect good, detect magic, see in darkness
 AC: 18, touch 15, flat-footed 15 (dex +3, natural +3, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +3, Ref +4, Will +4
 immune: fire, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

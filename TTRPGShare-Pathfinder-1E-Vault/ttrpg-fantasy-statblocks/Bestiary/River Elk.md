@@ -5,7 +5,7 @@ name: River Elk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 31: Stolen Land"
+source: "Pathfinder No. 31: Stolen Land"
 Monster_CR: 2
 name: River Elk
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 13, touch 11, flat-footed 11 (dex +2, natural +2, size -1)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +7, Ref +7, Will +3
 speed: 50 ft., swim 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: cold or temperate plains
   - name: Organisation
     desc: solitary, pair, or herd (3-50)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 31: Stolen Land

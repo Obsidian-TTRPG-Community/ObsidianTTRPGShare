@@ -5,7 +5,7 @@ name: Yah-Thelgaad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 88: Valley of the Brain Collectors"
+source: "Pathfinder No. 88: Valley of the Brain Collectors"
 Monster_CR: 14
 name: Yah-Thelgaad
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +26
 senses: darkvision, diagnose disease, true seeing
 AC: 30, touch 25, flat-footed 26 (dex +4, insight +12, natural +5, size -1)
 HP: 200
-HP_extra: 
 HD: 16d8+128
 saves: Fort +13, Ref +11, Will +17
 immune: disease, mind-affecting effects
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Brain Collection (Ex)

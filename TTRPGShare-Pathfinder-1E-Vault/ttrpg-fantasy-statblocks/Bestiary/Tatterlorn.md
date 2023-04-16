@@ -5,7 +5,7 @@ name: Tatterlorn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 7
 name: Tatterlorn
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision
 AC: 21, touch 15, flat-footed 16 (dex +4, dodge +1, natural +6)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +8, Ref +6, Will +9
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or gang (2- 5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

@@ -5,7 +5,7 @@ name: Star Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 19
 name: Star Archon
 Monster_XP: 204800

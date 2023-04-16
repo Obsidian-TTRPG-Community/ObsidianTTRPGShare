@@ -5,7 +5,7 @@ name: Cassomir Stray
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 4
 name: Cassomir Stray
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 17, touch 12, flat-footed 16 (dex +1, natural +5, size +1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +7, Ref +2, Will +6
 resist: acid 5
@@ -38,6 +37,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison Spray (Ex)

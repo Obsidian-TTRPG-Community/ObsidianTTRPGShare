@@ -5,7 +5,7 @@ name: Sentinel Hut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 8
 name: Sentinel Hut
 Monster_XP: 4800
@@ -16,7 +16,6 @@ INI: +3
 senses: darkvision, low-light vision
 AC: 21, touch 11, flat-footed 18 (dex +3, natural +10, size -2)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +3, Ref +6, Will +3
 immune: acid, cold, construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any land (Irrisen)
   - name: Organisation
     desc: solitary or unit (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dancing Evasion (Ex)

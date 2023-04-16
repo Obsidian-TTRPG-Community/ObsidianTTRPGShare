@@ -5,7 +5,7 @@ name: Sacristan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Sacristan
 Monster_XP: 9600
@@ -41,6 +41,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, bodyguard (1d4 plus 1 kyton of lower CR [usually an ostiarius]), or entourage (2d6 plus 1 kyton of higher CR)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Shadow Scream (Su)

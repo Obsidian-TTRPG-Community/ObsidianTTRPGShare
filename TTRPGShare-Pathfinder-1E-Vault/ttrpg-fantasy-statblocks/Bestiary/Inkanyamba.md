@@ -5,7 +5,7 @@ name: Inkanyamba
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 41: The Thousand Fangs Below"
+source: "Pathfinder No. 41: The Thousand Fangs Below"
 Monster_CR: 13
 name: Inkanyamba
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, scent, venomsense
 AC: 28, touch 10, flat-footed 24 (dex +3, dodge +1, natural +18, size -4)
 HP: 178
-HP_extra: 
 HD: 17d10+85
 saves: Fort +15, Ref +15, Will +10
 immune: electricity, poison
@@ -38,6 +37,7 @@ ecology:
     desc: tropical rivers and lakes
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Ex)

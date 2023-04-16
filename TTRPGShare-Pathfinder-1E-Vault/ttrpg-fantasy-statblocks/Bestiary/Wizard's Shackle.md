@@ -5,7 +5,7 @@ name: Wizard's Shackle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Wizard's Shackle
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +6
 senses: arcane sight, blindsight
 AC: 12, touch 12, flat-footed 12 (size +2)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +0, Will +4
 immune: disease, mind-affecting effects, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or infestation (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Host Buffer (Ex)

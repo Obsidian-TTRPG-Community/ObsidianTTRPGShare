@@ -5,7 +5,7 @@ name: NPC Dragon Smiter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Dragon Smiter
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +9
 aura: courage, justice, resolve
 AC: 23, touch 11, flat-footed 22 (armor +11, dex +1, natural +1)
 HP: 115
-HP_extra: 
 HD: 13d10+39
 saves: Fort +13, Ref +10, Will +10
 immune: charm, disease, fear

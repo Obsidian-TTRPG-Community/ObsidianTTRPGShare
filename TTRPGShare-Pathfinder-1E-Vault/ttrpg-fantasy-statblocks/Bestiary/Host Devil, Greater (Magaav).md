@@ -5,7 +5,7 @@ name: Host Devil, Greater (Magaav)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Host Devil, Greater (Magaav)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, detect magic, see in darkness
 AC: 23, touch 15, flat-footed 18 (dex +4, dodge +1, natural +8)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +8, Ref +9, Will +3
 immune: fire, poison

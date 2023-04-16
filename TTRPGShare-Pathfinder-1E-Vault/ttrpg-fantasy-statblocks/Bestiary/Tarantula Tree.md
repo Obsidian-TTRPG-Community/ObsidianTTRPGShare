@@ -5,7 +5,7 @@ name: Tarantula Tree
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 19
 name: Tarantula Tree
 Monster_XP: 204800
@@ -43,6 +43,7 @@ ecology:
     desc: temperate or tropical forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Encage (Ex)

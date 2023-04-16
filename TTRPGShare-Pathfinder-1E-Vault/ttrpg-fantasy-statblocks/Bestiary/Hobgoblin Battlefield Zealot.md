@@ -5,7 +5,7 @@ name: Hobgoblin Battlefield Zealot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Hobgoblin Battlefield Zealot
 Monster_XP: 600

@@ -5,7 +5,7 @@ name: Giant Toad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Giant Toad
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 10, flat-footed 13 (dex +1, natural +4, size -1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +6, Will +0
 defensive_abilities: poison skin
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests, plains, or swamps
   - name: Organisation
     desc: solitary, pair, or knot (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison Skin (Ex)

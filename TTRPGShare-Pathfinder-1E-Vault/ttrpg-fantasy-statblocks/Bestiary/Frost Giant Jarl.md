@@ -5,7 +5,7 @@ name: Frost Giant Jarl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 18
 name: Frost Giant Jarl
 Monster_XP: 153600

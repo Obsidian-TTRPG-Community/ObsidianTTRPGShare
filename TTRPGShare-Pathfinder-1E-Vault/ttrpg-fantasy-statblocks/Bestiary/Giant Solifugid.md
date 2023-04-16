@@ -5,7 +5,7 @@ name: Giant Solifugid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Giant Solifugid
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +2, Will +0
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

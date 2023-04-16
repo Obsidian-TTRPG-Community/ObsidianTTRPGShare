@@ -5,7 +5,7 @@ name: Dwarf Caiman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Dwarf Caiman
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 14, touch 11, flat-footed 14 (natural +3, size +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +2, Will +0
 speed: 10 ft., other_semicolon sprint ft., swim 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm swamps and rivers
   - name: Organisation
     desc: solitary, pair, or bask (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sprint (Ex)

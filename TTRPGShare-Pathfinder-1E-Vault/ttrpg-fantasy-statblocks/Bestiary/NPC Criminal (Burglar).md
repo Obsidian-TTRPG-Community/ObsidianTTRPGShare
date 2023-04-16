@@ -5,7 +5,7 @@ name: NPC Criminal (Burglar)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 2
 name: NPC Criminal (Burglar)
 Monster_XP: 600
@@ -18,7 +18,6 @@ INI: +3
 perception: +9
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +6, Will +1
 defensive_abilities: evasion, trap sense +1

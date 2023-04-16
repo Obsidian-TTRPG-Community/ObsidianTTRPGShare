@@ -5,7 +5,7 @@ name: Mokele-Mbembe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Mokele-Mbembe
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +15
 senses: low-light vision, scent
 AC: 23, touch 9, flat-footed 22 (dex +1, natural +14, size -2)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +13, Ref +12, Will +8
 speed: 30 ft., swim 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: tropical lakes or rivers
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Whip Tail (Ex)

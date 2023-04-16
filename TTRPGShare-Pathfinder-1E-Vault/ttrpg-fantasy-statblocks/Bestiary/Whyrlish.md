@@ -5,7 +5,7 @@ name: Whyrlish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 15
 name: Whyrlish
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 31, touch 16, flat-footed 23 (dex +7, dodge +1, natural +15, size -2)
 HP: 210
-HP_extra: 
 HD: 20d8+120
 saves: Fort +12, Ref +15, Will +18
 immune: ability drain, death effects, electricity, energy drain, fear, negative energy effects
@@ -41,6 +40,7 @@ ecology:
     desc: any air (Astral Plane)
   - name: Organisation
     desc: solitary, pair, or flotilla (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cnidocytes (Ex)

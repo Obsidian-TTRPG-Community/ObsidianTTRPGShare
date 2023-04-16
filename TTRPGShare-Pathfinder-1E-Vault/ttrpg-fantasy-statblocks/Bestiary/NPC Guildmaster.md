@@ -5,7 +5,7 @@ name: NPC Guildmaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Guildmaster
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +18
 senses: darkvision
 AC: 23, touch 16, flat-footed 18 (armor +5, deflection +1, dex +4, dodge +1, natural +1, shield +1)
 HP: 114
-HP_extra: 
 HD: 13d8+52
 saves: Fort +7, Ref +13, Will +9
 saves_other: +2 vs. poison, spells, and spell-like abilities

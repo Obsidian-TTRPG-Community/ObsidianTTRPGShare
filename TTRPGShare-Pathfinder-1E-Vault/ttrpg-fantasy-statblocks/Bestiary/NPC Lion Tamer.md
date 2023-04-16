@@ -5,7 +5,7 @@ name: NPC Lion Tamer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Lion Tamer
 Monster_XP: 38400
@@ -20,7 +20,6 @@ perception: +15
 senses: low-light vision
 AC: 23, touch 16, flat-footed 20 (armor +6, deflection +2, dex +3, natural +1, size +1)
 HP: 86
-HP_extra: 
 HD: 15d8+15
 saves: Fort +6, Ref +13, Will +10
 saves_other: +2 vs. illusions, +4 vs. bardic performance, language-dependent, and sonic

@@ -5,7 +5,7 @@ name: Yamah
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Yamah
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, detect evil, detect magic, low-light vision
 AC: 19, touch 15, flat-footed 14 (dex +5, natural +4)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +4, Ref +10, Will +7
 immune: electricity, petrification

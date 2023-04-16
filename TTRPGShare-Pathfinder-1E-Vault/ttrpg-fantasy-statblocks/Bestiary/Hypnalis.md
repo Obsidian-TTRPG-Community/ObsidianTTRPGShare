@@ -5,7 +5,7 @@ name: Hypnalis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Hypnalis
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +5, Ref +7, Will +6
 speed: 40 ft., fly 60 ft. (good)
@@ -37,6 +36,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or nest (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ghost Touch Fangs (Su)

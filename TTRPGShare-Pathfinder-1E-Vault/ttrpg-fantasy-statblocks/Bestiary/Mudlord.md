@@ -5,7 +5,7 @@ name: Mudlord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Mudlord
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, tremorsense
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 67
-HP_extra: 
 HD: 9d10+18
 saves: Fort +8, Ref +9, Will +4
 immune: elemental traits
@@ -43,6 +42,7 @@ ecology:
     desc: temperate or warm marshes or underground
   - name: Organisation
     desc: solitary, pair, or gang (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Engulf (Su)

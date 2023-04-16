@@ -5,7 +5,7 @@ name: Ogrekin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Ogrekin
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +1
 senses: low-light vision
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 25
-HP_extra: 
 HD: 2d10+10
 saves: Fort +7, Ref +1, Will +1
 defensive_abilities: bravery +1

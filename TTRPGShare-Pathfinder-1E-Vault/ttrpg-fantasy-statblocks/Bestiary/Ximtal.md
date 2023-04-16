@@ -5,7 +5,7 @@ name: Ximtal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Ximtal
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +27
 senses: darkvision, detect good, detect magic, see in darkness, true seeing
 AC: 33, touch 17, flat-footed 25 (dex +7, dodge +1, natural +16, size -1)
 HP: 279
-HP_extra: 
 HD: 18d10+180
 saves: Fort +21, Ref +13, Will +17
 immune: death effects, disease, fear effects, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or fright (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Despoil (Su)

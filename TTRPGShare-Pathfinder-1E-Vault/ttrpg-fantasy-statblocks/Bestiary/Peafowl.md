@@ -5,7 +5,7 @@ name: Peafowl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Peafowl
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: -2
 senses: low-light vision
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +3, Will -2
 speed: 20 ft., fly 40 ft. (clumsy)
@@ -34,6 +33,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or muster (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Drift (Ex)

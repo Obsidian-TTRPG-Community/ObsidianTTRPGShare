@@ -5,7 +5,7 @@ name: Hellcat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Hellcat
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, scent
 AC: 21, touch 15, flat-footed 15 (dex +5, dodge +1, natural +6, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +13, Will +5
 resist: fire 10
@@ -45,6 +44,7 @@ ecology:
     desc: any land (Hell)
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Invisible in Light (Su)

@@ -5,7 +5,7 @@ name: Fire Salamander
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Fire Salamander
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: -1
 senses: low-light vision, scent
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +4, Will -1
 defensive_abilities: skin secretions
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or congress (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Skin Secretions (Ex)

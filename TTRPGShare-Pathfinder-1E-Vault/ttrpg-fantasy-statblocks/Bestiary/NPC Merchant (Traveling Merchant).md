@@ -5,7 +5,7 @@ name: NPC Merchant (Traveling Merchant)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Merchant (Traveling Merchant)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: -1
 perception: +12
 AC: 10, touch 9, flat-footed 10 (armor +1, dex -1)
 HP: 31
-HP_extra: 
 HD: 7d8
 saves: Fort +2, Ref +1, Will +5
 speed: 30 ft.

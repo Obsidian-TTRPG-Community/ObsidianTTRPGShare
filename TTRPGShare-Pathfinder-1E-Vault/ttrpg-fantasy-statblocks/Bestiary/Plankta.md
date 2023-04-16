@@ -5,7 +5,7 @@ name: Plankta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Plankta
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision, tremorsense
 AC: 36, touch 11, flat-footed 36 (cover +8, dex +1, natural +25, size -8)
 HP: 313
-HP_extra: 
 HD: 19d8+228
 saves: Fort +18, Ref +13, Will +20
 immune: cold, electricity, fire
@@ -44,6 +43,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Clashing Rocks (Ex)

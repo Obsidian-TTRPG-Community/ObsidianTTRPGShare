@@ -5,7 +5,7 @@ name: Fossegrim
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Fossegrim
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +16
 senses: low-light vision
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 41
-HP_extra: 
 HD: 9d6+19
 saves: Fort +5, Ref +9, Will +8
 DR: 5/cold iron

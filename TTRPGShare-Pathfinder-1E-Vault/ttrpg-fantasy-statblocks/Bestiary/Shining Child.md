@@ -5,7 +5,7 @@ name: Shining Child
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Shining Child
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: blinding light
 AC: 28, touch 21, flat-footed 24 (deflection +7, dex +3, dodge +1, natural +7)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +10, Will +10
 immune: blindness, fire, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any land (extraplanar)
   - name: Organisation
     desc: solitary, visitation (2-9), or incursion (11-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blinding Light (Ex)

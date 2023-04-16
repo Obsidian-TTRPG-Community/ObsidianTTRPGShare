@@ -5,7 +5,7 @@ name: Tsaalgrend
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Tsaalgrend
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +3, Will +1
 immune: plant traits
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, cluster (3-6), or pod (7-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spores (Ex)

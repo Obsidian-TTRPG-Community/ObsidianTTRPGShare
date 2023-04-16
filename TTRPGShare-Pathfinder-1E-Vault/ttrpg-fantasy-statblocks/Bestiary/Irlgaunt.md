@@ -5,7 +5,7 @@ name: Irlgaunt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 35: War of the River Kings"
+source: "Pathfinder No. 35: War of the River Kings"
 Monster_CR: 13
 name: Irlgaunt
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +21
 senses: darkvision
 AC: 29, touch 18, flat-footed 20 (dex +9, natural +11, size -1)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +15, Will +13
 immune: acid, cold
@@ -43,6 +42,7 @@ ecology:
     desc: any mountains or underground
   - name: Organisation
     desc: solitary, pair, swarm (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gastrolith (Ex)

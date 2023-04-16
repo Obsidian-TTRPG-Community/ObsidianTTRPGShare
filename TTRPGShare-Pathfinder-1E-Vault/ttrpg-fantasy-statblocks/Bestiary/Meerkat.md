@@ -5,7 +5,7 @@ name: Meerkat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Meerkat
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +4, Will +1
 immune: scorpion venom
@@ -37,6 +36,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, mob (3-16), or clan (17-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Scorpion Venom (Ex)

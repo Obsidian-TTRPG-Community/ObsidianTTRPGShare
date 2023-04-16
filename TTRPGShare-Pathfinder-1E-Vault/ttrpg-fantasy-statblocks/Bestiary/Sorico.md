@@ -5,7 +5,7 @@ name: Sorico
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 85: Fires of Creation"
+source: "Pathfinder No. 85: Fires of Creation"
 Monster_CR: 1
 name: Sorico
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +7, Ref +4, Will +2
 speed: 30 ft., burrow 10 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: any deserts
   - name: Organisation
     desc: solitary, pair,
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dust Cloud (Ex)

@@ -5,7 +5,7 @@ name: NPC Ulfen Raider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 1/2
 name: NPC Ulfen Raider
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +1
 perception: +5
 AC: 17, touch 9, flat-footed 16 (armor +6, dex +1, rage -2, shield +2)
 HP: 17
-HP_extra: 
 HD: 1d12+5
 saves: Fort +6, Ref +1, Will +3
 speed: 30 ft.

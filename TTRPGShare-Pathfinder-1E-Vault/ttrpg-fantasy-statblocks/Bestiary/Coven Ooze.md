@@ -5,7 +5,7 @@ name: Coven Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 72: The Witch Queen's Revenge"
+source: "Pathfinder No. 72: The Witch Queen's Revenge"
 Monster_CR: 9
 name: Coven Ooze
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +9, Ref -2, Will -1
 immune: acid, cold, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate marshes or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Absorb Flesh (Ex)

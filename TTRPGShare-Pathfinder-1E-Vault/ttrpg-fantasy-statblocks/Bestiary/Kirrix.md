@@ -5,7 +5,7 @@ name: Kirrix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Kirrix
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: blindsense, darkvision, low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +6, Will +2
 immune: disease
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Expel Pathogens (Ex)

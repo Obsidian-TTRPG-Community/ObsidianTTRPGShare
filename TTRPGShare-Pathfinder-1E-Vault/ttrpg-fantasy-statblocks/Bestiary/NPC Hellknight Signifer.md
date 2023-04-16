@@ -5,7 +5,7 @@ name: NPC Hellknight Signifer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Hellknight Signifer
 Monster_XP: 3200

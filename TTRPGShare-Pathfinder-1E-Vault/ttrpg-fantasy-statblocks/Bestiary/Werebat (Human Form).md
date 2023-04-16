@@ -5,7 +5,7 @@ name: Werebat (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Werebat (Human Form)
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (armor +2, dex +2)
 HP: 23
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +5, Will +3
 defensive_abilities: evasion, trap sense +1

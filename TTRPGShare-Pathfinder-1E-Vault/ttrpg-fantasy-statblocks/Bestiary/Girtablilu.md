@@ -5,7 +5,7 @@ name: Girtablilu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Girtablilu
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, tremorsense
 AC: 22, touch 12, flat-footed 19 (armor +2, dex +2, dodge +1, natural +8, size -1)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +8, Ref +11, Will +9
 speed: 50 ft.

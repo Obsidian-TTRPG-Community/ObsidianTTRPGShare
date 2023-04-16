@@ -5,7 +5,7 @@ name: Havero Tentacle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 6
 name: Havero Tentacle
 Monster_XP: 2400
@@ -16,7 +16,6 @@ INI: +1
 senses: blindsense
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 66
-HP_extra: 
 HD: 7d8+35
 saves: Fort +7, Ref +3, Will +10
 immune: cold, mind-affecting effects, poison, vision-based effects

@@ -5,7 +5,7 @@ name: Cernunnos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 30
 name: Cernunnos
 Monster_XP: 9830400

@@ -5,7 +5,7 @@ name: Dandasuka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Dandasuka
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 19, touch 16, flat-footed 14 (dex +4, dodge +1, natural +3, size +1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +5, Ref +9, Will +6
 DR: 5/good or piercing
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or murder (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spells

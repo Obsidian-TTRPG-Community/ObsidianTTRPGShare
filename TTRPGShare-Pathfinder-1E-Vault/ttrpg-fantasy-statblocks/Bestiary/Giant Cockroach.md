@@ -5,7 +5,7 @@ name: Giant Cockroach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Giant Cockroach
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 8
-HP_extra: 
 HD: 1d8+4
 saves: Fort +6, Ref +1, Will +0
 weak: light sensitivity
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or intrusion (2-20)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

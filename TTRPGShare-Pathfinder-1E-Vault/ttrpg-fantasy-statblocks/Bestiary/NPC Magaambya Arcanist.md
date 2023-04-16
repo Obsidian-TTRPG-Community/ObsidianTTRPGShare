@@ -5,7 +5,7 @@ name: NPC Magaambya Arcanist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 10
 name: NPC Magaambya Arcanist
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +1
 perception: +2
 AC: 14, touch 12, flat-footed 13 (deflection +1, dex +1, natural +2)
 HP: 68
-HP_extra: 
 HD: 11d6+27
 saves: Fort +8, Ref +7, Will +14
 defensive_abilities: blessed warding

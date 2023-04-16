@@ -5,7 +5,7 @@ name: Boroboroton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Boroboroton
 Monster_XP: 1600
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or party (1 plus 5-20 other tsukumogami)
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

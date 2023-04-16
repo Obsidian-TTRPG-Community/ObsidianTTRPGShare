@@ -5,7 +5,7 @@ name: Cloaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Cloaker
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision
 AC: 19, touch 12, flat-footed 16 (dex +3, natural +7, size -1)
 HP: 51
-HP_extra: 
 HD: 6d8+24
 saves: Fort +6, Ref +5, Will +7
 defensive_abilities: shadow shift
@@ -40,6 +39,7 @@ ecology:
     desc: underground
   - name: Organisation
     desc: solitary, pair, mob (3-6), or flock (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Engulf (Ex)

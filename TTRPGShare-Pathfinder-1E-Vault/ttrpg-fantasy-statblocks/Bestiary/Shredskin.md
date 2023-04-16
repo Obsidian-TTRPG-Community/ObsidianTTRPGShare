@@ -5,7 +5,7 @@ name: Shredskin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Shredskin
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, detect undead
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +3, Will +4
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Control Body (Su)

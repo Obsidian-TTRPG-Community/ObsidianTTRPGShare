@@ -5,7 +5,7 @@ name: Encantado
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Encantado
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 21, touch 20, flat-footed 16 (deflection +5, dex +5, natural +1)
 HP: 95
-HP_extra: 
 HD: 10d6+60
 saves: Fort +13, Ref +17, Will +16
 DR: 10/cold iron

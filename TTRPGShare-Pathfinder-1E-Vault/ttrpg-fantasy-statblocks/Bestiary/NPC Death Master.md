@@ -5,7 +5,7 @@ name: NPC Death Master
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Death Master
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +28
 senses: low-light vision
 AC: 28, touch 13, flat-footed 28 (armor +12, deflection +3, natural +3)
 HP: 182
-HP_extra: 
 HD: 5d8+5d6+7d6+100
 saves: Fort +14, Ref +7, Will +20
 saves_other: +2 vs. enchantments

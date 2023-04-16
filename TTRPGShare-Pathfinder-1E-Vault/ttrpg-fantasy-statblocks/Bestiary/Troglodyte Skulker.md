@@ -5,7 +5,7 @@ name: Troglodyte Skulker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Troglodyte Skulker
 Monster_XP: 600
@@ -21,7 +21,6 @@ senses: darkvision
 aura: stench
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +6, Ref +4, Will +1
 defensive_abilities: evasion

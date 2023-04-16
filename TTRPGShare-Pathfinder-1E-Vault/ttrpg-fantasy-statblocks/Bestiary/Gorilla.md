@@ -5,7 +5,7 @@ name: Gorilla
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Gorilla
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +7, Ref +5, Will +2
 speed: 30 ft., climb 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or troop (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

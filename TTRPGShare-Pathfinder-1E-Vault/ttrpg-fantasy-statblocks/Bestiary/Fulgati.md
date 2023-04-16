@@ -5,7 +5,7 @@ name: Fulgati
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 18
 name: Fulgati
 Monster_XP: 153600
@@ -46,6 +46,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Calamity (Ex)

@@ -5,7 +5,7 @@ name: Siren
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Siren
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 18, touch 14, flat-footed 14 (dex +3, dodge +1, natural +4)
 HP: 52
-HP_extra: 
 HD: 8d10+8
 saves: Fort +7, Ref +11, Will +6
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm hills
   - name: Organisation
     desc: solitary or flight (2-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bardic Performance (Su)

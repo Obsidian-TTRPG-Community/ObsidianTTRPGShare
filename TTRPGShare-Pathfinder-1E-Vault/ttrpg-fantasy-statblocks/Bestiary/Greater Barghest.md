@@ -5,7 +5,7 @@ name: Greater Barghest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Greater Barghest
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, scent
 AC: 20, touch 11, flat-footed 18 (dex +2, natural +9, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +9, Ref +10, Will +10
 DR: 10/magic

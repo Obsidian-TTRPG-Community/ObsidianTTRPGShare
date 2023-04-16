@@ -5,7 +5,7 @@ name: Parasaurolophus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Parasaurolophus
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 17, touch 10, flat-footed 15 (dex +2, natural +7, size -1)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +8, Ref +7, Will +3
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

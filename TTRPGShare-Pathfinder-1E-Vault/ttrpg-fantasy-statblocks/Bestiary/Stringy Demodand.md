@@ -5,7 +5,7 @@ name: Stringy Demodand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Stringy Demodand
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, detect good, detect magic
 AC: 30, touch 18, flat-footed 22 (dex +8, natural +12)
 HP: 230
-HP_extra: 
 HD: 20d10+120
 saves: Fort +18, Ref +14, Will +13
 saves_other: +4 vs. divine spells
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or tangle (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Entangling Folds (Ex)

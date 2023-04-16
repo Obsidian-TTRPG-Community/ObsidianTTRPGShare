@@ -5,7 +5,7 @@ name: Prana Ghost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 11
 name: Prana Ghost
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +30
 senses: darkvision, low-light vision
 AC: 27, touch 27, flat-footed 20 (deflection +4, dex +7, wis +6)
 HP: 126
-HP_extra: 
 HD: 11d8+77
 saves: Fort +13, Ref +15, Will +10
 saves_other: +2 vs. enchantments

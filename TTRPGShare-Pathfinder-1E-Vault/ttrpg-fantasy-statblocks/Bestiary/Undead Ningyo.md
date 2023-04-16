@@ -5,7 +5,7 @@ name: Undead Ningyo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 1
 name: Undead Ningyo
 Monster_XP: 400
@@ -17,7 +17,6 @@ INI: +1
 perception: +2
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +3, Ref +1, Will +5
 immune: undead traits
@@ -36,6 +35,7 @@ ecology:
     desc: any aquatic or land
   - name: Organisation
     desc: solitary, pair, or exhibit (3-15)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Group Grapplers (Ex)

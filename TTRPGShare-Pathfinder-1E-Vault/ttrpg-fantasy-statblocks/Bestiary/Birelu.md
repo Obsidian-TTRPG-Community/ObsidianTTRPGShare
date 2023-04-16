@@ -5,7 +5,7 @@ name: Birelu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 94: Ice Tomb of the Giant Queen"
+source: "Pathfinder No. 94: Ice Tomb of the Giant Queen"
 Monster_CR: 10
 name: Birelu
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, low-light vision, scent
 AC: 21, touch 21, flat-footed 14 (deflection +4, dex +6, dodge +1)
 HP: 110
-HP_extra: 
 HD: 13d10+39
 saves: Fort +11, Ref +14, Will +7
 DR: 10/cold iron
@@ -39,6 +38,7 @@ ecology:
     desc: any forest, mountain, or plains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Force of Nature (Su)

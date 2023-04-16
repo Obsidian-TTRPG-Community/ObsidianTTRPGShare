@@ -5,7 +5,7 @@ name: Ghorazagh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Ghorazagh
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +21
 senses: bloodsense, darkvision
 AC: 26, touch 12, flat-footed 23 (dex +3, natural +14, size -1)
 HP: 187
-HP_extra: 
 HD: 15d8+120
 saves: Fort +15, Ref +10, Will +12
 weak: vulnerable to sonic
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, colony (3-9), or hive (10-40, including 6 brood guards of 17 HD and 1 hive lord of 21 HD)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bloodsense (Su)

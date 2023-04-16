@@ -5,7 +5,7 @@ name: Abrikandilu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Abrikandilu
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +5, Ref +4, Will +3
 immune: electricity, poison

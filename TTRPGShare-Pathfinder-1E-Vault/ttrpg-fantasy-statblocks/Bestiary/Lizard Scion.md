@@ -5,7 +5,7 @@ name: Lizard Scion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Lizard Scion
 Monster_XP: 1600
@@ -17,7 +17,6 @@ INI: +0
 perception: +5
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +7, Ref +2, Will +3
 speed: 30 ft., swim 30 ft.

@@ -5,7 +5,7 @@ name: Giant Queen Bee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Giant Queen Bee
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +9, Ref +2, Will +3
 immune: mind-affecting effects

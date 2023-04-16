@@ -5,7 +5,7 @@ name: Aasimar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Aasimar
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 15, touch 10, flat-footed 15 (armor +5)
 HP: 11
-HP_extra: 
 HD: 1d8+3
 saves: Fort +4, Ref +0, Will +5
 resist: acid 5, cold 5, electricity 5

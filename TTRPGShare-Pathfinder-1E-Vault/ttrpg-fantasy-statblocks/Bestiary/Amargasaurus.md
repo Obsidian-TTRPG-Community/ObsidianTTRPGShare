@@ -5,7 +5,7 @@ name: Amargasaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Amargasaurus
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, size -2)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +8, Will +6
 speed: 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 6

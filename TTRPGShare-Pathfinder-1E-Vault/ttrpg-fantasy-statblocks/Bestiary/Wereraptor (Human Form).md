@@ -5,7 +5,7 @@ name: Wereraptor (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 3
 name: Wereraptor (Human Form)
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 27
-HP_extra: 
 HD: 3d10+6
 saves: Fort +4, Ref +6, Will +3
 speed: 30 ft.

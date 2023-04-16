@@ -5,7 +5,7 @@ name: Tetrolimulus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 58: Island of Empty Eyes"
+source: "Pathfinder No. 58: Island of Empty Eyes"
 Monster_CR: 11
 name: Tetrolimulus
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 27, touch 13, flat-footed 23 (dex +4, natural +14, size -1)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +16, Ref +13, Will +7
 resist: cold 10
@@ -39,6 +38,7 @@ ecology:
     desc: temperate coasts
   - name: Organisation
     desc: solitary, pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

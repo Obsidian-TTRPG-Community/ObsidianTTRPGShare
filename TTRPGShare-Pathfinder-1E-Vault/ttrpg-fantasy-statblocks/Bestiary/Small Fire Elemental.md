@@ -5,7 +5,7 @@ name: Small Fire Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Small Fire Elemental
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 16, touch 13, flat-footed 14 (dex +1, dodge +1, natural +3, size +1)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +4, Will +0
 immune: elemental traits, fire

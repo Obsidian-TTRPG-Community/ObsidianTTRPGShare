@@ -5,7 +5,7 @@ name: Familiar Automaton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 2
 name: Familiar Automaton
 Monster_XP: 600
@@ -42,6 +42,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

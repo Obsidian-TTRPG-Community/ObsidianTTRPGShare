@@ -5,7 +5,7 @@ name: Piranha Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 39: The City of Seven Spears"
+source: "Pathfinder No. 39: The City of Seven Spears"
 Monster_CR: 3
 name: Piranha Swarm
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +5
 senses: blindsense, keen scent
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +7, Will +2
 defensive_abilities: swarm traits
@@ -38,6 +37,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary, shoal (2-5 swarms), or school (6-10 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Keen Scent (Ex)

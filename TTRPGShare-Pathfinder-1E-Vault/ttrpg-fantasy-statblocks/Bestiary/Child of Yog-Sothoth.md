@@ -5,7 +5,7 @@ name: Child of Yog-Sothoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 113: What Grows Within"
+source: "Pathfinder No. 113: What Grows Within"
 Monster_CR: 7
 name: Child of Yog-Sothoth
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +7
 senses: all-around vision, low-light vision
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 76
-HP_extra: 
 HD: 7d6+49
 saves: Fort +7, Ref +3, Will +7
 saves_other: +4 vs. mind-affecting effects

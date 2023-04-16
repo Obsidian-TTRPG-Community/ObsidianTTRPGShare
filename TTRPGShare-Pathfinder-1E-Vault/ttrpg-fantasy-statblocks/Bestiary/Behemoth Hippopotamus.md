@@ -5,7 +5,7 @@ name: Behemoth Hippopotamus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Behemoth Hippopotamus
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 23, touch 7, flat-footed 23 (dex -1, natural +16, size -2)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +14, Ref +8, Will +7
 defensive_abilities: sweat
@@ -40,6 +39,7 @@ ecology:
     desc: warm rivers
   - name: Organisation
     desc: solitary or bloat (2-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

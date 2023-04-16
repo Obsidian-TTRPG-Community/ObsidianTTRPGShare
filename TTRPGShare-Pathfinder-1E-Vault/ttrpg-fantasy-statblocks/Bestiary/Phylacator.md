@@ -5,7 +5,7 @@ name: Phylacator
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 132: The Six-Legend Soul"
+source: "Pathfinder No. 132: The Six-Legend Soul"
 Monster_CR: 18
 name: Phylacator
 Monster_XP: 153600

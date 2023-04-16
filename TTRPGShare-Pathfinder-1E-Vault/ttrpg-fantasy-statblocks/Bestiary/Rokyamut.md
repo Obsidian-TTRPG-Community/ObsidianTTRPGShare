@@ -5,7 +5,7 @@ name: Rokyamut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 19
 name: Rokyamut
 Monster_XP: 204800
@@ -45,6 +45,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary, pair, or faculty (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Expeditious Calculation (Su)

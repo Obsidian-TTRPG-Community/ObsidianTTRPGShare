@@ -5,7 +5,7 @@ name: Mongrel Cave Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 93: Forge of the Giant God"
+source: "Pathfinder No. 93: Forge of the Giant God"
 Monster_CR: 6
 name: Mongrel Cave Giant
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 19, touch 9, flat-footed 19 (armor +4, natural +6, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +3, Will +3
 defensive_abilities: ferocity, improved rock catching

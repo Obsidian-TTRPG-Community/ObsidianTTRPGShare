@@ -5,7 +5,7 @@ name: NPC Entertainer (Celebrity Bard)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 10
 name: NPC Entertainer (Celebrity Bard)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ INI: +2
 perception: +10
 AC: 19, touch 12, flat-footed 17 (armor +5, dex +2, shield +2)
 HP: 79
-HP_extra: 
 HD: 11d8+30
 saves: Fort +6, Ref +10, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

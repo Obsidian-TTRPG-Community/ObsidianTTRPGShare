@@ -5,7 +5,7 @@ name: Mythic Sphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 10
 name: Mythic Sphinx
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, detect magic, low-light vision, see invisibility
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 142
-HP_extra: 
 HD: 12d10+76
 saves: Fort +11, Ref +9, Will +10
 resist: electricity 30, fire 30
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts and hills
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Riddle (Su)

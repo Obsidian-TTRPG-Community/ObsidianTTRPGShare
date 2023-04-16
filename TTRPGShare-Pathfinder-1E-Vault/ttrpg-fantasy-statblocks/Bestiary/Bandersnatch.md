@@ -5,7 +5,7 @@ name: Bandersnatch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 17
 name: Bandersnatch
 Monster_XP: 102400
@@ -45,6 +45,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Bounding Charge (Ex)

@@ -5,7 +5,7 @@ name: Gar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Gar
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: low-light vision
 AC: 12, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +5, Will +1
 speed: swim 60 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: temperate freshwater
   - name: Organisation
     desc: solitary, pair, or school (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

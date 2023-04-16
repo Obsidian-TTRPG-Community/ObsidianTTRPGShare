@@ -5,7 +5,7 @@ name: Hunting Horror
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 113: What Grows Within"
+source: "Pathfinder No. 113: What Grows Within"
 Monster_CR: 14
 name: Hunting Horror
 Monster_XP: 38400
@@ -46,6 +46,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Answer Beckoning (Ex)

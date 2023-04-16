@@ -5,7 +5,7 @@ name: Earth Yai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 53: Tide of Honor"
+source: "Pathfinder No. 53: Tide of Honor"
 Monster_CR: 13
 name: Earth Yai
 Monster_XP: 25600
@@ -43,6 +43,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary, band (1 plus 4-8 stone giants), or tribe (1 plus 2-3 stone giant elders and 10-20 stone giants)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spiky Skin (Ex)

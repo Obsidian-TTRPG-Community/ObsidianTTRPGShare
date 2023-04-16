@@ -5,7 +5,7 @@ name: Ringhorn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 1
 name: Ringhorn
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +6, Will +1
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate hills and plains
   - name: Organisation
     desc: solitary, pair, or herd (10-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Surefooted (Ex)

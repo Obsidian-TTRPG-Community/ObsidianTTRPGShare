@@ -5,7 +5,7 @@ name: Drain Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 1/4
 name: Drain Spider
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +2, Will +0
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

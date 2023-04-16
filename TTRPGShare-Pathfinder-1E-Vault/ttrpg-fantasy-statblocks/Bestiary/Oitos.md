@@ -5,7 +5,7 @@ name: Oitos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 11
 name: Oitos
 Monster_XP: 12800
@@ -39,6 +39,7 @@ ecology:
     desc: any (Shadow Plane)
   - name: Organisation
     desc: solitary, pair, or delegation (1 plus 1d6 kytons)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Dark Traveler (Ex)

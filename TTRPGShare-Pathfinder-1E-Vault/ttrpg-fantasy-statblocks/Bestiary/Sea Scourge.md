@@ -5,7 +5,7 @@ name: Sea Scourge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 6
 name: Sea Scourge
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: -5
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -2, size -1)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +1, Will -2
 immune: acid, ooze traits
@@ -39,6 +38,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, swarm (2-5), or bloom (6-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Acid Jet (Ex)

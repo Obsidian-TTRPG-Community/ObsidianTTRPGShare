@@ -5,7 +5,7 @@ name: NPC Battle Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Battle Mage
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +5
 senses: low-light vision
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 19
-HP_extra: 
 HD: 3d6+6
 saves: Fort +2, Ref +3, Will +3
 saves_other: +2 vs. enchantments

@@ -5,7 +5,7 @@ name: Talmandor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 23
 name: Talmandor
 Monster_XP: 819200
@@ -19,7 +19,6 @@ senses: darkvision, see invisibility, true seeing
 aura: frightful presence, protective aura, quell the profane
 AC: 40, touch 22, flat-footed 27 (dex +13, natural +18, size -1)
 HP: 472
-HP_extra: 
 HD: 27d10+324
 saves: Fort +27, Ref +22, Will +21
 saves_other: +4 vs. poison
@@ -48,6 +47,7 @@ ecology:
     desc: any air (Nirvana)
   - name: Organisation
     desc: solitary or flight (Talmandor and 3-6 advanced avorals)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Benevolent Mercy (Su)

@@ -5,7 +5,7 @@ name: Hangman Tree
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Hangman Tree
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +11
 senses: blindsight
 AC: 20, touch 7, flat-footed 20 (dex -1, natural +13, size -2)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +12, Ref +3, Will +5
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hallucinatory Spores (Ex)

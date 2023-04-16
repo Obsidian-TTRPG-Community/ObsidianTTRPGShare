@@ -5,7 +5,7 @@ name: Mythic Tyrant Jelly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Mythic Tyrant Jelly
 Monster_XP: 6400
@@ -40,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or nest (1 plus 7-19 giant wasps)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Control Vermin (Ex)

@@ -5,7 +5,7 @@ name: Grootslang
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 16
 name: Grootslang
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +28
 senses: darkvision, scent
 AC: 31, touch 11, flat-footed 26 (dex +4, dodge +1, natural +20, size -4)
 HP: 283
-HP_extra: 
 HD: 21d10+168
 saves: Fort +20, Ref +16, Will +12
 DR: 10/magic

@@ -5,7 +5,7 @@ name: Razormouth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Razormouth
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision
 AC: 25, touch 13, flat-footed 20 (dex +5, natural +12, size -2)
 HP: 149
-HP_extra: 
 HD: 13d8+91
 saves: Fort +15, Ref +9, Will +4
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Savage Bite (Ex)

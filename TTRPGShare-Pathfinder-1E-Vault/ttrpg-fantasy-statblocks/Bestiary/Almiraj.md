@@ -5,7 +5,7 @@ name: Almiraj
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Almiraj
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, low-light vision, scent
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +5, Will +0
 saves_other: -2 vs. witch hexes

@@ -5,7 +5,7 @@ name: NPC Blue Warder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 6
 name: NPC Blue Warder
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 13, touch 13, flat-footed 11 (deflection +1, dex +2)
 HP: 48
-HP_extra: 
 HD: 7d6+21
 saves: Fort +5, Ref +5, Will +7
 saves_other: +2 vs. poison, spells, and spell-like abilities

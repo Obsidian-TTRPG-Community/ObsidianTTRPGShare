@@ -5,7 +5,7 @@ name: Fungal Nymph
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Fungal Nymph
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: blinding beauty
 AC: 23, touch 21, flat-footed 19 (deflection +7, dex +4, natural +2)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +15, Ref +17, Will +16
 immune: disease, plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: any ruins or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 spells_prepared:
   - name:

@@ -5,7 +5,7 @@ name: Water Leaper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Water Leaper
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +6, Will +3
 speed: 20 ft., fly 20 ft. (clumsy), swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any lakes or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Jagged Sting (Ex)

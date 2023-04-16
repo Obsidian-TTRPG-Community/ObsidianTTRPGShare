@@ -5,7 +5,7 @@ name: Hand of the Inheritor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Hand of the Inheritor
 Monster_XP: 51200

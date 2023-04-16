@@ -5,7 +5,7 @@ name: Pale Stranger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Pale Stranger
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: fear
 AC: 25, touch 19, flat-footed 19 (armor +2, dex +5, dodge +1, luck +3, natural +4)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +10, Will +13
 immune: undead traits

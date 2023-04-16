@@ -5,7 +5,7 @@ name: Ogre Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Ogre Hunter
 Monster_XP: 6400

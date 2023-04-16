@@ -5,7 +5,7 @@ name: Galundari, the Scourge of Heaven
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 25
 name: Galundari, the Scourge of Heaven
 Monster_XP: 1638400

@@ -5,7 +5,7 @@ name: Faceless Whale
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 15
 name: Faceless Whale
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +19
 senses: blindsight
 AC: 30, touch 0, flat-footed 30 (dex -2, natural +30, size -8)
 HP: 248
-HP_extra: 
 HD: 16d10+160
 saves: Fort +22, Ref +8, Will +7
 immune: sonic, gaze attacks, sight-based attacks, visual effects and illusions
@@ -40,6 +39,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or pod (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blind (Ex)

@@ -5,7 +5,7 @@ name: Ostovite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Ostovite
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +6, Will +0
 immune: cold
@@ -39,6 +38,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bone Chariot (Su)

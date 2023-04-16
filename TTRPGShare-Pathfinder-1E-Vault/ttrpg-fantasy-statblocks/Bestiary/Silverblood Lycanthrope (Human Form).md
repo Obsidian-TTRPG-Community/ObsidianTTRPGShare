@@ -5,7 +5,7 @@ name: Silverblood Lycanthrope (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 5
 name: Silverblood Lycanthrope (Human Form)
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 38
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +6, Will +3
 speed: 30 ft.

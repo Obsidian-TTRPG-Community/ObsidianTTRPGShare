@@ -5,7 +5,7 @@ name: Sin Seeker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 73: The Worldwound Incursion"
+source: "Pathfinder No. 73: The Worldwound Incursion"
 Monster_CR: 2
 name: Sin Seeker
 Monster_XP: 600
@@ -18,7 +18,6 @@ senses: blindsight, low-light vision, scent
 aura: honesty
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +3, Ref +5, Will +3
 immune: gaze attacks, visual effects and illusions, attacks that rely on sight
@@ -38,6 +37,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Honesty (Su)

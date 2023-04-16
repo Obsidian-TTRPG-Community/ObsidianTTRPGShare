@@ -5,7 +5,7 @@ name: Ikelos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 95: Anvil of Fire"
+source: "Pathfinder No. 95: Anvil of Fire"
 Monster_CR: 7
 name: Ikelos
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: lethargy
 AC: 18, touch 18, flat-footed 13 (deflection +3, dex +4, dodge +1)
 HP: 67
-HP_extra: 
 HD: 9d10+18
 saves: Fort +7, Ref +7, Will +9
 defensive_abilities: dream-phased, incorporeal
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pack (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dream-Phased (Su)

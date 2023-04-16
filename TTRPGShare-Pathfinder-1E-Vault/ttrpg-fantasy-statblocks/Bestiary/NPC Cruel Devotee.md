@@ -5,7 +5,7 @@ name: NPC Cruel Devotee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Cruel Devotee
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +5
 perception: +11
 AC: 17, touch 17, flat-footed 15 (deflection +1, dex +1, dodge +1, monk +1, wis +3)
 HP: 31
-HP_extra: 
 HD: 5d8+5
 saves: Fort +6, Ref +6, Will +8
 saves_other: +2 vs. enchantments

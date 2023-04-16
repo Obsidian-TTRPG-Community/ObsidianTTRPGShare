@@ -5,7 +5,7 @@ name: Gorgoros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Gorgoros
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +12, Will +11
 immune: cold, mind-affecting effects, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or circle (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Feast of Stone (Su)

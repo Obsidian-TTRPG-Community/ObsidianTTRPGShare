@@ -5,7 +5,7 @@ name: Suijin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 52: Forest of Spirits"
+source: "Pathfinder No. 52: Forest of Spirits"
 Monster_CR: 14
 name: Suijin
 Monster_XP: 38400
@@ -43,6 +43,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

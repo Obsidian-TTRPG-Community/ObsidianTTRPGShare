@@ -5,7 +5,7 @@ name: Giant Tortoise
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Giant Tortoise
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 16, touch 8, flat-footed 16 (dex -2, natural +8)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +8, Ref +1, Will +2
 speed: 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm deserts or islands
   - name: Organisation
     desc: solitary, pair, or herd (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Buoyant (Ex)

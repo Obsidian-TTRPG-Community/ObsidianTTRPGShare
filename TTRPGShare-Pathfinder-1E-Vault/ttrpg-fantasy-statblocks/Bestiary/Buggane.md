@@ -5,7 +5,7 @@ name: Buggane
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Buggane
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +9
 senses: tremorsense, scent
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +7, Ref +4, Will +6
 weak: light blindness
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, hunting party (3-5), or clan (6-30)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blind (Ex)

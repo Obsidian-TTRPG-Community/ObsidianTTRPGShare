@@ -5,7 +5,7 @@ name: NPC Priest of Oblivion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Priest of Oblivion
 Monster_XP: 153600
@@ -19,7 +19,6 @@ INI: +4
 perception: +21
 AC: 31, touch 14, flat-footed 31 (armor +13, deflection +4, natural +2, shield +2)
 HP: 184
-HP_extra: 
 HD: 19d8+95
 saves: Fort +16, Ref +7, Will +18
 speed: 20 ft.

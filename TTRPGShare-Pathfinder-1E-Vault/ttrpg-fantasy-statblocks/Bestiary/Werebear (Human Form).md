@@ -5,7 +5,7 @@ name: Werebear (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Werebear (Human Form)
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 34
-HP_extra: 
 HD: 4d10+8
 saves: Fort +5, Ref +6, Will +2
 speed: 30 ft.

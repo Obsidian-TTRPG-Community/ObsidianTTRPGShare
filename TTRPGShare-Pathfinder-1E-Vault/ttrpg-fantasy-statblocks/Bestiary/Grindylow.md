@@ -5,7 +5,7 @@ name: Grindylow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Grindylow
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +1, Ref +2, Will +2
 speed: 15 ft., swim 30 ft., jet 200 ft.

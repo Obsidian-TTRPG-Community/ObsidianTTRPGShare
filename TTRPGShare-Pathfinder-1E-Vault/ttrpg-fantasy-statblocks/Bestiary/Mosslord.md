@@ -5,7 +5,7 @@ name: Mosslord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Mosslord
 Monster_XP: 153600
@@ -41,6 +41,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Deadwood Curse (Su)

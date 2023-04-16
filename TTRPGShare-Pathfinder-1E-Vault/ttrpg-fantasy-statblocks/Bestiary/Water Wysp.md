@@ -5,7 +5,7 @@ name: Water Wysp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Water Wysp
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: resonance
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +4, Will +2
 immune: elemental traits

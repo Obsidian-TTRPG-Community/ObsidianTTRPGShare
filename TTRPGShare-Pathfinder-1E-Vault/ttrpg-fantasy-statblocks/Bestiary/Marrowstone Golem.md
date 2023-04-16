@@ -5,7 +5,7 @@ name: Marrowstone Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 8
 name: Marrowstone Golem
 Monster_XP: 4800
@@ -17,7 +17,6 @@ senses: darkvision, low-light vision
 aura: necrotic field
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +3, Ref +3, Will +3
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any underground (Darklands)
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Create Spawn (Su)

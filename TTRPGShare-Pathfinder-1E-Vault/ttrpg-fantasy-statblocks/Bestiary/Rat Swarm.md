@@ -5,7 +5,7 @@ name: Rat Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Rat Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +5, Will +2
 defensive_abilities: swarm traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pack (2-5 swarms), or infestation (6-12 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

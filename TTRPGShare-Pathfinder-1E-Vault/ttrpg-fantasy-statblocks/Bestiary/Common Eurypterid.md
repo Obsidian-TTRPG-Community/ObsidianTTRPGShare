@@ -5,7 +5,7 @@ name: Common Eurypterid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 1
 name: Common Eurypterid
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 14, touch 10, flat-footed 14 (natural +4)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +0, Will +1
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm ocean
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

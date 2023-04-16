@@ -5,7 +5,7 @@ name: NPC Fighting School (Master)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 14
 name: NPC Fighting School (Master)
 Monster_XP: 38400
@@ -18,7 +18,6 @@ INI: +3
 perception: +23
 AC: 25, touch 24, flat-footed 22 (armor +1, deflection +1, dex +3, monk +5, wis +5)
 HP: 112
-HP_extra: 
 HD: 15d8+45
 saves: Fort +12, Ref +13, Will +15
 saves_other: +2 vs. enchantment

@@ -5,7 +5,7 @@ name: Bluetip Eurypterid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 5
 name: Bluetip Eurypterid
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 19, touch 12, flat-footed 16 (dex +3, natural +7, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +7, Will +3
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm ocean
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

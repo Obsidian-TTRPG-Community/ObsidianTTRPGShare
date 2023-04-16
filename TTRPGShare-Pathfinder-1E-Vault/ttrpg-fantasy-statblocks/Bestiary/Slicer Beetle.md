@@ -5,7 +5,7 @@ name: Slicer Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Slicer Beetle
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +2, Will +2
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or cluster (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Crippling Bite (Ex)

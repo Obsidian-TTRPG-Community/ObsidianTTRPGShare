@@ -5,7 +5,7 @@ name: Pufferfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/4
 name: Pufferfish
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +4, Will +1
 defensive_abilities: spines
@@ -36,6 +35,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or school (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

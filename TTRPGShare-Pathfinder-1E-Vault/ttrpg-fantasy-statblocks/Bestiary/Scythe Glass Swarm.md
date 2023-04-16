@@ -5,7 +5,7 @@ name: Scythe Glass Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 101: The Kintargo Contract"
+source: "Pathfinder No. 101: The Kintargo Contract"
 Monster_CR: 9
 name: Scythe Glass Swarm
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 25, touch 21, flat-footed 18 (dex +7, natural +4, size +4)
 HP: 110
-HP_extra: 
 HD: 20d10
 saves: Fort +6, Ref +13, Will +6
 immune: acid, construct traits, weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or gallery (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Freeze (Ex)

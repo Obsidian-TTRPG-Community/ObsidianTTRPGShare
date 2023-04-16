@@ -5,7 +5,7 @@ name: Sinspawn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Sinspawn
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, sin-scent
 AC: 14, touch 12, flat-footed 12 (dex +1, dodge +1, natural +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +2, Will +4
 immune: mind-affecting effects

@@ -5,7 +5,7 @@ name: Mythic Elder Air Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 14
 name: Mythic Elder Air Elemental
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 33, touch 20, flat-footed 21 (dex +11, dodge +1, natural +13, size -2)
 HP: 202
-HP_extra: 
 HD: 16d10+114
 saves: Fort +14, Ref +21, Will +8
 immune: elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Air Mastery (Ex)

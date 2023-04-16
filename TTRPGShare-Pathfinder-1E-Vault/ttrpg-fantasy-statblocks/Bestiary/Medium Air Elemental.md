@@ -5,7 +5,7 @@ name: Medium Air Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Medium Air Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 19, touch 16, flat-footed 13 (dex +5, dodge +1, natural +3)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +9, Will +1
 immune: elemental traits

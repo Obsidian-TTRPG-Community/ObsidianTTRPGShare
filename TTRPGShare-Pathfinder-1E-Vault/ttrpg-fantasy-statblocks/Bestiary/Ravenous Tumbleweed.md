@@ -5,7 +5,7 @@ name: Ravenous Tumbleweed
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Ravenous Tumbleweed
 Monster_XP: 135
@@ -16,7 +16,6 @@ INI: +1
 senses: low-light vision
 AC: 14, touch 13, flat-footed 13 (dex +1, natural +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +1, Will +0
 immune: plant traits
@@ -36,6 +35,7 @@ ecology:
     desc: warm deserts or plains
   - name: Organisation
     desc: solitary, pair, or drift (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hurtling Charge (Ex)

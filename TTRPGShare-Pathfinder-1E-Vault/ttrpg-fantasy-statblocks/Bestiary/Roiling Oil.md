@@ -5,7 +5,7 @@ name: Roiling Oil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Roiling Oil
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 103
-HP_extra: 
 HD: 9d8+63
 saves: Fort +10, Ref -2, Will -2
 immune: electricity, fire, ooze traits
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Nauseating Film (Su)

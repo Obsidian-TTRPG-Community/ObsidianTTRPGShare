@@ -5,7 +5,7 @@ name: Hishandura
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 136: Temple of the Peacock Spirit"
+source: "Pathfinder No. 136: Temple of the Peacock Spirit"
 Monster_CR: 15
 name: Hishandura
 Monster_XP: 51200

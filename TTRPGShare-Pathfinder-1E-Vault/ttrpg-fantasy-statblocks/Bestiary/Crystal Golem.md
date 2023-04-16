@@ -5,7 +5,7 @@ name: Crystal Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Crystal Golem
 Monster_XP: 12800
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision, low-light vision, thoughtsense
 AC: 26, touch 10, flat-footed 25 (dex +1, natural +16, size -1)
 HP: 112
-HP_extra: 
 HD: 15d10+30
 saves: Fort +5, Ref +6, Will +8
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or expatiation (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Magic (Ex)

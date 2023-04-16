@@ -5,7 +5,7 @@ name: Mythic Solar Pitri (Agnishvatta)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 22
 name: Mythic Solar Pitri (Agnishvatta)
 Monster_XP: 614400
@@ -19,7 +19,6 @@ senses: darkvision 60 ft. true seeing
 aura: cosmic fire
 AC: 41, touch 41, flat-footed 32 (deflection +8, dex +7, dodge +2, size -1, soul armor +15)
 HP: 404
-HP_extra: 
 HD: 24d10+272
 saves: Fort +16, Ref +21, Will +23
 saves_other: +2 vs. enchantment
@@ -44,6 +43,7 @@ ecology:
     desc: any (Positive Energy Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cosmic Fire Aura (Su)

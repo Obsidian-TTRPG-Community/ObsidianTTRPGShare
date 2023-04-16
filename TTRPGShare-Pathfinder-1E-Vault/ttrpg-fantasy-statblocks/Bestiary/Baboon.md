@@ -5,7 +5,7 @@ name: Baboon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Baboon
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +4, Will +1
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or mission (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

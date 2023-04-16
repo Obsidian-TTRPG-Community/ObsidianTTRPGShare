@@ -5,7 +5,7 @@ name: Radiant Essence
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 13
 name: Radiant Essence
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight, sense evil
 AC: 8, touch 8, flat-footed 8 (dex -1, size -1)
 HP: 187
-HP_extra: 
 HD: 15d8+120
 saves: Fort +13, Ref +4, Will +0
 immune: ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

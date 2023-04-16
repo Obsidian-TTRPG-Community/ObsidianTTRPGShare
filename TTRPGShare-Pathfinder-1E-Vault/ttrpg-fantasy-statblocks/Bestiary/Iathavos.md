@@ -5,7 +5,7 @@ name: Iathavos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 20
 name: Iathavos
 Monster_XP: 307200
@@ -44,6 +44,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Abyssal Transformation (Su)

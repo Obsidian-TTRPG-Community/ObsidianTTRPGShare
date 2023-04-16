@@ -5,7 +5,7 @@ name: Kech
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Kech
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 16, touch 13, flat-footed 13 (dex +2, dodge +1, natural +3)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +2, Ref +6, Will +5
 speed: 40 ft., climb 20 ft.

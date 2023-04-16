@@ -5,7 +5,7 @@ name: Auwaz Couatl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 140: Eulogy for Roslar's Coffer"
+source: "Pathfinder No. 140: Eulogy for Roslar's Coffer"
 Monster_CR: 6
 name: Auwaz Couatl
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, detect chaos/evil/good/law
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 84
-HP_extra: 
 HD: 8d10+40
 saves: Fort +5, Ref +10, Will +8
 speed: 20 ft., fly 40 ft. (good)
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gifts of the Sea (Ex)

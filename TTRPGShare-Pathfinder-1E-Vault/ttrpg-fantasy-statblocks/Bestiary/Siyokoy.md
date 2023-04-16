@@ -5,7 +5,7 @@ name: Siyokoy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Siyokoy
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +22
 senses: blindsight, darkvision, scent
 AC: 26, touch 16, flat-footed 20 (dex +5, dodge +1, natural +10)
 HP: 136
-HP_extra: 
 HD: 13d8+78
 saves: Fort +10, Ref +9, Will +10
 immune: cold, electricity, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or bed (3-12)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Stunning Shock (Su)

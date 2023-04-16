@@ -5,7 +5,7 @@ name: Night Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Night Hag
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 25, touch 14, flat-footed 21 (dex +4, natural +11)
 HP: 92
-HP_extra: 
 HD: 8d10+48
 saves: Fort +14, Ref +8, Will +11
 immune: charm, cold, fear, fire, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any evil-aligned plane
   - name: Organisation
     desc: solitary, mounted (1 and 1 nightmare), or coven (3 hags of any type)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

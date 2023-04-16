@@ -5,7 +5,7 @@ name: Star Vampire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 110: The Thrushmoor Terror"
+source: "Pathfinder No. 110: The Thrushmoor Terror"
 Monster_CR: 6
 name: Star Vampire
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision, low-light vision, scent blood
 AC: 19, touch 8, flat-footed 19 (dex -1, natural +11, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +6, Ref +4, Will +11
 DR: 5/slashing
@@ -41,6 +40,7 @@ ecology:
     desc: any air
   - name: Organisation
     desc: solitary, pair, or clot (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blood Healing (Ex)

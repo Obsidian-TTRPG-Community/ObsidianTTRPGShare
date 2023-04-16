@@ -5,7 +5,7 @@ name: Jiang-Shi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Jiang-Shi
 Monster_XP: 2400

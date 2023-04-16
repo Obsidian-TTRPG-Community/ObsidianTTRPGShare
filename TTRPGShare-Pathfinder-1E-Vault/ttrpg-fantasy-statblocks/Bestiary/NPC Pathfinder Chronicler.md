@@ -5,7 +5,7 @@ name: NPC Pathfinder Chronicler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 9
 name: NPC Pathfinder Chronicler
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +2
 perception: +10
 AC: 21, touch 15, flat-footed 18 (armor +5, deflection +1, dex +2, dodge +1, natural +1, size +1)
 HP: 68
-HP_extra: 
 HD: 10d8+20
 saves: Fort +6, Ref +10, Will +10
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

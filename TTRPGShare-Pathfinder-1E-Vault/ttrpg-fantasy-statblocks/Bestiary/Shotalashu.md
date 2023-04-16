@@ -5,7 +5,7 @@ name: Shotalashu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 2
 name: Shotalashu
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 25
-HP_extra: 
 HD: 3d10+9
 saves: Fort +6, Ref +6, Will +3
 speed: 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any jungle (Castrovel)
   - name: Organisation
     desc: solitary, bonded mount (1 plus 1 lashunta), or pack (3-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Jungle Strider (Ex)

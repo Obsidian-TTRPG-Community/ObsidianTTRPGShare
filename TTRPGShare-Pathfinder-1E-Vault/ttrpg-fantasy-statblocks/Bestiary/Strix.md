@@ -5,7 +5,7 @@ name: Strix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 1/3
 name: Strix
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +2, Ref +2, Will +0
 saves_other: +2 vs. illusions
@@ -43,6 +42,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary, hunting party (3-6), war party (5-12), or tribe (22 plus 100% noncombatants plus 1 champion of 2nd level per 10 adults, 1 or 2 seers of 3rd or 4th level, and 1 leader of 5th-7th level)
+  - name: Treasure
     desc: NPC Gear
 special_abilities:
   - name: Hatred (Ex)

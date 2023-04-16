@@ -5,7 +5,7 @@ name: Mythic Fomorian Titan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 22
 name: Mythic Fomorian Titan
 Monster_XP: 614400

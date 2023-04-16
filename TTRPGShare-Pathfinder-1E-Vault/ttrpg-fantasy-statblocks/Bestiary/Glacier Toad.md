@@ -5,7 +5,7 @@ name: Glacier Toad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Glacier Toad
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: low-light vision, scent
 aura: bitter cold
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +10, Ref +8, Will +3
 immune: cold
@@ -44,6 +43,7 @@ ecology:
     desc: cold hills or glaciers
   - name: Organisation
     desc: solitary, pair, or knot (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bitter Cold (Su)

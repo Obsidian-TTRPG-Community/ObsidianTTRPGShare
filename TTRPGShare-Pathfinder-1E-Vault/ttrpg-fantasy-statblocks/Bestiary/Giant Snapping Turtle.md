@@ -5,7 +5,7 @@ name: Giant Snapping Turtle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Giant Snapping Turtle
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +21
 senses: low-light vision, scent
 AC: 23, touch 4, flat-footed 23 (dex -2, natural +19, size -4)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +12, Ref +5, Will +6
 speed: 20 ft., swim 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate or warm water or shore
   - name: Organisation
     desc: solitary or band (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Armored Stomach (Ex)

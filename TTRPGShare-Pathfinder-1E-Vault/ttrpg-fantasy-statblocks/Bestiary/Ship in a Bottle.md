@@ -5,7 +5,7 @@ name: Ship in a Bottle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 2
 name: Ship in a Bottle
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 15, touch 14, flat-footed 13 (armor +1, dex +2, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +1, Ref +3, Will +1
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, fleet (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Shatter Spray (Ex)

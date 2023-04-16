@@ -5,7 +5,7 @@ name: Bugbear Shadow Sneak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 10
 name: Bugbear Shadow Sneak
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +15
 senses: darkvision, scent
 AC: 25, touch 16, flat-footed 20 (armor +4, deflection +1, dex +4, dodge +1, natural +5)
 HP: 82
-HP_extra: 
 HD: 12d8+29
 saves: Fort +6, Ref +14, Will +4
 defensive_abilities: evasion, improved uncanny dodge

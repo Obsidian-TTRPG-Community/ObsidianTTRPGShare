@@ -5,7 +5,7 @@ name: Varklops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 30
 name: Varklops
 Monster_XP: 9830400
@@ -46,6 +46,7 @@ ecology:
     desc: warm mountains
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Breath Weapon (Su)

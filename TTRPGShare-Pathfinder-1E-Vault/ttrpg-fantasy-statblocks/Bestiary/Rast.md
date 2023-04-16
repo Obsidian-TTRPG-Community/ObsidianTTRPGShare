@@ -5,7 +5,7 @@ name: Rast
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Rast
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +7)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +6, Will +3
 immune: fire
@@ -38,6 +37,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, pair, cluster (3-6), or pack (7-15)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Paralyzing Gaze (Su)

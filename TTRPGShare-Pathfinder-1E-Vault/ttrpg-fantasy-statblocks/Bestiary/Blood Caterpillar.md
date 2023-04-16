@@ -5,7 +5,7 @@ name: Blood Caterpillar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Blood Caterpillar
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +1, Will +1
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or clutch (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bristles (Ex)

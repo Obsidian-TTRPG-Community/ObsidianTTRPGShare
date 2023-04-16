@@ -5,7 +5,7 @@ name: Serpentfolk High Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 14
 name: Serpentfolk High Priest
 Monster_XP: 38400

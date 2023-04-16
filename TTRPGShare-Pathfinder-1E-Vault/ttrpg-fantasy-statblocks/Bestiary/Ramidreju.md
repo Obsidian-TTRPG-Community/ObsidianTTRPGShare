@@ -5,7 +5,7 @@ name: Ramidreju
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Ramidreju
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +5, Will +1
 speed: 40 ft., burrow 10 ft., climb 20 ft.

@@ -5,7 +5,7 @@ name: NPC Tainted Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Tainted Sorcerer
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +2
 senses: low-light vision
 AC: 13, touch 12, flat-footed 12 (armor +1, dex +1, size +1)
 HP: 28
-HP_extra: 
 HD: 4d6+12
 saves: Fort +3, Ref +2, Will +6
 saves_other: +2 vs. illusions

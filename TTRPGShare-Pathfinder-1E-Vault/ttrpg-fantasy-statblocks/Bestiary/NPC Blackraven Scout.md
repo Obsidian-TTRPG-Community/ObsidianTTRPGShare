@@ -5,7 +5,7 @@ name: NPC Blackraven Scout
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 5
 name: NPC Blackraven Scout
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: +4
 perception: +10
 AC: 17, touch 15, flat-footed 12 (armor +2, dex +4, dodge +1)
 HP: 55
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +10, Will +4
 speed: 30 ft.

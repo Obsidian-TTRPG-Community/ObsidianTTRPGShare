@@ -5,7 +5,7 @@ name: Mythic Hill Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 9
 name: Mythic Hill Giant
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +6
 senses: low-light vision
 AC: 24, touch 8, flat-footed 24 (armor +4, dex -1, natural +12, size -1)
 HP: 119
-HP_extra: 
 HD: 10d8+74
 saves: Fort +12, Ref +2, Will +3
 DR: 5/epic

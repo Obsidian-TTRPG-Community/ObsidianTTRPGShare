@@ -5,7 +5,7 @@ name: Mythic Ogre
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 4
 name: Mythic Ogre
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 19, touch 8, flat-footed 19 (armor +5, dex -1, natural +6, size -1)
 HP: 50
-HP_extra: 
 HD: 5d8+28
 saves: Fort +7, Ref +0, Will +3
 DR: 5/epic

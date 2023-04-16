@@ -5,7 +5,7 @@ name: Alp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Alp
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 24, touch 19, flat-footed 15 (dex +8, dodge +1, natural +5)
 HP: 123
-HP_extra: 
 HD: 13d6+78
 saves: Fort +10, Ref +16, Will +9
 immune: sleep effects
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or visitation (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Crushing Leap (Su)

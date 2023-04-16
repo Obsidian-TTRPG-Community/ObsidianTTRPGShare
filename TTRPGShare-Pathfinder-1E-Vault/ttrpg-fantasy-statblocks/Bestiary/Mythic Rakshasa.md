@@ -5,7 +5,7 @@ name: Mythic Rakshasa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 12
 name: Mythic Rakshasa
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, scent
 AC: 35, touch 21, flat-footed 29 (dex +5, dodge +1, insight +5, natural +14)
 HP: 165
-HP_extra: 
 HD: 10d10+110
 saves: Fort +9, Ref +12, Will +8
 DR: 15/epic and good and piercing

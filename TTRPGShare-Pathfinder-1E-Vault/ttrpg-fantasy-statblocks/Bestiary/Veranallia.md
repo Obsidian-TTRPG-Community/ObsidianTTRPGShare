@@ -5,7 +5,7 @@ name: Veranallia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 20
 name: Veranallia
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: darkvision, detect animals or plants, detect evil, low-light vision, tre
 aura: holy aura
 AC: 36, touch 21, flat-footed 28 (deflection +4, dex +8, natural +15, size -1)
 HP: 372
-HP_extra: 
 HD: 24d10+240
 saves: Fort +28, Ref +20, Will +26
 immune: electricity, petrification
@@ -44,6 +43,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or grove (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Autumnal Embrace (Su)

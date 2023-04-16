@@ -5,7 +5,7 @@ name: Cockroach Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Cockroach Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +3, Will +1
 defensive_abilities: swarm traits, Immune weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: any temperate, warm, or urban
   - name: Organisation
     desc: solitary, pair, or intrusion (3-20 swarms)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

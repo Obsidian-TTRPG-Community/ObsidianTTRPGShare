@@ -5,7 +5,7 @@ name: Iron Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Iron Golem
 Monster_XP: 25600
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 28, touch 8, flat-footed 28 (dex -1, natural +20, size -1)
 HP: 129
-HP_extra: 
 HD: 18d10+30
 saves: Fort +6, Ref +5, Will +6
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

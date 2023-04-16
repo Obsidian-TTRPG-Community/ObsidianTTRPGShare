@@ -5,7 +5,7 @@ name: Rhamphorhynchus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Rhamphorhynchus
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +7, Will +2
 defensive_abilities: evasion
@@ -37,6 +36,7 @@ ecology:
     desc: warm coastlines or forests
   - name: Organisation
     desc: solitary, pair, or flock (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sudden Swoop (Ex)

@@ -5,7 +5,7 @@ name: Akizendri
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 3
 name: Akizendri
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: blindsense, darkvision, detect law
 AC: 16, touch 14, flat-footed 13 (dex +3, natural +2, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +7, Will +6
 immune: acid, polymorph
@@ -41,6 +40,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary, pair, or garble (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Garbled Thoughts and Twisted Tongues (Su)

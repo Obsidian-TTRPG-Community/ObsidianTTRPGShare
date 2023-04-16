@@ -5,7 +5,7 @@ name: Siren's Bed Anemone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Siren's Bed Anemone
 Monster_XP: 6400
@@ -17,7 +17,6 @@ INI: +4
 senses: blindsight
 AC: 23, touch 10, flat-footed 19 (dex +4, natural +13, size -4)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +13, Ref +8, Will +5
 immune: gaze attacks, mind-affecting effects, poison, sonic, vision-based attacks
@@ -38,6 +37,7 @@ ecology:
     desc: warm coastlines or oceans
   - name: Organisation
     desc: solitary, pair, or choir (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

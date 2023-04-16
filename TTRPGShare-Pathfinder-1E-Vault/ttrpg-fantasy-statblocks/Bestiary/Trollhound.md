@@ -5,7 +5,7 @@ name: Trollhound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Trollhound
 Monster_XP: 800
@@ -35,6 +35,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disease (Ex)

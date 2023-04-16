@@ -5,7 +5,7 @@ name: Bottled Armada
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 6
 name: Bottled Armada
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 18, touch 15, flat-footed 15 (armor +3, dex +3, size +2)
 HP: 64
-HP_extra: 
 HD: 8d10+20
 saves: Fort +2, Ref +7, Will +4
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, fleet (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Shatter Swarm (Ex)

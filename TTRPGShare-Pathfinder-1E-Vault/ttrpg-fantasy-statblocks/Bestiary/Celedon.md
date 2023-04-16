@@ -5,7 +5,7 @@ name: Celedon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Celedon
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision, low-light vision
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 25
-HP_extra: 
 HD: 1d10+20
 saves: Fort +0, Ref +0, Will +4
 immune: construct traits

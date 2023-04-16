@@ -5,7 +5,7 @@ name: Jinushigami
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Jinushigami
 Monster_XP: 307200
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Infused Quarterstaff (Su)

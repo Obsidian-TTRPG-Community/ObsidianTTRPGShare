@@ -5,7 +5,7 @@ name: Freshwater Merrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Freshwater Merrow
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +5
 senses: low-light vision
 AC: 17, touch 13, flat-footed 13 (dex +4, natural +4, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +5, Will +3
 speed: 40 ft., swim 40 ft.

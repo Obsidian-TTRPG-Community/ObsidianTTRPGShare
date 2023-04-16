@@ -5,7 +5,7 @@ name: NPC Geb Blood Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 18
 name: NPC Geb Blood Lord
 Monster_XP: 153600

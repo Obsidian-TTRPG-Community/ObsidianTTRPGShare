@@ -5,7 +5,7 @@ name: Keulia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Druma, Profit and Prophecy"
+source: "Druma, Profit and Prophecy"
 Monster_CR: 1/4
 name: Keulia
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +3, Will +1
 speed: 20 ft., burrow 5 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or masquerade (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Custom Camouflage (Ex)

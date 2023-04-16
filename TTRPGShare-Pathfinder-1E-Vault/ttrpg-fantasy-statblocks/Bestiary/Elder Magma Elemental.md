@@ -5,7 +5,7 @@ name: Elder Magma Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Elder Magma Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 25, touch 7, flat-footed 25 (dex -1, natural +18, size -2)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +9, Will +5
 immune: fire, elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

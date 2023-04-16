@@ -5,7 +5,7 @@ name: Wild Hunt Scout
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Wild Hunt Scout
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +34
 senses: greensight, low-light vision, scent, see in darkness
 AC: 31, touch 25, flat-footed 21 (deflection +5, dex +9, dodge +1, natural +6)
 HP: 228
-HP_extra: 
 HD: 24d6+144
 saves: Fort +16, Ref +23, Will +21
 immune: cold, blindness
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, invasion (2-6), or wild hunt
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Crystal (Su)

@@ -5,7 +5,7 @@ name: Dark Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cradle of Night"
+source: "Cradle of Night"
 Monster_CR: 5
 name: Dark Champion
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsight
 AC: 20, touch 11, flat-footed 19 (armor +9, dex +1)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +9, Ref +3, Will +4
 immune: gaze attacks, sight-based attacks, visual effects

@@ -5,7 +5,7 @@ name: Polevik
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 63: The Asylum Stone"
+source: "Pathfinder No. 63: The Asylum Stone"
 Monster_CR: 5
 name: Polevik
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: putrefying aura
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 60
-HP_extra: 
 HD: 8d6+32
 saves: Fort +6, Ref +10, Will +7
 immune: disease, nausea, poison, sickened condition

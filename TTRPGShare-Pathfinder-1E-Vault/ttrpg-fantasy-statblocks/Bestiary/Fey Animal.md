@@ -5,7 +5,7 @@ name: Fey Animal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 3
 name: Fey Animal
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 17, touch 14, flat-footed 13 (dex +4, natural +3)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +5, Ref +7, Will +3
 DR: 5/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

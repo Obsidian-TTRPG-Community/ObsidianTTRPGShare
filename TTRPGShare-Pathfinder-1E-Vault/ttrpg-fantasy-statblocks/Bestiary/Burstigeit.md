@@ -5,7 +5,7 @@ name: Burstigeit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 3
 name: Burstigeit
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +6, Will +2
 saves_other: +2 vs. poison, spells, and spell-like abilities
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or herd (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hardy (Ex)

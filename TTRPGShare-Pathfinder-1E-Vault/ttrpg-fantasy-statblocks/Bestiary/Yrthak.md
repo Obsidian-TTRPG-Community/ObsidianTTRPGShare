@@ -5,7 +5,7 @@ name: Yrthak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Yrthak
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +18
 senses: blindsight
 AC: 23, touch 11, flat-footed 20 (dex +2, dodge +1, natural +12, size -2)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +12, Will +8
 immune: gaze attacks, visual effects and illusions, sight-based attacks, sonic
@@ -42,6 +41,7 @@ ecology:
     desc: temperate deserts, hills, or mountains
   - name: Organisation
     desc: solitary, pair, or clutch (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blind (Ex)

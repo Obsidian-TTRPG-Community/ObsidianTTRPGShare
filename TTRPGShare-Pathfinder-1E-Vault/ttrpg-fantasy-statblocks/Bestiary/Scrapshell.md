@@ -5,7 +5,7 @@ name: Scrapshell
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 6
 name: Scrapshell
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision, low-light vision
 AC: 23, touch 11, flat-footed 21 (armor +4, dex +2, natural +8, size -1)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +9, Ref +4, Will +4
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or bed (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ambush Strike (Ex)

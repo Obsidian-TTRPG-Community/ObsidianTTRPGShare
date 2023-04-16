@@ -5,7 +5,7 @@ name: Ghaele
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Ghaele
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision, see invisibility
 aura: holy aura
 AC: 28, touch 16, flat-footed 26 (deflection +4, dex +1, dodge +1, natural +12)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +17, Ref +11, Will +16
 immune: electricity, petrification

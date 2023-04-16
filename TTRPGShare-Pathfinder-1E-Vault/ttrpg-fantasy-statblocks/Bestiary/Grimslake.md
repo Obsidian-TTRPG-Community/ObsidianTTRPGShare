@@ -5,7 +5,7 @@ name: Grimslake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Grimslake
 Monster_XP: 2400
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or tangle (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Marrow Drain (Ex)

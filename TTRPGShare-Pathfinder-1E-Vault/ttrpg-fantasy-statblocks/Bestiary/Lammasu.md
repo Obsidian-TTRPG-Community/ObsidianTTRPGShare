@@ -5,7 +5,7 @@ name: Lammasu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Lammasu
 Monster_XP: 4800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: magic circle against evil
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +11, Ref +9, Will +8
 speed: 30 ft., fly 60 ft. (average)
@@ -38,6 +37,7 @@ ecology:
     desc: temperate deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spells

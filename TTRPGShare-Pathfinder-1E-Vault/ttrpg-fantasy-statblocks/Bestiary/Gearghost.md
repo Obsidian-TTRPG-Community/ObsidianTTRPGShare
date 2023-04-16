@@ -5,7 +5,7 @@ name: Gearghost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Gearghost
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision
 AC: 18, touch 15, flat-footed 17 (dex +3, natural +3, size +2)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +7, Will +7
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any urban or underground
   - name: Organisation
     desc: solitary or gang (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Trap (Su)

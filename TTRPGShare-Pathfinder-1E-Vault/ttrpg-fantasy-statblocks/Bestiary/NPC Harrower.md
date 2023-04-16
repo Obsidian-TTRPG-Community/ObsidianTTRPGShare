@@ -5,7 +5,7 @@ name: NPC Harrower
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 9
 name: NPC Harrower
 Monster_XP: 6400

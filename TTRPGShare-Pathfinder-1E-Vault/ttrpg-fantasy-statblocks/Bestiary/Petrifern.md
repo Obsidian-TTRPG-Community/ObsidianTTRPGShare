@@ -5,7 +5,7 @@ name: Petrifern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Petrifern
 Monster_XP: 65
@@ -16,7 +16,6 @@ INI: -1
 senses: blindsight
 AC: 15, touch 13, flat-footed 15 (dex -1, natural +2, size +4)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref -1, Will -2
 immune: plant traits
@@ -35,6 +34,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary, pair, or bundle (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Self-Petrification (Ex)

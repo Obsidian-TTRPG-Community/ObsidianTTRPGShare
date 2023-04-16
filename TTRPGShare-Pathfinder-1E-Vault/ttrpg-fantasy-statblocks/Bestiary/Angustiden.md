@@ -5,7 +5,7 @@ name: Angustiden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 7
 name: Angustiden
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +19
 senses: blindsense, keen scent
 AC: 16, touch 7, flat-footed 15 (dex +1, natural +9, size -4)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +15, Ref +8, Will +3
 speed: swim 90 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Powerful Jaws (Ex)

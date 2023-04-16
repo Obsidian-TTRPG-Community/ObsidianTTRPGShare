@@ -5,7 +5,7 @@ name: Rope Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Rope Dragon
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 19, touch 15, flat-footed 16 (dex +4, natural +4, size +1)
 HP: 57
-HP_extra: 
 HD: 6d12+18
 saves: Fort +8, Ref +9, Will +7
 immune: paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corded Breath (Su)

@@ -5,7 +5,7 @@ name: Karumzek
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Karumzek
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision, sense poison
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +6, Will +2
 immune: poison

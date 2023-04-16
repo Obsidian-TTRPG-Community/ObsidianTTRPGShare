@@ -5,7 +5,7 @@ name: Papinijuwari
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 13
 name: Papinijuwari
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, low-light vision, sense decay
 AC: 28, touch 11, flat-footed 25 (armor +8, dex +3, natural +9, size -2)
 HP: 187
-HP_extra: 
 HD: 15d8+120
 saves: Fort +17, Ref +11, Will +11
 immune: disease, poison

@@ -5,7 +5,7 @@ name: Ancient Crypt Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Ancient Crypt Dragon
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 40, touch 5, flat-footed 40 (dex -1, natural +35, size -4)
 HP: 406
-HP_extra: 
 HD: 28d12+224
 saves: Fort +24, Ref +17, Will +25
 DR: 15/adamantine

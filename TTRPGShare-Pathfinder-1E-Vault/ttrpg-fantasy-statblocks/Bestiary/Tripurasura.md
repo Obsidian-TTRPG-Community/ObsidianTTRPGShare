@@ -5,7 +5,7 @@ name: Tripurasura
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Tripurasura
 Monster_XP: 600
@@ -43,6 +43,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or gang (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Shape (Su)

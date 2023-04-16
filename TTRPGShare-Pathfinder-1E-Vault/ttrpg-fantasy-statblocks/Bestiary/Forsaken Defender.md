@@ -5,7 +5,7 @@ name: Forsaken Defender
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 102: Breaking the Bones of Hell"
+source: "Pathfinder No. 102: Breaking the Bones of Hell"
 Monster_CR: 4
 name: Forsaken Defender
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 31
-HP_extra: 
 HD: 7d8
 saves: Fort +2, Ref +6, Will +7
 immune: undead traits

@@ -5,7 +5,7 @@ name: Fey Giant Toad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Fey Giant Toad
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +8, Will +0
 saves_other: +4 vs. mind-affecting effects
@@ -45,6 +44,7 @@ ecology:
     desc: temperate forests, plains, or swamps
   - name: Organisation
     desc: solitary, pair, or knot (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison Skin (Ex)

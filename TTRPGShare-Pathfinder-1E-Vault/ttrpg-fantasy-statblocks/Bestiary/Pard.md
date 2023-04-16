@@ -5,7 +5,7 @@ name: Pard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Pard
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 20, touch 18, flat-footed 12 (dex +7, dodge +1, natural +2)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +5, Ref +11, Will +2
 saves_other: +4 vs. poison
@@ -42,6 +41,7 @@ ecology:
     desc: temperate or warm forests or plains
   - name: Organisation
     desc: solitary, pair, or den (1-2 adults and 1-4 cubs)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Empathy (Su)

@@ -5,7 +5,7 @@ name: NPC Adventurer (Tomb Raider)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Adventurer (Tomb Raider)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: +3
 perception: +14
 AC: 17, touch 13, flat-footed 14 (armor +3, dex +3, shield +1)
 HP: 45
-HP_extra: 
 HD: 6d8+18
 saves: Fort +6, Ref +8, Will +2
 defensive_abilities: evasion, trap sense +2, uncanny dodge

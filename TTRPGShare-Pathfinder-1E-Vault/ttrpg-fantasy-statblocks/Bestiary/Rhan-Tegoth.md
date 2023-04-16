@@ -5,7 +5,7 @@ name: Rhan-Tegoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 28
 name: Rhan-Tegoth
 Monster_XP: 4915200
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Always Watching (Ex)

@@ -5,7 +5,7 @@ name: Tooth Fairy Monarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 139: The Dead Road"
+source: "Pathfinder No. 139: The Dead Road"
 Monster_CR: 3
 name: Tooth Fairy Monarch
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +4, size +1)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +8, Will +6
 DR: 5/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or court (1 plus 2-12 tooth fairies)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Death Throes (Su)

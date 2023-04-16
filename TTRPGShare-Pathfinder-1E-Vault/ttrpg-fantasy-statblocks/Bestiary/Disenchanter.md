@@ -5,7 +5,7 @@ name: Disenchanter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Disenchanter
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, detect magic, low-light vision
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +7, Will +4
 DR: 5/magic
@@ -39,6 +38,7 @@ ecology:
     desc: warm land
   - name: Organisation
     desc: solitary, pair, or family (2 adults and 1-2 calves with the young creature template)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disenchant (Ex)

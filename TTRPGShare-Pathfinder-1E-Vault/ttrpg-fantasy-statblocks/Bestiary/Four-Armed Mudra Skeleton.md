@@ -5,7 +5,7 @@ name: Four-Armed Mudra Skeleton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 1/2
 name: Four-Armed Mudra Skeleton
 Monster_XP: 200
@@ -16,7 +16,6 @@ INI: +7
 senses: darkvision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +0, Ref +3, Will +2
 immune: cold, undead traits

@@ -5,7 +5,7 @@ name: Shoggoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 19
 name: Shoggoth
 Monster_XP: 204800
@@ -45,6 +45,7 @@ ecology:
     desc: cold aquatic or underground
   - name: Organisation
     desc: solitary or tide (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: All-Around Vision (Ex)

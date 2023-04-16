@@ -5,7 +5,7 @@ name: Medium Water Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Medium Water Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +5, Will +1
 immune: elemental traits

@@ -5,7 +5,7 @@ name: Fleshdreg Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 61: Shards of Sin"
+source: "Pathfinder No. 61: Shards of Sin"
 Monster_CR: 2
 name: Fleshdreg Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, sin-scent
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +4, Will +3
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: any ruins
   - name: Organisation
     desc: solitary, pair, or infestation (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Arcane Bite (Su)

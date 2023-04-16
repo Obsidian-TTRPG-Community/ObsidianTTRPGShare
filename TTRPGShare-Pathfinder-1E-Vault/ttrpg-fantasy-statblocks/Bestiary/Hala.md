@@ -5,7 +5,7 @@ name: Hala
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 49: The Brinewall Legacy"
+source: "Pathfinder No. 49: The Brinewall Legacy"
 Monster_CR: 4
 name: Hala
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stormwind aura
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +8, Will +1
 immune: electricity, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Enemy of Dragons and Eagles (Ex)

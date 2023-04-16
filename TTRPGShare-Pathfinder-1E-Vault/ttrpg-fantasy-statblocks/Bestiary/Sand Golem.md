@@ -5,7 +5,7 @@ name: Sand Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 9
 name: Sand Golem
 Monster_XP: 6400
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 96
-HP_extra: 
 HD: 12d10+30
 saves: Fort +4, Ref +6, Will +4
 immune: construct traits, magic
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Clutching Sands (Ex)

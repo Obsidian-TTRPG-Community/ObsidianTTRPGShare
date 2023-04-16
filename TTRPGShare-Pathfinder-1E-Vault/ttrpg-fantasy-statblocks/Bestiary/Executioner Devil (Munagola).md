@@ -5,7 +5,7 @@ name: Executioner Devil (Munagola)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 11
 name: Executioner Devil (Munagola)
 Monster_XP: 12800

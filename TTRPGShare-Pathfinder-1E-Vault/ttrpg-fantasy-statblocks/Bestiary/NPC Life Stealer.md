@@ -5,7 +5,7 @@ name: NPC Life Stealer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Life Stealer
 Monster_XP: 38400
@@ -20,7 +20,6 @@ perception: +18
 senses: darkvision, low-light vision, scent
 AC: 20, touch 11, flat-footed 17 (armor +7, dex +3, rage -2, shield +2)
 HP: 200
-HP_extra: 
 HD: 15d12++97
 saves: Fort +17, Ref +10, Will +10
 saves_other: +5 vs. spells and spell-like and supernatural abilities, +4 vs. enchantments

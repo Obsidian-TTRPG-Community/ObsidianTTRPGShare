@@ -5,7 +5,7 @@ name: Yarthoon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 25
 name: Yarthoon
 Monster_XP: 1638400
@@ -45,6 +45,7 @@ ecology:
     desc: any cold (the world’s moon or outer space)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Clinging Frost (Su)

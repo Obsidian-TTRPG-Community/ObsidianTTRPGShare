@@ -5,7 +5,7 @@ name: Tentamort
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Tentamort
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: all-around vision, blindsense, darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +5, Will +7
 speed: 20 ft., climb 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any marshes or underground
   - name: Organisation
     desc: solitary, pair, or brood (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

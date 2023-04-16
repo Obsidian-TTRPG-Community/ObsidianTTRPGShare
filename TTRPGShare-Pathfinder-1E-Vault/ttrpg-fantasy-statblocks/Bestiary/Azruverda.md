@@ -5,7 +5,7 @@ name: Azruverda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Azruverda
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +22
 senses: darkvision, tremorsense
 AC: 25, touch 10, flat-footed 23 (dex +2, natural +15, size -2)
 HP: 168
-HP_extra: 
 HD: 16d8+96
 saves: Fort +11, Ref +7, Will +15
 immune: acid
@@ -42,6 +41,7 @@ ecology:
     desc: underground
   - name: Organisation
     desc: solitary, pair, or brood (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Acid Spit (Ex)

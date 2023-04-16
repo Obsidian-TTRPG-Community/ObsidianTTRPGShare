@@ -5,7 +5,7 @@ name: Dahzagan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 6
 name: Dahzagan
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, deathwatch, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +7, dodge +1, size -1)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +8, Ref +4, Will +7
 immune: fire, poison

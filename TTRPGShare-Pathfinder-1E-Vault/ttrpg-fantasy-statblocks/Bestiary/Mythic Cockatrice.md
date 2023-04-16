@@ -5,7 +5,7 @@ name: Mythic Cockatrice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 4
 name: Mythic Cockatrice
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: petrification
 AC: 17, touch 16, flat-footed 12 (dex +3, dodge +2, natural +1, size +1)
 HP: 43
-HP_extra: 
 HD: 6d10+10
 saves: Fort +5, Ref +8, Will +3
 DR: 5/epic
@@ -38,6 +37,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, flight (3-5), or flock (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Petrification (Su)

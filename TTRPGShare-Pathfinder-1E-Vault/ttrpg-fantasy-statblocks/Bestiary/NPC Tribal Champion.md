@@ -5,7 +5,7 @@ name: NPC Tribal Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Tribal Champion
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +14
 senses: low-light vision
 AC: 21, touch 17, flat-footed 15 (armor +3, deflection +1, dex +5, dodge +1, natural +1)
 HP: 70
-HP_extra: 
 HD: 7d10+2d10+16
 saves: Fort +8, Ref +10, Will +4
 saves_other: +2 vs. enchantments, +2 vs. fear

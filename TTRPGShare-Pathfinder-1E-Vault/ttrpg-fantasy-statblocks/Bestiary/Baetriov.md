@@ -5,7 +5,7 @@ name: Baetriov
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 8
 name: Baetriov
 Monster_XP: 4800

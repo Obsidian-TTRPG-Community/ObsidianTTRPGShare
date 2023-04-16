@@ -5,7 +5,7 @@ name: Stag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Stag
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +6, Will +2
 speed: 50 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or herd (3-20)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

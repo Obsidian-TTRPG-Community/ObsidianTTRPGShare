@@ -5,7 +5,7 @@ name: Gerbie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The First World, Realm of the Fey"
+source: "The First World, Realm of the Fey"
 Monster_CR: 4
 name: Gerbie
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: friendship
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 38
-HP_extra: 
 HD: 7d6+14
 saves: Fort +3, Ref +8, Will +8
 DR: 10/cold iron
@@ -41,6 +40,7 @@ ecology:
     desc: any (First World)
   - name: Organisation
     desc: solitary, pair, or party (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Friendship (Sp)

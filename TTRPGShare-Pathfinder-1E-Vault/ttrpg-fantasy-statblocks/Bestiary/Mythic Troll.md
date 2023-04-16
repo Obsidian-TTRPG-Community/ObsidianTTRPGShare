@@ -5,7 +5,7 @@ name: Mythic Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 6
 name: Mythic Troll
 Monster_XP: 2400
@@ -40,6 +40,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Primal Vigor (Su)

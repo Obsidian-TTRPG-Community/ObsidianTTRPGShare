@@ -5,7 +5,7 @@ name: Banshee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 13
 name: Banshee
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision, hear heartbeat
 AC: 26, touch 26, flat-footed 14 (deflection +4, dex +11, dodge +1)
 HP: 161
-HP_extra: 
 HD: 19d8+76
 saves: Fort +10, Ref +19, Will +18
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hear Heartbeat (Ex)

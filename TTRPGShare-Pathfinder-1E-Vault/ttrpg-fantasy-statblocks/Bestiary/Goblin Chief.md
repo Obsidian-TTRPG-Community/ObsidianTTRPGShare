@@ -5,7 +5,7 @@ name: Goblin Chief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Goblin Chief
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 22, touch 13, flat-footed 19 (armor +9, dex +3)
 HP: 89
-HP_extra: 
 HD: 10d10+30
 saves: Fort +10, Ref +7, Will +7
 defensive_abilities: bravery +3

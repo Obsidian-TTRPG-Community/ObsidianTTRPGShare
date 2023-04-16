@@ -5,7 +5,7 @@ name: Paracletus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Paracletus
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: emotion aura
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 3d10-3
 saves: Fort +4, Ref +3, Will +6
 immune: cold, critical hits, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, or commune (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Emotion Aura (Sp)

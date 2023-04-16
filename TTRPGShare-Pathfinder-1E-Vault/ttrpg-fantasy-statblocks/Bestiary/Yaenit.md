@@ -5,7 +5,7 @@ name: Yaenit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Yaenit
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: darkvision, see invisibility
 aura: hallucinatory aura
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +8, Will +5
 immune: electricity, poison

@@ -5,7 +5,7 @@ name: Mythic Elder Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 14
 name: Mythic Elder Earth Elemental
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, tremorsense
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 218
-HP_extra: 
 HD: 16d10+130
 saves: Fort +15, Ref +4, Will +11
 immune: elemental traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (Plane of Earth)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Earth Mastery (Ex)

@@ -5,7 +5,7 @@ name: NPC Sylvan Protector
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Sylvan Protector
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 18, touch 13, flat-footed 16 (armor +3, dex +2, shield +2, size +1)
 HP: 24
-HP_extra: 
 HD: 3d8+7
 saves: Fort +5, Ref +3, Will +5
 saves_other: +2 vs. illusions

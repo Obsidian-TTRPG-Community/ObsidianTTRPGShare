@@ -5,7 +5,7 @@ name: Weird Butler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Weird Butler
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 19, touch 14, flat-footed 16 (armor +5, dex +3, size +1)
 HP: 31
-HP_extra: 
 HD: 5d8+5
 saves: Fort +3, Ref +5, Will +5
 saves_other: +2 vs. fear

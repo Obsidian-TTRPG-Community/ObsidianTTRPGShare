@@ -5,7 +5,7 @@ name: Ancient Underworld Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 16
 name: Ancient Underworld Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses, smoke vision
 aura: frightful presence
 AC: 39, touch 7, flat-footed 39 (dex -1, natural +32, size -2)
 HP: 297
-HP_extra: 
 HD: 22d12+154
 saves: Fort +20, Ref +12, Will +18
 immune: fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

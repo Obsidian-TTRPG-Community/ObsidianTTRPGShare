@@ -5,7 +5,7 @@ name: Hydrodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Hydrodaemon
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, detect magic
 AC: 20, touch 11, flat-footed 18 (dex +2, natural +9, size -1)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +11, Ref +9, Will +3
 immune: acid, death effects, disease, poison, waters of the River Styx
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, gang (2-5), or mob (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Glide (Ex)

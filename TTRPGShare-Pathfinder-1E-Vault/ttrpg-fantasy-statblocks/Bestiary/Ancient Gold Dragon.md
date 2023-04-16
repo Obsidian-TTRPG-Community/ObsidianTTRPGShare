@@ -5,7 +5,7 @@ name: Ancient Gold Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 20
 name: Ancient Gold Dragon
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: fire, frightful presence
 AC: 39, touch 5, flat-footed 39 (dex -1, natural +34, size -4)
 HP: 377
-HP_extra: 
 HD: 26d12+208
 saves: Fort +23, Ref +14, Will +24
 immune: fire, paralysis, sleep

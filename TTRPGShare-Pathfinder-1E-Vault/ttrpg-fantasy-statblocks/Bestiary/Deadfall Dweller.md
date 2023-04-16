@@ -5,7 +5,7 @@ name: Deadfall Dweller
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tears at Bitter Manor"
+source: "Tears at Bitter Manor"
 Monster_CR: 5
 name: Deadfall Dweller
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +8, Ref +6, Will +3
 immune: acid
@@ -43,6 +42,7 @@ ecology:
     desc: temperate forests and swamps
   - name: Organisation
     desc: solitary, brood (2-5), or ruin (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Implant (Ex)

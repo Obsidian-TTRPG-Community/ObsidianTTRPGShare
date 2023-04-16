@@ -5,7 +5,7 @@ name: NPC Shadow Cleric
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Shadow Cleric
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 26, touch 17, flat-footed 22 (armor +7, deflection +3, dex +3, dodge +1, natural +2)
 HP: 129
-HP_extra: 
 HD: 18d8+45
 saves: Fort +17, Ref +13, Will +21
 saves_other: +2 vs. enchantments

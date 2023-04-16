@@ -5,7 +5,7 @@ name: Mi-go
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Mi-go
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: blindsight, low-light vision
 AC: 20, touch 16, flat-footed 14 (dex +5, dodge +1, natural +4)
 HP: 66
-HP_extra: 
 HD: 7d8+35
 saves: Fort +10, Ref +7, Will +4
 immune: cold, plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, scouting party (3-9), or invasion (9-16)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Deceptive (Ex)

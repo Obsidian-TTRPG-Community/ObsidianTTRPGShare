@@ -5,7 +5,7 @@ name: Weasel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Weasel
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 speed: 20 ft., climb 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

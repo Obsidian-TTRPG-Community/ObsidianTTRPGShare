@@ -5,7 +5,7 @@ name: Psyche Serpent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 2
 name: Psyche Serpent
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +6, Will +2
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any temperate or warm
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hypnotic Hood (Su)

@@ -5,7 +5,7 @@ name: Masked Murderer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Masked Murderer
 Monster_XP: 4800
@@ -19,7 +19,6 @@ perception: +15
 senses: darkvision
 AC: 20, touch 13, flat-footed 17 (armor +5, dex +3, natural +2)
 HP: 113
-HP_extra: 
 HD: 10d8+68
 saves: Fort +8, Ref +9, Will +11
 saves_other: +4 vs. necromantic effects

@@ -5,7 +5,7 @@ name: Hydra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Hydra
 Monster_XP: 1200
@@ -39,6 +39,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fast Healing (Ex)

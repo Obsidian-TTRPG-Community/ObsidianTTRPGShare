@@ -5,7 +5,7 @@ name: Moxix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 20
 name: Moxix
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, see invisibility
 aura: hopedrinker
 AC: 34, touch 9, flat-footed 31 (dex +3, natural +25, size -4)
 HP: 379
-HP_extra: 
 HD: 23d10+253
 saves: Fort +24, Ref +10, Will +22
 immune: electricity, poison
@@ -43,6 +42,7 @@ ecology:
     desc: warm jungles (Yoha’s Graveyard)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Breath Weapon (Su)

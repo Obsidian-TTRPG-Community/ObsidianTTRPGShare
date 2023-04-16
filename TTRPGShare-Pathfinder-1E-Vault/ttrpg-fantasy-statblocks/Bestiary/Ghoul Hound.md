@@ -5,7 +5,7 @@ name: Ghoul Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Ghoul Hound
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +2, Will +5
 immune: undead traits
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, guard (2-4 plus 2-4 ghouls), or pack (4-6 plus 2-4 ghouls)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Su)

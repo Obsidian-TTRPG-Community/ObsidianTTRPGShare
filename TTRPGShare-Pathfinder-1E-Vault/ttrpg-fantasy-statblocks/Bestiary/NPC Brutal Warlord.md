@@ -5,7 +5,7 @@ name: NPC Brutal Warlord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Brutal Warlord
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +1
 senses: darkvision
 AC: 27, touch 12, flat-footed 25 (armor +10, dex +2, shield +5)
 HP: 141
-HP_extra: 
 HD: 13d10+65
 saves: Fort +15, Ref +9, Will +8
 saves_other: +3 vs. fear

@@ -5,7 +5,7 @@ name: Ghost Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Ghost Scorpion
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 12, touch 11, flat-footed 12 (natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +0, Will +0
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: warm deserts or underground
   - name: Organisation
     desc: solitary, pair, nest (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

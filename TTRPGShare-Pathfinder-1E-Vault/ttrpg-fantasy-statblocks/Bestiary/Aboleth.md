@@ -5,7 +5,7 @@ name: Aboleth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Aboleth
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: mucus cloud
 AC: 20, touch 9, flat-footed 19 (dex +1, natural +11, size -2)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +8, Ref +5, Will +11
 speed: 10 ft., swim 60 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary, pair, brood (3-6), or shoal (7-19)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Mucus Cloud (Ex)

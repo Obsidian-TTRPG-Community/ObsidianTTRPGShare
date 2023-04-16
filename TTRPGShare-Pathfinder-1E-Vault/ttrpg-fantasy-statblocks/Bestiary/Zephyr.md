@@ -5,7 +5,7 @@ name: Zephyr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 101: The Kintargo Contract"
+source: "Pathfinder No. 101: The Kintargo Contract"
 Monster_CR: 12
 name: Zephyr
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +24
 senses: low-light vision, wind senses
 AC: 27, touch 19, flat-footed 17 (dex +9, dodge +1, natural +8, size -1)
 HP: 168
-HP_extra: 
 HD: 16d6+112
 saves: Fort +11, Ref +19, Will +15
 immune: electricity
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or herd (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

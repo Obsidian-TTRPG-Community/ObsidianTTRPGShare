@@ -5,7 +5,7 @@ name: Wood
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 27: What Lies in Dust"
+source: "Pathfinder No. 27: What Lies in Dust"
 Monster_CR: 1
 name: Wood
 Monster_XP: 400
@@ -44,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Incombustible Aura (Su)

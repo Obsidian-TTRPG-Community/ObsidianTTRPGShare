@@ -5,7 +5,7 @@ name: Bone Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Emerald Spire Superdungeon"
+source: "The Emerald Spire Superdungeon"
 Monster_CR: 4
 name: Bone Priest
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +3, Will +7
 immune: cold, undead traits

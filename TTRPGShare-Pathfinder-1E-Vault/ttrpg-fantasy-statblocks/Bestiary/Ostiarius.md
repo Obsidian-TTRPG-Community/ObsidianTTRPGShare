@@ -5,7 +5,7 @@ name: Ostiarius
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Ostiarius
 Monster_XP: 1600
@@ -38,6 +38,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or synod (5-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Compel Courage (Ex)

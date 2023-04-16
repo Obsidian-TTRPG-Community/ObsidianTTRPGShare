@@ -5,7 +5,7 @@ name: Jorogumo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Jorogumo
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision
 AC: 27, touch 15, flat-footed 22 (dex +4, dodge +1, natural +12)
 HP: 161
-HP_extra: 
 HD: 14d10+84
 saves: Fort +10, Ref +13, Will +14
 immune: poison
@@ -41,6 +40,7 @@ ecology:
     desc: temperate mountain valleys
   - name: Organisation
     desc: solitary or cult (2-6 plus 2-8 spiders of various sizes)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

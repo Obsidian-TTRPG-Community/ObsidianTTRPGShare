@@ -5,7 +5,7 @@ name: Wild Hunt Horse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Wild Hunt Horse
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +23
 senses: greensight, low-light vision, scent, see in darkness
 AC: 25, touch 17, flat-footed 20 (deflection +3, dex +4, dodge +1, natural +8, size -1)
 HP: 142
-HP_extra: 
 HD: 19d6+76
 saves: Fort +12, Ref +15, Will +12
 immune: cold
@@ -43,6 +42,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, herd (2-10), or wild hunt
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bewildering Hoofbeats (Su)

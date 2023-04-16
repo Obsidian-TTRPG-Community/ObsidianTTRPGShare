@@ -5,7 +5,7 @@ name: Clockwork Servant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Clockwork Servant
 Monster_XP: 600
@@ -37,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, team (2-4), or squadron (5-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Net (Ex)

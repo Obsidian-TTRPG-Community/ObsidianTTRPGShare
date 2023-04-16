@@ -5,7 +5,7 @@ name: Owb
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Owb
 Monster_XP: 2400
@@ -39,6 +39,7 @@ ecology:
     desc: any land or underground (Plane of Shadow)
   - name: Organisation
     desc: solitary or cabal (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Burning Cold (Su)

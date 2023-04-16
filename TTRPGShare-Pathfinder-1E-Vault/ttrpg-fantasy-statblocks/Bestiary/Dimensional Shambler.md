@@ -5,7 +5,7 @@ name: Dimensional Shambler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 46: Wake of the Watcher"
+source: "Pathfinder No. 46: Wake of the Watcher"
 Monster_CR: 8
 name: Dimensional Shambler
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +11, Ref +8, Will +10
 immune: summoning
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dimension Mastery (Ex)

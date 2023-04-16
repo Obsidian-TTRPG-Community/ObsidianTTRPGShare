@@ -5,7 +5,7 @@ name: Lampad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Lampad
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: insane beauty
 AC: 20, touch 20, flat-footed 15 (deflection +5, dex +5)
 HP: 52
-HP_extra: 
 HD: 7d6+28
 saves: Fort +6, Ref +10, Will +8
 DR: 5/cold iron

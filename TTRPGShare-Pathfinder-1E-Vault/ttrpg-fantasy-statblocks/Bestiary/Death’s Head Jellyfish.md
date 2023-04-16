@@ -5,7 +5,7 @@ name: Death’s Head Jellyfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Death’s Head Jellyfish
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +3, Will +0
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pack (2-5), or bloom (6-13)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

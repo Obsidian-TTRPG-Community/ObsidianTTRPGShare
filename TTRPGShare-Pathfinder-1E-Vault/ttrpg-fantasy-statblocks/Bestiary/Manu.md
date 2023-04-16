@@ -5,7 +5,7 @@ name: Manu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Manu
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: unity
 AC: 27, touch 27, flat-footed 22 (deflection +3, dex +4, dodge +1, soul armor +9)
 HP: 161
-HP_extra: 
 HD: 17d10+68
 saves: Fort +9, Ref +14, Will +15
 saves_other: +2 vs. enchantment
@@ -41,6 +40,7 @@ ecology:
     desc: any (Material Plane or Positive Energy Plane)
   - name: Organisation
     desc: solitary or round (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Unity (Su)

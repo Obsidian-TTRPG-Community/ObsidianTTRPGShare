@@ -5,7 +5,7 @@ name: Mythic Ice Devil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 16
 name: Mythic Ice Devil
 Monster_XP: 76800

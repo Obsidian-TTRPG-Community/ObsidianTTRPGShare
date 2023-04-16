@@ -5,7 +5,7 @@ name: Young Sovereign Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Young Sovereign Dragon
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +18
 senses: dragon senses
 AC: 23, touch 10, flat-footed 22 (dex +1, natural +13, size -1)
 HP: 126
-HP_extra: 
 HD: 12d12+48
 saves: Fort +12, Ref +11, Will +13
 immune: paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

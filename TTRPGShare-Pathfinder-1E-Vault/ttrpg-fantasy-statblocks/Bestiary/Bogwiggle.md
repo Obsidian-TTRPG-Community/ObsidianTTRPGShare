@@ -5,7 +5,7 @@ name: Bogwiggle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Bogwiggle
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +2, Will +4
 speed: 30 ft., swim 40 ft.
@@ -41,6 +40,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sticky Tongue (Ex)

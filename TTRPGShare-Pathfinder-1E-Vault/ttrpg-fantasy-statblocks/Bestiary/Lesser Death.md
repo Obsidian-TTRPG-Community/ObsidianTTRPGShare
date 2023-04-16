@@ -5,7 +5,7 @@ name: Lesser Death
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Lesser Death
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: darkvision, see invisibility, status sight
 aura: misfortune, unnatural aura
 AC: 31, touch 21, flat-footed 20 (dex +10, dodge +1, natural +10)
 HP: 276
-HP_extra: 
 HD: 24d8+168
 saves: Fort +17, Ref +19, Will +20
 immune: undead traits

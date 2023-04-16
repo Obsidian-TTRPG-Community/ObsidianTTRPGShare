@@ -5,7 +5,7 @@ name: Kastamut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 6
 name: Kastamut
 Monster_XP: 2400

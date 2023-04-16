@@ -5,7 +5,7 @@ name: Oronci
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 5
 name: Oronci
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +6, shield +2, size -1)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +6, Ref +5, Will +5
 defensive_abilities: ferocity

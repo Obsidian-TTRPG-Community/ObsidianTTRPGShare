@@ -5,7 +5,7 @@ name: Mother’s Maw
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Mother’s Maw
 Monster_XP: 51200
@@ -45,6 +45,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Deathless (Su)

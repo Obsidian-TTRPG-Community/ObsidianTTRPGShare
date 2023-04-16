@@ -5,7 +5,7 @@ name: Wamp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 111: Dreams of the Yellow King"
+source: "Pathfinder No. 111: Dreams of the Yellow King"
 Monster_CR: 6
 name: Wamp
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: blindsight, scent
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 76
-HP_extra: 
 HD: 8d8+40
 saves: Fort +9, Ref +4, Will +6
 saves_other: +4 vs. attacks from undead
@@ -38,6 +37,7 @@ ecology:
     desc: any (ruins or graveyards)
   - name: Organisation
     desc: solitary, pair, or tangle (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blind (Ex)

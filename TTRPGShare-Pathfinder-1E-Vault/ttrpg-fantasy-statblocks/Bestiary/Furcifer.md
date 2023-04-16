@@ -5,7 +5,7 @@ name: Furcifer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 142: Gardens of Gallowspire"
+source: "Pathfinder No. 142: Gardens of Gallowspire"
 Monster_CR: 13
 name: Furcifer
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: blindsense, darkvision, low-light vision
 aura: deleriant aura
 AC: 27, touch 13, flat-footed 22 (dex +5, natural +14, size -2)
 HP: 171
-HP_extra: 
 HD: 18d10+72
 saves: Fort +15, Ref +16, Will +12
 immune: illusions
@@ -43,6 +42,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Deleriant Aura (Ex)

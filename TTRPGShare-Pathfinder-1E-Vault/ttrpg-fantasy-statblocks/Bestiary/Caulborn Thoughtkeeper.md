@@ -5,7 +5,7 @@ name: Caulborn Thoughtkeeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 9
 name: Caulborn Thoughtkeeper
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +20
 senses: blindsense, darkvision, thoughtsense
 AC: 22, touch 21, flat-footed 17 (deflection +6, dex +5, natural +1)
 HP: 115
-HP_extra: 
 HD: 9d10+44
 saves: Fort +7, Ref +8, Will +15
 saves_other: +4 vs. psychic spells
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cabal (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Caulborn Traits

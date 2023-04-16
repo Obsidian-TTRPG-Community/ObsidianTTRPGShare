@@ -5,7 +5,7 @@ name: Karkinoi Brood Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Plunder and Peril"
+source: "Plunder and Peril"
 Monster_CR: 4
 name: Karkinoi Brood Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 18, touch 14, flat-footed 16 (dex +2, natural +4, size +2)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +3, Ref +7, Will +5
 defensive_abilities: swarm traits
@@ -40,6 +39,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or wave (3-4 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Clinging Grasp (Ex)

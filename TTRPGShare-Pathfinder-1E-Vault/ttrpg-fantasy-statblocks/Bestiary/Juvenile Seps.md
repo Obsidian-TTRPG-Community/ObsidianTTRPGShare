@@ -5,7 +5,7 @@ name: Juvenile Seps
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Juvenile Seps
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +4, Will +2
 speed: 20 ft.

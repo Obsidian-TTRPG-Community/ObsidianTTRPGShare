@@ -5,7 +5,7 @@ name: Thulgant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 18
 name: Thulgant
 Monster_XP: 153600
@@ -45,6 +45,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or patrol (3-4)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Ability Drain (Su)

@@ -5,7 +5,7 @@ name: Devilbound Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Devilbound Sorcerer
 Monster_XP: 25600

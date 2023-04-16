@@ -5,7 +5,7 @@ name: Formian Taskmaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Formian Taskmaster
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: blindsight, darkvision, hive mind
 AC: 20, touch 12, flat-footed 18 (dex +2, natural +8)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +6, Ref +9, Will +10
 resist: sonic 10

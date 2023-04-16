@@ -5,7 +5,7 @@ name: Accuser Devil (Zebub)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Accuser Devil (Zebub)
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +10, Will +3
 immune: fire, poison
@@ -39,6 +38,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or swarm (3-28)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

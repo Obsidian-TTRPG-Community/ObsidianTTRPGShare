@@ -5,7 +5,7 @@ name: Kalavakus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Kalavakus
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision
 AC: 25, touch 11, flat-footed 24 (dex +1, natural +14)
 HP: 125
-HP_extra: 
 HD: 10d10+70
 saves: Fort +10, Ref +8, Will +10
 immune: electricity, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary, pair, or slaver gang (3-6 kalavakuses plus 10-20 slaves)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Enslave Soul (Su)

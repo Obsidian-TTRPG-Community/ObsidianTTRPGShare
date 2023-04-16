@@ -5,7 +5,7 @@ name: Undrella
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 11
 name: Undrella
 Monster_XP: 12800

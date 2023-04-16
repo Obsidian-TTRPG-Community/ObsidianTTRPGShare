@@ -5,7 +5,7 @@ name: Formless Spawn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 111: Dreams of the Yellow King"
+source: "Pathfinder No. 111: Dreams of the Yellow King"
 Monster_CR: 10
 name: Formless Spawn
 Monster_XP: 9600
@@ -43,6 +43,7 @@ ecology:
     desc: temperate ruins
   - name: Organisation
     desc: solitary or flood (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Freeze (Ex)

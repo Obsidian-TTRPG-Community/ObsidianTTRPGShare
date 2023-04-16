@@ -5,7 +5,7 @@ name: Ironfang Yzobu Rider Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 120: Vault of the Onyx Citadel"
+source: "Pathfinder No. 120: Vault of the Onyx Citadel"
 Monster_CR: 18
 name: Ironfang Yzobu Rider Troop
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stench
 AC: 32, touch 11, flat-footed 31 (armor +10, dex +1, natural +8, shield +3)
 HP: 300
-HP_extra: 
 HD: 24d8+192
 saves: Fort +22, Ref +15, Will +10
 immune: fear
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or division (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Magic Weapons (Ex)

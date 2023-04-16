@@ -5,7 +5,7 @@ name: Shoki
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Shoki
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision, detect chaos, detect evil, detect good, detect law, detect magic, low-light vision, spirit-sense
 AC: 25, touch 15, flat-footed 20 (dex +4, dodge +1, natural +10)
 HP: 115
-HP_extra: 
 HD: 10d10+60
 saves: Fort +9, Ref +11, Will +14
 immune: acid, charm, cold, death effects, disease, fear, poison, sleep

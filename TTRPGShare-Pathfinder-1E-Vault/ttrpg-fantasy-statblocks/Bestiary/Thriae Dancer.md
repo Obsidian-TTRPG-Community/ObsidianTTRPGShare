@@ -5,7 +5,7 @@ name: Thriae Dancer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Thriae Dancer
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, detect secret doors
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 60
-HP_extra: 
 HD: 8d10+16
 saves: Fort +6, Ref +9, Will +7
 saves_other: +4 vs. mind-affecting effects

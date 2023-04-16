@@ -5,7 +5,7 @@ name: Clay Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Clay Golem
 Monster_XP: 9600
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 24, touch 8, flat-footed 24 (dex -1, natural +16, size -1)
 HP: 101
-HP_extra: 
 HD: 13d10+30
 saves: Fort +4, Ref +3, Will +4
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Berserk (Ex)

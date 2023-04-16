@@ -5,7 +5,7 @@ name: Hegessik
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Hegessik
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, detect law
 aura: maddening whispers
 AC: 30, touch 15, flat-footed 24 (dex +6, natural +15, size -1)
 HP: 212
-HP_extra: 
 HD: 17d10+119
 saves: Fort +17, Ref +13, Will +16
 immune: acid, polymorph
@@ -45,6 +44,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary or cloister (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Leaching Gaze (Su)

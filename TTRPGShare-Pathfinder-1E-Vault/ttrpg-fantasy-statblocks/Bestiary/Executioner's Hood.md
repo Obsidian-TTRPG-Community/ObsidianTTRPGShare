@@ -5,7 +5,7 @@ name: Executioner's Hood
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Executioner's Hood
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: blindsense, darkvision, scent
 AC: 16, touch 13, flat-footed 15 (dex +1, natural +3, size +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +1, Ref +1, Will +4
 immune: sleep effects
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Engulfing Drop (Ex)

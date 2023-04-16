@@ -5,7 +5,7 @@ name: Soulbound Annihilator Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 17
 name: Soulbound Annihilator Robot
 Monster_XP: 102400
@@ -44,6 +44,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

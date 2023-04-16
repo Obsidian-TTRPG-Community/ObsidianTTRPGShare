@@ -5,7 +5,7 @@ name: Onkushu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 13
 name: Onkushu
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision
 AC: 28, touch 13, flat-footed 24 (dex +4, natural +15, size -1)
 HP: 172
-HP_extra: 
 HD: 15d10+90
 saves: Fort +10, Ref +15, Will +14
 immune: fire
@@ -44,6 +43,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, plane, or host (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Protective Aura (Su)

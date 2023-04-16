@@ -5,7 +5,7 @@ name: Salamander
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Salamander
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +7)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +7, Will +6
 immune: fire

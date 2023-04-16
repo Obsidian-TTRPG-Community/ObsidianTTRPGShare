@@ -5,7 +5,7 @@ name: Skeletal Mount
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 1
 name: Skeletal Mount
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +9
 senses: darkvision
 AC: 17, touch 13, flat-footed 13 (armor +2, dex +4, natural +2, size -1)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +5, Will +3
 immune: cold, undead traits

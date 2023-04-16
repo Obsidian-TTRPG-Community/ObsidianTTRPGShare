@@ -5,7 +5,7 @@ name: Crag Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 14
 name: Crag Linnorm
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: cold hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

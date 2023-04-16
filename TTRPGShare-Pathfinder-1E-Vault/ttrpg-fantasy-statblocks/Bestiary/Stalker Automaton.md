@@ -5,7 +5,7 @@ name: Stalker Automaton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 5
 name: Stalker Automaton
 Monster_XP: 1600
@@ -44,6 +44,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Camouflage (Su)

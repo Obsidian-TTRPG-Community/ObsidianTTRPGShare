@@ -5,7 +5,7 @@ name: NPC Criminal (Guild Master)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 10
 name: NPC Criminal (Guild Master)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ INI: +5
 perception: +15
 AC: 22, touch 15, flat-footed 17 (armor +5, dex +5, shield +2)
 HP: 60
-HP_extra: 
 HD: 11d8+11
 saves: Fort +5, Ref +13, Will +8
 defensive_abilities: evasion, improved uncanny dodge, trap sense +3

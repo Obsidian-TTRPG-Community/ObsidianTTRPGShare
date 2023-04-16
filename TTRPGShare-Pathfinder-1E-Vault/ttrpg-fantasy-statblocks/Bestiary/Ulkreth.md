@@ -5,7 +5,7 @@ name: Ulkreth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 73: The Worldwound Incursion"
+source: "Pathfinder No. 73: The Worldwound Incursion"
 Monster_CR: 15
 name: Ulkreth
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +30
 senses: darkvision, tremorsense
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 229
-HP_extra: 
 HD: 17d10+136
 saves: Fort +18, Ref +5, Will +12
 immune: electricity, poison
@@ -45,6 +44,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or crew (2-4 ulkreths)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Boulder Barrage (Ex)

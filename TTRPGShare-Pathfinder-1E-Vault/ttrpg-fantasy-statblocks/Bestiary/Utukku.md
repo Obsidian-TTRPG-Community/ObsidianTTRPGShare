@@ -5,7 +5,7 @@ name: Utukku
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Utukku
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 21, touch 15, flat-footed 16 (dex +5, natural +6)
 HP: 103
-HP_extra: 
 HD: 9d10+54
 saves: Fort +9, Ref +11, Will +11
 immune: cold, mind-affecting effects, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary or cult (1 utukku plus 2-20 cultists)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Consume Humanity (Su)

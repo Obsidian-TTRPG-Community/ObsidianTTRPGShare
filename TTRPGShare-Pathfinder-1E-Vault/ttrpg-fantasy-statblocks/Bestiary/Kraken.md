@@ -5,7 +5,7 @@ name: Kraken
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 18
 name: Kraken
 Monster_XP: 153600
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, low-light vision
 AC: 32, touch 6, flat-footed 32 (natural +26, size -4)
 HP: 290
-HP_extra: 
 HD: 20d10+180
 saves: Fort +21, Ref +12, Will +11
 immune: cold, mind-affecting effects, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Ink Cloud (Ex)

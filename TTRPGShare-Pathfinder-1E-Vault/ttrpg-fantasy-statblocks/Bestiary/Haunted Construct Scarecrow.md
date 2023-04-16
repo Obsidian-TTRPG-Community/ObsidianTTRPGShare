@@ -5,7 +5,7 @@ name: Haunted Construct Scarecrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 5
 name: Haunted Construct Scarecrow
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: unholy beacon
 AC: 17, touch 11, flat-footed 17 (deflection +1, natural +6)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +1, Ref +3, Will +3
 immune: cold, construct traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Construct Handbook

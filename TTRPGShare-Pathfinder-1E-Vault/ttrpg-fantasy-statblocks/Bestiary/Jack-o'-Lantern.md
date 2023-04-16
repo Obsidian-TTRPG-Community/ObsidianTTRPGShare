@@ -5,7 +5,7 @@ name: Jack-o'-Lantern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Jack-o'-Lantern
 Monster_XP: 400
@@ -18,7 +18,6 @@ senses: low-light vision, tremorsense
 aura: fear
 AC: 11, touch 8, flat-footed 11 (dex -2, natural +3)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref -2, Will +2
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests, hills, or plains (pumpkin patches)
   - name: Organisation
     desc: solitary or patch (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Explode (Ex)

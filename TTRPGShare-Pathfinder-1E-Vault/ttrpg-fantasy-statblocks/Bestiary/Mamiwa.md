@@ -5,7 +5,7 @@ name: Mamiwa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ire of the Storm"
+source: "Ire of the Storm"
 Monster_CR: 2
 name: Mamiwa
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +2
 immune: elemental traits
@@ -46,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or stormfront (2-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Elemental Alignment (Su)

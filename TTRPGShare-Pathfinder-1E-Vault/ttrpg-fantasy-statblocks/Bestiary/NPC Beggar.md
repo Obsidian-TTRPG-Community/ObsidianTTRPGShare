@@ -5,7 +5,7 @@ name: NPC Beggar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/3
 name: NPC Beggar
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +5
 senses: low-light vision
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 4
-HP_extra: 
 HD: 1d6+1
 saves: Fort +1, Ref +2, Will -1
 saves_other: +2 vs. enchantments

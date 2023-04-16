@@ -5,7 +5,7 @@ name: NPC Carousing Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Carousing Champion
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +1
 perception: +5
 AC: 19, touch 12, flat-footed 18 (armor +7, dex +1, size +1)
 HP: 54
-HP_extra: 
 HD: 6d8+24
 saves: Fort +8, Ref +4, Will +9
 saves_other: +2 vs. fear

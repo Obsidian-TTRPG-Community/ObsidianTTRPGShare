@@ -5,7 +5,7 @@ name: Centipede Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Centipede Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 18, touch 18, flat-footed 14 (dex +4, size +4)
 HP: 31
-HP_extra: 
 HD: 9d8-9
 saves: Fort +5, Ref +7, Will +3
 immune: weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or warm forest or underground
   - name: Organisation
     desc: solitary, pair, or tangle (3-6 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

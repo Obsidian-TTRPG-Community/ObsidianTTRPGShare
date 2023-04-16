@@ -5,7 +5,7 @@ name: Androsphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Androsphinx
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 23, touch 9, flat-footed 23 (natural +14, size -1)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +8, Will +7
 speed: 40 ft., fly 60 ft. (poor)
@@ -37,6 +36,7 @@ ecology:
     desc: warm deserts or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Roar (Su)

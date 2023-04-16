@@ -5,7 +5,7 @@ name: Sorrow Stitcher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 8
 name: Sorrow Stitcher
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +17
 senses: low-light vision
 AC: 22, touch 16, flat-footed 16 (dex +5, dodge +1, natural +6)
 HP: 90
-HP_extra: 
 HD: 12d6+48
 saves: Fort +8, Ref +13, Will +10
 DR: 5/cold iron and piercing
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Needle (Su)

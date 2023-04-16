@@ -5,7 +5,7 @@ name: Griefgall
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Griefgall
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +16
 senses: all-around vision, low-light vision
 AC: 17, touch 17, flat-footed 12 (dex +4, dodge +1, size +2)
 HP: 58
-HP_extra: 
 HD: 9d8+18
 saves: Fort +8, Ref +7, Will +5
 immune: plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or warm forests or urban
   - name: Organisation
     desc: solitary or infestation (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Cold Lethargy (Ex)

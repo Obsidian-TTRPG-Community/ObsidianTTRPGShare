@@ -5,7 +5,7 @@ name: Uinuja
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Uinuja
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, see invisibility
 aura: emotion
 AC: 30, touch 19, flat-footed 25 (deflection +5, dex +5, natural +11, size -1)
 HP: 207
-HP_extra: 
 HD: 18d10+108
 saves: Fort +12, Ref +16, Will +19
 immune: electricity, petrification, sleep

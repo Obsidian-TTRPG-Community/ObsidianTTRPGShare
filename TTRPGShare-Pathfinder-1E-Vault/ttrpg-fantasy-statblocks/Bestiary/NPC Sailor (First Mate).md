@@ -5,7 +5,7 @@ name: NPC Sailor (First Mate)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 8
 name: NPC Sailor (First Mate)
 Monster_XP: 4800

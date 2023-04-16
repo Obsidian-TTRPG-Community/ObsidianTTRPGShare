@@ -5,7 +5,7 @@ name: Obambo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 40: Vaults of Madness"
+source: "Pathfinder No. 40: Vaults of Madness"
 Monster_CR: 13
 name: Obambo
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision
 AC: 21, touch 21, flat-footed 17 (deflection +7, dex +4)
 HP: 175
-HP_extra: 
 HD: 14d8+112
 saves: Fort +11, Ref +10, Will +15
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary or tribe (1 plus 1-2 giant flytraps or 1-3 shambling mounds)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Jungle Animus (Su)

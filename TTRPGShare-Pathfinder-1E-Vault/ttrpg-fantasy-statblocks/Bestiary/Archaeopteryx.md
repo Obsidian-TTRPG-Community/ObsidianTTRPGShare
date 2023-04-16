@@ -5,7 +5,7 @@ name: Archaeopteryx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/4
 name: Archaeopteryx
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 speed: 40 ft., fly 40 ft. (poor), climb 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: single, pair, or nest (4-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Weak Flier (Ex)

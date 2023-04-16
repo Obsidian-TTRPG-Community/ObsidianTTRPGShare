@@ -5,7 +5,7 @@ name: Krenshar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Krenshar
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +5, Will +1
 speed: 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests or plains
   - name: Organisation
     desc: solitary, pair, or pride (6-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Skullface (Su)

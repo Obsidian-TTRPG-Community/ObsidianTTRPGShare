@@ -5,7 +5,7 @@ name: Troglodyte Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Troglodyte Champion
 Monster_XP: 3200

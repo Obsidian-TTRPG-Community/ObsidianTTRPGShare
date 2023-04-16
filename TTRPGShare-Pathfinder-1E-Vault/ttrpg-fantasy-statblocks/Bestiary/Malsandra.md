@@ -5,7 +5,7 @@ name: Malsandra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 16
 name: Malsandra
 Monster_XP: 76800

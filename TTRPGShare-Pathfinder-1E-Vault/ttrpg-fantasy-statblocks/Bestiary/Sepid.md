@@ -5,7 +5,7 @@ name: Sepid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 14
 name: Sepid
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision, see in darkness
 AC: 32, touch 14, flat-footed 27 (dex +5, natural +18, size -1)
 HP: 202
-HP_extra: 
 HD: 15d10+120
 saves: Fort +13, Ref +16, Will +15
 immune: fire, poison

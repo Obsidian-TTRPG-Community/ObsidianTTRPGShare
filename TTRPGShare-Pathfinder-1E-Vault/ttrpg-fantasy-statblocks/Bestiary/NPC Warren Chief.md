@@ -5,7 +5,7 @@ name: NPC Warren Chief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Warren Chief
 Monster_XP: 76800
@@ -19,7 +19,6 @@ INI: +2
 perception: +23
 AC: 30, touch 24, flat-footed 27 (armor +4, deflection +2, dex +2, dodge +1, monk +4, natural +2, size +1, wis +4)
 HP: 104
-HP_extra: 
 HD: 17d8+24
 saves: Fort +13, Ref +14, Will +16
 saves_other: +2 vs. enchantments

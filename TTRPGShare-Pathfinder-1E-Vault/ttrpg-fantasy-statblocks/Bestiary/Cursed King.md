@@ -5,7 +5,7 @@ name: Cursed King
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Cursed King
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: demanding aura
 AC: 24, touch 14, flat-footed 20 (dex +4, natural +10)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +9, Ref +8, Will +13
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: warm ruins
   - name: Organisation
     desc: solitary or court (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Berserk (Ex)

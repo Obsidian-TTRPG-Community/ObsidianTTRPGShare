@@ -5,7 +5,7 @@ name: Hell Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Hell Hound
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, scent
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +5, Will +1
 immune: fire
@@ -40,6 +39,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

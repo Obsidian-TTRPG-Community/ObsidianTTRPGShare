@@ -5,7 +5,7 @@ name: NPC Master Storycrafter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Master Storycrafter
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +23
 senses: low-light vision
 AC: 22, touch 15, flat-footed 20 (armor +5, deflection +3, dex +2, natural +2)
 HP: 86
-HP_extra: 
 HD: 10d6+7d8+17
 saves: Fort +10, Ref +13, Will +15
 saves_other: +2 vs. enchantments

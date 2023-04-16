@@ -5,7 +5,7 @@ name: Viper Vine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 13
 name: Viper Vine
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision, tremorsense
 AC: 27, touch 14, flat-footed 22 (dex +4, dodge +1, natural +13, size -1)
 HP: 190
-HP_extra: 
 HD: 20d8+100
 saves: Fort +16, Ref +12, Will +6
 immune: acid, plant traits
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Captivating Cloud (Su)

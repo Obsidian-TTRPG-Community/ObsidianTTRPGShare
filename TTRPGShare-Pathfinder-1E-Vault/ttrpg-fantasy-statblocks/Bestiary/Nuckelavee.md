@@ -5,7 +5,7 @@ name: Nuckelavee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Nuckelavee
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: frightful presence
 AC: 23, touch 17, flat-footed 15 (dex +7, dodge +1, natural +6, size -1)
 HP: 104
-HP_extra: 
 HD: 11d6+66
 saves: Fort +9, Ref +16, Will +10
 immune: disease, poison

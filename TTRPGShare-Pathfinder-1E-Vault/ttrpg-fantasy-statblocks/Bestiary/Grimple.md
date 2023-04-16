@@ -5,7 +5,7 @@ name: Grimple
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/3
 name: Grimple
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d6+1
 saves: Fort +1, Ref +3, Will +2
 DR: 2/cold iron
@@ -40,6 +39,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, mob (3-8), or infestation (9-16 plus 2-6 trained dire rats and 1-4 spider swarms)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gremlin Lice (Ex)

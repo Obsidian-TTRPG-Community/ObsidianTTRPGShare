@@ -5,7 +5,7 @@ name: Ancient Magma Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 17
 name: Ancient Magma Dragon
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 39, touch 8, flat-footed 39 (natural +31, size -2)
 HP: 310
-HP_extra: 
 HD: 23d12+161
 saves: Fort +22, Ref +13, Will +21
 immune: fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: any mountains or underground (Plane of Fire)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

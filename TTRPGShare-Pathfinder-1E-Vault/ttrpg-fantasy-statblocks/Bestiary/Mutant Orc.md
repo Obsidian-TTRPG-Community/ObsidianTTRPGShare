@@ -5,7 +5,7 @@ name: Mutant Orc
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 7
 name: Mutant Orc
 Monster_XP: 3200

@@ -5,7 +5,7 @@ name: Chimera
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Chimera
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +9, Ref +7, Will +6
 speed: 30 ft., fly 50 ft. (poor)
@@ -40,6 +39,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary, pair, pride (3-6), or flight (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

@@ -5,7 +5,7 @@ name: Lich Newt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 1/4
 name: Lich Newt
 Monster_XP: 100
@@ -18,7 +18,6 @@ perception: +4
 senses: low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +3, Will +1
 saves_other: +2 vs. disease and poison
@@ -40,6 +39,7 @@ ecology:
     desc: temperate marshes or plains
   - name: Organisation
     desc: solitary, pair, or ning (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Paralyzing Mucus (Ex)

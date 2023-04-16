@@ -5,7 +5,7 @@ name: Giant Slug
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Giant Slug
 Monster_XP: 4800
@@ -16,7 +16,6 @@ INI: -4
 senses: blindsight
 AC: 20, touch 4, flat-footed 20 (dex -4, natural +16, size -2)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +12, Ref +0, Will +4
 immune: acid, mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: temperate and warm marshes and underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spit Acid (Ex)

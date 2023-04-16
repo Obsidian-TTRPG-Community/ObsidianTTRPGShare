@@ -5,7 +5,7 @@ name: Young Crystal Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Young Crystal Dragon
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: dragon senses, tremorsense
 AC: 20, touch 12, flat-footed 18 (dex +2, natural +8)
 HP: 66
-HP_extra: 
 HD: 7d12+21
 saves: Fort +10, Ref +9, Will +6
 immune: paralysis, sleep, sonic
@@ -40,6 +39,7 @@ ecology:
     desc: any underground (Plane of Earth)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 spell-like_abilities:
   - name:

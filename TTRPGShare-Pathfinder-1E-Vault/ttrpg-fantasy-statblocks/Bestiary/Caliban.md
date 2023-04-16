@@ -5,7 +5,7 @@ name: Caliban
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tears at Bitter Manor"
+source: "Tears at Bitter Manor"
 Monster_CR: 2
 name: Caliban
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 4d10
 saves: Fort +1, Ref +6, Will +3
 speed: 30 ft., swim 20 ft.

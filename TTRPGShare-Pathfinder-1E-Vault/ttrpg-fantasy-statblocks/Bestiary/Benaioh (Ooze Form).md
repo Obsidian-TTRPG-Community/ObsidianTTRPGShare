@@ -5,7 +5,7 @@ name: Benaioh (Ooze Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 93: Forge of the Giant God"
+source: "Pathfinder No. 93: Forge of the Giant God"
 Monster_CR: 7
 name: Benaioh (Ooze Form)
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: -4
 senses: blindsense, tremorsense
 AC: 7, touch 7, flat-footed 7 (dex -2, size -1)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +8, Ref +0, Will -2
 immune: disease, ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: any mountains or underground
   - name: Organisation
     desc: solitary, pair, or guard (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

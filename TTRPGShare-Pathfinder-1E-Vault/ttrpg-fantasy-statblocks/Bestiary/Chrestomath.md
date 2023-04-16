@@ -5,7 +5,7 @@ name: Chrestomath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 63: The Asylum Stone"
+source: "Pathfinder No. 63: The Asylum Stone"
 Monster_CR: 6
 name: Chrestomath
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +18
 senses: blindsense, thoughtsense
 AC: 16, touch 12, flat-footed 16 (deflection +6, dex -4, natural +4)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +13, Ref -1, Will +14
 immune: sensory effects
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, catechumen (1 plus 2-4 caulborn), array (2-4 plus 4-12 caulborn)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Advanced Hive Mind (Ex)

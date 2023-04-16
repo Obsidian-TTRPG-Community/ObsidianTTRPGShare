@@ -5,7 +5,7 @@ name: Aghash
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Aghash
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, see in darkness
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +4, Ref +6, Will +7
 immune: fire, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cursed Gaze (Su)

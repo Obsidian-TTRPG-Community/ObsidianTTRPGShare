@@ -5,7 +5,7 @@ name: Paguroida
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 9
 name: Paguroida
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, detect magic
 aura: nondetection
 AC: 23, touch 15, flat-footed 21 (deflection +4, dex +1, dodge +1, natural +8, size -1)
 HP: 115
-HP_extra: 
 HD: 11d10+55
 saves: Fort +8, Ref +8, Will +11
 saves_other: +2 vs. illusion

@@ -5,7 +5,7 @@ name: Chon Chon Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 53: Tide of Honor"
+source: "Pathfinder No. 53: Tide of Honor"
 Monster_CR: 3
 name: Chon Chon Swarm
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: jabber
 AC: 16, touch 16, flat-footed 14 (dex +2, insight +2, size +2)
 HP: 27
-HP_extra: 
 HD: 6d8
 saves: Fort +2, Ref +6, Will +6
 speed: 10 ft., fly 60 ft. (good)
@@ -42,6 +41,7 @@ ecology:
     desc: temperate or tropical forests or ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid Spit (Ex)

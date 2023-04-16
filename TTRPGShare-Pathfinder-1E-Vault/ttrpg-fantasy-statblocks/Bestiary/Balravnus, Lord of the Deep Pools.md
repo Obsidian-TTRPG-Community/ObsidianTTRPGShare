@@ -5,7 +5,7 @@ name: Balravnus, Lord of the Deep Pools
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 18
 name: Balravnus, Lord of the Deep Pools
 Monster_XP: 153600

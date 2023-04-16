@@ -5,7 +5,7 @@ name: Fire Giant Magmablade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 17
 name: Fire Giant Magmablade
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +35
 senses: low-light vision
 AC: 35, touch 10, flat-footed 35 (armor +11, deflection +1, natural +10, shield +4, size -1)
 HP: 253
-HP_extra: 
 HD: 29d8+123
 saves: Fort +23, Ref +10, Will +20
 immune: fire, magic missile

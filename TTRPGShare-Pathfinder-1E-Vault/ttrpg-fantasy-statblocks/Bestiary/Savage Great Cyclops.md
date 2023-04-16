@@ -5,7 +5,7 @@ name: Savage Great Cyclops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 58: Island of Empty Eyes"
+source: "Pathfinder No. 58: Island of Empty Eyes"
 Monster_CR: 18
 name: Savage Great Cyclops
 Monster_XP: 153600

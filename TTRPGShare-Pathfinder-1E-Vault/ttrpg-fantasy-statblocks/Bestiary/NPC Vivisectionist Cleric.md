@@ -5,7 +5,7 @@ name: NPC Vivisectionist Cleric
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Vivisectionist Cleric
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +0
 perception: +7
 AC: 19, touch 10, flat-footed 19 (armor +9)
 HP: 56
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +3, Will +9
 speed: 20 ft.

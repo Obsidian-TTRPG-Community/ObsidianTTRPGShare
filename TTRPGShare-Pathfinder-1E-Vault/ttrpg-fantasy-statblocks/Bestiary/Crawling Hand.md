@@ -5,7 +5,7 @@ name: Crawling Hand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Crawling Hand
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: blindsense, darkvision
 AC: 14, touch 14, flat-footed 14 (size +4)
 HP: 9
-HP_extra: 
 HD: 1d8+5
 saves: Fort +2, Ref +0, Will +2
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Grab (Ex)

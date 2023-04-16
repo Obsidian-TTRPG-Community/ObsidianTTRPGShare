@@ -5,7 +5,7 @@ name: Mastodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Mastodon
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +24
 senses: low-light vision, scent
 AC: 21, touch 9, flat-footed 20 (dex +1, natural +12, size -2)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +14, Ref +10, Will +7
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold or temperate forests and plains
   - name: Organisation
     desc: solitary or herd (6-30)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

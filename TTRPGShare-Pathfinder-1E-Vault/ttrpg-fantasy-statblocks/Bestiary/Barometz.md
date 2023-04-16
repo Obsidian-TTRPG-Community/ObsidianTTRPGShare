@@ -5,7 +5,7 @@ name: Barometz
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 15
 name: Barometz
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +27
 senses: low-light vision
 AC: 31, touch 11, flat-footed 26 (dex +5, natural +20, size -4)
 HP: 253
-HP_extra: 
 HD: 22d8+154
 saves: Fort +20, Ref +12, Will +11
 immune: electricity, plant traits
@@ -37,6 +36,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary or serving druid masters
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

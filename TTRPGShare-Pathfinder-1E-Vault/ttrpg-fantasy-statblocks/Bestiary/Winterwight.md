@@ -5,7 +5,7 @@ name: Winterwight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 17
 name: Winterwight
 Monster_XP: 102400
@@ -42,6 +42,7 @@ ecology:
     desc: any cold land
   - name: Organisation
     desc: solitary, pair, or incursion (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Cold (Su)

@@ -5,7 +5,7 @@ name: NPC Fate-Bound Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Fate-Bound Mage
 Monster_XP: 153600
@@ -19,7 +19,6 @@ INI: +5
 perception: +21
 AC: 24, touch 17, flat-footed 22 (armor +4, deflection +3, dex +1, dodge +1, insight +2, natural +3)
 HP: 122
-HP_extra: 
 HD: 19d6+53
 saves: Fort +10, Ref +14, Will +18
 saves_other: +5 vs. spells and spell-like abilities

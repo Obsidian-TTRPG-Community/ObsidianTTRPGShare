@@ -5,7 +5,7 @@ name: Sewer Blight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Sewer Blight
 Monster_XP: 51200
@@ -44,6 +44,7 @@ ecology:
     desc: any underground (sewers)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Acidic Spray (Ex)

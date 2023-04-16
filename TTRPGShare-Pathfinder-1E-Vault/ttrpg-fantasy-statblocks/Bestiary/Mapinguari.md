@@ -5,7 +5,7 @@ name: Mapinguari
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Mapinguari
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: stench
 AC: 27, touch 9, flat-footed 26 (dex +1, natural +18, size -2)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +10, Will +9
 DR: 15/slashing
@@ -41,6 +40,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Frightening Howl (Su)

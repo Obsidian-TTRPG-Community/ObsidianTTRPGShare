@@ -5,7 +5,7 @@ name: NPC Gray Maiden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Gray Maiden
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +5
 perception: +0
 AC: 24, touch 11, flat-footed 23 (armor +10, dex +1, shield +3)
 HP: 80
-HP_extra: 
 HD: 8d10+32
 saves: Fort +9, Ref +6, Will +5
 saves_other: +2 vs. fear

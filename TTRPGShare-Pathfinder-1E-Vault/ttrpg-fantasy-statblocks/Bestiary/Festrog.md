@@ -5,7 +5,7 @@ name: Festrog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Festrog
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, scent
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +1, Will +4
 immune: undead traits
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, gang (3-5), or pack (6-11)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Charging Trip (Ex)

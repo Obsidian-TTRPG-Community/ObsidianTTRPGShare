@@ -5,7 +5,7 @@ name: Thin Man
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 4
 name: Thin Man
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 17, touch 14, flat-footed 13 (dex +3, dodge +1, natural +3)
 HP: 38
-HP_extra: 
 HD: 7d6+14
 saves: Fort +4, Ref +8, Will +7
 immune: poison
@@ -41,6 +40,7 @@ ecology:
     desc: warm plains (Nuat)
   - name: Organisation
     desc: solitary, pair, or band (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Vanish (Su)

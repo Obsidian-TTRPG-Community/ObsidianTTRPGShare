@@ -5,7 +5,7 @@ name: Floodslain Orc
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 3
 name: Floodslain Orc
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +0
 senses: darkvision
 AC: 12, touch 8, flat-footed 12 (armor +4, dex -2)
 HP: 25
-HP_extra: 
 HD: 3d10+9
 saves: Fort +3, Ref -1, Will +2
 immune: undead traits

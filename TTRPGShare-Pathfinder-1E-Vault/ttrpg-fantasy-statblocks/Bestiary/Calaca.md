@@ -5,7 +5,7 @@ name: Calaca
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 143: Borne by the Sun's Grace"
+source: "Pathfinder No. 143: Borne by the Sun's Grace"
 Monster_CR: 8
 name: Calaca
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, low-light vision, spiritsense
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 103
-HP_extra: 
 HD: 11d10+44
 saves: Fort +7, Ref +10, Will +11
 immune: death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (the Boneyard)
   - name: Organisation
     desc: solitary, pair, or band (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Antique Weapon (Ex)

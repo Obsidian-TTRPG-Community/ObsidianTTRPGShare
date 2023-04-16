@@ -5,7 +5,7 @@ name: NPC Pirate (Smuggler)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 2
 name: NPC Pirate (Smuggler)
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +6
 perception: +7
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +0, Ref +5, Will +2
 speed: 30 ft.

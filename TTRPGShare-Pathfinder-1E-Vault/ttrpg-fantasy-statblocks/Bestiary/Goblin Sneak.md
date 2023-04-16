@@ -5,7 +5,7 @@ name: Goblin Sneak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Goblin Sneak
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 18, touch 15, flat-footed 14 (armor +3, dex +4, size +1)
 HP: 16
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +7, Will +1
 defensive_abilities: evasion

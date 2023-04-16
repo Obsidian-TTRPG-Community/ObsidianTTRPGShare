@@ -5,7 +5,7 @@ name: River Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: River Drake
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision, scent
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 34
-HP_extra: 
 HD: 4d12+8
 saves: Fort +6, Ref +7, Will +4
 immune: paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: temperate rivers or lakes
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Caustic Mucus (Su)

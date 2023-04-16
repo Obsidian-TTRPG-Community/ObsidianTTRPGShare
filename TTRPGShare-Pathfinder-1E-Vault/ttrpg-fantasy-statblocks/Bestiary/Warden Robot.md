@@ -5,7 +5,7 @@ name: Warden Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 87: The Choking Tower"
+source: "Pathfinder No. 87: The Choking Tower"
 Monster_CR: 9
 name: Warden Robot
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: blindsight, darkvision, low-light vision
 aura: infrasonic field
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 112
-HP_extra: 
 HD: 15d10+30
 saves: Fort +8, Ref +12, Will +10
 immune: construct traits
@@ -43,6 +42,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary, pair, or sentry (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Combined Arms (Ex)

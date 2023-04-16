@@ -5,7 +5,7 @@ name: Keketar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 17
 name: Keketar
 Monster_XP: 102400
@@ -45,6 +45,7 @@ ecology:
     desc: any (Limbo)
   - name: Organisation
     desc: solitary or chorus (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Reshape Reality (Sp)

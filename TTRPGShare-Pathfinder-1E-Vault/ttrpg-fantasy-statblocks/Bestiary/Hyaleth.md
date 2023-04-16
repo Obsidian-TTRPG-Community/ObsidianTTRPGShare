@@ -5,7 +5,7 @@ name: Hyaleth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 130: City in the Lion's Eye"
+source: "Pathfinder No. 130: City in the Lion's Eye"
 Monster_CR: 10
 name: Hyaleth
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, thoughtsense
 AC: 23, touch 12, flat-footed 20 (dex +2, dodge +1, natural +11, size -1)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +11, Ref +7, Will +11
 immune: acid
@@ -44,6 +43,7 @@ ecology:
     desc: temperate fresh water or underground
   - name: Organisation
     desc: solitary, squad (2-9), or colony (10-200 and 1 hyaleth queen)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Adaptive Digestion (Ex)

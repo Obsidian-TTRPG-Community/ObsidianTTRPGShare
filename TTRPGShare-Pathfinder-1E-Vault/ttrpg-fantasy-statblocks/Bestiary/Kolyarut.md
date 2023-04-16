@@ -5,7 +5,7 @@ name: Kolyarut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Kolyarut
 Monster_XP: 19200

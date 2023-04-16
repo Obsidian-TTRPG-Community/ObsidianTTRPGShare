@@ -5,7 +5,7 @@ name: Giganotosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Giganotosaurus
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +26
 senses: low-light vision, scent
 AC: 27, touch 2, flat-footed 27 (natural +25, size -8)
 HP: 199
-HP_extra: 
 HD: 21d8+105
 saves: Fort +17, Ref +12, Will +11
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 6

@@ -5,7 +5,7 @@ name: Rougarou
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1/2
 name: Rougarou
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (armor +2, dex +2)
 HP: 12
-HP_extra: 
 HD: 1d10+2
 saves: Fort +3, Ref +4, Will +1
 speed: 30 ft.

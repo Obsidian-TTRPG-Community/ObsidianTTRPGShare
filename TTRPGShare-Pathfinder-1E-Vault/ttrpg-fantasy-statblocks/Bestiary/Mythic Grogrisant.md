@@ -5,7 +5,7 @@ name: Mythic Grogrisant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 16
 name: Mythic Grogrisant
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, scent
 aura: blazing mane
 AC: 33, touch 33, flat-footed 31 (dex +2, natural +23, size -2)
 HP: 285
-HP_extra: 
 HD: 18d10+186
 saves: Fort +20, Ref +13, Will +14
 immune: disease, fire, light effects, poison
@@ -43,6 +42,7 @@ ecology:
     desc: temperate or warm plains or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Blazing Mane (Su)

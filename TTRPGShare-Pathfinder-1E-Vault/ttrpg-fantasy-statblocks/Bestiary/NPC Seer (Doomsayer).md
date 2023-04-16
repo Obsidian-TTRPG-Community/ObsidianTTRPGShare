@@ -5,7 +5,7 @@ name: NPC Seer (Doomsayer)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Seer (Doomsayer)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: -1
 perception: +5
 AC: 11, touch 9, flat-footed 11 (armor +2, dex -1)
 HP: 10
-HP_extra: 
 HD: 3d6
 saves: Fort +1, Ref +0, Will +5
 speed: 30 ft.

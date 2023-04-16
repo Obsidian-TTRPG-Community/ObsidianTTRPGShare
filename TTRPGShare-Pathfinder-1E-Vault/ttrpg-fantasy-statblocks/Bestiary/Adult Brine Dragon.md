@@ -5,7 +5,7 @@ name: Adult Brine Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Adult Brine Dragon
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 27, touch 9, flat-footed 27 (natural +18, size -1)
 HP: 147
-HP_extra: 
 HD: 14d12+56
 saves: Fort +13, Ref +11, Will +12
 immune: acid, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any aquatic (Plane of Water)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

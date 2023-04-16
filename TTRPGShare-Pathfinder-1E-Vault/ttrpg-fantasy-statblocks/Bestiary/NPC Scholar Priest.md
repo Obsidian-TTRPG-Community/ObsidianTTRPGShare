@@ -5,7 +5,7 @@ name: NPC Scholar Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Scholar Priest
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: -1
 perception: +3
 AC: 15, touch 9, flat-footed 15 (armor +6, dex -1)
 HP: 23
-HP_extra: 
 HD: 3d8+6
 saves: Fort +4, Ref +0, Will +6
 speed: 20 ft.

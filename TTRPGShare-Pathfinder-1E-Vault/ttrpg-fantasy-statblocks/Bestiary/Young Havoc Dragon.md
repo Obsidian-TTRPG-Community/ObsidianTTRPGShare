@@ -5,7 +5,7 @@ name: Young Havoc Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Young Havoc Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +19
 senses: dragon senses
 AC: 25, touch 12, flat-footed 22 (dex +3, natural +13, size -1)
 HP: 133
-HP_extra: 
 HD: 14d12+42
 saves: Fort +12, Ref +14, Will +11
 immune: confused, nauseated, paralysis, sickened, sleep, sonic

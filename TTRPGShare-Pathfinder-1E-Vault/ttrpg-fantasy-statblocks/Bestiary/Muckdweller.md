@@ -5,7 +5,7 @@ name: Muckdweller
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/4
 name: Muckdweller
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +2, Ref +4, Will +1
 speed: 10 ft., swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary, pack (3-7), or swarm (8-17)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blinding Spray (Ex)

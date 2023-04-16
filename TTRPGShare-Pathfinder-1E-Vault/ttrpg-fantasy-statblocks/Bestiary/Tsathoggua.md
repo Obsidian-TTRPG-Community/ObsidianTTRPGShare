@@ -5,7 +5,7 @@ name: Tsathoggua
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 111: Dreams of the Yellow King"
+source: "Pathfinder No. 111: Dreams of the Yellow King"
 Monster_CR: 29
 name: Tsathoggua
 Monster_XP: 6553600
@@ -45,6 +45,7 @@ ecology:
     desc: any (Darklands)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Adaptive Spellcasting (Su)

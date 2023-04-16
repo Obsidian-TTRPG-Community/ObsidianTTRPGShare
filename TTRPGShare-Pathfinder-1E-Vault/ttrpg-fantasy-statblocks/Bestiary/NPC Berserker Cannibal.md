@@ -5,7 +5,7 @@ name: NPC Berserker Cannibal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 3
 name: NPC Berserker Cannibal
 Monster_XP: 800
@@ -18,7 +18,6 @@ INI: +1
 perception: +11
 AC: 13, touch 9, flat-footed 12 (armor +4, dex +1, rage -2)
 HP: 55
-HP_extra: 
 HD: 4d12+24
 saves: Fort +10, Ref +2, Will +6
 defensive_abilities: trap sense +1, uncanny dodge

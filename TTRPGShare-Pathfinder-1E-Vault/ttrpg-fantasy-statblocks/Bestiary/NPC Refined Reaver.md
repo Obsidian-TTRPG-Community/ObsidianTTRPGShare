@@ -5,7 +5,7 @@ name: NPC Refined Reaver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Refined Reaver
 Monster_XP: 102400
@@ -19,7 +19,6 @@ INI: +3
 perception: +21
 AC: 19, touch 12, flat-footed 15 (armor +7, dex +3, dodge +1, rage -2)
 HP: 230
-HP_extra: 
 HD: 18d12+108
 saves: Fort +19, Ref +12, Will +12
 saves_other: +6 vs. spells and spell-like and supernatural abilities, +4 vs. enchantments

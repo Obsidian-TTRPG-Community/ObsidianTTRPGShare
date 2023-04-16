@@ -5,7 +5,7 @@ name: The First Blade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: The First Blade
 Monster_XP: 51200
@@ -44,6 +44,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bladed Slam (Ex)

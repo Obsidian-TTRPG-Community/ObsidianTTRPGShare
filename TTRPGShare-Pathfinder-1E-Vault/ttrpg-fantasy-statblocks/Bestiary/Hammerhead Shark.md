@@ -5,7 +5,7 @@ name: Hammerhead Shark
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 3
 name: Hammerhead Shark
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +10
 senses: blindsense, keen scent
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +9, Ref +7, Will +4
 speed: swim 60 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, school (3-6), or pack (7-13)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 57: Tempest Rising

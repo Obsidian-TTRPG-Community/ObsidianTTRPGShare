@@ -5,7 +5,7 @@ name: Ember Weaver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Summoner's Handbook"
+source: "Monster Summoner's Handbook"
 Monster_CR: 8
 name: Ember Weaver
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, spiritsense
 aura: eerie radiance
 AC: 22, touch 16, flat-footed 16 (dex +5, dodge +1, natural +6)
 HP: 104
-HP_extra: 
 HD: 11d8+55
 saves: Fort +11, Ref +8, Will +12
 immune: charm, death effects, disease, fire, poison, spells with the light descriptor
@@ -42,6 +41,7 @@ ecology:
     desc: any (Astral Plane)
   - name: Organisation
     desc: solitary, pair, escort (1 ember weaver and 1 shoki), troupe (1 ember weaver plus 3-10 ahmuuths, catrinas, esoboks, or nosois), or procession (3-12 ember weavers)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Eerie Radiance (Su)

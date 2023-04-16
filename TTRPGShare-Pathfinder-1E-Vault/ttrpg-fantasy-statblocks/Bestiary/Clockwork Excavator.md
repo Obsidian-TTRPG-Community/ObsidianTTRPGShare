@@ -5,7 +5,7 @@ name: Clockwork Excavator
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 10
 name: Clockwork Excavator
 Monster_XP: 9600
@@ -17,7 +17,6 @@ INI: +3
 senses: darkvision, low-light vision, metal sense
 AC: 23, touch 9, flat-footed 21 (dex -1, dodge +2, natural +14, size -2)
 HP: 111
-HP_extra: 
 HD: 13d10+40
 saves: Fort +4, Ref +5, Will +4
 immune: acid, construct traits, fire
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or crew (2-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Explosive Charge (Su)

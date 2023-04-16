@@ -5,7 +5,7 @@ name: NPC Thrune Agent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Thrune Agent
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +0
 perception: +9
 AC: 15, touch 11, flat-footed 15 (armor +4, deflection +1)
 HP: 63
-HP_extra: 
 HD: 8d8+24
 saves: Fort +8, Ref +3, Will +6
 speed: 30 ft.

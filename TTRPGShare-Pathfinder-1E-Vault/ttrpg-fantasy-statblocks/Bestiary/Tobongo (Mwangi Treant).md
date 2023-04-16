@@ -5,7 +5,7 @@ name: Tobongo (Mwangi Treant)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Heart of the Jungle"
+source: "Heart of the Jungle"
 Monster_CR: 12
 name: Tobongo (Mwangi Treant)
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 27, touch 5, flat-footed 27 (dex -1, natural +22, size -4)
 HP: 175
-HP_extra: 
 HD: 14d8+112
 saves: Fort +17, Ref +3, Will +9
 DR: 10/slashing
@@ -44,6 +43,7 @@ ecology:
     desc: warm jungles
   - name: Organisation
     desc: solitary or grove (2-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Animate Trees (Sp)

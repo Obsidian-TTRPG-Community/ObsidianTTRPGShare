@@ -5,7 +5,7 @@ name: Water Wraith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 2
 name: Water Wraith
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 16, touch 11, flat-footed 14 (dex +1, dodge +1, natural +5, size -1)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +4, Will +2
 speed: 30 ft., swim 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm rivers (Garund)
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Expressive Chameleon (Ex)

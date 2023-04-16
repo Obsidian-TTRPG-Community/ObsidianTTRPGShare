@@ -5,7 +5,7 @@ name: Gorgon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Gorgon
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +17
 senses: darkvision, low-light vision, scent
 AC: 20, touch 9, flat-footed 20 (natural +11, size -1)
 HP: 100
-HP_extra: 
 HD: 8d10+56
 saves: Fort +13, Ref +6, Will +7
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate plains, rocky hills, and underground
   - name: Organisation
     desc: solitary, pair, pack (3-4), or herd (5-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon

@@ -5,7 +5,7 @@ name: Herne
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 73: The Worldwound Incursion"
+source: "Pathfinder No. 73: The Worldwound Incursion"
 Monster_CR: 6
 name: Herne
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision, scent
 AC: 20, touch 13, flat-footed 17 (armor +3, dex +3, natural +4)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +5, Ref +9, Will +9
 resist: cold 10, electricity 10

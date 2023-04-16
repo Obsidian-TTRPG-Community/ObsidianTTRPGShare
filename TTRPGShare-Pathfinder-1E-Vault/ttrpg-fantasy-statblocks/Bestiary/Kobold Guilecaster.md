@@ -5,7 +5,7 @@ name: Kobold Guilecaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Kobold Guilecaster
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +1
 senses: darkvision
 AC: 18, touch 13, flat-footed 16 (armor +4, dex +2, natural +1, size +1)
 HP: 35
-HP_extra: 
 HD: 6d6+12
 saves: Fort +3, Ref +4, Will +4
 weak: light sensitivity

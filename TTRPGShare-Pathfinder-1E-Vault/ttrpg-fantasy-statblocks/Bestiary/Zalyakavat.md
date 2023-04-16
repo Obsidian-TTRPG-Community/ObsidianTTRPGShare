@@ -5,7 +5,7 @@ name: Zalyakavat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 130: City in the Lion's Eye"
+source: "Pathfinder No. 130: City in the Lion's Eye"
 Monster_CR: 13
 name: Zalyakavat
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision
 AC: 28, touch 17, flat-footed 21 (dex +6, dodge +1, natural +11)
 HP: 178
-HP_extra: 
 HD: 17d10+85
 saves: Fort +15, Ref +16, Will +11
 DR: 15/good and piercing

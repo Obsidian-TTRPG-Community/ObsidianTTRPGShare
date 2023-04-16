@@ -5,7 +5,7 @@ name: Tletli
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 143: Borne by the Sun's Grace"
+source: "Pathfinder No. 143: Borne by the Sun's Grace"
 Monster_CR: 14
 name: Tletli
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +30
 senses: darkvision, detect chaos/evil/good/ law
 AC: 30, touch 13, flat-footed 25 (dex +4, dodge +1, natural +17, size -2)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +12, Ref +16, Will +17
 immune: fire
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or revelation (3-6 plus 1-2 angels and 1 chicome couatl)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Holy Fire (Su)

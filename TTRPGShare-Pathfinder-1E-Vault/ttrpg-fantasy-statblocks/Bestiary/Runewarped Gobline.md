@@ -5,7 +5,7 @@ name: Runewarped Gobline
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 133: Secrets of Roderic's Cove"
+source: "Pathfinder No. 133: Secrets of Roderic's Cove"
 Monster_CR: 5
 name: Runewarped Gobline
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision, low-light vision, magicscent
 AC: 20, touch 16, flat-footed 15 (armor +2, dex +5, natural +2, size +1)
 HP: 46
-HP_extra: 
 HD: 5d8+20
 saves: Fort +4, Ref +9, Will +4
 DR: 5/magic

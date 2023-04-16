@@ -5,7 +5,7 @@ name: Skapraun
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 92: The Hill Giant's Pledge"
+source: "Pathfinder No. 92: The Hill Giant's Pledge"
 Monster_CR: 1
 name: Skapraun
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 16
-HP_extra: 
 HD: 3d6+6
 saves: Fort +3, Ref +4, Will +4
 resist: cold 5
@@ -44,6 +43,7 @@ ecology:
     desc: temperate or cold mountains
   - name: Organisation
     desc: solitary, pair, patrol (3-5), band (6-12), or tribe (13-32 plus 1 chieftain of 3rd-4th level)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Effortless Leap (Ex)

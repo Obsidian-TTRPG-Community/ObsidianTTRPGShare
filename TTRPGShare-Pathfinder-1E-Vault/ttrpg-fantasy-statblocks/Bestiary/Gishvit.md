@@ -5,7 +5,7 @@ name: Gishvit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 127: Crownfall"
+source: "Pathfinder No. 127: Crownfall"
 Monster_CR: 1/2
 name: Gishvit
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d10-1
 saves: Fort -1, Ref +4, Will +2
 weak: vulnerability to erase
@@ -40,6 +39,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary, pair, or curation (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Overwhelm (Su)

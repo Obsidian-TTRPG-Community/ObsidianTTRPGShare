@@ -5,7 +5,7 @@ name: Mothman Elder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 12
 name: Mothman Elder
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: darkvision, see invisibility
 aura: warp elements
 AC: 26, touch 14, flat-footed 21 (dex +5, natural +12, size -1)
 HP: 142
-HP_extra: 
 HD: 15d10+60
 saves: Fort +9, Ref +14, Will +16
 resist: cold 20, fire 20

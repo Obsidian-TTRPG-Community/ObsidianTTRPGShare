@@ -5,7 +5,7 @@ name: Sun Falcon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 79: The Half-Dead City"
+source: "Pathfinder No. 79: The Half-Dead City"
 Monster_CR: 4
 name: Sun Falcon
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: radiance
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +6, Ref +8, Will +6
 immune: fire
@@ -43,6 +42,7 @@ ecology:
     desc: warm deserts or mountains
   - name: Organisation
     desc: solitary, pair, or beam (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Radiance (Su)

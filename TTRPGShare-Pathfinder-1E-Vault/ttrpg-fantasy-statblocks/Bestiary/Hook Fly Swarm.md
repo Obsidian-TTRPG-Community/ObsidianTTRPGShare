@@ -5,7 +5,7 @@ name: Hook Fly Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Gallows of Madness"
+source: "Gallows of Madness"
 Monster_CR: 1
 name: Hook Fly Swarm
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +1, Will +0
 immune: mind-affecting effects, weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cloud (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bleed (Ex)

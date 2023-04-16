@@ -5,7 +5,7 @@ name: Vukodlak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Vukodlak
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision, scent
 aura: unnatural aura
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +3, Ref +3, Will +5
 immune: undead traits
@@ -44,6 +43,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or pack (3-11)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Terrifying Gaze

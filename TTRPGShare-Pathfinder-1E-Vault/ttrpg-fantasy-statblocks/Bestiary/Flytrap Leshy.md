@@ -5,7 +5,7 @@ name: Flytrap Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Flytrap Leshy
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 15 (dex +2, natural +4, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +4, Will +4
 immune: electricity, plant traits, sonic
@@ -43,6 +42,7 @@ ecology:
     desc: warm marshes or wetlands
   - name: Organisation
     desc: solitary or cluster (4-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Amalgam (Ex)

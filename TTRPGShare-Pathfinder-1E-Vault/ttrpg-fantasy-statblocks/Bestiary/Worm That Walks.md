@@ -5,7 +5,7 @@ name: Worm That Walks
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Worm That Walks
 Monster_XP: 38400

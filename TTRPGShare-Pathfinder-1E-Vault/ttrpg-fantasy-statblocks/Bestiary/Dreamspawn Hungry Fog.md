@@ -5,7 +5,7 @@ name: Dreamspawn Hungry Fog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The House on Hook Street"
+source: "The House on Hook Street"
 Monster_CR: 7
 name: Dreamspawn Hungry Fog
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: blindsight, darkvision, thoughtsense
 aura: bewitching brume, discordant feedback
 AC: 7, touch 7, flat-footed 7 (dex -1, size -2)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +6, Ref +1, Will -3
 immune: acid, electricity, mind-affecting effects, sonic

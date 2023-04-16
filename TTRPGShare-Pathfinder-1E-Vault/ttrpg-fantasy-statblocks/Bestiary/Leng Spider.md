@@ -5,7 +5,7 @@ name: Leng Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Leng Spider
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Poison (Su)

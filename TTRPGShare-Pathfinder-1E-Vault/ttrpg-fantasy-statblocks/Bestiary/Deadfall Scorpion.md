@@ -5,7 +5,7 @@ name: Deadfall Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Deadfall Scorpion
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, tremorsense
 AC: 21, touch 10, flat-footed 19 (dex +2, natural +11, size -2)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +12, Ref +5, Will +5
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or nest (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

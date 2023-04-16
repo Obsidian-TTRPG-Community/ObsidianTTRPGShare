@@ -5,7 +5,7 @@ name: Vampire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Vampire
 Monster_XP: 6400

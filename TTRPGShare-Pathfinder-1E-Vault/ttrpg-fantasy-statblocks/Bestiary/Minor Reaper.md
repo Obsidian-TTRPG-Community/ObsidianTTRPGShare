@@ -5,7 +5,7 @@ name: Minor Reaper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 10
 name: Minor Reaper
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, low-light vision
 AC: 22, touch 14, flat-footed 18 (dex +4, natural +8)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +8, Ref +11, Will +9
 immune: cold, undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or omen (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Touch (Su)

@@ -5,7 +5,7 @@ name: Dire Shark (Megalodon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Dire Shark (Megalodon)
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +25
 senses: blindsense, keen scent
 AC: 23, touch 8, flat-footed 21 (dex +2, natural +15, size -4)
 HP: 112
-HP_extra: 
 HD: 15d8+45
 saves: Fort +14, Ref +13, Will +8
 speed: swim 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

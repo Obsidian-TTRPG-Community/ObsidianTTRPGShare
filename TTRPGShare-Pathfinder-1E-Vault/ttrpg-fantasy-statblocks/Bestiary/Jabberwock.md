@@ -5,7 +5,7 @@ name: Jabberwock
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 23
 name: Jabberwock
 Monster_XP: 819200
@@ -46,6 +46,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Burble (Su)

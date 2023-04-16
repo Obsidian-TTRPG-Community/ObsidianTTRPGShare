@@ -5,7 +5,7 @@ name: Arazni
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 26
 name: Arazni
 Monster_XP: 2457600
@@ -21,7 +21,6 @@ senses: darkvision
 aura: fear
 AC: 44, touch 22, flat-footed 38 (armor +6, deflection +5, dex +6, insight +1, natural +10, shield +6)
 HP: 379
-HP_extra: 
 HD: 20d6+307
 saves: Fort +23, Ref +21, Will +25
 immune: cold, electricity, undead traits

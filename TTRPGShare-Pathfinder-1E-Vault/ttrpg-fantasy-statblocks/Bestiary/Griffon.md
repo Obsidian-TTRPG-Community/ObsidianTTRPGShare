@@ -5,7 +5,7 @@ name: Griffon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Griffon
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +6, Will +4
 speed: 30 ft., fly 80 ft. (average)
@@ -40,6 +39,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary, pair, or pride (6-10)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

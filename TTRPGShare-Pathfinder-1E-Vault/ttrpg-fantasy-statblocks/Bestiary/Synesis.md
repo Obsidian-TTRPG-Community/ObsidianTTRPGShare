@@ -5,7 +5,7 @@ name: Synesis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 4
 name: Synesis
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: cognitive aura
 AC: 17, touch 13, flat-footed 15 (deflection +1, dex +2, natural +4)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +6, Ref +4, Will +7
 immune: cold, critical hits, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, or convention (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cognitive Aura (Su)

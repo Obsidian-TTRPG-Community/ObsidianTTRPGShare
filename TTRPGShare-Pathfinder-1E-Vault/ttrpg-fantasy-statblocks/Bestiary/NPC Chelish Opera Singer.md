@@ -5,7 +5,7 @@ name: NPC Chelish Opera Singer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 5
 name: NPC Chelish Opera Singer
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +1
 perception: -1
 AC: 15, touch 12, flat-footed 14 (armor +3, deflection +1, dex +1)
 HP: 45
-HP_extra: 
 HD: 6d8+15
 saves: Fort +5, Ref +7, Will +5
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

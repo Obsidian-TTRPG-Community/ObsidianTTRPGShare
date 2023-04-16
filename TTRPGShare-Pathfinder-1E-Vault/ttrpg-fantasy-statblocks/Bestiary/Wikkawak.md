@@ -5,7 +5,7 @@ name: Wikkawak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Wikkawak
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, scent
 AC: 19, touch 13, flat-footed 16 (armor +3, dex +3, natural +3)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +8, Will +3
 resist: cold 5

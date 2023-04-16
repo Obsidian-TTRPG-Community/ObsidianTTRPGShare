@@ -5,7 +5,7 @@ name: NPC First Guard of Absalom
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 1
 name: NPC First Guard of Absalom
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +1
 perception: +1
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 21
-HP_extra: 
 HD: 2d10+6
 saves: Fort +5, Ref +1, Will +3
 defensive_abilities: bravery +1

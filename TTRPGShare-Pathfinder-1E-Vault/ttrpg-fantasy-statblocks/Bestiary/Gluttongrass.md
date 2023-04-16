@@ -5,7 +5,7 @@ name: Gluttongrass
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1
 name: Gluttongrass
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 12, touch 11, flat-footed 11 (dex +1, natural +1)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref +1, Will +0
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: any plains
   - name: Organisation
     desc: solitary, pair, swath (3-11), or field (see below)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blood Healing (Ex)

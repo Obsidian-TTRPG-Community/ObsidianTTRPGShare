@@ -5,7 +5,7 @@ name: Frog Father
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Frog Father
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 18, touch 9, flat-footed 17 (dex +1, natural +9, size -2)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +10, Ref +8, Will +4
 speed: 30 ft., swim 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: warm marshes or water
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tongue (Ex)

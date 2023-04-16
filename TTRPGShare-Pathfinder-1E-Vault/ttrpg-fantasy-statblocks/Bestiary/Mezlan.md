@@ -5,7 +5,7 @@ name: Mezlan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Mezlan
 Monster_XP: 38400
@@ -44,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Morphic Body (Su)

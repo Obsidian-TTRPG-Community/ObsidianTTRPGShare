@@ -5,7 +5,7 @@ name: Geist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Geist
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 20, touch 20, flat-footed 15 (deflection +5, dex +5)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +9, Ref +9, Will +10
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any (haunted sites or ruins)
   - name: Organisation
     desc: solitary or haunting (2-7)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Spiritual Manipulation (Su)

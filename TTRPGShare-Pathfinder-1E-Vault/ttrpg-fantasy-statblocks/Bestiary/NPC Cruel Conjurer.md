@@ -5,7 +5,7 @@ name: NPC Cruel Conjurer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 14
 name: NPC Cruel Conjurer
 Monster_XP: 38400
@@ -20,7 +20,6 @@ perception: +15
 senses: see invisibility
 AC: 22, touch 15, flat-footed 19 (armor +4, deflection +2, dex +2, dodge +1, natural +3)
 HP: 125
-HP_extra: 
 HD: 15d6+70
 saves: Fort +11, Ref +10, Will +12
 immune: fire (120 points)

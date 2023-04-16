@@ -5,7 +5,7 @@ name: Ochre Eurypterid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 1/3
 name: Ochre Eurypterid
 Monster_XP: 135
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +1, Will +1
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: warm ocean
   - name: Organisation
     desc: solitary, pair, or swarm (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

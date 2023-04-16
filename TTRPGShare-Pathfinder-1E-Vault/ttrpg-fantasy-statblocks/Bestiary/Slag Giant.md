@@ -5,7 +5,7 @@ name: Slag Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Slag Giant
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +9
 senses: low-light vision
 AC: 20, touch 10, flat-footed 19 (armor +3, dex +1, natural +7, size -1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +6, Will +4
 resist: fire 30

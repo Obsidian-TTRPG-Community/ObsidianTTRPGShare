@@ -5,7 +5,7 @@ name: Nulmind
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Nulmind
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: mind drain
 AC: 25, touch 16, flat-footed 20 (armor +4, dex +4, dodge +1, natural +5, size +1)
 HP: 142
-HP_extra: 
 HD: 15d8+75
 saves: Fort +15, Ref +11, Will +12
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Devour Magic (Ex)

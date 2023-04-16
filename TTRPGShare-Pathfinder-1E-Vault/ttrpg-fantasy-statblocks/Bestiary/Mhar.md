@@ -5,7 +5,7 @@ name: Mhar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 26
 name: Mhar
 Monster_XP: 2457600
@@ -45,6 +45,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Cloak of Ash (Ex)

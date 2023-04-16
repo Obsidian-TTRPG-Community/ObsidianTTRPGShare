@@ -5,7 +5,7 @@ name: Vexgit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Vexgit
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 8
-HP_extra: 
 HD: 1d6+5
 saves: Fort +2, Ref +3, Will +3
 DR: 5/cold iron

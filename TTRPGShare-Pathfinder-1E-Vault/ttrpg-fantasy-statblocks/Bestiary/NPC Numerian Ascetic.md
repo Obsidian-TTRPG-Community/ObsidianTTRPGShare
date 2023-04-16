@@ -5,7 +5,7 @@ name: NPC Numerian Ascetic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 13
 name: NPC Numerian Ascetic
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 24, touch 23, flat-footed 19 (armor +1, deflection +2, dex +4, dodge +1, monk +3, wis +3)
 HP: 94
-HP_extra: 
 HD: 14d8+28
 saves: Fort +10, Ref +13, Will +12
 saves_other: +2 vs. enchantments

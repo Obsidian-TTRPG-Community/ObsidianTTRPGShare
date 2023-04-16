@@ -5,7 +5,7 @@ name: Brain Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Brain Ooze
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: blindsight
 aura: psychic noise
 AC: 23, touch 19, flat-footed 18 (armor +4, dex +4, dodge +1, insight +2, size +2)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +6, Ref +9, Will +6
 immune: ooze traits
@@ -39,6 +38,7 @@ ecology:
     desc: any ruins or underground
   - name: Organisation
     desc: solitary, pair, flight (3-6), or colony (7-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Neural Pulse (Su)

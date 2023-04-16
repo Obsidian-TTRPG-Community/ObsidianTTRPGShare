@@ -5,7 +5,7 @@ name: Gorthek Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Gorthek Rider
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 19, touch 10, flat-footed 19 (armor +9)
 HP: 64
-HP_extra: 
 HD: 7d10+21
 saves: Fort +8, Ref +3, Will +3
 defensive_abilities: ferocity

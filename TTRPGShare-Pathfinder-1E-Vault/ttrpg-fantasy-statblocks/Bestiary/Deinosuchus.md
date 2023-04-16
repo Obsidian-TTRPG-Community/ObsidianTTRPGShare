@@ -5,7 +5,7 @@ name: Deinosuchus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 58: Island of Empty Eyes"
+source: "Pathfinder No. 58: Island of Empty Eyes"
 Monster_CR: 8
 name: Deinosuchus
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision
 AC: 21, touch 7, flat-footed 20 (dex +1, natural +14, size -4)
 HP: 104
-HP_extra: 
 HD: 11d8+55
 saves: Fort +12, Ref +10, Will +7
 speed: 30 ft., swim 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or float (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hold Breath (Ex)

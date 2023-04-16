@@ -5,7 +5,7 @@ name: Thalassic Architect
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 121: The Lost Outpost"
+source: "Pathfinder No. 121: The Lost Outpost"
 Monster_CR: 10
 name: Thalassic Architect
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 24, touch 13, flat-footed 20 (dex +4, natural +11, size -1)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +10, Ref +10, Will +14
 immune: electricity, mind-affecting effects, sonic
@@ -41,6 +40,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or crew (1 thalassic architect plus 2-30 aboleths, skum, and other dominated creatures)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Deadlight (Su)

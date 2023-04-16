@@ -5,7 +5,7 @@ name: Kallas Devil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 9
 name: Kallas Devil
 Monster_XP: 6400
@@ -21,7 +21,6 @@ senses: darkvision
 aura: frightful presence (30 ft., DC 20),
 AC: 22, touch 16, flat-footed 15 (dex +5, dodge +2, natural +6, size -1)
 HP: 102
-HP_extra: 
 HD: 12d6+60
 saves: Fort +9, Ref +15, Will +10
 immune: poison, disease

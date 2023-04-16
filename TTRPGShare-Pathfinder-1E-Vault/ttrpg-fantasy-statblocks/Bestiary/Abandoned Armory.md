@@ -5,7 +5,7 @@ name: Abandoned Armory
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 142: Gardens of Gallowspire"
+source: "Pathfinder No. 142: Gardens of Gallowspire"
 Monster_CR: 13
 name: Abandoned Armory
 Monster_XP: 25600
@@ -16,7 +16,6 @@ INI: +1
 senses: blindsense, darkvision, low-light vision
 AC: 29, touch 8, flat-footed 28 (armor +20, dex +1, size -2)
 HP: 139
-HP_extra: 
 HD: 18d10+40
 saves: Fort +8, Ref +6, Will +6
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any plain or battlefield
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Leaden Weariness (Su)

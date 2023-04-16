@@ -5,7 +5,7 @@ name: Lava Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Lava Drake
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 115
-HP_extra: 
 HD: 11d12+44
 saves: Fort +11, Ref +10, Will +8
 immune: fire, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: warm forests, hills, or mountains
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Magma Shake (Ex)

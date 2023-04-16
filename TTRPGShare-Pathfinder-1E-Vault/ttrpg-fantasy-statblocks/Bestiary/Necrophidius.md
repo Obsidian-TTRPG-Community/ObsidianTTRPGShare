@@ -5,7 +5,7 @@ name: Necrophidius
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Necrophidius
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 36
-HP_extra: 
 HD: 3d10+20
 saves: Fort +1, Ref +4, Will +1
 immune: construct traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or coil (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dance of Death (Ex)

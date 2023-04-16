@@ -5,7 +5,7 @@ name: Labyrinth Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 8
 name: Labyrinth Guardian
 Monster_XP: 4800

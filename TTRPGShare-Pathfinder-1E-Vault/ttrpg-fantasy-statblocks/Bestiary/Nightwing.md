@@ -5,7 +5,7 @@ name: Nightwing
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Nightwing
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darksense, darkvision, detect magic, low-light vision
 aura: desecrating aura
 AC: 29, touch 12, flat-footed 25 (dex +4, natural +17, size -2)
 HP: 195
-HP_extra: 
 HD: 17d8+119
 saves: Fort +12, Ref +11, Will +17
 immune: cold, undead traits
@@ -45,6 +44,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary, pair, or flight (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Magic Drain (Su)

@@ -5,7 +5,7 @@ name: NPC Cave Wizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Cave Wizard
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +3
 perception: +12
 AC: 15, touch 10, flat-footed 15 (armor +4, deflection +1, dex -1, natural +1)
 HP: 92
-HP_extra: 
 HD: 9d6+58
 saves: Fort +8, Ref +2, Will +9
 saves_other: +2 vs. poison, spells, and spell-like abilities

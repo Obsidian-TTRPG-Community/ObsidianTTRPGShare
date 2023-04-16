@@ -5,7 +5,7 @@ name: Emotion Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Emotion Ooze
 Monster_XP: 2400
@@ -18,7 +18,6 @@ senses: blindsense
 aura: emotion
 AC: 13, touch 13, flat-footed 13 (deflection +6, dex -3)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +13, Ref +6, Will +11
 immune: mind-affecting effects, ooze traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, conflict (3-12, often with different attuned emotions)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Compel Emotion (Su)

@@ -5,7 +5,7 @@ name: NPC Master Historian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Master Historian
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +16
 senses: darkvision, see invisibility
 AC: 19, touch 11, flat-footed 19 (armor +6, deflection +2, dex -1, natural +2)
 HP: 120
-HP_extra: 
 HD: 10d8+7d6+51
 saves: Fort +13, Ref +15, Will +17
 saves_other: +2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic

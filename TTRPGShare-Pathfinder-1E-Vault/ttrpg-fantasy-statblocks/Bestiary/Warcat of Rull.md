@@ -5,7 +5,7 @@ name: Warcat of Rull
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 13
 name: Warcat of Rull
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 28, touch 12, flat-footed 24 (dex +4, natural +16, size -2)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +17, Ref +14, Will +7
 speed: 50 ft., climb 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold hills or mountains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Belkzen, Hold of the Orc Hordes

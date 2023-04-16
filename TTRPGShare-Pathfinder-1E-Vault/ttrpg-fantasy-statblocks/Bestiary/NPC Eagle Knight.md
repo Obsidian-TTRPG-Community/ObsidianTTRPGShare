@@ -5,7 +5,7 @@ name: NPC Eagle Knight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 2
 name: NPC Eagle Knight
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +3
 perception: +2
 AC: 19, touch 13, flat-footed 16 (armor +6, dex +3)
 HP: 24
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +4, Will +2
 defensive_abilities: bravery +1

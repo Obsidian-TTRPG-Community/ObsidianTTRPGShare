@@ -5,7 +5,7 @@ name: Slime Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Slime Naga
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision
 AC: 24, touch 14, flat-footed 19 (dex +4, dodge +1, natural +10, size -1)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +9, Ref +9, Will +11
 resist: acid 10
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or nest (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ooze Master (Su)

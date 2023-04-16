@@ -5,7 +5,7 @@ name: Gorthek
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Gorthek
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +13, Ref +5, Will +3
 DR: 5/-
@@ -37,6 +36,7 @@ ecology:
     desc: temperate hills and plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Monster Codex

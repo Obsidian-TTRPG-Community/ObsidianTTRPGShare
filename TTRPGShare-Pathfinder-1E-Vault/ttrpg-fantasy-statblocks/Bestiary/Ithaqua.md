@@ -5,7 +5,7 @@ name: Ithaqua
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 109: In Search of Sanity"
+source: "Pathfinder No. 109: In Search of Sanity"
 Monster_CR: 28
 name: Ithaqua
 Monster_XP: 4915200
@@ -47,6 +47,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Arctic Bound (Ex)

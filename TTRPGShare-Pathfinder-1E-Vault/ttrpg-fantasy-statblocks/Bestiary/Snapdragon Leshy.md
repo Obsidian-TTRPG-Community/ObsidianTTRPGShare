@@ -5,7 +5,7 @@ name: Snapdragon Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 4
 name: Snapdragon Leshy
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +4, Will +3
 immune: electricity, plant traits, sonic
@@ -42,6 +41,7 @@ ecology:
     desc: temperate hills or urban
   - name: Organisation
     desc: solitary, patch (2-8), or entourage (1-3 plus 2-16 other leshys)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bardic Performance (Su)

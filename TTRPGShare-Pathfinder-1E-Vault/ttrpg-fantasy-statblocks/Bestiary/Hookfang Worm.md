@@ -5,7 +5,7 @@ name: Hookfang Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Hookfang Worm
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision, tremorsense
 AC: 20, touch 12, flat-footed 16 (dex +4, natural +8, size -2)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +11, Ref +7, Will +6
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or shoal (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

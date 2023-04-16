@@ -5,7 +5,7 @@ name: Pit Fiend
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 20
 name: Pit Fiend
 Monster_XP: 307200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or council (3-9)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Devil Shaping (Su)

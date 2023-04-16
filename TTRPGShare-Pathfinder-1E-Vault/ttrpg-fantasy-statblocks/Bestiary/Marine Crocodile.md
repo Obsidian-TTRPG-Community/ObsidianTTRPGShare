@@ -5,7 +5,7 @@ name: Marine Crocodile
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 58: Island of Empty Eyes"
+source: "Pathfinder No. 58: Island of Empty Eyes"
 Monster_CR: 3
 name: Marine Crocodile
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision
 AC: 14, touch 10, flat-footed 13 (dex +1, natural +4, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +5, Will +2
 speed: 15 ft., swim 50 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: tropical oceans
   - name: Organisation
     desc: solitary, pair, or float (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Dive (Ex)

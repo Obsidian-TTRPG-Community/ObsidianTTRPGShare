@@ -5,7 +5,7 @@ name: Giant Botfly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Heart of the Jungle"
+source: "Heart of the Jungle"
 Monster_CR: 1/3
 name: Giant Botfly
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +2, Will +0
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: warm jungle
   - name: Organisation
     desc: solitary, pair, or colony (10-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Infestation (Ex)

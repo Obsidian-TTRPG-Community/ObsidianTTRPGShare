@@ -5,7 +5,7 @@ name: Genie-Touched Horse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Qadira, Jewel of the East"
+source: "Qadira, Jewel of the East"
 Monster_CR: 6
 name: Genie-Touched Horse
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +10, Ref +7, Will +5
 resist: energy 10, energy_other see genie-touched abilities
@@ -38,6 +37,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Genie-Touched Abilities

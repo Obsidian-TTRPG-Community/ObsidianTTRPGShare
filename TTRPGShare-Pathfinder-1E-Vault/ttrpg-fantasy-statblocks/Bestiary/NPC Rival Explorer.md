@@ -5,7 +5,7 @@ name: NPC Rival Explorer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Rival Explorer
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +20
 senses: darkvision
 AC: 24, touch 17, flat-footed 19 (armor +7, deflection +2, dex +4, dodge +1)
 HP: 102
-HP_extra: 
 HD: 18d8+18
 saves: Fort +8, Ref +18, Will +11
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

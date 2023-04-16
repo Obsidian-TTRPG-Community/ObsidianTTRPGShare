@@ -5,7 +5,7 @@ name: Goezspall
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Goezspall
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 30, touch 12, flat-footed 27 (dex +2, dodge +1, natural +18, size -1)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +17, Ref +12, Will +10
 immune: cold, disease, fire, poison, pressure damage
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Hibernate (Ex)

@@ -5,7 +5,7 @@ name: Katpaskir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 78: City of Locusts"
+source: "Pathfinder No. 78: City of Locusts"
 Monster_CR: 18
 name: Katpaskir
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision, see invisibility
 aura: distance distortion
 AC: 31, touch 15, flat-footed 26 (dex +5, natural +16)
 HP: 304
-HP_extra: 
 HD: 21d10+189
 saves: Fort +16, Ref +17, Will +17
 immune: electricity, poison
@@ -46,6 +45,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breaching (Su)

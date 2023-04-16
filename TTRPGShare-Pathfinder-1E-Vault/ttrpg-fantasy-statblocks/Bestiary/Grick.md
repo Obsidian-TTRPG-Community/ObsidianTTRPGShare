@@ -5,7 +5,7 @@ name: Grick
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Grick
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 27
-HP_extra: 
 HD: 5d8+5
 saves: Fort +2, Ref +3, Will +6
 DR: 10/magic
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or cluster (2-5)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 2

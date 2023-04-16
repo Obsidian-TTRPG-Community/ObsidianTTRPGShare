@@ -5,7 +5,7 @@ name: NPC Mounted Archer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Mounted Archer
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +7
 perception: +9
 AC: 19, touch 13, flat-footed 16 (armor +4, dex +3, shield +2)
 HP: 42
-HP_extra: 
 HD: 5d10+10
 saves: Fort +7, Ref +8, Will +3
 resist: fire 10

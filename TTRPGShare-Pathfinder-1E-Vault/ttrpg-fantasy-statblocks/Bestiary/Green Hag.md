@@ -5,7 +5,7 @@ name: Green Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Green Hag
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 19, touch 11, flat-footed 18 (dex +1, natural +8)
 HP: 58
-HP_extra: 
 HD: 9d10+9
 saves: Fort +6, Ref +7, Will +7
 SR: 16
@@ -36,6 +35,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Weakness (Su)

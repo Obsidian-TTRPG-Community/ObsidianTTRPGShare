@@ -5,7 +5,7 @@ name: Ovinnik
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Ovinnik
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 22
-HP_extra: 
 HD: 4d6+8
 saves: Fort +3, Ref +7, Will +6
 resist: fire 5
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Luck Touch (Su)

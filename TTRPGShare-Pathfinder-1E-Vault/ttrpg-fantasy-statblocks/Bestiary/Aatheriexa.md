@@ -5,7 +5,7 @@ name: Aatheriexa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Aatheriexa
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: all-around vision, darkvision, low-light vision, see invisibility
 aura: unnatural aura
 AC: 21, touch 15, flat-footed 16 (dex +5, natural +6)
 HP: 84
-HP_extra: 
 HD: 13d8+26
 saves: Fort +6, Ref +9, Will +8
 immune: cold, disease, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, pod (3-5), or invasion (6-36)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gnaw (Ex)

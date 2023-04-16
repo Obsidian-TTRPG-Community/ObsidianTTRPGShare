@@ -5,7 +5,7 @@ name: Shedu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Shedu
 Monster_XP: 6400
@@ -41,6 +41,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Prescience (Su)

@@ -5,7 +5,7 @@ name: Boreal Annis Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 7
 name: Boreal Annis Hag
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +9, Ref +6, Will +6
 immune: cold
@@ -46,6 +45,7 @@ ecology:
     desc: cold marshes
   - name: Organisation
     desc: solitary of coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Trackless Step (Ex)

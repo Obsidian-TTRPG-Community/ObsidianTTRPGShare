@@ -5,7 +5,7 @@ name: Gladiator Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 17
 name: Gladiator Robot
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +2
 senses: blindsight, darkvision, low-light vision, superior optics
 AC: 33, touch 15, flat-footed 28 (dex +5, natural +18)
 HP: 161
-HP_extra: 
 HD: 22d10+40
 saves: Fort +14, Ref +17, Will +14
 immune: construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or squad (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Defensive Programming (Ex)

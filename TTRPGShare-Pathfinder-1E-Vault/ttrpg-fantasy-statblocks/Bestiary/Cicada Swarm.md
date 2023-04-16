@@ -5,7 +5,7 @@ name: Cicada Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 2
 name: Cicada Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +4, Ref +4, Will +2
 immune: mind-affecting effects, weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or infestation (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Song (Ex)

@@ -5,7 +5,7 @@ name: Squid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Squid
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +7
 senses: low-light vision
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +3, Ref +7, Will +2
 defensive_abilities: ink cloud (5-ft. radius)
@@ -35,6 +34,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or school (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ink Cloud (Ex)

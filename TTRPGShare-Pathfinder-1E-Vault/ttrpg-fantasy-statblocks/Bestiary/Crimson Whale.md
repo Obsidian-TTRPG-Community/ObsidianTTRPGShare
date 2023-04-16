@@ -5,7 +5,7 @@ name: Crimson Whale
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 59: The Price of Infamy"
+source: "Pathfinder No. 59: The Price of Infamy"
 Monster_CR: 8
 name: Crimson Whale
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +21
 senses: blindsense, low-light vision
 AC: 22, touch 4, flat-footed 22 (dex -2, natural +18, size -4)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +12, Ref +7, Will +6
 speed: swim 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: single, pair, or pod (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hold Breath (Ex)

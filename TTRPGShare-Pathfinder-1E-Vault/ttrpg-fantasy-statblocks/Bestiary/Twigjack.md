@@ -5,7 +5,7 @@ name: Twigjack
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Twigjack
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +7, Will +6
 weak: vulnerable to fire
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bramble Jump (Su)

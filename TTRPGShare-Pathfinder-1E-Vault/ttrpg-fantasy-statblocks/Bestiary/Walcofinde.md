@@ -5,7 +5,7 @@ name: Walcofinde
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 127: Crownfall"
+source: "Pathfinder No. 127: Crownfall"
 Monster_CR: 2
 name: Walcofinde
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +2, Will +4
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or immurement (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Isolated Restoration (Su)

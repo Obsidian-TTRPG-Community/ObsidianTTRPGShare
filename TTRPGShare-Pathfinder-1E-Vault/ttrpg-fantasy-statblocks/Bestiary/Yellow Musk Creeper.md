@@ -5,7 +5,7 @@ name: Yellow Musk Creeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Yellow Musk Creeper
 Monster_XP: 600
@@ -16,7 +16,6 @@ INI: +2
 senses: tremorsense
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +3, Will +1
 immune: plant traits
@@ -35,6 +34,7 @@ ecology:
     desc: temperate or warm forests and underground
   - name: Organisation
     desc: patch (creeper plus 1-6 yellow musk zombies)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Create Yellow Musk Zombie (Su)

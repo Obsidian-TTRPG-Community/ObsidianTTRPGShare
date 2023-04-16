@@ -5,7 +5,7 @@ name: Canopy Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 3
 name: Canopy Troll
 Monster_XP: 800
@@ -40,6 +40,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: pair, gang (3-4), or troop (5-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cradling (Ex)

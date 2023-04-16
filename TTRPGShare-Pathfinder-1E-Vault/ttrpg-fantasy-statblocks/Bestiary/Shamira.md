@@ -5,7 +5,7 @@ name: Shamira
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 76: The Midnight Isles"
+source: "Pathfinder No. 76: The Midnight Isles"
 Monster_CR: 25
 name: Shamira
 Monster_XP: 1638400
@@ -48,6 +48,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Divine Deception (Su)

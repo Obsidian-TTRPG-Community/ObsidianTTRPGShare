@@ -5,7 +5,7 @@ name: Lizardfolk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Lizardfolk
 Monster_XP: 400
@@ -17,7 +17,6 @@ INI: +0
 perception: +1
 AC: 17, touch 10, flat-footed 17 (natural +5, shield +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +0, Will +0
 speed: 30 ft., swim 15 ft.

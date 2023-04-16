@@ -5,7 +5,7 @@ name: NPC Fire Cleric
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Fire Cleric
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +3
 perception: +11
 AC: 20, touch 9, flat-footed 20 (armor +7, dex -1, natural +1, shield +3)
 HP: 75
-HP_extra: 
 HD: 11d8+22
 saves: Fort +9, Ref +5, Will +13
 resist: electricity 20, fire 10

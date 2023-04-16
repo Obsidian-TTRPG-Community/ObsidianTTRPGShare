@@ -5,7 +5,7 @@ name: Quickwood
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Quickwood
 Monster_XP: 4800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, oaksight
 aura: fear aura
 AC: 19, touch 7, flat-footed 19 (dex -1, natural +12, size -2)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +12, Ref +2, Will +5
 immune: electricity, fire, plant traits
@@ -43,6 +42,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fear Aura (Su)

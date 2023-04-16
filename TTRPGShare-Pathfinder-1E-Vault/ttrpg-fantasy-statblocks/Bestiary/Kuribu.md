@@ -5,7 +5,7 @@ name: Kuribu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 103: The Hellfire Compact"
+source: "Pathfinder No. 103: The Hellfire Compact"
 Monster_CR: 3
 name: Kuribu
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, detect evil
 aura: lesser protective aura
 AC: 16, touch 14, flat-footed 13 (dex +3, natural +2, size +1)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +2, Ref +7, Will +5
 saves_other: +4 vs. poison, +4 resistance vs. evil

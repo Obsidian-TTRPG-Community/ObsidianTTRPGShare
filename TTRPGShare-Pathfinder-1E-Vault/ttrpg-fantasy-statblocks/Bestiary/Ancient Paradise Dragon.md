@@ -5,7 +5,7 @@ name: Ancient Paradise Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Ancient Paradise Dragon
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 40, touch 5, flat-footed 40 (dex -1, natural +35, size -4)
 HP: 434
-HP_extra: 
 HD: 28d12+252
 saves: Fort +25, Ref +15, Will +23
 immune: force effects, paralysis, petrification, poison, sleep

@@ -5,7 +5,7 @@ name: Goblin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Goblin
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: -1
 senses: darkvision
 AC: 16, touch 13, flat-footed 14 (armor +2, dex +2, shield +1, size +1)
 HP: 6
-HP_extra: 
 HD: 1d10+1
 saves: Fort +3, Ref +2, Will -1
 speed: 30 ft.

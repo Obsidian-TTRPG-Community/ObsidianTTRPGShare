@@ -5,7 +5,7 @@ name: Triaxian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 70: The Frozen Stars"
+source: "Pathfinder No. 70: The Frozen Stars"
 Monster_CR: 1/2
 name: Triaxian
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 18, touch 12, flat-footed 16 (armor +6, dex +2)
 HP: 13
-HP_extra: 
 HD: 1d10+3
 saves: Fort +4, Ref +4, Will +2
 speed: 20 ft.

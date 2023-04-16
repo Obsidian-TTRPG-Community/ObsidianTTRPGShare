@@ -5,7 +5,7 @@ name: NPC Master Entertainer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Master Entertainer
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +2
 senses: low-light vision
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 45
-HP_extra: 
 HD: 10d8
 saves: Fort +3, Ref +6, Will +7
 saves_other: +2 vs. illusions

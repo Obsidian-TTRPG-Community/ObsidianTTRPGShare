@@ -5,7 +5,7 @@ name: Dorvae
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Dorvae
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, see invisibility
 AC: 24, touch 16, flat-footed 18 (dex +5, dodge +1, natural +8)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +8, Ref +13, Will +10
 immune: mind-affecting effects, poison
@@ -39,6 +38,7 @@ ecology:
     desc: any (evil planes)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Writhing Snakes (Ex)

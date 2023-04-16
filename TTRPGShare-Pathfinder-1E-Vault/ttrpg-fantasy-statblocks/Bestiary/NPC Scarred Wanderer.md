@@ -5,7 +5,7 @@ name: NPC Scarred Wanderer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Scarred Wanderer
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +2
 perception: +25
 AC: 24, touch 10, flat-footed 22 (armor +7, dex +2, rage -2, shield +7)
 HP: 415
-HP_extra: 
 HD: 20d12+280
 saves: Fort +28, Ref +12, Will +18
 saves_other: +9 vs. spells and spell-like abilities, +4 vs. enchantments, +2 vs. poison and supernatural abilities

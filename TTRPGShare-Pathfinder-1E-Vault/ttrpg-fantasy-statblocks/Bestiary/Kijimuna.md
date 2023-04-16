@@ -5,7 +5,7 @@ name: Kijimuna
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 53: Tide of Honor"
+source: "Pathfinder No. 53: Tide of Honor"
 Monster_CR: 2
 name: Kijimuna
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +6, Will +1
 speed: 30 ft.

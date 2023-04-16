@@ -5,7 +5,7 @@ name: Goat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/3
 name: Goat
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +3, Will +0
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

@@ -5,7 +5,7 @@ name: Dossenus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Dossenus
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision
 AC: 12, touch 11, flat-footed 12 (natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +0, Will +3
 saves_other: +4 vs. poison
@@ -39,6 +38,7 @@ ecology:
     desc: any underground (except water)
   - name: Organisation
     desc: solitary, clutch (2-9), or infestation (10-20)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Burrow (Ex)

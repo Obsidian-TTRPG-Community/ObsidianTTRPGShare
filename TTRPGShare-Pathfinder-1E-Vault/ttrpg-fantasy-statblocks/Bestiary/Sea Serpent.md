@@ -5,7 +5,7 @@ name: Sea Serpent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 12
 name: Sea Serpent
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 25, touch 8, flat-footed 23 (dex +2, natural +17, size -4)
 HP: 187
-HP_extra: 
 HD: 15d10+105
 saves: Fort +16, Ref +13, Will +7
 immune: cold
@@ -40,6 +39,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Capsize (Ex)

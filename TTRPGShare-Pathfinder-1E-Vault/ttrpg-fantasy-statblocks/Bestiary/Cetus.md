@@ -5,7 +5,7 @@ name: Cetus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 13
 name: Cetus
 Monster_XP: 25600
@@ -46,6 +46,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Dispelling Bite (Su)

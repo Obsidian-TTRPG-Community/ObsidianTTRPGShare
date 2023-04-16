@@ -5,7 +5,7 @@ name: Bugbear Cultist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Bugbear Cultist
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +14
 senses: darkvision, scent
 AC: 22, touch 14, flat-footed 18 (armor +5, dex +3, dodge +1, natural +3)
 HP: 64
-HP_extra: 
 HD: 9d8+24
 saves: Fort +6, Ref +9, Will +6
 speed: 30 ft.

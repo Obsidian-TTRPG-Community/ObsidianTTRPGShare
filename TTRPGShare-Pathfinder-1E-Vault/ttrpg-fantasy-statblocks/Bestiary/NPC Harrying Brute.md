@@ -5,7 +5,7 @@ name: NPC Harrying Brute
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Harrying Brute
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +5
 perception: +11
 AC: 20, touch 16, flat-footed 18 (armor +4, dex +1, dodge +1, monk +1, wis +3)
 HP: 45
-HP_extra: 
 HD: 7d8+10
 saves: Fort +7, Ref +7, Will +9
 saves_other: +2 vs. enchantments

@@ -5,7 +5,7 @@ name: Chelish Hell-Bred Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 103: The Hellfire Compact"
+source: "Pathfinder No. 103: The Hellfire Compact"
 Monster_CR: 2
 name: Chelish Hell-Bred Dog
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +5, Will +1
 speed: 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hot Climate Adaptation (Ex)

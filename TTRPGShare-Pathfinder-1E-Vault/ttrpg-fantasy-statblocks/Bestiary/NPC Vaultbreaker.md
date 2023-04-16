@@ -5,7 +5,7 @@ name: NPC Vaultbreaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Vaultbreaker
 Monster_XP: 76800
@@ -19,7 +19,6 @@ INI: +5
 perception: +21
 AC: 24, touch 18, flat-footed 18 (armor +4, deflection +2, dex +5, dodge +1, natural +2)
 HP: 109
-HP_extra: 
 HD: 6d8+4d6+7d6+40
 saves: Fort +9, Ref +19, Will +13
 defensive_abilities: evasion, trap sense +2, uncanny dodge

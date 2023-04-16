@@ -5,7 +5,7 @@ name: Pech
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Pech
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 16, touch 12, flat-footed 15 (dex +1, natural +4, size +1)
 HP: 27
-HP_extra: 
 HD: 6d6+6
 saves: Fort +5, Ref +6, Will +6
 immune: petrification

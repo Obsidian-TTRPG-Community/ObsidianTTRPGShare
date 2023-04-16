@@ -5,7 +5,7 @@ name: Psychic Vampire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 8
 name: Psychic Vampire
 Monster_XP: 4800

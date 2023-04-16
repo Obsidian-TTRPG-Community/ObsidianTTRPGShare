@@ -5,7 +5,7 @@ name: Butterfly/Moth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: None
 name: Butterfly/Moth
 Monster_XP: None
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, scent
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 1
-HP_extra: 
 HD: 1d8-3
 saves: Fort -1, Ref +1, Will +1
 immune: mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: any temperate or warm
   - name: Organisation
     desc: solitary, pair, or kaleidoscope (3-100)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

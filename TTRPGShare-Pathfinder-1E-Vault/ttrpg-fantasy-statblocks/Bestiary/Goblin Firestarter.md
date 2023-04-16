@@ -5,7 +5,7 @@ name: Goblin Firestarter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Goblin Firestarter
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision
 AC: 20, touch 17, flat-footed 14 (armor +3, dex +5, dodge +1, size +1)
 HP: 36
-HP_extra: 
 HD: 5d8+10
 saves: Fort +3, Ref +9, Will +2
 defensive_abilities: evasion, trap sense +1, uncanny dodge

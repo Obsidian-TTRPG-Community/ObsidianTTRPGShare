@@ -5,7 +5,7 @@ name: NPC Averaka Giant Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Averaka Giant Slayer
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +12
 senses: darkvision
 AC: 20, touch 13, flat-footed 18 (armor +7, deflection +1, dex +2)
 HP: 80
-HP_extra: 
 HD: 8d10+32
 saves: Fort +9, Ref +9, Will +4
 defensive_abilities: orc ferocity

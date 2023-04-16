@@ -5,7 +5,7 @@ name: Mite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/4
 name: Mite
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision, scent
 AC: 12, touch 12, flat-footed 11 (dex +1, size +1)
 HP: 3
-HP_extra: 
 HD: 1d6
 saves: Fort +0, Ref +3, Will +3
 DR: 2/cold iron

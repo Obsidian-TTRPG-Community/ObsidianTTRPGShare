@@ -5,7 +5,7 @@ name: Rabbit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Rabbit
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +5, Will +1
 speed: 50 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, or down (3-16)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

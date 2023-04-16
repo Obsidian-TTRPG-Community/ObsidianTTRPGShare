@@ -5,7 +5,7 @@ name: Hive Mind Beetle Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 13
 name: Hive Mind Beetle Swarm
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, low-light vision
 AC: 25, touch 25, flat-footed 14 (dex +3, dodge +8, size +4)
 HP: 170
-HP_extra: 
 HD: 20d10+60
 saves: Fort +16, Ref +15, Will +9
 immune: electricity, weapon damage
@@ -44,6 +43,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or colony (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Exposed Nerves (Ex)

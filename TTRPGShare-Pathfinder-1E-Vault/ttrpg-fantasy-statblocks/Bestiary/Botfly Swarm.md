@@ -5,7 +5,7 @@ name: Botfly Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Heart of the Jungle"
+source: "Heart of the Jungle"
 Monster_CR: 4
 name: Botfly Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 18, touch 18, flat-footed 18 (size +8)
 HP: 40
-HP_extra: 
 HD: 9d8
 saves: Fort +6, Ref +3, Will +3
 immune: mind-affecting effects, weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: warm jungles and swamps
   - name: Organisation
     desc: solitary or colony (2-20 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Infestation (Ex)

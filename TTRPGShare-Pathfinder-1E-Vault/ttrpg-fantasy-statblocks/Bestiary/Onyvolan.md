@@ -5,7 +5,7 @@ name: Onyvolan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 127: Crownfall"
+source: "Pathfinder No. 127: Crownfall"
 Monster_CR: 3
 name: Onyvolan
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision
 AC: 14, touch 14, flat-footed 10 (dex +3, dodge +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +7, Will +5
 weak: cowardly, easily hampered
@@ -36,6 +35,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, clique (3-5), or gang (6-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cowardly (Ex)

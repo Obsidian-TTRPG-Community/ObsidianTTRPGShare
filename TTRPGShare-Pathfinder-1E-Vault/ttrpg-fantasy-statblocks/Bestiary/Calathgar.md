@@ -5,7 +5,7 @@ name: Calathgar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 34: Blood for Blood"
+source: "Pathfinder No. 34: Blood for Blood"
 Monster_CR: 4
 name: Calathgar
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision, low-light vision, scent
 AC: 16, touch 15, flat-footed 12 (dex +4, natural +1, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +6, Ref +6, Will +4
 immune: cold, plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary, growth (2-8), garden (9-25)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cold Healing (Ex)

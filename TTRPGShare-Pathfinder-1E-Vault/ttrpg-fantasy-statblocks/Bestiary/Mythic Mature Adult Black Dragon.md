@@ -5,7 +5,7 @@ name: Mythic Mature Adult Black Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 15
 name: Mythic Mature Adult Black Dragon
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, low-light vision, mistsight
 aura: frightful presence, stench
 AC: 37, touch 10, flat-footed 36 (dex +1, natural +27, size -1)
 HP: 260
-HP_extra: 
 HD: 16d12+156
 saves: Fort +16, Ref +11, Will +13
 immune: acid, dragon traits, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: warm marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Corrupt Water (Sp)

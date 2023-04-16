@@ -5,7 +5,7 @@ name: Mythic Flesh Colossus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 16
 name: Mythic Flesh Colossus
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: all-around vision, darkvision, low-light vision
 aura: selective antimagic, unnatural
 AC: 30, touch 6, flat-footed 30 (natural +24, size -4)
 HP: 224
-HP_extra: 
 HD: 16d10+136
 saves: Fort +5, Ref +5, Will +5
 immune: electricity, construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alternate Form (Ex)

@@ -5,7 +5,7 @@ name: Seugathi Savant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 10
 name: Seugathi Savant
 Monster_XP: 9600

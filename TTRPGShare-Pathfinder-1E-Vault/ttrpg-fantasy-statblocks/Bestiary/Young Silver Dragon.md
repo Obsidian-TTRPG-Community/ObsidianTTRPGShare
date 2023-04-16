@@ -5,7 +5,7 @@ name: Young Silver Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Young Silver Dragon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 senses: dragon senses
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 104
-HP_extra: 
 HD: 11d12+33
 saves: Fort +10, Ref +8, Will +12
 immune: acid, cold, paralysis, sleep

@@ -5,7 +5,7 @@ name: Dapsara
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Dapsara
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 16, touch 12, flat-footed 14 (dex +2, natural +4)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +2, Ref +6, Will +8
 saves_other: +4 vs. poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Nirvana)
   - name: Organisation
     desc: solitary, pair, or band (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bardic Performance (Su)

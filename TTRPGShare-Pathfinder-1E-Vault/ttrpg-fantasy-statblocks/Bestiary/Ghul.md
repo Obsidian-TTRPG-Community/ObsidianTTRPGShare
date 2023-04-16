@@ -5,7 +5,7 @@ name: Ghul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Ghul
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 51
-HP_extra: 
 HD: 6d8+24
 saves: Fort +8, Ref +4, Will +7
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary or pack (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cursed Claws (Ex)

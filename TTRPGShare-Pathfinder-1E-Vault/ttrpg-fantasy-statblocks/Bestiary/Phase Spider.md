@@ -5,7 +5,7 @@ name: Phase Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Phase Spider
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 17, touch 12, flat-footed 14 (dex +3, natural +5, size -1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +8, Will +3
 defensive_abilities: ethereal jaunt
@@ -38,6 +37,7 @@ ecology:
     desc: warm hills
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ethereal Ambush (Ex)

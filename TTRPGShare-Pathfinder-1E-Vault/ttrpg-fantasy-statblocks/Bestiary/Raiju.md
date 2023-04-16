@@ -5,7 +5,7 @@ name: Raiju
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 53: Tide of Honor"
+source: "Pathfinder No. 53: Tide of Honor"
 Monster_CR: 5
 name: Raiju
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 19, touch 15, flat-footed 15 (dex +4, natural +4, size +1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +11, Will +2
 immune: electricity
@@ -38,6 +37,7 @@ ecology:
     desc: any land or sky (lightning storms)
   - name: Organisation
     desc: solitary, pair, or group (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Change Shape (Su)

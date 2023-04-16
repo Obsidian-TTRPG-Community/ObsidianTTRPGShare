@@ -5,7 +5,7 @@ name: Sishkanset
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 129: The Twilight Child"
+source: "Pathfinder No. 129: The Twilight Child"
 Monster_CR: 8
 name: Sishkanset
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision
 AC: 19, touch 19, flat-footed 14 (deflection +4, dex +4, dodge +1)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +7, Ref +11, Will +11
 defensive_abilities: incorporeal
@@ -39,6 +38,7 @@ ecology:
     desc: any land (Ethereal Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Chilling Touch (Su)

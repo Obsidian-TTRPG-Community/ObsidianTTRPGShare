@@ -5,7 +5,7 @@ name: Obcisidaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 19
 name: Obcisidaemon
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: darkvision, deathwatch, true seeing
 aura: scorched earth, unholy aura
 AC: 34, touch 14, flat-footed 30 (deflection +4, dex +4, natural +20, size -4)
 HP: 319
-HP_extra: 
 HD: 22d10+198
 saves: Fort +26, Ref +15, Will +22
 immune: acid, death effects, disease, poison

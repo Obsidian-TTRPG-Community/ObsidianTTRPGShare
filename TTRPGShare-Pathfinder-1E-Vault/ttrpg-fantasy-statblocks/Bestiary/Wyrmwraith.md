@@ -5,7 +5,7 @@ name: Wyrmwraith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Wyrmwraith
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision, lifesense
 aura: unnatural aura
 AC: 31, touch 31, flat-footed 18 (deflection +6, dex +12, dodge +1, profane +6, size -4)
 HP: 252
-HP_extra: 
 HD: 24d8+144
 saves: Fort +14, Ref +20, Will +19
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or cadre (1 plus 2-4 dread wraiths)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Create Spawn (Su)

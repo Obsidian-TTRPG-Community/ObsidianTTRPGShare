@@ -5,7 +5,7 @@ name: Panda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Animal Archive"
+source: "Animal Archive"
 Monster_CR: 2
 name: Panda
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 13, touch 10, flat-footed 13 (natural +3)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +3, Will +1
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm jungles
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Powerful Bite (Ex)

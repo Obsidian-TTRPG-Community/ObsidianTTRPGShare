@@ -5,7 +5,7 @@ name: Grippli
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Grippli
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 16, touch 14, flat-footed 13 (armor +2, dex +3, size +1)
 HP: 12
-HP_extra: 
 HD: 1d10+2
 saves: Fort +3, Ref +5, Will +1
 speed: 30 ft., climb 20 ft.

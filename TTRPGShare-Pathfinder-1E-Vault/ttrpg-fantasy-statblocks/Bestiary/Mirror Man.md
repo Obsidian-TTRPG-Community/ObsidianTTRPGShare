@@ -5,7 +5,7 @@ name: Mirror Man
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 68: The Shackled Hut"
+source: "Pathfinder No. 68: The Shackled Hut"
 Monster_CR: 5
 name: Mirror Man
 Monster_XP: 1600

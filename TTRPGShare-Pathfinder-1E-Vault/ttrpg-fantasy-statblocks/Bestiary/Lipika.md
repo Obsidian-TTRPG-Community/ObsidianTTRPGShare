@@ -5,7 +5,7 @@ name: Lipika
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Lipika
 Monster_XP: 153600
@@ -18,7 +18,6 @@ perception: +34
 senses: darkvision
 AC: 30, touch 23, flat-footed 24 (deflection +6, dex +6, dodge +1, natural +8, size -1)
 HP: 300
-HP_extra: 
 HD: 24d10+168
 saves: Fort +23, Ref +16, Will +23
 immune: cold, critical hits, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Force Blast (Su)

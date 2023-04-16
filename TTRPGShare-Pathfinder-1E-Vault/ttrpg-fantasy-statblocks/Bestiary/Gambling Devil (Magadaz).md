@@ -5,7 +5,7 @@ name: Gambling Devil (Magadaz)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 97: In Hell's Bright Shadow"
+source: "Pathfinder No. 97: In Hell's Bright Shadow"
 Monster_CR: 4
 name: Gambling Devil (Magadaz)
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness
 aura: risk
 AC: 17, touch 12, flat-footed 16 (dex +1, luck +1, natural +5)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +4, Ref +5, Will +6
 immune: fire, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or table (3-9)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Double Down (Su)

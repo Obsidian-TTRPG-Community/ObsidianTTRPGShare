@@ -5,7 +5,7 @@ name: Mythic Vampire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 10
 name: Mythic Vampire
 Monster_XP: 9600

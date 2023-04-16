@@ -5,7 +5,7 @@ name: Army Ant Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Army Ant Swarm
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, scent
 AC: 20, touch 20, flat-footed 18 (size +8, dex +2)
 HP: 49
-HP_extra: 
 HD: 11d8
 saves: Fort +7, Ref +5, Will +3
 immune: weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: any tropical
   - name: Organisation
     desc: solitary, pair, patrol (3-6 swarms), or legion (7-16 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cling (Ex)

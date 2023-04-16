@@ -5,7 +5,7 @@ name: Cauldron Bloom
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 142: Gardens of Gallowspire"
+source: "Pathfinder No. 142: Gardens of Gallowspire"
 Monster_CR: 15
 name: Cauldron Bloom
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +33
 senses: blindsight, low-light vision, tremorsense 1 mi., true seeing
 AC: 28, touch 4, flat-footed 26 (dex +2, natural +24, size -8)
 HP: 231
-HP_extra: 
 HD: 22d8+132
 saves: Fort +21, Ref +11, Will +11
 immune: plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: any cold land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Sanguine Centrifuge (Su)

@@ -5,7 +5,7 @@ name: Host Devil, Lesser (Gaav)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned - Volume 1: Princes of Darkness"
+source: "Book of the Damned - Volume 1: Princes of Darkness"
 Monster_CR: 3
 name: Host Devil, Lesser (Gaav)
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, see in darkness
 AC: 17, touch 15, flat-footed 13 (dex +3, dodge +1, natural +2, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +7, Will +0
 immune: fire, poison

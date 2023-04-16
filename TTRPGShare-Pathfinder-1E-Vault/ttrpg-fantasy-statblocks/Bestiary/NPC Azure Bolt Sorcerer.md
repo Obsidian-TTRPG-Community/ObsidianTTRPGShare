@@ -5,7 +5,7 @@ name: NPC Azure Bolt Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Azure Bolt Sorcerer
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +11
 senses: see invisibility
 AC: 22, touch 15, flat-footed 19 (armor +4, deflection +2, dex +2, dodge +1, natural +3)
 HP: 141
-HP_extra: 
 HD: 13d6+93
 saves: Fort +10, Ref +10, Will +9
 resist: electricity 10

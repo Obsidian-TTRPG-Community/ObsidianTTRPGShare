@@ -5,7 +5,7 @@ name: Golden Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "City of Golden Death"
+source: "City of Golden Death"
 Monster_CR: 6
 name: Golden Guardian
 Monster_XP: 2400
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 19, touch 9, flat-footed 19 (dex -1, natural +10)
 HP: 64
-HP_extra: 
 HD: 8d10+20
 saves: Fort +2, Ref +1, Will +2
 immune: construct traits, electricity, fire
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Conductivity (Ex)

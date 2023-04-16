@@ -5,7 +5,7 @@ name: Tatzlwyrm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Tatzlwyrm
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 22
-HP_extra: 
 HD: 3d12+3
 saves: Fort +4, Ref +5, Will +5
 immune: paralysis, sleep
@@ -38,6 +37,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary or nest (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison Gasp (Ex)

@@ -5,7 +5,7 @@ name: Patchwork Insect Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 109: In Search of Sanity"
+source: "Pathfinder No. 109: In Search of Sanity"
 Monster_CR: 1/2
 name: Patchwork Insect Swarm
 Monster_XP: 200
@@ -17,7 +17,6 @@ INI: -1
 senses: darkvision
 AC: 13, touch 13, flat-footed 13 (dex -1, size +4)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref -1, Will +1
 immune: mind-affecting effects, weapon damage
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, cluster (2-8), or epidemic (9-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Indescribable Swarm (Ex)

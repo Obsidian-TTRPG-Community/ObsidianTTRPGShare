@@ -5,7 +5,7 @@ name: NPC Sailor (Shipmate)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/2
 name: NPC Sailor (Shipmate)
 Monster_XP: 200

@@ -5,7 +5,7 @@ name: Erlking
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 18
 name: Erlking
 Monster_XP: 153600

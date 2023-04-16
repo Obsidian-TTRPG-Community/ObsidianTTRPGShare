@@ -5,7 +5,7 @@ name: Great White Shark
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Great White Shark
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: blindsense, keen scent, low-light vision
 AC: 19, touch 10, flat-footed 17 (dex +2, natural +9, size -2)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +10, Ref +6, Will +4
 speed: swim 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, school (3-6), or pack (7-13)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

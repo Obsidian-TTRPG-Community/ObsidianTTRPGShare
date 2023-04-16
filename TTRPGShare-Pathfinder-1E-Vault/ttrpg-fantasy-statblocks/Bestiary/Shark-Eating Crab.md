@@ -5,7 +5,7 @@ name: Shark-Eating Crab
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Shark-Eating Crab
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 20, touch 10, flat-footed 18 (dex +2, natural +10, size -2)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +12, Ref +4, Will +3
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or cast (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Darting Claw (Ex)

@@ -5,7 +5,7 @@ name: Aoandon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 12
 name: Aoandon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, true seeing
 AC: 24, touch 24, flat-footed 16 (deflection +6, dex +7, dodge +1)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +12, Will +12
 defensive_abilities: incorporeal
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Touch of Madness (Su)

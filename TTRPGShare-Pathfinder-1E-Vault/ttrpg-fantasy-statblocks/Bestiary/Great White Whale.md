@@ -5,7 +5,7 @@ name: Great White Whale
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Great White Whale
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +13
 senses: blindsight, low-light vision
 AC: 28, touch 0, flat-footed 28 (dex -2, natural +28, size -8)
 HP: 225
-HP_extra: 
 HD: 18d8+144
 saves: Fort +21, Ref +9, Will +8
 speed: swim 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Smashing Breach (Ex)

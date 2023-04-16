@@ -5,7 +5,7 @@ name: Ghatanothoa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 114: Black Stars Beckon"
+source: "Pathfinder No. 114: Black Stars Beckon"
 Monster_CR: 29
 name: Ghatanothoa
 Monster_XP: 6553600
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Apocalyptic Dreams (Su)

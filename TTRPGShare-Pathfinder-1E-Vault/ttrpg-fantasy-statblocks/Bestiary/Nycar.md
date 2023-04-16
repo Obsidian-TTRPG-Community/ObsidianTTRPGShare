@@ -5,7 +5,7 @@ name: Nycar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Nycar
 Monster_XP: 600
@@ -45,6 +45,7 @@ ecology:
     desc: cold marshes
   - name: Organisation
     desc: solitary, pair, or clutch (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Elusive (Ex)

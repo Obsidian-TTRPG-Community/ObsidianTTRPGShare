@@ -5,7 +5,7 @@ name: Reptoid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Reptoid
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +5
 senses: low-light vision
 AC: 11, touch 10, flat-footed 11 (natural +1)
 HP: 7
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +2, Will +3
 saves_other: +2 vs. mind-affecting effects and poison
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or cabal (3-8)
+  - name: Treasure
     desc: NPC Gear
 special_abilities:
   - name: Change Shape (Su)

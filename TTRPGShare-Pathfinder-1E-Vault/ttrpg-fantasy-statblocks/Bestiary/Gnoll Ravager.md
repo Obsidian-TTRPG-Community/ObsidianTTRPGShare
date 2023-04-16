@@ -5,7 +5,7 @@ name: Gnoll Ravager
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 11
 name: Gnoll Ravager
 Monster_XP: 12800

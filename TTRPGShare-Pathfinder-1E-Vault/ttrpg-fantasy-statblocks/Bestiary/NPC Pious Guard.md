@@ -5,7 +5,7 @@ name: NPC Pious Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Pious Guard
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +10
 aura: courage, resolve
 AC: 22, touch 10, flat-footed 22 (armor +11, deflection +1, dex -1, natural +1)
 HP: 84
-HP_extra: 
 HD: 10d10+25
 saves: Fort +11, Ref +4, Will +9
 immune: charm, disease, fear, poison

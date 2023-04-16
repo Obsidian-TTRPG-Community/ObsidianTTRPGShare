@@ -5,7 +5,7 @@ name: Clockwork Familiar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Clockwork Familiar
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 14 (dex +2, dodge +2, natural +2, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +1, Ref +5, Will +2
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Advice (Ex)

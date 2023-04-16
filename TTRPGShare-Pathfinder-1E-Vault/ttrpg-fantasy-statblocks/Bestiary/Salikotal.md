@@ -5,7 +5,7 @@ name: Salikotal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 26: The Sixfold Trial"
+source: "Pathfinder No. 26: The Sixfold Trial"
 Monster_CR: 7
 name: Salikotal
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +9, Ref +12, Will +7
 immune: fire, poison

@@ -5,7 +5,7 @@ name: Capramace
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Capramace
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +9, Ref +6, Will +8
 speed: 50 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pack (2-11), or herd (12-25)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Su)

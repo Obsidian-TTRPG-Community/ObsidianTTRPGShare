@@ -5,7 +5,7 @@ name: NPC Dog Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Dog Rider
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +3
 perception: +10
 AC: 18, touch 12, flat-footed 15 (armor +5, dex +3, rage -2, shield +1, size +1)
 HP: 43
-HP_extra: 
 HD: 4d12+12
 saves: Fort +8, Ref +5, Will +5
 saves_other: +3 vs. spells and spell-like or supernatural abilities, +2 vs. fear

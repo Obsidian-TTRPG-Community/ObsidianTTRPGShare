@@ -5,7 +5,7 @@ name: Bibliodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Druma, Profit and Prophecy"
+source: "Druma, Profit and Prophecy"
 Monster_CR: 8
 name: Bibliodaemon
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, detect thoughts
 AC: 22, touch 14, flat-footed 18 (dex +3, dodge +1, natural +8)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +6, Ref +10, Will +9
 immune: acid, death effects, disease, poison

@@ -5,7 +5,7 @@ name: Gravebound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Gravebound
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +4, Ref +2, Will +5
 immune: undead traits

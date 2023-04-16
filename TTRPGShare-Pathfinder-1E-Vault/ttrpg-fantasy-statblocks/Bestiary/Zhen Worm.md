@@ -5,7 +5,7 @@ name: Zhen Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 1/2
 name: Zhen Worm
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +0
 senses: tremorsense
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref -1, Will +0
 immune: gaze attacks, mind-affecting effects, sight-based attacks, visual effects
@@ -39,6 +38,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary, pair, or colony (3-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blindness (Ex)

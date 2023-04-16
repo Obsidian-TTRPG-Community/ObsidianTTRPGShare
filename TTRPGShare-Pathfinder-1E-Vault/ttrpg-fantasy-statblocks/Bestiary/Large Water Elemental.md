@@ -5,7 +5,7 @@ name: Large Water Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Large Water Elemental
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 18, touch 12, flat-footed 15 (dex +2, dodge +1, natural +6, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +8, Will +2
 immune: elemental traits

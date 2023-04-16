@@ -5,7 +5,7 @@ name: Canopy Creeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 8
 name: Canopy Creeper
 Monster_XP: 4800
@@ -44,6 +44,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aerial Attack (Ex)

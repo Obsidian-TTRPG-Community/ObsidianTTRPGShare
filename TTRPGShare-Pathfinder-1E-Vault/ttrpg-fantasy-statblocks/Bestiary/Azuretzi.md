@@ -5,7 +5,7 @@ name: Azuretzi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Azuretzi
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: blindsense, darkvision, detect law
 AC: 18, touch 16, flat-footed 13 (dex +5, natural +2, size +1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +6, Ref +10, Will +7
 immune: acid, polymorph
@@ -44,6 +43,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary, pair, or cackle (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Mimic Form (Su)

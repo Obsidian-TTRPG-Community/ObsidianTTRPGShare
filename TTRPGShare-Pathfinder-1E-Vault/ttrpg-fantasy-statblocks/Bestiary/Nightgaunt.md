@@ -5,7 +5,7 @@ name: Nightgaunt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Nightgaunt
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +6
 senses: all-around vision, blindsight, darkvision
 AC: 18, touch 13, flat-footed 15 (dex +2, dodge +1, natural +5)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +3, Ref +8, Will +6
 immune: cold, gaze attacks, inhaled poison, scent-based attacks
@@ -41,6 +40,7 @@ ecology:
     desc: any mountains (Dimension of Dreams)
   - name: Organisation
     desc: single, pair, flight (3-12), or colony
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Clutches (Ex)

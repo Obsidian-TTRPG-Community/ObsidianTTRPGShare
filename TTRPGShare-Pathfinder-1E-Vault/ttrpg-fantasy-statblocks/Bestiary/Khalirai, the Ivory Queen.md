@@ -5,7 +5,7 @@ name: Khalirai, the Ivory Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 15
 name: Khalirai, the Ivory Queen
 Monster_XP: 51200

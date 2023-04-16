@@ -5,7 +5,7 @@ name: Spellscar Fext
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 7
 name: Spellscar Fext
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +6, Will +8
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any (Spellscar Desert)
   - name: Organisation
     desc: solitary, pair, or hunt (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Deadly Slam (Ex)

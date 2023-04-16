@@ -5,7 +5,7 @@ name: Petrified Maiden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 6
 name: Petrified Maiden
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision
 AC: 21, touch 11, flat-footed 20 (dex +1, natural +10)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +6, Ref +4, Will +6
 defensive_abilities: channel resistance +2, petrified body,

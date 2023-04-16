@@ -5,7 +5,7 @@ name: Quetzutrhul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 11
 name: Quetzutrhul
 Monster_XP: 12800

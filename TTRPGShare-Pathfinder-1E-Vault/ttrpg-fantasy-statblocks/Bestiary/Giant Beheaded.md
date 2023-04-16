@@ -5,7 +5,7 @@ name: Giant Beheaded
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 2
 name: Giant Beheaded
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: -1
 senses: darkvision
 AC: 13, touch 10, flat-footed 12 (dex +1, natural +3, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +2, Will +2
 immune: undead traits
@@ -35,6 +34,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 43: Haunting of Harrowstone

@@ -5,7 +5,7 @@ name: NPC Steadfast Defender
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Steadfast Defender
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +1
 perception: +16
 AC: 22, touch 18, flat-footed 21 (armor +4, deflection +1, dex +1, monk +2, wis +4)
 HP: 93
-HP_extra: 
 HD: 9d8+49
 saves: Fort +12, Ref +8, Will +11
 saves_other: +2 vs. poison, spells, and spell-like abilities

@@ -5,7 +5,7 @@ name: Vescavor Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Vescavor Swarm
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: gibber
 AC: 19, touch 17, flat-footed 16 (dex +3, natural +2, size +4)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +7, Ref +9, Will +2
 immune: poison, swarm traits, weapon damage
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, plague (3-12), or apocalypse (16-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gibber (Su)

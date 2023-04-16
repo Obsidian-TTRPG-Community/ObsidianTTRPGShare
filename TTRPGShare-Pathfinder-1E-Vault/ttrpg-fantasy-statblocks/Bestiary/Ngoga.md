@@ -5,7 +5,7 @@ name: Ngoga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Kingdoms"
+source: "Lost Kingdoms"
 Monster_CR: 7
 name: Ngoga
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: stench
 AC: 20, touch 14, flat-footed 15 (dex +5, natural +6, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +11, Will +6
 speed: 40 ft., other_semicolon burst of speed ft., climb 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm jungles
   - name: Organisation
     desc: solitary, pair, or band (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Burst of Speed (Ex)

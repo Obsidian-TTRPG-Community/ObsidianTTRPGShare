@@ -5,7 +5,7 @@ name: Vanara
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Vanara
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +7
 senses: low-light vision
 AC: 17, touch 17, flat-footed 13 (dex +3, dodge +1, wis +3)
 HP: 9
-HP_extra: 
 HD: 1d8+1
 saves: Fort +2, Ref +5, Will +5
 speed: 30 ft., climb 20 ft.

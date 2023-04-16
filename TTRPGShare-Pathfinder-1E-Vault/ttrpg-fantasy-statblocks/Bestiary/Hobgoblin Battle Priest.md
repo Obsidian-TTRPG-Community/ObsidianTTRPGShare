@@ -5,7 +5,7 @@ name: Hobgoblin Battle Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Hobgoblin Battle Priest
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 18, touch 10, flat-footed 18 (armor +8)
 HP: 71
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +4, Will +10
 speed: 20 ft.

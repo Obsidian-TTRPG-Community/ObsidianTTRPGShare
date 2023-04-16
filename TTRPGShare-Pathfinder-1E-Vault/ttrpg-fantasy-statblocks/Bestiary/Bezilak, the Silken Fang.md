@@ -5,7 +5,7 @@ name: Bezilak, the Silken Fang
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 17
 name: Bezilak, the Silken Fang
 Monster_XP: 102400

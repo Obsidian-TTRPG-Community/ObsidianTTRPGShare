@@ -5,7 +5,7 @@ name: Gegenees
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Gegenees
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, low-light vision
 AC: 30, touch 10, flat-footed 28 (dex +2, natural +20, size -2)
 HP: 250
-HP_extra: 
 HD: 20d10+140
 saves: Fort +13, Ref +14, Will +13
 speed: 50 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any temperate or warm land
   - name: Organisation
     desc: solitary, hunting party (2-5), or clan (6-25 plus 1 clan headman [barbarian, druid, or ranger of 4th-8th level] and 3 venerable mothers [oracles or witches of 3rd-5th level])
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Clobber (Ex)

@@ -5,7 +5,7 @@ name: Blue-Ringed Octopus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/2
 name: Blue-Ringed Octopus
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision
 AC: 17, touch 17, flat-footed 12 (dex +5, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +7, Will +1
 defensive_abilities: ink cloud
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or cold aquatic
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ink Cloud (Ex)

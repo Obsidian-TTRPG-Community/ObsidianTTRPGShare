@@ -5,7 +5,7 @@ name: Suspiridaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Suspiridaemon
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: thin air
 AC: 20, touch 14, flat-footed 16 (dex +3, dodge +1, natural +6)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +9, Ref +9, Will +8
 immune: acid, death effects, disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, gang (2-4), or mob (5-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Concussive Gasp (Su)

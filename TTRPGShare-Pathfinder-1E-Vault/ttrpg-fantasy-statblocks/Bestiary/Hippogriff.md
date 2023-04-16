@@ -5,7 +5,7 @@ name: Hippogriff
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Hippogriff
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 11 (dex +2, dodge +1, natural +2, size -1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +5, Will +2
 speed: 40 ft., fly 100 ft. (average)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate hills or plains
   - name: Organisation
     desc: solitary, pair, or flight (7-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

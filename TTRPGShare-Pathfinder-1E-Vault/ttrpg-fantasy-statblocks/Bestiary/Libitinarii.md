@@ -5,7 +5,7 @@ name: Libitinarii
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 137: The City Outside of Time"
+source: "Pathfinder No. 137: The City Outside of Time"
 Monster_CR: 13
 name: Libitinarii
 Monster_XP: 25600
@@ -41,6 +41,7 @@ ecology:
     desc: any (Shadow Plane)
   - name: Organisation
     desc: solitary, pair, or shiver (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Icicles (Ex)

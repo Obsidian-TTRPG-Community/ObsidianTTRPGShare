@@ -5,7 +5,7 @@ name: Mythic Wyrm Red Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 25
 name: Mythic Wyrm Red Dragon
 Monster_XP: 1638400
@@ -45,6 +45,7 @@ ecology:
     desc: warm mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Fire Aura (Su)

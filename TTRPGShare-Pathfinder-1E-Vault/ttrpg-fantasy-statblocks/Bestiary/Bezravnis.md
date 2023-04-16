@@ -5,7 +5,7 @@ name: Bezravnis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 26
 name: Bezravnis
 Monster_XP: 2457600
@@ -46,6 +46,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Burrowing Charge (Ex)

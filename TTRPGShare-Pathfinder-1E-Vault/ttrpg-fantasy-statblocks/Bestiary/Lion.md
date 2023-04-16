@@ -5,7 +5,7 @@ name: Lion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Lion
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +7, Will +2
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or pride (3-10)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

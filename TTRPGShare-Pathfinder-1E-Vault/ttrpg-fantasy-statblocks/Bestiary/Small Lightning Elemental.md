@@ -5,7 +5,7 @@ name: Small Lightning Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Small Lightning Elemental
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +5, Will +0
 immune: electricity, elemental traits
@@ -36,6 +35,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

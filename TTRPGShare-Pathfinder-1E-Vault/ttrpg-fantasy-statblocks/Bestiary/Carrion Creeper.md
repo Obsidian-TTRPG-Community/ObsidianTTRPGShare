@@ -5,7 +5,7 @@ name: Carrion Creeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 130: City in the Lion's Eye"
+source: "Pathfinder No. 130: City in the Lion's Eye"
 Monster_CR: 10
 name: Carrion Creeper
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, tremorsense
 AC: 24, touch 16, flat-footed 17 (dex +7, natural +8, size -1)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +13, Ref +11, Will +5
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests or plains
   - name: Organisation
     desc: solitary or tangle (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Brutal Pull (Ex)

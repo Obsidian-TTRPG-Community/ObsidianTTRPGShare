@@ -5,7 +5,7 @@ name: Hooded Harbinger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 112: The Whisper Out of Time"
+source: "Pathfinder No. 112: The Whisper Out of Time"
 Monster_CR: 12
 name: Hooded Harbinger
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: darkvision, see invisibility
 aura: profane reek, unnatural aura
 AC: 27, touch 17, flat-footed 23 (dex +4, natural +10, profane +3)
 HP: 161
-HP_extra: 
 HD: 17d8+85
 saves: Fort +12, Ref +11, Will +13
 immune: death effects, mind-affecting effects, poison
@@ -46,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bloodless Touch (Ex)

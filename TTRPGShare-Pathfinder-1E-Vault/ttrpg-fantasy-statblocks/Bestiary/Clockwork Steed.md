@@ -5,7 +5,7 @@ name: Clockwork Steed
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: Clockwork Steed
 Monster_XP: 2400
@@ -17,7 +17,6 @@ INI: +5
 senses: darkvision, low-light vision
 AC: 20, touch 12, flat-footed 17 (dex +1, dodge +2, natural +8, size -1)
 HP: 74
-HP_extra: 
 HD: 8d10+30
 saves: Fort +2, Ref +5, Will +2
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Powerful Kick (Ex)

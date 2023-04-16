@@ -5,7 +5,7 @@ name: Eagle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Eagle
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +4, Will +2
 speed: 10 ft., fly 80 ft. (average)
@@ -35,6 +34,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

@@ -5,7 +5,7 @@ name: Giant Flytrap
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Giant Flytrap
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, tremorsense
 AC: 22, touch 12, flat-footed 18 (dex +4, natural +10, size -2)
 HP: 149
-HP_extra: 
 HD: 13d8+91
 saves: Fort +17, Ref +8, Will +5
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, pair, or grove (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Engulf (Ex)

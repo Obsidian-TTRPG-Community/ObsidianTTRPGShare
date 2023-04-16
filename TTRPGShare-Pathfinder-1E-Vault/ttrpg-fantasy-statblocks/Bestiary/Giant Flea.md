@@ -5,7 +5,7 @@ name: Giant Flea
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Giant Flea
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +0
 immune: disease, mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary, cluster (2-6), or colony (7-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

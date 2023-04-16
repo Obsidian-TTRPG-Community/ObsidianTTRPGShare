@@ -5,7 +5,7 @@ name: Kirin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Kirin
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, detect evil, low-light vision, scent
 AC: 20, touch 15, flat-footed 14 (dex +6, natural +5, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +12, Will +10
 resist: cold 10, electricity 30, fire 10
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spells

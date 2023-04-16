@@ -5,7 +5,7 @@ name: Chelarac
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 144: Midwives to Death"
+source: "Pathfinder No. 144: Midwives to Death"
 Monster_CR: 8
 name: Chelarac
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +22
 senses: darkvision
 AC: 22, touch 14, flat-footed 17 (dex +4, dodge +1, natural +8, size -1)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +9, Ref +8, Will +11
 speed: 30 ft., climb 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Broodspeak (Su)

@@ -5,7 +5,7 @@ name: Kasa-obake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Kasa-obake
 Monster_XP: 1200
@@ -39,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or group (3-12)
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

@@ -5,7 +5,7 @@ name: Nalfeshnee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 14
 name: Nalfeshnee
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: unholy aura
 AC: 29, touch 13, flat-footed 28 (deflection +4, dex +1, natural +16, size -2)
 HP: 203
-HP_extra: 
 HD: 14d10+126
 saves: Fort +22, Ref +9, Will +21
 immune: electricity, poison
@@ -45,6 +44,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or warband (1 nalfeshnee, 1 hezrou, and 2-5 vrocks)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Unholy Nimbus (Su)

@@ -5,7 +5,7 @@ name: Lotus Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Lotus Leshy
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: tranquility
 AC: 20, touch 18, flat-footed 17 (dex +2, dodge +1, wis +4, natural +2, size +1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +4, Will +6
 immune: electricity, plant traits, sonic
@@ -43,6 +42,7 @@ ecology:
     desc: warm lakes or ponds
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Tranquility (Su)

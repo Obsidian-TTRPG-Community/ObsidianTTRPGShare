@@ -5,7 +5,7 @@ name: NPC Shopkeeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Shopkeeper
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision
 AC: 13, touch 10, flat-footed 13 (armor +3)
 HP: 15
-HP_extra: 
 HD: 6d6-6
 saves: Fort +1, Ref +2, Will +5
 saves_other: +2 vs. enchantments

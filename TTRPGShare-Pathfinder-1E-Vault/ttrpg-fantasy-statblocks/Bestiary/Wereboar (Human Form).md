@@ -5,7 +5,7 @@ name: Wereboar (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Wereboar (Human Form)
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 12, touch 9, flat-footed 11 (armor +3, dex +1, rage -2)
 HP: 31
-HP_extra: 
 HD: 2d12+13
 saves: Fort +7, Ref +1, Will +4
 defensive_abilities: uncanny dodge

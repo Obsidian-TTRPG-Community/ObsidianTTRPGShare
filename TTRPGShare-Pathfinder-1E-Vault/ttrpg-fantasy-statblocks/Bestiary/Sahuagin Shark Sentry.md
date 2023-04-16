@@ -5,7 +5,7 @@ name: Sahuagin Shark Sentry
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Sahuagin Shark Sentry
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +10
 senses: blindsense, darkvision
 AC: 23, touch 12, flat-footed 21 (armor +4, dex +2, natural +7)
 HP: 61
-HP_extra: 
 HD: 6d10+28
 saves: Fort +8, Ref +10, Will +6
 weak: light blindness

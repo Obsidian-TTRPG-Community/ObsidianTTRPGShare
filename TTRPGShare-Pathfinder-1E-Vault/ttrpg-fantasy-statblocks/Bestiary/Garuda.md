@@ -5,7 +5,7 @@ name: Garuda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Garuda
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, low-light vision
 AC: 19, touch 15, flat-footed 14 (dex +5, natural +4)
 HP: 115
-HP_extra: 
 HD: 11d10+55
 saves: Fort +8, Ref +12, Will +9
 DR: 10/evil or magic

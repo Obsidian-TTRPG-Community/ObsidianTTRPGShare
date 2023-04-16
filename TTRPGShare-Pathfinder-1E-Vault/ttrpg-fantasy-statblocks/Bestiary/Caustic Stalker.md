@@ -5,7 +5,7 @@ name: Caustic Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Emerald Spire Superdungeon"
+source: "The Emerald Spire Superdungeon"
 Monster_CR: 7
 name: Caustic Stalker
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 19, touch 19, flat-footed 10 (dex +8, dodge +1)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +10, Ref +13, Will +4
 immune: acid, elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, smog (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Breath Weapon (Su)

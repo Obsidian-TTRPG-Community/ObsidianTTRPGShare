@@ -5,7 +5,7 @@ name: Retriever
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Retriever
 Monster_XP: 12800
@@ -40,6 +40,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Eye Rays (Su)

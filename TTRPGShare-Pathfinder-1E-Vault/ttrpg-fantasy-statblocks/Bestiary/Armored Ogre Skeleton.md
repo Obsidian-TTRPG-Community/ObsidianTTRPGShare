@@ -5,7 +5,7 @@ name: Armored Ogre Skeleton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 2
 name: Armored Ogre Skeleton
 Monster_XP: 600
@@ -16,7 +16,6 @@ INI: +4
 senses: darkvision
 AC: 19, touch 9, flat-footed 19 (armor +8, natural +2, size -1)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +1, Ref +1, Will +4
 immune: cold, undead traits

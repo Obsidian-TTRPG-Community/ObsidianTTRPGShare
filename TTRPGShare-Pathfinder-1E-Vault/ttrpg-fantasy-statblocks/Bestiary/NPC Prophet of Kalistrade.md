@@ -5,7 +5,7 @@ name: NPC Prophet of Kalistrade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 12
 name: NPC Prophet of Kalistrade
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +2
 perception: +0
 AC: 18, touch 17, flat-footed 12 (deflection +1, dex +2, dodge +4, natural +1)
 HP: 76
-HP_extra: 
 HD: 13d8+18
 saves: Fort +10, Ref +11, Will +15
 defensive_abilities: auspicious display +3

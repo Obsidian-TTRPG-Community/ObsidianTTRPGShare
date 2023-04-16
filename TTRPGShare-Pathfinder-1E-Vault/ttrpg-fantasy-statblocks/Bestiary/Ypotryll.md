@@ -5,7 +5,7 @@ name: Ypotryll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 15
 name: Ypotryll
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 253
-HP_extra: 
 HD: 22d10+132
 saves: Fort +21, Ref +12, Will +9
 saves_other: +6 vs. charms and compulsions
@@ -42,6 +41,7 @@ ecology:
     desc: temperate marshes, hills, or coasts
   - name: Organisation
     desc: solitary, pair, herd (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bloody-Minded (Ex)

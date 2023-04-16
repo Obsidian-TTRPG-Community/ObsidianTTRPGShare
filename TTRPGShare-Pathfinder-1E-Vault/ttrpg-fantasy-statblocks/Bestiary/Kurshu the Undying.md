@@ -5,7 +5,7 @@ name: Kurshu the Undying
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 65: Into the Nightmare Rift"
+source: "Pathfinder No. 65: Into the Nightmare Rift"
 Monster_CR: 15
 name: Kurshu the Undying
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any land (extraplanar)
   - name: Organisation
     desc: solitary or cabal (herald and 1d4 charmed outsiders of CR 5 to CR 10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Divine Separation (Su)

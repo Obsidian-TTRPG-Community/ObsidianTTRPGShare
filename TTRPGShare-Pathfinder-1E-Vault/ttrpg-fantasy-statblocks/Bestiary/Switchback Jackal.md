@@ -5,7 +5,7 @@ name: Switchback Jackal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 1/2
 name: Switchback Jackal
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +5, Ref +4, Will +2
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate and warm plains
   - name: Organisation
     desc: solitary, pair, or pack (5-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Problem Solver (Ex)

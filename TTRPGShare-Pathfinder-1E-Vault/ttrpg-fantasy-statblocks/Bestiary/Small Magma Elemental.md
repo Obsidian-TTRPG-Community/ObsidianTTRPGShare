@@ -5,7 +5,7 @@ name: Small Magma Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Small Magma Elemental
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 15, touch 10, flat-footed 15 (dex -1, natural +5, size +1)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +2, Will +0
 immune: fire, elemental traits
@@ -38,6 +37,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

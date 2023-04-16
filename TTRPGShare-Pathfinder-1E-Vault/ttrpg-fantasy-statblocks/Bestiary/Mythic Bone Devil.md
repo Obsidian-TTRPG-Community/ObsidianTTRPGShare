@@ -5,7 +5,7 @@ name: Mythic Bone Devil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 11
 name: Mythic Bone Devil
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness
 aura: fear
 AC: 29, touch 14, flat-footed 24 (dex +5, natural +15, size -1)
 HP: 145
-HP_extra: 
 HD: 10d10+90
 saves: Fort +12, Ref +12, Will +7
 immune: fire, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or inquisition (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bone Eruption (Su)

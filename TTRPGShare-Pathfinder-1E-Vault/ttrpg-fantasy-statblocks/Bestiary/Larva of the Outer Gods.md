@@ -5,7 +5,7 @@ name: Larva of the Outer Gods
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 114: Black Stars Beckon"
+source: "Pathfinder No. 114: Black Stars Beckon"
 Monster_CR: 15
 name: Larva of the Outer Gods
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or choir (4-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Liberated Flesh (Su)

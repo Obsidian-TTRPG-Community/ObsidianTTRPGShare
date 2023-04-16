@@ -5,7 +5,7 @@ name: NPC Murderous Scythe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Murderous Scythe
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +24
 senses: low-light vision
 AC: 26, touch 12, flat-footed 26 (armor +12, deflection +2, natural +2)
 HP: 144
-HP_extra: 
 HD: 4d8+6d10+7d8+57
 saves: Fort +15, Ref +8, Will +11
 saves_other: +2 vs. enchantments, +2 vs. fear, +3 vs. poison, +4 vs. fey and plant-targeted effects

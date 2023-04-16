@@ -5,7 +5,7 @@ name: Gold Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Gold Golem
 Monster_XP: 51200
@@ -16,7 +16,6 @@ INI: +4
 senses: darkvision, low-light vision
 AC: 30, touch 13, flat-footed 26 (dex +4, natural +17, size -1)
 HP: 156
-HP_extra: 
 HD: 23d10+30
 saves: Fort +7, Ref +11, Will +7
 immune: construct traits, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or procession (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Throes (Ex)

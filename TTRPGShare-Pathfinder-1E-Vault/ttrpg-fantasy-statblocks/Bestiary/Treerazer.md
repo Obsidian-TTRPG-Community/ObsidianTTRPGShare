@@ -5,7 +5,7 @@ name: Treerazer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 25
 name: Treerazer
 Monster_XP: 1638400

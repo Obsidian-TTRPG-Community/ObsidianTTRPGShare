@@ -5,7 +5,7 @@ name: Fear Eater
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 5
 name: Fear Eater
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 12 (dex +6, natural +2)
 HP: 52
-HP_extra: 
 HD: 8d6+24
 saves: Fort +5, Ref +12, Will +7
 immune: disease, fear
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or band (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Anxiety Spores (Ex)

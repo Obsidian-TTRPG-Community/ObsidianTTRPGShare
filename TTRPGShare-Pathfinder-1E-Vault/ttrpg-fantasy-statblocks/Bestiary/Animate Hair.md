@@ -5,7 +5,7 @@ name: Animate Hair
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Animate Hair
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: blindsight
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +1, Ref +1, Will +1
 DR: 5/slashing
@@ -43,6 +42,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or clog (2-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Empathy (Su)

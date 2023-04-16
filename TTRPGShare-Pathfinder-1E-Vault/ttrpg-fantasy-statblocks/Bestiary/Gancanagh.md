@@ -5,7 +5,7 @@ name: Gancanagh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Gancanagh
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 17, touch 15, flat-footed 12 (dex +5, natural +2)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +4, Ref +9, Will +5
 immune: electricity, petrification

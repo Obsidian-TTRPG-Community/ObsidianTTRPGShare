@@ -5,7 +5,7 @@ name: Sootwing Bat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1/2
 name: Sootwing Bat
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: blindsense
 AC: 14, touch 13, flat-footed 13 (dex +1, natural +1, size +2)
 HP: 7
-HP_extra: 
 HD: 2d8-2
 saves: Fort -1, Ref +1, Will +4
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or colony (4-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Su)

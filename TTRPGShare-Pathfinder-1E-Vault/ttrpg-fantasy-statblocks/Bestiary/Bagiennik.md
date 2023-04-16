@@ -5,7 +5,7 @@ name: Bagiennik
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Bagiennik
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +19
 senses: disease scent
 AC: 17, touch 13, flat-footed 15 (dex +2, natural +4, size +1)
 HP: 66
-HP_extra: 
 HD: 12d6+24
 saves: Fort +5, Ref +10, Will +8
 resist: acid 5, fire 5
@@ -39,6 +38,7 @@ ecology:
     desc: cold rivers
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease Scent (Ex)

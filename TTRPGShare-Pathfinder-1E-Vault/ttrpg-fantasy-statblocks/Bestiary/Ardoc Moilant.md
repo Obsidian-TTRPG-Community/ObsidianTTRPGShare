@@ -5,7 +5,7 @@ name: Ardoc Moilant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 135: Runeplague"
+source: "Pathfinder No. 135: Runeplague"
 Monster_CR: 10
 name: Ardoc Moilant
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +17
 senses: darkvision, low-light vision
 AC: 24, touch 8, flat-footed 24 (natural +16, size -2)
 HP: 124
-HP_extra: 
 HD: 13d10+53
 saves: Fort +6, Ref +4, Will +10
 immune: construct traits
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or fleet (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Throes (Ex)

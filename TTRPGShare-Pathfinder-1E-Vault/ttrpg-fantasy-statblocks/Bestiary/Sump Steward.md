@@ -5,7 +5,7 @@ name: Sump Steward
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 9
 name: Sump Steward
 Monster_XP: 6400

@@ -5,7 +5,7 @@ name: Taxidermic Grizzly Bear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Taxidermic Grizzly Bear
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 12, touch 9, flat-footed 12 (natural +3, size -1)
 HP: 63
-HP_extra: 
 HD: 6d10+30
 saves: Fort +2, Ref +2, Will +2
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: any
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

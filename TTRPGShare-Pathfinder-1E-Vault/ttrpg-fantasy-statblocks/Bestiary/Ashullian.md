@@ -5,7 +5,7 @@ name: Ashullian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 135: Runeplague"
+source: "Pathfinder No. 135: Runeplague"
 Monster_CR: 11
 name: Ashullian
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +16
 senses: blindsight, scent
 AC: 26, touch 16, flat-footed 19 (dex +7, natural +10, size -1)
 HP: 137
-HP_extra: 
 HD: 11d10+77
 saves: Fort +9, Ref +14, Will +11
 resist: cold 30
@@ -42,6 +41,7 @@ ecology:
     desc: any water (Kaer Maga)
   - name: Organisation
     desc: solitary or collective (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bower (Su)

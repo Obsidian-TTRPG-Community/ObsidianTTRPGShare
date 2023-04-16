@@ -5,7 +5,7 @@ name: Termite Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Termite Swarm
 Monster_XP: 2400
@@ -17,7 +17,6 @@ INI: +2
 senses: darkvision, scent, tremorsense
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +10, Ref +5, Will +4
 immune: disease, mind-affecting effects, visual effects, weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: warm forests, plains, or underground
   - name: Organisation
     desc: solitary, pair, nest (3-6), or colony (7-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gnaw (Ex)

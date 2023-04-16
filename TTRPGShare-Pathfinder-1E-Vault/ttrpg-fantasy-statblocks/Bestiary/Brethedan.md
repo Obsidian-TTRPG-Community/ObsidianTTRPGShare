@@ -5,7 +5,7 @@ name: Brethedan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Brethedan
 Monster_XP: 1600
@@ -39,6 +39,7 @@ ecology:
     desc: any sky
   - name: Organisation
     desc: solitary, pair, or flotilla (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptation (Ex)

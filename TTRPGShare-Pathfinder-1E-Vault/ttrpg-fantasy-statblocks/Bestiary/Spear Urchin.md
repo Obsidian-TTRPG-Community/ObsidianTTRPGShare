@@ -5,7 +5,7 @@ name: Spear Urchin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 4
 name: Spear Urchin
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +4
 senses: all-around vision, low-light vision, scent, tremorsense
 AC: 17, touch 5, flat-footed 17 (dex -4, natural +12, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +8, Ref -3, Will +1
 immune: mind-affecting effects
@@ -42,6 +41,7 @@ ecology:
     desc: temperate or warm ocean or coastline
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: All-Around Vision (Ex)

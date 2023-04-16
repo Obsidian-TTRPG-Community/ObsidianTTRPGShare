@@ -5,7 +5,7 @@ name: Leucrotta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Leucrotta
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision, low-light vision, scent
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +6, Will +4
 immune: disease, poison
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or tropical forests or hills
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lure (Su)

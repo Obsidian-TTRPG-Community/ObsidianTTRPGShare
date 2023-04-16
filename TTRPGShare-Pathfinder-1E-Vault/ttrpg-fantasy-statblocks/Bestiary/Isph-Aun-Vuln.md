@@ -5,7 +5,7 @@ name: Isph-Aun-Vuln
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 25
 name: Isph-Aun-Vuln
 Monster_XP: 1638400
@@ -42,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Destruction (Su)

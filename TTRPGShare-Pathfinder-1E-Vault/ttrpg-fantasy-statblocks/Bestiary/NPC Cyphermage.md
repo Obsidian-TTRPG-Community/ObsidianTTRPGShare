@@ -5,7 +5,7 @@ name: NPC Cyphermage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 8
 name: NPC Cyphermage
 Monster_XP: 4800

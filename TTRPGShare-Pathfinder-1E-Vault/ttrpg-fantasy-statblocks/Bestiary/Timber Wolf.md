@@ -5,7 +5,7 @@ name: Timber Wolf
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 67: The Snows of Summer"
+source: "Pathfinder No. 67: The Snows of Summer"
 Monster_CR: 2
 name: Timber Wolf
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 17
-HP_extra: 
 HD: 2d8+8
 saves: Fort +7, Ref +7, Will +3
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: cold forest or mountains
   - name: Organisation
     desc: solitary, pair, or pack (3-20)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 67: The Snows of Summer

@@ -5,7 +5,7 @@ name: Curse Devil (Phiam)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Daughters of Fury"
+source: "Daughters of Fury"
 Monster_CR: 5
 name: Curse Devil (Phiam)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, see in darkness, detect magic, detect thoughts
 AC: 20, touch 16, flat-footed 15 (dex +4, dodge +1, natural +4, size +1)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +5, Ref +9, Will +7
 immune: fire, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Anathematize (Su)

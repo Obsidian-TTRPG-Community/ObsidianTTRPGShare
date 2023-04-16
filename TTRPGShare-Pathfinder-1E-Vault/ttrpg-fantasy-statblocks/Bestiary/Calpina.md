@@ -5,7 +5,7 @@ name: Calpina
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Calpina
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 16, touch 14, flat-footed 13 (dex +3, natural +2, size +1)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +7, Will +5
 DR: 5/cold iron
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests or mountains
   - name: Organisation
     desc: solitary, pair, eclipse (3-6), or colony (7-12 plus 8-24 calpina larvae)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Ego Drain (Su)

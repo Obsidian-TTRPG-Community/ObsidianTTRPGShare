@@ -5,7 +5,7 @@ name: NPC Scholar (Archaeologist)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC Scholar (Archaeologist)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ INI: +3
 perception: +10
 AC: 17, touch 13, flat-footed 14 (armor +3, dex +3, shield +1)
 HP: 38
-HP_extra: 
 HD: 7d8+7
 saves: Fort +3, Ref +8, Will +3
 defensive_abilities: evasion, trap sense +2, uncanny dodge

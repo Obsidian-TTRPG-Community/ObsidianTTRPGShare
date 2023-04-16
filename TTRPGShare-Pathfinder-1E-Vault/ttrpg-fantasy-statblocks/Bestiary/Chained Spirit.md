@@ -5,7 +5,7 @@ name: Chained Spirit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 14
 name: Chained Spirit
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary plus up to 4 spirit anchors
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Chain Spirit (Su)

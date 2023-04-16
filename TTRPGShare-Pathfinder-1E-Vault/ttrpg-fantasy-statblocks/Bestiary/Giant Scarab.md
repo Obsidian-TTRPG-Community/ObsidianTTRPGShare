@@ -5,7 +5,7 @@ name: Giant Scarab
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Giant Scarab
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +4, Will +3
 saves_other: +4 vs. disease and paralysis
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary or swarm (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

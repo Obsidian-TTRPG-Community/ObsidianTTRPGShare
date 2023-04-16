@@ -5,7 +5,7 @@ name: Cynosphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 82: Secrets of the Sphinx"
+source: "Pathfinder No. 82: Secrets of the Sphinx"
 Monster_CR: 6
 name: Cynosphinx
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision, scent
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +9, Ref +7, Will +5
 immune: disease
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts and hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devour Secret Lore (Su)

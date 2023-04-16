@@ -5,7 +5,7 @@ name: Soul Eater
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Soul Eater
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, all-around vision
 AC: 21, touch 17, flat-footed 14 (dex +6, dodge +1, natural +4)
 HP: 82
-HP_extra: 
 HD: 11d10+22
 saves: Fort +5, Ref +13, Will +7
 immune: critical hits, paralysis, poison, sleep, stunning
@@ -39,6 +38,7 @@ ecology:
     desc: any Outer Plane (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Caster Link (Ex)

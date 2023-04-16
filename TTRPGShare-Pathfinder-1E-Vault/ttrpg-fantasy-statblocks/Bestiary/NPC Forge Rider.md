@@ -5,7 +5,7 @@ name: NPC Forge Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Forge Rider
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +7
 aura: courage, justice, resolve
 AC: 22, touch 11, flat-footed 22 (armor +11, deflection +1)
 HP: 142
-HP_extra: 
 HD: 12d10+72
 saves: Fort +13, Ref +5, Will +11
 saves_other: +2 vs. poison, spells, and spell-like abilities

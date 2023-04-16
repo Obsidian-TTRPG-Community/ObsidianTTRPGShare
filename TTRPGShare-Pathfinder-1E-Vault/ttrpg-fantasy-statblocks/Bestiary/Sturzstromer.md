@@ -5,7 +5,7 @@ name: Sturzstromer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 19
 name: Sturzstromer
 Monster_XP: 204800
@@ -18,7 +18,6 @@ perception: +33
 senses: darkvision, tremorsense
 AC: 34, touch 14, flat-footed 32 (dex +1, dodge +1, natural +20, size +2)
 HP: 324
-HP_extra: 
 HD: 24d10+192
 saves: Fort +22, Ref +17, Will +16
 immune: electricity, elemental traits, swarm traits
@@ -44,6 +43,7 @@ ecology:
     desc: any mountains (Plane of Earth)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Landslide (Ex)

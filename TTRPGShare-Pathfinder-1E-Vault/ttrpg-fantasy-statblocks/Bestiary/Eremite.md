@@ -5,7 +5,7 @@ name: Eremite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Eremite
 Monster_XP: 307200
@@ -40,6 +40,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or cell (3-5)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Immune to Pain (Su)

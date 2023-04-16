@@ -5,7 +5,7 @@ name: Treant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Treant
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 21, touch 7, flat-footed 21 (dex -1, natural +14, size -2)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +13, Ref +3, Will +9
 immune: plant traits
@@ -44,6 +43,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary or grove (2-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Animate Trees (Sp)

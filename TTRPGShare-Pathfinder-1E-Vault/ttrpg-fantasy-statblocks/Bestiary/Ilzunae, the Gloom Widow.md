@@ -5,7 +5,7 @@ name: Ilzunae, the Gloom Widow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 19
 name: Ilzunae, the Gloom Widow
 Monster_XP: 204800

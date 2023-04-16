@@ -5,7 +5,7 @@ name: Doppelganger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Doppelganger
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (dex +1, dodge +1, natural +4)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +4, Ref +5, Will +6
 immune: charm, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: NPC Gear
 special_abilities:
   - name: Mimicry (Ex)

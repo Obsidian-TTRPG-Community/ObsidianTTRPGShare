@@ -5,7 +5,7 @@ name: Phantom Fungus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Phantom Fungus
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: blindsight, low-light vision, tremorsense
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +1, Will +1
 immune: plant traits
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or grove (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Phantom Flesh (Su)

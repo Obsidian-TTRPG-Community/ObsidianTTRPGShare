@@ -5,7 +5,7 @@ name: Mythic Ophiotaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Mythic Ophiotaurus
 Monster_XP: 102400
@@ -44,6 +44,7 @@ ecology:
     desc: warm hills, plains, or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Apocalyptic Wound (Su)

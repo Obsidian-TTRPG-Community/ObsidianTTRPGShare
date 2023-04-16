@@ -5,7 +5,7 @@ name: NPC Dungeon (Prisoner)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 2
 name: NPC Dungeon (Prisoner)
 Monster_XP: 600
@@ -18,7 +18,6 @@ INI: -1
 perception: +8
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +3, Ref +0, Will +5
 speed: 30 ft.

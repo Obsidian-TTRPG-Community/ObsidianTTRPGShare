@@ -5,7 +5,7 @@ name: Heartrot Tree
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 13
 name: Heartrot Tree
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +14
 senses: blindsense, low-light vision
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +17, Ref +7, Will +5
 immune: plant traits, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any forest or underground
   - name: Organisation
     desc: solitary, pair, or festering grove (6-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disease (Ex)

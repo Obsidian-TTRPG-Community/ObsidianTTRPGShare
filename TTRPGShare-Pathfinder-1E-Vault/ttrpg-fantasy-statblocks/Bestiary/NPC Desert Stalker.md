@@ -5,7 +5,7 @@ name: NPC Desert Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Desert Stalker
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +19
 senses: darkvision
 AC: 27, touch 14, flat-footed 25 (armor +6, deflection +2, dex +1, dodge +1, natural +4, shield +3)
 HP: 130
-HP_extra: 
 HD: 14d10+49
 saves: Fort +14, Ref +12, Will +8
 immune: fire (120 points)

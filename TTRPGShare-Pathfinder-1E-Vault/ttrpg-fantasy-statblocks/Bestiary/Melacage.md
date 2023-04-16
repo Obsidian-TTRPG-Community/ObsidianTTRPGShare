@@ -5,7 +5,7 @@ name: Melacage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 140: Eulogy for Roslar's Coffer"
+source: "Pathfinder No. 140: Eulogy for Roslar's Coffer"
 Monster_CR: 5
 name: Melacage
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: life-draining aura
 AC: 18, touch 18, flat-footed 13 (deflection +3, dex +5)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +7, Will +6
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, village (2-5), or city (10-20)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Despair (Su)

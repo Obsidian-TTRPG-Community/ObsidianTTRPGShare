@@ -5,7 +5,7 @@ name: Iron Rhinoceros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 95: Anvil of Fire"
+source: "Pathfinder No. 95: Anvil of Fire"
 Monster_CR: 11
 name: Iron Rhinoceros
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 25, touch 9, flat-footed 24 (dex +1, natural +16, size -2)
 HP: 131
-HP_extra: 
 HD: 14d10+54
 saves: Fort +6, Ref +7, Will +4
 immune: construct traits, fire
@@ -38,6 +37,7 @@ ecology:
     desc: warm mountains or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Grasping Chains (Ex)

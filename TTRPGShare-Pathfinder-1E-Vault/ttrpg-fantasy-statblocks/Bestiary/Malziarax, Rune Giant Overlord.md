@@ -5,7 +5,7 @@ name: Malziarax, Rune Giant Overlord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 21
 name: Malziarax, Rune Giant Overlord
 Monster_XP: 409600

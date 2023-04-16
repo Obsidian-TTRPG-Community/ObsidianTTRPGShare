@@ -5,7 +5,7 @@ name: Fungus Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Fungus Leshy
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision, low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +2, Will +2
 immune: electricity, sonic, plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: any swamp or underground
   - name: Organisation
     desc: solitary or cluster (2-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Puffball (Ex)

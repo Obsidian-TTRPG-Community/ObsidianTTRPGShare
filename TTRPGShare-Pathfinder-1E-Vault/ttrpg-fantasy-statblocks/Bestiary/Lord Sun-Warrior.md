@@ -5,7 +5,7 @@ name: Lord Sun-Warrior
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 15
 name: Lord Sun-Warrior
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +32
 senses: darkvision, detect chaos/evil/good/law
 AC: 28, touch 13, flat-footed 24 (dex +3, dodge +1, natural +15, size -1)
 HP: 230
-HP_extra: 
 HD: 20d10+120
 saves: Fort +14, Ref +17, Will +19
 immune: mind-affecting effects

@@ -5,7 +5,7 @@ name: Chelarac Broodling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 144: Midwives to Death"
+source: "Pathfinder No. 144: Midwives to Death"
 Monster_CR: 2
 name: Chelarac Broodling
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +4, Ref +4, Will +5
 speed: 30 ft., climb 30 ft.

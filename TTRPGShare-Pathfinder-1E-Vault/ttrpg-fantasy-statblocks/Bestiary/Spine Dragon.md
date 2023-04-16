@@ -5,7 +5,7 @@ name: Spine Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 16
 name: Spine Dragon
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +25
 senses: blindsight, darkvision, low-light vision
 AC: 31, touch 9, flat-footed 28 (dex +2, dodge +1, natural +22, size -4)
 HP: 248
-HP_extra: 
 HD: 16d12+144
 saves: Fort +19, Ref +12, Will +16
 immune: paralysis, sleep effects, sonic
@@ -44,6 +43,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Ex)

@@ -5,7 +5,7 @@ name: Baphomet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 77: Herald of the Ivory Labyrinth"
+source: "Pathfinder No. 77: Herald of the Ivory Labyrinth"
 Monster_CR: 27
 name: Baphomet
 Monster_XP: 3276800
@@ -19,7 +19,6 @@ senses: darkvision, detect good, detect law, see in darkness, true seeing
 aura: frightful presence, unholy aura
 AC: 45, touch 34, flat-footed 45 (deflection +4, dex +11, natural +11, profane +10, size -1)
 HP: 643
-HP_extra: 
 HD: 33d10+462
 saves: Fort +36, Ref +26, Will +31
 immune: ability damage, ability drain, charm and compulsion effects, death effects, electricity, energy drain, fire, maze, petrification, poison

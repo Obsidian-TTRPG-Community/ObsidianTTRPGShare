@@ -5,7 +5,7 @@ name: Kamaitachi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Kamaitachi
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +24
 senses: blindsight, low-light vision, scent
 AC: 29, touch 25, flat-footed 20 (deflection +6, dex +8, dodge +1, natural +4)
 HP: 175
-HP_extra: 
 HD: 14d6+126
 saves: Fort +13, Ref +17, Will +16
 DR: 10/cold iron
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or storm (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Deadly Claws (Ex)

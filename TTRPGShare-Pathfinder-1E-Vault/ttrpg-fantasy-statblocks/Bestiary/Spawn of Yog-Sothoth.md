@@ -5,7 +5,7 @@ name: Spawn of Yog-Sothoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Spawn of Yog-Sothoth
 Monster_XP: 9600
@@ -19,7 +19,6 @@ senses: blindsight, darkvision
 aura: stench
 AC: 24, touch 11, flat-footed 22 (dex +2, natural +13, size -1)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +8, Will +12
 immune: cold, fire
@@ -44,6 +43,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devastation (Ex)

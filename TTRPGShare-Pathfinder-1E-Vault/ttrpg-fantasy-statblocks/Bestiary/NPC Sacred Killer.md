@@ -5,7 +5,7 @@ name: NPC Sacred Killer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Sacred Killer
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +13
 senses: darkvision
 AC: 20, touch 16, flat-footed 14 (armor +4, dex +5, dodge +1)
 HP: 68
-HP_extra: 
 HD: 1d8+6d8+2d8+24
 saves: Fort +7, Ref +11, Will +6
 saves_other: +1 vs. poison

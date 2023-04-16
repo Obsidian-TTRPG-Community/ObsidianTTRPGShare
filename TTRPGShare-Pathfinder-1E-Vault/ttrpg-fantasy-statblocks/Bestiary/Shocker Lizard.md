@@ -5,7 +5,7 @@ name: Shocker Lizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Shocker Lizard
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, electricity sense, low-light vision
 AC: 16, touch 13, flat-footed 14 (dex +2, natural +3, size +1)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +2
 immune: electricity
@@ -38,6 +37,7 @@ ecology:
     desc: warm marshes
   - name: Organisation
     desc: solitary, pair, clutch (3-6), or colony (7-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Electricity Sense (Ex)

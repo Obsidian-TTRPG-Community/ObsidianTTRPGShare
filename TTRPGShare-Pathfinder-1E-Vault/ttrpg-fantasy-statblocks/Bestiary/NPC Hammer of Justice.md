@@ -5,7 +5,7 @@ name: NPC Hammer of Justice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Hammer of Justice
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +7
 aura: courage
 AC: 19, touch 9, flat-footed 19 (armor +8, dex -1, shield +2)
 HP: 62
-HP_extra: 
 HD: 5d10+30
 saves: Fort +8, Ref +0, Will +6
 saves_other: +2 vs. poison, spells, and spell-like abilities

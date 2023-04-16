@@ -5,7 +5,7 @@ name: Elasmosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Elasmosaurus
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision, scent
 AC: 20, touch 11, flat-footed 17 (dex +2, dodge +1, natural +9, size -2)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +14, Ref +9, Will +6
 speed: 20 ft., swim 50 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm aquatic
   - name: Organisation
     desc: solitary, pair, or school (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

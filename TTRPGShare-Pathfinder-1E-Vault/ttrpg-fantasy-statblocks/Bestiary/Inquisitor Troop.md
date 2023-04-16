@@ -5,7 +5,7 @@ name: Inquisitor Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 100: A Song of Silver"
+source: "Pathfinder No. 100: A Song of Silver"
 Monster_CR: 9
 name: Inquisitor Troop
 Monster_XP: 6400

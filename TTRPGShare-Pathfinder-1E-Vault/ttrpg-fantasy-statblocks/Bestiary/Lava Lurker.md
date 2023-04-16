@@ -5,7 +5,7 @@ name: Lava Lurker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Emerald Spire Superdungeon"
+source: "The Emerald Spire Superdungeon"
 Monster_CR: 9
 name: Lava Lurker
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, tremorsense
 AC: 22, touch 11, flat-footed 21 (dex +1, natural +11)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +9, Will +4
 immune: electricity, elemental traits, fire
@@ -41,6 +40,7 @@ ecology:
     desc: any volcano or underground
   - name: Organisation
     desc: solitary, pair, or flow (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Death Throes (Ex)

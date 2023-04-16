@@ -5,7 +5,7 @@ name: Japalisura
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 136: Temple of the Peacock Spirit"
+source: "Pathfinder No. 136: Temple of the Peacock Spirit"
 Monster_CR: 12
 name: Japalisura
 Monster_XP: 19200

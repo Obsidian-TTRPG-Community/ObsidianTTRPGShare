@@ -5,7 +5,7 @@ name: The Old Man
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: The Old Man
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any land (Axis)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Monk Abilities (Ex or Su)

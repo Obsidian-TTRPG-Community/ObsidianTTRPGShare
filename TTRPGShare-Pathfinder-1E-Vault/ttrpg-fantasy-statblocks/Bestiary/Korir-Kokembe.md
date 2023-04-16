@@ -5,7 +5,7 @@ name: Korir-Kokembe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 10
 name: Korir-Kokembe
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, scent
 aura: frightful presence
 AC: 24, touch 10, flat-footed 22 (dex +2, natural +14, size -2)
 HP: 136
-HP_extra: 
 HD: 13d12+52
 saves: Fort +12, Ref +12, Will +10
 immune: disease, dragon traits, magic paralysis and sleep
@@ -42,6 +41,7 @@ ecology:
     desc: warm jungles (Mwangi Expanse)
   - name: Organisation
     desc: solitary or nest (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

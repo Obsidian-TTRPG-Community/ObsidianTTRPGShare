@@ -5,7 +5,7 @@ name: Tanuki
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Tanuki
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, detect poison, low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +3, shield +1)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +5, Ref +7, Will +6
 speed: 30 ft.

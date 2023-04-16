@@ -5,7 +5,7 @@ name: Halsora
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Halsora
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +19
 senses: darkvision
 AC: 19, touch 13, flat-footed 17 (dex +2, natural +6, size +1)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +6, Ref +5, Will +9
 immune: acid, disease
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or gang (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acidic Tears (Ex)

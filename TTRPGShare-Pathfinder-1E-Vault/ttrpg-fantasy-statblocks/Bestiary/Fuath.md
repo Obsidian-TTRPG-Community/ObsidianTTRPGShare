@@ -5,7 +5,7 @@ name: Fuath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Fuath
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 7
-HP_extra: 
 HD: 1d6+4
 saves: Fort +1, Ref +3, Will +3
 resist: cold 10

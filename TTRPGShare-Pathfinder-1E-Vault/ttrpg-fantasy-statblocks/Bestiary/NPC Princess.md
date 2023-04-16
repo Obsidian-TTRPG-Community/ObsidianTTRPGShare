@@ -5,7 +5,7 @@ name: NPC Princess
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Princess
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +1
 perception: +0
 AC: 12, touch 12, flat-footed 10 (dex +1, dodge +1)
 HP: 7
-HP_extra: 
 HD: 2d8-2
 saves: Fort -1, Ref +1, Will +3
 speed: 30 ft.

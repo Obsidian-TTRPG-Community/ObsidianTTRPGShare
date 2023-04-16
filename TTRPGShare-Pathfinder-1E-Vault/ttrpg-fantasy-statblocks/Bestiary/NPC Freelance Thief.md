@@ -5,7 +5,7 @@ name: NPC Freelance Thief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Freelance Thief
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +4
 perception: +10
 AC: 19, touch 15, flat-footed 14 (armor +4, dex +4, dodge +1)
 HP: 42
-HP_extra: 
 HD: 7d8+7
 saves: Fort +4, Ref +10, Will +3
 defensive_abilities: evasion, trap sense +2, uncanny dodge

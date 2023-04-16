@@ -5,7 +5,7 @@ name: Zentragt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Zentragt
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +6, Ref +3, Will +5
 immune: fear
@@ -45,6 +44,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or gang (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Adamantine Attacks (Ex)

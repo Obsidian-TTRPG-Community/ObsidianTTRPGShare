@@ -5,7 +5,7 @@ name: Half-Dragon (Black Dragon, Basilisk)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Half-Dragon (Black Dragon, Basilisk)
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 21, touch 9, flat-footed 21 (dex -1, natural +12)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +12, Ref +4, Will +5
 immune: acid, sleep, paralysis
@@ -37,6 +36,7 @@ ecology:
     desc: temperate swamp or underground
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 sources:
   - name: Pathfinder RPG Bestiary

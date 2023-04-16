@@ -5,7 +5,7 @@ name: Wolverine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Wolverine
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +5, Ref +5, Will +2
 speed: 30 ft., burrow 10 ft., climb 10 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Rage (Ex)

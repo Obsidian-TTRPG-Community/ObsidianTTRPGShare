@@ -5,7 +5,7 @@ name: Young Infernal Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Young Infernal Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +20
 senses: dragon senses
 AC: 24, touch 9, flat-footed 24 (natural +15, size -1)
 HP: 147
-HP_extra: 
 HD: 14d12+56
 saves: Fort +13, Ref +9, Will +14
 saves_other: +3 vs. divination

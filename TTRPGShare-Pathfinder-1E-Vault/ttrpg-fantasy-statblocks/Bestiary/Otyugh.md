@@ -5,7 +5,7 @@ name: Otyugh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Otyugh
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, scent
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +3, Ref +2, Will +6
 immune: disease
@@ -40,6 +39,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or cluster (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

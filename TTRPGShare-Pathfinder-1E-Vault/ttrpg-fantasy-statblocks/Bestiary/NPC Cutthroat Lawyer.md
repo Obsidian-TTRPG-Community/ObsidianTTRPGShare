@@ -5,7 +5,7 @@ name: NPC Cutthroat Lawyer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Cutthroat Lawyer
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +12
 senses: low-light vision
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 40
-HP_extra: 
 HD: 9d8
 saves: Fort +3, Ref +2, Will +9
 saves_other: +2 vs. enchantments

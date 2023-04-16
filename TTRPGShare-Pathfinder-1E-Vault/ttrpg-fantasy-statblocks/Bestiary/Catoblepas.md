@@ -5,7 +5,7 @@ name: Catoblepas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Catoblepas
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: stench
 AC: 27, touch 8, flat-footed 27 (dex -1, natural +19, size -1)
 HP: 161
-HP_extra: 
 HD: 14d10+84
 saves: Fort +15, Ref +8, Will +8
 SR: 23
@@ -39,6 +38,7 @@ ecology:
     desc: any swamps
   - name: Organisation
     desc: solitary, pair, or herd (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison Breath (Ex)

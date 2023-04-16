@@ -5,7 +5,7 @@ name: Living Rune
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 66: The Dead Heart of Xin"
+source: "Pathfinder No. 66: The Dead Heart of Xin"
 Monster_CR: 13
 name: Living Rune
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +27
 senses: blindsight, tremorsense
 AC: 28, touch 28, flat-footed 16 (deflection +6, dex +11, dodge +1)
 HP: 153
-HP_extra: 
 HD: 18d8+72
 saves: Fort +10, Ref +17, Will +15
 immune: bleed, disease, magic, paralysis, poison, stunning
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or string (3-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Camouflage (Ex)

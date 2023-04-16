@@ -5,7 +5,7 @@ name: Greater Fire Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Greater Fire Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 23, touch 17, flat-footed 14 (dex +8, dodge +1, natural +6, size -2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +16, Will +6
 immune: elemental traits, fire

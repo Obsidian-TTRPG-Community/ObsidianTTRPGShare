@@ -5,7 +5,7 @@ name: Jackal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Osirion, Legacy of the Pharaohs"
+source: "Osirion, Legacy of the Pharaohs"
 Monster_CR: 1/2
 name: Jackal
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 9
-HP_extra: 
 HD: 1d8+5
 saves: Fort +4, Ref +4, Will +1
 speed: 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm deserts or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Opportunistic Bite (Ex)

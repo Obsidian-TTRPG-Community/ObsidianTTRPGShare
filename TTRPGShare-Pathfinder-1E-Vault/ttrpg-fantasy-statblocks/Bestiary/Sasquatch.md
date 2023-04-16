@@ -5,7 +5,7 @@ name: Sasquatch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Sasquatch
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +4, Ref +5, Will +1
 speed: 40 ft.
@@ -42,6 +41,7 @@ ecology:
     desc: temperate or cold forests
   - name: Organisation
     desc: solitary, pair, or family (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Pungency (Ex)

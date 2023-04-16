@@ -5,7 +5,7 @@ name: Living Sandstorm (Sandstorm)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 83: The Slave Trenches of Hakotep"
+source: "Pathfinder No. 83: The Slave Trenches of Hakotep"
 Monster_CR: 11
 name: Living Sandstorm (Sandstorm)
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, sandsight, tremorsense
 AC: 34, touch 25, flat-footed 27 (dex +6, dodge +1, natural +9, size +8)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +9, Ref +15, Will +12
 immune: elemental traits, weapon damage
@@ -43,6 +42,7 @@ ecology:
     desc: any desert (Plane of Earth)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Change Shape (Su)

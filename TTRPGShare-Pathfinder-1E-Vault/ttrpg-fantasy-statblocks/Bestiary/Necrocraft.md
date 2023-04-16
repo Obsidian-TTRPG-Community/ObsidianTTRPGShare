@@ -5,7 +5,7 @@ name: Necrocraft
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Necrocraft
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +2, Ref +2, Will +4
 immune: undead traits
@@ -34,6 +33,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Construction Points

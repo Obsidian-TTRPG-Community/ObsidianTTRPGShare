@@ -5,7 +5,7 @@ name: Black Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 13
 name: Black Rider
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: icy aura
 AC: 29, touch 15, flat-footed 24 (armor +9, dex +5, natural +5)
 HP: 171
-HP_extra: 
 HD: 18d6+108
 saves: Fort +12, Ref +16, Will +15
 immune: cold, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Icy Aura (Su)

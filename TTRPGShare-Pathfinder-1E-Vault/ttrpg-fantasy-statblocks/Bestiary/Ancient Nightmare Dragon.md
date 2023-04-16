@@ -5,7 +5,7 @@ name: Ancient Nightmare Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Ancient Nightmare Dragon
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, dreamsight, low-light vision, see in darkness
 aura: terrifying presence
 AC: 36, touch 7, flat-footed 36 (dex -1, natural +29, size -2)
 HP: 325
-HP_extra: 
 HD: 21d12+189
 saves: Fort +21, Ref +11, Will +20
 immune: mind-affecting effects, paralysis, sleep

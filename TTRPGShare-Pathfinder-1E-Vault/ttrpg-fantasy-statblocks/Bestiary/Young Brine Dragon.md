@@ -5,7 +5,7 @@ name: Young Brine Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Young Brine Dragon
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +12
 senses: dragon senses
 AC: 20, touch 11, flat-footed 19 (dex +1, natural +9)
 HP: 68
-HP_extra: 
 HD: 8d12+16
 saves: Fort +8, Ref +7, Will +7
 immune: acid, paralysis, sleep
@@ -38,6 +37,7 @@ ecology:
     desc: any aquatic (Plane of Water)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

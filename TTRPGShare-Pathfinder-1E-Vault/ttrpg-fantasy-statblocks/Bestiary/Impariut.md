@@ -5,7 +5,7 @@ name: Impariut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 10
 name: Impariut
 Monster_XP: 9600

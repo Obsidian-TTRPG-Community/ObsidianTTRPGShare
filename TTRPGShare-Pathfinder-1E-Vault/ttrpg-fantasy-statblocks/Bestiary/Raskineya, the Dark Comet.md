@@ -5,7 +5,7 @@ name: Raskineya, the Dark Comet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 16
 name: Raskineya, the Dark Comet
 Monster_XP: 76800
@@ -21,7 +21,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 35, touch 9, flat-footed 34 (dex +1, natural +26, size -2)
 HP: 260
-HP_extra: 
 HD: 16d12+156
 saves: Fort +16, Ref +11, Will +15
 immune: cold, confusion, dragon traits, insanity effects, paralysis, sleep

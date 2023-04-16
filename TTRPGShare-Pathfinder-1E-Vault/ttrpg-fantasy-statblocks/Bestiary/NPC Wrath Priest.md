@@ -5,7 +5,7 @@ name: NPC Wrath Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Wrath Priest
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 20, touch 10, flat-footed 20 (armor +9, natural +1)
 HP: 71
-HP_extra: 
 HD: 8d8+32
 saves: Fort +8, Ref +2, Will +8
 saves_other: +2 resistance vs. good

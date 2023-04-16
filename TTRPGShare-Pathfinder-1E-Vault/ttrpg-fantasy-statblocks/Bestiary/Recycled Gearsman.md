@@ -5,7 +5,7 @@ name: Recycled Gearsman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 3
 name: Recycled Gearsman
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 37
-HP_extra: 
 HD: 4d10+15
 saves: Fort +1, Ref +2, Will +2
 immune: construct traits

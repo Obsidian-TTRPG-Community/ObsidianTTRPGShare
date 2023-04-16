@@ -5,7 +5,7 @@ name: Neshmaal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
+source: "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
 Monster_CR: 12
 name: Neshmaal
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: alien dread
 AC: 24, touch 24, flat-footed 16 (deflection +7, dex +7, dodge +1, size -1)
 HP: 149
-HP_extra: 
 HD: 13d10+78
 saves: Fort +14, Ref +11, Will +12
 immune: cold
@@ -45,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or congregation (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Alien Dread (Su)

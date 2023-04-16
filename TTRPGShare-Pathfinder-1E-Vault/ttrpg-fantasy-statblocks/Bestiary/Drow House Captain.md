@@ -5,7 +5,7 @@ name: Drow House Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Drow House Captain
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 21, touch 14, flat-footed 17 (armor +7, dex +4)
 HP: 55
-HP_extra: 
 HD: 7d10+12
 saves: Fort +5, Ref +6, Will +3
 saves_other: +2 vs. enchantment

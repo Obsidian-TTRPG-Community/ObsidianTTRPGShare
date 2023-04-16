@@ -5,7 +5,7 @@ name: Waldgeist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 105: The Inferno Gate"
+source: "Pathfinder No. 105: The Inferno Gate"
 Monster_CR: 8
 name: Waldgeist
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, greensight
 AC: 21, touch 21, flat-footed 16 (deflection +5, dex +5, size +1)
 HP: 104
-HP_extra: 
 HD: 11d8+55
 saves: Fort +8, Ref +8, Will +10
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Compelling Knock (Su)

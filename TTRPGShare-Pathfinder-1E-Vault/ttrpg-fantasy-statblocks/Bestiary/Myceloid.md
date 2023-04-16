@@ -5,7 +5,7 @@ name: Myceloid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Myceloid
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +1, Will +4
 immune: plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, band (3-24), or colony (25-250)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

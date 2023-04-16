@@ -5,7 +5,7 @@ name: Neothelid Overlord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 20
 name: Neothelid Overlord
 Monster_XP: 307200
@@ -18,7 +18,6 @@ senses: blindsight, trace teleport
 aura: madness
 AC: 34, touch 6, flat-footed 34 (natural +28, size -4)
 HP: 400
-HP_extra: 
 HD: 32d8+256
 saves: Fort +20, Ref +12, Will +24
 saves_other: +4 vs. psychic spells
@@ -43,6 +42,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or conclave (3-5 served by a cult of neothelids and 9-24 seugathi)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Madness (Su)

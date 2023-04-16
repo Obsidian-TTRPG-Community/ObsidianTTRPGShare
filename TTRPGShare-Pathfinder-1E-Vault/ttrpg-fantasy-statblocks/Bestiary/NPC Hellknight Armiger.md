@@ -5,7 +5,7 @@ name: NPC Hellknight Armiger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 2
 name: NPC Hellknight Armiger
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +1
 senses: darkvision
 AC: 19, touch 11, flat-footed 18 (armor +8, dex +1)
 HP: 27
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +2, Will +2
 defensive_abilities: bravery +1, orc ferocity

@@ -5,7 +5,7 @@ name: Scyld Hranni, Storm Giant Matriarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 20
 name: Scyld Hranni, Storm Giant Matriarch
 Monster_XP: 307200

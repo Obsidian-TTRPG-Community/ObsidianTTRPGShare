@@ -5,7 +5,7 @@ name: Bore Worm Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 5
 name: Bore Worm Swarm
 Monster_XP: 1600
@@ -17,7 +17,6 @@ INI: +2
 senses: tremorsense
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +7, Ref +4, Will +3
 immune: acid, mind-affecting effects, weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or tremor (1d6 plus 1 bore worm monarch)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Painful Bite (Ex)

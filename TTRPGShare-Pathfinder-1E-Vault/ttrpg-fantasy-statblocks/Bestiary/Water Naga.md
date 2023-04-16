@@ -5,7 +5,7 @@ name: Water Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Water Naga
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 20, touch 15, flat-footed 14 (dex +6, natural +5, size -1)
 HP: 76
-HP_extra: 
 HD: 8d8+40
 saves: Fort +7, Ref +10, Will +9
 speed: 30 ft., swim 50 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate water
   - name: Organisation
     desc: solitary, pair, or nest (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

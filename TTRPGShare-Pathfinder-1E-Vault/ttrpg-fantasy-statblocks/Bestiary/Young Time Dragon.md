@@ -5,7 +5,7 @@ name: Young Time Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 11
 name: Young Time Dragon
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +18
 senses: detect magic, dragon senses, see in darkness
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 149
-HP_extra: 
 HD: 13d12+65
 saves: Fort +13, Ref +10, Will +10
 immune: cold, paralysis, sleep, staggered
@@ -39,6 +38,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

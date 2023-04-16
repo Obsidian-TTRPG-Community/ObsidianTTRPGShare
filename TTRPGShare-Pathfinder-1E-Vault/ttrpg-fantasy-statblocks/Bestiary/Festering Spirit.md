@@ -5,7 +5,7 @@ name: Festering Spirit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Festering Spirit
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stench
 AC: 18, touch 18, flat-footed 12 (deflection +2, dex +5, dodge +1)
 HP: 58
-HP_extra: 
 HD: 9d8+18
 saves: Fort +5, Ref +8, Will +7
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Create Spawn (Su)

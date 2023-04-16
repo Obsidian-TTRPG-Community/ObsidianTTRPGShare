@@ -5,7 +5,7 @@ name: NPC Duergar Slaver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 2
 name: NPC Duergar Slaver
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 21
-HP_extra: 
 HD: 3d10
 saves: Fort +3, Ref +4, Will +3
 saves_other: +2 vs. spells and spell-like abilities

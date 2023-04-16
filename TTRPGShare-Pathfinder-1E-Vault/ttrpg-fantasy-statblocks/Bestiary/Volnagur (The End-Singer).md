@@ -5,7 +5,7 @@ name: Volnagur (The End-Singer)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 22
 name: Volnagur (The End-Singer)
 Monster_XP: 614400
@@ -42,6 +42,7 @@ ecology:
     desc: any (Casmaron)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Rage (Ex)

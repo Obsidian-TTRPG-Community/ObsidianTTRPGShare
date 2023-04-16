@@ -5,7 +5,7 @@ name: NPC Black Ice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Black Ice
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +20
 senses: darkvision, low-light vision
 AC: 23, touch 17, flat-footed 20 (armor +4, deflection +3, dex +2, dodge +1, natural +2, size +1)
 HP: 147
-HP_extra: 
 HD: 10d6+7d8+78
 saves: Fort +12, Ref +15, Will +15
 saves_other: +2 vs. illusions

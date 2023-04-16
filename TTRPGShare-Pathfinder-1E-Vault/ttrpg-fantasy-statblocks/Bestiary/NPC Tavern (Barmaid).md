@@ -5,7 +5,7 @@ name: NPC Tavern (Barmaid)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/2
 name: NPC Tavern (Barmaid)
 Monster_XP: 200
@@ -18,7 +18,6 @@ INI: +1
 perception: +4
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 7
-HP_extra: 
 HD: 2d6
 saves: Fort +0, Ref +1, Will -1
 speed: 30 ft.

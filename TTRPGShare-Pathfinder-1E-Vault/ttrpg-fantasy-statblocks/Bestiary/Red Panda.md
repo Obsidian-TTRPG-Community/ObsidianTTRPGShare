@@ -5,7 +5,7 @@ name: Red Panda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Red Panda
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 16, touch 15, flat-footed 13 (dex +3, natural +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +1
 speed: 20 ft., climb 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests or mountains
   - name: Organisation
     desc: solitary or mated pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

@@ -5,7 +5,7 @@ name: NPC Fighting School (Initiate)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Fighting School (Initiate)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +2
 perception: +7
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, wis +2)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +4, Ref +5, Will +5
 defensive_abilities: evasion

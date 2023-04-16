@@ -5,7 +5,7 @@ name: Storm Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Storm Hag
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +14
 senses: child-scent, darkvision
 AC: 21, touch 13, flat-footed 18 (dex +2, dodge +1, natural +8)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +6, Ref +9, Will +8
 immune: electricity
@@ -38,6 +37,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Child-Scent (Ex)

@@ -5,7 +5,7 @@ name: Barbatos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 26
 name: Barbatos
 Monster_XP: 2457600

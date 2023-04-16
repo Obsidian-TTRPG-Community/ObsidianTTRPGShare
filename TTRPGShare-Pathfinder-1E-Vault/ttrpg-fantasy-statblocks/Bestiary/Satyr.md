@@ -5,7 +5,7 @@ name: Satyr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Satyr
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +18
 senses: low-light vision
 AC: 18, touch 13, flat-footed 15 (dex +2, dodge +1, natural +5)
 HP: 44
-HP_extra: 
 HD: 8d6+16
 saves: Fort +4, Ref +8, Will +8
 DR: 5/cold iron

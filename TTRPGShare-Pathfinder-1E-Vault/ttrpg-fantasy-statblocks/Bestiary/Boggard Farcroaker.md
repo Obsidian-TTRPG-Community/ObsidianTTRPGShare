@@ -5,7 +5,7 @@ name: Boggard Farcroaker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Boggard Farcroaker
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 15, touch 10, flat-footed 15 (armor +2, natural +3)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +5, Ref +4, Will +5
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

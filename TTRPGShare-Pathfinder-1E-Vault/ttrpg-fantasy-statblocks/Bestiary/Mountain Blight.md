@@ -5,7 +5,7 @@ name: Mountain Blight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Mountain Blight
 Monster_XP: 38400
@@ -44,6 +44,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hypoxic Domain (Su)

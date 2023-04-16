@@ -5,7 +5,7 @@ name: Marilith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 17
 name: Marilith
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: unholy aura
 AC: 32, touch 17, flat-footed 28 (deflection +4, dex +4, natural +15, size -1)
 HP: 264
-HP_extra: 
 HD: 16d10+176
 saves: Fort +25, Ref +18, Will +13
 immune: electricity and poison

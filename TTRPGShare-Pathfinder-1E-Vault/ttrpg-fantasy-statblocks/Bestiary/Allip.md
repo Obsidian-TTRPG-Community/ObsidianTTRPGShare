@@ -5,7 +5,7 @@ name: Allip
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Allip
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: babble
 AC: 14, touch 14, flat-footed 13 (deflection +3, dex +1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +4, Ref +4, Will +4
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or haunt (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Babble (Su)

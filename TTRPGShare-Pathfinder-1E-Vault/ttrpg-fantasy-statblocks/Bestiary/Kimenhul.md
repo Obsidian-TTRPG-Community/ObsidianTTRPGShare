@@ -5,7 +5,7 @@ name: Kimenhul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 20
 name: Kimenhul
 Monster_XP: 307200
@@ -45,6 +45,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Eternal Fear (Su)

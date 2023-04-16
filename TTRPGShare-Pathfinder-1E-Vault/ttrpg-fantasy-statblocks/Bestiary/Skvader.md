@@ -5,7 +5,7 @@ name: Skvader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 61: Shards of Sin"
+source: "Pathfinder No. 61: Shards of Sin"
 Monster_CR: 1/2
 name: Skvader
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 6
-HP_extra: 
 HD: 1d10+1
 saves: Fort +3, Ref +4, Will +1
 speed: 40 ft., fly 40 ft. (poor)
@@ -35,6 +34,7 @@ ecology:
     desc: temperate forest and hills
   - name: Organisation
     desc: solitary, pair, family (3-12), or pack (1 wolpertinger and 3-12 skvaders)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

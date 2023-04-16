@@ -5,7 +5,7 @@ name: Capacitor Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 11
 name: Capacitor Ooze
 Monster_XP: 12800
@@ -18,7 +18,6 @@ senses: blindsight
 aura: osmotic drain
 AC: 5, touch 5, flat-footed 5 (dex -5)
 HP: 195
-HP_extra: 
 HD: 17d8+119
 saves: Fort +12, Ref +0, Will +0
 immune: electricity, ooze traits
@@ -37,6 +36,7 @@ ecology:
     desc: cold deserts or plains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Electrified (Ex)

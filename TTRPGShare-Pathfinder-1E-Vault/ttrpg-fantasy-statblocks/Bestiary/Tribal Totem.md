@@ -5,7 +5,7 @@ name: Tribal Totem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 39: The City of Seven Spears"
+source: "Pathfinder No. 39: The City of Seven Spears"
 Monster_CR: 6
 name: Tribal Totem
 Monster_XP: 2400
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 19, touch 12, flat-footed 17 (dex +2, natural +7)
 HP: 69
-HP_extra: 
 HD: 9d10+20
 saves: Fort +3, Ref +5, Will +4
 immune: construct traits
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ceremonial Activation (Su)

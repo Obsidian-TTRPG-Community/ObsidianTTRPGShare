@@ -5,7 +5,7 @@ name: Wihsaak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Wihsaak
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 20, touch 14, flat-footed 16 (dex +3, dodge +1, natural +6)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +5, Ref +9, Will +7
 immune: death effects, disease, fear effects, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary or swarm (2-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Droning Madness (Ex)

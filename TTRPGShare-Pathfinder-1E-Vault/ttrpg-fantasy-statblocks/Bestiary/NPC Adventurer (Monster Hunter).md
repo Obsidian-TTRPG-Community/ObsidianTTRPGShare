@@ -5,7 +5,7 @@ name: NPC Adventurer (Monster Hunter)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 5
 name: NPC Adventurer (Monster Hunter)
 Monster_XP: 1600
@@ -18,7 +18,6 @@ INI: +3
 perception: +10
 AC: 18, touch 13, flat-footed 15 (armor +4, dex +3, shield +1)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +6, Ref +8, Will +3
 speed: 30 ft.

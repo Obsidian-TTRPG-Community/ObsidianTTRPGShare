@@ -5,7 +5,7 @@ name: Hobgoblin Bombardier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Hobgoblin Bombardier
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +16
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (armor +4, dex +4)
 HP: 71
-HP_extra: 
 HD: 8d8+32
 saves: Fort +9, Ref +10, Will +2
 speed: 30 ft.

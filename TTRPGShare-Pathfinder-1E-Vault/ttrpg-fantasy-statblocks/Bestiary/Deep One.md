@@ -5,7 +5,7 @@ name: Deep One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Deep One
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 12, touch 9, flat-footed 12 (dex -1, natural +3)
 HP: 17
-HP_extra: 
 HD: 2d10+6
 saves: Fort +5, Ref +2, Will +5
 resist: cold 5

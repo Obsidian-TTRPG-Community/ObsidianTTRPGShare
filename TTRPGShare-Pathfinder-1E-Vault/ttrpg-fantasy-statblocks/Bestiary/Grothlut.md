@@ -5,7 +5,7 @@ name: Grothlut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Grothlut
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision
 aura: piteous moan
 AC: 13, touch 8, flat-footed 13 (dex -2, natural +5)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +7, Ref -1, Will +3
 immune: acid, mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or rout (2-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Digestive Spew (Ex)

@@ -5,7 +5,7 @@ name: NPC Superstitious Mercenary
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Superstitious Mercenary
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +2
 perception: +2
 AC: 20, touch 12, flat-footed 18 (armor +6, dex +2, shield +2)
 HP: 14
-HP_extra: 
 HD: 1d10+4
 saves: Fort +3, Ref +2, Will +3
 speed: 30 ft.

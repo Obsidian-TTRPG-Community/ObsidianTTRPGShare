@@ -5,7 +5,7 @@ name: Mephit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Mephit
 Monster_XP: 800
@@ -37,6 +37,7 @@ ecology:
     desc: any (elemental planes)
   - name: Organisation
     desc: solitary, pair, gang (3-6), mob (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

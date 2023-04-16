@@ -5,7 +5,7 @@ name: Giant Black Widow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Giant Black Widow
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +3, Will +1
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or colony (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

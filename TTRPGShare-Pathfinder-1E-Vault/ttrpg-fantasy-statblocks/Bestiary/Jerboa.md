@@ -5,7 +5,7 @@ name: Jerboa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Jerboa
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +5, Will +2
 speed: 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or burrow (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

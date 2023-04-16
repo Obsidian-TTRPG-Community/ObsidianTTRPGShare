@@ -5,7 +5,7 @@ name: Hykariut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 18
 name: Hykariut
 Monster_XP: 153600

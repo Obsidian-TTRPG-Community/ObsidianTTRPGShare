@@ -5,7 +5,7 @@ name: Behimiron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Behimiron
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision
 AC: 28, touch 13, flat-footed 23 (dex +5, natural +15, size -2)
 HP: 189
-HP_extra: 
 HD: 14d10+112
 saves: Fort +17, Ref +11, Will +15
 immune: cold, mind-affecting effects, negative energy, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Create Spawn (Ex)

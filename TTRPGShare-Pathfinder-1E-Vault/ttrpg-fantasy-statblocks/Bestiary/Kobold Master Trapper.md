@@ -5,7 +5,7 @@ name: Kobold Master Trapper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Kobold Master Trapper
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 21, touch 15, flat-footed 17 (armor +5, dex +4, natural +1, size +1)
 HP: 31
-HP_extra: 
 HD: 5d8+5
 saves: Fort +2, Ref +10, Will +2
 defensive_abilities: evasion, trap sense +1, uncanny dodge

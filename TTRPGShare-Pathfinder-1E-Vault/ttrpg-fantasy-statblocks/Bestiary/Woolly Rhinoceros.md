@@ -5,7 +5,7 @@ name: Woolly Rhinoceros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Woolly Rhinoceros
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +15
 senses: scent
 AC: 19, touch 9, flat-footed 19 (natural +10, size -1)
 HP: 76
-HP_extra: 
 HD: 8d8+40
 saves: Fort +13, Ref +6, Will +3
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

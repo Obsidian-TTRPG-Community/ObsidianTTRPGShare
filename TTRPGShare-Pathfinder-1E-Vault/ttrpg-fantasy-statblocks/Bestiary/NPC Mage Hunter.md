@@ -5,7 +5,7 @@ name: NPC Mage Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Mage Hunter
 Monster_XP: 153600
@@ -20,7 +20,6 @@ perception: +24
 senses: darkvision
 AC: 34, touch 19, flat-footed 28 (armor +10, deflection +3, dex +5, dodge +1, natural +5)
 HP: 195
-HP_extra: 
 HD: 19d10+86
 saves: Fort +19, Ref +24, Will +14
 immune: electricity (120 points), fire (120 points), poison

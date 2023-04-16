@@ -5,7 +5,7 @@ name: Hive Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 10
 name: Hive Queen
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +22
 senses: blindsense, blindsight, hive mind
 AC: 26, touch 12, flat-footed 22 (dex +4, natural +14, size -2)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +9, Will +13
 immune: acid
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or hive (1 plus 1-20 larva swarms and 1-50 hive workers and warriors)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Egg Layer (Ex)

@@ -5,7 +5,7 @@ name: Vrolikai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 19
 name: Vrolikai
 Monster_XP: 204800
@@ -18,7 +18,6 @@ perception: +36
 senses: darkvision, low-light vision, true seeing
 AC: 35, touch 16, flat-footed 28 (dex +6, dodge +1, natural +19, size -1)
 HP: 332
-HP_extra: 
 HD: 19d10+228
 saves: Fort +18, Ref +17, Will +17
 immune: death effects, electricity, poison
@@ -45,6 +44,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Black Flame Knives (Su)

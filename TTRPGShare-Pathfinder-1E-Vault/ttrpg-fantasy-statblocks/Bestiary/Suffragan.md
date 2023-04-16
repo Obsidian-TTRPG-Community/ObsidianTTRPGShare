@@ -5,7 +5,7 @@ name: Suffragan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Nidal, Land of Shadows"
+source: "Nidal, Land of Shadows"
 Monster_CR: 5
 name: Suffragan
 Monster_XP: 1600
@@ -39,6 +39,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or tangle (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bladed Limbs (Ex)

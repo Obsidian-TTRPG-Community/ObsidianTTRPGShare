@@ -5,7 +5,7 @@ name: NPC Knight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Knight
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +1
 perception: +5
 AC: 22, touch 11, flat-footed 21 (armor +9, dex +1, shield +2)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +6, Ref +4, Will +5
 speed: 20 ft.

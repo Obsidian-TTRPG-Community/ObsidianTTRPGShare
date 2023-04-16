@@ -5,7 +5,7 @@ name: Severed Head
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 1/3
 name: Severed Head
 Monster_XP: 135
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +0, Ref +2, Will +2
 immune: undead traits
@@ -32,6 +31,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or patrol (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 43: Haunting of Harrowstone

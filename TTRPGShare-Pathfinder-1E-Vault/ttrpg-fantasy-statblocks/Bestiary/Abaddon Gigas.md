@@ -5,7 +5,7 @@ name: Abaddon Gigas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 96: Shadow of the Storm Tyrant"
+source: "Pathfinder No. 96: Shadow of the Storm Tyrant"
 Monster_CR: 17
 name: Abaddon Gigas
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +30
 senses: darkvision, low-light vision
 AC: 33, touch 9, flat-footed 30 (armor +11, dex +3, natural +13, size -4)
 HP: 241
-HP_extra: 
 HD: 21d8+147
 saves: Fort +19, Ref +11, Will +15
 immune: acid, death effects

@@ -5,7 +5,7 @@ name: Mythic Winter Wolf
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 6
 name: Mythic Winter Wolf
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 77
-HP_extra: 
 HD: 6d10+44
 saves: Fort +9, Ref +6, Will +3
 immune: cold
@@ -45,6 +44,7 @@ ecology:
     desc: cold forests and plains
   - name: Organisation
     desc: solitary, pair, or pack (6-11)
+  - name: Treasure
     desc: standard
 sources:
   - name: Mythic Adventures

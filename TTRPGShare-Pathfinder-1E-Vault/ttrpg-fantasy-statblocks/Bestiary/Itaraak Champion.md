@@ -5,7 +5,7 @@ name: Itaraak Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 9
 name: Itaraak Champion
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (armor +7, dex +3)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +9, Ref +12, Will +4
 saves_other: +2 bonus vs. illusion spells or effects

@@ -5,7 +5,7 @@ name: Adult Magma Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Adult Magma Dragon
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 29, touch 10, flat-footed 28 (dex +1, natural +19, size -1)
 HP: 172
-HP_extra: 
 HD: 15d12+75
 saves: Fort +16, Ref +10, Will +15
 immune: fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: any mountains or underground (Plane of Fire)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

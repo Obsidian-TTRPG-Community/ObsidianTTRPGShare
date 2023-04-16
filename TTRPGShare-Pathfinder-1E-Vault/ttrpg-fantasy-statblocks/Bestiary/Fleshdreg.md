@@ -5,7 +5,7 @@ name: Fleshdreg
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Fleshdreg
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, sin-scent
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +3, Will +3
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: any ruins
   - name: Organisation
     desc: solitary, pair, or batch (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sinful Bite (Su)

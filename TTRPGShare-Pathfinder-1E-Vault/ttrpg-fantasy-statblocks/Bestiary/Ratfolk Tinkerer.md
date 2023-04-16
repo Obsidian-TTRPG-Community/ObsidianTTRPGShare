@@ -5,7 +5,7 @@ name: Ratfolk Tinkerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Ratfolk Tinkerer
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 16, touch 14, flat-footed 13 (armor +2, dex +3, size +1)
 HP: 16
-HP_extra: 
 HD: 2d8+4
 saves: Fort +1, Ref +6, Will -1
 defensive_abilities: evasion

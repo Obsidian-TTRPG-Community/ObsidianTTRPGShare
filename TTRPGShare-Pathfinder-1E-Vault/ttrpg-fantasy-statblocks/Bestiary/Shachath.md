@@ -5,7 +5,7 @@ name: Shachath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 75: Demon's Heresy"
+source: "Pathfinder No. 75: Demon's Heresy"
 Monster_CR: 11
 name: Shachath
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +27
 senses: all-around vision, darkvision, detect good
 AC: 25, touch 18, flat-footed 17 (dex +7, dodge +1, natural +7)
 HP: 148
-HP_extra: 
 HD: 11d10+88
 saves: Fort +11, Ref +14, Will +14
 immune: electricity, poison

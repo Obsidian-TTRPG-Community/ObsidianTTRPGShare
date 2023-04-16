@@ -5,7 +5,7 @@ name: Duergar High Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 12
 name: Duergar High Priest
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +18
 senses: darkvision
 AC: 31, touch 14, flat-footed 31 (armor +9, deflection +4, natural +8)
 HP: 101
-HP_extra: 
 HD: 13d8+39
 saves: Fort +10, Ref +4, Will +13
 saves_other: +2 vs. spells

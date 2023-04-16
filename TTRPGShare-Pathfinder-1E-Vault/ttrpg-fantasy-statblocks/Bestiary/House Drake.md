@@ -5,7 +5,7 @@ name: House Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 2
 name: House Drake
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision, scent, see invisibility
 AC: 16, touch 14, flat-footed 14 (dex +2, natural +2, size +2)
 HP: 19
-HP_extra: 
 HD: 2d12+6
 saves: Fort +6, Ref +5, Will +7
 immune: paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: urban (Korvosa)
   - name: Organisation
     desc: solitary, pair, or clutch (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

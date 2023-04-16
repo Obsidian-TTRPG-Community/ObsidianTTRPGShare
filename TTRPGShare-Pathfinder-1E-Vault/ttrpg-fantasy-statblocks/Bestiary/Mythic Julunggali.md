@@ -5,7 +5,7 @@ name: Mythic Julunggali
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 21
 name: Mythic Julunggali
 Monster_XP: 409600
@@ -45,6 +45,7 @@ ecology:
     desc: any land or water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fascination Aura (Su)

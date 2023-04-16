@@ -5,7 +5,7 @@ name: Young Red Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Young Red Dragon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +15
 senses: dragon senses, smoke vision
 AC: 22, touch 10, flat-footed 21 (dex +1, natural +12, size -1)
 HP: 115
-HP_extra: 
 HD: 11d12+44
 saves: Fort +11, Ref +8, Will +10
 immune: fire, paralysis, sleep

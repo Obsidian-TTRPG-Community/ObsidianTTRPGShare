@@ -5,7 +5,7 @@ name: Egophage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 10
 name: Egophage
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +23
 senses: analyze aura, darkvision
 AC: 25, touch 19, flat-footed 17 (dex +7, dodge +1, natural +6, size +1)
 HP: 123
-HP_extra: 
 HD: 13d8+65
 saves: Fort +9, Ref +11, Will +12
 immune: fire, mind-affecting effects
@@ -44,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, brood (4-8), or tribe (10-30)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Body Thief (Su)

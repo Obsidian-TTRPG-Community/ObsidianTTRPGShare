@@ -5,7 +5,7 @@ name: Xanthos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Xanthos
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 31, touch 11, flat-footed 28 (dex +2, dodge +1, natural +20, size -2)
 HP: 195
-HP_extra: 
 HD: 17d10+102
 saves: Fort +15, Ref +12, Will +10
 immune: cold
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Exploit Stellar Conjunction (Su)

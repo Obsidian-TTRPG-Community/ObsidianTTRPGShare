@@ -5,7 +5,7 @@ name: Gnoph-Keh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 46: Wake of the Watcher"
+source: "Pathfinder No. 46: Wake of the Watcher"
 Monster_CR: 11
 name: Gnoph-Keh
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, snow vision
 aura: cold
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +12, Will +11
 immune: cold
@@ -44,6 +43,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary, pair, or gathering (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blizzard (Su)

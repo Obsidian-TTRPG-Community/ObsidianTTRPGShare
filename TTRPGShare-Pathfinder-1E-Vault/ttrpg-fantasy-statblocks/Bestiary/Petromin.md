@@ -5,7 +5,7 @@ name: Petromin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 85: Fires of Creation"
+source: "Pathfinder No. 85: Fires of Creation"
 Monster_CR: 1/3
 name: Petromin
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 speed: 20 ft., fly 40 ft. (poor), climb 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any deserts
   - name: Organisation
     desc: solitary, pair, or gathering (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cloaked (Ex)

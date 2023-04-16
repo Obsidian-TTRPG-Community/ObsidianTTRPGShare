@@ -5,7 +5,7 @@ name: Desert Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Desert Giant
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +9
 senses: low-light vision
 AC: 24, touch 13, flat-footed 20 (armor +2, dex +3, dodge +1, natural +9, size -1)
 HP: 123
-HP_extra: 
 HD: 13d8+65
 saves: Fort +9, Ref +11, Will +5
 immune: fire

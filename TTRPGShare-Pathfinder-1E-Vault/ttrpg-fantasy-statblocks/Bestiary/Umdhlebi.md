@@ -5,7 +5,7 @@ name: Umdhlebi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 41: The Thousand Fangs Below"
+source: "Pathfinder No. 41: The Thousand Fangs Below"
 Monster_CR: 12
 name: Umdhlebi
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +12
 senses: tremorsense
 AC: 27, touch 9, flat-footed 26 (dex +1, natural +18, size -2)
 HP: 178
-HP_extra: 
 HD: 17d8+102
 saves: Fort +15, Ref +8, Will +8
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: tropical forests and jungles
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Compelling Whisper (Su)

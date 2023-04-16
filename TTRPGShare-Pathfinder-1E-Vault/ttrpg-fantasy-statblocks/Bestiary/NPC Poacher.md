@@ -5,7 +5,7 @@ name: NPC Poacher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Poacher
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +1
 perception: +7
 AC: 14, touch 11, flat-footed 13 (armor +3, dex +1)
 HP: 30
-HP_extra: 
 HD: 3d10+9
 saves: Fort +5, Ref +4, Will +2
 speed: 30 ft.

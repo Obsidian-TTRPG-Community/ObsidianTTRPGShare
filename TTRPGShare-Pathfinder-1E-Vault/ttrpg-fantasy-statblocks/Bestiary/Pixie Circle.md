@@ -5,7 +5,7 @@ name: Pixie Circle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 140: Eulogy for Roslar's Coffer"
+source: "Pathfinder No. 140: Eulogy for Roslar's Coffer"
 Monster_CR: 7
 name: Pixie Circle
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: blindsight, low-light vision
 AC: 21, touch 6, flat-footed 21 (dex -2, natural +15, size -2)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +1, Will +7
 immune: plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests and jungles
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Hostile Teleport (Sp)

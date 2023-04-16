@@ -5,7 +5,7 @@ name: Crypt Flower
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Crypt Flower
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: +1
 senses: low-light vision, tremorsense
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 78
-HP_extra: 
 HD: 12d8+24
 saves: Fort +10, Ref +5, Will +5
 immune: plant traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or copse (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Excavate (Ex)

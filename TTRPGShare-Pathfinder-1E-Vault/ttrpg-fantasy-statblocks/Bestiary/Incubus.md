@@ -5,7 +5,7 @@ name: Incubus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Incubus
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +6, Will +8
 immune: electricity, poison

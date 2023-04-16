@@ -5,7 +5,7 @@ name: Archelon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Archelon
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 19, touch 9, flat-footed 18 (armor +10, dex +1, size -2)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +9, Ref +6, Will +5
 speed: 15 ft., swim 50 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm or temperate water or coastlines
   - name: Organisation
     desc: solitary or bale (2-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

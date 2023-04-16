@@ -5,7 +5,7 @@ name: NPC Seer (Medium)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 4
 name: NPC Seer (Medium)
 Monster_XP: 1200
@@ -18,7 +18,6 @@ INI: +1
 perception: +8
 AC: 21, touch 11, flat-footed 20 (armor +7, dex +1, shield +3)
 HP: 22
-HP_extra: 
 HD: 5d8
 saves: Fort +5, Ref +3, Will +8
 speed: 20 ft.

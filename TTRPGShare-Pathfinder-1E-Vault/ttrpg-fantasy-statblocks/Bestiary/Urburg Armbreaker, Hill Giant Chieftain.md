@@ -5,7 +5,7 @@ name: Urburg Armbreaker, Hill Giant Chieftain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 13
 name: Urburg Armbreaker, Hill Giant Chieftain
 Monster_XP: 25600

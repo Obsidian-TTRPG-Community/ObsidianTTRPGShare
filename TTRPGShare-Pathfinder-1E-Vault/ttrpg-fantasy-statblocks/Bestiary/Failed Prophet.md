@@ -5,7 +5,7 @@ name: Failed Prophet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Druma, Profit and Prophecy"
+source: "Druma, Profit and Prophecy"
 Monster_CR: 11
 name: Failed Prophet
 Monster_XP: 12800

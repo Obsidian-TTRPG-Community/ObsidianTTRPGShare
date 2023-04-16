@@ -5,7 +5,7 @@ name: Old-Mage Jatembe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 24
 name: Old-Mage Jatembe
 Monster_XP: 1228800

@@ -5,7 +5,7 @@ name: Izfiitar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 20
 name: Izfiitar
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, detect law, true seeing
 aura: cloak of chaos
 AC: 36, touch 24, flat-footed 26 (dex +10, deflection +4, natural +12)
 HP: 362
-HP_extra: 
 HD: 25d10+225
 saves: Fort +27, Ref +22, Will +26
 immune: acid, polymorph effects
@@ -43,6 +42,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary or chorus (2-3)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Greater Warpwave (Su)

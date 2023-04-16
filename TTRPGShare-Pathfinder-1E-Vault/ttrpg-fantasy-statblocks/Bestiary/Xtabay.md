@@ -5,7 +5,7 @@ name: Xtabay
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Xtabay
 Monster_XP: 200
@@ -16,7 +16,6 @@ INI: +1
 senses: low-light vision, tremorsense
 AC: 12, touch 12, flat-footed 10 (dex +1, size +1)
 HP: 8
-HP_extra: 
 HD: 1d8+4
 saves: Fort +6, Ref +1, Will +1
 immune: acid, plant traits
@@ -33,6 +32,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, copse (3-5), or garden (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Devour (Ex)

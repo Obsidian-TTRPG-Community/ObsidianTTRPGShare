@@ -5,7 +5,7 @@ name: Ice Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Ice Golem
 Monster_XP: 1600
@@ -17,7 +17,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 17, touch 9, flat-footed 17 (dex -1, natural +8)
 HP: 53
-HP_extra: 
 HD: 6d10+20
 saves: Fort +2, Ref +1, Will +2
 immune: construct traits, cold, magic
@@ -36,6 +35,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cold (Ex)

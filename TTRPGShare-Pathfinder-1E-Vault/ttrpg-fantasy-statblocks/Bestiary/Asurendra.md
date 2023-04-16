@@ -5,7 +5,7 @@ name: Asurendra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Asurendra
 Monster_XP: 307200
@@ -47,6 +47,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Curse of False Wisdom (Su)

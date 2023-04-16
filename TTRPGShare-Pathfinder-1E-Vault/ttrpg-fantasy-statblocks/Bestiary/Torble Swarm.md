@@ -5,7 +5,7 @@ name: Torble Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 25: The Bastards of Erebus"
+source: "Pathfinder No. 25: The Bastards of Erebus"
 Monster_CR: 2
 name: Torble Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsight, darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, size +2)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +3, Ref +3, Will +3
 immune: acid, swarm traits, weapon damage

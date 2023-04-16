@@ -5,7 +5,7 @@ name: Cutlass Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Cutlass Spider
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 19, touch 12, flat-footed 16 (dex +3, natural +7, size -1)
 HP: 74
-HP_extra: 
 HD: 8d10+30
 saves: Fort +2, Ref +5, Will +2
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Collapse (Su)

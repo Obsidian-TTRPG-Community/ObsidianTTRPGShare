@@ -5,7 +5,7 @@ name: Bushyasta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 6
 name: Bushyasta
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, detect good, detect magic, see in darkness
 AC: 19, touch 15, flat-footed 14 (dex +5, natural +4)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +7, Will +9
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abbadon)
   - name: Organisation
     desc: solitary, pair, or gathering (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Faded (Su)

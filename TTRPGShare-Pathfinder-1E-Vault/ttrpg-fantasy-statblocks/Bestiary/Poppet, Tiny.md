@@ -5,7 +5,7 @@ name: Poppet, Tiny
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Adventurer's Armory 2"
+source: "Adventurer's Armory 2"
 Monster_CR: 1/3
 name: Poppet, Tiny
 Monster_XP: 135
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +0, Ref +2, Will -3
 immune: construct traits

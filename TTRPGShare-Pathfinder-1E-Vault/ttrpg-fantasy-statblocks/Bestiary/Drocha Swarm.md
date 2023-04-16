@@ -5,7 +5,7 @@ name: Drocha Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 75: Demon's Heresy"
+source: "Pathfinder No. 75: Demon's Heresy"
 Monster_CR: 7
 name: Drocha Swarm
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: fear
 AC: 20, touch 20, flat-footed 16 (deflection +4, dex +4, size +2)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +7, Will +8
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ghost Touch Jaws (Su)

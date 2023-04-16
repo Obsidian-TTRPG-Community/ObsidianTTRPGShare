@@ -5,7 +5,7 @@ name: Winter Wolf
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Winter Wolf
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +6, Will +3
 immune: cold
@@ -44,6 +43,7 @@ ecology:
     desc: cold forests and plains
   - name: Organisation
     desc: solitary, pair, or pack (6-11)
+  - name: Treasure
     desc: standard
 sources:
   - name: Pathfinder RPG Bestiary

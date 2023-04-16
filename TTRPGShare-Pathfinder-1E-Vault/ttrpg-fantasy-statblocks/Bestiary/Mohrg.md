@@ -5,7 +5,7 @@ name: Mohrg
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Mohrg
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision
 AC: 23, touch 15, flat-footed 18 (dex +4, dodge +1, natural +8)
 HP: 91
-HP_extra: 
 HD: 14d8+28
 saves: Fort +6, Ref +10, Will +9
 immune: undead traits
@@ -35,6 +34,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, gang (2-4), or mob (2-4 plus 4-12 zombies)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

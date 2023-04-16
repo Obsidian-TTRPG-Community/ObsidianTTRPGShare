@@ -5,7 +5,7 @@ name: Tyrannosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Tyrannosaurus
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +37
 senses: low-light vision, scent
 AC: 21, touch 7, flat-footed 20 (dex +1, natural +14, size -4)
 HP: 153
-HP_extra: 
 HD: 18d8+72
 saves: Fort +15, Ref +12, Will +10
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm forest and plains
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Powerful Bite (Ex)

@@ -5,7 +5,7 @@ name: Delgeth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Delgeth
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +8, Will +3
 immune: fire
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or family (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fight with Fire (Su)

@@ -5,7 +5,7 @@ name: Cockroach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Cockroach
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 16, touch 16, flat-footed 14 (dex +2, size +4)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +2, Will +0
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or swarm (3-60)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

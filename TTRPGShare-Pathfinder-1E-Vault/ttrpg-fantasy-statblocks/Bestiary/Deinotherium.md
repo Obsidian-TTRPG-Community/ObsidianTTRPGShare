@@ -5,7 +5,7 @@ name: Deinotherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Deinotherium
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 19, touch 7, flat-footed 19 (dex -1, natural +12, size -2)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +12, Ref +5, Will +5
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any forests or plains
   - name: Organisation
     desc: solitary, pair, or family (2 adults and 1 calf)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sweep (Ex)

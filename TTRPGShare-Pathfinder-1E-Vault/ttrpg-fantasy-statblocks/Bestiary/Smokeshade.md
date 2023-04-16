@@ -5,7 +5,7 @@ name: Smokeshade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Nidal, Land of Shadows"
+source: "Nidal, Land of Shadows"
 Monster_CR: 2
 name: Smokeshade
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 15, touch 15, flat-footed 13 (deflection +1, dex +2, size +2)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +5, Will +5
 defensive_abilities: amorphous
@@ -40,6 +39,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cloying Shade (Su)

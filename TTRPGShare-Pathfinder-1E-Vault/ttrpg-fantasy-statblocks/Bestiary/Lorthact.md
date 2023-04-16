@@ -5,7 +5,7 @@ name: Lorthact
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 25
 name: Lorthact
 Monster_XP: 1638400
@@ -48,6 +48,7 @@ ecology:
     desc: any (Korvosa)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Infernal Duke Traits

@@ -5,7 +5,7 @@ name: Akhlut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Akhlut
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision, scent, snow vision
 AC: 30, touch 11, flat-footed 27 (dex +2, dodge +1, natural +19, size -2)
 HP: 189
-HP_extra: 
 HD: 18d10+90
 saves: Fort +16, Ref +13, Will +10
 immune: cold
@@ -45,6 +44,7 @@ ecology:
     desc: cold lakes, plains, or oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Savage Bite (Ex)

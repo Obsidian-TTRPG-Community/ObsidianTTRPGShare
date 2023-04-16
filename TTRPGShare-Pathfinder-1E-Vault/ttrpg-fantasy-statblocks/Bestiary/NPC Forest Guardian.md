@@ -5,7 +5,7 @@ name: NPC Forest Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Forest Guardian
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +12
 senses: low-light vision
 AC: 17, touch 12, flat-footed 13 (armor +5, dex +4, rage -2)
 HP: 68
-HP_extra: 
 HD: 6d12+24
 saves: Fort +8, Ref +6, Will +5
 saves_other: +2 vs. enchantments

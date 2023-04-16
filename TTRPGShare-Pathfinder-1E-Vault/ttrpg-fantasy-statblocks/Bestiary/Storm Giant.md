@@ -5,7 +5,7 @@ name: Storm Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Storm Giant
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +27
 senses: low-light vision
 AC: 28, touch 10, flat-footed 26 (armor +6, dex +2, natural +12, size -2)
 HP: 199
-HP_extra: 
 HD: 19d8+114
 saves: Fort +17, Ref +8, Will +13
 immune: electricity

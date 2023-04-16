@@ -5,7 +5,7 @@ name: Adult Edict Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 16
 name: Adult Edict Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 32, touch 7, flat-footed 32 (dex -1, natural +23, shield +2, size -2)
 HP: 270
-HP_extra: 
 HD: 20d10+140
 saves: Fort +19, Ref +13, Will +19
 immune: disease, fear, paralysis, poison, sleep

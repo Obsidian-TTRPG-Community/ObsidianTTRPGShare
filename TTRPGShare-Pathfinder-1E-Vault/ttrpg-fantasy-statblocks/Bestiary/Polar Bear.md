@@ -5,7 +5,7 @@ name: Polar Bear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Polar Bear
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 52
-HP_extra: 
 HD: 5d8+30
 saves: Fort +10, Ref +7, Will +4
 speed: 40 ft., swim 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: cold coastlines or plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

@@ -5,7 +5,7 @@ name: Drow House Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Drow House Guard
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 24
-HP_extra: 
 HD: 3d10+3
 saves: Fort +3, Ref +4, Will +2
 saves_other: +2 vs. enchantment

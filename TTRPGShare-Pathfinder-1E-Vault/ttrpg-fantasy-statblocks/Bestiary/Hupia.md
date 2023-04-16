@@ -5,7 +5,7 @@ name: Hupia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Hupia
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, fear sense
 AC: 19, touch 16, flat-footed 13 (dex +5, dodge +1, natural +3)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +8, Will +10
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gathering (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Charisma Drain (Su)

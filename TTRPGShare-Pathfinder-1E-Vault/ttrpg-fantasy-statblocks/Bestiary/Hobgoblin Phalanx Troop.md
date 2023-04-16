@@ -5,7 +5,7 @@ name: Hobgoblin Phalanx Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 10
 name: Hobgoblin Phalanx Troop
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision
 AC: 25, touch 14, flat-footed 21 (armor +9, dex +4, shield +2)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +13, Ref +8, Will +12
 defensive_abilities: close ranks, troop traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or legion (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Close Ranks (Ex)

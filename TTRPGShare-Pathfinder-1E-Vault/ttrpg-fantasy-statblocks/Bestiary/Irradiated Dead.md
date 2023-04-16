@@ -5,7 +5,7 @@ name: Irradiated Dead
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 87: The Choking Tower"
+source: "Pathfinder No. 87: The Choking Tower"
 Monster_CR: 7
 name: Irradiated Dead
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 19, touch 14, flat-footed 15 (dex +3, dodge +1, natural +5)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +6, Ref +6, Will +9
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Create Spawn (Su)

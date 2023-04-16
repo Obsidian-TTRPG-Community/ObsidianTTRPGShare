@@ -5,7 +5,7 @@ name: Spirit Oni
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Spirit Oni
 Monster_XP: 600
@@ -37,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or rack (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Mask Symbiosis (Ex)

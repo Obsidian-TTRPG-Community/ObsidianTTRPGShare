@@ -5,7 +5,7 @@ name: NPC Undead Creator
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Undead Creator
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +4
 senses: darkvision, see invisibility
 AC: 16, touch 11, flat-footed 15 (armor +4, dex +1, natural +1)
 HP: 100
-HP_extra: 
 HD: 11d6+59
 saves: Fort +10, Ref +6, Will +10
 resist: fire 30

@@ -5,7 +5,7 @@ name: Shasalqu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Shasalqu
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: trapping cold
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +6, Will +2
 immune: fire
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Frigid Flesh (Ex)

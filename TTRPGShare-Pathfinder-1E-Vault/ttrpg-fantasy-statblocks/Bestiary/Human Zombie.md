@@ -5,7 +5,7 @@ name: Human Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Human Zombie
 Monster_XP: 200
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision
 AC: 12, touch 10, flat-footed 12 (natural +2)
 HP: 12
-HP_extra: 
 HD: 2d8+3
 saves: Fort +0, Ref +0, Will +3
 immune: undead traits
@@ -35,6 +34,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: any
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

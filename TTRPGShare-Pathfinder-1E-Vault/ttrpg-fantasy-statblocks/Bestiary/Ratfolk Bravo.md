@@ -5,7 +5,7 @@ name: Ratfolk Bravo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Ratfolk Bravo
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +10
 senses: darkvision
 AC: 18, touch 15, flat-footed 14 (armor +3, dex +3, dodge +1, size +1)
 HP: 24
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +6, Will +3
 defensive_abilities: nimble +1

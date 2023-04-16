@@ -5,7 +5,7 @@ name: Kyrana
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Kyrana
 Monster_XP: 800
@@ -38,6 +38,7 @@ ecology:
     desc: any underground or warm deserts
   - name: Organisation
     desc: solitary, pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fiery Regeneration (Su)

@@ -5,7 +5,7 @@ name: Agmazar the Star Titan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 26
 name: Agmazar the Star Titan
 Monster_XP: 2457600

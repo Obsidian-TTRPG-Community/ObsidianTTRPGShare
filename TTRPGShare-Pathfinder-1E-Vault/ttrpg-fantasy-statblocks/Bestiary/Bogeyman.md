@@ -5,7 +5,7 @@ name: Bogeyman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Bogeyman
 Monster_XP: 9600
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Deepest Fear (Su)

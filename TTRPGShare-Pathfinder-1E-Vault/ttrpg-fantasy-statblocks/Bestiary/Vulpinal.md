@@ -5,7 +5,7 @@ name: Vulpinal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Vulpinal
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision
 aura: calm emotions
 AC: 22, touch 14, flat-footed 19 (armor +4, dex +3, natural +4, size +1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +5, Ref +10, Will +7
 saves_other: +4 vs. poison

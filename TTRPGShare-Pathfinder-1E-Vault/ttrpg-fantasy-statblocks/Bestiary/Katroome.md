@@ -5,7 +5,7 @@ name: Katroome
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Gallows of Madness"
+source: "Gallows of Madness"
 Monster_CR: 1
 name: Katroome
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +5, Will +2
 speed: 20 ft., climb 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

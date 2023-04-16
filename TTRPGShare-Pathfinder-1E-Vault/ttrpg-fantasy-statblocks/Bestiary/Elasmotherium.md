@@ -5,7 +5,7 @@ name: Elasmotherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Elasmotherium
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +17
 senses: low-light vision, scent
 AC: 23, touch 8, flat-footed 23 (natural +15, size -2)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +15, Ref +7, Will +8
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests or plains
   - name: Organisation
     desc: solitary, pair, or herd (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Impaling Horn (Ex)

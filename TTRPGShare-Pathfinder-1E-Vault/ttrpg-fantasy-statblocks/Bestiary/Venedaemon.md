@@ -5,7 +5,7 @@ name: Venedaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Venedaemon
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: arcane sight, darkvision
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +5, Ref +7, Will +8
 immune: acid, death effects, disease, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or cabal (3-6 plus 2-12 cacodaemons)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Command Cacodaemon (Sp)

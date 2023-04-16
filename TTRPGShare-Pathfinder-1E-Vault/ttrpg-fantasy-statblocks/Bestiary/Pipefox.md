@@ -5,7 +5,7 @@ name: Pipefox
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Pipefox
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 17, touch 17, flat-footed 13 (dex +3, size +4)
 HP: 13
-HP_extra: 
 HD: 3d10-3
 saves: Fort +2, Ref +6, Will +1
 speed: 30 ft., climb 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

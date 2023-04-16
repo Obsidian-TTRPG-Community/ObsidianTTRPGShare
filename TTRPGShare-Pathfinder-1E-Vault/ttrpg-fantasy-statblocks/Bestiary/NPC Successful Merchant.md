@@ -5,7 +5,7 @@ name: NPC Successful Merchant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Successful Merchant
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: -1
 perception: +13
 AC: 10, touch 9, flat-footed 10 (armor +1, dex -1)
 HP: 31
-HP_extra: 
 HD: 7d8
 saves: Fort +3, Ref +2, Will +9
 speed: 30 ft.

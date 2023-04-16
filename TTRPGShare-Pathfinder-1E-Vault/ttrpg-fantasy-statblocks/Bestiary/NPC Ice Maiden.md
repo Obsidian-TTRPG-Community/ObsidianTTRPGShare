@@ -5,7 +5,7 @@ name: NPC Ice Maiden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Ice Maiden
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +20
 senses: blindsense, low-light vision
 AC: 32, touch 18, flat-footed 28 (armor +4, deflection +3, dex +3, dodge +1, insight +1, natural +10)
 HP: 222
-HP_extra: 
 HD: 10d6+10d12+120
 saves: Fort +18, Ref +12, Will +17
 saves_other: +2 vs. enchantments

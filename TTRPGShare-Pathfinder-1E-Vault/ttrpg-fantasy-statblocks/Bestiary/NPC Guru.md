@@ -5,7 +5,7 @@ name: NPC Guru
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Guru
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 10, touch 10, flat-footed 10
 HP: 27
-HP_extra: 
 HD: 6d6+6
 saves: Fort +7, Ref +2, Will +8
 saves_other: +2 vs. poison, spells, and spell-like abilities

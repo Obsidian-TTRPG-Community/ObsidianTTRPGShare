@@ -5,7 +5,7 @@ name: Gongorinan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Gongorinan
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision
 AC: 27, touch 17, flat-footed 20 (dex +6, dodge +1, natural +10)
 HP: 137
-HP_extra: 
 HD: 11d10+77
 saves: Fort +14, Ref +13, Will +7
 immune: acid, cold, mind-affecting effects, polymorph effects

@@ -5,7 +5,7 @@ name: Lamia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Lamia
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 16 (dex +3, dodge +1, natural +7, size -1)
 HP: 67
-HP_extra: 
 HD: 9d10+18
 saves: Fort +7, Ref +9, Will +11
 speed: 60 ft.

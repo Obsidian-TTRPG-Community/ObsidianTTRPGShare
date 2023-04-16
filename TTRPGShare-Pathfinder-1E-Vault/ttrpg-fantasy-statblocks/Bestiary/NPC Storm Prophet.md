@@ -5,7 +5,7 @@ name: NPC Storm Prophet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Storm Prophet
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +10
 senses: darkvision
 AC: 19, touch 12, flat-footed 18 (armor +4, deflection +1, dex +1, natural +3)
 HP: 80
-HP_extra: 
 HD: 7d6+2d12+40
 saves: Fort +9, Ref +5, Will +7
 saves_other: +2 vs. poison, spells, and spell-like abilities

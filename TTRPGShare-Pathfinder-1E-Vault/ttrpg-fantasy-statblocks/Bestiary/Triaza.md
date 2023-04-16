@@ -5,7 +5,7 @@ name: Triaza
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 10
 name: Triaza
 Monster_XP: 9600

@@ -5,7 +5,7 @@ name: Hammer Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 107: Scourge of the Godclaw"
+source: "Pathfinder No. 107: Scourge of the Godclaw"
 Monster_CR: 18
 name: Hammer Archon
 Monster_XP: 153600

@@ -5,7 +5,7 @@ name: Leonal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Leonal
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, scent
 aura: protective aura
 AC: 27, touch 14, flat-footed 23 (dex +3, dodge +1, natural +13)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +12, Will +6
 saves_other: +4 vs. poison, +4 resistance vs. evil
@@ -46,6 +45,7 @@ ecology:
     desc: any land (Nirvana)
   - name: Organisation
     desc: solitary, pair, or pride (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Protective Aura (Su)

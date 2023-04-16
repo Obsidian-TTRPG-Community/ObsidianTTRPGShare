@@ -5,7 +5,7 @@ name: Goliath Stag Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Goliath Stag Beetle
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 21, touch 8, flat-footed 21 (natural +13, size -2)
 HP: 104
-HP_extra: 
 HD: 11d8+55
 saves: Fort +12, Ref +3, Will +3
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or herd (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

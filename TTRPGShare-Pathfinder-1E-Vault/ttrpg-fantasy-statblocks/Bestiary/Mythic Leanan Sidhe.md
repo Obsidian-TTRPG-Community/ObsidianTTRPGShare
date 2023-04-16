@@ -5,7 +5,7 @@ name: Mythic Leanan Sidhe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Mythic Leanan Sidhe
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +19
 senses: low-light vision
 AC: 25, touch 19, flat-footed 21 (deflection +5, dex +3, dodge +1, natural +6)
 HP: 100
-HP_extra: 
 HD: 11d6+62
 saves: Fort +12, Ref +15, Will +13
 DR: 10/cold iron and epic

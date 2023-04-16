@@ -5,7 +5,7 @@ name: Young Edict Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 131: The Reaper's Right Hand"
+source: "Pathfinder No. 131: The Reaper's Right Hand"
 Monster_CR: 12
 name: Young Edict Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +22
 senses: dragon senses
 AC: 25, touch 9, flat-footed 25 (natural +14, shield +2, size -1)
 HP: 161
-HP_extra: 
 HD: 14d12+70
 saves: Fort +14, Ref +9, Will +14
 immune: disease, fear, paralysis, poison, sleep

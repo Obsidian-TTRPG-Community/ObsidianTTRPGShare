@@ -5,7 +5,7 @@ name: Bagman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 105: The Inferno Gate"
+source: "Pathfinder No. 105: The Inferno Gate"
 Monster_CR: 4
 name: Bagman
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: find children, low-light vision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 45
-HP_extra: 
 HD: 7d6+21
 saves: Fort +5, Ref +7, Will +6
 DR: 5/cold iron

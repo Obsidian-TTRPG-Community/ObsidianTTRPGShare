@@ -5,7 +5,7 @@ name: Bogwid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 62: Curse of the Lady's Light"
+source: "Pathfinder No. 62: Curse of the Lady's Light"
 Monster_CR: 5
 name: Bogwid
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: revolting aura
 AC: 19, touch 14, flat-footed 15 (dex +4, natural +5)
 HP: 47
-HP_extra: 
 HD: 5d8+25
 saves: Fort +5, Ref +5, Will +1
 resist: acid 5, cold 5
@@ -39,6 +38,7 @@ ecology:
     desc: any swamps or underground
   - name: Organisation
     desc: solitary or clutch (1 adult plus 2-8 adolescents)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

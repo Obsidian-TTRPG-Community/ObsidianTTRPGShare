@@ -5,7 +5,7 @@ name: Draugr Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 4
 name: Draugr Captain
 Monster_XP: 1200

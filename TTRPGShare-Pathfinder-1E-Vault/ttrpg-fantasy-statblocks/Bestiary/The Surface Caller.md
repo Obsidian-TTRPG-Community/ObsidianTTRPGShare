@@ -5,7 +5,7 @@ name: The Surface Caller
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 7
 name: The Surface Caller
 Monster_XP: 3200

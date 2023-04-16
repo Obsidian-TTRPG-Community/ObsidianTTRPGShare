@@ -5,7 +5,7 @@ name: Mute Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Harrowing"
+source: "The Harrowing"
 Monster_CR: 11
 name: Mute Hag
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +21
 senses: blindsight, scent
 AC: 24, touch 15, flat-footed 19 (dex +5, natural +9)
 HP: 175
-HP_extra: 
 HD: 14d10+84
 saves: Fort +12, Ref +14, Will +13
 immune: cold, acid, charm, fear, gaze attacks, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: cold plains, forests, and marshes
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blind and Mute (Ex)

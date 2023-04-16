@@ -5,7 +5,7 @@ name: Amanusya
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 6
 name: Amanusya
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 66
-HP_extra: 
 HD: 7d10+28
 saves: Fort +6, Ref +9, Will +6
 DR: 5/good or piercing
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or troupe (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Beguiling Dance (Ex)

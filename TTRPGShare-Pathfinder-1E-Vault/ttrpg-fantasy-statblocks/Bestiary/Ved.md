@@ -5,7 +5,7 @@ name: Ved
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Ved
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +6
 senses: low-light vision
 AC: 16, touch 8, flat-footed 16 (dex -1, natural +8, size -1)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +7, Ref +1, Will +6
 speed: 30 ft.
@@ -41,6 +40,7 @@ ecology:
     desc: cold hills or mountains
   - name: Organisation
     desc: solitary, pair, gang (3-5), or clan (6-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gale Breath (Su)

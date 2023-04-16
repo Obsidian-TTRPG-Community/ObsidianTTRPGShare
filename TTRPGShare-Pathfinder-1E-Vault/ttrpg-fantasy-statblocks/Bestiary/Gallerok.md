@@ -5,7 +5,7 @@ name: Gallerok
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 2
 name: Gallerok
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +4
 senses: blindsight, low-light vision
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +5, Will +1
 speed: 30 ft., climb 20 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or coil (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Glide (Ex)

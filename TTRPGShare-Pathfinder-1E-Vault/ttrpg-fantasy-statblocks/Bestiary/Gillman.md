@@ -5,7 +5,7 @@ name: Gillman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 1/3
 name: Gillman
 Monster_XP: 135
@@ -19,7 +19,6 @@ INI: +1
 perception: +2
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 6
-HP_extra: 
 HD: 1d10+1
 saves: Fort +3, Ref +1, Will -1
 saves_other: +2 vs. enchantment

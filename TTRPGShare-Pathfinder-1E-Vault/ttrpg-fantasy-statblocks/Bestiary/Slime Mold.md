@@ -5,7 +5,7 @@ name: Slime Mold
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Slime Mold
 Monster_XP: 600
@@ -15,7 +15,6 @@ type: ooze
 INI: -1
 AC: 8, touch 8, flat-footed 8 (dex -1, size -1)
 HP: 28
-HP_extra: 
 HD: 3d8+15
 saves: Fort +6, Ref +0, Will -4
 immune: ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: single or infestation (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

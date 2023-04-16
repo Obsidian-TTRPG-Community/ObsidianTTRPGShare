@@ -5,7 +5,7 @@ name: Hodag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Hodag
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 60
-HP_extra: 
 HD: 8d10+16
 saves: Fort +8, Ref +8, Will +5
 defensive_abilities: ferocity
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests or marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Spiked Tail (Ex)

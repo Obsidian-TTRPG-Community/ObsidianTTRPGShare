@@ -5,7 +5,7 @@ name: Tarn Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 20
 name: Tarn Linnorm
 Monster_XP: 307200
@@ -45,6 +45,7 @@ ecology:
     desc: cold lakes and swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: All-Around Vision (Ex)

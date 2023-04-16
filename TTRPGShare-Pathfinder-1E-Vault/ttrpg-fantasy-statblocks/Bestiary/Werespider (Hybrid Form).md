@@ -5,7 +5,7 @@ name: Werespider (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 2
 name: Werespider (Hybrid Form)
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, tremorsense
 AC: 19, touch 14, flat-footed 15 (armor +3, dex +4, natural +2)
 HP: 20
-HP_extra: 
 HD: 2d8+8
 saves: Fort +3, Ref +7, Will +4
 saves_other: +4 vs. mind-affecting effects

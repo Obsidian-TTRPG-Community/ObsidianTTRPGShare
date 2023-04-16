@@ -5,7 +5,7 @@ name: Flowering Lattice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Flowering Lattice
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +1, Will +1
 immune: plant traits
@@ -36,6 +35,7 @@ ecology:
     desc: temperate or warm hills
   - name: Organisation
     desc: solitary, pair, or bloom (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bountiful Fruits (Ex)

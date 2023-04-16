@@ -5,7 +5,7 @@ name: NPC Besmaran Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 4
 name: NPC Besmaran Priest
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +5
 perception: +3
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +1, dodge +1)
 HP: 33
-HP_extra: 
 HD: 5d8+7
 saves: Fort +5, Ref +2, Will +7
 speed: 30 ft.

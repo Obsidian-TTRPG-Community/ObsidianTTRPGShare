@@ -5,7 +5,7 @@ name: Zana
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 107: Scourge of the Godclaw"
+source: "Pathfinder No. 107: Scourge of the Godclaw"
 Monster_CR: 14
 name: Zana
 Monster_XP: 38400
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: protective aura
 AC: 26, touch 18, flat-footed 23 (armor +8, deflection +5, dex +3)
 HP: 170
-HP_extra: 
 HD: 20d6+100
 saves: Fort +15, Ref +20, Will +20
 immune: charm, fear
@@ -39,6 +38,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Fighter Training (Ex)

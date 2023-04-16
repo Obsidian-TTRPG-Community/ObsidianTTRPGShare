@@ -5,7 +5,7 @@ name: Verdurous Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 35: War of the River Kings"
+source: "Pathfinder No. 35: War of the River Kings"
 Monster_CR: 6
 name: Verdurous Ooze
 Monster_XP: 2400
@@ -18,7 +18,6 @@ senses: blindsight, tremorsense
 aura: enliven, sleep aura
 AC: 5, touch 5, flat-footed 5 (dex -5)
 HP: 85
-HP_extra: 
 HD: 9d8+54
 saves: Fort +9, Ref -2, Will -2
 immune: acid, fire, mind-affecting effects, ooze traits, slashing and piercing damage
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forest or plains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid (Ex)

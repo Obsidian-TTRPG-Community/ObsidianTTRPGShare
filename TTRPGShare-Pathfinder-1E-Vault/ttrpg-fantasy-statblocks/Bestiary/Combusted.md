@@ -5,7 +5,7 @@ name: Combusted
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Combusted
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: howl of agony, stench
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +2, Ref +4, Will +5
 immune: fire, undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or effigy (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Combustion (Su)

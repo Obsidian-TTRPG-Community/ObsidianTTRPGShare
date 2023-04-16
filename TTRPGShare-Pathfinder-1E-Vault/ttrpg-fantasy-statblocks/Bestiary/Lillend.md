@@ -5,7 +5,7 @@ name: Lillend
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Lillend
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision, darkvision
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +7, Ref +10, Will +10
 immune: electricity, petrification, poison

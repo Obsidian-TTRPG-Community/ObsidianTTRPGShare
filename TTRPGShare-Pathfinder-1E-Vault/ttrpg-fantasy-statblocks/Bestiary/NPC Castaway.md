@@ -5,7 +5,7 @@ name: NPC Castaway
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Castaway
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +17
 senses: darkvision
 AC: 21, touch 15, flat-footed 17 (armor +3, deflection +1, dex +3, dodge +1, shield +3)
 HP: 79
-HP_extra: 
 HD: 12d8+22
 saves: Fort +11, Ref +9, Will +14
 saves_other: +4 vs. fey and plant-targeted effects

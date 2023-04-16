@@ -5,7 +5,7 @@ name: Clockwork Angel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Clockwork Angel
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 29, touch 21, flat-footed 18 (dex +9, dodge +2, natural +8)
 HP: 210
-HP_extra: 
 HD: 20d10+100
 saves: Fort +6, Ref +17, Will +6
 immune: construct traits

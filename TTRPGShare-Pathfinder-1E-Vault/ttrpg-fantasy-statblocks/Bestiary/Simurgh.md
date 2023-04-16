@@ -5,7 +5,7 @@ name: Simurgh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 18
 name: Simurgh
 Monster_XP: 153600
@@ -18,7 +18,6 @@ senses: darkvision, detect evil, detect magic, low-light vision
 aura: peace
 AC: 34, touch 10, flat-footed 30 (dex +3, dodge +1, natural +24, size -4)
 HP: 324
-HP_extra: 
 HD: 24d10+192
 saves: Fort +22, Ref +17, Will +14
 immune: ability damage, ability drain, disease, fire, negative energy, petrification, poison, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: warm deserts or mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Peace (Su)

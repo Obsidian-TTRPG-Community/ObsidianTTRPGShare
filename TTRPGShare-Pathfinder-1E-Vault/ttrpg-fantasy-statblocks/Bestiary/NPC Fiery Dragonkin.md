@@ -5,7 +5,7 @@ name: NPC Fiery Dragonkin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Fiery Dragonkin
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +18
 senses: darkvision
 AC: 26, touch 14, flat-footed 26 (armor +8, deflection +3, insight +1, natural +4)
 HP: 147
-HP_extra: 
 HD: 17d6+85
 saves: Fort +15, Ref +9, Will +14
 saves_other: +2 vs. poison, spells, and spell-like abilities

@@ -5,7 +5,7 @@ name: Ijiraq
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Ijiraq
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +21
 senses: low-light vision
 AC: 25, touch 13, flat-footed 22 (dex +2, dodge +1, natural +12)
 HP: 105
-HP_extra: 
 HD: 14d6+56
 saves: Fort +8, Ref +13, Will +13
 speed: 30 ft.

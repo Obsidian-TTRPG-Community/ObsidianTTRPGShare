@@ -5,7 +5,7 @@ name: Empusa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 13
 name: Empusa
 Monster_XP: 25600
@@ -42,6 +42,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or vengeance (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lash (Su)

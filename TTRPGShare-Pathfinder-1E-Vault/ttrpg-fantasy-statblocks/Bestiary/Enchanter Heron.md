@@ -5,7 +5,7 @@ name: Enchanter Heron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 121: The Lost Outpost"
+source: "Pathfinder No. 121: The Lost Outpost"
 Monster_CR: 3
 name: Enchanter Heron
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 15, touch 11, flat-footed 13 (dex +1, dodge +1, natural +4, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +5, Will +2
 speed: 30 ft., fly 20 ft. (average)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate rivers and coasts
   - name: Organisation
     desc: solitary or flock (4-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Throat Sac (Ex)

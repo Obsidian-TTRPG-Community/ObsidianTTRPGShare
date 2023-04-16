@@ -5,7 +5,7 @@ name: Earth Wysp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Earth Wysp
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision, tremorsense
 aura: resonance
 AC: 14, touch 13, flat-footed 13 (dex +1, natural +1, size +2)
 HP: 25
-HP_extra: 
 HD: 3d10+9
 saves: Fort +5, Ref +4, Will +2
 immune: elemental traits

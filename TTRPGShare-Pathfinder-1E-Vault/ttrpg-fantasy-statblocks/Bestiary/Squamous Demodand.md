@@ -5,7 +5,7 @@ name: Squamous Demodand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 20
 name: Squamous Demodand
 Monster_XP: 307200
@@ -18,7 +18,6 @@ perception: +43
 senses: blindsense, darkvision, detect good, detect magic, true seeing
 AC: 36, touch 13, flat-footed 29 (dex +7, natural +23, size -4)
 HP: 362
-HP_extra: 
 HD: 29d10+203
 saves: Fort +23, Ref +23, Will +16
 immune: acid, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or battalion (2-5 plus 1 shaggy demodand plus 3-12 tarry demodands)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Abyssal Roar (Su)

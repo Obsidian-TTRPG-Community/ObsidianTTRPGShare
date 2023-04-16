@@ -5,7 +5,7 @@ name: NPC War Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC War Priest
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +4
 senses: darkvision
 AC: 15, touch 10, flat-footed 15 (armor +5)
 HP: 21
-HP_extra: 
 HD: 2d8+9
 saves: Fort +5, Ref +0, Will +6
 saves_other: +2 vs. poison, spells, and spell-like abilities

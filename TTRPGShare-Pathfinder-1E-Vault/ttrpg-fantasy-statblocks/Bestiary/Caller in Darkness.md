@@ -5,7 +5,7 @@ name: Caller in Darkness
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Caller in Darkness
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: unnatural aura
 AC: 20, touch 20, flat-footed 12 (deflection +3, dex +7, dodge +1, size -1)
 HP: 97
-HP_extra: 
 HD: 13d8+39
 saves: Fort +7, Ref +11, Will +10
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Consume Mind (Su)

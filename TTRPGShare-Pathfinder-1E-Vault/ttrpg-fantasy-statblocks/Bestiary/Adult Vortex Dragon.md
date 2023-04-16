@@ -5,7 +5,7 @@ name: Adult Vortex Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Adult Vortex Dragon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 30, touch 9, flat-footed 29 (dex +1, natural +21, size -2)
 HP: 195
-HP_extra: 
 HD: 17d12+85
 saves: Fort +17, Ref +13, Will +14
 immune: fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

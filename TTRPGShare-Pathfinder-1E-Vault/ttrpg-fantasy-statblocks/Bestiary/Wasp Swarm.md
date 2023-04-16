@@ -5,7 +5,7 @@ name: Wasp Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Wasp Swarm
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 31
-HP_extra: 
 HD: 7d8
 saves: Fort +5, Ref +3, Will +3
 immune: weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, fury (3-6 swarms), maelstrom (7-12 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

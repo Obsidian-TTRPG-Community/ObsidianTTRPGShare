@@ -5,7 +5,7 @@ name: Helicoprion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 6
 name: Helicoprion
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: blindsense, keen scent
 AC: 19, touch 13, flat-footed 15 (dex +4, natural +6, size -1)
 HP: 68
-HP_extra: 
 HD: 8d8+32
 saves: Fort +12, Ref +12, Will +3
 speed: swim 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate oceans
   - name: Organisation
     desc: solitary, pair, school (3-
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Whorled Jaw (Ex)

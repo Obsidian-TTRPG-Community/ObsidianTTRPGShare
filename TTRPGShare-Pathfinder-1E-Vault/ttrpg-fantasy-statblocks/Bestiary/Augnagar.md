@@ -5,7 +5,7 @@ name: Augnagar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Augnagar
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +22
 senses: blindsight, darkvision, scent, true seeing
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 203
-HP_extra: 
 HD: 14d10+126
 saves: Fort +18, Ref +10, Will +9
 immune: cold, poison, mind-affecting effects
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Horrific Appearance (Su)

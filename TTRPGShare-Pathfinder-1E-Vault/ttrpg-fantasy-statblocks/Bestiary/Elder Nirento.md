@@ -5,7 +5,7 @@ name: Elder Nirento
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 6
 name: Elder Nirento
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: blindsight, low-light vision
 AC: 20, touch 10, flat-footed 18 (dex +2, natural +10, size -2)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +10, Ref +7, Will +2
 immune: bludgeoning weapons, plant traits, sonic

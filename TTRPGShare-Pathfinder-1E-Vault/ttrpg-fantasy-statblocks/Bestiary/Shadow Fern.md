@@ -5,7 +5,7 @@ name: Shadow Fern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Nidal, Land of Shadows"
+source: "Nidal, Land of Shadows"
 Monster_CR: 4
 name: Shadow Fern
 Monster_XP: 1200
@@ -34,6 +34,7 @@ ecology:
     desc: any forests or underground
   - name: Organisation
     desc: solitary, pair, or patch (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

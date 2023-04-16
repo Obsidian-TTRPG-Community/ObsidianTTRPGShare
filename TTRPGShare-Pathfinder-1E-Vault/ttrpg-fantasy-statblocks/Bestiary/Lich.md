@@ -5,7 +5,7 @@ name: Lich
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 12
 name: Lich
 Monster_XP: 19200
@@ -21,7 +21,6 @@ senses: darkvision, life sight
 aura: fear
 AC: 23, touch 14, flat-footed 21 (armor +4, deflection +2, dex +2, natural +5)
 HP: 111
-HP_extra: 
 HD: 11d6+55 plus 15 false life
 saves: Fort +6, Ref +7, Will +11
 immune: cold, electricity, undead traits

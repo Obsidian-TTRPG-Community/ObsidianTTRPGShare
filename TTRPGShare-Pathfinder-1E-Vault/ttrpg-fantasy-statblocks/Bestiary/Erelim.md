@@ -5,7 +5,7 @@ name: Erelim
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 104: Wrath of Thrune"
+source: "Pathfinder No. 104: Wrath of Thrune"
 Monster_CR: 6
 name: Erelim
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, detect evil
 aura: protective aura
 AC: 18, touch 13, flat-footed 15 (dex +3, natural +5)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +5, Will +8
 saves_other: +4 vs. poison, +4 resistance vs. evil

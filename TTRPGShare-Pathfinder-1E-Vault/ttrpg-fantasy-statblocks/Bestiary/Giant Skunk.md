@@ -5,7 +5,7 @@ name: Giant Skunk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Giant Skunk
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +5, Ref +7, Will +2
 speed: 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Musk (Ex)

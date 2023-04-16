@@ -5,7 +5,7 @@ name: Ratfolk Expedition Leader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Ratfolk Expedition Leader
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +14
 senses: low-light vision
 AC: 20, touch 15, flat-footed 16 (armor +4, dex +3, dodge +1, shield +1, size +1)
 HP: 72
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +10, Will +4
 speed: 30 ft.

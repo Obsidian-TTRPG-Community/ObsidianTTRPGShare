@@ -5,7 +5,7 @@ name: Clockwork Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Clockwork Guardian
 Monster_XP: 4800
@@ -17,7 +17,6 @@ INI: +6
 senses: darkvision, low-light vision
 AC: 22, touch 14, flat-footed 18 (dex +2, dodge +2, natural +6, shield +2)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +3, Ref +7, Will +3
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or blockade (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Barrier (Su)

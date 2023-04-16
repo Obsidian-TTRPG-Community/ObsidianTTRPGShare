@@ -5,7 +5,7 @@ name: NPC Sczarni Thief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 2
 name: NPC Sczarni Thief
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +7
 perception: +7
 AC: 18, touch 14, flat-footed 14 (armor +4, dex +3, dodge +1)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +1, Ref +6, Will +2
 defensive_abilities: evasion, trap sense +1

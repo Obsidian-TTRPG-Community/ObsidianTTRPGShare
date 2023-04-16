@@ -5,7 +5,7 @@ name: Mountain Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 14
 name: Mountain Troll
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Stubborn (Ex)

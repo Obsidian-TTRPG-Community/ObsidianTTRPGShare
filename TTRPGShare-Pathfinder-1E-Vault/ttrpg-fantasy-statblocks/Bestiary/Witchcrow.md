@@ -5,7 +5,7 @@ name: Witchcrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 67: The Snows of Summer"
+source: "Pathfinder No. 67: The Snows of Summer"
 Monster_CR: 1
 name: Witchcrow
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, detect magic, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 13
-HP_extra: 
 HD: 3d10-3
 saves: Fort +2, Ref +5, Will +2
 resist: cold 5
@@ -39,6 +38,7 @@ ecology:
     desc: cold and temperate forests and plains
   - name: Organisation
     desc: solitary, pair, covey (3-12), or murder (13-30)
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

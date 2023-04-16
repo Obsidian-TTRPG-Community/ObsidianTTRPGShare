@@ -5,7 +5,7 @@ name: Black Shuck
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 129: The Twilight Child"
+source: "Pathfinder No. 129: The Twilight Child"
 Monster_CR: 7
 name: Black Shuck
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +12
 senses: blindsight, darkvision, low-light vision, scent
 AC: 20, touch 16, flat-footed 13 (dex +7, natural +4, size -1)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +13, Will +5
 DR: 10/cold iron or magic
@@ -39,6 +38,7 @@ ecology:
     desc: temperate coasts or marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

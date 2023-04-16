@@ -5,7 +5,7 @@ name: Embolotherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 91: Battle of Bloodmarch Hills"
+source: "Pathfinder No. 91: Battle of Bloodmarch Hills"
 Monster_CR: 5
 name: Embolotherium
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +11, Ref +5, Will +3
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: any plains
   - name: Organisation
     desc: solitary, pair, or herd (3-9)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 91: Battle of Bloodmarch Hills

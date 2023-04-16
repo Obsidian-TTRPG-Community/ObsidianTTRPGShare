@@ -5,7 +5,7 @@ name: Thanatotic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 22
 name: Thanatotic
 Monster_XP: 614400
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision, true seeing
 AC: 38, touch 2, flat-footed 38 (armor +12, natural +24, size -8)
 HP: 471
-HP_extra: 
 HD: 23d10+345
 saves: Fort +22, Ref +15, Will +20
 saves_other: +8 resistance vs. mind-affecting

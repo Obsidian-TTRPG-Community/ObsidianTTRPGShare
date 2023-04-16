@@ -5,7 +5,7 @@ name: Qallupilluk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Qallupilluk
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: cloying scent
 AC: 19, touch 12, flat-footed 17 (dex +2, natural +7)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +6, Ref +10, Will +8
 resist: cold 10, fire 10
@@ -41,6 +40,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, family (2-6 plus 1-4 aquatic monsters)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cloying Scent (Su)

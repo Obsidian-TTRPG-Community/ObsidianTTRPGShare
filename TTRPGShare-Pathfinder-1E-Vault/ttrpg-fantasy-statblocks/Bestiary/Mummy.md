@@ -5,7 +5,7 @@ name: Mummy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Mummy
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: despair
 AC: 20, touch 10, flat-footed 20 (natural +10)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +4, Ref +2, Will +8
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, warden squad (2-6), or guardian detail (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Despair (Su)

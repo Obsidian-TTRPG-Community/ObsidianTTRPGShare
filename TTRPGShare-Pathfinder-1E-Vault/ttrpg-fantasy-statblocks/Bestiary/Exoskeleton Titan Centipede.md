@@ -5,7 +5,7 @@ name: Exoskeleton Titan Centipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Exoskeleton Titan Centipede
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 13, touch 2, flat-footed 13 (natural +11, size -8)
 HP: 110
-HP_extra: 
 HD: 20d8+20
 saves: Fort +6, Ref +6, Will +12
 immune: undead traits

@@ -5,7 +5,7 @@ name: Triceratops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Triceratops
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +24
 senses: low-light vision, scent
 AC: 21, touch 7, flat-footed 21 (dex -1, natural +14, size -2)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +15, Ref +8, Will +5
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (5-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

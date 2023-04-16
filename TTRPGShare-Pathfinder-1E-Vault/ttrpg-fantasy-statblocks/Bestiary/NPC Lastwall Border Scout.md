@@ -5,7 +5,7 @@ name: NPC Lastwall Border Scout
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Castles of the Inner Sea"
+source: "Castles of the Inner Sea"
 Monster_CR: 3
 name: NPC Lastwall Border Scout
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +6
 perception: +8
 AC: 16, touch 12, flat-footed 14 (armor +3, dex +2, shield +1)
 HP: 38
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +6, Will +2
 speed: 30 ft.

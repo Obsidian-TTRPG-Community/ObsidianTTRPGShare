@@ -5,7 +5,7 @@ name: Tinder Devil (Ukobach)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 25: The Bastards of Erebus"
+source: "Pathfinder No. 25: The Bastards of Erebus"
 Monster_CR: 4
 name: Tinder Devil (Ukobach)
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision, see in darkness
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +2, Ref +8, Will +7
 immune: fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: Hell
   - name: Organisation
     desc: solitary, pair, or team (4-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Animate Flames (Su)

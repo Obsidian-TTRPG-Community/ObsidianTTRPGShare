@@ -5,7 +5,7 @@ name: NPC Jinx Eater
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 2
 name: NPC Jinx Eater
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +3)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +6, Will +3
 defensive_abilities: evasion

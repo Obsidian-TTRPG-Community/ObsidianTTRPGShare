@@ -5,7 +5,7 @@ name: Thremindyr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 94: Ice Tomb of the Giant Queen"
+source: "Pathfinder No. 94: Ice Tomb of the Giant Queen"
 Monster_CR: 9
 name: Thremindyr
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, sense protection
 aura: cold aura
 AC: 23, touch 17, flat-footed 16 (dex +7, natural +6)
 HP: 104
-HP_extra: 
 HD: 11d10+44
 saves: Fort +12, Ref +12, Will +9
 immune: cold, elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: cold hills or mountains
   - name: Organisation
     desc: solitary, pair, or blizzard (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cold Aura (Su)

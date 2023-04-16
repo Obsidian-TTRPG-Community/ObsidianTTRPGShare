@@ -5,7 +5,7 @@ name: Dweomercat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 36: Sound of a Thousand Screams"
+source: "Pathfinder No. 36: Sound of a Thousand Screams"
 Monster_CR: 7
 name: Dweomercat
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, scent
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +10, Ref +13, Will +6
 DR: 5/magic
@@ -40,6 +39,7 @@ ecology:
     desc: any forest (First World)
   - name: Organisation
     desc: solitary, hunt (2-3), ambush (1-3 dweomercats and 2-12 dweomercat cubs)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dweomer Leap (Su)

@@ -5,7 +5,7 @@ name: Alraune
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Alraune
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: calming fragrance
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 199
-HP_extra: 
 HD: 19d8+114
 saves: Fort +17, Ref +9, Will +11
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Calming Fragrance (Su)

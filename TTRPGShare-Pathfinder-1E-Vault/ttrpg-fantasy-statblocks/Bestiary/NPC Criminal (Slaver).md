@@ -5,7 +5,7 @@ name: NPC Criminal (Slaver)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 3
 name: NPC Criminal (Slaver)
 Monster_XP: 800
@@ -18,7 +18,6 @@ INI: +2
 perception: +8
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +8, Ref +5, Will +1
 saves_other: +1 vs. fear

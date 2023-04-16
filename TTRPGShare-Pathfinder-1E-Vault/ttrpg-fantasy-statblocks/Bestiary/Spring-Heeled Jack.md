@@ -5,7 +5,7 @@ name: Spring-Heeled Jack
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Spring-Heeled Jack
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 16, touch 16, flat-footed 11 (dex +5, size +1)
 HP: 26
-HP_extra: 
 HD: 4d6+12
 saves: Fort +3, Ref +9, Will +4
 speed: 40 ft.

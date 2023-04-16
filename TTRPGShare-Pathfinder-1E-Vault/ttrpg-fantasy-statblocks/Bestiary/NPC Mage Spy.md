@@ -5,7 +5,7 @@ name: NPC Mage Spy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Mage Spy
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 24, touch 17, flat-footed 20 (armor +4, deflection +2, dex +3, dodge +1, natural +3, size +1)
 HP: 79
-HP_extra: 
 HD: 17d6+17
 saves: Fort +10, Ref +12, Will +16
 saves_other: +2 vs. illusions

@@ -5,7 +5,7 @@ name: NPC Officer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Officer
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 16, touch 10, flat-footed 16 (armor +6)
 HP: 36
-HP_extra: 
 HD: 6d8+9
 saves: Fort +2, Ref +2, Will +7
 saves_other: +2 vs. enchantments

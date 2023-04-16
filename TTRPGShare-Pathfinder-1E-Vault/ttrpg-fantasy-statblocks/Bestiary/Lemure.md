@@ -5,7 +5,7 @@ name: Lemure
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Lemure
 Monster_XP: 400
@@ -17,7 +17,6 @@ INI: +0
 senses: darkvision, see in darkness
 AC: 14, touch 10, flat-footed 14 (natural +4)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +3, Will +0
 immune: fire, mind-affecting effects, poison
@@ -35,6 +34,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, gang (3-5), swarm (6-17), or mob (10-40 or more)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

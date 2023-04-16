@@ -5,7 +5,7 @@ name: Omox
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 12
 name: Omox
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision
 AC: 28, touch 18, flat-footed 20 (dex +7, dodge +1, natural +10)
 HP: 162
-HP_extra: 
 HD: 13d10+91
 saves: Fort +15, Ref +13, Will +12
 immune: acid, critical hits, disease, electricity, paralysis, poison, polymorph, sleep effects, stunning
@@ -46,6 +45,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary or clot (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Liquid Leap (Sp)

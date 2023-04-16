@@ -5,7 +5,7 @@ name: Spitting Eurypterid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 12
 name: Spitting Eurypterid
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision, tremorsense
 AC: 26, touch 6, flat-footed 26 (natural +20, size -4)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +17, Ref +5, Will +6
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

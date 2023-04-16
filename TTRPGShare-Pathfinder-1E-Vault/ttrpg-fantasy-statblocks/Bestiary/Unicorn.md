@@ -5,7 +5,7 @@ name: Unicorn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Unicorn
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, scent
 aura: magic circle against evil
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1, deflection vs. evil +2)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +7, Ref +7, Will +6
 saves_other: +2 resistance vs. evil
@@ -44,6 +43,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, mated pair, or blessing (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Magic Circle against Evil (Su)

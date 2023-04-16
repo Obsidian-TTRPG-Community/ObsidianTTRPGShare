@@ -5,7 +5,7 @@ name: NPC Road (Pilgrim)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 3
 name: NPC Road (Pilgrim)
 Monster_XP: 800
@@ -18,7 +18,6 @@ INI: +0
 perception: +7
 AC: 11, touch 10, flat-footed 11 (armor +1)
 HP: 17
-HP_extra: 
 HD: 5d6
 saves: Fort +1, Ref +1, Will +4
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Devil Monkey
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Devil Monkey
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 19, touch 11, flat-footed 16 (dex +3, natural +8, size -2)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +9, Will +5
 speed: 40 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm hills or plains
   - name: Organisation
     desc: solitary, pair, or troop (3-10)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Puncture Armor (Ex)

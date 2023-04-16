@@ -5,7 +5,7 @@ name: NPC Sodden Scavenger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 4
 name: NPC Sodden Scavenger
 Monster_XP: 1200

@@ -5,7 +5,7 @@ name: Yangethe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Yangethe
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +19
 senses: blindsense, darkvision
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +9, Ref +9, Will +12
 immune: cold, fear, mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: cold forests or vacuum
   - name: Organisation
     desc: solitary, pair, or cluster (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Feeding Tentacles (Su)

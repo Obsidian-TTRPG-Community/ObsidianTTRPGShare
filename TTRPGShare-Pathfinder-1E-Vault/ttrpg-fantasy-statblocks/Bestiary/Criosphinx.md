@@ -5,7 +5,7 @@ name: Criosphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Criosphinx
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 20, touch 9, flat-footed 20 (natural +11, size -1)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +10, Ref +7, Will +4
 speed: 30 ft., fly 60 ft. (poor)
@@ -37,6 +36,7 @@ ecology:
     desc: warm deserts or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Swooping Charge (Ex)

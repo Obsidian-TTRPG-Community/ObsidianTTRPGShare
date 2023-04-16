@@ -5,7 +5,7 @@ name: Vexenion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 134: It Came from Hollow Mountain"
+source: "Pathfinder No. 134: It Came from Hollow Mountain"
 Monster_CR: 6
 name: Vexenion
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, see invisibility
 AC: 19, touch 13, flat-footed 15 (dex +4, natural +6, size -1)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +6, Will +9
 immune: acid, cold, mind-affecting effects, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or hunger (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorption (Su)

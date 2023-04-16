@@ -5,7 +5,7 @@ name: Choxani
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The First World, Realm of the Fey"
+source: "The First World, Realm of the Fey"
 Monster_CR: 3
 name: Choxani
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision
 AC: 15, touch 13, flat-footed 12 (dex +2, dodge +1, natural +2)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +6, Will +6
 DR: 5/cold iron and slashing

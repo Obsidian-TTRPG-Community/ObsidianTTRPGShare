@@ -5,7 +5,7 @@ name: Formian Myrmarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Formian Myrmarch
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +18
 senses: blindsense, darkvision, hive mind
 AC: 27, touch 16, flat-footed 22 (deflection +2, dex +4, dodge +1, natural +11, size -1)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +11, Ref +14, Will +13
 resist: sonic 10

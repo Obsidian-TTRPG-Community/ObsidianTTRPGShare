@@ -5,7 +5,7 @@ name: Elder Sphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 83: The Slave Trenches of Hakotep"
+source: "Pathfinder No. 83: The Slave Trenches of Hakotep"
 Monster_CR: 16
 name: Elder Sphinx
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +27
 senses: darkvision, low-light vision, true seeing
 AC: 29, touch 7, flat-footed 28 (dex +1, natural +22, size -4)
 HP: 241
-HP_extra: 
 HD: 21d10+126
 saves: Fort +18, Ref +15, Will +19
 immune: petrification
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Enciphered Mind (Su)

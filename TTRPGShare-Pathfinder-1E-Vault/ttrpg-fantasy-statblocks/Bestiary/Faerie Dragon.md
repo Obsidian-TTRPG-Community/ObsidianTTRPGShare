@@ -5,7 +5,7 @@ name: Faerie Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Faerie Dragon
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 14 (dex +3, dodge +1, natural +2, size +2)
 HP: 22
-HP_extra: 
 HD: 3d12+3
 saves: Fort +4, Ref +6, Will +5
 immune: paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary or clan (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

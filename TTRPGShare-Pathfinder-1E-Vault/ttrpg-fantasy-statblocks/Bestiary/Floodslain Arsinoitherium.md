@@ -5,7 +5,7 @@ name: Floodslain Arsinoitherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 8
 name: Floodslain Arsinoitherium
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +17
 senses: low-light vision, scent
 AC: 21, touch 8, flat-footed 21 (natural +13, dex -1, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +10, Ref +5, Will +5
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Belkzen, Hold of the Orc Hordes

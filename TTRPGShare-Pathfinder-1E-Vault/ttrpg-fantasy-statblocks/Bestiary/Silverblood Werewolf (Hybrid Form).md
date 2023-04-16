@@ -5,7 +5,7 @@ name: Silverblood Werewolf (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 5
 name: Silverblood Werewolf (Hybrid Form)
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 20, touch 12, flat-footed 18 (armor +4, dex +2, natural +4)
 HP: 38
-HP_extra: 
 HD: 4d10+12
 saves: Fort +8, Ref +7, Will +3
 DR: 3/-

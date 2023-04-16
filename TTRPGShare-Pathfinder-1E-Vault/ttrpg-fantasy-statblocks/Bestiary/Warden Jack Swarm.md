@@ -5,7 +5,7 @@ name: Warden Jack Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 121: The Lost Outpost"
+source: "Pathfinder No. 121: The Lost Outpost"
 Monster_CR: 4
 name: Warden Jack Swarm
 Monster_XP: 1200
@@ -17,7 +17,6 @@ INI: +2
 senses: darkvision, low-light vision, tremorsense
 AC: 21, touch 20, flat-footed 19 (dex +2, natural +1, size +8)
 HP: 27
-HP_extra: 
 HD: 5d10
 saves: Fort +1, Ref +3, Will +1
 immune: construct traits, weapon damage, swarm traits

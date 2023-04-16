@@ -5,7 +5,7 @@ name: Lifeleecher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 8
 name: Lifeleecher
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 22, touch 12, flat-footed 20 (armor +6, dex +2, natural +4)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +11, Ref +6, Will +6
 saves_other: +4 vs. mind-affecting effects

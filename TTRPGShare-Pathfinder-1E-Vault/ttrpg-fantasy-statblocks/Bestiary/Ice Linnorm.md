@@ -5,7 +5,7 @@ name: Ice Linnorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 17
 name: Ice Linnorm
 Monster_XP: 102400
@@ -41,6 +41,7 @@ ecology:
     desc: cold hills and mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

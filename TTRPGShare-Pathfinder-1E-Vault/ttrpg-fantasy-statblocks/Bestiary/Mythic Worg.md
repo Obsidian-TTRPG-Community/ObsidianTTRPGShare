@@ -5,7 +5,7 @@ name: Mythic Worg
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 3
 name: Mythic Worg
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, scent
 aura: darkness
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 36
-HP_extra: 
 HD: 4d10+14
 saves: Fort +5, Ref +6, Will +3
 speed: 50 ft.
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests and plains
   - name: Organisation
     desc: solitary, pair, or pack (3-11)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Darkness Aura (Su)

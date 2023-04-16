@@ -5,7 +5,7 @@ name: Pest Drake Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 9
 name: Pest Drake Swarm
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 23, touch 21, flat-footed 16 (dex +7, natural +2, size +4)
 HP: 115
-HP_extra: 
 HD: 11d12+44
 saves: Fort +12, Ref +14, Will +9
 immune: acid, paralysis, sleep, weapon damage
@@ -42,6 +41,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary, pair, or rampage (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blistering Slime (Ex)

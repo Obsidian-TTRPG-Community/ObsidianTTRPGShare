@@ -5,7 +5,7 @@ name: Giant Octopus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Giant Octopus
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision
 AC: 18, touch 11, flat-footed 16 (dex +2, natural +7, size -1)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +11, Ref +12, Will +7
 defensive_abilities: ink cloud (30-foot-radius sphere)
@@ -40,6 +39,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

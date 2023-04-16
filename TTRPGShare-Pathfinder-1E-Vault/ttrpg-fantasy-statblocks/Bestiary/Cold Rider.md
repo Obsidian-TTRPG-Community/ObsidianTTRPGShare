@@ -5,7 +5,7 @@ name: Cold Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Cold Rider
 Monster_XP: 4800
@@ -39,6 +39,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary, pair, or cavalry (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Icewalking (Ex)

@@ -5,7 +5,7 @@ name: Annis Hag Alter Ego
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Annis Hag Alter Ego
 Monster_XP: 2400
@@ -44,6 +44,7 @@ ecology:
     desc: cold swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

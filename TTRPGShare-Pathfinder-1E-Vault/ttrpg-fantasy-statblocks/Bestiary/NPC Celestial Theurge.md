@@ -5,7 +5,7 @@ name: NPC Celestial Theurge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Celestial Theurge
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +0
 perception: +8
 AC: 18, touch 10, flat-footed 18 (armor +7, natural +1)
 HP: 69
-HP_extra: 
 HD: 3d8+4d6+2d6+31
 saves: Fort +8, Ref +4, Will +11
 resist: acid 5, cold 5

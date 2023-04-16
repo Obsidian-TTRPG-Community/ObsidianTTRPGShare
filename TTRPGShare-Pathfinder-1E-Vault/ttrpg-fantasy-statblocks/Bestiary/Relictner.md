@@ -5,7 +5,7 @@ name: Relictner
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 143: Borne by the Sun's Grace"
+source: "Pathfinder No. 143: Borne by the Sun's Grace"
 Monster_CR: 12
 name: Relictner
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: darkvision, ruin sense
 aura: weathering aura
 AC: 26, touch 13, flat-footed 23 (armor +3, dex +2, dodge +10 natural +1)
 HP: 162
-HP_extra: 
 HD: 17d8+85
 saves: Fort +14, Ref +9, Will +10
 saves_other: +10 vs. environmental effects and traps within bonded ruin

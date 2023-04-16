@@ -5,7 +5,7 @@ name: Trapper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Trapper
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +25
 senses: blindsense, darkvision, scent
 AC: 21, touch 9, flat-footed 20 (dex +1, natural +12, size -2)
 HP: 123
-HP_extra: 
 HD: 13d8+65
 saves: Fort +10, Ref +5, Will +11
 resist: cold 10, fire 10
@@ -43,6 +42,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or batch (1 plus 20-30 executioner’s hoods)
+  - name: Treasure
     desc: standard
 sources:
   - name: Bestiary 4

@@ -5,7 +5,7 @@ name: Desert Blight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Desert Blight
 Monster_XP: 25600
@@ -44,6 +44,7 @@ ecology:
     desc: any deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dehydration Pulse (Su)

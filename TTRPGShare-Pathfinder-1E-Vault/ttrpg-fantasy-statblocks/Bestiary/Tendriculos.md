@@ -5,7 +5,7 @@ name: Tendriculos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Tendriculos
 Monster_XP: 2400
@@ -40,6 +40,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or grove (3-6)
+  - name: Treasure
     desc: standard
 sources:
   - name: Bestiary 2

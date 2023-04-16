@@ -5,7 +5,7 @@ name: Janni
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Janni
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 20, touch 13, flat-footed 17 (armor +6, dex +2, dodge +1, natural +1)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +6, Ref +7, Will +4
 resist: fire 10

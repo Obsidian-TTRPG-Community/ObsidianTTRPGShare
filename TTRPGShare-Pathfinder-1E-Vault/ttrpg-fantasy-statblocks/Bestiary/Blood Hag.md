@@ -5,7 +5,7 @@ name: Blood Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Blood Hag
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, detect good, detect magic
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 90
-HP_extra: 
 HD: 12d10+24
 saves: Fort +6, Ref +14, Will +11
 immune: charm, disease, fear, fire, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Detonate (Su)

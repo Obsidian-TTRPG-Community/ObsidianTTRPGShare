@@ -5,7 +5,7 @@ name: Maenad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Maenad
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 20, touch 15, flat-footed 15 (dex +4, dodge +1, natural +5)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +8, Ref +10, Will +9
 saves_other: +4 vs. mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forests or plains
   - name: Organisation
     desc: solitary, pair, or revel (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Infectious Dance (Su)

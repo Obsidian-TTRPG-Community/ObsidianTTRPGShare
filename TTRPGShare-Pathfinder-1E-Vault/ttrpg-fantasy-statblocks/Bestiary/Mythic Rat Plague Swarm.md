@@ -5,7 +5,7 @@ name: Mythic Rat Plague Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Mythic Rat Plague Swarm
 Monster_XP: 12800

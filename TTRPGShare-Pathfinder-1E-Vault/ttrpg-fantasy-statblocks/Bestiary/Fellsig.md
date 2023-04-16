@@ -5,7 +5,7 @@ name: Fellsig
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 3
 name: Fellsig
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, tremorsense
 AC: 15, touch 10, flat-footed 15 (natural +5)
 HP: 27
-HP_extra: 
 HD: 5d8+5
 saves: Fort +2, Ref +1, Will +5
 immune: fire, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any mountains or underground
   - name: Organisation
     desc: solitary, pair, or flow (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lava Ball (Su)

@@ -5,7 +5,7 @@ name: NPC Villager (Village Idiot)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/3
 name: NPC Villager (Village Idiot)
 Monster_XP: 135
@@ -18,7 +18,6 @@ INI: +0
 perception: +3
 AC: 10, touch 10, flat-footed 10
 HP: 6
-HP_extra: 
 HD: 1d6+3
 saves: Fort +2, Ref +0, Will -1
 speed: 30 ft.

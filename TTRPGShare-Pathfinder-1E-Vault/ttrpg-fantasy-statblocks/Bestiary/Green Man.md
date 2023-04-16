@@ -5,7 +5,7 @@ name: Green Man
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 26
 name: Green Man
 Monster_XP: 2457600
@@ -45,6 +45,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorb Magic (Ex)

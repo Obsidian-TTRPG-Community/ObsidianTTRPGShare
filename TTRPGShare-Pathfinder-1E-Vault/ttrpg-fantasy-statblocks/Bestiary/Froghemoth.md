@@ -5,7 +5,7 @@ name: Froghemoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Froghemoth
 Monster_XP: 25600
@@ -17,7 +17,6 @@ perception: +16
 senses: all-around vision, blindsight, darkvision
 AC: 28, touch 9, flat-footed 27 (dex +1, natural +19, size -2)
 HP: 184
-HP_extra: 
 HD: 16d8+112
 saves: Fort +12, Ref +8, Will +11
 immune: electricity (partial)
@@ -42,6 +41,7 @@ ecology:
     desc: temperate marsh
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: All-Around Vision (Ex)

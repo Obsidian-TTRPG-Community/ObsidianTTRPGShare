@@ -5,7 +5,7 @@ name: Undine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Undine
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 8
-HP_extra: 
 HD: 1d8
 saves: Fort +1, Ref +3, Will +5
 resist: cold 5

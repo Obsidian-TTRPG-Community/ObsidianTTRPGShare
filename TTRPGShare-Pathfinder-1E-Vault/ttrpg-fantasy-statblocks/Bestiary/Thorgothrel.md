@@ -5,7 +5,7 @@ name: Thorgothrel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 87: The Choking Tower"
+source: "Pathfinder No. 87: The Choking Tower"
 Monster_CR: 8
 name: Thorgothrel
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +11
 senses: blindsight
 AC: 21, touch 9, flat-footed 21 (natural +12, size -1)
 HP: 100
-HP_extra: 
 HD: 8d8+24 plus 40 hp force field
 saves: Fort +7, Ref +4, Will +7
 immune: cold, electricity, mind-affecting effects, ooze traits

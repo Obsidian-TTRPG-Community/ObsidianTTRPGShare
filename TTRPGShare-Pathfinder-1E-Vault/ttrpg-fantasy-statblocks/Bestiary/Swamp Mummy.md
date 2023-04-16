@@ -5,7 +5,7 @@ name: Swamp Mummy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Swamp Mummy
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: darkvision
 aura: drowning, unnatural aura
 AC: 17, touch 10, flat-footed 16 (natural +6)
 HP: 52
-HP_extra: 
 HD: 7d8+21 HD
 saves: Fort +6, Ref +3, Will +7
 immune: undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any swamps
   - name: Organisation
     desc: solitary, warden squad (2-6), or guardian detail (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bog Rot (Su)

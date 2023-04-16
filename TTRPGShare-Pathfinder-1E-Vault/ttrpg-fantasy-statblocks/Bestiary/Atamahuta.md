@@ -5,7 +5,7 @@ name: Atamahuta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 51: The Hungry Storm"
+source: "Pathfinder No. 51: The Hungry Storm"
 Monster_CR: 11
 name: Atamahuta
 Monster_XP: 12800

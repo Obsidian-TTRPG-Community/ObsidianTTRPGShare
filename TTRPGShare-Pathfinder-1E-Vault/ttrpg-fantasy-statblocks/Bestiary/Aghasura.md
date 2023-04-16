@@ -5,7 +5,7 @@ name: Aghasura
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Aghasura
 Monster_XP: 12800

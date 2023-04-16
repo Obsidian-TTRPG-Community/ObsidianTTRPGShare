@@ -5,7 +5,7 @@ name: Vrykolakas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Vrykolakas
 Monster_XP: 9600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: pestilent aura
 AC: 23, touch 15, flat-footed 18 (dex +4, dodge +1, natural +8)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +10, Ref +10, Will +12
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

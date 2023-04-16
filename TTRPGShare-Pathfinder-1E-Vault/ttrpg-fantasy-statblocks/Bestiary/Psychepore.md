@@ -5,7 +5,7 @@ name: Psychepore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Psychepore
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +12
 senses: all-around vision, darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +10, Ref +6, Will +6
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: warm forests or jungles
   - name: Organisation
     desc: solitary, pair, or colony (5-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

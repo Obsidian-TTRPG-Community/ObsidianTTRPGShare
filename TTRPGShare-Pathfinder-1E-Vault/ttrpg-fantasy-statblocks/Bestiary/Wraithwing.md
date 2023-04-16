@@ -5,7 +5,7 @@ name: Wraithwing
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 101: The Kintargo Contract"
+source: "Pathfinder No. 101: The Kintargo Contract"
 Monster_CR: 4
 name: Wraithwing
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +5, Will +7
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary, pair, or warband (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cursed Land (Su)

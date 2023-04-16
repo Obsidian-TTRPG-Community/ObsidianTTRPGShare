@@ -5,7 +5,7 @@ name: Nocticula
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 76: The Midnight Isles"
+source: "Pathfinder No. 76: The Midnight Isles"
 Monster_CR: 30
 name: Nocticula
 Monster_XP: 9830400

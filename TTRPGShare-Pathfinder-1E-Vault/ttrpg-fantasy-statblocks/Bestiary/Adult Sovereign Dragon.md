@@ -5,7 +5,7 @@ name: Adult Sovereign Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Adult Sovereign Dragon
 Monster_XP: 51200
@@ -18,7 +18,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 30, touch 8, flat-footed 30 (natural +22, size -2)
 HP: 225
-HP_extra: 
 HD: 18d12+108
 saves: Fort +17, Ref +13, Will +18
 immune: paralysis, sleep
@@ -42,6 +41,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

@@ -5,7 +5,7 @@ name: Plagued Horse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Plagued Horse
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 11 (dex +3, natural +2, size -1)
 HP: 16
-HP_extra: 
 HD: 2d8+7
 saves: Fort +5, Ref +6, Will +1
 immune: cold, undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

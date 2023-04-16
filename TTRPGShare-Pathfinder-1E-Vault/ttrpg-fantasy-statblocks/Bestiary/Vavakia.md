@@ -5,7 +5,7 @@ name: Vavakia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Vavakia
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision, true seeing
 aura: frightful presence, unholy aura
 AC: 35, touch 14, flat-footed 33 (armor +8, deflection +4, dex +2, natural +13, size -2)
 HP: 297
-HP_extra: 
 HD: 18d10+198
 saves: Fort +26, Ref +12, Will +22
 immune: electricity, fire, poison

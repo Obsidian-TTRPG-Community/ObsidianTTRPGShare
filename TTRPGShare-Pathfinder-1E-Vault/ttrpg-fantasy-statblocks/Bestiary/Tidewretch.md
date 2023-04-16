@@ -5,7 +5,7 @@ name: Tidewretch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 6
 name: Tidewretch
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision
 AC: 19, touch 13, flat-footed 16 (dex +2, dodge +1, natural +6)
 HP: 76
-HP_extra: 
 HD: 9d8+36
 saves: Fort +7, Ref +5, Will +9
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any coastlines
   - name: Organisation
     desc: solitary, pair, or tangle (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Driftwood-Dependent (Su)

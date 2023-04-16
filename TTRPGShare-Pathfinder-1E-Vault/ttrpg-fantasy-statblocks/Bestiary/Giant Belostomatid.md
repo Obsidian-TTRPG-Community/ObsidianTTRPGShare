@@ -5,7 +5,7 @@ name: Giant Belostomatid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Giant Belostomatid
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, tremorsense
 AC: 15, touch 10, flat-footed 14 (dex +1, natural +5, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +2, Will +1
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate lakes, rivers, or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Digestive Enzyme (Ex)

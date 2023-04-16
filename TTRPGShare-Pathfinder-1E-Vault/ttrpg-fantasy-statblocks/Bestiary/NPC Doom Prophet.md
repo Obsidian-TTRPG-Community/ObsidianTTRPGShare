@@ -5,7 +5,7 @@ name: NPC Doom Prophet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Doom Prophet
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 13, touch 10, flat-footed 13 (armor +3)
 HP: 30
-HP_extra: 
 HD: 4d6+16
 saves: Fort +3, Ref +1, Will +6
 defensive_abilities: orc ferocity

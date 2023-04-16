@@ -5,7 +5,7 @@ name: Caypup
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Familiar Folio"
+source: "Familiar Folio"
 Monster_CR: 2
 name: Caypup
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, scent
 AC: 14, touch 11, flat-footed 14 (natural +3, size +1)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +3, Ref +3, Will +2
 DR: 5/cold iron
@@ -37,6 +36,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pack (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Thunderous Growl (Su)

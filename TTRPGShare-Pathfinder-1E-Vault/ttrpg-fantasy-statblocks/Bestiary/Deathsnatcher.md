@@ -5,7 +5,7 @@ name: Deathsnatcher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Deathsnatcher
 Monster_XP: 153600
@@ -39,6 +39,7 @@ ecology:
     desc: warm deserts or mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Su)

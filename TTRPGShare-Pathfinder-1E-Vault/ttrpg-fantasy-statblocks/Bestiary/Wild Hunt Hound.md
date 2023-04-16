@@ -5,7 +5,7 @@ name: Wild Hunt Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Wild Hunt Hound
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +22
 senses: blindsense, blindsight, greater arcane sight, greensight, low-light vision, scent, see in darkness, see invisibility
 AC: 24, touch 17, flat-footed 20 (deflection +3, dex +4, natural +7)
 HP: 133
-HP_extra: 
 HD: 14d6+84
 saves: Fort +12, Ref +13, Will +14
 immune: cold
@@ -43,6 +42,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pack (2-10), or wild hunt
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Summon Pack (Su)

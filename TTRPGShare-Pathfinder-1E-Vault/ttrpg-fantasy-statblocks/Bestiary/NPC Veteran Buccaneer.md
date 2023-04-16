@@ -5,7 +5,7 @@ name: NPC Veteran Buccaneer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Veteran Buccaneer
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +3
 perception: -1
 AC: 17, touch 14, flat-footed 13 (armor +3, dex +3, dodge +1)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +4, Ref +4, Will +0
 speed: 30 ft.

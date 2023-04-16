@@ -5,7 +5,7 @@ name: NPC God Stealer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC God Stealer
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +25
 senses: low-light vision
 AC: 23, touch 17, flat-footed 19 (armor +5, deflection +3, dex +4, natural +1)
 HP: 163
-HP_extra: 
 HD: 3d8+7d6+10d6+87
 saves: Fort +13, Ref +19, Will +16
 saves_other: +2 vs. enchantments

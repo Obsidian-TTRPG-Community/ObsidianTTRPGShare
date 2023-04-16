@@ -5,7 +5,7 @@ name: Ifrit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Ifrit
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: -2
 senses: darkvision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 8
-HP_extra: 
 HD: 1d6+2
 saves: Fort +1, Ref +3, Will +0
 resist: fire 5

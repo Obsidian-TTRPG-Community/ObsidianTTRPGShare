@@ -5,7 +5,7 @@ name: Ogre Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Ogre Spider
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, tremorsense
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, size -2)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +4, Will +3
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or cold hills or underground
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

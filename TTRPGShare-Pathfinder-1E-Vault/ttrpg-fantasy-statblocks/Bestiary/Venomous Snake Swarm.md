@@ -5,7 +5,7 @@ name: Venomous Snake Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Venomous Snake Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +9, Will +2
 defensive_abilities: swarm traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, nest (2-4 swarms), or knot (5-7 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

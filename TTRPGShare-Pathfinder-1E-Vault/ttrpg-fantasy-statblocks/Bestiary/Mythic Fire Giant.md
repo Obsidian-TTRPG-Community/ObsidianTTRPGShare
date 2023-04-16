@@ -5,7 +5,7 @@ name: Mythic Fire Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 12
 name: Mythic Fire Giant
 Monster_XP: 19200
@@ -19,7 +19,6 @@ senses: low-light vision
 aura: choking ash
 AC: 29, touch 8, flat-footed 29 (armor +8, dex -1, natural +13, size -1)
 HP: 197
-HP_extra: 
 HD: 15d8+130
 saves: Fort +15, Ref +4, Will +9
 immune: fire

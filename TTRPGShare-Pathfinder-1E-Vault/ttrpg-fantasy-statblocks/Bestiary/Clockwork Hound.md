@@ -5,7 +5,7 @@ name: Clockwork Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Clockwork Hound
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision, low-light vision, scent
 AC: 18, touch 17, flat-footed 12 (dex +4, dodge +2, natural +1, size +1)
 HP: 43
-HP_extra: 
 HD: 6d10+10
 saves: Fort +2, Ref +8, Will +5
 immune: construct traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Chest Container (Su)

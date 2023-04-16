@@ -5,7 +5,7 @@ name: NPC Whiteclaw Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Whiteclaw Sorcerer
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +7
 senses: low-light vision
 AC: 17, touch 12, flat-footed 15 (armor +4, dex +2, natural +1)
 HP: 19
-HP_extra: 
 HD: 3d6+6
 saves: Fort +2, Ref +5, Will +2
 saves_other: +2 vs. enchantments

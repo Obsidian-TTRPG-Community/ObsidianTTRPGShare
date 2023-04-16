@@ -5,7 +5,7 @@ name: Dweomer Cap
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Dweomer Cap
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 11, touch 11, flat-footed 11 (dex -1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref -1, Will +1
 saves_other: +2 vs. spells and spell-like abilities
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or patch (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Arcanophage (Su)

@@ -5,7 +5,7 @@ name: Ez-azael
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 107: Scourge of the Godclaw"
+source: "Pathfinder No. 107: Scourge of the Godclaw"
 Monster_CR: 12
 name: Ez-azael
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, scent, true seeing
 AC: 28, touch 14, flat-footed 23 (dex +4, dodge +1, natural +14, size -1)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +15, Ref +9, Will +16
 immune: fire, poison, death effects
@@ -46,6 +45,7 @@ ecology:
     desc: any (Material Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fiendbane Headbutt (Ex)

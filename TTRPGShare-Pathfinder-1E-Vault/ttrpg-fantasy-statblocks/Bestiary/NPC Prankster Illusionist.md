@@ -5,7 +5,7 @@ name: NPC Prankster Illusionist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Prankster Illusionist
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +9
 senses: low-light vision
 AC: 20, touch 15, flat-footed 17 (armor +4, deflection +1, dex +2, dodge +1, natural +1, size +1)
 HP: 73
-HP_extra: 
 HD: 10d6+36
 saves: Fort +7, Ref +6, Will +10
 saves_other: +2 vs. illusions

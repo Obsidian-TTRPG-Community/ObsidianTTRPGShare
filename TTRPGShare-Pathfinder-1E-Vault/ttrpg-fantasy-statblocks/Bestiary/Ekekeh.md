@@ -5,7 +5,7 @@ name: Ekekeh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The First World, Realm of the Fey"
+source: "The First World, Realm of the Fey"
 Monster_CR: 4
 name: Ekekeh
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, lifesense, low-light vision
 AC: 15, touch 12, flat-footed 12 (dex +3, natural +3, size -1)
 HP: 33
-HP_extra: 
 HD: 6d6+12
 saves: Fort +4, Ref +8, Will +5
 immune: electricity
@@ -41,6 +40,7 @@ ecology:
     desc: any oceans (First World)
   - name: Organisation
     desc: solitary, pair, family (3-6), or pod (7-18)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bioelectric Shield (Ex)

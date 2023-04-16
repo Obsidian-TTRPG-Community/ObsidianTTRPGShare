@@ -5,7 +5,7 @@ name: Kitsune
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Kitsune
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +3
 senses: low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +2, dodge +1)
 HP: 5
-HP_extra: 
 HD: 1d6-1
 saves: Fort -1, Ref +2, Will +4
 speed: 30 ft.

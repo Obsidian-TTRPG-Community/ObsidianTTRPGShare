@@ -5,7 +5,7 @@ name: Adult Underworld Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Adult Underworld Dragon
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: dragon senses, smoke vision
 aura: frightful presence
 AC: 29, touch 9, flat-footed 29 (natural +20, size -1)
 HP: 161
-HP_extra: 
 HD: 14d12+70
 saves: Fort +14, Ref +9, Will +12
 immune: fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

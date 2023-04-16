@@ -5,7 +5,7 @@ name: Rift Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 9
 name: Rift Drake
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision, scent
 AC: 23, touch 12, flat-footed 20
 HP: 126
-HP_extra: 
 HD: 11d12+55
 saves: Fort +12, Ref +10, Will +8
 immune: paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: warm hills or mountains
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Clinging Corrosion (Su)

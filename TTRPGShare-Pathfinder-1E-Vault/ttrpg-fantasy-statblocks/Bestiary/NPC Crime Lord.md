@@ -5,7 +5,7 @@ name: NPC Crime Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Crime Lord
 Monster_XP: 153600
@@ -20,7 +20,6 @@ perception: +1
 senses: low-light vision
 AC: 34, touch 18, flat-footed 29 (armor +11, deflection +2, dex +3, dodge +2, natural +5, size +1)
 HP: 204
-HP_extra: 
 HD: 19d10+95
 saves: Fort +20, Ref +14, Will +11
 saves_other: +2 vs. illusions, +5 vs. fear

@@ -5,7 +5,7 @@ name: Ironfang Siege Alchemist Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 120: Vault of the Onyx Citadel"
+source: "Pathfinder No. 120: Vault of the Onyx Citadel"
 Monster_CR: 16
 name: Ironfang Siege Alchemist Troop
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision
 AC: 29, touch 15, flat-footed 24 (armor +4, dex +4, dodge +1, natural +10)
 HP: 241
-HP_extra: 
 HD: 21d8+147
 saves: Fort +20, Ref +15, Will +10
 immune: poison
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Alchemical Bombardment (Ex)

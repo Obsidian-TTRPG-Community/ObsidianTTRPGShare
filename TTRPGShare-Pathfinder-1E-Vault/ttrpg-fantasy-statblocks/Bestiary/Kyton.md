@@ -5,7 +5,7 @@ name: Kyton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Kyton
 Monster_XP: 2400
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, link (3-6), or chain (7-20)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Chain Armor (Ex)

@@ -5,7 +5,7 @@ name: Wererat (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Wererat (Human Form)
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +2, dodge +1)
 HP: 18
-HP_extra: 
 HD: 2d8+6
 saves: Fort +2, Ref +5, Will +3
 defensive_abilities: evasion

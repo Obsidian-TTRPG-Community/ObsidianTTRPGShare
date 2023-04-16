@@ -5,7 +5,7 @@ name: Mana Wastes Mutant (Gnoll)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 4
 name: Mana Wastes Mutant (Gnoll)
 Monster_XP: 1200

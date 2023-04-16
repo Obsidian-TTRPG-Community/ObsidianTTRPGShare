@@ -5,7 +5,7 @@ name: Akvan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 20
 name: Akvan
 Monster_XP: 307200
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness, true seeing
 aura: hopelessness
 AC: 38, touch 10, flat-footed 34 (armor +13, dex +4, natural +15, size -4)
 HP: 372
-HP_extra: 
 HD: 24d10+240
 saves: Fort +18, Ref +22, Will +21
 immune: fire, poison

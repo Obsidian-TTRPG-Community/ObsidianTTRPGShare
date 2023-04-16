@@ -5,7 +5,7 @@ name: Chicken
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Chicken
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 12, touch 12, flat-footed 12 (size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +1
 speed: 30 ft., fly 20 ft. (clumsy), other_semicolon drift ft.
@@ -35,6 +34,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary, pair, or flock (3-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Drift (Ex)

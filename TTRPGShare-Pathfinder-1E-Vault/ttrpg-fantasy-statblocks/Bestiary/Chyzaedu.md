@@ -5,7 +5,7 @@ name: Chyzaedu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 10
 name: Chyzaedu
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision, tremorsense
 aura: ecstatic hunger
 AC: 24, touch 6, flat-footed 24 (armor +6, natural +12, size -4)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +4, Will +14
 immune: acid, mindaffecting effects

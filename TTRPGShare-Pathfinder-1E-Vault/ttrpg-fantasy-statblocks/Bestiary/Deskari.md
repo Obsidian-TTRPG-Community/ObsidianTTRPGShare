@@ -5,7 +5,7 @@ name: Deskari
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 78: City of Locusts"
+source: "Pathfinder No. 78: City of Locusts"
 Monster_CR: 29
 name: Deskari
 Monster_XP: 6553600

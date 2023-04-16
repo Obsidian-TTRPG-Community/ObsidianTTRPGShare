@@ -5,7 +5,7 @@ name: NPC Recruit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/3
 name: NPC Recruit
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +1
 senses: darkvision
 AC: 18, touch 10, flat-footed 18 (armor +6, shield +2)
 HP: 8
-HP_extra: 
 HD: 1d10+3
 saves: Fort +4, Ref +0, Will +0
 saves_other: +2 vs. poison, spells, and spell-like abilities

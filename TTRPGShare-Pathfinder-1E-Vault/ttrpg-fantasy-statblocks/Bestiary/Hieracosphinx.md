@@ -5,7 +5,7 @@ name: Hieracosphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Hieracosphinx
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 60
-HP_extra: 
 HD: 8d10+16
 saves: Fort +8, Ref +8, Will +4
 speed: 30 ft., fly 60 ft. (poor)
@@ -38,6 +37,7 @@ ecology:
     desc: warm hills
   - name: Organisation
     desc: solitary, pair, or flock (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Shriek (Su)

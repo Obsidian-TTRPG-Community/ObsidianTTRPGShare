@@ -5,7 +5,7 @@ name: Stalk Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 2
 name: Stalk Beetle
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +2, Will +1
 immune: mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: warm deserts (Rahadoum)
   - name: Organisation
     desc: solitary, swarm (2-8), or plague (9-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sawtooth (Ex)

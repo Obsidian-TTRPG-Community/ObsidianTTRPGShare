@@ -5,7 +5,7 @@ name: NPC God Caller
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 4
 name: NPC God Caller
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: -1
 perception: +1
 AC: 12, touch 9, flat-footed 12 (armor +3, dex -1)
 HP: 41
-HP_extra: 
 HD: 5d8+15
 saves: Fort +3, Ref +1, Will +6
 defensive_abilities: shield ally

@@ -5,7 +5,7 @@ name: Fungus Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Fungus Queen
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, detect good, low-light vision
 AC: 23, touch 13, flat-footed 20 (dex +3, natural +10)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +13, Ref +7, Will +7
 immune: electricity, plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or cult (fungus queen plus 2-12 controlled plants and minions)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Compel Plants (Su)

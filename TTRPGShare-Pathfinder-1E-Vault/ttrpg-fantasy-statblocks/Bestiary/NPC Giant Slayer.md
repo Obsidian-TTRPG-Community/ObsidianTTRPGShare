@@ -5,7 +5,7 @@ name: NPC Giant Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Giant Slayer
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +1
 perception: +17
 AC: 23, touch 11, flat-footed 21 (armor +10, deflection +1, dex +1, dodge +1, rage -2, shield +2)
 HP: 191
-HP_extra: 
 HD: 12d12+108
 saves: Fort +17, Ref +6, Will +10
 saves_other: +2 vs. poison, spells, and spell-like abilities

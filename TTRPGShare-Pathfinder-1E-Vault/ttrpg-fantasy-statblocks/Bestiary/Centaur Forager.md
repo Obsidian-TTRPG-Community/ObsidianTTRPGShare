@@ -5,7 +5,7 @@ name: Centaur Forager
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 6
 name: Centaur Forager
 Monster_XP: 2400

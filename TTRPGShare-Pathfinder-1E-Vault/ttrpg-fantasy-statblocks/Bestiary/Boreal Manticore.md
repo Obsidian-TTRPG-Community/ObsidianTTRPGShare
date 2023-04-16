@@ -5,7 +5,7 @@ name: Boreal Manticore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 6
 name: Boreal Manticore
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 63
-HP_extra: 
 HD: 6d10+30
 saves: Fort +10, Ref +7, Will +3
 immune: cold
@@ -45,6 +44,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary, pair, or pride (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spikes (Ex)

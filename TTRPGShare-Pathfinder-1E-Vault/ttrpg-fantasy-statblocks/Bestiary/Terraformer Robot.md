@@ -5,7 +5,7 @@ name: Terraformer Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Terraformer Robot
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +5, Ref +6, Will +3
 immune: construct traits
@@ -46,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or team (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

@@ -5,7 +5,7 @@ name: Toad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/8
 name: Toad
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +0, Ref +3, Will +2
 speed: 5 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate and warm forests
   - name: Organisation
     desc: solitary, pair, or knot (3-100)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

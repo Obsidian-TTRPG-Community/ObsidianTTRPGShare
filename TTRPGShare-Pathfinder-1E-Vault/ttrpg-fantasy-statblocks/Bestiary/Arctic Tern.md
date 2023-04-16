@@ -5,7 +5,7 @@ name: Arctic Tern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Arctic Tern
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 2
-HP_extra: 
 HD: 1d8-2
 saves: Fort +0, Ref +4, Will +2
 speed: 10 ft., fly 40 ft. (average)
@@ -35,6 +34,7 @@ ecology:
     desc: cold coastlines
   - name: Organisation
     desc: solitary, pair, or flock (3-20)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

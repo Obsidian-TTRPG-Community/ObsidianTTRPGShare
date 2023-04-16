@@ -5,7 +5,7 @@ name: Locust Variant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 75: Demon's Heresy"
+source: "Pathfinder No. 75: Demon's Heresy"
 Monster_CR: 8
 name: Locust Variant
 Monster_XP: 4800

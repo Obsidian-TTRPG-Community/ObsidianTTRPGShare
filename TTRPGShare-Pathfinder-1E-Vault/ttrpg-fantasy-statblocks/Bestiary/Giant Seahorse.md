@@ -5,7 +5,7 @@ name: Giant Seahorse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Giant Seahorse
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision
 AC: 15, touch 11, flat-footed 13 (armor +4, dex +2, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +6, Will +2
 defensive_abilities: anchor
@@ -37,6 +36,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or school (3-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Anchor (Ex)

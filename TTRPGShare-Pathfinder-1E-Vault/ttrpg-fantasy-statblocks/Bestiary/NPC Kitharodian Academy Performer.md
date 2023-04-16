@@ -5,7 +5,7 @@ name: NPC Kitharodian Academy Performer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 2
 name: NPC Kitharodian Academy Performer
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +2
 perception: +5
 AC: 17, touch 12, flat-footed 15 (armor +4, dex +2, shield +1)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +1, Ref +5, Will +4
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

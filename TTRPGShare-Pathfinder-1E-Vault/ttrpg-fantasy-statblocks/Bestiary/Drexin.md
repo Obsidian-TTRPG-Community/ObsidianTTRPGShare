@@ -5,7 +5,7 @@ name: Drexin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 109: In Search of Sanity"
+source: "Pathfinder No. 109: In Search of Sanity"
 Monster_CR: 2
 name: Drexin
 Monster_XP: 600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: mental static
 AC: 16, touch 15, flat-footed 12 (dex +4, natural +1, size +1)
 HP: 16
-HP_extra: 
 HD: 3d6+6
 saves: Fort +2, Ref +7, Will +5
 DR: 5/cold iron
@@ -41,6 +40,7 @@ ecology:
     desc: any underground or urban
   - name: Organisation
     desc: solitary, pair, or mob (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Trap Savant (Ex)

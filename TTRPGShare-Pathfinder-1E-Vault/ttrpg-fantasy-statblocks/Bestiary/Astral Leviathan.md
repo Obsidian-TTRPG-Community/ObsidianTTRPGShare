@@ -5,7 +5,7 @@ name: Astral Leviathan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 18
 name: Astral Leviathan
 Monster_XP: 153600
@@ -41,6 +41,7 @@ ecology:
     desc: any (Astral Plane)
   - name: Organisation
     desc: solitary or pod (2-5 plus 1-2 young)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Astral Locating (Su)

@@ -5,7 +5,7 @@ name: Thessalhydra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 18
 name: Thessalhydra
 Monster_XP: 153600
@@ -39,6 +39,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Acid Spit (Su)

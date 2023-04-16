@@ -5,7 +5,7 @@ name: Ancient Copper Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 17
 name: Ancient Copper Dragon
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence, slow
 AC: 39, touch 8, flat-footed 39 (natural +31, size -2)
 HP: 310
-HP_extra: 
 HD: 23d12+161
 saves: Fort +20, Ref +13, Will +19
 immune: acid, paralysis, sleep

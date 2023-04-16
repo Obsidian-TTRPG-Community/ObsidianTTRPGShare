@@ -5,7 +5,7 @@ name: Adult Havoc Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 16
 name: Adult Havoc Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 32, touch 10, flat-footed 30 (dex +2, natural +22, size -2)
 HP: 230
-HP_extra: 
 HD: 20d12+100
 saves: Fort +17, Ref +16, Will +16
 immune: confused, nauseated, paralysis, sickened, sleep, sonic

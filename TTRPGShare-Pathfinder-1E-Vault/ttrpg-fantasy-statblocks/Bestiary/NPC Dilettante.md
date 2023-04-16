@@ -5,7 +5,7 @@ name: NPC Dilettante
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Dilettante
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +2
 perception: +20
 AC: 18, touch 14, flat-footed 15 (armor +4, deflection +1, dex +2, dodge +1)
 HP: 57
-HP_extra: 
 HD: 12d8
 saves: Fort +6, Ref +12, Will +7
 defensive_abilities: improved evasion, improved uncanny dodge, trap sense +4

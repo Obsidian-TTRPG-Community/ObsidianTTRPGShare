@@ -5,7 +5,7 @@ name: Royal Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Royal Naga
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +27
 senses: darkvision, see invisibility
 AC: 26, touch 11, flat-footed 23 (dex +3, natural +15, size -2)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +9, Ref +9, Will +15
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Shape (Su)

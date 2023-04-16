@@ -5,7 +5,7 @@ name: Kentrosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Kentrosaurus
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +7, Will +3
 defensive_abilities: defensive spikes
@@ -37,6 +36,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Defensive Spikes (Ex)

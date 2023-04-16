@@ -5,7 +5,7 @@ name: Elder Deep One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Elder Deep One
 Monster_XP: 38400
@@ -45,6 +45,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Deep Dweller (Ex)

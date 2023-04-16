@@ -5,7 +5,7 @@ name: Mythic Great Cyclops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 15
 name: Mythic Great Cyclops
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: low-light vision, see in darkness
 aura: frightful presence
 AC: 32, touch 9, flat-footed 31 (armor +4, dex +1, natural +19, size -2)
 HP: 243
-HP_extra: 
 HD: 17d8+167
 saves: Fort +12, Ref +6, Will +14
 immune: electricity, fire

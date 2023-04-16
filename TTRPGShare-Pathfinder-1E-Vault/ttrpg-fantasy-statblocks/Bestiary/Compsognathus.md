@@ -5,7 +5,7 @@ name: Compsognathus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Compsognathus
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +4, Will +0
 speed: 40 ft., swim 20 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate or warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (5-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

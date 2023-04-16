@@ -5,7 +5,7 @@ name: Mammon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 28
 name: Mammon
 Monster_XP: 4915200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Argent Prince (Su)

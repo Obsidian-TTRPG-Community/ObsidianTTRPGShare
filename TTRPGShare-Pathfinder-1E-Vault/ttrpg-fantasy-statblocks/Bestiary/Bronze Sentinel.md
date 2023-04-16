@@ -5,7 +5,7 @@ name: Bronze Sentinel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 62: Curse of the Lady's Light"
+source: "Pathfinder No. 62: Curse of the Lady's Light"
 Monster_CR: 3
 name: Bronze Sentinel
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 18, touch 14, flat-footed 15 (dex +3, natural +4, size +1)
 HP: 32
-HP_extra: 
 HD: 4d10+10
 saves: Fort +1, Ref +4, Will +1
 immune: construct traits, fire, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or troop (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alert (Su)

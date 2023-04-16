@@ -5,7 +5,7 @@ name: Elder Ice Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 11
 name: Elder Ice Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, snow vision
 AC: 24, touch 14, flat-footed 18 (dex +5, dodge +1, natural +10, size -2)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +17, Will +5
 immune: cold, elemental traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land or water (Plane of Water)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

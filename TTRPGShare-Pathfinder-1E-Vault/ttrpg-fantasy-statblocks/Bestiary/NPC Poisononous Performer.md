@@ -5,7 +5,7 @@ name: NPC Poisononous Performer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Poisononous Performer
 Monster_XP: 9600
@@ -19,7 +19,6 @@ INI: +8
 perception: +14
 AC: 23, touch 21, flat-footed 18 (armor +2, deflection +1, dex +4, dodge +1, monk +2, wis +3)
 HP: 60
-HP_extra: 
 HD: 11d8+7
 saves: Fort +8, Ref +12, Will +11
 saves_other: +2 vs. enchantments

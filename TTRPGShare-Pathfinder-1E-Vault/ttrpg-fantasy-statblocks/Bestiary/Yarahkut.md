@@ -5,7 +5,7 @@ name: Yarahkut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 90: The Divinity Drive"
+source: "Pathfinder No. 90: The Divinity Drive"
 Monster_CR: 14
 name: Yarahkut
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or intervention (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dismantling Gaze (Su)

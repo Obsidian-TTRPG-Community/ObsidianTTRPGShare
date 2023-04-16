@@ -5,7 +5,7 @@ name: Tataka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Tataka
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, scent, true seeing
 AC: 28, touch 13, flat-footed 24 (dex +3, dodge +1, natural +15, size -1)
 HP: 225
-HP_extra: 
 HD: 18d10+126
 saves: Fort +18, Ref +9, Will +12
 DR: 15/good and piercing
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, patrol (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Martial Artist (Su)

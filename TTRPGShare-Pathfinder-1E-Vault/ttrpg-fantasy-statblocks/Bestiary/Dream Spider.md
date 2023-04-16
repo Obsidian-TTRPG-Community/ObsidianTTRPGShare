@@ -5,7 +5,7 @@ name: Dream Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Curse of the Crimson Throne (PFRPG)"
+source: "Curse of the Crimson Throne (PFRPG)"
 Monster_CR: 1/2
 name: Dream Spider
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +1
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: tropical forest or any urban
   - name: Organisation
     desc: solitary, pair, or colony (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Dream Web (Ex)

@@ -5,7 +5,7 @@ name: NPC Spirit Avenger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Spirit Avenger
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +16
 senses: darkvision
 AC: 25, touch 18, flat-footed 20 (armor +5, deflection +3, dex +4, dodge +1, natural +2)
 HP: 139
-HP_extra: 
 HD: 4d12+6d6+7d10+48
 saves: Fort +17, Ref +12, Will +16
 resist: acid 5, cold 5

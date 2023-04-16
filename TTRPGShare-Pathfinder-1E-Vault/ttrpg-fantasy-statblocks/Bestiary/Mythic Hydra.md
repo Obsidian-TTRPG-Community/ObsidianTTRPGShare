@@ -5,7 +5,7 @@ name: Mythic Hydra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 9
 name: Mythic Hydra
 Monster_XP: 6400
@@ -41,6 +41,7 @@ ecology:
     desc: temperate marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fast Healing (Ex)

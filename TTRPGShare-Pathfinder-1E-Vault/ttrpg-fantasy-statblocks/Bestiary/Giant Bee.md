@@ -5,7 +5,7 @@ name: Giant Bee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Giant Bee
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +3, Will +2
 immune: mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: temperate or warm plains
   - name: Organisation
     desc: solitary, group (2-5), or nest (6-19)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Poison (Ex)

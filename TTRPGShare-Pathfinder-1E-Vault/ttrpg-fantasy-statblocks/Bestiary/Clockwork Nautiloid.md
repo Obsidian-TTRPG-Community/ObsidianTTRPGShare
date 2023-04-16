@@ -5,7 +5,7 @@ name: Clockwork Nautiloid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 125: Tower of the Drowned Dead"
+source: "Pathfinder No. 125: Tower of the Drowned Dead"
 Monster_CR: 14
 name: Clockwork Nautiloid
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +8
 senses: blindsense, darkvision, low-light vision
 AC: 31, touch 13, flat-footed 26 (dex +5, natural +18, size -2)
 HP: 161
-HP_extra: 
 HD: 22d10+40
 saves: Fort +7, Ref +14, Will +7
 immune: cold, construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Deep Dweller (Ex)

@@ -5,7 +5,7 @@ name: Rishi Manu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Rishi Manu
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision
 AC: 31, touch 31, flat-footed 24 (deflection +4, dex +6, dodge +1, soul armor +10)
 HP: 189
-HP_extra: 
 HD: 18d10+90
 saves: Fort +11, Ref +17, Will +16
 saves_other: +2 vs. enchantment
@@ -42,6 +41,7 @@ ecology:
     desc: any (Material Plane or Positive Energy Plane)
   - name: Organisation
     desc: solitary or council (2-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cosmic Fire (Su)

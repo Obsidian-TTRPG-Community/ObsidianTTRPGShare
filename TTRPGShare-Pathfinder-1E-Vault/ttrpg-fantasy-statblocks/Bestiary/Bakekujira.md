@@ -5,7 +5,7 @@ name: Bakekujira
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 17
 name: Bakekujira
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: undead parasites
 AC: 32, touch 2, flat-footed 32 (natural +30, size -8)
 HP: 262
-HP_extra: 
 HD: 25d8+150
 saves: Fort +14, Ref +10, Will +14
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Leviathan’s Call (Su)

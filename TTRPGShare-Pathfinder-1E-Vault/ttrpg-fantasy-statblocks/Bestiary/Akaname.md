@@ -5,7 +5,7 @@ name: Akaname
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Akaname
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, scent
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +2, Will +4
 immune: disease
@@ -40,6 +39,7 @@ ecology:
     desc: any urban or underground
   - name: Organisation
     desc: solitary, pair, or cult (3-6 plus 1 otyugh)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

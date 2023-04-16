@@ -5,7 +5,7 @@ name: Hobgoblin Sergeant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Hobgoblin Sergeant
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 17, touch 12, flat-footed 15 (armor +4, dex +2, shield +1)
 HP: 33
-HP_extra: 
 HD: 3d10+12
 saves: Fort +6, Ref +3, Will +3
 defensive_abilities: bravery +1

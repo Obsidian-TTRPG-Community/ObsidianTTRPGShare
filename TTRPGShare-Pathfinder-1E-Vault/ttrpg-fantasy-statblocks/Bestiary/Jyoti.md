@@ -5,7 +5,7 @@ name: Jyoti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Jyoti
 Monster_XP: 6400

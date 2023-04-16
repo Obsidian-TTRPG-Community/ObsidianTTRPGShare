@@ -5,7 +5,7 @@ name: Frost Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Frost Drake
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision, scent, snow vision
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 84
-HP_extra: 
 HD: 8d12+32
 saves: Fort +10, Ref +7, Will +5
 immune: cold, paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Freezing Mist Breath (Su)

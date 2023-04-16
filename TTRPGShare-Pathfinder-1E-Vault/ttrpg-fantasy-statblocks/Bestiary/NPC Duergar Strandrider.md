@@ -5,7 +5,7 @@ name: NPC Duergar Strandrider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 8
 name: NPC Duergar Strandrider
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision
 AC: 20, touch 12, flat-footed 18 (armor +8, dex +2)
 HP: 81
-HP_extra: 
 HD: 9d10+27
 saves: Fort +10, Ref +8, Will +6
 saves_other: +2 vs. spells

@@ -5,7 +5,7 @@ name: Weremantis (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Weremantis (Hybrid Form)
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 21, touch 16, flat-footed 17 (dex +3, dodge +1, wis +3, natural +5, size -1)
 HP: 35
-HP_extra: 
 HD: 3d8+18
 saves: Fort +8, Ref +6, Will +6
 saves_other: +2 vs. enchantments, +4 vs. mind-affecting
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gathering (3-10)
+  - name: Treasure
     desc: NPC Gear
 special_abilities:
   - name: Lunge (Ex)

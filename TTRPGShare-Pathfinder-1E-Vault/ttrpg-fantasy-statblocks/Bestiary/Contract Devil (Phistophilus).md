@@ -5,7 +5,7 @@ name: Contract Devil (Phistophilus)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Contract Devil (Phistophilus)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision, see in darkness
 AC: 25, touch 18, flat-footed 17 (dex +7, dodge +1, natural +7)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +9, Ref +15, Will +16
 immune: fire, mind-affecting effects, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or court (2-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Binding Contract (Su)

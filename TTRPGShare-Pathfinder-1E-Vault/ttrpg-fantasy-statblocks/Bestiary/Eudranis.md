@@ -5,7 +5,7 @@ name: Eudranis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 5
 name: Eudranis
 Monster_XP: 1600

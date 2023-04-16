@@ -5,7 +5,7 @@ name: Heart Thief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 9
 name: Heart Thief
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 24, touch 12, flat-footed 21 (dex +3, natural +12, size -1)
 HP: 115
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +7, Will +12
 immune: disease, fire, poison, fear
@@ -42,6 +41,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary, pair, or hunt (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disemboweling Critical (Ex)

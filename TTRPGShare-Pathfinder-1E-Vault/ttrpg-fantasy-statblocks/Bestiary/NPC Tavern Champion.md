@@ -5,7 +5,7 @@ name: NPC Tavern Champion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Tavern Champion
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +0
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (armor +4, dex +1, natural +1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +5, Ref +2, Will +0
 defensive_abilities: orc ferocity

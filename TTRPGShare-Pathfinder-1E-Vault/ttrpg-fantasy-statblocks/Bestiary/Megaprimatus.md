@@ -5,7 +5,7 @@ name: Megaprimatus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 8
 name: Megaprimatus
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision, scent
 AC: 21, touch 8, flat-footed 19 (dex +2, natural +13, size -4)
 HP: 105
-HP_extra: 
 HD: 10d8+60
 saves: Fort +13, Ref +9, Will +6
 speed: 30 ft., climb 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests, hills, or mountains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Crash Through (Ex)

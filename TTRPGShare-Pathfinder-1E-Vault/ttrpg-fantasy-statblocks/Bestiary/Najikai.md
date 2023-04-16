@@ -5,7 +5,7 @@ name: Najikai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 8
 name: Najikai
 Monster_XP: 4800

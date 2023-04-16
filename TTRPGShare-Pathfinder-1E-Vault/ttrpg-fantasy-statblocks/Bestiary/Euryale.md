@@ -5,7 +5,7 @@ name: Euryale
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 20
 name: Euryale
 Monster_XP: 307200
@@ -17,7 +17,6 @@ perception: +38
 senses: blindsight, darkvision, true seeing
 AC: 37, touch 32, flat-footed 25 (dex +11, dodge +1, natural +5, profane +10)
 HP: 367
-HP_extra: 
 HD: 21d10+252
 saves: Fort +19, Ref +23, Will +20
 saves_other: +4 vs. death effects, +8 vs. mindaffecting effects
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, triumvirate (3), or cult (1 plus 4-17 medusas)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorb Essence (Ex)

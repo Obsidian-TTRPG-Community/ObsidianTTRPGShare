@@ -5,7 +5,7 @@ name: Kuwa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Kuwa
 Monster_XP: 1200

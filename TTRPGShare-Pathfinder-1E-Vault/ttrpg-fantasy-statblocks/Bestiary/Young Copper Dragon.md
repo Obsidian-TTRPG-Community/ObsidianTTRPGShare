@@ -5,7 +5,7 @@ name: Young Copper Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Young Copper Dragon
 Monster_XP: 4800
@@ -17,7 +17,6 @@ INI: +6
 perception: +14
 AC: 22, touch 12, flat-footed 20 (dex +2, natural +10)
 HP: 85
-HP_extra: 
 HD: 9d12+27
 saves: Fort +9, Ref +8, Will +8
 immune: acid, paralysis, sleep

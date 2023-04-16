@@ -5,7 +5,7 @@ name: Drow Matron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 15
 name: Drow Matron
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +19
 senses: darkvision
 AC: 24, touch 14, flat-footed 21 (armor +8, deflection +4, dex +2, dodge +1)
 HP: 101
-HP_extra: 
 HD: 15d8+30
 saves: Fort +10, Ref +7, Will +18
 saves_other: +2 vs. enchantment

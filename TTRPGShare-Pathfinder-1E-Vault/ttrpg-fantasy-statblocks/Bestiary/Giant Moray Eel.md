@@ -5,7 +5,7 @@ name: Giant Moray Eel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Giant Moray Eel
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +8, Ref +9, Will +3
 speed: swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gnaw (Ex)

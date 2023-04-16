@@ -5,7 +5,7 @@ name: Ragewight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 6
 name: Ragewight
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, rage -2)
 HP: 82
-HP_extra: 
 HD: 11d8+33
 saves: Fort +6, Ref +5, Will +10
 saves_other: +4 morale bonus vs. spells, supernatural abilities, and spell-like abilities
@@ -46,6 +45,7 @@ ecology:
     desc: temperate hills (necropolis of Nogortha)
   - name: Organisation
     desc: solitary, war band (1 ragewight plus 2-5 cairn wights), or war clan (2-5 ragewights plus 3-10 cairn wights)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

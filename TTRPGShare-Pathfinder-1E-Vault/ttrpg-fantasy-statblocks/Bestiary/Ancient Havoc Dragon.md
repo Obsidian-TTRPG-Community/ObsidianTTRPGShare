@@ -5,7 +5,7 @@ name: Ancient Havoc Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Ancient Havoc Dragon
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 41, touch 7, flat-footed 40 (dex +1, natural +34, size -4)
 HP: 378
-HP_extra: 
 HD: 28d12+196
 saves: Fort +23, Ref +19, Will +22
 immune: confused, nauseated, paralysis, sickened, sleep, sonic

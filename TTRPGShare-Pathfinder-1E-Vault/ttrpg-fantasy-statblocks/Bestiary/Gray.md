@@ -5,7 +5,7 @@ name: Gray
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Gray
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +4, Will +9
 speed: 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or invasion (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Phase (Su)

@@ -5,7 +5,7 @@ name: Quetzalcoatlus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Quetzalcoatlus
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 19, touch 12, flat-footed 15 (dex +3, dodge +1, natural +7, size -2)
 HP: 82
-HP_extra: 
 HD: 11d8+33
 saves: Fort +10, Ref +12, Will +5
 speed: 30 ft., fly 50 ft. (clumsy)
@@ -36,6 +35,7 @@ ecology:
     desc: warm coastlines, plains, or swamps
   - name: Organisation
     desc: solitary, pair, or flock (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Difficult to Train (Ex)

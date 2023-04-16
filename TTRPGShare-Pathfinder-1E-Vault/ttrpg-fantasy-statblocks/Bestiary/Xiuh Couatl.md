@@ -5,7 +5,7 @@ name: Xiuh Couatl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 106: For Queen and Empire"
+source: "Pathfinder No. 106: For Queen and Empire"
 Monster_CR: 12
 name: Xiuh Couatl
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +29
 senses: detect chaos/evil/good/law, darkvision, thoughtsense
 AC: 29, touch 14, flat-footed 24 (dex +5, natural +15, size -1)
 HP: 157
-HP_extra: 
 HD: 15d10+75
 saves: Fort +14, Ref +10, Will +16
 immune: electricity, fire
@@ -41,6 +40,7 @@ ecology:
     desc: any mountain
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Instrument of Retribution (Su)

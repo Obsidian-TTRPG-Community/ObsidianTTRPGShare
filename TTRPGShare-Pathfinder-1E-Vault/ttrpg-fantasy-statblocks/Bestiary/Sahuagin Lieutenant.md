@@ -5,7 +5,7 @@ name: Sahuagin Lieutenant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Sahuagin Lieutenant
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +10
 senses: blindsense, darkvision
 AC: 20, touch 13, flat-footed 17 (armor +2, dex +3, natural +5)
 HP: 50
-HP_extra: 
 HD: 5d10+23
 saves: Fort +6, Ref +7, Will +6
 defensive_abilities: bravery +1

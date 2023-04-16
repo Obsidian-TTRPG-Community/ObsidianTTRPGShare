@@ -5,7 +5,7 @@ name: Nehushtan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 107: Scourge of the Godclaw"
+source: "Pathfinder No. 107: Scourge of the Godclaw"
 Monster_CR: 2
 name: Nehushtan
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 18, touch 16, flat-footed 14 (dex +3, dodge +1, natural +2, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +6, Will +3
 immune: disease, poison
@@ -39,6 +38,7 @@ ecology:
     desc: warm deserts and hills
   - name: Organisation
     desc: solitary, pair, nest (1-2 plus 2-4 young), colony (4-6 plus 6-8 young)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Curative Skin (Su)

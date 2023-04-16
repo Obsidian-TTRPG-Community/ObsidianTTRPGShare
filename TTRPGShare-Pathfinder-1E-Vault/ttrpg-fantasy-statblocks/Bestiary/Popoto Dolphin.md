@@ -5,7 +5,7 @@ name: Popoto Dolphin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Popoto Dolphin
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: blindsense, low-light vision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +1
 speed: swim 60 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: temperate oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-5)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

@@ -5,7 +5,7 @@ name: House Centipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/8
 name: House Centipede
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 17, touch 15, flat-footed 14 (dex +3, natural +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +3, Will +0
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm forest or underground
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

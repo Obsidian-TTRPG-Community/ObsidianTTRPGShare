@@ -5,7 +5,7 @@ name: Gynosphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Gynosphinx
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +21
 senses: darkvision, low-light vision
 AC: 21, touch 10, flat-footed 20 (dex +1, natural +11, size -1)
 HP: 102
-HP_extra: 
 HD: 12d10+36
 saves: Fort +11, Ref +9, Will +10
 speed: 40 ft., fly 60 ft. (poor)
@@ -37,6 +36,7 @@ ecology:
     desc: warm deserts and hills
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: double
 spell-like_abilities:
   - name:

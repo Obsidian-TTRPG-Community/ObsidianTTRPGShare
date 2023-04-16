@@ -5,7 +5,7 @@ name: Ancient Bronze Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 18
 name: Ancient Bronze Dragon
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: electricity aura, frightful presence
 AC: 37, touch 5, flat-footed 37 (dex -1, natural +32, size -4)
 HP: 324
-HP_extra: 
 HD: 24d12+168
 saves: Fort +21, Ref +13, Will +21
 immune: electricity, paralysis, sleep

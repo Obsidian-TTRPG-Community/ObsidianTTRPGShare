@@ -5,7 +5,7 @@ name: NPC Criminal (Pickpocket)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/2
 name: NPC Criminal (Pickpocket)
 Monster_XP: 200
@@ -18,7 +18,6 @@ INI: +3
 perception: +3
 AC: 14, touch 12, flat-footed 12 (armor +1, dex +3)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +1, Ref +5, Will -1
 speed: 30 ft.

@@ -5,7 +5,7 @@ name: Mythic Elder Fire Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 14
 name: Mythic Elder Fire Elemental
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: frightful presence, shroud of flame, smoke cloud
 AC: 32, touch 19, flat-footed 21 (dex +9, dodge +2, natural +13, size -2)
 HP: 202
-HP_extra: 
 HD: 16d10+114
 saves: Fort +14, Ref +19, Will +8
 immune: elemental traits, fire
@@ -42,6 +41,7 @@ ecology:
     desc: any (Plane of Fire)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blinding Blaze (Su)

@@ -5,7 +5,7 @@ name: Mythic Iron Colossus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 21
 name: Mythic Iron Colossus
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: deadly fumes, selective antimagic aura
 AC: 39, touch 1, flat-footed 39 (dex -1, natural +38, size -8)
 HP: 309
-HP_extra: 
 HD: 23d10+183
 saves: Fort +9, Ref +6, Will +7
 immune: construct traits, fire absorption
@@ -43,6 +42,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alternate Form (Ex)

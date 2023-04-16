@@ -5,7 +5,7 @@ name: NPC Iron Duelist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Iron Duelist
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision
 AC: 24, touch 15, flat-footed 20 (armor +8, deflection +1, dex +3, dodge +1, natural +1)
 HP: 159
-HP_extra: 
 HD: 10d10+7d10+61
 saves: Fort +14, Ref +13, Will +10
 saves_other: +2 vs. poison, spells, and spell-like abilities

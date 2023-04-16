@@ -5,7 +5,7 @@ name: NPC Divine Loremaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Divine Loremaster
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +2
 perception: +14
 AC: 20, touch 14, flat-footed 18 (armor +6, deflection +1, dex +2, size +1)
 HP: 42
-HP_extra: 
 HD: 7d8+2d6
 saves: Fort +9, Ref +8, Will +12
 saves_other: +2 vs. fear

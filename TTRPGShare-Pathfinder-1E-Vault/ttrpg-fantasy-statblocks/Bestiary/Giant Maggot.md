@@ -5,7 +5,7 @@ name: Giant Maggot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Giant Maggot
 Monster_XP: 200
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +5, Ref -1, Will -3
 immune: disease, mind-affecting effects
@@ -33,6 +32,7 @@ ecology:
     desc: any temperate or tropical
   - name: Organisation
     desc: solitary or swarm (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Regurgitate (Ex)

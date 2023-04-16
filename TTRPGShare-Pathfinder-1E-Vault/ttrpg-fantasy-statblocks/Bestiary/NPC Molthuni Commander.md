@@ -5,7 +5,7 @@ name: NPC Molthuni Commander
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 6
 name: NPC Molthuni Commander
 Monster_XP: 2400

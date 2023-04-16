@@ -5,7 +5,7 @@ name: Hive Brute
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Nidal, Land of Shadows"
+source: "Nidal, Land of Shadows"
 Monster_CR: 8
 name: Hive Brute
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +14
 senses: blindsense, blindsight, hive mind
 AC: 21, touch 11, flat-footed 19 (dex +2, natural +10, size -1)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +7, Ref +8, Will +11
 immune: acid
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or hive (1-10 plus 1-50 hive workers and warriors plus 1 queen
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Acid Spray (Ex)

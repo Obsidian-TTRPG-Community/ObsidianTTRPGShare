@@ -5,7 +5,7 @@ name: Demilich
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 14
 name: Demilich
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +27
 senses: darkvision, true seeing
 AC: 25, touch 21, flat-footed 21 (dex +3, dodge +1, natural +4, profane +5, size +2)
 HP: 142
-HP_extra: 
 HD: 15d8+75
 saves: Fort +15, Ref +15, Will +21
 immune: acid, cold, electricity, magic, polymorph, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Devour Soul (Su)

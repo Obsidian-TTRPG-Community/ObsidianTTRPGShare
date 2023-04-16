@@ -5,7 +5,7 @@ name: Marble Sentinel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 62: Curse of the Lady's Light"
+source: "Pathfinder No. 62: Curse of the Lady's Light"
 Monster_CR: 4
 name: Marble Sentinel
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 20, touch 14, flat-footed 17 (dex +3, natural +6, size +1)
 HP: 43
-HP_extra: 
 HD: 6d10+10
 saves: Fort +2, Ref +5, Will +2
 immune: acid, construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or troop (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alert (Su)

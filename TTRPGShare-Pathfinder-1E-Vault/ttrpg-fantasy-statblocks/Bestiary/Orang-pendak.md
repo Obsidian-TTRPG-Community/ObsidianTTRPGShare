@@ -5,7 +5,7 @@ name: Orang-pendak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Orang-pendak
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +1
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 11
-HP_extra: 
 HD: 1d10+1
 saves: Fort +3, Ref +2, Will +1
 speed: 30 ft.

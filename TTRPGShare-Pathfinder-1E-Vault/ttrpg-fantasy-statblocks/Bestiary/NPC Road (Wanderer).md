@@ -5,7 +5,7 @@ name: NPC Road (Wanderer)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 2
 name: NPC Road (Wanderer)
 Monster_XP: 600
@@ -18,7 +18,6 @@ INI: +2
 perception: +5
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +2, dodge +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +1, Ref +7, Will +1
 defensive_abilities: evasion

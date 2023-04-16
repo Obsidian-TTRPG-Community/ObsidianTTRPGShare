@@ -5,7 +5,7 @@ name: NPC Noble (Knight)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 7
 name: NPC Noble (Knight)
 Monster_XP: 3200

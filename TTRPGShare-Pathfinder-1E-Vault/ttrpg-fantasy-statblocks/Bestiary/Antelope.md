@@ -5,7 +5,7 @@ name: Antelope
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Antelope
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +7, Will +1
 speed: 60 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: temperate or warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-50)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

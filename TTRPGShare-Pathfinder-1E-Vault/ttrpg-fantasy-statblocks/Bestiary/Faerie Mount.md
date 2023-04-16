@@ -5,7 +5,7 @@ name: Faerie Mount
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 1
 name: Faerie Mount
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 11, touch 10, flat-footed 11 (natural +1)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +3, Will +1
 defensive_abilities: stability
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests, hills, or plains (First World)
   - name: Organisation
     desc: solitary, pair, or wiggle (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Stability (Ex)

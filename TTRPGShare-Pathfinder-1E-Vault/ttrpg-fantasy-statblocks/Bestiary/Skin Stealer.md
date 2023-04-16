@@ -5,7 +5,7 @@ name: Skin Stealer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 44: Trial of the Beast"
+source: "Pathfinder No. 44: Trial of the Beast"
 Monster_CR: 2
 name: Skin Stealer
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 18
-HP_extra: 
 HD: 4d6+4
 saves: Fort +2, Ref +7, Will +4
 speed: 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Steal Skin (Su)

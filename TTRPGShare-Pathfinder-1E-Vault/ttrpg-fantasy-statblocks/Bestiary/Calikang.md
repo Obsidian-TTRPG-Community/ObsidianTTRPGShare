@@ -5,7 +5,7 @@ name: Calikang
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 12
 name: Calikang
 Monster_XP: 19200

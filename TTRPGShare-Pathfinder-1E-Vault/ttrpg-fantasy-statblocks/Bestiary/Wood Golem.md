@@ -5,7 +5,7 @@ name: Wood Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Wood Golem
 Monster_XP: 2400
@@ -16,7 +16,6 @@ INI: +3
 senses: darkvision, low-light vision
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 64
-HP_extra: 
 HD: 8d10+20
 saves: Fort +2, Ref +5, Will +5
 immune: construct traits, magic
@@ -35,6 +34,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Magic (Ex)

@@ -5,7 +5,7 @@ name: Marsh Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Marsh Giant
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision
 AC: 21, touch 12, flat-footed 18 (dex +3, natural +9, size -1)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +12, Ref +7, Will +8
 defensive_abilities: rock catching

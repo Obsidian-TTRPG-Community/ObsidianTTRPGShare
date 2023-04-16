@@ -5,7 +5,7 @@ name: Aphorite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 1/2
 name: Aphorite
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 13, touch 9, flat-footed 13 (armor +4, dex -1)
 HP: 13
-HP_extra: 
 HD: 1d10+3
 saves: Fort +4, Ref -1, Will +3
 saves_other: +2 vs. poison and mind-affecting effects

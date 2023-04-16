@@ -5,7 +5,7 @@ name: Achaierai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Achaierai
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 20, touch 11, flat-footed 18 (dex +1, dodge +1, natural +9, size -1)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +7, Ref +6, Will +4
 SR: 20
@@ -38,6 +37,7 @@ ecology:
     desc: any land (Hell)
   - name: Organisation
     desc: solitary or flock (5-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Black Cloud (Su)

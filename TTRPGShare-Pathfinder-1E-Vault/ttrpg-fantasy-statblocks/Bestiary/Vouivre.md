@@ -5,7 +5,7 @@ name: Vouivre
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 12
 name: Vouivre
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 27, touch 10, flat-footed 26 (dex +1, natural +17, size -1)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +9, Ref +11, Will +14
 saves_other: +4 vs. mind-affecting effects
@@ -43,6 +42,7 @@ ecology:
     desc: temperate forests, lakes, or rivers
   - name: Organisation
     desc: solitary or harem (1 plus 4-10 snakes)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Snake Empathy (Ex)

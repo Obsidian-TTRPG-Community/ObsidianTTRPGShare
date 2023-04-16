@@ -5,7 +5,7 @@ name: Onwu Azu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Plunder and Peril"
+source: "Plunder and Peril"
 Monster_CR: 1
 name: Onwu Azu
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +7
 senses: keen scent, low-light vision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +6, Will +0
 defensive_abilities: ferocity

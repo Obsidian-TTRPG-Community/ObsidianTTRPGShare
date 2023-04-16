@@ -5,7 +5,7 @@ name: Giant Anaconda
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Giant Anaconda
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +22
 senses: low-light vision, scent
 AC: 25, touch 9, flat-footed 22 (dex +2, dodge +1, natural +16, size -4)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +14, Ref +10, Will +5
 speed: 20 ft., climb 20 ft., swim 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

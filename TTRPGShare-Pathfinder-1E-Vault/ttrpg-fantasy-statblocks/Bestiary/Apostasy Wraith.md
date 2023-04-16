@@ -5,7 +5,7 @@ name: Apostasy Wraith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 6
 name: Apostasy Wraith
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, sense apostate
 AC: 16, touch 16, flat-footed 12 (deflection +2, dex +4)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +4, Ref +6, Will +8
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any (Razmiran)
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Razmiri Aversion (Ex)

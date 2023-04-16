@@ -5,7 +5,7 @@ name: Nyogoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Nyogoth
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 24, touch 15, flat-footed 19 (dex +5, natural +9)
 HP: 125
-HP_extra: 
 HD: 10d10+70
 saves: Fort +14, Ref +12, Will +7
 immune: acid, cold, poison, mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary or brood (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Acid Spray (Su)

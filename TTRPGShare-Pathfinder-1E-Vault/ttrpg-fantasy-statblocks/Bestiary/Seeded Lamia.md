@@ -5,7 +5,7 @@ name: Seeded Lamia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 113: What Grows Within"
+source: "Pathfinder No. 113: What Grows Within"
 Monster_CR: 7
 name: Seeded Lamia
 Monster_XP: 3200

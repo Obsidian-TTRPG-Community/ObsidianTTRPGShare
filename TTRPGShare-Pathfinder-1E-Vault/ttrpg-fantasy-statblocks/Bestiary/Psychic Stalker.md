@@ -5,7 +5,7 @@ name: Psychic Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Psychic Stalker
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision, thoughtsense
 aura: mental static
 AC: 20, touch 20, flat-footed 16 (deflection +6, dex +4)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +8, Ref +6, Will +8
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Charisma Damage (Su)

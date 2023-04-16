@@ -5,7 +5,7 @@ name: NPC Ossuary Agent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 7
 name: NPC Ossuary Agent
 Monster_XP: 3200

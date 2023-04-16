@@ -5,7 +5,7 @@ name: Thoxel Demon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 74: Sword of Valor"
+source: "Pathfinder No. 74: Sword of Valor"
 Monster_CR: 5
 name: Thoxel Demon
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: insolence
 AC: 20, touch 12, flat-footed 18 (armor +6, dex +2, natural +2)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +7, Will +2
 immune: electricity, poison

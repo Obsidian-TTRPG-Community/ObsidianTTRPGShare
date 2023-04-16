@@ -5,7 +5,7 @@ name: Shaggy Demodand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 18
 name: Shaggy Demodand
 Monster_XP: 153600
@@ -18,7 +18,6 @@ perception: +36
 senses: blindsense, darkvision, detect good, detect magic, see invisibility
 AC: 32, touch 17, flat-footed 25 (dex +7, natural +15)
 HP: 262
-HP_extra: 
 HD: 25d10+125
 saves: Fort +19, Ref +17, Will +18
 saves_other: +4 vs. divine spells

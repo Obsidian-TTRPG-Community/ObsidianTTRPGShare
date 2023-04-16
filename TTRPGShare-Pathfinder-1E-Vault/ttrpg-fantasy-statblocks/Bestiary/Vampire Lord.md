@@ -5,7 +5,7 @@ name: Vampire Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 15
 name: Vampire Lord
 Monster_XP: 51200

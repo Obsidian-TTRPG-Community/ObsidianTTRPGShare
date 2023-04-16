@@ -5,7 +5,7 @@ name: Dark Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Dark Stalker
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: see in darkness
 AC: 18, touch 14, flat-footed 14 (armor +2, dex +4, natural +2)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +9, Will +2
 weak: light blindness

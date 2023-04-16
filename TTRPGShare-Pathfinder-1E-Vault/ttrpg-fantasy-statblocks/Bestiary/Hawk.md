@@ -5,7 +5,7 @@ name: Hawk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Hawk
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +2
 speed: 10 ft., fly 60 ft. (average)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

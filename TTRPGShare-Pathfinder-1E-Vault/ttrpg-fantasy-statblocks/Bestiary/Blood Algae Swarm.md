@@ -5,7 +5,7 @@ name: Blood Algae Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 130: City in the Lion's Eye"
+source: "Pathfinder No. 130: City in the Lion's Eye"
 Monster_CR: 8
 name: Blood Algae Swarm
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +10
 senses: low-light vision
 AC: 21, touch 17, flat-footed 18 (dex +3, natural +4, size +4)
 HP: 97
-HP_extra: 
 HD: 13d8+39
 saves: Fort +11, Ref +7, Will +4
 immune: weapon damage, plant traits
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm rivers
   - name: Organisation
     desc: solitary or colony (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Algal Bloom (Ex)

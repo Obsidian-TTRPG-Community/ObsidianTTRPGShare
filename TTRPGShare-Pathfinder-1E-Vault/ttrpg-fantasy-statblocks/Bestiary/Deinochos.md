@@ -5,7 +5,7 @@ name: Deinochos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 5
 name: Deinochos
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +10
 senses: blindsense, dark vision, detect chaos, detect evil, scent
 AC: 18, touch 11, flat-footed 18 (natural +7, size +1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +4, Will +6
 immune: cold, mind-affecting effects, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or brood (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Gnaw (Ex)

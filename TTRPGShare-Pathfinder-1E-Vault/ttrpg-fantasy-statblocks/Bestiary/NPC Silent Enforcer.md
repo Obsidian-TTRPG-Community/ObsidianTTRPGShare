@@ -5,7 +5,7 @@ name: NPC Silent Enforcer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 5
 name: NPC Silent Enforcer
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +2
 perception: +11
 AC: 18, touch 16, flat-footed 15 (armor +2, dex +2, dodge +1, monk +1, wis +2)
 HP: 48
-HP_extra: 
 HD: 6d8+18
 saves: Fort +8, Ref +7, Will +7
 saves_other: +2 vs. enchantments

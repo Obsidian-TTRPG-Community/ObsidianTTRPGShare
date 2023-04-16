@@ -5,7 +5,7 @@ name: Gnoll Bruiser
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Gnoll Bruiser
 Monster_XP: 800

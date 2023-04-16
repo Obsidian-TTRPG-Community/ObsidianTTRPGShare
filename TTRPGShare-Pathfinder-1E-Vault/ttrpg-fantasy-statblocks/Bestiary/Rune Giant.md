@@ -5,7 +5,7 @@ name: Rune Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 17
 name: Rune Giant
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +29
 senses: low-light vision
 AC: 30, touch 6, flat-footed 30 (armor +9, natural +15, size -4)
 HP: 270
-HP_extra: 
 HD: 20d8+180
 saves: Fort +15, Ref +6, Will +20
 immune: cold, electricity, fire

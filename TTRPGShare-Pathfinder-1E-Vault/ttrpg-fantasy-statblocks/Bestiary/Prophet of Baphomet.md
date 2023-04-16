@@ -5,7 +5,7 @@ name: Prophet of Baphomet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 13
 name: Prophet of Baphomet
 Monster_XP: 25600

@@ -5,7 +5,7 @@ name: Mythic Guardian Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 24
 name: Mythic Guardian Dragon
 Monster_XP: 1228800
@@ -19,7 +19,6 @@ senses: blindsight, darkvision, detect magic, detect scrying, low-light vision, 
 aura: frightful presence, security
 AC: 44, touch 7, flat-footed 43 (armor +6, dex +1, natural +31, size -4)
 HP: 529
-HP_extra: 
 HD: 26d12+360
 saves: Fort +25, Ref +16, Will +24
 immune: ability damage, ability drain, curses, death effects, dragon traits, sleep, paralysis, poison

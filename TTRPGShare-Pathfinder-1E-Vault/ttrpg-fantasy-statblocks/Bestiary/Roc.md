@@ -5,7 +5,7 @@ name: Roc
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Roc
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +15
 senses: low-light vision
 AC: 22, touch 8, flat-footed 20 (dex +2, natural +14, size -4)
 HP: 120
-HP_extra: 
 HD: 16d8+48
 saves: Fort +13, Ref +14, Will +8
 speed: 20 ft., fly 80 ft. (average)
@@ -35,6 +34,7 @@ ecology:
     desc: warm mountains
   - name: Organisation
     desc: solitary or mated pair
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

@@ -5,7 +5,7 @@ name: Shemhazian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Shemhazian
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +36
 senses: darkvision, detect good, scent, true seeing
 AC: 31, touch 11, flat-footed 26 (dex +4, dodge +1, natural +20, size -4)
 HP: 246
-HP_extra: 
 HD: 17d10+153
 saves: Fort +19, Ref +11, Will +18
 immune: electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (the Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Paralyzing Gaze (Su)

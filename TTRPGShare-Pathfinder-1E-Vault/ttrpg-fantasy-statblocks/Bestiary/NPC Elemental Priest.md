@@ -5,7 +5,7 @@ name: NPC Elemental Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Elemental Priest
 Monster_XP: 51200
@@ -19,7 +19,6 @@ INI: +4
 perception: +19
 AC: 21, touch 12, flat-footed 21 (armor +7, deflection +1, natural +2, size +1)
 HP: 155
-HP_extra: 
 HD: 16d8+80
 saves: Fort +17, Ref +10, Will +20
 saves_other: +2 vs. fear

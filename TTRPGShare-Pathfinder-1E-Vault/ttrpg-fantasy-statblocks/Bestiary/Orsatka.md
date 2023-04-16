@@ -5,7 +5,7 @@ name: Orsatka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 13
 name: Orsatka
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision
 AC: 28, touch 16, flat-footed 22 (dex +6, natural +12)
 HP: 189
-HP_extra: 
 HD: 14d10+112
 saves: Fort +17, Ref +15, Will +11
 DR: 15/good and piercing
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or guard (1 plus 1 other rakshasa)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Stagger (Su)

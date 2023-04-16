@@ -5,7 +5,7 @@ name: Lantern Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Lantern Archon
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: aura of menace
 AC: 15, touch 11, flat-footed 15 (natural +4, size +1, deflect vs. evil +2)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +3, Will +0
 saves_other: +4 vs. poison, +2 resistance vs. evil
@@ -40,6 +39,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary, pair, or squad (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gestalt (Su)

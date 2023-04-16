@@ -5,7 +5,7 @@ name: NPC Crusader (Saint)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 11
 name: NPC Crusader (Saint)
 Monster_XP: 12800
@@ -19,7 +19,6 @@ perception: +6
 aura: courage, justice, resolve
 AC: 22, touch 9, flat-footed 22 (armor +9, dex -1, shield +4)
 HP: 92
-HP_extra: 
 HD: 12d10+26
 saves: Fort +15, Ref +8, Will +13
 immune: charm, disease, fear

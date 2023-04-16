@@ -5,7 +5,7 @@ name: Kaminari
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 52: Forest of Spirits"
+source: "Pathfinder No. 52: Forest of Spirits"
 Monster_CR: 17
 name: Kaminari
 Monster_XP: 102400
@@ -44,6 +44,7 @@ ecology:
     desc: temperate skies, hills, and mountains
   - name: Organisation
     desc: solitary, duet, or symphony (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cacophonous Blow (Su)

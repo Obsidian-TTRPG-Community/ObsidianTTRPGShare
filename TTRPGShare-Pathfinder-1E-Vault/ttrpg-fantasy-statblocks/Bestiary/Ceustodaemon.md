@@ -5,7 +5,7 @@ name: Ceustodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Ceustodaemon
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, detect good, detect magic, see invisibility
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +3, Will +8
 immune: acid, death effects, disease, mind-affecting effects, paralysis, poison, polymorph effects, sleep effects
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Drawn to Service (Su)

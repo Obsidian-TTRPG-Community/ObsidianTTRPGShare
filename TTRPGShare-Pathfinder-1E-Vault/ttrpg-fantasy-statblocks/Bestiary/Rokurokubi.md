@@ -5,7 +5,7 @@ name: Rokurokubi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Rokurokubi
 Monster_XP: 38400
@@ -18,7 +18,6 @@ senses: darkvision
 aura: nightfall
 AC: 28, touch 16, flat-footed 22 (dex +6, natural +12)
 HP: 195
-HP_extra: 
 HD: 17d10+102
 saves: Fort +11, Ref +16, Will +13
 immune: sleep
@@ -42,6 +41,7 @@ ecology:
     desc: any ruins
   - name: Organisation
     desc: solitary, pair, or harem (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Elongate Neck (Ex)

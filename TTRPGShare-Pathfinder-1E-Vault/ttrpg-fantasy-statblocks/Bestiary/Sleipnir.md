@@ -5,7 +5,7 @@ name: Sleipnir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Sleipnir
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision, low-light vision
 AC: 25, touch 13, flat-footed 21 (dex +4, natural +12, size -1)
 HP: 147
-HP_extra: 
 HD: 14d10+70
 saves: Fort +14, Ref +15, Will +9
 immune: electricity
@@ -39,6 +38,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or herd (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

@@ -5,7 +5,7 @@ name: Stormghost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Stormghost
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Camouflage (Ex)

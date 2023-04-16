@@ -5,7 +5,7 @@ name: Giant Stag Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Giant Stag Beetle
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 45
-HP_extra: 
 HD: 7d8+14
 saves: Fort +7, Ref +2, Will +2
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

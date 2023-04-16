@@ -5,7 +5,7 @@ name: Ammut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
+source: "Pathfinder No. 84: Pyramid of the Sky Pharaoh"
 Monster_CR: 18
 name: Ammut
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision, scent, tremorsense, true seeing
 aura: fear aura
 AC: 34, touch 14, flat-footed 28 (dex +6, natural +20, size -2)
 HP: 290
-HP_extra: 
 HD: 20d10+180
 saves: Fort +21, Ref +20, Will +13
 immune: disease, exhaustion, fatigue, fire, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Osirion)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Devour Soul (Su)

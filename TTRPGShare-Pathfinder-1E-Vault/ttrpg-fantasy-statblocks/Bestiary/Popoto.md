@@ -5,7 +5,7 @@ name: Popoto
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Familiar Folio"
+source: "Familiar Folio"
 Monster_CR: 1/3
 name: Popoto
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +5
 senses: blindsight, low-light vision
 AC: 15, touch 14, flat-footed 12 (dex +3, natural +1, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +1
 speed: swim 60 ft.

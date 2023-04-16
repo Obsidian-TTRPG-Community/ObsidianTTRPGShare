@@ -5,7 +5,7 @@ name: Giant Leech
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Giant Leech
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +0
 senses: blindsight, scent
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +2, Will +1
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm marshes
   - name: Organisation
     desc: cluster, pair, or brood (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

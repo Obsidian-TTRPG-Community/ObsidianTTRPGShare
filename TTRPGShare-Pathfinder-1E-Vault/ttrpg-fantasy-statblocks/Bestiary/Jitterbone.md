@@ -5,7 +5,7 @@ name: Jitterbone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 139: The Dead Road"
+source: "Pathfinder No. 139: The Dead Road"
 Monster_CR: 4
 name: Jitterbone
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 18, touch 15, flat-footed 14 (armor +2, dex +4, natural +1, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +6, Will +4
 saves_other: +4 vs. mind-affecting effects

@@ -5,7 +5,7 @@ name: Angazhani (High Girallon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Heart of the Jungle"
+source: "Heart of the Jungle"
 Monster_CR: 9
 name: Angazhani (High Girallon)
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent, see invisibility
 AC: 24, touch 12, flat-footed 21 (armor +4, dex +3, natural +8, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +11, Will +8
 immune: electricity, poison
@@ -46,6 +45,7 @@ ecology:
     desc: warm jungle
   - name: Organisation
     desc: solitary, tribe (2-4 angazhani, 4-8 girallons, and 12-24 charau-ka), or empire (8-12 angazhani, 12-20 girallons, and 50-100 charau-ka)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Martial Training (Ex)

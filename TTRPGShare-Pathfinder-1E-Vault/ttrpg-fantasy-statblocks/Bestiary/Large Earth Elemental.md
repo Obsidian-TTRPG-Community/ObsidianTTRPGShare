@@ -5,7 +5,7 @@ name: Large Earth Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Large Earth Elemental
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, tremorsense
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +1, Will +6
 immune: elemental traits

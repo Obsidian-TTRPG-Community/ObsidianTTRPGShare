@@ -5,7 +5,7 @@ name: Omnipath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 18
 name: Omnipath
 Monster_XP: 153600
@@ -42,6 +42,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or mesh (1 plus 2-48 aboleths, veiled masters, and other dominated creatures)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Mucus Cloud (Ex)

@@ -5,7 +5,7 @@ name: NPC Old Sailor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Old Sailor
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +6
 senses: low-light vision
 AC: 13, touch 11, flat-footed 12 (armor +2, dex +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +0, Ref +1, Will +3
 saves_other: +2 vs. enchantments

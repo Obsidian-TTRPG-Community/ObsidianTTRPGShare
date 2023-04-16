@@ -5,7 +5,7 @@ name: Naiad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1/2
 name: Naiad
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +4
 senses: low-light vision
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 9
-HP_extra: 
 HD: 1d8+1
 saves: Fort +1, Ref +5, Will +2
 defensive_abilities: water bond

@@ -5,7 +5,7 @@ name: Acrididaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Feast of Dust"
+source: "Feast of Dust"
 Monster_CR: 14
 name: Acrididaemon
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, detect good, detect magic, see invisibility
 AC: 28, touch 16, flat-footed 21 (dex +6, dodge +1, natural +12, size -1)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +17, Ref +18, Will +11
 immune: acid, death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pack (2-5), swarm (6-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Biting Locusts (Ex)

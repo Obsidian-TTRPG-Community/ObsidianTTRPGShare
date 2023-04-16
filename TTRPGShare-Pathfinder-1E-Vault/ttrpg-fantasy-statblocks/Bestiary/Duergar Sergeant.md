@@ -5,7 +5,7 @@ name: Duergar Sergeant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Duergar Sergeant
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 16, touch 9, flat-footed 15 (armor +7, size -1)
 HP: 23
-HP_extra: 
 HD: 2d10+8
 saves: Fort +6, Ref +0, Will +2
 saves_other: +2 vs. spells

@@ -5,7 +5,7 @@ name: Veiled Master
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Veiled Master
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: mucus cloud
 AC: 30, touch 15, flat-footed 24 (armor +4, dex +6, natural +11, size -1)
 HP: 200
-HP_extra: 
 HD: 16d8+128
 saves: Fort +13, Ref +13, Will +14
 immune: electricity, mind-affecting effects
@@ -43,6 +42,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or shoal (1 and 2-8 aboleths)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Consume Memory (Su)

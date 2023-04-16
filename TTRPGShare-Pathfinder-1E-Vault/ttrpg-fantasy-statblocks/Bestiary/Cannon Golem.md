@@ -5,7 +5,7 @@ name: Cannon Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Cannon Golem
 Monster_XP: 51200
@@ -16,7 +16,6 @@ INI: +7
 senses: darkvision, low-light vision
 AC: 31, touch 16, flat-footed 24 (dex +7, natural +15, size -1)
 HP: 140
-HP_extra: 
 HD: 20d10+30
 saves: Fort +6, Ref +13, Will +8
 immune: construct traits, magic
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alloyed (Ex)

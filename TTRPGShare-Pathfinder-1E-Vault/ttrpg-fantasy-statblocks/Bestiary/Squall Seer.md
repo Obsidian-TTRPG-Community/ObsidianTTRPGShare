@@ -5,7 +5,7 @@ name: Squall Seer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 9
 name: Squall Seer
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +3
 perception: +10
 AC: 19, touch 14, flat-footed 16 (armor +5, deflection +1, dex +3)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +7, Ref +12, Will +10
 saves_other: +4 vs. bardic performance, language-dependent, and sonic, +4 vs. air and water effects, +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments

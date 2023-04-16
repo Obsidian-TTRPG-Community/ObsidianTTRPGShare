@@ -5,7 +5,7 @@ name: NPC Tavern (Barkeep)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 3
 name: NPC Tavern (Barkeep)
 Monster_XP: 800

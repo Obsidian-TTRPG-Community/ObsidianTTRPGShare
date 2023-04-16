@@ -5,7 +5,7 @@ name: Frost Giant Battle Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Frost Giant Battle Priest
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +30
 senses: low-light vision
 AC: 27, touch 9, flat-footed 27 (armor +8, deflection +1, dex -1, natural +10, size -1)
 HP: 195
-HP_extra: 
 HD: 22d8+96
 saves: Fort +19, Ref +7, Will +16
 immune: cold

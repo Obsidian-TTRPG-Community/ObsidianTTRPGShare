@@ -5,7 +5,7 @@ name: Chon Chon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 53: Tide of Honor"
+source: "Pathfinder No. 53: Tide of Honor"
 Monster_CR: 1/2
 name: Chon Chon
 Monster_XP: 200
@@ -18,7 +18,6 @@ senses: darkvision
 aura: jabber
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +4, Will +4
 speed: 10 ft., fly 60 ft. (good)
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or tropical forests or ruins
   - name: Organisation
     desc: solitary, pair, flight (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid Spit (Ex)

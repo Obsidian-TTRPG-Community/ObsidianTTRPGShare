@@ -5,7 +5,7 @@ name: Choker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Choker
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 17, touch 13, flat-footed 15 (dex +2, natural +4, size +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +3, Will +4
 speed: 20 ft., climb 10 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or clutch (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Strangle (Ex)

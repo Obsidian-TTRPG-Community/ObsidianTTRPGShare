@@ -5,7 +5,7 @@ name: The Menotherian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: The Menotherian
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, scent
 aura: alluring scent
 AC: 31, touch 14, flat-footed 26 (dex +5, natural +17, size -1)
 HP: 202
-HP_extra: 
 HD: 15d10+120
 saves: Fort +17, Ref +16, Will +9
 immune: disease, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alluring Scent (Ex)

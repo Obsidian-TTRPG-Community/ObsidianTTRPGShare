@@ -5,7 +5,7 @@ name: Cryptguard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Cryptguard
 Monster_XP: 6400
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: consecration
 AC: 23, touch 13, flat-footed 20 (dex +3, natural +10)
 HP: 111
-HP_extra: 
 HD: 14d10+34
 saves: Fort +4, Ref +7, Will +5
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Consecration Aura (Su)

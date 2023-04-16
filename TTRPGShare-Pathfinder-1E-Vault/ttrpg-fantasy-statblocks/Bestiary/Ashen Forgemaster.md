@@ -5,7 +5,7 @@ name: Ashen Forgemaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 138: Rise of New Thassilon"
+source: "Pathfinder No. 138: Rise of New Thassilon"
 Monster_CR: 17
 name: Ashen Forgemaster
 Monster_XP: 102400

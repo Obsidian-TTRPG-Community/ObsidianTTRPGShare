@@ -5,7 +5,7 @@ name: NPC Death Dealer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Death Dealer
 Monster_XP: 153600
@@ -20,7 +20,6 @@ perception: +27
 senses: darkvision
 AC: 13, touch 10, flat-footed 11 (armor +3, dex +2, rage -2)
 HP: 243
-HP_extra: 
 HD: 19d12+114
 saves: Fort +20, Ref +12, Will +13
 saves_other: +6 vs. spells and spell-like or supernatural abilities, +4 vs. enchantments

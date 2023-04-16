@@ -5,7 +5,7 @@ name: Sewer Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Sewer Troll
 Monster_XP: 600
@@ -43,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: standard
 sources:
   - name: Monster Codex

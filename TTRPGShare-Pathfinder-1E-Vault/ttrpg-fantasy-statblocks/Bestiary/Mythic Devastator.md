@@ -5,7 +5,7 @@ name: Mythic Devastator
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 22
 name: Mythic Devastator
 Monster_XP: 614400
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, mythic sight (2)
 aura: corruption, unholy aura
 AC: 44, touch 20, flat-footed 38 (deflection +4, dex +6, natural +24, profane +4, size -4)
 HP: 365
-HP_extra: 
 HD: 30d10+200
 saves: Fort +14, Ref +20, Will +18
 immune: acid, cold, construct traits, electricity, fire
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or catastrophe (3-13)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorb Good Magic (Su)

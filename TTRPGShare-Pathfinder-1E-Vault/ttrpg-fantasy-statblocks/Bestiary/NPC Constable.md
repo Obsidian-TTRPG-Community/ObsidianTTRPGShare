@@ -5,7 +5,7 @@ name: NPC Constable
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Constable
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +0
 perception: +14
 AC: 14, touch 10, flat-footed 14 (armor +4)
 HP: 49
-HP_extra: 
 HD: 9d6+18
 saves: Fort +5, Ref +4, Will +6
 speed: 30 ft.

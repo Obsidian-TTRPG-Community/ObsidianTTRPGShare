@@ -5,7 +5,7 @@ name: Exoskeleton Giant Stag Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Exoskeleton Giant Stag Beetle
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 12, touch 9, flat-footed 12 (natural +3, size -1)
 HP: 49
-HP_extra: 
 HD: 9d8+9
 saves: Fort +2, Ref +2, Will +5
 immune: undead traits

@@ -5,7 +5,7 @@ name: NPC Scholar (Hedge Wizard)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 4
 name: NPC Scholar (Hedge Wizard)
 Monster_XP: 1200
@@ -18,7 +18,6 @@ INI: +1
 perception: +6
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 22
-HP_extra: 
 HD: 5d6+5
 saves: Fort +3, Ref +3, Will +6
 speed: 30 ft.

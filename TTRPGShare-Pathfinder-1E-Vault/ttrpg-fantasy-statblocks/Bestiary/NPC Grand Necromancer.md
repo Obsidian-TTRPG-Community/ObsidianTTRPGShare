@@ -5,7 +5,7 @@ name: NPC Grand Necromancer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Grand Necromancer
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +24
 senses: see invisibility
 AC: 23, touch 16, flat-footed 22 (armor +4, deflection +4, dex +1, insight +1, natural +3)
 HP: 170
-HP_extra: 
 HD: 18d6+105
 saves: Fort +14, Ref +11, Will +17
 saves_other: +4 vs. mind-affecting

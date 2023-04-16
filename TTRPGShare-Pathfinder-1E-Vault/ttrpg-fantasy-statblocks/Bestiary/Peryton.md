@@ -5,7 +5,7 @@ name: Peryton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Peryton
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +7, Will +3
 DR: 5/magic
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or flock (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Horrific Critical (Ex)

@@ -5,7 +5,7 @@ name: Collector Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 85: Fires of Creation"
+source: "Pathfinder No. 85: Fires of Creation"
 Monster_CR: 3
 name: Collector Robot
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 31
-HP_extra: 
 HD: 2d10+20
 saves: Fort +0, Ref +6, Will +2
 immune: construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary, pair, or unit (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Tracker (Ex)

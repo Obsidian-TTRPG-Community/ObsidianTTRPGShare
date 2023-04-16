@@ -5,7 +5,7 @@ name: NPC Numerian Gunslinger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 6
 name: NPC Numerian Gunslinger
 Monster_XP: 2400
@@ -19,7 +19,6 @@ INI: +5
 perception: +11
 AC: 20, touch 16, flat-footed 15 (armor +4, deflection +1, dex +3, dodge +2)
 HP: 61
-HP_extra: 
 HD: 6d10+24
 saves: Fort +8, Ref +9, Will +5
 defensive_abilities: nimble +2

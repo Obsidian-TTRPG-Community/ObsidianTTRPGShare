@@ -5,7 +5,7 @@ name: Nightmare
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Nightmare
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +7, Will +3
 speed: 40 ft., fly 90 ft. (good)
@@ -38,6 +37,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Smoke (Su)

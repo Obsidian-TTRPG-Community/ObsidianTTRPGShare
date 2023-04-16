@@ -5,7 +5,7 @@ name: Giant Water Strider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Giant Water Strider
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 12, touch 10, flat-footed 11 (dex +1, natural +2, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +2, Will +1
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or colony (2-9)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Tremorsense (Ex)

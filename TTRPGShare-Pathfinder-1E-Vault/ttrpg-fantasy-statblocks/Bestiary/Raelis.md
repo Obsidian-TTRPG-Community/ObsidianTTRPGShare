@@ -5,7 +5,7 @@ name: Raelis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Raelis
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 115
-HP_extra: 
 HD: 11d10+55
 saves: Fort +8, Ref +11, Will +9
 immune: electricity, petrification, rune mastery
@@ -43,6 +42,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or band (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Rune Mastery (Ex)

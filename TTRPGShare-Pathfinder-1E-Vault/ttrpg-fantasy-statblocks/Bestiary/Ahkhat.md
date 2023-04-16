@@ -5,7 +5,7 @@ name: Ahkhat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Ahkhat
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, tremorsense
 AC: 17, touch 12, flat-footed 16 (dex +1, natural +5, size +1)
 HP: 38
-HP_extra: 
 HD: 4d10+16
 saves: Fort +8, Ref +5, Will +2
 immune: elemental traits
@@ -40,6 +39,7 @@ ecology:
     desc: warm urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Integrated Body (Ex)

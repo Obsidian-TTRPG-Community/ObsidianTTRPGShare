@@ -5,7 +5,7 @@ name: Dawn Piper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 68: The Shackled Hut"
+source: "Pathfinder No. 68: The Shackled Hut"
 Monster_CR: 5
 name: Dawn Piper
 Monster_XP: 1600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: terrible beauty
 AC: 18, touch 15, flat-footed 13 (dex +4, dodge +1, natural +3)
 HP: 45
-HP_extra: 
 HD: 7d6+21
 saves: Fort +5, Ref +9, Will +7
 DR: 5/cold iron

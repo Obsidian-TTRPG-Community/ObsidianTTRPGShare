@@ -5,7 +5,7 @@ name: Uintatherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Uintatherium
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +20
 senses: low-light vision
 AC: 20, touch 9, flat-footed 20 (natural +11, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +12, Ref +7, Will +6
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

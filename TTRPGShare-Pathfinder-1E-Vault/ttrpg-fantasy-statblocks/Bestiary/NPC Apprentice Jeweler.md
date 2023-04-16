@@ -5,7 +5,7 @@ name: NPC Apprentice Jeweler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/3
 name: NPC Apprentice Jeweler
 Monster_XP: 135
@@ -19,7 +19,6 @@ INI: +2
 perception: +4
 AC: 13, touch 12, flat-footed 11 (armor +1, dex +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +0, Ref +2, Will +2
 speed: 30 ft.

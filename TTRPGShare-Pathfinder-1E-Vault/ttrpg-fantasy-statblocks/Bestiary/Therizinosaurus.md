@@ -5,7 +5,7 @@ name: Therizinosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Therizinosaurus
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +25
 senses: low-light vision, scent
 AC: 24, touch 9, flat-footed 21 (dex +3, natural +15, size -4)
 HP: 133
-HP_extra: 
 HD: 14d8+70
 saves: Fort +14, Ref +12, Will +8
 speed: 40 ft., other_semicolon sprint ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or flock (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Sprint (Ex)

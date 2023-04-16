@@ -5,7 +5,7 @@ name: NPC Mistress of High Places
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 10
 name: NPC Mistress of High Places
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +14
 senses: low-light vision
 AC: 23, touch 13, flat-footed 21 (armor +7, deflection +1, dex +1, dodge +1, shield +3)
 HP: 84
-HP_extra: 
 HD: 11d8+31
 saves: Fort +10, Ref +5, Will +13
 saves_other: +2 vs. enchantments, +4 vs. fey and plant-targeted effects

@@ -5,7 +5,7 @@ name: Serpentfolk Reclaimer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 6
 name: Serpentfolk Reclaimer
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, scent
 AC: 20, touch 16, flat-footed 14 (dex +6, natural +4)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +5, Ref +12, Will +10
 immune: mind-affecting effects, poison, paralysis

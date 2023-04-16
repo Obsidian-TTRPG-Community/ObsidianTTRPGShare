@@ -5,7 +5,7 @@ name: Cataboligne
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 16
 name: Cataboligne
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +26
 senses: blindsight, darkvision
 AC: 31, touch 31, flat-footed 26 (dex +5, natural +20, size -4)
 HP: 241
-HP_extra: 
 HD: 21d10+126
 saves: Fort +18, Ref +17, Will +11
 immune: cold, mind-affecting effects, poison
@@ -43,6 +42,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or siege (3-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Bite (Ex)

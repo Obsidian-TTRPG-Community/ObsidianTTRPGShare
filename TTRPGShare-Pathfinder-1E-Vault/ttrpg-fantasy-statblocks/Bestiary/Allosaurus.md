@@ -5,7 +5,7 @@ name: Allosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Allosaurus
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +28
 senses: low-light vision, scent
 AC: 19, touch 9, flat-footed 18 (dex +1, natural +10, size -2)
 HP: 93
-HP_extra: 
 HD: 11d8+44
 saves: Fort +11, Ref +8, Will +7
 speed: 50 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

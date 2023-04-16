@@ -5,7 +5,7 @@ name: Master Automaton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 20
 name: Master Automaton
 Monster_XP: 307200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Arcane Hooks (Ex)

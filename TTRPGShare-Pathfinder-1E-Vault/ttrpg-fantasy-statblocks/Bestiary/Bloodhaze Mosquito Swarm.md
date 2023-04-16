@@ -5,7 +5,7 @@ name: Bloodhaze Mosquito Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 38: Racing to Ruin"
+source: "Pathfinder No. 38: Racing to Ruin"
 Monster_CR: 6
 name: Bloodhaze Mosquito Swarm
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, scent
 AC: 20, touch 20, flat-footed 18 (dex +2, size +8)
 HP: 71
-HP_extra: 
 HD: 13d8+13
 saves: Fort +9, Ref +6, Will +5
 immune: weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: warm forests and swamps
   - name: Organisation
     desc: solitary, pair, pestilence (3-6 swarms), or plague (7-12 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cling (Ex)

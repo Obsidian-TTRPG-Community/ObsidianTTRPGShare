@@ -5,7 +5,7 @@ name: Personification of Fury
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Personification of Fury
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any air or water (Plane of Air or Plane of Water)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Air Mastery (Ex)

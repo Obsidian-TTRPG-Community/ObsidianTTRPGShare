@@ -5,7 +5,7 @@ name: Whisperfall Vulture
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Belkzen, Hold of the Orc Hordes"
+source: "Belkzen, Hold of the Orc Hordes"
 Monster_CR: 1
 name: Whisperfall Vulture
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +5, Will +1
 speed: 10 ft., fly 60 ft. (good)
@@ -35,6 +34,7 @@ ecology:
     desc: temperate mountains
   - name: Organisation
     desc: solitary, pair, or flock (3-18)
+  - name: Treasure
     desc: none
 sources:
   - name: Belkzen, Hold of the Orc Hordes

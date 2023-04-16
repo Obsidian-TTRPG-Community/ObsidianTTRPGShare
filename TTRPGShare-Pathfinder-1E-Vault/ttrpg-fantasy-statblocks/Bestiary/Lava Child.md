@@ -5,7 +5,7 @@ name: Lava Child
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Misfit Monsters Redeemed"
+source: "Misfit Monsters Redeemed"
 Monster_CR: 3
 name: Lava Child
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, tremorsense
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +5, Ref +5, Will +5
 immune: earth magic, fire, metal

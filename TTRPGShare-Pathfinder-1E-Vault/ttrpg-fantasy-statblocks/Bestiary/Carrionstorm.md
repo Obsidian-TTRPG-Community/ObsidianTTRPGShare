@@ -5,7 +5,7 @@ name: Carrionstorm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Rise of the Runelords Anniversary Edition"
+source: "Rise of the Runelords Anniversary Edition"
 Monster_CR: 1
 name: Carrionstorm
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision
 AC: 12, touch 12, flat-footed 12 (size +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +1, Ref +0, Will +5
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any near ghouls
   - name: Organisation
     desc: solitary, flock (2-4 swarms), or murder (5-12 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Pallid Bond (Ex)

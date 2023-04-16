@@ -5,7 +5,7 @@ name: Half-Fiend (Minotaur)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Half-Fiend (Minotaur)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +8, Ref +7, Will +6
 immune: poison

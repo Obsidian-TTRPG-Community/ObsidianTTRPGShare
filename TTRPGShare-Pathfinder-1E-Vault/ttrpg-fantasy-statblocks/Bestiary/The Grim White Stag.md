@@ -5,7 +5,7 @@ name: The Grim White Stag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: The Grim White Stag
 Monster_XP: 51200
@@ -47,6 +47,7 @@ ecology:
     desc: any land (Heaven)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bugle (Ex)

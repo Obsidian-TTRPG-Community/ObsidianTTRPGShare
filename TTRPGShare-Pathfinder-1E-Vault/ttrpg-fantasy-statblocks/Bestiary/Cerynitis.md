@@ -5,7 +5,7 @@ name: Cerynitis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Cerynitis
 Monster_XP: 3200

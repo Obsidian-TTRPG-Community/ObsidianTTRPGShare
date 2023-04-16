@@ -5,7 +5,7 @@ name: Mythic Champion of the Gilded Host
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Treasures"
+source: "Lost Treasures"
 Monster_CR: 18
 name: Mythic Champion of the Gilded Host
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: blazing courage, selective antimagic
 AC: 32, touch 3, flat-footed 31 (dex +1, natural +29, size -8)
 HP: 273
-HP_extra: 
 HD: 19d10+169
 saves: Fort +6, Ref +7, Will +7
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or legion (1 plus 10-100 human fighters of 5th-8th level)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alternate Form (Ex)

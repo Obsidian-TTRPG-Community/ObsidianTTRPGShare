@@ -5,7 +5,7 @@ name: Blood Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 23
 name: Blood Queen
 Monster_XP: 819200
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Blood Link (Su)

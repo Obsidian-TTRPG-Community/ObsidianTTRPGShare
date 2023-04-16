@@ -5,7 +5,7 @@ name: Magmin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Magmin
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: searing aura
 AC: 17, touch 11, flat-footed 17 (natural +6, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +4, Will +3
 immune: elemental traits, fire
@@ -41,6 +40,7 @@ ecology:
     desc: any land (Plane of Fire)
   - name: Organisation
     desc: solitary or gang (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Heated Flesh (Ex)

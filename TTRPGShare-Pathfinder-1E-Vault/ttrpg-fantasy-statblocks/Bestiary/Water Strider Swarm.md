@@ -5,7 +5,7 @@ name: Water Strider Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 49: The Brinewall Legacy"
+source: "Pathfinder No. 49: The Brinewall Legacy"
 Monster_CR: 1
 name: Water Strider Swarm
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, tremorsense
 AC: 18, touch 18, flat-footed 14 (dex +4, size +4)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref +4, Will +0
 immune: mind-affecting effects, weapon damage
@@ -43,6 +42,7 @@ ecology:
     desc: temperate lakes, rivers, or swamps
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Water Walking (Ex)

@@ -5,7 +5,7 @@ name: Frightful Haunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Frightful Haunter
 Monster_XP: 4800
@@ -39,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Cowardice (Su)

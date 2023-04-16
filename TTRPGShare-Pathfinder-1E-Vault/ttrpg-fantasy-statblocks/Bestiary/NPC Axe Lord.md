@@ -5,7 +5,7 @@ name: NPC Axe Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Axe Lord
 Monster_XP: 76800
@@ -20,7 +20,6 @@ perception: +12
 aura: courage, faith, justice, resolve, righteousness
 AC: 26, touch 11, flat-footed 26 (armor +10, deflection +2, dex -1, natural +1, shield +4)
 HP: 183
-HP_extra: 
 HD: 17d10+85
 saves: Fort +16, Ref +7, Will +15
 saves_other: +2 vs. poison, spells, and spell-like abilities

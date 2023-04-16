@@ -5,7 +5,7 @@ name: Young Green Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Young Green Dragon
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +15
 senses: dragon senses
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 85
-HP_extra: 
 HD: 9d12+27
 saves: Fort +9, Ref +7, Will +9
 immune: acid, paralysis, sleep

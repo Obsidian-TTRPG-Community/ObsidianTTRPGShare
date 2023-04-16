@@ -5,7 +5,7 @@ name: Pyralisia, the Rain of Embers
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythical Monsters Revisited"
+source: "Mythical Monsters Revisited"
 Monster_CR: 18
 name: Pyralisia, the Rain of Embers
 Monster_XP: 153600

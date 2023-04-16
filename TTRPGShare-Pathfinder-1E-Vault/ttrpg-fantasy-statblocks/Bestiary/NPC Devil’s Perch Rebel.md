@@ -5,7 +5,7 @@ name: NPC Devil’s Perch Rebel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 4
 name: NPC Devil’s Perch Rebel
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 15, touch 15, flat-footed 11 (deflection +1, dex +3, dodge +1)
 HP: 30
-HP_extra: 
 HD: 5d6+10
 saves: Fort +2, Ref +4, Will +7
 saves_other: +2 vs. illusions

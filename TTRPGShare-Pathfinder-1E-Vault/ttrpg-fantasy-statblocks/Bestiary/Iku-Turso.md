@@ -5,7 +5,7 @@ name: Iku-Turso
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Iku-Turso
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +12
 senses: blindsense, darkvision
 AC: 21, touch 14, flat-footed 17 (dex +3, dodge +1, natural +7)
 HP: 102
-HP_extra: 
 HD: 12d8+48
 saves: Fort +8, Ref +9, Will +11
 immune: disease
@@ -39,6 +38,7 @@ ecology:
     desc: cold or temperate water or underground
   - name: Organisation
     desc: solitary, pair, or cell (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

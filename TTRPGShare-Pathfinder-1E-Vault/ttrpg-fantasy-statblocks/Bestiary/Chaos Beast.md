@@ -5,7 +5,7 @@ name: Chaos Beast
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Chaos Beast
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 20, touch 13, flat-footed 17 (dex +2, dodge +1, natural +7)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +9, Ref +8, Will +4
 defensive_abilities: amorphous, resistant to transformation
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or invasion (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Corporeal Instability (Su)

@@ -5,7 +5,7 @@ name: Kabandha
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Kabandha
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, low-light vision, see invisibility
 AC: 25, touch 12, flat-footed 22 (armor +6, dex +3, natural +7, size -1)
 HP: 119
-HP_extra: 
 HD: 14d8+56
 saves: Fort +13, Ref +9, Will +8
 defensive_abilities: ferocity

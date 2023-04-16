@@ -5,7 +5,7 @@ name: Adult Silver Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 14
 name: Adult Silver Dragon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: dragon senses, fog vision
 aura: frightful presence
 AC: 29, touch 8, flat-footed 29 (natural +21, size -2)
 HP: 195
-HP_extra: 
 HD: 17d12+85
 saves: Fort +15, Ref +12, Will +17
 immune: acid, cold, paralysis, sleep

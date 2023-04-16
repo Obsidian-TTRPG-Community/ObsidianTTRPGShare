@@ -5,7 +5,7 @@ name: Ankou
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Ankou
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +21
 senses: blindsense, low-light vision
 AC: 31, touch 19, flat-footed 21 (dex +9, dodge +1, natural +12, size -1)
 HP: 133
-HP_extra: 
 HD: 14d6+84
 saves: Fort +10, Ref +18, Will +13
 DR: 10/cold iron
@@ -39,6 +38,7 @@ ecology:
     desc: any (primal land of fey)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cold Iron Killer (Su)

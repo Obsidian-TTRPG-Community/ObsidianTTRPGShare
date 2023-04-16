@@ -5,7 +5,7 @@ name: Jungle Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Jungle Drake
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, greensight 60 ft. low-light vision, scent
 AC: 19, touch 13, flat-footed 15 (dex +3, dodge +1, natural +6, size -1)
 HP: 73
-HP_extra: 
 HD: 7d12+28
 saves: Fort +9, Ref +8, Will +6
 immune: disease, poison, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: warm jungles
   - name: Organisation
     desc: solitary, pair, or rampage (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

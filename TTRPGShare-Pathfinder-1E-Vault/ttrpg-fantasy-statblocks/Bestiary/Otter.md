@@ -5,7 +5,7 @@ name: Otter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/4
 name: Otter
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +1
 speed: 20 ft., swim 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or family (2-16)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

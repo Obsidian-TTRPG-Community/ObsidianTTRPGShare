@@ -5,7 +5,7 @@ name: Penanggalen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Penanggalen
 Monster_XP: 1600
@@ -51,6 +51,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: NPC Gear
 special_abilities:
   - name: Hexes

@@ -5,7 +5,7 @@ name: Orsheval
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Orsheval
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision
 AC: 16, touch 11, flat-footed 15 (dex +1, natural +5)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +6, Ref +2, Will +5
 immune: electricity
@@ -42,6 +41,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary, pair, or team (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Glittering Radiance (Su)

@@ -5,7 +5,7 @@ name: Escorite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The First World, Realm of the Fey"
+source: "The First World, Realm of the Fey"
 Monster_CR: 8
 name: Escorite
 Monster_XP: 4800
@@ -18,7 +18,6 @@ senses: low-light vision, see in darkness
 aura: inevitability
 AC: 21, touch 14, flat-footed 16 (dex +4, dodge +1, natural +7, size -1)
 HP: 97
-HP_extra: 
 HD: 13d6+52
 saves: Fort +8, Ref +12, Will +11
 resist: acid 10, cold 10, fire 10
@@ -41,6 +40,7 @@ ecology:
     desc: any (First World)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Inevitability

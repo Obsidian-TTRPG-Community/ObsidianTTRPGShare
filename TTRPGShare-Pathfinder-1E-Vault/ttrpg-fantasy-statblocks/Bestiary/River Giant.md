@@ -5,7 +5,7 @@ name: River Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 6
 name: River Giant
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +6
 senses: low-light vision
 AC: 19, touch 9, flat-footed 19 (armor +3, natural +7, size -1)
 HP: 68
-HP_extra: 
 HD: 8d8+32
 saves: Fort +10, Ref +2, Will +2
 defensive_abilities: rock catching

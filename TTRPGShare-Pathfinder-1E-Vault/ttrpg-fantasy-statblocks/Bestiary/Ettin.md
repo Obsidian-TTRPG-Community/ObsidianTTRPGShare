@@ -5,7 +5,7 @@ name: Ettin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Ettin
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: low-light vision
 AC: 18, touch 8, flat-footed 18 (armor +2, dex -1, natural +8, size -1)
 HP: 65
-HP_extra: 
 HD: 10d8+20
 saves: Fort +9, Ref +2, Will +5
 speed: 40 ft.

@@ -5,7 +5,7 @@ name: Mythic Irminsul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 17
 name: Mythic Irminsul
 Monster_XP: 102400
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Planar Portal (Su)

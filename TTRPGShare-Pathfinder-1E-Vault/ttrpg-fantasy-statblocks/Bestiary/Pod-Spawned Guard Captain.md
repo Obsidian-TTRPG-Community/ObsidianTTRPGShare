@@ -5,7 +5,7 @@ name: Pod-Spawned Guard Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Pod-Spawned Guard Captain
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +3
 senses: low-light vision
 AC: 20, touch 11, flat-footed 19 (armor +7, dex +1, shield +2)
 HP: 90
-HP_extra: 
 HD: 9d10+36
 saves: Fort +8, Ref +4, Will +4
 immune: plant traits

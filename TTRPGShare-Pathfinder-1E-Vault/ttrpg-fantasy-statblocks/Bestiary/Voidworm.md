@@ -5,7 +5,7 @@ name: Voidworm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Voidworm
 Monster_XP: 600
@@ -41,6 +41,7 @@ ecology:
     desc: any (Limbo)
   - name: Organisation
     desc: solitary, pair, or school (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Confusion (Su)

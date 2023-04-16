@@ -5,7 +5,7 @@ name: Stygian Hot-Blooded Horse
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 103: The Hellfire Compact"
+source: "Pathfinder No. 103: The Hellfire Compact"
 Monster_CR: 2
 name: Stygian Hot-Blooded Horse
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +5, Will +2
 defensive_abilities: shifting trot
@@ -37,6 +36,7 @@ ecology:
     desc: temperate or warm plains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Docile (Ex)

@@ -5,7 +5,7 @@ name: Tattoo Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 3
 name: Tattoo Guardian
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +9
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 42
-HP_extra: 
 HD: 4d10+20
 saves: Fort +1, Ref +6, Will +2
 immune: construct traits
@@ -35,6 +34,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bodyguard (Su)

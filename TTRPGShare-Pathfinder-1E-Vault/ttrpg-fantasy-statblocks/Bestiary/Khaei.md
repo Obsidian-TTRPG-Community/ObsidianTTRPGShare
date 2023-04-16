@@ -5,7 +5,7 @@ name: Khaei
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 3
 name: Khaei
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +3, Ref +5, Will +4
 speed: 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any underground (beneath Kaer Maga)
   - name: Organisation
     desc: solitary, pair, gang (3-5), or village (6-30)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lost Time (Su)

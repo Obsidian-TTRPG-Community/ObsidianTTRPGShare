@@ -5,7 +5,7 @@ name: Trailgaunt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 3
 name: Trailgaunt
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 8, flat-footed 15 (dex -2, natural +7)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +5, Ref -1, Will +5
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: any land (wilderness)
   - name: Organisation
     desc: solitary, pair, or pack (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

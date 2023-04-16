@@ -5,7 +5,7 @@ name: Amoeba Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Amoeba Swarm
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: -5
 senses: blindsight
 AC: 13, touch 13, flat-footed 13 (dex -5, size +8)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref -5, Will -5
 immune: weapon damage
@@ -39,6 +38,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary or colony (2-5)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

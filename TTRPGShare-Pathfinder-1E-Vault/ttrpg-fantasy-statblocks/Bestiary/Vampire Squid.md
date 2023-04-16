@@ -5,7 +5,7 @@ name: Vampire Squid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/2
 name: Vampire Squid
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +6, Will +1
 defensive_abilities: pressure adaptation
@@ -37,6 +36,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or school (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Photophores (Ex)

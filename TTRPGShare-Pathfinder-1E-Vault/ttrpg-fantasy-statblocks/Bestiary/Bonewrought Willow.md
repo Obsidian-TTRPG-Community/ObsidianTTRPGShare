@@ -5,7 +5,7 @@ name: Bonewrought Willow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 139: The Dead Road"
+source: "Pathfinder No. 139: The Dead Road"
 Monster_CR: 3
 name: Bonewrought Willow
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision, spiritsense
 AC: 15, touch 9, flat-footed 15 (natural +6, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +1, Will +2
 immune: death effects, disease, energy drain, exhaustion, fatigue, nonlethal damage, plant traits
@@ -44,6 +43,7 @@ ecology:
     desc: any land (The Boneyard)
   - name: Organisation
     desc: solitary, pair, or copse (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bonerattle (Su)

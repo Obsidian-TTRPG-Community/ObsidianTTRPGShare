@@ -5,7 +5,7 @@ name: NPC Accomplished Angler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Accomplished Angler
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +3
 perception: +10
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 10
-HP_extra: 
 HD: 4d6-4
 saves: Fort +1, Ref +5, Will +3
 saves_other: +2 vs. fear

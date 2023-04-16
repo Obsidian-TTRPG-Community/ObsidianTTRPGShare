@@ -5,7 +5,7 @@ name: Outlaw Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Outlaw Troop
 Monster_XP: 3200
@@ -17,7 +17,6 @@ INI: +8
 perception: +12
 AC: 19, touch 15, flat-footed 14 (armor +4, dex +4, dodge +1)
 HP: 82
-HP_extra: 
 HD: 11d8+33
 saves: Fort +6, Ref +13, Will +6
 defensive_abilities: evasion, troop traits
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or band (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Protect Ally (Ex)

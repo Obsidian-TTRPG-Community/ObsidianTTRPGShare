@@ -5,7 +5,7 @@ name: Werespider (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 2
 name: Werespider (Human Form)
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 18
-HP_extra: 
 HD: 2d8+6
 saves: Fort +2, Ref +5, Will +4
 saves_other: +4 vs. mind-affecting effects

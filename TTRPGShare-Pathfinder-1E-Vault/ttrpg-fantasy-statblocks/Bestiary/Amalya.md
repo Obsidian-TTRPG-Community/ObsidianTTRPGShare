@@ -5,7 +5,7 @@ name: Amalya
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 6
 name: Amalya
 Monster_XP: 2400

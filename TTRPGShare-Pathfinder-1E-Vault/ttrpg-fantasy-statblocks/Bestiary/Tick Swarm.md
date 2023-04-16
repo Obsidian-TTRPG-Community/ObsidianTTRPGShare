@@ -5,7 +5,7 @@ name: Tick Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Tick Swarm
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, scent
 AC: 23, touch 20, flat-footed 21 (dex +2, natural +3, size +8)
 HP: 120
-HP_extra: 
 HD: 16d8+48
 saves: Fort +13, Ref +7, Will +5
 immune: mind-affecting effects, weapon damage
@@ -38,6 +37,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Cling (Ex)

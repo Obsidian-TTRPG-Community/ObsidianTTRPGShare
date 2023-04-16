@@ -5,7 +5,7 @@ name: Goblin Snake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Goblin Snake
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, scent
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +2, Will +4
 speed: 30 ft., burrow 5 ft., swim 20 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any underground or swamps
   - name: Organisation
     desc: solitary, pair, or nest (3-12 plus 1-6 venomous snakes)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Goblin Breath (Ex)

@@ -5,7 +5,7 @@ name: Dire Hyena (Hyaenodon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Dire Hyena (Hyaenodon)
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +6, Will +2
 speed: 50 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

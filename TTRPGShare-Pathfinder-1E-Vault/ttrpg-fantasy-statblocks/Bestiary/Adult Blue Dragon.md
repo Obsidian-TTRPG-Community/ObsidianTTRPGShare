@@ -5,7 +5,7 @@ name: Adult Blue Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Adult Blue Dragon
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: electricity, frightful presence
 AC: 28, touch 8, flat-footed 28 (natural +20, size -2)
 HP: 184
-HP_extra: 
 HD: 16d12+80
 saves: Fort +15, Ref +10, Will +13
 immune: electricity, paralysis, sleep

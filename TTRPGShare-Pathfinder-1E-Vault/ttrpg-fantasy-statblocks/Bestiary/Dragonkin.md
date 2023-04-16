@@ -5,7 +5,7 @@ name: Dragonkin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Dragonkin
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision, scent
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 115
-HP_extra: 
 HD: 10d12+50
 saves: Fort +12, Ref +9, Will +8
 immune: fire, paralysis, sleep

@@ -5,7 +5,7 @@ name: NPC Mercenary (Bounty Hunter)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 11
 name: NPC Mercenary (Bounty Hunter)
 Monster_XP: 12800
@@ -18,7 +18,6 @@ INI: +5
 perception: +16
 AC: 22, touch 15, flat-footed 17 (armor +5, dex +5, shield +2)
 HP: 98
-HP_extra: 
 HD: 12d10+32
 saves: Fort +10, Ref +13, Will +5
 defensive_abilities: evasion

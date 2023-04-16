@@ -5,7 +5,7 @@ name: Sarcovalt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Sarcovalt
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, deathwatch
 AC: 19, touch 15, flat-footed 16 (dex +3, natural +4, size +2)
 HP: 34
-HP_extra: 
 HD: 4d10+12
 saves: Fort +6, Ref +7, Will +5
 immune: disease
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or swarm (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Detach Head (Su)

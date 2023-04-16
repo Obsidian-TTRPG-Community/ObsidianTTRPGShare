@@ -5,7 +5,7 @@ name: Leukodaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Leukodaemon
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, deathwatch, detect good
 aura: infectious aura
 AC: 23, touch 16, flat-footed 16 (dex +7, natural +7, size -1)
 HP: 115
-HP_extra: 
 HD: 10d10+60
 saves: Fort +9, Ref +14, Will +12
 immune: acid, death effects, disease, poison

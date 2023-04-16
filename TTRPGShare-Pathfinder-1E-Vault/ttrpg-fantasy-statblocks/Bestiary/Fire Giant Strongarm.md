@@ -5,7 +5,7 @@ name: Fire Giant Strongarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Fire Giant Strongarm
 Monster_XP: 25600

@@ -5,7 +5,7 @@ name: Mythic Nalfeshnee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 17
 name: Mythic Nalfeshnee
 Monster_XP: 102400
@@ -45,6 +45,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or warband (1 nalfeshnee, 1 hezrou, and 2-5 vrocks)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Demonic Knowledge (Su)

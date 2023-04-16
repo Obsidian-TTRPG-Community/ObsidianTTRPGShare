@@ -5,7 +5,7 @@ name: Moon Spider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Emerald Spire Superdungeon"
+source: "The Emerald Spire Superdungeon"
 Monster_CR: 2
 name: Moon Spider
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision, tremorsense
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +5, Will +3
 speed: 30 ft., climb 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate forest
   - name: Organisation
     desc: solitary, pair, or colony (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Moon Spider Webs (Ex)

@@ -5,7 +5,7 @@ name: Camulatz
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 39: The City of Seven Spears"
+source: "Pathfinder No. 39: The City of Seven Spears"
 Monster_CR: 9
 name: Camulatz
 Monster_XP: 6400
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: frightful presence
 AC: 22, touch 12, flat-footed 19 (dex +3, natural +10, size -1)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +11, Will +6
 speed: 10 ft., fly 80 ft. (average)
@@ -41,6 +40,7 @@ ecology:
     desc: tropical jungles
   - name: Organisation
     desc: solitary, flight (2-5), or aerie (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Decapitating Strike (Ex)

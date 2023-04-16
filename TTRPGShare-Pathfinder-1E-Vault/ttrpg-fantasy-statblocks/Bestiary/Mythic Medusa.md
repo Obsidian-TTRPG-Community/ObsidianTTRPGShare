@@ -5,7 +5,7 @@ name: Mythic Medusa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 9
 name: Mythic Medusa
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +18
 senses: all-around vision, darkvision
 AC: 23, touch 13, flat-footed 20 (dex +3, natural +10)
 HP: 115
-HP_extra: 
 HD: 9d10+66
 saves: Fort +7, Ref +11, Will +8
 DR: 5/epic

@@ -5,7 +5,7 @@ name: Anhana
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 3
 name: Anhana
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision
 AC: 15, touch 15, flat-footed 11 (dex +3, dodge +1, size +1)
 HP: 27
-HP_extra: 
 HD: 5d6+10
 saves: Fort +3, Ref +7, Will +6
 DR: 5/cold iron
@@ -36,6 +35,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary, pair, or sisterhood (3-15)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Shears (Su)

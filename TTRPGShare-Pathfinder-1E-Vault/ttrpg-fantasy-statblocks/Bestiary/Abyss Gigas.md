@@ -5,7 +5,7 @@ name: Abyss Gigas
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Witchwar Legacy"
+source: "The Witchwar Legacy"
 Monster_CR: 16
 name: Abyss Gigas
 Monster_XP: 76800
@@ -18,7 +18,6 @@ perception: +27
 senses: blindsight
 AC: 31, touch 7, flat-footed 30 (armor +9, dex +1, natural +15, size -4)
 HP: 283
-HP_extra: 
 HD: 21d8+189
 saves: Fort +21, Ref +8, Will +10
 immune: electricity

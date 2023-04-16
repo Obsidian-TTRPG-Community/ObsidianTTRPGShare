@@ -5,7 +5,7 @@ name: Lashunta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 1/2
 name: Lashunta
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +1
 perception: +2
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 11
-HP_extra: 
 HD: 1d6+2
 saves: Fort -1, Ref +1, Will +3
 speed: 30 ft.

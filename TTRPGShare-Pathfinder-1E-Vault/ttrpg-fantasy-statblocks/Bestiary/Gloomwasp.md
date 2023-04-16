@@ -5,7 +5,7 @@ name: Gloomwasp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 6
 name: Gloomwasp
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, low-light vision, see invisibility
 AC: 23, touch 17, flat-footed 17 (dex +5, dodge +1, natural +6, size +1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +8, Ref +10, Will +4
 immune: poison
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, cluster (2-6), or nest (7-24)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blacklight (Ex)

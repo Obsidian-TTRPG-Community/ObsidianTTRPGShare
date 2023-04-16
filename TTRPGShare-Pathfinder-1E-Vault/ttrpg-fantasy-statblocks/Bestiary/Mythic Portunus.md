@@ -5,7 +5,7 @@ name: Mythic Portunus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 125: Tower of the Drowned Dead"
+source: "Pathfinder No. 125: Tower of the Drowned Dead"
 Monster_CR: 16
 name: Mythic Portunus
 Monster_XP: 76800
@@ -43,6 +43,7 @@ ecology:
     desc: any aquatic (Plane of Water)
   - name: Organisation
     desc: solitary or court (1 plus 2-5 elder water elementals
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Alter Luck (Su)

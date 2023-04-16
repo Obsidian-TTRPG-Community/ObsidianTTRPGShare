@@ -5,7 +5,7 @@ name: Gargiya
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 10
 name: Gargiya
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 24, touch 9, flat-footed 23 (dex +1, natural +15, size -2)
 HP: 138
-HP_extra: 
 HD: 12d10+72
 saves: Fort +14, Ref +11, Will +4
 immune: fire
@@ -38,6 +37,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary or shoal (2-3)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Boiling Seas (Ex)

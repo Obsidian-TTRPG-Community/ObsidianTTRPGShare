@@ -5,7 +5,7 @@ name: NPC Usaro Rebel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 6
 name: NPC Usaro Rebel
 Monster_XP: 2400

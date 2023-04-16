@@ -5,7 +5,7 @@ name: Ravenous Urchin Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 2
 name: Ravenous Urchin Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision, scent
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +4, Ref +2, Will +2
 immune: mind-affecting effects
@@ -42,6 +41,7 @@ ecology:
     desc: any coastlines or water
   - name: Organisation
     desc: solitary, pool (2-5), or red tide (11-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Jet (Ex)

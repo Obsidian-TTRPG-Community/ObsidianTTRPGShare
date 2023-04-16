@@ -5,7 +5,7 @@ name: NPC Desert Protector
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Desert Protector
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +8
 aura: courage, resolve
 AC: 17, touch 10, flat-footed 17 (armor +7, deflection +1, dex -1)
 HP: 64
-HP_extra: 
 HD: 8d10+16
 saves: Fort +10, Ref +4, Will +11
 immune: charm, disease, fear

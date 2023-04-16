@@ -5,7 +5,7 @@ name: Muhuru
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Muhuru
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +20
 senses: darkvision, low-light vision
 AC: 24, touch 14, flat-footed 19 (dex +5, natural +10, size -1)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +13, Ref +13, Will +10
 immune: blindness
@@ -39,6 +38,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blinding Blast (Ex)

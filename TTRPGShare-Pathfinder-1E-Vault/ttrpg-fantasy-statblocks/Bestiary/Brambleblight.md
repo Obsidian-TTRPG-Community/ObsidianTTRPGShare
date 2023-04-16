@@ -5,7 +5,7 @@ name: Brambleblight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 92: The Hill Giant's Pledge"
+source: "Pathfinder No. 92: The Hill Giant's Pledge"
 Monster_CR: 7
 name: Brambleblight
 Monster_XP: 3200
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, plantsense
 aura: blight
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +6, Will +5
 immune: plant traits
@@ -44,6 +43,7 @@ ecology:
     desc: temperate or warm forests or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Animate Brambles (Su)

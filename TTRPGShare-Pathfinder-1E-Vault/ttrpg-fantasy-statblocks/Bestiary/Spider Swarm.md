@@ -5,7 +5,7 @@ name: Spider Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Spider Swarm
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref +3, Will +0
 immune: mind-affecting effects, weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, tangle (3-6 swarms) or colony (11-20 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

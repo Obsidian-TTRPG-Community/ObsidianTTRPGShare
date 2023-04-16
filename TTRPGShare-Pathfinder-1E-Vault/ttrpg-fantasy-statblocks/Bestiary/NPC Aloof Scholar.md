@@ -5,7 +5,7 @@ name: NPC Aloof Scholar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Aloof Scholar
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +6
 perception: +13
 AC: 18, touch 14, flat-footed 15 (armor +3, deflection +1, dex +2, dodge +1, natural +1)
 HP: 61
-HP_extra: 
 HD: 7d8+2d8+18
 saves: Fort +6, Ref +9, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

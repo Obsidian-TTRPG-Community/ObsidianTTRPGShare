@@ -5,7 +5,7 @@ name: Geomaw
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Down the Blighted Path"
+source: "Down the Blighted Path"
 Monster_CR: 7
 name: Geomaw
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, tremorsense
 AC: 19, touch 7, flat-footed 19 (dex -2, natural +12, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +10, Ref +3, Will +7
 weak: blind, blood gorger
@@ -41,6 +40,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or frenzy (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blood Gorger (Ex)

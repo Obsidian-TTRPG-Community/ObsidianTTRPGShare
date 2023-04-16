@@ -5,7 +5,7 @@ name: Caryatid Column
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Caryatid Column
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 14, touch 9, flat-footed 14 (dex -1, natural +5)
 HP: 36
-HP_extra: 
 HD: 3d10+20
 saves: Fort +1, Ref +0, Will +1
 immune: construct traits, magic

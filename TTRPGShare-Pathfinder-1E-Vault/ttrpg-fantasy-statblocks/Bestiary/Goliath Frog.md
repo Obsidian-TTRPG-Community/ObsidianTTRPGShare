@@ -5,7 +5,7 @@ name: Goliath Frog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Goliath Frog
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 15, touch 10, flat-footed 14 (dex +1, natural +5, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +7, Will +1
 speed: 30 ft., climb 20 ft., swim 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: warm marshes or water
   - name: Organisation
     desc: solitary, pair, or army (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tongue (Ex)

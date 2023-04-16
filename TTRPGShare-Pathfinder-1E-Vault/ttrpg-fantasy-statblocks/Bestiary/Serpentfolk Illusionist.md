@@ -5,7 +5,7 @@ name: Serpentfolk Illusionist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 8
 name: Serpentfolk Illusionist
 Monster_XP: 4800

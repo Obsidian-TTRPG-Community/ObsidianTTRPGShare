@@ -5,7 +5,7 @@ name: Scarab Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Scarab Swarm
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 18, touch 18, flat-footed 18 (size +8)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +1, Will +1
 saves_other: +4 vs. disease and paralysis
@@ -41,6 +40,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary, pair, or infestation (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Ex)

@@ -5,7 +5,7 @@ name: Spyglass Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Chronicle of the Righteous"
+source: "Chronicle of the Righteous"
 Monster_CR: 3
 name: Spyglass Archon
 Monster_XP: 800
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, hone senses, lowlight vision
 aura: aura of menace, magic circle against evil
 AC: 15, touch 12, flat-footed 13 (armor +2, dex +2, natural +1)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +2, Ref +6, Will +4
 saves_other: +4 vs. poison

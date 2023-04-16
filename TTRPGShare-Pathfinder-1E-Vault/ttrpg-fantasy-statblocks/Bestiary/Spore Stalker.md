@@ -5,7 +5,7 @@ name: Spore Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Seers of the Drowned City"
+source: "Seers of the Drowned City"
 Monster_CR: 7
 name: Spore Stalker
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (dex +3, natural +7)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +11, Ref +6, Will +5
 immune: plant traits
@@ -40,6 +39,7 @@ ecology:
     desc: warm swamps
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Colonize Victim (Ex)

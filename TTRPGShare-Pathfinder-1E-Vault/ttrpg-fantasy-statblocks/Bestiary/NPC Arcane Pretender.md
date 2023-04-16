@@ -5,7 +5,7 @@ name: NPC Arcane Pretender
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Arcane Pretender
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +6
 perception: +3
 AC: 22, touch 14, flat-footed 19 (armor +7, dex +2, dodge +1, natural +1, size +1)
 HP: 123
-HP_extra: 
 HD: 14d10+42
 saves: Fort +16, Ref +13, Will +10
 saves_other: +6 vs. fear

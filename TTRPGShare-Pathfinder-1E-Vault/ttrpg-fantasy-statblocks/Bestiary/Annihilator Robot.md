@@ -5,7 +5,7 @@ name: Annihilator Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Annihilator Robot
 Monster_XP: 76800
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Booster Jets (Ex)

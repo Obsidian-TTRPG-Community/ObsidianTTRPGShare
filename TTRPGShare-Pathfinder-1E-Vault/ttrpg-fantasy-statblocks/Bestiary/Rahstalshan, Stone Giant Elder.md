@@ -5,7 +5,7 @@ name: Rahstalshan, Stone Giant Elder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 14
 name: Rahstalshan, Stone Giant Elder
 Monster_XP: 38400

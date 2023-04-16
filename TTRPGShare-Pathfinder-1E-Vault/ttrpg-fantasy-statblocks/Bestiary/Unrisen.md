@@ -5,7 +5,7 @@ name: Unrisen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Unrisen
 Monster_XP: 1600
@@ -18,7 +18,6 @@ senses: darkvision
 aura: awfulness
 AC: 18, touch 9, flat-footed 18 (dex -1, natural +9)
 HP: 52
-HP_extra: 
 HD: 7d8+21
 saves: Fort +5, Ref +3, Will +8
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or blasphemy (3-14)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Awfulness (Ex)

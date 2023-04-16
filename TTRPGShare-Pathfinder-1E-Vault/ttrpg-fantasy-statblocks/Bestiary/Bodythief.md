@@ -5,7 +5,7 @@ name: Bodythief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Bodythief
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +30
 senses: low-light vision
 AC: 26, touch 1, flat-footed 25 (dex -5, natural +25, size -4)
 HP: 230
-HP_extra: 
 HD: 20d8+140
 saves: Fort +19, Ref +1, Will +11
 immune: plant traits, sonic

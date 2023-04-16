@@ -5,7 +5,7 @@ name: Ceratosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Ceratosaurus
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 18, touch 11, flat-footed 16 (dex +2, natural +7, size -1)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +8, Ref +8, Will +4
 defensive_abilities: ferocity
@@ -39,6 +38,7 @@ ecology:
     desc: temperate or warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-7)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

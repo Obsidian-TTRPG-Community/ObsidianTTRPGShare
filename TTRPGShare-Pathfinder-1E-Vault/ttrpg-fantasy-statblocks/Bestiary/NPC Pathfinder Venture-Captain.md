@@ -5,7 +5,7 @@ name: NPC Pathfinder Venture-Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 13
 name: NPC Pathfinder Venture-Captain
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +1
 perception: +7
 AC: 14, touch 14, flat-footed 13 (deflection +3, dex +1)
 HP: 76
-HP_extra: 
 HD: 14d6+25
 saves: Fort +9, Ref +8, Will +14
 speed: 30 ft.

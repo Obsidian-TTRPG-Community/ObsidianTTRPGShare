@@ -5,7 +5,7 @@ name: Uchurah
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 12
 name: Uchurah
 Monster_XP: 19200

@@ -5,7 +5,7 @@ name: Saltwater Crocodile
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 58: Island of Empty Eyes"
+source: "Pathfinder No. 58: Island of Empty Eyes"
 Monster_CR: 5
 name: Saltwater Crocodile
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 18, touch 8, flat-footed 18 (natural +10, size -2)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +10, Ref +5, Will +3
 speed: 20 ft., swim 30 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: tropical coasts and rivers
   - name: Organisation
     desc: solitary, pair, or float (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Roll (Ex)

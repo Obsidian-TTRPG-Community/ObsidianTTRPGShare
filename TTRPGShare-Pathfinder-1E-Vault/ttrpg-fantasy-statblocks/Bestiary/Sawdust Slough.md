@@ -5,7 +5,7 @@ name: Sawdust Slough
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 4
 name: Sawdust Slough
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: low-light vision, tremorsense
 aura: choking chaff
 AC: 12, touch 8, flat-footed 12 (dex -1, natural +4, size -1)
 HP: 57
-HP_extra: 
 HD: 6d8+30
 saves: Fort +10, Ref +1, Will -3
 immune: plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forest
   - name: Organisation
     desc: solitary, pair, or cascade (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Choking Chaff (Ex)

@@ -5,7 +5,7 @@ name: Dottari Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 100: A Song of Silver"
+source: "Pathfinder No. 100: A Song of Silver"
 Monster_CR: 7
 name: Dottari Troop
 Monster_XP: 3200
@@ -17,7 +17,6 @@ INI: +5
 perception: +13
 AC: 20, touch 11, flat-footed 19 (armor +9, dex +1)
 HP: 85
-HP_extra: 
 HD: 9d8+45
 saves: Fort +10, Ref +4, Will +6
 defensive_abilities: troop traits

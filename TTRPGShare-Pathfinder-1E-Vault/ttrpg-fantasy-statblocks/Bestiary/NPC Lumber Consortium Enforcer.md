@@ -5,7 +5,7 @@ name: NPC Lumber Consortium Enforcer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 3
 name: NPC Lumber Consortium Enforcer
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +1
 perception: +5
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 33
-HP_extra: 
 HD: 4d10+11
 saves: Fort +7, Ref +6, Will +3
 speed: 30 ft.

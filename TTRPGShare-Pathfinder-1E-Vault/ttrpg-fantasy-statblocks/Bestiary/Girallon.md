@@ -5,7 +5,7 @@ name: Girallon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Girallon
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 73
-HP_extra: 
 HD: 7d10+35
 saves: Fort +9, Ref +8, Will +5
 speed: 40 ft., climb 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary or company (5-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

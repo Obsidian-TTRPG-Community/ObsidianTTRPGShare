@@ -5,7 +5,7 @@ name: Bunyip
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Bunyip
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision, keen scent
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +5, Ref +7, Will +1
 speed: 10 ft., swim 50 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Rage (Ex)

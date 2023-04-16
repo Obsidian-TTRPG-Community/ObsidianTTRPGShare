@@ -5,7 +5,7 @@ name: Vulnudaemon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 4
 name: Vulnudaemon
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, detect good, detect magic
 aura: aura of doom
 AC: 17, touch 14, flat-footed 14 (dex +3, natural +3, size +1)
 HP: 39
-HP_extra: 
 HD: 6d10+6
 saves: Fort +6, Ref +5, Will +6
 immune: acid, death effects, disease, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary, pair, or murder (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Doom (Su)

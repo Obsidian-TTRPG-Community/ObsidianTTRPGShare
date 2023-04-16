@@ -5,7 +5,7 @@ name: Hippocampus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Hippocampus
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +6
 senses: darkvision, low-light vision, scent
 AC: 12, touch 8, flat-footed 12 (dex -1, natural +4, size -1)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +5, Ref +2, Will +1
 speed: 5 ft., swim 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary, pair, or school (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Water Dependency (Ex)

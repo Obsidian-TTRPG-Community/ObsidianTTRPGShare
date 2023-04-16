@@ -5,7 +5,7 @@ name: Bugbear Ambusher
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 10
 name: Bugbear Ambusher
 Monster_XP: 9600

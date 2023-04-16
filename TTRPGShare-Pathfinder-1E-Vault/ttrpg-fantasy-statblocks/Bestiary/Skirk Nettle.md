@@ -5,7 +5,7 @@ name: Skirk Nettle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 36: Sound of a Thousand Screams"
+source: "Pathfinder No. 36: Sound of a Thousand Screams"
 Monster_CR: 6
 name: Skirk Nettle
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: blindsight
 AC: 20, touch 12, flat-footed 17 (dex +3, natural +8, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +11, Will +3
 speed: 10 ft., fly 30 ft. (perfect)
@@ -38,6 +37,7 @@ ecology:
     desc: any tropical (First World)
   - name: Organisation
     desc: solitary or shoal (6-24)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Su)

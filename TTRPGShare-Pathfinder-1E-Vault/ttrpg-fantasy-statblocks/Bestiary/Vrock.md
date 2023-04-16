@@ -5,7 +5,7 @@ name: Vrock
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Vrock
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision
 AC: 22, touch 11, flat-footed 20 (dex +2, natural +11, size -1)
 HP: 112
-HP_extra: 
 HD: 9d10+63
 saves: Fort +13, Ref +10, Will +6
 immune: electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or gang (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dance of Ruin (Su)

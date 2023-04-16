@@ -5,7 +5,7 @@ name: Thought Harvester Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 87: The Choking Tower"
+source: "Pathfinder No. 87: The Choking Tower"
 Monster_CR: 10
 name: Thought Harvester Robot
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 23, touch 13, flat-footed 20 (dex +2, dodge +1, natural +10)
 HP: 131
-HP_extra: 
 HD: 13d10+20 plus 40 hp force field
 saves: Fort +4, Ref +6, Will +8
 immune: construct traits
@@ -41,6 +40,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary or squad (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Force Field (Ex)

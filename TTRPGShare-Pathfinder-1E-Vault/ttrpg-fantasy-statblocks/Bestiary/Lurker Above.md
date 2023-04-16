@@ -5,7 +5,7 @@ name: Lurker Above
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Lurker Above
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +5
 senses: blindsense, darkvision, scent
 AC: 19, touch 9, flat-footed 18 (dex +1, natural +10, size -2)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +4, Will +9
 resist: cold 10, fire 10
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Smother (Ex)

@@ -5,7 +5,7 @@ name: Dunkleosteus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Dunkleosteus
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +15
 senses: low-light vision
 AC: 19, touch 10, flat-footed 17 (dex +2, natural +9, size -2)
 HP: 75
-HP_extra: 
 HD: 10d8+30
 saves: Fort +10, Ref +9, Will +6
 speed: swim 60 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Gulp (Ex)

@@ -5,7 +5,7 @@ name: Seaweed Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 3
 name: Seaweed Leshy
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 15, touch 12, flat-footed 14 (armor +1, dex +1, natural +2, size +1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +6, Ref +2, Will +3
 immune: electricity, sonic, plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: any ocean or coastline
   - name: Organisation
     desc: solitary or patch (2-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Air Cyst (Su)

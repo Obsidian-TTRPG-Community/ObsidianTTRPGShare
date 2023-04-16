@@ -5,7 +5,7 @@ name: Giant Gar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Giant Gar
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision
 AC: 19, touch 8, flat-footed 19 (natural +11, size -2)
 HP: 73
-HP_extra: 
 HD: 7d8+42
 saves: Fort +11, Ref +7, Will +5
 speed: swim 60 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: temperate freshwater
   - name: Organisation
     desc: solitary, pair, or school (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

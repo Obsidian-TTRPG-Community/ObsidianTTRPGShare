@@ -5,7 +5,7 @@ name: NPC Rider of the Steppe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Rider of the Steppe
 Monster_XP: 25600
@@ -21,7 +21,6 @@ senses: low-light vision
 aura: courage, faith, justice, resolve
 AC: 23, touch 14, flat-footed 20 (armor +8, deflection +1, dex +3, natural +1)
 HP: 95
-HP_extra: 
 HD: 14d10+14
 saves: Fort +13, Ref +13, Will +11
 saves_other: +2 vs. enchantments

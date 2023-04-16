@@ -5,7 +5,7 @@ name: Tiberolith
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Tiberolith
 Monster_XP: 9600
@@ -16,7 +16,6 @@ INI: +0
 senses: darkvision, low-light vision
 AC: 24, touch 8, flat-footed 24 (natural +16, size -2)
 HP: 111
-HP_extra: 
 HD: 13d10+40
 saves: Fort +4, Ref +4, Will +4
 immune: acid, construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any coastlines or water
   - name: Organisation
     desc: solitary, pair, or squad (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corrosive Strikes (Ex)

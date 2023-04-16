@@ -5,7 +5,7 @@ name: Aluum
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 10
 name: Aluum
 Monster_XP: 9600
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision, low-light vision
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 107
-HP_extra: 
 HD: 14d10+30
 saves: Fort +4, Ref +5, Will +4
 immune: magic, construct traits
@@ -36,6 +35,7 @@ ecology:
     desc: any (Katapesh)
   - name: Organisation
     desc: solitary or squad (3-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Magic (Ex)

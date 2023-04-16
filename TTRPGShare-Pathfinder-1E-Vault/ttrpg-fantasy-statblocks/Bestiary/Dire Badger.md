@@ -5,7 +5,7 @@ name: Dire Badger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Dire Badger
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +5, Will +2
 defensive_abilities: ferocity
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or clan (3-5)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 2

@@ -5,7 +5,7 @@ name: Kaicharek
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 139: The Dead Road"
+source: "Pathfinder No. 139: The Dead Road"
 Monster_CR: 4
 name: Kaicharek
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 17, touch 12, flat-footed 15 (dex +2, natural +5)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +6, Will +4
 speed: 20 ft., burrow 20 ft., climb 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any (Blood Vale)
   - name: Organisation
     desc: solitary, pair, or cluster (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hidden Feeding (Ex)

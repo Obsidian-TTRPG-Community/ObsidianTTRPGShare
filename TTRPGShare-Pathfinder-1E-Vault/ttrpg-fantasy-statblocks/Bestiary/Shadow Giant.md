@@ -5,7 +5,7 @@ name: Shadow Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 13
 name: Shadow Giant
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 28, touch 11, flat-footed 26 (armor +5, dex +2, natural +12, size -1)
 HP: 218
-HP_extra: 
 HD: 19d8+133
 saves: Fort +18, Ref +8, Will +7
 defensive_abilities: rock catching, shadow cloak

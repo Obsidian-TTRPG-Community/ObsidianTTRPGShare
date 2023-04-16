@@ -5,7 +5,7 @@ name: Ancient Solar Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 18
 name: Ancient Solar Dragon
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 37, touch 6, flat-footed 36 (natural +31, size -4)
 HP: 362
-HP_extra: 
 HD: 25d12+200
 saves: Fort +21, Ref +16, Will +21
 immune: fire, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

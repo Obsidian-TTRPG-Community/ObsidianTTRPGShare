@@ -5,7 +5,7 @@ name: Einherji
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Einherji
 Monster_XP: 9600

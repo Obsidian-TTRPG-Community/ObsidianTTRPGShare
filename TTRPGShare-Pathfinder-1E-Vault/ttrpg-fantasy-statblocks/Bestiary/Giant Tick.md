@@ -5,7 +5,7 @@ name: Giant Tick
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Giant Tick
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision, scent
 AC: 16, touch 11, flat-footed 16 (natural +5, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +5, Ref +0, Will +0
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, cluster (3-6), or nest (7-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Grab (Ex)

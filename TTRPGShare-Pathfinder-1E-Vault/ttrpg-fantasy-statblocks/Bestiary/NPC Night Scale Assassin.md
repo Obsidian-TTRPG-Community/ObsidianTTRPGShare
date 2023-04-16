@@ -5,7 +5,7 @@ name: NPC Night Scale Assassin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 5
 name: NPC Night Scale Assassin
 Monster_XP: 1600

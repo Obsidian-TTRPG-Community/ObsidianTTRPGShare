@@ -5,7 +5,7 @@ name: NPC Merchant (Shopkeep)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC Merchant (Shopkeep)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +0
 perception: +8
 AC: 10, touch 10, flat-footed 10
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +1, Ref +1, Will +4
 speed: 30 ft.

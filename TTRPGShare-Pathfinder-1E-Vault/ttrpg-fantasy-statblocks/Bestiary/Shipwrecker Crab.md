@@ -5,7 +5,7 @@ name: Shipwrecker Crab
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 13
 name: Shipwrecker Crab
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 27, touch 5, flat-footed 24 (dex +3, natural +22, size -8)
 HP: 189
-HP_extra: 
 HD: 14d8+126
 saves: Fort +18, Ref +7, Will +6
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary or cast (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Powerful Claws (Ex)

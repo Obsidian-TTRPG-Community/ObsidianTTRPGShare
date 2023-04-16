@@ -5,7 +5,7 @@ name: Mythic Myrmecoleon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Mythic Myrmecoleon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 24, touch 6, flat-footed 24 (dex -2, natural +18, size -2)
 HP: 135
-HP_extra: 
 HD: 10d10+80
 saves: Fort +12, Ref +7, Will +4
 immune: acid
@@ -40,6 +39,7 @@ ecology:
     desc: temperate plains or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Death Throes (Ex)

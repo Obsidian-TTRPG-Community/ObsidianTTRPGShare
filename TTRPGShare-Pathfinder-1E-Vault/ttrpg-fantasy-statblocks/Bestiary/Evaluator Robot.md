@@ -5,7 +5,7 @@ name: Evaluator Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 90: The Divinity Drive"
+source: "Pathfinder No. 90: The Divinity Drive"
 Monster_CR: 12
 name: Evaluator Robot
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, low-light vision, superior optics
 AC: 27, touch 15, flat-footed 22 (dex +5, natural +12)
 HP: 158
-HP_extra: 
 HD: 16d10+20 plus 50 hp force field
 saves: Fort +5, Ref +10, Will +10
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Force Field (Ex)

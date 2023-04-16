@@ -5,7 +5,7 @@ name: Danthienne
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Danthienne
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: -1
 senses: low-light vision
 AC: 19, touch 17, flat-footed 14 (dex +4, dodge +1, natural +2, size +2)
 HP: 59
-HP_extra: 
 HD: 7d6+35
 saves: Fort +7, Ref +9, Will +6
 DR: 5/cold iron

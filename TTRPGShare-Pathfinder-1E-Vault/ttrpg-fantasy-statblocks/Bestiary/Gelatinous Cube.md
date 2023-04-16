@@ -5,7 +5,7 @@ name: Gelatinous Cube
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Gelatinous Cube
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: -5
 senses: blindsight
 AC: 4, touch 4, flat-footed 4 (dex -5, size -1)
 HP: 50
-HP_extra: 
 HD: 4d8+32
 saves: Fort +9, Ref -4, Will -4
 immune: electricity, ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Acid (Ex)

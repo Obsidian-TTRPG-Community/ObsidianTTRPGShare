@@ -5,7 +5,7 @@ name: Corbayrant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 132: The Six-Legend Soul"
+source: "Pathfinder No. 132: The Six-Legend Soul"
 Monster_CR: 16
 name: Corbayrant
 Monster_XP: 76800
@@ -48,6 +48,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Virulence (Su)

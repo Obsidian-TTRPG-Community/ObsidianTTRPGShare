@@ -5,7 +5,7 @@ name: Star-Spawn of Cthulhu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 20
 name: Star-Spawn of Cthulhu
 Monster_XP: 307200
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Immortality (Ex)

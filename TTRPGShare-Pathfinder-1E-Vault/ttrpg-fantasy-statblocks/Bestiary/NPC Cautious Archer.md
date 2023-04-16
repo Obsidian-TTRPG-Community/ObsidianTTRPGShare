@@ -5,7 +5,7 @@ name: NPC Cautious Archer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Cautious Archer
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +6
 senses: low-light vision
 AC: 20, touch 14, flat-footed 16 (armor +6, dex +4)
 HP: 47
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +6, Will +1
 saves_other: +2 vs. enchantments, +1 vs. fear

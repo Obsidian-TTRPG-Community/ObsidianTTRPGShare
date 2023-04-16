@@ -5,7 +5,7 @@ name: Brush Thylacine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 31: Stolen Land"
+source: "Pathfinder No. 31: Stolen Land"
 Monster_CR: 2
 name: Brush Thylacine
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +7, Ref +5, Will +2
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forest
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 31: Stolen Land

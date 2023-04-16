@@ -5,7 +5,7 @@ name: Diplodocus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 12
 name: Diplodocus
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +32
 senses: low-light vision, scent
 AC: 25, touch 4, flat-footed 23 (dex +2, natural +21, size -8)
 HP: 190
-HP_extra: 
 HD: 20d8+100
 saves: Fort +17, Ref +14, Will +11
 speed: 30 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-14)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tail Lash (Ex)

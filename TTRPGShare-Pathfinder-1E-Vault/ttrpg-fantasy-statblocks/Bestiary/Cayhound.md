@@ -5,7 +5,7 @@ name: Cayhound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 5
 name: Cayhound
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, scent
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +5, Ref +7, Will +6
 DR: 5/cold iron
@@ -37,6 +36,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, pair, or pack (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Righteous Bite (Su)

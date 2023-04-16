@@ -5,7 +5,7 @@ name: Yaoguai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Yaoguai
 Monster_XP: 3200
@@ -43,6 +43,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Maker’s Gift (Ex)

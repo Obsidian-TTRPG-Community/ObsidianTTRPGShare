@@ -5,7 +5,7 @@ name: NPC Journeyman Carpenter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 2
 name: NPC Journeyman Carpenter
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +4
 senses: darkvision
 AC: 10, touch 10, flat-footed 10
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +1, Will +3
 defensive_abilities: orc ferocity

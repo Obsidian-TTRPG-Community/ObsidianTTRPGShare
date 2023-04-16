@@ -5,7 +5,7 @@ name: Bugbear Echohusk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 1
 name: Bugbear Echohusk
 Monster_XP: 400
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (armor +2, dex +1, natural +1, shield +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +2, Will +3
 saves_other: -4 against psychic spells and effects

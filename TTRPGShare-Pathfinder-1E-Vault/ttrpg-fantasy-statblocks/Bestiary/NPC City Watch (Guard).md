@@ -5,7 +5,7 @@ name: NPC City Watch (Guard)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1
 name: NPC City Watch (Guard)
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +0
 perception: +3
 AC: 18, touch 10, flat-footed 18 (armor +8)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +1, Will +1
 speed: 20 ft.

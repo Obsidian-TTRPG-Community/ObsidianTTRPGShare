@@ -5,7 +5,7 @@ name: Xorn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Xorn
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +14
 senses: all-around vision, darkvision, tremorsense
 AC: 21, touch 10, flat-footed 21 (natural +11)
 HP: 66
-HP_extra: 
 HD: 7d10+28
 saves: Fort +8, Ref +2, Will +5
 immune: cold, fire, flanking

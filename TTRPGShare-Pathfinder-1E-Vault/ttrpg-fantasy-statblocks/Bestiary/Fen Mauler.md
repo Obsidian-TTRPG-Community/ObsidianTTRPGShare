@@ -5,7 +5,7 @@ name: Fen Mauler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 10
 name: Fen Mauler
 Monster_XP: 9600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, scent
 aura: stench
 AC: 24, touch 14, flat-footed 19 (dex +4, dodge +1, natural +10, size -1)
 HP: 136
-HP_extra: 
 HD: 13d10+65
 saves: Fort +11, Ref +12, Will +11
 immune: disease
@@ -46,6 +45,7 @@ ecology:
     desc: temperate swamps
   - name: Organisation
     desc: solitary, pair, or party (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Shadowy Pelt (Su)

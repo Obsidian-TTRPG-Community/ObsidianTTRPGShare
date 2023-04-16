@@ -5,7 +5,7 @@ name: Giant Tardigrade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Giant Tardigrade
 Monster_XP: 50
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision
 AC: 16, touch 15, flat-footed 15 (dex +1, natural +1, size +4)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +5, Ref +1, Will +0
 immune: mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or colony (3-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hardy (Ex)

@@ -5,7 +5,7 @@ name: Basileus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: Basileus
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, low-light vision, see in darkness
 AC: 28, touch 16, flat-footed 22 (dex +6, natural +12)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +12, Ref +18, Will +16
 immune: fire, poison
@@ -46,6 +45,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Gaze (Su)

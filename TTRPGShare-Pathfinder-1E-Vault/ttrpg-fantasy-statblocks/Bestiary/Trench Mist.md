@@ -5,7 +5,7 @@ name: Trench Mist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Trench Mist
 Monster_XP: 9600
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or horror (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Create Juju Zombie (Su)

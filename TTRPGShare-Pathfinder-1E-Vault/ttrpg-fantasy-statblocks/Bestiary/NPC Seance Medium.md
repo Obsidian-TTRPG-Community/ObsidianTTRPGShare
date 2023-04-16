@@ -5,7 +5,7 @@ name: NPC Seance Medium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 9
 name: NPC Seance Medium
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +2
 perception: +15
 AC: 13, touch 13, flat-footed 11 (deflection +1, dex +2)
 HP: 58
-HP_extra: 
 HD: 10d8+10
 saves: Fort +4, Ref +9, Will +9
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

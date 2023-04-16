@@ -5,7 +5,7 @@ name: Mothman
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Mothman
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +16
 senses: darkvision
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +6, Ref +10, Will +10
 SR: 17
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Agent of Fate (Sp)

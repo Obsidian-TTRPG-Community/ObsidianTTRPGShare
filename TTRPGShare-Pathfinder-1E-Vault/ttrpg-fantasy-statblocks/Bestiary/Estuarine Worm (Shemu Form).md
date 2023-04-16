@@ -5,7 +5,7 @@ name: Estuarine Worm (Shemu Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 82: Secrets of the Sphinx"
+source: "Pathfinder No. 82: Secrets of the Sphinx"
 Monster_CR: 10
 name: Estuarine Worm (Shemu Form)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision, tremorsense
 AC: 27, touch 8, flat-footed 27 (dex -1, natural +19, size -1)
 HP: 126
-HP_extra: 
 HD: 11d10+66
 saves: Fort +13, Ref +6, Will +6
 resist: acid 10, fire 10
@@ -42,6 +41,7 @@ ecology:
     desc: warm marshes and rivers
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Guiding Star (Su)

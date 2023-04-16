@@ -5,7 +5,7 @@ name: Dune Strider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 11
 name: Dune Strider
 Monster_XP: 12800

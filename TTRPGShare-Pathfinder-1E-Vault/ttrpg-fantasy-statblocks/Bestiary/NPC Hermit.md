@@ -5,7 +5,7 @@ name: NPC Hermit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Hermit
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +0
 perception: +3
 AC: 13, touch 11, flat-footed 13 (deflection +1, natural +2)
 HP: 38
-HP_extra: 
 HD: 7d6+14
 saves: Fort +6, Ref +3, Will +9
 speed: 30 ft.

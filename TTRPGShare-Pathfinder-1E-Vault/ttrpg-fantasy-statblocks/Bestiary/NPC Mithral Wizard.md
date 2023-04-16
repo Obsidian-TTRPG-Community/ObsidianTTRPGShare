@@ -5,7 +5,7 @@ name: NPC Mithral Wizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Mithral Wizard
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +5
 perception: +20
 AC: 34, touch 15, flat-footed 33 (armor +14, deflection +4, dex +1, natural +5)
 HP: 198
-HP_extra: 
 HD: 2d10+8d6+10d10+100
 saves: Fort +18, Ref +9, Will +14
 saves_other: +1 vs. fear

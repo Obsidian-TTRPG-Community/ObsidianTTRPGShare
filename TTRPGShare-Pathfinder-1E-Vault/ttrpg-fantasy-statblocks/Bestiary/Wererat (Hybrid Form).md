@@ -5,7 +5,7 @@ name: Wererat (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Wererat (Hybrid Form)
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 19, touch 14, flat-footed 15 (armor +3, dex +3, dodge +1, natural +2)
 HP: 20
-HP_extra: 
 HD: 2d8+8
 saves: Fort +3, Ref +6, Will +3
 DR: 10/silver

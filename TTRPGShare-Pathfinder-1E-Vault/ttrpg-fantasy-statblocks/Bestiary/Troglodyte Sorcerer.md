@@ -5,7 +5,7 @@ name: Troglodyte Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Troglodyte Sorcerer
 Monster_XP: 1200

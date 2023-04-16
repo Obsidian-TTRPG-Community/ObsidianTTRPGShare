@@ -5,7 +5,7 @@ name: Larabay
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 11
 name: Larabay
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +27
 senses: low-light vision
 AC: 25, touch 17, flat-footed 18 (dex +6, dodge +1, natural +8)
 HP: 144
-HP_extra: 
 HD: 17d6+85
 saves: Fort +10, Ref +16, Will +13
 resist: cold 10, electricity 10, fire 10
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm coastlines or forests
   - name: Organisation
     desc: solitary, pair, or rabble (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Befuddling Gaze (Su)

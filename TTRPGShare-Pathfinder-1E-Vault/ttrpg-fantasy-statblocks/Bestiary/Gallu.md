@@ -5,7 +5,7 @@ name: Gallu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Worldwound"
+source: "The Worldwound"
 Monster_CR: 19
 name: Gallu
 Monster_XP: 204800

@@ -5,7 +5,7 @@ name: Kaltestrua, Governess of Casnoriva
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 21
 name: Kaltestrua, Governess of Casnoriva
 Monster_XP: 409600

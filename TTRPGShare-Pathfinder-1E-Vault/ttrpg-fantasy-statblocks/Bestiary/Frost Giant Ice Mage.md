@@ -5,7 +5,7 @@ name: Frost Giant Ice Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 12
 name: Frost Giant Ice Mage
 Monster_XP: 19200

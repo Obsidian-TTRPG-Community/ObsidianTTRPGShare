@@ -5,7 +5,7 @@ name: Hezrou
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Hezrou
 Monster_XP: 12800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: stench
 AC: 25, touch 9, flat-footed 25 (natural +16, size -1)
 HP: 145
-HP_extra: 
 HD: 10d10+90
 saves: Fort +16, Ref +3, Will +9
 immune: electricity, poison
@@ -46,6 +45,7 @@ ecology:
     desc: any swamp (Abyss)
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Nausea (Ex)

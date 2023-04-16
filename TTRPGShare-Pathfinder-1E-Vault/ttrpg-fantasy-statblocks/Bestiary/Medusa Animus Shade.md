@@ -5,7 +5,7 @@ name: Medusa Animus Shade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 9
 name: Medusa Animus Shade
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: mental static
 AC: 16, touch 16, flat-footed 14 (deflection +4, dex +2)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +6, Ref +8, Will +7
 immune: undead traits
@@ -43,6 +42,7 @@ ecology:
     desc: temperate marshes and underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: All-Around Vision (Ex)

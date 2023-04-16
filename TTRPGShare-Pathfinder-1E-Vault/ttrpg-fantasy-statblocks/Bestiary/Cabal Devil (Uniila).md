@@ -5,7 +5,7 @@ name: Cabal Devil (Uniila)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 28: The Infernal Syndrome"
+source: "Pathfinder No. 28: The Infernal Syndrome"
 Monster_CR: 10
 name: Cabal Devil (Uniila)
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, see in darkness
 AC: 22, touch 22, flat-footed 15 (deflection +5, dex +6, dodge +1)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +11, Ref +15, Will +7
 immune: fire, poison

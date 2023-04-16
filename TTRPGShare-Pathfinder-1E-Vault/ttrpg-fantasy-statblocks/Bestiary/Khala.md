@@ -5,7 +5,7 @@ name: Khala
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Khala
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +30
 senses: darkvision, low-light vision
 AC: 31, touch 15, flat-footed 25 (dex +6, natural +16, size -1)
 HP: 261
-HP_extra: 
 HD: 18d12+144
 saves: Fort +19, Ref +17, Will +16
 immune: cold, disease, paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: any cold
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Breath Weapon (Su)

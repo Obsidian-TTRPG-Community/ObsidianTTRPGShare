@@ -5,7 +5,7 @@ name: Scylla
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 16
 name: Scylla
 Monster_XP: 76800
@@ -45,6 +45,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 spell-like_abilities:
   - name:

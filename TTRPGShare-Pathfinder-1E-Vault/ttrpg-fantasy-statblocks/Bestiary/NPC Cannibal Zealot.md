@@ -5,7 +5,7 @@ name: NPC Cannibal Zealot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Tombs of Golarion"
+source: "Tombs of Golarion"
 Monster_CR: 6
 name: NPC Cannibal Zealot
 Monster_XP: 2400

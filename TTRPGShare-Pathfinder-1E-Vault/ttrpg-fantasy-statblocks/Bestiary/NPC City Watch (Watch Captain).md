@@ -5,7 +5,7 @@ name: NPC City Watch (Watch Captain)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC City Watch (Watch Captain)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ INI: +1
 perception: +6
 AC: 20, touch 11, flat-footed 19 (armor +9, dex +1)
 HP: 57
-HP_extra: 
 HD: 7d10+19
 saves: Fort +8, Ref +4, Will +4
 saves_other: +2 vs. fear

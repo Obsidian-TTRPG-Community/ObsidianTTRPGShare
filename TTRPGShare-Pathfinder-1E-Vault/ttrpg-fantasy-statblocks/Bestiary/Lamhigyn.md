@@ -5,7 +5,7 @@ name: Lamhigyn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 3
 name: Lamhigyn
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, see in darkness
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 32
-HP_extra: 
 HD: 5d10+5
 saves: Fort +5, Ref +6, Will +2
 speed: 10 ft., fly 60 ft. (good)
@@ -36,6 +35,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, clutch (3-9), or hive (10-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

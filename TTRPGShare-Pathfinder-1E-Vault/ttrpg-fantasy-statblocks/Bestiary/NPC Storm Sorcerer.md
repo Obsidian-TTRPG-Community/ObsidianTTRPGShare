@@ -5,7 +5,7 @@ name: NPC Storm Sorcerer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Storm Sorcerer
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +4
 senses: low-light vision
 AC: 18, touch 14, flat-footed 15 (armor +4, deflection +1, dex +2, dodge +1)
 HP: 35
-HP_extra: 
 HD: 6d6+12
 saves: Fort +4, Ref +5, Will +7
 saves_other: +2 vs. enchantments

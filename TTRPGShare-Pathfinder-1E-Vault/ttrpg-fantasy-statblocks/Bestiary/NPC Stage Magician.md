@@ -5,7 +5,7 @@ name: NPC Stage Magician
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Stage Magician
 Monster_XP: 4800
@@ -20,7 +20,6 @@ perception: +13
 senses: darkvision
 AC: 21, touch 17, flat-footed 15 (armor +3, deflection +1, dex +5, dodge +1, natural +1)
 HP: 51
-HP_extra: 
 HD: 4d8+3d8+2d6+9
 saves: Fort +6, Ref +15, Will +7
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

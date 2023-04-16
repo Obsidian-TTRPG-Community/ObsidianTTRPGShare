@@ -5,7 +5,7 @@ name: Vescavor Queen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Vescavor Queen
 Monster_XP: 6400
@@ -44,6 +44,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary or hive (1 plus 2-20 vescavor swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Chaos Aura (Su)

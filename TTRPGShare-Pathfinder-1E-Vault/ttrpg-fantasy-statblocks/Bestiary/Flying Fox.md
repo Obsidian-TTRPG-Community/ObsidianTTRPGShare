@@ -5,7 +5,7 @@ name: Flying Fox
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/3
 name: Flying Fox
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8
 saves: Fort +3, Ref +3, Will +2
 saves_other: +4 vs. disease
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or colony (10-100)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

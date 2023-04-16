@@ -5,7 +5,7 @@ name: Norn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 18
 name: Norn
 Monster_XP: 153600

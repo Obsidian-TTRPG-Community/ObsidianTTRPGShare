@@ -5,7 +5,7 @@ name: Leng Ghoul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Leng Ghoul
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 25, touch 17, flat-footed 18 (dex +7, natural +8)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +10, Ref +11, Will +13
 immune: cold, undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cult (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Ex)

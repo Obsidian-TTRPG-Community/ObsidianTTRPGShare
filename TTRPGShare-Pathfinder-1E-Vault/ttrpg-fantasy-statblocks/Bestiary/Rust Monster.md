@@ -5,7 +5,7 @@ name: Rust Monster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Rust Monster
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +12
 senses: darkvision, scent metals
 AC: 18, touch 13, flat-footed 15 (dex +3, natural +5)
 HP: 27
-HP_extra: 
 HD: 5d8+5
 saves: Fort +2, Ref +4, Will +5
 speed: 40 ft., climb 10 ft.

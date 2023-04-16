@@ -5,7 +5,7 @@ name: Llama
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Animal Archive"
+source: "Animal Archive"
 Monster_CR: 1/2
 name: Llama
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +3, Will +1
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold or temperate hills or mountains
   - name: Organisation
     desc: solitary, pair, or herd (3-15)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spit (Ex)

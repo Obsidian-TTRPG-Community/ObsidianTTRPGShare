@@ -5,7 +5,7 @@ name: Kronosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 10
 name: Kronosaurus
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +20
 senses: low-light vision, scent
 AC: 23, touch 7, flat-footed 22 (dex +1, natural +16, size -4)
 HP: 138
-HP_extra: 
 HD: 12d8+84
 saves: Fort +15, Ref +9, Will +7
 speed: swim 60 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary, pair, or school (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 60: From Hell's Heart

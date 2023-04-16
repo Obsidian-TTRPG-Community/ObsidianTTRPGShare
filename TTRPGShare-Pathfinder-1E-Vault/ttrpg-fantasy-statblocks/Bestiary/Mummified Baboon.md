@@ -5,7 +5,7 @@ name: Mummified Baboon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 1/2
 name: Mummified Baboon
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +4, Will +1
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: warm ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 81: Shifting Sands

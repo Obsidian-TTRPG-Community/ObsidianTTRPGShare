@@ -5,7 +5,7 @@ name: Draconal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 20
 name: Draconal
 Monster_XP: 307200
@@ -47,6 +47,7 @@ ecology:
     desc: any air (Nirvana)
   - name: Organisation
     desc: solitary, pair, or flight (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Celestial Focus (Ex)

@@ -5,7 +5,7 @@ name: Stegosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Stegosaurus
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +16
 senses: low-light vision, scent
 AC: 22, touch 10, flat-footed 20 (dex +2, natural +12, size -2)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +13, Ref +10, Will +5
 speed: 30 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

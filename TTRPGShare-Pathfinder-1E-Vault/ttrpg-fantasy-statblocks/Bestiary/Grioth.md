@@ -5,7 +5,7 @@ name: Grioth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Grioth
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: blindsight, see in darkness
 AC: 14, touch 14, flat-footed 10 (dex +4)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +1, Ref +7, Will +6
 immune: cold

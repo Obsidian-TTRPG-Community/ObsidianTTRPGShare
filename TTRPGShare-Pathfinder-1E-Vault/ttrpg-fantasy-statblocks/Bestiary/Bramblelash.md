@@ -5,7 +5,7 @@ name: Bramblelash
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 1
 name: Bramblelash
 Monster_XP: 400
@@ -16,7 +16,6 @@ INI: +2
 senses: scent, tremorsense
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +3, Ref +3, Will +1
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: cold or temperate forests
   - name: Organisation
     desc: solitary, pair, or patch (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Breakage (Ex)

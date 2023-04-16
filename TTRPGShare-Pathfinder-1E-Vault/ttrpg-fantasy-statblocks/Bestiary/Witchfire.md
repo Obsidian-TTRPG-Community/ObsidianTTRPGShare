@@ -5,7 +5,7 @@ name: Witchfire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Witchfire
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 24, touch 24, flat-footed 17 (deflection +7, dex +6, dodge +1)
 HP: 115
-HP_extra: 
 HD: 10d8+70
 saves: Fort +10, Ref +11, Will +10
 defensive_abilities: incorporeal, witchflame, Immune fire, undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any swamps or woodlands
   - name: Organisation
     desc: solitary or coven (3 witchfires and hags-see below)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Witchflame (Su)

@@ -5,7 +5,7 @@ name: Lion Alebrije
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 144: Midwives to Death"
+source: "Pathfinder No. 144: Midwives to Death"
 Monster_CR: 5
 name: Lion Alebrije
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, dreamsight, low-light vision, scent
 AC: 20, touch 15, flat-footed 14 (dex +6, natural +5, size -1)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +8, Ref +10, Will +5
 resist: cold 5, fire 5
@@ -47,6 +46,7 @@ ecology:
     desc: any (Dimension of Dreams)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

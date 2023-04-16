@@ -5,7 +5,7 @@ name: Ancient Sea Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 17
 name: Ancient Sea Dragon
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 37, touch 5, flat-footed 37 (dex -1, natural +32, size -4)
 HP: 310
-HP_extra: 
 HD: 23d12+161
 saves: Fort +22, Ref +14, Will +20
 immune: electricity, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any water
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

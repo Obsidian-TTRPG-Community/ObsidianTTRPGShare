@@ -5,7 +5,7 @@ name: Couatl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 10
 name: Couatl
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, detect chaos/evil/good/law
 AC: 22, touch 13, flat-footed 18 (dex +3, dodge +1, natural +9, size -1)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +9, Ref +13, Will +14
 speed: 20 ft., fly 60 ft. (good)
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or flight (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Spells

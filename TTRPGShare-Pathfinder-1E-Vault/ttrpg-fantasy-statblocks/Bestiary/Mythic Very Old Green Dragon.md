@@ -5,7 +5,7 @@ name: Mythic Very Old Green Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 20
 name: Mythic Very Old Green Dragon
 Monster_XP: 307200
@@ -44,6 +44,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Camouflage (Ex)

@@ -5,7 +5,7 @@ name: Ironfang Magehunter Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 120: Vault of the Onyx Citadel"
+source: "Pathfinder No. 120: Vault of the Onyx Citadel"
 Monster_CR: 14
 name: Ironfang Magehunter Troop
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 28, touch 15, flat-footed 23 (armor +5, dex +5, natural +8)
 HP: 199
-HP_extra: 
 HD: 19d8+114
 saves: Fort +16, Ref +13, Will +11
 defensive_abilities: stalwart, troop traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or division (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Arcane Hunter (Ex)

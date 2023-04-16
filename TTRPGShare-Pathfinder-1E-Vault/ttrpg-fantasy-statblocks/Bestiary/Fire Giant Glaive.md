@@ -5,7 +5,7 @@ name: Fire Giant Glaive
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 12
 name: Fire Giant Glaive
 Monster_XP: 19200

@@ -5,7 +5,7 @@ name: Goblin Commando
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Goblin Commando
 Monster_XP: 600
@@ -20,7 +20,6 @@ perception: +2
 senses: darkvision
 AC: 20, touch 14, flat-footed 17 (armor +6, dex +3, size +1)
 HP: 24
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +0
 defensive_abilities: bravery +1

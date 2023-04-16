@@ -5,7 +5,7 @@ name: Ancient Lunar Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 18
 name: Ancient Lunar Dragon
 Monster_XP: 153600
@@ -18,7 +18,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 37, touch 4, flat-footed 37 (dex -2, natural +33, size -4)
 HP: 348
-HP_extra: 
 HD: 24d12+192
 saves: Fort +21, Ref +12, Will +22
 immune: cold, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

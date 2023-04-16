@@ -5,7 +5,7 @@ name: Lyrakien
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Lyrakien
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, detect evil, detect magic, low-light vision
 AC: 16, touch 16, flat-footed 12 (dex +4, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +2, Ref +7, Will +6
 immune: electricity, petrification
@@ -42,6 +41,7 @@ ecology:
     desc: any (Elysium)
   - name: Organisation
     desc: solitary, band (2-5), or company (6-24)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Starlight Blast (Su)

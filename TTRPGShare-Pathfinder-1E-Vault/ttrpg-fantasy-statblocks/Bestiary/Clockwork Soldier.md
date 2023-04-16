@@ -5,7 +5,7 @@ name: Clockwork Soldier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Clockwork Soldier
 Monster_XP: 2400
@@ -17,7 +17,6 @@ INI: +6
 senses: darkvision, low-light vision
 AC: 20, touch 14, flat-footed 16 (dex +2, dodge +2, natural +6)
 HP: 64
-HP_extra: 
 HD: 8d10+20
 saves: Fort +2, Ref +6, Will +2
 immune: construct traits

@@ -5,7 +5,7 @@ name: Mythic Lamia
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 7
 name: Mythic Lamia
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: seduction
 AC: 24, touch 14, flat-footed 19 (dex +3, dodge +2, natural +10, size -1)
 HP: 97
-HP_extra: 
 HD: 9d10+48
 saves: Fort +7, Ref +9, Will +11
 DR: 5/epic

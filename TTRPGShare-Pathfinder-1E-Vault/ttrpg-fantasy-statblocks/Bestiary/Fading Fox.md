@@ -5,7 +5,7 @@ name: Fading Fox
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 2
 name: Fading Fox
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 17, touch 17, flat-footed 12 (dex +5, size +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +8, Will +4
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any temperate land
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fade Away (Ex)

@@ -5,7 +5,7 @@ name: NPC Tribal Leader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Tribal Leader
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +10
 senses: see invisibility
 AC: 21, touch 13, flat-footed 18 (armor +6, dex +2, dodge +1, shield +2)
 HP: 78
-HP_extra: 
 HD: 13d8+16
 saves: Fort +5, Ref +10, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

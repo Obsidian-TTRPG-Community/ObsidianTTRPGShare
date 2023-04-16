@@ -5,7 +5,7 @@ name: Honored of Kaoling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Distant Shores"
+source: "Distant Shores"
 Monster_CR: 4
 name: Honored of Kaoling
 Monster_XP: 1200

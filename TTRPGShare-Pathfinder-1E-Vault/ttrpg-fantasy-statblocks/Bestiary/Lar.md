@@ -5,7 +5,7 @@ name: Lar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 27: What Lies in Dust"
+source: "Pathfinder No. 27: What Lies in Dust"
 Monster_CR: 5
 name: Lar
 Monster_XP: 1600
@@ -38,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Genius Loci (Su)

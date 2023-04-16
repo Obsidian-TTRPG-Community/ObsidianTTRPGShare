@@ -5,7 +5,7 @@ name: Shaorhaz, Glutton of the Green
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 23
 name: Shaorhaz, Glutton of the Green
 Monster_XP: 819200

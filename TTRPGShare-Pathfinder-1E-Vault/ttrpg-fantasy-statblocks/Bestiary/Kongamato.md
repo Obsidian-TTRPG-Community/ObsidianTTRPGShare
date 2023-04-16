@@ -5,7 +5,7 @@ name: Kongamato
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Kongamato
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 29, touch 11, flat-footed 26 (dex +3, natural +18, size -2)
 HP: 261
-HP_extra: 
 HD: 18d12+144
 saves: Fort +19, Ref +16, Will +13
 immune: magic paralysis and sleep
@@ -42,6 +41,7 @@ ecology:
     desc: tropical forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Piercing Beak (Ex)

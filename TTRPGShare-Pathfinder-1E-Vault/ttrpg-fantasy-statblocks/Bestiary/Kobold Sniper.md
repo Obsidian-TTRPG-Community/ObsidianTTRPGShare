@@ -5,7 +5,7 @@ name: Kobold Sniper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1/2
 name: Kobold Sniper
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +4
 senses: darkvision
 AC: 18, touch 14, flat-footed 15 (armor +3, dex +3, natural +1, size +1)
 HP: 12
-HP_extra: 
 HD: 1d10+2
 saves: Fort +3, Ref +3, Will +1
 weak: light sensitivity

@@ -5,7 +5,7 @@ name: Mythic Locust Plague Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Mythic Locust Plague Swarm
 Monster_XP: 51200

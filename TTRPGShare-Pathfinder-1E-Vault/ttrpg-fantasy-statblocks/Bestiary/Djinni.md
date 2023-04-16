@@ -5,7 +5,7 @@ name: Djinni
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Djinni
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 19, touch 14, flat-footed 14 (dex +4, dodge +1, natural +5, size -1)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +4, Ref +9, Will +7
 immune: acid

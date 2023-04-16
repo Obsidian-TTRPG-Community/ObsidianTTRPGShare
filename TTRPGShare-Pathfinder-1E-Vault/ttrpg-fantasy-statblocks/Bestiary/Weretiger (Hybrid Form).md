@@ -5,7 +5,7 @@ name: Weretiger (Hybrid Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Weretiger (Hybrid Form)
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 20, touch 12, flat-footed 17 (armor +3, dex +3, natural +5, size -1)
 HP: 37
-HP_extra: 
 HD: 4d8+26
 saves: Fort +4, Ref +7, Will +4
 DR: 10/silver

@@ -5,7 +5,7 @@ name: Mustelidal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 108: Hell Comes to Westcrown"
+source: "Pathfinder No. 108: Hell Comes to Westcrown"
 Monster_CR: 16
 name: Mustelidal
 Monster_XP: 76800
@@ -42,6 +42,7 @@ ecology:
     desc: any underground (Nirvana)
   - name: Organisation
     desc: solitary, pair, or cete (3-6)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Celestial Strike (Ex)

@@ -5,7 +5,7 @@ name: Grodair
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Grodair
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +1
 senses: darkvision, low-light vision
 AC: 16, touch 9, flat-footed 16 (dex -1, natural +7)
 HP: 66
-HP_extra: 
 HD: 7d10+28
 saves: Fort +11, Ref +4, Will +5
 speed: 30 ft., swim 60 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: any water or coastlines
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Death Flood (Su)

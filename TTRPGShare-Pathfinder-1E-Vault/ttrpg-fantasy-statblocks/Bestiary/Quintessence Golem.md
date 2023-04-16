@@ -5,7 +5,7 @@ name: Quintessence Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 20
 name: Quintessence Golem
 Monster_XP: 307200
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Immunity to Magic (Ex)

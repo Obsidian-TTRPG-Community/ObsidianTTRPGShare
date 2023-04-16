@@ -5,7 +5,7 @@ name: Mythic Hell Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 4
 name: Mythic Hell Hound
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, scent
 AC: 17, touch 11, flat-footed 16 (dex +1, natural +6)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +6, Ref +5, Will +1
 immune: fire
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Clinging Flames (Ex)

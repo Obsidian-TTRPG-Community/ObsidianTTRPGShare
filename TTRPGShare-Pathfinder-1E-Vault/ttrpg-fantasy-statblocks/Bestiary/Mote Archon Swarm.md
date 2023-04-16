@@ -5,7 +5,7 @@ name: Mote Archon Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 108: Hell Comes to Westcrown"
+source: "Pathfinder No. 108: Hell Comes to Westcrown"
 Monster_CR: 15
 name: Mote Archon Swarm
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: aura of menace, magic circle against evil
 AC: 28, touch 28, flat-footed 18 (dex +9, dodge +1, size +8)
 HP: 189
-HP_extra: 
 HD: 18d10+90
 saves: Fort +18, Ref +15, Will +16
 saves_other: +4 vs. poison, +2 resistance vs. evil
@@ -45,6 +44,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary, pair, or flock (3-6 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Controlled Swarm (Ex)

@@ -5,7 +5,7 @@ name: NPC Noble Crusader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 4
 name: NPC Noble Crusader
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: -1
 perception: +6
 AC: 18, touch 9, flat-footed 18 (armor +7, dex -1, shield +2)
 HP: 41
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +1, Will +7
 speed: 20 ft.

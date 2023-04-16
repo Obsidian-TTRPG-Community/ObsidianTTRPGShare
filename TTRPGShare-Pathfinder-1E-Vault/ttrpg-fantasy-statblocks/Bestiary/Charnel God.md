@@ -5,7 +5,7 @@ name: Charnel God
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 23
 name: Charnel God
 Monster_XP: 819200
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Divine Antithesis (Ex)

@@ -5,7 +5,7 @@ name: Plesiosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Plesiosaurus
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: keen scent, low-light vision, scent
 AC: 14, touch 13, flat-footed 10 (dex +3, dodge +1, natural +1, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +6, Will +3
 speed: 5 ft., swim 60 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: temperate or warm swamps or water
   - name: Organisation
     desc: solitary, pair, or school (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ambush Attack (Ex)

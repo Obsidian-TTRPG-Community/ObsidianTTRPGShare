@@ -5,7 +5,7 @@ name: Dark Young of Shub-Niggurath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 46: Wake of the Watcher"
+source: "Pathfinder No. 46: Wake of the Watcher"
 Monster_CR: 12
 name: Dark Young of Shub-Niggurath
 Monster_XP: 19200
@@ -18,7 +18,6 @@ senses: darkvision, tremorsense
 aura: frightful presence
 AC: 27, touch 11, flat-footed 24 (dex +3, natural +16, size -2)
 HP: 161
-HP_extra: 
 HD: 14d8+98
 saves: Fort +11, Ref +9, Will +13
 immune: acid, electricity, fire, poison
@@ -42,6 +41,7 @@ ecology:
     desc: temperate forest or swamp
   - name: Organisation
     desc: solitary, pair, or grove (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Sucking Maws (Su)

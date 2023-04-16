@@ -5,7 +5,7 @@ name: NPC Swift Brawler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Swift Brawler
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +2
 perception: +20
 AC: 23, touch 21, flat-footed 21 (armor +2, deflection +1, dex +2, monk +3, wis +5)
 HP: 75
-HP_extra: 
 HD: 12d8+18
 saves: Fort +10, Ref +11, Will +14
 saves_other: +2 vs. enchantments

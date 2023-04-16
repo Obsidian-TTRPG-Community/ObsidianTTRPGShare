@@ -5,7 +5,7 @@ name: NPC Shifty Noble
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 2
 name: NPC Shifty Noble
 Monster_XP: 600

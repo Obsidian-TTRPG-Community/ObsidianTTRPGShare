@@ -5,7 +5,7 @@ name: NPC Pirate Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 5
 name: NPC Pirate Captain
 Monster_XP: 1600

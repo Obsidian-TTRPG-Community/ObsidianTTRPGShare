@@ -5,7 +5,7 @@ name: Dream Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 9
 name: Dream Naga
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +24
 senses: darkvision, dreamsight
 AC: 23, touch 15, flat-footed 17 (dex +6, natural +8, size -1)
 HP: 123
-HP_extra: 
 HD: 13d8+65
 saves: Fort +9, Ref +12, Will +10
 speed: 30 ft., fly 40 ft. (average)
@@ -38,6 +37,7 @@ ecology:
     desc: any (Dimension of Dreams)
   - name: Organisation
     desc: solitary, pair, or nest (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dream Passage (Su)

@@ -5,7 +5,7 @@ name: Possession Devil, Greater (Gidim)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 29: Mother of Flies"
+source: "Pathfinder No. 29: Mother of Flies"
 Monster_CR: 15
 name: Possession Devil, Greater (Gidim)
 Monster_XP: 51200
@@ -18,7 +18,6 @@ perception: +27
 senses: darkvision, see in darkness
 AC: 24, touch 24, flat-footed 15 (deflection +5, dex +8, dodge +1)
 HP: 187
-HP_extra: 
 HD: 15d10+105
 saves: Fort +16, Ref +19, Will +12
 resist: acid 10, cold 10
@@ -40,6 +39,7 @@ ecology:
     desc: any (Hell or Ethereal Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Claws (Su)

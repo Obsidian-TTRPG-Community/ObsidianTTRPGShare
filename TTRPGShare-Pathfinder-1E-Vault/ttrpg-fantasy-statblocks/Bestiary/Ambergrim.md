@@ -5,7 +5,7 @@ name: Ambergrim
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 116: Fangs of War"
+source: "Pathfinder No. 116: Fangs of War"
 Monster_CR: 6
 name: Ambergrim
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: -5
 senses: blindsight, low-light vision
 AC: 5, touch 5, flat-footed 5 (dex -5)
 HP: 103
-HP_extra: 
 HD: 9d8+63
 saves: Fort +10, Ref -2, Will -2
 immune: bludgeoning damage, mind-affecting effects, ooze traits
@@ -35,6 +34,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary or cluster (2-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Preserve (Ex)

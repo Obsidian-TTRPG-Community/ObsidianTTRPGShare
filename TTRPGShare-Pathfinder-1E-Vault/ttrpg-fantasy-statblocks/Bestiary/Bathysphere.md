@@ -5,7 +5,7 @@ name: Bathysphere
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 1/2
 name: Bathysphere
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +0
 senses: all-around vision, darkvision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 9
-HP_extra: 
 HD: 1d8+5
 saves: Fort +4, Ref +1, Will +0
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any water (Plane of Water)
   - name: Organisation
     desc: solitary, pack (2-5), or bloom (6-13)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Air Bell (Ex)

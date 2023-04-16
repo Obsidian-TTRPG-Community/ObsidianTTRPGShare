@@ -5,7 +5,7 @@ name: Commando Construct
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 9
 name: Commando Construct
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 28, touch 14, flat-footed 23 (dex +5, natural +14, size -1)
 HP: 110
-HP_extra: 
 HD: 10d12+45
 saves: Fort +5, Ref +8, Will +3
 immune: construct traits
@@ -46,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary,  pair, or team (3-10)
+  - name: Treasure
     desc: none
 sources:
   - name: Construct Handbook

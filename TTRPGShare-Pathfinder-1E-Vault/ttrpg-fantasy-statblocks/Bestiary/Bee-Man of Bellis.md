@@ -5,7 +5,7 @@ name: Bee-Man of Bellis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Andoran, Birthplace of Freedom"
+source: "Andoran, Birthplace of Freedom"
 Monster_CR: 9
 name: Bee-Man of Bellis
 Monster_XP: 6400
@@ -38,6 +38,7 @@ ecology:
     desc: temperate forest (Andoran)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Apian Emissaries (Sp)

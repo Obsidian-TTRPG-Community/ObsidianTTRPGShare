@@ -5,7 +5,7 @@ name: Ichkoh
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Ichkoh
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, detect good, detect magic, low-light vision, see invisibility
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +9, Ref +10, Will +11
 immune: death effects, disease, fear effects, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or clot (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fall Apart (Su)

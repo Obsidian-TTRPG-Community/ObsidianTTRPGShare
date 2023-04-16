@@ -5,7 +5,7 @@ name: NPC Tunnel Drummer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Tunnel Drummer
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +1
 perception: +13
 AC: 19, touch 12, flat-footed 17 (armor +6, dex +1, dodge +1, natural +1)
 HP: 100
-HP_extra: 
 HD: 14d8+34
 saves: Fort +6, Ref +10, Will +9
 saves_other: +2 vs. poison, spells, and spell-like abilities, +4 vs. bardic performance, language-dependent, and sonic

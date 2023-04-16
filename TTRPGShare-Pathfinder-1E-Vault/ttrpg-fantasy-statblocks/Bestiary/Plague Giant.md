@@ -5,7 +5,7 @@ name: Plague Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 14
 name: Plague Giant
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +26
 senses: low-light vision
 AC: 29, touch 13, flat-footed 24 (dex +5, natural +16, size -2)
 HP: 207
-HP_extra: 
 HD: 18d8+126
 saves: Fort +15, Ref +11, Will +18
 immune: disease

@@ -5,7 +5,7 @@ name: Giant Adult Ant Lion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Giant Adult Ant Lion
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 19, touch 11, flat-footed 16 (dex +3, natural +8, size -2)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +6, Will +3
 immune: mind-affecting effects
@@ -35,6 +34,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary or cloud (2-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

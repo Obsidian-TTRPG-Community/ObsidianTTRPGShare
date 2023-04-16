@@ -5,7 +5,7 @@ name: Xhamen-Dor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 113: What Grows Within"
+source: "Pathfinder No. 113: What Grows Within"
 Monster_CR: 26
 name: Xhamen-Dor
 Monster_XP: 2457600
@@ -45,6 +45,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Contagious Lore (Su)

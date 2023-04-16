@@ -5,7 +5,7 @@ name: Huge Aether Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 7
 name: Huge Aether Elemental
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: blindsense, darkvision
 AC: 22, touch 22, flat-footed 13 (deflection +5, dex +9, size -2)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +16, Will +5
 immune: elemental traits, force
@@ -42,6 +41,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

@@ -5,7 +5,7 @@ name: Monkey Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Monkey Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: low-light vision
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +8, Will +2
 defensive_abilities: half damage from weapons, swarm traits
@@ -41,6 +40,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, mission (3-6 swarms), or tribe (7-12 swarms plus 1-4 gorillas)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Coordinated Swarm (Ex)

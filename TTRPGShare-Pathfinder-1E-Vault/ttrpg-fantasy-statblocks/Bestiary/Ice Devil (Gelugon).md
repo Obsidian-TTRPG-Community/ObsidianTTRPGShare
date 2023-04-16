@@ -5,7 +5,7 @@ name: Ice Devil (Gelugon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 13
 name: Ice Devil (Gelugon)
 Monster_XP: 25600

@@ -5,7 +5,7 @@ name: Troll Elder Matron
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 10
 name: Troll Elder Matron
 Monster_XP: 9600

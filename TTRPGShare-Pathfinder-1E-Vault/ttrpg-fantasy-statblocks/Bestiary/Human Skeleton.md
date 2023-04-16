@@ -5,7 +5,7 @@ name: Human Skeleton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Human Skeleton
 Monster_XP: 135
@@ -16,7 +16,6 @@ INI: +6
 senses: darkvision
 AC: 16, touch 12, flat-footed 14 (armor +2, dex +2, natural +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +0, Ref +2, Will +2
 immune: cold, undead traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: any
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

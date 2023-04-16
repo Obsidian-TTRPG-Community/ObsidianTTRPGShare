@@ -5,7 +5,7 @@ name: Young Vortex Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Young Vortex Dragon
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +16
 senses: dragon senses, see in darkness
 AC: 23, touch 11, flat-footed 21 (dex +2, natural +12, size -1)
 HP: 104
-HP_extra: 
 HD: 11d12+33
 saves: Fort +12, Ref +8, Will +10
 immune: fire, paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

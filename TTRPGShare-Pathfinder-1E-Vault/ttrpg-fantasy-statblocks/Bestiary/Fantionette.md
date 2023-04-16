@@ -5,7 +5,7 @@ name: Fantionette
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 127: Crownfall"
+source: "Pathfinder No. 127: Crownfall"
 Monster_CR: 4
 name: Fantionette
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: revelation
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +3, Ref +8, Will +6
 immune: poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abyss or Axis)
   - name: Organisation
     desc: solitary, pair, or cast (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Revelation (Su)

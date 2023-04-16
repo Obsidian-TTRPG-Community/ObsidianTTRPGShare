@@ -5,7 +5,7 @@ name: Vulture
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Vulture
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +6, Ref +3, Will +1
 saves_other: +4 vs. disease
@@ -36,6 +35,7 @@ ecology:
     desc: warm plains or hills
   - name: Organisation
     desc: solitary, pair, or flock (3-24)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

@@ -5,7 +5,7 @@ name: Khardajeen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 118: Siege of Stone"
+source: "Pathfinder No. 118: Siege of Stone"
 Monster_CR: 14
 name: Khardajeen
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +29
 senses: darkvision, true seeing
 AC: 29, touch 17, flat-footed 22 (dex +7, natural +12)
 HP: 210
-HP_extra: 
 HD: 20d8+120
 saves: Fort +12, Ref +15, Will +18
 defensive_abilities: amorphous, darkvision adaptation

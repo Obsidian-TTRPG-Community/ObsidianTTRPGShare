@@ -5,7 +5,7 @@ name: Gholdako
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 10
 name: Gholdako
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 25, touch 9, flat-footed 25 (natural +16, size -1)
 HP: 127
-HP_extra: 
 HD: 15d8+60
 saves: Fort +9, Ref +5, Will +10
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: warm coasts
   - name: Organisation
     desc: solitary or guard (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blinding Breath (Su)

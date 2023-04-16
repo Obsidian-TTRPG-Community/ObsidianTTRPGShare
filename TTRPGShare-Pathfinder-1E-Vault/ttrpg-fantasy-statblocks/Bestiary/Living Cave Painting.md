@@ -5,7 +5,7 @@ name: Living Cave Painting
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 93: Forge of the Giant God"
+source: "Pathfinder No. 93: Forge of the Giant God"
 Monster_CR: 4
 name: Living Cave Painting
 Monster_XP: 1200
@@ -18,7 +18,6 @@ senses: blindsight
 aura: captivating artistry
 AC: 18, touch 18, flat-footed 12 (deflection +2, dex +5, dodge +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +4, Ref +7, Will +6
 immune: bleed, disease, paralysis, poison, stunning
@@ -42,6 +41,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or collection (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Captivating Artistry (Su)

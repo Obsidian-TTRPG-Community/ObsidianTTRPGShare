@@ -5,7 +5,7 @@ name: Liavaran Dreamer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Occult Bestiary"
+source: "Occult Bestiary"
 Monster_CR: 8
 name: Liavaran Dreamer
 Monster_XP: 4800
@@ -42,6 +42,7 @@ ecology:
     desc: any sky
   - name: Organisation
     desc: solitary, pair, or flotilla (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Atavistic Fury (Ex)

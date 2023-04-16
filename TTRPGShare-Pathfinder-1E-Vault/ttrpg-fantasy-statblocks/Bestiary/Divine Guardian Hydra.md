@@ -5,7 +5,7 @@ name: Divine Guardian Hydra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 5
 name: Divine Guardian Hydra
 Monster_XP: 1600
@@ -44,6 +44,7 @@ ecology:
     desc: temperate ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 spell-like_abilities:
   - name:

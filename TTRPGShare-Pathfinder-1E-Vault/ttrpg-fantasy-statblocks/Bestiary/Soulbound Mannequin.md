@@ -5,7 +5,7 @@ name: Soulbound Mannequin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Soulbound Mannequin
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +3, Ref +6, Will +3
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or family (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Alignment Variation (Ex)

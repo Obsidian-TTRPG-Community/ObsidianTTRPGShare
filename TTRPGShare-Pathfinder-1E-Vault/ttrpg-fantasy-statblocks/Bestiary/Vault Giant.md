@@ -5,7 +5,7 @@ name: Vault Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 120: Vault of the Onyx Citadel"
+source: "Pathfinder No. 120: Vault of the Onyx Citadel"
 Monster_CR: 17
 name: Vault Giant
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +29
 senses: darkvision, low-light vision, scent
 AC: 32, touch 8, flat-footed 30 (dex +2, natural +24, size -4)
 HP: 270
-HP_extra: 
 HD: 20d8+180
 saves: Fort +15, Ref +10, Will +20
 immune: cold, mind-affecting effects

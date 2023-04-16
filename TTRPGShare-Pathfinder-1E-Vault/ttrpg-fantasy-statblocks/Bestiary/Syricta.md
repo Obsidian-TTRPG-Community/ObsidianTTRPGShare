@@ -5,7 +5,7 @@ name: Syricta
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Syricta
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +22
 senses: darkvision, scent
 AC: 29, touch 11, flat-footed 27 (dex +2, natural +18, size -1)
 HP: 178
-HP_extra: 
 HD: 17d8+102
 saves: Fort +11, Ref +9, Will +12
 immune: mind-affecting effects, paralysis, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, knot (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

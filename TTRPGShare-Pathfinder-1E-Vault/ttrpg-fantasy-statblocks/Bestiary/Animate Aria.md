@@ -5,7 +5,7 @@ name: Animate Aria
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Cheliax, the Infernal Empire"
+source: "Cheliax, the Infernal Empire"
 Monster_CR: 9
 name: Animate Aria
 Monster_XP: 6400
@@ -17,7 +17,6 @@ senses: blindsight, darkvision, low-light vision
 aura: courageous inspiration
 AC: 23, touch 13, flat-footed 19 (dex +4, natural +10, size -1)
 HP: 107
-HP_extra: 
 HD: 14d10+30
 saves: Fort +4, Ref +8, Will +4
 immune: construct traits
@@ -37,6 +36,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or chorus (1 plus 2d4 mercenary warriors of 6th level)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Aura of Courageous Inspiration (Su)

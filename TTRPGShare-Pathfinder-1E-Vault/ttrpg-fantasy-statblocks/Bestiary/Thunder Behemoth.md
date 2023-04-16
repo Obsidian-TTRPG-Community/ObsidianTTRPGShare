@@ -5,7 +5,7 @@ name: Thunder Behemoth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 18
 name: Thunder Behemoth
 Monster_XP: 153600
@@ -45,6 +45,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Mighty Roar (Su)

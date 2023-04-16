@@ -5,7 +5,7 @@ name: Targotha
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 15
 name: Targotha
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +16
 senses: blindsense, darkvision
 AC: 28, touch 10, flat-footed 26 (dex +1, dodge +1, natural +18, size -2)
 HP: 253
-HP_extra: 
 HD: 22d8+154
 saves: Fort +16, Ref +10, Will +15
 immune: electricity, fire, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any swamps (tar seeps)
   - name: Organisation
     desc: solitary, pair, or pack (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Jolt (Ex)

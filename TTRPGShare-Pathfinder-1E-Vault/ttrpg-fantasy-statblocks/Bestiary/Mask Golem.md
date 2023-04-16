@@ -5,7 +5,7 @@ name: Mask Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Masks of the Living God"
+source: "Masks of the Living God"
 Monster_CR: 4
 name: Mask Golem
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 17, touch 13, flat-footed 14 (dex +3, natural +4)
 HP: 42
-HP_extra: 
 HD: 4d10+20
 saves: Fort +1, Ref +6, Will +2
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Immunity to Magic (Ex)

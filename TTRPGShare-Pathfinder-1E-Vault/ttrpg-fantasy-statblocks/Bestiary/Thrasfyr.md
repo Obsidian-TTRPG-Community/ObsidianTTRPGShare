@@ -5,7 +5,7 @@ name: Thrasfyr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 17
 name: Thrasfyr
 Monster_XP: 102400
@@ -44,6 +44,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Entangling Chains (Su)

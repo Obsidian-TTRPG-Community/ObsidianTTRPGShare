@@ -5,7 +5,7 @@ name: Thoqqua
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Thoqqua
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision, tremorsense
 aura: molten body
 AC: 15, touch 11, flat-footed 14 (dex +1, natural +4)
 HP: 22
-HP_extra: 
 HD: 3d10+6
 saves: Fort +5, Ref +4, Will +2
 immune: fire, elemental
@@ -39,6 +38,7 @@ ecology:
     desc: any land (Plane of Fire)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Molten Body (Su)

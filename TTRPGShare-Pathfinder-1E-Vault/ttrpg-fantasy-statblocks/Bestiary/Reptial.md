@@ -5,7 +5,7 @@ name: Reptial
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Reptial
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 19, touch 15, flat-footed 15 (dex +3, dodge +1, natural +4, size +1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +3, Ref +7, Will +7
 saves_other: +4 vs. poison
@@ -42,6 +41,7 @@ ecology:
     desc: any land (Nirvana)
   - name: Organisation
     desc: solitary, pair, or mess (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Imposing Presence (Ex)

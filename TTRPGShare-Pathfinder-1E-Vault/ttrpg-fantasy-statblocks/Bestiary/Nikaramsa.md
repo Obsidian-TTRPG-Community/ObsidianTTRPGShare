@@ -5,7 +5,7 @@ name: Nikaramsa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Book of the Damned"
+source: "Book of the Damned"
 Monster_CR: 14
 name: Nikaramsa
 Monster_XP: 38400
@@ -48,6 +48,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary or perversion (2-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Pervert Miracle (Su)

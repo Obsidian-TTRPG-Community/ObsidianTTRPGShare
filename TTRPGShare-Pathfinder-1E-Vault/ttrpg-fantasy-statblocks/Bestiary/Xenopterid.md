@@ -5,7 +5,7 @@ name: Xenopterid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 7
 name: Xenopterid
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, lifesense
 AC: 21, touch 13, flat-footed 18 (dex +3, natural +8)
 HP: 93
-HP_extra: 
 HD: 11d8+44
 saves: Fort +11, Ref +6, Will +4
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary, pair, or hive (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Entangling Slime (Ex)

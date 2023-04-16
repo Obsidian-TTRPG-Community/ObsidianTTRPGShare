@@ -5,7 +5,7 @@ name: Baba Yaga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 72: The Witch Queen's Revenge"
+source: "Pathfinder No. 72: The Witch Queen's Revenge"
 Monster_CR: 30
 name: Baba Yaga
 Monster_XP: 9830400

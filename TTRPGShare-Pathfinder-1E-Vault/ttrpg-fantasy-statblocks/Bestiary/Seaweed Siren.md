@@ -5,7 +5,7 @@ name: Seaweed Siren
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 13
 name: Seaweed Siren
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: cacophony
 AC: 26, touch 11, flat-footed 24 (dex +2, natural +15, size -1)
 HP: 184
-HP_extra: 
 HD: 16d10+96
 saves: Fort +16, Ref +12, Will +8
 immune: mind-affecting effects
@@ -45,6 +44,7 @@ ecology:
     desc: any coastlines
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cacophony (Su)

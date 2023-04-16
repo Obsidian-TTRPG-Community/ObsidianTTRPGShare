@@ -5,7 +5,7 @@ name: Gurgist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 140: Eulogy for Roslar's Coffer"
+source: "Pathfinder No. 140: Eulogy for Roslar's Coffer"
 Monster_CR: 6
 name: Gurgist
 Monster_XP: 2400

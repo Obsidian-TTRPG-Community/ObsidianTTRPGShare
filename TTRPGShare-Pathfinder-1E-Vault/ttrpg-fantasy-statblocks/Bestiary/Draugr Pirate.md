@@ -5,7 +5,7 @@ name: Draugr Pirate
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 3
 name: Draugr Pirate
 Monster_XP: 800

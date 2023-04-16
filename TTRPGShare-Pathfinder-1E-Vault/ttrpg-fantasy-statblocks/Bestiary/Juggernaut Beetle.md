@@ -5,7 +5,7 @@ name: Juggernaut Beetle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 14
 name: Juggernaut Beetle
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +14
 senses: darkvision, low-light vision
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 210
-HP_extra: 
 HD: 20d10+100
 saves: Fort +17, Ref +11, Will +7
 immune: acid, mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: single or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Selective Mind (Su)

@@ -5,7 +5,7 @@ name: Kobold
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/4
 name: Kobold
 Monster_XP: 100
@@ -20,7 +20,6 @@ perception: +5
 senses: darkvision
 AC: 15, touch 12, flat-footed 14 (armor +2, dex +1, natural +1, size +1)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +2, Ref +1, Will -1
 weak: light sensitivity

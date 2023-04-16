@@ -5,7 +5,7 @@ name: NPC Knight of Ozem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Knight of Ozem
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +6
 aura: courage
 AC: 24, touch 10, flat-footed 24 (armor +10, shield +4)
 HP: 69
-HP_extra: 
 HD: 8d10+21
 saves: Fort +12, Ref +6, Will +10
 immune: disease

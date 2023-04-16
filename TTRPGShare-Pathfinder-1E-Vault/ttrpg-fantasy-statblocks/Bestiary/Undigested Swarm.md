@@ -5,7 +5,7 @@ name: Undigested Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Undigested Swarm
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 17, touch 16, flat-footed 13 (dex +3, dodge +1, natural +1, size +2)
 HP: 54
-HP_extra: 
 HD: 12d8
 saves: Fort +4, Ref +9, Will +9
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pack (2-5), or infestation (6-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Digest (Ex)

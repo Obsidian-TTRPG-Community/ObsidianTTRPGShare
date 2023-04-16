@@ -5,7 +5,7 @@ name: Dimorphodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Dimorphodon
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision, scent
 AC: 14, touch 13, flat-footed 11 (dex +3, natural +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +6, Will +1
 speed: 10 ft., fly 30 ft. (average)
@@ -34,6 +33,7 @@ ecology:
     desc: warm coasts or forests
   - name: Organisation
     desc: solitary, pair, or flock (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

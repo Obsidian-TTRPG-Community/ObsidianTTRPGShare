@@ -5,7 +5,7 @@ name: Impundulu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 40: Vaults of Madness"
+source: "Pathfinder No. 40: Vaults of Madness"
 Monster_CR: 11
 name: Impundulu
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, low-light vision
 AC: 25, touch 15, flat-footed 20 (dex +5, natural +10)
 HP: 133
-HP_extra: 
 HD: 14d10+56
 saves: Fort +13, Ref +14, Will +10
 immune: electricity

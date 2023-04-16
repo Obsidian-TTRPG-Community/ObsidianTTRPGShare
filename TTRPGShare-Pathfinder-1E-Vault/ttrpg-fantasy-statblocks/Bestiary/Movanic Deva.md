@@ -5,7 +5,7 @@ name: Movanic Deva
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 10
 name: Movanic Deva
 Monster_XP: 9600
@@ -19,7 +19,6 @@ senses: darkvision, detect evil, low-light vision
 aura: protective aura
 AC: 24, touch 13, flat-footed 21 (dex +3, natural +11, deflection vs. evil +4)
 HP: 126
-HP_extra: 
 HD: 12d10+60
 saves: Fort +12, Ref +11, Will +9
 saves_other: +4 vs. poison, +4 resistance vs. evil

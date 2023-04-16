@@ -5,7 +5,7 @@ name: NPC Street Magician
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Street Magician
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +2
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +1, dodge +1, size +1)
 HP: 14
-HP_extra: 
 HD: 2d6+5
 saves: Fort +2, Ref +1, Will +2
 saves_other: +2 vs. illusions

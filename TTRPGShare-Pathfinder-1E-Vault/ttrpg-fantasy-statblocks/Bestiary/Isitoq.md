@@ -5,7 +5,7 @@ name: Isitoq
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Isitoq
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +7
 senses: darkvision
 AC: 15, touch 15, flat-footed 14 (dex +1, size +4)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +0, Ref +1, Will +5
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Daze (Ex)

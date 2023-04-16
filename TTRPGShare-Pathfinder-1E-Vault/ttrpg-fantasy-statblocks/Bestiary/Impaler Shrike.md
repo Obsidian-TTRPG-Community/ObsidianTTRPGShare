@@ -5,7 +5,7 @@ name: Impaler Shrike
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 97: In Hell's Bright Shadow"
+source: "Pathfinder No. 97: In Hell's Bright Shadow"
 Monster_CR: 3
 name: Impaler Shrike
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 15, touch 12, flat-footed 12 (dex +2, dodge +1, natural +3, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +6, Will +3
 speed: 10 ft., fly 60 ft. (average)
@@ -36,6 +35,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Impale (Ex)

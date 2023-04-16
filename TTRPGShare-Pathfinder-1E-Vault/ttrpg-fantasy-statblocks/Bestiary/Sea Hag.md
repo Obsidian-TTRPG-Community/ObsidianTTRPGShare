@@ -5,7 +5,7 @@ name: Sea Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Sea Hag
 Monster_XP: 1200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: horrific appearance
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 38
-HP_extra: 
 HD: 4d10+16
 saves: Fort +5, Ref +7, Will +5
 SR: 15
@@ -39,6 +38,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary or coven (3 hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Evil Eye (Su)

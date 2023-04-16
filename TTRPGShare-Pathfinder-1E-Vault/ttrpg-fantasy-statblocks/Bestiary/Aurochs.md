@@ -5,7 +5,7 @@ name: Aurochs
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Aurochs
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 13, touch 9, flat-footed 13 (natural +4, size -1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +3, Will +1
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate plains
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Stampede (Ex)

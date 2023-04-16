@@ -5,7 +5,7 @@ name: Hobgoblin Forerunner
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Hobgoblin Forerunner
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: -1
 senses: darkvision
 AC: 19, touch 12, flat-footed 17 (armor +7, dex +2)
 HP: 71
-HP_extra: 
 HD: 7d10+28
 saves: Fort +8, Ref +5, Will +4
 defensive_abilities: bravery +2

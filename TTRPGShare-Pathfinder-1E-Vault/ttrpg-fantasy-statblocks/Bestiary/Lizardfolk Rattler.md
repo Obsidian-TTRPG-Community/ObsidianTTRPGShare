@@ -5,7 +5,7 @@ name: Lizardfolk Rattler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Lizardfolk Rattler
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +1
 perception: +8
 AC: 18, touch 11, flat-footed 17 (armor +2, dex +1, natural +5)
 HP: 43
-HP_extra: 
 HD: 6d8+16
 saves: Fort +7, Ref +6, Will +4
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

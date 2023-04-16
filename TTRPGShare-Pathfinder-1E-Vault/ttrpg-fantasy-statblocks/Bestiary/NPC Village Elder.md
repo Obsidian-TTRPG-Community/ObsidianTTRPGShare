@@ -5,7 +5,7 @@ name: NPC Village Elder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 6
 name: NPC Village Elder
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +4
 senses: darkvision
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 28
-HP_extra: 
 HD: 8d6
 saves: Fort +1, Ref +3, Will +6
 defensive_abilities: orc ferocity

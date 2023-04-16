@@ -5,7 +5,7 @@ name: Black Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 15
 name: Black Scorpion
 Monster_XP: 51200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 30, touch 2, flat-footed 30 (natural +28, size -8)
 HP: 228
-HP_extra: 
 HD: 24d8+120
 saves: Fort +19, Ref +8, Will +8
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

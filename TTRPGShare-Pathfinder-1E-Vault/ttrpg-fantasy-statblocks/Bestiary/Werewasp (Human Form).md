@@ -5,7 +5,7 @@ name: Werewasp (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Werewasp (Human Form)
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 19, touch 13, flat-footed 16 (armor +6, dex +2, dodge +1)
 HP: 36
-HP_extra: 
 HD: 5d8+10
 saves: Fort +5, Ref +3, Will +8
 saves_other: +4 vs. mind-affecting, +2 vs. enchantments

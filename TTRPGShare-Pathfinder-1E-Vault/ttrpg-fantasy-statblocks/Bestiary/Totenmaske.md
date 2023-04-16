@@ -5,7 +5,7 @@ name: Totenmaske
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Totenmaske
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision
 AC: 20, touch 16, flat-footed 14 (dex +6, natural +4)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +9, Will +9
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any land or underground
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Charisma Drain (Su)

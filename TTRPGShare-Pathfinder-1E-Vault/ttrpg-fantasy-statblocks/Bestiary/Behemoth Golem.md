@@ -5,7 +5,7 @@ name: Behemoth Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lost Kingdoms"
+source: "Lost Kingdoms"
 Monster_CR: 17
 name: Behemoth Golem
 Monster_XP: 102400
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 31, touch 1, flat-footed 31 (dex -1, natural +30, size -8)
 HP: 206
-HP_extra: 
 HD: 23d10+80
 saves: Fort +7, Ref +6, Will +9
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: temperate and warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Castle (Ex)

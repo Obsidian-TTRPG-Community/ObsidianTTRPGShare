@@ -5,7 +5,7 @@ name: Boggard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Boggard
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 14, touch 9, flat-footed 14 (armor +2, dex -1, natural +3)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +5, Ref +0, Will +1
 speed: 20 ft., swim 30 ft.

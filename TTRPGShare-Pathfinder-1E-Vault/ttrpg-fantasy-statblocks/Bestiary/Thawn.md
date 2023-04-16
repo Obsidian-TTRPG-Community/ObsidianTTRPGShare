@@ -5,7 +5,7 @@ name: Thawn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 31: Stolen Land"
+source: "Pathfinder No. 31: Stolen Land"
 Monster_CR: 2
 name: Thawn
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +1
 senses: low-light vision
 AC: 14, touch 8, flat-footed 14 (dex -1, natural +6, size -1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +7, Ref +0, Will +2
 weak: repulsive
@@ -41,6 +40,7 @@ ecology:
     desc: temperate hills and plains
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Repulsive (Ex)

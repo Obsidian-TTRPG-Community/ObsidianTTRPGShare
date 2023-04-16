@@ -5,7 +5,7 @@ name: NPC Mage Slayer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Mage Slayer
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +20
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (armor +4, dex +4)
 HP: 123
-HP_extra: 
 HD: 16d8+48
 saves: Fort +12, Ref +19, Will +13
 defensive_abilities: improved evasion, improved uncanny dodge, orc ferocity, trap sense +5

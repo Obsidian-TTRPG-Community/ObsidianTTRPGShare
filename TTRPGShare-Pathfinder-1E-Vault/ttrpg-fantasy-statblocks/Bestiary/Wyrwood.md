@@ -5,7 +5,7 @@ name: Wyrwood
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Wyrwood
 Monster_XP: 200
@@ -19,7 +19,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 16, touch 14, flat-footed 13 (armor +2, dex +3, size +1)
 HP: 18
-HP_extra: 
 HD: 1d8+10
 saves: Fort +0, Ref +5, Will +1
 immune: construct traits

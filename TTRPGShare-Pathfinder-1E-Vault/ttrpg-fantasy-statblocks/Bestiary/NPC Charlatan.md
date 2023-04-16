@@ -5,7 +5,7 @@ name: NPC Charlatan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Charlatan
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +2
 perception: +8
 AC: 16, touch 12, flat-footed 14 (armor +4, dex +2)
 HP: 21
-HP_extra: 
 HD: 4d8
 saves: Fort +1, Ref +6, Will +2
 defensive_abilities: evasion, trap sense +1, uncanny dodge

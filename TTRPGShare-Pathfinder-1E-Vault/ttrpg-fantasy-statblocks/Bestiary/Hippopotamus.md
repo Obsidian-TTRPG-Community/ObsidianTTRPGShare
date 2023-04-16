@@ -5,7 +5,7 @@ name: Hippopotamus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Heart of the Jungle"
+source: "Heart of the Jungle"
 Monster_CR: 5
 name: Hippopotamus
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 66
-HP_extra: 
 HD: 7d8+35
 saves: Fort +10, Ref +5, Will +2
 speed: 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm rivers
   - name: Organisation
     desc: solitary or bloat (2-30)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Sweat (Ex)

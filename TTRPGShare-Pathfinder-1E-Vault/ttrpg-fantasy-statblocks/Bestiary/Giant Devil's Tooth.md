@@ -5,7 +5,7 @@ name: Giant Devil's Tooth
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 128: Songbird, Scion, Saboteur"
+source: "Pathfinder No. 128: Songbird, Scion, Saboteur"
 Monster_CR: 6
 name: Giant Devil's Tooth
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: blindsense, low-light vision
 AC: 19, touch 6, flat-footed 19 (dex -2, natural +13, size -2)
 HP: 58
-HP_extra: 
 HD: 9d8+18
 saves: Fort +8, Ref +3, Will +6
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid Rupture (Ex)

@@ -5,7 +5,7 @@ name: Gristly Demodand
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 17
 name: Gristly Demodand
 Monster_XP: 102400

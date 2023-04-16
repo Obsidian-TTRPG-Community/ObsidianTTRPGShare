@@ -5,7 +5,7 @@ name: Planetar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 16
 name: Planetar
 Monster_XP: 76800

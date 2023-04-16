@@ -5,7 +5,7 @@ name: Gryph
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Gryph
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +5, Ref +5, Will +1
 speed: 30 ft., fly 50 ft. (good)
@@ -34,6 +33,7 @@ ecology:
     desc: temperate forests or underground
   - name: Organisation
     desc: solitary, flock (2-8), or throng (9-20)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Grab (Ex)

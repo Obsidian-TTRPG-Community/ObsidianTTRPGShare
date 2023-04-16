@@ -5,7 +5,7 @@ name: Runeslave Hill Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Rise of the Runelords Anniversary Edition"
+source: "Rise of the Runelords Anniversary Edition"
 Monster_CR: 8
 name: Runeslave Hill Giant
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +7
 senses: low-light vision
 AC: 22, touch 9, flat-footed 22 (armor +4, natural +9, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +11, Ref +3, Will +4
 immune: exhaustion, fatigue, fear

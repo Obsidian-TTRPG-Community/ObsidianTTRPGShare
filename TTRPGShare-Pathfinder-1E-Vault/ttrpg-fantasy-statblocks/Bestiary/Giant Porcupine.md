@@ -5,7 +5,7 @@ name: Giant Porcupine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Giant Porcupine
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +6, Ref +6, Will +2
 defensive_abilities: quills
@@ -34,6 +33,7 @@ ecology:
     desc: temperate forests or plains
   - name: Organisation
     desc: solitary, pair, or prickle (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Quills (Ex)

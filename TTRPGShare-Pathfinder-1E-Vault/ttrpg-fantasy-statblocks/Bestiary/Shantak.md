@@ -5,7 +5,7 @@ name: Shantak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Shantak
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +3
 senses: darkvision, low-light vision
 AC: 21, touch 11, flat-footed 18 (dex +3, natural +10, size -2)
 HP: 104
-HP_extra: 
 HD: 11d10+44
 saves: Fort +11, Ref +10, Will +6
 immune: cold, disease
@@ -41,6 +40,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or flock (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Share Defenses (Su)

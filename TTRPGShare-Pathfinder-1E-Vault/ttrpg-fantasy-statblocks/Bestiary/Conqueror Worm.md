@@ -5,7 +5,7 @@ name: Conqueror Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Conqueror Worm
 Monster_XP: 409600
@@ -17,7 +17,6 @@ perception: +37
 senses: darkvision, tremorsense, true seeing
 AC: 37, touch 9, flat-footed 30 (dex +7, natural +28, size -8)
 HP: 406
-HP_extra: 
 HD: 28d8+280
 saves: Fort +21, Ref +18, Will +24
 immune: acid, cold, disease, mind-affecting effects, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Deific

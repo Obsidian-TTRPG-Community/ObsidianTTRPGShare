@@ -5,7 +5,7 @@ name: Soucouyant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 8
 name: Soucouyant
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +18
 senses: darkvision, detect good, detect magic
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 102
-HP_extra: 
 HD: 12d10+36
 saves: Fort +7, Ref +14, Will +11
 immune: fire, charm, disease, fear, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Detonate (Su)

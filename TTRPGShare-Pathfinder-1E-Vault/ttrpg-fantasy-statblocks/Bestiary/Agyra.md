@@ -5,7 +5,7 @@ name: Agyra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 27
 name: Agyra
 Monster_XP: 3276800
@@ -45,6 +45,7 @@ ecology:
     desc: warm mountains
   - name: Organisation
     desc: solitary (unique)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blinding Flash (Su)

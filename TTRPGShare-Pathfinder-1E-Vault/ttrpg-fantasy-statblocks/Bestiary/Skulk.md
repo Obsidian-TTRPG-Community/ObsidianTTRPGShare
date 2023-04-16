@@ -5,7 +5,7 @@ name: Skulk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1
 name: Skulk
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: low-light vision
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +5, Will +3
 speed: 30 ft.

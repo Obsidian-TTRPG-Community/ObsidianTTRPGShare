@@ -5,7 +5,7 @@ name: Serpopard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 7
 name: Serpopard
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 20, touch 15, flat-footed 15 (dex +5, natural +5)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +10, Ref +11, Will +7
 speed: 40 ft.
@@ -42,6 +41,7 @@ ecology:
     desc: warm deserts or plains
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dune Step (Su)

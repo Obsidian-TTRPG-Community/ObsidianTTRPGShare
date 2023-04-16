@@ -5,7 +5,7 @@ name: NPC Cruel Instructor
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Cruel Instructor
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +1
 perception: +9
 AC: 12, touch 12, flat-footed 11 (deflection +1, dex +1)
 HP: 44
-HP_extra: 
 HD: 9d8
 saves: Fort +3, Ref +7, Will +8
 saves_other: +4 vs. bardic performance, language-dependent, and sonic

@@ -5,7 +5,7 @@ name: NPC Brigand (Highwayman)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC Brigand (Highwayman)
 Monster_XP: 2400

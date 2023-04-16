@@ -5,7 +5,7 @@ name: Slaugrak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 6
 name: Slaugrak
 Monster_XP: 2400
@@ -19,7 +19,6 @@ senses: darkvision, see in darkness
 aura: stench
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +7, Will +5
 immune: acid, poison
@@ -45,6 +44,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Corrupting Bite (Su)

@@ -5,7 +5,7 @@ name: Deep Sea Serpent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 19
 name: Deep Sea Serpent
 Monster_XP: 204800
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, low-light vision
 AC: 34, touch 12, flat-footed 28 (dex +5, dodge +1, natural +22, size -4)
 HP: 333
-HP_extra: 
 HD: 23d10+207
 saves: Fort +22, Ref +20, Will +12
 immune: cold
@@ -40,6 +39,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Elusive (Su)

@@ -5,7 +5,7 @@ name: NPC City Watch Captain (Magnimar)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 4
 name: NPC City Watch Captain (Magnimar)
 Monster_XP: 1200
@@ -19,7 +19,6 @@ INI: +2
 perception: +5
 AC: 18, touch 12, flat-footed 16 (armor +6, dex +2)
 HP: 42
-HP_extra: 
 HD: 5d10+10
 saves: Fort +5, Ref +3, Will +1
 saves_other: +1 vs. fear

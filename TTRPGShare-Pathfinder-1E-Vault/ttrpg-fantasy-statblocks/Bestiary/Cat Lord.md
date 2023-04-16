@@ -5,7 +5,7 @@ name: Cat Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Cat Lord
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +17
 senses: low-light vision, scent
 AC: 25, touch 18, flat-footed 18 (armor +3, deflection +1, dex +6, dodge +1, natural +4)
 HP: 139
-HP_extra: 
 HD: 10d10+80
 saves: Fort +13, Ref +14, Will +7
 DR: 10/silver

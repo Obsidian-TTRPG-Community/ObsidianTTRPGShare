@@ -5,7 +5,7 @@ name: Bolla
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 136: Temple of the Peacock Spirit"
+source: "Pathfinder No. 136: Temple of the Peacock Spirit"
 Monster_CR: 14
 name: Bolla
 Monster_XP: 38400
@@ -17,7 +17,6 @@ perception: +29
 senses: darkvision, low-light vision
 AC: 29, touch 11, flat-footed 26 (dex +3, natural +18, size -2)
 HP: 207
-HP_extra: 
 HD: 18d10+108
 saves: Fort +17, Ref +14, Will +12
 resist: acid 20, electricity 20
@@ -43,6 +42,7 @@ ecology:
     desc: cold or temperate mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Blindness Vulnerability (Ex)

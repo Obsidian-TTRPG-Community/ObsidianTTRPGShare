@@ -5,7 +5,7 @@ name: Medium Lightning Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Medium Lightning Elemental
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision
 AC: 16, touch 15, flat-footed 11 (dex +4, dodge +1, natural +1)
 HP: 26
-HP_extra: 
 HD: 4d10+4
 saves: Fort +5, Ref +8, Will +1
 immune: electricity, elemental traits
@@ -36,6 +35,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

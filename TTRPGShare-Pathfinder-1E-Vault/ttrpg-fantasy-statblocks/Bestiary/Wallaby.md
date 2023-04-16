@@ -5,7 +5,7 @@ name: Wallaby
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/3
 name: Wallaby
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +4
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +0
 speed: 40 ft.
@@ -33,6 +32,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or court (3-10)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

@@ -5,7 +5,7 @@ name: NPC Heretic (Conjurist)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC Heretic (Conjurist)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ INI: +5
 perception: +5
 AC: 15, touch 11, flat-footed 14 (armor +4, dex +1)
 HP: 45
-HP_extra: 
 HD: 7d6+21
 saves: Fort +5, Ref +4, Will +6
 speed: 30 ft.

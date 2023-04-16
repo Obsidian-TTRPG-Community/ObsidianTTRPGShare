@@ -5,7 +5,7 @@ name: Young Magma Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Young Magma Dragon
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +14
 senses: dragon senses
 AC: 22, touch 12, flat-footed 20 (dex +2, natural +10)
 HP: 85
-HP_extra: 
 HD: 9d12+27
 saves: Fort +11, Ref +8, Will +10
 immune: fire, paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: any mountains or underground (Plane of Fire)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

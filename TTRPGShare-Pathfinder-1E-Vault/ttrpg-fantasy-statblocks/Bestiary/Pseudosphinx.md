@@ -5,7 +5,7 @@ name: Pseudosphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Familiar Folio"
+source: "Familiar Folio"
 Monster_CR: 2
 name: Pseudosphinx
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +3, Ref +5, Will +6
 DR: 5/magic
@@ -39,6 +38,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aided Insight (Su)

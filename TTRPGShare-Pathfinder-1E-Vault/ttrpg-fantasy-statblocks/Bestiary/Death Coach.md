@@ -5,7 +5,7 @@ name: Death Coach
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Death Coach
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision, deathwatch, lifesense
 aura: aura of doom
 AC: 27, touch 27, flat-footed 16 (deflection +8, dex +10, dodge +1, size -2)
 HP: 212
-HP_extra: 
 HD: 17d8+136
 saves: Fort +13, Ref +15, Will +14
 immune: undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Doom (Su)

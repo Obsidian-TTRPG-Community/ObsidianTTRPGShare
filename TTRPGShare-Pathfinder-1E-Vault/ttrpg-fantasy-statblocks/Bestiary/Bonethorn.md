@@ -5,7 +5,7 @@ name: Bonethorn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Bonethorn
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +22
 senses: lifesense, low-light vision
 AC: 27, touch 17, flat-footed 20 (dex +6, dodge +1, natural +10)
 HP: 150
-HP_extra: 
 HD: 20d8+60
 saves: Fort +15, Ref +14, Will +11
 immune: plant traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, gang (2-6), or pack (7-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Critical Implantation (Ex)

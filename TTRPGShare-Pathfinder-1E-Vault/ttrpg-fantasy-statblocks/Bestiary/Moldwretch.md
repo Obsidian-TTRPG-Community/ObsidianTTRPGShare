@@ -5,7 +5,7 @@ name: Moldwretch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 7
 name: Moldwretch
 Monster_XP: 3200
@@ -39,6 +39,7 @@ ecology:
     desc: any swamps or underground
   - name: Organisation
     desc: solitary, cluster (2-3), or growth (4-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Mold Symbiosis (Ex)

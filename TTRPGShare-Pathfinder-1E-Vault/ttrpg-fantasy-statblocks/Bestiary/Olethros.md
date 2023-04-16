@@ -5,7 +5,7 @@ name: Olethros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 17
 name: Olethros
 Monster_XP: 102400
@@ -18,7 +18,6 @@ perception: +30
 senses: darkvision, discern next of kin, low-light vision, spiritsense, true seeing
 AC: 32, touch 30, flat-footed 22 (dex +10, insight +10, natural +2)
 HP: 275
-HP_extra: 
 HD: 19d10+171
 saves: Fort +20, Ref +16, Will +19
 saves_other: +8 vs. mind-affecting effects
@@ -44,6 +43,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary, pair, or thread (3 plus 3-8 morrignas)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cyclic Energy (Ex)

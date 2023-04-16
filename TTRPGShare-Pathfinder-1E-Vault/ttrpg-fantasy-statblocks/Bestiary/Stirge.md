@@ -5,7 +5,7 @@ name: Stirge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Stirge
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, low-light vision, scent
 AC: 16, touch 16, flat-footed 12 (dex +4, size +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +2, Ref +6, Will +1
 speed: 10 ft., fly 40 ft. (average)
@@ -37,6 +36,7 @@ ecology:
     desc: temperate and warm swamps
   - name: Organisation
     desc: solitary, colony (2-4), flock (5-8), storm (9-14), or swarm (15-40)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

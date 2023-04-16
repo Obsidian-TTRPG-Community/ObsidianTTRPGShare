@@ -5,7 +5,7 @@ name: NPC Mystery Cultist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Magnimar, City of Monuments"
+source: "Magnimar, City of Monuments"
 Monster_CR: 2
 name: NPC Mystery Cultist
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +2
 perception: +3
 AC: 14, touch 13, flat-footed 11 (armor +1, dex +2, dodge +1)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +3, Ref +3, Will +6
 speed: 30 ft.

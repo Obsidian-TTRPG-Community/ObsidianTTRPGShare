@@ -5,7 +5,7 @@ name: NPC Champion of Magic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Champion of Magic
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +12
 senses: low-light vision, see invisibility
 AC: 21, touch 12, flat-footed 21 (armor +8, deflection +2, dex -1, natural +1, size +1)
 HP: 134
-HP_extra: 
 HD: 2d10+7d6+4d10+72
 saves: Fort +15, Ref +6, Will +13
 saves_other: +2 vs. illusions

@@ -5,7 +5,7 @@ name: The Whispering Tyrant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Realms"
+source: "Mythic Realms"
 Monster_CR: 26
 name: The Whispering Tyrant
 Monster_XP: 2457600
@@ -21,7 +21,6 @@ senses: darkvision, see in darkness, spell perception
 aura: absolute terror
 AC: 46, touch 19, flat-footed 42 (armor +8, deflection +5, dex +4, natural +19)
 HP: 392
-HP_extra: 
 HD: 20d6+320
 saves: Fort +21, Ref +16, Will +22
 immune: acid, channel energy from non-mythic sources, cold, electricity, undead traits

@@ -5,7 +5,7 @@ name: Oneirogen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 109: In Search of Sanity"
+source: "Pathfinder No. 109: In Search of Sanity"
 Monster_CR: 2
 name: Oneirogen
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: obscuring fog, veil of mists
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 25
-HP_extra: 
 HD: 3d10+9
 saves: Fort +8, Ref +5, Will +2
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Obscuring Fog (Sp)

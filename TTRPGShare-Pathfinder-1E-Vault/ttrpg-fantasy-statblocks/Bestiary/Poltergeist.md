@@ -5,7 +5,7 @@ name: Poltergeist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Poltergeist
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 12, touch 12, flat-footed 11 (deflection +1, dex +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +2, Ref +2, Will +4
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or haunting (2-7)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Frightener (Su)

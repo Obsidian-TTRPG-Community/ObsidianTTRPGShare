@@ -5,7 +5,7 @@ name: Vodyanoi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Vodyanoi
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision
 AC: 19, touch 15, flat-footed 14 (dex +4, dodge +1, natural +4)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +5, Ref +9, Will +10
 speed: 30 ft., swim 50 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: any rivers or marshes
   - name: Organisation
     desc: solitary, pair, or family (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Suffocating Water (Su)

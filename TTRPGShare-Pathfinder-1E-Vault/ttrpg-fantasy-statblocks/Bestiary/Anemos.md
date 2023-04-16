@@ -5,7 +5,7 @@ name: Anemos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Anemos
 Monster_XP: 153600
@@ -44,6 +44,7 @@ ecology:
     desc: any sky (Plane of Air or Material Plane)
   - name: Organisation
     desc: solitary or council (4)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Aerokinesis (Sp, Su)

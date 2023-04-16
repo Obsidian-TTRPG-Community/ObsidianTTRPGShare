@@ -5,7 +5,7 @@ name: Nuglub
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Nuglub
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 18, touch 15, flat-footed 14 (dex +4, natural +3, size +1)
 HP: 19
-HP_extra: 
 HD: 3d6+9
 saves: Fort +3, Ref +7, Will +2
 DR: 5/cold iron
@@ -41,6 +40,7 @@ ecology:
     desc: any underground or urban
   - name: Organisation
     desc: solitary, pair, or mob (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Kneecapper (Ex)

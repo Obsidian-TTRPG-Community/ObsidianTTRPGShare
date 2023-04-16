@@ -5,7 +5,7 @@ name: Trox
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Trox
 Monster_XP: 600
@@ -19,7 +19,6 @@ perception: +0
 senses: darkvision
 AC: 10, touch 8, flat-footed 9 (armor +2, dex +1, rage -2, size -1)
 HP: 17
-HP_extra: 
 HD: 1d12+5
 saves: Fort +6, Ref +1, Will +2
 speed: 40 ft., burrow 20 ft.

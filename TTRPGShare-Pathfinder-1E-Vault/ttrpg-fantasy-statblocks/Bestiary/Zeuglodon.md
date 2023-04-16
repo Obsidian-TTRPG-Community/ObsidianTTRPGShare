@@ -5,7 +5,7 @@ name: Zeuglodon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 9
 name: Zeuglodon
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +20
 senses: low-light vision
 AC: 25, touch 11, flat-footed 20 (dex +4, dodge +1, natural +14, size -4)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +13, Ref +11, Will +6
 speed: swim 60 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm oceans
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hold Breath (Ex)

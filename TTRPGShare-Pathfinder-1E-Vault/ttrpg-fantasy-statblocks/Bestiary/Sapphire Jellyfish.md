@@ -5,7 +5,7 @@ name: Sapphire Jellyfish
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Sapphire Jellyfish
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +1
 senses: blindsense, darkvision
 AC: 24, touch 12, flat-footed 20 (dex +4, natural +12, size -2)
 HP: 138
-HP_extra: 
 HD: 12d8+84
 saves: Fort +15, Ref +8, Will +5
 immune: electricity, mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: warm or temperate oceans
   - name: Organisation
     desc: solitary, pack (2-3), or bloom (4-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Electricity Blast (Ex)

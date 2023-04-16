@@ -5,7 +5,7 @@ name: Behir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Behir
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 21, touch 9, flat-footed 20 (dex +1, natural +12, size -2)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +8, Will +5
 immune: electricity
@@ -38,6 +37,7 @@ ecology:
     desc: warm hills and deserts
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Grab (Ex)

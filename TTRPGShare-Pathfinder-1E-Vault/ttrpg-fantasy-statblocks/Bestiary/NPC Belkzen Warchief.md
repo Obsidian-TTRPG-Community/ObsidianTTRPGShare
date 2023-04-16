@@ -5,7 +5,7 @@ name: NPC Belkzen Warchief
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 10
 name: NPC Belkzen Warchief
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +13
 senses: darkvision
 AC: 17, touch 10, flat-footed 15 (armor +6, dex +2, natural +1, rage -2)
 HP: 132
-HP_extra: 
 HD: 11d12+55
 saves: Fort +12, Ref +5, Will +7
 saves_other: +4 vs. magic

@@ -5,7 +5,7 @@ name: Mythic Vault Builder
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 20
 name: Mythic Vault Builder
 Monster_XP: 307200
@@ -46,6 +46,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or foundation (2 plus 4-20 Vault Keepers)
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Command Stone (Sp)

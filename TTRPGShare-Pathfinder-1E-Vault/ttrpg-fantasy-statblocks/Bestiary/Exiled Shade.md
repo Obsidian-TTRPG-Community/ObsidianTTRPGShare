@@ -5,7 +5,7 @@ name: Exiled Shade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Exiled Shade
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 18, touch 18, flat-footed 14 (deflection +4, dex +3, dodge +1)
 HP: 68
-HP_extra: 
 HD: 8d8+32
 saves: Fort +6, Ref +5, Will +8
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or banishment (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Exiled (Ex)

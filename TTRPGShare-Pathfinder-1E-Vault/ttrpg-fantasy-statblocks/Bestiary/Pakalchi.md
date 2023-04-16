@@ -5,7 +5,7 @@ name: Pakalchi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Pakalchi
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, low-light vision, true seeing
 AC: 22, touch 16, flat-footed 16 (dex +6, natural +6)
 HP: 115
-HP_extra: 
 HD: 11d10+55
 saves: Fort +10, Ref +13, Will +10
 immune: death effects, disease, fear effects, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary, pair, or plot (3-7)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Entangling Train (Su)

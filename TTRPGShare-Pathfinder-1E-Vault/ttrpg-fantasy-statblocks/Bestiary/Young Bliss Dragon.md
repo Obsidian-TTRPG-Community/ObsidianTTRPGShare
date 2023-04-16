@@ -5,7 +5,7 @@ name: Young Bliss Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 137: The City Outside of Time"
+source: "Pathfinder No. 137: The City Outside of Time"
 Monster_CR: 12
 name: Young Bliss Dragon
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +24
 senses: dragon sense
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 161
-HP_extra: 
 HD: 14d12+70
 saves: Fort +14, Ref +10, Will +12
 immune: ability damage, ability drain, electricity, paralysis, petrification, sleep

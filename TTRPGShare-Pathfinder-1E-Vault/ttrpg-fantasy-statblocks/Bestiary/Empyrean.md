@@ -5,7 +5,7 @@ name: Empyrean
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 20
 name: Empyrean
 Monster_XP: 307200

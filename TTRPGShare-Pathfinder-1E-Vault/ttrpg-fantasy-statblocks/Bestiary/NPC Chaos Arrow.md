@@ -5,7 +5,7 @@ name: NPC Chaos Arrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Chaos Arrow
 Monster_XP: 204800
@@ -20,7 +20,6 @@ perception: +26
 senses: low-light vision, see invisibility
 AC: 31, touch 21, flat-footed 24 (armor +7, deflection +3, dex +6, dodge +1, natural +3, size +1)
 HP: 140
-HP_extra: 
 HD: 6d8+4d6+10d10+40
 saves: Fort +13, Ref +21, Will +13
 saves_other: +2 vs. illusions

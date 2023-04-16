@@ -5,7 +5,7 @@ name: Glorious Reclamation
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 108: Hell Comes to Westcrown"
+source: "Pathfinder No. 108: Hell Comes to Westcrown"
 Monster_CR: 14
 name: Glorious Reclamation
 Monster_XP: 38400
@@ -17,7 +17,6 @@ INI: +5
 perception: +27
 AC: 29, touch 12, flat-footed 27 (armor +9, dex +1, dodge +1, natural +3, shield +5)
 HP: 210
-HP_extra: 
 HD: 20d8+120
 saves: Fort +14, Ref +9, Will +15
 defensive_abilities: troop traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, company (2-4) or battalion (5-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Battlefield Healing (Su)

@@ -5,7 +5,7 @@ name: Courage Heart
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 68: The Shackled Hut"
+source: "Pathfinder No. 68: The Shackled Hut"
 Monster_CR: 15
 name: Courage Heart
 Monster_XP: 51200

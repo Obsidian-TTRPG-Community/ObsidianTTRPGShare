@@ -5,7 +5,7 @@ name: NPC Mercenary Magician
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Mercenary Magician
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: +2
 perception: +1
 AC: 12, touch 12, flat-footed 10 (dex +2)
 HP: 8
-HP_extra: 
 HD: 1d6+2
 saves: Fort +3, Ref +2, Will +3
 speed: 30 ft.

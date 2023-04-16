@@ -5,7 +5,7 @@ name: Mercane
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 5
 name: Mercane
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 16, touch 12, flat-footed 13 (dex +2, dodge +1, natural +4, size -1)
 HP: 51
-HP_extra: 
 HD: 6d10+18
 saves: Fort +8, Ref +4, Will +8
 SR: 20

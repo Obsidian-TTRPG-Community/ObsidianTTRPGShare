@@ -5,7 +5,7 @@ name: Graven Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Graven Guardian
 Monster_XP: 1600

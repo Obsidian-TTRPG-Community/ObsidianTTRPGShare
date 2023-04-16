@@ -5,7 +5,7 @@ name: Ib Shade
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 111: Dreams of the Yellow King"
+source: "Pathfinder No. 111: Dreams of the Yellow King"
 Monster_CR: 4
 name: Ib Shade
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 17, touch 17, flat-footed 14 (deflection +4, dex +3)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +5, Ref +4, Will +7
 immune: cold, undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: temperate swamp
   - name: Organisation
     desc: solitary, pair, or haunting (3-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Doom (Su)

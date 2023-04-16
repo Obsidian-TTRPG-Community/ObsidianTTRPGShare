@@ -5,7 +5,7 @@ name: Surgeon Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 89: Palace of Fallen Stars"
+source: "Pathfinder No. 89: Palace of Fallen Stars"
 Monster_CR: 14
 name: Surgeon Robot
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision, low-light vision, superior optics
 AC: 27, touch 17, flat-footed 20 (dex +7, natural +10)
 HP: 254
-HP_extra: 
 HD: 18d10+80 plus 75 hp force field
 saves: Fort +6, Ref +13, Will +7
 immune: construct traits
@@ -43,6 +42,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary or team (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Force Field (Ex)

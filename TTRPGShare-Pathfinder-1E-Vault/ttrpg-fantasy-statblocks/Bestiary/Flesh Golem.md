@@ -5,7 +5,7 @@ name: Flesh Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Flesh Golem
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 20, touch 8, flat-footed 20 (dex -1, natural +12, size -1)
 HP: 79
-HP_extra: 
 HD: 9d10+30
 saves: Fort +3, Ref +2, Will +3
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Berserk (Ex)

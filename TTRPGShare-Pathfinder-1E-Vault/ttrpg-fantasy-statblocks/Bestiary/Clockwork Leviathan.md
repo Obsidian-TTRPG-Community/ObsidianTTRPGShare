@@ -5,7 +5,7 @@ name: Clockwork Leviathan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Clockwork Leviathan
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 28, touch 14, flat-footed 22 (dex +4, dodge +2, natural +14, size -2)
 HP: 128
-HP_extra: 
 HD: 16d10+40
 saves: Fort +5, Ref +11, Will +5
 immune: fire, construct traits
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pod (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Breath Weapon (Su)

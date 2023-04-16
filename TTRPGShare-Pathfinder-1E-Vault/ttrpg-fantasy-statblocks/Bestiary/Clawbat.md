@@ -5,7 +5,7 @@ name: Clawbat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 33: The Varnhold Vanishing"
+source: "Pathfinder No. 33: The Varnhold Vanishing"
 Monster_CR: 1
 name: Clawbat
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision, low-light vision, blood scent
 AC: 15, touch 14, flat-footed 12 (armor +1, dex +3, size +1)
 HP: 11
-HP_extra: 
 HD: 2d10
 saves: Fort +3, Ref +6, Will +2
 speed: 10 ft., fly 50 ft. (average)
@@ -34,6 +33,7 @@ ecology:
     desc: temperate hills and ruins
   - name: Organisation
     desc: solitary, pair, or clutch (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Scent (Ex)

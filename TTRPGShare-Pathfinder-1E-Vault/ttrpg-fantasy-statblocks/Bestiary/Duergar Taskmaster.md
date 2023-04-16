@@ -5,7 +5,7 @@ name: Duergar Taskmaster
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 9
 name: Duergar Taskmaster
 Monster_XP: 6400
@@ -20,7 +20,6 @@ perception: +16
 senses: darkvision
 AC: 21, touch 15, flat-footed 17 (armor +5, deflection +1, dex +3, dodge +1, natural +1)
 HP: 64
-HP_extra: 
 HD: 10d8+16
 saves: Fort +5, Ref +11, Will +7
 saves_other: +2 vs. spells

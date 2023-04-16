@@ -5,7 +5,7 @@ name: Nightcrawler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 18
 name: Nightcrawler
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: darksense, darkvision, detect magic, low-light vision, tremorsense
 aura: desecrating aura
 AC: 33, touch 6, flat-footed 33 (natural +27, size -4)
 HP: 312
-HP_extra: 
 HD: 25d8+200
 saves: Fort +16, Ref +10, Will +23
 immune: cold, undead traits
@@ -45,6 +44,7 @@ ecology:
     desc: any (Negative Energy Plane)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Energy Drain (Su)

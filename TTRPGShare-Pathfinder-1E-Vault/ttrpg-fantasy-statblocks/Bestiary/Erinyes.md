@@ -5,7 +5,7 @@ name: Erinyes
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Erinyes
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, see in darkness, true seeing
 AC: 23, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +11, Ref +12, Will +7
 immune: fire, poison

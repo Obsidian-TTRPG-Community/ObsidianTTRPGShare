@@ -5,7 +5,7 @@ name: Cameroceras
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Cameroceras
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +15
 senses: keen scent, low-light vision
 AC: 25, touch 10, flat-footed 23 (dex +2, natural +15, size -2)
 HP: 152
-HP_extra: 
 HD: 16d8+80
 saves: Fort +15, Ref +12, Will +10
 speed: 5 ft., swim 20 ft., jet 90 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Enwrap (Ex)

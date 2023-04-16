@@ -5,7 +5,7 @@ name: Wood Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Wood Giant
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +11
 senses: low-light vision
 AC: 20, touch 14, flat-footed 15 (armor +2, dex +5, natural +4, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +9, Ref +8, Will +7
 defensive_abilities: rock catching

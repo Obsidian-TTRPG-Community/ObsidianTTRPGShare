@@ -5,7 +5,7 @@ name: Arbiter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Arbiter
 Monster_XP: 600
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or flock (3-14)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Constant Vigilance (Su)

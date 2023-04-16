@@ -5,7 +5,7 @@ name: Goblin Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1
 name: Goblin Dog
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 9
-HP_extra: 
 HD: 1d8+5
 saves: Fort +4, Ref +4, Will +1
 immune: disease
@@ -34,6 +33,7 @@ ecology:
     desc: temperate forest, swamp, or underground
   - name: Organisation
     desc: solitary or pack (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Allergic Reaction (Ex)

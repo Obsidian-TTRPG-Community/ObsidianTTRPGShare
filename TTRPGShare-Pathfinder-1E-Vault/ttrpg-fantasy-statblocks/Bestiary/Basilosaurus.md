@@ -5,7 +5,7 @@ name: Basilosaurus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Basilosaurus
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +25
 senses: blindsense, low-light vision
 AC: 27, touch 7, flat-footed 26 (dex +1, natural +20, size -4)
 HP: 161
-HP_extra: 
 HD: 17d8+85
 saves: Fort +17, Ref +11, Will +7
 speed: swim 40 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-10)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

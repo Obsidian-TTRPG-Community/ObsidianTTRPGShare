@@ -5,7 +5,7 @@ name: Morlock Swarmer Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 7
 name: Morlock Swarmer Troop
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision
 AC: 18, touch 16, flat-footed 12 (dex +5, dodge +1, natural +2)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +6, Ref +11, Will +10
 defensive_abilities: troop traits
@@ -45,6 +44,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, pair, or tribe (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Expert Climber (Ex)

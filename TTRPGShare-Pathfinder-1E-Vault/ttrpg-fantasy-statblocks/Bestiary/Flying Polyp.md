@@ -5,7 +5,7 @@ name: Flying Polyp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 14
 name: Flying Polyp
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: frightful presence
 AC: 29, touch 16, flat-footed 26 (deflection +5, dex +2, dodge +1, natural +13, size -2)
 HP: 207
-HP_extra: 
 HD: 18d8+126
 saves: Fort +13, Ref +12, Will +16
 immune: acid, cold, sonic
@@ -44,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or storm (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Deflecting Winds (Su)

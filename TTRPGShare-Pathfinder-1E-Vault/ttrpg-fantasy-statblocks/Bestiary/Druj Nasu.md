@@ -5,7 +5,7 @@ name: Druj Nasu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 113: What Grows Within"
+source: "Pathfinder No. 113: What Grows Within"
 Monster_CR: 8
 name: Druj Nasu
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, see in darkness, detect good, detect magic
 AC: 24, touch 16, flat-footed 18 (dex +6, natural +8)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +8, Ref +13, Will +11
 immune: fire, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

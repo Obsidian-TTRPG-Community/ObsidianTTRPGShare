@@ -5,7 +5,7 @@ name: Vault Keeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 14
 name: Vault Keeper
 Monster_XP: 38400
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cabal (3-6 plus 4-12 pechs and 2-6 earth elementals)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Crystal Burst (Su)

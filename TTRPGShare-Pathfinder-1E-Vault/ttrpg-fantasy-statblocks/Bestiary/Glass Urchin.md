@@ -5,7 +5,7 @@ name: Glass Urchin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 37: Souls for Smuggler's Shiv"
+source: "Pathfinder No. 37: Souls for Smuggler's Shiv"
 Monster_CR: 9
 name: Glass Urchin
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +6
 senses: all-around vision, low-light vision, scent, tremorsense
 AC: 22, touch 4, flat-footed 22 (dex -4, natural +18, size -2)
 HP: 126
-HP_extra: 
 HD: 12d8+72
 saves: Fort +14, Ref +0, Will +6
 immune: mind-affecting effects
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or warm ocean or coastline
   - name: Organisation
     desc: solitary, pair, or cluster (3-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: All-Around Vision (Ex)

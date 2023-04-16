@@ -5,7 +5,7 @@ name: Torturer Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 8
 name: Torturer Robot
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision, low-light vision
 AC: 23, touch 17, flat-footed 17 (dex +5, dodge +1, natural +6, size +1)
 HP: 105
-HP_extra: 
 HD: 10d10+10 plus 40-hp force field
 saves: Fort +3, Ref +8, Will +5
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Agile (Ex)

@@ -5,7 +5,7 @@ name: Gowrow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 5
 name: Gowrow
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 59
-HP_extra: 
 HD: 7d12+14
 saves: Fort +7, Ref +8, Will +9
 immune: paralysis, sleep, sonic
@@ -40,6 +39,7 @@ ecology:
     desc: temperate lakes or rivers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aquatic Combatant (Ex)

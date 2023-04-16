@@ -5,7 +5,7 @@ name: Ancient Bliss Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 137: The City Outside of Time"
+source: "Pathfinder No. 137: The City Outside of Time"
 Monster_CR: 21
 name: Ancient Bliss Dragon
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 41, touch 5, flat-footed 41 (dex -1, natural +36, size -4)
 HP: 434
-HP_extra: 
 HD: 28d12+252
 saves: Fort +25, Ref +17, Will +23
 immune: ability damage, ability drain, electricity, paralysis, petrification, sleep

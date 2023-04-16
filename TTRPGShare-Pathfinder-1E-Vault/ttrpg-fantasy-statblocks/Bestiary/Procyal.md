@@ -5,7 +5,7 @@ name: Procyal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 99: Dance of the Damned"
+source: "Pathfinder No. 99: Dance of the Damned"
 Monster_CR: 8
 name: Procyal
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 20, touch 16, flat-footed 18 (dex +2, natural +8)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +11, Ref +9, Will +6
 saves_other: +4 vs. poison

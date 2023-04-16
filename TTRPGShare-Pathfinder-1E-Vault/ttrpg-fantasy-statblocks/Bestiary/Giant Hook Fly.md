@@ -5,7 +5,7 @@ name: Giant Hook Fly
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Gallows of Madness"
+source: "Gallows of Madness"
 Monster_CR: 2
 name: Giant Hook Fly
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +2, Will +1
 immune: mind-affecting effects
@@ -34,6 +33,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cloud (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

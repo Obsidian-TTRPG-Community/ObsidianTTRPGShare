@@ -5,7 +5,7 @@ name: Dark Naga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Dark Naga
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +19
 senses: darkvision, detect thoughts
 AC: 22, touch 15, flat-footed 16 (dex +5, dodge +1, natural +7, size -1)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +7, Ref +10, Will +9
 immune: poison
@@ -38,6 +37,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary or nest (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Detect Thoughts (Su)

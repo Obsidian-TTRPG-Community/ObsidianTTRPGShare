@@ -5,7 +5,7 @@ name: Aashaq's Wyvern
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 8
 name: Aashaq's Wyvern
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +20
 senses: darkvision, low-light vision, scent
 AC: 20, touch 10, flat-footed 19 (dex +1, natural +10, size -1)
 HP: 103
-HP_extra: 
 HD: 9d12+45
 saves: Fort +11, Ref +7, Will +9
 immune: dragon traits, magic paralysis and sleep
@@ -43,6 +42,7 @@ ecology:
     desc: temperate or warm hills
   - name: Organisation
     desc: solitary, pair, or murder (3-5 and 1-3 wyverns)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

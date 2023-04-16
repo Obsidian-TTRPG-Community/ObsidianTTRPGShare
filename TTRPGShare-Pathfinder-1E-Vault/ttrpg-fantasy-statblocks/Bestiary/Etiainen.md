@@ -5,7 +5,7 @@ name: Etiainen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Etiainen
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 14, touch 14, flat-footed 12 (deflection +2, dex +2)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +4, Ref +2, Will +3
 defensive_abilities: incorporeal
@@ -40,6 +39,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Assume Visage (Su)

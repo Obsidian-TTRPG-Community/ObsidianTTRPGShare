@@ -5,7 +5,7 @@ name: Benaioh (Clay Vessel)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 93: Forge of the Giant God"
+source: "Pathfinder No. 93: Forge of the Giant God"
 Monster_CR: 7
 name: Benaioh (Clay Vessel)
 Monster_XP: 3200
@@ -16,7 +16,6 @@ INI: -1
 senses: blindsense, darkvision, low-light vision, tremorsense
 AC: 18, touch 8, flat-footed 18 (dex -1, natural +10, size -1)
 HP: 52
-HP_extra: 
 HD: 4d10+30
 saves: Fort +1, Ref +0, Will -3
 immune: construct traits
@@ -39,6 +38,7 @@ ecology:
     desc: any mountains or underground
   - name: Organisation
     desc: solitary, pair, or guard (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Clay Shell (Ex)

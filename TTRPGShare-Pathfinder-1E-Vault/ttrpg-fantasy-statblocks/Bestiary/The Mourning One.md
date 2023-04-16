@@ -5,7 +5,7 @@ name: The Mourning One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 19
 name: The Mourning One
 Monster_XP: 204800
@@ -21,7 +21,6 @@ senses: darkvision
 aura: blood rain
 AC: 29, touch 5, flat-footed 26 (dex +3, natural +24, size -8)
 HP: 387
-HP_extra: 
 HD: 25d10+250
 saves: Fort +23, Ref +19, Will +10
 immune: ability drain, cold, energy drain, poison

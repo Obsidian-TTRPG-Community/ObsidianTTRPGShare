@@ -5,7 +5,7 @@ name: Immense Tortoise
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Immense Tortoise
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +14
 senses: low-light vision
 AC: 25, touch 0, flat-footed 25 (dex -2, natural +25, size -8)
 HP: 126
-HP_extra: 
 HD: 11d8+77
 saves: Fort +16, Ref +5, Will +3
 speed: 20 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: warm islands
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

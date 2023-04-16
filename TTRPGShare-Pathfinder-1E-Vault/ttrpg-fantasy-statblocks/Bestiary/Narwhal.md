@@ -5,7 +5,7 @@ name: Narwhal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 59: The Price of Infamy"
+source: "Pathfinder No. 59: The Price of Infamy"
 Monster_CR: 3
 name: Narwhal
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +12
 senses: blindsight, low-light vision
 AC: 16, touch 12, flat-footed 13 (dex +3, natural +4, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +6, Ref +7, Will +3
 speed: swim 80 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, pair, or pod (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hold Breath (Ex)

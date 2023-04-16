@@ -5,7 +5,7 @@ name: Wet-House Emissary
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 7
 name: Wet-House Emissary
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: -1
 perception: +12
 AC: 12, touch 9, flat-footed 12 (armor +3, dex -1)
 HP: 56
-HP_extra: 
 HD: 9d8+16
 saves: Fort +4, Ref +5, Will +11
 saves_other: +4 bonus vs. poison, +2 vs. non-aboleth enchantments, -2 vs. aboleth enchantments

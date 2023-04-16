@@ -5,7 +5,7 @@ name: Ancient Astral Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Ancient Astral Dragon
 Monster_XP: 153600
@@ -19,7 +19,6 @@ senses: dragon senses, see invisibility
 aura: mental static, frightful presence
 AC: 37, touch 6, flat-footed 37 (natural +31, size -4)
 HP: 348
-HP_extra: 
 HD: 24d12+192
 saves: Fort +21, Ref +14, Will +23
 saves_other: +4 vs. psychic spells

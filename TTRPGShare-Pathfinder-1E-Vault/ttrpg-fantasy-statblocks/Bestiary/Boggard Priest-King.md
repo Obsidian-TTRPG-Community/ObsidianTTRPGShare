@@ -5,7 +5,7 @@ name: Boggard Priest-King
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 11
 name: Boggard Priest-King
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision, low-light vision
 AC: 20, touch 9, flat-footed 20 (armor +6, dex -1, natural +4, shield +1)
 HP: 120
-HP_extra: 
 HD: 13d8+62
 saves: Fort +14, Ref +6, Will +14
 resist: cold 10

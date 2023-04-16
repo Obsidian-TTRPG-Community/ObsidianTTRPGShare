@@ -5,7 +5,7 @@ name: Shobhad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Shobhad
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision
 AC: 18, touch 10, flat-footed 17 (armor +4, dex +1, natural +4, size -1)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +5, Ref +5, Will +4
 resist: cold 5

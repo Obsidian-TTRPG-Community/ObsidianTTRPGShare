@@ -5,7 +5,7 @@ name: NPC Deep Marshal
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Deep Marshal
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +17
 senses: darkvision, see invisibility
 AC: 26, touch 17, flat-footed 23 (armor +4, deflection +4, dex +2, dodge +1, natural +3, shield +2)
 HP: 130
-HP_extra: 
 HD: 16d6+72
 saves: Fort +13, Ref +11, Will +18
 saves_other: +4 vs. mind-affecting, +2 vs. poison, spells, and spell-like abilities

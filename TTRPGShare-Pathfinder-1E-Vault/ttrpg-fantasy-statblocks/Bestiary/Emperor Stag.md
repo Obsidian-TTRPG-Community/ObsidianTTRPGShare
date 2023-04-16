@@ -5,7 +5,7 @@ name: Emperor Stag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 3
 name: Emperor Stag
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 11 (dex +4, natural +1)
 HP: 38
-HP_extra: 
 HD: 4d8+20
 saves: Fort +9, Ref +8, Will +3
 defensive_abilities: wary reaction
@@ -34,6 +33,7 @@ ecology:
     desc: temperate hills or forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Nimble Footing (Ex)

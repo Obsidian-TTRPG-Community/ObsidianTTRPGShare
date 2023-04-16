@@ -5,7 +5,7 @@ name: Tullimonstrum
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 124: City in the Deep"
+source: "Pathfinder No. 124: City in the Deep"
 Monster_CR: 1
 name: Tullimonstrum
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +4
 senses: low-light vision, scent
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +6, Will +0
 defensive_abilities: all-around vision
@@ -38,6 +37,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, pair, group (3-5), or school (6-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Attach (Ex)

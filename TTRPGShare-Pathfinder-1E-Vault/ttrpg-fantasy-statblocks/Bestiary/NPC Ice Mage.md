@@ -5,7 +5,7 @@ name: NPC Ice Mage
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Ice Mage
 Monster_XP: 25600
@@ -20,7 +20,6 @@ perception: +19
 senses: low-light vision
 AC: 21, touch 15, flat-footed 18 (armor +4, deflection +2, dex +2, dodge +1, natural +2)
 HP: 79
-HP_extra: 
 HD: 14d6+28
 saves: Fort +6, Ref +6, Will +12
 saves_other: +2 vs. enchantments

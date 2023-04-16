@@ -5,7 +5,7 @@ name: NPC Pig Farmer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Pig Farmer
 Monster_XP: 200
@@ -19,7 +19,6 @@ INI: -1
 perception: +0
 AC: 9, touch 9, flat-footed 9 (dex -1)
 HP: 9
-HP_extra: 
 HD: 2d6+2
 saves: Fort +1, Ref -1, Will +0
 speed: 30 ft.

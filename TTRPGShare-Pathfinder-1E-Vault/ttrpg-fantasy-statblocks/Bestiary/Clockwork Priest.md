@@ -5,7 +5,7 @@ name: Clockwork Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 11
 name: Clockwork Priest
 Monster_XP: 12800
@@ -17,7 +17,6 @@ INI: +10
 senses: darkvision, low-light vision
 AC: 25, touch 18, flat-footed 17 (dex +6, dodge +2, natural +7)
 HP: 119
-HP_extra: 
 HD: 18d10+20
 saves: Fort +6, Ref +14, Will +10
 immune: construct traits
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or clergy (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Domain Magic (Su)

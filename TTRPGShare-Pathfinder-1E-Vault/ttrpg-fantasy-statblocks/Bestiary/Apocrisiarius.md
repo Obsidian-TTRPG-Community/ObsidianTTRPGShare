@@ -5,7 +5,7 @@ name: Apocrisiarius
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 98: Turn of the Torrent"
+source: "Pathfinder No. 98: Turn of the Torrent"
 Monster_CR: 7
 name: Apocrisiarius
 Monster_XP: 3200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary, pair, or company (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Aura of Truth (Sp)

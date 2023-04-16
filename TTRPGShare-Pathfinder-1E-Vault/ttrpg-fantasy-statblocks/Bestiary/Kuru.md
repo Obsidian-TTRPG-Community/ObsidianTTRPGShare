@@ -5,7 +5,7 @@ name: Kuru
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 1/2
 name: Kuru
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +6
 senses: low-light vision
 AC: 12, touch 8, flat-footed 12 (armor +4, rage -2)
 HP: 16
-HP_extra: 
 HD: 1d12+4
 saves: Fort +5, Ref +2, Will +4
 weak: light sensitivity

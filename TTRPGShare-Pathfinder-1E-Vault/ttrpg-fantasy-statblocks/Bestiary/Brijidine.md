@@ -5,7 +5,7 @@ name: Brijidine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 17
 name: Brijidine
 Monster_XP: 102400
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, tremorsense
 aura: flaming body, holy aura
 AC: 32, touch 19, flat-footed 27 (deflection +4, dex +5, natural +13)
 HP: 256
-HP_extra: 
 HD: 19d10+152
 saves: Fort +22, Ref +15, Will +21
 immune: electricity, fire, petrification

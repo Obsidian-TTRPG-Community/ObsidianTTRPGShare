@@ -5,7 +5,7 @@ name: Lamp Blighter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 128: Songbird, Scion, Saboteur"
+source: "Pathfinder No. 128: Songbird, Scion, Saboteur"
 Monster_CR: 6
 name: Lamp Blighter
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +15
 senses: blindsight, darkvision, low-light vision
 AC: 17, touch 17, flat-footed 11 (dex +5, dodge +1, size +1)
 HP: 45
-HP_extra: 
 HD: 10d6+10
 saves: Fort +4, Ref +12, Will +9
 DR: 10/cold iron

@@ -5,7 +5,7 @@ name: Llorona
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 11
 name: Llorona
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 25, touch 25, flat-footed 17 (deflection +7, dex +7, dodge +1)
 HP: 138
-HP_extra: 
 HD: 12d8+84
 saves: Fort +11, Ref +13, Will +9
 immune: undead traits
@@ -38,6 +37,7 @@ ecology:
     desc: any shorelines or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Constitution Drain (Su)

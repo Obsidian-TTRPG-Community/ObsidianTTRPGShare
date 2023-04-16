@@ -5,7 +5,7 @@ name: NPC Border Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Border Guard
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 18, touch 14, flat-footed 14 (armor +4, dex +4)
 HP: 30
-HP_extra: 
 HD: 4d10+4
 saves: Fort +5, Ref +8, Will +2
 resist: fire 10

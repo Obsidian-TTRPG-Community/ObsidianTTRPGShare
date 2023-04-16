@@ -5,7 +5,7 @@ name: Titan Centipede
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 9
 name: Titan Centipede
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 21, touch 2, flat-footed 21 (natural +19, size -8)
 HP: 135
-HP_extra: 
 HD: 10d8+90
 saves: Fort +16, Ref +3, Will +3
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm forests or underground
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

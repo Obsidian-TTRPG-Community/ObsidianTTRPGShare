@@ -5,7 +5,7 @@ name: Megalania
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Megalania
 Monster_XP: 3200
@@ -17,7 +17,6 @@ perception: +10
 senses: low-light vision, scent
 AC: 21, touch 9, flat-footed 20 (dex +1, natural +12, size -2)
 HP: 85
-HP_extra: 
 HD: 10d8+40
 saves: Fort +11, Ref +8, Will +7
 speed: 30 ft., swim 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests or plains
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

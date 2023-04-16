@@ -5,7 +5,7 @@ name: Saxra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 18
 name: Saxra
 Monster_XP: 153600
@@ -18,7 +18,6 @@ perception: +33
 senses: darkvision
 AC: 33, touch 15, flat-footed 26 (dex +7, natural +18, size -2)
 HP: 300
-HP_extra: 
 HD: 24d8+192
 saves: Fort +16, Ref +17, Will +20
 immune: cold, undead traits
@@ -41,6 +40,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary (plus spawn)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Bone Swarm (Su)

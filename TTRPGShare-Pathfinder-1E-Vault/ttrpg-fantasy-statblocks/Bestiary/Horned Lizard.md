@@ -5,7 +5,7 @@ name: Horned Lizard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Horned Lizard
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision, scent
 AC: 16, touch 15, flat-footed 15 (dex +1, natural +1, size +4)
 HP: 3
-HP_extra: 
 HD: 1d8-1
 saves: Fort +1, Ref +3, Will +0
 speed: 20 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm desert
   - name: Organisation
     desc: solitary, pair, or flock (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Squirt

@@ -5,7 +5,7 @@ name: Veldenar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 10
 name: Veldenar
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +19
 senses: all-around vision, darkvision, low-light vision
 AC: 25, touch 11, flat-footed 22 (dex +3, natural +14, size -2)
 HP: 137
-HP_extra: 
 HD: 11d10+77
 saves: Fort +14, Ref +12, Will +6
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Vacuum Attack (Ex)

@@ -5,7 +5,7 @@ name: Mythic Flesh Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 9
 name: Mythic Flesh Golem
 Monster_XP: 6400
@@ -40,6 +40,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Berserk (Ex)

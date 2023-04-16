@@ -5,7 +5,7 @@ name: Titanboar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 6
 name: Titanboar
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision, scent
 AC: 18, touch 9, flat-footed 18 (natural +9, size -1)
 HP: 94
-HP_extra: 
 HD: 9d8+54
 saves: Fort +11, Ref +6, Will +6
 defensive_abilities: ferocity
@@ -37,6 +36,7 @@ ecology:
     desc: temperate hills or forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blood Rage (Ex)

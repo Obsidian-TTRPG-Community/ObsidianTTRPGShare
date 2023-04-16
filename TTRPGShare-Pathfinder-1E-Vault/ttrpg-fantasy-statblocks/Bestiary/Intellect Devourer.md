@@ -5,7 +5,7 @@ name: Intellect Devourer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 8
 name: Intellect Devourer
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +19
 senses: blindsight, detect magic
 AC: 22, touch 17, flat-footed 16 (dex +6, natural +5, size +1)
 HP: 84
-HP_extra: 
 HD: 8d8+48
 saves: Fort +7, Ref +8, Will +8
 immune: fire, mind-affecting effects
@@ -44,6 +43,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary, brood (2-6), or tribe (7-16)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Body Thief (Su)

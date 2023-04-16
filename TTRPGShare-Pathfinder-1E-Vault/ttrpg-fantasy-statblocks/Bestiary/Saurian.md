@@ -5,7 +5,7 @@ name: Saurian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 16
 name: Saurian
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +31
 senses: darkvision, scent
 AC: 32, touch 13, flat-footed 27 (armor +5, dex +4, dodge +1, natural +11, shield +3, size -2)
 HP: 241
-HP_extra: 
 HD: 21d10+126
 saves: Fort +15, Ref +16, Will +19
 resist: fire 20

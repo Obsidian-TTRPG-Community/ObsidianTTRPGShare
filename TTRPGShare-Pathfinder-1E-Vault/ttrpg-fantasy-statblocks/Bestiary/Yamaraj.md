@@ -5,7 +5,7 @@ name: Yamaraj
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 20
 name: Yamaraj
 Monster_XP: 307200
@@ -46,6 +46,7 @@ ecology:
     desc: any (Purgatory)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

@@ -5,7 +5,7 @@ name: NPC Nature Scholar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Nature Scholar
 Monster_XP: 19200
@@ -20,7 +20,6 @@ perception: +19
 senses: low-light vision
 AC: 23, touch 15, flat-footed 20 (armor +4, deflection +2, dex +3, natural +1, shield +3)
 HP: 106
-HP_extra: 
 HD: 9d8+4d6+48
 saves: Fort +12, Ref +8, Will +15
 saves_other: +2 vs. enchantments, +4 vs. fey and plant-targeted effects

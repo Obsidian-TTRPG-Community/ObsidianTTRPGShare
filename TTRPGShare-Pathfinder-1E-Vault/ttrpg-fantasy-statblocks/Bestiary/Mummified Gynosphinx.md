@@ -5,7 +5,7 @@ name: Mummified Gynosphinx
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 9
 name: Mummified Gynosphinx
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision, detect magic, low-light vision, see invisibility
 aura: frightful presence
 AC: 25, touch 10, flat-footed 24 (dex +1, natural +15, size -1)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +12, Ref +9, Will +10
 immune: undead traits
@@ -44,6 +43,7 @@ ecology:
     desc: warm ruins
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: double
 spell-like_abilities:
   - name:

@@ -5,7 +5,7 @@ name: Giant Isopod
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Giant Isopod
 Monster_XP: 50
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, low-light vision
 AC: 14, touch 11, flat-footed 14 (dex -1, natural +3, size +2)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref -1, Will +0
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or scuttle (3-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Curl (Ex)

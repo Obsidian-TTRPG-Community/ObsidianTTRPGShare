@@ -5,7 +5,7 @@ name: Pleroma
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 20
 name: Pleroma
 Monster_XP: 307200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary or tribunal (1 pleroma, 3 akhanas, and 2-5 theletos)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Energy Touch (Su)

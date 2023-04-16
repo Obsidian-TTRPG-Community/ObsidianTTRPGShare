@@ -5,7 +5,7 @@ name: NPC Coliseum (Beast Master)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 6
 name: NPC Coliseum (Beast Master)
 Monster_XP: 2400
@@ -18,7 +18,6 @@ INI: +1
 perception: +11
 AC: 17, touch 11, flat-footed 16 (armor +5, dex +1, shield +1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +7, Ref +6, Will +3
 speed: 30 ft.

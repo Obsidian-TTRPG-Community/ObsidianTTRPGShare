@@ -5,7 +5,7 @@ name: Dolphin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Dolphin
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +9
 senses: blindsight, low-light vision
 AC: 13, touch 12, flat-footed 11 (dex +2, natural +1)
 HP: 11
-HP_extra: 
 HD: 2d8+2
 saves: Fort +4, Ref +5, Will +1
 speed: swim 80 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any ocean
   - name: Organisation
     desc: solitary, pair, or pod (3-18)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hold Breath (Ex)

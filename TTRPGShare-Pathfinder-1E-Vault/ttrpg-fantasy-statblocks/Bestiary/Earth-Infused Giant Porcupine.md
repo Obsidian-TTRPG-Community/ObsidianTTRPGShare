@@ -5,7 +5,7 @@ name: Earth-Infused Giant Porcupine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 3
 name: Earth-Infused Giant Porcupine
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 14, touch 10, flat-footed 14 (natural +4)
 HP: 28
-HP_extra: 
 HD: 3d8+15
 saves: Fort +8, Ref +5, Will +4
 DR: 2/-

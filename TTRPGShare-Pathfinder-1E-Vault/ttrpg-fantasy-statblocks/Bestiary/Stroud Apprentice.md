@@ -5,7 +5,7 @@ name: Stroud Apprentice
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 10
 name: Stroud Apprentice
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +7
 senses: low-light vision
 AC: 16, touch 12, flat-footed 15 (deflection +1, dex +1, natural +4)
 HP: 75
-HP_extra: 
 HD: 10d6+40
 saves: Fort +7, Ref +6, Will +12
 speed: 30 ft.

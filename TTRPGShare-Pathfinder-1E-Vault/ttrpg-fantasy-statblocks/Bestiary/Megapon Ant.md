@@ -5,7 +5,7 @@ name: Megapon Ant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 6
 name: Megapon Ant
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, scent
 AC: 19, touch 7, flat-footed 19 (dex -1, natural +12, size -2)
 HP: 75
-HP_extra: 
 HD: 6d8+48
 saves: Fort +12, Ref +1, Will +3
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, column (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Carry Off (Ex)

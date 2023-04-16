@@ -5,7 +5,7 @@ name: The Spirit of Adoration
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 15
 name: The Spirit of Adoration
 Monster_XP: 51200

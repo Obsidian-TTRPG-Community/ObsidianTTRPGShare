@@ -5,7 +5,7 @@ name: NPC Masked Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Masked Lord
 Monster_XP: 76800
@@ -19,7 +19,6 @@ INI: +6
 perception: +15
 AC: 27, touch 19, flat-footed 21 (armor +7, deflection +3, dex +5, dodge +1, natural +1)
 HP: 148
-HP_extra: 
 HD: 17d8+68
 saves: Fort +9, Ref +18, Will +9
 defensive_abilities: improved evasion, improved uncanny dodge, trap sense +5

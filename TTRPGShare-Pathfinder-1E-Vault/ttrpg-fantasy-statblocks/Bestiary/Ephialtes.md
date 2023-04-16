@@ -5,7 +5,7 @@ name: Ephialtes
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 30: The Twice-Damned Prince"
+source: "Pathfinder No. 30: The Twice-Damned Prince"
 Monster_CR: 16
 name: Ephialtes
 Monster_XP: 76800
@@ -44,6 +44,7 @@ ecology:
     desc: any (Shadow Plane)
   - name: Organisation
     desc: solitary or team (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Breath Weapon (Su)

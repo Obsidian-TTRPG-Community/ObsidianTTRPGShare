@@ -5,7 +5,7 @@ name: NPC Fastidious Sharpshooter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Fastidious Sharpshooter
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision
 AC: 23, touch 17, flat-footed 20 (armor +6, deflection +3, dex +3, size +1)
 HP: 76
-HP_extra: 
 HD: 8d10+28
 saves: Fort +9, Ref +5, Will +4
 saves_other: +2 vs. illusions, +2 vs. fear

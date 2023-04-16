@@ -5,7 +5,7 @@ name: Harbinger Archon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Harbinger Archon
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, detect evil, low-light vision
 AC: 16, touch 15, flat-footed 13 (dex +2, dodge +1, natural +1, size +2)
 HP: 16
-HP_extra: 
 HD: 3d10
 saves: Fort +1, Ref +5, Will +4
 saves_other: +4 vs. poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary, pair, or constellation (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blades (Ex)

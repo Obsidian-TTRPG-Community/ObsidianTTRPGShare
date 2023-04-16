@@ -5,7 +5,7 @@ name: Ahuizotl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Ahuizotl
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +2
 senses: darkvision, low-light vision
 AC: 19, touch 12, flat-footed 16 (dex +3, natural +7, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +9, Will +4
 speed: 30 ft., swim 50 ft.
@@ -41,6 +40,7 @@ ecology:
     desc: warm lakes, rivers, or swamps
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Tenacious Grapple (Ex)

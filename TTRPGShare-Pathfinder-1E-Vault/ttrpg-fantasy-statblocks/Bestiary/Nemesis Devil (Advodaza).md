@@ -5,7 +5,7 @@ name: Nemesis Devil (Advodaza)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 30: The Twice-Damned Prince"
+source: "Pathfinder No. 30: The Twice-Damned Prince"
 Monster_CR: 18
 name: Nemesis Devil (Advodaza)
 Monster_XP: 153600
@@ -18,7 +18,6 @@ perception: +28
 senses: darkvision, see in darkness
 AC: 35, touch 15, flat-footed 28 (armor +6, dex +7, natural +14, size -2)
 HP: 297
-HP_extra: 
 HD: 18d10+198
 saves: Fort +21, Ref +18, Will +15
 immune: cold, dismissal, electricity, fire, poison, sonic
@@ -43,6 +42,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary or pantheon (2-5)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Devil Mark (Su)

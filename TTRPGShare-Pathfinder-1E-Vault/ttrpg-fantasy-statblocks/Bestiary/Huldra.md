@@ -5,7 +5,7 @@ name: Huldra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Huldra
 Monster_XP: 1200
@@ -37,6 +37,7 @@ ecology:
     desc: cold forests or mountains
   - name: Organisation
     desc: solitary, pair, or family (3-9)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lashing Tail (Su)

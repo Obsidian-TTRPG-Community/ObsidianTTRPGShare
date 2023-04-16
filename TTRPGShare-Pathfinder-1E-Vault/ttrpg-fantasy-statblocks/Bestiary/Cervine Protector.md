@@ -5,7 +5,7 @@ name: Cervine Protector
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Heaven Unleashed"
+source: "Heaven Unleashed"
 Monster_CR: 6
 name: Cervine Protector
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 76
-HP_extra: 
 HD: 8d10+32
 saves: Fort +10, Ref +4, Will +9
 saves_other: +2 vs. poison
@@ -46,6 +45,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: single, solitary, or bulwark (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fertile Regeneration (Su)

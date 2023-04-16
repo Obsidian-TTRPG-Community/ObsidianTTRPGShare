@@ -5,7 +5,7 @@ name: Baregara
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Baregara
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision
 AC: 25, touch 13, flat-footed 21 (dex +4, natural +12, size -1)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +15, Ref +14, Will +10
 immune: electricity, poison
@@ -42,6 +41,7 @@ ecology:
     desc: warm forests (Abyss)
   - name: Organisation
     desc: solitary, pair, or troop (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devouring Grapple (Ex)

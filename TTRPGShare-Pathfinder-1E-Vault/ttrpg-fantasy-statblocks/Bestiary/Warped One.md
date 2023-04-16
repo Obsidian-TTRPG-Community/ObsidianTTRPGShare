@@ -5,7 +5,7 @@ name: Warped One
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "The Worldwound"
+source: "The Worldwound"
 Monster_CR: 8
 name: Warped One
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision
 aura: warp field
 AC: 21, touch 14, flat-footed 17 (dex +4, natural +7)
 HP: 105
-HP_extra: 
 HD: 10d10+50
 saves: Fort +12, Ref +9, Will +9
 immune: mind-affecting effects, petrification, polymorph effects
@@ -41,6 +40,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or mob (3-14)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fleshwarping (Su)

@@ -5,7 +5,7 @@ name: Clockwork Goblin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 3
 name: Clockwork Goblin
 Monster_XP: 800
@@ -17,7 +17,6 @@ INI: +6
 senses: darkvision, low-light vision
 AC: 16, touch 15, flat-footed 12 (dex +2, dodge +2, natural +1, size +1)
 HP: 32
-HP_extra: 
 HD: 4d10+10
 saves: Fort +1, Ref +5, Will +1
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Integrated Dogslicer (Ex)

@@ -5,7 +5,7 @@ name: Half-Fiend Scion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 15
 name: Half-Fiend Scion
 Monster_XP: 51200

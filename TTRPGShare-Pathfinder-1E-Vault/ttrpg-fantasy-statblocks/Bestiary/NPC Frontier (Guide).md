@@ -5,7 +5,7 @@ name: NPC Frontier (Guide)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 7
 name: NPC Frontier (Guide)
 Monster_XP: 3200
@@ -18,7 +18,6 @@ INI: +2
 perception: +14
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 40
-HP_extra: 
 HD: 9d8
 saves: Fort +3, Ref +5, Will +8
 speed: 30 ft.

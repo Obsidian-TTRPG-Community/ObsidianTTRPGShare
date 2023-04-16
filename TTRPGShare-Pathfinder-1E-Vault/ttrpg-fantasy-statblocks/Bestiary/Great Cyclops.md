@@ -5,7 +5,7 @@ name: Great Cyclops
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 12
 name: Great Cyclops
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +22
 senses: low-light vision
 AC: 26, touch 9, flat-footed 25 (armor +4, dex +1, natural +13, size -2)
 HP: 195
-HP_extra: 
 HD: 17d8+119
 saves: Fort +12, Ref +6, Will +14
 speed: 50 ft.,  35 ft. in armor

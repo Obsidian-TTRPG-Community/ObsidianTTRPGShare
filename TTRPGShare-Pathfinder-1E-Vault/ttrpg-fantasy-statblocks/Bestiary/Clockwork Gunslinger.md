@@ -5,7 +5,7 @@ name: Clockwork Gunslinger
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 7
 name: Clockwork Gunslinger
 Monster_XP: 3200
@@ -17,7 +17,6 @@ INI: +7
 senses: darkvision, low-light vision
 AC: 20, touch 15, flat-footed 15 (dex +3, dodge +2, natural +5)
 HP: 69
-HP_extra: 
 HD: 9d10+20
 saves: Fort +3, Ref +8, Will +3
 immune: construct traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or squad (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Captive Time (Ex)

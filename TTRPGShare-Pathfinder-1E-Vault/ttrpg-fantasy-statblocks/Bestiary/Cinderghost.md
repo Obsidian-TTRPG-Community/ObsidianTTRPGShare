@@ -5,7 +5,7 @@ name: Cinderghost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 7
 name: Cinderghost
 Monster_XP: 3200
@@ -39,6 +39,7 @@ ecology:
     desc: any plains (Plane of Fire)
   - name: Organisation
     desc: solitary, trio, or rush (8-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cleansing Fire (Ex)

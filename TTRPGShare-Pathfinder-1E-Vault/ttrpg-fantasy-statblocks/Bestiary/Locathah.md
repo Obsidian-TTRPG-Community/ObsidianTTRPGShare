@@ -5,7 +5,7 @@ name: Locathah
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 1/2
 name: Locathah
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +3
 senses: low-light vision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref +1, Will +1
 speed: 10 ft., swim 60 ft.

@@ -5,7 +5,7 @@ name: Dragonhide Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 16
 name: Dragonhide Golem
 Monster_XP: 76800
@@ -16,7 +16,6 @@ INI: +2
 senses: darkvision, low-light vision
 AC: 31, touch 10, flat-footed 29 (dex +2, natural +21, size -2)
 HP: 155
-HP_extra: 
 HD: 21d10+40
 saves: Fort +7, Ref +9, Will +7
 immune: construct traits, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Berserk (Ex)

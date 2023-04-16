@@ -5,7 +5,7 @@ name: Poison Frog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/2
 name: Poison Frog
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +3
 senses: low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +3, Will -1
 speed: 10 ft., swim 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm marshes and aquatic
   - name: Organisation
     desc: solitary, pair, or army (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

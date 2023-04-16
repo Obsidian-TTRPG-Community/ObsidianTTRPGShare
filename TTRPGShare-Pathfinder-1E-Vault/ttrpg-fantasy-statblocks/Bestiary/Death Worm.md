@@ -5,7 +5,7 @@ name: Death Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 6
 name: Death Worm
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +11
 senses: darkvision, low-light vision, tremorsense
 AC: 19, touch 10, flat-footed 18 (dex +1, natural +9, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +7, Will +4
 immune: acid, electricity, poison
@@ -42,6 +41,7 @@ ecology:
     desc: warm deserts, plains, or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Corrosive Blood (Ex)

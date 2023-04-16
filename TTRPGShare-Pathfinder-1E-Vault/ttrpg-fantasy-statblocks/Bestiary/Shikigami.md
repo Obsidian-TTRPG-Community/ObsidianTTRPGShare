@@ -5,7 +5,7 @@ name: Shikigami
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Shikigami
 Monster_XP: 600
@@ -42,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Improvised Weapon Mastery (Ex)

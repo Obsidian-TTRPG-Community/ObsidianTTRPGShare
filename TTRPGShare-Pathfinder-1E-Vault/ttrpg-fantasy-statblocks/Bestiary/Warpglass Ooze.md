@@ -5,7 +5,7 @@ name: Warpglass Ooze
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 133: Secrets of Roderic's Cove"
+source: "Pathfinder No. 133: Secrets of Roderic's Cove"
 Monster_CR: 2
 name: Warpglass Ooze
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +4
 senses: blindsight
 AC: 7, touch 7, flat-footed 7 (dex -3)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +5, Ref -2, Will +2
 immune: acid, ooze traits
@@ -38,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pool (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Acidic (Su)

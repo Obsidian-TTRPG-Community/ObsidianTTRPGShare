@@ -5,7 +5,7 @@ name: Nightmare Ettercap
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Nightmare Ettercap
 Monster_XP: 1200
@@ -43,6 +43,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or nests (3-6 plus 2-6 giant spiders)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

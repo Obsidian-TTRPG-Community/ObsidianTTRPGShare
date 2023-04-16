@@ -5,7 +5,7 @@ name: Fafnheir
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Lands of the Linnorm Kings"
+source: "Lands of the Linnorm Kings"
 Monster_CR: 24
 name: Fafnheir
 Monster_XP: 1228800
@@ -17,7 +17,6 @@ perception: +46
 senses: darkvision, low-light vision, scent, true seeing
 AC: 42, touch 12, flat-footed 32 (dex +10, natural +30, size -8)
 HP: 526
-HP_extra: 
 HD: 27d12+351
 saves: Fort +28, Ref +25, Will +23
 immune: curse effects, dragon traits, electricity, fire, mind-affecting effects, paralysis, poison, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any (Grungir Forest)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Breath Weapon (Su)

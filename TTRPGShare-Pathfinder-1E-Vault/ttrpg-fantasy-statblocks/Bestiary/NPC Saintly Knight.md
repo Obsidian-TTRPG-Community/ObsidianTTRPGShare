@@ -5,7 +5,7 @@ name: NPC Saintly Knight
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Saintly Knight
 Monster_XP: 4800
@@ -21,7 +21,6 @@ senses: darkvision
 aura: courage, resolve
 AC: 21, touch 9, flat-footed 21 (armor +10, dex -1, shield +2)
 HP: 72
-HP_extra: 
 HD: 9d10+18
 saves: Fort +10, Ref +5, Will +12
 immune: charm, disease, fear

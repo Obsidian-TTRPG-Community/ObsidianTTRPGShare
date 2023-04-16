@@ -5,7 +5,7 @@ name: Wakandagi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Wakandagi
 Monster_XP: 38400
@@ -18,7 +18,6 @@ perception: +23
 senses: darkvision, detect evil, detect magic, low-light vision, scent, mistsight
 AC: 28, touch 16, flat-footed 21 (dex +6, dodge +1, natural +12, size -1)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +17, Ref +13, Will +14
 immune: disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: temperate rivers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Water Bomb (Su)

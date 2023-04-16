@@ -5,7 +5,7 @@ name: Boreal Wolf
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Irrisen - Land of Eternal Winter"
+source: "Irrisen - Land of Eternal Winter"
 Monster_CR: 2
 name: Boreal Wolf
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 15
-HP_extra: 
 HD: 2d8+6
 saves: Fort +6, Ref +5, Will +1
 immune: cold
@@ -39,6 +38,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Trackless Step (Ex)

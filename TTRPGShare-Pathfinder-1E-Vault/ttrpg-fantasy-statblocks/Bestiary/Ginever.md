@@ -5,7 +5,7 @@ name: Ginever
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Taldor, the First Empire"
+source: "Taldor, the First Empire"
 Monster_CR: 5
 name: Ginever
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 17, touch 17, flat-footed 15 (dex +2, luck +5)
 HP: 63
-HP_extra: 
 HD: 6d10+30
 saves: Fort +7, Ref +7, Will +7
 immune: poison
@@ -38,6 +37,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Drunken Defense (Ex)

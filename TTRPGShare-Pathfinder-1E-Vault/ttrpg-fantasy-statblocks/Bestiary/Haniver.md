@@ -5,7 +5,7 @@ name: Haniver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Haniver
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 4
-HP_extra: 
 HD: 1d6+1
 saves: Fort +1, Ref +3, Will +2
 DR: 2/cold iron
@@ -44,6 +43,7 @@ ecology:
     desc: temperate coasts
   - name: Organisation
     desc: solitary, pair, or swarm (4-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Misplacement (Su)

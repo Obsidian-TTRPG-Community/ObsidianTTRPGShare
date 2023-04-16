@@ -5,7 +5,7 @@ name: Adult Time Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 15
 name: Adult Time Dragon
 Monster_XP: 51200
@@ -18,7 +18,6 @@ senses: detect magic, dragon senses, see in darkness
 aura: alien presence
 AC: 28, touch 9, flat-footed 27 (dex +1, natural +19, size -2)
 HP: 256
-HP_extra: 
 HD: 19d12+133
 saves: Fort +18, Ref +12, Will +15
 immune: cold, paralysis, sleep, staggered
@@ -42,6 +41,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

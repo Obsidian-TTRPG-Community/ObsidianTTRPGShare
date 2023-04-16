@@ -5,7 +5,7 @@ name: Somalcygot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Somalcygot
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +26
 senses: darkvision, tremorsense
 AC: 27, touch 13, flat-footed 23 (dex +3, dodge +1, natural +14, size -1)
 HP: 189
-HP_extra: 
 HD: 14d8+126
 saves: Fort +15, Ref +11, Will +14
 immune: acid, cold
@@ -42,6 +41,7 @@ ecology:
     desc: any (terrestrial vacuum)
   - name: Organisation
     desc: solitary, pairs, or clutch (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Acid Spray (Ex)

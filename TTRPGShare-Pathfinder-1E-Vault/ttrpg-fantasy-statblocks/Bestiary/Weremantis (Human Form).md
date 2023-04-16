@@ -5,7 +5,7 @@ name: Weremantis (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Weremantis (Human Form)
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (dex +2, dodge +1, wis +2)
 HP: 29
-HP_extra: 
 HD: 3d8+12
 saves: Fort +6, Ref +5, Will +5
 saves_other: +2 vs. enchantments, +4 vs. mind-affecting
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or gathering (3-10)
+  - name: Treasure
     desc: NPC Gear
 sources:
   - name: Bestiary 6

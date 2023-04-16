@@ -5,7 +5,7 @@ name: Ozimat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planes of Power"
+source: "Planes of Power"
 Monster_CR: 11
 name: Ozimat
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +23
 senses: blindsight, darkvision
 AC: 22, touch 22, flat-footed 166 (deflection +6, dex +5, dodge +1)
 HP: 168
-HP_extra: 
 HD: 16d10+80
 saves: Fort +16, Ref +17, Will +9
 immune: elemental traits
@@ -38,6 +37,7 @@ ecology:
     desc: any (Plane of Earth)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Calcifying Touch (Su)

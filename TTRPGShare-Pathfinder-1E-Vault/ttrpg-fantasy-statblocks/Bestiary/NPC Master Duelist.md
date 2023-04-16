@@ -5,7 +5,7 @@ name: NPC Master Duelist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 19
 name: NPC Master Duelist
 Monster_XP: 204800
@@ -19,7 +19,6 @@ INI: +14
 perception: +20
 AC: 28, touch 22, flat-footed 20 (armor +3, deflection +3, dex +7, dodge +1, insight +1, natural +3)
 HP: 224
-HP_extra: 
 HD: 10d10+10d10+110
 saves: Fort +17, Ref +19, Will +11
 saves_other: +3 vs. fear

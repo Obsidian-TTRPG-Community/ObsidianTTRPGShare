@@ -5,7 +5,7 @@ name: Adult Umbral Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 14
 name: Adult Umbral Dragon
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: dragon senses
 aura: frightful presence
 AC: 29, touch 8, flat-footed 29 (natural +21, size -2)
 HP: 195
-HP_extra: 
 HD: 17d12+85
 saves: Fort +15, Ref +10, Will +15
 immune: cold, death effects, energy drain, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

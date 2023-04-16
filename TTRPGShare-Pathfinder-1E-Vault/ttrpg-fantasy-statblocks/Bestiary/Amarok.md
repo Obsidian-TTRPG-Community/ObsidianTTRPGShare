@@ -5,7 +5,7 @@ name: Amarok
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 12
 name: Amarok
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +28
 senses: darkvision, low-light vision, scent, see in darkness, true seeing
 AC: 28, touch 13, flat-footed 23 (dex +5, natural +15, size -2)
 HP: 172
-HP_extra: 
 HD: 15d10+90
 saves: Fort +15, Ref +14, Will +13
 speed: 50 ft.
@@ -39,6 +38,7 @@ ecology:
     desc: cold forests or tundra
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Soul Bite (Su)

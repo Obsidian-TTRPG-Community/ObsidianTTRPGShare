@@ -5,7 +5,7 @@ name: Novenarut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 4
 name: Novenarut
 Monster_XP: 1200

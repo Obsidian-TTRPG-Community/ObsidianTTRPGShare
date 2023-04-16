@@ -5,7 +5,7 @@ name: Deep One Hybrid
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1/2
 name: Deep One Hybrid
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +4
 senses: low-light vision
 AC: 13, touch 10, flat-footed 13 (armor +2, natural +1)
 HP: 12
-HP_extra: 
 HD: 1d8+4
 saves: Fort +5, Ref +0, Will +5
 speed: 20 ft., swim 30 ft.

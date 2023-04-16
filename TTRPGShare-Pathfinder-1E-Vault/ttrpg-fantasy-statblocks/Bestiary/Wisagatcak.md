@@ -5,7 +5,7 @@ name: Wisagatcak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 14
 name: Wisagatcak
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: see in darkness, tremorsense
 aura: insidious whispers
 AC: 30, touch 19, flat-footed 22 (dex +7, dodge +1, natural +11, size +1)
 HP: 200
-HP_extra: 
 HD: 16d10+112
 saves: Fort +12, Ref +17, Will +15
 immune: cold
@@ -40,6 +39,7 @@ ecology:
     desc: cold mountains (Hell)
   - name: Organisation
     desc: solitary or wave (2-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Insidious Whispers (Su)

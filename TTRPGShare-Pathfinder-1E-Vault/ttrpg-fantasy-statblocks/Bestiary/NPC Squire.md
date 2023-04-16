@@ -5,7 +5,7 @@ name: NPC Squire
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Squire
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +1
 perception: +5
 AC: 17, touch 11, flat-footed 16 (armor +6, dex +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +1, Ref +2, Will +2
 speed: 20 ft.

@@ -5,7 +5,7 @@ name: Raging Sting
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 9
 name: Raging Sting
 Monster_XP: 6400

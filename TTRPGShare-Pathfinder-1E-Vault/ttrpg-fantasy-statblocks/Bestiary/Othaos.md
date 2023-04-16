@@ -5,7 +5,7 @@ name: Othaos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Othaos
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, see in darkness
 AC: 18, touch 16, flat-footed 14 (deflection +2, dex +3, dodge +1, natural +2)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +6, Ref +8, Will +8
 immune: cold, critical hits, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Banish Darkness (Su)

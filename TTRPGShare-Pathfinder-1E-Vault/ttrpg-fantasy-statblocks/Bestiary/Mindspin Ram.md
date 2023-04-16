@@ -5,7 +5,7 @@ name: Mindspin Ram
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 91: Battle of Bloodmarch Hills"
+source: "Pathfinder No. 91: Battle of Bloodmarch Hills"
 Monster_CR: 2
 name: Mindspin Ram
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision
 AC: 14, touch 13, flat-footed 11 (dex +3, natural +1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +7, Will +3
 speed: 40 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or herd (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 91: Battle of Bloodmarch Hills

@@ -5,7 +5,7 @@ name: Svartalfar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 8
 name: Svartalfar
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision, low-light vision
 AC: 20, touch 15, flat-footed 15 (dex +5, natural +5)
 HP: 84
-HP_extra: 
 HD: 13d6+39
 saves: Fort +6, Ref +13, Will +12
 resist: cold 10, electricity 10

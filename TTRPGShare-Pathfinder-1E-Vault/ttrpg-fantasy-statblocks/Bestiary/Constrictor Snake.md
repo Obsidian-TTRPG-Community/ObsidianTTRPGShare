@@ -5,7 +5,7 @@ name: Constrictor Snake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Constrictor Snake
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +12
 senses: scent
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +4, Ref +6, Will +2
 speed: 20 ft., climb 20 ft., swim 20 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests, swamps, and fresh water
   - name: Organisation
     desc: solitary or nest (2-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

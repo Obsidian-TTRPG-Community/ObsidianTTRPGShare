@@ -5,7 +5,7 @@ name: Ratfolk Caravan Guard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 3
 name: Ratfolk Caravan Guard
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +11
 senses: low-light vision
 AC: 17, touch 14, flat-footed 14 (armor +3, dex +3, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+4
 saves: Fort +5, Ref +7, Will +3
 speed: 30 ft.

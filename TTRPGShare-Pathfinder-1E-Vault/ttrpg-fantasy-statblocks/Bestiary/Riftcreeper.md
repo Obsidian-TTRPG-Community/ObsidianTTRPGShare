@@ -5,7 +5,7 @@ name: Riftcreeper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Riftcreeper
 Monster_XP: 51200
@@ -41,6 +41,7 @@ ecology:
     desc: any mountains (Abyss)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Adaptive Defenses (Su)

@@ -5,7 +5,7 @@ name: Ningen
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Ningen
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +28
 senses: darkvision
 AC: 31, touch 6, flat-footed 27 (dex +4, natural +25, size -8)
 HP: 262
-HP_extra: 
 HD: 21d10+147
 saves: Fort +14, Ref +16, Will +18
 immune: cold
@@ -40,6 +39,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Polar Breach (Su)

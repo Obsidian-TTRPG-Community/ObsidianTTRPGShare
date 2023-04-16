@@ -5,7 +5,7 @@ name: Dog
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/3
 name: Dog
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 13, touch 12, flat-footed 12 (dex +1, natural +1, size +1)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +3, Will +1
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or pack (3-12)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

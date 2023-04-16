@@ -5,7 +5,7 @@ name: NPC Savage Rider
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 12
 name: NPC Savage Rider
 Monster_XP: 19200
@@ -19,7 +19,6 @@ INI: +1
 perception: +17
 AC: 17, touch 9, flat-footed 16 (armor +6, dex +1, rage -2, shield +2)
 HP: 194
-HP_extra: 
 HD: 13d12+104
 saves: Fort +16, Ref +6, Will +9
 saves_other: +5 vs. spells and spell-like or supernatural abilities

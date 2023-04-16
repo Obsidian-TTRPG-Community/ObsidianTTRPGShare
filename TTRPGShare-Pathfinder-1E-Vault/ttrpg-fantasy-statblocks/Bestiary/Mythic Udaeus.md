@@ -5,7 +5,7 @@ name: Mythic Udaeus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Mythic Udaeus
 Monster_XP: 1200

@@ -5,7 +5,7 @@ name: Proto-Shoggoth Synctium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 112: The Whisper Out of Time"
+source: "Pathfinder No. 112: The Whisper Out of Time"
 Monster_CR: 14
 name: Proto-Shoggoth Synctium
 Monster_XP: 38400
@@ -41,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or mass (2-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Distracting Cacophony (Su)

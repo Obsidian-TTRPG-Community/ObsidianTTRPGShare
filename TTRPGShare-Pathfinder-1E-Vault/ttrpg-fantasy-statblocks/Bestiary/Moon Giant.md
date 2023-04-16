@@ -5,7 +5,7 @@ name: Moon Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 15
 name: Moon Giant
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: low-light vision, true seeing
 aura: lunar
 AC: 32, touch 12, flat-footed 28 (dex +4, natural +20, size -2)
 HP: 220
-HP_extra: 
 HD: 21d8+126
 saves: Fort +15, Ref +13, Will +18
 resist: cold 30, fire 30
@@ -44,6 +43,7 @@ ecology:
     desc: warm hills or mountains
   - name: Organisation
     desc: solitary, pair, or cult (2-5 plus 35% noncombatants and one oracle of 4th-7th level)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Lunar Aura (Su)

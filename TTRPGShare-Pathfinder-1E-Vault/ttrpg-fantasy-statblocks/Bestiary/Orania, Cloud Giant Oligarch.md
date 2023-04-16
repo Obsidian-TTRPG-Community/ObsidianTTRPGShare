@@ -5,7 +5,7 @@ name: Orania, Cloud Giant Oligarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 18
 name: Orania, Cloud Giant Oligarch
 Monster_XP: 153600

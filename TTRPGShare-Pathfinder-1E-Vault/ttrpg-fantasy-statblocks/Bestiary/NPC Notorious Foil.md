@@ -5,7 +5,7 @@ name: NPC Notorious Foil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 16
 name: NPC Notorious Foil
 Monster_XP: 76800
@@ -19,7 +19,6 @@ INI: +3
 perception: +14
 AC: 25, touch 18, flat-footed 20 (armor +7, deflection +2, dex +4, dodge +1, size +1)
 HP: 114
-HP_extra: 
 HD: 17d8+34
 saves: Fort +10, Ref +18, Will +12
 saves_other: +2 vs. fear, +4 vs. bardic performance, language-dependent, and sonic

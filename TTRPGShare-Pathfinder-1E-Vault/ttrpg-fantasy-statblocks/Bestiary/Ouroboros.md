@@ -5,7 +5,7 @@ name: Ouroboros
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 21
 name: Ouroboros
 Monster_XP: 409600
@@ -44,6 +44,7 @@ ecology:
     desc: any (Astral Plane)
   - name: Organisation
     desc: solitary or knot (2-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Body of Serpents (Su)

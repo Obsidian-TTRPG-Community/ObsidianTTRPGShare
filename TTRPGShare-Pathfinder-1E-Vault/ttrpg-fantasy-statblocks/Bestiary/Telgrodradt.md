@@ -5,7 +5,7 @@ name: Telgrodradt
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 100: A Song of Silver"
+source: "Pathfinder No. 100: A Song of Silver"
 Monster_CR: 6
 name: Telgrodradt
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 67
-HP_extra: 
 HD: 9d8+27
 saves: Fort +6, Ref +5, Will +7
 defensive_abilities: negative energy affinity
@@ -39,6 +38,7 @@ ecology:
     desc: underground
   - name: Organisation
     desc: solitary, pair, gathering (3-12), or settlement (12-30 telgrodradts and 200-500 zombies and skeletons)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Thralls (Su)

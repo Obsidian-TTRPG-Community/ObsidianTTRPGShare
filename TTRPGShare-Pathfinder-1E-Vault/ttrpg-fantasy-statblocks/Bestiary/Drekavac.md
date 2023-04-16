@@ -5,7 +5,7 @@ name: Drekavac
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 31: Stolen Land"
+source: "Pathfinder No. 31: Stolen Land"
 Monster_CR: 3
 name: Drekavac
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision
 aura: unnatural aura
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +4, Ref +2, Will +7
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Create Spawn (Su)

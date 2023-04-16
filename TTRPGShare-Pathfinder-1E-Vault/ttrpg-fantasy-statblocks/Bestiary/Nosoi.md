@@ -5,7 +5,7 @@ name: Nosoi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 2
 name: Nosoi
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision, spiritsense
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +2, Ref +6, Will +4
 immune: death effects, disease, poison
@@ -42,6 +41,7 @@ ecology:
     desc: any (Purgatory)
   - name: Organisation
     desc: solitary, pair, or group (3-15)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Haunting Melody (Su)

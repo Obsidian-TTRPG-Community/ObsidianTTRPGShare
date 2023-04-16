@@ -5,7 +5,7 @@ name: Ja Noi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 52: Forest of Spirits"
+source: "Pathfinder No. 52: Forest of Spirits"
 Monster_CR: 5
 name: Ja Noi
 Monster_XP: 1600

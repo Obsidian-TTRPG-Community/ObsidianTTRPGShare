@@ -5,7 +5,7 @@ name: Snake Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 2
 name: Snake Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +7, Will +2
 defensive_abilities: swarm traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or nest (2-4 swarms)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

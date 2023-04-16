@@ -5,7 +5,7 @@ name: Chitikin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 130: City in the Lion's Eye"
+source: "Pathfinder No. 130: City in the Lion's Eye"
 Monster_CR: 4
 name: Chitikin
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +2
 senses: darkvision
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 32
-HP_extra: 
 HD: 5d8+10
 saves: Fort +6, Ref +2, Will +3
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: temperate or warm forests or underground
   - name: Organisation
     desc: none
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Shriek (Ex)

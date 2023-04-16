@@ -5,7 +5,7 @@ name: Time Dimensional
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 136: Temple of the Peacock Spirit"
+source: "Pathfinder No. 136: Temple of the Peacock Spirit"
 Monster_CR: 14
 name: Time Dimensional
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: temporal dilation
 AC: 30, touch 20, flat-footed 24 (dex +5, dodge +1, insight +5, natural +10, size -1)
 HP: 199
-HP_extra: 
 HD: 19d10+95
 saves: Fort +13, Ref +18, Will +17
 immune: aging, bleed, critical hits, paralysis, poison, sleep, stunning
@@ -46,6 +45,7 @@ ecology:
     desc: any (Dimension of Time)
   - name: Organisation
     desc: solitary, pair, or chronology (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dilating Strike (Ex)

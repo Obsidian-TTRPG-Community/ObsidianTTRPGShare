@@ -5,7 +5,7 @@ name: Shadow
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Shadow
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision
 AC: 15, touch 15, flat-footed 12 (deflection +2, dex +2, dodge +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +3, Ref +3, Will +4
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, gang (3-6), or swarm (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

@@ -5,7 +5,7 @@ name: Ground Wasp Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 79: The Half-Dead City"
+source: "Pathfinder No. 79: The Half-Dead City"
 Monster_CR: 2
 name: Ground Wasp Swarm
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, tremorsense
 AC: 19, touch 19, flat-footed 18 (dex +1, size +8)
 HP: 13
-HP_extra: 
 HD: 3d8
 saves: Fort +3, Ref +2, Will +1
 immune: mind-affecting effects, weapon damage
@@ -40,6 +39,7 @@ ecology:
     desc: warm deserts or plains
   - name: Organisation
     desc: solitary, pair, or infestation (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

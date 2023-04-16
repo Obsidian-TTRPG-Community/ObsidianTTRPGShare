@@ -5,7 +5,7 @@ name: Slithering Pit
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 2
 name: Slithering Pit
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +2
 senses: blindsight, breach sense
 AC: 13, touch 13, flat-footed 10 (dex +3)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +5, Ref +4, Will -2
 immune: acid, ooze traits
@@ -41,6 +40,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Breach Sense (Su)

@@ -5,7 +5,7 @@ name: Porcupine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/4
 name: Porcupine
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: -1
 senses: low-light vision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +5, Will -1
 defensive_abilities: quills
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests or plains
   - name: Organisation
     desc: solitary, pair, or prickle (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Quills (Ex)

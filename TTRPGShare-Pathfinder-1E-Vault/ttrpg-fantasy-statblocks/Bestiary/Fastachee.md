@@ -5,7 +5,7 @@ name: Fastachee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Fastachee
 Monster_XP: 12800
@@ -17,7 +17,6 @@ perception: +27
 senses: low-light vision, plant projection
 AC: 26, touch 18, flat-footed 20 (dex +6, natural +8, size +2)
 HP: 153
-HP_extra: 
 HD: 18d6+90
 saves: Fort +12, Ref +17, Will +17
 DR: 10/cold iron
@@ -38,6 +37,7 @@ ecology:
     desc: any temperate land
   - name: Organisation
     desc: solitary or court (1 plus 2-26 other good-aligned fey)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Bountiful Basket (Su)

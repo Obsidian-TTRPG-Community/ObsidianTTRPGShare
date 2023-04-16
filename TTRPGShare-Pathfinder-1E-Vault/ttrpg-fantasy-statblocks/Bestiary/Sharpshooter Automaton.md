@@ -5,7 +5,7 @@ name: Sharpshooter Automaton
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 15
 name: Sharpshooter Automaton
 Monster_XP: 51200

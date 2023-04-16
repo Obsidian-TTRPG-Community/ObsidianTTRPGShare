@@ -5,7 +5,7 @@ name: Kikituk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Kikituk
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: frightful presence
 AC: 28, touch 14, flat-footed 26 (dex +2, natural +14, profane +4, size -2)
 HP: 170
-HP_extra: 
 HD: 20d10+60
 saves: Fort +12, Ref +14, Will +14
 immune: acid, construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Scrimshaw Magic (Sp, Su)

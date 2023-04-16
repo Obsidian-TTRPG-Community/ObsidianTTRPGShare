@@ -5,7 +5,7 @@ name: NPC Anaphexia Agent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 11
 name: NPC Anaphexia Agent
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +8
 perception: +15
 AC: 21, touch 16, flat-footed 16 (armor +5, deflection +1, dex +4, dodge +1)
 HP: 93
-HP_extra: 
 HD: 12d8+36
 saves: Fort +9, Ref +14, Will +6
 saves_other: +3 vs. poison

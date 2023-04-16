@@ -5,7 +5,7 @@ name: Moose
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Animal Archive"
+source: "Animal Archive"
 Monster_CR: 3
 name: Moose
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 34
-HP_extra: 
 HD: 4d8+16
 saves: Fort +8, Ref +6, Will +3
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Animal Archive

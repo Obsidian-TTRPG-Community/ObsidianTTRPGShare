@@ -5,7 +5,7 @@ name: Spartolos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 28: The Infernal Syndrome"
+source: "Pathfinder No. 28: The Infernal Syndrome"
 Monster_CR: 6
 name: Spartolos
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision
 AC: 21, touch 12, flat-footed 19 (armor +6, dex +2, natural +2, shield +1)
 HP: 76
-HP_extra: 
 HD: 8d8+40
 saves: Fort +6, Ref +4, Will +8
 immune: cold, undead traits

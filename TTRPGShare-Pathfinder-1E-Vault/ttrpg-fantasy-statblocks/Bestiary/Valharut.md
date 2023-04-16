@@ -5,7 +5,7 @@ name: Valharut
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 11
 name: Valharut
 Monster_XP: 12800

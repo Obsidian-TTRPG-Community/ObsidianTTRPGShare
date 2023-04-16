@@ -5,7 +5,7 @@ name: NPC Daggermark Poisoner
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Daggermark Poisoner
 Monster_XP: 3200

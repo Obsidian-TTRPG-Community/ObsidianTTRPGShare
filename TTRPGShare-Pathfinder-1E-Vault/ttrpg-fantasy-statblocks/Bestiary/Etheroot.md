@@ -5,7 +5,7 @@ name: Etheroot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 8
 name: Etheroot
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision, low-light vision, see invisibility
 AC: 21, touch 15, flat-footed 15 (dex +6, natural +6, size -1)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +12, Ref +11, Will +7
 immune: plant traits
@@ -39,6 +38,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Ethereal Portal (Su)

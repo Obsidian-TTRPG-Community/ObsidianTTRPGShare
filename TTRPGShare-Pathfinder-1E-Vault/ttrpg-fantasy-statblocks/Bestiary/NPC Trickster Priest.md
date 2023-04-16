@@ -5,7 +5,7 @@ name: NPC Trickster Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Trickster Priest
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +6
 perception: +11
 AC: 26, touch 13, flat-footed 24 (armor +9, deflection +1, dex +2, natural +1, shield +3)
 HP: 105
-HP_extra: 
 HD: 12d8+24
 saves: Fort +12, Ref +9, Will +14
 speed: 20 ft.

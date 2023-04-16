@@ -5,7 +5,7 @@ name: NPC Arclord of Nex
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 14
 name: NPC Arclord of Nex
 Monster_XP: 38400
@@ -19,7 +19,6 @@ INI: +0
 perception: +24
 AC: 14, touch 12, flat-footed 14 (deflection +2, natural +2)
 HP: 109
-HP_extra: 
 HD: 15d6+55
 saves: Fort +10, Ref +8, Will +15
 defensive_abilities: protective ward

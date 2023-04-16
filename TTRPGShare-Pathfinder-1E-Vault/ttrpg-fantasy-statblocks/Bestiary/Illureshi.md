@@ -5,7 +5,7 @@ name: Illureshi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Concordance of Rivals"
+source: "Concordance of Rivals"
 Monster_CR: 9
 name: Illureshi
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: blindsense, darkvision, arcane sight, detect law
 aura: spellwarp aura
 AC: 23, touch 14, flat-footed 19 (dex +4, natural +9)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +8, Ref +12, Will +13
 immune: acid, polymorph
@@ -43,6 +42,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary or ouroboros (3-5)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Prehensile Tail (Ex)

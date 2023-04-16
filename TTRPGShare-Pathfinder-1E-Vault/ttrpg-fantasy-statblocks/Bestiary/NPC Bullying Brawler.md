@@ -5,7 +5,7 @@ name: NPC Bullying Brawler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1
 name: NPC Bullying Brawler
 Monster_XP: 400
@@ -19,7 +19,6 @@ INI: +5
 perception: +7
 AC: 14, touch 14, flat-footed 12 (dex +1, dodge +1, wis +2)
 HP: 17
-HP_extra: 
 HD: 2d8+5
 saves: Fort +5, Ref +4, Will +5
 defensive_abilities: evasion

@@ -5,7 +5,7 @@ name: Dire Boar (Daeodon)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Dire Boar (Daeodon)
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +12
 senses: low-light vision, scent
 AC: 15, touch 9, flat-footed 15 (natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +7, Ref +4, Will +2
 defensive_abilities: ferocity
@@ -34,6 +33,7 @@ ecology:
     desc: temperate or tropical forests
   - name: Organisation
     desc: solitary, pair, or herd (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

@@ -5,7 +5,7 @@ name: Dire Corby
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1
 name: Dire Corby
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision
 AC: 13, touch 11, flat-footed 12 (dex +1, natural +2)
 HP: 15
-HP_extra: 
 HD: 2d10+4
 saves: Fort +2, Ref +4, Will +3
 defensive_abilities: ferocity
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: gang (2-5), hunting flock (1-3 dread corbies and 5-10 dire corbies), or rookery (1-10 dread corbies and 10-50 dire corbies plus 1 barbarian or fighter of 3rd-5th level per 10 adults)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Leap (Ex)

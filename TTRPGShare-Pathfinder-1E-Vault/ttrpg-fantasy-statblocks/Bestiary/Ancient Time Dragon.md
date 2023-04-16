@@ -5,7 +5,7 @@ name: Ancient Time Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 20
 name: Ancient Time Dragon
 Monster_XP: 307200
@@ -18,7 +18,6 @@ senses: detect magic, dragon senses, see in darkness
 aura: alien presence
 AC: 37, touch 6, flat-footed 37 (natural +31, size -4)
 HP: 418
-HP_extra: 
 HD: 27d12+243
 saves: Fort +24, Ref +17, Will +21
 immune: cold, paralysis, sleep, staggered
@@ -42,6 +41,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

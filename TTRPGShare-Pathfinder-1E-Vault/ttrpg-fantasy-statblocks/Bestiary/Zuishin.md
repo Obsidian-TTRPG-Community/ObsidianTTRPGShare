@@ -5,7 +5,7 @@ name: Zuishin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 10
 name: Zuishin
 Monster_XP: 9600

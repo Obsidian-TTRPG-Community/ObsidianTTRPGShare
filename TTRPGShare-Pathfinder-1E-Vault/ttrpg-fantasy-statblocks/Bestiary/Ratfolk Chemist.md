@@ -5,7 +5,7 @@ name: Ratfolk Chemist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 7
 name: Ratfolk Chemist
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +13
 senses: darkvision
 AC: 26, touch 17, flat-footed 21 (armor +4, deflection +1, dex +5, natural +5, size +1)
 HP: 63
-HP_extra: 
 HD: 8d8+24
 saves: Fort +9, Ref +14, Will +3
 saves_other: +6 vs. poison

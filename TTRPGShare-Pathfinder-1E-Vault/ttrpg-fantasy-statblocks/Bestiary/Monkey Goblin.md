@@ -5,7 +5,7 @@ name: Monkey Goblin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 1/2
 name: Monkey Goblin
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +4
 senses: low-light vision
 AC: 17, touch 15, flat-footed 13 (armor +2, dex +4, size +1)
 HP: 13
-HP_extra: 
 HD: 1d12+1
 saves: Fort +3, Ref +4, Will +0
 saves_other: +2 vs. fear

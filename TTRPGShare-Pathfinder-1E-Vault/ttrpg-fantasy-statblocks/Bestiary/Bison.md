@@ -5,7 +5,7 @@ name: Bison
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Bison
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 42
-HP_extra: 
 HD: 5d8+20
 saves: Fort +8, Ref +4, Will +1
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold or temperate plains
   - name: Organisation
     desc: solitary, pair, or herd (3-30)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

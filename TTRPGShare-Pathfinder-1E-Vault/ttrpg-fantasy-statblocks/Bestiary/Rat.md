@@ -5,7 +5,7 @@ name: Rat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 1/4
 name: Rat
 Monster_XP: 100
@@ -17,7 +17,6 @@ perception: +1
 senses: low-light vision, scent
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +4, Will +1
 speed: 15 ft., climb 15 ft., swim 15 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary, pair, nest (3-12), or plague (13-100)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder RPG Bestiary

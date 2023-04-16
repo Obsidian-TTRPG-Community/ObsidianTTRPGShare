@@ -5,7 +5,7 @@ name: Forest Drake
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Forest Drake
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +11
 senses: darkvision, low-light vision, scent
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 42
-HP_extra: 
 HD: 5d12+10
 saves: Fort +6, Ref +6, Will +4
 immune: acid, paralysis, sleep
@@ -40,6 +39,7 @@ ecology:
     desc: any forests
   - name: Organisation
     desc: solitary, pair, or rampage (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Acidic Cloud (Su)

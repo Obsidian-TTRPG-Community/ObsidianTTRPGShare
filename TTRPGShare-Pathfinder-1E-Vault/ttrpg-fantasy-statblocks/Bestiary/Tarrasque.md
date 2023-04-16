@@ -5,7 +5,7 @@ name: Tarrasque
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 25
 name: Tarrasque
 Monster_XP: 1638400
@@ -46,6 +46,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Carapace (Su)

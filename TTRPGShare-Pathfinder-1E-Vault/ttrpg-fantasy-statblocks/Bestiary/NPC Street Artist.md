@@ -5,7 +5,7 @@ name: NPC Street Artist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 7
 name: NPC Street Artist
 Monster_XP: 3200
@@ -20,7 +20,6 @@ perception: +13
 senses: low-light vision
 AC: 18, touch 15, flat-footed 14 (armor +3, deflection +1, dex +3, dodge +1)
 HP: 43
-HP_extra: 
 HD: 8d8+4
 saves: Fort +3, Ref +10, Will +7
 saves_other: +2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic

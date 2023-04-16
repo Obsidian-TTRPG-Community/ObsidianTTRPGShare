@@ -5,7 +5,7 @@ name: Zombie Wolf
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 45: Broken Moon"
+source: "Pathfinder No. 45: Broken Moon"
 Monster_CR: 1
 name: Zombie Wolf
 Monster_XP: 400
@@ -18,7 +18,6 @@ INI: +3
 senses: darkvision
 AC: 15, touch 13, flat-footed 12 (dex +3, natural +2)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +1, Ref +4, Will +3
 immune: undead traits

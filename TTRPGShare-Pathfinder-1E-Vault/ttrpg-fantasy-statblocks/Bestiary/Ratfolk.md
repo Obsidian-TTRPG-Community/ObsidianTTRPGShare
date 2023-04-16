@@ -5,7 +5,7 @@ name: Ratfolk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/3
 name: Ratfolk
 Monster_XP: 135
@@ -20,7 +20,6 @@ perception: +9
 senses: darkvision
 AC: 15, touch 13, flat-footed 13 (armor +2, dex +2, size +1)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +0, Ref +2, Will +2
 speed: 20 ft.

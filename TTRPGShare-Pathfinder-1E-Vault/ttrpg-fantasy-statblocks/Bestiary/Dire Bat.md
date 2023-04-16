@@ -5,7 +5,7 @@ name: Dire Bat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Dire Bat
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +12
 senses: blindsense
 AC: 14, touch 11, flat-footed 12 (dex +2, natural +3, size -1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +6, Will +3
 speed: 20 ft., fly 40 ft. (good)
@@ -37,6 +36,7 @@ ecology:
     desc: any temperate or tropical
   - name: Organisation
     desc: solitary, pair, or colony (3-8)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Pathfinder RPG Bestiary

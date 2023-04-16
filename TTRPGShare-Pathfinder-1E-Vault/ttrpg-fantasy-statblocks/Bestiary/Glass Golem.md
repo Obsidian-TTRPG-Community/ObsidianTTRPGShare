@@ -5,7 +5,7 @@ name: Glass Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Glass Golem
 Monster_XP: 4800
@@ -16,7 +16,6 @@ INI: -1
 senses: darkvision, low-light vision
 AC: 21, touch 8, flat-footed 21 (dex -1, natural +13, size -1)
 HP: 96
-HP_extra: 
 HD: 12d10+30
 saves: Fort +4, Ref +3, Will +4
 immune: magic, construct traits
@@ -37,6 +36,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gang (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Dazzling Brightness (Ex)

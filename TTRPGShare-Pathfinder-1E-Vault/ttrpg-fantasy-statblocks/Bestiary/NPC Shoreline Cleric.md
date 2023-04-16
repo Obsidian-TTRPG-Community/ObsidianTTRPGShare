@@ -5,7 +5,7 @@ name: NPC Shoreline Cleric
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Shoreline Cleric
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +9
 senses: low-light vision
 AC: 19, touch 12, flat-footed 17 (armor +5, dex +2, natural +2)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +5, Ref +3, Will +8
 saves_other: +2 vs. enchantments

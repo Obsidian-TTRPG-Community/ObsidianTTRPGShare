@@ -5,7 +5,7 @@ name: NPC Fierani Demon Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 11
 name: NPC Fierani Demon Hunter
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +19
 senses: low-light vision
 AC: 19, touch 15, flat-footed 15 (armor +4, deflection +1, dex +4)
 HP: 106
-HP_extra: 
 HD: 12d10+36
 saves: Fort +11, Ref +15, Will +10
 saves_other: +2 vs. enchantments

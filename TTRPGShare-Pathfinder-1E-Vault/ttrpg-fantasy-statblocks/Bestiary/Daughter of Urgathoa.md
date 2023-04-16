@@ -5,7 +5,7 @@ name: Daughter of Urgathoa
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea World Guide"
+source: "Inner Sea World Guide"
 Monster_CR: 8
 name: Daughter of Urgathoa
 Monster_XP: 4800
@@ -18,7 +18,6 @@ senses: darkvision
 aura: desecrate
 AC: 21, touch 12, flat-footed 18 (dex +3, natural +9, size -1)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +9, Ref +7, Will +11
 immune: undead traits
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or cult (1 daughter plus 2d8 human clerics)
+  - name: Treasure
     desc: double
 special_abilities:
   - name: Desecrate (Sp)

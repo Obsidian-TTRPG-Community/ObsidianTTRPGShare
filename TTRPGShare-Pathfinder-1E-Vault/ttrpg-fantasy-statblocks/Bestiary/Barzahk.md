@@ -5,7 +5,7 @@ name: Barzahk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 143: Borne by the Sun's Grace"
+source: "Pathfinder No. 143: Borne by the Sun's Grace"
 Monster_CR: 28
 name: Barzahk
 Monster_XP: 4915200

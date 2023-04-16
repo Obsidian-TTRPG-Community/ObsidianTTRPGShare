@@ -5,7 +5,7 @@ name: Dretch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 2
 name: Dretch
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 14, touch 11, flat-footed 14 (natural +3, size +1)
 HP: 18
-HP_extra: 
 HD: 2d10+7
 saves: Fort +5, Ref +0, Will +3
 immune: electricity, poison
@@ -38,6 +37,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, gang (3-5), crowd (6-12), or mob (13+)
+  - name: Treasure
     desc: none
 spell-like_abilities:
   - name:

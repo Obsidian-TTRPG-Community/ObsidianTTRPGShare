@@ -5,7 +5,7 @@ name: Nekomata
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Nekomata
 Monster_XP: 2400
@@ -38,6 +38,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or pride (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Undead (Su)

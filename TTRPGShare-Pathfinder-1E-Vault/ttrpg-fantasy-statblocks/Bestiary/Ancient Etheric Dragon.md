@@ -5,7 +5,7 @@ name: Ancient Etheric Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 16
 name: Ancient Etheric Dragon
 Monster_XP: 76800
@@ -19,7 +19,6 @@ senses: dragon senses, see in darkness
 aura: frightful presence
 AC: 37, touch 7, flat-footed 37 (dex -1, natural +30, size -2)
 HP: 319
-HP_extra: 
 HD: 22d12+176
 saves: Fort +21, Ref +12, Will +18
 immune: paralysis, sleep

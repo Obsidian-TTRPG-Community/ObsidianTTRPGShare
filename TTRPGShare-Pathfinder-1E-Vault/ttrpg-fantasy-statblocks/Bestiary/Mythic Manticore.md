@@ -5,7 +5,7 @@ name: Mythic Manticore
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 6
 name: Mythic Manticore
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision, low-light vision, scent
 AC: 19, touch 11, flat-footed 17 (dex +2, natural +8, size -1)
 HP: 77
-HP_extra: 
 HD: 6d10+44
 saves: Fort +9, Ref +7, Will +3
 DR: 5/epic
@@ -43,6 +42,7 @@ ecology:
     desc: warm hills and marshes
   - name: Organisation
     desc: solitary, pair, or pride (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Poison (Ex)

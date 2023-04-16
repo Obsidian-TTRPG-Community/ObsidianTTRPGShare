@@ -5,7 +5,7 @@ name: Pixie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Pixie
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision
 AC: 18, touch 17, flat-footed 12 (dex +5, dodge +1, natural +1, size +1)
 HP: 18
-HP_extra: 
 HD: 4d6+4
 saves: Fort +2, Ref +9, Will +6
 DR: 10/cold iron
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, gang (2-4), band (6-11), or tribe (20-80)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Invisibility (Su)

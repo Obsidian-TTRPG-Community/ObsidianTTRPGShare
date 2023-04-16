@@ -5,7 +5,7 @@ name: Mix Couatl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 140: Eulogy for Roslar's Coffer"
+source: "Pathfinder No. 140: Eulogy for Roslar's Coffer"
 Monster_CR: 8
 name: Mix Couatl
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision, detect chaos/evil/good/law, see in darkness
 AC: 21, touch 13, flat-footed 17 (dex +4, natural +8, size -1)
 HP: 95
-HP_extra: 
 HD: 10d10+40
 saves: Fort +7, Ref +11, Will +12
 speed: 20 ft., fly 60 ft. (good)
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or flight (3-4)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gift of Knowledge (Ex)

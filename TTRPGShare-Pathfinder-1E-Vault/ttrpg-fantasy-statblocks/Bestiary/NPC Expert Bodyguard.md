@@ -5,7 +5,7 @@ name: NPC Expert Bodyguard
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Expert Bodyguard
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +3
 perception: +8
 AC: 17, touch 9, flat-footed 17 (armor +7, dex -1, shield +1)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +7, Ref +1, Will +5
 speed: 20 ft.

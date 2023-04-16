@@ -5,7 +5,7 @@ name: NPC Heretic (Cultist)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 2
 name: NPC Heretic (Cultist)
 Monster_XP: 600
@@ -18,7 +18,6 @@ INI: +1
 perception: +3
 AC: 18, touch 11, flat-footed 17 (armor +6, dex +1, shield +1)
 HP: 16
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +2, Will +5
 speed: 20 ft.

@@ -5,7 +5,7 @@ name: NPC Evasive Slip
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 5
 name: NPC Evasive Slip
 Monster_XP: 1600
@@ -19,7 +19,6 @@ INI: +4
 perception: +9
 AC: 22, touch 15, flat-footed 18 (armor +5, dex +4, shield +2, size +1)
 HP: 40
-HP_extra: 
 HD: 6d8+10
 saves: Fort +7, Ref +7, Will +8
 saves_other: +2 vs. fear, +4 vs. fey and plant-targeted effects

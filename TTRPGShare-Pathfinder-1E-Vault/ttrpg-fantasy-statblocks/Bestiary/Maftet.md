@@ -5,7 +5,7 @@ name: Maftet
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 6
 name: Maftet
 Monster_XP: 2400
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 20, touch 13, flat-footed 17 (armor +4, dex +3, natural +3)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +5, Ref +9, Will +8
 speed: 40 ft., fly 60 ft. (poor)

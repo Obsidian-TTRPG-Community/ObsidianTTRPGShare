@@ -5,7 +5,7 @@ name: NPC Novice Scout
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 1/2
 name: NPC Novice Scout
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +10
 senses: low-light vision
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +3)
 HP: 12
-HP_extra: 
 HD: 1d10+2
 saves: Fort +3, Ref +5, Will +1
 saves_other: +2 vs. enchantments

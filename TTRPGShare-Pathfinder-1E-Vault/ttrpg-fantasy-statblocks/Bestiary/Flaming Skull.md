@@ -5,7 +5,7 @@ name: Flaming Skull
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 1/2
 name: Flaming Skull
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 13, touch 13, flat-footed 12 (dex +1, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +1, Ref +1, Will +2
 immune: fire, undead traits
@@ -33,6 +32,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or patrol (3-6)
+  - name: Treasure
     desc: none
 sources:
   - name: Pathfinder No. 43: Haunting of Harrowstone

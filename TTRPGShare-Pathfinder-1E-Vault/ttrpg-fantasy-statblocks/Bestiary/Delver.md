@@ -5,7 +5,7 @@ name: Delver
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Misfit Monsters Redeemed"
+source: "Misfit Monsters Redeemed"
 Monster_CR: 9
 name: Delver
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, tremorsense
 AC: 23, touch 12, flat-footed 19 (dex +4, natural +11, size -2)
 HP: 138
-HP_extra: 
 HD: 12d8+84
 saves: Fort +12, Ref +8, Will +10
 immune: acid

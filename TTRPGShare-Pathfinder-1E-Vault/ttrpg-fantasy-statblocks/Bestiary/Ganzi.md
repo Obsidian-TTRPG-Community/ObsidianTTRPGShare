@@ -5,7 +5,7 @@ name: Ganzi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 1/2
 name: Ganzi
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 14, touch 11, flat-footed 13 (armor +2, dex +1, shield +1)
 HP: 12
-HP_extra: 
 HD: 1d8+4
 saves: Fort +3, Ref +3, Will +1
 saves_other: +2 vs. polymorph effects

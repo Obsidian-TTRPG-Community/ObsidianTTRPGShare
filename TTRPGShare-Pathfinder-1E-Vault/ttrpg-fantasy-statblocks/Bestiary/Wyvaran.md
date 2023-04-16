@@ -5,7 +5,7 @@ name: Wyvaran
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Wyvaran
 Monster_XP: 200
@@ -19,7 +19,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 17, touch 12, flat-footed 15 (armor +5, dex +2)
 HP: 10
-HP_extra: 
 HD: 1d8+2
 saves: Fort +3, Ref +2, Will +5
 immune: paralysis, sleep

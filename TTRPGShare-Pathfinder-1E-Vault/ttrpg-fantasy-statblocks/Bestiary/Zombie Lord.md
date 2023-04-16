@@ -5,7 +5,7 @@ name: Zombie Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Zombie Lord
 Monster_XP: 800
@@ -19,7 +19,6 @@ perception: +10
 senses: darkvision
 AC: 18, touch 16, flat-footed 14 (dex +3, dodge +1, wis +2, natural +2)
 HP: 30
-HP_extra: 
 HD: 5d8+8
 saves: Fort +3, Ref +6, Will +8
 saves_other: +2 vs. enchantments
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: NPC Gear
 sources:
   - name: Bestiary 4

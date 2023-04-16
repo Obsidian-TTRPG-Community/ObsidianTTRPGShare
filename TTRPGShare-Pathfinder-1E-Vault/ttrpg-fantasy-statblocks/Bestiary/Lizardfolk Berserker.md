@@ -5,7 +5,7 @@ name: Lizardfolk Berserker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Lizardfolk Berserker
 Monster_XP: 1600

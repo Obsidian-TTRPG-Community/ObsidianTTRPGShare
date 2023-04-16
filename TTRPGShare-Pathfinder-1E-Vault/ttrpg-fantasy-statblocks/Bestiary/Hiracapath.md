@@ -5,7 +5,7 @@ name: Hiracapath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 104: Wrath of Thrune"
+source: "Pathfinder No. 104: Wrath of Thrune"
 Monster_CR: 7
 name: Hiracapath
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, scent
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +11, Ref +6, Will +9
 resist: electricity 5, fire 5
@@ -41,6 +40,7 @@ ecology:
     desc: any (Heaven)
   - name: Organisation
     desc: solitary or herd (3-16)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Glorious Nimbus (Su)

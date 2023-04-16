@@ -5,7 +5,7 @@ name: Chupacabra
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Chupacabra
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 16, touch 14, flat-footed 13 (dex +3, natural +2, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+8
 saves: Fort +6, Ref +7, Will +3
 speed: 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm hills or plains
   - name: Organisation
     desc: solitary, pair, or gang (3-7)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Chupar (Ex)

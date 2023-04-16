@@ -5,7 +5,7 @@ name: Greater Water Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 9
 name: Greater Water Elemental
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 23, touch 14, flat-footed 17 (dex +5, dodge +1, natural +9, size -2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +15, Will +4
 immune: elemental traits

@@ -5,7 +5,7 @@ name: Charybdis
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 13
 name: Charybdis
 Monster_XP: 25600
@@ -40,6 +40,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Rending Claws (Ex)

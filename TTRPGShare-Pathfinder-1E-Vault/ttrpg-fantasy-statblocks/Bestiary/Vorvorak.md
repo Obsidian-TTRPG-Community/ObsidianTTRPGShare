@@ -5,7 +5,7 @@ name: Vorvorak
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 129: The Twilight Child"
+source: "Pathfinder No. 129: The Twilight Child"
 Monster_CR: 10
 name: Vorvorak
 Monster_XP: 9600
@@ -17,7 +17,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 24, touch 10, flat-footed 22 (dex +2, natural +14, size -2)
 HP: 123
-HP_extra: 
 HD: 13d10+52
 saves: Fort +12, Ref +12, Will +9
 saves_other: +4 vs. fear
@@ -44,6 +43,7 @@ ecology:
     desc: temperate plains or marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Canal Walker (Ex)

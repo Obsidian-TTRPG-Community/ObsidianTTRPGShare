@@ -5,7 +5,7 @@ name: Deadfall Tracker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Monster Codex"
+source: "Inner Sea Monster Codex"
 Monster_CR: 5
 name: Deadfall Tracker
 Monster_XP: 1600

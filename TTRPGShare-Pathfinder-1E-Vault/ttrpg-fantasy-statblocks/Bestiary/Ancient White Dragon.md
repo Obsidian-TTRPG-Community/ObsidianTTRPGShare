@@ -5,7 +5,7 @@ name: Ancient White Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 15
 name: Ancient White Dragon
 Monster_XP: 51200
@@ -19,7 +19,6 @@ senses: dragon senses, snow vision
 aura: cold, frightful presence
 AC: 37, touch 8, flat-footed 37 (natural +29, size -2)
 HP: 283
-HP_extra: 
 HD: 21d12+147
 saves: Fort +19, Ref +14, Will +16
 immune: cold, paralysis, sleep

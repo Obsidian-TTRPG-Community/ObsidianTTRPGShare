@@ -5,7 +5,7 @@ name: Forsaken Lich
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 12
 name: Forsaken Lich
 Monster_XP: 19200
@@ -21,7 +21,6 @@ senses: darkvision
 aura: delusory aura
 AC: 21, touch 11, flat-footed 21 (armor +7, deflection +1, natural +3)
 HP: 97
-HP_extra: 
 HD: 11d8+44
 saves: Fort +7, Ref +3, Will +12
 immune: cold, electricity, undead traits

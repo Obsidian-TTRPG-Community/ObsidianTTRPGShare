@@ -5,7 +5,7 @@ name: Giant Ground Wasp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 4
 name: Giant Ground Wasp
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision
 AC: 17, touch 15, flat-footed 13 (dex +4, natural +2, size +1)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +6, Will +2
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: warm desert
   - name: Organisation
     desc: solitary or hive (2-20)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Implant (Ex)

@@ -5,7 +5,7 @@ name: Slurk
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Slurk
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 17
-HP_extra: 
 HD: 2d10+6
 saves: Fort +6, Ref +5, Will +0
 speed: 30 ft., climb 30 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate swamps or underground
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Belly Grease (Ex)

@@ -5,7 +5,7 @@ name: Walrus (B4)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Walrus (B4)
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +4, Will +2
 speed: 10 ft., swim 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: cold oceans
   - name: Organisation
     desc: solitary, pair, or herd (3-24)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

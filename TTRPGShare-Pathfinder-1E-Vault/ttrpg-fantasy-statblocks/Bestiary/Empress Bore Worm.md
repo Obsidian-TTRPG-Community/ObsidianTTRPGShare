@@ -5,7 +5,7 @@ name: Empress Bore Worm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 117: Assault on Longshadow"
+source: "Pathfinder No. 117: Assault on Longshadow"
 Monster_CR: 10
 name: Empress Bore Worm
 Monster_XP: 9600
@@ -16,7 +16,6 @@ INI: -2
 senses: tremorsense
 AC: 24, touch 6, flat-footed 24 (dex -2, natural +18, size -2)
 HP: 142
-HP_extra: 
 HD: 15d8+75
 saves: Fort +14, Ref +3, Will +5
 immune: acid, mind-affecting effects
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Corrosive Wake (Ex)

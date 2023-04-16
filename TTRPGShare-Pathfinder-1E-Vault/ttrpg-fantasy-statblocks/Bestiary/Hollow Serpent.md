@@ -5,7 +5,7 @@ name: Hollow Serpent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 42: Sanctum of the Serpent God"
+source: "Pathfinder No. 42: Sanctum of the Serpent God"
 Monster_CR: 16
 name: Hollow Serpent
 Monster_XP: 76800

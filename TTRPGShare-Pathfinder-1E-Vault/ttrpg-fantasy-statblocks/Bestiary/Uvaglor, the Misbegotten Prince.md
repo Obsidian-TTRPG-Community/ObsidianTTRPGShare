@@ -5,7 +5,7 @@ name: Uvaglor, the Misbegotten Prince
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Demons Revisited"
+source: "Demons Revisited"
 Monster_CR: 20
 name: Uvaglor, the Misbegotten Prince
 Monster_XP: 307200

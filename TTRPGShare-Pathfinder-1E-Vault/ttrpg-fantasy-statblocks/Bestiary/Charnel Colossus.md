@@ -5,7 +5,7 @@ name: Charnel Colossus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 19
 name: Charnel Colossus
 Monster_XP: 204800
@@ -17,7 +17,6 @@ perception: +50
 senses: darkvision, see invisibility
 AC: 29, touch 1, flat-footed 29 (dex -1, natural +28, size -8)
 HP: 345
-HP_extra: 
 HD: 30d8+210
 saves: Fort +19, Ref +11, Will +32
 immune: critical hits, precision damage, turning, undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (Kalexcourt, Ustalav)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Corporate Will (Su)

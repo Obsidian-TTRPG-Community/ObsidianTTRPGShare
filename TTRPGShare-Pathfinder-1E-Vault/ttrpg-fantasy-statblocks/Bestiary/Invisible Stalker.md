@@ -5,7 +5,7 @@ name: Invisible Stalker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Invisible Stalker
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision
 AC: 20, touch 14, flat-footed 16 (dex +4, natural +6)
 HP: 80
-HP_extra: 
 HD: 7d10+42
 saves: Fort +11, Ref +11, Will +4
 immune: elemental traits
@@ -38,6 +37,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Improved Tracking (Ex)

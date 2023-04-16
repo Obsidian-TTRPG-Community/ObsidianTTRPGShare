@@ -5,7 +5,7 @@ name: Gigas Clam
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 60: From Hell's Heart"
+source: "Pathfinder No. 60: From Hell's Heart"
 Monster_CR: 11
 name: Gigas Clam
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision, low-light vision
 AC: 26, touch 8, flat-footed 26 (natural +18, size -2)
 HP: 149
-HP_extra: 
 HD: 13d10+78
 saves: Fort +14, Ref +10, Will +8
 immune: disease, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any oceans
   - name: Organisation
     desc: solitary, cluster (2-5), or field (6-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Devastating Bite (Ex)

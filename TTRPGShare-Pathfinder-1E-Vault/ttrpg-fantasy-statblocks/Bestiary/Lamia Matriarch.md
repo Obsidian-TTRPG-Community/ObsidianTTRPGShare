@@ -5,7 +5,7 @@ name: Lamia Matriarch
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Lamia Matriarch
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision, low-light vision
 AC: 21, touch 13, flat-footed 17 (dex +4, natural +8, size -1)
 HP: 102
-HP_extra: 
 HD: 12d10+36
 saves: Fort +7, Ref +12, Will +11
 immune: mind-affecting effects

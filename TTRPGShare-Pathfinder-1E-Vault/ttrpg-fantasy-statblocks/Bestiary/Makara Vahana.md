@@ -5,7 +5,7 @@ name: Makara Vahana
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Makara Vahana
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +22
 senses: darkvision, low-light vision, scent
 AC: 22, touch 10, flat-footed 20 (dex +2, natural +12, size -2)
 HP: 115
-HP_extra: 
 HD: 11d8+66
 saves: Fort +15, Ref +9, Will +7
 saves_other: +4 on Will saves vs. enchantment
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 5

@@ -5,7 +5,7 @@ name: Wolliped (Combat Trained)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 70: The Frozen Stars"
+source: "Pathfinder No. 70: The Frozen Stars"
 Monster_CR: 3
 name: Wolliped (Combat Trained)
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +6
 senses: low-light vision, scent
 AC: 15, touch 11, flat-footed 13 (dex +2, natural +4, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +6, Will +1
 speed: 50 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate hills
   - name: Organisation
     desc: solitary, pair, or cavalry (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Spit (Ex)

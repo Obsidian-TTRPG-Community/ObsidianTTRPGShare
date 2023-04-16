@@ -5,7 +5,7 @@ name: Hivemind Rat Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Hivemind Rat Swarm
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, low-light vision, scent, thoughtsense
 AC: 20, touch 20, flat-footed 18 (dex +2, insight +6, size +2)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +8, Ref +10, Will +4
 defensive_abilities: swarm traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or infestation (2-5 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Disease (Su)

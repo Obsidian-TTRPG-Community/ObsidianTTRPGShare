@@ -5,7 +5,7 @@ name: Phoenix
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 15
 name: Phoenix
 Monster_XP: 51200
@@ -45,6 +45,7 @@ ecology:
     desc: warm desert and hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Self-Resurrection (Su)

@@ -5,7 +5,7 @@ name: NPC Pirate Officer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 3
 name: NPC Pirate Officer
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 17, touch 13, flat-footed 14 (armor +4, dex +3)
 HP: 25
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +7, Will +3
 saves_other: +2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic

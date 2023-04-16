@@ -5,7 +5,7 @@ name: Mole (UW)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/8
 name: Mole (UW)
 Monster_XP: 50
@@ -17,7 +17,6 @@ perception: +0
 senses: low-light vision, tremorsense
 AC: 14, touch 14, flat-footed 14 (size +4)
 HP: 6
-HP_extra: 
 HD: 1d8+2
 saves: Fort +4, Ref +2, Will +0
 speed: 20 ft., burrow 5 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or labor (3-16)
+  - name: Treasure
     desc: none
 sources:
   - name: Ultimate Wilderness

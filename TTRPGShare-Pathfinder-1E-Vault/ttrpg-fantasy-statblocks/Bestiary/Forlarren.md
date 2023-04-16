@@ -5,7 +5,7 @@ name: Forlarren
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Forlarren
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision
 AC: 15, touch 12, flat-footed 13 (dex +2, natural +3)
 HP: 18
-HP_extra: 
 HD: 4d6+4
 saves: Fort +2, Ref +6, Will +5
 DR: 5/cold iron
@@ -36,6 +35,7 @@ ecology:
     desc: temperate plains or forests
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Remorse (Ex)

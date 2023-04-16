@@ -5,7 +5,7 @@ name: Pairaka
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Pairaka
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision, detect good, detect magic, see in darkness
 AC: 23, touch 15, flat-footed 18 (dex +5, natural +8)
 HP: 76
-HP_extra: 
 HD: 9d10+27
 saves: Fort +6, Ref +11, Will +10
 immune: fire, poison, disease
@@ -40,6 +39,7 @@ ecology:
     desc: any (Abaddon)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Disease (Su)

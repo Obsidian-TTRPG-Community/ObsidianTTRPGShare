@@ -5,7 +5,7 @@ name: Blodeuwedd
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 33: The Varnhold Vanishing"
+source: "Pathfinder No. 33: The Varnhold Vanishing"
 Monster_CR: 6
 name: Blodeuwedd
 Monster_XP: 2400
@@ -18,7 +18,6 @@ senses: low-light vision
 aura: allergen
 AC: 20, touch 16, flat-footed 14 (dex +5, dodge +1, natural +4)
 HP: 66
-HP_extra: 
 HD: 7d6+35
 saves: Fort +7, Ref +10, Will +8
 DR: 5/cold iron

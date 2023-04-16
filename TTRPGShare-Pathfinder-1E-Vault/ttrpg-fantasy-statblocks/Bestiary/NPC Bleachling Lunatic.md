@@ -5,7 +5,7 @@ name: NPC Bleachling Lunatic
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 3
 name: NPC Bleachling Lunatic
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 15, touch 12, flat-footed 14 (armor +3, dex +1, size +1)
 HP: 29
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +5, Will +2
 saves_other: +2 vs. illusions, +2 vs. poison

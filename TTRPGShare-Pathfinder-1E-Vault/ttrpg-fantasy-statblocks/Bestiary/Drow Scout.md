@@ -5,7 +5,7 @@ name: Drow Scout
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 1
 name: Drow Scout
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +8
 senses: darkvision
 AC: 16, touch 13, flat-footed 13 (armor +3, dex +3)
 HP: 16
-HP_extra: 
 HD: 2d8+4
 saves: Fort +1, Ref +6, Will +1
 saves_other: +2 vs. enchantment

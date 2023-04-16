@@ -5,7 +5,7 @@ name: Giant Walking Stick
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 81: Shifting Sands"
+source: "Pathfinder No. 81: Shifting Sands"
 Monster_CR: 5
 name: Giant Walking Stick
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +0
 senses: darkvision
 AC: 17, touch 11, flat-footed 15 (dex +2, natural +6, size -1)
 HP: 60
-HP_extra: 
 HD: 8d8+24
 saves: Fort +9, Ref +4, Will +2
 immune: mind-affecting effects
@@ -38,6 +37,7 @@ ecology:
     desc: warm deserts and forests
   - name: Organisation
     desc: solitary, pair, or brood (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Nauseating Spray (Ex)

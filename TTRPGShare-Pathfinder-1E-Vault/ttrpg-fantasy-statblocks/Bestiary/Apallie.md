@@ -5,7 +5,7 @@ name: Apallie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Apallie
 Monster_XP: 600
@@ -16,7 +16,6 @@ INI: +2
 perception: +5
 AC: 15, touch 13, flat-footed 13 (dex +2, natural +2, size +1)
 HP: 22
-HP_extra: 
 HD: 4d8+4
 saves: Fort +2, Ref +5, Will +2
 immune: ooze traits
@@ -36,6 +35,7 @@ ecology:
     desc: any temperate
   - name: Organisation
     desc: solitary, pair, or colony (4-12)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Sun Allergy (Su)

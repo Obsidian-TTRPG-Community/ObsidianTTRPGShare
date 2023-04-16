@@ -5,7 +5,7 @@ name: Flood Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 91: Battle of Bloodmarch Hills"
+source: "Pathfinder No. 91: Battle of Bloodmarch Hills"
 Monster_CR: 2
 name: Flood Troll
 Monster_XP: 600
@@ -38,6 +38,7 @@ ecology:
     desc: temperate swamps or rivers
   - name: Organisation
     desc: solitary or pair (usually twins)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Absorbent Hide (Ex)

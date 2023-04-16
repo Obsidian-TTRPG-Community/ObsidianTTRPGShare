@@ -5,7 +5,7 @@ name: Spectre
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Spectre
 Monster_XP: 3200
@@ -19,7 +19,6 @@ senses: darkvision
 aura: unnatural aura
 AC: 15, touch 15, flat-footed 12 (deflection +2, dex +3)
 HP: 52
-HP_extra: 
 HD: 8d8+16
 saves: Fort +4, Ref +5, Will +9
 defensive_abilities: incorporeal, channel resistance +2

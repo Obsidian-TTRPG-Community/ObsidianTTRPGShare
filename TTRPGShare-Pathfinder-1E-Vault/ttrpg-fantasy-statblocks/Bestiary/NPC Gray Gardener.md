@@ -5,7 +5,7 @@ name: NPC Gray Gardener
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 7
 name: NPC Gray Gardener
 Monster_XP: 3200
@@ -19,7 +19,6 @@ INI: +6
 perception: +15
 AC: 18, touch 13, flat-footed 16 (armor +5, deflection +1, dex +2)
 HP: 55
-HP_extra: 
 HD: 8d8+16
 saves: Fort +7, Ref +4, Will +10
 speed: 20 ft.

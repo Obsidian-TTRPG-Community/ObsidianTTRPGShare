@@ -5,7 +5,7 @@ name: Mirror Serpent
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 125: Tower of the Drowned Dead"
+source: "Pathfinder No. 125: Tower of the Drowned Dead"
 Monster_CR: 5
 name: Mirror Serpent
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 18, touch 12, flat-footed 15 (dex +3, natural +6, size -1)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +8, Will +4
 resist: cold 5, electricity 5
@@ -44,6 +43,7 @@ ecology:
     desc: any coastlines
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Natural Invisibility (Su)

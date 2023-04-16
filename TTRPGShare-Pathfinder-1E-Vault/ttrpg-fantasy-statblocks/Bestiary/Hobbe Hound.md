@@ -5,7 +5,7 @@ name: Hobbe Hound
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 2
 name: Hobbe Hound
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision, scent
 AC: 14, touch 11, flat-footed 13 (dex +1, natural +3)
 HP: 25
-HP_extra: 
 HD: 3d8+12
 saves: Fort +6, Ref +4, Will +1
 resist: fire 3
@@ -35,6 +34,7 @@ ecology:
     desc: temperate hills or underground
   - name: Organisation
     desc: solitary, pair, pack (3-6), or warband (2-4 with 2-12 hobgoblins)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Allergic Reaction (Ex)

@@ -5,7 +5,7 @@ name: Kaprosuchus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 5
 name: Kaprosuchus
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +13
 senses: low-light vision
 AC: 19, touch 9, flat-footed 18 (dex +1, natural +10, size -2)
 HP: 59
-HP_extra: 
 HD: 7d8+28
 saves: Fort +9, Ref +6, Will +4
 speed: 30 ft.
@@ -38,6 +37,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or colony (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Ramming Snout (Ex)

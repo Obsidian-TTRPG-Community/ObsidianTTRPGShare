@@ -5,7 +5,7 @@ name: Mythic Juvenile White Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 9
 name: Mythic Juvenile White Dragon
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +15
 senses: blindsense, darkvision, low-light vision, snow vision
 AC: 26, touch 12, flat-footed 24 (dex +2, natural +14)
 HP: 124
-HP_extra: 
 HD: 9d12+66
 saves: Fort +10, Ref +8, Will +7
 immune: cold, dragon traits, paralysis, sleep
@@ -41,6 +40,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 special_abilities:
   - name: Ice Shape (Su)

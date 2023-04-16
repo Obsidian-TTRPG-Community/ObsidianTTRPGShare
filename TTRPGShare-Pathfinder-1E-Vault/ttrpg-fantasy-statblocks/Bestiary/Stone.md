@@ -5,7 +5,7 @@ name: Stone
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 27: What Lies in Dust"
+source: "Pathfinder No. 27: What Lies in Dust"
 Monster_CR: 3
 name: Stone
 Monster_XP: 800
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: stony mind
 AC: 17, touch 13, flat-footed 17 (dex -1, natural +4, size +4)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +1, Ref +0, Will +3
 immune: cold, electricity, fire, sonic
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Preserve Memory (Su)

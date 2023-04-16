@@ -5,7 +5,7 @@ name: Mythic Gargoyle
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 5
 name: Mythic Gargoyle
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 18, touch 12, flat-footed 16 (dex +2, natural +6)
 HP: 62
-HP_extra: 
 HD: 5d10+35
 saves: Fort +4, Ref +6, Will +6
 DR: 10/epic and magic
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or wing (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Freeze (Ex)

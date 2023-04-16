@@ -5,7 +5,7 @@ name: NPC Murderous Halfling
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Murderous Halfling
 Monster_XP: 800
@@ -19,7 +19,6 @@ INI: +4
 perception: +6
 AC: 20, touch 15, flat-footed 16 (armor +5, dex +4, size +1)
 HP: 30
-HP_extra: 
 HD: 4d10+4
 saves: Fort +6, Ref +6, Will +2
 saves_other: +3 vs. fear

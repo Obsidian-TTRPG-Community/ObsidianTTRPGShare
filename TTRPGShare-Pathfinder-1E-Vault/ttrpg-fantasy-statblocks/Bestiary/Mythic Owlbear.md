@@ -5,7 +5,7 @@ name: Mythic Owlbear
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mythic Adventures"
+source: "Mythic Adventures"
 Monster_CR: 5
 name: Mythic Owlbear
 Monster_XP: 1600
@@ -18,7 +18,6 @@ perception: +12
 senses: darkvision, low-light vision, scent
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 67
-HP_extra: 
 HD: 5d10+40
 saves: Fort +10, Ref +5, Will +2
 DR: 5/epic
@@ -39,6 +38,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or pack (3-8)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Disorienting Pounce (Ex)

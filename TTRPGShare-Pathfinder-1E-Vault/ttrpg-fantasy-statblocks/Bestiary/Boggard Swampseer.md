@@ -5,7 +5,7 @@ name: Boggard Swampseer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 4
 name: Boggard Swampseer
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +12
 senses: darkvision, low-light vision
 AC: 17, touch 11, flat-footed 16 (armor +3, dex +1, natural +3)
 HP: 41
-HP_extra: 
 HD: 6d8+15
 saves: Fort +8, Ref +4, Will +7
 speed: 20 ft., swim 30 ft.

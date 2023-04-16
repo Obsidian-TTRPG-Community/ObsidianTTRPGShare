@@ -5,7 +5,7 @@ name: Larval Chuul
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 122: Into the Shattered Continent"
+source: "Pathfinder No. 122: Into the Shattered Continent"
 Monster_CR: 1
 name: Larval Chuul
 Monster_XP: 400
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision
 AC: 14, touch 14, flat-footed 11 (dex +3, size +1)
 HP: 13
-HP_extra: 
 HD: 2d8+4
 saves: Fort +2, Ref +3, Will +4
 speed: 30 ft., swim 30 ft.

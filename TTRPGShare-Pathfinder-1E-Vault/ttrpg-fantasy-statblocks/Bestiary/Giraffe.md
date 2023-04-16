@@ -5,7 +5,7 @@ name: Giraffe
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Giraffe
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 16, touch 10, flat-footed 14 (dex +2, natural +6, size -2)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +6, Will +2
 speed: 50 ft.
@@ -35,6 +34,7 @@ ecology:
     desc: warm plains
   - name: Organisation
     desc: solitary, pair, or herd (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Natural Weapons (Ex)

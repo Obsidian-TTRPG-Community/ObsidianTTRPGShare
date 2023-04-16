@@ -5,7 +5,7 @@ name: NPC Skinsaw Cultist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 2
 name: NPC Skinsaw Cultist
 Monster_XP: 600
@@ -19,7 +19,6 @@ INI: +2
 perception: +3
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 20
-HP_extra: 
 HD: 3d8+3
 saves: Fort +4, Ref +3, Will +6
 speed: 30 ft.

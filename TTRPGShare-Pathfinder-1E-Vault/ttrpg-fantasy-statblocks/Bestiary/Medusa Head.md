@@ -5,7 +5,7 @@ name: Medusa Head
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 43: Haunting of Harrowstone"
+source: "Pathfinder No. 43: Haunting of Harrowstone"
 Monster_CR: 3
 name: Medusa Head
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +1
 senses: darkvision
 AC: 15, touch 12, flat-footed 14 (dex +1, natural +3, size +1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +3, Ref +2, Will +4
 immune: undead traits
@@ -34,6 +33,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or trio
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Petrifying Bite (Su)

@@ -5,7 +5,7 @@ name: Assassin Vine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Assassin Vine
 Monster_XP: 800
@@ -16,7 +16,6 @@ INI: +0
 senses: blindsight, low-light vision
 AC: 15, touch 9, flat-footed 15 (natural +6, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +7, Ref +1, Will +2
 immune: electricity, plant traits
@@ -37,6 +36,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or patch (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Camouflage (Ex)

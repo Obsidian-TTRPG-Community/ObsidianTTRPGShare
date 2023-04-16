@@ -5,7 +5,7 @@ name: Black Spot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 56: Raiders of the Fever Sea"
+source: "Pathfinder No. 56: Raiders of the Fever Sea"
 Monster_CR: 1/2
 name: Black Spot
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +0
 senses: darkvision, low-light vision, scent
 AC: 15, touch 13, flat-footed 14 (dex +1, natural +2, size +2)
 HP: 5
-HP_extra: 
 HD: 1d10
 saves: Fort +2, Ref +3, Will +0
 immune: mind-affecting effects
@@ -44,6 +43,7 @@ ecology:
     desc: temperate or warm oceans or coastlines
   - name: Organisation
     desc: solitary, pair, or cluster (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Curse (Su)

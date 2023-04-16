@@ -5,7 +5,7 @@ name: Young Black Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Young Black Dragon
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +14
 senses: dragon senses
 AC: 21, touch 12, flat-footed 19 (dex +2, natural +9)
 HP: 76
-HP_extra: 
 HD: 8d12+24
 saves: Fort +9, Ref +8, Will +7
 immune: acid, paralysis, sleep

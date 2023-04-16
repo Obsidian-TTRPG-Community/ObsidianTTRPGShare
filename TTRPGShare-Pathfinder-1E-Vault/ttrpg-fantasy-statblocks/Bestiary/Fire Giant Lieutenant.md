@@ -5,7 +5,7 @@ name: Fire Giant Lieutenant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 16
 name: Fire Giant Lieutenant
 Monster_XP: 76800

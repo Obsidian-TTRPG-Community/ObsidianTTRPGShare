@@ -5,7 +5,7 @@ name: Silvanshee
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 2
 name: Silvanshee
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, low-light vision
 AC: 15, touch 14, flat-footed 13 (dex +2, natural +1, size +2)
 HP: 13
-HP_extra: 
 HD: 2d10+2
 saves: Fort +5, Ref +6, Will +2
 saves_other: +4 vs. poison
@@ -46,6 +45,7 @@ ecology:
     desc: any land (Nirvana)
   - name: Organisation
     desc: solitary, pair, or clowder (3-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cat’s Luck (Su)

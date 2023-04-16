@@ -5,7 +5,7 @@ name: Latten Mechanism
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 86: Lords of Rust"
+source: "Pathfinder No. 86: Lords of Rust"
 Monster_CR: 15
 name: Latten Mechanism
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary or team (herald plus 1d6 clockwork soldiers and 1d6 clockwork servants)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Size (Su)

@@ -5,7 +5,7 @@ name: Ash Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 11
 name: Ash Giant
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision
 AC: 25, touch 11, flat-footed 23 (armor +4, dex +2, natural +10, size -1)
 HP: 147
-HP_extra: 
 HD: 14d8+84
 saves: Fort +15, Ref +6, Will +5
 immune: disease, poison

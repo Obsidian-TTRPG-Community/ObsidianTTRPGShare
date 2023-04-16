@@ -5,7 +5,7 @@ name: NPC Mounted Paragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Mounted Paragon
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +15
 aura: courage, faith, justice, resolve
 AC: 28, touch 12, flat-footed 27 (armor +11, deflection +1, dex +1, natural +1, shield +4)
 HP: 148
-HP_extra: 
 HD: 16d10+56
 saves: Fort +17, Ref +10, Will +13
 immune: charm, disease, fear, poison

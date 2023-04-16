@@ -5,7 +5,7 @@ name: Vampire Spawn
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 2
 name: Vampire Spawn
 Monster_XP: 600

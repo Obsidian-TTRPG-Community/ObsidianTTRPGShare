@@ -5,7 +5,7 @@ name: Avernus Razorback
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 106: For Queen and Empire"
+source: "Pathfinder No. 106: For Queen and Empire"
 Monster_CR: 9
 name: Avernus Razorback
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +21
 senses: darkvision, low-light vision, scent
 AC: 21, touch 8, flat-footed 21 (dex -1, natural +13, size -1)
 HP: 137
-HP_extra: 
 HD: 11d10+77
 saves: Fort +13, Ref +6, Will +6
 immune: disease, fire
@@ -41,6 +40,7 @@ ecology:
     desc: any (Hell)
   - name: Organisation
     desc: solitary, pair, herd (3-20), plague (21-100)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Devour Body and Essence (Su)

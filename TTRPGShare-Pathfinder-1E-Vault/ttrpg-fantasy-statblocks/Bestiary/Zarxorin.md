@@ -5,7 +5,7 @@ name: Zarxorin
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 120: Vault of the Onyx Citadel"
+source: "Pathfinder No. 120: Vault of the Onyx Citadel"
 Monster_CR: 19
 name: Zarxorin
 Monster_XP: 204800
@@ -18,7 +18,6 @@ perception: +31
 senses: darkvision
 AC: 34, touch 2, flat-footed 34 (natural +32, size -8)
 HP: 350
-HP_extra: 
 HD: 28d10+196
 saves: Fort +18, Ref +16, Will +18
 immune: acid, elemental traits
@@ -44,6 +43,7 @@ ecology:
     desc: any hills or underground (Plane of Earth)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Freeze (Ex)

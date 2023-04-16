@@ -5,7 +5,7 @@ name: Gravesludge
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 12
 name: Gravesludge
 Monster_XP: 19200
@@ -17,7 +17,6 @@ perception: +19
 senses: blindsight, lifesense
 AC: 27, touch 21, flat-footed 21 (deflection +5, dex +6, natural +6)
 HP: 161
-HP_extra: 
 HD: 14d8+98
 saves: Fort +11, Ref +15, Will +11
 immune: acid, cold, death effects, energy drain, fear, negative energy, ooze traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or haunt (3-5)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Create Spawn (Su)

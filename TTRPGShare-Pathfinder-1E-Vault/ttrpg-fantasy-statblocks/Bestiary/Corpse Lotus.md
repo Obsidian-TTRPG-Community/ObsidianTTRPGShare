@@ -5,7 +5,7 @@ name: Corpse Lotus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 13
 name: Corpse Lotus
 Monster_XP: 25600
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision, tremorsense
 aura: preserving mists
 AC: 28, touch 12, flat-footed 24 (dex +4, natural +16, size -2)
 HP: 178
-HP_extra: 
 HD: 17d8+102
 saves: Fort +16, Ref +11, Will +6
 immune: plant traits
@@ -41,6 +40,7 @@ ecology:
     desc: temperate forests or marshes
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Camouflage (Ex)

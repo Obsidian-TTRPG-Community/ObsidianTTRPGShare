@@ -5,7 +5,7 @@ name: NPC Wayward Crusader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 4
 name: NPC Wayward Crusader
 Monster_XP: 1200
@@ -20,7 +20,6 @@ perception: +1
 aura: courage
 AC: 20, touch 9, flat-footed 20 (armor +9, dex -1, shield +2)
 HP: 42
-HP_extra: 
 HD: 5d10+10
 saves: Fort +8, Ref +3, Will +8
 immune: disease, fear

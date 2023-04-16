@@ -5,7 +5,7 @@ name: Blood Lily
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 124: City in the Deep"
+source: "Pathfinder No. 124: City in the Deep"
 Monster_CR: 10
 name: Blood Lily
 Monster_XP: 9600
@@ -18,7 +18,6 @@ perception: +8
 senses: low-light vision, tremorsense
 AC: 25, touch 13, flat-footed 21 (dex +4, natural +12, size -1)
 HP: 120
-HP_extra: 
 HD: 16d8+48
 saves: Fort +13, Ref +9, Will +3
 immune: plant traits
@@ -43,6 +42,7 @@ ecology:
     desc: warm coastlines or underwater
   - name: Organisation
     desc: solitary or pod (2-5)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Camouflage (Ex)

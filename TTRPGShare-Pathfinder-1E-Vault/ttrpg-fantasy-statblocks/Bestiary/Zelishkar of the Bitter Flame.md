@@ -5,7 +5,7 @@ name: Zelishkar of the Bitter Flame
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Bestiary"
+source: "Inner Sea Bestiary"
 Monster_CR: 21
 name: Zelishkar of the Bitter Flame
 Monster_XP: 409600
@@ -19,7 +19,6 @@ senses: darkvision, scent, true seeing
 aura: unholy aura
 AC: 39, touch 13, flat-footed 35 (armor +11, dex +3, dodge +1, natural +15, size -1)
 HP: 396
-HP_extra: 
 HD: 24d10+264
 saves: Fort +19, Ref +19, Will +20
 immune: ability damage, acid, charm and compulsion effects, death effects, disease, fire, poison

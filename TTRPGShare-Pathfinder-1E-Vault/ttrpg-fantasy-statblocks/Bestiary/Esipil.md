@@ -5,7 +5,7 @@ name: Esipil
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Esipil
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 16, touch 15, flat-footed 13 (dex +3, natural +1, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +4, Will +4
 immune: death effects, disease, fear effects, poison
@@ -40,6 +39,7 @@ ecology:
     desc: any (Ethereal Plane)
   - name: Organisation
     desc: solitary or pack (2-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Bewildering Assault (Su)

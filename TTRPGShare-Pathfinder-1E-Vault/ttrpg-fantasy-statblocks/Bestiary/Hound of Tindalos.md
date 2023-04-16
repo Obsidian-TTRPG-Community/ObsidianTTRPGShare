@@ -5,7 +5,7 @@ name: Hound of Tindalos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Hound of Tindalos
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +18
 senses: darkvision
 AC: 20, touch 15, flat-footed 15 (dex +5, natural +5)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +10, Ref +12, Will +8
 immune: mind-affecting effects, poison
@@ -39,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or pack (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Angled Entry (Su)

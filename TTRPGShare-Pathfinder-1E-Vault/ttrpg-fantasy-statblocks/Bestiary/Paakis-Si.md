@@ -5,7 +5,7 @@ name: Paakis-Si
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 5
 name: Paakis-Si
 Monster_XP: 1600

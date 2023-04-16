@@ -5,7 +5,7 @@ name: Sabosan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Sabosan
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +14
 senses: blindsense, darkvision, scent
 AC: 18, touch 14, flat-footed 14 (dex +4, natural +4)
 HP: 52
-HP_extra: 
 HD: 7d10+14
 saves: Fort +4, Ref +9, Will +6
 speed: 30 ft., fly 40 ft. (good)
@@ -35,6 +34,7 @@ ecology:
     desc: warm forests or underground
   - name: Organisation
     desc: solitary, hunting party (2-6), or clan (7-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dust Cloud (Ex)

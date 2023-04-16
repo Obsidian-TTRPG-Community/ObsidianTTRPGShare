@@ -5,7 +5,7 @@ name: Voidstick Zombie
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 57: Tempest Rising"
+source: "Pathfinder No. 57: Tempest Rising"
 Monster_CR: 12
 name: Voidstick Zombie
 Monster_XP: 19200
@@ -38,6 +38,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or plague (3-9)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Channel Energy (Su)

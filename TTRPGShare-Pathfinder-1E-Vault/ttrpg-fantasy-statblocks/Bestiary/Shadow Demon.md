@@ -5,7 +5,7 @@ name: Shadow Demon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 7
 name: Shadow Demon
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +20
 senses: darkvision
 AC: 18, touch 18, flat-footed 14 (deflection +4, dex +4)
 HP: 59
-HP_extra: 
 HD: 7d10+21
 saves: Fort +5, Ref +11, Will +7
 immune: cold, electricity, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or haunt (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Sprint (Ex)

@@ -5,7 +5,7 @@ name: NPC Spellsword
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 15
 name: NPC Spellsword
 Monster_XP: 51200
@@ -20,7 +20,6 @@ perception: +15
 senses: low-light vision
 AC: 21, touch 13, flat-footed 18 (armor +8, dex +3)
 HP: 91
-HP_extra: 
 HD: 16d8+16
 saves: Fort +6, Ref +13, Will +10
 saves_other: +2 vs. enchantments, +4 vs. bardic performance, language-dependent, and sonic

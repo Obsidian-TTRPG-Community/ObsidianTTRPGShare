@@ -5,7 +5,7 @@ name: Wereshark (Human Form)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 3
 name: Wereshark (Human Form)
 Monster_XP: 800
@@ -20,7 +20,6 @@ perception: +2
 senses: low-light vision, scent
 AC: 11, touch 11, flat-footed 10 (dex +1)
 HP: 33
-HP_extra: 
 HD: 3d10+12
 saves: Fort +5, Ref +2, Will +3
 defensive_abilities: bravery +1

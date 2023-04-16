@@ -5,7 +5,7 @@ name: Theletos
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Theletos
 Monster_XP: 3200
@@ -42,6 +42,7 @@ ecology:
     desc: any (Outer Planes)
   - name: Organisation
     desc: solitary, pair, or collective (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Fate Drain (Su)

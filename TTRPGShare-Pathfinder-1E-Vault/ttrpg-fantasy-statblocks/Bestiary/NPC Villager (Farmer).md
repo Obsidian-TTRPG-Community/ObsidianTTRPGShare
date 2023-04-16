@@ -5,7 +5,7 @@ name: NPC Villager (Farmer)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "GameMastery Guide"
+source: "GameMastery Guide"
 Monster_CR: 1/2
 name: NPC Villager (Farmer)
 Monster_XP: 200
@@ -18,7 +18,6 @@ INI: +0
 perception: +1
 AC: 10, touch 10, flat-footed 10
 HP: 10
-HP_extra: 
 HD: 2 HD, 1d6+1d8+2
 saves: Fort +1, Ref +0, Will +3
 speed: 30 ft.

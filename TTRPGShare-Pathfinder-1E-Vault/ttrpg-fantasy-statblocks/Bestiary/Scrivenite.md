@@ -5,7 +5,7 @@ name: Scrivenite
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 97: In Hell's Bright Shadow"
+source: "Pathfinder No. 97: In Hell's Bright Shadow"
 Monster_CR: 4
 name: Scrivenite
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 19, touch 17, flat-footed 16 (deflection +4, dex +3, natural +2)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +3, Ref +7, Will +8
 immune: poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Axis)
   - name: Organisation
     desc: solitary, pair, or collection (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Ambient Knowledge (Ex)

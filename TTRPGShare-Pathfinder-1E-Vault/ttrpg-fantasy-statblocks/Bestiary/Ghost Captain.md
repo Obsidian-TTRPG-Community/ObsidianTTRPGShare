@@ -5,7 +5,7 @@ name: Ghost Captain
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Isles of the Shackles"
+source: "Isles of the Shackles"
 Monster_CR: 7
 name: Ghost Captain
 Monster_XP: 3200
@@ -45,6 +45,7 @@ ecology:
     desc: any oceans or coastlines
   - name: Organisation
     desc: solitary or crew (1 ghost captain plus 2-4 draugr captains and 6-15 draugr pirates)
+  - name: Treasure
     desc: NPC Gear
 sources:
   - name: Isles of the Shackles

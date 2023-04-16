@@ -5,7 +5,7 @@ name: Dread Lord
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 11
 name: Dread Lord
 Monster_XP: 12800

@@ -5,7 +5,7 @@ name: Kuchrima
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Rise of the Runelords Anniversary Edition"
+source: "Rise of the Runelords Anniversary Edition"
 Monster_CR: 8
 name: Kuchrima
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +19
 senses: darkvision, low-light vision, scent
 AC: 22, touch 16, flat-footed 16 (dex +6, natural +6)
 HP: 104
-HP_extra: 
 HD: 11d10+44
 saves: Fort +7, Ref +13, Will +6
 immune: disease, magic missile
@@ -38,6 +37,7 @@ ecology:
     desc: any mountains
   - name: Organisation
     desc: solitary, pair, flight (3-7), or gluttony (8-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Catastrophic Shot (Ex)

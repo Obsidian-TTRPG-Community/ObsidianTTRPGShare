@@ -5,7 +5,7 @@ name: Mythic Sphinx Colossus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 14
 name: Mythic Sphinx Colossus
 Monster_XP: 38400
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision, tremorsense, x-ray vision
 aura: frightful presence, selective antimagic aura
 AC: 31, touch 7, flat-footed 30 (dex +1, natural +24, size -4)
 HP: 199
-HP_extra: 
 HD: 18d10+100
 saves: Fort +6, Ref +9, Will +10
 immune: construct traits
@@ -44,6 +43,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Alternate Form (Ex)

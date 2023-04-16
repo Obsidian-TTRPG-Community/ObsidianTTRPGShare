@@ -5,7 +5,7 @@ name: Panotti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Murder's Mark"
+source: "Murder's Mark"
 Monster_CR: 2
 name: Panotti
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +2
 senses: blindsense
 AC: 16, touch 12, flat-footed 14 (armor +2, dex +1, dodge +1, natural +2)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +2, Will +2
 speed: 30 ft., fly 20 ft. (poor)

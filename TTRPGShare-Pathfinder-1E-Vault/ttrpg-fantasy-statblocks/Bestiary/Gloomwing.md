@@ -5,7 +5,7 @@ name: Gloomwing
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 4
 name: Gloomwing
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 19, touch 12, flat-footed 16 (dex +3, natural +7, size -1)
 HP: 37
-HP_extra: 
 HD: 5d10+10
 saves: Fort +3, Ref +7, Will +5
 speed: 10 ft., fly 40 ft. (good)
@@ -39,6 +38,7 @@ ecology:
     desc: any (Plane of Shadow)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Confusion (Su)

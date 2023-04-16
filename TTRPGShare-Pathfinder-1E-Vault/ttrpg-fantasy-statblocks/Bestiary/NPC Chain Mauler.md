@@ -5,7 +5,7 @@ name: NPC Chain Mauler
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 13
 name: NPC Chain Mauler
 Monster_XP: 25600
@@ -19,7 +19,6 @@ INI: +10
 perception: +16
 AC: 21, touch 16, flat-footed 16 (armor +4, deflection +1, dex +5, natural +1)
 HP: 108
-HP_extra: 
 HD: 14d8+42
 saves: Fort +6, Ref +16, Will +4
 defensive_abilities: improved evasion, improved uncanny dodge, trap sense +4

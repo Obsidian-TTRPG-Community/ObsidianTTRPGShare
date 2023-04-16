@@ -5,7 +5,7 @@ name: Will-o’-Wisp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 6
 name: Will-o’-Wisp
 Monster_XP: 2400
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 26, touch 26, flat-footed 16 (deflection +5, dex +9, dodge +1, size +1)
 HP: 40
-HP_extra: 
 HD: 9d8
 saves: Fort +3, Ref +12, Will +9
 immune: magic
@@ -38,6 +37,7 @@ ecology:
     desc: any swamp
   - name: Organisation
     desc: solitary, pair, or string (3-4)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Feed on Fear (Su)

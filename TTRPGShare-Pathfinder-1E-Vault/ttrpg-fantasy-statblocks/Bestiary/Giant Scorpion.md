@@ -5,7 +5,7 @@ name: Giant Scorpion
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Giant Scorpion
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +4
 senses: darkvision, tremorsense
 AC: 16, touch 9, flat-footed 16 (armor +7, size -1)
 HP: 37
-HP_extra: 
 HD: 5d8+15
 saves: Fort +7, Ref +1, Will +1
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: warm or temperate deserts, forests, plains, or underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

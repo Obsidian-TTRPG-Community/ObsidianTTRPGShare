@@ -5,7 +5,7 @@ name: Marai
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Marai
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision
 AC: 21, touch 16, flat-footed 15 (dex +5, dodge +1, natural +5)
 HP: 94
-HP_extra: 
 HD: 9d10+45
 saves: Fort +8, Ref +11, Will +9
 DR: 10/good and piercing
@@ -43,6 +42,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, cult (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Confusion (Su)

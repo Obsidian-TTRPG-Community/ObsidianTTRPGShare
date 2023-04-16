@@ -5,7 +5,7 @@ name: Tomb Giant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 94: Ice Tomb of the Giant Queen"
+source: "Pathfinder No. 94: Ice Tomb of the Giant Queen"
 Monster_CR: 12
 name: Tomb Giant
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +15
 senses: darkvision, low-light vision
 AC: 28, touch 12, flat-footed 25 (armor +6, dex +3, natural +10, size -1)
 HP: 162
-HP_extra: 
 HD: 13d8+104
 saves: Fort +16, Ref +7, Will +10
 immune: death effects, paralysis

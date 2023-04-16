@@ -5,7 +5,7 @@ name: Knight Ant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Knight Ant
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +1
 senses: darkvision, scent, tremorsense
 AC: 17, touch 9, flat-footed 17 (natural +8, size -1)
 HP: 42
-HP_extra: 
 HD: 4d8+24
 saves: Fort +9, Ref +1, Will +2
 immune: mind-affecting effects
@@ -37,6 +36,7 @@ ecology:
     desc: any warm
   - name: Organisation
     desc: solitary, pair, scouting party (2 plus 1d4 giant ants), colony (3-8 plus 10-100 workers, 3-12 soldiers, and 1 queen)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hive Guard (Ex)

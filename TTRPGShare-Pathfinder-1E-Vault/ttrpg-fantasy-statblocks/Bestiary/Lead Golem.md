@@ -5,7 +5,7 @@ name: Lead Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 10
 name: Lead Golem
 Monster_XP: 9600
@@ -16,7 +16,6 @@ INI: -2
 senses: darkvision, low-light vision
 AC: 26, touch 7, flat-footed 26 (dex -2, natural +19, size -1)
 HP: 107
-HP_extra: 
 HD: 14d10+30
 saves: Fort +4, Ref +2, Will +4
 immune: acid, construct traits, electricity, magic
@@ -37,6 +36,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or curtain (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Divination Screen (Ex)

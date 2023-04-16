@@ -5,7 +5,7 @@ name: Duergar Hammer
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 11
 name: Duergar Hammer
 Monster_XP: 12800
@@ -20,7 +20,6 @@ perception: +17
 senses: darkvision
 AC: 26, touch 22, flat-footed 20 (armor +3, deflection +1, dex +4, dodge +1, monk +3, natural +1, wis +2)
 HP: 93
-HP_extra: 
 HD: 12d8+36
 saves: Fort +11, Ref +14, Will +11
 saves_other: +2 vs. spells

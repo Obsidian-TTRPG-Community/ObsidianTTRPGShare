@@ -5,7 +5,7 @@ name: Moon Hag
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 7
 name: Moon Hag
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +17
 senses: darkvision
 AC: 20, touch 15, flat-footed 19 (dex +1, insight +4, natural +5)
 HP: 85
-HP_extra: 
 HD: 9d10+36
 saves: Fort +9, Ref +7, Will +9
 immune: confusion, fear, insanity
@@ -39,6 +38,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary or coven (three hags of any kind)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Dreadful Ravings (Su)

@@ -5,7 +5,7 @@ name: Giant Weasel
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1
 name: Giant Weasel
 Monster_XP: 400
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 15, touch 14, flat-footed 11 (dex +4, natural +1)
 HP: 9
-HP_extra: 
 HD: 2d8
 saves: Fort +3, Ref +7, Will +1
 speed: 40 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, pair, or den (3-6)
+  - name: Treasure
     desc: incidental
 sources:
   - name: Bestiary 4

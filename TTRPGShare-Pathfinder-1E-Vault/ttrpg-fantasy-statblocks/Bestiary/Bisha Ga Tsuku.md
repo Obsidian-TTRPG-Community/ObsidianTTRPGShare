@@ -5,7 +5,7 @@ name: Bisha Ga Tsuku
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Bisha Ga Tsuku
 Monster_XP: 6400
@@ -19,7 +19,6 @@ senses: darkvision
 aura: frightful presence, hoarfrost halo
 AC: 22, touch 16, flat-footed 16 (dex +6, natural +6)
 HP: 114
-HP_extra: 
 HD: 12d10+48
 saves: Fort +12, Ref +10, Will +12
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: cold hills or mountains
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Hoarfrost Halo (Su)

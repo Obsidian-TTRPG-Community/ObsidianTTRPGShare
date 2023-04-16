@@ -5,7 +5,7 @@ name: Ogre
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Ogre
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 17, touch 8, flat-footed 17 (armor +4, dex -1, natural +5, size -1)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +6, Ref +0, Will +3
 speed: 30 ft.,  40 ft. base

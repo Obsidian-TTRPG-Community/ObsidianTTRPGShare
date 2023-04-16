@@ -5,7 +5,7 @@ name: Troll
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Troll
 Monster_XP: 1600
@@ -38,6 +38,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: standard
 sources:
   - name: Pathfinder RPG Bestiary

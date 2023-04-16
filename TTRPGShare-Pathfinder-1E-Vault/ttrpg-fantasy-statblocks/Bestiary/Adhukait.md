@@ -5,7 +5,7 @@ name: Adhukait
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 7
 name: Adhukait
 Monster_XP: 3200

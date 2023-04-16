@@ -5,7 +5,7 @@ name: Old Wulunga
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Mystery Monsters Revisited"
+source: "Mystery Monsters Revisited"
 Monster_CR: 6
 name: Old Wulunga
 Monster_XP: 2400
@@ -20,7 +20,6 @@ perception: +11
 senses: darkvision, keen scent, low-light vision
 AC: 20, touch 14, flat-footed 15 (dex +5, natural +6, size -1)
 HP: 68
-HP_extra: 
 HD: 8d10+24
 saves: Fort +9, Ref +11, Will +4
 speed: 10 ft., swim 50 ft.

@@ -5,7 +5,7 @@ name: Mome Rath
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 119: Prisoners of the Blight"
+source: "Pathfinder No. 119: Prisoners of the Blight"
 Monster_CR: 2
 name: Mome Rath
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: low-light vision, scent
 AC: 12, touch 11, flat-footed 11 (dex +1, natural +1)
 HP: 22
-HP_extra: 
 HD: 3d8+9
 saves: Fort +8, Ref +4, Will +3
 speed: 30 ft., climb 10 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: temperate forests (First World)
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Poison (Ex)

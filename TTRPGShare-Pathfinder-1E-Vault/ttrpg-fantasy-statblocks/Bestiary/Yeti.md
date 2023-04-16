@@ -5,7 +5,7 @@ name: Yeti
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Yeti
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +10
 senses: darkvision, scent
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +6, Ref +6, Will +6
 immune: cold
@@ -42,6 +41,7 @@ ecology:
     desc: cold mountains
   - name: Organisation
     desc: solitary, pair, or tribe (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Cold (Su)

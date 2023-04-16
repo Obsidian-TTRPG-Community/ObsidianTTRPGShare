@@ -5,7 +5,7 @@ name: NPC Sword Savant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 18
 name: NPC Sword Savant
 Monster_XP: 153600
@@ -19,7 +19,6 @@ INI: +5
 perception: +19
 AC: 31, touch 27, flat-footed 25 (armor +4, deflection +2, dex +5, dodge +1, monk +4, wis +5)
 HP: 108
-HP_extra: 
 HD: 19d8+19
 saves: Fort +14, Ref +19, Will +19
 saves_other: +4 vs. enchantments

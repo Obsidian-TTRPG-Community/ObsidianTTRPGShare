@@ -5,7 +5,7 @@ name: Ourdivar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Ourdivar
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +10
 senses: blindsense, darkvision
 AC: 17, touch 10, flat-footed 16 (dex +1, natural +7, size -1)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +4, Ref +5, Will +6
 immune: acid
@@ -43,6 +42,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary, pair, or breach (3-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Adaptive Strike (Su)

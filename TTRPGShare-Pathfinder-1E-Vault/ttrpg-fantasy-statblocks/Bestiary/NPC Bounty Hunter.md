@@ -5,7 +5,7 @@ name: NPC Bounty Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 11
 name: NPC Bounty Hunter
 Monster_XP: 12800
@@ -19,7 +19,6 @@ INI: +8
 perception: +16
 AC: 25, touch 16, flat-footed 20 (armor +5, deflection +1, dex +4, dodge +1, natural +4)
 HP: 94
-HP_extra: 
 HD: 12d10+24
 saves: Fort +11, Ref +13, Will +6
 immune: poison

@@ -5,7 +5,7 @@ name: NPC Skirmishing Crusader
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 3
 name: NPC Skirmishing Crusader
 Monster_XP: 800
@@ -21,7 +21,6 @@ senses: low-light vision
 aura: courage
 AC: 17, touch 12, flat-footed 16 (armor +4, dex +1, shield +1, size +1)
 HP: 36
-HP_extra: 
 HD: 4d10+10
 saves: Fort +11, Ref +7, Will +8
 saves_other: +2 vs. illusions

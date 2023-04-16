@@ -5,7 +5,7 @@ name: Vampiric Mist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 3
 name: Vampiric Mist
 Monster_XP: 800
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, sense blood
 AC: 14, touch 14, flat-footed 10 (dex +4)
 HP: 30
-HP_extra: 
 HD: 4d8+12
 saves: Fort +4, Ref +5, Will +5
 DR: 5/magic
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm swamps or underground
   - name: Organisation
     desc: solitary, pair, or gang (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Blood Siphon (Ex)

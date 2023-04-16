@@ -5,7 +5,7 @@ name: Arachnid Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Numeria, Land of Fallen Stars"
+source: "Numeria, Land of Fallen Stars"
 Monster_CR: 1/2
 name: Arachnid Robot
 Monster_XP: 200
@@ -18,7 +18,6 @@ perception: +5
 senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 13 (dex +1, natural +2, size +1)
 HP: 15
-HP_extra: 
 HD: 1d10+10
 saves: Fort +0, Ref +1, Will +1
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (Numeria)
   - name: Organisation
     desc: solitary, pair, or colony (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Explode (Ex)

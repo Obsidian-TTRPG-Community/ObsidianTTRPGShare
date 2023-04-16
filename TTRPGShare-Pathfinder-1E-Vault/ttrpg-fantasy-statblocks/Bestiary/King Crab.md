@@ -5,7 +5,7 @@ name: King Crab
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Magic"
+source: "Ultimate Magic"
 Monster_CR: 1/4
 name: King Crab
 Monster_XP: 100
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision
 AC: 18, touch 14, flat-footed 16 (dex +2, natural +4, size +2)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +2, Will +0
 immune: mind-affecting effects
@@ -40,6 +39,7 @@ ecology:
     desc: any aquatic
   - name: Organisation
     desc: solitary or cast (2-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Water Dependency (Ex)

@@ -5,7 +5,7 @@ name: Argent Warden
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Planar Adventures"
+source: "Planar Adventures"
 Monster_CR: 8
 name: Argent Warden
 Monster_XP: 4800
@@ -19,7 +19,6 @@ senses: darkvision, low-light vision
 aura: Hellspurning aura
 AC: 21, touch 10, flat-footed 21 (natural +8, shield +3)
 HP: 97
-HP_extra: 
 HD: 14d10+20
 saves: Fort +9, Ref +9, Will +10
 immune: construct traits

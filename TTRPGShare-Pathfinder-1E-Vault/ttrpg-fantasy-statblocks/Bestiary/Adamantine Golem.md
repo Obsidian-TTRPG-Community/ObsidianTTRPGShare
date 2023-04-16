@@ -5,7 +5,7 @@ name: Adamantine Golem
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 19
 name: Adamantine Golem
 Monster_XP: 204800
@@ -37,6 +37,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary or gang (2-4)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Destructive Strike (Ex)

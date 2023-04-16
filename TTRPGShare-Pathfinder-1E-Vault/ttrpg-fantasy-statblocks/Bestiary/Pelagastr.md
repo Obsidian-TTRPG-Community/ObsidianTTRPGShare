@@ -5,7 +5,7 @@ name: Pelagastr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 8
 name: Pelagastr
 Monster_XP: 4800
@@ -44,6 +44,7 @@ ecology:
     desc: any (Maelstrom)
   - name: Organisation
     desc: solitary, pair, or convocation (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Change Shape (Su)

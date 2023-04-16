@@ -5,7 +5,7 @@ name: Ossumental (Water)
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 83: The Slave Trenches of Hakotep"
+source: "Pathfinder No. 83: The Slave Trenches of Hakotep"
 Monster_CR: 12
 name: Ossumental (Water)
 Monster_XP: 19200
@@ -18,7 +18,6 @@ perception: +26
 senses: darkvision, mistsight
 AC: 27, touch 12, flat-footed 24 (dex +3, natural +15, size -1)
 HP: 161
-HP_extra: 
 HD: 17d8+85
 saves: Fort +10, Ref +8, Will +12
 immune: undead traits
@@ -40,6 +39,7 @@ ecology:
     desc: warm deserts (Osirion)
   - name: Organisation
     desc: solitary or gang (2-8)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Discorporate (Su)

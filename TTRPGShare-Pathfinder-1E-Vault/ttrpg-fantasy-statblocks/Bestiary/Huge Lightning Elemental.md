@@ -5,7 +5,7 @@ name: Huge Lightning Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 7
 name: Huge Lightning Elemental
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 19, touch 17, flat-footed 10 (dex +8, dodge +1, natural +2, size -2)
 HP: 85
-HP_extra: 
 HD: 10d10+30
 saves: Fort +10, Ref +15, Will +5
 immune: electricity, elemental traits
@@ -39,6 +38,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary, pair, or gang (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 2

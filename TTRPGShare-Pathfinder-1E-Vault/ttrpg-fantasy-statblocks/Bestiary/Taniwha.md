@@ -5,7 +5,7 @@ name: Taniwha
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 6
 name: Taniwha
 Monster_XP: 2400
@@ -41,6 +41,7 @@ ecology:
     desc: warm rivers
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Fearful Memory (Su)

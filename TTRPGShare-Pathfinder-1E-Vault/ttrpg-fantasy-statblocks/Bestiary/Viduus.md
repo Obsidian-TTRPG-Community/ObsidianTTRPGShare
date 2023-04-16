@@ -5,7 +5,7 @@ name: Viduus
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 4
 name: Viduus
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +14
 senses: darkvision, low-light vision, spiritsense
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 47
-HP_extra: 
 HD: 5d10+20
 saves: Fort +5, Ref +4, Will +10
 immune: death effects, disease, mindaffecting effects, poison
@@ -41,6 +40,7 @@ ecology:
     desc: any (Boneyard)
   - name: Organisation
     desc: solitary, pair, or library (3-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Censor (Su)

@@ -5,7 +5,7 @@ name: NPC Old Ones Cultist
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea NPC Codex"
+source: "Inner Sea NPC Codex"
 Monster_CR: 9
 name: NPC Old Ones Cultist
 Monster_XP: 6400
@@ -19,7 +19,6 @@ INI: +2
 perception: -1
 AC: 14, touch 13, flat-footed 11 (dex +2, dodge +1, natural +1)
 HP: 68
-HP_extra: 
 HD: 10d8+20
 saves: Fort +7, Ref +6, Will +9
 saves_other: +1 vs. fear

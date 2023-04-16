@@ -5,7 +5,7 @@ name: Caligraphy Wyrm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Legacy of Dragons"
+source: "Legacy of Dragons"
 Monster_CR: 2
 name: Caligraphy Wyrm
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +7
 senses: blindsight, darkvision, low-light vision.
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 19
-HP_extra: 
 HD: 3d12
 saves: Fort +3, Ref +6, Will +4
 immune: paralysis, sleep
@@ -39,6 +38,7 @@ ecology:
     desc: any urban
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Change Shape (Su)

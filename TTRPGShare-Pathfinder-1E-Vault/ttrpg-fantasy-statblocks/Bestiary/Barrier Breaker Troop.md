@@ -5,7 +5,7 @@ name: Barrier Breaker Troop
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 141: Last Watch"
+source: "Pathfinder No. 141: Last Watch"
 Monster_CR: 7
 name: Barrier Breaker Troop
 Monster_XP: 3200
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 21, touch 12, flat-footed 19 (armor +4, dex +1, dodge +1, natural +5)
 HP: 90
-HP_extra: 
 HD: 12d8+36
 saves: Fort +7, Ref +7, Will +9
 immune: undead traits
@@ -42,6 +41,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary, horde (2-4), or uprising (5-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Overwhelm (Ex)

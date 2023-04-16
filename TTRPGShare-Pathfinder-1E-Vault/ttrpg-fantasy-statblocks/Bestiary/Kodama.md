@@ -5,7 +5,7 @@ name: Kodama
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Kodama
 Monster_XP: 1600
@@ -41,6 +41,7 @@ ecology:
     desc: any forest
   - name: Organisation
     desc: solitary, pair, group (3-7), or grove (8-16)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Distracting Gaze (Su)

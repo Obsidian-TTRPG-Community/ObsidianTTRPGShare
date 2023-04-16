@@ -5,7 +5,7 @@ name: The Would-Be Queen, Almara Kazaar
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 10
 name: The Would-Be Queen, Almara Kazaar
 Monster_XP: 9600
@@ -20,7 +20,6 @@ perception: +3
 senses: darkvision
 AC: 21, touch 10, flat-footed 21 (armor +10, natural +1)
 HP: 108
-HP_extra: 
 HD: 11d8+55
 saves: Fort +11, Ref +5, Will +13
 saves_other: +2 bonus vs. spells and spell-like abilities

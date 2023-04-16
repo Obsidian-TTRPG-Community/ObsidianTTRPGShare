@@ -5,7 +5,7 @@ name: Kigyo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 124: City in the Deep"
+source: "Pathfinder No. 124: City in the Deep"
 Monster_CR: 6
 name: Kigyo
 Monster_XP: 2400

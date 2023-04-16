@@ -5,7 +5,7 @@ name: Tarsier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Ultimate Wilderness"
+source: "Ultimate Wilderness"
 Monster_CR: 1/6
 name: Tarsier
 Monster_XP: 65
@@ -17,7 +17,6 @@ perception: +5
 senses: low-light vision
 AC: 17, touch 17, flat-footed 14 (dex +3, size +4)
 HP: 4
-HP_extra: 
 HD: 1d8
 saves: Fort +2, Ref +5, Will +1
 speed: 20 ft., climb 20 ft.
@@ -40,6 +39,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary, pair, or family (3-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Tarsier’s Leap (Ex)

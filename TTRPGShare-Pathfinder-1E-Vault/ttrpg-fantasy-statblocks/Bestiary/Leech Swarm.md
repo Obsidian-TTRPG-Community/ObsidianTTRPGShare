@@ -5,7 +5,7 @@ name: Leech Swarm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 4
 name: Leech Swarm
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +0
 senses: blindsight
 AC: 18, touch 18, flat-footed 14 (dex +4, size +4)
 HP: 39
-HP_extra: 
 HD: 6d8+12
 saves: Fort +7, Ref +6, Will +2
 immune: mind-affecting effects, swarm traits, weapon damage
@@ -41,6 +40,7 @@ ecology:
     desc: temperate or warm marshes
   - name: Organisation
     desc: solitary, pair, or infestation (3-6 swarms)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Blood Drain (Ex)

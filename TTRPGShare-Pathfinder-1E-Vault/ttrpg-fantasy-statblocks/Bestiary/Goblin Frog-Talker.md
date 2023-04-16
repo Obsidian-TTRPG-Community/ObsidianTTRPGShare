@@ -5,7 +5,7 @@ name: Goblin Frog-Talker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 5
 name: Goblin Frog-Talker
 Monster_XP: 1600
@@ -20,7 +20,6 @@ perception: +7
 senses: darkvision
 AC: 19, touch 15, flat-footed 16 (armor +4, deflection +1, dex +3, size +1)
 HP: 47
-HP_extra: 
 HD: 6d6+24
 saves: Fort +5, Ref +6, Will +7
 speed: 30 ft.

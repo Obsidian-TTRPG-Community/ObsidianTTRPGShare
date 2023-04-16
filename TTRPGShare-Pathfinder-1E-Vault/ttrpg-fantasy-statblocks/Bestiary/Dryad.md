@@ -5,7 +5,7 @@ name: Dryad
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 3
 name: Dryad
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: +11
 senses: low-light vision
 AC: 17, touch 14, flat-footed 13 (dex +4, natural +3)
 HP: 27
-HP_extra: 
 HD: 6d6+6
 saves: Fort +5, Ref +9, Will +7
 DR: 5/cold iron

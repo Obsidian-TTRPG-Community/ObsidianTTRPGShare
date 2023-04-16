@@ -5,7 +5,7 @@ name: Baluchitherium
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 8
 name: Baluchitherium
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +16
 senses: low-light vision, scent
 AC: 22, touch 8, flat-footed 22 (natural +14, size -2)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +15, Ref +8, Will +7
 speed: 40 ft.
@@ -36,6 +35,7 @@ ecology:
     desc: warm forests
   - name: Organisation
     desc: solitary, pair, or herd (3-8)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 3

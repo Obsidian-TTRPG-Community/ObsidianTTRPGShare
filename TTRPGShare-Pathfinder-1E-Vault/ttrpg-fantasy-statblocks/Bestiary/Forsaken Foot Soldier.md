@@ -5,7 +5,7 @@ name: Forsaken Foot Soldier
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 102: Breaking the Bones of Hell"
+source: "Pathfinder No. 102: Breaking the Bones of Hell"
 Monster_CR: 2
 name: Forsaken Foot Soldier
 Monster_XP: 600
@@ -17,7 +17,6 @@ perception: +8
 senses: darkvision
 AC: 16, touch 10, flat-footed 16 (armor +5, shield +1)
 HP: 18
-HP_extra: 
 HD: 4d8
 saves: Fort +1, Ref +1, Will +5
 immune: undead traits

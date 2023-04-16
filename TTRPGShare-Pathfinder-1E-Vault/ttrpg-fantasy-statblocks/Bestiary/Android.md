@@ -5,7 +5,7 @@ name: Android
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 1
 name: Android
 Monster_XP: 400
@@ -20,7 +20,6 @@ perception: +6
 senses: darkvision, low-light vision
 AC: 15, touch 13, flat-footed 12 (armor +2, dex +3)
 HP: 11
-HP_extra: 
 HD: 1d8+3
 saves: Fort +2, Ref +5, Will +0
 saves_other: +4 vs. mind-affecting, paralysis, poison, and stun

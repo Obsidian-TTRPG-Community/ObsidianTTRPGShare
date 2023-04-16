@@ -5,7 +5,7 @@ name: Cactus Leshy
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 115: Trail of the Hunted"
+source: "Pathfinder No. 115: Trail of the Hunted"
 Monster_CR: 2
 name: Cactus Leshy
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +7
 senses: darkvision, low-light vision
 AC: 14, touch 13, flat-footed 12 (dex +2, natural +1, size +1)
 HP: 19
-HP_extra: 
 HD: 3d8+6
 saves: Fort +5, Ref +3, Will +3
 immune: electricity, plant traits, sonic
@@ -42,6 +41,7 @@ ecology:
     desc: warm deserts
   - name: Organisation
     desc: solitary or patch (2-12)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Grow Fruit (Ex)

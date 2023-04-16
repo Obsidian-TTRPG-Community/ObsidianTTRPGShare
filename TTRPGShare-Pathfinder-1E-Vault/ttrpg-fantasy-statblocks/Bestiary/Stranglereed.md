@@ -5,7 +5,7 @@ name: Stranglereed
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 9
 name: Stranglereed
 Monster_XP: 6400
@@ -18,7 +18,6 @@ perception: +10
 senses: low-light vision
 AC: 23, touch 14, flat-footed 18 (dex +5, natural +9, size -1)
 HP: 114
-HP_extra: 
 HD: 12d8+60
 saves: Fort +13, Ref +11, Will +5
 immune: plant traits
@@ -42,6 +41,7 @@ ecology:
     desc: warm rivers or lakes
   - name: Organisation
     desc: solitary or patch (2-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Freeze (Ex)

@@ -5,7 +5,7 @@ name: Tzitzimitl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 19
 name: Tzitzimitl
 Monster_XP: 204800
@@ -43,6 +43,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Eclipse (Su)

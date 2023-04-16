@@ -5,7 +5,7 @@ name: Skull Ripper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Rise of the Runelords Anniversary Edition"
+source: "Rise of the Runelords Anniversary Edition"
 Monster_CR: 9
 name: Skull Ripper
 Monster_XP: 6400
@@ -18,7 +18,6 @@ senses: darkvision, low-light vision
 aura: dread visage
 AC: 24, touch 12, flat-footed 21 (dex +3, natural +12, size -1)
 HP: 112
-HP_extra: 
 HD: 15d10+30
 saves: Fort +5, Ref +10, Will +6
 immune: construct traits
@@ -42,6 +41,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or nest (3-8)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Behead (Ex)

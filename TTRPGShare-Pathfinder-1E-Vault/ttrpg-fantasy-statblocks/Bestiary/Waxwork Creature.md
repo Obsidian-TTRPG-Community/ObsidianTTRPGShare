@@ -5,7 +5,7 @@ name: Waxwork Creature
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Horror Adventures"
+source: "Horror Adventures"
 Monster_CR: 2
 name: Waxwork Creature
 Monster_XP: 600
@@ -35,6 +35,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: any
+  - name: Treasure
     desc: none
 sources:
   - name: Horror Adventures

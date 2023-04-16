@@ -5,7 +5,7 @@ name: Chalkost
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Inner Sea Gods"
+source: "Inner Sea Gods"
 Monster_CR: 4
 name: Chalkost
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +9
 senses: darkvision
 AC: 16, touch 10, flat-footed 16 (natural +6)
 HP: 42
-HP_extra: 
 HD: 5d10+15
 saves: Fort +7, Ref +1, Will +7
 saves_other: +2 vs. poison, spells, and spell-like abilities

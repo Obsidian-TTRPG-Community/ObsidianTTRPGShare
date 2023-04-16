@@ -5,7 +5,7 @@ name: Orynox Marchelin, Fire Giant King
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Giants Revisited"
+source: "Giants Revisited"
 Monster_CR: 19
 name: Orynox Marchelin, Fire Giant King
 Monster_XP: 204800

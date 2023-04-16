@@ -5,7 +5,7 @@ name: Gearsman Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Gearsman Robot
 Monster_XP: 1200
@@ -18,7 +18,6 @@ perception: +8
 senses: darkvision, low-light vision
 AC: 18, touch 11, flat-footed 17 (dex +1, natural +7)
 HP: 42
-HP_extra: 
 HD: 4d10+20
 saves: Fort +1, Ref +2, Will +2
 immune: construct traits

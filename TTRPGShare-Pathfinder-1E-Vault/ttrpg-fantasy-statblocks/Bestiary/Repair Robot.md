@@ -5,7 +5,7 @@ name: Repair Robot
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Construct Handbook"
+source: "Construct Handbook"
 Monster_CR: 2
 name: Repair Robot
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +4
 senses: darkvision, low-light vision
 AC: 14, touch 12, flat-footed 12 (dex +2, natural +2)
 HP: 31
-HP_extra: 
 HD: 2d10+20
 saves: Fort +0, Ref +2, Will +0
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any
   - name: Organisation
     desc: solitary, pair, or union (3-12)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Net (Ex)

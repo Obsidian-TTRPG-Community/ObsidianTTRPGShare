@@ -5,7 +5,7 @@ name: Oma
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 16
 name: Oma
 Monster_XP: 76800
@@ -17,7 +17,6 @@ perception: +24
 senses: darkvision, low-light vision
 AC: 30, touch 0, flat-footed 30 (dex -2, natural +30, size -8)
 HP: 290
-HP_extra: 
 HD: 20d10+180
 saves: Fort +23, Ref +10, Will +7
 immune: cold, electricity, fire
@@ -38,6 +37,7 @@ ecology:
     desc: gas giants or vacuum
   - name: Organisation
     desc: solitary, pair, or pod (3-6)
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Capsize (Ex)

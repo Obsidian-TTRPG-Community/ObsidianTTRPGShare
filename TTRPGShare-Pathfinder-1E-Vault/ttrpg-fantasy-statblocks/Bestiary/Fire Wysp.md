@@ -5,7 +5,7 @@ name: Fire Wysp
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Fire Wysp
 Monster_XP: 600
@@ -19,7 +19,6 @@ senses: darkvision
 aura: resonance
 AC: 14, touch 14, flat-footed 12 (dex +2, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +5, Will +2
 immune: elemental traits, fire

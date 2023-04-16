@@ -5,7 +5,7 @@ name: Abrakarn Viper
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Monster Codex"
+source: "Monster Codex"
 Monster_CR: 13
 name: Abrakarn Viper
 Monster_XP: 25600
@@ -17,7 +17,6 @@ INI: +3
 senses: darkvision, low-light vision
 AC: 30, touch 11, flat-footed 27 (dex +3, natural +19, size -2)
 HP: 139
-HP_extra: 
 HD: 18d10+40
 saves: Fort +6, Ref +9, Will +10
 immune: construct traits
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Confusing Critical (Sp)

@@ -5,7 +5,7 @@ name: Mihstu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 8
 name: Mihstu
 Monster_XP: 4800
@@ -18,7 +18,6 @@ perception: +13
 senses: darkvision
 AC: 22, touch 17, flat-footed 15 (dex +6, dodge +1, natural +5)
 HP: 92
-HP_extra: 
 HD: 8d10+48
 saves: Fort +12, Ref +12, Will +4
 immune: electricity, elemental traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Gaseous (Ex)

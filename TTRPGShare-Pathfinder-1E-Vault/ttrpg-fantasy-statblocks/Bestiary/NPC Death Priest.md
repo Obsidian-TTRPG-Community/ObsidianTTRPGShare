@@ -5,7 +5,7 @@ name: NPC Death Priest
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 8
 name: NPC Death Priest
 Monster_XP: 4800
@@ -19,7 +19,6 @@ INI: +6
 perception: +10
 AC: 20, touch 13, flat-footed 18 (armor +7, deflection +1, dex +2)
 HP: 89
-HP_extra: 
 HD: 9d8+27
 saves: Fort +11, Ref +6, Will +11
 speed: 20 ft.

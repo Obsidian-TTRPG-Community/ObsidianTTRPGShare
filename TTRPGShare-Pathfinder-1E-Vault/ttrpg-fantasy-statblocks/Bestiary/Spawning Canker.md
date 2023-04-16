@@ -5,7 +5,7 @@ name: Spawning Canker
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 46: Wake of the Watcher"
+source: "Pathfinder No. 46: Wake of the Watcher"
 Monster_CR: 9
 name: Spawning Canker
 Monster_XP: 6400
@@ -17,7 +17,6 @@ perception: +15
 senses: darkvision
 AC: 21, touch 17, flat-footed 16 (dex +6, dodge +1, natural +6)
 HP: 115
-HP_extra: 
 HD: 10d8+70
 saves: Fort +12, Ref +11, Will +9
 immune: mind-affecting effects
@@ -36,6 +35,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Feeding (Ex)

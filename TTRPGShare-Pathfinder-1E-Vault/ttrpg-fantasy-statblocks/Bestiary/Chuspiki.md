@@ -5,7 +5,7 @@ name: Chuspiki
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 2
 name: Chuspiki
 Monster_XP: 600
@@ -18,7 +18,6 @@ perception: +3
 senses: darkvision, low-light vision, scent
 AC: 15, touch 15, flat-footed 12 (dex +3, size +2)
 HP: 19
-HP_extra: 
 HD: 3d10+3
 saves: Fort +4, Ref +6, Will +0
 defensive_abilities: wind blessed, wind form
@@ -40,6 +39,7 @@ ecology:
     desc: warm hills or mountains
   - name: Organisation
     desc: solitary, pair, or flock (6-10)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Air Blast (Sp)

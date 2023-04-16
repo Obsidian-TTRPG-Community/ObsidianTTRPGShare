@@ -5,7 +5,7 @@ name: Samsaran
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/2
 name: Samsaran
 Monster_XP: 200
@@ -20,7 +20,6 @@ perception: +8
 senses: low-light vision
 AC: 15, touch 12, flat-footed 13 (armor +3, dex +2)
 HP: 11
-HP_extra: 
 HD: 1d8+3
 saves: Fort +0, Ref +2, Will +4
 saves_other: +2 vs. death effects, negative energy effects, negative levels

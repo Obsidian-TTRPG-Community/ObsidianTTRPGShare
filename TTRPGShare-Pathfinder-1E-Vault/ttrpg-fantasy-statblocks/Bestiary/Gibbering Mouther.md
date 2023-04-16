@@ -5,7 +5,7 @@ name: Gibbering Mouther
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 5
 name: Gibbering Mouther
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +12
 senses: all-around vision, darkvision
 AC: 19, touch 13, flat-footed 16 (dex +3, natural +6)
 HP: 46
-HP_extra: 
 HD: 4d8+28
 saves: Fort +8, Ref +4, Will +5
 immune: critical hits, precision damage
@@ -39,6 +38,7 @@ ecology:
     desc: any underground
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: All-Around Vision (Ex)

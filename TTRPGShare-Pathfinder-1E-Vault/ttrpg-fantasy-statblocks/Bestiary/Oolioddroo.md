@@ -5,7 +5,7 @@ name: Oolioddroo
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 6"
+source: "Bestiary 6"
 Monster_CR: 13
 name: Oolioddroo
 Monster_XP: 25600
@@ -18,7 +18,6 @@ perception: +32
 senses: darkvision, see thoughts
 AC: 28, touch 22, flat-footed 20 (deflection +4, dex +7, dodge +1, natural +6)
 HP: 175
-HP_extra: 
 HD: 14d10+98
 saves: Fort +11, Ref +16, Will +16
 immune: electricity, mind-affecting effects, poison
@@ -44,6 +43,7 @@ ecology:
     desc: any (Abyss)
   - name: Organisation
     desc: solitary, pair, or cult (3-6)
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Oviposition (Su)

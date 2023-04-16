@@ -5,7 +5,7 @@ name: Blackwood Satyr
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Fey Revisited"
+source: "Fey Revisited"
 Monster_CR: 7
 name: Blackwood Satyr
 Monster_XP: 3200
@@ -17,7 +17,6 @@ senses: low-light vision
 aura: incorrigible charm
 AC: 20, touch 16, flat-footed 14 (dex +5, dodge +1, natural +4)
 HP: 83
-HP_extra: 
 HD: 9d6+52
 saves: Fort +6, Ref +11, Will +9
 DR: 10/cold iron

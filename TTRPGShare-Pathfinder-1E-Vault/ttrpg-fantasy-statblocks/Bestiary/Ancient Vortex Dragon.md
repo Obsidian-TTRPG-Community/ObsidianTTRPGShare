@@ -5,7 +5,7 @@ name: Ancient Vortex Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 19
 name: Ancient Vortex Dragon
 Monster_XP: 204800
@@ -19,7 +19,6 @@ senses: dragon senses, see in darkness
 aura: alien presence
 AC: 39, touch 6, flat-footed 39 (natural +33, size -4)
 HP: 337
-HP_extra: 
 HD: 25d12+175
 saves: Fort +23, Ref +16, Will +20
 immune: fire, paralysis, sleep
@@ -44,6 +43,7 @@ ecology:
     desc: vacuum
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

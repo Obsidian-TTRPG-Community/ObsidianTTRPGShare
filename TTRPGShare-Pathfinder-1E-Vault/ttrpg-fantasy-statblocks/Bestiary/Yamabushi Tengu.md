@@ -5,7 +5,7 @@ name: Yamabushi Tengu
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 49: The Brinewall Legacy"
+source: "Pathfinder No. 49: The Brinewall Legacy"
 Monster_CR: 5
 name: Yamabushi Tengu
 Monster_XP: 1600

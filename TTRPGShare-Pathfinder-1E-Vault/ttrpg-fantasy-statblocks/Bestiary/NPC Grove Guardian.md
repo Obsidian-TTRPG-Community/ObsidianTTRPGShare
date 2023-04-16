@@ -5,7 +5,7 @@ name: NPC Grove Guardian
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "NPC Codex"
+source: "NPC Codex"
 Monster_CR: 17
 name: NPC Grove Guardian
 Monster_XP: 102400
@@ -20,7 +20,6 @@ perception: +24
 senses: low-light vision
 AC: 31, touch 27, flat-footed 24 (armor +4, deflection +1, dex +6, dodge +1, monk +4, wis +5)
 HP: 148
-HP_extra: 
 HD: 18d8+64
 saves: Fort +16, Ref +19, Will +18
 saves_other: +4 vs. enchantments

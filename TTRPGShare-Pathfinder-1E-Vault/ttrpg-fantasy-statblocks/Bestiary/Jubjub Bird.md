@@ -5,7 +5,7 @@ name: Jubjub Bird
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 15
 name: Jubjub Bird
 Monster_XP: 51200
@@ -43,6 +43,7 @@ ecology:
     desc: temperate or warm forests
   - name: Organisation
     desc: solitary or pair
+  - name: Treasure
     desc: incidental
 special_abilities:
   - name: Adaptive Defense (Su)

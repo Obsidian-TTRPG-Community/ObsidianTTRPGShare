@@ -5,7 +5,7 @@ name: Trumpeter Swan
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 1/3
 name: Trumpeter Swan
 Monster_XP: 135
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 5
-HP_extra: 
 HD: 1d8+1
 saves: Fort +3, Ref +4, Will +1
 speed: 10 ft., fly 100 ft. (average)
@@ -33,6 +32,7 @@ ecology:
     desc: temperate lakes or swamps
   - name: Organisation
     desc: solitary, pair, or flock (3-10)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

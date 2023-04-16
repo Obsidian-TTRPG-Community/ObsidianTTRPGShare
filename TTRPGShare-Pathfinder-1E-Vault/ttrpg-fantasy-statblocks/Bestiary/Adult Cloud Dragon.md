@@ -5,7 +5,7 @@ name: Adult Cloud Dragon
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 2"
+source: "Bestiary 2"
 Monster_CR: 13
 name: Adult Cloud Dragon
 Monster_XP: 25600
@@ -19,7 +19,6 @@ senses: dragon senses, mist vision
 aura: frightful presence
 AC: 29, touch 7, flat-footed 29 (dex -1, natural +22, size -2)
 HP: 184
-HP_extra: 
 HD: 16d12+80
 saves: Fort +15, Ref +9, Will +15
 immune: electricity, paralysis, sleep
@@ -43,6 +42,7 @@ ecology:
     desc: any sky (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: triple
 known_spells:
   - name:

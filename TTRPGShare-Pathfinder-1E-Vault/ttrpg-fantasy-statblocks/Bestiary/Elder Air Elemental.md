@@ -5,7 +5,7 @@ name: Elder Air Elemental
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder RPG Bestiary"
+source: "Pathfinder RPG Bestiary"
 Monster_CR: 11
 name: Elder Air Elemental
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +19
 senses: darkvision
 AC: 28, touch 20, flat-footed 16 (dex +11, dodge +1, natural +8, size -2)
 HP: 152
-HP_extra: 
 HD: 16d10+64
 saves: Fort +14, Ref +21, Will +7
 immune: elemental traits

@@ -5,7 +5,7 @@ name: Thorny
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Darklands Revisited"
+source: "Darklands Revisited"
 Monster_CR: 3
 name: Thorny
 Monster_XP: 800
@@ -17,7 +17,6 @@ perception: -1
 senses: darkvision, low-light vision
 AC: 16, touch 13, flat-footed 13 (dex +3, natural +3)
 HP: 26
-HP_extra: 
 HD: 4d8+8
 saves: Fort +6, Ref +4, Will +0
 immune: electricity, plant traits

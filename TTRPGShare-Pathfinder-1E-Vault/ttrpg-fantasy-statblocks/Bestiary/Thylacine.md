@@ -5,7 +5,7 @@ name: Thylacine
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 1/2
 name: Thylacine
 Monster_XP: 200
@@ -17,7 +17,6 @@ perception: +8
 senses: low-light vision
 AC: 13, touch 13, flat-footed 11 (dex +2, size +1)
 HP: 7
-HP_extra: 
 HD: 1d8+3
 saves: Fort +5, Ref +4, Will +1
 speed: 30 ft.
@@ -34,6 +33,7 @@ ecology:
     desc: warm hills
   - name: Organisation
     desc: solitary or pack (2-5)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Powerful Jaws (Ex)

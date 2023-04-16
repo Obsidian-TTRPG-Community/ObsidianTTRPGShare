@@ -5,7 +5,7 @@ name: Sea Cat
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 4"
+source: "Bestiary 4"
 Monster_CR: 4
 name: Sea Cat
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, low-light vision, scent
 AC: 18, touch 10, flat-footed 17 (dex +1, natural +8, size -1)
 HP: 45
-HP_extra: 
 HD: 6d10+12
 saves: Fort +7, Ref +6, Will +5
 speed: 10 ft., swim 40 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: warm coastlines
   - name: Organisation
     desc: solitary, pair, or pride (3-15)
+  - name: Treasure
     desc: none
 sources:
   - name: Bestiary 4

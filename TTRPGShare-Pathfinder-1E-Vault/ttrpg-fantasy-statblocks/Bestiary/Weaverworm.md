@@ -5,7 +5,7 @@ name: Weaverworm
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 45: Broken Moon"
+source: "Pathfinder No. 45: Broken Moon"
 Monster_CR: 8
 name: Weaverworm
 Monster_XP: 4800
@@ -17,7 +17,6 @@ perception: +10
 senses: darkvision, tremorsense
 AC: 20, touch 12, flat-footed 16 (dex +6, natural +8, size -2)
 HP: 95
-HP_extra: 
 HD: 10d8+50
 saves: Fort +7, Ref +7, Will +9
 speed: 30 ft., burrow 10 ft., climb 30 ft.
@@ -37,6 +36,7 @@ ecology:
     desc: any forests or hills
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: standard
 special_abilities:
   - name: Drag (Ex)

@@ -5,7 +5,7 @@ name: Aerial Servant
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 11
 name: Aerial Servant
 Monster_XP: 12800
@@ -18,7 +18,6 @@ perception: +16
 senses: darkvision
 AC: 23, touch 16, flat-footed 17 (dex +6, natural +7)
 HP: 149
-HP_extra: 
 HD: 13d10+78
 saves: Fort +10, Ref +14, Will +10
 immune: elemental traits
@@ -42,6 +41,7 @@ ecology:
     desc: any (Plane of Air)
   - name: Organisation
     desc: solitary
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Improved Tracking (Ex)

@@ -5,7 +5,7 @@ name: Kapoacinth Hunter
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Pathfinder No. 48: Shadows of Gallowspire"
+source: "Pathfinder No. 48: Shadows of Gallowspire"
 Monster_CR: 7
 name: Kapoacinth Hunter
 Monster_XP: 3200

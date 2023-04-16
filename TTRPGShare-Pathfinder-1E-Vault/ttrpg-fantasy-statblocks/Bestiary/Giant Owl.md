@@ -5,7 +5,7 @@ name: Giant Owl
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 3"
+source: "Bestiary 3"
 Monster_CR: 5
 name: Giant Owl
 Monster_XP: 1600
@@ -17,7 +17,6 @@ perception: +17
 senses: low-light vision
 AC: 18, touch 10, flat-footed 16 (dex +2, natural +8, size -2)
 HP: 57
-HP_extra: 
 HD: 6d10+24
 saves: Fort +9, Ref +7, Will +5
 speed: 10 ft., fly 60 ft. (average)
@@ -43,6 +42,7 @@ ecology:
     desc: temperate forests
   - name: Organisation
     desc: solitary, pair, or roost (3-10)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Animal Telepathy (Su)

@@ -5,7 +5,7 @@ name: Dvorovoi
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
-source:  "Bestiary 5"
+source: "Bestiary 5"
 Monster_CR: 4
 name: Dvorovoi
 Monster_XP: 1200
@@ -17,7 +17,6 @@ perception: +9
 senses: low-light vision, scent
 AC: 17, touch 14, flat-footed 14 (dex +3, natural +3, size +1)
 HP: 38
-HP_extra: 
 HD: 7d6+14
 saves: Fort +4, Ref +8, Will +6
 DR: 5/cold iron
@@ -40,6 +39,7 @@ ecology:
     desc: any land
   - name: Organisation
     desc: solitary or gathering (2-6)
+  - name: Treasure
     desc: none
 special_abilities:
   - name: Oversized Weapons (Ex)
