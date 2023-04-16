@@ -13,7 +13,7 @@ level: 16
 
 The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblock Layout.
 
-![Release 1.3 of PF2E - Stylesettings](_attachments/PF2E-1.3-StyleSettings.gif)
+![Release 1.5 of PF2E - Stylesettings](_attachments/PF2E-1.3-StyleSettings.gif)
 
 ## Features
 
@@ -39,25 +39,19 @@ The Obsidian TTRPG Share team presents the Pathfinder 2nd Editioon TTRPG Statblo
 ![Obsidian-Installer-Screenshot](_attachments/Obsidian-Installer-Screenshot.png)
 
 **You will need the following plugins**:
-1. [Obsidian TTRPG Statblocks](https://github.com/valentine195/obsidian-5e-statblocks)
+1. [Fantasy Statblocks](https://github.com/valentine195/obsidian-5e-statblocks)
 2. [Obsidian Dice Rollers](https://github.com/valentine195/obsidian-dice-roller)
 
 **We highly recommend also picking up these two optional plugins**:
 1. [Obsidian Initiative Tracker](https://github.com/valentine195/obsidian-initiative-tracker)
 2. [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) - For Coloration Changes as Shown in the Gif.
 
-**You will need the following items**:
-1. The [Pathfinder2E-TTRPG-Statblock-v1.4](_attachments/Pathfinder2E-TTRPG-Statblock-v1.4.css) installed into your `obsidian/snippets` directory.
-2. The [Path2eBlock](_attachments/Path2eBlock.json) file downloaded.
-
-**Once you have those items, you will need to do the following**:
-1. Toggle the Pathfinder CSS snippet to on in `Settings -> Appearances`
-2. Import the .json file into TTRPG Statblocks from the plugin's settings page. 
-3. Use the [Clockwork Dragon](#Clockwork%20Dragon) below to test that the statblock loads correctly.
+**Once you have those items, the Bestiary Items in the Pathfinder 2E TTRPG Statblocks Should Render!**
 
 If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README](../Kingmaker_Layouts/README-PF2E-Kingmaker-Layouts.md). 
 
 > **Note**: As of 1.4 release, style settings options have been expanded for all "Traiting" options per layout. 
+> **Note**: The Statblock is now built into and updated from within Fantasy Statblocks. It is renamed as Basic Pathfinder 2E Layout.
 
 ### Optional Tools
 
@@ -66,7 +60,7 @@ If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README]
 ## Clockwork Dragon
 
 ```statblock
-layout: Path2eBlock
+layout: Basic Pathfinder 2E Layout
 statblock: true
 source: "B3"
 name: "Clockwork Dragon"
@@ -118,6 +112,7 @@ attacks:
   - name: Melee
     desc: "⬻ wing +31 ([[agile]], [[reach|reach 15 feet]]); __Damage__ 2d10+15 (2d10+15) piercing."
 
+token:
 sourcebook: "_Bestiary 3_, page 51."
 ```
 
