@@ -9,7 +9,7 @@ Use this section below once you have installed the statblock .json of choice and
 ## Action Statblock
 
 ```statblock
-layout: Path2eBlockAct
+layout: Pathfinder 2e Action
 statblock: true
 
 name: "Action Name"
@@ -35,7 +35,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 ## Hazard Statblock
 
 ```statblock
-layout: Path2eBlockHaz
+layout: Pathfinder 2e Hazard
 statblock: true
 
 name: "Hazard Name"
@@ -84,7 +84,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 ## Influence Statblock
 
 ```statblock
-layout: Path2eBlockInf
+layout: Pathfinder 2e Influence
 statblock: true
 
 name: "Creature Name"
@@ -136,7 +136,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 ## Misc Statblock
 
 ```statblock
-layout: Path2eBlockMisc
+layout: Pathfinder 2e Misc
 statblock: true
 
 name: "Misc Name"
@@ -155,7 +155,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 ## Quest Statblock
 
 ```statblock
-layout: Path2eBlockQuest
+layout: Pathfinder 2e Quest
 
 icon: [](_attachments/pf2e-quest-icon.png)
 
@@ -179,7 +179,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 ## Settlement Statblock
 
 ```statblock
-layout: Path2eBlockSet
+layout: Pathfinder 2e Settlement
 statblock: true
 
 name: "Settlement Name"
