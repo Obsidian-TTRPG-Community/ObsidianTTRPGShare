@@ -1,19 +1,21 @@
 ---
-alias: Phantasmal Revenge
+aliases: [Phantasmal Revenge]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantasmal Revenge 
+## Phantasmal Revenge
 
 **source**:: Advanced Player's Guide pg. 235  
 **school**:: illusion (phantasm) (emotion, fear, mind-affecting)
 **level**:: arcanist 7, mesmerist 6, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch and unlimited; see text  
 **target**:: dead body touched  
@@ -21,7 +23,7 @@ alias: Phantasmal Revenge
 **saving-throw**:: Will disbelief then Fortitude partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 When you cast this eerie spell upon a recently slain creature, you cause a ghastly, spectral image of it to rise up from its corpse, shrieking for vengeance before it vanishes in a burst of unnatural light. This phantom then unerringly seeks out the creature that killed it, as long as that creature is on the same plane, and tries to slay its killer in turn.  
   

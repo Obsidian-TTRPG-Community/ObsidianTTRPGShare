@@ -1,19 +1,21 @@
 ---
-alias: Unholy Sword
+aliases: [Unholy Sword]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Unholy Sword 
+## Unholy Sword
 
 **source**:: Ultimate Magic pg. 245  
 **school**:: evocation (evil)
 **level**:: antipaladin 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: melee weapon touched  
@@ -21,7 +23,7 @@ alias: Unholy Sword
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell allows you to channel the powers of evil into your sword, or any other melee weapon you choose. The weapon acts as a *+5 unholy weapon* (+5 enhancement bonus on attack and damage rolls, extra 2d6 damage against good opponents). It also emits a *magic circle against good* effect (as the spell). If the *magic circle* ends, the sword creates a new one on your turn as a free action. The spell is automatically canceled 1 round after the weapon leaves your hand. You cannot have more than one *unholy sword* at a time.  
   

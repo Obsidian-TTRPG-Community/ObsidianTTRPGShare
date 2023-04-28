@@ -1,25 +1,27 @@
 ---
-alias: Shock Shield
+aliases: [Shock Shield]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shock Shield 
+## Shock Shield
 
 **source**:: Ultimate Combat pg. 243  
 **school**:: abjuration (electricity, force)
 **level**:: alchemist 1, arcanist 1, bloodrager 1, investigator 1, magus 1, occultist 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minutes/level (D)
 
-### Description 
+### Description
 
 This spell creates an invisible shield similar to but not as strong as the *shield* spell. This shield hovers in front of you and negates *magic missile* attacks directed at you. The disk provides a +2 shield bonus to AC. This bonus applies against incorporeal touch attacks.  
   

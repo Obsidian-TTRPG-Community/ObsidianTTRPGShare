@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Armored Ogre Skeleton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,9 +39,9 @@ sources:
   - name: Pathfinder No. 44: Trial of the Beast
     desc: 86
 ```
-# Description
+## Description
 Armored skeletons are normal skeletons given heavier varieties of armor and weapons to serve as elite troops in undead armies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Armored%20Ogre%20Skeleton)
 ```encounter-table
 name: Armored Ogre Skeleton

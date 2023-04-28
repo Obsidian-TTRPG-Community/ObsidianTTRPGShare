@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Half-Fiend (Minotaur)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 171
 desc_short: This fiendish figure, complete with bat wings, claws, a fanged bull’s head, and cloven feet, bellows a roar of challenge.
 ```
-# Description
+## Description
 *Minotaur abilityDescriptionHalf-fiends are creatures heavily tainted with demonic, infernal, or other evil power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Half-Fiend%20(Minotaur))
 ```encounter-table
 name: Half-Fiend (Minotaur)

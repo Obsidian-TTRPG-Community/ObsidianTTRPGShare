@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Savage Mercenary
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 10
 ```
-# Description
+## Description
 This cold, merciless barbarian fights for gold and glory.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Savage%20Mercenary)
 ```encounter-table
 name: NPC Savage Mercenary

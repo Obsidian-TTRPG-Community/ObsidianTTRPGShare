@@ -1,25 +1,27 @@
 ---
-alias: Mythic Vermin Shape II
+aliases: [Mythic Vermin Shape II]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Vermin Shape II
+## Mythic Vermin Shape II
 
 **source**:: Mythic Origins pg. 13  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 5, arcanist 5, druid 4, hunter 4, investigator 5, magus 5, sorcerer 5, witch 4, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 This spell functions as *vermin shape I*, except it also allows you to assume the form of a Tiny or Large creature of the vermin type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, tremorsense 30 feet, scent, blood drain, constrict, grab, lunge, poison, pull, trample, and web. You don’t gain full immunity to mind-affecting effects, but you do gain a +4 bonus on all saving throws against such effects.  
   

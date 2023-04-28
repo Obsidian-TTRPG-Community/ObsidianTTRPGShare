@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shriezyx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 60
 desc_short: An oversized, eight-legged monstrosity stares ravenously from its three beady eyes, its gaping maw dripping with green venom.
 ```
-# Description
+## Description
 Devised by a cabal of ancient wizards to serve as guardians for monuments and laboratories, shriezyx are horrific spiderlike aberrations created in arcane vats out of the flesh of many different creatures. Having outlived their creators, they continue to lurk in ruins, caves, and the deep places of the world, spreading far beyond the original city where they were created.
 
 Shriezyx have no natural place in the ecology, but easily fill the niche of any predator of comparable strength. They can subsist on rats and other vermin for long periods of time, but relish the opportunity for a more substantial meal. Derros, drow, and other subterranean races sometimes use them as guards or mounts, or subject them to torturous experimentation. These races use bribes of food and the threat of fire to keep the creatures in line.
 
 Shriezyx can reproduce with their own kind or lay unfertilized eggs that hatch into identical copies of their parent. Eggs remain viable for years, hatching after exposure to water, fresh air, or consistent warmth. A typical shriezyx is 3 feet tall and weighs 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shriezyx)
 ```encounter-table
 name: Shriezyx

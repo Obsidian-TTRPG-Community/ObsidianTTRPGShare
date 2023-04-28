@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cutlass Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 84
 desc_short: This spiderlike creature seems to be made entirely out of weapons and splintered planks, its legs ending in curved blades.
 ```
-# Description
+## Description
 Named for their association with mages in the service of privateer crews and pirate lords, cutlass spiders serve their creators as enforcers, bodyguards, and occasionally assassins. They are 8 feet long and weigh 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cutlass%20Spider)
 ```encounter-table
 name: Cutlass Spider

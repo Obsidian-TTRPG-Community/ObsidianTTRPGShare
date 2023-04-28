@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ixion Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 90
 desc_short: A cyclopean face stretches grotesquely across the hub of a tall, knobby wheel of bone.
 ```
-# Description
+## Description
 Ixion worms are both literal and figurative cogs in Phlegethon’s workings. Each is forged of flesh stretched over massive bones, and each bears the identical face of a hypnotically entrancing male cyclops. Its bones can slither as a crooked serpent or join at the ends to form a wheel, with its face freely sliding around the structure to spin on one side of the hub as it rolls itself around. The rotation amplifies the ixion worm’s hypnotic abilities, which it uses to motivate Phlegethon’s petitioners into working harder in the layer’s mines and forges.
 
 The ixion worm’s mouth dribbles with a prismatic oily residue that corrodes and absorbs the souls of whatever creatures with which it mingles. The worm’s size and mass-5 feet wide, 9 feet in radius in wheel form, nearly 30 feet long unrolled, and 600 pounds in weight- also make the creature a terrifying physical force as it careens down the narrow paths of Phlegethon’s crags. The ixion worm’s entrancing gaze and mental powers, however, are what make it an effective and intimidating enforcer; few of Phlegethon’s lesser inhabitants consider challenging what they quickly believe is their only friend in Hell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ixion%20Worm)
 ```encounter-table
 name: Ixion Worm

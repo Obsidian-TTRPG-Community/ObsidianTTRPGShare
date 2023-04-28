@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ragewight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 58
 desc_short: This desiccated corpse wields a greatsword, its eyes blazing with eerie red light.
 ```
-# Description
+## Description
 Ragewights are the spirits of savage warriors who died in a rage and have since had their burial places disturbed or robbed. They are most common near the necropolis of Nogortha, a vast graveyard that includes many barrows of barbarians slain in 1707 ar by the expansionist forces of Taldor. Grave robbers plundering such barrows occasionally unleash a ragewight, which immediately sets out to build an undead army of spawn and wage war against those who slew it centuries ago.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ragewight)
 ```encounter-table
 name: Ragewight

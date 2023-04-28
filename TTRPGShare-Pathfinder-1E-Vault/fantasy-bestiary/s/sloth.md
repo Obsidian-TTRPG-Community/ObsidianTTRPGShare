@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sloth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: Bestiary 4
     desc: 97
 ```
-# Description
+## Description
 Sloths are tree-dwelling herbivores. They are known for their efficient metabolisms and slow movement.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sloth)
 ```encounter-table
 name: Sloth

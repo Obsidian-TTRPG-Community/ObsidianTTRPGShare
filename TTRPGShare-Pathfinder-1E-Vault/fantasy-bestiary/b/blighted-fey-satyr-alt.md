@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blighted Fey (Satyr)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 6
 desc_short: Ropes of fungus and patches of sickly mold cover this wan satyr.
 ```
-# Description
+## Description
 The forest of Fangwood dominates the nation of Nirmathas. The country depends on the mighty wood for its security and economy, yet in its thick and shadowy depths lurks an oppressive curse. Where the pine trees grow tall and thick, the dryad Arlantia reigns. A pawn of the demon lord Cyth-V’sug, she is infected by the insidious tendrils of the Prince of the Blasted Heath. A magical breach forged by this curse connects the demon lord’s realm, the Jeharlu, to Golarion and to the First World itself. Arlantia infects trees with demonic ichor that warps the fey creatures who reside in the heart of Fangwood, and she takes advantage of the conf lict and war that wracks Nirmathas to create an army of thorncrowned daughters and other rot-infested horrors to consume the forest from within.
 
 The blight manifests as a black and greasy fungal rot that moves and sways tree branches and limbs where no wind propels them, and a mystic network of fell power extends an unnatural awareness between nearby blighted fey. Dryads are by far the most insidious of the corrupted fey; they lure humanoids to literally and spiritually dark places to beget more daughters from their dark embrace- and further spread the disease. The dryads connect through a unified but tainted mystic field that transcends their ordinary limitations and permits them to treat every infected tree as if it were their own bonded tree.
 
 Only magic such as miracle, limited wish, or wish can sever the connection to the Jeharlu and cure a blighted fey. Some speculate that a magical linchpin exists within Fangwood, which if destroyed would end this hideous plague.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blighted%20Fey%20(Satyr))
 ```encounter-table
 name: Blighted Fey (Satyr)

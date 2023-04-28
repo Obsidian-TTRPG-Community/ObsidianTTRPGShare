@@ -1,19 +1,21 @@
 ---
-alias: Mythic Wall of Fire
+aliases: [Mythic Wall of Fire]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Wall of Fire
+## Mythic Wall of Fire
 
 **source**:: Mythic Adventures pg. 111  
 **school**:: evocation (fire)
 **level**:: adept 4, arcanist 4, bloodrager 4, druid 5, hunter 5, magus 4, occultist 4, shaman 5, sorcerer 4, summoner 3, summoner (unchained) 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a piece of phosphor)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high  
@@ -21,7 +23,7 @@ alias: Mythic Wall of Fire
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 An immobile, blazing curtain of shimmering violet fire springs into existence. One side of the wall, selected by you, sends forth waves of heat, dealing 2d4 points of fire damage to creatures within 10 feet and 1d4 points of fire damage to those past 10 feet but within 20 feet. The wall deals this damage when it appears, and to all creatures in the area on your turn each round. In addition, the wall deals 2d6 points of fire damage + 1 point of fire damage per caster level (maximum +20) to any creature passing through it. The wall deals double damage to undead creatures.  
   

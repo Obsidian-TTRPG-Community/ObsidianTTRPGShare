@@ -1,19 +1,21 @@
 ---
-alias: Shadow Weapon
+aliases: [Shadow Weapon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Weapon 
+## Shadow Weapon
 
 **source**:: Ultimate Magic pg. 237  
 **school**:: illusion (shadow) (shadow)
 **level**:: arcanist 1, bloodrager 1, occultist 1, psychic 1, redmantisassassin 1, sorcerer 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: one shadow weapon  
@@ -21,7 +23,7 @@ alias: Shadow Weapon
 **saving-throw**:: Will disbelief (if interacted with)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Drawing upon the Plane of Shadow, you shape a quasi-real masterwork melee weapon of a type you are proficient with. You may use this weapon to make attacks as if it were a real weapon, dealing normal damage for a weapon of its type. The first time you hit a creature with the weapon, it may make a Will save to disbelieve; failure means the weapon deals damage normally, success means it only takes 1 point of damage from the weapon’s attacks. The weapon only deals 1 point of damage to objects.  
   
@@ -31,7 +33,7 @@ At 5th level, the weapon gains a +1 enhancement bonus. At 10th-level, you may in
   
 The spell ends if the weapon leaves your possession.
 
-## Mythic Shadow Weapon 
+## Mythic Shadow Weapon
 
 **source**:: Mythic Adventures pg. 107  
 Add your tier to your caster level when determining what enhancement bonus or weapon special abilities the weapon can have. The weapon deals half damage to creatures that disbelieve in it and to objects, instead of only 1 point.  

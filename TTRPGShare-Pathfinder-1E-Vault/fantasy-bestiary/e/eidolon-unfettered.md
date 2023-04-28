@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eidolon, Unfettered
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 110
 desc_short: This bizarre amalgam of monstrous parts rampages forth, an eldritch rune seared upon its forehead.
 ```
-# Description
+## Description
 An eidolon is usually tied to a summoner who forges an unbreakable link with a being not of his world, calling upon it and sending it back to its otherworldly home as he needs. When a summoner dies, this link is destroyed and the eidolon is banished back from whence it came. Occasionally, however, this link between eidolon and summoner is unnaturally severed, usually as a result of powerful magic or some bizarre death, freeing the eidolon upon the world. Few can predict what specific events might cause an eidolon to become unfettered, but those that do become stranded on a plane alien to them, released to act as they please. An eidolon that loses its link to its summoner loses its link to its home realm, and many unfettered eidolons go mad, the glowing runes that once represented their bonds burning painful scars onto their bodies. Unfettered eidolons are not quite as powerful as normal eidolons, but without their evolutions tied to their summoners’ whims, these bizarre and varied creatures continue to evolve and advance on their own.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eidolon%2C%20Unfettered)
 ```encounter-table
 name: Eidolon, Unfettered

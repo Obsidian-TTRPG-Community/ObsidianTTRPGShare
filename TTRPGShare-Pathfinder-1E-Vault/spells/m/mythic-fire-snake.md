@@ -1,19 +1,21 @@
 ---
-alias: Mythic Fire Snake
+aliases: [Mythic Fire Snake]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fire Snake
+## Mythic Fire Snake
 
 **source**:: Mythic Adventures pg. 94  
 **school**:: evocation (fire)
 **level**:: arcanist 5, druid 5, hunter 5, magus 5, occultist 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a snake scale)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: see text  
@@ -21,7 +23,7 @@ alias: Mythic Fire Snake
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a sinuous line of flames that you may shape as desired. The *fire snake* affects one 5-foot square per caster level, and each square must be adjacent to the previous square, starting with you. The *fire snake* may not extend beyond its maximum range. Creatures in the path of the *fire snake* take 1d6 points of fire damage per caster level (maximum 15d6).
 

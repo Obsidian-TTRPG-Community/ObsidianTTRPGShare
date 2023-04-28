@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Bleachling Lunatic
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 12
 ```
-# Description
+## Description
 As a gnome reaches adulthood, experiencing new things becomes more than just an expression of the race’s curiosity-it becomes a perpetual need if the gnome is to avoid the aff liction known as the Bleaching. If a gnome isn’t suff iciently stimulated, her bright coloration fades into white, gray, and earth tones, and her curiosity and mental faculties fade proportionally. This is usually fatal unless she’s able to stave off the condition with extremely stimulating circumstances.
 
 In rare instances a gnome survives the final stages of the Bleaching through sheer willpower; such gnomes are forever changed by the event and are known thereafter as bleachlings. A bleachling recovers almost entirely from the Bleaching’s wasting effects and gains an intuitive connection to nature. In addition, having thwarted death once, the bleachling does not visibly age until death claims her several centuries later. Bleachlings rarely exhibit the same excitability and curiosity that marks other gnomes, though some retain a singular obsession from earlier in life. Most gnomes find bleachlings extremely unsettling-living reminders of the undesirable fate that awaits if they’re idle.
 
 Nowhere in the Inner Sea region are bleachlings more common than in the gnome settlements on Irrere, in the Ironbound Archipelago. These bleachlings serve as mystics, and ban all creatures but themselves from entering the mysterious Shay Citadels, as the citadels unpredictably phase out of existence, leaving all non-bleachlings behind at unknown destinations when they phase back into the Material Plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Bleachling%20Lunatic)
 ```encounter-table
 name: NPC Bleachling Lunatic

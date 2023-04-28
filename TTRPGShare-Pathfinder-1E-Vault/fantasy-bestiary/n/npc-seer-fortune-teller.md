@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Seer (Fortune Teller)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: GameMastery Guide
     desc: 299
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Seer%20(Fortune%20Teller))
 ```encounter-table
 name: NPC Seer (Fortune Teller)

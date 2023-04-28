@@ -1,19 +1,21 @@
 ---
-alias: Mythic Sun Metal
+aliases: [Mythic Sun Metal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Sun Metal
+## Mythic Sun Metal
 
 **source**:: Mythic Adventures pg. 109  
 **school**:: transmutation (fire)
 **level**:: cleric 1, hunter 1, oracle 1, paladin 1, ranger 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one melee weapon  
@@ -21,7 +23,7 @@ alias: Mythic Sun Metal
 **saving-throw**:: Fortitude negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 The target weapon ignites into flame that does not hurt the weapon or the wielder, but damages those hit by the weapon. When the weapon’s wielder hits with this weapon, it deals an additional 1d4 points of fire damage. This damage is not multiplied in the case of a critical hit. This effect immediately ends if the weapon is submerged in water. This effect does not stack with the *flaming* or *flaming burst* weapon special ability or any other effect that grants the weapon extra fire damage. It does not function on weapons with the *frost* or *icy burst* weapon special ability or any other effect that grants a weapon extra cold damage.
 

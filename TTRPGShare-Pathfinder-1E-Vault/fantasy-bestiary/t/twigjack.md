@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Twigjack
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 274
 desc_short: This tiny, vaguely humanoid creature seems to be made completely of bundles of sticks wound with thorny vines.
 ```
-# Description
+## Description
 Deep in old-growth forests, twigjacks spend their time tormenting intruders and wreaking havoc on settlers. Maladjusted protectors of the wood, these malicious fey constantly threaten any attempts to civilize the wild. Twigjacks delight in breaking wagon wheels from expansionists’ caravans, snapping hunters’ bows, and sabotaging isolated cabins and villages. Although they possess a keen intellect, few creatures, even other fey, can tolerate these twig-born creatures for long. Treants especially find twigjacks bothersome, and resent any suggestion that they are related. Equally, 
 
 twigjacks resent being considered plants, and are proud 
@@ -60,7 +62,7 @@ of their fey heritage. Twigjacks sometimes go out of their way to impress dryads
 into service.
 
 Gnarled sticks bundled by vines and brambles form a twigjack’s entire body. Atop its head, a mossy growth not unlike hair sprouts. The creature’s eyes appear as vacant dark knotholes, and its mouth is just a canyon of splintered and broken sticks bisecting its face. Leaves and sprigs of new growth randomly sprout from the creature’s body.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Twigjack)
 ```encounter-table
 name: Twigjack

@@ -1,19 +1,21 @@
 ---
-alias: Scouring Winds
+aliases: [Scouring Winds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Scouring Winds 
+## Scouring Winds
 
 **source**:: Ultimate Magic pg. 236  
 **school**:: evocation (air, earth)
 **level**:: arcanist 7, druid 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: sandstorm in 20-ft. radius, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Scouring Winds
 **saving-throw**:: none
 **spell-resistance**:: yes (see text)
 
-### Description 
+### Description
 
 This spell brings forth a windstorm of stinging sand that blocks all vision. You can move the storm up to 30 feet each round as a move action.  
   
@@ -29,7 +31,7 @@ Any creature in the area takes 3d6 points of piercing damage each round. The are
   
 If a creature with spell resistance successfully resists this spell, it is unaffected by the winds and sand, but still unable to see within the area of the spell.
 
-## Mythic Scouring Winds 
+## Mythic Scouring Winds
 
 **source**:: Mythic Adventures pg. 107  
 The spell’s damage increases to 4d8 points of piercing damage. Any creature in the area at the start of your turn must succeed at a Reflex save or be blinded for as long as it remains in the area and for 1d4 rounds after it leaves.  

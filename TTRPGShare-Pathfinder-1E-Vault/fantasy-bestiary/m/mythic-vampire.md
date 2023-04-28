@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Vampire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 220
 desc_short: This aristocratic figure could easily pass for human if not for the grave-pale skin, red eyes, and long fangs.
 ```
-# Description
+## Description
 A mythic vampire has ties to the earliest of its kind, being either one of the first vampires or the offspring of such ancient creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Vampire)
 ```encounter-table
 name: Mythic Vampire

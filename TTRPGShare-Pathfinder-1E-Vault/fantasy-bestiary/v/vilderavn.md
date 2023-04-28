@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vilderavn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 268
 desc_short: This knight wears armor patterned like raven feathers with a helmet shaped like a raven’s head and gauntlets fit for oversized talons.
 ```
-# Description
+## Description
 A vilderavn is a malicious shapechanging spirit whose typical form is that of an oversized raven with a wingspan of 6 to 8 feet that stands 2 to 3 feet tall. Vilderavns sometimes roam in the shape of wolves or dire wolves, and are known to appear as monstrous raven-wolf hybrids akin to black-feathered perytons. They can also walk in humanoid guise when they wish, often assassinating victims of rank and assuming their victims’ places. They have an unusual affection for their swords, often granting them threatening names.
 
  Vilderavns are drawn to war and suffering, often haunting battlefields-especially during protracted sieges. They are particularly drawn toward rulers and commanders, and might insinuate themselves into the confidence of leaders with their clever tongues and deft rumor-mongering. They are deceivers and heralds of woe, seeking to lure the rulers of mortal kingdoms into jealous feuds and fruitless wars with one another. To do this, they often cultivate reputations as master duelists, brilliant mercenary leaders, or unjustly banished nobility from distant lands. Regardless of their guises, vilderavns’ advice usually seems wise and perceptive, steeped in an expansive knowledge of history, political rivalries, and cultural clashes, along with insights into the ways of war. Yet while their counsel might lead to early victories, their ultimate purpose is to bring doom to all sides. At the height of the battle, when victory seems nigh, a vilderavn often instigates a wave of betrayal, crippling erstwhile allies and bringing devastation. Only when a ruler’s kingdom or a commander’s army lies in ruins does a vilderavn administer the coup de grace.
@@ -80,7 +82,7 @@ A vilderavn is a malicious shapechanging spirit whose typical form is that of an
  It is said that the first vilderavns were created by a vicious fey lord as a check and counter to the hubris of mortal rulers, especially those who put their trust in armies and steel to drive back the wild lands. The boasting and braggadocio of those mortals who believed they had achieved mastery over the followers of the old ways offended the fey lord, who sent vilderavns to infiltrate their ranks. The vilderavns watched from the shadows and learned the ways of mortals, the better to use their own weapons and strategies against them. In torment and blood, they peeled away the secrets of mortals, laying the last truths of their hearts bare before bestowing the gift of death on them. Even in death, however, a vilderavn’s victims languish, stretched across the threshold of the afterlife yet tethered to the fey spirit’s merciless heart. Their minds are open books for this fey to unravel and use in cruel and hurtful ways.
 
  Vilderavns sometimes amuse themselves by offering false oracular advice or tempting bargains to mortals, promising power in exchange for the blood of innocents. A vilderavn typically claims to be cursed into its animal form, insisting that only innocent blood will release it. If its mark is foolish enough to accept its bargain, the vilderavn often returns wearing the innocent’s flesh to torment its supposed ally and drive her to insanity. A vilderavn might even offer an irony-laced limited wish to sweeten its bargains and truly test a mortal’s resolve.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vilderavn)
 ```encounter-table
 name: Vilderavn

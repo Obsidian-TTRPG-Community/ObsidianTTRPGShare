@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Amphiptere
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 18
 desc_short: This snake-bodied dragon has a sinuous tail with a spiked tip. Flared wings attach to its forelimbs, and it lacks rear legs.
 ```
-# Description
+## Description
 Distantly related to wyverns, amphipteres are equally cruel and prone to violence. Like wyverns, they have serpentine bodies and bat-like wings. Unlike wyverns, however, amphipteres must use the long claws on the tips of their wings to propel their bodies along as they awkwardly leap and soar a few feet off the ground. They’re also longer and much leaner than wyverns, and instead of a wyvern’s poisonous stinger, an amphiptere has a broad, arrow-shaped spur at the end of its long tail. Capable of piercing armor and shattering bone, an amphiptere’s tail skewers prey much like a fisher might spear a fish.
 
 Amphipteres average 18 feet in length, though most of this length is the tail, and they weigh around 1,600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amphiptere)
 ```encounter-table
 name: Amphiptere

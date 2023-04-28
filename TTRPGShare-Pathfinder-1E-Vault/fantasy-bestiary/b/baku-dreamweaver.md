@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baku Dreamweaver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 10
 desc_short: Simple but elegant robes drape over this gray-furred, trunked quadruped, and its kind gaze suggests a gentle wisdom.
 ```
-# Description
+## Description
 Unlike normal bakus, who contentedly feed on any dreams, dreamweavers savor the dreams of only the most imaginative and creative beings, particularly those of people who are attuned to the spiritual realms or possess psychic abilities. The potency of such sleepers’ dreams grants dreamweavers increased power. Dreamweavers still despise night hags and other nightmare creatures, and use their puissant abilities to destroy these menaces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baku%20Dreamweaver)
 ```encounter-table
 name: Baku Dreamweaver

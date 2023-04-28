@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoll Bruiser
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Monster Codex
     desc: 95
 ```
-# Description
+## Description
 These massive gnolls pound enemies into submission.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoll%20Bruiser)
 ```encounter-table
 name: Gnoll Bruiser

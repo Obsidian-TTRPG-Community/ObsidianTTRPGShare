@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pyrogeist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 88
 desc_short: A malevolent face emerges from within this roiling mass of ghostly fire. Several smaller faces writhe within the flames.
 ```
-# Description
+## Description
 Pyrogeists are the burning ghosts of arsonists and pyromaniacs who were killed in the fires they started. Whether the pyrogeists’ deaths were accidents or suicides, the horribly painful and often humiliating deaths create pyrogeists from the arsonist’s or pyromaniac’s soul. A pyrogeist is a mass of spectral fire that emits no heat and damages only living creatures. A large face floats upon its surface, resembling a twisted mockery of the person the pyrogeist was when alive. A pyrogeist haunts the area surrounding its remains and is consumed with a desire to immolate others. A pyrogeist most often haunts its victims with terrifying illusions before engulfing them and adding their souls to the creatures’ perpetual torment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pyrogeist)
 ```encounter-table
 name: Pyrogeist

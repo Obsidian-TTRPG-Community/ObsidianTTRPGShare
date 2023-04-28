@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vrykolakas
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 88
 desc_short: This twisted, barely-humanoid monstrosity has rancid-looking flesh, an unnaturally long neck, and a mouth full of fangs.
 ```
-# Description
+## Description
 The vrykolakas knows only rage and relishes the suffering of those who failed it in life. Reanimated corpses of wicked and vengeful souls denied even the most basic burial rites, these unreasoning, vampire-like creatures unleash their wrath against the living indiscriminately, spreading disease and death among all in their paths.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vrykolakas)
 ```encounter-table
 name: Vrykolakas

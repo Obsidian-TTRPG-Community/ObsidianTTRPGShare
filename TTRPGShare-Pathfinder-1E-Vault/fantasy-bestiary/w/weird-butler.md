@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Weird Butler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: Monster Codex
     desc: 238
 ```
-# Description
+## Description
 The highest-ranked mortal servant of a vampire, the butler is responsible for maintaining order among the other servants. He knows all his master’s secrets and guards them well. He’s responsible for disposing bodies that result from his master’s deadlier feeding sessions. A butler might work for a vampire because he wants to be rewarded with unlife himself. As many vampires collect vast fortunes over their long lives, some butlers are initially lured into service due to avarice.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Weird%20Butler)
 ```encounter-table
 name: Weird Butler

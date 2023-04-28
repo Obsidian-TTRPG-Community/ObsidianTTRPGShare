@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ironfang Yzobu Rider Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 89
 desc_short: These hobgoblin knights ride atop brutish stinking yaks that paw the ground angrily.
 ```
-# Description
+## Description
 Members of this battle-yak-mounted troop are equipped with +1 full plate, +1 lances, +1 composite longbows (+4 Str) with 20 arrows, and gory trophies of past victories. Their yzobu mounts (Pathfinder RPG Monster Codex 124) wear military saddles and chain barding.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ironfang%20Yzobu%20Rider%20Troop)
 ```encounter-table
 name: Ironfang Yzobu Rider Troop

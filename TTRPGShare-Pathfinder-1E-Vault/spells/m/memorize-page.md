@@ -1,19 +1,21 @@
 ---
-alias: Memorize Page
+aliases: [Memorize Page]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Memorize Page 
+## Memorize Page
 
 **source**:: Advanced Class Guide pg. 187  
 **school**:: enchantment (mind-affecting)
 **level**:: arcanist 1, bard 1, mesmerist 1, occultist 1, psychic 1, skald 1, sorcerer 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (the page to be memorized)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Memorize Page
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The target gains a perfect memory of the page you used as a focus component. The target can visualize this page as easily as looking at it in person, including minute details visible to close scrutiny by the naked eye. The memory of the page includes text and images, such as a drawing or a map. Someone unfamiliar with the language on the page (or even an illiterate person) could relay what is written simply by copying the shapes of the letters so another person can read them.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Dissolution
+aliases: [Dissolution]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dissolution 
+## Dissolution
 
 **source**:: Arcane Anthology pg. 19  
 **school**:: transmutation
 **level**:: alchemist 4, arcanist 5, investigator 4, sorcerer 5, spiritualist 6, summoner 6, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (vial of alchemical reagents worth 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: Tiny or smaller object touched  
@@ -21,7 +23,7 @@ alias: Dissolution
 **saving-throw**:: Fortitude negates (object)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You touch a Tiny or smaller item, causing the item to vanish as if it did not exist at all. The item doesn’t take damage or otherwise gain any condition; it simply ceases to be visible to or interact with the world in any way, as if it no longer existed. The oil vanishes with the item and leaves no residue, nor does it affect surfaces that handle or hold the item during its application. No spell or ability short of *miracle* or *wish* can locate or affect the item while it is under the effect of this spell. Though the item seems to not exist while under the effects of this spell, its own reality is consistent (it ages normally, and any ongoing effects upon it continue normally). The target object can be one size larger than Tiny for every 5 caster levels above 5th you possess.  
   

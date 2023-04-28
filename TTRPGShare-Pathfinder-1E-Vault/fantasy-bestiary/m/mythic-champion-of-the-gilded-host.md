@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Champion of the Gilded Host
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 23
 desc_short: This towering humanoid creature is made almost entirely of gold and radiates a warm light.
 ```
-# Description
+## Description
 For perhaps a thousand years, the imperial phalanxes of Ninshabur conquered and controlled immense swaths of Casmaron. The independent state of Praramdav, one of many kingdoms that would later consolidate to form Vudra, watched Ninshabur’s rise to power with growing discomfort. Its rulers began building its armies to repel the seemingly inevitable invasion, but in -632 ar, the Tarrasque emerged from the Pit of Gormuz in central Casmaron and laid waste to Ninshabur.
 
  Rather than rejoicing at the news of his rival’s demise, the rajah of Praramdav feared that a Spawn of Rovagug might visit the same cataclysm upon his kingdom. He issued incentives of wealth and power to lure the brightest minds to his capitol; hundreds of sages answered his call and concluded that only a comparably large guardian could repel a Spawn’s attack. Pointing to Rovagug’s destructive power, the scholars informed the rajah that only the purest, most infallible and incorruptible material would do: gold.
@@ -74,7 +76,7 @@ For perhaps a thousand years, the imperial phalanxes of Ninshabur conquered and 
  With study and divination revealing no weakness to the Tarrasque, the rajah desperately clung to the idea of a powerful golden guardian and turned his powerful army against his other neighbors in order to fund this ambitious construct. Within 5 years, the form of the colossus was complete, a dozen kingdoms were under the rajah’s control, and a great army-known as the Gilded Host-stood ready to fight alongside its golden champion. Despite the construct’s tremendous might, further divination determined that the Champion of the Gilded Host was still incapable of defeating a Spawn of Rovagug. The rajah continued to spend money to improve the construct, unwilling to abandon a weapon that had already consumed such vast resources. However, the Tarrasque never came.
 
  Without a great victory to justify its leader’s aggressive policies and reckless spending, Praramdav was unable to hold onto its new territory. It collapsed into bankruptcy, and its vassal kingdoms attempted in vain to melt down the colossus but succeeded only in breaking it into five virtually invulnerable sections: two arms, the head, the torso, and its articulated serpentine tail. A different kingdom claimed each one as spoils of Praramdav’s folly. Nearly a millennium later, these same kingdoms had managed to reunite three of the pieces when Unyielding Kothogaz arrived in Vudra, but the Spawn of Rovagug attacked and scattered the pieces far and wide in its rampage. Ultimately, it was not a golden champion but an army of hero-priests that defeated Kothogaz.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Champion%20of%20the%20Gilded%20Host)
 ```encounter-table
 name: Mythic Champion of the Gilded Host

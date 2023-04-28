@@ -1,19 +1,21 @@
 ---
-alias: Wilderness Soldiers
+aliases: [Wilderness Soldiers]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wilderness Soldiers 
+## Wilderness Soldiers
 
 **source**:: Ultimate Combat pg. 249  
 **school**:: transmutation
 **level**:: druid 2, hunter 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 30 ft.  
 **area**:: 30-ft.-radius emanation, centered on you  
@@ -21,7 +23,7 @@ alias: Wilderness Soldiers
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You call on the plants nearby to aid you in combat. This spell is ineffective if no plants you can direct are within the area. You can spend a swift action and/or a standard action on each of your turns to direct one of the following attacks. The attack bonus or CMB for these attacks equals your base attack bonus + your Wisdom modifier. You grant a +1 bonus per three caster levels (maximum +5) on damage rolls due to this spell. Your *wilderness soldiers* never provoke attacks of opportunity, and they do not count as allies for flanking or other purposes.  
   

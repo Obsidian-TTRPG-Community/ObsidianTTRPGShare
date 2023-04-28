@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Bone Devil
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 185
 desc_short: Horns crown the skull of this winged, skeletal creature, and its long claws twitch like spider legs.
 ```
-# Description
+## Description
 Forged from the souls of the first heretics and blasphemers, mythic devils have an ancient legacy of torture and using secrets to lure mortal diabolists into temptation. A mythic bone devil leads Hell’s inquisitors in the efforts to root out disobedience among other devils. The authority it wields is even more powerful than its formidable magic, and it commands respect and fear from even pit fiends and dukes of Hell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Bone%20Devil)
 ```encounter-table
 name: Mythic Bone Devil

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Great Assassin Bug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 36
 desc_short: A massive insect with long mandibles and sullenly glowing eyes, this creature has a heavy, bulbous thorax.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Great%20Assassin%20Bug)
 ```encounter-table
 name: Great Assassin Bug

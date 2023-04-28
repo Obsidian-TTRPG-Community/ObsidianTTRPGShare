@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Wyvern
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 223
 desc_short: This serpentine dragon has huge wings, two taloned legs, and a tail stinger, and its blue scales are mottled with other colors.
 ```
-# Description
+## Description
 A mythic wyvern has one or more true dragons in its recent ancestry, making it strong and resilient. Despite its greater power and ego, it is more inclined to accept a rider than other wyverns, perhaps because it recognizes the value of an alliance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Wyvern)
 ```encounter-table
 name: Mythic Wyvern

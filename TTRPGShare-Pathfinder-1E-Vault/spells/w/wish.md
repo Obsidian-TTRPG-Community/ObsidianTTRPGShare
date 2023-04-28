@@ -1,19 +1,21 @@
 ---
-alias: Wish
+aliases: [Wish]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wish 
+## Wish
 
 **source**:: PRPG Core Rulebook pg. 370  
 **school**:: universal
 **level**:: arcanist 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (diamond worth 25,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target, Effect, or Area** see text  
@@ -21,7 +23,7 @@ alias: Wish
 **saving-throw**:: none, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Wish* is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even *wish*, however, has its limits. A *wish* can produce any one of the following effects.  
 
@@ -43,7 +45,7 @@ Duplicated spells allow saves and spell resistance as normal (but save DCs are f
   
 When a *wish* duplicates a spell with a material component that costs more than 10,000 gp, you must provide that component (in addition to the 25,000 gp diamond component for this spell).
 
-## Mythic Wish 
+## Mythic Wish
 
 **source**:: Mythic Adventures pg. 112  
 When using *mythic wish* to duplicate another spell, you can duplicate a mythic spell you know (if you’re a spontaneous caster) or have prepared (if you’re a caster who prepares spells). If you don’t know or haven’t prepared the mythic spell, you can expend a second use of mythic power to duplicate the mythic version of the desired spell.  

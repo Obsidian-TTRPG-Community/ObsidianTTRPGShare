@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ningyo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 206
 desc_short: This hideous sea monstrosity combines the most ferocious features of simian and carp, its fish-like tail sprouting a grotesquely primitive humanoid torso, head, and limbs. Although little more than 2 feet long, the nasty thing gibbers wildly as it gnashes its curling fangs and swipes at prey with webbed claws.
 ```
-# Description
+## Description
 The bane of fishermen and divers, ningyos lurk in tropical waters, gorging themselves on fish and attacking anything they can sink their tiny fangs into. Nasty little things, these primitive, miniature mer-monsters are bogeymen of the sea, often attacking seagoers, ships, and fishing tackle out of both blind ravenousness and blunt stupidity. With little more organization or society than a school of sharks, these cannibalistic half-simian, half-fish terrors swarm by night and can easily drag those caught on moonlit waters down to drown amid a sea of tiny claws and needling teeth.
 
 Yet for all their animal ferocity, ningyos are most notorious for their unquiet deaths. Said by natives to be too mean and stupid to die, a slain ningyo always returns to life by night, obliviously adopting old habits or dragging itself forth from the water to find its killer. By day, though, undead ningyos turn back into normal corpses, sometimes washing up on shore as gruesome and fascinating-but potentially deadly-curiosities. While the knowledgeable burn the eerie corpses they find along the coast, more than one foolhardy beachcomber has collected such an oddity, only to later awake in terror, the tiny withered claws and broken teeth of his weird curio savaging him in the dark.
 
 Ningyos measure approximately 2 to 2-1/2 feet long from head to tail, and weigh 6 to 9 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ningyo)
 ```encounter-table
 name: Ningyo

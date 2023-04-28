@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mannequin Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 57
 desc_short: This impassive humanoid has shiny, pale skin and an eerily expressionless face.
 ```
-# Description
+## Description
 Designed to labor at tedious or hazardous tasks, mannequin robots were intended to both look and behave like humans. Their designers felt that humans would find the mannequins more comfortable to work next to than conventional robots-but they were mistaken. While the mannequins superficially resembled their makers, their inhuman behavior, subtly wrong appearance, and unnatural movement, as well as the unyielding cold of their synthetic flesh proved disturbing, and the humans they were meant to work alongside reflexively distrusted them. Though many were produced for a variety of tasks, the mannequin line of robot was deemed a failure. The next generation of human-form constructs took the form of a true artificial life form: the android.
 
 Mannequins look more or less human, but their jerky, mechanical movement, imperfectly simulated behavior, and artificial construction give them away with any close interaction. Mannequin robots vary in size and shape as much as humans, but weigh at least 200 pounds because of their metallic endoskeletons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mannequin%20Robot)
 ```encounter-table
 name: Mannequin Robot

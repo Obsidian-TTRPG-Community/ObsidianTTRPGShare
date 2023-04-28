@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Novenarut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 236
 desc_short: Fashioned of jade and steel and wielding a gleaming katana, this mechanical samurai has six green gemstone eyes.
 ```
-# Description
+## Description
 Dutiful and resolute, novenaruts serve the purpose of officiating honorable duels and structured combat. These inevitables resemble samurai in armor fashioned of plates of jade and steel that cover whirring metallic gears. Novenaruts have six compound green eyes, each of which consists of three green lenses that grant it an enhanced field of vision.
 
  Typically, a novenarut does not concern itself with day-today battles of honor, focusing instead on conflicts or duels that have higher stakes, such as an honorable battle that determines the fate of a kingdom.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Novenarut)
 ```encounter-table
 name: Novenarut

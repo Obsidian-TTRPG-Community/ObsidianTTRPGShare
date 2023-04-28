@@ -1,19 +1,21 @@
 ---
-alias: Create Drug
+aliases: [Create Drug]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Drug 
+## Create Drug
 
 **source**:: Book of the Damned pg. 183, Pathfinder \#99: Dance of the Damned pg. 74  
 **school**:: conjuration (creation)
 **level**:: alchemist 3, cleric 4, druid 3, hunter 3, investigator 3, occultist 3, oracle 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: 1 dose of a drug/3 levels  
@@ -21,7 +23,7 @@ alias: Create Drug
 **saving-throw**:: none (see below)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 The caster conjures into being one of the following drugs: aether, flayleaf, opium, pesh, scour, shiver, or zerk. (At the GM’s discretion, other drugs of similar power can be included on this list.) The drug doses the caster creates with this spell must be used within 1 minute of being conjured, or they dissolve into worthless dust or evaporate into noxious but fleeting vapors, though the effects of the drug may last far longer if taken before it decays.  
   
@@ -29,11 +31,11 @@ The drugs created by this spell cannot be sold, but they can be given to other c
   
 As a special use of this spell, a lawful evil worshiper of Mahathallah, the Dowager of Illusions, can create doses of the drug adyton (see the sidebar above). A Mahathallah worshiper can create adyton only once per week, regardless of her level or how many times she casts this spell. The spell otherwise functions- and creates as many doses-as normal.
 
-## Adyton 
+## Adyton
 
 The drug adyton is central to Mahathallah’s worship and the spreading of her mysteries. It can be purchased only from worshipers of Mahathallah, and typically only by servants of the goddess.
 
-### Adyton 
+### Adyton
 
 **Type** contact
 **Addiction** major, Fortitude DC 20  

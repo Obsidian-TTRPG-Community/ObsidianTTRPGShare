@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gryph
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 150
 desc_short: This hawk-sized avian looks much like a six-legged stork. Its feathers are unkempt and greasy, and its beak is razor-sharp.
 ```
-# Description
+## Description
 Gryphs are bird-like creatures usually found underground, but they also favor dark and tangled forests. Gryphs normally survive on carrion and small animals, but take on larger game when driven by hunger or if they feel threatened. Most disturbing is their means of reproduction. Gryphs are hermaphroditic and mate frequently, such that their egg pouches are rarely empty. When they encounter a suitable host-a warm-blooded creature of size Small or larger, ideally alone-the gryphs swoop down, latch on to the target, and implant their eggs directly into its flesh. As long as the target is conscious, the flock continues its assault, though if the target flees the area, the gryphs return to their nest. The eggs quicken swiftly once implanted, and gryph chicks hatch forth mere minutes later in a bloody birth that is often fatal to the host.
 
 Gryphs have a strange affinity for vermin, often lairing in close proximity to one or more insect swarms or vermin of Medium size or smaller. The insects avoid the gryphs instinctively, feeding off the remains of the flock’s meals and on creatures too small for the gryphs to bother with.
 
 Most gryphs have six legs, but some have four or even eight. Individual flocks are always made up of gryphs with the same number of limbs. A gryph is 3 feet tall and weighs 45 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gryph)
 ```encounter-table
 name: Gryph

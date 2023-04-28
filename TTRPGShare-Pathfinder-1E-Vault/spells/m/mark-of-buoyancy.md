@@ -1,19 +1,21 @@
 ---
-alias: Mark of Buoyancy
+aliases: [Mark of Buoyancy]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mark of Buoyancy 
+## Mark of Buoyancy
 
 **source**:: Blood of the Ancients pg. 26  
 **school**:: transmutation
 **level**:: arcanist 3, bard 3, cleric 3, magus 3, occultist 3, oracle 3, psychic 3, skald 3, sorcerer 3, summoner 3, summoner (unchained) 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: touched object weighing up to 10 lbs./level  
@@ -21,7 +23,7 @@ alias: Mark of Buoyancy
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You cause the touched object to become lighter than air, such that it floats if not weighted down. The object is effectively weightless and, if left unattended, will rise to a number of feet off the ground equal to twice your caster level, and then remain floating at that height. The object can be pushed, dragged, carried, or otherwise moved normally, and it can be carried by the wind if not held or secured. The object is buoyant enough that it can carry an additional weight of up to 10 pounds per caster level with it, potentially allowing it to be used to carry small objects or creatures.  
   

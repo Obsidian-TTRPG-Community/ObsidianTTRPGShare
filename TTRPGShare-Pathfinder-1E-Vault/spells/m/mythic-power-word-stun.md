@@ -1,19 +1,21 @@
 ---
-alias: Mythic Power Word Stun
+aliases: [Mythic Power Word Stun]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Power Word Stun
+## Mythic Power Word Stun
 
 **source**:: Mythic Adventures pg. 104  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 8, psychic 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature with 150 hp or less  
@@ -21,7 +23,7 @@ alias: Mythic Power Word Stun
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You utter a single word of power that instantly causes one creature of your choice to become stunned, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 151 or more hit points is unaffected by *power word stun*.  
   

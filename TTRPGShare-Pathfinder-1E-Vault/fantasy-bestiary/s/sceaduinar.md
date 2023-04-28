@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sceaduinar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 239
 desc_short: This gargoyle-like creature has long spiky legs and a bat-like head-its body seems to be made of living, dark purple crystal.
 ```
-# Description
+## Description
 Sceaduinars are strange creatures born of pure entropy, the antithesis of creation and life. In the cold heart of the Negative Energy Plane, the un-substance of that realm coalesces into snowflake-like crystals, and it is from these strange formations that sceaduinars arise, breaking free from their jagged “eggs” fully grown. They hate the living and the undead with equal passion, perhaps out of jealousy for those who have a spark of life (even if that spark is provided by a corruption of life in the form of undeath), though they usually ignore creatures from the Outer Sphere. They believe their positive energy counterparts, the jyoti, long ago stole their ability to create, breaking the parallel between the two energy planes and forcing these void-dwellers into an unwanted role of pure destruction.
 
 In a way, their hatred parallels that of another native of the Negative Energy Plane-the nightshade. Yet despite their similar goals, the sceaduinars see nightshades as just another corruption of life worthy of destruction-even though very few sceaduinars are powerful enough to directly oppose one of these deadly undead. Sceaduinars are quite intelligent, yet they have no real society to speak of. When they gather together, it is always to form a larger band to strike against a particularly dangerous foe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sceaduinar)
 ```encounter-table
 name: Sceaduinar

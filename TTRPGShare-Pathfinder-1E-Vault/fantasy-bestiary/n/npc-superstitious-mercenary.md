@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Superstitious Mercenary
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
   - name: NPC Codex
     desc: 80
 ```
-# Description
+## Description
 Some mercenaries believe their survival has less to do with skill and more to do with their ability to gain the gods’ favor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Superstitious%20Mercenary)
 ```encounter-table
 name: NPC Superstitious Mercenary

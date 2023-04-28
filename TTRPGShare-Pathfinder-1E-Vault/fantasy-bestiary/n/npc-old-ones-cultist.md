@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Old Ones Cultist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 41
 ```
-# Description
+## Description
 Those who watch the stars and delve into forgotten lore often uncover truths that should have remained hidden. Many are destroyed by what they find, but a few gain great power at the cost of their sanity. These mystics draw others to them through promises of secret knowledge, founding hidden cults that serve entities whose existence is an affront to reality itself. While the practices of any one of these cults in particular is likely isolated to certain regions of Golarion, those who venerate the Old Cults can be found hidden away in virtually any land, making their infiltration of society that much more insidious.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Old%20Ones%20Cultist)
 ```encounter-table
 name: NPC Old Ones Cultist

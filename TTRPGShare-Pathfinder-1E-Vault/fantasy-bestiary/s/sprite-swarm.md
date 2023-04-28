@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sprite Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 62
 desc_short: Thousands of tiny, colorful winged humanoids crawl from every corner of the forest to form this buzzing, writhing swarm. 
 ```
-# Description
+## Description
 When intruders threaten their beloved homes, sprite guards in large villages are taught to call for their fellow tribe members to form a vicious, enveloping swarm to drive back their enemies. Typically consisting of at least 5,000 sprites, these swarms are known for inf licting pain upon any creatures in their paths. Sprite swarms typically form only when the sprites’ village is threatened by a large number of intruders or a single powerful foe; however, the malevolent sprites of Geb are quick to form swarms when faced with intrusion of any kind. 
 
 In some parts of Golarion where sprites are known to exist, those accused of crimes or other unacceptable behavior are sentenced to face a sprite swarm so that nature itself can judge them. If a sprite swarm forms to drive one of the accused away, he is guilty; if not, he is innocent. Most of those sent forth never return, having run afoul of the sprites’ protective instincts, but occasionally the sprites allow someone they deem not a threat to live-quite independently of their actual guilt or innocence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sprite%20Swarm)
 ```encounter-table
 name: Sprite Swarm

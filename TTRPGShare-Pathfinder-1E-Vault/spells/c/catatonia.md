@@ -1,19 +1,21 @@
 ---
-alias: Catatonia
+aliases: [Catatonia]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Catatonia 
+## Catatonia
 
 **source**:: Occult Adventures pg. 161  
 **school**:: necromancy
 **level**:: alchemist 2, arcanist 3, bard 2, cleric 3, investigator 2, medium 2, mesmerist 2, oracle 3, psychic 3, skald 2, sorcerer 3, spiritualist 2, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: willing creature touched  
@@ -21,7 +23,7 @@ alias: Catatonia
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You touch the target and place it into a deathlike state that persists for the duration. The target appears to be dead, and any creature that interacts with the target must succeed at a DC 20 Heal check to recognize it is actually alive.  
   

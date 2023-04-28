@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grindylow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 148
 desc_short: With a large head and numerous teeth, this unsightly creature resembles a goblin from the waist up and a greasy octopus below.
 ```
-# Description
+## Description
 About 4 feet long from head to tentacle tip, grindylows appear to be half-goblin and half-octopus, the split occurring at the waist. Grindylows are violent, ravenous creatures that use their spears to hunt or just to poke at things that scream and cry.
 
 While grindylows resemble goblins, they are not humanoid creatures. Nonetheless, these aquatic monsters are just as wicked as the most sadistic of goblins, and take immense pleasure in others’ misfortunes and the spread of mayhem. Thanks to this twisted desire, grindylows have a nasty reputation among both other intelligent water-dwelling creatures and most land-dwelling beings.
@@ -56,7 +58,7 @@ While grindylows resemble goblins, they are not humanoid creatures. Nonetheless,
 Grindylows eat whatever they can kill, giving them a rather wide selection of meals. High or low, no one is safe from the brutish assaults; tribes of merfolk have been overwhelmed by bands of grindylows, as have galleons full of experienced sailors. While obvious predators such as giant eels or sharks evoke great fear from grindylows, no enemies are more hated than the squid, be it common or giant. None are sure where this disdain stems from, but it is speculated that a squid is to an octopus for a grindylow what a dog is to a goblin dog for goblins. Incredibly fond of their similarly designed kin, grindylows believe octopuses to be the epitome of beauty, with squids being regarded as hideous freaks in comparison. There is no greater insult to a grindylow than being called a squid.
 
 While grindylows can take class levels to gain power, certain grindylows are freakish throwbacks to a primal age-these grindylows never cease growing, and in time can become massive beasts of Huge size. Unlike the typical grindylow, these giants can attack with all six of their tentacles and constrict with great effect. Giant grindylows are fortunately quite rare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grindylow)
 ```encounter-table
 name: Grindylow

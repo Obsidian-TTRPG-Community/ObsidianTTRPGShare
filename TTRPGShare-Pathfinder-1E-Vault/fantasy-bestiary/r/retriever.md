@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Retriever
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 234
 desc_short: A spider the size of a bull elephant rears up on its back four legs in a violent challenge, eyes shimmering with magical energy.
 ```
-# Description
+## Description
 Not all constructs are formed from unliving matter like stone, wood, metal, or dead flesh. In the darkest corners of the Great Beyond, certain powerful demon lords have mastered the art of shaping the raw, protoplasmic flesh of the Abyss into hideous monstrosities devoid of life, emotion, and the will to resist control. The monstrous retriever is the best-known of such constructs, a huge spider-like creation capable of unleashing potent energy upon those it has been ordered to seek.
 
 Demon lords use retrievers to seek out those who dare abandon their loyalties or flee from servitude. Often, the presence of a retriever in a demon’s den is enough in and of itself to ensure the loyalty of the lesser demons. The constructs also excel in tracking down specific objects and returning them to their masters-their intelligence is just enough to allow them to focus on their ordered tasks but not quite enough for them to form ideas of rebellion and longings for freedom.
 
 A retriever’s body is the size of an elephant, and its legspan is nearly 30 feet. It weighs 6,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Retriever)
 ```encounter-table
 name: Retriever

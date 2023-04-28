@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Novice Scout
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: NPC Codex
     desc: 128
 ```
-# Description
+## Description
 The novice scout is alert and eager to prove her worth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Novice%20Scout)
 ```encounter-table
 name: NPC Novice Scout

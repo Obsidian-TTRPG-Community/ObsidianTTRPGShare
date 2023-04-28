@@ -1,19 +1,21 @@
 ---
-alias: Spear of Purity
+aliases: [Spear of Purity]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spear of Purity 
+## Spear of Purity
 
 **source**:: Ultimate Magic pg. 240  
 **school**:: evocation (good)
 **level**:: cleric 2, oracle 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: spear-shaped projectile of good energy  
@@ -21,7 +23,7 @@ alias: Spear of Purity
 **saving-throw**:: Will partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You hurl a pure white or golden spear of light from your holy symbol, affecting any one target within range as a ranged touch attack.  
   

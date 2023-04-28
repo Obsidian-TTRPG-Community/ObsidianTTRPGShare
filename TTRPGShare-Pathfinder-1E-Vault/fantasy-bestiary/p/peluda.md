@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Peluda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 86
 desc_short: This long-necked dragon has steamy breath, a lashing tail, and a back covered in hundreds of quills.
 ```
-# Description
+## Description
 Peludas loathe all weak, fragile creatures smaller than themselves, especially humanoids. Some hunt in nearby farmlands before returning to their own lairs. Some are worshipped as gods by lizardfolk or other swamp creatures, though a peluda’s short temper means it may eat its devotees if affronted.
 
 A typical peluda is 15 feet long and weighs 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Peluda)
 ```encounter-table
 name: Peluda

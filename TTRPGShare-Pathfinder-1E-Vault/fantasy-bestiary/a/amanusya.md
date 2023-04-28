@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Amanusya
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 48
 desc_short: This lithe dancer would be beautiful were it not for her clawed hands, backward-facing head, and long, lolling tongue.
 ```
-# Description
+## Description
 Among the most gregarious of rakshasas, amanusyas walk among mortals, learning their dreams and turning their desires against them. Amanusyas are seducers who often adopt the guise of entertainers or holy people from distant, exotic sects. The basest among them might tempt any mortal into lives of depravity, but the eldest, most experienced amanusyas seek to lure the most pure-hearted souls into debauchery and apostasy. They consider themselves keen observers and connoisseurs of mortal vice. Amanusyas might watch worthy victims for months before engaging them. When they do, though, their approaches are subtle and their promises calculated. They use guarantees of fame, wealth, pleasure, and a better life as tools to poison mortal minds with grand ambitions, endlessly assuring them that one more contrivance, one more broken vow, one more heist, or one more blasphemy will secure true greatness that, of course, never comes.
 
 Like many rakshasas, amanusyas dwell in urban environments. They prefer places where they can easily blend in and observe potential victims, such as markets, theaters, fairs, and even temple grounds. When amanusyas find that the time is right, they affect “chance” meetings with their prey. Amanusyas’ lairs are usually the former homes of victims, decorated with defiled religious items and the preserved bodies of any kills too pretty to consume.
@@ -68,7 +70,7 @@ Amanusyas often form troupes for mutual protection and to be able to take down d
 Amanusya rakshasas can produce offspring only with humanoids of Medium size. Their children become full-blooded amanusyas who, in their true forms, strongly resemble their humanoid parents. This physical reminder of corruption often pushes the mortal parents over the edge-they succumb to whatever heinous temptations are offered by both their lovers and their offspring. The most powerful amanusyas are born from unions with devout followers of good deities. Most amanusyas are female, but one in a dozen is male.
 
 An amanusya stands 5-1/2 feet tall and weighs 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amanusya)
 ```encounter-table
 name: Amanusya

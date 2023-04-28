@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,13 +74,13 @@ sources:
     desc: 228
 desc_short: This finely robed and nimble fiend has six colorful vipers in place of arms, and a long, forked tongue in its fanged mouth.
 ```
-# Description
+## Description
 Marai are deviant spellcasters first and fiendish corruptors second. If allowed to indulge in their desire for perverse mystical study, most marai are content to serve as part of another rakshasa’s cabal. A solitary marai might pose as a neophyte magician to infiltrate another spellcaster’s abode. If the marai is successful, the master soon becomes either the servant or a corpse.
 
 The possibility of new magical discoveries drives a marai. Morality and compassion never constrain the fiend’s experiments. A marai prefers to torment and exploit mortals who have no idea of the rakshasa’s true nature, and it takes great pleasure in using magical might to bring would-be heroes, especially those who invade its lair, to their knees. Such a game offers a marai enjoyment, however, only if subjects are unaware of the danger or at least unable to oppose it.
 
 A marai is 6 feet tall and weighs 160 pounds. Its serpentine arms render fine manipulation or wielding weapons unfeasible, and so it typically assumes humanoid form when working on experiments that require manual dexterity. A marai unable to do so must rely upon cantrips like mage hand for such tasks-or perhaps the aid of a slave or charmed ally.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marai)
 ```encounter-table
 name: Marai

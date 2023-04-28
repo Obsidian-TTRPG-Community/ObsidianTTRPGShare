@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dybbuk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 108
 desc_short: This grinning spectre has mad eyes and blood-red hands that twitch and jerk like a puppeteer’s.
 ```
-# Description
+## Description
 A dybbuk is a misplaced soul who has eluded judgment because of a some great transgression or a pitiful suicide. Like a ghost, it lingers on in the mortal world, either trying to fulfill an insane need to right some great failure that has marked its soul for eternity or merely to spread the torment it is condemned to face for eternity. Bodiless and left to wander, dybbuks grow increasingly bitter and resentful over the loss of their bodies and endlessly seek mortal or even inanimate forms to steal and use to sow suffering. Vile manipulators, they seek bodies that have the greatest potential to cause pain in those closest to their victims, taking pleasure in shifting a leader’s agenda toward the destruction of her followers or torturing an innocent from within. Dybbuks also often animate unliving things to spread fear, reveling in the chaos resulting from manipulating corpses to confuse and terrify. Most also realize they have all of eternity to torment their chosen victims, and might lurk quietly near a living target for weeks or months, waiting for the right moment to act and begin their terrors anew.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dybbuk)
 ```encounter-table
 name: Dybbuk

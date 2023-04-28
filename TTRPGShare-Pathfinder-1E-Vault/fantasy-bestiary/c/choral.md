@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Choral
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 60
 desc_short: This shimmering being looks like a miniature human with broad, iridescent wings and hair that slowly ripples through the air.
 ```
-# Description
+## Description
 Choral angels are singers of great skill, and their ranks fill the halls of good deities with soaring hymns and solemn chants. They manifest from the spirits of the pious dead who had exceptional musical talent. While they aren’t soldiers, chorals can defend themselves with their magical voices. Chorals sometimes visit the Material Plane with auspicious messages for mortals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Choral)
 ```encounter-table
 name: Choral

@@ -1,19 +1,21 @@
 ---
-alias: Detect Scrying
+aliases: [Detect Scrying]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Scrying 
+## Detect Scrying
 
 **source**:: PRPG Core Rulebook pg. 268  
 **school**:: divination
 **level**:: arcanist 4, bard 4, inquisitor 4, medium 3, mesmerist 4, occultist 4, psychic 4, shaman 4, skald 4, sorcerer 4, spiritualist 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of mirror and a miniature brass hearing trumpet)
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: 40-ft.-radius emanation centered on you  
@@ -21,13 +23,13 @@ alias: Detect Scrying
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect. The spell's area radiates from you and moves as you move. You know the location of every magical sensor within the spell's area.  
   
 If the scrying attempt originates within the area, you also know its location; otherwise, you and the scrier immediately make opposed caster level checks (1d20 + caster level). If you at least match the scrier's result, you get a visual image of the scrier and an accurate sense of his direction and distance from you.
 
-## Mythic Detect Scrying 
+## Mythic Detect Scrying
 
 **source**:: Mythic Adventures pg. 90  
 This spell automatically gives you a visual image of the creature scrying you. If it’s using a non-mythic means of scrying, you also gain an accurate sense of its direction and distance from you. You automatically succeed at caster level checks to overcome *nondetection* or similar effects (other than *mind blank*) that block your ability to detect the creature.  

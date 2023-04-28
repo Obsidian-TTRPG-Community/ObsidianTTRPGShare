@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cave Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 39
 desc_short: Muscular tentacles ending in stalagmite-like stingers extend from this pale brown slime.
 ```
-# Description
+## Description
 Cave blights are radioactive oozes that dwell in immense networks of caverns deep below the surface of the world. There, they seek to ruin underground societies-especially svirfneblin settlements, for deep gnomes particularly enrage these oozes due to their ancient links to the primal realm of the fey. Cave blights alone among their kind are adept at magically compelling aberrations to aid them in their wars against other intelligent life. 
 
 A cave blight measures 7 feet across and weighs 600 pounds on average.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cave%20Blight)
 ```encounter-table
 name: Cave Blight

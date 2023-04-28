@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc Witch Doctor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
   - name: Monster Codex
     desc: 171
 ```
-# Description
+## Description
 This witch doctor scars herself to get spells from her patron, a common practice among orc witches but one that’s rarely practiced by non-orcs. The witch doctor draws her power from the enduring pain of these ritualistic scars, which also give her some measure of physical protection.
 
  The ferocious fetish mask she wears is carved from wood and is adorned with grisly remnants of people and animals, typically blood and gristle. Most witch doctors wear their masks anytime they perform magic or interact with other orcs, but some prefer to wear them only when going into battle or communing with their patrons through the masks to prepare spells.
 
  Because most orc tribes hold divine magic in high regard, many witch doctors learn to practice a small amount of divine magic in addition to their arcane magic-or at least pretend their spells come from the gods. Feuds between mystics and witch doctors create conf lict within many tribes, and most orcs side with the mystics. Often, these feuds turn into duels for supremacy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc%20Witch%20Doctor)
 ```encounter-table
 name: Orc Witch Doctor

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tomb Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 136
 desc_short: This towering, lean figure is hairless and has smooth, milky white skin. A scythe gleams in her hands.
 ```
-# Description
+## Description
 Since the time Urgathoa first fled the Boneyard, there have been living creatures that have given their allegiance to powers that offer the promise of existence eternal. Tomb giants are an entire race of humanoids who have given themselves over to necromancy, and in so doing have gained sinister powers. These giants are born as the living agents of undeath, and they show great skill in creating all manner of undead creatures-even from their own kind. Tomb giants fully expect to be transformed after they die, though most don’t have to worry about the cost of sacrificing their experiences and memories, for they know their brothers and sisters can raise intelligent undead much greater than shambling zombies or clattering skeletons.
 
 Tomb giants possess an alabaster complexion. They are devoid of all body hair and have smooth, rounded features and marbleized skin. Tomb giants often tattoo their pale skin with arcane symbols in stark black ink. The sclerae of their eyes are jet black, and ghostly white pupils glow in the centers. They move with an eerie, silent grace for humanoids of their size, and rarely talk unless it is necessary. Tomb giants favor simple clothing, typically wearing togas at home and hooded cloaks when they emerge from their shadowy lairs. The average tomb giant stands 11 to 13 feet tall and weighs approximately 1,300 pounds. Tomb giants can live for up to 400 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tomb%20Giant)
 ```encounter-table
 name: Tomb Giant

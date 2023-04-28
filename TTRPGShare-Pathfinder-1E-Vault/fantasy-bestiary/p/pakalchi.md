@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pakalchi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 216
 desc_short: Thorny vines with tiny red f lowers grow from this emaciated woman and f low like a train behind her.
 ```
-# Description
+## Description
 Pakalchis feed on the fear and insecurity of failing relationships. They delight in seeing social bonds shatter, as they know that mortals broken or set adrift by such conf licts are more susceptible to their malign inf luence. Consummate puppetmasters, pakalchis use their powers of domination to turn friends and lovers against each other, relishing how even a single word can cause an avalanche of destruction as panicked victims make their situations worse. Pakalchis then draw the despondent mortals to their sides, playing cat-and-mouse games and slowly increasing physical and psychological pressure until their quarry breaks.
 
  While they may sometimes work though intermediaries, these creatures prefer to personally witness the anxiety they cause. Pakalchis stand 7 feet tall and weigh 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pakalchi)
 ```encounter-table
 name: Pakalchi

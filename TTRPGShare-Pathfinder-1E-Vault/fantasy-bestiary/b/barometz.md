@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Barometz
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 16
 desc_short: This massive green ramlike creature’s pelt is actually a tangle of vines, and its horns are wickedly sharp wooden branches.
 ```
-# Description
+## Description
 These massive plant juggernauts were not created by nature, but grown by druids who use them as protectors and dispensers of savage judgment. Pruned into a form resembling a stout ram, a barometz is granted a degree of intelligence by natural spirits bound into its verdant bulk.
 
 Barometzes are typically found in the service of the powerful druids who cultivate them and help them protect sacred primeval forests.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Barometz)
 ```encounter-table
 name: Barometz

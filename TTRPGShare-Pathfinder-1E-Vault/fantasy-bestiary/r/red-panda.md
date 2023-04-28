@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Red Panda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
   - name: Bestiary 5
     desc: 112
 ```
-# Description
+## Description
 Red pandas are small, short-legged arboreal mammals known for their red-brown fur and climbing abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Red%20Panda)
 ```encounter-table
 name: Red Panda

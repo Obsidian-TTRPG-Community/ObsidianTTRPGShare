@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seaweed Siren
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
     desc: 90
 desc_short: This creature’s three singing heads sway atop serpentine necks that extend from a bulbous body split by a wide, toothy mouth.
 ```
-# Description
+## Description
 A seaweed siren is a predator that uses false humanlike heads on its upper appendages in order to lure prey. The heads babble nonsense words and fragments of overheard sentences. If spoken to, they respond with words from a similar language. This behavior allows the seaweed siren to creep about under the water with only the heads showing, pretending to be swimming humanoids until it is ready to attack.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seaweed%20Siren)
 ```encounter-table
 name: Seaweed Siren

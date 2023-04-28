@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brimorak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 56
 desc_short: This muscular, red-eyed, goat-headed demon wields a burning sword. Fire licks up from its flaming hooves.
 ```
-# Description
+## Description
 Brimoraks are demons born from the souls of arsonists, and in their fiendish lives, they love nothing more than setting fires. A brimorak stands 3 feet tall and weighs 80 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brimorak)
 ```encounter-table
 name: Brimorak

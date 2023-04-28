@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Smoke Sentinel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 88
 desc_short: This cloud of thick black smoke crackles as flashes of electricity illuminate it from within, but it whirs as if mechanical.
 ```
-# Description
+## Description
 Smoke sentinels are clouds of sentient black smoke that protect isolated ruins throughout the shattered continent of Azlant. As amorphous clouds, smoke sentinels have no distinguishing features, but they often extend their bodies into long tendrils that slither along the ground like hungry vines. No matter how thin a smoke sentinel may make its form, its smoke remains thick and opaque, hiding everything within it from view. Though the strange electrical energy that courses through its body crackles and arcs, the resulting illumination provides no insight into what may lie at the cloud’s heart.
 
  A smoke sentinel usually attempts to determine an intruder’s intentions through use of its see alignment and detect thoughts spell-like abilities. It may take the form of a trusted associate or loved one in order to further interact with the trespasser and bring deeper thoughts and motivations to the creature’s surface thoughts. Unless directly threatened or certain that the target of its investigation poses a threat to its master or other sworn charge, the smoke sentinel employs illusions and fear to confuse and frighten the interloper away. Only in extreme cases or when instructed to do so does the construct use its deadly physical attacks.
 
  While it can compress and condense its form to fit into incredibly small spaces, a smoke sentinel most often appears as a weightless cloud occupying approximately 3,500 cubic feet of space.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Smoke%20Sentinel)
 ```encounter-table
 name: Smoke Sentinel

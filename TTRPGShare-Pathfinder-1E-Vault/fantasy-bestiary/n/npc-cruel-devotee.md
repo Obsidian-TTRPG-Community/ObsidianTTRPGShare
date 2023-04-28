@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cruel Devotee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: NPC Codex
     desc: 98
 ```
-# Description
+## Description
 Cruel devotees serve as the guardians and agents of monastic orders, taking on secret missions and even assassinations in order to protect the orders’ interests.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cruel%20Devotee)
 ```encounter-table
 name: NPC Cruel Devotee

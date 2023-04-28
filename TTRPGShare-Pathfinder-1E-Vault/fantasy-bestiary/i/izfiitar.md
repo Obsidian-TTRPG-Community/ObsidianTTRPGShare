@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Izfiitar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 210
 desc_short: This serpentine monster has six arms and is crowned by a halo of ever-changing symbols.
 ```
-# Description
+## Description
 While the keketar proteans (Pathfinder RPG Bestiary 2 215) hold vague ideological sway over their kind’s infinite choruses, the izfiitars loom above them, cardinals among the slithering clergy. Aloof and distant even compared to the keketars, izfiitars rarely venture beyond the Maelstrom’s deepest reaches, content to divine the will of the plane’s unknowable dualistic godhead, the Speakers of the Depths. 
 
 Bound to a single chorus, izfiitars are and yet are not distinct from the keketars who pay them obeisance, leading many to speculate that they are essentially elevated keketars, chosen for reasons unknown and propelled along a path of apotheosis either by the Maelstrom itself or by one of the so-called protean lords. Yet their position remains paradoxical, befitting the Maelstrom’s rejection of stability and consistency. Not every chorus contains an izfiitar, while some contain multiple, and the size and influence of any given chorus is entirely independent of their presence. 
 
 Although smaller in size than keketars, izfiitars have monstrous physical attacks and stupendous magical powers. They wield a more powerful version of lesser proteans’ warpwave, as well as abilities that bend reality and alter probability, focused on the proteans’ desire to return all of reality to the freedom of pure, unbound chaos.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Izfiitar)
 ```encounter-table
 name: Izfiitar

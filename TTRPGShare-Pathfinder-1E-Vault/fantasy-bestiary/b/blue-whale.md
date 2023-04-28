@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blue Whale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 276
 desc_short: This massive aquatic mammal has bluish-gray coloration, a wide fluke tail, and a wide mouth filled with layers of baleen.
 ```
-# Description
+## Description
 The imposing blue whale is one of the largest animals in the sea, though it is generally docile toward anything it doesn’t perceive as a threat. A filter-feeder, the blue whale does not look at humans or ships as potential meals, instead preferring to eat millions of tiny invertebrates known as krill, which it sucks through its baleen in massive gulps. The most dangerous thing about a blue whale, other than its sheer size, is its powerful tail, which can capsize boats and kill humanoids. These enormous mammals can be found in all of Golarion’s oceans and seas. An adult blue whale is 100 feet long and weighs 200 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blue%20Whale)
 ```encounter-table
 name: Blue Whale

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Chameleon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
   - name: NPC Codex
     desc: 34
 ```
-# Description
+## Description
 Chameleons are more comfortable portraying other people than appearing in their own natural forms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Chameleon)
 ```encounter-table
 name: NPC Chameleon

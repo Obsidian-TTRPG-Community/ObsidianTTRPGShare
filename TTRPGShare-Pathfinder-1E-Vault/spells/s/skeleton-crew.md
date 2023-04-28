@@ -1,19 +1,21 @@
 ---
-alias: Skeleton Crew
+aliases: [Skeleton Crew]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Skeleton Crew 
+## Skeleton Crew
 
 **source**:: Pirates of the Inner Sea pg. 29  
 **school**:: necromancy
 **level**:: arcanist 4, cleric 3, oracle 3, sorcerer 4, summoner 4, summoner (unchained) 4, warpriest 3, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one or more humanoid corpses touched  
@@ -21,7 +23,7 @@ alias: Skeleton Crew
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell turns corpses into skeletons (*Pathfinder RPG Bestiary* 250) that act as crew and obey your commands to the extent of their abilities.  
   

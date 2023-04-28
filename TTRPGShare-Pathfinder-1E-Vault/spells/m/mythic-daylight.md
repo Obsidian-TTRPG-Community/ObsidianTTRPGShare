@@ -1,19 +1,21 @@
 ---
-alias: Mythic Daylight
+aliases: [Mythic Daylight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Daylight
+## Mythic Daylight
 
 **source**:: Mythic Adventures pg. 90  
 **school**:: evocation (light)
 **level**:: adept 3, arcanist 3, bard 3, cleric 3, druid 3, hunter 3, inquisitor 3, magus 3, occultist 3, oracle 3, paladin 3, shaman 3, skald 3, sorcerer 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Mythic Daylight
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You touch an object when you cast this spell, causing the object to shed bright light in a 60-foot radius. This illumination increases the light level for an additional 60 feet by one step (darkness becomes dim light, dim light becomes normal light, and normal light becomes bright light). Creatures that take penalties in bright light take them while within the 60-foot radius of this magical light. Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by such light.  
   

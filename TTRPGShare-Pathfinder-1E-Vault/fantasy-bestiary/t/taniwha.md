@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Taniwha
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 259
 desc_short: This creature has a long, sinuous, eellike body but the scaly head of a crocodile with large, piercing blue eyes.
 ```
-# Description
+## Description
 Taniwhas are supernatural aquatic creatures that dwell within tropical lakes and rivers, preferably deep within remote jungles far from areas civilized by humanoids. Taniwhas claim these locations as their own, working to maintain the area’s natural purity and protect it from careless or evil interlopers who would defile the place. They especially hate poachers who hunt the jungles around their aquatic lairs and any who pollute the water. 
 
 Although taniwhas are ferocious looking, with their serpentine bodies and crocodilian heads, these river-dwelling creatures are actually quite friendly and often eager to befriend spellcasting creatures. Taniwhas adore magic and take great delight in “tasting” magic from other creatures. A spellcaster who lets a taniwha use its seize magic ability to enjoy the flavor of a stolen spell in this manner often finds that, for the minor cost of enduring the curse for a day, she can secure a lifelong friend. 
@@ -70,7 +72,7 @@ Although taniwhas are ferocious looking, with their serpentine bodies and crocod
 With their ability to seize magic and their own inborn spell-like abilities and deadly bite attacks, taniwhas are more than capable of defending their lairs from most intruders, yet they prefer to rely upon fear rather than violence in securing their homes. It generally doesn’t take many uses of their fearful memory ability for taniwhas to seed a local populace with the notion that the area around their lairs is a dangerous one to trespass upon. While fear is often regarded as a cruel or negative emotion, to taniwhas it is a preferred alternative to violence in the safekeeping of their homes. 
 
 A typical taniwha is 15 feet long and weighs 900 pounds, although rumors abound of much larger specimens.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Taniwha)
 ```encounter-table
 name: Taniwha

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pachycephalosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 79
 desc_short: This bipedal reptile has a rounded, dome-like head adorned with bony frills and ridges.
 ```
-# Description
+## Description
 A pachycephalosaurus is a normally peaceful dinosaur that grows irate and violent during mating season or when its herd is intruded upon by potential predators. The dinosaur’s skull has a distinctive dome-shaped crown surrounded by numerous bony horns-this, combined with the dinosaur’s powerful, compact neck, allows it to make battering-ram-like charges capable of inflicting great damage.
 
 Pachycephalosauruses grow to a length of 15 feet and weigh 1,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pachycephalosaurus)
 ```encounter-table
 name: Pachycephalosaurus

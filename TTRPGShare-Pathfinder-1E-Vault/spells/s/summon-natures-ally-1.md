@@ -1,19 +1,21 @@
 ---
-alias: Summon Nature's Ally 1
+aliases: ["Summon Nature's Ally 1"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Summon Nature's Ally 1 
+## Summon Nature's Ally 1
 
 **source**:: PRPG Core Rulebook pg. 354  
 **school**:: conjuration (summoning)
 **level**:: druid 1, hunter 1, ranger 1, shaman 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one summoned creature  
@@ -21,7 +23,7 @@ alias: Summon Nature's Ally 1
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell summons to your side a natural creature (typically an animal, fey, magical beast, outsider with the elemental subtype, or a giant). The summoned ally appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions as you command.  
   
@@ -132,4 +134,3 @@ When you use a summoning spell to summon a creature with an alignment or element
 | **9th Level**                                 | **Subtype** |
 | Pixie (w/irresistable dance and sleep arrows) | \-          |
 | Storm giant                                   | \-          |
-

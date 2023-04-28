@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Saurian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 247
 desc_short: This creature has the head, legs, and tail of a tyrannosaurus, but humanoid chest and arms.
 ```
-# Description
+## Description
 Saurians make their homes on the sides of tropical volcanoes or tropical mountains. Though they respect all life, saurians consider themselves the protectors of primordial creatures and defend them violently when the need arises. 
 
 Saurians stand 20 feet tall and weigh 8,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Saurian)
 ```encounter-table
 name: Saurian

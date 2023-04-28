@@ -1,19 +1,21 @@
 ---
-alias: Repel Vermin
+aliases: [Repel Vermin]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Repel Vermin 
+## Repel Vermin
 
 **source**:: PRPG Core Rulebook pg. 333  
 **school**:: abjuration (pain)
 **level**:: bard 4, cleric 4, druid 4, hunter 3, oracle 4, ranger 3, shaman 4, skald 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **area**:: 10-ft.-radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Repel Vermin
 **saving-throw**:: none or Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 An invisible barrier holds back vermin. A vermin with HD of less than one-third your level cannot penetrate the barrier.  
   

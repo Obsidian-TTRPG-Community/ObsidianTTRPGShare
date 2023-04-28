@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wild Hunt Monarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -97,11 +99,11 @@ sources:
     desc: 282
 desc_short: This limber and regal humanoid has an elk’s antlers, long pointed ears, flowing white hair, and luminescent green eyes.
 ```
-# Description
+## Description
 Wild hunt monarchs command dozens of other wild hunt fey. While their followers can travel on personal missions, these majestic leaders (who can be female or male, and are referred to as wild hunt queens or wild hunt kings as appropriate) can rally the hunt to follow them anywhere without question. Wild hunt monarchs set the terms of each specific hunt, depending upon the prey and their own whims. The easier the prey, the more likely a monarch is to impose rules to make the hunt more entertaining, such as forbidding anyone but his hounds from injuring the quarry, or holding back his forces to give the target creature time to rest and recover. 
 
 Many members of a wild hunt monarch’s following join as soon as they are born from the fey realm, but others are born out of his own prey, or come to serve him after the demise of their previous leader. Monarchs do not typically interact with their own kind, but they occasionally collaborate on an exceptionally challenging hunt, testing their wits against nascent demigods or beasts of legend.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wild%20Hunt%20Monarch)
 ```encounter-table
 name: Wild Hunt Monarch

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bibliodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 57
 desc_short: Flowing black robes hang all around this four-armed, weasel-faced humanoid. Feathers that resemble quills emerge from each knuckle of its clawed upper hands.
 ```
-# Description
+## Description
 Bibliodaemons are daemons that personify death by paperwork. A village that starves due to bureaucracy-delayed aid or an innocent person sent to hang because of a transcription error-these and more are the domain of bibliodaemons. These daemons actively work to ensure such deaths, forging important documents or duping others into deadly contracts.
 
  A bibliodaemon is 6 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bibliodaemon)
 ```encounter-table
 name: Bibliodaemon

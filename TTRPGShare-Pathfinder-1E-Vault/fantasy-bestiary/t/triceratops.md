@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Triceratops
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 86
 desc_short: This beast’s armored head has three sharp horns decorating its face and a large round crest angling back over its neck from its skull.
 ```
-# Description
+## Description
 The triceratops is a stubborn and short-tempered herbivore.
 
 A typical triceratops is 30 feet long and weighs 20,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Triceratops)
 ```encounter-table
 name: Triceratops

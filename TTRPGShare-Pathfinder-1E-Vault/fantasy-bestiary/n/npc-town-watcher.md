@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Town Watcher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 128
 ```
-# Description
+## Description
 The town watcher protects a settlement from hostile creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Town%20Watcher)
 ```encounter-table
 name: NPC Town Watcher

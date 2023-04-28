@@ -1,19 +1,21 @@
 ---
-alias: Lend Judgment, Greater
+aliases: [Lend Judgment, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Lend Judgment, Greater 
+## Lend Judgment, Greater
 
 **source**:: Ultimate Magic pg. 227  
 **school**:: divination
 **level**:: inquisitor 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one ally  
@@ -21,6 +23,6 @@ alias: Lend Judgment, Greater
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This functions as *lend judgment*, except the ally gains the benefit of all your active judgments.

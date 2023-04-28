@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pelagastr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
     desc: 88
 desc_short: This glittering serpent’s body ends in a looping length of tail. Its scales glow softly in ever-changing patterns.
 ```
-# Description
+## Description
 Just as other proteans delight in bringing change to subvert the awful stagnancy of the physical world, pelagastrs are dedicated to inviting chaos and freedom into the dull, stale lives of its inhabitants. Unrestrained by the limits of a physical body, they spy on private spaces and secrets, and hop from host to host to savor the strangeness of the physical world using as many senses as possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pelagastr)
 ```encounter-table
 name: Pelagastr

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xill
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 283
 desc_short: This flame-red humanoid appears to be a strange mix of insect and reptile, with four arms and twitching, fanged mandibles.
 ```
-# Description
+## Description
 Xills are the scourge of the Ethereal Plane, conquering everything in their paths with only one purpose: to perpetuate their race at the expense of others. All xills are female and capable of fertilizing their own eggs, but require living hosts to incubate these eggs, which they inject into paralyzed victims by means of a grotesque ovipositor normally kept retracted behind their mandibles. Evil and alien, the plane-shifting xills possess impressive intelligence and a totalitarian, militaristic culture all their own. Though they see most other life forms as incubators, they particularly prize phase spiders for this purpose.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xill)
 ```encounter-table
 name: Xill

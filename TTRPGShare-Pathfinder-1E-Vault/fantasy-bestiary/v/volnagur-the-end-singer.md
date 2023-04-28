@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Volnagur (The End-Singer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 48
 desc_short: This immense creature’s warty body is shaped like a many-pointed star, and from it sprout nearly a dozen different wings.
 ```
-# Description
+## Description
 Volnagur, the End-Singer, is an alien thing whose very presence brings turbulence, disturbance, and cacophony wherever he soars. He flits with effortless grace upon a hideous assortment of mismatched wings that constantly molt and rot from within, the oldest wings falling off as new ones spring up and grow in their place. His skirling cry awakens madness and blood fury in those who listen, as does the touch of his impossibly long, jagged-razor tongues. Alien harmonics induced by his grotesque gaze cripple those upon whom he gazes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Volnagur%20(The%20End-Singer))
 ```encounter-table
 name: Volnagur (The End-Singer)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 84
 desc_short: This small, slender-necked dinosaur’s bright, inquisitive eyes seem to miss nothing.
 ```
-# Description
+## Description
 The swift, curious troodons are unusually quick to learn, and some can even mimic human speech in the manner of a parrot.
 
 A troodon is 3 feet tall and just over 6 feet long from nose to tail. It weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troodon)
 ```encounter-table
 name: Troodon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Green Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 96
 desc_short: Scales the color of emeralds armor this ferocious dragon. A single sharp horn protrudes from the end of its toothy snout.
 ```
-# Description
+## Description
 Green dragons dwell in the ancient forests of the world, prowling under towering canopies in search of prey. Of all the chromatic dragons, green dragons are perhaps the easiest to deal with diplomatically.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Green%20Dragon)
 ```encounter-table
 name: Young Green Dragon

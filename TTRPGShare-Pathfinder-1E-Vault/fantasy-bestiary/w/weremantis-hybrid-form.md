@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Weremantis (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 117
 desc_short: This woman has the triangular head and spiked, segmented arms of a praying mantis.
 ```
-# Description
+## Description
 In humanoid form, natural weremantises are often tall and long-limbed. Many have pointy chins and brilliant green eyes that seem slightly too large for their faces. They tend to be solitary individuals, explaining their distant attitudes as a form of spirituality or piety. However, when they do make friends or take lovers, the relationships burn brightly for a short time. Eventually, though, the weremantises grow bored with the associations and end them in an equally dramatic manner, often through violent murders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Weremantis%20(Hybrid%20Form))
 ```encounter-table
 name: Weremantis (Hybrid Form)

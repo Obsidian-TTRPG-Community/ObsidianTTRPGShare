@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Najikai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 250
 desc_short: This scaly-skinned humanoid has long venomous fangs, claws, and unblinking reptilian eyes.
 ```
-# Description
+## Description
 Like all oni, najikai crave power and luxury. A najikai will often infiltrate a nagaji settlement, posing as a mighty warrior and easily cowing the people, with the ultimate goal of replacing the settlement’s naga ruler. The oni gets the naga’s attention with shows of strength and cunning, soon earning the najikai a position of direct service to the ruler. The oni pretends deference, but destroys the naga the instant its defenses slip, replacing it as a tyrant over the now-disgraced nagaji who failed their leader.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Najikai)
 ```encounter-table
 name: Najikai

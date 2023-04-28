@@ -1,19 +1,21 @@
 ---
-alias: Mythic Shadow Weapon
+aliases: [Mythic Shadow Weapon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Shadow Weapon
+## Mythic Shadow Weapon
 
 **source**:: Mythic Adventures pg. 107  
 **school**:: illusion (shadow) (shadow)
 **level**:: arcanist 1, bloodrager 1, occultist 1, psychic 1, redmantisassassin 1, sorcerer 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: one shadow weapon  
@@ -21,7 +23,7 @@ alias: Mythic Shadow Weapon
 **saving-throw**:: Will disbelief (if interacted with)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Drawing upon the Plane of Shadow, you shape a quasi-real masterwork melee weapon of a type you are proficient with. You may use this weapon to make attacks as if it were a real weapon, dealing normal damage for a weapon of its type. The first time you hit a creature with the weapon, it may make a Will save to disbelieve; failure means the weapon deals damage normally, success means it only takes 1 point of damage from the weapon’s attacks. The weapon only deals 1 point of damage to objects.  
   

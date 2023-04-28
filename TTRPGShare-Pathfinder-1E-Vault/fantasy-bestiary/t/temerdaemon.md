@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Temerdaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 58
 desc_short: This humanoid creature’s limbs-four arms and four legs-bend in awkward configurations. It wields a scythe in its largest arms.
 ```
-# Description
+## Description
 Temerdaemons exist to personify accidental death. A knight falls onto her sword; a peasant trips and breaks his neck; a structure fails in ways its builders never foresaw and buries dozens of innocents- and a temerdaemon cackles knowingly in the distance. While true accidents please the fiend, it also delights in engineering incomprehensibly complex plots that lead to the slaughter of as many mortals as possible. A temerdaemon often wades into the aftermath of such catastrophes, carving apart survivors and sowing mass confusion and hysteria. 
 
 Temerdaemons only rarely cooperate among themselves, but a trio of them sometimes forms a “trapper gang” to pursue common goals. 
 
 A gangly mass consisting of a rotund torso, four arms, and four legs, a temerdaemon is 10 feet long and weighs 1,200 pounds, not counting its often bizarre collection of odd mechanical fetishes and other tinkering equipment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Temerdaemon)
 ```encounter-table
 name: Temerdaemon

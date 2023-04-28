@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seaweed Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 180
 desc_short: This vaguely humanoid plant creature has a body formed of soggy green seaweed and wears crude armor made from seashells.
 ```
-# Description
+## Description
 Seaweed leshys usually dwell along coastlines, happily splashing and playing in tide pools, but they are equally at home at sea, floating among large kelp beds. Although perfectly capable of existing out of water indefinitely, seaweed leshys prefer to limit their time away from the sea almost out of a sense of pride. Most seaweed leshys take a dim view of freshwater plant life, to the point of mocking such plants in the same way an urbanite might talk down to folk who live in more rural areas. Rumors of freshwater leshys are a sure way to bring peals of mocking laughter from a seaweed leshy.
 
 Seaweed leshys resemble miniature, waterlogged green humans grown from leafy green seaweed, with skinny arms and legs, webbed hands and feet, and long strands of brown, green, or red seaweed for hair. They wear armor made from a pair of large clam shells or from several smaller shells tied together. This armor functions as a suit of masterwork padded armor for a seaweed leshy, but not for any other creature.
 
 Patient and thoughtful by inclination (save for matters associated with those silly freshwater leshys), seaweed leshys believe that in time nature brings what is needed by the ebb and flow of the tide or the steady flow of the river. They counsel against hasty decisions and rash actions, always preferring to wait and see what another day might bring.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seaweed%20Leshy)
 ```encounter-table
 name: Seaweed Leshy

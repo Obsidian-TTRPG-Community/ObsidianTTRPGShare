@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Locust Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 183
 desc_short: Thousands upon thousands of locusts dance and drone in a dark and ravenous cloud.
 ```
-# Description
+## Description
 Under crowded conditions, these normally inoffensive relatives of the grasshopper change color, breed uncontrollably, ravenously consume any available vegetation, and wreak vast destruction to farms and settlements.
 
 The largest swarms, known as plagues, can include billions of locusts and cover hundreds of square miles. Locusts in these swarms are larger and more aggressive than common ones, making the swarm a true danger to everything edible in their path and even to inedible objects as well.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Locust%20Swarm)
 ```encounter-table
 name: Locust Swarm

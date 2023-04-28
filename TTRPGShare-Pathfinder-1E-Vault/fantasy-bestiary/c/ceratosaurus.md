@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ceratosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 83
 desc_short: Bladelike horns jut from the snout and eye ridges of this toothy, bipedal dinosaur.
 ```
-# Description
+## Description
 Although a ceratosaurus’s horn is mainly for courtship displays, its jaws are extremely deadly. A ceratosaurus stands 10 feet high and can grow up to 18 feet long and 1,600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ceratosaurus)
 ```encounter-table
 name: Ceratosaurus

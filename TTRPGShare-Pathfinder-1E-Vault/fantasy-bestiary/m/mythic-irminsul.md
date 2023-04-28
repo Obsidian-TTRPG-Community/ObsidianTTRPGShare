@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Irminsul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 158
 desc_short: A split in the trunk of this strange tree reveals a swirling magical portal to an unknown destination.
 ```
-# Description
+## Description
 According to legend, primordial gods seeded the multiverse with the irminsuls, powerful and intelligent tree-like beings that bind all their worlds together by their roots. At one time, these beings were plentiful, and prized for their knowledge and mystic properties. But powerful creatures hacked them to the ground because they believed irminsuls’ wood had special qualities or sought to protect themselves from whatever lay beyond the strange portals.
 
 Every irminsul is bound to a specific plane. The bound plane determines the creature’s alignment, the nature of its regeneration, and the languages it knows. Sometimes irminsuls have special abilities based on the planes they are linked to. The sample irminsul is bound to the primal land of fey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Irminsul)
 ```encounter-table
 name: Mythic Irminsul

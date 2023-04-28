@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stroud Apprentice
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 51
 desc_short: Obese and reeking of the swamp, this ogre-tainted woman nonetheless projects an aura of animal magnetism. Her long hair drags in the mud.
 ```
-# Description
+## Description
 Born from the grotesque coupling of green hags and their ogre neighbors deep within the River Kingdoms’ tumultuous wilds, the lives of the Stroud Sisters’ children are as dismal as their boggy homes. Favoring their fathers’ strength but still wielding their mothers’ magic, these half-breeds gain what little joy they can by tormenting others, and use their natural inclination for the water to their advantage. By slinking unseen through the marsh and destroying traveling caravans with their spells, they can snatch any survivors away to horrid fates deep within the Ditches. Sometimes a Stroud apprentice lets her prey escape, only to watch the swamp wear her quarry down in a morbid game of cat and mouse that can last for days-and sometimes weeks.
 
 Though these changelings are left to be reared among ogres, denying the call of their hag heritage is virtually impossible for them, and the Stroud Sisters deeply value their children’s instinctual loyalty. Though their brood is still only a dozen members strong, the hags grow ever bolder. They encourage their offspring to travel beyond the Ditches to expand their territory, bringing treasures and victims back as gifts for their dear mothers. Rumors of dozens of roaming ogrekin have reached the courts of many nearby realms, inspiring exploratory parties to venture into the marshlands, most of whom are never heard from again.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stroud%20Apprentice)
 ```encounter-table
 name: Stroud Apprentice

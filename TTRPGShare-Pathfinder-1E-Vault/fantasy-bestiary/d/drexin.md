@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drexin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 84
 desc_short: This pale, spindly creature has a vaguely humanoid shape, but with arms unnaturally long for its torso. Strands of long white hair sprout from its bulbous head, and its eyes are pools of liquid darkness.
 ```
-# Description
+## Description
 This gremlin’s head and pointed ears are overlarge compared to the rest of its anatomy. Thin, often matted hair tops a drexin’s scalp. Its light-starved, wizened flesh stretches taut across its bones, and its claws brush the ground as it walks. An average drexin stands 3 feet tall and weighs 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drexin)
 ```encounter-table
 name: Drexin

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flotsam Terror
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 86
 desc_short: This mass of detritus, sea foam, and seaweed undulates and quivers as it moves. The mass has a humanoid shape roughly the size of a child.
 ```
-# Description
+## Description
 Also known as jetsam swarms, sailor’s bane, and wreck wraiths, flotsam terrors are undead created from the souls of sailors and other sea travelers killed in shipwrecks. Such a soul lingers around the detritus of a shipwreck, eventually coalescing into a flotsam terror. Multiple terrors can spawn from one wreck. They then ride the currents, roaming the seas until they locate other ships. Flotsam terrors are malicious and bitter entities, detesting their fate and intentionally seeking out ships in hopes of causing additional wrecks. The creatures follow and attack any survivors, intent on creating more of their kind.
 
  A flotsam terror is typically 3 feet tall and weighs up to 50 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flotsam%20Terror)
 ```encounter-table
 name: Flotsam Terror

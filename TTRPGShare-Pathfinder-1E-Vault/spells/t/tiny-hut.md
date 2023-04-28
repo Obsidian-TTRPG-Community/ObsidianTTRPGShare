@@ -1,19 +1,21 @@
 ---
-alias: Tiny Hut
+aliases: [Tiny Hut]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Tiny Hut 
+## Tiny Hut
 
 **source**:: PRPG Core Rulebook pg. 360  
 **school**:: evocation (force)
 **level**:: arcanist 3, bard 3, occultist 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a small crystal bead)
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **effect**:: 20-ft.-radius sphere centered on your location  
@@ -21,7 +23,7 @@ alias: Tiny Hut
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create an unmoving, opaque sphere of force of any color you desire around yourself. Half the sphere projects above the ground, and the lower hemisphere passes through the ground. As many as nine other Medium creatures can fit into the field with you; they can freely pass into and out of the hut without harming it. However, if you remove yourself from the hut, the spell ends.  
   

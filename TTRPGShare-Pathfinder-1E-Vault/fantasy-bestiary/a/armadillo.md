@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Armadillo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 30
 desc_short: This round, dust-colored creature’s snout pokes out of its bony armor shell.
 ```
-# Description
+## Description
 These squat-bodied mammals are easily recognizable thanks to their distinctive leathery shells, which provide them with natural protection against numerous dangers and predators in their native environs. Armadillos have very poor eyesight, perceiving the world largely through scent and touch. They are exceptional diggers, and they burrow both to find food and to make their dens. When an armadillo goes underwater, it swallows air to increase its buoyancy, inflating its stomach up to twice its normal size so it won’t immediately sink.
 
  An armadillo is 2-1/2 feet long and weighs roughly 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Armadillo)
 ```encounter-table
 name: Armadillo

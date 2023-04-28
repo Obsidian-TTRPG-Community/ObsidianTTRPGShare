@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Formian Myrmarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 109
 desc_short: This horse-sized insect has a brilliant red carapace, and its monstrous face ref lects great intelligence and confidence.
 ```
-# Description
+## Description
 Myrmarchs are an elite caste of the formian race. They serve as direct agents for the queen, acting as advisors and generals, or administrating tasks where complexity or propriety renders taskmasters unsuitable. It is myrmarchs who answer the call when a particularly skilled diplomat or emissary is required to carry the queen’s words outside of the territory of the hive to the dangerously disorganized races.
 
 While myrmarchs make up the aristocracy of formian society, this does not make them pampered intellectuals and bureaucrats. On the contrary, they are even more deadly than the warriors they often command, and do not hesitate to use their considerable might to aid and protect their kin. Myrmarchs facing combat apply their natural poison to their javelins, making them even more lethal.
@@ -70,7 +72,7 @@ Like other formians, myrmarchs record their life’s history upon their carapace
 The most accomplished, trusted, and battle-tested of their race, myrmarchs form the queen’s elite bodyguard. In a small hive, these bodyguards likely have the same statistics presented above. In the oldest and largest hives, however, most possess class levels.
 
 A myrmarch has an enlarged thorax and abdomen, which give it the same general size and weight as a large warhorse, though its upper body is not much larger than that of a formian warrior’s. Myrmarchs stand about 8 feet high and weigh about 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Formian%20Myrmarch)
 ```encounter-table
 name: Formian Myrmarch

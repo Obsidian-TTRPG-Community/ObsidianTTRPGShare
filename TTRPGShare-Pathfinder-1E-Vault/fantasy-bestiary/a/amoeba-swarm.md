@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Amoeba Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 24
 desc_short: Thousands of tiny gelatinous clots of animate ooze swarm in a wet mound, surrounded by a cloying stink of rancid vinegar. 
 ```
-# Description
+## Description
 An amoeba swarm is a mobile group of amoebas, each about the size of a coin. Giant amoebas may cleave off tiny portions of their substance, which can then become amoeba swarms. At other times, a giant amoeba can spontaneously transform into a swarm, usually if the giant amoeba is starving or in an area with a high concentration of magic. Likewise, a well-fed amoeba swarm may fuse into a single giant amoeba. 
 
 When an amoeba swarm is found in the vicinity of a giant amoeba, the two oozes ignore each other. A giant amoeba in the space of an amoeba swarm takes no damage from the swarm’s attacks and does not run the risk of becoming distracted as a result of being in the swarm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amoeba%20Swarm)
 ```encounter-table
 name: Amoeba Swarm

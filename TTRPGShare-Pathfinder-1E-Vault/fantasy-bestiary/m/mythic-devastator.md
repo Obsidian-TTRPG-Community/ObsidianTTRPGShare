@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Devastator
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 90
 desc_short: Each of this mechanical horror’s four monstrous limbs ends in a terrible weapon.
 ```
-# Description
+## Description
 In an unholy act of twisted, demonic humor, devastators derive their power from the souls of good outsiders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Devastator)
 ```encounter-table
 name: Mythic Devastator

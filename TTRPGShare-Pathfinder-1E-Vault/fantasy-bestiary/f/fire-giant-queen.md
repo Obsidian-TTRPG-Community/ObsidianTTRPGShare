@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Giant Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: Monster Codex
     desc: 62
 ```
-# Description
+## Description
 Many fire giant queens rule their tribes alongside their husbands, whom they wed for life in marriages based on political power rather than romance. Other fire giant queens reign alone, bowing to no king and needing no partner to supplement their own considerable strength and power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Giant%20Queen)
 ```encounter-table
 name: Fire Giant Queen

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cruciarus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 84
 desc_short: The twisted, tormented frame of this ghostly spirit is reflected in the utter anguish that shines within its glaring eyes.
 ```
-# Description
+## Description
 Cruciaruses are also known as the tortured dead. These anguished, frightening creatures are the disembodied spirits of those who died while being tortured. A painful death is not enough to produce these undead; only prolonged and intentional torment, whether punitive or sadistic, gives rise to one.
 
 A cruciarus bears the unmistakable wounds of a torture victim. Curiously, the features of cruciaruses never quite match those of the creatures whose deaths spawn them. While most cruciaruses spawn from the souls of mortal humanoids, others could well arise from creatures that suffer enough torture-statistics for such cruciaruses are identical to those listed above, although changes to size (as in the case of tortured giants or dragons) may be necessary.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cruciarus)
 ```encounter-table
 name: Cruciarus

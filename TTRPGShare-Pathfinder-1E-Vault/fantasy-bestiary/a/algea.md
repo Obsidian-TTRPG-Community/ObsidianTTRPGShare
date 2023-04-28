@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Algea
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 217
 desc_short: This shrill swarm of whip-poor-wills flies in a spiral, their airborne antics infused with streamers of pale blue mist.
 ```
-# Description
+## Description
 Algeas protect (and in some cases retrieve) souls that are at risk of being claimed by other entities, particularly spellcasters who dabbled with otherworldly forces but never officially pledged their souls. Algeas are particularly focused on intervening and “rescuing” souls in danger of being trapped within the Material Plane by powerful entities like the Great Old Ones or false prophets who have deluded minions into worshiping them as living gods.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Algea)
 ```encounter-table
 name: Algea

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giraffe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 150
 desc_short: This animal, covered in a spotted pattern, has a disproportionately long neck that allows it to tower over other animals.
 ```
-# Description
+## Description
 These long-necked animals roam across plains in loose-knit groups, grazing on the upper reaches of acacia trees. Giraffes usually avoid conflict. However, when its young are threatened or if the giraffe is cornered, it attacks ruthlessly, striking with its powerful hooves. Giraffes rarely use their necks to make slam attacks unless they are fighting among themselves as part of their mating displays.
 
 A giraffe is between 16 and 20 feet tall and weighs 3,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giraffe)
 ```encounter-table
 name: Giraffe

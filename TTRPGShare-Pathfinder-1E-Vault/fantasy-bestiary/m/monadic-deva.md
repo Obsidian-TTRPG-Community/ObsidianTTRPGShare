@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Monadic Deva
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 27
 desc_short: This angelic being has smooth skin, a muscular body, and large golden wings, and wields a large mace. 
 ```
-# Description
+## Description
 Monadic devas are stoic watchers of the Ethereal Plane and the Elemental Planes. They search those planes for fiendish enclaves, battle evil planar monsters such as xills, and act as celestial liaisons to the genies and elementals. They have been known to broker temporary peace between warring elemental factions, often using their inherent magic to end hostilities long enough for negotiations to take place. In the armies of the good planes, they are leaders and officers, and after centuries of service to a deity, they may be transformed into astral devas. 
 
 Monadic devas like giving their maces names and proudly announcing them in battle with evil foes. Many of these weapons have seen battle for thousands of years and are quite battered. Younger devas may lend their weapons to good churches on the Material Plane so they can be used by great mortal heroes, though the angels eventually reclaim them after no more than a year and a day. 
 
 A monadic deva is 7 feet tall and weighs 220 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Monadic%20Deva)
 ```encounter-table
 name: Monadic Deva

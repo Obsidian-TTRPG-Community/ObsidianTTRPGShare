@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Medusa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 209
 desc_short: This unnatural woman has scaled skin, white bird wings, and long snake-hair that hangs past her feet.
 ```
-# Description
+## Description
 A mythic medusa is one of the near-immortal progenitors of the medusa race, who mate with humanoids in order to produce weaker (but still deadly) offspring. With deadly poison, power over snakes, and the ability to animate and command those she has turned to stone, a mythic medusa is a dangerous foe who can’t be easily overcome by mirrored shields and blindfolds; she waits, strikes, and retreats, allowing her minions and venom to weaken her foes before she is ready to take their lives.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Medusa)
 ```encounter-table
 name: Mythic Medusa

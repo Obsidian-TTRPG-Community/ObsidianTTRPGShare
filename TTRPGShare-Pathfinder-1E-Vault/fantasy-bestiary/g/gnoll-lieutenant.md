@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoll Lieutenant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Monster Codex
     desc: 96
 ```
-# Description
+## Description
 Gnoll lieutenants use intimidation and the crack of their scorpion whips to push lesser members of the pack into battle and to demoralize their enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoll%20Lieutenant)
 ```encounter-table
 name: Gnoll Lieutenant

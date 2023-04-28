@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Death Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: NPC Codex
     desc: 50
 ```
-# Description
+## Description
 A death priest serves the goddess of plague and undeath, and seeks to infect, kill, and animate anyone who stands in her way. She might desire to one day become undead, but remains alive for now so she can carry out tasks in places that would never allow the undead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Death%20Priest)
 ```encounter-table
 name: NPC Death Priest

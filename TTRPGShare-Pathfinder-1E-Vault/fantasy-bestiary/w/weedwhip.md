@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Weedwhip
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 276
 desc_short: This strange, vibrant plant slowly but dangerously whips about its trio of tendrils with spiked heads.
 ```
-# Description
+## Description
 A weedwhip is an animate plant that rarely attacks unless provoked. Its unpleasant smell (reminiscent of decomposing fish) and tendency to sprout in any passable soil makes it a nuisance to farmers and settlers. Those who don’t know of the weedwhip’s dangers quickly fall prey to this plant once they target it for culling. Farmers have to deal with it in croplands and orchards, groundskeepers find it climbing walls like ivy, druids spot it encroaching on sacred groves, and even cave dwellers find it growing in dung heaps. Animals don’t eat it because of its stench and poison, and fire is a risky way to destroy it because the weed mixes with other plants or wraps around trees or buildings.
 
 A mature plant consists of a torsosized bulb with small, ambulatory roots and three large, lashing vines, each as long as a whip, with blade-like thorns that secrete an irritating toxin. When the weedwhip is blooming, the bulb is crowned with a large flower and its scent is especially strong, often attracting pollinating flies.
 
 In rocky areas lacking suitable soil, a weedwhip can root itself in a corpse, leading some adventurers to think it prefers feeding on dead bodies or plants seeds in its kills, but it does so only in extreme circumstances.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Weedwhip)
 ```encounter-table
 name: Weedwhip

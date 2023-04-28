@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Void Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 72
 desc_short: This dragon’s ebony scales and horns are flecked with a substance that glows an eerie green. The folds of its wings ref lect a starry sky.
 ```
-# Description
+## Description
 Void dragons have been tainted by long exposure to the terrible alien entities that dwell in deep space. Though some continue to struggle against the inevitable tide of annihilation, many have embraced the encroaching void and exist only to feed and destroy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Void%20Dragon)
 ```encounter-table
 name: Young Void Dragon

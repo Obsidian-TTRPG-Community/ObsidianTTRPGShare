@@ -1,19 +1,21 @@
 ---
-alias: Pyrotechnics
+aliases: [Pyrotechnics]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Pyrotechnics 
+## Pyrotechnics
 
 **source**:: PRPG Core Rulebook pg. 328  
 **school**:: transmutation
 **level**:: arcanist 2, bard 2, bloodrager 2, magus 2, mesmerist 2, psychic 2, redmantisassassin 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (one fire source)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one fire source, up to a 20-ft. cube  
@@ -21,7 +23,7 @@ alias: Pyrotechnics
 **saving-throw**:: Will negates or Fortitude negates; see text
 **spell-resistance**:: yes or no; see text
 
-### Description 
+### Description
 
 *Pyrotechnics* turns a fire into a burst of blinding fireworks or a thick cloud of choking smoke, depending on your choice. The spell uses one fire source, which is immediately extinguished. A fire so large that it exceeds a 20-foot cube is only partly extinguished. Magical fires are not extinguished, although a fire-based creature used as a source takes 1 point of damage per caster level.  
   

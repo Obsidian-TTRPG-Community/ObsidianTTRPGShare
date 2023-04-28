@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pleroma
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -94,7 +96,7 @@ sources:
     desc: 12
 desc_short: Within the shadows of this vaguely humanoid figure stir swirling colors and spheres, as if it encompassed all the night sky. 
 ```
-# Description
+## Description
 The pleroma is the most powerful of all the aeons. As a manifestation of the opposing acts of creation and destruction, a pleroma exists in a state of flux, its very form shifting between creation and oblivion within the ebon folds of its vaporous cloak. One who gazes upon a pleroma could spend days studying the continual changes of its form, which most resemble the shifting of celestial bodies within the universe sped up to a pace at which the swirling of galaxies and the tumble of planets form a strange dance. 
 
 Pleromas view the concepts of creation and oblivion not so much as separate processes, but rather as two parts of a cyclical passage that everything in existence must explore. Pleromas guide this progression, ensuring everything remains balanced, such that whatever is created can be destroyed, and that nothing becomes so static that these two processes slow to a halt. For everything that attains a state of semi-permanence, there must be many more things that do not, or rather that cannot ever be reformed into a state of permanence. While pleromas believe in eternity, they understand that eternity is cyclical and infinity is something that repeats itself. Therefore, eternity and infinity are states that can be changed, or altered, if only slightly. Pleromas maintain such changes are necessary to keep the cosmos from becoming static and unbalanced, a state they refer to as apocalypse, or the end of everything. 
@@ -102,7 +104,7 @@ Pleromas view the concepts of creation and oblivion not so much as separate proc
 Of all the aeons, pleromas possess the strongest connection to the entity or concept they refer to as Monad. All aeons believe themselves to be extensions of this entity, and while they act freely and independently of the entity, they always act within the constricts of its will or needs. This behavior is not so much a state of servitude as a symbiosis in which the actions of the pleromas are universally beneficial to both themselves and the entity they are part of. Pleromas describe Monad as the sentience of the multiverse, from which all things are created through the recycling of everything that ever existed. 
 
 Pleromas typically travel alone. Their arrival in a region almost always heralds some sort of dramatic change. They pay little mind to the wants and needs of other creatures, and remain entirely focused upon their primary task. They avoid conflicts of ethics, wars, and similar pursuits, save when manipulating such events would help to restore the balance between creation and oblivion. Should any be so foolish as to attempt to interfere with or sway their work, pleromas immediately retaliate by bringing all of their significant powers and devastating abilities to bear until the intervention is destroyed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pleroma)
 ```encounter-table
 name: Pleroma

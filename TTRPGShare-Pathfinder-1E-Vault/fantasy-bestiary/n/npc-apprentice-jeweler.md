@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Apprentice Jeweler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
   - name: NPC Codex
     desc: 260
 ```
-# Description
+## Description
 An apprentice delivers orders when not practicing her craft. She usually begins her apprenticeship as a young adult, serves for 7 years, and is paid mostly in room and board at the master’s home or shop. After this duration, the apprentice becomes a journeyman in the craft and is paid a daily wage by the master. Some, however may instead leave to start their own businesses with employees once they reach the journeyman stage. A typical artisan has only one apprentice at a time, but a famous or wealthy one may have multiple apprentices at once.
 
 The above stat block can be used for any sort of trade that requires fine skill but not great strength, such as cobbling, dyeing, weaving, glass-blowing, locksmithing, or pottery-making. It can also be used to represent skilled professionals such as carriage drivers and house servants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Apprentice%20Jeweler)
 ```encounter-table
 name: NPC Apprentice Jeweler

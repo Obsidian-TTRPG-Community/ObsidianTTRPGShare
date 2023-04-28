@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC River Cleric
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 62
 desc_short: This holy woman wears a large pendant of a winged, two-headed cobra around her neck and wields a mace of similar make.
 ```
-# Description
+## Description
 River clerics are dedicated to the pharaoh and the goddess Wadjet, the latter of whom they believe dwells within the papyrus marshes of the River Sphinx. These holy men and women consider it their sacred duty to offer services to river-goers in Osirion, whether by acting as guides for unexperienced travelers or by ferrying individuals across rivers. While accompanying travelers on their river journeys, river clerics make sure to educate the uninitiated on Wadjet and their ancient goddess’s divine doctrine.
 
 While attending to an Osirian river in accordance with Wadjet’s tenets, river clerics expect to be paid for their services just as any other guide or ferryman. Unlike others who perform similar functions, however, clerics of Wadjet use nearly all of their income to fund their deity’s church. A river cleric never turns down a job unless she feels it clearly violates her deity’s code of conduct (such as obstructing or defiling the river or acting against the interests of the pharaoh and his loyal subjects). Even when not ferrying clients, a river cleric can be found traveling along the river, offering her goddess’s insight and blessings to the loyal subjects of the reigning pharaoh.
 
 For more information on Wadjet and the other gods of Ancient Osirion, see Pathfinder Adventure Path #80: Empty Graves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=River%20Cleric)
 ```encounter-table
 name: NPC River Cleric

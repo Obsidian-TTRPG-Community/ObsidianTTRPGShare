@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mage Spy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: NPC Codex
     desc: 192
 ```
-# Description
+## Description
 The mage spy is a diplomat and saboteur.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mage%20Spy)
 ```encounter-table
 name: NPC Mage Spy

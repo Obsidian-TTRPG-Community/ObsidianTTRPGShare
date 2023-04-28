@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iron Cobra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 182
 desc_short: This creature resembles a small, metallic cobra. Its body is made of overlapping iron plates, and its eyes are pinpoints of red light.
 ```
-# Description
+## Description
 The iron cobra is a simple construct that resembles a hooded cobra made out of metal. The iron cobra is typically used as a bodyguard or guardian of treasure, though its magical ability to unerringly locate creatures means it is also used as an assassin. Since an iron cobra’s poison reservoir can contain multiple types of venom, the construct’s specific use can be further tailored by varying the poison used. Some spellcasters even fill these reservoirs with potions, so that when the cobra bites, it injects the potion into its target. This is a somewhat dangerous method for gaining the effects of a potion, but it does free up the cobra’s master to do other things in a combat round apart from quaffing potions.
 
 Iron is the most common material for these creations, but some crafters prefer more exotic materials when creating the serpentine constructs.
@@ -61,7 +63,7 @@ Cold Iron Cobra (+0 CR): This cobra’s natural attacks count as cold iron for t
 Darkwood Cobra (+0 CR): This cobra is more mobile; it gains a swim speed of 30 ft. and a climb speed of 20 ft.
 
 Mithral Cobra (+1 CR): This cobra is much swifter. Its Dexterity increases by +4 and its speed to 70 ft., and it can make 2 bite attacks per round as a full attack action.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iron%20Cobra)
 ```encounter-table
 name: Iron Cobra

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Caterpillar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 51
 desc_short: This enormous caterpillar is covered with hundreds of sharp, poisonous bristles.
 ```
-# Description
+## Description
 Blood caterpillars are among the largest of giant caterpillars. These massive vermin draw sustenance from rotting meat in the same way many butterflies eat rotting fruit. Behind their mandibles are spinnerets that allow them to manipulate silk, which the caterpillars can discharge to spin webs and immobilize their prey. Their venom weakens the muscles of creatures exposed to it, aiding the caterpillars in restraining and devouring even large, strong, and agile prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Caterpillar)
 ```encounter-table
 name: Blood Caterpillar

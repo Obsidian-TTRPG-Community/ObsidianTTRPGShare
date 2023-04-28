@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Curse Devil (Phiam)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 53
 desc_short: This short fiend has mottled pink skin, clawed fingers, and green eyes. It drags a tattered scroll behind its feminine frame.
 ```
-# Description
+## Description
 Curse devils, or phiams, are constructs of Hell that exist outside the infernal hierarchy. They are forged by more powerful devils to hunt down mortals whose souls belong to Hell. When folk speak of “family curses” or “damned fates,” a curse devil is often pulling strings.
 
 A curse devil is 4 feet tall and weighs 80 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Curse%20Devil%20(Phiam))
 ```encounter-table
 name: Curse Devil (Phiam)

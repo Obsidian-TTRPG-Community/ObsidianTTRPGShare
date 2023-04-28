@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 135
 desc_short: This giant’s skin is dead black, and it wears a gold-inlaid breastplate, a headdress, and armbands decorated with skulls.
 ```
-# Description
+## Description
 Though their kind originated on the Plane of Shadow, several families of shadow giants have relocated to the wilder regions of Nidal at the invitation of the Umbral Court. They serve as a company of elite shock troops, kept a close secret and only used in operations where they are not expected to leave any survivors to tell the tale.
 
 Most shadow giants are especially taciturn and keep to themselves when not called to duty by the Umbral Court. They keep their own counsel and practice their own mysterious religion, whose bloody rituals of autosacrifice and cannibalism are presided over by their bone-and-featheradorned shamans atop short-stepped pyramids constructed of dark basalt blocks. On the Shadow Plane, families of shadow giants have been known to combine together to form greater tribes when times of war are at hand. Such an army arrayed upon the field of battle is often enough to make enemies sue for peace with offers of gold and prisoners for sacrifice.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Giant)
 ```encounter-table
 name: Shadow Giant

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Carrion Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 78
 desc_short: A lurching mash-up of rotting flesh, jagged bone, and coarse hair, this humanoid monstrosity reeks of death and decay.
 ```
-# Description
+## Description
 Carrion golems are made from the partially decayed parts of numerous dead creatures-no two carrion golems are exactly alike in appearance. Most are created from the corpses of humanoid creatures that are then augmented here and there with parts taken from animals, resulting in a monster that stands 6 feet tall and weighs 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Carrion%20Golem)
 ```encounter-table
 name: Carrion Golem

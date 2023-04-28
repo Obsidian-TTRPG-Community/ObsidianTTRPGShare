@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Barmaid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
   - name: NPC Codex
     desc: 257
 ```
-# Description
+## Description
 A barmaid isn’t above passing messages or slipping a dose of sleeping poison into a drink if the price is right.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Barmaid)
 ```encounter-table
 name: NPC Barmaid

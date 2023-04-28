@@ -1,19 +1,21 @@
 ---
-alias: Magnetic Field
+aliases: [Magnetic Field]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Magnetic Field 
+## Magnetic Field
 
 **source**:: People of the River pg. 26  
 **school**:: abjuration
 **level**:: alchemist 6, arcanist 7, cleric 7, investigator 6, magus 6, oracle 7, sorcerer 7, summoner 6, summoner (unchained) 6, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 30 ft.  
 **area**:: 30-ft.-radius emanation  
@@ -21,7 +23,7 @@ alias: Magnetic Field
 **saving-throw**:: Reflex negates (object, see text)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You create a spherical magnetic field that surrounds you to a range of 30 feet and follows you for the duration of the spell. Unattended metal objects in range-including weapons, armor, and anything made primarily out of metal-are pulled violently toward you, stopping just short of your space and falling harmlessly to the ground. Objects secured to a nonmetallic fixture remain where they are unless a forceful tug would be enough to detach them. Loose objects weighing more than 500 pounds are not affected. If the magnetic field would cause a dangerous metal object such as a sword or anvil to intersect a square occupied by a creature, that creature must succeed at a Reflex save or take damage as if from an improvised weapon of the object’s size (or smaller or larger, at the GM’s discretion).  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quickling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 227
 desc_short: This creature resembles a short and slight elf wearing drab clothes and a wicked grin. In a blink, the thing darts from sight.
 ```
-# Description
+## Description
 Few creatures can match the speed of a quickling. These malicious fey creatures delight in striking with blinding speed and accuracy, often killing their victims without ever fully revealing themselves; the victim simply spurts blood and falls over dead, with no witnesses to the quickling’s deed. Though related to brownies and grigs, quicklings share none of their kin’s generosity or merriment, choosing instead to live a life of cruelty and viciousness. Quicklings pride themselves on insults and brutality, and frequently stalk and harass their quarry until the victim gives up the chase. While quicklings are naturally invisible when motionless, they rarely contain themselves, and bob and twitch while standing and talking to other creatures. Quicklings hate every other race of creature, particularly elves, gnomes, and other kinds of fey. They barely tolerate their own kind, and rarely work together for longer than a few weeks.
 
 Quicklings stand just over 2-1/2 feet tall and weigh 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quickling)
 ```encounter-table
 name: Quickling

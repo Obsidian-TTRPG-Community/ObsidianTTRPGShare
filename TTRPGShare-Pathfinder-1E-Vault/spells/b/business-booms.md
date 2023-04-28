@@ -1,19 +1,21 @@
 ---
-alias: Business Booms
+aliases: [Business Booms]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Business Booms 
+## Business Booms
 
 **source**:: Quests and Campaigns pg. 28  
 **school**:: enchantment
 **level**:: arcanist 3, bard 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (promotional materials such as flyers and posters worth 10 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one building  
@@ -21,7 +23,7 @@ alias: Business Booms
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You may cast this spell immediately prior to spending 1 day of downtime to promote a business (see page 85 of *Ultimate Campaign*). The spell is cast on a building you wish to promote, which is magically bestowed with magical decorations and other improvements that make it generally more appealing, and it is treated as seeing increased activity for the spell’s duration. If the spell is cast on a building that you do not promote immediately thereafter, the spell is expended with no effect.  
   

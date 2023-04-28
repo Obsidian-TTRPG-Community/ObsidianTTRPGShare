@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mastodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 128
 desc_short: This creature is larger than a normal elephant, with enormous sweeping tusks and shaggy brown fur on its body.
 ```
-# Description
+## Description
 The great mastodons are primeval cousins of elephants. Their large tusks dwarf those of regular elephants, jutting outward and then curving back toward one another at the tips. Shaggy woolly mammoths are a mastodon variant adapted to cold environments, but have the same statistics.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mastodon)
 ```encounter-table
 name: Mastodon

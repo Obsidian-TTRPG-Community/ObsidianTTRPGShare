@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Digmaul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,7 +45,7 @@ sources:
     desc: 82
 desc_short: This muscular, cougarlike cat has fearsome teeth and a thick tail ending in a spiked ball.
 ```
-# Description
+## Description
 Digmauls are stealthy ambush predators, and their victims often catch a hint of their musky odor just seconds before the beasts leap upon them. In many places, only hermits, pioneers, and adventurers come across these feline hunters as they press into uncharted wildernesses, but in areas where humanoid populations have recently expanded, communities encroaching into formerly pristine forests may also have to contend with these cunning killers. Some tale-spinners warn that humanoids are the preferred prey of digmauls, and charlatans use this falsehood to stir up fear and get people to buy charms and unguents said to ward against digmaul attacks.
 
 Digmauls make their homes in remote woods, where they climb up into trees to leap down on unsuspecting prey, tackling their victims and beating them to death with bulbous, spiked tails. When actively hunting and not simply relying on opportunity, digmauls stalk their prey for hours, sometimes even days, keeping a safe distance and making use of their superior stealth to remain unnoticed. They use their keen noses to follow their quarries’ trails when they lose sight in the thick, dark forests. Some stories claim that humanoids native to the forests where digmauls hunt have been successful in training these ferocious cats to guard their secluded domains, though such feats may rely on druidic magic.
@@ -53,7 +55,7 @@ Though only having animal intelligence, digmauls communicate with one another in
 A digmaul stands nearly 3 feet tall at the shoulder, is 6 feet long, and weighs 180 pounds.
 
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Digmaul)
 ```encounter-table
 name: Digmaul

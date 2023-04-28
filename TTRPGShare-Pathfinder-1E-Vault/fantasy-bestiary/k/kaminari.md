@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kaminari
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 86
 desc_short: This enormous humanoid possesses vibrant green skin and equally loud hair, and is surrounded by a ring of huge drums and storm clouds.
 ```
-# Description
+## Description
 Kaminaris are robust spirits of enormous size that watch over the balance of weather, taking the form of violent storms wherever they go. More monstrous-looking and boisterous than most kami, kaminaris are often mistaken for oni upon first glance, their unpredictable natures furthering the confusion. Kaminaris care little for most mortals, primarily concerning themselves with the maintenance and protection of their wards- enormous storm clouds that represent the awesome power of thunder and lightning. In addition to their duties guarding their storm wards and the balance of weather, kaminaris are endlessly fascinated with musical instruments, particularly drums.
 
 Kaminaris have vibrant skin and equally colorful features; the specific hues vary from kaminari to kaminari. A kaminari stands roughly 25 feet tall and weighs about 10 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kaminari)
 ```encounter-table
 name: Kaminari

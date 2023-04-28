@@ -1,19 +1,21 @@
 ---
-alias: Dispel Magic, Greater
+aliases: [Dispel Magic, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dispel Magic, Greater 
+## Dispel Magic, Greater
 
 **source**:: PRPG Core Rulebook pg. 272  
 **school**:: abjuration
 **level**:: arcanist 6, bard 5, cleric 6, druid 6, hunter 6, inquisitor 6, magus 6, occultist 5, oracle 6, psychic 6, shaman 6, skald 5, sorcerer 6, spiritualist 6, summoner 5, summoner (unchained) 5, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **Target or Area** one spellcaster, creature, object, or a 20-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Dispel Magic, Greater
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *dispel magic*, except that it can end more than one spell on a target and it can be used to target multiple creatures.  
   

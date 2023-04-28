@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Masked Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: NPC Codex
     desc: 156
 ```
-# Description
+## Description
 The masked lord manipulates events from the shadows, using a thousand different names. He creates conspiracies and topples empires without anyone ever knowing his true identity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Masked%20Lord)
 ```encounter-table
 name: NPC Masked Lord

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sahuagin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 239
 desc_short: This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its piscine head features a toothy maw.
 ```
-# Description
+## Description
 Ravenous and cruel, the sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities raised by these creatures darken the deep ocean trenches, and many are the near-coastal fortresses where they launch endless raids against their air-breathing enemies who dwell in close proximity to the shore. Warlike and proud, the sahuagin rarely ally with others, and view most other aquatic races such as the aboleths, the merfolk, and their ilk as competitors. The only creatures they seem to respect and adore apart from their own kind are sharks, for in these relentless predators the sahuagin see much of themselves. A sahuagin stands 7 feet tall and weighs about 250 pounds.
 
 Sahuagin are prone to beneficial mutations, and when a mutant is born it almost always rises to the society’s nobility or rulership. The most common sahuagin mutation is an extra pair of arms (granting two additional claw attacks or the opportunity to wield more weapons). Rumors speak of the rare malenti-sahuagin who look not like sharkmen but aquatic elves, yet who share their kin’s bloodlusts and cruel natures. Malenti often serve as spies and assassins for sahuagin rulers, but rumors of all-malenti tribes in isolated reaches of the sea persist.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sahuagin)
 ```encounter-table
 name: Sahuagin

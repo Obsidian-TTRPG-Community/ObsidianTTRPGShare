@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mana Wastes Mutant (Gnoll)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 28
 desc_short: Patchy, matted fur covers this mutated, hyena-headed monster, and acidic green drool pours from its ravenous maw.
 ```
-# Description
+## Description
 The magic-warping effects of the Mana Wastes often extend to the very life force of creatures who wander the trackless deserts. The dangerous radiations of magic gone afoul infuse the bodies and essences of these wanderers. Those who spend too much time in the Spellscar Desert or the wasteland’s other treacherous environs occasionally fall prey to the deadly energies that persist in these regions, and their bodies gradually decay more and more until they are so far removed from their original forms that they can be described only as mutants. These twisted and degenerate creatures roam in packs throughout the Mana Wastes.
 
 Because those who succumb to the Mana Wastes’ mutagenic effects often hail from the Grand Duchy of Alkenstar or one of its smaller holdings in the region, numerous humanoid mutants are proficient in the use of firearms, having learned to wield the weapons in place of the unpredictable forces of magic. Those who manage to actually secure a powerful weapon from one of the dwarven arms factories in the Wastes often garner the respect of other mutants. Such firearm wielders invariably rise to positions of power, becoming known as wasteland lords by their envious peers, who all squabble and fight for the same honor.
 
 Most Mana Wastes mutants collaborate in small tribal groups with other mutants, since those who wander the battered desert alone risk attack from the resident mutated vermin or violent bands of lawless gnolls, giants, or goblins. The civilized people of Alkenstar shun mutants for the most part, regarding transformed humans and other wanderers of the Mana Wastes as no better than monsters. The border guards of neighboring Nex keep a stringent lookout for such wasteland travelers and attack them on sight. The necromancers of Geb, however, see potential in the mutated peoples of the Spellscar Desert, and occasionally entreat them to leave their blasted home and relocate to the heart of Geb in Yled by promising a life of comfort and acceptance. In actuality, such mutants are taken to the infamous Mortuarium, where Geb’s cruelest wizards perform unholy experiments on Alkenstar’s deformed expatriates and turn them into undead abominations to serve in Geb’s lurching army.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mana%20Wastes%20Mutant%20(Gnoll))
 ```encounter-table
 name: Mana Wastes Mutant (Gnoll)

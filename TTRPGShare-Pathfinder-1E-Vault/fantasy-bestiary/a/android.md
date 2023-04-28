@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Android
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 3
 desc_short: This slender woman possesses a strange, calculated grace. Her pale flesh is adorned with complex blue tattoos.
 ```
-# Description
+## Description
 The technological beings known as androids possess an almost human appearance. Although they are not human, most androids who dwell among humans prefer to hide their true nature and attempt to live as if they were humans. Their difficulty in understanding and imitating emotions can betray their true nature if they are not careful, so most study humans intently to become better at disguising themselves. Androids are created, not born, and come into the world fully mature. The alien forges in which new androids are created are hidden in mysterious ruins, and most androids have no memory of the processes involved in their creation or the locations where their construction took place.
 
 A typical android stands 6 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Android)
 ```encounter-table
 name: Android

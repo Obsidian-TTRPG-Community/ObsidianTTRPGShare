@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boreal Wolf
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 56
 desc_short: This powerful, white-furred canine watches its prey with piercing, pale blue eyes, darting its tongue across sharp, ivory teeth.
 ```
-# Description
+## Description
 Though boreal creatures mostly resemble their temperate kin, the effects of sorcerous winter have bolstered them, making them stronger and much more dangerous. In basic shape and form they appear similar to their ancestors, but other characteristics reveal the creatures’ altered nature. Their fur and skin are much paler, often shades of blue, gray, or simply white, and it is not uncommon for parts of these creatures to be cloaked in frost, especially their jagged claws and shaggy hair.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boreal%20Wolf)
 ```encounter-table
 name: Boreal Wolf

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Devil Monkey
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 93
 desc_short: This towering baboon has fiery orange fur, with two tufts of hair curling up like horns on its head.
 ```
-# Description
+## Description
 Devil monkeys are so named for their bright red-orange fur and distinct hair tufts that resemble horns. Despite their name and strange appearance, these primates have no connection to devils or other supernatural creatures, although their penchant for violence and lairing in regions not typically noted for primate fauna often sparks rumors of strange monsters or mythical invaders. In truth, devil monkeys are giant relatives of baboons. Like their smaller cousins, devil monkeys have doglike muzzles and large canine teeth. Their tails are relatively short and not prehensile. Devil monkeys mostly move around on all fours, but when they rest on their haunches, their heads can reach up to 18 feet high. A typical devil monkey weighs 15,000 pounds. 
 
 Owing to their rarity, reclusiveness, and unusual appearance, devil monkeys are often surrounded by legends. In many cases, they are mistaken for other creatures. Their spoor might suggest an unusually large bear or other predator, while those who catch sight of the primate may mistake it for a devil or other fiend. Even when they’re recognized as a kind of monkey, the fact that they may live far from typical monkey territory often adds to their air of sinister mystery.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Devil%20Monkey)
 ```encounter-table
 name: Devil Monkey

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orsheval
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 277
 desc_short: This short, iron-skinned horse is surrounded by a flickering light. A preternatural intelligence glitters in its metallic golden eyes.
 ```
-# Description
+## Description
 An orsheval is a patient, hard-working servitor of Abadar. Accustomed to bearing heavy loads and vulnerable riders, an orsheval fulfills its duties without complaint, glad to contribute to the long-term goals of its master. Its iron body shines with light, and it uses this natural glow to lead allies or continue work long into the night. Although only the size of ponies, orshevals can look like miniature, sculpted versions of full-grown horses of any kind, but most prefer the shape of a sturdy draft horse or warhorse.
 
 An orsheval is as intelligent as a typical human and quite familiar with the nature of trade, bargaining, and spotting liars and cheats. Many arrogant mortals have ignored or insulted orshevals, thinking them dumb beasts, only to have the servitors chastise them using truespeech. When dealing with such people, an orsheval might become as stubborn as a true horse, relenting only if the offender apologizes and makes appropriate financial restitution to the church of Abadar.
 
 Most orshevals stand about 4 feet tall and weigh about 700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orsheval)
 ```encounter-table
 name: Orsheval

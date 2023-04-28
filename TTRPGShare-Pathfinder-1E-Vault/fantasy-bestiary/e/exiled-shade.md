@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Exiled Shade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 123
 desc_short: Gray and black shadows and mist coalesce into a humanoid figure, its face a distorted mask of rage and hatred.
 ```
-# Description
+## Description
 An exiled shade is a wretched, undead remnant of an evil organization. Driven out and possibly even slain by its former allies, the exiled shade wallows in the pain of its betrayal and its paradoxical desires to simultaneously destroy and be reunited with its former comrades. 
 
 Exiled shades linger near the places they once served, but are psychologically unable to return to the places from which they were exiled. Instead they attack lonesome travelers, enslaving them to use as puppets against their onetime allies. 
 
 An exiled shade is approximately 6 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Exiled%20Shade)
 ```encounter-table
 name: Exiled Shade

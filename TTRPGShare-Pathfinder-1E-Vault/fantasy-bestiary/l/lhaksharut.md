@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lhaksharut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,7 +80,7 @@ sources:
     desc: 164
 desc_short: This six-armed creature appears to be made of stone. Its lower torso is a collection of whirring rings of metal.
 ```
-# Description
+## Description
 A typical lhaksharut is a six-armed construct that appears to be made of a mix of metals and stone. Where a human would have legs, it instead possesses a complex orb of spinning rings similar in shape to an orrery-it is this whirling machine that grants the lhaksharut the ability to fly. Though a lhaksharut has huge, metal wings, they serve as little more than stabilizers when it’s in flight. Four of the construct’s arms end in functional hands that it normally uses to carry a mix of weapons. The lhaksharut’s lower two arms hold large, flaming metal spheres in their hands-it uses these spheres to generate elemental bolts of energy that it can hurl great distances to damage foes.
 
 Lhaksharuts are tasked with maintaining the separation between different planes of reality, especially the elemental planes. They do not concern themselves with petty trespasses by visitors from one plane to another, nor even the occasional creation of a pocket plane or hijacking of a chunk of one reality to serve as a base within another. What does trouble a lhaksharut is anything that represents a permanent link between planes, or an effort by the denizens of one plane to invade and conquer another. They often find themselves in conflict with the machinations of powerful outsiders who seek to create beachheads on other planes to serve as launching pads for massive incursions.
@@ -90,7 +92,7 @@ Rarely, a lhaksharut can even be convinced that maintaining a planar link is imp
 In combat, a lhaksharut uses its speed and mobility to get close to targets. A lhaksharut sees groups as imperfect machines, and knows that the best way to overcome them is to disrupt their smooth functioning. While creatures able to directly harm the inevitable are dealt with if necessary, it much prefers to first eliminate healers, scouts, and shield-bearers before tackling powerful fighters or spellcasters. A lhaksharut cannot be taunted or baited into changing its course of action-it is completely emotionless and only cares about the efficiency of its battle plan. It also fights without care for its own survival, trusting that either its regeneration will restore it to life, or a new inevitable will be created to replace it.
 
 When unaware of a threat to the sanctity of the division of the planes, and not threatened, a lhaksharut can be a surprisingly good conversationalist. They are as likely to be found floating through a void as maintaining any kind of stronghold. Lhaksharuts are aware that the domains they wish to patrol are too vast to be directly viewed with any efficiency. Some lhaksharuts thus forge networks of informants who can patrol the many planes, and send word to the inevitable to alert it of any apparent breaches. The constructs have no other need for the treasure that they gather from transgressors, and sometimes even pay for tips that might lead to a planar infraction. Anyone who might prove to be a valuable informant is treated with respect, and may even be able to gain insights into the planes from the lhaksharut’s vast knowledge on the subject, as long as questions never wander into the dangerous territory of combining two planes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lhaksharut)
 ```encounter-table
 name: Lhaksharut

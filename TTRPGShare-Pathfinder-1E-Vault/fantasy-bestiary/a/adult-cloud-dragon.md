@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Cloud Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: Bestiary 2
     desc: 96
 ```
-# Description
+## Description
 Cloud dragons stay out of the complicated political schemes and obsessions of other dragons (especially the chromatic dragons), preferring to live their lives freely and as the whim to travel strikes them. Exploration and viewing new lands from far above are the cloud dragon’s greatest joy, rivaled only by speaking with new creatures and gaining exotic treasures from them. They keep lairs on high mountain peaks, but are often away on journeys of discovery, returning home only when they’ve claimed a new treasure that needs to be placed in safekeeping back home.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Cloud%20Dragon)
 ```encounter-table
 name: Adult Cloud Dragon

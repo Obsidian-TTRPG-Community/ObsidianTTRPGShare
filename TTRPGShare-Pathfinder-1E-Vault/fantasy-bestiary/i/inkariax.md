@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Inkariax
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 86
 desc_short: This impeccably formed man has ice-blue skin. Bleeding icicles pierce his lips and form a jagged cloak around his waist and legs.
 ```
-# Description
+## Description
 The kyton demagogue known as the White Death is an ancient, mysterious, and aloof figure who dwells on the Plane of Shadow and is cloaked in the flesh-piercing bloody icicles, some of which stitch his mouth closed. For millennia he has lurked in his realm of Frozen Tears, located atop a thick sheet of shadowy ice over a frigid sea.
 
  Inkariax sprang fully formed from the plane’s essence eons ago, terrible in his perfection, with flesh sculpted of ice and unadulterated, if surprisingly refined, sadism. The demagogue spent untold ages wandering the cosmos looking for the perfect place to keep his collection of wickedly preserved innocents, leaving carnage and abandoned menageries of victims along the way. When he finally happened upon the wastes that would become the Frozen Tears, Inkariax felt a surging empathic link with Doloras, the Queen of the Night of dispassion, whom he believed freed the entire kyton species from Hell. He then began constructing an elaborate and terrible citadel and surrounding realm from the sheer evil of the landscape before him. The screams of the first victims of Inkariax and his kytons are said to be woven into the realm’s fabric in such a way as to drive any creature fool enough to stumble upon them to heinous thought and deeds.
@@ -90,7 +92,7 @@ Inkariax is an enormous humanoid, towering 70 feet high and crusted with ice. Bl
  Frozen Tears, the demagogue’s realm, lies in the Shadow Plane atop a frozen sea and blanketed by an icy blizzard of razor-sharp crystals. The heart of his realm, White Death’s Diadem, holds his greatest treasures and most powerful minions. Its upper reaches, however, are reserved only for the demagogue himself and for his greatest horrors, which he has preserved for all time.
 
  Inkariax has a long-standing connection to the infernal demigoddess Doloras, even beyond the debt all velstracs owe to her for setting them free from Hell. Doloras visited Inkariax before he built his realm, and the demagogue named it for Doloras’s gift of frozen tears from her crown. Indeed, Inkariax built much of his realm in honor of the demigoddess, and he strives to earn her further favor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Inkariax)
 ```encounter-table
 name: Inkariax

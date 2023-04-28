@@ -1,19 +1,21 @@
 ---
-alias: Summon Elemental Steed
+aliases: [Summon Elemental Steed]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Summon Elemental Steed 
+## Summon Elemental Steed
 
 **source**:: Faction Guide pg. 61  
 **school**:: conjuration (summoning) \[see text\]
 **level**:: druid 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one chariot  
@@ -21,7 +23,7 @@ alias: Summon Elemental Steed
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You summon a greater elemental (air, earth, fire, or water) bound in the form of a mighty chariot that moves at your command and can carry up to nine Medium creatures. Passengers inside are not harmed by the elemental, and can see, breathe, and act normally, suffering no environmental damage even when the elemental chariot is flying, underwater, burrowing, or using earth glide. Passengers are not otherwise protected, though the elemental chariot does provide cover like a normal chariot.  
   

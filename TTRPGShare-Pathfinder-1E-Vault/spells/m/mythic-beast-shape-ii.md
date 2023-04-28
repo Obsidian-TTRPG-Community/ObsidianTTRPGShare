@@ -1,25 +1,27 @@
 ---
-alias: Mythic Beast Shape II
+aliases: [Mythic Beast Shape II]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Beast Shape II
+## Mythic Beast Shape II
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, investigator 4, magus 4, redmantisassassin 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 This spell functions as *beast shape I*, except that it also allows you to assume the form of a Tiny or Large creature of the animal type. If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, scent, grab, pounce, and trip.  
   

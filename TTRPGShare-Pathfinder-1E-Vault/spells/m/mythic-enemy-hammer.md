@@ -1,19 +1,21 @@
 ---
-alias: Mythic Enemy Hammer
+aliases: [Mythic Enemy Hammer]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Enemy Hammer
+## Mythic Enemy Hammer
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: transmutation
 **level**:: arcanist 6, occultist 6, psychic 6, sorcerer 6, spiritualist 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (puppet strings)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Enemy Hammer
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You grab a creature with telekinesis and use it to batter nearby opponents or objects. You must target a specific creature when casting this spell and once you select that creature you cannot switch to another. Each round, as a standard action, you can attempt to hurl the target at any creature or object within 30 feet of it. You must make an attack roll whenever you use the target as a weapon. The attack bonus for this attack is equal to your caster level plus either your Intelligence or Charisma modifier (whichever is higher). If you successfully hit the new target with the creature both it and the creature take damage based on the creature’s size.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mosquito Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 29
 desc_short: The droning and spastic movements of this cloud of hungry mosquitoes promise a painful ordeal.
 ```
-# Description
+## Description
 Horrifically enlarged versions of the common mosquito, giant mosquitoes bring death on swift wings. A single specimen can drain the blood from a human adult with shocking speed, while swarms of fist-sized mosquitoes can lay waste to herds of livestock or entire villages. In the wild, giant mosquitoes prey upon megafauna like dinosaurs and other huge creatures.
 
 Giant mosquitoes grow to 6 feet in length, and weigh up to 150 pounds. Variant species of giant mosquitoes exist, although not in the great diversity seen in many other giant vermin. The most common variant is the smaller goblin mosquito (a giant mosquito with the young creature template), but stories of Large jungle mosquitoes (giant mosquitoes with the advanced and giant simple templates) are not unheard of.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mosquito%20Swarm)
 ```encounter-table
 name: Mosquito Swarm

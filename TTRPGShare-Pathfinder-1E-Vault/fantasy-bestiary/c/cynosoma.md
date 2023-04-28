@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cynosoma
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 229
 desc_short: This moth-winged woman has a delicate appearance, though her features are somewhat masked by a haze of shimmering dust.
 ```
-# Description
+## Description
 Cynosomas, sometimes called “moth angels” or “daughters of Desna”, are a race of outsiders native to the demiplane of Cynosure. They often depart their home to wander the vastness of the Material Plane, and do so with Desna’s blessing; the goddess encourages her children to choose their own path, even when it leads away from her service.
 
  Cynosomas rarely seek battle, but neither do they shy away from it, especially when innocents are threatened or when they encounter foes of their faith. In combat, a cynosoma fights with spell and starknife, using her mobility and glitterdust spell-like ability to allow for sneak attacks. Cynosomas are protectors of all who sleep, though, and no cynosoma ever willingly allows sleeping creatures-even hated enemies-to be harmed.
 
  A cynosoma stands 6 feet tall and weighs about 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cynosoma)
 ```encounter-table
 name: Cynosoma

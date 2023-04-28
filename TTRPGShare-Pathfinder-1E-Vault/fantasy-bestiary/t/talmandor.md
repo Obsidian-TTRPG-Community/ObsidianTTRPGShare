@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Talmandor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,7 +82,7 @@ sources:
     desc: 62
 desc_short: This gloriously plumed anthropomorphic eagle has feathers tipped with shimmering gold, and claws with sharp black talons.
 ```
-# Description
+## Description
 Talmandor is the celestial patron of Andoran and a great leader of the avoral agathions, surpassed among their kind only by the empyreal lord Ylimancha, the Harborwing. Talmandor abides in the aptly named Soaring Palace of Talmandor the Golden on the plane of Nirvana, yet travels frequently among the planes. In addition to looking in on the nation that has arisen under his wings, he wanders the Outer Sphere, often acting as an ambassador between mortal priesthoods and the immortal servants of Erastil, Iomedae, and Shelyn.
 
 Like most agathions, Talmandor takes an interest in influencing mortals and bringing them to a place of enlightenment. He is convinced that the greatest enlightenment for mortals can be achieved through social interaction. He has observed that mortals respond best to a full, robust engagement with their fellow citizens, and that it’s important to have a voice in the decisionmaking process of one’s society. Talmandor sees hereditary aristocracy and primogeniture as shackles slowing society’s ascent into a place of justice and peace where all citizens work together for the common good. Talmandor does not want the rights and importance of individuals to be sacrificed for the greater good, and advocates a balance between collective needs and communitarian works on the one hand and the individual’s personal responsibilities and liberties on the other.
@@ -92,7 +94,7 @@ In some parts of Andoran, the adulation Talmandor has earned goes beyond respect
 Though Andoran celebrates a feast day in his honor on 4 Erastus, Talmandor insists the celebration is held to honor him in his capacity as one of many heroes of the nation, rather than as its divine protector. Despite his refusal of the mantle of divinity, a few in Andoran (including a small but growing number of oracles and paladins) revere him as a nascent demigod embodying the virtues of hope, liberty, and community, and his worship has begun to grow in small congregations across the country.
 
 Talmandor is closely associated with birds of prey and as a result is the patron of the Steel Falcons order of the Eagle Knights of Andoran, as well as a frequent advisor to leaders within the order. Talmandor inspires their work as ambassadors of liberty, and he sometimes even sends aid to those in the midst of dangerous political missions aimed at cultivating peace. Those who rise to greatness also receive Talmandor’s direct blessing, which he sees as a rightful reward for good works and a tool that allows those blessed to achieve even greater things. If called to serve through powerful magic (such as gate), Talmandor generally answers but refuses to grant direct assistance except to those overwhelmingly outmatched by evil foes. Even then, he generally requires any aid he gives be paid for in massive donations to the poor and oppressed, though he also often offers a free alternative to his direct involvement, such as receiving his blessing (often crafted with miracle) or gaining some insight into the caller’s foes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Talmandor)
 ```encounter-table
 name: Talmandor

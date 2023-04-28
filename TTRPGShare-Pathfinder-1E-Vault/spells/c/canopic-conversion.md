@@ -1,19 +1,21 @@
 ---
-alias: Canopic Conversion
+aliases: [Canopic Conversion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Canopic Conversion 
+## Canopic Conversion
 
 **source**:: Faction Guide pg. 60, Osirion, Land of the Pharaohs pg. 26  
 **school**:: necromancy (death, evil)
 **level**:: arcanist 9, cleric 9, oracle 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F (four alabaster canopic jars worth 100 gp each), M (black onyx worth 100 gp per hit die of the target)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living humanoid  
@@ -21,7 +23,7 @@ alias: Canopic Conversion
 **saving-throw**:: Fortitude half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell eviscerates the target, drawing forth its life essence as well as its internal organs. The target takes 1d6 hit points of damage per caster level (maximum 20d6). If this damage kills the target, the spell pulls the creature’s organs into a set of 4 canopic jars and seals them; 1d4 rounds later, the corpse revives as a mummy (if 8 HD or fewer) or an advanced mummy (if 9 HD or more).  
   

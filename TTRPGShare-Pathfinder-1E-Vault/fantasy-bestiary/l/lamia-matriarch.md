@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lamia Matriarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
     desc: 92
 desc_short: This creature looks like a beautiful human woman from the waist up, but below is the body and tail of an immense snake.
 ```
-# Description
+## Description
 The queens of a race consumed by bitterness and predatory instinct, lamia matriarchs mastermind all manner of foul plots in hopes of breaking the bestial curse that afflicts their race. They move with shocking ease from silken-tongued temptresses to dervishes, striking with all the deadly precision of vipers. Quick to covet, enslave, and overindulge, lamia matriarchs luxuriate in gory feasts, violent trysts, and bloody entertainments, reveling until their playthings are broken or until they tire and move on.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lamia%20Matriarch)
 ```encounter-table
 name: Lamia Matriarch

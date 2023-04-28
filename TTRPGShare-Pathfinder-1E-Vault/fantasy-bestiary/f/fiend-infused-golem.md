@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fiend-Infused Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 60
 desc_short: The fists of this stone statue radiate flames that flicker in red and black and reek of brimstone. Its chiseled face bears a feral, wicked grin.
 ```
-# Description
+## Description
 Although most golems are animated by the spirits of elementals, certain reckless or daring golem crafters instead bind evil outsiders such as daemons, demons, and devils to power golems. This fiend does not inhabit or control the golem in the usual manner of fiendish possession; instead, the outsider is subjugated within the golem to act as a mere engine. Although a fiend-infused golem has more self-awareness and cunning than a typical golem, it possesses only a brute, primitive intellect, lacking the animating fiend’s personality beyond a base desire to destroy goodness. The fiend’s rage at being imprisoned in such a manner manifests as ever-burning hellfire, which the fiend-infused golem uses as a weapon against its foes.
 
 As with ordinary golems, fiend-infused golems primarily serve as guards or defenders. However, a fiend-infused golem’s marginally improved intellect means it can be given more complex instructions, such as evaluating an intruder’s intent, activating or deactivating traps, acting in disguise, or patrolling a convoluted territory. Although fiend-infused golems are obligated to follow their creators’ commands in the same manner as regular golems, they sometimes do so with sullenness or frustrated defiance.
@@ -65,7 +67,7 @@ The foremost golem crafters of antiquity served the Jistka Imperium many thousan
 With renewed interest in the Jistka Imperium among such organizations as the Pathfinder Society and Egorian’s prestigious Athenaeum, ancient secrets of fiend-infused golems have leaked to several modern golem crafters. Some of these crafters had already developed their own techniques for creating fiend-infused golems, and use the unearthed Jistkan lore to confirm or supplement their own designs. The artificers of House Thrune are particularly interested in harnessing and improving upon the Jistkan methods, both because the golems promise to be very powerful additions to the Thrune arsenal and because they are always looking for new ways to bind the spirits of Hell.
 
 A fiend-infused golem is the same size and weight as an ordinary golem of its type.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fiend-Infused%20Golem)
 ```encounter-table
 name: Fiend-Infused Golem

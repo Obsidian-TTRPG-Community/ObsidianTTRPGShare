@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hetkoshu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 54
 desc_short: This enormous black crocodile gapes hungrily with a maw big enough to swallow two armored warriors whole.
 ```
-# Description
+## Description
 Infamous along Osirion’s major rivers as well as in the Golden Oasis near Shiman-Sekh, hetkoshus are among the most dangerous animals on Garund. They pose a constant threat to travelers and those who make their livelihoods along these waterways. Hetkoshus wait for prey to pass within 90 feet before rushing at them to gobble up one or two opponents in a single terrible motion, preferably before the prey even realizes any danger exists. They are known for their feared “death roll”-once one clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim.
 
 Hetkoshus average 30 feet in length and weigh nearly 45,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hetkoshu)
 ```encounter-table
 name: Hetkoshu

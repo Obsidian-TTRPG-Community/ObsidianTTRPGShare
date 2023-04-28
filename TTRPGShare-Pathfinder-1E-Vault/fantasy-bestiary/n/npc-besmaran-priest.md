@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Besmaran Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 43
 desc_short: Clad in black silk and a chain shirt, this bold woman has a strong stance and wields a masterfully crafted rapier; the tricorne hat atop her head depicts a skull and crossbones.
 ```
-# Description
+## Description
 Priests of Besmara are common fixtures on pirate vessels sailing the Shackles, simultaneously serving as healers and spiritual guides for comrades who often have no time for religion until death is already grinning in their faces. While clerics of Besmara often end up captaining ships of their own, they usually spend most of their pirating careers as first mates or ship’s surgeons.
 
 When not needed to confront a more immediate peril, a cleric of Besmara sees to the health of the crew, purifying spoiled food and water, healing the inevitable injuries sailors acquire in the course of their duties, or curing crew members of the diseases so widespread in the tropics and the sordid brothels that are a staple of every seaside town. If these duties spare her any time, a Besmaran priest goes out of her way to assist others in their tasks onboard and learn everything there is to know about running a ship and crew, for there is no telling what duties will be required aboard Besmara’s own Seawraith should the cleric earn a coveted berth in the afterlife. In addition, every priest of Besmara is expected to make a pilgrimage to the mysterious island called Besmara’s Throne at least once in her life, and shipmates greeting a cleric upon her return are often struck by the renewed fervor with which she sets about her tasks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Besmaran%20Priest)
 ```encounter-table
 name: NPC Besmaran Priest

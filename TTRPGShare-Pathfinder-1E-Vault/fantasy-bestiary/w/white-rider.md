@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: White Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 55
 desc_short: A tall, handsome woman sits astride a white horse. She grips an elegant longbow made of raw birch.
 ```
-# Description
+## Description
 The White Rider is the most even-tempered and diplomatic of the Three Riders. This does not mean that she is sympathetic or merciful, just that there is less blood staining the crisp white garments she wears. When the White Rider comes calling, citizens of Irrisen often seek to curry favor by bringing her gifts of hot tea, pastries, and fresh baked bread. She rarely accepts these offerings, and when she does it is only from those she has already judged to be loyal to Baba Yaga and worthy of the Queen of Witches’s rule. Those who too eagerly attempt to carry favor face added scrutiny from her.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=White%20Rider)
 ```encounter-table
 name: White Rider

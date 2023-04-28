@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sun Falcon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 86
 desc_short: The plume of this red and yellow bird is so vibrant as to glow. Each movement sends a ripple of light and color down its feathers that flickers like flames. The air around the small creature shimmers with heat.
 ```
-# Description
+## Description
 Sun falcons are birds of omen in Osirion, with a reputation that goes back to the days of the nation’s most ancient gods. In many myths and stories, sun falcons act as the eyes of many deities, though most commonly for Ra, who considers these birds to be among his holy creatures on Golarion. Sun falcons seem to watch over important people and oversee noteworthy events-sometimes from far enough away to be mistaken as a star visible during the day, sometimes from close enough to appear as a second sun. Today, the ancient gods are largely forgotten, but sun falcons still gravitate toward Osirion’s heroes and pharaohs, suggesting that these abandoned gods are not so distant.
 
 A typical full-grown sun falcon weighs 2 to 3 pounds and measures 18 inches from beak to tail, with a wingspan approaching 5 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sun%20Falcon)
 ```encounter-table
 name: Sun Falcon

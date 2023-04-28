@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Celestial Theurge
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,9 +83,9 @@ sources:
   - name: NPC Codex
     desc: 228
 ```
-# Description
+## Description
 These theurges support righteous causes, especially ones that involve destroying undead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Celestial%20Theurge)
 ```encounter-table
 name: NPC Celestial Theurge

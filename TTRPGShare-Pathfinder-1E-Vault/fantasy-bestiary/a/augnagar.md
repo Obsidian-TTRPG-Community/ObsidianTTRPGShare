@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Augnagar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 219
 desc_short: This enormous, spider-like creature has three clawed tails and eight legs connected by leathery webs of flesh.
 ```
-# Description
+## Description
 The immense augnagar is relatively slow-witted. As an outsider, it does not need to eat to survive, yet it remains ravenous and feeds on anything it can overpower. The augnagar prefers the taste of well-rotted flesh- particularly rotted demon flesh-and the horrific curse its bite imparts flavors its meals perfectly. Yet the augnagar’s favorite feast is of a much more cannibalistic type. These creatures find the flesh of their own kind to be the greatest delicacy. When an augnagar feeds upon enough of its own kind, it grows enormously bloated such that it can no longer fly, at which point it uses its clawed tails to tear its body apart in a frenzy of self-destruction. From this storm of torn fat and shredded viscera emerges a fully grown thulgant qlippoth-a creature similar in shape to an augnagar, yet much more intelligent and even more dangerous.
 
 An augnagar has a wingspan of 30 feet and weighs 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Augnagar)
 ```encounter-table
 name: Augnagar

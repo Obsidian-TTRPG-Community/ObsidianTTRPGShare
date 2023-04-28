@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Malenti
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 84
 desc_short: A predatory gleam glints in the eyes of this stern-looking aquatic elf.
 ```
-# Description
+## Description
 The unpredictability and viciousness of the sahuagin race isn’t just an aspect of their sharklike temperament- it seems to be inherent in their very beings. The unusual and typically deadly mutants common to the race attest to this, their forms altering and becoming more deadly based either on the needs of the community or ambiguous environmental factors. Whatever the case, sahuagin mutants often rise to positions of respect and inf luence in sahuagin communities, their innate advantages instantly placing them among their people’s rulers. Of these mutants, four-armed sahuagin brutes and malenti- sahuagin with the appearances of sea elves-arise most commonly, though these are in no way the only sahuagin mutants known to the savage seas.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Malenti)
 ```encounter-table
 name: Malenti

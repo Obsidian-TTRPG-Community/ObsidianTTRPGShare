@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ashava
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,13 +77,13 @@ sources:
     desc: 84
 desc_short: This graceful humanoid woman wears a flowing gown of sparkling starlight and a circlet of moss.
 ```
-# Description
+## Description
 Long ago in the wild and lonely fens of Elysium, a collection of helpful marsh lights coalesced to form Ashava, the True Spark. Ashava is constant motion, spinning and twirling in steps that soothe all who watch her dance. Although she often remains at a distance from those who watch her, she nevertheless leads them out of wild places and back to the safety of civilization. She believes that no being-whether living or dead-should suffer the fear of being lost.
 
  A part of Ashava lives in the hearts of all dancers, and her influence can be felt by those who rise from their seats when moved by a stirring beat or melodious chords. She believes that dance is the soul’s truest form of expression, and she looks down on those who would stifle their own or others’ creativity in this field. Ashava maintains that there is no wrong way to dance, and that dance not only embodies but transcends culture. She derives as much pleasure from the clumsy steps of eager but novice dancers as she does the practiced movements of professional ballerinas.
 
  Ashava spends much of her time dancing through darkened swamps across many worlds, aiding lost travelers and fighting evil forces that would disorient and waylay them. On Elysium, Ashava’s realm is the Sparkling Fens, a swamp eternally bathed in moonlight. It rests at the base of the Mountain of Lingering Soulsong, and the mountain’s echoing melodies drift down into the marsh to provide Ashava and the azatas who follow her with accompaniment to their never-ending dances. No one can remain lost for very long within the Sparkling Fens, as floating globes of light-similar to will-o’-wisps in appearance but kindly in temperament-always appear to guide visitors to safety. These lights are both servants of Ashava and part of her, and she can feel and control them no matter where she is in the cosmos as if they were extensions of her own limbs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ashava)
 ```encounter-table
 name: Ashava

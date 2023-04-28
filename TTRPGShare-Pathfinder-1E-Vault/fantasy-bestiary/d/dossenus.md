@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dossenus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 63
 desc_short: This small creature looks like a lumpy head with crab legs and a giant mouth filled with stone teeth.
 ```
-# Description
+## Description
 A dossenus is a subterranean pack hunter that can digest almost anything. Its body is mostly head and face, dominated by a huge mouth with multiple rows of black, rocklike teeth. Two thin arms and four thin legs extend from its underdeveloped body; its front limbs end in crablike claws it can use to clumsily manipulate objects. A dossenus is just under 4 feet long and weighs 60 pounds.
 
 Dossenuses are notorious for their voracious appetites and ability to gnaw through practically any substance with their savage teeth. Though their tiny eyes appear absent of thought or purpose, dossenuses are actually slightly more intelligent than mere beasts. These creatures have a primitive communal social structure, speak and understand Aklo, and practice a violent form of religion based on the indiscriminate consumption of all other forms of life. Dossenuses practice ritual cannibalism of their dead.
@@ -64,7 +66,7 @@ Dossenuses are gifted climbers and burrowers and use their talents to clamber up
 Once one of these extremely tenacious creatures lays eyes on potential prey, it does not give up the chase until it or its target is dead, or enters or crosses a body of water. A dossenus cannot swim (it sinks to the bottom) and has an intense fear of deep water.
 
 Once every few generations, dossenuses gather in great numbers, sometimes in the thousands. After several weeks of worship, fasting, and frenzied mating, the creatures skitter forth as a massive swarm intent on devouring any living thing in their path.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dossenus)
 ```encounter-table
 name: Dossenus

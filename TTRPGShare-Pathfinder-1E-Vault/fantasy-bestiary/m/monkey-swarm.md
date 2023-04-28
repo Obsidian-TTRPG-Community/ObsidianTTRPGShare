@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Monkey Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 212
 desc_short: Screeches and bestial calls precede this pack of monkeys, each primate propelling itself forward on calloused knuckles.
 ```
-# Description
+## Description
 Monkeys sometimes travel in huge colonies of hundreds of individuals. In such quantities, these primates can become quite dangerous, capable of overwhelming many foes by their sheer numbers.
 
 Unlike most swarms, monkey swarms work well together. A swarm of monkeys does not possess a true hive mind, but it is capable of working in tandem with other swarms to make basic tactical decisions in combat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Monkey%20Swarm)
 ```encounter-table
 name: Monkey Swarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 62
 desc_short: Draped in fine dark robes, this undead creature’s body seems to be made of equal parts bone, leathery flesh, and blood-red smoke.
 ```
-# Description
+## Description
 Ghuls are undead jann whose eternal existence was twisted by fate and wrought through the displeasure of Ahriman, Lord of the Divs. As if the curse of undeath and ravenous hunger were not enough, these once-majestic creatures now bear donkey hooves as feet. Despite their horrific undead appearance, this feature shames them the most, and they hide their feet from view.
 
 Ghuls, like ghouls and ghasts, haunt cemeteries and other places of the dead hoping to feed on corpses. They also hunt mourners and grave tenders, as they enjoy the taste of living prey as well as that of the dead. Selective in their diets, ghuls choose their victims by personality, believing innocence and youth taste more delicious than the barely palatable flesh of the bitter and old. Sometimes a ghul follows a funeral procession in hyena form, keeping a safe distance until the ceremony, whereupon it changes into its true form to attack and feast. Sorrow and despair taste as delicious as innocence to a ghul.
@@ -66,7 +68,7 @@ While not directly affected by sunlight, ghuls despise its presence and only mov
 The longer a ghul goes without feeding, the more ferocious and primal the creature becomes. A well-sated ghul organizes with others of its kind and lesser undead, tormenting nearby towns and settlements. A ghul involved with this level of organization often has a scattered set of lairs throughout the desert. These allow the ghul to strike far from its home lair and hide again without having to travel during the blistering daylight sun. When a ghul goes for too long without feeding, it becomes increasingly feral and violent-its statistics don’t change, but it grows less concerned with fleeing combat, even when it is obviously outmatched.
 
 Ghuls stand 6 feet tall and weigh 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghul)
 ```encounter-table
 name: Ghul

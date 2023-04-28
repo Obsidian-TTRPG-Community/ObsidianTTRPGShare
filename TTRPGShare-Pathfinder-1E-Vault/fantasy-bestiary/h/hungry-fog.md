@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hungry Fog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 152
 desc_short: Horrid shapes form within this cloying green mist, which pulses sporadically and with seeming voracity.
 ```
-# Description
+## Description
 This eerie, vaporous ooze slips silently through the air, a roiling cloud of green fog within which dance the indistinct shapes of twisted, spooky ghosts. Despite its haunting appearance, and despite the fact that hungry fogs often dwell in old graveyards or hunt battlefields, a hungry fog is not an undead creature. Rather, it is a form of gaseous ooze infused with negative energy. Thus, while a hungry fog is not an undead creature, undead gain considerable boons by fighting within a hungry fog, for its mists heal them as surely as they drain vitality from the living creatures caught within.
 
 Within a hungry fog, the ooze’s mists interact strangely with fragments of those it has consumed, creating eerie phantasms of its past victims. Periodically, one of these shapes might flash with light as if momentarily holding a lantern aloft, but as soon as the figure is approached, it fades away into the surrounding mists, often giving the observer a quick and unsettling glimpse of a skull-like countenance. These shapes, like the fog itself, are not truly undead, but the fact that a hungry fog is hurt by positive energy as surely as if it were helps to blur the distinction and spread even more confusion about its actual nature.
 
 A hungry fog is instinctively drawn to areas where negative energy is strong. These nocturnal creatures are particularly fond of sites that are haunted, such as old houses, abandoned graveyards, or shipwrecks along shorelines-although their vulnerability to high winds means that they are rarely encountered in areas where storms are common.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hungry%20Fog)
 ```encounter-table
 name: Hungry Fog

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Freezing Flow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 115
 desc_short: This transparent blue formation of ice is as forbidding as the serpent it resembles.
 ```
-# Description
+## Description
 It’s believed that these strange frozen oozes are created when a particularly cold arctic area has prolonged exposure to ice from the Elemental Planes. Rising seemingly spontaneously from such a supernatural deep freeze, freezing flows shamble forth in search of prey, hungry for the life energy of warm-blooded creatures, which they somehow metabolize.
 
 Within their native habitat, these oozes are particularly difficult to spot. While they lack intelligence, they have an instinct to stay put within frozen ice flows, on the icy surface of frozen lakes and rivers, or within areas of permafrost, waiting for prey to stumble upon them. This instinct may be tied to the fact that they can stay relatively dormant for decades or even centuries, but eventually they need the life energy of warm-blooded creatures to fuel their strange locomotion. Since they dwell in unforgiving and underpopulated areas, it is easier for them to conserve energy and wait for prey rather than to try to track down warm-blooded creatures.
@@ -60,7 +62,7 @@ Within their native habitat, these oozes are particularly difficult to spot. Whi
 After feeding, or when fully fed, these creatures tend to ignore other creatures unless attacked. Though freezing flows’ crystalline construction can give the illusion that they are brittle, nothing is further from the truth. When a freezing flow slams into flesh, it does so with enough power to break bone, and it is cold enough to numb flesh, causing its prey to convulse in a fit of shivers.
 
 When hungry, the only things freezing flows avoid are fire and high temperatures. Such things can still melt and damage a freezing flow, though it typically requires more heat to diminish a freezing flow into a puddle of water than it takes to melt a patch of normal ice 10 times the ooze’s size.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Freezing%20Flow)
 ```encounter-table
 name: Freezing Flow

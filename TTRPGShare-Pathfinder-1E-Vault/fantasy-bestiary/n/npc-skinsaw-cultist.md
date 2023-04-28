@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Skinsaw Cultist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 54
 ```
-# Description
+## Description
 Skinsaw cultists are insane murderers performing what they consider unholy sacrifices to their god Norgorber. This splinter cult of serial killers originated in the Chelish city of Vyre, but has since spread throughout the Inner Sea. Any place Norgorber’s dark followers are found, one could expect at least one who follows the aspect of Father Skinsaw.
 
 Skinsaw cultists seek ecstasy with every slaying. They offer their acts of murder in the name of Father Skinsaw, and believe that when they finally meet death, every kill they made in his name will grant them a higher status in the afterlife. Skinsaw cultists don’t waste their efforts on those they consider lesser targets, like vagrants, prostitutes, or commoners, instead choosing their marks from influential members of society and others who exhibit strength and hold power. This is not for any sort of political gain, but rather to offer Norgorber only the best possible sacrifices.
@@ -63,7 +65,7 @@ Skinsaw cultists seek ecstasy with every slaying. They offer their acts of murde
 Worshipers of Norgorber following one of the god’s other three aspects interact with Skinsaw cultists in different ways. Those who revere Blackfingers may work with Skinsaw cultists in order to provide their deadly poisons for the Skinsaw cultists’ blades, more concerned about proliferating poison than the act of murder. Followers of the Reaper of Reputation may guide Skinsaw cultists toward choice targets, using them as tools to enact their political machinations, preferring that those they wish dead be slain by a fellow Norgorberite. Many who follow Norgorber’s fourth aspect, that of the Gray Master, tend to avoid Skinsaw cultists unless they have a need to sow chaos and terror. While they believe murder is certainly a tool of thievery, it is a secondary aspect, and makes for a sloppier job in the eyes of their masked deity.
 
 Skinsaw cultists rarely interact with followers of Father Skinsaw from different cells, each city typically hosting only one such cult. That said, when a fellow cultist comes through a foreign town, a local cell will always take her in temporarily, sometimes even urging her to kill while there. Occasionally, however, a Skinsaw cultist receives a calling from her god to travel the world and leave a wake of murder and mayhem in her wake. In these instances, such a slayer would likely seek out safe havens in unfamiliar ports, relying on her compatriots to guide her to choice targets in each new city.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Skinsaw%20Cultist)
 ```encounter-table
 name: NPC Skinsaw Cultist

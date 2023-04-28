@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Morgodea
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 86
 desc_short: Amid this hissing cloud of glistening cockroaches is a disheveled vagrant with wasplike stingers extending from its palms.
 ```
-# Description
+## Description
 Morgodeas are sinister syntheses of fey and vermin who lurk in the filthy underworlds of cities. Compelled to corrupt and debase, these disgusting creatures deal in a pleasure that can plunge their victims into the depths addiction and madness. Morgodeas appear as human or elven vagrants covered in dirty rags. These “rags” are actually layered flaps of hide the morgodea can open to reveal a brood of cockroaches crawling amid its waxy, yellow flesh. Large pores in its body constantly weep a pale, thick jelly that sustains its nest of vermin and inspires euphoric visions in humanoids.
 
 In combat, a morgodea’s cockroach brood erupts into a flesh-eating cloud to defend their master. The fey itself can extend a hidden chitinous pincer from its abdomen, and needlelike stings from the palm of each hand. It uses its massive claw to restrain victims while it injects them with its addictive venom again and again. A victim caught in this way is overwhelmed by the morgodea’s druglike poison, and the prey’s consequent hallucinations render its attacker indistinguishable in the teeming mass of hissing, gel-smeared insects, even as the morgodea holds it in place. A morgodea stands 5 to 6 feet tall and weighs around 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Morgodea)
 ```encounter-table
 name: Morgodea

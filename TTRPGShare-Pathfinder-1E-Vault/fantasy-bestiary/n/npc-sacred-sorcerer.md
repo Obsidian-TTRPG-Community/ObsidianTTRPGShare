@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sacred Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: NPC Codex
     desc: 166
 ```
-# Description
+## Description
 The sacred sorcerer is an agent of the gods, less constrained than a priest and armed with magic rarely used by other servants of the divine.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sacred%20Sorcerer)
 ```encounter-table
 name: NPC Sacred Sorcerer

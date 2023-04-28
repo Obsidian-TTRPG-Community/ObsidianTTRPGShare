@@ -1,19 +1,21 @@
 ---
-alias: Sharesister
+aliases: [Sharesister]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sharesister 
+## Sharesister
 
 **source**:: Pathfinder Society Field Guide pg. 58  
 **school**:: necromancy
 **level**:: cleric 3, oracle 3, warpriest 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of your own blood)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you and one creature of your gender  
@@ -21,7 +23,7 @@ alias: Sharesister
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 Ithuna Vardsdottir claims to have unearthed this ancient prayer in a ruined temple of Desna, though Pathfinders have reported the use of similar magic in Irrisen among the White Witches. While the name of this spell is *sharesister*, it works equally well on male or female creatures-both targets of the spell must simply be of the same gender.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caller in Darkness
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 48
 desc_short: This roiling horror appears to be a swirling vortex of darkness and screaming, ghostly faces.
 ```
-# Description
+## Description
 A caller in darkness grows from the psychic remains of a creature with psychic sensitivity that died a violent death, its restless spirit compelled to visit upon others the horrors that it suffered before dying. As more and more minds are absorbed, it grows, and the original spirit is lost in the swirling mass of hatred, confusion, and despair.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caller%20in%20Darkness)
 ```encounter-table
 name: Caller in Darkness

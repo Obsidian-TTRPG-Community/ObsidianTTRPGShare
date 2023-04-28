@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Phoenix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 227
 desc_short: This immense bird seems to be made of living flame. It spreads its wings and gives vent to a musical cry as it takes to the air.
 ```
-# Description
+## Description
 The phoenix is a legendary bird of fire that dwells in the most remote parts of the desert. As the birds are known to be great scholars, many seekers of rare lore search out particular phoenixes for advice. Yet it is the phoenix’s ability to rebirth itself from its own dead body for which the creature is best known.
 
 The phoenix is a benevolent creature, aiding those who do good and actively harming those who do evil.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Phoenix)
 ```encounter-table
 name: Phoenix

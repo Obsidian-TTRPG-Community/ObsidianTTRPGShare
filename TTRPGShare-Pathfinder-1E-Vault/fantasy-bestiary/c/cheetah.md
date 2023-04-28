@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cheetah
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 40
 desc_short: This large, sleek feline has a golden coat spotted with black. Its long and powerful legs are obviously capable of great speed.
 ```
-# Description
+## Description
 The cheetah is a swift and deadly predator capable of moving with incredible speed, allowing it to run down unsuspecting foes hundreds of feet away. The hunting cat avoids areas of dense and tangled undergrowth, but has great skill at lying in wait in tall grass.
 
 An adult cheetah is 4-1/2 feet long and weighs 140 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cheetah)
 ```encounter-table
 name: Cheetah

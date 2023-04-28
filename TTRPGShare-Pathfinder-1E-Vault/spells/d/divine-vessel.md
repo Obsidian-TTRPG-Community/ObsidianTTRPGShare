@@ -1,25 +1,27 @@
 ---
-alias: Divine Vessel
+aliases: [Divine Vessel]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Divine Vessel 
+## Divine Vessel
 
 **source**:: Advanced Player's Guide pg. 216  
 **school**:: transmutation (chaotic, evil, good, or lawful)
 **level**:: oracle 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 You accept otherworldly energies into your body and transform. Your size increases by one category, your height doubles, and your weight increases by a factor of eight. Your features shift into those of a cold and alien being of logic, a creature of primal chaos, an angelic presence, or a fiendish monster, as chosen by you. You gain a +6 size bonus to Strength and Constitution, a +3 natural armor bonus, darkvision 60 ft., and SR of 12 + your caster level. These modifiers replace the normal modifiers for increasing your size. The size modifier for AC, attacks, CMB, and CMD changes as appropriate for your new size category. This spell doesn’t change your base speed. Determine space and reach as appropriate for your new size.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Pilfering Hand
+aliases: [Pilfering Hand]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Pilfering Hand 
+## Pilfering Hand
 
 **source**:: Ultimate Combat pg. 239  
 **school**:: evocation (force)
 **level**:: arcanist 2, bard 2, cleric 2, magus 2, medium 2, mesmerist 2, occultist 2, oracle 2, psychic 2, skald 2, sorcerer 2, spiritualist 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one object  
@@ -21,7 +23,7 @@ alias: Pilfering Hand
 **saving-throw**:: none
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You create and control an invisible telekinetic force, manipulating it with either startling abruptness or careful deliberateness, allowing you to seize an object from an opponent or remotely manipulate an object. You can utilize this force to one of two ends.  
   

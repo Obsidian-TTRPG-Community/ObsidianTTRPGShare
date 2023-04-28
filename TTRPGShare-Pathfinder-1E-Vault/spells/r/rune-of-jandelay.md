@@ -1,19 +1,21 @@
 ---
-alias: Rune of Jandelay
+aliases: [Rune of Jandelay]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rune of Jandelay 
+## Rune of Jandelay
 
 **source**:: Pathfinder \#77: Herald of the Ivory Labyrinth pg. 50  
 **school**:: transmutation
 **level**:: arcanist 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 3 rounds  
 **components**:: V, S, M (cold iron, powdered diamond, and ground adamantine worth a total of 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **area**:: one rune  
@@ -21,7 +23,7 @@ alias: Rune of Jandelay
 **saving-throw**:: see below
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You scribe a potent rune of power upon a surface, similar to the way in which a symbol spell is cast. When inscribed, the *rune of Jandelay* manifests as a shape that evokes the face of a monstrous elephantine creature-the legendary Oliphant of Jandelay itself. The rune is 5 feet across when created, and the surface on which it is to be inscribed must be large enough to bear it.  
   

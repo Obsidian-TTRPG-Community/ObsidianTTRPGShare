@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Reptial
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 13
 desc_short: This iguana-headed scholar wears a robe of frills and scales covered in baubles and trinkets.
 ```
-# Description
+## Description
 Reptials are curious and benevolent scholars of Nirvana. They spend their time collecting holy relics, no matter how minor, and can store some of their knowledge within a chosen relic. They keep most of these relics for themselves, but individual reptials have been known to distribute particularly useful pieces to good-aligned individuals and temples that are enduring difficult trials. Such relics often appear mysteriously within a temple or home, placed carefully among other objects. Reptials prefer to avoid combat if possible, using their abilities to escape instead and find heroes or more warlike agathions to combat evil directly. A reptial stands 3 feet tall and weighs about 40 pounds, not counting the weight of its many relics.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Reptial)
 ```encounter-table
 name: Reptial

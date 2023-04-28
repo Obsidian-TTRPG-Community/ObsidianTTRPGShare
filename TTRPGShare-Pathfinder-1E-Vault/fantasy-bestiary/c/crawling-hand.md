@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crawling Hand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 59
 desc_short: With a jolt, this severed hand springs to life, its fingers propelling it forth at great speed like a deformed spider. 
 ```
-# Description
+## Description
 Some say the origins of the crawling hand lie in the experiments of demented necromancers contracted to construct tiny assassins. Other tales tell of gruesome prosthetics sparked to life by evil magic, which then developed primitive sentience and vengefully strangled their hosts. Regardless, the crawling hand is an efficient killing tool. 
 
 When not commanded to kill, the crawling hand remains still and can be handled and transported safely. Typically, owners carry them about in small, velvet-lined boxes. Crawling hands can also be placed as guardians and programmed with contingency commands, such as to hunt down and slay an individual who performs a specific task like violating a shrine, opening a warded door, or breaking the seal of a casket.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crawling%20Hand)
 ```encounter-table
 name: Crawling Hand

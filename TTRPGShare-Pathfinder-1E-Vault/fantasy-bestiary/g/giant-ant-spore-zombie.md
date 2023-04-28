@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Ant Spore Zombie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 287
 desc_short: The top of this large, black ant’s head is cracked open, and a pulsing, brown growth twists up out of the gap.
 ```
-# Description
+## Description
 There are certain evil fungal creatures (such as fungus queens [see page 130], but also rare fungal growths or extraplanar blights upon the wild) that can infest vermin with spores that have been infused with sinister power and negative energy. These foul spores grow quickly in the body of a dead vermin, eventually bursting from its head to form disturbing, antler-like growths. At the same time, the spores animate the vermin as an intelligent undead creature. 
 
 These are then known as spore zombies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Ant%20Spore%20Zombie)
 ```encounter-table
 name: Giant Ant Spore Zombie

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spore Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 62
 desc_short: This fungoid canine creature skitters forward on many segmented legs, a gurgling growl issuing from its fanged maw.
 ```
-# Description
+## Description
 Capable of spreading and colonizing with disturbing speed, a spore stalker and its kin can quickly overrun an area. Fortunately, a spore stalker’s life span is relatively short; a typical spore stalker perishes of natural causes in only a few weeks. Spore stalkers are often used by mi-go or agents of the Dominion of the Black as biological weapons against unsuspecting citizens of newly discovered planets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spore%20Stalker)
 ```encounter-table
 name: Spore Stalker

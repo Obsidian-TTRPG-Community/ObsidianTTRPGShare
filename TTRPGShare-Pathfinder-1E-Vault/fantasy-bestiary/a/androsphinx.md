@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Androsphinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 251
 desc_short: This regal, bird-winged lion has a human’s head, clad in the golden raiment of a powerful pharaoh.
 ```
-# Description
+## Description
 The mightiest of the common sphinxes, androsphinxes see themselves as all that is worthy and noble in the species and carry themselves as though the weight of the world rests upon their good example. They view criosphinxes with paternalistic condescension, hieracosphinxes with poorly veiled disgust, and gynosphinxes as the only other sphinxes worthy of their time.
 
 Androsphinxes put on a gruff and cantankerous front to outsiders. They make no effort to hide annoyance when displeased. Androsphinxes tend to be territorial, though less so than other sphinxes. They almost invariably warn and bluster before attacking, and nearly always heed a call to parley. Androsphinxes barter information and conversation for safe passage, not treasure.
 
 Androsphinxes are 12 feet tall and weigh 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Androsphinx)
 ```encounter-table
 name: Androsphinx

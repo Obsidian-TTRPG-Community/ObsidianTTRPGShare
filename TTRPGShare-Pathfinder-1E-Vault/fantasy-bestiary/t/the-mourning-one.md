@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Mourning One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 50
 desc_short: This colossal serpent’s skin is like that of decayed, bruised corpses. Cancers rupture from its flesh, and a terrible sickening flow of black blood oozes from each break and sores.
 ```
-# Description
+## Description
 The oldest Darklands sages speak in hushed tones of a creature called the Mourning One-a thing created, they say, in the Land of Black Blood, one of Orv’s vast and terrible Vaults. The Mourning One only recently escaped its Darklands prison, winding its way through the perilous tunnels of Orv up into Sekamina, and now dwells in Lake Nirthran-the Dying Sea.
 
 The ghouls of Nemret Noktoria have seen the Mourning One slide through the waters of Lake Nirthran, and avaricious necromancers among their kind occasionally undertake voyages to try to capture the beast for the valuable black blood that seeps from its pores. The skum of Cold Momugado, on the other hand, do not seek the creature for its strange properties-most merely wish the nuisance dead and gone, as it has proven a menace to skum scavengers and raiders since its first sighting. Still other inhabitants of the Darklands would like to see the Mourning One put to different uses-in Delvingulf, drow fleshwarpers view the monstrous sea serpent as a figure of great awe as well as potential. If it were to be captured, they could perhaps learn how to further utilize the strange substance known as black blood in subsequent experiments.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Mourning%20One)
 ```encounter-table
 name: The Mourning One

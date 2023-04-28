@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Observer Robot Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
   - name: Pathfinder No. 86: Lords of Rust
     desc: 89
 ```
-# Description
+## Description
 Observer robots were sometimes deployed in groups that were dependent on each other. Their instruments were networked to form a web of sensors spread out over a wide area to retrieve superior surveillance for their masters. Years after these networked robots ceased receiving orders, numerous observer robots rewrote their programming and assembled into collectives that numbered up to 1,000 individual observer robots. These swarms emerge from buried wreckage in dangerous metallic clouds that scour, confound, and burn creatures they attack.
 
 While swarms are typically chaotic, roiling clouds of creatures, observer robot swarms are highly organized, with hundreds of the tiny robots moving in synchronized patterns as they fly through the air. When observer robot swarms attack, the screens on their outer hulls flicker with disorienting colors that leave their enemies nauseated. They can also organize themselves into a matrix to display composite images across the screens on their collective shells. Treating their individual screens like pixels, observer robot swarms can form moving images of things that they have recorded such as displaying the terrorstricken face of their last victim. These robot swarms even cleverly use this technique to disguise themselves as churning clouds, flickering fires, or even other swarms such as bats or wasps.
 
 Since observer robot swarms spend much of their processing power transmitting and sharing senses with other robots in the swarm, they rarely transmit to other devices. Their recordings are shared among the collective, making harvesting recorded data from them extremely difficult.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Observer%20Robot%20Swarm)
 ```encounter-table
 name: Observer Robot Swarm

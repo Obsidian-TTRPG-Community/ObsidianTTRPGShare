@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mangvhune, the Temple Hill Slasher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 8
 desc_short: This leering, single-horned demon seems emaciated even clad in black dragonhide armor. A viscous layer of crimson slime glistens on its flesh, dripping over its armor in red rivulets.
 ```
-# Description
+## Description
 Not all of Shax’s favored babaus are those he counts as his sons. Mangvhune is not only one such example, but is also that rarest of demons-one who recalls the specifics of his previous life as a mortal. In that life, Mangvhune was a highly-respected scholar of Kintargo’s illustrious Alabaster Academy, an erudite surgeon and accomplished scholar of humanoid physiology. He was as close as you could get among the Academy’s professors to a celebrity. His lectures on anatomy in particular were always standing-room only events that drew far beyond the walls of the Academy itself for audience members. Charming, handsome, and as the Kintargo gossips were so fond of pointing out, quite available, Mangvhune maintained the public facade of the perfect gentleman scholar.
 
 In fact, this facade was nothing more than a construct, for the real Mangvhune was a remorseless and productive murderer. When Mangvhune was revealed to be the notorious Temple Hill Slasher, a brutal serial killer who tormented his victims for days before leaving their mutilated bodies in the vicinity of Temple Hill, the city was stunned. Despite a swift trial and even swifter execution by headsman’s axe, the Alabaster Academy’s reputation never fully recovered from the scandalous revelation. Mangvhune’s murderous soul went swiftly to the Abyss after his death, where he transformed into a babau demon, mind and personality intact. Since then, Mangvhune’s notoriety has only grown, and rumors that the Temple Hill Slasher now stalks the streets of dozens of cities throughout the Inner Sea region persist-particularly in Kintargo during the week surrounding the anniversary of his execution so many years ago.
@@ -64,7 +66,7 @@ The Temple Hill Slasher prefers to face solitary foes, striking swiftly with a s
 This den is called Razorspan, a bridge-like palace built from blades and knives that straddles a deep rift filled with bones near the realm of Shax itself, on a winding route that leads away from the realm of the demon lord of murder into the wilds of unclaimed Abyssal worlds. The ceilings, walls, and floors of Razorspan are riddled with cutting edges, blades that make exploration of the structure a constant battle against a thousand cuts. The blades themselves are incapable of penetrating Mangvhune’s damage reduction (or that of most of his minions, for that matter), but are an impossible to ignore hazard for would-be explorers of the notorious structure.
 
 Mangvhune does not require any additional offering when conjured, but does require that any service he provides to a conjurer includes an equal amount of time allowed in the conjurer’s region to stalk new victims of the babau assassin’s choice. Wise conjurers take pains to protect themselves from Mangvhune’s additional attentions once his services have been carried out. It’s a DC 26 check to research the Temple Hill Slasher.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mangvhune%2C%20the%20Temple%20Hill%20Slasher)
 ```encounter-table
 name: Mangvhune, the Temple Hill Slasher

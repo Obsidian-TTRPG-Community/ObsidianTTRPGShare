@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xenopterid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 283
 desc_short: What appears to be this creature’s cloak unfurls into bug wings, and its apparently human face is merely patterns on its head.
 ```
-# Description
+## Description
 Xenopterids are human-sized predatory insects with the insidious ability to mimic the form of their favorite prey-humanoids. Xenopterids can be encountered nearly anywhere they can find food, quickly adapting their mimicry to resemble whatever humanoids are most common in a particular region. They can bend their wings to form cowls and cloaks, and they can fold their limbs to imitate humanoids’ weapons and armor. A xenopterid’s eeriest feature is its mouth-a crude chitinous beak that, when closed, resembles a human face. Up close, the xenopterid’s unsettling nature is obvious, but from a distance or in dim light, the creature easily passes for its prey. Because their mimicking abilities require concealment, xenopterids commonly hunt their prey at night. Once a xenopterid captures and kills a victim, it liquefies the creature’s remains in order to bring the putrid slurry back to the hive where it stuffs this substance into small spherical capsules the creatures use as food. Some evil races prize these capsules, and make gruesome liquors by fermenting the contents.
 
 Xenopterids live in colonies in abandoned ruins, old castles, decrepit farmsteads, and similarly abandoned human structures. A colony typically consists of 19 to 28 sterile drones and a fertile hive king and hive queen (xenopterids with the advanced creature simple template). Each colony has only one fertile male, so xenopterids reproduce slowly. Still, the only way to destroy a xenopterid colony is to kill both the king and the queen, and neither one of them ever leaves the safety of the hive. Xenopterid drones become fiercely aggressive when defending the hive against invaders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xenopterid)
 ```encounter-table
 name: Xenopterid

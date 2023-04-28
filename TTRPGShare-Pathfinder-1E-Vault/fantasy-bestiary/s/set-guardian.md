@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Set Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 88
 desc_short: This towering figure’s head is completely encased in a shiny black metal helmet that resembles the head of a long-snouted canine. Ruby gems sparkle in its eye sockets.
 ```
-# Description
+## Description
 In the days of Ancient Osirion, when temples to the old gods still stood throughout the nation, worshipers of Set protected their places of worship with imposing constructs. To allow the priests of these old gods to devote their time and energy to ecclesiastical duties, Set’s clerics designed these foul sentinels to be self-sufficient by using a combination of necromantic techniques and golem crafting.
 
 The clerics and crafters preparing the constructs would begin with the body of an evil desert giant-preferably one who, like them, revered Set. The crafters would then fashion headpieces out of brass, bronze, or iron that were sculpted in the likeness of the god of darkness, deserts, murder, and storms. The headpiece would then be lacquered a glossy black, and set with expensive gemstones indicative of the type of elemental spirit used to animate the construct. After the headpiece was crafted, the preserved desert giant would be decapitated and the headpiece aff ixed to its shoulders.
@@ -69,7 +71,7 @@ The towering constructs stood within the sanctuaries of Set’s great temples ac
 During the dark decades of Hakotep’s reign, the guardians were a common-and for many, terrifying-sight, for the pharaoh used them as tools to threaten and cow the priesthoods of cults opposed to his religious reforms favoring Set. Today, these constructs have fallen out of favor in ecclesiastical circles-few of the modern cults employ them, though a couple of the surviving temples formerly dedicated to Set still boast one of these giant wardens. Most encounters with Set guardians today are reported by archaeological parties exploring lost temples or the tombs of long-buried nobles who had some devotion to the god in life. Once frightening attendants in temples across the land, they now wait in darkness for those unwisely disturbing ancient burial sites.
 
 Set guardians stand a towering 18 feet tall and weigh approximately 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Set%20Guardian)
 ```encounter-table
 name: Set Guardian

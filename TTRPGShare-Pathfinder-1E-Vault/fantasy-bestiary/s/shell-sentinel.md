@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shell Sentinel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 88
 desc_short: This mass of shells is assembled into a shape that resembles a cross between a frog and a squid. Its “head” is a tangle of long limbs composed of razor-sharp edges, and its body seeps with foamy, toxic-looking slime.
 ```
-# Description
+## Description
 Shell sentinels are constructs designed specifically for use by the veiled masters or by those talented slaves with whom the veiled masters deign to share their secrets. These constructs often serve aboleths, skum, faceless stalkers, and cults of dominated humanoids as guardians, particularly of captured prisoners or other living victims. Unlike constructs whose traditions are mired in humanoid magical tradition, the typical shell sentinel appears more like a streamlined froglike creature with flippers instead of feet and a set of four talons on stalks in place of a head. A shell sentinel is composed entirely of razor-sharp shells, and the binding matrix that holds its form together and gives it its rudimentary but foultempered intelligence is a slithery black sludge distilled from the rotted flesh of unwanted slaves. The methods of extracting and preparing this slime requires living victims, and the decidedly painful and vile rendering process not only poisons the resulting construct’s personality with an appetite for misery and cruelty, but also imbues poison into its form. Contact with this toxin, which runs throughout a shell sentinel’s form, causes intense pain and clouds the minds of living creatures unfortunate enough to be subjected to it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shell%20Sentinel)
 ```encounter-table
 name: Shell Sentinel

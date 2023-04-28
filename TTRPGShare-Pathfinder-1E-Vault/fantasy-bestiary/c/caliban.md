@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caliban
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 57
 desc_short: This scaly, pale-furred monstrosity has bulging muscles, a short muzzle, and two small horns that erupt over its sloping brow.
 ```
-# Description
+## Description
 While an individual hag who has coupled with a human can only hope to birth a changeling (Pathfinder RPG Bestiary 4 29), hag covens prove far more versatile in spawning monstrous progeny. The hags in such covens occasionally use their combined witchcraft to supernaturally create abominable male children-brutish monsters born of foul sanies and unholy ablutions that are stewed for days and then allowed to ferment into living creatures. These monsters go by many names among the hags who “birth” them, but among civilized races they are known by just one word: caliban.
 
 Calibans are free-willed but invariably inherit much of the vileness of their monstrous parents. Unlike changelings, calibans are usually raised among hags rather than in human settlements, since most societies would find a caliban’s form too repulsive for any purpose other than obliteration. Thus calibans learn from an early age to trust only their mothers and to revile anyone else. Those calibans who for whatever reason find themselves apart from their hag mothers are the most likely to shed their evil ways and forge a path of their own, but such individuals are few and far between.
 
 Just as changelings are always female, calibans are always male, and since they are the result of hags’ foul magics it is impossible for them to reproduce. The average caliban is 7 feel tall and weighs about 260 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caliban)
 ```encounter-table
 name: Caliban

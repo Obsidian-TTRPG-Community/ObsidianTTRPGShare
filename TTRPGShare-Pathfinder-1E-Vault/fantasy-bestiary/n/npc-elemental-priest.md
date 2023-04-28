@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Elemental Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,9 +80,9 @@ sources:
   - name: NPC Codex
     desc: 57
 ```
-# Description
+## Description
 The elemental priest commands the forces of nature and summons powerful air and water spirits to do his bidding.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Elemental%20Priest)
 ```encounter-table
 name: NPC Elemental Priest

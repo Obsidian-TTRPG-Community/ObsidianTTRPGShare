@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Devourer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 82
 desc_short: This dry, hovering corpse’s chest is a prison of jagged ribs, within which is trapped a small tormented ghostly form.
 ```
-# Description
+## Description
 Devourers are the undead remnants of fiends and evil spellcasters who became lost beyond the farthest reaches of the multiverse. Returning with warped bodies, alien sentience, and a hunger for life, devourers threaten all souls with a terrifying, tormented annihilation. These withered corpses stand 10 feet tall but weigh a mere 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Devourer)
 ```encounter-table
 name: Devourer

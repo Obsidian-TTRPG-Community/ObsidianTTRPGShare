@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dancing Dervish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: NPC Codex
     desc: 149
 ```
-# Description
+## Description
 The dancing dervish spins as a way to focus himself on achieving harmony with the gods.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dancing%20Dervish)
 ```encounter-table
 name: NPC Dancing Dervish

@@ -1,19 +1,21 @@
 ---
-alias: Wall of Clockwork
+aliases: [Wall of Clockwork]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Clockwork 
+## Wall of Clockwork
 
 **source**:: Heroes of the Streets pg. 23  
 **school**:: conjuration (creation)
 **level**:: arcanist 5, cleric 5, oracle 5, sorcerer 5, warpriest 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: wall of bronze clockworks whose area is up to one 5-ft.-square/level (S)  
@@ -21,7 +23,7 @@ alias: Wall of Clockwork
 **saving-throw**:: Reflex half or Reflex negates, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 An immobile, vertical wall of spinning cogs and gears springs into existence. Any creature passing through the wall takes 1d6 points of piercing and slashing damage per 2 caster levels (maximum 10d6); a successful Reflex save halves the damage.  
   

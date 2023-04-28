@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skeltercat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 90
 desc_short: The tawny coat of this snarling feline resembles that of a mountain lion, though this creature is much more muscular and carries itself with a strange posture.
 ```
-# Description
+## Description
 For a long time, many experts believed the creature now known as the skeltercat existed only in the folklore of the Shoanti tribes or in the far-fetched tales of a few wild-eyed travelers. Only with the recent reopening of the Bloodsworn Vale have rumors of the skeltercat’s existence been taken seriously. As traffic through the vale increases, reports of attacks by strange, shapeshifting cats are growing startlingly commonplace. Such tales are told most frequently in the fortress city of Skelt, a common stopover for merchants traveling through the Bloodsworn Vale. The stories out of Skelt gave these creatures their name.
 
 The skeltercat resembles a heavily muscled cougar or mountain lion, having a tawny coat, powerful paws with retractable claws, and strong hind legs that allow it to jump great distances. It primarily walks about on all fours, adopting an oddly hunched posture that distinguishes it from normal cats. When faced with a threat, a skeltercat rises onto its hind legs, walking upright in a disturbingly human fashion. An adult skeltercat stands just shy of 8 feet tall when fully upright, and weighs up to 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skeltercat)
 ```encounter-table
 name: Skeltercat

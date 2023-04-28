@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Striking
+aliases: [Symbol of Striking]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Striking 
+## Symbol of Striking
 
 **source**:: Ultimate Combat pg. 245  
 **school**:: illusion (shadow)
 **level**:: arcanist 5, cleric 5, magus 5, occultist 4, oracle 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a masterwork melee weapon costing at least 300 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Striking
 **saving-throw**:: Will half, see text
 **spell-resistance**:: yes, see text
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that using the material component, you scribe a *symbol of striking* so it fills a 5-foot square. Once triggered, the *symbol of striking* glows and lasts for 10 minutes per caster level or until it has made a number of attacks of opportunity equal to your level, whichever comes first. When triggered, the symbol threatens its area and the area around it as if it were a Medium creature wielding a magic version of the weapon you used as the material component. Using your caster level + 1 + your Intelligence modifier (magus, witch, wizard) or Wisdom modifier (cleric) or Charisma modifier (oracle, sorcerer) as its attack bonus, the symbol can make a number of attacks of opportunity each round equal to 1 + the same ability score modifier you used to determine its attack bonus. It gains a bonus on damage rolls equal to the same ability score modifier you used to determine its attack bonus. A shadowy version of you wielding the material component appears to make these attacks.  
   

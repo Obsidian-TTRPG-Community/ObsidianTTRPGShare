@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Angustiden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 84
 desc_short: This majestic beast glides through the water with murderous intent. Its thick-toothed maw is wide enough for a human to stand in, and its body stretches back more than 20 feet.
 ```
-# Description
+## Description
 The angustiden is a gargantuan hunter of the deep sea. The size and ferocity of this behemoth are matched only by those of the megalodon, and it counts even the great white shark among its prey. Its foot-long, dense, and jagged teeth tear through anything they choose to clamp down on, and very few creatures manage to leave such an embrace with all of their body parts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Angustiden)
 ```encounter-table
 name: Angustiden

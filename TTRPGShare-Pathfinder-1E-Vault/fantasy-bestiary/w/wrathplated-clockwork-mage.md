@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wrathplated Clockwork Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 58
 desc_short: Fire dances across the surface of this faceless construct and the crystal wand set into its chest.
 ```
-# Description
+## Description
 Wizards in ancient Thassilon each specialized in one of seven schools of magic, a practice that carried over to their production of magical constructs.
 
  The example creature presented here uses a clockwork mage as the base creature. See that entry for full descriptions of its base abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wrathplated%20Clockwork%20Mage)
 ```encounter-table
 name: Wrathplated Clockwork Mage

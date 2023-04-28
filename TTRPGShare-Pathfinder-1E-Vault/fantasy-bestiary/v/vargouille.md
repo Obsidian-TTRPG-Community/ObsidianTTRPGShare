@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vargouille
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 272
 desc_short: This creature is a blackened, bat-winged fiend’s head. Tentacles dangle from chin and scalp, and its fanged mouth hangs agape.
 ```
-# Description
+## Description
 A vargouille is larger than a human head, typically between 12 and 20 inches high with a 15- to 35-inch wing span. Vargouilles are not natives of the Material Plane but can often be found there nevertheless, occupying graveyards, ancient battlefields, or anywhere one can find remnants of death and decay. These hideous monsters come from the fiendish outer planes, where they flop and flap through strange and haunted skies in constant search of fresh souls to torment. In these nightmare realms, vargouilles play a role similar to that of a raven or vulture, although they augment these roles with a malevolent delight in causing pain and anguish that no scavenger bird could ever hope to match.
 
 Vargouilles attack by swooping in on their opponents, shrieking them into paralysis, and then biting them with rows of razor-sharp teeth. When multiple vargouilles take up a common cause and fight as allies, they overwhelm their victim with bites and shrieks, tearing it to shreds.
 
 A vargouille’s low power and hideous method of reproduction make for a dangerous combination. Vargouilles are relatively easy to summon to the Material Plane, and once here, they can swiftly reproduce, creating more and more of their hideous kind from those who fall victim to their kiss. Vargouilles created on the Material Plane in this manner are still extraplanar creatures, and as such can be banished with the right magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vargouille)
 ```encounter-table
 name: Vargouille

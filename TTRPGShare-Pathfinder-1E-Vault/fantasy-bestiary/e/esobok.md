@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Esobok
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 84
 desc_short: This stout, hunched predator has a ruff of dirty feathers and a crocodilian skull for a head.
 ```
-# Description
+## Description
 Esoboks constitute a vicious predator caste of psychopomps. They patrol graveyards as feral hunters, hungry for undead flesh. As outsiders, esoboks don’t have to eat and draw no sustenance from this behavior, but the spark of undeath is a feast for their every sense, and they pursue and ravenously consume undead creatures at every opportunity. 
 
 Esoboks’ unruly nature and limited intelligence make them ideal border guards and “attack animals,” although their behavior can be alien and unsettling to those who expect them to display either more animalistic instincts or the sophisticated intellects of other psychopomps. These predators are never trusted to retrieve the souls of the fallen, but they are often called to the Material Plane to help contain outbreaks of undead-in such situations, their joy at the taste of undead flesh generally prevents them from attacking living targets, despite their lust for battle. 
 
 Some psychopomps (particularly vanths; Pathfinder RPG Bestiary 4 221) have developed methods of training esoboks to realize greater potentials, allowing the creatures to tap into newfound reservoirs of magical ability. These trained esoboks have the advanced creature simple template and gain access to the following spell-like abilities, each usable once per day: ear-piercing scream, haunting mists, and teleport. The typical esobok stands 3 feet tall at the shoulder, is nearly as wide, and weighs upward of 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Esobok)
 ```encounter-table
 name: Esobok

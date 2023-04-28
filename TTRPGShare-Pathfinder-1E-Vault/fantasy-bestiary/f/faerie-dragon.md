@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Faerie Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 9
 desc_short: A pair of brightly colored butterfly wings sprouts from the back of this miniature dragon.
 ```
-# Description
+## Description
 Related to pseudodragons, faerie dragons are whimsical, playful pranksters that spend most of their time either relaxing in cool forest glades or engaged in some sort of prank. Although such mischief is usually spontaneous, some faerie dragons have been known to spend months or even years in preparation of one truly spectacular joke.Travelers making their way through lands known to be inhabited by these good-natured-but sometimes annoying-tricksters are advised to keep up their guard lest they face all manner of creative annoyances (horses painted with berry juice, squirrels placed inside bedrolls, and clothing decorating high branches being a few examples).
 
 Unlike true dragons, faerie dragons do not grow larger with age, but their scales do change color, starting with red and moving through the rainbow to reach dark violet at old age. Faerie dragons grow in power as spellcasters as they age (typically gaining levels in sorcerer), learning more powerful spells to complement their innate abilities. The spells of faerie dragons tend to focus on tools that can be used to create or enhance pranks, and illusion and enchantment spells are particularly popular.
@@ -72,7 +74,7 @@ Unlike true dragons, faerie dragons do not grow larger with age, but their scale
 Faerie dragons avoid combat unless there is no other option. If forced to fight, faerie dragons attempt to confound enemies rather than kill them, using both spells and breath weapon to weaken and scatter foes before fleeing. The only exception to this is when a faerie dragon’s clan or allies are in danger. As capricious as these tiny dragons can be, many prove quick to bond with goodly creatures, especially fey and others they find interesting or hilarious-adventurers often fall into this latter camp, particularly those most outraged by a faerie dragon’s tricks.
 
 Faerie dragons sometimes ally with spellcasters, serving as curious, occasionally reckless, but always true familiars. An arcane spellcaster of at least 7th level with an alignment within 1 step of chaotic good who has the Improved Familiar feat may select a faerie dragon as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Faerie%20Dragon)
 ```encounter-table
 name: Faerie Dragon

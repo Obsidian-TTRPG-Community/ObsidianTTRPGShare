@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crypt Flower
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 67
 desc_short: A lone petal hangs over the opening of this bulbous, pitcher-shaped flower, which is flanked by a pair of serpentine vines.
 ```
-# Description
+## Description
 Driven by pure instinct, this monstrously sized pitcher plant is much more aggressive than its more common and harmless insect-eating kin. Though a capable hunter, the crypt flower has no qualms about scavenging for its sustenance and eagerly devours living or rotting flesh. It maintains a proclivity for growing in graveyards and cemeteries, nursing itself on a diet of carrion, corpses, and vermin. Because the crypt flower gains its nutrients from decomposing organisms, the plant is nearly rootless and moves about by extending and retracting four thick clusters of rootlike shoots. 
 
 The crypt flower’s central, pitcher-shaped bulb is larger than an average adult human. A single petal hovers above the opening, acting as a sort of lid above rows of jagged spines that fold inward, overlapping each other almost like shark’s teeth. As soon as a victim comes near this maw, the overhanging petal slams down and the flower rapidly constricts. Its spines gnaw upon the captured prey, drawing it into the large, hollow pitcher to be dissolved in sweet-scented but acidic and toxic nectar. 
@@ -63,7 +65,7 @@ The crypt flower’s central, pitcher-shaped bulb is larger than an average adul
 In certain areas, bandit gangs or criminal organizations based in rural regions have taken the somewhat dangerous tradition of using crypt flowers to dispose of unwanted bodies. Since it makes no difference to a crypt flower whether it consumes an unwanted body and otherwise, complex pens or troughs are built to contain the flowers and limit their movements so that they can be “fed” with relative safety. 
 
 Crypt flowers typically grow between 8 to 10 feet tall and weigh 320 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crypt%20Flower)
 ```encounter-table
 name: Crypt Flower

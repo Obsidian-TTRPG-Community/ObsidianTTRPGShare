@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Owlbear
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 213
 desc_short: This beast has the general size and shape of a great bear, yet the head and feathers of an owl.
 ```
-# Description
+## Description
 A mythic owlbear may have been created by a mythic mage, or adopted as the favored pet of a mythic druid. Though as short-tempered and bloodthirsty as other owlbears, a mythic owlbear has the sense to avoid or flee foes more powerful than itself.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Owlbear)
 ```encounter-table
 name: Mythic Owlbear

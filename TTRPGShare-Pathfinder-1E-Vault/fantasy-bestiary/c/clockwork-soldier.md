@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Soldier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 57
 desc_short: Cogs and gears are visible in the gaps of this metallic creature’s armor. It wields a polearm as it stands ready at attention.
 ```
-# Description
+## Description
 The clockwork soldier is a mechanical mercenary that fights to the death for its creator. With the ability to wield most weapons with full proficiency, clockwork soldiers are versatile and wholly unpredictable foes. Most are armed with magic weapons-a +1 halberd being the most common armament.
 
 Clockwork soldiers are among the most efficient constructs of their kind. They are ideal for sentry and guard duty. Clockwork soldiers have the same basic shape as a human. They are 6 feet tall and weigh 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Soldier)
 ```encounter-table
 name: Clockwork Soldier

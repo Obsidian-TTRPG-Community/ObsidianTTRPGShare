@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bull of Zagresh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 63
 desc_short: This immense bovine has horns reminiscent of a stag, with daggerlike points spreading more than fifteen feet across.
 ```
-# Description
+## Description
 These enormous bovines are 15 feet tall, measure nearly 30 feet from horns to tail, and weigh approximately 16 tons. Bred for war and violence by the Murdered Child orc tribe, they are used in ravine fights-bloodsports in blocked-off gorges or gullies that pit the might and ferocity of orcs against various wild beasts. Aggressive and trained for combat, bulls of Zagresh respond to most threats by charging anything that stands and goring whatever is left. Skilled Murdered Child beast drovers oversee bulls of Zagresh in warfare, driving the mighty cattle into enemy formations to break the front line or crush foot archers and other lightly armored targets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bull%20of%20Zagresh)
 ```encounter-table
 name: Bull of Zagresh

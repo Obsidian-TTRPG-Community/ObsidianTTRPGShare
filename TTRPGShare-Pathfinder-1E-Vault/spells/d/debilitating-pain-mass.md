@@ -1,19 +1,21 @@
 ---
-alias: Debilitating Pain, Mass
+aliases: [Debilitating Pain, Mass]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Debilitating Pain, Mass 
+## Debilitating Pain, Mass
 
 **source**:: Psychic Anthology pg. 10  
 **school**:: enchantment (compulsion) (mind-affecting, pain)
 **level**:: psychic 5, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/4 levels  
@@ -21,6 +23,6 @@ alias: Debilitating Pain, Mass
 **saving-throw**:: Will parital (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions as per *debilitating pain*, except you can target one creature for every 4 caster levels you have.

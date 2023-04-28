@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bugbear
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 38
 desc_short: This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with the thrill of the coming kill.
 ```
-# Description
+## Description
 The bugbear is the largest of the goblinoid races, a lumbering brute that stands at least a head taller than most humans. They are loners, preferring to live and kill on their own rather than form tribes of their own kind, yet it isn’t uncommon to find small bands of bugbears working together, or dwelling in goblin or hobgoblin tribes where they function as elite guards or executioners. Bugbears do not form large warrens like goblins or nations like hobgoblins; they prefer smaller-scale mayhem that lets them keep their favorite acts (murder and torture) on a more personal level. Humans are a bugbear’s favored prey, and most count the flesh of humanity as a dietary staple. Grisly trophies of ears or fingers are common bugbear decorations.
 
 Bugbears, when they turn to religion, favor gods of murder and violence, with various demon lords being favorites.
 
 A typical bugbear stands 7 feet in height and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bugbear)
 ```encounter-table
 name: Bugbear

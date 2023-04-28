@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Koto-furunishi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Bestiary 5
     desc: 252
 ```
-# Description
+## Description
 A koto-furunishi is a tsukumogami that forms from a koto, also known as a long zither. Benevolent but shy, koto-furunishi enjoy playing beautiful music for others, especially attentive and caring owners, but never when they are being observed. Their penchant for doing so often leads to confusion as to the identity of the mysterious musician. If mistreated, a koto-furunishi never retaliates against its owner, but instead leaves its home to join a band of other tsukumogami who will appreciate its music more than its former owner.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Koto-furunishi)
 ```encounter-table
 name: Koto-furunishi

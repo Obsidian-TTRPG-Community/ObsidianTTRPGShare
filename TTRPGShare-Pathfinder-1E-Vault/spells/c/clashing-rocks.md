@@ -1,19 +1,21 @@
 ---
-alias: Clashing Rocks
+aliases: [Clashing Rocks]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Clashing Rocks 
+## Clashing Rocks
 
 **source**:: Advanced Player's Guide pg. 210  
 **school**:: conjuration (creation) (earth)
 **level**:: arcanist 9, druid 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: see text  
@@ -21,7 +23,7 @@ alias: Clashing Rocks
 **saving-throw**:: Reflex partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create two Colossal-sized masses of rock, dirt, and stone and slam them together against a single creature between them. The *clashing rocks* appear up to 30 feet away from the target on opposite sides and rush toward it with a mighty grinding crash. You must make a ranged touch attack to hit the target with the rocks. The *clashing rocks* ignore concealment and cover, and if there is a solid barrier between the target and either of the *clashing rocks*, the spell has a +28 bonus on the Strength check to burst through the barrier and continue unimpeded to the target. A creature struck by the *clashing rocks* takes 20d6 points of bludgeoning damage and is knocked prone. If the target fails a Reflex saving throw, it is also buried under the resulting rubble as if by a cave-in (see *Pathfinder RPG Core Rulebook* 415).  
   

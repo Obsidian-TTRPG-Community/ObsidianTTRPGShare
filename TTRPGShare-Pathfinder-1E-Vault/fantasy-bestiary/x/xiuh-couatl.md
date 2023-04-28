@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xiuh Couatl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -82,9 +84,9 @@ sources:
     desc: 86
 desc_short: Wreathed in flame, this winged serpent sports brightly colored feathers sparking with electricity.
 ```
-# Description
+## Description
 Xiuh couatls are a fierce variety of couatl commonly associated with vengeance and retribution. They seek out vile creatures, offering one final opportunity at redemption. Those who do not accept this offer or cannot be redeemed face the xiuh couatl’s fearsome and absolute punishment. In cases where its might alone is not enough, a xiuh couatl offers its assistance to a powerful, righteous figure to mete out justice on its behalf. The winged serpents glow with an intense plume of flames, draped in arcing electricity. Their feathers range in color from bright crimson to deep violet, encompassing the shades of the setting sun. A typical xiuh couatl is 20 feet long with a wingspan of 25 feet. It weighs 4,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xiuh%20Couatl)
 ```encounter-table
 name: Xiuh Couatl

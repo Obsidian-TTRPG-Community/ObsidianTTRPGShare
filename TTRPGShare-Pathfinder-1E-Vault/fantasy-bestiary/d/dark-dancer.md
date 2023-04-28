@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Dancer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 43
 desc_short: Dancing in a wicked celebration, this slight humanoid is wrapped head to toe in dirty scraps of dark cloth.
 ```
-# Description
+## Description
 Though still clad in the tattered dark clothing worn by other dark folk, dark dancers appear to be the most decorated and festive of these strange humanoids. They are intermediaries between clans and factions, and thus clans can’t restrict the actions of dark dancers in their realms. Dark dancers answer only to dark stalkers and dark callers.
 
 Though fickle and erratic, dark dancers are well liked and usually welcome among clans for as long as they wish to stay. Yet they rarely stay long, instead insinuating themselves into dozens of underground communities over the course of a year. They serve as storytellers, entertainers, and messengers. One of their favorite stories to share is about the relationship between their kind and the owbs. Though dark dancers are rare and weak, they are highly appreciated by dark folk society. Dark folk consider it a bad omen when a dark dancer dies. Dark dancers stand just under 4 feet tall and weigh 60 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Dancer)
 ```encounter-table
 name: Dark Dancer

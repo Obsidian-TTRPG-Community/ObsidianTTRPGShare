@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Keulia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 62
 desc_short: This small, frilled reptile has a squat body with smooth scales.
 ```
-# Description
+## Description
 The keulia is an omnivorous lizard with a hermit crab’s penchant for acquiring and covering itself in useful detritus. This is primarily a camouflage function, allowing the reptile to blend in with its surroundings. However, more than a millennium of domestication has resulted in a less timid creature that rarely scampers or bites. Keulias today are prestige pets that Kalistocrats groom with all the care one would pay a bonsai tree, delicately coaxing the lizards to absorb gems and precious metals into their hides. They naturally shed their camouflage, and so intermittently shed a few jewels every month. Drumans have developed several superstitions and sayings about these events, considering it good luck for such a gem to fall at one’s feet.
 
  A spellcaster can select a keulia as a familiar. The master gains a +3 bonus on Disguise checks as a special ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Keulia)
 ```encounter-table
 name: Keulia

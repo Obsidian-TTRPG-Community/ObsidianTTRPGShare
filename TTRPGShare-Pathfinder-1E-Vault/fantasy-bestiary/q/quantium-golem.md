@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quantium Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 19
 desc_short: This towering metal construct crackles with eldritch energy and wields an immense sword in its hands.
 ```
-# Description
+## Description
 Around the perimeter of Quantium, two immense golems march a patrol uninterrupted since the days of the archmage Nex himself. They stand as mirror images of each other, one crimson in hue and bearing a sword in the right hand, the other green and with sword in the left. Legend holds that Nex crafted the golems to defend his capital during a time of desperate struggle in which he foresaw his own absence.
 
 The golems only pause in their unending patrol if attacked or obstructed, and then only until they eliminate or circumvent the obstacle, whichever is most direct. The golems always patrol at opposite ends of the city, marching counterclockwise and pausing if their partner is interrupted. They last broke from patrolling in 576 ar, when they fought the Gebbite horde in the very battle in which Nex vanished from Golarion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quantium%20Golem)
 ```encounter-table
 name: Quantium Golem

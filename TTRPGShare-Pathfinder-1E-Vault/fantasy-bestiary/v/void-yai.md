@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Void Yai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 210
 desc_short: This towering, three-eyed horned giant carries himself with the self-assurance of an undefeated champion of countless wars.
 ```
-# Description
+## Description
 The concept of the void is a difficult one for many individuals to grasp, for it encompasses more than just an absence of anything. The concept of “void” as an element also represents the heavens above, the dark places between the stars, the nature of the spiritual world, and even the capacity to create and envision new ideas. The void yai represents all of these possibilities, interpreted in a way that exemplifies the evil of the oni race.
 
 Unlike lesser oni, the void yai does not represent any single humanoid race-the closest it comes is perhaps the rune giant, and certainly the void yai superficially resembles monsters of legend, with its dark, heavily muscled body, horns, and fangs. A void yai manifests when the combination of an extremely powerful oni spirt and an overwhelmingly evil location intersect at precisely the right time. Rarely, an eldritch transformation spontaneously elevates an existing yai to the vaunted status of void yai-whispers of vile rituals that an oni can perform to quicken this transformation keep some sages awake at night, for if such rituals existed, then all oni could potentially become void yai-a sobering thought indeed, given the void yai’s daunting capacity for cruelty. As with almost all oni, the void oni’s use of weapons and armor seems like cruel overkill. A void oni is 20 feet tall and weighs 10,000 pounds.
 
 Void yai turn toward the Material Plane to satisfy their desires, lording over lesser creatures with the aid of the void. A void yai usually claims a huge territory, bringing much larger creatures to heel as servants. As with fire yai, a void yai makes frequent use of lesser oni as its minions, but prefers to surround itself with whatever giant tribe or society it has conquered. Rarely, a void yai commands kingdoms of smaller humanoids, but since the immense void yai has no ability to assume the shape of such small and insignificant creatures, it often feels awkward and out of place. More so than other yai, void yai are ashamed of their true appearance-their vanity is such that most are masters of using their change shape ability to appear as breathtakingly handsome or beautiful giants, and it is in this form they prefer to live. Only when combat begins does their rage take control, causing them to revert to their true, horrific shapes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Void%20Yai)
 ```encounter-table
 name: Void Yai

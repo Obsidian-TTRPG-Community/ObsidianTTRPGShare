@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grendler Red-Chains
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 44
 desc_short: Shards of broken manacles, links of chain, and iron flails are imbedded in this hideous, human-sized man’s ruddy flesh. Rivulets of congealing blood run from its soaked cap down its mangled face and neck, soaking its tangled white beard; in its arms looms a rusty but clearly sharp scythe. 
 ```
-# Description
+## Description
 It’s said the latent suffering in Varisia’s Hollow Mountain-where Thassilonian slaves long ago carved out a labyrinth of intricate corridors-not only attracted Grendler Red-Chains but helped him grow to a size considered monstrous for a redcap. The height of a short man, Grendler Red-Chains stalks the mountain’s tunnels with aplomb, terrorizing adventurers and the complex’s denizens alike with his wicked scythe and spiked boots. Perhaps because of his larger size, he heals faster than most redcaps; he enjoys self-mutilation almost as much as he enjoys dipping his cap in his victims’ blood. Over the years, Grendler Red-Chains has culled bits of chains and shackles from the corpses of long-dead slaves and embedded them into his own flesh, both to terrify his enemies and to fortify his defenses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grendler%20Red-Chains)
 ```encounter-table
 name: Grendler Red-Chains

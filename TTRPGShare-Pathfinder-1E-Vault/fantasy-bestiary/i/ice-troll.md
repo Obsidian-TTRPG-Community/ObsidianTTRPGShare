@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ice Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 271
 desc_short: This large creature has light blue-green skin and cold, piercing eyes. Dressed in rough furs, its tusked jaw juts forth in a long underbite.
 ```
-# Description
+## Description
 Ice trolls are somewhat smaller than normal trolls, but they possess greater intelligence and cunning and are just as voraciously hungry. They display the typical hunched posture of trolls, combined with long arms tipped with sharp claws and the distinctive troll underbite. Like normal trolls, ice trolls possess amazing regenerative powers that enable them to recover from almost any wound. Unlike most trolls, ice trolls often use weapons in battle, but in the heat of combat, they often cast aside weapons in favor of their rending claws. An ice troll stands about 10 feet tall and weighs up to 900 pounds.
 
 Because of their greater intellects, ice trolls sometimes work as mercenaries, and often serve as soldiers in monstrous armies. They frequently ally with frost giants, and may even be found among northern barbarian tribes, as long as they are well fed and well paid.
@@ -57,7 +59,7 @@ Ice trolls enjoy the taste of human flesh, and those not working with humans fre
 In combat, ice trolls are more cautious than normal trolls. They do not normally rush headlong into battle, instead focusing on weaker foes or those bearing fire. They do not hesitate to attack opponents armed with fire, but work together to defeat such enemies before they can bring their dangerous weapons to bear.
 
 Ice troll society is more patriarchal than normal troll society, and while males may form gangs to hunt or raid, most ice trolls live in small family groups comprised of a male, a female, and their offspring.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ice%20Troll)
 ```encounter-table
 name: Ice Troll

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rune Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 86
 desc_short: This giant’s skin is black and pitted, like roughly cast iron, and etched with glowing red runes.
 ```
-# Description
+## Description
 Magically crafted and crossbred from taiga and fire giant slaves by ancient wizards, rune giants are anathema to their own kind. Given power to command and magically control other giants, the rune giants themselves served their even more powerful masters, and in so doing granted ancient empires armies of giants to command. In the eons since these ancient empires collapsed, rune giants have persisted as a race of their own, little more than bogeymen, horrors whispered of late at night by superstitious giants.
 
 Rune giants’ charcoal flesh is decorated by dozens of runes-manifestations of their eldritch powers. Rune giants are 40 feet tall and weigh 25,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rune%20Giant)
 ```encounter-table
 name: Rune Giant

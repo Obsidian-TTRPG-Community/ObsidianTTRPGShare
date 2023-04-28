@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ningen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 183
 desc_short: This enormous f lippered creature is as pale as an iceberg and is nearly as large.
 ```
-# Description
+## Description
 Colossal but reclusive, ningens inhabit the coldest oceans of the world, preying on fish and large arctic mammals like walruses and even whales. A ningen has long armlike f lippers ending in sharp spurs that act as claws, and a humongous tail that can propel it rapidly through the water. The creature’s body is sheathed in layers of thick, insulating blubber. Its face is oddly featureless, with nothing more than a pair of small nostrils, two large, black eyes, and a thin mouth containing rows of large teeth.
 
  Although intelligent and capable of communication, ningens are distrustful of humanoids, particularly those on seafaring vessels, due to a long history of their kind being hunted by land dwellers. While the insulating blubber that allows ningens to exist in the coldest waters has some of the same uses as whale oil, a ningen’s supernatural link to cold makes its bones, its skin, and even its teeth valuable to those seeking to craft or enchant various magic items.
@@ -66,7 +68,7 @@ Colossal but reclusive, ningens inhabit the coldest oceans of the world, preying
  When threatened or angered, ningens make terrifying opponents. Ningens always attempt to bring enemies into the water, where they can use their abilities to greater effect.
 
  A ningen is 90 feet long and weighs 180,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ningen)
 ```encounter-table
 name: Ningen

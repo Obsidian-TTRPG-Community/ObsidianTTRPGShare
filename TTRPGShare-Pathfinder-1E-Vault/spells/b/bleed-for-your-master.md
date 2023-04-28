@@ -1,19 +1,21 @@
 ---
-alias: Bleed for your Master
+aliases: [Bleed for your Master]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Bleed for your Master 
+## Bleed for Your Master
 
 **source**:: Ultimate Wilderness pg. 227  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: antipaladin 2, arcanist 3, druid 3, hunter 3, ranger 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 immediate action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: your animal companion, familiar, or fiendish servant  
@@ -21,7 +23,7 @@ alias: Bleed for your Master
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 When you would be hit by an attack that requires an attack roll, or when you are within an area of effect that allows you to attempt a Reflex saving throw, with a single touch you compel the target to throw itself in front of the blow or shield you from the effect.  
   
@@ -30,4 +32,3 @@ If an attack roll triggered this spell’s casting, the target takes the damage 
 If an area of effect that allows you to attempt a Reflex save triggered this spell’s casting, the target instead grants you cover against the effect (+2 bonus on Reflex saves) if it is your size or smaller, or improved cover (+4 bonus on Reflex saves and improved evasion against the effect) if it is larger than you. The target automatically fails its Reflex save against the effect but can still benefit from improved evasion and similar mitigating effects.  
   
 After taking damage, the target is shaken for 1 minute. If the target was already shaken, it becomes frightened instead.
-

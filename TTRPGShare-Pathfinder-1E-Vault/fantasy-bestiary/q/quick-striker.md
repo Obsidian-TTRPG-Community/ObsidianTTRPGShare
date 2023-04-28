@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quick Striker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 38
 desc_short: Foul liquid drips in equal measure from this scorpion-woman’s fearsome spear and tail stinger.
 ```
-# Description
+## Description
 Quick strikers attack and withdraw with surgical precision, serving both as assassins and cavalry among girtablilu. They spread their venom across whatever weapons they wield, trusting the poison to linger even after they vanish from battle. These girtablilu prefer to target enemy leaders before an offensive by using their stealth, knowledge of the land, and skill with poisons to eliminate dangerous foes and sow confusion. Regardless of the range, quick strikers excel at drawing enemy ranks apart and splitting their attention to allow focused formations of allies to press into otherwise impenetrable formations.
 
 Quick strikers are vital to helping a tribe establish its hold on new territory. Their skills make them good at harassing monsters in newly discovered ruins and disarming any dangers left behind by past masters. Because of their knowledge of alchemy and anatomy, they may also serve as healers, treating injuries as mundane as snakebites as the tribe ekes out an existence in the desert.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quick%20Striker)
 ```encounter-table
 name: Quick Striker

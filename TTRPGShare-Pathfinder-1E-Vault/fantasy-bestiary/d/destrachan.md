@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Destrachan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 83
 desc_short: The hunched, reptilian beast lopes on two clawed feet, its eyeless head dominated by a huge circular maw filled with jagged teeth. 
 ```
-# Description
+## Description
 Despite its bestial appearance, the destrachan is in fact a creature of cunning and cruel intellect that enjoys inflicting pain and viciously toying with its prey. It has no eyes, and is completely blind, but possesses a pair of complex, tripartite ears it can adjust to different levels of sensitivity to sound, allowing the destrachan to hunt in absolute darkness as if it were able to see. 
 
 Destrachans are carnivores, preferring to stalk and kill live prey, although they also feast on carrion. This habit serves them well, since they often kill more than they can immediately consume. They often hunt in packs, using a complex series of clicks, shrieks, and whistles to communicate with each other. While destrachans cannot speak, they are capable of understanding spoken languages like the common tongue, and often take pleasure in their victims’ cries and pleas for mercy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Destrachan)
 ```encounter-table
 name: Destrachan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gray
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 129
 desc_short: This gray-skinned humanoid has long, willowy limbs and a bulbous head with oversized black eyes.
 ```
-# Description
+## Description
 Enigmatic grays travel the Material Plane in search of knowledge and living specimens for research, yet little is known about their motivations or where exactly they come from. Stories of encounters with these creatures often take the form of poorly remembered nightmares from those who experience a gray’s sleep paralysis. Some abductees recall being brought aboard the grays’ vast, otherworldly vessels and subjected to nightmarish experiments, while others have vivid but terrifying memories of being confined in cramped, dark places that are seemingly alive. In spite of the differences in their experiences, those who have encountered grays universally find their presence alien, condescending, and sinister. Grays’ movements and expressions are disturbing and inhuman, and their intentions remain inscrutable. Through telepathic contact with the beings, their victims detect a constant, unwavering malevolence. Beyond that, the grays’ faces and full, black eyes show little emotion. Their movements are eff icient, and they frequently spend several seconds in deliberation before each move they make. They seem to communicate with their own kind using only telepathy, forgoing even body language or eye contact.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gray)
 ```encounter-table
 name: Gray

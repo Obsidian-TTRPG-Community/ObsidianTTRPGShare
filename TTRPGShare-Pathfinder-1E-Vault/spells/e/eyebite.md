@@ -1,19 +1,21 @@
 ---
-alias: Eyebite
+aliases: [Eyebite]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Eyebite 
+## Eyebite
 
 **source**:: PRPG Core Rulebook pg. 280  
 **school**:: necromancy (emotion, pain)
 **level**:: alchemist 6, arcanist 6, bard 6, investigator 6, mesmerist 6, skald 6, sorcerer 6, spiritualist 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Eyebite
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Each round, you can target a single living creature, striking it with waves of power. Depending on the target's HD, this attack has as many as three effects.  
   

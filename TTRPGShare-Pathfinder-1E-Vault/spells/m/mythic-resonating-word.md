@@ -1,19 +1,21 @@
 ---
-alias: Mythic Resonating Word
+aliases: [Mythic Resonating Word]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Resonating Word
+## Mythic Resonating Word
 
 **source**:: Mythic Adventures pg. 105  
 **school**:: transmutation (sonic)
 **level**:: arcanist 7, bard 5, psychic 7, skald 5, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Resonating Word
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You speak a terrible word of power, setting up potentially lethal vibrations in the chosen target. The target must save once each round on your turn, and the effects grow stronger for each saving throw the creature fails.  
   

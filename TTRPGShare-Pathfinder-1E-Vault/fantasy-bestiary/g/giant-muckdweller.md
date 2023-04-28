@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Muckdweller
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 175
 desc_short: This massive lizard has pale, spotted flesh and spines around its face that form a spiky frill.
 ```
-# Description
+## Description
 Giant muckdwellers are quadrupedal cousins of the common muckdweller. They sometimes socialize with their smaller kin, forming simple societies in which the largest rule. Occasionally they serve lizardfolk as allies and mounts. Giant muckdwellers measure up to 10 feet long and weigh around 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Muckdweller)
 ```encounter-table
 name: Giant Muckdweller

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Child of Yog-Sothoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
     desc: 82
 desc_short: This creature could almost pass for human from the neck up, but below that its scaly skin, tail, and animal-like legs, as well as the tentacles that droop from its belly, reveal its aberrant nature.
 ```
-# Description
+## Description
 Creatures born of mortal flesh infused with the essence of the outer god Yog-Sothoth, these deviant children are often tasked with preparing the world for further incursions from other dimensions or agents of the Elder Mythos. Traditionally, the process of creating a child of Yog-Sothoth involves a blasphemous ritual that uses a mortal creature (typically a human) as an incubator. For the purpose of this ritual, gender is irrelevant. Giving birth to a child of Yog-Sothoth is always fatal. In most cases, the ritual results in the birth of twins-one a child of Yog-Sothoth, which can pass for a time as a member of the race of the creature in which it incubated, and one that cannot. Those twins that inherit a monstrous appearance take more after the Outer God itself in form, and are known as the spawn of Yog-Sothoth (Pathfinder RPG Bestiary 4 251).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Child%20of%20Yog-Sothoth)
 ```encounter-table
 name: Child of Yog-Sothoth

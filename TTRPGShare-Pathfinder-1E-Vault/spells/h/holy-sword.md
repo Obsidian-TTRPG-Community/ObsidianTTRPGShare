@@ -1,19 +1,21 @@
 ---
-alias: Holy Sword
+aliases: [Holy Sword]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Holy Sword 
+## Holy Sword
 
 **source**:: PRPG Core Rulebook pg. 297  
 **school**:: evocation (good)
 **level**:: paladin 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: melee weapon touched  
@@ -21,7 +23,7 @@ alias: Holy Sword
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell allows you to channel holy power into your sword, or any other melee weapon you choose. The weapon acts as a *+5 holy weapon* (+5 enhancement bonus on attack and damage rolls, extra 2d6 damage against evil opponents). It also emits a *magic circle against evil* effect (as the spell). If the *magic circle* ends, the sword creates a new one on your turn as a free action. The spell is automatically canceled 1 round after the weapon leaves your hand. You cannot have more than one *holy sword* at a time.  
   

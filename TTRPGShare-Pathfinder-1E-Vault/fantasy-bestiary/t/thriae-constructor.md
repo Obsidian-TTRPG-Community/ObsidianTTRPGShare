@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thriae Constructor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 244
 desc_short: A droning hum surrounds this gargantuan half-bee, half-woman with insectile wings.
 ```
-# Description
+## Description
 Thriae blend the physical features of graceful humanoid women with those of giant bees. For the most part, they are a wise, knowledgeable, and spiritual race. But unlike others of their kind, thriae constructors are not philosophers or seers; they are mindless laborers that react by pure instinct. Despite their lack of intelligence, however, these enormous creatures possess an even more complex sense of architecture and structure than bees, and in some ways, their architectural instincts surpass even the greatest designs a human mind could imagine. Other thriae, particularly those of high rank, are adept at directing thriae constructors to focus on those jobs that will most benefit the community and herding them to their work. In times of peace, thriae constructors labor to build, expand, and renovate hives and enhance its fortifications. When a thriae hive is threatened, the constructors quickly descend upon their foes, encasing these enemies in the same secretion of adhesive wax they normally use as a material to build the hive, and assailing resilient enemies with numerous attacks and a vicious poison.
 
  A typical thriae constructor is 18 feet tall with a wingspan of 30 feet, and weighs about 5,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thriae%20Constructor)
 ```encounter-table
 name: Thriae Constructor

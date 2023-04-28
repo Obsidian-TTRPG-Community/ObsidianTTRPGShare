@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mhar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 86
 desc_short: Eight pairs of crystalline legs support this enormous volcano. The volcano’s crater constantly spews smoke and roiling lava.
 ```
-# Description
+## Description
 Mhar is a Great Old One that was born eons ago on the edge of the Material Plane. A unique planar rift caused pure essence from the Plane of Earth and Plane of Fire to collide and fuse together, coalescing into a being that lived in a state of constant anguish-a mass of volcanic eruptions that cooled and melted away in a cycle that caused it unending pain. Seeking relief from its torment but unable to escape the Material Plane, Mhar alleviated its suffering by traveling the stars.
 
  Mhar found nascent planets that were still made of roiling magma. For a time, Mhar could rest in the core of these planets, but even such primordial heat could not keep Mhar sedated. Mhar would eventually awaken, destroying the planet and departing to find another haven elsewhere. After destroying countless worlds, Mhar learned a way to escape to the Elemental Plane of Fire. Unfortunately for Mhar, this required greater power than it currently had. Mhar found another young planet-the world called Golarion-burrowed deep into its core, and waited to grow.
@@ -84,7 +86,7 @@ Mhar is a Great Old One that was born eons ago on the edge of the Material Plane
  While Mhar rested, the goddess Sarenrae tore open a portion of the Material Plane to seal Rovagug within the Dead Vault. Unbeknownst to her, she slew Mhar in that process, granting it the reprieve from pain it had always sought. However, even oblivion could not quell Mhar’s suffering, and its agony was enough to stir it from death. When Mhar awakened yet again, trapped within the crust of Golarion, it went mad, unable to escape its own torment. Mhar let out a psychic scream. As this scream rebounded and echoed between the crust and Mhar itself, intensifying the creature’s madness, the mental force of it pushed against the surface of the earth and formed the Kodar Mountains.
 
  Mhar seeks to break free from beneath Golarion’s crust and destroy the world, then use the magma as a focus to open a breach to the Plane of Fire and flood the entire Material Plane with lava. Once all of reality is a mass of fire and destruction, Mhar can finally find peace.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mhar)
 ```encounter-table
 name: Mhar

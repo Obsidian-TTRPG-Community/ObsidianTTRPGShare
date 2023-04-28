@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Wizard's Shackle"
 statblock: inline
-tags: monster
-name: Wizard's Shackle
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 278
 desc_short: This eel-like creature has a thick, greasy body and a large, circular mouth full of tiny teeth.
 ```
-# Description
+## Description
 Wizard’s shackles are intelligent, eel-like parasites with tough bodies covered in pulsating veins. A wizard’s shackle not attached to a host is quite cowardly and typically f lees if it can. However, if the wizard’s shackle becomes aware of a creature capable of casting spells or using spell-like abilities, it becomes extraordinarily aggressive. Once it establishes physical contact with such a creature, a wizard’s shackle attempts to dominate its host. Wizard’s shackles can’t control non-spellcasters, and never attempt to.
 
  Though wizard’s shackles are intelligent, they don’t have a society of their own and, without a host, they perform simple acts like eating, mating, and sleeping in the fashion of mindless vermin. However, once it dominates a spellcasting host, a wizard’s shackle reveals its full potential. Driven by strange yearnings and enigmatic impulses, a wizard’s shackle leads its host to perform various tasks that don’t make sense from an outside perspective. Most of these tasks are weird but benign, such as using magic to steal a merchant’s silverware or fix the roof of a peasant’s house. Rarely, a wizard’s shackle will force its host to commit murder or other brutal acts intended to fulfill some unknown purpose, though most victims of such actions tend to be wicked or corrupt in their own rights. Regardless, wizard’s shackles attached to hosts have an alien but almost childlike curiosity when it comes to humanoid society, and only the prospect of discovering more can distract them from their enigmatic tasks.
@@ -68,7 +70,7 @@ Wizard’s shackles are intelligent, eel-like parasites with tough bodies covere
  Wizard’s shackles latched onto hosts will sometimes form a social group, like a mage’s guild composed solely of dominated spellcasters. These collectives tend to work toward goals just as incomprehensible, if not more so, than an individual wizard’s shackle. Such goals might include spending a week dedicated to cleaning all the city’s fountains until they shine or building an obelisk made of hollow copper.
 
  A typical wizard’s shackle measures a mere foot in length and weighs about 2 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wizard%27s%20Shackle)
 ```encounter-table
 name: Wizard's Shackle

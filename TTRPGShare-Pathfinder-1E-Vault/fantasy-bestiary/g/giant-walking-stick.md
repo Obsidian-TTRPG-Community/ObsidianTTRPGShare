@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Walking Stick
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 83
 desc_short: What at first appears to be a spindly, dead tree suddenly crawls from its camouflage, its wiry antenna twitching in the air.
 ```
-# Description
+## Description
 More common in rocky badlands than the great sandy dunes, stick bugs of all sizes are often mistaken for the fallen palm fronds or thorny leaf less trees found near oases and other spots in the desert where vegetation grows. Giant walking sticks often remain motionless for days at a time, waiting for the right prey to pass by before striking. When engaged with a foe too difficult to overtake, giant walking sticks flee from the fight. They usually expel their nauseating spray in these situations, but some can even break off their own limbs in order to escape, regrowing the missing arm or leg later once they’re safe.
 
 A fully grown giant walking stick stretches from 6 to 10 feet long, but typically weighs only 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Walking%20Stick)
 ```encounter-table
 name: Giant Walking Stick

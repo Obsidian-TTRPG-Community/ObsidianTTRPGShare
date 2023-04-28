@@ -1,19 +1,21 @@
 ---
-alias: Permanency
+aliases: [Permanency]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Permanency 
+## Permanency
 
 **source**:: PRPG Core Rulebook pg. 318  
 **school**:: universal
 **level**:: arcanist 5, psychic 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 2 rounds  
 **components**:: V, S, M (see tables below)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **target**:: see text  
@@ -21,7 +23,7 @@ alias: Permanency
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell makes the duration of certain other spells permanent. You first cast the desired spell and then follow it with the *permanency* spell.  
   

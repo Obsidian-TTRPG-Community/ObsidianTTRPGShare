@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stormghost
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 84
 desc_short: This menacing creature stands on four pointed legs like those of an insect. A conical head sits atop its humanoid torso.
 ```
-# Description
+## Description
 Cunning hunters, stormghosts prowl lonely arctic tors, so named by their victims for their ability to conjure malignant weather and attack unseen. Stormghosts search constantly for food, tracking animals and intelligent creatures alike, and their appearances vary depending on the season, allowing them to blend into any environment. While stormghosts are thankfully rare, their regeneration mitigates the effects of aging, allowing them to live for more than 2,000 years. A typical stormghost stands 8 feet tall in its regular posture, but can extend its legs to reach up to 14 feet, with its muscled f lesh and hardened chitin armor making it weigh roughly 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stormghost)
 ```encounter-table
 name: Stormghost

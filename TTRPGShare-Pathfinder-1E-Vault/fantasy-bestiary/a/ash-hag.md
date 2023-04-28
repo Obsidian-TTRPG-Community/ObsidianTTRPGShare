@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ash Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 57
 desc_short: This spindly, hunched crone’s skin is a sickly gray color, as is her stringy hair, which is peppered with globs of what appear to be ashes.
 ```
-# Description
+## Description
 Despicable, flesh-hungry creatures, ash hags favor areas that fire has cleansed, such as husks of burned buildings or smoldering fields. They particularly prefer charred urban spaces, for such areas allow them to live among the ashes they love while they lure local residents to their doom. Ash hags often disguise themselves as beautiful, vulnerable maidens who just survived a devastating fire, or as charitable old women who show up at such disaster sites offering assistance. Once they have lured victims back to their lairs, ash hags sometimes toy with their captives for weeks, feeding them ashes until they eventually perish. An ash hag typically stands between 5 and 6 feet tall and weighs 140 pounds.
 
 The changelings who result from ash hags’ wicked work often have one distinctly gray eye; alternatively, they may have perpetually dry, almost desiccated skin and chronic psoriasis. The daughter of an ash hag can take the following as her hag racial trait.
 
 Pyrophile: The changeling gains a +1 racial bonus on damage rolls when using spells with the fire descriptor. This bonus increases by 1 for every 4 levels the changeling has beyond 1st.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ash%20Hag)
 ```encounter-table
 name: Ash Hag

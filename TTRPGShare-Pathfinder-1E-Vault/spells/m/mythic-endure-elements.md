@@ -1,19 +1,21 @@
 ---
-alias: Mythic Endure Elements
+aliases: [Mythic Endure Elements]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Endure Elements
+## Mythic Endure Elements
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: abjuration
 **level**:: adept 1, alchemist 1, arcanist 1, bloodrager 1, cleric 1, druid 1, hunter 1, investigator 1, oracle 1, paladin 1, psychic 1, ranger 1, shaman 1, sorcerer 1, spiritualist 1, summoner 1, summoner (unchained) 1, warpriest 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Endure Elements
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 A creature protected by *endure elements* suffers no harm from being in a hot or cold environment. It can exist comfortably in conditions between -50 and 140 degrees Fahrenheit without having to make Fortitude saves. The creature's equipment is likewise protected.  
   

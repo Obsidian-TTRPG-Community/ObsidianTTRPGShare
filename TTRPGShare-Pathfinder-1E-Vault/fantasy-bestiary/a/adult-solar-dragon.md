@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Solar Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: Bestiary 4
     desc: 68
 ```
-# Description
+## Description
 Arrogant and proud, solar dragons see themselves as the originators of light and life in the vastness of space. They treat all living creatures as their own creations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Solar%20Dragon)
 ```encounter-table
 name: Adult Solar Dragon

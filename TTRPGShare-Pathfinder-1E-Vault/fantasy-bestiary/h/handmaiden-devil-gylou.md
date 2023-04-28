@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Handmaiden Devil (Gylou)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 86
 desc_short: Twin tentacles stretch from the crown of this feminine fiend’s head, while her lower body blooms in a gown of writhing tendrils. 
 ```
-# Description
+## Description
 Known as handmaiden devils, Mothers of Pain, and Maids of Miscarriage, gylous attend to the whims and schemes of Hell’s few female overlords. Like manipulative matrons amid decadent mortal courts, these deceivers hide their fathomless evil beneath illusions of beauty, graciousness, and tradition. Gylous particularly loathe children. It’s said that the persistent cry of a babe can sometimes cause these fiends to abandon their illusions and viciously attack. 
 
 As greater devils, gylous can command many lesser devils, yet harbor an exclusive favoritism for erinyes. A gylou weighs 160 pounds and stands stiffly at 5-1/2 feet-though many wear their head-sprouting tentacles in tall, elaborate coiffures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Handmaiden%20Devil%20(Gylou))
 ```encounter-table
 name: Handmaiden Devil (Gylou)

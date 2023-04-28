@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tarry Demodand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 71
 desc_short: This lithe, toothy creature’s jet-black skin looks like living tar, and ooze drips from the claws that cap its long arms.
 ```
-# Description
+## Description
 Tarry demodands are lithe and lean compared to other demodands. Despite this difference, all tarry demodands are strong and agile. Although their batlike wings appear tattered and useless, they can still fly. A tarry demodand stands 7 feet tall and weighs 400 pounds.
 
 The tarry demodand is the grunt of the demodand army-bred for battle, these swift and deadly demodands make up the bulk of any demodand legion. That they themselves are more powerful than most outsiders is as much a testament to their race as anything else-a single tarry demodand is a formidable opponent, to say nothing of a group of the creatures. Although tarry demodands are quite strong, they prefer using light weapons-one in each hand. Tarry demodands only rarely use larger weaponry, and then only when directly ordered by a superior. They lack the terrific claws of the greater demodands, and a tarry demodand with no weapons tends to flee combat as soon as possible, only to return when it is properly armed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tarry%20Demodand)
 ```encounter-table
 name: Tarry Demodand

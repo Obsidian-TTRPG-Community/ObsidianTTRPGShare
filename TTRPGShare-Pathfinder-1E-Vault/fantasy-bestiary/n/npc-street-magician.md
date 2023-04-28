@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Street Magician
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: NPC Codex
     desc: 178
 ```
-# Description
+## Description
 The street magician uses his talents to make money.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Street%20Magician)
 ```encounter-table
 name: NPC Street Magician

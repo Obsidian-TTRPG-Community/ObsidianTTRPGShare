@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Targotha
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 60
 desc_short: This eyeless serpentine beast has a menacing mouth and sharp fins running down its long, deep-purple body.
 ```
-# Description
+## Description
 Targothas are unusual creatures that thrive in the thick, inky fluids of naturally occurring tar seeps or pits of oil, although they are equally at home in swampy waters or muddy bogs. They depend upon their blindsense when lurking within opaque fluids like tar or ooze, and will even lurch out of their lairs and flop along the ground if necessary to pursue a meal. A targotha is a patient ambush predator, and without the need to breathe, it can lie in wait for weeks for food. 
 
 A typical targotha measures 30 feet in length and weighs 7,000 pounds. Larger specimens are known to exist, but they prefer to dwell far from areas inhabited by civilized folk in the largest and deepest of tar pits or fens. Truly enormous targothas have multiple sets of razor fins and are capable of making two, three, or even four devastating attacks with their fins in a round.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Targotha)
 ```encounter-table
 name: Targotha

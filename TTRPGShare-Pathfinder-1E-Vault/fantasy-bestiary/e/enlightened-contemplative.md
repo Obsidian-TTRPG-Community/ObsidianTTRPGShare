@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Enlightened Contemplative
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 17
 desc_short: Resembling an enlarged brain with an atrophied humanoid body attached, this floating creature pulses with energy.
 ```
-# Description
+## Description
 Long ago, Akiton’s legendary Contemplatives of Ashok (Pathfinder Campaign Setting: Distant Worlds 60) were a race of relatively ordinary humanoids. As they came into the fullness of their intelligence, however, they unlocked great psychic abilities that slowly rendered their bodies unnecessary, resulting in a quick evolutionary march toward their current forms-floating brains attached to withered, vestigial bodies.
 
 Now in direct control of their own evolutionary progress, most contemplatives choose to advance methodically and scientifically. Yet a small subset engaged in daring research into occultism and the Esoteric Planes favor a more reckless approach. The most impressive discoveries of these self-styled “enlightened” individuals allow them to transcend the material world’s limitations for brief periods of time, much to the chagrin of more conservative contemplatives, who prefer to pursue less radical methods than their peers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Enlightened%20Contemplative)
 ```encounter-table
 name: Enlightened Contemplative

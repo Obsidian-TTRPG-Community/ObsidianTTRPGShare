@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Grand Necromancer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,9 +82,9 @@ sources:
   - name: NPC Codex
     desc: 193
 ```
-# Description
+## Description
 These wizards are steeped in the evil of their profession.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Grand%20Necromancer)
 ```encounter-table
 name: NPC Grand Necromancer

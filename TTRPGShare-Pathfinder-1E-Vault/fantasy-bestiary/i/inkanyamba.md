@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Inkanyamba
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 84
 desc_short: This monstrous serpent rises to a great height, unfurling an opalescent hood the size of a tower shield. Swaying from side to side, the creature drops open its elongated jaw to reveal an assortment of different-sized fangs. As it hisses, lightning slashes the storm-gray sky behind it.
 ```
-# Description
+## Description
 Sometimes called elder serpents, inkanyambas are enormous, malevolent snake-like creatures that dwell in tropical lakes and deep jungle rivers. Measuring over 60 feet long and weighing nearly 3,000 pounds, an inkanyamba resembles a dense snake with a vaguely crocodilian head, filled with multiple sets of fangs of varying lengths. Its long body is covered in multicolored scales that range from emerald green to golden and even vermilion. Males have larger hoods than females, who also have small, pointed frills running the length of their bodies.
 
 Inkanyambas live for centuries; their maximum possible lifespan is unknown.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Inkanyamba)
 ```encounter-table
 name: Inkanyamba

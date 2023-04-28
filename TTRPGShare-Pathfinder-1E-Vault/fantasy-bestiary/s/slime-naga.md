@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slime Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 118
 desc_short: This slime-covered serpentine creature has a humanoid head resembling that of an angry old man.
 ```
-# Description
+## Description
 At home in the muck and filth of the sewers beneath large cities, slime nagas prey upon the weak and dejected of urban society. They lurk beneath the surface and carve out their domains in the darkened tunnels, fighting with other subterranean denizens for territory. Though they live belowground for security and safety, they have no aversion to light and occasionally sun themselves in rancid cesspools. Their scales range in color from green to brown and are often a mottled combination of various shades that is difficult to discern beneath a thick coating of putrid slime. A slime naga stretches 12 to 14 feet long and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slime%20Naga)
 ```encounter-table
 name: Slime Naga

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Danava
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
   - name: Bestiary 5
     desc: 246
 ```
-# Description
+## Description
 Chained for eons beneath the deepest waves of the endless seas, danavas are the eldest and first of the great outsiders collectively known as titans. Conceived originally at the foundation of reality to govern and regulate the mercurial forces that shaped the cosmos, danavas ultimately proved too harsh, too rigid, and too unf linching for their mission. Finally, when the danavas went to war with their chaotic and less powerful brethren, the gods interceded before creation was rent asunder, placing their elder children in stasis beneath the waves, buried at the cruxes of many worlds.
 
  Danavas resemble thick-even rotund-but extremely muscular humans of incredible size. Reaching heights of 75 to 100 feet, danavas can weigh up to 200 tons. Their ancient ornamentations cover most of their red-brown skin, and their helmets always reveal their wagon-wheelsized, pupilless eyes.
@@ -73,7 +75,7 @@ Chained for eons beneath the deepest waves of the endless seas, danavas are the 
  Since the time of their imprisonment, the danavas have seldom emerged from beneath the waves. When freed from its sequestration, a danava surfaces in an attempt to restore balance to the world, whether through the raising of an elder god, perhaps devastating a race of humanoids on the brink of a destructive discovery or crushing the unchecked hubris of their own lesser kin. And although danavas focus singularly on their targets, they coldly and ruthlessly dispatch enemies attempting to thwart that goal, raining down lightning and laying waste to entire cities, wreaking fearsome havoc that becomes the stuff of legends. In combat, the titans typically use their massive brawn in conjunction with its mythic resilience to outlast enemies, saving their spell-like abilities for specific targets that pose a greater danger.
 
  While the forces that release danavas into the world are mysterious, the great outsiders function with autonomy. If a danava’s fury is successfully checked or resisted, the creature can be reasoned with. Typically, the titan divulges its charge and purpose, and explains the need for its actions, but without looking for pardon or expressing remorse. Danavas see the absolutes of the universe and rarely appreciate complexity or nuance. While danavas are usually lawful neutral, some lawful good and lawful evil danavas do exist. Lawful good danavas endeavor to cause the minimum necessary destruction to achieve their goals. Once they have righted whatever imbalance they were released to fix, danavas return to the fathomless depths until again no living memory of them remains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Danava)
 ```encounter-table
 name: Mythic Danava

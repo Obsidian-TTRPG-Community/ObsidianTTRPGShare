@@ -1,25 +1,27 @@
 ---
-alias: Mythic Beast Shape III
+aliases: [Mythic Beast Shape III]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Beast Shape III
+## Mythic Beast Shape III
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 5, arcanist 5, investigator 5, magus 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 This spell functions as *beast shape II*, except that it also allows you to assume the form of a Diminutive or Huge creature of the animal type. This spell also allows you to take on the form of a Small or Medium creature of the magical beast type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, ferocity, grab, jet, poison, pounce, rake, trample, trip, and web.  
   

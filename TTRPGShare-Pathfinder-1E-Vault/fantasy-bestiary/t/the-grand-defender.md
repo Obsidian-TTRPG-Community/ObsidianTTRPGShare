@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Grand Defender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 310
 desc_short: Made of polished iron, this mighty golem resembles a keen-eyed dwarf. It carries a warhammer and a shield bearing Torag’s symbol.
 ```
-# Description
+## Description
 The Grand Defender is a powerful golem-like tomb that serves as the communal body and resting place of Torag’s greatest dwarven heroes. It stands 18 feet tall and weighs approximately 10 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Grand%20Defender)
 ```encounter-table
 name: The Grand Defender

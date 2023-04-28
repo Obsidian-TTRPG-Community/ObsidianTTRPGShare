@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Great Cyclops
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: Mythic Adventures
     desc: 181
 ```
-# Description
+## Description
 Mythic great cyclopes are the first and oldest of their kind to succumb to visions of rage and destruction. Said to be the lost offspring of gods of lightning and the forge, they wield power over earth and energy, using it to blast open humanoid defenses so they can pluck out the tasty morsels within.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Great%20Cyclops)
 ```encounter-table
 name: Mythic Great Cyclops

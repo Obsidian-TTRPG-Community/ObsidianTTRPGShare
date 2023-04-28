@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fyndylsnitch the Shadowking
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 20
 desc_short: Dressed entirely in gray worn robes, a tiny, otherworldly man stands cloaked in mysterious shadows, his head crowned by a mane of wild, fiery-orange hair and his green eyes gleaming with madness and delight. 
 ```
-# Description
+## Description
 A master of shadow magic, Fyndylsnitch delights in using his craft to warp reality. While it is suspected he holds great power, the Lord of Drearwood has never moved from his realm. For this reason, sages speculate he performs some sort of duty for a greater lord in First World.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fyndylsnitch%20the%20Shadowking)
 ```encounter-table
 name: Fyndylsnitch the Shadowking

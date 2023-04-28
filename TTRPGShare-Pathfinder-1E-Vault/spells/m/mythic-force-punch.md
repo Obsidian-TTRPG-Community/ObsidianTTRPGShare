@@ -1,19 +1,21 @@
 ---
-alias: Mythic Force Punch
+aliases: [Mythic Force Punch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Force Punch
+## Mythic Force Punch
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: evocation (force)
 **level**:: arcanist 3, bloodrager 3, magus 3, psychic 3, sorcerer 3, spiritualist 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Force Punch
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell charges your hand with telekinetic force. Your successful melee touch attack deals 1d4 points of force damage per level (maximum 10d4) and causes the target to be pushed away from you in a straight line up to 5 feet per two caster levels. For every size category of the target above Medium, reduce the distance pushed by 5 feet (-5 feet for Large, -10 feet for Huge, -15 for Gargantuan, and -20 feet for Colossal) to a minimum of 0 feet. A successful Fortitude save negates the movement but not the damage.
 

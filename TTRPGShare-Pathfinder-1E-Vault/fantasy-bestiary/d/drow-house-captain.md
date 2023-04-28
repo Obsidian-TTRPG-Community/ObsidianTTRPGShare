@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drow House Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
   - name: Monster Codex
     desc: 35
 ```
-# Description
+## Description
 A house guard is better trained and equipped than a common warrior defending a drow city or caravan.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drow%20House%20Captain)
 ```encounter-table
 name: Drow House Captain

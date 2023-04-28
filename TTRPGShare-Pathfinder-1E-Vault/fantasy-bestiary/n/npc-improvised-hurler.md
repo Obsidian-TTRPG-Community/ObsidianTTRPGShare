@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Improvised Hurler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 106
 ```
-# Description
+## Description
 Typically found among tavern brawlers, an improvised hurler turns ordinary objects into devastating weapons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Improvised%20Hurler)
 ```encounter-table
 name: NPC Improvised Hurler

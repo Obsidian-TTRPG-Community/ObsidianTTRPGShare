@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Criminal (Slaver)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
   - name: GameMastery Guide
     desc: 266
 ```
-# Description
+## Description
 Slavers are the scourge of free societies, sneaking into towns and villages by night and capturing the innocent, spiriting them away to underground slave markets or taking them by ship to mines, plantations, and pleasure palaces across the sea.
 
 Slavers can also be used as riot police, low-level bounty hunters, exotic gladiators, or any kind of guard or soldier who prefers to capture opponents rather than kill them.
 
 Slavers will sometimes employ a pair of prostitutes to inveigle their victims into a compromising position (CR 5) or a pair of street thugs to help overpower victims (CR 5). Slavers might also be found with captured slaves; these slaves could be any of the NPCs in this chapter, such as commoners or aristocrats.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Criminal%20(Slaver))
 ```encounter-table
 name: NPC Criminal (Slaver)

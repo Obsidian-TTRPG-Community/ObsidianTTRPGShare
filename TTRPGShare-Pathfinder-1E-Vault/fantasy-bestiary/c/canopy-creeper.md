@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Canopy Creeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 80
 desc_short: What at first appeared to be nothing more than a tangle of thick, twisted vines growing among the canopy of the trees suddenly coils itself into a large mass dangling high above. A large beaklike maw emerges from the center of the fecund mass, numerous thick, grasping vines whipping through the air.
 ```
-# Description
+## Description
 A little-known menace of the jungles and forests of uncharted southern Garund, the canopy creeper is a semisentient plant that blends in with the foliage of the forest canopy and makes use of the f lora’s own outgrowth to trap and feed upon its prey. The canopy creeper resembles a mass of thickly knotted and twisted jungle vines that correspond to the colors and varieties of its native habitat. It has a larger knot of this tangle at its center mass, which also conceals a large, beaklike maw. The canopy creeper can spread itself over a broad area to resemble little more than this network of vines, or it can draw itself up into a large, coiled mass with its beak exposed.
 
 The actual vines that coil together to form the canopy creeper are hundreds of feet long altogether in an adult specimen. When spread out, these tangles of vine cover an area 20 feet in diameter. They congregate into a mass approximately 10 feet in diameter when drawn in together. The mass of a canopy creeper weighs about 3,000 pounds in total. A canopy creeper can live for hundreds of years in a hospitable climate if sufficient sunlight and food sources are available.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Canopy%20Creeper)
 ```encounter-table
 name: Canopy Creeper

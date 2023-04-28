@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Time Dimensional
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 90
 desc_short: This lanky humanoid is formed from myriad crystal facets, each displaying an image of the past, the present, or a possible future.
 ```
-# Description
+## Description
 When an event or individual threatens the nature of causality or the flow of time, a portion of the Dimension of Time breaks away from the dimension’s substance to act as a correcting agent. These beings do not name themselves, but they are called time dimensionals by extraplanar scholars. Time dimensionals travel across the Great Beyond to confront and neutralize threats to the timestream. In some cases, this involves the removal of a disruptive individual or item, while in other cases it simply means delaying events long enough for the flow of time to correct itself. In the event of egregious disruptions, several time dimensionals may work together in perfect synchronicity to preserve the timestream.
 
  The very existence of time dimensionals can disrupt the flow of normal time, so the Dimension of Time dispatches a time dimensional for only the exact duration required; furthermore, a time dimensional uses only the minimum amount of force necessary to fulfill its duties. As the exact nature of time is fickle and never completely known, those who devote their lives to the study of time are unsure as to which events trigger a time dimensional’s appearance and which do not. Time dimensionals have appeared during seemingly mundane events, such as the report of a dozen time dimensionals appearing to a group of miners in Brevoy in the summer of 4284 ar. More confounding are events that appear to be an obvious call to time dimensionals, such as the appearance of the legendary Scepter of Ages, but that the dimensionals seem to ignore.
@@ -80,7 +82,7 @@ When an event or individual threatens the nature of causality or the flow of tim
  A time dimensional can manipulate the flow of time as it affects nearby matter, with effects such as locking other creatures out of time’s progression or aging an item so quickly it is effectively disintegrated. It has even greater control over its own temporal positioning, allowing it to move quickly around a battlefield and obtain comprehensive knowledge of where its enemies will strike. There are reports of exceptionally rare time dimensionals with greater abilities-such as the ability to erase a creature from time entirely-though the Dimension of Time dispatches such dimensionals only to deal with the most calamitous of situations.
 
  A time dimensional typically stands at 12 feet tall and weighs about 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Time%20Dimensional)
 ```encounter-table
 name: Time Dimensional

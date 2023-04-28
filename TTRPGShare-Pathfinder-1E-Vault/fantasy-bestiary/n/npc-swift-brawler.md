@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Swift Brawler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 103
 ```
-# Description
+## Description
 Swift brawlers serve as the vanguard of many monasteries’ forces. They use speed and agility to track down and neutralize enemy leaders and spellcasters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Swift%20Brawler)
 ```encounter-table
 name: NPC Swift Brawler

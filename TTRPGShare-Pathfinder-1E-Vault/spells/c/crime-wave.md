@@ -1,19 +1,21 @@
 ---
-alias: Crime Wave
+aliases: [Crime Wave]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Crime Wave 
+## Crime Wave
 
 **source**:: Ultimate Intrigue pg. 208  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: antipaladin 4, arcanist 7, bard 5, mesmerist 5, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a tarnished coin)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Crime Wave
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You instill overwhelming avarice in the targets and impel them toward a wild spree of larceny. Creatures affected by a crime wave must roll percentile dice each round to determine what action they take.
 
@@ -34,4 +36,3 @@ You instill overwhelming avarice in the targets and impel them toward a wild spr
 | 76-100 | Attack the nearest creature (for this purpose, a familiar counts as part of the affected creature’s self).                                                                                                                                                                                                                                                                                                                                                                  |
 
 A character affected by a crime wave who is unable to carry out the indicated action moves toward the nearest source of cover or concealment and attempts a Stealth check to hide. Affected creatures with the ability to turn invisible (including through the use of magic items or spells) do so instead of attempting a Stealth check.
-

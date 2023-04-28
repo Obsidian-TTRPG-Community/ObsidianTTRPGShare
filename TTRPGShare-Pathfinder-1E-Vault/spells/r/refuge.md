@@ -1,19 +1,21 @@
 ---
-alias: Refuge
+aliases: [Refuge]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Refuge 
+## Refuge
 
 **source**:: PRPG Core Rulebook pg. 331  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 9, cleric 7, oracle 7, psychic 8, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a prepared object worth 1,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Refuge
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 When you cast this spell, you create powerful magic in a specially prepared object. This object contains the power to instantly transport its possessor across any distance within the same plane to your abode. Once the item is so enhanced, you must give it willingly to a creature and at the same time inform it of a command word to be spoken when the item is used. To make use of the item, the subject speaks the command word at the same time that it rends or breaks the item (a standard action). When this is done, the individual and all objects it is wearing and carrying (to a maximum of the character's heavy load) are instantly transported to your abode. No other creatures are affected (aside from a familiar or animal companion that is touching the subject).  
   

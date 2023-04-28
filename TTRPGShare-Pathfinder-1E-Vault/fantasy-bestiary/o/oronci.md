@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oronci
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 36
 desc_short: A cruel face and orc features dominate this creature’s upper half, while its lower quarters bear the sinewy shape of a centipede.
 ```
-# Description
+## Description
 When drow fleshwarping alchemy is turned and focused upon an orc, the obscene result is called an oronci. Upon submersion in a fleshwarper’s alchemical ichor, the unfortunate orc’s legs merge, and its lower body turns black and elongates to a length of approximately 15 feet. This new body divides into segments, with each segment sprouting a pair of short, sturdy, thin legs. Finally, the horror’s tusks connect to newly grown poison ducts that constantly drip poisonous spittle. The orc’s head and upper body stay relatively intact as far as fleshwarping goes, though its eyes sometimes adopt a dark, vacant stare.
 
 With the exception of the driders, the oronci are among the most useful of the obscenities produced by fleshwarping. They embody all the savage brutality of an orc warrior, but mounted centaurlike upon an even larger, more powerful frame. Being less intelligent than drow, oronci make better shock troopers and advance soldiers for drow armies than the dark elves themselves. Oronci who have escaped the slavery of the dark elves have become favored champions for certain clever orc chieftains. Some oronci even overcome their sensitivity to daylight given time, which makes them better suited to terrorize the surface lands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oronci)
 ```encounter-table
 name: Oronci

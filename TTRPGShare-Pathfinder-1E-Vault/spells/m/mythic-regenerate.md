@@ -1,19 +1,21 @@
 ---
-alias: Mythic Regenerate
+aliases: [Mythic Regenerate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Regenerate
+## Mythic Regenerate
 
 **source**:: Mythic Adventures pg. 105  
 **school**:: conjuration (healing)
 **level**:: cleric 7, druid 9, oracle 7, shaman 7, witch 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 3 full rounds  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Regenerate
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The subject's severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded creatures), broken bones, and ruined organs grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise.  
   

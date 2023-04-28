@@ -1,19 +1,21 @@
 ---
-alias: Apparent Treachery
+aliases: [Apparent Treachery]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Apparent Treachery 
+## Apparent Treachery
 
 **source**:: Pathfinder \#74: Sword of Valor pg. 74  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 4, bard 3, inquisitor 3, skald 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Apparent Treachery
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You shroud a number of creatures in an aura of suspicion and fill them with extreme paranoia regarding their allies. Affected targets believe their companions are behaving erratically, nervously, and seemingly with an eye towards betrayal.  
   

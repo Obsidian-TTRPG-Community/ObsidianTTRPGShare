@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Polar Bear
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
     desc: 41
 desc_short: Fearsome bony growths protrude from several spots in this massive animal’s snowy fur.
 ```
-# Description
+## Description
 Dire polar bears, kin to cave bears, are larger and more aggressive than cave bears and normal polar bears alike. These short-tempered animals tend to avoid settled regions, but sometimes venture dangerously close to them while hunting, potentially resulting in bloody massacres.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Polar%20Bear)
 ```encounter-table
 name: Dire Polar Bear

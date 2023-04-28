@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cutpurse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: NPC Codex
     desc: 144
 ```
-# Description
+## Description
 The cutpurse is a dirty sneak who uses surprise and stealth to rob unsuspecting victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cutpurse)
 ```encounter-table
 name: NPC Cutpurse

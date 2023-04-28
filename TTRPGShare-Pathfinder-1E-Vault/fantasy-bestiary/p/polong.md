@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Polong
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 196
 desc_short: This crimson spectral creature drips with blood, its skeletal face contorted with malice.
 ```
-# Description
+## Description
 Polongs are the spirits of murderers who have been magically bound to a bottle. Whoever possesses a polong’s bottle can command the creature to carry out murderous acts. Necromancers, cultists, and assassins sometimes use polongs to perform assassinations from afar. Commanding polongs is dangerous, however, as their desire to kill makes them turn on their own masters if given the chance.
 
  When a polong’s bottle is opened, the creature manifests as a blood-drenched spirit with hands transformed into long claws. Its thirst for violence and murder twists its distorted features into a hateful visage. Polongs remember little of their past lives, their own thoughts turned to committing the heinous acts commanded by their masters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Polong)
 ```encounter-table
 name: Polong

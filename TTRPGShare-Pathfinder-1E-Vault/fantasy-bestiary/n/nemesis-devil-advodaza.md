@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nemesis Devil (Advodaza)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,11 +81,11 @@ sources:
     desc: 54
 desc_short: The rending, thunderous clangor of rushing claws heralds the charge of this fire-eyed ruin, a terror of flame-seared hide and saber-like spines shaped in a monstrously muscled centauric form. The true terrible ferocity of the thing lies hidden, restrained beneath armor and wings of crumbling stone carved with icons as ancient as they are undeniable and profane.
 ```
-# Description
+## Description
 False gods, fallen demagogues, nemesis devils-the fiends known collectively as advodazas survive from dark ages past, when mortals offered worship to base things and unwholesome spirits masqueraded as baleful gods. Although time and faith have turned against these beings, the most tenacious of their kind have refused to fade into oblivion, and to these obstinate corruptors and one-time deities the gates of Hell swing wide and welcoming. These lords of cults and masters of forgotten mysteries find renewed vigor in the depths of the Pit, and those seeking to renew their power and lordship over mortalkind undergo terrible indoctrinations and binding rites that transform them over the ages into true devils. What emerge are eidolons of half-remembered demigods, fallen princes seeking to claim their subjects anew, devils of faith, and fiends of blasphemy- the idol-clad advodazas.
 
 No two advodazas look exactly alike, each embodying the powers and concerns that saw it worshiped in ages past and subsequently anthropomorphized as a monstrous being. Typically, this results in quadrupedal, half-bestial shapes bristling with terrible wings, hooves, claws, and fangs. Universally, though, they bear the broken remnants of their fallen faith, usually in the form of cracked idols worn like armor, profane talismans crafted into jewelry, or fearful totems wielded like massive weapons. Despite their range of appearances, all advodazas possess the same core abilities, though some particularly ancient or powerful fiends possess unique abilities. Most advodazas stand 18 feet tall and weigh nearly 9 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nemesis%20Devil%20(Advodaza))
 ```encounter-table
 name: Nemesis Devil (Advodaza)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Tardigrade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 208
 desc_short: This strange eight-legged creature looks vaguely like an insectile bear as it swims through the water.
 ```
-# Description
+## Description
 Giant tardigrades, sometimes referred to as water bears, are miniscule, eight-legged creatures that live in water but can survive almost anywhere. The giant tardigrade grows as large as 1 foot in length and feeds on patches of bacteria, fungus, and plant matter.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Tardigrade)
 ```encounter-table
 name: Giant Tardigrade

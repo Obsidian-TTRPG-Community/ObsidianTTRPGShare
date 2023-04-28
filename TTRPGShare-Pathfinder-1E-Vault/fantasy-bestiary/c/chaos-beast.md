@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chaos Beast
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 54
 desc_short: This thing is a horrid mass of barbed tentacles, glaring eyes, and gnashing teeth, twisting upon itself and reshaping into new forms. 
 ```
-# Description
+## Description
 A chaos beast’s form changes without any goal or purpose. Though at any particular second a chaos beast may appear to have dozens of limbs, whether claws, tentacles, stingers, and so on, the lightning-quick shifts of its body mean most of these are gone before it has a chance to use them, and its attacks are always treated as claws regardless of the creature’s appearance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chaos%20Beast)
 ```encounter-table
 name: Chaos Beast

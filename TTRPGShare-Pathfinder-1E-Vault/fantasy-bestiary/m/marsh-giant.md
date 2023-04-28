@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marsh Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 82
 desc_short: Cold, black eyes stare out from the fish-like face of this hideous green-skinned, web-fingered, and obese giant.
 ```
-# Description
+## Description
 Hideously ugly, marsh giants dwell in the most desolate of swamps-preferably those that share a sodden border with the sea. Marsh giants typically use a hooked club called a gaff (wielded in both hands) in combat-treat these weapons as flails, save that they do piercing damage.
 
 Marsh giants are hateful thugs bound together by a common zealotry. Powerful opponents and beasts are the most prized of meals, though many marsh giants are also cannibals-they often attack fellow tribe members just to gorge on a particularly fearsome or delicious-looking relative.
@@ -63,7 +65,7 @@ Marsh giants are hateful thugs bound together by a common zealotry. Powerful opp
 Some marsh giants mingle with abominations from the deepest seas, creatures they believe are sent by their god. This has further contributed to their racial degradation, but the immediate offspring of these unholy unions are powerful. Deformed with tentacles, scales, and other aquatic traits, these marsh giants are known as “brineborn.” They are advanced marsh giants with the aquatic subtype, a swim speed of 40 feet, the amphibious special quality, and the following additional spell-like abilities:
 
 Constant-speak with animals; 3/day-contagion (DC 15), confusion (DC 14), quench (DC 14).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marsh%20Giant)
 ```encounter-table
 name: Marsh Giant

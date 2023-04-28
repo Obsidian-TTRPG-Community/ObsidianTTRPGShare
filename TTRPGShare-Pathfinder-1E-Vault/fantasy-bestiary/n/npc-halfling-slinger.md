@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Halfling Slinger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 84
 ```
-# Description
+## Description
 Halfling slingers often patrol the areas surrounding halfling settlements. Sometimes they hire themselves out as scouts and skirmishers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Halfling%20Slinger)
 ```encounter-table
 name: NPC Halfling Slinger

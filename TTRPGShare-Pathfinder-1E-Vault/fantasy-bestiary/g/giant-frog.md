@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Frog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 135
 desc_short: This creature looks like a normal frog, with moist, mottled, blackish-green skin, but grown to truly monstrous size.
 ```
-# Description
+## Description
 Giant frogs have razor-sharp teeth lining their mouths. They are 6 feet long and weigh 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Frog)
 ```encounter-table
 name: Giant Frog

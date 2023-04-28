@@ -1,25 +1,27 @@
 ---
-alias: Mythic Elemental Body I
+aliases: [Mythic Elemental Body I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Elemental Body I
+## Mythic Elemental Body I
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, investigator 4, magus 4, redmantisassassin 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (the element you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level
 
-### Description 
+### Description
 
 When you cast this spell, you can assume the form of a Small air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. Elemental abilities based on size, such as burn, vortex, and whirlwind, use the size of the elemental you transform into to determine their effect.  
   

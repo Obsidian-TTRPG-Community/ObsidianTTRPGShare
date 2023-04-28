@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Impariut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 86
 desc_short: Dressed in noble regalia, this humanoid creature of metal and wood has a piercing gaze.
 ```
-# Description
+## Description
 Monarchs, dictators, governors, and mayors may rule under the pretense of sustaining lawful civilization, yet those who abuse their power or harm their people undermine the foundation of government. To the forces of Axis, these bad actors represent a threat to cosmic order and a means by which the chaos of uprisings and revolution can take hold. The mortal agents of lawful deities are responsible for encouraging responsible governance; where they fail, an impariut must intervene.
 
  Each impariut is a stern counselor sent to reform a powerful leader, guiding that figure toward sustainable policies that maintain order. Unlike many inevitables that care only that the universal order is upheld, impariuts exhibit slightly more patience and flexibility, knowing that an iron-fisted response is as likely to trigger riots as a negligent regime. As a result, impariuts are capable diplomats and teachers, equally proficient with incentives as with unflinching punishments.
 
  An impariut stands precisely 7 feet tall and weighs exactly 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Impariut)
 ```encounter-table
 name: Impariut

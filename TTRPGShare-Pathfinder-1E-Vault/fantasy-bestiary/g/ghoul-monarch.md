@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghoul Monarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
   - name: Monster Codex
     desc: 87
 ```
-# Description
+## Description
 These ancient sorcerers have attained their power by using those around them as puppets. They command mortals and undead using both their magic and force of personality.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghoul%20Monarch)
 ```encounter-table
 name: Ghoul Monarch

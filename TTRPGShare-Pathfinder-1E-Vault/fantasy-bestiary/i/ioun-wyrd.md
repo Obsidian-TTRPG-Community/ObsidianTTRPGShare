@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ioun Wyrd
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 30
 desc_short: This strange creature appears as a floating swarm of gemstones surrounding a larger stone that pulses with dim light.
 ```
-# Description
+## Description
 At first glance, these creatures appear to resemble some manner of earth elementals, but they’re actually bizarre constructs created by spellcasters from certain types of minerals and gemstones. Ioun wyrds are occasionally found in the wild, typically near the haunts of spellcasters and arcane societies where the strange little creatures escaped their former masters.
 
 A typical ioun wyrd is roughly 2 feet in diameter and weighs between 15 and 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ioun%20Wyrd)
 ```encounter-table
 name: Ioun Wyrd

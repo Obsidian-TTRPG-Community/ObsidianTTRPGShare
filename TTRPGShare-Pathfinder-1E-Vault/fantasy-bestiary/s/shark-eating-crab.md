@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shark-Eating Crab
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 60
 desc_short: This spiny, long-legged crab towers over its surroundings. Its quick and powerful claws thrash wildly, eager for prey.
 ```
-# Description
+## Description
 Extremely fast and agile for such a large creature, the shark-eating crab preys on predators of the sea. Not limiting its consumption to just sharks, these crabs feed on fast-moving fish like barracudas and tuna, and even mollusks like giant squid. Their hunting skills have evolved over the ages to track the movements of fast creatures swimming above them as the crabs blend into their surroundings.
 
 The typical shark-eating crab stands 16 feet tall and weighs just over 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shark-Eating%20Crab)
 ```encounter-table
 name: Shark-Eating Crab

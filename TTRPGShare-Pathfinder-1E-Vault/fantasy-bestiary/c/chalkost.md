@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chalkost
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 311
 desc_short: This dwarf-like being of earth and metal has coppery hair and an open-faced helmet bearing two stylized boar tusks.
 ```
-# Description
+## Description
 A chalkost is a perfect dwarven soul that serves as a laborer and crafter in Torag’s divine realm. Blessed with hardiness, fine weapons, and an incorrigible spirit, a chalkost is a tireless and loyal servant, capable of forging new arms for angels or defending the plane against fiendish invaders. Said to have been created from the souls of particularly skilled and heroic dwarves, each chalkost shares a mutual affinity for one mortal dwarven clan, observing and guiding its members like an honored ancestor. So close is this relationship that the name of a particular chalkost is often passed down from priest to priest and family to family, so that some of these divine beings have aided clans for generations. Chalkosts have a close relationship with dwarven paladins and other noble dwarven warriors, and it is considered a special honor for mortal dwarves to ride a boar-form chalkost into battle.
 
 A chalkost looks like an attractive, copper-haired dwarf wearing an open-faced helm with stylized boar tusks and armed with a hammer-tipped cestus. Male chalkosts have long beards, while females have long braids. The gender of a chalkost associated with a given dwarven clan generally matches the gender of the clan’s leaders.
 
 Chalkosts stand just over 5 feet tall and weigh about 230 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chalkost)
 ```encounter-table
 name: Chalkost

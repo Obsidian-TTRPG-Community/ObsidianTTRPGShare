@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggard Scarred One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Monster Codex
     desc: 12
 ```
-# Description
+## Description
 Boggard barbarians are terrifying and unpredictable.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggard%20Scarred%20One)
 ```encounter-table
 name: Boggard Scarred One

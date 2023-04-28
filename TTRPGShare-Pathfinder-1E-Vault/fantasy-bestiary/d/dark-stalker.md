@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 54
 desc_short: This tall humanoid’s pale brow and black, soulless eyes are all that can be seen above a black scarf wrapped around its face.
 ```
-# Description
+## Description
 The strange and mysterious dark stalkers are the undisputed leaders of dark folk society. Deep underground, these creatures dwell in strange villages (some rumors suggest entire cities) built of stone and fungus in remote caverns where they are served and worshiped by their coarser, diminutive kin, the dark creepers. Dark stalkers come to the surface rarely, but when they do it is on a mission, and with a force of creatures such that it never ends well for those they seek to rob or torment.
 
 Dark stalkers are tall, frail humanoids with incredibly pale skin. They constantly wear multiple layers of dark cloth and black leather armor, yet unlike their lesser kin, a dark stalker’s garb is always clean and spotless. Each dark stalker carries a pair of short swords-they prefer these weapons to all others. Dark stalkers are 6 feet tall and weigh 100 pounds.
@@ -68,7 +70,7 @@ Dark stalkers are tall, frail humanoids with incredibly pale skin. They constant
 In a fight, dark stalkers are not above sacrificing lesser creatures, including dark creepers, to win the day or cover their retreat if things go poorly. They hate well-lit areas and always prefer to fight under the cover of deeper darkness. Dark stalkers rarely fight to the death if it can be avoided, preferring to slip away if things begin to look grim.
 
 The origins of the dark stalkers and the dark creepers are shrouded in mystery, made more difficult to decipher by the fact that the dark stalkers do not keep records of their history. Many scholars believe that, just as the drow descended from elves, so too must the dark folk have descended from humanity, their eerie powers and spell-like abilities the result of generation upon generation of devotion to profane and sinister magic. Alas, the truth of the race’s history may never be known.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Stalker)
 ```encounter-table
 name: Dark Stalker

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Badger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
     desc: 40
 desc_short: A tremendous badger snarls and scrapes its wicked, shovel-like claws. Stocky muscles ripple beneath its streaked and shaggy fur. 
 ```
-# Description
+## Description
 A relentless predator, the violent and territorial dire badger hunts frequently, killing and devouring a variety of easy prey such as rabbits, deer, and occasionally livestock. These creatures are unafraid of attacking creatures larger than they are, drawing upon an almost legendary tenacity that has won them honor and respect among many races, particularly forest-dwelling gnomes. 
 
 Dire badgers reside in deep burrows and warrens dug with their monstrous claws-but unlike typical badgers, a dire badger’s claws are capable of tunneling through solid rock. Dire badgers possess little patience for disturbances or interruptions. Utterly fearless creatures, when confronted they attack brutally, and if injured, they violently erupt into a killing frenzy. 
 
 Dire badgers stand 4 feet tall at the shoulder, and weigh 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Badger)
 ```encounter-table
 name: Dire Badger

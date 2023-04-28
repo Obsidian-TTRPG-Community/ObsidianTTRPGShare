@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tribe (Cannibal)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
   - name: GameMastery Guide
     desc: 306
 ```
-# Description
+## Description
 Cannibals are ferocious, savage humanoids, feral people with a taste for sentient flesh. In battle, they charge with savage war cries, often tossing their weapons aside to hurl themselves onto their foes with hunger and abandon, eager to taste the blood and flesh in the ecstatic heat of battle.
 
 Cannibals can also be used as regular barbarian tribesmen. In these cases, they might have different rage powers (such as intimidating glare, powerful blow, or superstition), and their feats can be replaced with Endurance and Diehard, or Power Attack and Cleave. A cannibal with the scent rage power makes a skilled tracker, while one with swift foot can easily run down prey.
 
 Cannibals are usually found in hunting parties of four to six (CR 5 or 6), often accompanied by an equal number of half-tamed large dogs (CR 6 or 7). Eight cannibals might accompany a shaman (CR 8) or a chieftain (CR 11).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tribe%20(Cannibal))
 ```encounter-table
 name: NPC Tribe (Cannibal)

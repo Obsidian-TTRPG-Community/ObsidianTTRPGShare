@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moon Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 122
 desc_short: This giant’s gray skin sparkles as if with reflected light and is pocked with what look like impact craters on its rocklike surface.
 ```
-# Description
+## Description
 Moon giants dwell in rocky badlands and other scarred, deserted places. They revere the moon, stars, and comets and seek wisdom in these celestial bodies’ movements. Though they are normally placid scholars, more likely to enter a lively philosophical debate with other creatures than a brawl, moon giants can become violent when disturbed or when under the influence of a bad moon.
 
  Most moon giants stand about 24 feet tall and weigh almost 18,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moon%20Giant)
 ```encounter-table
 name: Moon Giant

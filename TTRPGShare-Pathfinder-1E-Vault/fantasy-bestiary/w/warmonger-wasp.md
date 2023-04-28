@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warmonger Wasp
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 61
 desc_short: This wasplike creature seems to be partially made of metal. Its wings create an iridescent glow as it buzzes through the air.
 ```
-# Description
+## Description
 Like the more powerful retriever, the warmonger wasp is a construct built from the protoplasmic flesh and chaotic fecundity of the Abyss itself. Partially organic and partially metallic, warmonger wasps serve demonic armies as air support in large battles. Their electricity-based explosions work well on battlefields where demons and mortals clash, as electrical attacks have no effect on demons. Warmonger wasps are grown rather than constructed, and while the procedure of crafting these constructs is beyond the ken of mortal crafters, spellcasters can conjure them to do their bidding. Warmonger wasps are only intelligent enough to understand simple commands, and even then they generally understand only commands universally associated with battlefield conditions.
 
  A warmonger wasp is about 10 feet long, has a 20-foot wingspan, and weighs 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warmonger%20Wasp)
 ```encounter-table
 name: Warmonger Wasp

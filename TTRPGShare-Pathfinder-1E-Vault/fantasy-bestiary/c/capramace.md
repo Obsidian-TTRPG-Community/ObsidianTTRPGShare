@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Capramace
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 61
 desc_short: This twisted amalgamation of human and goat is covered in matted fur, its teeth sharp and eyes eerily blank.
 ```
-# Description
+## Description
 While the capramaces’ exact origins are unknown, many legends hold them to be abominations resulting from some magical combination of goat and human. Certainly their humanoid shape suggests such a melding, although they show no signs of humanoid intelligence. Farmers who find their fields beset by capramaches must be careful not to startle them, lest their terrible, deafening screams call more of these monstrosities to their aid. Brave inhabitants of remote settlements sometimes entice capramaces into service as work animals, but most people regard this a foolish endeavor at best. While these creatures are both strong and hardy, they are difficult to control, and even the slightest mistreatment can cause them to turn on their would-be masters with little warning.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Capramace)
 ```encounter-table
 name: Capramace

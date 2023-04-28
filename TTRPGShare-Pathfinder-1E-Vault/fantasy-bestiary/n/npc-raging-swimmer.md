@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Raging Swimmer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: NPC Codex
     desc: 14
 ```
-# Description
+## Description
 Adept at combat on land or in the water, the raging swimmer attacks foes when they are most vulnerable.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Raging%20Swimmer)
 ```encounter-table
 name: NPC Raging Swimmer

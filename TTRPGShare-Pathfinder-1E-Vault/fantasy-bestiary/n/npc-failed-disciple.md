@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Failed Disciple
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 93
 ```
-# Description
+## Description
 Many failed disciples wander the land purely to prove their martial prowess. Others latch on to evil cults, dealing death for a dark god.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Failed%20Disciple)
 ```encounter-table
 name: NPC Failed Disciple

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Litanu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 84
 desc_short: This hulking merfolk has rotting skin, dull black eyes, and four thick tentacles ending in toothy maws protruding from its back.
 ```
-# Description
+## Description
 Litanus are undead abominations created by vile necromantic rituals and psychological torment. All litanus were once merfolk, but were tortured to death and animated as undead creatures. Litanus are sneaky, spiteful creatures who seek prey suffering from loneliness and fear.
 
  Resembling merfolk that have hyperdeveloped musculature, litanus have wide mouths with narrow, sharklike teeth. Four tentacles sprout from a litanu’s back, each a few inches wide and 4 feet long. These tentacles end in toothy maws and excrete a paralyzing toxin so powerful that victims are rendered insensible and unable to perform most autonomic functions, including breathing, until the toxin wears off.
 
  A litanu is about 7 feet long from head to tail and weighs around 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Litanu)
 ```encounter-table
 name: Litanu

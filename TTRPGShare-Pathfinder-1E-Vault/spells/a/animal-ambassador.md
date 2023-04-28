@@ -1,19 +1,21 @@
 ---
-alias: Animal Ambassador
+aliases: [Animal Ambassador]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Animal Ambassador 
+## Animal Ambassador
 
 **source**:: Ultimate Intrigue pg. 204  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: bard 4, druid 4, hunter 3, ranger 3, shaman 4, skald 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a morsel of food the animal likes)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one Medium or smaller animal  
@@ -21,7 +23,7 @@ alias: Animal Ambassador
 **saving-throw**:: none (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You compel a single animal to travel to a spot you designate and deliver a message to a creature you identify. This spell is similar to *animal messenger*, but can affect larger animals. In addition, the target animal is temporarily awakened to sentience (as the *awaken* spell) for the duration of this spell, and it can use its increased mental acuity to come up with creative solutions to overcome obstacles to delivering its message. The awakened target animal speaks any one language you know. In addition, you can imbue the animal with up to 5 ranks in any of the following skills: Bluff, Diplomacy, Knowledge (local), Knowledge (nobility), Linguistics, or Sense Motive. It treats any of these skills that are class skills for you as class skills. The number of ranks you imbue in any of these skills can’t exceed the target animal’s Hit Dice nor the number of ranks you possess in that skill.  
   

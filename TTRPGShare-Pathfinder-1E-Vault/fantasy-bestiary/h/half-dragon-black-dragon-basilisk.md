@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Half-Dragon (Black Dragon, Basilisk)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 170
 desc_short: This six-legged dragon flaps its massive wings as it lowers its head to glare with hideous glowing eyes.
 ```
-# Description
+## Description
 Half-dragons are only rarely the result of dragons mating with other creatures-most are the result of strange magical experiments. In most cases, a successful creation breeds true with others of its kind, as with the dreaded dracolisk.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Half-Dragon%20(Black%20Dragon%2C%20Basilisk))
 ```encounter-table
 name: Half-Dragon (Black Dragon, Basilisk)

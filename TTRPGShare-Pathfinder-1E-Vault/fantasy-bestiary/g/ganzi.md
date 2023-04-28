@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ganzi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 234
 desc_short: This dark-skinned woman moves with grace and confidence, but her vibrant eyes hold a hint of unpredictable wildness.
 ```
-# Description
+## Description
 Ganzis are the end result of planar chaos touching living creatures. Where the planes brush against the Material Plane or where chaotic inhabitants (be they chaos beasts, proteans, valkyries, or others) affect or influence mortal life, ganzis are born in their wake like ripples in a pond.
 
  While ganzis are superficially human in appearance, they often have features that set them apart from the rest of humanity. These features can vary widely; one ganzi might have a discolored hand that flickers with entropic (but harmless) energy, while another might have brightly colored scales covering her shoulders and back, and yet another might have horns and glowing green eyes. Likewise, ganzi height and weight can vary dramatically, even by human standards, but the average ganzi stands between 5 and 6 feet tall and weighs anywhere from 100 to 300 pounds.
@@ -84,7 +86,7 @@ Ganzis are the end result of planar chaos touching living creatures. Where the p
  Given their relationship to the Cerulean Void and its natives, it is not uncommon for ganzis with awareness of their heritage and the resources for planar travel to journey to the Maelstrom. Some ganzis make this pilgrimage to seek out proteans, valkyries, or other natives of the Maelstrom in hopes of understanding their own place in the cosmos, while others are drawn to the idea of communing with the vast and potent force of primordial chaos itself.
 
  As befits their chaotic origin, the personality and outlook of individual ganzis can vary significantly. Often chaotic-aligned, with no particular tendency towards good or evil, many find themselves drawn to the life of the wandering adventurer. Ganzis are commonly possessed of deep curiosity and powerful creative talent, leading many to become artists or bards, while others enjoy the alchemist’s dichotomous mastery of creation and destruction. Sorcerous talents and oracular mysteries of all varieties are unsurprisingly common among ganzis.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ganzi)
 ```encounter-table
 name: Ganzi

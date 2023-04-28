@@ -1,19 +1,21 @@
 ---
-alias: Apport Object
+aliases: [Apport Object]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Apport Object 
+## Apport Object
 
 **source**:: Occult Adventures pg. 157  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 2, bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, skald 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one touched object of up to 1 lb. and 1 cu. ft.  
@@ -21,7 +23,7 @@ alias: Apport Object
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 This spell allows you to instantaneously transport a small nonliving object from one location to another. There are two ways to use the spell: sending allows you to immediately send an object held in your hands to a nearby location, while receiving permits you to cast the spell ahead of time on an object and summon it to your location at a later time.  
   

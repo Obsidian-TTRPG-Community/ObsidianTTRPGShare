@@ -1,19 +1,21 @@
 ---
-alias: Dominate Animal
+aliases: [Dominate Animal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dominate Animal 
+## Dominate Animal
 
 **source**:: PRPG Core Rulebook pg. 273  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: druid 3, hunter 3, mesmerist 3, psychic 4, shaman 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one animal  
@@ -21,7 +23,7 @@ alias: Dominate Animal
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell allows you to enchant the targeted animal and direct it with simple commands such as “Attack,” “Run,” and “Fetch.” Suicidal or self-destructive commands (including an order to attack a creature two or more size categories larger than the dominated animal) are simply ignored.  
   

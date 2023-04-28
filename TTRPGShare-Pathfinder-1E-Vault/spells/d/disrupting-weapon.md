@@ -1,19 +1,21 @@
 ---
-alias: Disrupting Weapon
+aliases: [Disrupting Weapon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Disrupting Weapon 
+## Disrupting Weapon
 
 **source**:: PRPG Core Rulebook pg. 273  
 **school**:: transmutation
 **level**:: cleric 5, inquisitor 5, oracle 5, spiritualist 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one melee weapon  
@@ -21,6 +23,6 @@ alias: Disrupting Weapon
 **saving-throw**:: Will negates (harmless, object); see text
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level must succeed on a Will save or be destroyed utterly if struck in combat with this weapon. Spell resistance does not apply against the destruction effect.

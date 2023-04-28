@@ -1,19 +1,21 @@
 ---
-alias: Mythic Storm of Vengeance
+aliases: [Mythic Storm of Vengeance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Storm of Vengeance
+## Mythic Storm of Vengeance
 
 **source**:: Mythic Adventures pg. 109  
 **school**:: conjuration (summoning)
 **level**:: cleric 9, druid 9, oracle 9, shaman 9, witch 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 360-ft.-radius storm cloud  
@@ -21,7 +23,7 @@ alias: Mythic Storm of Vengeance
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a huge black storm cloud in the air. Each creature under the cloud must succeed on a Fortitude save or be deafened for 1d4 × 10 minutes. Each round you continue to concentrate, the spell generates additional effects as noted below. Each effect occurs on your turn.  
   

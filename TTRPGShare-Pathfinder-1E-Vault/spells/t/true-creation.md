@@ -1,18 +1,20 @@
 ---
-alias: True Creation
+aliases: [True Creation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# True Creation 
+## True Creation
 
 **source**:: Pathfinder Campaign Setting pg. 207  
 **school**:: conjuration (creation)
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, XP
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: unattended, nonmagical object, up to 1 cu. ft./level  
@@ -20,7 +22,7 @@ alias: True Creation
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a completely real, nonmagical, unattended object of any sort of matter. The volume of the item created cannot exceed 1 cubic foot per caster level. Complex items require successful Craft checks. Objects created can be used as material components.  
   

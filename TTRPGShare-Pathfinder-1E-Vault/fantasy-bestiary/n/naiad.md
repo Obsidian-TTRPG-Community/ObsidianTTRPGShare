@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Naiad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 200
 desc_short: This lovely woman’s skin appears to be made of water. She has a fluid grace and wears clothing of woven reeds and leaves.
 ```
-# Description
+## Description
 Naiads are protectors of freshwater areas such as lakes, ponds, and particularly rivers. While many naiads are reclusive, some choose to regularly visit settlements built near their bodies of water as long as those settlements are respectful to nature and the fey. Others explore the vast world, bonding to bodies of water as they travel. These naiads are the most likely to come in contact with other societies or visit other nations, but regardless, these fey enjoy inspiring others to artistic greatness. Some take this as proof that naiads originated long ago from the intermingling of nymph and mortal bloodlines.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Naiad)
 ```encounter-table
 name: Naiad

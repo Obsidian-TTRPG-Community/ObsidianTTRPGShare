@@ -1,19 +1,21 @@
 ---
-alias: Terraform
+aliases: [Terraform]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Terraform 
+## Terraform
 
 **source**:: Mythic Adventures pg. 114  
 **school**:: transmutation
 **level**:: arcanist 7, cleric 7, druid 6, hunter 6, oracle 7, psychic 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (10,000 gp worth of precious minerals, see text)
 
-### Effect 
+### Effect
 
 **range**:: 100 feet  
 **area**:: 100-foot-radius emanation, centered on you  
@@ -21,7 +23,7 @@ alias: Terraform
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You alter the area’s terrain and climate to a new terrain and climate type appropriate to the planet or plane. For example, you might transform a desert to plains. To cast this spell, you must expend 10 uses of mythic power along with the material cost. This magically alters the area’s climate and normal plants to those appropriate to the new terrain, but doesn’t affect creatures or the configuration of the earth. Transforming rocky hills into forested areas converts grasses into shrubs and small trees, but doesn’t flatten the hills or change the animals to suit the new environment.  
   

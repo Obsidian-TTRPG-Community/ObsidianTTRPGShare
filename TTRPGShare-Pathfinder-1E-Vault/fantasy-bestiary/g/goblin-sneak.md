@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Sneak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Monster Codex
     desc: 107
 ```
-# Description
+## Description
 Goblins adore theft, and are adept at slinking about undetected. Goblin sneaks are master ambushers and spectacular hiders. The most talented also incorporate their racial love of fire into their tactics.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Sneak)
 ```encounter-table
 name: Goblin Sneak

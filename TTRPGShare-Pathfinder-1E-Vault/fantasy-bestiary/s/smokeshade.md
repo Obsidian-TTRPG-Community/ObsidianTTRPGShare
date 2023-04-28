@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Smokeshade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 64
 desc_short: This tube of roiling mist writhes through the air. Thin tendrils of dark smoke reach tentatively out from its body as swiftly as they collapse back into its central mass.
 ```
-# Description
+## Description
 Capricious natives of the Plane of Shadow, smokeshades are amorphous creatures that are made from semisolid smoke and shadow. Thought naturally wormlike in shape, smokeshades can contort themselves into rings, corkscrews, or even crude effigies with little effort. Regardless of a smokeshade’s shape, its composition remains purely a dark, roiling mist. Vain, preening creatures, smokeshades generally avoid combat and prefer to mock others with rude shapes or pantomime.
 
  A spellcaster of at least 7th level with an alignment within one step of neutral evil who has the Improved Familiar feat can select a smokeshade as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Smokeshade)
 ```encounter-table
 name: Smokeshade

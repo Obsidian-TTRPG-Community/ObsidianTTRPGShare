@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghoul Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Monster Codex
     desc: 82
 ```
-# Description
+## Description
 While all ghouls are quiet and deadly in the night, these ghouls specialize in striking from cover or exploiting tactical advantages. They set up ambushes or fight using group tactics to claim their prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghoul%20Stalker)
 ```encounter-table
 name: Ghoul Stalker

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chon Chon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 82
 desc_short: This flying head has incredibly large ears that constantly flap to keep the creature aloft. It babbles to itself as it flies, as if to remind itself of secrets only it knows.
 ```
-# Description
+## Description
 Chon chons appear to be human heads with ears so grotesquely enlarged that they can serve as f leshy wings. Their jealous hatred of all beings with full bodies easily counters their comical appearance, however. Accursed creatures drawn to places of dark magic and arcane disasters, chon chons possess the desires of the most obsessed magic users, but their dementia and twisted forms prevent them from ever obtaining the power they seek. Although these crazed beings loathe all things, they do find a vicious kind of solace among their own kind, not out of any sort of commiseration, but rather by wallowing in the pain of their own kind. Such hateful swarms gather to bear witness to each others’ misery, inadvertently increasing the deadly efficacy of the entire group.
 
 A single chon chon is no larger than a human head and weighs 10 pounds at most. The creature’s ears give it a total wingspan of 3 feet, making it appear much larger and more menacing.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chon%20Chon)
 ```encounter-table
 name: Chon Chon

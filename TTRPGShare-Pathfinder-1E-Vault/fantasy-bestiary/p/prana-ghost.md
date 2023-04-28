@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Prana Ghost
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 40
 desc_short: A spectral figure hovers above the ground, exhibiting a silent serenity that is beautiful to behold.
 ```
-# Description
+## Description
 The typical ghost is a nightmarish creature of dark emotion, with an undying thirst for justice or vengeance. These ghosts are often warped by deep emotional turmoil, madness, or contact with the dark radiations of the Negative Energy Plane-sometimes all three. But such twisted, tormented creatures are not the only spirits that cling to traces of their former lives on the Material Plane. There is another kind of ghost, just as dedicated, but more rational and often more subtle.
 
 As a soul departs a body, it joins the great River of Souls winding its way through the Astral Plane and passes on to judgment in the Outer Planes. Sometimes such a soul, through force of will or an unquenchable desire to accomplish one last act, forces its way back to the Material Plane as a prana ghost. Formed entirely of vital life essence, or prana, this manifest spirit is not an undead creature, but rather something entirely different, though undead that gorge on life energy are drawn to the glut of prana that composes a prana ghost like scavengers to a fresh corpse. Though easily mistaken for the undead spirits they resemble, prana ghosts function very differently from normal ghosts, haunts, and other incorporeal undead.
@@ -63,7 +65,7 @@ Unlike the raging etheric ghost, a prana ghost tends to avoid worldly affairs wh
 Once a prana ghost succeeds at its task, or its failure becomes clear, it dissipates from the world and reenters the Astral Plane. Many prana ghosts then resume their passage toward the Outer Planes, but a few dwell on the Astral Plane for centuries, if not millennia. Such prana ghosts often plot a reversal of personal fortunes, or the fortunes of their progeny or those of friends and allies. Others linger because they are not yet ready to reach their final fate.
 
 Usually, prana ghosts are more helpful and less malicious than their ethereal cousins, but not always. A creature doesn’t need to have led a virtuous or enlightened life to achieve the state-it needs only the necessary force of will to slip the chains of death, and a willingness to accept whatever consequences its soul might have to endure for refusing to face judgment at the appointed time. The souls of evil creatures seeking final vengeance can be just as willful as those with righteous goals, for selfishness can drive a soul to cling to mortal existence as strongly as more noble motivations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Prana%20Ghost)
 ```encounter-table
 name: Prana Ghost

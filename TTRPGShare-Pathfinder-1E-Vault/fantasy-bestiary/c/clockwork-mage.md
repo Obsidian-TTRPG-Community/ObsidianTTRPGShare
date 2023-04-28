@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 32
 desc_short: This faceless construct has a crystal wand set into its chest, bristling with arcane energy.
 ```
-# Description
+## Description
 These constructs are the pinnacle of clockwork inventions. An ingenious combination of mechanical devices and magical conduits allows a clockwork mage to channel the power of a wand into a variety of arcane powers. They often serve powerful arcane spellcasters, or as unflinching and unquestioning casters to those who wants the benefit of spells without ego or free thought.
 
 A humanoid figure of mithral and steel, a clockwork mage has large crystal ball filled with shifting vapors for a head. It stands 7 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Mage)
 ```encounter-table
 name: Clockwork Mage

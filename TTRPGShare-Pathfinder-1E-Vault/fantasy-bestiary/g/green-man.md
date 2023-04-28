@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Green Man
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -103,11 +105,11 @@ sources:
     desc: 152
 desc_short: This man is formed entirely of green leafy plants and bark. His fingers extend into lengths of vine.
 ```
-# Description
+## Description
 Ancient beyond measure, the legendary green men are avatars and guardians of the primeval forest. Green men are the naturally occurring apotheosis of such woodland terrains. Most care little for other aspects of nature, from animals to geology, focusing exclusively on the flora of their home forest and the seasonal impact of weather. They grant spells enthusiastically to intelligent plants that worship them and somewhat more hesitantly to other sentient races who prove themselves friends of plants. Sometimes called “leshy kings” in esoteric texts, the enigmatic green men are said to be the ones who first taught druids the secrets of creating leshies, yet they themselves are far more powerful than these tiny creations. 
 
 Most green men keep out of the way of the “animal races” as long as they leave the forest alone, while the rare benevolent and malevolent green men actively spread their influence over their home forests. Benevolent green men are kindly and nurturing patriarchs to all within their domain, even non-plants. Their territories are blessed with beautiful flowers and peaceful groves. Malevolent green men are twisted and sadistic bullies, and are fortunately the rarest of these paragons of plant life. Their territories are marred with poisonous plants, thorny vines, and twisted trees. What few animals remain in such regions are either vicious enough to stand up to their plant tormentors or are allowed to remain to provide sport.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Green%20Man)
 ```encounter-table
 name: Green Man

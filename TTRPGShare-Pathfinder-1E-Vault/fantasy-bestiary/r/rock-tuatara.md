@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rock Tuatara
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 83
 desc_short: The stony-looking hide of this fat reptile ends in a studded, heavy club of a tail.
 ```
-# Description
+## Description
 Although tuataras are practically extinct on Golarion’s surface, they flourish in the caverns and tunnels of Nar- Voth, where they have adapted their camouflage to blend in with the rocky cave surfaces. Dwarves and duergar in particular keep tuataras as humans or elves might keep cats. They skitter through granaries and homes, eating vermin and providing companionship.
 
  The rock tuatara listed here is the most common subterranean breed. Other varieties include flute tuataras, with decorative spines to help them blend into fungal gardens; mossy tuataras, which sleep underwater for such extended periods that moss often grows on their craggy hides; and viper tuataras, which deliver a deadly venom with their bites. The average rock tuatara grows to nearly 2 feet long and weighs around 4 pounds.
 
  Rock tuataras can make loyal familiars for spellcasters. The master of a rock tuatara familiar gains a +3 bonus on Stealth checks in rocky environments.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rock%20Tuatara)
 ```encounter-table
 name: Rock Tuatara

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kurobozu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 153
 desc_short: The mouth of this gray-skinned, emaciated monk is a distended, hollow pit of darkness.
 ```
-# Description
+## Description
 Kurobozus, also called black monks, are jealous undead that arise when a monk dies under circumstances that violate the precepts of his or her monastic training. Kurobozus need to feed upon the breath of mortals to survive, and they usually acquire this sustenance by sneaking up on a sleeping victim, though they can just as easily draw breath from a foe stunned by their f ists in combat. While this feeding doesn’t immediately kill the victim, it leaves a horrif ic rotting scent on the victim’s breath that can spread the kurobozu’s contagious apoxia to others, eventually leading to faintness, exhaustion, and death.
 
  When they aren’t maintaining their existence through feeding, kurobozus carry out their jealous fantasies by murdering living monks, especially members of their former monastery or monastic tradition. They still possess a shred of their former discipline, which they use to formulate long-term plans for their acts of revenge. Generally, kurobozus’ interactions with other creatures are limited to feeding and killing, but they have an affinity for malcontent ex-monks and may actually go out of their way to secretly offer protection or succor to such a person, without ever revealing their true identities. Evil ex-monks seeking to destroy their former masters and fellow disciples may even see the actual face of their benefactors and be able to forge lasting alliances.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kurobozu)
 ```encounter-table
 name: Kurobozu

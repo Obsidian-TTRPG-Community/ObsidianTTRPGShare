@@ -1,19 +1,21 @@
 ---
-alias: Mythic Gorum's Armor
+aliases: ["Mythic Gorum's Armor"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Gorum's Armor
+## Mythic Gorum's Armor
 
 **source**:: Mythic Origins pg. 12  
 **school**:: transmutation
 **level**:: bloodrager 1, cleric 1, inquisitor 1, magus 1, oracle 1, shaman 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (1 iron spike)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: 1 suit of metal armor or 1 metal shield  
@@ -21,7 +23,7 @@ alias: Mythic Gorum's Armor
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The targeted suit of armor or shield sprouts thousands of tiny iron spikes like porcupine quills. These do not harm the armor’s wearer (though donning or removing armor under the effects of this spell takes twice as long), but they act as armor spikes or shield spikes (as appropriate). Any creature attacking the wearer with natural weapons takes 1 point of piercing damage for each attack that hits. At 5th level, the spikes gain a +1 enhancement bonus on attack and damage rolls; this bonus increases to +2 at 10th level. At 15th level, the spikes also gain the anarchic weapon quality.
 

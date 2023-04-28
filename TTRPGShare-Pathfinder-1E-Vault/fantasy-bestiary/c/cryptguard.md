@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cryptguard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 68
 desc_short: This elegantly sculpted marble statue depicts a winged woman dressed in flowing robes, but with a raven’s skull for a head.
 ```
-# Description
+## Description
 Cryptguards act as a first line of defense against the menace of the dead rising from their graves. Cryptguards stand ever-vigilant in tombs, graveyards, and sepulchers, ensuring that the bodies and souls of the departed do not return to unlife to menace the living. 
 
 Cryptguards stand over 7 feet tall and weigh approximately 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cryptguard)
 ```encounter-table
 name: Cryptguard

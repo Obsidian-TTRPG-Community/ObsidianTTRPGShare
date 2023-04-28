@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ram
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 154
 desc_short: A formidable pair of heavy horns curls from the forehead of this sturdy, brown-and-white-furred ram.
 ```
-# Description
+## Description
 Rams are mountain-dwelling herd animals noted for their prominent horns.
 
 A typical ram stands about 3 feet tall, is 5 feet long, and weighs up to 300 pounds. You can create stats for smaller, similar animals (such as goats) by applying the young creature template to a ram.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ram)
 ```encounter-table
 name: Ram

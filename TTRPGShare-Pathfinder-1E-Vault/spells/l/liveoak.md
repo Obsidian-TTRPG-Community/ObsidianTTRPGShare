@@ -1,19 +1,21 @@
 ---
-alias: Liveoak
+aliases: [Liveoak]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Liveoak 
+## Liveoak
 
 **source**:: PRPG Core Rulebook pg. 305  
 **school**:: transmutation
 **level**:: druid 6, hunter 6, shaman 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: tree touched  
@@ -21,7 +23,7 @@ alias: Liveoak
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell turns an oak tree into a protector or guardian. The spell can only be cast on a single tree at a time; while *liveoak* is in effect, you can't cast it again on another tree. *Liveoak* must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The *liveoak* spell triggers the tree into animating as a treant.  
   

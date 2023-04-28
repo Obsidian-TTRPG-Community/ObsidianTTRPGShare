@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 245
 desc_short: Barely seen out of the corner of the eye, this wisp of shadow is vaguely humanoid in outline and writhes with unholy life.
 ```
-# Description
+## Description
 The sinister shadow skirts the border between the gloom of darkness and the harsh truth of light. The shadow prefers to haunt ruins where civilization has moved on, where it hunts living creatures foolish enough to stumble into its territory. The shadow is an undead horror, and as such has no goals or outwardly visible motivations other than to sap life and vitality from living beings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow)
 ```encounter-table
 name: Shadow

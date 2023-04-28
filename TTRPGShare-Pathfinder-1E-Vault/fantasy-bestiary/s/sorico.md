@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sorico
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 83
 desc_short: This large, tawny rodent has powerful forelimbs ending in spade-like claws. Sand and mud cakes the creature’s fur.
 ```
-# Description
+## Description
 Also called dustshroud rabbits, soricos dig out warrens in the desert sands, where they remain protected from the elements and predators alike. These communal animals live in vast tunneling colonies like ants, each working endlessly to provide for the warren. They dig tunnels and burrows, shoring up the sides of the passages with sticky saliva that hardens into a temporary cement. Since they constantly toil in their warrens, their tawny fur collects fine dust and sand particles. As an instinctive means of defense, soricos shake themselves violently, which loosens the sand and creates a distracting cloud of dust that allows them to escape from predators. Soricos measure 3 feet long, stand 2 feet tall, and weigh 100 pounds. Those who hunt soricos find their meat delicious, comparable to that of a farm-raised rabbit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sorico)
 ```encounter-table
 name: Sorico

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Imentesh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 84
 desc_short: This serpentine creature has the lower body of a snake, a humanoid torso, and a bird-like head and claws.
 ```
-# Description
+## Description
 Missionaries of chaos and heralds of reality’s eventual unraveling, imenteshes are the proteans most likely to be encountered outside of Limbo. Despite their sometimes loquacious and courtly manner, imenteshes’ entropic agenda is ever at the front of their minds, and this inherent madness is evident in the soft, telepathic susurrus that constantly surrounds them, threatening to warp the minds of the weak-willed.
 
 An imentesh is 15 feet long and weighs 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Imentesh)
 ```encounter-table
 name: Imentesh

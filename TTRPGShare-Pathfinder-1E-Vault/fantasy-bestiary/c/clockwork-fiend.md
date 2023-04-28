@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Fiend
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 60
 desc_short: Resembling a metallic horned devil, this apparatus whirs with the sound of internal mechanisms.
 ```
-# Description
+## Description
 Clockwork fiends often guard religious sites, but their tactics focus on an overwhelmingly strong offensive.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Fiend)
 ```encounter-table
 name: Clockwork Fiend

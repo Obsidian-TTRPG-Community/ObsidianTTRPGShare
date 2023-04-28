@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hound Archon Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Pathfinder No. 108: Hell Comes to Westcrown
     desc: 91
 ```
-# Description
+## Description
 In addition to the Glorious Reclamation’s own troops, the forces of Heaven have amassed to assist the revolution. The following stat block represents a coordinated unit of hound archons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hound%20Archon%20Troop)
 ```encounter-table
 name: Hound Archon Troop

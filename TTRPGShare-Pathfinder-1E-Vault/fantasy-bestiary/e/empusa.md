@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Empusa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 232
 desc_short: This beautiful woman has red antennae, gossamer insectile wings, a wasp’s legs, and a serpentine whip.
 ```
-# Description
+## Description
 The empusas are Calistria’s handmaidens and elite agents. Effortlessly passing for elves, empusas move secretly through society, manipulating mortals and influencing events to achieve their missions of vengeance.
 
  An empusa stands 6 feet tall and weighs 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Empusa)
 ```encounter-table
 name: Empusa

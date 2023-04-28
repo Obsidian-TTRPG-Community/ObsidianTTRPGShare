@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fighting School (Battle Monk)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
   - name: GameMastery Guide
     desc: 275
 ```
-# Description
+## Description
 Battle monks are the instructors in fighting schools and monasteries, teaching the arts of agility and swift perfection to their students. They are also the honor guard for their masters, the messengers and emissaries of the school and its methods.
 
 Battle monks make excellent thief-takers and midlevel bounty hunters, catching and disabling their quarry and bring them back for questioning. A battle monk can also serve as an unarmed, but still dangerous and effective, bodyguard.
 
 A battle monk often has a trio of initiates with her (CR 6), or two battle monks might accompany a holy warrior affiliated with the school (CR 8).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fighting%20School%20(Battle%20Monk))
 ```encounter-table
 name: NPC Fighting School (Battle Monk)

@@ -1,19 +1,21 @@
 ---
-alias: Control Winds
+aliases: [Control Winds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Control Winds 
+## Control Winds
 
 **source**:: PRPG Core Rulebook pg. 261  
 **school**:: transmutation (air)
 **level**:: druid 5, hunter 5, occultist 5, shaman 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 40 ft./level  
 **area**:: 40 ft./level radius cylinder 40 ft. high  
@@ -21,7 +23,7 @@ alias: Control Winds
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You alter wind force in the area surrounding you. You can make the wind blow in a certain direction or manner, increase its strength, or decrease its strength. The new wind direction and strength persist until the spell ends or until you choose to alter your handiwork, which requires concentration. You may create an “eye” of calm air up to 80 feet in diameter at the center of the area if you so desire, and you may choose to limit the area to any cylindrical area less than your full limit.  
   

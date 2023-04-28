@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Etheric Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
     desc: 92
 desc_short: This silent dragon seems to gather shadows and gloom around its tattered-appearing wings.
 ```
-# Description
+## Description
 Etheric dragons are pragmatic and survival-oriented beings who dwell in the farthest reaches of the Ethereal Plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Etheric%20Dragon)
 ```encounter-table
 name: Young Etheric Dragon

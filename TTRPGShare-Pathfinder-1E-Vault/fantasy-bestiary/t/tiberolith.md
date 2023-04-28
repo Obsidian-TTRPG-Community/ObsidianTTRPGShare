@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tiberolith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 90
 desc_short: A bizarre thrum echoes from somewhere deep within this towering stone hulk, and blue liquid runs down its shuddering body.
 ```
-# Description
+## Description
 Tiberoliths are magical constructs with primitive internal mechanical components, held together with sinew and plant matter. Created by a vicious lost civilization to protect its citadels, villages, and treasures, tiberoliths are found in submerged ruins and remain immobile unless attacked or approached by unauthorized intruders. Each is covered in a unique pattern of markings that glow blue when it moves. When active, it makes an unmistakable high-pitched whirring sound. A tiberolith typically stands 18 feet tall and weighs 7,000 pounds.
 
 Its stone body is filled with an acidic blue alchemical liquid that channels electricity from its mechanisms. In addition to this fluid, its hollow interior spaces have puzzlebox-like devices anchored within them, though how these relate to the creature’s movement is unknown.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tiberolith)
 ```encounter-table
 name: Tiberolith

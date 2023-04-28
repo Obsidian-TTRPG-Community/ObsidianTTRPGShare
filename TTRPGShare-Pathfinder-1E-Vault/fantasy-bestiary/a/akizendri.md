@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akizendri
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 56
 desc_short: This cackling protean’s serpentine body is surrounded by flowing, illuminated script pulled from nearby tomes and pages.
 ```
-# Description
+## Description
 Akizendris are the bane of scholars, capable of altering text, transposing sections between disparate tomes, and erasing book chapters only to vomit them up elsewhere.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akizendri)
 ```encounter-table
 name: Akizendri

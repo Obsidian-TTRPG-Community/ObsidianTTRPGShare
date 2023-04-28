@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slithering Pit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 88
 desc_short: Weathered cobblestones give way to a deep, rough pit, the edges of which wriggle and contract of their own accord.
 ```
-# Description
+## Description
 Bizarre oozes born from magical mishaps, slithering pits use their naturally occurring extradimensional spaces to attack and trap prey. An extradimensional breach coats the top surface of these oozes, and the creatures prowl lazily, hunting for well-traveled routes and then quietly lying down for hours-or even days-until tasty morsels literally fall into their waiting grasps. Like most oozes, slithering pits lack true mouths and any digestive organs. While they can trap creatures within their extradimensional wells, they must wait for their prey to dissolve in digestive acids before they can absorb any nutrition. Luckily, slithering pits can survive for weeks between feedings, and in lean times they can even hibernate for months, appearing to be nothing but a slick spot in an alleyway or a shallow puddle. 
 
 Slithering pits frequent ruins and neglected urban areas, where their transparency allows them to blend in with the shadows of darkened alleys and crumbling corridors. No thicker than a few inches at the center, slithering pits are difficult to distinguish from natural features when immobile. Their slimy exteriors pick up debris and rubble as they stalk, further helping them blend into city streets and ruined floors. Beyond their mobility and slight thickness, slithering pits’ only revealing feature is their shiny mucus, which leaves a glistening trail wherever the creatures travel-but even this dries up and flakes away in a few hours once the ooze settles in at a favored ambush site. While slithering pits are camouflaged on top, their undersides reveal their true appearance: moist and decorated in scintillating patterns of red, green, and blue. Slithering pits are 5 feet in diameter and weigh less than 20 pounds. 
@@ -72,7 +74,7 @@ A slithering pit can sometimes come into existence when an intelligent ooze-in m
 Slithering pits become dangerous urban blights as they prowl congested cities and cramped slums. They especially flourish in decaying or neglected areas, where potholes filled with water are overlooked. In areas plagued by crime, slithering pits are sometimes used to dispose of bodies. Some clever and opportunistic creatures- especially those immune to the pit’s digestive acids-sometimes use slithering pits as roaming lairs, dragging their own kills into the oozes’ cave-like interiors to share leftovers, and scavenging the freely available prey that the oozes trap. Some spellcasters consider the mucus of a slithering pit to be an ideal component for magic concerned with interdimensional travel and storage. 
 
 Those researching these oozes claim that there are different varieties of slithering pits. Scattered reports exist of slithering pits that are much larger, sometimes stretching across an entire narrow street or setting up an ambush in the opening of a wide alley. Some lurk within the darkened expanses of warehouses or beneath boardwalks in dockside settlements. Scholars are unclear whether these larger oozes are simply regular slithering pits that have fed and lived long enough to grow, or if they form when larger oozes consume more powerful magic items.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slithering%20Pit)
 ```encounter-table
 name: Slithering Pit

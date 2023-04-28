@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mist Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 79
 desc_short: This lanky dragon’s dappled grayish scales and sprawling wings shift and fade in color, blending in with the mist.
 ```
-# Description
+## Description
 Mist drakes are less openly aggressive than most drakes, as they are not as physically strong and imposing as most of their kin. Their bodies are narrow and serpentine, more suited for quick strikes and hit-and-run tactics than for close combat. However, they excel at stealth for creatures of their size, and can expel a burst of thick fog whenever they need to create a diversion or screen themselves from archers trying to target them. In the mist, they move swiftly and silently to disperse groups of foes with their explosive breath and then single out one of their enemies for a quick and deadly attack before their victim’s allies can regroup and come to its rescue.
 
 Mist drakes mate only once few decades, but are more caring parents than others of their ilk. After the clutch of two to six eggs hatch, the hatchlings stay with their mother for up to 20 years before seeking out their own hunting territory. Mist drakes live up to 200 years.
 
 A typical mist drake is 13 feet long from head to tail tip, but these lithe dragons rarely weigh more than 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mist%20Drake)
 ```encounter-table
 name: Mist Drake

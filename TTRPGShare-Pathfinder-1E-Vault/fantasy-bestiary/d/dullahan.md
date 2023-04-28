@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dullahan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 111
 desc_short: Clad in ragged black robes and tarnished armor, this grim, headless rider is surrounded by an aura of menace. 
 ```
-# Description
+## Description
 Terrifying reapers of souls, dullahans are created by powerful fiends from the souls of particularly cruel generals, watch-captains, or other military commanders. Sent back from the pits of Hell to sow terror and harvest new souls, dullahans return to the towns or villages they lived in as mortals. While their favored victims are evil men and women (or their living descendants) whose souls are destined for Hell, the dullahans have no qualms about adding innocents to their lists of victims. 
 
 Legends tell of powerful dullahans who can summon not just a single fiendish mount, but an entire carriage pulled by six powerful ebony horses. Known as a “Coach of the Silent,” these powerful undead are CR 14 with 20 Hit Dice, the advanced creature simple template, and the ability to cast trap the soul on those who fail to resist their death’s calling. These souls take seats in the coach, where they languish forever-or at least until the dullahan himself is slain.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dullahan)
 ```encounter-table
 name: Dullahan

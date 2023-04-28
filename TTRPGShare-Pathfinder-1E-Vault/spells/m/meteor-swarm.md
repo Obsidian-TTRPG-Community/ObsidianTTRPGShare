@@ -1,19 +1,21 @@
 ---
-alias: Meteor Swarm
+aliases: [Meteor Swarm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Meteor Swarm 
+## Meteor Swarm
 
 **source**:: PRPG Core Rulebook pg. 313  
 **school**:: evocation (fire)
 **level**:: arcanist 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: four 40-ft.-radius spreads, see text  
@@ -21,7 +23,7 @@ alias: Meteor Swarm
 **saving-throw**:: none or Reflex half, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Meteor swarm* is a very powerful and spectacular spell that is similar to *fireball* in many aspects. When you cast it, four 2-foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks.  
   
@@ -29,7 +31,7 @@ If you aim a sphere at a specific creature, you may make a ranged touch attack t
   
 Once a sphere reaches its destination, it explodes in a 40-foot-radius spread, dealing 6d6 points of fire damage to each creature in the area. If a creature is within the area of more than one sphere, it must save separately against each. Despite stemming from separate spheres, all of the fire damage is added together after the saves have been made, and fire resistance is applied only once.
 
-## Mythic Meteor Swarm 
+## Mythic Meteor Swarm
 
 **source**:: Mythic Adventures pg. 101  
 The meteors created by this spell deal bludgeoning damage in a line extending from you to the target destination where it explodes. Creatures in the path of a meteor take 2d10 points of bludgeoning damage and must succeed at a Fortitude save or be knocked prone. The damage from the exploding meteors increases to 6d10 points of fire damage. Creatures that fail their Reflex saves against the fire damage are also knocked prone and deafened for 1d4 rounds.  

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sifkesh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -82,11 +84,11 @@ sources:
     desc: 86
 desc_short: This gaunt woman has blood-soaked hair, eyes and lips stitched shut with wire, and severed limbs that float nearby as if they were still attached.
 ```
-# Description
+## Description
 Sifkesh, the Sacred Whore, is the demon lord of suicide, heresy, and hopeless despair. She rules the Abyssal realm of Vantian, the legendary City of Open Windows. The city itself is constantly destroying itself, as its buildings continually plummet into the churning surf along an eternally crumbling coastline.
 
 Sifkesh is among the most enigmatic of all demon lords, for she seems more diabolic or even daemonic in her personality and appearance. Planar scholars have long struggled to interpret the demon lord’s position and power. The belief that Sif kesh rose from the animus of a heretical erinyes who became the first of Hell’s heretics is correct, and she constantly works to seduce and lure additional powerful devils from their infernal roles, inviting some to join her as favored minions but leaving others in place so they can more easily work to subvert Hell’s machinations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sifkesh)
 ```encounter-table
 name: Sifkesh

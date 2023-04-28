@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mudlord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 195
 desc_short: This fluid creature’s roughly humanoid form is composed entirely of thick gobbets of soggy, brown mud.
 ```
-# Description
+## Description
 Mudlords are agile creatures made of living mud. Some are natural elemental creatures, and others were created by long-term mixing of earth and magical water, such as by an enchanted fountain or pool leaking into the surrounding soil.
 
 Regardless of their origin, mudlords are xenophobic and highly territorial. They avoid contact with humanoid creatures, and go to great lengths to ensure their mudf illed lairs are far from any humanoid settlements. If a group of humanoids settles too close to a mudlord enclave, the mudlords aggressively attempt to eradicate the humanoid infestation from their lands.
@@ -66,7 +68,7 @@ Because its natural form is a loose pile of mud and it can flatten itself even f
 Among their own kind, mudlords are rambunctious and playful, engaging in wrestling matches, mudthrowing contests, and races. They have been known to ally with earth, mud, and water elementals, but consider themselves the superiors in these alliances because of their greater intelligence. Exceptional mudlords often become druids, oracles, or rangers, and are more tolerant of humanoids, often accepting tribute from tribes of boggards, goblins, or lizardfolk in exchange for truces. Some arise from contaminated sources (such as a demon imprisoned in water) and these might ally themselves with fiends, slimes, or other strange creatures.
 
 A typical mudlord stands 7 feet tall and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mudlord)
 ```encounter-table
 name: Mudlord

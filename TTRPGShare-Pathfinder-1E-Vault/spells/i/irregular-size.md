@@ -1,19 +1,21 @@
 ---
-alias: Irregular Size
+aliases: [Irregular Size]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Irregular Size 
+## Irregular Size
 
 **source**:: Magic Tactics Toolbox pg. 21  
 **school**:: transmutation (curse)
 **level**:: antipaladin 3, arcanist 4, bloodrager 4, cleric 3, medium 2, mesmerist 3, occultist 3, oracle 3, shaman 3, sorcerer 4, spiritualist 4, warpriest 3, witch 3, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Irregular Size
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You curse a creature so one set of its limbs (typically its arms, legs, or wings) shrivels in size.  
   

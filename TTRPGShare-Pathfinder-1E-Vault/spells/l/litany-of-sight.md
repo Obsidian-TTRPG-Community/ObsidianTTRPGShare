@@ -1,19 +1,21 @@
 ---
-alias: Litany of Sight
+aliases: [Litany of Sight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Litany of Sight 
+## Litany of Sight
 
 **source**:: Ultimate Combat pg. 235  
 **school**:: divination
 **level**:: antipaladin 3, inquisitor 4, paladin 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Litany of Sight
 **saving-throw**:: no
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet.  
   

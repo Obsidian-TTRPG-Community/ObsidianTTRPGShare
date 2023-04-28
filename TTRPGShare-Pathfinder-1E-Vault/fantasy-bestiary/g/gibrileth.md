@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gibrileth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 46
 desc_short: This flying, bulbous, tumor-riddled mass has numerous arms, no legs, and a leering, three-eyed face. 
 ```
-# Description
+## Description
 Gibrileths are known as filth demons because their appearance is so vile that even other demons find them appalling-including some hezrous. A gibrileth’s body is composed almost entirely of quivering, globular, acidic tumors, save for its batlike wings and the nest of spindly, atrophied arms growing from the top of its body. It can walk with a clumsy gait, using its long arms, but it prefers to be on the wing. These creatures enjoy spreading nausea and sickness, either via their spell-like abilities or through violence-in fact, they are one of the primary sources of demonplague throughout the Worldwound. Gibrileths particularly relish the taste of partially liquefied, diseased flesh, and many keep infected victims in pens like cattle for periodic snacking, allowing their sickness to season them properly before feeding. Gibrileths rise from the souls of mortals who deliberately encourage the spread of disease or sickness, many of whom died of disease themselves. 
 
 A gibrileth is approximately 10 feet in diameter, with a wingspan of 16 feet. These foul, bloated demons typically weigh about 2,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gibrileth)
 ```encounter-table
 name: Gibrileth

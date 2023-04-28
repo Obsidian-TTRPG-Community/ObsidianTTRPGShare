@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yuki-Onna
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 287
 desc_short: This beautiful but sad-looking woman wears an ornate robe and is surrounded by a whirling mass of snow.
 ```
-# Description
+## Description
 A yuki-onna is the restless spirit of a woman who froze to death in the snow and was never given a proper burial. She roams the wilderness, constantly searching for intelligent creatures to kill and always appearing surrounded by swirling mists of snow and ice. Eternally jaded by her unjust departure to the afterlife, a yuki-onna seeks to impose the same cruel fate upon those who still live, particularly men and those who sympathize or cooperate with them. Many foolish individuals are lured to their deaths by a yuki-onna’s unparalleled beauty, which remains even as the evil spirit steadily freezes and kills her victims with her powers over frost.
 
 The transition from life to undeath corrupts a yuki-onna’s soul, and even a well-intentioned, good-hearted individual who freezes in the snow may become a treacherous yuki-onna. Most yuki-onnas immediately seek out those who wronged them in life, after which they reside in an area near what was their home, haunting and killing anyone who dares to come near. Yuki-onnas hardly ever make their presences known in rural areas with larger populations, and they prefer inhabiting the countryside and wilderness.
 
 When a yuki-onna is destroyed, her body melts as though ice, leaving only a small pool of water in its stead. A yuki-onna is 5-1/2 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yuki-Onna)
 ```encounter-table
 name: Yuki-Onna

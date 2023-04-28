@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drekavac
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 78
 desc_short: Dressed in graveyard rags, this pitiful creature cries out like a sick child. An oversized, bestial head perches atop its spindly, child-sized body, and its eyes are nothing but sunken pools of shadow with no trace of life in them. A cloying mist wreathes its frail form, accompanied by the stench of death and disease.
 ```
-# Description
+## Description
 Drekavacs are the undead remains of children who perished from disease, particularly in plague-ridden areas where many such deaths occurred in a short period of time. Able to become as insubstantial as the mist rising from a graveyard on a cold, dark night, drekavacs are carriers of disease, seeking to infect the living with the afflictions that slew them. According to some stories, drekavacs only result from young plague victims who remain unburied or died bereft of the proper funeral rites; performing those rites may allow their spirits to rest and no longer haunt the world of the living.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drekavac)
 ```encounter-table
 name: Drekavac

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Estuarine Worm (Ahket Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 86
 desc_short: As thick and tall as a towering palm tree, this mud-colored worm hisses through a fanged mouth. Atop its head, a small protuberance shines like a star.
 ```
-# Description
+## Description
 When Alboras, one of the brightest navigable stars, returns to the night sky, it is a sure sign the River Sphinx will soon flood its banks and replenish the land after the harvest. The inundation also revives the rare but deadly estuarine worms. During the wet season, which is called akhet in Osiriani, the giant worms hunt the flooded plains. When the waters recede and Alboras disappears below the horizon again, the estuarine worms retreat as well. During shemu, the dry season, they enter a semi-torpid state and lie buried beneath the dry soil for protection.
 
 A typical estuarine worm measures 25 feet long and 3 feet wide during the wet season. The worms have a bioluminescent organ atop their heads. At night, the tiny, flickering light might be mistaken for a star low on the horizon. When the dry season comes, the estuarine worm contracts to become half as long and half as wide. Its skin, once soft and spongy like wet mud, becomes as hard as stone.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Estuarine%20Worm%20(Ahket%20Form))
 ```encounter-table
 name: Estuarine Worm (Ahket Form)

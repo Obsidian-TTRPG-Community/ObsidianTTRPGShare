@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Forest Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 12
 ```
-# Description
+## Description
 This barbarian guards the fringes of wooded territories, protecting creatures and people from those who would despoil the land and steal from its inhabitants. They distrust all outsiders, but must also guard against their own kin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Forest%20Guardian)
 ```encounter-table
 name: NPC Forest Guardian

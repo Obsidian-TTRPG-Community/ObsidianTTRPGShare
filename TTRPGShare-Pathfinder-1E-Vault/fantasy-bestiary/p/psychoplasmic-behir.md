@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psychoplasmic Behir
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 46
 desc_short: The silver dust that makes up this giant six-legged reptile continuously dissipates into the air, but without depleting the creature’s mass.
 ```
-# Description
+## Description
 While nearly all spirits experience the Astral Plane at some point in their cosmic journeys, it is still one of the least understood planes in the multiverse. Some say it is merely a dream of the gods, while others contend it is the realm of thought itself. Though it is a seemingly endless realm of celestial desert, creatures still roam and hunt on its infinite expanse.
 
 Among the strangest are the psychoplasmic creatures that spontaneously form on the Astral Plane in no perceivable pattern. It could be that when a soul gets caught up in some form of astral eddy, its essence and the strange energies of the Astral Plane fuse to create this bizarre form of life. Some suggest that the passage of souls through the plane leaves impressions behind, the most powerful of which manifest as beings unto themselves. The most outlandish philosophies theorize that since the Astral Plane is a plane of thought, maybe a great thinker exists somewhere beyond the expanse, and these creatures are physical embodiments of its will.
@@ -68,7 +70,7 @@ Psychoplasmic creatures come in many forms. Many are large, hulking brutes that 
 A select few psychoplasmic creatures serve the interests of the Boneyard-though it can be difficult to tell whether that is intentional or incidental. Psychopomps keep these astral denizens at arm’s length, but nonetheless welcome their aid in their eternal vigil over the River of Souls. Many psychopomps remain skeptical of the strange creatures’ agenda, though, suspecting that these psychoplasmic allies are spying on or undermining their comrades. Regardless, no accounts tell of psychoplasmic creatures serving predators of souls, such as daemons.
 
 Still other psychoplasmic creatures wander the planes, fixated on whatever was embedded in their minds when they came into being. A strange few seem to be born without any ambition beyond a nameless urge to wander the multiverse in search of adventure before they finally dissipate back into the silvery void of the Astral Plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psychoplasmic%20Behir)
 ```encounter-table
 name: Psychoplasmic Behir

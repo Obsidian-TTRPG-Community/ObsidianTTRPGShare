@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Noble (Noble)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,13 +41,13 @@ sources:
   - name: GameMastery Guide
     desc: 289
 ```
-# Description
+## Description
 A noble is a titled aristocrat of a noble house, whether a lesser branch or perhaps the high seat of the family line. A noble might also be a member of a royal family, probably not in line for the throne, but still with a high position in society. Whether baroness, countess, duchess, or margravine, a noble is proficient in all of the courtly arts (including with a fine blade) and is well acquainted with news, rumors, fashion, and etiquette in her lands and those that surround it.
 
 Nobles may serve as diplomats, high courtiers, appointed castellans or seneschals of royal castles, or even spies.
 
 A noble may often be found with a knight bodyguard and three noble scions to show off at court (CR 10). A noble might also accompany two princesses in disguise (CR 10), while two nobles may be present at a celebrity bard’s concert (CR 12). A traveling noble could be accompanied by a battle mage or minstrel (CR 9), or two watch captain bodyguards (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Noble%20(Noble))
 ```encounter-table
 name: NPC Noble (Noble)

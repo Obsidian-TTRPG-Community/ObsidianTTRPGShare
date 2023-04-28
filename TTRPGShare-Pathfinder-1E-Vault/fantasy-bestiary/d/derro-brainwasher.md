@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Derro Brainwasher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 24
 desc_short: This pallid woman’s clothing is adorned with leather straps, wicked barbs, and surgical tools. Her eyes twinkle with madness.
 ```
-# Description
+## Description
 These sinister derros specialize in the skills needed to keep their underground civilization hidden from the surface world. Years of study and experimentation provide them with an unnatural understanding of how the humanoid mind works, especially the sections governing memory. Derro brainwashers program new memories into their targets and remove unwanted memories altogether; they edit away any evidence of their people and sow chaos within a subject’s psyche, leaving the unfortunate soul jabbering and confused.
 
 Brainwashers typically venture aboveground to examine former test subjects when their memories of Nar-Voth visits threaten to return with unwelcome clarity. Instead of killing these leaks outright, the derro would rather protect their investment and try to recover these subjects, open them up to see what went wrong, and return them after appropriate repairs. Fortunately for the brainwashers, these former guests are generally so unhinged from their experience that they’re unable to hide effectively. Most rave about white-eyed abductors, slobbering in seedy taverns where they quell the horrible visions with strong drink, or are locked away in asylums when they’re caught violently preparing for their tormentors’ return. Once the brainwashers locate their targets, they incapacitate the unfortunate victims, bring them back underground, and alter their memories of recent events using either magic or drastic surgery. They rarely come to the surface unprepared or alone, however, and their expeditions often return with new subjects as well as old ones.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Derro%20Brainwasher)
 ```encounter-table
 name: Derro Brainwasher

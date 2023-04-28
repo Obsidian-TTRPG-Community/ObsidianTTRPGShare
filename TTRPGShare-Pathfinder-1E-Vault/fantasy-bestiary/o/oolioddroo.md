@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oolioddroo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,7 +82,7 @@ sources:
     desc: 50
 desc_short: This skeletally thin woman has a mothlike face, flies upon dragonfly wings, and is wrapped in shadows.
 ```
-# Description
+## Description
 Oolioddroos, known also as moth demons, are an especially insidious breed of fiend that can infest the brains of living creatures with their eggs, allowing them to manipulate their victims’ thoughts and minds from afar. This might mean an oolioddroo’s victim could go about its normal life for months or even years before the demon capitalizes on the link and forces it to undertake a particularly nefarious or vile deed. In the worst cases, the victim commits crimes or heinous acts at the oolioddroo’s bidding and then immediately forgets about these acts, creating the perfect sleeper agent who not only unknowingly does the oolioddroo’s bidding, but might, when not controlled, be significantly involved in efforts to oppose the acts of sabotage and terrorism the oolioddroo commands. To the oolioddroo, the torment, shame, and despair a victim feels upon realizing he’s been at least somewhat responsible for such actions is as delicious and delightful as the pain and suffering caused by the acts themselves. 
 
 An oolioddroo appears as a skeletally thin woman with gray flesh. Its shadow mantle typically appears in the form of a flowing, diaphanous gown of semisolid shadows and smoke, but the demon can make this defense appear to be black clothes or simply its own shadow. The oolioddroo’s deeply unsettling face is that of a horned moth, and her tongue, while flexible, is strong enough to penetrate flesh and bone with ease. An oolioddroo stands 6 feet tall, but weighs only 100 pounds. These sinister demons form from the souls of those who used brainwashing, mind control, and similar techniques, either magical or mundane, to trick or force the innocent into committing terrible acts of brutality. 
@@ -88,7 +90,7 @@ An oolioddroo appears as a skeletally thin woman with gray flesh. Its shadow man
 Oolioddroos are particularly valued in more subtle invasions of the mortal realm, where the act of possession might be too blatant a tactic to use against the innocents of the world. When an oolioddroo does its job well, none even suspect demonic influence; instead they think that the devastating cruelties its influence has engendered rose entirely from the debased thoughts of lone fanatics or sociopaths. 
 
 An encounter with an oolioddroo can be rather complex due to the nature of the creature’s special abilities- especially if a PC is its intended victim. If an oolioddroo attempts to seize control of a lone PC, one tricky tactic is to simply ask the character’s player to attempt all the necessary rolls and checks beforehand. Typically, one of these demons attempts to implant eggs in a character who is alone or asleep, in which case that character can attempt a Perception check (at a -10 penalty if the character is sleeping) and a saving throw against the modify memory spell-if both fail, the implanted egg hatches without the player noticing. Thereafter, the source of the strange voices and compulsions in the character’s mind, as well as the source of the periodic suggestions and other magical attacks, can be as frighteningly mysterious to the player as they are to the character. Of course, the GM should take care not to go too far with this-and if a PC or an ally uses detect evil, for example, she might guess that something is afoot when a normally nonevil PC radiates an unexpected aura.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oolioddroo)
 ```encounter-table
 name: Oolioddroo

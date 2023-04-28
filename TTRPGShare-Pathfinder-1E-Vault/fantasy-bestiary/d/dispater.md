@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dispater
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 22
 desc_short: This diabolic figure is draped in a kingly robe and crowned with iron horns. He bears a long, heavy mace of black metal.
 ```
-# Description
+## Description
 Dispater is one of Asmodeus’s oldest and most loyal allies, with a favored place in the hierarchy of Hell. He generally keeps his distance from the machinations of the other archdevils, and of all their number he cares least about the tedious and trivial affairs of the Material Plane. His focus is on building the eternal and glorious perfection of Hell, the model community and system upon which the universe should be modeled. He is calm, creative, careful, and deliberate, in some ways the picture of a just sovereign, yet he is also unforgiving, ruthless, manipulative, and arrogant in the extreme. The rules of rank, station, and courtly life are his meat and drink, and he is swift to deride any who violate the tiniest rule of etiquette, though he quickly discards decorum when necessary to further his elaborate schemes. Alone among the archdevils, he maintains a passing acquaintance with courtly love and marriage, conferring with his advisors on matters of state. 
 
 Dispater is every inch the image of a devil, 13 feet tall with rippling, rust-colored muscles and a refined and majestic style, eschewing the opulent grandiosity of some of his brethren.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dispater)
 ```encounter-table
 name: Dispater

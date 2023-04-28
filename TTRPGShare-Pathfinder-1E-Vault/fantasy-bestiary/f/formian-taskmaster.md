@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Formian Taskmaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 111
 desc_short: This centaurlike creature is equipped with an ant’s mandibles and antennae.
 ```
-# Description
+## Description
 Formian taskmasters are merchants, traders, diplomats, and spies, and particularly talented taskmasters may even advise the queen. Taskmasters can often be found outside the hive engaging in commerce or routine diplomatic missions. While traveling, a taskmaster is usually accompanied by 3-5 workers and at least 5 warriors.
 
 When dealing with other creatures, formians recognize that their telepathy can be offputting and use normal speech, although their mandibles are not well suited for the task and their voices are often hoarse and difficult to understand.
@@ -75,7 +77,7 @@ When dealing with other creatures, formians recognize that their telepathy can b
 Like myrmarchs, taskmasters are highly competitive and take great pride in their successes. Notable accomplishments are carved into their carapaces and highlighted with the use of bright inks, precious metals, or gems. Formian society is largely free of the crime that is common in other humanoid societies, but formians do have occasional duels within a caste.
 
 Two taskmasters might have a duel over promotions, a trade route, or an insult. These duels are rarely lethal for fear of weakening the hive, and taskmasters who are too aggressive attract the wrong kind of attention from the myrmarchs. Dueling victories are often recorded on taskmasters’ carapaces alongside their other major accomplishments.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Formian%20Taskmaster)
 ```encounter-table
 name: Formian Taskmaster

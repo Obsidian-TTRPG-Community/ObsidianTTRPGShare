@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Riding Dog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 87
 desc_short: This burly dog is fitted with a small saddle. A low, menacing growl rumbles up from its chest.
 ```
-# Description
+## Description
 Larger dogs (known to Small races like halflings and gnomes as riding dogs) include hardier breeds such as huskies, mastiffs, and wolfhounds. A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a DC 10 Ride check.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Riding%20Dog)
 ```encounter-table
 name: Riding Dog

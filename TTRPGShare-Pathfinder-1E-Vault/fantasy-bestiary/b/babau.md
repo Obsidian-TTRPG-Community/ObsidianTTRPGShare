@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Babau
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 57
 desc_short: This emaciated figure looks like a horned human skeleton smothered within a bone-tight hide of slimy leather.
 ```
-# Description
+## Description
 The babau is an assassin, a murderer, and a sadist-certainly not traits unusual in the demons, yet the babau’s penchant for stealth and surprise sets it apart from its generally less-subtle kin. With no need to eat (although most babaus relish the flavor of mortal meat on their thin, raspy tongues), a babau can wait in ambush for years or decades-their inhuman patience in anticipating a well-conceived murder also setting them apart from the other denizens of the Abyss. Babaus obsess over the act of killing and take great pride in their grisly art, often leaving behind some form of grim marker or obscure signature, whether it be a distinctive modus operandi, an unnerving token, or other profane evidence.
 
 A babau typically carries a longspear or other weapon with which it can strike at foes beyond its normal reach, but given the opportunity, a babau prefers to fight with its teeth or claws. The foul, caustic sludge that constantly seeps from their flesh prevents them from wearing armor unless it is specially treated or resistant to acid.
 
 A babau is 6 feet tall but weighs only 140 pounds. They form from mortal souls of lone killers-those who, in life, took pleasure in more personal and intimate murders. Loosed upon the Material Plane, a babau often finds itself in the same role, haunting the shadowy corners of the world as remorseless assassins.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Babau)
 ```encounter-table
 name: Babau

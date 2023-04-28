@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Magma Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 100
 desc_short: Between this dragon’s jet-black scales run glowing rivulets of lava, and veins aglow with heat shine in the membranes of its wings. 
 ```
-# Description
+## Description
 Temperamental and prone to violent outbursts, magma dragons are regarded by most other dragons as dangerously insane-an assumption that, more often than not, proves correct. One can rarely predict a magma dragon’s state of mind until it either attacks or attempts to engage in conversation. For their part, magma dragons can justify all of their actions-they just rarely feel the need to do so.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Magma%20Dragon)
 ```encounter-table
 name: Young Magma Dragon

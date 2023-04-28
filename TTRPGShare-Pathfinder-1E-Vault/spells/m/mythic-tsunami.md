@@ -1,19 +1,21 @@
 ---
-alias: Mythic Tsunami
+aliases: [Mythic Tsunami]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Tsunami
+## Mythic Tsunami
 
 **source**:: Mythic Adventures pg. 110  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 9, druid 9, shaman 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level  
@@ -21,7 +23,7 @@ alias: Mythic Tsunami
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a massive wave of water that then moves in a straight line across water or land-you select the direction the wave travels (which must be perpendicular to its width), but once set in motion, the wave cannot change course. Over the surface of open water, the wave travels at a speed of 60 feet per round-on land or underwater, the wave travels at a speed of 30 feet per round.  
   

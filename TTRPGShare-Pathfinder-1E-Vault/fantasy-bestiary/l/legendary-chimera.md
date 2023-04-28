@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Legendary Chimera
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 9
 desc_short: This abomination has the head and foreparts of a great lion, an additional head and hindquarters of a ram, and a red dragon’s head sprouting from its tail.
 ```
-# Description
+## Description
 Legendary chimeras are among the eldest of their race, the longlived descendents of the initial attempts by Lamashtu to create what eventually became the common chimera. Relatively few legendary chimeras remain on Golarion, many having been killed over the ages either by brave heroes or during their own perilous endeavors. Those legendary chimeras still left are shunned and feared by their lesser kin, the common chimeras, and so the great beings reside only in the deepest expanses of wilderness, where they nurse their grudges and unleash terrible rampages upon nearby settlements and meddlesome intruders who awaken them from their dark dreams of what could have been.
 
 Legendary chimeras rarely breed, and when they do their offspring inevitably echo their unfinished forms- chimeras with the heads of other beasts, or lacking wings or other limbs, the mark of both their pride and their shame. Such creatures can remain in good health for well over a millennium, and thus, while they are only a little smarter than their common brethren, these illustrious beasts can live to see whole civilizations rise and fall, and possess an innate melancholy and dire wisdom few humanoids can fathom. And indeed, even if humanoids could, the legendary chimeras rarely humor beings they regard as inferior to themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Legendary%20Chimera)
 ```encounter-table
 name: Legendary Chimera

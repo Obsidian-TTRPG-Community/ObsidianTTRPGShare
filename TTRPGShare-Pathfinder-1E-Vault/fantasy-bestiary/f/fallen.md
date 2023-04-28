@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fallen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 90
 desc_short: This ghostly crusader floats just above the ground, yet despite its phantomlike appearance, its armor and weapons seem quite solid.
 ```
-# Description
+## Description
 When a righteous crusader is denied the path to the afterlife in death, its spirit can rise as one of the fallen- undead driven to enact a crusade against all life in a frustrated corruption of their beliefs. The undead creature’s fall in battle remains the greatest disappointment vexing its soul. Driven by hatred and shame, the fallen wander battlefields and wildlands in constant search of someone to end their misery by performing last rites.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fallen)
 ```encounter-table
 name: Fallen

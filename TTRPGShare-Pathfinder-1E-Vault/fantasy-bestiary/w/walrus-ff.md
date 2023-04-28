@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Walrus (FF)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 29
 desc_short: This bulky, thick-skinned, flippered creature has on its face two enormous tusks and what looks like a coarse mustache.
 ```
-# Description
+## Description
 Young walruses start out with gray hides, but their flesh becomes almost pinkish when they reach old age (20-30 years for most walruses). Their hide is up to 4 inches thick, with another 6 inches of blubber hidden underneath that, accounting for their incredible toughness-and for their usefulness to arctic cultures as a source of meat and fuel.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Walrus%20(FF))
 ```encounter-table
 name: Walrus (FF)

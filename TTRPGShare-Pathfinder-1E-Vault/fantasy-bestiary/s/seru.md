@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seru
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 208
 desc_short: The sound of flapping wings and an angry hiss accompany the appearance of this flying snake.
 ```
-# Description
+## Description
 A seru is an underground variety of telepathic venomous snake with the wings of a bat. These creatures have long held a special relationship with serpentfolk, and some legends suggest the snake-god created these winged vipers to assist the serpentfolk in their war against humanity. Intelligent enough to form their own culture, many serus live entirely separate lives from serpentfolk enclaves. Even so, many serpentfolk wizards still seek out serus to bind them as familiars. A spellcaster must have the Improved Familiar feat, be of an evil alignment, and be an arcane caster of level of 7th or higher to gain a seru familiar.
 
 Serus are natural predators that prefer to track prey by scent. When ready to strike, they spit venom into the eyes of a victim and use ambush tactics to wear down their targets. When presented with overwhelming odds or those capable of resisting their venom, serus tend to flee and hide among their cavern rocks.
@@ -58,7 +60,7 @@ Serus are natural predators that prefer to track prey by scent. When ready to st
 Serpentfolk often use serus to watch their territorial borders. These creatures serve both as a deterrent and as telepathic spies that can quickly alert their masters to the presence of outsiders. They sometimes enter into friendships with degenerate serpentfolk, participating in raiding parties as equal companions and trackers, or else command them by acting as mouthpieces for purecastes.
 
 An adult seru weighs approximately 20 pounds, with a body nearly 3 feet long and a wingspan of 5 feet. A mated female lays two to five eggs every year, but many fall victim to underground predators before they ever hatch. Serus have an average life span of 25 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seru)
 ```encounter-table
 name: Seru

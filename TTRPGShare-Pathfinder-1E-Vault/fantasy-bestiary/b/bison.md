@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bison
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,13 +44,13 @@ sources:
     desc: 174
 desc_short: This creature has small, upward-pointing horns, a shaggy coat of fur, and a large hump on its shoulders.
 ```
-# Description
+## Description
 Bison are large herd animals. They can grow as long as 12 feet and as tall as 7 feet at the shoulder. Average bison weigh 2,200 pounds. The bison’s statistics can be used for almost any larger herd animal, such as the buffalo.
 
 Bison frighten far less easily than their domesticated cousins and are much more aggressive when protecting the herd or their young. Adult bulls are extremely confontational in mating season, and even kill one another in pursuit of particular females. After mating season, herds of bison tend to separate into smaller herds in preparation for the arrival of new calves.
 
 Bison companions are identical to aurochs animal companions.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bison)
 ```encounter-table
 name: Bison

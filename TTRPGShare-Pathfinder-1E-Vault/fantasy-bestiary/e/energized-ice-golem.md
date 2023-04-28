@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Energized Ice Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 38
 desc_short: This construct is covered in rime, with razor-sharp shards of ice protruding from its limbs and caustic green fumes emanating from the surface of its frigid body.
 ```
-# Description
+## Description
 Most golems are animated by an elemental spirit bound within a constructed body, but some creators build their golems with a greater purpose in mind. An energized golem is infused with the raw elemental energy of the elemental spirit used to animate it, granting it increased strength and agility and a host of supernatural powers.
 
  The sample energized golem presented here is built using an ice golem as the base creature. See that entry for full descriptions of its base abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Energized%20Ice%20Golem)
 ```encounter-table
 name: Energized Ice Golem

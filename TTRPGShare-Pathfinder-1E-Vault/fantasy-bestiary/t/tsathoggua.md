@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tsathoggua
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -107,11 +109,11 @@ sources:
     desc: 84
 desc_short: Neither quite humanoid nor quite toad, this lumbering monstrosity maintains a malevolent expression on its batlike face.
 ```
-# Description
+## Description
 Known variously to his worshipers as the Father of Night, Saint Toad, the Sleeper in the Deep, and other appellations, Tsathoggua is among the more enigmatic of the Great Old Ones. Not only does he often interact with mortal life, but he has at times done so in a friendly or even charitable manner. Yet these moods are mercurial, and the Great Old One tires of company and attempts to eat those he had been aiding only a moment before. Those who worship him generally do not display this level of magnanimity; they are typically fanatic and violent in their methods of preserving the secrets of their sect.
 
 Tsathoggua appears as a bloated toadlike creature, covered with fur and wearing a strange, sleepy expression on his bat-like face.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tsathoggua)
 ```encounter-table
 name: Tsathoggua

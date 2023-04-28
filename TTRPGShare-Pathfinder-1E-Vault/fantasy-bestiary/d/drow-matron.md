@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drow Matron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -85,9 +87,9 @@ sources:
   - name: Monster Codex
     desc: 39
 ```
-# Description
+## Description
 Born with unusual powers, the matron has survived coup attempts by countless rivals to remain the head of her house.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drow%20Matron)
 ```encounter-table
 name: Drow Matron

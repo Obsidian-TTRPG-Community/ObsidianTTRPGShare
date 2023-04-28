@@ -1,19 +1,21 @@
 ---
-alias: Incendiary Cloud
+aliases: [Incendiary Cloud]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Incendiary Cloud 
+## Incendiary Cloud
 
 **source**:: PRPG Core Rulebook pg. 300  
 **school**:: conjuration (creation) (fire)
 **level**:: arcanist 8, sorcerer 8, summoner 6, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: cloud spreads in 20-ft. radius, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Incendiary Cloud
 **saving-throw**:: Reflex half, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 An incendiary cloud spell creates a cloud of roiling smoke shot through with white-hot embers. The smoke obscures all sight as a *fog cloud* does. In addition, the white-hot embers within the cloud deal 6d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.  
   

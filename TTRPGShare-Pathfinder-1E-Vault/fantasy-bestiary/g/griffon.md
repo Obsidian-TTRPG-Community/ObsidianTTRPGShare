@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Griffon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,7 +48,7 @@ sources:
     desc: 168
 desc_short: This majestic beast has the body of a lion, the head and forelegs of a great eagle, and a massive pair of feathered wings.
 ```
-# Description
+## Description
 Griffons are powerful aerial predators, swooping down from their high aeries to take their prey with beak and talon. Aggressive and territorial, they are no mere beasts, but rather calculating combatants and loyal companions to those who earn their respect, fighting to the death to protect their friends and kin.
 
 Weighing in at over 500 pounds and measuring 8 feet long from hooked beak to tufted tail, the griffon strikes an imposing silhouette that has long been used in heraldry and other iconography as a symbol of power, authority, and justice. In reality, the griffon is less concerned with abstract concepts than with hunting food and protecting its own. While they can sometimes be trained or befriended to serve as mounts, griffons have no inherent affinity for humanoids, and frequently come into bloody conflict with civilized races over their attempts to secure their favorite food-horse flesh. City folk may marvel at the trained griffon’s stately manner and 25-foot wingspan, but those farmers forced to share territory with its wild kin know to hurry home and secure their barns when the beasts’ hunting shrieks split the sky.
@@ -56,7 +58,7 @@ Griffons mate for life, and will often search for years to take vengeance over a
 Before it can be ridden in combat, a griffon requires practice bearing the weight of its rider. In order to be trained successfully, a griffon must first be helpful toward its trainer (possibly requiring a Diplomacy, Intimidate, or Handle Animal check). After that, 6 weeks of practice and a successful DC 20 Handle Animal check is sufficient for the beast to be comfortable with its burden, and due to their intelligence, trained griffons can be treated as knowing every trick listed in the Handle Animal skill description, possibly even responding to new, simple requests made in Common.
 
 Griffons can carry up to 300 pounds as a light load, 600 pounds as a medium load, and 900 pounds as a heavy load. Riding a griffon requires an exotic saddle.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Griffon)
 ```encounter-table
 name: Griffon

@@ -1,25 +1,27 @@
 ---
-alias: Mythic Elemental Body IV
+aliases: [Mythic Elemental Body IV]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Elemental Body IV
+## Mythic Elemental Body IV
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (the element you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level
 
-### Description 
+### Description
 
 This spell functions as *elemental body III*, except that it also allows you to assume the form of a Huge air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form and gain DR 5/-.  
   

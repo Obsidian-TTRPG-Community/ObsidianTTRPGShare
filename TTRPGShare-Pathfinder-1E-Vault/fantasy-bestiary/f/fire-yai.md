@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Yai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 206
 desc_short: This fanged, three-eyed giant rages in its finely crafted armor, its skin as red as a smoldering ember.
 ```
-# Description
+## Description
 Fire yai prefer to live in luxury-an orderly and well-built abode is essential. Even a lone fire yai prefers to build or inhabit a fortified stone dwelling in its territory, and surrounds itself with as many luxuries as it can acquire. Vain, greedy, and brutal, fire yai are the most impulsive of their kind-several tales tell of clever heroes taunting fire yai to act rashly. They rarely let challenges pass uncontested and react quickly to squelch any threat to their rule.
 
 While many fire yai seek out tribes of fire giants to infiltrate and rule, not all follow this compulsion. Capable of assuming the form of many types of humanoid, some fire yai seek to subtly invade and eventually rule entire nations of humanoids from within.
 
 A fire yai is 16 feet tall and weighs 7,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Yai)
 ```encounter-table
 name: Fire Yai

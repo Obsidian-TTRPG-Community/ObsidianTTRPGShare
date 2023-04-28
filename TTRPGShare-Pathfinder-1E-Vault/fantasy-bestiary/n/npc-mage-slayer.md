@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mage Slayer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
   - name: NPC Codex
     desc: 155
 ```
-# Description
+## Description
 The mage slayer is trained and equipped to murder arcane spellcasters. Each one has some minor magical training, either from a church or arcane study.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mage%20Slayer)
 ```encounter-table
 name: NPC Mage Slayer

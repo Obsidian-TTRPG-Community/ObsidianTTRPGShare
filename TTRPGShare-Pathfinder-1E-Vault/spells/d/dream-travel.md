@@ -1,19 +1,21 @@
 ---
-alias: Dream Travel
+aliases: [Dream Travel]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dream Travel 
+## Dream Travel
 
 **source**:: Occult Adventures pg. 166  
 **school**:: conjuration (teleportation) (mind-affecting)
 **level**:: mesmerist 6, psychic 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you and one creature/level  
@@ -21,7 +23,7 @@ alias: Dream Travel
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You and the other targets of the spell are physically drawn from the Material Plane into the Dimension of Dreams on a voyage into the dreams of a creature you designate. In the Dimension of Dreams, you move through a swirling sea of thoughts, desires, and emotions created by the minds of dreamers everywhere to reach your destination dreamscape. Reaching the destination dreamscape takes 1 hour. At any point before the spell’s duration ends, you can dismiss the spell to return to where you started on the Material Plane. The connection between dreams and reality is inherently tenuous, and your ability to arrive precisely where you mean to is dependent on your familiarity with the dreamer you’re trying to find. To determine how accurate your arrival is at the end of your dream travel, roll d% on the following table.  
   

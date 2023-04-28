@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Mother's Maw"
 statblock: inline
-tags: monster
-name: Mother's Maw
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,13 +74,13 @@ sources:
     desc: 82
 desc_short: This skull is as large as an ogre and surrounded by buzzing flies. Its bat wings are too small to actually carry it, yet it moves through the air as easily as a bird. It is surrounded by the stink of rotting meat, spice, and perfume.
 ```
-# Description
+## Description
 The Mother’s Maw is the herald of Urgathoa. A disgusting undead creature that comes to the mortal realm at the command of the Pallid Princess, it is an unsubtle thing of ravenous hunger, with little purpose but to kill, eat, and animate corpses as undead. Though it is as brilliant as a lich, its only interests are in satisfy its cravings for sensation.
 
 The Maw has little interest in the desires of mortals (or of undead in the mortal world) except for how they intersect with Urgathoa’s orders. If it is necessary to eat a hundred members of her cult, or to drive an entire city of ghouls into a lava pit, the Maw does it. It can speak but finds little worth talking about, so many assume it is as mindless as an animated skeleton. However, when not on a mission of death, disease, or gluttony, it is a font of knowledge about food, wine, exotic scents, and other strange experiences only an undead creature can understand, and is quite willing to speak on these matters to an interested party-assuming the sight of the enormous talking, winged skull isn’t a distraction to listeners.
 
 Although the Maw normally appears as a bare skull, it sometimes covers itself with its swarms. Whether this is out of a morbid sense of humor or an attempt to remember an old sensation from its life is unknown. It has confirmed that it was once a devourer, and before that a living creature, but it does not give further details.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mother%27s%20Maw)
 ```encounter-table
 name: Mother's Maw

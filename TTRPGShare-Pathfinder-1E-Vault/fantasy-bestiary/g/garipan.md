@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Garipan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 31
 desc_short: Batlike wings stretch behind this stone-faced creature with a wide, wild grin and fierce red eyes. The molten core in the creature’s torso glows through rugged cracks in its dark stone skin.
 ```
-# Description
+## Description
 Vicious beings with little memory of who or what they might once have been, garipans know only two things: that they were once evils in service to the legions of Hell, and that they are no longer bound to that infernal hierarchy. With resistant, stony hides; sharp claws; and a flaming core to rival the inferno of Hell, garipans combine some of the worst depravities of devils with the freedom of beings with nothing at all to lose.
 
 These hulking, winged creatures often masquerade as gargoyles, but are actually the final state of failed conjurations. If a summoning is cast incorrectly, pulling only a portion of a devil’s essence to Golarion, unidentifiable magical environmental conditions combine with the shard of the outsider’s being to create a garipan.
@@ -63,7 +65,7 @@ These hulking, winged creatures often masquerade as gargoyles, but are actually 
 Garipans are rarely aware of the full details of their previous existence; much in the same way that lesser devils can forget their lives when they ascend to more powerful forms, newly formed garipans are overwhelmed by unfamiliar sensations. Unfettered by conjuring magic, unrestricted by magic that protects against extraplanar intrusion, and free from the threat of banishment back to Hell, garipans experience freedom for the first time, and this freedom most often results in a break from their previous lives.
 
 In combat, a garipan uses flight and the fire raging within it to its greatest advantage, swooping overhead with its breath weapon first, then closing in for a full attack with its bite and claws while its breath weapon recharges.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Garipan)
 ```encounter-table
 name: Garipan

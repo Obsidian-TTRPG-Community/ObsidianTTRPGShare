@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Silverblood Lycanthrope (Human Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 60
 desc_short: This snarling creature has a woman’s body, but the head and claws of a savage wolf.
 ```
-# Description
+## Description
 Silverblood werewolves are a rare type of lycanthrope found almost exclusively in the Arthfell Forest. They are the survivors of an experimental process conceived by jeweler-turned-werewolf Garrick Argentum, and developed by his allies in the Shadow Pack, a group of werewolf druids in the forest. The Shadow Pack conducted an eldritch ritual involving successive exposures to pure silver under the light of the full moon in an attempt to desensitize the werewolves to the deadly touch of silver (in theory, this process could also produce other types of silverblood lycanthropes). The experiment was a success, and the werewolves lost their vulnerability. Swollen with pride at their new ability, the Shadow Pack joined forces with the hobgoblins of the wood and attacked the town of Olfden. Turned back after a savage battle known as the Night of Silver Blood, the werewolves sought to regroup and prepare a new assault, but on the night of the next new moon they discovered a fatal flaw in their blasphemous rite. Tied now more than ever to the lunar cycle, most of the silverblood werewolves wasted away and died when the moon darkened. Even those few that survived are greatly weakened when each new moon comes, though the surge of power when the moon waxes full still earns them great respect, and many have found positions of leadership among the werewolves of the wood.
 
 Though the Night of Silver Blood was a failure, many hobgoblins and werewolves within the Arthfell Forest believe it is proof that major towns and even small cities could be totally ravaged by a somewhat larger, betterprepared force spearheaded by silverblood werewolves. Some groups of silverblood werewolves continue to maintain close connections to the local hobgoblins, forming war parties with them that raid farther and farther from the woods during the nights of the full moon. If one such band were to have a noteworthy success, its leaders might be able to gather a much larger force that could once again threaten Olfden or similarly sized settlements.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Silverblood%20Lycanthrope%20(Human%20Form))
 ```encounter-table
 name: Silverblood Lycanthrope (Human Form)

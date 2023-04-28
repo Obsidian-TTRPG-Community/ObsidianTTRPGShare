@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iron Rhinoceros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 86
 desc_short: Dangling chains cover the riveted iron body of this massive rhinoceros like thick, woolly fur. Its hollow eyes glow-windows into a mighty furnace-and smoke that smells suspiciously like burning flesh billows from its smokestack horns.
 ```
-# Description
+## Description
 The brutality of fire giants is matched only by their ingenuity at crafting devices of war. Of all their creations, however, few match the ruthless efficiency or raw power of the iron rhinoceros. Built to sate the fire giants’ endless desire for slaves, iron rhinoceroses serve as both tireless mounts for giant warlords campaigning against lesser races and as temporary prisons for troublesome captives.
 
 An iron rhinoceros measures 18 feet long from snout to tail and stands 12 feet tall at the shoulder.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iron%20Rhinoceros)
 ```encounter-table
 name: Iron Rhinoceros

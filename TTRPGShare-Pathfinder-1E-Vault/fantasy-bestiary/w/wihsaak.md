@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wihsaak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 218
 desc_short: Buzzing wings hold this gaunt creature just above the ground. A grasshopper serves as the creature’s head.
 ```
-# Description
+## Description
 Wihsaaks prey on the fear of creeping, crawling, and buzzing insects. Instead of whispering from the shadows, wihsaaks blatantly present their unnerving insectile forms to frighten and demoralize humanoid mortals. Wihsaaks use their suggestion spell-like ability to coerce victims into terrifying circumstances and make them believe that their horrific actions are their own ideas. Wihsaaks savor their targets’ fear, drawing it out whenever possible. When facing a group of enemies, wihsaaks don’t immediately attack foes affected by their fear effects, and instead try to frighten all possible enemies before delivering the killing blows so as to properly season their prey in terror. When these sahkils do finally attack, their claws rip and tear f lesh as easily as paper.
 
  Wihsaaks stand 7 feet tall, have a 5-foot wingspan, and weigh around 170 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wihsaak)
 ```encounter-table
 name: Wihsaak

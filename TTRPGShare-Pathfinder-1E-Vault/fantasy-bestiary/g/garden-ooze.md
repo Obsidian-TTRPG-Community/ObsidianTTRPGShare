@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Garden Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 122
 desc_short: What seems to be a mass of diseased fibers growing on a plant suddenly moves and slithers independently from its sickly host.
 ```
-# Description
+## Description
 A garden ooze is an animate, acidic mass of protoplasmic goo that dwells among foliage and scavenges proteins in the form of carrion or small animals that blunder into its vicinity. Although garden oozes are occasionally found in underground regions near the surface-such as sewers, sinkholes, and shallow caves-these oozes prefer the outdoors. One reason for this is that garden oozes are attracted to large collections of organic material where other tiny creatures might come to scavenge.
 
 Quick and cunning hunters when compared to most oozes, garden oozes are particularly dangerous because they readily attack creatures that wander nearby regardless of the creatures’ size. Oozes that sense prey moving closer are likely to wait to attack until the potential meal is within reach. The oozes also give chase when prey flees. Garden oozes innately change hue to match the ground underneath them, so they can be hard to spot.
@@ -57,7 +59,7 @@ Quick and cunning hunters when compared to most oozes, garden oozes are particul
 When a garden ooze attacks, it lashes out with a whiplike appendage coated with a potent flesh-eating acid. If injured, the ooze releases a disgusting stench that makes it harder to fight off. Further, when one garden ooze attacks, any other garden oozes nearby join in, piling on and making escape all but impossible.
 
 Fortunately for larger potential prey, most garden oozes are quite small, the largest among them reaching 3 feet in diameter before they split into smaller oozes. These oozes are also known as rat-catcher oozes or compost oozes, and some brave gardeners actually encourage the growth of such oozes in their gardens as a way to combat pests. Once the pests are under control, however, the oozes themselves must be hunted and slain before the garden is safe to tend.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Garden%20Ooze)
 ```encounter-table
 name: Garden Ooze

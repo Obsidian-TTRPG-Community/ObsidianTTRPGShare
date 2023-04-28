@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chuul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 46
 desc_short: This lobster-like creature has a thick armored shell. A pair of tiny eyes gleams above a mouth full of writhing tentacles.
 ```
-# Description
+## Description
 Chuuls are armored, crustacean-like predators that lurk beneath the surfaces of shallow ponds and mires, bursting from concealment to snatch up prey in their chitinous pincers and then paralyzing them with their mouth tentacles before eating them alive.
 
 Chuuls are excellent swimmers but prefer to attack land-bound creatures or those wallowing in shallow water. Once they seize their victims, chuuls often drag grappled foes back into deep water to drown them. Lizardfolk are by far the chuul’s favorite prey, though those pale chuul breeds that live underground prefer morlocks, duergar, unwary drow, and other unfortunates who get too close to their subterranean waterways-with the exception of troglodytes, whose flavor chuuls find particularly offensive.
@@ -57,7 +59,7 @@ Chuuls are excellent swimmers but prefer to attack land-bound creatures or those
 Chuuls are surprisingly intelligent, leading many to speculate fruitlessly on their origins and motivations. They speak a chittering, burbling dialect of Common, but few are inclined to speak to those outside their race, and if chuul society exists beyond their frenzied mating season, humanoids have yet to record it. Instead, chuul intellects seem entirely devoted to seeking out the perfect ambush sites to attack other intelligent creatures and decorating their elaborate lairs with trophies from their kills. Though the chuuls themselves seem uninterested in using tools of any kind, they have an almost compulsive need to collect keepsakes from their victims.
 
 A typical chuul is 8 feet tall and weighs 650 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chuul)
 ```encounter-table
 name: Chuul

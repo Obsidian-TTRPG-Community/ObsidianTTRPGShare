@@ -1,19 +1,21 @@
 ---
-alias: Erase Impressions
+aliases: [Erase Impressions]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Erase Impressions 
+## Erase Impressions
 
 **source**:: Occult Adventures pg. 170  
 **school**:: abjuration
 **level**:: medium 3, mesmerist 4, occultist 3, psychic 5, spiritualist 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Erase Impressions
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You banish psychic impressions from the object touched, rendering it devoid of recent history. You choose how much time to erase, up to a maximum of 1 day per caster level. You must erase impressions from the present time back; you cannot choose to leave recent events untouched. Impressions erased in this manner cannot be recovered via *object reading*, *legend lore*, or similar measures.  
   

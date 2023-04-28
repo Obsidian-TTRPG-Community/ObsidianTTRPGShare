@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Repair Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 56
 desc_short: This quadruped robot has glowing eyes and dexterous hands capable of examining and fixing machinery.
 ```
-# Description
+## Description
 Repair robots are technologically skilled robots capable of fixing all manner of machinery with their surprisingly nimble hands. Repair robots are single-minded in their motivations, following their programming to repair anything they deem fixable. Many repair robot owners have returned to their workshops to find all of their in-progress inventions optimized or completely rebuilt by their robot servants.
 
  Although most commonly encountered in urban settings, repair robots have been known to survive, and even thrive, in other environments. If abandoned by its owner, a repair robot continues its repair duties as long as there are things to fix. Once it runs out of machinery to repair, the repair robot often wanders away from its place of employ, roaming the land in search for more repair opportunities. Repair robots that leave their homes often form unions with other abandoned repair robots; the robots in such unions satisfy their programming by repairing one another as they journey together.
 
  A typical repair robot is about 5 feet tall and weighs approximately 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Repair%20Robot)
 ```encounter-table
 name: Repair Robot

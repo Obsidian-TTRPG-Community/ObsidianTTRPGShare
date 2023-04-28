@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pallid Angel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 82
 desc_short: This macabre beauty holds her ebon-feathered wings spread behind her. Her skin and clothing are soaked and splattered with blood, wine, and other fluids.
 ```
-# Description
+## Description
 Urgathoa is known best as a goddess of plague and undeath, yet the Pallid Princess has wider interests than the uninitiated might assume. Pallid angels, created by Urgathoa from the souls of her most dedicated champions and priestesses, represent these interests. Warriors and tacticians, wielders of profane magic and cruel weaponry, pallid angels are embodiments of the goddess’s appetite for wanton bloodshed and forbidden pleasures.
 
  The average pallid angel stands 7 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pallid%20Angel)
 ```encounter-table
 name: Pallid Angel

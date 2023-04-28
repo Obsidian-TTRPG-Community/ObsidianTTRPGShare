@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Anunnaki
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,12 +83,12 @@ sources:
     desc: 28
 desc_short: This towering humanoid has a strange, stony head. Small, mechanical wings spread out from its back.
 ```
-# Description
+## Description
 Residents of an enigmatic and unknown world that is believed to exist out of phase with the Material Plane, anunnaki are mysterious, god-like beings that shape the very direction of civilizations. Little is known about the anunnaki homeworld, but fragmented information collected by scholars indicates that it comes into contact with the Material Plane only once every few thousand years. During this time, anunnaki travel to other worlds in order to manipulate the course of evolution, creating civilizations and uplifting primitive creatures using their esoteric technology, which includes external power sources called “lanterns of civilization.” The anunnaki do not typically remain to guide these societies, and are often remembered as deities by the civilizations they leave behind. Because the anunnaki can take on various forms, piecing together which civilizations have or haven’t been visited by anunnaki is exceedingly difficult. The creatures could have arrived to guide one civilization in the guise of powerful, glowing creatures and secretly assimilated into another society by adopting the appearance of members of that society and subtly making changes over the course of decades. Each anunnaki calibrates its form to fit the mores and prejudices of the specific society it means to advance.
  Anunnaki’s role as manipulators of civilization and natural order often puts them into direct confrontation with elohim (Pathfinder RPG Bestiary 4 86). The source of the enmity between these mighty creatures is unknown, but the aftershocks of their conflicts can be felt for millennia after the fighting has ended. Some sages believe that the anunnaki and elohim are both working to circumvent some future calamity, but differ along ideological or philosophical lines as to how to prevent this event from coming to pass. Ancient records from cultures that were shaped by the anunnaki reference divine visions of great, devouring rifts in the darkness between the stars and the terrible, unimaginable entities that dwell within them.
  For all the knowledge and power anunnaki possess, the civilizations they create do not always see them as benevolent saviors. Some anunnaki might have more sinister agendas not shared by the rest of their people. These rogue anunnaki have free rein over the societies they manipulate as long as they can avoid the notice of their fellow anunnaki-and since it is difficult for other creatures to find or contact any of their race, the renegade anunnaki can often do whatever they please. Some of these renegades use their civilizations for large-scale experiments, creating bizarre hybrid creatures. Others advance their subjects too rapidly by the standards of the other anunnaki, attempting to create creatures as advanced as the anunnaki themselves rather than simply giving cultures the means to advance themselves. In many of these cases, the uplifted society isn’t truly equipped to handle such vast changes. Rather than advancing in a surge of scientific and creative thought, its members become absorbed with existential doubt or fall into madness as they recognize the gulf between their lofty ambitions and the materials and means they have at their disposal.
  Anunnaki prefer to interact with most humanoids without being recognized for what they are, and an anunnaki may depart a conversation abruptly if a non-anunnaki reveals that she knows it is not the god or mortal it pretends to be.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Anunnaki)
 ```encounter-table
 name: Mythic Anunnaki

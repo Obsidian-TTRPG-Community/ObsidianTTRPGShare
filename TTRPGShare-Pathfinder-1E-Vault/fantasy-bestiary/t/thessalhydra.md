@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thessalhydra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 263
 desc_short: This four-legged reptile has eight serpentine heads arrayed around a central maw. Its long, thrashing tail ends in a crab-like pincer.
 ```
-# Description
+## Description
 The dreaded thessalhydra is a fearsome predator that has an unexpected agility. Despite its lumbering shape and looming size, the monster’s nimbleness makes it almost beautiful as it attacks. Thessalhydras are relatively rare, though their notorious speed and savagery have featured in countless legends. They are often whispered of in fear and awe by willful children in rural areas, whose exasperated parents have warned them to “be good, or the thessalhydra will pluck you out of your bed through the window when you sleep!” 
 
 A thessalhydra is 40 feet long, with its pincer-tipped tail adding another 30 feet to its overall length.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thessalhydra)
 ```encounter-table
 name: Thessalhydra

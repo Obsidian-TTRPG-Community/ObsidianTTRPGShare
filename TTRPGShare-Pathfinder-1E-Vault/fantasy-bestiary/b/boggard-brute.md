@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggard Brute
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Monster Codex
     desc: 10
 ```
-# Description
+## Description
 Boggard brutes may be armed with primitive-looking weapons, yet their terrifying strength makes them as deadly as any knight in armor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggard%20Brute)
 ```encounter-table
 name: Boggard Brute

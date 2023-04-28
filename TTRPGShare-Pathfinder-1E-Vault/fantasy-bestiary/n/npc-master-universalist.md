@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Master Universalist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
   - name: NPC Codex
     desc: 195
 ```
-# Description
+## Description
 The master universalist draws power and knowledge from all schools of magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Master%20Universalist)
 ```encounter-table
 name: NPC Master Universalist

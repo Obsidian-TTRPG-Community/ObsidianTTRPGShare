@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lilitu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -90,7 +92,7 @@ sources:
     desc: 48
 desc_short: While this seductive woman has goat horns, goat hooves, and a serpentine tail, her eyeless face is her most disturbing feature.
 ```
-# Description
+## Description
 Lilitus are subversive and hidden horrors, demons who work subtly in their constant quest to destroy and devastate. Whereas most demons prefer to rend and destroy, the lilitu is more akin to the succubus-she prefers to do her work in humanoid form to infect society with sin from within. Lilitus enjoy few things more than leading mortals into all manner of sinful acts, in the hope that when the mortal perishes, its soul will fuel the Abyss. Despite some superficial similarities to succubi, lilitus are not solely concerned with the sin of lust. The exact nature of sin that a lilitu tempts a mortal into committing varies, for these demons are adept at reading mortal desires and secrets, quickly discerning which sins a specific target can be convinced to perform. 
 
 Lilitus have numerous tools at their disposal for the encouragement of sin, but they much prefer their humanoid victims to commit sins of their own free will. As such, lilitus generally use their abilities to deceive and beguile mortals rather than forcing them to execute heinous acts. A son convinced to kill for his mother (the disguised lilitu) to rectify a grave injustice elicits far more delight than compelling a mind-controlled humanoid to do such a deed. 
@@ -100,7 +102,7 @@ In her true form, a lilitu appears as an eyeless, horned, snake-tailed-but other
 Lilitus are more likely than other demons to devote their work to a specific demon lord, yet they do not generally view such devotion as true servitude. It’s simply convenient to have a specific demigod in mind when seeking to corrupt a mortal’s faith and to convince such fallen souls to shift their own allegiance from a prior deity to the lilitu’s chosen demon lord. When a lilitu chooses to ally herself with a demon lord, she takes on certain physical characteristics that reflect that demon lord’s personality or appearance. For example, a lilitu that serves Dagon, the demon lord of deformity, sea monsters, and the sea might bear scaly skin like that of a fish, webbed fingers and toes, and finlike ridges on her head instead of the more typical goat’s horns. A lilitu that serves Pazuzu, on the other hand, might have vestigial feathery wings on her back and bird’s talons instead of hooves for feet. These appearance changes are cosmetic only and never impact the lilitu’s options for natural attacks. Of course, the demon’s ability to change shape or assume the form of a captured husk allows the demon to disguise her true form at will. Lilitus who serve specific demon lords in this manner often have class levels. A lilitu typically focuses on class roles such as bards, rogues, swashbucklers, or any other agility- and deception-based classes. 
 
 Lilitus typically stand 6 to 6-1/2 feet tall and weigh 130 to 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lilitu)
 ```encounter-table
 name: Lilitu

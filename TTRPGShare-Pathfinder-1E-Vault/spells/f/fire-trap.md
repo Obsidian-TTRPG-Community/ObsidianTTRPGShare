@@ -1,19 +1,21 @@
 ---
-alias: Fire Trap
+aliases: [Fire Trap]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fire Trap 
+## Fire Trap
 
 **source**:: PRPG Core Rulebook pg. 282  
 **school**:: abjuration (fire)
 **level**:: arcanist 4, druid 2, hunter 2, occultist 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (gold dust worth 25 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Fire Trap
 **saving-throw**:: Reflex half; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Fire trap* creates a fiery explosion when an intruder opens the item that the trap protects. A *fire trap* spell can ward any object that can be opened and closed.  
   

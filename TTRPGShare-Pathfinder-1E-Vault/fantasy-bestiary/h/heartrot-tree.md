@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Heartrot Tree
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 86
 desc_short: Fungus drips from this grotesque tree’s ridged bark as its branches wave like boneless arms.
 ```
-# Description
+## Description
 Disgusting products of blight or other magical plagues, heartrot trees represent nature warped to its most insidious. Heartrot trees typically lurk in the deepest depths of fouled forests; they are the manifestations of the very forces that poison the land. As a result, evil and disease pulse within heartrot trees, and the behemoths hunger to destroy anything good or natural still left around them.
 
  Heartrot trees are typically 30 feet tall from the base of their trunks to the tips of their tendril-like branches. When the trees grow above a cave or another large underground space, their roots are horrifically similar to their branches and dangle just as far from the ceiling. Heartrot trees’ trunks are typically 15 feet in circumference, and the plant’s entire mass weighs around 15 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Heartrot%20Tree)
 ```encounter-table
 name: Heartrot Tree

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mezlan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 90
 desc_short: An amorphous blob coalesces, forming into a humanoid figure. As it stabilizes, intricate details emerge.
 ```
-# Description
+## Description
 Built by ancient arcanists and engineers to serve as spies and elite troops, units of mezlans were deployed to engage in extractions, infiltrations, and quick strikes on well protected locations. Scholars believe that at the height of those ancient civilizations, close to 1,500 mezlans were created. The difficulty of destroying mezlans leads scholars to believe that at least half of them still exist to this day. 
 
 Mezlans blur the lines between constructs and oozes, a mixture made even more strange by the fact that they have unique, previously human personalities. Each mezlan was once an exemplary living soldier graced with superior skills and intelligence. Upon being chosen for this new duty, these soldiers were given a full explanation of the changes they would undergo and signed a contract agreeing to serve as mezlans. Each was then subjected to numerous magical and technological procedures to extract her consciousness, preserve it, and inject it into her new form. Sometimes the process didn’t take, resulting in an incomplete and flawed mezlan. Indications of these flaws didn’t always reveal themselves before the creatures were deployed, and many such mezlans abandoned their missions to pursue their own mysterious agendas. 
@@ -76,7 +78,7 @@ Without the need to eat, sleep, or breathe, mezlans are practically immortal. Wh
 Mezlans retain a portion of their previous memories and experiences, but the extent of those memories varies from individual to individual. Some mezlans slowly regain their memories, some immediately remember everything from their previous incorporation, and others never fully recall their previous selves. A mezlan that retains its living memories typically has several class levels, although it should be noted that not all skills and abilities humanoids have in life translate directly to life as a shapeshifting ooze. One notable exception is a mezlan’s morphic weapons. While these attacks are natural weapons and a mezlan thus cannot gain iterative attacks, a mezlan who has feats or class abilities that bolster specific weapons can apply the effects of those feats or abilities to its morphic weapons, provided the weapons are of the right shape. For example, a mezlan with Weapon Focus (longsword) would gain a +1 bonus on attack rolls with its morphic weapon attacks when they are in the shape of a longsword. This limits the damage type dealt by the morphic weapon to a damage type appropriate to the weapon being duplicated. 
 
 From all appearances, mezlans seem to get along well with each other; however, to normal, living creatures, they often appear strange and unnatural in both form and behavior. They are very observant creatures that study everything they encounter, especially animals and humanoids-a frequent use of their skill pool ability. Some mezlans become accustomed to a particular form or body and use it as a default. Others keep dozens of regular guises and take on the ones most appropriate for particular duties they need to complete, using appearances and personalities as tools throughout their day-to-day activities. A few purists keep an amorphous, bloblike form unless they need to resemble something else. Strange mezlans who have gone mad over the years constantly shift their forms, flickering between hundreds of different shapes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mezlan)
 ```encounter-table
 name: Mezlan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogre
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,7 +46,7 @@ sources:
     desc: 220
 desc_short: This lumbering giant’s beady eyes are devoid of wit or kindness, and its puffy face features a wide mouth with ill-fitting teeth.
 ```
-# Description
+## Description
 Stories are told of ogres-horrendous stories of brutality and savagery, cannibalism and torture. Of rape and dismemberment, necrophilia, incest, mutilation, and all manners of hideous murder. Those who have not encountered ogres know the stories as warnings. Those who have survived such encounters know these tales to be tame compared to the truth.
 
 An ogre revels in the misery of others. When smaller races aren’t available to crush between meaty fists or defile in blood-red lusts of violence, they turn to each other for entertainment. Nothing is taboo in ogre society. One would think that, left to themselves, an ogre tribe would quickly tear itself apart, with only the strongest surviving in the end-yet if there is one thing ogres respect, it is family.
@@ -58,7 +60,7 @@ Ogre games are violent and cruel, and victims they use for entertainment are luc
 An ogre’s great strength and lack of imagination makes it particularly suited for heavy labor, such as mining, forging, and clearing land, and more powerful giants (particularly hill giants and stone giants) often subjugate ogre families to serve them in such regards.
 
 A typical adult ogre stands 10 feet tall and weighs roughly 650 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogre)
 ```encounter-table
 name: Ogre

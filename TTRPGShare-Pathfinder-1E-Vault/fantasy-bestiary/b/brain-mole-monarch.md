@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brain Mole Monarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 47
 desc_short: Tumorous bulges crisscross this six-limbed rodent, lending its hairless body a bloated, brain-like appearance.
 ```
-# Description
+## Description
 Brain moles who gorge themselves on psychic energy occasionally find their bodies wracked by magically infused tumors that vastly enhance their intellects and psychic spellcasting but condemn the moles to slow deaths. These individuals, called brain mole monarchs, connect to their fellow brain moles in a psychic hive mind. Most use their newfound mental abilities to attempt to secure a legacy or to provide for their nests once they pass on, and their mad plots become increasingly eccentric and aggressive as the end nears.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brain%20Mole%20Monarch)
 ```encounter-table
 name: Brain Mole Monarch

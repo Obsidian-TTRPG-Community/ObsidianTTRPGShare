@@ -1,19 +1,21 @@
 ---
-alias: Rainbow Pattern
+aliases: [Rainbow Pattern]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rainbow Pattern 
+## Rainbow Pattern
 
 **source**:: PRPG Core Rulebook pg. 329  
 **school**:: illusion (pattern) (mind-affecting)
 **level**:: arcanist 4, bard 4, psychic 4, redmantisassassin 4, skald 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V (bard only), S, M (a piece of phosphor), F (a crystal prism); see text
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: colorful lights with a 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Rainbow Pattern
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A glowing, rainbow-hued pattern of interweaving colors fascinates those within it. *Rainbow pattern* fascinates a maximum of 24 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. An affected creature that fails its saves is fascinated by the pattern.  
   

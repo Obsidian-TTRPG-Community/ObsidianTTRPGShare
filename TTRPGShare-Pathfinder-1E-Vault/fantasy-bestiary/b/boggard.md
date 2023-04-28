@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 84
 desc_short: Bulbous eyes glare atop this creature’s decidedly toad-like head. A multitude of warts and bumps decorate its greenish skin.
 ```
-# Description
+## Description
 Boggards resemble anthropomorphic frogs or toads, complete with webbed hands and feet, large eyes, and overly wide mouths. These creatures make their homes near large rivers or deep in marshes. There they make small villages composed of mud mounds on the banks. Boggards start out life as tadpoles in breeding ponds, eventually growing to a length of 3 feet before sprouting arms and legs and becoming capable of terrestrial living. Acceptance into the clan then depends on the young boggard’s successful hunt to kill a sentient humanoid. Those who fail are exiled from the clan. As boggards age, they continue to grow and lose their coloration. Exceptionally old boggards bear completely white skin covering massive corpulent bodies. Some of these boggards rank among the caste of priest-kings and enjoy a life of grotesque pleasures ruling their clans.
 
 Though often hunched over, boggards stand 5 feet tall and weigh close to 200 pounds. These creatures live for 50 years, though the harsh swamps and infighting usually cut these years short.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggard)
 ```encounter-table
 name: Boggard

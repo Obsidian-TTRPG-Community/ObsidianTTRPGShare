@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Alraune
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 13
 desc_short: An attractive green-skinned woman sits in the depths of this enormous, sweet-smelling flower.
 ```
-# Description
+## Description
 An alraune relies on its supernaturally soothing odor to render enemies incapable of making hostile acts against it-even if the alraune attacks a foe, its calming scent can wipe away any thoughts of violence from its prey. At rest, an alraune appears to be merely a large thorny plant with a single enormous and brightly colored flower at its center.
 
 When an alraune attacks, its thorny vines lash out and its flower blooms, revealing an attractive, green-skinned humanoid form within. An alraune’s apparent gender can vary even from encounter to encounter, for the plant can reshape its humanoid portions as it desires to increase the likelihood of setting its victims at ease. Regardless of the plant’s apparent gender, it is itself asexual and reproduces (typically once or twice per decade) by budding a single offspring over the course of a spring season.
 
 Despite their appearance, alraunes are quite mobile (capable of walking almost like a spider upon their numerous long roots and thorny vines). They hunt by using commune with nature to locate potential prey, preferring humanoid flesh over all others. When an alraune needs prey, it uses its mind-affecting abilities to convince foes to dig their own graves and bury themselves-once a foe is helplessly buried in the soil, the alraune can feed from it via its flesh-burrowing roots, converting the victim’s blood and memories into the strange nutrients it so craves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Alraune)
 ```encounter-table
 name: Alraune

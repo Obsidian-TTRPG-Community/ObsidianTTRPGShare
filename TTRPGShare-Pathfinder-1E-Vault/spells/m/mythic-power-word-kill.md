@@ -1,19 +1,21 @@
 ---
-alias: Mythic Power Word Kill
+aliases: [Mythic Power Word Kill]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Power Word Kill
+## Mythic Power Word Kill
 
 **source**:: Mythic Adventures pg. 103  
 **school**:: enchantment (compulsion) (death, mind-affecting)
 **level**:: arcanist 9, psychic 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature with 100 hp or less  
@@ -21,7 +23,7 @@ alias: Mythic Power Word Kill
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You utter a single word of power that instantly kills one creature of your choice, whether the creature can hear the word or not. Any creature that currently has 101 or more hit points is unaffected by *power word kill*.
 

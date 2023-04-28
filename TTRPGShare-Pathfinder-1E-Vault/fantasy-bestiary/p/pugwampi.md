@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pugwampi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 83
 desc_short: As if the world’s most revolting lapdog had somehow learned to walk on its back legs, this sickly creature slinks forward carefully.
 ```
-# Description
+## Description
 Mean, dog-faced, and cowardly, pugwampis are loved by no one-not even other gremlins. These gremlins take disproportionate amounts of enjoyment from the accidents and missteps of other creatures, often going to great lengths to manufacture the perfect deadfalls or stumbling blocks. They then wait nearby, both to laugh at the inevitable mishaps and to make sure their personal unluckiness is passed off on their victims.
 
 Pugwampis live in caves or ruined buildings, occasionally venturing forth to find victims upon which to inflict their sick senses of humor. Their “jokes” tend to involve spikes and excrement, or sometimes pits full of spiders or campsites that flood with swamp water. Certainly only the pugwampis consider their jokes funny. As all pugwampis are somewhat deaf, when not trying to be stealthy, they tend to scream and yell loudly so they can hear themselves and each other.
 
 At some point in the distant past, pugwampis became enamored of gnolls, seeing in the beast-men a kindred form and thus aspiring to the height and deadly prowess of the savage warriors, whom they honor as gods. Gnolls, for their part, hate pugwampis even more than other creatures, mostly because of the gremlins’ weakness and sickening fawning, though they sometimes keep the gremlins around just to torment them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pugwampi)
 ```encounter-table
 name: Pugwampi

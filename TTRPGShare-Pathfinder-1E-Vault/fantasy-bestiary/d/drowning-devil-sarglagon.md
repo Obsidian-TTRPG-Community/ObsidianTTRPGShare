@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drowning Devil (Sarglagon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 80
 desc_short: This serpentine creature has finlike wings, ram horns, four eyes, and arms that end in masses of tentacles.
 ```
-# Description
+## Description
 Called sarglagons in their Infernal tongue, drowning devils take great pride in being the best-adapted guardians of Hell’s waterways, and are among the few fiends who travel the seas and rivers of the multiverse as part of larger infernal plots. Even in the air or on the ground, a drowning devil moves with a haunting litheness as though it were swimming. A typical drowning devil weighs 600 pounds, and can exceed 15 feet from head to tail.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drowning%20Devil%20(Sarglagon))
 ```encounter-table
 name: Drowning Devil (Sarglagon)

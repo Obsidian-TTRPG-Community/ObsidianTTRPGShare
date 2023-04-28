@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tatzlwyrm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 18
 desc_short: This serpentine creature has the head of a ferocious dragon and two relatively small forearms that end in tiny claws.
 ```
-# Description
+## Description
 Tatzlwyrms are thought to be primeval relatives of true dragons, having branched off the line millennia ago and evolved in a way that sets them notably apart. Undersized compared to their larger cousins, tatzlwyrms are nonetheless ferocious in their own right. And while tatzlwyrms are hardly impressive specimens when put beside their notorious relatives, most other reptiles can’t compare to them mentally. They understand Draconic, though other languages are beyond most tatzlwyrms’ limited comprehension. Nevertheless, tatzlwyrms are deeply cunning, building complex lairs and rudimentary traps.
 
 Tatzlwyrms are quite rare, and only a few particularly curious and lucky adventurers can claim to have seen a living specimen. Reports do agree on some basic features, however. About the size of a full-grown human, tatzlwyrms have only two limbs and no wings, and possess a weak poisonous breath similar to the breath weapons of their true dragon relatives. An adult tatzlwyrm is 6 to 8 feet long, including its winding, organless tail, and it weighs between 400 and 500 pounds. A tatzlwyrm’s scales give the creature limited camouflage, ranging through various shades of green, brown, and gray.
 
 Like true dragons, tatzlwyrms are strict carnivores. They spend most of their time hiding, waiting to attack any prey that ventures too near. They consume their food slowly in the dark security and seclusion of their lairs. Tatzlwyrms have a remarkable knack for ambush and camouflage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tatzlwyrm)
 ```encounter-table
 name: Tatzlwyrm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Irlgaunt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 84
 desc_short: An unwholesome abomination scuttles fluidly forth, its shape combining features of both spider and squid under an armor of rugged rock. While stone protuberances gird its upper portions, below it is a thing of angry red flesh and soft pink tendrils. Two gaping orifices full of tiny barbs split its lower body-a mouthlike slit surrounded by numerous narrow red eyes and, above that, an oozing alien aperture.
 ```
-# Description
+## Description
 Irlgaunts are large, spider-like aberrations that lurk in mountainous regions and vertical subterranean chasms. While large and imposing, these arachnid-like beings are deceivingly agile, their reflexes fast and movements swift, similar to the darting motions of a hunting insect. Irlgaunts are as quick-witted as they are nimble and have a strong grasp of strategy and tactics. In Iobaria, the beasts are recognized for their eerily patient predations, hiding amid jagged rocks to attack prey and ejecting crippling blasts of rock and digestive acids upon their victims. Irlgaunts typically attack travelers scaling mountain paths with steep cliff sides, using the hazardous terrain to knock unstable hikers to their death, then skittering down the sheer cliff faces to lap up the fleshy pulp below.
 
 Most irlgaunts stand between 11 and 13 feet tall and weigh around 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Irlgaunt)
 ```encounter-table
 name: Irlgaunt

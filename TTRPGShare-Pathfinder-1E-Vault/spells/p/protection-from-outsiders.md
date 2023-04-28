@@ -1,19 +1,21 @@
 ---
-alias: Protection from Outsiders
+aliases: [Protection from Outsiders]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Protection from Outsiders 
+## Protection from Outsiders
 
 **source**:: Demon Hunter's Handbook pg. 26  
 **school**:: abjuration \[see text\]
 **level**:: cleric 2, inquisitor 2, oracle 2, paladin 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Protection from Outsiders
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell wards a creature from attacks by outsiders with a specific racial subtype, from mental control exerted by creatures of the chosen subtype, and from summoned creatures of that subtype. Only the subtypes of specific outsider races-angel, azata, demon, oni, psychopomp, protean, and so on-can be chosen as the subtype this spell protects against. Alignment subtypes or other general subtypes (like elemental, extraplanar, or native) cannot be selected. Outsiders without an outsider racial subtype (like genies, night hags, yeth hounds, or xills) are not affected by this spell.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thremindyr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 90
 desc_short: Blustering winds and snow swirl around this white, almost transparent feylike phantom.
 ```
-# Description
+## Description
 Thremindyrs are often mistaken for ghosts or some manner of frozen spirits when spotted in the wild. Although they are not incorporeal, these icy elemental beings are pale and wispy, and are easily overlooked in the wintery outdoors where there is little to contrast with their translucent white bodies. If viewed against a dark backdrop, a thremindyr looks like a long-limbed humanoid. Close up, their features have an inhuman, angular, and almost crystalline quality to them. They sport high cheekbones, upward-slanted eyes, and pointed ears. What might represent hair is a swirling mass of ever-roiling tendrils of mist and snow. Thremindyrs are usually androgynous, but very rarely some thremindyrs sport what appears to be a beard composed of icicles. When agitated, these arctic elementals radiate a flurry of snow in the direction of their attention, especially when they howl and roar. They possess a considerable strength but are ephemeral, like an air elemental. Thremindyrs stand roughly 7 feet tall and weigh no more than 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thremindyr)
 ```encounter-table
 name: Thremindyr

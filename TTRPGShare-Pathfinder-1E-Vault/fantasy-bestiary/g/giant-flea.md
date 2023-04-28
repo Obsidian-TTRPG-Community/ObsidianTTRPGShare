@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Flea
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 99
 desc_short: A hideous, dog-sized flea leaps about on long, gangly legs. The sharp, jagged edges of its jaws greedily clatter for blood.
 ```
-# Description
+## Description
 Much like their smaller cousins, giant fleas are hemophagous insects that live in any kind of environment where they can feed upon blood. These creatures possess surprising agility and strength. Able to leap great distances, they flit about mindlessly, looking for easy prey. A giant flea can go for several months without feeding, but then gorges after such a fast.
 
 A witch can take a giant flea as a familiar. Like all vermin, a giant flea gains 1 point of Intelligence when it becomes a familiar. A giant flea familiar grants its master a +3 bonus on Fortitude saves against disease.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Flea)
 ```encounter-table
 name: Giant Flea

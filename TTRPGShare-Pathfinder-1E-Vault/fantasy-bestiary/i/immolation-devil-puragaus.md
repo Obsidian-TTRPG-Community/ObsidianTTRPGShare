@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Immolation Devil (Puragaus)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 87
 desc_short: Ash and embers encrust the smoldering humanoid frame of this imperious, dragon-winged devil. 
 ```
-# Description
+## Description
 Immolation devils are tyrant warlords and terrifying field generals among Hell’s legions. While many other greater devils manipulate and corrupt subtly and from afar, puragaus surround themselves with lesser diabolical minions, lead interplanar incursions, hold infernal redoubts upon mortal worlds, or strike against any who would defy the will of Hell. 
 
 Immolation devils stand just over 10 feet tall, with wingspans nearing 20 feet, and weigh 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Immolation%20Devil%20(Puragaus))
 ```encounter-table
 name: Immolation Devil (Puragaus)

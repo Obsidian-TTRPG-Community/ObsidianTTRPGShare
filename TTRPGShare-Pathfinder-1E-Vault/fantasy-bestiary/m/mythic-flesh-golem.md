@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Flesh Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: Mythic Adventures
     desc: 201
 ```
-# Description
+## Description
 A mythic flesh golem retains an unnatural level of electrical energy from the process that created it. This grants it limited intelligence, extra strength, and the ability to shock its opponents.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Flesh%20Golem)
 ```encounter-table
 name: Mythic Flesh Golem

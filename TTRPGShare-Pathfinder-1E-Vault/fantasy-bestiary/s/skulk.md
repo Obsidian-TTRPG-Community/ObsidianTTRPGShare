@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skulk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 248
 desc_short: This smooth-skinned, hairless humanoid has penetrating eyes and skin that shifts and changes to mimic his surroundings.
 ```
-# Description
+## Description
 Skulks are a race of cowardly and lazy humanoids that live on the fringes of society, stealing what they need and doing what they must-even committing casual murder-to survive. Their unabashed cowardice is perhaps their most widely known trait, but skulks don’t see themselves as particularly craven. Instead, they view their dishonorable behaviors as the most expedient method of survival. They hate most other humanoids, viewing them as lazy and foolish, and think nothing of sneaking into a home, killing all the residents, and burglarizing what they can carry off without getting caught.
 
 Skulks travel in small groups, rarely forming tribes of more than 16, for in larger groups bickering quickly leads to violent infighting. Murder between skulks is not uncommon, but they understand safety in numbers, and most frown upon treason within a group that is already relatively small, punishing traitors with a quick death. When possible, they set up camps in discreet spots near other settlements, commonly inhabiting sewers, caves, or forests-though their unsavory, murderous tactics often force them to relocate before local law enforcement, quickly alerted to their presence once the remains of a family of victims are discovered, finds them.
 
 Skulks are roughly the same size as a human, averaging 6 feet tall, though they are significantly more gangly and nimble, and commonly weigh only 140 pounds. Skinny arms and legs help them sneak around obstacles and squeeze into narrow spaces. Skulks can live up to 50 years, though most die from violence long before that. Although skulks have racial Hit Dice, they generally advance in power by taking class levels. Rogue is a favorite choice among skulks, for their natural abilities at stealth and sneak attacks fit well with this choice, but they also excel in the roles of clerics, fighters and rangers who specialize in ranged weapons, and rarely as wizards (particularly illusionists).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skulk)
 ```encounter-table
 name: Skulk

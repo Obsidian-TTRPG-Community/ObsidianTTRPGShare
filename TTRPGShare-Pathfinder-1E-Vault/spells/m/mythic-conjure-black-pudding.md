@@ -1,19 +1,21 @@
 ---
-alias: Mythic Conjure Black Pudding
+aliases: [Mythic Conjure Black Pudding]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Conjure Black Pudding
+## Mythic Conjure Black Pudding
 
 **source**:: Mythic Adventures pg. 89  
 **school**:: conjuration (summoning) (acid)
 **level**:: arcanist 6, psychic 6, sorcerer 6, summoner 5, summoner (unchained) 5, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (a flask of acid worth 10 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one summoned black pudding  
@@ -21,7 +23,7 @@ alias: Mythic Conjure Black Pudding
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You summon a black pudding that immediately attacks creatures near it. You have no control over the creature, and it may attack you if there are no more obvious opponents. The black pudding is treated as a summoned creature and has the extraplanar subtype. The black pudding’s split ability works normally, but all puddings derived from the summoned one disappear when the spell ends.
 

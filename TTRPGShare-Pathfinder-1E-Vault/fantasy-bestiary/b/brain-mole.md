@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brain Mole
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 46
 desc_short: This hairless, wrinkly rodent is blue-black in color. Its teeth protrude at all angles from its circular mouth.
 ```
-# Description
+## Description
 Unlike regular moles, which survive on earthworms and other mundane fare, brain moles feed on the psychic energy of other creatures, seeking it out with an addict’s fervor. Whenever a brain mole encounters a likely victim-preferably a spellcaster-it latches on via its toothy, circular mouth, then magically siphons mental energy until the prey either escapes or falls comatose. After draining energy from a foe, a brain mole usually flees rather than staying to fight, and uses its psychic ability to cast expeditious retreat to aid its escape.
 
 Spellcasters of 5th level or higher with an alignment within one step of neutral can gain a brain mole as a familiar by taking the Improved Familiar feat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brain%20Mole)
 ```encounter-table
 name: Brain Mole

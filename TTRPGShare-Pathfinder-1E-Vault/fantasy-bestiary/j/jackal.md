@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jackal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 54
 desc_short: This sandy-colored canine resembles a slender-bodied wolf with short, graceful legs. It watches with dark brown eyes.
 ```
-# Description
+## Description
 Jackals are usually encountered alone or as a mated pair, but sometimes they associate for a time with a small pack composed of two parents and their adult offspring, with the offspring serving a deferential support role to their parents. Although considered craven and foul by humans, jackals are relatively friendly and gentle with members of their own small packs.
 
 Attracted to the edges of human settlements in their territory, jackals often make opportunistic raids on fruit crops and vulnerable domesticated animals. They’re also attracted to large deposits of garbage that they can sift through for leftover food. Jackals are remarkably adaptable, and readily forage for insects or fruit, feed on found carcasses, or hunt small or vulnerable game as the opportunity presents itself.
 
 Jackals are notorious for their craftiness in evading pursuit, and they’ve been known to feign death when caught in order to lull opponents into complacency and gain another chance to escape. A jackal can attempt a Bluff check opposed by its opponent’s Sense Motive check to play dead. If successful, after combat ends, the jackal can begin a new encounter with surprise. During the surprise round, only the jackal and any opponents who succeeded on their Sense Motive checks can act.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jackal)
 ```encounter-table
 name: Jackal

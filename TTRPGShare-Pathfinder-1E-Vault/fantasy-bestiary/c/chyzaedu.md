@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chyzaedu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 14
 desc_short: The massive, wormlike form of this eyeless, beaked beast is draped in shimmering metallic vestments.
 ```
-# Description
+## Description
 Chyzaedu resemble massive pale earthworms, save that each has a hard beaks at one end and a knot of short tentacles at the other. Their bodies are extremely flexible and ringed with powerful muscles. Chyzaedu have very efficient, well-developed digestive systems, allowing them to ingest a wide variety of materials, although they prefer to eat sentient creatures in order to share the religious experience of consumption.
 
 Chyzaedu have a ring of tiny eyes around their beaklike maws, mostly hidden by the folds of their skin. These eyes are particularly keen and can dilate to allow the creature excellent night vision. Their eyes are supplemented by the lumpy and irregularly sized parietal eyes that line the area just behind their beaks; these serve as supplemental sensory organs, pinpointing the location of other nearby creatures in contact with the ground. The cloaca at the end of a chyzaedu’s body is ringed by five flexible, ridged tentacles, which can wind together to form a clawlike appendage. A chyzaedu has significant control over this appendage and can use it to grasp items, manipulate devices, or cast spells with somatic components.
@@ -89,7 +91,7 @@ Chyzaedu drape themselves with vestments of a flexible metallic fiber akin to mi
 Unlike most races of the Dominion, chyzaedu have a keen interest in Golarion and make occasional expeditions to the planet. Chyzaedu share a myth similar to the Casmar legend of the Star-Worm-it tells of an interstellar monster that crashed on Golarion eons ago and gave birth to the first purple worms. Chyzaedu track and study purple worms and their variants (in particular, the colossal crimson worms of the Storval Plateau). Some chyzaedu view purple worms as enlightened brutes, devoid of intellect but wholly overwhelmed by the religious fervor of consumption. Other chyzaedu see purple worms as little more than breeding stock, but hope to use them to enhance future generations of their race. The worm-priests find the diverse panoply of deities worshipped on Golarion to be confusing and unnecessary, and are particularly offended by the worship of Rovagug-the Rough Beast’s theology of destruction wholly devoid of purpose smacks of apostasy.
 
 Chyzaedu measure of 60 feet in length on average and weigh approximately 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chyzaedu)
 ```encounter-table
 name: Chyzaedu

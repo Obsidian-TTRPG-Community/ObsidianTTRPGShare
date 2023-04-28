@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Turul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 256
 desc_short: Flickers of light and energy radiate from this awe-inspiring, birdlike creature.
 ```
-# Description
+## Description
 There is a common myth among many far-f lung tribes of a great and regal bird who comes sometimes with prophecy and other times as a savior for a great hero. These majestic creatures are both stern and benevolent, using their power to scatter a tribe’s foes or to herald great eras of prosperity. To benefit from the being’s attention, the leaders of the tribe must acquiesce to the bird’s demands, which typically include accomplishing some difficult quest to which the bird’s enigmatic prophecies allude. While sometimes these radiant messengers are phoenixes, occasionally they are a rarer sort of prophet- majestic birdlike creatures from the Positive Energy Plane known as turuls.
 
  Turuls often treat the Material Plane as a hunting ground, where they might feed upon wild beasts or hunt undead and other creatures that wantonly spread mayhem. Such hunters keep to themselves, avoiding other creatures, but other turuls take a more active role with peaceful, intelligent creatures. While a few turuls go so far as to portray themselves as deities, granting protection and healing in return for worship, most of these magnificent outsiders watch from a distance, treating their chosen tribe more like pets, meddling only when their favorites are threatened or in the midst of dire circumstances.
@@ -86,7 +88,7 @@ There is a common myth among many far-f lung tribes of a great and regal bird wh
  Part of turuls’ legendary moodiness stems from the same myths for which they’re best known-those wherein they bring prophecies of light and peace. On some Material Plane worlds, such tales are so pervasive that mortal heroes go as far as venturing to the Positive Energy Plane to seek blessings and wisdom from turuls. The great avians have little patience for those who presume upon their occasional benevolence. Not only that, but a turul’s prophecies are not merely boons to be meted out. Rather, their promises of peace and prosperity typically come about via changes they’ve affected using their own considerable power, or as inevitabilities they’ve had the foresight to predict. In the rarest of cases, some turuls claim to have communed with the power of the deepest Positive Energy Plane and that they serve as messengers of that mysterious cosmic will. Whether or not such is true few can know, but that possibility has certainly inf luenced the greatest variety of mortal myths regarding turuls.
 
  Gigantic in stature, turuls stand nearly 30 feet tall and have a wingspan of almost 50 feet. They weigh upwards of 15 tons. While they reside on the Positive Energy Plane, turuls are effectively immortal. They age only when traveling from their home plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Turul)
 ```encounter-table
 name: Turul

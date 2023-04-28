@@ -1,25 +1,27 @@
 ---
-alias: Harrowing, Greater
+aliases: [Harrowing, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Harrowing, Greater 
+## Harrowing, Greater
 
 **source**:: The Harrow Handbook pg. 9  
 **school**:: divination
 **level**:: arcanist 6, bard 5, skald 5, sorcerer 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (a harrow deck)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature, plus one additional creature for every 3 caster levels  
 **duration**:: 1 day/level or until fulfilled
 
-### Description 
+### Description
 
 This spell functions as *harrowing*, except it can affect an entire group of creatures and allows its subjects some measure of control over their destiny. Subjects of a *greater harrowing* spell record and spend their accumulated bonuses and penalties individually, according to their own alignment.  
   

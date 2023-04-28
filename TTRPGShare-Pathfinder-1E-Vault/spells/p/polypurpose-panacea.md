@@ -1,25 +1,27 @@
 ---
-alias: Polypurpose Panacea
+aliases: [Polypurpose Panacea]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Polypurpose Panacea 
+## Polypurpose Panacea
 
 **source**:: Ultimate Magic pg. 232  
 **school**:: transmutation
 **level**:: alchemist 1, arcanist 1, investigator 1, mesmerist 1, psychic 1, redmantisassassin 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: see below
 
-### Description 
+### Description
 
 This creates one of several cantrip-level effects relating to your health, well-being, and entertainment. The panacea has no side effects (for example, the intoxication panacea does not cause a hangover). When you use *polypurpose panacea*, choose one of the following effects.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Enlightened Construct Clockwork Soldier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 40
 desc_short: This armored clockwork being moves with an uncanny intentionality, patiently evaluating the situation.
 ```
-# Description
+## Description
 Infused with powerful psychic energy, enlightened constructs have access to strange and deadly mental powers. Highly intelligent and secretive, these constructs typically serve as henchmen to powerful psychics or sorcerous cabals.
 
  The sample enlightened construct above uses a clockwork soldier as the base creature. See that entry for full descriptions of its base abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Enlightened%20Construct%20Clockwork%20Soldier)
 ```encounter-table
 name: Enlightened Construct Clockwork Soldier

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wet-House Emissary
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 31
 desc_short: Swathed in striking turquoise robes, this gillwoman has a cold, appraising stare.
 ```
-# Description
+## Description
 The distinctive ambassadors of Escadar’s House of the Cresting Wave-the gillman embassy colloquially known as the Wet-House-serve as the Low Azlanti’s most public face to the surface world, as well as the agents most likely to involve themselves in surface politics. Training from childhood in areas ranging from history and heraldry to swordplay and alchemy, these gillmen are expected to solve any and all problems they uncover, both on the city’s behalf and for their people’s betterment. Wet-House emissaries see themselves as the last true bastion of Azlanti culture and wisdom, and stoically shoulder the burden of educating other humans while protecting them from the danger of knowing too much.
 
 The vast majority of an emissary’s time is spent handling the complaints and inquiries of land dwellers. They negotiate trade agreements, organize salvage operations and undersea expeditions, and connect human diplomats and scholars with other skilled Low Azlanti. But when the need arises, an emissary transforms into a spy, provocateur, or saboteur capable of facing incredible threats, undermining overly curious surface dwellers, and retrieving Azlanti artifacts never meant for the clumsy hands of non-Azlanti humans. Most walk a fine line, gathering agents and contacts to assist them while keeping their underlings forever ignorant of their true goals.
 
 With the whole ocean as a resource, emissaries excel at distracting those who would investigate the Low Azlanti too closely with strange new challenges. They possess an almost endless supply of sea-creature venoms, aquatic beasts that boggle description, and secret magic lost below the waves for centuries. With access to all manner of twisting, secluded hideaways, these gillmen can lead the overly curious into undertaking convoluted quests while the Low Azlanti accomplish their real objectives. Victims who survive the emissaries’ poisons or monster attacks may look forward to a short, desperate future spent trapped in lightless sea caves unseen by landwalkers’ eyes for 10,000 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wet-House%20Emissary)
 ```encounter-table
 name: Wet-House Emissary

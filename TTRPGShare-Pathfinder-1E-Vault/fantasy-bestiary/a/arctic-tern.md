@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arctic Tern
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 10
 desc_short: This white-and-gray bird has a reddish-orange beak.
 ```
-# Description
+## Description
 These migratory birds are agile and graceful flyers that hunt fish and marine invertebrates. Arctic terns mate for life and build their nests on the ground.
 
  Arctic terns are about 1 foot long and weigh about half a pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Arctic%20Tern)
 ```encounter-table
 name: Arctic Tern

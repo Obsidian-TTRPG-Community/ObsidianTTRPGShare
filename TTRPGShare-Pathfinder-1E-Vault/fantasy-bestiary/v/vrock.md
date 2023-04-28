@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vrock
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 69
 desc_short: A cloud of spores and a trail of feathers surrounds this twisted cross between a man and a gigantic vulture.
 ```
-# Description
+## Description
 Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of that despicable realm. As ravenous and grotesquely opportunistic as the scavengers they resemble, vrocks delight in bloodshed, relishing the sounds and sensations of ripping the still-pulsing entrails from a living husk.
 
 A typical vrock stands 8 feet tall and weighs 400 pounds. Vrocks generally form from the evil souls of hateful and wrathful mortals, particularly those who were career criminals, mercenaries, or assassins.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vrock)
 ```encounter-table
 name: Vrock

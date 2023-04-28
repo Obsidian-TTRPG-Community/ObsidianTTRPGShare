@@ -1,19 +1,21 @@
 ---
-alias: Mythic Spike Stones
+aliases: [Mythic Spike Stones]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Spike Stones
+## Mythic Spike Stones
 
 **source**:: Mythic Adventures pg. 109  
 **school**:: transmutation (earth)
 **level**:: druid 4, hunter 4, shaman 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: one 20-ft. square/level  
@@ -21,7 +23,7 @@ alias: Mythic Spike Stones
 **saving-throw**:: Reflex partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Rocky ground, stone floors, and similar surfaces shape themselves into long, sharp points that blend into the background.  
   

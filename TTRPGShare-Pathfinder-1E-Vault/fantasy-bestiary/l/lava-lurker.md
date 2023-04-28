@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lava Lurker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 155
 desc_short: Spatters of magma sear everything that comes near this vaguely humanoid mass of endlessly melting and reforming rock.
 ```
-# Description
+## Description
 Territorial swimmers through the molten veins that crisscross the hottest depths of mortal worlds and the Elemental Plane of Earth, lava lurkers claim active magma flows and the fiery lakes within smoldering volcanoes as their homes. Most are content to stay within such burning depths, threatening only those foolish enough to wander close to such obviously deadly natural hazards. But occasionally, during volcanic eruptions or other explosive geological events, lava lurkers are forced from their comfortable homes, becoming unwilling riders on blazing rapids. While these disasters rarely threaten lava lurkers’ elemental forms, they do often force the creatures into-or worse, strand them in-areas they find uncomfortably cool.
 
 Dull-witted lava lurkers eagerly sow fires and throw magma as they wander semi-aimlessly, doing what they can to create more comfortable surroundings or seeking other nearby warm places-like furnaces or bonfires-as they try to find their way back to active volcanic flows. They care little for non-elemental creatures, being baffled and annoyed by the shrill noises such creatures make when they’re exposed to even the slightest fleck of molten rock.
 
 Though lava lurkers live in earth and flame, they die with a chilling inward gasp. If slain, the final surge of a lava lurker’s animating fires consumes the nearby air, creating a momentary vacuum that extinguishes surrounding flames. This instantly transforms a lava lurker’s body into a perfectly cool hunk of rock and often quells lesser flames nearby, if only temporarily.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lava%20Lurker)
 ```encounter-table
 name: Lava Lurker

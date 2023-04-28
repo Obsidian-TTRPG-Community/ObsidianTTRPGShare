@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Keeper of the Yellow Sign
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 88
 desc_short: This black-clad figure has a pale, puffy face from which its yellow-irised eyes glare with equal parts intensity and insanity.
 ```
-# Description
+## Description
 A keeper of the Yellow Sign is the undead form of a cultist of Hastur who willingly sacrificed his soul to rise as his god’s servant after death. A quiet but relentless champion of the Unspeakable One, a keeper brings anxiety and woe to the lives of any infidel who comes too close to the secrets of its master. Like a vampire, a keeper can easily pass for a living human, if it so wishes, although it tends to have a pale, unhealthy look and a swollen face that can give away its true nature to those who know what to look for. Feeble and sluggish in the sunlight, a keeper can easily be mistaken for a sickly vagrant or even a leper if seen in the open during the day. In the darkness, however, a keeper grows supernaturally strong and attentive, and its eyes glow with a malignant, yellow luminescence.
 
 A keeper’s primary purpose is to haunt and persecute unbelievers who witness the Yellow Sign or, worse, have a document or item that bears the dreaded symbol, such as a copy of The King in Yellow or another artifact of Hastur’s cult. Against these favored victims, the keeper uses dream to create a sense of anticipation and awareness of its victim’s forthcoming doom. Although a keeper’s actions are mainly motivated by a sadistic eagerness to spread pain and misery, the creature can also perform special duties on behalf of a cleric of Hastur, such as slaying her personal enemies or harassing cultists she considers unworthy. These monsters also have an odd, morbid attraction for art in all its forms, favoring bizarre and decadent creations. Since a keeper’s energy drain ability can cause its own destruction, one interested in prolonging its own existence uses its touch attack sparingly. Typically, a keeper switches to touch attacks when it faces heavily armored adversaries otherwise difficult to hit, when it is reduced to half hit points (and therefore already facing destruction), or when it simply feels the urge to “taste” the energy of a victim, usually one with artistic talent (such as anyone who demonstrates particular skill in the areas of Craft or Perform).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Keeper%20of%20the%20Yellow%20Sign)
 ```encounter-table
 name: Keeper of the Yellow Sign

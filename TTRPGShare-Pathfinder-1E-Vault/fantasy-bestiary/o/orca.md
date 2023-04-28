@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orca
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 88
 desc_short: This sleek black whale has a distinctive white patch near each eye and a mouth filled with sharp teeth.
 ```
-# Description
+## Description
 The orca, or “killer whale,” is actually the largest species of dolphin. Adult orcas are typically 15-25 feet long and weigh 8,000-12,000 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orca)
 ```encounter-table
 name: Orca

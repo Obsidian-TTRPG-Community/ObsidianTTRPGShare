@@ -1,25 +1,27 @@
 ---
-alias: Mythic Elemental Body III
+aliases: [Mythic Elemental Body III]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Elemental Body III
+## Mythic Elemental Body III
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, arcanist 6, investigator 6, magus 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (the element you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level
 
-### Description 
+### Description
 
 This spell functions as *elemental body II*, except that it also allows you to assume the form of a Large air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form.  
   

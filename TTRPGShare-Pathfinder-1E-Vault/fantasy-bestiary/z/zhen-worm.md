@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zhen Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 63
 desc_short: Barely thicker than hempen rope, this orange-banded worm stretches many feet in length.
 ```
-# Description
+## Description
 The blind and mindless zhen worms thrive in warm, wet environments such as the Gorum Pots of Numeria. Cold disrupts their tremorsense, and they cannot burrow through rocky soil, so the worms do not roam far from their geothermal baths.
 
 Though rarely thicker than an inch in diameter, zhen worms reach up to 10 feet in length and weigh up to 20 pounds. The orange bands along their sides react to tremors and vibration, providing their only means of perceiving the environment around them. Zhen worms hunt by lying unseen beneath mud or water, waiting for prey to approach close enough to attack. Zhen worms normally restrict themselves to modest prey such as rodents and lizards, but a hungry worm may attack Small or even Medium prey.
 
 A zhen worm has no mouth or digestive tract. Instead, it absorbs nutrients and secretes waste through thousands of tiny orifices along its body. The mucus coating its body slowly dissolves organic matter. Over a matter of days, a zhen worm wrapped around a corpse reduces it to nothing but bones and a foul-smelling slurry.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zhen%20Worm)
 ```encounter-table
 name: Zhen Worm

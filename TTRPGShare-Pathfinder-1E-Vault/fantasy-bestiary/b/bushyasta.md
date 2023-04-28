@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bushyasta
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 248
 desc_short: This gaunt figure has ashy yellow skin and a strange, feathered mask covering most of her face, save for her wide, fang-filled mouth.
 ```
-# Description
+## Description
 Preying upon the fruitful and industrious, bushyastas are agents of sloth and laziness. They promote shiftless behavior and try to lull people to sleep so that they can’t achieve their goals. Keeping mortals from productive toil is a bushyasta’s driving purpose.
 
  Bushyastas often haunt construction sites, especially those of places of civil or religious importance, and particularly savor disrupting creations that would be a focus of pride and glory for a community.
 
  All divs have some manner of esoteric flaw in their behavior; bushyastas’ is hate for and avoidance of perfumed odors. These fiends loathe anyone wearing perfume or carrying aromatic flowers. Bushyastas’ abhorrence of fragrant scents led to a custom of perfuming the dead in order to keep these divs away from funeral services.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bushyasta)
 ```encounter-table
 name: Bushyasta

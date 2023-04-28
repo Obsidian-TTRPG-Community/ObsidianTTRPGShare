@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Etioling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
     desc: 88
 desc_short: Glowing veins of green creep across the flesh of this pale, spasming gnome. Stifled giggles escape her rictus grin.
 ```
-# Description
+## Description
 Perhaps the most miserable of the mortics-humanoids infused with necrotic energy-etiolings are born from gnomes who have already begun to suffer from the Bleaching. The burst of negative energy into their living flesh twists the process and awakens connections to the First World and long-lost fey magic, leaving the surviving creature ethereal, manic, and overflowing with the vital essence of fey. While they resemble bleachling gnomes, veins of primal, First World energy pump beneath an etioling’s pale flesh. Occasional pulses of unchecked energy crackle across their flesh and hair.
 
  Their transformation is hardly one of redemption. An etioling’s touch decays living flesh to fuel the supernatural furnace that rages inside them, and their bodies shake uncontrollably as the churn of primordial magic and negative energy causes tremors and muscle spasms. Focusing for more than a few moments becomes impossible, and etiolings become creatures of instinct and impulse, acting on vague memories and emotional connections. Like ghosts, they stick for days or weeks into a routine, reliving some pivotal memory and assigning familiar identities to new people they meet. Etiolings suspend not only their living functions but also their physical connection to the living world, becoming ethereal when they hold their breath.
 
  An etioling stands between 2 and 3 feet tall and weighs about 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Etioling)
 ```encounter-table
 name: Etioling

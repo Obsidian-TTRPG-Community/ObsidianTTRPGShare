@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin Sergeant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: Monster Codex
     desc: 118
 ```
-# Description
+## Description
 Sergeants are versatile warriors; they’re capable of engaging in battle up close or at range, and smart and tough enough to lead the army’s rank-and-file troops.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin%20Sergeant)
 ```encounter-table
 name: Hobgoblin Sergeant

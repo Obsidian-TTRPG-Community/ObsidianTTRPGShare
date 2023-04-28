@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpentfolk Spellblade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
   - name: Monster Codex
     desc: 206
 ```
-# Description
+## Description
 Spellblades mix the brute power of degenerate serpentfolk with the skill and magic of purecastes. An enigma even among their own kind, spellblades are respected by all.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpentfolk%20Spellblade)
 ```encounter-table
 name: Serpentfolk Spellblade

@@ -1,25 +1,27 @@
 ---
-alias: Mythic Vomit Twin
+aliases: [Mythic Vomit Twin]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Vomit Twin
+## Mythic Vomit Twin
 
 **source**:: Mythic Adventures pg. 111  
 **school**:: conjuration (creation, teleportation)
 **level**:: alchemist 3, arcanist 4, investigator 3, magus 3, psychic 4, sorcerer 4, summoner 3, summoner (unchained) 3, wizard 4 (goblin)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **effect**:: creates one ooze duplicate of the caster  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square. As long as the twin exists, whenever you take a move action to move, the twin can move as well, although it does not need to follow you and cannot take any other actions. On subsequent rounds, at the start of your turn, you can instantaneously exchange places with your twin, as if using *teleport*. This is not an action and does not provoke an attack of opportunity.  
   

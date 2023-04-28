@@ -1,19 +1,21 @@
 ---
-alias: Astral Projection
+aliases: [Astral Projection]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Astral Projection 
+## Astral Projection
 
 **source**:: PRPG Core Rulebook pg. 244  
 **school**:: necromancy
 **level**:: arcanist 9, cleric 9, oracle 9, psychic 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 30 minutes  
 **components**:: V, S, M (1,000 gp jacinth)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you plus one additional willing creature touched per two caster levels  
@@ -21,7 +23,7 @@ alias: Astral Projection
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 By freeing your spirit from your physical body, this spell allows you to project an astral body onto another plane altogether. You can bring the astral forms of other willing creatures with you, provided that these subjects are linked in a circle with you at the time of the casting. These fellow travelers are dependent upon you and must accompany you at all times. If something happens to you during the journey, your companions are stranded wherever you left them.  
   
@@ -32,4 +34,3 @@ While you are on the Astral Plane, your astral body is connected at all times to
 You and your companions may travel through the Astral Plane indefinitely. Your bodies simply wait behind in a state of suspended animation until you choose to return your spirits to them. The spell lasts until you desire to end it, or until it is terminated by some outside means, such as *dispel magic* cast upon either the physical body or the astral form, the breaking of the silver cord, or the destruction of your body back on the Material Plane (which kills you).  
   
 When this spell ends, your astral body and all of its gear, vanishes.
-

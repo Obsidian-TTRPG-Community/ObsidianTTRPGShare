@@ -1,19 +1,21 @@
 ---
-alias: Telepathic Bond
+aliases: [Telepathic Bond]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Telepathic Bond 
+## Telepathic Bond
 
 **source**:: PRPG Core Rulebook pg. 358  
 **school**:: divination
 **level**:: arcanist 5, inquisitor 5, medium 4, mesmerist 4, psychic 4, sorcerer 5, spiritualist 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (two eggshells from two different creatures)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: you plus one willing creature per three levels, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Telepathic Bond
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You forge a telepathic bond among yourself and a number of willing creatures, each of which must have an Intelligence score of 3 or higher. Each creature included in the link is linked to all the others. The creatures can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).  
   

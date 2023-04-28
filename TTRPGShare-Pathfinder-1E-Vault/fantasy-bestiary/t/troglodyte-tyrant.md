@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troglodyte Tyrant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: Monster Codex
     desc: 219
 ```
-# Description
+## Description
 Troglodyte tyrants come from the enlightened troglodytes who live far deeper underground than common troglodytes. Stronger, more intelligent, and longer-lived than their degenerate kin, they find it easy to assert dominance over tribes of normal troglodytes. Warlike in the extreme, tyrants are seasoned veterans of numerous military campaigns and they are expert tacticians, willing to sacrifice large numbers of troglodyte warriors to probe an enemy’s strengths and weaknesses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troglodyte%20Tyrant)
 ```encounter-table
 name: Troglodyte Tyrant

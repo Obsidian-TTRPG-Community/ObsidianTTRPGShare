@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kawa Akago
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 149
 desc_short: This combination of a lily pad and a f lytrap is ringed with horrifying fangs and has another tiny, toothy maw at its center.
 ```
-# Description
+## Description
 Kawa akagos are plants that were spiritually fertilized by fragments of the restless spirits of drowned children, becoming carnivorous creatures that inhabit marshes and riversides. They resemble lily pads with a mouthlike opening guarded by fibrous strands like those of a f lytrap plant. A kawa akago’s gourdlike skin ranges from maroon to crimson when it is well fed, but more often, creatures encounter a kawa akago when it is hungry. In this case, it instead takes on the same hue as other lilypads in the area, usually an innocuous green.
 
  Carnivorous and cunning, kawa akagos hunt riverbanks and waterways for both animals and travelers on which to feed. Kawa akagos’ thorn-tipped fangs excrete a paininducing sap that mimics the feeling of intense, burning heat. Though they prefer to fight in water, kawa akagos usually ambush from land, using their dangerous sap to drive would-be prey toward the nearby rivers or streams that will soothe the painful effects of their fangs. Once the victim immerses itself, the plant creatures swarm their target if attacking in numbers, or a single plant strikes from the depths to wear down the victim. Although a kawa akago has no respiratory system, it’s body is rife with pockets it can fill with air and expel as necessary. This network of hollow chambers allows the creature to speak on the rare occasions it wishes to communicate, and is the source of the creature’s terrible wail, which is capable of breaking bones and shattering glass. The sound is often described as similar to the simultaneous mournful cries of a dozen children in serious distress.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kawa%20Akago)
 ```encounter-table
 name: Kawa Akago

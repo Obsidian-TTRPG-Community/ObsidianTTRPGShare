@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forlarren
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 125
 desc_short: This humanoid creature has the legs of a bald goat, a completely hairless body, and a horned head with a sinister expression.
 ```
-# Description
+## Description
 A nymph’s charm and beauty are such that she can seduce nearly any creature that she sets her attentions on-and often, unfortunately, creatures she would rather not consort with. When a nymph catches the attention of a fiend and the fiend takes advantage of the creature, the resulting offspring is not always a half-fiend. Roughly one in 20 such incidents results instead in a strange creature known as a forlarren-a unique creature that possesses its own unusual abilities and qualities.
 
 Few nymphs survive the ordeal of giving birth to a forlarren-those who do might attempt to raise their children in loving environments, but the evil that lurks in a forlarren’s soul is powerful. In most cases where a nymph attempts to raise a forlarren child, it’s only a matter of time before the forlarren grows resentful and its evil nature compels it to murder its mother.
@@ -62,7 +64,7 @@ The forlarren attacks with its clawed hands, typically focusing on a single oppo
 The majority of forlarrens inherit little in the way of the magical abilities possessed by their fey mothers, but they do gain a small measure of the powers of their fiendish fathers. In most cases, this manifests as the ability to use heat metal three times per day, but some forlarren instead gain a different spell-like ability chosen from the following list: chill metal, flame blade, flaming sphere, gust of wind, summon swarm, or warp wood.
 
 A forlarren stands 6 feet tall and weighs about 160 pounds. In theory, these creatures can live for hundreds of years, but most perish through violence before they turn 10.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forlarren)
 ```encounter-table
 name: Forlarren

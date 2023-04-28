@@ -1,19 +1,21 @@
 ---
-alias: Charitable Impulse
+aliases: [Charitable Impulse]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Charitable Impulse 
+## Charitable Impulse
 
 **source**:: Chronicle of the Righteous pg. 50  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 3, bard 2, cleric 3, oracle 3, skald 2, sorcerer 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (a miniature collection plate)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one humanoid creature  
@@ -21,7 +23,7 @@ alias: Charitable Impulse
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell makes a creature more charitable, compelling it to aid others rather than use violence. An affected creature practices nonviolent combat behaviors according to the following list of priorities, beginning with the first priority. The subject continues to perform a priority until he can no longer fulfill its demands (at which point he moves to the next priority) or until the spell ends, whichever comes first.  
   

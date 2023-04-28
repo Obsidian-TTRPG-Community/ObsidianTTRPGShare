@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Possession Devil, Greater (Gidim)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
   - name: Pathfinder No. 29: Mother of Flies
     desc: 83
 ```
-# Description
+## Description
 Diabolically clever and immortally creative, the legions of Hell use all the tools at their disposal to undermine and corrupt the souls of mortalkind. Among these tools are the souls of unabashedly depraved and hateful mortals sentenced to Hell in punishment for lives of sin. The foulest of these souls occasionally find themselves plucked from their torments and reforged in infernal crucibles, etched with bindings of hellish magic, then set loose upon the living. These evil souls bear many of the powers of devils, but fall outside the normal infernal hierarchies, not being considered true devils by their fiendish peers. Rather, they are gidims, Hell-bound souls made weapons of the Pit. 
 
  More than mere souls yet less than fiends, gidims find themselves barred from the mortal plane by the laws of existence. Their minds and memories linger on half-forgotten lives, however, and upon emotions and sensations long lost to fiends. Thus, they endlessly seek ways to infiltrate the paths of the living. Traveling to the Ethereal Plane, they peer into the Material Plane, seeking out hapless mortals and drawing power from their hatred, their violence, their sorrow, and especially their fears. Continued feeding upon and encouragement of such emotions grants them greater ability to invade the mortal realm and potentially steal new bodies, through which their foulness might live again.
 
  Two breeds of gidim exist, lesser possession devils and greater. Both appear nearly identical, but greater possession devils are created from spirits of extraordinary, near-legendary evil beings. These foulest of souls are granted even more powerful diabolical abilities and are often loosed by their infernal masters to torment, unhinge, and ultimately destroy the mortal enemies of Hell. Lesser possession devils are typically left to their own devices, using their abilities to sow fear, torment innocents, spread mistrust, and ruin lives.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Possession%20Devil%2C%20Greater%20(Gidim))
 ```encounter-table
 name: Possession Devil, Greater (Gidim)

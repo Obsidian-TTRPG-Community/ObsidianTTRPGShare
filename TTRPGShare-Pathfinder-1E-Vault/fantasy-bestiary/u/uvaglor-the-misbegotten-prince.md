@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Uvaglor, the Misbegotten Prince
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,7 +83,7 @@ sources:
     desc: 62
 desc_short: This vulture-headed demon has crimson wings and a baleful third eye in his forehead. He is clad in lengths of chain and metal plates, and carries a cruel-looking sword in one hand and a glowing sphere of violet crystal in the other.
 ```
-# Description
+## Description
 In the ancient past, long before the rise of Azlant, during the near-mythical era known to scholars as the Age of Creation, two powerful demons met for the first time and descended to a world in the Material Plane to enjoy a short-lived but violently ardent dalliance in the mortal realm. The planet itself heaved and buckled before their blasphemous passions, thrusting upward to create a rasp-like ridge. The result of this vile union quickened much more quickly than a normal pregnancy, and the spawn of the two demons was birthed even as they continued their frolic. When the demons left the world, they left behind a landscape scarred by their coupling, and a just-whelped fiend of tremendous power and potential that slithered into a deep cave in the ridge to hide and grow.
 
 Certain rare texts on demonology maintain that these two demons were none other than Lamashtu and Pazuzu, and that not long after their meeting their lusts turned to hatred. Today, there is no greater enmity in all the Abyss than the hostility between those two demon lords, and both of their cults deny vehemently that such an encounter as described above could ever have taken place.
@@ -91,7 +93,7 @@ And yet, the spawn of that union lived and grew, and in the Age of Anguish it em
 Uvaglor lives on still, but only recently managed to escape from the nameless prison to return to the Abyss. After gathering his power, he has turned his attention once again to the site of his conception-the Lost Coast of Varisia, formed when the land west of the Rasp fell into the sea. Already he has installed several of his agents, including a mysterious mothman priest known as the Red Bishop, but his actions have attracted the attention of others who would rule this region, and this time, greater eyes than those of mortals look down upon this building conf lict. Lamashtu and Pazuzu’s interest in the region cannot be denied, and their unknown ultimate plans, as well as Uvaglor’s recent secret arrival in the region, portend dark times indeed.
 
 Uvaglor prefers offerings of fine art depicting imagery of Ashava, or of clerics of that empyreal lord-works of art the vrock enjoys befouling and destroying in increasingly creative methods. It’s a DC 30 check to research the Misbegotten Prince.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Uvaglor%2C%20the%20Misbegotten%20Prince)
 ```encounter-table
 name: Uvaglor, the Misbegotten Prince

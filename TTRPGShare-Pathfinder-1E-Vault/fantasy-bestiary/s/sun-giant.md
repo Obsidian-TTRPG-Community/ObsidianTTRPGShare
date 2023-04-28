@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sun Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 123
 desc_short: This giant has the arms and armor of an ancient warrior. Her golden skin and flame-colored hair amplify the light around her.
 ```
-# Description
+## Description
 Sun giants view themselves as soldiers in an eternal war against the forces of darkness and shadow. In ancient days, sun giants were a benevolent people, fighting for the good of all living things. Over time, the majority of sun giants have become selfish, demanding tribute and even blood sacrifices in exchange for the protection they provide, ruling by might and opposed by those few brave and benevolent souls willing to take to the shadows to fight for freedom. Many evil sun giants pay homage to demon lords of the sun and warfare.
 
  Sun giants hold vicious hatred for creatures of pure darkness and denizens of the Plane of Shadow, and they exterminate owbs in particular whenever possible.
 
  Though they live for centuries, sun giants are blessed with eternally youthful appearances, a blessing that remains even for those who become selfish and corrupt. They tower over 25 feet tall and weigh roughly 18,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sun%20Giant)
 ```encounter-table
 name: Sun Giant

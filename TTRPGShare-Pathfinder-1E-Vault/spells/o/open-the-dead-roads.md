@@ -1,19 +1,21 @@
 ---
-alias: Open the Dead Roads
+aliases: [Open the Dead Roads]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Open the Dead Roads 
+## Open the Dead Roads
 
 **source**:: Pathfinder \#143: Borne by the Sun's Grace pg. 78  
 **school**:: conjuration
 **level**:: cleric 6, oracle 6, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: up to one touched creature/level  
@@ -21,7 +23,7 @@ alias: Open the Dead Roads
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 To cast open the Dead Roads, you must be in an area of fog or dim light. Upon completion of the spell, swirling mists part and deposit you and any creatures you touched on a nearby stretch of the Dead Roads, a network of extraplanar roadways. You can take up to one creature per level, but all targets must be touching each other. You must specify a location known to you or one of your travelers as your destination when casting this spell.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Runewarped Gobline
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 86
 desc_short: This pale, emaciated goblin has a ravenous look on its face. Its thin limbs are unusually long and bend in an unsettling manner.
 ```
-# Description
+## Description
 Before Alaznist created the first sinspawn through the use of her runewell, she experimented with several techniques to create sin-twisted servants. One foundation of the complex magical technique used to create sinspawn was known as runewarping. Through the use of runewarping, Alaznist and other powerful mages created horribly twisted creatures from their slaves and prisoners. These creators valued ability over aesthetics, so runewarped creatures were transformed by powerful magic into horrid mockeries of their previous forms. Runewarped creatures seek out sources of magic to consume, trying in vain to complete their transformation. Although a runewarped creature is recognizable as the creature it once was, the creature bears altered or additional limb joints, elongated fingers, and a massive jaw capable of delivering a powerful bite.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Runewarped%20Gobline)
 ```encounter-table
 name: Runewarped Gobline

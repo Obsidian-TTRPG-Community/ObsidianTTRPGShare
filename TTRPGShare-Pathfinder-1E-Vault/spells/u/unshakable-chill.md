@@ -1,19 +1,21 @@
 ---
-alias: Unshakable Chill
+aliases: [Unshakable Chill]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Unshakable Chill 
+## Unshakable Chill
 
 **source**:: Ultimate Magic pg. 246  
 **school**:: necromancy (cold)
 **level**:: arcanist 2, bloodrager 2, druid 2, hunter 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,11 +23,11 @@ alias: Unshakable Chill
 **saving-throw**:: Fortitude negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 The target is filled with an unshakable chill for the duration of the spell, and suffers from the effects of severe cold (*Core Rulebook* 442). Severe cold means if the initial saving throw fails, the target takes 1d6 points of nonlethal cold damage and must save every 10 minutes (using the DC of severe cold instead of this spell’s DC) or take additional damage.
 
-## Mythic Unshakable Chill 
+## Mythic Unshakable Chill
 
 **source**:: Mythic Adventures pg. 110  
 On a failed save, the target immediately takes 1d6 points of nonlethal cold damage per tier. Add your tier to the DC of any other Fortitude saves the target attempts to resist severe cold as part of the spell’s effects. The target also takes a -4 penalty on saves against spells or effects with the cold descriptor.  

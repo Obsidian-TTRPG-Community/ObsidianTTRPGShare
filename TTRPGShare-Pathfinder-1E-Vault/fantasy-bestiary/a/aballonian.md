@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aballonian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 58
 desc_short: This insectile construct skitters around on metallic legs, its manipulators clacking and glowing eyes searching.
 ```
-# Description
+## Description
 Aballonians are intelligent, self-modifying constructs. The stat block presented here represents only the most basic type found on Aballon, with much larger or smaller variants taking the form of gargantuan excavators, gliding solar-powered flyers, ribbonlike serpent creatures, disembodied processor intelligences, or stranger designs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aballonian)
 ```encounter-table
 name: Aballonian

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Phantom Fungus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,7 +48,7 @@ sources:
     desc: 219
 desc_short: Portions of this three-stalked fungoid monster’s body seem to fade in and out of sight. A large maw gapes along its entire front.
 ```
-# Description
+## Description
 A phantom fungus is a tripedal carnivorous plant that roams the vast and deep underground caverns of the world. It wanders in search of food, using its rootlike feet to detect movement along the cavern floors and the sensitive tendrils surrounding its mouth to pinpoint prey.
 
 A phantom fungus’s primary advantage as a predator is its ability to vanish from sight. Stealthily patrolling the perimeters of caverns, a phantom fungus remains invisible until it is behind its prey, at which point it snaps at its victim with its vicious maw.
@@ -56,7 +58,7 @@ A phantom fungus prefers to ambush lone creatures. When it encounters a larger g
 The maw with which a phantom fungus attacks prey is lined with row upon row of sharp, jagged teeth that resemble pointed rocks more than actual fangs. This “mouth” is not used to feed, however, and does not attach to a digestive tract-it is nothing more than a gaping natural weapon. When a phantom fungus feeds, it does so by squatting down on its prey and infesting the corpse with thousands of feeding filaments that burrow through dead flesh to siphon away nutrients.
 
 A typical phantom fungus is 6 feet tall and weighs 200 pounds. Although they prefer dwelling underground, they have been encountered above ground as well.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Phantom%20Fungus)
 ```encounter-table
 name: Phantom Fungus

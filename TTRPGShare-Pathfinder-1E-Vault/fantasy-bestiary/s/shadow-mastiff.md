@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Mastiff
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 16
 desc_short: This muscular canine has a maw full of sharp teeth and an inky black coat that almost seems to drink in the light around it.
 ```
-# Description
+## Description
 Tireless hunters, stealthy trackers, and deadly predators, shadow mastiffs stalk the dark corners of the Outer Planes, preying upon all beings that stray from the light. These beasts have little in common with actual canines aside from their general forms (although with the notable addition of a long, spiked tail), their bodies being the evolution of countless centuries hunting the most merciless wildernesses of the Outer Planes and the Shadow Plane. On the Material Plane, they prefer to travel in shadow, moving soundlessly and unseen to find prey, hunting in vicious sport just as often as in hunger. Shadow mastiffs stand over 4 feet tall, with most weighing nearly 300 pounds.
 
 In combat, these stealthy beasts prefer to fight in shadows; they shy from areas of bright light unless faced with no other choice and use their bay to force their enemies to flee from well-lit areas. Shadow mastiffs prefer to hunt in groups, using pack tactics to lure prey into traps and to draw it away from sources of light. They do not make lairs, and are usually not found with any sort of treasure, unless it is on the body of a recently slain victim.
@@ -58,7 +60,7 @@ In combat, these stealthy beasts prefer to fight in shadows; they shy from areas
 Shadow mastiffs are popular guardians among spellcasters capable of conjuring them via lesser planar ally or lesser planar binding. Undead spellcasters and evil outsiders are immune to shadow mastiffs’ fearful bay; others who are not immune might intentionally expose themselves to the creatures’ bay at some point during the daylight hours when the resulting panic won’t directly impact other tasks. As a general rule, it’s safe to assume that any site using shadow mastiffs as guardians has already been affected by the bay, and that its inhabitants are thus immune to the ability’s effects for the remaining 24 hours of that day.
 
 Larger shadow mastiffs exist-creatures the size of horses or even bigger. These creatures have different shapes, looking less like dogs and more like larger creatures such as lions, dinosaurs, or even dragons. Such creatures have additional racial Hit Dice, and could even have extra abilities such as flight or breath weapons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Mastiff)
 ```encounter-table
 name: Shadow Mastiff

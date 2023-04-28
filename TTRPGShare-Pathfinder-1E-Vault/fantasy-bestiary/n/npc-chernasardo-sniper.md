@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Chernasardo Sniper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 15
 ```
-# Description
+## Description
 In 4648 AR, just 16 years after gaining their independence from the empire of Cheliax and while still reeling in the wake of Aroden’s death, the people of Nirmathas once again struggled for their freedom, this time from their new liege nation, Molthune. Their militaristic overlords offered little to the freedom-loving forest-dwellers of Nirmathas that Imperial Cheliax hadn’t, and so, led by a skilled half-elven ranger named Irgal Nirmath, the people of the Fangwood rebelled against their Molthuni oppressors. After 7 hard-fought years at war and a number of victorious skirmishes, Nirmathas at last prevailed and earned its freedom.
 
 Now, nearly 60 years later, the war for Nirmathi independence is over, but violent conflict between the nations of Molthune and Nirmathas continues. In the dense woods of the southern Fangwood, a region known as the Chernasardo, Molthuni armies constantly seek to regain territory lost in the prior war and in skirmishes since its official end, marching garrisons of troops into various parts of the Fangwood on a nearly daily basis. But the highly regimented, heavily armored soldiers of Molthune are not well equipped for maneuvers in the deep forest, and the people of the Chernasardo use this to their advantage.
 
 The woodsmen of Nirmathas continue the hit-and-run tactics that worked so well for their fledgling nation’s namesake. Generally working in teams of six or fewer, these elite snipers, trappers, and scouts are both stealthy and prudent enough to ambush large contingents of Molthuni soldiers and escape without ever being spotted. Each sniper is usually equipped with a number of specialty arrows designed for use in specific situations. This makes the snipers both unpredictable and deadly, a combination that never ceases to frustrate the commanders of Molthune’s army as they attempt to bring the people of Nirmathas-whom they still see as rebellious citizens of Molthune rather than foreign nationals-to heel.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Chernasardo%20Sniper)
 ```encounter-table
 name: NPC Chernasardo Sniper

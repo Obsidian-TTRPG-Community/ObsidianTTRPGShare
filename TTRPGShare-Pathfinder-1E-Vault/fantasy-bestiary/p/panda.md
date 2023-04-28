@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Panda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 29
 desc_short: This black-and-white-furred bear is about as long in the body as an average human-but much rounder.
 ```
-# Description
+## Description
 Pandas spend most of their lives alone, avoiding even other pandas except during mating season. They are excellent climbers, with front paws configured much like humans’ opposable thumbs to help them grip bamboo stalks and tree branches. Bamboo shoots make up almost their entire diet, although pandas are technically omnivorous. In part because of the low nutritional value of bamboo, pandas lack the energy for aggression, and avoid danger wherever possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Panda)
 ```encounter-table
 name: Panda

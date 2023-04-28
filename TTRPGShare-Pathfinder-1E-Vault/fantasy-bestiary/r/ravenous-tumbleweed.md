@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ravenous Tumbleweed
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 205
 desc_short: This tangle of dry-looking vegetation has grown into a spherical ball of thorny twigs and roots.
 ```
-# Description
+## Description
 Unlike its harmless counterpart, a ravenous tumbleweed uproots itself when nutrients are scarce in order to hunt down live prey. These seasonally carnivorous plants gather into imposing drifts that wait for periods of high winds before overwhelming birds, rabbits, and even deer.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ravenous%20Tumbleweed)
 ```encounter-table
 name: Ravenous Tumbleweed

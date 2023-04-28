@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nikaramsa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 242
 desc_short: This muscular giant has two ferocious lion heads, each with a long, black, lashing tongue.
 ```
-# Description
+## Description
 A nikaramsa exploits the hubris and awe of mortal priests by disguising itself as a deity’s chosen messenger and granting divine boons to a congregation, confusing believers by imparting more and more heretical lessons as gospel truths. The nikaramsa then corrupts the faith’s blessings, causing the religion to collapse in the wake of its own clergy’s atrocities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nikaramsa)
 ```encounter-table
 name: Nikaramsa

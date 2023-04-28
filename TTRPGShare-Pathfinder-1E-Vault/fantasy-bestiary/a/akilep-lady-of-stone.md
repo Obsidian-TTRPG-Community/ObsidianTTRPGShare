@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akilep, Lady of Stone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 57
 desc_short: This beautiful female sphinx appears both wise and thoughtful.
 ```
-# Description
+## Description
 Obsessed with the unearthing information about Aucturn-the mysterious thirteenth planet in Golarion’s solar system, whose very existence may be the greatest riddle of them all-the elder gynosphinx known as Akilep, Lady of Stone, was legendary even among the sphinxes. And then one day, more than 300 years ago, Akilep came across a hidden tomb in the stony wastes of southeastern Thuvia. Markings on the tomb’s surface suggested that she had just stumbled upon the final resting place of a heretofore unknown pharaoh from the height of Ancient Osirion, and furthermore that this pharaoh was believed to have made contact with beings from the stars. At last, Akilep had found the mother lode-and yet the tomb was warded with magic more powerful than anything at her disposal, the lock an inhumanly complex affair of twisted levers and strange, sealed cylinders that even her chime of opening couldn’t budge. For decades, Akilep worked studiously at the mechanism, quietly seeking out those who might be able to assist her. At last, with no other recourse, Akilep settled down in front of the tomb to await a time when circumstances might change, sleeping away the years as a statue. Of late, however, rumors of the tomb’s existence have surfaced in caravan waystations across the desert, and it may be that Akilep’s centuries of solitude are drawing to a close.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akilep%2C%20Lady%20of%20Stone)
 ```encounter-table
 name: Akilep, Lady of Stone

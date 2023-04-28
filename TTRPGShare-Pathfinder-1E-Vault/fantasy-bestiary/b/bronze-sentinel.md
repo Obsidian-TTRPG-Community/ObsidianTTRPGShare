@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bronze Sentinel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 90
 desc_short: Sculpted from bronze in the form of a large humanoid head, this creature perches on six mechanical legs, its eyes intermittently shining with an orange glow.
 ```
-# Description
+## Description
 Bronze sentinels were among the most common of Thassilonian sentinels, and saw widespread use in ancient Bakrakhan and Eurythnia. Thassilonian nobles and wizards used these creatures to protect their goods, magical laboratories, and libraries. A bronze sentinel’s fiery bolt burns hot, but its f lames are short lived. This construction is in place to minimize the risk of the sentinel setting fire to the very things it is set to protect.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bronze%20Sentinel)
 ```encounter-table
 name: Bronze Sentinel

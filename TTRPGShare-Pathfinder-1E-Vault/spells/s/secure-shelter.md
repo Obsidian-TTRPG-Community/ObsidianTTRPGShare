@@ -1,19 +1,21 @@
 ---
-alias: Secure Shelter
+aliases: [Secure Shelter]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Secure Shelter 
+## Secure Shelter
 
 **source**:: PRPG Core Rulebook pg. 338  
 **school**:: conjuration (creation)
 **level**:: arcanist 4, bard 4, skald 4, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a chip of stone, sand, a drop of water, and a wood splinter)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 20-ft.-square structure  
@@ -21,7 +23,7 @@ alias: Secure Shelter
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure a sturdy cottage or lodge made of material that is common in the area where the spell is cast. The floor is level, clean, and dry. The lodging resembles a normal cottage, with a sturdy door, two shuttered windows, and a small fireplace.  
   

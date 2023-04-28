@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpentfolk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 56
 desc_short: This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fanged serpent’s head.
 ```
-# Description
+## Description
 To the serpentfolk, the pursuit of knowledge and magic is the highest goal. Their legends speak of how humanity rose to power only through the theft of serpent magic, a legend that may form the basis of the hatred toward humanity most serpentfolk harbor. They view themselves as the undisputed masters of magic, be it arcane or divine. Yet despite this, the majority of serpentfolk today are degenerates who have devolved to the point of primeval savagery and have lost much of their magical legacy-more civilized serpentfolk generally regard these degenerates with shame and disdain.
 
 Serpentfolk are 6 feet tall and weigh 120 pounds. Degenerates are only 5 feet tall but weigh 200 pounds. All serpentfolk are quite long-lived, and generally live to the age of 500.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpentfolk)
 ```encounter-table
 name: Serpentfolk

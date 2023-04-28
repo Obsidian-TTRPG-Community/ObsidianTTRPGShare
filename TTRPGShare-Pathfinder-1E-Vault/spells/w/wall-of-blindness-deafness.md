@@ -1,19 +1,21 @@
 ---
-alias: Wall of Blindness/Deafness
+aliases: [Wall of Blindness/Deafness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Blindness/Deafness 
+## Wall of Blindness/Deafness
 
 **source**:: Advanced Class Guide pg. 198  
 **school**:: necromancy
 **level**:: arcanist 4, bard 4, cleric 5, oracle 5, psychic 4, skald 4, sorcerer 4, warpriest 5, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: translucent wall 20 ft. long/level or a translucent ring with a radius of up to 5 ft./two levels; either form 20 ft. high  
@@ -21,7 +23,7 @@ alias: Wall of Blindness/Deafness
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a translucent wall of energy, within which can be seen indistinct images of faces with their eyes or ears sewn shut. When you create the wall, decide whether it blinds or deafens. Any creature that passes through the wall must save or become permanently blinded or deafened (as *blindness/deafness*).  
   

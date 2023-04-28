@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vanara
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 280
 desc_short: This lean, simian humanoid is covered in a layer of soft, lightly colored fur and has a long, prehensile tail.
 ```
-# Description
+## Description
 Vanaras are intelligent, simian humanoids who live in deep forests and jungles. They are both agile and clever, but saddled with boundless curiosity and a love of pranks that, while normally harmless, hinder ingratiations with those they encounter. A vanara’s body is covered in a thin coat of soft fur, and individuals with chestnut, ivory, and even golden coats are common. Despite its fur, a vanara can grow lengthy hair on its head just like a human, and both male and female vanaras take pains to wear elaborate hairstyles for important social functions. The hair on a vanara’s head matches the color of its fur. All vanaras have long, prehensile tails and handlike feet capable of well-articulated movements. A vanara stands slightly shorter than a typical human. Males weigh from 150 to 200 pounds at most, with females weighing slightly less. Vanaras live for 60 to 75 years.
 
 Vanaras live in large, tree-top villages connected by rope-bridges and ladders. Homes are carved out of trees but usually left open to the elements except for woven leaf canopies and overhangs. Vanara villages are typically led by the community’s religious leader-usually a cleric, oracle, or monk.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vanara)
 ```encounter-table
 name: Vanara

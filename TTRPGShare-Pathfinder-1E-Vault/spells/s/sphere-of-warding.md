@@ -1,19 +1,21 @@
 ---
-alias: Sphere of Warding
+aliases: [Sphere of Warding]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sphere of Warding 
+## Sphere of Warding
 
 **source**:: Undead Slayer's Handbook pg. 19  
 **school**:: abjuration
 **level**:: cleric 5, inquisitor 4, oracle 5, warpriest 5, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **effect**:: 10-ft.-radius sphere emanating from point touched  
@@ -21,7 +23,7 @@ alias: Sphere of Warding
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a luminescent sphere of orbiting energy that harms incorporeal creatures and dispossesses them of any stolen bodies. An incorporeal creature must succeed at a Will save to enter a space overlapping with the sphere; failure means the creature cannot pass through the sphere, as though it were a *wall of force*. If the incorporeal creature succeeds, it may pass through the sphere at will, though if it ends its turn within the sphere, it takes a number of points of force damage equal to 1d6 + 1 per caster level (maximum +10).  
   

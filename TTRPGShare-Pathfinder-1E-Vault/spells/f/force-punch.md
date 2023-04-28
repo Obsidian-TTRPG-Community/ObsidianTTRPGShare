@@ -1,19 +1,21 @@
 ---
-alias: Force Punch
+aliases: [Force Punch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Force Punch 
+## Force Punch
 
 **source**:: Ultimate Magic pg. 221  
 **school**:: evocation (force)
 **level**:: arcanist 3, bloodrager 3, magus 3, psychic 3, sorcerer 3, spiritualist 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,11 +23,11 @@ alias: Force Punch
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell charges your hand with telekinetic force. Your successful melee touch attack deals 1d4 points of force damage per level (maximum 10d4) and causes the target to be pushed away from you in a straight line up to 5 feet per two caster levels. For every size category of the target above Medium, reduce the distance pushed by 5 feet (-5 feet for Large, -10 feet for Huge, -15 for Gargantuan, and -20 feet for Colossal) to a minimum of 0 feet. A successful Fortitude save negates the movement but not the damage.
 
-## Mythic Force Punch 
+## Mythic Force Punch
 
 **source**:: Mythic Adventures pg. 96  
 The damage dealt increases to 1d6 points of force damage per caster level (maximum 10d6). If moving the target would push it into another creature’s space and it has at least 10 feet of distance remaining, you can attempt to overrun the other creature, adding your tier on the combat maneuver check. For each creature you overrun with the target, reduce the distance the target moves by 5 feet. If moving the target would push it into a solid obstacle (such as a wall or tree), the target takes damage as if it had fallen the distance pushed.  

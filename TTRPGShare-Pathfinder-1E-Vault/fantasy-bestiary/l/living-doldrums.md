@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Doldrums
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 88
 desc_short: The air here is eerily still, and the normal sound of the wind is replaced by a barely audible hum.
 ```
-# Description
+## Description
 When people imagine elementals that thrive on the Plane of Air, they are most likely to think of the spirits of rushing wind and thundering storm, but not all air elementals are so dynamic. Living doldrums are elementals that embody stagnant air. Those who can see invisible creatures describe the living doldrums as a cloud roughly 20 feet in diameter that resembles a knotted snake with a head at both ends. The scent of stale air lingers around a living doldrums, even if one only recently arrived to the area.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Doldrums)
 ```encounter-table
 name: Living Doldrums

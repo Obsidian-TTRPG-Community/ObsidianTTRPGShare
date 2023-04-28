@@ -1,19 +1,21 @@
 ---
-alias: Sacramental Seal
+aliases: [Sacramental Seal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sacramental Seal 
+## Sacramental Seal
 
 **source**:: Horror Adventures pg. 126  
 **school**:: necromancy
 **level**:: cleric 8, oracle 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F (an object worth at least 2,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Sacramental Seal
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You trap the target in an object decorated with the holy symbols of your god or faith. While trapped in the object, the creature can’t take any actions and is immune to spells and spell-like abilities. The creature remains permanently trapped in the object as long the object remains in your possession. Only a *freedom*, *miracle*, or *wish* spell can dispel the enchantment, though destroying the object frees the creature.  
   

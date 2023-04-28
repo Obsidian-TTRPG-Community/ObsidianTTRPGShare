@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mountain Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 42
 desc_short: This black mass of glistening, tar-like slime bubbles and oozes, its two long tentacles each tipped with a stony club.
 ```
-# Description
+## Description
 Most mountain blights inhabit rocky peaks or sheer cliffs on Material Plane worlds. Unlike the others of their kind, mountain blights are not as aggressive in seeking bastions of civilization to destroy, yet their penchant for picking well-traveled mountain passes as their domains ensures they have access to a constant influx of travelers and other victims to prey upon. 
 
 A mountain blight averages 6 feet in diameter and weighs around 270 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mountain%20Blight)
 ```encounter-table
 name: Mountain Blight

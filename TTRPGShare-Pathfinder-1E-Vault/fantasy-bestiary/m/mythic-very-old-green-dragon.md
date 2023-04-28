@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Very Old Green Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: Mythic Adventures
     desc: 189
 ```
-# Description
+## Description
 A mythic green dragon embodies the confusion and fear of becoming lost in a strange forest. It stalks its prey with surprising stealth and subterfuge, preferring the taste of terrified, maddened creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Very%20Old%20Green%20Dragon)
 ```encounter-table
 name: Mythic Very Old Green Dragon

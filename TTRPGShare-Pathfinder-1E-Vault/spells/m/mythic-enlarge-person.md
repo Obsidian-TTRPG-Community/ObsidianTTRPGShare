@@ -1,19 +1,21 @@
 ---
-alias: Mythic Enlarge Person
+aliases: [Mythic Enlarge Person]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Enlarge Person
+## Mythic Enlarge Person
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: transmutation
 **level**:: alchemist 1, arcanist 1, bloodrager 1, investigator 1, magus 1, medium 1, occultist 1, psychic 1, redmantisassassin 1, sorcerer 1, summoner 1, summoner (unchained) 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (powdered iron)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one humanoid creature  
@@ -21,7 +23,7 @@ alias: Mythic Enlarge Person
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. This increase changes the creature's size category to the next larger one. The target gains a +2 size bonus to Strength, a -2 size penalty to Dexterity (to a minimum of 1), and a -1 penalty on attack rolls and AC due to its increased size.  
   

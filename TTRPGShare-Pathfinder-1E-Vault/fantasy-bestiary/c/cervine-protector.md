@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cervine Protector
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
   - name: Heaven Unleashed
     desc: 44
 ```
-# Description
+## Description
 A cervine protector might be encountered alongside the Grim White Stag, or as the companion of one of Erastil’s clergy. In natural settings sacred to Erastil, solitary cervine protectors sometimes stand vigil, ensuring that no taint befalls their charge.
 
  Characters with the Leadership feat can take a cervine protector as a cohort at cohort level 10th or higher.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cervine%20Protector)
 ```encounter-table
 name: Cervine Protector

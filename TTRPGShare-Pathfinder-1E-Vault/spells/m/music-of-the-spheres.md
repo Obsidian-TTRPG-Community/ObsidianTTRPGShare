@@ -1,19 +1,21 @@
 ---
-alias: Music of the Spheres
+aliases: [Music of the Spheres]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Music of the Spheres 
+## Music of the Spheres
 
 **source**:: Inner Sea Magic pg. 59  
 **school**:: conjuration (healing) (sonic)
 **level**:: bard 5, cleric 6, oracle 6, skald 5, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a stick of incense treated with special balms)
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **area**:: 20-ft.-radius spherical emanation, centered on you  
@@ -21,7 +23,7 @@ alias: Music of the Spheres
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 As any scholar of Desnan lore or astrologer can tell you, the music of the spheres is the harmonic constant that plays under and through all of reality. It is this constant song, this otherworldly music, that keeps the laws of reality constant and the connections between the planes of existence strong.  
   

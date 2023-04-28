@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bodak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 48
 desc_short: The flesh of this emaciated creature appears charred or dried, and its empty eye sockets seep trails of smoke. 
 ```
-# Description
+## Description
 When mortal humanoids find themselves exposed to profound, supernatural evil, a horrific, occult transformation can strip them of their souls and damn them to the tortured existence of a bodak. Changed into a twisted, misanthropic husk, a bodak wanders the endless tracts of evil-aligned planes, periodically stumbling into other realms by passing through portals or otherwise being conjured elsewhere. Possessing only fragmented memories of its former existence, the bodak is driven by profound emptiness, sorrowful longing, and vengeful hatred of all life. 
 
 A bodak’s appearance is profoundly disturbing. Its flesh looks dried, taut, and desiccated, though it possesses a strange, otherworldly sheen. Its body is disproportionate and distinctly androgynous. Hairless and with only vague hints of facial structure, the bodak’s eyes are deep set in their sockets and constantly weep foul-smelling smoky vapors. A planes-wise traveler who recognizes its shape knows to flee, for most travelers can outrun the relatively slow bodak. 
@@ -61,7 +63,7 @@ Bodaks vehemently despise all living creatures and immediately seek to destroy a
 Bodaks are rarely encountered outside of the Abyss. As they are slow-witted, powerful evil creatures such as liches and nabasu demons sometimes use bodaks as thralls, assassins, or guardians. Bodaks encountered on the Material Plane exude extreme malevolence when forced to confront the realization of their abhorrent transformations. So great is their desire to inflict their fate upon others that many attempt to drag off the bodies of their slain victims and guard them until they rise as undead. 
 
 A 20th-level spellcaster can use create greater undead to create a bodak, but only if the spell is cast while the spellcaster is located on one of the evil outer planes (traditionally the Abyss).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bodak)
 ```encounter-table
 name: Bodak

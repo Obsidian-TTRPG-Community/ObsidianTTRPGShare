@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Accomplished Angler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: NPC Codex
     desc: 256
 ```
-# Description
+## Description
 An accomplished angler prides herself on handling life’s trials with aplomb.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Accomplished%20Angler)
 ```encounter-table
 name: NPC Accomplished Angler

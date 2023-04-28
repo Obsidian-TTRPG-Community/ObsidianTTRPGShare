@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogre Brute
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Monster Codex
     desc: 155
 ```
-# Description
+## Description
 Violence is a way of life for ogres. Most of them learn the best ways to cause pain from their clans’ bosses, who mete out beatings for even the slightest infraction.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogre%20Brute)
 ```encounter-table
 name: Ogre Brute

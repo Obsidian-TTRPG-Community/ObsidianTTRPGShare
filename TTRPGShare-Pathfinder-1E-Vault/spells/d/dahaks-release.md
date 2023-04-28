@@ -1,19 +1,21 @@
 ---
-alias: Dahak's Release
+aliases: ["Dahak's Release"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dahak's Release 
+## Dahak's Release
 
 **source**:: Legacy of Dragons pg. 28  
 **school**:: enchantment (compulsion) (draconic, mind-affecting)
 **level**:: arcanist 5, mesmerist 5, occultist 5, shaman 5, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a dried drop of blood)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Dahak's Release
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You unleash all the target’s anger and destructive urges, causing it to fly into a violent bloodlust. The target attacks creatures as determined by the following table. If a creature is killed or the target is for some reason unable to effectively attack it, roll on the table again to select a new action for the target.  
   

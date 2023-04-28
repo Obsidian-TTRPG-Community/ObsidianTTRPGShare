@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thath-Malal, the Eyeless Prince
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 45
 desc_short: This immense, eyeless worm is covered in a midnight blue hide. Four barbed tongues wriggle out from its open, lily-shaped maw.
 ```
-# Description
+## Description
 One of the scant handful of young neothelids on Golarion, Thath-Malal has seen only a millennia of life since emerging from its egg, and its power pales in comparison to that of older neothelids. Abstaining from the greater neothelid community’s struggle against the intellect devourers of nearby Ilvarandin, Thath-Malal sought out new regions in which to establish itself as a force to be worshiped. It shared none of its progenitors’ desires to see Shub- Niggurath’s return to Golarion, and eventually left Denebrum entirely. Thath-Malal now resides in the lowest levels of Tian Xia’s Darklands, having found its way there by the guidance of determined seugathi explorers and has had several centuries to formulate its strategy for convincing the other species in the area to pay it appropriate tribute.
 
 Nesting below Dtang Ma, Thath-Malal sends its clutches of seugathi children to entice the residents of the jungles above into worshiping it. Thus far, the young neothelid has enjoyed success among the rural jungle villages, its seugathi convincing the local populace that their master represents one of the nation’s abandoned spirits-Yola-At, the Saint of the Pathways Below. Amused, Thath-Malal hopes to expand its influence into Nagajor and Po Li.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thath-Malal%2C%20the%20Eyeless%20Prince)
 ```encounter-table
 name: Thath-Malal, the Eyeless Prince

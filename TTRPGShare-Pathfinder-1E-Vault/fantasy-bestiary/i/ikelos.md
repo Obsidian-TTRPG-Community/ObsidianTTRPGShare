@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ikelos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 84
 desc_short: This creature’s eyes are large and lidless, and its large head dominates its lanky frame. Tiny wings spread across its back and the four digits of each hand end in sharp claws.
 ```
-# Description
+## Description
 Ikeloses are monsters that lurk just out of the sight of insomniacs; they are nightmares that freeze the body even as the mind recoils in horror.
 
 To those who are fully awake, an ikelos remains unseen, a silently invisible nightmare that can travel undetected wherever it pleases. Only supernatural vision or drowsy eyes perceive these creatures. Ikeloses are painted in the colors of dreams-constantly warping hues that cannot be reproduced with light or pigments, and as such are impossible to accurately remember.
@@ -65,7 +67,7 @@ To those who are fully awake, an ikelos remains unseen, a silently invisible nig
 An ikelos is frightening in aspect, appearing as a distorted humanoid with large eyes and elongated limbs. Its flat, ovoid face has the barest hint of a nose, and its mouth is a barely noticeable seam until distended to reveal row upon row of sharp teeth. An ikelos’s short wings are unnecessary for its flight, but when unfolded, they give the creature the illusion of size. Many a dream-addled victim has mistaken an ikelos for a sinister fiend or an avenging angel.
 
 Ikeloses are commonly the size of a human, though both larger and smaller members of their kind exist. As incorporeal beings, they are entirely weightless.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ikelos)
 ```encounter-table
 name: Ikelos

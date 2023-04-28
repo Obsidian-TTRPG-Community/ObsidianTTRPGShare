@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Colour Out of Space
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 76
 desc_short: An eerie radiance, a glow unlike anything else, fills the area, bringing with it a stif ling sense of latent malignancy.
 ```
-# Description
+## Description
 The deepest, strangest parts of space hold truly alien beings-and of those, few are more notorious than the colour out of space. The lack of a physical body does little to impede this deadly alien life form’s ability to cause incredible devastation to other life it encounters. A colour out of space’s life cycle requires periodic visits to the deepest reaches of space for the creature to gestate and grow in the vicinity of powerful gravitational fields (such as those created by planets), and this custom only increases the monster’s opportunities to bring ruin to countless worlds.
 
 The colour out of space is just that-a mobile radiance. Its glow is unlike any seen in nature. The few who encounter one of these creatures and survive sometimes describe the radiance or portrayed it in art as a sinister, green-gray illumination, but these depictions are flawed reproductions. To witness the colour out of space is to know there are things no humanoid mind can fully comprehend, describe, or explain.
@@ -74,7 +76,7 @@ The colour out of space is just that-a mobile radiance. Its glow is unlike any s
 Very little is known about the life cycle of a colour that dwells in the depths of space, for it is only when it comes to a planet to grow and reproduce that other life forms encounter it. A colour’s arrival upon a world is typically via a small meteorite strike-the colour itself infuses a meteoroid, and shortly after the falling star’s arrival, the rock crumbles away to expose the semisolid mass of a larval colour that seeps into the surrounding landscape. Although a colour is incorporeal, and thus able to move through solid objects, it can also exist as a free-f loating, eerie radiance. Natural sunlight doesn’t particularly harm colours out of space, but they prefer to dwell in darkened areas like deep caves or abandoned wells where their own radiance is the only light.
 
 Over the course of several weeks, months, or even years, the colour feeds upon the surrounding plant and animal life-the act of being fed upon is weirdly addictive to its victims, who develop a self-destructive lassitude that prevents them from fleeing the region. When a colour has absorbed enough life to grow to full maturity (usually signif ied by reaching 25 to 30 Hit Dice), it gathers its strength and erupts from its den, coruscating into the sky as it launches the majority of itself back into space. Sometimes, enough remains of the parent colour to survive on its own, and in these cases the life cycle repeats again and again. Areas blighted by a colour out of space are singularly recognizable, not only for the eerie pallor of local plant life and large swaths of blasted, barren landscape, but also by the presence of those the colour has fed on. These unfortunate, deformed individuals, known as colour-blighted creatures, never live for long, but while they do, their madness often drives them to violent behavior, be they people or beasts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Colour%20Out%20of%20Space)
 ```encounter-table
 name: Colour Out of Space

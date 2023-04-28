@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pyropiscis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 90
 desc_short: Glowing-hot plates of iron cover the head of this immense, primordial lungfish, and lava spills from between its jagged teeth.
 ```
-# Description
+## Description
 Few environments are more inhospitable to life than the depths of a volcano, where magma surges through the rock like blood through veins. Of the creatures that do live in this hellish landscape, few are better adapted than the pyropiscis. Pyropiscises depend on this deadly environment of extreme temperatures and choking gases for their very lives. While they have a fishlike appearance, pyropiscises do not swim-their bodies are far too dense to float in water or similar liquids. Instead, pyropiscises rely on their powerful muscles and sharp scales to burrow through molten rock.
 
 A typical pyropiscis measures over 12 feet long, and weighs almost 4,000 pounds. Brilliant red scales glow and pulse with terrible heat, protecting those portions of their bodies not covered in blackened iron plates.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pyropiscis)
 ```encounter-table
 name: Pyropiscis

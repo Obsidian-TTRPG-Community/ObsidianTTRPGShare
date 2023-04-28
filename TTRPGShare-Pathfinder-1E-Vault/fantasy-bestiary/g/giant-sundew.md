@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Sundew
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 258
 desc_short: This plant is covered with dozens of clear tendrils, each tipped with a glistening red bulb. Whiplike fronds unfurl from the center.
 ```
-# Description
+## Description
 Unlike its smaller, insect-eating cousin, a giant sundew actively seeks out prey using its shallow but sturdy roots to slowly pull itself through its boggy environs. When a giant sundew attacks, it does so by slamming targets with its thick, leaflike fronds, each of which is covered with globules of sticky, acidic goo. The giant sundew exudes an unmistakable scent of honey-an attractive odor that often proves irresistible to nearby creatures. 
 
 Although the giant sundew is not quite a mindless monstrosity, its intellect is barely more than instinctive, and it has little ability to discern between allies and enemies. If it attacks a creature that is immune to acid or adhesive qualities, the sundew is smart enough to avoid attacking that foe in future rounds (although it continues to slam such targets with its fronds in self defense, if needed). Despite sundews’ inability to form alliances, many more intelligent forest-dwelling creatures take advantage of the sticky plants and use them as organic traps to help gather prey. Will-o’-wisps in particular are quite fond of the methods a sundew uses to capture and consume prey, for the anguish and fear of creatures stuck to a plant that is slowly dissolving and digesting them form quite a delicious tonic of horror for the wisps to feed upon. 
 
 A full-grown giant sundew can reach a height of over 20 feet and weighs 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Sundew)
 ```encounter-table
 name: Giant Sundew

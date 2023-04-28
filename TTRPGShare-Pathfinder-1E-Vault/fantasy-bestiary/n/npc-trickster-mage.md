@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Trickster Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: NPC Codex
     desc: 165
 ```
-# Description
+## Description
 The trickster mage thinks everyone deserves to be the butt of his jokes, even if they don’t want to be.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Trickster%20Mage)
 ```encounter-table
 name: NPC Trickster Mage

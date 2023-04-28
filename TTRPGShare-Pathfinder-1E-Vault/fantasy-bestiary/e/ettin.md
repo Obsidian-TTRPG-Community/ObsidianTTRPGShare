@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ettin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 130
 desc_short: This lumbering, filthy, two-headed giant wears tattered remnants of leather armor and clutches a large flail in each fist.
 ```
-# Description
+## Description
 Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads provide them with unparalleled powers of perception, making them excellent guards.
 
 Ettins superficially resemble hill or stone giants, although their tusked facial features betray orc blood in their lineage. They have pinkish-brown skin, but ettins never bathe if they can help it, which usually leaves them so grimy and dirty their skin resembles thick, gray hide. Adult ettins are about 13 feet tall and weigh 5,200 pounds. They live about 75 years.
@@ -64,7 +66,7 @@ Ettins lead solitary lives, establishing lairs in secluded rocky caves and hollo
 A particularly powerful ettin may attract a gang of a few followers, possibly with several goblin or orc allies. Such gatherings are the exception rather than the rule, however, and seldom last long, with individual ettins going their separate ways when opportunities for pillage and plunder decrease or if the leader is killed.
 
 Mated couples usually come together to breed for only a short time before going off on their own again. Young ettins mature quickly, reaching adult size within a year, when they are kicked out to fend for themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ettin)
 ```encounter-table
 name: Ettin

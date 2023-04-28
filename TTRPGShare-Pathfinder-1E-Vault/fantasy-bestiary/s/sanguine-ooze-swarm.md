@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sanguine Ooze Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 78
 desc_short: Dozens of tiny globs of slime move on their own, acting as one being, alternately clinging to each other and separating in a riot of oozing momentum.
 ```
-# Description
+## Description
 Formed from accumulations of runoff from arcane laboratories and regions of magical calamity, alchemical oozes are fist-sized blobs of volatile chemicals. Although composed of unpredictable compounds and toxins, these mobile oozes pose little threat individually, but in polluted quagmires and tainted sewers can collect in numbers great enough to threaten creatures many times their size. Swarms of the slimes linger in such contaminated areas and seek new accretions of vital solutions, like those found within the bodies of higher life forms, to fuel their erratic life cycles. Found in numerous varieties with a host of differing abilities, these weird, clinging oozes have been differentiated by likening them to the humors said to compose the bodies of living beings.
 
 Appearing at first to be a collection of tiny blobs of viscous, translucent fluid, alchemical oozes become far more terrifying once their hungry nature becomes apparent. Each swarm is composed of several hundred palm-sized balls of ooze that all scuttle along as a single unit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sanguine%20Ooze%20Swarm)
 ```encounter-table
 name: Sanguine Ooze Swarm

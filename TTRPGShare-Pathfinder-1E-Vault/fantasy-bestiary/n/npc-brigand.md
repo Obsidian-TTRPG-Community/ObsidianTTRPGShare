@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Brigand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 266
 ```
-# Description
+## Description
 A brigand has no sense of mercy, and is happy to kill for a handful of silver. Brigands waylay caravans, create illegal turnpikes on roads to collect tolls from travelers, attack noisy camps at night, and harass villages for protection money. They are easily routed but carry a grudge and remain a recurring problem until imprisoned or killed.
 
 Many brigands are former soldiers who lacked the discipline to stay in the military or a mercenary company, and may even be deserters from a local or invading army. They rarely use group tactics, and form into gangs under the toughest member of the group, typically a grizzled mercenary (warrior 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Brigand)
 ```encounter-table
 name: NPC Brigand

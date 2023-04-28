@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Suffragan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 58
 desc_short: Bladed whips and spiked chains sprout from the stumps of this humanoid torso’s amputated limbs. Elongated saw blades loll out of its distended mouth.
 ```
-# Description
+## Description
 Born from the twisted souls of the Joyful Things-Zon- Kuthon’s most devoted zealots-suffragans appear as humanoid torsos with chains or barbed whips sprouting from the stumps of their amputated arms and legs. Suffragans display an uncanny ability to reconfigure their barbed limbs to suit any task at hand. When desperate or when fighting a cornered foe, most suffragans roll onto their backs to strike with a tempest of chains and whips. Albeit uncommon, other suffragan configurations include wings or fins made of interlocked limbs.
 
  A suffragan’s face is as much a horrific fusion of metal and flesh as its body. Barbed blades droop from its mouth, its tongue replaced with jagged metal that undulates eerily.
@@ -69,7 +71,7 @@ Born from the twisted souls of the Joyful Things-Zon- Kuthon’s most devoted ze
  A suffragan kyton stands about 5 feet tall and weighs 160 pounds.
 
  
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Suffragan)
 ```encounter-table
 name: Suffragan

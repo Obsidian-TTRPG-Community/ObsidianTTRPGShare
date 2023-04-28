@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Swaithe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 297
 desc_short: This creepy ash-gray goblin-like creature has empty eye sockets and scraggly, stained teeth.
 ```
-# Description
+## Description
 Dedicated to Lamashtu, the eyeless swaithes are skulking agents of fear and unprovoked beast attacks, formed from sinful souls who, in life, used animals as tools of violence and murder. Swaithes often lure those who seek their aid and advice into falling victim to the darkest secrets of demonology and forbidden magic.
 
 If left unsupervised, a swaithe charms animals and drives them toward villages, often under the inf luence of rage, further stoking the flames of fear and distrust between settlements and the wilderness.
@@ -75,7 +77,7 @@ Swaithes prefer stealth and subterfuge to direct confrontation, and these foul c
 Swaithes can join hag covens and contribute to the coven’s cooperative magic. Because of its smaller size and weaker power, a swaithe is often treated as a little sister or daughter by the rest of the coven. Any coven that includes a swaithe can add giant vermin, animal growth, and insect plague to the spells the spells they can cast together.
 
 Small and slight, most swaithes stand about 3-1/2 feet tall and weigh 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Swaithe)
 ```encounter-table
 name: Swaithe

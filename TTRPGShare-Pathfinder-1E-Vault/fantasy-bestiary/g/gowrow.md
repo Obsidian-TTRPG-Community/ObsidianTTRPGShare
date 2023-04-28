@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gowrow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 144
 desc_short: This reptilian beast has a pair of long tusks jutting from its oversized jaws. Its long, draconic tail ends in a razor-sharp blade.
 ```
-# Description
+## Description
 These violent, reptilian creatures are a lesser form of dragon that plague the rivers and lakes in which they live. They find most creatures that ply the waterways they claim distasteful, and these beasts frequently attack fishers and others who travel in small boats through their territory. Unless they are particularly hungry or irritated, gowrows typically leave larger vessels alone. A gowrow stretches over 16 feet in length and weighs nearly 2 tons. 
 
 Gowrows are devastating to local settlements. They are violent killers that slaughter livestock and threaten those who work the land far from civilization. When ranchers notice missing cattle, goats, or sheep along with other evidence of a gowrow, they often call upon the authorities or adventurers to get involved. Woodsy folk who have come across gowrow lairs describe them as caves littered with bones from dozens of different creatures, both livestock to humanoid. Some communities face raids by a gowrow year after year, but due to gowrows’ periodic hibernation, the creature might vanish, only to threaten later generations of people near its lair.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gowrow)
 ```encounter-table
 name: Gowrow

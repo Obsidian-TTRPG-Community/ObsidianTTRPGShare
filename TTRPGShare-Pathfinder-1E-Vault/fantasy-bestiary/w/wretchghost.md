@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wretchghost
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,11 +79,11 @@ sources:
     desc: 90
 desc_short: This ghostly, emaciated figure’s mouth hangs agape in an endless howl, and its abnormally long arms almost touch the ground.
 ```
-# Description
+## Description
 When multiple wretched addicts perish in the throes of a shared drug addiction in an area infused with pain and misery, those tortured souls sometimes cling to each other, and their overwhelming hunger for just one more fix sometimes anchors them to this world. In these miserable situations, mortal souls can linger on after death as wretchghosts.
 
 The nature of the addiction a wretchghost suffered while it lived strongly influences its personality as well as its supernatural abilities. In all cases, it loses much of the awareness of its former life and identity- only its gnawing, toxic hunger remains. The residue of personality clinging to its psyche is ruthless and filled with hate, and it is overwhelmingly jealous of the living, who can still enjoy the bliss of its associated drug. As an incorporeal shade, the wretchghost can no longer revel in this bliss, save for brief moments when it infuses living flesh with this chemical desire. Regardless of its addiction, a wretchghost looks like a cadaverously thin phantom with sunken, glowing eyes and limbs that seem to writhe and twist more like tentacles than articulated arms and legs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wretchghost)
 ```encounter-table
 name: Wretchghost

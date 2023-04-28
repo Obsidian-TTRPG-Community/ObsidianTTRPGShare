@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mapinguari
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 183
 desc_short: This immense, green creature stands on two thick legs, glaring with a single massive eye as it displays knifelike talons.
 ```
-# Description
+## Description
 The mapinguari is a creature of legend, a beast many claim to have seen, though few who actually encounter one live to tell their story. A mapinguari patrols a territory so large that some believe each claims an entire jungle as its own. However, those more familiar with the legends know that a mapinguari’s territory is greatly limited by lakes, rivers, and other bodies of water. 
 
 A mapinguari stands approximately 20 feet tall and weighs 15,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mapinguari)
 ```encounter-table
 name: Mapinguari

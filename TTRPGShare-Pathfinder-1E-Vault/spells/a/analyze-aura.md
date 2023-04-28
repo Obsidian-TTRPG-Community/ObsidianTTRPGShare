@@ -1,19 +1,21 @@
 ---
-alias: Analyze Aura
+aliases: [Analyze Aura]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Analyze Aura 
+## Analyze Aura
 
 **source**:: Occult Adventures pg. 156  
 **school**:: divination
 **level**:: medium 2, mesmerist 3, occultist 2, psychic 3, spiritualist 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature or object  
@@ -21,7 +23,7 @@ alias: Analyze Aura
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You peer into the aura of one target creature or object, gaining valuable information about its condition and nature. Each round, choose one of the target’s four auras. This spell functions similarly to the read aura occult skill unlock (see page 197), but doesn’t require checks and returns results on all the target’s auras in an instant.  
   

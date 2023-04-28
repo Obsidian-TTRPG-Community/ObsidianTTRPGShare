@@ -1,19 +1,21 @@
 ---
-alias: Polymorph
+aliases: [Polymorph]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Polymorph 
+## Polymorph
 
 **source**:: PRPG Core Rulebook pg. 323  
 **school**:: transmutation (polymorph)
 **level**:: adept 4, alchemist 5, arcanist 5, investigator 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you choose)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Polymorph
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell transforms a willing creature into an animal, humanoid or elemental of your choosing; the spell has no effect on unwilling creatures, nor can the creature being targeted by this spell influence the new form assumed (apart from conveying its wishes, if any, to you verbally).  
   

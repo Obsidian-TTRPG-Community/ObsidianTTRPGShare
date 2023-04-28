@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Charnel God
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 54
 desc_short: This porphyry statue depicts a three-headed goddess with draconic wings, a long tail, and a deadly looking longbow in her hands.
 ```
-# Description
+## Description
 The gods are no less strange and terrifying in death than in life. Though the death of any god is staggeringly rare, some do meet violent ends, often at the hands of other deities. When this happens, the deity’s death casts fragments of the god’s power out among the planes. These fragments are sometimes drawn to places where the god was worshiped in its life, where they can produce miraculous effects, such as striking the god’s devout followers deaf or blind, or granting visions of the god’s demise. Sometimes these shards of power go unnoticed and boil away into nothing over time. But sometimes, something far more terrible occurs-such fragments can find a new home within a graven image of the former deity, forming a new creature: a charnel god. 
 
 Regardless of the deceased god’s alignment or nature, all charnel gods are beings of sublime wickedness fueled by bitter anger. The memory of being killed and cast into the void leaves charnel gods utterly and cruelly insane. Further, they feel the pain of being incomplete, of being only a small portion of what they once were, and this torments them. Charnel gods have some memories of their time as gods, but any recollections are fragmented and muddled. A charnel god might be able to share a hidden secret it knew in its former life, but it could just as easily confuse the details or call forth a false memory, making it an unreliable source of wisdom. Charnel gods resent such questions anyway, as remembering their former lives only reminds them of their pitiful current state. 
@@ -88,7 +90,7 @@ At the same time, charnel gods long for mortals’ worship. Truly, that is a cha
 The example charnel god presented here was once a demon lord of the hunt who was slain by a vengeful goddess. When creating a charnel god of a different deity, GMs should replace some or all of the charnel god’s feats and skills to better support that deity’s favored weapon and fighting style. Likewise, the charnel god’s melee attacks should be altered as needed, but the end result should approximate the average damage a CR 23 creature might deal in a round. Note that charnel gods like the one detailed above can attack with their natural attacks as secondary attacks when attacking with ranged weapons. 
 
 A charnel god stands 15 feet tall and weighs 12 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Charnel%20God)
 ```encounter-table
 name: Charnel God

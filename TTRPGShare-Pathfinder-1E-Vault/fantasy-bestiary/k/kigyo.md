@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kigyo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 90
 desc_short: This humanoid has the lower body of a giant seahorse and a round, colorful face dominated by wide, staring eyes and hideous fangs.
 ```
-# Description
+## Description
 Oni are most often found in Tian Xia on the opposite side of the world from ancient Azlant, though some, such as the powerful ogre mage, have expanded their influence to include other continents including Avistan and Garund. Not all oni live on land, however, and the vengeful spirits have been known to take the form of humanoid species that dwell mostly or entirely underwater. While most oni are rare, those that take aquatic forms are scarcely ever encountered by terrestrial folk, though locathahs, merfolk, and other aquatic races are more likely to encounter these sea-dwelling oni than they are to meet ogre mages or other land-borne spirits. The most common submarine oni is the kigyo, which adopts a form resembling a corrupted parody of a merfolk.
 
  Like merfolk, kigyos have a torso and arms, with an aquatic lower body that allows them to maneuver lithely through the water. Unlike a merfolk, however, a kigyo has a monstrous face and its body more closely resembles that of a seahorse.
 
  A typical kigyo is 7 feet long from its head to the tip of its curved tail and weighs 190 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kigyo)
 ```encounter-table
 name: Kigyo

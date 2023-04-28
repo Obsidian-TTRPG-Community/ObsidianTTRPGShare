@@ -1,19 +1,21 @@
 ---
-alias: Mythic Whirlwind
+aliases: [Mythic Whirlwind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Whirlwind
+## Mythic Whirlwind
 
 **source**:: Mythic Adventures pg. 112  
 **school**:: evocation (air)
 **level**:: druid 8, shaman 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall  
@@ -21,7 +23,7 @@ alias: Mythic Whirlwind
 **saving-throw**:: Reflex negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates a powerful cyclone of raging wind that moves through the air, along the ground, or over water at a speed of 60 feet per round. You can concentrate on controlling the cyclone's every movement or specify a simple program. Directing the cyclone's movement or changing its programmed movement is a standard action for you. The cyclone always moves during your turn. If the cyclone exceeds the spell's range, it moves in a random, uncontrolled fashion for 1d3 rounds and then dissipates. (You can't regain control of the cyclone, even if it comes back within range.)  
   

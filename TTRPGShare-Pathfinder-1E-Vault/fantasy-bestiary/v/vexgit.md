@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vexgit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 84
 desc_short: With a head like an angry crustacean, this fierce little insectoid creature clacks and rattles with a tiny but solid-looking hammer.
 ```
-# Description
+## Description
 Maniacally destructive little brutes, vexgits delight in scrapping and sabotaging the works of larger races. The larger and more complicated the target, the better. While one of these spiteful gremlins might delight in trapping someone behind a door with a jammed lock, loosening the wheels on a carriage, or sneakily removing all the nails from a small boat, it’s when groups of vexgits get together that they’re truly dangerous. In such instances, the portcullis of a vexgit-infested gatehouse turns into a deadly weapon, while a clock tower becomes an avalanche of gears waiting to topple. Engineers warn apprentices of masterful constructions destroyed by these unruly gremlins, with many blaming their greatest failures on such tiny saboteurs.
 
 Like most gremlins, vexgits prefer to live underground, but cities and the devices they find there fascinate them, often drawing mobs of the dangerous fey to sewer tunnels and abandoned warehouses.
 
 Vexgits stand 1-1/2 feet tall and weigh approximately 16 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vexgit)
 ```encounter-table
 name: Vexgit

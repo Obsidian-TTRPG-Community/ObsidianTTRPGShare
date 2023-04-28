@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Bat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 30
 desc_short: This giant, furry bat is nearly the size of an ox, with dark leathery wings that open wider than two men with arms outstretched.
 ```
-# Description
+## Description
 The dire bat is usually found lairing in desolate areas, resting in caves or other secluded areas during the day and taking to the skies in search of prey at night. This immense creature has an average wingspan of 15 feet and weighs roughly 200 pounds.
 
 The dire bat generally doesn’t shelter in groups larger than eight, often living a solitary life. A dire bat prefers feeding on livestock and herd animals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Bat)
 ```encounter-table
 name: Dire Bat

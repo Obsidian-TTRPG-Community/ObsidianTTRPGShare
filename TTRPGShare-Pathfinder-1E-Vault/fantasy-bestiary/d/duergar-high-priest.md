@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duergar High Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -86,9 +88,9 @@ sources:
   - name: Monster Codex
     desc: 51
 ```
-# Description
+## Description
 Because religious doctrine is so influential in duergar society, common duergar treat high priests like the voice of their god, trusting their wisdom in all things. A high priest is effectively the primary lawmaker for her clan.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duergar%20High%20Priest)
 ```encounter-table
 name: Duergar High Priest

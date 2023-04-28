@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Morbai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 59
 desc_short: This hunched, barefoot old woman leans heavily on her gnarled staff. She wears two plague masks on opposite sides of her head.
 ```
-# Description
+## Description
 Curious creatures of balance, morbais are psychopomp masters of healing and poison who help directly cause or prevent mortal deaths. They fight mass outbreaks to help prevent epidemics that would glut the bureaucracy of death, but also foster the creation of new diseases to ensure mortal populations are always kept in check. While they can directly address outbreaks with their considerable skills and spell-like abilities, most morbais prefer inspiring and fostering mortal physicians to act on their behalf, usually appearing as cantankerous advisors or overbearing patients to test their preferred agents’ resolve. Though generally good natured-if sarcastic-morbais act swiftly when confronting the machinations of leukodaemons, their most frequent antagonists.
 
  A morbai stands just over 3 feet tall, resembling a hunched-over, old woman whose race always matches that of whoever views her. Each wears two plague masks, one on either side of her head, which conceal her faces and obscure where she actually focuses her attention. Her curved back and ragged shawl partially conceal two pairs of small, brown-feathered wings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Morbai)
 ```encounter-table
 name: Morbai

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flying Fox
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
   - name: Bestiary 5
     desc: 112
 ```
-# Description
+## Description
 These large bats are herbivorous and lack the echolocation abilities of their smaller kin, but are resistant to disease.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flying%20Fox)
 ```encounter-table
 name: Flying Fox

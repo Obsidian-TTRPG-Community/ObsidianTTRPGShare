@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ostiarius
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 86
 desc_short: Cloaked in shadows, every curve and sculpted muscle of this creature suggests some new gasping pleasure or titillating torture.
 ```
-# Description
+## Description
 Ostiariuses mind the gate between the world of mortals and the delights of the Plane of Shadow. Their role is twofold: admitting their brethren onto the Material Plane and-more insidiously- convincing mortals to willingly journey with them to their shadowed homeland. They are the emissaries of their race, encouraging susceptible mortals to abandon their tired philosophies and embrace the possibilities of a realm of inscrutable darkness. Most proudly stand over 6 feet tall, though their weights range from exceedingly light to grossly heavy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ostiarius)
 ```encounter-table
 name: Ostiarius

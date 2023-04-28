@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scarecrow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 238
 desc_short: It suddenly becomes clear that this is no ordinary pumpkin-headed scarecrow when its eyes glow and it comes to jerky life.
 ```
-# Description
+## Description
 Animated scarecrows look just like mundane scarecrows until they come to life, at which point their eyes and mouths glow with fiery light. Scarecrows are usually created as guardians to warn away trespassers. Each scarecrow is unique, but most stand 5 to 6 feet tall and are made of wood, cloth, and rope. Their stuffing of dried grass or straw makes them vulnerable to fire.
 
 A scarecrow cannot speak, and the only sound it makes is the creaking of its wooden frame and the rustling of its straw stuffing when it moves.
 
 In combat, a scarecrow uses its fascinating gaze, then chooses the largest foe to pummel with its slams. Although unintelligent, the scarecrow does not ignore other enemies, using its fear touch to cow them until the scarecrow kills its first target. A scarecrow usually does not pursue fleeing foes unless specifically commanded to do so by its creator.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scarecrow)
 ```encounter-table
 name: Scarecrow

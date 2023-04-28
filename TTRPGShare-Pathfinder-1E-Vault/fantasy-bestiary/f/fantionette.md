@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fantionette
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 82
 desc_short: What appears at first glance to be a child or halfling has skin more akin to cracked porcelain barely covering a black, insectile carapace, and it has spiderlike legs where one would expect arms.
 ```
-# Description
+## Description
 A fantionette is a servitor outsider for the halfling deity Thamir Gixx. It embodies the halfling god’s association with assassination and opportunity, presenting itself to loyal followers of the Silent Blade both as a powerful assassin and as impressive support for established murderers. When left to its own devices on the Material Plane, a fantionette is a terrifying stalker of halflings and humans alike, positioning itself among large groups of human children or halflings and selecting adult targets to murder based entirely on whim and opportunity.
 
  A fantionette stands between 3 and 4 feet high and weighs about 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fantionette)
 ```encounter-table
 name: Fantionette

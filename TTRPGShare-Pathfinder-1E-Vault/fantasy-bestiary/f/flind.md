@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flind
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,7 +48,7 @@ sources:
     desc: 100
 desc_short: This powerfully built, hyena-like humanoid is larger than the average gnoll and has a cunning, cruel gaze.
 ```
-# Description
+## Description
 Flinds are slightly larger, more intelligent, and of a stockier build than gnolls, and it’s a common misconception that flinds are an entirely separate race. Though interbreeding may one day make them so, flinds are actually the product of controlled breeding practices by the dominant females of gnoll packs.
 
  The slyest and largest female gnolls sanctified by the chosen of Lamashtu are paired with the most savage males, and a little more than half the time, the resulting litter includes at least one flind. The flind pup is often female. A breeding female flind produces only flinds, though flinds’ litters tend to be smaller than those of normal gnolls. Male flinds who breed with female gnolls produce a litter with a flind about three quarters of the time. More capable of focus, cunning, and planning than gnolls, flinds are typically found in leadership roles within gnoll bands and tribes, and frequently lead hunting parties. Like gnolls, flinds use ambush tactics and often make slaves of surviving foes, yet a flind is more likely to go on the offensive when the odds are closer to even. Flinds still prefer the advantage of attacking in numbers-they just don’t need the advantage to be overwhelming. In addition to using intimidation against enemies, flinds embrace flanking tactics and specialized uses of their unusual weapon, the flindbar.
@@ -54,7 +56,7 @@ Flinds are slightly larger, more intelligent, and of a stockier build than gnoll
  Flinds assign gnolls lower in the pack hierarchy the task of crafting flindbars (see page 93). Flinds are very particular about these weapons, and a gnoll who fails to properly weight and polish a flindbar can expect a savage mauling from the flind who demanded the weapon.
 
  A flind is roughly 7 feet tall and weighs between 280 and 315 pounds. Flinds have brindled or spotted fur, and are primarily russet in color with patches of black.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flind)
 ```encounter-table
 name: Flind

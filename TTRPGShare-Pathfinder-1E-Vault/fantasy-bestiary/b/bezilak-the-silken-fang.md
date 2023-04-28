@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bezilak, the Silken Fang
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 20
 desc_short: This towering four-armed demon carries an evil-looking scepter in one of its two human hands-the other arms end in pincers.
 ```
-# Description
+## Description
 Bezilak enjoys toying with his enemies, perhaps more so than other glabrezus. The Silken Fang loves nothing more than meeting a foe in combat and taking every opportunity to humiliate him in battle, deliberately making fewer attacks than he can (as if to imply that the foe isn’t worth the effort), or taking advantage of a stunned foe and removing his weapons and armor, leaving him naked when the stun effect wears off. Once Bezilak has a victim completely at his mercy, he is fond of stepping back and offering the defeated foe a wish in return for staying his rending pincers-the only catch is that the defeated foe must agree to Bezilak’s “editorial adjustments” to the wish, allowing Bezilak maximum use of the magic to serve his own desires.
 
 These edited wishes serve the demon’s long-term goals, for Bezilak is quite ambitious. The Silken Fang has served many powerful wizards in his lifetime, ranging from Gebbite necromancers to strange demonologists from buried cities under the Osirian sands. Unlike many demons, he enters such servitude willingly after actively seeking out powerful spellcasters and warlords who can aid him in his desires. There is only one catch-before Bezilak agrees to service, the mortal must make the following wish: “I wish to have the service of the Silken Fang for 1 month on the condition that at some point in the future, at the Silken Fang’s whim, I am to be transported to his side to perform a service in kind to him.” Bezilak favors spellcasters whose arrogance makes them foolish-he knows they will make this wish on the mistaken assumption that they will be able to kill the glabrezu before his agreed-upon service is to end, and therefore escape repayment. What very, very few of these power-mad fools ever seem to realize is that the wording of Bezilak’s wish does not compel him to wait until after his service is complete to demand payment. So when, invariably, a “master” turns on Bezilak and attempts to destroy him, the glabrezu merely invokes the latter half of his wish and commands the “master” to become his slave. The power of a glabrezu’s wishcraft is great, and those who meet this fate are invariably taken away to the Silken Fang’s Abyssal fortress of Virax (a vast castle hidden in an immense chamber deep within Andirif khu’s Vault of Ten Thousand Deaths), where they are placed in temporal stasis in an ever-growing collection of the greatest and most despicable spellcasters and warmongers of a hundred worlds. What Bezilak intends to do with his growing army of powerful pets is unknown, for Bezilak knows more than most that to reveal your plans is to defeat them.
 
 A spellcaster who manages to conjure the Silken Fang can sometimes avoid being tricked or forced into making the Silken Fang’s trapped wish, especially if he provides as part of the conjuration an offering of no less than 13 names of powerful individuals (preferably spellcasters or the leaders of nations) to whom Bezilak can peddle his services. The demon is not above rewarding those conjurers who understand how to properly bribe him, after all. It’s a DC 27 check to research the Silken Fang.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bezilak%2C%20the%20Silken%20Fang)
 ```encounter-table
 name: Bezilak, the Silken Fang

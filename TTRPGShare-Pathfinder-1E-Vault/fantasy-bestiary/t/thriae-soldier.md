@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thriae Soldier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 266
 desc_short: This creature has the upper body of a woman and the lower body of a bee. She wields a longbow with uncanny skill.
 ```
-# Description
+## Description
 The guardians of the thriae colony and its treasures, thriae soldiers make up the backbone of a hive’s defenses. Whether patrolling the perimeter of the hive or protecting its queen and seers from attackers, soldiers are a crucial asset ensuring a colony’s survival, and so it makes sense that they compose the majority of thriae populations. While not as spiritually powerful as their seer and queen kin, soldiers possess remarkable agility and skill with the bow. Guards remain stationed in pairs outside doors to important areas, such as the meditation chambers of seers and the enormous private quarters of the queen, and when their duties take them outside the walls of the hive, they travel in large convoys.
 
 A thriae soldier’s stinger carries within it especially potent venom similar to that of giant bees, and the soldier can easily apply this poison to her weapons. While most soldiers carry bows, they are also trained at an early age with a multitude of both melee and ranged weapons, and some prefer the feel of a sword or hammer. Regardless of the type, all thriae weapons and armors are expertly crafted, made of steel and gilded with intricate decorations of gold and amber-hued gems. Thriae soldiers are often talented artisans as well as warriors, and most create their own weapons to bear in combat.
@@ -56,7 +58,7 @@ A thriae soldier’s stinger carries within it especially potent venom similar t
 Since there are exponentially more soldiers than seers in any given colony, thriae queens ration merope sparingly to soldiers, whose use of it doesn’t provoke the divine insight cherished by thriae culture, but rather inspires courage and brute strength on the battlefield. When a thriae soldier consumes merope, her reflexes quicken, her wits sharpen, and she gains a second wind, so most individuals save their rationed doses for times of dire need. When circumstances are especially grim, commanders of thriae militias will order all of their troops to consume their merope at once, giving the company the final burst of strength it needs to turn the tide of battle.
 
 Thriae soldiers are heavier-set than most of their slender thriae sisters, and average individuals weigh about 200 pounds and measure 6 feet from head to toe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thriae%20Soldier)
 ```encounter-table
 name: Thriae Soldier

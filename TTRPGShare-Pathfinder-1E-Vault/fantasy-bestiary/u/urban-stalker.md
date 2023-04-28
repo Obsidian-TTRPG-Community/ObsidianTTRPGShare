@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Urban Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 25
 desc_short: This furtive gray-skinned woman wears a tattered cloak and a spiky circlet. The barbed hook of her weapon glistens with poison.
 ```
-# Description
+## Description
 When a victim of derro machinations escapes captivity, or when a subject’s memories remain clear despite modification, derros abandon their research and send specialized killers to hunt down the wayward experiments. Urban stalkers excel at moving about cityscapes unnoticed and removing any traces of their passage. These skilled trackers often walk the streets in disguise, listening for and investigating rumors of derro activities. To sow confusion, these derros sometimes invent their own stories of mysterious human men and women in black who steal evidence and terrorize witnesses of abductions.
 
 Urban stalkers pursue their targets over several days and take great satisfaction in seeing their marks during the most intimate moments of their lives, even forming an unreciprocated obsession during their pursuit. When the moment finally comes to quiet those too stubborn to forget their experiences in Nar-Voth, these sadistic derros savor the last moments they have with their victims, even crying to themselves once the deed is done and their new “friends” lie quiet and cold. To protect themselves from this painful separation, urban stalkers stretch the killing out over an inhumane amount of time and always collect a memento from each victim that they lovingly care for and keep in a safe place alongside their other souvenirs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Urban%20Stalker)
 ```encounter-table
 name: Urban Stalker

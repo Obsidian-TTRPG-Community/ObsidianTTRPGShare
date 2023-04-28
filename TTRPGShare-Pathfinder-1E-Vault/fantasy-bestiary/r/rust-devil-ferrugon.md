@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rust Devil (Ferrugon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,13 +76,13 @@ sources:
     desc: 82
 desc_short: This creature has curling ram’s horns, metallic flesh that bears coiling ribbons of rust, and wings covered with rusty metallic feathers, each resembling a weathered dagger.
 ```
-# Description
+## Description
 A rust devil lives to sow the seeds of complacency, pride, and callous cynicism in the hearts of mortals. Also known as ferrugons, rust devils rarely attack first except when rising to defend buildings or other objects they have taken it upon themselves to protect. Rather than resorting to bloodshed, a rust devil instead seeks to bolster a mortal’s pride and to convince him to undertake works of art, construction, or craft that are likely well beyond the mortal’s skill. Nothing pleases a rust devil more than to see a mortal attempt something grand, fail spectacularly, and fall into a morass of depression, selfloathing, and jealousy for the rest of his life.
 
 In combat, a rust devil uses walls of iron to shape the battlefield to its advantage, and prefers to remain adjacent to foes so it can make full attacks on them and whisper in their ears. Against foes who wield weapons, rust devils almost always use Greater Sunder to damage weapons and foes alike. If faced with foes of particularly striking appearances (often those with a Charisma score of 15 or higher), a rust devil is likely to use its flesh to iron spell-like ability, then cast shrink item on the resulting statue to keep it as a decoration for its lair.
 
 A rust devil stands only 5 feet tall but weighs 900 pounds, because of its supernaturally dense metallic flesh.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rust%20Devil%20(Ferrugon))
 ```encounter-table
 name: Rust Devil (Ferrugon)

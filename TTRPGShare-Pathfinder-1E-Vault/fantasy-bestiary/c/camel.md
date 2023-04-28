@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Camel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 154
 desc_short: This somewhat irritated-looking, one-humped camel has been outfitted with a bridle and saddle.
 ```
-# Description
+## Description
 Camels are large, desert-dwelling herd animals noted for their stamina and ill tempers. A typical camel stands about 6 feet at the shoulder and 7 feet at the hump.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Camel)
 ```encounter-table
 name: Camel

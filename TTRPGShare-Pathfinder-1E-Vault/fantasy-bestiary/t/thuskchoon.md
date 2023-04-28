@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thuskchoon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,13 +79,13 @@ sources:
     desc: 238
 desc_short: This sluglike creature leaves a swath of tar wherever he goes, and his upper body opens into a gaping, sludge-dripping mouth.
 ```
-# Description
+## Description
 Not all of the qlippoth lords have alien intelligences that outstrip the minds of most mortals. In the case of Thuskchoon, the qlippoth lord’s intellect is replaced almost entirely by a ravenous need to consume and feed. Now and then, the qlippoth lord gains flashes of insight and momentarily comprehends vast puzzles of reality, yet those brief insights fade quickly. These periods of insight are lengthened when Thuskchoon consumes prey, for as he digests flesh, he also digests thought, and can parasitize his victim’s minds in order to act with purpose. 
 
 Thuskchoon’s Abyssal sanctum is a vast warren of tunnels that wind through the depths of the Abyss and connect most, if not all, of the other qlippoth sanctums. Rarely does he spend time in this maze of caves, though, instead aimlessly wandering the depths of the Abyss in constant search of anything to sate his eternal hunger. Now and then, the qlippoth lord blunders through portals that bring his ravenings to other planes, whereupon it is but a matter of time before he is banished or slain and forced to start his wanderings over anew from his sanctum’s heart. 
 
 Thuskchoon measures 40 feet in length and weighs 16,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thuskchoon)
 ```encounter-table
 name: Thuskchoon

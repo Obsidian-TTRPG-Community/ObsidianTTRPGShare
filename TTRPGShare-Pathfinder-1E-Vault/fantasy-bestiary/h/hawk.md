@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hawk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 131
 ```
-# Description
+## Description
 Falconers prize these majestic birds as trained hunting companions if raised from chicks and properly instructed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hawk)
 ```encounter-table
 name: Hawk

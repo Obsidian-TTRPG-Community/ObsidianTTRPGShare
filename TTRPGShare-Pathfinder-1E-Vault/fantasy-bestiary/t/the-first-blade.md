@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The First Blade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,11 +77,11 @@ sources:
     desc: 82
 desc_short: Harsh flourishes decorate the armor of this ironclad giant, as though it were the war regalia of some merciless warlord.
 ```
-# Description
+## Description
 Said to have been formed from an unthinking sliver of steel dashed from Gorum’s blade during one of his violent clashes with a god-beast felled long ago, the First Blade is a living tool of war. Inspired by Gorum’s divine bloodlust, the First Blade continues to do battle in the service of its divine master. It has been reforged through the eons into a manifestation of Gorum’s perfect warrior, and now serves as the war god’s herald, traveling where its master desires. The herald answers only the calls of those who please Gorum in battle-weakling priests who beg for salvation from deadly foes never have their entreaties answered. Tales tell of the herald appearing amid lesser battles and, upon finding them to be mere skirmishes or clashes among weaklings, slaughtering all involved in disgust.
 
 The appearance of the First Blade transforms to match a style of armor that’s impressive to those it will be facing in battle. Regardless of its form, it typically stands about 15 feet tall and weighs nearly 5 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20First%20Blade)
 ```encounter-table
 name: The First Blade

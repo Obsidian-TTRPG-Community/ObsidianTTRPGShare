@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hydrodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 67
 desc_short: The skin on this frog-like fiend is clammy and its eyes look dead and milky; its wide face is split by a fanged maw. 
 ```
-# Description
+## Description
 While at first glance these creatures seem like enormous and foul boggards, their dangerous gait, dead eyes, and wicked claws give away their fiendish nature. In their home environment, hydrodaemons swim the sickening rivers and seas of Abaddon and the River Styx, ducking beneath the rivers of pus and bile only to leap out at enemies and rend their flesh with tooth and claw. It is said these are among the few creatures able to survive in the deadly waters of the River Styx. When called to the Material Plane, hydrodaemons serve powerful spellcasters, protecting domains dotted with pools, streams, and even sewer complexes. Associated with death by drowning, these fiends use a favored tactic to draw the most anguish from their victims. Hydrodaemons first attack with their inky black sleep spittle, hoping to render victims unconscious. With their opponents unable to fight back, hydrodaemons drag their enemies into the foul waters they call home and delight as the liquid fills their victims’ gasping lungs. If unable to drown a victim, they finish the job with jaws and claws. 
 
 Hydrodaemons possess an awkward gait, springing back on their heels and leaping about like humanoid frogs. Even so, they move in an unpredictable manner, twisting their bodies with each hopping movement. Hydrodaemons can also unfurl flaps of skin that allow them to glide through the air. Hydrodaemons stand 10 feet tall and weigh upward of 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hydrodaemon)
 ```encounter-table
 name: Hydrodaemon

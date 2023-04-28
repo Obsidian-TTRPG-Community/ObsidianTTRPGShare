@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shriezyx Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 88
 desc_short: This bulbous, green-skinned spider is as large as a horse, its toothy maw smiling beneath three glowing eyes.
 ```
-# Description
+## Description
 When Runelord Alaznist first learned the art of fleshwarping from the qlippoth lord Yamasoth, she and her assistants created myriad abominations that have survived into the modern day. Among these wretched creations are the spider-like shriezyx, which remain a constant threat to explorers venturing into the heart of Hollow Mountain, the ruins of Xin-Bakrakhan at the mountain’s base, and the Irespan in the nearby city of Magnimar. While shriezyx made excellent soldiers and guardians, they made poor servants, in part because of their unnatural fear of fire (a particular problem for Alaznist’s armies and devotees, who relied heavily on evocation magic). The same immunity to mental control that defended them against enchantments from the rival realm of Eurythnia also made them impossible to magically control by their own general. To solve this problem, Alaznist’s skilled fleshwarpers created a superior version of the shriezyx-a queen that could serve as commander to lesser shriezyx and ensure complete loyalty among the verminous minions.
 
  A typical shriezyx queen is roughly 8 feet in length and weighs as much as 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shriezyx%20Queen)
 ```encounter-table
 name: Shriezyx Queen

@@ -1,19 +1,21 @@
 ---
-alias: Raise Dead
+aliases: [Raise Dead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Raise Dead 
+## Raise Dead
 
 **source**:: PRPG Core Rulebook pg. 329  
 **school**:: conjuration (healing)
 **level**:: adept 5, cleric 5, oracle 5, shaman 6, spiritualist 5, warpriest 5, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (diamond worth 5,000 gp), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: dead creature touched  
@@ -21,7 +23,7 @@ alias: Raise Dead
 **saving-throw**:: none, see text
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You restore life to a deceased creature. You can raise a creature that has been dead for no longer than 1 day per caster level. In addition, the subject's soul must be free and willing to return. If the subject's soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.  
   
@@ -30,4 +32,3 @@ Coming back from the dead is an ordeal. The subject of the spell gains two perma
 A raised creature has a number of hit points equal to its current HD. Any ability scores damaged to 0 are raised to 1. Normal poison and normal disease are cured in the process of raising the subject, but magical diseases and curses are not undone. While the spell closes mortal wounds and repairs lethal damage of most kinds, the body of the creature to be raised must be whole. Otherwise, missing parts are still missing when the creature is brought back to life. None of the dead creature's equipment or possessions are affected in any way by this spell.  
   
 A creature who has been turned into an undead creature or killed by a death effect can't be raised by this spell. Constructs, elementals, outsiders, and undead creatures can't be raised. The spell cannot bring back a creature that has died of old age.
-

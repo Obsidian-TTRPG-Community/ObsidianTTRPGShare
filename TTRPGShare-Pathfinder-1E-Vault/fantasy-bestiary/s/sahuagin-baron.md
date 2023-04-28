@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sahuagin Baron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Monster Codex
     desc: 194
 ```
-# Description
+## Description
 Powerful warriors occupy the top ranks of sahuagin society.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sahuagin%20Baron)
 ```encounter-table
 name: Sahuagin Baron

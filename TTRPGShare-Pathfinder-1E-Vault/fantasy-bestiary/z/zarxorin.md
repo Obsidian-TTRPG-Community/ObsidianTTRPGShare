@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zarxorin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 90
 desc_short: This titanic earthen creature is humanoid-shaped with a hunched, pugnacious posture. The enormous hump of its back bears a ring of standing stones that crackle faintly with energy.
 ```
-# Description
+## Description
 A zarxorin is an immense, humanoid-shaped elemental with a vast hummock of rock and earth across its back like an enormous shell. Several weathered menhirs protrude from its back, resembling a circle of standing stones. The creatures are prone to long bouts of hibernation, during which they connect to the ley lines and energy sources of the deep earth and slowly gather power in their standing stones. A hibernating zarxorin is often mistaken for a hill, its standing stones believed to be evidence of some ancient, sacred site. Humanoids can live peacefully near one of these “druid hills” for decades, only to be flabbergasted when the hill suddenly rises up and lumbers away.
 
 Zarxorins engage in short stretches of exploration between their long rests, treading doggedly across mountain ranges or through underground caverns. They are by nature pugnacious, likely to swat away anyone in their path, and they rarely back down from a fight. Although zarxorins have no need to eat, they have a vast, stony stomach and can swallow smaller creatures whole, grinding them up within their cavernous bellies.
 
 A zarxorin is 75 feet tall and weighs more than 10,000 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zarxorin)
 ```encounter-table
 name: Zarxorin

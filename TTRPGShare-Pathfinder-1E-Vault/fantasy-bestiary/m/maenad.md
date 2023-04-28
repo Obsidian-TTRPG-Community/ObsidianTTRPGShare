@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Maenad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 191
 desc_short: This wild-looking woman is covered in spattered blood. Her wicked smile reveals sharp teeth and her eyes suggest insanity.
 ```
-# Description
+## Description
 Creatures of unbridled violence and decadence, maenads roam the world inviting others to join in on their debased revels. Though they can otherwise pass for humans, maenads appear bestial when raging or engaging in a bloody revel. They consume massive amounts of wine and food, cause fights, and tear their foes limb from limb. They control people’s minds, subconsciously inviting them to engage in their bloody festivities and fostering urges that lead to excesses of hunger, lust, anger, and violence.
 
 Maenads can live for thousands of years. They insinuate themselves into normal society before attempting to inf luence the community. They travel their entire lives in search of creatures to influence into debauchery, cannibalism, and gluttony.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Maenad)
 ```encounter-table
 name: Maenad

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Unfettered Phantom
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 190
 desc_short: This strange ghostly creature seems to writhe in the throes of some uncontrollable emotion.
 ```
-# Description
+## Description
 Willful fugitives of the Negative Energy Plane’s dread gravity, phantoms are escaped souls of humanoid creatures in desperate search of a psychically attuned being with whom to merge-such a merger creates a spiritualist. Every phantom harbors a strong emotion that tears it from the normal path of souls seeking final judgment and reward. This dominant emotion empowers the phantom’s slam attack and can manifest in more potent forms when this creature merges with a spiritualist, but it also serves as a weight that drags the phantom into the Ethereal Plane and toward the Negative Energy Plane. Until an unfettered phantom finds a refuge, it is a frantic and shifting thing, a desperate creature of raw emotion and need.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Unfettered%20Phantom)
 ```encounter-table
 name: Unfettered Phantom

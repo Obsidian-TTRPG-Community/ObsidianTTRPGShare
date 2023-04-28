@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apollyon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,13 +75,13 @@ sources:
     desc: 160
 desc_short: This muscular figure has a skeletal ram’s head and a cloud of f lies spews from his mouth.
 ```
-# Description
+## Description
 Apollyon has ruled for eons, since he seized his throne and slew all potential rivals following the disappearance of his presumed-dead predecessor. The Horseman of Pestilence is also known as the Prince of Plagues, and rules from his domain of the Plaguemere, a vast realm of swamps, flooded forests, and shallow, acidic oceans. His citadel, the Throne of Flies, is carved from a titanic spinal column and set of ribs, rumored to be those of a dead god of healing or a protean lord slaughtered by the Four and dragged back to Abaddon to feast upon. 
 
 While other horsemen engage in more overt acts of brutality against the mortals of the Material Plane, Apollyon and his servitors focus instead on their distinct form of creation: the crafting of new diseases and plagues capable of doing the daemons’ work for them, spreading across the Material Plane in virulent pandemics. Less known is the fact that these acts of creation also extend to artifacts and magical items intended to corrupt their recipients, and even larger metaphysical infestations that work within the goddess of death’s system to taint souls and condemn them to Abaddon after judgment. 
 
 Apollyon frequently sends his minions to the Material Plane, and their actions there leave behind contagious diseases long after they’re killed or banished. When spreading ever more horrific and virulent plagues, the Horseman is not averse to granting temporary immunity to his mortal cultists in exchange for using them as carriers and living incubators, though this protection is short-lived- eventually, they too fall and their souls are carried to Abaddon amid clouds of corpse flies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apollyon)
 ```encounter-table
 name: Apollyon

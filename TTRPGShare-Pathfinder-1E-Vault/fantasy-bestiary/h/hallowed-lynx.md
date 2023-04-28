@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hallowed Lynx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 88
 desc_short: Within a halo of brilliant, glowing orbs are the distinctive features of a compact feline with tufted ears, a short tail, and keen, piercing eyes.
 ```
-# Description
+## Description
 A mid-sized feline adorned with a halo of blinding orbs of light, the hallowed lynx is a creature widely thought to be mere myth or long extinct. Only a handful of hallowed lynxes exist, most held in stasis within long-buried Thassilonian ruins, though rumored sightings of the blindingly bright cats suggest that small populations may have survived to the present day. Created from keen hunters and imbued with potent light-based magic distilled from powerful outsiders, hallowed lynxes are deadly predators whose mere presence bolsters their allies. Aside from the brilliant orbs that surround them, a hallowed lynx resembles its mundane kin, having a short tail, large paws, spotted tawny fur, and distinctive tufts of fur extending from its ears. It is the same size as an ordinary lynx: just over 2 feet tall, around 3 feet long, and weighing about 35 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hallowed%20Lynx)
 ```encounter-table
 name: Hallowed Lynx

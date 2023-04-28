@@ -1,19 +1,21 @@
 ---
-alias: Summon Monster 1
+aliases: [Summon Monster 1]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Summon Monster 1 
+## Summon Monster 1
 
 **source**:: PRPG Core Rulebook pg. 350  
 **school**:: conjuration (summoning) \[see text\]
 **level**:: antipaladin 1, arcanist 1, bard 1, cleric 1, medium 1, oracle 1, psychic 1, skald 1, sorcerer 1, spiritualist 1, summoner 1, summoner (unchained) 1, warpriest 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F/DF (a tiny bag and a small candle)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one summoned creature  
@@ -21,7 +23,7 @@ alias: Summon Monster 1
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Note:* Antipaladins may only summon evil creatures.  
   
@@ -141,4 +143,3 @@ When you use a summoning spell to summon a creature with an alignment or element
 | Nalfeshnee (demon)                                                                                                                                            | Chaotic, Evil |
 | Trumpet archon                                                                                                                                                | Good, Lawful  |
 | \* This creature is summoned with the celestial template if you are good, or the fiendish template if you are evil; you may choose either if you are neutral. |               |
-

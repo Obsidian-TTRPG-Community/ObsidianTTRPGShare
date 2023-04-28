@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Masked Murderer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
   - name: Monster Codex
     desc: 85
 ```
-# Description
+## Description
 The masked murderer uses deception to get closer to her human prey, mingling among them without arousing their suspicion until it is too late for them to escape her clutches. Magic, particularly the fleshy facade spell, allows her to craft her deceptive appearance, and she knows how to disguise herself using mundane means so that she can at least hide her gruesomeness long enough to get to safety if her magic fails her.
 
  Charm and lies pave the murderer’s way through society. Typically, she begins small, making friends with low-class workers or farmers in taverns and alleyways, then luring them away to kill and devour them. This is rarely enough for a masked murderer, though, and in time she makes connections among the elite. This could be to satisfy her ego, but more often she wants to dine on the finer morsels of spoiled elites rather than the tough flesh of hard laborers.
 
  Unfortunately for ghouls, spending so much time among the living serves only to highlight the life they traded away for the unending hunger of their undead existence. Many masked murderers find themselves conf licted as a result, envying the vibrant lives of their prey. In the end, however, a masked murderer’s ghoulish hunger always overwhelms any other emotion she might feel, and she hunts her prey with as much ravenous fervor as any other ghoul, if not more.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Masked%20Murderer)
 ```encounter-table
 name: Masked Murderer

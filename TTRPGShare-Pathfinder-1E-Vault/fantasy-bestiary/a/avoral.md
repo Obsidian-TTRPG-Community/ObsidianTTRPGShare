@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Avoral
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 21
 desc_short: Great feathers sweep back from this fierce bird-man’s brow, and long, clawed hands grow from the end of his wings. 
 ```
-# Description
+## Description
 Avorals are generally human-shaped, but their upper limbs are great wings with a human-like hand at the end of each, allowing avorals to use tools and weapons, though in battle they prefer to attack from the air and slash with the large claws on their feet and buffets from their great wings. An avoral’s head has a feathery cowl instead of hair, typically brown, white, gray, or golden, and its facial features are bird-like, with a large nose and piercing eyes. Its bones are hollow but strong, making it ideal for flying. Like eagles, avorals have phenomenal vision, and can see fine details even at great distances. 
 
 Though on their home plane they are content to soar among the clouds and challenge each other to diving contests among the mountain peaks, in war avorals are the scouts, spies, and messengers of the agathions. With their incredible speed, phenomenal eyesight, and magical powers, they can sneak into an area, spy on whatever lives there, silently converse with the local fauna for additional information, and fly or teleport out again with a comprehensive report. They are experts at hit-and-run attacks and are often responsible for ferrying other celestial soldiers to battle. 
 
 A typical avoral is 7 feet tall but weighs only 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Avoral)
 ```encounter-table
 name: Avoral

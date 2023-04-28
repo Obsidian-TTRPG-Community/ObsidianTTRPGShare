@@ -1,19 +1,21 @@
 ---
-alias: Mask Dweomer, Communal
+aliases: [Mask Dweomer, Communal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mask Dweomer, Communal 
+## Mask Dweomer, Communal
 
 **source**:: Ultimate Combat pg. 236  
 **school**:: illusion (glamer)
 **level**:: occultist 2, psychic 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of gauze)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creatures or objects touched  
@@ -21,6 +23,6 @@ alias: Mask Dweomer, Communal
 **saving-throw**:: none, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *mask dweomer*, except you divide the duration in 1-day increments among the creatures or objects touched.

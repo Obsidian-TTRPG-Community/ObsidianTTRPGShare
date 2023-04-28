@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sturzstromer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 92
 desc_short: Stones jump and roll as if moved by an earthquake that affects nothing else around it. A wave of disturbed earth and rock follows behind them.
 ```
-# Description
+## Description
 Sturzstromers, also known as living landslides, are the elemental incarnations of earth in motion, from crushing rockfalls to landscape-altering avalanches. A sturzstromer consists of hundreds of stones, each moving of its own volition. When at rest, the stones lie atop one another; when the sturzstromer moves, the stones roll and churn, drawing smaller pebbles and dirt into their mass. Some observers are able to discern faces in the textures and colors of these rocks.
 
  The individual rocks that compose a sturzstromer are roughly a foot in diameter, though often irregularly shaped, and weigh approximately 80 pounds each. Altogether, a sturzstromer weighs around 12 tons, and when formed into a pile, the peak reaches 5 feet high.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sturzstromer)
 ```encounter-table
 name: Sturzstromer

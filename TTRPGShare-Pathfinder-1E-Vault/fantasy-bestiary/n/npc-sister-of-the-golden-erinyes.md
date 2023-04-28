@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sister of the Golden Erinyes
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 53
 ```
-# Description
+## Description
 Following the devastation of Isger’s Goblinblood Wars, many Isgeri children found themselves without parents. To care for these orphans, as well as those orphaned more recently by years of unchecked bandit attacks, Cheliax’s House of Thrune established numerous orphanages throughout that land under the auspices of the Sisters of the Golden Erinyes, an unholy monastic order sworn to Asmodeus. Here, orphans are clothed, sheltered, and fed by the sisters, but this humanitarian outreach is just a front for a darker purpose. Almost as soon as they arrive, these children are baptized into Asmodeus’s faith, rigorously taught infernal laws and philosophies, and trained in the exotic martial arts of Hell’s devils. By the time they reach adulthood, most of these orphans are ready to take their places in the disciplined ranks of Cheliax’s Hell-inspired military or religious orders. Many young men leave the orphanages for the ranks of the Hellknights or the church of Asmodeus, while most of the women are inducted into the order to become full-f ledged “devil nuns” themselves.
 
 The Sisters of the Golden Erinyes are all skilled practitioners of hamatalatsu, a deadly martial art inspired by and based on the fighting style of barbed devils. A hamatalatsu master can pierce armor with her bare hands and inflict excruciating pain on her opponents with her unarmed strikes. Sisters of the Golden Erinyes also train in exotic weapons not normally found in the lands of the Inner Sea, and are more than ready to defend their monasteries, their young charges, and their faith against any who oppose them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sister%20of%20the%20Golden%20Erinyes)
 ```encounter-table
 name: NPC Sister of the Golden Erinyes

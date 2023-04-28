@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Pain
+aliases: [Symbol of Pain]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Pain 
+## Symbol of Pain
 
 **source**:: PRPG Core Rulebook pg. 356  
 **school**:: necromancy (evil, pain)
 **level**:: arcanist 5, cleric 5, mesmerist 5, occultist 4, oracle 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Pain
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that each creature within the radius of a *symbol of pain* instead suffers wracking pains that impose a -4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Heretic (Cult Leader)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: GameMastery Guide
     desc: 279
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Heretic%20(Cult%20Leader))
 ```encounter-table
 name: NPC Heretic (Cult Leader)

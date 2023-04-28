@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mordiggian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,13 +82,13 @@ sources:
     desc: 86
 desc_short: This massive wormlike creature appears to be made of solid darkness that sucks surrounding light into its body to be forever extinguished.
 ```
-# Description
+## Description
 Called the Charnel God by his worshipers, Mordiggian is one of the oldest and most powerful of the Great Old Ones. However, his tendency to move back and forth in time whenever he reincarnates makes the tracking of his age largely academic. None can say how long Mordiggian has existed, for as far as one can look back into the past or forward into the future, the presence of his cult can be found if one searches hard enough.
 
 Mordiggian has no body. He appears as a cloud of mobile, malevolent darkness and shadow that can change its outline and shape at will. He is fond of appearing as an immense graveworm or limbless giant made of darkness, and when he desires a meal, he can form tentacles of solid darkness to pluck up his feast.
 
 Ghouls, particularly those that dwell in Leng, often venerate Mordiggian with a ferocious zeal. They consider ghoulish worshipers of other deities, particularly of the demon lord Kabriri, to be heretics and work to eradicate such blasphemers whenever they are found. Although worship of Mordiggian has become quite rare on Golarion as other death gods have gained more prominence, his cult is patient and willing to simply wait for the Charnel God’s inevitable return to power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mordiggian)
 ```encounter-table
 name: Mordiggian

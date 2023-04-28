@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bugbear Lurker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Monster Codex
     desc: 25
 ```
-# Description
+## Description
 Many bugbear sneaks serve as scouts and assassins for hobgoblin armies. They sometimes become enamored of the act of killing itself, and use their natural affinity for moving quietly to become unseen murderers in cities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bugbear%20Lurker)
 ```encounter-table
 name: Bugbear Lurker

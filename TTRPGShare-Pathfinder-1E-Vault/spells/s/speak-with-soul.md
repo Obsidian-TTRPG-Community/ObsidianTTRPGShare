@@ -1,19 +1,21 @@
 ---
-alias: Speak with Soul
+aliases: [Speak with Soul]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Speak with Soul 
+## Speak with Soul
 
 **source**:: Planar Adventures pg. 45  
 **school**:: necromancy
 **level**:: antipaladin 4, cleric 6, medium 4, oracle 6, paladin 4, shaman 6, spiritualist 6, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a drop of candle wax)
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **target**:: see text  
@@ -21,7 +23,7 @@ alias: Speak with Soul
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You commune with the soul of a dead creature. To cast this spell, you must be at the soul’s place of death or be in the soul’s presence, whether it is contained in a receptacle, powers an intelligent magic item, or other possibilities. The soul can attempt a Will save to resist the spell as if it were alive.  
   

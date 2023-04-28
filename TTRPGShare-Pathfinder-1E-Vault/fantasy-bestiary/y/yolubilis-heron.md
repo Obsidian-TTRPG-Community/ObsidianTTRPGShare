@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yolubilis Heron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 83
 desc_short: As tall as a tree, this dark gray bird stands on long legs. Its curved neck supports a sleek head with a slim but wicked beak.
 ```
-# Description
+## Description
 Named so because they inhabit the banks of the Yolubilis River, these enormous herons hunt in similar ways as their smaller cousins, black herons. These birds can stand still at the edge of the river for hours, curling their wings in such a way as to create shaded areas that their prey unwittingly enter seeking shelter, thinking that they have found a tree or other source of respite from the heat of the day. Many Yolubilis herons stand in water long enough that they grow algae on their legs, deepening the illusion of a tree growing along the riverbank. Some travelers have reported Yolubilis herons stitching fallen foliage into their feathers to complete their attempt at camouflage.
 
 Once their prey comes nearby, the herons then lash out, snatching up the unwary prey. These birds typically stand upward of 20 feet tall-their legs make up almost half of this height. They weigh 600 pounds and have a wingspan of over 35 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yolubilis%20Heron)
 ```encounter-table
 name: Yolubilis Heron

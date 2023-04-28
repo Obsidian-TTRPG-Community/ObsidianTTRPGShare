@@ -1,19 +1,21 @@
 ---
-alias: Memory Lapse
+aliases: [Memory Lapse]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Memory Lapse 
+## Memory Lapse
 
 **source**:: Advanced Player's Guide pg. 232  
 **school**:: enchantment (mind-affecting)
 **level**:: arcanist 1, bard 1, mesmerist 1, occultist 1, skald 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,11 +23,11 @@ alias: Memory Lapse
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a Diplomacy, Intimidate, or opposed skill check, though only with respect to the target, not other creatures that may be present.
 
-## Mythic Memory Lapse 
+## Mythic Memory Lapse
 
 **source**:: Mythic Adventures pg. 100  
 The target forgets an additional round, back to the beginning of the turn before its last turn.  

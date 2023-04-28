@@ -1,19 +1,21 @@
 ---
-alias: Maw of Chaos
+aliases: [Maw of Chaos]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Maw of Chaos 
+## Maw of Chaos
 
 **source**:: Pathfinder \#74: Sword of Valor pg. 74  
 **school**:: conjuration (teleportation) (chaotic)
 **level**:: arcanist 8, cleric 8, oracle 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (a gold-plated, cold iron ring that was forged in the Abyss)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: 5-foot-radius spread  
@@ -21,7 +23,7 @@ alias: Maw of Chaos
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates a rip in reality that plunges into the interspatial vortices that constantly churn with the raw destructive chaos of the Abyss. Each round at the beginning of your turn, the *maw of chaos* attempts a drag combat maneuver check against every creature within 40 feet, using your caster level plus your primary spellcasting ability modifier in place of a CMB. If a creature is dragged into a *maw of chaos*, the area erupts in a surge of chaotic energy and the creature takes 1d6 points of damage per caster level. Only one such eruption can occur per round.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Hellknight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 30
 ```
-# Description
+## Description
 Hellknights are living embodiments of unyielding law, striving to impose order on everyone and believing that justice can only be achieved through the suppression of mortals’ chaotic tendencies. They are feared wherever they go by criminals and law-abiding citizens alike.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Hellknight)
 ```encounter-table
 name: NPC Hellknight

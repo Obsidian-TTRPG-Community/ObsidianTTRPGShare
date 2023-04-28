@@ -1,25 +1,27 @@
 ---
-alias: Tectonic Communion
+aliases: [Tectonic Communion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Tectonic Communion 
+## Tectonic Communion
 
 **source**:: Faiths and Philosophies pg. 29  
 **school**:: divination
 **level**:: druid 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: Instantaneous
 
-### Description 
+### Description
 
 *Tectonic communion* functions as *commune with nature* with an even greater range. In outdoor or natural underground settings, the spell operates on a radius of 100 miles per caster level, extending even underground without penalty.  
   

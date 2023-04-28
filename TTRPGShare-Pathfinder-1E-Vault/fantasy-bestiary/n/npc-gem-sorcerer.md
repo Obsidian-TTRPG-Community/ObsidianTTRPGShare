@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Gem Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: NPC Codex
     desc: 160
 ```
-# Description
+## Description
 The gem sorcerer is unusual among dwarves, using arcane magic to satisfy his insatiable greed for gems.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Gem%20Sorcerer)
 ```encounter-table
 name: NPC Gem Sorcerer

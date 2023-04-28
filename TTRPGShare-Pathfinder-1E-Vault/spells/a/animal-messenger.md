@@ -1,19 +1,21 @@
 ---
-alias: Animal Messenger
+aliases: [Animal Messenger]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Animal Messenger 
+## Animal Messenger
 
 **source**:: PRPG Core Rulebook pg. 241  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: bard 2, druid 2, hunter 1, mesmerist 2, psychic 2, ranger 1, shaman 2, skald 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a morsel of food the animal likes)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one tiny animal  
@@ -21,7 +23,7 @@ alias: Animal Messenger
 **saving-throw**:: none; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You compel a Tiny animal to go to a spot you designate. The most common use for this spell is to get an animal to carry a message to your allies. The animal cannot be one tamed or trained by someone else, including such creatures as familiars and animal companions.  
   

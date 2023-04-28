@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Nature Scholar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
   - name: NPC Codex
     desc: 225
 ```
-# Description
+## Description
 More aggressive than most other loremasters, nature scholars use terrain and the magic of the natural world to avoid enemies while calling down destruction.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Nature%20Scholar)
 ```encounter-table
 name: NPC Nature Scholar

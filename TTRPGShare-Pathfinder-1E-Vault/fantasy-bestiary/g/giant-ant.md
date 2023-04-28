@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Ant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,7 +48,7 @@ sources:
     desc: 16
 desc_short: A thin, six-legged ant the size of a pony stands at the ready, its mandibles chittering and its stinger dripping with venom.
 ```
-# Description
+## Description
 Giant ants are as industrious as their normal-sized kin. While their nests generally don’t consist of thousands, their greatly increased size more than compensates.
 
 The statistics given above are for soldier ants-the variety most commonly encountered. The following simple templates can be used to create variants of the standard soldier ant.
@@ -56,7 +58,7 @@ Worker (-1 CR) Worker ants do not have a poison sting attack or a grab special a
 Drone (+1 CR) Drones have the advanced simple template and a fly speed of 30 feet (average).
 
 Queen (+2 CR) The queen of a nest is an immense, bloated creature. She gains the advanced and the giant simple templates, but drops her speed to 10 feet and loses her climb speed entirely.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Ant)
 ```encounter-table
 name: Giant Ant

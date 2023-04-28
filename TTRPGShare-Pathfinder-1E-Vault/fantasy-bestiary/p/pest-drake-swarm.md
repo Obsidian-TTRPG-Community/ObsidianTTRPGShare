@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pest Drake Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 84
 desc_short: These songbird-sized drakes declare their territory with an insistent chorus of shrill chirps.
 ```
-# Description
+## Description
 Roosting on statuary and eaves, pest drakes are the bane of masons and carpenters across Golarion. By itself, a single pest drake is a tolerated nuisance, eating insects and other vermin in the city. Its distinctive song-like chirp greets passersby and thanks those who throw it scraps of food. When pest drakes gather, however, they become much more dangerous. The little wyvern-like dragons erode the stone where they nest and grow territorial in large groups, becoming deadly, acid-spitting flocks when agitated.
 
  Some of the smallest dragons, adult pest drakes are just under a foot in length and weigh 1-2 pounds. They live approximately 10-15 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pest%20Drake%20Swarm)
 ```encounter-table
 name: Pest Drake Swarm

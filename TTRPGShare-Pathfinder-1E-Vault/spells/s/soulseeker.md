@@ -1,19 +1,21 @@
 ---
-alias: Soulseeker
+aliases: [Soulseeker]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Soulseeker 
+## Soulseeker
 
 **source**:: Planar Adventures pg. 44  
 **school**:: divination
 **level**:: cleric 8, medium 4, occultist 6, oracle 8, shaman 8, spiritualist 6, witch 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (incense worth 250 gp), F (see text)
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: one soul  
@@ -21,7 +23,7 @@ alias: Soulseeker
 **saving-throw**:: Will negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You identify the stage of a given soul’s judgment, or determine its fate post-judgment. You must either unambiguously identify the soul you seek or use the skull of the body the soul vacated as a focus. If the subject does not share your alignment, the soul can attempt a Will save to resist this spell’s effects as if it were still alive. If the subject is still alive or its soul has been destroyed, this spell fails without providing any information.  
   

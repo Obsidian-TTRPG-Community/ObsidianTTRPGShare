@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Silvanshee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,13 +72,13 @@ sources:
     desc: 20
 desc_short: This black cat has gray stripes, violet eyes, and an unusual white blaze on its chest. 
 ```
-# Description
+## Description
 Silvanshees are curious but reclusive cat agathions. Unobtrusive and able to blend in among normal animals (unlike the more anthropomorphic agathions), they are the eyes and ears of the good planes in the mortal world. Most roam hills, forests, and plains, keeping an eye out for evil influences. They can be taken as familiars by 7th-level good spellcasters who utilize the Improved Familiar feat and meet the proper prerequisites. As familiars, silvanshees act as moral guides and steer their mortal allies toward corruptive forces that must be eliminated. In some mortal lands, they are called cat sìth or cath sidhe, and are believed to be disguised witches or fairies-and not necessarily benign creatures, which only encourages silvanshees to avoid strangers. 
 
 Silvanshees are not fond of open combat, even against demons, devils, or other fiendish threats, and they’re likely to run away if confronted. When they must fight, they prefer greater numbers and the element of surprise, using their magic to temporarily overcome their physical weaknesses, and melting away into mist if the battle turns against them. 
 
 A silvanshee is the size of a large domestic cat, though almost always sleek rather than fat, and weighs 20 pounds on average.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Silvanshee)
 ```encounter-table
 name: Silvanshee

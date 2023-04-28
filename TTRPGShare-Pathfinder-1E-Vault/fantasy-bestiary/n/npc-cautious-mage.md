@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cautious Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: NPC Codex
     desc: 178
 ```
-# Description
+## Description
 These mages are new adventurers looking for protectors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cautious%20Mage)
 ```encounter-table
 name: NPC Cautious Mage

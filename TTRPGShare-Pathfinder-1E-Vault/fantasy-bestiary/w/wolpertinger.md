@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wolpertinger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 87
 desc_short: This creature appears to be a large hare with long fangs, feathered wings, and a set of antlers.
 ```
-# Description
+## Description
 Wolpertingers are a bizarre amalgamation of hare and bird with the antlers of a deer. A wolpertinger’s mottled fur ranges from light browns and tans to nearly black. A pair of brown-and-tan feathered wings sprouts from its back. While on the ground, wolpertingers fold these wings tight to their bodies. Fierce predators, wolpertingers hunt in packs using clever tactics. While capable of flight, they find prolonged flight taxing and tend to stay on the ground most of the time.
 
 A wolpertinger has a 4-foot wingspan, is nearly 2 feet long, and weighs around 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wolpertinger)
 ```encounter-table
 name: Wolpertinger

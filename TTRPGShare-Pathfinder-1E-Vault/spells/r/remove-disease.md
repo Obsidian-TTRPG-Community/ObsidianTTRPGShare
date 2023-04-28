@@ -1,19 +1,21 @@
 ---
-alias: Remove Disease
+aliases: [Remove Disease]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Remove Disease 
+## Remove Disease
 
 **source**:: PRPG Core Rulebook pg. 332  
 **school**:: conjuration (healing)
 **level**:: adept 3, alchemist 3, cleric 3, druid 3, hunter 3, inquisitor 3, investigator 3, oracle 3, ranger 3, shaman 3, spiritualist 3, warpriest 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Remove Disease
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 *Remove disease* can cure all diseases from which the subject is suffering. You must make a caster level check (1d20 + caster level) against the DC of each disease affecting the target. Success means that the disease is cured. The spell also kills some hazards and parasites, including green slime and others.  
   

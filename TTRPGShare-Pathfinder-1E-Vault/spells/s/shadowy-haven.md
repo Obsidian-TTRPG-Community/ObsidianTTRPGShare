@@ -1,19 +1,21 @@
 ---
-alias: Shadowy Haven
+aliases: [Shadowy Haven]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadowy Haven 
+## Shadowy Haven
 
 **source**:: Advanced Race Guide pg. 113  
 **school**:: transmutation
 **level**:: arcanist 4, psychic 4, redmantisassassin 4, sorcerer 4, wizard 4 (fetchling)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a small black silk bag)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one 5-foot square of floor touched  
@@ -21,7 +23,7 @@ alias: Shadowy Haven
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *rope trick*, except the point of entry is through a 5-foot-square instead of a rope. The space holds as many as 10 creatures of any size.  
   

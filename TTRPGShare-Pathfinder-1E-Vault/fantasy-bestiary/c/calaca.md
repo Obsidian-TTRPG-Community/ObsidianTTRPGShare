@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Calaca
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 88
 desc_short: This figure wears a fine suit, vest, gloves, and ascot and has a guitar at the ready. The creature’s face is hidden by an intricately decorated skull mask.
 ```
-# Description
+## Description
 Calacas are unusual psychopomps in that their purview is not the dead, but the survivors who must carry on in the dead’s absence. A calaca’s purpose is to abate the sorrow of family members and loved ones of the recently departed. It accomplishes this by way of soothing wisdom and its celebration of the deceased’s life through song. Although mortals who know calacas’ true nature may think them simply magnanimous spirits, these psychopomps have a very pragmatic reason for soothing the aggrieved, which is to dissuade any with the know-how or desire from attempting to raise the dead using necromancy or other foul means.
 
  In order to mingle with mortals without alerting them to its nature, a calaca disguises itself from head to toe in local finery, wearing gloves and colorful masks to hide its true nature. Beneath its facade, a calaca resembles a large skeleton, its bones a somber gray. A typical calaca stands around 6 feet tall and weighs only 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Calaca)
 ```encounter-table
 name: Calaca

@@ -1,19 +1,21 @@
 ---
-alias: Holy Ice
+aliases: [Holy Ice]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Holy Ice 
+## Holy Ice
 
 **source**:: Ultimate Magic pg. 223  
 **school**:: transmutation (cold, good, water)
 **level**:: cleric 5, oracle 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a flask of holy water or 5 pounds of powdered silver worth 25 gp)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: wall of ice or flying ice javelins (see text)  
@@ -21,7 +23,7 @@ alias: Holy Ice
 **saving-throw**:: Reflex negates or none (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates a large mass of frozen holy water that can be used for one of two effects.  
   

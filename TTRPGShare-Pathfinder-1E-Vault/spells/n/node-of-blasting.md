@@ -1,19 +1,21 @@
 ---
-alias: Node of Blasting
+aliases: [Node of Blasting]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Node of Blasting 
+## Node of Blasting
 
 **source**:: Occult Adventures pg. 178  
 **school**:: abjuration (mind-affecting)
 **level**:: medium 3, mesmerist 3, occultist 2, psychic 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one touched object weighing no more than 10 lbs.  
@@ -21,7 +23,7 @@ alias: Node of Blasting
 **saving-throw**:: Will partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You imbue an object with psychic energy. The *node of blasting* unleashes a mental blast when a creature with a mind touches the object, dealing 6d6 points of damage to the creature touching the object and causing the creature to be staggered for 1 minute. A successful saving throw halves the damage and negates the staggered condition.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Psychic Image
+aliases: [Psychic Image]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Psychic Image 
+## Psychic Image
 
 **source**:: Occult Adventures pg. 183  
 **school**:: illusion (shadow)
 **level**:: psychic 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: one shadow duplicate  
@@ -21,7 +23,7 @@ alias: Psychic Image
 **saving-throw**:: Will disbelief (if interacted with)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You envelop your consciousness in a quasi-real image of yourself. Your *psychic image* looks, sounds, and smells like you, but is intangible. While your mind occupies the image, you control it as though it were your own body, but you cannot directly affect physical objects. Your image moves with a fly speed of 60 feet and perfect maneuverability. Your senses perceive only what the image can see and hear while occupying it, and your own body is considered blind, deaf, and helpless. You can switch between the image and your body as a swift action. While your mind is in your body, the image is similarly helpless.  
   

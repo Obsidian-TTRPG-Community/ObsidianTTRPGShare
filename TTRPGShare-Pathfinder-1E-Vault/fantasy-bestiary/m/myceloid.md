@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Myceloid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 196
 desc_short: This shambling fungus creature bears a strong resemblance to a rotund human, but with a mushroom cap for a head.
 ```
-# Description
+## Description
 The walking fungi known as myceloids feed off of decaying organic matter like many other fungi, yet unlike typical mushrooms or molds, they take particular pleasure in feeding from the rotting bodies of humanoids. Myceloids claim to be able to taste things like “innocence,” “despair,” and “hope” in the ripeness of rancid meat, although whether this is true or simply part of the myceloids’ twisted sense of humor is unclear.
 
 Most myceloids have deep purple caps studded with white lumps, and paler purple necks and bodies of tough, leathery fungus. Their spores grow tenaciously in living flesh, causing a rapid spread of painful purple lesions that, in advanced stages of the sickness, sprout tiny purple mushrooms; plucking these mushrooms is painful to the victim and causes bleeding. This condition, known as purple pox, is the method by which myceloids both season their meat and procreate.
 
 Myceloids prefer to capture victims alive for later infection and control. To a myceloid, a living creature has three uses-first as a slave, second as a host from which to birth new myceloids, and finally as a banquet to feast upon once the first two destinies have played out.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Myceloid)
 ```encounter-table
 name: Myceloid

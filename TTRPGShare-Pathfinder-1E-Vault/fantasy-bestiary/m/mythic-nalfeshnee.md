@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Nalfeshnee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 183
 desc_short: This porcine demon has huge tusks and tiny wings, and its furred flesh oozes with greasy black-and-purple energy.
 ```
-# Description
+## Description
 A mythic nalfeshnee gains its power by tricking or forcing other mythic beings to imbue it. It hoards its many valuable secrets as a dragon hoards gold.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Nalfeshnee)
 ```encounter-table
 name: Mythic Nalfeshnee

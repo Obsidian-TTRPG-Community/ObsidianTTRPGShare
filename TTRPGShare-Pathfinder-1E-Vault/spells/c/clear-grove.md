@@ -1,19 +1,21 @@
 ---
-alias: Clear Grove
+aliases: [Clear Grove]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Clear Grove 
+## Clear Grove
 
 **source**:: Heroes of the Wild pg. 30  
 **school**:: transmutation
 **level**:: druid 3, hunter 2, ranger 2, shaman 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M/DF (a miniature hoe)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 20-ft.-radius clearing  
@@ -21,7 +23,7 @@ alias: Clear Grove
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Trees, shrubs, and other thick vegetation move out of the spell’s area. The affected area is cleared of all vegetation thick enough to provide cover or concealment. This also creates a hole in any tree canopy, allowing sunlight to pass through. Affected trees and undergrowth form a 5-foot-wide ring along the edge of the clearing, which may provide cover or concealment based on the thickness of the vegetation (at the GM’s discretion).  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ved
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 61
 desc_short: This hairy humanoid’s misshapen head appears too large for its body and it wields a lumpy, primitive club.
 ```
-# Description
+## Description
 Brutish and rather stupid, veds are clannish and shun even lightly populated areas, preferring cold hills and mountains. Occasionally, a gang of veds (often an adult leading two or three adolescents) carries out raids on remote mining camps or other establishments in the hills, claiming the lives of a half dozen people or so and collecting whatever baubles, food, and useful raw materials they find. They rarely strike against larger settlements, and don’t pursue sentient creatures that f lee their attacks.
 
  Clans of veds usually consist of a few mated pairs, their offspring, and one or two aged specimens that are left to die if they become unable to pull their own weight. Veds consider training their young a responsibility of every adult member of the clan.
@@ -62,7 +64,7 @@ Brutish and rather stupid, veds are clannish and shun even lightly populated are
  Veds are omnivores; they prefer raw meat, but aren’t averse to consuming tree bark for nourishment. Though they have no compunctions about killing sentient creatures, they rarely eat them. They simply leave the bodies to rot or-for particularly sadistic or desperate veds-use the corpses as bait for catching wild game.
 
  Perhaps the most unusual aspect of the veds is their enormous lung capacity, which they are able to use aggressively. These giants can expel air from their lungs in a mighty blast, extinguishing small fires and knocking prone any who stand before them. The veds then descend on their victims, pummeling their prey viciously with their simple but effective clubs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ved)
 ```encounter-table
 name: Ved

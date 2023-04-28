@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Monkey Goblin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 16
 desc_short: This creature has the wide head and toothy mouth of a goblin, dappled green skin, simian hands and feet, and a ratlike tail.
 ```
-# Description
+## Description
 Monkey goblins are an offshoot of the goblin race that has eagerly adapted to life in the high, leafy canopies of tropical forests. Equipped with ratlike prehensile tails, monkey goblins are as at home in the trees as they are on the ground. 
 
 Monkey goblins lead savage lives, and many take levels in the barbarian class, though fighters and rogues are also common among the race. While spellcasting classes are almost unheard of among them, monkey goblin clerics in the service of dark gods are given a level of respect by other monkey goblins that borders on fear.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Monkey%20Goblin)
 ```encounter-table
 name: Monkey Goblin

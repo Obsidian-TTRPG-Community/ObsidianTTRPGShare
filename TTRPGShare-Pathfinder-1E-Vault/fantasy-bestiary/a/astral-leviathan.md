@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Astral Leviathan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 14
 desc_short: Above this brobdingnagian, whalelike creature’s cavernous maw of freakish teeth, multiple eyes peer out in different directions.
 ```
-# Description
+## Description
 An astral leviathan is an immense predator that patrols the silvery void of the Astral Plane in search of food and new experiences. Dangerous if provoked, it is intelligent enough to be reasoned with, though most visitors to that plane mistakenly believe it is just a beast. It requires only a minimal amount of physical food, as it primarily sustains itself on planar energies (particularly those radiating from natural portals to other planes) and invisible streamers of astral dust. Astral leviathans are curious about types of creatures they’ve never met before and places they haven’t visited. Civilized inhabitants of the Astral Plane might befriend, bribe, or tame leviathans, using them as cargo vessels or navigators on journeys to remote locations. More savage races enslave them with enchantments and hooked barbs and use them for the same purpose.
 
 An astral leviathan is approximately 70 feet long and weighs 60 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Astral%20Leviathan)
 ```encounter-table
 name: Astral Leviathan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grand Defender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 88
 desc_short: This mighty golem made of polished iron resembles a keeneyed dwarf. It carries a warhammer and a large shield bearing Torag’s symbol.
 ```
-# Description
+## Description
 Created by Torag to serve as his herald, the Grand Defender is a powerful golem animated by the collective will of dozens of great dwarf heroes. The heroic souls within the golem consider it an honor to lend their knowledge and love of battle to this mighty shell so it can protect dwarves in the mortal world. These heroes control the golem for anything from a single manifestation to several consecutive months of tasks, and afterward return to their reward in the afterlife. These multiple identities contribute to its varying appearance in each incarnation, even changing its apparent gender. The above statistics describe a typical manifestation of the herald, though if it is summoned for a specific purpose, the individual spirits within might have greater knowledge pertaining to that purpose. In general, the herald is friendly toward followers of Torag and focused on defending individuals or communities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grand%20Defender)
 ```encounter-table
 name: Grand Defender

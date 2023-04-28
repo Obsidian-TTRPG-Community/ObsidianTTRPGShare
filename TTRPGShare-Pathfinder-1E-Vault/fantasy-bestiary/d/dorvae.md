@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dorvae
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 62
 desc_short: Two pairs of stretched and veiny leather wings adorn the back of this shrouded reptilian nightmare.
 ```
-# Description
+## Description
 The dorvaes are a race of fiends standing apart from all others. Each dorvae prides itself on owing no allegiance to anything but itself, and is never willing to suffer a master no matter how powerful or intelligent that creature may be. Dorvaes believe all other creatures in the universe live solely to entertain the dorvaes’ perverse pleasures. Cruel, selfish, and calculating, each dorvae pursues its own dark agenda and desires without guilt, empathy for its playthings, or even consideration of the possible consequences. Master manipulators, dorvaes would rather stand back and create unquestioning minions to champion their schemes.
 
 Many dorvaes meddle in the politics and power plays of evil planar beings, but a number of these fiends ply their manipulations on the Material Plane. Often they seek out primitive humanoid tribes, which they lead like vengeful and angry gods. Others look for cosmopolitan centers to manipulate, often masquerading as the mysterious leaders of foreign cults, or as the masterminds of criminal societies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dorvae)
 ```encounter-table
 name: Dorvae

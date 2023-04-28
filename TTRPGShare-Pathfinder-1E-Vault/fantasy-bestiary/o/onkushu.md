@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Onkushu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 61
 desc_short: This oval body and enormous wings of this creature are made of roiling flame, and it has a vaguely humanoid face.
 ```
-# Description
+## Description
 Curious natives of the Plane of Fire, onkushus have managed to keep fruitful and respectful relations with the angels of the Outer Sphere for millennia. Thanks to this alliance, the angels of Elysium, Heaven, and Nirvana have passed on much of their lore as well as some of their more practical skills to the onkushus. In turn, onkushus instruct the angels further in the use of cleansing fire and the virtues of an existence based on unshakable morality. Onkushus are kindly by nature but terrible when roused, and their alien appearance often strikes fear into those fools who would oppose them.
 
  Onkushus are typically 15 feet tall and weigh up to 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Onkushu)
 ```encounter-table
 name: Onkushu

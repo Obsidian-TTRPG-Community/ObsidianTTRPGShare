@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: River Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 107
 desc_short: With graceful wings and wide fins, this sleek dragon looks equally well equipped to glide through sea and sky.
 ```
-# Description
+## Description
 Preying upon fish and fishermen with equal ease, river drakes are scourges of freshwater expanses. They are thought to be related to black dragons, as evidenced by their acidic spit, water affinity, viciousness, and preference for rotten meat.
 
 Like other drakes, river drakes are cruel hunters, using a play-and-prey hunting style. When not hungry, they amuse themselves by stalking and harassing other creatures and travelers. An offering of treasure thrown into the water can distract a river drake, but such a bribe is unlikely to stave off a particularly hungry individual. River drakes often slay more than they can immediately eat because they favor aged meat, keeping underwater larders stuffed with kills in various stages of decay.
@@ -60,7 +62,7 @@ A river drake is a crafty, careful hunter that uses its watery home to provide c
 River drakes are much more likely to hunt in groups than most other drakes, threatening river traffic or assaulting lakefront or riverside towns if their numbers are large enough. However, these disorganized raids are quick to retreat from any hint of significant resistance.
 
 River drakes are 8 feet long and look much like small sea drakes. An adult river drake weighs about 700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=River%20Drake)
 ```encounter-table
 name: River Drake

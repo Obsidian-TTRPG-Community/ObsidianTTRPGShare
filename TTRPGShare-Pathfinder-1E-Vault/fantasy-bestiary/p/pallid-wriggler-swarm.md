@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pallid Wriggler Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 86
 desc_short: These writhing, many-winged worms have no heads other than pairs of large nostrils that make a constant, droning snorting.
 ```
-# Description
+## Description
 From the deepest regions of the Darklands come the strange creatures commonly called pallid wrigglers. Originally bats mutated by mad derros to enhance their natural abilities, the wrigglers have slowly evolved to their current form. A wriggler’s wormlike body is supported between anywhere from two and six wings, four to eight legs, and possibly a collection of tails. Each creature lacks a head, and instead has merely a pair of grotesque nostrils, which create the trademark sound that both aids it in hunting and overwhelms its prey’s senses.
 
 These creatures aren’t terribly dangerous individually, but meet any disturbances in their territory with swift and often deadly investigation. The creatures immediately swarm any intruders, trying to learn their scent from as close as possible. They seem driven more by curiosity than animosity, but the resultant battering and probing can occasionally prove fatal. Pallid wrigglers are herbivores, feeding on the fungus that is ubiquitous in their cavernous lairs, so creatures slain by their attentions often rot away unless eaten by another scavenger.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pallid%20Wriggler%20Swarm)
 ```encounter-table
 name: Pallid Wriggler Swarm

@@ -1,18 +1,20 @@
 ---
-alias: Crown of Glory
+aliases: [Crown of Glory]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Crown of Glory 
+## Crown of Glory
 
 **source**:: Pathfinder Campaign Setting pg. 206  
 **school**:: evocation
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 full round  
 **components**:: V, S, M, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **area**:: 120-ft.-radius emanation centered on you  
@@ -20,7 +22,7 @@ alias: Crown of Glory
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You gain a +4 enhancement bonus to Charisma. All creatures with fewer than 8 HD are compelled to stop and pay attention to you. Any such creature that wants to take hostile action against you must make a Will save to do so. Any creature that fails this saving throw the first time it attempts a hostile action is enthralled for the duration of the spell (as the *enthrall* spell), as long as it is in the spell’s area. It does not try to leave the area on its own. Creatures with 8 HD or more are not affected.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 258
 desc_short: A spider the size of a man crawls silently from the depths of its funnel-shaped web.
 ```
-# Description
+## Description
 The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on Acrobatics checks. All giant spiders have a +2 racial bonus on poison save DCs.
 
 Other species of giant spiders exist, as detailed below.
 
 SpeciesCRSizeHD Scarlet spider1/4Tiny1d8 Giant crab spider1/2Small2d8 Giant black widow3Large5d8 Ogre spider5Huge7d8 Giant tarantula8Gargantuan10d8 Goliath spider11Colossal14d8
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Spider)
 ```encounter-table
 name: Giant Spider

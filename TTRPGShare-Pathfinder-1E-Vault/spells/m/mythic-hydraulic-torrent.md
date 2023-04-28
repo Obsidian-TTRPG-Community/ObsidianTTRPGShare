@@ -1,19 +1,21 @@
 ---
-alias: Mythic Hydraulic Torrent
+aliases: [Mythic Hydraulic Torrent]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Hydraulic Torrent
+## Mythic Hydraulic Torrent
 
 **source**:: Mythic Adventures pg. 98  
 **school**:: evocation (water)
 **level**:: arcanist 3, bloodrager 3, druid 3, hunter 3, magus 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: 60-ft. line  
@@ -21,7 +23,7 @@ alias: Mythic Hydraulic Torrent
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You call forth a powerful stream of water that batters all creatures and obstacles in its path until it strikes something it cannot push past. Against creatures and moveable objects this stream acts as a bull rush. You can bull rush creatures of any size, not just those one size larger than your own. Make a combat maneuver check and apply its results to each creature within the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity.  
   

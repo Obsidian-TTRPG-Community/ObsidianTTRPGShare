@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Belkzen Warchief
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 11
 ```
-# Description
+## Description
 To the orcs of the Hold of Belkzen, chaos reigns supreme. Were it not for a select few orcs who possess the strength and personal magnetism to bend others to their will, the loosely organized tribes of warmongering humanoids would tear one another to pieces in ceaseless conf licts toward ends known only to the gods of war and carnage. As it stands, the inf luential warchiefs of Belkzen’s countless orc hordes drive their followers toward similar ends, providing just enough order to distinguish one tribe from the next, and to grant some semblance of strategy and battlefield tactics to the massive skirmishes that rage across the nation.
 
 Sometimes an orc inherits a position as warchief from a parent who held the title until he was killed on the battlefield, but in most cases, an orc holds the title only as long as he can defend it from his lieutenants and enemies. Even an orc who inherits the title often sees his right to the position challenged nearly immediately, and many can’t hold it for longer than a single day. Though the future is uncertain for any orc amid the chaos and bloodshed of battle, it’s even more treacherous for those who bear their tribes’ banners and are marked with the ceremonial symbols of a warchief, for they must ever watch for challengers to their authority-both outside enemies and ambitious members of their own tribe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Belkzen%20Warchief)
 ```encounter-table
 name: NPC Belkzen Warchief

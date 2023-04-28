@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gearsman Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 44
 desc_short: Made of what appears to be burnished brass, this construct resembles a suit of armor with a glowing glass orb for an eye.
 ```
-# Description
+## Description
 For reasons known only to themselves, gearsmen willingly serve as shock troops and guards, performing their tasks with mechanical detachment and coldly logical efficiency. Yet they serve a purpose beyond their current directives- an objective installed in them when they were first created. Gearsmen disobey their putative masters whenever an order contradicts these mysterious internal directives. When questioned about their lapses, gearsmen answer with only silence.
 
  Despite their construction, gearsmen move fluidly. Their lack of a functional mouth doesn’t prevent them from talking, though most speak rarely. When they do talk, they speak with shrill, oddly distorted speech devoid of emotion and nuance, and their voices are all eerily alike.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gearsman%20Robot)
 ```encounter-table
 name: Gearsman Robot

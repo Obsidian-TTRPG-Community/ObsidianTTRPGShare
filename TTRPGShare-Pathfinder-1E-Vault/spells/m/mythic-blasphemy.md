@@ -1,19 +1,21 @@
 ---
-alias: Mythic Blasphemy
+aliases: [Mythic Blasphemy]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Blasphemy
+## Mythic Blasphemy
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: evocation (evil, sonic)
 **level**:: cleric 7, inquisitor 6, oracle 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: nonevil creatures in a 40-ft.-radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Blasphemy
 **saving-throw**:: Will partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Any nonevil creature within the area of a blasphemy spell suffers the following ill effects.
 

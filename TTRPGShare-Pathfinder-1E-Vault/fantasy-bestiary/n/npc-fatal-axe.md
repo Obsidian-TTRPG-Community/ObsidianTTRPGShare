@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fatal Axe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: NPC Codex
     desc: 211
 ```
-# Description
+## Description
 Surprisingly quick and nimble for dwarves, fatal axes mix melee prowess with devastating throwing axe strikes to bring down their foes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fatal%20Axe)
 ```encounter-table
 name: NPC Fatal Axe

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vanth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 86
 desc_short: This humanoid skeleton has black raven wings, a long tail, and a polished vulture-like mask where its face should be.
 ```
-# Description
+## Description
 Stern, silent, and cloaked in ragged black wings, vanth psychopomps serve as stoic guardians of Purgatory and watchers along the routes of the dead. A vanth looks like a black skeleton with ravenlike wings and a mask resembling a vulture’s skull.
 
 Also known as reapers, angels of death, or amzranei, vanths protect the departed from those wishing to eat or steal their mortal souls, recapture escaped souls trying to flee their assigned fates, and are death’s foot soldiers against whatever would disrupt the natural cycle of mortality. They may also guard the dead and death’s assets, such as forgotten cemeteries, unattended mausoleums, and sacred groves.
@@ -69,7 +71,7 @@ Also known as reapers, angels of death, or amzranei, vanths protect the departed
 A vanth weighs 400 pounds and stands 8 feet tall, though its slumped posture means it can look most adult humanoids in the eye. Vanths are ancient creatures, perhaps predating the current gods of death, and are rumored to be ascended souls of a distant world of death-worshiping soldiers. They rarely speak or show emotion and their hollow voices carry unnaturally far. A vanth’s scythe is a badge of its station, ref lecting its role as a harvester of souls. It features symbols in a language that was already lost when the death gods claimed Purgatory.
 
 Most outsiders scorn vanths, as the psychopomps have no concern for law, rightfulness, or personal gain-only duty. Vanths view any outsider visiting Purgatory as a potential threat, and stalk angels and demons alike.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vanth)
 ```encounter-table
 name: Vanth

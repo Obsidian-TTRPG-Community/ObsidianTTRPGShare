@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vireseed Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 83
 desc_short: A wave of wing-like seedpods whips through the air, each tipped by a miniscule thorn and propelled by a rapidly lashing tendril.
 ```
-# Description
+## Description
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vireseed%20Swarm)
 ```encounter-table
 name: Vireseed Swarm

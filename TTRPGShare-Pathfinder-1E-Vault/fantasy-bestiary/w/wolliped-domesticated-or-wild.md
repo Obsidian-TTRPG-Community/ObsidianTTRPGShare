@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wolliped (Domesticated or Wild)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Pathfinder No. 70: The Frozen Stars
     desc: 90
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wolliped%20(Domesticated%20or%20Wild))
 ```encounter-table
 name: Wolliped (Domesticated or Wild)

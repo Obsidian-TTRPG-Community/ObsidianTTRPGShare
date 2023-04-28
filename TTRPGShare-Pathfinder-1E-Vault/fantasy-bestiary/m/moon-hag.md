@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moon Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 242
 desc_short: The flesh of this withered woman’s face stretches tightly over her skull, with one red eye bulging fat in its socket.
 ```
-# Description
+## Description
 Moon hags are foul prophets that haunt the Boneyard’s endless tombs, serving Groetus, the skull-faced moon hanging eternally above. These lurid hags almost universally worship Groetus, and many claim to be mouthpieces for this god of oblivion.
 
  Moon hags are extremely knowledgeable about the secret paths and portals of the Boneyard, and they often use this knowledge to journey to the Material Plane for sinister purposes. Most moon hags use this opportunity to birth and abandon changelings, seeing even their wayward daughters as agents of Groetus’s will.
 
  Moon hag changelings are especially pale-skinned, and many are plagued by chronic anxiety, leading them to become reclusive. The daughter of a moon hag gains the moon daughter racial trait: she gains a +1 insight bonus to her AC but takes a -2 penalty on Will saving throws. If a moon is visible, the bonus and penalty each increase by 1.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moon%20Hag)
 ```encounter-table
 name: Moon Hag

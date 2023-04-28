@@ -1,19 +1,21 @@
 ---
-alias: Boneshatter
+aliases: [Boneshatter]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Boneshatter 
+## Boneshatter
 
 **source**:: Pathfinder \#84: Pyramid of the Sky Pharaoh pg. 15, Osirion, Land of the Pharaohs pg. 26  
 **school**:: necromancy
 **level**:: arcanist 4, cleric 5, oracle 5, sorcerer 4, warpriest 5, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a broken bone)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one corporeal creature or object  
@@ -21,7 +23,7 @@ alias: Boneshatter
 **saving-throw**:: Fortitude partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 The target’s bones (or exoskeleton) splinter, dealing 1d6 points of damage per caster level (maximum 15d6) to the target, which is also exhausted for 1 minute per caster level from the pain and exertion of the transformation.  
   

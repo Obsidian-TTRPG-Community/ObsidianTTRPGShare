@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dune Strider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 37
 desc_short: Sprightly despite his bulk and swathed in layers of cloth against the relentless sun, this hunter has a wicked bow and a scorpion-like lower body.
 ```
-# Description
+## Description
 Skilled hunters and masters of the desert sands, dune striders serve their settlements by providing food, locating water, patrolling the nearby desert, tracking trespassers, and executing thieves. Dune striders also try to conceal their tribes from outsiders by covering tracks and blocking roads or trails leading into their territory. Some travel far from their homes to carry messages to neighboring girtablilu tribes and scout for new ruins to watch over; these are more likely than most of their kind to run across humanoids or engage in trade with outsiders.
 
 Quick and sure-footed, dune striders prefer to follow targets from dune tops or ragged bluffs, snipe at them, and then move on before enemies can close in. The dune striders’ victims often die before ever noticing the massive hunters’ presence, and travelers and adventurers spread stories through Qadira, Osirion, and Thuvia of explorers abandoning their expeditions upon waking to discover that all their guards and porters were silently executed in the night.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dune%20Strider)
 ```encounter-table
 name: Dune Strider

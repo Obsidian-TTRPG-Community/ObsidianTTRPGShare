@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Sky Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 98
 desc_short: Although wingless, this dragon twists gracefully though the sky, its scales reflecting the shifting hues of the heavens.
 ```
-# Description
+## Description
 Benevolent and noble, sky dragons, or tienlungs, are fearsome champions of good and protectors of those in need. They are often sought out for their wise council, which they grant only to the deserving and true.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Sky%20Dragon)
 ```encounter-table
 name: Young Sky Dragon

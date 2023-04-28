@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Frontier (Hermit)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: GameMastery Guide
     desc: 277
 ```
-# Description
+## Description
 Hermits are lonely dwellers in the wilderness, eking out an existence in harmony with nature and delighting in their solitude, far from the noise and bustle of civilization. Hermits can act as woodland sentinels, spying on trespassers. Hermits rarely have companions other than animals, but they may occasionally have a pilgrim or a pair of vagabonds as guests (CR 7) or take counsel with a shaman and beast master (CR 9) whose tribe lives nearby.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Frontier%20(Hermit))
 ```encounter-table
 name: NPC Frontier (Hermit)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Werespider (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 118
 desc_short: This hideous, spider-headed man is covered with bristly black hair, and his elongated mandibles drip with glistening poison.
 ```
-# Description
+## Description
 In humanoid form, werespiders are squat, compact, and usually have short, dark brown or black hair. Their eyes tend to be large and dark, and their fingers almost constantly twitch. Their faces are often shiny with natural oils, and the chins of male werespiders are commonly covered in prickly black stubble. Werespiders enjoy the company of kin, having large families and even larger networks of friends and acquaintances. They like to pass information through these communities, creating a web of contacts that can sometimes stretch over several towns. Werespiders that like to sit at the centers of large organizations often employ non-entothrope informants and spies to be on the lookout for the information they desire, slipping feelers into all aspects of their communities. 
 
 Werespiders prefer not to fight by themselves. They are most comfortable when outnumbering their foes. When threatened, a lone werespider attempts to scuttle off to a safer location, usually one full of his allies. Such places are often filled with traps designed to immobilize or poison targets- sometimes both. When werespiders catch victims in these devices, they are quick to move the corpses out of the way and reset the traps, leaving the looting of the bodies for when they feel secure once again.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Werespider%20(Hybrid%20Form))
 ```encounter-table
 name: Werespider (Hybrid Form)

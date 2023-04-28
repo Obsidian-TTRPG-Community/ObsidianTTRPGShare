@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpentfolk High Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
   - name: Monster Codex
     desc: 207
 ```
-# Description
+## Description
 Serpentfolk high priests are the leaders of their people.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpentfolk%20High%20Priest)
 ```encounter-table
 name: Serpentfolk High Priest

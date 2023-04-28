@@ -1,19 +1,21 @@
 ---
-alias: Abeyance
+aliases: [Abeyance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Abeyance 
+## Abeyance
 
 **source**:: Pathfinder \#82: Secrets of the Sphinx pg. 74  
 **school**:: abjuration
 **level**:: cleric 2, inquisitor 2, oracle 2, paladin 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a flask of holy water worth 25 gp), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Abeyance
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 *Abeyance* suppresses the effects of a single curse on a creature. It does not restore any damage or drain that might have been caused by the curse. *Abeyance* cannot suppress curses that cannot be removed by *remove curse*, but it can suppress curses such as lycanthropy that require *remove curse* along with additional measures. An individual curse can be suppressed only once by abeyance, even if cast by a different caster.  
   

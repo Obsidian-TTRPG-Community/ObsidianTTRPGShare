@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frost Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 108
 desc_short: This two-legged dragon has dull blue scales tinged with bright blue ice. A freezing mist issues from between its powerful jaws. 
 ```
-# Description
+## Description
 Degenerate cousins of white dragons, frost dragons are ferocious predators. They are larger than other drakes, reaching heights of up to 16 feet and weighing upward of 2,500 pounds. Their wide, clawed feet enable them to easily burrow through snow, though not through dirt or clay. 
 
 Young frost drakes form adolescent hunting packs divided along gender lines, but older frost drakes are usually encountered in mated pairs. Frost drakes mate for life, leaving their packs when they find a suitable mate. Mated pairs make a nest together, and the female lays a clutch of two to five eggs. Both parents care for their offspring when they hatch, and families usually form small packs until the young reach maturity at 5 years of age. At this point, the parents abandon their offspring, usually laying a new clutch of eggs in a new nest elsewhere, and leaving the fledgling drakes to find their own adolescent packs to join.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frost%20Drake)
 ```encounter-table
 name: Frost Drake

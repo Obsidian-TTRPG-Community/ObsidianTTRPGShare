@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Allip
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 4
 desc_short: This malignant cloud of shadows boils in the air, its skeletal maw eerily babbling as the creature’s claws manifest from the darkness.
 ```
-# Description
+## Description
 Those who fall prey to madness and take their own lives sometimes find themselves lost on the path to the afterlife, trapped in a state between life and death. These unfortunates, known as allips, suffer from the violent and incurable insanity they faced in life and take out their terror, confusion, and rage upon the living. They reach out to those they encounter-possibly in wrath, but also perhaps oblivious to their own insane nature-spreading the psychoses that led to their own untimely deaths.
 
 In combat, allips relentlessly attack the nearest living creature, relying on their babble to let them close in before attacking with their touch of insanity. Many seem to be driven to states of ferocity upon witnessing the terror living creatures exhibit when facing their spectral forms, or when faced with the intangibility of their incorporeal states. While allips have no way to kill creatures, those knocked unconscious by an allip’s Wisdom-draining touch often emerge from the state suffering from insanity (see pages 250-251 of the GameMastery Guide)-a fate that many would say qualifies as worse than death.
 
 Allips often seek to harm those who played a part in causing their mad, unholy condition. When faced with such foes, an allip ignores all other targets that confront it in favor of its hated enemies, attacking them until its tormentors have been forced into a vacant stupor. Alas, such vengeance does not put the allip to rest, but simply serves to further fuel its madness as it finds itself trapped in a world now no longer even holding the satisfaction of vengeance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Allip)
 ```encounter-table
 name: Allip

@@ -1,19 +1,21 @@
 ---
-alias: Incendiary Runes
+aliases: [Incendiary Runes]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Incendiary Runes 
+## Incendiary Runes
 
 **source**:: Black Markets pg. 31  
 **school**:: abjuration (fire)
 **level**:: arcanist 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one touched object weighing no more than 10 lbs.  
@@ -21,6 +23,6 @@ alias: Incendiary Runes
 **saving-throw**:: Reflex partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions as *explosive runes*, except it creates a small surge of flames rather than an explosion of force. The runes automatically deal 1d6 points of fire damage to any creatures and objects in adjacent squares, and those creatures and objects catch fire unless they succeed at Reflex saves.

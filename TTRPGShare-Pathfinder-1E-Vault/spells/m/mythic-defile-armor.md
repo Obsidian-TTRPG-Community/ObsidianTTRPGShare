@@ -1,19 +1,21 @@
 ---
-alias: Mythic Defile Armor
+aliases: [Mythic Defile Armor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Defile Armor
+## Mythic Defile Armor
 
 **source**:: Mythic Adventures pg. 90  
 **school**:: abjuration (evil)
 **level**:: antipaladin 3, inquisitor 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: armor touched  
@@ -21,7 +23,7 @@ alias: Mythic Defile Armor
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 As *sanctify armor*, except you gain DR 5/good when using your judgment or smite ability.
 

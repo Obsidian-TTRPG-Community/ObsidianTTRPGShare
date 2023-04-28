@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shaitan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 86
 desc_short: This being resembles a towering human with skin of polished stone and glittering agate eyes.
 ```
-# Description
+## Description
 Shaitans are boastful and proud genies from the Plane of Earth with flesh of metal, gems, or stone. A shaitan stands about 11 feet tall and weighs roughly 5,000 pounds.
 
 Some shaitans are noble. Often called pashas, they have 18 Hit Dice and gain the spell-like ability earthquake, usable once per day, as well as the ability to grant up to three wishes per day (nongenies only). A noble shaitan’s caster level for its spell-like abilities is 18th. Noble shaitans are CR 13.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shaitan)
 ```encounter-table
 name: Shaitan

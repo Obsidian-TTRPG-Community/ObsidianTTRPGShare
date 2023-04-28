@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crag Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 190
 desc_short: This immense, wingless dragon rears up on a serpentine body. Its triple tail and powerful talons swipe at the air.
 ```
-# Description
+## Description
 Like all linnorms, the deadly crag linnorm is a powerful, primeval dragon, a denizen of the wild regions far north of where most civilizations dare to tread. The crag linnorm is among the weakest of its kind, yet still a devastating predator in its own right. Favored, if not by the gods, then by some primal intelligence of the mysterious world of the fey, the linnorm bestows a powerful curse on any who manage to slay it. A crag linnorm is 60 feet long and weighs 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crag%20Linnorm)
 ```encounter-table
 name: Crag Linnorm

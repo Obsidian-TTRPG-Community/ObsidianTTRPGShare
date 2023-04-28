@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Titanic Whip Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 275
 desc_short: Two of this spiderlike creature’s spindly legs are whiplike feelers, and it has two hooked appendages lined with spines.
 ```
-# Description
+## Description
 Whip spiders have eight legs, but walk on only the rear six. The remaining legs are longer and used as antennae-like feelers, the “whips” that give the creature its name. 
 
 A whip spider’s pedipalps are long, spined appendages highly adapted to striking and grasping prey. The titanic whip spider is also referred to as the “mancatcher” whip spider, so named for its extremely long pedipalps that end in slender, spiked claws resembling the weapon. The pedipalps vary in size and function in other species, such as the obsidian whip spider’s stout, spiked pedipalps, or the saber whip spider’s long blades in place of claws.
 
 While the titanic whip spider is the largest known of the species, other species exist in different sizes and with various special abilities. The following table lists the most common variants. SpeciesCRSizeHit DiceJungle whip spider1Small2Giant whip spider4Medium6Saber whip spider7Large9Chain whip spider11Huge12Obsidian whip spider14Gargantuan16
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Titanic%20Whip%20Spider)
 ```encounter-table
 name: Titanic Whip Spider

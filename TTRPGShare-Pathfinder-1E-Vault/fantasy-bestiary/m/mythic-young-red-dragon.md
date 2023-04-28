@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Young Red Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 190
 desc_short: A ruddy glow emanates from beneath this dragon’s red, gemencrusted scales, like lava visible between cracks of cooling stone.
 ```
-# Description
+## Description
 A young mythic red dragon is the offspring of an older mythic dragon, inheriting its power and rage. It tends to gorge itself on livestock, then sleep for nearly a year, only to repeat this cycle when it awakens again.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Young%20Red%20Dragon)
 ```encounter-table
 name: Mythic Young Red Dragon

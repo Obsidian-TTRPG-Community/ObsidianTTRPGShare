@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Mature Adult Black Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
   - name: Mythic Adventures
     desc: 187
 ```
-# Description
+## Description
 A mythic black dragon eyes can pierce fog to find prey. Its very flesh and blood is infused with deadly acid, and like a snake it can gulp down an entire meal without chewing. A mythic black dragon enjoys regurgitating a swallowed opponent to let it rot for a few days before eating it as an actual meal, or repeats this cycle on a living creature as cruel torture.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Mature%20Adult%20Black%20Dragon)
 ```encounter-table
 name: Mythic Mature Adult Black Dragon

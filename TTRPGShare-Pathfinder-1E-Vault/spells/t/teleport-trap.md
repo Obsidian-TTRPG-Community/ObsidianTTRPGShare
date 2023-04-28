@@ -1,19 +1,21 @@
 ---
-alias: Teleport Trap
+aliases: [Teleport Trap]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Teleport Trap 
+## Teleport Trap
 
 **source**:: Inner Sea World Guide pg. 296, Seekers of Secrets pg. 18  
 **school**:: abjuration
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (powdered lodestone and silver worth 100 gp per 40-ft. cube)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: one 40-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Teleport Trap
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Teleport trap* wards an area, redirecting all teleportation into or out of the area to a specific point within the area determined by you at the time of casting. The destination must be an open space on a solid surface. The spell’s area overlaps walls and other solid and liquid objects (preventing intruders from bypassing the ward by teleporting into a wall or through similar means). A teleporting creature that is affected by a *teleport trap* can resist the effect with a Will save-if the save is successful, the creature simply doesn’t teleport at all (but the use of the teleport effect is still consumed)-either to the intended location or the *teleport trap’s* actual destination. A DC 27 Knowledge (arcana) allows such a creature to recognize the *teleport trap’s* presence, but does not reveal the trap’s linked destination.  
   

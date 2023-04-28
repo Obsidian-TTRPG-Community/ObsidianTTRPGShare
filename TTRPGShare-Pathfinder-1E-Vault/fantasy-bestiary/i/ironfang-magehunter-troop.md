@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ironfang Magehunter Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 88
 desc_short: This grim band of hobgoblin hunters is equipped with sturdy armor and well-used weapons.
 ```
-# Description
+## Description
 Most hobgoblins in this troop are equipped with +1 mithral chain shirts, +1 scimitars, and +1 heavy crossbows.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ironfang%20Magehunter%20Troop)
 ```encounter-table
 name: Ironfang Magehunter Troop

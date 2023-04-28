@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Itaraak Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 56
 desc_short: Armored in sun-bleached bones and smelling of stale blood, this scarred man with massive wings keeps his bow at the ready.
 ```
-# Description
+## Description
 Equally competent hunters and warriors, members of the itaraak caste defend their people from all threats-and to an itaraak, anything may be a threat-with such ferocity that the mention of these so-called “strix revengers” makes even the most stoic Chelish soldier shudder. These pitch-black guardians, lauded as heroes among their kind, release the fury of a nation upon any who cross them. Birthed from the largest eggs and raised for combat from nestlings, the greatest and most heavily scarred itaraak maintain a warriors’ tradition from before a time of great darkness. This caste was originally formed to defend their people from a sister race of avians remembered only as the “betrayers,” but the itaraak have adapted their hit-andrun tactics, strikes from cover, and devastating diving charges to push back human intruders. The strix have also incorporated brutally efficient grappling techniques over the years, lifting land-bound opponents into the sky and letting the rocky terrain of the Devil’s Perch deliver the final blow.
 
 These warriors run many civil matters that are outside the rokoa’s spiritual authority with a gruff and haphazard democracy, with tribe members’ votes weighted by the resources they provide the group. Only the rokoa herself can override these group decisions, and even then only for a time. Unfortunately, the itaraak’s inflamed animosity and general bitterness often push them to make ill-advised raids on otherwise peaceful settlements, bringing down a disproportionate response from Chelish forces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Itaraak%20Champion)
 ```encounter-table
 name: Itaraak Champion

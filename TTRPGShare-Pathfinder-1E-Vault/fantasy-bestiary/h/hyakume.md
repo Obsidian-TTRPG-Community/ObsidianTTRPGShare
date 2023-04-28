@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hyakume
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 153
 desc_short: This bloated creature’s eyes protrude from between the fleshy fat rolls of its neckless, hulking form.
 ```
-# Description
+## Description
 Hideous and corpulent, with numerous eyes dotting their bodies, hyakumes are mystics of malevolence. They steal and collect the memories of other intelligent beings to increase their own knowledge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hyakume)
 ```encounter-table
 name: Hyakume

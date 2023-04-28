@@ -1,19 +1,21 @@
 ---
-alias: Rune Trace
+aliases: [Rune Trace]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rune Trace 
+## Rune Trace
 
 **source**:: Adventurer's Guide pg. 60  
 **school**:: divination
 **level**:: arcanist 1, bard 1, cleric 1, occultist 1, oracle 1, psychic 1, skald 1, sorcerer 1, warpriest 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (pinch of powdered gemstones worth 25 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: rune touched  
@@ -21,7 +23,7 @@ alias: Rune Trace
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 By immersing yourself fully in the intricacies of a carved or written rune of any kind, you can divine the elements of that rune’s nature. While casting *rune trace*, you must run your fingers (which cannot be gloved at the time) over the rune, glyph, symbol, or other marking you want to examine (hereafter referred to as the “rune”). This does not trigger any effects that touching the rune would normally trigger. Runes, symbols, and other effects that trigger when read still trigger as normal if you do so- but note that this spell does not require you to view and read the rune that you’re targeting. When the spell’s casting time ends, you instantly receive flashes of insight regarding the rune’s nature, history, and purpose, including the following information.  
   

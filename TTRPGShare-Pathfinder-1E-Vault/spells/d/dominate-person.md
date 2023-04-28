@@ -1,19 +1,21 @@
 ---
-alias: Dominate Person
+aliases: [Dominate Person]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dominate Person 
+## Dominate Person
 
 **source**:: PRPG Core Rulebook pg. 274  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 5, bard 4, mesmerist 4, occultist 5, psychic 5, shaman 5, skald 4, sorcerer 5, spiritualist 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one humanoid  
@@ -21,7 +23,7 @@ alias: Dominate Person
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the subject's mind.  
   
@@ -39,7 +41,7 @@ If you don't spend at least 1 round concentrating on the spell each day, the sub
   
 *Protection from evil* or a similar spell can prevent you from exercising control or using the telepathic link while the subject is so warded, but such an effect does not automatically dispel it.
 
-## Mythic Dominate Person 
+## Mythic Dominate Person
 
 **source**:: Mythic Adventures pg. 92  
 The Sense Motive DC to notice your target is dominated increases by double your tier. You can give orders to the target even if it’s protected by non-mythic effects that block magical control, such as *protection from evil*. If the target is protected by a mythic effect, you can attempt to overcome this defense with a caster level check (DC 15 plus the caster level of the effect); add your tier to your roll and the opposing caster’s tier to the DC. If the target succeeds at its Will save to break your control, as an immediate action you can expend one use of mythic power to force it to reroll the save and use the lower result.

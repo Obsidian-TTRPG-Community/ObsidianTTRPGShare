@@ -1,25 +1,27 @@
 ---
-alias: Ooze Form III
+aliases: [Ooze Form III]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ooze Form III 
+## Ooze Form III
 
 **source**:: Ultimate Wilderness pg. 233  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a bit of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 This spell functions as *ooze form II* except you can also assume the form of a Huge ooze. You gain blindsight 60 feet and a +8 resistance bonus on saving throws against mind-affecting effects and poison as well.  
   

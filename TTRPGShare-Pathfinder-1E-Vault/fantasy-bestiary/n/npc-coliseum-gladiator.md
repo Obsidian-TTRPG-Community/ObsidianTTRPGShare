@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Coliseum (Gladiator)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
   - name: GameMastery Guide
     desc: 262
 ```
-# Description
+## Description
 Gladiators are as varied in their combat styles as are the nations of their birth, but all seek to trade blood for gold and glory. Many emphasize quickness and defense over brute strength, sizing up their foe before leaping into a blood fury with sword and shield. Gladiators can be used as bodyguards, riot police in a city, or elite military skirmishers. Replacing Dodge with Exotic Weapon Proficency creates an exotic weapon master. Outside the arena, gladiators are rarely found without a pair of drunkards to help celebrate their latest victory (CR 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Coliseum%20(Gladiator))
 ```encounter-table
 name: NPC Coliseum (Gladiator)

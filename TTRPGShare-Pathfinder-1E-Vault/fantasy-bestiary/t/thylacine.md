@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thylacine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 86
 desc_short: This catlike creature has a striped pelt and whiskers that jut from a long muzzle filled with sharp teeth.
 ```
-# Description
+## Description
 These carnivorous, wide-jawed marsupials typically hunt at night and have a reputation for savagery. By day, they nest in hollow trees or clusters of bushes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thylacine)
 ```encounter-table
 name: Thylacine

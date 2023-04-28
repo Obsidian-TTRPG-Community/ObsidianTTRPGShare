@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Popoto Dolphin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
     desc: 194
 desc_short: This sleek mammal has a short snout and black, white, and gray markings along its body.
 ```
-# Description
+## Description
 Popotos are the smallest species of dolphin known, and they generally swim in shallow waters near shorelines. Sometimes they manage to swim miles upriver when they hunt for fish, using echolocation to navigate through smaller channels. They are social hunters and traveling in small groups called pods, which normally contain three to five popotos. Like larger dolphins, popotos are popular with seafarers, who consider the creatures to be good luck and tell hopeful tales of popotos leading lost swimmers to shore and pods fighting off sharks that are much larger than the popotos themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Popoto%20Dolphin)
 ```encounter-table
 name: Popoto Dolphin

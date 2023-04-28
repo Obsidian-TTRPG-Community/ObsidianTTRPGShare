@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pig
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
   - name: Ultimate Magic
     desc: 119
 ```
-# Description
+## Description
 This clever, sociable animal may be trained to do many tasks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pig)
 ```encounter-table
 name: Pig

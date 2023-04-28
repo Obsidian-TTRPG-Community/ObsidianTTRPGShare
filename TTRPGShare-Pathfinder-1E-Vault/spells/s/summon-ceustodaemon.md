@@ -1,19 +1,21 @@
 ---
-alias: Summon Ceustodaemon
+aliases: [Summon Ceustodaemon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Summon Ceustodaemon 
+## Summon Ceustodaemon
 
 **source**:: Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39  
 **school**:: conjuration (summoning) (evil)
 **level**:: arcanist 5, cleric 5, oracle 5, sorcerer 5, summoner 4, summoner (unchained) 4, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F (ashes of a dead animal)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one summoned creature  
@@ -21,6 +23,6 @@ alias: Summon Ceustodaemon
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *summon monster*, except it summons a single ceustodaemon.

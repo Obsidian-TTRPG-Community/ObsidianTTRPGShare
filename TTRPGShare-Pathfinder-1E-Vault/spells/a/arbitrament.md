@@ -1,19 +1,21 @@
 ---
-alias: Arbitrament
+aliases: [Arbitrament]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Arbitrament 
+## Arbitrament
 
 **source**:: Planar Adventures pg. 39, Champions of Balance pg. 26  
 **school**:: evocation (sonic)
 **level**:: cleric 7, inquisitor 6, oracle 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **target**:: non-neutral creatures in a 40-ft.-radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Arbitrament
 **saving-throw**:: Will partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 All chaotic evil, chaotic good, lawful evil, and lawful good creatures within the area of this spell suffer the following conditions, based on their Hit Dice.
 

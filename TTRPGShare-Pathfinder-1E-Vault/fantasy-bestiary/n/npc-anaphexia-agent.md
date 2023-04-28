@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Anaphexia Agent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 5
 ```
-# Description
+## Description
 In Ustalav’s Hungry Mountains stands the Monastery of the Veil, home to an order of ascetic monks ostensibly dedicated to the worship of Pharasma. Yet the true order died out centuries ago. In its place has grown a cult of secrets. The cowls and veils of the silent monks conceal assassin followers of Norgorber, and more specifically of his aspect known as the Reaper of Reputation. These Anaphexia agents sequester secrets they deem too dangerous to be known by any but themselves.
 
 Beneath the Monastery of the Veil, a vast network of catacombs holds countless shelves of lost gospels, scandalous memoirs, and uncensored histories. The assassins of this order guard this knowledge zealously- and awareness of the existence of the Anaphexia ranks among the order’s most protected secrets.
 
 Each Anaphexia agent sacrifices his own tongue before leaving the monastery, leaving him mute lest he inadvertently let slip a secret while on a mission or while conducting routine business under the guise of being a Pharasmin priest. Upon an assassin’s successful return to the monastery, high-ranking members of the order use regeneration to restore the cultist’s tongue so he can report on his mission; the rare assassin who returns to the Monastery of the Veil empty-handed is left a mute as punishment for failing his god. Bishop Yasmardin Senir, leader of the order, is the only cultist who retains his tongue outside the walls of the monastery.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Anaphexia%20Agent)
 ```encounter-table
 name: NPC Anaphexia Agent

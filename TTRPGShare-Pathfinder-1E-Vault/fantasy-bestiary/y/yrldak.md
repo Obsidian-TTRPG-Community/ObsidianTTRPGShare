@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yrldak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 26
 desc_short: This breathtaking, giant-sized woman’s raven hair falls to her ankles. Her skin is as pale as the glowing moon, and her ebon eyes deeply pensive. 
 ```
-# Description
+## Description
 The norn known as Yrldak and her sisters Surlda and Hilde have served as handmaidens for Magdh, prophetess and seer of the mysterious Eldest who have ruled the First World since the gods were young. Serving as their mistress’s agents, these norns protect her long-term interests wherever possible, but especially on the Material Plane, where Magdh lacks direct influence. As one of the multiverse’s most prescient beings, Magdh is capable of seeing farther down the long lines of probability and fate than the norns themselves, and the triumvirate often takes on dangerous and enigmatic missions on Magdh’s behalf. 
 
 It was on one such venture that Yrldak met her demise upon the Material Plane, when facing a particularly greedy white dragon who thought the norn trio’s treasure would make a good addition to its hoard. As happens to all norns who die outside the First World, Yrldak was reborn on her native plane, and is quickly growing while traversing Golarion looking for her sisters. Exhibiting the dark features of a reborn norn, whose hair and eyes lighten as they age, Yrldak is distinctive among her kind, and though her ebon hair reveals her still undeveloped power, Yrldak is a force to be reckoned with if any stand in her way or tempt fate in her presence. Eager to rejoin her sisters, Yrldak might seek the aid of adventurers, to whom she may promise wealth, prophecy, and other boons if they assist her in her quest.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yrldak)
 ```encounter-table
 name: Yrldak

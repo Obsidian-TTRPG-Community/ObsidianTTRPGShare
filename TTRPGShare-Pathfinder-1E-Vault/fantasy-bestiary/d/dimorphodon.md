@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dimorphodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 82
 desc_short: The head of this colorful red and purple flying reptile is overly large, and its jaws are lined with tiny sharp teeth.
 ```
-# Description
+## Description
 The dimorphodon’s jaws contain two separate rows teeth: several large fangs near the front (used to grip prey and inject poison) and numerous smaller, sharp teeth along the rest of the jaw.
 
 Dimorphodons are known for being easy to train. Handle Animal checks to train dimorphodons are attempted with a +4 bonus, and a dimorphodon can know one bonus trick chosen by its trainer once the creature has been fully domesticated.
 
 A dimorphodon’s wingspan is between 4 and 5 feet long.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dimorphodon)
 ```encounter-table
 name: Dimorphodon

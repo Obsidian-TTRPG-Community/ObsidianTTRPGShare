@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cockroach Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 58
 desc_short: Like a pestilent black tide, a ravenous horde of thousands of tiny, clacking cockroaches washes over everything in its path. 
 ```
-# Description
+## Description
 Swarms of flesh-eating cockroaches are extremely virulent pests. Normally carnivorous scavengers, these vermin quickly transform into aggressive hunters when amassed in great numbers, actively seeking out territory and food and gravitating to locations that readily provide both, such as dumps, graveyards, sewers, swamps, and other foul areas filled with rotting waste. Although a flesh-eating cockroach swarm prefers to feed on rot and carrion, these ravenous creatures do not balk at attacking living creatures as large as an elephant if given a chance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cockroach%20Swarm)
 ```encounter-table
 name: Cockroach Swarm

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Pillar of Life
+aliases: [Mythic Pillar of Life]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Pillar of Life
+## Mythic Pillar of Life
 
 **source**:: Mythic Adventures pg. 103  
 **school**:: conjuration (healing) (light)
 **level**:: cleric 5, oracle 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: 5-ft.-square pillar of positive energy, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Mythic Pillar of Life
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure a pillar of positive energy in a single 5-foot square within range that radiates light as if it were a sunrod. Living creatures adjacent to the pillar can spend a standard action to touch the pillar and heal 2d8 points of damage + 1 point per caster level (maximum +20). Creatures can move into the square containing the pillar, but if an undead creature moves into the pillar it takes 1d6 points of damage per caster level (maximum 10d6). Undead creatures vulnerable to bright light take 1d8 points if damage per caster level (maximum 10d8). A creature cannot benefit or suffer more than once from a single casting of this spell.
 

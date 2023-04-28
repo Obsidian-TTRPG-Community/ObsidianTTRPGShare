@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Umasi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 88
 desc_short: An emaciated humanoid bursts through the trees, brandishing a knife of black stone. His body is a patchwork of hair, skin, scales, and strange limbs stitched together with thick, black thread.
 ```
-# Description
+## Description
 Reclusive and shrouded in mystery, the Umasi-or Harvestmen, as they are known across the Mwangi Expanse-are a race of humanoids who exist between life and death. Unable to heal or procreate naturally, the Umasi extend their lives by transplanting the skin, organs, or even entire appendages of other humanoids onto parts of their own bodies. As a result, there is no typical description for a Harvestman-each is a patchwork conglomeration of different features, though most Umasi have multiple limbs of varying sizes. The need to use body parts of generally the same size and shape makes most Umasi human-sized; few are over 6 feet tall. Most weigh between 150 and 300 pounds, and the constant addition of new flesh has left little distinction between genders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Umasi)
 ```encounter-table
 name: Umasi

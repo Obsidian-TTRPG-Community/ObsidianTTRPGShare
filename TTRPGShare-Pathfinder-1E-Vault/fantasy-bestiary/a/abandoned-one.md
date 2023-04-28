@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abandoned One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 56
 desc_short: This corpse of a soldier is twisted and ghoulish, its old-fashioned clothes are caked in mud, and its is expression lost and forlorn.
 ```
-# Description
+## Description
 Abandoned ones are the vengeful remains of lost soldiers from the Taldan Armies of Exploration- soldiers who were left behind in the wild places of the world and forgotten as their armies moved on or retreated. Tethered to their own corpses by the fury of their perceived abandonment, abandoned ones seek to share their torment with any mortals they encounter.
 
 An abandoned one resembles its living self, but its features are drawn and its skin leathery. Abandoned ones approach travelers in the darkness, magically disguised as lost soldiers or obliging guides, then attempt to draw victims off alone and kill them before their companions remember them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abandoned%20One)
 ```encounter-table
 name: Abandoned One

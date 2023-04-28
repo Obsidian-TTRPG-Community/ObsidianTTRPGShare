@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ostovite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 187
 desc_short: This tiny, skittering creature looks like an insect made of fish bones, with a head full of glowing red eyes.
 ```
-# Description
+## Description
 Tiny Abyssal scavengers, ostovites skitter across demonic battlefields, amid charnel pits, and through that plane’s festering sewers looking for corpses on which to feed. When they find these morsels, they use their acidic saliva to digest the f lesh, taking what they need for sustenance. Yet what ostovites truly desire is not food, but self-improvement.
 
  Though only barely intelligent, ostovites have a deepseated jealousy of larger races, as well as an instinctive shame regarding their own forms, which resemble silverfish made out of thin, compressed bones. When an ostovite locates the corpse of a larger creature- particularly that of a humanoid or other intelligent being-it doesn’t stop at feeding. Instead, as soon as it has sated its hunger, it begins using its acid to soften the creature’s bones, drawing them out and reconstructing them into a twisted parody of their original configuration, with the ostovite resting in a nest-like structure in the sculpture’s center. Once it’s finished, the ostovite magically animates its creation, controlling it like a puppet and at last experiencing the thrill of being larger and-to the ostovite’s mind-more important. These ghastly creations are generally more disturbing than normal undead, as ostovites’ understanding of biomechanics is often crude, potentially resulting in humanoid skeletons that move around on all fours or drag themselves along like landbound octopuses. Like hermit crabs changing shells, ostovites regularly replace their chariots in order to increase their social status and impress potential mates. Though they often squabble over smaller skeletons, when a particularly prime corpse is located, an entire nest of ostovites may band together to create a single bone chariot of epic proportions.
 
  Adult ostovites are 2 feet long and weigh 3 pounds. Natural cowards except when enshrined in their chariots-at which point most believe themselves invincible- ostovites have a species-wide hatred of the more powerful vermlek demons, with whom they often compete for quality corpses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ostovite)
 ```encounter-table
 name: Ostovite

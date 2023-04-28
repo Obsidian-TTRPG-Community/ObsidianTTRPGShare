@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wraithwing
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 88
 desc_short: This desiccated strix has glowing, green eyes and long, jagged claws. A pair of burning, ghostly wings sprouts from its hunched back.
 ```
-# Description
+## Description
 Wraithwings are strix that were captured and killed by their Chelish enemies, and then rose again fueled by their lingering hatred. A terrible curse has brought them back from the dead to drive away invaders from their tribal land know as the Devil’s Perch. Wraithwings roam the night, hunting down any non-strix within the cursed land, innocent and guilty alike.
 
 The Chelish forces that seek to occupy Devil’s Perch have taken to making examples of any strix rebels they capture. After being interrogated, the captives are strung up on poles. While the strix hang there bleeding to death, their wings are broken to prevent any escape. Often, the soldiers who captured the strix warband lie in wait for anyone foolish enough to come to their rescue. This indignity kindles a burning anger within the strix that clings to their very souls. Once they have died, the bodies of the strix are dumped unceremoniously in remote locations as bait to lure strix hoping to retrieve their fallen comrades into an ambush. Dead strix tortured in this way can rise as wraithwings, but these foul creatures can be purposefully created as well.
@@ -70,7 +72,7 @@ The Chelish forces that seek to occupy Devil’s Perch have taken to making exam
 The mercilessly tightening grip of the Chelish Empire and the ever-rising number of dead friends and family push some strix spellcasters (typically oracles, shamans, and some witches) to turn to dark powers that whisper in the dead of night. Instead of giving a proper burial to the reclaimed bodies, the spellcaster takes them up a rugged crag and into a cavern where she prepares them for an unholy ritual. The spellcaster removes the broken wings from the bodies, and she places the bodies around a totem made of earth, wood, and bone. She then sews the wings into the totem and splashes them with blood drawn from her enemies. Upon the ritual’s completion, the strix rise as wraithwings the following night. In addition to this ritual, a spellcaster of at least 11th level can create a wraithwing from the body of a dead strix using create undead.
 
 Wraithwings stand just over 6 feet tall, but their rotting bodies are lighter than those of living strix, weighing barely over 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wraithwing)
 ```encounter-table
 name: Wraithwing

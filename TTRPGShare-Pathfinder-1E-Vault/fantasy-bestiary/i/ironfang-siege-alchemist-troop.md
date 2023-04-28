@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ironfang Siege Alchemist Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 88
 desc_short: A wild-eyed band of hobgoblins cluster tightly around fortified carts containing hoses and reservoirs brimming with strange fluids.
 ```
-# Description
+## Description
 Most members of this troop are supplied with chain shirts, longswords, and bandoliers of acid and alchemist’s fire. As their creations are jury-rigged spontaneously, capturing a usable firedrake (Pathfinder RPG Ultimate Combat 163) after defeating one of these troops is rare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ironfang%20Siege%20Alchemist%20Troop)
 ```encounter-table
 name: Ironfang Siege Alchemist Troop

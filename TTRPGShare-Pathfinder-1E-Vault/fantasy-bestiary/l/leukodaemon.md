@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leukodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 80
 desc_short: This human-shaped beast has a horse’s skull for a head. It walks on cracked hooves and bears the rotting wings of a carrion bird. 
 ```
-# Description
+## Description
 Deacons of the Horseman of Pestilence, leukodaemons serve their lord in Abaddon as well as across the planes by spreading plagues and pandemics. 
 
 Leukodaemons stand upward of 14 feet tall but weigh just over 200 pounds. The skulls that serve as their heads can be replaced with any skulls, yet these creatures choose horse skulls to show their loyalty to the Horsemen. The creature’s true head is merely a blistered knob between its shoulders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leukodaemon)
 ```encounter-table
 name: Leukodaemon

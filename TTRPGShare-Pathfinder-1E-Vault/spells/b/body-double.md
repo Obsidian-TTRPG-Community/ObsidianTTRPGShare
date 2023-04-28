@@ -1,19 +1,21 @@
 ---
-alias: Body Double
+aliases: [Body Double]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Body Double 
+## Body Double
 
 **source**:: Dirty Tactics Toolbox pg. 30  
 **school**:: illusion (glamer)
 **level**:: arcanist 2, bard 2, bloodrager 2, magus 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (two glass beads)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: two creatures; see text  
@@ -21,7 +23,7 @@ alias: Body Double
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Upon casting this spell, choose a primary target and a secondary target, both of which must be within range. If the primary target fails or forfeits its saving throw, its appearance, scent, sounds, and mannerisms change to match those of the secondary target.  
   

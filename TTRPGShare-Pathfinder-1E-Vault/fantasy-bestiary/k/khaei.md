@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Khaei
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 22
 desc_short: This short, stunted humanoid is bald and has weirdly twisted limbs, its body seeming to fade and come apart at the edges.
 ```
-# Description
+## Description
 The khaei are a mystery even to themselves. Their twisted limbs give them an awkward, shambling gait, and their personalities are dull and incurious, making them seem in many ways to be simply degenerate humans. At the same time, their bodies’ tendency to trail off into mist and shadow, combined with their weird magical attack, suggests they could be much more. A typical khaei stands 4 feet tall and weighs 100 pounds.
 
 By far the most unusual aspect of the khaei is their ability to manipulate time. A khaei in fear for her life can grab an attacker and forcefully age him by several years, creating enormous strain on the foe’s body. This exertion does damage to the khaei as well, and thus is rarely used, but a would-be tyrant who considers the khaei easy pickings may find himself surrounded by a weeping mob that quickly ages him into decrepitude-then forgives and cares for him. The few scholars who know of the khaei’s existence speculate that the creatures may themselves be somehow unstuck in time, perhaps sent back or forward from another era in preparation for a great event.
 
 Khaei live in small, isolated communities underground, often inhabiting a single cavern and refusing to explore beyond it or otherwise improve their situation. The only known enclave of khaei in the Inner Sea region is in the Dark Forest, a cavern deep beneath the city of Kaer Maga, where they serve as both subjects and prey for the mysterious dullahan called the Dark Rider. One of the most cherished stories of these khaei concerns a time and place-somewhere in either the past or the future- when there were many more of them, their cavern-forests linked by magical standing stones.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Khaei)
 ```encounter-table
 name: Khaei

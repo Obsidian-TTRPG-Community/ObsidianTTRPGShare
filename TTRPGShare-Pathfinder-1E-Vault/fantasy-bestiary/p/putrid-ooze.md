@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Putrid Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 90
 desc_short: Masses of carrion and debris break the inky surface of this enormous, undulating sludge.
 ```
-# Description
+## Description
 Putrid oozes are primarily made from organic mire animated with Abyssal energies. These creatures can exist near any rift or portal to the Abyss. They caustically burn through plants and animals in pursuit of their vicious, mindless hunger. Putrid oozes get their name from their disturbing habit of subsuming dead creatures into their own gelatinous bodies. Putrid oozes generally are a combination of churning, gray-and-black slurries, similar to chunky tar mixed with wet gravel, but their bodies also hold undigested portions of the creatures they consume. At any one time, they present a mixture of rotting limbs, severed heads, and entangled entrails among the miscellaneous sludge that makes up their bodies.
 
  Most hardy materials putrid oozes consume are never completely devoured. Putrid oozes slowly break down their meals into the same gray-black, chunky morass that makes up their bodies. Although it’s rare for a putrid ooze to starve, those weakening from hunger use the last of their dwindling energy to seek out chasms or ravines where they can lie in wait, hoping for meals to wander past. In these dark places, the putrid oozes go dormant, existing as murky pools of sticky acid until a living creature draws near. Though the creatures are essentially in hibernation, all it takes is a simple touch to awaken them. In contrast, active putrid oozes are intimidating sights to behold, and rarely take anyone by surprise.
@@ -62,7 +64,7 @@ Putrid oozes are primarily made from organic mire animated with Abyssal energies
  When putrid oozes take enough damage to be destroyed, they melt into an inert pool of muck like most other oozes, though whether putrid oozes eventually reform from such remnants is a point of debate. Some say that sunlight further breaks down putrid oozes once they are destroyed.
 
  A putrid ooze typically covers an area that measures 12 feet by 12 feet, and piles up on itself to a height of no more than 8 feet. A putrid ooze weighs about 20 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Putrid%20Ooze)
 ```encounter-table
 name: Putrid Ooze

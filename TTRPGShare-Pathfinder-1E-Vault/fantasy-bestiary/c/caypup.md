@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caypup
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 29
 desc_short: This large, regal canine looks like a juvenile mastiff. It has red fur and vibrant blue eyes.
 ```
-# Description
+## Description
 Cayhounds-as fickle and determined as their patron god and master, Cayden Cailean-sometimes birth pups on the Material Plane or Elysium. These half-celestial offspring are known to mortals as caypups.
 
  Like their otherworldly forebears, caypups are driven to perform acts of good and to halt wrongdoing in the lands they roam. Caypups sometimes join adventurers in hopes of reenacting the legendary deeds of Cayden Cailean and his hound, Thunder. A 7th-level spellcaster with the Improved Familiar feat can gain a caypup as a familiar.
 
  After maturing through infancy, caypups reach an adolescent state that they occupy for their entire lives. Resembling juvenile mastiffs with rust-red fur and piercing blue eyes, caypups are 4 feet from nose to tail and weigh about 75 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caypup)
 ```encounter-table
 name: Caypup

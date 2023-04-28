@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kithangian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 47
 desc_short: This creature combines the features of a scorpion and a horse- slavering humanoid faces peer from between its two pincers. 
 ```
-# Description
+## Description
 Kithangians, also known as beast demons, are reprehensible monstrosities born from the souls of those who abused and tormented animals in life. Universally male, the sudden spread of fiendish elements through within an area’s fauna is a sure indication of a kithangian’s presence in a region. The fact that most creatures that birth litters of young with the half-fiendish template die in the process is of little concern to the kithangian, for it merely moves on to new hunting grounds when uncorrupted animal victims grow too rare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kithangian)
 ```encounter-table
 name: Kithangian

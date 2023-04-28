@@ -1,25 +1,27 @@
 ---
-alias: Transformation
+aliases: [Transformation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Transformation 
+## Transformation
 
 **source**:: PRPG Core Rulebook pg. 360  
 **school**:: transmutation
 **level**:: alchemist 6, arcanist 6, investigator 6, magus 6, occultist 6, psychic 6, sorcerer 6, spiritualist 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a *potion of bull's strength*, which you drink and whose effects are subsumed by the spell effects)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 You become a fighting machine-stronger, tougher, faster, and more skilled in combat. Your mindset changes so that you relish combat and you can't cast spells, even from magic items.  
   
@@ -27,7 +29,7 @@ You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, a +4 n
   
 You lose your spellcasting ability, including your ability to use spell activation or spell completion magic items, just as if the spells were no longer on your class list.
 
-## Mythic Transformation 
+## Mythic Transformation
 
 **source**:: Mythic Adventures pg. 110  
 You can still cast spells and use spell completion and spell trigger items, but the level of the spell you’re casting or using must be equal to or less than your tier. You gain a number of temporary hit points equal to your caster level.

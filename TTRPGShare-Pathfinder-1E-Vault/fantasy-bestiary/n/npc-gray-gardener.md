@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Gray Gardener
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 26
 ```
-# Description
+## Description
 The notorious executioners of Galt, the Gray Gardeners root out their nation’s enemies-whether actual or simply perceived- and ensure that their soul-imprisoning guillotines, the final blades, remain slaked in blood.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Gray%20Gardener)
 ```encounter-table
 name: NPC Gray Gardener

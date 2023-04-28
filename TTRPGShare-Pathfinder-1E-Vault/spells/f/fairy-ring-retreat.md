@@ -1,19 +1,21 @@
 ---
-alias: Fairy Ring Retreat
+aliases: [Fairy Ring Retreat]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fairy Ring Retreat 
+## Fairy Ring Retreat
 
 **source**:: Advanced Class Guide pg. 181  
 **school**:: conjuration (creation)
 **level**:: druid 7, shaman 7, witch 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: extradimensional meadow, up to three 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Fairy Ring Retreat
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure up an extradimensional meadow that can be accessed from a single entrance on the plane from which the spell was cast. The entry point looks like a circle of toadstools enclosing a 10-foot square. Only those you designate can enter the meadow before you do, and the portal is shut and made invisible behind you when you enter. You can open it again from your own side at will. Once a visitor has passed through the entry point, they find themselves in an idyllic twilight meadow surrounded by an impassable grove of fruit and nut trees. The atmosphere is clean, fresh, and warm.  
   

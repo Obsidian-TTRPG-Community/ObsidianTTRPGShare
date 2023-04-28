@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Chief
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Monster Codex
     desc: 108
 ```
-# Description
+## Description
 A massive brute, the goblin chief gets the best food and treasure that the tribe collects. Some lesser goblins test their mighty chief by returning from a raid empty-handed but full-bellied-this almost always ends poorly for them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Chief)
 ```encounter-table
 name: Goblin Chief

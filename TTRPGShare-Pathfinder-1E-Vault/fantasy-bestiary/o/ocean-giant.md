@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ocean Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 127
 desc_short: This blue-skinned giant’s clothing and beard whip about like sails caught in a storm.
 ```
-# Description
+## Description
 Ocean giants embody the great extremes of the sea. Their skin colors vary from deep blue to pale green, and their eyes and hair range from foamy white to coral pink. They decorate themselves with the treasures of the sea, wearing shell jewelry or scrimshaw, and clothing woven from underwater plants, or even salvaged sails. Each ocean giant carries a handcrafted musical horn made from a conch shell, an object of cultural significance representing its family history and travels on the vast sea.
 
 Many ocean giants view themselves as guardians of the sea, its creatures, and those who travel the waves, safeguarding their charges from remarkable coral towers. Others, however, claim domains measuring thousands of leagues, enslaving the beasts and aquatic races within and shattering any ship that dares trespass near their citadels of urchins and bones.
 
 Adult ocean giants stand approximately 22 feet tall and weigh about 15,000 pounds. Most live to be about 500 years old.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ocean%20Giant)
 ```encounter-table
 name: Ocean Giant

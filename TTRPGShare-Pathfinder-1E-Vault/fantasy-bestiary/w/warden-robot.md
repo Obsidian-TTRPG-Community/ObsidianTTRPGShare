@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warden Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 88
 desc_short: Crafted of a strange, dull metal, this bulky construct stomps forward on stout, multi-jointed legs.
 ```
-# Description
+## Description
 Wardens are dangerous guardian robots often found protecting sealed vaults or patrolling ancient, buried corridors. They carry out their orders with ruthlessness and zeal, usually offering no warning before attacking a perceived threat. The Technic League has had moderate success in controlling a few of these robots, and occasionally assigns them as guards for valuable treasures or important prisoners, roles for which they’re well suited.
 
 Although the mere sight of these massive machines is imposing enough to ward off most intruders, those who are undeterred by a warden’s appearance soon find the robot to be quite capable of destroying those who enter its territory without proper clearance. Unlike golems or similarly mindless constructs, wardens possess an intelligence that allows them to employ tactics, either on their own or as part of a unit. When acting in groups, the robots are smart enough to suppress and reactivate their nausea-inducing sound waves in concert, maximizing the length of time their opponents are incapacitated.
 
 Most wardens are in Silver Mount, but some can be found in many other parts of Numeria. Nearly all share the same characteristics: a squat upper body with a domed shape and two arms ending in six surprisingly dexterous “fingers” surrounding emitters that serve as its primary ranged weapons. Two stout, multi-jointed legs provide the construct with great mobility, even on hilly or rough terrain.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warden%20Robot)
 ```encounter-table
 name: Warden Robot

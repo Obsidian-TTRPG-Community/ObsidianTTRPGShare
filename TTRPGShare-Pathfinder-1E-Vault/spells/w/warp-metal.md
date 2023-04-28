@@ -1,19 +1,21 @@
 ---
-alias: Warp Metal
+aliases: [Warp Metal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Warp Metal 
+## Warp Metal
 
 **source**:: Magic Tactics Toolbox pg. 6  
 **school**:: transmutation (earth)
 **level**:: arcanist 4, bloodrager 4, cleric 4, druid 4, hunter 4, medium 4, occultist 4, oracle 4, psychic 4, sorcerer 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a twisted wire)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1 Small metal object/level, all within a 20-ft. radius; see text  
@@ -21,7 +23,7 @@ alias: Warp Metal
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You cause metal to bend and warp, permanently destroying its straightness, form, and strength. A warped door springs open (or becomes stuck, requiring a successful Strength check to open, at your option). A vehicle grinds to a halt and ceases to operate. Warped ranged weapons are useless. A warped melee weapon imposes a -4 penalty on attack rolls.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lava Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 78
 desc_short: This muscular two-legged dragon is covered with scales of thick volcanic stone.
 ```
-# Description
+## Description
 The deviant and destructive cousins of primal magma dragons, lava drakes rise from smoldering volcanic crevasses to terrorize and devour those creatures weaker than themselves. While far less intelligent that their draconic kin, they are equally arrogant and seek out the adoration of humanoids. They can and often do submerge themselves in molten rock, burrowing through the lava to sneak up on prey, or to provide a dramatic display of power to those who worship them. Thick, blackcrusted scales cover a lava drake’s body.
 
 Stockier than other drakes, adults can grow up to 18 feet in length and weigh over 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lava%20Drake)
 ```encounter-table
 name: Lava Drake

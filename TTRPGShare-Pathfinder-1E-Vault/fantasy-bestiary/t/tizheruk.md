@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tizheruk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 63
 desc_short: This serpentine beast undulates through the water. Its scaly skin and its f lesh are clear, revealing its red-and-brown organs.
 ```
-# Description
+## Description
 The tizheruk is a vicious freshwater predator that wreaks havoc in the lakes and rivers it inhabits. To make matters worse, tizheruks also frequently travel inland via smaller streams where animals and humanoids might think themselves safe. When a tizheruk swims upstream in such waters, it naturally compresses its muscles and organs, enabling it to remain in water less than a foot deep. It explodes to its full size as soon as it attacks, swallowing smaller prey or dragging larger creatures into the water before swimming away with its meal, crushing and potentially drowning its victim.
 
  Though tizheruks subsist mostly on aquatic prey, they often supplement their diets with creatures caught on the shore, particularly sizable mammals such as deer or wild boars. To capture such creatures, a tizheruk extends its tightly coiled, whiplike tongue to snare one of its prey’s legs, then retracts the appendage to pull the creature to its mouth, where it can seize the creature and drag its prey into the water.
@@ -62,7 +64,7 @@ The tizheruk is a vicious freshwater predator that wreaks havoc in the lakes and
  A tizheruk’s skin is nearly transparent, granting it natural camouf lage beneath the water, where its rustcolored organs and tissue can easily be mistaken for the bed of a creek or stream. After gorging itself on fish or on land animals that wander near the shore, the tizheruk compresses itself on the bottom of a lake or river while it slowly digests its prey. Until then, its stealth is compromised, as the ragged chunks of f lesh within its gullet are clearly visible, even if the tizheruk itself remains unseen.
 
  An adult tizheruk is 15 feet long and weighs 200 pounds, though a tizheruk that has just fed may weigh up to two or three times as much. Larger tizheruks with the giant template are threats to even bigger prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tizheruk)
 ```encounter-table
 name: Tizheruk

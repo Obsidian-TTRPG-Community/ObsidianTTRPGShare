@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hivemind Rat Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 156
 desc_short: A swarm of rats groups around a barrel, every pair of red eyes staring intently at one rat in the center of the mass.
 ```
-# Description
+## Description
 A hivemind consists of a swarm of smaller creatures whose individual minds have supernaturally bonded into one to become a single, collective intelligence. Hiveminds often occur in swarms that have existed for generations and that have dwelled in areas of potent magical influence, particularly areas of strong psychic magic. Over time, the swarm learns to work together in more intelligent ways to achieve its goals, and it eventually evolves a cohesive mind. Of course, this evolution can be hastened by direct intervention of potent magic (typically something on the level of a miracle or wish), or as an unintended side effect of esoteric rituals, the use or destruction of artifacts, or the deaths of powerful minds. 
 
 A hivemind swarm learns from its surroundings, which in turn shape its choices in the languages it learns and the psychic spells it develops a penchant for casting. An urban swarm may pick up Common, Dwarven, Elven, or Halfling from snippets of conversations overheard through sewer grates, whereas an underground swarm may learn Dwarven or Undercommon. A hivemind may begin to exert its psychic abilities by compelling animals or people to bring it food or protect it from larger creatures, and it slowly graduates to defending itself and actively attacking as it gains experience. 
 
 Eventually, the hivemind’s mental network takes on more complex tasks as a collective mind. At this point, the hivemind creates a nexus, a single individual in the swarm through which the collective routes all thought. While the nexus is often fairly inconspicuous within the teeming mass of the swarm, it is possible for a highly perceptive observer to notice its decisive movements, spellcasting gestures, or intense gaze. The death of the nexus does not eliminate the shared intelligence of a hivemind, but it is disruptive, forcing the collective to focus inward to regroup and form a new nexus.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hivemind%20Rat%20Swarm)
 ```encounter-table
 name: Hivemind Rat Swarm

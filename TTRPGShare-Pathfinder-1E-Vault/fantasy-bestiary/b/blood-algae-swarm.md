@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Algae Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 86
 desc_short: An oily substance in the water surrounds this seething red mass of wormlike lumps of algae.
 ```
-# Description
+## Description
 Blood algae evolved from a species of river algae in the Jalrune River and has since spread to other rivers in Taldor and Qadira by adhering to the hulls of sailing ships. Individual creatures in a blood algae swarm consist of cells within a fat, gelatinous, wormlike matrix 4 inches long. A swarm of blood algae is at least 10 feet wide and consists of hundreds or thousands of these wormlike organisms.
 
  Blood algae colonies form in river bends and places where the water flows slowly or forms stagnant pools seasonally. Multiple swarms make up a blood algae colony, which can spread across an entire river and writhe along its banks. Individual swarms rarely travel far from their colony unless flushed away by a flood or drawn away by a large log or river vessel-although a blood algae swarm may drift downstream when food is scarce to find a more plentiful area of the river.
@@ -59,7 +61,7 @@ Blood algae evolved from a species of river algae in the Jalrune River and has s
  Blood algae reproduce both sexually and asexually- although a swarm usually uses the latter method only when recovering from losses caused by environmental dangers or predation. A swarm of blood algae consists of a roughly equal number of male and female individuals, but members of the same swarm don’t usually reproduce with one another. Instead, a swarm seeks out another swarm for a violent-looking mating ritual, which churns the water with blood-red pigment.
 
  Because blood algae swarms can color the water red, there are many superstitious beliefs in Taldor about evil spirits that turn the water into blood to punish people.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Algae%20Swarm)
 ```encounter-table
 name: Blood Algae Swarm

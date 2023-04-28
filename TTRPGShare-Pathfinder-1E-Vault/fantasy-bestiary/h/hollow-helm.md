@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hollow Helm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 84
 desc_short: Though at first appearing to be an ordinary suit of armor, this imposing being begins to move, its lumbering movements slow and methodical.
 ```
-# Description
+## Description
 Raised from the corpses of knights and soldiers slain by treachery rather than battle or conf licts considered crimes even in the heat of war, phantom armors appear as suits of animate armor, walking or f loating of their own accord. Most phantom armors haunt the halls and blasted battlef ields where they were slain, seeking revenge against their murderers or, should that prove impossible, confronting any living creature that might give them the opportunity to do battle once more. Dastardly necromancers have also discovered the process for binding violent spirits to suits of armor, giving rise to eerie servants that combine endless patience with cold brutality.
 
 Phantom armors come in many shapes and sizes; some appear to be nothing more than animate helms while others resemble armored giants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hollow%20Helm)
 ```encounter-table
 name: Hollow Helm

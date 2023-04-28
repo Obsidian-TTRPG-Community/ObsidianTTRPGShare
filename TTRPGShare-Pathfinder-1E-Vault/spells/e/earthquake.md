@@ -1,19 +1,21 @@
 ---
-alias: Earthquake
+aliases: [Earthquake]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Earthquake 
+## Earthquake
 
 **source**:: PRPG Core Rulebook pg. 275  
 **school**:: evocation (earth)
 **level**:: cleric 8, druid 8, oracle 8, psychic 8, shaman 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: 80-ft.-radius spread (S)  
@@ -21,7 +23,7 @@ alias: Earthquake
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 When you cast *earthquake*, an intense but highly localized tremor rips the ground. The powerful shockwave created by this spell knocks creatures down, collapses structures, opens cracks in the ground, and more. The effect lasts for 1 round, during which time creatures on the ground can't move or attack. A spellcaster on the ground must make a Concentration check (DC 20 + spell level) or lose any spell he or she tries to cast. The earthquake affects all terrain, vegetation, structures, and creatures in the area. The specific effect of an *earthquake* spell depends on the nature of the terrain where it is cast.  
   
@@ -37,7 +39,7 @@ When you cast *earthquake*, an intense but highly localized tremor rips the grou
   
 *Pinned Beneath Rubble*: Any creature pinned beneath rubble takes 1d6 points of nonlethal damage per minute while pinned. If a pinned character falls unconscious, he or she must make a DC 15 Constitution check or take 1d6 points of lethal damage each minute thereafter until freed or dead.
 
-## Mythic Earthquake 
+## Mythic Earthquake
 
 **source**:: Mythic Adventures pg. 92  
 Increase the damage dealt to structures by 10 points of damage per tier. Increase the damage dealt by cave-ins and landslides to 10d8 points of damage. Increase the damage dealt to those pinned beneath rubble to 1d10 points per minute. Add your tier to the DC of concentration checks and Constitution checks attempted as a consequence of this spell.  

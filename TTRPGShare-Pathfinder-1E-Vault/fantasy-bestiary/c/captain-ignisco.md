@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Captain Ignisco
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 39
 desc_short: This alabaster-skinned man holds a rapier made of intricately carved crystal and wears armor made of the same material.
 ```
-# Description
+## Description
 When the infamous Serrated Fleet of the urdefhan city of Niovengia moved against Beryl Isle, Captain Ignisco led the munavri defense. He and his crew boarded the urdefhan flagship Apocraphalix, and while he did not take the vessel, Ignisco sent the urdefhan fleet into disarray.
 
 Ignisco now sails the Sightless Sea, keeping a keen eye over the Braid-the colossal waterspout leading up to the aboleth-held territory known as the Inverted Sea. When he came across the Pathfinder Koriah Azmeren during his travels, he saved her from a band of urdefhan raiders. Ignisco brought her back to Beryl Isle, where she learned much from his stories of sailing darkened seas. In return for saving Azmeren and ensuring her Darklands discoveries reached the Grand Lodge, the Decemvirate expunged all records of the munavris from the annals of her published chronicle; only Azmeren, the Decemvirate, and the most trusted of Pathfinders know of the unpublished apocrypha that details the munavris’ society.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Captain%20Ignisco)
 ```encounter-table
 name: Captain Ignisco

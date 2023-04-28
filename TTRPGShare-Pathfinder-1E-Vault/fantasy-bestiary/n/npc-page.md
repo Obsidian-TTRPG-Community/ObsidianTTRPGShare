@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Page
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,11 +43,11 @@ sources:
   - name: NPC Codex
     desc: 250
 ```
-# Description
+## Description
 This nervous young page alternates between avoiding unwanted attention and desperately trying to impress any nobles who send him on errands. His duties involve carrying messages (whether on parchment or memorized) within the palace grounds or a city, delivering packages, escorting the retainers of visiting officials, and so on.
 
 Sometimes a package carried by a page contains something quite valuable, though if that is the case, the page is usually accompanied by one or more guards (warriors 3). The additional wealth in the page’s stat block may account for such items, though in most cases the page only carries a few silver coins for his own personal use plus a few gold pieces for his employer’s expenses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Page)
 ```encounter-table
 name: NPC Page

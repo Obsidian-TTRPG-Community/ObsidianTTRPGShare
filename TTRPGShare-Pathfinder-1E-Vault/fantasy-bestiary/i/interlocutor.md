@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Interlocutor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 174
 desc_short: At the core of this multi-limbed monstrosity of claws and blades struggles a glistening mass of veins, organs, and twisted flesh.
 ```
-# Description
+## Description
 Interlocutors are the self-proclaimed surgeon-sculptors among kytons, viewing their practice as more art than medical process. Each victim is a new chance to study the art of pain and sensation through horror-stricken eyes. Their ability to heal the damage they inflict, even to the extent of restoring life to a subject that has only just expired, is perhaps more feared than their eagerness to cut flesh. To an interlocutor’s victim, death is a mercy that is rarely offered.
 
 Nowhere is the interlocutor’s mastery of flesh more apparent than in their bodies, for their apotheosis from mortal into kyton involves the shedding of useless parts down to a tangle of nerves, veins, and various organs. These are then incorporated into bodies made of semi-living metal fashioned from raw shadowstuff harvested in strange reaches of the Plane of Shadow, giving the kyton a terrifying body. Periodically, an arm or other “leftover” limb is retained by the kyton, but only in the same way someone might retain ownership of a treasured piece of jewelry as a keepsake or memento. Some interlocutors retain nothing of their old bodies of flesh save the brain, nerves, and portions of their circulatory system.
 
 Interlocutors are 9 feet tall and weigh 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Interlocutor)
 ```encounter-table
 name: Interlocutor

@@ -1,19 +1,21 @@
 ---
-alias: Thought Echo
+aliases: [Thought Echo]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Thought Echo 
+## Thought Echo
 
 **source**:: Occult Adventures pg. 189  
 **school**:: illusion (glamer)
 **level**:: mesmerist 1, psychic 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Thought Echo
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 When you cast this spell, you establish a mental echo of up to 25 words. Any attempt to read the surface thoughts of the target creature reads only this mental echo unless the caster succeeds at a caster level check (DC = 11 + your caster level). If you cast *thought echo* on yourself, the DC is instead equal to 15 + your caster level. In addition, when casting this spell upon yourself, you can change the echoed thoughts by taking a standard action and concentrating.  
   

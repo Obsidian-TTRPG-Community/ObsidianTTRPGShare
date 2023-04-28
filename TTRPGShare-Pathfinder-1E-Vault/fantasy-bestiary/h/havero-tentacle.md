@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Havero Tentacle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -36,9 +38,9 @@ sources:
   - name: Curse of the Crimson Throne (PFRPG)
     desc: 473
 ```
-# Description
+## Description
 The word “havero” has its roots in ancient Thassilonian, roughly translating into “smothering arms.” The creature itself was first described in notes and theories postulated by ancient students of the stars and delvers into dark lore. Horrifically, haveros are not the mere imaginings of those sages who chronicle the heavens. They are entities of deepest blackness, and on terrible occasions a lone havero has been drawn to Golarion, putting all the races of the world into reach of its endless, ruinous arms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Havero%20Tentacle)
 ```encounter-table
 name: Havero Tentacle

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Delgeth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 59
 desc_short: The antlers and hooves of this elk appear scorched and charred. The ground where it stands smolders and bursts into flame.
 ```
-# Description
+## Description
 Delgeths are a unique breed of ungulate native to magical forests and places where the line between the natural and the supernatural is blurred. A delgeth’s soaring core body temperature manifests in the elk-like creature’s flaming hooves and smoldering antlers, both of which the beast uses to defend itself. A delgeth also employs its flames to mark its territory during mating season, stamping out boundaries of scorched grass in intricate patterns to indicate its location to others of its kind.
 
 Delgeths are unpredictable creatures, and are equally as likely to Run from predators as they are to stand their ground and face off against aggressors. Either way, a delgeth is sure to leave a fiery reminder of its passing, as the beast’s flaming hooves blaze a telltale trail through the brush.
@@ -57,7 +59,7 @@ Delgeths are unpredictable creatures, and are equally as likely to Run from pred
 Tribal cultures and scholars of the supernatural alike hold the majestic delgeth in awe. Though delgeths have innate connections to flame, they live in balance with the natural world in the wooded territories where they roam. They refrain from allowing their flames to run uncontrolled in the environment, instead allowing natural fires to periodically purge the forest of excess deadwood.
 
 A typical delgeth stands 4 feet tall at the shoulder and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Delgeth)
 ```encounter-table
 name: Delgeth

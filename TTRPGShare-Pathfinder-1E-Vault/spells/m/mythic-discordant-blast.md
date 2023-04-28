@@ -1,19 +1,21 @@
 ---
-alias: Mythic Discordant Blast
+aliases: [Mythic Discordant Blast]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Discordant Blast
+## Mythic Discordant Blast
 
 **source**:: Mythic Adventures pg. 91  
 **school**:: evocation (sonic)
 **level**:: bard 4, skald 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 10 ft. or 30 ft.  
 **area**:: see text  
@@ -21,7 +23,7 @@ alias: Mythic Discordant Blast
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a wave of thunder and force, either in a 10-foot-radius burst centered on you or in 30-foot cone-shaped burst. Creatures in the area take 3d6 points of sonic damage and are pushed away as if bull rushed. Make a combat maneuver check and apply its results to each creature in the area. Your CMB for this bull rush is equal to your caster level plus your Charisma modifier. This bull rush does not provoke an attack of opportunity. A *discordant blast* cannot penetrate a *silence* spell (or any similar magical silence effect).
 

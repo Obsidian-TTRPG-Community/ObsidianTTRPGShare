@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kapre
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 86
 desc_short: Roots and branches twist across this oddly proportioned creature to form knots of muscle. Its eyes burn like embers.
 ```
-# Description
+## Description
 Vehement defenders of the unusual locations of the natural world, kapres have a complicated relationship with the “civilized” races. Formed of dense tree matter, they are as much part of the forest as their botanical brethren. Their intimidating physical size, territorial nature, and unusual approach to friendship often bring them into conf lict with local tribes and aggressive explorers. With slender limbs and thick, gnarled torsos, kapres are awkwardly humanoid in appearance, and if not for the soft glow of their eyes they could be mistaken for treants.
 
 Exceedingly secretive and wary, kapres prefer to avoid conf lict, using their imposing size and confounding auras to intimidate any would-be invaders. Leaning out of huge trees, they blow smoke onto lost explorers, persuading them to flee.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kapre)
 ```encounter-table
 name: Kapre

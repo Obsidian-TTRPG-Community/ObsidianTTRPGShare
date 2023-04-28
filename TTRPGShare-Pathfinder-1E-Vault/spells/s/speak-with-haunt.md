@@ -1,19 +1,21 @@
 ---
-alias: Speak with Haunt
+aliases: [Speak with Haunt]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Speak with Haunt 
+## Speak with Haunt
 
 **source**:: Advanced Class Guide pg. 193  
 **school**:: necromancy (language-dependent)
 **level**:: cleric 4, medium 2, oracle 4, psychic 4, shaman 3, spiritualist 4, warpriest 4, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 10 ft. (see text)  
 **target**:: one haunt  
@@ -21,7 +23,7 @@ alias: Speak with Haunt
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You stir a haunt (*Pathfinder RPG GameMastery Guide* 242) to a limited sense of awareness and consciousness, allowing it to answer questions. The spell’s range must reach any square within 10 feet of the haunt’s area. You must be aware of the haunt prior to casting the spell, and casting the spell does not trigger the haunt. You can ask one question per 2 caster levels. The haunt’s knowledge is limited to what its original creature knew during life, including the languages it spoke. A haunt often remembers the circumstance that led to its existence (though this recollection might be from the original victim’s perspective and therefore not objective), what triggers it, and how it can be laid to rest (destroyed). Answers are brief, cryptic, or repetitive, especially if the haunt is angry and vindictive.  
   

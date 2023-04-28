@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caligraphy Wyrm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 26
 desc_short: The feet and tongue of this minuscule gold-scaled dragon are stained with ink.
 ```
-# Description
+## Description
 Eons ago, sovereign dragons created calligraphy wyrms to serve as lore-keepers in their mountain lairs. Eventually, these intensely curious creatures spread beyond the domains of their mighty masters. Most of the free calligraphy wyrms settle in large towns or cities, seeking new lore and forms of writing. Because of their natural proclivity for reading and recording information, these creatures often wind up lurking around libraries and colleges, serving wizards, bards, and loremasters as familiars and assistants. 
 
  Calligraphy wyrms have ink sacs similar to those of squids. In addition to defensive uses, these wyrms use their ink for notation, employing their stylus-shaped claws as writing implements. Most calligraphy wyrms learn to speak several languages, though many creatures find their chirping voices and know-it-all attitudes obnoxious. 
 
  A 7th-level spellcaster with the Improved Familiar feat can gain a calligraphy wyrm as a familiar. A calligraphy wyrm is about 7 inches long and weighs about 1 pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caligraphy%20Wyrm)
 ```encounter-table
 name: Caligraphy Wyrm

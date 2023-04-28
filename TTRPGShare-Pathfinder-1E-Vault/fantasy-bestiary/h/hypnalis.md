@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hypnalis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 154
 desc_short: Seeming to phase in and out of existence, this ophidian creature has a great striped hood like a cobra.
 ```
-# Description
+## Description
 Sometimes called an ether serpent, a hypnalis resembles a snake the size of a python sporting a hood like that of a cobra with gray stripes. The creature’s fangs carry a potent venom that is not only deadly, but can force creatures off the Ethereal Plane. While other denizens of the Ethereal Plane focus their attention on warring with each other, spying on others, or feeding on dreams, a hypnalis hunts those not native to its plane.
 
 Different hypnalises deal with such interlopers in their own ways. Some sinister or young and hotheaded hypnalises hunt such trespassers for sport, tormenting them for a while before killing them or expelling them to the Material Plane. Other older or inquisitive hypnalises are more curious about such strangers and pragmatic in their dealings with them, approaching interlopers in attempts to find out their method for traveling to the Ethereal Plane and whether or not they can return. If they can, these hypnalises might request that these interlopers leave, backing such requests with threats if the interlopers seem uncooperative. If the interlopers don’t have a method to return to their home, some rare goodnatured hypnalises may help them find a way to leave the Ethereal Plane without using its poison. Even when this is the case, hypnalises are wary creatures, and are always on guard against treachery.
 
 A hypnalis is approximately 8 feet long and weighs about 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hypnalis)
 ```encounter-table
 name: Hypnalis

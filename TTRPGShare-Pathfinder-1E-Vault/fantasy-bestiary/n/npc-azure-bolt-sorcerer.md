@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Azure Bolt Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: NPC Codex
     desc: 170
 ```
-# Description
+## Description
 An azure bolt sorcererbelieves she is smarter than she actually is, and spins wild schemes to make herself feel important.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Azure%20Bolt%20Sorcerer)
 ```encounter-table
 name: NPC Azure Bolt Sorcerer

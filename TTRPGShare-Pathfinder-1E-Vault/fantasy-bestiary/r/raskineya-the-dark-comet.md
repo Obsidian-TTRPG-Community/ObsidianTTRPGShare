@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raskineya, the Dark Comet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 60
 desc_short: This spined dragon has black scales that pulse with green light. Her tattered wings show a starscape that whirls in mad patterns.
 ```
-# Description
+## Description
 Void dragons are a cursed race, born on the boundary between rational space and the vast unknowable nothingness that lurks between the stars. They are not typically evil, but few escape the notice of the unnamable beings that dwell within that distant void. The fortunate ones resist the fell influence of the Dark Tapestry and survive with their minds intact.
 
 Raskineya was not one of the fortunate ones. The taint of the void shattered her mind, driving her to mindless violence and destruction. In her madness she sought out the inner planets of Golarion’s solar system, plunging into the gravity wells of the inhabited worlds to feed and raze before fleeing back to the stars and plotting her next attack.
@@ -82,7 +84,7 @@ With her newfound sense of purpose, Raskineya turned upon her captors. Her mind 
 In the years since her ascension, Raskineya first scoured the world searching for the Star Towers-artifacts created by the gods to strengthen Rovagug’s prison. The dragon was certain that if she could locate the first of these towers and destroy it, the rest will fall like dominoes, weakening the foundations of Rovagug’s prison enough to allow his escape. She moved from Star Tower to Star Tower, searching for clues as to the location of the original. She last conquered the Star Tower of Vekheen, winning it from a paladin of Sarenrae named Dazma the Bright, who had learned of the dragon’s design on the tower and marshaled an army to defend it. Raskineya vanquished Dazma and her army by dragging meteors from the sky to drop on the Sarenites. Those who survived the initial bombardment were savaged by akatas carried within the meteors, leaving the remainder easy pickings for the dragon.
 
 Though it seemed she was getting closer to her goal, Raskineya’s devotion to Rovagug made her actions unpredictable. Just as she conquered the Star Tower of Vekheen, she heard a pressing call she believed came from Rovagug himself. She flew to the Pit of Gormuz, where she made a den in the Crater of Carnal Joining in anticipation of the Rough Beast’s arrival. There she waits, conducting horrific rituals to attract his attention. She brought with her the Sarenite survivors of the raid on the Star Tower, who she keeps alive as subjects for her rites. Once noble soldiers, they’re now maimed and driven mad, kept in perpetual darkness within a small cave in Raskineya’s lair. The warriors of the Maimed Legion, as she calls them, see light only when they’re being tortured.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Raskineya%2C%20the%20Dark%20Comet)
 ```encounter-table
 name: Raskineya, the Dark Comet

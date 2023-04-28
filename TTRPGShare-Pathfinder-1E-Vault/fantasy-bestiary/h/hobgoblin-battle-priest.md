@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin Battle Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
   - name: Monster Codex
     desc: 121
 ```
-# Description
+## Description
 Battle priests’ augmentations to their allies’ strength, stamina, precision, and speed are vital to many hobgoblin tactics, and as such the clerics often serve as trusted advisors to commanders, consulting to determine what magical support would best serve the tactical situation.
 
  Like all hobgoblins, battle priests live for the adrenaline rush of open warfare, and during the heat of a skirmish they often turn their attention away from their allies-it is the task of the soldier to survive and drive his enemy before him, and a battle priest sees it as coddling weakness to tend to wounds among those soldiers not strong enough to grasp their own victory. Rather, battle priests employ their magic to debilitate their foes, channeling the wrath of their gods of war upon those who oppose them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin%20Battle%20Priest)
 ```encounter-table
 name: Hobgoblin Battle Priest

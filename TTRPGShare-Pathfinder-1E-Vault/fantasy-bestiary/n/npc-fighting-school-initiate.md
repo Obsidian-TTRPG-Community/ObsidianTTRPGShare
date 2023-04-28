@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fighting School (Initiate)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,7 +43,7 @@ sources:
   - name: GameMastery Guide
     desc: 274
 ```
-# Description
+## Description
 Initiates are the novice members of martial arts academies or monasteries, learning hand-to-hand fighting, agility, meditation, and humility at the hands of their masters. They may spend their entire lives in the monastery, honing their minds and bodies to perfection.
 
 Initiates can serve as bodyguards in areas where weapons are forbidden or as unconventional foot soldiers and skirmishers. They could also be used as unarmed brawlers, boxers, gladiators, or pit fighters.
@@ -49,7 +51,7 @@ Initiates can serve as bodyguards in areas where weapons are forbidden or as unc
 Exchanging an initiate’s monk bonus feats creates NPCs with different combat abilities, such as Catch Off-Guard and Throw Anything for an improvised weapon master, Improved Grapple for a wrestler, or Scorpion Style for different unarmed combat flavor.
 
 An initiate may be found escorting a pair of acolytes (CR 3), or four initiates could be responsible for protecting a group of six pilgrims on a pilgrimage to a distant temple (CR 9). A group of six initiates might be encountered traveling between two monasteries (CR 6), or five initiates could form a training class under the tutelage of a battle monk (CR 7).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fighting%20School%20(Initiate))
 ```encounter-table
 name: NPC Fighting School (Initiate)

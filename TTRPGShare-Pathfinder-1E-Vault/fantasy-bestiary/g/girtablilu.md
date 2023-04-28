@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Girtablilu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 130
 desc_short: The body of a spear-wielding woman rises from the front of this monstrously huge scorpion.
 ```
-# Description
+## Description
 Girtablilus fiercely guard ancient places and treasures lost to history. Far from civilized eyes, they thrive and piously protect their charges with the aid of monstrously large scorpions that girtablilus keep as pets.
 
 All girtablilus share a zeal for religion, although the objects of veneration vary from tribe to tribe. Some girtablilu tribes still serve long-forgotten deities, preserving the divinities’ names and holy rituals. Others embrace religions derived from prehistoric worship, devoted to the idea of gods that once were or might never have been.
@@ -67,7 +69,7 @@ All girtablilus share a zeal for religion, although the objects of veneration va
 Girtablilu leaders are clerics or oracles, and are responsible for the tribe’s religious observances and laws. Tradition and service to the group are important. Those who violate tribal beliefs are killed or exiled into the harsh wasteland. Girtablilus believe that no sacrifice in life (including death in the service of the gods) goes unrewarded in the hereafter; this belief makes them fierce and fearless fighters.
 
 A girtablilu is 13 feet long and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Girtablilu)
 ```encounter-table
 name: Girtablilu

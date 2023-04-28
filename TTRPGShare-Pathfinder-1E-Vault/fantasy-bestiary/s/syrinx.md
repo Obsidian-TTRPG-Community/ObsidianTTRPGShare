@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Syrinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 51
 desc_short: Robed in silk and its own regal wings, this humanoid assays its surroundings with the lethal detachment of the owl it resembles.
 ```
-# Description
+## Description
 From lofty monastery-cities entrenched in soaring cliff sides and high mountain valleys, the syrinx seek to bring peace to all lands that fall within sight of their marbled spires. Erudite and aloof, the owl-like scholars embrace art, philosophy, and nebulous faiths, seeking to distance themselves from a history of barbarism and ruin. To this end, they seek to enslave all lesser races, especially those without wings. Their elitist culture rests upon thousands of backs in an elaborate hierarchy of slaves. Directly below the syrinx are the strix, a race they magically modified in the distant past to serve as warriors and slave masters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Syrinx)
 ```encounter-table
 name: Syrinx

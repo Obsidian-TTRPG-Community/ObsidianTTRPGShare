@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boilborn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 22
 desc_short: Like some taut pustule ready to burst, this mobile wound scuttles on a bristle of slick hairs.
 ```
-# Description
+## Description
 Purulent wounds that crawl out from piles of diseased dead and areas of massive contagion, these oozes slop about thoughtlessly, quivering and ready to burst and infect anything that moves. The creatures manifest in areas wracked by plagues, where rot and ruin run rampant. Crawling from the aff licted areas, boilborn spread out in all directions to disperse their infection.
 
 Though carefully studied by healers and naturalists focusing on oozes, living boilborn are dangerous to experiment upon. This is because their death throes can sometimes be triggered accidentally, even when the creatures are handled gently and no harm has been done to them. Some posit that boilborn have only a limited lifespan, and self-destruct when that period ends. Others have labored for years under the hope that the infectious fluids contained within boilborn might somehow be used to find both cures and immunities to any number of diseases that plague the world. Though this experimentation has resulted in certain indicators that boilborn might indeed be put to such positive use, a reliable concoction has yet to be developed.
@@ -62,7 +64,7 @@ Blindborn (CR 1): Pale greenish gray in color and slightly luminescent, this boi
 Infernal Boilborn (CR 3): Accompanied by the smell of brimstone, this black-skinned boilborn has the advanced creature simple template and the fiendish creature simple template, and infects victims it slams or splatters upon with devil chills.
 
 Plagueborn (CR 2): Sickly yellow and wracked with perpetual palpitations that emit a fine mist, this boilborn has the giant simple template. Any creatures within 5 feet of a plagueborn must succeed at a DC 16 Fortitude save or contract cackle fever.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boilborn)
 ```encounter-table
 name: Boilborn

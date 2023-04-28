@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Poison Frog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 135
 desc_short: This small frog is bright green and red, with electric-blue stripes on its hind legs.
 ```
-# Description
+## Description
 Poisonous frogs are a bright green color, with additional bright yellow, red, or blue markings. They are just over a foot long and weigh 10 pounds. The poison of poisonous frogs is often gathered by primitive tribes and used to coat darts and arrows for hunting.
 
 You can make a larger poison frog either by applying the giant simple template or by giving a normal giant frog a poison frog’s venomous bite.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Poison%20Frog)
 ```encounter-table
 name: Poison Frog

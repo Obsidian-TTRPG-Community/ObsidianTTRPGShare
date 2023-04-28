@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Equine Bone Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,11 +40,11 @@ sources:
     desc: 13
 desc_short: This mass of bones is shaped like a horse, with bizarre limbs.
 ```
-# Description
+## Description
  Equine bone golems are typically created to guard tombs or cairns of horselords or other people of high station in equestrian societies. A wealthy knight might pay to have the bones of a fallen steed fashioned into a golem to protect her crypt.particularly if the knight prefers guardians created by non.necromantic magic.or a decadent noble might choose to have his favorite racing horse entombed with him.
 
  Construction of an equine bone golem is the same as normal for a bone golem, except that at least one large horse skeleton must be included.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Equine%20Bone%20Golem)
 ```encounter-table
 name: Equine Bone Golem

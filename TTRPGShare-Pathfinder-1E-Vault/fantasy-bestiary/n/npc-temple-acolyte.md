@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Temple (Acolyte)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
   - name: GameMastery Guide
     desc: 304
 ```
-# Description
+## Description
 An acolyte is a priest in training, often a callow youth fresh from the cloisters, loaded with zeal but not much practiced in proselytism. They are found in temples and monasteries throughout the world, and their enthusiasm and devotion makes them eager to take up arms and armor to defend their faith and flocks.
 
 Acolytes of different faiths can be easily created by simply changing their domains, spells, armor, or weapons. Evil acolytes might have the Death and Evil domains, for example, and channel negative energy instead. An acolyte of nature could have the Animal and Plant domains, and wear leather armor.
 
 Acolytes can be temple caretakers or messengers, attendants at small roadside shrines and chapels, or assistants to more experienced priests. A pair of acolytes may accompany a temple guard (CR 3), a pilgrim (CR 4), or a medium (CR 5).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Temple%20(Acolyte))
 ```encounter-table
 name: NPC Temple (Acolyte)

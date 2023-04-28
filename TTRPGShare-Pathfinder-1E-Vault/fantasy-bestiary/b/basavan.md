@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Basavan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 86
 desc_short: An unkempt mass of hair covers this towering giant. Its humanlike face bears a peaceful yet stern countenance.
 ```
-# Description
+## Description
 Covered in shaggy hair that envelops the entirety of their immense bodies other than their faces, basavans resemble exceptionally hirsute giants. Wise and peaceful stewards of the wilderness, basavans protect the plants and animals that share their homes in wooded mountains across Golarion. Basavans are likely to let unwitting trespassers off with a warning, but against predators and poachers they deal powerful blows with staves and stones, using their innate connection to the land to locate and trap their foes.
 
  Basavans are 24 feet tall and weigh 17,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Basavan)
 ```encounter-table
 name: Basavan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hegessik
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 84
 desc_short: This serpentine creature has shimmering golden plumage that transitions into sparkling gemstones on its back.
 ```
-# Description
+## Description
 The reclusive hegessiks are the wandering clergy of the protean race, itinerant spiritual elders and voices in the supernatural wilderness. Detached from the ever-shifting pseudo-structure of powerful protean cabals, hegessiks serve as intermediaries between them and as agents of the protean lords. Along with keketar proteans (Pathfinder RPG Bestiary 2 215), they deal with those gods who dwell within the Maelstrom. 
 
 The average hegessik is 14 feet long and weighs 1,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hegessik)
 ```encounter-table
 name: Hegessik

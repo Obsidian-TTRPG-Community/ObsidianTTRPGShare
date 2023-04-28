@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 148
 desc_short: This lumbering giant has short stumpy legs and powerful, muscular arms. Its hair and beard seem to be made of fire.
 ```
-# Description
+## Description
 Fire giants are the most rigid and militaristic of all the giant races. They constantly train for war and practice brutal tactics on anyone and everyone that gets in their way. Their rigid command structure is complete with soldiers, officers, and even generals, and they obey orders from their kings unquestioningly.
 
 Fire giants have bright orange hair that flickers and glows almost as if it were aflame. An adult male is 12 to 16 feet tall, has a chest that measures 9 feet around, and weighs about 7,000 pounds. Females are slightly shorter and lighter. Fire giants can live to be 350 years old.
@@ -59,7 +61,7 @@ Fire giants have bright orange hair that flickers and glows almost as if it were
 Fire giants wear sturdy cloth or leather garments colored red, orange, yellow, or black. Warriors wear helmets and half-plate armor of blackened steel and wield large greatswords that they use to cut swaths across the battlefield. In large groups, fire giants fight with brutal and efficient group tactics, and aren’t afraid to sacrifice one or two of their members to draw an enemy into an ambush.
 
 Fire giants prefer hot locations-the hotter, the better. They’ve been found in deserts, volcanoes, hot springs, and deep beneath the earth near lava vents. They live in castles, walled settlements, or large caverns, and the design of these locations reflects their rigid, militaristic lifestyle, with officers living in better quarters than the rank-and-file.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Giant)
 ```encounter-table
 name: Fire Giant

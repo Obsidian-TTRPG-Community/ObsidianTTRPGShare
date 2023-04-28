@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Crusader (Saint)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
   - name: GameMastery Guide
     desc: 269
 ```
-# Description
+## Description
 commune spell.
 
 A saint is the embodiment of the crusader ideal. A saint might head a crusader temple or order or could be matriarch of her own religious tradition. A saint usually keeps a priest and holy warrior as advisors (CR 12), or a saint with a squad of four holy warriors might accompany a king (CR 15).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Crusader%20(Saint))
 ```encounter-table
 name: NPC Crusader (Saint)

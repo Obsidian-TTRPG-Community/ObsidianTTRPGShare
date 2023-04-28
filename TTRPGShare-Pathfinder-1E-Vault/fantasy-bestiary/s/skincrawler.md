@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skincrawler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 252
 desc_short: What appears to be a heap of freshly flensed skin ripples and flexes; it has a long tendril tipped with a single sharp fingernail.
 ```
-# Description
+## Description
 Skincrawlers are parasitic oozes that feed on the fluids of living hosts. They stalk isolated prey, but due to their mindlessness, skincrawlers do not recognize that feeding on a host already infested by other skincrawlers can swiftly shorten the lifespan of their food source. 
 
 When a skincrawler’s host dies, the ooze detaches and crawls into the host’s body through a convenient orifice, whereupon it enters the last stages of its life cycle. As the host decays around it, the skincrawler suffuses the host’s flesh; 24 hours after the host’s death, the host’s skin splits apart into a rash of up to a dozen skincrawlers that then slither away to seek new prey. When unattached to a host, a skincrawler appears to be a protoplasmic blob of flesh with visible veins and capillaries. 
 
 A skincrawler is about 1 foot square in size and weighs 3 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skincrawler)
 ```encounter-table
 name: Skincrawler

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Journeyman Carpenter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
   - name: NPC Codex
     desc: 261
 ```
-# Description
+## Description
 A journeyman carpenter is skilled with a hammer, but tries to avoid violence except to defend himself and his family. Tools can be rebuilt or replaced, and he will not waste his life protecting mere objects.
 
 The above stat block can be used for any journeyman whose trade requires skill and strength, such as a blacksmith, stonemason, or teamster. The stat block can also be used for older warriors in orc or hobgoblin tribes who are not as vigorous but are still able to fight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Journeyman%20Carpenter)
 ```encounter-table
 name: NPC Journeyman Carpenter

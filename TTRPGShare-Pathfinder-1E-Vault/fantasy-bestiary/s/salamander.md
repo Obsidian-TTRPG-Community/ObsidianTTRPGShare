@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Salamander
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 240
 desc_short: This snake-bodied humanoid hisses with anger. Spines of crackling flame dance along the creature’s blackened, fiery-red scales.
 ```
-# Description
+## Description
 Salamanders are native to the Plane of Fire, where their legions of fierce warriors are much feared by the other inhabitants of the plane. Because some of the stronger elemental fire races enslave salamanders for their metalworking skill and fighting prowess, the salamanders hate the efreet and other inhabitants with a passion.
 
 Though their lairs typically hover in temperatures of 500 degrees F or more, salamanders can tolerate lower temperatures. They generally do so only when forced, and are even surlier and more short-tempered than normal in such environments. Although they hail from the Plane of Fire, the salamander race identifies more with the Abyss, and they hold demons (particularly those associated with fire, like balors and certain fire-themed demon lords) in great esteem. It’s not unusual to encounter large groups of salamanders in the Abyss as a result.
@@ -62,7 +64,7 @@ Though their lairs typically hover in temperatures of 500 degrees F or more, sal
 Salamanders are often conjured to the Material Plane to serve as guardians or, more commonly, to craft weapons, armor, and other metalwork, for their skill in these areas is legendary. Salamanders also infest areas of the Material Plane where the boundaries between this world and the Plane of Fire have worn thin, such as in and near volcanoes.
 
 Because their habitat is so extreme, salamanders only save treasure that can withstand high temperatures, such as swords, armor, jewels, rods, and other items made from high-melting-point metals. Salamander society is a cruel one based on power and the ability to subjugate those beneath oneself. Beings beneath a salamander that cause it discomfort are dealt a slow and painful death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Salamander)
 ```encounter-table
 name: Salamander

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Toshigami
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 164
 desc_short: This strangely beautiful old woman is composed completely of blossoms, bark, and antlerlike branches.
 ```
-# Description
+## Description
 Toshigami, known also as blossom kami, are associated with cherry trees-particularly those that grow in inhabited areas. Often, long after a city has fallen to ruin, these kami guardians are all that remain to remember the lost city’s glory. In this way, the toshigami are also associated with the passing of time.
 
 Toshigami rarely show themselves except to those in dire need or who are harming their trees. Still, they have a fascination with mortals, and have even been known to form romantic relationships with them on occasion. A toshigami is 5 feet tall and weighs 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Toshigami)
 ```encounter-table
 name: Toshigami

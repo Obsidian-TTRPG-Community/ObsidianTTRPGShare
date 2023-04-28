@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gray Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 166
 desc_short: A seemingly mundane puddle, patch of moist stone, or glistening rock is suddenly revealed to be more as a terrible pseudopod lashes out.
 ```
-# Description
+## Description
 Slinking their way through cold swamps and bleary marshlands, or sometimes even dungeons and caverns, gray oozes consume any organic materials they encounter. Despite its lack of intelligence, the gray ooze is a most problematic creature due to its transparency. While the ooze cannot easily climb walls or swim, its habit of lurking in the thick mud that lines the banks of marsh pools or lying in harmless-looking pools on dull-colored dungeon floors makes it dangerously easy to overlook and step on.
 
 Some sages believe that the gray ooze is the result of a failed alchemical experiment, while others postulate that the first gray oozes spontaneously arose from a cesspit of magical detritus. Of course, these theories that gray oozes are not living organisms, but rather the alchemical result of an unfortunate mixture of rare caustic fluids and magical waste, are derided by many who dwell in areas plagued by the creatures but which do not have a long history of magical pollution.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gray%20Ooze)
 ```encounter-table
 name: Gray Ooze

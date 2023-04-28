@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cyclops Lorekeeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 21
 desc_short: Ancient tomes and ornate robes lend this towering one-eyed figure an intellectual air, balanced by his toned muscles and a lingering stench of blood.
 ```
-# Description
+## Description
 Cyclops lorekeepers scour Golarion for the secrets of their ancestors, hoping to rekindle the wisdom and majesty their race once embodied. Driven by obsession and the faintest hints of dream-whispered prophecies, they pursue their intellectual goals with a dispassionate violence, crushing anything and anyone that threatens their goal of restoring the enlightened cyclops civilizations of old. Already among the wisest and most learned of their dwindling kind, lorekeepers attempt to uncover ever more of the knowledge and wisdom of ancient Ghol-Gan.
 
 These studied cyclopes are the closest thing the race has to true adventurers, raiding ancient ruins for lore, and even infiltrating the lands of younger races to plumb their libraries. Many attract like-minded cohorts, though more often their power attracts less civilized cyclopes hoping for leadership and protection against the human usurpers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cyclops%20Lorekeeper)
 ```encounter-table
 name: Cyclops Lorekeeper

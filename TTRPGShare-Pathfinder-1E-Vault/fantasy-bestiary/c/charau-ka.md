@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Charau-ka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 308
 desc_short: This limber, shrieking creature has the visage of an enraged monkey, but it walks upright like a man.
 ```
-# Description
+## Description
 Although they call themselves the charau-ka, these dangerous jungle dwellers are often known to colonists and explorers as ape-men. Legend holds that the charau-ka stem from the demon lord Angazhan, who transformed the bodies of the first humans that tried to wage war against his cult, causing the dead to rise as the first apemen. Rumors that charau-ka clerics have perfected a hideous ritual to force those slain to reincarnate as new charau-ka are popular tales among jungle explorers-but proof of such a magic spell has yet to reach civilization.
 
 Today, the charau-ka are one of the most fecund and widespread races of creatures in the Mwangi Expanse. Not all of them serve the Gorilla King or worship Angazhan; some have become feral monsters little more organized than apes, while others may have turned to the worship of other demon lords or even the snake-god Ydersius.
 
 Charau-ka generally dwell in small tribes of a few dozen members. They often keep dangerous jungle creatures as pets or guardians, trusting to their druids or animal handlers to keep the deadly beasts under control. A typical charau-ka village extends from the jungle f loor up into the canopy above, and usually includes several treehouse-style structures connected by vines or rope bridges.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Charau-ka)
 ```encounter-table
 name: Charau-ka

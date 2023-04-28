@@ -1,19 +1,21 @@
 ---
-alias: Mythic Inflict Critical Wounds
+aliases: [Mythic Inflict Critical Wounds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Inflict Critical Wounds
+## Mythic Inflict Critical Wounds
 
 **source**:: Mythic Adventures pg. 98  
 **school**:: necromancy
 **level**:: cleric 4, inquisitor 4, occultist 4, oracle 4, shaman 4, spiritualist 4, warpriest 4, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Inflict Critical Wounds
 **saving-throw**:: Will half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *inflict light wounds*, except that you deal 4d8 points of damage + 1 point per caster level (maximum +20).
 

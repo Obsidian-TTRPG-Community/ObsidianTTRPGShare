@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cave Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 127
 desc_short: Bestial tusks jut from the jaw of this hunched-over giant. It is clad in armor patched together from the bones of past victims.
 ```
-# Description
+## Description
 Stooped over in a perpetual crouch, cave giants move as if they had never mastered walking erect. Their faces mix the worst features of ogre and feral orc. The largest would measure 10 feet in height if they ever stood straight. The typical cave giant weighs 1,000 pounds. Though few survive past 60 years, cave giants can live as long as 150 years.
 
 While they prove remarkably adept with axes of all varieties, cave giants lack the patience to work metal. What metal a cave giant possesses was likely stolen from other giants or worked by enslaved subterranean smiths.
@@ -59,7 +61,7 @@ While they prove remarkably adept with axes of all varieties, cave giants lack t
 Slaves such as dwarves, orcs, and troglodytes do most of the labor in cave giant settlements. Poor treatment and the need for meat keep slave populations small and ever-rotating. New slaves are brought in whenever raiding parties remember to reign in their blood lust. Any prisoners who fail to submit to their new masters find themselves served on the dinner table or tossed screaming into the giant’s cave lizard pens.
 
 Giant lizards of all types serve as both guard beasts and sport for the cave giants. Giant frilled lizards are rarely pets, as most cave giants opt to keep less dangerous monitor lizards instead. Kept in check only by fear and brutal beatings, such pets turn on their handlers at the first sign of weakness. At feeding time, live captives are tossed into the pens, a festive event filled with boisterous cheers and spirited betting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cave%20Giant)
 ```encounter-table
 name: Cave Giant

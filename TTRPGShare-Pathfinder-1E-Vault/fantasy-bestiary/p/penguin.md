@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Penguin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 112
 desc_short: This three-foot-tall, thickset bird has black and white coloration, a long beak, and black flippers that lie flat against its sides instead of wings.
 ```
-# Description
+## Description
 Many varieties of penguins exist, though most display similar characteristics. The penguin’s most distinctive trait is the tuxedo-style coloration of its feathers, which acts as camouflage while the penguin hunts for fish underwater; the black back and flippers allow the penguin to blend in with the water when viewed from above, while its white belly matches the bright sky when seen from below.
 
  A penguin of the most common variety stands roughly 3 feet tall and weighs 70 pounds. Larger species of penguin can grow to heights of 4 feet and weigh as much as 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Penguin)
 ```encounter-table
 name: Penguin

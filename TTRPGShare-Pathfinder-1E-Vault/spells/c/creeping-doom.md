@@ -1,19 +1,21 @@
 ---
-alias: Creeping Doom
+aliases: [Creeping Doom]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Creeping Doom 
+## Creeping Doom
 
 **source**:: PRPG Core Rulebook pg. 262  
 **school**:: conjuration (summoning)
 **level**:: druid 7, shaman 7, summoner 5, summoner (unchained) 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)/100 ft.; see text  
 **effect**:: four swarms of insects  
@@ -21,7 +23,7 @@ alias: Creeping Doom
 **saving-throw**:: Fortitude partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell summons four massive swarms of biting and stinging insects. These swarms appear adjacent to one another, but can be directed to move independently. Treat these swarms as centipede swarms with the following adjustments. The swarms have 60 hit points each and deal 4d6 points of damage with their swarm attack. The save to resist their poison and distraction effects is equal to the save DC of this spell. Creatures caught in multiple swarms only take damage and make saves once.  
   

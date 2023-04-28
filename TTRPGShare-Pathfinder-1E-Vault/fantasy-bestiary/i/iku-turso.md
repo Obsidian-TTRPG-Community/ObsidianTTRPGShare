@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iku-Turso
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 153
 desc_short: This grotesque, emerald-scaled creature resembles a crossbreed of an eel, a viperfish, and a clawed humanoid.
 ```
-# Description
+## Description
 Iku-tursos are hideous denizens of the deep sea. There, they venerate sinister gods of plague and contagion and torment victims plucked from ship and shore in special air-filled torture chambers. Disease is sacred to the iku-tursos, and those who suffer from sickness are considered blessed-an iku-turso often chooses to leave obviously diseased victims to their fates rather than attempt to capture them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iku-Turso)
 ```encounter-table
 name: Iku-Turso

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Irresistible Dance
+aliases: [Mythic Irresistible Dance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Irresistible Dance
+## Mythic Irresistible Dance
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 8, bard 6, mesmerist 6, psychic 8, shaman 8, skald 6, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Irresistible Dance
 **saving-throw**:: Will partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 The subject feels an undeniable urge to dance and begins doing so, complete with foot shuffling and tapping. The spell effect makes it impossible for the subject to do anything other than caper and prance in place. The effect imposes a -4 penalty to Armor Class and a -10 penalty on Reflex saves, and it negates any AC bonus granted by a shield the target holds. The dancing subject provokes attacks of opportunity each round on its turn. A successful Will save reduces the duration of this effect to 1 round.
 

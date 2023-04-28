@@ -1,19 +1,21 @@
 ---
-alias: Healing Flames
+aliases: [Healing Flames]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Healing Flames 
+## Healing Flames
 
 **source**:: Healer's Handbook pg. 8  
 **school**:: conjuration (healing) (fire, good)
 **level**:: cleric 4, inquisitor 4, oracle 4, paladin 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**::  
 **area**:: 10-ft.-radius burst, centered on you  
@@ -21,7 +23,7 @@ alias: Healing Flames
 **saving-throw**:: Reflex half; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You unleash a blast of holy flames that washes over all creatures in the area in a glorious display of divine power. This deals damage to evil creatures and heals good creatures in the area. The amount of damage dealt and the number of hit points restored in each case is 1d8 points per 2 caster levels (maximum 5d8).  
   

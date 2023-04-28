@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Exsanguination
+aliases: [Symbol of Exsanguination]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Exsanguination 
+## Symbol of Exsanguination
 
 **source**:: Horror Adventures pg. 129  
 **school**:: necromancy (evil)
 **level**:: arcanist 3, bloodrager 2, cleric 3, occultist 2, oracle 3, sorcerer 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (powdered garnet and bloodstone worth a total of 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Exsanguination
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that each creature within the radius of *symbol of exsanguination* begins to bleed uncontrollably and violently from their eyes, ears, nose, and mouth, as well as any existing open wounds. Creatures that failed their saving throws immediately take 1d6 points of bleed damage and are sickened as long as they continue to take bleed damage from the symbol.  
   

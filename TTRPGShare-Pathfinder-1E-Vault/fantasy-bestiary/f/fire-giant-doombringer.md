@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Giant Doombringer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
   - name: Monster Codex
     desc: 61
 ```
-# Description
+## Description
 With a single pronouncement from a doombringer, an entire settlement can be reduced to cinder and ash.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Giant%20Doombringer)
 ```encounter-table
 name: Fire Giant Doombringer

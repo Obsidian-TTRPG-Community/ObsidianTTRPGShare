@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Riftcreeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 57
 desc_short: This slithering mass of bubbling red ooze extrudes a nest of long, thin tendrils, as if tasting the air in search of prey.
 ```
-# Description
+## Description
 Heaving masses of unnatural protoplasm known as riftcreepers prowl the Abyss’s shattered canyons. Despite their name, these intelligent, malevolent oozes are quite agile and swift, slithering up and down canyon walls and swimming through even the foulest water. Although smart enough to understand Abyssal, riftcreepers have little interest in listening to the babbling of the sacks of meat that will soon be their food.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Riftcreeper)
 ```encounter-table
 name: Riftcreeper

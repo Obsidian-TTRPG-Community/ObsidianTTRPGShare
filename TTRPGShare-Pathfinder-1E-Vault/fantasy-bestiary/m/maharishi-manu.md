@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Maharishi Manu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 164
 desc_short: This elderly figure looks out with heavy-lidded eyes, and seems lost in its own serenity.
 ```
-# Description
+## Description
 Serene, introspective, and simultaneously old and timeless, a maharishi manu often sits in quiet contemplation, speaking only rarely and acting only when it must. When it does communicate, it tends to do so telepathically, and phrases its advice and commands as strange riddles that seem nonsensical at first, but grow increasingly meaningful as listeners overcome struggles and grow on their own.
 
  Maharishi manus are at the pinnacle of the manu caste of manasaputras, leading the hierarchy by following directions set by the kumaras and the Logos at the center of the Positive Energy Plane. These outsiders govern the spiritual development over vast epochs, teaching lesser manus and guiding all mortal incarnations toward a sense of perfect enlightenment. Because of the nature of their missions, maharishi manus form strong bonds with the inhabitants of the planets under their care and are never kept away for long before returning to those worlds should they be banished by malicious forces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Maharishi%20Manu)
 ```encounter-table
 name: Maharishi Manu

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Knight Ant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 27
 desc_short: This hulking, wide-headed ant is the size of a horse, its antennae twitching and mandibles scarred.
 ```
-# Description
+## Description
 These giant ants use pheromones to organize the complex work and protection of their colonies, identifying insects of their own or allied colonies and warding off intruders. They have a specialized physiology, including both enhanced pheromone glands and an especially wide, oversized head. The sheer size of its head allows a knight ant to block off entire tunnels within the hive in order to protect its fellow ants. It remains in place long enough to fend off invaders, even at the cost of its own life.
 
 A knight ant is 10 feet long and weighs approximately 1,100 pounds. Its head is 7 feet across, and the flanges on the sides make it appear slightly concave.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Knight%20Ant)
 ```encounter-table
 name: Knight Ant

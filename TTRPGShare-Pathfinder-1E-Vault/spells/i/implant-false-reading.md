@@ -1,19 +1,21 @@
 ---
-alias: Implant False Reading
+aliases: [Implant False Reading]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Implant False Reading 
+## Implant False Reading
 
 **source**:: Occult Adventures pg. 173  
 **school**:: illusion (glamer)
 **level**:: mesmerist 2, occultist 2, psychic 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Implant False Reading
 **saving-throw**:: none, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You implant a false psychometric reading into an object, imbuing the item with misleading information that might be learned from the *object reading* spell or through the psychometry occult skill unlock (see page 196). This information might fool enemies, create a false history, or pass on secret messages through objects to psychically attuned allies. You can implant any information you wish that could be implanted by the *charge object* spell, as well as up to one piece of information per 3 levels that could be attained using psychometry or the *object reading* spell. You can detail this information in any way you see fit, either making up a previous owner and circumstances involving the object from whole cloth, or attempting to emulate the biographical information and fictional accounts of a specific individual’s experience with the object.  
   

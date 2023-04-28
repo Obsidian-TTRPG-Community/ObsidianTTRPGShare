@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightwave
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 202
 desc_short: Immense almost beyond belief, this sleek, midnight-black shark rises from the sea like an unholy island heaved up from below.
 ```
-# Description
+## Description
 The most powerful of the known types of nightshade is the ravenous nightwave, an unholy personification of the remorseless gluttony of death given the form of a shark the size of the largest whales. Although the nightwave is most at home in the ocean’s deeps, it has no need to breathe, and its constant fly spell-like ability allows it to bring ruin above the waves as the need presents itself.
 
 A nightwave is 100 feet long and weighs 200 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightwave)
 ```encounter-table
 name: Nightwave

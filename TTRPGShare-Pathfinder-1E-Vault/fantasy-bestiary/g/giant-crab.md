@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Crab
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 50
 desc_short: This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers waving menacingly.
 ```
-# Description
+## Description
 Giant crabs behave much like their smaller cousins, feeding on both plant material like algae and fungus and animal matter such as fish, seabirds, and even unwary humanoids. The coloration of a giant crab’s hard exoskeleton varies widely depending on species, and over time even shifts in response to its diet.
 
 Other species of giant crab exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of different species of giant crab. The following table lists the most common variants.
 
 SpeciesCRSizeHD King crab1/4Tiny1d8 Coconut crab1/2Small1d8 Rock crab4Large5d8 Shark-eating crab7Huge8d8 Great reef crab10Gargantuan11d8 Shipwrecker crab13Colossal14d8
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Crab)
 ```encounter-table
 name: Giant Crab

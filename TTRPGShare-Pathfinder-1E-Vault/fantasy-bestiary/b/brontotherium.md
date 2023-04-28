@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brontotherium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 184
 desc_short: This stocky quadruped’s lowered head puts its intimidating Y-shaped horn on full display.
 ```
-# Description
+## Description
 Also known as megacerops, this enormous herbivore has a Y-shaped horn protruding from its snout. An average brontotherium stands 8 feet tall and 16 feet long, weighing around 7,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brontotherium)
 ```encounter-table
 name: Brontotherium

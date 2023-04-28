@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mnemor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 21
 desc_short: This ghoulish figure wears a tattered robe and stares with milky-white eyes, a proboscis-like tongue snaking out over its distended jaw.
 ```
-# Description
+## Description
 Some memories are too traumatic to bear; some secrets are too dangerous to keep. When mortals need their memories stripped away, their desperation sometimes drives them to seek out the aid of mnemor devils, creatures that steal and bestow memories in the service of their infernal lords. While memory devils always keep their bargains, those who anger them may find that their altered memories cause more trouble than the originals. Mnemor devils are particularly skilled in the subtle manipulation of memory to drive mortals’ actions in destructive directions or even trick them into making the same bargain again and again as the mortal unearths the unbearable secret on her own, paying the devil each time. The most skilled among them subtly alter the false memories they grant to those who would bargain with them in ways that cast the subjects’ true memories in a different light, making memories of affectionate smiles seem to take on smirking undertones, or adding sly malice to memories of innocent comments. The bargainer finds himself driven into maddening doubt about the intentions of everyone he thought he knew, suspicion tainting all his interactions.
 
 Mnemor devils themselves possess eidetic memories, and can recall with perfect clarity any memory they have bought or stolen from a mortal, making them valuable repositories of eclectic knowledge. Those seeking such knowledge might be tempted to seek a deal of their own, and mnemor devils are more than happy to trade one memory for another-though those who strike such bargains find that the mnemor devil nearly always comes out ahead.
 
 A mnemor devil stands approximately 6 feet tall and weighs 170 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mnemor)
 ```encounter-table
 name: Mnemor

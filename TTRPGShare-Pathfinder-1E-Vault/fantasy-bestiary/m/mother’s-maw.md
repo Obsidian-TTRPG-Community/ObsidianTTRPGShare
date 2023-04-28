@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mother’s Maw
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 312
 desc_short: This skull is as large as an ogre and surrounded by buzzing flies. Its bat wings carry it through the air as easily as those of a vulture.
 ```
-# Description
+## Description
 This terror comes to the mortal realm at the command of the Pallid Princess. It’s an unsubtle thing of ravenous hunger, with little purpose but to kill, eat, and animate corpses. Created from the skull of a fallen titan, Mother’s Maw is as brilliant as a lich, but its only interest is satisfying its cravings for life and sensation. Urgathoa’s herald measures nearly 13 feet in height and weighs 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mother%E2%80%99s%20Maw)
 ```encounter-table
 name: Mother’s Maw

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Edict Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Pathfinder No. 131: The Reaper's Right Hand
     desc: 88
 ```
-# Description
+## Description
 These planar dragons establish bastions of order and transform lawless towns into shining examples of urban grandeur.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Edict%20Dragon)
 ```encounter-table
 name: Adult Edict Dragon

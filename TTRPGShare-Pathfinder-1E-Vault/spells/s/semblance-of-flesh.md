@@ -1,25 +1,27 @@
 ---
-alias: Semblance of Flesh
+aliases: [Semblance of Flesh]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Semblance of Flesh 
+## Semblance of Flesh
 
 **source**:: Pathfinder \#86: Lords of Rust pg. 75  
 **school**:: illusion (glamer)
 **level**:: arcanist 2, cleric 2, oracle 2, sorcerer 2, warpriest 2, wizard 2 (Brigh)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: construct touched  
 **duration**:: 10 minute/level (D)
 
-### Description 
+### Description
 
 You make the target construct appear to be a living creature of flesh and bone, regardless of its actual materials. You can make it seem 1 foot shorter or taller, and appear thin, fat, or anywhere in between. Its bodily configuration does not change; for example, a centaur-like construct looks like a centaur rather than a human. The extent of the apparent change (such as flesh color, hair color, apparent age, and so on) is up to you.  
   

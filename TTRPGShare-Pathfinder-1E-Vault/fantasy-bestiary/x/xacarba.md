@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xacarba
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
     desc: 88
 desc_short: This towering, three-tailed, six-eyed beast seems like three rune-backed serpents partially melded together into one body.
 ```
-# Description
+## Description
 Fiends hailing from the darkest reaches of the Abyss, xacarbas are manipulation and destruction intertwined. With their infamous ability to redirect spells, these serpentine goliaths wreak havoc on the mind as well as the body, turning allies against one another and reveling in the destruction doing so produces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xacarba)
 ```encounter-table
 name: Xacarba

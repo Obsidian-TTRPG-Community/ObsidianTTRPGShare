@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blightspawn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 43
 desc_short: This human-sized, mosquito-like creature has a long, flexible proboscis that ends in a murderous stinger.
 ```
-# Description
+## Description
 Blightspawn must gestate in the body of a true believer until they’re released at the host’s death or during a ritual, and so are most often found in places where cults that worship parasitic demons or devils are strong. To the faithful, being host to an immature blightspawn is a great honor, for they believe that when the monster bursts from the host’s body, the host’s consciousness lives on in some way in the blightspawn’s mind, almost as if the host had reincarnated into the monster. The fact that cultists who die giving hideous birth to a blightspawn can’t be resurrected lends a bit of weight to this notion, even if the blightspawn themselves have nothing to say on the topic.
 
 A host carrying an immature blightspawn functions normally in all ways until the creature emerges-except that the host can pass on new blightspawn to his or her children. A blightspawn’s gestation can last for decades, and a child separated from infected parents might live her entire life without knowing what awaits her upon death. When a blightspawn emerges from its host, it is fully grown, although its gore-soaked wings can’t be used for flight for 1d4 rounds after emerging.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blightspawn)
 ```encounter-table
 name: Blightspawn

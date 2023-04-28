@@ -1,19 +1,21 @@
 ---
-alias: Bountiful Banquet
+aliases: [Bountiful Banquet]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Bountiful Banquet 
+## Bountiful Banquet
 
 **source**:: Ultimate Intrigue pg. 205  
 **school**:: conjuration (creation)
 **level**:: bard 4, cleric 4, druid 4, hunter 4, oracle 4, shaman 4, skald 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a turkey bone)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: feast for two creatures/level  
@@ -21,7 +23,7 @@ alias: Bountiful Banquet
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure a beautiful and delicious feast with hors d’oeuvres, four courses worth of food, and plentiful drink. The food appears on ornate serving trays or in exquisite covered tureens, as appropriate to each type of dish. Place settings and serving utensils also appear-enough for each creature that will participate in the feast-along with elegant tablecloths and table linens. The spell doesn’t create furniture, but the feast does adapt to appear on top of existing tables (or similar objects in the environment).  
   

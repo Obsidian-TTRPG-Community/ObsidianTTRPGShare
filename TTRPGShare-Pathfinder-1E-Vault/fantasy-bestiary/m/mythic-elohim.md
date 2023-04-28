@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Elohim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 86
 desc_short: This one-eyed being is a strange mix of insects, fungi, and other living things shaped into a single winged entity.
 ```
-# Description
+## Description
 An elohim is a strange being obsessed with creating miniature worlds populated with creatures of its choosing. It creates new permanent demiplanes or alters remote environments in pre-existing planes, seeds them with new life, then eventually abandons them. An elohim might return to its creation decades or centuries later to observe how its progeny have fared, and might allow them to continue or eradicate them completely. Elohim communicate with other beings only rarely, and always in a cryptic fashion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Elohim)
 ```encounter-table
 name: Mythic Elohim

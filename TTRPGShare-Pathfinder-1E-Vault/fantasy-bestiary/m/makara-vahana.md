@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Makara Vahana
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 262
 desc_short: This massive creature combines the trunk, tusks, and size of an elephant with the powerful jaws, scaly hide, and tail of a crocodile.
 ```
-# Description
+## Description
 Vahanas are steeds of legend, created by the gods. Deities gift vahanas to faithful servants to help them accomplish great deeds or as rewards for the same. Makaras, elephants with crocodile features, are one of the common types of vahana.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Makara%20Vahana)
 ```encounter-table
 name: Makara Vahana

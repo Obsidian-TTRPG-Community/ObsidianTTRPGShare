@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mushfens Cabalist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 39
 ```
-# Description
+## Description
 The expansive swamp in southwestern Varisia known as the Mushfens is unwelcoming for many reasons: tribes of boggards, shape-shifting faceless stalkers, and cabals consisting of hags and their changeling daughters. It is the latter of these that pose perhaps the largest threat to travelers along the banks of the Yondabakari River, natives of neighboring communities, and citizens of the nearby city of Magnimar, for the changelings can most easily pass unnoticed among their unsuspecting victims and insinuate themselves into society.
 
 Using their mysterious talents of misdirection and manipulation, Mushfens cabalists typically attack those unfortunate enough to become lost in the swamps or who travel into the bogs intentionally. Many an overconfident or foolhardy adventurer bound for the lost Thassilonian ruin known as the Sunken Queen deep within the bogs has been waylaid by the sinister deceptions of a changeling with machinations beyond his ability to fathom.
 
 With increasing regularity, reports have surfaced of elaborate assaults on river traffic along the Yondabakari-and even landbased caravans on the Dry Way, which follows the river’s northern bank, connecting Magnimar to points east such as Wartle and Lake Sirantula. Varisian folktales spread through Magnimar tell of foul Mushfens cabalists who disguise themselves as ordinary citizens to seduce and beguile trusting children, wayward husbands, and other easy targets away from the safety of the City of Monuments to their deaths in the swamps to the east. What these supposed seductresses do with their gullible prey is anyone’s guess.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mushfens%20Cabalist)
 ```encounter-table
 name: NPC Mushfens Cabalist

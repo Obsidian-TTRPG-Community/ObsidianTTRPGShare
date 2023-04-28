@@ -1,19 +1,21 @@
 ---
-alias: Callback, Greater
+aliases: [Callback, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Callback, Greater 
+## Callback, Greater
 
 **source**:: Ultimate Wilderness pg. 228, Familiar Folio pg. 22  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 5, shaman 5, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a crushed grasshopper)
 
-### Effect 
+### Effect
 
 **range**:: 1 mile/level  
 **target**:: your familiar or spirit animal  
@@ -21,6 +23,6 @@ alias: Callback, Greater
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions as *callback*, except as noted above.

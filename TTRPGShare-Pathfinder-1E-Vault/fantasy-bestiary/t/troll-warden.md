@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll Warden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: Monster Codex
     desc: 226
 ```
-# Description
+## Description
 Troll wardens are hunters, messengers, and scouts, tasked with exploring new lands, finding food, and relaying news.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll%20Warden)
 ```encounter-table
 name: Troll Warden

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Salamander
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 196
 desc_short: Yellow spots and stripes run from this amphibian’s wide snout to the tip of its tail.
 ```
-# Description
+## Description
 Despite their name, fire salamanders have nothing to do with the evil outsiders known as salamanders. These are Diminutive poisonous amphibians that can live more than 50 years. They are most active after dusk, eating earthworms, insects, slugs, and spiders. During the day, they hide amid fallen leaves or near mossy tree trunks.
 
  Fire salamanders are 6 to 10 inches long and weigh only 2 ounces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Salamander)
 ```encounter-table
 name: Fire Salamander

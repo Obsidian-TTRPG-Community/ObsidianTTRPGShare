@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Behemoth Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
   - name: Lost Kingdoms
     desc: 40
 ```
-# Description
+## Description
 Behemoth golems are elephantine constructs once crafted by the artificers of the ancient Jistka Imperium. Rather than use elemental spirits to fuel the constructs’ animation, artificers made pacts with demons, daemons, and devils from the evil Outer Planes, and bound their spirits to these titanic horrors to bring them to life. Though from a distance they resemble armored mammoths with a castle attached to their back, a behemoth golem’s flesh is in fact made of tons of mined stone, and its tusks and teeth are carved from rare minerals similar in density to ivory.
 
 The main body of a behemoth golem is 40 feet tall, with the highest part of the tower reaching 60 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Behemoth%20Golem)
 ```encounter-table
 name: Behemoth Golem

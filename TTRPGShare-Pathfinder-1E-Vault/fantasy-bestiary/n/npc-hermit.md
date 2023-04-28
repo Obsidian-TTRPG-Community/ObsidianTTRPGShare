@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Hermit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: NPC Codex
     desc: 247
 ```
-# Description
+## Description
 This filthy, ill-mannered hermit wants nothing but to be left alone. He knows many secrets that others have forgotten, but will fight anyone who dares to ask about them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Hermit)
 ```encounter-table
 name: NPC Hermit

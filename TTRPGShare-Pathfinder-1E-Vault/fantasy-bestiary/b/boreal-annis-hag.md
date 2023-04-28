@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boreal Annis Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 56
 desc_short: This repulsive, hunch-backed crone has deathly white skin marked with patches of brown and yellow, like a fresh bruise. Despite her hunch, she looms much taller than a human.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boreal%20Annis%20Hag)
 ```encounter-table
 name: Boreal Annis Hag

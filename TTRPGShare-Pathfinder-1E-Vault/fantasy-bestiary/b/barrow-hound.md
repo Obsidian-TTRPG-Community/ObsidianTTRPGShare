@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Barrow Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 29
 desc_short: This large, stocky canine’s dark-green fur is braided into intricate patterns that seem to loosen and retie themselves on their own.
 ```
-# Description
+## Description
 The enigmatic barrow hound is a native to the First World, and can often be found among the shifting forests and untamed woodlands of that realm. It is known to be a noble and obedient creature-a rare trait among the wily fey-and those who command the respect of a barrow hound can rest assured knowing that the beast will protect with its life whatever charge they assign to it. 
 
  Barrow hounds do not particularly enjoy killing living creatures, and instead prefer to scare them off with their unearthly howls. Failing that, however, barrow hounds are fierce combatants, and their ability to constrict creatures with their prehensile locks makes them formidable foes. 
@@ -63,7 +65,7 @@ The enigmatic barrow hound is a native to the First World, and can often be foun
  Though sometimes summoned to the Material Plane by powerful fey or honored druids to guard some area of great significance, barrow hounds are more often found on their native plane of the First World, particularly in the sprawling forest known as the Evergrove, where they serve as hunting and guard dogs. 
 
  A typical barrow hound is 14 feet long, stands over 7 feet at the shoulder, and weighs just under 3,000 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Barrow%20Hound)
 ```encounter-table
 name: Barrow Hound

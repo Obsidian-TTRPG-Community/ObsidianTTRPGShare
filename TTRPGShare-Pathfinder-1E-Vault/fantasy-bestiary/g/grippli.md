@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grippli
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 149
 desc_short: Its slick skin a mottled pattern of bright colors, this agile, frog-like humanoid carries a bow and wears leather armor.
 ```
-# Description
+## Description
 These small, intelligent, humanoid tree frogs live in primitive societies deep in the forests and marshes of the world. They hunt giant insects and eat fruits and flowers from their tree homes. They often barter with more advanced creatures for metal and gemstone ornaments.
 
 Grippli hatchlings develop into adults in less than a year. Unless they meet a savage end from a forest threat, they can live 60 years, their skin graying and losing its luster as they age. A grippli stands just over 2 feet in height and weighs 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grippli)
 ```encounter-table
 name: Grippli

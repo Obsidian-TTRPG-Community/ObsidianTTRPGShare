@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mummified Hippopotamus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
   - name: Pathfinder No. 81: Shifting Sands
     desc: 85
 ```
-# Description
+## Description
 Much like with elephants, the process for mummifying hippopotamuses is expensive and difficult; thus, only significant people are interred with these creatures. They are placed in tombs to protect against bad fortune. Because of their association with rivers, these protectors are often found in tombs near such waterways.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mummified%20Hippopotamus)
 ```encounter-table
 name: Mummified Hippopotamus

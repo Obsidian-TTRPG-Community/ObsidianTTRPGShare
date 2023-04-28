@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Derro Magister
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 20
 desc_short: This pale blue humanoid has bright white eyes and wild, white hair adorned with a spiked, gem-encrusted coronet.
 ```
-# Description
+## Description
 Ingesting high doses of the fungus cytillesh imbues derro magisters with heightened mental abilities
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Derro%20Magister)
 ```encounter-table
 name: Derro Magister

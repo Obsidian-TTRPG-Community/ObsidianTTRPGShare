@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Centaur Greenspeaker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 6
 desc_short: This handsome young man has hair of dappled black and white on his head and body alike, and he carries a variety of wands and talismans in addition to his weapons.
 ```
-# Description
+## Description
 Hidden deep within the heart of most centaur lands lies their most sacred territory, a place these hybrid creatures call the First Pasture. Centaur greenspeakers hold sway in these spaces, delivering sermons in open fields under both the midday sun and the twilight sky. Here tribes celebrate weddings, harvests, and births under the sun’s warm glow, and perform rites of adulthood, rituals to bring luck before a battle, and homages to the tribe’s ancestors under the sparse light of the moon and stars. Of these celebrations, centaurs revere none more than the death rites their greenspeakers provide for fallen clan members. When the sun sets, the greenspeakers light a great pyre to release the deceased’s spirit from her mortal flesh. After the pyre burns through the night and the sun’s first rays crest the horizon, the fallen centaur’s kin collect the ashes and fertilize the fields with them so that the dead may serve the world anew.
 
  Centaur greenspeakers who cultivate the fields of the First Pasture are known as “Sowers of the Ash.” Centaur clans trust these holy preachers to tend to the sacred meadows, where a kaleidoscope of wild flowers blooms from spring to the fading days of autumn. Centaurs use the blossoms as central decorations for their celebrations and ceremonies, and greenspeakers weave the remaining flowers into fragrant mantles that signal their rank in society; the more ornate a greenspeaker’s mantle, the more experienced and venerated he is.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Centaur%20Greenspeaker)
 ```encounter-table
 name: Centaur Greenspeaker

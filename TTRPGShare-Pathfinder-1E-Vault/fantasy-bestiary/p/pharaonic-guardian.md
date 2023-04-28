@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pharaonic Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 60
 desc_short: This translucent humanoid figure has an animal’s head. Rising from its back are wings of chilling white light.
 ```
-# Description
+## Description
 Created only by the most evil and egotistical pharaohs, pharaonic guardians are elite protectors of tombs and other monuments. Much like the grand buildings they inhabit, pharaonic guardians are the product of fear and sweat wrung from slaves and other servants. To make one, a pharaoh uses rare arcane processes to draw out the souls of obedient servants, capturing both their fear of death and fear of eternal damnation should they disobey their god-rulers. The pharaoh then blends these essences together into towering, animal-headed warriors whose only purpose is guarding a royal location for eternity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pharaonic%20Guardian)
 ```encounter-table
 name: Pharaonic Guardian

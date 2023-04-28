@@ -1,25 +1,27 @@
 ---
-alias: Hidden Knowledge
+aliases: [Hidden Knowledge]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hidden Knowledge 
+## Hidden Knowledge
 
 **source**:: Adventurer's Guide pg. 60, Second Darkness Player's Guide pg. 26  
 **school**:: transmutation
 **level**:: arcanist 2, bard 2, medium 2, mesmerist 2, occultist 2, psychic 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (a drop of ink)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: up to 1 day/level (see text)
 
-### Description 
+### Description
 
 This subtle but useful spell allows you to safeguard important knowledge-even from yourself. While casting this spell, you recite one piece of knowledge (up to a maximum of 50 words). Upon completion of the spell’s casting, you transfer the knowledge from your mind to your skin in the form of an intricate, runic tattoo placed anywhere you choose on your body. The knowledge disappears utterly from your mind, and you might not realize you forgot something. The magic of the spell patches over gaps in your memory with recollections from the past. Until the spell’s duration ends, the knowledge is lost to you. When you cast this spell, you decide how long you wish the spell’s duration to be, up to a maximum duration of 1 day per level.  
   

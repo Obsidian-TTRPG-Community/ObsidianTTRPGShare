@@ -1,25 +1,27 @@
 ---
-alias: Aura Sight
+aliases: [Aura Sight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Aura Sight 
+## Aura Sight
 
 **source**:: Advanced Class Guide pg. 174  
 **school**:: divination
 **level**:: alchemist 3, arcanist 3, cleric 3, inquisitor 4, investigator 3, mesmerist 3, oracle 3, psychic 3, shaman 3, sorcerer 3, spiritualist 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 This spell makes your eyes glow and allows you to see alignment auras within 120 feet of you. The effect is similar to that of a *detect chaos/evil/good/law* spell, but aura sight does not require concentration, and it discerns an aura’s location and power more quickly.  
   

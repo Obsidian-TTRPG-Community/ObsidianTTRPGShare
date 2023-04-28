@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Stickylord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
   - name: Monster Codex
     desc: 111
 ```
-# Description
+## Description
 Goblin stickylords are a decidedly bizarre breed of goblin alchemists. Unlike normal goblin alchemists, who focus on spreading around as much fire and flame as possible, stickylords have learned the value of locking enemies in place and then burning them.
 
  In order to make their gluey concoctions, goblin stickylords explore every aspect of adhesion, combining mundane materials like glue, pitch, and less pleasant substances with magic. These unique reagents are often harvested by lesser goblin minions-the better to keep the powerful stickylord from getting covered in bee stings or drowning in mud. (Sadly for these minions, stickylords need test subjects, so even faithful service is no guarantee that they won’t be stuck to a stump in order for a stickylord to try out a new formula-or practice aiming.)
@@ -68,7 +70,7 @@ Goblin stickylords are a decidedly bizarre breed of goblin alchemists. Unlike no
  On the battlefield, stickylords use their tanglefoot bomb discovery to stick enemies to the ground while the bomb’s clinging fire does its job. Many command lesser alchemists or teams of pyromaniacs armed with fire arrows and alchemist’s fire, who are ready to lob their projectiles once the stickylord can get the enemy to stop moving around.
 
  Despite their obsession, goblin stickylords are careful to always carry powerful solvents, as even the best of them wind up glued in place on occasion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Stickylord)
 ```encounter-table
 name: Goblin Stickylord

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Procyal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 84
 desc_short: Wide of chest and waist, this finely dressed man has a graymuzzled raccoon’s head and beady, darting eyes.
 ```
-# Description
+## Description
 Procyals are mischievous agathions who take great pride and pleasure in acting just outside the boundaries of imperfect, mortal societies. Unlike many agathions, who are born from the souls of those who seek enlightenment through self-understanding, procyals are born from those who understand the balance of society and the individual.
 
 Procyals view society and the individuals therein as entities in a symbiotic relationship. They believe that individuals can be truly happy or free only within a society when they have access to luxury, commerce, and choice, and that society basically exists as a structure centered on the freedom of the individuals within. It is critically important to procyals that all individuals realize that society isn’t something greater than themselves, but that they are intrinsically part of it and vice versa. Procyals commonly say that “you are not in the city, you are a part of the city”-and this serves as a reminder to those they visit that every member of the community is important.
@@ -73,7 +75,7 @@ Procyals are exceptional shape changers, able to effortlessly take the form of h
 Despite their ability to take on specific forms, procyals are unable to assume a humanoid form of their own invention. Instead, they choose from the forms available to them as appropriate for a given task. They may, for example, portray old crones to relay important messages or powerful mercenaries to deliver threats.
 
 Procyals typically stand between 5 and 6 feet tall and weigh 180 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Procyal)
 ```encounter-table
 name: Procyal

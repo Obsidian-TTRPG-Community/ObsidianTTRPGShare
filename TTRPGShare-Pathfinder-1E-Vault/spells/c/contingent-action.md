@@ -1,19 +1,21 @@
 ---
-alias: Contingent Action
+aliases: [Contingent Action]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Contingent Action 
+## Contingent Action
 
 **source**:: Advanced Class Guide pg. 178  
 **school**:: evocation
 **level**:: arcanist 3, bard 3, psychic 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one willing creature  
@@ -21,7 +23,7 @@ alias: Contingent Action
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: Yes (harmless)
 
-### Description 
+### Description
 
 The target gains an extra action that becomes available when a condition which you dictate is met. At the time of casting, you dictate the condition, and the target specifies a readied action that occurs when triggered by this condition.  
   

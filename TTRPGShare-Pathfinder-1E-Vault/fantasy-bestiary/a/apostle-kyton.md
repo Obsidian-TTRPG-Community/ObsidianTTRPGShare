@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apostle Kyton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 240
 desc_short: Clad in black leather, this woman has pale skin and bloody holes where her eyes used to be.
 ```
-# Description
+## Description
 Not all victims of a kyton’s torturous transformations perish from their captors’ exacting ministrations. Some creatures are transfigured into hybrids of their past selves and the dark malevolence of the kytons. These apostle kytons vary from being degenerate and submissive entities wholly subservient to the will of the kytons that massacred their sense of self, to utterly abominable creatures that take glee in their transformation, rising into leadership positions within kyton hierarchy. Creatures that lose themselves completely to the shadowbound corruption (see page 34) also sometimes become apostle kytons, as their souls are twisted to match the kytons’ amoral sensibilities. Those who willingly become apostle kytons tend to share a similar niche with ostiarius kytons (Pathfinder RPG Bestiary 4 176), and the two sorts of kytons often collude together in cabals. Other apostles assist interlocutors (Pathfinder RPG Bestiary 3 174) in their ministrations or even serve the mighty eremites (Bestiary 3 172) directly as seekers of “perfect parts.” 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apostle%20Kyton)
 ```encounter-table
 name: Apostle Kyton

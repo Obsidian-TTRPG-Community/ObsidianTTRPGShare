@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Centaur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 42
 desc_short: This creature has the sun-bronzed upper body of a seasoned warrior and the lower body of a sleek warhorse.
 ```
-# Description
+## Description
 Legendary hunters and skilled warriors, centaurs are part man and part horse. Typically found on the fringes of civilization, these stoic people vary widely in appearance, their skin tones typically appearing deeply tanned but similar to the humans who occupy nearby regions, while their lower bodies borrow the colorations of local equines. Centaur hair and eyes trend toward darker colors and their features tend to be broad, while the overall bulk of their bodies is influenced by the size of the horses their lower quarters resemble. Thus, while an average centaur stands over 7 feet tall and weights upward of 2,000 pounds, there are vast regional variations-from lean plains-runners to burly mountain hunters. Centaurs typically live to be about 60 years old.
 
 Aloof with other races and at odds even with their own kind, the centaurs are an old race only slowly coming to accept the modern world. While the majority of centaurs still live in tribes roaming vast plains or the fringes of eldritch forests, many have abandoned the isolationist ways of their ancestors to walk among the more cosmopolitan cities of the world. Often such free-spirited centaurs are considered outcasts and are shunned by their own tribes, making the decision to leave a heavy one. In some rare cases, however, whole tribes under progressive leaders have come to trade or make alliances with other humanoid communities-typically elves, but sometimes gnomes, and rarely humans or dwarves. Many races remain wary of centaurs, though, largely due to legends of territorial beastmen and the regular, violent encounters the centaurs have with stubborn settlers and expansionist countries.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Centaur)
 ```encounter-table
 name: Centaur

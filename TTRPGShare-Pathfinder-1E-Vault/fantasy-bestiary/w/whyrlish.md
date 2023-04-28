@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Whyrlish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 248
 desc_short: This translucent, jellyfish-like creature has a shimmering purple and blue bell-like body that sports a nest of sting-tipped tendrils.
 ```
-# Description
+## Description
 The whyrlish is a fascinating sight to behold; a jellyfish-like giant often found floating tranquilly alongside the River of Souls in the Astral Plane. These creatures gain nourishment from the metaphysical energies of the River of Souls-a process that does not harm the souls passing through the river but that often puts the whyrlish in direct confrontation with predators who seek to harvest souls for their own nefarious purposes. Whyrlishes fight ferociously against such predators, more out of a reflexive defense than from any real form of altruism or desire to protect the souls.
 
  A typical whyrlish is 30 feet long (including tentacles), and weighs about 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Whyrlish)
 ```encounter-table
 name: Whyrlish

@@ -1,19 +1,21 @@
 ---
-alias: Coin Shot
+aliases: [Coin Shot]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Coin Shot 
+## Coin Shot
 
 **source**:: Heroes of the Streets pg. 30  
 **school**:: transmutation
 **level**:: alchemist 1, antipaladin 1, arcanist 1, bard 1, bloodrager 1, investigator 1, magus 1, skald 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: up to three coins touched  
@@ -21,7 +23,7 @@ alias: Coin Shot
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 You turn up to three coins into deadly projectiles that gain the velocity of a bullet when thrown. The coins retain their normal appearance but can be used as simple thrown weapons with a range increment of 20 feet and a critical multiplier of ×2. The transmuted coins are treated as ammunition for the purposes of drawing them. Like firearm bullets, the coins deal bludgeoning and piercing damage, and attacks with them are resolved as touch attacks within the first range increment. Regardless of whether a transmuted coin hits or misses the target, it is destroyed after the attack. Only you can make attacks with the coins, though other creatures can safely handle them without discharging the spell.  
   

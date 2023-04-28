@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thrushmoor Angler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 88
 desc_short: Razor-sharp teeth line the huge mouth of this bloated, slimecovered amphibian. A glittering, luminescent organ suspended by a fleshy tether hangs like a lantern above its head.
 ```
-# Description
+## Description
 The Thrushmoor angler, named for the Ustalavic town of Thrushmoor around which it can be commonly found, is a bizarre and voracious semiaquatic predator. Preferring to feed on intelligent humanoids, it lurks at the edges of swamps and by marshy riverbanks, using an illusory lure that assumes the form and even the voice of past meals to draw hapless victims into its massive jaws.
 
 At home in deep water and only partially adapted for land, the angler resembles a great, human-sized deep-ocean fish with mottled, slimy skin. The creature’s flesh exudes a thick coating of slime, allowing its awkward, bulky body to slide with relative speed through underbrush and along drier surfaces, propelling itself forward by the combined action of multiple powerful but misshapen limbs.
 
 A female Thrushmoor angler is typically 5 feet tall and weighs 250 pounds. Males of the species generally grow no larger than 1 foot in length and weigh less than 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thrushmoor%20Angler)
 ```encounter-table
 name: Thrushmoor Angler

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pech
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 206
 desc_short: This pale yellow humanoid has blank, bulging white eyes and gangly arms and legs. It clutches a pickaxe in its knobby hands.
 ```
-# Description
+## Description
 Untold ages ago, the pechs served forgotten masters in the deepest caverns of the world. In time, their masters moved on, leaving the pechs bereft of guidance. Some sought refuge in seemingly safer tunnels nearer the surface. The unspeakable horrors they encountered there transformed them into derros over the course of several generations. Those pechs that stayed close to their ancestral caverns survive to this day, though in such small numbers and in such isolation that few of the surface world know of their existence.
 
 Pechs are skilled miners and stonemasons, and are at times employed or enslaved as such by other subterranean races. They have learned to hide the entrances to their lairs most carefully, blending their narrow entranceways into the living rock such that they can only be seen from exactly the right angle. When interlopers do find a pech’s lair, they are met with open arms, friendly advice, and a firm insistence that the pech is to be left alone.
 
 The typical pech stands only 3-1/2 feet tall, but its dense flesh gives it a weight of 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pech)
 ```encounter-table
 name: Pech

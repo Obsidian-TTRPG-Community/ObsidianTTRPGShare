@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Disenchanter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 27
 desc_short: This blue-furred creature sports a short trunk and a camel-like body. The air around it seems to shimmer with magical energy.
 ```
-# Description
+## Description
 A disenchanter is a blue-furred creature that resembles a single-humped camel with a prehensile trunk. The creatures can sense magic, which they consume for sustenance, draining the power of magic items and storing their magical energy in their humps. Disenchanters are social creatures, and often seek the companionship of other intelligent beings, making excellent mounts and trackers for treasure hunters. A typical disenchanter is 8 feet long and weighs 1,600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Disenchanter)
 ```encounter-table
 name: Disenchanter

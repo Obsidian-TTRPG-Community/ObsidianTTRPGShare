@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rabisu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 62
 desc_short: This hollow-eyed, blue-skinned woman has a vulture’s wings, birdlike talons for hands and feet, and a fang-filled mouth.
 ```
-# Description
+## Description
 Despite their ghoulish appearance, rabisus are living creatures, not undead. While they can manipulate objects with their talons, they cannot wield weapons. Rabisus take great delight in the taste of blood. To these fey, this flavor can vary greatly, even between two similar creatures. Rabisus might keep particularly delicious victims prisoner for months to prolong the pleasure of savoring their blood.
 
  A rabisu stands 6 feet tall and weighs 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rabisu)
 ```encounter-table
 name: Rabisu

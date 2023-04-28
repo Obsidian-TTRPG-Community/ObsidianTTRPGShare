@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Emperor Walrus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 271
 desc_short: Thick folds of skin protect this massive sea mammal like fleshy armor. Tusks as tall as humans jut from its whiskered face.
 ```
-# Description
+## Description
 Towering over common walruses, emperor walruses live in only the most secluded arctic areas. They might be throwbacks to an earlier age of giant animals or bred by druids to be superior arctic predators. They often live in the company of common walruses, but are far more aggressive, driving off or killing any potential threats to the herd. Emperor walruses have a similar diet to common walruses, but may also eat giant crabs, seals, large fish, and seabirds.
 
 A full-grown male emperor walrus measures 20 feet in length and weighs around 16 tons, with tusks up to 6 feet long. It can live up to 80 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Emperor%20Walrus)
 ```encounter-table
 name: Emperor Walrus

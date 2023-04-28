@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoll Sergeant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Monster Codex
     desc: 96
 ```
-# Description
+## Description
 The lowest of gnoll war leaders, sergeants are always eager to prove their mettle in order to move up in the dominance hierarchy of the pack.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoll%20Sergeant)
 ```encounter-table
 name: Gnoll Sergeant

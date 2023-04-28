@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Druj Nasu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 84
 desc_short: A sickly smell of feral musk, rotting flesh, and acrid sweat surrounds this fly-like creature. Its wings fill the air with a dreadful drone even when the creature is still.
 ```
-# Description
+## Description
 Foul corruptors of the dead, druj nasus are divs that haunt funeral pyres, mausoleums, and burial sites to steal corpses. They represent the uncleanness of the body and corrupting forces that can prevent a creature’s proper passage into the afterlife. Some scholars claim that in ancient times these creatures’ interference caused numerous cultures to alter their practices regarding burial.
 
 When a druj nasu was found near a body that was to be buried, the body would be considered unclean. An unclean body couldn’t be buried and the sacred flames of a funeral pyre would only spread the taint to the winds, so some ancient people would then carry the corpse up the side of a cliff or mountain and have the birds and other animals clean the flesh from the bones before the deceased could be interred with the necessary rites to ensure a proper passage into the Great Beyond.
@@ -77,7 +79,7 @@ Unlike other corpse thieves, druj nasus don’t take the bodies of the deceased 
 Because druj nasus, like all divs, are a scourge on humanity’s accomplishments, these foul fiends are a constant target of good faiths. They are particularly hated by followers of Pharasma because of their treatment of corpses and proclivity for animating the remains they steal. Druj nasus generally ignore Pharasmins, however, and instead focus on their own mockery of the living. Because of an unknown, ancient conflict in Kelesh, druj nasus have a strong hatred for Sarenrae and her worshipers, going so far as to single them out in combat and steal away the bodies of the clergy and faithful. Sarenrae’s devoted find combating these divs frustrating due to their immunity to fire.
 
 A druj nasu stands roughly 6 feet tall and weighs a slight 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Druj%20Nasu)
 ```encounter-table
 name: Druj Nasu

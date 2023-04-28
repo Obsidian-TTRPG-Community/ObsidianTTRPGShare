@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tentamort
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 261
 desc_short: This dark blue creature has a conical body covered in angry red eyes and numerous tentacles, two of which are longer than the rest.
 ```
-# Description
+## Description
 Tentamorts are eerie ambush predators, preferring to let prey come to them rather than seeking food out, and relying on their excellent senses to warn them of approaching meals. A tentamort possesses several tentacles, most of which are used for locomotion but two of which have evolved for singular purposes in securing food. One of these longer tentacles is covered with tiny, sticky nodules and is capable of constricting prey, while the other ends in a long, thin stinger. The tentamort’s method of attack is to grab its prey with its constricting tentacle and sting the grappled target with the other. Tentamort poison is particularly horrific, as it swiftly liquefies the creature’s internal organs into a rancid slurry the monster can then drink with the same stinger, siphoning out the fluid with foul sucking sounds. Larger creatures often require multiple stings (and multiple failed saving throws against the venom) before they can be fully absorbed by a tentamort. Tentamorts are almost mindless, possessing just enough intellect to make crude animal judgments about peril and food. Once a tentamort has grabbed prey, it tends to focus entirely on that creature, ignoring attacks upon it from other sources as long as its current victim remains a source of nutrition. After a tentamort finishes consuming a creature, all that typically remains are the bones and skin.
 
 A well-fed tentamort uses the hollow corpse of its meal as a sort of incubator for its eggs, injecting the body with a caviar-like mass of black eggs that mature in the rotting carcass for several weeks until a dozen or so hand-sized tentamorts hatch and crawl out of their host’s orifices. Depending upon the availability of other prey, anywhere from one to six of these may survive, feeding on rats and Tiny vermin, until they eventually grow to adulthood. Tentamort young look like dark blue starfish with a single red eye in the center-they do not possess their longer, specialized tentacles until they mature. A young tentamort often attaches itself to a larger predator, clinging to it much the same way a remora clings to a shark, dropping off to feed innocuously on its host’s kills while the creature sleeps.
 
 Some tentamorts grow much larger than their human-sized kin. Known as greater tentamorts, these ogre-sized creatures have at least 10 Hit Dice and are Large sized. Their two specialized tentacles grow to 20 feet long, providing the creature with greater reach than a Large monster normally possesses. Greater tentamorts are never found in groups, for these creatures can only achieve such monstrous size through cannibalism, as if there were some key nutrient in another tentamort’s body that allows them to exceed their typical physical limitations. Some of these creatures have mutations giving them two tentacles and two stingers. Yet the most disturbing quality possessed by these monsters is their unexpected intellect-greater tentamorts are often as intelligent as humans, or more so. They cannot speak, but possess an eerie form of telepathy that works only upon creatures they are in physical contact with-a feature they often use to “chat” with their food as they eat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tentamort)
 ```encounter-table
 name: Tentamort

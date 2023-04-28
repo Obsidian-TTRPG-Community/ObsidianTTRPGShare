@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Crusader (Holy Warrior)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: GameMastery Guide
     desc: 269
 ```
-# Description
+## Description
 Holy warriors are divinely sanctified and anointed warriors, raining death with bow and blade upon the forces of darkness and bringing hope and rescue to the desperate. Holy warriors are versatile combatants and could be masters of a temple or monastery. A holy warrior might command ten temple guards (as guards, CR 9), while a pair of holy warriors might escort a priest (CR 10). A half dozen could be a saint’s honor guard (CR 13).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Crusader%20(Holy%20Warrior))
 ```encounter-table
 name: NPC Crusader (Holy Warrior)

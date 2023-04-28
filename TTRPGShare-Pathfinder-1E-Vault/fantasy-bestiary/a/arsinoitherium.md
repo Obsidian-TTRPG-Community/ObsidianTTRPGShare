@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arsinoitherium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 186
 desc_short: This creature is much like a rhino, some six feet tall and ten feet long, with a pair of massive, knife-like horns curving up from its nose.
 ```
-# Description
+## Description
 The arsinoitherium is a herbivore, but it displays a fierce and threatening behavior when it perceives danger: bellowing, stamping, and tossing its head. Threats that do not recede from such warnings are met with a fierce bellow and a charge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Arsinoitherium)
 ```encounter-table
 name: Arsinoitherium

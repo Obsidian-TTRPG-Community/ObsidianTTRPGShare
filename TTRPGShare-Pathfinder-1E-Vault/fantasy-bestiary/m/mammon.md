@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mammon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 26
 desc_short: This shining being is humanoid, but its four arms, multiple legs, and horned head reveal its diabolic nature.
 ```
-# Description
+## Description
 Mammon is the master of avarice, a fallen angel long in service to Asmodeus; though slain by his enemies long ago, his spirit lingered in his hellish sepulcher, unwilling to surrender to oblivion. His hunger for life infused his spirit into the obscene wealth heaped about him in death, until he became one with the wealth of ages. The Grasping One is now vault keeper for all of Hell, growing ever more resplendent as he discovers new treasures to incorporate into his form and reporting directly to Asmodeus on Hell’s accounts. 
 
 Mammon can possess objects and creatures with ease, but most often possesses the Argent Prince, a peerlessly sculpted 8-foot-tall metallic likeness of his former angelic glory, tastefully tainted with accents of his diabolic nature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mammon)
 ```encounter-table
 name: Mammon

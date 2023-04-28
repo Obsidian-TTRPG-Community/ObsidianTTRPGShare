@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Roper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 238
 desc_short: A tentacled horror that seems to shift in and out of the shadows, this bizarre beast is an amalgamation of darkness and menace.
 ```
-# Description
+## Description
 When a Material Plane creature is trapped on or chooses to remain on the Shadow Plane, it often finds that its offspring take on some of the eerie qualities of its new home dimension. Those who are born in that place become weird mockeries of their kin on the Material Plane.
 
 Their colorings become jet-black (or at best a hazy gray), their features become more menacing, and their eyes glow white, a dulled crimson, a dark green, or a strange violet. The variety of shadow creatures is as vast as that on the Material Plane, creating dangers that are similar but have additional defenses and abilities characteristic of creatures truly native to the Shadow Plane’s perpetual gloom.
 
 Shadow creatures on the Material Plane will produce offspring, giving rise to shadow creature enclaves in dark corners of the world. Stranger still, a burgeoning ecology of shadow creatures that forms a colony on the Material Plane seems to create a small blighted realm of shadow where they dwell. As such, areas grow more and more overcast. Shadows become unnaturally deeper, darker, and more cloying until the land itself seems to assume the landscape and terrain of the Shadow Plane. As part of this transformation process, one of the more intelligent shadow creatures in the area becomes a shadow lord-a dread agent of shadow that controls powerful shadow abilities and works to expand its alien domain.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Roper)
 ```encounter-table
 name: Shadow Roper

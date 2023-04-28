@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tooth Fairy Monarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 88
 desc_short: Resembling a gaunt humanoid from the waist up and a fleshy insect from the waist down, this child-sized creature has enormous black eyes and a large jaw with a lolling tongue. It wears a crown made of humanoid teeth and clutches a tooth-studded scepter.
 ```
-# Description
+## Description
 The rare and reclusive leaders of clans of tooth fairies, tooth fairy monarchs rule their smaller, lesser kin with imperious commands and domineering bluster. These monarchs collect the teeth pulled by the lesser tooth fairies as tribute, affixing the teeth to their magical scepters or forming them into simple jewelry such as crowns, bracelets, or necklaces. A monarch can consume these teeth to gain a burst of supernatural nourishment. They find teeth of large, powerful creatures to be tastier than those of children or smaller creatures (such as other tooth fairies), but they will command their tooth fairy minions to offer up their own teeth for consumption as punishment for failure, or simply to remind onlookers of their authority.
 
  In combat, a tooth fairy monarch prefers to hold back behind a screen of tooth fairies, exhorting their minions to attack. Monarchs use their spell-like abilities to distract and debilitate foes while directing their minions to pull their enemies' teeth. Tooth fairies bring these teeth to the monarch, even in the middle of a fight, so the monarch can consume them on the spot or stick them to their scepters for later consumption. Fundamentally cowardly, a tooth fairy monarch encountered on its own usually attempts to flee using lies or magical trickery.
 
  A tooth fairy monarch stands 3 feet high and weighs about 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tooth%20Fairy%20Monarch)
 ```encounter-table
 name: Tooth Fairy Monarch

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Animate Hair
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 26
 desc_short: What looks like a pile of shorn hair twitches almost imperceptibly, as if the locks were moving in an nonexistent wind.
 ```
-# Description
+## Description
 According to legend, when exceedingly vain individuals die prematurely, their spirits may live on in the hair cut from their heads shortly before or after their deaths. Such stories might explain the existence of animate hair, a living creature composed entirely of hair. The collected strands interact like an ooze, allowing the creature to shape itself and move across surfaces. It can also form pseudopods to grab or pull itself along. Animate hair possesses an uncanny ability to make itself more appealing, and can shape itself into an attractive, and often quite complex, wig.
 
 Animate hair is carnivorous, and can survive by hunting the small animals that inhabit urban environments. Animate hair’s preferred prey, however, is humanoids. By disguising itself as a wig, animate hair is able to subtly influence the creature that wears it. At first, the hair merely makes its host more vain, but when the opportunity presents itself, the animate hair compels its host to murder. Though not particularly intelligent, animate hair possesses lingering instincts that cause it to urge these murders cautiously, and usually only when its host is unobserved.
 
 Each animate hair has a preferred type of victim, perhaps influenced by its former life. The hair of an executed criminal might target judges, while that of a murdered debutante might target young women.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Animate%20Hair)
 ```encounter-table
 name: Animate Hair

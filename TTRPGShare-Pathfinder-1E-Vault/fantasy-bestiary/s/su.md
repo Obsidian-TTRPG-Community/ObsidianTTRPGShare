@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Su
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 238
 desc_short: This emaciated quadruped has a mouth full of jagged teeth and a cluster of bald, mewling offspring clinging to its back.
 ```
-# Description
+## Description
 Hateful and melancholic, the psychic marsupials called su can feel their minds weaken as they mature, and take out their frustration on any creatures who enter their forests.
 
  All su bear young. After mating, they implant each other’s back-pouches with oily, tumor-like eggs which hatch over the next year into tiny, psychically gifted humanoids. These young su cling to their parents’ backs, feeding on parasites and scraps. Born at the apex of their psychic abilities, baby su slowly change shape and lose their powers over their first year-by the time they reach their full predatory form, all psychic magic has vanished. These furious new adults then leave to become providers for their own whelps. A grown su is 5 feet long and 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Su)
 ```encounter-table
 name: Su

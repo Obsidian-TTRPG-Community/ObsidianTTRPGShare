@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Timber Wolf
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,7 +43,7 @@ sources:
     desc: 83
 desc_short: A chilling chorus of howls echoes through the air as a massive, white-furred wolf emerges.
 ```
-# Description
+## Description
 Timber wolves range in color from white to gray to pitch black. The largest males can weigh 175 pounds. Timber wolves typically have longer legs and bigger paws to help traverse the difficult terrain in which they live. More importantly, their proportionally larger heads, held up by powerful neck muscles, allow them to drag down sizable herd animals.
 
 Hunts begin with a communal howl to unite the pack. They chase their prey over vast distances-sometimes over 50 miles-wearing prey down with fear and exhaustion. Using jaws capable of crushing bones and snapping spines, several timber wolves at a time might latch on to a victim and drag it to the ground. Their speed and pack instincts let them use coordinated attacks, flanking, and hit-and-run maneuvers.
@@ -49,7 +51,7 @@ Hunts begin with a communal howl to unite the pack. They chase their prey over v
 Group howling helps bind the pack together. The howls can be used for calling the pack to the hunt, determining the location of other pack members, communicating food sources, and even determining social order. Howls can be heard over vast distances and help establish a pack’s territory, which averages 350 square miles.
 
 The power and majesty of timber wolves inspire many sentient races. For civilized folk, the wolf has come to embody a primitive evil, often playing the role of a villain in fairy tales. This has earned the animal an undeserved reputation for aggression. Among northern peoples, the wolf symbolizes strength and prowess in battle. Many tribes revere wolf totems, and some even claim in their folklore to be originally descended from wolves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Timber%20Wolf)
 ```encounter-table
 name: Timber Wolf

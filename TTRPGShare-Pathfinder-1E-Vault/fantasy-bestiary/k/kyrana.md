@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kyrana
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 136
 desc_short: Long spines jut from the head and neck of this red-scaled iguana, and fire trickles from its open mouth.
 ```
-# Description
+## Description
 Kyranas are large, iguana-like relatives of true dragons, with low intelligence and an affinity for fire. Though quite weak as dragons go, kyranas are still dangerous enough to command the fear and respect of kobolds, who often encounter the fire-breathing dragons while digging deep tunnels.
 
  Kyranas are primarily subterranean creatures, though they can occasionally be found on the surface in extremely hot or volcanic areas. Healed supernaturally by contact with fire, they often spend their time swimming in volcanic calderas or underground lava lakes, taking in geothermic energy and storing it in order to release it on their prey as lines of fiery breath.
@@ -56,7 +58,7 @@ Kyranas are large, iguana-like relatives of true dragons, with low intelligence 
  If kyranas stayed confined to their magma homes, they would present little problem to other races. Unfortunately, they’re extremely territorial, even toward their own offspring. Kyranas are born in clutches of six to 12 eggs, and raised by both parents. As soon as the creatures reach adulthood at the age of 18 months, however, the parents turn on their offspring and drive them from the nest. The exiled kyranas then split up and wander the surrounding tunnels, traveling hundreds of miles in search of any source of heat. That means they often come waddling into inhabited areas, snorting and ready to burn anyone standing between them and the hearth. Adventurers may find their campfires claimed by a greedy kyrana, or end up being followed for their torchlight. Kobolds often use these barely intelligent dragons as heavy artillery, employing fire arrows and flaming traps to lure them into conflict with enemies.
 
  An adult kyrana is 5 feet long and weighs 300 pounds on average.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kyrana)
 ```encounter-table
 name: Kyrana

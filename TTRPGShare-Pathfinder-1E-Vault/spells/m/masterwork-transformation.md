@@ -1,19 +1,21 @@
 ---
-alias: Masterwork Transformation
+aliases: [Masterwork Transformation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Masterwork Transformation 
+## Masterwork Transformation
 
 **source**:: Ultimate Magic pg. 228  
 **school**:: transmutation
 **level**:: arcanist 2, bard 2, cleric 2, druid 2, hunter 2, occultist 2, oracle 2, redmantisassassin 2, skald 2, sorcerer 2, warpriest 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (see below)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one weapon, suit of armor, shield, tool, or skill kit touched  
@@ -21,7 +23,7 @@ alias: Masterwork Transformation
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You convert a non-masterwork item into its masterwork equivalent. A normal sword becomes a masterwork sword, a suit of leather armor becomes a masterwork suit of leather armor, a set of thieves’ tools becomes masterwork thieves’ tools, and so on. If the target object has no masterwork equivalent, the spell has no effect. You can affect 50 pieces of ammunition as if they were one weapon. You decide if the object’s appearance changes to reflect this improved quality.  
   

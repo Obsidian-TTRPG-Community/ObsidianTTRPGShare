@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Storm Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 152
 desc_short: This giant is a towering, muscular human of heroic proportions, with bronze skin, dark hair, and sparkling green eyes.
 ```
-# Description
+## Description
 Storm giants tend toward tanned complexions, though some rare specimens have violet skin, deep violet or blue-black hair, and silvery gray or purple eyes. Such violet coloration is considered to be good luck among storm giants, and those possessing it tend to become leaders among their kind. Adults are typically 21 feet tall and weigh 12,000 pounds. Storm giants can live to be 600 years old. When at rest, they prefer to wear short, loose tunics belted at the waist, sandals or bare feet, and headbands. They wear a few pieces of simple but finely crafted jewelry, with anklets (favored by barefoot giants), rings, or circlets being most common. Yet when they outfit themselves for battle, they don shimmering breastplates and wield enormous greatswords and bows.
 
 Storm giants tend to be reclusive, prefering to dwell along remote coastlines or on tropical islands. Yet like their namesakes, they are prone to violent mood swings. Storm giants are quick to anger in the face of evil and can be brutal, dangerous foes when insulted. In battle, they prefer to send a hail of arrows to rain down on their foes, only drawing their greatswords after opponents get inside their bow range.
 
 Storm giants live in well-constructed towers, castles, or walled settlements, and prefer to live off the land. They maintain enormous, well-tended gardens and manage hundreds of acres of farmland per group. They often hire other humanoids, such as elves or humans, to help them run their massive farms. A storm giant enclave often takes responsibility for the safety of an entire island or stretch of coastline.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Storm%20Giant)
 ```encounter-table
 name: Storm Giant

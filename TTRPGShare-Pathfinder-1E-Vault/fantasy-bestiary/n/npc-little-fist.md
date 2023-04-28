@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Little Fist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 105
 ```
-# Description
+## Description
 These monks are small, but powerful and well trained. Those who underestimate one of these halflings do so at their own peril.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Little%20Fist)
 ```encounter-table
 name: NPC Little Fist

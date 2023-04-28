@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jitterbone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 87
 desc_short: This small, gaunt humanoid has flesh tight around its oversized skull. Sharp spurs of bone protrude from its hands and arms.
 ```
-# Description
+## Description
 Jitterbone mortics are halfling-like creatures with abnormally loose skeletons. With sufficient exertion of muscle control, jitterbones can control their skeletal structure, allowing them to shrug off crushing blows and slip through narrow spaces. They enjoy the taste of marrow- humanoid marrow in particular- and are adept at cracking and pulling their victim's bones. Jitterbones can be identified by their abnormally large heads. Their distinctive appearance and unusual appetites make jitterbones unwelcome in most halfling communities, so they form societies of their own in remote fields or forests. Among these communities of jitterbones, the most respected members are those that can contort themselves into the smallest or most awkward shapes; competitions to display this prowess and move up or down in the community's hierarchy are common. A traveler coming across one of these “bone churning contests” is likely to be plagued for years to come by the gruesome images of halflings twisting themselves into knots or shoving themselves through small pipes.
 
  Jitterbones in human communities live as many halflings do: they carefully keep themselves out of the public eye but try to make themselves valuable to larger races. Unlike halflings, jitterbones don't have a particularly strong work ethic, and they therefore tend to fall into roles that require little effort, such as vagrants or ragpickers.
 
  A typical jitterbone is 3 feet tall and weighs 35 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jitterbone)
 ```encounter-table
 name: Jitterbone

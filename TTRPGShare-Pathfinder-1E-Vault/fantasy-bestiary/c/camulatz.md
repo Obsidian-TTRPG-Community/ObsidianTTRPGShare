@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Camulatz
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 80
 desc_short: Vibrant blue and yellow feathers adorn the body of this giant, parrot-like bird, but its curved beak and powerful talons are instead adorned with dried blood and gore.
 ```
-# Description
+## Description
 Hidden within the high canopy overlooking the jungle floor dwells a race of enormous, vicious, and vibrantly colored birds known as camulatz. Possessing a cruel intelligence, camulatz are vile headhunters and aggressive demon-worshipers, preying on all sentient creatures as sacrifices to their chosen demon lord: Pazuzu, King of the Wind Demons. Camulatz revel in trickery and bloodshed, luring victims into ambushes where the camulatz can indulge their bloodlust and take their victims’ heads as grisly trophies.
 
 The iridescent coloration of a camulatz’s feathers assists in mesmerizing unfortunate souls, luring them to the killing ground below the brightly colored bird’s aerie. Camulatz also have a special affinity for sounds, naturally mimicking voices and animal noises, while perfecting the magical ability to displace such sounds, making them seem to emanate from other creatures or objects. Camulatz delight in using both their magical ventriloquism and their beautiful plumage to mislead and separate victims before surprising them with diving attacks from above.
@@ -67,7 +69,7 @@ The iridescent coloration of a camulatz’s feathers assists in mesmerizing unfo
 All camulatz possess sharp talons on their feet, capable of rending the most heavily armored foes, but they rely on their cruelly curved beaks to decapitate their victims. The vivid patterns of a camulatz’s feathers also provide some protection to the birds, forming a magical field of clashing colors that can deflect ranged attacks.
 
 A mature camulatz is just over 14 feet in length from its beak to the ends of its tail feathers, but weighs only 300 pounds because of its lightweight bone structure. Each individual camulatz bears its own unique feather coloration, which it can consciously manipulate in set patterns to produce its hypnotic display.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Camulatz)
 ```encounter-table
 name: Camulatz

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Qwoshokk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 39
 desc_short: This massive scarlet squid has dark blue stripes and wears various gold ornaments, its tentacles glistening with blue energy.
 ```
-# Description
+## Description
 Qwoshokk is an ancient elder kraken who dwells northwest of Cheliax, 2 miles beneath the surface of the water in the Arcadian Ocean’s Gartanica Trench. He has laired there for over 3,000 years, excavating the remains of an aboleth palace buried beneath a thin layer of sediment. In addition to uncovering the relics of his enemies, Qwoshokk devotes much of his time to restoring an aboleth machine called the Cholcorite Mechanism, using a rare kind of agate found off the Chelish coast to repair the engine. Once he has completed his work on the device, he believes it will grant him immortality and the power to dominate all the denizens of the sea, at which point he will take his ambitions to the surface world.
 
 While Qwoshokk’s work on the Cholcorite Mechanism is almost finished, he fears he needs one more item to complete the device-an artifact of great power that will jump-start the Mechanism’s arcane energies. Qwoshokk knows that to the north of the Gartanica Trench once stood the empire of Thassilon, and he has constructed a plan to excavate great chunks of the Fenwall Mountains of southern Varisia, seeking whatever unknowable treasures may lurk beneath the stone. Already, he has procured the aid of several inf luential land-dwellers who have promised to help him find the artifact, frightened into submission when the immense kraken appeared at the shore of their seaside towns promising destruction to all those who did not obey him.
 
 Having worked on the Cholcorite Mechanism for millennia, Qwoshokk was able to extract several unnecessary parts out of the device for his personal use. Among them are his crown and armlets, items which he’s bonded to his f lesh to give him power over lightning as well as to enhance his ability to summon and control creatures with weak minds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Qwoshokk)
 ```encounter-table
 name: Qwoshokk

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tribal Totem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 86
 desc_short: With the splintering sound of dry, cracking wood, a human-sized graven image lurches to life. Its features shift and reform with every step, cycling through a variety of faces both strange and oddly familiar. Bits of feather, leaves, and decorative stone embellish its surface, and the strong smell of lacquer and resin assaults the senses as it draws near with a menacing, ponderous gait.
 ```
-# Description
+## Description
 Tribal totems represent a significant cultural achievement for their adopted tribe. Imbued with a spark of life from the continued worship of those they protect, they stand as lifelong guardians of their villages, defending them against enemies and predators alike. To aid them in this function, they also possess the unusual ability to reshape themselves into the likeness of other creatures, targeting them with eerie pains and ailments. This ability enables their tribe to more actively hunt down such enemies while their quarry is hindered and tracked by the totem.
 
 As mindless automatons, tribal totems remain ever dependent on their creators to direct them. Some serve only a defensive role, strategically placed within villages to aid against attacks. Others carry stored messages on their tribe’s behalf or vocalize their creator’s words. Rarer still are the tribal totems purposed for war, which emerge from the jungle as a potent force capable of spearheading invasions and targeting enemy champions.
 
 While most tribal totems are made of wood and combine exaggerated features of folkloric monsters with simple decorations and images of strength (like streaks of blood, the claws of defeated beasts, or enemy skulls), few look exactly alike, as each embodies the deities, fears, or legends of its creator’s people. Tribal totems tend to stand 7 feet tall and weigh over 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tribal%20Totem)
 ```encounter-table
 name: Tribal Totem

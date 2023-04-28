@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Criminal (Slayer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: GameMastery Guide
     desc: 267
 ```
-# Description
+## Description
 Slayers are cold-blooded killers, assassins for hire. They are cunning tricksters, deadly snipers, masters of the knife in the back and the storm of shuriken whistling from either hand. Slayers may also be used as ninjas, spies, or particularly deadly enforcers.
 
 Slayers often work alone, sometimes as chief enforcer for a guild master (CR 11), but many work with accomplices, such as three burglars (CR 9), a pair of highwaymen (CR 10), or a half-dozen slavers (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Criminal%20(Slayer))
 ```encounter-table
 name: NPC Criminal (Slayer)

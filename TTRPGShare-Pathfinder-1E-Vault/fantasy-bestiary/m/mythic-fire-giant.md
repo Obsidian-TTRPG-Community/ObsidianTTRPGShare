@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Fire Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 199
 desc_short: This giant’s hair, beard, and skin are made of lava, and its armor and weapon glow with a dull heat.
 ```
-# Description
+## Description
 A mythic fire giant burns like the heart of a volcano. Wielding weapons of flame and ash, it brands enemies with its fury and strength.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Fire%20Giant)
 ```encounter-table
 name: Mythic Fire Giant

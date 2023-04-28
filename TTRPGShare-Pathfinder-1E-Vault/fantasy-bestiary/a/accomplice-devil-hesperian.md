@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Accomplice Devil (Hesperian)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 279
 desc_short: This robed figure appears human except for snakelike eyes, a pair of devilish horns, and the occasional dart of a forked tongue.
 ```
-# Description
+## Description
 Servitors of Asmodeus, hesperians-also known as accomplice devils-come to the Material Plane to help guide inf luential individuals and their followers into Hell’s grasp. Once a hesperian finds a suitable target for his clever wiles, he tells his victims that the greatest of Hell’s devils sent him, and that his diabolical masters have recognized the individual’s talents and potential. The hesperian goes on to claim that he has come to the mortal world in order to guide the creature as a chosen prodigy of Hell, and promises to carry the individual past the threshold of greatness. It’s all a tangled lie, of course, but the best lies are the ones that at some point can be made into truths. A hesperian encourages envy, overreaching, pride, and ultimately hubris in his targets, urging his victims to strive toward ever bolder and more grandiose destinies. A hesperian dedicates himself to a mortal’s service, assisting his victim in amassing power, wealth, prestige-all the while inf lating her ego and cultivating her belief in her own worthiness and infallibility. Once fully convinced of her own incontrovertible position, a hesperian’s victim is usually only a gentle push from Hell’s threshold.
 
 Always serving themselves and their dark god, hesperians are careful to not show too much of their hand, preferring to beguile and manipulate from the shadows. They cunningly alter their inhuman features to resemble attractive humanoids to mingle with mortals, appear more convincing in negotiations, and to not draw too much attention to their devilish natures.
@@ -74,7 +76,7 @@ Always serving themselves and their dark god, hesperians are careful to not show
 A hesperian often establishes Asmodean cults, then elevates one chosen mortal to a position of leadership within the group. He advises this leader, all the while manipulating other cultists-even sacrificing them if necessary-to help this mortal leader’s ascendance without her having any direct accountability. A single hesperian typically has several mortals whom he calls master and advises in this way. Rotating his attention between these masters, the hesperian enjoys appearing for a while and then unexpectedly vanishing for periods like some dark muse.
 
 In his true form, a hesperian looks like a devilishly handsome human male with devilish horns, a forked tongue, and eyes reminiscent of snake’s, but he can make himself a perfect imitation of any humanoid or even take the form of a long snake with a head on each end. Hesperians stand just under 7 feet tall and weigh approximately 180 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Accomplice%20Devil%20(Hesperian))
 ```encounter-table
 name: Accomplice Devil (Hesperian)

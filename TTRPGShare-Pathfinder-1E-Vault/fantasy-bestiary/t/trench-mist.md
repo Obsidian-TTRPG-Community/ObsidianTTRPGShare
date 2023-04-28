@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trench Mist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 90
 desc_short: A noxious mustard-colored vapor hangs low over the battlefield, concealing the lurching forms of dead soldiers.
 ```
-# Description
+## Description
 Trench mists arise from the wholesale slaughter of troops with spells such as acid fog and cloudkill. These magical mists linger over the battlefield, absorbing the departing souls and mental anguish of the slain, and developing a supernatural, malevolent sentience. Once born, trench mists seek only to impart misery and inf lict a choking, scalding fate on those fortunate enough to escape the attacks that birthed the creature in the first place.
 
  As it preys upon the living, a trench mist bleeds its bitter impulses into those it kills, adding the aff licted to a growing horde of shambling servants. Victims of its acidic mist rise as hateful zombies under the creature’s control, and a trench mist that gains a horde of zombies is a dangerous foe indeed. On battlefields where trench mists are known to have arisen, wise commanders arrange cease-fires during which both sides abandon the site after gaseous attacks, lest their troops succumb to the horrifying fate of their comrades.
 
  A trench mist’s billowing form extends 20 feet across, but if bottled, weighs less than a pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trench%20Mist)
 ```encounter-table
 name: Trench Mist

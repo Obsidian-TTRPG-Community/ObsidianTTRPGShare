@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elder Thing
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 82
 desc_short: This strange being has a star-shaped head and numerous writhing appendages arranged radially around its barrel-shaped body.
 ```
-# Description
+## Description
 Known by various names on various worlds, but most often as “elder things” or “old ones,” these alien creatures are interested in creating lasting works of art, architecture, and even life (such as the dreaded shoggoths). They possess a boundless capacity for war and egotism.
 
 A typical elder thing is 6 feet tall from head to foot, with a 7-foot wingspan. Surprisingly heavy for its size, an elder thing generally weighs about 450 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elder%20Thing)
 ```encounter-table
 name: Elder Thing

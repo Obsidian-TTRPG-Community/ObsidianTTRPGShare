@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kalavakus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 78
 desc_short: This muscular, violet demon walks upon elephantine feet. Large, razor-sharp horns cover its body. 
 ```
-# Description
+## Description
 Known to some as “horned demons,” the kalavakus demons are hulking, muscled beasts. They work as slavers on the Abyss, sometimes as harem keepers or captains of the guard for a more powerful demon, and at other times as mercenaries who sell their captured victims for profit to anyone with the funds to pay. 
 
 A kalavakus is 7 feet tall and weighs 450 pounds. They form from the souls of evil mortals who were slavers in their mortal lives.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kalavakus)
 ```encounter-table
 name: Kalavakus

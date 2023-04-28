@@ -1,19 +1,21 @@
 ---
-alias: Contingent Scroll
+aliases: [Contingent Scroll]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Contingent Scroll 
+## Contingent Scroll
 
 **source**:: Advanced Class Guide pg. 178  
 **school**:: evocation
 **level**:: arcanist 4, bard 4, occultist 4, psychic 4, skald 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (the scroll to be triggered; see text), F (a platinum quill worth 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Contingent Scroll
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You transfer the power of a scroll to the target so that it comes into effect under some condition you dictate. Casting this spell destroys the scroll, but allows the spell in it to be triggered in a manner similar to the *contingency* spell. The spell on the scroll must be a spell on your spell list, it must affect the target of this spell (the target of this spell is considered the caster of the scroll), and its level must be no higher than onefourth your caster level (maximum 5th level).  
   

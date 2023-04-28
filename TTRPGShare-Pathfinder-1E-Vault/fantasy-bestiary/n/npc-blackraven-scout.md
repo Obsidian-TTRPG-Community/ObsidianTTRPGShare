@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Blackraven Scout
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 55
 desc_short: This tall, silent man wears a magnificent cloak of raven’s feathers and a well-maintained suit of dark leather armor.
 ```
-# Description
+## Description
 The Blackravens are an elite band of soldiers and scouts who guard the eastern borders of the Linnorm Kingdoms against incursions from Irrisen and other threats, such as frost giants from the Stormspear Mountains and bands of ogres from the foothills that border the Nolands of Varisia. Freyr Darkwine, the castellan of Hagreach, leads the Blackravens, whose main headquarters is a granite fortress called Blackraven Hall, situated next to the Rimef low River near the border with Irrisen. While the Blackravens count among their number a wide range of individuals from varying races and classes, those most commonly encountered are scouts that patrol the rivers and roads throughout this borderland. These scouts undergo specific training against their hated enemies, and are all rangers specialized in fighting in subarctic conditions.
 
 A typical Blackraven patrol contains four to six members. In the open terrain around the Rimef low River, Blackraven patrols are sometimes mounted on horseback, but in less hospitable places they sometimes use dog sleds, skis, or snowshoes. They patrol the border regularly but in no set pattern, making it difficult to predict their movements.
 
 A Blackraven dons pale leather armor when he needs to blend into snowy environs, or when on reconnaissance missions into Irrisen. Blackraven scouts make extensive use of animal messenger spells to maintain communication over large areas. Specialists at battling trolls, Blackravens typically carry flaming arrows and alchemical fire to inhibit the creatures’ regeneration and destroy their remains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Blackraven%20Scout)
 ```encounter-table
 name: NPC Blackraven Scout

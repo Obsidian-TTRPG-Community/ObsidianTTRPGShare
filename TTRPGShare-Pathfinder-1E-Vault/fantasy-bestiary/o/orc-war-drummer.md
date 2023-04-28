@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc War Drummer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
   - name: Monster Codex
     desc: 168
 ```
-# Description
+## Description
 The rare clever or artistic orcs may use their skills to bolster comrades-or to better compete with brutish tribemates.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc%20War%20Drummer)
 ```encounter-table
 name: Orc War Drummer

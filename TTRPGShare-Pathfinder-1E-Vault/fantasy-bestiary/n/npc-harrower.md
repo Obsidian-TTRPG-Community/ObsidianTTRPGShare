@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Harrower
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 29
 ```
-# Description
+## Description
 Far from mere fortune tellers, harrowers use their mystical powers to advise their clans, bring doom upon their foes, and uphold the ancient and mysterious traditions of the Varisian wanderers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Harrower)
 ```encounter-table
 name: NPC Harrower

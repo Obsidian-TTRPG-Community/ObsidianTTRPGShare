@@ -1,19 +1,21 @@
 ---
-alias: Planar Binding, Lesser
+aliases: [Planar Binding, Lesser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Planar Binding, Lesser 
+## Planar Binding, Lesser
 
 **source**:: PRPG Core Rulebook pg. 321  
 **school**:: conjuration (calling) \[see text\]
 **level**:: arcanist 5, medium 4, occultist 5, psychic 5, sorcerer 5, summoner 4, summoner (unchained) 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one elemental or outsider with 6 HD or less  
@@ -21,7 +23,7 @@ alias: Planar Binding, Lesser
 **saving-throw**:: Will negates
 **spell-resistance**:: no and yes; see text
 
-### Description 
+### Description
 
 Casting this spell attempts a dangerous act: to lure a creature from another plane to a specifically prepared trap, which must lie within the spell's range. The called creature is held in the trap until it agrees to perform one service in return for its freedom.  
   

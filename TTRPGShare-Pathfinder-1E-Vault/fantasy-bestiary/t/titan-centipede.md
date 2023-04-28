@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Titan Centipede
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 53
 desc_short: A writhing, seemingly endless segmented monstrosity crawls forth, its great mandibles clacking as it spies prey. 
 ```
-# Description
+## Description
 The largest of their kind, titan centipedes are thankfully also the rarest. They attack other living creatures fearlessly, and require constant sustenance to nourish their vast bulk. Humanoids are in most danger from titan centipedes when mounted rather than afoot-a good-sized horse makes a much more satisfying meal to the centipede than a few bites of human. Titan centipedes are solitary by nature and because of the demands of their appetite, though when food is plentiful, multiple centipedes sometimes lurk in the same area.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Titan%20Centipede)
 ```encounter-table
 name: Titan Centipede

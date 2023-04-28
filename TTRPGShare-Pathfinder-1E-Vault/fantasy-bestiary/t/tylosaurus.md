@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tylosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 91
 desc_short: Surging out of the water, this massive lizard is shaped like a giant fish with a powerful, toothed maw. 
 ```
-# Description
+## Description
 This predatory marine lizard swims with four flippered limbs and a powerful, fluke-like tail. Its extended snout is filled with sharp teeth, and it feeds on both aquatic and surface prey. They are known to attack ships, mistaking them for basking whales or other creatures. A tylosaurus grows up to 50 feet in length and weighs 30,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tylosaurus)
 ```encounter-table
 name: Tylosaurus

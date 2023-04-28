@@ -1,19 +1,21 @@
 ---
-alias: Mythic Deathless
+aliases: [Mythic Deathless]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Deathless
+## Mythic Deathless
 
 **source**:: Mythic Adventures pg. 113  
 **school**:: necromancy
 **level**:: alchemist 4, arcanist 4, cleric 4, inquisitor 4, investigator 4, medium 4, oracle 4, psychic 4, sorcerer 4, warpriest 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Deathless
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The target’s soul is strongly anchored to its body, preventing death from hit point damage. No matter how low the target’s hit points get, it remains alive (though not necessarily conscious).  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Braismois
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 58
 desc_short: This humanoid fiend has an overly long torso, black eyes, and a mouth full of razor-sharp teeth. It wears black robes that cover most of its rotting, frostbitten flesh.
 ```
-# Description
+## Description
 Braismois, the Silent Quill, sometimes referred to as the Toxic Quill by those misinterpreting his weapon as his title, is the daemonic harbinger of broken deals, fine print, and unfair bargains. A being of immense power, Braismois currently serves Trelmarixian, the Horseman of Famine, though only to fulfill an ongoing contract with the horseman. Braismois appears as a frostbitten human with weasel-like features, bedecked in ink-smeared clothing. His followers are generally administrators, barristers, clerks, or those highly placed in judicial or political environments. Braismois preys on mortals unable to fully grasp his contracts, though he enjoys a challenge and seeks out haughty nobles or intellectuals who believe themselves immune to such treachery. He frequently appears to powerful and influential mortals to seed contracts and deals across the Material Plane.
 
  The harbinger of broken deals rules from the Silent Nation, an expansive set of tunnels dug into the bottom of a glacier in Abaddon. Deep within the glacier, Braismois maintains a vast library of all the contacts and documentation on his various schemes throughout the cosmos, with each plane and world tended to by its own unique bibliodaemon caretaker. Braismois also keeps the true versions of many historical records that he and his agents have altered or replaced over the years as vainglorious trophies within his archival sanctum.
@@ -76,7 +78,7 @@ Braismois, the Silent Quill, sometimes referred to as the Toxic Quill by those m
  Those who serve Braismois in life end up as hunted petitioners doomed to roam the mazelike tunnels of the Silent Nation’s lowest depths. Petitioners struggle eternally to decipher detailed but purposely inaccurate directions carved into the walls; those who fail to recognize the directions as falsehoods wander forever, those who recognize them as lies are quickly consumed by warden daemons, and those who put up misleading directions of their own to lead others into harm are elevated to the ranks of lesser daemonhood.
 
  Over a century ago, Braismois turned his attention to the nation of Druma and its Kalistocracy. A member of the esteemed Petronax family had come to learn the truth of the Kalistocracy’s promised afterlife and saw it as little more than delaying an inevitable judgment by Pharasma. This prophet betrayed the Kalistocracy and, using ancient Kellid rituals and profane tools uncovered in the Palakar Forest, communed with Braismois to share the discovery. Braismois fumed at the Kalistocracy’s subversion of death, as any daemon would in their role as the wouldbe enders of all life. Having learned one of the greatest secrets on Golarion, Braismois has kept the information to himself, using the well-positioned Petronax family to weaken the Kalistocracy and pave the way for a daemonic incursion into the heart of the nation. It is through this culminating scheme that Braismois hopes to unearth the hidden tombs of Kalistrade’s prophets and gorge on the untold number of souls removed from the cycle of death-an act that Braismois hopes will grant him enough power to challenge and supplant Charon as the Horseman of Death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Braismois)
 ```encounter-table
 name: Braismois

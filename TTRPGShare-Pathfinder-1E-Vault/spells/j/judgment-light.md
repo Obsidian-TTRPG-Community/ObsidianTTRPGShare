@@ -1,19 +1,21 @@
 ---
-alias: Judgment Light
+aliases: [Judgment Light]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Judgment Light 
+## Judgment Light
 
 **source**:: Ultimate Combat pg. 232  
 **school**:: evocation (light)
 **level**:: inquisitor 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **area**:: 30-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Judgment Light
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 An inquisitor may only cast this spell while she has a judgment active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor’s active judgments.  
   

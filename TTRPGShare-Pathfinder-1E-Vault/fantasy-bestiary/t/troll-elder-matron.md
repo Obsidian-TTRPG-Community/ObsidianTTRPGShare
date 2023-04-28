@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll Elder Matron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: Monster Codex
     desc: 230
 ```
-# Description
+## Description
 A troll elder matron serves her tribe as the fount of all magical knowledge. She is both her tribemates’ fiercest protector and their harshest critic, doling out punishments to those who fail to achieve the (sometimes cryptic) goals she sets for them. Female trolls benefit from a matron’s teachings almost exclusively, though she might set a promising young male on the path toward becoming a ranger. The matron often lives or travels with females nearing adulthood who are struggling with their studies; those she rejects as unworthy rejoin their sisters and never speak of the strange things they experienced while apprenticed to the matron. Even a troll monarch listens to an elder matron’s counsel, for she has outlived many monarchs and watched generations of trolls be born, grow, and die.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll%20Elder%20Matron)
 ```encounter-table
 name: Troll Elder Matron

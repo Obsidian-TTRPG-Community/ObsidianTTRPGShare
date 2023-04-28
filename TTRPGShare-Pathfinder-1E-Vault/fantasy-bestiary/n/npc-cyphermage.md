@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cyphermage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 16
 ```
-# Description
+## Description
 The cyphermages of the pirate town of Riddleport are students of ancient Thassilonian history and runic lore. Members of the mysterious Order of Cyphers, they pursue lost knowledge and keep their discoveries secret from outsiders-and in their overwhelming ambition to be the first to solve great mysteries, keep secrets even from the other members of their enigmatic order.
 
 Because all cyphermages are especially attuned to runes- whether the runes are newly scribed or ancient carvings in Thassilonian ruins like Riddleport’s Cyphergate- they have unusual skill at using written magic such as scrolls, and can draw extra power from these items.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cyphermage)
 ```encounter-table
 name: NPC Cyphermage

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chon Chon Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
   - name: Pathfinder No. 53: Tide of Honor
     desc: 82
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chon%20Chon%20Swarm)
 ```encounter-table
 name: Chon Chon Swarm

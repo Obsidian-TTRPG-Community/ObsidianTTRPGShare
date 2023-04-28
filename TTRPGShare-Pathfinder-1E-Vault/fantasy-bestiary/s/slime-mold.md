@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slime Mold
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 249
 desc_short: What at first seemed to be a carpet of fungi and mushrooms suddenly stirs to life, surging forward with a reek of decay.
 ```
-# Description
+## Description
 Slime molds are revolting oozes that wallow in rot and decay. A perfect example of symbiosis, each slime mold is covered in a thick garden of fungi, mildew, and toadstools, which helps it blend in with the surroundings. As ambush hunters, they can lie silently in wait for days at a time, surging into frenzied movement as soon as prey comes within reach. Most commonly encountered in deep forests, variations have adapted to life in caverns and sewers as well. They lack any ability to digest food, and rely entirely on their symbiotic fungal gardens to break down any organic matter they find into easily absorbed compost and decay. The molds and mushrooms that coat the ooze in turn receive ample food supplies, and over countless generations, many have developed into deadly variations of the forest or cave fungi from which they evolved. This fungal breakdown is in many ways akin to a disease-known as fungal rot, it can kill if allowed to progress for long. Those who succumb to fungal rot become tired and listless. Eventually, paralysis sets in and the victim’s flesh begins to blacken and decay, running from the body in liquid streams that the slime mold can easily absorb. In a somewhat nauseating turnabout, certain creatures find the unusual fungus that grows upon a slime mold to be quite tasty, and these creatures actively hunt slime molds to devour their gardens-although they take care to avoid actual contact with the mold itself unless they happen to be immune to disease.
 
 Slime molds are ovoid in shape, growing up to 12 feet in length and weighing more than 600 pounds. Their substance is normally a sickly greenish-brown, with the coloration varying depending on their environment and how recently they’ve fed. They instinctually keep their coating of fungus and other vegetable detritus exposed above them, granting the slime mold a distinctive, undulating gait rather than the fluid movement of most oozes.
 
 To reproduce, slime molds split off small patches of their bodies whenever they encounter thick beds of fungi or mold. Over several months, these tiny blobs acclimate to the rot and absorb each another, until a single slime mold (with the young creature simple template) sprouts its own garden and begins hunting live prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slime%20Mold)
 ```encounter-table
 name: Slime Mold

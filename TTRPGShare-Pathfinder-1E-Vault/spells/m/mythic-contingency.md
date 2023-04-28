@@ -1,25 +1,27 @@
 ---
-alias: Mythic Contingency
+aliases: [Mythic Contingency]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Contingency
+## Mythic Contingency
 
 **source**:: Mythic Adventures pg. 89  
 **school**:: evocation
 **level**:: arcanist 6, occultist 6, psychic 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: at least 10 minutes; see text  
 **components**:: V, S, M (quicksilver and an eyelash of a spell-using creature), F (ivory statuette of you worth 1,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 day/level (D) or until discharged
 
-### Description 
+### Description
 
 You can place another spell upon your person so that it comes into effect under some condition you dictate when casting *contingency*. The *contingency* spell and the companion spell are cast at the same time. The 10-minute casting time is the minimum total for both castings; if the companion spell has a casting time longer than 10 minutes, use that instead. You must pay any costs associated with the companion spell when you cast *contingency*.  
   

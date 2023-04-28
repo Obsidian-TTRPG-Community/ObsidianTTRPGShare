@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Giant Magmablade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
   - name: Monster Codex
     desc: 60
 ```
-# Description
+## Description
 Mixing force of arms with fiery magic, a magmablade is a tornado of flame and carnage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Giant%20Magmablade)
 ```encounter-table
 name: Fire Giant Magmablade

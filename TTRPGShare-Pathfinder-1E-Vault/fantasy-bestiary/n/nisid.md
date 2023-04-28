@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nisid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 83
 desc_short: This small, naked creature looks like a lithe halfling, but with long, tapered ears and tough, brown skin. His hair is unkempt and his flesh is weathered, but his large eyes glitter violet.
 ```
-# Description
+## Description
 Nisids are castaway spirits, protectors of uninhabited or deserted islands. These little fey look like they might once have maintained a more delicate and youthful appearance, but after having spent decades or centuries alone, they look haggard, with unkempt hair and tough skin. Nisids rarely wear clothing, as they have little need for modesty or protection. They are excellent survivalists, living off what their island can provide.
 
  Loners by nature, a nisid claims and forms a bond with a single uninhabited island as his territory, and he seeks to preserve the island’s untouched sanctity-and his own solitude. Should someone happen upon a nisid’s island, whether as a castaway, stranded by a storm, or deliberately seeking something, the nisid first spies on the interloper using invisibility and detect thoughts to assess her intent. If he determines that the trespasser simply wishes to get off the island, the nisid often offers to help his guest survive and escape (if only to hasten the process and return the island to its isolation). Using magic and his natural skill at survival, he may give the castaway access to water, food, or shelter-in exchange for leaving the island unsullied when she leaves. Those who agree and please the nisid might even be gifted with a final gust of wind to send them on their way.
@@ -73,7 +75,7 @@ Nisids are castaway spirits, protectors of uninhabited or deserted islands. Thes
  Even when helping agreeable castaways, the nisid won’t make life too easy, lest the trespassers decide to extend their stay. He makes just enough food and water available to sustain the “guests,” using abilities like hallucinatory terrain to keep any particularly bountiful areas of the island hidden. Should the island be a truly deserted one, perhaps where an ancient civilization once flourished, a nisid is especially vigilant in keeping ruins or artifacts that could attract further interest in the island well hidden. And once a castaway leaves a nisid’s island, she rarely finds a way to return.
 
  A typical nisid stands 4 feet tall and weighs 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nisid)
 ```encounter-table
 name: Nisid

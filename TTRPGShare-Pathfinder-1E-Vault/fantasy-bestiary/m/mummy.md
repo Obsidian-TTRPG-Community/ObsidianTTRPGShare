@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mummy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 110
 desc_short: Wrapped from head to toe in ancient strips of moldering linen, this humanoid moves with a shuffling gait.
 ```
-# Description
+## Description
 Created to guard the tombs of the honored dead, mummies are ever vigilant for those who would desecrate their sacred ground.
 
 Mummies are created through a rather lengthy and gruesome embalming process, during which all of the body’s major organs are removed and replaced with dried herbs and flowers. After this process, the flesh is anointed with sacred oils and wrapped in purified linens. The creator then finishes the ritual with a create undead spell.
 
 Although most mummies are created merely as guardians and remain loyal to their charge until their destruction, certain powerful mummies have much more free will. The majority are at least 10th-level clerics, and are often kings or pharaohs who have called upon dark gods or sinister necromancers to bind their souls to their bodies after death-usually as a means to extend their rule beyond the grave, but at times simply to escape what they fear will be an eternity of torment in their own afterlife.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mummy)
 ```encounter-table
 name: Mummy

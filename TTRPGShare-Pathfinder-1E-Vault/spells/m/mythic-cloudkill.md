@@ -1,19 +1,21 @@
 ---
-alias: Mythic Cloudkill
+aliases: [Mythic Cloudkill]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Cloudkill
+## Mythic Cloudkill
 
 **source**:: Mythic Adventures pg. 88  
 **school**:: conjuration (creation) (poison)
 **level**:: arcanist 5, magus 5, sorcerer 5, spiritualist 5, summoner (unchained) 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: cloud spreads in 20-ft. radius, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Mythic Cloudkill
 **saving-throw**:: Fortitude partial; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell generates a bank of fog, similar to a *fog cloud*, except that its vapors are yellowish green and poisonous. These vapors automatically kill any living creature with 3 or fewer HD (no save). A living creature with 4 to 6 HD is slain unless it succeeds on a Fortitude save (in which case it takes 1d4 points of Constitution damage on your turn each round while in the cloud).  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cervinal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 58
 desc_short: Beneath a crown of antlers, this centaurlike creature blends the upper body of a humanoid with the lower body of a majestic elk.
 ```
-# Description
+## Description
 Cervinals stand proud and regal at the head of Nirvana’s agathion forces. Sometimes termed the "knights" of the agathions, cervinals have gained a reputation for their battle prowess, noble natures, and admirable wisdom, as well as their fearlessness and willingness to lead from the front. They stand almost 11 feet tall, though part of that height is their magnificent racks of antlers, which can measure up to 4 feet across. These antlers gleam as if forged from beaten bronze, and a fine fuzz of downy gold covers their entire bodies, particularly along the shoulders and neck. Cervinals from the more frigid regions of Nirvana sport an entire coat of chestnut fur up their chests and shoulders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cervinal)
 ```encounter-table
 name: Cervinal

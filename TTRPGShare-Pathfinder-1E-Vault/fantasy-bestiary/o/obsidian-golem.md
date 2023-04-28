@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Obsidian Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 141
 desc_short: This statue resembles a lean human cut from blackened glass stone. Numerous razor-sharp protuberances jut from its body.
 ```
-# Description
+## Description
 Obsidian golems often are used as deterrence against tomb robbers. Most obsidian golems stand just under 9 feet tall and weigh approximately 2,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Obsidian%20Golem)
 ```encounter-table
 name: Obsidian Golem

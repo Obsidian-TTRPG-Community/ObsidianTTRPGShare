@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Ground Cricket
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 84
 desc_short: Long spines jut from the legs and back of this enormous cricket.
 ```
-# Description
+## Description
 As large as a wolf, this bulky, massive cricket has spines on its legs, back, abdomen, and head. These crickets are generally not hostile, but they protect their burrows against invasion. When agitated, a giant ground cricket secretes yellowish-green blood from its joints. This blood has a foul odor that wards off predators. Giant ground crickets stand about 2-1/2 feet tall, are approximately 5 feet long, and weigh roughly 80 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Ground%20Cricket)
 ```encounter-table
 name: Giant Ground Cricket

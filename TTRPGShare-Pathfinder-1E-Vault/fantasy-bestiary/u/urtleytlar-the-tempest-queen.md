@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Urtleytlar, The Tempest Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 68
 desc_short: This writhing terror is made of tentacles and the heads of multiple hounds. The figure of a beautiful woman extends from the monster’s center, though its fiendish visage is far from welcoming. 
 ```
-# Description
+## Description
 An awakened horror shaken from the depths of the sea by the catastrophic calling of Earthfall, the beast known as Urtleytlar swims the Arcadian Ocean, wreaking havoc wherever she treads. Urtleytlar is one of the Lesser Spawn of Rovagug, having escaped the Rough Beast’s prison deep beneath the earth like those before her. The drow of Sekamina tell legends of a terrible many-headed beast crawling from the depths of the Dying Sea to prey upon their coastal settlements, and scholars among the dark elves hypothesize that this beast may have originated from somewhere in Orv. In this instance, their legends hold true, for Urtleytlar indeed swam the lightless depths of the Sightless Sea for centuries until she made it up the Braid, raided the aboleth population guarding the Inverted Sea, and emerged into a broken Azlant already claimed by the Arcadian Ocean.
 
 Urtleytlar spent her first millennia on Golarion’s surface terrorizing the eastern coasts of Arcadia, after which the foul beast felt an irresistible call to the lands of the east. The world rippled with destruction after the passing of Aroden, and this surge of chaos washed over Urtleytlar as she felt the pull of her lord Rovagug in the Inner Sea region. She swam eastward, weaving through the shattered continent of Azlant, and as she headed toward the Eye of Abendego, she saw the storm as a manifestation of the Rough Beast’s destructive power. The monstrous scylla delights in the powerful storm, and preaches Rovagug’s words of destruction through the ruin she sows.
@@ -84,7 +86,7 @@ Since making the Abendego Gulf her home, Urtleytlar has gathered numerous evil a
 A handful of boggard tribes swear fealty to the Tempest Queen by capturing slaves and dragging them to the shores as sacrifices. Urtleytlar makes choice selections from among her minions’ offerings, leaving the scraps for the boggards themselves to enjoy. Though she doesn’t need the froglike humanoids for her conquests, she nonetheless enjoys their adoration. In addition to these minions, she counts a number of skum armies-left masterless after their abandonment by their aboleth rulers-as her thralls. Beneath the howling winds of the Eye of Abendego, hundreds of skum dwell in the ruins of Lirgen, now sunken beneath the sea. From this base, they make deals with both boggards and humans who have managed to survive in the f looded wastes of the Sodden Lands. These tribes and gangs provide Urtleytlar with slaves and food, and she strengthens their reach by aiding them in their destructive endeavors. In addition to these humanoids, Urtleytlar uses Megrexti, her charybdis counterpart and favorite plaything, as a living weapon, sending it into the middle of f leets of ships or other attackers and laughing in delight as it tears her victims to pieces.
 
 Urtleytlar chose as her alternate form a strangely beautiful Cyclops woman. As old a creature as she is, perhaps Urtleytlar feels a kinship with the giants who once ruled the land and waters she now calls home. Regardless, her alternate form has tricked many explorers searching for the ruins of Ghol-Gan, easing them into an odd complacency before she utterly destroys them and their crews.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Urtleytlar%2C%20The%20Tempest%20Queen)
 ```encounter-table
 name: Urtleytlar, The Tempest Queen

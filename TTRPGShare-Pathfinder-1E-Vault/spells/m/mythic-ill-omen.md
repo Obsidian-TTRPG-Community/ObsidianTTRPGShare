@@ -1,19 +1,21 @@
 ---
-alias: Mythic Ill Omen
+aliases: [Mythic Ill Omen]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Ill Omen
+## Mythic Ill Omen
 
 **source**:: Mythic Adventures pg. 98  
 **school**:: enchantment (compulsion) (curse, mind-affecting)
 **level**:: medium 1, mesmerist 1, psychic 1, witch 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (hair from a black cat)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Ill Omen
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You afflict the target with bad luck. On the next d20 roll the target makes, it must roll twice and take the less favorable result. For every five caster levels you have, the target must roll twice on an additional d20 roll (to a maximum of five rolls at 20th level).  
   

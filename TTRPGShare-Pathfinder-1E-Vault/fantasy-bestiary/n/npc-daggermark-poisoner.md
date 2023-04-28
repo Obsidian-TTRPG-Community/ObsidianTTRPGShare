@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Daggermark Poisoner
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 17
 ```
-# Description
+## Description
 Poison is widely used throughout the Inner Sea and across Golarion, but the Daggermark Poisoners’ Guild produces artists of toxins. The guild is closely allied with the Daggermark Assassins’ Guild, and it’s rumored that the founder killed the last king of Daggermark.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Daggermark%20Poisoner)
 ```encounter-table
 name: NPC Daggermark Poisoner

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flood Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 88
 desc_short: This tall, gangly giant has a thick hide of mottled blue; protruding yellowed canines; narrow slits for eyes; and large, powerful hands that end in wicked claws.
 ```
-# Description
+## Description
 Flood trolls are the mutated runts of scrag broods, cast out by their mothers and destined to haunt the lonely valleys and river basins beneath Avistan’s frosty peaks. They lurk amid the craggy hills of Belkzen, Varisia, and other wildlands of northern Avistan, and serve as a menace to orc raiders and human adventurers alike. While smaller and less organized than true scrags, flood trolls’ solitary nature and desperation for food often drives them to commit atrocities upon unsuspecting humanoid populations-atrocities that almost invariably end with the flood trolls’ eventual capture and execution.
 
 Flood trolls average 7-1/2 feet tall and weigh 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flood%20Troll)
 ```encounter-table
 name: Flood Troll

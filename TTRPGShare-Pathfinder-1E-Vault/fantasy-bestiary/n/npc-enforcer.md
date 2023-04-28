@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Enforcer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: NPC Codex
     desc: 246
 ```
-# Description
+## Description
 The enforcer uses threats and violence to serve a dual purpose: to intimidate enemies of his religion, and to pass judgment on members who believe they can betray or desert the holy cause.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Enforcer)
 ```encounter-table
 name: NPC Enforcer

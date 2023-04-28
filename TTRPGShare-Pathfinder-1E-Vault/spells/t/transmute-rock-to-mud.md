@@ -1,19 +1,21 @@
 ---
-alias: Transmute Rock to Mud
+aliases: [Transmute Rock to Mud]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Transmute Rock to Mud 
+## Transmute Rock to Mud
 
 **source**:: PRPG Core Rulebook pg. 361  
 **school**:: transmutation (earth)
 **level**:: arcanist 5, druid 5, hunter 5, occultist 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (clay and water)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: up to two 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Transmute Rock to Mud
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell turns natural, uncut, or unworked rock of any sort into an equal volume of mud. Magical stone is not affected by the spell. The depth of the mud created cannot exceed 10 feet. A creature unable to levitate, fly, or otherwise free itself from the mud sinks until hip- or chest-deep, reducing its speed to 5 feet and causing a -2 penalty on attack rolls and AC. Brush or similar material thrown atop the mud can support creatures able to climb on top of it. Creatures large enough to walk on the bottom can wade through the area at a speed of 5 feet.  
   

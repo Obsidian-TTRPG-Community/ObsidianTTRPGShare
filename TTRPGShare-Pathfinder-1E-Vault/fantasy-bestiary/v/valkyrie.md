@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Valkyrie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 277
 desc_short: Surrounded by lightning, this impressive female warrior wears a gleaming golden breastplate and carries a shining spear.
 ```
-# Description
+## Description
 Valkyries are outsiders who scour the battlefields of the Material Plane for warriors of great prowess and legendary renown. With a glance, a valkyrie can tell who is near death and ready to give up life and who fights on to live another day, and can either claim the soul of the slain or aid the living to continue the fight.
 
 Valkyries are always female, and appear as strong and beautiful human, dwarven, or elven women. A human valkyrie is 6 feet tall and weighs close to 200 pounds.
 
 Valkyries serve a variety of deities, though they are most often associated with the gods of war, conflict, valor, and courage. Although capable combatants in their own right, valkyries are almost always encountered mounted, typically on flying steeds such as dragon horses, pegasi, or sleipnirs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Valkyrie)
 ```encounter-table
 name: Valkyrie

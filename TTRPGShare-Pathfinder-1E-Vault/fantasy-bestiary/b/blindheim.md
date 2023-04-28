@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blindheim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 46
 desc_short: The size of a short, stocky humanoid with webbed feet and claws, this frog-like creature has glowing white eyes. 
 ```
-# Description
+## Description
 Blindheims are grotesque, frog-like creatures that dwell beneath the surface, subsisting on meals of fungi, rodents, and other underground creatures. They live in the darkest, dampest regions of cavernous sprawls, particularly enjoying underground bogs, lakes, rivers, and swamps. Although not aquatic, blindheims are excellent swimmers. They prefer to latch onto branches or rock outcroppings, where they maintain the high ground while in pursuit of food. They use the light from their eyes to attract prey, but go dark when larger creatures approach. A blindheim uses its blinding gaze to disorient both prey and possible threats, then deactivates its gaze to scuttle away in the dark if the threat is too great. In very large caverns inhabited by blindheims, distant areas often flicker from brightly lit to absolutely dark as the creatures feed and flee. Though of animal-level intelligence, blindheims are cunning enough to coordinate their hunting tactics with others of their kind, using one creature to act as a lookout and make hit-and-run attacks with its gaze until its fellows can arrive to help finish off the prey. 
 
 Blindheims can convey simple information through gestures and flashes of their lights, and tend to be rather silent in combat, adding an eerie element to battles with them. They cannot be taught to perform humanoid-appropriate labors and thus make poor slaves, though the duergar and drow sometimes use them as bait or distractions when raiding. Other races have been known to train these creatures as mobile light sources when going on long underground expeditions. 
 
 Stout and thick-skinned, a blindheim is just under 4 feet in height and weighs 150 pounds. A blindheim gives birth to small litters of three or four young. Though gestation can last up to a full year, it only takes about 4 years for a blindheim to mature and become self-reliant, at which point the creatures generally form broods that stick together, only striking out on their own if their brethren have perished. Blindheims can live for up to 25 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blindheim)
 ```encounter-table
 name: Blindheim

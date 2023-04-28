@@ -1,19 +1,21 @@
 ---
-alias: Control Water
+aliases: [Control Water]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Control Water 
+## Control Water
 
 **source**:: PRPG Core Rulebook pg. 260  
 **school**:: transmutation (water)
 **level**:: arcanist 6, cleric 4, druid 4, hunter 4, oracle 4, shaman 4, sorcerer 6, warpriest 4, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a pinch of dust for *lower water* or a drop of water for *raise water*)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)  
@@ -21,7 +23,7 @@ alias: Control Water
 **saving-throw**:: none; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell has two different applications, both of which control water in different ways. The first version of this spell causes water in the area to swiftly evaporate or to sink into the ground below, lowering the water's depth. The second version causes the water to surge and rise, increasing its overall depth and possibly flooding nearby areas.  
   

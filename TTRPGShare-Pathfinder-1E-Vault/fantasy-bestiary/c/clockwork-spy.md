@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Spy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 58
 desc_short: This tiny steel creature has one oversized eye, a spherical body, and several spiderlike legs of grinding metal.
 ```
-# Description
+## Description
 These spindly and discreet mechanical arachnids are ideal for surveillance and reconnaissance missions, and can be vital tools in political intrigues or illicit consortium tactics. Their retractable, insectile wings make the swift creatures even craftier foes than most would anticipate. As they are less combat-oriented than many other clockworks, if a clockwork spy is caught in the act of recording its target, escape is usually the most practical course of action for it.
 
 Clockwork spies are about 2 feet wide from leg to leg, and weigh less than 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Spy)
 ```encounter-table
 name: Clockwork Spy

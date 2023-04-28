@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vault Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 84
 desc_short: This saurian giant’s body is covered in pale aquamarine scales, and a dark, rigid crest runs from its head to the tip of its thick tail. Its blue eyes give off a soft glow.
 ```
-# Description
+## Description
 Vault giants are gargantuan, bipedal lizards that live on the coast of the Sightless Sea of Orv, the lowest level of the Darklands. Their hands and feet are webbed, affording them great mobility in water, and they have powerfully built bodies capable of great feats of strength. In addition to their great size and physical power, vault giants are quick, logical thinkers who employ powerful psychic magic to study and overcome their foes. Despite their formidable natural weapons, vault giants prefer to wield massive, ornamented spears, which function effectively both above and below the surface of the Sightless Sea. Vault giants engage in great hunts, capturing and observing any new creatures they encounter before either consuming or releasing them, as dictated by their leaders.
 
  Vault giants adorn their scales with glowing, waterproof paint brewed from luminescent fungi. The painted markings come in a dizzying array of shapes and colors, displaying clan affiliation, status, and noteworthy personal deeds. A vault giant takes both individual and clan pride in these glowing designs, and mocking or defacing them is certain to earn a vault giant’s ire.
 
  Vault giants are 42 feet tall and weigh 25,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vault%20Giant)
 ```encounter-table
 name: Vault Giant

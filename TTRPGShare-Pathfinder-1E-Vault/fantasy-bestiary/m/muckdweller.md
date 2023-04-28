@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Muckdweller
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 175
 desc_short: This bipedal lizard has mottled gray-and-brown flesh. A short dorsal fin runs the length of its body and its forelimbs look like hands.
 ```
-# Description
+## Description
 Muckdwellers have long tails that allow them to swim rapidly through the water or maintain their balance when standing upright. They sometimes associate with lizardfolk, forming allied settlements, but rarely living in the same community. Still they work and hunt together for mutual benefit. Most muck dwellers stand 3-1/2 feet tall and weigh 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Muckdweller)
 ```encounter-table
 name: Muckdweller

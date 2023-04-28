@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Vivisectionist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 82
 desc_short: The mechanical workings of this humanoid figure are incredibly complex, but the gore-spattered scalpels it has on one hand and the glistening syringes inside its cage-like chest make its intentions clear.
 ```
-# Description
+## Description
 Assembled by unknown creators for inscrutable purposes, clockwork vivisectionists wait in the depths of ageless dungeons or within the tombs of forgotten kings. When wound, they pursue a single purpose: to examine the inner workings of living humanoids. They approach this task with a cold, insatiable curiosity that has somehow been programmed into their clicking levers and complex gear trains. Clockwork vivisectionists enter combat only to paralyze victims for later vivisection.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Vivisectionist)
 ```encounter-table
 name: Clockwork Vivisectionist

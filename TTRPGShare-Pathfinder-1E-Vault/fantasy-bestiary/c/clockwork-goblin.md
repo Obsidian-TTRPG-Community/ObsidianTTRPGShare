@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Goblin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 32
 desc_short: Haphazard in its creation, this mechanical creature has the shape of a goblin wielding a dogslicer.
 ```
-# Description
+## Description
 A clockwork goblin is an amalgamation of clockwork gears, shoddy craftsmanship, and fiery destruction. Amateur clockwork engineers practicing their craft or learning a new skill are responsible for the creation of many clockwork goblins. Many of these creations result in failure, though a rare few attain a semblance of functionality. Clockwork goblins are about 3 feet tall and weigh a little over 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Goblin)
 ```encounter-table
 name: Clockwork Goblin

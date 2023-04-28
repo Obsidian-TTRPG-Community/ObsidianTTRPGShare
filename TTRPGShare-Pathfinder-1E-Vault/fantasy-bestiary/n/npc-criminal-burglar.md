@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Criminal (Burglar)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,13 +44,13 @@ sources:
   - name: GameMastery Guide
     desc: 265
 ```
-# Description
+## Description
 Burglars are prowlers of cities and towns, dancing catlike along rooftops and slipping quietly into homes and shops by night.
 
 Changing Skill Focus (Perception) to Skill Focus (Disable Device) turns a burglar into an expert safecracker, while replacing Deft Hands and Skill Focus (Perception) with Point Blank Shot and Weapon Focus (shortbow) makes a skulking sniper. Replacing Skill Focus (Perception) with Skill Focus (Acrobatics), and changing the quick disable rogue talent to ledge walker or stand up creates a thief-acrobat. Changing a burglar’s rogue talent is a good way to customize further.
 
 Burglars usually work alone but will sometimes hire a pickpocket as a lookout (CR 3). A trio of burglars might cooperate to rob a large house or bank, with three street thugs for muscle and a pickpocket lookout (CR 7). A burglar may also work in concert with a barkeep and barmaid (CR 5) to rob patrons’ rooms of valuables.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Criminal%20(Burglar))
 ```encounter-table
 name: NPC Criminal (Burglar)

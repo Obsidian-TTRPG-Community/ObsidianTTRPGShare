@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Island Defender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
   - name: NPC Codex
     desc: 66
 ```
-# Description
+## Description
 Some druids seek the peace and tranquility that only a small island can offer and are willing to lay down their life to protect their sanctuary.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Island%20Defender)
 ```encounter-table
 name: NPC Island Defender

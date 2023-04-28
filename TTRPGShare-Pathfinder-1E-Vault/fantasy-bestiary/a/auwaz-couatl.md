@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Auwaz Couatl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 82
 desc_short: This winged serpent is covered with bright blue-and-green feathers that are reminiscent of ocean waters.
 ```
-# Description
+## Description
 Auwaz couatls are a variety of couatl known for helping those who are lost find their way back to safety. They are particularly known for traveling around the oceans of Golarion to help sailors and other travelers lost at sea. Many sailors claim that they owe their lives to an auwaz couatl, though these same sailors warn that living a particularly vile life will instead draw an auwaz couatl’s ire. An auwaz couatl often prefers that evil beings remain lost, and it actively works to ensure such creatures remain lost for as long as possible. A typical auwaz couatl is 8 feet long with a wingspan of 12 feet, and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Auwaz%20Couatl)
 ```encounter-table
 name: Auwaz Couatl

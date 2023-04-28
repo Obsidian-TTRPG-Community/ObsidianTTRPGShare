@@ -1,25 +1,27 @@
 ---
-alias: Ice Body
+aliases: [Ice Body]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ice Body 
+## Ice Body
 
 **source**:: Ultimate Magic pg. 224  
 **school**:: transmutation (cold)
 **level**:: arcanist 7, shaman 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 Your form transmutes into living ice, granting you several abilities. You gain the cold subtype and damage reduction 5/magic. You are immune to ability score damage, blindness, critical hits, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You cannot drink (and thus can’t use potions) or play wind instruments.  
   

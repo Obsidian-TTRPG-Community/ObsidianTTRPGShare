@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Khardajeen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 88
 desc_short: Four tentacles stick out of a churning nucleus of multicolored fluid. Plates of rock and metal orbit the floating mass.
 ```
-# Description
+## Description
 The true name of these creatures is one of Golarion’s many forgotten mysteries. The name “khardajeen” is rough and ancient Dwarven for something akin to “scourge of the deep.” These aberrant creatures silently float throughout the tunnels of the Darklands. They are attracted to sites of great antiquity, particularly the treasure troves of dwarven Darklands kingdoms and the deeper Orvian depths. A khardajeen is a shifting mass of gray flesh and thick, multicolored blood that stretches roughly 6 feet tall and weighs approximately 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Khardajeen)
 ```encounter-table
 name: Khardajeen

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Archaeopteryx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: Bestiary 4
     desc: 96
 ```
-# Description
+## Description
 Archaeopteryxes are primitive birds. Instead of beaks, they have lizardlike heads with serrated teeth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Archaeopteryx)
 ```encounter-table
 name: Archaeopteryx

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Aloof Scholar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: NPC Codex
     desc: 232
 ```
-# Description
+## Description
 Often lost in their own thoughts, sometimes these scholars forget others are around them. They’re usually solitary, but have to go out exploring in search of information-or pay adventurers to retell their stories.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Aloof%20Scholar)
 ```encounter-table
 name: NPC Aloof Scholar

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stygira
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 88
 desc_short: Gaunt and parched, this crone-like figure moves with the predatory jerkiness of a hunting vulture. Unnaturally tall and lean, her form is all cracked flesh and stony crevices spanning a wasteland of withered gray flesh. Shattered black teeth jut from a chapped, lipless mouth that stretches beneath a high, scarred brow devoid of nose or eyes.
 ```
-# Description
+## Description
 Withered hermits wrapped in tattered black rags, these scarred, eyeless crones slip through the dark crevasses of both earth and time. Degenerate inheritors of the half-remembered, collapsed cyclops civilizations, the stygiras-or stone witches, as they are often called- command strange secrets of the earth and interpret the fateful energies of the depths. Ages of communion with the darkness and reliance upon alien magics have corrupted the stygiras from the primitive human witches their ancestors were countless ages ago, transforming them into a terrifying, debased breed infused with magics not their own. In many a savage land, these crones were once or are still worshiped as seers and demigods, weaving magic and communing with the earth to manipulate their servants into obeying their selfish and grotesque whims. In other realms, they haunt the night, prowling from their caves to feed upon the unwary or make alliances with those cruel and ambitious enough to believe their perverse counsel. Yet for all their perverse blasphemies and primitive desires, their powers to see what none should and reduce life to brittle stone proves enough to inspire dread and superstitious belief in nearly all who hear of the harsh stone witches.
 
 Stygiras on average stand 6-1/2 feet tall and weigh approximately 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stygira)
 ```encounter-table
 name: Stygira

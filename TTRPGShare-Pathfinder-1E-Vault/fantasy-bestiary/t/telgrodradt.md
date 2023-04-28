@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Telgrodradt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 120
 desc_short: This monster resembles a gigantic, writhing grub, its translucent flesh rippling disgustingly. It has four elongated tentacles and a toothy maw.
 ```
-# Description
+## Description
 These strange Darklands creatures savor the flesh of the undead, while at the same time being one step in the grave themselves. Mistaken for undead by those who encounter them and inscrutable to most living things, telgrodradts straddle a strange line between worlds. These strange abominations look like a nightmarish fusion of insect, humanoid, and corpse. Telgrodradts have six multi-jointed appendages that they use to skitter about and burrow, as well as four hooked, probing tentacles that act as antennae. A typical telgrodradt stretches 14 feet from head to tail and weighs upward of 2,500 pounds, though larger and smaller specimens do exist.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Telgrodradt)
 ```encounter-table
 name: Telgrodradt

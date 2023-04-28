@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Viridium Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -36,7 +38,7 @@ sources:
     desc: 143
 desc_short: This green glass statue has four arms, one of which forms a jagged sword and another that ends in a formidable shield.
 ```
-# Description
+## Description
 Organization solitary or plague (2-4)
 Treasure noneSpecial AbilitiesDisease (Ex) Viridium Leprosy-injury; save Fort DC 24; onset immediate; frequency 1/day; effect 1d6 Cha damage and 1d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based. 
 
@@ -45,7 +47,7 @@ Immunity to Magic (Ex) A viridium golem is immune to any spell or spell-like abi
 Shield (Ex) A viridium golem’s shield is part of its body and does not provide a bonus to its AC; it functions as a primary natural attack that deals bludgeoning damage. A creature struck by the golem’s shield is exposed to the golem’s disease and must also attempt a DC 24 Fortitude save to avoid being stunned for 1 round. The save DC is Constitution-based. 
 
 Sword (Ex) A viridium golem’s sword functions as a primary natural attack that deals slashing damage and can cause both disease and deep, bleeding wounds.DescriptionViridium golems exemplify toxicity, as the substance that makes up their bodies is known for its lethality. A viridium golem stands 25 feet tall and weighs 20,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Viridium%20Golem)
 ```encounter-table
 name: Viridium Golem

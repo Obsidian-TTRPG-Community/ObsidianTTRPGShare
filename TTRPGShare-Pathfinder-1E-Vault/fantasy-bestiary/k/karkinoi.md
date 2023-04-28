@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Karkinoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 173
 desc_short: This hulking mix of ogre and crab has one huge pincer that snaps menacingly, while its other arm is a twisted, humanlike hand.
 ```
-# Description
+## Description
 Monstrous hunters and bullies of the ocean depths, karkinoi live only to destroy creatures that dare cross their path and then feed on the corpses of the vanquished. Though not mindless, they have no inclination to build civilizations or even settlements, living in roving gangs or nomadic tribes. The tools they use in their more humanoid appendages are always scavenged, usually from victims, and are discarded when broken or of no more immediate use. Pursuits such as crafting, learning, and diplomacy are a waste to them; they see these as the activities of food-creatures not strong enough to see the world as it is-a stage for domination, feeding, and spawning. Even when these brutes band together, it is usually to spawn or to face sources of food that are too strong for only one or two karkinoi alone.
 
 Large hordes of karkinoi come together to hunt inhabitants of coastal settlements. Striking at night, they do as much damage as possible before dragging their meals into the sea. They make such attacks night after night until the settlement is destroyed or the resistance becomes too fierce, at which point the horde disbands and each karkinoi makes its own way in the sea. While karkinoi can walk on land, they do not enjoy long periods away from the sea, as they dry out, crack, and eventually suffocate. Coastal raids are part of the karkinoi breeding cycle. The corpses that they drag off into the ocean are tethered to masses of eggs, and serve as food for karkinoi spawn. The spawn develop a taste for land-meat and crave it, ensuring the next generation of hungry raiders.
 
 While karkinoi rarely ally with other creatures, they are easily swayed by aboleths promising destruction and raw power. In return, the aboleths gain expendable, fastbreeding shock troops and guardians. Some scholars believe this race was actually created by aboleths in ancient times, but were later turned loose in the ocean because skum made more reliable slaves than karkinoi brutes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Karkinoi)
 ```encounter-table
 name: Karkinoi

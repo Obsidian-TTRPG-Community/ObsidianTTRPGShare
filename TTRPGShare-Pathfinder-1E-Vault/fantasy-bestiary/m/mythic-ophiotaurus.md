@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Ophiotaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 185
 desc_short: This enormous russet serpent has the head and forequarters of a ruddy bull with bronze horns and hooves.
 ```
-# Description
+## Description
 An ophiotaurus is a strange beast tied to apocalyptic prophecies, yet imbued with the power to alter destiny and bend fate. They typically measure about 20 feet long and weigh over 4 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Ophiotaurus)
 ```encounter-table
 name: Mythic Ophiotaurus

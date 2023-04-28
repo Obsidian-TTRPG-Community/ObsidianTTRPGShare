@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mayor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: NPC Codex
     desc: 253
 ```
-# Description
+## Description
 The mayor has taken to wearing a chain shirt beneath his clothing in the event that illicit lenders come calling to collect the money he owes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mayor)
 ```encounter-table
 name: NPC Mayor

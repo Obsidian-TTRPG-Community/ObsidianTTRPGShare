@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Omox
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 82
 desc_short: This rancid-smelling mound of animated ooze has about its shifting countenance the hideous shape of a half-melted man. 
 ```
-# Description
+## Description
 Amorphous beings of living slime, these repulsive demons lurk in fetid pools and lakes of filth, eager to drown unwary passersby. When summoned to the Material Plane, omoxes typically guard places of sacred filth or waters watched over by cults of Jubilex, the demon lord with which these foul demons are most commonly associated. 
 
 A typical omox stands 7 feet tall and weighs 1,200 pounds. They form from the souls of those who destroyed beautiful things in life, or who befouled and desecrated objects of purity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Omox)
 ```encounter-table
 name: Omox

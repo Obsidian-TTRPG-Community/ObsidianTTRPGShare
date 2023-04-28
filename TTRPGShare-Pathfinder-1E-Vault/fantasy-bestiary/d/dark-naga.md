@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 211
 desc_short: A sharp-featured humanoid head crowns the powerful, sinuous body of this snake-like monstrosity.
 ```
-# Description
+## Description
 Dark nagas covet luxury, wealth, and power over others. With bodies covered by shimmering, eel-like black scales, dark nagas slither deftly through forsaken lands and abandoned ruins, scouring such places for treasures and weaker creatures they might force into service. Their forked tongues spread only lies, and others whom they can’t manipulate they destroy with their insidious poison and destructive magical abilities. A typical dark naga measures approximately 12 feet long and weighs upward of 300 pounds.
 
 Arrogant and sybaritic, dark nagas seek to dominate lesser creatures, relishing the fear they inspire and power over other beings. While some manage to carve indulgent fiefdoms from tribes of goblins, orcs, lizardfolk, or other barbarous races, the luster of cosmopolitan fineries proves enticing as well, leading some to infiltrate city sewers and slums to gather an urban following. They particularly relish morbidly crafted jewelry and treasures, often adorning themselves with jeweled bands or taking their ease atop piles of treasure.
 
 Dark nagas hate others of their kind, especially other dark nagas, seeing their brethren as deadly opponents to be dispatched swiftly and mercilessly-often rightly so.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Naga)
 ```encounter-table
 name: Dark Naga

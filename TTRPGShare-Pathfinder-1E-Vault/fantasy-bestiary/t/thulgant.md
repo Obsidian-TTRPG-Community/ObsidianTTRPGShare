@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thulgant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 226
 desc_short: This monster has ten spidery legs, a head writhing with dripping tentacles above a clutch of red eyes, and three whipping stingers.
 ```
-# Description
+## Description
 The dreaded thulgant is among the most dangerous of the qlippoth, for it supports an array of deadly and painful physical attacks with a wide range of potent magical powers. Born from the cannibalistic orgies of augnagar qlippoth, each thulgant exists for one purpose only-the eradication of all demons from the Abyss.
 
 Yet thulgants do not spend all of their lives hunting and destroying demons. They rule horrific hives deep in the Abyss populated by all manner of hideous minions, many of which are bound into servitude via binding spells. These qlippoth are fond of decorating their lairs with petrified or enstasised victims of great power-the more powerful the victims, the greater the prestige held by the thulgant.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thulgant)
 ```encounter-table
 name: Thulgant

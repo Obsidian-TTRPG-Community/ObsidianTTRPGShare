@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Wayward Crusader
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 62
 desc_short: Dents and nicks fail to dull the shine of this knight’s armor. A sword and starburst decorate her shield.
 ```
-# Description
+## Description
 This crusader believed her destiny to be in Mendev, as a sword and shield against the cancer of the Worldwound. Yet the long road from Taldor took her through Numeria, and here she found a cause perhaps as great, and with far fewer ready to stand with her on the side of compassion and righteousness. Now she quests to bring justice to Sovereign’s Reach and mercy to the Felldales, and is always in search of stout hearts to stand beside her. She preaches the glory of the Inheritor to those in search of meaning and answers, but recognizes the universal truths behind all good faiths.
 
 PCs adventuring in Numeria may run across or even be rescued by this wayward crusader, and she doesn’t hesitate to enlist them in her cause. For low-level PCs she can serve as a powerful ally and mentor, while companions who surpass her in power could even claim her crusade for their own.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Wayward%20Crusader)
 ```encounter-table
 name: NPC Wayward Crusader

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Swimming Eye Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 87
 desc_short: At the heart of each of these tiny blobs of slime and tentacles is a single, eerily human eye.
 ```
-# Description
+## Description
 The darkest depths of the sea are home to some of the strangest creatures imaginable. At first glance, these creatures appear to be little more than small jellyfish. However, at the heart of each gelatinous mass is a disturbingly human-looking eyeball floating as if suspended in the creature’s bodily fluids.
 
 Like many of their common jellyfish cousins, the creatures in a swimming eye swarm are incredibly poisonous. Their uncanny eyeballs act as poison sacs as well as a sensory organ. These eyes are remarkably fragile, often bursting after even the gentlest jostling. However, a swarm’s eyeballs grow back quickly, often in less than a week.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Swimming%20Eye%20Swarm)
 ```encounter-table
 name: Swimming Eye Swarm

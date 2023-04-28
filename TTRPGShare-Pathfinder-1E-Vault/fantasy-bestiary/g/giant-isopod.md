@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Isopod
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 89
 desc_short: This many-legged crustacean is the size of a sewer rat, its body protected by several thick shell-like plates.
 ```
-# Description
+## Description
 Giant isopods are carnivorous scavengers that scour the ocean’s floor. They vaguely resemble the common wood louse in appearance, though they can grow to be up to 2-1/2 feet long and weigh nearly 4 pounds. Their unusual size and insectile appearance cause many humanoids to be wary of them, despite their relative harmlessness.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Isopod)
 ```encounter-table
 name: Giant Isopod

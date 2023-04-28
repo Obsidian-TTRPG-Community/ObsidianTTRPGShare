@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Director Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 88
 desc_short: A humanoid torso and four spindly legs sprout from the top of this black-paneled orb. Buzzing mechanical tentacles churn and writhe below its bulk.
 ```
-# Description
+## Description
 No society endures without order, and among robots that order is enforced by directors. Clad in gleaming metal and viewing the world through a rotating array of lenses, a director is a robotic overseer designed to maximize efficiency and command the loyalty of lesser automatons. Its torso rests upon a utilitarian egg-shaped pod loaded with manipulators, tools, and dozens of thin mechanical tendrils. Four long, mechanical legs support its bulk and carry it across any terrain, even allowing the robot to cling magnetically to vertical surfaces. While the upper frame sports human-like arms to manipulate traditional tools and weapons, two powerful tentacles extend from below its frame to facilitate combat and handle heavy lifting. Though its humanoid torso is barely larger than that of a human, the director’s entire frame stands over 10 feet tall and weighs nearly half a ton.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Director%20Robot)
 ```encounter-table
 name: Director Robot

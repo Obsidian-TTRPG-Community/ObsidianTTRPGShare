@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Siren
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 84
 desc_short: This creature has the body of a hawk and the head of a beautiful woman with long, shining hair.
 ```
-# Description
+## Description
 These bizarre beings have the bodies of hawks, owls, or eagles, but the heads of beautiful human women. Their faces typically reflect the human ethnicity dominant in the area in which they lair, and they almost always bear a vibrant and youthful countenance.
 
 All sirens are female and long-lived. The oldest known sirens haunt their territories for nearly a millennium, although most only live for a few hundred years. Sirens require male humanoids to mate, and several times per decade either capture or rescue bold or comely sailors who enter their territories. Stories abound of sirens dying-either through heartache or suicide-when sailors they attempted to lure overcame their compelling powers and escaped their grasps. Sirens always live near the sea, where their powerful voices can carry over the waves and attract the attention of unwary sailors who trespass near their isles.
 
 A typical siren has a wing span of 8 feet, and weighs 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Siren)
 ```encounter-table
 name: Siren

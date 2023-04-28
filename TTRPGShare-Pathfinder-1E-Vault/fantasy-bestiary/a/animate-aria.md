@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Animate Aria
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 56
 desc_short: An inspirational song emanates from what appears to be point in thin air twelve feet off the ground. Stirring crescendos and moving fanfares can be heard throughout its melody.
 ```
-# Description
+## Description
 An animate aria is a piece of operatic music, either vocal or instrumental, magically solidified into a humanshaped form roughly 12 feet tall. A creature of sound, the animated music is invisible but emanates the inspiring work performed during the creature’s musical creation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Animate%20Aria)
 ```encounter-table
 name: Animate Aria

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Larval Chuul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,9 +40,9 @@ sources:
     desc: 82
 desc_short: This dog-sized creature resembles a soft-shelled lobster with underdeveloped claws and an oversized pair of mandibles.
 ```
-# Description
+## Description
 Long before the aboleths uplifted humanity, these deep-sea-dwelling entities experimented on other aquatic life forms, perfecting the art of genetic manipulation and developing entities that would become their unyielding servants. The creatures known as chuuls today (a derivation of their alghollthu name, “chu’ulothis”) were little more than aggressive crustaceans prior to aboleth meddling. Only after successive generations of guided evolution were chuuls transformed into the hulking monstrosities they are today, and their keen intelligence likewise came from their aboleth masters’ uplifting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Larval%20Chuul)
 ```encounter-table
 name: Larval Chuul

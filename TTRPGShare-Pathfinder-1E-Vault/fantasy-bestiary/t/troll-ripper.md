@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll Ripper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
   - name: Monster Codex
     desc: 228
 ```
-# Description
+## Description
 These trolls are a cut above a common troll in terms of combat ability, but even less intelligent. They wear armor made from the hides of creatures they hunted and killed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll%20Ripper)
 ```encounter-table
 name: Troll Ripper

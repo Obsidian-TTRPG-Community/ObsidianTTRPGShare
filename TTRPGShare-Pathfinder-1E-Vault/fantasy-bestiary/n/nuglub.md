@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nuglub
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 143
 desc_short: This hideous, hunchbacked creature has three glowing blue eyes. Oily hair grows from its head and back, covering it like a cloak.
 ```
-# Description
+## Description
 Nuglub gremlins are deranged; they enjoy combat with a manic glee that other gremlins reserve for destroying devices or creating complex traps. Indeed, they spend long hours sharpening their claws, filing their teeth, and looking for the perfect ledge from which to leap into the fray. If combat doesn’t come to them, they seek it out, entering villages and killing innocents by night. Their idea of a good time is murder so silent that the victim never wakes up, so the family members find the remains the next morning and accuse one another of the atrocity.
 
 Nuglubs jealously attack armored foes, as the gremlins’ hunchbacked forms make it difficult to wear armor made for other humanoids. A group may use its heat metal and shocking grasp abilities to weaken an opponent before mobbing it and trying to knock the foe prone. As soon as an enemy falls to the ground, all nuglubs descend on that target in a frenzy of bloodlust, grappling and biting, holding on like perverse leeches until nothing remains.
@@ -67,7 +69,7 @@ Though less technically inclined than some of their kin, nuglubs like using trap
 Nuglubs are the brutes of gremlin-kind. Groups of nuglubs remain small, as they tend to quarrel with each other and cannibalize those on the wrong side of an angry argument. Lone nuglubs often work with other gremlins, as they like proving they’re the strongest, and aren’t likely to kill and eat their smaller allies (though those slain by other enemies are fair game for a little snacking).
 
 Nuglubs typically stand 2-1/2 feet tall and weigh approximately 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nuglub)
 ```encounter-table
 name: Nuglub

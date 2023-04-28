@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pseudosphinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 29
 desc_short: This small creature has the body of a housecat, the wings of a falcon, and the head of a monkey.
 ```
-# Description
+## Description
 Pseudosphinxes are cat-sized, fairylike creatures thought to be distant cousins to the larger and better-known true sphinxes. They most resemble gynosphinxes, though the pseudosphinxes’ monkeylike heads and tiny bodies ensure that the two species are never confused for each other. A typical pseudosphinx is 2 feet long and weighs 10 pounds.
 
 Pseudosphinxes are rarely found in groups, and scholars are unsure whether to attribute their cryptic origins to elusive demeanors or amnesic memories. Whether they’re the misbegotten progeny of generations of lesser sphinxes or the result of some magical experiment in the same deserts where sphinxes are found, none can say.
 
 A pseudosphinx can serve as the familiar for a 7th-level spellcaster with the Improved Familiar feat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pseudosphinx)
 ```encounter-table
 name: Pseudosphinx

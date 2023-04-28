@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shaghal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 63
 desc_short: This predator resembles a brawny jackal with a dark, red-andgray mottled coat covered in ash and dust.
 ```
-# Description
+## Description
 Packs of shaghals roam the desolate plains of Abaddon, where they serve various daemons as guard dogs and sentries. Though not as intelligent as an average human, shaghals are cunning creatures that work with one another to chase down prey, and they are smart enough to understand complex orders from their handlers. Shaghals don’t have the ability to speak, but they can understand the languages of fiends. Those who converse with shaghals via telepathy report that the creatures communicate morose and fatalistic messages, and that their only wish is to witness and partake in death and ruin.
 
 On the Material Plane, shaghals often find themselves called to the same desert locations populated by jackals. When shaghals encounter packs of jackals, they intimidate and cow them, bringing the animals under their influence. Shaghals bolster the confidence of these otherwise cowardly beasts, and take over control of their packs in order to lead them to remote villages, protected oases, and even defended settlements to terrorize the humanoid populaces.
 
 With each step, ash and dust fall from shaghals’ coats like dander, and the beasts can cough forth clouds of this grime to incapacitate their enemies. As servitors of daemons, shaghals spread disease, hunger, death, and savagery wherever they go. While they are most plentiful in the wastelands of Abaddon, shaghals may occasionally find themselves on the Material Plane, where they doggedly hunt down mortals. They believe, falsely, that the souls of all the mortals they kill and devour are sent directly to Abaddon.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shaghal)
 ```encounter-table
 name: Shaghal

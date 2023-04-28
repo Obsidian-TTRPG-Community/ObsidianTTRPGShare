@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quetzalcoatlus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 82
 desc_short: This immense flying reptile has a staggering wingspan and a brightly colored head with a razor-sharp beak.
 ```
-# Description
+## Description
 The quetzalcoatlus is perhaps the largest of the pterosaurs, a category of flying reptile common in regions where dinosaurs dwell. Known to some as the “swamp stalker” and others by the misnomer “dragonling,” it is truly an awe-inspiring sight in the air, with an impressive 40-foot wingspan. On the ground, this creature’s profile bears an uncanny resemblance to that of a giraffe, save for the fact that the folded wings arch up to either side of its lightly feathered body and its head bears a horrific but brightly colored razor-sharp beak
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quetzalcoatlus)
 ```encounter-table
 name: Quetzalcoatlus

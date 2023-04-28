@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Torturer Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 59
 desc_short: Spinning blades, long needles, and crystal-tipped rods stud the surface of this hovering metallic sphere.
 ```
-# Description
+## Description
 Torturer robots, nicknamed “murderballs” by enemies of the Technic League, were built to extract information from prisoners. Murderballs administer pain in a detached fashion, repeating questions over and over while their heuristic programming analyzes the truth and completeness of responses. Their job demands detailed knowledge of human anatomy and the capacity to revive a dying patient, leading some to serve double-duty as field medics and surgeons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Torturer%20Robot)
 ```encounter-table
 name: Torturer Robot

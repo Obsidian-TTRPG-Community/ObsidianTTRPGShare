@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ancient Forest Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
   - name: Bestiary 3
     desc: 95
 ```
-# Description
+## Description
 Forest dragons, or dilung, are fickle and malevolent dragons that dwell in deep, rugged woodlands. While a forest dragon can fly, it prefers to stalk the earth, flying only to pursue objects of its wrath.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ancient%20Forest%20Dragon)
 ```encounter-table
 name: Ancient Forest Dragon

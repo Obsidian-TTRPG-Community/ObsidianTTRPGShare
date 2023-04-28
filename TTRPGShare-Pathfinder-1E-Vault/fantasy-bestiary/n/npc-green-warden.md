@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Green Warden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: NPC Codex
     desc: 200
 ```
-# Description
+## Description
 Protectors of the forest, green wardens are sworn to defend their sylvan homes from enemy encroachment, using magic arrows to kill from the trees’ canopy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Green%20Warden)
 ```encounter-table
 name: NPC Green Warden

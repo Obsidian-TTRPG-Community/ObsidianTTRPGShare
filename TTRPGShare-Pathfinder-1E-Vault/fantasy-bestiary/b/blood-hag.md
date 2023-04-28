@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 19
 desc_short: This woman would be pretty if it were not for her sharp teeth and nails, and her ghastly pale skin.
 ```
-# Description
+## Description
 Blood hags, known to some as soucouyants, prefer to live near isolated human communities or on the edge of civilized lands. A blood hag takes the appearance of a young woman by day. At night, she assumes her true form, as her skin peels back and sloughs off to reveal the monstrosity beneath.
 
 A hunting blood hag preys on unsuspecting neighbors during the night, sneaking into their homes and feeding off their blood or burning them alive. When a blood hag finds a particularly choice victim, she forgoes simply feeding on her, and instead abducts her, spiriting her away to the hag’s hidden lair, where she’ll be tortured and drained dry of blood over the course of days or weeks. Once the hag has properly prepared the victim’s skin, she wears it. Bold and particularly clever blood hags attempt to masquerade as their victims for a time.
 
 Blood hags of exceptional talent typically gain levels in the witch class.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Hag)
 ```encounter-table
 name: Blood Hag

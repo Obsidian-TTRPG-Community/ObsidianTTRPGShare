@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Successful Merchant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 263
 ```
-# Description
+## Description
 A successful merchant is pleasant to customers but often an impatient taskmaster to his employees. He has spent a lifetime thinking of ways to avoid physical work and complains if expected to lend a hand. He considers himself better than anyone dumber or poorer than he is.
 
 The above stat block can be used for any skilled NPC whose profession relies on observation, intimidation, and diplomacy, such as a diplomat, innkeeper, lawyer, or caravan leader.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Successful%20Merchant)
 ```encounter-table
 name: NPC Successful Merchant

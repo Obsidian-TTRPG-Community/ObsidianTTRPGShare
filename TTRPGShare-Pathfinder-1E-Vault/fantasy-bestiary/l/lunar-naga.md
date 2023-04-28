@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lunar Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 197
 desc_short: Stark white hair frames the fair face of this snake-bodied woman, and its black scales sparkle hypnotically.
 ```
-# Description
+## Description
 Lunar nagas are patient watchers of the night sky. They enjoy cosmology and believe strongly in astrology, maintaining a handful of complex zodiacs. A few lunar nagas even bear knowledge of the unspeakable things from the dark spaces between the stars. A lunar naga stretches over 10 feet from its pale face to the tip of its tail, and weighs close to 200 pounds.
 
 Nocturnal creatures, lunar nagas often live in ruined towers or atop mountains-any place open to the sky at night. There they peer through astrological devices, closely monitoring passing celestial markers, eager to decipher more of the universe. Those living underground make nightly trips to the open sky when they can. Cloudy nights make lunar nagas agitated, and a creature is more likely to run afoul of a lunar naga on these dark evenings.
 
 Lunar nagas sometimes lead small cults of sky-watchers. These followers aid the nagas in recording tome upon tome of calculations of the stars and planets moving through the inky black of the night sky. In small doses tempered with water, fruit juices, and alcohol, lunar naga venom is mildly hallucinogenic. The nagas’ cultist allies often take the substance as a ritualistic drug.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lunar%20Naga)
 ```encounter-table
 name: Lunar Naga

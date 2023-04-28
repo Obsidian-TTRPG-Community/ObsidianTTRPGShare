@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vukodlak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 272
 desc_short: This feral, black-furred creature combines the features of a wolf and those of a horse, with a fanged muzzle and glowing red eyes.
 ```
-# Description
+## Description
 Vukodlaks spawn from the malignant spirits of powerful, intelligent, wolf like creatures such as worgs, winter wolves, or werewolves. Often they arise from such creatures that-through desperation or depravity-fed on undead f lesh or drank the blood of a vampiric creature. Their blackened souls arise after death, twisting their bodies into monstrous shapes. Like vampires, vukodlaks share an insatiable thirst for blood.
 
  Vukodlaks measure 8 feet long and 6 feet tall at the shoulder, and they weigh 1,000 pounds. A vukodlak typically walks on all fours, and from a distance can easily be mistaken for a large, shaggy horse. However, it has a distinct wolf like muzzle filled with sharp canine teeth, as well as other wolfish features. Vukodlaks possess monstrous strength, making them ideal mounts for powerful undead masters or other evil creatures. While serving as mounts, they keep to all fours, and might easily be mistaken for worgs or great fanged horses. Masters seeking to control vukodlaks find the most success relying on fear and intimidation, as well as providing a constant source of blood for the creature to feed upon. Vukodlaks share a natural kinship with vampires and often serve them willingly.
@@ -63,7 +65,7 @@ Vukodlaks spawn from the malignant spirits of powerful, intelligent, wolf like c
  Vukodlaks without masters often form small packs. These packs annihilate all life in entire areas, overfeeding until destroyed or forced to move on. Vukodlaks hate sunlight and hunt only at night, making their lairs in deep caves or ruins. They don’t care for treasure; anything of worth found in a vukodlak lair is simply something its latest victim was carrying that the beast couldn’t eat.
 
  Although vukodlaks don’t appear undead at first glance, any creature that wounds one or finds a vukodlak corpse can tell they’re not living creatures-their bodies being largely hollow, filled with the rotten, stinking remains of organs that ceased functioning long ago.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vukodlak)
 ```encounter-table
 name: Vukodlak

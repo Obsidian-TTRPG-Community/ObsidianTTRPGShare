@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vulpinal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 62
 desc_short: This bright-eyed, anthropomorphic fox is dressed in simple traveling clothes and carries a musical instrument in one hand. 
 ```
-# Description
+## Description
 Among the smallest of the agathions, vulpinals tend to be the most outspoken and friendly of their kind, and also the most far-ranging across the planes. A vulpinal looks like a humanoid fox, often with brilliantly colored fur (usually red or red-brown, though silver is not uncommon) and a tail as long as its height. As the bards and sages of the agathions, they dress in functional clothing, typically embellishing a single article to show their creativity and personality. Most appear to be adults, though others look more like fox kits (with shorter stature and larger eyes) while some look much older (leaner, with gray fur on the muzzle, chest, and tail). Their hands are humanoid in shape, with tiny clawed fingers. 
 
 A typical vulpinal prefers a life of solitary travel, though they have been known to pair up or travel in groups if they find like-minded individuals who have much to teach and share. They are particularly fond of lillends, and these winged azatas can easily carry the child-sized vulpinals, giving vulpinals many opportunities to share stories. Indeed, for a vulpinal, there are few greater pleasures than sharing their knowledge-acting as sages of the planes, teaching songs and dances from exotic places, and composing poems about beautiful places in the natural world. Though they are gentle by nature, they fight to defend beauty, especially if their magic can bolster the more martial celestial races. 
 
 A vulpinal stands about 3 feet in height and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vulpinal)
 ```encounter-table
 name: Vulpinal

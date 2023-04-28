@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spiny Starfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 206
 desc_short: This brightly colored, star-shaped creature has many spines growing from its five arms.
 ```
-# Description
+## Description
 Spiny starfish are marine invertebrates that wander the sea floor in search of mollusks and other slow-moving prey. Their tube feet afford them an excellent grip on their chosen food source, and they can famously expel their stomachs into subdued shellfish to digest their meals. An injured spiny starfish heals wounds quickly, even regrowing lost limbs over time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spiny%20Starfish)
 ```encounter-table
 name: Spiny Starfish

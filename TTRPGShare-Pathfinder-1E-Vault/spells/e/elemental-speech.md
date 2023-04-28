@@ -1,25 +1,27 @@
 ---
-alias: Elemental Speech
+aliases: [Elemental Speech]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Elemental Speech 
+## Elemental Speech
 
 **source**:: Advanced Player's Guide pg. 218  
 **school**:: divination (air, earth, fire, or water)
 **level**:: arcanist 2, bard 3, cleric 3, druid 2, hunter 2, mesmerist 3, oracle 3, skald 3, sorcerer 2, warpriest 3, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (iron filings)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 This spell enables you to converse with creatures associated with a chosen element, including but not limited to true elemental creatures. This spell gains the elemental subtype based on the version of the spell you cast. *Elemental speech* does not guarantee a friendly reaction; it merely enables communication. You may converse with all creatures of the selected type with an Intelligence score of 1 or greater, even if they do not understand one another.  
   

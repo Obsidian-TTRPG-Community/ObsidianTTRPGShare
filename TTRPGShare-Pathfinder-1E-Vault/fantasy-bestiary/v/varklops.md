@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Varklops
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 170
 desc_short: This immense, fiery-orange serpent has three horned heads, a pair of draconic wings, and a long tail tipped with four bony spikes.
 ```
-# Description
+## Description
 Lord Varklops is indisputably the most powerful of the known kaiju, a tremendously destructive force of devastation that dwells in the heart of an active volcano in a tropical mountain range when not hunting his favorite prey-other kaiju. Although the fact that Lord Varklops so eagerly hunts and slays kaiju might seem to make him an ally of all civilizations threatened by such creatures, in truth Varklops is also one of the few kaiju to be actively evil in his predations upon the world. When no other kaiju present themselves as victims and the urge to destroy seizes Varklops, the socalled Thrice-Headed Fiend thinks nothing of razing entire cities for his pleasure. 
 
 This eagerness to destroy appeals to apocalypse-minded cultists and to deranged exiles who seek revenge against the cities they were forced to flee. Varklops is known to look favorably upon those who approach him with requests for targeted devastation-particularly if the offer includes the opportunity to attack another kaiju. Varklops has little interest in assaulting civilizations in polar regions, but his greatest weakness is his inflated, if rudimentary, ego. 
@@ -78,7 +80,7 @@ This eagerness to destroy appeals to apocalypse-minded cultists and to deranged 
 When facing multiple kaiju, Varklops often gets distracted and frustrated-a condition that several societies have risked using to their advantage by luring other kaiju to their defense. Of course, the devastation a city might suffer when three or more kaiju fight may well exceed that wrought by Varklops alone, so such desperate actions are not taken lightly. 
 
 Varklops has a particularly strong hatred of King Mogaru, as this kaiju alone can resist Varklops’s rage. The reasons for this immunity are unknown, but certainly Mogaru matches Varklops’s hatred, and battles between the two kaiju are the stuff of legend. Varklops is 200 feet long and weighs 16,000 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Varklops)
 ```encounter-table
 name: Varklops

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Battlemind Link
+aliases: [Mythic Battlemind Link]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Battlemind Link
+## Mythic Battlemind Link
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: divination (mind-affecting)
 **level**:: arcanist 6, inquisitor 4, medium 4, mesmerist 4, occultist 5, psychic 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal and close (25 ft. + 5 ft./2 levels)  
 **target**:: you and 1 ally  
@@ -21,7 +23,7 @@ alias: Mythic Battlemind Link
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You fuse your thoughts with an ally’s, allowing the two of you to fight in tandem, perfectly coordinated. You and the ally each roll initiative in combat and use the higher die result before adding modifiers. This has three effects.  
   

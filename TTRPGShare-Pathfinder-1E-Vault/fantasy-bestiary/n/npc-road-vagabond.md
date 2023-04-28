@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Road (Vagabond)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,7 +40,7 @@ sources:
   - name: GameMastery Guide
     desc: 291
 ```
-# Description
+## Description
 Vagabonds are drifters who wander the roads, picking up odd jobs but rarely letting the sun set on them in the same place twice. Vagabonds have a few skills that can help them get odd jobs in communities they pass through, but often possess skills in combat as well, as no road is ever truly safe.
 
 Vagabonds serve well as hunters, woodsmen, and herders who live on the fringes of society. A vagabond might also work as a traveling peddler or merchant, or serve as a scout for a town militia.
@@ -46,7 +48,7 @@ Vagabonds serve well as hunters, woodsmen, and herders who live on the fringes o
 Vagabonds make good low-level archers, and this skill can be improved by replacing the Alertness feat with Far Shot, Precise Shot, or Weapon Focus (longbow). Alternatively, you can replace the archery feats with Power Attack and Toughness to make a vagabond better in melee combat.
 
 Vagabonds are usually loners, but may partner with a caravan guard, storyteller, or pair of farmers (CR 3). Two vagabonds might join a troupe of four wanderers (CR 7), or occasionally travel in small groups of four, accompanied by a single wanderer, pilgrim, or trapper (CR 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Road%20(Vagabond))
 ```encounter-table
 name: NPC Road (Vagabond)

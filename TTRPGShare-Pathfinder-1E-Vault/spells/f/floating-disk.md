@@ -1,19 +1,21 @@
 ---
-alias: Floating Disk
+aliases: [Floating Disk]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Floating Disk 
+## Floating Disk
 
 **source**:: PRPG Core Rulebook pg. 284  
 **school**:: evocation (force)
 **level**:: arcanist 1, magus 1, occultist 1, psychic 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of mercury)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 3-ft.-diameter disk of force  
@@ -21,11 +23,11 @@ alias: Floating Disk
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a slightly concave, circular plane of force that follows you about and carries loads for you. The disk is 3 feet in diameter and 1 inch deep at its center. It can hold 100 pounds of weight per caster level. If used to transport a liquid, its capacity is 2 gallons. The disk floats approximately 3 feet above the ground at all times and remains level. It floats along horizontally within spell range and will accompany you at a rate of no more than your normal speed each round. If not otherwise directed, it maintains a constant interval of 5 feet between itself and you. The disk winks out of existence when the spell duration expires. The disk also winks out if you move beyond its range or try to take the disk more than 3 feet away from the surface beneath it. When the disk winks out, whatever it was supporting falls to the surface beneath it.
 
-## Mythic Floating Disk 
+## Mythic Floating Disk
 
 **source**:: Mythic Adventures pg. 95  
 The disk created by this spell lasts for 2 hours per caster level and can carry up to 200 pounds of weight per caster level.  

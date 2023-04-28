@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 219
 desc_short: This giant humanoid has massive tusks, warty green hide sprouting bone spikes, and forearms thicker than its meaty legs.
 ```
-# Description
+## Description
 A mythic troll’s skin is nearly as hard as stone, with bony growths, ornamental head spikes, and oversized teeth adding to its already grotesque visage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Troll)
 ```encounter-table
 name: Mythic Troll

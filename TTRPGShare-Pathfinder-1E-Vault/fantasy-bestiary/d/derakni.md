@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Derakni
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 43
 desc_short: The size of a horse, this demonic locust has a scorpion’s stinger and an almost-human face. Its front legs end in clawed hands. 
 ```
-# Description
+## Description
 Deraknis, also known as locust demons, are among Deskari’s favorite minions, both in the Abyss and in the Worldwound. Great flights of these creatures plague the skies above the Wounded Lands in particular, but they can be encountered anywhere in the Worldwound. These creatures’ leering humanoid visages are armored with chitinous plates, and their front feet end in small claws that look strangely like human hands. A derakni can use these hands to manipulate objects or wield items, but generally eschews using weapons or shields entirely. 
 
 Often, deraknis are encountered in the vicinity of hives of vescavors (Pathfinder Campaign Setting: Lost Kingdoms 50). Indeed, vescavor swarms eagerly serve deraknis as minions, and, save for truly unusual circumstances, a derakni never needs to worry about taking damage from or being distracted by a vescavor swarm that shares its space. Deraknis typically aid in the devastation of large regions, often in preparation for the advance of larger demonic armies, and the Worldwound is one of their crowning glories. 
 
 A derakni is 14 feet long and weighs 1,200 pounds. These wretched demons arise from the souls of those who, in life, purposefully engineered disasters or aided in their development-particularly souls whose disasters resulted in mass famines or droughts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Derakni)
 ```encounter-table
 name: Derakni

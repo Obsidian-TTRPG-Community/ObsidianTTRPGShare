@@ -1,19 +1,21 @@
 ---
-alias: Sentry Skull
+aliases: [Sentry Skull]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sentry Skull 
+## Sentry Skull
 
 **source**:: Advanced Race Guide pg. 143  
 **school**:: necromancy (evil)
 **level**:: antipaladin 1, arcanist 2, cleric 2, oracle 2, sorcerer 2, warpriest 2, witch 2, wizard 2 (orc)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (an onyx gem worth at least 10 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: severed head touched  
@@ -21,7 +23,7 @@ alias: Sentry Skull
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24 hours, creating a grisly sentinel. The head must be affixed to a pole, spear, tree branch, or other stable object, and the spell ends if the head or its object is moved. The head has darkvision 60 feet and low-light vision, can swivel in place to look in any direction, and has a +5 bonus on Perception checks.  
   

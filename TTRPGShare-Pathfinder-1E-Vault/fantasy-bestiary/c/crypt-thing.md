@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crypt Thing
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 60
 desc_short: Shreds of leathery flesh cling to this skeletal figure’s body, while twin motes of fiery light glow deep in its eye sockets. 
 ```
-# Description
+## Description
 Crypt things are undead creatures found guarding tombs, graves, and crypts. Necromancers and other spellcasters create them to guard such areas, and the crypt things never leave their appointed lairs, even to pursue enemies. Their warded area may be a single room or passage, an entire grave complex, or even a city-sized necropolis. Though naturally solitary, multiple crypt things may guard a common area, often in conjunction with constructs or other undead. 
 
 A crypt thing only initiates combat if it is attacked or if the object or crypt it is guarding is touched or entered. Until this condition is met, a crypt thing is content to remain motionless-it may even answer questions or otherwise interact with visitors if its master has directed it to do so. Rumors exist of variant crypt things that do not teleport their foes, but instead paralyze opponents and turn them invisible, leaving victims to helplessly watch their allies being torn apart by the angry guardian.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crypt%20Thing)
 ```encounter-table
 name: Crypt Thing

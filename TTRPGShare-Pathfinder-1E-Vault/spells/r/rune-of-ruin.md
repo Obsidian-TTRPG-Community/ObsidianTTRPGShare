@@ -1,19 +1,21 @@
 ---
-alias: Rune of Ruin
+aliases: [Rune of Ruin]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rune of Ruin 
+## Rune of Ruin
 
 **source**:: Arcane Anthology pg. 22  
 **school**:: transmutation (curse)
 **level**:: alchemist 4, arcanist 5, bard 4, inquisitor 4, investigator 4, skald 4, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a self-portrait on a thin sheet of paper)
 
-### Effect 
+### Effect
 
 **range**:: Medium (100 ft. plus 10 ft./level)  
 **target**:: 1 object  
@@ -21,7 +23,7 @@ alias: Rune of Ruin
 **saving-throw**:: Fortitude negates (object)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You curse a magic item, such as magical clothing, a suit of armor, or a weapon. The object is reduced to 1/4 its normal hit point total, gains the broken condition, and appears damaged and worn. If it grants a numeric bonus, such as a +2 deflection bonus to AC, that bonus is reduced by 1 for every 3 caster levels you possess, to a minimum of +0. Other magical qualities fail to work 50% of the time when called upon, so a resistance bonus on saves or a weapon’s *flaming* special ability could fail each time the item is used.  
   

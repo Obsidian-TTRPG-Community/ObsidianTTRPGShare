@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tiyanak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 248
 desc_short: With the size and appearance of a small child, this wrinkled grey figure has crimson eyes and jagged teeth.
 ```
-# Description
+## Description
 Born of tragedy and sorrow that have warped into hatred and fury, tiyanaks are formed from the souls of infants or young children that died near locales tainted with strong necromantic energies or demonic presences. The young soul blends with the corrupted energies, birthing a stunted and mocking apparition of the deceased, obsessed with devouring nearby sentient life. Humanoid in shape, tiyanaks resemble gray-skinned children with shriveled skin, deformed limbs, and patchy hair. A tiyanak’s arms end in sharp claws and their mouths are lined with rows of needlelike teeth. A tiyanak typically reaches a height of only 2-1/2 feet, but weighs between 50 and 75 pounds. Tiyanaks use telepathy to communicate their own wretched anger to all those that come close, and infuse their teeth and claws with despair, making them sharper than any blade.
 
  Tiyanaks hunger for the blood of humanoids, and use their mimicry to emulate the sounds of crying children, attempting to lure unsuspecting people to their side. Once one of these helpful souls draw close, a tiyanak either tries to dispatch its prey with natural attacks, or uses its suggestion ability to convince its target to bring it closer to a humanoid settlement of any kind, where it can torment the family that takes it in and find additional victims. Against multiple enemies, a tiyanak uses its crushing despair and shout spell-like abilities before picking a specific target and attempting to gorge itself on its victim’s blood. Despite their single-minded hatefulness, tiyanaks will f lee if overpowered, but they typically do not wander far from their point of origin. They have not entirely forgotten the children they once were, and though they loathe their former communities, the sorrowful echoes of their lives make them reticent to move far beyond the places they once thought of as home.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tiyanak)
 ```encounter-table
 name: Tiyanak

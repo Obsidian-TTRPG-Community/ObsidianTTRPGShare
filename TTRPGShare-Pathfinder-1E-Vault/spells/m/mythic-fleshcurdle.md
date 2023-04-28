@@ -1,19 +1,21 @@
 ---
-alias: Mythic Fleshcurdle
+aliases: [Mythic Fleshcurdle]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fleshcurdle
+## Mythic Fleshcurdle
 
 **source**:: Mythic Origins pg. 12  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 2, redmantisassassin 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (scrap of pickled flesh)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living or undead creature  
@@ -21,7 +23,7 @@ alias: Mythic Fleshcurdle
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You warp the target creature’s flesh, discoloring it and causing it to become misshapen and impairing its function. When you cast this spell, you must choose one of three types of effects to inflict on the target-movement, attacks, or defense.  
   

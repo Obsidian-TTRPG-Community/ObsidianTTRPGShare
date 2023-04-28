@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zygomind
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 286
 desc_short: This enormous fungus looks like a cage, and a strange glow emanates from within.
 ```
-# Description
+## Description
 Civilizations across the Material Plane fear many disasters-hurricanes, earthquakes, plagues, and more- but few things spell doom for a settlement with such insidious certainty as a f lourishing zygomind. These massive fungi f loat through space as ethereal spores, spreading their cloying mycelia wherever creatures of intelligence thrive. The presence of a young zygomind is at first innocuous and difficult to detect, as animals and other creatures of low intelligence begin to disappear. Eventually, more intelligent creatures track their prey to the site and become lost themselves, wandering back toward civilization days or even weeks later as infected undead, dominated with the instinct to bring ever-greater intellects into the zygomind’s power. Over the course of only a few months, a growing zygomind can decimate a small city, rapidly accelerating its growth into a 500-foot monstrosity.
 
  By the time a zygomind becomes visible above the treeline, it is likely too late for the intelligent life of the region; the zygomind’s insidious psychic trap defeats any resistance that most such creatures can mount. Frequently, those investigating the zygomind slip seamlessly into an alternate reality without realizing that they’ve fallen under the power of the very thing they sought to destroy. A zygomind’s mindscape only becomes more convincing as it subtly enslaves more and more minds-the fungus can reconstruct whole cities, even as the real-world inhabitants of those settlements proceed somnambulistically into the zygomind. Entire armies have marched upon mature zygominds, intent on ridding the region of the scourge, only to halt their assault mid-charge and plod calmly, rank by rank, into the zygomind’s physical and psychic grasp. The cruel irony of the plant’s trap is that these soldiers likely live the rest of their lives believing themselves victorious, forming memories of defeating the insidious fungus, returning home to their loving families, and eventually dying after a long and productive life, while in the real world the zygomind’s mycelium sucks the nutrients from their helpless bodies and transforms them into undead minions.
@@ -74,7 +76,7 @@ Civilizations across the Material Plane fear many disasters-hurricanes, earthqua
  Depending on how long a zygomind has infested an area, a creature who is able to avoid being trapped in the mindscape could find a veritable hoard of weapons, armor, and magic items within the cage of its body, discarded as the bodies that brought them withered away, then rose as undead. Of course, a canny adventurer must always be aware that the discovery of such a trove within the fungus could simply be one more illusion imposed by the zygomind’s mindscape. Once a creature has had contact with a zygomind, it can never again truly be certain that the world it inhabits is the real one without the aid of powerful psychic magic or of those familiar with the logic and perils of mindscapes-yet even then, the zygomind smoothly creates the illusions of such individuals and abilities to reassure victims that they are indeed free.
 
  When fully grown, a zygomind can reach a height of 500 feet, and its mycelium can stretch for 10 miles in all directions, comprising hundreds of tons of biomass. The main cage is usually 25-40 feet in diameter and weighs around 40,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zygomind)
 ```encounter-table
 name: Zygomind

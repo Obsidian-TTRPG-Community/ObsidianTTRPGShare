@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Empress Bore Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 82
 desc_short: Reddish pus oozes from the stained, ochre hide of this immense worm. Thousands of forms wriggle beneath its translucent skin, causing the skin to ripple in a roiling, sickening motion.
 ```
-# Description
+## Description
 A single, finger-length bore worm has never been much of a threat to any one creature, but isolated bore worms are found only in laboratories. Bore worm swarms, as they are more commonly encountered, consume organic material with a voracious appetite, tunneling through the earth like water as they reach progressively larger sizes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Empress%20Bore%20Worm)
 ```encounter-table
 name: Empress Bore Worm

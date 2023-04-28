@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Jellyfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 170
 desc_short: The bell of this enormous amber jellyfish is as large as a carriage. A sinister bloom of tentacles dangles and writhes below.
 ```
-# Description
+## Description
 Unlike its smaller cousins, the giant jellyfish is an active predator that seeks out prey. Capable of slithering through narrow cracks, a giant jellyfish is a horrifying beast to encounter lurking in the hold of a flooded or sunken ship. Other species of these vermin exist, as summarized on the following table-these variants often have different types of poison or other abilities like translucency or constriction. 
 
  SpeciesCRSizeHD Death’s head jellyfish1Small2 Crimson jellyfish4Medium5 Sapphire jellyfish11Huge12 Vampire jellyfish14Gargantuan16 Whaler jellyfish17Colossal20
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Jellyfish)
 ```encounter-table
 name: Giant Jellyfish

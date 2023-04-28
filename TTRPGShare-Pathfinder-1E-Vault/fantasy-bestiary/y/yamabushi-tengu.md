@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yamabushi Tengu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 88
 desc_short: This humanoid creature has a fearsome mien, with a cruel red face, glaring yellow eyes, a prodigious nose, and large ravenlike wings.
 ```
-# Description
+## Description
 Yamabushi tengus are oni with a predilection toward thievery and trickery, wearing the flesh of wicked, fiendish tengus. When a yamabushi tengu first appears, its first course of action is invariably to seek out a well-hidden nest or other nook to serve as a lair. Despite their ability to fly, most yamabushi tengus are nervous in open areas, since it’s easy to be seen in such environs. A yamabushi tengu is more at home indoors or at night, where it can skulk in the shadows when it’s unsure of its surroundings.
 
 A yamabushi tengu is 5 feet tall and weighs 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yamabushi%20Tengu)
 ```encounter-table
 name: Yamabushi Tengu

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Lucky Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
   - name: NPC Codex
     desc: 168
 ```
-# Description
+## Description
 The lucky mage uses her magic, innate talents and good fortune to survive incredible odds with barely a scratch. Rather than depend on this strange fortune, however, the lucky mage constantly strives to understand and harness her unique abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Lucky%20Mage)
 ```encounter-table
 name: NPC Lucky Mage

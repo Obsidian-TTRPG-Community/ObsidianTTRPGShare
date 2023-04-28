@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Wyrm Red Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,7 +85,7 @@ sources:
     desc: 190
 desc_short: A ruddy glow emanates from beneath this dragon’s red, gemencrusted scales, like lava visible between cracks of cooling stone.
 ```
-# Description
+## Description
 Few creatures inspire such dread as the magnificently wrathful red dragons, and the ones with mythic power are even more fearful. They are the embodiments of destruction, hatred, and draconic arrogance. Magnificent and utterly frightening to behold, mythic red dragons possess a fierce beauty that exceeds all other dragons. From their powerful jaws, capable of snapping iron bars and the masts of ships, to their muscular tails, which can crash through stone walls as easily as whips break skin, red dragons ref lect predatory superiority and murderous perfection. A mythic red dragon’s body has cordlike muscles that allow it to move more quickly and gracefully than a creature of its size should have a right to.
 
 Villains of the worst kind, mythic red dragons are unflinchingly evil in ways rarely matched even by other mythic evil creatures. Their destructive impulses and wrathful fiery rampages surprise and delight the most heinous demons. These legendary dragons demand annual royal sacrifices or tribute in slaves, and think nothing of working their underlings to death.
@@ -91,7 +93,7 @@ Villains of the worst kind, mythic red dragons are unflinchingly evil in ways ra
 An older mythic red dragon spends little time out of its lair, and when it does emerge it prefers to attack humanoid settlements away from the immediate vicinity, burning down buildings, dropping peasants from great heights, and demanding coins and other treasures. This raiding pattern makes it difficult for would-be dragonslayers to find the creature’s actual lair.
 
 Mythic red dragons use their magic to protect their lairs with a variety of protective spells. A typical lair also contains slave-built mundane traps, environmental hazards such as steam vents poisonous fumes, and (if within an active volcano) molten rock as part of its defenses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Wyrm%20Red%20Dragon)
 ```encounter-table
 name: Mythic Wyrm Red Dragon

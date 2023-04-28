@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Death’s Head Jellyfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 155
 desc_short: This long-tentacled jellyfish has a wide bell with a vaguely skull-shaped pattern on it.
 ```
-# Description
+## Description
 Most common in warm or temperate waters, the death’s head jellyfish is an aggressive predator. The creature derives its name from the pattern on its 4-foot-wide bell and from the poison it delivers with its tentacles. Those unfortunate enough to be subjected to this toxin develop rigor of the facial muscles that results in a wide-eyed grimace if left untreated.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Death%E2%80%99s%20Head%20Jellyfish)
 ```encounter-table
 name: Death’s Head Jellyfish

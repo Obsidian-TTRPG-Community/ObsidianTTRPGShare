@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pony
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,13 +42,13 @@ sources:
     desc: 177
 desc_short: This squat equine plods forward with large, curious eyes. As it nears, it extends its muzzle, clearly expecting a treat.
 ```
-# Description
+## Description
 Ponies are smaller breeds of horses better suited to halflings, gnomes, and dwarves, but they also make fond pets for humans as well. They stand 3 to 4 feet tall and weigh about 600 pounds.
 
 A light load for a pony is up to 100 pounds, a medium load is 101-200 pounds, and a heavy load is 201-300 pounds. A pony can drag 1,500 pounds.
 
 The statistics presented above are for a typical pony. Tougher ponies with the advanced simple template exist, but are relatively uncommon and, unlike horses, these creatures are not generally called “heavy ponies.” Like horses, ponies can be trained for combat with the Handle Animal skill, and such mounts often serve halflings, gnomes, and other small races as steeds in combat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pony)
 ```encounter-table
 name: Pony

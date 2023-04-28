@@ -1,19 +1,21 @@
 ---
-alias: Resilient Reservoir
+aliases: [Resilient Reservoir]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Resilient Reservoir 
+## Resilient Reservoir
 
 **source**:: Advanced Race Guide pg. 49  
 **school**:: transmutation
 **level**:: arcanist 4, magus 3, mesmerist 3, paladin 3, psychic 4, redmantisassassin 4, sorcerer 4, witch 4, wizard 4 (half-elf)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **area**:: special, see text  
@@ -21,7 +23,7 @@ alias: Resilient Reservoir
 **saving-throw**:: none (see below)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Upon casting this spell, damage from melee attacks and touch spells gets transferred into a special pool that you then redirect before the spell’s duration expires.  
   

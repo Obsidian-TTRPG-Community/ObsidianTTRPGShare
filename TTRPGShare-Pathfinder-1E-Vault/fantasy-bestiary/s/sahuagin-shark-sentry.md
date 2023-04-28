@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sahuagin Shark Sentry
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: Monster Codex
     desc: 192
 ```
-# Description
+## Description
 Shark speakers prefer the company of vicious fish over other sahuagin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sahuagin%20Shark%20Sentry)
 ```encounter-table
 name: Sahuagin Shark Sentry

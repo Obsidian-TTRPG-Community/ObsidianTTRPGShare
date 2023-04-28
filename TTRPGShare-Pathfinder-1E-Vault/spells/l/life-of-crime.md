@@ -1,19 +1,21 @@
 ---
-alias: Life of Crime
+aliases: [Life of Crime]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Life of Crime 
+## Life of Crime
 
 **source**:: Ultimate Intrigue pg. 218  
 **school**:: enchantment (compulsion) (curse, mind-affecting)
 **level**:: antipaladin 4, arcanist 8, bard 6, mesmerist 6, psychic 8, skald 6, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a black mask)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Life of Crime
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You unleash the basest instincts of iniquity in the target and cause them to become his overriding reason for being. The target neither gains nor provides benefit from teamwork feats or the aid another action and can’t willingly accept harmless magical effects from others.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Grim White Stag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
     desc: 82
 desc_short: This gigantic stag-like being blurs the line between plant and beast, its horns branching like the limbs of some ancient, leaf less tree.
 ```
-# Description
+## Description
 Erastil’s herald is rarely seen more than once in a given generation, and only when a settlement is in mortal danger. All good creatures of the forest recognize its near-divinity and come when they hear its bugling call. Other than its mighty summons, it does not speak to humanoids. It stands 60 feet tall and weighs approximately 140 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Grim%20White%20Stag)
 ```encounter-table
 name: The Grim White Stag

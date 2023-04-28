@@ -1,19 +1,21 @@
 ---
-alias: Sense Madness
+aliases: [Sense Madness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sense Madness 
+## Sense Madness
 
 **source**:: Horror Adventures pg. 127  
 **school**:: divination
 **level**:: cleric 2, inquisitor 2, medium 2, occultist 2, oracle 2, paladin 2, psychic 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: creatures in range (see text)  
@@ -21,7 +23,7 @@ alias: Sense Madness
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can sense the presence of mental disturbance in creatures within range, focusing your detection on one creature each round. If the target is currently suffering from any form of madness (see page 182) or addiction (*GameMastery Guide 236*), has total sanity damage greater than or equal to its sanity edge (see page 12), or is under a magical compulsion that could be detected by *detect magic*, you can detect the presence of such a disturbance on the first round of concentration.  
   

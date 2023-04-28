@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gallerok
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 82
 desc_short: This stout, serpentine creature’s body ripples with muscle. Jagged fangs line its broad, powerful jaws.
 ```
-# Description
+## Description
 Distant cousins of so-called glass lizards, galleroks appear to be stout-bodied serpents. These descendants of crocodilian reptiles long ago shed their legs to more easily navigate the confines of the Darklands. They still retain powerful shoulders and hips, however, allowing them to flatten their bodies and glide for long distances, crossing underground chasms and swooping on prey from above. Galleroks are primarily ambush hunters. One drow-sized meal can sate a creature for weeks, but just before nesting, a mother gorges herself so she can lay eggs and guard her brood without sleeping or hunting-for 6 months.
 
  Most Darklands residents believe that galleroks are a legacy of the long-fallen xulgath empire, where they served as guard animals. Many troglodyte tribes still keep some of the otherwise antisocial serpents to protect their territory or help hunt more dangerous beasts.
 
  The average gallerok measures 12 feet long and weighs 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gallerok)
 ```encounter-table
 name: Gallerok

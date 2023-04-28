@@ -1,19 +1,21 @@
 ---
-alias: Teleport
+aliases: [Teleport]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Teleport 
+## Teleport
 
 **source**:: PRPG Core Rulebook pg. 358  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 5, magus 5, medium 4, occultist 5, psychic 5, sorcerer 5, spiritualist 5, summoner 4, summoner (unchained) 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal and touch  
 **target**:: you and touched objects or other touched willing creatures  
@@ -21,7 +23,7 @@ alias: Teleport
 **saving-throw**:: none and Will negates (object)
 **spell-resistance**:: no and yes (object)
 
-### Description 
+### Description
 
 This spell instantly transports you to a designated destination, which may be as distant as 100 miles per caster level. Interplanar travel is not possible. You can bring along objects as long as their weight doesn't exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. As with all spells where the range is personal and the target is you, you need not make a saving throw, nor is spell resistance applicable to you. Only objects held or in use (attended) by another person receive saving throws and spell resistance.  
   
@@ -49,4 +51,3 @@ To see how well the teleportation works, roll d% and consult the table at the en
 | Seen casually     | 01-88         | 89-94          | 95-98            | 99-100     |
 | Viewed once       | 01-76         | 77-88          | 89-96            | 97-100     |
 | False destination | \-            | \-             | 81-92            | 93-100     |
-

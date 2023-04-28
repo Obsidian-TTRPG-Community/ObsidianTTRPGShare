@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Herne
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 86
 desc_short: Seemingly one with the forest, this tall man is dressed in the browns and greens of a woodsman and sports a pair of stag’s antlers upon his brow.
 ```
-# Description
+## Description
 For nearly a century, the Estrovian Forest has been haunted by stag-horned woodsfolk known as hernes. From Egede to Lackthroat, stories are told of these mysterious beings. Some believe them to be the ghosts of hunters betrayed; others say they are fey spirits who guard the woods; and still other believe them to be fiends summoned by worshipers of the Old Faith. While none of these stories are true, they all contain a kernel of truth.
 
 Hernes superficially resemble the humans from whom they descend, save for the many-pointed antlers which project from their brows. Though they are creatures of flesh and blood, hernes are infused with the spirit of the wild hunt. For the most part, hernes live as humble woodsfolk, reaping the bounty of the forest by their own hands. Yet they are also protectors of the forest, hunting those who abuse it or dare to claim ownership of its reaches. When hernes’ anger is roused, they become the avenging spirits the stories make them out to be.
 
 Hernes tend to be tall and lean. Males stand 6 feet tall or taller-with their antlers adding another foot or so- and weigh around 190 pounds. Female hernes are slightly shorter and lighter, and their antlers are smaller, with fewer points.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Herne)
 ```encounter-table
 name: Herne

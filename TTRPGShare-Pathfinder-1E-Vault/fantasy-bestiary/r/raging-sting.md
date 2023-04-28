@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raging Sting
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 36
 desc_short: Scars and tattoos intersect across this glowering scorpion-bodied man, and his muscles strain against the leather of his armor.
 ```
-# Description
+## Description
 Forces of nature as much as combatants, raging stings tear through their enemies. These passionate but disciplined scorpionfolk drive back invaders by destroying their wagons, killing their draft animals, and capturing their supplies. Few raging stings are genuinely bloodthirsty; instead, most prefer to terrify outsiders with a brief show of brutality by devastating the interlopers’ ability to sustain a camp.
 
 In peacetime, raging stings make up much of a tribe’s labor force, working to preserve important sites. Raging stings see themselves as a natural balance to the desert sands, uncovering ancient works, honing age-worn edges, and treading on intruders rather than being trodden upon.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raging%20Sting)
 ```encounter-table
 name: Raging Sting

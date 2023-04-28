@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mercenary Healer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: NPC Codex
     desc: 44
 ```
-# Description
+## Description
 Mercenary healers exploit loopholes in laws for their own profit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mercenary%20Healer)
 ```encounter-table
 name: NPC Mercenary Healer

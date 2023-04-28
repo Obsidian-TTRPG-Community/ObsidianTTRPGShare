@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elasmotherium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 185
 desc_short: This lumbering, four-legged, rhino-like beast has thick hide and a single immense horn protruding from the top of its head.
 ```
-# Description
+## Description
 The elasmotherium is an enormous rhinoceros with an equally enormous temper-while it is an herbivore, the elasmotherium is incredibly aggressive and often attacks without provocation. 
 
 An elasmotherium is 20 feet long and weighs 8,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elasmotherium)
 ```encounter-table
 name: Elasmotherium

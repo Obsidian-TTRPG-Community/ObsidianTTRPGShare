@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shulsaga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 245
 desc_short: Jagged scales cover this lean humanoid’s sculpted skin, glinting as it soars upon a disk of radiant energy.
 ```
-# Description
+## Description
 Natives of the Astral Plane, shulsagas wish only to be left in peace to ride and hunt the wild voids. Life is rarely so easy, though, as predatory outsiders, mortal travelers, and souls making their passage to the Outer Planes constantly trespass upon the shulsagas’ home plane. Proud and territorial, the disk-riders use their intimate understanding of astral forces to drive interlopers from their territory.
 
 Shulsagas live in a simple but far from primitive hunter society, based around drifting villages that float upon stray chunks of elemental detritus and astral protomatter. They often train the massive beasts of their native plane (such as astral leviathans) to pull and defend their unfettered homes. Because shulsagas endlessly face the deadly beings that travel the Astral Plane, most communities attack strangers rather than risking their lives trying to distinguish friends from foes. Shulsagas speak a raspy dialect of Auran.
 
 A shulsaga is born genderless. It reaches maturity when it’s a century old, and can then will its body toward a gender it will have for the rest of its life. Shulsagas can live to be over 500 years old, but most die earlier in hunts or planar upheavals. They average 7 feet in height and weigh about 240 pounds. Many have levels in ranger or summoner.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shulsaga)
 ```encounter-table
 name: Shulsaga

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cipactli
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -93,7 +95,7 @@ sources:
     desc: 56
 desc_short: This creature is covered in snapping jaws, from its massive, toothy head to the various mouths that open in its body and tail.
 ```
-# Description
+## Description
 Ravenous forces of destruction, cipactlis are created by the gods to scour worlds of specific mortal qualities. It is believed that primal and destructive forces of nature spawned the first cipactli, and that it was wrought upon the world as an insatiable agent of annihilation. Stories claim that the gods saw fault in this creation and set a trap to destroy the first and most powerful cipactli, but such legends suggest that this destruction wasn’t complete. Either the gods’ methods were flawed or other divinities learned how to create new cipactlis, for now these beasts have spread throughout multiple worlds. 
 
 These monsters are individual creations of the gods and voracious devourers of particular elements of the universe. All cipactlis are attuned to certain aspects of their worlds, and when not slumbering in wait, they tear through mortal civilizations in a swath of destructive feasting. Thankfully, these creatures are extremely rare. 
@@ -103,7 +105,7 @@ Essentially ageless, many a cipactli has been defeated by great heroes, only to 
 Though they are destructive creatures, they have immense knowledge of the world. Those who can calm them may learn secrets about the universe to which most mortals are not normally privy. 
 
 A cipactli is 50 feet long and weighs 18,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cipactli)
 ```encounter-table
 name: Cipactli

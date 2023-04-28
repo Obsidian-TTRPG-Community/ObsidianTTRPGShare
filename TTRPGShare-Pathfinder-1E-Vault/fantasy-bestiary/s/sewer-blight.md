@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sewer Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 43
 desc_short: What appears to be a grotesque mass of sewage betrays its true nature with dozens of red eyes and two long, slimy, claw-tipped tentacles.
 ```
-# Description
+## Description
 Sewer blights are unusual among their kind in that they thrive in artificial ecosystems rather than purely natural environs. These oozes prefer to lair in the sewers of large cities, and they see in the foul infestations, toxic fungi, and diseased creatures dwelling in such filthy warrens a sort of perverse rebuttal of civilization by the natural world. Those who dwell in the cities above are their preferred prey. 
 
 A sewer blight is 6 feet in diameter and weighs 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sewer%20Blight)
 ```encounter-table
 name: Sewer Blight

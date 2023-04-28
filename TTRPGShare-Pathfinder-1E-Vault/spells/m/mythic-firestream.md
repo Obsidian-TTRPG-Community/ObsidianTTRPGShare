@@ -1,19 +1,21 @@
 ---
-alias: Mythic Firestream
+aliases: [Mythic Firestream]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Firestream
+## Mythic Firestream
 
 **source**:: Mythic Adventures pg. 94  
 **school**:: evocation (fire)
 **level**:: arcanist 3, bloodrager 3, magus 3, sorcerer 3, wizard 3 (ifrit)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **area**:: 20-ft. line  
@@ -21,7 +23,7 @@ alias: Mythic Firestream
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every creature in the area. Each round you continue to concentrate on the spell, you can select a new area for it to affect.  
   

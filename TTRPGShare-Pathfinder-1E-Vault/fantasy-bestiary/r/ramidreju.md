@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ramidreju
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 201
 desc_short: This long, serpent-bodied weasel has tusks and a snout similar to that of a boar and a body covered with soft, green fur.
 ```
-# Description
+## Description
 Ramidrejus are snake-bodied weasels with a talent for digging pit traps and sniffing out gold. Most ramidrejus have green fur, often patterned with darker and lighter shades of green and brown suggestive of a poisonous snake’s scales. Though not venomous, ramidrejus are fully capable of crushing small prey or biting and draining the blood from larger foes.
 
  Ramidrejus are sometimes born into the litters of normal or giant weasel families who live near wild areas touched by fey magic. Belligerent and feisty, they are usually killed or driven off by their birth mothers, who are unnerved by their otherworldly nature. Ramidrejus that survive their infancy grow quickly to adulthood in the space of a week and live solitary lives sometimes lasting 300 years or more.
@@ -65,7 +67,7 @@ Ramidrejus are snake-bodied weasels with a talent for digging pit traps and snif
  Ramidrejus are unnaturally attracted to gold and often decorate their burrows with gold nuggets, gold coins, and stolen gold jewelry, which they protect with a savage ferocity. Unscrupulous gold miners have been known to capture ramidrejus and force them to sniff out and dig up caches of gold, though the creatures’ unpredictable tempers often cause this arrangement to end in bloodshed. Kinder souls who bribe a ramidreju with gold rather than force it into captivity find that the creatures will occasionally form a powerful lifelong friendship with such a benefactor, though the ramidreju’s desire for gold can mean that its ally makes little profit from this arrangement.
 
  Ramidrejus average around 5-1/2 feet in length and weigh 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ramidreju)
 ```encounter-table
 name: Ramidreju

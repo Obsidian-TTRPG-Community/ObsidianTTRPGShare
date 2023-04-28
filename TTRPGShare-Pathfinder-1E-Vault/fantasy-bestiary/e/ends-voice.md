@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "End's Voice"
 statblock: inline
-tags: monster
-name: End's Voice
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,11 +78,11 @@ sources:
     desc: 84
 desc_short: A long crimson cloak drapes over the form of this large faceless being, which floats just above the ground on footless legs as its menacing flail crackles with blue currents of electricity.
 ```
-# Description
+## Description
 Groetus’s herald is End’s Voice, an enigmatic creature that is both more and less mysterious than its master. It looks like a giant shrouded figure floating above the ground, legless and faceless, wielding a heavy flail with ends made of glowing energy. Its visage is often confused with a reaping undead, though it is a living outsider and acts mildly insulted when others assume it to be otherwise. Its voice is hollow and distorted, as if echoing from the far end of a long metal tube, and colored with accents from ruined empires and dead languages. It rarely comes to Golarion, and for most of these visits it is merely a silent witness to a great slaughter upon the battlefield or the last gasp of a dying city, though it may strike out with its weapon or magic at a seemingly random wounded or dying target, as if making sure the creature dies as expected.
 
 The herald may be insane from associating with Groetus, but it has a clarity unknown to mortal worshipers of the God of the End Times; perhaps its vast knowledge somehow protected it from a truly insane fate, or its status as a herald may give it a kind of lucidity that pierces the fog of madness. It does not cackle at itself like a madman, respond to unheard voices, kill for pleasure, or exhibit any of a dozen other obvious signs of insanity typically exhibited by the mad followers of Groetus.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=End%27s%20Voice)
 ```encounter-table
 name: End's Voice

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Magic Fang
+aliases: [Mythic Magic Fang]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Magic Fang
+## Mythic Magic Fang
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: transmutation
 **level**:: druid 1, hunter 1, ranger 1, spiritualist 1, summoner 1, summoner (unchained) 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Magic Fang
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 *Magic fang* gives one natural weapon or unarmed strike of the subject a +1 enhancement bonus on attack and damage rolls. The spell can affect a slam attack, fist, bite, or other natural weapon. The spell does not change an unarmed strike's damage from nonlethal damage to lethal damage.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Worg
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 222
 desc_short: A terrifying darkness surrounds this giant wolf.
 ```
-# Description
+## Description
 A mythic worg is a creature of fear and foul darkness, usually born under an ominous new moon or by the intervention of a deity of shadows and terror. Many serve vampires, protecting their masters from hunters and hazardous daylight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Worg)
 ```encounter-table
 name: Mythic Worg

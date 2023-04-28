@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blackwood Satyr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 56
 desc_short: No flavor text. 
 ```
-# Description
+## Description
 Blackwood satyrs are an especially infamous breed of fey indigenous to the Verduran Forest, which straddles the borders of Andoran, Taldor, and Galt. They are well known throughout southeastern Avistan for exuding the pleasantly sweet aroma of blackwood tar, from which they gain their name. Though the human population surrounding the Verduran Forest seldom ventures deep into the fey wood for anything other than logging, the blackwood satyrs seem to take perverse pleasure in waylaying noble lords and ladies during their passage down the heavily traveled Sellen River, playing songs from the river’s bank to lure vessels closer and enthrall all aboard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blackwood%20Satyr)
 ```encounter-table
 name: Blackwood Satyr

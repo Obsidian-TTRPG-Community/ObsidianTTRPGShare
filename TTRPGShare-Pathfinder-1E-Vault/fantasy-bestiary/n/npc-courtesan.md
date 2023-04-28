@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Courtesan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 35
 ```
-# Description
+## Description
 Courtesans specialize in music and other pleasures. They often serve as information brokers and spies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Courtesan)
 ```encounter-table
 name: NPC Courtesan

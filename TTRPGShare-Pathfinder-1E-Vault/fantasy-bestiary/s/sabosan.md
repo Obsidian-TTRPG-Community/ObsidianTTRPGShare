@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sabosan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 86
 desc_short: This batlike humanoid has a lean, muscular body covered with fur and two large, leathery wings.
 ```
-# Description
+## Description
 Sabosan are an intelligent and evil race  of batlike humanoids that dwell in warm and isolated forests or deep underground in vast caverns.
 
 Sabosan are vicious predators, combining human intelligence with a bat’s natural adaptations for hunting. They favor warm climates, preferring to make their lairs in places that are inaccessible to most intruders, such as mountaintop crags, abandoned ruins, subterranean caverns near hidden hot springs, and dense canopies of jungle trees. With wingspans almost three times their height, sabosan are agile and graceful fliers, capable of traveling miles on a single current of air in their dauntless search for prey.
@@ -56,7 +58,7 @@ Sabosan are vicious predators, combining human intelligence with a bat’s natur
 Although they can see as well as any human in daylight, sabosan hunt at twilight or after dark when their echolocation-based blindsense ability gives them a great advantage. Sabosan can also use their voices offensively, funneling their screeches into blasts of high- pitched sound capable of deafening other creatures. When hunting en masse or attacking foes, a sabosan employs its fell shriek on adversaries while other sabosan use their massive wings to churn up great clouds of dust and debris, rendering foes deaf and blind.
 
 A sabosan’s emaciated frame belies its strength and agility, which are not apparent from its gaunt appearance. Its giant, leathery wings can reach a span of almost 20 feet. Both males and females have red or dark brown fur on their heads, necks, chests, and backs. Sabosan stand just under 6 feet tall and weigh only 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sabosan)
 ```encounter-table
 name: Sabosan

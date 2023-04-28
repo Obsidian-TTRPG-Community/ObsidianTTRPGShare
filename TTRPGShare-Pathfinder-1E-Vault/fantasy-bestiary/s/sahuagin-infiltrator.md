@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sahuagin Infiltrator
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Monster Codex
     desc: 190
 ```
-# Description
+## Description
 Agents lead the way for other sahuagin by scouting enemy patrols and hidden fortifications.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sahuagin%20Infiltrator)
 ```encounter-table
 name: Sahuagin Infiltrator

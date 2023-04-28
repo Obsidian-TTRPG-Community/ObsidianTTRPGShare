@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pavbagha
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 295
 desc_short: This majestic tiger has white fur with deep blue stripes. It glows with divine radiance and radiates an aura of calm.
 ```
-# Description
+## Description
 A pavbagha is the reincarnated soul of an enlightened mortal worshiper of Irori transformed into the shape of a white tiger. Having lived one full mortal lifetime (if not more), it is patient, calm, and wise. It prefers to draw on its experience to guide and instruct mortals on ways to better themselves. Many enemies mistake a pavbagha’s inner peace for weakness or pacifism, but the servitor was a warrior and a fierce predator in previous lives, and it quickly leaps into battle to defend its students or confront those who would dare destroy knowledge.
 
 Pavbaghas patrol the borders of Irori’s realm, alert for disturbances in the Serene Circle or forbidden natives of Axis who venture too close to the god’s territory. Fulfilling the roles of guardians in the mortal world pleases pavbaghas, whether they’re looking after a special person or watching over a sacred site. Although they don’t need to eat, they enjoy the challenge and exercise of hunting and stalking prey. Rather than killing its catch, a pavbagha usually lays a single paw upon its target before allowing the creature to run away, secure in its triumph.
@@ -76,7 +78,7 @@ Pavbaghas patrol the borders of Irori’s realm, alert for disturbances in the S
 Some pavbaghas serve in temples and monasteries dedicated to Irori, where they help in training students in physical combat, particularly in how to deal with monsters and other dangerous beasts. Others guide students in meditation, helping them unravel those quandaries they might have on the path to perfection. Still other pavbaghas that make their homes in monasteries on the Material Plane focus their efforts on attending to those who visit Iroran shrines and temples looking for divine assistance.
 
 A pavbagha measures about 10 to 12 feet long and weighs between 750 and 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pavbagha)
 ```encounter-table
 name: Pavbagha

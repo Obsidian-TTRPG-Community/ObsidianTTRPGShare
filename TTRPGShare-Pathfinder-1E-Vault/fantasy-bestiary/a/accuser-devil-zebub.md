@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Accuser Devil (Zebub)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 84
 desc_short: This childlike blasphemy conjoins the features of a plump human infant and a gigantic, gore-fattened fly. 
 ```
-# Description
+## Description
 Childlike souls tormented and scoured of innocence by the flames of Hell and then reshaped by the mad whims of the archdevil Baalzebul, accuser devils embody the foul, merciless, and pervasive corruptions of the infernal host. From the depths of the Pit they rise in buzzing, shrieking plagues unleashed to taint the land, despoil weak flesh, and reveal exploitable secrets. En masse they display little of the cunning or subtlety typical of devilkind, spreading ruin at the will of their fiendish masters. Alone, though, a zebub is a craven, deceitful thing, lurking in darkness and filth, endlessly spying and vying for the petty favors of greater evils. 
 
 Accuser devils are almost exclusively formed amid the cesspits of frozen Cocytus, the seventh layer of Hell. Within the Pit they serve countless infernal lords as messengers and spies, with droves being unleashed upon myriad mortal worlds with a mandate to seek out souls ripe for corruption or those whose sins might lead to greater damnations. Many zebubs overstep the freedoms of such vague missions, seeking to manipulate weak-willed or easily intimidated mortals into all manner of trivial evils, dispensing shrill orders in their buzzing, childlike voices. Despite the fact that many zebub plots end in the zebubs’ own revelation and destruction, few diabolical lords allow the slaying of their spies to go unpunished. 
@@ -67,7 +69,7 @@ Accuser devils are almost exclusively formed amid the cesspits of frozen Cocytus
 The zebub’s ability to grant other creatures visions of what it has witnessed makes it an unusually useful creature to many conjurers. Relatively easy to conjure with a spell like lesser planar ally or lesser planar binding, an accuser devil can be an invaluable spy. One simply orders the foul little devil to become invisible and then infiltrate an area where visual information is hidden, with orders to teleport back to its point of origin to grant visions of what it observed to its master. Those who make use of accuser devils in this manner should take care to watch their own actions or what they reveal, of course, for such a creature can just as easily be bribed or intimidated into revealing visions that some conjurers might not want being made public. It’s common practice among conjurers to kill their accuser devils once they’ve completed their missions of infiltration and observation. 
 
 These lesser devils stand just over 2 feet tall and rarely weigh more than 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Accuser%20Devil%20(Zebub))
 ```encounter-table
 name: Accuser Devil (Zebub)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aoandon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 11
 desc_short: This translucent, shaggy, horned monster shines with an eerie blue light, and its form trickles into vapor below the waist.
 ```
-# Description
+## Description
 An aoandon is an incorporeal outsider formed from the spirit of a woman who died pursuing some ill-fated relationship. An aoandon waits for her chance to seek revenge on those who wronged her in her mortal life. If that person is dead, she finds a surrogate-someone who reminds her of the wrongdoer-and acts out her delusions with unrelenting vindictiveness. These spirits can also appear as a result of mishaps with calling spells, but such instances are rare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aoandon)
 ```encounter-table
 name: Aoandon

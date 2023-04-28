@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goldpebble
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 88
 desc_short: The scales on this twelve-foot-long water snake's back appear to be nothing more than smooth river stones, a few of which glint with traces of gold.
 ```
-# Description
+## Description
 The goldpebble is a stony-scaled water snake that came into existence thanks to a greedy Taldan alchemist of a forgotten time. This ambitious experimenter attempted to create a fecund creature whose body would turn to gold after it died, ensuring an endless supply of wealth with little effort. She found a water snake that bred in shallow pools and produced dozens of offspring, and its biology responded well to her initial tests. The original snake's scales contained trace amounts of minerals and served as a clever camouflage in the wild, and the alchemist combined magical techniques with selective breeding to coax the species' scales into naturally producing nuggets of gold.
 
  At first, the experiment seemed to be going well; early generations demonstrated traces of gold in their scales, and as they sloughed away their skin with age, the cast-off scales contained enough gold to justify the alchemist's efforts. However, the snakes grew in size with each generation, and soon the breeding pools the alchemist had created could not contain them. Worse, the amount of gold each snake produced didn't increase, but rather seemed to decrease until only glittering flakes remained.
@@ -60,7 +62,7 @@ The goldpebble is a stony-scaled water snake that came into existence thanks to 
  Frustrated, the alchemist redoubled her efforts and saturated the breeding pools with transmutative alchemical reagents, mercilessly culling any snakes that failed to produce new growth. While this did little to increase the mineral content of the creatures' scales, it did invest them with a supernatural venom that causes victims' blood to slowly turn to water. When the overzealous alchemist next came to harvest her treasured pets, the goldpebbles struck, killing her and escaping into a nearby stream; they can now be found all across the Inner Sea region.
 
  A fully grown goldpebble is about 12 feet long and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goldpebble)
 ```encounter-table
 name: Goldpebble

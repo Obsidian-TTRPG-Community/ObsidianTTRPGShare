@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Guardian Phantom Armor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 84
 desc_short: This suit of armor moves with a warrior’s deadly skill despite obviously being empty.
 ```
-# Description
+## Description
 Created from blood-spattered armor infused with the souls of betrayed knights or fallen soldiers, phantom armors appear as suits of damaged but animate armor that move with deadly purpose and lethal precision.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Guardian%20Phantom%20Armor)
 ```encounter-table
 name: Guardian Phantom Armor

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Orb of the Void
+aliases: [Mythic Orb of the Void]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Orb of the Void
+## Mythic Orb of the Void
 
 **source**:: Mythic Adventures pg. 103  
 **school**:: necromancy
 **level**:: arcanist 8, cleric 8, oracle 8, psychic 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a black gemstone of any kind worth 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 1-ft.-diameter sphere  
@@ -21,7 +23,7 @@ alias: Mythic Orb of the Void
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a small weightless sphere of pure negative energy. As a move action, you can move it up to 30 feet per round in any direction. If it enters a space with a living creature, it stops moving for the round and that creature gains one negative level (Fortitude negates). Any creature passing through or ending its turn in the space occupied by the sphere gains one negative level (Fortitude negates). Twenty-four hours after gaining a negative level from the sphere, the subject must make a Fortitude saving throw (the DC of this save is equal to the DC of this spell) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.  
   

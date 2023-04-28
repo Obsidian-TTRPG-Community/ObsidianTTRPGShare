@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Old Wulunga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,7 +47,7 @@ sources:
     desc: 9
 desc_short: This bloated, pinniped-like mammal is covered in salty grime, and its sturdy, blunt tusks promise an agonizing death.
 ```
-# Description
+## Description
 Infamous among the unfortunates who live in the stormwracked Sodden Lands, the bunyip called Old Wulunga is an especially large and ferocious member of his species. He follows a route up and down the coast, seeking out new hunting grounds every few months and terrorizing the surrounding region before moving on.
 
 Most recently, Old Wulunga has moved to the river mouths and swamps between Kokutang and Jula, preying on bandits and opportunists raiding the abandoned settlements of old Yamasa, as well as on the Koboto tribespeople. Several Koboto hunting parties have gone in search of the creature; those that have returned have done so empty-handed, and the other expeditions have vanished altogether.
@@ -53,7 +55,7 @@ Most recently, Old Wulunga has moved to the river mouths and swamps between Koku
 No one is sure of Wulunga’s true age-some legends claim he was born in the arcane disaster that created the terrible Eye of Abendego. Most people aren’t quite so superstitious, and believe that Old Wulunga is just an especially large and successful bunyip. A few doomsayers claim he is a harbinger of death-an agent of destruction sent to totally obliterate any attempts at building a civilization in the wasted region.
 
 The son of the Koboto spirit-talker Harisha was supposedly slain by Old Wulunga while swimming in the Terwa River. Filled with anger, Harisha swore that she will see the creature dead, and promises to mount his thick, tusked skull on her son’s grave. The old oracle has offered a rich reward to anyone who kills Wulunga and returns his body intact, but few trust that Harisha will keep her word.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Old%20Wulunga)
 ```encounter-table
 name: Old Wulunga

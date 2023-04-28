@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psychemental
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 197
 desc_short: This incorporeal field shimmers with a constant f lux of colors and shapes that coalesce into distorted, ephemeral images and ref lections.
 ```
-# Description
+## Description
 As part of the fallout of a major supernatural phenomenon or mentally disturbing event, the collective unconscious of a population of psychic beings can give rise to a self-aware intellect that’s known as a psychemental. These emergent phenomena form on the Astral Plane, where they appear in the form of amorphous fields made up of f luctuating colors, shapes, and even faces that ref lect their evolving thoughts and new perceptions as they attempt to come to terms with their new state of being.
 
  While these inquisitive, unpredictable creatures are not inherently evil, they do temporarily absorb fragments of others’ minds in order to heal themselves. And though psychementals seek out interactions with intelligent creatures for the pleasures of learning about the world and socializing, an encounter with one can be a dangerous affair if it feels threatened or provoked. Unfortunately, this occurs fairly often, as the upsetting stimuli that prompted a psychemental’s creation leave it more easily startled than other creatures. A psychemental’s attacks are never lethal on their own-the stolen mental fragments eventually reform themselves within the victim’s mind over time-but the potential to leave a victim comatose for an extended period of time can be quite dangerous in its own right. Yet sentient beings who approach a psychemental calmly and without any ill intent find the creatures to be extremely engaging conversationalists, and psychementals’ very natures guarantee that they are experts in a variety of esoteric topics. A creature that manages to make a psychemental feel safe may have just earned a highly unusual friend for life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psychemental)
 ```encounter-table
 name: Psychemental

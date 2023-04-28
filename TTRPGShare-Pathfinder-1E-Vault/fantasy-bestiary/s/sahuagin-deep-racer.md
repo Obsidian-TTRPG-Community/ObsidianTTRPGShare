@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sahuagin Deep Racer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Monster Codex
     desc: 192
 ```
-# Description
+## Description
 Shark speakers prefer the company of vicious fish over other sahuagin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sahuagin%20Deep%20Racer)
 ```encounter-table
 name: Sahuagin Deep Racer

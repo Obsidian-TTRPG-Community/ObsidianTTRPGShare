@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hollow One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 86
 desc_short: The faint chemical smell lingering on this creature’s skin hints that it is not simply a normal person. Small, almost imperceptible flaws suggest that the creature’s skin is somehow stretched over an invisible frame.
 ```
-# Description
+## Description
 Hollow ones are complex creations designed to fulfill a variety of purposes, most often acting as servants, guardians, or assistants. Each hollow one is bound by a physical similarity to a certain humanoid, who sacrifices a portion of himself in the formation process.
 
 Unlike many constructs, however, the hollow one has a spark of intelligent life-the essence of its creator or the creator’s victim. While this enlivening energy is little more than a shallow imitation of the original’s true being, sometimes the hollow one can become more than an automaton and seek out its own life and motivations. These hollow ones are the most dangerous because they are most prone to madness (especially violent madness). Such a hollow one is the exception to the rule, however, and most are destined to become little more than slaves and playthings, obedient mockeries of those they were created to look like.
@@ -56,7 +58,7 @@ Unlike many constructs, however, the hollow one has a spark of intelligent life-
 When encountered, hollow ones are often mistaken for undead creatures instead of constructs, mainly due to the unconventional building material required to create these creatures.
 
 A hollow one is the same size as the humanoid it was fashion to resemble, but weighs a mere fraction of his weight due to being only chemically treated skin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hollow%20One)
 ```encounter-table
 name: Hollow One

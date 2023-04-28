@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Squid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 259
 desc_short: Immense in size, this great squid’s tentacles writhe and flash with almost nauseating speed. The beast’s eyes are as big as shields.
 ```
-# Description
+## Description
 The giant squid is a legendary beast capable of feeding on humans with ease. Hunger has been known to drive these normally deep-dwelling creatures up to the ocean surface where anything they encounter is potential prey. A giant squid is 45 feet long and weighs 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Squid)
 ```encounter-table
 name: Giant Squid

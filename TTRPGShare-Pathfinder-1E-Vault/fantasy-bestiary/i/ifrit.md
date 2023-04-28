@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ifrit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 160
 desc_short: This muscular, fiery-skinned man has flaming hair and spotted horns upon his brow.
 ```
-# Description
+## Description
 Ifrits are humans whose ancestry includes beings of elemental fire, such as efreet. Ifrits have pointed ears, red or mottled horns on the brow, and hair that flickers and waves as if it were aflame.
 
 All ifrits are at some level pyromaniacs. Adoring fire in all its forms, they tend to be passionate and quick to action, with a predilection for striking first in any conflict-a trait which keeps them alive but doesn’t make them a lot of friends. Ifrits generally seek out the company of either less-powerful minions who can be browbeaten into following orders, or calm, cool individuals who can balance the ifrits out.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ifrit)
 ```encounter-table
 name: Ifrit

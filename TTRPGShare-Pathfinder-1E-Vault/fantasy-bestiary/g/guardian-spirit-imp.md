@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Guardian Spirit Imp
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 26
 desc_short: A violet rune glows in the center of this red-skinned fiend’s forehead.
 ```
-# Description
+## Description
 A guardian spirit is bound to the fate of a mortal being (called its “ward”). This bond may be formed by any number of beings or events carrying the weight of destiny, such as deities, the Eldest, norns, and mythic creatures and magic. A spirit can bind itself willingly if it believes that doing so is likely to further its agenda, give it more power, or allow it access to the world of mortals. Mortals can generally invoke a guardian spirit only with summoning and calling spells.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Guardian%20Spirit%20Imp)
 ```encounter-table
 name: Guardian Spirit Imp

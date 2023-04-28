@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fey Enchantress
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: NPC Codex
     desc: 169
 ```
-# Description
+## Description
 The fey enchantress uses her powers to manipulate others, acquire power, and gain wealth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fey%20Enchantress)
 ```encounter-table
 name: NPC Fey Enchantress

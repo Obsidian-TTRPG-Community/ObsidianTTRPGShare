@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fungus Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,7 +71,7 @@ sources:
     desc: 12
 desc_short: This eerie creature has the upper body of a beautiful, pale green woman, but her lower body is a pulsating mound of fungus.
 ```
-# Description
+## Description
 Hundreds of years ago, a cabal of powerful succubus assassins attempted to invade the Abyssal realm of the demon lord of disease and fungus. These succubi sought to slay a powerful witch who had befouled a profane temple the assassins served. The succubi failed at their mission, and from their corpses grew the first fungus queens. Pleased with this development, the witch seeded numerous Material Plane worlds with fungus queen spores, and these new fungus queens have taken to these new environments like rot to a carcass; today, hundreds of the subversive creatures dwell in the fouler reaches of the Material Plane. They are particularly fond of large cave systems and the slums of ruined cities. Fungus queens also often dwell in areas of corrupted woodlands where blighted fey rule, or in the sewers of active cities with an unusually large amount of magical pollution. 
 
 An encounter with a normally unintelligent plant monster acting in a sinister and organized way can be evidence of the manipulation of a fungus queen, but fungus queens are equally fond of commanding and keeping other creatures as pets and slaves-particularly attractive humanoids. Especially favored minions are given the gift of the fungus queen’s embrace and are transformed into fungoid minions forever loyal to their pallid mistress. Yet a fungus queen knows that a diverse array of guardians is best, and is certain to keep some non-plant minions on hand to protect her lair. 
@@ -81,7 +83,7 @@ While their jealousy doesn’t compel them to do battle with other fungus queens
 Many fungus queens grow quite powerful over time, typically gaining class levels in bard, ranger, or sorcerer- they generally do not become more powerful by merely gaining racial Hit Dice or increasing in size. Fungus queen druids are remarkably rare. 
 
 A fungus queen is 6 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fungus%20Queen)
 ```encounter-table
 name: Fungus Queen

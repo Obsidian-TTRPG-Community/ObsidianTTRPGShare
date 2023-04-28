@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Neshmaal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 86
 desc_short: This semi-transparent mass of convulsively roiling tentacles and whiplike tendrils hovers in the air, giving off an aura of dark, alien menace.
 ```
-# Description
+## Description
 The vast, dark spaces between the stars hold horrors aplenty, skulking in the unholy blackness with their aberrant desires and unspeakable appetites. Some of these beings exist simultaneously in two worlds, half in the emptiness of space and half in some other dimension of which mortals dare not even dream. The neshmaals are such a race, aliens of such inscrutable malice and hunger that even most other denizens of the darkness avoid them. These strange beings view the humanoids populating the universe as either cattle to eat or playthings to manipulate like marionettes.
 
 A neshmaal’s body is formed of a tangle of writhing tentacles that is roughly 9 feet across. As they are incorporeal outside of their home dimension, the creatures have no weight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Neshmaal)
 ```encounter-table
 name: Neshmaal

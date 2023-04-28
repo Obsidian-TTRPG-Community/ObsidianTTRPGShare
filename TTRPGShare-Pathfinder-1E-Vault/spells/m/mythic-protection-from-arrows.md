@@ -1,19 +1,21 @@
 ---
-alias: Mythic Protection from Arrows
+aliases: [Mythic Protection from Arrows]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Protection from Arrows
+## Mythic Protection from Arrows
 
 **source**:: Mythic Adventures pg. 104  
 **school**:: abjuration
 **level**:: alchemist 2, arcanist 2, bloodrager 2, investigator 2, psychic 2, sorcerer 2, spiritualist 2, summoner 2, summoner (unchained) 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a piece of tortoiseshell or turtle shell)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Protection from Arrows
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The warded creature gains resistance to ranged weapons. The subject gains damage reduction 10/magic against ranged weapons. This spell doesn't grant you the ability to damage creatures with similar damage reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.
 

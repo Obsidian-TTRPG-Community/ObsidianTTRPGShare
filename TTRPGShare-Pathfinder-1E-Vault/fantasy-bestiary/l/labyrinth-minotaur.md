@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Labyrinth Minotaur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 90
 desc_short: This hulking minotaur’s hooves are clad in imposing steel. The massive beast wears a heavy bronze mask that covers most of its face.
 ```
-# Description
+## Description
 Labyrinth minotaurs are the elite guards and favored servitors of Baphomet. They are thicker and taller than mortal minotaurs, and possess skill in metalcraft that they use to forge armor, weapons, and their personalized and iconic bronze masks. Labyrinth minotaurs eagerly charge intruders, trampling smaller opponents and knocking back larger foes. As they are perceptive, tireless, and incapable of becoming lost, labyrinth minotaurs make excellent guardians of Baphomet’s bewildering maze of a domain, the Ivory Labyrinth. Labyrinth minotaurs stand about 11 feet tall and weigh 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Labyrinth%20Minotaur)
 ```encounter-table
 name: Labyrinth Minotaur

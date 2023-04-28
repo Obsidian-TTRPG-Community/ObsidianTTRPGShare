@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Prophet of Kalistrade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 44
 ```
-# Description
+## Description
 The business acumen of the adherents of the Prophecies of Kalistrade is largely responsible for earning the nation of Druma a place beside the wealthiest nations in the region. Though they bedeck themselves in white robes from head to toe, and live by the strictures of a detailed code of sexual and dietary prohibitions, prophets of Kalistrade are anything but modest when it comes to their wealth. In fact, it is one of their faith’s core tenets that a prophet dress opulently as to indicate to all that such wealth comes as a reward for forgoing other of life’s indulgences.
 
 Frequently masters of divination and enchantment-which aid them in business dealings ranging from prospecting to negotiation-prophets of Kalistrade generally see magic as a means to an end rather than as a goal to be attained in and of itself. The accumulation of knowledge about magical artifacts, whether of arcane or divine power, is typically valued more in terms of how much such items can be sold for to the right buyer rather than for any scholarly purpose. Prophets take a similar view of just about everything in life, from their political and social alliances to the very jewelry and ornamentation they wear so proudly on their persons. The more value one can amass, the more power one can wield over those who value such splendor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Prophet%20of%20Kalistrade)
 ```encounter-table
 name: NPC Prophet of Kalistrade

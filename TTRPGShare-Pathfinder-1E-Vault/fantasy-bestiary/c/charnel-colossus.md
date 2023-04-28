@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Charnel Colossus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 10
 desc_short: This horror is composed of dozens, if not hundreds, of decomposing cadavers held together as an amalgamated whole.
 ```
-# Description
+## Description
 Some dead don’t rest easy because of the circumstances of their death or the horrific experiences they underwent in life. Their souls return to the world of the living demanding justice, revenge, or just wanton destruction. Some dead, however, never intended for their souls to leave. Instead they wished to preserve their knowledge, their culture, or some other aspect of their life in an undying form that could forever accumulate more of the same. In these instances, where lichdom is not sought as a viable option, and a multitude of individuals wish to take part, the result can be a charnel colossus.
 
 A charnel colossus is an amalgam of scores, even hundreds, of individuals who, upon death, chose to be interred under special ritual circumstances with others of like mind. This allowed them to feed their individual life experiences into an undying corporation of the collective whole. The resulting monstrosity would be like a living library-if it were living. The individual will of the deceased participants is subsumed in favor of a hive-like personality composed of all of the knowledge and experiences of the individual contributors. A few dominant or powerful members of this amalgam may give the resulting combined creature a general style of behavior, but no single constituent provides the creature with a true guiding force. Instead, the result is a pooling of the wisdom and experience of those who have been so interred-often over a period spanning hundreds of years-creating an abomination whose sole focus is the perpetuation of any such cultural traditions and the acquisition of more constituent parts to ever expand its breadth of experience. It is this guiding gluttony for further expansion of consciousness that ensures that even the most benign of traditions or experiential pools from which a charnel colossus is formed inevitably results in an all-consuming horror.
@@ -78,7 +80,7 @@ A charnel colossus is an amalgam of scores, even hundreds, of individuals who, u
 The charnel colossus is a mass of the corpses that form its composition, often intermixed with earth, broken grave goods, and other burial materials if the decayed bodies alone are insufficient to fill out its massive size. This amorphous whole is collected within a membrane through which the individual corpses can still be seen and against which they often press as if seeking their freedom. But when a creature becomes trapped in the embrace of a colossus, the membrane proves to be permeable-the rotten, lipless mouths of those so interred are able to reach forth and feed upon the victim’s own life experience. The colossus can also form two thin tendrils of this charnel stuff in order to lash out and draw prey into its embrace.
 
 As powerful, ever-hungering abominations, charnel colossi are thankfully few and far between. The only documented one currently known to exist is reported to be trapped beneath the ruins of Kalexcourt in northwestern Ustalav, in an ancient Kellid shamanistic burial site.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Charnel%20Colossus)
 ```encounter-table
 name: Charnel Colossus

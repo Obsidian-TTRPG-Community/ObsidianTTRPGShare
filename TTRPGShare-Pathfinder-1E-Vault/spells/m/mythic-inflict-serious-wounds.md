@@ -1,19 +1,21 @@
 ---
-alias: Mythic Inflict Serious Wounds
+aliases: [Mythic Inflict Serious Wounds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Inflict Serious Wounds
+## Mythic Inflict Serious Wounds
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: necromancy
 **level**:: antipaladin 4, cleric 3, inquisitor 3, occultist 3, oracle 3, shaman 3, spiritualist 3, warpriest 3, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Inflict Serious Wounds
 **saving-throw**:: Will half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *inflict light wounds*, except that it deals 3d8 + 1 point per caster level (maximum +15).
 

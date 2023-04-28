@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bloody Bones
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 49
 desc_short: This blood-drenched humanoid skeleton stares with hate-filled eyes as its bones drip with streams of fresh gore.
 ```
-# Description
+## Description
 In many lands, parents have used tales of bloody bones to frighten children away from dangerous ponds or to keep them from misbehaving, especially at night. At first sight, these monsters are easy to confuse for particularly gruesome skeletons. Bloody bones, however, have an evil intelligence. They revel in creating fear in their victims, using their natural stealth to haunt and frighten a creature for hours or even days before revealing themselves. 
 
 Bloody bones are the creations of horrific creatures known as rawheads (see page 242), which have the ability to command these gory undead to do their whims. Even when not directed by the malevolence of a rawhead, though, a bloody bones is adept at wreaking havoc on local settlements. The inhabitants of a region plagued by a bloody bones often have no idea of the true nature of the creature that menaces them, which only furthers the urban legends and frightening stories that rise in the wake of these violent, undead monstrosities. 
 
 A typical bloody bones is approximately 5-1/2 feet tall and weighs about 60 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bloody%20Bones)
 ```encounter-table
 name: Bloody Bones

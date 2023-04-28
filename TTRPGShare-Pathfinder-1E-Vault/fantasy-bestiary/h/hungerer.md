@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hungerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 84
 desc_short: A hideous mound of shuddering, pustule-encrusted flesh, this bloated creature’s gaping maw is filled with terrible teeth. 
 ```
-# Description
+## Description
 Once regular lamias, these hideously deformed creatures are the result of terrible f leshwarping experiments that have rarely been repeated since the fall of Thassilon. The heads and torsos of these creatures are nearly 10 feet in diameter, and a typical hungerer weighs about 20,000 pounds.
 
  Hungerers are unnatural creatures, re-released into the world with Karzoug's awakening. These terrors live in constant pain and serve as living embodiments of hunger, insatiable in their constant quests for sustenance. Although they prefer to tear and rend living f lesh, hungerers can consume almost any organic material, and might even gnaw on stone or metal without ill effect when nothing else is available.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hungerer)
 ```encounter-table
 name: Hungerer

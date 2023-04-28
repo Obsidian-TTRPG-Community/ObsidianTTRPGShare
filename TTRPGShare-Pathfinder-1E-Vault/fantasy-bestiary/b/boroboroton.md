@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boroboroton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Bestiary 5
     desc: 252
 ```
-# Description
+## Description
 Boroborotons are the tsukumogami of tattered old sleeping mats, abandoned and neglected by their owners. Boroborotons are starved for affection and often wander the night in search of companionship, ideally from humanoids like those who created them. When a creature rejects a boroboroton’s offer of friendship, however, the boroboroton often responds murderously, twining around its victim’s head and neck to strangle her. A boroboroton lives on a razor’s edge, where redemption into a more stable kami or a transformation into an oni are both possible, depending on how others treat it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boroboroton)
 ```encounter-table
 name: Boroboroton

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,7 +45,7 @@ sources:
     desc: 33
 desc_short: This housecat-sized beetle is a dull brown color brightened by two glowing green-yellow spots on its carapace.
 ```
-# Description
+## Description
 Although nocturnal, the fire beetle lacks darkvision-it relies on its own glowing glands for illumination. Caged fire beetles are a popular source of long-lasting illumination among eccentrics and miners.
 
 Other variations on the common fire beetle exist. The two most common variants are detailed below.
@@ -51,7 +53,7 @@ Other variations on the common fire beetle exist. The two most common variants a
 Mining Beetle (CR 1/2): A mining beetle is an advanced fire beetle with the advanced simple template and a burrowing speed of 20 feet.
 
 Flash Beetle (CR 1/2): A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst must make a DC 12 Fortitude save or be dazzled for 1d3 rounds. The save DC is Constitution-based.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Beetle)
 ```encounter-table
 name: Fire Beetle

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brownie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 49
 desc_short: Knee-high to a human, this large-headed creature has an almost manically friendly look on its expressive face. 
 ```
-# Description
+## Description
 Brownies make their homes in the trunks of hollow trees, small earthy burrows, and even under porches and within the crawlspaces of farmhouses. Often attired in clothes that appear to be made of plants or leaves, brownies wear belts lined with pouches and tools. Whatever language they choose to speak is often is riddled with odd pronunciations and colloquialisms. Brownies stand barely 2 feet tall and weigh 20 pounds. 
 
 When facing danger, brownies rarely engage in combat, preferring instead to confound and confuse their attackers in order to buy enough time for escape. Content with honest toil and the love of their kin, brownies maintain a pacifist nature, only harassing creatures to run them off or punish them for an insult. Despite this nature, all brownies carry a blade. They refer to their swords with a hint of disgust, and jokingly call their blades the “final trick,” using them only in the direst of consequences. 
@@ -63,7 +65,7 @@ When facing danger, brownies rarely engage in combat, preferring instead to conf
 Honest to a fault, brownies take freely, but always repay their debt through work or leave something behind as an offering. They may eat an apple from a farmer’s orchard, but will harvest the entire tree as repayment. A brownie might eat an entire pie left on a windowsill, only to straighten up the kitchen or wash the dishes. A brownie can share a home with a family for years and years while avoiding detection. A family that is aware of a brownie usually finds this a beneficial relationship and leaves dishes of milk, pieces of fruit, trinkets, and sometimes even wine as gifts. In exchange, the brownie keeps the home clean, mends clothes, repairs tools, and shoos away vermin and small predators. Bragging about having a brownie in the house is the best way to lose one. Brownies distrust foxes and fear wolves, and tend to avoid farms with dogs. 
 
 A 5th-level neutral spellcaster with the Improved Familiar feat can gain a brownie as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brownie)
 ```encounter-table
 name: Brownie

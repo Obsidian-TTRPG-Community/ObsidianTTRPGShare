@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chupacabra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 78
 desc_short: This lizard-like creature stalks forward upon two muscular legs, a mane of spikes running down its scaly back. 
 ```
-# Description
+## Description
 These notorious predators have an undeniable thirst for blood. Chupacabras prefer to prey upon the weak and slow, often watching potential prey from hiding for long periods before attacking. Spry and stealthy, they prefer to keep to areas of high grass and protective rock, their slightly reflective scales allowing them to blend in well with such surroundings. 
 
 With a preference for lone travelers and farm animals (particularly goats), chupacabras leave little evidence of their presence apart from the grisly blood-drained husks of their meals, often leading locals to believe a reckless vampire lives in the area. 
@@ -61,7 +63,7 @@ Although chupacabras are typically solitary, in bountiful areas small gangs of t
 It is not unusual for older chupacabras to grow to Medium size. These larger specimens tend to be leaders of chupacabra gangs, or, more commonly, loners capable of tormenting entire villages on their own. 
 
 Some chupacabras are mutants with large reptilian wings, and have been known to carry off goats and children. A flying chupacabra has a fly speed of 60 feet (average), which increases to 90 feet (average) when invigorated from drinking blood. A winged chupacabra is the same CR as the normal variety.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chupacabra)
 ```encounter-table
 name: Chupacabra

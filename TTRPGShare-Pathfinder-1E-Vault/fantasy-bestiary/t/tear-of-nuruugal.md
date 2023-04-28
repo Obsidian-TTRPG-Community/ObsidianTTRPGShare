@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Tear of Nuruu'gal"
 statblock: inline
-tags: monster
-name: Tear of Nuruu'gal
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 43
 desc_short: A slithering blob of amoeba-like protoplasm shines with flame, warping the air around it in a searing mirage.
 ```
-# Description
+## Description
 First spawned by the primordial godling Nuruu’gal in the lost Azlanti city of Nal-Vashkin, these fiery, parasitic oozes contain a portion of the creature’s essence and foul sentience. The oozes hunt ceaselessly, seeking to force their amoebic protoplasm into the bodies of humanoids to turn their hosts to the service of their master, whether the hosts are willing or not. After many years of possession, the host and the symbiote may undergo a strange metamorphosis, exploding into a horrible light that catalyzes into a being known as a shining child.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tear%20of%20Nuruu%27gal)
 ```encounter-table
 name: Tear of Nuruu'gal

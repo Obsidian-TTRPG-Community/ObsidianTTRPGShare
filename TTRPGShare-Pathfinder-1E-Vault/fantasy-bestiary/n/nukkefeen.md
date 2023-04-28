@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nukkefeen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 63
 desc_short: This eerie creature resembles a human with oddly segmented limbs, waxen skin, and doll-like eyes.
 ```
-# Description
+## Description
 Many scholars posit that nukkefeens originated as experiments of a powerful First World creature or creatures, and perhaps were intended to serve as assistants or researchers. Some have even tied these creatures to norns’ workshop-like lairs, positing that they may have originally acted as servants of those prescient beings. Nukkefeens’ eyes are glazed and unnatural, and though they are quite limber, their knocked knees make their gait seem uneven and stiff. Most nukkefeens resemble human men or women, though many appear androgynous.
 
 Nukkefeens have a peculiar sense of morality. For example, most of them loathe weapons and violence, but think that harming unpleasant people or animals with scissors or similar objects is a way to “fix” them. They are not inherently malicious, though they are obsessed with old, abandoned buildings where great tragedies have occurred. They are likely to settle in abandoned homes, which they take care of in their own peculiar way.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nukkefeen)
 ```encounter-table
 name: Nukkefeen

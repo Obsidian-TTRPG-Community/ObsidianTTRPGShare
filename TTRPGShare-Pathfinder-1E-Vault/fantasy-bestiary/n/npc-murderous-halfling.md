@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Murderous Halfling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 81
 ```
-# Description
+## Description
 Small, sly, and seemingly innocuous, evil halflings make perfect murderers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Murderous%20Halfling)
 ```encounter-table
 name: NPC Murderous Halfling

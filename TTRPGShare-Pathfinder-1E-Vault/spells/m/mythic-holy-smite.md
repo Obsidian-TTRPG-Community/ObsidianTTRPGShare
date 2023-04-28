@@ -1,19 +1,21 @@
 ---
-alias: Mythic Holy Smite
+aliases: [Mythic Holy Smite]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Holy Smite
+## Mythic Holy Smite
 
 **source**:: Mythic Adventures pg. 98  
 **school**:: evocation (good)
 **level**:: cleric 4, inquisitor 4, oracle 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Mythic Holy Smite
 **saving-throw**:: Will partial; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You draw down holy power to smite your enemies. Only evil and neutral creatures are harmed by the spell; good creatures are unaffected.  
   

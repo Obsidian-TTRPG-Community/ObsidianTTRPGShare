@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ochre Jelly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 218
 desc_short: This yellow-orange amoeboid creature slithers across the ground, pseudopods grasping ahead of its slow approach.
 ```
-# Description
+## Description
 Ochre jellies are animate masses of protoplasm hued a sickly combination of yellow, orange, and brown. At rest, their flat, pulsing bodies stand roughly 6 inches tall and can stretch out to a wide diameter-in motion, they often ball up into quivering spherical shapes and almost seem to roll as they move. Their malleable bodies allow them to seep through cracks and holes far smaller than the space they fill. Creatures dwelling below ground often attempt to seal up any such cracks to fortify their lairs against ochre jellies.
 
 An ochre jelly’s highly specialized acid only dissolves flesh. This discovery has led many poisoners and hack alchemists to search out specimens for their tinkering. Some specialized weapons have resulted from these experiments that target the living body in wicked ways. Rumors of a slow-release poison that breaks down the cellular walls in living creatures surfaced a few years ago, but its creator guards the secret with his life.
@@ -58,7 +60,7 @@ Notes in a long-forgotten tome mention a burial practice used in faraway places 
 Ochre jellies stand about 6 inches tall, spread out to a little over 10 feet in diameter, and weigh upward of 2,600 pounds. When in combat, they tend to pile up upon themselves and exude long, dripping pseudopods to slam and grapple anything that moves.
 
 Although the typical ochre jelly has stats as presented here, in the deepest reaches of the underground world these mindless predators can grow to enormous sizes. Perhaps more disturbing, though, are rumors of ochre jellies that have developed additional methods of capturing prey. Adventurers speak of jellies capable of poisoning foes with a touch or exuding clouds of noxious gas that burns the eyes and throat, leaving those who draw too near helpless as the immense protoplasmic beast slithers over their bodies and begins to feed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ochre%20Jelly)
 ```encounter-table
 name: Ochre Jelly

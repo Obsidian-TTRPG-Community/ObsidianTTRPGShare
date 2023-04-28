@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gelatinous Cube
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 138
 desc_short: Bits of broken weapons, coins, and a partially digested skeleton are visible inside this quivering cube of slime.
 ```
-# Description
+## Description
 One of the dungeon’s most unusual and specialized predators, gelatinous cubes spend their existence mindlessly roaming dungeon halls and dark caverns, swallowing up organic material such as plants, refuse, carrion, and even living creatures. Materials the cube cannot digest, such as metal and stone, can eventually fill up the creature’s mass with such detritus, and at times the creature may excrete some of this material out of its body. Often the treasure and possessions of past victims remain inside the gelatinous cube, leaving a ghostly impression of their material remains.
 
 Sages believe these creatures evolved as a specialized advancement of gray oozes. Some beings use gelatinous cubes as protectors of dungeons and underground fortifications, trapping the immense creatures in massive metal crates and transporting them through either slave power or magic to their final guard posts. They make particularly efficient waste disposal mechanisims as well-a tribe that can trap a gelatinous cube in a pit or other area that it cannot climb out of can use it as a midden or even a deadly trap, depending only on the ingenuity of the creatures who caught it.
 
 Gelatinous cubes are generally 10 feet to a side and weigh upward of 15,000 pounds, though subterranean explorers report larger specimens trawling the deepest caves and corridors. In locations with plentiful sources of food, gelatinous cubes can exist for hundreds of years, if not thousands. However, if denied organic material for more than 6 months, a gelatinous cube begins shrinking. Eventually this stresses its walls and the creature leaks rapidly evaporating slimy liquid until its body collapses and disappears completely.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gelatinous%20Cube)
 ```encounter-table
 name: Gelatinous Cube

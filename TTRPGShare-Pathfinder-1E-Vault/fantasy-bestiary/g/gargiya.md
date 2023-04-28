@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gargiya
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 84
 desc_short: With burning eyes and a snapping maw, this blood-red serpent rises from the ocean’s depths. Sweltering heat radiates from its rippling scales.
 ```
-# Description
+## Description
 Crueler and more volatile than their sea-serpent cousins, gargiyas gravitate toward and sustain themselves on seismic hotspots. Far from being a danger to the beasts, these bubbling crevices spew a form of magma that imbues gargiyas with incredible abilities. From birth, gargiyas ingest magma bubbling up from the ocean floor. By the time they’ve reached maturity, the monsters develop a molten core in their gullets that allows them to call forth scalding heat at will. Gargiyas’ aggressive tendencies toward seafarers have garnered them a wellearned nickname-“boiler beasts.”
 
 Gargiyas’ affinity for all things volcanic has left a pattern of stippled crimson on their massive, snake-like bodies. The spiny frills jutting from their heads and necks resemble enormous, iron-forged blades, and hundreds of stubby appendages line the sides of their underbellies, wriggling ominously when the beasts rear from the sea. Of all the gargiyas’ features, though, perhaps the most intimidating are their eyes and maws, which seethe with the light and heat of burning coals-particularly when the beasts are aggravated. Capable of slithering through water like an enormous python, a gargiya stretches 30 feet in length and weighs up to 5 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gargiya)
 ```encounter-table
 name: Gargiya

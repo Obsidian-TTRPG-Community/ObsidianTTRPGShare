@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Royalty (King)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,13 +41,13 @@ sources:
   - name: GameMastery Guide
     desc: 293
 ```
-# Description
+## Description
 A king is the ruler of a nation, usually a hereditary monarch schooled in the arts of statecraft and leadership, but no stranger to the sad necessities of steel and blood. Alert for treachery but possessed of all the courtly graces, a king leads his people. Whether or not he leads them well depends on his alignment, his goals, and the motives of his advisors.
 
 A king can also be used as a high-ranking general or powerful warlord, or even a wealthy and influential captain of industry.
 
 A king usually has a retinue of four knights (CR 15) but may travel with a dozen knights in times of war (CR 16). Kings may also be found in the company of a general, two noble advisors, and a high priest (CR 16). At court, a group of 10 nobles and a merchant prince might try to gain the favor of a king and his queen (CR 17). A king who fears for his safety while traveling in disguise might have two champions with him as bodyguards (CR 15).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Royalty%20(King))
 ```encounter-table
 name: NPC Royalty (King)

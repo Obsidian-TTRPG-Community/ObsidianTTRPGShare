@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skinstitch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 246
 desc_short: This hulking thing is a patchwork of rotten cloth and grotesque skin, with stray bits of straw poking out the seams.
 ```
-# Description
+## Description
 A skinstitch is a crude construct made of cloth, leather, hides, and skins sewn together into a roughly ogre-like shape and stuffed with hay. Skinstitches are usually created by a spellcaster lacking the power, talent, or gold to craft a flesh golem.
 
 A skinstitch’s stuffing juts out of gaps in the sewing and the mouths and eye-holes of its component faces, giving it a horrifying, ragged look. Swarms of vermin and other creatures often find refuge within the straw, and the magic of this construct grants swarms nesting within its body amazing regenerative powers. Despite its appearance, a skinstitch is strong, tough, and agile, though its components make it susceptible to fire.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skinstitch)
 ```encounter-table
 name: Skinstitch

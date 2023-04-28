@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Escorite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 61
 desc_short: This giant moth has a head like a doe skull and six short tentacles instead of legs. Its wings drizzle a cascade of shimmering dust.
 ```
-# Description
+## Description
 No one knows exactly what causes a remacera to pupate-whether it’s witnessing some mind-shattering evil, undergoing a specific number of resurrections, or random hormonal and instinctual triggers. Regardless, on rare occasions, a remacera may begin producing dark silk, sealing itself inside a black cocoon. A week later, it emerges in the form of a winged and skull-headed escorite.
 
  Where remaceras embody rebirth, escorites represent the inevitability of entropy. Even the boundless multiverse is slowly winding down, losing steam as the millennia roll by, and escorites seek to help this along, teaching the careless immortals of the First World to fear cessation. Even standing in an escorite’s presence claws at the mind, and to be the subject of one’s full focus is to risk disintegration. Escorites themselves are not immune to this constant decay; in fact, they embrace their decomposition, using the clouds of magical scales that slough off their wings to reveal invisible opponents.
@@ -67,7 +69,7 @@ No one knows exactly what causes a remacera to pupate-whether it’s witnessing 
  Left to themselves, escorites live just a few years, making no effort to reproduce. Yet in that time, they can destroy tremendous numbers of creatures and their works. Remaceras view escorites as abominations, and do everything they can to facilitate their destruction, yet have a strong racial taboo against attacking them directly, instead preferring to recruit members of other races to the cause. Escorites, for their part, have no compunctions about destroying their former brethren.
 
  The average escorite has a wingspan of 15 feet and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Escorite)
 ```encounter-table
 name: Escorite

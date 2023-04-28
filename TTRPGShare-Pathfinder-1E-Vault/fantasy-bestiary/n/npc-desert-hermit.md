@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Desert Hermit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 57
 desc_short: This weathered-looking desert dweller is dressed from head to toe in tan, loose-fitting robes.
 ```
-# Description
+## Description
 A desert hermit seeks the solitude in the windswept wastes for two chief reasons. First, the hermit finds that isolation allows him to more easily experience nature’s harsh beauty and raw power, which he seeks to emulate. Second, the wide open spaces provide the hermit with the freedom to experience the world without interference from human society, which is trapped in meaningless competitions to get ahead in a race toward an unhappy death plagued by debt, troublesome relationships, and arbitrary expectations enforced by shame, discrimination, and even violence.
 
 Desert hermits are often defensive and suspicious when interrupted by outsiders. They rarely form druid circles, preferring true isolation. Those who forgo their connection to the desert in favor of a bestial ally tend to select camels, cobras, jackals, and vultures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Desert%20Hermit)
 ```encounter-table
 name: NPC Desert Hermit

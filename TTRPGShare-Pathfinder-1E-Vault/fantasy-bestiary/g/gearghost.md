@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gearghost
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 123
 desc_short: Grasping arms emerge from a tangled cluster of debris and mechanical parts. A metal skull hovers above the clanging mess.
 ```
-# Description
+## Description
 Formed from the unquiet soul of a thief wrenched from life by a wicked trap, a gearghost delights in rigging up the same threats and tortures to which it succumbed. Eager to witness the deaths of others, the gearghost prowls the place of its death, constantly maintaining and resetting any traps in that area as it waits for victims to fall into its clutches. A gearghost also has the ability to create and set new traps, and as such its lair is usually choked with perilous new snares, spikes, and pits. A gearghost only keeps treasure as a lure for hapless adventurers, often using such treasure as the trigger for one of its devious creations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gearghost)
 ```encounter-table
 name: Gearghost

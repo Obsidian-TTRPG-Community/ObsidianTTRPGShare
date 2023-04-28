@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Death Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 76
 desc_short: This large worm’s body is muscular and scaly, its mouth a nightmare of row upon row of triangular teeth. 
 ```
-# Description
+## Description
 The reclusive death worm is much feared in the deserts, badlands, and steppes in which it dwells, for it brings to a battle multiple harrowing ways of inflicting death upon its foes-acid, lightning, poison, and its ravenous jaws. The creatures are remarkably good at hiding amid the sands and rocks of their favored terrain, and devilishly efficient at selecting foes that they can easily kill. This combination makes stories of these creatures hard to confirm, and in most urban centers, common wisdom is that the tales of death worms are fabrications-attempts to impress city folk or hallucinations born of too much drink. 
 
 A death worm is 15 feet long and weighs 1,200 pounds-although rumors of much larger death worms persist.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Death%20Worm)
 ```encounter-table
 name: Death Worm

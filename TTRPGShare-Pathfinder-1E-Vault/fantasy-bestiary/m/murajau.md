@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Murajau
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 59
 desc_short: This chitin-plated humanoid has the lower body of a hermit crab, complete with a brightly decorated shell encasing his back.
 ```
-# Description
+## Description
 Murajaus are nomadic creatures that travel in an eternal circuit across the seas. Legends claim they were originally servitors of a powerful marid ruler, until the ruler decreed they were to escort a foreign prince to her city, and were not to return without him. Upon arriving at the foreign kingdom, the murajaus discovered that the prince had recently perished from illness. Believing that they are unable to return home by royal decree, they have wandered endlessly for generations.
 
  Whatever the truth behind these tales, marids shun murajaus, and malevolent races often take advantage of them. Still, murajaus are usually hospitable, aiding lost travelers and allowing others to camp with them. Murajaus are even sought out for their knowledge of safe passages and obscure locales, as well as their eye for magic items.
 
  A typical murajau is 8 feet long and weighs 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Murajau)
 ```encounter-table
 name: Murajau

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Petrified Maiden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 37
 desc_short: Fresh blood seeps from the cracks of this weathered but exquisitely detailed stone sculpture of a warrior woman.
 ```
-# Description
+## Description
 Petrified maidens are the remains of the army of warrior women led by the pirate queen Mastrien Slash in her failed invasion of southern Geb. The wizard king Geb himself cursed the warriors, turning them to stone and creating what is now known as the Field of Maidens. While a petrified maiden appears at first glance to be a construct, it has in fact been animated by the restless undead spirit of the warrior maiden it once was. The nature of Geb’s curse remains mysterious even today-it is simply known that occasionally the spirits of the slain inhabit their stony corpses and lurch to vengeful unlife. When this occurs, the maiden’s stone weapon changes to steel (though it remains fused within the maiden’s grasp). The weapon can be recovered when the maiden is destroyed.
 
 Connected to one another by some unknown force-perhaps a side effect of Geb’s curse-those petrified maidens whose remains have been removed from the Field of Maidens do everything in their power to rejoin their sisters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Petrified%20Maiden)
 ```encounter-table
 name: Petrified Maiden

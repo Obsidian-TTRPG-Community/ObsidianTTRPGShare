@@ -1,19 +1,21 @@
 ---
-alias: Detect Evil
+aliases: [Detect Evil]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Evil 
+## Detect Evil
 
 **source**:: PRPG Core Rulebook pg. 266  
 **school**:: divination
 **level**:: adept 1, cleric 1, inquisitor 1, oracle 1, shaman 1, spiritualist 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Evil
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can sense the presence of evil. The amount of information revealed depends on how long you study a particular area or subject.  
   

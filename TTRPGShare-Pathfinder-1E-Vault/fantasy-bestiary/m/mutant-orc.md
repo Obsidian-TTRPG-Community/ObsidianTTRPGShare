@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mutant Orc
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 180
 desc_short: This mutated, eyeless, heavily scaled orc holds a crude club in one arm, but her other arm is withered and useless.
 ```
-# Description
+## Description
 When long-term exposure to radiation doesn’t result in a creature’s death, it often mutates the creature into a twisted version of itself. Some of these mutations can be advantageous to the creature; others are unquestionably a hindrance to it. In either case, mutants are plentiful throughout Numeria, especially in the Felldales, where they band together into roving bands of loosely affiliated marauders, traveling the landscape in search of food, shelter, or whatever other things motivate their fractured and warped minds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mutant%20Orc)
 ```encounter-table
 name: Mutant Orc

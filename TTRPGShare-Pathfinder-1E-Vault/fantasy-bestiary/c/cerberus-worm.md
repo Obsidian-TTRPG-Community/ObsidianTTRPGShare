@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cerberus Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 58
 desc_short: This slimy-skinned, three-headed sea beast has writhing tentacles and is surrounded by a black, poisonous cloud that flickers like fire.
 ```
-# Description
+## Description
 Believed to be the only beast of its kind, the cerberus worm is known for ambushing ships in Hellmouth Gulf, smashing them and eating their crew members alive. Because of the cerberus worm’s flame-like poison wreath, and because all reports of sightings have occurred in the past few decades, most believe the creature is some sort of infernal monstrosity tied to House Thrune. While such claims are untrue, the Chelish government has done little to quell the rumors, using the citizens’ own fears of its power to deter travel through Hellmouth Gulf and rebellion on its shores. In truth, the cerberus worm plaguing the gulf is but one of many such creatures living in the depths of the Arcadian Ocean. Why it ventured to the surface in recent years is a mystery.
 
 A cerberus worm is approximately 45 feet long and weighs 3,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cerberus%20Worm)
 ```encounter-table
 name: Cerberus Worm

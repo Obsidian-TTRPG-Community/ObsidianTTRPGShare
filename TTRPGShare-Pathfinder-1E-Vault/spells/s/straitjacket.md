@@ -1,19 +1,21 @@
 ---
-alias: Straitjacket
+aliases: [Straitjacket]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Straitjacket 
+## Straitjacket
 
 **source**:: Horror Adventures pg. 128  
 **school**:: conjuration (creation)
 **level**:: arcanist 5, inquisitor 4, occultist 4, sorcerer 5, summoner 5, summoner (unchained) 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (leather strap)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Straitjacket
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cause a straitjacket to spring into existence to restrain the target creature. You attempt a combat maneuver against the target’s CMD. Your CMB for this check is equal to your caster level + 5 due to the straightjacket’s Strength. This combat maneuver doesn’t provoke an attack of opportunity, and if it succeeds, the target is restrained. This is similar to the grappled condition, except the target is able to move at its normal speed, the restraint doesn’t cause the target to require concentration checks to use abilities that require concentration, and the target can’t take actions that require one or more hands or arms to perform (including casting spells that require a somatic or material component).  
   

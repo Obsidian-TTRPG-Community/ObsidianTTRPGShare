@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shambling Mound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 246
 desc_short: A mass of tangled vines and dripping slime rises on two trunk-like legs, reeking of rot and freshly turned earth.
 ```
-# Description
+## Description
 Shambling mounds, also called shamblers, appear to be heaps of rotting vegetation. They are actually intelligent, carnivorous plants with a fondness for elf flesh in particular. What serve as a shambler’s brain and sensory organs are located in its upper body. Shambling mounds typically have an 8-foot girth and stand between 6 and 9 feet tall. They weigh about 3,800 pounds.
 
 Shambling mounds are strange creatures, more akin to animate tangles of creeping parasitic vines than single rooted plants. They are omnivorous, able to draw their sustenance from nearly anything, wrapping their creepers around living trees to draw forth the sap, sending rootlets into the soil to absorb raw nutrients, or consuming flesh and bone from crushed prey.
@@ -61,7 +63,7 @@ Shambling mounds are strange creatures, more akin to animate tangles of creeping
 Shamblers are frighteningly stealthy in their native environments. Blending in with the surrounding terrain, they can lie in wait for days on end without moving, waiting patiently for a potential meal. A shambler could be almost anywhere at any time, attacking without warning and not caring whether it leaves any survivors, so long as it acquires its next meal.
 
 Shambling mounds normally lead solitary, nomadic existences in deep forests and fetid swamps, although they can also be found underground living among damp fungal thickets. Disturbing rumors persist, however, of shamblers gathering in strange congregations around great earthen mounds in the depths of marshes and jungles, often during the height of violent electrical storms. Their reasons for doing so are unknown, and many sages have wondered whether there is some obscure and alien purpose at work.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shambling%20Mound)
 ```encounter-table
 name: Shambling Mound

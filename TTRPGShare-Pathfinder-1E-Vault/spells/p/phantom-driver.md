@@ -1,19 +1,21 @@
 ---
-alias: Phantom Driver
+aliases: [Phantom Driver]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantom Driver 
+## Phantom Driver
 
 **source**:: Ultimate Combat pg. 239  
 **school**:: conjuration (creation)
 **level**:: arcanist 3, bard 3, occultist 3, skald 3, sorcerer 3, spiritualist 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **effect**:: one quasi-real, humanlike creature  
@@ -21,7 +23,7 @@ alias: Phantom Driver
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure a Small or Medium, quasi-real, humanlike creature (the exact physical features can be customized as you wish). This creation can drive any vehicle you command it to. This phantom creature does not fight, and while animals that power a muscle-propelled vehicle driven by the creature do respond to its commands, animals otherwise shun the creature and refuse to attack it.  
   

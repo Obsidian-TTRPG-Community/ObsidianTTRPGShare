@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thorgothrel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 90
 desc_short: A skeleton of silver rods gives this blob of protoplasm a roughly defined shape with an approximation of three arms and legs. Its outer skin shimmers with a rainbow of colors.
 ```
-# Description
+## Description
 Thorgothrels are a spacefaring race of aggressive genetic manipulators. In their natural form, thorgothrels are blobs of protoplasm 12 feet in diameter that move with awkward undulation. Thorgothrels can extrude pseudopods in order to manipulate objects and form simple tools. These pseudopods excrete a complex cocktail of chemicals that can force changes to a victim’s underlying genetic structure.
 
 Weighed down by Golarion’s gravity and quick to sublimate into poisonous vapor in the atmosphere, thorgothrels find Golarion (and similar planets) inherently inimical. A thorgothrel can move about on Golarion only by wrapping its body around a frame of silver rods that provides inner support and encases the creature in a resilient force field barrier. Despite the hazard Golarion’s atmosphere poses to these alien creatures, the planet’s staggering diversity of life presents a veritable cornucopia of beings upon which they can perform their genetic experimentations, inching closer to their goal of returning all creatures to a primeval, atavistic state.
 
 The silver armature largely determines the exact size of a thorgothrel, but a typical thorgothrel stands around 11 feet tall and weighs about 900 lbs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thorgothrel)
 ```encounter-table
 name: Thorgothrel

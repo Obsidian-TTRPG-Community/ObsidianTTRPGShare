@@ -1,19 +1,21 @@
 ---
-alias: Spellcasting Contract, Lesser
+aliases: [Spellcasting Contract, Lesser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spellcasting Contract, Lesser 
+## Spellcasting Contract, Lesser
 
 **source**:: Pathfinder \#29: Mother of Flies pg. 67  
 **school**:: evocation
 **level**:: cleric 5, oracle 5, warpriest 5 (Asmodeus)
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched; see text  
@@ -21,7 +23,7 @@ alias: Spellcasting Contract, Lesser
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions exactly like *imbue with spell ability*, except that you can imbue the target with any spell you have prepared (instead of just abjuration, divination, or conjuration \[healing\] spells) and the target may have more than one use of the imbued spells, depending upon the arrangements made when it is cast.  
   
@@ -32,4 +34,3 @@ Once you cast this spell, you cannot prepare a new 5th-level spell to replace it
 Unlike *imbue with spell ability*, how the target uses the spell has no reflection on your alignment or relationship with Asmodeus; the Prince of Darkness accepts that allowing another access to his magic for good may benefit his plans in the long run. Note that unlike *imbue with spell ability*, you cannot dismiss this spell; you must abide by the contract’s termination clause (though the contract may include a proviso for at-will nullification by either or both parties). This spell cannot be combined with *imbue with spell ability* or similar spells to give a target more spells than the limit.  
   
 *Example*: You cast this spell on your 5 HD fighter cohort after negotiating an appropriate contract, imbuing him with the ability to cast *cure moderate wounds*, *magic weapon*, and *shield of faith* once per day for 1 month. If he casts any of these spells, he recovers them when you prepare your spells. Until the contract ends, your 5th-level spell slot used to cast this spell remains expended and cannot be filled with a new spell. Because you imbued your cohort with a 2nd-level spell, you gain a +2 profane bonus to attacks, saves, and checks while the contract remains in effect.
-

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gerbie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 62
 desc_short: This half-mouse, half-lizard creature has large eyes and stands on its hind legs, radiating an air of goodwill.
 ```
-# Description
+## Description
 Gerbies are the fey of interspecies empathy and communication, devoted to fostering harmony and friendship. They abhor violence, and attempt to prevent it by granting adversaries the ability to talk to and understand each other. When that doesn’t work, gerbies see nothing wrong with direct magical intervention, either forcing the foes into friendship or causing creatures to forget whatever painful memories made them want to fight in the first place.
 
  While the adorable gerbies can make excellent friends and companions- helping further diplomacy, translate documents, and throw parties-gerbies often see it as their duty to “protect and correct” soldiers, rampaging monsters, and others whose professions involve violence, which can lead to no end of hassle for adventurers looking to slay their way to glory. In such situations, the best answer is usually to humor the gerbie until it falls asleep or gets distracted, then slip out of its friendship aura and flee quickly. While gerbie settlements tend to be idyllic places, full of laughter and huts built from hollowed-out mushrooms, many gerbies feel called to wander the world teaching other creatures the value of friendship. Though they understand that some creatures need to eat meat to live, gerbies themselves are zealous advocates of vegetarianism.
 
  A typical gerbie is 3 feet tall and weighs 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gerbie)
 ```encounter-table
 name: Gerbie

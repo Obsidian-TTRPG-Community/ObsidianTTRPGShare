@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Skilled Sniper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 145
 ```
-# Description
+## Description
 The skilled sniper waits for the perfect opportunity to strike.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Skilled%20Sniper)
 ```encounter-table
 name: NPC Skilled Sniper

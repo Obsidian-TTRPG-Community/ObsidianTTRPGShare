@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ecorche
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 109
 desc_short: This brawny creature has had its skin completely flensed from its form, revealing the violent pulsing of its massive, exposed muscles.
 ```
-# Description
+## Description
 The bodyguards and spies of undead masterminds, ecorches appear as gory giants with musculatures overdeveloped by infusions of necromantic toxins and grafts of reanimated sinew. Although its natural form possesses no skin, an ecorche can steal the flesh of another creature, flaying its victim in mere seconds and leaving it in unimaginable shock and pain with only moments to seek aid before perishing. Yet this gruesome act of violence is only the first stage of the chaos an ecorche spreads with its violence. An ecorche possesses incredible control over its gruesome form, allowing it to compress its body into the skin of a much smaller creature. Wearing such grisly garb, these terrors walk among the living, doing the bidding of their terrible masters or searching for more influential individuals to murder, skin, and impersonate. If an ecorche’s unholy nature is revealed, the monster is quick to dispose of its now-useless disguise, bursting from the suit of flesh and exposing its terrible form to the unprepared, few of whom can withstand such unabashed gore.
 
 An ecorche stands approximately 8-1/2 feet tall and weighs upward of 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ecorche)
 ```encounter-table
 name: Ecorche

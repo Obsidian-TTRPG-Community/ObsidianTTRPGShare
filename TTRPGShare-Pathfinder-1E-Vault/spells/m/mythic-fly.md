@@ -1,19 +1,21 @@
 ---
-alias: Mythic Fly
+aliases: [Mythic Fly]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fly
+## Mythic Fly
 
 **source**:: Mythic Adventures pg. 95  
 **school**:: transmutation
 **level**:: alchemist 3, arcanist 3, bloodrager 3, investigator 3, magus 3, medium 3, occultist 3, psychic 3, redmantisassassin 3, shaman 3, sorcerer 3, spiritualist 3, summoner 3, summoner (unchained) 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a wing feather)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Fly
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The subject can fly at a speed of 60 feet (or 40 feet if it wears medium or heavy armor, or if it carries a medium or heavy load). It can ascend at half speed and descend at double speed, and its maneuverability is good. Using a *fly* spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a *fly* spell can charge but not run, and it cannot carry aloft more weight than its maximum load, plus any armor it wears. The subject gains a bonus on Fly skill checks equal to 1/2 your caster level.  
   

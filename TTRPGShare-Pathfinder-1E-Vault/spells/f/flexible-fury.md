@@ -1,25 +1,27 @@
 ---
-alias: Flexible Fury
+aliases: [Flexible Fury]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Flexible Fury 
+## Flexible Fury
 
 **source**:: Advanced Class Guide pg. 182  
 **school**:: transmutation
 **level**:: bard 3, skald 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 You swap one of your current rage powers for another rage power you qualify for. If the rage power granted by this spell has a use limitation (such as once per rage or a number of times per day), any uses of that rage power count toward that limit (including for later castings of this spell).  
   

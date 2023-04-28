@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Jungle Wizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: NPC Codex
     desc: 180
 ```
-# Description
+## Description
 Jungle wizards live in harmony with nature. They’re frequently mistaken for druids, and often use such misunderstandings to their advantage. Many jungle wizards use natural materials for their magical gear, such as large leaves or hides for spellbooks and scrolls, unworked tree branches for wands, or grasses that can be knotted into the shapes of rings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Jungle%20Wizard)
 ```encounter-table
 name: NPC Jungle Wizard

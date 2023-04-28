@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Glass Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 138
 desc_short: This jagged construct of glass has a human’s shape, save that one arm ends in a jagged hammer and another in a spike of glass.
 ```
-# Description
+## Description
 A glass golem is a sizable guardian constructed by a powerful caster, usually in the shape of an armored humanoid. They are more common in desert lands where quartz-based sand is readily available, or in urban centers where glassblowing is commonplace.
 
 A typical glass golem is 10 feet tall and weighs 2,500 pounds.
 
 Stained Glass Golems (+0 CR): Divine casters sometimes build glass golems that resemble the windowpanes commonly found in temples. Thin and agile, these colorful beings often act as spies, wielding powers of stealth that their other counterparts do not possess. A stained glass golem has a +8 racial bonus on Stealth checks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Glass%20Golem)
 ```encounter-table
 name: Glass Golem

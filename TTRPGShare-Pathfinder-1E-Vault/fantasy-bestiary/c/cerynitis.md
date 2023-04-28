@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cerynitis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 53
 desc_short: This sleek and graceful doe possesses long, metallic antlers and a shiny, golden pelt.
 ```
-# Description
+## Description
 Cerynitises are rare golden does with magnificent metallic horns and hooves. These solitary creatures are born to ordinary deer with the blessings of a deity, typically a deity of nature or the hunt. Cerynitises are wise and placid creatures, but humanoids hunt them nonetheless for their valuable horns and pelts (worth 1,000 gp together), or for the sheer challenge of catching the uncatchable. Though heroes of nature occasionally dream of having a cerynitis mount, none have yet succeeded at gaining the service of such a prized steed. Though she is likely to run away before a conversation can begin, a cerynitis is willing to share her wisdom with those who prove they do not mean her harm.
 
 A typical cerynitis measures 10 feet long from head to tail and weighs 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cerynitis)
 ```encounter-table
 name: Cerynitis

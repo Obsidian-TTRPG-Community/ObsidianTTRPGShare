@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thognorok
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 305
 desc_short: This obscene mass looks like a melted blob crossed with a spider, ceaselessly lashing out with its hairy, wriggling legs.
 ```
-# Description
+## Description
 Although thognoroks are considered servitor qlippoth of Rovagug, they are actually sentient symbiotes that once had the misfortune of dining on the Rough Beast’s skin, blood, and other fluids. Equally at home on solid ground or swimming through toxic liquids, a thognorok hunts and consumes foreign materials and creatures that would impede its endless hunger to feed on more divine flesh-whether Rovagug’s or another deity’s.
 
 Because of its tainted connection with the god of destruction, a thognorok obeys any telepathic or chemical command transmitted to it by the god-whether it be a direct command, or even the orders of a powerful priest of the foul god. Thognoroks are rarely directly controlled by Rovagug; instead, they’re left to their own destructive rampages. The exception to this is when they accumulate in vast numbers near planar scars and rifts on the Material Plane where the god left some fleck of his terrible carapace or dripped vile and blasphemous liquid from his wounds. In such instances, the thognoroks try to fulfil whatever whim possessed the deity at the moment of his ages-old passing, typically the destruction of some site of celestial power or other random act of devastation.
 
 A common thognorok measures about 5 feet tall and weighs over 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thognorok)
 ```encounter-table
 name: Thognorok

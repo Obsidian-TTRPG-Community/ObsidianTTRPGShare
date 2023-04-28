@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Scholar Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 45
 ```
-# Description
+## Description
 The scholar priest is a devotee of magical knowledge, securing it from the unworthy at all costs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Scholar%20Priest)
 ```encounter-table
 name: NPC Scholar Priest

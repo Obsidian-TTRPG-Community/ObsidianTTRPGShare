@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soulpierced
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 90
 desc_short: This translucent apparition wears tatters of once-fine clothing and jewelry. The creature’s still-beating heart glows brightly around a dagger thrust through its chest.
 ```
-# Description
+## Description
 A soulpierced is created from the tormented spirit of a victim of ritualistic murder. Each soulpierced is bound to the site of its death by a magical blade thrust through its chest. Even as a spirit, the soulpierced’s still-beating heart is gruesomely visible, as is the blade stabbed through it. Although a soulpierced resembles a ghostly version of its living form, its features are so twisted by rage and grief that it is difficult to recognize. Prevented from moving on and receiving Pharasma’s judgment but also unable to be returned to life, these tormented creatures grow increasingly bitter and angry, magically inflicting its frustration and rage onto nearby creatures.
 
  Even those who destroy a soulpierced find their work incomplete, as the blade through the creature’s heart causes it to rejuvenate in the same location within days. Only by removing the soulpiercing blade can anyone free the creature and permanently eliminate it as a threat. But the attempt itself poses grave danger, as close proximity to the soulpierced exposes the opponent to the creature’s wrathful attack and the blade itself can harm those who remove it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soulpierced)
 ```encounter-table
 name: Soulpierced

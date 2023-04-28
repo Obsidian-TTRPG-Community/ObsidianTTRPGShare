@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fungal Nymph
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 116
 desc_short: Mushroom caps and mold sprout from the pallid skin of this lithe female figure, and spores waft from her fungal gills.
 ```
-# Description
+## Description
 A fungal creature is an animate plant with the appearance of a living creature. It grows from spores implanted in the dead body of a host creature, and takes on the host creature’s basic form and many of that creature’s abilities. It retains none of the memories of the creature it grew from, yet it instinctively knows how to use the abilities it inherited from its host. How exactly this is possible is a question that continues to befuddle scholars. The leading theory is that the spores’ precise modeling of their host succeeds in capturing some of the creature’s physiology-essentially copying its mind-but that for some reason the departure of the creature’s spirit or soul upon death prevents the spores from copying the memories as well.
 
 Fungal creatures are often content to sit in quiet contemplation, absorbing the nutrients they require from the life-giving earth. But when faced with living creatures, the overwhelming biological need to reproduce takes over, and the fungal creatures try to seed their spores into new hosts to spawn the next generation of fungal creatures.
@@ -73,7 +75,7 @@ Fungal creatures are often content to sit in quiet contemplation, absorbing the 
 Fungal creatures have the general appearance of the base creatures from which they spawned, but their skin is pale fungus rather than flesh and blood. Mushroom caps and shelf fungi sprout from a fungal creature’s body, along with fungal gills to deliver the fungal creature’s spores. As with many types of fungi, a fungal creature’s flesh is poisonous, and any creature that ingests any part of a fungal creature’s body risks infection by its spores (as described in the create spawn ability and fungal spores poison on the facing page).
 
 The fungal nymph presented here is built using the nymph from the Pathfinder RPG Bestiary. See page 217 of the Bestiary for rules on this creature’s blinding beauty, inspiration, spells, stunning glance, unearthly grace, and wild empathy abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fungal%20Nymph)
 ```encounter-table
 name: Fungal Nymph

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vilsteth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 86
 desc_short: This fiend seems carved from weathered ivory, and runes and symbols of power cover its pale flesh. Its eyes glow an eerie yellow, and horns curl from its eerie, mouthless head.
 ```
-# Description
+## Description
 Vilsteth demons, also known as corruption demons, are calved from the essence of the demon lord Baphomet’s realm of the Ivory Labyrinth. Vilsteths form from the souls of corrupt and deceitful politicians, priests, and power brokers-those who in life abused and misused whatever ephemeral power they wielded. The defining sin of these souls was pride, fueled by vanity and a desire for adulation and ever-greater authority to be wielded in whatever selfish way they saw fit, coupled with a furious envy of anyone more beloved, respected, or feared than they. Vilsteths epitomize these traits, and can often be found lurking in monuments dedicated to important political figures or disguised within statues of prominent saints and heroes. In their natural form, vilsteths are over 7 feet tall and weigh 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vilsteth)
 ```encounter-table
 name: Vilsteth

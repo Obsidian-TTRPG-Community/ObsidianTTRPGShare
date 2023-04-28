@@ -1,19 +1,21 @@
 ---
-alias: Improve Trap
+aliases: [Improve Trap]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Improve Trap 
+## Improve Trap
 
 **source**:: Advanced Race Guide pg. 137  
 **school**:: transmutation
 **level**:: antipaladin 2, arcanist 3, druid 3, hunter 2, inquisitor 3, ranger 2, redmantisassassin 3, sorcerer 3, witch 3, wizard 3 (kobold)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one trap  
@@ -21,7 +23,7 @@ alias: Improve Trap
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of casting. The caster can improve the trap in any of the following ways (each one raises the trap’s CR by +1).
 

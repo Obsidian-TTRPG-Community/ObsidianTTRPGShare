@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zoog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 288
 desc_short: This skittish amalgam of beast parts has luminous eyes, a rat’s tail, simian appendages, and tendrils extending from a mole-like nose
 ```
-# Description
+## Description
 Spiteful, nasty creatures with a taste for the flesh of sentient beings, zoogs lurk in the shadowy, moldering places of the world. Often mistaken merely for otherworldly animals, zoogs possess base intentions and vicious demeanors that set them apart from lowly beasts. Congregating in loose, tribal societies, these sinister creatures claim the depths of dark woodlands or moldy forests as their homes, favoring lands where the boundaries between worlds and planes grow thin and strange creatures-not unlike themselves-slip between reality’s cracks.
 
 Although lone zoogs shy away from attacking larger creatures, when zoogs outnumber an invader they launch deadly ambushes, leaping from sagging boughs and hidden dens to swarm foes. Only strangers with quick tongues and items that appeal to zoogs’ interest in magical curiosities might manage to barter for safe passage through zoog territory. While many victims of zoog attacks are consumed on the spot, some less fortunate few are dragged back to the mystical, strangely carved stones that mark the center of zoog communities. There, such captives become the doomed focus of strange ceremonies before being sacrificed to the zoogs’ depraved deities.
@@ -63,7 +65,7 @@ Although lone zoogs shy away from attacking larger creatures, when zoogs outnumb
 Commonly, zoogs eat fungi and plants, but they also have a taste for the meat of sentient creatures, treating the butchering and consumption of such beings as a rare privilege. Zoogs also detest cats, and go to great lengths to slay felines of any sort and devour them.
 
 Occasionally a zoog allows a spellcaster of especial depravity, or with interests in the mysteries of realms and creatures beyond the mortal world, to employ it as a familiar. A spellcaster must have the Improved Familiar feat, be chaotic evil, and have an arcane caster level of 5th or higher to gain a zoog familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zoog)
 ```encounter-table
 name: Zoog

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Succubus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 68
 desc_short: Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of this alluring woman.
 ```
-# Description
+## Description
 Among the demon hordes, a succubus can often rise to incredible heights of power through her manipulations and sensual charms, and many a demonic war has raged due to the subtle machinations of such creatures. A succubus is formed from the souls of particularly lustful and rapacious evil mortals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Succubus)
 ```encounter-table
 name: Succubus

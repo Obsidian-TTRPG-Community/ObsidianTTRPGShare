@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gorgon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 165
 desc_short: This bull-like creature seems to be made of interlocking metallic plates. Faint plumes of green smoke puff from its mouth.
 ```
-# Description
+## Description
 Gorgons are magical, foul-tempered creatures-while they might appear to be constructs at first glance, beneath their artifical-looking armor plates they are made of flesh and bone. Like aggressive bulls, they challenge any unfamiliar creature they encounter, often trampling their opponent’s corpse or shattering its stony remnants until the creature is unrecognizable. The females are just as dangerous as the males, and the two sexes appear identical. A typical gorgon stands 6 feet tall and 8 feet long. It weighs 4,000 pounds.
 
 Gorgons derive nutrients from the consumption of minerals, particularly the stone of their petrified victims, and any statues they create are likely to be gnawed thoroughly. They cannot digest metal or gems, so their dung (which resembles bitter-smelling gray powder) often contains small, raw crystals and nuggets of ore. Their aggression toward all other creatures means that there are few to no predators or other prey animals in their grazing grounds. Each herd is led by a dominant bull; solitary gorgons are usually adolescent bulls driven out of their herd by the lead bull.
 
 Their flesh is tough but beefy (once the armored hide is removed), and to those who acquire the taste, quite filling. Many stone giant tribes believe eating gorgon meat enhances their own natural armor. Powdered gorgon horn is worth 250 gp as an alternate material component for magic items using bull’s strength, stoneskin, flesh to stone, statue, and similar magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gorgon)
 ```encounter-table
 name: Gorgon

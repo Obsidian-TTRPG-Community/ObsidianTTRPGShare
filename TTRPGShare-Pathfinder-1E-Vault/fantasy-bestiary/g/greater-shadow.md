@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Greater Shadow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 245
 desc_short: This shadowy figure sways and moves with an erratic grace, as if lit by an unseen fire.
 ```
-# Description
+## Description
 Greater shadows are those undead shadows that have come to be particularly infused with negative energy, such as those that have spent vast lengths of time in areas of the Plane of Shadow awash in negative energy, or those that have drained the lives of thousands of victims. These undead monsters are often found with a small band of normal shadows, which typically treat a greater shadow as a leader to rally behind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Greater%20Shadow)
 ```encounter-table
 name: Greater Shadow

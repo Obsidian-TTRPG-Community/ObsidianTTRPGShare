@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Water Leaper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 275
 desc_short: This vicious monster has webbed wings, a mouth full of sharp teeth, and a long tail ending a black stinger.
 ```
-# Description
+## Description
 Water leapers are ornery hunters that thrive in lakes, swamps, and other marshy bodies of water. They eagerly ambush much larger targets. Against challenging prey, they make their namesake leap from the water, use their jagged sting to open a wound, and then wait for their victim to bleed out. Although fishermen tell tales of marauding water leapers, in reality, the creatures prefer attacking animals and other less canny prey, since intelligent creatures are both more likely to be able to halt the bleeding from the water leaper’s sting and hold a grudge afterward.
 
  The average water leaper is a little over 3 feet long, not counting its wings or the length of its tail, and weighs between 8 and 16 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Water%20Leaper)
 ```encounter-table
 name: Water Leaper

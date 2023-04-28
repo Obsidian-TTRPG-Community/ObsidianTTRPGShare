@@ -1,19 +1,21 @@
 ---
-alias: Veil
+aliases: [Veil]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Veil 
+## Veil
 
 **source**:: PRPG Core Rulebook pg. 364  
 **school**:: illusion (glamer)
 **level**:: arcanist 6, bard 6, mesmerist 6, psychic 6, skald 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one or more creatures, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Veil
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes; see text
 
-### Description 
+### Description
 
 You instantly change the appearance of the subjects and then maintain that appearance for the spell's duration. You can make the subjects appear to be anything you wish. The subjects look, feel, and smell just like the creatures the spell makes them resemble. Affected creatures resume their normal appearances if slain. You must succeed on a Disguise check to duplicate the appearance of a specific individual. This spell gives you a +10 bonus on the check.  
   

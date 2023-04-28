@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cantor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 30
 desc_short: All the skin has been scraped from this childlike humanoid’s frame, revealing cords of gray musculature. Its eyes burn with a red glow.
 ```
-# Description
+## Description
 Few can imagine what atrocities bring kyton cantors into being. Like all kytons, cantors arise in pain, but theirs is of a more deliberate sort. Just as its skin is stripped away, a cantor’s consciousness is shattered and reforged, making it a weapon against reality and a scalpel to excise sanity. Among their brethren, cantors serve as scouts, guides to more brutish kytons, and, along with their teeming brethren, throng the ruined halls of Shadow Plane fortresses.
 
 A cantor stands a mere 3 feet tall and weighs less than 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cantor)
 ```encounter-table
 name: Cantor

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akhana
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 9
 desc_short: Four gray arms project from a swirling mass resembling a giant eye, from which a tail-like appendage dangles. 
 ```
-# Description
+## Description
 Akhanas bear charge over the duality of birth and death. They perceive the existence of living things as crucial to maintaining cosmic balance. They also understand the profound influence living things have on the cosmos, and if left untended, its ability to create terrible consequences. In this circumstance, life must give way to death. 
 
 Akhanas wander the byways of the multiverse, constantly on the hunt for imbalances in life. How they judge these imbalances is not well-understood by non-aeons, and the aeons are singularly unmotivated to justify akhanas’ decisions when inquired about them. As a result, the focus of akhanas’ attacks and attentions usually seems arbitrary or even random to most creatures-they do not always focus their attentions on the strongest or the weakest members of a group. 
 
 An akhana stands 5 feet in height and weighs 120 pounds. Its strange central body seems vaporous, but is weirdly solid (and slimy) to the touch.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akhana)
 ```encounter-table
 name: Akhana

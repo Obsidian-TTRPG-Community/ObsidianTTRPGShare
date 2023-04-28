@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fierani Demon Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 21
 ```
-# Description
+## Description
 Against the Abyssal corruption of Tanglebriar stand the elven demon hunters of the Fierani Forest. For most, this duty is their life’s work, undertaken more with fatalistic determination than with zeal. For though the elves have contained Treerazer in the southern forest for more than 2,000 years, their greatest efforts since have failed to shift the boundaries between the untainted forest of Kyonin and Tanglebriar. The demon hunters know that even an elf ’s lifetime suffices only to keep the demons contained, not to defeat them.
 
 Besides guarding the borders of the Fierani against demons and their minions, the demon hunters maintain a quarantine on Treerazer’s dominion. None may pass through the Fierani Forest into Tanglebriar. Those who try are turned away; those who persist are slain. The elves of Kyonin view the menace of Tanglebriar as an affair for elves and elves alone.
 
 While demons pose a threat elsewhere in the Inner Sea region (most notably the Worldwound), the elves of the Fierani are highly isolationist, and focus the brunt of their attention and effort on keeping their own Abyssal threat at bay. Despite their insularity, however, small elven strike forces have participated in past Mendevian Crusades, if only on a limited basis.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fierani%20Demon%20Hunter)
 ```encounter-table
 name: NPC Fierani Demon Hunter

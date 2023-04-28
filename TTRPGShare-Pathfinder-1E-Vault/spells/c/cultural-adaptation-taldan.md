@@ -1,25 +1,27 @@
 ---
-alias: Cultural Adaptation (Taldan)
+aliases: [Cultural Adaptation (Taldan)]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cultural Adaptation (Taldan) 
+## Cultural Adaptation (Taldan)
 
 **source**:: Humans of Golarion pg. 28  
 **school**:: divination
 **level**:: arcanist 1, bard 1, cleric 1, oracle 1, skald 1, sorcerer 1, warpriest 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a document written in the language of the culture to be emulated)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 10 minutes/level
 
-### Description 
+### Description
 
 During the height of the Empire of Taldor’s expansionism, Taldan wizards developed this spell with the idea that it might make pacifying their “uncivilized” conquests easier. While the spell has since fallen out of favor with Taldans, it is much embraced by others, bards and Pathfinders in particular.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kobold Guilecaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
   - name: Monster Codex
     desc: 131
 ```
-# Description
+## Description
 Kobolds see sorcery as proof of their draconic heritage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kobold%20Guilecaster)
 ```encounter-table
 name: Kobold Guilecaster

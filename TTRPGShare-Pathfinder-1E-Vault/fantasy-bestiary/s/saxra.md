@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Saxra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 220
 desc_short: An immense humanoid skeleton stands draped in tattered robes, its horselike skull lit from within by an eerie red glow.
 ```
-# Description
+## Description
 This undead spirit of bones and wind makes its home high atop remote mountains. Legends claim that a saxra can call forth amazing insights from latent memories stored in the very bones that make up its form.
 
  A saxra towers over 20 feet tall and weighs 2 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Saxra)
 ```encounter-table
 name: Saxra

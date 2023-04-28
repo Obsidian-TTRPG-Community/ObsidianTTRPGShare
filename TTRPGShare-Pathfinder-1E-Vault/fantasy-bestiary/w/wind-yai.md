@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wind Yai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 88
 desc_short: A third eye rests on the forehead of this ornately robed giantess, her figure half-shrouded in the darkness of a starry night that swirls continuously about her.
 ```
-# Description
+## Description
 Wind yai may take after the graceful cloud giants in general appearance, but given their hard, icy stares and the brooding manner in which they carry themselves, observers may not immediately relate the two races. Whereas cloud giants wear their finely made robes and ornate jewelry with an air of regality and serenity, their oni imitators manage to make even the humblest garments and adornments seem ostentatious, and are always shrouded in an air of darkness that many liken to an ill omen. Though wind yai look as though they have one foot in the light of day and the other in the darkness of night, the shadow that perpetually swirls about the otherworldly beings is not the result of any natural source; in actuality, the supernatural night that constantly follows wind yai is a raw magical manifestation of their foul intentions and evil nature.
 
 Wind yai do not shape the winds-they force their will upon them, commanding the powers of the sky to commit acts of domineering brutality with none of the natural grace normally associated with the element. Whereas a cloud giant is always accompanied by a gentle breeze, the malicious wind yai brings with it only furious storms, the chaotic winds tossing its hair about and blowing dust into its unblinking triad of eyes.
 
 A wind yai is 20 feet tall and weighs over 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wind%20Yai)
 ```encounter-table
 name: Wind Yai

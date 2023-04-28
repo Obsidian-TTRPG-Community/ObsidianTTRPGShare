@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Emotion Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 108
 desc_short: This viscous blob of brightly colored goo quivers and pulses in a curious manner.
 ```
-# Description
+## Description
 Truly bizarre and alien creatures, emotion oozes are made of ectoplasm that has somehow been granted the spark of life. Though they can’t be categorized as intelligent, emotion oozes have a unique emotional empathy, allowing them not only to respond and react to the emotions of nearby creatures, but also to psychically shape and alter the emotions of others.
 
  Though they are carnivorous, emotion oozes prefer to seek out victims with strong emotions, on which they also feed. As a part of their unnatural biology, they gain a physiological benefit from being exposed to strong emotions. Each emotion ooze is attuned to a specific emotion, and the cause of this connection is unclear. The most commonly accepted theory is that the oozes imprint on the first strong emotion that they are exposed to or that the emotion is imprinted in the ectoplasm, though others believe that the creatures have some control over this bond, and can even change the emotion they’re attuned to given enough time. In addition to their coloration ref lecting their attuned emotions, emotion ooze takes on forms that befit the emotion to which they are tied, making it fairly easy for those with knowledge of the creatures to determine each one’s particular emotional attunement on first glance.
@@ -82,7 +84,7 @@ Truly bizarre and alien creatures, emotion oozes are made of ectoplasm that has 
  Emotion oozes often dwell in places where strong emotions were felt in the past, suggesting the creatures might have latent psychometric ability. Hatred oozes might live at the sites of massacres, zeal oozes in old temples or political offices, despair oozes in ancient prisons, and so on. If stuck in one place or deprived of emotional connections for a long time, an emotion ooze begins to lose its coloration, becoming a dull white, and eventually hardens and cracks into pieces.
 
  The typical emotion ooze has about the same volume as a human, but its composition makes it significantly lighter, weighing only around 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Emotion%20Ooze)
 ```encounter-table
 name: Emotion Ooze

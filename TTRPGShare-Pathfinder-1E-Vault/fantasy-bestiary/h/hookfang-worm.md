@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hookfang Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 249
 desc_short: This long, orange, segmented worm’s colorful head unfolds like a horrific flower to reveal five large, black, hooklike teeth.
 ```
-# Description
+## Description
 The hookfang is primarily an ambush predator; it swims quickly, but only in brief bursts. When hunting, it covers most of its body under the sands of the ocean floor and remains perfectly still until potential prey swims nearby. When it lunges, its bite is so quick and powerful that its hook-teeth can cut targeted creatures in half. A smaller (but still sizable) variant of the hookfang is the vampire worm, which drains blood from its victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hookfang%20Worm)
 ```encounter-table
 name: Hookfang Worm

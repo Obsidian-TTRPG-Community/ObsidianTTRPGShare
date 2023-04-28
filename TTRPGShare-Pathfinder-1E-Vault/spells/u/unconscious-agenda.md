@@ -1,19 +1,21 @@
 ---
-alias: Unconscious Agenda
+aliases: [Unconscious Agenda]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Unconscious Agenda 
+## Unconscious Agenda
 
 **source**:: Rise of the Runelords Anniversary Edition pg. 419, Pathfinder \#5: Sins of the Saviors pg. 61  
 **school**:: enchantment (compulsion) (language-dependent, mind-affecting)
 **level**:: arcanist 6, bard 6, inquisitor 6, skald 6, sorcerer 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: Close (25 ft. + 5 ft./2 levels)  
 **target**:: One humanoid  
@@ -21,7 +23,7 @@ alias: Unconscious Agenda
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell plants a subconscious directive in the target’s mind that forces him to act as you dictate when specific circumstances arise. The target humanoid can be either conscious or unconscious, but must understand your language. Upon casting this spell, you must state a course of action you wish the target to take. This course of action must be described in 20 words or fewer. You must then state the condition under which you wish the target to take this action, also describing it in 20 or fewer words. Actions or conditions more elaborate than 20 words cause the spell to fail. *Unconscious agenda* cannot compel a target to kill himself, though it can compel him to perform exceedingly dangerous acts, face impossible odds, or undertake almost any other course of activity. You cannot issue new commands to the target after the spell is cast.  
   

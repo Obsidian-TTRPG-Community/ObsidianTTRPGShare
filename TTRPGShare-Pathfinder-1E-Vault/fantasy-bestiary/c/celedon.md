@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Celedon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 52
 desc_short: This metallic sculpture of an idealized humanoid figure sparkles with divine luster.
 ```
-# Description
+## Description
 Not all deities trust their worship to the care of fickle, short-lived mortals. When it comes to their most sacred sites, many gods entrust the duty of caretaker to celedons, immortal automatons of perfect faith.
 
 Forged of the purest extraplanar metals, every celedon exists to serve a single deity. Each possesses a boundless willingness to praise their deity’s name, whether through song, oration, mock battle, or whatever performance their creator favors. Most spend the entirety of their existences tending a single holy place, repeating rituals, perfecting services, and creating new works to laud their particular deities. Celedons in the service of a goddess of law might perform an endless cycle of daily ceremonies and shrine upkeep, with time set aside for copying scripture and adjudicating disputes between the faithful. Those who serve a chaotic god of destruction might perform sacrifices as whims strike them, while erratically preparing weapons of war. While only those celedons created by martially minded deities function as warriors, most of these divine constructs zealously defend their divinely chosen homes and eagerly sacrifice themselves in their defense.
@@ -58,7 +60,7 @@ Forged of the purest extraplanar metals, every celedon exists to serve a single 
 Celedons always honor and work to serve the word of their patron deity, nimbly navigating contradictions or hypocrisy in divine dogma. However, if an individual can, through extreme circumstances, convince a celedon to abandon her faith, the results are dramatic. A faithless celedon emits a blast of energy that deals 4d6 points of damage to all creatures within 10 feet, after which her sentience leaves her. The celedon continues to exist and mindlessly performs maintenance routines and other simple duties, but her Intelligence score and all special abilities are lost forever-a fate most celedons consider more merciful than living with apostasy. Revelations capable of causing a celedon to lose faith are exceedingly rare, usually due to exceptional circumstances or adventures-a celedon can’t be persuaded to abandon her faith through mere rhetorical skill.
 
 Most celedons look like idealized humanoids, though their metallic appearances conform to the preferences of their creators.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Celedon)
 ```encounter-table
 name: Celedon

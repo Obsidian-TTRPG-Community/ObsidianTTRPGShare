@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Veranallia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -95,7 +97,7 @@ sources:
     desc: 62
 desc_short: This beautiful, rosy-haired woman has a lower body composed of a column of autumnal leaves and gently swaying vines.
 ```
-# Description
+## Description
 Veranallias are among the most powerful azatas known and embody the changing of the seasons, from blossoming spring to dormant winter. They command the growth and decay of plants, control various aspects of the weather, and enrich soil with the remains of fallen foes. A veranallia stands 10 feet tall and weighs about 350 pounds. 
 
 Beautiful and majestic, the queenly veranallia has a form that combines aspects of a beautiful woman and the subtle power of nature. A veranallia appears humanoid from the waist up, but where her thighs and legs should be, she instead sprouts countless vines, leaves, and various kinds of plant matter. These flora represent the life of plants throughout all stages of the year, continually shifting from blooming, verdant colors and textures to crisp, withered specimens and back in a matter of seconds. 
@@ -105,7 +107,7 @@ Veranallias hail from the wildest regions of Elysium, realms where few but the m
 At first glance, a veranallia’s body appears to be wrapped in foliage, but these vines are actually a part of the azata’s strange physiology. She is not subject to blight or similar plants affecting magic, but attempts to use such abilities to hinder her provoke a veranallia’s ire like little else. A veranallia’s vines can entwine and crush an enemy as easily as a python would crush a field mouse. These vines often change appearance based on the veranallia’s environment, but not always in a predictable or sensible manner. 
 
 Veranallias often prefer the company of other azatas, and often have a following of faithful bralanis or ghaeles. Their volatile natures can make it quite difficult for many other creatures, even other azatas- to be involved with them. For example, lillends are not inspired by the dangerous power of veranallias, and brijidines’ (Pathfinder RPG Bestiary 2 37) belief in the cleansing power of fire does not make friendship with the verdant veranallias easy. While most other celestials concede that veranallias have only the best intentions, most would still rather deal with more predictable members of the celestial planes. Archons in particular find it almost impossible to speak to veranallias, and the noble angels and agathions have trouble following a veranallia’s leaps in logic and rapidly shifting moods.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Veranallia)
 ```encounter-table
 name: Veranallia

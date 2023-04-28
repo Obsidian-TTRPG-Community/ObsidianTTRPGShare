@@ -1,19 +1,21 @@
 ---
-alias: Fey Gate
+aliases: [Fey Gate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fey Gate 
+## Fey Gate
 
 **source**:: Ultimate Wilderness pg. 230  
 **school**:: conjuration (creation)
 **level**:: arcanist 8, bard 6, cleric 8, druid 8, oracle 8, skald 6, sorcerer 8, summoner 6, summoner (unchained) 6, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
   
@@ -21,7 +23,7 @@ alias: Fey Gate
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as the planar travel function of *gate*, except it can be used to travel only between points on the Material Plane and the First World, and it comes with additional dangers.  
   

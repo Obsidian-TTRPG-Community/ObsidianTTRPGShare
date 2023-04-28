@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bugbear Ambusher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Monster Codex
     desc: 23
 ```
-# Description
+## Description
 Stalking though the wilderness, bugbear hunters are always on the lookout for potential food and victims to practice their cruelties on. As a rule, they are territorial and patient, and thrill in the opportunity to prey on travelers far from the support of civilization.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bugbear%20Ambusher)
 ```encounter-table
 name: Bugbear Ambusher

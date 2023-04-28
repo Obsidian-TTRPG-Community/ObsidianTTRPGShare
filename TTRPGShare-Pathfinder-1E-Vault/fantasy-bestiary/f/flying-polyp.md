@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flying Polyp
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 86
 desc_short: This nauseating, tapered tower of flesh, eyes, and tendrils writhes midair, surrounded by a strange vortex of sucking wind.
 ```
-# Description
+## Description
 A flying polyp is a nauseating mass of flesh, eyes, tentacles, and mouths. A typical flying polyp measures 30 feet in length but is unusually light for its size, weighing no more than 2,000 pounds. These creatures seem to have no maximum lifespan, but their violent, warlike nature ensures that death eventually occurs-even if it takes eons for the polyp to encounter something capable of defeating it.
 
 A flying polyp is a physical being, but one composed of material strangely unlike the flesh that garbs most living creatures. While the stuff that makes up the exterior of a flying polyp’s body might seem similar to ordinary flesh, it often behaves in ways that should be impossible. The material seems to fade in and out of visibility, almost at random, at points becoming transparent enough that the nauseating inner workings of the thing’s body are laid bare. Although the polyp feels moist and damp to the touch, what might serve as blood in other creatures behaves more like strange vortices of wind within a flying polyp’s body. When wounded, its damaged flesh does not bleed so much as whistle and gust.
@@ -80,7 +82,7 @@ A flying polyp’s association with wind goes far beyond the strange storms that
 Although flying polyps display some of the features of other sentient races, particularly in their habit of building cities (although these towering settlements usually incorporate architectural features that most other races find awkward and unsettling), in other areas they seem strangely primitive or uninterested. They are as aberrant in mind and philosophy as they are in physical form. For example, they seem to have neither a name for their own race, nor a language to call their own. Their cities, while bewildering in their vast scale, seem to serve little purpose other than to unnerve, for flying polyps do not engage in trade or politics or other social constructs.
 
 The primary exception to this, to the detriment of other creatures unfortunate enough to dwell in regions claimed by flying polyps, is war. Flying polyps excel at genocide, using their mastery over wind to scour clean entire cities and civilizations when they come upon them. Some among their kind can even travel to other planets by bringing with them a sizable sphere of purloined wind to carry them aloft and sustain them, and with this power they lead armies from planet to planet as necessary, relentlessly tracking their chosen enemies across worlds. Every so often, flying polyps encounter a race that is their equal in war, and on some worlds, they still endure the humiliation of these ancient defeats after being imprisoned in extensive underground chambers where they are cut off from the outside world. Yet flying polyps are long-lived, and should unforeseen tectonic events creates new exit to their prison chambers, lost in the forgotten corners of those planets’ depths, they emerge with unabated fury to seek revenge against the enemies who dared humiliate them so.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flying%20Polyp)
 ```encounter-table
 name: Flying Polyp

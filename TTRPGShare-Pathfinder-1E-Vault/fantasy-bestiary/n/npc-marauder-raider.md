@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Marauder (Raider)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
   - name: GameMastery Guide
     desc: 280
 ```
-# Description
+## Description
 Raiders are the children of the raging storm, wild warriors from the wrinkled hills and jagged mountains. They descend from their aeries with moods as foul and war cries as terrifying as the wild weather that drives them, leaping, scaling the heights, diving from cover to cover, and raining death upon their enemies.
 
 Raiders can be used as skirmishers or scouts, or they can represent any sort of bandits or wild men from the hills who strike the outlying bastions of civilization without warning.
 
 Raiders are often found alone but may travel with a monster hunter (CR 7) or in pairs with a viking (CR 9). Six raiders might form a raiding party with a chieftain, or serve as a chieftain’s honor guard (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Marauder%20(Raider))
 ```encounter-table
 name: NPC Marauder (Raider)

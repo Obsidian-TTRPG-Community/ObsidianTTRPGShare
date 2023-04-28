@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Katpaskir
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
     desc: 86
 desc_short: Four clawed arms sprout from this fiend’s chest like the limbs of a buried insect struggling to crawl free. Overlapping iridescent plates of chitin cascade down the monster’s back, shrouding four membranous dragonfly wings.
 ```
-# Description
+## Description
 Katpaskirs are a pox and pestilence upon not just the world, but reality itself. Just as bugs burrow into unwatched crevices, katpaskirs pry their way into other realms and dimensions. They gnaw and scratch and grind away at the edges of the universe, the planar junctures where the folds of creation bend in upon themselves. They have an uncanny sense for finding natural rifts, portals, and convergences, and they seek ever for ways to expand and untether these natural gates. By setting them loose to drift across the world, they unhinge the orderly substrate of the multiverse, casting all into primordial chaos as the planes unravel. Their voices are strange and echoing, like several voices sounding together, each distorted and cacophonous and rising and falling asynchronously in pitch and volume. When not actively engaged in a task, katpaskirs tend to stand perfectly still, with the exception of its insectlike limbs, which rhythmically stroke the air in front of them. When other creature come near-or if some teleporting creature triggers the demon’s warp sense special ability-it snaps out of this self-imposed stasis, ready to attack. Katpaskirs are a little over 7 feet tall and weigh just less than 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Katpaskir)
 ```encounter-table
 name: Katpaskir

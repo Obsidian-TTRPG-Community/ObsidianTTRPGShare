@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Old-Mage Jatembe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,7 +83,7 @@ sources:
     desc: 56
 desc_short: This gray-haired man with a short, wiry beard wears a nondescript robe festooned with satchels and decorations.
 ```
-# Description
+## Description
 No character looms larger in the myths of the Mwangi tribes than Old-Mage Jatembe. Jatembe rose to prominence in the Age of Anguish, a time when mankind was just beginning to recover from the devastation caused by Earthfall and the destruction of Azlant. Jatembe was the first among humanity to rediscover the art of wizardry and written magic, and did much to redeem these arts in the eyes of a superstitious people. Jatmebe worked tirelessly to stem the tide of barbarism left in the wake of the Age of Darkness, and preserve the learning and culture of his people. He is remembered as a folk hero among the Mwangi, and as a beacon of hope in a darkest of times.
 
 Little is known about Jatembe’s origins. Even in the earliest of myths, he’s described as an old man. Some scholars point out parallels between Jatembe’s ageless nature and the immortal masters of the lost city of Ird, suggesting that fabled city as his birthplace, though the decadent and cruel lords of Ird have little else in common with him. Later accounts claim Jatembe and his disciples destroyed the city of Ird to punish it for its wickedness, casting doubt on this theory. Other myths connect Jatembe with the druids of the Mwangi Expanse, some even claiming he was an ex-druid himself. True or not, Jatembe did have an affinity for druidic magic, and the magical school he founded-the Magaambya-continues to teach druid spells to this day.
@@ -91,7 +93,7 @@ The details of Jatembe’s ascension are similarly occluded by millennia of myth
 Prior to his mysterious departure, Jatembe performed many astonishing deeds. The first of these was the gathering of his disciples, the Ten Magic Warriors. These men and women were known only by the golden animal masks they wore, having forsaken their identities in service to Jatembe and his quest. With their help, Jatembe explored the ancient ruins that dot the Mwangi Expanse, uncovering ancient magical secrets and treasures. He founded the city of Nantambu and the Magaambya arcane academy to preserve and share knowledge and wealth with future generations, and to protect the Expanse from further devastation such as that wrought by the Earthfall. In later days, Jatembe fought and defeated the twisted sorcerer known as the King of Biting Ants, who claimed to possess a weapon that would allow him to eat the sun and cast the world into darkness.
 
 For reasons unknown, Jatembe departed Golarion; if anyone knows where he left to, they’re silent on the matter. Some believe he left to fulfill obligations to the beings who granted him mythic power, and others think a magnificent spell took him. He left his Ten Magic Warriors behind to rule in his place, and forged the Ring of Nine Facets (Artifacts and Legends 40) to aid them in his absence. He has created and used other artifacts in his travels, but gave them all away to allies, keeping only the beacon of true faith that one of his patrons gave him.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Old-Mage%20Jatembe)
 ```encounter-table
 name: Old-Mage Jatembe

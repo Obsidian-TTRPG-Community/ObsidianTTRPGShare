@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Varisian Hagfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 82
 desc_short: A mouth like a lamprey’s gnashes curved teeth at one end of this slimy, eel-like fish.
 ```
-# Description
+## Description
 These cousins to normal hagfish most commonly appear in the Varisian Gulf. They can reach lengths of 4 feet and weigh up to 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Varisian%20Hagfish)
 ```encounter-table
 name: Varisian Hagfish

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trumpeter Swan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,9 +41,9 @@ sources:
     desc: 257
 desc_short: This large waterfowl has a wide wingspan, all-white feathers, a black bill, and a long, curving neck.
 ```
-# Description
+## Description
 Swans are large and aggressive waterfowl. The average adult trumpeter swan is 5 feet long and weighs around 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trumpeter%20Swan)
 ```encounter-table
 name: Trumpeter Swan

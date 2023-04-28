@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scrapshell
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 60
 desc_short: This strange oysterlike mollusk has a long, thin tongue, tipped with a blade, that slides from between the shell halves.
 ```
-# Description
+## Description
 Fiercely territorial, the scrapshell is commonly found in the waters around the Eye of Abendego and the trade routes of the Inner Sea, as well as other areas laced with sunken ships or underwater ruins. The scrapshell’s penchant for lairing in or near submerged shipwrecks and other coastal detritus and for adorning its shell with interesting (and often highly valuable) debris makes it a tempting target for scavengers of all sorts. Any treasure found in or near a scrapshell generally consists of weapons stuck to its shell or the large and uniquely colored pearls the creature produces-these dazzling and iridescent pearls are highly prized. Scrapshell mucus loses its sticky quality soon after the creature’s death. A scrapshell measures about 10 feet across and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scrapshell)
 ```encounter-table
 name: Scrapshell

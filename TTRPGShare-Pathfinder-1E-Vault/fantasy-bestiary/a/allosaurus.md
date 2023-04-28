@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Allosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 90
 desc_short: This bipedal dinosaur has a mouth filled with sharp teeth and short, powerful arms that end in sharp claws. 
 ```
-# Description
+## Description
 A huge, swift hunter, the allosaurus measures 30 feet in length and weighs 10,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Allosaurus)
 ```encounter-table
 name: Allosaurus

@@ -1,19 +1,21 @@
 ---
-alias: Borrow Corruption
+aliases: [Borrow Corruption]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Borrow Corruption 
+## Borrow Corruption
 
 **source**:: Horror Adventures pg. 111  
 **school**:: transmutation (evil)
 **level**:: antipaladin 2, cleric 4, druid 4, hunter 4, medium 2, occultist 3, oracle 4, psychic 4, ranger 4, shaman 4, warpriest 4, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a dirty scrap of a good priest's raiment)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Borrow Corruption
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You touch a creature with at least one manifestation from a corruption (see page 14). You temporarily gain any stains and gifts that corruption grants to the creature, and the creature retains them. If the gifts have limited uses, you count as having no uses remaining. You take 1d3 points of Wisdom drain whenever you cast this spell.  
   

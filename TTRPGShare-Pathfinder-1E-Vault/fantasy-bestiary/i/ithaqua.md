@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ithaqua
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -88,11 +90,11 @@ sources:
     desc: 82
 desc_short: This looming humanoid shape has long, gangly limbs, glowing red eyes, and a gaping mouth full of fangs.
 ```
-# Description
+## Description
 Also known as the Wind-Walker, Ithaqua has visited countless worlds during his travels throughout the universe. Whether he is able to visit only worlds with arctic circles and magnetic poles, or whether those worlds have such conditions because the Great Old One visited them in their earliest days is unclear.
 
 Ithaqua appears as a 50-foot-tall primitive humanoid with glowing red eyes and unnaturally long arms, yet his feet are always cloaked in blasts of thick snow-laden and freezing winds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ithaqua)
 ```encounter-table
 name: Ithaqua

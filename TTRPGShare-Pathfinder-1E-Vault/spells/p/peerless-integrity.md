@@ -1,19 +1,21 @@
 ---
-alias: Peerless Integrity
+aliases: [Peerless Integrity]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Peerless Integrity 
+## Peerless Integrity
 
 **source**:: Black Markets pg. 31  
 **school**:: illusion (glamer)
 **level**:: antipaladin 2, arcanist 2, bard 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **area**:: 10-ft.-radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Peerless Integrity
 **saving-throw**:: none or Will negates, see text
 **spell-resistance**:: none
 
-### Description 
+### Description
 
 *Peerless integrity* conceals the alignment of creatures from divination magic. All creatures within the spell’s area, including you, appear to have lawful good auras for the purposes of divination spells and effects that reveal alignments (such as *detect law* and *see alignment*^UC^), instead of their actual alignments. If the caster of such divination magic succeeds at a Will save, the caster recognizes whether the readings are true or false. Any creature under the effects of this spell gains a +2 circumstance modifier on Bluff and Diplomacy checks.  
   

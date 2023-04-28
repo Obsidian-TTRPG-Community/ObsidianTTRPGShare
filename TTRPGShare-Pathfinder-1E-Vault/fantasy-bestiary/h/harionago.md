@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Harionago
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 149
 desc_short: This deathly pale beauty’s skin is blemished with bruises and cuts, yet a smile shows behind her flowing tangle of hair.
 ```
-# Description
+## Description
 Despite her ragged dress and unkempt appearance, a harionago is a beautiful and graceful creature. She walks the roads at night pretending to be a lost damsel, luring those she encounters close before striking with her paralyzing claws and jagged hair barbs. However, a harionago’s most dangerous weapon is her laugh. A resounding cackle of mocking scorn and hateful malice, it compels those around her to join in mocking concert.
 
 A harionago is formed when an innocent woman is murdered in some unspeakable fashion. She rises, twisted by the injustice of the crime against her, into an unnatural and bloodthirsty horror that hunts unsuspecting victims while trying to sate an everlasting lust for revenge.
 
 Destroying a harionago doesn’t always lay her to rest for good. On rare occasions and by mysterious means, a harionago rises again after a year and a day to resume her hunt. She can only rest after she takes her revenge on those who murdered her. If her murderers are already dead when she returns, she will rest only once every member of her murderers’ family lines has been slaughtered.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Harionago)
 ```encounter-table
 name: Harionago

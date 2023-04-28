@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eremite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 172
 desc_short: This blood-soaked humanoid is festooned with razored shards of metal. Skeletal wings protrude from its bleeding shoulders.
 ```
-# Description
+## Description
 Eremites are among the eldest and most mutilated of kytons, having inflicted such massive damage to themselves that they feel little pain and no fear. The typical eremite is completely covered in blood-caked bandages, tattered cords of black leather, and thousands of jagged shards of razor-sharp metal. These fragments are all that holds the creature’s mutilated flesh together, yet they do so with a strength far greater than that granted by mortal flesh and bone.
 
 Rather than concentrating solely on physical or even spiritual alterations, eremites seek to blur the very lines around being, physicality, and individuality. They desire only the most powerful beings to augment themselves with, traveling across vast swaths of the Material Plane in search of the most promising additions to their bodily collection and harvesting only the finest parts-the ripest spleen, the most alluring veins, the most succulent eyes. When an eremite encounters a creature that possess a so-called “perfect part,” the powerful kyton seeks to capture that creature alive so that it can study how that perfect part functions as part of the creature’s physiology before it finally decides to surgically remove it and attach it to its own body-often in a way not quite in keeping with the part’s original use. A gifted bard’s tongue might, for example, be nailed to a kyton’s palm or sewn into its heart, while the eyes of a beautiful queen might be stitched into the kyton’s torso. To the eremite, these hideous changes and choices somehow enhance the perfection of the harvested part, while to others they merely enhance the horror that the creature represents.
@@ -81,7 +83,7 @@ While eremites do hold an appreciation for inspection of their targets as well a
 While pursuing a chosen victim, an eremite utilizes its supernatural abilities to distract and distress a given target before it captures and drags it back to the Plane of Shadow via plane shift. Bargaining with an eremite is not usually an option, though if a particularly powerful victim can offer an eremite advice or aid, or otherwise assist in harvesting an even more interesting catch, an eremite can sometimes be convinced to let the helpful victim escape. It’s worth remembering, though, that kytons as a whole have little patience for the petty pursuits of honor and pride, seeing such feelings as traits that ultimately spell the end for baser creatures. The only thing that matters to an eremite is the testing of its boundaries as well as the boundaries of existence itself. Just because an eremite might be convinced to let someone go in trade for an opportunity for a greater catch doesn’t mean that once that other target is secured the eremite will cease its attempts to capture and harvest its original target. One who manages to distract and subsequently escape an eremite is well-advised to spend the rest of his life on the run.
 
 A typical eremite stands approximately 7 feet tall and weighs about 200 pounds. While their general form is something of a humanoid shape, exact appearances can vary wildly between eremites as they harvest and graft particularly unusual pieces of flesh to their bodies from increasingly exotic victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eremite)
 ```encounter-table
 name: Eremite

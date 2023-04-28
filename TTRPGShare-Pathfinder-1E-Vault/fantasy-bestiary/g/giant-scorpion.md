@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Scorpion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 242
 desc_short: The sixteen-foot-long scorpion scrabbles forward, ferocious claws raised in challenge, stingered tail arched over its back.
 ```
-# Description
+## Description
 Giant scorpions are monstrous versions of the more common desert scorpion. They are likely to attack any creature that approaches. Giant scorpions usually charge when attacking, grabbing prey in their pincers, then lashing their segmented tails forward to kill their victim with injected venom.
 
 Giant scorpions are just over 8 feet long from head to the base of the tail; the tail adds an additional 8 feet or so, although it is usually curled up over the scorpion’s back. Giant scorpions weigh between 2,000 and 6,000 pounds.
@@ -65,7 +67,7 @@ Giant scorpions live in underground burrows, either as solitary hunters or in sm
 Other species of scorpions exist as well, some smaller but most quite a bit larger and favoring different terrains, such as forests, plains, or even underground. You can adjust the stats for the giant scorpion by changing Hit Dice and size (adjusting Strength, Dexterity, and Constitution as appropriate) to represent a wide range of species. The following table lists the most common variants.
 
 SpeciesCRSizeHD Greensting scorpion1/4Tiny1d8 Ghost scorpion1/2Small2d8 Cave scorpion1Medium3d8 Deadfall scorpion8Huge10d8 Giant emperor scorpion11Gargantuan16d8 Black scorpion15Colossal22d8
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Scorpion)
 ```encounter-table
 name: Giant Scorpion

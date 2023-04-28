@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sailor (Captain)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: GameMastery Guide
     desc: 295
 ```
-# Description
+## Description
 A captain is mistress of a ship at sea. She may be the legal authority and representative of her nation, company, faith, or faction, or she may be an independent captain owing allegiance to none and claiming no home but the sea itself. Captains may be used as pirates, admirals, or master merchants. A captain is usually accompanied by a first mate and a traveling merchant as quartermaster (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sailor%20(Captain))
 ```encounter-table
 name: NPC Sailor (Captain)

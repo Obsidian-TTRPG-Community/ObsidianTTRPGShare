@@ -1,19 +1,21 @@
 ---
-alias: Detect the Faithful
+aliases: [Detect the Faithful]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect the Faithful 
+## Detect the Faithful
 
 **source**:: Ultimate Intrigue pg. 212, Taldor, Echoes of Glory pg. 25  
 **school**:: divination
 **level**:: antipaladin 1, cleric 1, druid 1, hunter 1, inquisitor 1, paladin 1, ranger 1, shaman 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect the Faithful
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can detect other worshipers of your deity (mortal worshipers, outsider servants, and so on). The amount of information revealed depends on how long you focus on a particular area or subject.  
   

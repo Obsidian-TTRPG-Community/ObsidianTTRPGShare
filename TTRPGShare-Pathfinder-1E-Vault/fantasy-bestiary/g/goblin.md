@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 156
 desc_short: This creature stands barely three feet tall, its scrawny, humanoid body dwarfed by its wide, ungainly head.
 ```
-# Description
+## Description
 Goblins prefer to dwell in caves, amid large and dense thickets of thistles and brambles, or in structures built and then abandoned by others. Very few goblins have the drive to build structures of their own. Coastlines are favored, as goblins are quite fond of sifting through junk and flotsam in an unending quest to find treasures among the refuse of more civilized races.
 
 Goblin hatred runs deep, and few things inspire their wrath more than gnomes (who have long fought against goblins), horses (who frighten goblins tremendously), and regular dogs (whom goblins regard as pale imitations of goblin dogs).
@@ -55,7 +57,7 @@ Goblin hatred runs deep, and few things inspire their wrath more than gnomes (wh
 Goblins are also quite superstitious, and treat magic with a fawning mixture of awe and fear. They have the habit of ascribing magic to the mundane as well, with fire and writing both taking on mystical power in goblin society. Fire is much loved by goblins for its capacity to wreak great destruction and because it doesn’t require size or strength to wield, but written words are hated. Goblins believe that writing steals words out of your head, and as a result of this belief, goblins are universally illiterate.
 
 Goblins are voracious and can eat their body weight in food daily without growing fat. Goblin lairs always have numerous storerooms and larders. While they prefer human and gnome flesh, a goblin won’t turn down any food-except, perhaps, vegetables.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin)
 ```encounter-table
 name: Goblin

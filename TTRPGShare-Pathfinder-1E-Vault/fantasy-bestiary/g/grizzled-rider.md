@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grizzled Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: Monster Codex
     desc: 106
 ```
-# Description
+## Description
 Goblin riders usually ride goblin dogs, wolves, or worgs, but might also ride exotic creatures like giant geckos.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grizzled%20Rider)
 ```encounter-table
 name: Grizzled Rider

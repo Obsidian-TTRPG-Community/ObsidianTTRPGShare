@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chemnosit (The Monarch Worm)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 47
 desc_short: This massive beast possesses a mouth of rasping teeth and tentacles with biting mouths. In the center of its maw rests a glowing evil eye.
 ```
-# Description
+## Description
 The dread burrower Chemnosit is an engine of destruction, able to devour the stoutest construction and the mightiest of mortals with ease. His power lies in the profane glamour of his glowing eye, inspiring a gruesome urge to devour-a hunger for the flesh of one’s own kind. For all his power, this is the true dread of the Monarch Worm. While he burrows constantly through the Darklands to the deepest Vaults of Orv, he sometimes rises to Golarion’s surface bringing annihilation in his wake, as those corrupted by his awful eye wreak devastation upon themselves and their own people. Chemnosit drinks in the carnage like a feast before devouring any survivors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chemnosit%20(The%20Monarch%20Worm))
 ```encounter-table
 name: Chemnosit (The Monarch Worm)

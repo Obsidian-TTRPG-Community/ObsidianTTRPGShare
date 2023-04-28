@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raiju
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 90
 desc_short: The air around this strange, pale animal sparks with erratic flashes of static electricity, its body constantly twitching as if filled to capacity with the energy. It suddenly perks up, alert and seemingly ready to bolt.
 ```
-# Description
+## Description
 Raijus are beings of living electricity that cross the border between the mundane world and their native plane, a region of the Plane of Air alive with endless thunderstorms. Raijus can be involuntarily hurled across the dimensions by a powerful lightning bolt originating in the Plane of Air, or might be called by magic users to do their bidding. When the weather is calm, raijus are quiet, and assume the forms of Tiny or Small animals such as cats, raccoon dogs, monkeys, or weasels. As weather gets worse, however, so do their tempers. In their real form, raijus appear as lean, foxlike creatures with long, sharp claws and luminous eyes, shrouded by crackling electricity. These swift, even panicky, creatures are charged with the electricity of their native realm, and those who touch them risk receiving a deadly shock. In times of great distress, they transform entirely into living electricity, a force that few barriers can contain and even fewer creatures can survive the passage of.
 
 In their natural forms, raijus measure about 3-1/2 feet long and weigh 40 pounds, but they often take the form of small mammals when not on the Plane of Air. They can be still recognized as raijus in this form, however, as they bear markings suggestive of jagged lightning.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raiju)
 ```encounter-table
 name: Raiju

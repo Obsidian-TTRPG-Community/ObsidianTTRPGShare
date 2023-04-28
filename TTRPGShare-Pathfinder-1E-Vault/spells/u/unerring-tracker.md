@@ -1,19 +1,21 @@
 ---
-alias: Unerring Tracker
+aliases: [Unerring Tracker]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Unerring Tracker 
+## Unerring Tracker
 
 **source**:: Ultimate Intrigue pg. 228  
 **school**:: divination
 **level**:: alchemist 5, druid 6, hunter 4, investigator 5, occultist 4, ranger 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Unerring Tracker
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 During this spell’s duration, you can touch the sign of a creature’s passage that you have identified using the Survival skill to make the other steps in the creature’s path perfectly clear to you, no matter how minute. This trail can’t be more than 24 hours old. You can follow the trail at any speed, provided you have line of sight to the trail. You can distinguish the trail of the particular creature followed even if it joins and splits with other trails. Once you have selected a trail to follow using this spell, it can’t be changed.  
   

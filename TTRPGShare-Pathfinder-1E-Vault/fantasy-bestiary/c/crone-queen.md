@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crone Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 84
 desc_short: A cold, hateful light burns in the eye sockets of this corpse-like creature, whose withered skin is stretched over its icy bones.
 ```
-# Description
+## Description
 Crone queens are unique and deadly creatures formed from the frozen remains of Baba Yaga’s daughters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crone%20Queen)
 ```encounter-table
 name: Crone Queen

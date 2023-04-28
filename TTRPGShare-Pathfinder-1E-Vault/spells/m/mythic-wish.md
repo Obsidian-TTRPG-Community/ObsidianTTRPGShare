@@ -1,19 +1,21 @@
 ---
-alias: Mythic Wish
+aliases: [Mythic Wish]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Wish
+## Mythic Wish
 
 **source**:: Mythic Adventures pg. 112  
 **school**:: universal
 **level**:: arcanist 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (diamond worth 25,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target, Effect, or Area** see text  
@@ -21,7 +23,7 @@ alias: Mythic Wish
 **saving-throw**:: none, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Wish* is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even *wish*, however, has its limits. A *wish* can produce any one of the following effects.  
 

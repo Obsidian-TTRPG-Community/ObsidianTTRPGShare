@@ -1,19 +1,21 @@
 ---
-alias: Touch of Fatigue
+aliases: [Touch of Fatigue]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Touch of Fatigue 
+## Touch of Fatigue
 
 **source**:: PRPG Core Rulebook pg. 360  
 **school**:: necromancy
 **level**:: adept 0, arcanist 0, mesmerist 0, occultist 0, shaman 0, sorcerer 0, witch 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of sweat)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Touch of Fatigue
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You channel negative energy through your touch, fatiguing the target. You must succeed on a touch attack to strike a target. The subject is immediately fatigued for the spell's duration.  
   

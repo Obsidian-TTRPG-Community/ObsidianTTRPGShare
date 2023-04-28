@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Implacable Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 238
 desc_short: Scars cover the twisted and grotesque body of this demon, its skin stained the color of blood.
 ```
-# Description
+## Description
 Implacable stalkers embody murderous predation. They not only revel in hunting down and killing their victims in gory, brutal fashion, but they draw supernatural strength and power from their victims’ fear and terror. They look similar to other creatures of their kind, but are often covered in gruesome scars and exude an aura of menace.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Implacable%20Stalker)
 ```encounter-table
 name: Implacable Stalker

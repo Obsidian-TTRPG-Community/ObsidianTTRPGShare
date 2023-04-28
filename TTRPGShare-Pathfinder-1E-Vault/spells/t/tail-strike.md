@@ -1,25 +1,27 @@
 ---
-alias: Tail Strike
+aliases: [Tail Strike]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Tail Strike 
+## Tail Strike
 
 **source**:: Legacy of Dragons pg. 31  
 **school**:: transmutation (draconic)
 **level**:: alchemist 4, antipaladin 3, arcanist 3, bloodrager 3, investigator 4, medium 3, paladin 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, M (a dragon scale)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (see text)
 
-### Description 
+### Description
 
 You grow a draconic tail (clothing and armor adjust as necessary), or if you already have a tail, it takes on a draconic appearance. If you have a draconic bloodline, the tail matches the appearance of that dragon type; otherwise, it matches the appearance of a dragon type whose alignment matches your own. You gain a tail slam attack that deals 1d6 points of damage (1d4 if Small, 1d8 if Large) + your Strength modifier. If you already have a tail attack, you instead extend the reach of your tail attack by 5 feet. If you have a tail sweep attack, this spell increases its radius by 10 feet.  
   

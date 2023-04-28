@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gravitic Globe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,9 +41,9 @@ sources:
     desc: 52
 desc_short: This large, adamantine sphere is carved to resemble the surface of Golarion, and burns with magical flame.
 ```
-# Description
+## Description
 Having seen a similar construct made of stone in an arcane library in the Five Kings Mountains, Alzika Karr was determined to improve upon the design. Wishing to make the construct as realistic as possible so as to fall in line with her experiences in the Darklands researching magnetic ores and magma, the Arclord procured a rare sample of a plasma ooze (Pathfinder RPG Bestiary 3 220) from a colleague in Oenopion and infused it into the core of her gravitic globe. The effects on the newly forged construct were remarkable- not only did it draw metallic objects toward it as the ooze did, but it occasionally repelled them as well.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gravitic%20Globe)
 ```encounter-table
 name: Gravitic Globe

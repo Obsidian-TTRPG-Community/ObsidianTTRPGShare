@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Intellect Devourer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 180
 desc_short: Devoid of a head, or any features at all save for four short, clawed legs, this creature’s body looks like a large, glistening brain.
 ```
-# Description
+## Description
 Thought by some to be invaders from another dimension or planet, the sinister intellect devourers are certainly one of the world’s cruelest races. Incapable of experiencing emotions or wallowing in the sins of physical pleasure on their own, intellect devourers are forced to steal bodies in order to indulge their gluttony, lust, and cruelty. Stories tell of entire cities of these creatures deep underground, where host bodies are worn like clothes to hideous orgies and vile feasts. Lone intellect devourers often dwell in ruins or caves on the edge of a civilized region so they can make periodic forays into town to “shop” for an attractive new body.
 
 An intellect devourer is 3 feet long and weighs about 60 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Intellect%20Devourer)
 ```encounter-table
 name: Intellect Devourer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Stag Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,7 +44,7 @@ sources:
     desc: 33
 desc_short: With a sleek body and huge mandibles raised in a threatening pose, this large beetle stands firm in defense of its territory.
 ```
-# Description
+## Description
 Nearly 10 feet long, giant stag beetles become serious dangers when they wander into logging camps due to their appetite for decaying wood. Called stag beetles because of their large, antler-like mandibles, they use these appendages to wrestle competing suitors and quickly put down enemy threats.
 
 Variant species of these giant beetles exist as well. The two detailed below are the ones most commonly encountered.
@@ -50,7 +52,7 @@ Variant species of these giant beetles exist as well. The two detailed below are
 Bombardier Beetle (CR 2): This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone must make a DC 11 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.
 
 Goliath Beetle (CR 8): The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Stag%20Beetle)
 ```encounter-table
 name: Giant Stag Beetle

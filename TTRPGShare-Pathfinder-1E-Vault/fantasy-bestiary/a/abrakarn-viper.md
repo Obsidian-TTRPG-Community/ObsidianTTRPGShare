@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abrakarn Viper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 40
 desc_short: This massive, three-headed clockwork snake is crafted of brass and strange, dark alloys.
 ```
-# Description
+## Description
 Demonic spirits imbue this serpentine construct with the unnatural power to protect anyone who wears its diadem of control.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abrakarn%20Viper)
 ```encounter-table
 name: Abrakarn Viper

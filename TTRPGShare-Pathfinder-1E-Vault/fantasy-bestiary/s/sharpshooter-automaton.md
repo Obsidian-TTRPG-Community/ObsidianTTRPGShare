@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sharpshooter Automaton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 28
 desc_short: This construct resembles a humanoid with a large crossbow built into its arm. It floats with no apparent mechanism.
 ```
-# Description
+## Description
 Sharpshooter automatons contain the minds of the best archers and crossbow specialists known throughout the Jistka Imperium, who competed in tournaments to earn the right to an automaton body. They served as the artillery of the automatons, attacking enemies with such precision and at such a great distance that many targets fell long before they were aware of an imminent attack.
 
  Efficiency was the key of the sharpshooter automaton’s design. Their frames are just large enough to house the components necessary to power the construct alongside their magical weapons. Though the frames followed a similar pattern of design across these automatons, many sharpshooters chose to embellish their forms with intricate runic patterns or fearsome designs reminiscent of tattoos. A sharpshooter automaton is typically 4 feet tall and weighs 215 pounds. The largest sharpshooter automatons, however, housed extremely large ranged weapons or even siege weapons, such as ballistae capable of destroying a keep’s walls.
@@ -85,7 +87,7 @@ Sharpshooter automatons contain the minds of the best archers and crossbow speci
  Since the fall of Jistka, the sharpshooter automatons scattered to the winds, intent on finding their own purpose in a world without a land or people they could call their own. Even with their planar abilities, some sharpshooter automatons remained on Golarion. Leveraging the freedom granted by their flight, these automatons can be found around the world, seemingly as wanderers. A number of them act as itinerant saviors, slaying large creatures on the verge of attacking villages or rescuing travelers caught in tough spots. Occasional tales crop up among travelers claiming that they were saved from peril by a rain of bolts, but that when they returned to the site of the rescue hours later, they found nothing. Other sharpshooter automatons keep watch in the skies, hovering thousands of feet in the air over important structures and locations throughout Golarion. While the locations appear random to a modern observer, most of these are places important to the individual automaton or of significance in Jistkan history, such as locations mentioned in the Poleiheira.
 
  Now, besides those few on the Material Plane, most sharpshooter automatons reside in Axis with others of their kind. However, a few visit the Maelstrom on a regular basis, pushed toward the chaotic uncertainty of these planar depths by some sort of melancholy. These automatons tend to avoid other creatures and keep to themselves, and most proteans know that even in that chaotic realm, the constructs remain quite powerful, and thus keep their distance. Although the automatons in the Maelstrom are few, they are generally quite familiar with their favored region of the plane, and their powerful sight allows them to keep track of the chaos for miles in every direction. Most notable among these self-exiled sharpshooter automatons is Alvara the All-Seer. Those who know of her claim that the millennia through which she has stayed in the Maelstrom allows her to accurately understand and even predict the nature of the chaotic seas in which she resides.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sharpshooter%20Automaton)
 ```encounter-table
 name: Sharpshooter Automaton

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coral Capuchin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,12 +58,12 @@ sources:
     desc: 82
 desc_short: This strange creature can only be described as a light pink, hairless monkey with the head of a fish and large, finlike wings.
 ```
-# Description
+## Description
 Coral capuchins live in tropical coastal areas, generally in small familial groups of fewer than 30 adults led by an older matriarch (see below). Wholly unafraid of most humanoid species, coral capuchins are often befriended by sailors and fishers willing to put up with the creatures’ incurable curiosity and penchant for petty larceny. They can be trained to fish for their allies and are particularly sought after by those who make their living bringing up treasures from the ocean floor. Their voracious, omnivorous appetites also make them popular on long ocean voyages, as they are happy to reduce ships’ endemic rat populations. Perhaps because of this, many sailors see them as good-luck mascots, although they are most popular with pirates, smugglers, and other seafaring folk who more willingly accept their thieving nature. 
 
 Despite their mercurial temperaments and propensity for theft, coral capuchins are prized by wizards because of the creatures’ exceptional mobility and their strange cursed bite. Spellcasters of 3rd level or higher with an alignment within one step of neutral can gain a coral capuchin as a familiar by taking the Improved Familiar feat. 
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coral%20Capuchin)
 ```encounter-table
 name: Coral Capuchin

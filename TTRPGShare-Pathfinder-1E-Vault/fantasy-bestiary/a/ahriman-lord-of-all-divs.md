@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ahriman, Lord of All Divs
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -85,9 +87,9 @@ sources:
     desc: 76
 desc_short: This humanoid creature has the head of a ravening, horned lion. A chorus of anguished screams echoes from his gaping maw.
 ```
-# Description
+## Description
 Ahriman sprang from the darkest shadows of the elements at the birth of the genie races. Though he towers nearly 20 feet tall and weighs 7,000 pounds, Ahriman moves with uncanny swiftness. Ahriman’s rampages leave legions of undead in his wake that, alongside nihilistic Usij cultists, tear down life, culture, and civilization. To the Lord of All Divs, suffering and pain are meat and drink, corruption and murder useful tools, and the end of all things the only worthwhile goal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ahriman%2C%20Lord%20of%20All%20Divs)
 ```encounter-table
 name: Ahriman, Lord of All Divs

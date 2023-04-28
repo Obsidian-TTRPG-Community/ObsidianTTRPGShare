@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xiao
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 284
 desc_short: This snarling blue-white monkey f lies through the air on a pair of birdlike wings.
 ```
-# Description
+## Description
 These colorful winged monkeys sport tawny fur coats ranging from blue-white to slate grey or even black, and some individuals have much lighter white or ivory areas around their faces and shoulders. Their wings tend to be brightly feathered. Their faces, feet, and hands are always hairless, and they groom the hair surrounding their faces outward, giving them a tattered, bearded appearance. Xiaos have bodies about 15 inches long with equally long tails and a wingspan of about three feet. A few individuals have two pairs of wings; this trait grants them perfect maneuverability, but they are otherwise statistically identical to their two-winged kin.
 
  Xiaos are omnivores, eating fruit, nuts, insects, small mammals, crabs, and fish. Given enough time, rather than devouring their food raw, xiaos create elaborate dishes of their favorite foods and cook these dishes over small fires, which they light with their spark spell-like ability. Xiaos also enjoy trying new and exotic foods prepared by humanoid creatures, especially foods made with f lour and sugar. Most xiaos are very adventurous eaters, though they tend not to like the taste of beef and lamb.
@@ -64,7 +66,7 @@ These colorful winged monkeys sport tawny fur coats ranging from blue-white to s
  Xiaos are born from eggs slightly larger than a chicken egg. These eggs are covered with bluish leathery skin, and are usually laid singly or, infrequently, in pairs. A juvenile xiao begins f lying within 6 weeks of hatching, and hangs from the fur on its mother’s chest until that time. Those born in captivity latch on to suitably friendly and patient humanoids as surrogate mothers during development. While a xiao raised in captivity takes to f lying later than those born in the wild, it otherwise develops normally, though it is likely to have less fear of strange humans than its wild kin.
 
  A spellcaster with the Improved Familiar feat and an arcane caster level of 7th or higher can select a xiao as her familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xiao)
 ```encounter-table
 name: Xiao

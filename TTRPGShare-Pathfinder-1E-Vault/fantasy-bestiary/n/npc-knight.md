@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Knight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
   - name: NPC Codex
     desc: 254
 ```
-# Description
+## Description
 Although this tarnished knight considers his honor beyond reproach, he covets personal glory and seeks the humiliation of his enemies. Whether commanding a host of knights to rout tribes of hobgoblins or orcs or touring the land in search of jousting competitions, the knight is a tall, towering figure, striking fear into the hearts of his opponents.
 
 The knight does not fear battle and refuses to cheat or use underhanded methods to achieve victory. He does not believe that using magic is cheating, though he prefers spells and items that enhance natural prowess rather than ones that directly harm or afflict enemies, and frowns on knights, warlords, and monsters that use such cowardly tactics. His word is his bond, and he will negotiate an enemy’s surrender to spare the lives of common troops from pointless slaughter.
 
 The above stat block may be used for a military commander such as a general. It can also be used for a lesser scion of a noble or royal house-one who has little or no chance of inheriting the throne and is instead trained for war. Such a scion may be loyal to the crown or may attempt to gain support among the nobility to stage a coup and usurp the throne for himself or a foreign power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Knight)
 ```encounter-table
 name: NPC Knight

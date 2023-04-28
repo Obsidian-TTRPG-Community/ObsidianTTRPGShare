@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Puppet Master
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,9 +83,9 @@ sources:
   - name: NPC Codex
     desc: 194
 ```
-# Description
+## Description
 The puppet master treats living minds like a child’s toys.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Puppet%20Master)
 ```encounter-table
 name: NPC Puppet Master

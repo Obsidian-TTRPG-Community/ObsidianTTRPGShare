@@ -1,19 +1,21 @@
 ---
-alias: Ghost Sound
+aliases: [Ghost Sound]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ghost Sound 
+## Ghost Sound
 
 **source**:: PRPG Core Rulebook pg. 289  
 **school**:: illusion (figment)
 **level**:: adept 0, arcanist 0, bard 0, magus 0, medium 0, mesmerist 0, occultist 0, psychic 0, skald 0, sorcerer 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a bit of wool or a small lump of wax)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: illusory sounds  
@@ -21,7 +23,7 @@ alias: Ghost Sound
 **saving-throw**:: Will disbelief
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Ghost sound* allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound *ghost sound* creates when casting it and cannot thereafter change the sound's basic character.  
   

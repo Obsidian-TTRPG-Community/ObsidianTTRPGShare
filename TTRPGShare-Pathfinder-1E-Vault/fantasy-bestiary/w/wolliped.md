@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wolliped
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 279
 desc_short: This shaggy, multi-legged creature has a f lattened face with wide nostrils and four eyes. Ivory tusks jut downward, f lanking its mouth.
 ```
-# Description
+## Description
 Some claim wollipeds weren’t initially domesticated to be working animals, but rather were herded and bred for their extremely warm and plentiful f leece. Regardless of the creatures’ origins, arctic dwellers have a long history of using these magnificent animals for many purposes, even employing them as mounts in battle. A typical wolliped stands between 5 and 6 feet at the front shoulder and weighs upward of 1,000 pounds.
 
  Wollipeds are social herd animals that subsist on a diet of grasses, leaves, and other plant material. Wollipeds in high mountainous environments obtain much of their food from lichens and mosses, while herds of wollipeds on the plains graze on more substantial fare. Wild wollipeds tend to migrate to more plentiful foraging lands in the harshest winters, though these can be difficult to find.
@@ -59,7 +61,7 @@ Some claim wollipeds weren’t initially domesticated to be working animals, but
  Wolliped f leece is a versatile textile, as wolliped fibers wick water away, and still provide adequate warmth even when soaked. The variations in their coat colors and textures provide weavers with a wide array of design options.
 
  Wollipeds are known to use spitting as a form of communication, as well as a method of defense. Most wollipeds only spit at one another, typically in the course of their tusk-clashing shows of dominance, but when threatened, they can launch a nauseating wad of partially digested food at their attackers to sicken and distract them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wolliped)
 ```encounter-table
 name: Wolliped

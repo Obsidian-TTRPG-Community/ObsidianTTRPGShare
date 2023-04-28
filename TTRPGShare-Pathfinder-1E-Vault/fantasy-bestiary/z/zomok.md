@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zomok
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 88
 desc_short: At first glance, this creature resembles a dragon, but its body is entirely made of plants and soil, and it exhales clouds of dirt.
 ```
-# Description
+## Description
 Zomoks are dragonlike creatures made out of animate plant matter. Native to the realm of the fey, they are guardians of mystic forests. Some travel to the Material Plane and adapt to its woodlands, defending them against massive destruction-forest fires, logging, undead armies, and so on-and use their abilities to heal and regrow damaged areas.
 
 Rather than having a distinct physical body, a zomok is more like a spirit animating a collective mass of vegetation, and over time it sheds and acquires new material from its environment, changing its appearance to match its current location. Zomoks do not need to eat, and any creature they swallow is usually left behind as a mashed corpse to decay and provide nutrition for plants.
 
 A typical zomok is about 18 feet tall and 30 feet long, and weighs 30 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zomok)
 ```encounter-table
 name: Zomok

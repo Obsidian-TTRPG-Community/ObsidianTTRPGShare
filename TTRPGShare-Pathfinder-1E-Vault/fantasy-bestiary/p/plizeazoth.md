@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plizeazoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 88
 desc_short: This massive raylike aquatic creature has five bulbous red eyes. Long tentacles protrude from the sides of its wide mouth, and its slimy skin undulates with sickening shudders.
 ```
-# Description
+## Description
 One of the largest alghollthus, the raylike plizeazoths are merciless predators that torment their victims’ minds, breaking them for impending service to other alghollthus. Plizeazoths rely on their primal instincts rather than intelligence to complete their tasks. Despite their powerful mental and psychological talents, many plizeazoths do not comprehend the true power they have, long ago bred into a life of subservience to their veiled master overlords. For millennia, the veiled masters subjugated their humanoid victims themselves, but eventually they decided to delegate this joyous yet time-consuming task to others. The veiled masters approached their ancient alghollthu rulers and requested subservient creatures to complete this task. The resulting plizeazoths were impressive in their physical might and ability to efficiently deal pain, but they were immune to such sensations themselves and thus unable to truly comprehend their value within alghollthu society. The brutish beasts are generally content to carry out their masters’ orders, with little will of their own or motivation for them to break from their monotonous existence.
 
  Because they generally do not leave the alghollthus’ deep underwater territories- and even then only to carry out specific orders given to them by the society’s true masterminds- plizeazoths are largely unknown among land-dwelling cultures. Even their victims recall only their pain and suffering, with at best foggy recollections of their tormentors; the emotional and psychic scars left on their minds scour away all memory of the creatures. The rare victim who escapes a plizeazoth with her mind and memories intact recounts brutal assaults to her psyche, breaking down her reality into a twisted landscape of pain and crushing despair, the only escape from which, she believed, was eternal servitude to the plizeazoth’s master.
 
  A plizeazoth has five ruby-red eyes, each capable of moving on its own, providing it a wide field of vision and excellent perceptive skills. Plizeazoths are bottomfeeders and, when not tormenting victims, typically scour the ocean floors for other alghollthus’ scraps. A typical plizeazoth is about 22 feet wide and weighs approximately 4,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plizeazoth)
 ```encounter-table
 name: Plizeazoth

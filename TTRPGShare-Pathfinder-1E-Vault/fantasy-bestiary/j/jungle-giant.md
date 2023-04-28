@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jungle Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 129
 desc_short: This towering, plant-encrusted woman wields a massive bow, and her dark skin is decorated with numerous intricate tattoos.
 ```
-# Description
+## Description
 Reclusive by nature, jungle giants lair deep within the rainforest. These giants distrust the ways of civilization and resent trespassers. More than one vine-covered lost city in the deep jungle owes its fall to jungle giant ire. The warrior-women of these tribes usually fight with bows, sacred weapons often passed down over generations from mother to daughter. To touch a jungle giant’s bow without permission is a mortal insult.
 
 Jungle giants stand 17 feet tall and weigh 4,000 pounds. Their barklike skin bears runic brands etched into each giant as a rite of passage into adulthood. Jungle giant tribes are matriarchal, ruled by an elder female warrior. Males traditionally defend the village, gather food, tend livestock, and raise children.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jungle%20Giant)
 ```encounter-table
 name: Jungle Giant

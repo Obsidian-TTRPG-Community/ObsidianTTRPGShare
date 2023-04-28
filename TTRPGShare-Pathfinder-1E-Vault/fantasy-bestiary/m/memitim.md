@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Memitim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 39
 desc_short: Eyes with the dead cast of onyx glare from beneath the legionnaire’s helmet worn by this ominous, black-winged woman.
 ```
-# Description
+## Description
 Soldiers know memitims as the angels of death who protect fallen combatants and others who die as mass casualties from soul-hungry scavengers. While most memitims preside over massacres, their full wrath manifests against any who would cut numerous lives short in an unnatural pursuit of souls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Memitim)
 ```encounter-table
 name: Memitim

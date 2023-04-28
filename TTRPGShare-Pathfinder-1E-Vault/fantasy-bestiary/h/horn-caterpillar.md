@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Horn Caterpillar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 51
 desc_short: This monstrous caterpillar’s dark-scarlet bristles drip with thick, dangerous-looking venom.
 ```
-# Description
+## Description
 Unlike normal caterpillars, voracious giant horn caterpillars don’t pupate into butterflies. Instead, they remain in their worm-like forms for their entire life cycle, growing between each molt until they eventually reach the size of large dogs.
 
 Horn caterpillars feed on the hooves and horns of dead ungulates, which they usually scavenge from corpses. Their sharp mandibles allow them to effortlessly shear through tendon and bone.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Horn%20Caterpillar)
 ```encounter-table
 name: Horn Caterpillar

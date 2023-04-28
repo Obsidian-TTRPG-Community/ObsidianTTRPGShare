@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Criminal (Pickpocket)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
   - name: GameMastery Guide
     desc: 264
 ```
-# Description
+## Description
 Pickpockets are the bane of the marketplace-innocuous waifs with innocent smiles and deft hands who can cut a purse in an eyeblink. Pickpockets could also serve as any of the countless street urchins or guttersnipes found on the streets of any large city.
 
 Adding a dagger or short sword turns a pickpocket into a desperate mugger. Replacing Deft Hands with Deceitful and changing Skill Focus from Sleight of Hand to Bluff can make a con artist pickpocket, while changing Skill Focus to Disable Device makes for a good apprentice lock-picker or trapspringer. Replacing the Appraise skill with Perform creates common acrobats, jugglers, or mummers, perhaps members of a troupe that engages in a little larceny on the side.
 
 In pairs (CR 1), one pickpocket usually provides a distraction for her partner to take advantage of. In large cities and markets, pickpockets often work in gangs of six (CR 4) or even more. A wanderer might employ a pickpocket assistant (CR 3), while a storyteller or minstrel might employ half a dozen pickpockets to help “work” the crowd (CR 5 or 6). A shady barkeep might keep two pickpockets on staff disguised as serving girls, along with his two regular barmaids, to supplement his tavern’s income (CR 5).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Criminal%20(Pickpocket))
 ```encounter-table
 name: NPC Criminal (Pickpocket)

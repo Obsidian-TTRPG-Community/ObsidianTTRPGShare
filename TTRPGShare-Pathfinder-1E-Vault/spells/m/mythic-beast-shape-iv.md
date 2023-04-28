@@ -1,25 +1,27 @@
 ---
-alias: Mythic Beast Shape IV
+aliases: [Mythic Beast Shape IV]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Beast Shape IV
+## Mythic Beast Shape IV
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, arcanist 6, investigator 6, magus 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 This spell functions as *beast shape III* except that it also allows you to assume the form of a Tiny or Large creature of the magical beast type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 60 feet, climb 90 feet, fly 120 feet (good maneuverability), swim 120 feet, blindsense 60 feet, darkvision 90 feet, low-light vision, scent, tremorsense 60 feet, breath weapon, constrict, ferocity, grab, jet, poison, pounce, rake, rend, roar, spikes, trample, trip, and web. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.  
   

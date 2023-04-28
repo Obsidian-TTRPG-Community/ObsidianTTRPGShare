@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Queen Bee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 43
 desc_short: This giant bee is as large as a horse and unusually fat, with light brown stripes on her body. 
 ```
-# Description
+## Description
 Bulbous and robust in comparison to others of the same species, giant queen bees are immense, fertile females, easily identified by their larger size and lighter stripes. They grow to 12 feet in length and weigh 140 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Queen%20Bee)
 ```encounter-table
 name: Giant Queen Bee

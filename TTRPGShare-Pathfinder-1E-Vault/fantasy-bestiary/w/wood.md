@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wood
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 84
 desc_short: Polished stones form the soulless eyes of this small yet bizarrely crafted wooden effigy. Shaped into the form of some inscrutable deity or spirit, its exotically carved features contort in a primeval scowl.
 ```
-# Description
+## Description
 Among rare druidic circles, tribes of the deep jungle, and the mysterious people of the distant west, wood idols frequently serve as representations of powerful spirits of the wilds, who these nature devotees propitiate with sacrifices. The superstitions of strange shamans hold that spirits possess the idols when the sacrifices are made, consuming the offering before returning from whence they came. Yet those who would offend these forces must beware, as they manipulate eldritch powers of the world and might curse one’s every effort. While many question the truths of such beliefs, few who impugn the might of such spirits survive the ire of their shaman-creators’ devout congregations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wood)
 ```encounter-table
 name: Wood

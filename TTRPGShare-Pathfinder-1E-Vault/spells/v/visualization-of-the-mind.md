@@ -1,25 +1,27 @@
 ---
-alias: Visualization of the Mind
+aliases: [Visualization of the Mind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Visualization of the Mind 
+## Visualization of the Mind
 
 **source**:: Divine Anthology pg. 14  
 **school**:: transmutation (meditative)
 **level**:: arcanist 2, cleric 2, shaman 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, M (soothing incense worth 200 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 24 hours or until discharged
 
-### Description 
+### Description
 
 You enhance a single aspect of your mind, nurturing and empowering it. Choose a single mental ability score (Charisma, Intelligence, or Wisdom). You gain a +5 bonus on ability checks and skill checks associated with that ability score.  
   

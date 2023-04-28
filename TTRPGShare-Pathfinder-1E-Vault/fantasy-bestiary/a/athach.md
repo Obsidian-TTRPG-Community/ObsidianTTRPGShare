@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Athach
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 33
 desc_short: This giant’s maw contains a pair of dripping tusks, but it is its gangly third arm that makes its appearance truly bizarre. 
 ```
-# Description
+## Description
 An athach is a twisted kind of giant, cruel and thuggish. It lives to bring misery, ruin, and terror to weaker creatures. An individual may be nearly any human color, though its arms are often a darker color or even grayish. Its upper fangs are long, extending from its mouth like those of a ferocious beast, and it constantly drools a weakness-inducing poison. A group of athachs is usually a family unit, with gangs typically consisting of a group of siblings and full tribes consisting of parents and young. 
 
 Athachs thrive upon the fear of their victims, preferring to play with their prey for some time before indulging their vile and murderous natures. Tales tell of how athachs cut down orchards and ruin crops by night, leaving the ruins to be discovered by innocent villagers at the dawning of the following day. Further tales tell of how athachs desecrate graveyards by exhuming graves and scattering the bones of the dead about. The motivation behind these games seems to be sheer entertainment-some athachs are unusually creative in their antics, displaying ingenuity beyond their normal capacity, as if an athach in the throes of desecration and cruelty were prone to some form of divine inspiration. 
 
 An athach is 18 feet tall and weighs 5,000 pounds. Athachs dislike other giants (and other monsters of their size) and either attack or flee from them, depending on whether the odds are in their favor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Athach)
 ```encounter-table
 name: Athach

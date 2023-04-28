@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Flytrap
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 134
 desc_short: This towering plant is a mass of vines and barbs. Several stalks are horribly mobile, each ending in a set of green, toothy jaws.
 ```
-# Description
+## Description
 A hardy plant that grows in areas with poor soil but abundant animal life, this dangerous predator is an immense version of its more common (and much smaller) kin. Whereas the smaller flytraps supplement their growth by catching insects, the giant flytrap does the same with animals, humanoids, and anything else foolish enough to draw too near. Local legends call this plant names like “mancatcher,” “snapperjaw plant,” “dragonleaf plant,” “cowbiter,” and “green gulper,” but adventurers know it simply as the giant flytrap.
 
 As the giant flytrap’s prey are generally much smarter than insects, this huge plant has evolved into a much more aggressive hunter than its smaller brethren. It can lumber slowly along the ground, using its writhing roots like tentacles to relocate to more populous hunting grounds, and is quite canny at blending in with the surrounding foliage. A giant flytrap’s jaws and stalks are swift-moving-it reaches out and snaps at passersby with lightning speed. The plant itself even has a modicum of intelligence, and is capable of limited tactical choices, such as knowing when to break off an attack against a powerful foe.
@@ -57,7 +59,7 @@ As the giant flytrap’s prey are generally much smarter than insects, this huge
 While most giant flytraps have four sets of jaws, some can have as few as one, and others eight or more. As a general rule, you should increase a giant flytrap’s HD by 2 and its natural armor bonus by +1 for each additional bite attack you give it, increasing its CR by +1 for each time you increase its attacks and HD in this manner. If you increase the plant by more than 3 or 4 bites (and thus by more than 6 or 8 Hit Dice), consult Table: Monster Statistics by CR to make sure that the plant’s CR remains appropriate.
 
 A giant flytrap’s stalks are 20 feet long, but generally sprawl relatively close to the central mass-a set of full-grown flytrap jaws is 7 feet across. A giant flytrap weighs 9,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Flytrap)
 ```encounter-table
 name: Giant Flytrap

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratfolk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 231
 desc_short: This small, ratlike humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery tail.
 ```
-# Description
+## Description
 Ratfolk are small, rodentlike humanoids often found traveling in nomadic trading caravans or perhaps dwelling in colonies in slums, sewers, and other normally undesirable urban sectors. Tinkerers and hoarders by nature, many ratfolk are shrewd merchants, carefully navigating the shifting alliances of black markets and bazaars. They love their stockpiles of interesting items far more than money, and would rather trade for more baubles to add to their hoards than for mere coins.
 
 Ratfolk are extremely communal, and live in large warrens with plenty of hidden crannies in which to stash their hoards or flee in times of danger, gravitating toward subterranean tunnels or tightly packed tenements in city ghettos. They feel an intense bond with their large families and kin networks, as well as with ordinary rodents of all sorts, living in chaotic harmony and fighting fiercely to defend each other when threatened.
 
 Ratfolk are generally 4 feet tall and weigh 80 pounds. They often wear robes to conceal their forms in cities, as they know other humanoids find their rodent features distasteful.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratfolk)
 ```encounter-table
 name: Ratfolk

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Grendel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 145
 desc_short: This lurching hulk carries no weapons, but its eyes burn with menace, and its long claws are caked with blood.
 ```
-# Description
+## Description
 This reaver of the cold marsh is not just a monster; he is a force of nature. Where there is peace and prosperity in the world, Grendel strikes, eager to prove that tranquility is transitory and death is the only constant. Grendel stalks the edge of his fens looking for quiet settlements. Under cover of night, he strikes, murdering the strong in their beds and chasing the terrified with demonic glee. He then takes the prize of his carnage deep into his fen where his lust for blood is grotesquely sated.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Grendel)
 ```encounter-table
 name: Mythic Grendel

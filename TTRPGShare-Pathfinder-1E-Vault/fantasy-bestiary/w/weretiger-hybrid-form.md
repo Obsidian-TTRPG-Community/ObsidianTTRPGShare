@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Weretiger (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 183
 desc_short: This humanoid tiger has striped fur and a muscular, lanky frame. Its feline face has sharp fangs and slitted eyes.
 ```
-# Description
+## Description
 Weretigers in humanoid form have large eyes, long noses, and sharp cheekbones. Most have brown or red hair, though a few have white, black, or even blue-gray. Their movements appear careful yet casual, and a person observing one could easily assume he’s watching a skilled pickpocket, graceful dancer, or sultry courtesan.
 
 Weretigers tend to be solitary creatures, only spending time with others of their kind when they feel the urge to breed. Evil weretigers enjoy the thrill of hunting intelligent prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Weretiger%20(Hybrid%20Form))
 ```encounter-table
 name: Weretiger (Hybrid Form)

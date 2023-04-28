@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pooka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 216
 desc_short: This creature combines the features of a sprightly girl and a black rabbit. A wicked, whimsical grin gleams on her face.
 ```
-# Description
+## Description
 Capricious in nature, pookas are always in search of fun, though they don’t often care who they inconvenience with their antics-they’re just in it for the whimsy. Always chaotic in nature, some pookas are cruel, some are good-natured, and others are slightly unhinged. There’s no way to tell which kind one is just by looking at it; only by interacting with a pooka does its nature become clear.
 
 However, having a conversation with a pooka isn’t easy. Though they’re intelligent, pookas speak in choppy, simple sentences filled with obscure metaphors and nonsensical references. Most creatures who converse with a pooka usually misunderstand it the first time and have to ask the creature to repeat itself. Even their telepathy is filled with strange images and references, such as representing the word “elf” with the face of an elf it knew long ago, colloquialisms that only make sense to native speakers of Sylvan, and so on.
@@ -75,7 +77,7 @@ Some pookas can be helpful, and farmers often leave a portion of their harvest b
 A pooka measures 1 to 2 feet from eartips to tail and weighs up to 15 pounds.
 
 A non-lawful spellcaster of at least 7th level who takes the Improved Familiar feat can select a pooka as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pooka)
 ```encounter-table
 name: Pooka

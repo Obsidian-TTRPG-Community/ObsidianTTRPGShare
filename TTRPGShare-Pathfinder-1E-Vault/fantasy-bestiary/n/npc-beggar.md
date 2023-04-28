@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Beggar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: NPC Codex
     desc: 256
 ```
-# Description
+## Description
 A beggar has had a hard life. He might be honest in his begging, or he might pretend to be something he’s not-such as disfigured or a war hero-to evoke sympathy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Beggar)
 ```encounter-table
 name: NPC Beggar

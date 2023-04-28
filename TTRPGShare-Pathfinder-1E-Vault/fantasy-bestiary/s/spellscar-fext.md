@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spellscar Fext
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 49
 desc_short: This undead horror’s upper body is twisted and malformed, and its hands end in tangles of blunt, electric-blue tendrils.
 ```
-# Description
+## Description
 The abominable undead known as Spellscar fexts are formed by wayward spellcasters who perish in the sprawling badlands of the Mana Wastes, their bodies and souls perverted by the unpredictable primal energies that surge throughout the Spellscar Desert. The average Spellscar fext stands about 6 feet tall and weighs 200 pounds.
 
 The unnatural and corruptive transformations a fallen victim undergoes as it turns into a Spellscar fext render its body hard and especially resilient to the magical energies of most spellcasters. In a peculiar twist, the same corruptive energy that causes spells to bounce off of Spellscar fexts’ hides also strangely renders them susceptible to glass and glass-based weapons. Talented gunsmiths from Alkenstar have managed to craft glass bullets for rif le-wielding adventurers and monster hunters for the purpose of eradicating Spellscar fexts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spellscar%20Fext)
 ```encounter-table
 name: Spellscar Fext

@@ -1,19 +1,21 @@
 ---
-alias: Energy Siege Shot, Greater
+aliases: [Energy Siege Shot, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Energy Siege Shot, Greater 
+## Energy Siege Shot, Greater
 
 **source**:: Ultimate Combat pg. 229  
 **school**:: transmutation \[variable\]
 **level**:: arcanist 6, occultist 6, sorcerer 6, summoner 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a ball of pitch)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one siege engine of any size  
@@ -21,6 +23,6 @@ alias: Energy Siege Shot, Greater
 **saving-throw**:: Fortitude negates (harmless, object)
 **spell-resistance**:: yes (harmless/object)
 
-### Description 
+### Description
 
 This spell functions like *energy shot*, except it can target siege engines of any size, not just Large siege engines.

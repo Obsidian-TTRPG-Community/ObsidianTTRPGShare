@@ -1,19 +1,21 @@
 ---
-alias: Phantasmal Reminder
+aliases: [Phantasmal Reminder]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantasmal Reminder 
+## Phantasmal Reminder
 
 **source**:: Magic Tactics Toolbox pg. 26  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: antipaladin 3, arcanist 3, bard 4, mesmerist 3, psychic 3, shaman 4, skald 4, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Phantasmal Reminder
 **saving-throw**:: Will disbelief, then Fortitude partial; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a memory loop of a successful attack made against the target, forcing its conscious mind to recall the details of the attack in such excruciating detail that its physical body is racked by the recollection. This spell can affect only a creature that has taken damage since the end of your last turn. The target first can attempt a Will save to recognize the attack as unreal. If it fails that saving throw, the target must succeed at a Fortitude save or take an amount of damage equal to 1d6 × your caster level (maximum 10d6). Because the damage is a quasi-real memory of existing wounds, this damage can’t be reduced or prevented (such as by the *shield other* spell).  
   

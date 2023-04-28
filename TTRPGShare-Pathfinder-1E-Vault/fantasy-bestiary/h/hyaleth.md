@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hyaleth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 84
 desc_short: This giant translucent leech has three squirming tentacles around an orifice on one end and a stinger on the other.
 ```
-# Description
+## Description
 Hyaleths are translucent, tubular aberrations hailing from deep underground waters. They occasionally travel to the surface, usually during heavy downpours, emerging into lakes, streams, swamps, and sometimes wells. Inquisitive and aggressive, hyaleths come to the surface to explore and to hunt sentient humanoids. Despite their large size, hyaleth can swim and hide in surprisingly shallow waters, allowing them to remain undetected while approaching their prey. Once it closes in on a target, a hyaleth uses its stinger to deliver a paralyzing neurotoxin before engulfing its victim within its elastic body. Though hyaleths cannot breathe air, they can leave the water and slither along the ground for short periods of time.
 
  An average hyaleth is 16 feet long and weighs about 1,300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hyaleth)
 ```encounter-table
 name: Hyaleth

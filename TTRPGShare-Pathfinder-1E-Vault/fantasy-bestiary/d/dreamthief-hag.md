@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dreamthief Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 22
 desc_short: This hideously gaunt woman has tangled white hair, goatlike horns, and menacing eyes that blaze with green light.
 ```
-# Description
+## Description
 These more powerful cousins of night hags often wander the Dimension of Dreams, stealing dreaming minds, trapping them within dreamstones, and selling them to the highest bidder. While few denizens of any plane trust dreamthief hags, some welcome them as merchants. Many powerful evil beings find captured minds to be useful components in dark rituals or profane research.
 
 Even those who hold dreamthief hags in contempt are careful not to offend them, for their bite contains a venom capable of temporarily paralyzing a victim’s mind, and the hags have few scruples about capturing even longtime commercial partners’ minds if the hags feel they have been disrespectful. While it’s difficult to determine exactly what harm befalls the minds in dreamthief hags’ care, those who have been released by them are never quite the same, and rarely have a nightmare-free night of sleep again.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dreamthief%20Hag)
 ```encounter-table
 name: Dreamthief Hag

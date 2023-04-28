@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yamah
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 63
 desc_short: This blue-skinned woman has blue-and-white butterfly wings. Her black hair sparkles like a starlit sky.
 ```
-# Description
+## Description
 Yamahs travel throughout the planes promoting the ideals of freedom and fairness, using their unique talents to rob evildoers of their magic and turn it into a weapon for good. Yamahs harbor ill will toward anyone who would use magic for cruel or evil purposes, especially necromancers and creatures that use magic to trap souls and pervert life. 
 
 Though yamahs often bear a stern countenance, they nonetheless enjoy lighthearted pranks and cheery jokes when appropriate. The white markings that cover their bodies may at first appear to be tattoos, but are actually natural sigils unique to each individual. The average yamah stands just over 6 feet tall and weighs 140 pounds. 
 
 Yamahs can often be encountered during lunar eclipses and other significant celestial events in regions where worship of any chaotic good deity or demigod is strong. Legends among such faiths claim that yamahs sometimes accompany good spellcasters on crusades against otherworldly fiends, though every story inevitably ends with the yamah mysteriously departing after the deed is done, abandoning its mortal partner without a word.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yamah)
 ```encounter-table
 name: Yamah

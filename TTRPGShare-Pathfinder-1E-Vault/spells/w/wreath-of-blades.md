@@ -1,19 +1,21 @@
 ---
-alias: Wreath of Blades
+aliases: [Wreath of Blades]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wreath of Blades 
+## Wreath of Blades
 
 **source**:: Ultimate Combat pg. 249  
 **school**:: abjuration
 **level**:: arcanist 5, bloodrager 4, magus 4, occultist 4, psychic 5, sorcerer 5, summoner 5, summoner (unchained) 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (four mithral daggers, each worth at least 502 gp each)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -22,7 +24,7 @@ alias: Wreath of Blades
 **saving-throw**:: Reflex half (special, see below)
 **spell-resistance**:: no (special, see below)
 
-### Description 
+### Description
 
 The daggers serving as focus of this spell take on a deadly sharpness as they animate and spin around you, creating a 5-foot-radius emanation of spinning mithral blades that moves with you. Any creature that starts its turn within the area of the spinning blades takes 1d4 points of damage for every two caster levels (maximum 10d4 at 20th level) and the damage bypasses DR/silver.  
   

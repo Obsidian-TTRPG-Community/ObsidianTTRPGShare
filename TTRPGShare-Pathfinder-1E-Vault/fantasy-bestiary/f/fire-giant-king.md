@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Giant King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: Monster Codex
     desc: 63
 ```
-# Description
+## Description
 Fire giant kings rule over their volcanic dominions with a cruel and heavy hand. Most kings seek the hand of a queen to reign beside them, both to secure their own power and to provide heirs to accede to their thrones when they inevitably fall in battle. A fire giant king must always watch his back, however, for there are always claimants eager to seize his position.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Giant%20King)
 ```encounter-table
 name: Fire Giant King

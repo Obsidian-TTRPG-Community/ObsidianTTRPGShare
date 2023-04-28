@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dvorovoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 86
 desc_short: A wild mop of hair tops this small humanoid creature’s head. It has prominent gleaming eyes and a toothy grin.
 ```
-# Description
+## Description
 Just as domovoi protect the home, dvorovoi protect villagers’ yards and pastures. Intrigued by tales of the creatures’ guardianship, some farmers lure dvorovoi to their fields by leaving offerings of bread, sheep’s wool, or shiny trinkets. When the owner of a farmstead with a dvorovoi purchases a new animal, he leads it through the yard to introduce it to the dvorovoi, hoping to gain the fey creature’s approval of the new livestock.
 
 Though undeniably useful to have around for feeding the cattle and keeping predators away from flocks, dvorovoi can be capricious. Dvorovoi despise any white animal, and will never tolerate a white-furred horse or cow in their presence. For unknown reasons, dvorovoi don’t hold this same grudge toward white chickens.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dvorovoi)
 ```encounter-table
 name: Dvorovoi

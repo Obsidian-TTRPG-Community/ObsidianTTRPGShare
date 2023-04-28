@@ -1,19 +1,21 @@
 ---
-alias: Suppress Charms and Compulsions
+aliases: [Suppress Charms and Compulsions]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Suppress Charms and Compulsions 
+## Suppress Charms and Compulsions
 
 **source**:: Adventurer's Guide pg. 77, Andoran, Spirit of Liberty pg. 27  
 **school**:: abjuration
 **level**:: arcanist 2, bard 2, cleric 2, mesmerist 2, oracle 2, paladin 2, psychic 2, shaman 2, skald 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature plus one additional creature per 4 levels, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Suppress Charms and Compulsions
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You bolster the subject’s sense of willpower and self-worth when you cast this spell. As you cast it, you must decide if you want to grant a bonus to saving throws against charms and compulsions or suppress charms and compulsions.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yaddithian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 285
 desc_short: This insectile biped has a tapir-like snout and is unmistakably alien in appearance, despite its vaguely humanoid shape.
 ```
-# Description
+## Description
 Yaddithians are an ancient race of scholarly starfarers. Bholes (Pathfinder RPG Bestiary 4 18) consumed their home planet long ago; the survivors fled to other worlds across the universe. It is rare to find a yaddithian less powerful than the wizard above
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yaddithian)
 ```encounter-table
 name: Yaddithian

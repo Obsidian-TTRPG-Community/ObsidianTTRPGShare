@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Morlock
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 54
 desc_short: Skin pale as a slug’s belly, eyes huge and bulging, this thing crawls down the wall like a spider, but its shape is hideously humanoid.
 ```
-# Description
+## Description
 Degenerate humans long lost from the world of light, morlocks have regressed through years of subterranean dwelling into ravenous, barely thinking beasts of the endless night. They no longer remember the civilized lives their ancestors led, although many morlock tribes still dwell in the shattered ruins of their ancient homes. Ironically, in many cases morlocks worship the statues left behind by these ancestors as their gods. Morlock priests of such ancestor worship have access to the domains of Darkness, Earth, Madness, and Strength. A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.
 
 Morlocks move about on two legs at times, but often drop down to a creepy four-limbed shuffle when speed or stealth is necessary. Their wiry, often emaciated frames mask the strength of their limbs and their swift reactions.
 
 Morlocks typically give birth to broods of three to four babies at a time, ravenous creatures born with a full set of teeth and a cannibalistic predisposition. The first few weeks of a brood’s life must be carefully mothered to prevent attrition-it usually takes that long for the morlock young to overcome their natural inclination to feed on whatever is closest. Morlocks mature quickly, achieving adulthood after only 5 years of life. A typical morlock can live to a ripe old age of 60-although the majority of their kind die far sooner than that due to violence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Morlock)
 ```encounter-table
 name: Morlock

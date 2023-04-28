@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Forest Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 94
 desc_short: This massive serpentine and wingless creature has jade scales and antlers, and sounds like grinding stones as it stalks forth.
 ```
-# Description
+## Description
 Forest dragons, or dilung, are fickle and malevolent dragons that dwell in deep, rugged woodlands. While a forest dragon can fly, it prefers to stalk the earth, flying only to pursue objects of its wrath.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Forest%20Dragon)
 ```encounter-table
 name: Young Forest Dragon

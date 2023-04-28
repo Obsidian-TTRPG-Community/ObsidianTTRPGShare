@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Death Dog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 44
 desc_short: This black-furred, two-headed dog is as large as a horse and has midnight-black eyes. Tiny worms crawl on its mangy hide.
 ```
-# Description
+## Description
 Death dogs are disease-ridden nocturnal pack hunters. Said to be the risen corpses of dogs or hyenas animated by monster-worshiping cultists, they are actually living creatures infested with symbiotic worms. Capable of tracking their prey for miles across barren terrain, death dogs surround stronger creatures, attacking and retreating, allowing their infected bites to wear down an opponent until it is too weak to fight. A pack’s territory may overlap with others of its kind without competition, though in lean times packs may skirmish over live prey or carrion.
 
 A death dog’s saliva contains hundreds of tiny eggs that grow into flesh-devouring worms. The worms don’t harm the death dog, but consume any creatures they come into contact with. A death dog’s corpse is contagious for several days after its demise and may infect creatures that touch or eat it. Remove disease can kill a death dog’s worms and remove its disease ability, but if allowed to associate with others of its kind, its quickly becomes reinfected.
 
 A typical death dog is 7 feet long, stands 4 feet tall at the shoulder, and weighs about 500 pounds. Death dogs may ally with hobgoblins and bugbears, though the goblinoids are not immune to the dogs’ disease. Thus these alliances are often temporary.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Death%20Dog)
 ```encounter-table
 name: Death Dog

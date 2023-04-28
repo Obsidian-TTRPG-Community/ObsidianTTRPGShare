@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wild Hunt Scout
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 284
 desc_short: This lithe humanoid has pointed ears, glowing green eyes, and a ram’s horns.
 ```
-# Description
+## Description
 Wild hunt scouts relish the chance to seek revenge upon those who have wronged or insulted the wild hunt. They grow bored quickly when the stakes are not lethal, yet they rarely let their bloodlust cloud their tactical choices.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wild%20Hunt%20Scout)
 ```encounter-table
 name: Wild Hunt Scout

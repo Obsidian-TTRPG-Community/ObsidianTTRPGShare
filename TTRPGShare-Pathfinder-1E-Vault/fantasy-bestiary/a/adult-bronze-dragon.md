@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Bronze Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 104
 ```
-# Description
+## Description
 Bronze dragons have been known to ally with travelers and adventurers if the cause and reward is right and just. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Bronze%20Dragon)
 ```encounter-table
 name: Adult Bronze Dragon

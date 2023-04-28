@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raven Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 240
 desc_short: The pitch-black birds that make up this torrent of claws and feathers glare ominously from hundreds of beady eyes.
 ```
-# Description
+## Description
 This abnormally aggressive flock of ravens forgoes scavenging in favor of more active hunting for food. Multiple swarms of ravens make uncanny use of strategy, with one swarm flushing out prey and driving it directly into the onslaught of an allied swarm. The statistics for a raven swarm can also be used to represent any large, aggressive flock of flying birds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raven%20Swarm)
 ```encounter-table
 name: Raven Swarm

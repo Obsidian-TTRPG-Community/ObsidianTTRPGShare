@@ -1,19 +1,21 @@
 ---
-alias: Mythic Ear-Piercing Scream
+aliases: [Mythic Ear-Piercing Scream]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Ear-Piercing Scream
+## Mythic Ear-Piercing Scream
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: evocation (sonic)
 **level**:: arcanist 1, bard 1, bloodrager 1, inquisitor 1, medium 1, psychic 1, skald 1, sorcerer 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Ear-Piercing Scream
 **saving-throw**:: Fortitude partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You unleash a powerful scream, inaudible to all but a single target. The target is dazed for 1 round and takes 1d6 points of sonic damage per two caster levels (maximum 5d6). A successful save negates the daze effect and halves the damage.
 

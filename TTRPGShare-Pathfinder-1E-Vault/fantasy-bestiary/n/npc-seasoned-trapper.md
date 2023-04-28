@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Seasoned Trapper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: NPC Codex
     desc: 261
 ```
-# Description
+## Description
 A trapper catches animals with snares, then turns their hides into leather and fur goods. Most are independent folk, content to live on the edge of civilization so they don’t have to deal with the niceties of polite society. A few find themselves trying to escape a past crime or tragedy, using the wilderness to hide and eking out a livelihood from the natural world. Most know the best places to hunt and trap, hidden paths that lead to observation points, and the locations of caves and dangerous natural hazards.
 
 In frontier areas, a seasoned trapper is the next best thing to a guide, scout, tracker, or sniper, and in wartime many serve in the local militia, using their keen eyes and deadly skills to keep villagers safe and provide food. In exchange for a few coins, they may lead adventurers to the edge of monster territory or provide food or shelter in a storm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Seasoned%20Trapper)
 ```encounter-table
 name: NPC Seasoned Trapper

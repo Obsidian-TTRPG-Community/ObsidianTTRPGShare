@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shard Slag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 240
 desc_short: This smoldering mass of metal-encrusted goo sports half a dozen pseudopods, each tipped with a burning-hot sword blade.
 ```
-# Description
+## Description
 Shard slags are living mounds of magicinfused iron. They dwell within the iron-rich molten cores of worlds, the hearts of active volcanoes, or any location where the borders of the Material Plane and the Plane of Fire are thin. Though they’re not sentient, shard slags are skilled hunters and have developed a bizarre method of hunting and defending themselves. When a creature is near, a shard slag spontaneously alters its molten body to produce a number of razor-sharp blades. The shard slag then mindlessly attacks until the other creature is stabbed, burned, and then consumed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shard%20Slag)
 ```encounter-table
 name: Shard Slag

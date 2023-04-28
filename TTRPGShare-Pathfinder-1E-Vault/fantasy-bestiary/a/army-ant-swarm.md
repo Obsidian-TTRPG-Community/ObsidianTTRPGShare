@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Army Ant Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 16
 desc_short: A writhing carpet of ants seethes over the ground, consuming everything in its path.
 ```
-# Description
+## Description
 The notoriety of the army ant swarm is well earned. Constantly on the march, a hive of army ants is capable of eating anything that gets in the way of its unabating swath of destruction and ruin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Army%20Ant%20Swarm)
 ```encounter-table
 name: Army Ant Swarm

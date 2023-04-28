@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gliding Tutle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 82
 desc_short: This giant turtle has a large, thin membrane of scaly skin extending from its shell to its legs.
 ```
-# Description
+## Description
 The gliding turtles of Azlant evolved thin layers of skin that connect their limbs to their shells and allow them to glide from ridges and drop onto unsuspecting prey. A gliding turtle is about 7 feet long and weighs over 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gliding%20Tutle)
 ```encounter-table
 name: Gliding Tutle

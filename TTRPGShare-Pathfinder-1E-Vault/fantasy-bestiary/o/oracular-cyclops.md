@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oracular Cyclops
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 73
 desc_short: Clothed in loose robes and wearing jewelry, this one-eyed giant appears to hold a high station.
 ```
-# Description
+## Description
 A cyclops oracle retains more of the powers of foresight than most of its kin. In addition to a cyclops’s typical f lash of insight ability, an oracular cyclops can share its gift with others, granting them a boon on a future challenge. While often smaller than others of its kind, an oracular cyclops gains the ability to foresee danger coming its way. The statistics above depict a cyclops who is served by a cult of worshippers, and is therefore in good health. Other oracular cyclopes are sometimes kept as chained prisoners, at the mercy of their captors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oracular%20Cyclops)
 ```encounter-table
 name: Oracular Cyclops

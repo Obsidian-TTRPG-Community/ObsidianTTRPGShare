@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Grizzled Mercenary
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
   - name: NPC Codex
     desc: 268
 ```
-# Description
+## Description
 A grizzled mercenary is armed to the teeth, and has survived wars and reckless adventurers. He carries multiple weapons so he can deal with various types of monstrous foes, and is unfazed by most encounters. He expects to be paid for his service on time and in real coin-not giant gems or weird statues.
 
 The mercenary is willing to guard a keep, wear a warlord’s tabard or uniform, or venture into the upper levels of a dungeon, but he’s no fool and doesn’t like being treated as expendable. He is loyal as long as he is paid well, but not willing to risk his life on an obvious suicide mission. The above stat block can also be used for veteran military officers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Grizzled%20Mercenary)
 ```encounter-table
 name: NPC Grizzled Mercenary

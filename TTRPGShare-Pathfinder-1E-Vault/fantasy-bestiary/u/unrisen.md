@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Unrisen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 268
 desc_short: This grotesque tangle of twisted bones, decayed flesh, and rotted organs is shaped into a vague parody of the human form.
 ```
-# Description
+## Description
 Even by the standards of the undead, unrisen are an affront to life. An unrisen is rarely created intentionally, as most come about when a resurrection attempt is poorly performed and results in a mishap, or through experimental alchemical processes that attempt to restore life to the dead. 
 
 The unrisen cling to unlife with unparalleled resilience. Their half-living organs drink in positive energy, taking a form of healing from the life-giving power. Even devastating violence cannot truly slay an unrisen, as the magic that created them reforms them over and over in a horrifying rebirth. Only the purifying touch of fire or the unrisen’s dissolution to essential salts can grant these undead creatures permanent rest. 
 
 An unrisen is 6 feet tall and weighs 200 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Unrisen)
 ```encounter-table
 name: Unrisen

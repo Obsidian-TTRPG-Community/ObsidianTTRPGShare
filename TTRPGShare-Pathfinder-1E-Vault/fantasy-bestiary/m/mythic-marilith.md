@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Marilith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 182
 desc_short: This snake-bodied woman has six arms, yet her cruel weapons float in the air, glistening with poison.
 ```
-# Description
+## Description
 A mythic marilith is a queen of chaos and evil, controlling a large territory in the Abyss and commanding a legion of demons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Marilith)
 ```encounter-table
 name: Mythic Marilith

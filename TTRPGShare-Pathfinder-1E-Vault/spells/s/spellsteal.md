@@ -1,19 +1,21 @@
 ---
-alias: Spellsteal
+aliases: [Spellsteal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spellsteal 
+## Spellsteal
 
 **source**:: Monster Codex pg. 200  
 **school**:: abjuration
 **level**:: arcanist 5, cleric 5, oracle 5, psychic 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Spellsteal
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a discordant blast of energy that disrupts the target’s available magic and transfers knowledge of that magic to you.  
   

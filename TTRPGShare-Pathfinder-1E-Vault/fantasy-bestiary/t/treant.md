@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Treant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 266
 desc_short: This animated tree’s bark is knotted into vaguely humanoid features, with branches for arms and roots for legs.
 ```
-# Description
+## Description
 Treants are guardians of the forest and speakers for the trees. As long-lived as the forests themselves, and seeing themselves as parents and shepherds rather than gardeners, treants are slow and methodical in most things but terrifying when forced to fight in defense of their flock. Though they rarely seek out the companionship of the short-lived races, and have an inherent distrust of change, they have been known to tolerate those who seek to learn from their long, rambling monologues, especially if the pupils express a desire to help protect the wildlands. Yet against those who would threaten the forest, especially loggers who seek to harvest wood for lumber or those who try to clearcut a section of forest in order to build a fort or establish a town, the treants’ wrath is swift and devastating. They are particularly gifted at tearing down what others build-a trait that serves angry treants well.
 
 Treants are primarily solitary creatures, with a given individual sometimes responsible for an entire forest, but they occasionally come together in small groups called groves to share news and reproduce. In times of grave danger, all of the groves in a region may gather for a great months-long meeting called a moot, but such events are exceedingly rare, and millennia may go by between them.
 
 The typical treant is 30 feet tall, with a trunk 2 feet in diameter, and weighs 4,500 pounds. Treants tend to resemble the species of trees most common in their woodland territories.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Treant)
 ```encounter-table
 name: Treant

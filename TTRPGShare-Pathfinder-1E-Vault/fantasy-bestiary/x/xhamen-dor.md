@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xhamen-Dor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -82,11 +84,11 @@ sources:
     desc: 86
 desc_short: A hideous tangle of hairlike fungal filaments writhes with nauseating purpose. Bones lie tangled in the wriggling mass, arrayed around a central draconic skull.
 ```
-# Description
+## Description
 Spawned countless eons ago within the deepest tainted reservoirs hidden in the foul sewers of Carcosa, the fungal infestation known as Xhamen-Dor, the Inmost Blot, has traveled from world to world for ages untold, infesting reality and returning time and time again to its place of creation to expand the alien city’s scope. Full details on this destructive agency of parasitism can be found on pages 62-67.
 
 Xhamen-Dor is an elephantine mass of fungus and hairlike tendrils capable of assuming any basic form, although its preferred shapes are that of a serpentine creature, a spiderweb-like tangle, or a shuddering carpet of filth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xhamen-Dor)
 ```encounter-table
 name: Xhamen-Dor

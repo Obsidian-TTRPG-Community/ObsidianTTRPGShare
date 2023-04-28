@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vemerak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 62
 desc_short: This huge monstrosity seems like some alien, clawed insect, with vaguely humanoid features and three tentacular tails.
 ```
-# Description
+## Description
 Huge and otherworldly, the vemerak is a monster known as much for its disturbing appearance as its violent and cruel disposition.
 
 A vemerak is 10 feet tall and 20 feet long, its tentacle-like tails adding a further 15 feet to its length. It weighs just over 6 tons. Caverns that serve as lairs to these creatures invariably possess disturbing shrines where the creatures offer up portions of every meal to dark 
 
 gods that dwell deep below the sane world-as a result, many believe that vemeraks exist as the physical manifestation of the will of a particularly violent and insane deity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vemerak)
 ```encounter-table
 name: Vemerak

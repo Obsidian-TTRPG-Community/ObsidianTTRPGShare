@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,7 +48,7 @@ sources:
     desc: 175
 desc_short: Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant eyes.
 ```
-# Description
+## Description
 Hobgoblins are militaristic and fecund, a combination that makes them quite dangerous in some regions. They breed quickly, replacing fallen members with new soldiers and keeping up their numbers despite the fortunes of war. They generally need little reason to declare war, but more often than not that reason is to capture new slaves-life as a slave in a hobgoblin lair is brutal and short, and new slaves are always needed to replace those who fall or are eaten.
 
 Of all the goblinoid races, the hobgoblin is by far the most civilized. They see the larger and more solitary bugbears as tools to be hired and used where appropriate, usually for specific missions involving assassination and stealth, and look upon their smaller goblin kin with a mix of shame and frustration. Hobgoblins admire goblin tenacity, yet their miniscule kindred’s unpredictable nature and fondness for fire make them unwelcome additions to hobgoblin tribes or settlements. Nonetheless, most hobgoblin tribes include a small group of goblins, typically squatting in the most undesirable corners of the settlement.
@@ -56,7 +58,7 @@ Many hobgoblin tribes combine their love of warfare with keen intellects. The sc
 It is well known that hobgoblins mistrust and even despise magic, particularly arcane magic. Their shamans are treated with a mix of fear and respect, and are usually forced to live alone on the fringes of the tribe’s lair. It is all but unheard of to find a hobgoblin practicing arcane magic, or as hobgoblins call it, “elf magic.” This is the root of their hatred of magic-the hobgoblins’ hatred of elves.
 
 A hobgoblin stands 5 feet tall and weighs 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin)
 ```encounter-table
 name: Hobgoblin

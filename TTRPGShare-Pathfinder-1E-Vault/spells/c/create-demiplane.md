@@ -1,19 +1,21 @@
 ---
-alias: Create Demiplane
+aliases: [Create Demiplane]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Demiplane 
+## Create Demiplane
 
 **source**:: Ultimate Magic pg. 213  
 **school**:: conjuration (creation)
 **level**:: arcanist 8, cleric 8, occultist 6, oracle 8, psychic 8, sorcerer 8, summoner 6, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 4 hours  
 **components**:: V, S, F (a forked metal rod worth at least 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: extradimensional demiplane, up to 10 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Create Demiplane
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as *create lesser demiplane*, except the area is larger and you can add more features to the plane. You can use this spell to expand a demiplane you created with *create lesser demiplane* (you do not need to create an entirely new plane using this spell), in which case it has a duration of 1 day/level. Alternatively, when cast within your demiplane, you may add (or remove) one of the following features to your demiplane with each casting of the spell, in which case it has an instantaneous duration.  
   
@@ -40,4 +42,3 @@ This spell functions as *create lesser demiplane*, except the area is larger and
 *Structure*: Your demiplane has a specific, linked physical structure, such as a giant tree, floating castle, labyrinth, mountain, and so on. (This option exists so you can pick a theme for your plane without having to worry about the small details of determining what spells you need for every hill, hole, wall, floor, and corner).  
   
 You can make this spell permanent with the *permanency* spell, at a cost of 20,000 gp. If you have cast *create demiplane* multiple times to enlarge the demiplane, each casting’s area requires its own *permanency* spell.
-

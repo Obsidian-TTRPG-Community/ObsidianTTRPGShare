@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shissah
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 63
 desc_short: This sleek equine is slightly smaller than an average horse, but its eyes contain a gleam of higher intelligence.
 ```
-# Description
+## Description
 Shissahs are smaller and seem more delicate than most horses, but their fragile appearance belies their hardiness. They can travel for weeks on minimal water rations and survive on desert scrub and even locusts if necessary. Their large, wide-set eyes, which are surrounded by a thin ring of black, hairless skin, enable them to see despite the glare of the desert sun. Their wide foreheads, tapering to a slender muzzle, indicate their great intelligence. Their high-arched tails are often taken as a sign of their fiery spirit.
 
  Shissahs come in a wide range of colors, and they are often used to refine the lines of other breeds and lend them greater intelligence and bravery. Few leave the hands of Keleshite owners, for a shissah is no mere mount, but a fierce and loyal partner.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shissah)
 ```encounter-table
 name: Shissah

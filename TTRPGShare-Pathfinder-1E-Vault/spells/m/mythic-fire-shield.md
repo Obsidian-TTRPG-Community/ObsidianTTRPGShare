@@ -1,25 +1,27 @@
 ---
-alias: Mythic Fire Shield
+aliases: [Mythic Fire Shield]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fire Shield
+## Mythic Fire Shield
 
 **source**:: Mythic Adventures pg. 94  
 **school**:: evocation (fire or cold)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, investigator 4, magus 4, occultist 4, sorcerer 4, summoner 3, summoner (unchained) 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (phosphorus for the *warm shield*; a firefly or glowworm for the *chill shield*)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 This spell wreathes you in flame and causes damage to each creature that attacks you in melee. The flames also protect you from either cold-based or fire-based attacks, depending on if you choose cool or warm flames for your fire shield.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Pernicious Poison
+aliases: [Pernicious Poison]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Pernicious Poison 
+## Pernicious Poison
 
 **source**:: Ultimate Magic pg. 231  
 **school**:: necromancy (poison)
 **level**:: antipaladin 2, arcanist 2, druid 2, hunter 2, occultist 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,11 +23,11 @@ alias: Pernicious Poison
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You weaken the target’s defenses against poison. The target gains a -4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a -4 penalty.
 
-## Mythic Pernicious Poison 
+## Mythic Pernicious Poison
 
 **source**:: Mythic Adventures pg. 103  
 The number of successful saving throws needed to cure a poison increases by one. If the poison deals ability damage on a failed saving throw, that ability damage increases by 1.  

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chuspiki
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 56
 desc_short: This tiny creature, covered in a thick coat of fluffy fur, glides through the air, riding invisible currents on its fanlike tail.
 ```
-# Description
+## Description
 Chuspikis are intelligent, mouselike creatures covered in a coat of downy tan fur which makes them appear much larger than they actually are. A chuspiki’s tail is substantially longer than the rest of its body, fanning out into a sail-like structure. The base of its tail is strong and flexible, allowing the chuspiki to whip around the fan at the tip with surprising speed. It can use this motion to create concussive blasts of air, or to scratch opponents with barbs on the underside of its tail bones.
 
 Like the wind itself, chuspikis are always moving. Chuspikis soar through the air, riding their fans like gliders and summoning minor gusts to steer their flight. They rest in short bursts, napping for just an hour at a time.
@@ -75,7 +77,7 @@ Whenever they can, chuspikis seek out new experiences. They are social creatures
 A typical chuspiki is 1 foot long, with its tail extending out an additional 5 feet, and weighs 1 pound. Its bones are hollow, like a bird’s.
 
 A chuspiki will sometimes ally with a spellcaster as a familiar. A chaotic spellcaster can gain a chuspiki as a familiar at 7th level by taking the Improved Familiar feat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chuspiki)
 ```encounter-table
 name: Chuspiki

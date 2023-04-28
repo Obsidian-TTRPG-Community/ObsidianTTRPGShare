@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warsworn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 88
 desc_short: An enormous, animate mass of armed and armored corpses undulates forth, like a siege tower of steel-girded flesh.
 ```
-# Description
+## Description
 Warsworns are massive undead amalgams, their evershifting, chaotic bodies composed of countless slain soldiers and their armor and weapons. The shambling, serpentine form of a warsworn creates a grotesque, metallic cacophony as the weapons and armor of countless souls clash as though still in the throes of a never-ending battle. A warsworn forms by the will of a god or goddess of undeath or war, or spontaneously from the bloodlust and wrath of a battlefield of dead soldiers. Once created, a warsworn exists to spread the rage of war, ravage the land, and spread the carnage of battle.
 
 A typical warsworn weighs several tons and can reach a height of up to 25 feet. A newly formed one is much smaller, but quickly consumes nearby corpses from a battlefield or mass grave and swells to its full size. It is always hungry for more dying bodies. It prefers to absorb warriors and soldiers, but willingly consumes any suitable humanoid. Its constant grinding motion breaks its component parts, giving it plenty of scrap to hurl at distant foes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warsworn)
 ```encounter-table
 name: Warsworn

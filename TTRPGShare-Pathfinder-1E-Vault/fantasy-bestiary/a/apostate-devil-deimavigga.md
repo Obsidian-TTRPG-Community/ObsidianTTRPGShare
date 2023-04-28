@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apostate Devil (Deimavigga)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 54
 desc_short: A grim metal mask floats above ceremonial armor that shifts and writhes, and long blades form fingers on gauntleted hands.
 ```
-# Description
+## Description
 Regal, fearsome, and unfeeling, deimaviggas seek to turn the faithful from their gods, using cold logic to proselytize the path of atheism, the freedom of the mortal spirit, and the order offered by Hell. Their ever-shifting masks speak envenomed words and give their hollow lies the ring of truth. Speaking out against all deities-except for Asmodeus, whom they subtly tout as a bringer of discipline even as they downplay his divinity-these deadly intellectuals know that those who turn from their deities are more likely to succumb to the temptations of diabolism. Rather than attempting to sway the souls of individual mortals, these cunning fiends take on the roles of prophets of reason, disguising themselves beneath layers of illusion to evangelize the virtues and freedoms of lives unshackled by the demands of egotistical deities. Occasionally one might focus its arguments on a soul of particular piety, delighting in throwing a deity’s most devoted servant into an inescapable crisis of faith. Deimaviggas care little for what gods their depredations affect, disenfranchising the worshipers of the pure and the profane alike.
 
 In their natural shapes, deimaviggas stand 7 feet tall and weigh a mere 120 pounds. When disguised, though, they typically take the forms of wise elders who have lived long enough to understand fundamental truths about the universe, priests who have "realized their folly" and rejected their former dogma, or even "angels" of truth. Though they prefer to fight with words rather than with physical means, deimaviggas attack those who attempt to strip away their disguises and illusions, or who can argue as eloquently as they-though if possible, they prefer to do so discreetly and dispose of the bodies secretly.
@@ -84,7 +86,7 @@ In their natural shapes, deimaviggas stand 7 feet tall and weigh a mere 120 poun
 Deimaviggas prefer to spend most of their time upon the Material Plane, swaying the weak and corruptible souls of mortals.There they seek out either vast mortal cities, where their heresy might reach many ears, or small communities where the isolated might fall to their blasphemous philosophizing. When in Hell, though, they linger in Caina, tormenting the souls of those trapped upon its lonely islands, developing and testing complicated and often confusing arguments.
 
 Preferring to operate alone, these poison-tongued devils rarely work with others of their kind, even though their status affords them control over their lesser brethren. They find that their arguments benefit from a single voice, and that their endeavors are complicated by even the most obedient minions. They bow to Hell’s hierarchy, however, and serve if compelled to do so. Pit fiends and infernal dukes sometimes utilize deimaviggas as personal majordomos, spies, and spreaders of dissension, though even among devilkind these enigmatic fiends are considered particularly unnerving.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apostate%20Devil%20(Deimavigga))
 ```encounter-table
 name: Apostate Devil (Deimavigga)

@@ -1,19 +1,21 @@
 ---
-alias: Aura Alteration
+aliases: [Aura Alteration]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Aura Alteration 
+## Aura Alteration
 
 **source**:: Occult Adventures pg. 157  
 **school**:: illusion
 **level**:: medium 3, mesmerist 3, occultist 3, psychic 4, spiritualist 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one object or willing creature  
@@ -21,7 +23,7 @@ alias: Aura Alteration
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You mask and manipulate the target creature’s or object’s aura, confounding those who would attempt to discern helpful information from it using the read aura occult skill unlock (see page 197) or the *analyze aura* spell. You can change each of the following four auras with one casting of *aura alteration*.  
   

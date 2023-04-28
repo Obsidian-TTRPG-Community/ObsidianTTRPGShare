@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Minotaur Marauder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 42
 desc_short: The battle-worn axe and scarred leather armor born by this sunbleached minotaur woman mark her as a seasoned combatant.
 ```
-# Description
+## Description
 As the elite warriors of minotaur communities, marauders are far-ranging and vicious defenders of their tribal lands, fearless scouts, and tireless trackers. They fall upon settlements to steal worked goods, free or kill livestock, and capture humanoids for their tribes to feed upon. Marauders also skirmish with other monstrous inhabitants of their rocky badlands-especially harpies and centaurs, for whom they hold a legendary hatred-to claim the best land, lairs, and water sources.
 
 Young marauders train by letting their brethren hunt them like beasts, competitions that end in vicious, hours-long wrestling matches and fistfights. These childhood games eventually evolve into contests of arms, speed, and marksmanship that often result in painful-but not debilitating-permanent injuries that contribute to the marauders’ legendarily short tempers.
@@ -61,7 +63,7 @@ Young marauders train by letting their brethren hunt them like beasts, competiti
 Marauders show a keener mind for tactics than do many of their kin. While they still prefer to finish enemies off with a gorespattering axe blow, they see nothing wrong with first softening up opponents from a distance with a bow or a few well-placed traps. They can control their aggression well enough to benefit from hit-and-run tactics, charging an overwhelming force before falling back to lure their enemy into an ambush, a rockslide, or-in the case of flying pests like harpies-nets. Thanks to their varied responsibilities and opponents, marauders train until they achieve incredible skill with both axes and bows. They make the most of the labyrinthine caverns and twisting canyons of their domains to confuse and separate foolish enemies who press into their lands.
 
 These minotaurs show an uncharacteristic kindness to beasts of the field, sometimes training goats, dogs, or bulls to serve them as pets and guardians.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Minotaur%20Marauder)
 ```encounter-table
 name: Minotaur Marauder

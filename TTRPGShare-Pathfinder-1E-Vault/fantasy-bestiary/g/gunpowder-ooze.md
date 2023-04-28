@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gunpowder Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 63
 desc_short: This lurching mass of slime and gunpowder leaves a trail of shiny black residue in its wake, and shudders with concussive energy.
 ```
-# Description
+## Description
 Common where wild magic and gunpowder are prevalent, gunpowder oozes are the combination of these two dangerous and unpredictable elements.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gunpowder%20Ooze)
 ```encounter-table
 name: Gunpowder Ooze

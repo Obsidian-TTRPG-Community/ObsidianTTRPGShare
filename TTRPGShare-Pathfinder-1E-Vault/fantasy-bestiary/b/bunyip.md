@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bunyip
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 50
 desc_short: A disturbing combination of shark and seal, this brown-furred creature has a wide mouth filled with razor-sharp teeth. 
 ```
-# Description
+## Description
 The bunyip is a fierce and avid hunter, possessing a primal ruthlessness that seems almost evil in its rapacity. A bunyip typically inhabits large freshwater inlets or sheltered coastal sea caves where food is plentiful-the bunyip is equally at home in fresh or salt water. It prefers feeding on animals of Small size or larger, though it isn’t averse to eating humanoids when presented the opportunity. Bunyips are quite territorial, and readily attack when intruders threaten their hunting grounds. Bunyips mate annually, during the late spring. During this period, bunyips become even more aggressive. After mating, couples split, with the female wandering off to find a place to birth a small litter of four to six pups. Females watch their pups for a few days, until they become independent enough for the mothers to move on. 
 
 Reports of bunyip sightings come from every end of the map. Though the accuracy of all such reports remains doubtful, enough reliable accounts exist to confirm their widespread adaptability. The species thrives in numerous ecological climes, from frigid polar fjords to idyllic tropical lagoons. The bunyip is not a deep-sea creature, and even avoids larger freshwater lakes, as it prefers to lurk near shorelines where its favorite food is more common. 
 
 While bunyips vary in appearance, all possess similar basic physical structures. The bunyip’s head exhibits strong seal-like features, save for its shark-like jaws. Its upper torso is thick and muscular, with long, fin-like limbs. Some species even have a single, shark-like dorsal fin. The remaining portion of the body extends into a long tail. Those with fur usually only grow a short coat on the upper body in shades of pale gray, brown, or black.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bunyip)
 ```encounter-table
 name: Bunyip

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nocticula
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -82,11 +84,11 @@ sources:
     desc: 86
 desc_short: This frighteningly majestic creature spreads wide her runeadorned wings. Molten iron weeps from her hooves, and her three tails are studded with barbs.
 ```
-# Description
+## Description
 Nocticula is the demon lord of assassins, darkness, and lust, and rules the Abyssal realm of the Midnight Isles, a vast archipelago formed around the murdered remnants of dozens of demon lords and other powerful foes. Having been the first succubus and then having ascended to become a demigoddess, Nocticula now sets her eyes at a greater prize-full divinity. Lamashtu is the only demon lord who has accomplished this task so far, but Nocticula aims to be the second. What kind of deity she might become is anyone’s guess-some believe that Nocticula is secretly seeking redemption from her demonic nature. Others say these rumors were seeded by Nocticula herself as a grand lie to distract her enemies from her true goal of becoming an assassin and seducer of gods.
 
 Nocticula is certainly mercurial in her personality and attitude. She may simply murder or enslave visitors to her realm, or she may welcome them with open arms-even those who one would think were her enemies. Only a fool accepts her invitation without suspicion, for what the queen of succubi wants may change dramatically from one moment to the next.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nocticula)
 ```encounter-table
 name: Nocticula

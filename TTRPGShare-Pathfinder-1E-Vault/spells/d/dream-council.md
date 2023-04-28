@@ -1,19 +1,21 @@
 ---
-alias: Dream Council
+aliases: [Dream Council]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dream Council 
+## Dream Council
 
 **source**:: Occult Adventures pg. 165  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 7, bard 6, medium 4, mesmerist 5, psychic 6, skald 6, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: one or more living creatures  
@@ -21,7 +23,7 @@ alias: Dream Council
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions as *dream*, but you and the target of your *dream* can converse in a limited fashion as long as the recipient is also asleep. You can send or receive a number of dream messages equal to your caster level. Each message can be up to 25 words long or a single vague image that can’t convey fine details such as words. You can send and receive these dream messages with a single target or multiple targets, but each message you send or receive counts against the total number of messages allowed. Sending a message takes 1 round. The spell ends and you wake up when you run out of messages.  
   

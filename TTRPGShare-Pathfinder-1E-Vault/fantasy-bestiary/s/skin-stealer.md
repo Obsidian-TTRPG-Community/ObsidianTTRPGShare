@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skin Stealer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 88
 desc_short: Dark pink flesh drawn tightly across its emaciated body, this being resembles a gaunt human stripped of its skin, its pulsing muscles completely exposed.
 ```
-# Description
+## Description
 A sadistic being from the realm of the fey, a skin stealer is a terrifying sight to behold. These blood-red creatures resemble horrid, emaciated humans without skin, their yellowish eyes and teeth suggesting malnourishment or disease. Skin stealers suffer from no ailment, however, except for their insatiable lust for chaos and their hunger for flesh.
 
 Hailing from the First World, skin stealers are fey bent on destruction and gruesome murder. When left to their own devices, these gangly beings are unpredictable and spontaneous; when assigned duties from some higher, stronger power, however, skin stealers prove adept at performing complex assassinations and spy work.
 
 A skin stealer is a little over 6 feet tall and weighs about 100 pounds, though it can adjust its size to inhabit many different creatures’ skins.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skin%20Stealer)
 ```encounter-table
 name: Skin Stealer

@@ -1,19 +1,21 @@
 ---
-alias: Life Bubble
+aliases: [Life Bubble]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Life Bubble 
+## Life Bubble
 
 **source**:: Advanced Player's Guide pg. 230  
 **school**:: abjuration
 **level**:: arcanist 5, cleric 5, druid 4, hunter 3, occultist 4, oracle 5, psychic 5, ranger 3, sorcerer 5, warpriest 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a bit of eggshell)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creatures touched, up to one/level  
@@ -21,7 +23,7 @@ alias: Life Bubble
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You surround the touched creatures with a constant and moveable 1-inch shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and spells like *cloudkill* and *stinking cloud*. In addition, the shell protects subjects from extremes of temperature (per *endure elements*) as well as extremes of pressure.  
   

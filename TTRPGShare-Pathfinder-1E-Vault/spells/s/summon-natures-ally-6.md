@@ -1,19 +1,21 @@
 ---
-alias: Summon Nature's Ally 6
+aliases: ["Summon Nature's Ally 6"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Summon Nature's Ally 6 
+## Summon Nature's Ally 6
 
 **source**:: PRPG Core Rulebook pg. 354  
 **school**:: conjuration (summoning)
 **level**:: druid 6, hunter 6, shaman 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one summoned creature  
@@ -21,7 +23,6 @@ alias: Summon Nature's Ally 6
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *summon nature's ally I*, except that you can summon one 6th-level creature, 1d3 5th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
-

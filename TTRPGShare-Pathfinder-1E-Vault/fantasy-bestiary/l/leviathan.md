@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leviathan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -82,13 +84,13 @@ sources:
     desc: 240
 desc_short: This impossibly enormous, whalelike monstrosity glares with a hundred red eyes, its cavernous maw lined with rows of sharp teeth.
 ```
-# Description
+## Description
 The mighty Leviathan is the most powerful of the Tane, a group of destructive servitors of the Eldest. Left to its own devices, Leviathan remains in a slumber lasting for millennia or spends its waking time singing in the vast deeps of the First World’s oceans. But the Eldest’s planar upheavals, whims, or the ill-advised aggression of fools can arouse Leviathan as a weapon of devastation. Once awakened, Leviathan leaves cities and even entire nations destroyed in its planar wake, though it preserves the thoughts and memories of many of the fallen within its own mind, composing elegies to the lost. Some lucky few are spared Leviathan’s wrath by gaining refuge within Zanziveil, the City of the Spared, a resplendent city of refugees ruled by a mysterious masked woman named Zizipal. Zanziveil itself exists in a strange demiplane accessible only via Leviathan’s labyrinthine entrails, and many believe that Zizipal is a manifestation of Leviathan’s remorse and curiosity.
 
  Over the eons, Leviathan has visited countless Material Plane worlds. Although often little remains physically of those Leviathan destroys, tales of the gargantuan creature’s visits have a way of enduring in a society’s oral history. As a result, many otherwise unconnected worlds share curiously similar mythologies of ancient cities or civilizations being destroyed by the legendary creature.
 
  Leviathan is an immense, whalelike beast, measuring nearly 150 feet long from head to tail.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leviathan)
 ```encounter-table
 name: Leviathan

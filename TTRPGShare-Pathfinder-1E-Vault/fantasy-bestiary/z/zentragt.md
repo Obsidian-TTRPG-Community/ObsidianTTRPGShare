@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zentragt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,7 +65,7 @@ sources:
     desc: 289
 desc_short: This ferocious ursine brute has blade-like metallic teeth and appears to be covered in overlapping iron plates.
 ```
-# Description
+## Description
 Zentragts are armored, bearlike servitors of Gorum. Terse, burly, and independent, they are disciplined warriors, and use canny tactics whether alone, grouped with their own kind, or part of a legion of mixed creatures. They relish opportunities to charge into battle and eagerly serve in the vanguard of armies sworn to Our Lord in Iron.
 
 Zentragts quickly grow bored if there is nothing for them to fight, and challenge each other-or any creature present that looks like it can handle a rough fight-to maintain their high spirits. They work as needed to prepare for future battles, hauling materials to build defensive walls or siege engines for future conf licts or hunting creatures that consider themselves apex predators. They prefer using their magical abilities to enhance themselves and share their blessings with those they consider worthy allies. Some particularly brazen zentragts have even been known to use magic to enhance foes, bolstering their strength or healing their wounds to ensure a more worthy battle. Regardless of their foe, zentragts enjoy singing during combat (though they aren’t particularly good at it), and keep rhythm by using their metallic natural weapons as percussive instruments against enemy armor.
@@ -71,7 +73,7 @@ Zentragts quickly grow bored if there is nothing for them to fight, and challeng
 Zentragts revere metal, seeing all iron and steel as a portion of their divine master. To them, the act of eating metal is a form of communion in which they replenish their bodies with Gorum’s enduring substance. As such, they go out of their way to collect rare metals and treat such ritual meals with uncharacteristic respect.
 
 On average, zentragts stand about 9 feet tall and weigh over 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zentragt)
 ```encounter-table
 name: Zentragt

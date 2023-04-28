@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shrike Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 90
 desc_short: Iridescent spines cover the back of this enormous, long-legged worm. Writhing tentacles sprout from its throat, below a circular, toothy maw dripping with luminescent spittle.
 ```
-# Description
+## Description
 Shrike worms are insidious creatures from the edges of reality, and are able to blur the boundary between what is real and unreal in order to take their prey by surprise. Also known as hallucination worms, they are most often called shrike worms due to the method by which they kill their prey. When a shrike worm catches a creature in its tentacles, it then impales its victim on its iridescent back spines, pinning the creature in place in order to prolong its prey’s suffering as much as possible.
 
 Shrike worms grow to over 25 feet long and, despite weighing upward of 16,000 pounds, carry themselves about with surprising grace on their long legs. This lends their movements an unearthly quality, which is further enhanced by their magical abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shrike%20Worm)
 ```encounter-table
 name: Shrike Worm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire Seducer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
   - name: Monster Codex
     desc: 239
 ```
-# Description
+## Description
 A vampire seducer relies on getting others to do her bidding instead of acting in the open herself. Deception, manipulation, and spells are all tools of her trade. This does not mean that such a vampire cannot defend herself in combat-it simply means that she prefers to get others to risk their necks instead of taking matters into her own cold, dead hands.
 
 Through a blend of natural charm, physical beauty, and supernatural persuasion, the vampire seducer selects her prey from among her admirers and critics, takes her victim back to her home, and convinces them to let her bite them willingly-all part of her game. The vampire might dispose of her victims before they are too obviously aff licted by her unnatural appetites by forcing them to duel rivals for her affection or arranging for mysterious accidents and suicides (usually easily explained as the result of broken hearts).
 
 If the seducer’s true nature is ever discovered, she has no qualms about abandoning the paramours she has acquired and relocating to a new city to begin her plots anew. Some seducers do this many times over the course of their long unlives, if only to stave off the eternal boredom that inevitably afflicts them all.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire%20Seducer)
 ```encounter-table
 name: Vampire Seducer

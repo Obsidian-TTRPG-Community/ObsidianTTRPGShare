@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frightful Haunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 28
 desc_short: The mist forms a roughly humanoid shape. Its features are indistinct, except for its clawed hands and hairy, fanged face.
 ```
-# Description
+## Description
 Occasionally, the desire to cause fear and misery survives even when a bugbear dies. Such a creature can detach part of its vile nature to create frightening spiritual traps in the form of haunts. Whenever possible, a frightful haunter learns about a group before building haunts to terrify it, and customizes the haunts’ effects based on its victims’ fears and weaknesses. If a frightful haunter is forced to confront a group directly, it attempts to create a stronghold of damaging haunts, attacking only when the group neutralizes one of the haunts, and then fleeing to another prepared location.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frightful%20Haunter)
 ```encounter-table
 name: Frightful Haunter

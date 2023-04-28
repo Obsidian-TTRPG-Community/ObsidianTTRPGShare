@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Umdhlebi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 88
 desc_short: What appeared at first glance to be the decaying husk of an enormous tree erupts into motion, as thick tendrils reach outward hungrily from all sides. Amid the jumble of motion, a subconscious whisper promises sleep and sweet rest to any that lie down at the thing’s base.
 ```
-# Description
+## Description
 Umdhlebis are massive, intelligent, and carnivorous plants that take root in jungles. Their outer shell is brown and resembles the thick bark of a dead tree, while concealing the softer layer of green cellulose beneath. When they f lower, umdhlebis grow broad, fragile-looking crimson leaves with sharp, grasping edges. Umdhlebis draw their prey close with mind-affecting suggestions, enticing would-be victims to rest at the plant’s base, and then strike with their vine-like tendrils, each as thick as a man’s forearm.
 
 Umdhlebis grow to almost 20 feet in height, but can be shorter or taller depending on the surrounding vegetation. An umdhlebi’s trunk ranges from 3 to 5 feet in diameter, and the plant as a whole weighs over 10,000 pounds.
 
 Umdhlebis can live for up to 50 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Umdhlebi)
 ```encounter-table
 name: Umdhlebi

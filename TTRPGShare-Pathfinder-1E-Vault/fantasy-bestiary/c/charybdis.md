@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Charybdis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 56
 desc_short: An immense spiny monster, its back plated in chitin and its belly in thick folds of blubber, rises hungrily from the center of a whirlpool. 
 ```
-# Description
+## Description
 Sailors tell many tales of the creatures of the deep, from the terrible kraken to the beautiful mermaid. Yet few are stranger or more feared than the dread charybdis, for it exists to capture ships, crack them open like nuts, and feast on the doomed sailors within. So legendary are these violent attacks that many sailors have come to view the charybdis not as a species of aberrant life, but as the vengeful personification of an angry sea god. 
 
 In truth, the charybdis is not the sending of an angry deity, but in fact little more than a monstrous predator capable of churning even the calmest of seas into a whirling maelstrom. The charybdis uses this vortex ability not only to capture prey like sharks or small whales, but also to entrap ships on the ocean surface above. The monster’s claws are particularly well suited to puncturing the hulls of ships, and most charybdises have learned that a single large merchant vessel contains enough sailors to make a perfectly sized meal. Often, a charybdis settles in along a well-known shipping route near the shoreline or amid an archipelago of islands where ships are forced along relatively narrow lanes between rocky isles-such locations allow the charybdis to lie in wait and increases the chance of its prey being unable to circumvent its vortex. 
 
 A charybdis is 60 feet long and weighs 26,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Charybdis)
 ```encounter-table
 name: Charybdis

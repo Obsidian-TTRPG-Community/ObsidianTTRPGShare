@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Impaler Shrike
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 82
 desc_short: This large bird has brown and gray feathers and a vicious hooked beak.
 ```
-# Description
+## Description
 Much like their much smaller cousin, the common shrike, these giant shrikes are fond of impaling their prey before feeding. An impaler shrike catches a creature in its powerful beak, and drags the poor victim to a large thorn, splintered tree branch, or even a building’s spire where it then impales the creature and leaves its victim to die, so it can pick away at the carcass at its leisure. Unlike the smaller common shrike’s regular meals of insects and vermin, these large birds are especially fond of trapping sheep, dogs, and other small mammals for consumption. Though they typically favor smaller mammals, these voracious birds are not above attacking humanoids. A full-grown giant shrike stands nearly 9 feet tall and weighs approximately 125 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Impaler%20Shrike)
 ```encounter-table
 name: Impaler Shrike

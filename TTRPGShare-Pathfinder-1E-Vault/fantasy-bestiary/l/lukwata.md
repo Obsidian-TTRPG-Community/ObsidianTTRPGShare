@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lukwata
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 86
 desc_short: A long, spiny fin runs down the length of the dolphinlike body of this eel-headed predator.
 ```
-# Description
+## Description
 Lukwatas slip through dark tropical waters, preying upon all who dare enter their deep jungle rivers and pools, including beasts typically considered apex predators. While scholars say the beasts favor the dark, light doesn’t deter them in their relentless pursuit of prey. Their long, flat bodies are reminiscent of those of dolphins or large fish, but lukwatas’ heads are distinctively eel-like. A lukwata’s unusual ability to disrupt magical effects rises from the strange crystalline growths that line its throat and stomach-crystals that allow the lukwata to gain nutrients from magical items as efficiently as from flesh and blood. These same growths give the lukwata an unusually strong resistance to all manner of magic attacks.
 
 Lukwatas hate crocodiles, their chief predatory rivals, and attack them on sight, even if the lukwata has recently fed. Most crocodilians are not large enough to pose a significant threat; however, some accounts exist of lukwatas and dire crocodiles crossing paths. These fights are renowned for inflicting great destruction, with the embattled creatures smashing to bits piers, flotillas, and even dams in their fury.
 
 A lukwata is 20 feet long and weighs 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lukwata)
 ```encounter-table
 name: Lukwata

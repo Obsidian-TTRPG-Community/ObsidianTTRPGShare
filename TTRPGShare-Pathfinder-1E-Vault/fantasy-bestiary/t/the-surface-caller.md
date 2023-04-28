@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Surface Caller
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 9
 desc_short: This blue-skinned elf has milk-white eyes, a glowing punching dagger, and a shield embossed with a demonic face.
 ```
-# Description
+## Description
 Born Ilyxaria, daughter of a merchant in the drow trading outpost of Delvingulf, this daring drow grew to doubt her small family’s worship of the demon lord Mestama, the mother of hags and witches. When the young drow began suffering vivid nightmares-thought by her mother to be demonic boons-rather than embrace them, she retreated across Lake Nirthran in fear. Eventually, her flight brought her to the surface world, in the barren deserts of Thuvia. Dying of thirst and sun exposure in the unfamiliar lands, Ilyxaria was saved by a coven of hags, who declared her salvation the will of Mestama.
 
 Almost a century later, a mysterious drow trader bringing slaves from the deserts of the surface world first appeared in Delvingulf. Selling her wares to both drow and ghouls alike, this drow proclaimed herself the Surface Caller, a servant of Mestama. Her trademark is to give away every third slave from her stock, taking no payment from the buyer, but removing one of the slave’s eyes. What use the Surface Caller has for these eyes is anyone’s guess, but she claims it serves Mestama.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Surface%20Caller)
 ```encounter-table
 name: The Surface Caller

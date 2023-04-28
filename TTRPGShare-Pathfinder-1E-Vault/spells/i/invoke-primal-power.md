@@ -1,25 +1,27 @@
 ---
-alias: Invoke Primal Power
+aliases: [Invoke Primal Power]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Invoke Primal Power 
+## Invoke Primal Power
 
 **source**:: Adventurer's Guide pg. 134  
 **school**:: transmutation
 **level**:: druid 5, hunter 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 This spell must be cast as you activate wild shape to assume the form of an animal of at least Large size. When you assume the animal form, it takes on many of the primal characteristics of the savage, prehistoric creatures that dwell in the Realm of the Mammoth Lords. When this spell’s duration expires, you return to your natural form automatically-in effect, you shorten the duration of that use of wild shape to the duration of this spell when you cast *invoke primal power*.  
   

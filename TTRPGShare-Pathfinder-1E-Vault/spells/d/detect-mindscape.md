@@ -1,19 +1,21 @@
 ---
-alias: Detect Mindscape
+aliases: [Detect Mindscape]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Mindscape 
+## Detect Mindscape
 
 **source**:: Occult Adventures pg. 164  
 **school**:: divination
 **level**:: arcanist 3, medium 2, mesmerist 2, psychic 2, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Mindscape
 **saving-throw**:: Will negates, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions similarly to *detect thoughts*, allowing you to sense when one or more creatures’ consciousnesses are inside a mindscape (see page 234). The amount of information revealed depends on how long you study a particular subject.  
   

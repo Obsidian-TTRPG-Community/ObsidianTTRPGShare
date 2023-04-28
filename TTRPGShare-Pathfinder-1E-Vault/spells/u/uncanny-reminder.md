@@ -1,19 +1,21 @@
 ---
-alias: Uncanny Reminder
+aliases: [Uncanny Reminder]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Uncanny Reminder 
+## Uncanny Reminder
 
 **source**:: Chronicle of Legends pg. 14  
 **school**:: conjuration
 **level**:: arcanist 8, mesmerist 6, psychic 8, sorcerer 8, summoner 6, summoner (unchained) 6, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: v, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Uncanny Reminder
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates an animated replica of the target drawn from the target’s subconscious. This living memory is an animated form of the target’s negative thoughts and emotions and is intent on destroying the target entirely. The living memory appears to be an exact replica of the target creature, but upon inspection it is obviously a construct. It uses the statistics of a clockwork angel except that it has an Intelligence of 10 and does not have the clockwork trait, the enhance weapon ability, or vulnerability to electricity. If the living memory is destroyed, it vanishes entirely, including any replicas of equipment.  
   

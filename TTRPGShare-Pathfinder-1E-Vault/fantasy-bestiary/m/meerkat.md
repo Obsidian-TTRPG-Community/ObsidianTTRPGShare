@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Meerkat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 200
 desc_short: This curious, sand-colored, weasellike creature has dark bands around its inquisitive eyes.
 ```
-# Description
+## Description
 Meerkats are playful, highly social animals that hunt and forage during the day. They live in complex burrow systems consisting of numerous access holes, chambers, and tunnels. Their diet consists of eggs, fruit, insects, larvae, lizards, rodents, and scorpions. Using a wide range of sounds, they communicate and warn one another about threats, banding together in a mob when they need to defend themselves. Meerkats can live more than 10 years.
 
  A meerkat weighs around 2 pounds and is about 1 foot tall when standing upright.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Meerkat)
 ```encounter-table
 name: Meerkat

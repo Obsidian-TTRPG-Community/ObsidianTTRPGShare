@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crimson Whale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 87
 desc_short: Similar to other whales in many ways, this giant aquatic beast is notable for its enormous teeth, menacingly strong jaws, and blood-red skin.
 ```
-# Description
+## Description
 While many cetaceans are docile, the crimson whale is an aggressive hunter that evolved to quickly kill even the largest and most powerful of prey. It sports a full set of deadly teeth that average between 1 and 2 feet in length, and its powerful bite can tear through f lesh and crush bone. A typical adult crimson whale is 45 feet long and weighs 30 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crimson%20Whale)
 ```encounter-table
 name: Crimson Whale

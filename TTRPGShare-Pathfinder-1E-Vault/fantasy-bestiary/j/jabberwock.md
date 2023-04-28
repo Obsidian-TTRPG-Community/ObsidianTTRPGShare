@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jabberwock
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 168
 desc_short: This dragon has a long neck and terrible claws. The beast shrieks and babbles, thrashing its tail and wings in a violent manner.
 ```
-# Description
+## Description
 The jabberwock is a true creature of legend-a subject of poetry, song, and myth in many cultures. It is known to be a devastating creature in combat whose arrival presages times of ruin and violence; these stories also tell of the creature’s fear of the tools some say were created in ancient times for the sole purpose of defeating them-vorpal weapons. A jabberwock is 35 feet tall and weighs 8,000 pounds.
 
 The jabberwock is not a creature of the Material Plane, but one from the primal world of the fey. It comes from a region of reality where life is more robust, where emotions are more potent, and where dreams and nightmares can come alive. Even in such incredible realms, though, the jabberwock is a creature to be feared. It belongs to a category of powerful creatures whose shapes and types run the gamut of possibility-a group known collectively as the “Tane.” Of the Tane, the jabberwock is said to be the most powerful, but the others in this grouping are far from helpless. Said to have been created as goliaths of war and madness, dreamt and stitched into being by the strange gods of this primeval reality, the Tane are as mysterious as they are powerful. Two other creatures of the Tane are presented in this book-the sard and the thrasfyr. None of the Tane are lower than CR 16 in power and all possess the planar acclimation special quality, but beyond that, they generally share no specific abilities or characteristics save for their common source in the primal world.
@@ -76,7 +78,7 @@ When a jabberwock comes to the Material Plane, it does so to spread destruction 
 Jabberwocks age, eat, drink, and sleep like any living creature, but they do not reproduce in the classic sense of the word. The creation of a new jabberwock-or of any of the Tane, in fact-is regulated by the strange and unknowable godlike entities that dwell in the primeval world. These fey lords create new jabberwocks as they are needed-sometimes varying the exact particulars (see Variant Jabberwocks, below), but always creating a fully formed adult creature. No young jabberwock has ever been encountered as a result.
 
 The strange vulnerability a jabberwock possesses against vorpal weapons has long been a matter of intrigue and speculation among scholars. Most believe that, once upon a time, only one jabberwock existed, a creature of such great power that nothing could hurt it. Nothing, that is, save for a legendary sword forged for a mortal hero by a now-forgotten artisan or god. So epic was this battle that it created strange echoes throughout reality, and as a result, these echoes, in the form of the vorpal swords and jabberwocks known today, can be found on many worlds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jabberwock)
 ```encounter-table
 name: Jabberwock

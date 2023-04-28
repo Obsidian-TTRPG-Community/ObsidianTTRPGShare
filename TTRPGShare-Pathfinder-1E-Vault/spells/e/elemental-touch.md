@@ -1,19 +1,21 @@
 ---
-alias: Elemental Touch
+aliases: [Elemental Touch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Elemental Touch 
+## Elemental Touch
 
 **source**:: Advanced Player's Guide pg. 218  
 **school**:: evocation (acid, cold, electricity, or fire)
 **level**:: alchemist 2, arcanist 2, bloodrager 2, investigator 2, magus 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a bit of the chosen element: earth, water, air, or fire)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Elemental Touch
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Upon completing the casting of this spell, elemental energy infuses your hands. Choose an energy type: acid, cold, electricity, or fire. You gain a melee touch attack causing 1d6 points of damage of that energy type, along with a special effect described below. You also deal energy damage and the related special effect when you attack with your hands using an unarmed strike, a single claw, or a single slam attack. This bonus damage can never apply to multiple weapons.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sea Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
   - name: NPC Codex
     desc: 67
 ```
-# Description
+## Description
 With their ability to control and harness the powers of winds and storms, a number of druids become sea captains, using their abilities sometimes for trade and other times for piracy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sea%20Captain)
 ```encounter-table
 name: NPC Sea Captain

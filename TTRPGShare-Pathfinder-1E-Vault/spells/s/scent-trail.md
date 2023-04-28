@@ -1,19 +1,21 @@
 ---
-alias: Scent Trail
+aliases: [Scent Trail]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Scent Trail 
+## Scent Trail
 
 **source**:: Advanced Player's Guide pg. 241  
 **school**:: transmutation
 **level**:: druid 2, hunter 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a queen ant)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Scent Trail
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You, or a willing creature you touch, lay down a trail of scents that only the creatures you designate at the time of casting can detect. These creatures find it very easy to follow this trail. They gain a +20 competence bonus on any Survival checks made for the purpose of tracking the creature laying this trail. Subject creatures with the scent special ability gain a +10 competence bonus on Wisdom or Survival checks to follow the trail.  
   

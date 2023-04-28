@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vetala
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 54
 desc_short: With its bloodless flesh and eyes the color of deepest night, this imperious being obviously no longer numbers among the living.
 ```
-# Description
+## Description
 While most of the Inner Sea’s vampires lust for living blood, the mysterious vetalas hunger for a more intangible force: the energy that infuses mortal minds. Referred to as consciousness or psyche by some, the academics of Vudra- from where most vetalas hail-call this fundamental vital force prana. Regardless of their desire’s name, vetalas prey upon those who show creative promise, possess potent force of will, or seem destined for greatness, draining the most brilliant sources of mortal light to fuel their own unnatural embers. Their dark mastery of life force allows vetalas to possess corpses or even overwhelm the minds of living creatures. With these stolen masks and the resources of abducted lives, they work their foul wills.
 
 Vetalas are said to be the spirits of children “born evil,” who never received burial rites upon their deaths. Sometimes one of these evil spirits takes hold of a corpse- not necessarily its own-which becomes its anchor to the mortal world. Such young souls seek out experiences and life energy, becoming as wicked as any other vampire as they endlessly indulge their profane, deathless desires.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vetala)
 ```encounter-table
 name: Vetala

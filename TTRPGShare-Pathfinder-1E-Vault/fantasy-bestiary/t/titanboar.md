@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Titanboar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 61
 desc_short: Muscles like iron bands ripple beneath the flesh of this enormous pig. A second set of tusks curls up from its jaw, guarding its eyes.
 ```
-# Description
+## Description
 As destructive as its namesake, the titanboar is a dangerous crossbreed of Verduran wild boars, clever domesticated stock, and powerful daeodons brought back from the River Kingdoms. Bred solely for their size and ferocity, they are prized by hunters who wish to pit their skills against the rawest savagery of nature. Popular myth suggests the boar’s gamy flesh enhances virility, and aging nobles sometimes carry daggers or jewelry carved from a titanboar’s tusk to quietly proclaim their continued strength.
 
 Unsurprisingly, the enormous, aggressive brutes are dangerous to the lands in which they are released, destroying entire farmsteads to sate their ravenous appetites. Many prefectures have outlawed the breeding of titanboars, though this does nothing to stop those creatures that have escaped into the wild. On rare occasions, a loose titanboar will find a wild mate and produce an entire herd of dire boar offspring that terrorize a region for decades.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Titanboar)
 ```encounter-table
 name: Titanboar

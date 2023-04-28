@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fellsig
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 55
 desc_short: This squat figure’s rough-hewn visage is frozen in a mask of pain, while the cracks in its dark stone body glow with a fiery inner heat.
 ```
-# Description
+## Description
 First created in catastrophic event known as the Rending, the molten undead known as fellsigs have wandered Darkmoon Vale for centuries. When Droskar’s Crag erupted and buried entire dwarven settlements under choking ash, boiling mud, noxious fumes, and seething magma, the violence and suffering caused many of the volcano’s victims to rise after death, cursed to visit their own fiery deaths upon the living. Fellsigs are made up of the very materials that took their lives, and their existence is a constant reminder of all that was lost in the fiery cataclysm of the Rending. Most fellsigs are morose creatures, bemoaning the destruction of their homeland and carrying on a shadowy imitation of their former lives amid the scorched ruins they inhabit. The sight of life and joy often enrages them with vindictive jealousy for those spared the fellsigs’ own cruel fate.
 
 Fellsigs have sympathy for those exhibiting obvious signs of burn damage, however, and using the Diplomacy skill can sometimes convince these stony, smoldering monsters to aid such creatures. Similarly, fellsigs hold no special hatred for creatures of the fire subtype, and on occasion they can be convinced to serve such creatures as guards or even artisans, though such alliances are tenuous at best.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fellsig)
 ```encounter-table
 name: Fellsig

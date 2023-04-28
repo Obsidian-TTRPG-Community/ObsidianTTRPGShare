@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jigsaw Shark
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 85
 desc_short: Jagged markings decorate the body of this human-sized shark. A multitude of stains on its large teeth tell of the frequency and ferocity with which it uses its bite.
 ```
-# Description
+## Description
 The fact that these sharks dwell in shallow coastal waters places them in direct contact with those making a living from the sea. It’s not uncommon to hear stories of jigsaw sharks leaping from the water and taking out dockworkers or fishermen in small boats. Their patchwork coloration of browns and blue-grays partly inspires their name.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jigsaw%20Shark)
 ```encounter-table
 name: Jigsaw Shark

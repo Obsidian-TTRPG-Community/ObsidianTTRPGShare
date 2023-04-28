@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chicome
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -93,11 +95,11 @@ sources:
     desc: 82
 desc_short: The feathers of this winged serpent are hues of verdant green, save for the crimson feathers on its head and crest. Its wings let forth thin clouds of golden pollen and showers of dew.
 ```
-# Description
+## Description
 Chicomes are a powerful but gentle variety of couatl- winged serpentine outsiders who act as agents of lawful good deities-whose purpose is to reestablish nature in destroyed and ravaged lands, especially those that have been recently cleansed of evil. Chicomes accomplish this by way of powerful druidic magic and the cloud of restorative pollen and dew that constantly drifts from their wings. Like other couatls, chicomes have varicolored feathers and beautiful, glossy scales. The couatls' wing feathers are typically shades of green or brown, but their crests are always a brilliant crimson. Like for other couatls, the feathers of chicomes are incredibly powerful magic items when bestowed upon chosen mortals. Such a freely given feather can be used as the material component for a planar ally spell. In addition, if buried in at least 6 inches of soil and undisturbed for 24 hours, the feather can be used as the material component to cast a hallow spell; the spell effect tied to the hallowed site is always the enrichment version of plant growth. By using a chicome feather in this way, the caster need not expend the typical payment of gold or other valuables required by the spell.
 
  A typical chicome is 40 feet long with a wingspan of 30 feet and weighs 5,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chicome)
 ```encounter-table
 name: Chicome

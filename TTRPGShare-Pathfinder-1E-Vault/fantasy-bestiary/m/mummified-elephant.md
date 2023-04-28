@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mummified Elephant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
   - name: Pathfinder No. 81: Shifting Sands
     desc: 85
 ```
-# Description
+## Description
 Mummified elephants are difficult to prepare because of the animals’ great size. As a result, they’re rare-typically only found in the tombs of the wealthiest Osirians. Since the animals are less common in the deep deserts, mummified elephants are more likely to be found in tombs in southern Osirion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mummified%20Elephant)
 ```encounter-table
 name: Mummified Elephant

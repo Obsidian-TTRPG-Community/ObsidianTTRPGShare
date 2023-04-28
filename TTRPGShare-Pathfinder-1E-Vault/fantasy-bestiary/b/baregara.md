@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baregara
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 80
 desc_short: This lumbering apelike monster has blood-red fur, twisted horns, and a hideous fanged orifice set in the center of its chest.
 ```
-# Description
+## Description
 Although natives of the Abyss that often serve as minions for powerful demons or demon lords, baregaras are not in fact demons themselves. Some scholars classify them as “proto-demons”-monsters like bebiliths or xacabras that could perhaps someday complete their supernatural evolution into full demonic glory, but that have not quite yet reached that end. Of course, to the baregara’s victims, these debates are incidental.
 
 In the Abyss, baregaras form small troops just like the apes of the Material Plane. These troops are led by the strongest fighter or an individual anointed by a powerful demon the baregara troop serves. Rivalries between troops are part of a complex hierarchy that is all but incomprehensible to non-baregaras, but planar scholars have observed that all baregaras take trophies from notable kills, and that these grisly mementos play some role in establishing the convoluted social standing of the troop leaders and their followers.
 
 Even when knuckle-walking on their enormous hands, baregaras stand over 12 feet high when measured to the top of their horns, and their dense bodies can weigh up to 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baregara)
 ```encounter-table
 name: Baregara

@@ -1,19 +1,21 @@
 ---
-alias: Geas/Quest
+aliases: [Geas/Quest]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Geas/Quest 
+## Geas/Quest
 
 **source**:: PRPG Core Rulebook pg. 288  
 **school**:: enchantment (compulsion) (curse, language-dependent, mind-affecting)
 **level**:: arcanist 6, bard 6, cleric 6, inquisitor 5, mesmerist 6, oracle 6, psychic 6, skald 6, sorcerer 6, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Geas/Quest
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions similarly to *lesser geas*, except that it affects a creature of any HD and allows no saving throw.  
   

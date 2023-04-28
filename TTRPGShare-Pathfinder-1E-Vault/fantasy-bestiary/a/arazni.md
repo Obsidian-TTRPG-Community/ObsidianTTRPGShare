@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arazni
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -84,7 +86,7 @@ sources:
     desc: 50
 desc_short: This gray-skinned woman wears a royal gown that exposes the top of a jagged incision down the middle of her chest.
 ```
-# Description
+## Description
 Arazni was once a demigod and herald to Aroden. As the Red Crusader, she rode into battle during the Shining Crusade. Yet her bravery and might were of no avail against the Whispering Tyrant, who humiliated her before torturing her to death, throwing her broken form amid the ranks of her army to dishearten them. But even in death Arazni found no comfort. She lay in rest only 67 years before the overzealous Knights of Ozem provoked the witch-king Geb, who raised some of the fallen knights as grave knights and sent them to bring Arazni’s revered remains to him. Not content with her corpse, he infused deathless vitality into her and bound her spirit up in her bones, making her his Harlot Queen. She rules still in his stead.
 
 Arazni’s onetime disciples in the Knights of Ozem have resolved to lay her finally to rest. The knights possess the Bloodstones of Arazni (Pathfinder Campaign Setting: Artifacts & Legends 13): four of her organs kept in funerary jars, which they recovered from Geb. They believe those bearing these jars have the protection of both holy aura and mind blank against Arazni’s magic (in addition to an ability unique to each jar). But whether the jars hold the key to truly destroying her has not yet been proven. The Harlot Queen plots in secret to destroy-or recover, if possible-all the remaining jars. Her graveknight bodyguards monitor for any sign of the Bloodstones. It’s said that Arazni senses the location of a jar when it’s used, but no one can be sure whether this is true or a rumor the Harlot Queen has spread to keep those relics from being used.
@@ -96,7 +98,7 @@ Arazni’s staff of the magi can create unique fireballs, which cost 2 charges t
 Harlot’s Kiss (Minor Artifact): Arazni’s scarlet-hilted rapier is a relic of her days as the Red Crusader. Her blade acts as a +1 conductive dancing keen rapier, and its conductive property can be used once per round even while it is dancing.
 
 The blade has two abilities only Arazni can use. If she hurls Harlot’s Kiss using the hand of the apprentice ability, it can perform a full attack against a single target rather than a single attack, instantly returning to Arazni at the end of her turn. However, she can’t use hand of the apprentice on the rapier while it’s dancing. If Arazni expends one use of mythic power when commanding the weapon to dance, the weapon’s attacks use her caster level as the base attack bonus (effectively gaining a +10 bonus on attack rolls) for as long as it dances.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Arazni)
 ```encounter-table
 name: Arazni

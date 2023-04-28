@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Domovoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 86
 desc_short: Barely knee-high, this small creature looks like a hairy old man with more beard than flesh.
 ```
-# Description
+## Description
 The work never ends for those who live on farms or in small villages, and the wise often seek the aid of the fey folk while pursuing their daily chores. A family might leave a piece of bread under the stove or an old boot in the closet to attract a domovoi to their home. Domovoi help with small tasks like churning butter and mending clothes, but mostly protect the home from intruders and misfortune. These helpful fey can also tell the fate of the family they protect, but grow annoyed when asked to do so too often. A domovoi appears as small, old man no more than 2 feet tall, covered in hair and with a long, shaggy beard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Domovoi)
 ```encounter-table
 name: Domovoi

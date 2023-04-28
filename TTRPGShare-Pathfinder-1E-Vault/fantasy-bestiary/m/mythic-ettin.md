@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Ettin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 197
 desc_short: Flies buzz around this bestial, two-headed giant, and maggots squirm in the folds of its skin.
 ```
-# Description
+## Description
 A mythic ettin is descended from a sordid lineage of mythic hill giants, mythic stone giants, and at least one mythic orc. Angrier, filthier, and stronger than other ettins, it is a leader of its kind, and is better at keeping a band or colony together for months or years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Ettin)
 ```encounter-table
 name: Mythic Ettin

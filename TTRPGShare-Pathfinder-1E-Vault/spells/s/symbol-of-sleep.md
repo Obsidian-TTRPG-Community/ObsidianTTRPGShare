@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Sleep
+aliases: [Symbol of Sleep]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Sleep 
+## Symbol of Sleep
 
 **source**:: PRPG Core Rulebook pg. 356  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 5, cleric 5, mesmerist 5, occultist 4, oracle 5, sahirafiyun 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Sleep
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that all creatures of 10 HD or less within 60 feet of the *symbol of sleep* instead fall into a catatonic slumber for 3d6 × 10 minutes. Unlike with the *sleep* spell, sleeping creatures cannot be awakened by nonmagical means before this time expires.  
   

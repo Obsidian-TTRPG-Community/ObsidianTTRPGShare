@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lamhigyn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 88
 desc_short: This small, three-eyed creature has ragged, red-streaked wings and a menacingly barbed tail.
 ```
-# Description
+## Description
 Lamhigyns are simple pests that emerged from the chaotic fabric of the Abyss. They poison their prey until it falls into a coma, and then they slowly tear it apart, piece by piece, with their rasping mouths. Lamhigyns view intruders on their territory with disdain, and their stings have left many adventurers insane and debilitated, opportune victims for the Abyss’s insatiable predators. Though lamhigyns might not appear frightening on their own, greater terrors sometimes follow in their wakes, hoping for easy meals.
 
  Lamhigyns are strange-looking creatures often characterized by mortals visiting the Abyss as overgrown, f lying tadpoles with bat wings and stinger-tipped tails. They lurk within dark places in the Abyss and in similarly lightless places on the Material Plane near rifts to their home plane. Their bulbous, unblinking eyes are vaguely froglike, and are often the last things unprepared adventurers see, as the pesky creatures are fond of wrapping their wings around their victims’ heads to blind their prey. Their tiny mouths house thick tongues that f lick about in the presence of prey.
@@ -59,7 +61,7 @@ Lamhigyns are simple pests that emerged from the chaotic fabric of the Abyss. Th
  When it comes to their own kind, lamhigyns can be quite volatile. In general, they tend to get along with other lamhigyns, though almost anything can set them off. When this happens, lamhigyns unleash the full force of their chaotic fury on each other, stinging and grappling until only one-or sometimes none-of the bizarre creatures remain.
 
  When they’re not fighting among themselves, lamhigyns live together in noisy, f lapping hives, waiting for hapless creatures to stumble into their dens. When it comes to victims, lamhigyns prefer those that can think and walk, for they provide the most deliciously terrif ied reactions. There is nothing lamhigyns love more than injecting their mind-numbing toxin into terrif ied victims while they ineffectually scream and f lail. Lamhigyns ignore most normal animals unless they have waited too long for fresh prey and have grown bored. Sometimes, however, a particularly large hive of lamhigyns will attempt to bring down large, imposing creatures simply for the challenge of it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lamhigyn)
 ```encounter-table
 name: Lamhigyn

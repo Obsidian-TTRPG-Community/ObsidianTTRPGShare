@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vavakia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 60
 desc_short: This reptilian demon has a quadrupedal dinosaur’s lower body, a vaguely humanoid upper torso, and a draconic saurian head.
 ```
-# Description
+## Description
 Vavakias are immense demons of great power. Saurian in shape, appetite, and destructive power, they are most often encountered on the Material Plane, though not as demons conjured by spellcasters to serve, but rather as violent invaders come to the world through tears in reality or portals to the deeper rifts. On the Material Plane, a single vavakia is a formidable presence, for the strange demon is driven to feed on living souls and spread destruction- roles at which it excels. 
 
 A vavakia demon measures 30 feet in length and stands 15 feet tall, weighing in at 6,000 pounds. Vavakias form on the Abyss from particularly cruel mortal souls who, in life, practiced the vile act of extracting, enslaving, and even consuming other souls. When such a sinful creature arrives on the Abyss, it brings with it partially absorbed fragments of souls from its victims, which it incorporates during its horrific transformation into one of the Abyss’s most dangerous forms of demonic life. 
@@ -84,7 +86,7 @@ Most of Lamashtu’s earliest attempts to create demonic life were hideous failu
 In any event, the vavakias themselves have proven a phenomenal success and are among the Abyss’s most dangerous demonic races today-and since the creation of the first of their kind, the Abyss itself seems eager to spawn more and more of these deadly demons. 
 
 Though originally created to serve as living weapons of war, the vavakias have long since established their own presence as Abyssal warlords and conquerors. While some pledge their service to powerful demon lords, most vavakias rule small empires of their own in the Abyss, typically in remote corners infested with jungles, swamps, and other primeval terrains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vavakia)
 ```encounter-table
 name: Vavakia

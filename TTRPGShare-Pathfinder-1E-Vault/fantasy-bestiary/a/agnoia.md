@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Agnoia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 52
 desc_short: This cylindrical creature of pale fog and dark shadow stands on three clawed feet. Three pale arms jut from around the column, each ending in a hand with long, black claws.
 ```
-# Description
+## Description
 Agnoias are not yet deemed outcasts by the ranks of aeonkind, but they teeter on the edge of exile from the ranks of the caretakers of reality. Like all aeons, agnoias work to maintain a precarious cosmic balance-in their case, this balance is between the dissemination of knowledge and the preservation of ignorance. Although these aeons once worked to keep this balance in careful check by distributing truths across planetary and planar gulfs and obliterating dangerous truths from mortal minds, agnoias collectively decided several years ago that the sum total of knowledge in the multiverse had reached dangerous heights. Creation had become too well informed to sustain redoubts of ignorance for long, and the balance agnoias worked to maintain was in danger. As a group, the agnoias agreed that they would wholly forsake their duties regarding the spread of learning and instead focus on fostering ignorance, returning the multiverse to a safely unenlightened level. Agnoias connected to universities and libraries turned on their associates, setting controlled fires and transporting scholars to isolated wildernesses. This rapid change in direction, nearly unprecedented by aeon standards, caused most other aeons to mark agnoias as reckless and dangerous.
 
  Agnoias see this change as absolutely vital to the performance of their overall function as arbiters of knowledge and ignorance. In fact, some agnoias express frustration that the drive to obliterate universal knowledge wasn't initiated much sooner, when knowledge was more centralized in nascent civilizations and therefore easier to manage. No agnoia would dare to blame the Monad directly for this error in intellectual administration, as they see it, but most agnoias express some satisfaction for finally being able to act as they deem fit rather than remaining shackled to a higher power.
@@ -84,7 +86,7 @@ Agnoias are not yet deemed outcasts by the ranks of aeonkind, but they teeter on
  Agnoias appear as columns of fog and shadow. Within their roiling forms, the shadows never obscure the fog and the fog never conceals the dark shadow. Although an agnoia can walk on the three clawed feet protruding from the bottom of its column, it can just as easily fly with a thought. An agnoia's three claws are spread radially around its torso. Despite their vaporous appearance, agnoias aren't insubstantial, but they can compress their forms to fit into small spaces.
 
  A typical agnoia is 16 feet tall and weighs 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Agnoia)
 ```encounter-table
 name: Agnoia

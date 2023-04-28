@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trox
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 264
 desc_short: This hulking juggernaut has two massively muscled arms and a group of four smaller ones that jut from under its rib cage.
 ```
-# Description
+## Description
 Trox were once members of a much smaller and more docile race of subterranean burrowers, but were long ago enslaved by the duergar and bred into useful brutes. Eventually, several clans of trox were able to escape their slavers and reach the surface world, though they found the creatures above were just as eager to enslave them. Most trox still live a life of servitude. A free trox tends to be loyal to its true friends and inquisitive, though it can harbor deep grudges and resentments.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trox)
 ```encounter-table
 name: Trox

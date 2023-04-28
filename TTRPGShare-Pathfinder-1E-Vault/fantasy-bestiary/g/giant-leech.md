@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Leech
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 187
 desc_short: A parasite ballooned to monstrous proportions undulates in the muck, its circular maw a spiral of teeth.
 ```
-# Description
+## Description
 These invertebrate parasitic relatives of the worm lurk in stagnant or slow-moving water, waiting for a suitable host.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Leech)
 ```encounter-table
 name: Giant Leech

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rat King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 225
 desc_short: Squeaks and chittering cries rise from a tangle of diseased rats with their tails knotted together.
 ```
-# Description
+## Description
 Often found in city sewers, rat kings squirm through the muck and darkness, spreading disease and searching for food. Composed of no fewer than half a dozen rats knotted together at the tail, a rat king has one consciousness rather than many, increasing its intellect beyond that of a normal rat, and granting the rat king a cunning that allows it to stalk its prey and use improved tactics against its enemies and rivals.
 
 Known by subterranean creatures for being plague carriers, rat kings are shunned by most creatures other than rats. Some humanoids that live beneath cities (such as morlocks, derros, and mites) use rat kings in their lairs as protectors or as a way to increase the deadliness of the dire rats they use for protection. City-dwellers see rat kings as a bad omen and fear that encountering the terrifying creatures will bring sickness and death to the entire settlement. The mere sighting of a rat king may result in the quarantine of multiple city blocks.
@@ -59,7 +61,7 @@ Known by subterranean creatures for being plague carriers, rat kings are shunned
 Some students of monster lore believe that a rat king begins as a group of normal rats that nested in too cramped a warren, their tails entwined and hopelessly knotted with filth and eventually growing together, and that this strange bond leads to a cooperative existence and fused mind. Naturalists studying creatures like this postulate that there could be other species of creatures susceptible to this phenomenon. Others argue that an outside inf luence is the only explanation for the creature’s existence, perhaps as a result of derro experimentation or the work of a mad ratfolk or wererat alchemist.
 
 A rat king is approximately 3 feet across and weighs 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rat%20King)
 ```encounter-table
 name: Rat King

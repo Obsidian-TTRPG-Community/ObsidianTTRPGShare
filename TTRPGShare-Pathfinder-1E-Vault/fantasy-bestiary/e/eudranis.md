@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eudranis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 33
 desc_short: Garbed in tattered robes, this emaciated humanoid creature stares out with unblinking white eyes. In one hand, he clutches a great blade, while his other hand holds an idol of some fell power.
 ```
-# Description
+## Description
 A devotee of the goddess Lamashtu, Eudranis found himself as a speaker for the Mother of Monsters following his tribe’s encounter with a group of Pathfinder Society agents. These agents presented themselves as the morlocks’ ancestors, effectively turning Eudranis’s tribe into indentured slave labor for the Pathfinders’ archaeological endeavors. Though he was initially honored to serve his revered ancestors, Eudranis became suspicious when they appeared to have only their own interests in mind, ignoring the well-being of their “descendants.” Following a vivid nightmare in which the Pathfinders abandoned the morlocks and absconded with the treasures of their ancestors, Eudranis spied on the resting agents. Overhearing the Pathfinders’ mockery of the simple morlocks shattered Eudranis’s faith in his ancestor worship. He began preaching against the Pathfinders in secret and gathered his tribe for a retributive strike.
 
 Following a night of bloodshed, the morlocks tortured and slew the Pathfinders, whose screams echoed through the ruins of the ancient Azlanti city they had come to plunder. The morlocks soon hailed Eudranis as a prophet of the tribe’s new true goddess, Lamashtu. Guiding his tribe fully into Lamashtu’s worship, Eudranis has vowed never to be tricked by humanity again. The morlocks of his tribe have embraced their monstrous physiques and abandoned the reverence their race traditionally holds for their human ancestors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eudranis)
 ```encounter-table
 name: Eudranis

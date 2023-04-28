@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Diplodocus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 58
 desc_short: This enormous, long-necked quadruped moves with an uncanny grace, holding its lengthy, whiplike tail out level behind it.
 ```
-# Description
+## Description
 The diplodocus is one of the longest dinosaurs, capable of reaching lengths of 100 feet or more. Much of this length is taken up by the diplodocus’s tremendously powerful whiplike tail, a devastating weapon capable of striking at a considerable range.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Diplodocus)
 ```encounter-table
 name: Diplodocus

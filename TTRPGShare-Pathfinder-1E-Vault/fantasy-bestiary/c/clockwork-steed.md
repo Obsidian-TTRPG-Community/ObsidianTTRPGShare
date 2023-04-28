@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Steed
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 33
 desc_short: Gleaming gears whir and buzz in an orchestra of motion whenever this red-eyed steed moves.
 ```
-# Description
+## Description
 These tireless constructs were designed by engineers as a replacement for normal horses. They can gallop ceaselessly for hours or even days if required. In addition to their endurance, clockwork steeds pack a powerful physical punch-blows from their hooves can send smaller creatures flying. Though many riders enjoy the unquestioning way that clockwork steeds accept commands from their riders, others find these steeds’ lack of personality frustrating. Unlike normal horses, a clockwork steed lacks the ability to create a bond with its rider.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Steed)
 ```encounter-table
 name: Clockwork Steed

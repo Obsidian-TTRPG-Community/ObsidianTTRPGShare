@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rust-Risen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 90
 desc_short: Miscellaneous bits of rusted machinery are fused to the body of this shambling corpse.
 ```
-# Description
+## Description
 Rust-risen lurk in the burned-out husks of ancient space-faring vessels and among the grease and blood stained laboratories of mad, technologist necromancers. These hideous undead mockeries riddled with the remnants of ancient technology-rotting creatures, outfitted with twitching relics of a spacefaring race, that prey on the living by tearing their victims to shreds with gnashing drills, vivisecting scalpels, and flailing exsanguination tubes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rust-Risen)
 ```encounter-table
 name: Rust-Risen

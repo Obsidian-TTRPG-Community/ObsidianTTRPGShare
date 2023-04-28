@@ -1,19 +1,21 @@
 ---
-alias: Death Pact
+aliases: [Death Pact]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Death Pact 
+## Death Pact
 
 **source**:: Occult Origins pg. 13  
 **school**:: enchantment (mind-affecting)
 **level**:: bard 5, skald 5, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a contract signed in blood)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Death Pact
 **saving-throw**:: Will negates, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You take control of a creature’s mind and implant deadly subconscious commands. This spell functions as dominate person, allowing you to control your subject and see through her senses, but also implants a powerful burst of psychic energy in the subject’s mind. At any point during the spell’s duration, you can trigger this burst as an immediate action, dealing 1d8 points of damage per caster level (Fortitude half) to the subject. If this damage is enough to reduce to target to 0 or fewer hit points, the target dies instantly.  
   

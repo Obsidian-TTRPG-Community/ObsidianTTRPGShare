@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tyrannosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 86
 desc_short: This bipedal dinosaur’s front arms seem small compared to the rest of its bulk, but its enormous head is all teeth.
 ```
-# Description
+## Description
 The tyrannosaurus is an apex predator that measures 40 feet long and weighs 14,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tyrannosaurus)
 ```encounter-table
 name: Tyrannosaurus

@@ -1,19 +1,21 @@
 ---
-alias: Wall of Ectoplasm
+aliases: [Wall of Ectoplasm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Ectoplasm 
+## Wall of Ectoplasm
 
 **source**:: Occult Adventures pg. 190  
 **school**:: evocation
 **level**:: arcanist 5, cleric 5, oracle 5, psychic 5, sorcerer 5, spiritualist 5, warpriest 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (small bit of gauze)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: opaque sheet of ectoplasm up to 10 ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level  
@@ -21,7 +23,7 @@ alias: Wall of Ectoplasm
 **saving-throw**:: none, and Will negates, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You draw forth a massive veil of ectoplasm that roils with restless spirits. Immovable once formed, the *wall of ectoplasm* is 1 inch thick per caster level and covers up to a 10-foot-square area per caster level (so a 10th-level wizard can create a *wall of ectoplasm* 100 feet long and 10 feet h igh, a wall 25 feet long and 40 feet high, or any other combination of length and height that does not exceed 1,000 square feet). The plane can be oriented in any fashion and need not be anchored, but must be created continuous and unbroken. The wall can’t include squares that have creatures within them, even if the creatures are on the Ethereal Plane. The wall exists on both the Material Plane and Ethereal Plane, and blocks ethereal and incorporeal creatures from passing through it.  
   

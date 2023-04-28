@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Taiga Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: NPC Codex
     desc: 75
 ```
-# Description
+## Description
 These hardy druids patrol and protect the icy reaches of northern forests, and command spells and abilities equally as cold and unforgiving.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Taiga%20Stalker)
 ```encounter-table
 name: NPC Taiga Stalker

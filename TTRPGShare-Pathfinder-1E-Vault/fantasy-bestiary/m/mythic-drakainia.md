@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Drakainia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,11 +82,11 @@ sources:
     desc: 76
 desc_short: This woman’s upper body is shapely and beautiful, but her lower body is bloated, with pulsating tumors and writing tentacles.
 ```
-# Description
+## Description
 Primal life energy, raw and uncontrolled, seethes through this mother of monsters. Her churning, distended belly mocks creation, birthing horrors and dismal failures. The weak are torn apart in the writhing mass of her nursery, while the strong transcend their hideous origins to become creatures of greatness in their own right.
 
 She is always encountered with at least a handful of her favored children, as well as other progeny she can sacrifice to protect herself. With their help, she impregnates those who come across her with twisted, monstrous life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Drakainia)
 ```encounter-table
 name: Mythic Drakainia

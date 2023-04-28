@@ -1,19 +1,21 @@
 ---
-alias: Wall of Silver
+aliases: [Wall of Silver]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Silver 
+## Wall of Silver
 
 **source**:: Adventurer's Guide pg. 177  
 **school**:: abjuration (good)
 **level**:: arcanist 6, bard 5, cleric 6, inquisitor 5, oracle 6, skald 5, sorcerer 6, warpriest 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: transparent wall 20 ft. high by up to 20 ft. long/level  
@@ -21,7 +23,7 @@ alias: Wall of Silver
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a wall of translucent silver energy that hums and vibrates at the slightest touch. Objects and nonevil creatures can pass through this wall without difficulty. However, spells and effects with the evil descriptor treat this barrier as a *wall of force*, which blocks line of effect.  
   

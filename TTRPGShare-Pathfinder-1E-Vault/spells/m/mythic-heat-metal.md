@@ -1,19 +1,21 @@
 ---
-alias: Mythic Heat Metal
+aliases: [Mythic Heat Metal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Heat Metal
+## Mythic Heat Metal
 
 **source**:: Mythic Adventures pg. 97  
 **school**:: transmutation (fire)
 **level**:: druid 2, hunter 2, occultist 2, psychic 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart, or 25 lbs. of metal/level, all of which must be within a 30-ft. circle  
@@ -21,7 +23,7 @@ alias: Mythic Heat Metal
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 *Heat metal* causes metal objects to become red-hot. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw bonus unless its own is higher.  
   

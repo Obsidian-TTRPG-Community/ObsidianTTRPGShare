@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Underworld Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: Bestiary 3
     desc: 102
 ```
-# Description
+## Description
 Underworld dragons-also called futsanglungs-are calculating, greedy creatures that carve great labyrinthine tunnels beneath the world, defending their hidden treasures. Preferring the earth to the heavens, they channel the fires of the world’s core within their twisting, stonelike bodies and through flaming breath hot enough to turn granite into slag.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Underworld%20Dragon)
 ```encounter-table
 name: Adult Underworld Dragon

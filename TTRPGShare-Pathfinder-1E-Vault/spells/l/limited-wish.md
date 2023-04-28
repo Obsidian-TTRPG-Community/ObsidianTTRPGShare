@@ -1,19 +1,21 @@
 ---
-alias: Limited Wish
+aliases: [Limited Wish]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Limited Wish 
+## Limited Wish
 
 **source**:: PRPG Core Rulebook pg. 305  
 **school**:: universal
 **level**:: arcanist 7, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (diamond worth 1,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target, Effect, Area** see text  
@@ -21,7 +23,7 @@ alias: Limited Wish
 **saving-throw**:: none, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A *limited wish* lets you create nearly any type of effect. For example, a *limited wish* can do any of the following things.
 
@@ -34,7 +36,7 @@ A *limited wish* lets you create nearly any type of effect. For example, a *limi
 
 A duplicated spell allows saving throws and spell resistance as normal, but the save DC is for a 7th-level spell. When a *limited wish* spell duplicates a spell with a material component that costs more than 1,000 gp, you must provide that component (in addition to the 1,500 gp diamond component for this spell).
 
-## Mythic Limited Wish 
+## Mythic Limited Wish
 
 **source**:: Mythic Adventures pg. 100  
 When using *mythic limited wish* to duplicate another spell, you can duplicate a mythic spell you know (if you’re a spontaneous caster) or have prepared (if you’re a caster who prepares spells). If you don’t know or haven’t prepared the mythic spell, you can expend a second use of mythic power duplicate the mythic version of the desired spell.  

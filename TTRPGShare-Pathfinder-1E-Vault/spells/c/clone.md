@@ -1,19 +1,21 @@
 ---
-alias: Clone
+aliases: [Clone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Clone 
+## Clone
 
 **source**:: PRPG Core Rulebook pg. 256  
 **school**:: necromancy
 **level**:: arcanist 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (laboratory supplies worth 1,000 gp), F (special laboratory equipment costing 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: one clone  
@@ -21,7 +23,7 @@ alias: Clone
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell makes an inert duplicate of a creature. If the original individual has been slain, its soul immediately transfers to the clone, creating a replacement (provided that the soul is free and willing to return). The original's physical remains, should they still exist, become inert and cannot thereafter be restored to life. If the original creature has reached the end of its natural life span (that is, it has died of natural causes), any cloning attempt fails.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Waxwork Creature
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 246
 desc_short: The skin of this fancifully dressed human sags and drips in a horrific manner as if composed of melting wax.
 ```
-# Description
+## Description
 The practice of making sculptures from wax dates back to the earliest humanoid civilizations. Only the medium of wax can so closely duplicate the transparency of skin. Often, creators use powerful magic to house an animating spirit within the wax model. A created waxwork creature obeys the commands of its creator. Rarely, a wax sculpture animates of it own accord-the result of nearby magic suffusing the wax or a lost spirit in search of a corporeal form. Such waxwork creatures are uncontrolled.
 
  A waxwork creature is the same size as the creature it duplicates, but weighs only half as much.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Waxwork%20Creature)
 ```encounter-table
 name: Waxwork Creature

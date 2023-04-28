@@ -1,19 +1,21 @@
 ---
-alias: Cleansing Fire
+aliases: [Cleansing Fire]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cleansing Fire 
+## Cleansing Fire
 
 **source**:: Adventurer's Guide pg. 17  
 **school**:: evocation (fire, good)
 **level**:: cleric 5, inquisitor 4, oracle 5, paladin 4, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 30-ft. rdius emanating from the touched point  
@@ -21,7 +23,7 @@ alias: Cleansing Fire
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A ring of fire surrounds the area affected by the spell. The flames radiate heat, but not enough to damage adjacent creatures. The flames deal 2d6 points of fire damage to any creatures that pass through them (or 4d6 points of damage to undead creatures). If you manifest a portion of the ring in a square that contains a creature, that creature takes damage as if it passed through the ring.  
   

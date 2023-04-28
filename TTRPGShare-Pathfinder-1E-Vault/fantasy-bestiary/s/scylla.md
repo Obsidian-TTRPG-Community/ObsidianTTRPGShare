@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scylla
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 241
 desc_short: This horrifying creature has the upper body of a beautiful woman, but a lower body of snapping wolf heads and writhing tentacles.
 ```
-# Description
+## Description
 The scylla is one of the more nightmarish aberrations to blight the mortal world. Conflicting tales of her origins abound, from demonic flesh-crafting and arcane experiments to a divine curse handed down by a vengeful deity. The most popular stories cast the first scylla as the monstrous spawn of a union between a mortal and a god. Whatever the case, scyllas are fortunately quite rare, enough so that many consider them nothing more than tall tales told by sailors deep in their cups.
 
 Scyllas dwell along major shipping lanes, often near coastlines, where they use their spell-like abilities to lure entire ships to their doom. The hideous monsters are intelligent creatures, though half-mad with hunger and self-loathing. They normally do not use weapons, but when they do, they prefer to fight with light weapons wielded by their human-sized upper arms. However, they much prefer to keep their hands free to utilize magic items like wands, staves, and other powerful devices.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scylla)
 ```encounter-table
 name: Scylla

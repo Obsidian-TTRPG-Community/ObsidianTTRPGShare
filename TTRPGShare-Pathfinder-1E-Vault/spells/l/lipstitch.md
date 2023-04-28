@@ -1,19 +1,21 @@
 ---
-alias: Lipstitch
+aliases: [Lipstitch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Lipstitch 
+## Lipstitch
 
 **source**:: Pathfinder Society Field Guide pg. 57  
 **school**:: necromancy
 **level**:: arcanist 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S, M (a bone needle and sinew thread)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Lipstitch
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A rare spell without verbal components, *lipstitch* sews the target’s lips tightly together if it fails a saving throw, such that no clear speech, bite attacks, spellcasting, or use of command words is possible. The target takes 1d6 points of damage as the stitches weave through flesh. The victim can still make enough noise to be heard at a distance with a DC 10 Perception check.  
   

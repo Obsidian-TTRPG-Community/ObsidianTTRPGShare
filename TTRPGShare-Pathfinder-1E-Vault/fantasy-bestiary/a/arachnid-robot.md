@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arachnid Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 56
 desc_short: This dog-sized, spiderlike robot has a plasma torch mounted on a stinger-like limb and gripping claws on its forelegs.
 ```
-# Description
+## Description
 Ubiquitous pets of Numerian technologists, arachnid robots also serve as sentinels and spies. Arachnid robots come equipped with a plasma welding torch that resembles a scorpion’s tail stinger and doubles as a weapon. Under stress, an arachnid robot’s plasma core can overload, destroying the robot in a fiery blast. This tendency inspired the practice of using the robots as suicide drones. An arachnid robot is intelligent enough to have a sense of self-preservation, however, and one can be made to undertake such a mission only through trickery.
 
 Despite their scorpion-like appearance, arachnid robots’ ability to use their claws as an additional pair of legs when climbing or moving quickly has earned the robots the name “spiderbots” among Kellid natives. Their small size makes them the most likely robots to be found outside of Numeria, as they are the ones most easily smuggled past watchful Technic League agents.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Arachnid%20Robot)
 ```encounter-table
 name: Arachnid Robot

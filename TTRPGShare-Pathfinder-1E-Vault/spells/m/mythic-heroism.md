@@ -1,19 +1,21 @@
 ---
-alias: Mythic Heroism
+aliases: [Mythic Heroism]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Heroism
+## Mythic Heroism
 
 **source**:: Mythic Adventures pg. 98  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: alchemist 3, arcanist 3, bard 2, bloodrager 3, inquisitor 3, investigator 3, medium 2, psychic 3, skald 2, sorcerer 3, spiritualist 3, summoner 3, summoner (unchained) 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Heroism
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, saves, and skill checks.
 

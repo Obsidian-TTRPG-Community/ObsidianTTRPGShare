@@ -1,19 +1,21 @@
 ---
-alias: Stave Off Corruption
+aliases: [Stave Off Corruption]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Stave Off Corruption 
+## Stave Off Corruption
 
 **source**:: Horror Adventures pg. 128  
 **school**:: abjuration
 **level**:: cleric 2, oracle 2, paladin 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (see text)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Stave Off Corruption
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You ward the target to slow the advancement of its corruption. The target receives a +2 circumstance bonus on saving throws against the advancement of its corruption, as described in the catalyst section of each corruption. Multiple applications of this spell do not stack, nor does the bonus stack with morale, profane, or sacred bonuses on saving throws against the advancement of the target’s corruption.  
   

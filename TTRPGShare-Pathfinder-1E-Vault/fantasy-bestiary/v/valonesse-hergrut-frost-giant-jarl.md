@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Valonesse Hergrut, Frost Giant Jarl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 26
 desc_short: Thick of limb and torso, this towering female frost giant possesses powerful blue muscles and wields a massive, ice-encrusted battleaxe.
 ```
-# Description
+## Description
 Born nearly a century past, Valonesse barely survived her first months of life. At the time of her birth, much of the Kodar Mountains was suffering under a blanket of winter that had long overstayed its welcome. As many frost giants are wont to do in times of famine, the young giantess’s clan had resorted to cannibalism. Valonesse’s own father, the last reigning jarl of Thryheim, demanded her sacrifice to sate his hunger, but before his blade could still her heart, Valonesse’s mother smuggled the babe away to live in exile. Her mother died several years after their escape, leaving Valonesse to fend for herself for the vast majority of her childhood and adolescence. When she finally came of age as a seasoned warrior and wanderer, the brutal frost giant returned to Thryheim to find the fortress of her ancestors in ruins and the fierce clan that had borne her whittled down to fewer than a dozen cowardly warriors. Her howls shook the walls, so enraged was she to find that the fickle hand of fate had snuffed out her dreams of murderous vengeance.
 
 Over the past decades, Valonesse has channeled her unappeased anger into the reestablishment of her forefathers’ domain, claiming the title of jarl for her own. She claims to be the consort of Thremyr himself, given a divine mandate to see all of Stormf lood Vale bow to her majesty. Though few trust the veracity of such a claim, fewer are those who would speak such doubts openly. Jarl Valonesse rules from Thryheim, an ancient ice fortress that rests high upon a glacial peak rich with untouched supplies of mithral and other rare ores. Though some challenged her right to rule in the early years of her fledgling empire, the period for contesting her reign has long passed-the scars that span her imposing body memorialize her countless victories, both in battle and against challengers seeking to claim her throne.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Valonesse%20Hergrut%2C%20Frost%20Giant%20Jarl)
 ```encounter-table
 name: Valonesse Hergrut, Frost Giant Jarl

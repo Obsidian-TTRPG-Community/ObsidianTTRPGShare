@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Verdurous Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 86
 desc_short: A pool of greenish muck, blossoming with weird vegetable-like growths and sap-seeping boils, twitches into unnatural motion as a pseudopod springs outward, dragging the entire grotesque mass forward with an ameboid life.
 ```
-# Description
+## Description
 Verdurous oozes are animate masses of protoplasm of a sickly green hue. At rest, their flat bodies stand roughly 5 inches tall and can stretch out to a wide diameter, their surfaces blossoming into what look like thick tangles of mossy roots and gnarled vegetation as they lie still. Known to emit invisible but dangerous chemicals, these masses of slinking muck cause nearby plants to writhe and coil as if alive, while shocking animals into a temporary but deathly torpor. As such, they rarely must hunt to find food, instead sensing passing creatures and preying upon them after they succumb to the oozes’ sleep aura. Always ravenous, the powerful acids that comprise these oozes quickly dissolve the flesh of their meals.
 
 A verdurous ooze typically weighs 300 pounds and can easily spread to fill a 5-foot-square area. While moving, such crawling muck rises only a few inches tall, though its structure might grow and boil up to a height of 2 or 3 feet if let undisturbed for a matter of days. Spontaneously grown structures collapse and melt back into the ooze’s body as soon as it begins moving again.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Verdurous%20Ooze)
 ```encounter-table
 name: Verdurous Ooze

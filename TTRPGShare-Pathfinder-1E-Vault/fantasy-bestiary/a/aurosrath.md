@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aurosrath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 56
 desc_short: This obscenely bloated and stretched human corpse jingles as it moves. Coins tumble from its mouth and from the exposed wounds that cover its hideously distended body.
 ```
-# Description
+## Description
 Aurosraths arise from individuals who die tragic deaths caused by immense wealth, such as an explorer who would rather die beneath a collapsing tomb’s roof than forfeit the hoard of gold he’s just discovered. The avarice that motivated these people in life continues into undeath as negative energy fuses their souls with the riches they so desperately clung to, transforming them into horrific walking treasure troves that hunger for ever more gold even as it overflows from their bulging bodies.
 
  The average aurosrath stands 15 feet tall and weighs almost 1,100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aurosrath)
 ```encounter-table
 name: Aurosrath

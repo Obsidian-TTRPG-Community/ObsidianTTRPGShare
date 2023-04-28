@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Incutilis Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 60
 desc_short: A curved shell protects an unsightly mass of barbed tentacles, ringed by numerous inhuman eyes.
 ```
-# Description
+## Description
 The elders of the incutilis race display an unearthly beauty, with vibrant colors and considerable aquatic grace for their size. As these horrors live for hundreds of years in remote aquatic locations, scholars remain unsure whether the lesser incutilises eventually attain this majestic form or are a separate race, and-more worrying-what their relationship is with these ancient aberrations of the deep ocean and the great subterranean seas.
 
 Incutilis lords attack with barbed tentacles, inflicting a painful sting and injecting a calcifying agent that transforms living tissue into a dense black growth resembling a cross between chitin and coral. The stinger anchors the incutilis lord’s senses in a calcified minion, leaving a disturbing exoskeleton that moves the minion about at the monster’s whim. Unlike the mindless zombies that serve a more common incutilis, an incutilis lord’s servitors retain muscle memory and a grasp of their magical abilities. An incutilis lord can survive for decades by feeding on the body and psyche of a single Mediumsized victim, but rarely settles for having only one minion to manipulate or feed upon.
 
 An incutilis lord’s shell is about 8 feet in diameter, and the aberration measures nearly 20 feet long from the back of the shell to the tips of its longest tentacles. An incutilis lord weighs about 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Incutilis%20Lord)
 ```encounter-table
 name: Incutilis Lord

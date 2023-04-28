@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Dream Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: Bestiary 5
     desc: 90
 ```
-# Description
+## Description
 These self-styled masters of the Dimension of Dreams hunt that strange plane’s shifting expanse.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Dream%20Dragon)
 ```encounter-table
 name: Adult Dream Dragon

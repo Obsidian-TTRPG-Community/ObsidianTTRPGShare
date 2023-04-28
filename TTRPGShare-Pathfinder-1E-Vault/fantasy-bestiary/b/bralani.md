@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bralani
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 24
 desc_short: Silver-white hair the color of a lightning strike whips about this poised elf-like archer, his eyes swirling with vibrant colors.
 ```
-# Description
+## Description
 Bralanis are among the fiercest and wildest of the azatas, living from moment to moment and always on the lookout for chances to test their skill in battle. In addition to their elf-like forms, they can take the shape of whirlwinds of dust, snow, or sand. In the mortal realm, they are often mistaken for djinn. They delight in violent weather, not for the destructive qualities of such events, but for the intensity and energy, and many tales describe bralani as spirits who laugh as they sail amid the strongest storms.
 
 Bralanis do not need to eat, but they enjoy doing so. Most prefer elven food, fiery human dishes, and spiced wine. Because of their similarities to elementals and fey, they sometimes act as intermediaries between mortals, elementals, and fey, though they prefer to arrange temporary truces that allow the interested parties to conduct their own negotiations on neutral ground. When taking the role of mediators-or whenever else such opportunities present themselves-bralani are quick to suggest friendly competitions or games to end disputes and enjoy creating challenges or complicated contests to test both physical and mental mortal prowess.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bralani)
 ```encounter-table
 name: Bralani

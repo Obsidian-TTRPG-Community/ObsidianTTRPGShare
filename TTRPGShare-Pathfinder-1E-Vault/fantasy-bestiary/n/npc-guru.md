@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Guru
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
   - name: NPC Codex
     desc: 246
 ```
-# Description
+## Description
 The guru achieved inner peace and developed magical talents through meditating and abandoning her attachment to physical burdens and obligations. She lives on the street, seeking students to enlighten and free from their bonds, and though most people ignore her as a beggar, she is wise and content.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Guru)
 ```encounter-table
 name: NPC Guru

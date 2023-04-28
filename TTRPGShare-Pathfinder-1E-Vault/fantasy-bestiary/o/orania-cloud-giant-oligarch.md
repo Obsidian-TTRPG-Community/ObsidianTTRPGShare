@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orania, Cloud Giant Oligarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 8
 desc_short: This blue-skinned giant is outfitted in elegant jewelry and white robes, and wields a lightning-infused spear.
 ```
-# Description
+## Description
 From her birth during a cataclysmic storm, Orania’s parents knew she was destined for greatness. Dedicated to the ideals of altruism, they raised her with lessons of the good in all creatures beneath Ioz’om’s skies, and taught her all she’d need to know as a future leader and nurturer. Her innate gifts with wind and air emerged at a young age, but with them came the first hints of a darker fate. When the initial signs of her oracular curse made themselves apparent, many of her fellow tribespeople thought her to be plagued by some great evil. The merest hint of danger was enough to send the skittish child into a frenzy of words and phrases that she had no way of learning. With the pain of rejection first came bashfulness, which slowly evolved into utter hatred. Turning her back on her tribe, she abandoned her parents’ cause to gather her own legion of followers among the evil cloud giants. She only returned once, nearly a century after leaving, to burn her home to the ground, torching the citadel and all the benevolent cloud giants within, including her parents.
 
 Now an adult in the fullness of her power, Orania no longer has to fight her own battles, instead sending her minions into combat for her, minions who see her frightful curse of tongues not as a hindrance, but as a god-given gift. Along with her army of cloud giant and mihstu servants, she has traveled along the western side of the Shattered Range for years in search of the fabled f loating cloud giant city that lies somewhere within the rocky crags. She has been obsessed with the idea of f loating cloud giant castles since she was a child, and sees in these mythic sky towers the means to forever rid herself of her curse. Through her pawns and other agents, she pursues any rumor of a city’s discovery, extracting information with torture when lavish gifts won’t suffice.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orania%2C%20Cloud%20Giant%20Oligarch)
 ```encounter-table
 name: Orania, Cloud Giant Oligarch

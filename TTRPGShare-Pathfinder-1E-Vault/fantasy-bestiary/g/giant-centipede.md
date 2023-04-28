@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Centipede
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 43
 desc_short: This lengthy, segmented horror writhes and twists, pulsing its venomous mandibles in search of prey.
 ```
-# Description
+## Description
 Giant centipedes attack nearly any living creatures with their poisonous jaws. These creatures adapt to many environments and feed voraciously on the local fauna, including humanoids. The coloration of giant centipedes mirrors that of normal centipedes and spans the spectrum, ranging from dull hues to bright reds and fiery oranges.
 
 Other species of giant centipedes exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of giant centipede species. The following table lists the most common variants.
 
 SpeciesCRSizeHD House centipede1/8Tiny1d8 Sewer centipede1/4Small1d8 Hissing centipede1Large2d8 Giant whiptail centipede2Huge4d8 Great forest centipede6Gargantuan7d8 Titan centipede9Colossal10d8
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Centipede)
 ```encounter-table
 name: Giant Centipede

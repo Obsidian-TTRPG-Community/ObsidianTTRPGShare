@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Qolok
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 217
 desc_short: Terrible jaws ringed with clawed arms open atop this towering mass of f lesh. A probing tongue f lops from another orifice.
 ```
-# Description
+## Description
 Qoloks prey on the fear of not having enough, urging mortals to overindulge in every way possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Qolok)
 ```encounter-table
 name: Qolok

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sundering Axe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 13
 ```
-# Description
+## Description
 A sundering axe whittles away at her enemies’ abilities to attack and defend themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sundering%20Axe)
 ```encounter-table
 name: NPC Sundering Axe

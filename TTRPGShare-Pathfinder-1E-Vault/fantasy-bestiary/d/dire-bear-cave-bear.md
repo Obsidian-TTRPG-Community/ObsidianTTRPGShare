@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Bear (Cave Bear)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 31
 desc_short: Spittle drips from this feral bear’s roaring maw, and its matted fur is broken in places by wicked, bony growths.
 ```
-# Description
+## Description
 Larger, more aggressive, and far more deadly than its lesser cousins, the dire bear (known to barbarian tribes variously as the cave bear or the short-faced bear) is a primeval menace indeed. This behemoth avoids more civilized reaches of the world, preferring to dwell in remote wilderness locations. A dire bear is a rare and terrifying sight-especially to those not used to normal bears.
 
 Unlike most bears, a dire bear is short-tempered and swift to anger when confronted with intruders in its territory. Like a grizzly, a dire bear attempts to subdue or kill with its claws. However, a dire bear is far more likely (and willing) to begin biting a grabbed foe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Bear%20(Cave%20Bear))
 ```encounter-table
 name: Dire Bear (Cave Bear)

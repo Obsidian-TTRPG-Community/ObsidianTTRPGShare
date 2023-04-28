@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spire Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 81
 desc_short: This reptilian creature’s gaunt body, legs, and batlike face are covered in long spines. Two wings stretch out from its torso.
 ```
-# Description
+## Description
 Sages attribute the gaunt builds and tattered, scabrous wings of spire drakes to centuries of dwelling in magicblasted desolations and accursed badlands, positing that the tainting of the land seeps into the drakes’ flesh and bone and into every clutch of eggs, and is thus carried down through generations of decay. But while their appearance is somewhat withered, spire drakes are just as strong and ferocious as other drakes.
 
 Spire drakes are unusually intelligent for their kind. They are particularly curious about magic and magical items, and enjoy having large collections of such items even if they don’t know how to use them. Lacking the ability to detect magic, they often scour their hunting ranges for any items they suspect might be magical, collecting an array of strange and obscure devices and objects and displaying them proudly so they can boast to other drakes they encounter (who often jealously try to steal or destroy the collections of their rivals).
@@ -60,7 +62,7 @@ Spire drakes are unusually intelligent for their kind. They are particularly cur
 Spire drakes often demand tribute from merchants and caravans passing through or near the lands they claim, or may offer to let opponents escape a fight in exchange for surrendering a magic item. Spire drakes are rarely as clever as they think, however, and can be easily tricked by temporary magical effects into believing an item is magical. Still, spire drakes that manage to collect true magical items use them offensively or defensively as appropriate, and love to show off their latest prizes.
 
 A typical spire drake measures 18 feet from its nose to the long, thin tip of its tail, and weighs about 1,700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spire%20Drake)
 ```encounter-table
 name: Spire Drake

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Margay Cat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 193
 desc_short: Black rosettes and streaks mark the brown fur of this slender feline.
 ```
-# Description
+## Description
 The margay is a small cat that lives in dense tropical forests, preferring to spend most of its life in the trees. During the day, a margay lounges in liana tangles far above the ground, and at night it chases birds, frogs, lizards, and monkeys through the treetops. A margay can use its sound mimicry ability to imitate the sounds of any animal of its own size or one size category smaller, and it often does so to lure prey into an ambush.
 
  A margay weighs around 8 pounds and may reach a length of 3-4 feet, nearly half of which is its tail.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Margay%20Cat)
 ```encounter-table
 name: Margay Cat

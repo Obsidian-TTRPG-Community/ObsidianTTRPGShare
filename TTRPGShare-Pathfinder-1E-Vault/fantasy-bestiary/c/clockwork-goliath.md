@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Goliath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 54
 desc_short: The gears of this enormous, four-armed mechanical giant shriek and grind in a deafening cacophony as it lumbers forth.
 ```
-# Description
+## Description
 The thunderous clockwork goliath is easily recognized as the epitome of technology created to destroy. The exact nature of a clockwork goliath’s “hands” varies-they all resolve as slam attacks in melee combat, though.
 
 The clockwork goliath towers over most creatures and buildings; standing at a height of 45 feet, it weighs over 100 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Goliath)
 ```encounter-table
 name: Clockwork Goliath

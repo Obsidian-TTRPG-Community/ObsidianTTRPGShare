@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Inverted Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
   - name: Lost Kingdoms
     desc: 59
 ```
-# Description
+## Description
 Perhaps one of the most disturbing of the runelords’ creations was the inverted giant, a hideous monstrosity created when a runelord was displeased with a particular giant minion. Through despicable arcana long lost to the ages, giants were ritually bound and transformed so that they would continue to live and think, but only as monstrous caricatures of themselves, their bodies turned inside out in the most painful and gruesome of punishments. Needless to say, few inverted giants tried their masters’ patience again, and the unimaginable pain they suffered throughout the rest of their days served as a maddening punishment that would remind them of their insolence until their merciful deaths.
 
 Before the Starstone fell and obliterated Thassilon, many of the runelords and their servants enchanted their inverted giant minions, freezing the tormented creatures in stasis so that centuries later they would continue to protect their masters’ holdings, their mutilated organs providing sensory information among cunningly-looped entrails and viscera preserved by rune magic. Those who find themselves exploring Thassilonian dungeons and ruins sometimes stumble upon such horrors, inadvertently releasing the monsters and restoring them to raging life and madness, the pain of their mutilated bodies having long since driven them to insanity and burning hatred.
@@ -60,7 +62,7 @@ Before the Starstone fell and obliterated Thassilon, many of the runelords and t
 No two inverted giants look the same, though some features remain fairly consistent between them. Instead of a head, most possess little more than a gaping maw the size of their neck, jagged bones and bits of skull serving as teeth for a monstrous mouth. They have no true eyes-what oracular systems they once had are now embedded somewhere near their sternums-but instead possess an innate sense of direction, and through the dark arcana that surges through their beings they can sense the location of their prey perfectly. Their moist, splotched bodies are marked with runes, and their muscles and bones are often visible through their translucent flesh.
 
 Inverted giants understand speech, but their deformed mouths rarely work well enough for them to be understood by others. The average inverted giant is over 20 feet tall and weighs 1,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Inverted%20Giant)
 ```encounter-table
 name: Inverted Giant

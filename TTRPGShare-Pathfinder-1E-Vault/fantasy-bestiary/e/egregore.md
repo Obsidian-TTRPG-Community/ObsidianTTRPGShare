@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Egregore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 104
 desc_short: Within a swirl of light, a clump of brains wrapped in arcs of light pulses and throbs. The impression of an open eye floats before it.
 ```
-# Description
+## Description
 When an especially powerful psychic leads a community of like-minded individuals, that group can pool its collective will together to create an egregore. The egregore is a powerful defender and a focal point for the psychic talents of every member of the group, granting them access to additional magical powers and a communal link.
 
  Though egregores’ appearances vary, they typically have a core that resembles a mass of brains, discernible by practitioners of phrenology (Pathfinder RPG Occult Adventures 196) as bearing characteristics of the brains of those who make up its cult mind. This core projects an image that ref lects the ideals for which the egregore was formed-an unblinking eye to represent vigilance, a heraldic shield for protection, or some other stylized emblem to ref lect the goals of the group. From this bizarre hovering mass emerges a number of pulsating arcs of light that move in a strange unison, forming an almost mesmerizing pattern with their cadence.
@@ -88,7 +90,7 @@ When an especially powerful psychic leads a community of like-minded individuals
  The egregore itself is a totally separate creature, akin to the eidolons of summoners, though it seems to be a genuine living being of the Material Plane and not a true outsider. Creating an egregore requires a cult of 13-one leader and a dozen followers. Larger cults are capable of creating more powerful egregores, with stories circulating of doomsday cults with hundreds of members working together to create an abomination, but subsequently losing control and facing annihilation from their own creation. The egregore exists only as long as the cult that created it, fading back into the psychic ether from which it spawned once the cult is no more.
 
  An egregore is 12 feet across, though the bands of light that extend out from it cause it to fluctuate between an effective size of 13 feet to 15 feet. It weighs only 300 pounds despite its vast size. The brains that make up the egregore’s body aren’t constructed like human brains, and are far less dense; they seem to take the form of brains only because of the conceptual link they represent. Likewise, the egregore’s staring eye and bands of light are more metaphorical than physical.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Egregore)
 ```encounter-table
 name: Egregore

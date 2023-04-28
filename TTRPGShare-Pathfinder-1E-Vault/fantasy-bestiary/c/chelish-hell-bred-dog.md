@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chelish Hell-Bred Dog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 86
 desc_short: This reddish-brown canine has a square, athletic build. Its dripping saliva smells of sulfur.
 ```
-# Description
+## Description
 Chelish hell-bred dogs are descended from hell hounds and many different breeds of domestic dogs, including mastiffs, retrievers, terriers, and shepherds. They are an athletic breed with long muzzles and a strong bites. Alert, loyal, and highly trainable, they make excellent guard dogs. They’re best known for their ability to spray sulfuric liquid similar to skunk musk from their mouths.
 
 A Chelish hell-bred dog measures 2-1/2 feet at the withers and weighs 95 pounds. A well-trained young hellbred dog is worth 600 gp.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chelish%20Hell-Bred%20Dog)
 ```encounter-table
 name: Chelish Hell-Bred Dog

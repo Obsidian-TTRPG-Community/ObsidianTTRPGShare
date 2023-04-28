@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nosferatu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 268
 desc_short: This somberly dressed but feral-looking gaunt man has yellowed, ratlike fangs and ragged, clawed fingers.
 ```
-# Description
+## Description
 Nosferatu are savage undead who may be the progenitors of the common, more refined vampires. The curse of the nosferatu lacks the elegance and romance of its modern form, harkening to a forgotten age of verminous hunger and eerie powers. Granted immortal life but not immortal youth, nosferatu are withered, embittered creatures unable to create others of their kind, as they somehow lost that ability long ago.
 
 Their ancient sensibilities still ref lect the cruelty of epochs past, and their age-spanning plots are untethered by the modern aff liction of morality. Nosferatu resent common vampires (which they call “moroi,” an ancient term from a lost language) for their beauty, whereas those vampires scorn the nosferatu as bestial relics of an earlier age, best hidden away in remote ruins so as not to sully the charismatic reputation of “true” vampires.
 
 Because nosferatu can’t create spawn, any nosferatu in existence are very old-created long ago in a time before they lost the ability to infect others with their undead curse. Most nosferatu live in isolated places with few visitors, and a nosferatu could be a thousand years old and yet have fewer than a dozen character levels because it lacks sufficient foes to challenge it or the initiative to train itself.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nosferatu)
 ```encounter-table
 name: Nosferatu

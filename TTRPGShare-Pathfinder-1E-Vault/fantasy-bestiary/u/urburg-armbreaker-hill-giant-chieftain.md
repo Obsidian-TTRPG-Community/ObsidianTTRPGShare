@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Urburg Armbreaker, Hill Giant Chieftain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 33
 desc_short: This heavily scarred, towering giant wears the hide of a black dragon, and wields a massive club studded with dragon’s teeth.
 ```
-# Description
+## Description
 Urburg Armbreaker was born into a tribe of hill giants residing in the Kodar Mountains near Southmoor in the Lands of the Linnorm Kings. Cursed with an unusually small stature, he was deemed a guff by his peers and tribal leaders. The true implications did not hit him until during a hunt his own people abandoned him, leaving the young hill giant to die in the wilds of the Grungir Forest.
 
 After nearly 20 years of fending for himself in the untamed wilderness, he reemerged from the woods and tracked down the tribe that had abandoned him so many years before. His people hardly recognized the battlescarred Urburg, but soon found themselves in a state of dread and admiration when the vengeful giant cleaved their current chieftain’s head off with one swing of his mighty club, claiming the title for himself. Anger still burns within the betrayed hill giant, and his people know to fear Urburg’s frequent bouts of violent, indiscriminate rage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Urburg%20Armbreaker%2C%20Hill%20Giant%20Chieftain)
 ```encounter-table
 name: Urburg Armbreaker, Hill Giant Chieftain

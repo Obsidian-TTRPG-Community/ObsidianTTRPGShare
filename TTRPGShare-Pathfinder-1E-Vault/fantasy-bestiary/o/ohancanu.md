@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ohancanu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 88
 desc_short: This brutish, one-eyed giant carries a large, well-made axe and wears a simple tunic. He has a head of shaggy hair, and the lower half of his face is obscured by a bristly, dark beard.
 ```
-# Description
+## Description
 Ohancanus are massive, brutal forest creatures that delight in destruction. Appearing as giant humanoids, ohancanus are thick and powerfully muscled, with simian arms that reach nearly to the ground. Although ohancanus have a single eye in the center of their foreheads, they are fey creatures and unrelated to the ancient cyclops race. Ohancanus have wide noses and large mouths filled with blunt teeth. All ohancanus are hirsute; males have full, thick beards and the rare females (called ohancanas) have long, unruly hair on their heads. All ohancanus have dark hair with a few white strands; on males, these white strands grow in their beards, while on females, they sprout from their heads. The white strands anchor the ohancanu’s essence, so pulling out these strands causes the fey to weaken and die.
 
 An ohancanu stands 10 feet tall and weighs about 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ohancanu)
 ```encounter-table
 name: Ohancanu

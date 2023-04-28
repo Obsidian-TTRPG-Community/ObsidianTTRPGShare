@@ -1,25 +1,27 @@
 ---
-alias: Contact Other Plane
+aliases: [Contact Other Plane]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Contact Other Plane 
+## Contact Other Plane
 
 **source**:: PRPG Core Rulebook pg. 259  
 **school**:: divination
 **level**:: alchemist 5, arcanist 5, investigator 5, occultist 4, psychic 5, sorcerer 5, spiritualist 5, summoner 4, summoner (unchained) 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: concentration
 
-### Description 
+### Description
 
 You send your mind to another plane of existence (an Elemental Plane or some plane farther removed) in order to receive advice and information from powers there. See the accompanying table for possible consequences and results of the attempt. The powers reply in a language you understand, but they resent such contact and give only brief answers to your questions. All questions are answered with “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word answer.  
   

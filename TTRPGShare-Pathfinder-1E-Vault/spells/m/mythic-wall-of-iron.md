@@ -1,19 +1,21 @@
 ---
-alias: Mythic Wall of Iron
+aliases: [Mythic Wall of Iron]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Wall of Iron
+## Mythic Wall of Iron
 
 **source**:: Mythic Adventures pg. 111  
 **school**:: conjuration (creation)
 **level**:: arcanist 6, magus 6, occultist 6, sorcerer 6, summoner 5, summoner (unchained) 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a small iron sheet plus gold dust worth 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: iron wall whose area is up to one 5-ft. square/level; see text  
@@ -21,7 +23,7 @@ alias: Mythic Wall of Iron
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause a flat, vertical iron wall to spring into being. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space.  
   

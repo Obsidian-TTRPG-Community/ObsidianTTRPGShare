@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apocrisiarius
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 84
 desc_short: This slender humanoid is clad in a severe black leather harness and long skirt decorated with curling twists of wire. Her eyes are colorless orbs, and tears of blood course down her cheeks. Slender surgical lancets pierce her body in numerous locations, yet these wounds do not bleed.
 ```
-# Description
+## Description
 The term “sadistic” is synonymous with kytons, who are known for their innate cruelty and capacity to gain pleasure from the suffering of others. However, an apocrisiarius kyton considers inflicting pain and suffering nothing more than a tool to reach what truly intrigues it-the purest form of a single truth. An apocrisiarius typically appears as a human whose eyes are blank, white orbs. Tears of blood weep from its eyes-physical evidence of the sorrow it has tasted over the ages from dreadful truths torn from the flesh and mind of its countless victims. The dozens of surgical lancets that pierce an apocrisiarius’s body do the creature no harm, and the holes these instruments leave are as bloodless as they are deep. The kyton operates on those it captures with these lancets; these fiends prefer to use torture and vivisection to carve away both physically and metaphorically at their victims until all that remains is the one nugget of information they desire-a pure truth, unadulterated by extraneous life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apocrisiarius)
 ```encounter-table
 name: Apocrisiarius

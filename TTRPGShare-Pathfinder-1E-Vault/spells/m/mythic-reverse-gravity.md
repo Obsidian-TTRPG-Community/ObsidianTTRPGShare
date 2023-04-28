@@ -1,19 +1,21 @@
 ---
-alias: Mythic Reverse Gravity
+aliases: [Mythic Reverse Gravity]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Reverse Gravity
+## Mythic Reverse Gravity
 
 **source**:: Mythic Adventures pg. 105  
 **school**:: transmutation
 **level**:: arcanist 7, druid 8, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (lodestone and iron fillings)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: up to one 10-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Mythic Reverse Gravity
 **saving-throw**:: none, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell reverses gravity in an area, causing unattached objects and creatures in the area to fall upward and reach the top of the area in 1 round. If a solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it in the same manner as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, until the spell ends. At the end of the spell duration, affected objects and creatures fall downward.  
   

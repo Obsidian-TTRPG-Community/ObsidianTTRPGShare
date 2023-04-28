@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobkins
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 131
 desc_short: This small, blue-gray humanoid has glowing eyes and huge ears on its round, oversized head.
 ```
-# Description
+## Description
 Like many gremlins, hobkins enjoy destroying things that others cherish, but unlike their jinkin cousins, hobkins delight in manipulating people into destroying their own belongings. Their favorite strategy is to use their spell-like abilities and their Intimidate skill to frighten a family. A hobkins may wait at a child’s window during a storm so that it appears pressed up against the glass when the lightning f lashes, only to hide away when they check again. Once its victims work themselves into a frenzy, the gremlin gives them time to arm themselves, then reveals itself, leaping and f loating out of reach to force panicked victims to throw anything at hand.
 
  A hobkins stands 3 feet tall and weighs 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobkins)
 ```encounter-table
 name: Hobkins

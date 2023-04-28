@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giganotosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 94
 desc_short: This bipedal dinosaur has a large head and cavernous jaws full of large, sharp teeth.
 ```
-# Description
+## Description
 The giganotosaurus is an apex predator that measures 60 feet long and weighs 35,000 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giganotosaurus)
 ```encounter-table
 name: Giganotosaurus

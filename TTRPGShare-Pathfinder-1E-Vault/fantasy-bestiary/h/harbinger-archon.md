@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Harbinger Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 18
 desc_short: What appears to be a miniaturized orrery zips through the air, with thin, sharp blades flashing periodically from within.
 ```
-# Description
+## Description
 Though counted among the least of the archons, harbingers nonetheless remain steadfast in their dedication to combating evil. These tiny beings serve as heralds and assistants for the forces of Heaven. While on the Material Plane, they advise mortals on how best to serve the causes of order and light. Some even venture to the other Outer Planes as minor ambassadors. Harbingers can also be bound into service as familiars, a role they accept eagerly, taking full responsibility for guiding their masters’ souls toward salvation. A spellcaster must have the Improved Familiar feat, a lawful good alignment, and be an arcane caster level of 7th or higher to gain a harbinger familiar.
 
 A harbinger resembles a whirling mechanical model of a planetary system. Its sun, moons, and planets are crafted of tiny glowing jewels whose color shifts with the harbinger’s mood. Electric arcs and sparks of magical essence dance between its whirling pieces. The harbinger can dismantle itself into its component parts to squeeze through tiny gaps, its rings dissolving into glowing vapor while its star and planets remain. Harbingers shed light as brightly as a torch under normal conditions, but can dim to a faint glow if desired, and frequently spin off bits of their essence into dancing lights.
@@ -76,7 +78,7 @@ A harbinger resembles a whirling mechanical model of a planetary system. Its sun
 A harbinger archon’s voice resembles the ringing of a dozen tiny bells, and regardless of the language the archon speaks, it retains that tinkling musical quality.
 
 Most harbinger archons form from souls that led simple lives of wisdom and piety before their deaths. They remember nothing of their mortal existences, but retain a decidedly practical, if parochial, view of worldly matters. Only rarely does a harbinger want for a parable or proverb apropos to the task at hand.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Harbinger%20Archon)
 ```encounter-table
 name: Harbinger Archon

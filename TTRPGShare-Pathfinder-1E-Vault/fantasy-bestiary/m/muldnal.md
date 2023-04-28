@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Muldnal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,11 +80,11 @@ sources:
     desc: 80
 desc_short: This diminutive, small-eyed creature is covered in dense, charcoal-gray fur and wears a dirt-stained smock; its pink nose twitches ceaselessly.
 ```
-# Description
+## Description
 Muldnals’ appearance does not immediately command respect. They stand roughly 3 feet in height, and their wide, dirt-encrusted, clawed hands and equally filthy smocks of undyed linen belie their true extraplanar nature. Dense fur of black, brown, and gray coats their muscular bodies, while a pink nose and whiskers twitch as they sense their surrounding environment, their small black eyes lost in the fur and dirt on their bodies.
 
  While the ferocious leonal agathions guard the portals to Nirvana, the overlooked muldnals tend to the innumerable underground passages of that plane. When found on the Material Plane, a muldnal tends to sites of magical power associated with agriculture and nature. Many people have been fooled by their friendly and furred countenances; when provoked, a muldnal uses both a paralytic bite and command over the earth to drive off its enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Muldnal)
 ```encounter-table
 name: Muldnal

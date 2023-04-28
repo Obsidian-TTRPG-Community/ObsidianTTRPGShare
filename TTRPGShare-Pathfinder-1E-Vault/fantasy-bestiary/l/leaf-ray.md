@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leaf Ray
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 179
 desc_short: This creature looks like a broad leaf with whiskers like a catfish and a dangerous stinger trailing behind it.
 ```
-# Description
+## Description
 Growing in the upper canopies of massive trees, leaf rays fly through the air in search of food. Barely sentient, leaf rays have just enough intelligence to find nourishment and pick out creatures suitable for harboring their seeds. These creatures are hardly picky in their quest for either, merely requiring a warm-blooded living creature, preferably mammalian, for each purpose.
 
 Leaf rays begin their lives as buds in the tops of deciduous trees, and form a symbiotic relationship with these trees, often leaving the husks of their victims under their host trees to decay and fertilize the soil. During its budding stage, a leaf ray spends its time flexing its body in reaction to blowing winds in order to prepare itself for flight. Once a leaf ray has matured, it can separate its stingerlike stem from the parent tree and soar through the air. A leaf ray measures 3 feet across and weighs only 2 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leaf%20Ray)
 ```encounter-table
 name: Leaf Ray

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghost Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Isles of the Shackles
     desc: 62
 ```
-# Description
+## Description
 Sometimes, pirate captains’ dedication to looting and pillaging drives them to continue such heinous crimes even after death. Such vile leaders inevitably remain at sea, where they command ghost ships crewed by dreadful draugr, who recognize ghost pirates as powerful undead spirits perhaps most capable of captaining crews of undead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghost%20Captain)
 ```encounter-table
 name: Ghost Captain

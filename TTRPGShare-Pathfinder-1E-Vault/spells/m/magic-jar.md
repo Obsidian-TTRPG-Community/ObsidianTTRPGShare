@@ -1,19 +1,21 @@
 ---
-alias: Magic Jar
+aliases: [Magic Jar]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Magic Jar 
+## Magic Jar
 
 **source**:: PRPG Core Rulebook pg. 309  
 **school**:: necromancy
 **level**:: alchemist 5, arcanist 5, investigator 5, sorcerer 5, summoner 4, summoner (unchained) 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a gem or crystal worth at least 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Magic Jar
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 By casting *magic jar*, you place your soul in a gem or large crystal (known as the *magic jar*), leaving your body lifeless. Then you can attempt to take control of a nearby body, forcing its soul into the *magic jar*. You may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when you send your soul back to your own body, leaving the receptacle empty. To cast the spell, the *magic jar* must be within spell range and you must know where it is, though you do not need line of sight or line of effect to it. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.  
   
@@ -38,4 +40,3 @@ As a standard action, you can shift freely from a host to the *magic jar* if wit
 If the host body is slain, you return to the *magic jar*, if within range, and the life force of the host departs (it is dead). If the host body is slain beyond the range of the spell, both you and the host die. Any life force with nowhere to go is treated as slain.  
   
 If the spell ends while you are in the *magic jar*, you return to your body (or die if your body is out of range or destroyed). If the spell ends while you are in a host, you return to your body (or die, if it is out of range of your current position), and the soul in the *magic jar* returns to its body (or dies if it is out of range). Destroying the receptacle ends the spell, and the spell can be dispelled at either the *magic jar* or the host's location.
-

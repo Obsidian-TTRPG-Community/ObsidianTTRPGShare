@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Host Devil, Greater (Magaav)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 58
 desc_short: Twisted horns rise from the skinless head of this winged creature, and noxious fumes leak from between its yellowed fangs.
 ```
-# Description
+## Description
 Hunters of souls, host devils retrieve Hell’s most elusive property. Whether souls that have long evaded capture upon the plains of Avernus, damned beings who have somehow managed to escape Hell, or creatures that have reneged upon infernal contracts, vast flocks of these winged fiends fly from the Pit to recover their prey. Rarely seen alone, host devils travel in great swarms that often number in the thousands. These four-winged mockeries of the angelic form swarm in enormous columns, moving in tandem as though they were one colossal, infernal beast controlled by a single brain.
 
 Magaavs stand 5-1/2 feet tall and weigh 150 pounds, with wingspans reaching 10 feet across. Their fetid breath draws flies that swarm over their bodies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Host%20Devil%2C%20Greater%20(Magaav))
 ```encounter-table
 name: Host Devil, Greater (Magaav)

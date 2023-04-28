@@ -1,19 +1,21 @@
 ---
-alias: Wake of Light
+aliases: [Wake of Light]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wake of Light 
+## Wake of Light
 
 **source**:: Advanced Player's Guide pg. 254  
 **school**:: evocation (good)
 **level**:: paladin 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 120 ft.  
 **effect**:: a 10-ft.-wide path in a straight line, up to 120 ft. long  
@@ -21,7 +23,7 @@ alias: Wake of Light
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You and your mount lay down a trail of glowing, heavenly mist behind you as you move that makes passage easier for good creatures but more difficult for evil creatures. This glowing trail of mist appears behind your mount in a straight line starting where you cast the spell and ending where your mount ends its movement. The mist takes the form of a path 10 feet wide and up to 120 feet long and always floats just above the ground, up to a height of 1 foot. Thereafter, the mist persists for 1 round per level.  
   

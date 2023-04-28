@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seilenos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 224
 desc_short: This creature has the body of a middle-aged human man and the pointed ears and legs of a goat.
 ```
-# Description
+## Description
 Elder kin to satyrs, seilenoi are primeval fey bound to the basest emotions, including lust, joy, surprise, aggression, and fear. These fey wander the world, indulging in any excuse to experience or inspire passionate feelings. New spectacles of beauty, physical adventure, and psychoactive plants and alcohol draw their attention, and they encourage creatures they encounter to be equally experimental. Seilenoi particularly enjoy luring stodgy, honorable, or self-important beings into grandiose acts of foolishness or indulgence. Although less notorious than satyrs for sexual exploits, seilenoi possess a rugged animal magnetism and an appreciation for all sorts of carnal pleasures. They are particularly renowned for their insight and skill as storytellers and playwrights.
 
  Like satyrs, seilenoi prefer to keep to untamed wilds where they revel in the passionate emotions of the fey and beasts that live, grow, and play there. Creatures of the forest often f lock to seilenoi in small troupes or even traveling courts. Satyrs, leanan sidhe, and muses (see page 179) enjoy the artistry of a seilenos’s storytelling. Centaurs and maenads revere seilenoi for inspiring irresistibly passionate, ecstatic rage. The seilenos acts as a mercurial judge, jocular keeper of fey culture and secrets, and sometimes self-centered celebrity to these groups. Seilenoi traveling across the ocean often take on ichthyocentaurs as seafaring guides and honor guards. Most seilenoi get separated from their courts eventually, either because their fey followers move on to more sedate leaders or because the seilenos feels stif led and drunkenly wanders off in search of a change of pace.
@@ -90,7 +92,7 @@ Elder kin to satyrs, seilenoi are primeval fey bound to the basest emotions, inc
  Although their wide range of moods tends toward joy and frivolity, all seilenoi at times indulge in the insidious thrill of violence, hatred, or madness. When filled with these dark passions, a seilenos might provoke a battle among evenly matched friends to watch the tense contest or dive headlong into the confused heart of a fray.
 
  Seilenoi are about the same size and weight as male humans, although they tend toward the heavier end of that range.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seilenos)
 ```encounter-table
 name: Seilenos

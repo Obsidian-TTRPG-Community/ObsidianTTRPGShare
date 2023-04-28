@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Calpina
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 82
 desc_short: Membranous wings hold this insectile woman aloft. She has bright red eyes, and her sharp tongue resembles a proboscis.
 ```
-# Description
+## Description
 Calpinas are strange fey whose bodies have a combination of insectile and humanoid features. They view their victims as little more than sources of nutrition, but remain intensely curious creatures and may sometimes, albeit rarely, interact with other creatures without harmful intentions. 
 
 Calpinas make simple nests in hollow, rotting trees or shallow caves in cliff sides at the lower altitudes of mountains. Their social and territorial tendencies change with the seasons. In early spring, calpinas become largely solitary and nomadic, wandering in search of appetizing prey. A few months later, when they lay their eggs, calpinas band together into colonies of their own kind for mutual protection of their young. Once the eggs have hatched, though, calpinas welcome visitors, as their larvae require substantial quantities of food to grow. Small groups of calpinas called eclipses often work together to lure victims into ambushes, draining their egos to the last drop before leaving the comatose victims for the fey’s mindless offspring to eat. 
 
 Calpinas are usually just over 3 feet tall, and most weigh only 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Calpina)
 ```encounter-table
 name: Calpina

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Eagle Knight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 54
 desc_short: Golden eagles shine proudly on the steel armor of this blue-uniformed soldier.
 ```
-# Description
+## Description
 Eagle Knights are the public face of Andoran in the eyes of surrounding nations-an army of citizen-soldiers who rose up to defend the hard-won freedoms of the Andoren people. The Eagle Knights serve at the forefront of their nation’s armed forces, acting as scouts in dangerous regions and enemy territory, elite troops for the most perilous missions, officers for militias, and advisors to communities threatened by bandits, foreign raids, or dangerous wildlife. Eagle Knights put their lives on the line on a regular basis, and that risk earns them the respect of their fellow citizens.
 
 However, the war Eagle Knights wage is not merely one of military combat. In a world dominated by monarchy and despotism, the citizen-soldiers must also fight on the vanguard of an ideological army, championing the strange notion that the ordinary citizens of a nation have both the right and responsibility to govern themselves. The Eagle Knights hold faith that the common folk are more than capable of holding a large nation together without being crushed beneath the weight of bureaucracy or dissolving into factional, sectional, and ideological squabbling that could hurl the nation into anarchy in the face of a crisis.
 
 Among the Eagle Knights, the members of the Steel Falcons faction serve as Andoran’s armed ambassadors to the world at large. While the larger part of the Eagle Knights is concerned with the nation’s safety and order, the Steel Falcons travel abroad to bring awareness of the history and culture of Andoran to other lands and to spread the gospel of liberty. They travel not as seditionists (unless they are subverting tyranny), but rather as emissaries sharing the national narrative that makes Andoran unique among the nations. They are also trained listeners, culling important intelligence from information commonly available in the foreign lands they roam, returning to Andoran with invaluable details about attitudes and activities abroad.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Eagle%20Knight)
 ```encounter-table
 name: NPC Eagle Knight

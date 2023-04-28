@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Fern
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 62
 desc_short: The thick stalks of this dark-veined, gray plant are covered in a fine black fuzz.
 ```
-# Description
+## Description
 The perpetual darkness under the canopy of the Uskwood in Nidal has given rise to new varieties of both flora and fauna unique to the preternaturally shadowy environment. Most prevalent among the plants exhibiting such adaptations are the fecund shadow ferns, which grow in large patches throughout the forest. Darklands-dwelling societies-including caligni, drow, and especially duergar-cultivate the plants underground, since they thrive in the lightless depths. Over the millennia, the plants have even spread into the Plane of Shadow, leading travelers using shadow walk to encounter the plants with increasing frequency during their umbral jaunts. Some shadowcasters believe that elder specimens of shadow ferns are capable of existing simultaneously on both the Material and Shadow Planes, and many such casters have a number of potted shadow ferns in their laboratories for further study.
 
  The malevolent druids of the Uskwood have been known to weaponize shadow fern spores, killing their victims and seeding new patches of the invasive plant in their victims’ corpses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Fern)
 ```encounter-table
 name: Shadow Fern

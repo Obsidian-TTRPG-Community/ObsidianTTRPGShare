@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tanuki
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 259
 desc_short: Short and pudgy, this raccoonlike humanoid wields a stout quarterstaff and weaves a little as if intoxicated.
 ```
-# Description
+## Description
 Jolly tricksters, tanukis love deceiving humanoids and other intelligent creatures. This mischief is usually harmless, but can turn spiteful in some situations. 
 
 Popular folklore stories claim tanukis are the transformed souls of tools and housewares that were used for more than 100 years, a myth that probably results from tanukis’ ability to magically create or alter objects.
@@ -69,7 +71,7 @@ Tanuki mischief becomes spiteful to those who defile nature. Hunters who kill fo
 Though rare, violent and morbid tanukis occasionally walk the lands, bringing suffering to those they encounter. Filled with spite, these evil tanukis pull sadistic pranks, and horror stories tell of tanukis killing old women and tricking their husbands into eating soups made from their flesh.
 
 A tanuki is 5 feet tall and weighs 180 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tanuki)
 ```encounter-table
 name: Tanuki

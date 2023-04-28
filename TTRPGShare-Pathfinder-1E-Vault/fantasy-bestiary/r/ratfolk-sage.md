@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratfolk Sage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: Monster Codex
     desc: 181
 ```
-# Description
+## Description
 Magic is most useful to the warren when it provides insight, so diviners are held in high regard. Though the ratfolk sage prepares some offensive spells in case of attack-it’s always good to be ready for danger-such things can be duplicated with alchemy and weaponry.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratfolk%20Sage)
 ```encounter-table
 name: Ratfolk Sage

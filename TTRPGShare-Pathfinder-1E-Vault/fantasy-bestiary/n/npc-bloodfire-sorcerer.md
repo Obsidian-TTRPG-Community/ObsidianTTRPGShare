@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Bloodfire Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: NPC Codex
     desc: 164
 ```
-# Description
+## Description
 The bloodfire sorcerer withers her enemies with flame and quickens her allies with hot-blooded ferocity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Bloodfire%20Sorcerer)
 ```encounter-table
 name: NPC Bloodfire Sorcerer

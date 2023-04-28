@@ -1,19 +1,21 @@
 ---
-alias: Antitech Field
+aliases: [Antitech Field]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Antitech Field 
+## Antitech Field
 
 **source**:: Technology Guide pg. 8  
 **school**:: abjuration
 **level**:: arcanist 7, druid 6, hunter 6, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (pinch of rust)
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **target**:: 10-ft.-radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Antitech Field
 **saving-throw**:: Fortitude partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You bring into being a mobile, hemispherical energy field that prevents technological objects, signals, and creatures from entering.  
   

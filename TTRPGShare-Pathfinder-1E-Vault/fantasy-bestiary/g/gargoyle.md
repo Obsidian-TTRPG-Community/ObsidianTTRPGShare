@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gargoyle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 137
 desc_short: Seemingly carved from a dark gray stone, this sinister crouching humanoid resembles a horned, winged demon.
 ```
-# Description
+## Description
 Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving, allowing them to surprise their foes. Gargoyles tend toward obsessive-compulsive behaviors that are as varied as their kind is plentiful. Books, stolen trinkets, weapons, and grisly trophies harvested from fallen foes are just a few examples of the types of things a gargoyle might collect to decorate its lair and territory. Gargoyles tend toward a solitary lifestyle, though they sometimes form fearsome groups called “wings” for protection and sport. In certain conditions, a tribe of gargoyles might even ally with other creatures, but even the most stable alliances with a gargoyle tribe can collapse for the smallest of reasons-gargoyles are nothing if not treacherous, petty, and vindictive. Gargoyles have been known to dwell in the heart of the largest of cities, crouching amid the decorations of stone cathedrals and buildings where they hide in plain sight by day and swoop down to feed on vagabonds, beggars, and other unfortunates at night.
 
 The longer a tribe of gargoyles abides in a region of ruins or buildings, the more its members come to resemble that region’s architectural styles. The changes a gargoyle’s appearance undergoes are slow and subtle, but over the course of years, it can shift radically.
 
 One unusual variant of gargoyle dwells not amid buildings and ruins but under the waves of the sea. These creatures are known as kapoacinths-they have the same basic statistics as normal gargoyles, save that they have the aquatic subtype and their wings grant them a swim speed of 60 feet (but are useless for actual flight). Kapoacinths dwell in shallow, coastal regions where they can shamble up from the surf to prey on those that reside there. They are more likely to form wings, as kapoacinths prefer group living to a solitary lifestyle.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gargoyle)
 ```encounter-table
 name: Gargoyle

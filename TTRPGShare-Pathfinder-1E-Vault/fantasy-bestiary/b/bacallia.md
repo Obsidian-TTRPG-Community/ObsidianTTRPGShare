@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bacallia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 62
 desc_short: This animal resembles an alpaca with voluminous, shiny wool.
 ```
-# Description
+## Description
 Bacallias are alpine camelids with luxuriously soft wool, expressive eyes, and short tempers. First domesticated by the dwarves of Tar Taargadth, bacallias became critical herd animals in supplying meat, milk, and wool to both the dwarves and their Kellid neighbors. The creatures are adequate pack animals, capable of bearing modest loads or light riders. Selective breeding has refined the texture and luster of bacallias’ already-thick coats, which naturally repel rainwater and refract sunlight in scintillating patterns.
 
  A typical bacallia weighs about 150 pounds and has a market price of 25 gp. Bacallias with exceptionally soft wool, famous pedigrees, or both can sell for 500 gp or more, and the status of owning such an animal sometimes drives the price dramatically higher.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bacallia)
 ```encounter-table
 name: Bacallia

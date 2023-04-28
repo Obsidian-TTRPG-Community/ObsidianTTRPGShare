@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tarn Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 192
 desc_short: This nightmarishly huge, snake-like dragon possesses two equally fearsome heads. Its twin jaws seethe with acid and poison.
 ```
-# Description
+## Description
 Although legends speak of even more powerful linnorms, it’s hard to believe after witnessing the devastation a two-headed tarn linnorm can wreak. Content to slumber away the centuries at the bottom of dark mountain lakes, the tarn linnorms are true horrors that even the mightiest of heroes fear.
 
 A tarn linnorm is 120 feet long and weighs 24,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tarn%20Linnorm)
 ```encounter-table
 name: Tarn Linnorm

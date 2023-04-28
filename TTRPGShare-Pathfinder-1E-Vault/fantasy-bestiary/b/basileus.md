@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Basileus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 78
 desc_short: This comely man is clad in fine silken robes. His eyes smolder with infernal flames.
 ```
-# Description
+## Description
 An infernal paradox at once wondrous and terrifying, tempting and blasphemous, Basileus serves as the herald of Asmodeus and the harbinger of Hell’s will. Few who have met him survive the experience unchanged, for he is the very word of Hell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Basileus)
 ```encounter-table
 name: Basileus

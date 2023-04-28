@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghristah
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 51
 desc_short: Wielding a net of woven moss and a stone javelin, this humanoid reptile wears armor of swamp reeds and bone and the skull of a larger reptile as a menacing mask.
 ```
-# Description
+## Description
 Unlike most of her kind, Ghristah lives on Golarion’s surface. She travels the Inner Sea region, never resting in one spot too long before moving on. A consummate hunter, she’s forsaken the companionship of a pet to master her own bestial urges, and is able to take the form of beasts in dire circumstances. Ghristah believes this atavistic connection to be the blessing of the great power of Zevgavizeb, patron of all troglodytes. She prefers a covert hunt, wearing down her enemies with her natureinclined spells and swift strikes from javelins as well as the use of natural attacks. She always keeps a barbed net on her person, which she primarily uses to disable enemies prior to the deathblow or in the rare case that she needs to retreat from a superior foe.
 
 Ghristah enjoys teaching other troglodytes the basics of hunting and stalking prey. Because of her wandering nature, she rarely spends much time with a given tribe, but she has perfected working with other troglodytes, making optimal use of their unrefined tactics. When confronted by hostile intruders, Ghristah is not above recruiting local troglodytes and reptiles to work with her in overcoming these foes. She may stalk her prey for months at a time, striking at inopportune moments or using her magic at range to confound foes already caught up with other threats.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghristah)
 ```encounter-table
 name: Ghristah

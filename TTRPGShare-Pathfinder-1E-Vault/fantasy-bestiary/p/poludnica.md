@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Poludnica
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 88
 desc_short: A haze of heat shimmers around this beautiful woman. The glare of the sun gleams from her radiant skin. 
 ```
-# Description
+## Description
 Driven by an obsession that few can fully comprehend, poludnicas are bitter creatures of light, heat, and envy. Although they are surprisingly strong and deadly combatants, these scythe-wielding women resort to violence only when guile and trickery have failed. They are lonely creatures that seek the company of mortals by luring farm workers and children away from their families so that they can brief ly enjoy a feeble simulation of family life. In the rural farming communities where her kind is most commonly found, a poludnica might also be known as Cornwife, Lady Midday, or Mother Noon. She might even be mistaken for a vengeful or beneficent ghost depending on how she presents herself. 
 
 Averaging 6 feet tall and weighing approximately 170 pounds, poludnicas could easily be mistaken for strapping farm girls if it were not for their radiance. Their maximum life expectancy has not been documented and it is commonly believed that poludnicas are effectively immortal unless they suffer some deadly mishap. It has been theorized that permanently keeping a poludnica in magically darkened conditions would eventually lead to her death, but no scholars have so far attempted to prove this hypothesis.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Poludnica)
 ```encounter-table
 name: Poludnica

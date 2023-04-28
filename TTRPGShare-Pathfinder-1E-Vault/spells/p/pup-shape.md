@@ -1,19 +1,21 @@
 ---
-alias: Pup Shape
+aliases: [Pup Shape]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Pup Shape 
+## Pup Shape
 
 **source**:: Ultimate Combat pg. 240  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 3, druid 3, hunter 3, redmantisassassin 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a rag doll)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one animal  
@@ -21,7 +23,7 @@ alias: Pup Shape
 **saving-throw**:: Fortitude negates (and Will special, see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You transform the subject animal into a Small magical beast (or a magical beast one size category smaller than the original creature, whichever is smaller), creating a young magical version of itself for a short period of time. While in this form, the target has only 1 HD (maximum hit points), and the target takes a -4 penalty to Strength, Constitution, Intelligence and Wisdom (minimum 1). The creature also gains a +4 size bonus to Dexterity and a +2 natural bonus.  
   

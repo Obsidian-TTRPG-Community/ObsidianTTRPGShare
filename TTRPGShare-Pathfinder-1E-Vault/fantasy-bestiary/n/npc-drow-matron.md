@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Drow Matron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -84,9 +86,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 19
 ```
-# Description
+## Description
 Among the demon-worshiping dark elves of Sekamina, the drow matrons are some of the most dangerous. Not only do they hold considerable influence within their matriarchal society, but they must be capable of wicked cunning, incredible treachery, and vile deeds to have attained their august rank as leaders of their chaotic and conniving kind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Drow%20Matron)
 ```encounter-table
 name: NPC Drow Matron

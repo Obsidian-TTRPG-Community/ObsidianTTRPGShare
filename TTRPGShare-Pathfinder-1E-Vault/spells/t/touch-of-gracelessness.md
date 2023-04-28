@@ -1,19 +1,21 @@
 ---
-alias: Touch of Gracelessness
+aliases: [Touch of Gracelessness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Touch of Gracelessness 
+## Touch of Gracelessness
 
 **source**:: Advanced Player's Guide pg. 249  
 **school**:: transmutation
 **level**:: arcanist 1, bard 1, bloodrager 1, mesmerist 1, redmantisassassin 1, skald 1, sorcerer 1, spiritualist 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Touch of Gracelessness
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 With a single touch, you reduce a creature to a fumbling clown. The target takes a penalty to its Dexterity equal to 1d6+1 per two caster levels (maximum 1d6+5). This penalty cannot drop the target’s Dexterity score below 1.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Ape (Gigantopithecus)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 17
 desc_short: Sharp teeth fill this large, feral ape’s mouth, and its long, muscular arms stretch to the ground, ending in wickedly curved claws.
 ```
-# Description
+## Description
 Known to many scholars as the gigantopithecus, the dire ape is a much more dangerous and bestial creature than the relatively peaceful gorilla. An adult male dire ape stands 9 feet tall and weighs 1,200 pounds. The dire ape attacks anything that intrudes on its territory, including other dire apes not of its troop, and does not break off the attack until the trespasser is dead or runs off.
 
 A dire ape makes no displays of toughness or warnings before it attacks-it simply leaps into action with little or no provocation, tearing at its opponents with claws and teeth. If a dire ape is stymied by a heavily armored foe, it attempts to grapple its foe, pin it to the ground, and rend it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Ape%20(Gigantopithecus))
 ```encounter-table
 name: Dire Ape (Gigantopithecus)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dust Digger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 112
 desc_short: A tremendous starfish-like creature emerges from the sand, its five long arms surrounding a circular toothy maw. 
 ```
-# Description
+## Description
 Dust diggers most resemble mammoth starfish, with thick sandy-colored exoskeletons covered with rough, burr-like spines. Its five arms are long and thin, and covered with hundreds of barbed, tubular cilia that the creature uses to move as well at grab and grapple prey. At the fleshy center of the creature’s body gapes a circular maw lined with large sharp teeth. 
 
 As ambush predators, dust diggers spend the majority of their lives buried beneath the sand, waiting patiently for prey to stumble over their ambush site. 
 
 Dust diggers are asexual. They reproduce by budding, splitting off young three to four times over the course of their 10-year lives-smaller versions of themselves that must immediately move away from the parent to avoid being snatched up and eaten. Dust digger young are just over 4 feet across, and can move relatively quickly through sand (their burrow speed is 40 feet). Usually, a young dust digger travels at least a mile from its parent before it settles down to create its first ambush-the amount of life in the region it has chosen as its new lair often determines whether the new dust digger thrives or starves to death, for once it digs its first ambush, it rarely moves more than a few hundred feet away over the course of its life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dust%20Digger)
 ```encounter-table
 name: Dust Digger

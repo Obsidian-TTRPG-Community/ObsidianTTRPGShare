@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ravenous Urchin Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 89
 desc_short: A wave of swift-moving spines rushes forward-a roiling tide of dangerously fast sea urchins.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ravenous%20Urchin%20Swarm)
 ```encounter-table
 name: Ravenous Urchin Swarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crab Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 50
 desc_short: A writhing mass of clacking shells and snapping pincers rushes from the surf, their spider-like legs twitching across the sand.
 ```
-# Description
+## Description
 Crab swarms contain over a thousand normal-sized crabs that rush over their victims, plucking flesh with thousands of pinching claws. Some fishermen claim tides and phases of the moon cause these creatures to swarm as they do.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crab%20Swarm)
 ```encounter-table
 name: Crab Swarm

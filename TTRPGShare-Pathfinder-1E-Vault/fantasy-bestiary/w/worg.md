@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Worg
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 280
 desc_short: This unusually large wolf has an evil, almost intelligent light shining in its deep red eyes.
 ```
-# Description
+## Description
 Worgs are oversized, evil, intelligent wolves often found dwelling amid goblins or other savage races. A typical worg has gray or black fur, stands 3 feet tall at the shoulder, and weighs 300 pounds.
 
 Worgs hunt in packs, running down and surrounding their prey like common wolves, but their intelligence and ability to speak make them better at coordinating their attacks. They sometimes use one packmate as a decoy, pretending to be a humanoid calling for help in order to lure intelligent prey into an ambush. Worgs that travel with goblins often allow them to ride on their backs, but in such situations it is usually the worg that is the master, not the rider.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Worg)
 ```encounter-table
 name: Worg

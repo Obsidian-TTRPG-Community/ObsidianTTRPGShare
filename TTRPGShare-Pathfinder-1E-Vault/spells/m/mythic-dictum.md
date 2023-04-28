@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dictum
+aliases: [Mythic Dictum]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dictum
+## Mythic Dictum
 
 **source**:: Mythic Adventures pg. 91  
 **school**:: evocation (lawful, sonic)
 **level**:: cleric 7, inquisitor 6, oracle 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: nonlawful creatures in a 40-ft.-radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Dictum
 **saving-throw**:: none or Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Any nonlawful creature within the area of a *dictum* spell suffers the following ill effects.  
   

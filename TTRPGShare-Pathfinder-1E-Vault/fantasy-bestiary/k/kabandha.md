@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kabandha
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 64
 desc_short: This tall giant has no head; instead, its one-eyed face rests in the center of its broad chest.
 ```
-# Description
+## Description
 In the distant past, the ancestors of the reclusive kabandha made a bargain with some unknown entity or power to grant their people long lives in exchange for agreeing to serve as wardens of the hidden places of the world, such as the confluences of ley lines and other sites of mysterious power. Kabandhas have kept this pact through the millennia, and today they serve as tactically minded guardians with great longevity.
 
 The strangest aspect of a muscular kabandha’s appearance is the large face and expressive eye that reside in its barrel-like chest, as the creature lacks a head atop its shoulders. Kabandhas have a variety of complexions, and sometimes grow magnificent moustaches. They tend to dress in open shirts, robes, or armored coats worn with loincloths, trousers, or skirts, and they love to wear numerous bracelets, bracers, and other ornaments on their arms.
@@ -68,7 +70,7 @@ Because their lives revolve around stewardship, kabandhas defend their domains v
 Kabandhas are known for their insatiable appetites, preferring to eat rare but heavily seasoned roasted cuts of meat throughout long, music-filled feasts. They approach singing as a sort of competition, and prize volume over pitch or melody. Many adventurers who have witnessed a kabandha’s lair report that it smells strongly of cinnamon-a spice that the giants prize above all others.
 
 To reproduce, these giants lay single, rock-like eggs that require great heat to mature. The eggs hatch quickly, releasing young that reach full size within a year. Though a cold environment doesn’t harm their eggs, it does cause the eggs to enter stasis until properly tended.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kabandha)
 ```encounter-table
 name: Kabandha

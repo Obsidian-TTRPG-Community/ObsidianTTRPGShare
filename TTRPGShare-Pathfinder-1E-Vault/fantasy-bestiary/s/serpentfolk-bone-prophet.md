@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpentfolk Bone Prophet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: Monster Codex
     desc: 205
 ```
-# Description
+## Description
 The serpentfolk bone prophet uses its powers to control slaves and convert the dead into mindless minions. It constantly hears the otherworldly whispers of the skeletal head of its god and relays those cryptic words to its mage colleagues.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpentfolk%20Bone%20Prophet)
 ```encounter-table
 name: Serpentfolk Bone Prophet

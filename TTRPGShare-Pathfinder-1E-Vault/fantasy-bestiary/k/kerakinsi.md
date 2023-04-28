@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kerakinsi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 58
 desc_short: This winged creature’s streamlined head features sunken, glassy eyes and a circular mouth lined with needle-sharp teeth.
 ```
-# Description
+## Description
 Native to the windswept coasts and boggy isles of the Sodden Lands, kerakinsis are perfectly adapted to living with storms. Kerakinsis ride the gales that batter their territory, pillaging settlements and plundering ships wherever the wind takes them. The creatures revel in these raids and hunt as much for sport as for supplies, eager to show dominance over “lesser” humanoids who seek shelter from the storms in which kerakinsis thrive.
 
  While kerakinsis can maneuver gracefully in powerful storms, they lack the ability to fly without wind to carry them. As a result, most kerakinsis obsess over any force that allows them to control the weather, often serving creatures capable of manipulating wind currents. Many display a natural affinity for druidic or shamanic magic, earning high status among their kind when they learn how to bend the winds to their will. Some scholars believe this aptitude indicates that kerakinsis descend from a people who turned to cruel druidic rituals to survive in the stormwracked wilds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kerakinsi)
 ```encounter-table
 name: Kerakinsi

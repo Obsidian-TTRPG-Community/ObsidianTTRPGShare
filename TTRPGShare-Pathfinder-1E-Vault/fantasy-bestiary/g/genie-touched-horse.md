@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Genie-Touched Horse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 60
 desc_short: This magnificent creature seems to be a horse, but the sparkle in its eyes reveals its supernatural origins.
 ```
-# Description
+## Description
 Legends hold that in the distant past, genies gifted certain Keleshite tribes with the companionship of a powerful race of equine mounts. Exactly what these mysterious creatures originally were is now lost to time, but their descendants exist still in the form of four distinct breeds of supernatural steeds known as genietouched horses. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Genie-Touched%20Horse)
 ```encounter-table
 name: Genie-Touched Horse

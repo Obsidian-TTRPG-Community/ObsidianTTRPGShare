@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Doppeldrek
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 85
 desc_short: The half-formed shape a snarling dog rises out of this pile of grayish foam.
 ```
-# Description
+## Description
 In their natural form, doppeldreks are pale blobs, with an appearance akin to sea foam. However, doppeldreks habitually mimic other creatures that they detect with their blindsense, taking on not only their shapes but also some of their innate abilities, and even some of their intelligence. A doppeldrek using its change shape ability believes itself to be whatever type of creature it is currently mimicking, and its behavior matches the behavior typical of that type of creature, as far as its intelligence allows. When a doppeldrek attempts to copy a creature with substantially greater intelligence, such as the average humanoid, it attempts to follow the creature around, constantly copying its behavior and making vocalizations that are too imprecise to be recognizable as speech. An isolated doppeldrek eventually reverts to its natural form.
 
 Occasionally, through exposure to potent magic or other means, a doppeldrek gains a persistent intelligence and personality, becoming an awakened doppeldrek. An awakened doppeldrek possesses an Intelligence score of 6 or higher, and can use its change shape ability to mimic an Intelligence score up to double its own. An awakened doppeldrek must still put a number of skill ranks equal to its Hit Dice in Disguise, but can allocate its other skill ranks as it sees fit each time it assumes a new form.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Doppeldrek)
 ```encounter-table
 name: Doppeldrek

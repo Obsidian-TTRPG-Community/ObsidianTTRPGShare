@@ -1,19 +1,21 @@
 ---
-alias: Angelic Aspect, Greater
+aliases: [Angelic Aspect, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Angelic Aspect, Greater 
+## Angelic Aspect, Greater
 
 **source**:: Champions of Purity pg. 28  
 **school**:: transmutation (good)
 **level**:: arcanist 8, cleric 8, oracle 8, paladin 4, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Angelic Aspect, Greater
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *lesser angelic aspect*, except you gain lowlight vision; darkvision 60 feet; DR 10/evil; immunity to acid, cold, and petrification; resistance to electricity 10 and fire 10; a +4 racial bonus on saves against poison; and protective aura and truespeech as supernatural abilities for the duration of the spell. Also, your wings give you a fly speed of 60 feet with good maneuverability.  
   

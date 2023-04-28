@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Kitharodian Academy Performer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 33
 ```
-# Description
+## Description
 The graduates of the Kitharodian Academy, Oppara’s famed bardic college, number among the Inner Sea region’s most talented performers. While members of Taldor’s secretive Lion Blades are drawn from the ranks of the college’s most gifted students, the vast majority of its graduates go on to promising careers in artistic performance-usually as kitharodes, virtuosos with the traditional Taldan lyre known as the kithara. Often skilled singers as well, kitharodes play the kithara as accompaniment to dances, epic recitations, odes, and songs, as well as the odd solo performance.
 
 Regardless of their eventual vocation, Kitharodian Academy performers are trained in far more than just music and culture. During their time at the college, students are taught the fine arts of persuasion and deception, and they spend vast amounts of time studying history, languages, law, magical theory, religion, and science, to say nothing of more esoteric subjects. They are drilled in combat as well as magic, and learn to use their performances to sway the thoughts and attitudes of any audience. To successfully pass the rigorous final exams, a prospective graduate must demonstrate that her mind and body have both been honed to keen precision.
@@ -58,7 +60,7 @@ Regardless of their eventual vocation, Kitharodian Academy performers are traine
 A Kitharodian Academy performer is a darling of Oppara’s social scene, and the most accomplished ones find themselves in great demand for the banquets, parties, and receptions hosted by Taldor’s aristocratic elite. Kitharodian Academy performers are also frequently skilled duelists, as competition for engagements, noble favors, and prestigious awards is fierce and sometimes violent. A graduate of the academy can easily become a popular celebrity, but fame and fortune are fickle and fleeting, never more so than in Oppara’s cutthroat high society-the toast of the town today can find herself penniless and forgotten tomorrow.
 
 As a result, many Kitharodian Academy performers leave the capital, and some flee Taldor entirely, in search of friendlier audiences who will honestly appreciate them more for their art than for their social standing. Others forsake the performance halls of the cities for the open road, seeking fame of a different sort, drawn by the lure of a life filled with adventure.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Kitharodian%20Academy%20Performer)
 ```encounter-table
 name: NPC Kitharodian Academy Performer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raelis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -84,9 +86,9 @@ sources:
     desc: 84
 desc_short: This bronze-skinned humanoid is muscular yet lithe, garbed in colorful clothing emblazoned with glowing runes.
 ```
-# Description
+## Description
 Formed from the souls of authors, artists, and storytellers, raelises travel to the farthest corners of the planes searching for epic stories, poems, and simple tall tales.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raelis)
 ```encounter-table
 name: Raelis

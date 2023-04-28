@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dweomer Cap
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 195
 desc_short: Undulating patterns of purple and orange luminescence play across this strange mushroom’s gills.
 ```
-# Description
+## Description
 A dweomer cap is a black mushroom covered in wavy purple and orange patterns. It is typically found in regions of residual magical activity, such as abandoned arcane laboratories and sites of magical disasters. Although a dweomer cap can subsist on decaying organic material, it thrives and releases spores only when it can absorb trace magical energies. This makes these fungi an indicator that magical traps or treasures might be nearby. Spellcasters sometimes adopt dweomer caps as familiars, learning to read the fungi’s scintillations to help identify nearby magical effects.
 
  A typical dweomer cap is about 1 foot wide and weighs around 2 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dweomer%20Cap)
 ```encounter-table
 name: Dweomer Cap

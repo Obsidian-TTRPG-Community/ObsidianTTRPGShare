@@ -1,19 +1,21 @@
 ---
-alias: Blade Snare
+aliases: [Blade Snare]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Blade Snare 
+## Blade Snare
 
 **source**:: Inner Sea Gods pg. 230  
 **school**:: abjuration
 **level**:: arcanist 3, bloodrager 3, druid 3, hunter 3, magus 3, ranger 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Blade Snare
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell creates an invisible magic field that does not stop weapons (whether manufactured or natural) from moving toward you, but impedes their motion when they are retracted. When you are hit with a melee attack, attempt a caster level check against your opponent’s CMD. If your check succeeds, your opponent’s attacking weapon or body part becomes caught in the field, as if magically affixed to your body. If your check fails, your opponent may retract its weapon.  
   

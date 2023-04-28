@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Daughter of Urgathoa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 82
 desc_short: What was once a woman now towers as a monstrosity of ectoplasmic flesh, horns, and a tremendous scythelike claw.
 ```
-# Description
+## Description
 Within the church of the goddess of undeath, few more coveted stations exist than daughter of Urgathoa, yet no high priest can bestow the title, and no living worshiper can take the role. Rather, daughters of Urgathoa are selected by the fickle goddess herself, chosen from her most zealous and accomplished priestesses only at the moment of their deaths. Even after their transformations into things of pestilence and dead flesh, daughters of Urgathoa remain social beings who typically surround themselves with fanatical cults.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Daughter%20of%20Urgathoa)
 ```encounter-table
 name: Daughter of Urgathoa

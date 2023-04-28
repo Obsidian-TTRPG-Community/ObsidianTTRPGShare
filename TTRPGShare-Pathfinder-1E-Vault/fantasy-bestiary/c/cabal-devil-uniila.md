@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cabal Devil (Uniila)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -87,9 +89,9 @@ sources:
     desc: 86
 desc_short: The curves of a shapely maiden define the outline of a mysterious figure wrapped in mist and strips of ancient robes. From beneath the rune-embroidered tatters stretch four, corpse-pale arms, each bearing either a blade or some mysterious arcane device. Hidden within the cowl of its hood shimmer the faintest outlines of a veiled face and a pair of eyes flickering with barely restrained energy.
 ```
-# Description
+## Description
 The tools devils use to ensnare the minds and ultimately the souls of their victims vary incredibly, from the most blatant of infernal corruptions to enticements that seem not like temptations at all. The elusive cabal devils, or uniilas as they are known by diabolists, employ one of the most seductive drugs in existence in their snares: magic. Mistresses of the arcane with an understanding of the cultic arts-both arcane and divine-that rivals even that of many greater fiends, these mysterious and aloof sages haunt the most ancient ruins and moldering depths of Stygia, the fifth layer of Hell, researching arcana and puzzling over formulae destined to shake the cosmos. When conjured forth or left to their own devices upon the Material Plane, uniilas make no untoward offers or forceful demands of their mortal hosts; they merely offer greater magical power in any of the various ways they might do so. Should the ease with which such might is granted pollute a mortal’s ambitions or lead him to rely upon a devil for his power, such ultimately proves the student’s fault, not the eager teacher’s. So too does the resulting damnation at the end of the mortal’s short life prove more of his own doing than any overt diabolical trap, making uniilas’ methods all the more sinister for their subtlety.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cabal%20Devil%20(Uniila))
 ```encounter-table
 name: Cabal Devil (Uniila)

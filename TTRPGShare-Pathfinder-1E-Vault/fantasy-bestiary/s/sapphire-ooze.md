@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sapphire Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 244
 desc_short: This glittering ooze suddenly flexes and bulges as portions of it begin to crystallize.
 ```
-# Description
+## Description
 Sapphire oozes are a form of intelligent ooze native to Elysium. Steadfastly courageous and protective, sapphire oozes are proof that even the least of Elysium’s natives are heroic in their own right. These eager creatures have an intense and innocent curiosity about the world. This, combined with their unhesitating courage, renders sapphire oozes particularly vulnerable to the hazards of Elysium, as they have no qualms about wandering into any corner of the plane in search of adventure or vulnerable creatures in need of rescue. Of course, in most such cases, the sapphire oozes themselves must be rescued, whether by azatas or by visiting adventurers; wandering azatas are often alert for the bubbling sound of a sapphire ooze’s distress calls.
 
  Sapphire oozes that find their way to the Material Plane usually do so by accident. In such cases, the ooze eagerly seeks out novice adventurers or aspiring heroes to share adventures with, using their abilities to protect their allies and inspire them to greatness. They are often quite surprised and confused when they encounter other oozes, which sapphire oozes never expect to be so mindless and such boring conversationalists.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sapphire%20Ooze)
 ```encounter-table
 name: Sapphire Ooze

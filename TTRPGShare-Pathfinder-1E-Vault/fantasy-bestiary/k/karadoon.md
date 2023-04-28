@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Karadoon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 20
 desc_short: This red-eyed griffon has black fur and a set of wicked ebon wings springing from its back. Its front half resembles that of a great raven, while its hindquarters resemble those of a lean panther.
 ```
-# Description
+## Description
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Karadoon)
 ```encounter-table
 name: Karadoon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Titanoboa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 185
 desc_short: This immense serpent moves in deliberate, slithering undulations, its forked tongue tasting the air eagerly for the scent of prey.
 ```
-# Description
+## Description
 Titanoboas are deadly ambush predators, striking quickly from beneath the surface of the swamps and jungle waters they call home. Titanoboas vary in their coloration to camouflage effectively in their homes, typically patterned gray-brown and green to match the coloration of local foliage, water, and ground. 
 
 A titanoboa is 45 feet long and weighs 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Titanoboa)
 ```encounter-table
 name: Titanoboa

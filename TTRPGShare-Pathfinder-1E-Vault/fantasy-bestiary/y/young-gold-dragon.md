@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Gold Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 108
 desc_short: Golden scales cover the body of this majestic dragon, and a regal crest of horns arches backward above wise and piercing eyes.
 ```
-# Description
+## Description
 Gold dragons are the epitome of virtue. Other metallic dragons revere their gold cousins as the agents of divine forces and the paragons of dragonkind, and often seek them for advice or aid.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Gold%20Dragon)
 ```encounter-table
 name: Young Gold Dragon

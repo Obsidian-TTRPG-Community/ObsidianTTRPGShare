@@ -1,19 +1,21 @@
 ---
-alias: Salvage
+aliases: [Salvage]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Salvage 
+## Salvage
 
 **source**:: Pirates of the Inner Sea pg. 28  
 **school**:: transmutation
 **level**:: arcanist 9, cleric 9, oracle 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one shipwreck  
@@ -21,7 +23,7 @@ alias: Salvage
 **saving-throw**:: Fortitude negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 An invisible force pulls together the remains of a shipwreck. Bits of hull, tattered sails, broken masts, and smashed figureheads knit themselves back together. Rotten wood turns solid once more, and sails re-weave themselves as the rigging snakes across the masts.  
   

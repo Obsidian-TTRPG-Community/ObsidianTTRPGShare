@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shira
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 78
 desc_short: Moving with deadly grace, this brutal, thickly furred humanoid figure’s head is that of a lioness with dead black eyes.
 ```
-# Description
+## Description
 Bestial stalkers, shiras live to hunt and feed. Resembling anthropomorphic lionesses, these divs use their powerful builds, keen senses, and deadly instincts to track the proudest mortals and slay the most formidable foes. They embody the deadly nature of the wilds and the dispassion with which beast and land might turn against mortals, delighting in proving to civilized beings how small and helpless they are in the face of a savage world.
 
 Shiras prefer hunting alone, keeping company with even others of their own kind only long enough to form temporary hunting bands. With a hunger for intelligent prey, they savor the taste of mortal souls, savaging not just victims’ bodies but also their vital essences. Despite being the most feral of all divs, shiras sometimes serve as scouts and assassins for div hordes. Such arrangements usually prove to be temporary, however, lasting only until the shiras’ savage instincts or lust for the hunt again takes hold.
@@ -74,7 +76,7 @@ Shiras prefer hunting alone, keeping company with even others of their own kind 
 Shiras never go after an easy kill, and instead target the most obviously powerful of the possible targets. When acting on this compulsion, a shira weighs its chances for survival and the glory of its intended kill, planning its tactics carefully and not necessarily charging savagely forth. Though savage, a shira is also a cunning hunter and might wait weeks for the perfect opportunity to bring down its chosen prey.
 
 Most shiras stand 10 feet tall and weigh approximately 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shira)
 ```encounter-table
 name: Shira

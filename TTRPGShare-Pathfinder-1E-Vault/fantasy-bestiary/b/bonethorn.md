@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bonethorn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 52
 desc_short: Ligaments of stringy black fungus connect the bones of this filthy skeleton. In numerous places, the fungus has formed thorny growths.
 ```
-# Description
+## Description
 Bonethorns form from bodies devoured and reanimated by a hideous, flesh-eating fungus. After consuming a creature’s flesh, the fungus binds to the bones and takes the place of the body’s muscular system. As the fungus spreads across the skeleton, it solidifies into numerous raised spikes used to implant fungal spores into other living creatures. Once permanently affixed, it uses the host skeleton to move around so as to spread spores and create more bonethorns. 
 
 A bonethorn has a rudimentary intellect, but spends most of its time seeking new hosts. When flesh isn’t available, the fungus goes dormant and can remain so for hundreds of years. While dormant, the bonethorn is inanimate. As soon as the fungus senses life, it reanimates the skeleton-an action easily confused for a corpse rising from the dead. This can fool clerics into trying to turn the creatures, which absorb the positive energy to their benefit. 
 
 A typical bonethorn is 6 feet tall and weighs 60 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bonethorn)
 ```encounter-table
 name: Bonethorn

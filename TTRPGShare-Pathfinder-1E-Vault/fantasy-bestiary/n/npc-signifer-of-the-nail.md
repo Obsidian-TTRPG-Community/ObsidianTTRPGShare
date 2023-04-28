@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Signifer of the Nail
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: Castles of the Inner Sea
     desc: 29
 ```
-# Description
+## Description
 Citadel Vraid is a hostile place for virtually anyone but the Hellknights who rule it. Since armigers make up the bulk of Citadel Vraid’s denizens, intruders often encounter these rookie Hellknights before rousing the attention of higherups. Most armigers have up to 4 or 5 class levels in fighter or ranger, though some pupils have backgrounds as cavaliers or even rogues. Citadel Vraid’s Hellknights and signifers are significantly more challenging than their greener associates, and possess at least 1 level in either the Hellknight or Hellknight Signifer prestige class (see Pathfinder Campaign Setting: The Inner Sea World Guide and Pathfinder Campaign Setting: Paths of Prestige, respectively). The following is an example of a typical Signifer of the Nail from Citadel Vraid.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Signifer%20of%20the%20Nail)
 ```encounter-table
 name: NPC Signifer of the Nail

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Whispering Tyrant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,7 +85,7 @@ sources:
     desc: 62
 desc_short: Clad in ancient leather and bronze and a great horned helm, this withered gray figure is surrounded by a palpable aura of death.
 ```
-# Description
+## Description
 The Whispering Tyrant was perhaps the greatest threat that the people of the Inner Sea have ever known. Even after his defeat atop Gallowspire, he wasn’t finished. The forces that brought him low had no choice but to seal him within the tower that was once his capital.
 
 Before becoming a lich, the Whispering Tyrant was a powerful necromancer by the name Tar-Baphon. Though his origins are lost to time, it’s thought that he grew up on the shores of Lake Encarthan, where he first studied the necromantic arts. As his power grew, so did his ambition, eventually leading him to the Cenotaph, the resting place of the slumbering runelord of gluttony. After unlocking the powers of Zutha, Tar-Baphon gained power beyond that of mortals. He realized then that true greatness required bringing the world itself under his control-alive or dead, all would serve him.
@@ -93,7 +95,7 @@ His campaign was brutal. Enlisting nearby orcs and undead, he quickly conquered 
 However, Tar-Baphon had intended to die by Aroden’s hand all along. His studies had revealed to him that his only true path to immortality lay in undeath. For Tar-Baphon’s last step in becoming a lich beyond compare, he needed to be killed by a god, and Aroden served this purpose. The process sparked by Aroden took time, however, and for 2,307 years Tar-Baphon’s body laid dead in the ground before he returned to grim unlife. The Whispering Tyrant was born.
 
 He soon reestablished his power, animating thousands of dead. For centuries, the forces of the living were unable to resist the tide of the dead-with Aroden gone, nothing could stop the Whispering Tyrant. Only the Shining Crusade had a chance to end his threat. Bearing the Shield of Aroden, General Arnisant faced the lich, but when the Whispering Tyrant used a wish to summon the general’s heart to his waiting claw, the symbol of Aroden flared to life, the shield shattered, and the lich’s body was destroyed. Without a means to locate the Tyrant’s phylactery, let alone destroy it, the crusaders instead sealed him away in his tower, where their descendants remain ever watchful for his return.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=The%20Whispering%20Tyrant)
 ```encounter-table
 name: The Whispering Tyrant

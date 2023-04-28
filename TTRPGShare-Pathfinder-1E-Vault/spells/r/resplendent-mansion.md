@@ -1,19 +1,21 @@
 ---
-alias: Resplendent Mansion
+aliases: [Resplendent Mansion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Resplendent Mansion 
+## Resplendent Mansion
 
 **source**:: Ultimate Intrigue pg. 224  
 **school**:: conjuration (creation)
 **level**:: arcanist 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, F (a miniature cornerstone carved from precious gemstones worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: opulent mansion, up to 300 feet on a side and one story tall/4 levels  
@@ -21,7 +23,7 @@ alias: Resplendent Mansion
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell creates a towering mansion. While casting the spell, you hold an image of the mansion and its desired appearance in your mind. The mansion can contain as many or as few rooms as you desire, and is decorated to match your image. You can imagine a purpose for each room of the mansion, and the proper accouterments appear within. Any furniture or other mundane fixtures function normally for anyone inside the mansion, but cease to exist if taken beyond its walls. No fixture created with this spell can create magical effects, but magical devices brought into the mansion function normally.  
   

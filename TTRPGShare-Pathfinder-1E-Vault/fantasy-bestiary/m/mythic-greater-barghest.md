@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Greater Barghest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 179
 desc_short: An eerie green fire emerges from the obscenely large mouth of this strange humanoid combination of bat and wolf.
 ```
-# Description
+## Description
 A mythic greater barghest is a near-divine offspring of one of the barghest gods. Infused with the power of foul planes, it leads great tribes of goblins, scaring their minions into something approaching discipline. Its presence is enough for hobgoblins and bugbears to treat goblins almost as equals, having seen the barghest’s wrath at disobedience and infighting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Greater%20Barghest)
 ```encounter-table
 name: Mythic Greater Barghest

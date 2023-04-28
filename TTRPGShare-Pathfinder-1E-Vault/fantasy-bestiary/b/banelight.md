@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Banelight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 37
 desc_short: This creature has a dragonfly’s body and a woman’s head and arms. A glowing red vortex gathers between her hands.
 ```
-# Description
+## Description
 Banelights are cruel fey who stalk mortals in the darkness and loathe the increasing ubiquity of mortalmade light. Banelights are strangely social creatures, and they conduct bizarre courtship dances among themselves or with will-o’-wisps. In the absence of other fey to keep them company, banelights sometimes capture mortals to keep them entertained. While a good conversationalist can survive as a banelight’s “guest” for years, banelights are quick to dispatch companions who bore them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Banelight)
 ```encounter-table
 name: Banelight

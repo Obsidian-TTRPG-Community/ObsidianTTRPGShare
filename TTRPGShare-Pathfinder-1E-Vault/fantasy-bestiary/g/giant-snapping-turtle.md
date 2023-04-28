@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Snapping Turtle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 273
 desc_short: This lumbering turtle is the size of a house; its head features powerful, razor-sharp beak.
 ```
-# Description
+## Description
 Giant snapping turtles typically grow to diameters of about 35 feet and weigh 20,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Snapping%20Turtle)
 ```encounter-table
 name: Giant Snapping Turtle

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Venomous Snake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 255
 desc_short: This brightly colored snake assumes an aggressive posture, its hissing mouth open to display its fangs.
 ```
-# Description
+## Description
 Countless species of poisonous snakes dwell in the wild, their bites capable of bringing down creatures much larger than themselves. Snakes of the size presented here are thankfully rarer than their smaller kin, but many species of rattlesnake, cobra, and similar reptiles can grow to this size.
 
 Venomous snakes are generally far more aggressive than constrictor snakes, and even larger variants do exist: you can create stats for a king cobra, for example, by applying the advanced and giant simple templates to the stats given above.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Venomous%20Snake)
 ```encounter-table
 name: Venomous Snake

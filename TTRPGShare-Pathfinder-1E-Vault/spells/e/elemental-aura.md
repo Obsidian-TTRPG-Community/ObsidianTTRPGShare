@@ -1,19 +1,21 @@
 ---
-alias: Elemental Aura
+aliases: [Elemental Aura]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Elemental Aura 
+## Elemental Aura
 
 **source**:: Advanced Player's Guide pg. 218  
 **school**:: evocation (acid, cold, electricity, or fire)
 **level**:: alchemist 3, arcanist 3, bloodrager 3, investigator 3, magus 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Elemental Aura
 **saving-throw**:: Reflex half, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell forms an aura of energy around you, damaging all those that come near you. Choose an energy type: acid, cold, electricity, or fire. Creatures adjacent to you when this spell is cast and at the start of your turn take 2d6 points of energy damage of the selected type. This aura has an additional effect, depending upon the type of energy chosen.  
   

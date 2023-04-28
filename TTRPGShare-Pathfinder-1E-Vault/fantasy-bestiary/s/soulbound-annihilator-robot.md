@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soulbound Annihilator Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 60
 desc_short: The tip of this towering, scorpionic construct’s tail thrums with otherworldly energy, and its body moves with unexpected speed.
 ```
-# Description
+## Description
 A soulbound construct is a once-living creature that has had its soul bound to a construct host that serves as its new body. The creatures involved in this example are a Technic League captain and an annihilator robot; any abilities not explained here are described in those entries.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soulbound%20Annihilator%20Robot)
 ```encounter-table
 name: Soulbound Annihilator Robot

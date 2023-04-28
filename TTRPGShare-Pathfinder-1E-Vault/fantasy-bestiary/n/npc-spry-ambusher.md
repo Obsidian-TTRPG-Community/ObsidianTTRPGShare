@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Spry Ambusher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: NPC Codex
     desc: 97
 ```
-# Description
+## Description
 These gnomes often protect gnome communities in groups that skirmish in the name of their lawful lord.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Spry%20Ambusher)
 ```encounter-table
 name: NPC Spry Ambusher

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Lion (Spotted Lion)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 193
 desc_short: This immense spotted lion stands as tall as a man at the shoulder, its fur matted with the blood of its victims.
 ```
-# Description
+## Description
 Dire lions, known locally as spotted lions or cave lions, are immense predators that can grow up to 15 feet long and weigh up to 3,500 pounds. Although they are merely animals, these large creatures seem to take an almost sadistic glee in playing with and tormenting their prey before eventually devouring it. As a result, many tribes view dire lions as the spawn of evil gods, and hunt them down as soon as their presence in a region becomes obvious.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Lion%20(Spotted%20Lion))
 ```encounter-table
 name: Dire Lion (Spotted Lion)

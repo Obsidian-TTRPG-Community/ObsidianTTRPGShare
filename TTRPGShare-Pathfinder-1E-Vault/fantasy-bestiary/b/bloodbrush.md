@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bloodbrush
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 47
 desc_short: This dried-out clump of thorny brush has torn free of its roots and seems to move not with the wind, but of its own volition.
 ```
-# Description
+## Description
 Though they resemble humble tumbleweed, bloodbrushes are animate and aggressive. Movement draws its attention, especially when accompanied by warmth and moisture. When it strikes prey, it latches on and delivers a sedating toxin through its barbs. Victims that succumb to this poison experience vivid hallucinations as the bloodbrush finishes them off. As much a drug as a poison, refined bloodbrush toxin commands a high price in the right circles. A single bloodbrush provides sufficient poison to refine 1d4 doses of bloodbrush extract (see page 23), and counts as the raw materials for the process.
 
 Bloodbrush thorns deposit seeds, though the seeds germinate only in dead flesh. A single corpse sprouts 2d4 seedlings. After 3 months of growth, the now-mature and animate bloodbrush breaks free of its roots and rolls off in search of prey. Prior to this, an immature bloodbrush is neither animate nor toxic. A bloodbrush lives for up to 6 months after tearing free, and can survive 2 weeks between feedings. Despite its size, a mature bloodbrush plant weighs 5 pounds at most.
@@ -57,7 +59,7 @@ Bloodbrush thorns deposit seeds, though the seeds germinate only in dead flesh. 
 Kellids harvest the thorns of immature bloodbrushes. They grind the dried thorns, and brew the resulting powder as a tea with mild euphoric and fever-reducing properties. Harvesting the thorns and preparing the tea requires a successful DC 15 Survival check. Drinking this tea grants a +1 circumstance bonus on saves against an ongoing disease for 24 hours.
 
 Particularly ingenious tribes, and even some members of the Technic League, cultivate bloodbrush in the shallowly buried corpses of their fallen enemies. When a farmed bloodbrush is near maturity, the grower places a sturdy wicker cage about it to prevent it from escaping. Such cages can be completely sealed and carried into battle or covertly placed in a rival settlement. When released, the captive bloodbrush tends to attack the nearest target, so using one as a weapon presents significant risks to the one who releases it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bloodbrush)
 ```encounter-table
 name: Bloodbrush

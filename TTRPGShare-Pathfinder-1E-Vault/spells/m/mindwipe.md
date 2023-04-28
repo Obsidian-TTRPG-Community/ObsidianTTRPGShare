@@ -1,19 +1,21 @@
 ---
-alias: Mindwipe
+aliases: [Mindwipe]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mindwipe 
+## Mindwipe
 
 **source**:: Occult Adventures pg. 178  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 4, medium 4, mesmerist 4, occultist 4, psychic 4, sorcerer 4, spiritualist 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mindwipe
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You erase a portion of the target’s mind and experiences, inflicting 2 temporary negative levels on the target for 1 day per caster level. If the target is a spellcaster who must choose and prepare spells in advance, each negative level imposed by *mindwipe* also causes the target to lose one prepared spell from her highest level of spells known for each of her spellcasting classes for which she must prepare spells. These lost spells are no longer considered known by the target until the corresponding negative levels are removed.  
   

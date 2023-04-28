@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shax
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -85,11 +87,11 @@ sources:
     desc: 84
 desc_short: This stork-headed, winged humanoid is spattered with blood and wields a pair of gory, razor-sharp daggers in his dripping hands.
 ```
-# Description
+## Description
 Shax is the demon lord of envy, lies, and-above all else-murder. He rules an Abyssal realm known as Charnelhome, an immense mansion the size of a city perched atop a slanted bluff surrounded by a bog of thorny, blood-drinking plants. He is fond of inviting his captured enemies as well as his greatest worshipers into the chambers of this building, for those who survive his deathtraps often serve as lessons as to how he can improve his methods of mayhem.
 
 Shax is particularly skilled at blinding foes with critical hits-when he does so, he likes to pluck the eyes from his victim’s face as part of the attack and swiftly gobble them down whole. He can hurl the countless surgical tools he carries on his body as deadly weapons, but prefers to slaughter foes in melee.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shax)
 ```encounter-table
 name: Shax

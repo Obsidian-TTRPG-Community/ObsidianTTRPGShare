@@ -1,19 +1,21 @@
 ---
-alias: Blazing Rainbow
+aliases: [Blazing Rainbow]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Blazing Rainbow 
+## Blazing Rainbow
 
 **source**:: Advanced Class Guide pg. 175  
 **school**:: evocation (light)
 **level**:: druid 6, hunter 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (a drop of rainwater)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft. or 10 ft./level  
 **effect**:: bow or bridge of light  
@@ -21,7 +23,7 @@ alias: Blazing Rainbow
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a spectrum of multicolored solid light that can be used for one of two effects.  
   

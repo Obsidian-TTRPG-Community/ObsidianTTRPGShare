@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Penanggalen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,7 +80,7 @@ sources:
     desc: 216
 desc_short: A pale face framed by glossy black hair hangs in the air, trailing viscera from the ragged stump of its neck like a grisly tail.
 ```
-# Description
+## Description
 The hideous penanggalen is one of the most horrific vampiric monstrosities. By day, a penanggalen appears to be a normal humanoid, but at night or when provoked, the creature’s head rips free from the rest of her body, coils of viscera and entrails dangling from her throat as she launches into the air, seeking blood to sate her unholy thirst.
 
 Unlike most undead, the penanggalen is more akin to the lich in that she willfully abandons both her mortality and morality to become a hideous undead monster. While penanggalens are traditionally female spellcasters, any creature capable of performing the vile ritual of transformation can become one.
@@ -88,7 +90,7 @@ Similar to a lich, a creature works toward becoming a penanggalen. More than one
 A penanggalen keeps a vat of vinegar in her lair. When returning from a night of feeding, a penanggalen’s organs are swollen with blood. In order to fit back into her body, the penanggalen must soak for 1 hour in this vat of vinegar. Once reduced, a penanggalen slides back into her body. If a penanggalen is slain away from her body, the body rapidly deteriorates into foul-smelling grit.
 
 The penanggalen presented above was a witch in life. The witch class is presented in full in the Advanced Player’s Guide.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Penanggalen)
 ```encounter-table
 name: Penanggalen

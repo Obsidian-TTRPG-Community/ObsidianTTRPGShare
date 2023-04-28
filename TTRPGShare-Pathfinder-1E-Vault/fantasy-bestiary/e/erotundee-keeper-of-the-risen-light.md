@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Erotundee, Keeper of the Risen Light
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,7 +83,7 @@ sources:
     desc: 49
 desc_short: This wretched demon combines the worst features of a deformed boar and a repellent hag, then somehow manages to make things worse by decorating the whole with an ugly patchwork of scars and a rancidly obese body.
 ```
-# Description
+## Description
 The city of Vantian is one of the great wonders of the planes-a massive sprawl perched along a constantly crumbling cliffside above a turbulent ocean. Ruled by Sif kesh, the demon lord of suicide, Vantian is forever being rebuilt by its denizens as portions of the city tumble away into the surf. As a result, very few buildings in Vantian qualify as truly old, since a building constructed at the city’s inland-creeping edge will generally tumble into the sea within a decade.
 
 Some of Vantian’s inhabitants have found ways to secure homes of a more permanent type, even without access to Sifkesh’s power to maintain her palace at the everchanging heart of the city while the rest of its streets and structures slowly “flow” around this one island of stability. One of the most iconic structures of the Abyssal city is the towering 20-story spire known as the Risen Light.
@@ -91,7 +93,7 @@ This structure is something akin to a lighthouse in shape and function, save tha
 This singular site is the lair of one of Vantian’s most dangerous and knowledgeable denizens-a nalfeshnee crone named Erotundee. This ancient demon keeps track of Vantian’s suicides in an endless scroll crafted from the flesh of countless virginal lovers who died of their own hand before consummating their desires. That Erotundee manages to keep this list accurate while studying her ever-growing library of heretical and apocryphal religious texts is a testament to her obsessive qualities. She does not suffer visitors to the Light, and any who would seek her advice must first brave the lower 20 floors of the tower and its frightening guardians before reaching her inner sanctum near the tower’s peak-simply approaching the tower from the top is as sure an invitation for destruction as any in Vantian.
 
 Those who would seek to conjure Erotundee must use a gate spell to work such a mighty feat. She prefers offerings of heretical writings or rare religious texts, particularly those that hold secrets their faiths would rather see redacted. It’s a DC 32 check to research the Keeper of the Risen Light.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Erotundee%2C%20Keeper%20of%20the%20Risen%20Light)
 ```encounter-table
 name: Erotundee, Keeper of the Risen Light

@@ -1,19 +1,21 @@
 ---
-alias: Ears of the City
+aliases: [Ears of the City]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ears of the City 
+## Ears of the City
 
 **source**:: Heroes of the Streets pg. 30  
 **school**:: divination
 **level**:: arcanist 1, bard 1, cleric 1, inquisitor 1, oracle 1, shaman 1, skald 1, sorcerer 1, warpriest 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a small piece of a brick)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Ears of the City
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The target of this spell sees and hears a stream of past scenes and pieces of conversations related to local people and events. The flashes are so brief that it is impossible to identify individual people or places, but when the target concentrates on a particular topic or individual, she can piece together a coherent narrative told in a multitude of changing voices in her mind.  
   

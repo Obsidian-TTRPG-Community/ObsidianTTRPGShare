@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dispel Magic
+aliases: [Mythic Dispel Magic]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dispel Magic
+## Mythic Dispel Magic
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: abjuration
 **level**:: antipaladin 3, arcanist 3, bard 3, cleric 3, druid 4, hunter 4, inquisitor 3, magus 3, medium 3, mesmerist 3, occultist 3, oracle 3, paladin 3, psychic 3, shaman 3, skald 3, sorcerer 3, spiritualist 3, summoner 3, summoner (unchained) 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **Target or Area** one spellcaster, creature, or object  
@@ -21,7 +23,7 @@ alias: Mythic Dispel Magic
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can use *dispel magic* to end one ongoing spell that has been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, or to counter another spellcaster's spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can't be defeated by *dispel magic*. *Dispel magic* can dispel (but not counter) spell-like effects just as it does spells. The effect of a spell with an instantaneous duration can't be dispelled, because the magical effect is already over before the *dispel magic* can take effect.  
   

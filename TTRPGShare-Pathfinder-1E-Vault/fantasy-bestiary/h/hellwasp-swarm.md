@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hellwasp Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 146
 desc_short: This hideous, buzzing cloud of insects is comprised of black and yellow wasps with hungry red eyes.
 ```
-# Description
+## Description
 Even Hell’s fiendish inhabitants know to stay clear of the maddening buzz of hellwasp swarms. While individual hellwasps are mindless, when swarmed together they gain a hive mind that torments the living and the dead alike. Sages and diabolists argue as to why this happens, but a favored explanation is that all hellwasps contain the dispersed soul of some greater devil, scattered and imprisoned by his rivals for infractions lost to mortal knowledge.
 
 Though intelligent, these swarms are often difficult to understand and reason with. A hellwasp swarm can speak in a fashion with its myriad droning wings. The chatter is often little more than repetitive mantras of insults and the voicing of the twisted and base desires of the swarm. A hellwasp swarm has little use for reason, diplomacy, or discourse in other circumstances, for its desires are as savage as its home plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hellwasp%20Swarm)
 ```encounter-table
 name: Hellwasp Swarm

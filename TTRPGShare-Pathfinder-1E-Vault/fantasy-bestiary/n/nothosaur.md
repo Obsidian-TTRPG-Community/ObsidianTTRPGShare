@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nothosaur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 88
 desc_short: This long-necked reptile swims through the water propelled by four paddle-like feet, whipping a long and slender tail behind it as it gnashes its sharp, needle-like teeth.
 ```
-# Description
+## Description
 The nothosaur resembles a smaller version of the landbased brachiosaurus, sharing the distinctive long neck and tail and short legs of its herbivorous brethren. Nothosaurs are also similar in many ways to seals-they spend much of their time in the water, including when they hunt, but emerge to sleep and breed on land. They lay their eggs in massive sandy mounds in the summer, then abandon their nests and slip back into the sea. A nothosaur is most vulnerable out of the water, but when caught unawares, it can return to the water with alarming speed, notwithstanding its awkwardly short legs and disproportionately large neck and tail. Nothosaurs can exist in water of any temperature, but prefer the warmer equatorial waters. Herds of nothosaurs make seasonal migrations, following schools of fish over the course of many months. From head to the tip of its tail, an adult nothosaur is 12 feet long and weighs 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nothosaur)
 ```encounter-table
 name: Nothosaur

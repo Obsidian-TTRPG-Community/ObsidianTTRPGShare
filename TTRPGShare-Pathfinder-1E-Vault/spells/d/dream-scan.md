@@ -1,19 +1,21 @@
 ---
-alias: Dream Scan
+aliases: [Dream Scan]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dream Scan 
+## Dream Scan
 
 **source**:: Occult Adventures pg. 165  
 **school**:: divination (mind-affecting)
 **level**:: arcanist 6, bard 6, medium 4, mesmerist 5, psychic 5, skald 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Dream Scan
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions as *dream*, but rather than sending a message to a sleeping target, you can instead read the target’s thoughts. The target must be asleep for you to perform a *dream scan*, though if the target isn’t asleep, you can wait in a trance until your target falls asleep. Once the target is asleep, you can concentrate in order to read its surface thoughts as if using *detect thoughts*. You can continue concentrating for up to 1 minute per caster level.  
   

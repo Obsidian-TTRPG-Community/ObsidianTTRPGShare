@@ -1,19 +1,21 @@
 ---
-alias: Mythic Maze
+aliases: [Mythic Maze]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Maze
+## Mythic Maze
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 8, psychic 8, sorcerer 8, summoner 6, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Maze
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You banish the subject into an extradimensional labyrinth. Each round on its turn, it may attempt a DC 20 Intelligence check to escape the labyrinth as a full-round action. If the subject doesn't escape, the maze disappears after 10 minutes, freeing the subject.  
   

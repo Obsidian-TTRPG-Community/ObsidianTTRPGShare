@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nogitsune
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 86
 desc_short: This fox-headed humanoid has a sleek, feminine form that moves with seductive grace. As she steps into a defensive posture, a mass of bushy tails flicks at the air above her back and she reveals teeth flecked with blood.
 ```
-# Description
+## Description
 Nogitsune are created when oni spirits take over the bodies of kitsune (sagacious humanoid fox-creatures). The resultant possession creates a creature with the kitsune’s foxlike grace and cunning and infuses it with the destructive power of an oni (Note from Nethys: This bolded information is not entirely correct and has been further clarified here). Nogitsune are always female, and resemble shapely humans with a covering of fur and a fox’s head. A nogitsune’s fur color varies and can be orange and white, grey, pure white, or even black. Whenever nogitsune use their shapechanging abilities to assume a humanoid form, they still evince somewhat pointed, vulpine features. In addition, any hair on their assumed form betrays the natural coloration of their pelts. Nogitsune stand between 5 and 5-1/2 feet tall and weigh just over 100 pounds.
 
 More details on kitsune can be found in Pathfinder Campaign Setting: Dragon Empires Gazetteer. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nogitsune)
 ```encounter-table
 name: Nogitsune

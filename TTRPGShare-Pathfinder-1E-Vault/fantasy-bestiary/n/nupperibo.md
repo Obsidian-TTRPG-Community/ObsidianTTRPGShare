@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nupperibo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: Pathfinder No. 61: Shards of Sin
     desc: 44
 ```
-# Description
+## Description
 These mindless drones rank even lower than lemures and serve as little more than mindless sword fodder for their betters. The devils are almost like constructs in their mindlessness, and cannot be communicated with-they raise their spears and attack any non-devil on sight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nupperibo)
 ```encounter-table
 name: Nupperibo

@@ -1,25 +1,27 @@
 ---
-alias: Fortune's Path
+aliases: ["Fortune's Path"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fortune's Path 
+## Fortune's Path
 
 **source**:: Disciple's Doctrine pg. 10  
 **school**:: divination
 **level**:: arcanist 3, bard 2, cleric 3, oracle 3, skald 2, sorcerer 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (incense worth 50 gp), F (silver mirror worth at least 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: instantaneous
 
-### Description 
+### Description
 
 You predict events in your near future. Visions of the foretold events appear in the mirror after you cast this spell. Roll d% and add your caster level (maximum 10) to determine results this spell returns, as listed below.
 

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Urannag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 60
 desc_short: What at first appeared to be a sadistic spiked cage writhes into unholy life, extending bladed, articulated arms.
 ```
-# Description
+## Description
 Urannags have long vexed scholars, some of whom contend that they’re creatures, while others argue that they’re complex traps. In truth, they’re both-an unsettling example of how reality on the Abyss doesn’t match mortal expectations. An urannag behaves like an ambush predator, yet has no need for sustenance and is driven to f lense prey out of innate sadism.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Urannag)
 ```encounter-table
 name: Urannag

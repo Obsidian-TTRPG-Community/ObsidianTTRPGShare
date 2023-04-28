@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wisagatcak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 249
 desc_short: This spiderlike monstrosity watches quietly, skittering about on six needle-sharp legs.
 ```
-# Description
+## Description
 Though wisagatcaks do not have a true hive mind, waves of these creatures are intimidatingly coordinated when hunting prey. Although they are outsiders and do not need to feed to survive, wisagatcaks enjoy the taste of warm flesh. A single wisagatcak can reduce a human body to its skeleton with unsettling speed.
 
  A wisagatcak has a leg span of 5 feet and weighs 60 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wisagatcak)
 ```encounter-table
 name: Wisagatcak

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Master Spy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: NPC Codex
     desc: 42
 ```
-# Description
+## Description
 A master spy lingers in the shadows or at parties, where he can easily misdirect people.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Master%20Spy)
 ```encounter-table
 name: NPC Master Spy

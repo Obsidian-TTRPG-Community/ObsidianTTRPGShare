@@ -1,19 +1,21 @@
 ---
-alias: Expeditious Construction
+aliases: [Expeditious Construction]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Expeditious Construction 
+## Expeditious Construction
 
 **source**:: Arcane Anthology pg. 7  
 **school**:: conjuration (creation) (earth)
 **level**:: arcanist 1, druid 1, hunter 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a handful of earth or stone)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: a low wall 10 feet long per 3 levels (minimum 10 feet) (S)  
@@ -21,7 +23,7 @@ alias: Expeditious Construction
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a low wall or other simple structure of packed earth or loose stone measuring 3 feet thick, 3 feet tall, and 10 feet long per 3 caster levels you possess (minimum 10 feet). Each square of the structure can appear only in unoccupied spaces atop earthen or stone surfaces able to support it. The wall grants cover as per a low wall and can be climbed with a successful DC 5 Climb check. Large and larger creatures don’t need to attempt a Climb check to climb over it.  
   

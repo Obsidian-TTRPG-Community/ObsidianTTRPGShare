@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Robot Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 49
 desc_short: Though corroded and damaged, this bipedal metallic construct moves silently, as though powered by some force other than its own rattling gears.
 ```
-# Description
+## Description
 When robots are damaged beyond the abilities of Numerian technologists to repair, salvages sometimes animate their frames via magic rather than science. What results is more of a walking mechanical corpse that lacks the intelligence and vulnerabilities of a true robot. The arcanists of the Technic League often employ these magically animated constructs to combat rogue robots or those under the control of their enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Robot%20Golem)
 ```encounter-table
 name: Robot Golem

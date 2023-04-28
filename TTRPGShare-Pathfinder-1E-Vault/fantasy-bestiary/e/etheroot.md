@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Etheroot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 233
 desc_short: This leafy bush bears flowers of a variety of shapes and colors, one of which resembles a toothy mouth at the end of a long stalk.
 ```
-# Description
+## Description
 Etheroots feed on emotions and ectoplasm. While the Ethereal Plane contains ample ectoplasm for their needs, etheroots typically burrow their feeding tendrils and roots through to the Material Plane in search of emotional energy. Depending upon its mood and the balance of emotions in its body, an etheroot may offer words of encouragement and beneficial spells, or it may evoke terror instead. Particularly knowledgeable planar travelers may be able to predict an etheroot’s appetites by observing the colors and shapes of its flowers, which represent the emotional auras of the plant’s most recent meals. One of the etheroot’s favorite delicacies are spiritualist’s phantoms, as their rare combination of ectoplasmic bodies and intense emotions make them uniquely flavorful and satisfying.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Etheroot)
 ```encounter-table
 name: Etheroot

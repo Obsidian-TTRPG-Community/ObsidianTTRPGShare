@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Winter Fey (Redcap)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 90
 desc_short: From his snow white beard and blue, frost-covered face to the wicked look in his frozen eyes, this little humanoid betrays a cruelty that only winter itself can match.
 ```
-# Description
+## Description
 Infused with the primal power of winter’s chill, a winter fey possesses the power to freeze its victims with a mere touch. It is said that this wintery power freezes the heart of any normally good fey, corrupting the creature’s nature and infusing it with hatred and spite. While a winter fey is visually recognizable as being a variant of its normal counterpart, its personality is decidedly altered. Whereas most fey are merely capricious and whimsical, winter fey take pleasure in causing pain and suffering. A winter fey is the same size as its normal counterparts, but it typically weighs a bit more because of the ice crusting its body.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Winter%20Fey%20(Redcap))
 ```encounter-table
 name: Winter Fey (Redcap)

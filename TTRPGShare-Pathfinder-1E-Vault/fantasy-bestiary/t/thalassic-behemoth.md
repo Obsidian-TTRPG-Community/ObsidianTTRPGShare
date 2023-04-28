@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thalassic Behemoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 38
 desc_short: Two massive limbs drag the bulk of this whale-like beast’s body from the churning waters of the sea.
 ```
-# Description
+## Description
 Sent by the gods to punish those who dwell near the sea, thalassic behemoths scourge ships and other vessels from the waters before turning their attention toward structures and survivors on land. Despite their massive bulk, thalassic behemoths swim incredibly fast and can easily outpace all but the fleetest of ships. On land, they can be more readily escaped, at least by those willing and able to leave homes and belongings behind. Though capable of surviving indefinitely on land and employing a clumsy, seal-like locomotion, thalassic behemoths soon weary of gravity’s never-ending drag. They rarely venture more than a mile or two from shore before returning to the comforting buoyancy of the seas.
 
 Thalassic behemoths resemble immense sperm whales in the water, but they can quickly haul themselves ashore using their mighty forelimbs. Tail and limb alike shatter wood and stone with but a single blow, while their jaws gape wide enough to swallow smaller boats whole.
 
 The coming of a thalassic behemoth is typically foreshadowed by a dramatic increase in missing ships, strange tides, and the uncanny sight of sea life purposefully beaching upon shores. Thalassic behemoths generally spend much of their time lurking a few hundred feet below the surface-but legends hold that even greater behemoths, the dread leviathans, dwell in the deepest oceanic reaches.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thalassic%20Behemoth)
 ```encounter-table
 name: Thalassic Behemoth

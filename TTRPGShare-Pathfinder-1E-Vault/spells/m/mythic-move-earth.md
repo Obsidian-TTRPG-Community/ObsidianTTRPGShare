@@ -1,19 +1,21 @@
 ---
-alias: Mythic Move Earth
+aliases: [Mythic Move Earth]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Move Earth
+## Mythic Move Earth
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: transmutation (earth)
 **level**:: arcanist 6, druid 6, hunter 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: see text  
 **components**:: V, S, M (clay, loam, sand, and an iron blade)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: dirt in an area up to 750 ft. square and up to 10 ft. deep (S)  
@@ -21,7 +23,7 @@ alias: Mythic Move Earth
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Move earth* moves dirt (clay, loam, sand, and soil), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.  
   

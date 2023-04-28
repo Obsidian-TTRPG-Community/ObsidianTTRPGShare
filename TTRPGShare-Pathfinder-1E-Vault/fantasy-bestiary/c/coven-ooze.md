@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coven Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 86
 desc_short: This eerily disturbing gelatinous blob lumbers forward. Three disembodied eyes float within its mass, seemingly scanning back and forth with each surge of movement. 
 ```
-# Description
+## Description
 Coven oozes result from a hag eye ooze’s conglomeration of multiple hag eyes, often caused by the destruction of a hag coven with a hag eye ooze nearby. With its controller gone, and no one to provide food, the ooze feeds upon its mistress and her coven sisters. Through this consumption, the creation gains some semblance of its creators’ cunning, independent thought, and malignancy. If the coven sisters had hag eyes of their own, the ooze absorbs them into its form. Otherwise, consumption of the coven, with the residual magic of the original hag eye, transforms one eye from each of the hags in the coven into a functional hag eye. 
 
 A coven ooze wanders its creator’s territory, devouring any living organism it comes upon. With their animal intelligence, they use the terrain to their best advantage, often lying in waterways near frequented river crossings. 
 
 Coven oozes are generally 10 feet to a side and weigh roughly 1,500 pounds, although larger specimens have been encountered. When a coven ooze comes across another creature with the ooze subtype, it attempts to engulf and consume it. For every 10 HD of ooze creatures that a coven ooze consumes, its size increases by one step, to a maximum size of Gargantuan. If a coven ooze ever consumes a hag eye ooze, the creator of the hag eye ooze-if a hag-must succeed at a DC 25 Will save or have her connection to the hag eye ooze severed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coven%20Ooze)
 ```encounter-table
 name: Coven Ooze

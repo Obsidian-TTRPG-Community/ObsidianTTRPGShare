@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rishi Manu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 165
 desc_short: This regal, apparently human figure has glowing purple eyes and the grace and f luidity of water given form.
 ```
-# Description
+## Description
 Rishi manus are the shepherds of entire worlds, watching for shifts in the collective consciousness and gently nudging specific individuals of significant power or inf luence toward paths of enlightenment that will affect as many others as possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rishi%20Manu)
 ```encounter-table
 name: Rishi Manu

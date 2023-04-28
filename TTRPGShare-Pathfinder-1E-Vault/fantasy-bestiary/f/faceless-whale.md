@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Faceless Whale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 82
 desc_short: A deep groan at the edge of hearing precedes the appearance of this sightless leviathan, whose pallid body breaks the surface of dark waters without as much as a ripple.
 ```
-# Description
+## Description
 Called “ansiktsloshvals” in Aklo, and sometimes called “Darklands whales,” faceless whales are enigmatic predators of the Sightless Sea rarely encountered elsewhere on Golarion. Like cavefish, faceless whales lost their eyes and pigmentation from countless generations spent living and breeding in the lightless depths. The lack of pigmentation leaves the creatures’ skin little more than a transparent, blubberlined film, with pulsing veins and churning organs visible beneath the silvery membrane. Sailors’ lore from the Sightless Sea claims a faceless whale’s most recent meal shows through the taut skin of its belly.
 
 It is unknown precisely how long faceless whales have inhabited the Sightless Sea. Some legends claim faceless whales began their lives as normal toothed whales that washed into the Darklands during the cataclysm of Earthfall, if not long before. Darker tales contend the faceless whales were driven into the realm of Orv by a coven of powerful sea hags, who robbed the faceless whales of their sight when they refused to teach the hags their potent song.
 
 An adult faceless whale is 70 feet long and weights 90,000 pounds, though some specimens stretch these averages and grow half again as large.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Faceless%20Whale)
 ```encounter-table
 name: Faceless Whale

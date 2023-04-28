@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Capacitor Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 48
 desc_short: Electricity crackles and arcs from this undulating mass of orange slime.
 ```
-# Description
+## Description
 Created by technologists seeking to devise an organic battery, capacitor oozes escaped captivity and now infest the hinterlands of Numeria. They find water dangerous and humidity painful, so they gravitate toward arid climes with stable weather.
 
 Capacitor oozes instinctively seek out sources of electricity, consuming them like other creatures would food. Maintaining vigor and growth requires regular consumption of organic material as well. A capacitor ooze that’s denied power or food begins to starve.
 
 Capacitor oozes grow without bound, splitting only from damage or misfortune. Capacitor oozes that encounter others of their kind often merge if left undisturbed, a process that takes 1d4 hours and may result in a giant or advanced ooze. Capacitor oozes that aren’t inclined to merge disperse, as they find disharmonious electrical auras intolerable.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Capacitor%20Ooze)
 ```encounter-table
 name: Capacitor Ooze

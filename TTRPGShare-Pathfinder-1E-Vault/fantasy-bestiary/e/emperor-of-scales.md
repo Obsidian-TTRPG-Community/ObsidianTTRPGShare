@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Emperor of Scales
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,13 +79,13 @@ sources:
     desc: 82
 desc_short: The air fills with the sound of hissing snakes as a giant, severed snake’s head floats into view, with a gaping mouth and twin fangs dripping virulent poison. Its eyes are milky and blind, but its forked tongue constantly tests the air for fresh scents. Below the head, where a body should be, numerous hissing serpents thrash like tendrils of torn flesh. Blood drips from the severed head, sizzling as it burns like acid through anything it touches.
 ```
-# Description
+## Description
 In the earliest days of the Age of Serpents, when the great serpentfolk empire was young, the serpentfolk were ruled by a single, powerful priest-king. When Ydersius took his rightful place as god of the serpentfolk, he exalted this priest-king above all others, raising the king up to become his foremost servant and herald. With his original name long lost to memory, the first king of the serpentfolk empire became known as the Emperor of Scales.
 
 With Ydersius’s still-living head entombed beneath the earth and his mindless body endlessly wandering the Darklands, the Emperor of Scales is the snake-god’s primary representative on Golarion. Unable to take direct action on his own, Ydersius relies upon his herald to enact his will on the Material Plane. The Emperor of Scales embodies the fall of the mighty serpentfolk empire from its previous heights, and personifies the rage of Ydersius himself, trapped and sundered into two lesser parts. But he also represents the god’s immortality, for even in defeat Ydersius was not slain, and even without a body, the Emperor of Scales still serves.
 
 The Emperor of Scales does not speak, but it can communicate telepathically. Snakes and serpents of all kinds and sizes f lock to the Emperor of Scales, who can enslave them to his will. The Emperor of Scales appears as a giant snake’s head about 20 feet long, and weighs close to 5 tons. His serpentine tendrils extend another 15 feet behind and around his head.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Emperor%20of%20Scales)
 ```encounter-table
 name: Emperor of Scales

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arshea
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
     desc: 110
 desc_short: Blue-gray wings extend over the jeweled bangles and gossamer veils of this androgynous angel.
 ```
-# Description
+## Description
 Arshea is known as the embodiment of irrepressible passion and exultation, and is also named among mortals as the Spirit of Abandon and the Host of Delectation. Their unique form combines the most attractive traits of both femininity and masculinity-seen as such not only by members of the human race, but by those of any species that have an encounter with the empyreal lord. The empyreal lord is of both genders and neither, unfettered by such distinctions. Arshea has no personal realm, instead journeying throughout the celestial realms and the mortal world unpredictably, trailing a wake of beauty, freedom, and sensuality
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Arshea)
 ```encounter-table
 name: Arshea

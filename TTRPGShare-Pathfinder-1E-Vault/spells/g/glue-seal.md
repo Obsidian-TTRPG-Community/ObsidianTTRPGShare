@@ -1,19 +1,21 @@
 ---
-alias: Glue Seal
+aliases: [Glue Seal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Glue Seal 
+## Glue Seal
 
 **source**:: Advanced Class Guide pg. 183  
 **school**:: conjuration (creation)
 **level**:: arcanist 1, bard 1, magus 1, psychic 1, skald 1, sorcerer 1, summoner 1, summoner (unchained) 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one object or one 5-ft. square  
@@ -21,7 +23,7 @@ alias: Glue Seal
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cover a solid surface with a layer of sticky glue. Anyone in the area when the spell is cast must attempt a Reflex save. Those who fail become entangled, but can break free by succeeding at a combat maneuver check or an Escape Artist check as a standard action against the DC of this spell. The area of the spell is considered difficult terrain. A creature moving through the glue must succeed at a combat maneuver check or an Escape Artist check as part of its move action (DC = the spell’s DC). Creatures that fail lose their movement and become entangled in the first square they enter.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Commando Construct
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 36
 desc_short: Moving with the fluid grace of a predatory animal, this large robot’s sports an array of dangerous weaponry.
 ```
-# Description
+## Description
 Commando constructs are elite fighting machines that often operate alone or in small squads. Although they are skilled combatants, these constructs can handle a variety of clandestine activities, including assassination, infiltration, kidnapping, and sabotage. They are most often found wandering the plains of Numeria, or under the service of a local warlord.
 
  The sample commando construct presented here is built using a terraformer robot  as the base creature. See that entry for full descriptions of its base abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Commando%20Construct)
 ```encounter-table
 name: Commando Construct

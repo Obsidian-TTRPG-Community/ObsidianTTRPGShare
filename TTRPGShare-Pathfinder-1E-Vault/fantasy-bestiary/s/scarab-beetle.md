@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scarab Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 5
 desc_short: This glossy blue-black beetle is the size of a cow.
 ```
-# Description
+## Description
 In Osirion, these massive beetles are a threat to ancient tombs as they chew their way through the interred. Some say scarab beetles’ connection with the dead gives them powers greater than those of normal beetles, but any evidence of this has yet to been proven true. Merchants claim powdered scarab is an essential element in magic that protects against death effects.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scarab%20Beetle)
 ```encounter-table
 name: Scarab Beetle

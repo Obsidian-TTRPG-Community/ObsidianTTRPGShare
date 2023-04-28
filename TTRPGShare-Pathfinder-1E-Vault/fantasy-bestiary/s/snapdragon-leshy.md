@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Snapdragon Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 86
 desc_short: Verdant stalks entwine one another to create a humanoid shape with a giant snapdragon blossom for a head.
 ```
-# Description
+## Description
 Whereas most leshys are reclusive and content to quietly nurture the natural world, snapdragon leshys are consummate extroverts. They often find their way into settled areas, where they caper and gab at those around them. When their neighbors are slow to laugh, snapdragon leshys sometimes resort to juvenile pranks to elicit a reaction. These escalating exploits often prompt townsfolk to chase off the plant people, which the leshys are quick to forgive so long as nobody comes to harm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Snapdragon%20Leshy)
 ```encounter-table
 name: Snapdragon Leshy

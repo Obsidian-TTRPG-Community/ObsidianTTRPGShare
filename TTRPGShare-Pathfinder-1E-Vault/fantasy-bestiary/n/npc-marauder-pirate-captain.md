@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Marauder (Pirate Captain)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: GameMastery Guide
     desc: 281
 ```
-# Description
+## Description
 Pirate captains are the deadly mistresses of pirate bands, villainous cutthroats who have cursed, looted, ravaged, betrayed, and carved their way to the top. These steelhanded stingrays lead their crews by sheer force of will. Pirate captains make excellent champion pit fighters and deadly assassins. A pirate captain is usually found with a first mate and a dozen shipmates (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Marauder%20(Pirate%20Captain))
 ```encounter-table
 name: NPC Marauder (Pirate Captain)

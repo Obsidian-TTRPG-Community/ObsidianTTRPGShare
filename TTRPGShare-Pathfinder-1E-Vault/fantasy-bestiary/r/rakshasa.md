@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rakshasa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 231
 desc_short: This figure’s backward-bending fingers and its bestial, snarling visage leave little doubt as to its fiendish nature.
 ```
-# Description
+## Description
 The rakshasa is an evil spirit that cloaks itself in the guise of a humanoid creature that it might walk unseen among its prey. They embody what is taboo among most societies, and in the shape of those it seeks to defile, a rakshasa gorges itself on these hideous acts. Were they human, these acts of cannibalism, blasphemy, and worse would mark them as criminals condemned to the cruelest of hells.
 
 When not disguised as a humanoid, the otherwise humanoid rakshasa has the head of an animal. Often, they possess the heads of great cats (such as a tiger or panther) or a snake (like a cobra or viper), yet other heads are not unknown-apes, jackals, vultures, elephants, mantises, lizards, rhinos, boars, and more are possible. In most cases, the type of head a rakshasa possesses speaks in some way to its personality-a tiger-headed rakshasa is stealthy and ravenous, while a boar-headed one might be gluttonous and crude. These changes rarely impact the rakshasa’s base statistics, although there are more powerful variants of the standard rakshasa that possess multiple heads, more potent spellcasting powers, and additional deadly and unusual special abilities.
 
 Rakshasas scoff at religion-they understand the power of the divine, but see themselves as the only thing worthy of worship from the mortal races. Rakshasa clerics are thus quite rare. Although rakshasas are outsiders, they are also very much creatures of the Material Plane, and many believe the first rakshasas chose this exile over some other role offered them by a long-forgotten god. Although they usually work alone, it isn’t unheard of to find extended families of rakshasas working together to ruin a mortal civilization from the inside out over the course of many generations. A rakshasa is 6 feet tall and weighs 180 lbs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rakshasa)
 ```encounter-table
 name: Rakshasa

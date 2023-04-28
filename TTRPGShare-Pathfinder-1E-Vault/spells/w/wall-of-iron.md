@@ -1,19 +1,21 @@
 ---
-alias: Wall of Iron
+aliases: [Wall of Iron]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Iron 
+## Wall of Iron
 
 **source**:: PRPG Core Rulebook pg. 367  
 **school**:: conjuration (creation)
 **level**:: arcanist 6, magus 6, occultist 6, sorcerer 6, summoner 5, summoner (unchained) 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a small iron sheet plus gold dust worth 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: iron wall whose area is up to one 5-ft. square/level; see text  
@@ -21,7 +23,7 @@ alias: Wall of Iron
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause a flat, vertical iron wall to spring into being. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space.  
   
@@ -31,7 +33,7 @@ If you desire, the wall can be created vertically resting on a flat surface but 
   
 Like any iron wall, this wall is subject to rust, perforation, and other natural phenomena. Iron created by this spell is not suitable for use in the creation of other objects and cannot be sold.
 
-## Mythic Wall of Iron 
+## Mythic Wall of Iron
 
 **source**:: Mythic Adventures pg. 111  
 The wall is 1 inch thick per 2 caster levels. If you create an unattached wall, you can weight it so there is a 75% chance it falls on its own in the direction you want. Subtract 5 from the DC to push it in the direction you want, and add 5 to the DC to push the wall in the other direction.  

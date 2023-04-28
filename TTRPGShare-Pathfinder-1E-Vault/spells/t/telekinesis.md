@@ -1,19 +1,21 @@
 ---
-alias: Telekinesis
+aliases: [Telekinesis]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Telekinesis 
+## Telekinesis
 
 **source**:: PRPG Core Rulebook pg. 357  
 **school**:: transmutation
 **level**:: arcanist 5, magus 5, occultist 5, psychic 4, sorcerer 5, spiritualist 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **Target or Targets** see text  
@@ -21,7 +23,7 @@ alias: Telekinesis
 **saving-throw**:: Will negates (object) or none; see text
 **spell-resistance**:: yes (object); see text
 
-### Description 
+### Description
 
 You move objects or creatures by concentrating on them. Depending on the version selected, the spell can provide a gentle, sustained force, perform a variety of combat maneuvers, or exert a single short, violent thrust.  
   
@@ -41,7 +43,7 @@ Creatures who fall within the weight capacity of the spell can be hurled, but th
   
 If a telekinesed creature is hurled against a solid surface, it takes damage as if it had fallen 10 feet (1d6 points).
 
-## Mythic Telekinesis 
+## Mythic Telekinesis
 
 **source**:: Mythic Adventures pg. 110  
 The duration of this spell changes to 1 round per level. You may spend a move action to use the sustained force or combat maneuver effects of the spell.  

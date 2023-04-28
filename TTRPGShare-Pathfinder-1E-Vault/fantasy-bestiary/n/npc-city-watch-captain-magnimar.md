@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC City Watch Captain (Magnimar)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 54
 desc_short: Confident and careful, this guard captain has a determined gait and wields a crossbow in addition to her fine blades.
 ```
-# Description
+## Description
 Magnimarian watch captains are selected from the ranks of proven city guards and undergo more training than standard troops. Captain Acacia Uriana demands intelligent watch captains, and many are trained in investigative techniques to help solve ongoing crimes throughout the city, as well as to collect valuable evidence that helps determine a suspect’s guilt or innocence. Watch captains train in deadlier weapons than their more common counterparts, and most prefer to wield two blades at a given time; like city guards, however, they prefer to use nonlethal means to handle minor crimes, and are adept at disarming their opponents with their swordbreaker daggers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=City%20Watch%20Captain%20(Magnimar))
 ```encounter-table
 name: NPC City Watch Captain (Magnimar)

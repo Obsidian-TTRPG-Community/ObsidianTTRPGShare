@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deinochos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 251
 desc_short: A fleshy pseudopod tipped with a jawless mouth and ringed by dozens of eyes emerges from a spiny shell along with several hooked legs.
 ```
-# Description
+## Description
 Deinochoses cling like eager remoras to larger qlippoth, traveling across the Abyss and beyond-all the while telepathically goading their host onward. When their ride leaves behind a fresh carcass, one or more deinochoses drop off, feast, and gestate a new generation. The greater the corpse’s mass, the stronger the offspring, and carcasses of powerful creatures can give rise to dozens of the creatures. When there is insufficient food and no free ride, the fiends burrow into the soil and wait for new prey, turning from scavengers into ambush predators. They rarely demonstrate subtlety beyond turning invisible and sneaking close enough to launch a surprise attack. Prey that escapes the qlippoth often leaves a trail of blood and fear that the Abyssal scavengers can track by scent, so as to launch another ambush later.
 
  A deinochos’s shell is about 3 feet across, and the entire creature weighs about 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deinochos)
 ```encounter-table
 name: Deinochos

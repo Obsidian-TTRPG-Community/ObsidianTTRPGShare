@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Chaos Arrow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: NPC Codex
     desc: 203
 ```
-# Description
+## Description
 Often whimsical in their destruction, chaos arrows roam the world playing the cruelest pranks for their own twisted amusement.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Chaos%20Arrow)
 ```encounter-table
 name: NPC Chaos Arrow

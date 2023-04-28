@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Scholar (Archaeologist)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: GameMastery Guide
     desc: 297
 ```
-# Description
+## Description
 An archaeologist is a cunning scholar and explorer of ancient texts and ruins. She is knowledgeable in a wide range of fields, as quick with a quip or quotation as with a blade, bolt, or lash. An archaeologist might partner with a medium to placate the spirits of the dead disturbed in her explorations (CR 7), or supply a traveling merchant with exotic relics (CR 8).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Scholar%20(Archaeologist))
 ```encounter-table
 name: NPC Scholar (Archaeologist)

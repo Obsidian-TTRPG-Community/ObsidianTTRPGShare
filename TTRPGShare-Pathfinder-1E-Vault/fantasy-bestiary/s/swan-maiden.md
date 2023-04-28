@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Swan Maiden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 257
 desc_short: This tall, regal woman is clad in a long cloak of pristine white swan feathers and silvery armor with a winged helm.
 ```
-# Description
+## Description
 Swan maidens are fey shapechangers who vow to protect unspoiled wilds from the encroachment of civilization or evil. They live in small flocks along secluded lakeshores. Because stealing a swan maiden’s cloak robs her of her shapechanging ability, most maidens avoid humanoids and take up armor and weapons to defend themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Swan%20Maiden)
 ```encounter-table
 name: Swan Maiden

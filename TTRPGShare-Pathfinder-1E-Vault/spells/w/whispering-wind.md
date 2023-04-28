@@ -1,19 +1,21 @@
 ---
-alias: Whispering Wind
+aliases: [Whispering Wind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Whispering Wind 
+## Whispering Wind
 
 **source**:: PRPG Core Rulebook pg. 369  
 **school**:: transmutation (air)
 **level**:: arcanist 2, bard 2, inquisitor 2, medium 2, mesmerist 2, psychic 2, redmantisassassin 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 1 mile/level  
 **area**:: 10-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Whispering Wind
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You send a message or sound on the wind to a designated spot. The *whispering wind* travels to a specific location within range that is familiar to you, provided that it can find a way to the location. A *whispering wind* is as gentle and unnoticed as a zephyr until it reaches the location. It then delivers its whisper-quiet message or other sound. Note that the message is delivered regardless of whether anyone is present to hear it. The wind then dissipates.  
   

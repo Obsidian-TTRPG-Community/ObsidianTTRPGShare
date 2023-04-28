@@ -1,19 +1,21 @@
 ---
-alias: Mythic Covetous Aura
+aliases: [Mythic Covetous Aura]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Covetous Aura
+## Mythic Covetous Aura
 
 **source**:: Mythic Origins pg. 12  
 **school**:: abjuration
 **level**:: arcanist 5, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **area**:: 25-ft.-radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Covetous Aura
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Anytime a harmless (so noted by a spell’s saving throw description) spell of 3rd level or lower is cast within a *covetous aura’s* area of effect, you may choose to immediately gain the benefit of that spell as if it had also targeted you. The intended target still gains the effect of the spell. You gain the benefits of this duplicated spell only if the caster is in range of the *covetous aura*. Each time a *covetous aura* duplicates a spell effect, the remaining duration of the *covetous aura* is reduced by a number of rounds equal to the spell level of the spell effect that is duplicated.
 

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leng Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 180
 desc_short: This unnatural beast’s clawed hands dangle in front of its hind paws. Its bat-winged form blends humanoid features with canine.
 ```
-# Description
+## Description
 Leng hounds hail from the nightmare plateau of Leng, where they haunt its eternity-old ruins. They are most often beckoned to the Material Plane to serve as guardians of grave sites, a duty they eagerly perform in exchange for the opportunity to feast upon the dead things elsewhere in the cemetery. Leng hounds prefer to lurk inside the coffins they guard, rearranging their bodies into skeletal shapes. 
 
 A Leng hound can be contacted by a contact entity III spell. The caster must provide a corpse with grave goods worth at least 2,000 gp for the Leng hound to guard. 
 
 A Leng hound is 7 feet tall but weighs only 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leng%20Hound)
 ```encounter-table
 name: Leng Hound

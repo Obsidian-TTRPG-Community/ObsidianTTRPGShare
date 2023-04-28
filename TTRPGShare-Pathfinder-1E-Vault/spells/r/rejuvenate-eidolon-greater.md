@@ -1,19 +1,21 @@
 ---
-alias: Rejuvenate Eidolon, Greater
+aliases: [Rejuvenate Eidolon, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rejuvenate Eidolon, Greater 
+## Rejuvenate Eidolon, Greater
 
 **source**:: Advanced Player's Guide pg. 238  
 **school**:: conjuration (healing)
 **level**:: summoner 5, summoner (unchained) 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of your blood)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: eidolon touched  
@@ -21,6 +23,6 @@ alias: Rejuvenate Eidolon, Greater
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as *lesser rejuvenate eidolon*, except that it cures 5d10 points of damage +1 point per caster level (maximum +20).

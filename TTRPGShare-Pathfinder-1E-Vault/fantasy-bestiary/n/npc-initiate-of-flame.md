@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Initiate of Flame
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
   - name: NPC Codex
     desc: 62
 ```
-# Description
+## Description
 These hostile guardians of volcanic mountain regions have tempers to match their fiery environs, and tolerate no intruders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Initiate%20of%20Flame)
 ```encounter-table
 name: NPC Initiate of Flame

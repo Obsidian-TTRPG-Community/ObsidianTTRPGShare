@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ahkhat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 80
 desc_short: The materials of the building stretch and pull as if elastic, taking on the form of an earthen humanoid with thick stony arms.
 ```
-# Description
+## Description
 An ahkhat is an elemental entity that dwells within a single building or structure. An ahkhat exists solely to maintain and protect that structure. Far from a mere butler, an ahkhat is a structure’s consciousness incarnate.
 
 Ahkhats are bound and attuned to their structures via a special keystone, usually a heavy stone block. The keystone must be part of a structure’s foundation or cornerstone, or an actual keystone within an arch. The keystone is typically carved with an icon of a humanoid figure, beneath which is written the ahkhat’s name. Anyone in possession of or touching the keystone who speaks the name can attempt to compel the ahkhat to do his will, including forcing the ahkhat inside the keystone to accept residence in a new structure, though ahkhats moving to new buildings prefer to have their original stones moved as well.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ahkhat)
 ```encounter-table
 name: Ahkhat

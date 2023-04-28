@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duppy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 48
 desc_short: This floating, ghostly humanoid’s face is a blend of human and beast. Canine shapes twine around the creature’s legs.
 ```
-# Description
+## Description
 A duppy is the spirit of a cruel and brutal sailor who died by violence on land, away from his ship and crew, and thus was unable to receive a proper burial at sea. While its ghostly form is evidence enough of its twisted hatred, a duppy also possesses power over a pack of faithful, otherworldly hounds that share in their master’s malevolence. The appearance of a duppy is often preceded by the distant sound of unearthly howling.
 
 Duppies typically seek out sailors and pirates when exacting their vengeance, inflicting great violence on those living creatures who remind them of what they lost. For this reason, duppies are most often found in seaside towns or nearby beaches, and settlements that rely on the ocean know to fear and hate these spectral beings.
 
 Though a duppy’s incorporeal form ensures that it can’t be captured by mundane means, those who do manage to trick a duppy into a magical trap are wise to keep the horror confined until the daytime, when its otherworldly abilities are hindered and it can be more easily defeated. Some tales claim that duppies arise near the treasures they buried while they were still alive, and ambitious sailors who buy into these stories might attempt to capture a duppy. However, few creatures can muster powers strong enough to cage a duppy, whose hounds confound enemies and allow the ghostly monster to attack victims from all sides.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duppy)
 ```encounter-table
 name: Duppy

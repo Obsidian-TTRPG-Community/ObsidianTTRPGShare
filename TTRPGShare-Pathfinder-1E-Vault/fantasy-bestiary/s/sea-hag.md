@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 243
 desc_short: Hair like rotting seaweed drapes this ancient witch. Loose, algae-colored skin sags off her starved frame.
 ```
-# Description
+## Description
 Monstrous sea witches, these wicked hags possess terrifying features that few dare look upon. Reveling in discord, the foul creatures drag sailors to watery graves and torment the peoples of the oceans with wicked promises. Sea hags are always terrible to look upon, and despite their gluttonous ways, they are usually emaciated creatures who look half-starved. Most stand about 6 feet tall and weigh 150 pounds.
 
 Sea hags prefer to dwell relatively close to shore where fishermen and trading vessels are more commonly encountered. Most choose to live far from urban areas so that their acts don’t draw as much attention from would-be enemies, but it’s not uncommon for a particularly brave or eager sea hag to settle in a city harbor or in the mouth of a deep river.
 
 Sea hags form covens similar to other hags, but their aquatic nature generally keeps them from forming mixed covens. In the case of a shoreline-dwelling green hag (often a green hag who dwells in a saltmarsh or other coastal swampland), a coven often consists of two sea hags who look to the green hag as their mother and leader. More commonly, a sea hag coven consists of a group of particularly friendly and sisterly sea hags.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Hag)
 ```encounter-table
 name: Sea Hag

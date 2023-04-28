@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vouivre
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 88
 desc_short: One half of this creature is a nude woman, and the other is the front end of a slithering, winged dragon.
 ```
-# Description
+## Description
 A vouivre is a deceptive and monstrous predator that looks like a humanoid woman from the waist up and the front end of a green-scaled dragon from the waist down. It shuns the company of its own kind, preferring evil fey (particularly water-dwelling ones such as nixies) for intelligent conversation and mundane snakes for companionship. A vouivre is 12 feet long from head to head, weighs 500 pounds, and can live 200 years.
 
 Vouivres make their homes in small caves near calm waters. They like to decorate their lairs with shiny coins, jewelry, and bright silks. One might place some of its treasure in the water outside to lure in curious humanoids, and bathe in these waters as a further enticement, hiding its reptilian half until prey is within striking distance. Because a vouivre can breathe water or air (from either head), it often grabs a creature, then retreats underwater to wait for the opponent to drown. It prefers humanoid flesh, but will feed on any available warm-blooded prey. Vouivres have an affinity for music, and their magic is often accompanied by singing or subtle musical vibrations from their scales.
 
 When a vouivre dies, its dragon head disgorges a 2-foot-diameter glassy egg. After around 6 weeks, the egg hatches into one or two vouivres, which take 7 years to reach maturity. These offspring resemble humanoids the mother has eaten, so it prefers to feast on attractive and strong victims. The young also adapt to the appearance of nearby reptilian creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vouivre)
 ```encounter-table
 name: Vouivre

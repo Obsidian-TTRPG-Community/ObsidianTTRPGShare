@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rune Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 29
 desc_short: A carved rune detaches itself from the wall and floats silently in midair, glowing with arcane energy.
 ```
-# Description
+## Description
 Rune guardians are animated constructs from ancient Thassilon, created by the runelords to guard laboratories, ossuaries, and repositories of lore. Each rune guardian is dedicated to one of the seven rewards of rule (now known as the seven sins of the soul), and empowered with that sin’s associated school of magic. As such, there are seven varieties of rune guardian, each recognizable by its shape-that of the Thassilonian rune representing that specific sin and arcane school. (The Thassilonians did not consider divination a separate school). Unlike golems, rune guardians are intelligent, able to follow complex orders and pursue intruders. They were built to coordinate with other servants of the runelords-for example, an envy guardian’s hold portal ability is more dangerous when used to lock someone in a room with a servitor monster.
 
 A rune guardian is approximately 1 foot in diameter and weighs around 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rune%20Guardian)
 ```encounter-table
 name: Rune Guardian

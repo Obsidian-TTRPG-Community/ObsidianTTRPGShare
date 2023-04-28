@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampiric Mist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 277
 desc_short: A cloud of crimson vapor reeking of fresh blood hangs in the air, reaching out with lashing claws.
 ```
-# Description
+## Description
 Often mistaken for a vampire in gaseous form or an unusual type of air elemental, the vampiric mist is in fact a strange form of aberrant life. With an amorphous body that consists as much of fluid as it does of air, this creature dwells in swamps or moist underground regions where its vulnerability to heat isn’t as much of a concern.
 
 Although somewhat intelligent, vampiric mists do not form societies. They sometimes form into small gangs, but even then they show little interest in working together. Much of a vampiric mist’s time is spent seeking prey-a pursuit that the monster often shows great creativity in accomplishing. The creatures’ propensity for taking on vague, skeletal forms of the creatures whose blood they drink only further adds to their mystique and fuels rumors that they have connections to the undead. Indeed, many vampiric mists enjoy using this common misconception to their advantage, causing foes to use foolish tactics-such as tricking spellcasters into using positive energy against them as if they were undead monsters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampiric%20Mist)
 ```encounter-table
 name: Vampiric Mist

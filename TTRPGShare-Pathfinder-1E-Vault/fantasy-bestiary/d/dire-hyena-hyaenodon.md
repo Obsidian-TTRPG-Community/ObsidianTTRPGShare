@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Hyena (Hyaenodon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 179
 desc_short: This large hyena has a thick head, rheumy red eyes, and a mouth filled with sharp, powerful teeth.
 ```
-# Description
+## Description
 Dire hyenas (known to many as hyaenodons) are more fearsome than their smaller cousins. While hyaenodons won’t turn down carrion as a handy meal, they much prefer to hunt for prey. A pack of dire hyenas rarely stops moving and hunting for anything other than sleep, mating, or food. Hyaenodons are 6 feet tall at the shoulder and often over 12 feet long. They weigh 900 pounds.
 
 Gnolls have been known to train hyaenodons to serve in their lairs as guardians, or more commonly as fearsome mounts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Hyena%20(Hyaenodon))
 ```encounter-table
 name: Dire Hyena (Hyaenodon)

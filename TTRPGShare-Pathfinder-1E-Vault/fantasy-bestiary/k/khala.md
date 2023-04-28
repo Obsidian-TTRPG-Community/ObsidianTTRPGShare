@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Khala
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 59
 desc_short: This dragon has broad, ragged wings. Its serpentine body ends in three long, f lailing necks with hissing, triangular heads.
 ```
-# Description
+## Description
 It is rumored that khalas were a breed of rare amphibious dragon, warped through evil and wintry magic from proud creatures into voracious and wicked things that delight in the suffering of others. The creature ambulates like a snake, slithering along the ground or through the boughs of trees with its wings drawn close to its body, but it prefers f light whenever possible. All khalas are female, and scholars debate how the creatures procreate. It is believed that the males of the species, known in legend as the zmeys, were wiped out in a war with the khalas.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Khala)
 ```encounter-table
 name: Khala

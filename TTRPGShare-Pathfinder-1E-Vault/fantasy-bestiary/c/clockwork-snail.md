@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Snail
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 62
 desc_short: The torso of this constructed gastropod is elongated and eerily humanoid. Smog pours from the shell-like posterior of the machine, while toxic green ooze courses through its translucent pipes.
 ```
-# Description
+## Description
 Although their upper bodies resemble the clockwork soldiers from which their forms were no doubt inspired, these mechanical monstrosities are in fact a horrific blend of gastropod and clockwork, fusing the cruelest aspects of calculated war machinery and the foul influence of eidite. A clockwork snail is 12 feet tall and weighs 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Snail)
 ```encounter-table
 name: Clockwork Snail

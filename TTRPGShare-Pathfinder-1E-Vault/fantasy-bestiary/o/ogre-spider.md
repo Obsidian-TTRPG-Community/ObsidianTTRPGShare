@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogre Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 254
 desc_short: This towering spider is the size of an elephant. Its legs have spiky joints and its face looks vaguely, but disturbingly, humanoid.
 ```
-# Description
+## Description
 Ogre spiders are brutal, terrifying hunters that spin tangled webs capable of encasing entire trees. So-named because the arrangement of its eyes and mandibles gives it a face unnervingly similar to that of an ogre as much as for their size, ogre spiders can fit into nooks and tunnels far more narrow than one might expect.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogre%20Spider)
 ```encounter-table
 name: Ogre Spider

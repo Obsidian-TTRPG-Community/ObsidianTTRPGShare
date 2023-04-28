@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Argent Warden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 228
 desc_short: This silver-armored knight moves with precision and poise. Gaps in its armor reveal nothing but glowing golden light within.
 ```
-# Description
+## Description
 In Heaven’s war against Hell, the argent wardens are always present. Each a suit of armor given life in celestial forges, the argent wardens are constructed to oppose diabolism.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Argent%20Warden)
 ```encounter-table
 name: Argent Warden

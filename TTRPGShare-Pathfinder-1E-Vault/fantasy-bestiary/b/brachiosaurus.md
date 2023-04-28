@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brachiosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 83
 desc_short: A long tail counterbalances this reptile’s equally long neck, at the end of which a relatively small head pulls food from the treetop.
 ```
-# Description
+## Description
 A brachiosaurus is 80 feet long and weighs 32 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brachiosaurus)
 ```encounter-table
 name: Brachiosaurus

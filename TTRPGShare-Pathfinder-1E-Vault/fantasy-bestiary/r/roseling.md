@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Roseling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 243
 desc_short: This small plant is shaped vaguely like a human with a rose blossom for a head and soft, petallike wings fluttering from its shoulders.
 ```
-# Description
+## Description
 Roselings are often found in Shelyn’s divine realm. A roseling’s petal color reflects its personality: pink roselings are gentle, red roselings are passionate, white roselings are shy, yellow roselings are gregarious, and the rare blue roselings are transcendent and often more powerful than their kin, having class levels or the advanced creature template.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Roseling)
 ```encounter-table
 name: Roseling

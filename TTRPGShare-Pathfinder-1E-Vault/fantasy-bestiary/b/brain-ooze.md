@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brain Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 43
 desc_short: Two slimy tentacles protrude from the sides of this brain-shaped mass of quivering ooze.
 ```
-# Description
+## Description
 A brain ooze (sometimes known as a “killer brain”) resembles almost precisely the raw brain of a human, save for the eldritch energy surrounding it and the twin tentacles extending from its sides. The creature’s thought patterns are unusually powerful, and cause painful mental feedback in the minds of other conscious beings.
 
 Other intelligent beings are nothing more than cattle and playthings to brain oozes-victims to be tormented, thought patterns to be consumed. Brain oozes prefer to manipulate their prey from the shadows. Rather than assaulting openly, they provoke fights and conflict within groups, or lure one or two victims away for the kill. Brain oozes derive particular satisfaction from forcing an individual to commit terrible acts, then wiping away all knowledge of the crimes from the victim’s memory. They torment such hapless puppets again and again, forcing them to commit ever greater atrocities. Once weary of their sport they return the modified memories with dispel magic, and feast upon the delicious misery of the victim’s final despair.
@@ -69,7 +71,7 @@ Other intelligent beings are nothing more than cattle and playthings to brain oo
 Brain oozes feed through their tentacles by extracting the thoughts of living creatures. Animals and less intelligent creatures provide little nourishment, but they prize fey, outsiders, and spellcasters as delicacies. After several feedings, a brain ooze divides into two nearly identical brains, each retaining only a portion of the knowledge and experiences of the parent.
 
 The similarities between intellect devourers and brain oozes have not gone unnoticed, but the two species appear to have little in common beyond appearance. Some theorize that brain oozes are actually the result of an ancient race’s failed attempt to achieve immortality by preserving their minds via alien technology or magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brain%20Ooze)
 ```encounter-table
 name: Brain Ooze

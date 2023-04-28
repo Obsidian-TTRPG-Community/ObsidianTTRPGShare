@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rahstalshan, Stone Giant Elder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 50
 desc_short: This sagely stone giant wears loose furs and a long cloak, and wields a large stone club covered with crystals.
 ```
-# Description
+## Description
 Rahstalshan was scarcely old enough to speak when her parents and clan were slain by a tribe of raiding Mammoth Lord Kellids. The raiders tried to take the young stone giant to raise as their own, but she narrowly escaped their clutches, fleeing deep into the Tusk Mountains, orphaned and alone. For the next 700 years, she wandered throughout the peaks of Avistan, staying brief ly with each stone giant clan she met along the way. From the Tusks to the Mindspins she roamed, though she was inevitably drawn to leave each new tribe soon after she discovered them. During these journeys she claimed her giant name, Rahstalshan, “the wanderer in stone.”
 
 Despairing of ever finding a true home, Rahstalshan felt the pull of the towering Kodar Mountains. Choosing a peak at random, she climbed and climbed, heedless of the biting cold. Near the mountain’s top she found an inviting cave overlooking the sprawling lands of the frozen north. Though she had no way of being sure, the ancient stone giant felt that these mountains were her true homeland. Settled in her cave, at peace, she waited for death to take her. Instead, for the first time in her long life, she heard the whispers in the stone, awakening within her the ancient earth magic of her people. She descended from the heights and soon came upon a fledgling tribe of stone giants, bereft of an elder and as lost as she had been. She has guided their path ever since.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rahstalshan%2C%20Stone%20Giant%20Elder)
 ```encounter-table
 name: Rahstalshan, Stone Giant Elder

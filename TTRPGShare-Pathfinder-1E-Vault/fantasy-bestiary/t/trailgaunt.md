@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trailgaunt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 28
 desc_short: This filthy, pallid figure lurches forward as if it were not entirely in control of its twitching limbs.
 ```
-# Description
+## Description
 The dreaded trailgaunt is a form of undead that plagues regions where travelers have long trod the roads. Legends hold that trailgaunts rise from the remains of seasoned travelers who became lost and then perished from exposure or starvation, suffering great shame and humiliation to have come to such unexpected and lonely ends in addition to their physical torment. Trailgaunts seek travelers to avenge themselves upon and are driven to feast upon the feet of those they slaughter, often leaving the maimed bodies to rise as new trailgaunts with the setting of the next sun. Trailgaunts with intact feet are rare, yet even those fortunate enough to retain all their toes are slow and clumsy. 
 
 Trailgaunts are particularly feared in nomadic societies, and stories of how these undead creatures relentlessly stalk those who commit crimes are popular. The most common tales focus on a hunter who abandons a partner in the wild and then prospers on the profits of the hunt for a year before the betrayed partner finally catches up to the traitor and kills him as he sleeps. Many variations on this tale exist, but they inevitably revolve around themes of treachery and relentless pursuit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trailgaunt)
 ```encounter-table
 name: Trailgaunt

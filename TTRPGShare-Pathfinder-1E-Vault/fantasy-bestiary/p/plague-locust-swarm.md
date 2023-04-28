@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plague Locust Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 88
 desc_short: Buzzing with an ear-shattering drone, this cloud is full of particularly vicious-looking locusts.
 ```
-# Description
+## Description
 Locust swarms can be found throughout Golarion, but the desert lands of Osirion host one of the most destructive types: plague locusts. Swarms of plague locusts can strip acres of crops bare in an hour, and can depopulate small villages in a day as they move through and devour everything in sight.
 
 Not only do these ravenous pests rend flesh and savage crops, but they also are noted for destroying buildings and other property. Plague locust bites can scour tiles off roofs and weaken the exposed support beams of sheds and stables (to say nothing of what they do to the camels, goats, and horses within). Osirians thank the gods that plague locust swarms are rare and only stream through in large numbers every few years.
 
 Plague locust swarms in other regions are considered to be the work of the demon lord Deskari, especially those found in the northern reaches of Avistan.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plague%20Locust%20Swarm)
 ```encounter-table
 name: Plague Locust Swarm

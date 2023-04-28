@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Black Magga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 88
 desc_short: This enormous creature’s serpentine neck supports a leering reptilian head-its body is a wriggling mass of tentacles. 
 ```
-# Description
+## Description
 Black Magga is one of the favored servants of Lamashtu and an embodiment of the goddess’s reign over beasts, monsters, and madness. As an unholy auger of her will, Black Magga originally sought to confound the works of the civilized world, spread fear of monsters and the wilds, and direct Lamashtu’s lesser servants in acts of depravity and bloodshed. Black Magga arrived in the Storval Deep not long after Karzoug flooded the immense quarry, and her presence in the newly formed lake brought much misery and dread to the Thassilonians who dwelt on the lake’s shores or sailed its surface. Karzoug’s interest in the region waned quickly, and he never bothered to take steps against the monster, prompting many to whisper that the runelord made a bargain with Lamashtu to place the monster in the Storval Deep, perhaps to hide some sort of great secret he had sunk beneath the waters. In any event, it was said that the goddess spoke directly to Black Magga, and for many, the words of the monster were equal to the commands of Lamashtu herself. 
 
 Bearing a head like a plesiosaur atop a thrashing mass of tentacles and eyes, Black Magga is an immense creature indeed. Although she is effectively immortal until slain, she has spent many of the more than 10,000 years since she first came to Varisia in deep hibernation. These slumbers could last for a dozen centuries or more at a time, and are punctuated by relatively short periods of activity that generally last for only a few decades. These long periods of sleep have had something of a debilitating effect on Black Magga, for with each century of slumber, she grows weaker. She is now but a shadow of her original power. That she remains as powerful as she does today speaks volumes to the terrible wrath she must have possessed back during the height of Thassilon, before the advent of Earthfall changed everything.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Black%20Magga)
 ```encounter-table
 name: Black Magga

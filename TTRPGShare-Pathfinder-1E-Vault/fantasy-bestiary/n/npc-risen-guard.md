@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Risen Guard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 61
 desc_short: This warrior’s armor resembles the carapace of a mighty beetle. She wields a khopesh in one hand and a large shield in the other.
 ```
-# Description
+## Description
 The warriors of the Risen Guard are the elite bodyguards and champions of the pharaohs of Osirion. Each has been raised from the dead by order of the pharaoh, which they hold as a mark of high honor; the most honored are those revived by a pharaoh’s own hand. In gratitude, Risen Guards swear to defend the monarch with their renewed lives. Distinguished in Osirian society, especially when defending a popular ruler, Risen Guards can call upon assistance from many quarters.
 
 Risen Guards usually patrol the pharaoh’s palace in squads of three, guard his person in security details of 24 or more, or lead groups of other guards in maintaining pharaonic property that the pharaoh is not currently using. In addition to defending the pharaoh, Risen Guards also look after the throne’s household and guests. Thus, an escort of three to 12 guards is likely to be found around any visiting dignitary or Ruby Prince Khemet III’s twin younger siblings, Ojan and Jasilia. Both twins are fond of exploring the forgotten wonders of Osirion’s desert, and up to six squads of Risen Guards are immediately dispatched to track them down when they slip off on their own to conduct field research. Some Risen Guards also collaborate with the city guard of Sothis or safeguard certain interests of national security.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Risen%20Guard)
 ```encounter-table
 name: NPC Risen Guard

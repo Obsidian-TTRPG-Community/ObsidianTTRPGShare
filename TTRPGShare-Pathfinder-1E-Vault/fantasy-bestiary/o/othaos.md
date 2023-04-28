@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Othaos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 10
 desc_short: Four limbs-two black and two white-reach out from a swirling vortex of pulsing light and deep darkness.
 ```
-# Description
+## Description
 Enigmatic and ephemeral, othaoses are stewards of the balance between light and darkness. Othaoses seek out supernatural sources of light and dark that unnaturally prolong exposure to one or the other and work to restore the natural order. They may be encountered studying sources of light or observing large objects casting shadows-they’re just as likely to assist in the repair of a light source as they are to seek the destruction of an object casting too much shadow. These aeons also scout for breaches between the Material Plane and the Plane of Shadow, seeking to mend these rifts whenever possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Othaos)
 ```encounter-table
 name: Othaos

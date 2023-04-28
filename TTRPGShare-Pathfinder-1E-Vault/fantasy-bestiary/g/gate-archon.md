@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gate Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -87,9 +89,9 @@ sources:
     desc: 35
 desc_short: This masked humanoid being has wings and armor of rune-carved gray stone, and its eyes glow blue.
 ```
-# Description
+## Description
 Gate archons stand in silent vigils over interplanar portals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gate%20Archon)
 ```encounter-table
 name: Gate Archon

@@ -1,19 +1,21 @@
 ---
-alias: Animate Rope
+aliases: [Animate Rope]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Animate Rope 
+## Animate Rope
 
 **source**:: PRPG Core Rulebook pg. 242  
 **school**:: transmutation
 **level**:: arcanist 1, bard 1, mesmerist 1, psychic 1, redmantisassassin 1, skald 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one rope-like object, length up to 50 ft. + 5 ft./level; see text  
@@ -21,7 +23,7 @@ alias: Animate Rope
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can animate a nonliving rope-like object. The maximum length assumes a rope with a 1-inch diameter. Reduce the maximum length by 50% for every additional inch of thickness, and increase it by 50% for each reduction of the rope's diameter by half.  
   

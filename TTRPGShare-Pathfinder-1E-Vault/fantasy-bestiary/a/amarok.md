@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Amarok
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 17
 desc_short: This enormous black wolf’s eyes gleam with a cunning intellect, and its fangs glow with the light of a cold moon.
 ```
-# Description
+## Description
 These powerful, wolflike creatures live in northern forests and on the vast, open tundra. Amarok are typically 12 feet long with midnight-black fur. Their eyes and sharp teeth glow with the color of moonlight, and their tails are longer and much more flexible than those of wolves. Unlike wolves, amaroks hunt alone, coming together only to breed and raise cubs. Amaroks are great hunters, and legends say nothing remains concealed from their gazes. When fighting, they rush forth and use their jaws to rip out the throats of their prey or attack their enemies’ souls.
 
 Amaroks don’t hunt people for food, but they relish the thrill and strategy of the chase, and enjoy teaching lessons to those who foolishly hunt alone at night. The amaroks stalk hunters, then attack suddenly from the shadows. They bring their prey to the edge of unconsciousness, then depart back into the woods. Those who seek to improve their hunting techniques after these harrowing encounters earn the amaroks’ approval, and amaroks are excellent, if harsh, instructors of stalking, tracking, and wrestling techniques. They are also implacable foes of those who commit the one act they cannot forgive-a foolish person who slays an amarok’s pups faces a swift and brutal death at the amarok’s jaws.
 
 An amarok is 29 feet from nose to the tip of its tail, stands 9 feet high at the shoulder, and weighs 9 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amarok)
 ```encounter-table
 name: Amarok

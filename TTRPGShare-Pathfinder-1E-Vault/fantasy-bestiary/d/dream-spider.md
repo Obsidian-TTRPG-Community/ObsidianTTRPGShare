@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dream Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 82
 desc_short: The size of a human child, this shimmering spider has a blue-and- purple-striped belly.
 ```
-# Description
+## Description
 Transplants from the Mwangi Expanse (where these spiders can grow to truly enormous proportions), dream spiders have become a significant but valuable infestation in Korvosa’s Shingles, for the venom of one of these spiders can be distilled into the popular but dangerous drug known as shiver.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dream%20Spider)
 ```encounter-table
 name: Dream Spider

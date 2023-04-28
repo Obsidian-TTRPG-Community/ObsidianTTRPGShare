@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Mirage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 58
 desc_short: A glimmering vision shimmers on the horizon, the very air coalescing into an oasis that may or may not exist.
 ```
-# Description
+## Description
 A living mirage is a cloud of shimmering air that dwells in warm and cold deserts and calm stretches of open ocean. Although those who have lost loved ones to living mirages revile them as cruel deceivers, living mirages are in fact mindless, without any motive beyond feeding on the water and minerals found in living bodies. They manage to show hallucinations of what a victim desires not because of any intelligence on the living mirage’s part, but because the victim’s own mind generates the illusions.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Mirage)
 ```encounter-table
 name: Living Mirage

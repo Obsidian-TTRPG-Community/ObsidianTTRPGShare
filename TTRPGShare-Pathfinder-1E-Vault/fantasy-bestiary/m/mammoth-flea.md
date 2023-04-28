@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mammoth Flea
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 99
 desc_short: This mammoth flea is size of a horse. Its legs dangle awkwardly from its great, swollen body armored entirely in disfigured plates.
 ```
-# Description
+## Description
 Mammoth fleas are fierce predators. They require vast amounts of blood to survive, though once full, they can survive for months before needing to feed again. For this reason, they seek larger prey like cows and horses, and plague agrarian communities that raise herd animals. A mammoth flea’s bite is excruciatingly painful, and leaves behind a raised, ringshaped scar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mammoth%20Flea)
 ```encounter-table
 name: Mammoth Flea

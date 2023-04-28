@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Painajai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 19
 desc_short: The eight spider eyes of this pale, towering humanoid glisten hungrily, and its mouth contains dozens of sharp teeth. It carries a barbed spear with a long, clinking chain attached to its end.
 ```
-# Description
+## Description
 Lamashtu created the painajai demons to haunt mortal dreams and watch their nightmares, as well as to hunt lone uinuja azatas (see page 9). Though painajais far outnumber uinujas, the demons’ inability to cooperate keeps them from gaining the upper hand in their eternal struggle. These demons also indiscriminately attack anyone crossing their path, including dream travelers and other painajais, and only an overseer of overwhelming strength can prevent them from doing so. Painajais speak in a throaty and resonating voice that seems to abrade any ear upon which it falls. They grind their sharp teeth compulsively, sometimes on purpose to unnerve their opponents, and may even chew on the insides of their cheeks to produce a bloody, filthy froth.
 
 Painajais stand 10 feet tall and weigh about 800 pounds. These demons form from the souls of mortals whose cruel deeds have caused nightmares in other people.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Painajai)
 ```encounter-table
 name: Painajai

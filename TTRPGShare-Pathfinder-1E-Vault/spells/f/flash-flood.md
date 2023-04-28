@@ -1,19 +1,21 @@
 ---
-alias: Flash Flood
+aliases: [Flash Flood]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Flash Flood 
+## Flash Flood
 
 **source**:: Wilderness Origins pg. 27  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 6, druid 6, hunter 6, shaman 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (water-smoothed pebble)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped burst  
@@ -21,7 +23,7 @@ alias: Flash Flood
 **saving-throw**:: Reflex partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You call forth a fast-moving wave that batters all creatures in its path and leaves the target area flooded. Each creature in the area must succeed at a Reflex save or take 1d6 points of bludgeoning damage per 2 caster levels (maximum 10d6). The wave also attempts a bull rush combat maneuver against all creatures of any size within its area of effect. Attempt a single combat maneuver check and apply the result to each creature within the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush attempt doesn’t provoke attacks of opportunity.  
   

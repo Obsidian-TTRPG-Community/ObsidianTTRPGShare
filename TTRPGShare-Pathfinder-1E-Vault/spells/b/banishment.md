@@ -1,19 +1,21 @@
 ---
-alias: Banishment
+aliases: [Banishment]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Banishment 
+## Banishment
 
 **source**:: PRPG Core Rulebook pg. 246  
 **school**:: abjuration
 **level**:: arcanist 7, cleric 6, inquisitor 5, oracle 6, psychic 7, shaman 6, sorcerer 7, spiritualist 6, summoner 5, summoner (unchained) 6, warpriest 6, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (see text)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one or more extraplanar creatures, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Banishment
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A *banishment* spell is a more powerful version of the *dismissal* spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.  
   

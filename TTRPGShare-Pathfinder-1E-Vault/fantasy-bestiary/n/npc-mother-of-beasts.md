@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mother of Beasts
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: NPC Codex
     desc: 51
 ```
-# Description
+## Description
 The mother of beasts serves the goddess of madness and monsters. She looks after horrible creatures and summons extraplanar beings to defend herself and her pets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mother%20of%20Beasts)
 ```encounter-table
 name: NPC Mother of Beasts

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juggerloathe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 62
 desc_short: This massive spiked creature has smoking black pits for eyes, an enormous maw, and a tail that appears to be an armored cobra.
 ```
-# Description
+## Description
 The seemingly unstoppable spawn of a bulette of massive size and Yethazmari (Lamashtu’s herald; see page 99 of Pathfinder Campaign Setting: Inner Sea Gods), the Juggerloathe is 50 feet from its nose to the base of its tail, and weighs slightly more than 100 tons. It has been a living legend among the tribes of Belkzen for centuries. Although it’s seemingly content to remain hidden in its lair within the Mindspin Mountains, the creature is sometimes driven out onto the plains by hunger. Entire tribes have been known to disappear into its gullet, and it leaves only desolation and fiendishly warped undead in the wake of its rampages.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juggerloathe)
 ```encounter-table
 name: Juggerloathe

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bugbear Tyrant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
   - name: Monster Codex
     desc: 27
 ```
-# Description
+## Description
 Though he draws other bugbears to follow him by his charismatic presence, a bugbear tyrant truly makes his legend by defeating and torturing other creatures. Bugbears care far less about gaining territory or forcing surrender than they do about inflicting pain and collecting heads. They’re quick to recognize and appreciate the cruelty in an antipaladin’s heart, and the supernatural ability to inflict pain on others that he brings to bear.
 
 The tyrant doesn’t reserve his violence for enemies of the bugbear race. It doesn’t take much for him to turn on his underlings and slice them up for fun, especially if he’s growing bored.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bugbear%20Tyrant)
 ```encounter-table
 name: Bugbear Tyrant

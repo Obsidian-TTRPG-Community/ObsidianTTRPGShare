@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Guecubu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 145
 desc_short: A skeletal carcass pulls itself from the ground, its body formed as much from earth and soil as from bones and rotting flesh.
 ```
-# Description
+## Description
 Often when a particularly evil criminal is executed, suspicious folk fear that the criminal’s remains might rise from death to continue to plague the living. To combat this possibility, many mobs or rural justices take to the practice of burning the bodies, grinding the bones, and scattering the remains in the wild. Yet in the case of particularly evil criminals, even these steps are in vain, for their will is enough to reassemble a body from earth, stone, roots, and plants drawn from the region into which the remains were scattered. Such an undead horror rises as a guecubu, a harbinger of misfortune and vengeance from beyond the grave.
 
 A newly formed guecubu remembers well how its enemies treated it, and while the undead creature retains none of its previous life’s talents, its undead state grants it many new tools to seek revenge with. Typically, a guecubu does not limit its revenge to those directly involved with its execution-entire villages and towns fall victim to its rage. The guecubu’s tactics tend toward the subtle, and it seeks to spread misfortune and death on a person-by-person basis, slaying its enemies one at a time until they flee, so that all that remains is a ghost town.
 
 A guecubu is 6 feet tall and weighs 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Guecubu)
 ```encounter-table
 name: Guecubu

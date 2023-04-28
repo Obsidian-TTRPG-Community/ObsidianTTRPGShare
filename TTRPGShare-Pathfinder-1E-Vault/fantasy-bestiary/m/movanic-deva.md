@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Movanic Deva
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 28
 desc_short: This angel is all sharp lines and angles, muscular but lean, with large wings and a mighty flaming greatsword. 
 ```
-# Description
+## Description
 Movanic devas serve as infantry in the celestial armies, though they spend most of their time patrolling the Positive, Negative, and Material Planes. On the Positive Plane, they watch over wandering good souls, which sometimes puts them into conflict with the jyoti. On the Negative Plane, they battle undead, the sceaduinar, and the other strange things that hunt in the hungry void. Their rare visits to the Material Plane are usually to help powerful mortals when a great menace threatens to plunge an entire realm into evil.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Movanic%20Deva)
 ```encounter-table
 name: Movanic Deva

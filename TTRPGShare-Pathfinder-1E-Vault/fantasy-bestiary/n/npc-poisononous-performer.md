@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Poisononous Performer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 102
 ```
-# Description
+## Description
 The poisonous performer is a member of a monastery that seeks enlightenment in the perfection of murder and assassination. Such monks are poison users and masters of disguise, and often greatly feared in the lands around their monasteries. They are sometimes hunted by monks from other monasteries who believe their grim rites are a perversion of proper monastic practices.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Poisononous%20Performer)
 ```encounter-table
 name: NPC Poisononous Performer

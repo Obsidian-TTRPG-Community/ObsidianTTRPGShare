@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Nightmare Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: Bestiary 5
     desc: 94
 ```
-# Description
+## Description
 These hunters of the Dimension of Dreams seek to wreak nightmares on sleepers and make existing bad dreams even more terrifying. Nightmare dragons often work with night hags in their grim collection of sleeping souls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Nightmare%20Dragon)
 ```encounter-table
 name: Adult Nightmare Dragon

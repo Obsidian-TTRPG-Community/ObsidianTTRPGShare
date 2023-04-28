@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vulture
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 284
 desc_short: This dark-feathered vulture has a bald neck and head, and its long, hooked beak is caked with carrion.
 ```
-# Description
+## Description
 Though related to raptors and other birds of prey, vultures mainly feed on carrion they spot or scent from on high. Vultures have weak claws compared to predatory birds, but their sharp and wickedly hooked beaks tear living flesh as readily as the sharpest blade.
 
 Despite dining on carrion, vultures prefer their corpses newly dead rather than rotten. Some even hunt smaller prey when food is scarce.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vulture)
 ```encounter-table
 name: Vulture

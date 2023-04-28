@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Swordfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 82
 desc_short: A proud fin flares along the spine of this large, sleek fish, its head coming to a spearlike point.
 ```
-# Description
+## Description
 Swordfish are among the fastest and most efficient predators in the sea, and can grow to lengths of almost 15 feet and weigh up to 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Swordfish)
 ```encounter-table
 name: Swordfish

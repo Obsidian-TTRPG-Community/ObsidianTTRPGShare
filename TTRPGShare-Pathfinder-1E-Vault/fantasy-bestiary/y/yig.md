@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yig
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,11 +78,11 @@ sources:
     desc: 150
 desc_short: This green-scaled humanoid has a long, serpentine neck and head, and its brow is marked by a distinctive crescent shape.
 ```
-# Description
+## Description
 Of all the Great Old Ones, Yig is without a doubt the most benign. Yet those so foolish as to expect kindness from the so-called Father of Serpents would do well to think again, for Yig does not suffer fools and is as likely to devour those who beseech him for help as he is to provide aid. Even his most devout worshipers realize he may simply wish to feed at times, and on these occasions no amount of devotion can protect a supplicant from death. 
 
 Yig appears as a scaled, humanoid creature with a serpent’s head and lashing tail, but he can appear as any serpentine creature if he so wills. In his true form, Yig stands 14 feet tall and weighs 1,100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yig)
 ```encounter-table
 name: Yig

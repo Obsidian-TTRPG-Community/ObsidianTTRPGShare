@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghorazagh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 84
 desc_short: With an armored spherical body, numerous tentacular legs, and a multi-eyed visage, this creature is truly hideous.
 ```
-# Description
+## Description
 Ghorazaghs-or gore weavers-float like tumorous specters through the deepest, most alien cavities of the lightless underground, preying upon the wretched vermin of those horrid places. Cunning, with minds and drives unknowable and obscene to those of lands above, the gore weavers only recently became aware of the fertility and bounty of the surface world and are now slowly turning their ebon eyes upward.
 
 While ghorazaghs can digest nearly anything, they are incapable of digesting blood. Their digestive systems process flesh, bone, and all other organic material, filtering out blood and storing it in large reservoirs within their bodies, whereupon the blood is mixed internally with mucus and other strange fluids to form a thick, gluelike substance. While a ghorazagh can spray this fluid as an attack to impede prey, the primary use of the foul substance is as a building material. Ghorazagh hives are constructed entirely of this material, which when it dries has the strength of metal while retaining a dark red resinlike appearance. A ghorazagh hive is a nightmare place as a result-twisting tunnels with an eerily organic appearance that can wind for miles on end.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghorazagh)
 ```encounter-table
 name: Ghorazagh

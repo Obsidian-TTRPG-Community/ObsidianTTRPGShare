@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire Warrior
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
   - name: Monster Codex
     desc: 240
 ```
-# Description
+## Description
 When this vishkanya was alive, she pursued the path of the samurai, but wasn’t allowed to join their honorable ranks. Her restless spirit remained trapped in her flesh after death, and eventually she animated her own rotting body and sought out those who had wronged her.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire%20Warrior)
 ```encounter-table
 name: Vampire Warrior

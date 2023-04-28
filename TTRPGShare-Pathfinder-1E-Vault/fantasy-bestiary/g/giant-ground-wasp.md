@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Ground Wasp
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 83
 desc_short: Black and yellow stripes cover this winged insect’s bulbous abdomen, which ends in a dagger-sized stinger.
 ```
-# Description
+## Description
 In areas of dense vegetation, ground wasps can destroy crops and ruin the land with their burrows, but in the rocky and sandy desert, living creatures are most at risk from these dangerous vermin. The blistering heat of the desert can damage delicate eggs laid in exposed locations, so ground wasps have evolved to lay their eggs safely in the bodies of their victims. They keep to their shallow burrows during the hottest parts of the day, but remain near the opening to ambush creatures that wander near. A fully-grown ground wasp is 2 feet long, with a wingspan of 5 feet, and weighs 22 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Ground%20Wasp)
 ```encounter-table
 name: Giant Ground Wasp

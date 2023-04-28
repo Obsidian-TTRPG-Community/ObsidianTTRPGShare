@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ashullian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 86
 desc_short: This enormous, eyeless eel-person has a round head atop its long neck and a thick torso with four hand-like tentacles and two long tails. Its skin is translucent, displaying colorful fluids rippling within, and embedded with strange objects.
 ```
-# Description
+## Description
 Blind, contemplative artists from the lightless depths of the Elemental Plane of Water, ashullians coaxed sounds, tastes, and other diverse stimuli into miles-wide galleries among the plane’s freezing currents. A powerful race of subterranean humanoids beneath Kaer Maga coveted the ashullians’ abilities and tore open a planar rift that captured several ashullians but also flooded the humanoids’ underground chambers with icy water. The humanoids vanished, and their ashullian prisoners now haunt the Kaer Magan caves known as the Drowned Levels. For generations, these creatures have prowled the chambers of their vanished captors. Ashullians seek objects that realize their eclectic and unpredictable aesthetic sense and showcase whatever oddities they find-which could include anything from a sodden scroll or a jeweled brooch to a severed foot-by wearing them in their flesh or displaying them in their magical bowers.
 
  Ashullians are not inherently aggressive, but they demand that strangers contribute curios for their art. An ashullian’s sense of a “curio” is utterly alien to most creatures, and can range from a bauble or scarf to a moist lump of bread or a long strip of newly flayed skin. Denying an ashullian is likely to provoke its rage.
 
  A typical ashullian’s lithe form measures 16 feet from head to tails and weighs only 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ashullian)
 ```encounter-table
 name: Ashullian

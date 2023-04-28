@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Desert Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 105
 desc_short: This sleek dragon has scales mottled in desert colors, lacks forelimbs, and sports massive wings on its lissome back.
 ```
-# Description
+## Description
 Among the fiercest of their kind, desert drakes exhibit a lust for destruction as merciless as any desert storm. These fierce, ambush predators hunt by finding high perches among rocky outcroppings and surveying their surroundings. When likely prey wanders into sight, a desert drake dives into the sand and burrows toward its quarry or flies low with cover from dunes or other outcroppings. Drawing near the likely path of its victims, it bursts from the sand or dives from above to catch foes off guard, preferring to attack targets that exhibit the most fear first. Before enemies can recover from the initial onslaught, a desert drake exhales a cloud of electrified dust, using its superior senses to press the attack. Mated pairs of desert drakes hunt larger prey and groups of victims, and rampages of the beasts might gather near overland trade routes to devour whole caravans.
 
 A typical desert drake measures 15 feet long from nose to tail tip, has a supple, wormlike build, and weighs about 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Desert%20Drake)
 ```encounter-table
 name: Desert Drake

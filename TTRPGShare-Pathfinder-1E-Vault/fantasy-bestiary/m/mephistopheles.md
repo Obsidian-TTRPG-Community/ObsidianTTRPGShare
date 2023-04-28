@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mephistopheles
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 28
 desc_short: This red-skinned devil has three sets of curving horns atop his brow and three mismatched pairs of wings.
 ```
-# Description
+## Description
 Mephistopheles was formed by Asmodeus from the ashes and hellfire of the plane of Hell itself. He is an artist of f lattery and guile, a master of the infernal contract, and a warden of the chained prison plane of Caina. He is tireless in his hunt for new souls, and constantly seeks to lure mortals into signing theirs away in all manner of complex bargains and contracts. 
 
 Mephistopheles appears as a muscular, 12-foot-tall, red-skinned humanoid.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mephistopheles)
 ```encounter-table
 name: Mephistopheles

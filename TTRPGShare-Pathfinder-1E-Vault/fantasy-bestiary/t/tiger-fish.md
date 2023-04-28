@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tiger Fish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 82
 desc_short: Deadly, wolf like teeth fill the mouth of this brawny fish.
 ```
-# Description
+## Description
 Tiger fish roam tropical waterways, their long, streamlined bodies built for speed. They can grow to lengths of up to 6 feet and weigh as much as 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tiger%20Fish)
 ```encounter-table
 name: Tiger Fish

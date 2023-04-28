@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mage Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: NPC Codex
     desc: 142
 ```
-# Description
+## Description
 A mage hunter thrills at killing sorcerers and wizards. Knowing how to circumvent their hated spells, he casts nondetection every day to deter pursuit and scrying.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mage%20Hunter)
 ```encounter-table
 name: NPC Mage Hunter

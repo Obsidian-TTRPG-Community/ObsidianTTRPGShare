@@ -1,19 +1,21 @@
 ---
-alias: Evolution Surge
+aliases: [Evolution Surge]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Evolution Surge 
+## Evolution Surge
 
 **source**:: Advanced Player's Guide pg. 220  
 **school**:: transmutation
 **level**:: summoner 3, summoner (unchained) 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a chameleon scale)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: your eidolon  
@@ -21,7 +23,6 @@ alias: Evolution Surge
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as *lesser evolution surge*, except that you can grant any evolution whose total cost does not exceed 4 evolution points.
-

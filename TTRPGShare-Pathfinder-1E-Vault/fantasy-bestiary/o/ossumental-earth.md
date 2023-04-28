@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ossumental (Earth)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 88
 desc_short: This towering collection of sun-bleached bones is assembled in a humanoid form.
 ```
-# Description
+## Description
 Ossumentals are found exclusively in the enigmatic location called the Slave Trenches of Hakotep. It is here where the strong elemental forces and the massive loss of mortal life used to excavate the earthworks combined to create these terrifying creatures.
 
 Hakotep I drove thousands of slaves to dig the elaborate system of earthworks and deep trenches, and though no one’s certain of the site’s purpose, some speculate that it is an arcane device constructed to defend against any perceived Shory invasion using their flying cities.
@@ -59,7 +61,7 @@ Obelisks bound with elemental spirits were erected throughout the system, and as
 The creatures aren’t always active; at rest, their bones lie scattered under the oppressive Osirian sun, waiting for living creatures to wander by before clattering together to attack. An ossumental is a tricky combatant, attacking with its four arms in melee combat and then using its breath weapon to attack multiple targets that are out of reach. It makes use of its discorporate ability to quickly shift position on the battlefield and get behind its attackers.
 
 Fully formed, an ossumental stands approximately 16 feet tall and weighs around 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ossumental%20(Earth))
 ```encounter-table
 name: Ossumental (Earth)

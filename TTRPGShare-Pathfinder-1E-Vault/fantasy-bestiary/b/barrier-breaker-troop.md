@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Barrier Breaker Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 90
 desc_short: This wretched collection of undead have tight leathery skin, sunken eyes, and emaciated frames.
 ```
-# Description
+## Description
 Barrier breaker troops arise from the animation of large numbers of juju zombies in a small amount of time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Barrier%20Breaker%20Troop)
 ```encounter-table
 name: Barrier Breaker Troop

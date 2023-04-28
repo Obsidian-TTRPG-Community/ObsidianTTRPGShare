@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cherufe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 55
 desc_short: This towering reptilian humanoid seems to be made of obsidian scales over a molten magma core.
 ```
-# Description
+## Description
 Cherufes make their homes in the caverns of active volcanoes, where they have not only adapted to survive in these extreme conditions, but actually thrive in the pools of molten lava found therein. The cherufe’s unique physiology lets it feed off of radiating heat, providing sustenance for the creature as well as mending its wounds. The hotter the source, the faster a cherufe recovers.
 
 Some cultures worship cherufes, likening them to gods or great dragons. A cherufe’s depraved and often malicious personality means that it particularly enjoys receiving sacrificial victims. The creature will often toy with an unfortunate sacrifice for days before finally decapitating the corpse and immolating the head. Cherufes cow nearby settlements with threats of earthquakes and volcanic eruptions, though the creatures have little desire to cause such havoc in their own homes and usually exaggerate the power they possess.
 
 A cherufe stands about 18 feet tall and weighs close to 8,000 pounds. As long as it remains near a heat source, a cherufe can live for hundreds or even thousands of years. Due to these long lifespans, nearby humanoids often believe the creatures immortal, and spread legends about the “gods of the volcanoes.” If taken away from a source of intense heat, a cherufe slowly withers and dies, leaving behind a stony shell of a carcass.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cherufe)
 ```encounter-table
 name: Cherufe

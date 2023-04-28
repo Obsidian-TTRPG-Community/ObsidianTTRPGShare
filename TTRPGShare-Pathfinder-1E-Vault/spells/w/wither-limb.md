@@ -1,19 +1,21 @@
 ---
-alias: Wither Limb
+aliases: [Wither Limb]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wither Limb 
+## Wither Limb
 
 **source**:: Horror Adventures pg. 131  
 **school**:: necromancy
 **level**:: arcanist 6, cleric 6, inquisitor 6, oracle 6, shaman 6, sorcerer 6, spiritualist 6, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Wither Limb
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cause one limb of the target to shrivel and weaken. The target takes 2d6 points of damage. The points are permanently lost until the target’s limb is restored by *heal*, *limited wish*, *miracle*, *regenerate*, or *wish*. *Wither limb* affects only living creatures of the humanoid or monstrous humanoid type, or similar bipedal creatures at the GM’s discretion. You choose the limb affected. This spell’s effects stack, until all a target’s arms and legs (or equivalent limbs) are withered.  
   

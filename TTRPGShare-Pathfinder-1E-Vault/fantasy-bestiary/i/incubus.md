@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Incubus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 73
 desc_short: This darkly handsome humanoid’s batlike wings, curving horns, and bestial legs betray his demonic origin.
 ```
-# Description
+## Description
 An incubus in his true form is always muscular and attractive, with long hair and intense eyes. His skin can be of any color, but is always smooth and silky. When not using his wings for flight, an incubus can fold them to drape across its shoulders like a cloak-many decorate both the inside and outside of their wings with tattoos, ink, or self-inflicted scars. Incubi stand between 6 and 6-1/2 feet tall and typically weigh 200 pounds.
 
 When not in battle, incubi serve as counselors, torturers, and companions for greater demons. They are also often conjured for similar roles by mortal spellcasters, although care must be taken in dalliances with incubi, for they delight in causing pain to their companions.
 
 Like succubi, incubi form from the chaotic evil souls of particularly lustful and rapacious mortals. Yet whereas succubi are subtle and methodical about using their charms to cause ruin, the typical incubus is forthright and forceful about his insatiable desires.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Incubus)
 ```encounter-table
 name: Incubus

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sawleg Locust
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 205
 desc_short: The cat-sized insect has a long, cigar-shaped body. Its spiny back legs are long and limber.
 ```
-# Description
+## Description
 A sawleg locust is a larger variety of grasshopper that grows as large as 2 feet in length and feeds on a variety of plants. Periods of drought sometimes cause these locusts to gather in large groups, either to migrate to better feeding grounds or rarely to overpower and consume small animals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sawleg%20Locust)
 ```encounter-table
 name: Sawleg Locust

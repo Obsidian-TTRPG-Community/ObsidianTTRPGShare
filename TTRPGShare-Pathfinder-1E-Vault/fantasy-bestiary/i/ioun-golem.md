@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ioun Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 88
 desc_short: This four-armed metal construct has a roughly humanoid shape, with the obvious exception of a missing head. Veins of brass overlay a body of meshed platinum and silver, with intricate circular grooves visible above, below, and between its twin sets of arms.
 ```
-# Description
+## Description
 The Azlanti empire employed numerous different types of golems in its defense and also as members of a growing mechanized workforce. These golems eventually found themselves supplanted by increasingly popular clockworks in the waning centuries of the empire. Still, one model of golem remained as a constant reminder of Azlanti supremacy: the ioun golem. Designed to the unique specifications of the Azlanti intelligence agency, the Ioun Imperative, these golems were a visible sign of Azlant’s ability to harness magic as a replacement for conventional technology.
 
  Immense quantities of alchemically purified brass, platinum, and silver are required for the construction of an ioun golem. Silver forms much of the base frame, while platinum is poured into areas intended as gem receptacles. Brass filigree overlays the body, conducting the magical energy necessary to animate the golem. Occasional lines of vibrant magical energy are visible along the golem’s brass sections when viewed with effects such as analyze dweomer, detect magic, or similar effects.
 
  A typical ioun golem stands 12 feet tall and weighs close to 1,200 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ioun%20Golem)
 ```encounter-table
 name: Ioun Golem

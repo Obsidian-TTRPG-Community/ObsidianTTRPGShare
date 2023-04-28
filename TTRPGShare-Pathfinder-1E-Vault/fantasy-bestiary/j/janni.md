@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Janni
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 141
 desc_short: This regal figure looks like a tall, well-proportioned human, save that its eyes sparkle with strange light.
 ```
-# Description
+## Description
 The jann (singular janni) are the weakest of the genies. Jann are formed out of all four elements and must therefore spend most of their time on the Material Plane. Some lore even casts the janni as the most “human” of the genie races, although most jann are quick to correct this insult, usually with the edge of a sword. A janni is human-sized, standing about 6 feet tall and weighing about 180 pounds.
 
 Jann are physically strong and courageous, and do not take kindly to insult or injury. Most are quite prone to seeing insult even when none is intended by the speaker. If overwhelmed in battle, they escape using flight and invisibility, returning later with reinforcements.
@@ -67,7 +69,7 @@ Jann enjoy their privacy, preferring the solitude of the deep desert and isolate
 Among the other genie races, jann generally have good relations with both djinn and shaitans. While not actively enemies, jann dislike the proud and aloof marids. Jann have a distinct aversion to the efreet, who often try to enslave them or conscript them into their armies.
 
 A small percentage of jann are noble. Noble jann, often called sheikhs or amirs, have 9 Hit Dice, Strength 19, and Intelligence 18, and gain the following spell-like abilities: 3/day-augury, detect magic, and divination. A noble janni’s caster level for its spell-like abilities is 12th. Noble jann are CR 7.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Janni)
 ```encounter-table
 name: Janni

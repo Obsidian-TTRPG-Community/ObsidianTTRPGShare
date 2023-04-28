@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dancing Hut of Baba Yaga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 22
 desc_short: A rustic hut stands here, its timber walls hung with bundles of drying herbs and etched with eerie symbols. From beneath its splintering wooden porch extends a pair of legs, like those of a fifteen-foot-tall chicken with gigantic talons caked in mud but sharp as razors.
 ```
-# Description
+## Description
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dancing%20Hut%20of%20Baba%20Yaga)
 ```encounter-table
 name: Dancing Hut of Baba Yaga

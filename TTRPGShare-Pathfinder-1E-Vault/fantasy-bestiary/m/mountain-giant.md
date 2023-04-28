@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mountain Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 133
 desc_short: This giant wears bloodstained leather clothes, including a ragged leather mask. His flesh, where visible, is gray and warty.
 ```
-# Description
+## Description
 When the children of other giants are unruly, their parents warn them to be good or else the mountain giants will eat them. More than mere stories, mountain giants are real beings that lurk in high mountains and deep chasms. Universally carnivorous, the brutal and sadistic mountain giants prefer the flesh of humanoids, giant or otherwise. They especially love the taste of fear, and typically torment and torture victims before consuming them. 
 
 The typical mountain giant stands a towering 45 feet tall and weighs 30,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mountain%20Giant)
 ```encounter-table
 name: Mountain Giant

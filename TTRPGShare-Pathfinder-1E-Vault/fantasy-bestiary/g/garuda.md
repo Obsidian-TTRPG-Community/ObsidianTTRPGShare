@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Garuda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 29
 desc_short: This winged creature has clawed hands and bird’s talons. Large, glinting eyes and a serrated beak dominate its avian face.
 ```
-# Description
+## Description
 Garudas are noble, birdlike creatures that inhabit rugged hills. While they remain detached from humanoid societies, they are impetuous and gallant, often serving as protectors of nearby communities.
 
 Most garudas stand around 6 feet tall with a wingspan of 15 feet and weigh approximately 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Garuda)
 ```encounter-table
 name: Garuda

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Astomoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 37
 desc_short: This humanoid appears to be made of darkness, and has no discernible ears, eyes, mouth, or nose.
 ```
-# Description
+## Description
 These mysterious humanoids require no food-indeed, they have no mouths-and they have no eyes with which to survey their environment. Instead, they rely on their powerful minds to sense the world around them, and subsist on nutrients absorbed from the air. This can turn against them, however, as powerful smells and inhaled poisons can render an astomoi helpless. Predisposed to asceticism, astomoi rarely wear more than rags, if they wear anything at all.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Astomoi)
 ```encounter-table
 name: Astomoi

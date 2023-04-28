@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kronosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 88
 desc_short: This enormous, finned reptile has a long mouth full of sharp teeth and moves through the water with incredible speed.
 ```
-# Description
+## Description
 The mighty kronosaurus is a relentless hunter that, once it picks up a potential meal’s scent, rarely stops seeking its prey until its appetite is sated. A kronosaurus’s diet consists of everything from large fish and sharks to small whales, giant squids, and sea turtles. Remains of other giant saurians have reportedly been found in the stomachs of those rare kronosauruses that are killed by hunters or wash up dead on shore. Unlike other reptiles, a kronosaurus does not lay eggs, but instead births its young live. The young kronosauruses stay with their mother for less than a year before parting ways and hunting on their own. A fully grown kronosaurus can reach lengths of up to 50 feet and weigh as much as 40,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kronosaurus)
 ```encounter-table
 name: Kronosaurus

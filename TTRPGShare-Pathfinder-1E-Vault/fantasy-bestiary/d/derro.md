@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Derro
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 70
 desc_short: This pale blue humanoid has bulging white eyes, wild hair, four-fingered hands, and a large hooked club.
 ```
-# Description
+## Description
 Though derros dwell deep under most of the surface world’s cities, very few know of the sadistic creatures’ existence. Descended from mysterious fey that once dwelt deep underground, the derros lust for the comforts of the surface, yet the light of the sun causes them to blister, burn, and die. Derros often abduct surface dwellers to perform hideous experiments on them in their never-ending quest to divine what protects those who dwell above from the burning death, yet the intrinsic madness that plagues all derros dooms these experiments to failure every time. In the end, traumatized victims are returned to their homes, memories not quite completely wiped of their ordeal, to live the rest of their lives in vague fear of a nightmare they can’t quite recall.
 
 A typical derro fights with a short sword or a repeating light crossbow with plenty of poison bolts. Some derros also carry an aklys-a hooked throwing club attached to a 20-foot- long cord. This cord limits the club’s range, but allows the derro to retrieve it as a move-equivalent action after it has been thrown.
@@ -68,7 +70,7 @@ A typical derro fights with a short sword or a repeating light crossbow with ple
 Derro leaders are typically sorcerers of at least 3rd level, although they also make excellent rogues. Many derros wield strange and unusual weapons like hooked polearms, eerie whistling aklyses, long hollow spears that can be filled with toxins, or crystalline throwing wedges that shatter on impact to create horrific bleeding wounds.
 
 A derro stands 3 feet tall and weighs 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Derro)
 ```encounter-table
 name: Derro

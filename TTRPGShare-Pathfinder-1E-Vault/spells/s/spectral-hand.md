@@ -1,19 +1,21 @@
 ---
-alias: Spectral Hand
+aliases: [Spectral Hand]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spectral Hand 
+## Spectral Hand
 
 **source**:: PRPG Core Rulebook pg. 346  
 **school**:: necromancy
 **level**:: arcanist 2, medium 2, occultist 2, psychic 2, sorcerer 2, spiritualist 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: one spectral hand  
@@ -21,7 +23,7 @@ alias: Spectral Hand
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A ghostly hand shaped from your life force materializes and moves as you desire, allowing you to deliver low-level, touch range spells at a distance. On casting the spell, you lose 1d4 hit points that return when the spell ends (even if it is dispelled), but not if the hand is destroyed. (The hit points can be healed as normal.) For as long as the spell lasts, any touch range spell of 4th level or lower that you cast can be delivered by the *spectral hand*. The spell gives you a +2 bonus on your melee touch attack roll, and attacking with the hand counts normally as an attack. The hand always strikes from your direction. The hand cannot flank targets like a creature can. After it delivers a spell, or if it goes beyond the spell range or goes out of your sight, the hand returns to you and hovers.  
   

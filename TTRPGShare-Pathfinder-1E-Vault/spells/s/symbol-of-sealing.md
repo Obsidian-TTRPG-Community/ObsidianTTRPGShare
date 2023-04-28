@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Sealing
+aliases: [Symbol of Sealing]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Sealing 
+## Symbol of Sealing
 
 **source**:: Ultimate Magic pg. 242  
 **school**:: abjuration (force)
 **level**:: arcanist 6, cleric 6, occultist 4, oracle 6, sorcerer 6, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Sealing
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell allows you to scribe a potent rune of power upon or above a door or other opening measuring no more than 20 square feet/level in size. When the casting is completed, the symbol immediately triggers, glowing visibly and sealing the door or opening with an invisible barrier of force equivalent to a *wall of force*. Destroying the symbol ends the effect, though destroying it once the symbol has been activated requires destroying the *wall of force* first. Once triggered, the wall remains for 10 minutes per caster level.  
   

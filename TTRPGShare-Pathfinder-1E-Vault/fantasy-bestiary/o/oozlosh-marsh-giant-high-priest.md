@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oozlosh, Marsh Giant High Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,13 +76,13 @@ sources:
     desc: 38
 desc_short: This creature has the bulbous eyes of a fish, and his mottled green skin glistens with slime where it isn’t bedecked in gaudy jewelry.
 ```
-# Description
+## Description
 The grotesque marsh giant known as Oozlosh is the high priest of a large tribe in Varisia’s Mushfens. His reputation has spread throughout the entire wetlands, and he regards himself as the unofficial ruler of all marsh giants in that wild region. He earned notoriety by bringing many goblins in southern Varisia under his heel and establishing relations with the swamp’s boggards. Little occurs among the marsh giants of the Mushfens that the high priest does not command (or at least tolerate).
 
 The Mushfens are bordered on the south by Conqueror’s Bay, forming a long coastline where the brutes practice their frightening rituals to Dagon. They are visited often by the demon lord’s sea-spawn, resulting in many births of deformed brineborn. One of Dagon’s horrific emissaries stays with Oozlosh’s tribe occasionally, reveling in the giants’ vulgar devotion. It has tasked Oozlosh with safeguarding the tribe’s brineborn until they are called to fulfill a dark purpose, a secret the high priest guards with his life.
 
 Oozlosh’s zealotry for Dagon knows no bounds. He debases himself physically to honor the demon lord and expects his followers to do the same. The high priest’s swamp hovel is not grand, but in the muck around his shack, he secretly conceals prizes scavenged from the tribe’s victims. Oozlosh also keeps a cage of shocker lizards outside his home, having become addicted to the jolts he receives when chewing the creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oozlosh%2C%20Marsh%20Giant%20High%20Priest)
 ```encounter-table
 name: Oozlosh, Marsh Giant High Priest

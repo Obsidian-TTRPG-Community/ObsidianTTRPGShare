@@ -1,19 +1,21 @@
 ---
-alias: Distressing Tone
+aliases: [Distressing Tone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Distressing Tone 
+## Distressing Tone
 
 **source**:: Ultimate Magic pg. 217  
 **school**:: evocation (sonic)
 **level**:: bard 2, inquisitor 2, skald 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1d4 living creatures  
@@ -21,6 +23,6 @@ alias: Distressing Tone
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a powerful tone that vibrates living flesh. Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.

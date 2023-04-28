@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spawning Canker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 88
 desc_short: Pale and bloodless, a brutally decapitated corpse lurches forth. Where a head should be instead lashes a forest of horrific, unnatural tentacles, whipping as though trying to simultaneously burrow deeper into and escape from its fleshy husk.
 ```
-# Description
+## Description
 A spawning canker is a terrible dual creature, an unnatural parasite and the decapitated humanoid body its tentacles writhe from like a knot of lashing, aberrant heads. Few ever see a spawning canker without its humanoid armor, but within the chest cavity of these hollowed-out hosts squirms a heartlike body contorting with a misassembled mass of fetal features and trailing a thicket of spiny tendrils. These tendrils lash from the stump of the host body’s exploded head, but also riddle the body, taking control of muscles and organs like the strings of some abominable puppet master. The body of a former host is pumped full of strange excretions and reinforced with the tendrils riddling its form, giving what appears to be a crippled frame an unnatural strength and speed. Those tentacles that extend forth serve as both the thing’s sensory organs and its feeding tubes, through which a canker drains the essence of other thinking creatures. Once it has gorged itself, a spawning canker erupts in a burst of obscene generation, its body withering with terrible speed, splitting both its own and its stolen essence into tentacles. These limbs split and tear from the remains of the canker’s body as writhing, dumb slugspawn, parasitic terrors with no desire but to infest other living creatures and, through their deaths, spread ever more of their terrible kind.
 
 A typical spawning canker stands as tall as the humanoid body it infests, plus 2 to 3 feet of added height from its dozen or so wild tendrils.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spawning%20Canker)
 ```encounter-table
 name: Spawning Canker

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forest Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 86
 desc_short: This green-scaled dragon has two powerful legs and a pair of long, leathery wings. A long spike adorns its thrashing tail. 
 ```
-# Description
+## Description
 Forest drakes are the degenerate cousins of green dragons, possessed of cruel cunning but little actual wit. Like most drakes, forest drakes are bullies, prowling deep forests in search of their favorite prey-elves and fey. Forest drakes eagerly attack communities of such forest creatures unless driven off with arrows or other shows of force. 
 
 Like many other drake types, forest drakes organize themselves in packs called “rampages,” and keep communal lairs in secluded forest locations. Such packs are usually made up of siblings who break from the pack only during mating season. A forest drake pack has a distinct pecking order, with younger and newer members receiving the least desirable portions of pack kills and the fewest mating options. 
@@ -63,7 +65,7 @@ Like many other drake types, forest drakes organize themselves in packs called �
 Forest drakes mate once a year, but do little to raise their offspring. A female lays a clutch of four to eight eggs, but abandons her young as soon as they hatch. Forest drake hatchlings immediately band together in a pack. 
 
 While few survive so long, forest drakes can live up to 200 years. Forest drakes are typically about 10 feet long with equally long tails, and weigh around 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forest%20Drake)
 ```encounter-table
 name: Forest Drake

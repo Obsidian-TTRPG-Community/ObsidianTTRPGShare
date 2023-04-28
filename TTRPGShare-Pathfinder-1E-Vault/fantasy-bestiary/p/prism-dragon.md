@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Prism Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 42
 desc_short: The facets of this crystalline dragon’s body reflect fascinating and sparkling patterns.
 ```
-# Description
+## Description
 Hailing from an unknown location in the Great Beyond, prism dragons delight in manipulation for its own sake, shaping mortal societies and the world around them for little more than the fun doing so offers, distracting themselves from the tedium of ageless existence. Most prism dragons view humanoid creatures as parts of their hoard, as treasured and precious as any gem or goblet. Gifted with potent psychic abilities and the power to generate and warp illusions, prism dragons gravitate toward mastermind roles, and prefer to claim territories that overlap with complicated cultures-large cities, trade routes, and monster-infested ruins-where they can scheme and coax other intelligent creatures to dance to a particular tune. Prism dragons adore overelaborate schemes-not because they expect victory, but because complication gives so many things a chance to go wrong, allowing the dragons to test their quick wits and adaptability in addition to their planning skills. They detest physical confrontation, and only engage in it when left with no other recourse or when troublesome humanoids spoil their games. Chaos and change keep eternity exciting, but prismatic dragons are sore losers.
 
 Prism dragons dislike undisguised truths, as they consider relating unvarnished facts to be boring and beneath them. As such, they rarely reveal themselves for what they are, even among cultures such as kobolds that revere dragons. For a prism dragon to reveal its true self is a sign of respect, but even then, the dragon is unlikely to communicate in a straightforward manner, feeling that doing so would be insulting the intelligence of its conversational partner. Prism dragons are fond of using illusions to appear as powerful visitors, or possessing long-standing members of the community and using their hosts’ resources to begin shaping their new homes to their liking. Their sense of fair play compels them to get permission from a host before possessing it, but a host who has answered an innocuous-seeming question from a stranger in the affirmative or nodded in agreement with a statement made by another patron at the local tavern is often unaware that she has consented. Indeed, whether permission has been received via the means many prism dragons employ is often a distinction without a difference to anyone else. Prism dragons view their inability to shapeshift as a special challenge, and no two members of their kind deal with this handicap the same way-a rare few use polymorph magic, but more commonly they rely on invisibility or subterfuge, or hide in plain sight by posing as exotic statuary while using their psychic abilities to coax their playthings to action. Eventually, they reshape alliances between groups of monsters or stir up courtly intrigue, leading to squabbling, infighting, and even war. Many prismatic dragons lair in the rubble of cities they claim to have ruined in ages long past.
@@ -86,7 +88,7 @@ A prism dragon maintains its hoard carefully, though its system might not seem a
 Planar travelers report prism dragons on the Material Plane, the Astral Plane, the Ethereal Plane, and in lesser numbers across the Outer Planes, but to date none have reported young or infant versions of these shimmering beasts. Prism dragons themselves claim to be immortal- primeval dragons spawned at the dawn of the multiverse and serving as Apsu’s template to create the other, “lesser” draconic races. True dragons dispute this origin, and given prism dragons’ grandiose claims in all other affairs, this story likely bears little more than a grain of truth. Prism dragons share no apparent family connection to the crystal dragons of the Elemental Plane of Earth, despite their outward resemblance to them.
 
 A fully grown prism dragon is 25 feet long and weighs more than 13,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Prism%20Dragon)
 ```encounter-table
 name: Prism Dragon

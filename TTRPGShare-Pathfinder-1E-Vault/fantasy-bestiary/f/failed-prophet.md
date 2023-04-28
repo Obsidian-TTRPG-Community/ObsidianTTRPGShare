@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Failed Prophet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 60
 desc_short: A spider-webbing network of fine golden veins covers the body of this skinless, stony-eyed humanoid.
 ```
-# Description
+## Description
 When a Kalistocrat performs the final rites to create her idealized afterlife, the likelihood of success depends on how stringently she adhered to Kalistrade’s teachings and how much wealth she sacrificed to serve as an occult anchor for her will. It’s not always apparent which prophets succeed, and mere weeks after death, the mindscapes of those prophets who failed begin to collapse. For most, their souls become untethered and join the River of Souls, but others cling tenaciously to their failed dream, and their consciousness escapes into and animates their gold-veined bodies.
 
  Some of these so-called failed prophets eventually slip out of their shells and accept Pharasma’s judgment. Others refuse to accept their own failure and attempt to perform the ritual again after accumulating far more wealth than before. These failed prophets often break out of their mausoleums to hunt down the wealthy and steal their treasure-or worse, dismantle the precious bodies of other Kalistocrats for scrap, sending the mindscapes of their onetime allies hurtling to the Astral Plane to be torn apart by predators or astral weather.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Failed%20Prophet)
 ```encounter-table
 name: Failed Prophet

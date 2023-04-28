@@ -1,19 +1,21 @@
 ---
-alias: Mythic Sunbeam
+aliases: [Mythic Sunbeam]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Sunbeam
+## Mythic Sunbeam
 
 **source**:: Mythic Adventures pg. 109  
 **school**:: evocation (light)
 **level**:: druid 7, shaman 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: line from your hand  
@@ -21,7 +23,7 @@ alias: Mythic Sunbeam
 **saving-throw**:: Reflex negates and Reflex half; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 For the duration of this spell, you can use a standard action to evoke a dazzling beam of intense light each round. You can call forth one beam per three caster levels (maximum six beams at 18th level). The spell ends when its duration runs out or your allotment of beams is exhausted.  
   

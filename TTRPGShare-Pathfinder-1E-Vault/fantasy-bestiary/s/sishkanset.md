@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sishkanset
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 88
 desc_short: This translucent, unnaturally tall humanoid figure sprouts dozens of long tendrils from its upper body.
 ```
-# Description
+## Description
 Formed from the fabric of the Ethereal Plane, sishkansets are incorporeal reflections of mortal psyches. Born of the disorientation and despair of souls whose mortal vessels died isolated and buffeted by wilderness winds, sishkansets haunt sparsely settled frontiers. They wield the same winds that tormented their progenitors in their final moments; a sishkanset’s presence disrupts the atmosphere for miles around, and though the natural winds they stoke are not inherently dangerous, they are maddeningly constant.
 
  Sishkansets sift through mortal thoughts in the hope of reassembling their own fragmented personalities, but their fundamentally incomplete nature makes this an unattainable goal. When a sishkanset’s suffering becomes overwhelming, it visits its condition on others, slowly driving its victims insane through unending wind and discordant whispers.
@@ -74,7 +76,7 @@ Formed from the fabric of the Ethereal Plane, sishkansets are incorporeal reflec
  A sishkanset takes the form of an eerily tall and ghostly humanoid with dozens of tendrils trailing from the back of its head and shoulders. These tendrils reach into the Ethereal Plane, spreading the sishkanset’s presence through the local atmosphere. A sishkanset’s features are indistinct, but its elongated form often resembles the individual whose traveling soul incited the creature’s formation from the Ethereal Plane.
 
  A sishkanset is about 8 feet tall and unnaturally thin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sishkanset)
 ```encounter-table
 name: Sishkanset

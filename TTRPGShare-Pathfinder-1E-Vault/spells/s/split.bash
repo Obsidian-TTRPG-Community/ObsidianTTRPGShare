@@ -30,7 +30,7 @@ for MD_FILE in $ALL_MARKDOWN_FILES; do
 		output_path="${OUTPUT_DIR}/${filename}.md"
 		#cat part00 > "$output_path"
 		echo "---" > "$output_path"
-		echo "alias: ${header}" >> "$output_path"
+		echo "aliases: ${header}" >> "$output_path"
 		echo "---" >> "$output_path"
 		echo "" >> "$output_path"
 		cat "$file" >> "$output_path"
@@ -66,7 +66,7 @@ grep -l '^## ' . -R | while read md_file; do
 	cp part00 "$output_path"
 
 	# replace alias
-        sed -i "s/^alias: .*/alias: ${header}/" "$output_path"
+        sed -i "s/^aliases: .*/aliases: ${header}/" "$output_path"
 
 	# replace header
 	sed -i "s/^# .*/# ${header}/" "$output_path"
@@ -82,4 +82,3 @@ grep -l '^## ' . -R | while read md_file; do
 	rm part00
 	rm part01
 done
-

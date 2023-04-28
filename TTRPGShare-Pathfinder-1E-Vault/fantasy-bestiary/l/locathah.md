@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Locathah
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,7 +45,7 @@ sources:
     desc: 179
 desc_short: This lean humanoid bears crested fins on its head and back, and has the wide-eyed and wide-lipped face of a fish.
 ```
-# Description
+## Description
 Simple aquatic creatures shunned by landwalkers and undersea folk alike, locathahs live in tight-knit communities scattered throughout the world’s seas, lakes. and waterways. Locathahs possess scaly ochre skin tinged with green and yellow. Ridged, rust-colored skin covers their chests and stomachs, and a mottled wash of green, brown, and orange colors their fins like aging kelp. Locathahs exude a strong fishy odor when above water that, in addition to their already unnerving appearance, repulses most land-dwellers. Despite this animosity, locathahs go to great lengths to befriend surface folk, offering safe passage through the waters, pointing out dangerous reefs, and hinting at sunken treasures in return for durable ceramics and metal tools and weapons, as well as tubers, which they view as a delicacy.
 
 These creatures dislike combat and flee when disarmed or outnumbered. Locathahs hold community in the highest regard, never leaving a friend behind and often going to great lengths to retrieve a fallen companion. Among their own kind and races friendly toward them, locathahs are social creatures who live a very human-like, albeit simple, lifestyle. Locathahs work in stone, coral, and bone to produce the crude implements they use. Some take coral work to obsessive levels, with certain clans taking generations to grow their preferred medium in its desired form before carving it. They feed on crustaceans, undersea plants, and shellfish, and rarely on large fish that are caught during ritualized hunts.
@@ -51,7 +53,7 @@ These creatures dislike combat and flee when disarmed or outnumbered. Locathahs 
 Locathah matriarchs serve their undersea tribes not only as chieftains, but also as the primary egg layers of the community. Each adult member of the tribe is responsible for raising a single young locathah as his or her own. Locathahs tame moray eels, keeping them near their lairs as humans keep dogs. Some locathah soldiers and hunting groups use giant moray eels as mounts, chasing down their quarry and attacking with narrow-tipped spears. More powerful aquatic races use locathahs as slaves, abducting breeding matriarchs to produce a constant wave of new workers.
 
 Locathah stand roughly as tall as humans, yet their fins jut out, giving them an imposing stature. Lean and strong, locathahs weigh roughly 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Locathah)
 ```encounter-table
 name: Locathah

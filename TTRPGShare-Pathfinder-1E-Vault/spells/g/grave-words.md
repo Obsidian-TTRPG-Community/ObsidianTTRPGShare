@@ -1,25 +1,27 @@
 ---
-alias: Grave Words
+aliases: [Grave Words]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Grave Words 
+## Grave Words
 
 **source**:: Occult Adventures pg. 172  
 **school**:: necromancy (language-dependent)
 **level**:: medium 0, occultist 0, psychic 0, spiritualist 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one dead creature  
 **duration**:: 1 round
 
-### Description 
+### Description
 
 With this spell and a touch, you can force a corpse talk to you, but you can’t ask it specific questions or communicate with it at all. The corpse will start babbling for 1 round, spitting out random sentences. There is a 10% chance this information is of some use to the caster, but it is difficult to distinguish whether the information is useful (the GM makes the percentile roll in secret).  
   

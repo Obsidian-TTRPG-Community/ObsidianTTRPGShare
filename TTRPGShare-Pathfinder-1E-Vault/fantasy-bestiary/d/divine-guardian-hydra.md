@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Divine Guardian Hydra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 60
 desc_short: This regal hydra has one larger head and four smaller ones, and projects an aura of authority and menace.
 ```
-# Description
+## Description
 A divine guardian is a creature chosen by the gods to guard a sacred site of the faith. Blessed with eternal life (or damned, some might say), a divine guardian spends untold centuries in the service of its deity, tirelessly and deathlessly defending its charge from any who would seek to desecrate it.
 
 Typically such a creature is transformed into a form more regal than its mortal one, setting it apart from a typical member of its race or species. A divine guardian is spiritually connected to the one site that it must guard for eternity. As long as a divine guardian remains within that site, it does not hunger, thirst, get sick, or even age. Within the bounds of its sacred site, a divine guardian possesses numerous defensive powers to ward it from intruders, but it can never leave the area or the long years of its service will finally catch up to it. A divine guardian must weigh the power and prestige of its endless responsibility against the freedom death might inevitably bring.
@@ -70,7 +72,7 @@ Most divine guardians are chosen servants who agree to willingly serve their god
 A cleric or paladin of the deity that created a divine guardian can issue the guardian commands. This does not give the cleric or paladin complete control over the creature, but the guardian does respond favorably to those requests. For example, a cleric could ask it to not attack her companions, or to help her defend the guardian’s sacred site from attackers. A cleric or paladin of the same faith must win an opposed Charisma check to convince a divine guardian to do anything it wouldn’t ordinarily do. A divine guardian can never be ordered to leave its sacred site or to go against the tenets of its deity’s faith.
 
 The divine guardian hydra presented here is built using a hydra from the Pathfinder RPG Bestiary. See page 178 of the Bestiary for rules on this creature’s hydra traits and regenerate head abilities. This divine guardian hydra is a divine guardian of the god of nature and the weather, thus giving it the air and water subtypes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Divine%20Guardian%20Hydra)
 ```encounter-table
 name: Divine Guardian Hydra

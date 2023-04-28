@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hundun
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 144
 desc_short: The wrinkled, blotchy skin of this giant hangs from its body like hooded robes, masking its face.
 ```
-# Description
+## Description
 In the nightmare dimensions of unreality beyond space and time, the power of alien Gods is sufficient to give life to intention. Hunduns are the incarnation of the desire to reduce the multiverse to a space filled with nothing but randomly f luctuating energy fields and gravitic curvatures. Hunduns are primordial alien monks who embody aspects of the gaping, formless void that preceded the creation of the multiverse. They are out of step with reality, which accommodates their individual existences as intractable errors that must be continually accounted for yet that can never fully be corrected. These bizarre aberrations of life are sustained by negative energy-life’s antithetical force-yet they are not undead, nor do they differentiate between the living and the unliving in the pursuit of their purpose. Few beings can exist on the Negative Energy Plane for long, making the hunduns, who often make their homes there, something of an anomaly. Some scholars speculate that early hunduns came to the Negative Energy Plane as explorers, and remained there, addicted to the mixture of pain and euphoric release caused by the effects of negative energy on their skin.
 
  Hunduns are tireless antagonists of archons, asuras, axiomites, devils, inevitables, kytons, and other exemplars of law. They oppose any effort to impose or maintain discipline, structure, or regulation. They loathe and undermine the prospect of peace or tranquility, and relish confusion, disorder, and destruction. Though these attitudes would seem to make them ideological allies of the proteans, hunduns hold those creatures in contempt, caring nothing for that race’s strange religion, nor the spontaneous, ephemeral acts of creation in which proteans delight. Hunduns believe that the freedom and truth of pure entropy are preferable to the artificial illusions of structure, and they seek to spread this brand of enlightenment to others as part of their goal to free all creation from order’s fetters.
@@ -83,7 +85,7 @@ In the nightmare dimensions of unreality beyond space and time, the power of ali
  Hunduns can be found f loating in the Negative Energy Plane or within stable voids in the planes of chaos, meditating on ways to corrupt universal truths and undermine the laws of nature on a cosmic scale-anything they can exploit to trigger the collapse and implosion of entire dimensions or planes of existence. Though they spend the majority of their time in solitary contemplation or action, hunduns sometimes gather to oppose forms of creation or manifestations of law that require greater numbers to counteract. The creatures come together spontaneously, drawn by an innate sensitivity to the structuring forces that operate on reality.
 
  Hunduns stand around 10 feet tall, yet weigh only about 700 pounds. Sustained entirely by negative energy, hunduns never eat or rest and are immune to aging; they are effectively immortal and die only through violence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hundun)
 ```encounter-table
 name: Hundun

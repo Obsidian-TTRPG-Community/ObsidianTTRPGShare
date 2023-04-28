@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 211
 desc_short: This brightly-colored feline blur resembles a cheetah with longer fur and lynx-like ears, and seems to scorch the air as it moves.
 ```
-# Description
+## Description
 Pards are alien catlike creatures known for their unnatural swiftness. They have sleek, short-furred bodies and long legs built for speed. Their color and markings vary widely, even among members of the same family, ranging through every color imaginable, with some bearing stripes, others spots, and a few solid-colored coats. Adult pards are 6 feet long and weigh 100 pounds.
 
 Pards are carnivores and usually hunt small game and larger birds (such as swans), though many have developed a fondness for the flesh of gnomes and quicklings. Smarter than common beasts, pards are semi-intelligent, mate for life, and have a complex social structure. Pards also possess a form of telepathy they use to communicate amongst themselves, and can use this on a limited basis to confront intruders or create mutually beneficial alliances.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pard)
 ```encounter-table
 name: Pard

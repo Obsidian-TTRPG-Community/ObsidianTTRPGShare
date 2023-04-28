@@ -1,19 +1,21 @@
 ---
-alias: Guards and Wards
+aliases: [Guards and Wards]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Guards and Wards 
+## Guards and Wards
 
 **source**:: PRPG Core Rulebook pg. 292  
 **school**:: abjuration
 **level**:: arcanist 6, sorcerer 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 30 minutes  
 **components**:: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood), F (a small silver rod)
 
-### Effect 
+### Effect
 
 **range**:: anywhere within the area to be warded  
 **area**:: up to 200 sq. ft./level (S)  
@@ -21,7 +23,7 @@ alias: Guards and Wards
 **saving-throw**:: see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 This powerful spell is primarily used to defend a stronghold or fortress by creating a number of magical wards and effects. The ward protects 200 square feet per caster level. The warded area can be as much as 20 feet high, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them; you must be somewhere within the area to be warded to cast the spell. The spell creates the following magical effects within the warded area.  
   
@@ -49,7 +51,7 @@ In addition, you can place your choice of one of the following five magical effe
   
 The whole warded area radiates strong magic of the abjuration school. A *dispel magic* cast on a specific effect, if successful, removes only that effect. A successful *mage's disjunction* destroys the entire *guards and wards* effect.
 
-## Mythic Guards and Wards 
+## Mythic Guards and Wards
 
 **source**:: Mythic Adventures pg. 97  
 You are alerted whenever any creature enters the warded area as if by a mental *alarm* spell as long as you’re on the same plane as the warded area. At will, you can concentrate to observe the warded area as if using *arcane eye*. When you start concentrating, the sensor always appears at a point you designate when you cast the spell. You can place two of the five effects listed in the spell (*dancing lights* and so on) instead of one.  

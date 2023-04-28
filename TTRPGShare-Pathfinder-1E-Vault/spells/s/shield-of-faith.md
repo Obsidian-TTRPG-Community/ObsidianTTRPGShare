@@ -1,19 +1,21 @@
 ---
-alias: Shield of Faith
+aliases: [Shield of Faith]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shield of Faith 
+## Shield of Faith
 
 **source**:: PRPG Core Rulebook pg. 342  
 **school**:: abjuration
 **level**:: cleric 1, inquisitor 1, oracle 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (parchment with a holy text written on it)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,11 +23,11 @@ alias: Shield of Faith
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell creates a shimmering, magical field around the target that averts and deflects attacks. The spell grants the subject a +2 deflection bonus to AC, with an additional +1 to the bonus for every six levels you have (maximum +5 deflection bonus at 18th level).
 
-## Mythic Shield of Faith 
+## Mythic Shield of Faith
 
 **source**:: Mythic Adventures pg. 108  
 Add half your tier to the spell’s deflection bonus.

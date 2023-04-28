@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soulbound Doll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 84
 desc_short: This doll’s glass eyes glisten with unmistakable curiosity as it comes to life with a fluid grace.
 ```
-# Description
+## Description
 These small, sentient dolls contain a fragment of another creature’s soul. The binding process strips most of the individuality from the soul, making a new soulbound doll an almost blank slate. Despite this process, fragments of the original creature’s personality remain.
 
 Soulbound dolls can serve as companions, surrogate children, servants, guards, and sentries, as desired by their creators. Creators of soulbound dolls typically take care to take soul fragments from people whose personality traits the crafters wish to see in their dolls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soulbound%20Doll)
 ```encounter-table
 name: Soulbound Doll

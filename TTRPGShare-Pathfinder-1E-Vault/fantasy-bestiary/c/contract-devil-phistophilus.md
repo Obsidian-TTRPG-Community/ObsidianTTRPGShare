@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Contract Devil (Phistophilus)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
     desc: 86
 desc_short: With rust-colored skin and a jutting crown of ridge-like horns, this muscular devil is draped in lengthy contracts.
 ```
-# Description
+## Description
 A contract devil, also a called phistophilus, always appears handsome and confident, its chiseled features housing a perpetually smug grin. Contract devils have red skin and black hair and stand near 6-1/2 feet in height, not counting their horns. The thicket of horns around a contract devil’s body increases its height to 7 feet and its weight to 350 pounds.
 
 They exist to keep track of the damned, to manage Hell’s endless ordinances, and, when time and opportunity permit, to coax mortals into damnation. Most phistophiluses spend their eternities in the various courts of Hell’s nine layers, particularly in the maze-like fortress-libraries where all infernal laws and oaths are recorded. Occasionally they serve similar roles on the Material Plane when summoned by particularly desperate, arrogant, or foolish mortals.
 
 When one of the souls damned by a contract devil is restored to life (typically via powerful magic like a wish or miracle), the phistophilus immediately notices the transgression. Usually, the contract devil recruits the aid of more powerful allies to track down and punish such transgressors and to collect the escaped soul as quickly as possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Contract%20Devil%20(Phistophilus))
 ```encounter-table
 name: Contract Devil (Phistophilus)

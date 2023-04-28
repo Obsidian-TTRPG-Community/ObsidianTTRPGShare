@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nirento
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 55
 desc_short: Thorny vines encircle this tropical tree’s thick, spongy trunk, and jungle debris lies strewn about its base.
 ```
-# Description
+## Description
 Nirentos are predatory plants with brutish intelligence, their thorny vines able to tear foes limb from limb. A nirento lures prey toward it by swaying its branches and vines in a visually stimulating dance, striking at victims mercilessly once they are within range of its natural weapons. Slain prey then piles up around the tree’s base and is absorbed through its roots. Nirentos’ spongy bodies ensure they absorb most physical blows, though they remain susceptible to slashes and cuts, and when so injured, a translucent green sap oozes from their wounds.
 
 Elder nirentos are individuals that have lived for well over a century, and have absorbed nutrients from countless victims over the years. A typical nirento is 15 feet tall and weighs 1,000 pounds, while elder nirentos can reach heights of up to 25 feet and weigh over a ton.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nirento)
 ```encounter-table
 name: Nirento

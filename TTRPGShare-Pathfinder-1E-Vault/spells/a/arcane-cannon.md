@@ -1,19 +1,21 @@
 ---
-alias: Arcane Cannon
+aliases: [Arcane Cannon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Arcane Cannon 
+## Arcane Cannon
 
 **source**:: Ultimate Combat pg. 223  
 **school**:: transmutation
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F (an ornate miniature cannon forged with a drop of your blood that costs 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one magically animated cannon  
@@ -21,7 +23,7 @@ alias: Arcane Cannon
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Your focus becomes a Medium *arcane cannon* that appears in an unoccupied square within the spell’s range. If no unoccupied square is within range, the spell fails. The cannon comes into existence loaded. Each round thereafter, the cannon can either fire or load. A cannon must be loaded to fire. You do not need to supply ammunition for the cannon.  
   
@@ -31,7 +33,7 @@ The cannon has a range increment of 50 feet. It targets touch attack in the firs
   
 The cannon has AC 10, hardness 10, and 80 hit points. If the cannon is subject to a spell or effect that requires a save, it uses your saving throw modifiers. The cannon never provokes attacks of opportunity. If the cannon is destroyed, so is your focus.
 
-## Mythic Arcane Cannon 
+## Mythic Arcane Cannon
 
 **source**:: Mythic Adventures pg. 84  
 The cannon deals 6d10 points of damage on a successful hit. Add your tier to the cannon’s hardness and your tier × 5 to its hit points. Its *conductive* property can channel any spell with a range of touch (you have to expend only one spell for this, not two). You may cast a spell with an energy descriptor on the cannon. If you do, for a number of rounds equal to the spell’s level, half the cannon’s damage is untyped damage and the other half is energy damage of the spell’s type. Casting a spell with a different energy descriptor onto the cannon replaces its current energy type with that of the new spell.

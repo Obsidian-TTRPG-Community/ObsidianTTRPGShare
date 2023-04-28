@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Collector Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 84
 desc_short: A soft whirring noise accompanies this flying mechanical creature. Its arms and hands end in spindly, multi-jointed fingers, and four circular rotors hold the creature aloft.
 ```
-# Description
+## Description
 Serving as long-distance scouts, trackers, and acquisition agents, collector robots see frequent use in the study and collection of alien life forms on new worlds. They can operate independently for years, cataloging unique species while enduring extreme environments that would overwhelm their biological makers. These machines may tag a captive creature with a tracker chip that can be monitored and tracked with their integrated chipfinders. They do so to observe and document the behavioral patterns of such creatures from afar, studying viable specimens for days until they eventually isolate and retrieve the studied prey again for further examination in the controlled laboratories of the robots’ masters.
 
 Among their more impressive features, collector robots possess a hardened artificial intelligence, maintaining a singular focus on their mission directives even when wandering out of communication range with their owners. They tend to react swiftly to movement and perceived threats to their physical security, either emitting loud tones or alarms as a preemptive warning, or flying upward to gain altitude before assessing a given situation and potentially opening fire in defense of itself. Some collector robots grow more lax in their analysis protocols over time, giving way to a state similar to paranoia if left in the field for too long. This corrupted logic inevitably leads them to interpret even the most innocuous actions as proof of hostile intent. Other collectors become fixated on their directive to retrieve specimens without undue damage, interpreting it as a need to protect their targets from all possible sources of harm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Collector%20Robot)
 ```encounter-table
 name: Collector Robot

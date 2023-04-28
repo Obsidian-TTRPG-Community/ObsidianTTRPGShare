@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thyrlien
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 285
 desc_short: This fey-looking humanoid is colored in shades of gray. Its wings are decorated with colored motes resembling a starry night sky.
 ```
-# Description
+## Description
 A thyrlien is a unique type of azata created by Desna. Intended as rare warrior counterparts to lyrakien, thyrlien are tasked with watching over nighttime travelers. Specifically hunting the servants of Lamashtu and Ghlaunder, thyrlien wander lonely roads and dark alleys, hoping to confront or counter the dark things that so often hunt such ominous spots. Superficially humanoid, a thyrlien’s attacks reveal its nonhuman origins. Venomous saliva coats mouth and its delicatelooking wings are actually as stiff as wood and have razor sharp edges. A thyrlien is skilled at tracking using conventional and magical methods and is savvy to the ways of its chosen prey. These servants of the goddess of luck stand about 2 feet tall and weigh around 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thyrlien)
 ```encounter-table
 name: Thyrlien

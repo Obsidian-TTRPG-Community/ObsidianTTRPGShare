@@ -1,19 +1,21 @@
 ---
-alias: Planar Adaptation, Mass
+aliases: [Planar Adaptation, Mass]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Planar Adaptation, Mass 
+## Planar Adaptation, Mass
 
 **source**:: Advanced Player's Guide pg. 236  
 **school**:: transmutation
 **level**:: arcanist 7, cleric 6, occultist 6, oracle 6, psychic 6, sorcerer 7, summoner 6, summoner (unchained) 6, warpriest 6, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/level, no two of which can be more than 30 ft. apart  
@@ -21,6 +23,6 @@ alias: Planar Adaptation, Mass
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *planar adaptation*, except as noted above.

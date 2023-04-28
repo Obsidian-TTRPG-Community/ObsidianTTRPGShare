@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mephit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 202
 desc_short: This small humanoid creature has thin, leathery wings, small horns, and a mischievous smile.
 ```
-# Description
+## Description
 Mephits are the servants of powerful elemental creatures. Key sites and locations on the elemental planes are full of mephits scurrying about on important errands or duties. Each mephit is associated with one element that defines its spells and abilities. The mephit types are listed below.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mephit)
 ```encounter-table
 name: Mephit

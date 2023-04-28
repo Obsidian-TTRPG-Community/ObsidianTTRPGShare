@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sword Savant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 110
 ```
-# Description
+## Description
 Some elven monks master the art of carnage with one chosen weapon. Sword savants are particularly adept at keeping their foes at a distance until it’s time to land the killing blow.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sword%20Savant)
 ```encounter-table
 name: NPC Sword Savant

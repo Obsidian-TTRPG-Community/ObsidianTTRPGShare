@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hooded Harbinger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 88
 desc_short: This creature resembles a mummified humanoid swathed in filthy, sallow rags. Its stooped posture and ragged coverings make its height hard to judge. Its arms appear abnormally long, or perhaps dislocated and hanging freely. A hood of the same jaundiced fabric obscures its face.
 ```
-# Description
+## Description
 It is said that the Crawling Chaos is the messenger of the Great Old Ones, but whether this is by their command or his own whim is debatable. Regardless of why, the Great Old One known as Hastur sometimes instead relies on his hooded harbingers to relay messages to his far-flung cults and even to the High Priest Not To Be Described of mystery-shrouded Leng. These dread figures swathed in filthy yellow rags bear the whispered tidings of their Unnamed Lord. There are those who even speculate that the veiled priest of Leng is actually the greatest of the hooded harbingers, who gained some measure of autonomy-but the truth of this remains unknown. Thought to have originated in distant Carcosa by unthinkable means, hooded harbingers are exceedingly rare, and seldom is more than one encountered at a time.
 
 Though tasked with the menial role of messengers, hooded harbingers take their charge very seriously. Infused with the hateful potency of their master, they are able to call upon many terrible powers in defense of their duties. When forced into combat, they prefer to trip opponents with the trailing ends of their ragged arm coverings and administer their bloodless touch to as many victims as possible. They always attempt to use plane shift to flee if in danger of imminent defeat.
@@ -82,7 +84,7 @@ Though tasked with the menial role of messengers, hooded harbingers take their c
 Serving as messengers for Hastur, hooded harbingers receive the communications they deliver directly from the Great Old One via mental transmission. Upon receiving the message, the hooded harbinger twitches and shakes as if it were having a seizure. During this time they are particularly dangerous, because if they are attacked or distracted in any way, they fly into a furious rage and the offender risks attracting the attention of the King in Yellow.
 
 No one has seen a hooded harbinger’s face and lived to describe it. If its hood is pulled back, the creature’s head is seen to be completely swathed in the same filthy rags that cover its body. If it is helpless, the rags can be unraveled, but each layer only gives way to dozens of layers of the tattered yellow cloth. Eventually, a face is revealed, but it appears to be the face of the unraveler. If she is lucky, her memories are immediately wiped clean. If she is less fortunate or less able to forget, she is driven insane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hooded%20Harbinger)
 ```encounter-table
 name: Hooded Harbinger

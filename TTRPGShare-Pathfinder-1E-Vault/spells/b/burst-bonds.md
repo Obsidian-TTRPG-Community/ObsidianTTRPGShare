@@ -1,19 +1,21 @@
 ---
-alias: Burst Bonds
+aliases: [Burst Bonds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Burst Bonds 
+## Burst Bonds
 
 **source**:: Advanced Player's Guide pg. 208  
 **school**:: evocation
 **level**:: inquisitor 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one object or creature restraining you  
@@ -21,7 +23,7 @@ alias: Burst Bonds
 **saving-throw**:: Fortitude half (object)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You blast your restraints with divine wrath, dealing 1d6 points of damage per caster level to the target object (maximum 5d6), ignoring hardness of 10 or less. A Fortitude save halves the damage, although only magical restraints receive a saving throw.  
   

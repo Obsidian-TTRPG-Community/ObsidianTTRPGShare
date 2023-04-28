@@ -1,19 +1,21 @@
 ---
-alias: Geyser
+aliases: [Geyser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Geyser 
+## Geyser
 
 **source**:: Advanced Player's Guide pg. 225  
 **school**:: conjuration (creation) (fire, water)
 **level**:: arcanist 5, druid 4, hunter 4, magus 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a piece of lava rock)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: spout of boiling water filling a 5 ft. square and spraying upward 10 ft./2 levels  
@@ -21,7 +23,7 @@ alias: Geyser
 **saving-throw**:: Reflex partial (see below)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause a column of boiling water to spring forth from any horizontal surface, knocking over creatures directly over it and exposing nearby creatures to searing droplets as its spray falls back to the ground.  
   

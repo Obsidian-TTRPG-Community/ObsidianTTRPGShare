@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Qaishan Yeti
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 63
 desc_short: This furry hominid’s orange eyes blaze not with fury but with wisdom, and the white hair around its face is streaked with gray.
 ```
-# Description
+## Description
 High in the peaks of the World’s Edge Mountains lies a remote monastery that is home to a most unusual order of monks-one in which all the brothers and sisters are yetis. The monks call themselves the Qaishan, which roughly translates to “Warriors of the White” or “Snow Guard,” and while most Taldans assume the yetis raided the monastery long ago and now act as poor imitations of its previous tenants, the local yetis tribes know the truth: that the Qaishan have inhabited such monasteries and carried out their sacred duty since times immemorial.
 
 The Qaishan are responsible for guarding their brethren and other residents of the mountain from the monsters that slip through the cracks in reality near the mountain peaks. Scholars would know to identify these creatures as scarlet walkers and denizens hailing from the nightmare realm of Leng; the yeti monks care not for such trivial distinctions- to them, these invaders are simply an unnatural evil force that requires swift and brutal extermination.
 
 Qaishan monks train their minds and bodies so they can protect the peaks as required by their sacred oaths. They use a unique combination of feral combat and hardened discipline to ward off interplanar invaders as well as foes who would seek to hinder or distract their order. Instead of landing successive strikes with their fists, they rely on their deadly claws to inf lict horrendous gashes that blaze with pain thanks to the supernaturally cold energy that infuses their blows. Those seeking to learn the secret techniques of the Qaishan are politely ushered away, and those who press their luck experience the swift and brutal wrath of the normally staid yetis.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Qaishan%20Yeti)
 ```encounter-table
 name: Qaishan Yeti

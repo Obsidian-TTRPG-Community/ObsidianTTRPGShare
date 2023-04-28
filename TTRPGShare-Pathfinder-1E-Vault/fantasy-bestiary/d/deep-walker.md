@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deep Walker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 82
 desc_short: This armor-plated creature has four crab-like legs and four arms with razor-sharp pincers.
 ```
-# Description
+## Description
 Deep walkers are among the largest creatures bred by the aboleths. A deepwalker weighs around 10 tons, and when reared up to its full height, it’s 35 feet tall. 
 
 Deep walkers prefer to feed on blood, especially that of intelligent creatures. While they can at times be encountered alone in the ocean wilds, they are most common in realms controlled by aboleths, where they serve as guardians for these mysterious underwater enclaves or as devastating amphibious assault forces against coastal targets. Those few that have managed to escape direct aboleth control remain vile and cruel sadists, and they often rule over their own petty kingdoms of lesser creatures that they can torment and consume.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deep%20Walker)
 ```encounter-table
 name: Deep Walker

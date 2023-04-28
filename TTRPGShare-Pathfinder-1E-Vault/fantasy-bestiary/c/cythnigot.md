@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cythnigot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 221
 desc_short: This six-legged horror has a spider’s face and a fibrous stalk growing out of its back-a stalk ending in a snapping mouth.
 ```
-# Description
+## Description
 The cythnigot is a foul fungal parasite that grows and thrives within the corpses of small animals. The fungus transforms the host corpse in hideous ways, adding legs or rearranging features-a rat might gain an extra pair of legs and an insectoid visage, while a cat could lose all its legs and fur and gain a snake-like body. The only thing that all cythnigots have in common is a long stalk of fungal material that extends up from the creature’s body, ending in a surprisingly strong set of fanged jaws. A cythnigot without a host body appears as little more than a foul-smelling puffball the size of a human’s fist.
 
 Chaotic evil spellcasters of caster level 7th who have the Improved Familiar feat can gain a cythnigot as a familiar-to do so, the spellcaster must already have a Tiny animal as a familiar. Infusing this familiar with the spores results in a cythnigot that is a loyal, if rather disgusting, minion of the spellcaster.
 
 A cythnigot is about 20 inches long and weighs 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cythnigot)
 ```encounter-table
 name: Cythnigot

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Excavator
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 84
 desc_short: Set atop spoked wheels, this huge contraption has two hinged arms that appear to be designed to shovel rocks into its open maw. Gleaming drills set around the construct’s base look like they could easily break apart stone, and a gleaming scope of dark-hued glass projects from the end of a jointed arm.
 ```
-# Description
+## Description
 The product of greed and invention, clockwork excavators are designed to strip-mine an area in pursuit of mineral wealth. Found in areas where such desires override any concern for the natural environment, clockwork excavators are durable, tough, and purpose-driven.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Excavator)
 ```encounter-table
 name: Clockwork Excavator

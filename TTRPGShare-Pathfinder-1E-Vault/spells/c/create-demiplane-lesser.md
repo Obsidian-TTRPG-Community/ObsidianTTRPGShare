@@ -1,19 +1,21 @@
 ---
-alias: Create Demiplane, Lesser
+aliases: [Create Demiplane, Lesser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Demiplane, Lesser 
+## Create Demiplane, Lesser
 
 **source**:: Ultimate Magic pg. 214  
 **school**:: conjuration (creation)
 **level**:: arcanist 7, cleric 7, occultist 5, oracle 7, psychic 7, sorcerer 7, summoner 5, summoner (unchained) 6, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 2 hours  
 **components**:: V, S, F (a forked metal rod worth at least 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: extradimensional demiplane, up to three 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Create Demiplane, Lesser
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a small, finite demiplane. You must be on the Astral or Ethereal Plane or on a plane that has access to one of those planes (such as the Material Plane) to cast this spell.  
   
@@ -36,4 +38,3 @@ As a standard action, you may eject a creature from your demiplane. The creature
 If you are within the demiplane, you can add to its area by casting the spell again. Alternatively, you may cast this spell again to reset the duration of an existing area to that of your latest casting. If the duration on one area of the demiplane ends and other parts remain, creatures in the expiring area are shunted to remaining areas. If a collapsing portion of the demiplane would leave one section cut off from other sections of the demiplane (for example, if there were three areas connected in a straight line and the center part expired), the stranded sections count as separate demiplanes under your control. You may reconnect these stranded sections by casting the spell again to create a linked area between the two.  
   
 You can make this spell permanent with the *permanency* spell, at a cost of 17,500 gp. If you have cast *create lesser demiplane* multiple times to enlarge the demiplane, each casting’s area requires its own *permanency* spell.
-

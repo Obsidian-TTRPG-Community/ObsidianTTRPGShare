@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,13 +42,13 @@ sources:
     desc: 36
 desc_short: This ill-tempered beast’s tiny, bloodshot eyes glare angrily above a mouth filled with sharp tusks.
 ```
-# Description
+## Description
 Much more ill-tempered and dangerous than their domesticated kin, boars are omnivorous creatures common to temperate forests, although they are not unknown in tropical climes. Other variants exist as well, such as the particularly ugly warthogs that dwell in tropical plains and savannahs. Boars are often hunted for their flesh, which is considered delicious by most humanoids. Those who hunt boars often do so with a special spear fitted with a cross beam to prevent an impaled boar from pushing forward along the spear shaft to gore its tormentor.
 
 The boar’s stubborn nature and habit of eating even bones makes it well suited as a pet for certain folk. Many thieves’ guilds keep boars for the disposal of bodies, while orc tribes let them run loose in their lairs, where they do a relatively good job at keeping these warrens clean of refuse.
 
 A boar is four feet long and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boar)
 ```encounter-table
 name: Boar

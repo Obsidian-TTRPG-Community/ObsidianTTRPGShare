@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Vrock
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 184
 desc_short: This vulture-headed demon has great filthy wings, and a beak and claws ready to rip and tear.
 ```
-# Description
+## Description
 A mythic vrock is a violent creature of unrestrained rage that takes out its anger on anything weaker than itself.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Vrock)
 ```encounter-table
 name: Mythic Vrock

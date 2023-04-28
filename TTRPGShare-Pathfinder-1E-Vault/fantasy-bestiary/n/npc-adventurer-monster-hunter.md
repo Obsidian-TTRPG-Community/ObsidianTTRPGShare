@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Adventurer (Monster Hunter)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: GameMastery Guide
     desc: 257
 ```
-# Description
+## Description
 A monster hunter is a clever, experienced hunter, riding the forest trails with her faithful hawk serving as her eyes above. Whether seeking a reward or bounty, an impressive trophy, or simply an epic fireside tale of the hunt, a monster hunter seldom rests or tarries long when she hears whispered tales of wild things on the prowl. Monster hunters can be outriders and protectors of the wilderness or skilled hunters. Different types of monster hunters can be easily created by changing the monster hunter’s favored enemy, favored terrain, or animal companion.
 
 A merchant prince often has a pair of monster hunters on payroll (CR 10) to dispose of threats to business. Patrols of four monster hunters (CR 9) might serve as wilderness border guards A monster hunter may also adventure with a battle mage, a medium or minstrel, and a tomb raider (CR 9).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Adventurer%20(Monster%20Hunter))
 ```encounter-table
 name: NPC Adventurer (Monster Hunter)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bee-Man of Bellis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 51
 desc_short: This shabby-cloaked figure is surrounded by hundreds of bees.
 ```
-# Description
+## Description
 Vernon Vestha was a forest oracle obsessed with bees, reading the future in the patterns of their flight. Driven mad by a desire to internalize the bees’ powers of divination, he became one with his beloved bees in some honeyed rite. Now a living swarm in the rough semblance of a man, Vernon still roams the forests near Bellis, and some still seek out the ex-druid’s wisdom by calling his name (Knowledge [local] DC 20 to know). He often appears when he is called, though he seldom grants favors without exacting a terrible price.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bee-Man%20of%20Bellis)
 ```encounter-table
 name: Bee-Man of Bellis

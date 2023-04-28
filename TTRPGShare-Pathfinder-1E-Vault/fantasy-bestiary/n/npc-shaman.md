@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shaman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
   - name: NPC Codex
     desc: 244
 ```
-# Description
+## Description
 A shaman serves a small tribe as a visionary and source of wisdom-the sole authority on supernatural matters, and the only one who can communicate with the worlds beyond. His familiar may be a representation of his spirit animal or a spy who allows him to learn more about other tribesfolk and appear wiser than he is.
 
 This stat block can also be used as a lesser adept apprenticed to an initiate (adept 3), doom prophet (adept 4), or guru (adept 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shaman)
 ```encounter-table
 name: NPC Shaman

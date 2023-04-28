@@ -1,19 +1,21 @@
 ---
-alias: Spike Stones
+aliases: [Spike Stones]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spike Stones 
+## Spike Stones
 
 **source**:: PRPG Core Rulebook pg. 348  
 **school**:: transmutation (earth)
 **level**:: druid 4, hunter 4, shaman 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: one 20-ft. square/level  
@@ -21,7 +23,7 @@ alias: Spike Stones
 **saving-throw**:: Reflex partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Rocky ground, stone floors, and similar surfaces shape themselves into long, sharp points that blend into the background.  
   
@@ -31,7 +33,7 @@ Any creature that takes damage from this spell must also succeed on a Reflex sav
   
 Magic traps such as *spike stones* are hard to detect. A rogue (only) can use the Perception skill to find *spike stones*. The DC is 25 + spell level, or DC 29 for *spike stones*. *Spike stones* is a magic trap that can't be disabled with the Disable Device skill.
 
-## Mythic Spike Stones 
+## Mythic Spike Stones
 
 **source**:: Mythic Adventures pg. 109  
 The damage dealt increases to 2d6 points of piercing damage plus 1 point of bleed damage. Add your tier to the DC to detect the magical trap.

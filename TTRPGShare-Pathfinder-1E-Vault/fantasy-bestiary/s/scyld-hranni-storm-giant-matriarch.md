@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scyld Hranni, Storm Giant Matriarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
     desc: 56
 desc_short: This purple-haired giant has dark bronze skin and piercing eyes; she wields an electrified trident and a coral-encrusted shield.
 ```
-# Description
+## Description
 Scyld Hranni is a revered storm giant warrior, her family originally hailing from a small islet just west of the island of Thuryan in Cheliax. The Hranni family gave up their holdings not long after Cheliax bound their fate to the devils of Hell, and since their disbanding, Scyld has searched for purpose amid the vast waters of the Arcadian Ocean, traveling along the coast of southern Avistan and northern Garund. Other storm giants regard her violet hair as a sign of being blessed by the gods, a notion she encourages through her devoted worship of Aegirran. Clad in sleek mithral armor and a barnacle-encrusted shield of driftwood and jagged coral, Scyld trains the myriad sea creatures of the Arcadian Ocean to help her in her search for purpose and her ambitions of eliminating evil throughout the region.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scyld%20Hranni%2C%20Storm%20Giant%20Matriarch)
 ```encounter-table
 name: Scyld Hranni, Storm Giant Matriarch

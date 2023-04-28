@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Feranth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 82
 desc_short: A droning hum announces the presence of this enormous horned beast. Powerful muscles ripple just beneath its mottled black hide.
 ```
-# Description
+## Description
 A feranth uses its devastating sonic attack to incapacitate foes and follows up with its powerful bite, vicious claws, and sharp horns to tear its prey asunder. This massive ambush predator is covered with hardened ridges and mottled black skin. Its limbs end in powerful claws that it uses to dig through tough terrain. When burrowing, a feranth uses its rear legs to smash the sides of its burrow, collapsing the passage behind it. A feranth’s head is adorned with two massive, forward-facing horns and four bulbous, constantly humming sacs that amplify its mighty roars. A feranth stands 25 feet tall and 40 feet long, and weighs between 9 and 11 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Feranth)
 ```encounter-table
 name: Feranth

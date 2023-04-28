@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Embalming Bear
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 60
 desc_short: This decaying taxidermic bear is held together with thick stitches, metal armor plates, and a pungent chemical fluid.
 ```
-# Description
+## Description
 Though embalming bears could easily be mistaken for beasts brought back from the dead, these strange constructs are actually taxidermic bear corpses that have been modified so they can walk once again. Embalming bears employed as guardians are designed to deliver dangerous doses of embalming fluid with strikes from their powerful claws. Few of these creatures exist, and those that do are found where alchemy is widely practiced or where mummification of pets and guardians is a part of funereal tradition. Embalming bears are often created to guard over precious treasures, but some serve less significant functions, and are merely trophies preserved by taxidermists and animated to decorate macabre halls or guard remote locations.
 
 An embalming bear is different from other animated objects in that the process of its creation includes a step that turns the chemicals that preserve the taxidermic animal into a weapon. This especially powerful embalming fluid is a deadly poison when injected into the injuries of living enemies. The main purpose of the liquid, though, is to provide the bear with a semifluid mobility normally not afforded to animated objects.
 
 Many embalming bears (such as the one described here) have armor plates bolted onto their bodies, typically disguised as pieces of ceremonial armor to make the creature look as if it had been used in battle. Though this is often just an affectation, some embalming bears actually are honored creatures that died in battle and were then turned into eternal servants. A typical embalming bear is 7 feet tall and weighs 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Embalming%20Bear)
 ```encounter-table
 name: Embalming Bear

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Limited Wish
+aliases: [Mythic Limited Wish]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Limited Wish
+## Mythic Limited Wish
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: universal
 **level**:: arcanist 7, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (diamond worth 1,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target, Effect, Area** see text  
@@ -21,7 +23,7 @@ alias: Mythic Limited Wish
 **saving-throw**:: none, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A *limited wish* lets you create nearly any type of effect. For example, a *limited wish* can do any of the following things.
 

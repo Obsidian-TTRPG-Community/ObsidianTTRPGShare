@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Angelic Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 52
 desc_short: This brass statue is sculpted in the shape of an angel with metal wings, and its halo takes the form of a burning crown.
 ```
-# Description
+## Description
 Those toiling in the Golemworks of Magnimar provide myriad goods to their buyers, but perhaps none are so popular as the highly sought-after angelic guardian. Nobles, entrepreneurs, and wealthy paranoiacs alike purchase angelic guardians to serve as their personal protectors. Though inspired by Varisian depictions of angelic beings, these metallic beings are not truly from another plane, but are instead merely stylized automatons designed to watch over and protect their masters. They can be found throughout much of the Summit, where they line aristocrats’ gardens and stand stoically for days or even weeks without moving, their burning halos the only feature suggestive of animation.
 
 Angelic guardians can be forged from various substances, though their bodies are typically made from brass and their wings from steel. Angelic guardians stand nearly 7 feet tall and weigh 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Angelic%20Guardian)
 ```encounter-table
 name: Angelic Guardian

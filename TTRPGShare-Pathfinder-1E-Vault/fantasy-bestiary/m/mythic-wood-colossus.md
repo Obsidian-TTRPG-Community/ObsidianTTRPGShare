@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Wood Colossus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 59
 desc_short: This gigantic construct looks like a walking mansion, its body and limbs composed of various rooms.
 ```
-# Description
+## Description
 Standing 60 feet tall and weighing over 200 tons, a wood colossus can serve both as a guardian and as a manor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Wood%20Colossus)
 ```encounter-table
 name: Mythic Wood Colossus

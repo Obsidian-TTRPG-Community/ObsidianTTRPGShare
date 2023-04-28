@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kikimora
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 152
 desc_short: This crone has avian features, including a long nose resembling a beak, clawed hands, and birdlike feet.
 ```
-# Description
+## Description
 Kikimoras are house spirits who torment those with whom they live unless the poor folk cater to and cajole them. They delight in stressing homeowners by using illusion magic to make the house look much filthier than it actually is; their favored illusions are those of scuttling vermin.
 
  Kikimoras are enemies of brownies. While brownies can be mischievous, kikimoras often invite pain and frustration on their chosen housemates instead of helping chores along. Some brownies actively seek out kikimorainfested homes with the intention of driving out the disruptive fey creatures. When homeowners refuse to appease a resident kikimora (or can’t rid themselves of her devious presence), the kikimora visits upon them a swarm of spiders, rats, or bats. Because of the subtle tricks these fey employ, inhabitants in homes plagued by kikimoras often believe they have been beset by ghosts.
 
  Kikimoras love secretly breaking things or making such destruction seem like an accident. They proceed to trick the people in the house into leaving gifts in return for making repairs at night, much to the indignation of brownies, who view such gifts as payments for services rendered and resent the kikimoras’ transformation of such agreements into coercion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kikimora)
 ```encounter-table
 name: Kikimora

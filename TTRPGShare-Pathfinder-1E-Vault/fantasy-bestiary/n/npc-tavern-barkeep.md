@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tavern (Barkeep)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,7 +40,7 @@ sources:
   - name: GameMastery Guide
     desc: 303
 ```
-# Description
+## Description
 A barkeep is the proprietor of an alehouse, saloon, or tavern, often with an inn attached. While some are sly, weasel-like, and unfriendly, most are garrulous raconteurs, seeking to entertain their customers with a story or joke and keep them happy and drinking. With patrons from across the world visiting their taverns, most barkeeps know a smattering of other languages to communicate with foreigners from far-away lands.
 
 Barkeeps are used to trouble in their establishments, for drink often brings out the worst in their customers, and most barkeeps are used to facing down and intimidating drunks and bullies. For times when words fail, a good barkeep keeps a weapon beneath the bar, and is not afraid to use it.
@@ -46,7 +48,7 @@ Barkeeps are used to trouble in their establishments, for drink often brings out
 Changing a barkeep’s Profession skill to (innkeep) creates an innkeeper, possibly with Diplomacy instead of Intimidate, and his Perform skills changed to other Profession skills, such as cook.
 
 An average barkeep has four barmaids on staff, with two guards or street thugs working as bouncers (CR 6). A barkeep might also be found swapping stories over a pint with a shopkeep (CR 4) or guard officer (CR 5).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tavern%20(Barkeep))
 ```encounter-table
 name: NPC Tavern (Barkeep)

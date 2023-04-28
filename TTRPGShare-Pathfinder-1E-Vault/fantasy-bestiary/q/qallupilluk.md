@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Qallupilluk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 88
 desc_short: This hag’s lumpy hide, tangled black hair, and ragged garments drip with icy water, though she has a curiously sweet smell.
 ```
-# Description
+## Description
 A qallupilluk is a sinister and muchdreaded haglike denizen of cold seas. An ambush predator, she waits near gaps and weak points in the ice and listens for the footsteps of creatures above, sometimes humming or tapping on the ice like a trapped seal in the hope of drawing the curious within range of her alluring scent.
 
 When one grabs a victim, she either drowns her prey, saving the body to eat later, or transforms her prey into a monstrous servant that she treats as her own child-and eventually, as a mate. All qallupilluks are female, but they can reproduce with other aquatic monsters. Their offspring are always qallupilluks.
 
 Qallupilluks may craft hovels or lodges from stone or coral on the seabed. A few craft semipermanent homes in the submerged recesses of icebergs. They often know fragments of ancient and obscure natural secrets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Qallupilluk)
 ```encounter-table
 name: Qallupilluk

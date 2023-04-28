@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Star Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -88,9 +90,9 @@ sources:
     desc: 32
 desc_short: This powerful humanoid floats in the air on a nimbus of pearly light. He grips a golden starknife in one hand. 
 ```
-# Description
+## Description
 Star archons are the tacticians and strategists of Heaven. Gifted with insight and powerful magic, they spend much of their time steering long-term plans for Heaven’s armies and good folk in the world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Star%20Archon)
 ```encounter-table
 name: Star Archon

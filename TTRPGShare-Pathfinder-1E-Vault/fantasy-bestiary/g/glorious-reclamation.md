@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Glorious Reclamation
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 90
 desc_short: The white-and-gold tabards of this tight formation of armored soldiers are spotless, and their swords and armor are polished to a mirror-bright sheen.
 ```
-# Description
+## Description
 This represents an average troop of Glorious Reclamation sergeants active around Westcrown and Citadel Rivad. Although most of the individual soldiers in the troop are skilled fighters, the troop contains a sufficient number of clerics to provide the troop with limited healing. These troops are normally outfitted with longswords, full plate armor, and tower shields.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Glorious%20Reclamation)
 ```encounter-table
 name: Glorious Reclamation

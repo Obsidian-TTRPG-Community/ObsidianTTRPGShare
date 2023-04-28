@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Echeneis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 103
 desc_short: This thin, colorful fish has a broad, segmented sucker above its narrow mouth. A line of spines runs down its back.
 ```
-# Description
+## Description
 The echeneis is a magical fish known to sailors in many parts of the world as a major pest due to its theft of speed from boats and large, swimming creatures alike. It ranges across large stretches of water, stopping every few hours to feed and sap velocity from large boats, sharks, whales, and other hosts that might overlook it. Although native to warm waters, echeneises sometimes follow trade vessels elsewhere. Because echeneises prefer murky shallows, sailors rarely notice one before it begins to slow a vessel. The sharp and sturdy spines atop the creatures’ backs scrape the hulls of ships to which they are attached, so sailors lament both the short-term inconvenience and the long-term damage caused by these pests. Old boats with hundreds of scrape marks on their bottoms garner reputations as cursed, and their captains face a serious stigma when trying to recruit crews. It is true that some ships draw echeneises more than others, but apart from the ship’s size there is no indication as to what else might attract the creatures.
 
  Like the remoras they resemble, echeneises are scavengers. However, they are aggressive and often retaliate when knocked off of creatures or vessels. In combat, echeneises attach themselves to enemies to slow them down while flailing with their tails against anyone attempting to remove them. If badly injured while attached, an echeneis releases its victim and uses the speed it has stolen to quickly escape.
 
  An echeneis averages over 3 feet in length and weighs at least 12 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Echeneis)
 ```encounter-table
 name: Echeneis

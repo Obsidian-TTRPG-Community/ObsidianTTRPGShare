@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nixie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 15
 desc_short: This green-skinned fey has webbed hands and feet. Its hair is the color of seaweed, and is decorated with shells.
 ```
-# Description
+## Description
 Nixies are guardians of ponds, rivers, lakes, and springs. They prefer dwelling in idyllic places, which they protect from the depredations of predators and careless humanoids. While this often involves confusing enemies and driving foes away, nixies are not afraid of spilling blood to protect their homes-though they prefer not to resort to such means unless completely necessary. Nixies are 4 feet tall and rarely weigh more than 45 pounds.
 
 Nixies avoid combat if possible, using charm person to lead humanoids away from their lairs. They sometimes use this ability to enslave people to act as protectors or help with a task that is simply too big for them to deal with. They cast water breathing on charmed creatures helping with tasks below the surface. Nixies are reclusive and prefer to keep their presence hidden. They make lairs underwater, forming small communities if their numbers are great enough. Legends speak of a secret nixie kingdom at the bottom of a great lake, but no one has yet confirmed its location.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nixie)
 ```encounter-table
 name: Nixie

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tavern Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
   - name: NPC Codex
     desc: 268
 ```
-# Description
+## Description
 A tavern champion is locally famous for boxing, throwing darts, arm wrestling, or just coming out on top in a bar fight. If she’s not in the mood to fight-for example, if she’s just trying to enjoy a meal or drink with friends-she prefers to intimidate rivals into backing down, but still enjoys a good brawl and knocks out anyone who doesn’t take no for an answer.
 
 Besting the tavern champion in a contest of strength earns her respect and admiration (and often a friendly camaraderie) as long as her opponent has good sportsmanship and lets her keep her dignity in defeat. Humiliating her, on the other hand, could result in an ambush beating or acts against the victor’s property or companion creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tavern%20Champion)
 ```encounter-table
 name: NPC Tavern Champion

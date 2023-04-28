@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Ossuary Agent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 43
 desc_short: A metal mask covers the face of this attentive guard.
 ```
-# Description
+## Description
 Most visitors to the Golden Ossuary have little to fear from the metal-masked guards who patrol the bone house’s opulent grounds. While it is mandatory for visitors, including mourning relatives or prospective plot buyers, to be escorted by agents while wandering within the premises, the agents are there less to deter theft than to keep visitors from falling afoul of the ossuary’s many guards and wards.
 
  During the annual lottery, these guards steer clear of the winning team for 24 hours, instead protecting those reveling in the side events. However, winners still inside when their 24 hours expire are met with efficient resistance.
 
  The ossuary agents claim their superiors receive orders each morning via written instructions from an unknown entity. While speculation surrounding the identity of their leader runs wild, any curiosity is quelled by the obscene monthly payments these agents receive.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Ossuary%20Agent)
 ```encounter-table
 name: NPC Ossuary Agent

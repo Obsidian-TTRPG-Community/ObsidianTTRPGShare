@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skaveling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 42
 desc_short: This monstrously sized, undead bat has mottled, decayed flesh and eyes that smolder with an unholy green glow. 
 ```
-# Description
+## Description
 Known in some circles as ghoul bats, skavelings are the hideous result of necromantic manipulation by urdefhans, who create them from mobats specially raised on diets of fungus and humanoid flesh. Upon reaching maturity, urdefhans ritually slay the bats using necrotic poisons, then raise the corpses to serve as mounts and guardians.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skaveling)
 ```encounter-table
 name: Skaveling

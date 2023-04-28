@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moonflower
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 82
 desc_short: A twisted trunk clustered with bulbous blossoms holds up a gaping mouth ready to swallow a victim whole.
 ```
-# Description
+## Description
 A fully grown moonflower easily stands 20 feet tall, its massive trunk frequently 4 feet or more in diameter. The roots extend away from the base and into the soil, making the plant seem well anchored, but the roots themselves possess an agility that belies the great size of the plant and allows the moonflower to uproot itself and move with surprising speed. The tendrils of the plant are independently prehensile and writhe around the large flytrap-like “head” that crowns the stem.
 
 Moonflowers have never been known to communicate with other creatures, even with druids and others who regularly converse with plants. The plants do possess some manner of strange telepathy, though, and are in constant communication with their nearby brethren. Those who manage to intrude upon the creatures’ alien thoughts face an assault of horrible visions of terrifying jungles filled with ancient, sentient, and malign plants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moonflower)
 ```encounter-table
 name: Moonflower

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Svartalfar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 256
 desc_short: This hairless, black-skinned elf like creature has an expressionless face and wields an eerie ebon sword.
 ```
-# Description
+## Description
 The ancestors of the svartalfars were exiled from their primordial home for grave crimes that no fey will speak of. Fleeing to the Shadow Plane, they formed assassin clans, and now they hire their services to any who pay them. Their payment must be in secrets, bits of occult science, and obscure information to add to their huge, dark libraries in underground warrens hidden away on the Shadow Plane. Svartalfars are extremely interested in knowledge about the realm of the fey. Many fear the svartalfars are searching for a way to finally take their revenge upon those who expelled them.
 
 These cold, calculating killers are not swayed by whimsy or deeper passions. They pride themselves on their pitilessness and inability to be bribed or dissuaded from ending a target’s life once they’ve been contracted to do so. Once an assassination is paid for, it’s the duty of all the svartalfars of a clan or cabal to make sure it gets done. If a clan or cabal fails, another one will finish the job.
 
 Svartalfars seem to feel no love or real friendship. All of their actions are committed for practical reasons-political gain, procreation, or relieving boredom. Focused and utterly unyielding, they are considered by many to be the perfect killers, and their tenacity and mastery over magic and shadows are a death sentence for anyone who has been marked as their quarry.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Svartalfar)
 ```encounter-table
 name: Svartalfar

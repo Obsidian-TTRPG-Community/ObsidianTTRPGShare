@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brethedan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 59
 desc_short: This amorphous creature looks like an iridescent, blimp-shaped jellyfish, with a line of tentacles dangling down beneath it.
 ```
-# Description
+## Description
 Brethedans are an adaptive race of floating, telepathic creatures that live on gas giant worlds. Though highly intelligent, they disdain physical tools, likely because of the lack of raw materials available in the clouds of their vast homes. Instead, brethedans have evolved to solve problems by combining and modifying their bodies or producing tailored biological agents inside themselves. Though humanoids rarely understand the placid race’s obscure and alien goals, brethedans do sometimes travel to and even colonize other gaseous worlds, and are believed to be the first creatures to have tamed oma for use as living spaceships. A typical Brethedan is 10 feet long and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brethedan)
 ```encounter-table
 name: Brethedan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gathlain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 122
 desc_short: Wings composed of wood and vines grow out of the body of this lithesome fey.
 ```
-# Description
+## Description
 According to some fey ballads, gathlains were one of the first peoples awakened in the primal world of fey. They were created from the seeds of an enormous magical tree, with the tree’s mistletoe grown into their flesh forming their strange wings.
 
 Mischievous and capricious, these creatures have discordant temperaments. They act purely to entertain themselves and sate their immense curiosity about the world around them. That very curiosity has caused many to migrate to the Material Plane and adventure there. These gathlains seek out and attempt to mingle with gnomes. However, gnomes often find gathlains too undisciplined, random, and foolish for their tastes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gathlain)
 ```encounter-table
 name: Gathlain

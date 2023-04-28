@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Calathgar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 84
 desc_short: The acrid scent of vinegar wafts from this shield-sized blossom. Amid shocking blue petals slowly twitches a cluster of sharp stamens arranged like a ring of teeth within a leafy muzzle.
 ```
-# Description
+## Description
 Known to grow in the depths of the densest frozen forests, realms where icicles rarely melt from the snow-cloaked trees, calathgars, or “hail lilies,” grow to a size and possess an alien beauty that make their cuttings greatly desired in civilized lands. Yet, what few beside the wariest hunters and most knowledgeable denizens of the forests realize is that hail lilies are more than mere flowers-their fully grown varieties possess not only a deadly way of spreading their frozen seeds but also an even more dangerous trait: thought. Known among their own kind as calathgars, these ice-tinged plants move slowly and possess little in the way of society, yet they perceive their surroundings, know when their frigid gardens are threatened, feel pain, and-most tenaciously- seek a chilling revenge when their young are despoiled.
 
 The blooms of a fully grown calathgar measures 3 feet in diameter, though some have reported flowers up to 5, 8, and even 10 feet wide. Able to crawl on three tendrillike roots, one of these plants might stand as high as 4 feet off the ground, and when heavy with seeds might weigh as much as 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Calathgar)
 ```encounter-table
 name: Calathgar

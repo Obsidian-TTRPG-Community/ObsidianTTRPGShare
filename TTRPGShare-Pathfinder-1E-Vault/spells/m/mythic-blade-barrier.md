@@ -1,19 +1,21 @@
 ---
-alias: Mythic Blade Barrier
+aliases: [Mythic Blade Barrier]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Blade Barrier
+## Mythic Blade Barrier
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: evocation (force)
 **level**:: cleric 6, inquisitor 6, occultist 6, oracle 6, psychic 6, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: wall of whirling blades up to 20 ft. long/level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form is 20 ft. high  
@@ -21,7 +23,7 @@ alias: Mythic Blade Barrier
 **saving-throw**:: Reflex half or Reflex negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage.  
   

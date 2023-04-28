@@ -1,19 +1,21 @@
 ---
-alias: Alter River
+aliases: [Alter River]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Alter River 
+## Alter River
 
 **source**:: People of the River pg. 26  
 **school**:: transmutation (water)
 **level**:: arcanist 5, cleric 4, druid 4, hunter 4, oracle 4, sorcerer 5, warpriest 4, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S, V, M (silt from a dry riverbed)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: area of river up to 5 ft. wide/2 levels and 10 ft. long/level  
@@ -21,7 +23,7 @@ alias: Alter River
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You alter the flow of water in a natural freshwater channel such as a river, stream, or waterfall. The first version of this spell alters the speed of a river’s flow. The second diverts the course of the targeted river.  
   

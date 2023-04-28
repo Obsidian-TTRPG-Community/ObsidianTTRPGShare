@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC City Guard (Magnimar)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 54
 desc_short: Clad in blue-tinted scale mail and carrying a halberd, this guard patrols the city with a keen eye.
 ```
-# Description
+## Description
 Magnimar has few laws for a city its size, but it still employs a sizable force of guards, centralized within the towering Arvensoar. Guards walk the streets regularly, policing the various quarters and maintaining peace throughout the city, though the wealthier districts see noticeably more protection than areas such as the Shadow. Magnimar’s city guards are trained to detain criminals and keep the peace without needless violence, using nonlethal force in all but the most extreme cases.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=City%20Guard%20(Magnimar))
 ```encounter-table
 name: NPC City Guard (Magnimar)

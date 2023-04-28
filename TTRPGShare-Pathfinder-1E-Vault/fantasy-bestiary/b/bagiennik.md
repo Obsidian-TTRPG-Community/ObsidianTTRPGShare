@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bagiennik
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 40
 desc_short: This small, lizardlike creature has a humanoid upper body and a long tail with frilled extensions.
 ```
-# Description
+## Description
 Bagienniks are small, amphibious fey that hide in tall reeds along rivers. They frequently dig into the silt beneath the pools of hot springs, where they take long naps in the warm and comforting waters and play pranks on foolish bathers who swim too close to the bagienniks’ hiding spots. Despite their capricious nature, the creatures are sought for their healing abilities. They delight in curing maladies and burning away infirmities with their caustic nasal spray.
 
 A local bagiennik is considered a boon in many river towns. Citizens of such settlements often venture to the rivers with offerings, hoping to encourage the fey to stay close and heal their families. A bagiennik that finds a generous town might invite its extended family to settle in, testing the patience and largesse of its hosts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bagiennik)
 ```encounter-table
 name: Bagiennik

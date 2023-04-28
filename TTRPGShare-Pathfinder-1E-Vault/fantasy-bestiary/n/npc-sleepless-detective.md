@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sleepless Detective
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 55
 ```
-# Description
+## Description
 The Sleepless Agency operates out of Ustalav but provides peerless investigative services to clients located throughout the Inner Sea region. Although the organization also hires out bodyguards and other security experts, its most famous operatives are its detectives, who are able to spot and analyze the faintest clue. Some Sleepless detectives even take on proteges, who are expected to finance the investigations they conduct in exchange for receiving their training in the organization. The final test to enter the agency’s ranks is to prove one’s own innocence through superior investigative techniques after established Sleepless detectives frame the prospective agent.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sleepless%20Detective)
 ```encounter-table
 name: NPC Sleepless Detective

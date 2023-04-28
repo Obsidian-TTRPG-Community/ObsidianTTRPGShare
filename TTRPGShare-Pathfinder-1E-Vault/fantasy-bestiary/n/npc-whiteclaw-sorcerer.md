@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Whiteclaw Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: NPC Codex
     desc: 161
 ```
-# Description
+## Description
 The whiteclaw sorcerer revels in her draconic blood, using her powers to terrify and kill enemies in her territory.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Whiteclaw%20Sorcerer)
 ```encounter-table
 name: NPC Whiteclaw Sorcerer

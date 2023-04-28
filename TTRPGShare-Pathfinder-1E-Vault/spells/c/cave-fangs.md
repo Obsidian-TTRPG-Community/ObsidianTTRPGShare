@@ -1,19 +1,21 @@
 ---
-alias: Cave Fangs
+aliases: [Cave Fangs]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cave Fangs 
+## Cave Fangs
 
 **source**:: Ultimate Wilderness pg. 228  
 **school**:: conjuration (creation) (earth)
 **level**:: druid 5, hunter 5, shaman 5, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a sharp gemstone fragment worth 150 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: one 5-ft. square/level (S); the area must be a stone surface  
@@ -21,7 +23,7 @@ alias: Cave Fangs
 **saving-throw**:: Reflex half (see below)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a magical trap in the area that causes deadly stalactites or stalagmites to lurch out of the floor or ceiling of a stone surface to “bite” an intruder. The magical trap is triggered whenever a Small or larger creature (other than you or your animal companion, familiar, or spirit animal) moves through the affected area. The effect of *cave fangs* depends on whether you create stalactites or stalagmites (see below). You can place these trapped squares anywhere within the spell’s range; they need not be adjacent to each other, and you can create any mix of stalactites and stalagmites you wish. *Cave fangs* can be detected and disarmed as per a magical trap with successful DC 30 Perception and Disable Device checks. All trapped squares created by a single casting are linked, and they are all disabled if one of them is. If you place the traps in an area that is occupied by a creature, the spell effect is triggered at the completion of the casting.  
   

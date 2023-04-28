@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cayhound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 8
 desc_short: This reddish-colored mastiff stands eye to eye with most dwarves. Within its powerful frame rumbles the distant sound of thunder.
 ```
-# Description
+## Description
 Cayhounds, also called leap dogs, are good-aligned outsiders who exemplify strength and freedom. They are descendants of Thunder, the pet mastiff of the Accidental God, Cayden Cailean, who uplifted his faithful companion upon achieving his own apotheosis. Thunder sired the entire cayhound race (including his famous son, Little Thunder) on the golden fields of Elysium. Cayhounds are filled with wild and turbulent forces barely contained within their canine shapes. They are intelligent and feel true lust for and joy in life, including righteous battle, good food, and strong drink. These fiery red hounds stand head to chest with most humans and weigh approximately 250 pounds.
 
 Wild as they are, the cayhounds are still more good-aligned than they are chaotic. Like their true master, they are great champions of freedom, and they channel his strength and courage (and a bit of luck) in opposing nefarious schemes wherever they find them. Some ally themselves with azatas, supporting good crusades against the Outer Planes. A pack of cayhounds might seek to disrupt a night hag and her steed’s theft of good souls traveling to their intended destinations in the Great Beyond. Single cayhounds may be summoned via lesser planar ally by priests of Cayden Cailean to come to the aid of the faithful.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cayhound)
 ```encounter-table
 name: Cayhound

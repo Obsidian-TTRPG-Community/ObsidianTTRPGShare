@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ice Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 191
 desc_short: A snake-like, dragon-headed monster of tremendous size rises up, drifts of snow and ice tumbling from its coiling flanks.
 ```
-# Description
+## Description
 The ice linnorm dwells amid glacial crevasses and atop wind-blasted mountain peaks-tales speak of climbers unwittingly clambering over the flanks of a particularly immense ice linnorm coiled around a mountain, only to find death at its furious fangs and claws at the summit of their goal. During the fiercest winters, ice linnorms are said to slither down to the lowlands to eat entire villages.
 
 An ice linnorm is 90 feet long and weighs 18,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ice%20Linnorm)
 ```encounter-table
 name: Ice Linnorm

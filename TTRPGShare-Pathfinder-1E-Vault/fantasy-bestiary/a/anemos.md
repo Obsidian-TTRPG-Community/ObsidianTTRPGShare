@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Anemos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,7 +79,7 @@ sources:
     desc: 20
 desc_short: Strong winds whip around this majestic being, and lightning crackles from her eyes and flickers along her skin.
 ```
-# Description
+## Description
 Anemoi are godlike beings from the Plane of Air, masters of the storm and sky. While an anemos appears humanoid in shape, even a cursory glance reveals that its humanlike appearance is a complete facade, for its 6-foot-tall body is composed of solidified air, has no vital organs, and is nearly weightless. The winds themselves obey an anemos, and greater sky deities often task four anemoi with controlling the wind patterns for an entire world on the Material Plane.
 
 Implacable but not malevolent, an anemos guides its winds along the paths dictated by nature, heedless of how the weather patterns help or harm the creatures in their paths, whether through drought, flood, tornadoes, or hurricanes. Mighty heroes sometimes trap an anemos in earth and force it to protect the heroes’ allies or destroy their enemies in exchange for its freedom. While an anemos always honors such agreements, such heroes may find the weather turning against them at a crucial moment many years later.
@@ -87,7 +89,7 @@ Anemoi generally have little to do with their own kind, though they may hold cou
 Anemoi are particularly fond of music, particularly that of wind instruments, and each can perform as a full wind ensemble with its own winds simultaneously. They appreciate musical talent in their followers, allowing sirens and other creatures with musical skills to join their courts. Despite anemoi’s aloofness, skilled mortal musicians can earn their way into the creatures’ good graces, and romance between anemoi and mortals, while extraordinarily rare, is not impossible.
 
 Though they are beings of air, anemoi usually choose to appear in humanoid form. Many sylphs, sorcerers with an air elemental bloodline, and aerokineticists make grandiose claims about anemos descent, but only a handful have the pedigree to support those claims, and they tend to become notable heroes and villains in their own right.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Anemos)
 ```encounter-table
 name: Anemos

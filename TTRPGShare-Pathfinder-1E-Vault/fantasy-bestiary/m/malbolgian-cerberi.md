@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Malbolgian Cerberi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 84
 desc_short: A beast leapt forth from the flames of Hell, this gigantic, threeheaded hound howls a sound like the cacophony of a raging wildfire. Large enough to heft a horse in its monstrous maws, this terror bears no flesh, its body merely a thing of exposed bone and charred musculature. From its three fanged mouths leap tongues of flame, and crimson saliva leaks from the terror’s skeletal jaws.
 ```
-# Description
+## Description
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Malbolgian%20Cerberi)
 ```encounter-table
 name: Malbolgian Cerberi

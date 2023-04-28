@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lurker Above
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
   - name: Misfit Monsters Redeemed
     desc: 50
 ```
-# Description
+## Description
 Lurkers above are the nearly mindless males of the species, and follow much the same tactics as executioner’s hoods, save that they gain the ability to stretch themselves wide, glide with both speed and silence, and can even fly by awkwardly flapping their flesh. They typically hide on cavern ceilings, shifting their coloration and texture to match the surrounding terrain.
 
 Like all lurking rays, lurkers above are carnivorous, preferring the tang of living flesh-though they can subsist for a time on the minerals they absorb from rocky surfaces through their tentacles. Males are less able to subsist on minerals, however, and hence hunt more actively. While lurkers above are poor fliers, they’re excellent gliders, able drop off a ceiling and silently float more than 100 feet horizontally over the course of a 5- or 6-foot drop.
 
 Lurkers above can grow to be 15 feet from tip to tip, and weigh nearly 500 pounds when fully fed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lurker%20Above)
 ```encounter-table
 name: Lurker Above

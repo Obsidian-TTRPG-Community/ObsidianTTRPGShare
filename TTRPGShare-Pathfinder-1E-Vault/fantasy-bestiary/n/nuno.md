@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nuno
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 132
 desc_short: This withered, eyeless little creature has a mushroom cap for a head, and a stringy fungus beard frames his toothless grin.
 ```
-# Description
+## Description
 Nunos are fungus gremlins that live in anthills. Even young nunos appear as wizened old men, and the creatures are solitary hermits, living among ants in anthills and burrows in tropical regions. Though nunos are as spiteful as any other gremlins, they tend to keep to themselves and reserve their enmity for those who bother them-especially those who dare to harm a nuno’s anthill home.
 
 Due to the relative difficulty of removing a nuno’s curse via magic, the best options for a creature cursed by a nuno are to slay the nuno or parley with the creature. Since the curse could have triggered while the nuno wasn’t present, both approaches are made easier by the nuno’s wax locator ability. Though inherently grumpy, nunos are easily bribed with offerings of fruit or valuable objects, and can at times be swayed by a particularly well-constructed argument. They can also usually be persuaded by humanoids and fey they find beautiful, though a nuno’s predilections are unpredictable at best, and they tend to loathe conventional beauty.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nuno)
 ```encounter-table
 name: Nuno

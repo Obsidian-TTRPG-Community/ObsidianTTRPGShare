@@ -1,19 +1,21 @@
 ---
-alias: Sword to Snake
+aliases: [Sword to Snake]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sword to Snake 
+## Sword to Snake
 
 **source**:: Dirty Tactics Toolbox pg. 29  
 **school**:: transmutation (poison)
 **level**:: arcanist 4, cleric 4, druid 4, hunter 4, oracle 4, shaman 4, sorcerer 4, summoner 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a hair from a spider)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one Medium or smaller item  
@@ -21,7 +23,7 @@ alias: Sword to Snake
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 When you make an undulating gesture using your hand, the target item changes slightly in shape and appearance to resemble a cross between its original form and that of a venomous animal. For example, a staff might change to resemble a snake, a shield might change to resemble an enormous venomous beetle, or the hilt of a sword might change to resemble a scorpion’s tail.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mokele-Mbembe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 26
 desc_short: This long-necked creature has an even longer tail, as well as a row of spines along its back and countless sharp fangs.
 ```
-# Description
+## Description
 Mokele-mbembes are large, reptilian predators that inhabit the hottest jungles, always close to lakes, rivers, or other large bodies of water. A mokele-mbembe’s long, whiplike tail accounts for half its length. 
 
 Although they resemble herbivorous dinosaurs, mokelembembes are cunning and territorial predators. They make their lairs in riverside caves, close to their food sources, where they can sun themselves after eating. Natural swimmers, mokele-mbembes have webbed feet, but their long legs enable them to move easily on land as well. They spend much of their time in the water, where they can relax and float or use their long necks to attack while submerged, favoring blind river bends to ambush prey. Mokele-mbembes require large quantities of food daily, and feed on fish, birds, and even large mammals- humanoids included. Hippopotamuses are a favorite prey, and mokele-mbembes attack them on sight. Battles between these two river giants are legendary among local tribes, whose shamans often see portents or prophecies in the outcomes. 
 
 An adult mokele-mbembe can grow up to 40 feet in length and weighs almost 10 tons. Males are only slightly longer and heavier than females.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mokele-Mbembe)
 ```encounter-table
 name: Mokele-Mbembe

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Helicoprion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 85
 desc_short: This creature resembles an ordinary shark from tail to mouth, but the unusual shape of its lower jaw marks it as something else. A whorl of teeth spirals inward, tiny at the centre, but long and brutal farther out.
 ```
-# Description
+## Description
 The helicoprion is a bizarre beast to behold. The remarkable physiology of its mouth allows it to f lick out its bottom jaw, unrolling the whorl of teeth and snaring prey along its length. As its powerful muscles roll its jaw, the prey becomes trapped in a spiral of ragged, brutal incisors. Once it has captured a hearty meal, the helicoprion retreats in a thickening cloud of its victim’s blood to patiently await the slowing of struggles and the imminent demise of its dinner.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Helicoprion)
 ```encounter-table
 name: Helicoprion

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Morlock Swarmer Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
   - name: Pathfinder No. 117: Assault on Longshadow
     desc: 90
 ```
-# Description
+## Description
 While all morlocks are adept at fighting as a group and swarming against enemies, Kosseruk’s training has whipped these morlocks into a cohesive troop, making them particularly deadly. It is unlikely the morlock troops would function were it not for Zanathura’s influence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Morlock%20Swarmer%20Troop)
 ```encounter-table
 name: Morlock Swarmer Troop

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seps
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 237
 desc_short: This giant armored snake has large fangs, dripping with venom that hisses when it spatters on the ground.
 ```
-# Description
+## Description
 A seps is an exotic snake-like creature whose powerful jaws contain acidic venom so potent that it quickly dissolves prey into liquid.
 
 An adult seps is 30 feet long and weighs 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seps)
 ```encounter-table
 name: Seps

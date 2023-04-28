@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Effigy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 88
 desc_short: Carved from gray stone, this enormous figure is shaped like the head of some primordial giant.
 ```
-# Description
+## Description
 Resting among countless tribes across the world are strange icons and statues dedicated to the memories of ancient leaders or spiritual guides. Sometimes such figures hide greater intellects, inhabiting essences that watch over nearby settlements. Known as living effigies, these stone statues are possessed by the spirits of deceased chieftains and shamans who managed to partially cheat death by imparting a portion of their souls into stone images. Each living effigy is unique in its features-some resemble the heads of great giants, while others are busts of other creatures. Twin gems are embedded in the eyes of each living effigy; they glow a vibrant color whenever the statue uses one of its many magical abilities.
 
 A living effigy’s personality is as unique as its countenance, as the souls inhabiting the massive stones range from kind protectors wishing to continue their vigil over a settlement to brutal tyrants wishing only to reign past death. A living effigy stands 15 feet tall and weighs 40 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Effigy)
 ```encounter-table
 name: Living Effigy

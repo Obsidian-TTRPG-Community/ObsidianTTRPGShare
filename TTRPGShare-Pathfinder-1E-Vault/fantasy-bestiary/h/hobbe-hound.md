@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobbe Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 88
 desc_short: A greasy sheen coats the scarred, rippling hide of this dog-shaped beast. Beady eyes, wide ears, and jagged teeth lend rodent-like qualities to the imposing war beast.
 ```
-# Description
+## Description
 Standing 3 feet tall and weighing nearly 150 pounds each, hobbe hounds are disposable war dogs of hobgoblin armies. Cowed only by shows of violence, they are loathsome and miserable creatures that return savagery in kind. The thick, waxy musk that constantly oozes from their pockmarked skin reeks of death and urine, and is highly irritating to non-goblinoids. Far worse, their fetid coating bursts into flame with the slightest spark, and while most armies would find flammable shock troops to be a hindrance, efficient and cruel hobgoblins find burning, baying, savage beasts of war ideal for breaking enemy ranks and sowing chaos before their own regiments close to melee.
 
  Hobbe hounds first appeared in Avistan during the Goblinblood Wars, when the beasts were unleashed against Andoren Eagle Knights along the war’s southern front. The hobgoblins of the Chitterwood often intentionally set their own chargers ablaze, unleashing entire walls of flaming savagery upon the panicked soldiers. In the years since, surviving war beasts have formed feral packs in Isger, Molthune, and Cheliax, while hobgoblin tribes across the Inner Sea region have begun breeding their own stocks of the monsters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobbe%20Hound)
 ```encounter-table
 name: Hobbe Hound

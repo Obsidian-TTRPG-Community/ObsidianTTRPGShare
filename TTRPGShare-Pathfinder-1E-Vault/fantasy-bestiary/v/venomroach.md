@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Venomroach
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 85
 desc_short: The brown and black exoskeleton of this roach gleams when exposed to the light.
 ```
-# Description
+## Description
 Like their smaller and more mundane cousins, venomroaches lurk along the fringes of humanoid civilization, skittering through the dark corners of the world. Dangerous denizens of sewers and alleyways, venomroaches have a pair of traits that set them apart from most of their kin. As their name would suggest, these vermin generate a potent toxin that withers tissue and poisons the blood. Unlike their smaller cousins, venomroaches also have enlarged mouthparts that give them a potent bite attack.
 
 Venomroaches are 8 feet long and weigh 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Venomroach)
 ```encounter-table
 name: Venomroach

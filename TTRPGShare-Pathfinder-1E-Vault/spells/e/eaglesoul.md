@@ -1,25 +1,27 @@
 ---
-alias: Eaglesoul
+aliases: [Eaglesoul]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Eaglesoul 
+## Eaglesoul
 
 **source**:: Inner Sea Magic pg. 53  
 **school**:: conjuration (summoning) (good)
 **level**:: cleric 6, oracle 6, paladin 4, summoner 5, summoner (unchained) 5, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (vellum inscribed with good outsider’s name)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level (see below)
 
-### Description 
+### Description
 
 As the Inner Sea’s bravest men and women answered the call of what became the Second Mendevian Crusade, constructing the *wardstones* that eventually kept the brutal chaos of the Worldwound at bay, they realized that they needed help beyond traditional magics.  
   

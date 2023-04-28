@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shoreline Cleric
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: NPC Codex
     desc: 45
 ```
-# Description
+## Description
 There is no description for this NPC.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shoreline%20Cleric)
 ```encounter-table
 name: NPC Shoreline Cleric

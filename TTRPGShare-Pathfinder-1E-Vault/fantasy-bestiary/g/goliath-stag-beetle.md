@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goliath Stag Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 44
 desc_short: This massive beetle is the size of a small house. Its immense, horn-like mandibles clash with a hungry fervor. 
 ```
-# Description
+## Description
 Making its home in tropical and subtropical forests across the globe, the goliath beetle is among the largest species of giant beetle. While its diminutive cousins are primarily herbivores, the goliath stag beetle is carnivorous, hunting herd animals, humanoids, and even giants with ease. They typically use their trample attack against creatures smaller than themselves, returning after this punishing assault to pick off anything that’s still moving with swift and deadly bites. 
 
 A goliath stag beetle is 25 feet long and weighs 8,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goliath%20Stag%20Beetle)
 ```encounter-table
 name: Goliath Stag Beetle

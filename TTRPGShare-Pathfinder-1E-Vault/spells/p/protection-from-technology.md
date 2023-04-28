@@ -1,19 +1,21 @@
 ---
-alias: Protection from Technology
+aliases: [Protection from Technology]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Protection from Technology 
+## Protection from Technology
 
 **source**:: Technology Guide pg. 10  
 **school**:: abjuration
 **level**:: arcanist 2, cleric 2, oracle 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a pinch of powdered copper)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Protection from Technology
 **saving-throw**:: Will negates (harmless), see text
 **spell-resistance**:: no, see text
 
-### Description 
+### Description
 
 This spell wards a creature from attacks by technological objects and creatures of the robot subtype, and protects against mental control from technological sources. It creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has two major effects.  
   

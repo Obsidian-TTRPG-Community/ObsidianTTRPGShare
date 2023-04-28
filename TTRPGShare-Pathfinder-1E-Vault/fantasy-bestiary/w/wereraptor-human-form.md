@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wereraptor (Human Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 88
 desc_short: This humanoid is covered in small feathers and bears the head of a grand eagle. Its arms are feathered like wings, and it has talons in place of hands.
 ```
-# Description
+## Description
 Wereraptors fuse the senses of a predatory bird and the unique skills and traits of a humanoid, and thus enjoy heightened awareness and nimbleness. Like their animal kin, wereraptors are calculating and insightful, making them particularly adept hunters. Their aesthetic traits vary based on their avian lineage, but wereraptors share a common array of physical properties. Natural wereraptors appear to be normal members of their humanoid race, though they have light hair, thin frames, and sharp facial features. They typically stand taller than other members of their race and have lithe bodies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wereraptor%20(Human%20Form))
 ```encounter-table
 name: Wereraptor (Human Form)

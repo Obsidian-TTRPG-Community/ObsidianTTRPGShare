@@ -1,25 +1,27 @@
 ---
-alias: Undead Anatomy III
+aliases: [Undead Anatomy III]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Undead Anatomy III 
+## Undead Anatomy III
 
 **source**:: Ultimate Magic pg. 245  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, arcanist 6, investigator 6, magus 6, sorcerer 6, spiritualist 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 This spell functions as *undead anatomy II*, except it also allows you to assume the form of a Diminutive or Huge corporeal creature of the undead type. If the form you assume has any  
   
@@ -30,4 +32,3 @@ If the creature has immunity or resistance to any energy types, you gain resista
 *Diminutive undead*: If the form you take is that of a Diminutive undead, you gain a +6 size bonus to your Dexterity, a -4 penalty to your Strength, and a +1 natural armor bonus.  
   
 *Huge undead*: If the form you take is that of a Huge undead, you gain a +6 size bonus to your Strength, a -4 penalty to your Dexterity, and a +6 natural armor bonus.
-

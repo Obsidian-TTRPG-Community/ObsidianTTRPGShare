@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Holy Battle Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -100,9 +102,9 @@ sources:
   - name: NPC Codex
     desc: 231
 ```
-# Description
+## Description
 These master theurges mix support for allies with offensive might.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Holy%20Battle%20Mage)
 ```encounter-table
 name: NPC Holy Battle Mage

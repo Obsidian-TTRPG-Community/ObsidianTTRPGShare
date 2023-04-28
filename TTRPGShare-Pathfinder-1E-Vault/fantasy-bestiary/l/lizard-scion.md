@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lizard Scion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 148
 desc_short: This muscular lizardfolk towers above others of its kind, a primeval behemoth painted with elaborate designs.
 ```
-# Description
+## Description
 Every few generations, a lizard scion is born to a lizardfolk tribe. With twice the life span of a typical lizardfolk and a large and muscular stature, a scion typically rises to become the leader of her tribe. Lizardfolk show great-often unquestioning-devotion to scions, believing they are blessings from the spirits and divine in nature. In many ways, tribes see them as living monuments to the lost greatness of their people, singing songs of an era when every lizardfolk was as large and impressive as the scion.
 
 A lizard scion is not officially recognized until her 100th birthday, though many might suspect that she is one. At that point, the tribe holds a ceremony in which they present the newly titled lizard scion with a special war trident as a mark of status. These ancient tridents are never used by ordinary lizardfolk, and most have been handed down through their tribe for generations, sometimes sitting untouched for hundreds of years until the naming of a new lizard scion.
@@ -58,7 +60,7 @@ Some lizard scions become great protectors and voices of wisdom among their peop
 There are rumors that deep in some jungles or swamps there live entire tribes of dinosaur-herding lizard scions that have bred true as a race, but such stories may be little more than the overactive imaginations of explorers and treasure hunters.
 
 Lizard scions average 10 feet in height and 500 pounds, though this can vary by tribe and age. Unlike boggard priest-kings, lizard scions are never fat, but rather hugely muscled specimens with excellent reflexes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lizard%20Scion)
 ```encounter-table
 name: Lizard Scion

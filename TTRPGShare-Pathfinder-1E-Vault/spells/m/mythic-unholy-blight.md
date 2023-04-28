@@ -1,19 +1,21 @@
 ---
-alias: Mythic Unholy Blight
+aliases: [Mythic Unholy Blight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Unholy Blight
+## Mythic Unholy Blight
 
 **source**:: Mythic Adventures pg. 110  
 **school**:: evocation (evil)
 **level**:: cleric 4, inquisitor 4, oracle 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Mythic Unholy Blight
 **saving-throw**:: Will partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You call up unholy power to smite your enemies. The power takes the form of a cold, cloying miasma of greasy darkness. Only good and neutral (not evil) creatures are harmed by the spell.  
   

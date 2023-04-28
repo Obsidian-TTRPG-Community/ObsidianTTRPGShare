@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Carousing Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: NPC Codex
     desc: 47
 ```
-# Description
+## Description
 The carousing champion serves the god of freedom, bravery, and ale, and uses his significant abilities to bring happiness to common folk and stand up against oppression of all sorts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Carousing%20Champion)
 ```encounter-table
 name: NPC Carousing Champion

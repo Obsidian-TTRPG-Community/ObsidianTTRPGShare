@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Parasaurolophus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
     desc: 91
 desc_short: This thick-bodied dinosaur has a whip-like tail and a long neck, its head topped by the crest of a backward-curving horn. 
 ```
-# Description
+## Description
 This herbivore is 30 feet long and weighs 10,500 pounds. It is notable for the long, curved crest atop its skull.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Parasaurolophus)
 ```encounter-table
 name: Parasaurolophus

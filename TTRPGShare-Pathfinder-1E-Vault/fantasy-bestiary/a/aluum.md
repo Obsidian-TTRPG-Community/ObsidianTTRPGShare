@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aluum
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 58
 desc_short: This looming humanoid figure is made of rune-etched metal and polished stone, with crystalline eyes that glow with blue light.
 ```
-# Description
+## Description
 Aluums are magical constructs created from metal and stone native to Katapesh. They are the fighting juggernauts that maintain order within the city of Katapesh when the city’s normal means of doing so fail. Aluums are powered by the souls of Katapeshi slaves and prisoners bound into glowing gems in their chests.
 
 An aluum stands approximately 14 feet tall and weighs over 2 tons. They are controlled by magical pendants called charms of aluum control (see page 298).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aluum)
 ```encounter-table
 name: Aluum

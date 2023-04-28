@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soulbound Mannequin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 248
 desc_short: This strange construct is shaped like a masked humanoid made of wood and porcelain.
 ```
-# Description
+## Description
 A soulbound mannequin is a human-sized improvement on the soulbound doll (Pathfinder RPG Bestiary 2 255). The binding process is sophisticated enough to leave much of the soul’s personality intact. Most are crafted to allow a faithful servant to remain with a prestigious family or to allow a dying loved one to remain among the living in a limited way. Because the mannequin’s face is expressionless and its voice has little inf lection, it carries several masks that it uses to convey emotions. It often serves its creator as a bodyguard, companion, servant, sentry, or even paramour.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soulbound%20Mannequin)
 ```encounter-table
 name: Soulbound Mannequin

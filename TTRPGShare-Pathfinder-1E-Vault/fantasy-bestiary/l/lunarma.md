@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lunarma
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 185
 desc_short: This monstrous crablike creature hovers in midair, its three clawed tentacles snapping aggressively.
 ```
-# Description
+## Description
 Lunarmas are mysterious crablike creatures that come from space. They move by floating through the air and can eat flesh, wood, bone, and certain kinds of sand and dust. Highly aggressive, they attack by dropping on prey from above and grabbing it with their limbs, using their breath weapon to injure multiple creatures for easier capture, feeding, and implantation.
 
 Efficient in its digestion and reproduction, a single lunarma can depopulate a village in a few days, spawning dozens of offspring that scatter in search of more prey. Fortunately, an adult lunarma lives no longer than a year. During this time, it seeks to eat and find living prey in which to lay its eggs.
@@ -64,7 +66,7 @@ A newly spawned lunarma forms a cocoon in which it metamorphoses into a preadult
 Though lunarmas are able to communicate among themselves telepathically, they’re only barely intelligent, and their thoughts are primitive. They have no known culture, and their desires are limited to feeding and procreation. The only instinct they seem to have beyond that is a violent aversion to flumphs, which they attack on sight.
 
 An adult lunarma is nearly 5 feet across and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lunarma)
 ```encounter-table
 name: Lunarma

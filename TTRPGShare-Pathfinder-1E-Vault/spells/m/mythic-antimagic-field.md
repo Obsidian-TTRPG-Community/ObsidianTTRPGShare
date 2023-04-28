@@ -1,19 +1,21 @@
 ---
-alias: Mythic Antimagic Field
+aliases: [Mythic Antimagic Field]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Antimagic Field
+## Mythic Antimagic Field
 
 **source**:: Mythic Adventures pg. 84  
 **school**:: abjuration
 **level**:: arcanist 6, cleric 8, occultist 6, oracle 8, psychic 7, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (pinch of powdered iron or iron fillings)
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **area**:: 10-ft.-radius emanation, centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Antimagic Field
 **saving-throw**:: none
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 An invisible barrier surrounds you and moves with you. The space within this barrier is impervious to most magical effects, including spells, spell-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within its confines.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Fog Cloud
+aliases: [Mythic Fog Cloud]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fog Cloud
+## Mythic Fog Cloud
 
 **source**:: Mythic Adventures pg. 95  
 **school**:: conjuration (creation)
 **level**:: arcanist 2, druid 2, hunter 2, magus 2, shaman 2, sorcerer 2, summoner (unchained) 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: fog spreads in 20-ft. radius  
@@ -21,7 +23,7 @@ alias: Mythic Fog Cloud
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A bank of fog billows out from the point you designate. The fog obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker can't use sight to locate the target).  
   

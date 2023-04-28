@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slicer Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 44
 desc_short: This squat but nevertheless large beetle moves with a swift scuttling motion. Its mandibles appear to be remarkably sharp. 
 ```
-# Description
+## Description
 The slicer beetle sports specialized mouthparts that scissor apart flesh for easier consumption. Each side of its horizontally closing mandibles fits into the other with barely a hair’s breadth to spare. These creatures prefer to dwell in compact caves or warrens. A typical slicer beetle measures 10 feet long and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slicer%20Beetle)
 ```encounter-table
 name: Slicer Beetle

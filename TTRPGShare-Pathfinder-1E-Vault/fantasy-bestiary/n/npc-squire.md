@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Squire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 251
 ```
-# Description
+## Description
 This squire has begun his knightly training, but not yet earned his spurs. He aspires to match the valor and chivalry of the finest knights. Most of his duties involve caring for his knight’s armor, weapons, and horse, holding prisoners taken by the knight, and giving the knight an honorable burial if he is killed.
 
 The knight may instruct the squire to follow him into battle. If the squire proves himself loyal, skilled, and reliable in combat, his knight may choose to elevate him to full knight status (though in some lands this ceremony may only be performed by the ruler). A knight may have many squires, but a squire serves only one knight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Squire)
 ```encounter-table
 name: NPC Squire

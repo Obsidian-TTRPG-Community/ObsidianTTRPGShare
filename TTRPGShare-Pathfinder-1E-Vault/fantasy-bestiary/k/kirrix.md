@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kirrix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 184
 desc_short: This sleek, weasel-like rodent has exaggerated whiskers and six short but stout legs.
 ```
-# Description
+## Description
 Ratfolk have just as much enthusiasm for alchemy as they do for rodents, and they combined these two interests to create the kirrix-the result of generations of riding rat husbandry combined with regular infusions. These alchemical modifications have given kirrixes six legs and the ability to consume and transmit diseases without ill effect to the creatures themselves.
 
 Many ratfolk settlements raise these gregarious creatures, with whom the ratfolk share their warrens in a symbiotic relationship. The kirrixes prowl the ratfolk tunnels and act as scavengers-searching for unfamiliar scents, consuming detritus, and removing harmful diseases from the ratfolk settlement. If the warren comes under attack, the kirrixes act as guards, and squeeze through or block tunnels as necessary to buy time for their ratfolk allies to escape.
 
 A typical adult kirrix is 9 feet long and usually weighs under 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kirrix)
 ```encounter-table
 name: Kirrix

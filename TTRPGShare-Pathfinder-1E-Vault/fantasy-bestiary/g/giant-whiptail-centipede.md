@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Whiptail Centipede
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 53
 desc_short: An elephantine centipede scurries about, its double tail lashing angrily behind it. 
 ```
-# Description
+## Description
 Whiptail centipedes are carrion eaters, though corpses large enough to satiate them are a rarity. Corpses of Huge or larger creatures left to rot often attract whiptail centipedes, who viciously defend their bounty against any who would intrude upon their lairs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Whiptail%20Centipede)
 ```encounter-table
 name: Giant Whiptail Centipede

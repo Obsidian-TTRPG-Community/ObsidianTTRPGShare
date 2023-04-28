@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Brigand (Bandit Lord)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: GameMastery Guide
     desc: 259
 ```
-# Description
+## Description
 Bandit lords are the daring masterminds of entire gangs of bandits, often ruling over camps in the centers of trackless woods or the equally trackless warrens of a slum or sewer inside a great city. Some hide their identity behind disguises or a nom de guerre, while others strive for fame or infamy. Bandit lords can be used as assassins, duelists, or royal swordmasters. Bandit lords may have a pair of sellswords as bodyguards and sparring partners (CR 12), or may travel with a battle mage, sellsword, and a gang of eight bandits (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Brigand%20(Bandit%20Lord))
 ```encounter-table
 name: NPC Brigand (Bandit Lord)

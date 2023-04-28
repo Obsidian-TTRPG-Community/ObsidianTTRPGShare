@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wereshark (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,11 +41,11 @@ sources:
     desc: 54
 desc_short: This muscular creature has a human body, but the head of a ravenous shark, complete with jet-black eyes and razorlike teeth.
 ```
-# Description
+## Description
 In either humanoid or hybrid form, a wereshark is generally burly, has a mouth full of unusually large teeth, and typically has a personality that is both crude and bullying. They’re bloodthirsty and are very easy to anger. They will jump into fights they have no stake in just to snap bones and draw blood.
 
 Weresharks prefer life at sea or in port settlements commonly frequented by seagoing merchants and pirates. They can be found leading pirate gangs or loitering at seaside taverns accompanied by crowds of toadies. Since they get into fights so often, they try to stick close to the sea so they can escape into the water if they bite off more than they can chew. The other members of a wereshark’s crew learn quickly that the boss is bound to skip out without much notice once a bigger fish comes along.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wereshark%20(Hybrid%20Form))
 ```encounter-table
 name: Wereshark (Hybrid Form)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cetaceal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 17
 desc_short: This mermaid-like creature has the torso and head of a long-haired woman and the lower half of a sleek killer whale. 
 ```
-# Description
+## Description
 Cetaceals are great water-dwelling agathions who swim the planar seas and commune with the creatures of the deeps. Rarely seen by landwalkers, they defend the waters against aquatic evils such as aboleths. Their spirits usually were those of great mortal leaders of aquatic or coastal tribes, or good folk who died underwater serving some great cause, reborn in a celestial form that is part humanoid, part orca. They are social beings and develop close friendships with other celestials and marine creatures. 
 
 A cetaceal is 8 feet long and weighs 400 pounds, although some grow quite a bit larger than that.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cetaceal)
 ```encounter-table
 name: Cetaceal

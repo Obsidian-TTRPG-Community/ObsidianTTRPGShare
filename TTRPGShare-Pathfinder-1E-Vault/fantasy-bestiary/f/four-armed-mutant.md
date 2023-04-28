@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Four-Armed Mutant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 84
 desc_short: This burly humanoid has sharp scales and fins like some predatory fish. As if its maw full of serrated teeth were not intimidating enough, the monstrosity clenches deadly claws at the ends of four powerful arms.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Four-Armed%20Mutant)
 ```encounter-table
 name: Four-Armed Mutant

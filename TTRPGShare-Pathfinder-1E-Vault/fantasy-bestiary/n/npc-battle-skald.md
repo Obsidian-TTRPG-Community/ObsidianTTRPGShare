@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Battle Skald
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: NPC Codex
     desc: 235
 ```
-# Description
+## Description
 Singing odes of battle and bravery, these chroniclers make sure the living never forget those traditions, and even try to encourage the living to surpass the great deeds of the heroes of past ages. They believe battle is the truest test of a person’s mettle.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Battle%20Skald)
 ```encounter-table
 name: NPC Battle Skald

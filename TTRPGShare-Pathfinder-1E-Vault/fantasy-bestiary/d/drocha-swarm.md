@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drocha Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 88
 desc_short: Hundreds of twisted, distorted faces roil in a miserable cloud, screaming of their unquiet deaths.
 ```
-# Description
+## Description
 The opening of the Worldwound brought many horrors to the world, and one of the more tragic and horrible results was the elimination of the Sarkorian people. The mass deaths of these people spawned roiling clouds of unquiet spirits called drocha swarms. Each made of the spirits of hundreds of Sarkorians who died at once, these ghostly swarms reveal the screaming faces of those who once lived and thrived in this verdant land. Their lives were cut short either by the ripping open of the terrain itself or by the demons that subsequently poured forth from the Abyss. Now, these tortured swarms of spirits roam the Worldwound, alone or in packs. Drocha swarms are devoid of the goodliness and respect for nature they had in life. All these tortured souls can do is scream and torment others, and though incorporeal, their razor-sharp teeth materialize just long enough to tear at any creatures they happen across.
 
 Mostly translucent, drocha swarms contain only the faintest traces of black and green delineating the writhing mouths and rolling eyes of the faces within. The faces moan independently, creating a cacophony of voices, each shouting rage at its death or screaming for others to listen to the story of its plight. It would be maddening to pick out individual voices and follow their terrible cries. The swarm can expand and contract as necessary, pouring over enemies and draining them of the life drocha swarms were so violently denied, an action that does not seem to bring the pitiful creatures any relief from their hideous afterlife.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drocha%20Swarm)
 ```encounter-table
 name: Drocha Swarm

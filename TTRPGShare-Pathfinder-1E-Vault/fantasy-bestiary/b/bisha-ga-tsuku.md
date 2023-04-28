@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bisha Ga Tsuku
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 42
 desc_short: Two clawed feet extend from a mysterious mobile fog bank, and dark eyes glow balefully from the mist.
 ```
-# Description
+## Description
 Bisha ga tsukus are formed from souls drained of warmth, life, and love, leaving nothing but an empty void that can be filled only by taking from others. The creature is a horrific amalgamation of flesh comprising long feelers and a huge, distended sac. Its victims never see these features, however, since a bisha ga tsuku’s presence sucks the warmth from the atmosphere around it, freezing the air into a dense cloud of icy mist. On an already foggy evening, the only sign of a bisha ga tsuku’s presence is its three-toed feet making a squishing sound reminiscent of "bisha bisha" on the loose slush left behind by its hoarfrost halo.
 
 Bisha ga tsukus feed upon souls. Though their presence can disperse soul energy around them, they gain far more nourishment when they inhale a soul through the pores in their feelers. A bisha ga tsuku that gorges itself stores excess souls and dying heartbeats in its sac, mixing them with frost and chill until a new bisha ga tsuku forms within and bursts out.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bisha%20Ga%20Tsuku)
 ```encounter-table
 name: Bisha Ga Tsuku

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Grove Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: NPC Codex
     desc: 109
 ```
-# Description
+## Description
 Devoted to the protection of druidic groves or other sacred places of power, grove guardians do anything necessary to protect what they guard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Grove%20Guardian)
 ```encounter-table
 name: NPC Grove Guardian

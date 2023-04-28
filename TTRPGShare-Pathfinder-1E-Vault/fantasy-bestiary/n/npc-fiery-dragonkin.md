@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fiery Dragonkin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: NPC Codex
     desc: 174
 ```
-# Description
+## Description
 The fiery dragonkin embodies all the greedy, violent, and territorial impulses of red dragons. Heedless of the lives they crush in their rise to glory, the dragonkin sorcerers are born conquerors, and see in their noble draconic blood an undeniable right to rule over lesser beings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fiery%20Dragonkin)
 ```encounter-table
 name: NPC Fiery Dragonkin

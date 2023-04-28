@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Sandstorm (Humanoid)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 86
 desc_short: This hulking humanoid figure of packed red sand is no taller than an average human, but it is brawny and exceptionally broad.
 ```
-# Description
+## Description
 Notorious for appearing suddenly out of the roiling tempests of the deep desert, living sandstorms are capable of turning oases and dry farmlands into areas of featureless desert in a shockingly short span of time. When angered, they can scour a whole army down to bits of shining metal and bone buried under feet of shifting sand over the course of one terrible night. Some Osiriani scholars claim that living sandstorms are related to the deadly khamsin storms that scour the desert, and while these creatures are related to elementals, they have nothing to do with the formation of those iconic storms. Living sandstorms are most comfortable when sand is free to flow across the earth. They become agitated whenever creatures make an effort to remove or limit sand in an area, shelter an area from the drifting dust, or alter the weather to reduce or prevent sandstorms. However, they are curious creatures and enjoy experiencing new interactions with beings of other shapes, and are willing to parley when they believe doing so may open the door to a novel diversion-or if a creature simply appears easy to intimidate.
 
 A living sandstorm in its humanoid shape is about 6 feet tall and weighs 900 pounds. In sandstorm form, it expands its form into a pulsing cloud of streaming, loose sand, which gathers into small clumps before being reabsorbed into the storm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Sandstorm%20(Humanoid))
 ```encounter-table
 name: Living Sandstorm (Humanoid)

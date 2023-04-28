@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Velociraptor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 59
 desc_short: This small, sleek dinosaur has vicious, snapping jaws and feet that end in large talons for gutting prey.
 ```
-# Description
+## Description
 A smaller cousin of the deinonychus, the velociraptor is a swift, cunning pack hunter. It has no fear of Medium or even Large creatures. Its leaping charge attack grants it a significant advantage against foes in thick underbrush.
 
 A velociraptor is around 1-1/2 feet tall and 7 feet long, and weighs 35 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Velociraptor)
 ```encounter-table
 name: Velociraptor

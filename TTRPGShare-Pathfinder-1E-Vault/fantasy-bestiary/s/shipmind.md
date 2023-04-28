@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shipmind
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 86
 desc_short: This yellowy viscous liquid bubbles in a large tank suspended by strangely organic cables. Wisps of white gas occasionally escape the roiling fluid.
 ```
-# Description
+## Description
 The enigmatic shipminds are painstakingly engineered creations of Dominion fleshfarms, molded and formed over the course of years to pilot the massive organic spacecraft the aliens use to navigate the Dark Tapestry.
 
 Intimately bound to their vessels, shipminds oversee the health and function of the ships they control. They maintain this single-minded task for as long as a thousand years before they must be recycled and rebuilt.
@@ -82,7 +84,7 @@ Intimately bound to their vessels, shipminds oversee the health and function of 
 A shipmind resides within a specially designed containers on a craft, connected to the ship’s greater workings via varying forms of physical interface. These oozes generally follow orders from superiors stationed on their spacecraft, though coaxing is sometimes necessary in order to get these strange creatures to follow direct orders. This is due in part to the fact that these engineered creatures are fanatically devoted to the Dominion’s inscrutable faith, with rigid beliefs regarding orthodoxy. Rumors persist of especially radical shipmind oozes going beyond defiance and actually slaying their passengers, a task made frightfully easy due to the mastery each ooze has over every aspect of its spacecraft’s function (such as life support and internal security appendages and creatures). Some have been known to plunge their vessel into a star or black hole in moments of defiance or religious ecstasy, leaving the rest of the ship’s crew helpless and unable to convince the shipmind to abandon its actions.
 
 As a shipmind reaches more advanced age, it becomes increasingly pedantic and difficult to control. Such oozes often demand small offerings, sacrifices of lesser creatures, or the powering down of ship’s systems they deem superf luous or “unpure.” At a certain point, the shipmind is recycled, poured from its container into vats to serve as nutrients for the cultivation of a replacement. Fragments of the previous shipmind’s intellect and skills carry over into the newly created ooze, ensuring that a sort of entrenched memory and institutional knowledge persist through the generations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shipmind)
 ```encounter-table
 name: Shipmind

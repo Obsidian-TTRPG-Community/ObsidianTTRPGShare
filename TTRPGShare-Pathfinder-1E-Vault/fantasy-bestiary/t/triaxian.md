@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Triaxian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 86
 desc_short: This warrior looks like an attractive humanoid with pointed, featherlike ears and eyes shaped into long, horizontal slits. Though he has no true hair, his entire body is covered in short, sleek white fur. 
 ```
-# Description
+## Description
 Triaxians are the dominant race on the planet Triaxus, a world whose erratic orbit causes exceptionally long and disparate seasons. Though eerily similar to humans, elves, and the other mammalian humanoids common on Golarion, Triaxians have developed certain adaptations to their environment that mark them as indisputably alien. 
 
 Just like human ethnicities, Triaxian populations vary in size, weight, and other distinguishing physical characteristics, based primarily on the geographical regions in which they reside. Most Triaxians, both males and females, are around 6 feet tall but somewhat lean compared to humans, rarely weighing more than 200 pounds. Their ears are elongated, but rather than being pointed like elves or halflings, these appendages are instead notched in a feathered or comblike pattern. The flaps created by these notches constantly move to adjust the ear’s shape, operating both consciously and unconsciously to help Triaxians focus on specific sounds, not unlike the maneuverable ears of dogs, cats, and other such animals. 
@@ -67,7 +69,7 @@ Beyond their obvious adaptations to their environment, Triaxians are remarkably 
 For more information on Triaxians and Triaxus, see Pathfinder Campaign Setting: Distant Worlds and “Planet of Dragons” on page 64.
 
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Triaxian)
 ```encounter-table
 name: Triaxian

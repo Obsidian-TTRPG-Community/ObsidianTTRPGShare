@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc Mystic
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
   - name: Monster Codex
     desc: 167
 ```
-# Description
+## Description
 Orcs worship in a different way from many other races, adhering to a polytheistic tradition that varies by tribe. These gods speak to the orcs’ love of fire, destruction, slavery, and the like, but the particular offerings and prayers one tribe uses for the Blood God might be the same ones a different tribe gives to the Destroyer. Orcs take little notice of these distinctions. There’s no point in religious squabbling when there are villages to raid and people to slaughter.
 
  There’s seldom more than one full mystic in a tribe, though the mystic may teach the ways of divine magic to multiple apprentices. These apprentices are practically slaves to the mystic, and face beatings and starvation during their tutelage. It’s not uncommon for a mystic to murder overly ambitious apprentices who seek to usurp his position in the tribe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc%20Mystic)
 ```encounter-table
 name: Orc Mystic

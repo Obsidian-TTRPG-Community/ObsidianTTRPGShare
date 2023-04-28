@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Melacage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 88
 desc_short: This ethereal ball of faces hovers in the middle of the air. Tears stream from every one of the faces’ eyes, but the drops fade to nothing before they reach the ground.
 ```
-# Description
+## Description
 In a world with powerful spells, silent monsters, and a long history that can often affect the present in unexpected ways, death-even mass death-can sometimes come as a surprise. While souls may move on, the sudden feelings of loss and confusion can be left in the world as psychic imprints, and if enough of those feelings exist in one place, they can combine into a melacage. A melacage stays near the place where it formed, trying to transfer its crippling depression to a living creature so that it can become corporeal and investigate the cause of its death.
 
  An average melacage is around 2 feet in diameter, with four to five humanoid faces on the outside of its body.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Melacage)
 ```encounter-table
 name: Melacage

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Faerie Mount
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 82
 desc_short: Short legs and overlarge ears make this broad-chested canine seem almost comical.
 ```
-# Description
+## Description
 Also called the fey cur and the dwarf dog, the faerie mount is a cousin to the dog and the wolf that carries Tiny and Small riders well. The creatures’ sturdy legs, low center of gravity, and muscular torsos are especially well-suited to navigating the twisting, hilly, greenerychoked landscape of the First World, making them the preferred mounts for scouts, messengers, and even knights small enough to ride the legendarily loyal creatures. While usually found in fey stables, bedecked in saddles and barding, small packs of fey curs sometimes form symbiotic relationships with herds of wild deer and goats, protecting the herbivores in exchange for milk and the first opportunity to scavenge fallen animals.
 
  Faerie mounts grow up to 5 feet long and 3 feet tall, and weigh around 120 pounds.
 
  Tales of the animals’ legendary bravery and loyalty inspired Taldan dog breeders to create a breed of similar proportions. These canines make excellent herding dogs, and are found in the central highlands of Taldor, Isger, and Molthune. To reflect the Taldan corgi, use the statistics for a Small dog, remove its racial Acrobatics bonus to jump, and add the faerie mount’s stability special ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Faerie%20Mount)
 ```encounter-table
 name: Faerie Mount

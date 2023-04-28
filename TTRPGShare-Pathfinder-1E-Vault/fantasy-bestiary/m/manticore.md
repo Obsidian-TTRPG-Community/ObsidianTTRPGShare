@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Manticore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 199
 desc_short: This creature has a vaguely humanoid head, the body of a lion, and the wings of a dragon. Its tail ends in long, sharp spikes.
 ```
-# Description
+## Description
 Manticores are fierce predators that patrol a wide area in search of fresh meat. A typical manticore is about 10 feet long and weighs about 1,000 pounds. Some have more human-like heads, usually with beards. Males and females look much alike.
 
 Manticores eat any meat, even carrion, though they prefer human flesh and rarely pass up an opportunity for such a delicacy. They are smart and social enough to bargain with or bully evil humanoids into alliances or offering tribute, and more powerful creatures may hire or bribe them to guard or patrol a place or area. They like lairs in high places, such as hilltops and caves in cliffs.
@@ -57,7 +59,7 @@ Manticores eat any meat, even carrion, though they prefer human flesh and rarely
 Although manticores were likely a magical creation, they have long since established themselves as a naturally occurring species. Curiously, manticores seem strangely fecund, and can interbreed with a number of other similarly shaped creatures, including lions, dire lions, lamias, sphinxes, and even chimeras. The progeny of a manticore and an unusual mate is summarized on the table below.
 
 Manticore’s Mate Offspring LionStandard manticore Dire lionAdvanced manticore LamiaLamia with spiked tail and spikes special attack SphinxSphinx with spiked tail and spikes special attack ChimeraChimera with spiked tail and spikes special attack
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Manticore)
 ```encounter-table
 name: Manticore

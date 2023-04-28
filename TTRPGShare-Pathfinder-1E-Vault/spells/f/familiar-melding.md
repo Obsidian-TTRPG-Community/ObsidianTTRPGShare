@@ -1,19 +1,21 @@
 ---
-alias: Familiar Melding
+aliases: [Familiar Melding]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Familiar Melding 
+## Familiar Melding
 
 **source**:: Ultimate Magic pg. 219  
 **school**:: necromancy
 **level**:: arcanist 4, shaman 4, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: your familiar  
@@ -21,7 +23,7 @@ alias: Familiar Melding
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You project your soul into your familiar, taking over its body while leaving its consciousness intact. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.  
   

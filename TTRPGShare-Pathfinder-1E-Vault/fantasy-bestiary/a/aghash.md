@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aghash
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 83
 desc_short: Draped in rags and hunched over on goatlike legs, this creature possesses a featureless face, save for a large eye ringed by fangs.
 ```
-# Description
+## Description
 Aghashes embody the evil eye, a curse granted by merely witnessing these embodiments of ruin and misfortune. Terrifying, haglike beings, aghashes wander deserts of the Material Plane spreading doom with their gazes. These wretched creatures hold nothing sacred, taking particular pleasure in bringing vain and arrogant mortals, particularly spellcasters, to ruin. Ragged and filthy, an aghash moves with a staggering motion. Its hoofed legs bend like those of a goat, giving its emaciated frame an obscene, jerking gait.
 
 All divs exhibit some manner of compulsion, and aghashes’ is to despise beautiful mortals. If given a choice between attacking two different opponents, an aghash always chooses the most physically becoming foe. Such is their loathing-or, perhaps, jealousy-that an aghash might stalk attractive foes, delighting in afflicting them with curses that sap their Charisma or otherwise undermines their charm. With its spectral hand ability an aghash can deliver curses from a distance, leading some victims to believe they’ve been afflicted by a disease or cursed by the gods themselves. All the while, the aghash lingers nearby, delighting in the suffering it has caused.
 
 An aghash stands between 5 and 6 feet tall and weighs about 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aghash)
 ```encounter-table
 name: Aghash

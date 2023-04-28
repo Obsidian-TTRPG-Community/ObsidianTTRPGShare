@@ -1,19 +1,21 @@
 ---
-alias: Word of Chaos
+aliases: [Word of Chaos]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Word of Chaos 
+## Word of Chaos
 
 **source**:: PRPG Core Rulebook pg. 371  
 **school**:: evocation (chaotic, sonic)
 **level**:: cleric 7, inquisitor 6, oracle 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: nonchaotic creatures in a 40-ft. radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Word of Chaos
 **saving-throw**:: none or Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Any nonchaotic creature within the area of a *word of chaos* spell suffers the following ill effects, depending on their HD.  
   
@@ -49,7 +51,7 @@ Furthermore, if you are on your home plane when you cast this spell, nonchaotic 
   
 Creatures whose HD exceed your caster level are unaffected by *word of chaos*.
 
-## Mythic Word of Chaos 
+## Mythic Word of Chaos
 
 **source**:: Mythic Adventures pg. 112  
 When determining the spell’s effect on non-mythic creatures, add your tier to your caster level. Non-chaotic creatures that fail their saves against the spell also take a -4 penalty on attack rolls and saving throws, and their spell resistance decreases by 5 for as long as the spell’s other effects last.

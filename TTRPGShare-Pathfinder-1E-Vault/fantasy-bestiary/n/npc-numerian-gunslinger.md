@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Numerian Gunslinger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 55
 desc_short: This hard-eyed stranger holds a strange weapon in his hand that resembles a pistol but glows with a pale blue light.
 ```
-# Description
+## Description
 Not content with the black powder guns of Alkenstar, the Numerian gunslinger tracks down and masters the high-tech weaponry of Numeria. In the course of his travels, he’s made enemies among the Technic League, who, like the people of Alkenstar, want to ensure that their advanced technology doesn’t spread beyond their reach. Other technological firearms can be found in Numeria beyond the laser pistol-see Pathfinder Campaign Setting: Technology Guide for more examples of advanced firearms such a character could use.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Numerian%20Gunslinger)
 ```encounter-table
 name: NPC Numerian Gunslinger

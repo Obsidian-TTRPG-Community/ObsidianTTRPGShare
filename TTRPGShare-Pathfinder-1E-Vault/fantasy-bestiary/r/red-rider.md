@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Red Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 54
 desc_short: A man with fiery red hair and antlers rides a red-gold stallion. His robes expose the hairy legs of a goat, ending in cloven hooves.
 ```
-# Description
+## Description
 The Red Rider is the most fiery and aggressive of the Three Riders. When Irriseni citizens share old tales of previous Riders around the hearth, stories of the Red Rider’s judgments always go into gruesome detail about his wholesale slaughter and shocking violence. Some argue that the Red Rider is no more vicious than the Black Rider, and that the larger number of heinous tales about the Red Rider are simply the result of the time of day in which he engages in his tasks. More citizens are awake and out of their homes during the day to witness the Red Rider’s judgments before he cedes his time to the night.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Red%20Rider)
 ```encounter-table
 name: Red Rider

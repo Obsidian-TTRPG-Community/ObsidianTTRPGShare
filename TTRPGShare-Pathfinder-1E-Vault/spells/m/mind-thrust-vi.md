@@ -1,19 +1,21 @@
 ---
-alias: Mind Thrust VI
+aliases: [Mind Thrust VI]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mind Thrust VI 
+## Mind Thrust VI
 
 **source**:: Occult Adventures pg. 177  
 **school**:: divination
 **level**:: psychic 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,6 +23,6 @@ alias: Mind Thrust VI
 **saving-throw**:: Will half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This functions as *mind thrust IV*, but the target takes 1d8 points of damage per caster level (maximum 20d8) and is exhausted and stunned for 1 round if it fails its save. This spell can be undercast.

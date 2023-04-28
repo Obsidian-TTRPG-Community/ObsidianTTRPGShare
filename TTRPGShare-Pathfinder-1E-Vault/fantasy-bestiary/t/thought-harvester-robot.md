@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thought Harvester Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 86
 desc_short: Rows of crystal spheres line the back of this four-legged robot. A single glowing eye sits in the middle of its head.
 ```
-# Description
+## Description
 Thought harvesters are specialized robots designed to forcibly extract memories from a living creature or corpse. Built to survive battlefields and other hazardous environments, thought harvesters are outf itted with thick armor plating and a durable force field. Giving the thought harvester robot its name, two prehensile tendrils extend from the creature’s sides, each tipped with a wickedly barbed syringe through which the creature injects sophisticated nanites into its target. These nanites immediately duplicate portions of the target’s brain and return through the syringe into the thought harvester’s central core. There, the target’s memories are swiftly categorized and stored in one of an array of crystalline spheres located along the robot’s spine. When performed on a living target, the process is painful and can cause severe damage to the subject’s cognitive reasoning capabilities. A thought harvester’s head has a single glowing eye in the center, and two weapons hang beneath it. These weapons allow the thought harvester to fire bursts of sonic energy at any targets that react in an aggressive manner. A thought harvester rarely speaks, but when it does it speaks in short, monosyllabic words, and is always direct and to the point. Thought harvesters are 6 feet long and 4 feet tall. They are densely built, and weigh 1,600 lbs. A thought harvester draws energy from an eff icient internal power source and continually recycles and repairs its internal store of specialized nanites.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thought%20Harvester%20Robot)
 ```encounter-table
 name: Thought Harvester Robot

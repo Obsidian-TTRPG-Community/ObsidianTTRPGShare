@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Lily
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 84
 desc_short: Hundreds of long but thin blood-red petals form a spherical shape atop the central stem of this plant monster. A pair of stout vine-like appendages sprout from either side of its central mass.
 ```
-# Description
+## Description
 Many an unsuspecting victim has been lured to a blood lily by its large radiant blossom-a ball of scarlet spikes reminiscent of a sea urchin. Those who live near blood lilies know to be wary of the plants, but as nonanimate blood lilies also grow in such areas, it can be difficult to tell the dangerous plants from the inert ones. To complicate matters, blood lilies have learned to hide their scarlet petals when hunting. A favorite trick of these plants is to disguise themselves next to ordinary blood lilies, using their harmless kin as a distraction. When travelers pass by, the predatory blood lilies then attack from concealment.
 
  Blood lilies commonly grow in tropical areas near coastlines, where they hunt both in and out of the water. Fish and other aquatic creatures are drawn to the blood lily’s brilliant petals, sometimes mistaking them for colorful tropical fish. Blood lilies can slaughter and consume dozens of small fish in under a minute if a school draws close enough. Though blood lilies devour such prey whole, the masticating action of the edges of a blood lily’s digestive orifice leaves clouds of blood in the water. Their blossoms also attract giant insects, which can be dangerous and damaging to the plant creatures. Blood lilies can easily defend against most of these vermin, but they almost never eat insects, preferring warm-blooded prey above all others.
@@ -72,7 +74,7 @@ Many an unsuspecting victim has been lured to a blood lily by its large radiant 
  Blood lilies reproduce asexually. Once a lily matures, it begins to grow a small bulb-like structure called a bulbil near the base of its stem, protected by its foliage. The bulbil takes 12 to 18 months to mature, at which point it drops off the parent plant and grows into a mature blood lily within a year. If released on land, a bulbil takes root in the soil, from which it draws sustenance; if released underwater, it drifts with the currents, drawing sustenance from the water as it grows. Blood lilies don’t protect their released bulbils; many are consumed by predators, and in areas where hunting is poor, adult blood lilies might even consume their own immature sprouts. If a sprout reaches maturity, it gains the ability to move under its own power and begins to hunt.
 
  Mature blood lilies can live for decades if hunting remains good and they aren’t killed by other predators. A blood lily that survives for at least 10 years sometimes enters a hibernation phase during which its petals fall off and its vines wrap around its trunk, forming a cocoon-like structure. After a season of dormancy, the blood lily sprouts larger, darker petals that carry the same toxin as the thorns in its vines. The blood lily’s vines undergo a growth spurt, gaining an extra 5 feet in length. These blood lilies are hardier than their lesser kin and can challenge even the deadliest predators. They have the advanced creature simple template, they add their poison to attacks with their petal spikes, and their reach with slam attacks increases by 5 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Lily)
 ```encounter-table
 name: Blood Lily

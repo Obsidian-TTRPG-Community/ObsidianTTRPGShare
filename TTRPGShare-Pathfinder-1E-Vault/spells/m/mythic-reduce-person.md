@@ -1,19 +1,21 @@
 ---
-alias: Mythic Reduce Person
+aliases: [Mythic Reduce Person]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Reduce Person
+## Mythic Reduce Person
 
 **source**:: Mythic Adventures pg. 105  
 **school**:: transmutation
 **level**:: alchemist 1, arcanist 1, bloodrager 1, investigator 1, magus 1, medium 1, occultist 1, psychic 1, redmantisassassin 1, sorcerer 1, summoner 1, summoner (unchained) 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (a pinch of powdered iron)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one humanoid creature  
@@ -21,7 +23,7 @@ alias: Mythic Reduce Person
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell causes instant diminution of a humanoid creature, halving its height, length, and width and dividing its weight by 8. This decrease changes the creature's size category to the next smaller one. The target gains a +2 size bonus to Dexterity, a -2 size penalty to Strength (to a minimum of 1), and a +1 bonus on attack rolls and AC due to its reduced size.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Manticore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 208
 desc_short: This fearsome creature has the body of a lion, the wings of a dragon, the face of a snarling man, and a tail of dripping spikes.
 ```
-# Description
+## Description
 A mythic manticore is a nightmarish creature, perhaps the result of crossbreeding with poisonous drakes, decadent sphinxes, or aberrant chimeras. A voracious eater, a mythic manticore may devour an entire corpse, as well as its weapons and armor, leaving nothing but a bloody stain on the ground and a few organs it finds unpalatable. Any metal bits it eats are digested and used to grow its deadly spikes. Some are known to dine on giant venomous snakes and spiders with the intent of making their poison even more powerful.
 
 A mythic manticore uses its thrown spikes to hold prey in place from a distance so it can leap upon it and tear it apart. It is especially fond of skewering the wings of a flying creature, forcing it to plummet to the ground where it becomes easy pickings. Its weakness-inducing poison makes it especially dangerous to winged mounts, as the poisoned creature may find itself unable to carry a rider.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Manticore)
 ```encounter-table
 name: Mythic Manticore

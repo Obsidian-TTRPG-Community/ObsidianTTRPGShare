@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Faun
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 114
 desc_short: This capricious figure has the upper torso, arms, and head of a man, but goatlike legs, a tail, and curling horns on his head.
 ```
-# Description
+## Description
 Often mistaken for satyrs, fauns are far more benevolent than their unpredictable cousins. Many people use the two names interchangeably, a fact that irritates both fauns and satyrs. The vast majority of fauns are male, although unlike satyrs, females of this species do exist-they’re simply less common than male fauns.
 
 While satyrs breeding with their seduced victims always produce full-blooded satyrs, fauns are the result of a willing pairing between satyrs and goodly fey or kindhearted humanoids such as humans or elves. Even in this case, the babies of such unions are usually stolen away and raised by their fey parent or some other sylvan foster family.
@@ -63,7 +65,7 @@ Like satyrs, fauns enjoy wine, music, dancing, nature, and carnal pleasures. Gen
 Fauns find nymphs exceptionally attractive, more so than all others who dare view them. Nymphs find beauty in fauns’ good nature and steadfast dedication to the natural world, and often humor their advances before almost accidentally falling in love with them.
 
 As tall as a human, a faun stands on stark white goat legs and has short horns protruding from its head. It also has a short tail that swishes playfully when it is excited or entertained, and its hair falls gracefully around its horns and ears. Its humanoid torso is always lithe but chiseled because of its constant activity and play-fauns rarely laze about too long. Fauns stand nearly 6 feet tall and weigh little more than 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Faun)
 ```encounter-table
 name: Faun

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plesiosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 83
 desc_short: This streamlined reptile has a long, serpentine neck, at the end of which glares a many-fanged head.
 ```
-# Description
+## Description
 While not technically a dinosaur, the plesiosaurus is often found in waterways and swamps where dinosaurs and other megafauna are common. Long-necked and swift, these ambush predators prefer to dart in, bite a foe, and then swim away to hide while they wait for their victim to bleed out before swimming back to feed. Numerous species of this creature exist, from marsh-dwelling varieties to creatures that spend their entire lives at sea.
 
 A plesiosaurus measures 11 feet long, though nearly half of this length is neck, and weighs 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plesiosaurus)
 ```encounter-table
 name: Plesiosaurus

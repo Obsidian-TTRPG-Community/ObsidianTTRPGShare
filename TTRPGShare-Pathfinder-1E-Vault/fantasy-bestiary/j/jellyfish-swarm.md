@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jellyfish Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 170
 desc_short: All but invisible in the water, this foul swarm of fist-sized jellyfish wriggles and writhes, a virtual wall of stinging tentacles.
 ```
-# Description
+## Description
 Jellyfish often cluster together during springtime or when environmental conditions such as an increase in ocean temperature favor it. When conditions are right, jellyfish shift from being a nuisance to being a menace, if accidentally so, for a jellyfish swarm, unlike more aggressive monstrous kin like the giant jellyfish, comprises not aggressive hunters but rather opportunistic strikers. They do not generally move to attack nearby prey, but their nearly translucent coloration makes it horrifically easy for a creature to swim into a swarm unawares. Once a jellyfish swarm deals damage to a creature, the swarm pursues it for several rounds before giving up the chase. Many aquatic races use jellyfish swarms as defensive guardians, trusting a swarm’s lack of interest in moving to keep it stationary for long periods of time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jellyfish%20Swarm)
 ```encounter-table
 name: Jellyfish Swarm

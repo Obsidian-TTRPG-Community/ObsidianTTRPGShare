@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Lich
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,9 +83,9 @@ sources:
     desc: 206
 desc_short: This armored undead human wields a heavy mace and wears the trappings of a devil-worshiper.
 ```
-# Description
+## Description
 A mythic lich is an undead spellcaster who gave up standard mythic path abilities in favor of abilities that preserve her existence and enhance her unnatural power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Lich)
 ```encounter-table
 name: Mythic Lich

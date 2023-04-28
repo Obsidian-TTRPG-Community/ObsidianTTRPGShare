@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shae
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 242
 desc_short: A white porcelain mask and elegant white clothing provide form and contrast to this shadowy woman’s body.
 ```
-# Description
+## Description
 The mysterious people known as the shaes are natives of the Shadow Plane. In their own language, their name means “unbound” or “unfettered.” According to shae history, they were once humanoids who through tireless study and self-perfection managed to transcend the bonds of a definite form. Though they still bear roughly humanoid shapes, shaes’ outlines are perpetually wispy and impossible for any non-shaes to focus directly on.
 
 Though shaes may engage in all the same pursuits and professions as other humanoids, their overwhelming racial pride often leads them to see all other humanoids-especially humans-as lesser beings. Ironically, this casual disdain sometimes leads individual shaes to gather harems of worshipful human consorts, and it is from these unions that fetchlings often issue. Humans involved in such relationships often hope to learn the secret of the shaes’ power over shadows, and claim that only in sacred union with the creatures can one glimpse their true features.
 
 Shaes are roughly 6 feet tall and weigh 100 pounds. They often wear masks and form-fitting clothing when around other creatures in order to give the lesser beings something to focus on (such garments do not impede their blur ability).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shae)
 ```encounter-table
 name: Shae

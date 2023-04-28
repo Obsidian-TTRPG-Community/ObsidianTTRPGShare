@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Squid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 259
 desc_short: This slender red squid darts through the water with alacrity. Two large eyes stare from above the creature’s tentacles.
 ```
-# Description
+## Description
 Squids are aggressive predators that fear little and are more than willing to attack prey larger than themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Squid)
 ```encounter-table
 name: Squid

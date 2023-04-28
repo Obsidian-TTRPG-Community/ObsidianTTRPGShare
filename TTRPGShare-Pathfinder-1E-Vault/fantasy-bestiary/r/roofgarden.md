@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Roofgarden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 63
 desc_short: A thick carpet of moss and vines stretches out from a central tangled mass of plant matter.
 ```
-# Description
+## Description
 Originally native to the Verduran Forest, where they laze about in the canopy to snare birds and small game, roofgardens are largely sedentary predatory plants whose bodies generate volatile oils that both render them resistant to heat and allow them to start the raging infernos required to cast their seeds into the wind. Vigorous logging efforts in their primordial homeland have spread roofgardens to several Taldan cities. Roofgardens have since come to thrive on the broad, unobstructed, elevated surfaces of their namesake, providing the territorial plants with plenty of birds, sunlight, water, and even human victims.
 
 Roofgardens derive their names from the large mass of vines and moss they spread over the area around them to collect sunlight. The plants are gluttons for both warmth and water, and they consequently find most environments north or south of Taldor inhospitable, though the potential exists for them to spread along the coasts of the Inner Sea, driving increased scrutiny of Taldan lumber for the tiny seeds it might conceal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Roofgarden)
 ```encounter-table
 name: Roofgarden

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Menotherian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 280
 desc_short: This gangly black wasp has delicate wings, articulate hands on its front legs, and a pair of jagged stingers the length of a human arm.
 ```
-# Description
+## Description
 The Menotherian is a personification of lust and vengeance. Bereft of morals, she seduces, tricks, or murders any creature necessary to complete whatever mission Calistria sends her to upon. The herald stands 14 feet tall, has a wingspan nearing 30 feet, and weighs 1,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Menotherian)
 ```encounter-table
 name: The Menotherian

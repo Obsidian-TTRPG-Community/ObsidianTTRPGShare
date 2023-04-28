@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bone Devil (Osyluth)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 74
 desc_short: Merging the most horrifying features of carrion-fed insect and withered cadaver, this bony devil moves in unsettling lurches.
 ```
-# Description
+## Description
 The interrogators and inquisitors of devilkind, bone devils delight in torturing those weaker than themselves-mortals, souls, and other devils alike. Born of ancient heresies mired amid the Styx-fed swamps of Stygia, Hell’s fifth layer, bone devils-also known as osyluths-enforce infernal order and the will of the archdevils. Powerful fiends favor these terrifying sadists for their unwavering devotion to Hell’s laws and the commands of their masters, as osyluths eagerly report the disobedience of other devils-regardless of standing-and take to the craft of torture like morbid artists. Diabolists risk much to bargain with them, as bone devils glean many infernal secrets amid their nightmarish calcified torture hives. These devils especially delight in journeying to the mortal plane, as their cruel talents and service to evil spellcasters often mean gaining much valuable information, which they might hold in their perfect memories for centuries before reporting back to their diabolical masters.
 
 In battle, an osyluth uses quickened invisibility after each attack to confuse foes. Many osyluths carry twisted and eerie bone weapons, but these tools are more for torture and intimidation than actual combat.
 
 Osyluths tower over lesser devils at 9 feet tall-though their tails and fearsome but useless wings make them appear much larger-and weigh upward of 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bone%20Devil%20(Osyluth))
 ```encounter-table
 name: Bone Devil (Osyluth)

@@ -1,19 +1,21 @@
 ---
-alias: Transport via Plants
+aliases: [Transport via Plants]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Transport via Plants 
+## Transport via Plants
 
 **source**:: PRPG Core Rulebook pg. 361  
 **school**:: conjuration (teleportation)
 **level**:: druid 6, hunter 6, shaman 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: you and touched objects or other touched willing creatures  
@@ -21,7 +23,7 @@ alias: Transport via Plants
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can enter any normal plant (equal to your size or larger) and pass any distance to a plant of the same kind in a single round, regardless of the distance separating the two. The plants must be alive. The destination plant need not be familiar to you. If you are uncertain of the location of a particular kind of destination plant, you need merely designate direction and distance and the *transport via plants* spell moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, the spell fails and you are ejected from the entry plant.  
   

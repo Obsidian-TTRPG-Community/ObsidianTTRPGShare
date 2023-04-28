@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Owlbear
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,7 +43,7 @@ sources:
     desc: 224
 desc_short: An amalgam of fur and feathers, this bizarre half-bear, half-owl monstrosity raises its huge, ursine claws in anger.
 ```
-# Description
+## Description
 The origin of the owlbear is a subject of great debate among scholars of the monstrous creatures of the world. However, most concur that at some point in the distant past, a deranged wizard created the original specimens by crossing an owl with a bear-perhaps as proof of some insane concept about the nature of life, but possibly out of sheer lunacy. Whatever the original purpose of such a freakish creation as the owlbear, the creature bred true and has become quite well-established in woodlands across the world, where it plays a key role in a region’s ecosystem as an apex predator.
 
 Owlbears are notoriously bloodthirsty killers, well known for their short tempers, aggression, and savage nature. They tend to attack without provocation, slaughtering any living creatures that cross their paths. Many scholars that have encountered these creatures in the wild have noted that they all have red-rimmed eyes that roll about wildly when they close in for an attack. This is sometimes presented as a sign of madness, suggesting that all owlbears are born with a pathological need to fight and kill, but more level-headed researchers believe that it’s simply part of the way the massive bird-beast’s keen eyes are constructed.
@@ -53,7 +55,7 @@ Adult owlbears live in mated pairs, and hunt in small groups, leaving their youn
 While it is considered impossible to truly domesticate owlbears due to their feral natures, they can still be used as guardians if contained within an area but allowed to roam and hunt freely there. Professional animal trainers charge up to 2,000 gp to rear or train an owlbear into a serviceable guardian that can obey simple commands (DC 23 for a juvenile creature; DC 30 for a fully grown adult).
 
 A full-grown male can stand as tall as 8 feet and weighs up to 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Owlbear)
 ```encounter-table
 name: Owlbear

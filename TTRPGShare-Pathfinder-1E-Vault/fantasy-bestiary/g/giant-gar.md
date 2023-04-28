@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Gar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 128
 desc_short: This fish is enormous-a sleek predator with bony scales and a long set of toothy jaws.
 ```
-# Description
+## Description
 Although typical gars are frightening enough, tales of enormous giant gars that lurk in the deepest rivers and lakes persist in many regions. These creatures are true monsters, often growing to lengths of 30 feet or more and capable of swallowing a horse and rider in a single gulp. Fortunately, giant gars are much rarer than their smaller kin.
 
 Giant gars are often kept as pets and guard animals by aquatic creatures such as merrows, scrags (aquatic trolls), and the rare sea hags who dwell in freshwater dens.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Gar)
 ```encounter-table
 name: Giant Gar

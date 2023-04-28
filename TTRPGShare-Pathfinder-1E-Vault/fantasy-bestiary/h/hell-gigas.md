@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hell Gigas
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 84
 desc_short: A giant like a mountain of corpses thunders into view. Armor crafted from the twisted bones of a hundred gigantic victims girds a twisted humanoid body covered in angry red burns and the jagged scars of crippling battles. Despite its wounds, the surviving figure exerts a terrible strength, hefting its grisly armor with ease.
 ```
-# Description
+## Description
 The giants of the Pit, Hell gigas roam the hinterlands of Hell, stalking forth from ruined, millennia-old fortresses to enslave those who slip through the grasp of devilkind. Called “phyriphlegeians” by titans and some of the other elder races of the multiverse, these arrogant and most ancient of giants care only for their own tyrannies, petty schemes made abominable by their masters’ scale, strength, and disregard for the survival of all other beings. More than capable of personally ruining most of their own foes physically, Hell gigas prefer campaigns of fear and pain, expending legions of slaves before bringing their own monstrous might to bear upon thoroughly defeated foes-though their rage often provokes them to forgo more satisfying climaxes in favor of immediate destruction.
 
 The typical Hell gigas stands well over 50 feet tall and weighs upward of 20 tons, in addition to the weight of its armor of bone and metal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hell%20Gigas)
 ```encounter-table
 name: Hell Gigas

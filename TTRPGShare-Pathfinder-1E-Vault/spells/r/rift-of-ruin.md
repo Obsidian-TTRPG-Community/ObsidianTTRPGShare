@@ -1,19 +1,21 @@
 ---
-alias: Rift of Ruin
+aliases: [Rift of Ruin]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rift of Ruin 
+## Rift of Ruin
 
 **source**:: Book of the Damned pg. 185, Book of the Damned - Volume 2: Lords of Chaos pg. 48  
 **school**:: conjuration (calling) (chaotic, evil)
 **level**:: arcanist 8, cleric 8, oracle 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 5-ft.-wide, 60-ft.-deep extradimensional hole, up to 5 ft. long per level (S)  
@@ -21,7 +23,7 @@ alias: Rift of Ruin
 **saving-throw**:: Reflex partial
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell tears a rift in reality, creating an extradimensional hole with a depth of 60 feet. You must create the rift on a horizontal surface of sufficient size. Since the rift extends into the Abyss, it does not displace the original underlying material or allow access to areas below the surface-you can create the rift on the deck of a ship as easily as in a dungeon floor or the ground of a forest. Any Large or smaller creature standing in the area where you conjure the rift must succeed at a Reflex save to avoid falling into the hole. If successful, the creature picks which side of the rift it remains on once the rift opens. Unattended objects and structures that can be fully engulfed by the rift automatically fall into it.  
   

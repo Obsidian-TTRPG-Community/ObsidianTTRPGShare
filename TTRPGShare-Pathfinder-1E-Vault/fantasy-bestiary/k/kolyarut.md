@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kolyarut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 163
 desc_short: Beneath its cloak, this man-shaped creature appears to be part statue and part metallic machine.
 ```
-# Description
+## Description
 Kolyaruts are enforcers of bargains, traveling to the very edges of the planes in order to punish oath-breakers and see that contracts are kept. They care little for the terms of the agreements in question, only that promises are fulfilled, debts are paid, and balance is maintained.
 
 Least conspicuous of the inevitables, even in their natural form, kolyaruts are the size of tall humans, though they weigh far more because of their composition. Capable of using both invisibility and disguise self to pass completely unnoticed through humanoid lands, kolyaruts most frequently appear as cloaked warriors bearing finely crafted bastard swords, allowing others to chalk up any metallic noises to the clanking of hidden armor until the moment when they pull back their hoods and let their quarries look upon their mechanical faces, understanding only too late the nature of the mysterious strangers.
 
 Perhaps because their missions can be the murkiest and most open to interpretation, kolyaruts are by far the most talkative of the inevitables, naturally possessing a courtly grace and an encyclopedic knowledge of social customs, which they use both to assist them in gathering information on their targets and in issuing challenges (or executing dignified sentences) on the battlefield. Though naturally as solitary as their kindred, kolyaruts are occasionally content to let members of other races tag along and assist them in achieving shared goals, though they have little problem abandoning or even exploiting these “comrades” if it brings them closer to fulfilling their mission.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kolyarut)
 ```encounter-table
 name: Kolyarut

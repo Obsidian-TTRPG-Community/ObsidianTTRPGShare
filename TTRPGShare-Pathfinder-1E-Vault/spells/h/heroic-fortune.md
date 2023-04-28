@@ -1,19 +1,21 @@
 ---
-alias: Heroic Fortune
+aliases: [Heroic Fortune]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Heroic Fortune 
+## Heroic Fortune
 
 **source**:: Advanced Player's Guide pg. 324  
 **school**:: evocation
 **level**:: alchemist 2, bard 2, cleric 2, investigator 2, oracle 2, paladin 3, skald 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF, M (diamond dust worth 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,6 @@ alias: Heroic Fortune
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell grants 1 hero point to the target. This hero point must be spent before the duration expires, or it is lost. The bonus hero point is spent before any other hero points the target might possess.
-

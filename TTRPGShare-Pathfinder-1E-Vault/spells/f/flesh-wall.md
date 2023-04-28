@@ -1,19 +1,21 @@
 ---
-alias: Flesh Wall
+aliases: [Flesh Wall]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Flesh Wall 
+## Flesh Wall
 
 **source**:: Horror Adventures pg. 117  
 **school**:: necromancy (evil)
 **level**:: arcanist 6, cleric 6, oracle 6, shaman 6, sorcerer 6, spiritualist 5, summoner 5, summoner (unchained) 5, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (one corpse for every 5-ft. square of the wall), DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: a wall of corpses with an area of up to one 5-ft square/level (S)  
@@ -21,7 +23,7 @@ alias: Flesh Wall
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You animate corpses, forming them into a wall of joined flesh and limbs. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall can’t be created so that it occupies the same space as a creature or another object. The wall must be vertical, but can be shaped as you see fit.  
   

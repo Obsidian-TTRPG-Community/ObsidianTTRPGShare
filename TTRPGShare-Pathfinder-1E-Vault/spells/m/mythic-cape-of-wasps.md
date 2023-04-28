@@ -1,25 +1,27 @@
 ---
-alias: Mythic Cape of Wasps
+aliases: [Mythic Cape of Wasps]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Cape of Wasps
+## Mythic Cape of Wasps
 
 **source**:: Mythic Adventures pg. 87  
 **school**:: conjuration (summoning)
 **level**:: druid 4, hunter 4, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 You summon a wasp swarm, which fills your space (up to 5 feet by 5 feet) but does not attack you. The dense cloud of vermin gives you partial concealment against ranged attacks. Any creature that makes a successful melee attack against you takes 2d6 points of swarm damage and poison from the wasp swarm, but is not affected by the swarm’s distraction ability. As a free action on your turn, you may have the swarm cling to you tightly, giving you a fly speed of 20 feet (poor maneuverability); when using the swarm to fly, it does not provide concealment or harm creatures that strike you. You can return the swarm to its protective shape as a free action on your turn.
 

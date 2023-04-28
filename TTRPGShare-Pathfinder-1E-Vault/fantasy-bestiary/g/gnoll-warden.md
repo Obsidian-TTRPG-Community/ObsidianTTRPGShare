@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoll Warden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: Monster Codex
     desc: 95
 ```
-# Description
+## Description
 The warden often serves as a gnoll pack’s forward scout, tracking prey and wearing it down with pursuit before her packmates swoop in to attack.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoll%20Warden)
 ```encounter-table
 name: Gnoll Warden

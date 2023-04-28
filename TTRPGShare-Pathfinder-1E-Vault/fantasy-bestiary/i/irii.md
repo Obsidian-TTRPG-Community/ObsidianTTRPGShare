@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Irii
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,7 +85,7 @@ sources:
     desc: 238
 desc_short: This strangely unnerving entity looks like a thin, graceful human, save for its insectile features and shimmering gossamer wings.
 ```
-# Description
+## Description
 Iriis are natives of the Dimension of Time, but are often mistaken for angels or fey. Iriis have two distinct variants depending on their beliefs and roles with regard to time, and are locked in a civil war over their differing philosophies. Iriis who view time as rigid and immutable are lawful neutral and refer to themselves as Fates; they have the heads of animals-usually big cats, jackals, bulls, or beetles-and wings made out of glass and gold, with unblinking eyes encircling their necks. Iriis who see time as elastic and entropic are chaotic neutral and call themselves Fortunes; they have human faces, golden horns, and insectile wings. Due to their constant battles over ethos, these two aspects were considered to be entirely different species, until a Fate was observed bursting open and releasing a Fortune from within its body. Further study confirmed that Fortunes can likewise become more rigid in outlook and transform into Fates. What triggers these changes in aspect is unknown, but interviews with the iriis themselves suggest a single irii may be composed of multiple Fates and Fortunes, and they appear as separate creatures only because their appearances are filtered through mortals’ unsophisticated perceptions of time and reality.
 
  Iriis are gregarious despite their alien mind-sets. While they most often remain in the Dimension of Time, fighting to either destroy or preserve alternate timelines that never became reality, they are known to don mortal guises and walk the Material Plane. Diviners and those who meddle with time, as well as major events in history, attract iriis, sometimes prompting them to stay and work toward their own peculiar ends. Fate iriis believe that both the past and future are set in stone, and consider anything that attempts to change either to be world-threatening meddling; they help prophecies and destinies come to pass and harry those who would alter history. Fortune iriis delight in destroying predetermined events as well as subtly modifying those that have past, splicing portions of alternate histories into the timeline to replace events that have been rendered impossible by temporal tampering. All iriis work to preserve the timestream, however- though Fates and Fortunes disagree on how elastic time is, they both agree that it should flow smoothly from prior actions into future consequences. As such, they always band together to defend the timeline from events and powers that could devour the past, erase the future, or destroy the integrity of time itself, shattering existence into an endless series of temporal paradoxes.
@@ -91,7 +93,7 @@ Iriis are natives of the Dimension of Time, but are often mistaken for angels or
  Though iriis are rarely malicious in their actions, they are unsafe creatures by any metric. Their relationship with time means they rarely see a creature’s death as an ending, causing iriis to sometimes act callous toward others. They can be invaluable patrons to people they take an interest in, especially scholars who seek out mysteries beyond the known multiverse, but these mysteries tend not to be healthy for mortal minds-and once an irii’s attention is gained, there is no escaping it in any timeline.
 
  The average irii stands 6 feet tall and weighs 150 pounds in its true form.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Irii)
 ```encounter-table
 name: Irii

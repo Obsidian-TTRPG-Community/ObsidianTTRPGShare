@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kobold Master Trapper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: Monster Codex
     desc: 133
 ```
-# Description
+## Description
 Kobold tricksters are experts at crafting deadly traps-both magical and mundane-and at striking from concealment while their enemies are distracted by the traps’ effects.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kobold%20Master%20Trapper)
 ```encounter-table
 name: Kobold Master Trapper

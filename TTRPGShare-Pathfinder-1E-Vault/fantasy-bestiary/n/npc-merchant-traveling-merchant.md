@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Merchant (Traveling Merchant)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,13 +39,13 @@ sources:
   - name: GameMastery Guide
     desc: 285
 ```
-# Description
+## Description
 Traveling merchants wander the world, peddling their wares, seeking out new markets for their goods, and journeying into distant lands in search of new trade routes to open and exotic commodities to take back home to turn a tidy prof it. Many traveling merchants join large trade consortiums or are masters of their own caravans, but they sometimes venture alone (or more usually, with guards) into the wilds carrying small items of high value.
 
 Traveling merchants make excellent diplomats, spies, and information brokers, or even knowledgeable and socially skilled nobles or gentlemen.
 
 A delegation of four traveling merchants might be sent as a trade mission or ambassadors from a far-off land (CR 9), while two traveling merchants can serve as deputies for a merchant prince (CR 10). Lone traveling merchants typically travel with four caravan guards (CR 7), while those with a merchant train share the company of a guide, four vagabonds as drovers, and eight caravan guards (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Merchant%20(Traveling%20Merchant))
 ```encounter-table
 name: NPC Merchant (Traveling Merchant)

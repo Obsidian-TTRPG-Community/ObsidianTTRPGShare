@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Catrina
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 218
 desc_short: With lengthy curling hair, a dancer’s dress, and a bouquet of flowers, this woman remains beautiful, despite having no flesh.
 ```
-# Description
+## Description
 Catrinas welcome the dead into the afterlife, doing what they can to lessen the shock and terror experienced by mortals who haven’t accepted their own deaths or who still grieve for themselves. Eschewing the funereal themes and colors preferred by most other psychopomps, catrinas dress in festive shades, surrounding themselves with light and color to dispel a measure of death’s gloom. However, they don’t disguise their skeletal bodies, for despite any gilding they might put on the moment, they don’t seek to disguise the finality of death.
 
 A catrina’s motivation for easing the transition from life to death has more to do with making the soul’s progression calm than compassion for the soul-after all, screaming and outrage disrupts the processing of the dead.
@@ -70,7 +72,7 @@ A catrina’s motivation for easing the transition from life to death has more t
 Catrinas rarely ever visit the Material Plane, but when they do so it’s typically at the command of a more powerful psychopomp or deity of death who seeks to ease the passing of a mortal of singular importance-such as a high-ranking priest of a death goddess. In such instances they serve as companions and ushers into the realm of the dead, not executioners. However, they’re capable of serving in both capacities, especially if misguided mortals try to keep them from their duty, using their deadly but painless kisses to end a life in an instant.
 
 Catrinas always appear as festively dressed skeletons-usually in women’s garb but sometimes in colorful men’s formal wear, and usually decorated with or carrying flowers. They do not have true genders, but an individual catrina may have a more masculine or feminine voice and personality. They typically stand between 5 and 6 feet tall and weigh about 20 to 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Catrina)
 ```encounter-table
 name: Catrina

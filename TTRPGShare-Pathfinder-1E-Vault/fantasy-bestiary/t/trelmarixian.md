@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trelmarixian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 166
 desc_short: This starving-thin man has a trio of jackal’s heads with jagged, crystalline teeth. His oily black flesh ripples disturbingly.
 ```
-# Description
+## Description
 The youngest but perhaps most ambitious of the Four, Trelmarixian the Black obsesses over soul consumption, riding the line between brutal, amoral science and quasi-religious zealotry. A perpetually ravenous shapeshifting horror, Trelmarixian maintains a three headed humanoid shape-but only just, with his frame constantly shuddering and shifting and threatening to slump into a protoplasmic slurry of bile, blood, and mucus. Trelmarixian was once a meladaemon himself, and his meladaemon servitors, while always emaciated and bestial, have become more canine in appearance under his rule. When the so-called Lysogenic Prince rose to power, he overthrew and consumed his predecessor, but he maintains a fragment of her existence within him to fuel periodic bouts of parasitic rage. 
 
 Trelmarixian embodies not only starvation, but also the broader concept of wasting, both physical and metaphysical, particularly the lingering dooms of cancer, parasitism, and spiritual decay. Like the viral afflictions he represents, the Horseman of Famine behaves like his chosen concept in a concrete manner, having secretively inserted fragments of his physical form into many of his servitors. This bombards him with sensory information on a truly maddening scale, and thus Trelmarixian’s fragmented mind brims with insanity and a multitude of voices, including that of his predecessor. He still adores her in his own fashion, and she in turn speaks to him, advising as she sees fit or mocking his shortcomings like an aggressive, self-aware conscience. By force of will, he can silence the voices, but the thing that haunts him more than any of these cannot be so easily dismissed. Most daemons retain only fractured, fragmented recollections of their mortal life. Trelmarixian, on the other hand, remembers everything save for the last few minutes of his life. As a mortal, daemon-blooded tiefling, Trelmarixian exterminated all life on his world with a work of profound sorcery, but in doing so he condemned himself to starvation. Near the moment of his agonizing death, he recalls someone talking to him, asking him questions and mocking his success as paltry compared to what awaited him after death. Despite his destruction of everyone he had ever known in life, someone was there, and he cannot remember that person’s face or final words. 
@@ -78,7 +80,7 @@ Trelmarixian embodies not only starvation, but also the broader concept of wasti
 Trelmarixian’s memories haunt him still, as does the question of whose blood his soul carried, and thus who may still have some unknown claim on him, such as a long-dead Horseman of Famine. He’s likewise haunted by the notion that he was born to be the vector for his progenitor’s return-one virus within another, waiting and incubating, to someday express itself and snuff him out as he did his own predecessor. 
 
 Trelmarixian’s domain, the Withered Court, is a realm of biological and metaphysical horrors, towers spun from flesh and bone with mortal souls used like living, screaming bricks, each mournfully crying out in the constant pangs of starvation. In this realm of horrors, his servitors devour as much as they craft, warping souls into nightmarish wonders while their master continues his nihilistic work within his citadel, the miles-high Weeping Tower.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trelmarixian)
 ```encounter-table
 name: Trelmarixian

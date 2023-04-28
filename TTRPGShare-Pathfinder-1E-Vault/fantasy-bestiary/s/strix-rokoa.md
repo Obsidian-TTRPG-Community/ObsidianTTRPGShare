@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Strix Rokoa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
     desc: 57
 desc_short: This proud avian woman stands tall and alert despite her years. Claws, bones, and feathers clatter on her crown and staff.
 ```
-# Description
+## Description
 A rokoa is the spiritual leader of a strix tribe. Her duties include deciphering portents, performing funeral rites, tending to the bones of the deceased, and recalling the names of fallen heroes. She is considered the spiritual mother of the tribe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Strix%20Rokoa)
 ```encounter-table
 name: Strix Rokoa

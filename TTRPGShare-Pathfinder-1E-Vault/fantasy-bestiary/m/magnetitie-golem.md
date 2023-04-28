@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Magnetitie Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 88
 desc_short: This vaguely humanoid mass of polished black metal lumbers forward, with all manner of metallic objects clinging to its body.
 ```
-# Description
+## Description
 Though softer than iron golems-upon whom their design is based-and problematic in most industrial settings, magnetite golems still prove to be useful, specialized constructs for both security and salvage. A magnetite golem’s humanoid body is made of magnetite, a naturally magnetic mineral. A magnetite golem mindlessly obeys its creator’s instructions, and, like most golems, shrugs off the most devastating magical assaults. To complicate matters, a magnetite golem emits a magnetic field, which forcefully pulls metallic objects closer-including creatures holding metal weapons or clad in metal armor. Once within range, metal-bearing opponents find it difficult to pull themselves away. Magnetite golems specialize in grappling and disarming creatures that rely on metal equipment.
 
 Magnetite golems are usually about 9 feet tall, and weigh approximately 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Magnetitie%20Golem)
 ```encounter-table
 name: Magnetitie Golem

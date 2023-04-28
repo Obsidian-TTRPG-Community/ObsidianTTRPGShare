@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bezravnis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 168
 desc_short: The armored plates of this immense, three-tailed scorpion are fiery red, and its stingers glow with molten heat.
 ```
-# Description
+## Description
 Bezravnis, known also as the Inferno Below, dwells in the sands of a sparsely inhabited high-altitude desert found in the shadow of the world’s largest mountain range. There, the 130-foot-long beast slumbers the centuries away until its cycle of wakefulness rouses it from its torpor and causes it to emerge from the sands in an eruption of fire and ash. The Inferno Below then begins its rampage, traveling in a straight line toward a heavily populated region bordering the great desert. Typically, the Inferno Below’s rampage is limited to a single city, and never the same one twice in a row. After destroying no less than two-thirds of the city, it retreats back to the vast desert, burrows deep, and settles into a new sleep of ages.
 
 The reason for the Inferno Below’s cyclic rampages is not well understood, but the cycle of these rampages functions like clockwork-they take place every 273 years with little deviation. As there seems to be no pattern to the kaiju’s attacks themselves, with a different city being targeted each cycle, the cities of the bordering nations do their best to prepare for the monster’s attack. The nations themselves have little love for each other, and attempts to generate lures to direct the kaiju’s march toward an enemy city are common-yet these lures have yet to work, and in fact they seem to result in the kaiju attacking a city in the luring nation more often than not. Other cities spare no expense during a so-called “Inferno Season,” and send huge armies of scouts into the desert to watch for signs of the kaiju’s emergence or traces of its burrowing passage through the sands, in hopes of determining the direction of the beast’s travel and warning likely target cities (or, in the case of a trajectory that leads it to an enemy city, working to silence warnings).
@@ -72,7 +74,7 @@ Kaiju scholars have correlated Bezravnis’s appearance with the passage of a si
 But Bezravnis doesn’t always have the luxury of waiting for the Inferno Star to draw near before waking. At several points in the past, lunatics, cults, and accidents have woken the kaiju before its appointed time. Some mad, apocalyptic-minded spellcasters use powerful magic to cause great explosions above the sands where the kaiju slumbers. Earthquakes, severe weather phenomena, and similar natural events have been known to waken the monster early as well. When Bezravnis wakens off-cycle like this, the monster is particularly foul-tempered. It’s rampage does not follow a straight line-instead, its travels are erratic as it pursues the perceived cause of its wakening with single-minded ferocity and tenacity. In this way, cults have accomplished what the border nations have not-leading the kaiju to attack an enemy. Of course, such tactics are dangerous and often backfire, for Bezravnis is fast and destructive, and it has been known to follow such tormenters.
 
 Bezravnis doesn’t seem to be particularly vexed by the presence of other kaiju, and ignores them unless it is attacked first. Once attacked, however, the Inferno Below becomes singularly focused and deviates from its path to fight the target creature as long as it remains visible or alive. Smaller foes can sometimes distract the kaiju from its path in this manner if they can deal enough damage upon the creature to bait it into directing its furious rage on them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bezravnis)
 ```encounter-table
 name: Bezravnis

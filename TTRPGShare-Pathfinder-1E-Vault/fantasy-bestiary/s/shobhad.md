@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shobhad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 63
 desc_short: This gray-skinned goliath is lean and muscled. Its four powerful arms carry weapons, and it wears a leather chest harness.
 ```
-# Description
+## Description
 These fabled four-armed giants are native to a low-gravity planet and renowned across several worlds for their ferocity in battle. Most shobhads are born and come of age in fierce tribal clans known collectively as the Shobhad-neh, and disdain the “soft living” practiced by many other humanoid races-they believe the abandonment of nomadic culture is a slippery slope that leads away from individual honor and into marginalization. Whether with flashing swords and lances or mysterious longrifles capable of picking off targets on faraway horizons, the clans of the Shobhadneh constantly vie for resources in the hard deserts and mountains where they live, their need to survive trumped only by a still greater desire for honor.
 
 Though considered barbaric by many, the Shobhad-neh operate under strict codes of conduct that dictate how a warrior may gain status via ritualistic challenges or daring coups in territorial squabbles. Unfortunately for other races, these rules almost always apply exclusively to interactions with other shobhads, and the Shobhad-neh see “lesser” races as little more than sheep to be culled.
@@ -55,7 +57,7 @@ Though considered barbaric by many, the Shobhad-neh operate under strict codes o
 Typical shobhad warriors stand 12 feet tall and weigh 500 pounds, and their lean bodies are corded with ropes of muscle. Most shobhads prefer to go naked save for loincloths and the leather harnesses that crisscross their chests and secure their weapons in place. When they wear clothing, its either practical such as hide armor and wrappings that protect against biting sandstorms, or ceremonial like the brightly colored skins and feathers chieftains and shamans wear.
 
 Though shobhads can be found on occasion working as lone mercenaries in cities, such urban individuals are the exception rather than the rule. Shobhad shamans preach that in human cities, an individual is little more than a faceless cog in a machine, remembered by no one. Yet a shobhad warrior who rides heroically into battle atop her armored reptilian steed is never forgotten-neither by her own kin, nor by the families of those she defeats. Thus, in battle, a shobhad is made truly immortal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shobhad)
 ```encounter-table
 name: Shobhad

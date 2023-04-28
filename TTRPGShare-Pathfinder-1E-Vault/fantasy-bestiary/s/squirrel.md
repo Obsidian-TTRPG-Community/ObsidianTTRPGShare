@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Squirrel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 31
 desc_short: A small, bright-eyed bundle of fur, this woodland creature has a bushy tail as big as the rest of its body.
 ```
-# Description
+## Description
 Squirrels are surprisingly wily creatures. When they know they are being watched, they pretend to bury nuts, but instead sneak them into their mouths and take them away to hide elsewhere when no one is watching. They eat most things, occasionally even preying on small snakes and birds.
 
  The average squirrel is roughly 1-1/2 feet long and weighs 1 pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Squirrel)
 ```encounter-table
 name: Squirrel

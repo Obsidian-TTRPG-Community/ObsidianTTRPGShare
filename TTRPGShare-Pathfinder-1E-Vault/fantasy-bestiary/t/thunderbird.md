@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thunderbird
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 264
 desc_short: This enormous bird has feathers the color of a stormy sky, a resemblance enhanced by the lightning that dances over its body.
 ```
-# Description
+## Description
 Thunderbirds bring the storm on their wings. In times of drought, they are welcomed with joy and celebration. In other times, they are placated with gifts in hopes that they might leave quickly before flooding begins. When angered, thunderbirds can call down hurricanes and lay waste to entire villages, so in regions where these birds dwell, many villages maintain extensive rituals designed to appease and honor the local thunderbirds.
 
 Thunderbirds nest near the base of waterfalls, where the constant thrum of crashing water prepares the hatchlings for a life at the heart of a storm. Once the chicks have hatched, their parents carry the offspring to nests at the top of mountains, where the young are struck by their first bolts of lightning and learn the mysteries of the storm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thunderbird)
 ```encounter-table
 name: Thunderbird

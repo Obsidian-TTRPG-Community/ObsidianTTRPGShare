@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gristly Demodand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 72
 desc_short: This obese humanoid has a wide mouth, batlike wings, and pale fluid seeping from rolls of black, greasy skin.
 ```
-# Description
+## Description
 Gristly demodands delight in inflicting pain and suffering, eagerly fulfilling their roles in demodand culture as assassins, executioners, and torturers. These fiends conduct special missions of reconnaissance, disruption, and violent destruction, frequently leading crack units of tarry demodands into hostile lands, where they attack key demonic installations in order to subject their captives to brutal and insidious torture for the purpose of extracting information.
 
 A gristly demodand’s skin is stretched so taut over rolls of fat and cartilaginous flesh that it continually rips and splits, though a yellow-white mucus that oozes out from within heals these superficial tears, keeping its body intact.
 
 A typical gristly demodand is 7 feet tall and weighs up to 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gristly%20Demodand)
 ```encounter-table
 name: Gristly Demodand

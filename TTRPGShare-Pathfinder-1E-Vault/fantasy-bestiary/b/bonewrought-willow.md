@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bonewrought Willow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 82
 desc_short: This weeping willow tree has a pale and mottled trunk that is contorted into twisted and torturous forms, and long branches made of bones and fibrous fronds.
 ```
-# Description
+## Description
 Arising from the bones sloughed from mortal bodies by souls moving on to their final planar destinations, bonewrought willows grow in lonely places in the Boneyard. Despite their undead appearance, these trees are actually alive, growing in the shape of weeping willows to symbolize the loss associated with the deaths that created them. Stray soul fragments remain in a bonewrought willow, giving it a dim intelligence and a keen awareness of living and undead creatures in its vicinity. Bonewrought willows serve as protectors of the dead. They often distrust the living and shake their rattling branches to scare such creatures away. When pressed into combat, a bonewrought willow usually starts by disgorging a spray of partially digested bone fragments at its enemies and then follows up with slam attacks.
 
  A bonewrought willow stands between 12 and 15 feet tall and weighs about 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bonewrought%20Willow)
 ```encounter-table
 name: Bonewrought Willow

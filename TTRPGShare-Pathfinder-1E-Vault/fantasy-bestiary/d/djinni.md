@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Djinni
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 139
 desc_short: This creature stands nearly twice as tall as a human, although its lower torso trails away into a vortex of mist and wind.
 ```
-# Description
+## Description
 The djinn (singular djinni) are genies from the Plane of Air. They are said to be made of the stuff of clouds, with the strength of the mightiest storms. A djinni is about 10 feet tall and weighs about 1,000 pounds.
 
 Djinn disdain physical combat, preferring to use their magical powers and aerial abilities against foes. A djinni overmatched in combat usually takes flight and becomes a whirlwind to harass those who follow. When faced with no other option than melee combat, most djinn prefer to wield masterwork scimitars two-handed.
@@ -63,7 +65,7 @@ Djinn disdain physical combat, preferring to use their magical powers and aerial
 Among other genies, djinn get along well with jann and marids. They are frequently at odds with the shaitans, and are sworn enemies of the efreet, despising these fiery genies more than any other genie race. So legendary is the conflict between the efreet and the djinn that many spellcasters attempt (to varying degrees of success) to secure a djinni’s servitude by promising to aid the cause against their hated enemies.
 
 A small percentage of djinn are noble. Noble djinn, often called viziers, have 10 Hit Dice, Strength 23, and Charisma 17, and can grant three wishes to any being (nongenies only) who captures them. Djinn nobles are CR 8.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Djinni)
 ```encounter-table
 name: Djinni

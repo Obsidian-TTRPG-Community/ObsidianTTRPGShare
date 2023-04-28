@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Dragonfly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
     desc: 105
 desc_short: This glittering blue dragonfly is about the size of a horse and is large enough to carry off small farm animals or people. 
 ```
-# Description
+## Description
 Giant dragonflies are rare compared to other varieties of giant insects, and fortunately so, since they are voracious hunters of warm-blooded prey, including humanoids. 
 
 The creatures typically lair in overgrown or lightly wooded areas, using foliage as cover. When they spot potential prey out in the open, the dragonflies swoop to the attack, using their superior flight speed and maneuverability to run most prey to ground or carrying off smaller foes to eat them somewhere safe. Giant dragonflies feed on carrion when fresh prey is not available, and the scent of a fresh kill often attracts them. 
 
 Many swamp-dwelling cultures attach religious significance to brightly colored and ravenous giant dragonflies, particularly boggards. The frog-men attach particular significance to a giant dragonfly’s color, and their priest-kings often refuse to eat anything but specific colors of giant dragonflies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Dragonfly)
 ```encounter-table
 name: Giant Dragonfly

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marilith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 63
 desc_short: This snake-bodied fiend has a six-armed woman’s torso, pointed ears, and glittering, otherworldly eyes.
 ```
-# Description
+## Description
 The leaders of Abyssal hordes and queens of Abyssal nations, the dreaded mariliths serve demon lords as governesses, advisors, and even lovers, yet their brilliance as tacticians makes them most sought after as generals and commanders of armies. The most powerful mariliths serve no one, and instead command ravenous fiendish legions.
 
 A marilith is 6 to 9 feet tall and measures 20 feet from head to tail tip. It weighs 4,000 pounds. Only the most arrogant and proud evil souls, typically those of cruel kings, sadistic generals, and exceptionally violent warlords, can trigger the manifestation of a marilith.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marilith)
 ```encounter-table
 name: Marilith

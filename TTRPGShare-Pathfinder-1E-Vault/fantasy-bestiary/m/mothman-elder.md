@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mothman Elder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 33
 desc_short: Two colorful membranous wings rise behind this large insectlike humanoid, forming and reforming into complex patterns.
 ```
-# Description
+## Description
 Mothmen that are captured or fail to accomplish their goals answer to greater beings. Called elders by their kin, these cataclysmic creatures are taskmasters in charge of disciplining renegade mothmen and disposing of damning evidence that might bring knowledge of the mothmen to public light. This means hunting down and destroying individuals that reveal themselves to too many or fail in fulfilling destiny.
 
 A mothman elder is 8 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mothman%20Elder)
 ```encounter-table
 name: Mothman Elder

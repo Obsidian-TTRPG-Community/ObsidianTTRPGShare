@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bearded Devil (Barbazu)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 73
 desc_short: This seething devil deftly wields a vicious, saw-toothed glaive, while below its toothy maw writhes a hideous, twitching beard.
 ```
-# Description
+## Description
 Elite warriors in Hell’s legions, bearded devils-or barbazus-fight savagely in the name of their infernal lords and command mindless hordes of the damned into battle. They collect and train with their infernally forged glaives among the vaults of Hell’s third layer, Erebus, but inevitably return to the first layer, Avernus, to serve at the side of the dread lord Barbatos.
 
 Barbazus are fond of making charge attacks with their glaives, and try to maintain a 10-foot gap between themselves and their foes so they can use their signature polearms to great effect. Against a foe that has greater reach (or one able to otherwise avoid the devil’s favored tactic), they drop their glaives and resort to their claws and hideous beards.
 
 At attention, bearded devils stand over 6 feet tall (though their squatting battle stances often make them appear shorter) and weigh upward of 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bearded%20Devil%20(Barbazu))
 ```encounter-table
 name: Bearded Devil (Barbazu)

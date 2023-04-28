@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seeded Lamia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 90
 desc_short: This creature’s lower body is that of a decaying lion, while its upper torso is that of a woman with ropey fungus for hair. A web of grotesque fibers sprouts from its body.
 ```
-# Description
+## Description
 Though the Great Old One Xhamen-Dor lies halfdormant where its bloated body crashed millennia ago, virtually nothing can prevent it from seeking new hosts to infect. The most common means by which one might contract this infestation is through nightmares that brush against Xhamen-Dor’s influence in the Dimension of Dreams, after which the Inmost Blot can track victims and infest their thoughts, slowly and painfully driving them mad. Less common is direct exposure to one of the Great Old One’s vine-choked thralls: the seeded.
 
 Xhamen-Dor feeds upon a victim’s force of personality, and as a result, only a select few who meet its inscrutable criteria are even able to contract the seedborne consumption disease that turns one into a seeded. Those infected first become sickly and withdrawn. Weeks later, the germinating evil within begins sending fibrous feelers throughout the victim’s body. When the host finally slips into a catatonic coma, these fibers quickly digest the organs and portions of the flesh before animating the corpse from within like a puppet. Most victims maintain painful recollections of their former lives, yet they are driven to hear and obey the commands of Xhamen-Dor and find new victims to spread their plague.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seeded%20Lamia)
 ```encounter-table
 name: Seeded Lamia

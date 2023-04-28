@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Stymphalidies
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 88
 desc_short: Every feather like a plate of shimmering armor and its beak the length and sharpness of a knight’s lance, this towering, ibis-like bird looks to be sculpted from silver and brass. Standing upon long legs ending in powerful metallic talons, its beady eyes dart about voraciously.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Stymphalidies)
 ```encounter-table
 name: Giant Stymphalidies

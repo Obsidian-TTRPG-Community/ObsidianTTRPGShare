@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nereid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 198
 desc_short: This beautiful woman has pearlescent skin and long, dark hair. Her nudity is barely hidden by a diaphanous, wet shawl.
 ```
-# Description
+## Description
 Nereids are capricious and often dangerous aquatic fey that appear as strikingly beautiful women, often seen bathing unclothed in the water. Many sailors have met their doom following a nereid, for though a nereid’s beauty is otherworldly, her watery kiss is death. Others seek out nereids, for if one can secure control over the creature’s shawl, the cloth can be used to force the nereid’s compliance. A nereid forced to obey in this manner immediately attempts to slay her master as soon as she can secure her shawl’s safety.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nereid)
 ```encounter-table
 name: Nereid

@@ -1,25 +1,27 @@
 ---
-alias: Arcane Sight
+aliases: [Arcane Sight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Arcane Sight 
+## Arcane Sight
 
 **source**:: PRPG Core Rulebook pg. 244  
 **school**:: divination
 **level**:: alchemist 3, arcanist 3, inquisitor 3, investigator 3, magus 3, occultist 3, psychic 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you. The effect is similar to that of a *detect magic* spell, but *arcane sight* does not require concentration and discerns aura location and power more quickly.  
   
@@ -30,4 +32,3 @@ If you concentrate on a specific creature within 120 feet of you as a standard a
 As with *detect magic*, you can use this spell to identify the properties of magic items, but not artifacts.  
   
 *Arcane sight* can be made permanent with a *permanency* spell.
-

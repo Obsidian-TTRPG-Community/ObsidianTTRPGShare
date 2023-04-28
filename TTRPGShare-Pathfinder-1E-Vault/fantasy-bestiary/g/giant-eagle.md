@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Eagle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 118
 desc_short: This immense eagle’s feathers are golden brown and shimmer in the light. Its sharp beak and curved talons are dark yellow.
 ```
-# Description
+## Description
 A typical giant eagle stands about 15 feet tall, has a wingspan of up to 30 feet, and resembles its smaller cousins in nearly every way except size. It weighs 500 pounds.
 
 Giant eagles are far more than animals-they possess a supernatural intellect and view themselves as guardians and protectors of their mountain territories. They form lasting friendships with those who respect them and their mountaintop domains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Eagle)
 ```encounter-table
 name: Giant Eagle

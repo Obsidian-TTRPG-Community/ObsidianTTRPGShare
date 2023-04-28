@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juju Zombie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 291
 desc_short: This wretched human figure has tight leathery skin, sunken eyes, and an emaciated frame, yet it moves with eerie alacrity.
 ```
-# Description
+## Description
 A juju zombie is an animated corpse of a creature, created to serve as an undead minion, that retains the skills and abilities it possessed in life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juju%20Zombie)
 ```encounter-table
 name: Juju Zombie

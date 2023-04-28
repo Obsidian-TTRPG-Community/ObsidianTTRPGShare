@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Small Magma Elemental
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 118
 desc_short: This rocky monster glows with an internal heat. Red light spills from its eyes and mouth, as well as fractures in its outer surface.
 ```
-# Description
+## Description
 In the border areas between the Plane of Earth and Plane of Fire, volcanoes and continent-sized lava flows are commonplace. Elementals in this area tend to have aspects of both planes, and the typical sort is the magma elemental, an earth elemental with a core of liquid fire. Magma elementals generally have a somewhat feral or bestial appearance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Small%20Magma%20Elemental)
 ```encounter-table
 name: Small Magma Elemental

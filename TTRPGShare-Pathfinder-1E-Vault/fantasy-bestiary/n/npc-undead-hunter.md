@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Undead Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 21
 ```
-# Description
+## Description
 Whether encountered alone or in a group of like-minded individuals, undead hunters let no one stand in the way of their grim work.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Undead%20Hunter)
 ```encounter-table
 name: NPC Undead Hunter

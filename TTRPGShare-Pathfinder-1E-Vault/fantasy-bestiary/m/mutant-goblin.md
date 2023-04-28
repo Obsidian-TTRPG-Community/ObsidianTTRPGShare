@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mutant Goblin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 112
 desc_short: This goblin has a bizarre amalgamation of asymmetrical parts, including dragonfly wings, a partial arm, and scales.
 ```
-# Description
+## Description
 No description provided.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mutant%20Goblin)
 ```encounter-table
 name: Mutant Goblin

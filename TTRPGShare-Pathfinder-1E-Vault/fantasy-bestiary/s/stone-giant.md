@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stone Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 151
 desc_short: This giant has chiseled, muscular features and a flat, forward-sloping head, looking almost as if it were carved of stone.
 ```
-# Description
+## Description
 Stone giants prefer thick leather garments, dyed in shades of brown and gray to match the stone around them. Adults are about 12 feet tall, weigh about 1,500 pounds, and can live to be 800 years old.
 
 Stone giants fight from a distance whenever possible, but if they can’t avoid melee, they favor gigantic clubs chiseled out of stone. A favorite tactic of stone giants is to stand nearly motionless, blending in with the background, then move forward to throw rocks and surprise their foes.
 
 Stone giants prefer living in enormous caves in high-altitude, rocky peaks. They rarely live more than a few days’ travel from other bands of stone giants, and even raise shared herds of goats and other livestock between tribes. Older stone giants tend to wander away from the tribe for a significant period of time in their later years, either living in seclusion somewhere or attempting to merge into other humanoid civilizations. After decades of this self-imposed exile, those who return do so as stone giant elders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stone%20Giant)
 ```encounter-table
 name: Stone Giant

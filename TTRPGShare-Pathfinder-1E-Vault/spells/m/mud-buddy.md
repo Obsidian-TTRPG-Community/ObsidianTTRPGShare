@@ -1,25 +1,27 @@
 ---
-alias: Mud Buddy
+aliases: [Mud Buddy]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mud Buddy 
+## Mud Buddy
 
 **source**:: Monster Codex pg. 105  
 **school**:: conjuration (creation)
 **level**:: arcanist 2, druid 2, hunter 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (1 pint of water)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 5 cubic feet of earth or mud  
 **duration**:: 1 hour/level (D) (see text)
 
-### Description 
+### Description
 
 You create a Small minion out of mud, and it obeys your commands. The mud buddy has AC 12, 10 hit points, Strength 5, and a speed of 30 feet. It can perform any tasks an unseen servant can, plus any similar tasks its Strength allows (it’s able to lift up to 50 pounds), but instead of walking on water, it gains a swim speed of 30 feet.  
   

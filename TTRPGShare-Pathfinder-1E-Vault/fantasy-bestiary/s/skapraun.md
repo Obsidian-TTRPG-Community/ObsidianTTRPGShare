@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skapraun
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 88
 desc_short: This dark-furred creature wielding a horn bow looks like a burly humanoid with the head and hooves of a mountain goat.
 ```
-# Description
+## Description
 Because of their mighty horns, cloven hooves, and aggressively territorial behavior, skaprauns are often mistaken for hellspawn or other minions of evil. Although these fey actually have a deep sense of honor, even those who know them for what they are generally view them with suspicion-their stubbornness and isolationist traditions leave little room for alliances or friendships with other creatures. Skaprauns stand 3-1/2 feet tall and weigh 60 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skapraun)
 ```encounter-table
 name: Skapraun

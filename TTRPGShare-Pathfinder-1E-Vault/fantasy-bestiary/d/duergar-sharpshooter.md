@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duergar Sharpshooter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Monster Codex
     desc: 46
 ```
-# Description
+## Description
 Spending much time scouting and exploring alone, rangers prove their toughness to their kin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duergar%20Sharpshooter)
 ```encounter-table
 name: Duergar Sharpshooter

@@ -1,19 +1,21 @@
 ---
-alias: Handy Grapnel
+aliases: [Handy Grapnel]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Handy Grapnel 
+## Handy Grapnel
 
 **source**:: Ultimate Intrigue pg. 215  
 **school**:: transmutation
 **level**:: arcanist 1, hunter 1, inquisitor 1, ranger 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (an arrowhead)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one ropelike object, length up to 50 ft. + 5 ft./level  
@@ -21,7 +23,7 @@ alias: Handy Grapnel
 **saving-throw**:: Fortitude negates (object)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause the target rope to shrink and reshape itself into an arrow, bolt, or similar piece of ammunition, which you can shoot at any Medium or larger object. With a successful attack roll against an AC equal to 5 plus the hardness of the target object, the *handy grapnel* strikes and embeds itself in that object with the strength of an iron grappling hook.  
   

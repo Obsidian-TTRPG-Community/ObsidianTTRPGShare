@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Draconal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -97,11 +99,11 @@ sources:
     desc: 18
 desc_short: This noble creature seems to be part serpent, part humanoid, and part dragon, with great wings and a crown of horns. 
 ```
-# Description
+## Description
 Draconals are mighty agathion lords, few in number and greatly removed from mortal affairs. They watch over powerful magic and are direct agents of the gods and the needs of the good planes. Patient and ageless, they plan for the long term, which often frustrates mortal creatures who seek to gain their assistance with a threat in the here and now. A draconal would rather support or enhance a group of heroes than tackle a problem directly, maintaining its focus on planar matters. 
 
 Draconals are attuned to nature and believe in cycles of life and death. Though they are good, they understand that the presence of evil gives good creatures something to strive against, preventing stagnation and complacency. This means their outlook sometimes appears almost neutral, though they hate suffering and needless death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Draconal)
 ```encounter-table
 name: Draconal

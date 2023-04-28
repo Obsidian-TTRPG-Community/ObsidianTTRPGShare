@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fleshdreg
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 82
 desc_short: Composed of half-formed body parts, this creature stands on two bizarre legs. Its mouth is full of jagged teeth and a slavering tongue.
 ```
-# Description
+## Description
 Fleshdregs are misshapen lumps of tissue, appendages, and biting mouths. These incomplete sinspawn are practically immortal, require little food to sustain their unnatural physiology, and don’t seem to mature past the point of creation. Fleshdregs follow true sinspawn around like pets or curious children. Sinspawn use these weaker creatures as slaves, troops, and hunting companions. Despite this treatment, fleshdregs still seek out the company of their larger, more advanced cousins.
 
 Fleshdregs vary in appearance from one another depending on factors such as the sins that powered their creation. Wrathful fleshdregs develop a more predatory form than lustful fleshdregs do, and slothful fleshdregs are little more than bloated piles of flesh atop stubby legs. Most fleshdregs stand between 3 and 4 feet tall, and weigh about 60 pounds. Greed fleshdregs are the tallest of their kind, and sloth fleshdregs the heaviest.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fleshdreg)
 ```encounter-table
 name: Fleshdreg

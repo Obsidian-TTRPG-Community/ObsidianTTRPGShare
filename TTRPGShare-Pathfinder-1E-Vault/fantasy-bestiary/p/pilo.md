@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pilo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 82
 desc_short: Sharp quills cover this bright yellow, six-legged animal, and its long, twitching snout probes the air around it.
 ```
-# Description
+## Description
 These carnivorous marsupials, sometimes called tumblespikes, are irritable desert-dwelling creatures that even predators leave alone. They are aggressive and often attack creatures that are larger than themselves. Pilos plow toward their foes and attempt to gore these foes with their spikes, bellowing a wheezing series of grunts. When provoked by a creature much larger than themselves or a particularly dangerous predator, pilos roll up into a spiny ball to deter attacks. Their aggressive nature means that they often fight until they die or until their opponent perishes or flees. Though pilos are only 3 feet long, their muscular bodies and spikes-which constantly grow-contribute to their 80-pound weight. Like many marsupials, pilos carry their young in a pouch, which they protect by remaining rolled up except when hunting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pilo)
 ```encounter-table
 name: Pilo

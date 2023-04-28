@@ -1,25 +1,27 @@
 ---
-alias: Cloak of Shadows
+aliases: [Cloak of Shadows]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cloak of Shadows 
+## Cloak of Shadows
 
 **source**:: Villain Codex pg. 80  
 **school**:: illusion (shadow) (evil, shadow)
 **level**:: antipaladin 4, arcanist 5, bard 5, mesmerist 5, skald 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 You wrap yourself in a protective mantle of semireal shadow. This grants a number of advantages: you gain concealment (20% miss chance), a +5 competence bonus on Stealth checks, and DR 5/good. This shroud of shadows also protects you from direct sunlight, negating sunlight vulnerability, sunlight powerlessness, and similar effects.  
   

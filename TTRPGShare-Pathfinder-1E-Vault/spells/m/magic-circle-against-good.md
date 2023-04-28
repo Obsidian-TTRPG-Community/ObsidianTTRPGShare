@@ -1,19 +1,21 @@
 ---
-alias: Magic Circle against Good
+aliases: [Magic Circle against Good]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Magic Circle against Good 
+## Magic Circle against Good
 
 **source**:: PRPG Core Rulebook pg. 308  
 **school**:: abjuration (evil)
 **level**:: antipaladin 3, arcanist 3, cleric 3, inquisitor 3, medium 3, occultist 3, oracle 3, shaman 3, sorcerer 3, spiritualist 3, summoner 3, summoner (unchained) 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 10-ft.-radius emanation from touched creature  
@@ -21,6 +23,6 @@ alias: Magic Circle against Good
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no; see text
 
-### Description 
+### Description
 
 This spell functions like *magic circle against evil*, except that it is similar to *protection from good* instead of *protection from evil*, and it can imprison a nonevil called creature.

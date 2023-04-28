@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Centaur Outcast
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 8
 desc_short: Lean and graying but still blessed with a young man’s face, this aging centaur bristles with scrolls and wands. Winding, swirling tattoos climb across his body and face.
 ```
-# Description
+## Description
 While most centaurs shun settled life and academic studies-and by extension arcane magic-outcasts view Golarion as too interesting to limit themselves to remote pastures and placid forest glens. Less xenophobic and more independent than their kin, outcasts answer the siren call of the larger world. Often ridiculed and chastised by their own people, outcasts find no solace in centaur society-tribes have little use for an extra mouth to feed who reads and writes when he should hunt or forage, and outcasts generally have no love for the “primitive” ways their people idolize.
 
 Outcasts’ insatiable need for new experiences frequently overtakes them, and they rarely call one place home, or one group of people friends, for very long. Instead, they plod forever forward, challenging themselves with new languages, cultures, spells, and the constant frustration of humanoid stairs. Outcasts hold no ill will toward their former kin, though they consider traditional centaurs narrow-minded country cousins, ignorant of the outside world’s seemingly infinite expanse.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Centaur%20Outcast)
 ```encounter-table
 name: Centaur Outcast

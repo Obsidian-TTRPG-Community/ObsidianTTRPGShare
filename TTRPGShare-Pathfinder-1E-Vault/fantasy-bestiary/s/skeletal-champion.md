@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skeletal Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 252
 desc_short: This armored skeleton stands in a battle-ready pose, its weapon held high as cold blue light shines in its eye sockets.
 ```
-# Description
+## Description
 Some skeletons retain their intelligence and cunning, making them formidable warriors. These undead are far more powerful than their mindless kin, and many gain class levels.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skeletal%20Champion)
 ```encounter-table
 name: Skeletal Champion

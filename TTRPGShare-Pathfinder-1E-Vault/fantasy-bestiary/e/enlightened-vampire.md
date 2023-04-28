@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Enlightened Vampire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: Monster Codex
     desc: 242
 ```
-# Description
+## Description
 An enlightened vampire spends his nights in meditation. He tries to live an ascetic’s life, in search of purity and wholeness, even if his very nature requires him to harm others on a regular basis. Because of this, he lives in a state of suffering, seeking to atone for his nature while exploring the mysteries of enlightenment. This outlook on unlife doesn’t stop him from killing his enemies. Whenever someone harms his spawn or one of his herd, an enlightened vampire responds with deliberate and decisive action.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Enlightened%20Vampire)
 ```encounter-table
 name: Enlightened Vampire

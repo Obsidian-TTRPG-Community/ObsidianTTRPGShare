@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shantak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 244
 desc_short: Larger than an elephant, this scaly, bird-like creature has a vaguely horse-like head and vast, slime-encrusted wings.
 ```
-# Description
+## Description
 Shantaks speak in a shrill voice that sounds like glass grinding against stone. They are intelligent creatures and cannot be trained as mounts-a would-be shantak rider must use diplomacy or magic to secure a shantak’s cooperation as a mount, and even then, shantaks have a tendency to deliberately strand riders in dangerous areas.
 
 Many shantaks have a strange and irrational fear of certain creatures, such as the faceless nightgaunts said to dwell in certain remote mountains, or specific types of harpies or gargoyles in more civilized regions. A shantak avoids confrontations with these types of creatures if possible.
 
 A shantak’s ability to travel the gulfs of space ensures that these scaly, bird-like creatures can be found on numerous worlds. Yet despite this unique ability, shantaks are generally quite reluctant to seek out new worlds unless faced with no other option, for a shantak knows well that an attempt to fly to an unknown world could easily result in being lost forever in the gulfs of space.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shantak)
 ```encounter-table
 name: Shantak

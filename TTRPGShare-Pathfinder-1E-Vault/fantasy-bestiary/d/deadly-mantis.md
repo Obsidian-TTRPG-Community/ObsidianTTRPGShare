@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deadly Mantis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 30
 desc_short: This terrifying monstrosity towers taller than the mightiest jungle trees, its forelimbs raised in a meditative, deadly stance.
 ```
-# Description
+## Description
 The legendary deadly mantis stalks the deepest jungles of Mediogalti Island and the Mwangi Expanse. Tales about this lethal predator preying upon such mammoth creatures as drakes and giants frighten even the bravest hunters. Deadly mantises are sacred to the followers of Achaekek, the Mantis God, who keep the massive beasts well fed, and bring them sacrificial victims and livestock. Followers of Achaekek have also been known to serve as protectors of the dens of deadly mantises. Though creatures of this size and power obviously need no guardians, the devout followers guard their lairs and prevent adventurers from slaying the mighty insects. The typical deadly mantis stands 40 feet tall, 60 feet long, and weighs several tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deadly%20Mantis)
 ```encounter-table
 name: Deadly Mantis

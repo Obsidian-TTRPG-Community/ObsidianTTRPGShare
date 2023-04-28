@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caulborn Thoughtkeeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 12
 desc_short: This humanoid creature has two mouths in its eyeless head, one small and human, the other split into terrifying jaws.
 ```
-# Description
+## Description
 Planar scholars who subsist on the physic energy of other races, the telepathic caulborn wander the planes, storing both sustenance and information in their hives’ massive brain-sacs, which are called chrestomaths. These latter entities act as living libraries, containing within them a communal racial memory spanning eons.
 
 While caulborn’s similar appearance and hive mind lead most other intelligent races to assume all of the caulborn’s humanoid individuals are identical, their race still has a certain degree of specialization. The more powerful variant known to outsiders as caulborn thoughtkeepers are a prime example of this differentiation. With their advanced psychic powers and combat abilities, these elite individuals range farthest from the hive in their search for esoteric knowledge, or directly guard and care for their hive’s chrestomath. Yet while this might seem like a case of the most important jobs going to the most powerful individuals, the truth is in fact the opposite: subsisting on the best psychic energy or remaining in closest proximity to the intense volume of thoughts that constantly passes through a chrestomath empowers individual caulborn, allowing them to grow into full thoughtkeeper status. Physically, thoughtkeepers resemble other caulborn-they bear no special markings or badges of office, and in fact are treated no differently by their peers outside of their utilization, as within the hive mind they’re simply seen as stronger appendages of the same greater being.
 
 On Golarion, caulborn thoughtkeepers are most reliably found deep beneath Kaer Maga in the city of Xavorax, communing with Anamnesis, the hive’s resident chrestomath.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caulborn%20Thoughtkeeper)
 ```encounter-table
 name: Caulborn Thoughtkeeper

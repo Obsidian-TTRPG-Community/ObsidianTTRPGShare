@@ -1,19 +1,21 @@
 ---
-alias: Matchmaker
+aliases: [Matchmaker]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Matchmaker 
+## Matchmaker
 
 **source**:: Ultimate Intrigue pg. 220  
 **school**:: enchantment (charm) (mind-affecting)
 **level**:: arcanist 3, bard 2, mesmerist 2, skald 2, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S, M (a rose petal)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: two living creatures  
@@ -21,7 +23,7 @@ alias: Matchmaker
 **saving-throw**:: Will partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You entice the target creatures to become romantically interested in one another. Each creature saves and applies spell resistance separately. Both must be affected for the spell to have an effect. If either creatures has a prior unfriendly or hostile attitude toward the other, it receives a +4 bonus on its saving throw.  
   

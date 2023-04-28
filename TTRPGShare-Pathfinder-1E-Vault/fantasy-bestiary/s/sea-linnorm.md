@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 90
 desc_short: This unfathomably large serpent sports a distinctly draconic face. Its body is deep, blackened gray with swatches of crimson. An entrancing set of lures dangles off its face, each glowing with a pulsating orange light accented by regular electrical discharges.
 ```
-# Description
+## Description
 Few, if any, linnorm breeds are more reclusive than the sea linnorm. These immense specimens of primeval draconic lineage dwell in the deepest underwater trenches of the world, blending into their surroundings thanks to their darkened scales. A sea linnorm’s distinctive facial lures attract all manner of sea life, which the linnorm promptly feasts upon before returning to its lair. Luckily for all nonaquatic civilizations, sea linnorms rarely leave the ocean depths they call home.
 
  A typical sea linnorm grows up to 55 feet long and weighs around 14,000 pounds. It is believed that sea linnorms are effectively immortal, with the oldest recorded sea linnorms surviving well over 5,000 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Linnorm)
 ```encounter-table
 name: Sea Linnorm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cavalry Soldier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
   - name: NPC Codex
     desc: 270
 ```
-# Description
+## Description
 A cavalry soldier mixes the elven devotion to the natural world with a human’s skill at armored combat. She devotes herself to a career in the military, the elven blood in her veins giving her the time and patience needed to reach the highest pay grade for a non-officer. She is content to remain at her current rank until she dies or retires, for she took this job because of her love of horses and battle. She respects discipline, and if she weren’t in the army, she probably would form her own mercenary company just so she could train others in horsemanship, battle tactics, and skill-at-arms.
 
 The soldier is blunt and direct but not intentionally rude. She understands and respects that each horse responds differently to verbal and nonverbal cues, and knows that people are the same way, but is easily annoyed by how humans say one thing and do another. She prefers interactions where she can give or take orders with no question as to what is expected of her and her fellows. Flowery words and flattery are tiresome to her, and her closest friends are those who speak to her openly and honestly, as she would to them. She enjoys the company of druids and rangers, appreciating their respect for animals and feeling only slight envy because of her inability to control the magic they wield.
@@ -56,7 +58,7 @@ The soldier is blunt and direct but not intentionally rude. She understands and 
 The soldier has a keen eye for fine horses, and in times of peace she breeds and raises them, either on her own or for the army. She has retired many cavalry horses in her lifetime, finding ranches where they can be put to stud, tasked with light work, or used to train novice riders. She is disgusted by the idea of butchering horses for meat, would rather starve than eat a horse, and won’t permit any in her company to do so. When a warhorse dies, she buries its heart and head with honor and burns the rest, unwilling to let a noble companion be eaten by scavengers. Seeing someone mistreat a horse drives her into a frenzy, and she has been known to tackle and beat a peasant or merchant she spots whipping a horse to get it to work. (She is wise enough to not do this to an officer or noble, but if by some inaction on her part that person dies in combat, so much the better.) She especially dislikes goblins for their cruelty toward horses, and enjoys skewering them on her lance, leaving the corpses on her lance for follow-up attacks to better intimidate their allies.
 
 This stat block can also be used for an expert military archer, a non-noble general, or a road-weary veteran who has gone to war against hordes of orcs, goblins, or ogres.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cavalry%20Soldier)
 ```encounter-table
 name: NPC Cavalry Soldier

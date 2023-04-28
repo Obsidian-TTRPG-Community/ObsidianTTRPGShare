@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gurgist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 86
 desc_short: This woman’s clothing is a jumbled quilt of fine fabrics and elegant stitching, topped with a magnificent mask of painted wood and feathers. Bruises and sores cover her skin.
 ```
-# Description
+## Description
 A gurgist mortic is a keen mind trapped within a rotting, hungering body. Gurgists can feel the decay of their flesh, just as they can feel the urgings of their gullet to rend and consume meat until they bloat with it. But unlike zombies and other carnivorous undead, mortics still have their wits about them and use their minds to find solutions to their nature. They hunt and herd to keep the rot at bay, they obsess over crafts or skills to distract from the hunger, and they wear extravagant masks and colorful garments to hide their hideousness.
 
  Gurgists are the same size as humans, averaging 5-1/2 to 6 feet tall, and weighing about 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gurgist)
 ```encounter-table
 name: Gurgist

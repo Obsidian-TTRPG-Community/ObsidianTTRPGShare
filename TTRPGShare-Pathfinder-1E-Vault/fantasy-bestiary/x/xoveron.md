@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xoveron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,11 +78,11 @@ sources:
     desc: 84
 desc_short: This hulking, four-armed, four-headed, sting-tailed gargoyle stands as tall as a house.
 ```
-# Description
+## Description
 Xoveron, the Horned Prince, is the demon lord of gargoyles, gluttony, and ruins. It is said that he can look out through the eyes of all stone gargoyles perched on roofs throughout the world, watching and waiting for cities to fall, that he might visit and feed on those left behind. Xoveron himself towers at a height of 25 feet, with a wingspan of just over 50 feet. When the Horned Prince moves, the sound of stone grinding on stone can be heard, as if the demon lord himself were composed not of flesh but of some unholy stone come to demonic life.
 
 Xoveron is often accompanied by numerous vrolikai and ulkreth demons (see page 82). Gargoyles of tremendous size often serve at the Horned Prince’s whim, as do monsters with a reputation for hunger and gluttony, such as purple worms or man-eating animals. His realm on the Abyss is an immense, ruined city called Ghahazi, said to have been constructed over the eons by the Horned Prince, who plucked decaying districts and crumbling structures from dead cities across countless worlds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xoveron)
 ```encounter-table
 name: Xoveron

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ember Weaver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 25
 desc_short: This slim, glowing figure is draped with voluminous gossamer shawls and veils that obscure its shape.
 ```
-# Description
+## Description
 Ember weavers are beacons for dead souls seeking the afterlife, and escorts for other psychopomps. Most ember weavers patrol graveyards, ley lines, and other places where the dead enter into the river of souls, beckoning them to step toward eternity. Ember weavers also perform services in payment for knowledge about lost souls.
 
  Ember weavers lead ahmuuths and esoboks in hunts for spirits waylaid by undeath. They also accompany nosois and catrinas to recover confused or rebellious spirits.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ember%20Weaver)
 ```encounter-table
 name: Ember Weaver

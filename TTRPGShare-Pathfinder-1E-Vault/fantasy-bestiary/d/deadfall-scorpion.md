@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deadfall Scorpion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 237
 desc_short: Thick sheets of moss and other forest debris cling to the dark green carapace of this huge scorpion.
 ```
-# Description
+## Description
 The enormous deadfall scorpion is disturbingly stealthy for a creature of its size. So named for the creatures’ habit of making their lairs amid the hollows created by deadfalls of old trees, deadfall scorpions adorn their already camouflaged carapaces with moss and old branches, then lie in wait to ambush prey when it draws near. They prefer to drag their prey back to their hidden deadfall lairs to eat, and thus incidental treasure can often be found within such a den. A deadfall scorpion is 24 feet long and weighs 10,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deadfall%20Scorpion)
 ```encounter-table
 name: Deadfall Scorpion

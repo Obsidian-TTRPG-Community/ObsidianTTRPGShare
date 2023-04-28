@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 86
 desc_short: A stirring in the air and rustle through the room reveals a presence-a subtle aura both cautious and curious.
 ```
-# Description
+## Description
 Sometimes referred to as “watchsouls,” lares are subtle, benevolent spirits that prefer to spend their existence on the Material Plane minding the homes and fortunes of deserving mortals. Kind but aloof, lares watch over their mortal wards and help only when they are most needed. Yet where their homes are intruded upon or their charges imperiled, they prove frighteningly effective guardians, turning everything in their tiny dominions into living weapons.
 
 Lares are innately invisible, making the nature of their existence something of a mystery. Originating from the Upper Planes, these spirits have no true bodies and appear only as vague spectral eddies to those capable of seeing invisible beings. Yet while their forms prove vague, their blessings are undeniable.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lar)
 ```encounter-table
 name: Lar

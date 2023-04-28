@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rorkoun
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 86
 desc_short: A large amber eye tops a swollen head, surrounded evenly by four mouths loaded with needle-sharp teeth. This enormously long, yet slender creature stretches the length of five men and appears to be composed of twisted strands of pallid flesh and veiny musculature. The tentacle-like thing moves with the awkward, alien speed of a hunting insect, unnaturally still one moment and darting forth with incredible speed the next.
 ```
-# Description
+## Description
 Little-known denizens of the Darklands, rorkouns prey upon the unwary from lairs amid the deepest pools and waterways. Known as “wretch worms” and “eyes of Orv,” these disgusting abominations writhe through flooded pits and crevices, feeding upon nearly all they encounter and occasionally breaking forth from the depths into the world of light to glut themselves upon the plump, tender creatures found there.
 
 Rorkouns measure over 25 feet in length, and beneath the strange secretions that provide them with a false, apparent bulk, the creatures possess a ribbon-thin body only a foot wide. A typical rorkoun weighs a mere 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rorkoun)
 ```encounter-table
 name: Rorkoun

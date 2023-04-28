@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Asurendra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 23
 desc_short: This four-armed humanoid horror is garbed in golden armor and surrounded by a nimbus of floating, glowing weaponry.
 ```
-# Description
+## Description
 With the notable exception of the unique asura ranas, asurendras are the mightiest of their kind. Although few asurendras possess anything resembling an extended realm, in Hell or elsewhere, these asuras are the “wise ones” of asura kind. Most dwell within shrinelike fortresses in which they can practice their ruinous mysticism and command lesser asuras who seek their teachings. To most asuras, an asurendra’s order is something akin to a deific edict.
 
 Each asurendra is a humanoid creature of immense proportions. Their exact appearance varies just as the appearances of humanoids vary, but all asurendras have six arms and multiple eyes and heads. An asurendra’s body is an example of physical perfection, athletically and gracefully built, but its face has monstrous or inhuman features, such as tusks or bizarrely placed features. Most asurendras are 19 feet tall and weigh 8,000 pounds.
@@ -80,7 +82,7 @@ Each asurendra is a humanoid creature of immense proportions. Their exact appear
 Few asurendras were born to their might-they achieve their power only over the course of countless lifetimes spent as lesser asuras. Throughout each incarnation, these tenacious asuras sought unity with some concept of destruction. Eventually, through dark meditation and vile action, the asuras ascended to a state of being united with some aspect of unmaking. They also gained power over their own being and slowly reshaped themselves into a vision of their perfect selves, instruments of annihilation ideally suited to fell gods and their divine works.
 
 In battle, an asurendra does its best to destroy all enemies, taking a moment to ensure death when any foe falls. Asurendras enjoy eating the bodies of fallen foes, and some can even use the flesh and bone of those they consume to create new asuras to serve them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Asurendra)
 ```encounter-table
 name: Asurendra

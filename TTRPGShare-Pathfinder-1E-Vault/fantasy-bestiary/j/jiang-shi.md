@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jiang-Shi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 278
 desc_short: Its flesh pallid and a parchment burial prayer hanging from its brow, this risen corpse lurches forward in a series of short hops.
 ```
-# Description
+## Description
 Jiang-shis (often known as “hopping vampires”) are undead humanoid creatures that feed on the exhaled life energy of the living. A jiang-shi’s appearance is based on the state of the creature’s corpse at the time of its reanimation. Regardless of the state of decay, most jiang-shis wear clothing or armor that is at least one generation out of style. Additionally, each has a short parchment prayer scroll affixed to its brow by stitches; originally intended to protect the body from restless spirits, this scroll grants a jiang-shi immunity to magical effects unleashed by items like scrolls and wands.
 
 A jiang-shi is created when a restless spirit does not leave its corpse at the time of death, and is instead allowed to fester and putrefy within. At some point during the body’s decomposition, the thing rises in its grotesque form and seeks living creatures to feed upon.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jiang-Shi)
 ```encounter-table
 name: Jiang-Shi

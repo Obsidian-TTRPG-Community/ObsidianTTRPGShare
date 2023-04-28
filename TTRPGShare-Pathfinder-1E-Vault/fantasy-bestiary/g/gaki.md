@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gaki
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 118
 desc_short: This skeletal creature with a long, thin neck seems to float above the ground. Its jaw is elongated, showing sharp, worn teeth.
 ```
-# Description
+## Description
 When an especially jealous or greedy evil person dies, it sometimes returns as a gaki-a misshapen creature with a supernatural hunger for things of the material world. Mistakenly called “hungry ghosts” because of their ability to fly and turn invisible, gakis believe that if they consume the right material-typically meat, wine, blood, flowers, and souls-they can form a new body resembling their former mortal shapes. Its long, thin neck restricts how much it can eat, and the creature is perpetually starving. It prefers to consume evil creatures, believing it gains more sustenance from a sinful being than a righteous one, but it won’t pass up any mortal flesh. Some gakis believe they must consume flesh from demons or undead, and fixate on these creatures to the aversion of all others.
 
 Gakis are cursed, pitiable creatures with nothing to lose, which makes them very dangerous. Some that have existed for many years as undead grow desperate and try consuming earth, sewage, or more vile substances in an attempt to find the missing ingredient for their transformation. Particularly unfortunate ones bear an onerous curse that causes anything they try to eat to burst into flame or wither away into dust.
@@ -67,7 +69,7 @@ Gakis are cursed, pitiable creatures with nothing to lose, which makes them very
 These creatures have short memories and little sense of perspective. They’re smart enough to pursue what they want cannily, but fail at making long-term plans. Most gakis wander alone, pursuing their search for nourishment in solitude. When they do form packs, they use their numbers to surround and bring down large animals or groups of people, but then throw cooperation aside to squabble and shove as each one greedily tries to claim the entire prize they’ve taken.
 
 Strangely, gakis are scorched by moonlight and frozen by sunlight. Because of this, they’re forced to lurk in the shadows of ruins. Some wander the deep caves and tunnels below the surface, scrounging whatever meals they can find. In urban areas, they group together to stalk the slums, often leaping upon victims, tearing away small morsels of flesh before they retreat, leaving victims bleeding and disoriented. They find hiding places- often in abandoned buildings or sewers- to stay during the day, turning invisible and biding their time till the dark of night comes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gaki)
 ```encounter-table
 name: Gaki

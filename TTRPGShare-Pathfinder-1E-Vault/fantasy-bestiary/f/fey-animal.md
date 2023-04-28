@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fey Animal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 58
 desc_short: This wolverine’s eyes possess the unmistakable glint of intelligence, and its mouth seems to twitch as if it were about to laugh.
 ```
-# Description
+## Description
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fey%20Animal)
 ```encounter-table
 name: Fey Animal

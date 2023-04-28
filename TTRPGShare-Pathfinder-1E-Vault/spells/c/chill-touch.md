@@ -1,19 +1,21 @@
 ---
-alias: Chill Touch
+aliases: [Chill Touch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Chill Touch 
+## Chill Touch
 
 **source**:: PRPG Core Rulebook pg. 255  
 **school**:: necromancy
 **level**:: arcanist 1, bloodrager 1, magus 1, shaman 1, sorcerer 1, spiritualist 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature or creatures touched (up to one/level)  
@@ -21,7 +23,7 @@ alias: Chill Touch
 **saving-throw**:: Fortitude partial or Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level.  
   

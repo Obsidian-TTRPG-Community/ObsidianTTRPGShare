@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Raven
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 82
 desc_short: This glossy, jet-black bird stands as tall as a dwarf. Its eerily intelligent black eyes are quick to take in everything around it.
 ```
-# Description
+## Description
 Some ravens can reach astonishing sizes, making them a threat to foxes, raccoons, and on occasion even larger animals. Like their smaller cousins, giant ravens are omnivorous, able to subsist on nearly anything, though they favor large insects, small mammals, and other birds. They are also consummate scavengers, often feeding on the remains of creatures left behind by larger predators. These large corvids share the keen and vengeful intellect of smaller ravens. 
 
 Giant ravens grow to be nearly 5 feet in height and weigh 45 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Raven)
 ```encounter-table
 name: Giant Raven

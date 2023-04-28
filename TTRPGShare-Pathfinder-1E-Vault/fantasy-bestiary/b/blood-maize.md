@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Maize
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 84
 desc_short: Razor-sharp leaves dripping in blood span the length of this cornstalk, while a snakelike root digs into the soft ground.
 ```
-# Description
+## Description
 Named not for their physical coloration but for their thirst for spilled blood, the plants known as blood maize plants are insidious creatures. They look like common cornstalks, except their leaves are larger and more knifelike and their root systems are much more robust and mobile. In each specimen, the latter includes at least one long vine-like tendril that the plant can use to root itself deeply in the earth as it attacks its victim. Despite its fearsome nature, blood maize produces ears of sweet corn larger than those of traditional corn plants. A full-grown blood maize stalk is typically 7 feet tall and, including its root system, weighs about 70 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Maize)
 ```encounter-table
 name: Blood Maize

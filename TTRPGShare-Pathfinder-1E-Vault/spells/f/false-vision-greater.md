@@ -1,19 +1,21 @@
 ---
-alias: False Vision, Greater
+aliases: [False Vision, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# False Vision, Greater 
+## False Vision, Greater
 
 **source**:: Ultimate Intrigue pg. 214  
 **school**:: illusion (glamer)
 **level**:: arcanist 7, bard 6, mesmerist 6, psychic 7, skald 6, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a jade sphere worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: False Vision, Greater
 **saving-throw**:: Will negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This functions similarly to *false vision*, but instead of placing the illusion on a nearby area, you can tie it to a specific individual, and can do so from great distances. The spell can be cast at any distance. The difficulty of the save depends on your knowledge of the subject and what sort of physical connection (if any) you have to that creature. The target gains the same bonuses and penalties on its Will save to resist this spell as the bonuses and penalties that apply to the *scrying* spell (including a +5 bonus if the target is on another plane).  
   

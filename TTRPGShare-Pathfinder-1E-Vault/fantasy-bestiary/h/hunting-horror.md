@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hunting Horror
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,11 +85,11 @@ sources:
     desc: 88
 desc_short: This vast draconic serpent has a pair of leathery wings that don’t appear to be strong enough to allow the creature to fly.
 ```
-# Description
+## Description
 Servitors of the Crawling Chaos Nyarlathotep, the serpentine hunting horrors excel at tracking and seeking prey, talents that often see them called on by cultists or spellcasters to hunt down enemies. They speak in great and powerful voices, when they deign to speak at all.
 
 A typical hunting horror is 60 feet long but weighs only 2 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hunting%20Horror)
 ```encounter-table
 name: Hunting Horror

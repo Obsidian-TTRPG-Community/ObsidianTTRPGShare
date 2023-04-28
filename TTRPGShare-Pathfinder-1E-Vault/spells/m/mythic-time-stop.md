@@ -1,25 +1,27 @@
 ---
-alias: Mythic Time Stop
+aliases: [Mythic Time Stop]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Time Stop
+## Mythic Time Stop
 
 **source**:: Mythic Adventures pg. 110  
 **school**:: transmutation
 **level**:: arcanist 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1d4+1 rounds (apparent time); see text
 
-### Description 
+### Description
 
 This spell seems to make time cease to flow for everyone but you. In fact, you speed up so greatly that all other creatures seem frozen, though they are actually still moving at their normal speeds. You are free to act for 1d4+1 rounds of apparent time. Normal and magical fire, cold, gas, and the like can still harm you. While the *time stop* is in effect, other creatures are invulnerable to your attacks and spells; you cannot target such creatures with any attack or spell. A spell that affects an area and has a duration longer than the remaining duration of the *time stop* have their normal effects on other creatures once the *time stop* ends. Most spellcasters use the additional time to improve their defenses, summon allies, or flee from combat.  
   

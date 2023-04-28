@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tangle Tender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 44
 desc_short: The cold eyes of this minotaur are without fear or emotion. An arsenal of devices rattle from its belt, not the least of which is its mechanical monstrosity of a crossbow.
 ```
-# Description
+## Description
 Weaker than many of their brutish kin, tangle tenders instead apply their racial cunning and understanding of complex systems to mechanical devices, constructing ingenious traps that whittle away those lost in the labyrinths with little or no direct danger to themselves. They build and reset traps, alter or conceal carefully whatever trails their victims attempt to leave, and strike from the shadows only once their victims are desperate, exhausted, and at each others’ throats. Their tactics aren’t motivated by cowardice; rather, these cruel creators love to inflict misery by outwitting their enemies rather than out-muscling them. Tangle tenders belong to the maze; they are intimately familiar with every twist and turn, and are keen to introduce interlopers to each in turn. Among minotaur tribes, tangle tenders hold a strange position, both necessary and loathed. They never shy away from bragging about their genius, and their kin recognize the value of a tangle tender’s devices for trapping prey. But minotaurs respect strength, courage, and aggression first and foremost, and these clever rogues excel at none of those qualities-most thus see these trapsmiths as socially stunted, needlessly sadistic (even by minotaur standards), and physically weak to the point of embarrassment. Few voice these opinions, however, as those who do frequently face tragic accidents deep within the maze.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tangle%20Tender)
 ```encounter-table
 name: Tangle Tender

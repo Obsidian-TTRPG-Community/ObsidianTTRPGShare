@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Necrophidius
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 196
 desc_short: The soft scrape of bone reveals the long, sinuous skeleton of a large snake, its head a humanoid skull with a snake’s jaws.
 ```
-# Description
+## Description
 Despite its sinister appearance, the snake-like necrophidius is not an undead creature. Rather, it is a magical construct built from the skeleton of a giant snake and then mounted with the skull of a humanoid creature. Fangs are cemented into the jaws of the skull, after which the entire creation can be brought to life by a series of obscure and expensive rituals-these rituals are traditionally well guarded by those who discover them.
 
 As a mindless construct that requires neither food nor sleep, a necrophidius makes an excellent guardian, and its innate stealth allows it to slip up on the unwary undetected. In certain areas, the necrophidius is commonly employed as an assassin, able to disable its quarries with its dance of death or paralyzing bite before disposing of them in a gruesome manner-as long as the assassination doesn’t require any particular intelligence to carry out. Particularly macabre creators might even construct the creature from the skull of a friend or loved one of the intended victim in order to magnify the horror of the assassination, leaving much of the flesh on the skull so the victim can recognize its source. This flesh rots eventually-only freshly crafted necrophidiuses have this grisly feature (although regular applications of gentle repose spells can keep such a morbid decoration fresh for a much longer period of time).
@@ -56,7 +58,7 @@ As a mindless construct that requires neither food nor sleep, a necrophidius mak
 Although a necrophidius is mindless, it can follow the simple commands of its creator. These can include commands to lie dormant until some specific condition is met or to follow and kill an indicated target to the exclusion of all other activities.
 
 A typical necrophidius is 10 feet long and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Necrophidius)
 ```encounter-table
 name: Necrophidius

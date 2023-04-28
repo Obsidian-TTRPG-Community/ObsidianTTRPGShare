@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Commando
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
   - name: Monster Codex
     desc: 108
 ```
-# Description
+## Description
 A goblin commando is a cut above a typical goblin warrior-braver, cleverer, and more persuasive. He uses fear and threats to keep other goblins in line.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Commando)
 ```encounter-table
 name: Goblin Commando

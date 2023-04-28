@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lord Sun-Warrior
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 14
 desc_short: This brilliantly colored couatl radiates a palpable air of peace and wisdom.
 ```
-# Description
+## Description
 Best known as the ancient guardian of the Utala tribe in the Mwangi Expanse, Mola Jushujaa (whose name means “Lord Sun-Warrior”) has appeared in many different lands and guises. He is a couatl of great age, and his pronouncements are well respected among the feathered serpents. Because of his venerable status, Jushujaa has a number of powers that lesser couatls do not possess, including the ability to change his appearance, create terrifying fire and lighting storms in combat, and even grant wishes (though only ever in service to the greatest possible good). He often takes the guise of an extremely old or young human, inoffensive and peaceful, visiting powerful rulers, priests, and nobles to either offer guidance or dissuade them from the path of evil.
 
 Lord Sun-Warrior acts independently of any deity, though he maintains positive relations with all of the good-aligned ones. His agenda is complex, but involves fostering the development of peaceful cultures and nations throughout many different worlds, and the discouragement or outright destruction of evil ones. In this he frequently recruits adventurers and other agents, dispatching them on quests that may not immediately make sense, and providing them with guidance and assistance as he is able. He is aided in his efforts by his champion, Jua Mfuasi (LG male human paladin of Iomedae 10), who was once a necromancer known as the Corpse-King until he was killed and returned to life by Sun-Warrior, after which he renounced his evil ways and abandoned arcane magic to become a paladin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lord%20Sun-Warrior)
 ```encounter-table
 name: Lord Sun-Warrior

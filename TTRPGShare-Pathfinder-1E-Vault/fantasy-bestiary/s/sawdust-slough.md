@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sawdust Slough
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 59
 desc_short: A cloud of fine dust particles hangs in the air around this seething mass of sawdust and wood shavings.
 ```
-# Description
+## Description
 The vast forests of Andoran have long been prime timberlands, logged and exploited for centuries as crucial resources in Andoran’s efforts to establish itself as a great naval and shipbuilding power. Rather than seek to work in balance with the forests, many logging groups have clearcut vast sections of woodland, and such depredations have not been without consequence.
 
 As the blood of fey guardians is spilled and spirits of ancient plants and wild places are destroyed, the wild power sometimes weaves itself into the sawdust and shavings left behind by loggers, spawning mindlessly destructive masses of detritus called sawdust sloughs. These creatures are drawn to loud noises and vibrations, especially metallic sounds such as chopping and sawing. They savagely attack loggers and mills, engulfing and suffocating all creatures they encounter and grinding their flesh into bloody paste.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sawdust%20Slough)
 ```encounter-table
 name: Sawdust Slough

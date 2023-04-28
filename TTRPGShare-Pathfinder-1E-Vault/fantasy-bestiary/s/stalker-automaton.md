@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stalker Automaton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 30
 desc_short: This construct resembles a large cat. Its body coloring and the glowing core in the center of its head constantly shift in color.
 ```
-# Description
+## Description
 Stalker automatons house the minds of the greatest hunters of the Jistka Imperium, serving as the best scouts and assassins among the automatons. Unmatched at pursuing targets, they set out individually or in deadly groups to follow their quarry for days on end, using their construct forms to outlast even the hardiest of targets.
 
  The bodies of stalker automatons were designed to emulate the various large cats that stalked the Jistka Imperium, such as aurumvoraxes, kamadans, and mountain lions. These creatures served as a basis for the strength and design of the bodies, but members of the Artificer Conclave took it upon themselves to improve upon what they found lacking in nature. A stalker automaton is typically 5 feet long and weighs 300 pounds, but the oldest of their kind remember the construction of larger stalker frames, including those that resemble creatures such as bears and drakes.
@@ -89,7 +91,7 @@ Stalker automatons house the minds of the greatest hunters of the Jistka Imperiu
  The few stalker automatons that remain on Golarion seem intent on recovering as many remaining automaton cores as they can. The rarity of these artifacts makes for a hunt as worthy as any creature. These automatons tend to be more solitary in fear of other stalkers or master automatons seeking them out to claim their caches of cores. Stalker automatons also see themselves as the guardians of Jistkan ruins, attacking creatures that might stumble upon lost technology too powerful for the modern age or those few surviving creatures still housing remnants of the Night Plague.
 
  One pack that makes its presence well known is Those That Sought the Beast. The especially powerful stalker automatons in this pack appear to have garnered some spark of divine might in their travels. They now scour Golarion in hopes of slaying the Spawn of Rovagug and welcome other hunters to join their cause.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stalker%20Automaton)
 ```encounter-table
 name: Stalker Automaton

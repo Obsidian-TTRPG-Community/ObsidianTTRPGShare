@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troglodyte Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: Monster Codex
     desc: 214
 ```
-# Description
+## Description
 Arcane casters often become scouts, as their divine counterparts monopolize the positions of power within the tribe. Most troglodyte sorcerers have the Abyssal, Deep Earth (Pathfinder RPG Advanced Player’s Guide 137), Draconic, or Undead bloodline.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troglodyte%20Sorcerer)
 ```encounter-table
 name: Troglodyte Sorcerer

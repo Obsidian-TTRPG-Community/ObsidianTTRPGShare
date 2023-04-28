@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sound Warrior
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,9 +83,9 @@ sources:
   - name: NPC Codex
     desc: 229
 ```
-# Description
+## Description
 Using a mix of rousing oratory, song, and thunderous spells, a sound warrior is often heard before she’s seen.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sound%20Warrior)
 ```encounter-table
 name: NPC Sound Warrior

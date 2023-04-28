@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Duergar Slaver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 20
 ```
-# Description
+## Description
 Those who travel the benighted tunnels of the Darklands soon learn to fear the duergar. Cruel and heartless, these gray dwarves are followers of the dark dwarven god Droskar, who teaches that all are destined for an eternity of harsh toil. This outlook serves the duergar well, for in the Darklands slaves are among the most highly sought after commodities.
 
 Duergar slavers lurk along the roadways of Nar-Voth, especially those branching from or leading to the Long Walk, waiting to ambush unwary travelers. They rely on strength in numbers and their innate magical powers to capture their prey. A standard tactic is to use their invisibility to hide, then to grow to massive size before attacking. Duergar tend to focus on capturing individuals from races that are already adapted to life in the Darklands, particularly their dwarven kin, but they aren’t averse to making slaves of those who originated on the surface or of other Darklands denizens with valuable skills should an easy opportunity arise.
 
 Those who fall prey to the slavers’ traps are usually taken to the slave markets of the duergar capital city of Hagegraf, located beneath the Five Kings Mountains, where they are sold to the highest bidder. The slavers use the threat of sadistic torture to keep their prisoners in line, but they rarely injure their property permanently, and kill slaves even less often. After all, a lame slave is worth less gold at market than one with who has his full physical faculties. Mental scars, in contrast, may actually add value if they help ensure the slave’s compliance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Duergar%20Slaver)
 ```encounter-table
 name: NPC Duergar Slaver

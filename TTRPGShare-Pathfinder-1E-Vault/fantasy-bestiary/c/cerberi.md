@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cerberi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 84
 desc_short: Every strip of this three-headed hound’s hide has been peeled away, leaving wet sinew and bulging tendons exposed.
 ```
-# Description
+## Description
 The mythical watchdogs of Hell, cerberi bear the bodies of terrible, powerful hounds combined with the essences of fiends. Relied upon by villains and frightful beings as guardians and jailers, these three-headed canine abominations possess far greater cunning than their flensed, bestial appearances would suggest-a terrible intellect they pour largely into malice and enjoyment of their victims’ tormented ends.
 
 Cerberi draw upon a legendary pedigree, all reputedly tracing their lineage to a single primordial evil beast said to still guard the foundations of some forsaken, deathly realm. Brethren to hell hounds, cerberi loathe their distant kin, viciously attacking such hellspawn if not kept at heel by a tyrannical master.
@@ -61,7 +63,7 @@ In their natural infernal environments, cerberi might be found anywhere powerful
 Outside of the devil-tamed reaches of Hell and other foul extraplanar wildernesses, small groups of cerberi gather in harsh, packlike communities. Typically dominated by the strongest or wiliest member, such packs form swift and deadly throngs, stalking trespassers upon their vast hunting grounds and doggedly pursuing any scent of lost souls. Although cerberi gain no sustenance from attacking the dead, all gain a vicious satisfaction at the feeling of an immortal essence discorporating forever within their deadly jaws, as befits their infernal nature.
 
 A typical cerberi stands a broad 4 feet tall and weighs over 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cerberi)
 ```encounter-table
 name: Cerberi

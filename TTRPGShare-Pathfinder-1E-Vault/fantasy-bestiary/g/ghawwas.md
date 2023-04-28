@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghawwas
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 80
 desc_short: Bristling with spiny ridges, coral horns, and needle-sharp teeth, this menacing biped seems to have emerged from some poisoned sea.
 ```
-# Description
+## Description
 Full of poison and treachery, ghawwas foul the seas and seek to bring ruin to those who dwell there. Ghawwas resemble a mixture of hulking humanoid, prehistoric fish, and poisonous bottom-feeder. While most ghawwas live in salt water, they sometimes teleport to oases to defile them or suck them dry. Although they see all mortals as enemies, ghawwas bear a particular grudge against peaceable, water-breathing creatures such as merfolk and locathah.
 
 All ghawwas find the tolling of bells insufferable, the sound filling them with rage and driving them to seek out the source and destroy either the bell or those ringing it.
 
 The typical ghawwas stands 12 feet tall and weighs close to 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghawwas)
 ```encounter-table
 name: Ghawwas

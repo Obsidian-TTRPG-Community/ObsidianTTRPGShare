@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Great Horned Owl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 213
 desc_short: This gray-and-white feathered owl has fluffy wings and a bulky head that makes it look larger than most owls.
 ```
-# Description
+## Description
 Though great horned owls seem large, most of their apparent bulk comes from their particularly fluffy feathers and rather large heads. Great horned owls have wingspans of up to 5 feet and weigh up to 4 pounds.
 
 Great horned owls primarily hunt at night, locating prey through their excellent hearing. Their diet consists of rodents supplemented by smaller birds and rabbits.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Great%20Horned%20Owl)
 ```encounter-table
 name: Great Horned Owl

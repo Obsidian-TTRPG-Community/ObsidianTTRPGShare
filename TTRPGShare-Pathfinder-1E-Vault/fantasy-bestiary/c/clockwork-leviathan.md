@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Leviathan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 55
 desc_short: Long and metallic, this serpentine construction resembles a mechanical eel with several paddle-like limbs.
 ```
-# Description
+## Description
 Clockwork leviathans are equally capable of functioning on land and in water. Sailors who are haunted by the memories of these treacherous machines need not exaggerate their yarns, for the reality of an aquatic construct such as this holds enough terror in its story for even the hardiest of seafarers.
 
 A clockwork leviathan’s numerous metal plates and links are made of such resilient material that they never rust, even after long exposure to the briny sea waters that leviathans often patrol.
 
 Clockwork leviathans are 25 feet long and weigh just over 3 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Leviathan)
 ```encounter-table
 name: Clockwork Leviathan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kaltestrua, Governess of Casnoriva
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,11 +78,11 @@ sources:
     desc: 38
 desc_short: This serpent-bodied, six-armed woman is painfully thin, haggard, and gaunt. Bloody sores dot her flesh, and the skulladorned flails she wields drip black liquid.
 ```
-# Description
+## Description
 Kaltestrua has been the thrall of the Whispering Tyrant for well over a thousand years, a servitude that has had a singular effect upon her appearance. While she is not herself undead (yet), she appears as if she were a bloodstarved vampire, with sallow flesh clinging tightly to her frame and a skeletal pattern of stripes along her otherwise night-black serpentine lower torso. Kaltestrua was key in the Whispering Tyrant’s conquest of the college of Casnoriva, and while the lich has now been imprisoned deep under Gallowspire for nearly 9 centuries, rule of Casnoriva has remained in the marilith’s control. In an ironic twist, her greatest enemies in maintaining this control are themselves undead-the spectral and ghostly spirits of the academy’s previous professors and arcanists continue to fight against the demon and her servants for control of the site. Led by the ghostly wizard Mistress Qais, these undead have never managed to control a majority of Casnoriva, but neither has Kaltestrua ever been able to wholly defeat them. Today, the site remains a battleground, with the marilith eagerly awaiting the return of her master so that, with his support, she might finally seize full control of the academy.
 
 It requires a gate spell to conjure Kaltestrua, and even then the marilith is particularly ill-tempered at having been pulled away from her post in the academy. Every second she’s gone is another second the ghosts have a chance to regain ground or, in a worst-case scenario, to take control of the building. As a result, if a conjurer has a relatively short-term task (taking less than a day) for the marilith, she is more likely to agree to perform the service than most of her kind, if only so she can get started (and thus finish) the task quickly and return home. A spellcaster who thinks to keep her from returning home had best be prepared for her increasing fury, for even bound, Kaltestrua has other minions who will come to aid her if she is gone for too long. Kaltestrua prefers offerings of magical flails-ghost touch weapons are her favorite, but as long as the flails possess enhancement bonuses of at least +2, they’ll do. It’s a DC 31 check to research Kaltestrua.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kaltestrua%2C%20Governess%20of%20Casnoriva)
 ```encounter-table
 name: Kaltestrua, Governess of Casnoriva

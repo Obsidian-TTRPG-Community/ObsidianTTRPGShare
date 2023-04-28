@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fuath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 142
 desc_short: This waterlogged gremlin has lobster claws for hands and an almost canine face with webbed ears.
 ```
-# Description
+## Description
 Drowners of sailors and sinkers of ships, a fuath (FOO-ah) is a wicked gremlin found in the sea. It climbs aboard ships in the dead of night to sever ropes, bore holes in barrels, soil provisions, and murder any hapless crew it puts to sleep or catches alone. It delights in drowning creatures by surrounding them with magically thickened water, cackling with wicked glee as its victims claw desperately for the air only inches from their mouths.
 
 A fuath wears seaweed, shells, and coral like other creatures wear armor, clothes, and jewelry. Its body is protected by a hard, hunchbacked carapace. It stands less than 2 feet tall and weighs 12 to 15 pounds.
 
 Fuaths don’t share a common language with other types of gremlins, though they can pantomime to each other fairly effectively. They have a surprising rapport with other sea creatures, even foul-tempered beasts like reefclaws. Small groups of fuaths lair in sea caves or rocky crevices. Larger groups frequently lay claim to whole sections of ruined ships. Their lairs usually include several trained guard animals. Fuaths prefer the taste of “land-meat” to anything from the sea, and often raid shore and ships to slake their hunger. They adore sea hags to the point of worship.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fuath)
 ```encounter-table
 name: Fuath

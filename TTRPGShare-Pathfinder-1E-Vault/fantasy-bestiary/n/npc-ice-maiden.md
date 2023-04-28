@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Ice Maiden
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
   - name: NPC Codex
     desc: 215
 ```
-# Description
+## Description
 With the patience of elves and the majesty of dragons, ice maidens are masters of subtle machinations-and of the battlefield.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Ice%20Maiden)
 ```encounter-table
 name: NPC Ice Maiden

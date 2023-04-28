@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wyvern
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 282
 desc_short: A dark blue dragon, its wings immense and its tail tipped with a hooked stinger, lands on two taloned feet and roars a challenge.
 ```
-# Description
+## Description
 Wyverns are nasty, brutish, and violent reptilian beasts akin to more powerful dragons. They are always aggressive and impatient, and are quick to resort to force in order to accomplish their goals. For this reason, dragons generally look down upon wyverns, considering their distant cousins nothing more than primitive savages with a distinct lack of style or wit. In most cases, this generalization is spot-on. Although far from animalistic in intellect, and capable of speech, most wyverns simply can’t be bothered with the subtlety of diplomacy, and prefer to fight first and parley later, and even then only if faced with a foe they can neither defeat nor flee from.
 
 Wyverns are territorial creatures. Though they occasionally hunt in small groups for large prey, they are generally solitary creatures, hunting in areas ranging in size from 100 to 200 square miles. Wyverns have been known to fight to the death among themselves for the right to hunt a territory rich with prey.
@@ -56,7 +58,7 @@ Wyverns are territorial creatures. Though they occasionally hunt in small groups
 Although constantly hungry and prone to mayhem, a wyvern that can be befriended (usually through a delicate combination of flattery, intimidation, food, and treasure) becomes a powerful ally. They often serve giants and monstrous humanoids as guardians, and some lizardfolk and boggard tribes even use them as mounts, although such arrangements are quite costly in terms of food and gold, for few are the wyverns who would willingly serve as steeds for lesser creatures for long.
 
 A wyvern is about 16 feet in length, half of which is tail. The average wyvern weighs 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wyvern)
 ```encounter-table
 name: Wyvern

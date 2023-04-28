@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pathfinder Venture-Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 43
 ```
-# Description
+## Description
 Venture-captains in the Pathfinder Society are often former Pathfinder field agents who’ve chosen to retire from active exploration in order to facilitate younger and less experienced agents’ endeavors. They act as intermediaries between the rank-and-file Pathf inders and the mysterious, masked Decemvirate, who enigmatically guide the organization from the highest levels of the Society’s headquarters in Absalom.
 
 Most venture-captains are granted their own Pathfinder lodges from which they oversee various expeditions, outfit field agents, and gather information both from their direct reports and their superiors about possible Pathfinder delves in their respective geographical areas.
 
 Some venture-captains have no home lodge over which they preside, either because they operate out of a large lodge with multiple venture-captains (such as the Grand Lodge in Absalom) or travel from lodge to lodge following specific interests in which they specialize. While many Pathfinder field agents do not claim any ambition to give up the adventuring life for a position as a venture-captain, few turn down such an offer when presented, as promotions to the rank are rare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pathfinder%20Venture-Captain)
 ```encounter-table
 name: NPC Pathfinder Venture-Captain

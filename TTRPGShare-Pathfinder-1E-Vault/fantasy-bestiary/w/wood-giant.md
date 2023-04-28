@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wood Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 132
 desc_short: Standing tall and graceful, this sharp-eared giant’s skin is pale. Its large brow gives it a somewhat primitive visage.
 ```
-# Description
+## Description
 Wood giants are the wardens of the deepest, wildest portions of the world’s forests. Unlike many of their kin, wood giants are slow to anger, peaceful, and artistic, and display an infinite patience in their duty. A wood giant’s role is to preserve and protect the wilderness-a role they believe that nature itself granted them, the proof of which manifests in their magical abilities tied to the natural world.
 
 Wood giant culture is as complex as their forest homes. Much of a tribe’s time is spent tending to a forest’s health: planting new trees, clearing away dead brush, and hunting abominations that pervert the natural order. Individuals may even cultivate their forest homes into elaborate demesnes, mazes, or living temples. They are an isolated race, only rarely meeting to trade with other tribes or the occasional elven settlement. While primarily good-natured, wood giants are distrustful of outsiders and prone to great melancholies.
@@ -64,7 +66,7 @@ Wood giant culture is as complex as their forest homes. Much of a tribe’s time
 Small clans claim enormous tracts of wooded land, but rarely build permanent homes. Members may spread out over their entire region by day only to gather and bed down, exposed to the elements, after sundown. In harsh weather, tribes cluster close together in the densest thickets with their backs turned outward.
 
 Wood giants stand 14 feet tall and weigh 1,200 pounds. They are vegetarians by choice, resorting to eating meat only when no other option is available.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wood%20Giant)
 ```encounter-table
 name: Wood Giant

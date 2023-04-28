@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Azruverda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 29
 desc_short: A humanoid head peers forth from this enormous creature’s beautifully iridescent, spike-covered beetle carapace.
 ```
-# Description
+## Description
 Although repulsive in shape, these enormous, human-faced insectoid creatures are generally peaceful and serene. Left to its own devices, an azruverda is typically content to cultivate fungal gardens in deep underground sanctuaries. These gardens are beautiful to behold-masterful combinations of fungi, rocks, and other objects arranged in an artistic manner. Although generally solitary, azruverdas collaborate when a threat intrudes upon one of their underground homes.
 
 Azruverdas stand 16 feet tall on their many legs and weigh close to 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Azruverda)
 ```encounter-table
 name: Azruverda

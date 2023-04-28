@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ebon Acolytus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 82
 desc_short: A chilling statue strands behind a dark altar, both smeared with evidence of grisly sacrifices. The monstrous statue, sculpted as a perverse amalgam of both man and beast, raises a wickedly curved sacrificial dagger above its head, its bejeweled eyes seeming to glint with murderous zeal.
 ```
-# Description
+## Description
 Dedicated to dark gods, fiends hungry for the souls of innocents, and even more monstrous beings, ebon acolyti- sometimes called altar golems-are terrifying constructs, for they are not designed merely to kill, but to aid in the often bloody work required in the service of foul divinities. Carved from a single block of stone or other sturdy material, these constructs resemble towering statues, crafted to appear as servants of specific deities and often etched with icons sacred to their worship. In addition to its fearful body, an ebon acolytus is typically crafted with a companion altar, upon which it might aid its master or an unholy congregation in dark rites and ritual bloodletting.
 
 The exact height and weight of an ebon acolytus varies, largely depending on the shape of its body and the quality of the stone used in its creation, though most rise to around 14 feet tall and weigh around 2,500 pounds. Some carry Large sacrificial weapons other than daggers, but these prove rare and vary between faiths.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ebon%20Acolytus)
 ```encounter-table
 name: Ebon Acolytus

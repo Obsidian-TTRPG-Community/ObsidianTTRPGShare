@@ -1,19 +1,21 @@
 ---
-alias: Mark of Justice
+aliases: [Mark of Justice]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mark of Justice 
+## Mark of Justice
 
 **source**:: PRPG Core Rulebook pg. 312  
 **school**:: necromancy (curse)
 **level**:: cleric 5, inquisitor 5, oracle 5, paladin 4, warpriest 5, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mark of Justice
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You mark a subject and state some behavior on the part of the subject that will activate the mark. When activated, the mark curses the subject. Typically, you designate some sort of undesirable behavior that activates the mark, but you can pick any act you please. The effect of the mark is identical with the effect of *bestow curse*.  
   

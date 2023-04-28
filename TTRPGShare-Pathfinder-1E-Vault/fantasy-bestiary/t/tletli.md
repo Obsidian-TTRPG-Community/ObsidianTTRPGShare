@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tletli
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,11 +85,11 @@ sources:
     desc: 84
 desc_short: This massive flying serpent’s iridescent scales glimmer like opals, and white-hot flames dance along the feathers of its burning wings.
 ```
-# Description
+## Description
 Of all the couatls, tletlis are among the most vengeful and easily the most actively destructive, channeling their righteous fury to rid Golarion of large swaths of evildoers. While some couatls may offer redemption to evil individuals, a tletli withholds salvation and exacts punishment on whole sects of people whose crimes they deem warrant oblivion. Tletlis do not hunt down individuals, instead targeting gangs, corrupt governments, and even entire settlements that they believe have fallen beyond redemption.
 
  The tletli is a terrifying sight to behold. Its wings are continually shrouded in flame, ranging from warm orange at the base to hot blue at the tips, causing the air around the couatl to radiate with an ominous light best described as apocalyptic. Further magnifying the effect, the beast’s opalescent scales seem to reflect a divine light. A typical tletli is 35 long with a wingspan of 25 feet. It is one of the heaviest couatls, weighing nearly 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tletli)
 ```encounter-table
 name: Tletli

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Decapus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 77
 desc_short: This swollen cephalopod has ten writhing tentacles and a hideously monstrous face with pale, milky eyes on its bulbous body. 
 ```
-# Description
+## Description
 Named for its resemblance to a 10-armed octopus, the strange decapus is one of many bizarre creatures that hail from the deepest caverns of the world. When they are encountered aboveground, their affinity for forests (they particularly enjoy clambering around in tangled canopies) suggests that their original source might be some strange, deep underground cavern wherein magical jungles grow. 
 
 The decapus is a fairly intelligent creature-an ambush predator that makes excellent use of its ability to weave magical visual illusions and to imitate the voices of other creatures it has heard speaking. Typical decapuses know only the Aklo tongue, but when they use their sound mimicry ability to imitate creatures speaking in other languages, they can typically form short (up to three words long) sentences even when imitating a language they don’t actually know. 
@@ -64,7 +66,7 @@ The decapus’s physical structure most resembles that of a bloated octopus with
 The decapus favors humanoid flesh over all other food; most are quite fond of gnome flesh in particular. This creature has an enormous appetite that often drives it to consume whatever food is available-the decapus is not above cannibalism when other food sources are scarce. For this reason, these monsters are largely solitary creatures, except when the urge to mate overwhelms their urge to feed. Females give birth to small litters of 2-4 live offspring. The females often need to defend them from the males, which, if left unsupervised, typically eat the newborn decapuses. The young mature rapidly, growing to full size after a mere 7 to 11 months, after which they depart to claim their own territories. Once a decapus reaches maturity, it can live to 100 years old-although their violent natures usually result in much shorter lifespans. 
 
 A typical decapus has a legspan of 8 feet and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Decapus)
 ```encounter-table
 name: Decapus

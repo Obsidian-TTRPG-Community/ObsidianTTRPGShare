@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mobogo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 88
 desc_short: This grotesque creature looks like a gigantic toad with leathery wings, fangs, horns, and three bulbous eyes.
 ```
-# Description
+## Description
 Huge and hungry, mobogos merge the features of gigantic toads and swampy dragons, and lair in the deepest, oldest swamps. Here, whole tribes of boggards serve the beasts’ fickle, capricious whims.
 
 Mobogos reside in the most primal swamps of the world, grotesque eldritch wildernesses unchanged for centuries. Boggards believe that in ancient times, after their fecund demon goddess deposited her frogspawn in the muddy morass of the world’s still-forming continents, mobogos were among the first creatures to emerge. Ever since, the mobogos have slept and fed, preying upon the beasts of their fetid meres, growing huge and lethargic, and dreaming inscrutable amphibious dreams of their godly mother’s return. Nearly all mobogos are attended by tribes of boggards. Mobogos care little for matters of origins and philosophies-they care only for the endless sacrifices of food, victims, and pleasing swamp art brought to them by their obedient tribes.
 
 A mobogo is 18 feet tall and weighs 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mobogo)
 ```encounter-table
 name: Mobogo

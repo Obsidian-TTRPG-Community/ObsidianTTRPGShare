@@ -1,19 +1,21 @@
 ---
-alias: Drench
+aliases: [Drench]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Drench 
+## Drench
 
 **source**:: Paizo Blog - Ultimate Cantrips pg. 0  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 0, sorcerer 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature or object of size Large or smaller  
@@ -21,7 +23,7 @@ alias: Drench
 **saving-throw**:: Reflex negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 A sudden downpour soaks the target creature or object. The rain follows the subject up to the range of the spell, soaking the target with water. If the target is on fire, the flames are automatically extinguished. Fires smaller than campfires (such as lanterns and torches) are automatically extinguished by this spell.  
   

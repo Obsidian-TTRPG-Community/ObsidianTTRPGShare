@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Impundulu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 80
 desc_short: A dark shadow moves rapidly across the ground. In the skies high above, silhouetted by the sun, a monstrous, black-feathered avian creature circles. Slowly, a supernatural wind begins to swirl about the creature, and crackling sparks erupt from its body. Screeching wildly, it descends as if falling from the sky, its blood-f lecked wings tipped with cruel curved hooks, and its protruding lower beak scalloped with vicious, jagged barbs.
 ```
-# Description
+## Description
 The tribesfolk of southern Garund tell tales of a ruthless winged shapeshifter, a bloodthirsty demon and hunter of men. They call this being impundulu, a name that loosely translates to “lightning-bird” after its savage avian form. Legend describes this creature as a huge, stork-like bird that rides upon fierce storms and whose dark feathers crackle with lightning. It is believed that an evil shaman summoned the first impundulu and that using an ancient, taboo ritual, the two formed a blood pact. The shaman offered the impundulu the ability to wear his mortal f lesh in exchange for mastery over the demon’s significant occult powers. As soon as the impundulu seized control of the shaman’s body, it broke the pact- however, the ancient ritual bound the fiend to the mortal form, and even after the shaman perished, it could not shed its f lesh. Thus despite its own immortality, the impundulu became forever tied to the realm of mortals. For this reason, it is said, the creature continues to forge pacts with mortal spellcasters in the hope that one day it will unbind the secrets of its cursed existence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Impundulu)
 ```encounter-table
 name: Impundulu

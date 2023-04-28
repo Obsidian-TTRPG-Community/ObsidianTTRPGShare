@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Malziarax, Rune Giant Overlord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 44
 desc_short: This enormous, ebon-skinned giant is covered in glowing red runes and exotic plate armor.
 ```
-# Description
+## Description
 Malziarax hails from a rune giant clan that dwells deep in the northeastern reaches of the Wall of Heaven mountains. The clan had relocated there in the past millennium in search of new lands and creatures to conquer, their original stomping grounds in northern Avistan having grown stale to the ancient tribe. In the past thousand years, the rune giants of Malziarax’s people have managed to dominate many of the giants in this relatively new region- including the frost giants of the Tian side of the Crown of the World and several of the mysterious wood giants of the Forest of Spirits. In recent years, however, Malziarax found the icy and often barren realms of the Wall of Heaven not to her liking, and so she set out to reclaim the empires of her ancestors, leading a band of loyal followers back across the Crown of the World to northern Irrisen.
 
 Once there, Malziarax and her new clan trekked across the icy wilderness to the Kodar Mountains, in search of clues that might help them unearth ruins of ancient Thassilon, which would inevitably lead them to even greater powers. Though her ancestors gave up on the wild frontier of Varisia and its surrounding lands, Malziarax claims to see the land for its true potential, and knows that somewhere in these vast mountains lie great stores of treasure for the taking and giants for the enslaving.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Malziarax%2C%20Rune%20Giant%20Overlord)
 ```encounter-table
 name: Malziarax, Rune Giant Overlord

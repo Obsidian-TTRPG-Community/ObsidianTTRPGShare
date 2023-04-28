@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Svirfneblin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 261
 desc_short: This bald gnome has rocky gray skin and a wiry physique. Its pale eyes are overly large and expressive.
 ```
-# Description
+## Description
 Svirfneblin, or “deep gnomes,” are a reclusive offshoot of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. They have skin the color of gray or brown stone. Males are bald, and females have stringy gray hair. A svirfneblin’s ties to the eerie realm of the fey are much stronger than those of their surface-dwelling gnome kin, and this makes them either strangely detached from their emotions or violently random in their outbursts. Svirfneblin have long fought wars against the duergar, and have a difficult time seeing the difference between duergar and other dwarves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Svirfneblin)
 ```encounter-table
 name: Svirfneblin

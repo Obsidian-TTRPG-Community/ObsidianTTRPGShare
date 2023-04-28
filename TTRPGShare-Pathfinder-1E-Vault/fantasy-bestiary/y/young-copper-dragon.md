@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Copper Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 106
 desc_short: Bright, shining copper scales run from the horn-crowned head to the ridged tail of this long-winged dragon.
 ```
-# Description
+## Description
 This whimsical dragon spends most of its time in combat trying to annoy and frustrate its enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Copper%20Dragon)
 ```encounter-table
 name: Young Copper Dragon

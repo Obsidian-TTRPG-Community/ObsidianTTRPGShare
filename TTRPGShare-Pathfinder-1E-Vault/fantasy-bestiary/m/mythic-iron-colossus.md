@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Iron Colossus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 36
 desc_short: A siege engineer’s nightmare, this giant machine emits noxious fumes from its grinding engine.
 ```
-# Description
+## Description
 Standing 80 feet high and weighing 500 tons, iron colossi are the ultimate weapons of war.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Iron%20Colossus)
 ```encounter-table
 name: Mythic Iron Colossus

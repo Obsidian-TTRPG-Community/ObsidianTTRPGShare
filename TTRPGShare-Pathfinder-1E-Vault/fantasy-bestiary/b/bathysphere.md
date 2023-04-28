@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bathysphere
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 58
 desc_short: This miniscule red jellyfish has long, writhing red tentacles and a translucent bell that glows with an eerie blue light.
 ```
-# Description
+## Description
 Bathysphere jellyfish have the unique ability to create pockets of musty but breathable air in even the deepest ocean regions. These jellyfish can be dangerous to individuals who fall unconscious while using these creatures to breathe underwater. The jellyfish instinctively strive to protect their hosts, but horror stories of travelers trapped by the creatures can make an adventurer think twice before allowing the vermin on his head. A bathysphere jellyfish is 1 foot long and weighs 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bathysphere)
 ```encounter-table
 name: Bathysphere

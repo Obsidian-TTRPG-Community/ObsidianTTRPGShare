@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tengu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 263
 desc_short: Black feathers cover this crow-headed humanoid, and its hands and legs end in powerful talons.
 ```
-# Description
+## Description
 Tengus are a race of avian humanoids that resemble crows or ravens, and often bear much of the same stigma. Though they frequently choose to live among other races in densely populated cities, their society is tight and closed, and they rarely allow others to see its inner workings. Tengus often band together in small groups to create roosts in vacant warehouses or condemned buildings, and these raucous gathering places are generally assumed to be thieves’ guilds by outsiders-an assumption that’s correct roughly half the time.
 
 Like the crows they share physical traits with, tengus are naturally covetous, especially of shiny or colorful items, and prone to bouts of good-natured kleptomania if they don’t carefully keep themselves in check. Vain and prideful creatures, they are easily persuaded with flattery.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tengu)
 ```encounter-table
 name: Tengu

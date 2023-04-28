@@ -1,19 +1,21 @@
 ---
-alias: Unseen Crew
+aliases: [Unseen Crew]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Unseen Crew 
+## Unseen Crew
 
 **source**:: Pirates of the Inner Sea pg. 29  
 **school**:: conjuration (creation)
 **level**:: arcanist 5, bard 4, skald 4, sorcerer 5, summoner 5, summoner (unchained) 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: one invisible sailor per level  
@@ -21,7 +23,7 @@ alias: Unseen Crew
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 An unseen crew member is an invisible, shapeless force that performs the duties of one crew member. It can tie off ropes, hoist sails, swab decks, and other such duties. An unseen crew member possesses no other skills. It cannot fight, speak, or even defend itself.  
   

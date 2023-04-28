@@ -1,19 +1,21 @@
 ---
-alias: Mythic Mage Armor
+aliases: [Mythic Mage Armor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Mage Armor
+## Mythic Mage Armor
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: conjuration (creation) (force)
 **level**:: arcanist 1, bloodrager 1, occultist 1, psychic 1, sorcerer 1, spiritualist 1, summoner 1, summoner (unchained) 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a piece of cured leather)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Mage Armor
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 An invisible but tangible field of force surrounds the subject of a *mage armor* spell, providing a +4 armor bonus to AC.  
   

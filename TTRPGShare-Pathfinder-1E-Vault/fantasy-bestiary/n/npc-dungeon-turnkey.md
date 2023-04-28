@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dungeon (Turnkey)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,7 +42,7 @@ sources:
   - name: GameMastery Guide
     desc: 271
 ```
-# Description
+## Description
 Turnkeys are jailers and wardens, walking through prison halls and keeping the inmates in line with public beatings. Though dim-witted, most turnkeys are experienced enough to see through attempts to deceive them unless the talker is quite clever.
 
 Turnkeys can also be used as armed porters, gate guards, or well-armored warehouse guards. In non-good cities, turnkeys might be used as thuggish city guards or brute squads.
@@ -48,7 +50,7 @@ Turnkeys can also be used as armed porters, gate guards, or well-armored warehou
 Changing a turnkey’s feats creates a variety of different NPCs. A turnkey with Skill Focus (Sense Motive) instead of Improved Bull Rush is an even more canny judge of character, while Skill Focus (Intimidate) creates an even scarier jailer. Replacing Improved Bull Rush with Improved Overrun or Improved Sunder gives turnkeys alternate combat maneuvers to use. The Blind-Fight feat allows turnkeys to operate more effectively in dark dungeons, and Combat Reflexes combined with Stand Still makes turnkeys almost impossible for escaped prisoners to slip by.
 
 A turnkey will usually have a pair of guards to assist in his patrols (CR 5), or four guards in particularly dangerous prisons (CR 6). Four turnkeys might be found together in a well-staffed guardroom (CR 7). A slaver might be accompanied by two turnkey guards (CR 6), and a torturer often has two turnkeys as guards for her charges (CR 7).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dungeon%20(Turnkey))
 ```encounter-table
 name: NPC Dungeon (Turnkey)

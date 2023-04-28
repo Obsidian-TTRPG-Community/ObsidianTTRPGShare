@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stegosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
     desc: 85
 desc_short: This huge dinosaur has a small head, twin rows of sharp dorsal plates, and a muscular tail terminating in a set of bony spikes.
 ```
-# Description
+## Description
 The stegosaurus is one of the most distinctive-looking dinosaurs-its twin rows of dorsal plates and spiked tail are enough to give most predators second thoughts before attacking. It is 30 feet long, 14 feet tall, and weighs 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stegosaurus)
 ```encounter-table
 name: Stegosaurus

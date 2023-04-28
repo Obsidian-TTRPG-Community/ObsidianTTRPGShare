@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Herald of Armageddon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: NPC Codex
     desc: 58
 ```
-# Description
+## Description
 The herald of armageddon serves the god of wrath and destruction. She brings misery, ruin, and death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Herald%20of%20Armageddon)
 ```encounter-table
 name: NPC Herald of Armageddon

@@ -1,19 +1,21 @@
 ---
-alias: Planar Ally, Lesser
+aliases: [Planar Ally, Lesser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Planar Ally, Lesser 
+## Planar Ally, Lesser
 
 **source**:: PRPG Core Rulebook pg. 320  
 **school**:: conjuration (calling) \[see text\]
 **level**:: cleric 4, medium 3, oracle 4, psychic 4, shaman 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (offerings worth 500 gp plus payment, see text), DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one called outsider of 6 HD or less  
@@ -21,7 +23,7 @@ alias: Planar Ally, Lesser
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 By casting this spell, you request your deity to send you an outsider (of 6 HD or less) of the deity's choice. If you serve no particular deity, the spell is a general plea answered by a creature sharing your philosophical alignment. If you know an individual creature's name, you may request that individual by speaking the name during the spell (though you might get a different creature anyway).  
   

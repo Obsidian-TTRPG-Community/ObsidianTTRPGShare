@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ayandamahla, the Crimson Lotus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,13 +75,13 @@ sources:
     desc: 56
 desc_short: This pale woman is as beautiful as she is menacing-her smile promises endless bliss, yet her weapons and fangs drip with blood.
 ```
-# Description
+## Description
 Ayandamahla was first conjured by Runelord Sorshen on the evening she and the other runelords were to meet to discuss the removal of King Xin from power. Sorshen expected treachery at the hands of her fellow runelords, and promised Ayandamahla a week of freedom among her subjects in the nation of Eurythnia if the succubus would promise to aid her in the event of betrayal by one of the other rulers of Thassilon. As it worked out, the only betrayal that night was that of the runelords against Xin himself, but Sorshen did not renege on her promise to the Crimson Lotus. Thus began a relationship that would last the rest of Thassilon’s existence-Ayandamahla would not only serve numerous times as Sorshen’s spy, assassin, messenger, champion, executioner, and lover, but would also aid her in her research into the nature of blood and its relationship to eternal life. Sorshen also made Ayandamahla the warden of the Lady’s Light, an immense tower Sorshen had erected at the westernmost edge of her realm.
 
 When Sorshen learned that the end of Thassilon was nigh, she betrayed Ayandamahla-knowing that the succubus would not deign to remain as the protector of the Lady’s Light once the runelord retreated into her secret vaults to wait out Earthfall, she worked a powerful binding spell to ensure that Ayandamahla would remain within the Light until Sorshen returned. The Crimson Lotus was enraged, both at Sorshen and at herself for being duped. She watched from atop the Lady’s Light as Earthfall ended the world she’d helped build, used her magic and that of the Lady’s Light to protect the statue from the earthquakes and tsunami that would have otherwise destroyed it, then retreated into the Light to wait out eternity. As it turned out, eternity was much shorter than the succubus expected it to be. When she discovered a flaw in Sorshen’s binding spell, she managed to shift the magic to one of her alu-demon daughters and escaped back to the Abyss.
 
 In the 10,000 years since her service to Sorshen ended in betrayal, Ayandamahla never again forged as prosperous an alliance as that with the runelord. Instead, she has used mortals increasingly as her own tools, attended to duties for her own mistress, Zura, as needed, and has worked to perfect her skills at seduction, subversion, and slaughter the entire time. Throughout it all, the deadly creature has kept one eye on Varisia, watching patiently for any signs of Sorshen’s return to the region. Even today, more powerful than ever before, Ayandamahla doubts she could match the runelord in power-but if Sorshen rises once again, the succubus plans to be there to have her revenge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ayandamahla%2C%20the%20Crimson%20Lotus)
 ```encounter-table
 name: Ayandamahla, the Crimson Lotus

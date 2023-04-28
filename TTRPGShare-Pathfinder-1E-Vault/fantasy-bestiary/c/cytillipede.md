@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cytillipede
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 29
 desc_short: This segmented creature has a chitinous body covered in patches of glowing, purple fungus. Syrupy venom drips from its mandibles.
 ```
-# Description
+## Description
 Derros have long used other creatures in their experiments with alchemical and magical augmentation. For the most part, these experiments don’t have the results the derros had in mind, and can be considered qualified successes at best. However, on rare occasions derros actually get it right and come up with a powerful and obedient creature they can train and use.
 
 The cytillipede arose from one of those rare triumphs. Derro alchemists adapted the diet of a species of albino centipede to eat nothing but cytillesh fungus. After these centipedes had endured years of exposure to the fungus and certain magical augmentations, the result was an entirely new species that the derros named the cytillipede.
@@ -63,7 +65,7 @@ A cytillipede has a gray segmented body covered in chitin. Patches of cytillesh 
 In combat, a cytillipede simply rushes at its opponent and makes bite attacks, relying on its cytillesh venom to stun its enemies so it can bite them repeatedly while they deal with the disorientation of sudden short-term memory loss. A cytillipede normally uses its cytillesh flash ability only when it has been seriously wounded or threatened by multiple opponents. A trained cytillipede can also be commanded to use this ability by its rider. Because of their long exposure to cytillesh, derros are unaffected by the cytillesh-based attacks of cytillipedes, and delight in directing them against their foes.
 
 Cytillipedes are most often encountered as part of a derro patrol around a derro lair, usually as mounts. A typical cytillipede is a little over 10 feet long and 3-1/2 feet high, and weighs about 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cytillipede)
 ```encounter-table
 name: Cytillipede

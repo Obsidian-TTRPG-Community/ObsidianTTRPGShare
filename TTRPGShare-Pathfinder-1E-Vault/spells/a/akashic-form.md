@@ -1,19 +1,21 @@
 ---
-alias: Akashic Form
+aliases: [Akashic Form]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Akashic Form 
+## Akashic Form
 
 **source**:: Occult Adventures pg. 156  
 **school**:: necromancy
 **level**:: psychic 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Akashic Form
 **saving-throw**:: no
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a perfect record of your physical body in the Akashic Record (see page 244) at the time the spell is cast. This record includes your current hit point total, physical ability scores (Strength, Dexterity, and Constitution), and any conditional modifiers or conditions such as ability damage to physical ability scores, disease, negative levels, and poison. If at any point within the duration of the spell you are reduced to fewer than 0 hit points or are slain by a death effect that is not mind-affecting, you can immediately let your current physical body die and assume the record of your physical body on your next turn. When this happens, your corpse disappears, and you can either resume the place of your dead body (already wearing any clothing still attached to the corpse) or appear in any place you’ve been within 500 feet of where your corpse lies (but without any of your gear).  
   

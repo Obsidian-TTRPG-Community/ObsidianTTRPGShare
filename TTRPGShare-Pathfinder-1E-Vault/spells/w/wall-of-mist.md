@@ -1,19 +1,21 @@
 ---
-alias: Wall of Mist
+aliases: [Wall of Mist]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Mist 
+## Wall of Mist
 
 **source**:: Elemental Master's Handbook pg. 18  
 **school**:: conjuration (creation) (air)
 **level**:: arcanist 3, magus 3, shaman 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: wall of thin fog 10 ft. long/level or dense fog 5 ft. long/level; either form 20 ft. high  
@@ -21,7 +23,7 @@ alias: Wall of Mist
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 With a whispered incantation, you conjure a stationary vertical wall of misty vapor. The wall is straight, is 1 foot thick, and has a length up to 10 feet per caster level. The wall obscures vision, granting concealment (20% miss chance) against creatures on the other side of the wall. A creature that shares a square with the wall counts as being on neither side of the wall and neither benefits nor suffers from the concealment.  
   

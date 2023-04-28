@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elder Wyrm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -99,7 +101,7 @@ sources:
     desc: 108
 desc_short: This mighty, two-headed dragon has a six-legged serpentine body that ends in a writhing, whiplike tail.
 ```
-# Description
+## Description
 Over the eons, gods and would-be divinities have unleashed countless monstrosities on the multiverse in vain attempts to create worshipers or punish oath breakers, or just out of spite. Many such beasts outlive their usefulness and run amok, defying their creators’ commands to stand down. 
 
 Elder wyrms were once divine avengers, granted life in order to seek and destroy rogue agents of the gods and other such abominations. After annihilating several condemned species, the dragons broke free from the gods’ control. Despite this, elder wyrms have a flexible but insistent sense of justice instilled in them by their divine mandate, and acting as the judge, jury, and executioner of mighty foes scratches an existential itch. The few elder wyrms that live on a given planet spend much of their time dozing in secluded places, waking occasionally to hunt or seek out injustices to punish based on their individual interests and moods. This cycle of inactivity leaves most elder wyrms woefully ill-informed of current events, though once they have cause to pay attention, their keen intellects and powerful divinations allow them to gather and process several centuries of news in short order. 
@@ -107,7 +109,7 @@ Elder wyrms were once divine avengers, granted life in order to seek and destroy
 Because they wake so rarely, elder wyrms often become centerpieces of local legends and cautionary tales. Especially convincing or foolhardy heroes might even seek out an elder wyrm in order to direct its vengeful wrath against a specific target, though the wyrm is just as likely to determine that the heroes are more worthy of destruction than their targets. Having two heads does, after all, make elder wyrms better equipped to see both sides of an issue and render judgment. Each head can think independently and seamlessly share control of the body, allowing the dragon to perform dizzying acts of synchronicity. Often the two heads’ personalities diverge, leading to good-natured bickering and debate between the two, much to the dread of anxious onlookers. 
 
 An elder wyrm is 100 feet long and weighs 25,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elder%20Wyrm)
 ```encounter-table
 name: Elder Wyrm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kokogiak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 86
 desc_short: This hulking mountain of fur and fangs looks like a whitefurred bear of immense proportions with ten legs, each ending in massive, jet-black claws. Its head, with slavering jaws and a tongue dripping silvery foam, sits at the end of a long yet thickly muscled neck. Its dead black eyes are small but infinite pits of malice. 
 ```
-# Description
+## Description
 The kokogiak (called qupqugiaq by some tribes) is a deadly predator of the far northern wastes. At first glance, it appears to be a simple ravening beast or an enormous, unnaturally deformed polar bear, yet its raw power and cunning are legendary in the tales of northern nomads. Its name in some places is synonymous with cabin fever or deep-winter hallucinations that drive folk to desperation and madness, rushing out into the frozen wild in pursuit of some long-lost lover only to become lost themselves, victims of the kokogiak’s dreadful might. Kokogiaks have an elongated neck, and are nearly 20 feet long from tail to nose. Over a dozen feet high at the shoulder, kokogiaks weigh between 6 and 8 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kokogiak)
 ```encounter-table
 name: Kokogiak

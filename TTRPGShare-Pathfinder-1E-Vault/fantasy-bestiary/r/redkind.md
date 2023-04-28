@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Redkind
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 62
 desc_short: Vicious shadows wrap around the form of this pudgy, white-eyed child.
 ```
-# Description
+## Description
 Redkind are simple and secretive fey that feed on fear like the far more dangerous bogeyman does, but they work in quieter and subtler ways. They tickle the simplest and most childlike fears in victims-darkness, loneliness, strangers, or the abject paranoia of the unknown. To the redkind, chases are little more than mealtime fun, and their cruel practical jokes are delightful games.
 
 Afraid of bright lights and loud noises and unable to understand most of the world, these fey prefer to latch on to lonely, solitary creatures and torture them night after night, lurking under beds, in closets, or outside windows while their presence animates and twists the shadows into unsettling shapes. They might spend months or even years shaping a victim into just the flavor of fear they enjoy. Despite their cowardice, redkind are extremely protective of these seasoned victims-some going so far as to label these unfortunates as their “only real friends.” They are especially common in the long shadows and broken dreams of Taldor, where misery is seen as just another facet of life’s cruelty.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Redkind)
 ```encounter-table
 name: Redkind

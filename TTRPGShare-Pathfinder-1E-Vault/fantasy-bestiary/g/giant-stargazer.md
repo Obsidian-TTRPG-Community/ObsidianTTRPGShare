@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Stargazer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 86
 desc_short: This fish lies beneath the sand with only its bulbous eyes and upturned maw full of jagged teeth protruding.
 ```
-# Description
+## Description
 A giant stargazer is an ambush predator with a speckled, flattened body that hunts by burying itself in the sand, leaving just its eyes and mouth uncovered. A typical giant stargazer is 6 feet long and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Stargazer)
 ```encounter-table
 name: Giant Stargazer

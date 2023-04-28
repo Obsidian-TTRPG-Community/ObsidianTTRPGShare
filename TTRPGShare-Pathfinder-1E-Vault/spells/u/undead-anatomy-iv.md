@@ -1,25 +1,27 @@
 ---
-alias: Undead Anatomy IV
+aliases: [Undead Anatomy IV]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Undead Anatomy IV 
+## Undead Anatomy IV
 
 **source**:: Ultimate Magic pg. 245  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D) (see text)
 
-### Description 
+### Description
 
 This spell functions as *undead anatomy III*, except it allows you to use more abilities. If the form you assume has any of the following abilities, you gain the listed ability: burrow 60 feet, climb 90 feet, fly 120 feet (good maneuverability), swim 120 feet, blindsense 60 feet, darkvision 90 feet, lifesense 60 feet, low-light vision, scent, tremorsense 60 feet, breath weapon, constrict, DR 10/magic and silver, DR 15/bludgeoning and magic, fast healing 5, fiery death, fire aura, grab, incorporeal, jet, poison, pounce, rake, rend, roar, spikes, trample, trip, and web.  
   

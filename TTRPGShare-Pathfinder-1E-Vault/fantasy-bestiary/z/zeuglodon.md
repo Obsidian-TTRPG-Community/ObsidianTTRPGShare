@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zeuglodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 89
 desc_short: This elongated, whale-like creature moves through the water with an eel-like motion despite its wide, fluked tail. Razor-sharp teeth fill its almost reptilian mouth.
 ```
-# Description
+## Description
 The primordial zeuglodon is often mistaken for a dinosaur or other large reptile, in part because of its almost crocodilian mouth as well as its snake-like elongation. Despite these features, it is more closely related to whales and other cetaceans than either aquatic reptiles or fish. A zeuglodon moves through the water with a vertical anguiliform (eel-like) motion that seems almost to be a primitive version of the efficient flukedriven locomotion of its cetacean relatives. Zeuglodons breathe air through blowholes on the tops of their heads, though they lack the lung capacity to stay underwater for as long as their more evolved kin. The relative dimensions of their angular heads are too small to encase the enlarged brains or melons developed by other cetaceans for echolocation or communication with others of their kind, and as such zeuglodons are less social than whales and dolphins. What they lack in specialized anatomy, however, they make up for in sheer ferocity and speed. A hunting zeuglodon is a furious foe to contend with. An adult zeuglodon measures around 50 feet long and weighs upward of 50,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zeuglodon)
 ```encounter-table
 name: Zeuglodon

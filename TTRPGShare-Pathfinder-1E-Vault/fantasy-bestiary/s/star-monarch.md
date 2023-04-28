@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Star Monarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 50
 desc_short: This brilliantly colored moth rises taller than a house. A long tail resembling peacock feathers trails behind the creature.
 ```
-# Description
+## Description
 Star monarchs are magical emissaries of Desna, the guide and protector of those who wander and guardian of dreams. They fly in glowing clouds through the void of space, visiting Golarion to watch over the faithful of Desna. Star monarchs spin streamers of sticky silver, weaving evanescent gossamer cocoons to enrobe those who slumber under their protection. These cocoons sublimate into wisps of half-remembered dreams with the coming of dawn. Star monarchs rarely intervene directly in combat, more often helping good creatures by aiding them from the shadows, guiding their paths, or guarding them while they sleep. Star monarchs can be found across Golarion in a variety of iridescent hues, and all are sacred to followers of the Song of the Spheres.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Star%20Monarch)
 ```encounter-table
 name: Star Monarch

@@ -1,19 +1,21 @@
 ---
-alias: Stolen Light
+aliases: [Stolen Light]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Stolen Light 
+## Stolen Light
 
 **source**:: Pathfinder Society Field Guide pg. 59  
 **school**:: illusion (figment)
 **level**:: arcanist 3, bard 3, redmantisassassin 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 full round  
 **components**:: V, S, F (a gem worth at least 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: transparent gem touched  
@@ -21,7 +23,7 @@ alias: Stolen Light
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 Kreighton Shaine researched this spell from the fragmentary notes of a Vudrani ascetic recorded in a strange tome, and rumors credit him with no fewer than a dozen permanent *stolen light* gems hidden in compartments and drawers in his study. *Stolen light* stores images within a gem. To store an image, as part of casting you must touch a gem worth not less than 500 gp. You trap within the gem an image of everything visible within a 30-foot cone measured from the gem, in a direction of your choice. Alternatively, you can capture a less detailed image of a single object within sight. Once the casting is complete, the gem turns opaque, and the image inside cannot be seen. The stolen image remains within the gem until released or dispelled.  
   

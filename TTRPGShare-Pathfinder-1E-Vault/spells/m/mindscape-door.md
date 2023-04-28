@@ -1,19 +1,21 @@
 ---
-alias: Mindscape Door
+aliases: [Mindscape Door]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mindscape Door 
+## Mindscape Door
 
 **source**:: Occult Adventures pg. 177  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 4, medium 3, mesmerist 3, psychic 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one illusory portal  
@@ -21,7 +23,7 @@ alias: Mindscape Door
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You or other creatures enter into or escape from a mindscape (see page 234) through an imaginary doorway. This doorway takes on any form of your choosing, but can be no larger than a 5-foot cube. This spell has different effects depending on whether you are inside a mindscape when you cast it.  
   

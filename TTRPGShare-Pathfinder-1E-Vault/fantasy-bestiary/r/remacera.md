@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Remacera
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 63
 desc_short: This enormous, fleshy green caterpillar has the face of a serene human woman.
 ```
-# Description
+## Description
 Like the caterpillars they resemble, remaceras represent the idea of transformative rebirth. As a culture, they consider it their calling to help keep creatures-and indeed all of existence-from stagnating. Inspired by the scavengers and bacteria that help dead organisms decompose, they roam the land targeting old or settled creatures that seem set in their ways and in need of a change. Such creatures are then attacked remorselessly, as to a remacera, killing a creature in order to let it be reincarnated into a new form is the greatest mercy, even if most creatures are too shortsighted to see it. Remaceras understand that their actions cause pain, yet they liken this to the pain of childbirth-unpleasant, yet ultimately worthwhile.
 
  In combat, a remacera fights primarily by unhinging its jaw and biting opponents, while emitting an ultrasonic ululation that causes their sharklike teeth to vibrate, causing the victim pain beyond that of the bite alone. Their magical ability to spawn new remaceras in the bodies of others is the asexual remacera’s sole means of reproduction, and reserved for those who remain out of reach or have particularly impressed the remacera.
@@ -63,7 +65,7 @@ Like the caterpillars they resemble, remaceras represent the idea of transformat
  Remaceras themselves have no fear of death, knowing that they’ll no doubt enjoy whatever new forms they take, and while they defend themselves to the best of their ability, they bear no ill will toward those who slay them. Indeed, there are stories of remaceras who feel a special bond with their killers, and return in their reincarnated forms to serve as familiars or animal companions.
 
  The average remacera is 12 feet long and weighs 3,000 pounds, and they can often be tracked by the plants that tend to grow quickly in their presence, sometimes bearing strange new blossoms or hybrid fruits.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Remacera)
 ```encounter-table
 name: Remacera

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sceazir
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 86
 desc_short: This winged, six-legged creature seems to be constructed of dark crystal. Its mouth is disproportionately large for its wolfish head, gaping open to display rows of jagged teeth, and its spiky, manyjointed legs bend in unsettling ways.
 ```
-# Description
+## Description
 Vicious and brutal predators, sceazirs are born from the substance of the Negative Energy Plane in much the same way as the plane’s more intelligent inhabitants, sceaduinars. Though they possess only an animalistic intelligence, sceazirs loathe all forms of life and unlife and are quick to hunt down anything they detect in their territory that is not native to the Negative Energy Plane. They are unnaturally fast, moving with equal ease on the ground or through the air. Due to sceazirs’ speed and skill at tracking, sceaduinars often use them as mounts or beasts of burden. Sceazirs can understand the commands of a sceaduinar rider through a telepathic bond and carry out such commands obediently, but they almost never accept non-sceaduinar riders.
 
  A sceazir is typically 11 feet long, stands 6 feet tall at the shoulder, and weighs about 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sceazir)
 ```encounter-table
 name: Sceazir

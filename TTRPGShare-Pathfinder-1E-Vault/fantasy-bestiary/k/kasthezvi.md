@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kasthezvi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 88
 desc_short: Cracked skin stretches across the body of this gangly humanoid creature. A crown of bone floats above its grotesque, misshapen head and its mouth is open in a silent scream.
 ```
-# Description
+## Description
 Malicious and immortal, kasthezvis are among the most ancient creatures inhabiting the deep places beneath Kaer Maga. Their long-dead creators crafted these abominations to be utterly incapable of causing sound, as their very bones are vessels for primal words of power.
 
  If a kasthezvi could fully speak the primordial words etched into its bones, it could cause catastrophic devastation with a simple phrase. However, kasthezvis’ creators intended kasthezvis to contain and conceal the words, not use them, and etched primordial silence onto the kasthezvis’ souls. This suppressive magic has slowly deteriorated with each passing century, and as it has, kasthezvis have drawn strength from the ancient words contained within. They are now capable of issuing powerful, silent utterances that can level entire buildings. Given time, there is no telling the extent of their power.
@@ -76,7 +78,7 @@ Malicious and immortal, kasthezvis are among the most ancient creatures inhabiti
  A kasthezvi’s body is roughly humanoid in shape, though otherwise alien in appearance. Its dry, cracked skin stretches across misshapen bones. Its skull is typically at an unnatural angle to its body, and its silently screaming face is asymmetrical. A crown of bone floats above its head, vibrating erratically. A kasthezvi’s every movement appears deceptively lurching and uncoordinated.
 
  A kasthezvi is 6 feet tall but weighs only 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kasthezvi)
 ```encounter-table
 name: Kasthezvi

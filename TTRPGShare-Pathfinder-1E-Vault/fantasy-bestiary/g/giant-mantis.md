@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Mantis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 200
 desc_short: This towering insect walks on its back four legs. Its head is triangular and its front legs sport razor-sharp edges and claws.
 ```
-# Description
+## Description
 Known to many as the giant praying mantis for the way the creature’s deadly front limbs fold under its head as it lies in wait for food, this creature is well feared along caravan tracks that pass through dense woodlands. The giant mantis, a master of hiding in dense undergrowth, is almost unnaturally patient as it lies in wait, striking with unsettling speed as unsuspecting meals wander by.
 
 In many savage societies, the giant mantis is particularly feared-in regions where these vermin are common, they are often regarded as messengers of death sent to the world by angry gods. Their swift speed, alien appearance, and near-invisibility in forests give rise to many legends-that the giant mantis can become invisible, that it can smell fear, and that the souls of those who it slays and eats are digested and kept from moving on to the afterlife. While the giant mantis is nothing more than an efficient and deadly vermin, the numerous legends and whispers regarding its supposed powers and alien intellect have inspired some spellcasters to work such features into their constructs as a way to make them even more fearsome. There are even stories of entire societies of assassins who worship an immense mantis as a god, and who have taken to heart the mantis’s style of murderous ambush, fighting with twin serrated rapiers.
 
 The giant mantis presented here stands 7 feet tall and 15 feet long, and weighs 650 pounds. Larger giant mantises exist in the deepest, darkest forests of the world, where they might prey upon things as mighty as giants or dragons. Known by various names, such as the drake-eating mantis, the treebender mantis, or simply the deadly mantis, these immense behemoths average more than 60 feet in height and have a terrifying habit of destroying entire villages or towns in order to satiate their ravenous appetites. A deadly mantis is a giant mantis advanced to Colossal size, 16 Hit Dice, and CR 14.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Mantis)
 ```encounter-table
 name: Giant Mantis

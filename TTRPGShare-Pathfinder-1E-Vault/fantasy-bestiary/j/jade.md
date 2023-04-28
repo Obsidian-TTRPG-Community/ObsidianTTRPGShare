@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 82
 desc_short: Masterfully carved, this elegant jade figurine stands no more than a hand’s breadth tall, yet its delicate limbs and incredible details bear all the features of a seductive maiden cast in miniature.
 ```
-# Description
+## Description
 From the moldering depths of the Sodden Lands to far away Tian Xia, jade idols stand watch over sacred temples, royal tombs, the monuments of powerful ancients, and the hidden lairs of plotting assassins and cruel wizards. Crafted primarily to serve as unassuming killers, jade idols possess unnatural patience, waiting for weeks, months, or even years for the opportune time when they might be delivered into their victims’ hands and forgotten before striking. Jade idols are also particularly valued for their ability to transform living flesh into a stone similar in appearance to jade, but far more brittle and ultimately worthless (a DC 14 Appraise or Knowledge [nature] check reveals the difference). Regardless of the stone’s value, the tombs of many forgotten dynasties bear small legions of jade idols, left by their departed masters to keep the residents preserved in lifeless jade for all time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jade)
 ```encounter-table
 name: Jade

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightmare
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 216
 desc_short: This eerie horse-like creature’s skin is an inky blackness. Fire spurts from its hair and nostrils, and its hooves spray sparks.
 ```
-# Description
+## Description
 Nightmares are flaming harbingers of death. They allow only the most evil of creatures to ride them, and are never mere mounts, but rather willing partners in destruction.
 
 The cauchemar is a more dangerous variant of the nightmare, particularly valued for its ability to enter the Ethereal Plane with its rider in addition to being able to use plane shift to invade other realities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightmare)
 ```encounter-table
 name: Nightmare

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Know the Enemy
+aliases: [Mythic Know the Enemy]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Know the Enemy
+## Mythic Know the Enemy
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: divination
 **level**:: cleric 1, hunter 1, inquisitor 1, oracle 1, paladin 1, ranger 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: S, V, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Mythic Know the Enemy
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.
 

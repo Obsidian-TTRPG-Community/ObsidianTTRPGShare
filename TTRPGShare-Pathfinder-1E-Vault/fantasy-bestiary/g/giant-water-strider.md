@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Water Strider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 273
 desc_short: This bug has long, fuzzy legs that support it on the water’s surface as if the creature stands on solid ground.
 ```
-# Description
+## Description
 A giant water strider is a long-legged insect with the ability to walk on water. It feeds on fish and birds. Water striders use their weak flight only to escape predators or for seasonal migrations to new breeding areas. They are sometimes kept as mounts by coastdwelling humanoids. A giant water strider lives 1-2 years.
 
 Carrying more than a light load (200 pounds) prevents a giant water strider from using its water skating ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Water%20Strider)
 ```encounter-table
 name: Giant Water Strider

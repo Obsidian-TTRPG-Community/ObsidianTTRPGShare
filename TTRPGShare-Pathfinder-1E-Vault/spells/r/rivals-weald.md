@@ -1,19 +1,21 @@
 ---
-alias: Rival's Weald
+aliases: ["Rival's Weald"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rival's Weald 
+## Rival's Weald
 
 **source**:: Chronicle of Legends pg. 14  
 **school**:: transmutation (polymorph)
 **level**:: druid 9, shaman 9, witch 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a hardened piece of tree sap)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/two levels, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Rival's Weald
 **saving-throw**:: Fortitude negates, Will partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell transforms your targets into trees as per tree shape, except the targets transform into living trees that resemble their original forms. If a target is in a situation that would prove fatal to a tree created by this spell, such as off the ground or under water, the target receives a +4 bonus on its Fortitude save.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thought Eater
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 243
 desc_short: A nimbus of glowing, intangible matter envelops this strange skeletal creature with a birdlike beak.
 ```
-# Description
+## Description
 These tiny predators of thought live almost their entire lives on the Ethereal Plane. They are so tied to that place that without its energy, a thought eater’s psychic power begins to deplete, until finally the very fabric of its own personal reality breaks down and it fades out of existence. But while the Ethereal Plane is necessary for thought eaters’ continued existence, its vastness and relative lack of prey force thought eaters to sometimes hunt on the Material Plane. Such trips are often gluttonous affairs, as the thought eaters must not only gain sustenance, but also gain enough nourishment to stave off their rapid psychic and physical decay in that hostile environment.
 
  Normally, thought eaters are fairly single-minded, but the inherent danger in their forays to the Material Plane makes them eager for easy meals. Someone who takes the time to provide consistent easy meals for a thought eater can expect the creature to follow her on the Ethereal Plane, watching for its next feeding time. Given that every minute on the Material Plane is strenuous for a thought eater, such a person is unlikely to receive much conversation from the creature trailing her, but if something threatens the safety of its food source, the thought eater may be moved to protect its companion. In this case, the thought eater uses its daze monster ability to help the person escape and may even be motivated to cast resist energy on her. If this bizarre and alien friendship continues for long enough, the thought eater may even choose to assist in identifying magic items-when properly compensated, of course.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thought%20Eater)
 ```encounter-table
 name: Thought Eater

@@ -1,19 +1,21 @@
 ---
-alias: Create Mindscape
+aliases: [Create Mindscape]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Mindscape 
+## Create Mindscape
 
 **source**:: Occult Adventures pg. 162  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 5, medium 4, mesmerist 4, psychic 4, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Create Mindscape
 **saving-throw**:: Will disbelief, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create an immersive mindscape (see page 235) that the minds of both you and another creature enter together. You choose whether the mindscape is overt or veiled, and whether it’s harmless or harmful. You can choose any shape and size trait, as well as any gravity trait (though you can’t make it so the gravity is so strong it harms creatures within). The mindscape has normal time, no alignment traits, and normal magic.  
   
@@ -36,4 +38,3 @@ If you choose to create a veiled mindscape, the first time another creature inte
 This spell ends at any time that you choose to depart the mindscape, freeing the target as well. Any creature that drops below 0 hit points while inside the mindscape returns to its body. If this happens to you, the spell also ends, freeing anyone still inside.  
   
 *Create mindscape* can be made permanent with a *permanency* spell by a caster of 12th level or higher at a cost of 10,000 gp. You and other creatures aware of a permanent mindscape can come and go using the *mindscape door* spell.
-

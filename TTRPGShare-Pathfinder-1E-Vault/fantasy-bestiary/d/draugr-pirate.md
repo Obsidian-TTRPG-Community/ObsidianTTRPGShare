@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Draugr Pirate
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 62
 desc_short: No flavor text.
 ```
-# Description
+## Description
 The ghastly brutes known as draugr plague all oceans surrounding the Inner Sea, but those who crew so called “ghost ships” within the Shackles are particularly notorious for their cunning and ruthlessness.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Draugr%20Pirate)
 ```encounter-table
 name: Draugr Pirate

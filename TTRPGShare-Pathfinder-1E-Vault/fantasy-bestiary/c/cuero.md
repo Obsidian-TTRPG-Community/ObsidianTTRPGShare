@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cuero
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 62
 desc_short: The pink, fleshy underside of this flat, aquatic creature features a large circular maw of fangs.
 ```
-# Description
+## Description
 Farmers who graze their cattle near slow-moving rivers or placid lakes warn their neighbors when rumors of a cuero pass from village to village. These strange, flat creatures haunt waterways in search of large prey to satisfy their voracious appetites. When more passive, cueros lie in wait at the bottom of a lake or river for suitable prey to swim overhead. In lean times, cueros sit just beneath the water’s surface near the shore and stay perfectly still until an animal comes near to drink. They sometimes even bury themselves in the muddy banks of a river to surprise passersby.
 
 When prey gets within reach of a cuero, it strikes from camouflage. It wraps its prey up in its leathery hide and begins draining its victim’s blood. After feeding, the cuero discards the drained husk on the riverbank or drags it into the water to float downriver. Cueros prefer the ease of catching Small and Medium mammals, but they seem to have a special taste for Medium and Large ungulates. When their preferred prey is unavailable, cueros act as bottom feeders, sifting through the lake bed or river bottom in search of crabs, clams, and slow moving fish. Following this behavior, cueros can strip fishing areas of fauna, an act that enrages local anglers.
@@ -62,7 +64,7 @@ Cueros typically keep to small family groups, but when the full moon occurs on a
 Cueros aren’t very intelligent, but they can speak and understand Aklo. Their normal lines of conversation are often confusing, as the creatures tend to ramble on when speaking about topics such as food, water conditions, and the phases of the moon.
 
 A cuero’s flat, rounded body spans 10 feet, and the beast weighs close to 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cuero)
 ```encounter-table
 name: Cuero

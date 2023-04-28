@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dimensional Shambler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 80
 desc_short: This rugose figure rears up to a man’s height, its large hands bearing far too many twitching fingers.
 ```
-# Description
+## Description
 The dimensional shambler is a vagabond of the realms between realms. With its ability to shift planes, it is no stranger to the weirdest the Great Beyond has to offer, and despite its brutish and unrefined intellect, its knowledge of the planes and the relationships between dimensions is significant indeed.
 
 A dimensional shambler is humanoid in outline, yet it moves with a weird and alien gait that gives it the appearance of a creature not in full possession of its faculties, almost as if it were drunk or horribly wounded. Yet those who mistake this shambling posture as a sign of weakness swiftly learn of their error, for the dimensional shambler is in fact quite agile-the weird lumbering cadence of its movements is simply another outward manifestation of its inhuman countenance.
 
 A dimensional shambler typically stands just over 7 feet in height, and weighs 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dimensional%20Shambler)
 ```encounter-table
 name: Dimensional Shambler

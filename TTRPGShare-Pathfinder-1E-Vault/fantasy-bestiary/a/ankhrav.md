@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ankhrav
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,7 +47,7 @@ sources:
     desc: 57
 desc_short: This giant vermin waves two scything forelegs threateningly as hissing acid drips from its mandibles.
 ```
-# Description
+## Description
 Ankhravs, also called “ankheg queens,” are fearsome predators most common near the Skittermounds. These six-legged beasts are larger than regular ankhegs, but the most telling difference between them and drones is the pair of razor-sharp, mantislike arms located at the front of the thorax. While these arms provide no locomotive aid- their scissorlike edges are too delicate to support any weight-these additional appendages allow ankhravs to quickly bring down prey that would take ankheg spawn much longer to swarm and slay. Ankhravs are rarely encountered alone, and then only when a young queen travels from her home nest to establish a new colony. In most cases, when they venture from their lairs, ankhravs hunt accompanied by ankheg drones.
 
  Though a significant danger to locals, ankhravs are also a highly valued resource for local tribes and the humans of Trunau. While they and their spawn wreak havoc on any attempts to build settlements in their territory, their sturdy carapaces and valuable organs can be worth a fortune if sold to the right alchemist or collector. There are always a few scouts and trappers willing to risk the dangers of hunting ankhravs.
@@ -53,7 +55,7 @@ Ankhravs, also called “ankheg queens,” are fearsome predators most common ne
  Every winter, ankhravs retreat into their hives to give birth to the next generation of ankhegs. During this time, each ankhrav is tended to by ankheg drones as its flared abdomen produces an incubating egg sac nearly the size of its body. Sustaining this sac uses much of the stores claimed by the ankhrav’s hunting season, and without ankheg servants most ankhravs would starve to death, drained by the process of birthing the next generation of drones. If an ankhrav has a large hive with scores of drones and plentiful food, it may give birth to one or two young ankhravs, which leave their birthplace to establish their own hives at 2 years of age.
 
  A fully grown ankhrav stretches to a length of 14 feet and can weigh as much as 4,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ankhrav)
 ```encounter-table
 name: Ankhrav

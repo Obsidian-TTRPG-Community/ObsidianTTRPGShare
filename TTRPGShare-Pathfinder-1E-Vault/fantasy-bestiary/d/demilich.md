@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Demilich
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,13 +72,13 @@ sources:
     desc: 66
 desc_short: Glittering jewels encrust this leering skull as it floats up into the air on a swirling vortex of dust and shimmering magic.
 ```
-# Description
+## Description
 In their endless years of unlife, some liches lose themselves in introspection, and can no longer rouse themselves to face the endless march of days. Still others cast their consciousness far from their bodies, wandering planes and realities far beyond mortal ken. Absent the vitality of the soul, such a lich’s physical form succumbs to decay over the centuries. In time, only the lich’s skull remains intact. Yet the bonds of undeath keep the lich’s remains from final dissolution. Vestiges of the lich’s intellect remain within the skull, and wake to terrible wrath should it be disturbed. Traces of the lich’s will to live strengthen the skull, rendering it harder than any steel. The lich’s greed and lust for power manifest in the growth of gems in its skull. Lastly, though only the barest remnants of the lich’s eldritch might survive, a demilich aroused to anger still retains enough power to flense the very soul from any defiling its final rest.
 
 The lich’s phylactery invariably fails during the slow decline of lich into demilich, losing its last vestiges of enchantment if not crumbling into dust with the lich’s body. But even without the preserving power of the phylactery, demiliches retain a tenacious grip on existence. Only powerful and precise use of magic can permanently destroy a demilich and its remains.
 
 To the unwary adventurer, a demilich looks like nothing more than dust and bones within the lich’s former sanctum. Indeed, until disturbed, a demilich has only the vaguest awareness of intruders, and ignores their presence. Any attempt to steal the demilich’s possessions, disturb its remains, or harm its domain rouses the demilich’s slumbering mind, causing it to rise up in the air and voice its wail of the banshee before again settling to the ground. Should the interlopers relent, the skull returns to its torpor. But if they persist, the skull rises again, not to rest again until all in its sight have perished. Fortunately for intruders, demiliches never pursue those wise enough flee.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Demilich)
 ```encounter-table
 name: Demilich

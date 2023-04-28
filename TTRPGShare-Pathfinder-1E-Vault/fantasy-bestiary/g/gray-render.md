@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gray Render
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 140
 desc_short: This hulking beast has slick, gray, hairless skin. Its numerous yellow eyes and wide toothy maw are its only facial features.
 ```
-# Description
+## Description
 Standing over 9 feet tall and weighing in excess of 4,000 pounds, a gray render is a solitary and savage predator. Renders are gifted with immense strength, and some reports claim to have witnessed a gray render uprooting a fully grown tree and tearing it to splinters in order to catch prey hiding within. Gray renders actively avoid forming groups or communities with their own kind, and perhaps only tolerate the presence of other renders when it is time to mate. Some sages claim they are asexual, but it is more likely they are hermaphrodites able to self-fertilize, and reproduce only rarely.
 
 Despite its solitary existence, a gray render often develops an affectionate bond with other creatures, typically a herd of herbivores or a small tribe of humanoids, but in some cases a solitary denizen of its swamp. The render acts as a guardian for this creature or creatures, never straying more than a mile away, running to protect them if they are attacked, and providing an offering of meat once each day, as might a domesticated cat. A gray render never harms its protected creatures, and retreats in confusion if they attack it. Most animal “pets” grow to accept its presence, and primitive humanoid “pets” often believe their guardian is a sign of favor from the gods. A render’s bond may last from a few months to as long as 10 years, after which it wanders to a new territory and ignores its former favorites.
 
 Renders are generally not malicious, and only attack if hungry or if they or their pets are threatened. A render protecting its pets fights to the death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gray%20Render)
 ```encounter-table
 name: Gray Render

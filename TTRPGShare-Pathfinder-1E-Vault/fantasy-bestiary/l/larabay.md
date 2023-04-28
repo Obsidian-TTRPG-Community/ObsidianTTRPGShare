@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Larabay
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 52
 desc_short: This pale, blond-haired humanoid possesses bright blue eyes, needlelike teeth, and the large, multicolored wings of a parrot.
 ```
-# Description
+## Description
 Larabays are capricious fey creatures that gravitate toward coastal regions with warm and temperate islands. They are especially fond of toying with sailors and fishermen, playing pranks aboard ships or in seaside towns by assuming various shapes and using their otherworldly powers of mischief. A larabay’s idea of fun can quickly become quite serious, however, when its love of trickery begins to outweigh its sympathy for humanity, and a larabay’s well-executed joke may result in a potentially fatal situation for those involved. In their never-ending pursuit of a good laugh, larabays have been known to employ their supernatural illusions to draw ships and their crews into precarious situations such as hazardous waters or hidden shoals, and the depredations of a larabay are often only realized after it’s too late. On land, larabays entice their unknowing dupes off cliffs’ edges, through monster lairs, or into hidden ravines or pools of quicksand.
 
 Larabays use their shapechanging abilities to craft intricate webs of social intrigue, though such schemes are always concocted in an effort simply to conduct a masterful hoax, usually resulting in the devastation or heartbreak of one or more of the parties involved rather than any concrete gains on the fey’s part. While larabays have been known to inadvertently perform acts of good in the process of gulling cruel-hearted individuals, their unpredictable and precarious natures make them difficult allies, and one can never be sure just how long a larabay will remain faithful to a particular cause before getting bored or whether its companions are simply its latest victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Larabay)
 ```encounter-table
 name: Larabay

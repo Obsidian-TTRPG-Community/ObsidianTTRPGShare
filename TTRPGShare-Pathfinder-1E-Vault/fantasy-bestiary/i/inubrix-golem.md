@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Inubrix Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 44
 desc_short: This hulking figure shines with a metallic luster as a heavy yellow gas flows from the creature’s back.
 ```
-# Description
+## Description
 These deadly golems are crafted with a technique that incorporates inubrix, a rare skymetal, into their bodies. Due to the extraordinary material used in their construction, these golems are extremely rare throughout most of Golarion, found only in places with access to skymetals or in places where those who can afford such unique materials reside. Inubrix’s unique characteristics allow it to pass through iron and steel without any impact, as if it existed slightly out of phase with such metals. This strange property has given it the nickname of “ghost iron.” Weaponsmiths were initially excited to learn that it could penetrate metal armor with ease. However, the soft metal is too malleable for effective crafting; weapons made from inubrix are weaker than their normal counterparts, making them less effective. Alloys of inubrix with other metals failed to maintain its unique property to phase through iron, causing many smiths to see it as a strange curiosity and nothing of practical value.
 
  Because of its ghostlike properties, the odd metal has also earned a reputation for being related to necromancy, gluttony, and temperance. Some spellcasters report spectacular effects when using inubrix in the creation of magic items associated with necromancy, as the metal tends to accept magical enhancements from that magic school more readily than from other schools of magic. This has led enterprising golem crafters to create the first inubrix golems. Rather than being imbued with an elemental spirit like many golems, inubrix golems gain their animating spark from negative energy, which seems to resonate particularly well with the inubrix used in their construction.
@@ -64,7 +66,7 @@ These deadly golems are crafted with a technique that incorporates inubrix, a ra
  Though creators can craft these golems into any configuration they desire, most form inubrix golems that have a skeletal aesthetic. This grotesque appearance only adds to the necromantic mystique of the golem, its visage promising the one thing these monstrosities can deliver: a brush with death. These 11-foot-tall creations weigh about 5,000 pounds, but their air walk ability allows them to navigate difficult and unstable terrain with ease. They cannot speak, though at times their metal bodies emit a low bass rumble.
 
  Technic League engineers created the first inubrix golems in the golem forges of Numeria. Their captains hoped to use them as scouts and shock troops when exploring the vast and dangerous metal ruins that speckle the landscape. However, their inability to communicate makes inubrix golems poor scouts, and the properties bestowed from their inubrix components left them often unable to harm the robotic contraptions they were sent to destroy. Their use as bodyguards is limited, as they cannot stop or deflect iron weapons, but they make decent assassins and excellent traps when hidden behind a wall of iron. Enterprising captains used the creatures to attack and assassinate their rivals, but it wasn’t long before Technic League officers started to line their strongholds with lead and other materials that the golems can’t pass through.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Inubrix%20Golem)
 ```encounter-table
 name: Inubrix Golem

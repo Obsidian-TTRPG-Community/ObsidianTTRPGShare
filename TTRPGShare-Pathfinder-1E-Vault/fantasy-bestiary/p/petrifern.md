@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Petrifern
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 31
 desc_short: This tiny, unassuming tree is shaped like a miniature person, with branches for arms and roots for feet.
 ```
-# Description
+## Description
 The petrifern is an unusual plant creature that resembles a small, humanoid-shaped fern. It is able to walk about on its roots. A petrifern has the unusual ability to petrify itself at will, hardening its branches and leaves to resemble those of a plant that has been fossilized by natural means. Its chemical makeup not only allows it to petrify itself but also doubles as a toxin that the plant can emit from its foliage when it senses danger.
 
  Like all plants, petriferns subsist on oxygen, sunlight, and water. But unlike most flora, they can relocate themselves to ensure they always receive an abundance of nutrients. Once rooted, a petrifern typically petrifies itself until either the nearby soil is depleted of nutrients or external factors cause it to seek sustenance elsewhere.
 
  Petriferns reach a maximum height of 1 foot and weigh up to 3 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Petrifern)
 ```encounter-table
 name: Petrifern

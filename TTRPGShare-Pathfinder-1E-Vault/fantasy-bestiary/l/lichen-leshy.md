@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lichen Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 86
 desc_short: This miniature plant person has a body composed of lichens and a rain cape woven from leafy growths.
 ```
-# Description
+## Description
 Like the curious plantlike organisms from which they’re composed, lichen leshys are rugged creatures able to survive in unforgiving climates. Unlike most leshys, lichen leshys are rarely content to stay in one place for long, instead using their survival skills to reach the grandest vistas, harshest environs, and most daring heights. There, they rest in quiet contemplation and awe, slowly breaking down inhospitable rocks into nutrient-rich soil that can sustain new plant life.
 
 Lichen leshys almost always wear cozy rain cloaks that they use to blur their outlines and better camouflage their forms. They often secret away tiny mementos within their garb to remind them of their greatest achievements, and one can earn a lichen leshy’s ready assistance if willing to listen to its rambling tales of how it found each trophy. This mossy clothing functions as masterwork padded armor for a lichen leshy, but not for any other creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lichen%20Leshy)
 ```encounter-table
 name: Lichen Leshy

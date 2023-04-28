@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fjord Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 183
 desc_short: This massive, eel-like dragon has two webbed talons. Its tail ends in large and powerful-looking flukes.
 ```
-# Description
+## Description
 Fjord linnorms dwell among the deep waters that grace northern coastlines where fingers of land create complex rivulets, venturing out to sea to feed on sharks and whales when they cannot find settlements or traveling caravans to savage. As their favored haunts often overlap with coastal trade routes, regions known to be within the territory of a fjord linnorm are often avoided by ships. Fjord linnorms are not particularly adept at capsizing ships, as are some other large aquatic monsters, but one might argue that such tactics are unnecessary for a creature the size and power of a fjord linnorm in the first place.
 
 Both the curse and poison of a fjord linnorm are extremely dangerous for those who frequent the waterways of the north. The fjord linnorm’s curse is particularly devastating to aquatic creatures, and such beings are careful to avoid any possible conflict with such linnorms.
 
 A fjord linnorm is 60 feet long and weighs just over 10,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fjord%20Linnorm)
 ```encounter-table
 name: Fjord Linnorm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cave Wizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: NPC Codex
     desc: 184
 ```
-# Description
+## Description
 The cave wizard manipulates the energy of deep rock.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cave%20Wizard)
 ```encounter-table
 name: NPC Cave Wizard

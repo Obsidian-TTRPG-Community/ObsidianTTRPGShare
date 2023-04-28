@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chelonidal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 80
 desc_short: This creature resembles a cross between a humanoid and a sea turtle, with flipper-like hands and a heavy shell covering its back.
 ```
-# Description
+## Description
 Chelonidal agathions are the foot soldiers and guards of Nirvana. While the realm’s inhabitants prize enlightenment over militarism, the agathions recognize that vigilant guardians are necessary to the preservation of peace. Chelonidals form from the souls of those who willingly gave their lives in defense of a person or place, or who protected the sea from terrestrial threats.
 
  Like all agathions, chelonidals are capable of speaking with any linguistically gifted creature. Their voices generally have a gravelly quality that reminds most listeners of a grizzled veteran soldier. This idea is reinforced by the chelonidals’ habitual good-natured cantankerousness, as well as their fondness for war stories.
@@ -80,7 +82,7 @@ Chelonidal agathions are the foot soldiers and guards of Nirvana. While the real
  Chelonidals and dwarves often get along well, despite the latter race’s dislike for the sea; the agathions share dwarves’ resolve, as well as their traditional military tactics. Trudd, dwarven deity of strength and defense, has arrangements with several legions of chelonidals, and he occasionally sends them in response to planar ally spells.
 
  A typical chelonidal is 6 feet tall and weighs 400 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chelonidal)
 ```encounter-table
 name: Chelonidal

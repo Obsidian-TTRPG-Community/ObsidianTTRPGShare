@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xtabay
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 289
 desc_short: This patch of vines is ornamented with beautiful crimson and violet flowers, the petals of which seem to bear tiny faces.
 ```
-# Description
+## Description
 Known for their potent-and ultimately deadly-scent, xtabays are a floral hazard to the unwary. As fast-spreading as ivy, a xtabay’s vines are sturdy and adaptive, making the plant a potential threat nearly everywhere-from gardens to wells to forest groves.
 
 Attractive flowers blossom from the vines of xtabays, emitting the spores that mean a slow death for their victims. The strange, face-like patterns that grow on the petals are disturbing but seem to have no real function. Hermits or other reclusive types have been known to surround their territory with xtabays, warding off pesky creatures and adventurers alike. Instances of xtabays of larger-than-usual size have also been reported. These massive plants possess tendrils as thick as tree limbs and flowers that can fell even the hardiest of warriors with their overwhelming perfume. Underground, xtabays thrive in the wet, dark environment, covering the walls and floors of entire caverns and anesthetizing whole dens of subterranean creatures.
 
 Nomadic plants, xtabays traverse large expanses of land until they sense nearby life, at which point they lie dormant and take on the guise of harmless flowers while releasing their deceptive aroma. Once a creature is subdued, the beast-like plant wastes no time in devouring it, disregarding creatures unaffected by its aroma. Because of their carnivorous nature, xtabays only rarely run short on nutrients, consuming the entirety of a victim’s body over the course of several days following the initial process of draining its blood. Xtabays are able to devour creatures thanks to their lengthy roots, which produce a corrosive acid that breaks down and absorbs flesh and bone.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xtabay)
 ```encounter-table
 name: Xtabay

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Squall Seer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 32
 desc_short: The tricorne hat this gillwoman wears is encrusted with salt, suggesting years spent at sea.
 ```
-# Description
+## Description
 The Low Azlanti are a people of the sea, and squall seers find special purpose and insight in buffeting winds and driving rain. They use these times to plumb the nature of reality through magic and drugs, letting their visions guide their voyages and adventures. These gillmen feel the most primal displays of nature’s fury echoing in their pulses and eventually learn to bend that power to their command.
 
 Equal parts clergy and sailors, squall seers often amass cultish crews of gillmen and humans with blind faith in their ability to see ships through any storm as they journey across Golarion, whether they’re crashing through ice floes in the Steaming Sea, riding the storm-lashed currents of the Eye of Abendego, or challenging beasts from the darkest ocean trenches. More than a few alternate between piracy and pirate-hunting, following whatever impulse seems most exciting; they may be denounced in one city only to be celebrated 50 miles up the coast.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Squall%20Seer)
 ```encounter-table
 name: Squall Seer

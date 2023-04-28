@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Couatl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,7 +71,7 @@ sources:
     desc: 49
 desc_short: This great serpent has multicolored wings and eyes that glimmer with intense awareness.
 ```
-# Description
+## Description
 Couatls are servants of lawful and good deities, though some operate independently of any greater being. Respected and admired for their wisdom and beauty, they try to steer mortals onto the right path and use their powers to fight evil, particularly those known to shift between the planes. Some couatls are viewed as benevolent gods by isolated societies, and while most couatls cringe at the thought of pretending to be a god, they allow such misconceptions to continue since they allow the couatls to guide and coax these societies onto paths of peace and cooperation with their neighbors. A couatl is about 12 feet long, with a wingspan of about 15 feet. It weighs 1,800 pounds.
 
 As native outsiders, couatls must eat. They prefer the same foods as true snakes, such as mammals and birds, though they have been known to eat evil humanoids.
@@ -77,7 +79,7 @@ As native outsiders, couatls must eat. They prefer the same foods as true snakes
 As they would rather spend their time promoting their agenda than hunting, couatls appreciate offers of food, particularly small boars and large game fowl.
 
 A couatl sometimes shows its favor to an adventurer or party that has done it a service by gifting the group with 1d4 of its brightly colored feathers. Such a freely given feather, if used as an additional material component, allows a spellcaster to cast planar ally to conjure that specific couatl without expending the typical payment of gold or other valuables-provided the the couatl approves of the service asked for by the spellcaster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Couatl)
 ```encounter-table
 name: Couatl

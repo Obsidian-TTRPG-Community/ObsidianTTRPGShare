@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Guild Initiate
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: NPC Codex
     desc: 146
 ```
-# Description
+## Description
 The guild initiate is a rogue who is still seeking to prove his worth to a thieves’ guild.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Guild%20Initiate)
 ```encounter-table
 name: NPC Guild Initiate

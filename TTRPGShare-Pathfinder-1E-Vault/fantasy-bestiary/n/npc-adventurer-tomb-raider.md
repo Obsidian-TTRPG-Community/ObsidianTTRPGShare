@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Adventurer (Tomb Raider)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
   - name: GameMastery Guide
     desc: 257
 ```
-# Description
+## Description
 Tomb raiders are cunning explorers of ruined delves and trap-haunted dungeons and daring looters of ancient, treasure-laden crypts. They are invaluable allies, helping any would-be explorers get in and out without falling prey to lurking death and hidden danger. Of course, if a tomb raider should happen to find and keep the choicest bits for himself, who would know? He would never tell. A tomb raider might also be found as a rival inside a dungeon, perhaps seeking to loot the treasure inside before the PCs can. Replacing his Sleight of Hand skill with Craft (trapmaking) makes him an even more dangerous foe.
 
 Tomb raiders make excellent burglars and scouts. A tomb raider often works alone, but he may also cooperate with an archaeologist and a pair of burglars (CR 8). A tomb raider scout might be found with a monster hunter (CR 7) or even with a group of four raiders (CR 9). Adventuring tomb raiders often travel with a medium or minstrel, a battle mage, and a gladiator or monster hunter (CR 9).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Adventurer%20(Tomb%20Raider))
 ```encounter-table
 name: NPC Adventurer (Tomb Raider)

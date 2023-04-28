@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skeletal Mount
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,9 +41,9 @@ sources:
   - name: Pathfinder No. 44: Trial of the Beast
     desc: 86
 ```
-# Description
+## Description
 Skeletal mounts are normal skeletons made from combat-trained heavy horses. They often serve as mounts for necromancers or skeletal champions.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skeletal%20Mount)
 ```encounter-table
 name: Skeletal Mount

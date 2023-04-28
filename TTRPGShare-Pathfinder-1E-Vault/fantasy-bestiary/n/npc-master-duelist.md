@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Master Duelist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 219
 ```
-# Description
+## Description
 Paragons of swordplay, these master duelists constantly search for foes to defeat in order to enhance their already formidable reputations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Master%20Duelist)
 ```encounter-table
 name: NPC Master Duelist

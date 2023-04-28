@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hive Larva Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 236
 desc_short: This mass of writhing, maggotlike creatures secretes a caustic odor
 ```
-# Description
+## Description
 Hive larvae are the first stage of the hive life cycle. These tenacious creatures render suitable hosts incapacitated and infest their bodies, transforming them into new hive creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hive%20Larva%20Swarm)
 ```encounter-table
 name: Hive Larva Swarm

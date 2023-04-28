@@ -1,25 +1,27 @@
 ---
-alias: Visualization of the Body
+aliases: [Visualization of the Body]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Visualization of the Body 
+## Visualization of the Body
 
 **source**:: Divine Anthology pg. 13  
 **school**:: transmutation (meditative)
 **level**:: arcanist 2, cleric 2, druid 2, magus 2, ranger 2, shaman 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, M (soothing incense worth 200 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 24 hours or until discharged
 
-### Description 
+### Description
 
 You focus your mind on one aspect of your body, aligning the energies within your body to enhance that element. Choose a single physical ability score (Constitution, Dexterity, or Strength). If you choose Strength or Dexterity, you gain a +5 bonus on skill checks associated with that ability score. If you choose Constitution, your maximum and current hit points increase by an amount equal to your Hit Dice.  
   

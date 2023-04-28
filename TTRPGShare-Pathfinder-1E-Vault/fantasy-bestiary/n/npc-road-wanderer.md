@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Road (Wanderer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
   - name: GameMastery Guide
     desc: 290
 ```
-# Description
+## Description
 A wanderer is a member of a band of traveling folk who ply the back roads and alleys of more settled lands, often chased by rumors of thievery or kidnapping, mending pots and knives and giving exotic performances that arouse the ire of the staid.
 
 Wanderers are often excellent entertainers, whether musicians, dancers, or actors, but can also serve as exotic cutpurses and charlatans.
 
 Wanderers often travel in troupes of four entertainers (CR 6), or in larger groups of a dozen or more (CR 9+). A lone wanderer might accompany a vagabond (CR 4) or hedge wizard (CR 5), while a troupe of five or six might work with a fortune teller (CR 8) or highwayman (CR 9).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Road%20(Wanderer))
 ```encounter-table
 name: NPC Road (Wanderer)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Gargoyle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 198
 desc_short: This living stone statue takes the shape of a horned and winged humanoid, and green acid drips from its mouth.
 ```
-# Description
+## Description
 A mythic gargoyle is a king or queen among its kind, usually gaining its power from an earth deity, a mythic gem embedded in its chest, or centuries of exposure to powerful magic. It has a distinct appearance, and other members of its wing slowly shift to match its look.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Gargoyle)
 ```encounter-table
 name: Mythic Gargoyle

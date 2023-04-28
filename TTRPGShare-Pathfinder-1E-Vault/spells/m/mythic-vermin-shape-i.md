@@ -1,25 +1,27 @@
 ---
-alias: Mythic Vermin Shape I
+aliases: [Mythic Vermin Shape I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Vermin Shape I
+## Mythic Vermin Shape I
 
 **source**:: Mythic Origins pg. 13  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, druid 3, hunter 3, investigator 4, magus 4, redmantisassassin 4, sorcerer 4, witch 3, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 When you cast this spell, you assume the form of any Small or Medium creature of the vermin type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, scent, and lunge. You don’t gain full immunity to mind-affecting effects, but you do gain a +2 resistance bonus on all saving throws against such effects.  
   

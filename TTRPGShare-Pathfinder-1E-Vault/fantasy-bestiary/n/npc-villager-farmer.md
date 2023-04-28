@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Villager (Farmer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,13 +39,13 @@ sources:
   - name: GameMastery Guide
     desc: 309
 ```
-# Description
+## Description
 Farmers are the backbone of any economy, producing the foodstuffs and livestock for the world. A typical farmer is fair-minded, sensible, and trustworthy, but suspicious of outsiders. A farmer can be a good source of local gossip, and knows the area around his farm like the back of his hand.
 
 Farmers in particularly dangerous areas might have a shabby suit of leather armor to don in times of trouble (AC 12), and often have an old spear or crossbow somewhere in the house, left over from militia training. A retired veteran farmer, or one who has had to defend his lands too many times from the creatures of the wilds, could have a level of warrior instead of commoner. Such a farmer has the same skills, but his hit points increase to 11, his Fortitude saves to +3, and his Base Attack Bonus to +1. He also normally has a suit of light armor and better weapons he can use to protect his house and family.
 
 Farmers are usually found in families of two to six (CR 1 to 4). Outside, a farmer might be found working with his three stout farmer sons in the fields (CR 3). In town, a farmer could be haggling with a shopkeep (CR 2), or three farmers may be conversing with a lovely barmaid at the local tavern (CR 3). A dozen farmers outfitted with torches and pitchforks (treat as spears) creates an angry peasant mob (CR 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Villager%20(Farmer))
 ```encounter-table
 name: NPC Villager (Farmer)

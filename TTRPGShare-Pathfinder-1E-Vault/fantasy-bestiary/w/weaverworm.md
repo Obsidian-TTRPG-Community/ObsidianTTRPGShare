@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Weaverworm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 86
 desc_short: The bloated white segments of a maggot’s body erupt in a torso of mixed feminine and insectile features. Pale humanoid skin and carapace meld together beneath a face with segmented eyes and mandibles chittering a song of discordant alien clicks and hisses, as overlong carapace claws weave cords of thick webbing between them.
 ```
-# Description
+## Description
 Foul servants of the goddess of disease and gluttony, weaverworms-or simply “weavers,” as they are often called-are terrifying abominations, combining the features of predatory insects, monstrously huge larvae, and deathly pale humanoids. Creations of Urgathoa forgotten by their cruel mistress long ago, these horrors seek out the dark places of the world, sowing murder and fear from the darkness, and all the while raising unnatural songs in praise of the goddess of gluttony.
 
 Weaverworms typically measure 18 feet long, though the most bloated weigh upward of a ton.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Weaverworm)
 ```encounter-table
 name: Weaverworm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Trickster Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: NPC Codex
     desc: 53
 ```
-# Description
+## Description
 The trickster priest serves the goddess of trickery and revenge, using guile and magic to manipulate others.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Trickster%20Priest)
 ```encounter-table
 name: NPC Trickster Priest

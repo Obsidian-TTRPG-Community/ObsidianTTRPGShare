@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Merfolk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 204
 desc_short: Slipping in and out of the crashing waves, this beautiful woman has the lower torso of a long, slender fish.
 ```
-# Description
+## Description
 From the waist up, merfolk bear the torsos of well-built humans and delicate features reminiscent of elves and other humanoids tied to the natural world. A merfolk’s lower body consists of the fins and tail of a great fish. Depending on the region, the scales of merfolk vary in hue, including gleaming silver, pale green, or even blue with stripes of yellow and crimson. Merfolk typically measure 6 to 8 feet in length and weigh over 200 pounds, with females being slightly smaller than males. Although amphibious, merfolk move only with difficulty on land and rarely wander more than a mile from sea.
 
 It is quite rare for a merfolk to make contact with a creature not of its kind. In fact, many go to great lengths to steer sailors away from their lands, even resorting to violence if necessary. Ancient accounts hint at merfolk protecting a terrible secret bound to the depths, and though no reports mention what this secret is, the lengths merfolk go to remain isolated from other races highlight the importance of this safeguard.
 
 While merfolk outwardly appear to be a beautiful and powerful race, some sages and seafarers whisper that degenerate and mutated merfolk roam the deepest, most isolated regions of the seas and oceans. Some evidence states that this offshoot fell to the worship of twisted and sinister powers lurking in the darkness below, while other theories include all merfolk in this sinister agenda, holding that even those merfolk who believe they control their own destinies are, in fact, merely unknowing puppets of a sinister and unknown master race deep under the sea.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Merfolk)
 ```encounter-table
 name: Merfolk

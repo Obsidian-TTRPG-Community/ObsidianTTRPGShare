@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tsaalgrend
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 88
 desc_short: Strange, translucent gas bladders carry this tangle of thorny, purple vines and clumps of mold through the air.
 ```
-# Description
+## Description
 A tsaalgrend is a predatory creature resembling a tangle of sturdy vines with jagged purple thorns. Its coloration is mottled with brown, green, and yellow mold patches that f lake and fall as the creature writhes through the air. The tsaalgrend’s vines barely conceal two translucent, gas-filled sacks that act as balloons, enabling it to f loat along above the ground. Two longer vines stretch from the creature’s center, allowing the tsaalgrend to snare its prey. An opening filled with rows of spiky thorns, positioned on the creature’s underside, serves as the creature’s mouth. This orifice constantly emits a wet, rancid stench and a wheezing sigh as warm gas escapes from its f loatation chambers.
 
  Tsaalgrends are complex, ambulatory fungi, but also symbiotically support a multitude of other molds, fungi, mosses, and epiphytes. The most powerful mold growing within tsaalgrends produces potent, hallucinogenic black spores. Tsaalgrends mainly use these f ine spores for hunting, and they are capable of ejecting spores in a wide area to stun prey. Any creature that breathes in the spores is immediately subject to an overwhelming terror response as its mind f loods with primal, animalistic fears. The victim’s breathing becomes quick and shallow, its heart rate rises dramatically, and nearby sounds become dull over the rush of blood in its ears. The creature’s mind begs to f lee, but its muscles simply seize tight. Most victims f ind this experience maddening enough that their frustration and panic heighten the actual chemical effects of the tsaalgrends’ spores.
@@ -59,7 +61,7 @@ A tsaalgrend is a predatory creature resembling a tangle of sturdy vines with ja
  Tsaalgrends display a limited intelligence-easily on par with apes- and can overcome simple puzzles and challenges. They communicate basic concepts with each other through the deliberate transfer of spores. These bouts of communication involve bursts of various colors and scents, granting tsaalgrends with large and more varied symbiotic colonies something akin to leadership roles. Most often, tsaalgrends “speak” to each other to coordinate hunting efforts. The plants also respond to some spoken language, though they lack a well-developed sense of hearing and show diff iculty differentiating any but the simplest words and phrases. Several distinct patches of stubby 1- or 2-inch growths track light and movement, essentially serving as eyes.
 
  A tsaalgrend typically grows to be over 3 feet long, and weighs about 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tsaalgrend)
 ```encounter-table
 name: Tsaalgrend

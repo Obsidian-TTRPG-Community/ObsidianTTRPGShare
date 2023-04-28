@@ -1,19 +1,21 @@
 ---
-alias: Mythic Grease
+aliases: [Mythic Grease]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Grease
+## Mythic Grease
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: conjuration (creation)
 **level**:: arcanist 1, bard 1, magus 1, mesmerist 1, skald 1, sorcerer 1, summoner 1, summoner (unchained) 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (butter)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one object or 10-ft. square  
@@ -21,7 +23,7 @@ alias: Mythic Grease
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A *grease* spell covers a solid surface with a layer of slippery grease. Any creature in the area when the spell is cast must make a successful Reflex save or fall. A creature can walk within or through the area of grease at half normal speed with a DC 10 Acrobatics check. Failure means it can't move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Acrobatics skill for details). Creatures that do not move on their turn do not need to make this check and are not considered flat-footed.  
   

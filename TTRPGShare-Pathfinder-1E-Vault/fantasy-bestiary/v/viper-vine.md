@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Viper Vine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 279
 desc_short: Large tendrils ending in tiny claws unfurl from the central stalk of this plant, which rises like a serpent ready to strike.
 ```
-# Description
+## Description
 A voracious, flesh-eating carnivore, the viper vine has a single enormous bloom arising from a thick, leafy tangle of snake-like vines. When the plant senses the approach of suitable prey through its sensitive, shallowly buried root system, it rises up like an agitated snake and unfurls its brightly colored bloom, an act that releases a cloud of mind-numbing pollen. While stories speaking of the plant’s ability to lure prey into its clutches by virtue of its swaying motion persist, this effect is in fact created by this invisible, odorless pollen cloud.
 
 Since viper vines gain nourishment through the consumption of creatures rather than through moisture and soil, they have developed rudimentary locomotion and are able to drag themselves along the ground with their tentacle-like root system. They even possess a form of rudimentary sentience, allowing them to not only discern differences in prey and make limited tactical decisions, but also to avoid creatures that are particularly large or dangerous looking. The area around the hunting grounds of these predators is often strewn with the remains of victims, and it is not unusual to find the rotting corpses of wild animals, ill-fated adventurers, and even giants in their immediate vicinity, along with a scattering of incidental treasure left behind by the plant’s victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Viper%20Vine)
 ```encounter-table
 name: Viper Vine

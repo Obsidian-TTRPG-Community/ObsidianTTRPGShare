@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ancient Vortex Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: Bestiary 4
     desc: 75
 ```
-# Description
+## Description
 Vortex dragons are the undisputed masters of travel across the galaxies, serving as messengers and observers for the greatest outer dragons and godlike entities in the great beyond.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ancient%20Vortex%20Dragon)
 ```encounter-table
 name: Ancient Vortex Dragon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hastur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,9 +82,9 @@ sources:
     desc: 140
 desc_short: This entity appears to be a skeletal human form hidden under tattered yellow robes, but it moves with unsettling, inhuman grace.
 ```
-# Description
+## Description
 Hastur is the most mysterious of the Great Old Ones. In fact, the entity known as Hastur might actually be an Outer God. The physical manifestation of this entity is known as the King in Yellow, and though most consider this creature-a vaguely human-shaped figure draped in a yellow cloak-to be synonymous with Hastur himself, many scholars believe that the King in Yellow is nothing more than an avatar used by the true Hastur to move among the denizens of the physical world. Hastur himself is said to dwell upon a distant world called Carcosa on the shores of the monstrous Lake of Hali, and his power on a planet is strongest when the baleful light of Carcosa’s star is visible in that planet’s night sky.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hastur)
 ```encounter-table
 name: Hastur

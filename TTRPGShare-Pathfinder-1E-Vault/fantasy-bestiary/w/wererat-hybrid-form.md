@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wererat (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 197
 desc_short: This hunched creature looks like a human in studded leather, but fur covers its body. Its face is rat-like, and it has a long, naked tail.
 ```
-# Description
+## Description
 Natural wererats tend to be short and wiry, with constantly darting eyes and frequent nervous twitches. Males often have thin, ragged moustaches.
 
 Wererats prefer cities where they can blend in with the humanoid and rat population. Their abilities make them especially good at thieving and spying, and in many cities the thieves’ guild employs numerous wererat members.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wererat%20(Hybrid%20Form))
 ```encounter-table
 name: Wererat (Hybrid Form)

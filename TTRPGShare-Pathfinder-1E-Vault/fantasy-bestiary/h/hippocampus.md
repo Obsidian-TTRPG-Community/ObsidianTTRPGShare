@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hippocampus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 155
 desc_short: This creature has the foreparts of a horse and the hindquarters of a fish. Its forelegs end in splayed fins rather than hooves.
 ```
-# Description
+## Description
 A hippocampus’s scales vary in color from ivory to deep green to cerulean blue with shades of silver. Aquatic races such as merfolk and locathahs often train hippocampi as steeds or as draft animals used to pull cunningly designed underwater carriages. In the wild, hippocampi prefer to dwell in relatively shallow waters where their favorite food (seaweed and kelp) is more plentiful and larger predators are less common. These creatures often travel in large schools, analogous to free-roaming herds of wild horses on the surface world.
 
 The hippocampus is relatively easily trained-the amount of work and cost it requires is equivalent to what it takes to train a horse. As armor impacts the creature’s swim speed, those who train hippocampi for war rarely bother to put barding on these creatures-when they do, they generally opt for the lightest armor, such as padded or leather barding. Mounted combat on a hippocampus is similar to fighting while riding a horse, although the hippocampus is a clumsy creature on land and cannot move at all out of the water if it has a rider weighing it down. Although a hippocampus has only two front legs, determine its carrying capacity as if it were a quadruped. Thus, a light load for a hippocampus is up to 228 pounds. Medium loads are up to 459 pounds, and heavy loads up to 690 pounds.
 
 A number of variant species of hippocampus exist, although the majority of these species differ from the creature presented here only in color and feat choice. Common feats other than Endurance for alternative hippocampus species are Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Swim), and Toughness. A few species of hippocampus are heartier and tougher all around-these creatures are generally those found in colder waters and are known as polar hippocampi. A polar hippocampus has the advanced creature simple template. Most impressive of all are hippocampi that dwell in the deeper seas. These creatures, known as giant hippocampi, are much larger-to generate stats for a giant hippocampus, advance the standard hippocampus to Huge size and increase its Hit Dice to 10. A giant hippocampus is CR 8.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hippocampus)
 ```encounter-table
 name: Hippocampus

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Isitoq
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 159
 desc_short: This bloodshot eyeball trails strands of bloody nerves that fan out like flapping wings.
 ```
-# Description
+## Description
 Awkwardly flapping through the air, this creature constantly weeps salty tears, leaving a dripping trail behind it as it flies. Most often encountered in the company of necromancers or powerful undead creatures capable of casting spells, an isitoq serves as a companion, spy, or sometimes even a familiar. Its creator normally uses it as a sentinel, sending it flying through the halls of its laboratory, lair, or dungeon complex to watch for intruders or spy on guests and test subjects. As an isitoq’s creator can see through the creature’s single eye, the creator can keep watch over her domain without having to leave an inner sanctum or other heavily-guarded area.
 
 Though the isitoq’s attack is itself weak, any creature struck by the floating eyeball’s wings sees the last moments of life experienced by the creature from which the isitoq was created. This horror-filled vision is potent with emotion, making the victim feel as if it’s experiencing its own death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Isitoq)
 ```encounter-table
 name: Isitoq

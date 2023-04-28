@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tanaq Mammoth-Eater, Taiga Giant Shaman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 62
 desc_short: This towering, gray-skinned giant holds a massive spear, its crimson haft sporting a head of barbed and blackened stone.
 ```
-# Description
+## Description
 Tanaq Mammoth-Eater is a savage shaman among his clan of taiga giants, and his prowess in both the arctic cold and the towering heights of the Tusks proves the title was rightfully earned. A century ago, he led the tribe from their previous home in Red Rune Canyon in the Realm of the Mammoth Lords when their preferred mammoth-hunting grounds started to reek foully of demonic taint. He wields his father’s bloodstone impaler, one of the first of its kind crafted by his people, and his hatred for the Kellid raiders who years ago slew his family still burns fiercely within him.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tanaq%20Mammoth-Eater%2C%20Taiga%20Giant%20Shaman)
 ```encounter-table
 name: Tanaq Mammoth-Eater, Taiga Giant Shaman

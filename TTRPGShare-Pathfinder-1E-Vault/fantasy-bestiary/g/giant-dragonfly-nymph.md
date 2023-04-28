@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Dragonfly Nymph
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Bestiary 2
     desc: 105
 ```
-# Description
+## Description
 Giant dragonflies lay clutches of eggs in swampy terrain or areas of standing water. Their young, called nymphs, voraciously eat carrion and small prey, growing and maturing rapidly until they sprout fully functional wings and become adult dragonflies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Dragonfly%20Nymph)
 ```encounter-table
 name: Giant Dragonfly Nymph

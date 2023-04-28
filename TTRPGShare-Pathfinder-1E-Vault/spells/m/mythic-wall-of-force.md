@@ -1,19 +1,21 @@
 ---
-alias: Mythic Wall of Force
+aliases: [Mythic Wall of Force]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Wall of Force
+## Mythic Wall of Force
 
 **source**:: Mythic Adventures pg. 111  
 **school**:: evocation (force)
 **level**:: arcanist 5, magus 5, occultist 5, psychic 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (powdered quartz)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: wall whose area is up to one 10-ft. square/level  
@@ -21,7 +23,7 @@ alias: Mythic Wall of Force
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A *wall of force* creates an invisible wall of pure force. The wall cannot move and is not easily destroyed. A *wall of force* is immune to *dispel magic*, although a *mage's disjunction* can still dispel it. A *wall of force* can be damaged by spells as normal, except for *disintegrate*, which automatically destroys it. It can be damaged by weapons and supernatural abilities, but a *wall of force* has hardness 30 and a number of hit points equal to 20 per caster level. Contact with a *sphere of annihilation* or *rod of cancellation* instantly destroys a *wall of force*.  
   

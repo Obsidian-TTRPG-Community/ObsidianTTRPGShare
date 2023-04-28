@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kuru
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 51
 desc_short: Disturbing tribal tattoos cover this red-eyed humanoid’s face, and his jagged teeth appear to have been filed down to points.
 ```
-# Description
+## Description
 Kuru are savage natives of the Shackles, dreadfully transformed by their loathsome “goddess,” the Blood Queen. While most kuru live in small tribal villages in or around Ghol-Gan ruins, some choose to abandon their cultic faith and seek adventure beyond the islands from which they hail, though such individuals are extremely rare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kuru)
 ```encounter-table
 name: Kuru

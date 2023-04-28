@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quintessence Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 142
 desc_short: This partially humanoid creature appears to be carved of smoky glass. Ghostly, screaming faces swirl within its immense body.
 ```
-# Description
+## Description
 Quintessence is the raw material that makes up all matter and life found on the Outer Planes. With its infinite potential for shape and state, it should come as no surprise that raw quintessence makes an outstanding material (in terms of both quality and price) for the construction of golems. A quintessence golem is among the greatest creations a mortal spellcaster can craft-while not technically alive, the quintessence golem is made of material that aches to live, trapped in a metaphysical state between mortal and immortal life. The quintessence that makes up these golems actually acts as a siphon of sorts that encourages souls to shed their mortal frame and slip into the soulstream to seek their judgment in the afterlife. This fact makes these golems particularly dangerous and quite well suited for the guardianship of powerful temples or graveyards.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quintessence%20Golem)
 ```encounter-table
 name: Quintessence Golem

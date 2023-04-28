@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Recruit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
   - name: NPC Codex
     desc: 266
 ```
-# Description
+## Description
 Filled with bluster and swagger, a recruit lacks the discipline of an experienced soldier and can quickly lose resolve if he finds himself in over his head. A recruit works best in a large group under a strong leader who can keep all the soldiers in line and working together.
 
 Left to his own devices, a recruit becomes bored and looks for entertainments such as drinking and gambling to pass the time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Recruit)
 ```encounter-table
 name: NPC Recruit

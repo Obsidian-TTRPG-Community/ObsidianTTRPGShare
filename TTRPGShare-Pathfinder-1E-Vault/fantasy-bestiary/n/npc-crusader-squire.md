@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Crusader (Squire)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
   - name: GameMastery Guide
     desc: 268
 ```
-# Description
+## Description
 Squires are aspiring knights, robust youths who train in skill at arms but also busy themselves with tending and caring for their master’s gear, keeping it sharp, clean, and ready to use. Squires also learn the courtly arts and etiquette. After proving their loyalty and skill in battle, squires usually become knights. In lands where knighthood is only granted by a king or other monarch, some squires remain so for their entire lives.
 
 Squires can be used as heralds, standardbearers, scouts, or royal messengers. They might also be used as skirmishers or light cavalry, or perhaps as the guards of a minor noble’s manor house. A group of squires could also serve as a noble hunting party.
@@ -47,7 +49,7 @@ Squires can be used as heralds, standardbearers, scouts, or royal messengers. Th
 Simply giving a squire heavier armor can make a more formidable mounted combatant, while replacing the pick with a scimitar or longsword creates a nomadic horselord warrior.
 
 A squire often accompanies a knight (CR 7), or a pair of squires may accompany a noble scion (CR 3). Six squires can make a patrol of scouts or a hunting party (CR 3). Three squires can serve as outriders for a caravan, along with three caravan guards (CR 5), or six squires might work with a highwayman (CR 7).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Crusader%20(Squire))
 ```encounter-table
 name: NPC Crusader (Squire)

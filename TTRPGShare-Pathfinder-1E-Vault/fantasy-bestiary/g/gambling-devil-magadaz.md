@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gambling Devil (Magadaz)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 84
 desc_short: This creature resembles a man crafted entirely of gold. Some of its features seem warped, as if the creature had been melted and then reformed.
 ```
-# Description
+## Description
 Gambling devils, also known as magadazes, are born from the damned souls of mortal gamblers, bookies, and even moneylenders. Although they can be found throughout Hell and even on the Material Plane, they are most numerous in Erebus, the third layer of Hell, where they use their immense luck and cunning to serve the archdevil Mammon, Hell’s accountant and treasurer. In addition to their pathological love of and skill at gambling, magadazes are known for their willingness to provide ledgers claiming anything that their customers-usually diabolists or other foolish souls-might desire. Common requests include paperwork proving clients’ destitution or statements showing that their vaults overflow with gold and jewels.
 
 To pay for this creative accounting, the client must simply engage the gambling devil in a game of chance. Sometimes these competitions are even fair (or as fair as any such game can be), but a gambling devil’s unique skills give even the toss of a coin poor odds. This, coupled with a magadaz’s ability to encourage risk-taking, means that gambling devils have caused many mortals to lose everything they own. Gambling with magadazes almost always seems fair until the devils miraculously win at the last moment.
 
 Some believe that magadazes are extensions of Mammon’s reach, tempting mortals away from their wealth and siphoning it into Erebus’s innumerable vaults. But gambling devils also simply take pleasure in manipulating chaos to force probability toward their own advantage-or that of their patron. Gambling devils vary widely in shape and size, but they stand 5-1/2 feet tall on average. Their incredible density, however, results in them weighing an average of 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gambling%20Devil%20(Magadaz))
 ```encounter-table
 name: Gambling Devil (Magadaz)

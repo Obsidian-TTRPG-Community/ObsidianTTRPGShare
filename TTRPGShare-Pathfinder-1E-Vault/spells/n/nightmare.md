@@ -1,19 +1,21 @@
 ---
-alias: Nightmare
+aliases: [Nightmare]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Nightmare 
+## Nightmare
 
 **source**:: PRPG Core Rulebook pg. 316  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: alchemist 5, arcanist 5, bard 5, investigator 5, medium 4, mesmerist 5, psychic 5, skald 5, sorcerer 5, spiritualist 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Nightmare
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You send a hideous and unsettling phantasmal vision to a specific creature that you name or otherwise specifically designate.  
   
@@ -57,7 +59,7 @@ You are defenseless, both physically and mentally, while in the trance. (You alw
   
 Creatures who don't sleep (such as outsiders) or dream are immune to this spell.
 
-## Mythic Nightmare 
+## Mythic Nightmare
 
 **source**:: Mythic Adventures pg. 102  
 The spell’s damage increases to 4d6 points of damage, and the target is also shaken for 24 hours.  

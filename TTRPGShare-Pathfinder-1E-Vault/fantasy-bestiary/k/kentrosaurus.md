@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kentrosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 95
 desc_short: This quadrupedal dinosaur has two rows of dorsal spikes, a spiked tail, and two more spikes projecting from its shoulders.
 ```
-# Description
+## Description
 The kentrosaurus is a smaller relative of the stegosaurus, but features large bony spikes on its shoulders. A typical kentrosaurus measures 15 feet long and weighs 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kentrosaurus)
 ```encounter-table
 name: Kentrosaurus

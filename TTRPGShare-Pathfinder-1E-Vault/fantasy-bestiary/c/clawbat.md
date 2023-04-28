@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clawbat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 82
 desc_short: A leathery piece of skin stretched across a frame of joints and bony knobs beats awkwardly through the air. Eyes glare from the folds of its thick wings, writhing tentacles surround its sucker-like maw, and a long, thin tongue darts forth seemingly at random to lash the air around it.
 ```
-# Description
+## Description
 Clawbats, or einchadu, as they’re known to the tribes of greater Iobaria, haunt the desolate expanses of northeastern Avistan and the rugged lands beyond. Swarming forth from their shadowy dens to hunt by night, these strange predators thirst for blood, scavenging from the victims of greater nocturnal hunters and stalking those foolish enough not to fear dangers in the dark. Drawn by the scent of spilled blood, clawbats fearlessly follow deadly beasts, and more than one traveler has narrowly escaped a predator’s nearly lethal ambush only to find his luck change as a swarm of wings and eyes descend upon him.
 
 The span of an average clawbat’s dual pairs of wings stretches 3 feet wide, lifting aloft rubbery bodies weighing 2 to 4 pounds. Tales of more monstrous clawbats, with wings that blot out the stars as they swoop away with children and small animals, also pass through the civilized lands of Iobaria. Such overgrown clawbats might be constructed by making use of the giant creature simple template.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clawbat)
 ```encounter-table
 name: Clawbat

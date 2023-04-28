@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Llorona
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 181
 desc_short: Weeping and wearing a damp funeral dress, this ghostly woman carries an air of menace and overwhelming despair about her.
 ```
-# Description
+## Description
 Lloronas are vengeful spirits that roam riversides, shorelines, and swamps in search of victims. They form as the result of shame and sorrow paired with a tragic drowning of a child, whether it be accidental or murderously intentional, and they want others to share in their pain and misery. Most encounters with a llorona begin as the victim hears mournful sobbing cries in the distance. Some victims she simply fills with sorrow, hoping that the experience will scar their minds or cause them to correct their ways, but others she marks for death. If a victim isn’t compelled to drown himself upon hearing the llorona’s wails, she snatches him up and drags him into the water so she can plunge him beneath the surface until death brings them both sweet silence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Llorona)
 ```encounter-table
 name: Llorona

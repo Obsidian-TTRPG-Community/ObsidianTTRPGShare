@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bat Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 30
 desc_short: Hundreds of high-pitched squeaks fill the air as a mass of small, carnivorous bats surges forth, all of them hungry for blood.
 ```
-# Description
+## Description
 Bat swarms dwell in large caves, ruins, or even city sewers-anywhere they can find darkness to hide in during the day and a supply of food to feast upon at night. They are only encountered outside in a group at dawn or dusk, or when they have been startled and forced to flee their lairs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bat%20Swarm)
 ```encounter-table
 name: Bat Swarm

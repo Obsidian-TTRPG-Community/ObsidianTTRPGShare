@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juvenile Rukh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: Pathfinder No. 21: The Jackal's Price
     desc: 84
 ```
-# Description
+## Description
 Rukhs are a gigantic, divergent species of foul-tempered, vulture-like rocs, most recognizable by their two featherless heads. In addition to having two deadly heads to feed, these ravenous avians prove exceptionally alert in their endless hunt for food-both living beasts and carrion. These repulsive birds of prey typically glide high above the desert, watching for creatures that might provide a suitable amount of food for them and their young. Horses, camels, and humanoids passing below often attract their attention, though they are careful to avoid creatures of roughly the same size or that most likely would be too powerful for them to best.
 
 A typical adult rukh stands nearly 35 feet tall with a wingspawn of over 60 feet. Although often starving, they can weigh upward of 800 pounds. Juvenile rukhs usually stand about 10 feet tall, with a relatively small wingspan of near 18 feet. Most weigh about 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juvenile%20Rukh)
 ```encounter-table
 name: Juvenile Rukh

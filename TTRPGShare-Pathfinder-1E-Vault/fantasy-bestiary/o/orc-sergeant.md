@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc Sergeant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Monster Codex
     desc: 166
 ```
-# Description
+## Description
 The leaders of small orc warbands aren’t much smarter or more cunning than the rank-and-file orc warriors they lead-but just a small advantage in strength is enough to let them take the best shares of treasure and slaves and lord their dominance over their fellow orcs. Orc commanders enforce discipline through intimidation and are not afraid to lead underlings to their deaths.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc%20Sergeant)
 ```encounter-table
 name: Orc Sergeant

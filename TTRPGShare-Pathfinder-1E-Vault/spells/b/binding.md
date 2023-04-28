@@ -1,19 +1,21 @@
 ---
-alias: Binding
+aliases: [Binding]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Binding 
+## Binding
 
 **source**:: PRPG Core Rulebook pg. 248  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 8, psychic 8, sorcerer 8, summoner 6, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (opals worth 500 gp per HD of the target creature, plus other components as specified below)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Binding
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A *binding* spell creates a magical restraint to hold a creature. The target gets an initial saving throw only if its Hit Dice equal at least half your caster level.  
   

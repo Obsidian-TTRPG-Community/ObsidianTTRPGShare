@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cairn Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 182
 desc_short: Pallid and horribly gaunt, this enormous but emaciated dragonlike creature has two forearms and no wings.
 ```
-# Description
+## Description
 Cairn linnorms prefer to dwell in necropolises, amid reaches of burial mounds, or in caverns below the scorched earth of legendary battlefields. These linnorms particularly relish the flavor of undead flesh-while they cannot consume incorporeal undead, regions they haunt are typically barren of corporeal undead not canny enough to avoid the cairn linnorm’s ravenous appetite. An incredibly powerful undead creature might use a cairn linnorm as a guardian, manipulating the dragon while it selects a cairn or tomb well within the linnorm’s territory. While cairn linnorms will not hesitate to feed on undead creatures they encounter, some ancient superstition shared by all of their kind prevents them from actually entering a tomb or other enclosed burial site unless granted permission by the tomb’s undead denizens or a priest devoted to the religion associated with the site. Likewise, a cairn linnorm somehow caught within a tomb large enough to contain it prefers not to leave without securing similar permission to do so. These limitations are purely psychological, and if pressed (such as by an enemy seeking to use a tomb entrance as a defense), a cairn linnorm can break such restrictions.
 
 A cairn linnorm is 60 feet long and weighs 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cairn%20Linnorm)
 ```encounter-table
 name: Cairn Linnorm

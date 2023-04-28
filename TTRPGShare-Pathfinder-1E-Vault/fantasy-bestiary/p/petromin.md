@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Petromin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 82
 desc_short: This sleek, furred creature has flaps of skin stretching between its limbs and its body.
 ```
-# Description
+## Description
 Petromins, also known as azure gliders, are desert cliff-top dwellers that glide down to snatch prey. As a defense, their coloration is countershaded; the blue, sky-like coloration on their undersides makes them hard to notice from the ground, while their brown fur helps them blend into desert vistas below, hiding them from predatory birds. The fur of petromins is awash in sapphire-blue bioluminescence, unnoticeable during the day but distinctive from dusk until dawn. Petromins have control over this natural light, which allows them to attract the large insects on which they feed. A petromin measures 30 inches in length (including a 6-inchlong tail) and weighs 5 pounds. A spellcaster can select a petromin as a familiar, and the master gains a +3 bonus on Stealth checks as a special ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Petromin)
 ```encounter-table
 name: Petromin

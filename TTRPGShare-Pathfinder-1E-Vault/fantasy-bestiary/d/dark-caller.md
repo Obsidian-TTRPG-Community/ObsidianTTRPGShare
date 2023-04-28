@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Caller
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 42
 desc_short: Wrapped in tatters of dark musty robes, this humanoid figure weaves malevolent magic.
 ```
-# Description
+## Description
 Dark callers hold a position in dark folk society similar to that of lay priests. Dark callers are named for their role in summoning otherworldly creatures called owbs (see page 210) to oversee important rites in their shadowed communities deep underground. Dark callers perform rituals that bring these creatures forth to preside over all manner of ceremonies the dark folk perform, but the most important is the blanching. When dark folk are born, they are exposed to the sinister touch of the owb’s curse of darkness ability, which saps all color and light from the infant dark folk. It’s during this ritual that the infant’s potential is judged. From that moment on, the youngling grows into one of the various types of dark folk.
 
 Dark callers are the least physically malformed of the dark folk, but their minds are more twisted than those of their cousins. They’re cruel and inscrutable to most, and they lead their kind alongside dark stalkers, controlling vast underground communities of these strange humanoids. In many cases, one dark stalker and one dark caller lead a clan.
@@ -72,7 +74,7 @@ Dark callers are the least physically malformed of the dark folk, but their mind
 A dark caller is highly superstitious, seeing omens in all things. He constantly performs strange rituals whose results are interpreted only by him, then passed to the dark stalker with he’s paired with in leadership.
 
 Dark callers are typically 6 feet tall and weigh slightly under 100 pounds. Despite their lanky frames, they’re quite strong, though they avoid physical confrontation. Instead, they’ll use their limited authority to command dark creepers to fight for them, or at least distract attackers while the dark callers cast spells.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Caller)
 ```encounter-table
 name: Dark Caller

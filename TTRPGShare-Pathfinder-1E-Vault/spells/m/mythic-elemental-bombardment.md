@@ -1,19 +1,21 @@
 ---
-alias: Mythic Elemental Bombardment
+aliases: [Mythic Elemental Bombardment]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Elemental Bombardment
+## Mythic Elemental Bombardment
 
 **source**:: Mythic Origins pg. 14  
 **school**:: conjuration (summoning) \[see text\]
 **level**:: arcanist 7, druid 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: one or more summoned elementals  
@@ -21,7 +23,7 @@ alias: Mythic Elemental Bombardment
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You summon elementals from their elemental planes and hurl them onto your enemies with great force. You must have line of effect to a point at least 60 feet above your intended targets and within the spell’s range. You can summon one greater elemental, two Huge elementals, four Large elementals, or eight Medium elementals. You aim the elementals at targets within 60 feet of each other, no more than one elemental per target.  
   

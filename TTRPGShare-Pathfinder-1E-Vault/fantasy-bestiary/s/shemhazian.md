@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shemhazian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 86
 desc_short: This enormous, bestial demon combines the worst aspects of a bear, a mantis, a wolf, and a reptilian humanoid. 
 ```
-# Description
+## Description
 Although nearly all the horrors of the Abyss prey upon one another in an endless, eternal bloodbath, shemhazians are predators among predators. They are more intimidating and physically powerful than most demons, combining the features of numerous insectile and bestial hunters into one massive, deadly form. Although they don’t require sustenance, shemhazians take perverse delight in mutilating and eating their victims. 
 
 A shemhazian stands 35 feet tall and weighs 12,000 pounds. They form from the sinful souls of torturers and those who enjoyed mutilating living victims to death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shemhazian)
 ```encounter-table
 name: Shemhazian

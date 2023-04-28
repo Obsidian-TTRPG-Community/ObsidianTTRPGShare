@@ -1,19 +1,21 @@
 ---
-alias: Detect Relations
+aliases: [Detect Relations]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Relations 
+## Detect Relations
 
 **source**:: Quests and Campaigns pg. 28  
 **school**:: divination
 **level**:: bard 2, cleric 2, inquisitor 2, oracle 2, skald 2, warpriest 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (a seed)
 
-### Effect 
+### Effect
 
 **range**:: N/A  
 **target**:: one creature per level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Detect Relations
 **saving-throw**:: Will negates, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can determine whether or not two or more creatures are related by blood. The amount of information gleaned depends on how long you study a particular area or set of subjects.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spellgorger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 88
 desc_short: This ten-foot-diameter floating globe of shuddering violet sludge has a tangle of dripping tendrils and is encircled by strange arcane energies.
 ```
-# Description
+## Description
 Spellgorgers are among the more terrifying threats that face an adventuring spellcaster-shapeless entities that feed on magic. Rarely encountered in large numbers, spellgorgers are most common in remote reaches of the Darklands, where they often prey upon the numerous spellcasting races that dwell below, such as the drow, duergar, derro, and svirfneblin. A spellgorger prefers the “taste” of arcane magic, but can feed on divine and psychic magic as well.
 
 A spellgorger resembles a floating sphere of violet sludge that exudes a slithery forest of fine tendrils and sparks of magical energy. A typical specimen is 10 feet in diameter and weighs 1,000 pounds, but spellgorgers’ supernatural ability to fly and swift reflexes belie their massive bulk and weight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spellgorger)
 ```encounter-table
 name: Spellgorger

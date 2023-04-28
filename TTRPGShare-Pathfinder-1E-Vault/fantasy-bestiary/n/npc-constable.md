@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Constable
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 259
 ```
-# Description
+## Description
 A gruff, no-nonsense sort, a constable prefers a stern warning to violence, but doesn’t hesitate to crack a belligerent nuisance over the head.
 
 Depending on the size of the town she protects, the constable’s minions may include guards (warriors 3), a larger number of recruits (warriors 1), and perhaps a tavern champion (warrior 5). In a smaller community, she may only be able to gather a group of pig farmers (commoners 2) and perhaps some miners (commoners 4) to serve as a militia. Unless dealing with monsters, the constable’s job is to arrest and detain, not kill.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Constable)
 ```encounter-table
 name: NPC Constable

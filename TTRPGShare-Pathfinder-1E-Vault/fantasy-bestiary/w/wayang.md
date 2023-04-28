@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wayang
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 274
 desc_short: Spiralling patterns cover this shadowy humanoid’s skin, and its black hair trails away in wisps.
 ```
-# Description
+## Description
 Originating from the Shadow Plane, wayangs are pixie-like in stature with extremely gangly limbs and skin the color of deep shadow. They follow a philosophy known as “The Dissolution,” which teaches that in passing they again merge into shadow.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wayang)
 ```encounter-table
 name: Wayang

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pixie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 228
 desc_short: This tiny, whimsical-looking humanoid darts about swiftly on wildly colored gossamer wings.
 ```
-# Description
+## Description
 Perhaps the best-known and most elusive of all fey creatures, pixies live in the deepest, most pristine forests, but their insatiable curiosity often leads them far from home. Most pixies stand just over 2 feet tall-though they typically fly about the eye level of creatures they’re conversing with in order to maintain eye contact-and weigh about 30 pounds. Pixies talk quickly and easily become overexcited.
 
 Strange beings both of and beyond the natural world, pixies have magic that occasionally favors them in strange ways. For example, one out of every 10 pixies exhibits an additional spell-like ability that it can use once per day (caster level 8th), usually baleful polymorph, beast shape II (Tiny creatures only), or even a powerful spell like irresistible dance. Alternatively, you can change the types of effects that pixie dust can have on arrows-as a general rule, these alternate effects should be mind-affecting effects. Confusion, fear, hideous laughter, and hypnotism are all good choices for variant pixie arrow powers. You should take care when assigning alternate powers to a pixie, though, since doing so can create a threat that far exceeds what their physical statistics (and relatively low CR) can logically support.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pixie)
 ```encounter-table
 name: Pixie

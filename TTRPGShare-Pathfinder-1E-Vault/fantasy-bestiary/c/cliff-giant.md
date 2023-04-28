@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cliff Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 126
 desc_short: This giant has a majestic presence and stoic bearing. His rocky, red-brown skin is shot through with streaks of shimmering color.
 ```
-# Description
+## Description
 Cliff giants are benevolent but reclusive creatures that dwell in deserts and badlands, carving out snug cliffside caves or building stone huts on top of mesas. Broad-shouldered, with features as sharp as chiseled stone, cliff giants can reach a height of 14 feet and weigh over 1,300 pounds. As if sculpted from layers of stone, cliff giants’ skin color is a deep reddish brown, with quartz-like streaks or veins of color that crisscross in shades of ivory, dull yellow, or bright white. Cliff giants live up to 800 years old.
 
 Although kind, cliff giants prefer solitude and spend their lives in seclusion from other humanoids to form a stronger bond with the natural world. This bond often leads them to see large expanses of land as their responsibility and all living things within as their charges. Many track cycles of the weather, animal migrations, and the lairs of dangerous monsters by painting elaborate pictograms on high cliff walls.
@@ -70,7 +72,7 @@ Although kind, cliff giants prefer solitude and spend their lives in seclusion f
 Cliff giant family units stay together for about a decade, after which time children live with one parent or the other until fully grown and able to survive on their own (at about 20 years old). Marital bonds between cliff giants are strong despite their inclination for solitude; a married pair of cliff giants may raise and bear children in this way once every century, and when living apart they communicate with each other on a monthly basis using animal messengers.
 
 Cliff giants respect their elders, and some pairs living together are an adult giant with an old parent or grandparent.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cliff%20Giant)
 ```encounter-table
 name: Cliff Giant

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Atamahuta
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 86
 desc_short: This large humanoid creature has two heads, one brutishlooking, the other with three eyes and gems and tattoos decorating its forehead.
 ```
-# Description
+## Description
 Atamahuta are immensely strong oni spirits who have donned the physical guise of ettins. Combining oni’s trademark guile with ettins’ unadulterated brawn, atamahuta use their two-headed forms to inf lict as much damage as possible by fusing their arcane powers with their distinctive melee combat style.
 
 Because of the raw power they infuse into the bodies they inhabit, atamahuta are slightly bigger than normal ettins. An atamahuta is 14 feet tall and weighs 5,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Atamahuta)
 ```encounter-table
 name: Atamahuta

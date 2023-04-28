@@ -1,19 +1,21 @@
 ---
-alias: Numerological Resistance
+aliases: [Numerological Resistance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Numerological Resistance 
+## Numerological Resistance
 
 **source**:: Occult Mysteries pg. 51  
 **school**:: abjuration
 **level**:: arcanist 3, cleric 3, oracle 3, sorcerer 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: see text  
@@ -21,7 +23,7 @@ alias: Numerological Resistance
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Numerological resistance* allows numerologists to use the Path of Numbers to grant their allies resilience in the face of elemental dangers. Roll 5d8; this is your dice pool. You will use each die in the pool exactly once to customize *numerological resistance*.  
   

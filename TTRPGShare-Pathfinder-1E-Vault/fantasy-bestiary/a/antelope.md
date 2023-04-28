@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Antelope
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
     desc: 147
 desc_short: This graceful animal has long slender legs and a pair of sharp, sturdy horns arching back from its head.
 ```
-# Description
+## Description
 A typical antelope stands a bit less than 3 feet at the shoulder, measures 4 feet in length, and weighs 60 pounds. In some species, both males and females have horns; in others, only males. Females that lack horns have the same statistics but lack an effective attack.
 
 Antelopes graze in large herds, ever on the watch for predators. Even the hint of a threat can send the whole herd springing away toward safer pastures. Antelopes rarely fight except among themselves during mating season or when cornered by a predator.
@@ -47,7 +49,7 @@ Antelopes graze in large herds, ever on the watch for predators. Even the hint o
 The statistics presented above work well not only for numerous species of antelope, but also for smaller-sized, deerlike herbivores found throughout the world.
 
 Of course, not all antelopes are Small. You can generate statistics for larger antelope species, such as elands or kudus, by advancing the antelope presented above by 2 Hit Dice and increasing its size category to Medium. All antelopes of this size are CR 1 creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Antelope)
 ```encounter-table
 name: Antelope

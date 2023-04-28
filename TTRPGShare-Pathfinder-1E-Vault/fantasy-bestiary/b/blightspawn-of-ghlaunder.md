@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blightspawn of Ghlaunder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 29
 desc_short: This human-sized, mosquito-like creature has a long, flexible proboscis that ends in a murderous stinger.
 ```
-# Description
+## Description
 The blightspawn of Ghlaunder are found most often in places where the Gossamer King’s cult is strong, for these creatures must gestate in the body of one of the parasite god’s true believers. To the faithful of Ghlaunder, being host to an immature blightspawn is a great honor, for when the monster bursts from the body of its host, the host’s consciousness lives on in some way in the blightspawn’s mind, almost as if the host had reincarnated into the monster. That cultists who die giving hideous birth to a blightspawn cannot be resurrected lends a bit of weight to this notion, even if the blightspawn themselves have nothing to say on the topic. A cultist carrying an immature blightspawn functions normally in all ways until the creature emerges (typically upon the cultist’s death, or at the culmination of certain vile rituals)-except that until then, the cultist can pass on new blightspawn to his or her children. A blightspawn’s gestation can last for decades, and in cases in which a child is separated from infected parents, the child might live her entire life without knowing the truth of what awaits her upon death. When a blightspawn emerges from its host, it is immediately fully grown, although its gore-wet wings cannot be used for flight for 1d4 rounds after emerging.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blightspawn%20of%20Ghlaunder)
 ```encounter-table
 name: Blightspawn of Ghlaunder

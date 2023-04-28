@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fulgati
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 60
 desc_short: This towering, muscular, female figure wears an iron, ram-headed mask. Four stout arms crackle with primal energies, while four additional arms emerge from her hips, supporting her bulk in place of legs.
 ```
-# Description
+## Description
 The monolithic outsiders known as fulgatis reap not souls but entire cultures. They tread upon the land when a civilization that has reached the end of days must be wiped away for new things to grow from its corpse. Their arrival heralds the end of cities, nations, and even entire species. They are simpleminded, loyal, and utterly devoid of the compassion that defines so many other psychopomps-terrible things created and directed with terrible purpose. Legends claim that Pharasma bore these creatures herself, rather than forging them from once-mortal souls, lending some clarity to the usher Atropos’s title as the “Last Sister.”
 
  Clad in iron masks resembling rams and bulls, fulgatis serve as little more than beasts of burden. While most psychopomps are artisans in death, honing and crafting it with purpose and applying it only when needed, fulgatis are fonts. Death itself pumps through their veins and unravels creations where they step, leaving the ground fallow so immediate survivors of their attacks have no chance to rebuild. While intelligent enough to speak and read, they lack the intellect and forceful personalities of most powerful outsiders, instead serving as the penultimate enforcers of the Boneyard’s will-second only to Pharasma herself.
@@ -88,7 +90,7 @@ The monolithic outsiders known as fulgatis reap not souls but entire cultures. T
  Fulgatis resemble massive, female forms bearing eight stout arms, four of which serve them in place of legs. Their unusual locomotion allows them to climb and burrow with ease, even springing forth from the earth in the midst of their targets. While they wear no clothing, their flesh resembles worked metal and stone carved into elaborate whorls and patterns, giving the illusion of magnificent armor. The horns they bear are perfectly functional and deadly in close combat.
 
  A fulgati stands 80 feet tall and weighs 150-175 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fulgati)
 ```encounter-table
 name: Fulgati

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tobongo (Mwangi Treant)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 61
 desc_short: Tearing its elephantine roots free from the soil, an enormous tree unfurls long, tangled branches into arms ending in massive claws.
 ```
-# Description
+## Description
 There is no description for this monster.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tobongo%20(Mwangi%20Treant))
 ```encounter-table
 name: Tobongo (Mwangi Treant)

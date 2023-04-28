@@ -1,19 +1,21 @@
 ---
-alias: Mythic Waters of Lamashtu
+aliases: [Mythic Waters of Lamashtu]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Waters of Lamashtu
+## Mythic Waters of Lamashtu
 
 **source**:: Mythic Origins pg. 13  
 **school**:: conjuration (creation)
 **level**:: alchemist 2, antipaladin 2, cleric 3, druid 3, hunter 3, investigator 3, oracle 3, warpriest 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (250 gp of powdered amber)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: up to 1 flask of the *waters of Lamashtu* per 2 levels  
@@ -21,7 +23,7 @@ alias: Mythic Waters of Lamashtu
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell generates what appears to be clear, pure water, but it is in fact a foul secretion known as the *waters of Lamashtu*. The liquid functions in all the same ways as unholy water (see *curse water*). In addition, any creature that is anointed with or drinks this fluid must attempt a Fortitude save (drinking the *waters of Lamashtu* is particularly effective-a creature that drinks the liquid takes a -4 penalty on its save to resist its effects). Success causes the creature to become violently ill, vomit up the fluid, and become sickened for 1d4 rounds. Failure indicates the water takes root and wreaks havoc on the victim’s mind (dealing 1d6 points of Intelligence damage) and twists and deforms its body (dealing 1d6 points of Dexterity damage). The subject’s Dexterity and Intelligence cannot drop below 1 as a result of this effect. Casting this spell creates approximately 2 ounces of the *waters of Lamashtu*-enough for one dose or, if bottled, one use as a thrown weapon.  
   

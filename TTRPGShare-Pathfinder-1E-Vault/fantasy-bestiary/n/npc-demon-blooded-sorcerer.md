@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Demon-Blooded Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: NPC Codex
     desc: 175
 ```
-# Description
+## Description
 The demon-blooded sorcerer is a powerful mortal servant of the Abyss.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Demon-Blooded%20Sorcerer)
 ```encounter-table
 name: NPC Demon-Blooded Sorcerer

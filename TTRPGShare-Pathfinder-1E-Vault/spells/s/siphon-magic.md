@@ -1,19 +1,21 @@
 ---
-alias: Siphon Magic
+aliases: [Siphon Magic]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Siphon Magic 
+## Siphon Magic
 
 **source**:: Inner Sea Magic pg. 60  
 **school**:: abjuration
 **level**:: arcanist 5, cleric 5, oracle 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a coiled length of copper wire wrapped around the palm)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Siphon Magic
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell attempts to transfer a magical effect from a creature you touch to yourself. When you touch the creature, *siphon magic* attempts to end one ongoing spell that has been cast on that creature, as if via a targeted *dispel magic*. If you know the specific spell effect you wish to target, you can name that spell effect to target that specific spell; otherwise *siphon magic* begins with the highest-level spell in effect and works its way down through all spells affecting the target until it dispels one or runs out of effects, as per *dispel magic*.  
   

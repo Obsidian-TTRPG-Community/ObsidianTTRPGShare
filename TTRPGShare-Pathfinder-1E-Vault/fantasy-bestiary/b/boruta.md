@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boruta
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,13 +77,13 @@ sources:
     desc: 84
 desc_short: Piercing yellow eyes gaze from the mossy skull of this ivy-covered skeleton. Where bones should be, gnarled roots grow, and tangles of vines hang from its moldering chest like spilt viscera.
 ```
-# Description
+## Description
 A distant cousin of shambling mounds, borutas are powerful wielders of natural magic that make their homes in marshes or wetlands, where their mysterious control over the natural environment is most useful.
 
 Though none are sure of the specific relationship between borutas and shambling mounds, the connection is clear when comparing the two, their powers and affinity for the marshlands being the most obvious similarities. Borutas-or “swamp lords,” as they’re sometimes called- resemble mossy, skeletal humans at first glance, with bonelike wooden frames, viny covering, and vivid yellow eyes. Considerably more intelligent than their shambling mound cousins, they claim wide territories-typically swamps, forests, jungles, or other lands thick with plant-life-and brook no insult to their realm. Highly defensive of the life within their lands, especially plants and thinking plant creatures, borutas view themselves as the avengers of those that can’t defend themselves, and mercilessly repay destructive invaders with verdurous force. On the rare occasions when they deal peaceably with non-plant creatures, borutas cover their frightening forms with thick veils of grass or peat moss.
 
 Borutas generally stand about 7 feet tall and weigh just over 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boruta)
 ```encounter-table
 name: Boruta

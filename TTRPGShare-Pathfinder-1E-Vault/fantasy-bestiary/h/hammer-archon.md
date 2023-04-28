@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hammer Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 82
 desc_short: This stern-looking humanoid wears a suit of armor decorated with sharp lines. He wields a hammer-headed polearm with a wicked spike on its reverse side.
 ```
-# Description
+## Description
 Hammer archons are the unstoppable champions of celestial armies, called to fight against paragons of evil and chaos when all hope seems otherwise lost. Their powerful hammers sweep through lesser enemies and shatter shields and weapons with ease. Each hammer archon’s plate armor gleams like polished silver and resists even the strongest blows from hammers and other bludgeoning weapons.
 
  A hammer archon stands 10 feet tall and weighs approximately 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hammer%20Archon)
 ```encounter-table
 name: Hammer Archon

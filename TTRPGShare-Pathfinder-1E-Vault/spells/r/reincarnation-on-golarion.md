@@ -1,19 +1,21 @@
 ---
-alias: Reincarnation on Golarion
+aliases: [Reincarnation on Golarion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Reincarnation on Golarion
+## Reincarnation on Golarion
 
 >**source**:: Inner Sea Races pg. 193 Death is a natural part of life in the Inner Sea region, but it need not be final. Yet returning to life is not without its perils and peculiarities. While reincarnation is a significant part of the culture of certain races-particularly the samsarans, who reincarnate countless times over the centuries on their slow paths toward perfection and enlightenment-the use of the spell *reincarnate* allows any character to experience this mystical and fundamentally life-changing event. The table of random races presented here expands on the one presented with the reincarnate spell in the *Pathfinder RPG Core Rulebook*. At the GM’s discretion, you may use the following optional table when rolling to determine what new body is generated when a *reincarnate* spell is cast. This Golarion-specific table excludes all races that possess racial Hit Dice, but also adds in new races that are relatively widespread and common in the region. Not all of the races presented in this book appear on the following table-androids, for example, are beyond the scope of a *reincarnate* spell to create (although dead androids and wyrwoods can themselves be reincarnated, they have no chance of coming back in the same type of body). Others, such as kasathas and other alien races, are not true natives of Golarion and thus lack the “spiritual weight” needed to be included in a table of reincarnation possibilities. Of course, a result of “GM’s choice” gives each GM the opportunity to break these assumptions about allowed incarnations as she sees fit.  
 **school**:: transmutation
 **level**:: druid 4, hunter 4, medium 4, shaman 4, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M, DF (oils worth 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: dead creature touched  
@@ -21,7 +23,7 @@ alias: Reincarnation on Golarion
 **saving-throw**:: none, see text
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 With this spell, you bring back a dead creature in another body, provided that its death occurred no more than 1 week before the casting of the spell and the subject’s soul is free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.  
   

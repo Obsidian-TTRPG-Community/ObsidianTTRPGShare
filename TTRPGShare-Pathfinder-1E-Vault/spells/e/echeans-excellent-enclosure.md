@@ -1,19 +1,21 @@
 ---
-alias: Echean's Excellent Enclosure
+aliases: ["Echean's Excellent Enclosure"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Echean's Excellent Enclosure 
+## Echean's Excellent Enclosure
 
 **source**:: Rival Guide pg. 11  
 **school**:: abjuration (force)
 **level**:: arcanist 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a sphere of glass worth 100 gp and an iron nail, with which you pierce the glass on casting)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: immobile 10-ft.-radius emanation  
@@ -21,7 +23,7 @@ alias: Echean's Excellent Enclosure
 **saving-throw**:: none
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 You call into being around you an invisible barrier of force within which magic cannot persist. Within the area of the spell, effects are suppressed and creatures are affected as by *antimagic field*. An immobile sphere of impenetrable force surrounds the field, equivalent in all ways to a spherical *wall of force*, including its immunity to *dispel magic* and vulnerability to a *sphere of annihilation* or *rod of cancellation*. The barrier has hardness 40 and 20 hit points per caster level, and can be damaged by both mundane attacks and spells cast from outside the field. If the bubble of force is destroyed, the spell’s duration ends.  
   

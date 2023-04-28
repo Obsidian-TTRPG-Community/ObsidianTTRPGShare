@@ -1,19 +1,21 @@
 ---
-alias: Storm of Vengeance
+aliases: [Storm of Vengeance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Storm of Vengeance 
+## Storm of Vengeance
 
 **source**:: PRPG Core Rulebook pg. 350  
 **school**:: conjuration (summoning)
 **level**:: cleric 9, druid 9, oracle 9, shaman 9, witch 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 360-ft.-radius storm cloud  
@@ -21,7 +23,7 @@ alias: Storm of Vengeance
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a huge black storm cloud in the air. Each creature under the cloud must succeed on a Fortitude save or be deafened for 1d4 × 10 minutes. Each round you continue to concentrate, the spell generates additional effects as noted below. Each effect occurs on your turn.  
   
@@ -35,7 +37,7 @@ You create a huge black storm cloud in the air. Each creature under the cloud mu
   
 Ranged attacks within the area of the storm are impossible. Spells cast within the area are disrupted unless the caster succeeds on a Concentration check against a DC equal to the *storm of vengeance*'s save DC + the level of the spell the caster is trying to cast.
 
-## Mythic Storm of Vengeance 
+## Mythic Storm of Vengeance
 
 **source**:: Mythic Adventures pg. 109  
 The acid damage dealt increases to 1d8 points of acid damage. The lightning damage dealt increases to 10d8 points of electricity damage. You can call down a bolt of lightning on the 2nd and 4th rounds (equivalent to those on the 3rd round). You can strike the same target with a bolt more than once during the casting of the spell, but not more than once per round.  

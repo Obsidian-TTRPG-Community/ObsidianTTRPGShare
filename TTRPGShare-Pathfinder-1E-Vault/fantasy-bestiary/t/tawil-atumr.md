@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Tawil At'umr"
 statblock: inline
-tags: monster
-name: Tawil At'umr
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,11 +81,11 @@ sources:
     desc: 148
 desc_short: A gray robe and veil obscure this humanoid’s form, save for a foaming mass of bubbles and tentacles extending from below.
 ```
-# Description
+## Description
 Tawil at’Umr is unusual among the Great Old Ones, for it is a physical projection of the will of one of the most powerful of the Outer Gods-Yog-Sothoth. As a sort of avatar of this deity, Tawil at’Umr pursues its own goals throughout the Material Plane and dimensions that intersect it in ways mortals can never fully understand. Tawil at’Umr is just as likely to react to attacks against it with its formidable combat prowess as it is to ignore its attackers or simply relocate to another point in the multiverse-its reasons for doing so are as inscrutable as its plans for reality. Some scholars theorize that Tawil at’Umr is little more than a side effect of Yog-Sothoth’s presence upon reality when the Outer God brushes up against this universe. Even if this is the case, Tawil at’Umr’s knowledge of reality is vast, and many have sought the avatar out to learn its secrets. 
 
 Tawil at’Umr appears as a cloaked figure of approximately the same shape as the observer, yet larger- when viewed by a humanoid, it stands 12 feet tall. When it casts its cloak aside, it is revealed as a seething mass of protoplasm capable of taking many shapes and forms, several of which should not be able to exist.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tawil%20At%27umr)
 ```encounter-table
 name: Tawil At'umr

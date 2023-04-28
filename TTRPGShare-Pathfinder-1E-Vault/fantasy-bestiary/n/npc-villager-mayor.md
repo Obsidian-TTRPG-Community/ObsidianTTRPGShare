@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Villager (Mayor)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,13 +39,13 @@ sources:
   - name: GameMastery Guide
     desc: 309
 ```
-# Description
+## Description
 Mayors are civil authorities in towns and cities. While a small village might be ruled by a single wealthy citizen or small council of commoners, a mayor is keenly aware of the doings throughout a large community, able to work effectively with both the common folk and the rich and powerful. Because of her position, she can mingle among the landed gentry and blooded aristocracy even without a noble title of her own.
 
 A mayor can be found in any sizable town or city, or even in charge of a small village of strategic or economic importance. Large cities might have several mayors as district administrators, serving together on a city council. A mayor could serve as the head of a college or guild, or as the ambassador of a titled lord.
 
 Mayors often keep a pair of guard officer bodyguards with them (CR 9), and can be found in company with a noble (CR 10) or a merchant prince and his sellsword guard (CR 11).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Villager%20(Mayor))
 ```encounter-table
 name: NPC Villager (Mayor)

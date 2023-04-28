@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cannibalistic Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 15
 ```
-# Description
+## Description
 Rare tribes of halfling cannibals stalk deep jungles in search of sentient prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cannibalistic%20Hunter)
 ```encounter-table
 name: NPC Cannibalistic Hunter

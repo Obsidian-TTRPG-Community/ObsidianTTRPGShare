@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Astral Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 88
 desc_short: This majestic dragon seems to shimmer as if surrounded by thousands of eddies of astral thought.
 ```
-# Description
+## Description
 Reserved and haughty, these dragons roam the Astral Plane, seeking to expand their knowledge of its esoteric secrets. They hunt to eat, and use psychic magic to fight one another.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Astral%20Dragon)
 ```encounter-table
 name: Young Astral Dragon

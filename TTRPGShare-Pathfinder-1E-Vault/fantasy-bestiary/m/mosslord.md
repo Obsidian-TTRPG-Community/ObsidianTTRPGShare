@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mosslord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 194
 desc_short: This towering, four-armed humanoid seems to be made of moss and splintered wood, its face sinister and mouthless.
 ```
-# Description
+## Description
 Tales of the wretched mosslord have existed for as long as humanity has dared dwell amid the forests of the world. It appears in grotesque pictographs of long dead civilizations, covering the walls of lost cities on sunken continents or hidden in overgrown jungles. So ancient is the creature that its true origin remains unknown. In the cultures whose lore and legend tell of the mosslord, it is described as the living incarnation of the forest’s vengeance against the encroachment of civilization, a fury given mind and focus toward the destruction of humanity. To date, no one has ever reported spotting more than a single mosslord at a time, prompting speculation as to whether more than a single mosslord exists, or if it is a singular entity that simply regrows itself each time it is destroyed. 
 
 Most tales of the mosslord’s intentions hold true, although the legends of there being but one mosslord are a false hope-in truth, multiple mosslords exist, and wherever one surfaces, ruin inevitably follows. Yet mosslords are hardly the simple, violent juggernauts that old legends purport. Instead, these wickedly intelligent creatures mastermind elaborate campaigns against civilization. Capable of commanding hordes of plant creatures, they typically spend months or even years seeding a target before launching an incursion-even if their attacks seem sudden and unprovoked to the victims. They are clever combatants, shielding themselves from direct attacks and avoiding melee if at all possible, in order to command and maneuver allies. Still, the creature is an able warrior in addition to having a potent arsenal of spells, and it doesn’t shy from engaging opponents in melee when directly faced with an immediate opponent. Among all humanoid forms of life, they despise humans and halflings in particular. 
@@ -76,7 +78,7 @@ Most tales of the mosslord’s intentions hold true, although the legends of the
 A mosslord has no known or ties to the fey world or to those worlds or planes beyond the material realm. Though the mosslord is no deity, it is a wholly supernatural being and the apocalyptic texts of over a dozen different religions depict its wrath. These texts often revile the mosslord and condemn those who would worship it or pay it reverence. Despite ominous warnings, history reports a handful of occasions when doom cults praised, venerated, and pledged fealty to mosslords. Some even credit or blame such cults for the creation of the first mosslords, for it seems odd that plant creatures would naturally form upon the wooden frames that hold its fungal flesh in the form of a bipedal humanoid. Regardless, such efforts tend to be short lived; as soon as the cultists capture the mosslord’s attention, they find they have only attracted its relentless and utter destruction. 
 
 The mosslord’s body consists of a large skeletal frame that towers over 15 feet tall, fashioned from rough-cut pieces of wood. A thick layer of moss encompasses this frame, creating the appearance of flesh. While a mosslord’s body appears constructed, the creature is fully sentient and highly intelligent. Despite their similar hateful and destructive views of civilization, mosslords do not cooperate with blights or whisperers, and they often compete with these strange entities for control over their woodland territories.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mosslord)
 ```encounter-table
 name: Mosslord

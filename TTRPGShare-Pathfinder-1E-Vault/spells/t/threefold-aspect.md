@@ -1,25 +1,27 @@
 ---
-alias: Threefold Aspect
+aliases: [Threefold Aspect]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Threefold Aspect 
+## Threefold Aspect
 
 **source**:: Advanced Player's Guide pg. 249  
 **school**:: transmutation
 **level**:: druid 5, hunter 5, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S, F (silver crescent worth 5 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 24 hours (D)
 
-### Description 
+### Description
 
 *Threefold aspect* allows you to shift your appearance between your natural age and three idealized age categories: young adult (youth/maiden), adulthood (father/mother), or elderly (elder/crone). In each case, your appearance is your own at the appropriate age, rather than that of a new individual.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elder Deep One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,9 +82,9 @@ sources:
     desc: 69
 desc_short: The frame of this immense monstrosity is humanoid, but its ichthyic visage is that of a deep-sea predator.
 ```
-# Description
+## Description
 A few deep ones never stop growing over the eons of their endless lives. Many elder deep ones claim the names of monsters or gods for their own-Mother Hydra and Father Dagon being two of the more legendary of their kind. Elder deep ones ascend to the status of near-gods in deep one society, towering over their kin and ruling their sunken cities. Just as they are worshiped, so do the elder deep ones worship the Great Old Ones and Outer Gods themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elder%20Deep%20One)
 ```encounter-table
 name: Elder Deep One

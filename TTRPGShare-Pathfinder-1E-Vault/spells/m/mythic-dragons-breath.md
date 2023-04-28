@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dragon's Breath
+aliases: ["Mythic Dragon's Breath"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dragon's Breath
+## Mythic Dragon's Breath
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: evocation (acid, cold, electricity, or fire)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, investigator 4, magus 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a dragon scale)
 
-### Effect 
+### Effect
 
 **range**:: 30 ft. or 60 ft.  
 **area**:: cone-shaped burst or line  
@@ -21,7 +23,7 @@ alias: Mythic Dragon's Breath
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You breathe out a blast of energy. Creatures in the affected area take 1d6 points of energy damage per caster level (maximum of 12d6). A successful Reflex save results in half damage. The spell’s effect and energy type depend on the type of dragon scale used:  
   

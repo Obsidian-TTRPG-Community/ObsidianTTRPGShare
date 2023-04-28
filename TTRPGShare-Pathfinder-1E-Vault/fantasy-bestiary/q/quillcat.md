@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quillcat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 87
 desc_short: Dozens of long, sharp spines line the back and tail of this dark-gray cat.
 ```
-# Description
+## Description
 A guard animal bred by a cult of Lamashtu, the quillcat was originally a cross between a howler and a cougar. Howler-cougar hybrids were smaller than either parent, and this allowed easy hybridization with smaller, longhaired breeds of cats that increased quill length and decreased the animal’s size. A healthy young quillcat is worth 175 gp.
 
 The spines normally lie flat against the quillcat’s body, but when the creature is scared or surprised, they stand erect on its tail and back, nearly doubling the cat’s apparent size. Instead of typical feline vocalizations, quillcats communicate by howling and yapping. Quillcats hate hell-bred dogs and fearlessly attack the larger creatures on sight.
 
 Quillcats are 3 feet long and weigh 60 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quillcat)
 ```encounter-table
 name: Quillcat

@@ -1,19 +1,21 @@
 ---
-alias: Sleepwalking Suggestion
+aliases: [Sleepwalking Suggestion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sleepwalking Suggestion 
+## Sleepwalking Suggestion
 
 **source**:: Horror Adventures pg. 127  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 5, bard 4, medium 3, mesmerist 4, psychic 5, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (two doses of oil of taggit worth 180 gp total)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Sleepwalking Suggestion
 **saving-throw**:: Will negates or none (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You compel the target creature to rise from its sleep as if sleepwalking and perform a course of activity (limited to a sentence or two). The spell takes effect immediately if the target is already asleep, or as soon as the target falls asleep if it is conscious. You can specify that the creature should wait before taking action when you give your instructions if you so choose. A sleeping creature doesn’t get a save against this spell. The suggested activity must not cause the target to directly harm itself or others, but it doesn’t need to be reasonable. For example, you could instruct the target to unlock doors and windows or poison its ally’s rations, but not jump off a roof or perform a coup de grace action against a sleeping ally. Instructions that cause direct harm prompt the target to awaken just prior to performing the action and the target experiences a vague memory of what it was supposed to do.  
   

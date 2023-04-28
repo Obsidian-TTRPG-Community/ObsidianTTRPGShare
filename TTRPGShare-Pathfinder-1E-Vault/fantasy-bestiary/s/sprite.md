@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sprite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 256
 desc_short: This lithe, diminutive creature looks like a humanoid with wispy, mothlike wings and long, thin ears.
 ```
-# Description
+## Description
 Sprites gather in groups deep in forested lands, aligned to the cause of defending nature. Whole tribes of sprites deem themselves protectors of a certain person, place, or creature of importance in their lands, even if the being doesn’t actually want or need protecting.
 
 A sprite’s body is naturally luminous, although the sprite can vary the color and intensity of its body as it wishes. Shortly after death, a sprite’s body simply melts away to a twinkling vapor. Sprites are among the smallest of fey, standing just over 9 inches in height and rarely weighing more than 1 or 2 pounds.
@@ -67,7 +69,7 @@ A sprite’s body is naturally luminous, although the sprite can vary the color 
 Sprites are more primitive in many ways than most fey. They enjoy each other’s company, but tend to be distrustful of other fey and assume any humanoids and any other creatures that they haven’t expressly chosen to protect mean to do them ill. Even animals are generally regarded as dangerous. Much of this is due to sprites’ diminutive size, which makes them popular targets for predators. As a result, a sprite’s initial reaction to danger is typically to flee-it uses its spell-like abilities to delay or distract pursuers, and relies on its speed in flight and its size to allow it to escape in the end.
 
 While sprites themselves are relatively uncultured and savage in nature, they do have a healthy curiosity for all things magical in nature. They are particularly drawn to sites of great but latent magical power, such as the ruins of ancient temples. This curiosity makes them unusually receptive to roles as familiars as well. A 5th-level chaotic neutral spellcaster with the Improved Familiar feat can gain a sprite as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sprite)
 ```encounter-table
 name: Sprite

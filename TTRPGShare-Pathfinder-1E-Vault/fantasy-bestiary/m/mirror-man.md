@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mirror Man
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 88
 desc_short: Tall and lean, this hooded figure resembles a human until the terrible face beneath the cowl is revealed-nothing but a featureless mirror, reflecting a hard, cold world.
 ```
-# Description
+## Description
 At a glance, mirror men are easily mistaken for humans. They are tall, slender, and graceful and mask their true selves in fine hooded cloaks appropriate to Irrisen’s eternal winter. Nevertheless, their grace is the product of precision, not elegance, and their hooded garments serve to obscure an inhuman countenance. A mirror man has no eyes, nose, or mouth. Its face is a featureless mirror, affixed atop a lifeless body. Behind this mirror is a vacant hole left behind when the body was prepared for its current use.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mirror%20Man)
 ```encounter-table
 name: Mirror Man

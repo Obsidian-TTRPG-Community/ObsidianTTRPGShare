@@ -1,19 +1,21 @@
 ---
-alias: Recorporeal Incarnation
+aliases: [Recorporeal Incarnation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Recorporeal Incarnation 
+## Recorporeal Incarnation
 
 **source**:: Inner Sea Intrigue pg. 61, Pathfinder \#16: Endless Night pg. 10  
 **school**:: necromancy
 **level**:: arcanist 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (a gem worth at least 250 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one willing living creature and one humanoid corpse  
@@ -21,7 +23,7 @@ alias: Recorporeal Incarnation
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Recorporeal incarnation* effectively replaces the target living creature’s body with that of the target corpse. The target corpse must be fresh-either dead for no more than 24 hours or appropriately preserved by an effect such as *gentle repose*. While casting the spell, you must remain in contact with the corpse while touching the living target with the focus item. As the spell is cast, the dead body’s flesh unravels like ribbons to sheathe the living target, who must be within one size category of the corpse. While the spell is in effect, the focus item must remain within 30 feet of the target living creature.  
   

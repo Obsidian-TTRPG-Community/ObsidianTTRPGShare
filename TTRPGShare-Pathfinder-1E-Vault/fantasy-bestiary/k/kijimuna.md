@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kijimuna
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 84
 desc_short: At first glance, this creature appears to be a mischievously smiling young child with bright red hair clad only in a grass skirt. A closer look reveals goblinoid ears and a mouth full of pointed teeth.
 ```
-# Description
+## Description
 The childlike kijimunas bear physical similarities to their Inner Sea cousins, the goblins, sharing their small size, leathery skin, and large, pointed ears. However, kijimunas’ hair stands out as their most prominent features-long, wild manes of blazing red. These tricky creatures nearly always wear devilish grins, causing some who first see them to mistake them for trouble-making urchins.
 
 Kijimunas take pleasure in two pastimes: fishing and playing pranks. When a kijimuna grows distracted from its catch, it seeks out targets for its practical jokes. These hijinks often prove relatively harmless, but some escalate to the point of becoming injurious or potentially lethal. Most kijimunas genuinely do not understand how their “play” frustrates, harms, or otherwise impacts the targets of their tricks and are insulted when victims become angry rather than seeing the comedy of the situation. The insulted kijimunas then take retribution the only way they know how: with more elaborate pranks.
 
 A kijimuna stands only about 3 feet tall and weighs approximately 50 pounds. Its size belies its sinewy strength, gained from years of fishing and climbing tall banyan trees.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kijimuna)
 ```encounter-table
 name: Kijimuna

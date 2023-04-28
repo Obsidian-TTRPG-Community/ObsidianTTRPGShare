@@ -1,19 +1,21 @@
 ---
-alias: Gravity Sphere
+aliases: [Gravity Sphere]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Gravity Sphere 
+## Gravity Sphere
 
 **source**:: People of the Stars pg. 28  
 **school**:: transmutation
 **level**:: arcanist 5, druid 6, hunter 6, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a marble)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: 30-ft.-radius sphere of altered gravity  
@@ -21,7 +23,7 @@ alias: Gravity Sphere
 **saving-throw**:: none (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You affect the local gravity field in a 30-foot-radius sphere around the spell’s designated point of origin. Creatures in the affected area can be weighed down by high gravity, lightened by low gravity, or left to float in an area with no gravity, depending on the effect you choose for your *gravity sphere*. See page 18 for rules on the effects of high, low, and no gravity.  
   

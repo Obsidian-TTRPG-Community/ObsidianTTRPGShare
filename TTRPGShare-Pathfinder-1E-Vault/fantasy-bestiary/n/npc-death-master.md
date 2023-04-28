@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Death Master
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -94,9 +96,9 @@ sources:
   - name: NPC Codex
     desc: 230
 ```
-# Description
+## Description
 A death master slings a spell with each stride.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Death%20Master)
 ```encounter-table
 name: NPC Death Master

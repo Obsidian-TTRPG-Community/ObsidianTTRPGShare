@@ -1,19 +1,21 @@
 ---
-alias: Sarzari Shadow Memory
+aliases: [Sarzari Shadow Memory]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sarzari Shadow Memory 
+## Sarzari Shadow Memory
 
 **source**:: Adventurer's Guide pg. 160  
 **school**:: divination
 **level**:: arcanist 6, bard 6, cleric 6, inquisitor 6, oracle 6, psychic 6, skald 6, sorcerer 6, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (a work of art bearing your target's likeness worth at least 1,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Sarzari Shadow Memory
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no (harmless)
 
-### Description 
+### Description
 
 While casting this spell, you slowly destroy a piece of art bearing your victim’s likeness and beseech Achaekek to grant you access to the knowledge and lore contained within the innermost sanctum of the Crimson Citadel, the Sarzari Library. This endows you with information that could facilitate the target’s assassination by your hands. This information must be chosen from one of the three following categories-back doors, character, or weakness.  
   

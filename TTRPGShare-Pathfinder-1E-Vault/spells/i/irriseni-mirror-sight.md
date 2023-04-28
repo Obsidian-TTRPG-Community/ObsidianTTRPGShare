@@ -1,19 +1,21 @@
 ---
-alias: Irriseni Mirror Sight
+aliases: [Irriseni Mirror Sight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Irriseni Mirror Sight 
+## Irriseni Mirror Sight
 
 **source**:: Pathfinder \#67: The Snows of Summer pg. 73, Cities of Golarion pg. 63  
 **school**:: divination (scrying)
 **level**:: arcanist 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (a mirror)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **effect**:: magical sensor  
@@ -21,7 +23,7 @@ alias: Irriseni Mirror Sight
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell lets you look into a mirror near you and see an image that is reflected in another specific mirror (chosen by you) or an individual reflected in any other mirror. This works like a *scrying* spell, except you can only view creatures on the same plane as you. Each time you cast the spell, you can choose to see one of three types of reflections in your mirror.  
   

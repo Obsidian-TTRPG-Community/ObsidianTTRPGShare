@@ -1,19 +1,21 @@
 ---
-alias: Face of the Devourer
+aliases: [Face of the Devourer]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Face of the Devourer 
+## Face of the Devourer
 
 **source**:: Inner Sea Gods pg. 233, Pathfinder \#23: The Impossible Eye pg. 65  
 **school**:: transmutation (polymorph)
 **level**:: adept 1, antipaladin 1, arcanist 1, bloodrager 1, cleric 1, druid 1, hunter 1, oracle 1, redmantisassassin 1, sorcerer 1, warpriest 1, wizard 1 (Rovagug)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Face of the Devourer
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You transform the target’s face into a hideous shape, such as a half-melted visage with insect legs instead of teeth, seeping pits instead of eyes, and suckered tongues dangling from its misshapen mouth. You do not choose what shape the target’s face takes, and the shape is different every time you cast the spell. This transformation does not interfere with the target’s senses or its ability to breathe, though it might prevent it from speaking. The target gains a +4 circumstance bonus on Intimidate checks.  
   

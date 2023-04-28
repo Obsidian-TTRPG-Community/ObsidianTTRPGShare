@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Peacock
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -35,13 +37,13 @@ sources:
     desc: 27
 desc_short: This bird’s royal blue body is upstaged only by the magnificent array of feathers that radiate from its back.
 ```
-# Description
+## Description
 Peacocks are the male variety of a family of pheasants collectively called peafowls. Their female counterparts, peahens, don’t possess the brightly colored iridescent plumage typically associated with peacocks, and instead sport gray or brown feathers. Some cultures also breed peafowls with white plumage that may or may not have coloration on the rest of their bodies.
 
 A peacock displays its brightly colored feathers to impress and court peahens as well as to scare off potential predators. The colorful “eye” patterns in the feathers also make them popular symbols and decorations among fortune-tellers and royalty.
 
 While the male variety is more commonly recognized, all peafowl have identical statistics. A peacock is 3-1/2 feet tall and weighs about 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Peacock)
 ```encounter-table
 name: Peacock

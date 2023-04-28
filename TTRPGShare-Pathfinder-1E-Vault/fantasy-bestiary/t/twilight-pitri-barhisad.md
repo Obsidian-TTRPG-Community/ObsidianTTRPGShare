@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Twilight Pitri (Barhisad)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 168
 desc_short: Cerulean light surrounds this towering four-armed figure in a vibrant corona.
 ```
-# Description
+## Description
 While clerics and oracles spin their own myths of creation, manasaputras tout an occult truth behind these stories- the current multiverse is not the first to exist and it won’t be the last. Like the cycle of seasons and the moon, existence itself waxes and wanes.
 
  Similar to the highest caste of pitris, twilight pitris are manasaputras whose existence predates the current multiverse. Unlike the solar pitris, these creatures started their path to enlightenment in the preceding multiverse, not some more ancient one. During that indescribable existence, twilight pitris were mortals who ascended to the ranks of manus. Surviving the natural end of their native reality, they endured and were incarnated into the current multiverse as this higher caste of manasaputras. Though they are in a higher form, it is one filled with tribulation and challenge, as becoming a twilight pitri is among the greatest trials in the path to absolute enlightenment.
@@ -89,7 +91,7 @@ While clerics and oracles spin their own myths of creation, manasaputras tout an
  In spite of their alien origins, twilight pitris seek to aid and inspire mortals of the Material Plane. They take great care to search for and study the individual mortals, societies, and worlds that hold the greatest promise. Mortals who show the best chance of becoming some form of manu in their next incarnations are chosen and taught the methods of contemplation, mindfully executed action, and focused meditation necessary to achieve their next stage of enlightenment. At the same time, such visitations-either to mortals or others of their kind- can be both a boon and a curse, for the twilight pitris often act in unexpected ways-their minds inscrutable to the denizens of the Material Plane-and their lack of connection with the Cosmic Fire often makes them seem disconnected from other manasaputras. A handful of kumaras seek out the aid of twilight pitris when they do leave the Positive Energy Plane, enjoying and finding wisdom in their sometimes alien and unexpected modes of thought.
 
  Relationships between twilight pitris and manus are complicated. Many manus have at least one twilight pitri to thank for their first steps of enlightenment and acceptance into the manasaputra castes, but upon ascension, the new manus intuit how disconnected their former teachers are from the cosmic source of all things. They immediately find the words and guidance of the twilight pitris to be filled with half-truths and blind paths, even though the twilight pitri’s intentions are true and honorable. These manus still give members of this caste the respect and reverence they deserve, and understand the importance of this test-especially since they may face it themselves one day- but often go to great pains to avoid asking a twilight pitri for counsel. Relationships between twilight pitris and samsarans are even more strained, as knowledgeable members of that race blame the twilight pitris for nearly damning the entire samsaran race to a path outside of reincarnation and enlightenment. While they would never outwardly disrespect these higher forms of being, they are often suspicious of the twilight pitris’ guidance and disregard twilight pitris’ advice. Some samsarans outright refuse all aid coming from one of these manasaputras.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Twilight%20Pitri%20(Barhisad))
 ```encounter-table
 name: Twilight Pitri (Barhisad)

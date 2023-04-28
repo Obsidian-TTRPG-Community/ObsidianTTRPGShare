@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dagger Master
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
   - name: NPC Codex
     desc: 157
 ```
-# Description
+## Description
 The dagger master has perfected the technique of killing with a small blade.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dagger%20Master)
 ```encounter-table
 name: NPC Dagger Master

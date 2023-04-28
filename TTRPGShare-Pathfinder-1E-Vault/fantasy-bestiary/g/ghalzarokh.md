@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghalzarokh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 246
 desc_short: This corpulent, four-armed fiend is covered in yellow-orange dragon scales, and draconic wings sprout from its back.
 ```
-# Description
+## Description
 Ghalzarokhs, or tyranny demons, act as commanders of Abyssal forces. These demons are formed from the souls of petty tyrants and would-be dictators. Notoriously egotistical and prone to lashing out, a ghalzarokh keeps its minions in line through fear of its cruel whims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghalzarokh)
 ```encounter-table
 name: Ghalzarokh

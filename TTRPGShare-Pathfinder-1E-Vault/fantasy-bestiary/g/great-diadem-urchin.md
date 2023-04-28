@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Great Diadem Urchin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 89
 desc_short: Thick spines like the flanges of a royal crown bristle all across the surface of this strangely large golden sea urchin.
 ```
-# Description
+## Description
 Enormous and brilliantly colored diadem urchins are often sought after by terrestrial collectors or aquatic creatures seeking to simultaneously decorate and defend their throne rooms, yet such beasts are never truly trainable, and attack anyone who comes close.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Great%20Diadem%20Urchin)
 ```encounter-table
 name: Great Diadem Urchin

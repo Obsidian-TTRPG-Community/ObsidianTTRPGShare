@@ -1,19 +1,21 @@
 ---
-alias: Atonement
+aliases: [Atonement]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Atonement 
+## Atonement
 
 **source**:: PRPG Core Rulebook pg. 245  
 **school**:: abjuration
 **level**:: cleric 5, druid 5, hunter 5, inquisitor 5, oracle 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (burning incense), F (a set of prayer beads or other prayer device worth at least 500 gp), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Atonement
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell removes the burden of misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. If the atoning creature committed the evil act unwittingly or under some form of compulsion, *atonement* operates normally at no cost to you. However, in the case of a creature atoning for deliberate misdeeds, you must intercede with your deity (requiring you to expend 2,500 gp in rare incense and offerings). Atonement may be cast for one of several purposes, depending on the version selected.  
   

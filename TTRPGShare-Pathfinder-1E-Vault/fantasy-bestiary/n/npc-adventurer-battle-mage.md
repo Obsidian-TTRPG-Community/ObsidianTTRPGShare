@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Adventurer (Battle Mage)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: GameMastery Guide
     desc: 256
 ```
-# Description
+## Description
 A battle mage is always ready for a fight. She knows that the one who strikes first strikes best. Never lacking in firepower, her versatility on the battlefield is always appreciated. Battle mages make excellent military fire support and magical bodyguards. They can be found alone, guarding a traveling merchant (CR 7) or guide (CR 8) or adventuring with a medium or minstrel, monster hunter or gladiator, and tomb raider (CR 9). A squad of four battle mages (CR 9) might be attached to an army.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Adventurer%20(Battle%20Mage))
 ```encounter-table
 name: NPC Adventurer (Battle Mage)

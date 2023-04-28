@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Exscinder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 34
 desc_short: This massive humanoid figure has no mouth, and carries a burning sword that matches its flaming wings.
 ```
-# Description
+## Description
 Exscinders are Heaven’s censors, scouring the planes for texts containing information too evil or dangerous to be allowed to exist. Exscinders care little for individual lives or everyday heresies, remaining staunchly focused on protecting mortalkind as a whole from corruption.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Exscinder)
 ```encounter-table
 name: Exscinder

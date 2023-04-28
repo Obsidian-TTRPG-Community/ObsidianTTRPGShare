@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Scholar (Hedge Wizard)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
   - name: GameMastery Guide
     desc: 296
 ```
-# Description
+## Description
 A hedge wizard is a local dabbler in magic, sometimes a hermit or recluse wanting only privacy, but often a local loremaster or apothecary whose studies include both the natural and the supernatural.
 
 Hedge wizards can serve as alchemists, sages, and scholars, or operate a curiosity shop or trading post dealing in magical and mundane items.
 
 A hedge wizard might apprentice with a conjurist or hermit (CR 7) or partner with a medium as mystical advisors to a mayor (CR 9). Two cultists might be found working with a hedge wizard (CR 6), or a hedge wizard may work with a pilgrim and two acolytes to administer to a remote village (CR 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Scholar%20(Hedge%20Wizard))
 ```encounter-table
 name: NPC Scholar (Hedge Wizard)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Narwhal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 276
 desc_short: This small whale lacks a dorsal fin and has pale, mottled skin, but its most notable feature is the single tusk protruding from its nose, easily as long as a human.
 ```
-# Description
+## Description
 The narwhal is a skilled hunter in arctic waters, and has been known to dive deeper than even much larger cetaceans both in open water and beneath thick sheets of waterborne ice. Male narwhals possess a single, 6-footlong tusk extending from just above the mouth that serves to impress females during mating season, though in times of need the tusks may be used to break through thick ice or even in self-defense. A typical narwhal is 14 feet long (not including the tusk) and weighs 3,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Narwhal)
 ```encounter-table
 name: Narwhal

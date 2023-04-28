@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nependis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 202
 desc_short: Resembling a bestial ogre with great tusks and thick, bristly hair, this brute seems quite nimble despite its cloven hooves.
 ```
-# Description
+## Description
 Fiercely territorial, the brutish nependises drive away any other large predators from their hunting grounds, even others of their kind. Only mated pairs caring for a litter tolerate each other, and even they separate once the offspring are old enough to fend for themselves. Nependises favors intelligent prey, fey in particular, both for the taste and the thrill of the hunt. They ambush opponents by jumping down from trees, grabbing the creatures, then retreating to find a safe place to eat. When challenged in its territory, a nependis drops from the trees, roars, then fights on foot. A nependis’s sharp hooves allow it to climb trees as well as a great cat, leaving telltale scars in the bark.
 
 While nependises appear as hybrids of apes and boars, they aren’t related to either. Some ascribe the origins of these creatures to a clan of ogres cursed into monstrous forms, or guardians bred and raised by the fey who later turned upon their former masters.
 
 A full-grown nependis stands 9 feet tall and weighs 600 pounds. A newborn nependis takes 4 years to reach maturity. Nependises rarely die from natural causes, and they live as long as 80 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nependis)
 ```encounter-table
 name: Nependis

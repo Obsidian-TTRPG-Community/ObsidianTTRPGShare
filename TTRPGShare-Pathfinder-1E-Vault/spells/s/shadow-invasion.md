@@ -1,19 +1,21 @@
 ---
-alias: Shadow Invasion
+aliases: [Shadow Invasion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Invasion 
+## Shadow Invasion
 
 **source**:: Planar Adventures pg. 44  
 **school**:: conjuration (summoning)
 **level**:: arcanist 4, magus 4, sorcerer 4, summoner 4, summoner (unchained) 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a masterwork piercing or slashing weapon)
 
-### Effect 
+### Effect
 
 **range**:: 30 ft.  
 **area**:: 30-ft. radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Shadow Invasion
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Using a slashing motion with the spell’s focus as part of the casting of *shadow invasion*, you cut open a rift to the Plane of Shadow that fills a 30-foot area with shadowy energies. This area is stationary and becomes dark and gloomy, reducing the light level by one step (as *darkness*). Certain spells are enhanced within the area; spells of the shadow subschool that have reduced effects when disbelieved (such as *shadow evocation*) have their reduced effects increased by 20% (to a maximum of 90%) when determining their effects on targets within the area of shadow invasion.  
   

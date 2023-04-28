@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 131
 ```
-# Description
+## Description
 Most bats are insectivores or fruit-eaters, but at least one species drinks blood.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bat)
 ```encounter-table
 name: Bat

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jungle Trickster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 15
 desc_short: This lean ape-person is bedecked with a rattling collection of whistles, drums, and charms.
 ```
-# Description
+## Description
 Devious and aggressive, charau-ka range farther across the Inner Sea than anyone truly expects. Their jungle tricksters-masters of stealth, deception, and disguise-roam freely, if sparsely, in the shadows of the world, or boldly stride through cities cloaked in makeup or glamers. Across Garund they often pose as common apes, but they sometimes travel abroad in the guise of exotic pets of obedient human slaves or use illusions to pose as halflings or human children. Between Jalmeray and Vudra, resourceful apes pose as playful vanaras as well.
 
  Some tricksters act as the eyes and ears of Usaro, but many serve as thieves-gathering magic and wealth to sate Ruthazek-or as saboteurs undermining enemies of the state or arranging bloody massacres for Angazhan’s glory. They pose as guides or playful apes to lead adventurers and travelers into the jungles’ many hazards.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jungle%20Trickster)
 ```encounter-table
 name: Jungle Trickster

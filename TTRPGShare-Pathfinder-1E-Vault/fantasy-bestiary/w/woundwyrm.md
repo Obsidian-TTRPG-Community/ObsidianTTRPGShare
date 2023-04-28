@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Woundwyrm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 61
 desc_short: This massive, eyeless draconic creature is covered in purplehued scales and sharp, spiky protrusions.
 ```
-# Description
+## Description
 Woundwyrms are ferocious predators native to the corrupted landscape of the Worldwound. They are equally at home in sea and sky, above the ground and below it. Oozing deliquescence seeps from between their cracked, rocky scales, and a constant fume of rainbow hues drifts out of their gullets, save when they inhale and ingest the very substance of disintegrating reality.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Woundwyrm)
 ```encounter-table
 name: Woundwyrm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Empyrean
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -98,7 +100,7 @@ sources:
     desc: 24
 desc_short: Light spills out through cracks in this humanoid being’s clothing and armor, and its four wings are composed of wispy blue light.
 ```
-# Description
+## Description
 Empyreans are a race of ancient angels created by the gods before the dawn of mortalkind. Among the angelic hosts, empyreans serve outside of the usual chain of command. Standing 15 feet tall and clad in the trappings of mortality, which wrap their brilliant forms in a shape mortals and other angels can easily understand, empyreans are physical embodiments of the good energy of a deity or deific being, and they answer only to that higher power.
 
 While other angels arise from an amalgam of good souls or the soul of an ascended mortal, the birth of a new empyrean is a momentous event, for it occurs only if another empyrean is slain. To fill the void, the remaining empyreans temporarily become receptive to the energy of good deities other than their original progenitors, which can eventually cause an empyrean to split in two. The offspring empyrean shares many of the memories and personality traits of the original, but its power is influenced by the deity who sparked its creation.
@@ -106,7 +108,7 @@ While other angels arise from an amalgam of good souls or the soul of an ascende
 Empyreans serve as secret agents for deities-operatives who can be trusted to perform sensitive tasks, especially those that require a long view. Unlike solars, who often become slayers of great evils, empyreans rarely pick fights, but when they do, they prefer to use their deities’ favorite weapons.
 
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Empyrean)
 ```encounter-table
 name: Empyrean

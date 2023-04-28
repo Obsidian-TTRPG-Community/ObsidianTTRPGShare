@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mamiwa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 63
 desc_short: The tail of this shimmering, salamander-like creature is composed entirely of water.
 ```
-# Description
+## Description
 When powerful storms roll across the Material Plane, the elemental morass of air and water sometimes births mamiwas-curious and frantic little spirits of temperamental weather. Clever despite their animalistic appearance, they love investigating new sights and sounds, and find buildings made by humanoids endlessly fascinating. Many follow storms, and unwittingly cause extraordinary amounts of damage as they tear holes in roofs or clog drains just as the rainfall reaches its peak. They love silver-which reminds them of rainfall-and can be easily bribed into abandoning their mischief for a handful of coins.
 
 Because they’re fragile and lack an intrinsic link to the Elemental Planes to bind them together, mamiwas must rest by binding themselves into solid objects each day to maintain their forms, or else they must dedicate themselves to a greater power and beg enough elemental energy to remain coherent. Many find succor in Gozreh, but a few malicious mamiwas follow the elemental lords Hshurha or Kelizandri instead. Mamiwas can also obtain the energy they need to survive from mortal mages, and a neutral-aligned 7th-level spellcaster who has the Improved Familiar feat can gain a mamiwa as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mamiwa)
 ```encounter-table
 name: Mamiwa

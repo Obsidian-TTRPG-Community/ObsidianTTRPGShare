@@ -1,19 +1,21 @@
 ---
-alias: Loathsome Veil
+aliases: [Loathsome Veil]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Loathsome Veil 
+## Loathsome Veil
 
 **source**:: Ultimate Magic pg. 227  
 **school**:: illusion (pattern) (mind-affecting)
 **level**:: arcanist 3, mesmerist 3, psychic 3, redmantisassassin 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a tangle of multicolored threads)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: transparent pattern 40 ft. long, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Loathsome Veil
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates a transparent veil of shifting, multicolored strands of light that form into endlessly varied and alien patterns. One side of the veil, chosen by you at the time of casting, is harmless. The other side twists and turns into impossible shapes, affecting any creature with 60 feet who views the veil. The veil affects a maximum of 24 Hit Dice of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell are affected first. The effect is according to the creature’s HD.  
   

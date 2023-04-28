@@ -1,19 +1,21 @@
 ---
-alias: Contact Entity I
+aliases: [Contact Entity I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Contact Entity I 
+## Contact Entity I
 
 **source**:: Horror Adventures pg. 112  
 **school**:: evocation
 **level**:: arcanist 2, cleric 2, medium 1, occultist 2, oracle 2, psychic 2, shaman 2, sorcerer 2, summoner 2, summoner (unchained) 2, warpriest 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (see text)
 
-### Effect 
+### Effect
 
 **range**:: 100 miles  
 **target**:: up to 20 entities of 6 HD or fewer; see text  
@@ -21,7 +23,7 @@ alias: Contact Entity I
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You send out a magical message to any eldritch entities of a particular kind within a 100-mile radius, which can be delivered to up to 20 such creatures, starting with the nearest creatures until the limit has been met. This spell can’t contact creatures with more than 6 Hit Dice. You can’t send a specific message, but this spell (and all similar *contact entity* spells) can be characterized as an open invitation to make contact and establish communication. If there is an appropriate entity within range, the spell succeeds automatically. You don’t know whether the message was received, nor any specific details about what creatures received it or how many. Creatures that receive the message know the location and distance from where the spell was cast. Because this spell doesn’t call or summon the target, the target must have its own way to reach the place where the spell was cast.  
   
@@ -164,4 +166,3 @@ Art object worth 3,000 gp recovered from the bottom of a sea \[chaotic\]
 Star-spawn of Cthulhu^B4^
 
 Sacrificed humanoid of 10 HD or more \[chaotic, evil\]
-

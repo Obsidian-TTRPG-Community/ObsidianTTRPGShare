@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spectre
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 256
 desc_short: This translucent, ghostly figure fades into view from the damp mist, its face distorted by wrath into a hideous mask.
 ```
-# Description
+## Description
 Spectres are evil undead that hate sunlight and living things. Most are the remnants of murdered or evil humans, their anger preventing them from entering the afterlife. Like ghosts, spectres haunt the places of their deaths, and seek to draw others into the lonely abyss of undeath.
 
 A spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual’s face in paintings or drawings. Spectres retain a strong sense of identity, and even ancient, insane spectres generally remain coherent. Evil historians and necromancers often try to ally with spectres for the knowledge they held in life and retain in undeath.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spectre)
 ```encounter-table
 name: Spectre

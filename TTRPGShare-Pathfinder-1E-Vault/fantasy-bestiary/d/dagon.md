@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dagon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,13 +76,13 @@ sources:
     desc: 46
 desc_short: This demon’s body is a nightmare of writhing tentacles and slippery coils below the leering maw of a deep sea predator.
 ```
-# Description
+## Description
 Dagon is the demon lord of deformity, the sea, and sea monsters. He rules an Abyssal realm that consists of an immense ocean dotted above with strange and horrible islands and marked below with countless deep sea trenches and sunken cities. Dagon is 35 feet long, with the lower body of an eel, a horrif ic visage that evokes images of deep sea predators, and four long tentacles in place of arms.
 
 Dagon almost always uses Power Attack in combat, taking a -9 penalty on all attack rolls but gaining a +18 bonus on damage rolls. He is never encountered without a large number of aquatic demons or monsters at his side that he uses as pawns in battles, often simply commanding them to attack foes while he hangs back in the shadows and observes the fight with his cold eyes. Immense sharks, hezrous, carnivorous whales, krakens, and shoggoths are the demon lord’s favored minions.
 
 Dagon began life not as a demon lord but as a powerful qlippoth-the reasons for his transformation into a demon lord are not understood by mortal scholars, but there is certainly no love lost between Dagon and the qlippoth race.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dagon)
 ```encounter-table
 name: Dagon

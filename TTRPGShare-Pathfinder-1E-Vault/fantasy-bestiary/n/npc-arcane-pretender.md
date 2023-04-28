@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Arcane Pretender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 89
 ```
-# Description
+## Description
 Mixing martial prowess with magic support, arcane pretenders typically serve as guards for powerful casters. Other arcane pretenders become adventurers, sellswords, or explorers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Arcane%20Pretender)
 ```encounter-table
 name: NPC Arcane Pretender

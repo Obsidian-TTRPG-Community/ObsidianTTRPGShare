@@ -1,19 +1,21 @@
 ---
-alias: Damnation Stride
+aliases: [Damnation Stride]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Damnation Stride 
+## Damnation Stride
 
 **source**:: Advanced Race Guide pg. 173  
 **school**:: conjuration (teleportation) (fire)
 **level**:: arcanist 5, sorcerer 5, summoner 4, summoner (unchained) 4, witch 5, wizard 5 (tiefling)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: you (teleportation) and creatures within a 10-foot-radius burst (burst of flame) (see text)  
@@ -21,11 +23,11 @@ alias: Damnation Stride
 **saving-throw**:: Reflex half, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *dimension door*, except you leave behind a burst of fire. Choose one corner of your starting square. A 10-foot-radius burst of flame explodes from that corner the moment you leave, dealing 4d6 points of fire damage.
 
-## Mythic Damnation Stride 
+## Mythic Damnation Stride
 
 **source**:: Mythic Adventures pg. 90  
 The burst of fire created reeks of sulfur and brimstone and also acts like *stinking cloud* (with the same duration as that spell and a separate Fortitude save).  

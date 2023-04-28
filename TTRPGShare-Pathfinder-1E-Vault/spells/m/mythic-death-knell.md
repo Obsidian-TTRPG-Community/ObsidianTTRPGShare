@@ -1,19 +1,21 @@
 ---
-alias: Mythic Death Knell
+aliases: [Mythic Death Knell]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Death Knell
+## Mythic Death Knell
 
 **source**:: Mythic Adventures pg. 90  
 **school**:: necromancy (death, evil)
 **level**:: antipaladin 1, cleric 2, inquisitor 2, oracle 2, spiritualist 2, warpriest 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Death Knell
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You draw forth the ebbing life force of a creature and use it to fuel your own power. Upon casting this spell, you touch a living creature that has -1 or fewer hit points. If the subject fails its saving throw, it dies, and you gain 1d8 temporary hit points and a +2 enhancement bonus to Strength. Additionally, your effective caster level goes up by +1, improving spell effects dependent on caster level. This increase in effective caster level does not grant you access to more spells. These effects last for 10 minutes per HD of the subject creature.
 

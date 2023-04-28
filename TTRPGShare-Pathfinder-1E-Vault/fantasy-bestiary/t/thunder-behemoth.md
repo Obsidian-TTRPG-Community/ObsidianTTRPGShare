@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thunder Behemoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 39
 desc_short: This enormous beast has rocky, armored plates on its body. Elaborate horns crown its horrific head.
 ```
-# Description
+## Description
 Thunder behemoths walk the land as little more than roving appetites, driven by an all-consuming hunger to devour every animal, plant, and even building in sight. They indiscriminately gorge their five seemingly bottomless stomachs on forests and jungles, collapse mine and mountain alike in search of ore, and raze settlements and strongholds for the cowering morsels within.
 
 Thunder behemoths are sent out by the gods to destroy wicked cities, raze great temples or monuments that offend divine eyes, and otherwise act as instruments of divine wrath either on the surface of a world or just below it. The days before a thunder behemoth arrives are fraught with minor but unnerving earthquakes, mass exoduses of burrowing animals to the surface, and an unexplained increase in fallen trees and sinkholes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thunder%20Behemoth)
 ```encounter-table
 name: Thunder Behemoth

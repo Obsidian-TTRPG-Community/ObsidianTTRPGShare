@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Magma Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 184
 desc_short: This seething mass of bubbling molten rock churns and moves of its own hungry accord.
 ```
-# Description
+## Description
 Magma oozes are living pools of molten rock. They roam the borders of the Plane of Earth and Plane of Fire, and on the Material Plane they sometimes arise spontaneously from strange magic, usually in the vicinity of volcanoes. Magma oozes avoid water, and if forced into enough of it, they become encased in a cooled stony shell, unharmed but immobilized, waiting indefinitely until the water retreats.
 
 A typical magma ooze grows to 10 feet across and is about 6 inches thick.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Magma%20Ooze)
 ```encounter-table
 name: Magma Ooze

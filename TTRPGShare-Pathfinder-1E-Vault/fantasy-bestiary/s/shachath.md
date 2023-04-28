@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shachath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
     desc: 84
 desc_short: This winged abomination is a horrid mix of demonic and angelic features, as if two bodies were carelessly fused into one. Its fanged, inhuman face is frozen in permanent contempt, while a beautiful visage with an expression of horror bulges from the back of its skull.
 ```
-# Description
+## Description
 A shachath’s duplicitous nature is ref lected in its physical form. It is literally two-faced, and sees and speaks easily from either side of its skull. One face is angelic and the other horrific, but a shachath is a single being of pure malevolence. Shachaths are concerned with the destruction of mortal faith in anything, and are most often found in the service of Baphomet, Pazuzu, Sif kesh, or Socothbenoth. A typical shachath is 7-1/2 feet tall and weighs 320 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shachath)
 ```encounter-table
 name: Shachath

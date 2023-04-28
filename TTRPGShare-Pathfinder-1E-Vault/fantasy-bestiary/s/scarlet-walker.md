@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scarlet Walker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 414
 desc_short: This crimson horror walks upon six long, thin legs. Its face is neither that of a skull nor spider, but some horrid mix of the two. 
 ```
-# Description
+## Description
 The scarlet walker is an alien entity from some other dimension, often conjured by the wizards of Thassilon to serve as a minion. Scarlet walkers were particularly favored for their adeptness at interrogating prisoners, either via torture, or via the creatures’ uncanny ability to mentally compel both actions and compliance. Once an interrogation was over, the scarlet walker’s master typically commanded the monster to render the victim insane or feebleminded if mere death wasn’t appropriate. 
 
 Scarlet walkers themselves hail from the nightmare realm of Leng, where they walk amid strange, stony deserts and stride through the skies above. No mere predators, scarlet walkers build immense hives of coagulated blood and tissue in nameless mountain valleys, and the flavors of various creatures’ blood is an inexhaustible topic of discussion among their kind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scarlet%20Walker)
 ```encounter-table
 name: Scarlet Walker

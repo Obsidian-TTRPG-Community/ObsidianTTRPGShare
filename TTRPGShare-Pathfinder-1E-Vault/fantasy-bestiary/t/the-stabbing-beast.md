@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Stabbing Beast
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
     desc: 90
 desc_short: This towering, scorpion-tailed man stalks with a soundless grace and murderous intent.
 ```
-# Description
+## Description
 The Stabbing Beast is the herald of Norgorber, the god of greed, murder, secrets, and poison. It is an incredibly dangerous predator that uses its keen intellect and deadly poison to stalk and kill its prey. Its natural form is that of a huge scorpion, but it can also assume an armored humanoid shape suitable for stealth or interacting with Norgorber’s followers. Though its main purpose for coming to Golarion is to kill, it has also been called to aid great thefts and bury terrible secrets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Stabbing%20Beast)
 ```encounter-table
 name: The Stabbing Beast

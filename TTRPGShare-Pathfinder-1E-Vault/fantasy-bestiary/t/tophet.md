@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tophet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 86
 desc_short: A distended metal maw filled with blunt, sculpted teeth stretches across the upper portion of this rotund iron effigy.
 ```
-# Description
+## Description
 Known in some lands as furnace guards or iron gluttons, tophets have long served in the palaces and prisons of tyrants as vigilant sentinels and dreaded punishments. Appearing as rotund iron statues, often bearing the caricatured visages of past kings or dishonored nobles, these constructs all possess yawning maws, capable of easily gobbling up smaller creatures. Upon consuming a victim, the animate statue becomes a walking prison, holding its victim within with little chance for escape. The iron statue can then return its victim to the proper cell, the feet of its lord, or any other fate its creator determines. In the most feared case, tophets capture or are fed prisoners, then wander out into the desert heat or even rivers of molten rock, where their interiors attain hellish temperatures, torturing and often outright killing those trapped within.
 
 Tophets are often assembled in groups of up to a dozen, where cruel rulers incarcerate traitors and other criminals. Mindless creatures capable only of obeying their masters’ whims, these unthinking constructs make incorruptible guardians and are endlessly loyal.
 
 Tophets stand 10 feet tall and weigh 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tophet)
 ```encounter-table
 name: Tophet

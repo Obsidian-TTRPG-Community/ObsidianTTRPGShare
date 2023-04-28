@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Old Sailor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
   - name: NPC Codex
     desc: 260
 ```
-# Description
+## Description
 Quite weathered for an elf, a sailor spends most of his free time playing cards, making music, or whittling away at wood or ivory. Old sailors are superstitious and wary of bad omens before or during a voyage.
 
 Though an old sailor is able to defend himself if attacked, his work relates to ship maintenance and transporting cargo rather than repelling boarders. For an experienced military sailor, use the veteran buccaneer stat block (page 267) or apply the advanced creature simple template to the old sailor stat block. You can also use this stat block for laborers whose work requires strength and maneuverability, such as lumberjacks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Old%20Sailor)
 ```encounter-table
 name: NPC Old Sailor

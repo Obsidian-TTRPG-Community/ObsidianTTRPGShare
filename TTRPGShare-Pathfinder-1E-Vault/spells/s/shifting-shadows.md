@@ -1,19 +1,21 @@
 ---
-alias: Shifting Shadows
+aliases: [Shifting Shadows]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shifting Shadows 
+## Shifting Shadows
 
 **source**:: Dirty Tactics Toolbox pg. 31  
 **school**:: evocation (darkness)
 **level**:: arcanist 3, bard 3, skald 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of ink)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-ft.-radius emanation centered on a point in space  
@@ -21,7 +23,7 @@ alias: Shifting Shadows
 **saving-throw**:: none, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Waves of shifting shadows obscure the appearance of all creatures caught within the emanation, making it harder to tell friends from foes.  
   

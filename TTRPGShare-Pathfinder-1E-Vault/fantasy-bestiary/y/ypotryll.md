@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ypotryll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 285
 desc_short: This ugly creature’s porcine head features multiple horns and tusks. Its muscular body ripples with raw power.
 ```
-# Description
+## Description
 For those unfortunate enough to get in an ypotryll’s way, the thundering rhythm of its hooves is the sound of doom. These creatures are pure savagery and destruction incarnate. A bulk of muscle and hate, a charging ypotryll can be slowed by few things. Bodies and viscera are strewed about when this powerful boarlike juggernaut hits a shield wall, and pikes splinter on its armored plates as if they were twigs. Given enough momentum, a charging ypotryll can rip apart a drawbridge or even the crash through a keep’s walls. Powerful savage tribes corral these beasts and unleash their carnage on the battlefield. Giants and powerful troll chiefs prize ypotrylls, and spend much time and resources to break them, though ypotrylls’ volatile nature ensures such domestication is rare. When it does happen, they make truly frightening steeds.
 
 In the wild, ypotrylls spend their time roaming their territory looking for enough food to support their massive bodies. While they prefer meat, these creatures are omnivores and will eat almost anything. Ypotrylls are especially fond of the scraps they can find in the trash heaps of civilized races, which can mean disaster for a settlement.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ypotryll)
 ```encounter-table
 name: Ypotryll

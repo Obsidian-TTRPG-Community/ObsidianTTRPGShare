@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tarantula Tree
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 260
 desc_short: This towering mass of vegetation balances itself upon several long and misshapen tree trunks.
 ```
-# Description
+## Description
 Terrifying predators, tarantula trees claim dominion over vast swaths of territory. Within these regions, they tend to be nomadic until they find a productive hunting spot. While they cannot speak, these plants are quite intelligent and have been known to live in peace with creatures willing to engage them in entertaining conversation. 
 
 The typical tarantula tree stands upward of 100 feet in height and weighs nearly 200 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tarantula%20Tree)
 ```encounter-table
 name: Tarantula Tree

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cavern Defender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
   - name: NPC Codex
     desc: 64
 ```
-# Description
+## Description
 Though most druids tend and protect the wild lands that lie under the open sky, others stalk the tunnels that lie beneath the earth, serving as wardens, protectors, and tenders of vermin and fungi.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cavern%20Defender)
 ```encounter-table
 name: NPC Cavern Defender

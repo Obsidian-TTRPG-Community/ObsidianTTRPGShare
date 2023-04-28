@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mole (FF)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 25
 desc_short: This brown, apparently eyeless rodent has a furry cylindrical body, a pointed snout, and large, thick paws that end in digging claws.
 ```
-# Description
+## Description
 Moles are small rodent mammals that live primarily in burrows underground. While many varieties of moles exist, most share common features that include subterranean habitats, poor eyesight, and the ability to dig long distances with their powerful forelimbs. The typical mole is 6 inches long and weighs less than a pound. These familiars are popular choices with ratfolk.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mole%20(FF))
 ```encounter-table
 name: Mole (FF)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Topiary
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 80
 desc_short: This lumbering topiary has the rough shape of an elephant, complete with brambly limbs and tusks.
 ```
-# Description
+## Description
 Part plant and part beast, living topiaries are moving flora that look like decorative lawn ornaments used to adorn gardens and groves, though their bestial nature and aloof demeanor prove they are far from mere decorations.
 
 Some theorize that the living topiaries originally came from the primal land of fey, where odd phenomena such as animal-shaped flora are not unheard of. Living topiaries wander the lands to fulfill their single purpose: searching for more plants to consume, which enables them to grow ever larger.
@@ -73,7 +75,7 @@ Some theorize that the living topiaries originally came from the primal land of 
 Though somewhat delicate, living topiaries can thrive for decades by constantly refreshing their bodies with new plant matter. Though living topiaries will not willingly go to such places on their own, sometimes one accidentally finds itself in an area void of adequate additional shrubbery or water, like a vast plain or desert. In such situations, an individual deprived of nutrients quickly dries out and shrivels over the course of several days.
 
 Living topiaries range in height from shrubs only a couple feet off the ground to towering hedges. The average specimen is about 4 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Topiary)
 ```encounter-table
 name: Living Topiary

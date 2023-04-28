@@ -1,19 +1,21 @@
 ---
-alias: Prying Eyes
+aliases: [Prying Eyes]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Prying Eyes 
+## Prying Eyes
 
 **source**:: PRPG Core Rulebook pg. 326  
 **school**:: divination
 **level**:: arcanist 5, mesmerist 5, occultist 5, psychic 5, sorcerer 5, spiritualist 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a handful of crystal marbles)
 
-### Effect 
+### Effect
 
 **range**:: 1 mile  
 **effect**:: 10 or more levitating eyes  
@@ -21,7 +23,7 @@ alias: Prying Eyes
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a number of semitangible, visible magical orbs (called “eyes”) equal to 1d4 + your caster level. These eyes move out, scout around, and return as you direct them when casting the spell. Each eye can see 120 feet (normal vision only) in all directions.  
   

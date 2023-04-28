@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Tumult Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 90
 desc_short: This dragon seems to be made of parts from different creatures.
 ```
-# Description
+## Description
 These planar dragons seek out dynamic and changing places, imposing their own whimsical will when those sites no longer intrigue them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Tumult%20Dragon)
 ```encounter-table
 name: Young Tumult Dragon

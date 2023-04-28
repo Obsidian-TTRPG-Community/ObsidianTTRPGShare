@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Red Reaver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 88
 desc_short: Its stooped stance evoking a gorilla-like frame, this massive beast has six tiny eyes and atrophied wings.
 ```
-# Description
+## Description
 Slow-witted but having a dangerous temper, red reavers are violent forces of nature. While red reavers don’t seek out fights and they are rarely aggressive when not provoked, their territorial nature and tendency to misinterpret others’ actions make approaching one an exceedingly dangerous proposition.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Red%20Reaver)
 ```encounter-table
 name: Red Reaver

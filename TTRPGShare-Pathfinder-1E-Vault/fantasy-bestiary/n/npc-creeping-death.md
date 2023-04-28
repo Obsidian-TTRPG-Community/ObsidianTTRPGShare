@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Creeping Death
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
   - name: NPC Codex
     desc: 74
 ```
-# Description
+## Description
 Creeping death druids see terrain as the ultimate weapon against those who would despoil their homes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Creeping%20Death)
 ```encounter-table
 name: NPC Creeping Death

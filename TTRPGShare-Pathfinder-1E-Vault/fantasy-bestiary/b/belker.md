@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Belker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 45
 desc_short: Dull, red eyes, grasping claws, and leathery wings give a demonic aspect to this creature’s smoky form. 
 ```
-# Description
+## Description
 Belkers are hateful elemental air creatures resembling fiends made of smoke. Xenophobic in the extreme, they see most non-elemental creatures as threats, and stalk and kill any such intruders in their territory. Among their elemental kin, they especially hate djinn and jann. They tolerate air mephits, dust mephits, steam mephits, air elementals, and fire elementals, but given the choice, prefer the company of their own kind. 
 
 Belkers create no permanent lairs, but do claim and defend large territories from other living things, particularly areas ravaged by frequent storms, volcanic eruptions, hot springs, or forest fires. Some sages believe the belkers worship these dangerous natural phenomena; others speculate the elementals somehow feed on the unusual air from these sites. Still other scholars theorize that the reclusive beasts require the energy from these phenomena to feed or reproduce.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Belker)
 ```encounter-table
 name: Belker

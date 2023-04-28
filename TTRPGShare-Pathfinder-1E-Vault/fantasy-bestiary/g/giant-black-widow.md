@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Black Widow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 256
 desc_short: This long-legged spider has a huge, glossy black abdomen, marked on the underside with the shape of a crimson hourglass.
 ```
-# Description
+## Description
 Females of this species are larger than males. Males are identical to the typical giant spider (Pathfinder RPG Bestiary 258).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Black%20Widow)
 ```encounter-table
 name: Giant Black Widow

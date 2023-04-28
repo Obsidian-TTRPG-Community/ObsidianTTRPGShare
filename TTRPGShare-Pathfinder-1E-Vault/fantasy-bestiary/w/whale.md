@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Whale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 282
 desc_short: This immense whale moves slowly through the water with a grace that seems incongruous, given its immense size.
 ```
-# Description
+## Description
 Whales are frequently hunted for their meat and the valuable oil in their blubber. Baleen whales have no teeth and attack with a tail slap; toothed whales like sperm whales instead attack with a bite. Whale companions are smaller species-rules for such companions are the same as those for orcas (see page 88 of the Pathfinder RPG Bestiary).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Whale)
 ```encounter-table
 name: Whale

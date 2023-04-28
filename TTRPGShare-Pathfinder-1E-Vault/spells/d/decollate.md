@@ -1,19 +1,21 @@
 ---
-alias: Decollate
+aliases: [Decollate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Decollate 
+## Decollate
 
 **source**:: Horror Adventures pg. 116  
 **school**:: necromancy
 **level**:: alchemist 4, antipaladin 4, arcanist 5, cleric 5, investigator 4, oracle 5, psychic 6, sorcerer 5, spiritualist 4, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a red wax pencil)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one willing humanoid or monstrous humanoid creature  
@@ -21,7 +23,7 @@ alias: Decollate
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 A thin red line circles the target’s neck. The target’s head becomes detachable so long as she removes it willingly. While the target’s head is detached, she gains DR 2/- and immunity to decapitation effects and other effects that require their target to have a head or a particular facial feature. The target is blind so long as she has no head, but she gains blindsense to a distance of 15 feet. The target hears normally even without its head.  
   

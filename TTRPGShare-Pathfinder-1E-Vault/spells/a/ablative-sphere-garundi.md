@@ -1,25 +1,27 @@
 ---
-alias: Ablative Sphere (Garundi)
+aliases: [Ablative Sphere (Garundi)]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ablative Sphere (Garundi) 
+## Ablative Sphere (Garundi)
 
 **source**:: Humans of Golarion pg. 28  
 **school**:: abjuration
 **level**:: arcanist 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a crystalline sphere worth 10 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 The Garundi tenaciously protect their homes, and through the years they have perfected magic to aid them in their defense. An immobile, crystalline, weblike globe surrounds you.  
   

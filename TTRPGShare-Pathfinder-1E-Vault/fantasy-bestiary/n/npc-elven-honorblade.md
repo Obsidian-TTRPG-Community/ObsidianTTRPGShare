@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Elven Honorblade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: NPC Codex
     desc: 118
 ```
-# Description
+## Description
 An elven honorblade guards pristine forests and hunts evil beasts that would despoil nature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Elven%20Honorblade)
 ```encounter-table
 name: NPC Elven Honorblade

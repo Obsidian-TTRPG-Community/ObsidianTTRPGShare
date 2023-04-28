@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dhirgiska
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 32
 desc_short: This massive hydra has black and green scales, and caustic purple venom drips from its numerous sets of fangs.
 ```
-# Description
+## Description
 West of Kokutang in the Sodden Lands, there lies the remains of a once-proud and now-nameless village, destroyed when the massive Eye of Abendego consumed the gulf and buried the young nation of Yamasa and its secrets more than 100 years ago. Within the flooded ruins of this small settlement, the miasma hydra known to local Koboto tribespeople as Dhirgiska scavenges the wreckage and makes its lair in the vast caverns carved out of the marshy earth beneath the village. Attacking any who dare to near the destroyed village, the hydra has made it impossible for the people of Kokutang to fully explore the ruins and discover what importance the site once held for their people, if any. It is unknown what drives Dhirgiska to protect its lair so fervently, and some think that the beast was left by the deceased people of the village in order to protect their secrets and treasures. Whatever the case, it is well known that those who dare face the ruins and the beast that dwells within rarely come back alive.
 
 Though it is generally known that any foreigners who try to interact with the people of Kokutang will be met with ravenous hostility, it is thought that should some brave adventurer bring the heart of the treacherous Dhirgiska to them, she would be praised as a hero in their eyes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dhirgiska)
 ```encounter-table
 name: Dhirgiska

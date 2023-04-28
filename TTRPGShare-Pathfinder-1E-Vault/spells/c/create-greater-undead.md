@@ -1,19 +1,21 @@
 ---
-alias: Create Greater Undead
+aliases: [Create Greater Undead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Greater Undead 
+## Create Greater Undead
 
 **source**:: PRPG Core Rulebook pg. 261  
 **school**:: necromancy (evil)
 **level**:: arcanist 8, cleric 8, oracle 8, shaman 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one corpse  
@@ -21,7 +23,7 @@ alias: Create Greater Undead
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *create undead*, except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead created is based on caster level, as shown below.  
   

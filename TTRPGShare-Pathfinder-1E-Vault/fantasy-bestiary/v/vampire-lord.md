@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: Monster Codex
     desc: 243
 ```
-# Description
+## Description
 A vampire lord is a ruthless, calculating noble or other figure of authority that dominates her political landscape.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire%20Lord)
 ```encounter-table
 name: Vampire Lord

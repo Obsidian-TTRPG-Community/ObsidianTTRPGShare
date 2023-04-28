@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moloch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,11 +81,11 @@ sources:
     desc: 30
 desc_short: This immense figure appears to be a suit of blackened, diabolic armor filled with shrieking blasts of blistering fire.
 ```
-# Description
+## Description
 Moloch is the dread general of Hell’s armies, both his own hordes in the pits of Malebolge and the legions serving his lieutenants throughout the plane. He is fiercely loyal to Asmodeus and to Hell itself, and he marshals not only devils but also lost souls, other denizens of Hell, and interplanar mercenaries in brutal, endless campaigns. He can recount the dispositions and particulars of every military formation in Hell, and he brooks no insubordination or disobedience in martial matters, under threat of burning torments that are terrible even by Hell’s standards. Moloch is surprisingly responsive to his mortal worshipers, and he is quite willing to exchange his favor for gifts of provisions, supplies, and soldiers for the infernal armies. Those sacrificed to him in the fires of the mortal world or ritually cremated in his honor after death face an eternity of soldierly slavery in his legions. 
 
 Moloch is a hulking giant of fire and steel, standing 24 feet tall and weighing 5 tons. What appears to be his armor is in fact his flesh, inside which lies nothing but flames, ash, and bits of scorched bone from previous victims. Despite his fiery appearance, he is a cool and professional tactician who has studied war for eons and has put every known tactical theory into practice in the endless war against the celestial hosts and the fiendish rivals of Hell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moloch)
 ```encounter-table
 name: Moloch

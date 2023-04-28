@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marax
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 86
 desc_short: Dense, bony growths line the back of this bipedal predator. Between its gnashing, toothy underbite, scythe-like claws, and spiked tail, no part of this beast offers mercy.
 ```
-# Description
+## Description
 Cunning and brutal, maraxes are far-ranging predators from Castrovel’s mist-shrouded landscape. Gifted with vicious weapons, dense armor, and a paralytic venom, a single marax is a match for even the greatest hunter. A pack can easily bring down Castrovel’s largest creatures and defend their territory against the planet’s most fearsome competitors.
 
 Variations of maraxes dot Castrovel’s different regions just as big cats stalk Golarion’s. Different subspecies can be identified by their varying fur colors and patterns and the arrangement of ridges on their dorsal plates. Maraxes typically stand 9 to 10 feet tall and weigh up to 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marax)
 ```encounter-table
 name: Marax

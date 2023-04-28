@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Benaioh (Clay Vessel)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 84
 desc_short: This towering humanoid figure appears to be sculpted from clay. Fine cracks thread through the creature’s body, leaking a steady stream of putrescent slime.
 ```
-# Description
+## Description
 Long before the Thassilonian empire rose to power on the western shores of Avistan, ancient tribes of stone giants migrated into the western reaches of Varisia and settled in the region now called the Mindspin Mountains. As their culture grew, so did their devotion to the deities who blessed them with the riches of the earth. They worshiped gods, the spirits of the wild world around them, and their ancestors. To show their respect, they erected dozens of small temples throughout the region. In later centuries, much of their culture was torn apart. Those who clung to their beliefs were slaughtered, and their temples were sacked, looted, and burned. Anything left behind fell into the care of aging priests, and over the centuries, as their caretakers passed on, these remnants slipped into obscurity.
 
 One strange ritual from this time, typically practiced by the ancient priests of the giant goddess Fandarra, involved the preparation of corpses for the journey to the afterlife, but created benaiohs as a side effect. Corpses were prepared by decomposing them within a clay vessel that the priests believed would allow the soul to escape after the body decomposed. To augment this process, the priests used slender, flesh-devouring worms that were imbued with divine blessings. Over the course of a lengthy ritual, priests sealed the deceased’s entire body in sacred clay. As the clay hardened, they sculpted it to resemble the likeness of the deceased, forming a sort of statue-like sarcophagus that stood upright. The only portions of this clay vessel that were left unsealed were holes that allowed access to the individual’s eyes and mouth. Then Fandarra’s priests placed three of the sacred worms into each of the vessel’s openings. Lastly, the priests sealed the openings with wax. In this manner, the priests believed they were separating the deceased’s physical body from its soul, leaving the soul free to follow Fandarra (or her servitors) on to its final rest in the Great Beyond.
 
 As a side effect, this strange burial practice provided guardians for the tombs, as the divinely imbued worms eventually animate their clay vessels as benaiohs. Since the worms are able to breed rapidly and then maintain a stable population indefinitely, benaiohs are capable of standing vigil for millennia. A benaioh in its clay vessel stands just over 12 feet tall and weighs 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Benaioh%20(Clay%20Vessel))
 ```encounter-table
 name: Benaioh (Clay Vessel)

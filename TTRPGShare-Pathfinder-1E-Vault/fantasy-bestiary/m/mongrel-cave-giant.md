@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mongrel Cave Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 192
 desc_short: This stooped giant has the tusks and posture of a cave giant, but its elongated head and gray, stony skin betray its stone giant heritage.
 ```
-# Description
+## Description
 Giants are a diverse race that can be found nearly anywhere on Golarion. As a people, they’ve grown exceedingly varied in both customs and appearance. While most giants bear the physical features of their immediate ancestors, on occasion a giant gives birth to a child possessing physical traits associated with one of the other types of giants. Exactly why these “mongrel giants” (as they’re known) bear attributes of different giant varieties remains a mystery, particularly because giants of differing varieties who mate with one another don’t produce viable offspring.
 
 Many believe that all giants came from a single, great race of ancient giants and such throwbacks arise naturally. Not surprisingly, each type of giant argues that these ancient ancestors most resembled the giants of their own race and the other types of giants are their descendants.
 
 Hill giants are the one type of giants whose traits don’t arise in other giants. However, hill giants are the most prone to birthing mongrel giants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mongrel%20Cave%20Giant)
 ```encounter-table
 name: Mongrel Cave Giant

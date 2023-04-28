@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wild Hunt Horse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 280
 desc_short: This powerful steed stands upon wispy puffs of air, its grassy mane and tail swishing majestically in the wind.
 ```
-# Description
+## Description
 When they are not participating in a hunt, wild hunt horses enjoy constructing complicated courses through land and sky and racing each other for ever-changing stakes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wild%20Hunt%20Horse)
 ```encounter-table
 name: Wild Hunt Horse

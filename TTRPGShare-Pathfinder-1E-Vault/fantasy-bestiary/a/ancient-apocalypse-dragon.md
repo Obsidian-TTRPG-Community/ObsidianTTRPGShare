@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ancient Apocalypse Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 89
 desc_short: Gangrenous wounds mar this dragon’s twisted body.
 ```
-# Description
+## Description
 These planar dragons ravage places of growth, life, and fecundity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ancient%20Apocalypse%20Dragon)
 ```encounter-table
 name: Ancient Apocalypse Dragon

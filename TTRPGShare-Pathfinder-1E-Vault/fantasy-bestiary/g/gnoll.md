@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,7 +44,7 @@ sources:
     desc: 155
 desc_short: Hunched and feral, this furred, hyena-headed humanoid stands slightly taller than the average human.
 ```
-# Description
+## Description
 Gnolls are a race of hulking, humanoids that resemble hyenas in more than mere appearance; they show a striking affinity with the scavenging animals, to the point of keeping them as pets, and reflect many of the lesser creatures’ behaviors.
 
 Gnolls are capable hunters, but are far happier to scavenge or steal a kill than to go out and track down prey. This laziness impels them to acquire slaves of whatever type is available, whom they force to dig warrens, gather supplies and water, and even hunt for their gnoll masters.
@@ -54,7 +56,7 @@ Gnolls relish combat, but only when they have the obvious advantage of numbers. 
 During combat, gnolls use a strange mixture of pack tactics and individual standoffs. If a gnoll feels that it is winning, it attempts to take down a weaker being rather than aiding its fellows. If the gnolls are struggling, they gang up on a powerful leader and try to take that creature down, in the hopes of forcing its allies to flee.
 
 Gnoll leaders are typically rangers, although clerics are highly regarded as well. Most gnolls find arcane magic difficult to master, and as a result it is relatively rare to see a gnoll bard, sorcerer, or wizard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoll)
 ```encounter-table
 name: Gnoll

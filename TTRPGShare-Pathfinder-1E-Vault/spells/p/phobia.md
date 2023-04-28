@@ -1,19 +1,21 @@
 ---
-alias: Phobia
+aliases: [Phobia]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phobia 
+## Phobia
 
 **source**:: Horror Adventures pg. 124  
 **school**:: enchantment (compulsion) (emotion, fear, mind-affecting)
 **level**:: arcanist 6, bard 5, mesmerist 5, psychic 6, skald 5, sorcerer 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a single white hair)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one intelligent creature  
@@ -21,7 +23,7 @@ alias: Phobia
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You instill the target with an intense, instinctual fear of a condition or circumstance, more powerful than the phobia lesser madness (see page 182). You can name an energy type (acid, cold, electricity, fire, or sonic), a hazard (such as an avalanche or earthquake), or a single creature of the animal type or all vermin (applying when the target sees a swarm or a single Small or larger creature). Alternatively, you can name the following specific environments: darkness (darker than dim light, and you can’t apply this phobia to a creature with natural racial darkvision, see in darkness, blindsight, or similar senses), enclosed spaces (places that require the creature to squeeze),heights (10 times the target’s height, and you can’t apply this phobia to creatures with a natural fly speed), or water (you can’t apply this phobia to aquatic creatures or creatures with a natural swim speed).  
   

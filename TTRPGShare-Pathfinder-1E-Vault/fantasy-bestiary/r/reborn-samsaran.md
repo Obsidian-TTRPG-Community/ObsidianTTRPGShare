@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Reborn Samsaran
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 50
 desc_short: The pale-blue skin of this dark-haired humanoid seems to subtly change hue from moment to moment.
 ```
-# Description
+## Description
 Sometimes a samsaran perishes under especially dramatic emotional circumstances, causing its soul to wander the Ethereal Plane before finally reincarnating. This spirit journey frays the samsaran’s connection to his past lives but strengthens his ability to read others’ pasts and present.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Reborn%20Samsaran)
 ```encounter-table
 name: Reborn Samsaran

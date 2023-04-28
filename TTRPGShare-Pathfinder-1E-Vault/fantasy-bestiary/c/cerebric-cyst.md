@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cerebric Cyst
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 13
 desc_short: This floating, purple brain has occult sigils glowing on its surface and tentacles made of ectoplasm.
 ```
-# Description
+## Description
 While a typical brain ooze is content with feeding on and subjugating the minds of lesser beings, cerebric cysts focus on a higher prize. Only the minds of psychic beings sate the vile and cruel hunger of these creatures. Cerebric cysts often manifest greater number of aggressive abilities than their brain ooze cousins, stunning and weakening their quarries’ mental defenses before draining their victims’ precious intellectual energy through their ectoplasmic tentacles.
 
 A cerebric cyst is willing to devour the power of non-psychic beings, but it gains only minor satisfaction from their mental energy. Psychic creatures, however, are a true delicacy, and cerebric cysts occasionally establish facades such as fake schools for gifted children in order to lure such pliable chattel to them and thus avoid the need for arduous hunts for psychic sensitives.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cerebric%20Cyst)
 ```encounter-table
 name: Cerebric Cyst

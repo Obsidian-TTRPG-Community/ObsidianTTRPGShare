@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aranea
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 30
 desc_short: This bloated spider has a hunchbacked body and a gleam of intelligence in its multiple eyes. 
 ```
-# Description
+## Description
 An aranea is an intelligent, shapechanging spider with sorcerous powers. In its natural form, an aranea resembles a humpbacked spider a little bigger than a human, and weighs about 150 pounds. The hump on its back houses the aranea’s brain. All araneas have a single alternate form as well-this alternate form is that of a Small or Medium humanoid. Although an aranea can assume a spider-hybrid variant of this form, it cannot use its change shape ability to assume multiple humanoid forms-this additional shape is locked into one unique appearance. 
 
 Araneas typically gather in small colonies of two to six individuals, making webbed nests high in trees. These colonies work together to research magic, and may change membership many times over as individuals leave to pursue their own studies and are replaced by newer members. A single aranea may take on humanoid form and live for years in a humanoid community, never revealing its true nature. Though araneas generally prefer to be left alone, they often prove quite knowledgeable about the ways of magic, and if approached peacefully may be willing to share their expertise for the right price (typically a magic item or some service). 
 
 Skilled spellcasters, araneas try to avoid physical combat and use their webs and spells when they can. Rather than kill their enemies, araneas often subdue opponents and hold them for ransom.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aranea)
 ```encounter-table
 name: Aranea

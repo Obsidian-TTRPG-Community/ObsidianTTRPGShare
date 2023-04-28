@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ataxian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 283
 desc_short: This sprite-like creature resembles a humanoid the size of a cat, with amber skin, surrounded by an aura of tiny bubbles.
 ```
-# Description
+## Description
 An ataxian is a rowdy, boisterous, and good-natured servitor of Cayden Cailean. It has an instinct for finding taverns, whether in a crowded city or rural farmland. When it finds these drinking holes, it’s always able to find people willing to buy it drinks. An ataxian embodies all the positive stereotypes of a happy, fun drunk.
 
 Courageous despite its tiny, frail body, an ataxian is always ready to stand up for the underdog, and it isn’t afraid to take the first swing against a bully. However, an ataxian much prefers to use its magic to make fools out of thugs-or, better yet, turn potential adversaries into drinking buddies.
@@ -76,7 +78,7 @@ Courageous despite its tiny, frail body, an ataxian is always ready to stand up 
 Ataxians love to possess worshipers of the Drunken Hero and experience life in an “enormous” body, and they seize the chance whenever they can. Many tales of a drunken peasant single-handedly defeating a gang of ruffians can be attributed to the unexpected intervention of one of these servitors. Ataxians enjoy singing bawdy songs, carousing with light-hearted folk, and spreading good cheer.
 
 Ataxians typically measure about 1-1/2 feet tall and weigh about 4 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ataxian)
 ```encounter-table
 name: Ataxian

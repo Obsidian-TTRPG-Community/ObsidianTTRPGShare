@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Stunning
+aliases: [Symbol of Stunning]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Stunning 
+## Symbol of Stunning
 
 **source**:: PRPG Core Rulebook pg. 356  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 7, cleric 7, occultist 5, oracle 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Stunning
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that all creatures within 60 feet of a *symbol of stunning* instead become stunned for 1d6 rounds.  
   

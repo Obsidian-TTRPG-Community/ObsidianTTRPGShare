@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skvader
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 86
 desc_short: This small creature has the forequarters and hind legs of a hare, and the wings and tail of a wood grouse.
 ```
-# Description
+## Description
 A combination of hare and grouse, skvaders boast features and mannerisms of both animals. At first glance, a skvader appears to be a common hare, though its shorter ears distinguish it from the longer-eared rabbits. Its wings, hindquarters, and tail usually have a coloration similar to its fur, and its birdlike features are only easily distinguishable up close. Skvaders are twitchy and nervous, constantly on the lookout for predators. They switch between standing stock still upon sensing danger and quickly bolting to escape. While generally docile, skvaders become dangerous if cornered.
 
 A skvader is about 1-1/2 feet long and weighs around 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skvader)
 ```encounter-table
 name: Skvader

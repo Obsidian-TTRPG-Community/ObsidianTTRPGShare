@@ -1,19 +1,21 @@
 ---
-alias: Shadow Bomb Admixture
+aliases: [Shadow Bomb Admixture]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Bomb Admixture 
+## Shadow Bomb Admixture
 
 **source**:: Ultimate Combat pg. 243  
 **school**:: conjuration (creation)
 **level**:: alchemist 2, investigator 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Shadow Bomb Admixture
 **saving-throw**:: special, see below
 **spell-resistance**:: special, see below
 
-### Description 
+### Description
 
 Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all bombs you create and throw during this extract’s duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (formula with the word “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.  
   

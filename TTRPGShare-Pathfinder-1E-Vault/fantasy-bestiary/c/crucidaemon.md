@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crucidaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 62
 desc_short: Its body seemingly made of iron, this shapely feminine form has wrists pierced by chains that end in curved blades.
 ```
-# Description
+## Description
 Bloody representations of death by traps or torture, crucidaemons spend their existence subjecting creatures to an eternity of pain and terror. Whereas many daemons are quick to feed on the soul of mortals they capture, a crucidaemon lets its victims linger, marinating their souls in torment and pain so that when the time for feeding finally comes, they welcome their final oblivion with tears of gratitude.
 
 Crucidaemons are 6 feet tall and weigh 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crucidaemon)
 ```encounter-table
 name: Crucidaemon

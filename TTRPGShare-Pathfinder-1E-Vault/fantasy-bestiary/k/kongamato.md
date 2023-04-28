@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kongamato
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 169
 desc_short: A massive draconic creature with a birdlike head dives from the sky, letting loose a piercing scream as it descends.
 ```
-# Description
+## Description
 Kongamatos are primeval dragons that hunt the deep jungles of the world. Although not as intelligent or magically adept as their “true” cousins, kongamatos are respected and feared for their resilience and awesome strength. While the kongamato’s body is clearly draconic-squat and dense with sharp claws capping each of its four limbs-the creature’s head is distinctly avian, with a long, toothless beak and a pronounced crest. A kongamato’s hide is a rich emerald hue, with an ash-colored underbelly and crimson webbing on its broad wings. Females have smaller head-crests than males, and a rosy hue colors both the undersides of their wings and their underbellies.
 
 Kongamatos are apex predators that make their lairs in the tops of the oldest and strongest trees, or in caves and ruins. Kongamatos are carnivorous and prey on large herd animals. Although they do not have teeth, their beaks are sharp and strong, allowing them to carve their kills with precision and to punch through wood, rock, and even metal. When possible, kongamatos hunt on the perimeter of their territories, gliding silently and gracefully through even the thickest forest foliage to surprise prey.
 
 Both males and females grow to a length of almost 30 feet, with an equally broad wingspan, and can weigh up to 7 tons. Kongamatos live between 500 and 600 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kongamato)
 ```encounter-table
 name: Kongamato

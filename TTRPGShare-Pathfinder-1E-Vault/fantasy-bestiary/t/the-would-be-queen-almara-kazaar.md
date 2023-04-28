@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Would-Be Queen, Almara Kazaar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 15
 desc_short: This gray-skinned dwarf wears iron plates over a set of purple and magenta robes and carries a warhammer.
 ```
-# Description
+## Description
 The duergar clergy of Droskar generally avoid direct combat, preferring instead to command hordes of mercenary forces in battle on their behalf. Almara Kazaar is one of the few priests of the Dark Smith who prefers to wade into the thick of battle herself, meting out the dark fury of her god with the head of her warhammer. In combat, she is cold and calculating, and prefers to first use her numerous spells to improve her physical abilities and then unleash other debilitating effects at range. She wields her warhammer in close quarters, not hesitating to use her racial spell-like ability to increase her size and strike at as many foes as she can.
 
 The leader of Droskar’s faithful in Mabbryn, Almara spends much of her time in the Forge Quencher- the massive fortress that protects Mabbryn’s water supply. Much of Almara’s daily life is fraught with political squabbles with Mabbryn’s military leader, Margrave Daguda Urgadan. Nicknamed the “Would-Be Queen” by members of Droskar’s faithful, Almara maintains a tense relationship with Daguda, but hopes to replace the other political leader of the city one day.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Would-Be%20Queen%2C%20Almara%20Kazaar)
 ```encounter-table
 name: The Would-Be Queen, Almara Kazaar

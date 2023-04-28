@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Salikotal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,11 +78,11 @@ sources:
     desc: 82
 desc_short: On lean limbs the color of spilt blood creeps a being of sinister grace. Eyes like embers and a sneer full of needle-thin teeth gleam from an unmistakably fiendish visage. A pair of crimson wings sprout from the back of the hairless humanoid form, fluttering silently like an assassin’s cloak, while in one hand it clutches the twisted, dagger-like horn of some infernal terror.
 ```
-# Description
+## Description
 Prince-killers and assassins of souls, salikotals serve as the bloody chisels by which the lords of Hell subtly shape the mortal world to their whims. Soaring through the night on silent wings, these murderous devils care nothing for life or reason, knowing only a single, murderous goal. Cloaked by shadow and silence, few ever glimpse the sharp features of a salikotal, for Hell’s death-dealers reveal themselves only amid the haze of fading life.
 
 Lean, deft hunters, salikotals move like terrible predatory birds, each taloned step measured, cautious, and full of deadly intent. Protected by an armor of sharp, thin scales, these agile devils universally stand 5 feet, 4 inches tall, and weigh 85 pounds, their barbed frames supporting the breadth of their 8-foot-wide, bat-like wings. They have full control over their slender tails, nimbly manipulating objects and even wielding deadly, Hell-forged blades in these dexterous, prehensile appendages.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Salikotal)
 ```encounter-table
 name: Salikotal

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zealot Wraith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 63
 desc_short: This spectral human is draped in multicolored vestments that trail off into mist, and has open black pits for eyes and an expression of sorrow and horror.
 ```
-# Description
+## Description
 When Aroden died, natural disasters wracked Avistan. Priests of Aroden killed in such disasters often died with overwhelming feelings of confusion, sorrow, and betrayal as their prayers for succor went unanswered; for some, their sense of doubt and injustice overwhelmed their faith at the moments of their deaths. The souls of these forsaken priests were unable to pass on, and they now prowl the site of their deaths as incorporeal undead known as zealot wraiths. These restless shades harbor a hatred for the living, and their touch inflicts a curse that embodies their sense of sorrow and self-doubt.
 
 Anytime a cleric or devout follower of a deity dies in the throes of doubt or a sense of disappointment in her god, she risks becoming a zealot wraith. Although now undead horrors, such wraiths were once devoted believers of their gods; this heritage manifests as an aversion to their deities’ holy symbols (whether or not wielded by a worshiper of the associated god). As such, zealot wraiths pose little threat to those living souls who shared their faith but who did not succumb to the same tragedies that resulted in the wraith’s creation, leaving the undead ironically impotent in the temples and holy sites they frequently haunt.
 
 Arodenite zealot wraiths are common in the ruins of Deng and are occasionally spotted in destroyed Arodenite chapels in Westcrown. Zealot wraiths of other faiths, including those of Easivra, Lissala, and Ydersius can be found throughout the Inner Sea region.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zealot%20Wraith)
 ```encounter-table
 name: Zealot Wraith

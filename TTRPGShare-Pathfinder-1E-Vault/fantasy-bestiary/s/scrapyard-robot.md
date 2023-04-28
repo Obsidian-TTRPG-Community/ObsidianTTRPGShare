@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scrapyard Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 58
 desc_short: Frayed wires and broken-off protrusions sprout from mechanical construct’, and one of its salvaged arms ends in a spinning blade.
 ```
-# Description
+## Description
 Pieced together from broken technology, these constructs lack the balance to stand upright, the motor control to use their hands (if they have any), and the intelligence possessed by advanced robots, but they still retain a halting consciousness and the ability to obey simple commands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scrapyard%20Robot)
 ```encounter-table
 name: Scrapyard Robot

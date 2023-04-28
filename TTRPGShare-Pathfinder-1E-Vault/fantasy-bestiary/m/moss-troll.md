@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moss Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 273
 desc_short: This large and lanky moss-colored humanoid has an elongated, toothy snout and appears to be covered in bits of foliage.
 ```
-# Description
+## Description
 Moss trolls are bent and gangly creatures. They are smaller and thinner than normal trolls, yet their arms are unusually long and spindly for the creatures’ size. Their flesh supports the growth of moss and mold as surely as tree bark.
 
 Although their appetites are notoriously powerful, moss trolls are sly killers rather than simple brutes. They travel in the trees, singing, climbing, and jumping with unnerving ease. When a moss troll spots prey, it reaches or leaps down from above, heedless of dropping great distances in its eagerness to sate its ravenous appetite.
@@ -64,7 +66,7 @@ Moss trolls are fearless except in the face of fire, which does not stop a hungr
 Moss trolls not only hunt from the trees, but also live, breed, and hide their treasure among the branches. Their weirdly long arms allow them to attack foes on the ground without ever needing to set foot on the earth themselves. Young moss trolls are adept at climbing and acrobatics, as much as they are at eating and killing. Like other trolls, adult moss trolls often drive juveniles away after training them to hunt and fight. Gangs and troops of moss trolls exist only where food is plentiful. While moss trolls can digest almost any organic material, they prefer fresh meat-particularly when said meat is served still alive and squirming after a particularly invigorating session of stalking and torture.
 
 A moss troll is 9 feet tall and weighs 550 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moss%20Troll)
 ```encounter-table
 name: Moss Troll

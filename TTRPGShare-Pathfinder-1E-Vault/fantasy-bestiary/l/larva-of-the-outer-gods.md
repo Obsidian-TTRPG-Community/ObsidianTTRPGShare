@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Larva of the Outer Gods
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 88
 desc_short: This creature is a terrifying amalgamation of chitinous scales, bloated flesh, unblinking eyes, and writhing tentacles.
 ```
-# Description
+## Description
 At the heart of the Dark Tapestry lies Azathoth, a shapeless entity the size of a star, imbued with immense chaotic and destructive power. The members of Azathoth’s court orbit it like planets, exalting in the babbling nonsense the blind idiot god issues into the void and singing songs of exquisite madness to their lord. The least of this celestial choir are the larvae of the Outer Gods, shed from Azathoth as a body sheds skin cells. They conjure instruments from the ether, such as pipes and flutes, with which to serenade their progenitor as they mature into gods of the void.
 
 Larvae of the Outer Gods are constantly shifting in form, but average 10 feet in diameter and weigh 1,600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Larva%20of%20the%20Outer%20Gods)
 ```encounter-table
 name: Larva of the Outer Gods

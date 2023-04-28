@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Whisperer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -86,7 +88,7 @@ sources:
     desc: 276
 desc_short: This luminous shape stands twice the height of a human. A pale light shines where its face should be.
 ```
-# Description
+## Description
 Civilization spreads like an invasive species, destroying and consuming, transforming and dominating. There are some realms, though-primeval and pristine tracts of wilderness-that civilization will never claim. These are the whisperers’ domains. 
 
 The whisperers are fey in the most otherworldly and alien way possible. They resent those who trespass on their primeval landscapes, the lone exceptions being the undead that rise from the spirits of their victims or those fey who, by their natures or through cruel fate, have fallen to evil. These fey seek out the whisperer’s realm, both for the protection it provides and because they find its alien presence strangely euphoric; they often delight in leading intruders into the whisperer’s grasp. 
@@ -94,7 +96,7 @@ The whisperers are fey in the most otherworldly and alien way possible. They res
 A whisperer’s domain is nearly as hostile to intruders as the whisperer itself is. Lethal hazards, unexplainable occurrences, and eerie happenings are common in a primeval landscape, as are haunts formed from previous trespassers. Plant creatures and animals attack viciously, and even “ordinary” plants seem hostile to intruders. 
 
 A whisperer is 15 feet tall and, being incorporeal, is completely weightless.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Whisperer)
 ```encounter-table
 name: Whisperer

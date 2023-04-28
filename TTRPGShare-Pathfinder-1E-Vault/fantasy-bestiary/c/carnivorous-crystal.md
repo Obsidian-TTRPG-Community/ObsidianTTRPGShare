@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Carnivorous Crystal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 45
 desc_short: The facets of this crystalline formation shift and vibrate, as though in anticipation.
 ```
-# Description
+## Description
 Natives of the endless caverns of the Plane of Earth, carnivorous crystals normally lead quiet existences, subsisting on minerals leeched from the surrounding rock. Living creatures, however, provide a veritable feast, as devouring the minerals in their bones and blood allows a crystal to reproduce in mere hours instead of years. Though lacking in anything that could be called intelligence, carnivorous crystals sense the living, and hunger for the sustenance trapped within their bodies.
 
 On the Plane of Earth and in the deepest caverns of the Material Plane, ancient carnivorous crystals grow without bounds, reaching incredible sizes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Carnivorous%20Crystal)
 ```encounter-table
 name: Carnivorous Crystal

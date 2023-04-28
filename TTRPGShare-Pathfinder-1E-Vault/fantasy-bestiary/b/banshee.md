@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Banshee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 80
 desc_short: This beautiful, ghostly elven woman glides through the air, her long hair flowing around a face knotted into a mask of rage. 
 ```
-# Description
+## Description
 A banshee is the enraged spirit of an elven woman who either betrayed those she loved or was herself betrayed. Maddened by grief, a banshee visits her vengeance on all living creatures-innocent or guilty-with her fearsome touch and deadly wails.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Banshee)
 ```encounter-table
 name: Banshee

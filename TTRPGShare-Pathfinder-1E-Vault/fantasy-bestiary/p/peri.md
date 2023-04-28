@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Peri
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 218
 desc_short: This beautiful albino woman is wreathed in wings of brilliant flame.
 ```
-# Description
+## Description
 Peris are a race of celestials native to the good-aligned Outer Planes, but they are also often found in the company of mortals on the Material Plane. Believed to be the descendants of fallen angels, peris do penance for their ancestors’ sins before they can earn a place in paradise. As a result, peris work tirelessly to aid and support good heroes of the mortal realms in a never-ending battle against evil.
 
 Peris hate the evil fiends known as divs, who constantly seek to ruin the good works of mortals. Peris often work to repair damage wrought by the destructive divs. For their part, the divs take great pleasure in tormenting and persecuting peris, locking the fiery-winged celestials in cages of cold iron and endlessly torturing them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Peri)
 ```encounter-table
 name: Peri

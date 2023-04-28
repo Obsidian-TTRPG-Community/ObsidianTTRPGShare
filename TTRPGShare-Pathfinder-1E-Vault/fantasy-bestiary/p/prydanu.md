@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Prydanu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 84
 desc_short: Translucent wings protrude from this statuesque figure’s back. Patches of pale scales glisten on its skin.
 ```
-# Description
+## Description
 Prydanus are fierce champions of Elysium who use their talents to undo the work of oppressors by revealing their deception and releasing their victims from bondage. Among the prydanus’ most hated foes on Golarion are the alghollthus. Prydanus are drawn to civilizations under the thrall of tyrants. Prydanus do not tolerate such deceptions, and they combat them without hesitation whenever they encounter them. However, this lack of restraint sometimes makes for shortsighted plans of action leading to other consequences along the way.
 
  Prydanus pride themselves on being guardian figures, and they delight in helping distressed individuals, especially those attempting to escape from any form of subjugation. Given their natural tendency toward vanity, prydanus appreciate (and perhaps even expect) being showered with praise for their good deeds, and those who sufficiently stoke a prydanu’s ego may find a returning ally in that azata when future troubles arise.
@@ -78,7 +80,7 @@ Prydanus are fierce champions of Elysium who use their talents to undo the work 
  Radiant and poised, a prydanu appears as an attractive humanoid with small patches of iridescent scales on its glistening skin. A graceful pair of translucent finlike wings extends from its back, not only allowing it to soar with ease but also granting it impressive agility underwater. Their striking silver eyes are framed with long, feathery lashes and match their metallic-colored nails and lips. A prydanu’s hair varies from one individual to another but is usually several shades and decorated with jewels, flowers, shells, or other such adornments.
 
  A typical prydanu stands 8 feet tall and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Prydanu)
 ```encounter-table
 name: Prydanu

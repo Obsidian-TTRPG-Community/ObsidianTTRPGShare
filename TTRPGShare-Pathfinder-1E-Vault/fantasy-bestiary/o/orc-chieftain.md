@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc Chieftain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: Monster Codex
     desc: 170
 ```
-# Description
+## Description
 Leadership of an orc tribe or horde falls not to the smartest or most canny, but to the strongest.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc%20Chieftain)
 ```encounter-table
 name: Orc Chieftain

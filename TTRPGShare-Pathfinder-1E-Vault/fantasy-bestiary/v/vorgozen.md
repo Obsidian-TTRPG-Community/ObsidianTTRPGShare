@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vorgozen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 172
 desc_short: This mountain of filthy green sludge heaps up on itself, extending six tentacles and unfolding its core to reveal a single red eye.
 ```
-# Description
+## Description
 Most kaiju are ancient creatures that have dwelled in hidden lairs since the dawn of civilization, prehistoric monsters woken from eons-long slumbers, or alien entities who visit the world only rarely. But Vorgozen (referred to as the Shapeless Feeder by some, and as Queen Vorgozen by those who wish to see all magic abolished from the world) is a relatively recent addition to the world’s kaiju. This accidental but overwhelmingly powerful creation was forged from the unfortunate combination of hubris and arrogance. The absolute destruction of the remote academy in an immense fen that gave rise to the Shapeless Feeder left few clues as to the nature of the potent magic the wizards there were toying with. What hints remain suggest it involved reverse-engineering an artifact in an attempt to distill the potent powers held within the core of a once flying city. 
 
 Born as she was out of the abuse of magical power, Vorgozen is very much a personification of the arrogant wizard who values the study and mastery of magic and the pursuit of arcane power over all else. The Shapeless Feeder was not content to remain at the epicenter of her accidental creation, and has instead seeped through the world, drawn by powerful magical auras or supernatural foci. Fortunately for civilization, after emerging to destroy, the Shapeless Feeder invariably retreats to vast swamplands such as the site of her genesis to hibernate for decades before rousing once again from her slumber. 
@@ -73,7 +75,7 @@ Born as she was out of the abuse of magical power, Vorgozen is very much a perso
 The powerful magic of other kaiju’s supernatural abilities is particularly coveted by Vorgozen, and she enjoys polluting these effects more than any other. She is often drawn to places where other kaiju rampage as a result. 
 
 Queen Vorgozen is an immense mound of protoplasm nearly 80 feet in diameter. She weighs 24,000 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vorgozen)
 ```encounter-table
 name: Vorgozen

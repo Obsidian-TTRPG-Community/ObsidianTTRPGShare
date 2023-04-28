@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Crime Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: NPC Codex
     desc: 94
 ```
-# Description
+## Description
 Though most criminal masterminds work behind the scenes, crime lords don’t mind getting their hands dirty.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Crime%20Lord)
 ```encounter-table
 name: NPC Crime Lord

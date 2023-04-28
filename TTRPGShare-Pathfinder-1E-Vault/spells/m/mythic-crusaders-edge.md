@@ -1,19 +1,21 @@
 ---
-alias: Mythic Crusader's Edge
+aliases: ["Mythic Crusader's Edge"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Crusader's Edge
+## Mythic Crusader's Edge
 
 **source**:: Mythic Origins pg. 12  
 **school**:: transmutation (good)
 **level**:: cleric 4, inquisitor 4, oracle 4, paladin 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (dried blood from an evil outsider, sprinkled on the weapon)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: melee weapon touched  
@@ -21,7 +23,7 @@ alias: Mythic Crusader's Edge
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell was created by the paladins of the Mendevian Crusades, and co-opted by inquisitors and rangers dedicated to tracking and fighting demons, devils, and other evil extraplanar creatures.  
   

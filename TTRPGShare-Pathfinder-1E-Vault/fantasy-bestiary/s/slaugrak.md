@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slaugrak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 220
 desc_short: This hulking reptilian humanoid’s torso bristles with twitching vestigial limbs, milk-white eyes, and drooling half-formed mouths. The creature’s oversized maw is filled with curved teeth reminiscent of sickle blades.
 ```
-# Description
+## Description
 The taint of demonkind has long corrupted the troglodyte bloodline. Each generation a few mutant creatures marked with the taint of the Abyss are born, and fiendish deformities and stillbirths reeking of brimstone are all too common. The rapacious slaugrak is one of these fiendish mutants.
 
 A slaugrak is born with an unnatural and incessant hunger for living flesh. Young slaugraks grow at an unnatural rate, reaching full and awful maturity in just 2 weeks. From birth, a slaugrak is little more than a walking collection of fangs and claws with no thought other than to slay and eat. Slaugraks are sterile and solitary, holding no special love for troglodytes. A well-fed captive slaugrak might form an affectionate bond with its troglodyte keeper, but this affection merely makes the slaugrak more likely to eat its keeper last.
 
 A typical slaugrak stands 12 to 14 feet tall and weighs 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slaugrak)
 ```encounter-table
 name: Slaugrak

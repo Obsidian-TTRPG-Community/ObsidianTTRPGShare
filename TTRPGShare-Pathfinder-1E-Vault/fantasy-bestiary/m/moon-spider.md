@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moon Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 156
 desc_short: Pale and round-bodied, this giant spider is the size of a large dog. Its crimson eyes glitter with malign intelligence.
 ```
-# Description
+## Description
 Moon spiders are malevolent giant spiders that haunt the Echo Wood and other forests in the western vales of the Sellen River. They are far more intelligent than most of their arachnid kin; while they aren’t as smart as humans, they possess a sly cunning and magical talents that make them much more dangerous than other giant spiders-they even hunt cooperatively and share their kills.
 
 Moon spiders are web-weavers, and often create huge traps of sticky webbing. A creature that enters a square of moon spider webbing can easily become entangled or grappled. Typically, a moon spider uses its obscuring mist to hide the extent of its webs when prey approaches, using its tremorsense to keep track of its prey’s struggles.
 
 Moon spiders do not speak any humanoid language, but communicate with each other in clicks and taps of their legs on the ground, and they can understand simple concepts in Common (which is useful when they’re listening to prey).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moon%20Spider)
 ```encounter-table
 name: Moon Spider

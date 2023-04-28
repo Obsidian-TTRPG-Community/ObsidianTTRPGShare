@@ -1,25 +1,27 @@
 ---
-alias: Skinsend
+aliases: [Skinsend]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Skinsend 
+## Skinsend
 
 **source**:: Ultimate Magic pg. 238  
 **school**:: necromancy
 **level**:: alchemist 2, arcanist 2, investigator 2, occultist 2, psychic 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level (D)
 
-### Description 
+### Description
 
 You cause your own skin to peel off your body and animate as a magical creature you control. You may project your consciousness to your animated skin or return it to your actual body as a standard action. When your consciousness is in your body, you are helpless (except for transferring your will to your skin, or dismissing the spell).  
   

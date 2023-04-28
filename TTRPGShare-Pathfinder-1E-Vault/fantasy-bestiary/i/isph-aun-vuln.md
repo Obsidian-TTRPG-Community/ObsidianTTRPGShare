@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Isph-Aun-Vuln
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
     desc: 234
 desc_short: A cloud of smoke the size of a human condenses, forming a clot of tentacles and eyes surrounding a fanged mouth.
 ```
-# Description
+## Description
 Isph-Aun-Vuln appears as a human-sized mass of roiling tentacles arrayed around a large toothy maw. These tentacles slip in and out of reality, never fully existing as anything more than vapor, yet despite her immaterial form and relatively small size, she is among the most powerful of the qlippoth lords. Whereas others overwhelm their opponents through size and strength, Isph-Aun-Vuln opts for a more subversive and subtle approach, using possession and mental control of others to achieve her goal of slaughtering every creature with the capacity for sin-in other words, all free-willed mortals. Those she has no such use for she devours, adorning herself with fragments of their souls as vaporous, incandescent trophies-such will be the fate of all who remain should Isph-Aun-Vuln ever succeed at eliminating free will from the universe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Isph-Aun-Vuln)
 ```encounter-table
 name: Isph-Aun-Vuln

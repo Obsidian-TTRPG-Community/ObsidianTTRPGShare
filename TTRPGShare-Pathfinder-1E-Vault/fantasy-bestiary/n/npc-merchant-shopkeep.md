@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Merchant (Shopkeep)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
   - name: GameMastery Guide
     desc: 284
 ```
-# Description
+## Description
 Shopkeeps operate a city’s trade emporiums, a town’s shops, a village’s general store, and the frontier’s isolated trading posts. Whether a canny traveling peddler, a wheeling and dealing bazaar stallholder, or a respected businessman with a position on the town council, shopkeeps are found across the world, forming the backbone of a settlement’s economy as they keep the river of trade flowing freely through its gates.
 
 Shopkeeps can be used to represent a variety of minor occupations in villages, towns, and cities. Changing the focus of a shopkeep’s Profession skill can create a wide variety of characters, from bakers to fishermen to millers. Replacing a shopkeep’s Profession skill with a Craft skill creates a craftsman rather than a salesman, whether it be an alchemist, weaver, or smith. Exchanging Profession for a Knowledge skill or two makes a sage or scholar. In this case, the trade goods listed in the stat block above can represent books, maps, or scrolls.
@@ -47,7 +49,7 @@ Shopkeeps can be used to represent a variety of minor occupations in villages, t
 Shopkeeps are not skilled in combat, but could be used to represent a citizens’ militia mobilized in times of war. In this case, adding padded or leather armor, and perhaps replacing the dagger with a club or spear, or even a crossbow, can make them into more effective combatants.
 
 A shopkeep will often partner with another shopkeep or a vagabond (CR 3) for long journeys, sometimes hiring a guard if they deal in expensive commodities (CR 4).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Merchant%20(Shopkeep))
 ```encounter-table
 name: NPC Merchant (Shopkeep)

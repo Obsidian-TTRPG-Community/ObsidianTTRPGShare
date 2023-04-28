@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tor Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 185
 desc_short: This gigantic, wingless, four-armed dragon has rivulets of bright red magma coursing through its serpentine body.
 ```
-# Description
+## Description
 Tor linnorms epitomize the raw and untempered power of their kin. They dwell in the tallest volcanic mountains, either in naturally formed caverns or in the craters themselves, and rain destruction down upon nearby mountain villages whenever the urge strikes them. Tor linnorms are brutes, but as far as linnorms go are relatively intelligent. With this intelligence comes an overwhelming vanity-unlike other linnorms, tor linnorms enjoy being adored and worshiped by lesser creatures, and have been known to delay eating prisoners who seem to be particularly cowed by their presence, simply basking in their victims’ fear.
 
 A tor linnorm is 50 feet long and weighs 15,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tor%20Linnorm)
 ```encounter-table
 name: Tor Linnorm

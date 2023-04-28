@@ -1,25 +1,27 @@
 ---
-alias: Call Weapon
+aliases: [Call Weapon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Call Weapon 
+## Call Weapon
 
 **source**:: Inner Sea Magic pg. 53  
 **school**:: transmutation
 **level**:: bard 1, hunter 1, magus 1, ranger 1, skald 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 30 feet  
 **target**:: one melee weapon wielded by an ally  
 **duration**:: instantaneous
 
-### Description 
+### Description
 
 This spell first rose to prominence among the elves of Kyonin in the war to retake their ancestral land from the demon lord Treerazer and his minions. Elite units of elven magi entered battle with this spell prepared to shield fallen comrades or stand firm against fell foes. As the elven presence returned to the world, this spell spread throughout the Inner Sea and beyond.  
   

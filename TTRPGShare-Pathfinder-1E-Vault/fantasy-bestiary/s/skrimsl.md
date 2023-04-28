@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skrimsl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 253
 desc_short: Four gleaming, yellow eyes leer above the tooth-rimmed maw of this massive, blue-scaled and eellike creature.
 ```
-# Description
+## Description
 Skrimsls are mysterious eellike creatures that dwell in the world’s most frigid remote waters, particularly the deep waters of fjords. They prefer to avoid contact with humanoids, but communities near the lakes and fjords where skrimsls make their homes have no doubt that these beasts are very real and should be given proper respect. Skrimsls have a glimmer of intelligence and remember those who have wronged them as well as those who have treated them well. 
 
 Skrimsls resemble massive eels with blue scales matching the cold, clear waters they live in. They can be found in the deepest freshwater lakes and the salt waters of the sea, and are capable of thriving in both environs. The creatures use their electricity fields and spell-like abilities both for defense and to catch prey. They also have a dangerous bite and powerful tail, which they use to destroy oars, weapons, and other implements used by land-dwelling foes. 
 
 A typical adult skrimsl measures 45 feet long and weighs 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skrimsl)
 ```encounter-table
 name: Skrimsl

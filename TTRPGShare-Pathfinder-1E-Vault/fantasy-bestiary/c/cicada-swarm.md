@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cicada Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 84
 desc_short: A loud droning buzz accompanies this mass of flying insects.
 ```
-# Description
+## Description
 At times, particularly during warm months, mundane cicadas amass in roiling, buzzing clouds. When they swarm, cicadas can strip vegetation from trees in seconds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cicada%20Swarm)
 ```encounter-table
 name: Cicada Swarm

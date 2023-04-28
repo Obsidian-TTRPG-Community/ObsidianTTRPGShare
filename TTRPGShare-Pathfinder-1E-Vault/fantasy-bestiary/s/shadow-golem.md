@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 88
 desc_short: This towering humanoid figure seems to be made of solidified shadows. Two pale orbs glare from its otherwise blank visage.
 ```
-# Description
+## Description
 Among the most exotic of golems are the enigmatic shadow golems, animated constructs composed not of any mundane material but of pure shadowstuff harvested from the Shadow Plane. Tempered by magic, this strange substance holds a solid shape yet retains its eerie otherworldly features, allowing the shadow golem to walk on the air or to resist physical attacks that don’t cut deeply-and even then, only the sharpest of adamantine edges can do significant harm to one of these creatures.
 
 Shadow golems are typically built in the form of hulking humanoids with skin and clothing as black as spilled ink. Despite their muscular forms, they can move with surprising speed, and weigh much less than one might expect a muscle-bound statue to weigh. While the creator of a shadow golem can fashion the construct into any shape, a strange element of the way the animating magic mixes with the raw shadowstuff results in an unusual side effect-the facial features of all shadow golems are indistinct, with the exception of two glowing eyes that are difficult to spot in the cloak of shadows that surrounds every shadow golem.
 
 The typical shadow golem stands 11 feet tall and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Golem)
 ```encounter-table
 name: Shadow Golem

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Styracosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 59
 desc_short: This bulky, four-legged dinosaur has a long nasal horn and a crest studded with additional horns sweeping back from its skull.
 ```
-# Description
+## Description
 The styracosaurus is a bulky dinosaur with a solid frame and a very distinctive skull-a horned frill extends back from its head, protecting its neck and serving as a highly effective natural weapon that allows it to make attacks of opportunity. It is notorious for its ill temper, savagely attacking any creature that it perceives as a threat or even as an irritant.
 
 A styracosaurus is 18 feet long and weighs nearly 3 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Styracosaurus)
 ```encounter-table
 name: Styracosaurus

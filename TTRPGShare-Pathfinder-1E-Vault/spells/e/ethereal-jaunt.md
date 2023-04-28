@@ -1,25 +1,27 @@
 ---
-alias: Ethereal Jaunt
+aliases: [Ethereal Jaunt]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ethereal Jaunt 
+## Ethereal Jaunt
 
 **source**:: PRPG Core Rulebook pg. 279  
 **school**:: transmutation
 **level**:: arcanist 7, cleric 7, oracle 7, psychic 6, sorcerer 7, summoner 5, summoner (unchained) 6, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 You become ethereal, along with your equipment. For the duration of the spell, you are in the Ethereal Plane, which overlaps the Material Plane. When the spell expires, you return to material existence.  
   

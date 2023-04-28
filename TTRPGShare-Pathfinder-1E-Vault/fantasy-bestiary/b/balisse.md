@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Balisse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 59
 desc_short: This celestial being is obscured by darkness, but its wings glow brilliantly, silhouetting a stern individual with shining eyes.
 ```
-# Description
+## Description
 Balisses, sometimes called confessor angels, appear to good individuals on the horns of moral dilemmas or who are struggling with crises of faith. Though balisses may appear stern and unyielding, they prefer to guide individuals to their own moral decisions rather than ordering them to conform to a specific ideal of good, knowing that the goodness found on one’s own is stronger than mere obedience. Balisses are formed from the souls of individuals who committed evil acts but were later redeemed and died while living an exemplary, moral life.
 
 Some balisses seek out mortals in need of their help, while others are given specific assignments by deities or empyreal lords. Balisses are used to dealing with stubbornness, and have an eternity’s worth of patience. Though they brook no physical attacks, they can endure almost any other hostility for the sake of their mission.
 
 The average balisse is 7 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Balisse)
 ```encounter-table
 name: Balisse

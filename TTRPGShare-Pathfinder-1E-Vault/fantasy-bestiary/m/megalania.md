@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Megalania
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 193
 desc_short: This gigantic lizard has short but powerful limbs, a muscular tail, and a spiny crest that runs the length of its body.
 ```
-# Description
+## Description
 The immense megalania is often mistaken for a dragon or dinosaur. Certainly the lizard’s aggressive attitude and deep, rumbling roars only encourage such misidentifications. Large enough to catch and eat rhinos and elephants, a megalania prefers hunting much smaller prey that it can gulp down in one greedy swallow. Humanoids are among its favorite meals.
 
 A megalania is 20 feet long and weighs 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Megalania)
 ```encounter-table
 name: Megalania

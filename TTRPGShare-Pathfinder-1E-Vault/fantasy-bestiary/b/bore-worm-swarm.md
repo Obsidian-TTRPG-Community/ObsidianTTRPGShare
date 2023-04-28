@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bore Worm Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 82
 desc_short: Bright green and coated in an opaque yellow slime, this squirming mass of segmented worms leaves a trail of hissing melted stone slag in its wake.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bore%20Worm%20Swarm)
 ```encounter-table
 name: Bore Worm Swarm

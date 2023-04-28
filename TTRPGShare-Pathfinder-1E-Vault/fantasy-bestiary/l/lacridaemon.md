@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lacridaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 48
 desc_short: The face of this gray-skinned humanoid stretches in a manic grin, even though it weeps steaming tears. Frost crusts its flesh.
 ```
-# Description
+## Description
 Among the least powerful of all daemons, lacridaemons personify death by neglect or exposure to the elements, such as that suffered by those who become lost in the wilderness and die far from help, or unfortunates who become trapped in an enclosed space (like a collapsed mine) and are left alone to slowly expire. Lacridaemons’ despair is in stark contrast to their savage nature. If they’re given any opportunity, they viciously lash out, furiously attacking their mortal victims. 
 
 In death, lacridaemons continue to suffer just as their mortal incarnations did in their last days of life, consumed by feelings of abandonment, self-pity, and a gnawing sense of loneliness. They often spawn from the souls of evil mortals who died alone and abandoned-exiled criminals, reclusive and corrupt nobles, or those who died from intense exposure to the natural elements (whether the blistering heat of the desert or the ravaging cold of the arctic), such as by freezing to death or dying of thirst. 
 
 A lacridaemon stands just under 6 feet tall but weighs only 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lacridaemon)
 ```encounter-table
 name: Lacridaemon

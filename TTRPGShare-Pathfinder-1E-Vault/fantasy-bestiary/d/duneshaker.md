@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duneshaker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 256
 desc_short: This enormous spiderlike creature has a tremendous pair of jagged fangs as menacing as its oversized claws.
 ```
-# Description
+## Description
 The largest of the known solifugids in the entire world, the duneshaker has a fearsome reputation for dealing death and destruction to caravans and other travelers in the deep desert. Beyond its reputation for carnage, the beast also is known for its extreme toxicity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duneshaker)
 ```encounter-table
 name: Duneshaker

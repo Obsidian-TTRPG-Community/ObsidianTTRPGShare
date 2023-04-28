@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hound of Tindalos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 82
 desc_short: This gaunt, long-limbed quadruped has huge, soulless eyes and a toothy maw. The lean creature moves with a predatory grace.
 ```
-# Description
+## Description
 Hounds of Tindalos are otherworldly predators from beyond the bounds of known reality, usually appearing only when summoned by reckless spellcasters. Little is known about their nature outside of blood-spattered notes and deranged writings of the nearly insane survivors of their attacks. Although possessed of great cunning and cruel intellect, the hounds show no evidence of understanding or communicating with mortals. They enter the physical world on their own in pursuit of those who have trodden too much the netherways beyond time and reality-time travelers (be it physical travel or simply divinatory glimpses forward or backward in time) and creatures that teleport without regard to how this movement impacts subtle magical currents in the multiverse particularly draw their interest.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hound%20of%20Tindalos)
 ```encounter-table
 name: Hound of Tindalos

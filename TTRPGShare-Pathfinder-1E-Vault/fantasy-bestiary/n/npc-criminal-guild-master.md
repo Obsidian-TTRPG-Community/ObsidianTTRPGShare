@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Criminal (Guild Master)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
   - name: GameMastery Guide
     desc: 267
 ```
-# Description
+## Description
 Guild masters are crime lords par excellence. They are masters of every criminal art and have worked their way up from being common hoods to become cunning masterminds of their own organization. Guild masters can serve as spies, assassins, or master safecrackers, or as bandit lords or shady merchant princes.
 
 A guild master often keeps a slayer or two as bodyguards and enforcers (CR 11 or 12), but some with more flamboyance prefer to keep a gladiatorial champion and sellsword (CR 12) or half a dozen sellswords (CR 13). A guild master may also be found in the company of a pair of nobles or merchant princes of uncertain morals (CR 11).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Criminal%20(Guild%20Master))
 ```encounter-table
 name: NPC Criminal (Guild Master)

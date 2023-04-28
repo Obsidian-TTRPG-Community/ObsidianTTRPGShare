@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ptarmigan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 10
 desc_short: This small bird has a mix of brown and white feathers and makes a loud croaking sound.
 ```
-# Description
+## Description
 These grouses molt through the seasons, appearing all white in the spring and shifting to a mix of brown and white in winter months.
 
  Ptarmigans are roughly a foot long from beak to tail and have a wingspan of twice that.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ptarmigan)
 ```encounter-table
 name: Ptarmigan

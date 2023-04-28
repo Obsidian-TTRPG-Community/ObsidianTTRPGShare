@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Red Mantis Assassin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 47
 ```
-# Description
+## Description
 The assassins in the mysterious order known as the Red Mantis stand at the pinnacle of their craft. Dedicated to the god Achaekek, Red Mantis assassins conduct their business with the fervor and zealotry of religious fanatics. Though their organization is headquartered on Mediogalti Island, Red Mantis assassins are feared throughout the Inner Sea region. Once the order has accepted a contract on a target, the assassins relent only once the victim is dead-in a most permanent fashion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Red%20Mantis%20Assassin)
 ```encounter-table
 name: NPC Red Mantis Assassin

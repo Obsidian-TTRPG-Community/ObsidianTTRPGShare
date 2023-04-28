@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gongorinan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 90
 desc_short: This human-sized, crab-like creature scuttles on six stumpy legs, and each of its four arms sports a different method of inflicting pain.
 ```
-# Description
+## Description
 The gongorinans are the spawn of the qlippoth lord Yamasoth, although one could be forgiven for thinking of them less as offspring and more as parasites. A gongorinan’s basic shape resembles that of an immense, stocky crab, save that it lacks crabs’ aquatic adaptations-gongorinans are terrestrial creatures. A typical gongorinan has no fewer than a dozen stalked eyes, and is capable of extending these eyes from the upper edges of its body just above its mouth to a length of nearly 3 feet, giving it extraordinary vision in all directions. A gongorinan’s mouth is a complex tangle of sliding plates and toothy ridges that rasp and shriek against each other as it speaks and chews, but despite their frightening shapes, these mouthparts are ill-suited for making physical attacks; the gongorinan relies upon its arms for that. Each gongorinan has four arms, and each is a different, highly specialized appendage. The humanoid arm is used for fine manipulation or wielding weapons, while the mantis-like claw is used to shred flesh and create deep, bleeding wounds. The needle-covered tentacle is used to sting and inject a painful poison to stagger foes, while the pincer is used to snatch and hold victims close for oviposition. 
 
 A typical gongorinan stands about 6 feet tall and weighs 800 pounds. When at rest, a gongorinan retracts its limbs into its rock-encrusted body, allowing it to appear remarkably like nothing more than a large, misshapen boulder. Larger specimens known as elder gongorinans exist (and often have additional and even more dangerous arms), but these are quite rare save for in realms where Yamasoth’s influence is strong. 
@@ -80,7 +82,7 @@ All gongorinans carry a brood of horrific egg masses, yet these eggs are not use
 Once an egg has been implanted, it takes many days to grow, and the gongorinan prefers to carry the unfortunate host off to restrain it in a hidden location for the duration. Victims are often cocooned in webs while the egg gestates. As it grows, the egg feeds on the victim’s mind, absorbing the victim’s intellect until it has reduced the host to a drooling wreck. At this point, the egg doesn’t hatch so much as it merge with the host, effecting a horrific and permanent transformation into a monstrous form. The gongorinan can influence this ultimate form as it lays its egg. It typically chooses powerful creatures already found in the region, for these “young” are loyal to their parent and serve it as guardians or playthings. Victims retain no portion of their previous personality, but those who have been rescued from this horrific fate via powerful magic do retain memories of their time as a monstrosity. Many never quite recover from these ordeals, and often develop a peculiar form of madness in which they regard their life as a monster as having been their true life, and their true form and life as the curse. The most despondent seek the promise of peace through suicide rather than endure the dreams of their life as a monster-dreams that carry within them a most horrible longing to return to the qlippoth’s arms. 
 
 Gongorinans are an industrious breed of qlippoth, and wherever they find themselves, they invariably form hive-like complexes in which to live. These gongorinan “cities” are labyrinthine affairs with plenty of chambers for their transformed children. In the Abyss, gongorinan hives can grow truly immense, with populations in the thousands, but the Material Plane is no stranger to their hive cities
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gongorinan)
 ```encounter-table
 name: Gongorinan

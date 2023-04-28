@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Undead Ningyo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 80
 desc_short: The repulsively fused features of a dried fish and desiccated humanoid combine in these monstrous remains. The crackle of tiny grinding bones and the hiss of parched scales whisper with every motion as the snarling miniature mummy drags its shriveled corpse forward.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Undead%20Ningyo)
 ```encounter-table
 name: Undead Ningyo

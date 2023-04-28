@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mask Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 30
 desc_short: This creature is made of hundreds of metal masks, welded together to form a roughly humanoid body. The masks are mostly iron, but some-such as the hands, knees, and feet- are made of silver lined with gold. The mask that makes up its head is made of porcelain with gold trim and has a large sapphire set into its brow. At the creature moves, the masks seem to shift and stare.
 ```
-# Description
+## Description
 Made up of hundreds of masks, a mask golem is a construct forged by the faithful of Razmir to honor the Living God. These constructs are often placed in their temples or other locations that they wish to protect, such as treasure vaults or private sanctuaries for powerful priests. They spend much of their time completely immobile, only coming to life when their instructions force them to take action. Many acolytes are unaware of their true nature, having spent years viewing them as simple statues.
 
 Mask golems can understand Common, but they cannot speak. While they possess intelligence, they are bound by the orders of their creators and are seldom given free reign when assigned to a task. Rarely, these golems are employed as assassins, sent out to punish or kill those that threaten the church.
 
 While all of the masks that make up the golem’s body are copies of the holy symbol of Razmir, they are made of different materials. Most are simple iron, but the masks around the joints are made of silver with gold trim, and the head is made from a specially crafted porcelain mask, set with a sapphire. When a mask golem is destroyed, these valuable masks remain, and are worth 1,000 gp in total. The sapphire is worth 500 gp. A mask golem stands 5 feet tall and weighs 300 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mask%20Golem)
 ```encounter-table
 name: Mask Golem

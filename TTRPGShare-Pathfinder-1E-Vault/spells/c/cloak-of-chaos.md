@@ -1,19 +1,21 @@
 ---
-alias: Cloak of Chaos
+aliases: [Cloak of Chaos]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cloak of Chaos 
+## Cloak of Chaos
 
 **source**:: PRPG Core Rulebook pg. 255  
 **school**:: abjuration (chaotic)
 **level**:: cleric 8, oracle 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a tiny reliquary worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **target**:: one creature/level in a 20-ft.-radius burst centered on you  
@@ -21,7 +23,7 @@ alias: Cloak of Chaos
 **saving-throw**:: see text
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 A random pattern of color surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by lawful creatures, and causing lawful creatures that strike the subjects to become *confused*. This abjuration has four effects.  
   

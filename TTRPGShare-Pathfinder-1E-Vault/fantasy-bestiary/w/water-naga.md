@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Water Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 14
 desc_short: Slender spines and brightly colored frills stretch back from the humanlike face of this massive aquatic snake.
 ```
-# Description
+## Description
 With mottled scales of blue and green, water nagas’ serpentine beauty belies their deadliness. Although doubtlessly intelligent, these nagas have more in common with normal snakes than most of their kind, preferring to be left to their own devices and lashing out at any creatures that would disturb them. A typical water naga measures 10 feet long and weighs 250 pounds.
 
 Where many nagas claim particular lairs as their homes, water nagas typically have a number of retreats, migrating from one to the next with the changing of the seasons. These nagas keep elaborate summer and winter lairs, with several favored shelters positioned between these so they can make a circuit of familiar rivers and coasts throughout the year. Fiercely territorial when it comes to their lairs, water nagas typically attack any that intrude upon their sanctuaries, only bothering to question interlopers once such creatures have been weakened by poison, if at all.
 
 As their yearly treks make many water nagas especially well traveled, those who live near the serpents’ lairs- usually lizardfolk, fey, and human tribes-often court the snake creatures’ good graces with offerings of rich local delicacies, hoping to learn of nearby lands and pass on their own stories to distant neighbors. Enjoying flattery, exciting tales, and the adoration of those they see as lesser creatures, most water nagas take pride in their roles as travelers. However, while rarely malicious, they quickly grow bored of repetitive, mundane anecdotes and often embellish the stories they’ve heard with their own fictions-caring little for the repercussions such misleading tales might cause for their listeners. The congeniality of some water nagas does not extend to the entire race, and many unwary souls, even those with only the best intentions, face these serpentine creatures’ deadly bite.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Water%20Naga)
 ```encounter-table
 name: Water Naga

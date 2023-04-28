@@ -1,25 +1,27 @@
 ---
-alias: Shadow Projection
+aliases: [Shadow Projection]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Projection 
+## Shadow Projection
 
 **source**:: Advanced Player's Guide pg. 243  
 **school**:: necromancy (evil)
 **level**:: arcanist 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level (D)
 
-### Description 
+### Description
 
 With this spell, you infuse your life force and psyche into your shadow, giving it independent life and movement as if it were an undead shadow (see *Pathfinder RPG Bestiary* 245). Your physical body lies comatose while you are projecting your shadow, and your body has no shadow or reflection while the spell is in effect.  
   

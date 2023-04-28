@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quetzutrhul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 27
 desc_short: This brainlike creature has two clawed legs emerging from its fore and rear and a serpentine proboscis clutching a dagger.
 ```
-# Description
+## Description
 To accelerate its evolution, Quetzutrhul exposed itself to radiation and other mutating forces. This caused it to develop increased speed, rapid healing, and prehensile use of its proboscis, but at the cost of its ability to relate to others of its kind. Its ego swollen as a result of its advanced form, Quezutrhul led a half dozen other intellect devourers away from Ilvarandin in hopes of using its new abilities on Golarion’s surface. They emerged from the Darklands along the Varisian Coast and onto a transport ship headed for the Ironbound Archipelago. Posing as simple passengers, the intellect devourers quickly learned the basics of navigation from the crew before switching hosts to replace them.
 
 Along the way, a pirate vessel off their bow provided an unanticipated opportunity. Not suspecting the intellect devourers’ presence, the pirates boarded the ship to find the crew seemingly dead. With the raiders’ guard down, Quetzutrhul and its allies overtook the pirates and claimed their ship, the Jade Adder, as their own.
 
 Now, Quetzutrhul plies the waters of the Arcadian Ocean, spreading its own version of piracy. The Jade Adder’s captain and crew are never the same for longer than a few months at a time, and their unorthodox and rapidly evolving nautical tactics have made and putting an end to its piracy difficult.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quetzutrhul)
 ```encounter-table
 name: Quetzutrhul

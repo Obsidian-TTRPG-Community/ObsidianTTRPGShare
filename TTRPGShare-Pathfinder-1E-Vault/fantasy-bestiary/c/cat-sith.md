@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cat Sith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 28
 desc_short: This slinky black feline has a single white spot on its chest. Its mannerisms and movements are eerily human.
 ```
-# Description
+## Description
 Cat siths are inscrutable feline creatures that inhabit highlands around towns and cities. They resemble common housecats at a glance, but cat siths are supernatural beings that have the cunning of civilized races and strange magical powers rivaling those of fey. They’re capable of easily walking balanced on just their hind legs and wearing magic boots. They can carry one object in their front paws when walking bipedally, though they can’t manipulate such objects with the fine control required to use weapons, wands, and similar objects.
 
 Unpredictable yet sophisticated, these strange beings use their unassuming appearances to infiltrate civilized areas, either serving as spies for powerful spellcasters or entertaining their own unknowable agendas.
@@ -65,7 +67,7 @@ Unpredictable yet sophisticated, these strange beings use their unassuming appea
 Many cultures fear cat siths and tell myths about their otherworldly powers. Some say that letting a cat sith near an unburied corpse may allow the beast to steal the departed’s soul before it has made it to the Great Beyond.
 
 A 7th-level spellcaster with the Improved Familiar feat can gain a cat sith as a familiar. Cat siths are heavier than most housecats, weighing between 25 and 30 pounds. A cat sith is nearly 2 feet long from its nose to the base of its tail.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cat%20Sith)
 ```encounter-table
 name: Cat Sith

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bebilith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 32
 desc_short: A spider the size of an elephant, this dark blue arachnid rears up on its six hind legs to raise its barbed and razor-edged front claws.
 ```
-# Description
+## Description
 The Abyss is a terrible place, yet even in this horrific realm there exist predators and wild beasts that prey upon the demonic horde-the bebilith being the most notorious, a creature evolved to hunt and slay demons.
 
 Far more intelligent than its verminous shape would suggest, it is perhaps a blessing that the bebilith is such a focused and devoted hunter of demons, for had these dangerous outsiders more of a mind to conquer and expand empires, their ability to plane shift would make them a menace indeed. Although, as an outsider, the bebilith has no biological need to eat, it does enjoy the sensation of chewing on demonic flesh.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bebilith)
 ```encounter-table
 name: Bebilith

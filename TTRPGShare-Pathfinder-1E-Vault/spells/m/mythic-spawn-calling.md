@@ -1,19 +1,21 @@
 ---
-alias: Mythic Spawn Calling
+aliases: [Mythic Spawn Calling]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Spawn Calling
+## Mythic Spawn Calling
 
 **source**:: Inner Sea Gods pg. 242  
 **school**:: conjuration (calling) (chaotic, evil)
 **level**:: arcanist 9, cleric 9, oracle 9, sorcerer 9, witch 9, wizard 9 (Rovagug)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 week  
 **components**:: V, S, M/DF (bull’s blood, tallow, one or more humanoid victims totaling at least 15 Hit Dice)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: one Spawn of Rovagug  
@@ -21,7 +23,7 @@ alias: Mythic Spawn Calling
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Having attained the highest and most profane form of magical achievement in the Great Destroyer’s service, you are able to call forth his most dreaded creations: the Spawn of Rovagug. Casting this spell requires a week-long ritual involving the sacrifice of one or more sentient humanoid creatures that between them possess a total of at least 15 Hit Dice. You may not eat, sleep, or cast any other spells for the duration of this ritual. After the third day of the ritual, you must succeed at a Constitution check on each remaining day of the ritual (DC 10 + 1 for each previous check) or take 1d6 points of nonlethal damage from hunger. At the end of the ritual, you gain the exhausted condition from lack of sleep.  
   

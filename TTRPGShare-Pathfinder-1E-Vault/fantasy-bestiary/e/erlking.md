@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Erlking
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 94
 desc_short: Birdlike wings covered with autumnal leaves instead of feathers extend from the back of this regal, elf-like humanoid.
 ```
-# Description
+## Description
 Erlkings guard the wildest, most pristine reaches of nature, and lead other fey to reclaim defiled lands. Most forest creatures acknowledge an erlking as king of the forest and arbiter in disputes between the people of the wilds. In most forests, an erlking is the brother or consort of a hamadryad, and represents the aggressive, dangerous, and vengeful aspect of the wilds.
 
 An erlking is a blur of motion on or off the battlefield, using his powers to coordinate attacks against despoilers, manipulate terrain to his side’s advantage, and call in reinforcements when his forces would be overwhelmed. When his services are not needed, an erlking retires to the realm of the fey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Erlking)
 ```encounter-table
 name: Erlking

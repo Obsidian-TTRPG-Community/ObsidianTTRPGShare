@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Spirit Avenger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
   - name: NPC Codex
     desc: 223
 ```
-# Description
+## Description
 Dedicated to protecting the world from evil outsiders and undead, spirit avengers realize it’s better to contain an enemy than to destroy it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Spirit%20Avenger)
 ```encounter-table
 name: NPC Spirit Avenger

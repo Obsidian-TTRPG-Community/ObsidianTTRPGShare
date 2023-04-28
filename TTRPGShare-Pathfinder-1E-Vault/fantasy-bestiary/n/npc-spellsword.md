@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Spellsword
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: NPC Codex
     desc: 39
 ```
-# Description
+## Description
 Spellswords make dangerous music with a mixture of swordplay and spellcasting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Spellsword)
 ```encounter-table
 name: NPC Spellsword

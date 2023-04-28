@@ -1,25 +1,27 @@
 ---
-alias: Prophetic Lore
+aliases: [Prophetic Lore]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Prophetic Lore 
+## Prophetic Lore
 
 **source**:: Disciple's Doctrine pg. 11  
 **school**:: divination
 **level**:: arcanist 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: see below  
 **components**:: V, S, M (incense worth 150 gp), F (rare herbs and spices worth 250 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: see text
 
-### Description 
+### Description
 
 You call to mind prophecies regarding a person, place, item, or event. These might be predictions made in the past, lost to history, or entirely new. If the person or item is present or if you are at the desired location, the casting time is 1d4×10 minutes; if you have general but specific information about the subject, the casting time is 1d4×2 hours. If you have only rumors, you cannot cast this spell with any effect.  
   

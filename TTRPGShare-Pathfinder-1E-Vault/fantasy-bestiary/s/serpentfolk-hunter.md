@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpentfolk Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
   - name: Monster Codex
     desc: 203
 ```
-# Description
+## Description
 Trained in tracking and slaying warmblooded humanoids-humans in particular-a serpentfolk hunter is a powerful but blunt instrument of its intelligent, ruthless masters. It’s often in the first wave of warriors sent to secure an area, and might serve as a bodyguard for a powerful serpentfolk priest or mage. In turn, it may well wield power and status over less specialized degenerate serpentfolk. The purecaste serpentfolk allow such hierarchical jostling among their underlings-the equivalent of letting a pack of dogs sort out their own structure-so long as their minions never question the purecastes’ orders and judgments.
 
  Despite the fact that the serpentfolk live underground, serpentfolk hunters usually train to work against a specific enemy rather than in a specific terrain. This allows them to do their job equally well when defending their cavern-cities against encroaching adventures as when making precise raids into aboveground communities. A single purecaste serpentfolk might have several different hunters working for him that all specialize in different favored enemies to maximize versatility, or he might have an entire squad trained as a unit from birth to fight a particular hated breed of surface-dwelling foe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpentfolk%20Hunter)
 ```encounter-table
 name: Serpentfolk Hunter

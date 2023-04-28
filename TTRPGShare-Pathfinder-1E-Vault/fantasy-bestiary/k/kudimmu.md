@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kudimmu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 86
 desc_short: Tumorous, misshapen vines laden with dark red fruit make up the form of this lumbering humanoid creature, and its face is marked only by a pair of glowing, crimson eyes.
 ```
-# Description
+## Description
 When a city is destroyed, it is customary for the conquering army to sow salt or thorns to render the ground forever infertile and curse those who would dare to rebuild. In most cases, this is simply a symbolic gesture. However, this ritual has eminently practical roots. Death and devastation are potent seeds, and the blood of conquered peoples can mingle with the roots of burned fields to produce terrible creatures. These are called kudimmus, twisted weeds that corrupt the ground of vanquished cities and exact a terrible price upon invaders.
 
 A kudimmu’s body is diffused throughout its field, and it can weigh tens of thousands of pounds. Its primary fruiting body is vaguely humanoid in shape, standing 10 feet tall and weighing 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kudimmu)
 ```encounter-table
 name: Kudimmu

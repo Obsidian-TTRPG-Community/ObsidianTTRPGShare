@@ -1,19 +1,21 @@
 ---
-alias: Gift of the Deep
+aliases: [Gift of the Deep]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Gift of the Deep 
+## Gift of the Deep
 
 **source**:: Monster Codex pg. 189  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 5, cleric 4, oracle 4, sorcerer 5, warpriest 4, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one non-mutated sahuagin/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Gift of the Deep
 **saving-throw**:: Fortitude negate (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You give the targets the appearance and many of the abilities of sahuagin mutants, with effects as described below. Choose one benefit for all targets of this spell. This spell has no effect on sahuagin that are already mutants or already under the effects of *gift of the deep*.  
   

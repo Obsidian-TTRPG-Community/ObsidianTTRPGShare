@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mummified Crocodile
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Pathfinder No. 81: Shifting Sands
     desc: 84
 ```
-# Description
+## Description
 Crocodiles are depicted in many ways in ancient Osirion, but most often they are shown in association with the River Sphinx and, more importantly, with the god Sobek. Mummified crocodiles are common in crypts that are no farther from the river than a single day’s walk. Many mummif ied crocodiles have baby crocodiles placed on their backs or in their mouths, representing how live crocodiles transport and care for their young.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mummified%20Crocodile)
 ```encounter-table
 name: Mummified Crocodile

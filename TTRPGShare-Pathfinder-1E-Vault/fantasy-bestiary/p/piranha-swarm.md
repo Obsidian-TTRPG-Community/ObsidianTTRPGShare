@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Piranha Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 129
 desc_short: This swarm of silver-scaled fish thrashes feverishly, the dozens of swiftly moving creatures within seeming restless and bloodthirsty.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Piranha%20Swarm)
 ```encounter-table
 name: Piranha Swarm

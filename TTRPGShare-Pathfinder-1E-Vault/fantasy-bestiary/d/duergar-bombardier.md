@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duergar Bombardier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
   - name: Monster Codex
     desc: 48
 ```
-# Description
+## Description
 A duergar bombardier spends her days fiddling with reagents and bizarre ingredients that she either finds deep underground or purchases from scouts who have brought them back from the surface or distant caverns. Essential ingredients, especially plants, can be hard to find, and a bombardier must work for money or favors if she’s to continue practicing her craft.
 
  Though the military and slavers are loath to employ these unpredictable duergar, bombardiers can be very effective when subtlety is not required. Though most bombardiers wouldn’t hurt their own kind-the bonds of kin and law are too strong-they often inadvertently kill potential slaves instead of capturing them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duergar%20Bombardier)
 ```encounter-table
 name: Duergar Bombardier

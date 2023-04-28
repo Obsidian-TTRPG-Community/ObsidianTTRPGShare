@@ -1,19 +1,21 @@
 ---
-alias: Animal Aspect, Greater
+aliases: [Animal Aspect, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Animal Aspect, Greater 
+## Animal Aspect, Greater
 
 **source**:: Ultimate Combat pg. 223  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 3, arcanist 4, bloodrager 3, druid 3, hunter 3, investigator 3, magus 3, psychic 4, ranger 3, redmantisassassin 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a part of the animal)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Animal Aspect, Greater
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *animal aspect*, except you can either gain two aspects at once or one aspect that adds effects to the aspects that *animal aspect* grants, as described below.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Scourge
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 58
 desc_short: This whitish-gray amoeboid creature has bits of flotsam embedded in its amorphous form, which moves inexorably against the current.
 ```
-# Description
+## Description
 On watch at night in warm seas, wise sailors are especially vigilant for the hated sea scourge, an ooze that has adapted itself so well to its maritime habitat as to become a significant hazard to native oceanic creatures as well as to humanoid seafarers. While its typical diet consists of sea turtles, dugongs, and other aquatic prey, the sea scourge will feed on whatever creatures it can manage to get a hold of, and is known to prey on humanoids both in shallow waters and at sea, even going so far as to board seagoing vessels. A sea scourge’s acid is capable of dissolving wood in addition to flesh and bone, making it a particularly dangerous threat to most boats. Though it can swim beneath the waves indefinitely, a sea scourge more often tends to search the surface of the ocean for prey, camouf laged as a large clump of ambergris or other seaborne excretion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Scourge)
 ```encounter-table
 name: Sea Scourge

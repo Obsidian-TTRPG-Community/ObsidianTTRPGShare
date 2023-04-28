@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mithral Wizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,9 +83,9 @@ sources:
   - name: NPC Codex
     desc: 221
 ```
-# Description
+## Description
 Clad in full plate, these eldritch knights mix an impenetrable defense with a relentless spell offense.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mithral%20Wizard)
 ```encounter-table
 name: NPC Mithral Wizard

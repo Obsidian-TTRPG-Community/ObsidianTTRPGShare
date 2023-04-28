@@ -1,19 +1,21 @@
 ---
-alias: Counterbalancing Aura
+aliases: [Counterbalancing Aura]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Counterbalancing Aura 
+## Counterbalancing Aura
 
 **source**:: Planar Adventures pg. 40, Champions of Balance pg. 26  
 **school**:: abjuration
 **level**:: cleric 8, oracle 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a set of scales worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **target**:: one creature/level in a 20-ft.-radius burst centered on you  
@@ -21,7 +23,7 @@ alias: Counterbalancing Aura
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 An oscillating bronze glow surrounds the targets, protecting them from attacks, granting them resistance to spells cast by neutral creatures, and sickening or nauseating neutral creatures that strike the targets. This abjuration has four effects.  
   

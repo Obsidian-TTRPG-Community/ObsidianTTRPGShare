@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Scarab
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 221
 desc_short: This glossy beetle is the size of a cow, and has a hard, blue-black carapace spattered with dust and dung.
 ```
-# Description
+## Description
 Scarabs are small, six-legged insects with sharp protrusions on their front legs that they use for burrowing. They are primarily coprophagous, eating dung for sustenance. An individual scarab often spends days rolling a single ball of dung across the desert until it can find the perfect place to bury it and deposit eggs. Because they burrow underground to create life, scarab beetles are associated with burial rites. Some say scarab beetles’ connection with the dead gives them powers greater than those of normal beetles, but as of yet there is no evidence this is true.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Scarab)
 ```encounter-table
 name: Giant Scarab

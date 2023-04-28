@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Boar (Daeodon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
     desc: 36
 desc_short: The back of this horse-sized boar rises in a steep slope. Its tiny red eyes are crusted with filth and its bristly flank crawls with flies.
 ```
-# Description
+## Description
 Whereas the boar is ill-tempered and generally unfriendly, the towering daeodon (known as the dire boar to most commoners and hunters) is legitimately hateful and violent. Although omnivorous like its smaller kin, the daeodon prefers to feed on flesh, and its razor-sharp tusks and keen eyesight make it particularly well suited as a predator. While the daeodon is primarily a scavenger, it isn’t averse to attacking smaller creatures it encounters while searching for easier meals, or those who stumble unwittingly into its territory. Particularly brave or skilled orcs are fond of using daeodons as mounts, and orc cavalry mounted on dire boars make for a fearsome force indeed. A typical adult daeodon is 10 feet long and 7 feet tall at the shoulder. It weighs approximately 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Boar%20(Daeodon))
 ```encounter-table
 name: Dire Boar (Daeodon)

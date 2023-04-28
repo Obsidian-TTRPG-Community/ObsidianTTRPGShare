@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Irradiated Dead
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 84
 desc_short: This humanoid creature’s pale orange, withered skin peels from its flesh in patches. Its yellow eyes stare, unblinking but seething with rage.
 ```
-# Description
+## Description
 Little more than orange-tinted, blistered flesh drawn across skeletons, the irradiated dead were once humanoids- mainly Kellid warriors-who have been tainted by the radiation that’s strewn across Numeria. Created as a result of experiments by members of the Technic League, a handful of irradiated dead escaped their restraints and set off across Numeria, creating more of their kind with each kill. With the strange chemicals and radiation coursing through their bodies and augmenting survival and hunting instincts, they scour the Numerian wastes in search of prey. Irradiated dead generally appear the same size as the humanoids they once were, but they weigh less due to their bodies have been ravaged by radiation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Irradiated%20Dead)
 ```encounter-table
 name: Irradiated Dead

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dunkleosteus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 83
 desc_short: This gigantic, prehistoric fish has a head like a snapping turtle, complete with sharp, toothlike plates.
 ```
-# Description
+## Description
 A dunkleosteus is a massive fish with a bony head, armor plating, and a beak-like maw capable of creating a vortex that siphons in its prey. Despite growing to over 30 feet in length and weighing 8,000 pounds, dunkleosteuses are agile swimmers. These voracious predators think nothing of swimming into estuaries where the brine of the sea extends, lying in wait under piers or in the shallows along shorelines, patiently watching for a chance to lunge up and snap their jaws around unsuspecting prey that has come to the water’s edge to fish or swim.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dunkleosteus)
 ```encounter-table
 name: Dunkleosteus

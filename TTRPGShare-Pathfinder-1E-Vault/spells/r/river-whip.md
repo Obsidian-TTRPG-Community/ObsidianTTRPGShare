@@ -1,19 +1,21 @@
 ---
-alias: River Whip
+aliases: [River Whip]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# River Whip 
+## River Whip
 
 **source**:: Advanced Class Guide pg. 191  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 2, magus 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: whip of water  
@@ -21,7 +23,7 @@ alias: River Whip
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a coil of flowing fresh water, functioning a whip appropriate for your size, except you make a melee touch attack instead of a regular attack. Anything you strike with the whip takes damage and is doused with 1 pint of water. A creature with the fire subtype takes an additional 1d6 points of damage. If the target is on fire, it gains a +2 bonus on its next saving throw to extinguish the flames.  
   

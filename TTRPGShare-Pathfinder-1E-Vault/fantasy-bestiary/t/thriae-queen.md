@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thriae Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 267
 desc_short: This towering, shapely, purple-skinned woman has an insectile lower body, antennae on her brow, and the wings of a bee.
 ```
-# Description
+## Description
 The most powerful individual within any given thriae colony, the queen is a divine soothsayer, a provider of life, and a destroyer of those would seek to disrupt the order of the colony. Viewed by her children as a benevolent matriarch rather than a mother, the thriae queen is the only fertile member of the colony, and thus the sole reproducer should the colony’s population meet a devastating blow, whether through plague, famine, or war. A queen is revered by soldiers and seers alike, both for her physical might and her divine power, and she exemplifies the very best of thriae society in terms of strength, insight, and magnetism. While a queen is often too busy to entertain guests of a thriae hive, those intruders who do catch a glimpse of her are captured by her beauty and grace, and many would follow her if only to be by her side. But those who are allowed to enjoy the queen’s company are few, and those few are carefully selected from among the hive’s greatest warriors and priestesses, soldiers and seers whose powers have shown them to be skillful as well as loyal.
 
 Most thriae colonies only have one queen, though particularly large or far-reaching hives have been known to have as many as three at any given time. Thriae queens are the ultimate authority within a hive, and make most of the major decisions regarding the colony’s growth. Only the wealthiest and most respected outsiders are granted an audience with the ever-busy queen, whose numerous duties around the hive are analogous to those of any other ruler of a small kingdom. They grant only audiences regarding matters of the utmost concern, matters that stimulate the curiosity of a thriae queen and require not merely the cryptic readings of seers but a true divination as only a queen can provide.
@@ -78,7 +80,7 @@ When not divining or performing governmental tasks, a thriae queen can often be 
 A thriae queen lays fertilized eggs in one of the waxy, golden cells of her chamber walls. Thriae eggs go through several stages of growth before becoming fully formed thriae-the longest stage of development is the larval stage, which is a crucial point in determining the formation of a thriae. Most larvae are fed merope while they grow, but in the height of her power, a thriae queen selects a single larva to be her successor, and she feeds that individual a special substance secreted from her merope gland called royal merope. This thick, jellylike substance strengthens the larva and causes it to grow greatly in size, and when it pupates and hatches, it does so as a fully grown thriae queen.
 
 The mother queen teaches its successor in the ways of divining as well as ruling a colony. The successor then faces a choice-either remaining in the colony she was born into and furthering the growth of the hive, or setting out on her own to establish an allied colony. If she does the latter, the remaining queen must birth another successor, which is not considered so much a bother as it is an unavoidable circumstance. Queens do not look upon successors who leave as deserting daughters, instead viewing them as future allies for the colony down the road.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thriae%20Queen)
 ```encounter-table
 name: Thriae Queen

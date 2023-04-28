@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kasatha
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 174
 desc_short: This strange, four-armed humanoid is sleek and muscled, with two spiked blades raised to strike.
 ```
-# Description
+## Description
 Exiles from an arid world circling a red star, modern kasathas have no idea how they left their home or how to return, but they keep searching for a way back. A clannish and secretive people, they have a matriarchal society, but other races have difficulty recognizing any physical difference between females and males. Kasathas keep their mouths hidden behind clothing, and don’t remove this clothing in the presence of other races. They are omnivores, but prefer meat and salty foods.
 
 Upon reaching adulthood, many kasathas leave their clans to search the world for adventure, treasure, and ways to return to their homeworld.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kasatha)
 ```encounter-table
 name: Kasatha

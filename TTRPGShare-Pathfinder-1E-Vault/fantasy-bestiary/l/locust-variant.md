@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Locust Variant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 74
 desc_short: Hordes of swarming locusts coalesce to make up the form of a humanoid woman carrying a scythe, a demonic symbol emblazoned on her chest.
 ```
-# Description
+## Description
 Because of the odd and usually accidental circumstances through which worms that walk are born, the process of such birth is far from standardized. Thus, the worms themselves can take more shapes than simply the most common one. For purposes of clarity, all of the variants presented below are referred to as worms that walk, even if their main components are not actually worms. These variants are created using the same statistics presented in Pathfinder RPG Bestiary 2, and usually the only changes are cosmetic in nature (though see locust variant, below).
 
 Army Ants: Common in Garund’s deserts and lush, tropical jungles, army ants swarm over the land like a living carpet, devouring everything they come across. A worm that walks composed of army ants likewise consumes everything in its path-including the body of the spellcaster it once was. Disturbingly, these worms that walk spend little of their time in humanoid-shaped form, preferring to crawl as a biting swarm of legs and pincers. This form of worms that walk is mostly likely to be encountered in underground-dwelling; these horrific creatures are said to include one who calls the dangerous sands of Thuvia home.
@@ -76,7 +78,7 @@ Cockroaches: Cockroaches can be found in great numbers anywhere civilization sta
 Locusts: Found in any area that sports-or once sported-verdant plant life, this worm that walks variant has plague-like nuances and can be particularly hard to kill. Made up of ravenous locusts, these worms that walk make meals of any creatures weaker than they, and are particularly attuned to their animalistic instincts. One of these particularly appalling worms that walk is said to threaten the agriculture-rich lands of Geb, and due to the inf luence of Deskari in the Worldwound, a few of these creatures have been spotted in the ruins of Sarkoris.
 
 Wasps: Typically found in warm, moist regions, these worms that walk are made from hundreds of thousands of buzzing, swarming wasps. Aggressive and cruel, these worms that walk favor poison and other debilitating substances, and commonly focus their arcane knowledge on creating potent toxins. Rumor has it that one of these horrific creatures rules over a tribe of hunters along one of the winding tributaries threading throughout the Mwangi Expanse.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Locust%20Variant)
 ```encounter-table
 name: Locust Variant

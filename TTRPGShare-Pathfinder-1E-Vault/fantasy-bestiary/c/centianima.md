@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Centianima
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 84
 desc_short: This bony horror has two skulls on either end of its long, fleshless body. Dozens of twitching, claw-tipped legs carry its centipede-like form.
 ```
-# Description
+## Description
 Horrifying amalgams driven by an insatiable desire to kill living things and collect their bones, centianimas exemplify the ravenous, ugly evil of the undead. These animalistic collections of bones typically form from the remains of numerous animals that died in terrible agony. The dark forces and suffering that animates these remains typically cause these horrors to form in ominous, multilimbed shapes vaguely reminiscent of macabre centipedes. Although they look merely like heaps of bones when at rest, they can hardly be mistaken as such when on the move. Centianimas are possessed of a dark, predatory cunning that makes them particularly efficient hunters.
 
 A centianima measures 12 feet long and weighs approximately 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Centianima)
 ```encounter-table
 name: Centianima

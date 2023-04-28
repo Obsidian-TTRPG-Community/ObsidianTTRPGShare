@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kikituk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 177
 desc_short: This lumbering whale skeleton has a set of bony legs affixed to its frame. Its bones bear complex scrimshaw patterns.
 ```
-# Description
+## Description
 Kikituks are constructs created by wicked spellcasters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kikituk)
 ```encounter-table
 name: Kikituk

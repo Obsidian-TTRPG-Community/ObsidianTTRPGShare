@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raktavarna
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 86
 desc_short: What at first appears to be a bejeweled blade shimmers and writhes, transforming into a hideous, red-eyed serpent.
 ```
-# Description
+## Description
 Made up of smoke, blood, and gold, raktavarnas are the least of the rakshasas-they are born not from humanoids, but from the souls of rakshasas who failed utterly in their previous incarnation and who are thus reborn from a serpent’s egg.
 
 These terrors drift through society, passing from hand to hand as weapons or strange tokens from foreign lands, curiosities brought home by traders and emissaries and given to leaders as tribute. In this manner the raktavarnas gain entry into corridors of power throughout the world, and what they see, their foul masters know. A raktavarna’s servitude to a master ends only when its master decrees, or (more commonly) upon the master’s death. Little disconcerts raktavarnas more than having no master, and when they are cast adrift in this manner, they seek a replacement as soon as they can.
 
 A 7th-level lawful evil spellcaster with the Improved Familiar feat can gain a raktavarna rakshasa as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raktavarna)
 ```encounter-table
 name: Raktavarna

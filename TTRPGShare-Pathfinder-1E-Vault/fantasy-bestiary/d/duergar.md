@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duergar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 117
 desc_short: This bald, long-bearded dwarf has dull gray skin, low arching brows, and eyes that seem to absorb rather than reflect the light.
 ```
-# Description
+## Description
 Cousins to dwarves, duergar are foul-tempered creatures that loathe intruders to their underground realms-but not nearly as much as they do their kinfolk closer to the surface.
 
 Duergar dwell in communities deep underground, and appear as darker, more twisted versions of their kinder kin. Their skin is a dull gray, as though rubbed with dust or ash, but this is a natural coloration that better allows them to blend with their underground surroundings. They are a race of slavers, but while non-dwarven prisoners are usually put to backbreaking work, dwarven prisoners are generally slain on the spot.
 
 In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space), a duergar will use its enlarge person ability and begin lashing out at its enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duergar)
 ```encounter-table
 name: Duergar

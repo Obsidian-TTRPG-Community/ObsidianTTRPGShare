@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jinushigami
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 160
 desc_short: This enormous amalgamation of stone and plant matter takes the shape of an old man leaning on an equally huge staff.
 ```
-# Description
+## Description
 Guardians of significant natural wonders like mountains, large lakes, forests, and so on, jinushigami (known also as land kami) are the most powerful and revered of all kami, commanding the very forces of nature itself to ensure the safety and security of their wards. These potent spirits garner the most respect among other kami, wielding great influence over both them and the native creatures that dwell within their territories. Jinushigami tend to stay hidden amongst their land, however, knowing that their intimate tie with the environment makes them highly desirable targets among those who would seek to do harm to nature.
 
 Strangers to lands protected by jinushigami are well-advised to take the utmost care to not offend the powerful spirit creatures. When displeased, jinushigami can eradicate trails and warp the contours of their terrain, forcing travelers to endure unreasonable hardship in travel. These goliaths have little patience for those who would defile their efforts, and offenders who fail to listen to a jinushigami’s initial hints quickly discover how devastating the kami’s powers can be as they are forced from the land either by the lesser kami who serve their superior or by the towering jinushigami itself. Of course, those who respect and honor the jinushigami see the kami’s other side, as the kami eases their travel by lessening undergrowth, shifting rivers, and otherwise providing subtle but incredible aid to travelers.
@@ -75,7 +77,7 @@ Strangers to lands protected by jinushigami are well-advised to take the utmost 
 Jinushigami are ancient and wise, and while they are no fools, they prefer to give visitors to their domains the benefit of the doubt. Only when an individual makes known his disruptive intentions toward the structure and cohesion of nature does a jinushigami react with violence. Of course, those who align themselves with naturally opposing forces of the kami, such as the oni, do not receive this friendly grace period, and a jinushigami can perceive most treacherous thoughts, sensing a suspicious visitor through its connection with the land, then tracking it down to stealthily observe it more closely.
 
 A jinushigami is 38 feet tall and weighs over 30,000 pounds. When they manifest physical bodies, they appear as lumbering humanoid forms made of earth and stone and plant matter, sometimes with strange humanoid affectations like hats or jewelry.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jinushigami)
 ```encounter-table
 name: Jinushigami

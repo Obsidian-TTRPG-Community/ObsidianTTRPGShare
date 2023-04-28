@@ -1,19 +1,21 @@
 ---
-alias: Telekinetic Storm
+aliases: [Telekinetic Storm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Telekinetic Storm 
+## Telekinetic Storm
 
 **source**:: Occult Adventures pg. 188  
 **school**:: evocation (force)
 **level**:: psychic 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**::  
 **area**:: 40-ft.-radius burst centered on you  
@@ -21,7 +23,7 @@ alias: Telekinetic Storm
 **saving-throw**:: Fortitude partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You generate a storm of telekinetic energy that emanates from you, ripping through the spell’s area of effect with devastating force. Any creature caught in the spell’s radius takes 1d6 points of damage per caster level (maximum 20d6) and is dazed and stunned for 1 round. A successful Fortitude save reduces the damage by half and negates the dazed and stunned effects.  
   

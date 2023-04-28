@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apostasy Wraith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 4
 desc_short: A broken mask gives this smoky, ghostly figure a bitter, unwavering gaze.
 ```
-# Description
+## Description
 When the souls of the followers of the Living God Razmir reach Pharasma’s Court, most are bound for the Inner Court, where their ultimate fate as believers of a false god is decided. These mortal souls are so traumatized by the knowledge of the falseness of their faith that they know only the desire to avenge themselves upon those who so duped them in life. These souls disavow the legitimacy of all gods, and return to the Material Plane to sow their vengeance.
 
 An apostasy wraith exists in a state of constant conf lict, torn between its burning shame at falling for such duplicity in life and its scorn and hatred toward believers for whom faith proved to be genuine. Their primary motivation is to wreak vengeance upon the false priesthood of Razmir, but that faith’s mental conditioning is so effective as to make it difficult for an apostasy wraith to even approach its quarry. If able to overcome its aversion, its wrath is terrible. Otherwise, an apostasy wraith gladly vents its rage upon followers of other gods in an effort to make them see-even if only for a moment-the despair of finding one’s faith misplaced.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apostasy%20Wraith)
 ```encounter-table
 name: Apostasy Wraith

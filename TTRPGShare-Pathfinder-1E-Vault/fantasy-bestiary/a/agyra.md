@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Agyra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,7 +71,7 @@ sources:
     desc: 166
 desc_short: This two-headed monstrosity has vast wings and a long tail covered in a forest of blades.
 ```
-# Description
+## Description
 Agyra, the Forever Storm, is believed by many cultures to be the cause of seasonal typhoons or other great storms- such tempests being a manifestation of Agyra’s monstrous breaths as she exhales during her long slumber every season. While this kaiju is not in fact responsible for the world’s storms, her powers over wind and lightning are significant, and when she is vexed to rampage, the effects of her hurricanes can be as devastating to a region as her more direct attacks.
 
 Agyra has the appearance of a primeval, two-headed flying reptile with a wingspan of over 150 feet. Her tail is perhaps the most fearsome of her aspects. This lengthy and flailing appendage is covered with razor-sharp blades and wickedly barbed spines capable of slashing through buildings and tearing through armor with great force and from great distances.
@@ -79,7 +81,7 @@ Agyra dwells on the upper slopes of a long-dormant volcano that sits on a remote
 There are rumors that certain shamans on the isle conceal sacred words or some ancient ritual to waken and command Agyra, and that many of her rampages are not the result of the kaiju being territorial or protective, but simply due to an ancient bargain the natives’ ancestors forged with the mighty beast in some forgotten era. Some speculate that such rituals require the sacrifice of trespassers, but this may be nothing more than fearful superstition or rumors spread by shamans to persuade foreigners to stay clear of their island.
 
 Agyra has a particular hatred of the kaiju Mogaru, and often leaves her volcanic lair to fly west to the remote jungle lake that serves as Mogaru’s home to clash with her nemesis. Mogaru’s penchant for attacking coastal cities often results in a devastating escalation when Agyra arrives to do battle with the land-bound kaiju. Sometimes, methods of conjuring Agyra are used to deliberately lure the kaiju to a city besieged by Mogaru, but just as often her arrival seems to be driven by self-interest. Agyra typically manages to weaken Mogaru enough to drive him off, but is often slain herself in these battles, resurrecting and returning to her home at the same time Mogaru returns to his. The nature of this rivalry is unclear, but kaiju scholars believe that the two monsters have been enemies for longer than humanity has existed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Agyra)
 ```encounter-table
 name: Agyra

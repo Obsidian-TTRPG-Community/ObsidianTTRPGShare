@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fossegrim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 114
 desc_short: This striking, blue-eyed man with luminous skin and flowing white hair holds an ethereal harp.
 ```
-# Description
+## Description
 Pale and possessing unnatural beauty, fossegrims are wicked fey who haunt idyllic waterfalls, where they lure the unsuspecting near with song and the promise of treasure, only to drown them. Well built and elf like in appearance, fossegrims are gifted musicians, and their lairs often echo with the sound of bewitching music. They are never without their enchanting instruments.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fossegrim)
 ```encounter-table
 name: Fossegrim

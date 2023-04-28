@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apallie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 30
 desc_short: This small, green ooze shifts form constantly, often taking on a two-legged, vaguely humanoid appearance.
 ```
-# Description
+## Description
 Most oozes are mindless, existing only to consume. Even those rare oozes that do possess intelligence still tend to prefer the consumption of other creatures over their company. Occasionally, however, an ooze in the presence of a powerful psychic spellcaster becomes infused with some measure of both sentience and personhood, and yearns to join the company of civilized beings. When a spellcaster completes a particularly stressful ritual or powerful mental feat in close proximity to the right mixture of primordial slimes that make up a nascent ooze, a piece of the spellcaster’s mind breaks off and infuses the ooze, creating a being called an apallie.
 
 A newly formed apallie is typically convinced that it is a member of its creator’s race. Its greatest desire is to join the society of its progenitor, and it alters its form to insinuate itself into humanoid settlements. Such impostors are easily discovered, however, as an apallie’s true nature reasserts itself as soon as the sun begins to rise. An ooze discovered in this way often finds itself run out of town, forced to try its luck in the next settlement, though some particularly stubborn apallies simply assume a new form and return the next night under a different guise.
@@ -60,7 +62,7 @@ Apallies are nocturnal creatures, for any contact with the rays of the sun force
 Apallies are more common in large cities that provide sewers and other enclosed venues to hide in during the day and a healthy nightlife scene in which they can pose as humanoids when it’s dark. Some apallies find acceptance, and even success, in such environments, though the small oozes never stop trying to prove themselves to be humanoids, and any relationships in which they engage (whether platonic or romantic) nearly always end in a predictable disaster.
 
 In its true form, an apallie weighs about 40 pounds and stands about 3 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apallie)
 ```encounter-table
 name: Apallie

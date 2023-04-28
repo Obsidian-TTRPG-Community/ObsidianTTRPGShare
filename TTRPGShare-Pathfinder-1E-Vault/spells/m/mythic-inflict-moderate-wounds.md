@@ -1,19 +1,21 @@
 ---
-alias: Mythic Inflict Moderate Wounds
+aliases: [Mythic Inflict Moderate Wounds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Inflict Moderate Wounds
+## Mythic Inflict Moderate Wounds
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: necromancy
 **level**:: antipaladin 3, cleric 2, inquisitor 2, occultist 2, oracle 2, shaman 2, spiritualist 2, warpriest 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Inflict Moderate Wounds
 **saving-throw**:: Will half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *inflict light wounds*, except that you deal 2d8 points of damage + 1 point per caster level (maximum +10).
 

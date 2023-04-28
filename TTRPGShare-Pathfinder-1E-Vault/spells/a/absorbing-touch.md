@@ -1,19 +1,21 @@
 ---
-alias: Absorbing Touch
+aliases: [Absorbing Touch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Absorbing Touch 
+## Absorbing Touch
 
 **source**:: Advanced Player's Guide pg. 200  
 **school**:: transmutation
 **level**:: alchemist 3, investigator 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Absorbing Touch
 **saving-throw**:: Fortitude negates (object)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You absorb the next object your hand touches into your body. If you are already holding an object, you can attempt to absorb it; otherwise, you may touch an object as a standard action separate from casting the spell. You can absorb any nonmagical, nonliving object weighing no more than 1 pound per caster level. A container and its contents count as a single object. Objects in the possession of another creature receive a Fortitude saving throw to prevent absorption. You may continue to attempt to absorb objects until one is absorbed.  
   

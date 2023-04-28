@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Conqueror Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -85,7 +87,7 @@ sources:
     desc: 64
 desc_short: This immense worm resembles a gigantic maggot with pale flesh. Its mouth is peeled back to reveal four long, hooklike jaws.
 ```
-# Description
+## Description
 Though conqueror worms resemble immense vermin, those who mistake them for mindless creatures suffer terribly for their mistake. In truth, conqueror worms are creatures of vast intellect and equal depravity. These monstrous beings exist only to rule “lesser civilizations” from the shadows, and revel in the complete control of an unknowing society through the remote manipulation of its supposed leaders. 
 
 A conqueror worm prefers to play with its toys before breaking them. To do so, it burrows its way below a target nation’s capital. From there, the conqueror worm makes mental contact with the city’s leaders, forming sinister psychic connections with those in power. The worm beguiles some of these leaders with promises of wealth or power. Others, the worm controls outright using the considerable psychic magic at its disposal. Regardless, the end result is the same; without intervention, all end up as puppets dancing to the conqueror worm’s whims. 
@@ -97,7 +99,7 @@ Eventually a conqueror worm tires of its games, and plots to destroy its subject
 Perhaps the most terrifying and peculiar aspect of the conqueror worm is its ability to form cults. Whether through accumulation of psychic power or some hidden divine spark, conqueror worms are capable of granting spells to creatures that worship them. A conqueror worm exploits this ability to attract cultists, which it uses to further its goals in the civilized world above. Although such cults are absolutely loyal to the conqueror worm, which they worship as an all-knowing and all-powerful god, the conqueror worm usually considers its mortal followers expendable. 
 
 A conqueror worm is 80 feet long and weighs 70 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Conqueror%20Worm)
 ```encounter-table
 name: Conqueror Worm

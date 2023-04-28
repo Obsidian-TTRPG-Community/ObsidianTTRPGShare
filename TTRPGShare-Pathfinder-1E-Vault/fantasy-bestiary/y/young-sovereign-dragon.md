@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Sovereign Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 100
 desc_short: This magnificent dragon is covered in splendid gold scales, and horns jut from its head like a crown.
 ```
-# Description
+## Description
 Guardians of balance, sovereign dragons, or lungwangs as they are also known, were placed in the skies by the gods themselves to safeguard harmony in the world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Sovereign%20Dragon)
 ```encounter-table
 name: Young Sovereign Dragon

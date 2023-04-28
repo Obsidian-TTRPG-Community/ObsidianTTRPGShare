@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zombie Wolf
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -35,7 +37,7 @@ sources:
     desc: 90
 desc_short: Still bearing the dirt of the grave and the wounds that meant its death, this rotting corpse shambles forth, limbs slack, eyes dead, but driven on by a unholy need to kill.
 ```
-# Description
+## Description
 Organization solitary, pair, or pack (3-12)
 Treasure none
 
@@ -44,7 +46,7 @@ Zombies are the animated corpses of dead creatures, forced into foul unlife via 
 Zombies are unthinking automatons, and can do little more than follow orders. When left unattended, zombies tend to mill about in search of living creatures to slaughter and devour. Zombies attack until destroyed, having no regard for their own safety.
 
 Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using animate dead. Such zombies are always of the standard type, unless the creator also casts haste or remove paralysis to create fast zombies, or contagion to create plague zombies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zombie%20Wolf)
 ```encounter-table
 name: Zombie Wolf

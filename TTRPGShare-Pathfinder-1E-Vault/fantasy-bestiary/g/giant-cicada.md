@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Cicada
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 84
 desc_short: Trim wings fold along the back of this oblong, iridescent insect.
 ```
-# Description
+## Description
 These arboreal insects are best known for leaving behind nearly perfect exoskeletons when they molt. Giant cicadas have a signature song that can be heard reverberating through forests in the evening hours. This song can be heard for miles and can be overwhelming up close.
 
 Giant cicadas live most of their life in nymph form underground, emerging as adults only after around 13 years. Sometimes an enormous brood of these creatures emerges at once, causing trouble for humanoids living in those areas. Some creatures that share territory with giant cicadas collect their molted exoskeletons and make armor and other items from the material.
 
 Giant cicadas are nearly 3 feet long and weigh up to 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Cicada)
 ```encounter-table
 name: Giant Cicada

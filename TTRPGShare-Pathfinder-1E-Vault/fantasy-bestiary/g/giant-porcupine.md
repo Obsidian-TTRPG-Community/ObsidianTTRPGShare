@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Porcupine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 222
 desc_short: This gray, human-sized porcupine’s round body is covered in sharp, striped quills.
 ```
-# Description
+## Description
 More so than its smaller kin, the human-sized giant porcupine is a foul-tempered creature that is just as content chewing on carrion as on living creatures. Worse, giant porcupines are notorious in their almost foolhardy bravery, and have been known to attack creatures much larger than their own size. This unexpected aggression, when combined with their tangle of spearlike quills, makes the giant porcupine a dangerous foe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Porcupine)
 ```encounter-table
 name: Giant Porcupine

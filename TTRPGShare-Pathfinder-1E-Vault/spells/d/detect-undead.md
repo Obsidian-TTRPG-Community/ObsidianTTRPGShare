@@ -1,19 +1,21 @@
 ---
-alias: Detect Undead
+aliases: [Detect Undead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Undead 
+## Detect Undead
 
 **source**:: PRPG Core Rulebook pg. 269  
 **school**:: divination
 **level**:: alchemist 1, arcanist 1, cleric 1, inquisitor 1, investigator 1, medium 1, mesmerist 1, oracle 1, paladin 1, psychic 1, shaman 1, sorcerer 1, spiritualist 1, warpriest 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (earth from a grave)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Undead
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can detect the aura that surrounds undead creatures. The amount of information revealed depends on how long you study a particular area.  
   
@@ -46,4 +48,3 @@ You can detect the aura that surrounds undead creatures. The amount of informati
 
   
 Each round, you can turn to detect undead in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
-

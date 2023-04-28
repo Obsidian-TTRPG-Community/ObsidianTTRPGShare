@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Undigested
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 125
 desc_short: A jumble of melted bones and skull fragments f loat amid an oozing brown and yellow slurry.
 ```
-# Description
+## Description
 Undigested are the animate slurry of the indigestible parts of a humanoid creature. They come into being when a giant beast that swallowed its prey alive is slain by unspeakable necromantic arts. A primal shard of the beast’s sentience is ripped from it during the agonizing moments of its death, animating the gelatinous humanoid remains within its stomach into an ooze-like undead creature which hungers to inf lict its digestive fate upon others. If the beast was digesting multiple creatures, this phenomenon results in undigested swarms instead. Undigested-implacable ambush predators-slop, ooze, and undulate through the dark places of the world in search of sustenance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Undigested)
 ```encounter-table
 name: Undigested

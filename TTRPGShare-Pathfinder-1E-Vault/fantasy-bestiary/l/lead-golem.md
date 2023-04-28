@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lead Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 127
 desc_short: Resembling an unearthed vein of dull gray minerals, this crude, hunchbacked humanoid figure uses its arms to support itself.
 ```
-# Description
+## Description
 Lead golems are lurching, humanoid-shaped mounds of lead. A lead golem stands 11 feet tall when upright, and weighs 10,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lead%20Golem)
 ```encounter-table
 name: Lead Golem

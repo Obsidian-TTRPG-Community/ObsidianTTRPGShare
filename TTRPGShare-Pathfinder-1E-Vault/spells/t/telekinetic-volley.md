@@ -1,19 +1,21 @@
 ---
-alias: Telekinetic Volley
+aliases: [Telekinetic Volley]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Telekinetic Volley 
+## Telekinetic Volley
 
 **source**:: Ranged Tactics Toolbox pg. 31  
 **school**:: transmutation
 **level**:: arcanist 2, magus 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: up to one touched object per level weighing up to 5 lbs. each  
@@ -21,7 +23,7 @@ alias: Telekinetic Volley
 **saving-throw**:: none (object)
 **spell-resistance**:: no (object)
 
-### Description 
+### Description
 
 The touched items levitate in your space. When you cast the spell and once per round thereafter, you can launch one item at a target of your choice as a standard action. The ranged attack is made as if you had thrown the item unless it’s ammunition for a weapon, in which case the attack is made as if fired from a heavy crossbow (if a bolt), a halfling sling staff (if a sling bullet), a blowgun (if a blowgun dart), a composite longbow with a +2 Strength rating (if an arrow), an atlatl^UE^ (if an atlatl dart), or a pistol^UE^ (if a firearm bullet^UE^). A firearm pellet^UE^ launched by the spell functions as a shuriken.  
   

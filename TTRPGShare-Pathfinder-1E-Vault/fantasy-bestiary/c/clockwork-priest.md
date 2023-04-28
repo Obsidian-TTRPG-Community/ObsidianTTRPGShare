@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 34
 desc_short: This four-armed clockwork construct has a glowing crystal globe as a head and a shining crystal set into its chest.
 ```
-# Description
+## Description
 A clockwork priest combines raw divine energy with clockwork engineering through an integrated divine focus nestled in its chest. Through divine conduits and specially sanctified parts, these creations act as vessels of divinities, granting them a reservoir of divine energy they can use to generate spell effects. They often serve as healers, offering aid to the afflicted and to those ravaged in battle. Because of their unwavering loyalty to their deities, clockwork priests are willing to sacrifice themselves for their missions.
 
  Within a church, clockwork priests serve as assistants and aides, carrying out commands with unquestioned loyalty. While rare, churches staffed entirely by clockwork priests do exist. Stories tell of cathedrals dedicated to Amaznen, the Azlanti god of invention and magic, still operating in the ruins of Azlant, despite the fact that that god is now dead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Priest)
 ```encounter-table
 name: Clockwork Priest

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Brutal Warlord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 88
 ```
-# Description
+## Description
 Serving as a leader to orcs, half-orcs, or other barbaric forces, the brutal warlord uses her martial control to shape the battlefield.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Brutal%20Warlord)
 ```encounter-table
 name: NPC Brutal Warlord

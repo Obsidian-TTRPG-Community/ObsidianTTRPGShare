@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iron Sentinel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 90
 desc_short: An apelike head with demonic features cast in black iron sits on six segmented mechanical legs.
 ```
-# Description
+## Description
 Popular in the more brutish Thassilonian lands of Bakrakhan, Gastash, and Haruka, iron sentinels were commonly employed in large platoons to repel organized, armed assaults. They most often begin combat with an icy bolt intended to slow advancing hostiles, who are then easier targets for the constructs’ physical attacks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iron%20Sentinel)
 ```encounter-table
 name: Iron Sentinel

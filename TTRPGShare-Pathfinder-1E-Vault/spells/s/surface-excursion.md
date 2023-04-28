@@ -1,19 +1,21 @@
 ---
-alias: Surface Excursion
+aliases: [Surface Excursion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Surface Excursion 
+## Surface Excursion
 
 **source**:: Heroes of the Darklands pg. 21  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 5, magus 5, occultist 4, psychic 5, shaman 5, sorcerer 5, spiritualist 4, summoner 4, summoner (unchained) 4, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 3 rounds  
 **components**:: V, S, M (a handful of soil that has been in the sun for at least 6 hours)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you plus up to one willing creature per 3 levels  
@@ -21,7 +23,7 @@ alias: Surface Excursion
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You instantly transport yourself and touched allies onto the nearest sky-facing surface directly above you. The destination surface may be solid ground or the surface of a body of water (or other liquid), depending on your position. If reaching the surface would require crossing planar boundaries or no sky-facing surface exists directly above your position, the spell fails and has no effect.  
   

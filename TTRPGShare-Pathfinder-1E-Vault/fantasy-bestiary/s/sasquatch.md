@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sasquatch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 236
 desc_short: Tall, burly, and hairy, this humanoid creature wields a large tree branch for a club and has a swinging, apelike gait.
 ```
-# Description
+## Description
 Undergrowth that has been magically manipulated to impede movement still affects the sasquatch.
 
 The elusive sasquatches earn their mysterious reputation rightly; they live in unpopulated forests and avoid confrontations with humanoids, only becoming violent when they feel threatened, when their territory is encroached upon, or when they feel they must protect their young. Left to their own devices, sasquatch families are perfectly content to live their lives in the deep woods, leaving behind little to no trace of their passing save for the periodic big footprint in the ground.
@@ -61,7 +63,7 @@ Despite their considerable bulk, sasquatches are incredibly stealthy creatures, 
 The elusiveness of sasquatches is such that even in a world where dragons and sea monsters are real, many urban scholars doubt the existence of the creatures, citing the lack of evidence of sasquatch lairs or remains as proof of their nonexistence. In truth, sasquatches are simply far more efficient at living in harmony with nature than most humanoids could ever hope to be. To a sasquatch, a deadfall in a forest makes a perfectly fine home. When a sasquatch dies, its kin take pains to bury the body deep and hide all trace of the gravesite to protect the remains from scavengers and evil spirits alike. The sasquatch tongue is a relatively complex language that mixes vocalizations, howls, and “knocking”-the act of striking a solid surface (like a tree or boulder) with a club or stone-and thus tends to blend in with the ambient sounds of a forest.
 
 A sasquatch is 8 feet tall and weighs 570 pounds. Rural populaces often have fond nicknames for these creatures, such as wild men, skunk apes, and perhaps most popularly, simply bigfoot.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sasquatch)
 ```encounter-table
 name: Sasquatch

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sirrush
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 245
 desc_short: This graceful, elegant dragon has six legs, a radiantly feathered tail and wings, and scales that appear to be made of solid sunlight.
 ```
-# Description
+## Description
 Sirrushes serve Sarenrae and other celestial powers with ties to the Dawnflower. Enlightened and wise, they show mercy to all but the most irredeemable of evil beings. Unlike many creatures of the dragon type, sirrushes have little interest in treasure and feel no compulsion to hoard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sirrush)
 ```encounter-table
 name: Sirrush

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Guardian Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,7 +82,7 @@ sources:
     desc: 146
 desc_short: This immense dragon coils its long, serpentine body beneath spreading wings, its eyes glittering like burnished gold.
 ```
-# Description
+## Description
 A guardian dragon is an immense, serpentine dragon created by a deity to hide and guard a fabulous, legendary treasure. Spiriting its charge away to the farthest ends of the earth and beyond, the dragon maintains its eternal vigil surrounded by a garden, a labyrinth, a palace, or something uncanny, either building such a place itself or occupying a structure crafted for it by the deity.
 
 Over time, the guardian dragon enhances the defenses around its lair. As most guardian dragons have been protecting the same item for decades or centuries, a typical guardian dragon’s lair is full of natural hazards and stocked with a variety of lesser mythic and non-mythic opponents that add to the lair’s defenses.
@@ -90,7 +92,7 @@ A mortal hero might brave the dangers of such a lair, seeking the dragon’s pri
 Because of its many victories over thieves and dragonslayers, a guardian dragon is usually in possession of a large collection of magic items, and it doesn’t hesitate to make use of rings, scrolls, wands, and other items to protect itself or fortify its lair-or for instructing its lesser guardians on how to use these items. A guardian dragon might be willing to trade items it can’t use for something more suitable, as long as the other party makes no attempt to take anything without permission (especially its charge, but it considers any theft reprehensible).
 
 A guardian dragon is 50 feet long when fully uncoiled and weighs 7 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Guardian%20Dragon)
 ```encounter-table
 name: Mythic Guardian Dragon

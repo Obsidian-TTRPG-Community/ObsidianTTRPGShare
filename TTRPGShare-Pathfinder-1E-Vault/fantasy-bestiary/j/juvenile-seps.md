@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juvenile Seps
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
     desc: 237
 desc_short: This venomous snake is heavily armored and has unusually large fangs.
 ```
-# Description
+## Description
 Sepses are born live. A hatchling soon grows up to 7 feet long and weighs 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juvenile%20Seps)
 ```encounter-table
 name: Juvenile Seps

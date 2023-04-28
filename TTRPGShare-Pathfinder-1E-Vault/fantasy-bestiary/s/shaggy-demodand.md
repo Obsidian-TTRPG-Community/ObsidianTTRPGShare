@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shaggy Demodand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 69
 desc_short: This toad-faced humanoid is bloated and swollen, with folds of obsidian skin hanging down beneath two immense bat wings.
 ```
-# Description
+## Description
 Shaggy demodands are obese outsiders that occupy the highest status within demodand society. The fleshy tyrants stand just under 7 feet tall and have huge bat wings capable of supporting their 600-pound weight. Their faces have the broad-set eyes of a toad and toothy underbites.
 
 Although they still answer to their titanic masters, shaggy demodands are the masters of their kind, and serve the thanatotic titans as advisors, covert agents, or battlefield generals. In the Abyss, shaggy demodands command great armies, leading them against demonic hordes as the balance of Abyssal power ebbs and flows. Often underestimated due to their shape, these demodands are both intelligent and cunning, and approach battle with an effective mixture of strategy and ruthless detachment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shaggy%20Demodand)
 ```encounter-table
 name: Shaggy Demodand

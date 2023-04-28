@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Maftet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 88
 desc_short: Broad hawk wings support this creature with the torso of a bronze-skinned human and the lower body of a tawny, bipedal lion.
 ```
-# Description
+## Description
 Dwelling in crumbling ruins and lost cities, maftets are a race of winged feline humanoids. Accomplished hunters and stalkers, maftets are highly skilled in fighting with dual scimitars.
 
 A typical maftet is 7 feet tall and weighs 270 pounds. The fur on their leonine bodies ranges in coloration from a light buff to goldenrod or rust red. In some climates, maftets have the spotted lower bodies of leopards, and in rare circumstances they may possess white fur and pale skin or black fur and grayish-purple skin. Such individuals frequently rise to positions of power among their kind.
@@ -70,7 +72,7 @@ A typical maftet is 7 feet tall and weighs 270 pounds. The fur on their leonine 
 At home in dry deserts and mountains, maftets prefer to lair in abandoned ruins, mysteriously drawn to such desolate places. They also make do with dens in cliff-side caves or mountaintop eyries, but only if no suitable abandoned edifices can be found.
 
 When a young maftet comes of age, it receives its runic tattoos from a shaman, usually the eldest female in the pride. The art and magic of creating these tattoos has been passed down from mother to daughter for thousands of years, along with the race’s oral history and legends. Their origins now lost to history, these tattoos are always the same (with minor cosmetic variations between the sexes and between different prides) and always have the same effects. Under no circumstances are these tattoos ever given to non-maftets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Maftet)
 ```encounter-table
 name: Maftet

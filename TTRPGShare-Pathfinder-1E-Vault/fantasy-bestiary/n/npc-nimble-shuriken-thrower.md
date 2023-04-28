@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Nimble Shuriken Thrower
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: NPC Codex
     desc: 98
 ```
-# Description
+## Description
 These short-statured monks do their best to stay out of close combat, backing up their companions with well-placed shuriken.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Nimble%20Shuriken%20Thrower)
 ```encounter-table
 name: NPC Nimble Shuriken Thrower

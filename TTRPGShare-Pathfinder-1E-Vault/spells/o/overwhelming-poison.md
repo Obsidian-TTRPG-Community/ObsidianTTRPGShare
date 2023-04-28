@@ -1,19 +1,21 @@
 ---
-alias: Overwhelming Poison
+aliases: [Overwhelming Poison]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Overwhelming Poison 
+## Overwhelming Poison
 
 **source**:: Ultimate Intrigue pg. 221  
 **school**:: necromancy (poison)
 **level**:: antipaladin 4, cleric 6, druid 6, hunter 4, oracle 6, ranger 4, shaman 6, warpriest 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (an adder's fang)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature or one dose of poison; see text  
@@ -21,7 +23,7 @@ alias: Overwhelming Poison
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell increases the virulence of the targeted dose of poison, making the poison more difficult to resist. The poison is unaffected by *delay poison*, and the DC to remove it with *neutralize poison* is increased by 5. Additionally, the poison uses its own saving throw DC or *overwhelming poison’s* DC, whichever is higher.  
   

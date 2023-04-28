@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Axe Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: NPC Codex
     desc: 124
 ```
-# Description
+## Description
 Axe lords guard dwarven citadels, hunting foul monsters from the deeps and threats from outside.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Axe%20Lord)
 ```encounter-table
 name: NPC Axe Lord

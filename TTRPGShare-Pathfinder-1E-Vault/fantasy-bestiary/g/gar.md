@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
     desc: 128
 desc_short: This long, lean fish has a muscular body and a head with long jaws filled with sharp teeth.
 ```
-# Description
+## Description
 Gars are predatory fish that live in deep lakes and rivers. Sleek and swift, they regard anything their own size or smaller as food. A typical gar is 7 feet long and weighs 200 pounds. One species known as the alligator gar can grow to lengths of 10 feet. An alligator gar is a gar with the advanced creature template.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gar)
 ```encounter-table
 name: Gar

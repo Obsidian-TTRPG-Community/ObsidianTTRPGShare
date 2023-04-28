@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Slayer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 75
 desc_short: This small humanoid is clothed in tattered rags from head to foot. Only its sinister eyes and pale hands are visible. 
 ```
-# Description
+## Description
 Dark slayers are a relatively rare sub-race of the dark folk imbued with malign energies that grant them a suite of deadly spell-like abilities beyond those normally accessible to their kin. They are usually encountered leading small bands of dark creepers, and seethe with barely concealed envy of the dark stalkers, ever scheming to displace them and claim a dark folk tribe of their own. Dark stalkers direct the slayers for their own ends, grooming them for use against enemies, ever ready to sacrifice a slayer in battle for an advantage, however temporary. 
 
 Unlike other dark folk, dark slayers embrace their evil impulses. Their pleasures extend more to murder and pain than to theft or mayhem. Dark slayers are obsessed with magical trinkets, coveting them above all else. Sadly, their obsessive need to fiddle and tinker often leaves their pretties broken or depleted. 
 
 Dark slayers stand just short of 4 feet tall and weigh 50 pounds. Most have a persistent tremor visible in their hands, stilled only when fondling a newfound magic item. Their skin is dead white, dry, and hot to the touch; their eyes are dark and narrow. Dark slayers wear salvaged rags like dark creepers do, but they discard the rags when they grow too tattered or foul-smelling.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Slayer)
 ```encounter-table
 name: Dark Slayer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Botfly Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 59
 desc_short: Like a cloud of black dust, a swirling swarm of insects hovers in the air. From within comes the low, droning buzz of thousands of tiny flies.
 ```
-# Description
+## Description
 Common to sweltering jungles, warm swamplands, and lazy riverbanks, these pestilent f ly swarms seek humanoid hosts for their eggs. While not as physically dangerous as their giant cousins, implanted botf ly larvae typically carry diseases that spread to the host.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Botfly%20Swarm)
 ```encounter-table
 name: Botfly Swarm

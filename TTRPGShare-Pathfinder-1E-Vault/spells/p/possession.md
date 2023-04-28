@@ -1,19 +1,21 @@
 ---
-alias: Possession
+aliases: [Possession]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Possession 
+## Possession
 
 **source**:: Occult Adventures pg. 180  
 **school**:: necromancy
 **level**:: arcanist 5, medium 3, mesmerist 5, occultist 4, psychic 5, sorcerer 5, spiritualist 4, summoner 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Possession
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You attempt to possess a creature by projecting your soul into its body. The target creature must be within spell range and you must know where it is, though you do not need line of sight or line of effect to it. When you transfer your soul upon casting, your body appears to be dead. Failure to take over a host ends the spell.  
   
@@ -29,7 +31,6 @@ If you are successful, your life force occupies the host body. The host’s soul
   
 As a standard action, you can shift freely back to your own body regardless of range, so long as it remains on the same plane. If the host’s body is killed, you return to your own body and the life force of the host departs (it is dead). If your body is slain, when the spell expires or the host’s body is killed, you are slain. It is possible to cast this spell on a new target from within another creature’s body; this resets the duration. You still return to your original body (not any intermediate body) when you take a standard action to do so or the spell’s duration expires. Returning to your body ends the spell. Creatures whose souls are their bodies, such as incorporeal undead and non-native outsiders, use the effects of *greater possession* instead.
 
-## Possession and Magic Jar 
+## Possession and Magic Jar
 
 The old *magic jar* spell is unwieldy, particularly with respect to creatures like ghosts and shadow demons that don’t really use a jar at all. Consider replacing *magic jar* with the new *possession* spells for both spellcasters and monsters. Likewise, consider using spells based on *possession* rather than *magic jar*.
-

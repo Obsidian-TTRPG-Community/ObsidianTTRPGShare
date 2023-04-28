@@ -1,19 +1,21 @@
 ---
-alias: Disintegrate
+aliases: [Disintegrate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Disintegrate 
+## Disintegrate
 
 **source**:: PRPG Core Rulebook pg. 271  
 **school**:: transmutation
 **level**:: arcanist 6, magus 6, occultist 6, psychic 6, sorcerer 6, spiritualist 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a lodestone and a pinch of dust)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: ray  
@@ -21,7 +23,7 @@ alias: Disintegrate
 **saving-throw**:: Fortitude partial (object)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected.  
   
@@ -31,7 +33,7 @@ A creature or object that makes a successful Fortitude save is partially affecte
   
 Only the first creature or object struck can be affected; that is, the ray affects only one target per casting.
 
-## Mythic Disintegrate 
+## Mythic Disintegrate
 
 **source**:: Mythic Adventures pg. 91  
 The damage dealt increases to 3d6 points of damage per caster level (maximum 60d6) plus 1d4 points of Constitution damage.  

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zelekhut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 167
 desc_short: This creature looks like a mechanical centaur. Golden, clockwork wings sprout from its back, and its arms end in barbed chains.
 ```
-# Description
+## Description
 Zelekhuts are bounty hunters and executioners all rolled into one. They seek out those beings who continually evade justice-either through active flight, or through power and station-and bring law and justice to the multiverse’s most notorious fugitives and criminals.
 
 Ironically, while zelekhuts are implacable and unrelenting in their duty, they have little interest in passing judgment of their own, a fact that often confuses other races. Rather, a zelekhut is content to enforce the laws of any given society, and while it might hunt a condemned serial killer or notorious thief across half a dozen planes, it will not shift a single hoof to capture a corrupt ruler whose offenses are 10 times worse, so long as the atrocities are within her technical rights as ruler. All zelekhuts understand that laws can and must differ from place to place, and it is not the zelekhut’s job to moralize, merely to track down those who seek to flee their punishment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zelekhut)
 ```encounter-table
 name: Zelekhut

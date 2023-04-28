@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire Squid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 208
 desc_short: This eerie-looking squid has red eyes and webbing between its hook-lined tentacles.
 ```
-# Description
+## Description
 The vampire squid-so called for its red eyes and cloak-like webbing-is a cephalopod from the lightless depths of the oceans. This eerie mollusk is covered in photophores, which it can use to create a defensive barrage of light when agitated.
 
  A vampire squid can reach a total body length of up to 1 foot and weighs 1 pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire%20Squid)
 ```encounter-table
 name: Vampire Squid

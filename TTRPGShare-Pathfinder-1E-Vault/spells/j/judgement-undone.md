@@ -1,19 +1,21 @@
 ---
-alias: Judgement Undone
+aliases: [Judgement Undone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Judgement Undone 
+## Judgement Undone
 
 **source**:: Planar Adventures pg. 43  
 **school**:: necromancy
 **level**:: cleric 9, oracle 9, psychic 9, shaman 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (diamonds worth 50,000 gp), F (see text)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one willing petitioner  
@@ -21,7 +23,7 @@ alias: Judgement Undone
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This powerful, elaborate, and risky spell undoes Pharasma’s judgment, returning a willing petitioner to its mortal life. This spell must be cast on the plane to which the petitioner was sent, and the petitioner must be present for the entire casting. In addition, the caster must provide a specific object that the petitioner valued deeply in its mortal life as a focus for the spell. This is different for every petitioner and usually requires research to discover, although those who knew the petitioner well in life can often identify the item easily. At the completion of the spell’s casting, the petitioner returns to the mortal form it had as a young adult, with all of its memories and class levels (or equivalent statistics) intact.  
   

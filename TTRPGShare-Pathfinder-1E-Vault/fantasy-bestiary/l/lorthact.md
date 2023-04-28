@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lorthact
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,13 +79,13 @@ sources:
     desc: 26
 desc_short: This devilish humanoid has five horns growing out of his forehead that resemble a crown. He stands on stout cloven hooves.
 ```
-# Description
+## Description
 Lorthact the Unraveler, also named the Dwimmerlaik, the Ur-Magius, and the Diabolus Mystere, was once a high-ranking duke of Hell. Atypically, he was not solely bound to the service of a single archdevil, instead serving openly at various times as a mystical advisor and consultant on magical matters under both Geryon and Mephistopheles. Some believed him to be secretly a favorite of Asmodeus himself; this supposed favor provided some measure of protection from his jealous rivals. His last mistress in Hell was Eiseth, Whore-Queen of the erinyes, but when Eiseth uncovered a plot to reverse their positions-Lorthact arrogating himself to lordship and reducing her to mere consort-her wrath was enormous and eternal. Lorthact’s allies deserted him lest they taste the fury of the erinyes. Lorthact proclaimed his innocence, but he saw condemnation awaiting and fled, racing across the planes with the whips of the erinyes at his heels.
 
 After several planar refuges proved no shelter from his relentless pursuers, Lorthact sought solace in the mortal realms. Laying several false leads, he then doubled back to the diabolists of Cheliax, the first place his pursuers looked for him on Golarion. But after they had moved on, he slipped back into places they thought already thoroughly scoured. Adopting a succession of guises, he kept his presence hidden for years, but he never felt truly comfortable under the gaze of so many potentially unfriendly eyes. Seeking a more remote locale, he traveled to the farthest reaches of Chelish sovereignty: the Varisian city-state of Korvosa. There he found the perfect patsy in the vain and corrupt Lord Volshyenek Ornelos. Rebuffed by House Thrune in his quest to restore his youth and vigor, Volshyenek was easy prey for Lorthact’s inveigling. The devil bound him in a web of lies and stole not only his soul but also his life. Impersonating Lord Ornelos for over 200 years, he became a dominant figure in Korvosa, shadow-master of the Acadamae and sire of a great house. Meanwhile, he sought ways to rebuild his diabolic power and his store of souls so one day he might buy his way back to ducal favor in Hell.
 
 In the end, Eiseth’s diabolic assassins found him at long last, and he was forced to fake his own death. Yet he still dominates Korvosa from the shadows, controlling the Acadamae through his descendant Toff Ornelos. Little happens in the city without his knowledge, and he plays the part of the mage through shadow-magic, illusions, limited wishes, and the stolen magic of others. However, casters who delve too deeply into his or Korvosa’s secrets find themselves at odds with the deadly duke, his powers honed by centuries of exile to undermine and destroy mages who might uncover his identity or unravel his schemes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lorthact)
 ```encounter-table
 name: Lorthact

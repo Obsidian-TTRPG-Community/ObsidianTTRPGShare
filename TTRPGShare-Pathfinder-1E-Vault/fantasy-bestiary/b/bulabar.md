@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bulabar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 58
 desc_short: This small blue beetle stands upright on its hindmost legs and wears a bandolier full of tools and pouches.
 ```
-# Description
+## Description
 Bulabars are the tinkers of the First World, thought to personify the evolution of tool use in nature. Fascinated by mechanical devices of all sorts, they frequently wander the landscape looking for novel ideas, or else set up schools and laboratories where they can research their findings and uncover new ways for machines to better their lives. While other races sometimes resent the bulabars’ tendency to disassemble or prod curiously at any device they don’t understand-including those owned by strangers- bulabars’ good-natured penchant for teaching others, as well as fixing broken items for the sheer joy of it, makes them welcome in most settlements.
 
  The main exception to bulabars’ happy-go-lucky attitude is gremlins. Bulabars despise the problematic fey, especially the machine-destroying vexgits (Pathfinder RPG Bestiary 2 145), and attempt to exterminate them whenever possible. This racial hatred is only compounded by the fact that many scholars from other races believe that bulabars may be related to gremlins themselves, an insult that’s caused more than one academic gathering to devolve into an unscholarly brawl.
@@ -64,7 +66,7 @@ Bulabars are the tinkers of the First World, thought to personify the evolution 
  Though they have an uncanny ability to target the weak points of their enemies’ weapons and armor, bulabars hate seeing a useful mechanism broken, and are quick to repair any damaged items as soon as hostilities have ended. More often, bulabars prefer to attack from afar with ranged weapons or alchemical items they can throw-the more unusual, the better- and those bulabars with the opportunity to study alchemists, gunslingers, and other such adventurers often take levels in those classes themselves.
 
  The average bulabar is 2 feet tall and weighs 20 pounds. Most bulabars can’t bear to be parted from their tools and instruments for even a short time, and can usually be found wearing bandoliers, backpacks, and utility belts crammed with useful devices and spare parts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bulabar)
 ```encounter-table
 name: Bulabar

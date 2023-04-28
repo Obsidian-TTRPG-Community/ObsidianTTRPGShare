@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skull Ripper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 84
 desc_short: This chittering, scorpion-shaped monstrosity appears to be made of a hideous mix of chitinous limbs and human skulls. 
 ```
-# Description
+## Description
 Skull rippers were once guardians of the dead, the grim custodians of the great ossuaries of Thassilon. Although most skull rippers are discovered in ancient tombs and sepulchers, occasionally a geological upheaval or massive flood destroys a given catacomb or leaves a skull ripper stranded. In these cases, the construct emerges and ventures forth into the world above, harvesting skulls and causing widespread panic as it searches for a new tomb to guard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skull%20Ripper)
 ```encounter-table
 name: Skull Ripper

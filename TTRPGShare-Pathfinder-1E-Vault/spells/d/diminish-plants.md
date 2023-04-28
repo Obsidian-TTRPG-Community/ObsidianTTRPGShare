@@ -1,19 +1,21 @@
 ---
-alias: Diminish Plants
+aliases: [Diminish Plants]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Diminish Plants 
+## Diminish Plants
 
 **source**:: PRPG Core Rulebook pg. 270  
 **school**:: transmutation
 **level**:: druid 3, hunter 3, ranger 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target or Area** see text  
@@ -21,7 +23,7 @@ alias: Diminish Plants
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell has two versions.  
   

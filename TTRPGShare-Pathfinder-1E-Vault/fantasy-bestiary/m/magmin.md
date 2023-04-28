@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Magmin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 189
 desc_short: Built of fire and magma, this short humanoid radiates intense heat that causes the air around it to shimmer.
 ```
-# Description
+## Description
 While magmins populate the Plane of Fire, they sometimes slip through elemental rifts into the Material Plane. These rifts usually occur in places of searing heat, such as volcanoes or underground rivers of magma, or in places of strong, unpredictable magic. The latter scenario usually results in more problematic entrances, as magmins tend to accidently set fire to any nearby flammable objects.
 
 Though not courageous, these small outsiders still make formidable foes against any creature without resistance to their intense heat. Their touch incinerates clothing, and creatures that strike their bodies with steel run the risk of reducing their weapons to slag. Magmins’ best defense in their homes on the Plane of Fire is in their sheer numbers. Their settlements, dotted with magma pools and leaping geysers of molten rock, teem with staggering numbers of the creatures.
@@ -62,7 +64,7 @@ Magmins are paranoid and untrusting. Always fearful of the larger denizens of th
 Magmins take great pride in the cultivation of their magma pools. Each magma pool has a different purpose, such as bathing, cooking meals, or relaxation. Magmins add minerals and salts to these pools to properly season them for their intended uses. Cooking pools (sometimes called “murder pools” by strangers) burn hotter than most others, and relaxation pools are generally darker than bathing pools.
 
 Upon reaching adulthood, magmins stand 4 feet tall, their dense compositions giving them a weight of 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Magmin)
 ```encounter-table
 name: Magmin

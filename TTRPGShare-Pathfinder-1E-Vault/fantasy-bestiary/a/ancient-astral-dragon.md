@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ancient Astral Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: Bestiary 5
     desc: 89
 ```
-# Description
+## Description
 Reserved and haughty, these dragons roam the Astral Plane, seeking to expand their knowledge of its esoteric secrets. They hunt to eat, and use psychic magic to fight one another.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ancient%20Astral%20Dragon)
 ```encounter-table
 name: Ancient Astral Dragon

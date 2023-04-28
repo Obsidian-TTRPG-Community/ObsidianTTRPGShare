@@ -1,19 +1,21 @@
 ---
-alias: Curse Item
+aliases: [Curse Item]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Curse Item 
+## Curse Item
 
 **source**:: Pathfinder \#64: Beyond the Doomsday Door pg. 73  
 **school**:: necromancy (curse)
 **level**:: cleric 2, oracle 2, warpriest 2 (Groetus)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched  
@@ -21,7 +23,7 @@ alias: Curse Item
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 The object becomes flawed and prone to failure. The effects of this spell depend on the nature of the object.  
   

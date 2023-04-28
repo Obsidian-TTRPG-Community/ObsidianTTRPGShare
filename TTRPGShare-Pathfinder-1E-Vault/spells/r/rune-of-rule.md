@@ -1,19 +1,21 @@
 ---
-alias: Rune of Rule
+aliases: [Rune of Rule]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rune of Rule 
+## Rune of Rule
 
 **source**:: Adventurer's Guide pg. 61  
 **school**:: transmutation
 **level**:: arcanist 2, bard 2, occultist 2, skald 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (vial of paint worth 25 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Rune of Rule
 **saving-throw**:: Will (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 Investigations into the ancient and mysterious traditions of the seven virtues of rule of the lost human empire of Azlant, which were later corrupted by the runelords into the more familiar seven deadly sins, inspired the Cyphermages to develop the runes of rule. This spell allows you to place a rune upon another creature that can then be used to aid it at a later time. You determine the spell’s effect at the time of casting by using your finger to paint a specific rune on the recipient’s body with a dose of specially prepared paint worth 25 gp. The inscribed rune lasts for 24 hours or until the spell is activated. Unless otherwise noted, the creature upon which the *rune of rule* has been inscribed can activate it at any time as a swift action. If the spell effect isn’t used, all markings associated with the rune disappear and the effect fades. You can never place the spell upon yourself-it must be bestowed on someone else. The seven runes of rule, along with their specific effects when the user activates them, are listed below. A creature can bear only one *rune of rule* at a time.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mindslaver Mold
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 61
 desc_short: A thick sheet of filthy green fungus grows in twisting patterns across the shoulders and back of this feral-looking man.
 ```
-# Description
+## Description
 Mindslaver mold is an infestation from the primal world of fey that is particularly common in remote forests, islands, and mountain valleys where it is sometimes worshiped as a strange god by isolated, primitive tribes. The mold is joined together by a single consciousness, though individual patches retain their own goals. It seeks humanoid hosts, parasitizing them and forcing them to serve as its bodyguards and protectors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mindslaver%20Mold)
 ```encounter-table
 name: Mindslaver Mold

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Aldori Swordlord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 4
 ```
-# Description
+## Description
 Proud and stern, Aldori swordlords represent the pinnacle of Brevoy’s sword-dueling culture. Swordlords dedicate their lives to mastering a single blade and using it to defeat any with the courage to openly oppose them. Their pride and determination to constantly challenge themselves makes them ever-eager to prove the superiority of their fighting style, which often sets them at odds with others.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Aldori%20Swordlord)
 ```encounter-table
 name: NPC Aldori Swordlord

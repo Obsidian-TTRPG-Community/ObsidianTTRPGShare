@@ -1,19 +1,21 @@
 ---
-alias: Mythic Magic Fang, Greater
+aliases: [Mythic Magic Fang, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Magic Fang, Greater
+## Mythic Magic Fang, Greater
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: transmutation
 **level**:: druid 3, hunter 3, ranger 3, spiritualist 3, summoner 3, summoner (unchained) 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Mythic Magic Fang, Greater
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *magic fang*, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5). This bonus does not allow a natural weapon or unarmed strike to bypass damage reduction aside from magic.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tunnel Drummer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: NPC Codex
     desc: 37
 ```
-# Description
+## Description
 Tunnel drummers keep time for acts of work and war carried out in deep warrens and mine tunnels.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tunnel%20Drummer)
 ```encounter-table
 name: NPC Tunnel Drummer

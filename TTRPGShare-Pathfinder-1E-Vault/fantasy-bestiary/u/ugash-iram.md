@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ugash-Iram
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 66
 desc_short: This immense creature resembles a horrific, twelve-armed squid. Its emerald eyes burn with a terrifying malignance, and the thing has a fanged maw where its beak should be.
 ```
-# Description
+## Description
 South of Jalmeray, deep in the Yogisa Trench in the middle of the Obari Ocean, the terrifying gutaki known as Ugash-Iram lords over the underwater city of Achom. Ugash-Iram and its lesser kin practice foul rites and perform horrible rituals to honor their patron deity, Dagon, amid the city’s strange and twisted spires, which rise out of a dark fissure in the seabed like claws climbing toward the surface. Crackling eruptions of magical energy brief ly illuminate the city in f lashes of light, but it is otherwise as dark and lightless as the souls of its foul inhabitants.
 
 Because of its isolation in the deepest waters of the Obari Ocean, few surface-dwellers know of Ugash-Iram’s existence, though those fisherfolk and sailors who’ve heard tales of the mighty being know to fear it. Locathah sages place the indomitable gutaki’s age at over 3,000 years old, and dwellers in the underwater regions surrounding Achom have long loathed and feared Ugash-Iram, whose legions of devotees have spelled the ruin of countless aquatic cities. Ugash-Iram itself is responsible for destroying a dozen massive underwater cities in the past millennium, and the scattered ruins that lie around the Yogisa Trench serve as testament to its power.
@@ -59,7 +61,7 @@ Because of its isolation in the deepest waters of the Obari Ocean, few surface-d
 Those aquatic creatures Ugash-Iram doesn’t outright annihilate are captured and integrated into Achom either as members of the slave caste or as converted devotees to Dagon. Entire tribes of sahuagin, adaros, and iku-tursos have united under the banner of Ugash-Iram and its gutaki kin in Achom, and the underwater metropolis bulges at the borders with the thousands of evil inhabitants who make their home there. These inhabitants raid for Ugash-Iram and populate its city, protecting Achom and performing all kinds of menial tasks for their overlord. With these minions, Ugash-Iram’s deadly reach extends all the way to the surface of the Obari Ocean and even the nearby shores of Geb, Jalmeray, and Qadira.
 
 Isolated in its flooded metropolis beneath the sea, Ugash-Iram has plenty of resources, a generous life span, and thousands of minions at its disposal, making it a formidable foe for any who would seek to stop the despotic gutaki before its inf luence spreads even further.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ugash-Iram)
 ```encounter-table
 name: Ugash-Iram

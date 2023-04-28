@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Anaconda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 252
 desc_short: An enormous coil of muscle and scales, this giant snake flicks its arm-length tongue in the air as it scans the area for prey.
 ```
-# Description
+## Description
 Of the multitude of slithering predators that infest jungles, forests, and swamps, few inspire such terror as the giant anaconda. Incredibly strong, fearless hunters, these creatures are capable of taking down and eating elephants, dinosaurs, and giants. Their olive green and black mottled scales afford them exceptional camouflage in the murky waters they call home. A giant anaconda can grow to a length of 60 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Anaconda)
 ```encounter-table
 name: Giant Anaconda

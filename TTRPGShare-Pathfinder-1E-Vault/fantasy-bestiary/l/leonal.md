@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leonal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 19
 desc_short: This lion-headed humanoid has golden fur, sharp teeth, and long cat-like claws on its hands and feet. 
 ```
-# Description
+## Description
 A leonal is a lion-like agathion, noble and fierce. Though gentle with their families and patient with strangers on their home plane, in battle leonals are deadly foes of evil and cruelty. They hunt fiends and other evil monsters, silently tailing their prey until they find the right time to leap and slash. Leonals pride themselves on their hunting prowess, and few land creatures can match their speed. Although capable of using weapons, the majority of leonals prefer to battle evil with tooth and claw. 
 
 Leonals like their battles to be straightforward affairs. They begin with a roar to put their foes off balance, then follow up with claw and bite attacks. They closely coordinate with others in their pride, watching one another’s flanks and setting up devastating attacks. They mainly use their magical abilities against large numbers of weaker foes and against those they need to capture or incapacitate without dealing harm to them. 
 
 Leonals stand 6 feet tall and weigh 270 pounds on average. Males usually have manes of either dark gold or black hair, which may only surround the head or may extend onto the shoulders and chest. Female leonals do not have manes, but may have longer hair on the back of the neck.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leonal)
 ```encounter-table
 name: Leonal

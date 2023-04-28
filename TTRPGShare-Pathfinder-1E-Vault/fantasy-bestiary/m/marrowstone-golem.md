@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marrowstone Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 17
 desc_short: Thin veins of black rock crisscross the frame of this hulking construct.
 ```
-# Description
+## Description
 Carved from rock hewn from the marrowstone mines of Sekamina, these golems amplify the magical radiation emitted by veins of lazurite. They can only be crafted within the necropolis of Nemret Noktoria, land of ghouls, for lazurite brought beyond its boundaries loses its potency. Binding the lazurite into the body of the golem stabilizes it and lets the construct leave the boundaries of the ghoulish city with its fell powers intact. Though the ghouls guard the secrets of making a marrowstone golem, they are sometimes known to trade their handiwork with outsiders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marrowstone%20Golem)
 ```encounter-table
 name: Marrowstone Golem

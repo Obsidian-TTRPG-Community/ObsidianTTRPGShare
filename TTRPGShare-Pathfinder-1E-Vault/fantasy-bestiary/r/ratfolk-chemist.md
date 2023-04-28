@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratfolk Chemist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: Monster Codex
     desc: 182
 ```
-# Description
+## Description
 Ratfolk chemists are treasured members of ratfolk colonies. Not only do they provide the warren with excellent defensive capability, but their alchemical creations are valuable merchandise to sell or trade.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratfolk%20Chemist)
 ```encounter-table
 name: Ratfolk Chemist

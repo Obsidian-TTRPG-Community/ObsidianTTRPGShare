@@ -1,19 +1,21 @@
 ---
-alias: Dispel Balance
+aliases: [Dispel Balance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dispel Balance 
+## Dispel Balance
 
 **source**:: Planar Adventures pg. 40, Champions of Balance pg. 27  
 **school**:: abjuration
 **level**:: cleric 5, inquisitor 5, oracle 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you and a touched, neutral creature from another plane, or you and an enchantmnet on a touched creature or object  
@@ -21,7 +23,7 @@ alias: Dispel Balance
 **saving-throw**:: see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 Pulsing bronze energy surrounds you, bestowing three effects.  
   

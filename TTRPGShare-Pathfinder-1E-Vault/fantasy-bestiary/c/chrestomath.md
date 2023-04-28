@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chrestomath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 84
 desc_short: This bloated, larval sack of green and pink flesh is wet and curdled, its brainlike wrinkles interrupted by transparent membranes showing dark fluid within.
 ```
-# Description
+## Description
 The caulborn are a race of extraplanar scholars that wander between worlds in search of esoteric knowledge, literally consuming the thoughts and memories of other races. While the most common caulborn are the humanoid versions (Bestiary 3 48), there exists a second kind as well: the bloated and blind intelligences called chrestomaths, sometimes referred to as living libraries, or simply “brain-sacks.”
 
 Though they appear to be little more than giant amoebas barely able to move themselves, chrestomaths are a vital part of caulborn society. From their fleshy prisons, these powerful psychic intelligences help to shield and organize their humanoid servitor-siblings, occupying a position in caulborn society somewhere between brute resource and honored elder-and sometimes something close to a living divinity. Even more importantly, however, chrestomaths are the keepers of a caulborn hive’s massive racial memory, the living storehouses of everything its members have ever experienced, as well as the memories and concepts they’ve stolen from others. Indeed, it’s possible that the memories contained within a single chrestomath may stretch back millennia, all the way to the race’s mysterious origins.
 
 A typical caulborn chrestomath is a wet, squishy sack of flesh roughly 5 feet in diameter, and weighs 500 pounds, though older and more advanced versions can grow far larger, taking up entire buildings with their fetid bulk. These more advanced versions sometimes appear almost larval in form, and may possess levels in spellcasting classes, using spells such as mage hand to affect their surroundings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chrestomath)
 ```encounter-table
 name: Chrestomath

@@ -1,19 +1,21 @@
 ---
-alias: Enter Image
+aliases: [Enter Image]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Enter Image 
+## Enter Image
 
 **source**:: Advanced Player's Guide pg. 219  
 **school**:: transmutation
 **level**:: arcanist 3, bard 2, cleric 3, medium 3, mesmerist 2, occultist 2, oracle 3, psychic 3, redmantisassassin 3, skald 2, sorcerer 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a drop of paint and a ball of clay)
 
-### Effect 
+### Effect
 
 **range**:: 50 ft./level  
 **effect**:: transfer consciousness to any object bearing your likeness  
@@ -21,7 +23,7 @@ alias: Enter Image
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You gain a dim impression of the activities around any object bearing your face or form and can also project your consciousness into one such object at a time, allowing you to observe or even interact with nearby creatures. This spell allows you to leave your body and subconsciously monitor the immediate area around any depiction of your image whether one, hundreds, or even thousands. Each such image has the full range of your normal senses (sight, hearing, smell, etc.) and you can make a Perception check to notice anything occurring nearby. The DC of this check is always 10 greater than what it would be if you were actually present at that location, so even if you would normally notice something automatically (such as talking, normally a DC of 0), you would need to make a DC 10 Perception check to notice it.  
   

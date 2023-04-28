@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cordulegaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 82
 desc_short: Interlocking plates of chitin cover this massive, six-legged beast’s face like a jagged mask.
 ```
-# Description
+## Description
 Strangely reminiscent of dragonfly nymphs, cordulegasters are monstrous creations that inhabit the waterways of the River Styx. Like hydrodaemons, cordulegasters can survive prolonged exposure to the Styx’s tainted waters, where they lurk near the river’s edge and lie in wait for prey to wander close. A cordulegaster’s mouth comprises a prehensile, extendable lower jaw and a secondary inner set of mandibles. Its lower jaw folds under its head as the cordulegaster rests, cupping over the mandibles like a mask of interlocking, irregular teeth. When a cordulegaster attacks, its jaws separate and shoot forward to grasp its prey, pulling it closer so the mandibles can begin to shred and devour its unlucky victim’s flesh.
 
 Jagged russet plates cover the cordulegaster’s body, camouflaging the creature by mimicking natural rock formations found in Abadd0n’s waterways. Serrated edges line its protective chitin and run down the creature’s back, making it dangerous to grab or hold (and sparing it from larger predators). These serrated edges allow its lashing tail to open deep, jagged wounds with every blow. A typical cordulegaster can grow up to 12 feet long and 7 feet tall at the head, and can weigh as much as 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cordulegaster)
 ```encounter-table
 name: Cordulegaster

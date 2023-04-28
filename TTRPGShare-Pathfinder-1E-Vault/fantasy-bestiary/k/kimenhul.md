@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kimenhul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 214
 desc_short: Three monstrous, misshapen skulls top a twisted trunk balanced on three leglike splinters of flesh and bone.
 ```
-# Description
+## Description
 Kimenhuls prey upon the fear of failure, and encourage self-loathing. While all sahkils delight in spreading fear, few can leave an indelible mark of terror on its victim like a kimenhul. Among the strongest of sahkils, kimenhuls rarely leave the Ethereal Plane. Aside from the sahkil tormentors, kimenhuls are the eldest of all sahkils, and some particularly powerful kimenhuls carve out territory in the Ethereal Plane and rule over legions of other sahkils in much the same manner. Kimenhuls that achieve long-term control are outliers among their kind, however, as the hierarchy among sahkils is more mutable and f luctuating than the rigid order of devils or kytons, or psychopomps’ strict adherence to the planar order.
 
  A kimenhul appears as three enormous, fused humanoid skulls with mouths full of jagged fangs, sitting atop an ever-shifting mass of limbs and faces. These latter manifestations constantly try to pull free of the kimenhul’s bulk, shrieking and wailing in fear. Sometimes a creature gazing into this f luctuating horror sees a face all too familiar-a scolding parent, an old bully, or a lost lover. This may or may not be real, as the terrifying forms stretching out from a kimenhul’s body incorporate both images from the viewer’s mind and those creatures that have fallen prey to the kimenhul’s eternal fear ability. A typical kimenhul stands 25 feet tall and weighs roughly 10,000 pounds.
@@ -88,7 +90,7 @@ Kimenhuls prey upon the fear of failure, and encourage self-loathing. While all 
  Once back on the Ethereal Plane, kimenhuls bring their kidnapped victims to their lairs, where they and their sahkil allies subject them to a host of frightening stimuli in hopes of driving them mad. Some of these victims linger in this prison of terror for decades, while others die from fright-or take their own lives to escape the torture of constant dread. Otherwise, kimenhuls do their best to keep their victims alive.
 
  Kimenhuls generally linger near those places on the Ethereal Plane where a mortal peering into that realm might brief ly glance upon their horrific visages. Most viewers only catch a terrifying, half-remembered glimpse of the sahkil and go on their ways, shaken but unscathed. Yet if the viewer looks too long into that hazy realm, a kimenhul doesn’t hesitate to expose the creature to its look of fear or eternal fear abilities, or to attempt to drag the victim back to its lair for a proper dose of terror.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kimenhul)
 ```encounter-table
 name: Kimenhul

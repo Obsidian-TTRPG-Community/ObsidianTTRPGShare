@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eaisge
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 62
 desc_short: Water gushes from the mouth and nose of this bloated creature. Broken wood and jagged nails jut from its half-rotted flesh.
 ```
-# Description
+## Description
 Eaisges form in the aftermath of torrential storms linked to the Elemental Planes, especially the Plane of Water. Extraplanar energies warp and twist the mortal souls of those claimed in these disasters, and this eventually animates their bloated corpses as horrid mockeries of life. Eaisges resemble their living forms, but with bloated bodies that drip rancid water and their skin pruned into repulsive folds. They weigh twice what they did in life thanks to this saturation.
 
 These horrible creatures may lie dormant and harmless for months or years before suddenly exploding with terrible purpose. Eaisges naturally attract bits of flotsam and debris. Their bodies absorb this refuse, wrapping their limbs around driftwood and rubble- this causes the constant pain that inspires their outrage and bursts of violence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eaisge)
 ```encounter-table
 name: Eaisge

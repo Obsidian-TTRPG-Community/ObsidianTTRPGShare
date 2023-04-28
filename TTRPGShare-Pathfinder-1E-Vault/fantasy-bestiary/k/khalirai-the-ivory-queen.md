@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Khalirai, the Ivory Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,11 +77,11 @@ sources:
     desc: 38
 desc_short: This slender, seductive woman has bone-white skin and an otherworldly beauty. 
 ```
-# Description
+## Description
 Khalirai, the Ivory Queen, is one of the most powerful nymphs in the Mwangi Expanse. Protecting her exotic ward, known in local myths as the Ivory Boneyard, Khalirai is mysterious even by nymphs’ standards. In mimicry of her surroundings, she has bone-white skin-a rarity among nymphs of the region-and she possesses long, lustrous black hair and deep green almond-shaped eyes. She has taken to wearing ivory jewelry that she crafts from the tusks of the fallen elephants that travel here at the ends of their lives to rejoin their ancestors in her ward. The Ivory Boneyard has had a great impact on her, and she is a dark, brooding soul, but with a soft spot for the sick and ill, and often heals those who are brave enough to come into her ward. While she protects the elephant graveyard from external threats, she holds it as her solemn duty to keep undead at bay, especially those arising from the ward itself. 
 
 Many years ago, Khalirai fell in lust with a young Mwangi man, and has served as his muse ever since. It has been many years since then, and her love is old and frail; soon she will need to find a new bard to inspire.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Khalirai%2C%20the%20Ivory%20Queen)
 ```encounter-table
 name: Khalirai, the Ivory Queen

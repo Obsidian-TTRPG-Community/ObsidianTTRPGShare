@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vishap
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -88,7 +90,7 @@ sources:
     desc: 270
 desc_short: This slender dragon is covered in vivid cerulean scales with four powerful wings to match.
 ```
-# Description
+## Description
 Vishaps think of themselves as guardians of the ley lines that connect the life forces of the Material Plane to one another. Like all dragons, vishaps claim expansive territories, but these territories often make little geographical sense to others-a single vishap might claim unconnected areas on different hemispheres of a planet, for example, and yet multiple vishaps sometimes coexist within mere miles of each other with no apparent animosity. To those attuned to the occult mysteries of ley lines, however, the vishaps’ territorial borders are clear. Each vishap claims one or more networks of ley lines, which may stretch for thousands of miles (or even across galaxies), and sometimes overlap with each other without ever touching. A vishap’s first priority is the integrity of its ley line network, so any corruption of a ley line draws the attention of the vishap that cares for it.
 
  Vishaps claim only small physical territories in places where their ley lines coincide with interesting geography. In these places, vishaps make psychic contact with intelligent creatures nearby, encouraging them to create standing stones called vishapakars. A vishap can’t place a vishapakar on its own, but the presence of a vishapakar on a ley line allows the vishap a great deal of control over that ley line. Evil or less diplomatic vishaps often travel to these desirable locations to intimidate the local people into appeasing the dragons with standing stones. Vishapakars can stand for thousands of years, even as the ley lines that they once marked drift and change course, so a vishap must return to each vishapakar periodically, entreating (or forcing) locals to create new vishapakars on the ley lines’ new locations. At particularly ancient locations, it is possible to map the gradual drift of ley lines by the age of the nearby vishapakars.
@@ -100,7 +102,7 @@ Vishaps think of themselves as guardians of the ley lines that connect the life 
  Vishaps procreate only once during their lives, as tending to their ley lines takes priority over almost any biological imperative. When a vishap is finally ready to mate, it commits its form wholly to the ley line network, drifting listlessly along the psychic currents. Inevitably, it meets with some other drifting vishap, and the two consciousnesses merge, exploding in a spray of psychic force. The resulting motes of ethereal energy scatter across the universe, slowly drifting back toward each other and forming eggs, which sometimes drift along ley lines for millennia before hatching a young, ethereal vishap that awakens to full consciousness upon hatching.
 
  A fully grown vishap is 70 feet from head to tail and weighs 60,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vishap)
 ```encounter-table
 name: Vishap

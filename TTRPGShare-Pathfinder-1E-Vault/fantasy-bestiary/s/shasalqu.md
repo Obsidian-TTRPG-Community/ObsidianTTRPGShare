@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shasalqu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 84
 desc_short: A ridge of jagged ice runs down the back of this glistening, desertdwelling lizard.
 ```
-# Description
+## Description
 While some reptiles bask in the sun’s warm embrace to raise their body temperatures, a shasalqu is ravenous in its search of warmth. Even in equatorial deserts, it never seems to have enough heat. Instead of just relying on the sun, a shasalqu gathers energy by sapping the heat from the air around it. It then uses the intense cold generated from this heat absorption to trap its prey. A shasalqu is 3 feet tall at the shoulder and weighs about 40 pounds.
 
  Most desert scholars believe the strange biology that fuels a shasalqu’s heat absorption is the same as that of brown mold, and some even claim that the creatures carry brown mold spores in their bodies. This could account for shasalqus’ ability to sap heat from their surroundings even after they die. Because of their sandy environs and the drops of water that melt off their icy ridges, shasalqus’ bodies are often caked in a layer of gritty mud. Motionless shasalqus are often mistaken for rocks or small muddy clumps from a distance-a mistake desert travelers quickly come to regret.
@@ -61,7 +63,7 @@ While some reptiles bask in the sun’s warm embrace to raise their body tempera
  Shasalqus who settle near oases make their lairs far enough away to escape immediate notice, allowing them to sneak up on drinking or bathing creatures and then retreat to their lairs with little risk. Shasalqus that find a trade route within their territory also digs lairs far enough away to prey on travelers without betraying their presence.
 
  Regardless of their locations, shasalqu lairs are often extremely damp since the desert’s heat melts the accumulated ice that crusts on the creatures’ hides. This makes shasalqu lairs breeding grounds for a variety of mosses and plants, especially those that can withstand colder temperatures. These tiny oases rapidly become too mossy and cool for shasalqus, forcing them to leave in search of new dens. Shasalqus frequently keep multiple dens within their territory and rotate between them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shasalqu)
 ```encounter-table
 name: Shasalqu

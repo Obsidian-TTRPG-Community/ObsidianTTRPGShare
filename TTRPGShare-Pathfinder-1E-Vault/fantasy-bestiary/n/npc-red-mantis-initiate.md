@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Red Mantis Initiate
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 48
 ```
-# Description
+## Description
 While all members of the assassin cult known as the Red Mantis share a cold, ruthless dedication to the god Achaekek, neither all adherents to the faith nor all members of the elite assassin’s guild wear the iconic mantis masks that so strike fear into the hearts of their victims and the public consciousness alike. In fact, the right to wear the mask of the mantis is hard-earned, and only the most skilled, experienced, and in some cases lucky Red Mantis initiates ever learn the greatest secrets of their order.
 
 Though the most high-profile contracts are assigned to the highest ranking members of cult, most Red Mantis assassins are still on their path to reaching these upper echelons of power within the organization. Rising from initiation into the cult to full status as a masked Red Mantis assassin can take years, even decades, but none should underestimate Red Mantis killer who haven’t yet attained that rank. Quite the opposite is true, in fact, as those who have yet to master the mystic arts of the prayer attack, red shroud, and mantis form are particularly driven; they see every contract as their chance to prove to the Vernai that they are ready for such training, that they live to serve and kill for Achaekek. Beyond simply their aspirations and fervor, initiate Red Mantis assassins also benefit from their lack of iconic armor, mask, and in some cases even sawtooth sabres. Such assassins can more easily mask the threat they present to a potential target long past when a more experienced Red Mantis assassin would be revealed, a fact that helps make up for their less advanced training.
 
 While there are many paths to becoming a fully initiated Red Mantis assassin, most aspirants specialize in combat with the sawtooth sabre-the favored weapon of their god-as well as two-weapon fighting and magic in the schools of illusion and enchantment, as all these skills help them prove their eventual worth to the Vernai to earn full acceptance into the cult of the Red Mantis.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Red%20Mantis%20Initiate)
 ```encounter-table
 name: NPC Red Mantis Initiate

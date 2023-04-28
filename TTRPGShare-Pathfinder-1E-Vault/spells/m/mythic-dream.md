@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dream
+aliases: [Mythic Dream]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dream
+## Mythic Dream
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: alchemist 5, arcanist 5, bard 5, investigator 5, medium 3, mesmerist 4, psychic 4, redmantisassassin 3, skald 5, sorcerer 5, spiritualist 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: one living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Dream
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You, or a messenger you touch, send a message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient's dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient.  
   

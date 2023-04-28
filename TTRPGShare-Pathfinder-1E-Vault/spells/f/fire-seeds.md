@@ -1,19 +1,21 @@
 ---
-alias: Fire Seeds
+aliases: [Fire Seeds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fire Seeds 
+## Fire Seeds
 
 **source**:: PRPG Core Rulebook pg. 282  
 **school**:: conjuration (creation) (fire)
 **level**:: druid 6, hunter 6, shaman 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (acorns or holly berries)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: up to four acorns or up to eight holly berries  
@@ -21,7 +23,7 @@ alias: Fire Seeds
 **saving-throw**:: none or Reflex half; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Depending on the version of fire seeds you choose, you turn acorns into splash weapons that you or another character can throw, or you turn holly berries into bombs that you can detonate on command.  
   
@@ -31,7 +33,7 @@ Each acorn grenade explodes upon striking any hard surface. In addition to its r
   
 *Holly Berry Bombs*: You turn as many as eight holly berries into special bombs. The holly berries are usually placed by hand, since they are too light to make effective thrown weapons (they can be tossed only 5 feet). If you are within 200 feet and speak a word of command, each berry instantly bursts into flame, causing 1d8 points of fire damage + 1 point per caster level to every creature in a 5-foot-radius burst and igniting any combustible materials within 5 feet. A creature in the area that makes a successful Reflex saving throw takes only half damage.
 
-## Mythic Fire Seeds 
+## Mythic Fire Seeds
 
 **source**:: Mythic Adventures pg. 94  
 Each acorn's damage increases to 1d6 points of fire damage per caster level (maximum 20d6 for all acorns, no more than 10d6 for any particular acorn). Each holly berry’s damage increases to 2d6 points of fire damage + 2 points per caster level. Any creature that fails its Reflex save against an acorn or holly berry catches on fire (*Core Rulebook* 444), taking 2d6 points of fire damage each round until the fire is extinguished. Attempts to extinguish this fire use the spell’s save DC.

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dreamspawn Hungry Fog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 62
 desc_short: A miasma of swirling, nightmarish shapes spill forth from the torn-asunder jaws of a corpse the mists drag in their wake.
 ```
-# Description
+## Description
 Dreamspawn creatures are created when the lucid bodies of dreamers are killed in certain correupted areas of the Dimension of Dreams, their nightmarish final moments resulting in true death in the waking world. On some rare occasions, the creature or creatures responsible for the death of the dreamer are intrinsically bound to that dreamer’s death throes, their etheric forms dragged along with the victim’s fleeing soul and stranded somewhere between the sleeping and waking worlds. These creatures soon emerge on the Material Plane, bursting forth from their victim’s corpse as nightmarish spectres of the dream-thing they once were.
 
 Dreamspawn creatures are always linked by ectoplasmic strands to the corpse of the dreamer that created them. They drain the corpse of fluids and essence in order to manifest, desiccating the remains in the process. Their initial manifestation usually disfigures the corpse in some horrifying manner. Dreamspawn creatures are forced to drag the remains of dead dreamers behind them, motivate to experience the Material Plane but shackled to their creator’s rotting body.
 
 These otherworldly creatures seek out new host bodies to replace the original rotting corpses that first brought them into the world. This effort allows them to extend their lives as their host body rots beyond repair. Those who hunt these escaped nightmares and seek to silence them have learned to sense the eerie vibrations that accompany the dreamspawn’s violation of planar physics, and use it to their advantage to locate and destroy the creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dreamspawn%20Hungry%20Fog)
 ```encounter-table
 name: Dreamspawn Hungry Fog

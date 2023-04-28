@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 82
 desc_short: This tiny, grisly fetish seems to be carved from numerous pieces of bone, adorned with a necklace of teeth and caked with a thin layer of dried blood. Hair and twine bind the pieces of bone together. The thing’s misshapen head leers forward, carved with a demonic, ape-like grin.
 ```
-# Description
+## Description
 Carved from human and animal bones and stitched together with hair, bone idols serve as grisly fetishes and totems for cannibalistic tribes. Although a number of small, nameless tribes carve bone idols in honor of obscure gods of disease and beastliness, most bone idols are fashioned to resemble the fearsome, simian appearance of Angazhan, the demon lord of apes and jungles.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bone)
 ```encounter-table
 name: Bone

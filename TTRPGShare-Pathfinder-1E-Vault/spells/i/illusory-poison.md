@@ -1,19 +1,21 @@
 ---
-alias: Illusory Poison
+aliases: [Illusory Poison]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Illusory Poison 
+## Illusory Poison
 
 **source**:: Gnomes of Golarion pg. 27  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 3, redmantisassassin 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: weapon touched  
@@ -21,7 +23,7 @@ alias: Illusory Poison
 **saving-throw**:: Will disbelief, then Fortitude (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a phantasm of an oily green phantasmal poison on the target weapon. The first creature hit by the poisoned weapon must make a Will save against the illusion spell; success means the spell has no effect and is expended from the weapon. If the creature fails its save, it believes it has been poisoned and must make Fortitude saves at the spell’s DC to avoid suffering illusory poison damage.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seugathi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 58
 desc_short: This worm-like monster has a hideous face of eyes and hooked jaws. It wields a wand and a sword in its twin tentacle tails.
 ```
-# Description
+## Description
 Seugathi are spawned by the hundreds by a single neothelid that has performed rituals to impregnate itself. As part of the strange process of being spawned in such rituals, the seugathi assimilates an extensive list of missions from its parent-once the seugathi completes these missions, it perishes. No single seugathi knows the purpose of these commands, but they trust that their neothelid masters have a reason for sending them on these diverse and usually cruel missions. A seugathi is 14 feet long and weighs 650 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seugathi)
 ```encounter-table
 name: Seugathi

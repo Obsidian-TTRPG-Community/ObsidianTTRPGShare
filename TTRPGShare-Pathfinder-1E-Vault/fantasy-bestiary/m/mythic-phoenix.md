@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Phoenix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 214
 desc_short: This flaming bird burns as brightly as the sun.
 ```
-# Description
+## Description
 A mythic phoenix is appointed by the gods to watch over the birth, death, and renewal of significant things-such as heroes, religions, or even entire worlds. It uses its powers to destroy evils that would interfere with the great cycle.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Phoenix)
 ```encounter-table
 name: Mythic Phoenix

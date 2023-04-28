@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mercane
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 188
 desc_short: The tall, blue-skinned humanoid is clad in loose, flowing robes. Its alien face has too many eyes and its hands have too few fingers.
 ```
-# Description
+## Description
 Mysterious merchants of all things magical, mercanes are relatively weak and noncombative for creatures of their size. They prefer to bargain and haggle rather than to fight, but because they wander the planes seeking and trading magical goods, they typically travel with an entourage of hired bodyguards. Mercanes are capable of defending themselves, and often carry masterwork Large falchions. Yet these weapons are primarily for show, as mercanes prefer to let their bodyguards deal with violent opponents. If a situation turns ugly, mercanes typically use their magical abilities to flee, abandoning their hirelings if necessary.
 
 Mercanes are known throughout the planes as traders in magical items. Each has a secret chest filled with wares stashed away, ready to be pulled out when it’s time to haggle and close a deal (or to bribe a potential obstacle). Mercanes are therefore not easily robbed, and they only surrender the contents of a secret chest when they have no other choice. Mercanes have no interest in mundane goods, no matter how fine or rare. Only magical objects earn their attention and their coin. They’re known for driving hard, but fair, bargains, and for hiring adventurers from time to time to recover certain goods of interest for a fair price. Although they are not particularly brave, they hold contracts sacrosanct and keep their agreements.
@@ -63,7 +65,7 @@ Mercanes are known throughout the planes as traders in magical items. Each has a
 Rumors and legends abound as to the origins of the mercanes and their reasons for seeking out and buying magical items. Their home plane is unknown, and they have wandered between the worlds for as long as any can recall. Stories claim the mercanes feed on the magic items they acquire, or even need them in order to reproduce. There are also tales of a war in a far corner of the planes, with the mercanes serving the roles of arms merchants, aggressors, or defenders, depending on who tells the story.
 
 Mercanes are 10 feet tall and weigh 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mercane)
 ```encounter-table
 name: Mercane

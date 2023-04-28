@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thalassic Architect
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 88
 desc_short: This piscine nightmare glares with five eyes. Four tentacles, two of them terminating in small claws, flank its fanged jaws.
 ```
-# Description
+## Description
 "Thalassic architect” is a human term for a racial subspecies of aboleth, known as uldraaghus in the language of alghollthus. Uldraaghus were engineered and bred by the mysterious entities that rule the alghollthu race from the deepest oceanic trenches. Whereas aboleths and veiled masters are adept at using telepathy and mental domination, thalassic architects use telekinetic powers to manipulate-even create or destroy-physical matter.
 
  Uldraaghus more closely resemble veiled masters than they do standard aboleths. They’re smaller, being about 15 feet long and weighing 2,800 pounds. Furthermore, they have five eyes instead of three; four are set to either side of their head, while a larger fifth eye is set in the center and glows with a brilliant white light. Thalassic architects have four tentacles, two of which end in clawed appendages capable of manipulating objects. Dark bands of scales typically ring their silvery bodies. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thalassic%20Architect)
 ```encounter-table
 name: Thalassic Architect

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tojanida
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 57
 desc_short: This creature resembles a cross between a turtle and a crab, with flippers instead of legs, a snapping beak, and two pincers.
 ```
-# Description
+## Description
 Tojanidas are bizarre natives from the Plane of Water that resemble mixes between monstrous crabs and enormous snapping turtles. Originally elemental beings of water, tojanidas were bound into their strange forms long ago for unclear reasons, and no longer know how they might eventually return to their pure and formless state. Determined to preserve their pride, the grotesque tojanidas ply the waters of the planes seeking hedonistic pleasures-especially culinary ones-and the adoration of other races. Loquacious when addressed with the proper respect, they make excellent heralds and emissaries for more powerful beings, and often enjoy posing as such even when operating on their own. When riled, however, tojanidas make fearsome opponents, violent and eager juggernauts with snapping jaws and clacking pincers.
 
 Adult tojanidas are roughly 6 feet long and weigh several hundred pounds. When threatened, a tojanida can retract its limbs most of the way into its shell, which is an irremovable part of its body. The ring of eyes completely encircling the tojanida’s shell along its rim makes the creature extremely difficult to catch by surprise. While tojanidas adore eating, as they find flavor and texture to be two of the most fascinating senses, they don’t actually need to consume food, instead drawing sustenance directly from the currents of arcane energy all around them via the magic of their shells.
 
 Blessed (some might say cursed) with extremely long racial memories, tojanidas wander the oceans and lakes of innumerable worlds, attempting to find unusual physical pleasures or conversation capable of distracting them from the insufferable ennui and apathy born of remembering their ancestors’ experiences. Though the tojanidas themselves may not appreciate the burden of memory, adventurers and scholars often seek the use of a tojanida’s recalled lore.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tojanida)
 ```encounter-table
 name: Tojanida

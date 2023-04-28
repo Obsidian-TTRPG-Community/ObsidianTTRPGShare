@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oblivion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,7 +82,7 @@ sources:
     desc: 202
 desc_short: A single sinister eye glares from the heart of this roiling cloud of darkness as tentacles of smoke coil and writhe beneath it.
 ```
-# Description
+## Description
 Rare and powerful denizens of the Negative Energy Plane, oblivions are void and nothingness given terrible will. They lurk among crystalline sheets of accumulated entropy that line their home plane’s darkest interior, hungering to unmake the walls of reality and drag all of the cosmos down to its eventual end, allowing themselves to also finally end. Once unleashed upon mortal worlds, oblivions crisscross the globe, destroying its denizens and laying waste to the land until destroyed themselves or until they strip a planet bare of substance, life, and heat. Despite its vast bulk, a single oblivion must often dedicate years or even centuries to ending a world, and each is so adept at scrubbing away all traces a being leaves upon the cosmos that people, nations, and entire worlds annihilated by an oblivion are soon forgotten by outsiders. Some gods claim that the brutal efficiency of the oblivions are intended to someday be released upon the multiverse to cleanse away creation so a new cycle of life can begin from chaotic nothing, while other deities insist the oblivions’ work is nearly complete, leaving only isolated specks of life floating in a vast, unfeeling void. 
 
 Unlike nightshades (Pathfinder RPG Bestiary 2 199) or other noteworthy denizens of their dark realm, oblivions serve no masters or agendas. They believe themselves to be the way all things must end. Though cunning, they rarely find reason to communicate with other creatures, leaving much of their motives, origins, and philosophy in the cosmos a mystery. 
@@ -90,7 +92,7 @@ Like grim doll makers, oblivions can recreate slain victims from their own dark 
 Oblivions share a symbiosis with the artifacts known as spheres of annihilation, coveting their powerful, highly destructive magic. The towering oozes are unaffected by the artifact’s destructive powers, and can move them as easily as a child might carry a toy. Some speculate that the spheres are in fact the eggs or spores of these apocalyptic beings, as rare survivors recount tales of spheres spontaneously birthing the roiling, devouring entities. 
 
 Oblivions typically measure several dozen feet across, though their presence corrupts and consumes life, making the roiling darkness that most people mistake for their bodies seem much larger. Despite their size, oblivions have no mass. Upon destruction, an oblivion collapses thunderously into nothing
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oblivion)
 ```encounter-table
 name: Oblivion

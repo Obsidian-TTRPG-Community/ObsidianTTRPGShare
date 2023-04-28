@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Typhilipede
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 88
 desc_short: This hideous creature has a jet-black segmented body, four beady eyes, batlike wings, and a pair of oversized mandibles that glisten with green ichor.
 ```
-# Description
+## Description
 Not all the creatures of Hell are devils. Descended from vermin that came to be trapped in Hell, typhilipedes embody the corruptive might and terrible hungers that brood in the dark. Usually encountered as wriggling, clacking masses of insectoid legs and flapping wings, these creatures strike fear in the weaker souls that trespass within the Pit. Typhilipedes possess night-black, segmented bodies with dozens of scraping, skittering legs. Two pairs of batlike wings sprout from between body segments closer to the creature’s head, which bears two pairs of eyes and oversized mandibles glistening with sickly ichor.
 
 A typhilipede typically measures 2 to 3 feet in length and rises no more than 8 inches from the ground, though its 3-foot wingspan can lift it off the ground with only minor difficulty. A single typhilipede weighs about 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Typhilipede)
 ```encounter-table
 name: Typhilipede

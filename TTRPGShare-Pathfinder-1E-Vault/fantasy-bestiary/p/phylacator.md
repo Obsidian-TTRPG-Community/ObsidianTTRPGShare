@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Phylacator
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
     desc: 88
 desc_short: This imposing humanoid is clad in black chainmail with a featureless helm. It clutches a serrated dire flail in its gauntlets, and several pairs of manacles on its belt writhe of their own accord.
 ```
-# Description
+## Description
 Phylacator kytons serve as jailers, torturers, and executioners in the most terrible prisons across the planes. Although a phylacator normally relies on its intimidating presence and booming voice to quell its charges, phylacators also enjoy violence and relish opportunities to quash riots. In combat, a phylacator knocks foes to the ground with its flail and pummels them into submission, relishing the painful feedback it receives when using its weapon. Against fleeing foes, a phylacator hurls manacles it magically animates, incapacitating its foes until it can recover them at it leisure. Since a phylacator is often responsible for keeping prisoners alive, it frequently uses nonlethal tactics-but that doesn’t mean it is any less brutal or efficient in its methods.
 
  Although a phylacator normally wears armor and draped chains to cover its flesh, its skin is midnight blue in color and has the texture of rough-hewn stone. Phylacators are hairless and their steel-gray eyes lack pupils. They are unceasingly patient and can remain utterly motionless for hours.
 
  Phylacators stand almost 7 feet tall and weigh approximately 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Phylacator)
 ```encounter-table
 name: Phylacator

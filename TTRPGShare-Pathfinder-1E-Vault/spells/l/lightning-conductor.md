@@ -1,25 +1,27 @@
 ---
-alias: Lightning Conductor
+aliases: [Lightning Conductor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Lightning Conductor 
+## Lightning Conductor
 
 **source**:: Elemental Master's Handbook pg. 18  
 **school**:: transmutation (air)
 **level**:: arcanist 3, bloodrager 2, druid 3, hunter 3, magus 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a miniature metal rod)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 You become capable of absorbing electricity with your body. For the duration, you absorb all electricity damage dealt to you until you have stored a total of 18 points of damage. Any excess damage affects you as normally. The energy remains stored until it is expended or the spell expires.  
   

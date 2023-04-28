@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scarlet Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Ultimate Magic
     desc: 120
 ```
-# Description
+## Description
 Scarlet spiders are small arachnids with bright red bodies and black legs. Because they are hunting spiders, scarlet spiders don’t have a web attack.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scarlet%20Spider)
 ```encounter-table
 name: Scarlet Spider

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Avatarana
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 49
 desc_short: Instead of legs, this bald, emaciated humanoid has a second set of long, muscular arms and a leathery flap covering its face.
 ```
-# Description
+## Description
 Avatarana are among the most deformed and monstrous of rakshasas, taking that race’s corruption of the humanoid form to an unsettling extreme. Most mortals who witness these fiends in motion find them fundamentally unnerving, as their gangly limbs and awkward anatomy seem to work against each other-yet still manage to propel the creature forward with the speed of a hunting cat. A flap of taut, leathery flesh covers the face of every avatarana. While not a part of the rakshasa’s body, the covering can’t be removed-some grotesque magic fuses it to the creature’s body. Indistinct shapes are visible behind this featureless mask. Many who glimpse an avatarana get the unsettling impression that their own features lie beneath this veil, making the rakshasa’s appearance all the more unnerving. Those few grimly zealous investigators who have cut away an avatarana’s facial covering find nothing below but hollow, uneven cavities. The shapes beneath never seem to correspond with what the covering suggests.
 
 Avataranas are rarely seen by their prey before they attack. Rather, they physically merge with unsuspecting mortals, invading their bodies and controlling them to perform terrible acts. Avataranas lust for power and they patiently work their way up social ladders, finding more impressive and influential individuals to possess. They strive to mimic the day-to-day actions of those they possess to keep up their disguises, but their viciousness increasingly shows. Only when others turn against their victims do avataranas release their control, leaving their prey to deal with the ramifications of the rakshasa’s acts.
@@ -67,7 +69,7 @@ Avataranas are rarely seen by their prey before they attack. Rather, they physic
 Occasionally, avataranas employ lesser rakshasas to aid them, using these minions to perform tasks that are too demanding for mortal followers.
 
 If forced to stand on their rear limbs, avataranas stand approximately 6 feet tall. They weigh about 125 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Avatarana)
 ```encounter-table
 name: Avatarana

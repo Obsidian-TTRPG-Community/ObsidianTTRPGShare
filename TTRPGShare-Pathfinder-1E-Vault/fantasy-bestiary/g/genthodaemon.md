@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Genthodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 86
 desc_short: Jagged bits of metal, armor, and sharp pieces of wire embed the flesh of this towering fiend. 
 ```
-# Description
+## Description
 Genthodaemons are common troops of daemonic armies, resolutely obedient to any greater type of daemon that gives them orders. They personify death in hopeless or futile wars, genocide, and the despair created by long, bloody stalemates where the combatants lose their will to live and forget why they were fighting in the first place. They have almost no role in corrupting mortals, as they are devoid of interest in the fates of most other creatures, but are sometimes called by daemonologists or greater daemons for use in war or their ability to shape battlefields. Any daemon that can summon a ceustodaemon can instead use its summon ability to summon a genthodaemon. 
 
 A genthodaemon looks like a stereotypical fiend- basically humanoid, but with claws, a tail, batlike wings, and cloven hooves. Metal armored plates, barbs, and spikes cover its body, though these are part of the daemon rather than armor it wears. Its claws are jagged metal shards sprouting from its fingers where nails should be. 
@@ -76,7 +78,7 @@ A genthodaemon looks like a stereotypical fiend- basically humanoid, but with cl
 Genthodaemons are only slightly above cacodaemons and lacridaemons in the hierarchy of Abaddon. A greater daemon may create a genthodaemon from a cacodaemon or one of the hunted (a dead soul trying to survive on Abaddon); however, most arise naturally from war-battered souls who band together as hunted, transforming into true daemons simultaneously when the group has cannibalized enough souls. Genthodaemons show unusual loyalty to others in their band, though this doesn’t interfere with their obligations to more powerful daemons. 
 
 A typical genthodaemon stands over 9 feet tall and weighs 500 to 600 pounds (with much of this weight stemming from the daemon’s embedded metal).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Genthodaemon)
 ```encounter-table
 name: Genthodaemon

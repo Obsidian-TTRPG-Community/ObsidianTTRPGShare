@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hala
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 84
 desc_short: Skin the color of thunderheads and wings made for soaring through the most violent winds mark this lean, cyclopic being as a master of terrible storms. The sound of shrieking wind emanates from its mouth full of needle-sharp teeth.
 ```
-# Description
+## Description
 Hala demons are commonly known as storm demons. Bound to service by Pazuzu, these demons ride the winds across the Abyssal skies, lurk within dark and turbulent clouds, and act as his scouts and spies. Halas have a single, blood-red eye, an enormous mouth lined with razor-sharp teeth, and lengthy horns growing from their heads.
 
 A typical hala stands 7 feet tall, weighs 200 pounds, and possesses large wings that span 20 feet across.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hala)
 ```encounter-table
 name: Hala

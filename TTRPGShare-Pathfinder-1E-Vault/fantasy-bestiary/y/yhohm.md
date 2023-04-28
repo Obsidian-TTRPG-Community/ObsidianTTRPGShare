@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yhohm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 307
 desc_short: This beautiful dove is as bright as the sun and the size of an eagle, surrounded by an aura of blazing white flames.
 ```
-# Description
+## Description
 A yhohm is a spirit of holy fire that serves the Dawnflower. According to the faithful, each time a phoenix is reborn, a portion of its soul incarnates in Nirvana as a yhohm. Eternally young and obsessed with life, a yhohm is a creature of healing, joyful song, and cleansing fire. While far less intimidating and wise than true phoenixes, yhohms prove far more carefree, as though a great weight has been lifted from their souls. Despite that, many yhohms also harbor a deep sadness, as though they have left some great work undone.
 
 A yhohm looks like a white dove, but is as large as an eagle, with eyes like burning coals that shine with the light of the sun. The presence of evil fills it with righteous indignation. It does not need to eat, but enjoys the taste of roasted berries and nuts. A yhohm measures just under 2 feet long and weighs about 4 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yhohm)
 ```encounter-table
 name: Yhohm

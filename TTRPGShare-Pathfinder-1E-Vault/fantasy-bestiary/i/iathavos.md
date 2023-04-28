@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iathavos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 222
 desc_short: This immense creature has four bat-like wings and a spherical body. Red eyes peer from all sides, and two huge claws dangle below.
 ```
-# Description
+## Description
 The most terrible of the qlippoth, with the exception of the qlippoth lords, is doubtless the immense iathavos. Believed by many to be a singular entity, a unique qlippoth so abhorrent that even the Abyss cannot bear to allow more than one to exist at any one time, the iathavos is often encountered attended by numerous nyogoth qlippoth that squirm over its body or under its bulk, feeding upon the wastes and fragments left behind by its shuddersome passing. These nyogoths are invariably other creatures that the iathavos has absorbed and remade-they represent one of the most heinous fates that could await would-be explorers of the deepest Abyssal rifts.
 
 The iathavos crusades against the demonic scourge, but the monster does not limit its attentions to seeking out and destroying demons in preparation for the return of the Abyss to qlippoth rule. Indeed, the iathavos has the ability to shift among the various planes of the multiverse, and often travels to Material Plane worlds to systematically scour realms clean of mortal life, thus ensuring that these worlds can no longer provide the raw materials-sinful mortal souls-the Abyss relies upon to create new demons. Worlds visited by the iathavos are notable for the widespread devastation and the unusually large populations of nyogoths that remain behind to consume every last speck of decay the iathavos leaves behind.
@@ -85,7 +87,7 @@ The iathavos is a powerful and horrifying monster made all the more devastating 
 When the iathavos is slain, the multiverse typically has only a relatively short time before the Abyss births a replacement monstrosity for the defeated qlippoth. This newly born iathavos is an entirely new creature-it does not share the memories of the previous incarnation, nor does it possess any advanced hit dice or class levels the previous monster may have gained, yet its appetite and hatred for demonic life and the sins that create such life remain constant and unending.
 
 To call such an iathavos a “newborn” is somewhat misleading. Although technically a freshly created creature, newborn iathavoses do not undergo a “childhood.” They form fully grown, as presented here. Yet with each new incarnation of the qlippoth monstrosity, changes can occur. A new iathavos might have slightly different spell-like abilities, for example, or the nature of its horrific appearance might change from that presented here. As an iathavos continues to hunt and destroy, it grows more powerful-an advanced iathavos typically gains more racial Hit Dice as a result. An iathavos that gains power by taking class levels is not unheard of, but it is quite rare-most who do take levels in sorcerer.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iathavos)
 ```encounter-table
 name: Iathavos

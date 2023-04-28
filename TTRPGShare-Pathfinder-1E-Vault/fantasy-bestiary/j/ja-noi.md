@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ja Noi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 90
 desc_short: This hunchbacked, fiery-skinned humanoid possesses black eyes beneath the bony ridges of its brow, wears elaborate heavy armor, and wields an ornate metal club.
 ```
-# Description
+## Description
 A ja noi is an oni spirit that takes the form of a hobgoblin, and differs physically from the hobgoblins in a variety of ways, most notably its unearthly strength and distorted appearance. A ja noi’s skin blazes a fiery red rather than a drab gray, and the oni bears prominent ridges on its brow and forehead.
 
 Ja noi live to fight. While not as physically powerful as most oni, ja noi nonetheless have an insatiable thirst for combat that drives them to pursue the trials of battle and bloodshed. The sensation of hot blood splattering on a ja noi’s skin provokes an adrenaline rush that only fuels its lust for the kill. Its broad, tightly muscled physique and prowess in combat inspire awe within typical hobgoblins, who see the ja noi as a leader who ensures victory in their conquests.
 
 Towering over the hobgoblins it resembles, a ja noi stands a little over 6 feet tall and weighs about 220 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ja%20Noi)
 ```encounter-table
 name: Ja Noi

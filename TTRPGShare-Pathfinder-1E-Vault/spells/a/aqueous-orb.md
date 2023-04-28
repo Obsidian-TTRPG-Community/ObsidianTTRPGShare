@@ -1,19 +1,21 @@
 ---
-alias: Aqueous Orb
+aliases: [Aqueous Orb]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Aqueous Orb 
+## Aqueous Orb
 
 **source**:: Advanced Player's Guide pg. 202  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 3, bloodrager 3, druid 3, hunter 3, magus 3, sorcerer 3, summoner 3, summoner (unchained) 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of water and a glass bead)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: 10-ft.-diameter sphere  
@@ -21,7 +23,7 @@ alias: Aqueous Orb
 **saving-throw**:: Reflex negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a rolling sphere of churning water that can engulf those it strikes. The aqueous orb can move up to 30 feet per round, rolling over barriers less than 10 feet tall. It automatically quenches any nonmagical fires and functions as *dispel magic* against magical fires as long as those fires are size Large or less.  
   

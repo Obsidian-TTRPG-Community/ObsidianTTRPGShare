@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Werewasp (Human Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 119
 desc_short: With a stinger-tipped abdomen, large wings, compound eyes, and a pair of mandibles, this woman is more wasp than elf.
 ```
-# Description
+## Description
 Werewasps in humanoid form often have two-toned hair color and a faint, humming timbre in their voices.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Werewasp%20(Human%20Form))
 ```encounter-table
 name: Werewasp (Human Form)

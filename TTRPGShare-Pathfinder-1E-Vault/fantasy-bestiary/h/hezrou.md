@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hezrou
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 62
 desc_short: This fiend’s armored flesh is scaly and moist. Its large, toothy mouth gapes below a pair of hungry, reptilian eyes.
 ```
-# Description
+## Description
 The hezrou dwells in the vast Abyssal swamps, mires, and waterways, equally at home on land and in the water. The presence of a hezrou has an obvious effect on the nearby flora and water, causing plant life to twist and knurl and infusing water with a foul odor and brackish taste-signs much easier to spot on the Material Plane than the Abyss. Long exposure to this corruption can cause vile transformations and hideous deformities. Often, entire backwater communities of deformed mutants owe their twisted countenances not as much to incest and poor breeding as they do to a hezrou’s proximity.
 
 Although quite intelligent, a hezrou can fairly be said to waste its intellect. They prefer the simple pleasures-slumber, the thrill of torture, the bliss of feasting on a living meal, or the joy of feeling something beautiful breaking and crumbling in a clenched fist. They do not often seek to build empires or lead cults-although few hezrous would turn away prospective minions who came to serve the demon on their own.
 
 These monstrous and bestial creatures form from the souls of evil mortals who poisoned themselves, their kin, or their surroundings, such as drug addicts, assassins, and alchemists who cared not how their experiments polluted the environment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hezrou)
 ```encounter-table
 name: Hezrou

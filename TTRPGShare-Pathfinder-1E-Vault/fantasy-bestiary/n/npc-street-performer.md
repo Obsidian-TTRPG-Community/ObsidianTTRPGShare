@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Street Performer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: NPC Codex
     desc: 26
 ```
-# Description
+## Description
 A bard without a regular tavern as a base can busk in various streets and markets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Street%20Performer)
 ```encounter-table
 name: NPC Street Performer

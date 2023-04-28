@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ilzunae, the Gloom Widow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -93,7 +95,7 @@ sources:
     desc: 32
 desc_short: This lithe, shadowy creature is obviously feminine, yet the talons and horns leave no doubt as to her fiendish nature.
 ```
-# Description
+## Description
 Not all of Nocticula’s favored servants are succubi. Ever since her slaughter of the demon lord Vyriavaxus, she has also been served by the invidiaks. Some of these demons, of course, turned away from the murderer of their patron and have gone on to serve other demon lords or even to strike out on their own, but those who became loyal to her found that their new mistress was every bit as dangerous as their old lord of shadows, and quite a bit more forthcoming at rewarding those who served her well.
 
 Ilzunae is the first of these shadow demons to have been awarded stewardship of one of the many Midnight Isles of Nocticula’s Abyssal realm. Kovalarue is one of the realm’s smaller islands, but in some ways is one of its most beautiful, consisting of rolling hills covered with wildflowers and idyllic streams and lakes. That those flowers drink blood and that those lakes can pull those who look into their waters below to drown them does not mar this beauty, and Ilzunae has proven more than a capable keeper of this land.
@@ -101,7 +103,7 @@ Ilzunae is the first of these shadow demons to have been awarded stewardship of 
 The Gloom Widow earned her appellation as a result of her preferred method of preying upon mortals. When she finds herself on the Material Plane, she seeks out young couples who are too shy or hesitant to make the first steps toward forming a relationship, then possesses one of their friends. Using that friend as a proxy, she arranges for the couple to meet, fall in love, and eventually wed, retaining control of the friend the whole time. During the honeymoon, Ilzunae brings the friend to a distant city via teleportation, informs the friend of her plans before releasing him, then teleports back to the honeymooners, where she possesses one of them to enjoy their first night of wedded bliss. The nonpossessed spouse never survives until the dawn, and if they are lucky, Ilzunae waits until the final hour of the night to shift from sharing bliss to giving pain. She then abandons the possessed widow or widower with a message that all this was made possible through the jealousy of the friend, who has fled to a distant city. In most cases, the surviving spouse either commits suicide or seeks out the “friend” to murder them, and when she can, Ilzunae enjoys intercepting those sinful lost souls when they come to the Abyss so she can harvest and keep them in gilt bird cages in her palace as trophies.
 
 Ilzunae prefers promises of time left to her own devices on the Material Plane, but will accept the bodies of grieving widows or widowers as well. It’s a DC 29 check to research the Gloom Widow.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ilzunae%2C%20the%20Gloom%20Widow)
 ```encounter-table
 name: Ilzunae, the Gloom Widow

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Proto-Shoggoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 90
 desc_short: Half-formed eyes, toothless mouths, gaping throats, and countless other malformed organs constantly form and dissolve over this monster’s surface.
 ```
-# Description
+## Description
 Early attempts by the elder things (Pathfinder RPG Bestiary 4 85) to craft life resulted in strange, heaving masses of protoplasm that displayed a disturbing hunger for living flesh. Emboldened by this discovery, the alien scientists soon stabilized this matter, resulting in the creation of the first proto-shoggoths.
 
 A proto-shoggoth appears as a tangled mass of roiling flesh and organs weighing approximately 160 pounds, and is capable of forming all manner of hideous and nauseating shapes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Proto-Shoggoth)
 ```encounter-table
 name: Proto-Shoggoth

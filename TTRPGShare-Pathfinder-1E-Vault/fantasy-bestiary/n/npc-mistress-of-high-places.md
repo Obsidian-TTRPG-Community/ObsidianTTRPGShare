@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mistress of High Places
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: NPC Codex
     desc: 70
 ```
-# Description
+## Description
 These guardians of mountain peaks traffic with air and ice elementals, summoning forth the spirits of the mountain storms in order to protect their sacred places.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mistress%20of%20High%20Places)
 ```encounter-table
 name: NPC Mistress of High Places

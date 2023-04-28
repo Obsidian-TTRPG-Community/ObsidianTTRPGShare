@@ -1,19 +1,21 @@
 ---
-alias: Mythic Ascension
+aliases: [Mythic Ascension]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Ascension
+## Mythic Ascension
 
 **source**:: Mythic Adventures pg. 113  
 **school**:: universal
 **level**:: arcanist 9, cleric 9, druid 9, oracle 9, psychic 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, F (minor artifact), M (10,000 gp in rare herbs, gems, and other exotic materials)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one non-mythic creature/3 levels  
@@ -21,7 +23,7 @@ alias: Mythic Ascension
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You imbue a number of creatures with mythic power, granting each of them 1st tier in a mythic path of its choice. The creatures immediately gain the benefits of their chosen paths. Divide the duration evenly among all targets.  
   

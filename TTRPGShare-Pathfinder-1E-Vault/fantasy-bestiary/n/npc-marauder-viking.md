@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Marauder (Viking)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: GameMastery Guide
     desc: 281
 ```
-# Description
+## Description
 Vikings are riders of the waves, marauding plunderers from the frozen northern lands who are always ready to pillage with axe and spear and blazing torch. They are boastful and proud, shouting battle cries to their savage gods for the glory of combat. Vikings can serve as elite marines or mobile shock troops. A lone viking may travel with a minstrel to chronicle his journeys (CR 8) or with a first mate and captain (CR 12), while five vikings might serve as honor guard to a chieftain (CR 13).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Marauder%20(Viking))
 ```encounter-table
 name: NPC Marauder (Viking)

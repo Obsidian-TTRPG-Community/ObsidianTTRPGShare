@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kamaitachi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 176
 desc_short: This weasellike creature has sickles in place of feet. It moves incredibly swiftly, swirling in the air astride a vortex of dust.
 ```
-# Description
+## Description
 Kamaitachis revel in causing pain. A kamaitachi might, for example, hold someone hostage with its delayed doom ability and force that person (or one of the victim’s loved ones) to commit horrible or demeaning acts in exchange for the hostage’s life. Of course, depending on its fickle mood, the kamaitachi is just as likely to kill a hostage who meets its demands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kamaitachi)
 ```encounter-table
 name: Kamaitachi

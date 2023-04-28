@@ -1,19 +1,21 @@
 ---
-alias: Snare
+aliases: [Snare]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Snare 
+## Snare
 
 **source**:: PRPG Core Rulebook pg. 344  
 **school**:: transmutation
 **level**:: druid 3, hunter 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 3 rounds  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level  
@@ -21,7 +23,7 @@ alias: Snare
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell enables you to make a snare that functions as a magic trap. The snare can be made from any supple vine, a thong, or a rope. When you cast snare upon it, the cordlike object blends with its surroundings (DC 23 Perception check for a character with the trapfinding ability to locate). One end of the snare is tied in a loop that contracts around one or more of the limbs of any creature stepping inside the circle.  
   

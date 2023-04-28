@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Flesh Colossus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 35
 desc_short: This enormous monstrosity looks like a pile of fresh humanoid bodies shoved into a shambling humanoid shape.
 ```
-# Description
+## Description
 A flesh colossus consists of hundreds of corpses assembled into a macabre whole. Its stands roughly 60 feet tall and weighs about 150,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Flesh%20Colossus)
 ```encounter-table
 name: Mythic Flesh Colossus

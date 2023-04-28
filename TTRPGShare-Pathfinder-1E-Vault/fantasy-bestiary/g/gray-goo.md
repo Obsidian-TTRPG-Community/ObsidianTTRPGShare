@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gray Goo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 50
 desc_short: Droplets of a silvery gray, slightly grainy goo gleam dully as they hang in the air.
 ```
-# Description
+## Description
 Swarms of weaponized nanites-microscopic mechanical constructs designed to work in large groups to perform varied tasks-reduce anything in their path to wisps of dust. Called “gray goo” by those who don’t understand the true nature of the creature’s components, some of these horrific swarms were activated as weapons of mass destruction. Others were originally benign, intended to enhance crops and clean them of pests or combat diseases, but malfunctioned and abandoned their programming. Nanites have limited intelligence and potentially respond to commands. Such controlled swarms are capable of relatively complex decision making, and they might spare the treasure their victims carry, for instance, allowing their masters to better loot the bodies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gray%20Goo)
 ```encounter-table
 name: Gray Goo

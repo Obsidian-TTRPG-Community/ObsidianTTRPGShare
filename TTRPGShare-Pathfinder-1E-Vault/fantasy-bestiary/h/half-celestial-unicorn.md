@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Half-Celestial (Unicorn)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 169
 desc_short: A winged unicorn rises into the air on ivory pinions, a paragon of grace and beauty.
 ```
-# Description
+## Description
 *Unicorn abilityDescriptionMost half-celestials are born of a mortal who loved a good outsider, but powerful holy magic can also create one.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Half-Celestial%20(Unicorn))
 ```encounter-table
 name: Half-Celestial (Unicorn)

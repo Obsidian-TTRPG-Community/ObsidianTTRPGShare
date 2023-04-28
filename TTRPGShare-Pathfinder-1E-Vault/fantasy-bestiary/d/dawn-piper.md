@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dawn Piper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 86
 desc_short: Eldritch energy burns within the eyes of this humanoid figure. Strangely colored hair crowns her head like a torch, and gleaming white teeth shine from her grin. The creature cradles a pipe in her long, graceful fingers.
 ```
-# Description
+## Description
 Strange and enigmatic creatures from the First World, dawn pipers are unmistakably humanoid and share some of the same delicate features of half-elves. But dawn pipers’ otherworldly nature becomes evident when one looks at the creatures’ eyes, which burn with a strange light. Their skin is smooth, free of blemish or body hair, and radiant. Their hair moves constantly, like the flickering flames of a torch in the breeze, and seems to express a seasonal theme in coloration. Their faces are portraits of every emotion that passes through their consciousness; joy, loss, and murder may all dance across their expressions in a matter of moments. Only when a dawn piper is asleep or plays a soothing melody on its pipes does its expression become static and human-and through such songs, dawn pipers’ heartbreaking beauty becomes truly evident.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dawn%20Piper)
 ```encounter-table
 name: Dawn Piper

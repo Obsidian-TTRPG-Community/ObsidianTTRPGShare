@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Omnipath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -102,7 +104,7 @@ sources:
     desc: 204
 desc_short: This monstrous eel-like creature has jaws within jaws, each bearing transparent, glasslike teeth.
 ```
-# Description
+## Description
 Hidden away in secret lairs, omnipaths serve as information hubs between othagu (aboleths, veiled masters, and other such creatures). Using their special ability to establish a network of minds throughout the Darklands and Golarion’s oceans, omnipaths allow veiled masters and aboleths-as well as those they mentally control-to orchestrate their nefarious plans. Omnipaths possess a keen intellect and recall everything they (and those within the mesh) experience, leading to a wealth of varied information that is shared between omnipaths as a sort of experience library. Omnipaths also serve as an alarm system for the veiled masters they serve, for each omnipath can communicate with all creatures in its telepathic mesh simultaneously. An omnipath can use the senses of all creatures within its mesh, and any creature that would harm one of the creatures in the mesh immediately becomes known to all other beings the omnipath is mentally linked to.
 
 Very few surface dwellers have ever encountered an omnipath, but through the use of their possession abilities, many omnipaths have walked in the light of the surface world, riding within their victims. The omnipaths’ library of experiences provides them insight into the cultures and practices of the surface, allowing them to feign the expected responses on behalf of their dominated victims. In some cases, friends and family of a victim have failed to recognize that something was amiss with a victim’s behavior for years, and sometimes the deception is never uncovered, giving the omnipaths-and those they serve-spies within the surface world that serve until their deaths.
@@ -110,7 +112,7 @@ Very few surface dwellers have ever encountered an omnipath, but through the use
 Omnipaths possess a strange mindset, inscrutable to sane minds, though they are an orderly and meticulous race. While aboleths and veiled masters are skilled spellcasters with powerful illusion and enchantment spell-like abilities, omnipaths’ primary powers are in their minds, and they pursue psychic magic. Omnipaths have a strange obsession with eyes and consider them a delicacy.
 
 An omnipath is 25 feet long and weighs 2 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Omnipath)
 ```encounter-table
 name: Omnipath

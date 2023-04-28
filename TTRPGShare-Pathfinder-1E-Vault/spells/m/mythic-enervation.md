@@ -1,19 +1,21 @@
 ---
-alias: Mythic Enervation
+aliases: [Mythic Enervation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Enervation
+## Mythic Enervation
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: necromancy
 **level**:: arcanist 4, bloodrager 4, mesmerist 4, sorcerer 4, spiritualist 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: ray of negative energy  
@@ -21,7 +23,7 @@ alias: Mythic Enervation
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You point your finger and fire a black ray of negative energy that suppresses the life force of any living creature it strikes. You must make a ranged touch attack to hit. If you hit, the subject gains 1d4 temporary negative levels (see Special Abilities). Negative levels stack.  
   

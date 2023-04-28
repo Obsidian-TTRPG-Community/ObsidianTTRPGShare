@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Killer Seahorse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 234
 desc_short: This elephant-sized sea creature resembles a horse crossed with a fish, with crazed whirling eyes.
 ```
-# Description
+## Description
 These specially bred offshoots of the giant seahorse are used by aquatic creatures as guard animals. Vicious and territorial, they prefer larger prey and have been known to eat giant crabs and careless handlers. Killer seahorses are too unruly for use as mounts and only accept riders or baggage if magically controlled.
 
 Killer seahorses have been known to crush other creatures into a bloody pulp just before giving birth, ensuring a good meal for their newborns (called “fry”). A killer seahorse fry is the size of a human hand and is an aggressive swarm feeder, like a piranha.
 
 A light load for a killer seahorse is up to 2,500 pounds, a medium load is 4,900 pounds, and a heavy load is 7,400 pounds. A killer seahorse can drag 36,800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Killer%20Seahorse)
 ```encounter-table
 name: Killer Seahorse

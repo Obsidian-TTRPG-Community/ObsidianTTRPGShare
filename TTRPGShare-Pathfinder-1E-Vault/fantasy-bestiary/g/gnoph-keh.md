@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoph-Keh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 84
 desc_short: A vortex of freezing wind swirls around this six-legged, bearlike monstrosity. A single horn protrudes from its snarling face.
 ```
-# Description
+## Description
 The gnoph-keh is a six-legged horned creature vaguely akin to a polar bear in shape and outline, yet possessed of a cruel and creative intellect that elevates it from the rank of wild beast to murderous warmonger. Covered with a dense pelt of shaggy white fur, the gnoph-keh is equally at home walking on two, four, or six legs. The creature prefers to travel on all six when using its powerful charge or running, but rears up on its hind legs in combat to bring its four front claws to bear on its foes. With the gnophkeh’s ability to call up and direct powerful blizzards matched to its ability to move and see in such conditions without any disadvantage, the creature is rightfully feared in the frozen realms where it dwells.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoph-Keh)
 ```encounter-table
 name: Gnoph-Keh

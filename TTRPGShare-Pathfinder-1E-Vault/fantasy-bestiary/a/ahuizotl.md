@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ahuizotl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 80
 desc_short: This bear-sized beast has a body like a squat simian, a dog’s face, and a long tail that ends in a clawed hand.
 ```
-# Description
+## Description
 A carnage-hungry denizen of swamps, the ahuizotl is a ferocious-looking predator, even before one takes into consideration its most distinctive feature-a long tail that ends in a clawed but all-too-humanoid hand. Whether from the entrance of its aquatic home (typically a sunken mass of trees or a flooded cavern) or the thick reeds and flora that grow at the water’s edge, an ahuizotl remains watchful for any intruder that might trespass into its territory. Upon sighting such prey, the beast uses its uncanny ability to mimic the sound of a humanoid in distress to lure victims near, so it can snatch them with its tail claw. Ahuizotls are particularly fond of feasting upon a victim’s eyes, and their tail claws are particularly adept at swiping away such organs for the beasts to feed upon. Teeth and fingernails are another of the creature’s favorite meals, and the appearance of mutilated bodies missing eyes, teeth, and nails along a river’s banks is sure evidence of an ahuizotl attack.
 
 Despite its preference for cruelty, an ahuizotl might come to mutually advantageous arrangements with other pernicious denizens of the swamps. Will-o’-wisps and ahuizotls often find themselves in such cooperative relationships, with the will-o’-wisp coaxing creatures near the ahuizotl’s lair and then lingering to feed upon the victims’ fear as the ahuizotl drags them into the depths. Some wily humanoids who fall into an ahuizotl’s clutches-typically lizardfolk, boggards, or swamp-dwelling humans-have successfully managed to bargain away the lives of others in exchange for their own. Such arrangements always lead to a series of vicarious murders, as the aquatic predator’s proxy coaxes new victims into the swamp for its fearsome partner to dine upon.
 
 Ahuizotls are exceptionally long-lived, and a single individual might live and feed in a particular area for several human generations. An ahuizotl is 9 feet long and weighs 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ahuizotl)
 ```encounter-table
 name: Ahuizotl

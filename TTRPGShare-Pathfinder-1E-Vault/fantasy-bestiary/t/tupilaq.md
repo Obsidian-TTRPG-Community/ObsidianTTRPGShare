@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tupilaq
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 275
 desc_short: This small humanoid figure grinds and clatters as it moves, its body carved from bones decorated with fine scrimshaw.
 ```
-# Description
+## Description
 Tupilaqs are small constructs crafted out of whale bones and whale teeth for the sole purpose of murdering the creator’s enemies. A tupilaq’s appearance can vary based on its construction, but all have prominent jaws and a small body with hands and feet fit for swimming. A tupilaq usually stands 3 feet tall and weighs only 30 pounds.
 
 Tupilaqs must be created in secrecy-if any other person discovers the tupilaq is being created, the attempt to build the construct immediately fails. As part of its creation, the creator invites or lures a host spirit to possess the tupilaq. Most often, the animus of a tupilaq is that of a dead child or other small humanoid, and the parity of size between the new vessel and the spirit’s previous body is what gives the creature a speed and agility on land and in water that is atypical for most constructs. This trapped spirit is also what makes a tupilaq so savage and murderous.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tupilaq)
 ```encounter-table
 name: Tupilaq

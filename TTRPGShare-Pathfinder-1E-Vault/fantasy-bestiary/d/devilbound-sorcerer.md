@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Devilbound Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
     desc: 56
 desc_short: This elegant and mysterious woman has a sinister air of dark power around her, like a protective ward.
 ```
-# Description
+## Description
 A devilbound creature has made a bargain with a devil, promising a service and its soul in exchange for infernal power. The specif ic service depends on the devil’s type and motivations, but always furthers the interests of Hell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Devilbound%20Sorcerer)
 ```encounter-table
 name: Devilbound Sorcerer

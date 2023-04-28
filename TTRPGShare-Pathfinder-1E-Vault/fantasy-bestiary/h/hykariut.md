@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hykariut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 84
 desc_short: This imposing anthropomorphic being comprised of stone and spiked steel armor hefts an intimidating hammer.
 ```
-# Description
+## Description
 Whereas most inevitables punish individual crimes such as oath breaking and murder, the mighty hykariuts quash rebellions and extinguish revolutions. These inevitables care little for petty uprisings, instead focusing on those upheavals that are at risk of spreading catastrophically, setting off a chain reaction of chaotic destabilizations. When such a riot reaches its critical mass, a hykariut stoically marches into its epicenter to scatter the rebellious citizens and crush the ideological leaders.
 
  A hykariut is 14 feet tall and weighs 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hykariut)
 ```encounter-table
 name: Hykariut

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leaf Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 179
 desc_short: This little plant person is clad in a winglike leaf cloak and pinecone armor, wielding a twig as a makeshift spear.
 ```
-# Description
+## Description
 Leaf leshys tend to the well-being of trees, whether natural stands or cultivated orchards. In appearance, they have soft, pulpy-looking bodies and wear clothing made of dozens of leaves. Larger leaves cover their shoulders, often giving them the appearance of wearing cloaks, and most adorn their relatively featureless heads with helmets made from pine cones, nuts, or fruit rinds. This leafy layer of clothing functions as masterwork padded armor for a leaf leshy, but not for any other creature.
 
 Leaf leshys love to play at war. When not laboring on their trees, they wheedle any companions to engage in mock duels with their twig spears, resorting to private weapon drills when they must. In actual battle, they are much more cautious, sticking to cover and harrying their foes with hit-and-run tactics, as they have a strongly developed sense of self-preservation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leaf%20Leshy)
 ```encounter-table
 name: Leaf Leshy

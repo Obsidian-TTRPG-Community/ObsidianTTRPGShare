@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psychepore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 198
 desc_short: A mass of shell-like fungus grows so thick it obscures the mass of plant matter beneath.
 ```
-# Description
+## Description
 A psychepore is a symbiosis of two different plant creatures-a lurching bit of undergrowth distantly related to the shambling mound and an intelligent cluster of hard fungal growths that possess a malevolent hive mind. On their own, the shambling undergrowth is an unintelligent creature, barely aware enough to move itself to new sources of sunlight and water, while the fungal conks, for their part, are intelligent but immobile. The two pose a serious threat only once the psychic fungus infests the shambling undergrowth, and the creatures transform into the horrifying psychepore.
 
  A psychepore procreates through microorganisms in its poison, spreading into victims fungal spores that try to bond with that host’s physiology to create a new psychepore. Generally, the only creatures with which these spores can coexist are the shambles that form the base of a psychepore, but these spores also have strange effects on creatures that aren’t their typical hosts. Such creatures suffer from delusional visions as their minds try to assimilate or reject the images presented by the alien will of the strange symbionts, and their bodies desperately attempt to force the foreign spores out. Some cultures harvest psychepores to distill their poison into a powerful drug, using it in religious rituals that search for inner knowledge or in dark alleys as a temporary escape from cruel, short lives-or transforming it into a truth serum used during psychological torture and other types of interrogation.
@@ -63,7 +65,7 @@ A psychepore is a symbiosis of two different plant creatures-a lurching bit of u
  Most psychepores attack only in vain attempts to procreate, never seeming frustrated by their usually futile efforts, but more intelligent specimens pursue less direct but more fruitful approaches, often serving those who aid in gathering the undergrowth they need to replicate. There are rumors of even more highly developed and intelligent versions of these creatures that learn the secrets of telepathy and how to adjust their poison to replicate possession magic. These superintelligent psychepores become more aware of cultural structures and take great joy in manipulating other forms of life to achieve their goals.
 
  A psychepore is a hulking thing with a dense composition. It stands 6 feet tall or slightly taller and weighs about 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psychepore)
 ```encounter-table
 name: Psychepore

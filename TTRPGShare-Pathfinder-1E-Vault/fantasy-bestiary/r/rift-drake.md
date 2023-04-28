@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rift Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 106
 desc_short: Horns jut from this muscular dragon’s beaked head, and spikes cover the dragon’s hide even in places on its winged arms.
 ```
-# Description
+## Description
 Creatures of the badlands and regions scarred by the gods, rift drakes are as savage and brutal as the lands they hunt. Their strength and savagery often make them seem like mere deadly beasts, but rift drakes simply delight in battle more than most drakes, frequently clashing even with other members of their own kind. They rarely deign to talk with other creatures, often doing so only as a cruel game in which they make more and more outrageous demands until their victims realize the drakes are toying with them or the manipulative drakes grow bored.
 
 A rift drake rarely stays on land for long, preferring to circle high above near ominous peaks or spires and roosting in the crevices of the same. When a rift drake spies prey from such heights, it breaks from its flight to dive onto victims, scattering groups and sowing terror with its sudden emergence. With particularly agile foes, a rift drake will use its breath to slow victims first, then pick them off one by one. Rift drakes enjoy the taste of blood, and focus their attacks on the fleshiest-looking creatures.
 
 A rift drake is around 14 feet long, end to end. Its burly, spiky body weighs about 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rift%20Drake)
 ```encounter-table
 name: Rift Drake

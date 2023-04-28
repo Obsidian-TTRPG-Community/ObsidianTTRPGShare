@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire Spawn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 244
 desc_short: This pale humanoid has fangs and burning red eyes.
 ```
-# Description
+## Description
 The following template can be used to create unique vampire spawn with class levels.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire%20Spawn)
 ```encounter-table
 name: Vampire Spawn

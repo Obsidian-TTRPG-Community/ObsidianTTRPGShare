@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kyton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 185
 desc_short: Wickedly barbed chains adorn this lean figure, and gaps in the bindings reveal deathly pale flesh etched with jagged scars.
 ```
-# Description
+## Description
 Often classified among the ranks of the infernal and called chain devils by the uninitiated, the sadomasochistic kytons are not true devils. Many suggest that kytons were natives of Hell who existed there before the advent of devilkind, while others hypothesize they were later brought to the plane by some sadistic power. Regardless of their origins, kytons roam the planes in their lust to cause and receive suffering, seeking pain through violent abductions and sadistic debauches.
 
 The kyton presented here is a typical member of this fiendish race of outsiders, but is by no means the only type of its kind. Just as there are numerous different species of demon and devil, rumor holds that different kinds of kytons dwell in their jangling cities in Hell and on the Plane of Shadow. These kytons are invariably more powerful than the one presented here, often having spell-like abilities or hideous and unsettling special attacks along the themes of torture and pain. Rumor holds that the most powerful kytons are completely inhuman, and that these monsters are the true progenators of the kyton race-the kyton presented here but the result of unholy dalliances with their unfortunate victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kyton)
 ```encounter-table
 name: Kyton

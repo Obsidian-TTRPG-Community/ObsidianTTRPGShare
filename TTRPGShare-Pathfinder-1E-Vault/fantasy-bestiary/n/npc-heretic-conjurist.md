@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Heretic (Conjurist)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: GameMastery Guide
     desc: 279
 ```
-# Description
+## Description
 Conjurists are arcanists who have studied the planes, irresistibly drawn to forbidden lore that shatters mind and morality. Conjurists may be exotic court mages or unusual war wizards. A conjurist will often keep a battle monk bodyguard or may have a hedge wizard or medium as an assistant (CR 7).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Heretic%20(Conjurist))
 ```encounter-table
 name: NPC Heretic (Conjurist)

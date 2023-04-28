@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lifeleecher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 80
 desc_short: The pallid flesh of this ferocious, orc-like creature is covered in scars and burns. Its muscles are thick and corded, and its hatefilled eyes seem to reflect death wherever they stare.
 ```
-# Description
+## Description
 Much like some of their orc kin, lifeleecher mortics often cover themselves in ritual scarring, brands, and auspicious tattoos. However, a lifeleecher mortic’s skin is an ashen gray color, signaling their flirtation with death. Of all their markings, lifeleecher mortics most celebrate their death scar: the site of a mortal wound that would have felled creatures far more resilient than an orc, yet that failed to slay the lifeleecher mortic, instead unleashing their mortic heritage.
 
  Lifeleecher mortics are roughly 6 feet tall and weigh about 230 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lifeleecher)
 ```encounter-table
 name: Lifeleecher

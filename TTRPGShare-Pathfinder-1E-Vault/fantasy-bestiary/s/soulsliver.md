@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soulsliver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 250
 desc_short: This smooth-featured, humanoid creature appears to have skin made entirely of mirrored glass.
 ```
-# Description
+## Description
 However, it is always the mirror image of the person it copies, which might give away that something is wrong.
 
 A soulsliver is an extradimensional shapechanger that lurks in the half-dimensions behind mirrors. It watches creatures on the Material Plane through ref lective surfaces, assumes their likeness, then crawls through the mirror to kill and feast upon its prey. Whether they are bizarre offshoots of the doppelganger race or originate from some aberrant magic used to create a demiplane, soulslivers are responsible for many unsolved murders, and their mirror travel makes them hard to catch.
 
 A soulsliver causes trouble for a short while in its assumed form, then retreats through the mirror to its home plane. Its native plane is an aspect of the Plane of Shadow, with reversed and grossly distorted creatures and scenery from the Material Plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soulsliver)
 ```encounter-table
 name: Soulsliver

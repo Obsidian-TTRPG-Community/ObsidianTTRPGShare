@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 137
 desc_short: A vaguely humanoid shape made of metal lurches to life with the grinding whir and frantic ticking of hundreds of gears.
 ```
-# Description
+## Description
 Forged from thousands of gears, the clockwork golem is a precision creation. In combat, a clockwork golem is ruthlessly efficient, moving with swift conviction to grind and slice its foes to ribbons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Golem)
 ```encounter-table
 name: Clockwork Golem

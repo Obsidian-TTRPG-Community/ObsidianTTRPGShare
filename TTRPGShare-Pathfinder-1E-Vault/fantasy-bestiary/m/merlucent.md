@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Merlucent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 90
 desc_short: A mane of long, writhing tentacles crowns this translucent, humanoid figure. A crystalline skeleton supports its faintly glowing flesh.
 ```
-# Description
+## Description
 Merlucents are strange creatures formed from the fusion of human and jellyfish. As a species, they are simple-minded ascetics. Individual clans claim small stretches of coastline where they hunt fish and shellfish, and scratch strange glyphs into coral, coaxing it to grow in unnatural though beautiful formations. Naturally sensitive to arcane energy, they settle in locations rife with ambient magic, such as along ley lines or near schools of magic built on islands or coasts. Local communities generally consider merlucents to be pests for stripping fishing grounds bare, but the aberrations also keep more aggressive aquatic threats away. This small blessing turns bane every 2 to 5 years when merlucents enter their mating phase and become extremely aggressive.
 
 To reproduce, each merlucent spawns dozens of antsized polyps, each of which must mature inside the skull of a humanoid host. Depending on the host, it can take anywhere from days to weeks for the tiny parasite to take over its host’s mind and convert the bony, flesh-covered body into its own adult form. To support their children, merlucents conduct fanatical crusades, kidnapping surface dwellers to act as incubators. Relying on its members’ stealth and paralytic poison, a single clan may snatch dozens of unwary sailors or coastal residents in a single season.
 
 Merlucents range from 4 to 5 feet in height and weigh around 180 pounds, though smaller or larger specimens may be spawned depending on the size of the host.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Merlucent)
 ```encounter-table
 name: Merlucent

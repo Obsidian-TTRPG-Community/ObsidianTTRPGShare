@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cataboligne
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 225
 desc_short: Spiked clubs extend from each end of this six-legged fiend. A spiky growth sticks up from its back, and a mouth yawns in its belly.
 ```
-# Description
+## Description
 Catabolignes are the devastating siege engines of the qlippoth, rampaging among demonic fortifications and unmaking everything in their path. The treelike growth on a cataboligne’s back is capable of unleashing a beam of entropic power that turns all it touches to dust, while its mouth drools a terrible flesh-eating poison. Oddly, catabolignes do not seem hostile toward proteans, who will often merrily lead these devastating qlippoth on destructive sprees. 
 
 A cataboligne is 30 feet tall and 40 feet long, and weighs 16 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cataboligne)
 ```encounter-table
 name: Cataboligne

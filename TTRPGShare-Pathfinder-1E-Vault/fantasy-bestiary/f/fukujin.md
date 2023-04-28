@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fukujin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 84
 desc_short: This diminutive humanoid looks like a truly ancient but proud old warrior. A tiny tree branch juts from the top of his head.
 ```
-# Description
+## Description
 Spiritual guardians of ornamental shrubs and miniature trees, fukujin are highly regarded among Tians as bringers of good fortune and sound wisdom. Fukujins are thought to only come to goodhearted and devoted bonsai gardeners, and since bonsai plants are often only cultivated by astute and aesthetically minded humanoids, the kami are usually of a similar nature, speaking to mortals rarely and always cryptically. Regardless of how much of their coveted knowledge they impart upon favored mortals, however, fukujins always bring with them a sense of hope and good luck, and almost all within close proximity of the kami feel an instant sense of relief.
 
 Fukujins resemble humanoids with tree branches protruding from their bodies, most often their heads, and some fukujins possess leafy hair or treelike limbs. A fukujin in its physical form is only as tall as its bonsai ward-usually only a foot or two-and weighs less than 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fukujin)
 ```encounter-table
 name: Fukujin

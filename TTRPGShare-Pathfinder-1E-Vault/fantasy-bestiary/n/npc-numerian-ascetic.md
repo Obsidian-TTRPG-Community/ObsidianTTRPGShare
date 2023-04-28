@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Numerian Ascetic
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 40
 ```
-# Description
+## Description
 Across Numeria and beyond, wandering androids train themselves to be paragons of perfection. Not all androids choose this path-some study the intricacies of magic and others master weapons of war-but those most interested in finding their true selves in this confusing world follow the path of the monk.
 
 Though most androids realize they are born of strange technology, few recall their birth into the world. They seek a better connection to themselves, and thus they eschew all technology and rely only on their own bodies and abilities to find their place in the world. These androids train their bodies and minds to forge themselves into weapons, and they rely on their training more than they make use of their nanite surge ability. They study the physical form of opponents and focus their attacks on the weak areas, grappling combatants and wrenching their limbs in ways calculated to break bone and inflict excruciating pain. Though many Numerian ascetics seek a path of enlightenment, they remain dangerous adversaries to those they cross in the barbaric lands of Numeria-especially the tyrants of the Technic League.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Numerian%20Ascetic)
 ```encounter-table
 name: NPC Numerian Ascetic

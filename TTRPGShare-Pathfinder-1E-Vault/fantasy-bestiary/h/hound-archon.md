@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hound Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 19
 desc_short: This canine-headed humanoid’s well-groomed appearance and polished greatsword show it to be more than a common beast.
 ```
-# Description
+## Description
 Hound archons look like well-muscled humans with canine heads typically resembling those of noble-looking wolves or dogs. Well trained, they prefer to make use of their greatswords in battle, though they are equally adept with their natural weapons. Hound archons loathe killing mortals and prefer to disarm or incapacitate even evil individuals when they can. Against fiends and the irredeemably corrupt, though, they show no mercy.
 
 Hound archons are disciplined soldiers and sentinels. Occasionally good-aligned deities send them to watch over specific places and individuals they take a particular interest in. Under the guise of unassuming but friendly strays, such secret defenders might follow their ward or guard their post subtly for years.
 
 In Heaven’s armies, exceptional hound archon paladins lead their fellows into combat, taking on roles as captains and knights. They lead incursions against fiendish holdings, whether that entails strikes against daemonic fortresses or liberating the captives of night hag soul collectors. Such missions make hound archons perhaps the most likely celestials one might encounter upon the Lower Planes, and packs of swift-moving wolves occasionally reveal themselves to be welcome saviors to those lost within such realms. Regardless of their orders, hound archons universally exhibit a particular hatred of canine fiends, abandoning all mercy and going out of their way to put an end to the evils of barghests, glabrezus, yeth hounds, and similar depraved outsiders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hound%20Archon)
 ```encounter-table
 name: Hound Archon

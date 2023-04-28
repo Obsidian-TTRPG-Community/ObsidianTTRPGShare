@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ivory Sentinel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 90
 desc_short: Sculpted from ivory in the form of a large skull, this construct perches on six segmented legs of whitened bone.
 ```
-# Description
+## Description
 Ivory sentinels were most often employed by the upper echelons of Thassilonian aristocracy, especially across Bakrakhan and Shalast. These nobles competed with one another in decking out the approaches to their palaces with outlandish and lethal guardians, and the avian ivory sentinels served this purpose well. Often employed to terrorize peasants and foreign dignitaries, most of these constructs were destroyed during Earthfall when those extravagant palaces came tumbling down.
 
  When an ivory sentinel takes flight, delicate wings carved to resemble those of a bird unfurl from the sides of its skull-like head.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ivory%20Sentinel)
 ```encounter-table
 name: Ivory Sentinel

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nagaji
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 199
 desc_short: This dark-scaled reptilian humanoid has lidless eyes, and a serpentine tongue that flickers from a fanged, lipless mouth.
 ```
-# Description
+## Description
 The nagaji are a race of ophidian humanoids created by true nagas to serve as slaves. Vaguely humanlike in appearance, with scaled skin that mimics the colors and patterns of various true nagas, nagaji have forked tongues and lidless eyes, giving them an unblinking gaze that most other races find unnerving. Nagaji venerate nagas as their creators, even going so far as to deify them. Despite the inf luence of their creators, nagaji maintain their own distinct cultures containing elements borrowed from those of both nagas and humans. They prefer warm to tropical regions and settle in wild, isolated regions such as steaming jungles, vast swamps, or volcanic mountains where they erect large temples in honor of their naga creators. These magnificent temples are surrounded by dozens of simple mud daub huts and clay brick structures, which serve as the nagaji’s homes and public buildings.
 
 Nagaji typically stand between 5-1/2 and 6 feet tall and weigh about 175 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nagaji)
 ```encounter-table
 name: Nagaji

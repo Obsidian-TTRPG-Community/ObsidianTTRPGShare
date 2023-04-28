@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Earth-Infused Giant Porcupine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,9 +39,9 @@ sources:
     desc: 56
 desc_short: A dazzling array of crystalline spines emerges from the back of this jewel-eyed porcupine.
 ```
-# Description
+## Description
 Sometimes unpredictable elemental events cause planar energies to infuse mundane creatures with otherworldly power, transforming them into element-infused creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Earth-Infused%20Giant%20Porcupine)
 ```encounter-table
 name: Earth-Infused Giant Porcupine

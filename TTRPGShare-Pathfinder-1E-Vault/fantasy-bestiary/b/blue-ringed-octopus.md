@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blue-Ringed Octopus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Ultimate Magic
     desc: 117
 ```
-# Description
+## Description
 Blue-ringed octopuses are aquatic animals capable of a surprising amount of cunning. They cannot survive out of water.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blue-Ringed%20Octopus)
 ```encounter-table
 name: Blue-Ringed Octopus

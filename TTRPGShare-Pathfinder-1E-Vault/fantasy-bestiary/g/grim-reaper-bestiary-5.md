@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grim Reaper (Bestiary 5)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 134
 desc_short: One bleached-bone hand of this robed, skeletal figure grasps a massive, curved scythe.
 ```
-# Description
+## Description
 As silent as the grave and as inevitable as time, grim reapers are more akin to forces of nature than individual beings, being nothing less than personifications of grim, violent death.
 
  Unlike their lesser kin, grim reapers never work together or with other creatures, save for select ancient dragons and dragon-like undead that sometimes serve these dreaded soul hunters as steeds. This lack of cooperation has led some to speculate that there is only one grim reaper who plagues the multiverse. Others claim that least nine of these creatures stalk the worlds and planes, culling the living as inexplicable servants of true entropy. According to the teaching of some death cults, the final goal of a grim reaper is to end the entire cycle of life and death and to serve as a silent lord of an empty universe.
 
  Grim reapers are so feared that even most outsiders give them a wide berth. This suits the reapers well, as that means less interference with the harvest of doomed souls. A grim reaper stands approximately 6-1/2 feet tall and weighs about 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grim%20Reaper%20(Bestiary%205))
 ```encounter-table
 name: Grim Reaper (Bestiary 5)

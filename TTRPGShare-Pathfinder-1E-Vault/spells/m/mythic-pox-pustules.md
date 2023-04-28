@@ -1,19 +1,21 @@
 ---
-alias: Mythic Pox Pustules
+aliases: [Mythic Pox Pustules]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Pox Pustules
+## Mythic Pox Pustules
 
 **source**:: Mythic Adventures pg. 104  
 **school**:: necromancy (disease)
 **level**:: druid 2, hunter 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (leaves from a toxic plant)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Pox Pustules
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You inflict a painful, itching rash on the target creature. The target is sickened and takes a -4 penalty to Dexterity (this penalty cannot lower Dexterity below 0). The target can spend a move action scratching furiously at the rash to remove the sickened condition (but not the Dexterity penalty) until the start of its next turn.
 

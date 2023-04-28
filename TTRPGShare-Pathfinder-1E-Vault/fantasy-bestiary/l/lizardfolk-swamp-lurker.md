@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lizardfolk Swamp Lurker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: Monster Codex
     desc: 143
 ```
-# Description
+## Description
 Submerged in shallow water or hidden in tangles of rushes, lizardfolk rangers give away their position only once it is too late for their prey to do anything about it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lizardfolk%20Swamp%20Lurker)
 ```encounter-table
 name: Lizardfolk Swamp Lurker

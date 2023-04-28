@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Barzahk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 90
 desc_short: Feathered arms emerge from the shoulders of this hunched raven, clutching a key of bone.
 ```
-# Description
+## Description
 Barzahk the Passage is among the youngest of Pharasma’s ushers, having been born alongside (or, some suggest, as) the transitive Dead Roads that psychopomps use to travel the planes. Despite this relative youth, they still number among the oldest beings in creation, predating many archdevils, demon lords, empyreal lords, and even gods. Barzahk sees little new in this world, and a powerful boredom drives them to find wonder in small and personal things-the blooming of a flower, the rattle of a last breath, the tears of love that fall at a funeral. Whimsical and distracted, the usher rarely attends to their appointed duties for long and instead takes to wandering the planes to find new small wonders they can experience.
 
  Even with their disregard for duty, the Passage is obsessively protective of their domain, the Dead Roads, and most of their wanderings use this realm as a path. Barzahk’s awareness extends along the length and breadth of these extraplanar routes, and the usher can cast trespassers from their realm as easily as a dog shakes off water-and often with the same dispassion.
@@ -75,7 +77,7 @@ Barzahk the Passage is among the youngest of Pharasma’s ushers, having been bo
  In addition to the usual army of attendant psychopomps, Barzahk commands a unique resource: the way stations and their masters that pin the Dead Roads in space and time. As such, Barzahk can call upon a strange menagerie of outsiders, fey, and experts for specialized tasks. While the various entities Barzahk appoints have no compulsion to obey the Passage, the usher can easily retract the authority they grant, denying these servants an isolated, secure home and relative power.
 
  Barzahk normally wanders the Dead Roads among the faceless flocks of ravens, jays, vultures, and whippoorwills that infest the Dead Roads, but they sometimes assume a larger, more humanoid form. In this form, they stand just over 5 feet tall and weigh 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Barzahk)
 ```encounter-table
 name: Barzahk

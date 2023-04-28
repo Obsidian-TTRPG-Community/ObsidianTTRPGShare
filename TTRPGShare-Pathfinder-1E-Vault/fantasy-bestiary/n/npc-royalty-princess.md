@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Royalty (Princess)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,13 +39,13 @@ sources:
   - name: GameMastery Guide
     desc: 292
 ```
-# Description
+## Description
 A princess is occasionally a ruler in her own right but is most often the daughter of a king and/or queen. In many societies, princesses come behind any princely brothers in the line of succession, and may even be treated like a commodity to be brokered between noble houses through marriage alliances. Small wonder, then, that princesses often find ways of sneaking away from their gilded homes and out into the world to find a taste of adventure.
 
 Naturally, a princess’s stats can also be used to model any high-level noble, male or female. Princesses also make good aristocratic duelists, perhaps joining together in a noble “gangs” of four members (CR 10).
 
 A princess may be accompanied by four female noble scions as her ladies-in waiting or noble-born friends (CR 8), or by her mother and father, the king and queen (CR 15). Alone, a princess may keep a guard officer bodyguard (CR 7) or battle monk for protection (CR 8), possibly adding a minstrel as well for the company (CR 8 or 9).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Royalty%20(Princess))
 ```encounter-table
 name: NPC Royalty (Princess)

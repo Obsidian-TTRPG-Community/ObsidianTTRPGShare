@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Death Worm Leviathan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 21
 desc_short: This enormous worm has stony hide and acid-dripping jaws.
 ```
-# Description
+## Description
 Sometimes a pregnant death worm lays an especially promising egg among her brood, about twice as large as the others and with a nigh-impenetrable, brownspeckled shell. This egg requires even more warmth than the others in its clutch, and upon emerging the worm would rather devour its brethren than the meal left by its parent. Such rare specimens grow up to become death worm leviathans, and those few who have heard of the fell beasts know to fear them as well as to hold them in awe. Death worm leviathans possess powers nearly identical to those of their smaller kin, albeit at a much deadlier scale. In addition, their massive girth makes it even easier for them to consume prey both large and small, and a single leviathan might consume an entire desert village before its terrible hunger is sated.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Death%20Worm%20Leviathan)
 ```encounter-table
 name: Death Worm Leviathan

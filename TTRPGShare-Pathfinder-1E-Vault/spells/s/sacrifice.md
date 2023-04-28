@@ -1,19 +1,21 @@
 ---
-alias: Sacrifice
+aliases: [Sacrifice]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sacrifice 
+## Sacrifice
 
 **source**:: Book of the Damned pg. 185, Book of the Damned - Volume 1: Princes of Darkness pg. 47  
 **school**:: enchantment (charm) (mind-affecting)
 **level**:: arcanist 4, cleric 4, oracle 4, sorcerer 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (see text)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one summoned elemental or outsider (see text)  
@@ -21,7 +23,7 @@ alias: Sacrifice
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You make a sacrifice to aid in conjuring and commanding a creature called with *planar ally*, *planar binding*, or a similar spell. A sacrifice can be used in a variety of ways.  
   

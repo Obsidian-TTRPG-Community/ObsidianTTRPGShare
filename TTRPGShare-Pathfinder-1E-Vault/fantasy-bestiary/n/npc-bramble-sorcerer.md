@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Bramble Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
   - name: NPC Codex
     desc: 162
 ```
-# Description
+## Description
 The bramble sorcerer serves the interests of green dragons, walking where his masters cannot and speaking on their behalf to other forest dwellers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Bramble%20Sorcerer)
 ```encounter-table
 name: NPC Bramble Sorcerer

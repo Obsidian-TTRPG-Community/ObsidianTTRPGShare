@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grassling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 86
 desc_short: This child-sized creature is made of long green stalks of loosely woven grass. It has four arms, each with fingers like long blades, and leaves circle its head like a crown.
 ```
-# Description
+## Description
 Grasslings are sneaky, inquisitive fey creatures that populate wild grasslands. Resembling a crude, fourarmed doll made of long blades of green grass, a grassling’s body contains virtually no flesh or muscle- just fresh, tough grass. Despite their fibrous construction, grasslings are made up of magic and whimsy as much as they are of vegetation; they are fey creatures, not plants.
 
  Each of a grassling’s four arms ends in a hand with grass blades that protrude like claws. These claws are supernaturally sharp and can slice flesh with ease, although grasslings prefer stealth and deception to direct combat. Their excellent reflexes allow them to twist away from danger with great agility and reach hiding spots before an observer can blink. Grasslings are capricious and delight in playing pranks-which range from harmless to mean spirited-upon larger creatures.
 
  A typical grassling stands about 3 feet tall and weighs 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grassling)
 ```encounter-table
 name: Grassling

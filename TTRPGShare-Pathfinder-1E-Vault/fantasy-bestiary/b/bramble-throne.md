@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bramble Throne
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 82
 desc_short: The low branches of this stout tree form the shape of a throne. Gold-trimmed leaves and thick vines grow on the branches.
 ```
-# Description
+## Description
 Bramble thrones grow where the blood of power-hungry rulers has been spilled, and particularly where the bodies of these grasping monarchs have been laid to rest. A ruler’s obsession over the power of a throne can be so powerful that it leaches into the soil, infusing a growing tree with a psychic fixation on the trappings of rule and powers of domination. As the plant grows, its branches form into the shape of the ruler’s throne and its leaves sprout in regal colors such as gold and violet.
 
  A bramble throne’s wide trunk typically rises only 2 feet above ground before branching into a throne 8 feet wide and 10 feet high. Leaves surround the throne like an ornate canopy, and several thick, barbed vines wind around the entire tree. A bramble throne can slowly pull itself along the ground with these vines, although it more frequently uses them to lash out at creatures that stray within the range of its psychic senses. If it kills an intelligent creature, it seats the corpse upon the throne, using invasive tendrils to give the corpse the semblance of animation and regal authority. With a corpse seated upon it, a bramble throne can compel other creatures to make the obeisance it craves.
@@ -70,7 +72,7 @@ Bramble thrones grow where the blood of power-hungry rulers has been spilled, an
  Bramble thrones retain an echo of the ruler’s imperious nature, allowing it to speak basic commands such as “approach,” “bow,” and “kneel” through a jagged, mouth-like slit in its trunk. Bramble thrones speak whatever languages the ruler knew in life.
 
  Bramble thrones grow up to 12 feet wide and 20 feet high and weigh about 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bramble%20Throne)
 ```encounter-table
 name: Bramble Throne

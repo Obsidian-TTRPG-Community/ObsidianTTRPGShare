@@ -1,19 +1,21 @@
 ---
-alias: Command Undead
+aliases: [Command Undead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Command Undead 
+## Command Undead
 
 **source**:: PRPG Core Rulebook pg. 257  
 **school**:: necromancy
 **level**:: arcanist 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a shread of raw meat and a splinter of bone)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one undead creature  
@@ -21,7 +23,7 @@ alias: Command Undead
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell allows you a degree of control over an undead creature. If the subject is intelligent, it perceives your words and actions favorably (treat its attitude as friendly). It will not attack you while the spell lasts. You can give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. Retries are not allowed. An intelligent commanded undead never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.  
   

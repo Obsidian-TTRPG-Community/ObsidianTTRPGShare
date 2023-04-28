@@ -1,19 +1,21 @@
 ---
-alias: Discharge, Greater
+aliases: [Discharge, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Discharge, Greater 
+## Discharge, Greater
 
 **source**:: Technology Guide pg. 9  
 **school**:: abjuration
 **level**:: arcanist 6, bard 6, cleric 6, magus 6, oracle 6, skald 6, sorcerer 6, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: or Area one creature or technological object, or a 20-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Discharge, Greater
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as *discharge*, except it can discharge multiple technological objects and can be used to target an area.  
   

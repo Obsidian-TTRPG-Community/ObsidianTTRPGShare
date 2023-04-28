@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hellfire Ignis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 62
 desc_short: The acrid smell of brimstone wafts from this small creature, which has mottled red skin and a wicked grin on its foul, warped face.
 ```
-# Description
+## Description
 Hellfire ignises roam the rural areas of Cheliax, committing acts of arson and leaving brush, forest, and structures ablaze in their wake. Cruel and sadistic pyromaniacs, hellfire ignises are corrupted versions of fey that once represented both the destructive and rejuvenating properties of fire within nature. Unlike their untainted kin, hellfire ignises see fire as merely a tool for destruction and revel in the raw power of its hungering flames.
 
 Unlike many fey creatures, hellfire ignises are surprisingly attracted to urban areas. The prevalence of wooden tenements, dense populations, and unpatrolled sewers through which they can travel unseen make towns tempting targets for the inveterate arsonists. There is a bounty on the heads of hellfire ignises in many cities and towns in Cheliax, with rewards reaching as much as 400 gp per specimen in some areas. Greedy hunters from Egorian and other cities have been known to travel far into the heart of the Barrowood and Whisperwood, hoping to carry a large collection of ignis heads back for a larger bounty in town.
 
 Despite their name and infernal origins, hellfire ignises have no allegiances to Hell or those who serve it. That said, many experienced pyromancersfind that the corrupted fey make excellent familiars. They tend to be more versatile than fire elementals and less sinister than imps, filling a specific niche between the two more commonly seen familiars. A spellcaster who takes a hellfire ignis as a familiar must be ever watchful that it keeps its arsonist spirit in check, however, as the mischievous fey have been known to set fire to their masters’ workshops, libraries, and homes not out of spite or malice, but because they often contain so many combustible tools and decorations. A 7th-level spellcaster can gain a hellfire ignis as a familiar if she has the Improved Familiar feat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hellfire%20Ignis)
 ```encounter-table
 name: Hellfire Ignis

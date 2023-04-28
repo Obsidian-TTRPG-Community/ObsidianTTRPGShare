@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mute Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 31
 desc_short: Empty eye sockets and jagged teeth punctuate the palpable hate that roils off this twisted, gray-skinned crone.
 ```
-# Description
+## Description
 When bitterness consumes a woman already steeped in arcane power, that energy may sour, driving her to rip out her own eyes and tongue and burning the light from her soul. This ritual births a strange and horrible creature: a mute hag. These hateful abominations dedicate their wretched lives to spreading misery and strangling joy wherever they go.
 
 Mute hags exist to unmake happy things. Tales claim the natural order despises the crones so much that plants wither at their touch, storms churn at their passing, and wounds they inflict never heal. Though physically capable of ripping a man in two, the crones prefer to corrupt instead. They move silently through peaceful settlements, granting the inhabitants’ darkest desires and sowing the seeds of discord. Nothing pleases a mute hag more than watching friends, neighbors, and lovers murder one another in paranoia and rage. Many strike unholy bargains with mortal outcasts, granting vigor, beauty, or revenge in exchange for vile and unforgivable crimes. Mute hags resemble mortal women, but with blotchy, bruised-looking skin. Some conceal their empty eye sockets and ragged teeth with veils or their own hair, but most relish their hideous countenances. Mute hags stand 6 to 7 feet tall and weigh 150 to 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mute%20Hag)
 ```encounter-table
 name: Mute Hag

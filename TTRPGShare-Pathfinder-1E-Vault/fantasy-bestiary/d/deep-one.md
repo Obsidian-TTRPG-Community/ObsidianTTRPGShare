@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deep One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 68
 desc_short: This lumbering creature’s gray-green hide glistens with moisture, and saliva dribbles from its fishlike maw.
 ```
-# Description
+## Description
 Deep ones are as at ease dwelling in the most remote of ocean trenches as they are in the shallows that hug secluded shorelines, although their favorite haunts combine the two. The largest deep one cities are located at places not far off shore, but nestled in vast submerged canyons unusually close to those coastlines. This proximity allows deep ones to pursue one of their favorite goals-commingling with and corrupting surface-dwelling humanoids. Unlike skum, a similar aquatic race that reproduces with surface dwellers, deep ones do so not out of a biological need but as a way to spread their blasphemous religion above the ocean waves. The hybrid children of deep ones and humans form a race of their own. These offspring typically live near others of their kind, assuming positions of leadership in their small towns.
 
 Deep ones usually worship the alien entities known as the Outer Gods or the Great Old Ones, with Cthulhu the foremost among them. Deep one settlements that contain a deep one elder (see page 69) instead typically venerate that powerful deep one, who in turn serves one of the eldritch gods. Many deep ones gain levels as clerics, inciting religious fervor in their kinfolk and promoting their chosen deities as the greatest among the Outer Gods. Those few who instead choose to take up a less focused devotional path, such as that of an oracle, still venerate the Old Ones as a whole.
@@ -63,7 +65,7 @@ Deep ones usually worship the alien entities known as the Outer Gods or the Grea
 Deep ones prefer to fight with their claws. If they do resort to manufactured weapons, they prefer piercing ones, as these function best underwater. They can also use wands and staves; deep ones who pursue the study of more powerful magic often learn to create magic items for their weaker kinfolk to wield.
 
 A deep one typically stands about 7 feet tall, but its hunched gait and lumbering stance can make it appear shorter when it shambles ashore. An average deep one weighs 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deep%20One)
 ```encounter-table
 name: Deep One

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Formless Spawn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 82
 desc_short: This shuddering blot of living tar is surrounded by a mass of writhing tendrils, and its maw opens into a dark gullet.
 ```
-# Description
+## Description
 Oozes are much-feared denizens of the Darklands, yet many of them share characteristics that canny adventurers can exploit. The two best known are their mindlessness (a feature that lets an experienced adventurer manipulate the ooze in a battle, due to its inability to use tactics) and their lack of armor (a quality that allows for tactics like Power Attack to be used with abandon). However, those who stumble across one of the so-called formless spawn of Tsathoggua would do well to remember that not all oozes are mindless and easily hit in combat, for these deadly guardians prove quite cunning and display an alacrity that grants them incredible defenses against physical attacks.
 
 A formless spawn at rest resembles nothing more than a simple puddle of tar, oil, or another dark, thick liquid; once roused to attack, however, it could never be mistaken for anything other than a monstrous and malignant predator. The creature’s outline changes constantly, shifting from serpentine to insectile to a truly shapeless mass-at times even approximating humanoid or other bestial shapes before collapsing in on itself a moment later. Always, the formless spawn sends forth a storm of tendrils that whip and writhe, blocking attacks and fouling attempts at combat maneuvers. The creatures can speak if they deign to, yet they rarely bother to do so with creatures that have fixed shapes-formless spawn consider talking to one’s food a waste of time.
 
 A formless spawn is elephantine in size, capable of covering a 15-foot-diameter pool to a depth of a foot, and it weighs just over 9,000 pounds. Even at this weight, a formless spawn is only about as dense as oil and thus floats on water, unless it actively swims down under the surface.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Formless%20Spawn)
 ```encounter-table
 name: Formless Spawn

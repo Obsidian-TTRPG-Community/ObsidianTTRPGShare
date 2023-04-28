@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Divine Chieftain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
     desc: 39
 desc_short: This authoritative, scorpion-bodied woman is bedecked with amulets and other regalia.
 ```
-# Description
+## Description
 A divine chieftain wields absolute authority over her tribe. She embodies the girtablilus’ dedication to their selfappointed sacred duties: studied in history, an expert on lost ruins, a compassionate diplomat, and a fearsome warrior.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Divine%20Chieftain)
 ```encounter-table
 name: Divine Chieftain

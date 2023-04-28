@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yamaraj
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,7 +77,7 @@ sources:
     desc: 86
 desc_short: The head of this winged, dragonlike beast is crowned with long spines. Sooty feathers cover its body.
 ```
-# Description
+## Description
 Equal parts regal and horrifying to mortal sensibilities, yamarajes preside as judges of death and dispensers of ultimate justice. Superstitions of the living call them by many names-the final judges, the grave magistrates, the dragons who eat men’s souls-but all agree that these nobles of death wither even the stoutest hearts. The grave magistrates glide with authority throughout Purgatory, commanding flocks of lesser psychopomps, tolerating the ministrations of devils and angels bickering for souls of note, and ordering the endless procession of petitioners. Many also serve as diplomats or military commanders to maintain Purgatory’s neutrality, but any such role is secondary to maintaining the flow of souls and the balance of the multiverse. Though in theory each yamaraj answers to the gods of death, in practice each is unquestioned within its own courtroom.
 
 Yamarajes vaguely resemble black dragons, though they are easily distinguished once one realizes the gigantic creatures are cloaked in feathers rather than scales. Each yamaraj measures at least 30 feet in length and weighs 4 tons. Despite their massive size and largely sedentary duties, yamarajes show astounding grace when they move.
@@ -89,7 +91,7 @@ Yamarajes serve as lower judges and lords of Purgatory, directing the activities
 Unsurprisingly, yamarajes tend to vary greatly from one individual to the next. Most develop deep interests in various worldly subjects that determine the sorts of mortals they ultimately choose to watch over. A given yamaraj might go out of its way to seek out artisans, followers of specific deities, or thieves, depending on its studies or whatever has come to interest it during that eon. Yamarajes might seek to guard such pet souls, ensuring their safe travels through Purgatory, learning more from the souls as they journey together, and ultimately advocating that the death gods grant a more peaceful judgment. Others act in reverse, finding certain sorts of mortals truly disgusting, tormenting their souls through their procession to the goddess’s throne, and even suggesting that the spirits should face particularly monstrous damnations. How a yamaraj reacts to an individual thus proves unpredictable, depending on its changeable tastes. Such idiosyncrasies vary between individual yamarajes, and might change over the course of centuries.
 
 Just as many yamarajes become fascinated with souls possessing specific experiences or from certain backgrounds, some of the psychopomps go out of their way to judge beings from specific worlds, collecting bits of information and insight with every creature that passes them by. Thus, some become experts on one or multiple worlds, having spent eternities ferreting out the histories and secrets of worlds from firsthand accounts over millennia of inquiries. Many yamarajes welcome the opportunity to share the details of their investigations, though they sometimes see inquiries into their worlds of expertise as opportunities to conscript new allies to aid the psychopomps’ cause. Standing at the pinnacle of their race, yamarajes are well informed as to the challenges and goals of many subservient psychopomps, and might only negotiate with mortals who perform a service in aid of their underlings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yamaraj)
 ```encounter-table
 name: Yamaraj

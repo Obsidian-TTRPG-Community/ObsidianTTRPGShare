@@ -1,19 +1,21 @@
 ---
-alias: Malediction
+aliases: [Malediction]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Malediction 
+## Malediction
 
 **source**:: Book of the Damned pg. 184, Book of the Damned - Volume 1: Princes of Darkness pg. 46  
 **school**:: necromancy (curse, evil)
 **level**:: antipaladin 4, cleric 4, oracle 4, shaman 4, spiritualist 4, warpriest 4, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: 1 creature touched  
@@ -21,7 +23,7 @@ alias: Malediction
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Channeling the blasphemy of fiends into your hand, you mark your target with a brief but fundamental corruption, causing its soul to be irretrievably damned should it die within the next minute. If you are lawful evil, souls are sent to Hell. If you are neutral evil, souls are sent to Abaddon. If you are chaotic evil, souls are sent to the Abyss.  
   

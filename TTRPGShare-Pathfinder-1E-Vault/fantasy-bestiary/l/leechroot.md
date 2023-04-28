@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leechroot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 62
 desc_short: This tangle of rotten, seemingly lifeless roots twitches slightly, moving the damp, bloody ground beneath it.
 ```
-# Description
+## Description
 Leechroots emerge from the remains of plants poisoned by the blood-drenched soils of war-torn forests. Chaotic intertwinings of rotten roots, these monstrosities quickly spread their curse, soaking other dead plants in their sap to spawn horrid offspring. A leechroot is driven solely by an insatiable thirst for blood. It hides among undergrowth and below the earth while waiting for unwary prey. With its razor-sharp roots, a leechroot slashes at anything that comes its way, snatching victims and feeding directly from their wounds. The absorbed blood mutates into a thick, dark-red sap that runs through the leechroot and oozes from its unhallowed body, helping to heal and sustain the predatory creature.
 
  An adult leechroot averages about 12 feet across (not including its thick, lashing root appendages) and weighs 700 pounds. By consuming enough blood, however, leechroots can grow significantly larger.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leechroot)
 ```encounter-table
 name: Leechroot

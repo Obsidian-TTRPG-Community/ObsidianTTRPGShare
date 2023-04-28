@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Poltergeist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 211
 desc_short: A ghostly, skeletal figure rises up amid a whirling cyclone of tools, plates, utensils, and other loose objects.
 ```
-# Description
+## Description
 A poltergeist is an angry spirit that forms from the soul of a creature that, for whatever reason, becomes unable to leave the site of its death. Sometimes, this might be due to an unfinished task-other times, it might be due to a powerful necromantic effect. Desecrating a grave site by building a structure over the body below is the most common method of accidentally creating a poltergeist. The poltergeist experiences great trauma over its condition; this trauma twists its psyche to evil and fosters an overall hatred of the living expressed in outbursts of rage. A poltergeist is bound to a specific place, usually a building, room, or recognizable area (a section of a cemetery, a stretch of lonely road, and so on). This place typically corresponds to its place of death or the resting place of its mortal remains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Poltergeist)
 ```encounter-table
 name: Poltergeist

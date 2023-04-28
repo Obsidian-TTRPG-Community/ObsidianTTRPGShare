@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Court Poet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: NPC Codex
     desc: 28
 ```
-# Description
+## Description
 Court poets swirl from influential person to influential person in noble courts, attempting to gain favor through stirring verse and manipulative deeds. They can secretly direct realms with their words.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Court%20Poet)
 ```encounter-table
 name: NPC Court Poet

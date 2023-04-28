@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Empath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 18
 desc_short: This gaunt, hunched humanoid’s unblinking eyes stare out from a pale face wrapped in dark cloth.
 ```
-# Description
+## Description
 Among the subterranean dark folk, individuals occasionally emerge with the ability to meddle with the emotions of those around them. These dark empaths comport themselves with unusual calmness, and many claim to feel no emotion at all. Despite this, dark empaths can take on the emotional states of those around them, making their actions difficult to predict. As even their own kin find them unsettling, they generally migrate to the fringes of dark folk society. However, dark callers and other evil members of the dark folk race-typically those associated with the alien owb (Pathfinder RPG Bestiary 4 210)-occasionally assemble dark empaths into silent cabals. These more sinister dark folk use their brethren to manipulate dark stalkers-the leaders of the dark folk race-or to search out dissent against a community’s owb mastermind.
 
 Dark empaths delight in manipulating the emotions of their targets, particularly of humanoids who have become lost underground, magnifying their fear and confusion. Some dark empaths become addicted to certain strong emotions, and go to great lengths to provoke them. Given the dark folk’s penchant for mayhem, most of these attempts are quite destructive for their targets. Groups of dark empaths are especially dangerous, as they feed off of each other’s emotions and are often prone to frenzied displays of hysterical pique.
 
 Most dark empaths stand just under 4 feet tall and weigh 60 pounds. Their shadowy wrappings often appear to be looser than those of other dark folk, as though their bodies were subtly expanding and contracting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Empath)
 ```encounter-table
 name: Dark Empath

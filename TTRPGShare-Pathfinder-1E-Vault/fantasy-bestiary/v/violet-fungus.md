@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Violet Fungus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,7 +45,7 @@ sources:
     desc: 274
 desc_short: This mushroom grows from a bed of tentacular roots. Deep violet tendrils slither out of the dozens of fissures in its pointed cap.
 ```
-# Description
+## Description
 The violet fungus is one of the most notorious and feared dangers of the world’s caves. A traveler can often see signs of the violet fungus in those who dwell or hunt in places where these carnivorous fungi lurk. In these folk, deep and hideous scars mar bodies where entire furrows of flesh seem scooped away-the marks of a close encounter with a violet fungus.
 
 A violet fungus feeds on the rot and decay of organic matter, but unlike most fungi, they are not passive consumers of corruption. A violet fungi’s tendrils can strike with unexpected swiftness, and are coated with a virulent venom that causes flesh to rot and decay with nauseating speed. This potent poison, if left untreated, can cause the flesh of an entire arm or leg to drop away in no time at all, leaving behind only warm bones that soon rot into corruption as well.
@@ -53,7 +55,7 @@ Although violet fungi are mobile, they only move to attack or to hunt for prey. 
 Some species of shriekers (Pathfinder RPG Core Rulebook 416) are relatively similar in appearance to violet fungi, although they lack the tentacular branches. It’s not uncommon to find shriekers and violet fungi growing in the same grove-especially in areas where other creatures cultivate the fungi as guardians.
 
 A violet fungus is 4 feet tall and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Violet%20Fungus)
 ```encounter-table
 name: Violet Fungus

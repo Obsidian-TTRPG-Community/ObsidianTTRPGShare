@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Urhag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 269
 desc_short: This bat-like creature’s body is mostly a large, toothy maw, held aloft by leathery wings. Its whip-thin tail ends in a slender stinger.
 ```
-# Description
+## Description
 Urhags are unnatural creatures that flop and scuttle through ancient ruins and barren canyon-lands. Originally native to the nightmare Plateau of Leng, they can slip into the waking world via an infected dreamer’s flesh. 
 
 Urhags crave the meat of sapient beings and enjoy infesting such hosts, even though urhags are barely capable of cohesive thought. Once an urhag’s victim dies, the urhag wears it like armor for a time while slowly consuming its flesh. Strangely, urhags avoid eating creatures incapable of dreaming, as they find their taste repellent. An urhag is about 4 feet long and weighs roughly 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Urhag)
 ```encounter-table
 name: Urhag

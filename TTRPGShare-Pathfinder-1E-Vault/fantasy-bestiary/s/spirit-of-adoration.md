@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spirit of Adoration
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,13 +76,13 @@ sources:
     desc: 90
 desc_short: This armored woman appears to be carved from living marble, her angelic wings rising behind the shape of a heavenly warrior. In one hand she grips a fearsome glaive, every movement of which paints the air around her with swirls and f lourishes of magical energy.
 ```
-# Description
+## Description
 The Spirit of Adoration is among Shelyn’s greatest servants, an intelligent personification of true love, whose power lifts the heaviest heart and overcomes all obstacles. She rarely comes to the mortal world, and it is even rarer for her to enter battle, but when that time comes, it is said that there is nothing she cannot bend or break in pursuit of her goal.
 
 The spirit’s true form is that of a 10-foot-tall, angel-winged woman-usually a human but sometimes an elf- dressed in flowing clothes and bearing a shining steel glaive. When interacting with easily frightened mortals (especially children), she uses her shapechanging powers to look like a human or elf of normal height, attractive according to the standards of the local people, but she never makes herself so beautiful as to cause jealousy or inspire inappropriate comments or attention.
 
 When not carrying out Shelyn’s will, the spirit enjoys dancing in clouds, across lakes, and on mountaintops, whether on Golarion or Nirvana, ignoring the occasional bolt of lightning that strikes her.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spirit%20of%20Adoration)
 ```encounter-table
 name: Spirit of Adoration

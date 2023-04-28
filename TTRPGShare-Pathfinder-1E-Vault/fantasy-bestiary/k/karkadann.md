@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Karkadann
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 148
 desc_short: A single wicked horn grows from the forehead of this stocky, oryx-like creature.
 ```
-# Description
+## Description
 Karkadanns roam the barren and wind-swept deserts of the world where their deep bellows can be heard for miles. Their solitary horns have led many to assume that they are a breed or variant of unicorn, but karkadanns bristle at that claim.
 
  Known for their aggression and physical power, karkadanns are proud warriors that rarely back down from a fight. They readily charge into combat, seeking to impale their foes on their wicked horns. Legend says that the only thing that can calm an enraged karkadann is the song of a ring dove.
 
  Some desert travelers seek out karkadanns because of their mystical ability to purge a creature of toxins. Many a traveler stung by a giant scorpion or bitten by a viper hopes for nothing more than to come across a karkadann. This treatment isn’t granted lightly. Karkadanns are narcissistic and self-serving, so they often demand outlandish favors in return for curing a poisoned creature. They size up what the person can reliably pay and demand just a bit more. Some alchemists, however, have learned that the ability to purge poisons isn’t just supernatural, and that some part of that power lies within the karkadann’s devious horn.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Karkadann)
 ```encounter-table
 name: Karkadann

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 84
 desc_short: Doubtlessly once an impressive piece, time and cracks mar the sculpted stone visage of some sneering lord. Flecks of onyx glisten within its eyes, gazing across the gulf into ages past.
 ```
-# Description
+## Description
 Rarely seen in civilized lands, stone idols rest among the ruins of ancient civilizations, the sole inheritors of incredible secrets and lost lore. Sculpted in the images of forgotten lords and mythic beasts, these statuettes transfix their foes with a suggestion of what wonders their polished eyes might once have witnessed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stone)
 ```encounter-table
 name: Stone

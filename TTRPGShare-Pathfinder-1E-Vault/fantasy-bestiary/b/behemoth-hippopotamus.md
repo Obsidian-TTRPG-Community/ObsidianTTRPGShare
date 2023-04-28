@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Behemoth Hippopotamus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 157
 desc_short: This immense behemoth of a hippo is larger than an elephant. Its teeth are like scimitars, and it moves with an indomitable gait.
 ```
-# Description
+## Description
 The behemoth hippopotamus is a true monster. Standing taller than an elephant, this animal has few enemies in the natural world-even dinosaurs and dire crocodiles avoid fights with them. Making them even more dangerous is the fact that they are practically carnivores-while not above eating plant matter, they devour carrion or foolish creatures that come too close.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Behemoth%20Hippopotamus)
 ```encounter-table
 name: Behemoth Hippopotamus

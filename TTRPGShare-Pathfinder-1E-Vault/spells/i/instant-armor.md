@@ -1,25 +1,27 @@
 ---
-alias: Instant Armor
+aliases: [Instant Armor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Instant Armor 
+## Instant Armor
 
 **source**:: Advanced Player's Guide pg. 229  
 **school**:: conjuration (creation) (force)
 **level**:: cleric 2, oracle 2, paladin 2, psychic 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 You instantly wrap your body in a suit of armor made from opaque force. At your option, the armor can be decorated with your religion’s holy symbol in a prominent place, such as upon the breastplate or helm. While it exists, this armor replaces any garments or other sort of armor worn, magical as well as mundane. You lose access to, and all benefits from, armor replaced by this spell until the spell ends and the instant armor disappears.  
   

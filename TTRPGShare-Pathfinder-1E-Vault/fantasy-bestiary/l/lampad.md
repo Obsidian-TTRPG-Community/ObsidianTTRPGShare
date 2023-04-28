@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lampad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 178
 desc_short: Tears stream from this beautiful but sullen creature’s eyes, forming a puddle beneath her delicate feet.
 ```
-# Description
+## Description
 Dark and moody cousins to nymphs, lampads sulk along natural caverns and dank tunnels, their weeping cries echoing through the darkness. These creatures are often found carrying light in caverns and dungeons, drawing creatures to them like moths to flame. Though they prefer the darkness, they know that exposing their forms under bright conditions gives them an edge over creatures viewing them.
 
 Just as nymphs guard nature’s purest places and dryads protect their sacred trees, lampads watch over the dark places of the world. They speak to the stone that forms their murky world, and their forlorn cries ring out through the belly of the earth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lampad)
 ```encounter-table
 name: Lampad

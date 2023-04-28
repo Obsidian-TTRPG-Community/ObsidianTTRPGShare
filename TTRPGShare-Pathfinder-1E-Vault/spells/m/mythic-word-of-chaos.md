@@ -1,19 +1,21 @@
 ---
-alias: Mythic Word of Chaos
+aliases: [Mythic Word of Chaos]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Word of Chaos
+## Mythic Word of Chaos
 
 **source**:: Mythic Adventures pg. 112  
 **school**:: evocation (chaotic, sonic)
 **level**:: cleric 7, inquisitor 6, oracle 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: nonchaotic creatures in a 40-ft. radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Word of Chaos
 **saving-throw**:: none or Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Any nonchaotic creature within the area of a *word of chaos* spell suffers the following ill effects, depending on their HD.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Honorable Outcast
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 112
 ```
-# Description
+## Description
 Honorable outcasts are far from their homes and often found alone. Some have been questing in the wild for so long that they have lost any semblance of social graces and tact.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Honorable%20Outcast)
 ```encounter-table
 name: NPC Honorable Outcast

@@ -1,19 +1,21 @@
 ---
-alias: Deathwine
+aliases: [Deathwine]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Deathwine 
+## Deathwine
 
 **source**:: Rise of the Runelords Anniversary Edition pg. 418, Pathfinder \#5: Sins of the Saviors pg. 58  
 **school**:: necromancy
 **level**:: alchemist 2, arcanist 3, cleric 2, investigator 2, oracle 2, sorcerer 3, warpriest 2, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: 1 potion touched/level  
@@ -21,7 +23,7 @@ alias: Deathwine
 **saving-throw**:: none (object)
 **spell-resistance**:: no (object)
 
-### Description 
+### Description
 
 This spell allows you to turn a potion into a temporary pool of necromantic energy. Only a potion created using a conjuration (healing) spell can be affected by this spell. An affected potion turns dark red and reveals a necromantic aura if *detect magic* is cast on it while it remains under this spell’s effects.  
   

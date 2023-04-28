@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lion Alebrije
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 70
 desc_short: This lion’s fur is a kaleidoscope of geometric patterns and bright colors. Large, vibrant butterfly wings sprout from its back.
 ```
-# Description
+## Description
 Alebrijes travel through dreams, visiting creatures as they sleep in hopes of answering questions, jogging memories, or providing inspiration. Alebrijes can take the shape of any animal or magical beast found throughout the Material Plane, though they have unique colorations and patterns all over their bodies, and some grow wings. These colorations typically include bright, vibrant hues and decorative patterns like spirals and stripes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lion%20Alebrije)
 ```encounter-table
 name: Lion Alebrije

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Terraformer Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 209
 desc_short: This large robot’s arms end in an assortment of drills, torches, hammers, and vices.
 ```
-# Description
+## Description
 Terraformer robots are sent to planets to pave the way for military bases, trading outposts, or settlements. A planet designated as a waystation might require only a few robots, but those marked for permanent habitation might have their skies darkened by hordes of terraformers, forming a hovering lattice around the globe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Terraformer%20Robot)
 ```encounter-table
 name: Terraformer Robot

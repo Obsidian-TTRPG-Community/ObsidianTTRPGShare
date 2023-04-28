@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jerboa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 198
 desc_short: This small, sand-colored rodent has long hind legs and large ears. Its tufted tail is longer than the animal itself.
 ```
-# Description
+## Description
 Jerboas are desert rodents that live in burrows and hop around on long, thin legs. At night, they emerge from their burrows to eat plants and hunt insects under the light of the moon. Jerboas generally live to be around 6 years old.
 
 A jerboa is 6 inches long, has a 1-foot-long tail, and weighs between 1 and 3 ounces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jerboa)
 ```encounter-table
 name: Jerboa

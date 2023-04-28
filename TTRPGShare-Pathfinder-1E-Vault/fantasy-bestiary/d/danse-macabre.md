@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Danse Macabre
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 80
 desc_short: Dozens of ghostly figures swirl and cavort, floating through the air as they follow the steps of an ancient, rhythmic dance- seemingly keeping time with the ebb and flow of life itself. Amid this eerie crowd of dancing specters looms a dark-cloaked figure wielding a scythe.
 ```
-# Description
+## Description
 Danse macabres are the embodiment of the inevitability of death. They represent the ultimate equalizer of station, revealing in their dance of death the futility of all life. It has been said that, in the end, all mortal beings must face the fateful piper and dance to its tune. If such claims are true, then surely the danse macabre is the personification of such a dreadful doom.
 
  Danse macabres typically manifest as looming, black-cloaked skeletons, although they may appear in other sinister forms depending on personifications of death unique to the cultures near where they manifest, such as a fiery pillar, a pale child, or a man in a white mask. The crowd of dancing souls that surround these 10-foot-tall specters typically do little to dispel their ominous aura. While these ghostly images are entirely insubstantial and harmless, they also emanate faint, haunting music, as if a violin-led orchestra is playing along. When a victim succumbs to the creature’s dance of death, the music becomes nearly deafening and the spectral figures appear almost real. The dancers and music cannot be interacted with, but visibly and audibly mark the boundaries of the danse macabre’s dance of death aura.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Danse%20Macabre)
 ```encounter-table
 name: Danse Macabre

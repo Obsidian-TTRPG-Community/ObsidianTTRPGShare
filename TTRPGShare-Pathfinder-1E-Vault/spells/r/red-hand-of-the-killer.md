@@ -1,19 +1,21 @@
 ---
-alias: Red Hand of the Killer
+aliases: [Red Hand of the Killer]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Red Hand of the Killer 
+## Red Hand of the Killer
 
 **source**:: Ultimate Intrigue pg. 223  
 **school**:: necromancy
 **level**:: arcanist 5, bard 4, cleric 4, inquisitor 4, medium 3, occultist 4, oracle 4, paladin 4, psychic 5, skald 4, sorcerer 5, spiritualist 4, warpriest 4, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a black candle), F (a corpse slain no more than 1 day ago per caster level)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Red Hand of the Killer
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Drawing upon the spiritual link between a corpse and its killer, you reach out across space to brand the killer of the corpse you used as a focus for this spell, creating a physical manifestation of the killer’s guilt.  
   

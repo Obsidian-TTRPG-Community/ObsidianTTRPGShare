@@ -1,19 +1,21 @@
 ---
-alias: Withdraw Affliction
+aliases: [Withdraw Affliction]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Withdraw Affliction 
+## Withdraw Affliction
 
 **source**:: Occult Adventures pg. 191  
 **school**:: necromancy
 **level**:: psychic 6, shaman 6, spiritualist 5, witch 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one afflicted creature  
@@ -21,7 +23,7 @@ alias: Withdraw Affliction
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You push your hand into the subject, then withdraw an affliction from the body of the sufferer as a tangible object. This extraction appears as a slimy mass of flesh. The target creature is cured as if affected by *remove disease*, *remove curse*, or *neutralize poison*.  
   

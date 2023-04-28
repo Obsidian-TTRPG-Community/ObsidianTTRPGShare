@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coffin Anemone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 248
 desc_short: This coffin-shaped anemone features a ridged, dark brown trunk topped with waving yellow tendrils surrounding a soft, pale blue center.
 ```
-# Description
+## Description
 Named for its distinctive oblong shape, the coffin anemone is well-suited to swallow its favored prey: swimming humanoid creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coffin%20Anemone)
 ```encounter-table
 name: Coffin Anemone

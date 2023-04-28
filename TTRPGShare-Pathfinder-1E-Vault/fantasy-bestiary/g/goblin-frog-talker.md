@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Frog-Talker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
   - name: Monster Codex
     desc: 110
 ```
-# Description
+## Description
 Frog-talkers are among the most feared of all goblins; most don’t even want to be on the good sides of these witches. Frog-talkers are cruel and fearless masters. It’s said the frog-talkers bathe in mud and leeches every fortnight to renew their dedication to their patron, the god of filth and blood-and based on their pale complexions and emaciated frames, few doubt it. These mysterious witches often live alone, or surround themselves with acolytes and terrified goblin minions given to them by superstitious chieftains.
 
  No two goblins will give you the same answer about why they fear frog-talkers. Some legends claim that the frog-talkers aren’t real goblins, but swamp ghosts in disguise. Others claim that they’re indeed goblins, but controlled by hideous brain-leeches that have wriggled into their ears. And still others say that worshiping the filth god is scary enough on its own.
 
  Regardless of what their origins may be, frog-talkers are powerful spellcasters who vomit up swarms of swamp creatures to do their bidding and fry disobedient minions with sizzling lightning. The only mortal creatures a frogtalker seems to truly respect are (naturally) frogs, and most keep a frog or toad on their person at all times. But the most worrying aspect of frog-talkers is that they don’t appear to feel fear-an otherwise omnipresent aspect of goblin life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Frog-Talker)
 ```encounter-table
 name: Goblin Frog-Talker

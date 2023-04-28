@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Megaloceros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 80
 desc_short: The massive and majestic elk stands fully the height of a human at its shoulder, and its antlers stretch over ten feet across.
 ```
-# Description
+## Description
 The megaloceros is a powerful and enormous elk, also known as a “great elk” or “king stag.” It stands about 6 feet tall at the shoulder and has antlers spanning up to 12 feet. It weighs 1,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Megaloceros)
 ```encounter-table
 name: Megaloceros

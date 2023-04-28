@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shield Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 31
 desc_short: This armored giant is sheathed in metal from head to toe. One arm ends in a spear-like blade, the other in a massive shield. 
 ```
-# Description
+## Description
 Shield archons are the mighty rocks of celestial armies, withstanding waves of demons and devils without complaint. Though more than capable of tearing apart lesser demons and devils, their true strength lies in their ability to shrug off deadly attacks from superior opponents, giving their offense-oriented allies time to flank and overwhelm their mutual foes. Shield archons are 9 feet tall and weigh 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shield%20Archon)
 ```encounter-table
 name: Shield Archon

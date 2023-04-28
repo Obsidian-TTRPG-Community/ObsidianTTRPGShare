@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Axiomite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 56
 desc_short: As this lithe humanoid moves, its flesh shimmers and wavers, temporarily breaking apart into motes of shimmering light. 
 ```
-# Description
+## Description
 Stewards of ancient, colossal cities on lawful planes, axiomites represent the fundamental search for order. According to their own history, the first axiomites sprang from the raw mathematical underpinnings of the cosmos long before the first gods began to stir-they are personifications of a primordial reality made flesh in an attempt to understand itself. New axiomites are formed from souls much like celestials or fiends, with spirits drawn across the planes to one of the axiomites’ humming crystal monoliths, emerging later as purified creatures of law and theory. 
 
 A particular axiomite may look like any humanoid-shaped creature, though the particular form does not affect its abilities in any way. Beneath this form, all axiomites are the same-clouds of glowing, crystalline dust that constantly swirl and congeal into complex tangles of symbols and equations, making them literally creatures of pure mathematical law. 
 
 Axiomite society is broken into three divisions, each with its own duty and purpose. One devotes itself to the construction and maintenance of inevitables, another to the expansion and construction of their capital city, and the third to continuing the exploration and calculation of the laws and constants that underlie all of reality. Their leader is a gestalt mind formed by the greatest individuals of their race, forming when needed and then dispersing into its component axiomites to put the god-mind’s plans into action.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Axiomite)
 ```encounter-table
 name: Axiomite

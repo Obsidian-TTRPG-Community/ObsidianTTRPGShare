@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll Monarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
   - name: Monster Codex
     desc: 231
 ```
-# Description
+## Description
 Most monarchs claim large territories and dominion over a dozen troll tribes within that area, but only rarely do they call these minions together into a single place, for they know that too many hungry troll bellies in close proximity means over-hunting and starvation.
 
 Though female trolls control troll groups in most cases, troll monarchs may be male or female-female trolls have more access to training and more political savvy as a result of their communal upbringing, but male trolls sometimes benefit from unusual experiences gained during their years of relative isolation. Either way, would-be monarchs tell audacious lies and exaggerate their accomplishments to win followers, drawing their gullible fellows in.
 
 Word spreads quickly once one becomes dominant. Wild tales make the monarch sound far more powerful than he truly is, exaggerating his size and appetite, and often claiming he is impervious to acid and fire. Troll monarchs typically add an epithet to their names, such as “the Firewalker,” “the Green,” or “the Many-Fanged.”
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll%20Monarch)
 ```encounter-table
 name: Troll Monarch

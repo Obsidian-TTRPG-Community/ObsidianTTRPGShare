@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Legion Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 19
 desc_short: This celestial knight bears a flaming blade as it flies through the air on metallic wings that seem to grow from its armor.
 ```
-# Description
+## Description
 Where shield archons are the bulwarks of the armies of Heaven, legion archons are the swords, sent in file after file to match evil’s boundless hordes.
 
 Legion archons stand 6-1/2 feet in height and weigh 200 pounds. Beneath their helmets and armor, they have pale or nearly jet-black hairless skin. Their eyes burn bright with the flames of their faith, flaring brightest when they conjure forth their weapons. Regardless of the armor they choose to wear, their metallic wings merge with and extend beyond the armor, allowing them flight even when wearing the heaviest of protection.
 
 Despite their warlike mien, legion archons prefer errands of peace and mercy. Their masters dispatch unarmed legion archons as celestial envoys, though still clad in their heavenly armor. In this fashion, they spread the word and love of Heaven to widely scattered realms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Legion%20Archon)
 ```encounter-table
 name: Legion Archon

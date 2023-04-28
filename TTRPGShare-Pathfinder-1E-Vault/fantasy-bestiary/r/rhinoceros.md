@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rhinoceros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 235
 desc_short: This rhinoceros has a low-slung head with twisted ears that lie back along its neck.
 ```
-# Description
+## Description
 The rhinoceros feeds on leafy plants, branches, and even thorny shrubs. Its thick hide is a mottled gray color, and it can run surprisingly fast for a beast of its size. The rhinoceros is notoriously short-tempered and prone to attacking anything it perceives as approaching too closely (generally within a distance of 80 feet-the distance of a single charge-for most rhinos).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rhinoceros)
 ```encounter-table
 name: Rhinoceros

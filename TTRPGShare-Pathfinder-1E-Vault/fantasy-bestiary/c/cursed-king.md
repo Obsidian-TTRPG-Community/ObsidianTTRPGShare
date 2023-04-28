@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cursed King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 63
 desc_short: This desiccated figure wears linen wrappings and tarnished jewelry. Its humanoid body is topped with a withered crocodile head.
 ```
-# Description
+## Description
 Pharaohs punish disloyal subjects in horrific ways, especially usurpers, rebel leaders, and false prophets who attempt to subvert the order of the nation and the loyalty of the ruler’s other followers. After torture and decapitation, the rebels’ souls are bound back into their mutilated bodies, transforming them into mummified mockeries of ambition and authority that exist for eternity in unliving agony.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cursed%20King)
 ```encounter-table
 name: Cursed King

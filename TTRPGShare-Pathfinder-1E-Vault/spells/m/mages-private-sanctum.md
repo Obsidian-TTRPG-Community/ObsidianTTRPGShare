@@ -1,19 +1,21 @@
 ---
-alias: Mage's Private Sanctum
+aliases: ["Mage's Private Sanctum"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mage's Private Sanctum 
+## Mage's Private Sanctum
 
 **source**:: PRPG Core Rulebook pg. 307  
 **school**:: abjuration
 **level**:: arcanist 5, medium 4, mesmerist 5, psychic 5, sorcerer 5, spiritualist 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a sheet of lead, a piece of glass, a wad of cotton, and powdered chrysolite)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: 30-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Mage's Private Sanctum
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell ensures privacy. Anyone looking into the area from outside sees only a dark, foggy mass. Darkvision cannot penetrate it. No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside. Those inside can see out normally.  
   

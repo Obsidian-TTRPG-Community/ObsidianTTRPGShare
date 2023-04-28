@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dretch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 60
 desc_short: This creature’s bloated frame shudders with each heaving step, yet despite its shape, the thing moves with surprising quickness.
 ```
-# Description
+## Description
 Even the lowest demons of the Abyss are dangerous and filled with a driving need to spread ruin and dismay. The lowly dretch is as hideous and foul as it is cruel, even if it lacks the strength and power to realize its need to brutalize others in its native realm. The lot of the dretch’s existence is to serve more powerful demons as victims, and only the lucky few survive long enough to evolve.
 
 The dretch is a favorite target for dabblers in Abyssal summonings to call forth. Relatively weak and easy to bully, dretches can often be pressured into long periods of servitude with only vague promises of the opportunity to vent their frustrations and anger on softer foes. Yet the prospective dretch-summoner would do well to remember that these demons are as craven and untrustworthy as they come. A dretch faced with a more powerful foe is only too eager to trade what it knows for its pitiful excuse for a life.
@@ -57,7 +59,7 @@ The dretch is a favorite target for dabblers in Abyssal summonings to call forth
 Unlike most demons, a dretch’s slovenly personality and disdain for prolonged physical labor rarely result in success. Advanced dretches are rare, but those who do find it within themselves to be more than they were at creation often become the pauper-kings of the Abyss, cruel and bitter in their rule over vermin, broken souls, mindless undead, and other dretches. Their empires are confined to abandoned stretches of sewers under backwater cities, unstable reaches of swampland avoided by more sensible minds, and other undesirable corners of the Abyss that even demons find uncomfortable or foul. Yet to the dretch lords, these realms are their empires, and they defend them with a pitiful tenacity.
 
 A dretch stands 4 feet tall and weighs 180 pounds. Dretches typically form from the souls of slothful, evil mortals-yet it only takes a small fragment of a soul to trigger such a hideous birth. A single soul can often trigger the manifestation of a small army of dretches, and the sight of a horde of fresh-birthed dretches pulling free from the heaving protomatter of the Abyss is a nauseating and terrifying one indeed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dretch)
 ```encounter-table
 name: Dretch

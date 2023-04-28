@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kallas Devil
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 32
 desc_short: Growing from the back of a horselike beast is the torso of a sea hag with grossly elongated arms and large, clawed hands. Its tangled web of stringy hair does not hide the disturbing fact that the hideous creature has no skin, and is built of gore and viscera. 
 ```
-# Description
+## Description
 This nuckelavee is even more hideous than usual because its torso is that of a sea hag, whose skinless head somehow retains a mess of hairlike knotted seaweed that flails behind it as the creature gallops furiously across the land. The creature dwells in Kallas Lake at the southern tip of the River Kingdoms and terrorizes the nearby town of Riverton, where humans and half-elves survive by fishing and guiding travelers along the branches of the Sellen. It mighty hooves also pound along the riverbank as far west as Tymon and as far east as the Creeperwood, bringing plague and death to those who despoil the waters. 
 
 The influence of its hag torso drives the beast to want to clothe itself in skin. Other nuckelavees keep trophies of their kills, but the Kallas Devil flays its quarry to create a patchwork cloak of flesh that it drapes over its upper body. The husk of skin tears easily, so the devil requires a steady supply of victims to maintain its appearance. Some villages that suffer under its vengeance try to appease it by staking out criminals and other undesirables for its pleasure. The fey terror takes these sacrif ices but shows no favor to its supplicants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kallas%20Devil)
 ```encounter-table
 name: Kallas Devil

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Shen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -89,7 +91,7 @@ sources:
   - name: Bestiary 5
     desc: 230
 ```
-# Description
+## Description
 Shen are mysterious and aloof dragons, more potent and enigmatic than their imperial dragon cousins. A shen is rarely found in its true form, preferring to appear as a bird, a shellfish, or even a pearl. Its true form is that of an enormous serpentine dragon, adorned with green and gold glistening scales. A shen is a creature in constant motion, as it writhes and wiggles its long body into a pattern of scintillating twirls and intricate knots.
 
  Typically benevolent, shen have been known to answer prayers for rain when the gods turn a deaf ear and even to herd fish into the nets of needy fisherfolk. These proud creatures can become capricious and even petty, however, when they believe they have been slighted or treated with disrespect. Such transgressions can seem random: eating a swallow (a shen’s favorite food), trespassing in a shen’s hunting grounds on special ceremonial days, and committing acts of petty vandalism can all draw a shen’s wrath. For this reason, some philosophers suggest shen are creatures of balance seeking to maintain the natural order. They bring about an early thaw to a harsh winter or destroy creatures preying on local villages to return everything to a state of balance. Regardless of what their motivations are, most people fear and respect them. More often than not, unusual good or bad fortune is attributed to shen.
@@ -105,7 +107,7 @@ Shen are mysterious and aloof dragons, more potent and enigmatic than their impe
  To protect their treasures, shen create immense mirage castles on or in the bodies of water they call home. These castles are often huge, encompassing dozens of empty rooms bedecked in illusory silks and gold, opulent dining halls outf itted with phantasmal furniture, and massive antechambers illuminated by simulated chandeliers. No one understands exactly why these creatures choose to model their mirage homes after human dwellings, and often the surface resemblance only serves to further confuse and befuddle visitors.
 
  Despite being solitary creatures, shen socialize more often than many other types of dragons, and on occasion conspire along with fellow shen to accomplish some great task or deed. Though such groups rarely interfere with the more ephemeral races, they are known to show pity in times of great need and have delivered much needed rains during drought or rid the areas neighboring their homes of some particularly bothersome creatures. Because of this and out of fear for the great beasts, local peoples give shen considerable reverence, and pay the dragons tribute with sacrifices or treasure.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Shen)
 ```encounter-table
 name: Mythic Shen

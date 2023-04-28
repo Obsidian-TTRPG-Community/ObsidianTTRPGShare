@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sargassum Fiend
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 235
 desc_short: This shifting mass of green seaweed transforms from the shape of a humanoid back to a patch of algae, continually changing.
 ```
-# Description
+## Description
 A sargassum fiend is a free-floating mass of intelligent seaweed capable of luring its victims to their deaths via a powerful hallucinogenic pheromone. Once the sargassum fiend lures prey within striking distance, it grabs the entranced creature and attempts to crush it to death. Experienced sailors tell tales of entire crews jumping overboard to swim out to a murderous field of the sea plants.
 
 The strange pheromone produced by a sargassum fiend can be harvested from the numerous bulbs that grow within the fiend’s body, but these bulbs rot quickly once harvested. A fresh bulb lasts for 1 hour before becoming useless; until that point it can be crushed as a standard action to produce a mirage effect as detailed above. A single sargassum fiend generally has 1d6 bulbs of musk when slain-harvesting one requires a DC 29 Survival check. To date, no alchemical or magical process has successfully preserved this musk.
 
 Sargassum fiends usually reach sizes up to 10 feet in diameter before splitting, their means of asexual reproduction. Mutations have been known to exist, however, and sea-faring scholars have recorded individual sargassum fiends reaching masses of truly enormous size, up to Colossal. Such enormous sargassum fiends can be created by advancing their Hit Dice by a minimum of 5 HD per size increase step.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sargassum%20Fiend)
 ```encounter-table
 name: Sargassum Fiend

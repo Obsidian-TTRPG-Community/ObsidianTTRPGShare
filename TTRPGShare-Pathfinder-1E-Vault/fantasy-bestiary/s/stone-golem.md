@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stone Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 163
 desc_short: This towering stone automaton bears the likeness of an archaic, armored warrior. It moves with ponderous but inexorable steps.
 ```
-# Description
+## Description
 A stone golem has a humanoid body made from stone, frequently stylized to suit its creator. For example, it might look like it is wearing armor, with a particular symbol carved on the breastplate, or have designs worked into the stone of its limbs. Its head is often carved to resemble a helmet or the head of some beast. While it may be sculpted to carry a stone shield or stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.
 
 Like most golems, a stone golem cannot speak and makes no sound other than the grinding of stone against stone when it moves. A stone golem is 9 feet tall and weighs around 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stone%20Golem)
 ```encounter-table
 name: Stone Golem

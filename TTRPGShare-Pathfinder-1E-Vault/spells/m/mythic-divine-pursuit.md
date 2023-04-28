@@ -1,25 +1,27 @@
 ---
-alias: Mythic Divine Pursuit
+aliases: [Mythic Divine Pursuit]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Divine Pursuit
+## Mythic Divine Pursuit
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: transmutation
 **level**:: inquisitor 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level; see text
 
-### Description 
+### Description
 
 Select one creature within 60 feet that you have damaged. If that creature has a burrow, climb, fly, or swim speed, you gain that form of movement for the duration of the spell at the same speed and maneuverability as the selected creature. If this gives you the burrow or swim speed, you can breathe while burrowing or swimming. If the creature moves 1,000 feet or more from you, the spell ends. If the creature has more than one of these types of movement, you select one from the types available to the creature.
 

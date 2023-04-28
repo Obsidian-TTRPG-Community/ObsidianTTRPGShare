@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Vulture
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 284
 desc_short: A wickedly hooked beak and an immense bald head draw attention from this enormous scavenger’s vast wingspan.
 ```
-# Description
+## Description
 Larger even than condors, giant vultures dwell only in regions where carrion is both large and plentiful, such as the primeval wildernesses where megafauna roam. They also flock to regions torn by war, feasting on the dead with no concern for allegiance or race. Giant vultures rarely wait for wounded creatures to finish dying before they feed, and are much braver than most wild animals. A giant vulture, for example, wouldn’t think twice about swooping down on a heavily armored column of soldiers just to snatch up a few wounded stragglers from the end of the line.
 
 A giant vulture stands more than 13 feet tall, has a wingspan of over 30 feet, and weighs 500 to 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Vulture)
 ```encounter-table
 name: Giant Vulture

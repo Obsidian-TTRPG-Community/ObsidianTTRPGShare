@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Sea Snake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 59
 desc_short: This great, writhing aquatic beast is pale blue with bright yellow stripes, and possesses a f lipperlike tail to aid it as it swims.
 ```
-# Description
+## Description
 The giant sea snake is one of the biggest reasons many sailors of the Shackles have a downright visceral and phobic response to the thought of falling overboard. These patient predators are known to follow sailing ships, swimming just below the surface of the water while they wait for the opportunity to strike at any unfortunate crew members who might fall over the side. Particularly hungry giant sea snakes have been known to climb the side of a vessel and snatch unwary sailors right from the deck.
 
 Giant sea snakes typically reach up to 30 feet in length and weigh 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Sea%20Snake)
 ```encounter-table
 name: Giant Sea Snake

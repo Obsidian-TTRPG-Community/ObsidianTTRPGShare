@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kaprosuchus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 170
 desc_short: This massive, squat crocodilian has forward facing eyes, jutting teeth, and a pronounced snout.
 ```
-# Description
+## Description
 Despite its close resemblance to other types of crocodilians, the kaprosuchus is a terrestrial predator, not an aquatic one. Squat and powerfully built, these creatures hunt for prey in forests. The adults can grow up to 20 feet long and weigh as much as 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kaprosuchus)
 ```encounter-table
 name: Kaprosuchus

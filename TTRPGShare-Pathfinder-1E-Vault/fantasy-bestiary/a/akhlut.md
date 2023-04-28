@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akhlut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 11
 desc_short: A dorsal fin rises up from the back of this immense black-and-white-furred, wolflike beast.
 ```
-# Description
+## Description
 Resembling nothing so much as a killer whale mixed with a wolf, the rarely seen akhlut stalks frigid seas and the frozen lands nearby, shrouded by perpetual blizzards. Legend holds that the first akhlut was born fully-formed in the eye of a polar hurricane, the merciless anger of the elements made flesh. Whether or not the tale is true, the akhlut’s ferocity is certainly as memorable as that of any storm.
 
 While the akhlut appears as a wolf-orca hybrid on land, when it enters the water, its legs and fur vanish and it transforms fully into the form of an orca. Akhluts are particularly skilled at charging into and out of water, their transformation between shapes occurring in the blink of an eye.
@@ -73,7 +75,7 @@ While the akhlut appears as a wolf-orca hybrid on land, when it enters the water
 Each akhlut fiercely defends its hunting grounds from other predators, and especially against other akhluts. While this does reduce the number of dangerous predators in a region, it’s unclear whether replacing lesser predators with something as dangerous as an akhlut is actually preferable. Typically, an akhlut considers its territory to be the boundaries of the storm created by its control weather spell-like ability, and rarely travels far from this storm’s borders.
 
 An akhlut is 22 feet long and weighs 8,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akhlut)
 ```encounter-table
 name: Akhlut

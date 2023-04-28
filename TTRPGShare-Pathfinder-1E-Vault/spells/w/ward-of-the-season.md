@@ -1,19 +1,21 @@
 ---
-alias: Ward of the Season
+aliases: [Ward of the Season]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ward of the Season 
+## Ward of the Season
 
 **source**:: Advanced Race Guide pg. 29  
 **school**:: abjuration
 **level**:: cleric 4, druid 3, hunter 3, oracle 4, ranger 3, shaman 3, warpriest 4, witch 3 (elf)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Ward of the Season
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell harnesses the power of the seasons to protect the target and grant a number of bonuses. This spell has one of four different effects. The caster of the spell can select any one of the following four effects, but can change the effect as a standard action that reduces the total remaining duration by 1 hour.  
   

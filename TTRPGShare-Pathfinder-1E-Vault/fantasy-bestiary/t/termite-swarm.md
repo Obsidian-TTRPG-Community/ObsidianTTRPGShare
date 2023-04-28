@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Termite Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 242
 desc_short: The ground teems with crawling termites, biting and stinging as they come.
 ```
-# Description
+## Description
 Termite swarms are the bane of architects and engineers in warm climes. They live in mounds and nests, devouring growing plants, decaying logs, and wooden structures alike from the inside out, and can quickly bring down even a solidly constructed building. They are nearly impossible to eradicate, and react with violence when their mounds are threatened.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Termite%20Swarm)
 ```encounter-table
 name: Termite Swarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ursikka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 88
 desc_short: This insectlike creature is covered in downy white fur. A pair of eyes gleams above a three-part mouth that drips viscous f luid.
 ```
-# Description
+## Description
 Ursikka are vicious apex predators that rule vast arctic territories. Held aloft by four slender legs, on which they skitter with unsettling speed, ursikka can reach heights of 25 feet, with a long, lean abdomen accounting for most of their 20-foot length. Their grasping forearms each end in a sharp pincer capable of shearing f lesh from bone, and shaggy fur covers the majority of their bodies. The ursikka’s most unusual trait, however, is a three-part maw that can open wide enough to swallow humans whole. Freezing saliva drips constantly from these gnashing mandibles, injuring and trapping prey. With only a bestial intellect, ursikka view all smaller creatures as food, and think nothing of invading and devouring entire humanoid communities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ursikka)
 ```encounter-table
 name: Ursikka

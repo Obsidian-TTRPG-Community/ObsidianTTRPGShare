@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Devil’s Perch Rebel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 18
 ```
-# Description
+## Description
 The native strix of Cheliax’s western coast have resided in the rocky spires of Devil’s Perch for centuries, but with the rise of House Thrune, these isolationist humanoids have been forced to take a more active role in defending their ancestral lands from the diabolical empire. Although they seldom leave their rugged home, the strix jealously guard their territory, and more than one Chelish army patrol or arrogant Hellknight has vanished in the jagged hills of Devil’s Perch.
 
 The strix joined forces with Aspex the Even-Tongued to free Cheliax from Taldan hegemony in 4081 AR, but following the Even-Tongued Conquest, the winged folk retreated back to their mountainous strongholds rather than join the new nation of Cheliax. Now they only want to be left alone, but centuries of foul rumors and grisly tales have made the strix into feared and hated bogeymen for their Chelish neighbors-a hatred that the strix do not hesitate to return in kind. Those strix witches who make pacts with dark forces are perhaps the most feared of all Devil’s Perch rebels, for their hexes and arcane magic allow them to inf iltrate their enemies and pick them off one by one in darkness and silence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Devil%E2%80%99s%20Perch%20Rebel)
 ```encounter-table
 name: NPC Devil’s Perch Rebel

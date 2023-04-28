@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dog Rider Knight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
   - name: NPC Codex
     desc: 115
 ```
-# Description
+## Description
 There is no description for this NPC.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dog%20Rider%20Knight)
 ```encounter-table
 name: NPC Dog Rider Knight

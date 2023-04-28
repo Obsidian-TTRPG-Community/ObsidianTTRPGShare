@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightmare Ettercap
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 204
 desc_short: This strange humanoid looks like a gangly, distorted caricature of an ettercap, with spiderlike fingers and an enormous wicked grin.
 ```
-# Description
+## Description
 Nightmare creatures have an unnatural link to the most terrifying parts of the Dimension of Dreams, allowing them to turn others’ dreams into nightmares and sow fear even in the waking world. Corrupted by their power, they become evil and use their abilities to torment their enemies and abuse creatures weaker than themselves. Eventually this dream connection corrupts the creature’s appearance into a bizarre caricature of its original form.
 
 A nightmare creature uses its ability to control dreams to confuse and frighten its target with horrendous imagery- visions of failure or betrayal and horrific scenes of murder and death. A nightmare creature may even allow the target to think it is in control of the dream or has awakened from a nightmare, only to snatch away that hope and send its target into a downward spiral of misery and self-doubt. The most wicked nightmare creatures tend to become ghosts if slain, returning again and again to haunt their chosen victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightmare%20Ettercap)
 ```encounter-table
 name: Nightmare Ettercap

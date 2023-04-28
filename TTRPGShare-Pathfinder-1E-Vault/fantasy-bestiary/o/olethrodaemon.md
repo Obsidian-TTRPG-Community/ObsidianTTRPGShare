@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Olethrodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 70
 desc_short: Crowned with a wicked array of twisted horns, this wide-mouthed, spherical behemoth stands on four stout legs. 
 ```
-# Description
+## Description
 While some of the more powerful daemons are servitors to one of the Four Horsemen, olethrodaemons serve as juggernauts for all of the Four. These massive creatures are the embodiment of death and destruction-the very vessels of apocalypse that daemons wish to see wrought upon the multiverse. These nihilistic behemoths roam the gray expanses of Abaddon, feasting on the souls of evil mortals damned to their realm. When on the Material Plane, olethrodaemons act as agents of destruction, spreading ruin and devouring mortal souls as they plow through cities and countrysides, bent on devastation. It’s rare for a mortal to be able to control such a potent force, but sometimes mad spellcasters utilize effects like gate to urge an olethrodaemon to visit a devastating holocaust upon an enemy region-the olethrodaemon generally does not hold a grudge against a mortal that asks such a service from it.
 
 These immense creatures stand over 25 feet tall and weigh close to 12,000 pounds, their powerful, muscular bodies covered by durable plates and head thronged with dangerous, twisted horns. Olethrodaemons stand on four stout legs, and possess an equal number of arms, each ending in wickedly sharp claws able to tear through stone as easily as flesh. The creature’s eyes, as well as its two mouths, glow like coals in a kiln. The creature feeds on souls and has multiple stomachs to digest mortal essences.
 
 While not as intelligent or scheming as many other powerful daemons (or other fiends who match their power, for that matter), olethrodaemons remain dangerous foes. They do not generally wish to lead armies and gain power by control, but rather to revel in the evil purity of annihilation. Among olethrodaemons, the greatest desire is to be the one to devour the very last mortal soul. They angle and shove for this honor, often ceding a city or group of victims to a rival if they believe that, in so doing, they might gain the advantage of positioning to consume the final soul once the multiverse has been devoured.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Olethrodaemon)
 ```encounter-table
 name: Olethrodaemon

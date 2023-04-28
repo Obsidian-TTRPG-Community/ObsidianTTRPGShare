@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Water Orm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 280
 desc_short: A reptilian head on a serpentine neck slowly surfaces. Shadows beneath the water hint at a body of considerable size.
 ```
-# Description
+## Description
 Just as sailors tell stories of sea serpents, so do denizens on the shores of remote lakes whisper of strange, secretive monsters lurking in the depths of these large bodies of water. Like sea serpents, proof of their existence is as elusive as the beasts themselves. Known as water orms and believed by some to be a strange link between linnorms and sea serpents, most locals refer to any such local monster (real or imagined) by a pet name or the name of the lake it calls home. Water orms are craftier than sea serpents, and generally inclined toward curiosity rather than violence. Nevertheless, a water orm does not hesitate to attack any creature it views as a threat to itself or its lake.
 
 Water orms are extremely long-lived. Several different variants have been reported. With sightings rare and unverifiable, it is unclear whether these are variations within a single species, or several unrelated creatures. Some are described as long-necked aquatic reptiles, some as fresh-water sea serpents, others as bizarrely elongated seals or whales, and still others as impossibly large sea horses. Most are 40 to 45 feet in length, and weigh 2,000 to 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Water%20Orm)
 ```encounter-table
 name: Water Orm

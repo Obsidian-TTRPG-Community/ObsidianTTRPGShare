@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coffin Guard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
   - name: Monster Codex
     desc: 238
 ```
-# Description
+## Description
 Only the most trusted of servants are given the position of a vampire’s coffin guard. This mortal stands watch over the vampire while his master is resting.
 
  The coffin guard isn’t just tasked with protecting his master. He snatches corpses and ingredients required for the vampire’s workings. He knows where to find many ingredients in the woods, away from the prying eyes of the city folk, though he’s not afraid to coerce those same city-dwellers into doing his bidding for him.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coffin%20Guard)
 ```encounter-table
 name: Coffin Guard

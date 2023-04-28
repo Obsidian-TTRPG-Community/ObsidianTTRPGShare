@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Street Artist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: NPC Codex
     desc: 31
 ```
-# Description
+## Description
 Street artists are active in urban politics, a little crazy, or both. Their art and messages delight some, but annoy landowners whose buildings become the artists’ medium.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Street%20Artist)
 ```encounter-table
 name: NPC Street Artist

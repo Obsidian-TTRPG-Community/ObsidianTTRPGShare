@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flowering Lattice
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 196
 desc_short: This scuttling patchwork plant features flowers of many different shapes and colors.
 ```
-# Description
+## Description
 The result of centuries of plant husbandry, flowering lattices are delicate networks of vines that form blossoming nets about 1 square foot in size. As many as 12 varieties of flower grow from an individual flowering lattice, with each bloom opening at different times of the year and hours of the day to ensure a nearly constant array of colorful petals. This plant’s enthusiasts often incorporate the organism into their fashion, draping them over the shoulders like a stole or over the head as a hood. These lattices require regular care, surviving on their own only in regions with rich soil and ample pollinators.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flowering%20Lattice)
 ```encounter-table
 name: Flowering Lattice

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deinotherium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 86
 desc_short: This creature resembles an elephant, though it has a shorter, thicker trunk and sharp, downward-curving tusks.
 ```
-# Description
+## Description
 Deinotheriums are in the same evolutionary family as the elephant, though these regal beasts have a far shorter temper than their more docile cousins. They are known to attack with very little provocation, charging targets and sweeping these foes under their gigantic feet to trample to death. While deinotheriums are herbivores, their quick tempers have given them a false reputation as man-eaters. They generally group into small family packs consisting of a calf and its parents. 
 
 A deinotherium stands 12 feet tall at the shoulder, measures 25 feet from trunk to tail, and weighs 30,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deinotherium)
 ```encounter-table
 name: Deinotherium

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bishop Agathion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 80
 desc_short: Layers of translucent, shimmering fins flow along this fishman’s spindly body. Tentacles curl below its stately mouth, and its humanlike hands and feet end in stubby but sharp claws.
 ```
-# Description
+## Description
 Possessing perhaps one of the strangest appearances of all agathions, bishops look as much like fish as they do humans. On their native plane of Nirvana, bishop agathions act as liaisons between the celestial generals of the lands and seas, though their activity is not restricted to Nirvana alone. Bishop agathions perform their duties anyplace their adaptive bodies are needed, such as on watery planes or worlds that are wholly aquatic. The few mortals who have met these noble creatures report that bishop agathions can traverse even the roughest and driest terrain as easily as they can glide through the deepest, most isolated oceans. It’s believed bishop agathions are born from the souls of mortals who led lives of harmonized duality on land and at sea-goodly sailors, ocean-hopping priests, or kindhearted fisherfolk all are said to be candidates for rebirth as these fascinating creatures.
 
 Bishop agathions’ striking coloration ranges from glittering silver to sparkling coral to smoky auburn and green. Layers of fine, translucent fins cascade down their bodies, and combine with the strange enzymes in their skin to give them the appearance of being perpetually wet. Bishops’ heads are rounded, tentacles grow like beards from their chins, and their eyes-which come in all the colors of the tumultuous waves-look like those of a fish, but with a distinguished glint. Bishops’ bodies vaguely resemble those of humans in shape, but webbing in their hands and feet facilitates deep-sea travel. Bishop agathions typically stand about 6 feet tall and weigh anywhere from 140 to 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bishop%20Agathion)
 ```encounter-table
 name: Bishop Agathion

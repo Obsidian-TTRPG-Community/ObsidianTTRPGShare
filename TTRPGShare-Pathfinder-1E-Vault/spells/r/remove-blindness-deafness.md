@@ -1,19 +1,21 @@
 ---
-alias: Remove Blindness/Deafness
+aliases: [Remove Blindness/Deafness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Remove Blindness/Deafness 
+## Remove Blindness/Deafness
 
 **source**:: PRPG Core Rulebook pg. 332  
 **school**:: conjuration (healing)
 **level**:: alchemist 3, cleric 3, investigator 3, mesmerist 3, oracle 3, paladin 3, shaman 3, spiritualist 3, warpriest 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Remove Blindness/Deafness
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 *Remove blindness/deafness* cures blindness or deafness (your choice), whether the effect is normal or magical in nature. The spell does not restore ears or eyes that have been lost, but it repairs them if they are damaged.  
   

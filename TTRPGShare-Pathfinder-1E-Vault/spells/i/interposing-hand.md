@@ -1,19 +1,21 @@
 ---
-alias: Interposing Hand
+aliases: [Interposing Hand]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Interposing Hand 
+## Interposing Hand
 
 **source**:: PRPG Core Rulebook pg. 301  
 **school**:: evocation (force)
 **level**:: arcanist 5, magus 5, occultist 5, psychic 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a soft glove)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: 10-ft. hand  
@@ -21,7 +23,7 @@ alias: Interposing Hand
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Interposing hand* creates a Large magic hand that appears between you and one opponent. This floating, disembodied hand then moves to remain between the two of you, regardless of where you move or how the opponent tries to get around it, providing cover (+4 AC) for you against that opponent. Nothing can fool the hand-it sticks with the selected opponent in spite of *darkness*, invisibility, polymorphing, or any other attempt at hiding or disguise. The hand does not pursue an opponent, however.  
   

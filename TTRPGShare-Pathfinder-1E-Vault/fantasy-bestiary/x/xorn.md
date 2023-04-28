@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xorn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 284
 desc_short: This squat beast is as wide as it is tall. Strangely symmetrical, it has three arms, three legs, three eyes, and one huge mouth.
 ```
-# Description
+## Description
 Strange creatures as big around as they are tall, xorns have little interest in natives of the Material Plane-except for the gems and precious metals they might be carrying. Lurking beneath the surface for what might seem long stretches of time to humans, a xorn might wait months, even years, for the right treat to come along, assaulting the being carrying its favorite meal, such as a certain gemstone or the right sort of silver. Adventurers who frequent regions inhabited by xorns often carry with them small chunks of raw ore or relatively inexpensive gemstones or crystals to use as bribes. While the price of a gemstone or piece of metal is often in direct proportion to the object’s flavor and desirability as a meal, most xorns are quite gluttonous and prefer quantity over quality when it comes to food
 
 Treasure found carried by a xorn or stashed in its lair amounts to little more than snacks set aside for another day. An offering of a particularly delicious (and expensive) jewel or piece of precious metal can swiftly secure a xorn’s temporary allegiance. Since xorns can swim through solid rock with ease, they make excellent guides in underground regions.
@@ -57,7 +59,7 @@ Treasure found carried by a xorn or stashed in its lair amounts to little more t
 Xorns grow in size as they age. The youngest xorns are approximately 3 feet in size, and can be represented by applying the young simple template to the statistics presented here. The most commonly encountered xorns are about 5 feet tall (and wide), while the largest are 8 feet or more and weigh upward of 9,000 pounds. These elder xorns are giant advanced xorns, but some even greater xorns exist as well, with upward of 15 Hit Dice.
 
 Often, an elder xorn possesses class levels as well. These creatures are generally leaders, heroes, or even outcasts or villains in xorn society. A classed elder xorn typically has levels in barbarian or rogue. Xorns aren’t particularly religious, but those who do have deep faith are typically druids (though such xorns rarely, if ever, take animal companions, as such followers cannot follow through solid rock, and instead choose to take the Earth domain). Xorn bards and sorcerers are not unheard of either, with bards favoring Perform (sing) as their focus, and sorcerers almost invariably having the Elemental (earth) bloodline.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xorn)
 ```encounter-table
 name: Xorn

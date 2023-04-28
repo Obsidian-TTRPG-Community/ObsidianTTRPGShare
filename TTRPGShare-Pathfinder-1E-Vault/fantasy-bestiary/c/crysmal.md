@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crysmal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 61
 desc_short: An animated cluster of translucent crystals shaped disturbingly like a gemstone scorpion scuttles into an aggressive stance. 
 ```
-# Description
+## Description
 Scorpion-like crysmals originate in the deepest caverns of the Plane of Earth. On rare occasions, these strange creatures wind up on the Material Plane, usually in subterranean areas rich with natural gem and crystal formations. The crystalline planes of their bodies absorb and refract natural light, which some claim is the source of their supernatural powers. 
 
 Singular in purpose, a crysmal seeks only to reproduce. It does so by gathering stone crystals and gemstones, fashioning them into a Tiny facsimile of its own body, and jolting the new creature to life with a burst of the crysmal’s own life energy. These newly created crysmals are known as shardlings (treat as a crysmal with the young creature simple template), and grow to adulthood after a few months of gorging on crystals and gemstones. 
 
 To make a single shardling, a crysmal requires 1,000 gp worth of crystals. Until it has enough material to reproduce, it stores these gems inside its body, and if slain, the gems are visible among the shards of the creature’s corpse. Because of this reproductive need for gemstones, crysmals are relentless in their pursuit of the treasures, valuing them much as other living creatures value infants of their own race. Crysmals do not recognize that other creatures treat gems as wealth, and attempt to seize gems carried by others whenever the opportunity arises. A crysmal normally uses its spell-like abilities to befuddle opponents, grabbing at pouches with gems when the bearer is distracted, and normally only resorts to physical violence once all other tactics fail.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crysmal)
 ```encounter-table
 name: Crysmal

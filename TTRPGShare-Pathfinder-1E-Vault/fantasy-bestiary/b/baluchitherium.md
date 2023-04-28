@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baluchitherium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 192
 desc_short: This towering armored herbivore resembles a hornless rhinoceros, but with longer legs and a longer neck.
 ```
-# Description
+## Description
 The immense baluchitherium stands nearly 18 feet high at the shoulder, measures 30 feet from end to end, and weighs 40,000 pounds. Despite its size, it lives a peaceful life pulling leaves from the tops of trees unless startled into action. When panicked, a baluchitherium tramples any obstacle in its path. If confronted, it smashes its tormentors with its elephantine feet.
 
 A properly trained baluchitherium makes a capable mount for ettins, ogres, smaller giants, or other Large humanoids, and is one of the few mammals other than an elephant able to fill that role. Its relatively ponderous pace limits its usefulness to some extent, but its strength often more than makes up for this shortcoming.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baluchitherium)
 ```encounter-table
 name: Baluchitherium

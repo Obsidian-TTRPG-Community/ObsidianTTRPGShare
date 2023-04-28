@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Korir-Kokembe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 23
 desc_short: This green-tined dragon has multiple sets of legs down its long, sinuous body. An oversized gullet bulges in its throat.
 ```
-# Description
+## Description
 Korir-kokembe live in the deep, watery jungles of central Garund, plaguing the major rivers and lake systems. While young korir-kokembe may swim near populated waterways to claim their prey, their elder kin prefer more remote backwaters, sloughs, and heavily wooded swamps where they can hunt undisturbed. These degenerate dragons live in a violent symbiosis with the tiny vermin that infest the jungle, hosting colonies of such creatures within their own bodies. Such tiny vermin constantly swarm in and out of the korir-kokembe’s gullet, bringing contagion to creatures bitten and allowing the wyrm to expel swarms of pests, or to summon yet more vermin to its aid. While korir-kokembe are capable of flight, they generally prefer to crawl or climb on their eight legs, hunching their bodies like inchworms or twining their coils around their prey while savaging creatures with a barrage of slashing claws.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Korir-Kokembe)
 ```encounter-table
 name: Korir-Kokembe

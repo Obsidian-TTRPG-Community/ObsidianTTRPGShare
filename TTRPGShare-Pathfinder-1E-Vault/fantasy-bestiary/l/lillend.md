@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lillend
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 26
 desc_short: This creature has the body of a seductive, winged elven woman from the waist up and that of a snake from the waist down.
 ```
-# Description
+## Description
 Among the azatas, lillends are the tale-tellers and chroniclers, gathering lore and recording stories in the form of epic poems and songs. They are generally peaceful, though they are swift to act if they believe a piece of rare art or a talented artist is threatened. A lillend’s lower section is about 20 feet long, and a typical lillend weighs 3,800 pounds.
 
 Although they have no need of mortal nourishment, it is said that lillends sup on the joy of music, art, and performance. They also love unspoiled wilderness and seek out places in the mortal realm that remind them of the beauty of their home plane. From the lore of numerous races come tales of these muses, particularly those that have taken a vested interest in the training of a single talented prodigy or the ongoing creation of some fantastic work of art. Such legends sometimes prove true, as all lillends have their favorite works, creations, and artists, and often visit the Material Plane to enjoy their splendor and make sure they remain safe. In the defense of such beauty, lillends prove passionate foes, calling upon the might of nearby allies or crushing philistines in their striking but deadly coils.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lillend)
 ```encounter-table
 name: Lillend

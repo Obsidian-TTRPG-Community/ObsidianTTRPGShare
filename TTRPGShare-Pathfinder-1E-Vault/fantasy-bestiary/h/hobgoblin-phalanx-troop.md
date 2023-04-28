@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin Phalanx Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Pathfinder No. 117: Assault on Longshadow
     desc: 90
 ```
-# Description
+## Description
 Hobgoblin soldiers who excel in Ironfang Legion regiments are promoted to serve in the Ironfang Phalanx. These soldiers are in much better physical condition than typical Ironfang Legion soldiers and are trained in specialized shield and spear techniques, allowing them to erect a nearly impenetrable shield wall while still keeping their spears up and ready to strike.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin%20Phalanx%20Troop)
 ```encounter-table
 name: Hobgoblin Phalanx Troop

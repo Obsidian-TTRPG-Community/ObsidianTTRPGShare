@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ephemeral Echo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 61
 desc_short: This ghostly image of a sad-eyed young woman hovers suspended in the air. Her face never loses its mournful expression.
 ```
-# Description
+## Description
 Miserable remnants of souls who died in despair, ephemeral echoes are restless spirits who felt powerless or heartbroken at the moment of their death. They roam the Material Plane, lingering near a fetter they recognize as meaningful to them in life or death. Ephemeral echoes gain power and become corporeal as they sap the strength of personality from their victims, until their incorporeal menace becomes a dangerously tangible threat.
 
 Ephemeral echoes exhibit a combination of jealousy and hatred for the living, whom they see as unfairly blessed with the continuation of their lives and potential. They generally attack those who demonstrate a particularly vibrant personality. Upon borrowing their victims’ will to take material shape, ephemeral echoes savagely attack the living in a flurry of brutal blows and violent sobs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ephemeral%20Echo)
 ```encounter-table
 name: Ephemeral Echo

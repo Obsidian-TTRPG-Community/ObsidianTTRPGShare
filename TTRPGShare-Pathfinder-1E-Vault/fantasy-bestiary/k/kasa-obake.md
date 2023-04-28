@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kasa-obake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Bestiary 5
     desc: 252
 ```
-# Description
+## Description
 One of the most famous tsukumogami is the one-eyed and one-legged umbrella creature known as kasaobake, a creature that is alternately creepy, curious, and mischievous. Kasa-obake are as likely to scare a creature away as they are to assist it, though their seemingly unpredictable nature always has a pattern behind it. For instance, most kasa-obake react more positively to those who treat their belongings well. Kasa-obake can be sources of wisdom if approached correctly, but they are also likely to tell amusing tall tales instead of the truth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kasa-obake)
 ```encounter-table
 name: Kasa-obake

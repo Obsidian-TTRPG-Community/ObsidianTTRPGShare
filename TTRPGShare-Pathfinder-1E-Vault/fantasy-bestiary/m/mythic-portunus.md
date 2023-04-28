@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Portunus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 90
 desc_short: This creature resembles an enormous, four-armed humanoid made of water. Its two faces move about its head independently.
 ```
-# Description
+## Description
 Portunuses are a kind of water elemental who inhabit natural harbors. They embody both the regular rising and falling of the tides and the inconstant shifting of the weather. Humanoids who live along bays inhabited by portunuses often revere them as genii loci, and they may give prayers and offerings to the elementals in hopes that their ship will come in-whether literally or figuratively. A portunus is naturally invisible underwater, but when it chooses to be seen, it resembles a translucent, statuesque humanoid with four arms and two faces. The portunus’s faces can be the same or different genders. They move about the elemental’s head independently, sometimes facing in opposite directions and at other times cheek to cheek. The portunus can sense and speak from either or both faces, though it has a single mind.
 
  When standing, a portunus towers nearly 24 feet tall and weighs around 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Portunus)
 ```encounter-table
 name: Mythic Portunus

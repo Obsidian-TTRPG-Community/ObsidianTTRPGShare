@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shopkeeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 257
 ```
-# Description
+## Description
 A shopkeeper stocks a mix of useful supplies and gear for townsfolk and adventurers alike. The stat block above can be used for any typical merchant in a cosmopolitan settlement.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shopkeeper)
 ```encounter-table
 name: NPC Shopkeeper

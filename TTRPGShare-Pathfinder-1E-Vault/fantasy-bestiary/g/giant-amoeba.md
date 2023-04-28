@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Amoeba
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 23
 desc_short: This blob of protoplasm is somewhat transparent, allowing the bones of undigested meals and a dark nucleus to be seen within. 
 ```
-# Description
+## Description
 A giant amoeba is a shapeless mass of living, liquid protoplasm. Though naturally translucent with darker interior spots, its surface is slightly sticky and tends to collect dirt and other debris from its environment; therefore, a moving giant amoeba looks like muddy water. A weaker cousin of creatures such as the gray ooze and black pudding, a giant amoeba is actually a mutated version of a harmless creature too small to be seen by the naked eye, grown dangerously large in size. Although happy to prey on creatures smaller than it, the giant amoeba’s constant hunger often drives it to attack larger prey, such as humanoids.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Amoeba)
 ```encounter-table
 name: Giant Amoeba

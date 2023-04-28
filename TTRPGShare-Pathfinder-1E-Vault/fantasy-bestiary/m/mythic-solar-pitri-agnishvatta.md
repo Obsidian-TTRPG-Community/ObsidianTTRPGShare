@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Solar Pitri (Agnishvatta)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
   - name: Bestiary 5
     desc: 166
 ```
-# Description
+## Description
 Nearly perfect in form, action, and thought, solar pitris are revered as godlike creatures, and possess souls on fire with the radiance of creation and reincarnation. Solar pitris are in some ways alien to mortal reality, yet strongly in tune with it by way of the cycle of reincarnation. Each solar pitri is the embodiment of a soul that lived thousands- if not millions-of incarnations in at least one other multiverse that existed prior to the creation of the current one. Final expressions of enlightenment, these incredibly powerful entities have guided the development of all life for countless eons. Solar pitris possess singular focus on the development of the entire multiverse and all its creatures-some say even of deities themselves-guiding events down a course that leads like a descending spiral to another cycle of reincarnation at the eventual end of the current multiverse and creation of the next.
 
  Some occult scholars contend that there are only seven solar pitris, and that they are the seven kumaras. Others believe that the numbers of these creatures range in the hundreds, thousands, or even millions, but that the majority of the solar pitris rest in still and silent meditation at the heart of the Positive Energy Plane, never venturing out into the vastness of the Astral Plane or other corners of the multiverse. Such sages insist that the intensity of their contemplation and meditation is the underlying fuel for the progression of souls, the expansion of space, and the f low of time. Some even go so far as to credit the solar pitris with the creation of the Cosmic Fire in the first place, though like all theories about the manasaputras in general and the kumaras in particular, the details are the subjects of heated debate and very little concrete evidence.
@@ -84,7 +86,7 @@ Nearly perfect in form, action, and thought, solar pitris are revered as godlike
  The lore regarding the relationship between the solar pitris and mortal races is less muddled. Most stories relate that at the dawn of creation, solar pitris took pity on misguided mortals, who were confused by the teachings and guidance given to them by the twilight pitris. The twilight pitris’ nurturing led to overly rational mortals who lacked the compassion and empathy necessary for true enlightenment. The solar pitris intervened, and granted those wayward mortals a favored place in the cycle of cosmic reincarnation. Scholars speculate that this act on the part of the solar pitris was the first step that led to the evolution of samsarans (Pathfinder RPG Bestiary 4 230), though many samsarans deny this story, instead insisting that they are early forms of what will later become the next wave of manasaputras.
 
  Because of their unfathomably ancient minds and farreaching plans, solar pitris rarely interact with other creatures. They must restrain their power, lest their very presence prove deadly to other living beings. Solar pitris are creatures of fire, and even witnessing a solar pitri shifting from corporeality to incorporeality from afar can blind mortals. Creatures that come close to a solar pitri are scorched by the outsider’s boundless, radiant energies. Adherents of some cults attempt such approaches regardless of the danger, believing that even if they burn to death, their souls will be purified by the solar pitri’s presence. Most of what is known about solar pitris comes from the teachings handed down to mortals by lesser manasaputras, the traditions of those samsarans who believe that they are connected to manasaputras (or even that they are some early form of manu), the often wild and fanciful speculation of occult thinkers, the feverish dreams of eccentric mystics, and the few legitimate historical accounts of the various kumaras leaving their contemplation within the Cosmic Fire and interacting with mortals. But even then, only monumental events such as mass extinctions of whole worlds, the death of gods, the eradication of an entire intelligent species, or other reality-shaking events draw solar pitris’ attention. Otherwise, their time is spent pondering unknowable truths and guiding other manasaputras from deep within the heart of the Positive Energy Plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Solar%20Pitri%20(Agnishvatta))
 ```encounter-table
 name: Mythic Solar Pitri (Agnishvatta)

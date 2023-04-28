@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll Berserker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Monster Codex
     desc: 227
 ```
-# Description
+## Description
 More feral than typical trolls, ragers are bloodthirsty maniacs in battle, known for tearing off and swallowing pieces of living opponents. These trolls are the most likely to overeat and devastate the food supply in an area.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll%20Berserker)
 ```encounter-table
 name: Troll Berserker

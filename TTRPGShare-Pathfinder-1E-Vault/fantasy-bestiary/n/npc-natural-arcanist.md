@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Natural Arcanist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
   - name: NPC Codex
     desc: 173
 ```
-# Description
+## Description
 The natural arcanist is a conduit for magical power, always on the brink of releasing too much energy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Natural%20Arcanist)
 ```encounter-table
 name: NPC Natural Arcanist

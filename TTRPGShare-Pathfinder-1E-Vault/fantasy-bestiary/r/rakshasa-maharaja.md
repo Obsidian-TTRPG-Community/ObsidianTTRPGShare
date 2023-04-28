@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rakshasa Maharaja
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -88,7 +90,7 @@ sources:
     desc: 86
 desc_short: Impeccably dressed and bedecked in exotic jewelry, this fiend holds an ornate saber in its backward-facing hands.
 ```
-# Description
+## Description
 All rakshasas aspire to power, but there are those for whom this hunger is more than an obsession: It’s a birthright. Legends among the rakshasas tell of the maharajas-those rakshasas whose depredations and acts of cruelty have elevated them above others of their kind and allowed them to reincarnate as embodiments of every myth, fable, and cautionary tale involving the beast-headed fiends. Accorded the respect and deference of their lessers, maharajas inspire one emotion within the rakshasa race that few can: fear.
 
 A maharaja rakshasa emerges only after a rakshasa of great power and influence has spent several lives as a member of the samrata, the height of the rakshasa’s social-spiritual caste system. When a rakshasa ascends to maharaja status, others of its kind take notice, with rakshasas coming from far and wide to serve even a young maharaja-eager to curry its favor at an early age. The birth of a maharaja denotes that great change is imminent: The maharaja will fulfill some terrible destiny, found a lasting nation of rakshasas, undergo some manner of divine ascension, or defeat some greater foe and commandeer its domain, often splitting the region into large enough chunks for its lieutenants and servants to claim and still have room to expand. It is rare in the extreme for more than a handful of maharajas to emerge in the same century.
@@ -98,7 +100,7 @@ So great is a maharaja’s power and influence and so long is its life that one 
 The lair of a maharaja is typically a glorious, decadent mansion. After decades or centuries of work, gold filigree decorates the columns, and great friezes embossed with rakshasa myths and folklore decorate the walls. Rather than couches or divans, luxurious pillows stuffed with exotic feathers and crafted from the hides of even rarer creatures serve for furniture, and all about hang the trophies of a centuries-long life of tyranny: the crowns of defeated rulers, the wealth of ruined countries, and the heads of failed lieutenants.
 
 A maharaja’s great experience and power, however, does not make it immune to or ignorant of threats. Disloyal servants, powerful kings, ambitious rivals, and meddling adventurers all might step forth to challenge a maharaja’s rule. To that end, a maharaja employs devious methods to ensure its own safety, with assassination, false rumors, and illusory doubles serving as useful tools to ferret out threats. Wary of attack and often with wide territories to control, most rakshasa maharajas have several secluded palaces and lavish redoubts, and travel among them endlessly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rakshasa%20Maharaja)
 ```encounter-table
 name: Rakshasa Maharaja

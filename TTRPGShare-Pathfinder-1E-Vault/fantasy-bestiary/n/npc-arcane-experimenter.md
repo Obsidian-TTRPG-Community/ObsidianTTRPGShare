@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Arcane Experimenter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 19
 ```
-# Description
+## Description
 An oddity among their kind, arcane experimenters use knowledge of magic to sow confusion on the battlefield.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Arcane%20Experimenter)
 ```encounter-table
 name: NPC Arcane Experimenter

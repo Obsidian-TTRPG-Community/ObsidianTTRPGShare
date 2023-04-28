@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stalk Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 5
 desc_short: This ravenous beetle is the size of a pony, and sports a pair of deadly, serrated mandibles.
 ```
-# Description
+## Description
 Stalk beetles are a plague in Rahadoum, scouring the land like giant locusts, and eating any and all vegetation they encounter.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stalk%20Beetle)
 ```encounter-table
 name: Stalk Beetle

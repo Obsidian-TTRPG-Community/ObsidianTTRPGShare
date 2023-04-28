@@ -1,19 +1,21 @@
 ---
-alias: Fearsome Duplicate
+aliases: [Fearsome Duplicate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fearsome Duplicate 
+## Fearsome Duplicate
 
 **source**:: Advanced Race Guide pg. 68  
 **school**:: illusion (figment)
 **level**:: arcanist 3, bard 3, inquisitor 3, mesmerist 3, psychic 3, redmantisassassin 3, skald 3, sorcerer 3, witch 3, wizard 3 (halfling)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: monstrously distorted duplicate of you  
@@ -21,7 +23,7 @@ alias: Fearsome Duplicate
 **saving-throw**:: Will disbelief (if interacted with)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. You can make the duplicate up to two size categories larger than you are and determine a theme as to how it alters your original appearance. However, this duplicate always retains some vestiges of your actual appearance. Creatures who already know you gain a +2 bonus on saving throws made to disbelieve this spell. Your duplicate has no actual substance, and you cannot use it to alter its surroundings or to attack or otherwise harm creatures it encounters. You can use the duplicate to speak, and interact verbally with creatures using the Bluff, Diplomacy, and Intimidate skills, and you gain a +2 competence bonus on Intimidate checks when using that skill through the duplicate.  
   

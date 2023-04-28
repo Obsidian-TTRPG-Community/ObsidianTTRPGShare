@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Switchback Jackal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 83
 desc_short: Resembling a small, half-starved wolf, this canine stares with deep intensity and undeniable hunger.
 ```
-# Description
+## Description
 While the wolves and big cats of Nirmathas draw much of the common folk’s fear and ire, the region’s clever jackals inflict far more damage on farms and herds. Able to digest almost anything, these small predators scavenge and steal with unparalleled skill, bypassing gates, seals, traps, and even doors with ease to plunder chickens, goats, and produce. Utterly fearless, starving packs even prey on far larger and more dangerous creatures-including wolves and humanoids. In harsh winters, packs subsist on grubs and roots, and even eat their own. Switchback jackals grow up to 30 pounds and 2 to 3 feet long.
 
 Switchback jackals mostly make their homes in the plains that cover Nirmathas and Molthune, though they can survive easily in the rocky foothills of the Mindspin Mountains and on the marshy coastline of Lake Encarthan. They breed in late spring, after 3 weeks of howling hauntingly beautiful mating songs each evening. Pups lose their mottled black-and-white coats after 6 months, growing into their dusty adult coats. During this time, packs are especially aggressive and territorial.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Switchback%20Jackal)
 ```encounter-table
 name: Switchback Jackal

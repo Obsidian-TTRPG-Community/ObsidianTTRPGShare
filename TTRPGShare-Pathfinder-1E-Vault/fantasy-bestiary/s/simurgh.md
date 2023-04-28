@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Simurgh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 86
 desc_short: This massive creature has the body of a resplendent bird but the head of a regal canine.
 ```
-# Description
+## Description
 Regarded as living legends, simurghs are held in high regard by desert dwellers. Those who live in the desert lands where these benevolent creatures sometimes reside consider it a lifetime’s worth of luck even to spot one soaring through the sky. Simurghs prefer to keep to themselves, well out of the way of lesser creatures and their often dubious morals, though they can be relied upon for aid when called by those in true need and with a pure heart. A simurgh can live for thousands of years, and frequent mentions of these giant avian beings throughout a region’s historical record are more often than not sightings of the same creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Simurgh)
 ```encounter-table
 name: Simurgh

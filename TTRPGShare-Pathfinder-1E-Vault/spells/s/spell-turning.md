@@ -1,25 +1,27 @@
 ---
-alias: Spell Turning
+aliases: [Spell Turning]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spell Turning 
+## Spell Turning
 
 **source**:: PRPG Core Rulebook pg. 347  
 **school**:: abjuration
 **level**:: arcanist 7, psychic 7, sorcerer 7, summoner 5, summoner (unchained) 6, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a small silver mirror)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: until expended or 10 min./level
 
-### Description 
+### Description
 
 Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. *Spell turning* also fails to stop touch range spells. From seven to ten (1d4+6) spell levels are affected by the turning. The exact number is rolled secretly.  
   

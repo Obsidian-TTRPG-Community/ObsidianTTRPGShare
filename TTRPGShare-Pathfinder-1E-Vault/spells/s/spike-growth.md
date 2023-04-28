@@ -1,19 +1,21 @@
 ---
-alias: Spike Growth
+aliases: [Spike Growth]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spike Growth 
+## Spike Growth
 
 **source**:: PRPG Core Rulebook pg. 347  
 **school**:: transmutation
 **level**:: druid 3, hunter 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: one 20-ft. square/level  
@@ -21,7 +23,7 @@ alias: Spike Growth
 **saving-throw**:: Reflex partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Any ground-covering vegetation in the spell's area becomes very hard and sharply pointed without changing its appearance.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Spitter Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 52
 desc_short: This large beetle’s black, shiny exoskeleton clicks and grinds as it opens its dripping mandibles.
 ```
-# Description
+## Description
 Spitter beetles are used as mounts by duergar explorers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Spitter%20Beetle)
 ```encounter-table
 name: Dark Spitter Beetle

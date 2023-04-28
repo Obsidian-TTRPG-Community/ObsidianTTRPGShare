@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Snark
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 83
 desc_short: Bright colors and patterns shine on the fur of this long-nosed, rodent-like creature, and glorious wings hold it aloft.
 ```
-# Description
+## Description
 If the gods were hung over when they made birds, as many fey claim, they were deep in their cups when they created snarks. Some unusual step between avians and bats, snarks come in a variety of shapes and sizes-from insect-sized to large and dangerous predators-but the smaller lyre snarks are the most common. Snarks live in forests, canyons, and towns of the First World. They mark their territory with loud songs, but keep themselves well hidden-so much so that many outsiders believe they can turn invisible at will. Their wings feature dexterous little hands to pick at fruit, nuts, and the occasional shiny object. They are adept at picking parasites from larger creatures, and are one of the few smaller creatures the Tane-including the voracious bandersnatch-generally permit in close proximity.
 
  All varieties of snarks share the ability to glow softly when happy or excited-much to their detriment, as this light attracts predators. In some parts of the First World, snarks share territory with birds, and are generally strong fliers but less adapted to running along the ground or through trees. Lyre snarks rarely weigh more than a pound. For larger and more aggressive snarks-such as the flesh-eating boojum-use the statistics for an eagle, an owl, or a vulture.
 
  Smaller snarks, like the one presented here, make affectionate pets, but are known for stealing small objects and treats from their owners to line a variety of nests and secret stashes they maintain. An arcane caster who selects a snark as a familiar gains a +3 bonus on Stealth checks, though snark familiars are vanishingly rare beyond the First World.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Snark)
 ```encounter-table
 name: Snark

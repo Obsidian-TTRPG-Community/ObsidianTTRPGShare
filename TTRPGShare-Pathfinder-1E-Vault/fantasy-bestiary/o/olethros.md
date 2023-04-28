@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Olethros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 220
 desc_short: This moth-winged woman wears a spiral mask and a white, silken gown glimmering with tiny bronze mirrors.
 ```
-# Description
+## Description
 Psychopomps embody the natural cycle of birth and death; while most psychopomps are focused mainly on the transition between death and the afterlife, olethroses focus on birth, death, and the fate of those hanging in the balance between them. Olethroses are among the Boneyard’s most powerful agents in the mortal world, and they work outside that plane’s normal hierarchy, answering to only the psychopomp ushers and the enigmatic goddess of death herself. They move among mortals in disguise, watching the strands of fate interweave and acting to promote their view of fate and stymie those who fight against fate’s flow. An olethros might appear in the guise of a wise midwife or a person’s former mentor, offering words of wisdom or advice that open up new possibilities. 
 
 Olethroses often see themselves as extraplanar rivals to the fey norns (Pathfinder RPG Bestiary 3 202), though stories tell of at least one star-crossed romance between a norn and an olethros. Although inveterate meddlers themselves, olethroses can’t abide lipika aeons (Pathfinder RPG Bestiary 5 8), disapproving of their manipulation of the cycle of life for some alien sense of karma. Occasionally, a shadow war of manipulation breaks out between an olethros and a lipika that can span lives, families, and even dynasties. Among psychopomps, morrignas (Pathfinder RPG Bestiary 4 219) look upon olethroses with respect and adulation, while nosois (Bestiary 4 220) sometimes consider them bossy. Yamarajes (Bestiary 4 222) respect their independence but sometimes requisition one to serve as an expert witness or an advocate during a particularly difficult judgment. Olethroses never refuse such a requisition, but most chafe at being assigned such tasks more than once in a long while. 
@@ -88,7 +90,7 @@ While most psychopomps are forged from mortal souls in Purgatory, olethroses are
 Olethros mothers are much more likely to have subsequent daughters than an ordinary olethros is to have a first daughter, so olethros mothers are far less common than other olethroses. Each one develops her own distinct specialty, and in that area of expertise, even yamarajes defer to her; in fact, the most powerful olethros mothers serve as advisors and near peers of even the psychopomp ushers themselves. 
 
 A typical olethros stands only 5 feet tall and weighs 100 pounds. An olethros mother is much taller; it is not uncommon for such powerful psychopomps to be nearly 8 feet in height and weigh 250 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Olethros)
 ```encounter-table
 name: Olethros

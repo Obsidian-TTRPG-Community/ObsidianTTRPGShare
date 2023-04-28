@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grimslake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 55
 desc_short: This maggotlike creature has a long tail covered with frightening hooked suckers.
 ```
-# Description
+## Description
 The grublike grimslake is commonly found on Abyssal battlefields, where it crawls among the bodies, sucking away marrow and other vital tissues found within the dead. Of course, when fresh carcasses aren’t available, grimslakes eagerly to turn to living victims-they take particular delight in the sound of screams as they feed. While on the Abyss, they often hunt lesser demons, but these semi-intelligent scavengers find mortal humanoids a particular delicacy.
 
  The hermaphroditic grimslakes use the remnants of their meals as incubators for their eggs. After eating, they fill the drained bodies with their eggs and fertilize them. Then they abandon the eggs to search for new feeding grounds, leaving behind a hideous legacy. Other scavengers instinctively avoid the egg-filled bodies, and 10 to 12 days later, the corpses burst open, releasing a mass of grimslakes the length of a human arm. These creatures fall upon each other in a ravenous orgy of cannibalism, growing quickly as they consume their kin until, a few days later, the few surviving, fully grown grimslakes go off in search of new food and incubators.
 
  In the Abyss, some demon lords use grimslakes to dispose of bodies. Others use them as implements of torture. The worst keep them as food sources-not to eat the grown specimens, but to dine on corpses pregnant with the grimslakes’ seething young.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grimslake)
 ```encounter-table
 name: Grimslake

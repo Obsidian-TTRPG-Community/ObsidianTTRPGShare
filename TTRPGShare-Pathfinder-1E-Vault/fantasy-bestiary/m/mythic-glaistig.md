@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Glaistig
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,7 +77,7 @@ sources:
     desc: 124
 desc_short: A mien of strange, primal beauty surrounds this woman, magnified by the inhuman tone of her skin and her bestial legs.
 ```
-# Description
+## Description
 Hailed as either protectors or plagues, glaistigs are ancient fey, tied to the earth and wielding its powers. Although not evil, glaistigs are unpredictable and hot-tempered-easily stirred to anger and possessing powerful magic to deal great harm to the objects of their scorn.
 
  A glaistig resembles a comely human woman with greenish skin and the lower legs of a goat, similar to a faun or satyr. Glaistigs usually cover their bestial lower body in flowing robes or gowns, typically woven from leaves frozen in the colors of summer or autumn, and adorn themselves with simple but elegant jewelry. Their haunting eyes show no pupils, and every step they take seems as one move in an endless dance. They can be whimsical, but often move and act with great deliberation, especially when their anger is roused.
@@ -85,7 +87,7 @@ Hailed as either protectors or plagues, glaistigs are ancient fey, tied to the e
  In combat, a glaistig moves with ease and grace, typically targeting those under the effects of her aura with debilitating hexes before withdrawing to summon earth elementals to aid her, and bombarding her opponents with leaves and dirt. The living link of her body to the earth and its plants and trees makes a glaistig vulnerable in the air, and she does what she can to stay grounded. Even at the height of anger, however, a glaistig can still sometimes be reasoned with. A glaistig will typically pause to parley, and can be swayed to cease hostilities in exchange for some valuable, preferably magical, item of sufficient value, particularly a wooden or stone item. While glaistigs themselves have no compunction about bending the truth or flagrantly dissembling, they take extreme offense when others lie to them, and are quite adept at sniffing out falsehoods. When a glaistig deduces that someone has lied to her, even if the untruths were spoken in an attempt at flattery, her outrage is such that she is unwilling to even speak with that person again.
 
  Among some of the most prevalent cautionary tales involving glaistigs is that they sometimes lure young children deep into their wilderness homes, kidnapping them and even replacing them with some form of fey impostor. In truth, these fey enjoy the innocence, honesty, and playfulness of children, and usually keep them only to chat and dance with for a short while before sending them home unharmed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Glaistig)
 ```encounter-table
 name: Mythic Glaistig

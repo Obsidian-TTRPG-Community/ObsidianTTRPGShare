@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cauldron Bloom
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 86
 desc_short: Three thick vines sprout from this massive cylindrical plant’s base. Ruddy light flickers beneath its sloping armored sides, and it exudes a palpable aura of magic.
 ```
-# Description
+## Description
 Cauldron blooms are immense, slow-moving subterranean plants that maintain their arcane metabolisms by consuming massive quantities of blood. They dwell in cold environs, typically along the migration routes of herd animals, and slowly teleport to new locations in search of food. Feeding cauldron blooms generally erupt from the ground in the midst of such herds. The animals’ panicked cries are cut short when the terrified individuals wink out of existence, reappearing a moment later inside the cauldron bloom’s otherworldly guts. Arcane winds within the cauldron bloom’s stomach rapidly draw the blood from ingested prey, shred their bodies, and leave nothing behind. A particularly hungry cauldron bloom can systematically consume entire herds of animals, or sequester one individual-such as an unlucky giant or megafauna-inside its stomach. The prey’s blood fuels the plant’s magical physiology, casting flickering arcane light as it distributes throughout the cauldron bloom’s body.
 
  Typically, cauldron blooms live for hundreds of years. Their bodies are around 15 feet in diameter and weigh upward of 80 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cauldron%20Bloom)
 ```encounter-table
 name: Cauldron Bloom

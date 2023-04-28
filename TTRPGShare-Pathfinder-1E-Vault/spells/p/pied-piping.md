@@ -1,19 +1,21 @@
 ---
-alias: Pied Piping
+aliases: [Pied Piping]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Pied Piping 
+## Pied Piping
 
 **source**:: Advanced Player's Guide pg. 236  
 **school**:: enchantment (compulsion) (mind-affecting, sonic)
 **level**:: bard 6, skald 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V or F (musical instrument)
 
-### Effect 
+### Effect
 
 **range**:: 90 ft.  
 **area**:: 90-ft.-radius emanation, centered on you  
@@ -21,7 +23,7 @@ alias: Pied Piping
 **saving-throw**:: Will partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You call forth a melody so compelling and attractive that creatures belonging to a group with a specific, identifiable physical trait (such as type, subtype, age, gender, or hair color) find it almost impossible not to approach and follow you. You choose the nature of the creatures you seek to attract when you cast the spell and, once you make this choice, cannot alter it. You can only use physical traits to determine your audience. You can never use social and other more voluntary criteria (such as alignment, religion, nationality, or class) to select targets for this spell.  
   

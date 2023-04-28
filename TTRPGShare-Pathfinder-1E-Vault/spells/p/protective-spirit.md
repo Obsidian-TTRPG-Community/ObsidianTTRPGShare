@@ -1,25 +1,27 @@
 ---
-alias: Protective Spirit
+aliases: [Protective Spirit]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Protective Spirit 
+## Protective Spirit
 
 **source**:: Advanced Player's Guide pg. 237  
 **school**:: conjuration (creation)
 **level**:: hunter 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 A *protective spirit* is an invisible, mindless, shapeless force that hovers about you, defending you against unexpected attacks. When a creature makes an attack of opportunity against you, the *protective spirit* makes an immediate attack using your base attack bonus plus your Dexterity modifier. On a successful hit, the spirit does no damage, but it causes the attack of opportunity to automatically miss. A *protective spirit* can defend against a number of attacks of opportunity equal to your Dexterity bonus (minimum 1) per round.  
   

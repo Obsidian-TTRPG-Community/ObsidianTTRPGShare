@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stag Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 287
 desc_short: This stag-headed humanoid has large, sweeping antlers and wields a finely-crafted longbow.
 ```
-# Description
+## Description
 A stag archon looks like a well-muscled human with the head of a horned deer, typically an elk or stag. They prefer to use their bows in battle, though they are comfortable charging antlers-first into melee as well. Each was created from the spirit of a mortal hero of Erastil’s faith, hand-picked by the god to aid his followers in the world and defend some of the Outer Sphere’s least tamed wildernesses. Though none remember the specifics of their mortal lives, they retain the skills of trained woodland warriors. Most are more practical than hound archons, willing to kill evil mortals if doing so is necessary to protect the innocent.
 
 Stag archons are experienced trackers and scouts. Occasionally Erastil sends one to look after a specific village or farmstead, particularly in a dangerous frontier area. They watch in animal form, luring lost children to safety and leading hungry hunters to easily-caught prey. They have a deep-seated hatred of cold riders and other evil fey, and they gather in great numbers to pursue and take down those defilers of the wilderness.
 
 A stag archon typically stands about 6-1/2 feet tall (a foot or more taller than that with its horns) and weighs around 220 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stag%20Archon)
 ```encounter-table
 name: Stag Archon

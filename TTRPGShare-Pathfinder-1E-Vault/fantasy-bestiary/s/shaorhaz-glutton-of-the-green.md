@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shaorhaz, Glutton of the Green
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,13 +82,13 @@ sources:
     desc: 44
 desc_short: This four-armed nightmare stands with an elegance that seems out of place, given its demonic visage. Huge black wings fan behind its back, and flickering black blades burn in its hands.
 ```
-# Description
+## Description
 Even before he was recruited by Deskari to raze the Green Faith from Sarkoris, the vrolikai Shaorhaz had a long tradition of antipathy toward the druidic faith. When Shaorhaz first came to the Material Plane to grow, he had the misfortune of appearing in the small village of Rookhill in southeastern Ustalav. At first, Shaorhaz met little opposition from the villagers, and he fed with impunity. But then a cabal of druids came to Rookhill’s aid, and Shaorhaz found his hunting grounds increasingly well guarded and dangerous. Stubborn to a fault, the nabasu refused to move on to easier hunting grounds elsewhere, and time and time again, he clashed with the druids. With each attempt to kill them, though, the druids grew more and more adept at fighting the nabasu, and with each dawn, it seemed that the very wilderness in which he had enjoyed hiding for so many months was turning against him. When the nabasu was nearly slain by the druids’ treant ally, he made a desperate attempt to assassinate their leader. This foolish assault earned the nabasu nothing more than the loss of his accumulated growth, as the druid sacrificed his life to return the spiritual energies the demon had fed upon to the land. Only then did Shaorhaz flee Ustalav, teleporting to another wilderness to start over. It took the demon 10 times as long as he’d hoped to finally achieve apotheosis and transform to a vrolikai, and in that time, his hatred of the druidic faith only grew.
 
 Today, Shaorhaz rules over the ruins of the Forest of Stones in what was once northern Sarkoris. This region, known today as the Stonewilds, was once sacred to the Green Faith, but now the only druids who remain are the warped and twisted undead abominations known as siabraes, for when it became clear that Shaorhaz had won the battle, the last few druids turned again to sacrifice to defeat the demon. Yet this time, the tactic did not work. This time, Shaorhaz was prepared, and the vile energies he commanded ref lected back upon the druids, turning them into the very things they detested most. Since then, Shaorhaz has spent the majority of his time within his palace, Greengrave, searching for a way to feed not on more mortal souls but upon the very soul of Golarion itself.
 
 Shaorhaz prefers offerings of druids, especially those of the Green Faith. He often promises to let these offerings live if they can reveal to him something of the druidic faith that he has not already confirmed for himself-those druids foolish enough to take the demon at his word get the deaths they deserve. It’s a DC 33 check to research the Glutton of the Green.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shaorhaz%2C%20Glutton%20of%20the%20Green)
 ```encounter-table
 name: Shaorhaz, Glutton of the Green

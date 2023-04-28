@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Unseen Archer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 154
 ```
-# Description
+## Description
 The unseen archer strikes from concealment, planning for his target to die before it has a chance to see him.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Unseen%20Archer)
 ```encounter-table
 name: NPC Unseen Archer

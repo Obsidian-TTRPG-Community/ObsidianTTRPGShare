@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Toy Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 23
 desc_short: This amalgam of mechanical toys clacks and whirs.
 ```
-# Description
+## Description
 A toy golem is 6 feet tall and weighs about 450 pounds; each component toy is only 1 foot tall and weighs 1-1/2 pounds. The components that make up the golem are capable of winding one another up if they can reach each other.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Toy%20Golem)
 ```encounter-table
 name: Toy Golem

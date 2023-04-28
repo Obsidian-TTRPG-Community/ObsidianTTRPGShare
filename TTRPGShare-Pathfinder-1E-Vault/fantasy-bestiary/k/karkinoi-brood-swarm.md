@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Karkinoi Brood Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 62
 desc_short: Each member of this horde of blue crablike things is armed with a menacing, oversized pincer.
 ```
-# Description
+## Description
 Among the myriad horrors inhabiting the Shackles, a karkinoi brood swarm is one of the most terror-inspiring to behold. The brutish karkinoi (Pathfinder RPG Bestiary 4 173) reproduce after collecting sufficient meat to feed their offspring, which is usually obtained by raiding coastal settlements. After mating, the female karkinoi lays a mass of eggs in the calm water of a coastal sea cave or sheltered underwater area. The voracious spawn hatch almost simultaneously, instinctively cluster together to form an endlessly ravenous karkinoi brood swarm, and devour all nearby meat. The taste of that first meal imprints itself on the karkinoi spawn, pushing these creatures to become savage marauders when they mature.
 
 The karkinoi brood mother remains close by her progeny after they hatch, both to educate them and to safeguard them from predators, especially other karkinoi, which have been known to cannibalize karkinoi spawn. Karkinoi spawn mature rapidly, growing larger and aggressively vying for domination over each other. A karkinoi brood swarm’s spawn rapidly diminish in number as the stronger members consume the vanquished. Eventually the karkinoi adolescents split up, searching for their own aquatic lairs and ample sources of soft meat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Karkinoi%20Brood%20Swarm)
 ```encounter-table
 name: Karkinoi Brood Swarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thriae Dancer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 90
 desc_short: This elegant half-woman, half-bee wields a glaive and is clad in f lowing, gauzy garments. A veil covers most of her face.
 ```
-# Description
+## Description
 While most thriae possess alien grace and charm, thriae dancers are among the most beautiful of their kind. They are usually 6 feet tall and weigh 180 pounds.
 
  Only terpsichoreans, the most talented and coveted thriae dancers, are permitted to perform alone. Terpsichoreans typically have levels in bard, are at least CR 9, and have access to the following spell-like abilities.
  3/day-heroism, suggestion
  1/ day-zone of silence
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thriae%20Dancer)
 ```encounter-table
 name: Thriae Dancer

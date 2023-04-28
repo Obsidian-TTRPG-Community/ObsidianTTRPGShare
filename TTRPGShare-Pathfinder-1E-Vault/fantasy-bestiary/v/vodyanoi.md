@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vodyanoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 282
 desc_short: This humanoid salamander carries a gnarled staff in one hand. Tendrils drape its chin, resembling the beard of an eccentric hermit.
 ```
-# Description
+## Description
 Vodyanois resemble humanoid salamanders. They have short noses, bulging eyes, and broad mouths covered with thickets of fleshy tendrils. Skin color varies wildly depending on the climate and terrain, from drab greens and grays to vibrant oranges and reds. Vodyanois stand roughly 5-1/2 feet tall and weigh just over 100 pounds. They can live up to 120 years.
 
 Vodyanois are well known as enemies to boggards-another amphibious race often encountered in proximity to vodyanoi lands. While vodyanois themselves are rarely evil, they are capricious and often quick to anger, particularly when they feel their territories have been intruded upon. Their hatred of boggards is another sure way to arouse their anger-a vodyanoi who suspects one of boggard collusion will often attack on sight. Those who live in close proximity to vodyanoi tribes learn quickly to leave the folk alone, and when visits or intrusions into vodyanoi lands are necessary (such as when one might need to seek out a vodyanoi for aid in curing a disease), gifts of magic potions and exotic fruits are highly recommended.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vodyanoi)
 ```encounter-table
 name: Vodyanoi

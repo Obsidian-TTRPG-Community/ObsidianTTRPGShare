@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stygian Hot-Blooded Horse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 86
 desc_short: This dark horse has striking coloring and a ferocious look in its bloodshot eyes.
 ```
-# Description
+## Description
 According to a tale, a Keleshite summoner named al-Aziz Bedaya made a deal with Savu, a nightmare lord hailing from the banks of the River Styx. In the deal, Savu allowed two of his bodyguards to each sire a colt with mortal Keleshite mares. The resulting hybrids- one coal-black with a blood-red mane and tail, the other dark gray with a fiery-orange mane and tail-became the legendary founding specimens of the two strains of the stygian hot-blooded horses. Combat-trained stygian hot-blooded horses fetch prices of up to 1,500 gp apiece.
 
 Other than their unusual coloration, stygian hotblooded horses’ most distinctive characteristics are arched necks, refined heads, and high-held tails. The horses’ meat has the flavor of smoked chili peppers and is considered a delicacy in many cultures, although their Keleshite breeders consider it an abomination to consume such fare. Stygian hot-blooded horses are bred to be fast, spirited war horses. Quieter and more intelligent than most horses, they’re also ideal for raids that require stealth.
 
 Stygian hot-blooded horses stand 5 feet tall at the shoulder and weigh approximately 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stygian%20Hot-Blooded%20Horse)
 ```encounter-table
 name: Stygian Hot-Blooded Horse

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Formian Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 110
 desc_short: This large and majestic creature is nearly immobile, her massive abdomen swollen with her impending brood.
 ```
-# Description
+## Description
 A formian queen is the embodiment of the hive and the key to its success, as a hive’s fate is tied to her ability to both populate it and successfully guide it. The formian queen does this while her massive body is bound to a central chamber dedicated to her nearly constant egg laying. The queen’s enormous abdomen squeezes out egg after egg as she meets with her myrmarchs to plan defense, strategy, and trade negotiations. While the queen may be sheltered, she is not blind. When necessary, she possesses the minds of her children to see for herself what occurs beyond her central chamber, and more active queens use this ability to confront intruders directly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Formian%20Queen)
 ```encounter-table
 name: Formian Queen

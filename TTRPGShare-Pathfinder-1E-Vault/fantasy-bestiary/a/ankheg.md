@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ankheg
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,7 +47,7 @@ sources:
     desc: 15
 desc_short: This burrowing, bug-like monster scuttles about on six legs, drooling noxious green ichor from its clacking mandibles.
 ```
-# Description
+## Description
 Ankhegs are an all-too-common plague upon the rural areas of the world. These horse-sized burrowing monsters generally avoid heavily settled areas like cities, but their predilection for livestock and humanoid flesh ensures that they do not keep to the deep wilderness either. Their preferred habitat is rural farmlands, as the loose soil of such regions makes it easy for the creatures to burrow. Tales speak of larger ankhegs that dwell in remote deserts-such creatures likely feed primarily on giant scorpions and camels, and rarely come in contact with civilization due to their remote locations. (A desert ankheg is a Huge advanced ankheg.)
 
 In combat, an ankheg prefers to attack with its bite. Against multiple foes, an ankheg often grabs one of the available targets and then attempts to retreat to safety, burrowing into the ground. A creature carried underground can still breathe with difficulty (the ankheg needs to breathe as well, so its tunnels are relatively porous), but is often eaten alive before its allies can rescue it.
@@ -53,7 +55,7 @@ In combat, an ankheg prefers to attack with its bite. Against multiple foes, an 
 Ankhegs burrow with their legs and mandibles, moving with unsettling speed through loose soil, sand, gravel, and the like-they cannot burrow through solid stone. Burrowing ankhegs can construct tunnels by pausing frequently to shore up the walls with a thicker, less caustic secretion from their mouths. If an ankheg chooses to make a permanent tunnel when burrowing, it moves at half speed. A typical ankheg tunnel is 10 feet tall and wide, roughly circular in cross-section, and from 60 to 150 feet long ([1d10 + 5] × 10). Clusters of ankhegs often share the same territory and create intricate winding networks of tunnels under farmlands, sometimes resulting in sinkholes where too many burrow at once.
 
 Although ankhegs resemble immense vermin, they are in fact much more intelligent than the typical arachnid and, given time and a talented trainer, can even be trained to serve as mounts or beasts of burden. The fact that even “domesticated” ankhegs are prone to squirting acid when frightened or startled makes them unsafe at best in most heavily populated regions, but for more savage races like hobgoblins, troglodytes, and particularly orcs, ankhegs make popular guardians or even pets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ankheg)
 ```encounter-table
 name: Ankheg

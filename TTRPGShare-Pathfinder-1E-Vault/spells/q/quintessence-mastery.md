@@ -1,25 +1,27 @@
 ---
-alias: Quintessence Mastery
+aliases: [Quintessence Mastery]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Quintessence Mastery 
+## Quintessence Mastery
 
 **source**:: Planar Adventures pg. 43  
 **school**:: transmutation
 **level**:: arcanist 8, cleric 8, oracle 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round or 4 hours; see text  
 **components**:: V, S, F (a staff crafted from the chosen plane's material worth 2,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal or up to 10 10-ft. cubes/level (S)  
 **effect**:: control over a plane's terrain and traits  
 **duration**:: 1 hour/level or 1 day/level; see text
 
-### Description 
+### Description
 
 This spell grants the caster limited control over the quintessence of an Outer Plane. The control granted by *quintessence mastery* can take one of two forms, depending on the version of the spell cast. Both versions can be cast only on one of the nine Outer Planes, for it is these planes, not the Transitive or Inner Planes, that are comprised of quintessence.  
   

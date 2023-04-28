@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forsaken Arbalester
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 86
 desc_short: An eerie green glow emanates from this decayed soldier’s bony eye sockets. It wears a rotted uniform and carries a massive crossbow.
 ```
-# Description
+## Description
 These soldiers were once specialists who operated a variety of ranged weapons, including ancient Jistkan siege weapons. The unholy power of the forsaken legion allows these arbalesters to fire ghostly bolts supernaturally quickly without sacrificing accuracy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forsaken%20Arbalester)
 ```encounter-table
 name: Forsaken Arbalester

@@ -1,25 +1,27 @@
 ---
-alias: Mythic Entropic Shield
+aliases: [Mythic Entropic Shield]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Entropic Shield
+## Mythic Entropic Shield
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: abjuration
 **level**:: cleric 1, oracle 1, psychic 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 A magical field appears around you, glowing with a chaotic blast of multicolored hues. This field deflects incoming arrows, rays, and other ranged attacks. Each ranged attack directed at you for which the attacker must make an attack roll has a 20% miss chance (similar to the effects of concealment). Other attacks that simply work at a distance are not affected.
 

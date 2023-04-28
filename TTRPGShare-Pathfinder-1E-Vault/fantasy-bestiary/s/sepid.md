@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sepid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 84
 desc_short: Twice the height of a human, this horned monstrous warrior wields a massive blade.
 ```
-# Description
+## Description
 Warlords among the divs, sepids spread fear, slaughter, and despair wherever they pass. They foster battles, incite rebellions, and seek heroes to slay, destroying all that which gives common people hope. With their falchions in hand, sepids often stand at the fore of the foul legions they raise.
 
 Sepids delight in twisting the truth, but while all divs are liars, sepids make themselves predictable by always doing the opposite of what they claim, and wise opponents turn this knowledge to their own advantage.
 
 Sepids stand 13 feet tall and weigh upward of 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sepid)
 ```encounter-table
 name: Sepid

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Averaka Giant Slayer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 10
 ```
-# Description
+## Description
 On the isle of Flintyreach amid the Ironbound Archipelago of the Steaming Sea, half-orcs from across Avistan have built a community to call their own: Averaka. Though the inhabitants of Averaka have set aside the most self-destructive behaviors of their orc ancestors, they remain fierce and deadly warriors. Amid the mountains in the island’s interior, however, lurk a great threat to this community: hill giants, ettins, and trolls, both in independent clans and under the sway of the hill giant war chief Gorgnak. Thus the half-orcs who call Averaka home have dedicated themselves to the eradication of their violent, monstrous neighbors. Some believe such channeling and focusing of their aggression represents the human side of the half-orcs winning out over the bloodthirsty instincts of their orc blood, though a few worry about where that aggression might be pointed next if they manage to defeat their giant enemies.
 
 While as proud as any Ulfen of the Linnorm Kings, the half-orcs of Averaka welcome anyone who shares their hate of giants and acknowledges their right to selfrule. A handful of dwarves and humans call Averaka home as well, but most inhabitants not of orc descent find the town’s chaotic mix of customs unsettling.
@@ -59,7 +61,7 @@ While as proud as any Ulfen of the Linnorm Kings, the half-orcs of Averaka welco
 One of the easiest ways to arouse the ire of an Averaka giant slayer is by associating or consorting with giants and their kin. No allowance is given for supposedly friendly or tame giants, even benevolent cloud and storm giants. Beyond this, voicing any doubt about the wisdom of a half-orc community will also result in a tongue-lashing and often a harsh beating from any resident of Averaka who overhears.
 
 Would-be giant slayers from across Golarion make pilgrimages to Averaka to learn from the dedicated half-orcs there, though such tutelage generally lasts only a few months at the most unless the pupil decides to settle in Averaka and take up the residents’ cause.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Averaka%20Giant%20Slayer)
 ```encounter-table
 name: NPC Averaka Giant Slayer

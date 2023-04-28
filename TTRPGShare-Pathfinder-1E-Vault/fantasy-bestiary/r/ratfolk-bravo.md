@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratfolk Bravo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Monster Codex
     desc: 179
 ```
-# Description
+## Description
 Because they trade so widely, ratfolk acquire interesting equipment-including black powder and rare metals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratfolk%20Bravo)
 ```encounter-table
 name: Ratfolk Bravo

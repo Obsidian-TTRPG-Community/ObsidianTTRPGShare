@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Water Strider Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 82
 desc_short: Countless thousands of long-legged water bugs glide soundlessly over the surface of the water, skimming over it in a wave of twitching bodies.
 ```
-# Description
+## Description
 Water striders are aquatic insects that skate across the surface of still water. Their bodies are long and narrow, with an individual measuring less than 1 inch in length. The body and legs of a water strider are covered with a layer of water-repelling hairs, making it possible for the strider to resist the surface tension of the water. The insect stands on its front and rear legs, and pushes against the water surface with its middle legs to propel itself forward. Water striders are also excellent jumpers, launching themselves distances of up to 5 feet. Any movement on land is limited to jumping. Swarms of particularly vicious water striders commonly gather at the edges of bodies of water, attacking anything that disturbs the surface of their pools.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Water%20Strider%20Swarm)
 ```encounter-table
 name: Water Strider Swarm

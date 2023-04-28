@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Canopy Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 90
 desc_short: Prominent tusks and unruly green fur mark this fearsome creature as a troll despite its small size. It hangs overhead, swinging between its oversized forearms and lashing, claw-tipped tail.
 ```
-# Description
+## Description
 One of the most ravenous dangers of the Fangwood are the arboreal canopy trolls, who bound through the treetops in great troops, scavenging fruit and nuts and descending on much larger prey to tear it limb from limb. They share the legendary durability of larger trolls, and plummet fearlessly from great heights to take prey by surprise, often breaking bones only to heal by the time they begin to feed. These injuries rarely set properly, leaving most canopy trolls in constant pain, worsening their already vicious attitudes. Often underestimated, canopy trolls rely on great numbers and their ability to coordinate en masse, overwhelming prey by sheer numbers as they drag it kicking and screaming into their chaotic, howling maws.
 
 Canopy trolls stand 3-1/2 feet tall, and have prehensile tails nearly twice that length. Their densely muscled bodies weigh as much as 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Canopy%20Troll)
 ```encounter-table
 name: Canopy Troll

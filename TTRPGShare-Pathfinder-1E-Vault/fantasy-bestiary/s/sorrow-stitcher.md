@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sorrow Stitcher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 61
 desc_short: Empty eyes peer out from beneath the hood of this pale maiden’s patchwork cloak. Her hands hold what appear to be the shadowy silhouettes of scissors and a sewing needle.
 ```
-# Description
+## Description
 Descendants of fey exiles, these creatures share their forebears’ curse of a severed connection with the First World. Born with broken spirits and empty hearts, sorrow stitchers seek to spread their misery and despair to all they encounter.
 
  Craving to experience happiness, sorrow stitchers often gravitate toward cities. They are jealously drawn to festivals where they steal the joy from the hearts of unsuspecting revelers. Armed with shadowy scissors and needles, sorrow stitchers can experience fleeting instants of mirth when they inflict the hollow heart curse on a creature, yet this swell of emotion passes quickly, forcing the fey to seek new victims to curse.
 
  Pale and slender, often appearing in feminine form, sorrow stitchers could be mistaken for humans if not for the palpable and visible aura of gloom and shadowy sadness that they constantly emit. Shadow stitchers are fond of wearing garishly colorful clothing, but such festive hues do little to gladden them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sorrow%20Stitcher)
 ```encounter-table
 name: Sorrow Stitcher

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Corby
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 18
 desc_short: This creature looks like a humanoid crow with oily black feathers, glittering eyes, and a sharp beak.
 ```
-# Description
+## Description
 Dire corbies are subterranean predators that resemble humanoid crows with muscular arms and fearsome claws. Though they make their cliff-side homes on the walls of underground chasms, where they climb and leap with death-defying agility, they are most frequently encountered in the tunnels where they wait to ambush prey, leaping down from the ceiling to rend and tear.
 
 Dire corbies are intelligent, but have little use for society outside of the rough, squabbling pecking order of their rookeries, where their social order is little better than that of the mundane birds they resemble. Along with the near-suicidal savagery with which they launch themselves into combat, dire corbies are known for their terrifying screeches, songs of doom capable of unsettling even experienced explorers.
@@ -58,7 +60,7 @@ Dire corbies are intelligent, but have little use for society outside of the rou
 In addition to being savage predators, dire corbies are also notorious cannibals when it comes to their young, and a mother dire corby must carefully defend her eggs lest a flock of males from the same rookery descend on her nest and devour the unborn children in a flurry of yolk and blood. This ultimately counterproductive tendency only further supports the impression most races have of dire corbies as dangerously unbalanced beings, and may explain why the creatures remain relatively rare.
 
 A typical dire corby stands 5 feet tall and weighs between 125 and 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Corby)
 ```encounter-table
 name: Dire Corby

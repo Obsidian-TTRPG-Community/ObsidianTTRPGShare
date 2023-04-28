@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Maggot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 84
 desc_short: This enormous maggot has greasy, pale flesh and a dripping, circular mouth filled with tiny, sharp teeth.
 ```
-# Description
+## Description
 Voracious scavengers, giant maggots feed constantly, gorging themselves on the dead in preparation for their transformation into giant flies. Their pallid, corpulent bodies are the size of human children, and their rasping teeth are capable of eating even the bones of a corpse. Giant maggots have no legs, and move with a disturbing undulation as they crawl over their meals. Giant maggots feed for 2 weeks (often moving from one corpse to another) before entering a pupal stage, after which they emerge as giant flies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Maggot)
 ```encounter-table
 name: Giant Maggot

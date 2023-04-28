@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troglodyte Scale-Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: Monster Codex
     desc: 216
 ```
-# Description
+## Description
 These mounted warriors ride reptilian steeds such as giant monitor lizards (Pathfinder RPG Bestiary 194, 295) or giant chameleons (Pathfinder RPG Bestiary 3 186) into combat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troglodyte%20Scale-Rider)
 ```encounter-table
 name: Troglodyte Scale-Rider

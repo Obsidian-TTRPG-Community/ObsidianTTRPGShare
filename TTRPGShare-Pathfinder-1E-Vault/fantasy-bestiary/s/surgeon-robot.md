@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Surgeon Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 90
 desc_short: This robot has the general appearance of a skeletal preying mantis fashioned entirely from gleaming metal. An array of limbs fitted with laser scalpels, syringes, and other surgical devices spring from its body.
 ```
-# Description
+## Description
 These large, insectoid-looking robots were designed to perform incredibly complicated surgeries with flawless results. Possessing a data bank filled with advanced surgical techniques, these robots produce nearly supernatural effects, and the recovery time from their procedures is often nothing short of miraculous. These robots were originally stationed on Divinity to care for the humanoid crew of the ship during their long voyage, and some were even employed to treat the aliens the ship collected during its journey. Surgeon robots stand 7 feet tall and weigh a bit more than 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Surgeon%20Robot)
 ```encounter-table
 name: Surgeon Robot

@@ -1,19 +1,21 @@
 ---
-alias: Jolt
+aliases: [Jolt]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Jolt 
+## Jolt
 
 **source**:: Paizo Blog - Ultimate Cantrips pg. 0  
 **school**:: transmutation (electricity)
 **level**:: arcanist 0, sorcerer 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: spark of electricity  
@@ -21,7 +23,7 @@ alias: Jolt
 **saving-throw**:: none
 **spell-resistance**:: Yes
 
-### Description 
+### Description
 
 You cause a spark of electricity to strike the target with a successful ranged touch attack. The spell deals 1d3 points of electricity damage.  
   

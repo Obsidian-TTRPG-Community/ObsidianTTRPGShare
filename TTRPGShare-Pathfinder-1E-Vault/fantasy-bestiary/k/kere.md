@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kere
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,13 +77,13 @@ sources:
     desc: 88
 desc_short: This unnaturally pale woman is dressed in the somber garb of a mourner, her countenance covered by a lengthy black veil.
 ```
-# Description
+## Description
 Certain places are sacred, settings meant to remain free of the raucous sounds and defiling touch of the living. Graveyards number among some of the most obvious of such places, where stone guardians and the buried weight of the dead bear on visitors with undeniable gravity. But certain forces disregard the fundamental sanctity of such ground-mortal and deathless heretics who use such places to hunt, feed, or cloak fouler deeds. Yet not all cemeteries are unguarded, and the vaporous shadows and palpable dread of some burial grounds suggest not corruption, but the custody of an ominous otherworldly guardian.
 
 Keres, like all psychopomps, are emissaries of the Boneyard, the necropolis that all mortals must traverse at the end of life. While most psychopomps concern themselves with the souls of the recently deceased, keres mind the resting places of the dead. Their stewardship derives not from any otherworldly care for the deteriorating dust left in the wake of mortal life, but rather from an interest in those who come seeking the dead where they lie. Such creatures often engage in perversions keres seek to oppose. To this end, keres take up lonely residences amid the tombs and monuments of graveyards, spreading an ominous air and giving rise to tales of hauntings and strange encounters to deter even the boldest intruders from trespassing upon the fields they tend.
 
 Keres appear as pale, sickly women standing about 5 feet tall and weighing less than 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kere)
 ```encounter-table
 name: Kere

@@ -1,19 +1,21 @@
 ---
-alias: Scribe's Binding
+aliases: ["Scribe's Binding"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Scribe's Binding 
+## Scribe's Binding
 
 **source**:: Spymaster's Handbook pg. 29  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 9, occultist 6, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a book bound in precious metals and treated with rare oils, worth 1,000 gp per HD of the target)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Scribe's Binding
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Hermea’s benevolent Council of Enlightenment uses this spell to humanely preserve their society’s greatest minds from the ravages of time, though it has seen far more sinister employment when put to use by other organizations that have since discovered its utility. This spell binds a single creature into a prepared book, sustaining it in suspended animation and filling the book with its experience and knowledge. The tome weighs 10 pounds and has one page for every day of the subject’s life. The cover and binding transform to reflect the subject’s appearance, interests, and tastes. Every thought and memory-including those the target may have forgotten long ago-are perfectly transcribed within the enchanted pages, penned in excruciating detail in the language that the creature was thinking or speaking in when the event occurred. If a memory includes dialogue in a language the subject didn’t understand, that dialogue is reproduced phonetically, and must be translated by a reader who knows that language. Any alterations to a subject’s memories-such as by a *modify memory spell* -appear in a subtly different script; a successful DC 35 Linguistics check is needed to identify this.  
   

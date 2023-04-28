@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ketesthius
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 150
 desc_short: This enormous wolf-headed sea serpent’s maw leads into what seems to be an endless expanse within.
 ```
-# Description
+## Description
 Ketesthiuses are large sea monsters with wolf like heads and foreclaws, eel-like bodies, and powerful fish tails. They are voracious eaters with great jaws that can gulp down prey that can be as large as themselves. Creatures a ketesthius swallows are not digested immediately, because ketesthiuses’ vast stomachs and unique anatomy allow them to sustain living creatures inside their gullets indefinitely. Entire ecologies can form within a single ketesthius’s extradimensional digestive tract. Though the stomach’s ecosystem is capable of supporting life, it’s far from a welcome environment: no sunlight comes in, the air is thin and dank, and most creatures trapped within become feral in short order. Larger creatures that end up inside a ketesthius have a difficult time surviving long term, and must resort to quickly snapping up prey that their host later swallows.
 
  Though it makes no attempt to hoard treasure, within a ketesthius’s vast gut lies all the treasure of the creatures-and even ships-that the ketesthius has swallowed. More than once, tales of lost treasure within have led foolish adventurers to risk being intentionally swallowed by a ketesthius.
 
  An adult ketesthius typically measures over 50 feet long. Its weight varies based on the size of its extradimensional gullet, but usually ranges from 5-60 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ketesthius)
 ```encounter-table
 name: Ketesthius

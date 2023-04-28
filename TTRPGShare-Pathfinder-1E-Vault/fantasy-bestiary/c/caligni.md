@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caligni
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 66
 desc_short: Beneath ragged shreds, this lean figure’s chalky skin darkens to charred hues at the extremities.
 ```
-# Description
+## Description
 The name "caligni" is an ancient term for the races now collectively known as dark folk, sometimes still used by dark folk communities to refer to themselves. Untold generations ago, these subterranean dwellers aspired to grand destinies, and might have achieved them if not for the planned degeneration meted out by their controllers, the owbs. Yet even today, dark folk are sometimes born bearing an uncanny likeness to the ancients that dark stalkers still imitate. Throwbacks to the time before owb tampering, these individuals-called simply "caligni"-might be born from any dark folk race, reminders of their people’s half-remembered dreams.
 
 The birth of a caligni is a momentous sign, celebrated by many dark folk. Yet it’s not uncommon for a maturing caligni to threaten the caste-clans of dark folk society or offend an owb overlord; as a result, most caligni don’t survive to adulthood in dark folk society, falling victim to suspicious accidents or mysterious murders. The canniest caligni foresee their people’s treachery and leave, seeking homes elsewhere in the Darklands, and putting the talents they have learned among other dark folk to use in their own service, or in that of less treacherous allies.
@@ -62,7 +64,7 @@ The birth of a caligni is a momentous sign, celebrated by many dark folk. Yet it
 Caligni measure close to 6 feet tall but weigh as little as 125 pounds. They’re often mistaken for dark stalkers, though their features are more defined and individually distinctive beneath their thick wrappings. Their skin is bleached gray, deepening to obsidian at the extremities. Caligni age at the same rate as half-elves, and don’t typically breed true, instead giving birth to more common dark folk types-typically dark creepers.
 
 Most caligni adventurers become rogues and slayers, adopting the training of their dark creeper and dark stalker brethren. Some become alchemists, and the most depraved commune with the owbs as conjurers and summoners.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caligni)
 ```encounter-table
 name: Caligni

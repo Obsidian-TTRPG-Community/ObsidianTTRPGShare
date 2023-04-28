@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abaia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 7
 desc_short: This multi-eyed eel’s brightly colored markings shift in complex, ever-changing patterns.
 ```
-# Description
+## Description
 Originally from the primal world of the fey, an abaia protects lakes and their surroundings from exploitation, in particular by magic and overfishing. It favors waters with a mystical nature or supernatural properties. An abaia ignores creatures that take only what they need from the lake and otherwise show proper respect to the waters. Those that abuse an abaia’s lake risk capsized boats, floods, torrential rains, and even direct attacks. After sinking a vessel, an abaia searches the wreckage for magical treasure.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abaia)
 ```encounter-table
 name: Abaia

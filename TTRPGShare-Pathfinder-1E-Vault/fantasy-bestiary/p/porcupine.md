@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Porcupine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 222
 desc_short: This small-eyed rodent has a rounded body with numerous quills running all over its back.
 ```
-# Description
+## Description
 Porcupines are omnivorous mammals that often climb trees in search of food. The spines on their back provide camouflage as well as protection from natural predators-typically other small mammals. Though primarily nocturnal, porcupines do occasionally graze during the day, eating the twigs, roots, and stems of bushes, coniferous trees, and other flora. Porcupine quills normally lie flat against the creature’s body, but stand stiffly on end when the porcupine feels threatened.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Porcupine)
 ```encounter-table
 name: Porcupine

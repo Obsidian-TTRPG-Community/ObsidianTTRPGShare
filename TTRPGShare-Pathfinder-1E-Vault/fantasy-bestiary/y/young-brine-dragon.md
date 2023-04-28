@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Brine Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 94
 desc_short: A blue-green neck frill sweeps back from the head of this dragon, leading to a body of shiny scales and fin-like crests. 
 ```
-# Description
+## Description
 Although not inherently evil, brine dragons have little patience for kindness and philanthropy. As they age, they grow more and more opinionated and obsessed with power-by adult age, a brine dragon counts itself a failure if it doesn't rule over a collection of “lesser beings” such as humans, merfolk, locathah, or even sahuagin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Brine%20Dragon)
 ```encounter-table
 name: Young Brine Dragon

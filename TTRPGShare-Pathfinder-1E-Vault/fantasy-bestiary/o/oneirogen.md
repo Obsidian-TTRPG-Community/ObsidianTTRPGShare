@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oneirogen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 88
 desc_short: This vague, humanoid figure seems to be the source of a bank of unnaturally colored fog.
 ```
-# Description
+## Description
 Oneirogens were once normal mortals who suffered a rare but terrible curse. Within them lies a sliver-sized tear between planes, a crack hardly larger than a pinprick that destroys everything they once were in an endless deluge of planar power. Created by magical mistakes and otherworldly conjunctions, oneirogens wander in a haze as living husks whose grip on any reality has been erased. What little remains of their minds is bent on self-preservation, even as they are locked at the center of storms of strange powers endlessly streaming from their mouths and nostrils. The death of their personalities might be a mercy, but what lingers on are primal beings, slaves of uncontrolled planar might.
 
 While the portal trapped within an oneirogen might connect to any plane of existence, it most commonly provides a path to the Dimension of Dreams. As mortal minds already drift toward that realm, breaches between the waking and unconscious worlds might occur when potent magics attempt to tamper with the boundaries of dream. The notorious tome, The Chain of Nights, is just one grimoire known to plumb the depths of thought and nightmare. Those who attempt to use such magic without full mastery, though, risk transforming themselves or those they would aid into drifters trapped between planes.
@@ -61,7 +63,7 @@ While the portal trapped within an oneirogen might connect to any plane of exist
 Some rare, unsettling reports tell of groups of oneirogens collecting in a single place, flooding the surrounding area with planar energies. The effects of such energies on the world surrounding them are unpredictable and usually deadly to native inhabitants.
 
 Oneirogens might arise from any humanoid race, but always appear as mysterious figures cloaked in a strange haze or fog. These creatures rarely live for long, as their bodies swiftly wither from exposure to planar energies, and most lack enough sense of self to bother with eating or other basic needs. Only if protected and tended will an oneirogen live for more than a week.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oneirogen)
 ```encounter-table
 name: Oneirogen

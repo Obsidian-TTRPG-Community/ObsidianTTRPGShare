@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Albino Cave Solifugid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 253
 desc_short: This spider-like creature’s front legs end in immense, grasping claws. Its mouth sports a pair of huge vertical mandibles.
 ```
-# Description
+## Description
 The six-legged albino cave solifugid is well known for its aggressive hunting patterns. It has a legspan of 5 feet, and weighs 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Albino%20Cave%20Solifugid)
 ```encounter-table
 name: Albino Cave Solifugid

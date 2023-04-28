@@ -1,19 +1,21 @@
 ---
-alias: Mythic Order's Wrath
+aliases: ["Mythic Order's Wrath"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Order's Wrath
+## Mythic Order's Wrath
 
 **source**:: Mythic Adventures pg. 103  
 **school**:: evocation (lawful)
 **level**:: cleric 4, inquisitor 4, oracle 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: nonlawful creatures within a burst that fills a 30-ft. cube  
@@ -21,7 +23,7 @@ alias: Mythic Order's Wrath
 **saving-throw**:: Will partial; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You channel lawful power to smite enemies. The power takes the form of a three-dimensional grid of energy. Only chaotic and neutral (not lawful) creatures are harmed by the spell.  
   

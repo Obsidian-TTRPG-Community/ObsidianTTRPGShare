@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: River Elk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 80
 desc_short: This majestic beast stands the height of a man at its shoulders, a many-tipped rack of proud antlers crowning its head.
 ```
-# Description
+## Description
 Powerful and swift land mammals, elk range through the plains, hills, and forests of many wildernesses, in great herds. Related to deer, elk prove important parts of many ecologies, being able to fend off or flee many threats while feeding greater predators. Their size, strength, and antlers-reaching up to 10 feet wide on some males- allow them to contend with most of their environment’s dangers, though herds generally favor flight to combat. Elk also prove exceptionably adaptable and remarkable survivors, capable of living through severe changes in weather and in a variety of environments without concern. Many humanoid cultures rely on elk herds, using them as valued food sources, work animals, and companions.
 
 Most breeds of elk stand between 3 and 5 feet tall and weigh between 350 and 550 pounds, with females being far slighter than males. Heartier stock, such as the river elk seen throughout the River Kingdoms, Brevoy, and much of northern Avistan and Iobaria, grow to approximately 6 feet tall and weigh between 700 and 1,100 pounds. In some secluded wilds, primeval megaloceros-massive ancestors of the elk-still flourish, standing up to 9 feet tall, with bulks of 1,500 pounds and antlers growing over 12 feet wide.
 
 In all species, only male elk grow antlers. Female elk have the same statistics as males, but lack the gore or powerful charge attacks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=River%20Elk)
 ```encounter-table
 name: River Elk

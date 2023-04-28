@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oliphaunt of Jandelay
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 58
 desc_short: The elephantine creature is titanic in scale. Curving tusks frame its flexing, muscular trunk and its canyon of a mouth.
 ```
-# Description
+## Description
 Only once did the Oliphaunt of Jandelay set foot on Golarion. A runelord of Thassilon, a precursor of Karzoug, had the knowledge to call the creature, and the ambition and ego to do so despite the risks. He erected the Spindlehorn, a slender tower of dark slate thousands of feet tall, in the Wyvern Mountains simply so he could look the Oliphaunt in the eye and attempt to control it. And control it he did.
 
 The Oliphaunt caused the carnage the runelord intended, destroying an invading army from Azlant. Black clouds sprang from a clear sky around the mountain of a creature, and lightning and hail shot down on the amassed troops. Every impact of the thing’s foot shook the ground, and the thunder of the Oliphaunt’s march through the armies drowned out even the screams of the dying thousands. A massive valley marked the path where the Oliphaunt trod, with entire cities lying buried underneath the earth by the crushing footfalls.
@@ -80,7 +82,7 @@ Since the fall of the runelords and Thassilon, lore about the Oliphaunt and Jand
 Few alive on Golarion even know about the Oliphaunt, but even fewer understand what Jandelay itself is. Some believe it’s the name of the person who first scribed a tale of the Oliphaunt, others think it’s an even greater progenitor beast that spawned the creature. Those who’ve deeply researched to topic found only a few hints. The most compelling of these are within the epic poem Jandelay, as inscribed at the base of the Spindlehorn. The poem tells of the Oliphaunt’s rampage and the other legendary acts of the runelord who summoned it (though lacking specific details of how the runelord pulled off this feat). However, within the poem is a cipher that when translated reveals these words:
 
  Jandelay, proof against the Maelstrom, Jandelay, of green fields and faultless spires; No sane soul born dares trespass fair Jandelay For the Oliphaunt guards you always.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oliphaunt%20of%20Jandelay)
 ```encounter-table
 name: Oliphaunt of Jandelay

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rokyamut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 54
 desc_short: Built of steel and clockwork, this massive figure has the lower body of an elephant and the upper body of a four-armed giant.
 ```
-# Description
+## Description
 Rokyamuts are rigid defenders of mathematical laws and geometric truths, seeking out those who would bend space or subvert the rules of reality. Their targets are primarily aberrant aliens, plane-twisting outsiders, and cosmic calamities, but they oppose any creatures that view the immutable laws of physics as suggestions rather than rules. Rokyamuts are juggernauts of stability found in the warped places of the multiverse.
 
  Rokyamuts have a thick, armored chassis that resembles an elephant from the waist down. Four powerful arms protrude from their barrel-chested torsos, two on each side. Their heads are capped with bare steel. Complex and delicate clockworks are visible in openings at their joints. A halo of glowing symbols floats around a rokyamut’s head, expressing mathematical functions in a dizzying array of languages and computational systems. Rokyamuts can conjure similar symbols into their hands to use as weapons, fighting with calculated precision. Although these blades are effective against nearly any foe, rokyamuts can sense the presence of lawful creatures instinctively and rarely target them unless provoked.
@@ -86,7 +88,7 @@ Rokyamuts are rigid defenders of mathematical laws and geometric truths, seeking
  Rokyamuts working as cosmic stabilizers often operate alone to explore the depths of space on the Material Plane in order to confront dangerous aliens or rogue cosmic phenomena. These rokyamuts make plans on truly enormous scales, such as crashing a planetoid into a pending solar flare to prevent a severe gravitational event. They are often knowledgeable about the Great Old Ones and the Dominion of the Black, as their missions take them into conflict with these entities on a regular basis. Cosmic stabilizers are often surly and untrusting, and see their missions in stark black-and-white terms. Few creatures consider these rokyamuts pleasant company, and fewer still intentionally draw their single-minded ire.
 
  A rokyamut is 65 feet tall and weighs 200 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rokyamut)
 ```encounter-table
 name: Rokyamut

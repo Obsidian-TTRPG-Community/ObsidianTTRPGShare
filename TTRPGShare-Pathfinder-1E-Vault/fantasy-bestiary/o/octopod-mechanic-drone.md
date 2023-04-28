@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Octopod Mechanic Drone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 56
 desc_short: This octopus-like robot has eight tentacles that it uses to repair multiple machines at a time.
 ```
-# Description
+## Description
 Octopod mechanic drones are the ultimate in repair-robot technology. These multilimbed robots can manipulate each of their metal tentacles with extreme precision, allowing them to perform delicate fixes and repair many machines at once. Octopod mechanic drones also have the ability to anchor themselves to the ground, allowing them to commit their tentacles entirely to repair rather than having to use them for support. Owners of octopod mechanic drones often rely on the robots to manage the rest of their mechanical workers; the robots communicate more loudly and directly than others of their kind, making them natural leaders, and they have a distinct ability to coordinate the group for maximum efficiency.
 
  An octopod mechanic drone is about 6 feet tall, with tentacles roughly 10 feet long, and weighs approximately 750 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Octopod%20Mechanic%20Drone)
 ```encounter-table
 name: Octopod Mechanic Drone

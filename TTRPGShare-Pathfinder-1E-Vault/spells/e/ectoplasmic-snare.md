@@ -1,19 +1,21 @@
 ---
-alias: Ectoplasmic Snare
+aliases: [Ectoplasmic Snare]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ectoplasmic Snare 
+## Ectoplasmic Snare
 
 **source**:: Occult Adventures pg. 168  
 **school**:: evocation
 **level**:: arcanist 3, magus 3, psychic 3, shaman 3, sorcerer 3, spiritualist 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: entangling web of ectoplasm  
@@ -21,7 +23,7 @@ alias: Ectoplasmic Snare
 **saving-throw**:: Reflex partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You unleash a writhing tendril of ectoplasm to grapple or entangle a target creature. You must make a ranged touch attack to strike a target. If you hit, the target can attempt a Reflex save. On a successful save, the target is entangled for the duration of the spell and suffers no other effects. If the target fails this saving throw, the tendril is more restrictive, making the target grappled and dealing it 1d6+4 points of bludgeoning damage. Each round when you concentrate to maintain the spell, the snare attempts a grapple combat maneuver check to maintain the grapple. As normal when grappling, the snare gains a +5 bonus on grapple combat maneuver checks against opponents it is already grappling. The snare’s CMB is equal to 6 + your caster level, and its CMD is equal to 16 + your caster level. Since the ectoplasm passes between planes, this spell affects incorporeal and ethereal creatures normally.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Channel the Gift
+aliases: [Channel the Gift]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Channel the Gift 
+## Channel the Gift
 
 **source**:: Inner Sea Gods pg. 230, Gods and Magic pg. 27  
 **school**:: evocation
 **level**:: arcanist 3, bard 3, cleric 3, druid 3, hunter 3, oracle 3, ranger 3, skald 3, sorcerer 3, warpriest 3, witch 3, wizard 3 (Nethys)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: ally spellcaster touched  
@@ -21,7 +23,7 @@ alias: Channel the Gift
 **saving-throw**:: Will negates (harmless) or none
 **spell-resistance**:: yes (harmless) or no
 
-### Description 
+### Description
 
 You channel your magical power to fuel the target’s spellcasting. The next spell the target casts of 3rd level or lower does not expend a spell slot; in effect, you are using your spell slot to power the target’s spell. The target must start casting this spell before your next turn, and the spell cannot have a casting time longer than 1 full round. Your alignment, prohibited wizard school, and other restrictions on your own spellcasting do not affect the target, nor do you suffer any backlash from the target’s choice of spell.  
   

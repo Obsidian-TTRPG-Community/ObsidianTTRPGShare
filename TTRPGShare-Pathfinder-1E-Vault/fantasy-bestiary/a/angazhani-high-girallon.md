@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Angazhani (High Girallon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 58
 desc_short: This horned, albino ape has four arms and thick white fur braided with bone fetishes and trophies. It carries a strangely shaped throwing axe.
 ```
-# Description
+## Description
 Physically, high girallons are larger, more powerful versions of their lesser cousins. Yet the most dangerous thing about the angazhani (as the creatures call themselves) is not their strength, but rather their intellect. For behind each angazhani’s fury lies a cold, calculating mind. Whether this intelligence is the product of evolution or meddling by unholy powers, all angazhani honor the demon lord Angazhan. Reclusive by nature, high girallon clans settle the most secluded depths of the jungles, generally inhabiting ruined cities and misty mountain temples. There they rule as divine priestkings over tribes of lesser apes. These congregations sometimes even include humanoid slaves or cultists, though the angazhani prefer raiding and collect tribute over commanding direct service. They rarely reveal themselves to outsiders, and instead quietly gather strength against the day their patron sends them out to claim all the world’s forests.
 
 High girallons stand 9 feet tall and weigh nearly a thousand pounds. They often dress in hides, and they fight with exotically shaped throwing axes or sacrificial knives.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Angazhani%20(High%20Girallon))
 ```encounter-table
 name: Angazhani (High Girallon)

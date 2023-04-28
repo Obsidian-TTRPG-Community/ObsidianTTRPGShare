@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lamprey
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 199
 desc_short: This serpentine fish has a horrific circular mouth filled with hooklike teeth.
 ```
-# Description
+## Description
 A lamprey is a tiny jawless fish with a funnel-shaped sucking mouth that contains numerous razor-sharp teeth, which it uses to cut through skin and bore into the flesh of its victims to suck their blood. Lampreys are often found on larger fish in the ocean where they are engaged in symbiotic relationships.
 
  Lampreys can reach a length of up to 4 feet and weigh up to 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lamprey)
 ```encounter-table
 name: Lamprey

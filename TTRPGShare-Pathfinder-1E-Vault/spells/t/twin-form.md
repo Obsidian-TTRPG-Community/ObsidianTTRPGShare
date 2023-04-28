@@ -1,25 +1,27 @@
 ---
-alias: Twin Form
+aliases: [Twin Form]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Twin Form 
+## Twin Form
 
 **source**:: Advanced Player's Guide pg. 252  
 **school**:: transmutation
 **level**:: alchemist 6, investigator 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a blend of soil and the caster’s blood)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level or until discharged (D)
 
-### Description 
+### Description
 
 This extract splits a perfect double of yourself from your body, dressed and equipped exactly as you are. You are able to shift your consciousness from one body to the other once each round as a free action. This shift takes place either immediately before your turn or immediately after it, but not during the round. You may act normally in the body you inhabit. Your other self is treated as though dazed, except it may take a single move action each round during your turn. Your twin cannot speak while you are in your other body, and cannot flank, make attacks of opportunity, or otherwise threaten enemies.  
   

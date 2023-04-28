@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shieldmarshal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 50
 ```
-# Description
+## Description
 Shieldmarshals uphold the law in the Grand Duchy of Alkenstar. Chief among their duties is preserving the secrets behind Alkenstar’s most advanced weapons. Their badges, an emblem of crossed rif les, grant them the authority to enter nearly any building in Alkenstar in the course of their investigations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shieldmarshal)
 ```encounter-table
 name: NPC Shieldmarshal

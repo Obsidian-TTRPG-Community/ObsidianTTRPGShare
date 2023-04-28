@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goezspall
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 62
 desc_short: This strange, alien-looking monstrosity has thickly armored hide and several sharp talons at the end of each of its stumpy legs.
 ```
-# Description
+## Description
 Though rare, goezspalls have been observed living in extremely varied locations. From the frozen north to the depths of the deepest caverns, these bizarre, segmented creatures thrive in any environment, including the depths of the sea, boiling hot springs, and even, some claim, the void of space. Though not typically hostile, these omnivores hunt aggressively when hungry, especially after months or years in hibernation. A goezspall is 14 feet long and weighs 3,500 pounds, though some lore describes smaller and larger specimens.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goezspall)
 ```encounter-table
 name: Goezspall

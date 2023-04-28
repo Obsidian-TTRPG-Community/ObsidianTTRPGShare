@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Andrazku
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 84
 desc_short: This burly, primitive-looking creature has an ape-like upper body, demonic horns, cloven hooves, and skin the color of a snow-buried corpse. 
 ```
-# Description
+## Description
 Andrazkus are thugs who use their strength to lord over weaker creatures. Their hatred is cold and seething, prone to suddenly snapping in an avalanche of ice and crushing blows. Birthed from the protomatter of the Abyss with natural gifts for tracking and subduing prey, they are sometimes used as trackers and jailors by more powerful demons who need to find lost prisoners and slaves. 
 
 From the waist up these demons are built much like strong, hairy humans or dwarves, but with exaggerated proportions resembling those of a gorilla. Their thick necks sport bristling manes that merge with the hair on their backs, and their flat faces bear two ramlike horns and cold eyes filled with hate. Their breath is a freezing fog, and their teeth are small but numerous, like a shark’s. An andrazku’s legs seem small in comparison to its torso, bend backward like a satyr’s, and end in large cloven hooves. Their skin is the dead blue of a frozen corpse or a frost giant. Their top-heavy builds mean they have difficulty standing upright and normally assume a hunched posture; many prefer to walk and run on all fours, like apes. An andrazku is 7 feet tall at the shoulder and weighs 450 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Andrazku)
 ```encounter-table
 name: Andrazku

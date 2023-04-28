@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ether Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 99
 desc_short: Bony plates cover the upper body of this dragon. Its lower frame has a glassy sheen, and bone wings protrude from its back.
 ```
-# Description
+## Description
 Paragons among their kind, ether drakes once roamed the Ethereal Plane, where they gorged themselves on the aether at the edges of the Elemental Planes. In time, they returned to the Material Plane for reasons unknown. Lacking the malicious nature of most drakes, ether drakes are generally content to prey on animals.
 
 When an unwelcome creature enters their territory, ether drakes use their psychic abilities to create mental links between others of their kind to coordinate and strategize. Ether drakes measure 16 feet long from head to tail and weigh around 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ether%20Drake)
 ```encounter-table
 name: Ether Drake

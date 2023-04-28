@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Onyx Scourge
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 86
 desc_short: This gigantic creature’s stony body is laced with veins of deep red and black minerals that pulse with dark energy. Its face is a mask of rage with glowing red eyes and a pit of pitch blackness for a mouth.
 ```
-# Description
+## Description
 Onyx scourges are vicious brutes from the Plane of Earth that revel in their deadly power. They resemble elder earth elementals with striations of red and black onyx. Negative energy pulses and flows through the streaks of onyx like blood through exposed veins. The hollows and depressions that serve as an onyx scourge’s eyes and mouth are deep voids warped into expressions of rage and hatred.
 
  Negative energy flows through each strike an onyx scourge makes, disrupting living and unliving matter alike. Onyx scourges can also unleash this energy in a devastating blast, which they enjoy using to inflict damage on multiple opponents at once. They gleefully wade into battle whenever given the opportunity.
 
  An onyx scourge is 40 feet tall and weighs 70,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Onyx%20Scourge)
 ```encounter-table
 name: Onyx Scourge

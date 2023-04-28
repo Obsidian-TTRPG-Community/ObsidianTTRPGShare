@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shoanti Burn Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 51
 ```
-# Description
+## Description
 The Shoanti Sklar-Quah, or Sun Clan, is the most violent and xenophobic group of an already violent and xenophobic people. Their rite of passage into adulthood, a dangerous trial known as the Burn Run, involves outrunning a wildfire, and their greatest warriors ride atop horses trained to carry their riders into flame-these are the burn riders. Their ferocity is known throughout the Cinderlands and beyond, both among the other Shoanti quahs and members of other races and ethnicities.
 
 The Sklar-Quah, more than any other clan, find themselves surrounded by enemies: Chelish settlers to the south and orc raiders to the east. This has led to an attitude of extreme hatred of non-Shoanti, which even extends to members of other quahs. All are taught to hate outsiders from a young age. This extreme prejudice is viewed as an important survival instinct that’s necessary for any who hope to make it in the unforgiving Cinderlands environment.
@@ -59,7 +61,7 @@ On rare occasions, outsiders may participate in the burn run as a means of gaini
 While magic such as endure elements or protection from energy could aid a burn rider in their task, the Shoanti see the use of such spells as dishonorable and consider such methods of surviving the burn run shameful and beneath them.
 
 To conquer their fear, burn riders train themselves and their mounts to ride through the brushfires that often ignite in the Cinderlands. As such, neither they nor their mounts fear any challenge. They will not back down no matter the foe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shoanti%20Burn%20Rider)
 ```encounter-table
 name: NPC Shoanti Burn Rider

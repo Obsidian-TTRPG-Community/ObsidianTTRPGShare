@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chernobue
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 220
 desc_short: This slippery, writhing mass of tentacles and stalked mouths has one huge hideous eye and a fanged maw for a belly.
 ```
-# Description
+## Description
 The chernobue is a living manifestation of the vile fecundity of the Abyss-a monstrous, alien pregnancy made flesh. By infecting creatures with the Abyssal taint they carry, they spread pain and misfortune wherever they flop and writhe-and with their plane shift ability, they are ready to spread their filth throughout the multiverse. A chernobue is 13 feet long and weighs 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chernobue)
 ```encounter-table
 name: Chernobue

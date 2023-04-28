@@ -1,19 +1,21 @@
 ---
-alias: Fool's Teleport
+aliases: ["Fool's Teleport"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fool's Teleport 
+## Fool's Teleport
 
 **source**:: Occult Origins pg. 13  
 **school**:: illusion (glamer)
 **level**:: arcanist 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal and touch  
 **target**:: you and other touched willing creatures  
@@ -21,7 +23,7 @@ alias: Fool's Teleport
 **saving-throw**:: Will negates (harmless), see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell instantly renders you unseen as per *invisibility*, but creates a visual and auditory display that makes it appear as if you had teleported away. You can affect one additional Medium or smaller creature or its equivalent per 3 caster levels (a Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth). All creatures to be affected must be in contact with one another, and at least one of those creatures must be in contact with you.  
   

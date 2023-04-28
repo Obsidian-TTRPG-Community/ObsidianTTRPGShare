@@ -1,19 +1,21 @@
 ---
-alias: Mythic Summon Swarm
+aliases: [Mythic Summon Swarm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Summon Swarm
+## Mythic Summon Swarm
 
 **source**:: Mythic Adventures pg. 109  
 **school**:: conjuration (summoning)
 **level**:: arcanist 2, bard 2, druid 2, hunter 2, shaman 2, skald 2, sorcerer 2, summoner 2, summoner (unchained) 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M/DF (a square of red cloth)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one swarm of bats, rats, or spiders  
@@ -21,7 +23,7 @@ alias: Mythic Summon Swarm
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You summon a swarm of bats, rats, or spiders (your choice), which attacks all other creatures within its area. (You may summon the swarm so that it shares the area of other creatures.) If no living creatures are within its area, the swarm attacks or pursues the nearest creature as best it can. The caster has no control over its target or direction of travel.
 

@@ -1,25 +1,27 @@
 ---
-alias: Iron Body
+aliases: [Iron Body]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Iron Body 
+## Iron Body
 
 **source**:: PRPG Core Rulebook pg. 302  
 **school**:: transmutation
 **level**:: arcanist 8, psychic 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a piece of iron from an iron golem, a hero's armor, or a war machine)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 This spell transforms your body into living iron, which grants you several powerful resistances and abilities. You gain damage reduction 15/adamantine. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You take only half damage from acid and fire. However, you also become vulnerable to all special attacks that affect iron golems.  
   

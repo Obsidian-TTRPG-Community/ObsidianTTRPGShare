@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deathtrap Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 64
 desc_short: The killing blade of this horrific trap drips with an animated sheen of foul brown-orange slime.
 ```
-# Description
+## Description
 A deathtrap ooze is a disgusting mass of brown-orange sludge that moves and hunts of its own volition. It exists only to feed. Thought to be related to ochre jellies, the deathtrap ooze is up to 12 feet wide and 6 inches deep in its normal, mobile form. While moving, it shrinks a foot or two in width, gaining about 6 inches of height, and rolls forward in a quivering mass.
 
 Deathtrap oozes are less inclined to look for prey than are other oozes-they prefer to hunt by ambush. Their ability to assume the form of simple mechanical traps has long intrigued scholars, but this ability is not something born out of intellect as much as by supernatural cunning. A deathtrap ooze lacks any creative ability-it can only mimic traps that it has encountered during its wanderings, and even then, the repertoire of trap designs it can draw upon is limited to just the last few it has encountered.
@@ -57,7 +59,7 @@ Deathtrap oozes are less inclined to look for prey than are other oozes-they pre
 These oozes surely have an origin rooted in magical meddling. Countless ancient crypts have such oozes within, lurking patiently in ageless trap form, awaiting would-be tomb-raiders for a first-in-centuries breakfast. Those who have studied the deathtrap ooze suppose that wizards of some lost culture altered ochre jellies into perfect guardians.
 
 Like ochre jellies, elder deathtrap oozes can grow to be enormous. Rumor holds that some can also duplicate even more complex traps that release toxic fumes, spray acid, or contain poison. Some even claim there are oozes so huge that they can duplicate traps that fill entire rooms with multiple moving parts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deathtrap%20Ooze)
 ```encounter-table
 name: Deathtrap Ooze

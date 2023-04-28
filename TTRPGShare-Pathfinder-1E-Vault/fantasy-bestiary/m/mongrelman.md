@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mongrelman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,7 +46,7 @@ sources:
     desc: 191
 desc_short: Ivory tusks, insect chitin, matted fur, scaly flesh, and more combine to form a hideous humanoid shape.
 ```
-# Description
+## Description
 Despite their monstrous appearances, mongrelmen are generally hardworking and peaceful creatures. A mongrelman can produce offspring with any humanoid, mixing bloodlines in strange ways to create hardier crossbreeds. No two mongrelmen look the same. One may have a face that is half hobgoblin, half lizardfolk, with one human-like foot and one cloven hoof, while his sister may have elven ears, a dwarven beard, orc tusks, and clawed hands. Each mongrelman usually has characteristics from at least a half-dozen different races. This strange mixture enforces mongrelmen’s place in the edges of the world, for they are shunned by all who fear their twisted appearance. Mistaken as enemies by all, mongrelmen prefer to be left alone.
 
 Most mongrelmen live below the surface of the world in hidden caves far from civilization. These creatures pride themselves on their survival skills, for the bowels of the earth are no place for weaklings. Other foul and intelligent races who claim dominion in the underworld take mongrelmen as slaves (particularly morlocks), finding this deformed race’s docile nature and hardworking attitude makes them extremely useful as tools of labor. In this role, mongrelmen still fall back on their pride of survival, slow to rebel and patiently waiting for the overthrow of their masters.
@@ -52,7 +54,7 @@ Most mongrelmen live below the surface of the world in hidden caves far from civ
 Mongrelmen dwelling on the surface sometimes live amid the hustle and bustle of cities, sequestering themselves in ghettos and sewers to avoid notice. Urban mongrelmen may rely on begging and pickpocketing to get by, but most form rural communities near trading routes.
 
 Despite their varied physical forms, most mongrelmen average 5-6 feet tall and weigh between 150 and 250 pounds on average. A tragically short lifespan limits the creatures’ population growth-mongrelmen rarely live past 35 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mongrelman)
 ```encounter-table
 name: Mongrelman

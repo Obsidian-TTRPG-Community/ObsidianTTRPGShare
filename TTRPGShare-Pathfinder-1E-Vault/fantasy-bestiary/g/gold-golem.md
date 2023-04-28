@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gold Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 140
 desc_short: This golden statue stands proud, bearing a regal scepter in one hand. Its other arm is stretched out, ending in an upraised fist.
 ```
-# Description
+## Description
 Gold golems are extravagant constructs, crafted at great expense at the command of the rich and powerful. They’re most often used to guard palaces and family vaults, but are rarely placed in areas that are hidden away from casual observation. 
 
 Many of those who expend the funds to create a gold golem aren’t the type to hide the conspicuous display of their wealth from their visitors. A gold golem is humanoid in appearance, standing 10 feet tall and weighing 4,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gold%20Golem)
 ```encounter-table
 name: Gold Golem

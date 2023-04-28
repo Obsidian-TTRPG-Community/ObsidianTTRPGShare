@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Keketar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 60
 desc_short: Colors dance over this serpentine creature’s scales. A strange crown of energy glows above the thing’s reptilian head.
 ```
-# Description
+## Description
 Priests and prophets, keketars are the leaders of their race, guiding proteans in their sacred mission to return all existence to primal chaos.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Keketar)
 ```encounter-table
 name: Keketar

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Coliseum (Champion)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
   - name: GameMastery Guide
     desc: 263
 ```
-# Description
+## Description
 The champion is mistress of the arena, leaving in her wake a trail of wrecked armaments, battered bodies, and shattered dreams. Raising her bloodied blade, she exults in the roar of the crowd and the terror she inspires in her foes. Champions can also be used as barbarian chieftains or mercenary captains. A champion is usually encountered alone or in the company of a pair of lesser gladiators (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Coliseum%20(Champion))
 ```encounter-table
 name: NPC Coliseum (Champion)

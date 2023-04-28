@@ -1,19 +1,21 @@
 ---
-alias: Torrent of Elemental Rage
+aliases: [Torrent of Elemental Rage]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Torrent of Elemental Rage 
+## Torrent of Elemental Rage
 
 **source**:: Pathfinder \#24: The Final Wish pg. 60  
 **school**:: evocation (air, earth, fire, water)
 **level**:: arcanist 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF
 
-### Effect 
+### Effect
 
 **range**::  
 **effect**:: persistent line of elements 30 ft. long  
@@ -21,7 +23,7 @@ alias: Torrent of Elemental Rage
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A shimmering torrent of raw elemental power springs into existence, originating from your outstretched palms. The blast resembles a horizontal whirlwind of howling winds, searing flame, and tumbling shrapnel of ice and metal. Any creature in the area of effect must make a Reflex save or take 8d6 points of damage from a variety of effects-2d6 points of fire damage, 2d6 points of cold damage, 2d6 points of sonic damage, and 2d6 points of slashing damage that overcomes adamantine damage reduction.  
   

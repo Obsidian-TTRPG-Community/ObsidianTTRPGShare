@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Festrog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 30
 desc_short: This hideously malformed, hairless, pustule-covered corpse moves and snarls more like an undead hound than an undead man.
 ```
-# Description
+## Description
 A festrog is an undead abomination spawned when a creature is killed by a massive release of negative energy (perhaps due to planar bleeding, the destruction of a potent artifact, or even certain magical attacks by powerful undead), and then mutilated by an outside force, such as the scavenging of wild animals. Sometimes called dog-ghouls for their ability to run on all fours, the name often causes opponents to misinterpret this creature’s abilities and grossly underestimate its intelligence, for the festrog is in fact a rather canny monstrosity.
 
 Festrogs inhabit remote areas near places where they were slain. It’s not uncommon for a tribe of festrogs to share territories with ghouls. Most festrogs gather in small bands, based on whatever loose affiliations they might recall from when they were alive, and choose dwellings in sunless areas easily defended with group tactics. Like ghouls, they tend to skulk about graveyards, though they prefer ones with tombs and mausoleums so they can hide during the day. They hunt nocturnally in packs, preferring open areas like plains, farmlands, or open forests where they can track down prey with few places for it to run or hide. These packs wander seminomadically, often traveling miles beyond their dwellings in pursuit of mortal flesh.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Festrog)
 ```encounter-table
 name: Festrog

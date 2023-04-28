@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bandersnatch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 32
 desc_short: This six-limbed beast stalks forward with a fluid grace. Barbed quills run along its back, and its eyes glow with a blue light.
 ```
-# Description
+## Description
 Bandersnatches are consummate hunters, and only the deadliest predators or the most cunning intelligent prey offer them sport. Once a bandersnatch has marked a creature for death, it runs it to ground without fear, rest, or remorse.
 
 Bandersnatches rely on speed, shock, and terror to bring down prey. They pace their quarry from a distance, hidden among the trees, then break from cover, savage their target, and dart away again. They drag smaller creatures away to dispatch at leisure, while engaging larger ones in skirmishes until they gradually wear their prey down. An outmatched bandersnatch withdraws at full speed, stopping only to pick off pursuers that distance themselves from their allies. Once its wounds heal, the bandersnatch returns to the scene of its defeat, picks up the trail of its assailants, and eliminates them one by one.
@@ -83,7 +85,7 @@ In appearance, a bandersnatch resembles a tawny, six-legged great cat, but with 
 Bandersnatches were once native to the primal world of the fey, where they preyed on the greatest hunters of that ancient realm. As with other legendary creatures from this realm, such as the jabberwock, bandersnatches belong to a group of creatures known collectively as the “Tane.” Whether the fey were careless in guarding their portals or released the first bandersnatches into Material Plane deliberately cannot be said with certainty. Rare in the extreme on the Material Plane, bandersnatches lair within forgotten forests where ancient beasts walk the world.
 
 Bandersnatches mate only rarely. A female becomes fertile perhaps once or twice per century, leaving the male soon after mating and giving birth to only one or two kittens per litter. The mother brings meat to her ravenous young, which mature into lesser bandersnatches (see below) within a year. Bandersnatches live for a thousand years or longer.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bandersnatch)
 ```encounter-table
 name: Bandersnatch

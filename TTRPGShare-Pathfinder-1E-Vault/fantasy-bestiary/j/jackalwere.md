@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jackalwere
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 154
 desc_short: This armored humanoid has a jackal’s head, bulging muscles, and a gaze that makes the world drift away.
 ```
-# Description
+## Description
 Jackalweres are evil, supernatural jackals born with the ability to assume human form. Some folks superstitiously consider jackalweres to be emissaries of evil spirits or wicked desert gods, and it is easy to understand why, as they can take the shape of a human and possess a keen intellect; however, they also have a taste for murder and humanoid flesh.
 
 In its hybrid form, a jackalwere stands 6 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jackalwere)
 ```encounter-table
 name: Jackalwere

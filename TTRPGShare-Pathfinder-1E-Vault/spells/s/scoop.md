@@ -1,19 +1,21 @@
 ---
-alias: Scoop
+aliases: [Scoop]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Scoop 
+## Scoop
 
 **source**:: Paizo Blog - Ultimate Cantrips pg. 0  
 **school**:: evocation (force)
 **level**:: arcanist 0, sorcerer 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 6 inch diameter container of force  
@@ -21,7 +23,7 @@ alias: Scoop
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You will a small vessel of force into existence. As a move action, you can direct the container up to 15 feet per round in any direction, though the spell ends if the distance between you and the container ever exceeds the spell’s range. You can dip the container to pick up or drop a liquid as a move action. The vessel holds up to 1 pint of liquid or small objects, weighing up to 5 pounds. You can also gather up a pint of liquid or small objects spread cross a surface with 1 minute of careful concentration.  
   

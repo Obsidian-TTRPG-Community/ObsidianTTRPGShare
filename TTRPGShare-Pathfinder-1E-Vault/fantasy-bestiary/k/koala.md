@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Koala
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,11 +43,11 @@ sources:
     desc: 26
 desc_short: This wide-faced animal looks like a small, plump bear with a flat black nose, small round eyes, and white-tufted ears.
 ```
-# Description
+## Description
 The koala’s cute appearance belies the tree-climbing marsupial’s aggressive nature. Koalas subsist solely on the leaves of the eucalyptus tree, which are all but inedible to most other mammals. Because of their highly selective diet, most koalas see little reason to stray from eucalyptus trees at all, so they spend most of their lives hanging on to branches or moving from crook to crook by swinging between boughs. Due to this specialized diet, people who take a koala as a pet or familiar should secure a regular supply of eucalyptus leaves for the animal to eat, particularly if the person plans to go on a long journey in a place where those trees can’t be easily found. When a koala walks (usually just to get from tree to tree), it does so on all fours.
 
  A koala measures about 2-1/2 feet from tail to nose and can weigh up to 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Koala)
 ```encounter-table
 name: Koala

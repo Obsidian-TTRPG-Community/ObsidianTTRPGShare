@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ovinnik
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 87
 desc_short: Covered in sleek black fur, this vaguely feline humanoid holds flickering flames in its clawed hand.
 ```
-# Description
+## Description
 Ovinniks make their homes in granaries and drying houses. These thin, sleek, black-furred humanoids stand only a foot high. Their eyes and features seem catlike, but they bark like dogs to scare away thieves. No one knows why an ovinnik chooses to take up residence in a particular farm’s threshing house, and few would call on them willingly. A wise farmer placates resident ovinniks with frequent gifts of warm milk, pancakes, or dead roosters. By tradition, before the new year, farmers and their families go to the granary to learn their fates for the future. The ovinnik touches each of them in turn. If the ovinnik’s touch is warm, the person will have good luck; if cold, she will suffer terrible misfortune in the days ahead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ovinnik)
 ```encounter-table
 name: Ovinnik

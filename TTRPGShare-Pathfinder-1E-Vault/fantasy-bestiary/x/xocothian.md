@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xocothian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 291
 desc_short: This serpentine mix of flying fish and great seabird rolls and twists like waves in an ocean storm.
 ```
-# Description
+## Description
 A xocothian is a physical manifestation of Gozreh’s dual nature and destructive power. As a creature that has a form mingling both fish and fowl, it’s as at home in the water as it is in the air. A xocothian amuses itself by manipulating clouds-it can fly in a way that whips off portions of clouds, allowing the creature to sculpt the cloud into fantastic creations. When on the sea, the creature dives in and out of the waves in a way that looks almost like a massive skipping stone dipping below the waves with each strike and then erupting into the air in a spray of sea water.
 
 Blunt and impatient, xocothians aren’t fond of nuanced manipulation or clever gambits when dealing with others. They prefer straightforward approaches to obstacles and problems, and always takes such a route unless impeded in some way.
@@ -70,7 +72,7 @@ When on the Material Plane and not called into service by mortal worshipers of G
 When at sea, they sometimes surge past ships underwater or in the air to create confusion and panic. When feeling sociable, they chat with local animals and discuss matters of weather and migrations with members of Gozreh’s faith and respectful druids of other religions. They grow outraged with mortals who poison or pollute water and even those who befoul the air with bad smells (such as by burning garbage, casting stinking cloud, or running a tannery). Although they don’t need to eat, they sometimes choose to do so for pleasure, enjoying the sort of food that a carnivorous fish or bird would consume.
 
 As enigmatic as its creator, a xocothian may refer to itself as “I,” “we,” “she,” “he,” “it,” or “they,” whether in one body or two. Xocothians are about 8 feet long and weigh around 650 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xocothian)
 ```encounter-table
 name: Xocothian

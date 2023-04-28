@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogre Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 221
 desc_short: Clad in beautiful armor, this exotically garbed giant roars, its tusks glistening and its eyes afire with murderous intent.
 ```
-# Description
+## Description
 The ogre mage, like all oni, is an evil spirit come to the Material Plane and clad in living flesh-in this case, that of a brutish ogre. Ogre mages are often found serving as leaders of ogre tribes, yet not all of them seek to link their destinies to their less-intelligent kin. Some become lone marauders who hold villages hostage, demanding regular tribute in the form of gold, food, or maidens, lest they take more than they ask.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogre%20Mage)
 ```encounter-table
 name: Ogre Mage

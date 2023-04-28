@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slurk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 33
 desc_short: This disgusting beast looks like a slime-covered toad, but with two walrus-like tusks jutting from its upper jaw.
 ```
-# Description
+## Description
 Slurks are frog-like creatures, the descendants of the failed result of a dwarven attempt to domesticate and breed subterranean frogs as food and labor animals. Though the dwarves failed to create suitable livestock, the sticky frog-beasts are often befriended by other underground races.
 
 Slurks are carnivores and have a formidable bite, thanks to their massive tusks. Their true strength, however, lies in their foul-smelling and unnatural secretions. The mucus exuded from the slurk’s back is incredibly sticky and quickly hardens into a powerful resin, a quality the creature turns to its advantage by squirting it at intruders and then waiting for it to harden before closing for the kill. At the same time, the liquid excreted by glands on a slurk’s stomach is incredible slippery, allowing the slurk to keep from being immobilized by its own back slime and also making it extremely hard to grapple or maneuver without its consent. Combined with slurks’ natural ability to climb walls and hang from ceilings with ease, these abilities make the foul-smelling creatures extremely desirable to kobolds, who domesticate and train the frog-beasts as powerful mounts and guardians.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slurk)
 ```encounter-table
 name: Slurk

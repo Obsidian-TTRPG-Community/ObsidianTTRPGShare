@@ -1,19 +1,21 @@
 ---
-alias: Conditional Favor
+aliases: [Conditional Favor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Conditional Favor 
+## Conditional Favor
 
 **source**:: Ultimate Intrigue pg. 206  
 **school**:: abjuration
 **level**:: antipaladin 1, bard 2, cleric 2, inquisitor 2, mesmerist 2, occultist 2, oracle 2, paladin 1, skald 2, warpriest 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**::  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Conditional Favor
 **saving-throw**:: none (see below)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You must cast this spell immediately before casting another spell on the same creature, eliciting a promise or warning against a behavior and binding the target to the paired spell. If you don’t cast a paired spell, *conditional favor* has no effect. The paired spell must be from the abjuration, conjuration (healing), enchantment, or transmutation school or subschool, and must be cast on a willing creature. If the spell’s recipient violates the oath or prohibition while conditional favor remains in effect, the paired spell is undone as if never cast. If the spell was a healing spell, the hit point damage or condition you removed returns immediately, even if the subject has enjoyed subsequent rest or healing. Poisons, diseases, curses, restored ability damage, and negative levels removed by the paired spell return as well.  
   

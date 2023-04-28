@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arctic Hare
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 10
 desc_short: With shorter ears and limbs than other rabbits, this white rabbit is hard to spot in the snow.
 ```
-# Description
+## Description
 An arctic hare has adapted to life in cold environments but fares well in warmer climes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Arctic%20Hare)
 ```encounter-table
 name: Arctic Hare

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Assassin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 59
 desc_short: This sleek, one-eyed construct crouches, ready for battle. Its arms end in weapons-a rapier and a compact crossbow bolt launcher.
 ```
-# Description
+## Description
 Clockwork assassins are efficient killers, ready to leap into murderous action as soon as intruders are detected. A clockwork assassin stands 6 feet tall and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Assassin)
 ```encounter-table
 name: Clockwork Assassin

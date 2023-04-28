@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zalyakavat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -84,11 +86,11 @@ sources:
     desc: 90
 desc_short: This sinewy humanoid with putrid green skin and a grotesque, shrew-like snout wears little more than a colorful silk sarong and a thin, flexible blade worn as a belt.
 ```
-# Description
+## Description
 Shrew-faced rakshasas with a lust for physical combat, zalyakavats are spiritually and magically bound to their weapon of choice, the urumi. Fueling their whip-like swords with arcane power, they perform astonishing feats of martial prowess. To sate their lust for swordplay, zalyakavats continually seek opponents to challenge.
 
  A zalyakavat stands 6 and a half feet tall and weighs around 170 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zalyakavat)
 ```encounter-table
 name: Zalyakavat

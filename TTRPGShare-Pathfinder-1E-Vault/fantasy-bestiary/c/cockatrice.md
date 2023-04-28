@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cockatrice
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,13 +44,13 @@ sources:
     desc: 48
 desc_short: This hideous avian creature has the body of an emaciated rooster, the wings of a bat, and a long, scaly tail.
 ```
-# Description
+## Description
 Stupid, vicious, and repulsive, cockatrices are avoided by other creatures due to their magical ability to turn flesh to stone. Legends say that the first cockatrice emerged from an egg laid by a cockerel and incubated by a toad. Whether or not the story is true, today’s cockatrices breed true in terrifying and filthy dens haphazardly excavated by as many as a dozen of the squawking creatures. Males greatly outnumber females in these flocks, and are distinguished only by their wattles and combs. The typical cockatrice stands just over 2 feet high and weighs 5 pounds.
 
 While their diet consists primarily of seeds and petrified insects (which conveniently double in the creature’s gizzard as both gastroliths and nutrition as they grind away), cockatrices fiercely defend their territories from anything they deem a threat, and the wanderings of rogue males seeking new spots to build dens sometimes bring them into unintentional contact with humanoids, with devastating results.
 
 The cockatrice’s strange ability to turn other creatures to stone is the creature’s greatest defense, and a cockatrice lair is invariably littered with petrified remnants of foes. In an ironic twist of fate, however, weasels and ferrets-the creatures most likely to slip into cockatrices’ nests and consume their eggs-appear to be completely immune to the effect. For unknown reasons, cockatrices are both terrified of and enraged by conventional roosters, and are equally likely to flee or attack when confronted by one.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cockatrice)
 ```encounter-table
 name: Cockatrice

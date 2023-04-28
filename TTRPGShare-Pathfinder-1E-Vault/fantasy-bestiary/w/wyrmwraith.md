@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wyrmwraith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 280
 desc_short: This ghostly, skeletal creature appears to once have been a dragon, but it is now something far less noble.
 ```
-# Description
+## Description
 Wyrmwraiths arise from the souls of powerful dragons who refuse to accept death or have an irrational fear of moving on to an afterlife. No longer concerned with amassing wealth and power, wyrmwraiths instead brood with an unrelenting hatred of all living things. They hate other dragons above all else, seeing the existence of those living creatures as a mockery of their own.
 
  Wyrmwraiths typically haunt their former lairs or some other location where they can hide from the sunlight. They are drawn toward ancient ruins, forgotten catacombs, and other places associated with death. Litter, detritus and bones lie heaped in areas controlled by a wyrmwraith instead of the coins and gems. In the rare instances when a wyrmwraith is away from its den, the malice of its presence still lingers palpably in the cold air. Still displaying the draconic instinct to protect their homes from would-be thieves, wyrmwraiths will often create and leave behind undead guardians.
@@ -87,7 +89,7 @@ Wyrmwraiths arise from the souls of powerful dragons who refuse to accept death 
  Wyrmwraiths are very dangerous opponents in combat. They prefer to soften up enemies with their breath weapon and spells before closing in for melee. Wyrmwraiths target clerics, paladins, and other spellcasters wielding divine magic, both because they know divine magic possesses the greatest threat to them and because they see it as a chance to strike back against the gods for their accursed state. Wyrmwraiths care little about how many of their undead minions are destroyed in combat. They are merely pawns to the wyrmwraiths, who have the means at their disposal to create more.
 
  Wyrmwraiths appear as skeletal, ghostly versions of their former selves, their features warped by malice. No matter the size they once possessed, wyrmwraiths measure roughly 50 ft. from snout to tail. Unencumbered by f lesh, they move with a silent, effortless, and deadly grace. Even wyrmwraiths’ minds become changed in undeath. Already long-lived creatures when they were dragons, some wyrmwraiths have spent an even longer time as undead. Brooding and nurturing brutal hatred for the living for so long drives these wyrmwraiths insane, causing them to become reckless-or self-destructive-and to venture out into the night to rain down destruction on a nearby settlement or even an entire kingdom, knowing that they will eventually be hunted down and destroyed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wyrmwraith)
 ```encounter-table
 name: Wyrmwraith

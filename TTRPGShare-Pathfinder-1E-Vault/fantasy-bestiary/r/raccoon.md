@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raccoon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
   - name: Bestiary 3
     desc: 113
 ```
-# Description
+## Description
 Raccoons are inquisitive and cunning, and often have strangely humanoid mannerisms, like washing their food in streams.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raccoon)
 ```encounter-table
 name: Raccoon

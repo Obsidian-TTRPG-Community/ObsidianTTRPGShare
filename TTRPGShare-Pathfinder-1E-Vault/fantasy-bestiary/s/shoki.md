@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shoki
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 40
 desc_short: A wooden staff topped with a silver cage containing a ghostly face keeps this grizzled, snail-backed creature upright.
 ```
-# Description
+## Description
 Shokis are the collectors of lingering souls, tasked with compelling even the most deluded beings to take the first step into the afterlife. Their tactics are varied, but most start by counseling the wayward dead using theosophical arguments and blunt warnings about the ravenous things that wait to feed upon lost spirits. Each shoki bears powerful tools to aid it in such pursuits-eclectic collections of holy symbols and withered staves of cold iron capable of imprisoning a single soul at a time. Shokis use their staves against only the most stubborn or demented souls, whom they capture and personally escort to the Boneyard for judgment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shoki)
 ```encounter-table
 name: Shoki

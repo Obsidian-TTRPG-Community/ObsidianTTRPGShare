@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sapper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
   - name: NPC Codex
     desc: 262
 ```
-# Description
+## Description
 Sappers specialize in undermining fortifications and tunneling under walls. Using a combination of time, engineering, and explosives, sappers can rig a tunnel to collapse to protect a retreat or create a path over a mountainside. Their enthusiasm for blowing things up means they take unnecessary risks, and the lifespan of a professional sapper is often cut short in a dramatic blast.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sapper)
 ```encounter-table
 name: NPC Sapper

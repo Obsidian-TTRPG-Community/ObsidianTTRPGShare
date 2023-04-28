@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hammerhead Shark
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 84
 desc_short: Beneath this sleek gray shark’s unusually shaped head, a disproportionately small mouth flashes with razor-sharp teeth.
 ```
-# Description
+## Description
 Hammerheads’ heads give them a wider field of vision and allow them to pin prey to the seaf loor before devouring it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hammerhead%20Shark)
 ```encounter-table
 name: Hammerhead Shark

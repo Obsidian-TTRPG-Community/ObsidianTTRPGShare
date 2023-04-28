@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Winterwight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 283
 desc_short: Human-sized and of a deathly blue color, this long-taloned skeletal creature is partially encased in jagged sheets of ice.
 ```
-# Description
+## Description
 The winterwight is an undead horror born from the coldest depths of the negative energy plane. Infused with the dark, cold magic that permeates this realm of death, the winterwight takes the form of a skeleton coated in armor of jagged ice.
 
 Though it resembles an ordinary skeleton from a distance, the winterwight’s frame is much sturdier than the average humanoid’s, its frozen armor intertwining with its bone structure to form an incredibly hardy chassis. Sometimes called hatewraiths because of their insatiable lust for suffering, these frozen horrors are often found in areas that suffer from magical cold or frozen climates.
 
 Winterwights are 7 feet tall and weigh 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Winterwight)
 ```encounter-table
 name: Winterwight

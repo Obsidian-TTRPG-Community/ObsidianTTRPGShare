@@ -1,19 +1,21 @@
 ---
-alias: Rusting Grasp
+aliases: [Rusting Grasp]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rusting Grasp 
+## Rusting Grasp
 
 **source**:: PRPG Core Rulebook pg. 335  
 **school**:: transmutation
 **level**:: druid 4, hunter 4, occultist 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point) or one ferrous creature  
@@ -21,7 +23,7 @@ alias: Rusting Grasp
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Any iron or iron alloy item you touch crumbles into rust. If the item is so large that it cannot fit within a 3-foot radius, a 3-foot-radius volume of the metal is rusted and destroyed. Magic items made of metal are immune to this spell.  
   

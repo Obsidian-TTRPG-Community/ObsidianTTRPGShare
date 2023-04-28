@@ -1,19 +1,21 @@
 ---
-alias: Martyr's Bargain
+aliases: ["Martyr's Bargain"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Martyr's Bargain 
+## Martyr's Bargain
 
 **source**:: Inner Sea Magic pg. 58  
 **school**:: transmutation (good)
 **level**:: cleric 2, oracle 2, paladin 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 immediate action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Martyr's Bargain
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Among the faithful followers of the gods of purity-whether they be the servants of Desna in Nidal, zealous followers of Milani struggling against Cheliax’s government, paladins of Iomedae fighting against the horrors of the Worldwound, or simply those that fight evil the world over-*martyr’s bargain* represents true faith and true sacrifice.  
   

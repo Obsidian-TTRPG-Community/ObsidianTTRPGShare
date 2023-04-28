@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Greater Lightning Elemental
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: Bestiary 2
     desc: 117
 ```
-# Description
+## Description
 Though most think of the Plane of Air as a vast expanse of clear sky, that plane also holds the power of the storm, including monstrous hurricanes larger than entire worlds and thunderstorms whose peals and claps can shatter stone. Whether lightning elementals are the by-product of common air elementals spending too much time near these electrically charged storms or are merely calved off like forgotten flurries, they are aggressive and almost suicidal in their willingness to leap into battle. They particularly enjoy attacking creatures that are made of metal and creatures that wear metal armor or wield metal weapons. 
 
  Many lightning elementals have a roughly humanoid shape, but some prefer animalistic shapes (particularly birds and dragons), and a few appear to be nothing more than large disembodied heads made of dark clouds with flickering lightning tongues. Regardless of the shape a lightning elemental takes, the air around the creature hums and throbs with the promise of electrocution and the tangy stink of ozone.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Greater%20Lightning%20Elemental)
 ```encounter-table
 name: Greater Lightning Elemental

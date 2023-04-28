@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tzitzimitl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 276
 desc_short: Crusted with rock, this immense skeletal figure flies swiftly through the air, strange gasses clinging to its nightmarish form.
 ```
-# Description
+## Description
 Enigmatic creatures of darkness, some cultures claim tzitzimitls attack and consume entire suns to “shut down worlds” in preparation for the end of days. Sages say that these creatures come from the cold, dark places between the stars, and that in the darkness of any eclipse, one can see their immense, world-darkening shadows.
 
 Some claim ancient and forgotten deities of death and destruction created the first tzitzimitls as instruments of apocalypse, while others speculate they come from faraway worlds where immense planets teem with creatures of this scale, and that the immortal dead of these dark globes are banished to other worlds to spread devastation.
@@ -76,7 +78,7 @@ Some claim ancient and forgotten deities of death and destruction created the fi
 Tzitzimitls as a whole offer neither affirmation nor denial for these claims, and in fact seem to glory in such legends. Certainly, the arrival of a tzitzimitl upon a world heralds the advent of a time of great trouble, although whether or not the tzitzimitl actually presages such dark times or is the cause of them is a matter of debate. On some planets, tzitzimitls have already arrived, yet they lie dormant in ancient tombs, imprisoned ages ago by heroes who are long forgotten today.
 
 A tzitzimitl is 50 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tzitzimitl)
 ```encounter-table
 name: Tzitzimitl

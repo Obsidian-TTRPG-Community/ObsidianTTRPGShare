@@ -1,19 +1,21 @@
 ---
-alias: Guidance
+aliases: [Guidance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Guidance 
+## Guidance
 
 **source**:: PRPG Core Rulebook pg. 292  
 **school**:: divination
 **level**:: adept 0, cleric 0, druid 0, hunter 0, inquisitor 0, medium 0, occultist 0, oracle 0, shaman 0, spiritualist 0, summoner 0, summoner (unchained) 0, warpriest 0, witch 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,6 +23,6 @@ alias: Guidance
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.

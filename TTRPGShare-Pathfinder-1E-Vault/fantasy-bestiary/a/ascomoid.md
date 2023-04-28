@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ascomoid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
     desc: 6
 desc_short: This misshapen sphere of pale yellow-green fungus rolls with an unnerving speed, spewing clouds of foul spores as it advances.
 ```
-# Description
+## Description
 Organization solitary or cluster (2-8)
 Treasure noneSpecial AbilitiesPoison (Ex) Spores-inhaled; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 2 saves. The save DC is Constitution-based.
 
@@ -50,7 +52,7 @@ While ascomoids require no light to grow, they do require a moist environment. T
 Although they are typically solitary creatures, ascomoids dwelling in areas of ample moisture with generous sources of food-or frequent unwitting passersby-sometimes form deadly clusters. Such colonies of these giant fungi often lurk in large caverns among other pallid vegetation. Given ascomoids’ ability to detect vibrations, the slightest quake or potential footfall sets them rolling, turning their cavernous lairs into churning meat grinders. Bounding about violently, groups of ascomoids sometimes take hours to settle back down, unable to distinguish between the movements of prey and the tumbling of their own kind. In some cases, ascomoids have been known to lair at the top of steep rises, crushing climbers as they roll in terrible fungal avalanches.
 
 Those crushed by an ascomoid or who fall victim to an ascomoid’s spores face a revolting end, their bodies becoming hosts to quick-growing colonies of rampant fungi. Immature ascomoid mold sprouts quickly, typically appearing within 24 hours. After 48 hours, such victims become so overgrown with this furry, brown-green mold that they can no longer be restored to life by raise dead, as their bodies are too vitally pervaded and thoroughly consumed by the swiftly spreading mold. Within a month, a new ascomoid emerges from the foul mess.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ascomoid)
 ```encounter-table
 name: Ascomoid

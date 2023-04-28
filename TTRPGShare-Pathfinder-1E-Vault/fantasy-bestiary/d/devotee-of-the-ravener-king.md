@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Devotee of the Ravener King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 14
 desc_short: Clad in bloodstains, ivory fetishes, and animal hides, this apelike priest’s regalia speaks to the horrible powers it serves.
 ```
-# Description
+## Description
 The clergy of Angazhan-if such a word applies to the jostling, bickering agents of the demon lord of beasts-perform numerous malicious rites and rituals throughout Usaro, continually working through the steady river of slaves that flows into the city. Devotees navigate the sticky, blood-slick temple stairs to march sacrifices to the waiting altars, or else break off to mingle with their charau-ka flock, distributing blessings and beatings on their demon lord’s behalf. Those who earn the Gorilla King’s favor become cherished advisors, attending to the living god personally, but the fickle temperament of their sovereign means few devotees hold his good will for long.
 
  Angazhan’s clerics are expert saboteurs and provocateurs. When traveling with other charau-ka, they throw foes into disarray before their charau-ka followers above let loose volleys of death.
@@ -73,7 +75,7 @@ The clergy of Angazhan-if such a word applies to the jostling, bickering agents 
  Ostracized devotees of the Ravener King wander the jungles and spread the gifts of the Angazhan to re-establish their worth. They may encourage growth in the wilderness, blight the croplands around Mwangi villages, and carefully husband wild monsters, forcing the wild world into bloody competition with human settlements. Such wild hermits exchange a cleric of Angazhan’s normal spells for ones to help them contain, augment, and direct the natural world, using stone shape and glyph of warding to fashion animal traps, sanctuary to move unharmed among wild beasts, and bear’s endurance and bull’s strength to augment their vile creations before launching them into combat.
 
  Every devotee of the Ravener King journeys through the Mwangi Expanse at least once every few months in search of victims transformed into trees by tobongos (Pathfinder Campaign Setting: Heart of the Jungle 61). Using rituals revealed by the Gorilla King, devotees bathe these new plants with ape blood, transforming them into corrupted fetishes capable of draining the life force from others. Angazhan is said to occasionally look upon the realm and reward the most productive creators of these chaotic totems of decay with his fiendish blessing. The charau-ka’s already fiercely territorial nature rises to unbridled levels when tribes compete to gain their god’s favor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Devotee%20of%20the%20Ravener%20King)
 ```encounter-table
 name: Devotee of the Ravener King

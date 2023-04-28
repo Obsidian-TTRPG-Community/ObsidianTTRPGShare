@@ -1,19 +1,21 @@
 ---
-alias: Mythic Named Bullet
+aliases: [Mythic Named Bullet]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Named Bullet
+## Mythic Named Bullet
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: divination
 **level**:: arcanist 4, hunter 3, inquisitor 4, psychic 4, ranger 3, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (an item from the selected creature or creature type)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one piece of ammunition or one thrown weapon  
@@ -21,7 +23,7 @@ alias: Mythic Named Bullet
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 You imbue the target with deadly accuracy against a selected creature type (and subtype for humanoids or outsiders) or a specific creature you know and can name. When used against the selected creature, the ammunition never misfires and is unaffected by concealment (but not total concealment), and at a range of 30 feet or less, the attack targets the selected creature’s touch AC. When the target hits the selected creature, you must overcome that creature’s spell resistance, or this spell has no effect. A normal hit scored using the target against the selected creature is considered to be a critical threat and deals 1 extra point of damage per caster level (maximum 20), which is not multiplied on a critical hit. A natural critical hit deals the same extra damage, but that damage is multiplied due to the critical.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Constrictor Snake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 255
 desc_short: This large snake has a thick, muscular body and dull green scales decorated with dirty brown stripes.
 ```
-# Description
+## Description
 Be they jungle-dwelling pythons or swamp-dwelling boas like the anaconda, constrictor snakes are among the most deadly predatory animals of the tropical wilds. Fortunately, these large snakes are relatively passive, save for when they are preparing to shed their skins or are particularly hungry. Nevertheless, the sinuous creatures are held in fear by many societies who often ascribe fiendish qualities to them.
 
 The constrictor snake presented here is a relatively small one. You can create stats for a larger maneater like an anaconda by applying the advanced and giant simple templates, or by advancing the stats above to a 7 HD Large snake (CR 5), or even a 14 HD Huge snake (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Constrictor%20Snake)
 ```encounter-table
 name: Constrictor Snake

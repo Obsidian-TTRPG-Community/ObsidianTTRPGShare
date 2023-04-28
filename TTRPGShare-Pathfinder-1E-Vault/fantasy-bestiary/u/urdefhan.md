@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Urdefhan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 60
 desc_short: This fanged humanoid has hideously transparent skin, revealing the vivid colors of internal organs and ivory bones inside its body.
 ```
-# Description
+## Description
 Infused with fell energies from Abaddon, urdefhans are an unsightly race dedicated to war. They have developed many strange weapons, but none are more iconic than the two-bladed rhoka sword. Rhoka swords are exotic one-handed melee weapons-all urdefhans are proficient in their use. With such weapons, an urdefhan seeks to inflict as much death as possible upon the world before it perishes, so that its daemonic lords are pleased. Most male urdefhans are sterile-as a result, the women often turn to conjured daemons for mates. The products of such unions are usually typical urdefhans, but sometimes result in half-fiend urdefhans-these monsters usually rise to positions of great power in their violent society.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Urdefhan)
 ```encounter-table
 name: Urdefhan

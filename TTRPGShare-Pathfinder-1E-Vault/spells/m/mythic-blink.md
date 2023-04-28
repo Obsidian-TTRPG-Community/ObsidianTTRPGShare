@@ -1,25 +1,27 @@
 ---
-alias: Mythic Blink
+aliases: [Mythic Blink]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Blink
+## Mythic Blink
 
 **source**:: Mythic Adventures pg. 86  
 **school**:: transmutation
 **level**:: arcanist 3, bard 3, magus 3, psychic 3, redmantisassassin 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 You “blink” quickly back and forth between the Material Plane and the Ethereal Plane and look as though you're winking in and out of reality at random. *Blink* has several effects, as follows.  
   

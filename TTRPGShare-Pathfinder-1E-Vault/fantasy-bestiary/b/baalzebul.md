@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baalzebul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,11 +81,11 @@ sources:
     desc: 16
 desc_short: This swarm of droning black f lies teems in the semblance of a winged angel with glowing red eyes.
 ```
-# Description
+## Description
 Baalzebul was once the chief lieutenant of the Prince of Darkness. The glorious Hell’s Angel sought to rule at Asmodeus’s side, but he was greatly vexed at being relegated to stand alongside other archdevils. When he demanded a higher station, claiming he should rule over multitudes, the Lord of Hell annihilated his magnificent angelic form, replacing it with swarms of insects so he might rule over them in their millions as Lord of the Flies. Chastened, Baalzebul has brooded on vengeance ever since, harboring an insatiable urge to prove himself greatest among Hell’s lords. His knowledge and power are vast, but so are his caprice, ego, love of flattery, and tendency to lash out at any perceived slight. 
 
 Baalzebul resembles a 15-foot-tall armored angel and has a body composed of flies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baalzebul)
 ```encounter-table
 name: Baalzebul

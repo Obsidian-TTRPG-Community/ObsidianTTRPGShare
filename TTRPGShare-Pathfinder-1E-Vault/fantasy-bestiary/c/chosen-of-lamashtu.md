@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chosen of Lamashtu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
   - name: Monster Codex
     desc: 98
 ```
-# Description
+## Description
 The chosen of Lamashtu are seen as the living representatives of the Mother of Monsters, and are both feared and revered by their packmates. In many cases, these powerful clerics are alphas, though even when they’re not, they still hold prominent positions, typically as second-in-command.
 
  Gnoll religion focuses on Lamashtu. Gnoll clerics, who are almost always female, oversee gory rituals and sacrifices in the goddess’s name. They believe unholy magic should not be wasted on everyday things, but that warfare is worthy of such blessings. Clerics attend the births of litters and other momentous events, as well as passing down stories to the young, though a cleric of high position might force lesser clerics to perform such duties.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chosen%20of%20Lamashtu)
 ```encounter-table
 name: Chosen of Lamashtu

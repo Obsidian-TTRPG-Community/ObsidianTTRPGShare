@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Szuriel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 164
 desc_short: This blond woman’s pitch-black eyes weep tears of blood, and a massive pair of raven’s wings spreads from her shoulders.
 ```
-# Description
+## Description
 At first glance, Szuriel seems a triumphant, angelic figure. With her ivory skin, f lowing golden hair, f lawless and powerful body clothed in a coil of unsullied silk, and wings the blue-black of a raven, she appears as a personification of glory from on high-a veritable goddess of war. Up close, however, this impression quickly fades. Mirrored and black as onyx, Szuriel’s eyes bleed constantly in crimson rivulets that run down her cheeks and fall to the ground. When she deigns to smile, she reveals a mouth of jagged, razor-sharp fangs more befitting a shark or dragon than anything humanoid. Szuriel’s greatsword, Lamentation of the Faithless, has been wielded by every Horseman of War dating back to the first, and it is said to be the corrupted blade of an ancient and forgotten empyreal lord. 
 
 The Horseman of War was once a fallen mortal paladin. After she was excommunicated for her sins, she became a conquering general and finally a ruling empress who slaughtered the followers of her former faith. Her own death came not on the battlefield but by an assassin’s blade, yet this merely opened the greatest chapter in her conquests by propelling her into Abaddon and, in time, the role of the Horseman of War. 
@@ -78,7 +80,7 @@ The Horseman of War was once a fallen mortal paladin. After she was excommunicat
 Szuriel makes open mockery of all angels, playing upon their thematic elements in her warped, destructive interactions with mortals, awing both the misguided and those fully cognizant of her nature. Her cults often portray her not as a paragon of destruction, conquest, and genocide, but as promising righteous victory, with the souls of fallen soldiers elevated to paradise regardless of what horrific crimes they commit. 
 
 Szuriel’s armies represent the largest and most strictly organized force in Abaddon, but at any given moment, fully half of the Horseman’s armies are scattered throughout the planes in mercenary service to various Abyssal lords, archdevils, and whatever other forces purchase their services. Most times, that price is steep, as Szuriel demands living mortals or souls, or the right to consume those who fall upon the field of battle. When her armies march upon the mortal plane, they honor their commitments just long enough to make their “allies” complacent before engaging in systematic genocide.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Szuriel)
 ```encounter-table
 name: Szuriel

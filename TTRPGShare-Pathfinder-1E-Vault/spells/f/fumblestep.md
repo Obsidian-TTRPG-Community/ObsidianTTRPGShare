@@ -1,19 +1,21 @@
 ---
-alias: Fumblestep
+aliases: [Fumblestep]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fumblestep 
+## Fumblestep
 
 **source**:: Blood of the Beast pg. 27  
 **school**:: conjuration
 **level**:: arcanist 1, mesmerist 1, sorcerer 1, spiritualist 1, witch 1, wizard 1 (Tengu)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a sharp pebble)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Fumblestep
 **saving-throw**:: none (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Fumblestep* coats a target’s feet in slick ectoplasm that retains some psychic connection to your mind. While the spell remains in effect, the target creature takes a -1 penalty on Reflex saving throws and Acrobatics checks.  
   

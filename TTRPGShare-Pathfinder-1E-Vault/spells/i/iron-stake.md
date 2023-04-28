@@ -1,19 +1,21 @@
 ---
-alias: Iron Stake
+aliases: [Iron Stake]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Iron Stake 
+## Iron Stake
 
 **source**:: Ultimate Wilderness pg. 231, The First World, Realm of the Fey pg. 12  
 **school**:: conjuration (creation)
 **level**:: arcanist 3, cleric 3, druid 3, hunter 2, inquisitor 2, oracle 3, ranger 2, sorcerer 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a pinch of iron filings)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
   
@@ -21,7 +23,7 @@ alias: Iron Stake
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell creates a 1-foot-long spike of cold iron that you fling at your target as a ranged touch attack. The stake is treated as a magic and cold iron weapon for the purpose of overcoming damage reduction, and deals 1d6 points of piercing damage for every 2 caster levels you have (maximum 10d6 at 20th level).  
   

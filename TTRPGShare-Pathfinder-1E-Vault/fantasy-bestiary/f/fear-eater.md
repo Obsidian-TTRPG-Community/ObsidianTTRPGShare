@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fear Eater
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 27
 desc_short: A distressingly humanoid face and stubby arms grow from this maggotlike creature’s body.
 ```
-# Description
+## Description
 These malicious fey prowl the darkest corners of the world, inspiring terror to fertilize the curious fungal fruits that sustain them. Fear eaters tend vast gardens of luminescent mushrooms that grow upon the bound, cringing bodies of their captives. The mushrooms drain emotions from the creatures fertilizing them, and their spores cause spikes of fear in their hosts, which spur the mushrooms to grow even larger. Many such gardens can be found in the stalactite-city known as the Court of Ether, for its dark fey inhabitants crave the piquant misery contained in the mushrooms and consider them a delicacy to be used in only the most bizarre culinary delights. Despite their role in production of these despair-laced luxuries, fear eaters are welcome only on the margins of most fey societies, and most fey rulers prefer to purchase their specialities through intermediaries rather than be seen associating with fear eaters directly.
 
 Fear eaters are interested only in breeding the perfect mushrooms, and can be dangerous opponents when hunting new fertilizer or protecting their crops. The average fear eater is 8 feet long and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fear%20Eater)
 ```encounter-table
 name: Fear Eater

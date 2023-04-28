@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Witchwyrd
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 88
 desc_short: This gray-skinned humanoid wears fine red robes. The being has four arms, each ending in a three-fingered hand.
 ```
-# Description
+## Description
 Alien merchants that travel between planets and planes, witchwyrds stand 7 feet tall, weigh 300 pounds, and are covered in hairless blue-gray skin. Witchwyrds new to a market or eager to avoid identification during an important business deal fold their second sets of flexible arms behind their backs and dress in robes, the better to pass as a less-infamous humanoid race. Witchwyrds tend to prefer the driest, warmest regions of the areas they visit-perhaps an indicator of their mysterious home world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Witchwyrd)
 ```encounter-table
 name: Witchwyrd

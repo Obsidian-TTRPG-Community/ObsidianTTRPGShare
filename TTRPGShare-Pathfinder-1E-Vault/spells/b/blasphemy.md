@@ -1,19 +1,21 @@
 ---
-alias: Blasphemy
+aliases: [Blasphemy]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Blasphemy 
+## Blasphemy
 
 **source**:: PRPG Core Rulebook pg. 249  
 **school**:: evocation (evil, sonic)
 **level**:: cleric 7, inquisitor 6, oracle 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: nonevil creatures in a 40-ft.-radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Blasphemy
 **saving-throw**:: Will partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Any nonevil creature within the area of a blasphemy spell suffers the following ill effects.
 
@@ -47,7 +49,7 @@ Furthermore, if you are on your home plane when you cast this spell, nonevil ext
   
 Creatures whose Hit Dice exceed your caster level are unaffected by *blasphemy*.
 
-## Mythic Blasphemy 
+## Mythic Blasphemy
 
 **source**:: Mythic Adventures pg. 85  
 When determining the spell’s effect on non-mythic creatures, add your tier to your caster level. Nonevil creatures that fail the save take a -4 penalty on attack rolls and saving throws, and their spell resistance decreases by 5 for as long as the spell’s other effects last.

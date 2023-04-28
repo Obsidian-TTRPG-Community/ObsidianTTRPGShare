@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Military (Foot Soldier)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,7 +43,7 @@ sources:
   - name: GameMastery Guide
     desc: 286
 ```
-# Description
+## Description
 Foot soldiers are the backbone of any army, stout soldiers who “hold the line” in the face of the enemy’s charge with a bristling wall of pikes, decimate an opposing force’s ranks with a hail of javelins, or hew with their swords in the bloody grind of close combat. Foot soldiers close the gap when their foes try to flee the field, and are tough enough to shrug off blows that would fell a common man.
 
 Changing a foot soldier’s character class from warrior to fighter creates a professional veteran soldier. This necessitates a number of changes, the foremost of which is using the heroic numbers for his ability scores (see Core Rulebook page 451). In addition, the foot soldier receives a bonus fighter feat such as Combat Reflexes, Power Attack, or Weapon Focus.
@@ -51,7 +53,7 @@ Different varieties of foot soldier can be easily created by exchanging weapons 
 Foot soldiers can serve as bodyguards or hired muscle for mid-level NPCs, or as the rank-and-file guards at a city gate, in front of a temple, or manning a castle’s walls.
 
 Foot soldiers are usually found in squads of six (CR 3), sometimes accompanied by a guard sergeant (CR 4).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Military%20(Foot%20Soldier))
 ```encounter-table
 name: NPC Military (Foot Soldier)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Acolyte
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
   - name: NPC Codex
     desc: 244
 ```
-# Description
+## Description
 An acolyte has just begun to unravel the mysteries of her faith, and lacks the fervent zeal that more indoctrinated members of her religion have. She is eager to learn, but her incomplete teachings mean she is more easily swayed by contrary rhetoric.
 
 Settlements that have adepts rather than clerics are often primitive or remote. Their religious practices may be a strange or heretical offshoot of a main religion, weaker than the common form but giving access to spells that are normally unavailable to true clerics (such as minor creation and sleep). A person trained by a cleric who instead manifests adept abilities may be cast out as a blasphemer or witch.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Acolyte)
 ```encounter-table
 name: NPC Acolyte

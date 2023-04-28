@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cacodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 64
 desc_short: An ever-gnashing maw, filled with row after row of mismatched teeth, dominates this frightful creature’s orb-like body. 
 ```
-# Description
+## Description
 Any evil outsider can, as a standard action, ingest a soul gem. Doing so frees the soul within, but condemns it to one of the lower planes (though the soul can be returned to life as normal). The outsider gains fast healing 2 for a number of rounds equal to its Hit Dice. 
 
 The least of daemonkind, cacodaemons spawn from eddies of angry, violent, and demented souls amid the mists of Abaddon. Dim-witted but utterly evil, they endlessly seek to cause pain and indulge their hunger for mortal souls. Many more powerful fiends keep cacodaemons as pets, if only to be able to harvest the tiny creatures’ soul gems. A 7th-level spellcaster can gain a cacodaemon as a familiar if she has the Improved Familiar feat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cacodaemon)
 ```encounter-table
 name: Cacodaemon

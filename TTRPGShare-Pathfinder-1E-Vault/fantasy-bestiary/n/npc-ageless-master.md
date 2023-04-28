@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Ageless Master
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: NPC Codex
     desc: 111
 ```
-# Description
+## Description
 Ageless masters prefer to spread wisdom, but once roused they are dangerous opponents.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Ageless%20Master)
 ```encounter-table
 name: NPC Ageless Master

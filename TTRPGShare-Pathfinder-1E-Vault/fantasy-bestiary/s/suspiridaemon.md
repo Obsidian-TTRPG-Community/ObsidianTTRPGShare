@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Suspiridaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 56
 desc_short: This tall, three-legged, vulture-headed fiend has a grotesquely long, suckered tongue and gangly arms that end in claws.
 ```
-# Description
+## Description
 Horrid, vulture-headed fiends whose very presence makes the air difficult to breathe, suspiridaemons personify death by suffocation and strangulation. Their flesh is discolored and blotched like the stagnant blood under a suffocated corpse’s skin, they don’t breathe, and their bodies convulse and twitch like those of hanging victims. A suspiridaemon enjoys nothing more than the last choked gasp of a victim as it wraps its tongue around the creature’s throat. Thanks to its utterly silent demeanor, it excels at committing slow, gruesome murders while hiding in the shadows. The only time a suspiridaemon makes a noticeable noise is when it loosens the tissues around its neck and inhales a booming breath- the sudden loss of air that results is enough to make foes fall ill. 
 
 A suspiridaemon is 6 feet tall and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Suspiridaemon)
 ```encounter-table
 name: Suspiridaemon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Hellknight Signifer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 32
 ```
-# Description
+## Description
 Seekers of magical power are just as likely to appreciate the value of imposed order as those with more martial skills. Most Hellknight orders augment their ranks with skilled spellcasters called signifers; these magicians enhance the order’s efforts, either by directly targeting those who sow chaos or by improving the Hellknights’ already impressive arsenals.
 
 Though their spells are useful in direct support roles, Hellknight signifers are most feared for summoning diabolical beings, whether to savage their foes or test their allies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Hellknight%20Signifer)
 ```encounter-table
 name: NPC Hellknight Signifer

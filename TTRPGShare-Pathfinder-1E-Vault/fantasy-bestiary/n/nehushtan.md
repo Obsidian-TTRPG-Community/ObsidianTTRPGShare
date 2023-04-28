@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nehushtan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 86
 desc_short: The lustrous, metallic bronze scales that cover this tiny serpent glisten as if reflecting an unseen light.
 ```
-# Description
+## Description
 In many of Golarion’s cultures, serpents symbolize wisdom, medicine, and the healing arts. This association may have its roots in nehushtans, a rare breed of bronze-colored serpents prized and venerated for their miraculous curative powers. Nehushtans’ lustrous scales contain potent curative properties, making the snakes’ shed skin extremely valuable to healers and apothecaries. In regions where nehushtans live, desperately sick or poor people sometimes turn to scavenging the hills, hoping to find the discarded, metallic skins in order to either use them or sell them.
 
 Were it not for their peculiarly metallic scales, nehushtans would be virtually indistinguishable from vipers of comparable size. A nehushtan’s body is 4 to 5 feet long, and it weighs 5 to 7 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nehushtan)
 ```encounter-table
 name: Nehushtan

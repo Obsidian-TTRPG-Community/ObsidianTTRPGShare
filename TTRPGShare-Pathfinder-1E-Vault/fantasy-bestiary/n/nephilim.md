@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nephilim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 88
 desc_short: The strength and stature of this giant-sized human is matched only by the nobility of its bearing.
 ```
-# Description
+## Description
 The nephilim are the offspring of demigods who bred with humans. This joining resulted in a race of giant-sized beings possessed of a shard of divine power and the mortal consciousness of humans. A nephilim stands 11 feet tall and weighs 1,100 pounds. Its divine heritage grants it a lifespan of almost 600 years.
 
 Nephilim are a nomadic, secretive race. This isolationism has only heightened the wild tales surrounding them, making it even harder for other races to trust them. While the ancient animosity humans once had against them has been largely forgotten, zealots occasionally try to mount pogroms and crusades to wipe the nephilim out forever. The nephilim have proven strikingly resistant to these efforts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nephilim)
 ```encounter-table
 name: Nephilim

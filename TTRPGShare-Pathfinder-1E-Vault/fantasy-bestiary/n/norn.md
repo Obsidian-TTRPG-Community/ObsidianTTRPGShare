@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Norn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 202
 desc_short: This towering, stern woman wears her long blonde hair in braids. She carries a reel of golden thread and a pair of shears.
 ```
-# Description
+## Description
 Ancient beyond imagining, the norns are a race of powerful women who hold in their hands the physical manifestation of fate and destiny in the form of golden thread. They watch over all life, intervening with reluctance when called upon or with a vengeance when the strands of fate are twisted and abused by lesser beings. Worshiped as gods by some, the norns do little to discourage this veneration.
 
 A norn stands 14 feet tall and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Norn)
 ```encounter-table
 name: Norn

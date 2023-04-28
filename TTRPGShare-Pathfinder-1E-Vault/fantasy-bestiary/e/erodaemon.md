@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Erodaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 46
 desc_short: This blue-skinned woman has ram’s horns, a third eye in her forehead, and a long, scaled tail that ends in a hissing viper’s head.
 ```
-# Description
+## Description
 Erodaemons are the personification of death by heartbreak. Occasionally, erodaemons will work together, but only if doing so results in a greater harvest of crushed mortal souls. In her true form, an erodaemon is 6 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Erodaemon)
 ```encounter-table
 name: Erodaemon

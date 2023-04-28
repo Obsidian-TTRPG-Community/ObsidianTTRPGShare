@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Griefgall
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 133
 desc_short: Thorn-tipped tendrils and f lowering filaments sprout from this tiny, squirming grublike plant.
 ```
-# Description
+## Description
 Griefgalls are pitiless psychic parasites that feed on emotions. Their bodies appear as tiny, squirming plant pods that closely resemble grubs. Long tendrils sprout from the pod, tipped with thorns that drip a paralytic sap. Shorter, blossoming filaments allow the creatures to see and hear. A griefgall must be implanted into a humanoid, and it quickly grows to full size, but can’t survive more than a week without a humanoid host. It attempts to conceal its body and tendrils within the host’s mouth. By extruding its filaments through the victim’s neck and scalp, it externalizes its sensory organs, disguising them as a f lowery headdress or garland entwined with the victim’s hair.
 
  A griefgall and the other griefgalls that sprout from its seedlings often form twisted family units by congregating in abandoned houses in sprawling urban areas. An elder griefgall, identifiable because it sprouts more and more tendrils as it ages, takes on the role of a matriarch.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Griefgall)
 ```encounter-table
 name: Griefgall

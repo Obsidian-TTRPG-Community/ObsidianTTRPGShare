@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baphomet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,13 +81,13 @@ sources:
     desc: 88
 desc_short: Fire burns on the central horn and in the rheumy eyes of this bestial winged demon, who stands more than twice a human’s height.
 ```
-# Description
+## Description
 Baphomet-Lord of the Minotaurs-was created by Lamashtu from the soul of the first minotaur. In those days, he was a powerfully muscled specimen, and the Queen of Demons kept him as a consort until the day Baphomet stole away from her palace in Yanaron, seeking to gain even greater favor by claiming a legendary trophy. Baphomet’s ambition was as great as his folly, and he invaded the deepest layer of Hell, intent on stealing Asmodeus’s ruby rod for his mistress. Needless to say, he was swiftly caught. Lamashtu claimed no allegiance to him, and Asmodeus imprisoned Baphomet in a devious maze the archdevil proclaimed to be unsolvable, even by the first minotaur. The archdevil also carved his own symbol into Baphomet’s brow with the nail of his index finger in an attempt to fully subjugate the minotaur.
 
 But in this attempt, it was Asmodeus who overstepped his bounds. Not only did Baphomet solve the seemingly unsolvable maze after a mere decade, but as he escaped, he also took the world-sized labyrinth with him. Baphomet had changed over that time, becoming almost emaciated in his build, yet growing much wiser. He did not return to Lamashtu’s side, but instead took the archdevil’s infernal maze and made it his own as he claimed a portion of the Abyss as his realm.
 
 This was eons ago, and now Baphomet is a powerful demon lord in his own right. He has forgiven Lamashtu, and serves as her lover now and then, yet he’s no longer her direct subservient minion. He works to increase the inf luence of his cult on countless worlds, building his forces so that one day he might again invade Hell. But this time, Baphomet plans on taking much more than Asmodeus’s weapon-he intends to take Asmodeus’s life!
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baphomet)
 ```encounter-table
 name: Baphomet

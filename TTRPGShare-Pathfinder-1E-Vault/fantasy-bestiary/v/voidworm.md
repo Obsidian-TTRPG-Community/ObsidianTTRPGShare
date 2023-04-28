@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Voidworm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 217
 desc_short: This tiny, iridescent serpent slithers through empty space, the air around it distorting as if from heat.
 ```
-# Description
+## Description
 Debate rages as to whether or not the strange and capricious creatures called voidworms are actually proteans at all. To the wizards and sorcerers who summon them as familiars, the answer seems obvious-these tiny dwellers of Limbo have all the requisite racial traits of proteans, down to their serpentine shapes. Yet the established protean castes find such claims outright insulting, claiming instead that it is such acts of conjuration that call voidworms forth from the raw stuff of Limbo, giving them shape and life according to the spellcasters’ expectations, and that these lesser beings are but pale reflections of their formidable kin. Voidworms themselves have little to say on the matter-creatures of the moment, and sparing little thought for the constantly mutable concept of “reality,” voidworms only barely grasp cause and effect, and the past has no more substance or significance for them than a dream. In order to gain a voidworm as a familiar, a spellcaster must be chaotic neutral, be caster level 7th, and have the Improved Familiar feat.
 
 Regardless of their actual origins, voidworms maintain a thriving ecology in the chaos of Limbo, forming together into darting, flashing schools that are often hunted for sport by naunets and other predators of chaos. Mortal wizards, however, most commonly encounter voidworms as summoned familiars. These tiny, serpentine creatures are particularly valued by illusionists, evokers, and other magical practitioners who deal with distorting or molding reality, though the familiars’ bizarre logic and miniscule attention spans sometimes make them more trouble than they’re worth. Still, their confusing attack and remarkable hardiness have saved more than one wizard on the battlefield, and their strange thought processes can sometimes offer unique insights in the laboratory. When traveling in more mundane lands, wizards often order voidworm familiars to use their change shape ability to disguise themselves as ordinary pets or animal familiars, though these disguises tend to slip when the voidworm grows curious or playful.
 
 A voidworm is only 2 feet long and weighs a mere 2 pounds. No two voidworms are exactly alike in their coloration or markings. Their two feathery wings generally take on brighter colors than the rest of their bodies, and in the case of voidworms conjured as familiars, these “wings” are the same color as their masters’ eyes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Voidworm)
 ```encounter-table
 name: Voidworm

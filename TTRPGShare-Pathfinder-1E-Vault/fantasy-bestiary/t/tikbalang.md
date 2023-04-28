@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tikbalang
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 260
 desc_short: Merging the features of a horse and human, this monstrosity has an equine snout, sharp fangs, and long forelimbs with clawed fingers.
 ```
-# Description
+## Description
 Dangerous protectors of deep forests and lush jungles, tikbalangs are malicious creatures that enjoy leading travelers astray. Tikbalangs mimic sounds to lure explorers off their determined path, even separating a single traveler from his group and kidnapping him. They use their magical abilities to make the forest confusing to those passing through, often weaving illusions around a path to hide important turns or cloaking the entire jungle in an unfamiliar appearance.
 
 Sometimes a tikbalang stalks intruders, spying on them from afar or from within the canopies of trees to learn more about its visitors. It then uses its change shape ability to appear as someone familiar to its first victim (such as another member of the group) and leads that person deeper into the woods to become lost. Once the victim is out of hearing range, the tikbalang drags it into a high tree, wraps it in vines, and packs its mouth with leaves and moss to stif le its screams. The tikbalang may eat its prisoner, offer to release it if the other intruders leave, or leave its corpse as a grisly warning to other travelers.
 
 Though sinister and always looking to bring ruin to explorers, tikbalangs can be bribed or mollified into allowing safe passage with offerings or the performance of strange rituals, such as singing a song, wearing a shirt inside out, or giving the monster bread and honey. The exact bribe is different each day, and the tikbalang never explains what it wants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tikbalang)
 ```encounter-table
 name: Tikbalang

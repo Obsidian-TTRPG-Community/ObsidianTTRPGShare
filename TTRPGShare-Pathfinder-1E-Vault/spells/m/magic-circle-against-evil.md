@@ -1,19 +1,21 @@
 ---
-alias: Magic Circle against Evil
+aliases: [Magic Circle against Evil]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Magic Circle against Evil 
+## Magic Circle against Evil
 
 **source**:: PRPG Core Rulebook pg. 308  
 **school**:: abjuration (good)
 **level**:: arcanist 3, cleric 3, inquisitor 3, medium 3, occultist 3, oracle 3, paladin 3, shaman 3, sorcerer 3, spiritualist 3, summoner 3, summoner (unchained) 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 10-ft.-radius emanation from touched creature  
@@ -21,7 +23,7 @@ alias: Magic Circle against Evil
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no; see text
 
-### Description 
+### Description
 
 All creatures within the area gain the effects of a *protection from evil* spell, and evil summoned creatures cannot enter the area either. Creatures in the area, or who later enter the area, receive only one attempt to suppress effects that are controlling them. If successful, such effects are suppressed as long as they remain in the area. Creatures that leave the area and come back are not protected. You must overcome a creature's spell resistance in order to keep it at bay (as in the third function of *protection from evil*), but the deflection and resistance bonuses and the protection from mental control apply regardless of enemies' spell resistance.  
   

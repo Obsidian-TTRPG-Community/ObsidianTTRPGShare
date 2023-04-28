@@ -1,25 +1,27 @@
 ---
-alias: Vex Giant
+aliases: [Vex Giant]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Vex Giant 
+## Vex Giant
 
 **source**:: Inner Sea Magic pg. 63  
 **school**:: transmutation
 **level**:: hunter 3, ranger 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a fragment from a Large or larger weapon)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round per level
 
-### Description 
+### Description
 
 The giants and their kin have long plagued the peoples of Varisia, particularly the Shoanti of the Storval Plateau. Among the various tactics and methods the Shoanti have developed to fight against their enemies, this spell is one of the most widespread today.  
   

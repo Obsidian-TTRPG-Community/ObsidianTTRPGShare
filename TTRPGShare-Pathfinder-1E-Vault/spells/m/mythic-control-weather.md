@@ -1,19 +1,21 @@
 ---
-alias: Mythic Control Weather
+aliases: [Mythic Control Weather]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Control Weather
+## Mythic Control Weather
 
 **source**:: Mythic Adventures pg. 89  
 **school**:: transmutation
 **level**:: arcanist 7, cleric 7, druid 7, oracle 7, shaman 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes; see text  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 2 miles  
 **area**:: 2-mile-radius circle, centered on you; see text  
@@ -21,7 +23,7 @@ alias: Mythic Control Weather
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. You can call forth weather appropriate to the climate and season of the area you are in. You can also use this spell to cause the weather in the area to become calm and normal for the season.  
   

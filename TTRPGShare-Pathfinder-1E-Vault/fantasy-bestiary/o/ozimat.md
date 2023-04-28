@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ozimat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 62
 desc_short: Chunks of rock spin about a humanoid form of vibrant green light.
 ```
-# Description
+## Description
 Earth elementals are useful for the creation of golems, as their stoic demeanor ensures the longest lasting bond between body and animate force. When a golem is destroyed but the elemental spirit survives, ozimats are the result. Still, those that endure the agony of this experience can ascend to become relatively tranquil beings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ozimat)
 ```encounter-table
 name: Ozimat

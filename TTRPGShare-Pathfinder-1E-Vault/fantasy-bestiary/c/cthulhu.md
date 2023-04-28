@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cthulhu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,11 +80,11 @@ sources:
     desc: 138
 desc_short: This towering impossibility, neither quite octopus nor dragon nor giant but something far worse, must surely herald the end of times.
 ```
-# Description
+## Description
 Known to some as the Dreamer in the Deep, Great Cthulhu is the mightiest of the Great Old Ones. Cthulhu is represented often in artwork-particularly in sculpture, painting, and poetry, for his influence is particularly strong among such sensitive and creative minds. In these eldritch works of art, he is depicted or described as having a vaguely humanoid frame, but with immense draconic wings and an octopus-shaped head. His actual form is somewhat fluid-the Great Old One can shift and reshape his exact countenance as he wills, allowing him to occupy a smaller space than one might expect for a creature that stands over 100 feet tall.
 
 It is fortunate indeed that Cthulhu is currently imprisoned on a distant planet within the sunken city of R’lyeh. There, the Great Old One slumbers away the eons in a state neither quite dead nor living, held in stasis by ancient magic and the potency of the Elder Sign, yet at times the city rises from the sea and the doors to his tomb open, granting Cthulhu limited mobility before he must return to his tomb.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cthulhu)
 ```encounter-table
 name: Cthulhu

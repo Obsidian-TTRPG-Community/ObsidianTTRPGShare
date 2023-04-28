@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Hill Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 200
 desc_short: Like barnacles made of rock, stone growths encrust the feet of this thick-bodied giant.
 ```
-# Description
+## Description
 A mythic hill giant is a relic from an earlier age, smarter than its degenerate kin and gifted with magic of stone and earth. Some seek to rule, creating tribes with their non-mythic kin and using smaller beings as serfs. Others prefer lives of solitude, intolerant of all other creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Hill%20Giant)
 ```encounter-table
 name: Mythic Hill Giant

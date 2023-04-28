@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggart
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 11
 desc_short: This gangly, long-armed creature has a face like a calf’s, but with large, forward-facing eyes and a mane of lank hair.
 ```
-# Description
+## Description
 Malicious and furtive, boggarts are believed to be brownies (Pathfinder RPG Bestiary 2 49) that were mistreated or somehow corrupted. Unlike brownies, who sometimes form mutually beneficial relationships with particular families and take up residence within those families’ houses, boggarts rarely occupy homes. Instead, they lurk in swamps, in marshes, and on riverbanks, favoring areas where people have vanished or drowned. A boggart’s relationship with nearby households and homesteads is almost always disruptive. It frightens livestock and breaks valuable objects, and even goes so far as to follow victims who move their households in an attempt to escape their tormentor. Despite these habits, boggarts rarely cause serious harm to their chosen families, preferring simply to sow fear and misery. Even though these relationships are characterized by animosity, they seem to stabilize the boggarts somewhat. Boggarts that lack households to terrorize are far less benign. 
 
 A boggart is rarely spotted unless it wishes to be seen, and it has little interest in fighting fair. When preying on its victims, a boggart uses its familiarity with its home terrain to its advantage, preferring to induce foes to struggle against the natural environment rather than against the boggart. A boggart has very long arms, which it uses to pull creatures into water or onto marshy ground; it then psychically paralyzes its victims and allows the creatures to drown. A boggart is also quite skilled at setting traps and dragging its opponents into them. It sometimes uses aversion to keep people away from its home, but more often uses this power to prevent anyone from helping its chosen prey. 
@@ -65,7 +67,7 @@ A boggart is rarely spotted unless it wishes to be seen, and it has little inter
 A boggart’s magic is drawn from the excess psychic energy in an area. Boggarts cause mischief in order to heighten negative emotions near their homes and thus fuel their powers. It has been theorized that if a boggart were isolated from such energy for long enough, it could eventually revert into a brownie. 
 
 A typical boggart stands 3 feet tall and weighs 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggart)
 ```encounter-table
 name: Boggart

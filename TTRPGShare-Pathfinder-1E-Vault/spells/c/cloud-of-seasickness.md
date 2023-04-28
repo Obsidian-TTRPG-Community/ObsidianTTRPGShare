@@ -1,19 +1,21 @@
 ---
-alias: Cloud of Seasickness
+aliases: [Cloud of Seasickness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cloud of Seasickness 
+## Cloud of Seasickness
 
 **source**:: Pathfinder \#55: The Wormwood Mutiny pg. 73  
 **school**:: conjuration (creation) (poison)
 **level**:: arcanist 2, cleric 2, druid 2, hunter 2, oracle 2, sorcerer 2, warpriest 2, wizard 2 (Besmara)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of seaweed)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: cloud spreads in 20-ft. radius, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Cloud of Seasickness
 **saving-throw**:: Fortitude negates; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *stinking cloud*, except as noted above and that the vapors make creatures sickened instead of nauseated.  
   

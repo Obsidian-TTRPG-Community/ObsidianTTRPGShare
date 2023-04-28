@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dhampir
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 89
 desc_short: This unnaturally graceful man moves without a sound, his gaze just as piercing as the needle-sharp blade he effortlessly wields. 
 ```
-# Description
+## Description
 Cursed from birth, dhampirs result from the rare and unnatural union of vampires and humans. Although not driven to consume blood for survival as their undead progenitors are, dhampirs nonetheless know a lifelong desire for blood that nothing else can truly sate. Those who survive their early years face a life of fear and mistrust, their unnatural beauty and incredible reflexes marking them as scions of the night just as surely as their sensitivity to light. Although polluted by undeath, dhampirs do grow old and die, aging at a rate similar to elves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dhampir)
 ```encounter-table
 name: Dhampir

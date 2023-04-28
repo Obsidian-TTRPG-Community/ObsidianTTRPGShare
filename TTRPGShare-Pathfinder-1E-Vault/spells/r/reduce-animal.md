@@ -1,19 +1,21 @@
 ---
-alias: Reduce Animal
+aliases: [Reduce Animal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Reduce Animal 
+## Reduce Animal
 
 **source**:: PRPG Core Rulebook pg. 330  
 **school**:: transmutation
 **level**:: druid 2, hunter 2, ranger 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one willing animal of Small, Medium, Large, or Huge size  
@@ -21,6 +23,6 @@ alias: Reduce Animal
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *reduce person*, except that it affects a single willing animal. Reduce the damage dealt by the animal's natural attacks as appropriate for its new size (see Equipment how to adjust damage for size).

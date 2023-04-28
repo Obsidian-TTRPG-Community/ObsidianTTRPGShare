@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Addu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 78
 desc_short: Striped with the brilliant colors of a maritime sunset, this beast winds its enormous body through the waves, a pair of wiry, talon-tipped arms and a snout full of horrendous teeth preceding a fan of razorlike fins.
 ```
-# Description
+## Description
 As enigmatic as they are dangerous, addus hail from the most hellish corners of Golarion’s deepest seas. Addu encounters are thankfully rare, but those who have faced one and survived tell tales of the beasts’ unimaginable powers. As a result, merchant and pirate lookouts alike carefully watch the watery horizons for jagged, fiery-hued spines, which have come to signal seafarers’ imminent doom.
 
 The colors of the tropical deep-simmering reds, yellows, and oranges-decorate addus’ long, serpentine bodies. In addition to the ominous fins on their backs, smaller spines jut from addus’ snouts, heads, and necks. Their short but powerful forearms can strip flesh from bone, especially when the beasts employ them alongside their barge-sized jaws, which bear teeth the length of daggers. With long tails that can sweep from the water with whiplike velocity, addus can reach up to 50 feet long and weigh up to 14,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Addu)
 ```encounter-table
 name: Addu

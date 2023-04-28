@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rust Monster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 238
 desc_short: This insectile monster has four legs, a strange propeller-shaped protrusion at the end of its tail, and two long, feathery antennae.
 ```
-# Description
+## Description
 Of all the terrifying beasts an explorer might encounter underground, only the rust monster targets that which the average adventurer values most: his treasure.
 
 Typically 5 feet long and weighing almost 200 pounds, the lobster-like rust monster would be frightening enough even without the alien feeding process that gives it its name. Rust monsters consume metal objects, preferring iron and ferrous alloys like steel but devouring even mithral, adamantine, and enchanted metals with equal ease. Any metal touched by the rust monster’s delicate antennae or armored hide corrodes and falls to dust within seconds, making the beast a major threat to subterranean adventurers and those dwarven miners who must defend their forges and compete for ore.
 
 Though rust monsters have no innate tendency toward violence, their insatiable hunger leads them to charge anything they come across that bears even trace amounts of metal, and any resistance is met with unthinking savagery. It’s not unheard of for rust monsters in metal-poor areas to track escaped victims for days using their scent metal ability, provided the victims retain intact metal objects. Fortunately, it’s often possible to escape a rust monster’s attentions by throwing it a dense metal object like a shield and running in the opposite direction. Those who frequent areas infested with rust monsters quickly learn to keep a few stone or wooden weapons close at hand.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rust%20Monster)
 ```encounter-table
 name: Rust Monster

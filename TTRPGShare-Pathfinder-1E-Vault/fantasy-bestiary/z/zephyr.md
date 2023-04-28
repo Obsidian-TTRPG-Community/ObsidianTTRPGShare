@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zephyr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,13 +74,13 @@ sources:
     desc: 90
 desc_short: This blue-furred horse with a cloudlike mane and tail has gray, humanlike eyes that show obvious intelligence.
 ```
-# Description
+## Description
 Zephyrs are nature spirits tied to the weather. Some more social zephyrs enjoy cavorting with athletic mortals, but their wanderlust means that their good graces last at most a matter of months before they vanish for at least as long, seeking new horizons and racing storms. Zephyrs are seen by some as minor divinities of weather or as servants of Gozreh or the Eldest.
 
 When attacked or provoked into aggression by a perceived offense, a zephyr uses its breath weapon to scatter foes and then takes advantage of its mobility to trample or pounce on whichever enemy seems most isolated or physically imposing. A zephyr uses its spelllike abilities to prevent foes from regrouping. True to its proud fey nature, a zephyr rarely admits defeat without planning to turn the weather against an adversary at a later time as part of a vengeful ambush.
 
 A zephyr in its equine form is the size of a large horse and weighs over 1,000 pounds. A zephyr in its humanoid form usually stands just over 8 feet tall and weighs around 400 pounds, possessing an athletic build with feathered wings spanning 15 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zephyr)
 ```encounter-table
 name: Zephyr

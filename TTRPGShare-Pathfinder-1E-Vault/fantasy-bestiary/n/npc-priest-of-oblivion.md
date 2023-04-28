@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Priest of Oblivion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
   - name: NPC Codex
     desc: 60
 ```
-# Description
+## Description
 The priest of oblivion wishes to drown all creatures in darkness and despair, then defile their bodies and raise them as undead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Priest%20of%20Oblivion)
 ```encounter-table
 name: NPC Priest of Oblivion

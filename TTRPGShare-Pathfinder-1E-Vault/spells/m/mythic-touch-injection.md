@@ -1,19 +1,21 @@
 ---
-alias: Mythic Touch Injection
+aliases: [Mythic Touch Injection]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Touch Injection
+## Mythic Touch Injection
 
 **source**:: Mythic Adventures pg. 110  
 **school**:: transmutation
 **level**:: alchemist 2, arcanist 3, investigator 2, psychic 3, redmantisassassin 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Mythic Touch Injection
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You must hold an elixir, infused extract, poison, or potion in hand as you cast this spell. The held substance drains from its container into a magical sac in your body. While the spell lasts, you can deliver the substance with a mere touch. To do so to an opponent, you must make a successful melee touch attack. If you hit, the substance takes effect immediately, despite any onset period, and that opponent receives the normal saving throw (if any) against the substance. In the case of a personal infused extract, the opponent receives both a Fortitude save and spell resistance. If you miss, the substance remains in the magical sac for you to use later.  
   

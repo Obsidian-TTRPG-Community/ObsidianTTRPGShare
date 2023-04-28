@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rhamphorhynchus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 82
 desc_short: This creature looks like a cross between a bird and a reptile, sporting leathery wings, a beak filled with needlelike teeth, and a long tail ending in a diamond-shaped vane.
 ```
-# Description
+## Description
 Rhamphorhynchuses make excellent familiars for those spellcasters who are looking for quick and nimble minions. Although not dinosaurs themselves, these skittish pterosaurs are often found wheeling in the skies above dinosaur hunting grounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rhamphorhynchus)
 ```encounter-table
 name: Rhamphorhynchus

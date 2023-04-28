@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kurshu the Undying
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 88
 desc_short: This large creature has the upper body of a winged woman and the lower body of a snake. She looks withered, like a preserved corpse.
 ```
-# Description
+## Description
 Lissala’s herald is Kurshu the Undying, a powerful and dutiful agent of magic who has been suffering in her master’s long absence. Known as “Kurshu the Divine Serpent” during the time of Thassilon, she possesses a powerful serpentine lower body, a female humanoid upper body, and three pairs of feathered wings. Her humanoid half is more serpentine than that of a lillend; she has tiny scales on her arms and a scaly cobra hood that blends into her hair. She looks haggard, as if afflicted with a chronic wasting disease, and her movements betray an ancient and resigned weariness. Her voice is thin and susurrant, and she tends to hiss when she speaks, especially when angry. She tends to verbalize in Thassilonian even when communicating telepathically. She is a lost being without a purpose, devoted to Lissala but unable to find her.
 
 Records of the herald’s origin are lost to passing centuries, but she claims she was created in her current form by the goddess, who used parts from several different creatures and then granted her true life. The goddess’s withdrawal has taxed the herald’s ability to maintain her own life, and eventually she may fragment back into her component pieces (which may or may not be alive after this transformation). Bound to Lissala by magic and an unshakable sense of duty, she resents her master for leaving her behind to wither away, and despises herself for knowing that if Lissala returns, she will crawl back to the goddess like a sheltered, neglected child who has no alternative but to love her creator and jailor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kurshu%20the%20Undying)
 ```encounter-table
 name: Kurshu the Undying

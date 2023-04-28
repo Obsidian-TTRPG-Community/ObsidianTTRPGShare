@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Songbird
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 35
 desc_short: This gilded mechanical bird produces melodious songs from its complex clockwork voice box.
 ```
-# Description
+## Description
 Marvels of machinery and musicality, clockwork songbirds are prized for the beautiful melodies they produce, which can vary based on the songbird’s construction. These clockwork creatures often inhabit the homes and gardens of nobility, where they fill opulent manors and wide-open green spaces alike with their lilting songs. Both children and adults delight in clockwork songbirds, with the former seeing these mechanical creatures as amusing toys and the latter as party novelties.
 
  A clockwork songbird is typically no longer than 18 inches and weighs about 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Songbird)
 ```encounter-table
 name: Clockwork Songbird

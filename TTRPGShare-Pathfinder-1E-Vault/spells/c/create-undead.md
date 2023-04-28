@@ -1,19 +1,21 @@
 ---
-alias: Create Undead
+aliases: [Create Undead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Undead 
+## Create Undead
 
 **source**:: PRPG Core Rulebook pg. 262  
 **school**:: necromancy (evil)
 **level**:: arcanist 6, cleric 6, oracle 6, shaman 6, sorcerer 6, spiritualist 6, warpriest 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one corpse  
@@ -21,7 +23,7 @@ alias: Create Undead
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A much more potent spell than *animate dead*, this evil spell allows you to infuse a dead body with negative energy to create more powerful sorts of undead: ghouls, ghasts, mummies, and mohrgs. The type or types of undead you can create are based on your caster level, as shown on the table below.  
   

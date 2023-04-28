@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Ogre
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 212
 desc_short: This immense, muscular giant wears heavy scale mail and wields a club adorned with a giant claw.
 ```
-# Description
+## Description
 A mythic ogre is an example of inbreeding going exactly right, the perfect combination of hardiness and fast maturity without any significant deformities that would hamper its ability to hunt. Able to evade death like a monstrous cockroach and prone to violent outbursts like a berserk child, a mythic ogre has all the qualities common ogres admire, and easily takes over the family unit by browbeating others into submission. Some even manage to dominate hill giant tribes with sheer numbers, making the next generation taller and stronger.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Ogre)
 ```encounter-table
 name: Mythic Ogre

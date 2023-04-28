@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Death
+aliases: [Symbol of Death]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Death 
+## Symbol of Death
 
 **source**:: PRPG Core Rulebook pg. 355  
 **school**:: necromancy (death)
 **level**:: arcanist 8, cleric 8, occultist 6, oracle 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth 5,000 gp each)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Death
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell allows you to scribe a potent rune of power upon a surface. When triggered, a *symbol of death* kills one or more creatures within 60 feet of the symbol (treat as a burst) whose combined total current hit points do not exceed 150. The *symbol of death* affects the closest creatures first, skipping creatures with too many hit points to affect. Once triggered, the *symbol* becomes active and glows, lasting for 10 minutes per caster level or until it has affected 150 hit points' worth of creatures, whichever comes first. A creature that enters the area while the *symbol of death* is active is subject to its effect, whether or not that creature was in the area when it was triggered. A creature need save against the *symbol* only once as long as it remains within the area, though if it leaves the area and returns while the *symbol* is still active, it must save again.  
   
@@ -44,4 +46,3 @@ A *symbol of death* can be removed by a successful *dispel magic* targeted solel
 *Symbol of death* can be made permanent with a *permanency* spell. A permanent *symbol of death* that is disabled or has affected its maximum number of hit points becomes inactive for 10 minutes, but then can be triggered again as normal.  
   
 *Note*: Magic traps such as *symbol of death* are hard to detect and disable. A rogue (only) can use the Perception skill to find a *symbol of death* and Disable Device to thwart it. The DC in each case is 25 + spell level, or 33 for *symbol of death*.
-

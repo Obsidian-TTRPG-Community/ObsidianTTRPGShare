@@ -1,19 +1,21 @@
 ---
-alias: Mythic Soulreaver
+aliases: [Mythic Soulreaver]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Soulreaver
+## Mythic Soulreaver
 
 **source**:: Mythic Origins pg. 15  
 **school**:: necromancy (death)
 **level**:: arcanist 8, cleric 8, oracle 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: living creatures in a 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Mythic Soulreaver
 **saving-throw**:: Fortitude half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Favored by the necromancer Geb as a tool to turn his enemies’ armies against themselves, this potent death spell deals 1d6 points of damage per caster level (maximum 20d6) to living creatures in the area of effect.
 

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Junk Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 132
 desc_short: A walking rubbish heap, this roughly man-shaped creature seems to be barely holding itself together.
 ```
-# Description
+## Description
 Junk golems are assembled from trash and spare parts, and often leave trails of garbage in their wakes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Junk%20Golem)
 ```encounter-table
 name: Junk Golem

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Road (Pilgrim)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
   - name: GameMastery Guide
     desc: 291
 ```
-# Description
+## Description
 Pilgrims are religious mendicants who roam the long roads visiting shrines, temples, and other places sacred to their faith. They are ordinary folk, little trained in formal theology but with a passion for spreading their religion through their travels, being of service to all that they meet, and healing the hurts of a sad and lonely world.
 
 Pilgrims can serve as lay priests, common healers, or village wise women in settlements too small for a formal temple or full cleric. A pilgrim might also be found on a battlefield, pressed into service to make up for an army’s lack of divine healers.
@@ -47,7 +49,7 @@ Pilgrims can serve as lay priests, common healers, or village wise women in sett
 Replacing one of the pilgrim’s commoner levels with a level of adept creates a healer that has at least limited access to healing magic. Hit Dice, hit points, base attacks bonus, and skills don’t change, but the pilgrim’s Will save increases to +6.
 
 A pilgrim often works alone, but two or three might staff a remote clinic (CR 5 or 6). Pilgrims can also be found in groups of four, often accompanied by four caravan guards or eight acolytes (CR 8). A single pilgrim may be served by a guard, caravan guard, or pair of acolytes (CR 4). A pilgrim in turn might serve under a shaman (CR 6), while an evil pilgrim may work with a torturer, helping to keep prisoners alive (CR 6).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Road%20(Pilgrim))
 ```encounter-table
 name: NPC Road (Pilgrim)

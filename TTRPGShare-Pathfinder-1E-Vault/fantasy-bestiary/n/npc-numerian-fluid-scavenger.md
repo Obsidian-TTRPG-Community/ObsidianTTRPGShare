@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Numerian Fluid Scavenger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 54
 desc_short: Bottles and flasks hang from the belt and tattered leather armor or this ragged, wild-eyed human.
 ```
-# Description
+## Description
 Once, the Numerian fluid scavenger roamed the Felldales, searching for fluids to sell to hapless addicts. Now, she’s become addicted to her own merchandise, and increasingly drinks her finds instead of making the long trek to civilization. As her symptoms worsen, the Numerian fluid scavenger grows more and more paranoid, convinced that strangers seek to track her back to her sources of Numerian fluids and rob her of her precious liquids.
 
 If her addiction is lifted by a healer or simply through forced withdrawal, the Numerian fluid scavenger could be a powerful ally for one looking for a source of such potent reagents.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Numerian%20Fluid%20Scavenger)
 ```encounter-table
 name: NPC Numerian Fluid Scavenger

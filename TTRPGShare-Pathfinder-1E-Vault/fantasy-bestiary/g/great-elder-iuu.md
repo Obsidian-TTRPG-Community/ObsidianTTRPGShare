@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Great Elder Iuu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,13 +74,13 @@ sources:
     desc: 86
 desc_short: This ancient stone giant towers over others of his kind and has a crown of crystalline growths sprouting from his head. He holds a warhammer made of meteoric stone pierced by natural deposits of glinting metallic ore.
 ```
-# Description
+## Description
 Great Elder Iuu is one of the first stone giants ever to set foot upon the mountains of Golarion, and one of the stone giants’ first tribal elders. After he died at the age of 888, Minderhal brought him to Stonepeak for a century of paradise and crafting, then elevated him to serve as the god’s herald. Minderhal sends Iuu to the mortal world in times of great trouble or change for the stone giant people, or to put an end to conflicts between tribes.
 
 Iuu looks like an exceptionally tall, handsome, and wise elder stone giant with crystals sprouting from his head like a crown and a cloak of heavy moss. His weapon is Anfaru (meaning “Mountain from the Sky”), an adamantine-laden stone meteorite he carved over the course of 100 years into a hammer shape. Iuu has a deep, booming voice that can shatter mortar when he’s angry. His crystal crown and unusual weapon have sometimes led ignorant members of lesser races to mistake him for a stone giant king.
 
 Iuu uses his magical abilities to enhance, protect, and support himself and his mortal allies. Having been in countless battles against various creatures, he is a competent tactician; he quickly reacts to specific threats or enemy abilities and determines how to best use the available terrain and resources to overcome threats. When he gives orders, he expects other giants to obey immediately and without question. He believes in the inherent strength of his people, and although he is evil, he’s unwilling to sacrifice their lives in risky gambits unless the survival of all the stone giants is at stake. He thinks little of smaller races and is indifferent to the “degenerate” giant races (which, according to some stone giant lore, includes all other races of giants).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Great%20Elder%20Iuu)
 ```encounter-table
 name: Great Elder Iuu

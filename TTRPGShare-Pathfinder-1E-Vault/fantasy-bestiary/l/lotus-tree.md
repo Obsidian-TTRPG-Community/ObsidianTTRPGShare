@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lotus Tree
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 160
 desc_short: This majestic tree of strange, twisted bark has countless pale fruits and an intensely pleasant scent.
 ```
-# Description
+## Description
 Lotus trees grow in ancient forests and paradisiacal islands, feeding on the fantasies of sentient beings. Some lotus trees are curious and wise; others hoard secrets while claiming they provide refuge from reality. Intentionally or not, lotus trees attract those seeking wisdom or dreamy escape.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lotus%20Tree)
 ```encounter-table
 name: Lotus Tree

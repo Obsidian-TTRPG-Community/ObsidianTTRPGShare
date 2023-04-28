@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plagued Horse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 56
 desc_short: The rotting skeleton and muscles of this fanged, decaying horse seem barely able to hold together.
 ```
-# Description
+## Description
 When animals are stricken with demon plague, they may arise as undead and further spread the disease. Some demons and cultists are fond of using plagued horses as mounts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plagued%20Horse)
 ```encounter-table
 name: Plagued Horse

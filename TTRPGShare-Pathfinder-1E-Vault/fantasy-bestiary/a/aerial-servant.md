@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aerial Servant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 11
 desc_short: A faint ripple in the air suggests a hazy and vaguely humanoid vapor moving with terrible swiftness.
 ```
-# Description
+## Description
 Aerial servants are deadly hunters native to the Plane of Air, though they often wander through planar portals to the Ethereal Plane and sometimes roam the Astral Plane as well. They are generally called to the Material Plane as bounty hunters or assassins, using their natural invisibility and near-faultless tracking skills to pursue their quarry and then strike unseen. They typically scatter enemies with blasts of wind before closing in to strangle their prey. While an aerial servant is easy to confuse with an invisible stalker (Pathfinder Roleplaying Game Bestiary), the former is far more dangerous, and those who misidentify the creature may not live to regret underestimating it.
 
 Those who call aerial servants must be careful to assign them tasks that are possible for them to complete, as the temperamental elementals occasionally track down and attack their callers if they fail at their assigned tasks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aerial%20Servant)
 ```encounter-table
 name: Aerial Servant

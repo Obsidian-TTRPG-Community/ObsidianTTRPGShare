@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moose
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 28
 desc_short: A slightly goofy, bent-nosed face does little to detract from the imposing height and bulk of this ungulate.
 ```
-# Description
+## Description
 Their daunting height and bulk, combined with the intimidating antlers of the males, means that moose are rarely threatened by natural predators, and when cornered by hunters they are truly a force to be reckoned with.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moose)
 ```encounter-table
 name: Moose

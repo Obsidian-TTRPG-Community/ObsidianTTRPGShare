@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Crypt Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 98
 desc_short: This dragon’s scales are the color of weathered bone, and its hide stretches tautly and painfully over its emaciated form.
 ```
-# Description
+## Description
 Crypt dragons patrol the Inner Planes, ever vigilant for transgressions against the honored dead or the passage of souls to the afterlife-be they the souls of heroes or villains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Crypt%20Dragon)
 ```encounter-table
 name: Adult Crypt Dragon

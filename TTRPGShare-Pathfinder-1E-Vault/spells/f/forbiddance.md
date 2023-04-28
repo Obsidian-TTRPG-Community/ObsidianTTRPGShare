@@ -1,19 +1,21 @@
 ---
-alias: Forbiddance
+aliases: [Forbiddance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Forbiddance 
+## Forbiddance
 
 **source**:: PRPG Core Rulebook pg. 285  
 **school**:: abjuration
 **level**:: cleric 6, inquisitor 6, occultist 6, oracle 6, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 6 rounds  
 **components**:: V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube), DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 60-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Forbiddance
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Forbiddance* seals an area against all planar travel into or within it. This includes all teleportation spells (such as *dimension door* and *teleport*), plane shifting, astral travel, ethereal travel, and all summoning spells. Such effects simply fail automatically.  
   

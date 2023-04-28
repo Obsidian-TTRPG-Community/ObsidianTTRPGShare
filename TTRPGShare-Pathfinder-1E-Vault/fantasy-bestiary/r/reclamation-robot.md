@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Reclamation Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,13 +76,13 @@ sources:
     desc: 84
 desc_short: This complex-looking automaton’s multiple arms end in gripping talons. It moves about on a set of four legs and has a strange bell-shaped head.
 ```
-# Description
+## Description
 Reclamation robots, or “reclamators,” are masters of salvage and construction. These robots were originally designed to build structures and repair all manner of technology with speed and precision. Construction of these robots was difficult and time consuming, but they often repaid those spent resources swiftly with their ability to rebuild and repair other robots or technological items. Their truly remarkable programing surprised even those who originally developed them, as these machines can salvage items thought to be far beyond hope of repair.
 
 Over time it’s not uncommon for a reclamation robot to develop a unique personality akin to that of an artist, with something that almost approaches pride in its work. On some occasions, reclamation robots have even been known to make improvements to items and constructs that they repair.
 
 Though a reclamation robot is generally quite adept at repairing damage to itself as well, injury to certain processors and memory modules deep within the robot can cause significant problems. Some of the resulting malfunctions can be quite noticeable (see the table above), while others are subtler, such as a tendency to add baroque and unnecessary embellishments to constructions and repairs. Reclamation robots with this type of damage are largely unaware of their condition and actively resist efforts to repair them, requiring intervention with a robojackTG or the like. There are even recorded incidents of damaged reclamators going rogue and setting off on their own to build whatever outlandish structures their flawed processors dictate. Though they were originally designed to create things for humanoids, such rogue robots typically design structures and devices of no apparent use to organic beings... which isn’t to say that these creations don’t have a place in some unknowable automaton agenda.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Reclamation%20Robot)
 ```encounter-table
 name: Reclamation Robot

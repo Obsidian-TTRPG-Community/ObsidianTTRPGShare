@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rabbit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 31
 desc_short: This small, furry creature has long ears and oversized feet.
 ```
-# Description
+## Description
 Rabbits are herbivores with short tails, long ears for sensing predators, and powerful hind legs that allow them to leap quickly to safety when threatened.
 
  An average rabbit is between 8 and 20 inches long and weighs 1 to 4 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rabbit)
 ```encounter-table
 name: Rabbit

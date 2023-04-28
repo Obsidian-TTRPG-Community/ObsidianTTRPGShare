@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lapsudaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
     desc: 88
 desc_short: This grotesque and malevolent creature appears to be a crushed ball of broken humanoid body parts spraying blood.
 ```
-# Description
+## Description
 A mortal that dies hopelessly after a sudden fall may eventually serve the Four Horsemen as a powerful lapsudaemon. On the bleak plane of Abaddon, these awful creatures exist in a state of perpetual plummeting, never ceasing their movement. Even when addressed by ranking daemon lords, lapsudaemons never stop their falling motion or incessant screaming. Their lieges frequently must teleport to some great height and fall with them to maintain telepathic conversation. Lapsudaemons always shriek as they fall-a residual impulse taken from the last moment of their mortal lives. Loud cries and cold blasts of wind herald their approach as they teleport into combat mid-fall and continue their merciless assault.
 
 Lapsudaemons attack their victims by falling into them, whether they approach vertically or horizontally. They frequently employ spell-like abilities before attacking as many enemies as possible in melee, colliding for one mighty strike against each target until every foe is dead. When not outnumbered, they prefer to murder their nonflying targets by pushing them from ledges or carrying them to great heights before releasing them to their doom.
 
 A lapsudaemon appears as a crushed human-often an amalgamation of the parts of several victims of such terminal tumbles seamlessly fused together. Its limbs protrude at awkward angles and strike out as it collides with its enemies. A lapsudaemon is between 5 and 6 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lapsudaemon)
 ```encounter-table
 name: Lapsudaemon

@@ -1,19 +1,21 @@
 ---
-alias: Call Spirit
+aliases: [Call Spirit]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Call Spirit 
+## Call Spirit
 
 **source**:: Occult Adventures pg. 160, Occult Mysteries pg. 54  
 **school**:: conjuration (calling)
 **level**:: cleric 5, medium 3, oracle 5, shaman 5, spiritualist 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **effect**:: call the spirit of a single deceased humanoid creature  
@@ -21,7 +23,7 @@ alias: Call Spirit
 **saving-throw**:: Will negates, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You attempt to cause the spirit of a specific individual to manifest from its final resting place. You must request the spirit’s presence by speaking its name.  
   

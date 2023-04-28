@@ -1,19 +1,21 @@
 ---
-alias: Erase
+aliases: [Erase]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Erase 
+## Erase
 
 **source**:: PRPG Core Rulebook pg. 279  
 **school**:: transmutation
 **level**:: arcanist 1, bard 1, occultist 1, psychic 1, redmantisassassin 1, skald 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one scroll or two pages  
@@ -21,7 +23,7 @@ alias: Erase
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Erase* removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove *explosive runes*, a *glyph of warding*, a *sepia snake sigil*, or an *arcane mark*, but not *illusory script* or a *symbol* spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.  
   

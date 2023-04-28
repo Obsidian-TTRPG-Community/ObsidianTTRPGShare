@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Tortoise
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 263
 desc_short: This tortoise is half the height of a human, and has a domed shell, leathery skin, and a long neck.
 ```
-# Description
+## Description
 Giant tortoises typically live on tropical islands without large predators. Despite their impressive shells, their slow speed makes them easy prey, especially for vermin and other creatures that consume their eggs. Tortoises are herbivores, and can survive for months or even years without food or water. Despite being poor swimmers, their buoyancy and long necks capable mean they can survive for significant periods at sea.
 
 A typical giant tortoise is 3-1/2 feet tall to the top of the shell and weighs 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Tortoise)
 ```encounter-table
 name: Giant Tortoise

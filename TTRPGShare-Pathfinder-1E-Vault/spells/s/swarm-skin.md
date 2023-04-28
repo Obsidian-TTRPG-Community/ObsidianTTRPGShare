@@ -1,25 +1,27 @@
 ---
-alias: Swarm Skin
+aliases: [Swarm Skin]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Swarm Skin 
+## Swarm Skin
 
 **source**:: Advanced Player's Guide pg. 248  
 **school**:: transmutation
 **level**:: druid 6, hunter 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a crushed insect hive)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: see text
 
-### Description 
+### Description
 
 You convert all of your soft tissue into swarms of insects or other creatures and send them off to do your bidding, leaving nothing but your bones and gear behind. These swarms have all their normal qualities and abilities but also bear a tiny portion of your consciousness that allows you to perceive what they do and to control their actions. While in this form, you cannot use any of your own abilities or take any actions other than controlling the swarms.  
   

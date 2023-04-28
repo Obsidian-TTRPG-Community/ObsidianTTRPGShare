@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Uraeus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 63
 desc_short: This two-headed cobra f lies with a large pair of sleek, blackfeathered wings that sprout from its serpentine body.
 ```
-# Description
+## Description
 Uraeuses are sacred river protectors that harry those who dare threaten their waterways. Far from simply territorial, these f lying serpents keep their rivers safe for travelers and local communities as an act of devotion to their mother goddess. When a group of uraeuses is too small to handle a threat, they sometimes seek aid from adventurers whose names are well known along their waters. When not troubled by dangers near their nests, uraeuses often hunt dangerous prey such as river beasts grown to monstrous size. Uraeuses believe in just rule, and become infuriated by attempts to corrupt local leaders. In times of unusual danger, uraeuses may actively travel to a ruler’s side to warn that ruler against those who would lead her into folly.
 
  Uraeuses accept offerings from any who live near or travel their rivers. In exchange, they teach allies how to use the river’s bounty and how to best serve society. Patience, industry, and a willingness to listen to others are among the qualities they seek to instill in those who ask their help. In addition, uraeuses are always vigilant in case a supplicant turns out to be a useful servant for their goddess.
 
  Most uraeuses measure nearly 7 feet in length, have a wingspan of similar size, and weigh about 150 pounds. Despite being a two-headed creature, a uraeus speaks with a single voice that emanates from both heads at once.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Uraeus)
 ```encounter-table
 name: Uraeus

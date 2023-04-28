@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bakekujira
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 84
 desc_short: This hulking mass of blubber and bone looks like it was once a whale. Ghostly flames glow in each of its eye sockets.
 ```
-# Description
+## Description
 Sometimes, a whale that dies after days of anger and pain arises as an undead monstrosity known as a bakekujira. A bakekujira weighs about 50 tons, and measures from 50 to 60 feet long.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bakekujira)
 ```encounter-table
 name: Bakekujira

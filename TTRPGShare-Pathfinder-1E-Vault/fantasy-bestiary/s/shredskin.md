@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shredskin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 243
 desc_short: This floating creature looks like an orc’s animate, hollow skin. Its upper half is intact, but its lower half is in tatters.
 ```
-# Description
+## Description
 A shredskin is a wretched undead creature created either when a humanoid is skinned alive to be preserved as a trophy or otherwise killed in a terrifying way that leaves much of its upper half unharmed, such as being dissolved feet-first in acid. A fragment of the creature’s soul animates the skin and seeks vengeance on those who created it, all the while trying to find a comfortable body for it to use as it did when it was alive. A shredskin may attack on its own and try to squeeze the life out of a living humanoid to use it as a body, or it might control another undead such as a skeleton, zombie, or ghoul, covering it like a morbid costume. In either case, it abandons its borrowed body if it finds a better one or the old one is destroyed. A shredskin is usually recognizable by creatures who knew it in life.
 
 Because it lacks a lower half, a shredskin is 3-4 feet tall and weighs only 10-15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shredskin)
 ```encounter-table
 name: Shredskin

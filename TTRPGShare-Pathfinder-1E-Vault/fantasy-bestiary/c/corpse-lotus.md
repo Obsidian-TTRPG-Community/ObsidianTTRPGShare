@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Corpse Lotus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 84
 desc_short: Planted in soil fertilized with corpses, this giant, blood-red flower is surrounded by prickly vines.
 ```
-# Description
+## Description
 A corpse lotus begins life as a small flowering plant that blooms near carrion, and if given enough time, it grows into an incredibly large and dangerous monstrosity. This terrifying plant possesses grasping vines capable of pummeling opponents before dragging them toward its maw. Always found where carcasses are abundant, corpse lotuses have been known to grow in dungeons, ruins, graveyards, and battlefields in addition to more typical wooded or marshy locales.
 
 Every corpse lotus has a single bulbous flower in its center, similar in shape to a lotus flower. The blossom’s petals are blood-red, and hide an acidic maw at the flower’s center. Corpse lotuses in different regions tend to resemble the dominant plant species in the surrounding area (with the exception of their distinct red petals), thus granting the plants natural camouflage and enabling them to hide among native foliage. Their vines are thick and writhe madly when reaching for potential prey. Corpse lotuses gain their name from the gardens of dead bodies that frequently surround these large, predatory plants-usually of animals and humanoids that strayed too close to the lotus and met their deaths within its gullet.
 
 While at rest, a corpse lotus can reach 8 feet in height and splay its leaves nearly 15 feet wide.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Corpse%20Lotus)
 ```encounter-table
 name: Corpse Lotus

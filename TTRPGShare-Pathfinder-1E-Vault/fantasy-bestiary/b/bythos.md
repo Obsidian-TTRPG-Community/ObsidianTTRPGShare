@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bythos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 10
 desc_short: A shimmering, colorless mass congeals to form a four-armed humanoid shape with an eye-like pattern in its torso. 
 ```
-# Description
+## Description
 The bythos are guardians of time and planar travel-indeed, to bythos, the act of aging is nothing more than a highly specialized method of travel. Although bythos themselves have no additional method of traveling through time, they scour the multiverse, hunting for creatures that do have the ability to time-travel and may have abused this ability. 
 
 Far more often, though, bythos seek out abuses of planar travel, such as tears in reality, regions where planes overlap, or creatures that abuse the use of planar travel. In some cases, such distortions are ignored, but in others, a bythos or even a full tribunal comes to assess and repair the damage. In most cases, “repair” is analogous to the death of the creature responsible for the distortions, but placing such creatures in temporal stasis can also solve the problem. 
 
 While a bythos’s body may seem to be made of smoke and vapor, it is strangely solid to the touch, feeling not dissimilar to dry stone. A bythos is 13 feet tall and weighs 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bythos)
 ```encounter-table
 name: Bythos

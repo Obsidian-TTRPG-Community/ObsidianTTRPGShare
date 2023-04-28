@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aghasura
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 22
 desc_short: This immense creature looks like a horned rattlesnake, save for its two muscular arms, each of which wields a scimitar.
 ```
-# Description
+## Description
 Aghasuras, or the poison ones, are massive fiends who have perfected the art of ambush and hold to duties of guardianship and butchery. It is said that these frightful ophidian monsters came into being when a deity granted free will to her favorite serpent pets, but when these pets were left to their own devices, they slipped into the deity’s favored temple and slew all of her greatest priests. The serpents who survived the deity’s wrath became the first aghasuras.
 
 An aghasura is 30 feet long and weighs nearly 7 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aghasura)
 ```encounter-table
 name: Aghasura

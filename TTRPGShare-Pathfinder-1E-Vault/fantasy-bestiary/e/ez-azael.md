@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ez-azael
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,9 +80,9 @@ sources:
     desc: 84
 desc_short: This goat-like creature has a thick, snowy-white woolen coat. Its eyes gleam with a metallic golden sheen. Its hooves have sharpened, serrated edges and are soaked in blood. A single strand of scarlet thread is tangled between its curled ram horns.
 ```
-# Description
+## Description
 The ways of Heaven are often unknown or opaque in purpose and meaning to mortals, and the ritual of the ez-azael is no exception. In the eternal battle between the powers of good and evil, powerful angelic beings occasionally capture a type of goat-like demon called a schir (Pathfinder RPG Bestiary 3 74) and subject it to a powerful cleansing ritual in which it is used as an offering of atonement for some mortal population to relieve them of both the physical and spiritual burdens of their sins or other acts of moral error they have committed. Upon the ritual’s completion, the mortal population receives absolution and the schir is released to wander free with its new burden of forgiven mortal sin. Almost invariably, these demons die from the trauma of being used as a vessel for divine mercy. However, sometimes the ritual of clemency changes the schir in a fundamental way, in which case it transforms into an ez-azael.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ez-azael)
 ```encounter-table
 name: Ez-azael

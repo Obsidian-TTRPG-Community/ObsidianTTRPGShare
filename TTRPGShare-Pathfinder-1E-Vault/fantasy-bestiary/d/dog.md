@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,13 +44,13 @@ sources:
     desc: 87
 desc_short: This small dog has a rough coat and a hungry look in its dark brown eyes.
 ```
-# Description
+## Description
 The normal dog statistics presented here describe any small dog of about 20-50 pounds in weight. They can also be used for small wild canines such as coyotes, jackals, and feral dogs.
 
 In the wild, dogs are vicious and territorial creatures. Yet even more harrowing than a pack of wild dogs is the rabid dog. Rabies often affects animals like bats, wolverines, and rats, but the transformation of a normally friendly family pet goes through when it becomes rabid makes the dog perhaps the most notorious of the disease’s classic carriers.
 
 A rabid creature can transmit rabies to a victim with a bite. Its CR increases by 1 (or up one step, in the case of a creature whose CR is less than 1). 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dog)
 ```encounter-table
 name: Dog

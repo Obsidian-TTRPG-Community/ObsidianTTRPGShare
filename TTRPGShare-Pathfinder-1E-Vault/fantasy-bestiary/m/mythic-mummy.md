@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Mummy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 211
 desc_short: This regal mummy reeks of preservative spices and wears the clothing and jewelry of a wealthy pharaoh.
 ```
-# Description
+## Description
 A mythic mummy is the preserved and animated remains or royalty-the honored dead a common mummy is compelled to protect. Wielding powers over sand and able to create new minions to replace the fallen, a mythic mummy is a formidable opponent. Its used to absolute obedience from living and undead subjects. If awakened from its eternal rest, a mythic mummy uses its magic to appear as it did in life, though if angered or surprised it may reveal its undead form.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Mummy)
 ```encounter-table
 name: Mythic Mummy

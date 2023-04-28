@@ -1,19 +1,21 @@
 ---
-alias: Mythic Foresight
+aliases: [Mythic Foresight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Foresight
+## Mythic Foresight
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: divination
 **level**:: arcanist 9, druid 9, psychic 9, shaman 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a hummingbird's feather)
 
-### Effect 
+### Effect
 
 **range**:: personal or touch  
 **target**:: see text  
@@ -21,7 +23,7 @@ alias: Mythic Foresight
 **saving-throw**:: none or Will negates (harmless)
 **spell-resistance**:: no or yes (harmless)
 
-### Description 
+### Description
 
 This spell grants you a powerful sixth sense in relation to yourself or another. Once *foresight* is cast, you receive instantaneous warnings of impending danger or harm to the subject of the spell. You are never surprised or flat-footed. In addition, the spell gives you a general idea of what action you might take to best protect yourself and gives you a +2 insight bonus to AC and on Reflex saves. This insight bonus is lost whenever you would lose a Dexterity bonus to AC.  
   

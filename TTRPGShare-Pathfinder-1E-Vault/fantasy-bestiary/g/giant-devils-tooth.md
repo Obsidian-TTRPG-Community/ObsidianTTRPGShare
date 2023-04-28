@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Giant Devil's Tooth"
 statblock: inline
-tags: monster
-name: Giant Devil's Tooth
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 86
 desc_short: This enormous white fungus has sharp spines on its stalk, and its multiple caps are covered in blood-red globules that appear on the brink of rupturing.
 ```
-# Description
+## Description
 While mundane variations of this fungus exist in nature as small, fist-sized clusters that feed from the roots of host trees, the much larger, mobile giant devil’s tooth seems to draw its powers from far darker sources. Some say the trees that give these fungi life contain the souls of ancient evil druids, imprisoned centuries ago for disgracing their circle. Others believe that devils themselves embedded infernal energy into the mushrooms while visiting the Material Plane, bringing these otherwise harmless hydnoids to life.
 
  A ruthless creature with many ways to incapacitate its prey, a giant devil’s tooth often paralyzes its victims before slowly dissolving them for feeding. It crawls along the ground toward its quarry, and then rises up, revealing a large patch of jagged spines that it can eject in a devastating cone. When faced with multiple enemies, it releases a cloud of noxious spores before slowly moving in for the kill. The acidic globules that cover the surface of its cap provide it a self-defense mechanism against any would-be attackers that fight in close quarters.
 
  A giant devil’s tooth can grow as tall as 24 feet and weighs 3,300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Devil%27s%20Tooth)
 ```encounter-table
 name: Giant Devil's Tooth

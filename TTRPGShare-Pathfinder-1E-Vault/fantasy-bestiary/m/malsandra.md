@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Malsandra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 50
 desc_short: Standing amid a roiling fog, this nude, humanoid woman’s pale, wet skin glistens. Her long, dark hair moves about her head as though she were submerged underwater, and rapier in her hand crackles with arcane energy. 
 ```
-# Description
+## Description
 Malsandra traveled farther from her mother’s stream in the Lands of the Linnorm Kings than any of her sisters when looking for a body of water to call her own, just under a century ago. She followed the stream to the Rimef low River and from there to the Steaming Sea, where the open water felt new and exciting to her. Once in the ocean, Malsandra swam south along the coastline for many months, never settling and continuing ever toward warmer waters. Nearly a year after setting out on her own, she finally found a marshy estuary where the godless land of Rahadoum meets the Sodden Lands, well within the immediate inf luence of the newly formed permanent hurricane known as the Eye of Abendego. 
 
 There she inhabited a long-abandoned temple to a forgotten god-all holy symbols and iconography shorn from its walls after the Oath Wars drew to a close- submerged in the center of an ever-growing swamp. The Rahadoumi villagers of the nearby fishing settlement of Mekhum, still coping with drastic shifts in climate as a result of the Eye of Abendego’s advent, believed her to be a drowned victim of the increasingly dangerous wetlands. Lacking clerics to exorcise the ghost from the abandoned temple, the people of Mekhum had little choice but to acquiesce to Malsandra’s demands, and to this day, they pay her tribute each year on the anniversary of her arrival (a date they believe to have been when she died). 
 
 Malsandra prefers to keep as pets a combination of wayward sailors who find their way into her marshy seaside realm and powerful swamp monsters, which have grown ever more prevalent since the Eye of Abendego has taken hold in the region. From time to time, locals even report seeing the temple ghost with a small black dragon, though these may be simple rumors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Malsandra)
 ```encounter-table
 name: Malsandra

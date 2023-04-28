@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scythe Glass Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 86
 desc_short: The razor-sharp wings of a thousand stained glass insects jingle with a resonant melody.
 ```
-# Description
+## Description
 Many would-be thieves have found themselves spellbound by the sound of a beautiful, stained glass window breaking apart and taking flight. This is followed by their screams of terror as thousands of tiny wings cut them to shreds. Scythe glass swarms are used to safeguard shrines and inner sanctums from unwanted attention while also providing beautiful facades when the creatures are inactive. Different religions and sects add their own twists on the constructs to express some aspect of their gods or masters. A scythe glass swarm remains within the confines of the area it is guarding, but even if intruders manage to escape, the blood from pouring from their wounds can be used to track down the interlopers.
 
 Scythe glass swarms consist of thousands of winged glass insects. An individual insect is 9 inches in height and weighs under a pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scythe%20Glass%20Swarm)
 ```encounter-table
 name: Scythe Glass Swarm

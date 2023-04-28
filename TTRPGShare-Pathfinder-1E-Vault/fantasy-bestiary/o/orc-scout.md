@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc Scout
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Monster Codex
     desc: 169
 ```
-# Description
+## Description
 Any orc warband needs skilled members such as scouts or gorthek riders to make first contact with the enemy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc%20Scout)
 ```encounter-table
 name: Orc Scout

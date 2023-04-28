@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deskari
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,11 +85,11 @@ sources:
     desc: 88
 desc_short: Larger than an elephant, this towering insectile nightmare wields a scythe made of bone. Its wings are swarms of biting flies, and its inhuman eyes glitter with cruel intelligence.
 ```
-# Description
+## Description
 Known as the Lord of the Locust Host and the Usher of the Apocalypse, Deskari has long plagued the region of Sarkoris, ever since he discovered a strange thinness between that nation and his own Abyssal realm. His first attempt to capitalize upon this strange feature ended with his defeat at Aroden’s hands, but after the god’s death at the outset of the Age of Lost Omens, Deskari and his cult wasted no time in opening the Worldwound to allow the demon lord’s plans for Golarion to continue.
 
 Deskari carved his realm from the raw matter of the Abyss using a great scythe called Riftcarver (see page 63), a weapon he crafted from the remains of the strange creature his father, Pazuzu, mated with tens of thousands of years ago. Today, Pazuzu and Deskari have what passes as a cordial relationship-the two demon lords do not work together, but neither do they oppose each other’s goals on the Material Plane and beyond.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deskari)
 ```encounter-table
 name: Deskari

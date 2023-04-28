@@ -1,19 +1,21 @@
 ---
-alias: Shield of Law
+aliases: [Shield of Law]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shield of Law 
+## Shield of Law
 
 **source**:: PRPG Core Rulebook pg. 342  
 **school**:: abjuration (lawful)
 **level**:: cleric 8, oracle 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a reliquary worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **target**:: one creature/level in a 20-ft.-radius burst centered on you  
@@ -21,7 +23,7 @@ alias: Shield of Law
 **saving-throw**:: see text
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 A dim, blue glow surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by chaotic creatures, and slowing chaotic creatures when they strike the subjects. This abjuration has four effects.  
   

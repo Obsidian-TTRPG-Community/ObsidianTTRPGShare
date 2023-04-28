@@ -1,25 +1,27 @@
 ---
-alias: Firewalker's Meditation
+aliases: ["Firewalker's Meditation"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Firewalker's Meditation 
+## Firewalker's Meditation
 
 **source**:: Divine Anthology pg. 12  
 **school**:: abjuration (meditative)
 **level**:: arcanist 4, cleric 4, druid 4, paladin 3, shaman 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, M (soothing incense worth 400 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 24 hours or until discharged
 
-### Description 
+### Description
 
 You focus your mind on blocking out pain, allowing your body to endure punishments that would be otherwise unbearable. While under the effects of this spell, you continue to register pain-you simply don’t suffer the deleterious effects such sensations bring. For example, if you were lit on fire as you slept, you would still wake from the pain of burning even though some of the fire damage you endured (perhaps all of it) would be negated by this spell.  
   

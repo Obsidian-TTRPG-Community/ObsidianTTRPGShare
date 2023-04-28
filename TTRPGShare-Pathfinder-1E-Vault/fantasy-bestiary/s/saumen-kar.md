@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Saumen Kar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 90
 desc_short: This hulking humanoid’s dense fur is scored with rune-shaped brands. Skin cracked and blackened by frostbite stretches taught over a misshapen skull crowned with a pair of ivory horns.
 ```
-# Description
+## Description
 This leathery-faced creature stands tall and upright, with long, simian limbs and a shaggy coat. Intelligent and powerful, saumen kars are not naturally aggressive, but the hostility of their environment forces them to defend the land that supports them with ferocity, even to the death. Their natural coloration and snow-packed fur make saumen kars almost invisible among the drifts of their icy homes, leading many arctic races to refer to them as “men of snow.” A longforgotten deal made by their race in its infancy still brutally scars the body of each saumen kar, marking them with their distinctive frostbite brands-though if this debt is already paid, lapsed, or growing ever greater, none can remember. An adult saumen kar stands 12 feet tall and weighs almost 2,000 pounds, but the ice and snow matted to its fur for both insulation and armor add another 1,000 pounds to its bulk.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Saumen%20Kar)
 ```encounter-table
 name: Saumen Kar

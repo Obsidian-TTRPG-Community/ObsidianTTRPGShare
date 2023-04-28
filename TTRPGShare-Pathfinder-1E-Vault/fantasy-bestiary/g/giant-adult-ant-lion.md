@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Adult Ant Lion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 5
 desc_short: This spindly insect, borne aloft on four delicate wings, snaps its mandibles in obvious hunger.
 ```
-# Description
+## Description
 When a giant ant lion reaches maturity, it creates a cocoon of sand and dirt around itself. Over the course of a month, the ant lion undergoes a dramatic metamorphosis-when it emerges, its body has become elongated and thin and it has gained a set of enormous, lacy wings. Depending on the region, giant adult ant lions are often called giant lacewings, giant damselflies, or giant spindleflies, but regardless of their regional name, they remain ravenous and deadly, replacing the sand trap cunning of their larval form with swift flight and greater battlefield mobility.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Adult%20Ant%20Lion)
 ```encounter-table
 name: Giant Adult Ant Lion

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Shatter
+aliases: [Mythic Shatter]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Shatter
+## Mythic Shatter
 
 **source**:: Mythic Adventures pg. 107  
 **school**:: evocation (sonic)
 **level**:: arcanist 2, bard 2, bloodrager 2, cleric 2, magus 2, occultist 2, oracle 2, psychic 2, skald 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a chip of mica)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **Area or Target** 5-ft.-radius spread; or one solid object or one crystaline creature  
@@ -21,7 +23,7 @@ alias: Mythic Shatter
 **saving-throw**:: Will negates (object); Will negates (object) or Fortitude half; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Shatter* creates a loud, ringing noise that breaks brittle, nonmagical objects; sunders a single solid, nonmagical object; or damages a crystalline creature.  
   

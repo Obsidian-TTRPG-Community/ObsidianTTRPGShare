@@ -1,19 +1,21 @@
 ---
-alias: Bestow Curse, Greater
+aliases: [Bestow Curse, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Bestow Curse, Greater 
+## Bestow Curse, Greater
 
 **source**:: Pathfinder \#82: Secrets of the Sphinx pg. 75  
 **school**:: necromancy
 **level**:: arcanist 8, cleric 7, oracle 7, sorcerer 8, witch 7, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Bestow Curse, Greater
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You place a curse on the subject. Choose one of the following.
 
@@ -34,4 +36,3 @@ You place a curse on the subject. Choose one of the following.
 If a specific affliction is bestowed, the save DC of the spell replaces the usual save DC of the affliction. You can also invent your own curse, but it should be no more powerful than those described above.  
   
 The curse bestowed by this spell cannot be dispelled, but it can be removed with a *break enchantment*, *limited wish*, *miracle*, or *wish* spell. It cannot be removed with *remove curse* or suppressed with *abeyance*. The DC to remove the curse with *break enchantment* increases by 5.
-

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kangaroo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 191
 desc_short: As tall as a grown human, this mouse-faced creature stands on powerful hind legs and has a stout tail trailing behind.
 ```
-# Description
+## Description
 These strange-looking animals have long pointy ears and pronounced muzzles, and their strong legs carry them about in amazing leaps. Like all marsupials, kangaroos give birth to live young (“joeys”) that are relatively undeveloped at birth and completely helpless, and must remain within a protective pouch on the mother’s belly for months before safely emerging.
 
 While not particularly dangerous, a kangaroo is more than capable of defending itself if cornered or when forced to protect its young, striking out at foes with a powerful kick capable of knocking unwary antagonists off their feet.
 
 A kangaroo stands over 6-1/2 feet tall and weighs upward of 200 pounds. To represent a smaller species standing about 4 feet tall and weighing 110 pounds, apply the young simple template or manually reduce the size from Medium to Small. Kangaroos reach maturity in less than a year and can live up to 20 years, but most individuals in the wild are hunted by predators within their first decade.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kangaroo)
 ```encounter-table
 name: Kangaroo

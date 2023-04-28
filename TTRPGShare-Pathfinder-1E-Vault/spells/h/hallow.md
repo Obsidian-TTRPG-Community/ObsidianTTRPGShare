@@ -1,19 +1,21 @@
 ---
-alias: Hallow
+aliases: [Hallow]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hallow 
+## Hallow
 
 **source**:: PRPG Core Rulebook pg. 293  
 **school**:: evocation (good)
 **level**:: cleric 5, druid 5, hunter 5, inquisitor 5, oracle 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 24 hours  
 **components**:: V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of he spell to be included in the *hallowed* area), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 40-ft. radius emanating from the touched point  
@@ -21,7 +23,7 @@ alias: Hallow
 **saving-throw**:: see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 *Hallow* makes a particular site, building, or structure a holy site. This has four major effects.  
   

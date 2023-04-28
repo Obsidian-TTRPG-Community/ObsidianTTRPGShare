@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nucol
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 253
 desc_short: This monstrous wild boar is infested with wriggling worms and accompanied by a buzzing cloud of flies.
 ```
-# Description
+## Description
 Nucols are sahkils that delight in spreading the fear of parasites and other unseen things that can pollute the body and cause sickness. They spread a disease that weakens their victims’ will and amplifies feelings of doubt and inadequacy. Nucols often use their remove disease spell-like ability to bargain with their victims, agreeing to cure them in return for a favor. The sahkil legitimately heals the victim of its affliction, but the price for doing so often outweighs the value of the curative.
 
  A nucol is over 4 feet long and weighs 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nucol)
 ```encounter-table
 name: Nucol

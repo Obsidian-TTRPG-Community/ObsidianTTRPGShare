@@ -1,19 +1,21 @@
 ---
-alias: Mythic True Form
+aliases: [Mythic True Form]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic True Form
+## Mythic True Form
 
 **source**:: Mythic Adventures pg. 110  
 **school**:: abjuration
 **level**:: arcanist 4, druid 4, hunter 4, occultist 4, psychic 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: up to one creature/3 levels, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Mythic True Form
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *True form* removes any polymorph effect from a target creature, returning it to its true form, even against its will. Against creatures affected by polymorph spell effects (such as *baleful polymorph* or giant form), you must make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the polymorph effect immediately ends.  
   

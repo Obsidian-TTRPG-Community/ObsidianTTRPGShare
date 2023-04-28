@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yah-Thelgaad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -90,7 +92,7 @@ sources:
     desc: 90
 desc_short: A writhing forest of tendrils extends from one end of this chitincovered creature’s body, while from the other lashes a pincer-tipped tail. Six transparent blisters adorn its back, each containing a brain floating in thick green fluid.
 ```
-# Description
+## Description
 When a neh-thalggu has absorbed a critical mass of thoughts and memories from an unknown number of humanoid brains, its body undergoes a horrific transformation. The creature enters a state of torpor, its body curling into a tight ball as it consumes the oldest of its seven stored brains to trigger the metamorphosis. Over the course of several days of selfconsumption, the neh-thalggu bursts from the shell of its old body into its new incarnation as a yah-thelgaad.
 
 While the yah-thelgaad shares many of the features of its less powerful progenitor, it is in every way a more powerful creature than it was before. While the capacity to store one fewer brain than a neh-thalggu presents some disadvantage, the yah-thelgaad gains twice as much power from a collected brain as its lesser kin does. In addition, these creatures need not limit their harvest to the brains of humanoids-any Small or Medium creature’s brain will do.
@@ -98,7 +100,7 @@ While the yah-thelgaad shares many of the features of its less powerful progenit
 Yah-thelgaads are zealously devoted to the inscrutable causes of the Dominion of the Black, but they are also notoriously devout believers in that alliance’s weird theology, worshiping a concept they refer to as the “Ineffable Void,” among other cryptic mysteries. It is not uncommon for yahthelgaads of high rank to also possess inquisitor or oracle levels, lording their authority and fanatical faith over those in their charge-the most powerful yah-thelgaads often take levels in mystic theurge to combine their class-based mastery of the divine with their stolen brains’ arcane lore.
 
 Yah-thelgaads often supervise the Dominion of the Black’s surgical and genetic engineers on major projects, pushing those agents to attempt greater and more horrific procedures. For all their legendary cruelty, however, yah-thelgaads don’t appear to gain pleasure from such experiments. Indeed, they don’t seem to feel any emotions at all on their own, but rather experience such sensations vicariously through the memories of the brains they’ve collected. In this way, the creatures know lust, fear, hatred, and pride without exposing their own minds to the disadvantages of being susceptible to mind-affecting effects.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yah-Thelgaad)
 ```encounter-table
 name: Yah-Thelgaad

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Storm Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 90
 desc_short: This hag’s hair, claws, and teeth crackle with sparks of electricity. Her windswept hair billows up from her brow like a thunderhead.
 ```
-# Description
+## Description
 When the clouds turn gray and the winds pick up into a howl, wise travelers pray that the cause is only a natural tempest and not a storm hag. A storm hag resembles an old woman with a thundercloud of hair. Her mouth hangs open, revealing thin pointed teeth with small arcs of electricity jumping across them. Black talons sprout from her fingertips, likewise crackling with electricity. A storm hag weighs 70 pounds and stands around 4 feet tall, though if she stood up straight she could easily reach 5 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Storm%20Hag)
 ```encounter-table
 name: Storm Hag

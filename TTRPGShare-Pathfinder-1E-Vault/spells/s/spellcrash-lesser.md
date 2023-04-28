@@ -1,19 +1,21 @@
 ---
-alias: Spellcrash, Lesser
+aliases: [Spellcrash, Lesser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spellcrash, Lesser 
+## Spellcrash, Lesser
 
 **source**:: Advanced Class Guide pg. 194  
 **school**:: abjuration
 **level**:: arcanist 4, cleric 4, oracle 4, psychic 4, sorcerer 4, warpriest 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Spellcrash, Lesser
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a discordant blast of energy that disrupts the target’s available magic each round at the start of its turn.  
   
@@ -34,4 +36,3 @@ There is no initial saving throw for this spell, but the target can attempt a Wi
 If the target has more than one spellcasting class, choose one at random to be affected. This spell has no effect on spell-like abilities.  
   
 Any spell or spell slot lost because of this spell is treated as if the caster had failed a concentration check while trying to cast it-the spell or spell slot is wasted and has no effect, but is recovered normally the next time the character prepares spells or regains spell slots.
-

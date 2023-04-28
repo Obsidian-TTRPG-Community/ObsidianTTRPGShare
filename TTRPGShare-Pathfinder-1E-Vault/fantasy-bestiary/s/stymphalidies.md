@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stymphalidies
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 257
 desc_short: This towering, ibis-like bird appears to be sculpted from silver and brass, yet it moves with the fluidity of a living creature.
 ```
-# Description
+## Description
 Man-eating birds of prey, the rare creatures known as stymphalidies stalk plains and coastlines, shredding warm-blooded animals and unwary travelers with their steely-bladed feathers and daggerlike beaks. From a distance, stymphalidies might easily be mistaken for cranes, ibises, or other long-necked birds, though in full sunlight their gleaming feathers and the haze of blood lingering from past meals are impossible to mistake.
 
 When not at rest, flocks of the creatures soar high on warm currents of air, relying upon their keen eyesight to spot suitable prey far below. Because of their voracious appetites, flocks of stymphalidies must claim a vast swath of territory to maintain their feeding habits.
@@ -59,7 +61,7 @@ When not at rest, flocks of the creatures soar high on warm currents of air, rel
 Fortunately for the folk of civilized lands, stymphalidies rarely encroach upon areas well traveled by humanoids and other creatures clever enough to bring down one of these metallic-winged avians. Stymphalidies breed at an astonishing rate, however, and overpopulation and exhaustion of game frequently force extraordinarily large and deadly groups of the creatures to band together in search of new lands and new prey to devour.
 
 Peculiarly, the feathers and beak of a stymphalidies are made of steel-like material similar to the metallic hide of a gorgon. Smaller varieties of stymphalidies exist, including a variant with a penchant for swarming, but the towering creature presented here is by far the most commonly encountered of its kind. This stymphalidies stands 13 feet tall, with a wingspan of 25 feet and a weight of 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stymphalidies)
 ```encounter-table
 name: Stymphalidies

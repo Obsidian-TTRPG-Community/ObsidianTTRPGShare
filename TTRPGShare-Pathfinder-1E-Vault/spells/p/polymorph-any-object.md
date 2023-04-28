@@ -1,19 +1,21 @@
 ---
-alias: Polymorph Any Object
+aliases: [Polymorph Any Object]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Polymorph Any Object 
+## Polymorph Any Object
 
 **source**:: PRPG Core Rulebook pg. 323  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (mercury, gum arabic, and smoke)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature, or one nonmagical object of up to 100 cu. ft./level  
@@ -21,7 +23,7 @@ alias: Polymorph Any Object
 **saving-throw**:: Fortitude negates (object); see text
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 This spell functions like *greater polymorph*, except that it changes one object or creature into another. You can use this spell to transform all manner of objects and creatures into new forms-you aren't limited to transforming a living creature into another living form. The duration of the spell depends on how radical a change is made from the original state to its transmuted state. The duration is determined by using the following guidelines.  
   

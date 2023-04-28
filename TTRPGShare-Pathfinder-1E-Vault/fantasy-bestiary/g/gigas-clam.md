@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gigas Clam
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 64
 desc_short: This monstrous clam’s conjoined shells open wide enough to swallow a horse. Inside, two tubular siphons flank the thing’s innards, which resemble a fleshy, vaguely humanoid woman, save that instead of a face, it has a singular massive maw filled with rows of ravenous teeth.
 ```
-# Description
+## Description
 Commonly found only in shallow beds of sediment on the ocean f loor, the gigas clam is an unusual foe-one that often catches divers and sailors unaware when they mistake it for merely an oversized mollusk. Shining, misshapen barnacles cover a gigas clam’s tough and distinctive shell, glittering nodes that attract curious fish toward the beast’s side. Even larger predator fish such as marlins, tuna, and sharks can find themselves in the tightly clasped jaws of a gigas clam.
 
 Gigas clams are primarily sedentary monsters, content to lie in wait as prey inevitably wanders toward their seemingly harmless forms. Vast fields of the titanic bivalves can be found scattered along the ocean floor of the Inner Sea, feeding on fish and any debris that falls to the bottom, including shipwreck victims and castaways thrown overboard by pirates. If no food presents itself for some time, a bed of gigas clams either relocates or crawls toward land in search of a more dependable source of food.
@@ -66,7 +68,7 @@ Gigas clams depart from their mostly passive hunting style once per year, when t
 Once trapped inside a gigas clam’s quivering and contracting musculature, victims are almost certainly doomed, as the clam’s acidic innards swiftly melt and destroy anything within. When engaged in melee, a gigas clam can strike with both its fleshy siphons as well as its terrible foot, which terminates in a toothy maw that can deliver devastating wounds.
 
 Since gigas clams openly attack land-dwellers only during 1 month out of the year, coastal communities and fisherfolk dwelling near gigas clam beds know to prepare their ships and docks for the deadly onslaughts of these creatures. But even the most formidable defenses are not enough to hold back great numbers of the clams, and most find it easier to simply avoid settling near gigas clam fields. Particularly bold monster hunters and sages travel throughout the Inner Sea during the summer in hopes of spotting the slimy beasts, using elaborate charts and maps listing past reports of the creatures to pick which areas to observe. A few whisper tales of immense magical pearls buried within the clams, which they postulate are responsible for the clams’ increased size and intelligence. Others propose that the monsters absorb a portion of their victims’ intelligence and memories while digesting them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gigas%20Clam)
 ```encounter-table
 name: Gigas Clam

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Animate Dead
+aliases: [Mythic Animate Dead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Animate Dead
+## Mythic Animate Dead
 
 **source**:: Mythic Adventures pg. 84  
 **school**:: necromancy (evil)
 **level**:: adept 3, antipaladin 3, arcanist 4, cleric 3, occultist 3, oracle 3, shaman 3, sorcerer 4, spiritualist 3, warpriest 3, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one or more corpses touched  
@@ -21,7 +23,7 @@ alias: Mythic Animate Dead
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell turns corpses into undead skeletons or zombies that obey your spoken commands.  
   

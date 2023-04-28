@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Siren's Bed Anemone"
 statblock: inline
-tags: monster
-name: Siren's Bed Anemone
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 248
 desc_short: This enormous polyp is crowned with bright red-and-blue striped tentacles. A long, thin stinger darts from the center.
 ```
-# Description
+## Description
 This massive anemone can emit a deafening screech that can be heard for miles under the water.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Siren%27s%20Bed%20Anemone)
 ```encounter-table
 name: Siren's Bed Anemone

@@ -1,19 +1,21 @@
 ---
-alias: Protection from Evil
+aliases: [Protection from Evil]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Protection from Evil 
+## Protection from Evil
 
 **source**:: PRPG Core Rulebook pg. 327  
 **school**:: abjuration (good)
 **level**:: adept 1, arcanist 1, bloodrager 1, cleric 1, inquisitor 1, medium 1, oracle 1, paladin 1, shaman 1, sorcerer 1, spiritualist 1, summoner 1, summoner (unchained) 1, warpriest 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Protection from Evil
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no; see text
 
-### Description 
+### Description
 
 This spell wards a creature from attacks by evil creatures, from mental control, and from summoned creatures. It creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has three major effects.  
   
@@ -31,8 +33,7 @@ Second, the subject immediately receives another saving throw (if one was allowe
   
 Third, the spell prevents bodily contact by evil summoned creatures. This causes the natural weapon attacks of such creatures to fail and the creatures to recoil if such attacks require touching the warded creature. Summoned creatures that are not evil are immune to this effect. The protection against contact by summoned creatures ends if the warded creature makes an attack against or tries to force the barrier against the blocked creature. Spell resistance can allow a creature to overcome this protection and touch the warded creature.
 
-## Mythic Protection from Evil 
+## Mythic Protection from Evil
 
 **source**:: Mythic Adventures pg. 105  
 The bonuses to AC and on saves increase to +4. Any evil creature attempting to possess or exercise mental control over the target must attempt a Will save against this spell. If it fails, the creature takes 1d6 points of damage per 2 caster levels (maximum 5d6) from mental feedback. An evil creature that uses spell resistance to bypass the spell’s protection against contact must successfully save or take this damage once each round it attacks the protected target.
-

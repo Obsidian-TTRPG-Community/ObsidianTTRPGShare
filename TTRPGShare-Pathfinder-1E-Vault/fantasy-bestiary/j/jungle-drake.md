@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jungle Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 100
 desc_short: The skin of this rugged dragon is mottled in hues of blue and green. Its elongated tail hides a menacing stinger.
 ```
-# Description
+## Description
 Jungle drakes are tenacious predators, ruthlessly adapted to the environment they call home. The tails of these drakes inject a virulent toxin, capable of debilitating the most stubborn of foes.
 
 Jungle drakes typically travel in rampages of three or more, stalking animals or humanoids without remorse. Able to travel through forested terrain with ease, jungle drakes prefer to make several hit-and-run attacks, using their stingers to inject their prey with poison. After the venom has time to set in, the drake reemerges from the jungle, snatching the weakest target in its jaws before retreating back into the woods with its new meal. When the prey of a jungle drake appears too well armed or prepared to assault foes head-on, the drake stalks them, letting the natural hazards of the jungle wear them down before emerging to grab a meal, and then retreating back to the protection of the deeper jungle.
 
 A jungle drake measures 14 feet from front to back, with a lean but muscular build, and weighs around 2,100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jungle%20Drake)
 ```encounter-table
 name: Jungle Drake

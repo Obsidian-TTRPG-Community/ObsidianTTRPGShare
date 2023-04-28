@@ -1,19 +1,21 @@
 ---
-alias: Hellfire Ray
+aliases: [Hellfire Ray]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hellfire Ray 
+## Hellfire Ray
 
 **source**:: Book of the Damned pg. 184, Book of the Damned - Volume 1: Princes of Darkness pg. 46  
 **school**:: evocation (evil)
 **level**:: arcanist 6, cleric 6, magus 6, oracle 6, sorcerer 6, warpriest 6, witch 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (any unholy symbol or heretical tome)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: ray  
@@ -21,7 +23,7 @@ alias: Hellfire Ray
 **saving-throw**:: none (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A blast of hellfire blazes from your hands. You can fire one ray, plus one additional ray for every 4 caster levels beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged touch attack to hit and deals 1d6 points of damage per caster level (maximum 15d6). Half the damage is fire damage, but the other half results directly from unholy power and is therefore not subject to being reduced by fire resistance. The rays can be fired at the same target or at different targets, but all rays must be fired simultaneously and aimed at targets within 30 feet of each other.  
   

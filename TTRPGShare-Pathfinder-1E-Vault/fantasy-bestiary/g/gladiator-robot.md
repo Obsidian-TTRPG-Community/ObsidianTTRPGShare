@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gladiator Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,7 +79,7 @@ sources:
     desc: 54
 desc_short: One of this metallic humanoid’s four arms ends in the barrel of a large-bore rifle, while another ends in a spinning circular blade. Its final two arms grasp a massive chainsaw.
 ```
-# Description
+## Description
 Adaptable in combat and programmed to entertain, gladiator robots are designed to provide a vicarious experience to sate spectators’ primal bloodlust. They fight with a passion that makes many observers forget they are watching a machine instead of a living being. Constructed to move with grace and swagger both in and out of battle, they are agile and incredibly strong for their size. Gladiator robots stand 6 feet tall but are constructed of dense metals and weigh 450 pounds.
 
  Built from some of the rarest high-tech materials and weapons acquired by the Technic League, gladiator robots usually serve as entertainment in the blood- and oil-smeared fighting pits of Starfall in Numeria, although they have been spotted less commonly in Tymon in the River Kingdoms and Oppara in Taldor. Owned almost exclusively by high-ranking members of the Technic League, gladiator robots often operate as personal bodyguards when not participating in gladiatorial combat, although their tendency toward targeting errors makes them risky protectors.
@@ -89,7 +91,7 @@ Adaptable in combat and programmed to entertain, gladiator robots are designed t
  Since their programming has been pushed to the limits of their capacity, gladiator robots are prone to develop quirks and bugs in their behavior. Despite frequently being sent back to technicians for repair, gladiator robots often develop personality traits that begin to blur the line between machines and living creatures. While most of these quirks tend to emulate personalities that are brash and energetic, some gladiator robots become enamored of death. These robots are likely the source of rumors about out-of-control “kill bots” that view killing as pleasure.
 
  Stories of gladiator robots leaving the service of their masters and taking up free lives on their own may be nothing more than Andoren propaganda, but such tales are appealing enough that several have spread throughout the Inner Sea. One famous tale is told by Mendevian Knights who watched a “man of metal” walk directly into hordes of demons near the Worldwound, shouting challenges the entire way. Whether the robot survived- or the story is true-is unclear.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gladiator%20Robot)
 ```encounter-table
 name: Gladiator Robot

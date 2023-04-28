@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plasma Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 220
 desc_short: This amorphous blob of violet energy ripples like a globe of floating liquid. It periodically lashes out with tendrils of blue light.
 ```
-# Description
+## Description
 Massive and devastating, plasma oozes are mysterious, extraterrestrial beings made of superheated electromagnetic sludge. While their origin is not fully known, it is widely accepted that plasma oozes are not from this world. Some scholars believe they dwell in the sun, while others maintain they hail from the Plane of Fire. That plasma oozes have been encountered in both of these locations does little to help solve the debate.
 
 A plasma ooze flies by somehow interacting with gravity and magnetic waves, drifting through the air in a manner similar to the way a jellyfish swims in water. This creature’s only real purpose is to consume, and it prefers to do so by drawing prey into its fiery, electrified core. Scholars find it curious that while a plasma ooze can only attract and repel metallic substances, the thing can only digest organic matter, and rather slowly at that.
@@ -61,7 +63,7 @@ A plasma ooze flies by somehow interacting with gravity and magnetic waves, drif
 Survivors of plasma ooze attacks are rare, but such victims describe the pain of being struck by one’s rays as like being pulled apart piece by piece. Wounds left by a plasma ooze’s touch resemble hideously melted burn scars.
 
 A plasma ooze is 20 feet in diameter and weighs 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plasma%20Ooze)
 ```encounter-table
 name: Plasma Ooze

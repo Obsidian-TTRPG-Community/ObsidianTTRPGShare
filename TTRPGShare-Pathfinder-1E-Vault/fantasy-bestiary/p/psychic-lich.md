@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psychic Lich
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
     desc: 33
 desc_short: This gaunt, ghoulish figure’s skin is inscribed with faintly glowing runes. Short-lived afterimages trail behind it.
 ```
-# Description
+## Description
 While some liches prefer to spend undeath’s eternity in seclusion, a psychic lich sustains its life force by embracing its personal accomplishments to create a powerful astral echo of itself. Even more megalomaniacal than most liches, psychic liches resemble ordinary liches for the most part, but their every moment is attended by ghostly images of past cruelties, a constantly rotating illusory display of the evil deeds that brought them their power. Most psychic liches are humans, or come from other races renowned for their psychic abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psychic%20Lich)
 ```encounter-table
 name: Psychic Lich

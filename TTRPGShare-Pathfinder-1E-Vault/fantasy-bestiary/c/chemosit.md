@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chemosit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 86
 desc_short: This massive, shaggy beast uses long and muscular forearms to raise itself onto its hind legs and beats its chest like a gorilla. Despite its ape-like stance, its frame is far heavier and its features more primitive, its powerful muzzle and gnashing canines bespeaking terrible, bestial savagery.
 ```
-# Description
+## Description
 From the time their children are young, Mwangi tribesfolk tell them chilling tales of the savage, child-eating chemosit. While most believe these stories hold little truth and serve only to keep children from wandering too far from their villages, others know better. Few who have witnessed the gruesome work of the chemosit survive. Bearing terrible scars, both physical and mental, they recall the creature’s utter savagery and inhuman strength. Tribes living in close proximity to chemosits believe them to be the living embodiment of wrathful gods or nature spirits, and pay them grisly sacrifices. In such places, those who suffer the beast’s attacks are often blamed for the violence and exiled. In other regions, evil shamans capable of summoning or commanding these beasts gain great power and infamy. It is a common practice for warring tribes to pay such shamans to summon a chemosit to plague the villages of their enemies.
 
 Chemosits stand over 9 feet tall on average and weigh upward of 750 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chemosit)
 ```encounter-table
 name: Chemosit

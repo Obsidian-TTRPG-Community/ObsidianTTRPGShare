@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kuribu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 82
 desc_short: The skin of this halfling-sized, winged humanoid is as smooth as polished marble. It wields a bow and carries a quiver full of arrows on its back.
 ```
-# Description
+## Description
 Though one of the least powerful kinds of angels, kuribus are trusted with the protection of sacred places such as churches and blessed bowers. Their ability to stay as still as statues allows them to stand sentinel over their charges for decades, or even centuries. When their guarded locations are invaded, kuribus take flight and pepper their foes with arrows, altering their countenances as the situation requires. If outmatched or outnumbered, the majority of a flight of kuribus sacrifice themselves, while a lone kuribu retreats to fetch reinforcements, be it angels from a higher choir or a nearby hero.
 
 Kuribus look like small, round-cheeked humanoids, and have pale, flawless skin that is actually as tough as stone. This both aids them in disguising themselves as statues and affords them protection. Their child-like forms lend them an air of purity and innocence. A kuribu has two sets of wings, with the smaller pair at the base of the spine allowing a greater amount of control when flying. A typical kuribu stands 3 feet tall but weighs 60 pounds as a result of the angel’s dense, stonelike flesh.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kuribu)
 ```encounter-table
 name: Kuribu

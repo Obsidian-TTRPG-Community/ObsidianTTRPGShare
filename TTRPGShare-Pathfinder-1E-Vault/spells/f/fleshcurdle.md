@@ -1,19 +1,21 @@
 ---
-alias: Fleshcurdle
+aliases: [Fleshcurdle]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fleshcurdle 
+## Fleshcurdle
 
 **source**:: Inner Sea Magic pg. 55  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 2, redmantisassassin 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (scrap of pickled flesh)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living or undead creature  
@@ -21,7 +23,7 @@ alias: Fleshcurdle
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You warp the target creature’s flesh, discoloring it and causing it to become misshapen and impairing its function. When you cast this spell, you must choose one of three types of effects to inflict on the target-movement, attacks, or defense.  
   
@@ -33,7 +35,7 @@ You warp the target creature’s flesh, discoloring it and causing it to become 
   
 Most undead are susceptible to *fleshcurdle*, but amorphous creatures and creatures without flesh are immune (such as elementals, oozes, plants, gaseous or incorporeal creatures, and skeletons).
 
-## Mythic Fleshcurdle 
+## Mythic Fleshcurdle
 
 **source**:: Mythic Origins pg. 12  
 You can choose two effects instead of one effect, or may choose to enhance one effect. If you enhance the attack effect, all of the creature’s natural attacks are affected. If you enhance the defense effect, in addition to *fleshcurdle*’s normal effect on natural armor bonus, any critical threats against the creature gain a +4 bonus on the confirmation roll. If you enhance the movement effect, all of the creature’s movement speeds are halved.  

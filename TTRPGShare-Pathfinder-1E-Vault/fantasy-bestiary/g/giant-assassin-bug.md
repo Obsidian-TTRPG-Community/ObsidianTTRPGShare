@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Assassin Bug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 82
 desc_short: This goat-sized insect stands on long, spindly legs. Its mouthparts glisten with a curious fluid.
 ```
-# Description
+## Description
 An assassin bug partially buries itself in the sand or conceals itself among clusters of thorny bushes near oases, waiting for the next palatable creature to approach. When prey arrives, the insect bursts out of hiding and pierces its target with its elongated mouthparts, injecting a potent toxin. Once its prey is safely paralyzed, the assassin bug feeds by siphoning the victim’s fluids. Even if these bites don’t kill, they are extremely painful and cause swelling.
 
 Giant assassin bugs lay eggs in shallow caves or the crevices between rocks, preferably where food is readily available for the hatching young. An adult giant assassin bug is typically 4 feet long and weighs 65 pounds, though the larger varieties grow to a length of 6 feet and weigh around 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Assassin%20Bug)
 ```encounter-table
 name: Giant Assassin Bug

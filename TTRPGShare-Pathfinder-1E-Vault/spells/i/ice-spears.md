@@ -1,19 +1,21 @@
 ---
-alias: Ice Spears
+aliases: [Ice Spears]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ice Spears 
+## Ice Spears
 
 **source**:: Pathfinder \#67: The Snows of Summer pg. 72, Inner Sea Magic pg. 57  
 **school**:: conjuration (cold)
 **level**:: arcanist 3, druid 3, hunter 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a small stalagmite-shaped crystal)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 1 ice spear/4 levels  
@@ -21,7 +23,7 @@ alias: Ice Spears
 **saving-throw**:: Reflex half and see below
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Favored by the spellcasters of Irrisen, this potent spell can disrupt spellcasters, topple enemies, and break even seemingly unstoppable charges.  
   

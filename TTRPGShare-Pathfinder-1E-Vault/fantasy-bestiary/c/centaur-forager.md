@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Centaur Forager
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 7
 desc_short: Swirling markings cover the armor and flanks of this imposing centaur. A bow and sword, both heavy enough to suit her powerful frame, hang from her body.
 ```
-# Description
+## Description
 Inside the hallowed reaches of centaur realms, foragers watch for signs of intruders and prowl their domains looking for game to feed their kin. These centaurs patrol their borders, keeping constant vigil to drive away unwelcome beasts and travelers alike with displays of force, grim warnings, and eventually violence.
 
  Foragers bring down dangerous beasts and deliver their carcasses to the tribe, providing furs and leather for clothing, bones and sinew for tools, rendered fat for lard and tallow, and a feast if their prey pleases the palate. Keenly aware of their peoples’ dependance on the world around them, foragers aim for quick, clean kills and take only enough to satisfy their people’s immediate needs. Their preferred prey are creatures disrupting the order they depend on, whether rampaging monsters or human poachers-any creature that takes more than it needs to live calls down the wrath of these silent hunters.
@@ -57,7 +59,7 @@ Inside the hallowed reaches of centaur realms, foragers watch for signs of intru
  When responding to sentient intruders, a forager’s approach varies widely based on her past experiences with the intruder’s kind and the trespassers’ attitude and actions. They rarely offer aggressive races, such as goblins and orcs, a chance to parley and instead shoot them down from afar. More approachable races, especially elves and gnomes, are sometimes welcomed into centaur territory. Races that have mixed reputations, such as humans, are met on a cautious case-by-case basis. All too often, the honeyed promises that drip from the mouths of humans fall short of their final treatment of centaurs, and this tarnished relationship has left many tribes bitter toward all of humanity. Those enemies who cannot be warned off or killed are instead avoided, and a forager’s secondary role is to scout out lush new pastures for her people to relocate to should enemies endanger their home.
 
  When travelers respectfully petition centaurs for safe passage through their territory and convince them that no alternative route is available, a tribe may reluctantly grant the strangers’ request. However, in exchange for permission, centaurs often demand a toll in the form of a task or favor performed on the tribe’s behalf. They most often ask for metal tools and magic that their divine-leaning society can’t produce reliably, but may instead request that adventurers destroy a local threat. Even with tribal approval to enter centaur lands, outsiders can expect their every step to be watched by the tribe’s foragers- whether the interlopers can see their centaur observers or not.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Centaur%20Forager)
 ```encounter-table
 name: Centaur Forager

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psychic Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 45
 desc_short: This horrific, ghostly skull’s brain pulses within its cranium, the whorls and folds plainly visible through bone.
 ```
-# Description
+## Description
 Psychic stalkers are the undead minds of psychic spellcasters who suffered unexpectedly violent deaths. Such minds are sometimes powerful enough to persist even after their bodies’ destruction, transforming into incorporeal creatures composed entirely of thought, yet they retain no true memories or abilities from their former existence. Knowing only that they are missing a vital part of their being, psychic stalkers are ruled by the envious desire to take control of new bodies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psychic%20Stalker)
 ```encounter-table
 name: Psychic Stalker

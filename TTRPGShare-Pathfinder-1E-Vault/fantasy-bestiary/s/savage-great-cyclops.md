@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Savage Great Cyclops
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 72
 desc_short: Towering nearly 40 feet tall, this monster bellows a horrid war cry as blood vessels bloom crimson in his single, rage-filled eye.
 ```
-# Description
+## Description
 In the jungles of the south, great cyclopes roam. Some brutes are especially dangerous, raining down furious blows with their huge greatclubs, and stunning and smashing foes in a blood-red rage. The roaring cries of savage great cyclopes can be heard echoing through the jungles as a warning for all other creatures to f lee before its wrath.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Savage%20Great%20Cyclops)
 ```encounter-table
 name: Savage Great Cyclops

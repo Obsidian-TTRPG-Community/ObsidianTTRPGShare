@@ -1,19 +1,21 @@
 ---
-alias: Unhallow
+aliases: [Unhallow]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Unhallow 
+## Unhallow
 
 **source**:: PRPG Core Rulebook pg. 363  
 **school**:: evocation (evil)
 **level**:: cleric 5, druid 5, hunter 5, inquisitor 5, oracle 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 24 hours  
 **components**:: V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be tied to the *unhallowed* area)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 40-ft. radius emanating from the touched point  
@@ -21,7 +23,7 @@ alias: Unhallow
 **saving-throw**:: see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 *Unhallow* makes a particular site, building, or structure an unholy site. This has three major effects.  
   

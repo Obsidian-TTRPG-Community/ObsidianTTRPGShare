@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Walcofinde
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 88
 desc_short: The torso of a humanoid figure with jagged claws extends outward from a wall, its features patterned with the texture of the structure around it.
 ```
-# Description
+## Description
 Similar to the undead monstrosities known as immured, walcofindes are pitiful undead creatures that manifest when a living being is sealed within a structure and perishes there. These unquiet dead often rise after having been intentionally walled into a structure. This process is what many have attributed its name to, with some treatises on undead referring to them as “wall-coffined.” While both walcofindes and immured form from humanoids who were either sealed within a wall or victims of a collapse, their divergent abilities have led scholars of the undead to posit why the differences manifested as they have. Immured have the ability to displace life-giving oxygen, suggesting they perished through suffocation while trapped. Walcofindes, instead, ultimately succumbed to death by starvation while trapped. These latter transformed undead resemble the decayed appearance of zombies, albeit with vicious bony claws-the result of desperate escape attempts prior to the starvation that ultimately sealed their demise. It is rare for other creatures to ever see a walcofinde’s true appearance, as these undead most often harry the living by possessing nearby walls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Walcofinde)
 ```encounter-table
 name: Walcofinde

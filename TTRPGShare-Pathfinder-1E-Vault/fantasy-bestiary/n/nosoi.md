@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nosoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 86
 desc_short: This strange black bird wears a leather long-nosed mask like a plague doctor.
 ```
-# Description
+## Description
 Nosois eagerly fill the roles of clerks, scribes, and messengers in Purgatory’s bureaucracy. They record the circumstances of each mortal’s death, any judgments for and against its soul, and its final destination among the Outer Planes. A noisoi looks like a songbird-usually a crow, sparrow, or whippoorwill-though it wears a funerary mask that accentuates its beak. Many nosois craft decorative artificial tails from grave goods and other decorations that trail behind them as they fly. A nosoi typically measures about 1 foot in length but is deceptively heavy, weighing between 10 and 15 pounds. It can use drawing and writing tools suitable for Small or Medium creatures without penalty.
 
 Nosois serve within the libraries and scriptoriums of Purgatory, tirelessly scribbling away without rest. Being social creatures, they frequently chatter or sing with one another. A nosoi considers eating a rare treat, and sometimes shares the information it knows if given a suitable tasty bribe.
@@ -70,7 +72,7 @@ Nosois serve within the libraries and scriptoriums of Purgatory, tirelessly scri
 A nosoi’s primary duties are to record happenings within Purgatory, conduct souls to and from their appointed destinations, and carry messages from Purgatory to agents in other planes. Most outsiders respect the couriers’ neutrality and allow them safe passage. Many also serve as assistants to more powerful psychopomps or even to mortals with particularly morbid concerns or important fates. Nosois take pride in knowing that their trivial tasks aid in keeping one of the multiverse’s most important systems functioning with general reliability.
 
 A true neutral spellcaster can gain a nosoi as a familiar at 7th level by taking the Improved Familiar feat. A nosoi familiar grants its master a +2 bonus on skill checks made to scribe scrolls. A nosoi immediately leaves the service of any master who creates or permanently becomes an undead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nosoi)
 ```encounter-table
 name: Nosoi

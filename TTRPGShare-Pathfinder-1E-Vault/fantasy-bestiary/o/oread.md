@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oread
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 205
 desc_short: This large warrior appears heavy and solid, with chiseled, angular features that make her look almost like a statue brought to life.
 ```
-# Description
+## Description
 Oreads are humans whose ancestry includes the touch of an elemental being of earth somewhere along its line, often that of a shaitan genie. Oreads are strong and solidly built, and prefer wearing earth tones that match the coloration of their flesh and hair-shades of gray, brown, black, or white. In rare cases, oreads’ stone-like traits are so strong as to leave no question as to their nature, with growths like rocky outcroppings protruding from their skin or hair like crystalline spikes.
 
 Oreads tend to be stoic and contemplative, slow to anger but terrible when roused. Outside of combat, they tend to be quiet, dependable, and protective of their friends.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oread)
 ```encounter-table
 name: Oread

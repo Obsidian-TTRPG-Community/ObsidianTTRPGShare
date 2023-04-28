@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Divine Loremaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: NPC Codex
     desc: 224
 ```
-# Description
+## Description
 Divine loremasters support allies with divinations and healing rather than slinging combat spells or taking up arms in melee.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Divine%20Loremaster)
 ```encounter-table
 name: NPC Divine Loremaster

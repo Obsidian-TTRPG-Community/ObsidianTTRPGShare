@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Small Water Elemental
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,13 +40,13 @@ sources:
     desc: 126
 desc_short: This translucent creature’s shape shifts between a spinning column of water and a crashing wave.
 ```
-# Description
+## Description
 Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage.
 
 As with other elementals, all water elementals have their own unique shapes and appearances. Most appear as wave-like creatures with vaguely humanoid faces and smaller wave “arms” to either side. Another common form is that of any aquatic creature, such as a shark or octopus, but made entirely out of water.
 
 Elemental Height Weight Vortex Save DC Vortex Height Small4 ft.34 lb.1310-20 ft. Medium8 ft.280 lbs.1510-30 ft. Large16 ft.2,250 lbs.1910-40 ft. Huge32 ft.18,000 lbs.2210-50 ft. Greater36 ft.21,000 lbs.2510-60 ft. Elder40 ft.24,000 lbs.2810-60 ft.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Small%20Water%20Elemental)
 ```encounter-table
 name: Small Water Elemental

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Diabolical Charmer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: NPC Codex
     desc: 172
 ```
-# Description
+## Description
 The diabolical charmer uses magic and honeyed words to convince mortals and fiends to do her bidding.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Diabolical%20Charmer)
 ```encounter-table
 name: NPC Diabolical Charmer

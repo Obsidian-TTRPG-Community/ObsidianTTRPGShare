@@ -1,19 +1,21 @@
 ---
-alias: Curse of Fell Seasons
+aliases: [Curse of Fell Seasons]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Curse of Fell Seasons 
+## Curse of Fell Seasons
 
 **source**:: Horror Adventures pg. 114  
 **school**:: transmutation (curse, darkness)
 **level**:: arcanist 9, druid 9, shaman 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (darkwood carving of a tree worth 15,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 2-mile radius emanating from the touched point  
@@ -21,11 +23,11 @@ alias: Curse of Fell Seasons
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 By touching the ground, you drastically change the weather in the area, as the unseasonable weather curse (see page 145). The focus merges into the cursed area as part of the spell and can only be retrieved if the curse is lifted.
 
-## Unseasonable Weather 
+## Unseasonable Weather
 
 **Type** regional curse
 **area**:: 2-mile-radius emanation

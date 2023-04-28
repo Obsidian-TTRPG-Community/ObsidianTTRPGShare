@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deadfall Dweller
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 58
 desc_short: This creature resembles a fallen tree trunk that walks upon dozens of tiny, barbed branches and shambles like a spider.
 ```
-# Description
+## Description
 Deadfall dwellers are dangerous ambush predators most commonly encountered in the old forests and forgotten marshes of eastern Avistan. They make their homes among fallen stands of trees, where they take advantage of a unique form of camouflage. Hungry deadfall dwellers fold their many sticklike legs under themselves, collapsing against large tree trunks or simply lying on the ground. When a warm-blooded creature happens by, a deadfall dweller straightens its legs to pursue, and bellows out a spray of acidic mucus that paralyzes the victim in its tracks. The beast then advances to attack with its poisonous bite and sharp, scraping appendages.
 
 Deadfall dwellers reproduce by immobilizing prey with repeated applications of acidic spray, then implanting a clutch of eggs within the paralyzed host. The larval dwellers keep their host immobilized while they absorb moisture from its body. After the dwellers grow in size, they emerge from the husk of their host, whose flesh by that point resembles the shriveled bark of a dead tree.
 
 Most deadfall dwellers have a mottled green-brown carapace, the better to fit into their typical surroundings. A few have been reported in colder climates, with whitegray exoskeletons and freezing spittle. An average deadfall dweller stretches 11 feet long, stands 6 feet tall, and weighs 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deadfall%20Dweller)
 ```encounter-table
 name: Deadfall Dweller

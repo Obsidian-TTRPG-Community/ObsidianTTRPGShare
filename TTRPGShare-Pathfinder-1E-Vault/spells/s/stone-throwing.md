@@ -1,19 +1,21 @@
 ---
-alias: Stone Throwing
+aliases: [Stone Throwing]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Stone Throwing 
+## Stone Throwing
 
 **source**:: Giant Hunter's Handbook pg. 27  
 **school**:: transmutation
 **level**:: arcanist 2, bloodrager 1, cleric 2, druid 2, hunter 1, magus 2, oracle 2, ranger 1, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (powdered stone)
 
-### Effect 
+### Effect
 
 **range**::  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Stone Throwing
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The subject gains the rock throwing and rock catching abilities (*Pathfinder RPG Bestiary* 303). It can use these abilities with any solid, mostly inflexible object with a hardness of at least 5.  
   

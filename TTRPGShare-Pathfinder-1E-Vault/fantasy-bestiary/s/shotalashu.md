@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shotalashu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 53
 desc_short: This large, four-legged reptile has a brown scaled hide and a long, powerful tail.
 ```
-# Description
+## Description
 Within the alien beauty of the jungles of Castrovel lie untold dangers, as the planet’s wild flora and fauna vie dramatically for dominance. To maintain order and security in their settlements, Castrovel’s native lashunta required steeds with power, speed, and an instinctive knack for traversing the planet’s thick jungles. No creature met these requirements better than the shotalashu, large reptilian creatures that maintained a relatively high place in their ecosystem’s food chain and yet were strangely receptive to the lashunta’s initial friendly overtures. Once incorporated into lashunta society, the shotalashu and their riders quickly became iconic symbols of lashunta culture.
 
 Sometimes called “shota” for short, shotalashu possess rudimentary telepathic abilities similar to those of the lashunta, so taming the beasts and training them to be mounts proved relatively simple-in fact, the first shotalashu mounts surprised their lashunta riders with their enthusiasm for the partnership. Once linked, a shotalashu carries out the will of its rider effortlessly, often seeming to anticipate her desires and directions before she conveys them.
@@ -56,7 +58,7 @@ Sometimes called “shota” for short, shotalashu possess rudimentary telepathi
 While it’s common for a lashunta to switch between shotalashu throughout her life, some bonds between beast and rider deepen over time, and it is not unheard of for a warrior to bond with a single shotalashu mount for life. Lashunta whose mounts die suffer psychic trauma and often require time to recover before they can bond with another mount, and shotalashu who lose their bonded riders have been known to grieve for months, or even years. Though they might accept other riders for short periods of time, the bereaved creatures don’t seem to communicate as well until they have ceased grieving and bonded with a new rider, and might even be withdrawn and uncommunicative with other shotalashu during their grieving period.
 
 A typical shotalashu is over 10 feet long from snout to tail-tip, and weighs more than 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shotalashu)
 ```encounter-table
 name: Shotalashu

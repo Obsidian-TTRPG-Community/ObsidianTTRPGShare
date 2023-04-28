@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stringy Demodand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 84
 desc_short: This lanky, winged humanoid is covered in layers of long, ropy skin growths.
 ```
-# Description
+## Description
 Stringy demodands fulfill their duty to their titan masters as kidnappers and slave masters throughout the Abyssal realms. Stringy demodands’ agility allows them to quickly snatch up targets and prevent slave revolts before they start.
 
 The stringy demodands’ long, obsidian-colored skin growths give the abhorrent outsiders their name. These fibers resemble nothing so much as elongated skin tags the girth of a human finger and are roughly 4 feet in length. The fibrous outgrowths sprout from their heads and the tips of their wings. These ropy feelers bob and sway wildly as a stringy demodand moves, creating a truly disturbing image for those victims who glimpse back at their Abyssal pursuer.
 
 Because these rubbery strands cover most of the creatures’ bodies, they provide a measure of natural protection that allows stringy demodands to eschew armor. Stringy demodands are typically 6 feet tall and weigh 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stringy%20Demodand)
 ```encounter-table
 name: Stringy Demodand

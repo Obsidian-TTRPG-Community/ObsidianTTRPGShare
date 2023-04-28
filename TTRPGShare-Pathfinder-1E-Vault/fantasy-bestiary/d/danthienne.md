@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Danthienne
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 80
 desc_short: This bright-eyed, doll-sized woman wears jewels and silks. She has pointed ears, four-fingered hands, and a mischievous grin.
 ```
-# Description
+## Description
 Rejected from the courts of the fey realms, danthiennes- sometimes called gossip pixies-nevertheless delight in courtly intrigue. They adore the trappings of wealth and class, but lack a deeper understanding of politics, and focus most of their energy on personal entertainment and accumulating wardrobes of rich fabrics and random jewelry. These tiny fey spend their time skulking around academies, guilds, and noble courts, stealing valuables and influencing mortal minds to create drama. When they do reveal their presence, danthiennes portray themselves as wish granters, offering to make a person’s dreams come true in exchange for services and treasures. In reality, they have no special gift to grant wishes and rely on their magic, bluffs, and mundane theft to uphold their end of any bargain. Danthiennes rarely operate alone, usually enticing a desperate courtier into serving them in exchange for popularity. More rarely, they assemble lesser fey into mock courts, drafting unsuspecting mortals into their sometimes-deadly intrigues. As degenerate, urban cousins of nymphs, they have the ability to bond with mortal creatures and invest them with passion and confidence-but the bond is a deadly one, slowly draining the life force from their temporary partners and ultimately leaving them catatonic. 
 
 Danthiennes stand just 10 inches tall and weigh only a few pounds, despite their plump forms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Danthienne)
 ```encounter-table
 name: Danthienne

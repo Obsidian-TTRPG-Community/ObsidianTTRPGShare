@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mardahamman, Cyclops Tyrant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 14
 desc_short: Attired in various hides and with pauldrons made from the tusks of a mammoth, this towering, one-eyed humanoid wields an equally massive flat club.
 ```
-# Description
+## Description
 Mardatektor was born during a time of great conflict within his tribe. His father, Huratektor, was the ruling tyrant of their tribe, and had recently relocated the tribe to the Bandu Hills, where the mountainous landscape proved more easily defendable than their previous lair within the Kaava Lands. When Huratektor’s most outspoken rival-a warrior of low status by the name of Nukamman-assassinated the tyrant, he sparked a civil conf lict within the tribe that irreparably split its people into two groups, with Nukamman and his fellow dissenters fleeing further into the mountains, where he was crowned tyrant of his newly created splinter tribe. In the chaos of the conf lict, Nukamman managed to abduct baby Mardatektor, renaming him Mardahamman and raising him as his own.
 
 In the decades that followed, the rift between the Huratektor’s old tribe and Nukamman’s traitors never healed, and skirmishes broke out frequently between the two tribes. When Mardahamman came of age and brandished a greatclub for the first time, his adoptive father brought the youth with him on the final raid against their rival tribe. When Mardahamman experienced the taste of battle for this first time, unknowingly laying waste to his own people, he knew something was amiss, a notion confirmed when he confronted Nukamman about it later.
 
 Shamed by his own actions and angry at the betrayal of the tyrant he had thought to be his father, Mardahamman fled from the hills and into the Kaava Lands, not knowing that his people originally hailed from there decades earlier. In that forest, he met a small conclave of cyclops warriors who had stayed behind when Huratektor took his tribe to the Bandu Hills. Feeling that these rebels would be the closest he’d ever have to a real family again, Mardahamman joined their conclave and trained to become an expert warrior, eventually coming to lead the cyclopes of the Kaava Lands as their tyrant, all in hopes of one day exacting revenge on his treacherous adoptive father, Nukamman.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mardahamman%2C%20Cyclops%20Tyrant)
 ```encounter-table
 name: Mardahamman, Cyclops Tyrant

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Suli
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 28
 desc_short: This fine-featured humanoid wears exotic clothing and has flashing eyes; his arms are sheathed in a blaze of crackling flames.
 ```
-# Description
+## Description
 Sulis (or suli-jann) are minor offshoots of the jann that live among humans. They are tall and look like ordinary men and women but for their abnormal beauty and the occasional flash of elemental light in their eyes. Though physically superior to and more attractive than normal humans, some suli-jann remain unaware of their genie heritage until later in life, when contact with a full-blooded genie draws forth a portion of their elemental power.
 
 While all sulis can trace their lineage back to a janni ancestor, very few have an immediate janni parent. In most cases, this legacy lies fallow in the blood for generations, only to emerge decades or even centuries later. Those whose powers become apparent early on usually lead troubled lives as youths, as the question of a child’s origins tears some families apart; few of these unfortunate sulis grow up knowing anything of the peace of a happy home.
 
 Sulis age at the same rate as humans and are physically identical to humans in terms of height and weight. During their youth, sulis tend to be slightly smaller than their fully human peers, but grow quickly to their full adult height upon reaching their teenage years. Sulis are impulsive and passionate by nature, and even those sulis who know nothing of their genie blood possess a measure of personal pride.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Suli)
 ```encounter-table
 name: Suli

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Crocodile
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 51
 desc_short: This reptilian behemoth, a crocodile of monstrous proportions, is large enough to swallow a horse in one tremendous bite.
 ```
-# Description
+## Description
 The immense sarcosuchus, or dire crocodile, is an enormous predator capable of catching and eating prey as large as the largest dinosaurs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Crocodile)
 ```encounter-table
 name: Dire Crocodile

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dark Nature Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
   - name: NPC Codex
     desc: 77
 ```
-# Description
+## Description
 These dark nature priests do not nurture their home, but rather spread disease, filth, and hate throughout humanoid communities on behalf of an enraged and exploited landscape.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dark%20Nature%20Priest)
 ```encounter-table
 name: NPC Dark Nature Priest

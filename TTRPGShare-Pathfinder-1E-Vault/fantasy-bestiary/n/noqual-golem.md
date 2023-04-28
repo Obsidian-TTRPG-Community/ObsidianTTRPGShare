@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Noqual Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
     desc: 18
 desc_short: Pale green metal makes up the body of this automaton. Despite its towering size, it moves with lithe quickness.
 ```
-# Description
+## Description
 Organization solitary or pair
 Treasure noneSpecial AbilitiesConstruct Bane (Ex) A noqual golem deals an additional 2d6 points of damage against constructs (except other noqual golems) and undead created by feats or spells.
 
@@ -52,7 +54,7 @@ Spell Absorption (Su) A noqual golem absorbs any spells blocked or dispelled by 
 Spell Sunder (Su) A creature struck by a noqual golem’s slam attack is targeted by dispel magic (CL 18th). It absorbs any spells so dispelled.DescriptionThe construction of a noqual golem requires both a considerable supply of the skymetal noqual and the skill to overcome noqual’s antipathy to dweomers. The resulting golem resembles an iron golem, but is larger and more nimble. Noqual golems impede magic by their mere presence, and their touch disrupts spells and magical constructs.
 
 Nearly all noqual on Golarion lies under Numerian control. The artificers of Numeria prefer tinkering with technological constructs rather than magical ones, but nonetheless Furkas Xoud was believed to have created a noqual golem. Another is thought to serve the sorcerers of Starfall as a fail-safe should their technology prove inadequate. A cabal of cyphermages has taken advantage of the recent discovery of noqual near Riddleport to commence work on their own magic-stealing golem.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Noqual%20Golem)
 ```encounter-table
 name: Noqual Golem

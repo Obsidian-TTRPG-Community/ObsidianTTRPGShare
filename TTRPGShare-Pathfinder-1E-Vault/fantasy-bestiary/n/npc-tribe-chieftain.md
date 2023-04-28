@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tribe (Chieftain)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
   - name: GameMastery Guide
     desc: 307
 ```
-# Description
+## Description
 Chieftains lead cannibal tribes and other savage groups through raw strength, fierce cunning, and sheer force of will. A chieftain holds a mighty weapon as a symbol of his leadership and as a warning to those who would challenge him, for the blade has tasted the blood of as many rivals within the tribe as that of enemies from without.
 
 As with shamans and cannibals, chieftains can rule either proud, noble barbarian groups or bestial, degenerate cannibal tribes. A chieftain who claimed his position by virtue of his heroic deeds might have a dragon bane or magical beast bane greatsword instead of the listed weapon, while a powerful cannibal chief might wear the heavier armor and wield the foreign weapons of defeated (and consumed) foes.
@@ -47,7 +49,7 @@ As with shamans and cannibals, chieftains can rule either proud, noble barbarian
 Chieftains can also be used as simple, direct gladiators, or even as high-level guardsmen, perhaps in charge of an entire castle’s or city’s guard force. Such guard generals wear heavier armor, usually banded mail or full plate (AC 18 or 20, respectively), and might possess the Power Attack and Cleave feats instead of Endurance and Diehard.
 
 Chieftains are usually found with two raider bodyguards, a shaman, and a dozen cannibals (CR 12). A chieftain might also lead a raiding party of 10 raiders (CR 13) or nine vikings (CR 14).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tribe%20(Chieftain))
 ```encounter-table
 name: NPC Tribe (Chieftain)

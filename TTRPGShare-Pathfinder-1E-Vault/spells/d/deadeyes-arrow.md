@@ -1,19 +1,21 @@
 ---
-alias: Deadeye's Arrow
+aliases: ["Deadeye's Arrow"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Deadeye's Arrow 
+## Deadeye's Arrow
 
 **source**:: Inner Sea Gods pg. 232, Gods and Magic pg. 15  
 **school**:: evocation (electricity)
 **level**:: bloodrager 1, cleric 2, druid 1, hunter 1, inquisitor 1, magus 1, oracle 2, paladin 1, ranger 1, warpriest 2 (Erastil)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (one arrow)
 
-### Effect 
+### Effect
 
 **range**:: Medium (100 ft. + 10 ft./level) or see text  
 **effect**:: arrow of electricity  
@@ -21,7 +23,7 @@ alias: Deadeye's Arrow
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create an arrow made of crackling electricity, which you may use for one of two effects.  
   

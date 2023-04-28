@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bagman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 84
 desc_short: This pale, pudgy humanoid is clad in a greasy traveling cloak and a wide-brimmed hat. A bloodstained burlap sack hangs over its shoulder.
 ```
-# Description
+## Description
 Some monsters feed on humans, while others torture humans for their own sadistic pleasure, but few creatures go to such perverse lengths as to murder humans and then sell the processed remains back to their victims’ unwitting families. Bagmen are such monsters- degenerate fey creatures who specialize in kidnapping humanoid victims and harvesting their fat to produce potions. Bagmen disguise themselves as traveling peddlers and apothecaries, often selling the products of their depredations to the very communities from which they steal their victims. An average bagman stands 5-1/2 feet tall and weighs close to 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bagman)
 ```encounter-table
 name: Bagman

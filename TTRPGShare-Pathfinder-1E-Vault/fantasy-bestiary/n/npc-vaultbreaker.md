@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Vaultbreaker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: NPC Codex
     desc: 206
 ```
-# Description
+## Description
 Masters at breaking into treasure vaults, many arcane tricksters are more interested in the challenge of such break-ins than the riches they gain from them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Vaultbreaker)
 ```encounter-table
 name: NPC Vaultbreaker

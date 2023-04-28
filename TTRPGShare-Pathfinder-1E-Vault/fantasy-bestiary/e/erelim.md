@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Erelim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 84
 desc_short: This athletic, winged humanoid has handsome features and wields a shining lance.
 ```
-# Description
+## Description
 Erelims serve as cavalry in celestial armies, charging into battle atop steeds of pure light and inspiring allies with valiant words and deeds. These angelic knights laugh in the face of overwhelming odds and love nothing more than to face destruction without fear, even going so far as to scorn armor. Honorable and respectful, erelims obediently follow the commands of celestial generals, but sometimes their fervor for righteous battle makes them frustratingly difficult to organize or call to retreat.
 
 Erelims appear as a variety of humanoid races from the Material Plane, though usually with dark, close-cropped hair. An erelim’s wings are smaller and more elegant than those of other angels. A typical erelim stands 6 feet tall and weighs 180 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Erelim)
 ```encounter-table
 name: Erelim

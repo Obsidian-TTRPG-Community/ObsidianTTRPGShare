@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fafnheir
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,7 +77,7 @@ sources:
     desc: 56
 desc_short: The scales of this craggy serpentine dragon are scarred and blackened. Its eyes flare with nightmarish power, and its mouth drips with liquid flame.
 ```
-# Description
+## Description
 Called the Father of All Linnorms, Fafnheir is the oldest and mightiest of his kind to dwell upon Golarion-other, even more powerful linnorms exist on the First World, but on Golarion, Fafnheir is king. Crafty and powerful, Fafnheir is more than just a creature of rage or hunger, and is sometimes known to speak with those who come to him as supplicants for his wisdom. Tales say that to gain Fafnheir’s advice, one must travel through Grungir Forest to the cavern entrance of the linnorm’s lair, whereupon the supplicant must call into the opening several secret names for the ancient linnorm. A single step into the lair renders the supplication moot, for Fafnheir does not suffer intrusions. It is customary to bring a herd of sheep, oxen, or several thralls for him to feast upon.
 
 Those who find Fafnheir in a talkative mood and live to tell the tale report that the linnorm is well versed in numerous fields, and capable of working a wide range of magic through wishcrafting, though how much of his bragging is true is debatable. Fafnheir claims to have been the first linnorm to cross to Golarion from the First World after slaying three of that realm’s Eldest, as well as to remember a time when the dragon god Dahak came to this world, and to have taken part in ancient battles against humanity as an ally of the serpentfolk. Certain Thassilonian accounts give support to his claim of providing advice and aid at times to Runelord Xanderghul, and he endured the Age of Darkness with ease. The past few thousand years have passed in the blink of an eye for the ancient linnorm, and he expects to survive for thousands more.
@@ -83,7 +85,7 @@ Those who find Fafnheir in a talkative mood and live to tell the tale report tha
 Fafnheir is aware of the prophecy that the hero who kills him will become king of all Ulfen. The linnorm also knows that in death he will be reborn from the burnt flesh of his slayer, and suggests to those who raise this topic with him that only by becoming him can such a Linnorm King rule. While Fafnheir has seen many challengers, few have offered him a true battle.
 
 Fafnheir spends much of his time slumbering, but wakes quickly at the slightest deviation in the patterns of the world around him, and his dreaming mind touches the woods above and the blood of his children. Those who would come upon him unawares should not expect success unless they travel into his lair from other worlds, for his attunement to Grungir Forest is uncanny. The linnorm rarely ventures far from his lair, preferring to lure his enemies close and dispatch them on familiar ground. He loves nothing but his treasure, and cannot be bribed or threatened-the lure of potential treasure does not excite him nearly as much as what he already possesses. He is a subtle combatant, preferring to use trickery before launching into melee. Unlike his lesser kin, Fafnheir has a number of potent, if limited, spell-like abilities, and he often uses his limited wishes to great effect. He has long experience with direct confrontation, and his millennia of action have taught him tricks that few remember. He is one of the most deadly creatures in the Inner Sea region, and even the mightiest dragons fear his power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fafnheir)
 ```encounter-table
 name: Fafnheir

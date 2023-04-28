@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rawhead
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 241
 desc_short: This slim figure’s proportions are wrong, and its disturbingly long arms end in claws, save for an oversized, boneless index finger.
 ```
-# Description
+## Description
 Some believe rawheads to be nothing more than figments from scary stories, typically associated with the childhood terror known as bloody bones (see page 49). But others know rawheads to be all too real and live in fear of attracting their attention. 
 
 A rawhead stands almost 7 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rawhead)
 ```encounter-table
 name: Rawhead

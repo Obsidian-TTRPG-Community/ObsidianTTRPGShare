@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Annis Hag Alter Ego
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 4
 desc_short: This stringy-haired hag stands as tall as an ogre. Her expression is vacant, as though her warty face were merely a mask.
 ```
-# Description
+## Description
 An alter ego arises when a sliver of a creature’s personality breaks free and coalesces into an independent being. An alter ego is almost always formed by accident rather than by design, and usually comes into being during a moment of trauma, disorientation, or sudden incapacitation. In many cases, the progenitor isn’t aware that the alter ego was created, particularly if the new creature hides or flees rather than confronting its progenitor immediately. 
 
 An alter ego’s body is made not of flesh and blood, but of solidified ectoplasm that looks, smells, and feels like its progenitor’s body. Because ectoplasm is less dense than bone or carapace, an alter ego weighs less and is more nimble than its progenitor. Although an alter ego appears similar to its progenitor, it speaks in a flat monotone and its eyes stare blankly out of a numb, expressionless face. 
@@ -76,7 +78,7 @@ Certain psychic or magic items (such as a mirror of opposition) can create a cop
 An alter ego is an artificial creature. It has no need to breathe, eat, or sleep, and rarely takes the time to do so unless it is actively masquerading as a living creature. 
 
 It is identical in size to its progenitor, but weighs only two-thirds as much.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Annis%20Hag%20Alter%20Ego)
 ```encounter-table
 name: Annis Hag Alter Ego

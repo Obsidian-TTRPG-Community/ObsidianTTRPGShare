@@ -1,19 +1,21 @@
 ---
-alias: Vengeful Comets
+aliases: [Vengeful Comets]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Vengeful Comets 
+## Vengeful Comets
 
 **source**:: Inner Sea Magic pg. 62  
 **school**:: evocation (cold)
 **level**:: arcanist 3, druid 3, hunter 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 1 comet per 4 levels  
@@ -21,7 +23,7 @@ alias: Vengeful Comets
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell causes a number of miniature comets (up to one per four caster levels) to orbit in the air above your head. Bits of snow and cold wind drift down from the orbiting comets, granting you a circumstance bonus equal to the number of comets on all saving throws against fire effects.  
   

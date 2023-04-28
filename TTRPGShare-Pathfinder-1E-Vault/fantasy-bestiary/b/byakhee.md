@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Byakhee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 82
 desc_short: This nauseating winged creature combines the features of a carrion bird, an ant, a bat, and a decomposing human in a most hideous manner.
 ```
-# Description
+## Description
 Byakhees are a race of interstellar aberrations that hail from the distant and alien city of Carcosa, where they serve Hastur. Vaguely humanoid in shape, their bodies combine elements of the forms of carrion birds, insects, and mammals, giving an outward appearance that, while horrific, might at first glance seem possible in the natural world. Yet, those who have studied dead byakhees know this to be a lie, for the creatures’ bodies hold bizarre organs and masses of unknown tissue that seem to serve no purpose; the further into a byakhee’s body one explores, the stranger its entrails become. The fact that portions of its body appear to be decaying or rotting away even as it lives only adds to the mystery of the creature’s peculiar anatomy.
 
 A byakhee is 6 feet tall and weighs 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Byakhee)
 ```encounter-table
 name: Byakhee

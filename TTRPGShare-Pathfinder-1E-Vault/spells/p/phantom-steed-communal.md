@@ -1,19 +1,21 @@
 ---
-alias: Phantom Steed, Communal
+aliases: [Phantom Steed, Communal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantom Steed, Communal 
+## Phantom Steed, Communal
 
 **source**:: Ultimate Combat pg. 239  
 **school**:: conjuration (creation)
 **level**:: arcanist 4, bard 4, occultist 4, skald 4, sorcerer 4, spiritualist 4, summoner 3, summoner (unchained) 3, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: up to six quasi-real, horselike creatures  
@@ -21,6 +23,6 @@ alias: Phantom Steed, Communal
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *phantom steed*, except you can summon up to six steeds, and you divide the duration in 1-hour intervals among the steeds summoned.

@@ -1,19 +1,21 @@
 ---
-alias: Modify Memory
+aliases: [Modify Memory]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Modify Memory 
+## Modify Memory
 
 **source**:: PRPG Core Rulebook pg. 315  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: bard 4, medium 4, mesmerist 4, psychic 5, skald 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round; see text  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Modify Memory
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You reach into the subject's mind and modify as many as 5 minutes of its memories in one of the following ways.
 
@@ -34,7 +36,7 @@ Casting the spell takes 1 round. If the subject fails to save, you proceed with 
   
 A modified memory does not necessarily affect the subject's actions, particularly if it contradicts the creature's natural inclinations. An illogical modified memory is dismissed by the creature as a bad dream, too much wine, or another similar excuse.
 
-## Mythic Modify Memory 
+## Mythic Modify Memory
 
 **source**:: Mythic Adventures pg. 102  
 You can modify an additional 5 minutes of the subject’s memory per tier. You may affect multiple memories with one casting of the spell, as long as the total number of minutes doesn’t exceed this limit. Each affected memory counts as a minimum of 5 minutes. For example, you could implant a memory of having a brief meeting with the mayor before lunch and another brief meeting just after dinner, even though the two events would have been hours apart.  

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Phantom Armor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 84
 desc_short: This suit of armor moves with a warrior’s deadly skill despite obviously being empty.
 ```
-# Description
+## Description
 Arising from the armored remains of towering humanoids, these suits are particularly fearsome, though slower than guardian phantom armors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Phantom%20Armor)
 ```encounter-table
 name: Giant Phantom Armor

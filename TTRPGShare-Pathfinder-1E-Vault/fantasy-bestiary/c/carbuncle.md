@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Carbuncle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 76
 desc_short: This small, awkward reptile with a fist-sized gem jutting from between its two bulging eyes seems both surprised and perplexed.
 ```
-# Description
+## Description
 Never have legend and misinformation met upon a more inauspicious brow than that of the lowly carbuncle. Even the creature’s name summons ideas that range from the grandiose to the grotesque. Carbuncles appear to be little more than ungainly reptiles. What sets them apart, however, is their strange magical abilities and the fist-sized gemstone horn jutting from above their bulging eyes. Although tales differ regarding the type and value of the stone, many claim it is a ruby or garnet. In truth, however, a carbuncle’s gem is merely a highly reflective growth, not unlike a fingernail.
 
 Carbuncles exhibit a peculiar attraction to magic-users, especially sorcerers with the fey bloodline and any who pack supplies of fresh fruit. Many enchanters laud the extraordinary mind-control powers of these intense creatures and extol the aid they can offer mages of their field-though others consider such tales something of an academic in-joke.
 
 A neutral spellcaster with the Improved Familiar feat can gain a carbuncle as a familiar at 5th level.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Carbuncle)
 ```encounter-table
 name: Carbuncle

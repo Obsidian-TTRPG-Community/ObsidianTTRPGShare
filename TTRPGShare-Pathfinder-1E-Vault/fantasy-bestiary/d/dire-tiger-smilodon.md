@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Tiger (Smilodon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,7 +47,7 @@ sources:
     desc: 265
 desc_short: This large tiger grumbles a warning as it crouches. Two saber-like fangs jut downward from its powerful jaws.
 ```
-# Description
+## Description
 Tigers stand more than 3 feet tall at the shoulder and are about 9 feet long. They weigh from 400 to 600 pounds.
 
 Tigers are usually the top animal predators in their territories, and have been known to kill bears, crocodiles, giant snakes, wolves, and even other great cats. Even humanoids are far from safe, especially in cases where a tiger has developed a taste for humanoid flesh. Tigers prefer terrain with plenty of cover and proximity to water as their hunting grounds.
@@ -53,7 +55,7 @@ Tigers are usually the top animal predators in their territories, and have been 
 While the tiger itself is a fearsome predator, its strength and ferocity pales in comparison to that of the larger dire tiger. Known to many scholars as the smilodon and to tribal societies as the saber-toothed tiger, the dire tiger is invariably one of the region’s top predators. Its defining feature is a pair of huge incisors that hang down like fearsome knives from the upper jaw, protruding menacingly even when the creature’s mouth is shut.
 
 These immense hunting cats grow to be over 12 feet long and can weigh up to 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Tiger%20(Smilodon))
 ```encounter-table
 name: Dire Tiger (Smilodon)

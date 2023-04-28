@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Daitengu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 79
 desc_short: This winged, humanoid ascetic’s face is bright red and boasts a prodigiously long nose.
 ```
-# Description
+## Description
 Legendary tricksters and teachers, fonts of serenity and masters of destruction, daitengus live far from civilization, where they spend most of their time in meditation. Some say the first daitengus arose from the spirits of tengus who didn’t deserve punishment in the afterlife, but who also saw no appeal in the afterlife’s rewards. 
 
 A daitengu stands 6 feet tall and weighs 150 pounds. Daitengus’ most prominent features include bright red skin, crow-like wings, and prodigious noses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Daitengu)
 ```encounter-table
 name: Daitengu

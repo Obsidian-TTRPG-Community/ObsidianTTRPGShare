@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sangoi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 88
 desc_short: Dressed in tattered finery and an animal for a cloak, this small, gaunt humanoid has unnaturally long fingers and nails.
 ```
-# Description
+## Description
 Sometimes mistaken for vampires, sangois are evil nocturnal fey that haunt towns and graveyards, feeding on blood and hunting by the sounds of victims’ hearts. They prefer humanoid blood but settle for animal blood when hungry.
 
  Sangoi stand 4 feet tall and weigh 35 to 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sangoi)
 ```encounter-table
 name: Sangoi

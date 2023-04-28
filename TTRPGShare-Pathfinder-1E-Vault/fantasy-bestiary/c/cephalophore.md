@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cephalophore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 82
 desc_short: Holding its own severed head in its hands, this tall marble statue looms stern and forbidding over its domain.
 ```
-# Description
+## Description
 These construct guardians appear to be looming statues of decapitated humanoids, their severed heads held aloft in a gruesome warning or cradled in their hands like a precious prize. To benign passersby, these marble constructs remain inert, their stone gazes producing only an unnerving sense of watchfulness. However, those who attempt to raid or desecrate a cephalophore’s holy site quickly find that the seemingly immovable statue is anything but. Consequently, many adventurers and tomb raiders have come to see cephalophores as good omens, for when one finds a cephalophore, a dangerous and treasure-filled ruin-hopefully still unlooted-is surely not far away.
 
 Each cephalophore was constructed to stand guard over a single location, typically a tomb or temple. The ravages of time do little to diminish the single-minded dedication of these creatures, but the sacred edifices to which they are bound seldom stand so firmly against the ages. Thus, cephalophores are often found amid ruins or deep in the wilderness, standing vigilant guard over a site long forgotten by mortal society. Many cephalophores lie buried beneath sandy dunes, overgrown by unchecked jungle foliage, or entombed within collapsed caverns.
 
 A typical cephalophore stands 10 to 15 feet tall and weighs 4,000 pounds. Cephalophores are made of solid marble, which makes attacking them with standard weaponry inefficient at best.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cephalophore)
 ```encounter-table
 name: Cephalophore

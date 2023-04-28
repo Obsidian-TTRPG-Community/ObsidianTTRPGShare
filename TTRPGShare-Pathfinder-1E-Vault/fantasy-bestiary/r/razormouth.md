@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Razormouth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 256
 desc_short: This creature has a hairless body and a black-striped abdomen. It prominently displays a pair of large, serrated, bright red fangs.
 ```
-# Description
+## Description
 Razormouths most often reside in mountainous areas or large canyons with steep cliffs. While most creatures would find such areas difficult to traverse, razormouths are especially mobile, being choice climbers that are able to leap from cliff faces to outcrops with singular alacrity. This exceptional mobility, along with a devastating pair of long, serrated fangs, make the fearsome razormouths unparalleled hunters, and few survive getting too close to their fangs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Razormouth)
 ```encounter-table
 name: Razormouth

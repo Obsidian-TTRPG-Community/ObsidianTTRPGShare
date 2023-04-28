@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dottari Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 122
 desc_short: A column of soldiers clad in the black and red of House Thrune move together, their weapons at the ready in a coordinated front.
 ```
-# Description
+## Description
 House Thrune and the Church of Asmodeus can mobilize special groups of dottari and inquisitors known as troops. Typically, a troop is placed under the command of a captain or priest who does not function as part of the troop.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dottari%20Troop)
 ```encounter-table
 name: Dottari Troop

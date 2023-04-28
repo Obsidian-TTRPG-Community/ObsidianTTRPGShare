@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lizardfolk Clutch Mother
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
   - name: Monster Codex
     desc: 147
 ```
-# Description
+## Description
 The clutch mother seeks only to protect her ways and her kind. She faces the onslaught of civilization with diplomacy, reason, and patience.
 
 While other races might see guarding the children as a waste of one’s best warriors, lizardfolk inherently value defense over offense. They think warm-blooded races are insane for sending all their capable combatants off to fight in distant wars, leaving only the aged and infirm to protect the children. Clutch mother (or occasionally clutch father) is a position of prominence and prestige, and many lizardfolk warriors compete eagerly to prove themselves worthy of this great responsibility.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lizardfolk%20Clutch%20Mother)
 ```encounter-table
 name: Lizardfolk Clutch Mother

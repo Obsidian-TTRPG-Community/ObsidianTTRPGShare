@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Arbiter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 162
 desc_short: A sphere of bronze and copper set with a single eye, this winged creature has two clawed hands, one of which clutches a knife.
 ```
-# Description
+## Description
 Stealthy, observant, and frequently persuasive, arbiter inevitables are the scouts and diplomats of the inevitable race. Found throughout the multiverse in courts and on battlefields, arbiters keep a close eye on the forces of chaos and do their best to keep the lawful from straying, while simultaneously winning over the hearts and minds of those who might yet be saved. Though their assorted abilities make them extremely useful, arbiters see themselves less as servants than as advisers and counselors, preferring to ride around on their summoners’ shoulders and help guide their “partners” on the path of law. They detest being summoned by chaotic individuals, and when teamed with such a creature, they aren’t above using Diplomacy to try to influence the summoner’s friends or refusing to undertake actions that seem contrary to their programming.
 
 An arbiter who comes across evidence of a significant insurgence of chaos upon a given plane does everything in its power to rally its allies against the dangerous instability, and in situations that are clearly beyond its ability to handle, it may refuse to continue onward until the group agrees to help it reach the nearest greater inevitable and make a full report, or else may travel to Utopia itself and present its urgent information in person.
@@ -72,7 +74,7 @@ An arbiter who comes across evidence of a significant insurgence of chaos upon a
 Arbiters typically bear the shapes of tiny clockwork spheres with shiny metal wings. Generally peaceful unless combating true creatures of chaos, arbiters prefer to cast protection from chaos on their allies and use command to make opponents drop their weapons and run. Their most powerful weapon, the ability to release their internal energy as a deadly burst, is reserved for dire need and battles of the utmost service to law, as the resulting period of darkness while they’re powered down is the only thing that seems to truly scare the tiny automatons.
 
 An arbiter inevitable can serve a spellcaster as a familiar. Such a spellcaster must be lawful neutral, must be at least caster level 7th, and must have the Improved Familiar feat. Arbiter inevitables measure 1 foot in diameter but are surprisingly heavy, weighing 60 pounds. Their ability to fly on metal wings is as much a supernatural ability as a physical one.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Arbiter)
 ```encounter-table
 name: Arbiter

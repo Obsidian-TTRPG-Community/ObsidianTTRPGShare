@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Faceless Hulk (Ugoroth)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 84
 desc_short: This hairless, leathery giant has no discernible features aside from unsettling whorls across its skin and grotesque, slurping tongues where its face should be.
 ```
-# Description
+## Description
 Ugoroths are monstrous, sadistic beings created by aboleths in their long war against the surface world. Alongside their smaller cousins, the faceless stalkers (Pathfinder RPG Bestiary 2 122), they work to destabilize surface-dwelling civilizations from within. During the war, the destruction of the aboleth city Voshgurvaghol left them leaderless and without direction. Though they have long forgotten the beings that created them, faceless hulks continue their original mission, driven only by a hatred for humanity that was molded into their very bodies. Some believe that ugoroths still serve their veiled masters, even without their own knowledge.
 
 Faceless hulks range in height from 10 to 14 feet and weigh anywhere from 1,200 to 1,700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Faceless%20Hulk%20(Ugoroth))
 ```encounter-table
 name: Faceless Hulk (Ugoroth)

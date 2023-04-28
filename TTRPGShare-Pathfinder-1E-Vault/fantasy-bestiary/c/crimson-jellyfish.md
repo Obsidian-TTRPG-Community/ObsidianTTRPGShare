@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crimson Jellyfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 169
 desc_short: This bright-red jellyfish dangles a long, central tentacle surrounded by a multitude of shorter red tendrils.
 ```
-# Description
+## Description
 The crimson jellyfish is a blooddrinking creature whose red color comes from the blood absorbed throughout its body after it feeds. A large fish or sea mammal encountering a pack or bloom of these creatures can be drained of blood in a matter of minutes. Fortunately, a crimson jellyfish’s bright color makes it fairly easy to avoid under well-lit conditions
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crimson%20Jellyfish)
 ```encounter-table
 name: Crimson Jellyfish

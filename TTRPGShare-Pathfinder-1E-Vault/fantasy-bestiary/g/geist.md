@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Geist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 124
 desc_short: This disembodied phantom wears black robes that swirl around a maw of sharp teeth.
 ```
-# Description
+## Description
 A geist is formed when an exceptionally evil humanoid is killed by a haunt and proves too tenacious to submit to death’s call.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Geist)
 ```encounter-table
 name: Geist

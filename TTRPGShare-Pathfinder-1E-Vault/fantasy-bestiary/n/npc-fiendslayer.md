@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fiendslayer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: NPC Codex
     desc: 136
 ```
-# Description
+## Description
 The fiendslayer’s ultimate goal is to rid the mortal world of evil outsiders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fiendslayer)
 ```encounter-table
 name: NPC Fiendslayer

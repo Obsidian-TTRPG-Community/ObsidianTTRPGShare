@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Juvenile White Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: Mythic Adventures
     desc: 192
 ```
-# Description
+## Description
 A mythic white dragon’s powers over ice and snow make it a perfect predator for its environment. Its hunger is barely kept in check by its human-level intelligence. It is fond of crashing into enemies and knocking them into ravines so they can be found and eaten later.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Juvenile%20White%20Dragon)
 ```encounter-table
 name: Mythic Juvenile White Dragon

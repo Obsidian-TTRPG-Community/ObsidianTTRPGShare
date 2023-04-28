@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Feargaunt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 28
 desc_short: This hulking shadow exudes a palpable menace, its form twisting into the shapes of hooks, grasping hands, and writhing tentacles.
 ```
-# Description
+## Description
 Certain vivid nightmares endure beyond the sleeper’s awakening, drawing substance from planar flotsam and deriving purpose from their creators’ deepest fears. Shifting their form from moment to moment, these malicious creatures range the Dimension of Dreams, ambushing prey with soul-weakening strikes. Their presence turns dream elements that might otherwise be only frightening into agonizing experiences that can kill their victims. Feargaunts often allow victims to believe they have escaped, only to attack anew from an unexpected direction. The Dimension of Dreams is their home territory, and a feargaunt uses its knowledge of this realm to ensure that no matter how fast or how far victims flee, they can never truly leave the feargaunt behind.
 
 Anywhere a feargaunt steps takes on a darker, more frightening cast. Shadows become impenetrable hiding places for things that lurk out of sight, familiar locations take on ominous twists that lead those who thought they knew their way astray, and comforting faces become masks for monstrous, sadistic enemies. The terror the feargaunt inspires eats away at the mental stability of its victims, ensuring that they can’t navigate dreamscapes without tripping themselves up and letting their own imaginations hamper them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Feargaunt)
 ```encounter-table
 name: Feargaunt

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shocker Lizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 248
 desc_short: This dog-sized lizard has two horns, one on either side of its head, and green scales that crackle with sparks of lightning.
 ```
-# Description
+## Description
 A shocker lizard has a pale yellow underside, with bright green scales elsewhere on its 3-foot-long body, and weighs about 25 pounds. Shocker lizards tend toward group living, as their electrical abilities grow in power when they are close to another lizard.
 
 A shocker lizard colony is usually located near a source of water. Once the colony has settled on a location, the lizards become very territorial and attack anything that intrudes on them. A solitary shocker lizard is a timid and hesitant creature-but when several of them gather they become formidable and fearsome opponents capable of killing creatures several times their own size.
@@ -57,7 +59,7 @@ A shocker lizard colony is usually located near a source of water. Once the colo
 A shocker lizard relies on its electricity abilities in combat, and a lizard tends to bite only after its shock has rendered an opponent unconscious, or when the shock seems to have no effect at all. A solitary lizard flees once it delivers its shocks, but if other shocker lizards are nearby, they all hone in on their comrade’s discharges and attempt to administer lethal shocks to their foe.
 
 Many have attempted to capture and tame shocker lizards, but this often proves a difficult and painful task. Alone and in captivity, shocker lizards tend to wither and die swiftly unless their keepers spend a lot of time grooming and playing with the lizards to keep them company. Kept in pairs or larger numbers, captive shocker lizards thrive, but their increasing electrical ability makes them more difficult to manage for keepers who aren’t themselves immune to electricity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shocker%20Lizard)
 ```encounter-table
 name: Shocker Lizard

@@ -1,19 +1,21 @@
 ---
-alias: Curse of Night
+aliases: [Curse of Night]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Curse of Night 
+## Curse of Night
 
 **source**:: Horror Adventures pg. 114  
 **school**:: evocation (curse, darkness)
 **level**:: arcanist 8, cleric 8, druid 8, oracle 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (jet gemstones worth a total of 10,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 1-mile radius emanating from touched point)  
@@ -21,11 +23,11 @@ alias: Curse of Night
 **saving-throw**:: none (see curse text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 By touching the ground, you curse an area to remain in bleak darkness, as the endless night curse (see page 143). The focus merges into the cursed area as part of the spell and can only be retrieved if the curse is lifted.
 
-## Endless Night 
+## Endless Night
 
 **Type** regional curse
 **area**:: 1-mile-radius emanation

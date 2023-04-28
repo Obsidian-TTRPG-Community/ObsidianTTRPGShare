@@ -1,25 +1,27 @@
 ---
-alias: Spawn Ward
+aliases: [Spawn Ward]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Spawn Ward 
+## Spawn Ward
 
 **source**:: Advanced Race Guide pg. 101  
 **school**:: necromancy
 **level**:: cleric 5, inquisitor 5, oracle 5, warpriest 5 (dhampir)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
 **duration**:: 10 minutes/level
 
-### Description 
+### Description
 
 The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect.  
   

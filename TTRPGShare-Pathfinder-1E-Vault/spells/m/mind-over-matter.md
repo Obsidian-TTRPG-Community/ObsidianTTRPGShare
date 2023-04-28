@@ -1,19 +1,21 @@
 ---
-alias: Mind Over Matter
+aliases: [Mind Over Matter]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mind Over Matter 
+## Mind Over Matter
 
 **source**:: Occult Origins pg. 30  
 **school**:: necromancy
 **level**:: mesmerist 2, psychic 2, spiritualist 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mind Over Matter
 **saving-throw**:: Fort negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You blur the lines between mind and body, reassigning ability damage or drain your target has taken to a corresponding ability score, as per the following table.  
   

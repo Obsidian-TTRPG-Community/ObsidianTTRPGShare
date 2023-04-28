@@ -1,19 +1,21 @@
 ---
-alias: Healing Token
+aliases: [Healing Token]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Healing Token 
+## Healing Token
 
 **source**:: Healer's Handbook pg. 9  
 **school**:: conjuration (healing)
 **level**:: cleric 2, druid 2, hunter 2, inquisitor 2, oracle 2, paladin 2, ranger 2, shaman 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one touched holy symbol per 3 caster levels  
@@ -21,7 +23,7 @@ alias: Healing Token
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You imbue one touched holy symbol per 3 caster levels with a connection to your own divine power, turning the touched holy symbols into tokens of healing. Each of the targeted holy symbols can represent any deity regardless of the deity’s actual alignment.  
   

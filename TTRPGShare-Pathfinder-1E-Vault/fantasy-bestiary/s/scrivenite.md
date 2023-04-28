@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scrivenite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,13 +72,13 @@ sources:
     desc: 86
 desc_short: This humanoid-shaped figure of folded paper and silken ribbons hovers gently in the air. It wears the open cover of some great tome like a metal- and leather-bound mask.
 ```
-# Description
+## Description
 Hailing from Axis, scrivenites act as the historians, cartographers, and archivists of the multiverse. They are literally woven together from knowledge, and every scrivenite contains a deep need to record anything and everything around it in excruciating detail. Terse and introverted in the extreme, scrivenites eschew the frippery of emotion and poetic license in order to preserve objectivity, and they detest the bias and constant revisions applied by fickle mortal minds to stated history. Most scrivenites refuse to see the big picture, and instead focus on minute details, only later collecting the individual facts in their vast libraries. They rarely measure the human suffering or triumph in any particular event. To them, the what, when, and where is more important than the who and why. By scrivenites’ estimation, weather can have as much impact on a nation’s ultimate fate as its leader, so both factors must be given equal merit.
 
 Simply existing around information feeds and empowers a scrivenite; they take in the written word as effortlessly as a human breathes. Their understanding of memory and knowledge is so intuitive that scrivenites can extract whatever information they please from the minds of living creatures, binding these facts into elegant tomes unique to each “contributor.”
 
 Scrivenites can manifest as large, sturdily bound books. Perusing their pages reveals swirling, ethereal wisps of text covering their forms. When active, they craft humanlike bodies from their own folded pages and can use their silken bookmarks as weapons. Scrivenites wear the open covers of their tomes as expressive masks. Though their sizes can vary greatly, most scrivenites stand taller than a halfling, but shorter than a human. Though they are made of pages upon pages of dense paperlike material, they weigh less than 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scrivenite)
 ```encounter-table
 name: Scrivenite

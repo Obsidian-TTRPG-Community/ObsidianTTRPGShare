@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mercenary (Caravan Guard)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,13 +41,13 @@ sources:
   - name: GameMastery Guide
     desc: 282
 ```
-# Description
+## Description
 Caravan guards are sturdy veterans with an eye for troublemakers. Often surly and pugnacious, they ride alongside pack and wagon trains with crossbows at the ready, but if real danger threatens most are more comfortable fighting with their boots safely on the ground and sword and shield in hand.
 
 Caravan guards can serve as scouts, messengers, or outriders. Replacing a caravan guard’s Alertness and Animal Affinity feats with Mounted Combat and Mounted Archery makes him more adept at fighting from horseback. Replacing Rapid Reload with Ride-By Attack or Trample, coupled with the Mounted Combat feats, creates a low-level nomadic horse warrior. For better flavor, exchange his longsword and heavy crossbow for a scimitar and composite shortbow.
 
 Two slavers might use four caravan guards to watch their chattel (CR 7), while a squad of six caravan guards might accompany a highwayman (CR 8), or guard a group of six vagabonds (CR 8) or five pilgrims (CR 9). A troop of eight caravan guards is usually led by a sellsword (CR 9), or a traveling merchant or merchant prince can hire eight caravan guards to guard his caravan (CR 8 or 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mercenary%20(Caravan%20Guard))
 ```encounter-table
 name: NPC Mercenary (Caravan Guard)

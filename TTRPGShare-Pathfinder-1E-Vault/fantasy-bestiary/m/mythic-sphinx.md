@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Sphinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 217
 desc_short: This woman has the upper body of a human queen, the lower body of a lion, a snake-headed tail, and great eagle wings.
 ```
-# Description
+## Description
 A mythic sphinx is often given a task by a deity, such as watching over a city, testing a great mortal hero, or guarding an artifact. She is gifted with magic to compel obedience and curse those who would defy her commands or interfere with her task.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Sphinx)
 ```encounter-table
 name: Mythic Sphinx

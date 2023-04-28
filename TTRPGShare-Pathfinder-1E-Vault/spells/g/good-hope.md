@@ -1,19 +1,21 @@
 ---
-alias: Good Hope
+aliases: [Good Hope]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Good Hope 
+## Good Hope
 
 **source**:: PRPG Core Rulebook pg. 291  
 **school**:: enchantment (compulsion) (emotion, mind-affecting)
 **level**:: bard 3, skald 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one living creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Good Hope
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.  
   

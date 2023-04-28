@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Grogrisant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,7 +65,7 @@ sources:
     desc: 59
 desc_short: This golden lion towers over the trees, its six eyes watching every shadow and its mane shining like the sun.
 ```
-# Description
+## Description
 Tales of Taldor’s earliest founding speak of a terrible beast-a gigantic six-eyed lion whose mane burned like the sun and whose footsteps shook the earth-that laid waste to the desperate city-states of the region, feeding on their livestock and plundering their wealth to line its den. Called the grogrisant, it terrorized the region for centuries until First Emperor Taldaris finally slew the terrible beast.
 
  Sometimes called the Imperial Beast, the grogrisant has reappeared occasionally throughout Taldor’s history, always in times of great peril and always to eventually be slain by a hero of the people-but only after slaughtering many more who would lay claim to that title. No one is certain if the grogrisant is part of a rare race of mythical leonine beasts that hide within the World’s Edge Mountains or if it is simply a lone beast that refuses to die; mythic magic conceals its tracks and hides it from divinations, leaving its life and lair a mystery.
@@ -71,7 +73,7 @@ Tales of Taldor’s earliest founding speak of a terrible beast-a gigantic six-e
  The grogrisant’s pelt amplifies sunlight, creating a deadly blaze of light that burns out the eyes of those nearby and renders the beast nothing but a barely perceptible shimmer to distant creatures. Taldan folklore insists the beast’s blood can cure any disease.
 
  The grogrisant stands 18 feet tall at the shoulder and weighs 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Grogrisant)
 ```encounter-table
 name: Mythic Grogrisant

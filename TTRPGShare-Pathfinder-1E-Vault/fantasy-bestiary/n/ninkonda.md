@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ninkonda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 86
 desc_short: This golden-winged humanoid wears sturdy armor, including a crowned helm with a blank faceplate and a gleaming mirror on their broad chest. Large metal spikes pierce the creature’s arms, hands, and shoulders.
 ```
-# Description
+## Description
 Ninkondas, or “nail angels,” are stoic, remorseless hunters of the celestial planes. At a distance, a ninkonda appears to be a winged knight wearing full plate armor. Up close, the creatures present a more intimidating and bizarre appearance: dozens of iron spikes impale their arms, shoulders, and hands, and the faceplates of their helms are smooth and featureless. Ninkondas hunt once-honorable mortals who have committed heinous sins, such as treason against good nations or betrayal of celestial confidences. Ninkondas don’t slay their quarry; instead they wordlessly encourage redemption by reflecting the creature’s soul in the mirror inset in the angels’ broad chests.
 
 Ninkondas stand 12 feet tall with wingspans of just over 25 feet. They weigh about 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ninkonda)
 ```encounter-table
 name: Ninkonda

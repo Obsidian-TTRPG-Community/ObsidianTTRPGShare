@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Scarred Wanderer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 25
 ```
-# Description
+## Description
 These barbarians are always scarred in some way, and wander the land in order to accomplish great deeds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Scarred%20Wanderer)
 ```encounter-table
 name: NPC Scarred Wanderer

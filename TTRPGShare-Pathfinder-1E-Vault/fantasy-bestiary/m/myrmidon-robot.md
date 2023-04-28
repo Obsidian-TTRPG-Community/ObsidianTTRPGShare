@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Myrmidon Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 45
 desc_short: This metallic creature has pincer-tipped arms, a single red eye, and an array of deadly armaments.
 ```
-# Description
+## Description
 Myrmidons are highly mobile robots programmed to patrol the skies above important locations. They react with swift violence, interpret anomalous sensory input as proof of hostile intent and rain destruction on the offending target immediately and without mercy. Most have been programmed to communicate, but they rarely hesitate in their carnage to do so.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Myrmidon%20Robot)
 ```encounter-table
 name: Myrmidon Robot

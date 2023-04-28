@@ -1,19 +1,21 @@
 ---
-alias: Mythic Fireball
+aliases: [Mythic Fireball]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fireball
+## Mythic Fireball
 
 **source**:: Mythic Adventures pg. 94  
 **school**:: evocation (fire)
 **level**:: arcanist 3, bloodrager 3, magus 3, occultist 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a ball of bat guano and sulfur)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Mythic Fireball
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A *fireball* spell generates a searing explosion of flame that detonates with a low roar and deals 1d6 points of fire damage per caster level (maximum 10d6) to every creature within the area. Unattended objects also take this damage. The explosion creates almost no pressure.  
   

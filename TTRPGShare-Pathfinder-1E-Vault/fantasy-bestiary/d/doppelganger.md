@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Doppelganger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 89
 desc_short: This grayish humanoid creature seems almost unfinished, with a narrow head, gaunt limbs, and a sinister, noseless face.
 ```
-# Description
+## Description
 Doppelgangers are strange beings that can take on the shapes of those they encounter. In its natural form, the creature looks more or less humanoid, but slender and frail, with gangly limbs and half-formed facial features. Its flesh is pale and hairless, and its eyes are vacant and white.
 
 Doppelgangers prefer infiltrating societies where they can gather wealth and influence, and see little point in forming cities of their own kind. Younger doppelgangers practice their skills by taking over small orc or goblin tribes, then move to more complicated societies like dwarven, elven, and human communities. Rather than making themselves targets by taking positions of leadership, they prefer to be the power behind the throne, or use multiple identities to manipulate influential citizens or entire guilds.
@@ -64,7 +66,7 @@ Doppelgangers prefer infiltrating societies where they can gather wealth and inf
 Doppelgangers make excellent use of their natural mimicry to stage ambushes, bait traps, and infiltrate humanoid society. Although not usually evil, they are interested only in themselves and regard all others as playthings to be manipulated and deceived. They are particularly fond of invading human societies in order to indulge in their desires-some enjoy the complex dance of politics while others seek constant change in the race and gender of both themselves and their romantic companions. While not standard, it is those doppelgangers use their gifts for cruel and sadistic purposes that are most notorious, and these shapeshifters are the primary cause of the race’s sinister reputation. Certainly, a creature capable of changing its shape has a handy way to avoid capture for its crimes, and some particularly malicious doppelgangers enjoy disrupting relationships by posing as unfaithful lovers.
 
 Rumors persist of even more powerful doppelgangers capable of not only shifting their appearance, but also skills, memories, and even the extraordinary and supernatural abilities of creatures whose forms they choose to mimic. These doppelgangers’ change shape ability functions like the spell polymorph rather than alter self.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Doppelganger)
 ```encounter-table
 name: Doppelganger

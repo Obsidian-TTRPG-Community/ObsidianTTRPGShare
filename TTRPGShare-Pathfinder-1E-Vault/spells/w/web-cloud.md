@@ -1,19 +1,21 @@
 ---
-alias: Web Cloud
+aliases: [Web Cloud]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Web Cloud 
+## Web Cloud
 
 **source**:: Advanced Race Guide pg. 107  
 **school**:: conjuration (creation)
 **level**:: arcanist 4, sorcerer 4, witch 4, wizard 4 (drow)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: cloud spreads in 20-ft. radius, 20 ft. high  
@@ -21,7 +23,7 @@ alias: Web Cloud
 **saving-throw**:: Reflex partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a cloud of flame-resistant strands of adhesive webbing that billows and flows much like a *cloudkill* spell. The cloud moves away from you at a rate of 10 feet per round, rolling along the surface of the ground.  
   

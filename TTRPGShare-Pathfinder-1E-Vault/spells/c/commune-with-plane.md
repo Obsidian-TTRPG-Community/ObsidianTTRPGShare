@@ -1,25 +1,27 @@
 ---
-alias: Commune with Plane
+aliases: [Commune with Plane]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Commune with Plane 
+## Commune with Plane
 
 **source**:: Planar Adventures pg. 39  
 **school**:: divination
 **level**:: cleric 5, hunter 4, oracle 5, psychic 5, ranger 4, summoner 5, summoner (unchained) 5, warpriest 5, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: instantaneous
 
-### Description 
+### Description
 
 You become one with the plane around you, attaining knowledge of the surrounding territory. You instantly gain knowledge of as many as three facts from among the following subjects: areas with different planar traits, the layout and topography of local terrain, local divine influences, planar phenomena, portals between planes, presence of creatures native to the plane, presence of powerful nonnative creatures, the general state of the plane, or valuable planar substances.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dunagh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 54
 desc_short: This spectral woman holds a silver urn and floats in midair with an unearthly grace and demanding presence.
 ```
-# Description
+## Description
 Dunaghs, like most kami, are guardian spirits native to Tian Xia. Unlike others of their kind, however, dunaghs long ago attached themselves to caravans coming over the Crown of the World, eventually establishing themselves in the Lands of the Linnorm Kings, where they’re most likely to be found today. Attracted by a family’s or clan’s intense devotion to a single structure or holding, the dunaghs serve as guardians of family homes, watchful protectors of both the structures and those who live within them.
 
 Most dunaghs prefer to remain anonymous, going about their business when residents are not present. They occasionally assist “their” family by tidying up the house, locking doors, or shutting windows left open during the cold months.
@@ -65,7 +67,7 @@ Most dunaghs prefer to remain anonymous, going about their business when residen
 When a family line watched over by a dunagh comes to an end, the dunagh falls into a bleak depression and remains fixated on the family’s last place of residence, becoming a spiteful spirit that forcibly evicts anyone else who tries to take up residence or otherwise trespass upon its ward.
 
 Dunaghs prefer to stay merged with their wards, but in their visible forms, they take on appearances similar to ghostly versions of those people they guard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dunagh)
 ```encounter-table
 name: Dunagh

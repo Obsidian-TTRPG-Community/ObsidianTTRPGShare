@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Rider of the Steppe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: NPC Codex
     desc: 121
 ```
-# Description
+## Description
 A rider of the steppe works individually or in a group to bring safety and law to the wild and arid flatlands, often protecting caravans and traveling dignitaries.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Rider%20of%20the%20Steppe)
 ```encounter-table
 name: NPC Rider of the Steppe

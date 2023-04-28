@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kelpie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 172
 desc_short: This hideous humanoid creature has slimy, transparent skin; webbed, humanoid hands; and a snaggletoothed, horse-like face.
 ```
-# Description
+## Description
 A kelpie is a deadly shapechanging predator that, in its natural form, appears as a hideous combination of emaciated horse and sickly humanoid, with slimy, transparent skin and long, stringy hair. Its face is long and equine, with a mouth filled with jagged teeth. Few, however, ever see a kelpie in its true form, for kelpies almost always encounter other creatures while in disguise as a humanoid, horse, or hippocampus, reverting to their true form only after their targets have drowned so that they can feast on their victims, leaving behind only the heart and liver (as both of these organs are distasteful to most kelpies).
 
 Kelpies can be found in saltwater and freshwater environments, including fens, rivers, swamps, and underground pools and lakes. Communities living near kelpie lairs believe that folk who die on the water or are killed by a kelpie become kelpies themselves. Kelpies may serve as steeds for aquatic fey or other water monsters while in their hippocampus forms, sometimes without their riders ever knowing the truth of the steed’s sinister nature.
 
 A typical kelpie is 6 feet tall and weighs 170 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kelpie)
 ```encounter-table
 name: Kelpie

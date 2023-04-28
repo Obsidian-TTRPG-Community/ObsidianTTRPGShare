@@ -1,19 +1,21 @@
 ---
-alias: Wrathful Weapon
+aliases: [Wrathful Weapon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wrathful Weapon 
+## Wrathful Weapon
 
 **source**:: Advanced Class Origins pg. 31  
 **school**:: transmutation \[see text\]
 **level**:: cleric 4, oracle 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: melee weapon touched (see text)  
@@ -21,7 +23,7 @@ alias: Wrathful Weapon
 **saving-throw**:: Will (harmless, object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You grant the targeted weapon one of the following weapon special abilities: *anarchic*, *axiomatic*, *holy*, or *unholy*. If *anarchic*, this spell has the chaos descriptor; if *axiomatic*, the law descriptor; if *holy*, the good descriptor; and if *unholy*, the evil descriptor. If the caster attempts to place a special ability on a weapon that already has that special ability, the spell fails.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tatterlorn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 63
 desc_short: This deathly figure is draped with filthy rags. Its thin, gray arms end in ruinous claws, and its movements are weirdly difficult to follow with the eye.
 ```
-# Description
+## Description
 Tatterlorns spawn as a result of slow, preventable deaths witnessed by multiple indifferent onlookers. Given these circumstances, tatterlorns are most often found in large cities, especially in nations such as Cheliax, Katapesh, or Nidal. In these places, the urban poor can succumb to starvation or exposure on the street while passersby pretend not to notice. As they were ignored and invisible in life, so they are in death. The eyes of living creatures subconsciously refuse to linger on a tatterlorn, making direct observation almost impossible. This is not true invisibility, however, and a tatterlorn can be seen in peripheral vision.
 
  Filled with rage at their unnecessary deaths and at the callousness of the living, tatterlorns stalk the areas where they died, looking for lone victims. They rarely kill in combat, preferring to subdue victims and keep them somewhere to watch them starve or succumb to the elements. When faced with multiple dangerous opponents, tatterlorns prefer to use their isolate ability on physically weak enemies before employing hit-and-run tactics.
 
  Most disturbing of all are the unexpected relationships that form when tatterlorns encounter attic whisperers. Seeing attic whisperers as kindred spirits, tatterlorns sometimes create unholy families with these undead children, sharing lairs in abandoned buildings or sewers. A tatterlorn multiplies through the abduction of children, whom it transforms into attic whisperers to assuage its unending loneliness, often causing mass hysteria in cities as children go missing. Tatterlorns heading larger families sometimes advance by taking class levels in rogue, becoming devastating combatants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tatterlorn)
 ```encounter-table
 name: Tatterlorn

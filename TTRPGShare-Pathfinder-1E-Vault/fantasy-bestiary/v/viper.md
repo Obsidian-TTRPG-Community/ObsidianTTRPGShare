@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Viper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 133
 ```
-# Description
+## Description
 Vipers are not particularly aggressive snakes, but their poisonous bite can be deadly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Viper)
 ```encounter-table
 name: Viper

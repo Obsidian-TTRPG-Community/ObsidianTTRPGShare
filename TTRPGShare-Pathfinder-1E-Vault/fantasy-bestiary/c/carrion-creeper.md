@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Carrion Creeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 86
 desc_short: This thick mass of vegetation has several sturdy tendrils studded with long thorns and rippling with strength.
 ```
-# Description
+## Description
 These carnivorous plants developed from ordinary creeping vines and can scuttle along the ground or up trees and walls. Carrion creepers grow up to 10 feet long and weigh up to 500 pounds.
 
  Carrion creepers feed on decomposing carcasses, sinking their tendrils into corpses and leaching liquids and nutrients. When carrion is unavailable, they set ambushes for living animals and even intelligent creatures, seeing them as nothing more than sources of nutrition. Carrion creepers don’t maintain lairs; instead, these nomadic creatures find trees, walls, or wells to cling to while resting or patiently waiting in ambush. When on the ground, they move by rolling along like a tumbleweed, and, when resting, they resemble thorny shrubs rather than vines.
@@ -64,7 +66,7 @@ These carnivorous plants developed from ordinary creeping vines and can scuttle 
  Carrion creepers use their ability to sense vibrations in the ground not only to detect prey but also as a form of communication. Thanks to their rudimentary intelligence, they are capable of using simple hunting tactics, such as surrounding their prey.
 
  Carrion creepers have little in the way of culture, but they are sometimes inexplicably drawn to great stone monoliths, jealously guarding them as if in some crude form of religious veneration. Such carrion creepers occasionally scratch symbols into nearby dirt or even stone, forming basic Sylvan characters for “go away” or “protected place,” but they seem otherwise unfamiliar with the concept of writing.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Carrion%20Creeper)
 ```encounter-table
 name: Carrion Creeper

@@ -1,19 +1,21 @@
 ---
-alias: Boneshaker
+aliases: [Boneshaker]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Boneshaker 
+## Boneshaker
 
 **source**:: Horror Adventures pg. 110  
 **school**:: necromancy
 **level**:: antipaladin 1, arcanist 2, cleric 2, inquisitor 2, oracle 2, sorcerer 2, spiritualist 2, warpriest 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a human-shaped fetish made of bone)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one living creature or undead creature with a skeleton  
@@ -21,7 +23,7 @@ alias: Boneshaker
 **saving-throw**:: Fortitude negates or partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 By using a bone fetish like a marionette, you take control of a target creature’s skeleton. This has a variety of effects depending on whether the target is living or undead.  
   

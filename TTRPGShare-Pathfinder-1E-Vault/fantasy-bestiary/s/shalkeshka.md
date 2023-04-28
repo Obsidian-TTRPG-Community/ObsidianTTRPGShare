@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shalkeshka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 88
 desc_short: This creature’s bulbous compound eyes peer in all directions as its twin mandibles twitch and gnash. Six legs, each ending in spade-like claws, support its bulk.
 ```
-# Description
+## Description
 A dangerous nuisance in northern Garund, a shalkeshka is a strange burrowing predator that inhabits fertile soil near rivers, oases, and (most destructively) farmland. This creature’s anatomy is reminiscent of an insect or some sort of lizard, and when burrowing it tears into the earth with its claws, swimming through sand and soil. Since the creatures spend most of their time buried underground, their pale, nearly transparent skin is cool and clammy to the touch. Shalkeshkas feed on whatever creatures are unfortunate enough to tread the ground above them while they nest in the earth below. When fighting, a shalkeshka viciously grapples its victim with its mandibles, shredding its prey to pieces with its claws.
 
 Squat and powerfully built, a shalkeshka stands only 5 feet tall, but is 8 feet wide and weighs almost 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shalkeshka)
 ```encounter-table
 name: Shalkeshka

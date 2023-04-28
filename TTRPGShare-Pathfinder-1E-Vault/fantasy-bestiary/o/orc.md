@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orc
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 222
 desc_short: This savage creature looks like a bestial version of a savage human, with green-gray skin and greasy black hair.
 ```
-# Description
+## Description
 Along with their brute strength and comparatively low intellect, the primary difference between orcs and the civilized humanoids is their attitude. As a culture, orcs are violent and aggressive, with the strongest ruling the rest through fear and brutality. They take what they want by force, and think nothing of slaughtering or enslaving entire villages when they can get away with it. They have little time for niceties or details, and their camps and villages tend to be filthy, ramshackle affairs filled with drunken brawls, pit fights, and other sadistic entertainment. Lacking the patience for farming and only able to shepherd the most robust and self-sufficient animals, orcs almost always find it easier to take what someone else has built than to create things themselves. They are arrogant and quick to anger when challenged, but only worry about honor so far as it directly benefits them to do so.
 
 An adult male orc is roughly 6 feet tall and 210 pounds. Orcs and humans interbreed frequently, though this is almost always the result of raids and slave-taking rather than consensual unions. Many orc tribes purposefully breed for half-orcs and raise them as their own, as the smarter progeny make excellent strategists and leaders for their tribes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orc)
 ```encounter-table
 name: Orc

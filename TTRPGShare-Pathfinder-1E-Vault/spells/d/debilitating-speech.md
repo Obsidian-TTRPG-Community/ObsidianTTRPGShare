@@ -1,19 +1,21 @@
 ---
-alias: Debilitating Speech
+aliases: [Debilitating Speech]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Debilitating Speech 
+## Debilitating Speech
 
 **source**:: Disciple's Doctrine pg. 10  
 **school**:: enchantment (language-dependent, mind-affecting)
 **level**:: arcanist 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: see below  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1 or more living creatures/level, no two of which may be more than 30 feet apart  
@@ -21,7 +23,7 @@ alias: Debilitating Speech
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 By speaking eloquently on the subject of your opponents’ ineptitude in combat, past failures, personal hygiene, or other faults, you sap their will to fight.  
   

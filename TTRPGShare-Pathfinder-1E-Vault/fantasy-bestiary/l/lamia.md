@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lamia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 186
 desc_short: This creature’s upper torso is that of a comely woman with cat’s eyes and sharp fangs, while her lower body is that of a lion.
 ```
-# Description
+## Description
 The hate-filled inheritors of an ancient curse, lamias appear as lean and attractive women from the waist up, while below they possess the bodies of powerful lions. Even their humanoid features bear distinctly feline traits, their eyes slitted and feral and their teeth like predatory fangs. A typical lamia stands over 6 feet tall, measures more than 8 feet long, and weighs upward of 650 pounds.
 
 Lamias are attracted to the ruined and forsaken parts of the world. Crumbling keeps, abandoned cities, and forgotten monuments all satisfy these deadly hunters’ cruel aesthetic-particularly those in arid or otherwise lifeless environs. Foremost, though, lamias favor decrepit temples. They delight in seeing the shrines of good deities in ruins and go out of their way to bring hardship to thriving holy places.
@@ -69,7 +71,7 @@ Lamias are attracted to the ruined and forsaken parts of the world. Crumbling ke
 Lamias look to the eldest female of the group as their leader, mother, and shaman, cleaving to her with fanatical reverence. While lamias shun most religious followings-viewing such as the source of the curse that blighted them with bestial forms-lamia elders claim to hear the whispers of the scouring desert winds and know the cold whims of the stars, drawing upon such mystical sources to lead their people.
 
 The lamias presented here are but the most common and least powerful members of this cursed race, with others bearing serpentine, avian, and even more perverse forms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lamia)
 ```encounter-table
 name: Lamia

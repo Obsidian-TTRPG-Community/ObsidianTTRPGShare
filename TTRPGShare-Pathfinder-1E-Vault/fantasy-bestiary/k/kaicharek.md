@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kaicharek
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 84
 desc_short: This grotesque, crimson wormlike creature has a circular mouth full of fangs. A pair of segmented tentacles sporting razor-edged ridges protrudes from the sides of its mouth.
 ```
-# Description
+## Description
 With slashing tentacles and a blood-hungry maw, kaichareks lie in wait for the foolish entering Achaekek's realm, ambushing and exsanguinating the weak and grabbing a quick meal from the strong. This latter feature has earned kaichareks the name “parasites of Achaekek.” Though hardly the strongest creatures associated with the Mantis God, kaichareks are vicious yet cowardly creatures that seem to live for the anguish and bloodshed they unleash on the world around them.
 
  A typical kaicharek is 5 feet long and weighs 270 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kaicharek)
 ```encounter-table
 name: Kaicharek

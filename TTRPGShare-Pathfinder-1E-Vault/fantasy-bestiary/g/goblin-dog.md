@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Dog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,7 +47,7 @@ sources:
     desc: 87
 desc_short: This mangy canine’s face has the same flat nose, beady eyes, and protruding teeth as a rat grown grotesquely large.
 ```
-# Description
+## Description
 Loathed by men and beasts alike, goblin dogs are ugly, stinking, craven, and foul-tempered. It’s no surprise that goblins find kindred spirits in these shunned, disgusting beasts. Constantly itching, afflicted with a species-wide mange exacerbated by prolific dander, even the healthiest goblin dog looks sickly and starved.
 
 Despite its name, the goblin dog is in fact a species of rodent grown monstrously large. Their long-legged shape and proclivity to hunt and run in packs earned them their popular name, a name that many goblins take issue with, as it galls the average goblin to consider these, their favored mounts, having anything at all to do with actual dogs. Of course, being goblins, they haven’t bothered to come up with alternate names for goblin dogs. Perhaps they don’t realize they can.
@@ -55,7 +57,7 @@ Contact with a goblin dog’s infested, mangy hide causes most other creatures t
 Despite their skin conditions and disorders, goblin dogs are highly resistant to disease. Their favored food is carrion-the riper, the better. That many goblin tribes let their goblin dogs run free in their lairs is the single reason most goblin dens aren’t filthier than they actually are; constantly hungry, a goblin dog eats anything it can chew that it finds left behind by other, more discerning palates.
 
 A goblin dog is 5 feet long but weighs only 75 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Dog)
 ```encounter-table
 name: Goblin Dog

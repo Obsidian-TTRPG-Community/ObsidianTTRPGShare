@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iron Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 162
 desc_short: This iron automaton stands twice as tall as a normal human. Its heavy footfalls shake the ground with bone-jarring force.
 ```
-# Description
+## Description
 An iron golem has a humanoid body made from iron. It can be sculpted into any shape its creator desires, but it almost always displays armor of some sort, from simple and utilitarian to ceremonial and ornate. Its features are much smoother than those of a stone golem. Iron golems sometimes carry a weapon in one hand, though they rarely use these, relying instead on their slam attacks.
 
 An iron golem is 12 feet tall and weighs about 5,000 pounds. An iron golem cannot speak or make any vocal noise, nor does it have any distinguishable odor.
 
 Although the practice has fallen out of favor in modern times, the ancients of certain powerful civilizations once took great pride in crafting iron golems of tremendous size and strength. These golems, which are never smaller than Huge, still exist in remote parts of the world, mindlessly following the orders of a long-dead empire.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iron%20Golem)
 ```encounter-table
 name: Iron Golem

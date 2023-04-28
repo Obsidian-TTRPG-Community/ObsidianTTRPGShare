@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Rune
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
     desc: 88
 desc_short: A pulsating glyph animates into a quickly flowing script that changes form as it rewrites itself, before finally assembling into an arcane symbol that flares with untold magical power.
 ```
-# Description
+## Description
 Whether first scribed by some forgotten deity or birthed by magic glyphs long soured, living runes are among the most stubborn and arrogant of dungeon denizens. Though two-dimensional and lacking any sort of real body, the creatures are sentient, but with a venomous hostility toward the so-called “lesser races” they feel are corrupted forms of the universe’s first words of creation. Appearing as magical glyphs, animated pulsating runes, etched hieroglyphics, or even ancient cave art, these creatures live to prey on lesser beings for no other reason than to prove their superiority over flesh-and-blood creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Rune)
 ```encounter-table
 name: Living Rune

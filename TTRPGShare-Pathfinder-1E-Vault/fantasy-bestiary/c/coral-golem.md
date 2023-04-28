@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coral Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 47
 desc_short: This tall creature appears to be made of wrinkled stone and coral, bits of plant life clinging to its creased body and clawlike hands.
 ```
-# Description
+## Description
 Coral golems are constructs made entirely of colonies of living coral drawn from the ocean. While their sharpened appendages are capable of performing tasks that require meticulous precision, they are equally useful in martial combat. Wizards and sorcerers employ coral golems to collect delicate specimens of plant life from local beaches, spear and retrieve fish from the ocean for meals, and protect valuable locations such as their masters’ homes or veins of minerals and other potent resources. A coral golem is 9 feet tall and weighs 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coral%20Golem)
 ```encounter-table
 name: Coral Golem

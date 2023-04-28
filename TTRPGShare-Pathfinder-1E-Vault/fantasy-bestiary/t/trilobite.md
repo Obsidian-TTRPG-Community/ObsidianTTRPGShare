@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trilobite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
   - name: Bestiary 5
     desc: 113
 ```
-# Description
+## Description
 Ancient arthropods adapted to scavenging the ocean floor, trilobites have both resilient exteriors and keen senses honed for use in the lightless depths of the sea, and are known for curling into balls to protect themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trilobite)
 ```encounter-table
 name: Trilobite

@@ -1,19 +1,21 @@
 ---
-alias: Grasping Corpse
+aliases: [Grasping Corpse]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Grasping Corpse 
+## Grasping Corpse
 
 **source**:: Horror Adventures pg. 118  
 **school**:: necromancy (evil)
 **level**:: antipaladin 1, arcanist 1, cleric 1, occultist 1, oracle 1, shaman 1, sorcerer 1, spiritualist 1, warpriest 1, witch 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (pinch of powdered onyx worth 1 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one corpse  
@@ -21,7 +23,7 @@ alias: Grasping Corpse
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can cause one nearby corpse to animate for a brief moment. Choose a creature within 30 feet of the corpse (even if the creature is outside the spell’s range). The corpse shambles toward the creature and then attempts to trip or grapple it (your choice). The corpse does not provoke attacks of opportunity.  
   

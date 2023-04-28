@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Uchurah
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,7 +46,7 @@ sources:
     desc: 21
 desc_short: Though mostly covered in grime-encrusted black fur, the muscles of this creature are still plainly visible along the four forearms that emerge from its split elbows. It wears a crude bone necklace that dangles under its vertically oriented mouth.
 ```
-# Description
+## Description
 For much of its life, Uchurah led a typical gug existence as a member of a sizable camp that made its home deep in the Midnight Mountains of Orv. Unlike many of their kind, the gugs of this camp revered not the Outer Gods, but one of the many umbral dragons that nests among the towering subterranean peaks. Uchurah was poised to apprentice with the camp’s spiritual leader, hoping one day to take on that role, when it began waking unrested each night, remembering horrible dreams.
 
 These dreams depicted increasingly gruesome scenes of slaughters and feasts, including the gug gorging on the corpse of its umbral dragon “god”. The gug’s nightmares intensified night after night, until Uchurah could no longer stand them. Mustering all its strength and rage, Uchurah slew the dragon and claimed the camp for itself.
@@ -52,7 +54,7 @@ These dreams depicted increasingly gruesome scenes of slaughters and feasts, inc
 While many of Uchurah’s fellow gugs saw its actions as a sign of strength, some believed it the ultimate heresy and retaliated against Uchurah. The usurping gug was overwhelmed by its opponents’ numbers, and fled, its own followers in tow, up into the realm of Sekamina.
 
 Guarding one of a few select entrances to the Midnight Mountains, the rage-filled gug now leads its camp on vicious raids against nearby enclaves of drow and skum. Each victory the camp secures supports Uchurah’s claims of divinity, and its followers grow more and more devoted with each passing year. Though Uchurah can’t cast any spells or heal its devotees, it nevertheless leads a thriving cult that could grow to be a powerful force in the Darklands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Uchurah)
 ```encounter-table
 name: Uchurah

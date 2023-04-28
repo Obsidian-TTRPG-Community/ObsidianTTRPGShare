@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forgefiend (Scanderig)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 86
 desc_short: A massive, fire-filled maw splits the belly of this lumbering iron-skinned fiend, whose short arms end in razor-sharp claws. 
 ```
-# Description
+## Description
 Scanderigs, more commonly known as “forgefiends,” look like large, heavily armored, barrel-shaped giants, with enormous mouths in their bellies in addition to the normal-sized ones in their heads. They are native to the Plane of Earth, but sometimes make their way through subterranean portals onto the Material Plane, where they gorge themselves on rich and relatively uncontested mineral veins. A forgefiend might live quite happily inside a mountain’s heart for centuries, only causing trouble when the ore runs out or interlopers attempt to mine its territory. 
 
 Forgefiends are particularly feared in many dwarven societies. In addition to their penchant for destroying deep forges, they are often portrayed as boogeymanlike figures for frightening dwarven children and instilling good smithing habits-for it is said, “For every scrap of slag you waste, a scanderig is making haste. Those who use excessive ore find forgefiends scratching at their door!”
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forgefiend%20(Scanderig))
 ```encounter-table
 name: Forgefiend (Scanderig)

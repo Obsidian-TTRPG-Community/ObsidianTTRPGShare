@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dosojin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 82
 desc_short: This ancient, weathered statue of a venerable monk with a shaven head possesses an air of both reverence and patience.
 ```
-# Description
+## Description
 Dosojins are kami that take the form of stone icons and watch over roads and trails. They are often found in statue form at the edges of villages, along mountain passes, at the beginnings of tunnels and other major works of roadway construction, or at simple country crossroads. In urban areas, dosojins can sometimes be found on street corners and near bridges. They serve as the guardians of travelers, keeping the malicious and malevolent off the paths they diligently watch over. Wise travelers know to seek a dosojin’s blessing before traveling upon its ward, for falling out of favor with the kami of travel is a sure way to become lost or hampered. Pious mortal couples also seek out dosojin for their own reasons, as the kami are often regarded as patrons of fertility, and are known for their habit of choosing mates and standing beside one another for their entire lives. In many regions, the blessing of a dosojin is believed to ensure a long and happy marriage, as well as many healthy children.
 
 The average dosojin stands about 4-1/2 feet tall and weighs upward of 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dosojin)
 ```encounter-table
 name: Dosojin

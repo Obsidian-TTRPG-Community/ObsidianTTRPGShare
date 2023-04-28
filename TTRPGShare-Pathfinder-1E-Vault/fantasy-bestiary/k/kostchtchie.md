@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kostchtchie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,7 +80,7 @@ sources:
     desc: 48
 desc_short: This towering giant with twisted legs has human skulls woven into his beard and holds an immense warhammer.
 ```
-# Description
+## Description
 Kostchtchie (pronounced kosh-TIK-ti-kai) appears as an immense, deformed frost giant with twisted legs, tiny white eyes, and a thick matted beard into which are woven dozens of skulls-trophies of mortal kings and priests of rival faiths he has slain. Legends speak that each of these skulls is haunted by the ghost of its previous owner, and that he can commune with these spirits to seek their wisdom-although if the legends are true, it is more likely that Kostchtchie has little interest in anything but mockery and torment for these lost souls.
 
 Kostchtchie is never seen without his massive warhammer, an adamantine maul of such prodigious size that even the strongest frost giant would have trouble wielding it properly. Known also as the Deathless Frost, Kostchtchie dwells in an immense Abyssal fortress carved from the heart of a towering mountain in a frozen realm of jagged mountains and immense glaciers infested with manifold frozen horrors. Kostchtchie stands 30 feet tall.
@@ -86,7 +88,7 @@ Kostchtchie is never seen without his massive warhammer, an adamantine maul of s
 Kostchtchie was born of human parents, and became a murderer when his father forced him to kill his mother and sisters. Kostchtchie went one better and murdered his father as well. Later in life, after he had become a ferocious warlord well known for the slaying of dozens of giant chieftains, he confronted the Witch Queen Baba Yaga and tried to force her to grant him immortality-she agreed, but twisted his form, turned him into a hideous giant, and hid away the last fragment of his mortal soul in a magical torc. Kostchtchie fled to the Abyss to nurture his hatred and hide his shame, eventually finding a new purpose as a patron of frost giants despite his hatred of their kind. Kostchtchie longs for the recovery of the torc that contains the fragment of his soul, in the hope that its return might reverse his deformity without removing his immortality.
 
 In combat, Kostchtchie almost always uses Power Attack, taking a -8 penalty on all attack rolls but gaining a +16 bonus on damage rolls. The Deathless Frost is often accompanied by several frost giants, at least two of which are clerics. These clerics attend his every need, healing him in battle as best they can lest they forfeit their lives-or fall to some fate even more dire at the merciless hands of the Deathless Frost.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kostchtchie)
 ```encounter-table
 name: Kostchtchie

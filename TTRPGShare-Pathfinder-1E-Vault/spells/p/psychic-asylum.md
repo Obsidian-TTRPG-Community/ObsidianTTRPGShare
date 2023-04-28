@@ -1,19 +1,21 @@
 ---
-alias: Psychic Asylum
+aliases: [Psychic Asylum]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Psychic Asylum 
+## Psychic Asylum
 
 **source**:: Occult Adventures pg. 181  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 6, mesmerist 5, psychic 5, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Psychic Asylum
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You retreat into a mindscape (see page 234) of your own making that allows you to perform a lengthy mental task in an instant. You create a mental landscape that provides succor and calm for you, such as a library, sitting room, garden, or childhood tree house. You can spend up to 15 minutes in your psychic asylum. While you are within, no time passes for your body, and when you emerge you can continue with your turn. The mindscape is overt, finite, and has a rapid passage of time.  
   

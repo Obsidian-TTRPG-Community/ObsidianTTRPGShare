@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drow Scout
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
   - name: Monster Codex
     desc: 34
 ```
-# Description
+## Description
 Scouts are cunning and resourceful, but still must prove themselves to higher-ranked drow before being considered anything but expendable.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drow%20Scout)
 ```encounter-table
 name: Drow Scout

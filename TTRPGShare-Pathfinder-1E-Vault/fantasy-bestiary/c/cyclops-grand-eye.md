@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cyclops Grand-Eye
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 20
 desc_short: This enormous woman’s eye darts constantly, never settling or focusing. Scrolls dangle from the belt that encircles her chiton.
 ```
-# Description
+## Description
 Despite their inherent divinatory gift, few cyclopes embrace the path of the grand-eye. A dedicated minority-respected and even revered by their brethren-retain some semblance of their peoples’ grandeur. Though still cursed with great rages and ravenous hunger, grand-eyes temper those primal urges with spiritual wisdom and historical insight. Most live apart from their kind, advising only occasionally, for fear that other cyclopes’ terrible impulses will drag them down as well. The grand-eyes are legendary prophets, and sometimes meddle in other races’ affairs by offering prophecy, spells, and magical goods.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cyclops%20Grand-Eye)
 ```encounter-table
 name: Cyclops Grand-Eye

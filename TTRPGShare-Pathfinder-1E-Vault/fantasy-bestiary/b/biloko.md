@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Biloko
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 82
 desc_short: This gnome-sized humanoid’s face is adorned with fiery red eyes and a sharp-toothed mouth that seems too wide for its head. The creature is garbed in leaves and possesses no hair-patches of grass and moss grow from its skin instead.
 ```
-# Description
+## Description
 Blood-red man-eaters and cunning jungle stalkers, biloko hunt those who think themselves hunters, preying upon foolish travelers and incautious jungle natives with maniacal zeal. Lanky and quick humanoids, biloko possess exaggerated, fearfully expressive facial features, including mouths capable of stretching impossibly wide. Adept at blending in amid jungle underbrush despite their brilliant coloration, these ferocious jungle fey delight in constructing deadly traps, tricking victims into deadly ambushes, and leading enthralled foes into dangerous situations.
 
 The average biloko stands between 3 and 4 feet tall and weighs between 40 and 50 pounds, though a biloko who has recently fed might bear the weight of a far greater creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Biloko)
 ```encounter-table
 name: Biloko

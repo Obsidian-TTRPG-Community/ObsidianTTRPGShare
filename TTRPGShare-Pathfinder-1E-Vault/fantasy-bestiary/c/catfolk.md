@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Catfolk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 47
 desc_short: This lithe, catlike humanoid has a long tail and pointed ears. Her feline eyes sparkle with curiosity and mischief.
 ```
-# Description
+## Description
 Most catfolk are tribal hunter-gatherers who dwell in harmony with nature, though some tribes have acclimated well to urban environments. As a culture, catfolk are loyal, generous, and amiable. They like belonging to and being at harmony with a group whose members work together to accomplish their needs and wants. Tribal catfolk prefer for the most capable societal members to lead, so every tribe has a council of elevated subchiefs. A tribe’s chief is usually the most competent (and magically talented) member of that tribe.
 
 Personal growth is part of catfolk culture, as is expression as a means of personal exploration. Catfolk have few taboos, and often exhibit harmless but strange eccentricities. Individuals cultivate a wide range of pursuits and self-expression, taking risks others might label unwise. Most individual catfolk like to be the center of attention, but not at the cost of group cohesion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Catfolk)
 ```encounter-table
 name: Catfolk

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Gaseous Form
+aliases: [Mythic Gaseous Form]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Gaseous Form
+## Mythic Gaseous Form
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: transmutation
 **level**:: alchemist 3, arcanist 3, bard 3, investigator 3, magus 3, medium 3, occultist 3, psychic 3, redmantisassassin 3, skald 3, sorcerer 3, spiritualist 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S, M/DF (a bit of gauze and a wisp of smoke)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: willing corporeal creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Gaseous Form
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 The subject and all its gear become insubstantial, misty, and translucent. Its material armor (including natural armor) becomes worthless, though its size, Dexterity, deflection bonuses, and armor bonuses from force effects still apply. The subject gains DR 10/magic and becomes immune to poison, sneak attacks, and critical hits. It can't attack or cast spells with verbal, somatic, material, or focus components while in gaseous form. This does not rule out the use of certain spells that the subject may have prepared using the feats Silent Spell, Still Spell, and Eschew Materials. The subject also loses supernatural abilities while in gaseous form. If it has a touch spell ready to use, that spell is discharged harmlessly when the *gaseous form* spell takes effect.  
   

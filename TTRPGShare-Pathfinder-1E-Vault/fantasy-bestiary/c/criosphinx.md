@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Criosphinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 252
 desc_short: This creature has the wings of a bird, the body of a lion, and the head of a ram with sad, wise eyes.
 ```
-# Description
+## Description
 Perhaps the least leonine of all sphinxes, the ram-headed criosphinx lacks the intellect of androsphinxes and gynosphinxes, but still outmatches the dim-witted hieracosphinxes. Like hieracosphinxes and androsphinxes, criosphinxes are always male. At the start of a battle, a criosphinx lowers its horns and crashes into foes, clawing enemies it has engaged. It favors charging down on foes from great heights.
 
 Criosphinxes crave wealth over nearly all other things, habitually extorting tolls for safe passage from any who pass their lands. Groups who cannot pay must yield one of their number or a pair of mounts for the criosphinx’s meal-single travelers must fight or die. Unlike gynosphinxes, no mere riddle suffices-only the shine of metal or the gleam of jewels can satisfy a criosphinx. Little can convince a criosphinx to part with even a single coin save the lust that its kind bears for the gynosphinx. Criosphinxes crave mating with gynosphinxes above all else, and pay well for the whereabouts of a female, or better yet, a well-crafted riddle that might impress one. For their part, gynosphinxes prefer to have little to do with what they mock as the sheep of sphinxes, though they sometimes lower themselves to a brief assignation in the rare event a criosphinx manages to impress them with wealth or wit.
@@ -59,7 +61,7 @@ Criosphinxes crave wealth over nearly all other things, habitually extorting tol
 Some criosphinxes set themselves as soothsayers of the desert, trading upon the storied wisdom of androsphinxes and gynosphinxes to deceive gullible travelers. Like their more blustering brethren, they seek wealth from passersby, but for the purposes of dispersing information rather than in exchange for safe passage. Such reliable information as they possess usually comes from idle conversation with the creatures of the desert, with criosphinxes using their inborn ability to speak with animals. A criosphinx lacking in sound information usually fabricates a pleasing lie.
 
 Criosphinxes detest hieracosphinxes, regarding them as little more than beasts and a disgrace to their noble race. They drive off their falcon-headed cousins with mock-charges and posturing, escalating to full-fledged attacks if ignored. Androsphinxes they view with mixed fear and respect, and gynosphinxes with disdain and lust.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Criosphinx)
 ```encounter-table
 name: Criosphinx

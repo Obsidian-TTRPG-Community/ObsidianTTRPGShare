@@ -1,19 +1,21 @@
 ---
-alias: Impart Mind
+aliases: [Impart Mind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Impart Mind 
+## Impart Mind
 
 **source**:: Inner Sea Magic pg. 57  
 **school**:: transmutation
 **level**:: arcanist 6, cleric 6, magus 5, oracle 6, sorcerer 6, warpriest 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 2 rounds  
 **components**:: V, S, M (diamond dust worth at least 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: permanent nonintelligent magic item touched  
@@ -21,7 +23,7 @@ alias: Impart Mind
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell grants the target magic item temporary intelligence by siphoning off a tiny portion of your own mind to infuse the object. Only permanent magic items may be enhanced by this spell-one-use items and charged items cannot be affected by *impart mind*. Intelligent magic items cannot be affected by *impart mind*.  
   

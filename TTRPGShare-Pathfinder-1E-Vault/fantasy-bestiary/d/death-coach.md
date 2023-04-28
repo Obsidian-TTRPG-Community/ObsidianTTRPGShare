@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Death Coach
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 67
 desc_short: Two spectral horses pull this ornate, ghostly carriage, whose windows are blocked by dark, heavy curtains.
 ```
-# Description
+## Description
 Fearsome phantasmal carriages pulled by ghostly horses, death coaches appear without warning to collect and carry off unwilling mortal souls to the afterlife, slaying their victims first if need be.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Death%20Coach)
 ```encounter-table
 name: Death Coach

@@ -1,25 +1,27 @@
 ---
-alias: Infuse Effigy
+aliases: [Infuse Effigy]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Infuse Effigy 
+## Infuse Effigy
 
 **source**:: Lands of the Linnorm Kings pg. 48  
 **school**:: necromancy (curse)
 **level**:: arcanist 4, cleric 4, druid 4, hunter 4, oracle 4, sorcerer 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, F (effigy to be imbued)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: touched effigy  
 **duration**:: Permanent until discharged (D)
 
-### Description 
+### Description
 
 This spell infuses an effigy with a powerful curse that targets a specific type of creature associated in some way with the effigy itself. When you cast this spell, it remains in effect until it is discharged. Once you cast *infuse effigy*, you cannot prepare a new 4th-level spell to replace it or cast another spell with its spell slot until you dismiss the *infuse effigy* spell or until it is discharged against a foe. If the number of 4th-level spells that you can cast decreases, and that number drops below your current number of *infuse effigy* spells, the more recently cast *infuse effigy* spells in excess of the number of 4th-level spells you can now cast are dispelled.  
   

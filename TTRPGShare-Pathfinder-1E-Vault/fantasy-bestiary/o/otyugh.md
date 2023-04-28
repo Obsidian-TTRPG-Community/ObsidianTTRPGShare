@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Otyugh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 223
 desc_short: This three-legged freak is mostly mouth. Three tentacles, two tipped with barbs and one with eyes, extend from its sides.
 ```
-# Description
+## Description
 Otyughs are particularly vile and horrid creatures that lurk in places most sane creatures avoid. Their lairs are middens, cesspools, offal pits, toxic swamps, and sewers-the greater a lair’s filth, the greater the draw to the refuse-eating otyugh. They glory in the role of scavenger, wandering through vast underground caverns in search of the choicest cuts of garbage and waste. Upon finding such refuse, they gorge upon it, gathering what cannot be consumed in one debauch to bring back to their foul-smelling lairs. Otyughs spend most of their time in these filthy dens, which they keep constantly filled with carrion, dung, and worse sorts of stinking effluvia.
 
 Intelligent creatures dwelling in subterranean areas near an otyugh often form a partnership of convenience with the disgusting beast. These creatures gladly provide their refuse and piles of raw meat to the otyugh, transforming the creature into an effective form of trash disposal. In return, the otyugh leaves its benefactors alone, and does not attack them, possibly even acting as a guardian.
 
 The most horrifying thing to most races about the notorious otyugh is not the nature of its diet or its choice of lairs, but rather that a creature with an otyugh’s tastes can be anything other than a mindless scavenger. In fact, otyughs are surprisingly intelligent, and often quite eager to form alliances with those who offer them a steady supply of delicious diversions in the form of offal and waste. Most otyughs understand the fact that other creatures find them unpleasant and hideous, but few really care.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Otyugh)
 ```encounter-table
 name: Otyugh

@@ -1,19 +1,21 @@
 ---
-alias: Hex Ward
+aliases: [Hex Ward]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hex Ward 
+## Hex Ward
 
 **source**:: Ultimate Magic pg. 223  
 **school**:: abjuration
 **level**:: inquisitor 1, occultist 1, shaman 1, witch 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,11 +23,11 @@ alias: Hex Ward
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You give the target a +4 resistance bonus on saving throws against witch hexes.
 
-## Mythic Hex Ward 
+## Mythic Hex Ward
 
 **source**:: Mythic Adventures pg. 98  
 The target gains immunity to one witch hex (but not a major hex or grand hex) of your choice.  

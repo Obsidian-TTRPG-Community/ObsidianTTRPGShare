@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Harbinger Disciple
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 28
 ```
-# Description
+## Description
 It’s widely accepted that prophecy has been unreliable since the death of Aroden, so much so that the current era is known as the Age of Lost Omens. Not all see the failure of prophecy as so certain, however; most notable among them are the Harbingers of Fate. This Absalom-based secret society may seem like a band of lunatics unable to cope with their philosophy being negated by the passing of time, but in fact they pose a real threat to the safety of the City at the Center of the World. After all, nothing is more important to the Harbingers of Fate than restoring prophecy, even if doing so causes the deaths of thousands of innocents.
 
 Founded in 4648 AR by Lord Garron, an exiled Chelish noble living in Absalom, the Harbingers believe that bringing about the prophesies foretold the mysterious Book of 1,000 Whispers will put history back on its proper course and usher in the promised Age of Glory, perhaps even returning of Aroden himself to the world. But like all other forms of soothsaying, the writings in the Book of 1,000 Whispers-accurate up until 4606 AR-lost all reliability in predicting the future after Aroden’s demise. Lord Garron desperately (and fruitlessly) tried to fulfill these prophecies for the remainder of his life, before dying in one such failed attempt. His daughter Lady Arodeth continues his work today and leads the small but fanatical group of disciples of the Book of 1,000 Whispers in Absalom. The Harbingers’ methods have been growing more and more desperate in recent years, as the book’s final pronouncements are said to occur in 4714 AR; so far, none of them have come true.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Harbinger%20Disciple)
 ```encounter-table
 name: NPC Harbinger Disciple

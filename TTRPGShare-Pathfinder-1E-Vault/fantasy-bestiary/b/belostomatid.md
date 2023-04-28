@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Belostomatid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 82
 desc_short: Six powerful legs, each ending in a hooked claw, jut from the shieldlike body of this massive insect.
 ```
-# Description
+## Description
 The belostomatid is the monstrous form of its diminutive counterpart, a 5-inch-long “giant” water bug commonly known as a “toe-biter.” A monstrous belostomatid has a f lattened, oval-shaped body measuring 12 feet long, and four rear, oarlike legs, which it uses to thrust through the water. The belostomatid’s front two legs are thick and end in sharp, single-tipped claws, which it uses to slay its prey. Two large black eyes are mounted on each side of the creature’s rostrum, and it uses its 2-foot-long, beaklike proboscis to inject its deadly acidic enzymes into its victims.
 
 Belostomatids are ambush predators. They hide amid f loating snags and piles of debris in still and slow-moving waters, seamlessly blending in with their surroundings despite their size. With a powerful surge forward, a belostomatid grabs its prey, thrusts its rostrum deep into the prey’s body, and begins pumping a paralyzing digestive enzyme into its prey, dissolving it from the inside out.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Belostomatid)
 ```encounter-table
 name: Belostomatid

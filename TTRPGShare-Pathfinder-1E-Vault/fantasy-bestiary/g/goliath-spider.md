@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goliath Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 252
 desc_short: This massive brown-and-green tarantula is the size of a large house and has huge, razor-sharp fangs.
 ```
-# Description
+## Description
 Goliath spiders are giant hunting spiders that most often prey on large creatures such as giant scorpions, snakes, and younger dragons, but sometimes catch and paralyze smaller prey to eat later. Camouf laged by their hairs and coloration, they prowl atop the forest canopy, dropping upon unsuspecting creatures. Females often cannibalize their mates.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goliath%20Spider)
 ```encounter-table
 name: Goliath Spider

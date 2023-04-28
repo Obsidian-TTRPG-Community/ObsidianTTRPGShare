@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Enchanter Heron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 82
 desc_short: This large bird has gray-and-white feathers, a long beak, and a bulbous sac on its throat that glows with a pale, sapphire light.
 ```
-# Description
+## Description
 Enchanter herons are large birds with bioluminescent throat sacs-the result of prolonged exposure to magical fallout. Each stands about 8 feet tall and weighs 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Enchanter%20Heron)
 ```encounter-table
 name: Enchanter Heron

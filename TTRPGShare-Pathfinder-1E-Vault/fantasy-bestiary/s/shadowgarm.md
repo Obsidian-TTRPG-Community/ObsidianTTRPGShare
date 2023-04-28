@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadowgarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 80
 desc_short: This amorphous creature loosely resembles a cross between a large snake and an insect. It has black oily skin, and parts of its very flesh blend seamlessly into the shadows. Its constantly moving, writhing form makes it difficult to identify from a distance.
 ```
-# Description
+## Description
 Shadowgarms are strange monsters from the Plane of Shadow, where they function as lowly predators and pests somewhat akin to the Material Plane’s coyotes, leopards, and similar hunting mammals. Yet to a creature unfamiliar with the workings of the Plane of Shadow, the shadowgarm is a hideous and frightening beast. Generally lairing in ruined sections of towns or dead-end alleys clogged with refuse during the day, they come out at night to prey upon creatures that stray too far from the safety of light. These aberrant predators “leak” into the Material Plane anywhere the Plane of Shadow’s influence is strong. Small groups of shadowgarms are occasionally seen lurking in old graveyards where undead (particularly shadows) are known to reside, and anywhere that has strong traditions of shadow magic tends to have a healthy population of shadowgarms lurking in out-of-the-way areas as well.
 
 The typical shadowgarm measures about 4-1/2 feet long and weighs approximately 90 pounds, their bodies being strangely light, composed of a spongy dark matter and seemingly wisps of shadow itself. Some, however, grow to be much larger, though shadowgarms of all sizes prove especially adept at blending in among the shadows and detritus of their hunting grounds or crawling into crevices it seems creatures of their size would not be able to squeeze.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadowgarm)
 ```encounter-table
 name: Shadowgarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpentfolk Reclaimer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 51
 desc_short: Ophidian imagery decorates the fine robes of this sinuous, fanged humanoid, and a narrow, forked tongue flicks from its serpentine head.
 ```
-# Description
+## Description
 Even though the Age of Serpents has long since passed, serpentfolk reclaimers have retained a small fraction of the psychic magic over which their people once held mastery. Serpentfolk claim they once shared a powerful psychic connection with their god, Ydersius. Though that connection has grown weaker since the fall of their patron deity, reclaimers now hold sway over spirits and the dead, a consequence of Ydersius’s half-living state. As such, a reclaimer can use psychic magic to affect undead that are normally immune to mind-affecting effects.
 
 Serpentfolk reclaimers are determined to restore both their empire’s former glory and the potent psychic magic their people once wielded, and have long moved past any squeamishness about how they accomplish their goals. They find the degeneration of their kind deeply offensive, and perform occult experiments on their degenerate kindred, attempting to uplift them to greater intelligence. These procedures usually kill their subjects, or drive them mad, but the reclaimers consider this a small price to pay-their kin’s degenerate state is humiliation beyond imagining, and those who die in a reclaimer’s attempts to elevate them are spared the agony of such a wretched existence. Some reclaimers seek to make mental contact with the still-living head of Ydersius, hoping to revive him or merge their psyches with his, perhaps giving him the psychic strength to reinstate the connection he once had with his people. Some adherents, however, believe their god’s fleshless state is an evolution in his existence, and that his mind is now free of physical restraints.
@@ -67,7 +69,7 @@ Many serpentfolk see reclaimers as paragons of their kind, and are eager to aid 
 Reclaimers are too few in number to risk their lives needlessly. They prefer to beguile, confuse, and enthrall their opponents whenever they can, turning their foes into their unwilling allies. If forced to fight, they let undead allies or degenerate serpentfolk take the brunt of the attack, fleeing if they feel they are in danger. When cornered, they are ruthless, for their poisonous bite saps their foes’ strength, allowing the reclaimer to finish them off with less risk to itself.
 
 Serpentfolk reclaimers stand 6 feet tall and weigh 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpentfolk%20Reclaimer)
 ```encounter-table
 name: Serpentfolk Reclaimer

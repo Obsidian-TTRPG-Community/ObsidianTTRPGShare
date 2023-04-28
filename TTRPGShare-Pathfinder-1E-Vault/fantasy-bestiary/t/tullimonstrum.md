@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tullimonstrum
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 87
 desc_short: This small cylindrical creature has two eyestalks extending straight off to each side.
 ```
-# Description
+## Description
 A tullimonstrum is strange, blood-drinking, deep-sea creature displaying features of both fish and invertebrates. While tullimonstrums are relatively weak individually, a group or school of the creatures poses a lethal threat to nearly any target. A typical tullimonstrum is 14 inches long and weighs 6 pounds. Tullimonstrums can serve as familiars for spellcasters, granting their masters a +3 bonus on Perception checks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tullimonstrum)
 ```encounter-table
 name: Tullimonstrum

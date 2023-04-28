@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dolphin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 88
 desc_short: This streamlined, fish-like mammal has sparkling eyes over a smiling mouth filled with hundreds of teeth.
 ```
-# Description
+## Description
 Dolphins are social predators that hunt shallow seas and rivers in large family groups called pods. Sailors are fond of dolphins and frequently tell tales of dolphins saving drowning fishermen or killing sharks with blows from their powerful snouts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dolphin)
 ```encounter-table
 name: Dolphin

@@ -1,25 +1,27 @@
 ---
-alias: Mythic Geniekind
+aliases: [Mythic Geniekind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Geniekind
+## Mythic Geniekind
 
 **source**:: Mythic Origins pg. 12  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 5, cleric 5, druid 5, hunter 5, oracle 5, sorcerer 5, summoner 5, summoner (unchained) 5, warpriest 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a pinch of dust, embers, wind-blown sand or drops of water, depending on the genie type)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 Keleshite wizards and clerics have always sought to emulate the genies that they bind. The *geniekind* spell is the result of attempts to gain the power and influence of these proud outsiders without entirely forsaking the caster’s own form.  
   

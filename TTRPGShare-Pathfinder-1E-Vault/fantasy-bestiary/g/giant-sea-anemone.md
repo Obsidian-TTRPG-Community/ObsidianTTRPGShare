@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Sea Anemone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 238
 desc_short: This giant, tubular creature ends in a mass of thick and brilliantly colored tendrils arrayed around an enormous, toothless maw.
 ```
-# Description
+## Description
 Giant sea anemones are beautiful but deadly ocean-dwelling vermin that rely on camouflage and paralytic toxins to draw in their prey. A sea anemone has a long, cylindrical body that ends in a flat circular disc with a slitlike orifice for both ingesting food and dispelling waste. This disc is surrounded by a thicket of tendrils that vary in thickness from fine, hairlike cilia to thick, swollen appendages. The creature uses all of these tentacles at once when it attacks prey. Like their smaller kin, giant sea anemones come in a broad spectrum of colors-many are known for their brilliant hues.
 
 Giant sea anemones can move at a slow pace by walking along the projections at their bases. More often, however, these predators affix themselves to rock, coral, or sunken objects like ships, then wait for prey to come to them.
@@ -64,7 +66,7 @@ As mindless creatures, giant sea anemones have no use for treasure, but the rema
 Other species of sea anemones exist as well, some smaller but most quite a bit larger and favoring different oceanic regions and depths. You can adjust the stats for the giant sea anemone by changing the Hit Dice and size (adjusting Strength, Dexterity, and Constitution as appropriate) to represent a wide range of species. Often, different species have additional abilities, such as the darkforest anemone’s constriction attack, or the deep tiger’s ability to squirt acid. The following table lists the most common variants.
 
  SpeciesCRSizeHD Common anemone1/4Tiny1d8 Bluehair anemone1/2Small2d8 Coffin anemone1Medium3d8 Darkforest anemone6Huge9d8 Siren’s bed anemone9Gargantuan14d8 Deep tiger anemone13Colossal19d8 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Sea%20Anemone)
 ```encounter-table
 name: Giant Sea Anemone

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 268
 desc_short: This tall creature has rough, green hide. Its hands end in claws, and its bestial face has a hideous, tusked underbite.
 ```
-# Description
+## Description
 Trolls possess incredibly sharp claws and amazing regenerative powers, allowing them to recover from nearly any wound. They are stooped, fantastically ugly, and astonishingly strong-combined with their claws, their strength allows them to literally tear apart flesh to feed their voracious appetites. Trolls stand about 14 feet tall, but their hunched postures often make them appear shorter. An adult troll weighs around 1,000 pounds.
 
 A troll’s appetite and its regenerative powers make it a fearless combatant, ever prepared to charge headlong at the nearest living creature and attack with all of its fury. Only fire seems to cause a troll to hesitate, but even this mortal threat is not enough to stop a troll’s advance. Those who commonly battle with trolls know to locate and burn any pieces after a fight, for even the smallest scrap of flesh can regrow a full-size troll given enough time. Fortunately, only the largest part of a troll regrows in this way.
 
 Despite their cruelty in combat, trolls are surprisingly tender and kind to their own young. Female trolls work as a group, spending a great deal of time teaching young trolls to hunt and fend for themselves before sending them off to find their own territories. A male troll tends to live a solitary existence, partnering with a female for only a brief time to mate. All trolls spend most of their time hunting for food, as they must consume vast amounts each day or face starvation. Due to this need, most trolls stake out large territories as their own, and fights between rivals are quite common. While these are usually nonlethal, trolls are aware of each others’ weaknesses and will use such knowledge to kill their own kind if food is scarce.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll)
 ```encounter-table
 name: Troll

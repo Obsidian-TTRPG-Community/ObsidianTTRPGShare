@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin Forerunner
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Monster Codex
     desc: 119
 ```
-# Description
+## Description
 Hobgoblin forerunners are masters of mounted combat, and lead the charge at the front of hobgoblin armies. They sometimes use yzobus as mounts (see page 124).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin%20Forerunner)
 ```encounter-table
 name: Hobgoblin Forerunner

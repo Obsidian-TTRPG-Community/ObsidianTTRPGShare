@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gravesludge
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 145
 desc_short: This filthy, shuddering mass of sludge and bones seems to have formed from a mass of muddy grave soil.
 ```
-# Description
+## Description
 Gravesludges straddle the line between oozes and undead. Primarily made of ectoplasm and grave dirt, gravesludges spontaneously arise in areas where a grave is desecrated, near strong haunt activity, and in the defiled graves of unhallowed cemeteries. Intelligent undead often entreat gravesludges to bolster their defenses, but solitary gravesludges wander cemeteries, charnel houses, and ossuaries, driven by little more than a burning jealousy and hatred for the living. Occasionally, living creatures work with a gravesludge to secure a grisly form of life after death as juju zombies. 
 
 The average gravesludge measures 6 feet across and weighs 750 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gravesludge)
 ```encounter-table
 name: Gravesludge

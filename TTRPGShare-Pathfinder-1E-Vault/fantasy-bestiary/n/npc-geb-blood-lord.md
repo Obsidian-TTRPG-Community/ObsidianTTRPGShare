@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Geb Blood Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 23
 ```
-# Description
+## Description
 Ruling Geb from the Ebon Mausoleum in Mechitar, Blood Lords ensure the steady operation of the country. Acting as lawmakers and judges, Blood Lords are all powerful necromancers, and many of them are undead- typically vampires and liches, though other types of abominations also fill their ranks. The living and the dead of Geb fear the Blood Lords and take every pain to avoid their notice, for if a citizen crosses a Blood Lord, the rest of his life, and perhaps his afterlife, can become a nightmare.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Geb%20Blood%20Lord)
 ```encounter-table
 name: NPC Geb Blood Lord

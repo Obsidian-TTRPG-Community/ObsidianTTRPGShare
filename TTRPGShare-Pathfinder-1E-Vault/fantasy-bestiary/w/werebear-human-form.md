@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Werebear (Human Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 181
 desc_short: This humanoid is covered in shaggy fur and carries a heavy axe in one of his clawed hands.
 ```
-# Description
+## Description
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with stark facial features and dark eyes. Their hair is usually red, brown, or black, and they look like they are used to a lifetime of hard work. Though by far the most benign of common lycanthropes, werebears are shunned by most normal folk, who fear and mistrust their animal transformations. Most live as recluses in forested areas or in small family units among their own kind. They avoid confrontations with strangers but do not hesitate to drive evil humanoids out of their territory.
 
 Some werebears are angry and violent, because of either temperament or a lifetime of harassment from others, and these mean ones aren’t afraid to put an axe in a trespasser’s face or eat someone who pushes them too far. Cool-headed werebears don’t like to speak of these individuals with strangers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Werebear%20(Human%20Form))
 ```encounter-table
 name: Werebear (Human Form)

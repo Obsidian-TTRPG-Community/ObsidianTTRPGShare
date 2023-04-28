@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elder Sphinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 90
 desc_short: The brooding face of this towering limestone statue of a gynosphinx reflects a harsh wisdom acquired through untold ages of experience.
 ```
-# Description
+## Description
 Older than most modern civilizations, elder sphinxes are the wisest and most venerable of sphinx kind. Though they have long since calcified into creatures of living limestone, these ancient creatures serve eternally as guardians, not of temples or other such terrestrial sites, but of forbidden knowledge and lore, much of which is beyond the understanding of lesser beings. Elder sphinxes are highly protective of the vast wealth of information they possess and strive to defend it from those they deem unworthy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elder%20Sphinx)
 ```encounter-table
 name: Elder Sphinx

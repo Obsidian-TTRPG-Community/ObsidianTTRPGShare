@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ceratioidi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 80
 desc_short: This flabby, fishlike humanoid has the wide mouth, bulging eyes, and dangling, luminescent flesh lure of a deep-sea predator.
 ```
-# Description
+## Description
 Rulers of deep ocean trenches, ceratioidi share several unusual traits with the aquatic predators of the ceratiidae family, also known as angler fish. From their strange, spired cities beneath the waves, ceratioidi cast their nets of influence far and wide.
 
 Perhaps the strangest aspect of the ceratioidi is that each individual is in fact two entities-a powerful, imposing female, and a rat-sized parasitic male who spends most of his life attached to his mate’s neck. A female without a mate loses her dual mind ability, while a male unattached to a female retains his intelligence but otherwise has the same statistics as an electric eel (without the electricity special ability or electricity resistance).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ceratioidi)
 ```encounter-table
 name: Ceratioidi

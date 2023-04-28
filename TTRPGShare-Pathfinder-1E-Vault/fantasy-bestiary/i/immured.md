@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Immured
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 55
 desc_short: Through cracked, sickly blue lips, this pallid humanoid figure emits deep gasps as if struggling to breathe.
 ```
-# Description
+## Description
 Immured are undead remains of those who died of slow suffocation in a confined, lightless space. Their feelings of abject terror and desperate desire to escape before death manifest as an ability to open temporary rifts in reality. Although they loathe the bright lights and open spaces of the world outside, they occasionally emerge to violently hush any sounds that disturb their repose. Some immured find the last gasps of dying creatures intoxicating, so they seek out victims to choke night after night.
 
 While an accidental live burial can trigger the birth of an immured, most of these unfortunates are brought about by purposeful malevolence, such as being walled in as a form of torture or execution in life. In cultures obsessed with undeath or the afterlife, living servants are sometimes honored by being entombed with their masters, which can create immured.
 
 An immured is 6 feet tall and weighs 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Immured)
 ```encounter-table
 name: Immured

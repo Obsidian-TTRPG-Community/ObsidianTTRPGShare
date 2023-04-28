@@ -1,19 +1,21 @@
 ---
-alias: Endure Elements, Communal
+aliases: [Endure Elements, Communal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Endure Elements, Communal 
+## Endure Elements, Communal
 
 **source**:: Ultimate Combat pg. 228  
 **school**:: abjuration
 **level**:: alchemist 3, arcanist 2, cleric 2, druid 2, hunter 2, investigator 3, oracle 2, paladin 2, psychic 2, ranger 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creatures touched  
@@ -21,6 +23,6 @@ alias: Endure Elements, Communal
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *endure elements*, except you divide the duration in 1-hour increments among the creatures touched.

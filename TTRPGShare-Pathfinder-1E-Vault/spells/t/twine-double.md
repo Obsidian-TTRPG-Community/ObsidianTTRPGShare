@@ -1,19 +1,21 @@
 ---
-alias: Twine Double
+aliases: [Twine Double]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Twine Double 
+## Twine Double
 
 **source**:: Cheliax, Empire of Devils pg. 23  
 **school**:: illusion (shadow)
 **level**:: arcanist 3, redmantisassassin 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (cloth and twine)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: one duplicate creature  
@@ -21,7 +23,7 @@ alias: Twine Double
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 As *simulacrum*, except you can only duplicate yourself, and the duplicate is created from cloth and twine rather than ice and snow. The double looks exactly like you except its eyes are balls of twine (DC 10 Perception check to recognize double’s strange eyes). It wears clothing and gear that appear exactly like what you are wearing at the time of casting. Its copies of your magic items are nonfunctional but radiate magic and have the same auras as your items. Its aura is identical to yours. Attempts to scry you while the double exists have a 50% chance of targeting the double instead of you.  
   

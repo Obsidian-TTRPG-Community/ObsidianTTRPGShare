@@ -1,19 +1,21 @@
 ---
-alias: Mythic Burning Gaze
+aliases: [Mythic Burning Gaze]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Burning Gaze
+## Mythic Burning Gaze
 
 **source**:: Mythic Adventures pg. 87  
 **school**:: evocation (fire)
 **level**:: arcanist 2, bloodrager 2, druid 2, hunter 2, magus 2, mesmerist 2, occultist 2, shaman 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (eye of a mundane salamander)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Mythic Burning Gaze
 **saving-throw**:: Fortitude negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Your eyes burn like hot coals, allowing you to set objects or foes alight with a glance.  
   

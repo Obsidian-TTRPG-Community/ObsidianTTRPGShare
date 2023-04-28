@@ -1,19 +1,21 @@
 ---
-alias: Mythic Feast of Ashes
+aliases: [Mythic Feast of Ashes]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Feast of Ashes
+## Mythic Feast of Ashes
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: transmutation (curse)
 **level**:: druid 2, hunter 2, occultist 2, psychic 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a pinch of ash)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Feast of Ashes
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You curse the target with a hunger no food can assuage. On a failed saving throw, the target begins to starve. The effects of this spell cannot inflict more nonlethal damage than the target has hit points. No amount of eating can counter the effect and, further, even attempting to eat causes the target to become nauseated for 1 round unless they make a DC 12 Fortitude save. The target still experiences the other normal effects of anything consumed (such as poisons or potions). *Feast of ashes* can be removed with a *break enchantment*, *limited wish*, *miracle*, *remove curse*, or *wish* spell, but effects suffered as a result of starvation must be healed by normal means.
 

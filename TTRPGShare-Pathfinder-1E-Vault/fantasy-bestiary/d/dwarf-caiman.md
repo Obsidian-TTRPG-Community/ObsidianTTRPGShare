@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dwarf Caiman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 88
 desc_short: This lithe, green-scaled reptile looks like a miniature crocodile with a stunted muzzle.
 ```
-# Description
+## Description
 Dwarf caimans are a small species of crocodilian predators that live amid the fast-running streams of tropical rainforests and swamps. These patient predators sometimes lie in awkward positions for hours before they strike their prey, their mottled scales disguising them as floating wood.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dwarf%20Caiman)
 ```encounter-table
 name: Dwarf Caiman

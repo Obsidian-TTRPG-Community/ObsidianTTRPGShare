@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightripper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,13 +75,13 @@ sources:
     desc: 34
 desc_short: Twin talons attached to grotesque back-appendages drip blood from this hideously emaciated, jackal-legged albino demon.
 ```
-# Description
+## Description
 Even today, centuries after his 13th and final execution, memories of Riktus Scroon continue to haunt the nightmares of those who live along the northern coastlines of the Inner Sea. During his reign of horror, the man who would come to be known as the Nightripper used his position in the now disbanded Graven Guard of Taldor to move along the shipping lanes with ease. His position among the mercenary company afforded him time in countless settlements from Golisfar to Corentyn, and in these unsuspecting towns he hunted. Scroon preferred young victims, that their vanishing would cause the most distress possible-his favorites were young adults freshly in love, although he seemed to have had no preference between man or woman. He abducted his victims with astonishing skill, tormenting them for hours with his blades before leaving them broken and bleeding to death at the bottom of a specially prepared pit far outside of town. The mass murderer was finally captured by Cesandra Dayne, an obsessed priest of Sarenrae who had lost her fiancee and her father to Scroon. Only by forsaking the teachings of her church was she able to trap the murderer in the slums of Almas, and although the resulting fight saw the death of a dozen innocent bystanders, in the end Cesandra had her man alive.
 
 After Scroon was turned over to the law in his hometown of Oppara, the authorities thought to prosecute him for the deaths of no fewer than 46 known victims. When Scroon gleefully bragged of having murdered nearly a thousand men, women, and children, the authorities were eager to write off his ravings, yet after Scroon provided exacting details to the sites of 953 victims, and one after the other his directions led to actual graves, the killer’s sentencing was hastened-death by hanging. Yet Scroon survived. One after the other, attempts to execute the Nightripper failed-headsmen died of fright as they lifted the axe, guillotines malfunctioned, magic failed. Each botched execution left Scroon more disfigured, but his legend grew. The 13th and final execution put the man down once and for all-or so it was hoped.
 
 Scroon’s soul went to the Boneyard, where something amazing happened-he passed through to the Abyss with his mind and memories intact. So remarkable was his retention of his identity that it drew the attention of Lamashtu herself, who pulled the killer’s soul from the shuddersome bosom of the Abyss and made him her personal assassin, raising him from a broken shell of a soul to a nascent demon lord with greater power than he’d ever hoped for in life. His form had changed, transforming into a shape more befitting one of his horrific nature, yet his mind remained sharp and clear. Nightripper harbors a strong desire for revenge, but for now he serves dutifully as Lamashtu’s favored torturer and assassin and as the lord of the dungeons below her palace in the Abyssal realm of Kurnugia. But it is said that someday, when he has repaid his debt to the Mother of Demons for his ascension and rescue from the dregs of the Abyss, the Nightripper will return to his old haunts. Only this time, it will not be individuals he breaks and bleeds and buries in his pits-it will be entire cities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightripper)
 ```encounter-table
 name: Nightripper

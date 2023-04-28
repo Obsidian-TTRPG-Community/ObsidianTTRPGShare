@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rat Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 232
 desc_short: A squirming, roiling mass of squeaking rats draws closer, teeth flashing and claws scratching everything in its path.
 ```
-# Description
+## Description
 A rat swarm typically consists of a biting, roiling mass of hundreds of disease-ridden rats driven to uncharacteristic heights of aggression by fantastic and overwhelming hunger. In such numbers, they become voracious hunters, capable of killing a full-grown human with hundreds of bites. Rat swarms are often found in the sewers of large human settlements.
 
 Rat swarms surround and attack any warm-blooded prey in their path.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rat%20Swarm)
 ```encounter-table
 name: Rat Swarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Storm Aurochs
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 90
 desc_short: Lighting crackles in the eyes of this enormous bull, whose body seems composed of dark storm clouds.
 ```
-# Description
+## Description
 Stampeding across the sky in booming herds, storm aurochs resemble nothing so much as vast and powerful thunderstorms bearing down across Golarion. Storm and cloud giants value these magnificent beasts not only for their meat and hides, but also as symbols of mystic power and divine strength. Though ostensibly domesticated centuries ago by storm giants, storm aurochs remain among the most fearsome and dangerous of the creatures that pass through Golarion’s skies. A storm aurochs is roughly twice the size of a normal aurochs, growing up to 20 feet long and standing 15 feet tall at the shoulder. Storm aurochs weigh on average anywhere from 5 to 7 tons, with females being noticeably smaller and slimmer than males. Both males and females bear prodigious horns atop their heads that crackle with electrical energy, though the female’s horns are slightly smaller.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Storm%20Aurochs)
 ```encounter-table
 name: Storm Aurochs

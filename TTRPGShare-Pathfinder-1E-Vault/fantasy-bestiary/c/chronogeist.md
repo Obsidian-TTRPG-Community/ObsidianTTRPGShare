@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chronogeist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 82
 desc_short: This translucent, orange-tinged creature looks like it was once a living person, though its face is a twisted mask of confusion and terror and its vestments surround 
 ```
-# Description
+## Description
 For thousands of years after it became trapped in Crystilan, Xin-Edasseril existed apart from planar space and time. While the city remained safe from intrusion, its residents were unaware that they were trapped within a temporal prison, replaying the same week-long period over and over. The city’s inhabitants never aged, but the souls of those who died couldn’t escape to the Boneyard. Instead, these trapped souls festered within the demiplane, and over the course of centuries transformed into terrifying, incorporeal undead creatures called chronogeists.
 
  With each week’s reset, the citizens of Crystilan who had perished in the previous incarnation of the city simply vanished from the memories of those who survived, their passage from life to death wiped clean due to the nature of time within the demiplane being constantly reset. Yet sometimes, people would vaguely recall those who had perished in the form of half-remembered dreams, and as the presence of chronogeists slowly grew, theories as to their nature began to spread through the city’s scholars. Some correctly suspected they were tied to a distortion in time, but most believed they were manifestations of dreams or forgotten memories that sought vengeance upon those who had misremembered them. Of course, at the end of every week, with the resetting of time, these theories would all be forgotten.
@@ -63,7 +65,7 @@ For thousands of years after it became trapped in Crystilan, Xin-Edasseril exist
  Now that time once again flows forward normally, newly dead souls in Crystilan don’t become trapped and are free to enter the Boneyard normally. Yet for the hundreds of souls still trapped in a strange limbo as a chronogeist, only the destruction of Crystilan itself can allow their escape to the afterlife.
 
  Chronogeists are incorporeal, and their forms typically resemble far more wicked and angry versions of their appearance before undeath. Unhealthy, pale yellow, or orange lights typically permeate chronogeists, though they flash a gamut of bright colors when they harness the unstable time within them to attack those who disturb them. Chronogeists typically wear ghostly vestments of the clothes they wore when they died or clothing that was heavily associated with them in life, such as a priest’s robes or a soldier’s uniform.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chronogeist)
 ```encounter-table
 name: Chronogeist

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duskwalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 230
 desc_short: This tall, gray-skinned woman’s eyes flicker with determination. Her somber attire is decorated with small bones.
 ```
-# Description
+## Description
 Duskwalkers are tall, bipedal, gray-skinned beings with a connection to Pharasma’s Boneyard. They manifest directly on the Material Plane, incarnating from souls that have earned the honor of a second life. The souls that become duskwalkers have often distinguished themselves in the eyes of psychopomps as guardians of the cycle of birth and death. Other than their gray skin, their physical features bear some resemblance to those they held in their previous lives. As such, a typical duskwalker looks mostly human, other than her unusual coloration. However, duskwalkers whose ancestors belonged to other races can manifest with characteristic features such as pointed ears, hairy feet, or even feathers, horns, scales, or tails-though they rarely manifest smaller or larger than Medium.
 
  The first duskwalkers appeared as the result of a bargain between two powerful psychopomps: an olethros mother and a yamaraj. The olethros mother made the case to allow certain souls whose actions helped preserve and protect the cycle of souls, but whose lives had been cut short of what fate had decreed for them to reincarnate once before passing to their final judgment. After a long debate, the yamaraj agreed but imposed a strict limit on the number of duskwalkers that can exist at one time. Whenever this limit has been reached, dead duskwalkers cannot be restored to life. Most duskwalkers accept this limitation and appreciate that the end of their lives opens the door for new lives to begin. Some request that those mourning their deaths also celebrate the birth of a new duskwalker in the near future. The length of time it takes for a new duskwalker to be born when one dies varies, but is rarely more than a year.
@@ -72,7 +74,7 @@ Duskwalkers are tall, bipedal, gray-skinned beings with a connection to Pharasma
  Despite the prejudices they sometimes face, duskwalkers are typically companionable, open-minded, and accepting of people. They seek friendships and romantic relationships with others of many different races. Many duskwalkers seek to build a family with children at some point in their lives. They grow their families by adopting children from their communities, with a particular preference toward children that other prospective parents may look over. Most have no interest in sexual relationships, though, and no duskwalker is capable of bearing or siring biological children.
 
  Duskwalkers are typically neutral in their alignment, like psychopomps themselves. Those who are not neutrally aligned tend toward good alignments over evil ones. Pharasma is the most popular deity among duskwalkers, but Sarenrae and the empyreal lord Ashava also command sizable followings. Members of a growing contingent of evil duskwalkers have been rejecting their inborn nature entirely, throwing in their lot with the sahkils, who delight in such perversion. These duskwalkers can lose the abilities that help them combat undead and gain powers better suited to inflicting fear, but such choices also have a chance of altering their ward against corruption in a particularly unsettling way. Such duskwalkers inevitably find that not only can they become undead, but that their deaths all but guarantee some form of unnatural unlife after death, often coming back as a ghost without such an entity’s classic inability to travel far from the place of its death.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duskwalker)
 ```encounter-table
 name: Duskwalker

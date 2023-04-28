@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gillman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 310
 desc_short: A handsome, well-formed man walks out of the waves, the gill slits on the side of his neck flexing.
 ```
-# Description
+## Description
 The enigmatic and reclusive gillmen (known to some as “Low Azlanti”) are the aquatic descendants of the vanished Azlanti race. When Earthfall struck Golarion and the continent of Azlant was shattered, most of the Azlanti dwelling died in the fires or drowned in the waves. Yet a number found succor with their undersea aboleth enemies. For reasons that remain unknown to this day (but which surely have nothing to do with compassion), the aboleths rescued a small fraction of these drowning humans, warping their f lesh to help them survive in the aboleths’ uncontested undersea realm. Yet with that action, the aboleths seemed to lose interest, and in the thousands of years that followed, the gillmen formed a society of their own.
 
 Physically, gillmen resemble their ancient ancestors, with expressive brows, pale skin, dark hair, and bright purple eyes. Three slim gills mark each side of their necks, near the shoulder, but they are close enough in appearance to humans that they can pass as such (for a time) without fear of detection.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gillman)
 ```encounter-table
 name: Gillman

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Amargasaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 94
 desc_short: This sauropod has an elongated neck and a long, tapering tail. Two spiny frills run along the back of the creature’s neck.
 ```
-# Description
+## Description
 The amargasaurus is a relatively small sauropod noted for the two rows of skin-covered spines that adorn its neck.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amargasaurus)
 ```encounter-table
 name: Amargasaurus

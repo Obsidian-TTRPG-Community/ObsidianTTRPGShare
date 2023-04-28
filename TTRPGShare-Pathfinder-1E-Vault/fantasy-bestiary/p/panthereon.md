@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Panthereon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,7 +43,7 @@ sources:
     desc: 88
 desc_short: This finely sculpted statue is formed of hardened clay. Its muscular body is topped with the head of a feline predator.
 ```
-# Description
+## Description
 Organization solitary or pride (2-4)
 Treasure noneSpecial AbilitiesCursed Wound (Ex) The damage a panthereon deals doesn’t heal naturally and resists magical healing. A character attempting to use magical healing on a creature damaged by a panthereon must succeed at a DC 26 caster level check, or the healing has no effect on the injured creature.
 
@@ -50,7 +52,7 @@ Eye Beam (Su) Once per round as a standard action, a panthereon can unleash a be
 Haste (Su) After it has engaged in at least 1 round of combat, a panthereon can gain the benefits of haste once per day as a free action. The effect lasts 6 rounds and is otherwise the same as the spell.
 
 Immunity to Magic (Ex) A panthereon is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below. A disintegrate spell slows the golem (as the slow spell) for 1d6 rounds and deals 1d12 points of damage (no save).A soften earth and stone spell cast directly at a panthereon reduces its damage reduction to DR 2/adamantine and bludgeoning for 1d4 rounds.Any magical attack against a panthereon that deals electricity damage heals 1 point of damage for every 3 points of damage it would normally deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A panthereon gets no saving throw against magical attacks that deal electricity damage.DescriptionCarefully constructed to serve as tomb guardians and protectors of their creators and their treasure, panthereons are a variant of clay golems. The majority of these golems were created during the First Age in Osirion, though evidence of their existence has turned up beyond the nation’s borders. A panthereon stands over 8 feet tall and weighs 600 pounds. While its sculpted form may vary, it is typically muscular and wears no clothing save for a simple Osirian skirt.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Panthereon)
 ```encounter-table
 name: Panthereon

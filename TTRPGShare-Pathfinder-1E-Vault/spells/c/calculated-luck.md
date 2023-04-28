@@ -1,19 +1,21 @@
 ---
-alias: Calculated Luck
+aliases: [Calculated Luck]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Calculated Luck 
+## Calculated Luck
 
 **source**:: Occult Mysteries pg. 50  
 **school**:: divination
 **level**:: cleric 3, oracle 3, warpriest 3, witch 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Calculated Luck
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You are able to use the Path of Numbers to substantially boost your combat preparedness, but your foresight comes at a price. Roll 3d8 and refer to the Eight Basic Energies table on page 51. After rolling, assign each die to one of the following.
 

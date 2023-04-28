@@ -1,19 +1,21 @@
 ---
-alias: True Resurrection
+aliases: [True Resurrection]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# True Resurrection 
+## True Resurrection
 
 **source**:: PRPG Core Rulebook pg. 362  
 **school**:: conjuration (healing)
 **level**:: cleric 9, oracle 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M, DF (diamond worth 25,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: dead creature touched  
@@ -21,7 +23,7 @@ alias: True Resurrection
 **saving-throw**:: none, see text
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *raise dead*, except that you can resurrect a creature that has been dead for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased's time and place of birth or death is the most common method).  
   

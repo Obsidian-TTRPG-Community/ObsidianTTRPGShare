@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lich Newt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 82
 desc_short: Two sharp ridges of bone run along the back of this foot-long, black-and-white speckled newt.
 ```
-# Description
+## Description
 Named for their distinctive black-and-white coloration and their opportunistic scavenging, these large amphibians live all along the polluted Inkwater River. A lich newt’s defenses include bony ridges growing along either side of their footlong bodies and a poisonous mucus that causes numbness and muscle spasms. Some humanoid tribes, especially the orcs of the Northern Fangwood Forest, trap these amphibians and refine their poison into weapon blanches and drugs. The desperate even eat lich newts; their poison breaks down if their meat is cooked in vinegar as part of a tough, gamy, but relatively sustaining stew.
 
 After battles waged by warring armies or mercenary bands, lich newts often swarm the rotting corpses, feasting on the softening flesh and hunting the various insects attracted by the carrion. As a result, many Nirmathi believe the newts to be bad omens, a legacy of Tar-Baphon, or otherwise associated with necromancy. Lich newt familiars are popular with wizards and witches who care more about the creatures’ reputation than their true nature as bottom-feeders and scavengers. An arcane caster who selects a lich newt as his familiar gains a +2 bonus on Fortitude saves against disease and poison.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lich%20Newt)
 ```encounter-table
 name: Lich Newt

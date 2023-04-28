@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Alchemical Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 135
 desc_short: A rickety construction of glass tubing, metal, and wood convey the brain and two eyes afloat in this figure’s glass skull.
 ```
-# Description
+## Description
 This golem is a walking alchemical nightmare, capable of inflicting all manner of painful wounds on its foes. Its ability to follow orders is granted by the otherwise mindless humanoid brain that floats in its dome-like head, while its animating force is a curious combination of alchemy and elemental spirits bound into the fluids and metals of its body.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Alchemical%20Golem)
 ```encounter-table
 name: Alchemical Golem

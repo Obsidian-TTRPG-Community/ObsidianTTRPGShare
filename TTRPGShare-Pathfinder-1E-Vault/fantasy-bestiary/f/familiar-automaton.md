@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Familiar Automaton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 24
 desc_short: This small construct resembles a house cat. It bears elaborate markings, and the core in its head glows with a warm light.
 ```
-# Description
+## Description
 Familiar automatons were the most common of the automatons created within the Jistkan Imperium. The Artificer Conclave found itself overwhelmed with requests to join the group from hundreds of individuals they deemed unworthy of the more powerful automaton frames. Rather than turn these individuals away and risk the ire of so many Jistkans, the Conclave decided instead to transplant the majority of these individuals into familiar automatons. These familiars also served as a way for the Conclave to test new technologies and perfect the creation of automaton cores.
 
  All interested citizens were accepted to become familiar automatons so long as they could afford their automaton frame and the automaton core, though some were granted free of charge in order to allow further experimentation. As these automatons served as prototypes for a number of different technologies, most of the first few generations of familiars quickly failed and left their cores stranded without a body. The majority of these stranded cores were hidden away or used as parts in further research. Thanks to breakthroughs made with the aid of these cores, future generations of automatons were more stable and had the potential to remain intact indefinitely. A few existing accounts of automaton core creation reference some cores activating before their creation was complete, seemingly activated by the will of an individual lost from an early generation, though no records corroborate these notes.
@@ -81,7 +83,7 @@ Familiar automatons were the most common of the automatons created within the Ji
  While most familiar automatons remain on Golarion, a sizable number reside elsewhere throughout the Great Beyond. The city of Axis houses quite a few familiar automatons, relaxing in peace as they go unnoticed among the strange citizens of the Eternal City. They tend to serve as messengers between the city’s denizens, especially other automatons, an exception to most who tend to avoid others of their kind. Among champion automatons, familiars serve as chroniclers, recording great battles and sharing them with other champions; among stalkers, familiars usually act as solving to solve feuds or overseeing two hunters staging contests of skill where the familiar automaton serves as an impartial judge.
 
  The Boneyard also contains a surprising number of familiar automatons. Here, the constructs walk among the souls awaiting judgment, serving as temporary companions for petitioners. The nature of a petitioner’s memory means that the petitioner usually does not recognize a familiar automaton but still retains a strong association with a beloved pet from its former life. This association provides comfort for especially distressed petitioners. Thanks to their ability to ease wary souls, a few catrina psychopomps establish friendships with familiar automatons, the two working in tandem to make the wait for judgment as painless as possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Familiar%20Automaton)
 ```encounter-table
 name: Familiar Automaton

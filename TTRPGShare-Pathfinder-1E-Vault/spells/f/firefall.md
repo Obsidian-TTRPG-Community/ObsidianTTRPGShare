@@ -1,19 +1,21 @@
 ---
-alias: Firefall
+aliases: [Firefall]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Firefall 
+## Firefall
 
 **source**:: Advanced Player's Guide pg. 222  
 **school**:: transmutation (fire)
 **level**:: arcanist 4, bloodrager 4, magus 4, redmantisassassin 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (one fire source)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one fire source, up to a 20-foot cube  
@@ -21,7 +23,7 @@ alias: Firefall
 **saving-throw**:: Will negates and Reflex negates, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Firefall* causes a fire to erupt into a geyser of dazzlingly bright liquid flame. The spell uses one fire source, which is immediately extinguished. A fire larger than a 20-foot cube is only partly extinguished. Magical fires are not extinguished, but a creature of the fire subtype used as the source takes 1 point of damage per caster level (no saving throw).  
   

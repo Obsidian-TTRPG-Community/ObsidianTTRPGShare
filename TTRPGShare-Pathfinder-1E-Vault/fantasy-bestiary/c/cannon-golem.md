@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cannon Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 135
 desc_short: This collection of jagged metal rears up into a humanoid form, its enormous cannon tracking movement with mechanical precision.
 ```
-# Description
+## Description
 A cannon golem’s internal workings are a mechanical labyrinth; its extradimensional pockets constantly process new black powder. A cannon golem stands 12 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cannon%20Golem)
 ```encounter-table
 name: Cannon Golem

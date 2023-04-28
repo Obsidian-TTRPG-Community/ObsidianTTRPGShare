@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sacred Killer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: NPC Codex
     desc: 208
 ```
-# Description
+## Description
 Most evil temples and cults use sacred killers to enforce their twisted will or to eliminate annoying enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sacred%20Killer)
 ```encounter-table
 name: NPC Sacred Killer

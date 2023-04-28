@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Barbatos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 18
 desc_short: This humanoid wears a shabby hooded cloak. Within the darkness of its hood, eerie eyes glow and strange shapes twitch.
 ```
-# Description
+## Description
 Barbatos is a mystery among the lords of Hell, a being from beyond who came into the service of Asmodeus a mere millennium ago. Technically not a devil, Barbatos is nonetheless the archdevil of the uppermost layer of Hell. Since his arrival, he has served as the doorwarden of Hell, guarding its outer layer from angelic invasions and fiendish forays alike, and dealing with an endless stream of damned souls needing guidance to their final purgatory and tearful petitioners willing to risk everything for one final glimpse of their lost loves. 
 
 Barbatos dresses plainly, rarely showing more than his wicked staff and rumpled cloak, and stands 5 feet tall
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Barbatos)
 ```encounter-table
 name: Barbatos

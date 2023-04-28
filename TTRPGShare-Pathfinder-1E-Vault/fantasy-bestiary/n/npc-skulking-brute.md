@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Skulking Brute
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: NPC Codex
     desc: 144
 ```
-# Description
+## Description
 The skulking brute extorts illegal tolls from travelers, attacking those who refuse to pay.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Skulking%20Brute)
 ```encounter-table
 name: NPC Skulking Brute

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Repel Wood
+aliases: [Mythic Repel Wood]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Repel Wood
+## Mythic Repel Wood
 
 **source**:: Mythic Adventures pg. 105  
 **school**:: transmutation
 **level**:: druid 6, hunter 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: 60-ft. line-shaped emanation from you  
@@ -21,7 +23,7 @@ alias: Mythic Repel Wood
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Waves of energy roll forth from you, moving in the direction that you determine, causing all wooden objects in the path of the spell to be pushed away from you to the limit of the range. Wooden objects larger than 3 inches in diameter that are fixed firmly are not affected, but loose objects are. Objects 3 inches in diameter or smaller that are fixed in place splinter and break, and the pieces move with the wave of energy. Objects affected by the spell are repelled at the rate of 40 feet per round.  
   

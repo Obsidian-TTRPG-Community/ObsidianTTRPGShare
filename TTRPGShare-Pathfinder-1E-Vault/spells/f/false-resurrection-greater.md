@@ -1,19 +1,21 @@
 ---
-alias: False Resurrection, Greater
+aliases: [False Resurrection, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# False Resurrection, Greater 
+## False Resurrection, Greater
 
 **source**:: Ultimate Intrigue pg. 214  
 **school**:: conjuration (calling) (evil, lawful, ruse)
 **level**:: cleric 9, oracle 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V. S. M (diamond worth 25,000 gp), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: dead creature touched  
@@ -21,7 +23,7 @@ alias: False Resurrection, Greater
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions as false resurrection except that it calls a belier devil with the young simple template (*Pathfinder RPG Bestiary 2 85, 292*) to possess the body and all parts of *false resurrection* that function like *resurrection instead function like *true resurrection*.  
   

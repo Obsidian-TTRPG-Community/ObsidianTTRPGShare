@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sump Steward
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 88
 desc_short: This hunched giant has spindly limbs covered in moss and a riot of vines and mushrooms for a torso. It has two bright red mushrooms growing where its eyes should be, and it sports a long beard of woven grass.
 ```
-# Description
+## Description
 Hidden away in deep caverns or under the shade of mangroves in isolated swamps, sump stewards hum songs while they dutifully tend to verdant colonies of mushrooms and fungi. Vaguely humanoid in form, sump stewards carry old tree trunks, rotting logs, or other large tools to help them tend and protect these colonies while they make their rounds. As they work, they sing low, thrumming tunes that echo throughout their domain. Sump stewards-who, despite their intelligence, have no name for themselves and only indifferently acknowledge the names given by other races-have long, spindly limbs that possess great strength. Their form consists of mosses and lichens, with vines wrapping their bodies and holding them together. Mushrooms sprout all over the sump steward’s form, although two red mushrooms glow where eyes would be. Some sump stewards grow long beards made of interwoven moss or grass.
 
  A sump steward stands almost 15 feet tall, though they are frequently hunched over and seem shorter. They weigh approximately 1,400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sump%20Steward)
 ```encounter-table
 name: Sump Steward

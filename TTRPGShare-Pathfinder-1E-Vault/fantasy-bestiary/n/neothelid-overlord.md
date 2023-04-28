@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Neothelid Overlord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 36
 desc_short: Two disgusting heads rise above this enormous mass of slime-drenched coils and slithering tentacles.
 ```
-# Description
+## Description
 Those who have learned secrets of the deepest vaults of Orv know of the neothelids of Denebrum. In fetid pools of poisonous swamps and surreal forests of twisted, phosphorescent fungi, these gigantic worm-things rule and wage war against Orv’s other denizens and each other. While most know that the neothelids are ancient creatures, spawned by eldritch beings in a time and place far removed from the known world, very few are aware that some neothelids are old beyond imagining. In their eons of existence, they have changed, surviving the centuries of mindless hunger that drives the youngest of their kind and ultimately defeating enough of their peers to become truly hideous masters of the damp, nearly lightless depths of Orv.
 
 Scholars of such lore can only speculate as to what causes a neothelid to begin the transformation into an overlord. The change could be a natural process of age and development, though nothing about neothelids can truly be called natural. It may be that by delving into forbidden lore, they discover potent secrets, just as other rituals grant mortals the hideous power of lichdom. It might instead be that overlords’ ascendant power comes from some link to the blasphemous entities they venerate, a connection that only the most dedicated among the neothelids are able to cultivate. Whatever the cause, the result is terrifying-even maddening-to behold.
@@ -84,7 +86,7 @@ Neothelid overlords undergo other physical changes as well. Although they do not
 Neothelid overlords rise to become tyrannical rulers, directing less developed members of their race toward goals that no healthy mind can fathom. They reinforce their power over subordinates through manipulation and punitive displays of power, believing that fear of random-appearing punishments keeps their followers in line even when they are not under observation. Most assume that neothelid overlords serve either their own whims or those of the ones they worship-the shapeless and terrible entities of the Dark Tapestry that created neothelids and countless other horrors in the darkest reaches of space and time. Few who know of these monsters, though, dare to think that their purposes are anything but anathema to normal life whether aboveground or belowground.
 
 In The Dream Diary of Lady Elliara Celmenari, written in 3875 ar, the Taldan author claims to have visited Denebrum while in an astral form and to have seen at least one neothelid overlord. Her writings depicts the creature as guarding the resting place of two dormant bholes (Pathfinder RPG Bestiary 4 18). The text describes the overlord sending out madness-inducing offspring into the world to find a means of awakening and controlling the legendary beasts. Most learned folk attribute Lady Celmenari’s dreams of doom and destruction to a chronic nervous condition, compounded by the impending collapse of Taldan supremacy. But in recent years, rumors have come to light indicating that a certain cult of Groetus is working with agents of a mysterious and unwholesome nature toward a similar goal, which has dangerous implications for all of Golarion. To occult scholars, visions and whispers such as these serve as further evidence that terrible things wait in the dark places of the multiverse and must be opposed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Neothelid%20Overlord)
 ```encounter-table
 name: Neothelid Overlord

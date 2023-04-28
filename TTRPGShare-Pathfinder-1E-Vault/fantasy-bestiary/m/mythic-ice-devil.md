@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Ice Devil
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 186
 desc_short: Frozen barbs cover the almost skeletal form of this mantis-like creature, and its icy eyes shine with fiendish intelligence.
 ```
-# Description
+## Description
 A mythic ice devil is a master of strategy, able to adapt to the nature of its opponents and turn its enemy’s attacks back at them. Its lean form and upright posture sets it apart from the stockier non-mythic ice devils.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Ice%20Devil)
 ```encounter-table
 name: Mythic Ice Devil

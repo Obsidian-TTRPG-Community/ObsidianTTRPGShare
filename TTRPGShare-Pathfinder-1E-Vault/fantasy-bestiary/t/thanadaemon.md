@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thanadaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 74
 desc_short: Rattling with each stride, this looming, horned, skeletal figure clutches a wicked staff. A seething glow burns in its eye sockets. 
 ```
-# Description
+## Description
 While all daemons represent death in some fashion, thanadaemons, the Deacons of Death, represent the inevitable death through old age. Thanadaemons effortlessly work eerie skiffs along every pus- and bile-choked river in Abaddon, including the legendary River Styx. For the right price (typically 50 pp or 2 gems worth at least 300 gp each), a thanadaemon will even carry passengers on its skiff, yet those who travel with these fiends should beware-they frequently renegotiate the terms once they’ve got their passengers in dangerous realms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thanadaemon)
 ```encounter-table
 name: Thanadaemon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Comozant Wyrd
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 82
 desc_short: The only real feature of this flaring of electrical energy is a vaguely humanoid face that flickers and plays within its shifting mass.
 ```
-# Description
+## Description
 A comozant wyrd appears to be 3 feet of buzzing, heatless blue or green plasma. Creatures near it find their hair standing on end and their bodies crawling with harmless but unnerving sparks. Those who have “conversed” with a comozant using illuminating flames say it uses pure emotion and image as concept and word-a mixture of knowledge and ignorance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Comozant%20Wyrd)
 ```encounter-table
 name: Comozant Wyrd

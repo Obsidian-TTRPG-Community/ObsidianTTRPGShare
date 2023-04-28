@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Basilosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 193
 desc_short: This immense primeval whale has a sleek body that looks more serpentine than mammal, and jaws filled with sharp teeth.
 ```
-# Description
+## Description
 Despite their saurian name, basilosauruses are in fact oceanic mammals, and at 60 feet in length are highly formidable beasts of the sea. In appearance, they resemble greatly elongated whales, but with long, 
 
 toothed jaws resembling an alligator’s. Inexperienced observers often confuse a basilosaurus with a sea serpent or water orm-and in all fairness, in the aftermath of a basilosaurus attack on an unsuspecting ship, such distinctions are largely academic anyway.
 
 A basilosaurus relies as much on vision as echolocation to find prey, but sometimes mistakes smaller ships for food. Basilosauruses have few natural predators; only supernatural monsters like krakens, thalassic behemoths, and the largest of sea serpents can truly threaten a fully grown one.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Basilosaurus)
 ```encounter-table
 name: Basilosaurus

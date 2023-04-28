@@ -1,19 +1,21 @@
 ---
-alias: Elemental Bombardment
+aliases: [Elemental Bombardment]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Elemental Bombardment 
+## Elemental Bombardment
 
 **source**:: Mythic Origins pg. 14  
 **school**:: conjuration (summoning) \[see text\]
 **level**:: arcanist 7, druid 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: one or more summoned elementals  
@@ -21,7 +23,7 @@ alias: Elemental Bombardment
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You summon elementals from their elemental planes and hurl them onto your enemies with great force. You must have line of effect to a point at least 60 feet above your intended targets and within the spell’s range. You can summon one greater elemental, two Huge elementals, four Large elementals, or eight Medium elementals. You aim the elementals at targets within 60 feet of each other, no more than one elemental per target.  
   
@@ -52,7 +54,7 @@ You must select one type of elemental to summon when casting this spell (see the
 | Mud^B2^            | Bludgeoning and entrap\*        |
 | Water              | Bludgeoning and drench\*        |
 
-## Mythic Elemental Bombardment 
+## Mythic Elemental Bombardment
 
 **source**:: Mythic Origins pg. 14  
 If you expend one use of mythic power, you can summon a combination of differently sized elementals of up to two different types, as long as their total number does not exceed the original limit. For example, you could summon one Huge air elemental and two Large fire elementals, or one Large water elemental and six Medium earth elementals.  

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Treant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 218
 desc_short: Standing upright and powerful, this mighty tree-person channels nature’s fury into green energy in its gnarled hands.
 ```
-# Description
+## Description
 A mythic treant is an ancient entity granted power by a deity or magical pool. They’re the shepherds of forests, and even less likely to converse with shortlived races.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Treant)
 ```encounter-table
 name: Mythic Treant

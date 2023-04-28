@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Redcap
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 80
 desc_short: Like some miniscule, wicked old man, this snarling little humanoid wears metal boots and a blood-red pointed cap.
 ```
-# Description
+## Description
 Redcaps embody both capriciousness and sadism. These stumpy, misanthropic fey freaks exist seemingly to indulge in blissful bloodletting and self-indulgent slaughter. Like prune-faced, angry old men, they mollycoddle their own inefficiencies and miseries in gore. Redcaps are most widely recognized for their long woolen caps, which they drench in the blood of their victims. Rumors and fairy stories abound concerning rituals and the cultural significance of their blood-soaked caps, though the practice likely evolved as an easy way for the brutish runts to create both fear and spectacle. Redcaps typically stand only 3 feet tall, with twisted frames, pointed ears, and long white beards. They dress in soiled leather armor and wear oversized, iron-shod boots that make a distinctive clanging when they run.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Redcap)
 ```encounter-table
 name: Redcap

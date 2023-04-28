@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fluxwraith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 86
 desc_short: This hovering, translucent humanoid appears to sleep serenely, even as shards of flickering energy encircle it, each fragment reflecting younger or older versions of itself.
 ```
-# Description
+## Description
 A fluxwraith is an incorporeal undead with a host of extraordinary powers owing to its singular status as a time-displaced entity. Its serene appearance and dreamlike demeanor harken to its origins, for in life it slept away the centuries in a state of magical or technological stasis. Now, whether by accident or malign intent, the fluxwraith’s soul lies scattered across the timestream. Demented by its paradoxical consciousness, it yearns to destroy any living being audacious enough to exist within a single point of time.
 
  Because its appearance depends upon its state when it first entered suspended animation, viewers may sometimes be able to deduce clues about its former life, as well as its motivations for entering hibernation. Some seek interminable sleep while they are in the prime of life, aiming to awaken and embrace immortality as a perfect specimen, while others hope to defer a terminal diagnosis. However, the sleeper’s motivations in life seldom define a fluxwraith’s outlook, as the process of becoming undead erases all but the most deeply ingrained mortal traits.
@@ -69,7 +71,7 @@ A fluxwraith is an incorporeal undead with a host of extraordinary powers owing 
  The first hint of the fluxwraith’s destructive nature manifests in the caul of energy that winks on and off around it. This ever-shifting network of temporal energy contains fragments of its consciousness, appearing as flickering aspects of itself as a youth, an adult, or a corpse. Scrutinizing these vignettes may provide further clues about the fluxwraith’s former existence, although any creature that enters the fluxwraith’s aura, or any creature affected by its attacks, may begin to see its own reflections appear within the shards as well. These disturbing images depict a creature not as it is, but as the fluxwraith perceives it in the past or future.
 
  Fluxwraiths tend to speak ancient or dead languages, often murmuring incomplete or garbled statements that blend past and future tenses in unsettling ways.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fluxwraith)
 ```encounter-table
 name: Fluxwraith

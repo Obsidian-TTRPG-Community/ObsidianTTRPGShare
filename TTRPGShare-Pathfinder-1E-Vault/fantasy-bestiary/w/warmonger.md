@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warmonger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 274
 desc_short: This massive wood-and-metal giant wields a scythe, a wicked spiked wrecking ball, an immense pick, and a huge crossbow.
 ```
-# Description
+## Description
 Warmongers are the scourges of battlefields, unleashed by creators seeking decisive ends to large-scale conflicts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warmonger)
 ```encounter-table
 name: Warmonger

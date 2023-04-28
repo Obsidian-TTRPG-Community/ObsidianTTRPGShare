@@ -1,19 +1,21 @@
 ---
-alias: Phantom Steed
+aliases: [Phantom Steed]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantom Steed 
+## Phantom Steed
 
 **source**:: PRPG Core Rulebook pg. 319  
 **school**:: conjuration (creation)
 **level**:: arcanist 3, bard 3, bloodrager 3, magus 3, occultist 3, skald 3, sorcerer 3, spiritualist 3, summoner 2, summoner (unchained) 2, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: one quasi-real, horselike creature  
@@ -21,7 +23,7 @@ alias: Phantom Steed
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure a Large, quasi-real, horselike creature (the exact coloration can be customized as you wish). It can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it.  
   
@@ -37,10 +39,9 @@ These mounts gain certain powers according to caster level. A mount's abilities 
   
 *14th Level*: The mount can fly at its speed with a bonus on Fly skill checks equal to your caster level.
 
-## Mythic Phantom Steed 
+## Mythic Phantom Steed
 
 **source**:: Mythic Adventures pg. 103  
 The steed’s rider automatically succeeds at Ride checks to remain mounted. The mount’s hit points increase to 10 plus 2 per caster level, and its speed increases to 30 feet per 2 caster levels (maximum 150 feet).  
   
 **Augmented (3rd)**: If you expend two uses of mythic power, the phantom steed is incorporeal, but its rider can interact with it normally.
-

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Feather Fall
+aliases: [Mythic Feather Fall]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Feather Fall
+## Mythic Feather Fall
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: transmutation
 **level**:: arcanist 1, bard 1, bloodrager 1, magus 1, occultist 1, psychic 1, redmantisassassin 1, skald 1, sorcerer 1, spiritualist 1, summoner 1, summoner (unchained) 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 immediate action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart  
@@ -21,7 +23,7 @@ alias: Mythic Feather Fall
 **saving-throw**:: Will negates (harmless) or Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 The affected creatures or objects fall slowly. *Feather fall* instantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet), and the subjects take no damage upon landing while the spell is in effect. When the spell duration expires, a normal rate of falling resumes.  
   

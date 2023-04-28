@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hekatonkheires
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 268
 desc_short: This behemoth looks like a towering humanoid with fifty heads and twice as many hands, each wielding a different weapon.
 ```
-# Description
+## Description
 Horrifying abominations shunned by the gods immediately upon their creation, the hekatonkheires are perhaps the most powerful and devastating race of titans in existence. When the titans-envious of the gods’ divine strength-rebelled against the deities, the hekatonkheires were among the first to pick up arms, weary of the scorn their own creators felt for them. The betrayal of the Elysian titans led to the hekatonkheires’ swift capture by the gods, who found the hekatonkheires’ power to be so immense that they were not banished to the Abyss with their Thanatotic brethren. Instead, the gods cast the hekatonkheires into the furthest reaches of the multiverse they could find. There, the hekatonkheires drifted in expanses of nothingness for unknown eons, and the madness wrought upon them by isolation destroyed their memories. Yet from their madness these shattered monstrosities spawned progeny to replace them in their pursuit to destroy, and some of these monstrous offspring discovered ways to break through planar boundaries and wander the multiverse freely.
 
 The gods initially created only three hekatonkheires, seeking to make the ultimate warriors in order to guard the gates to the Abyss. These three ancient titans still drift in the unknown expanses between planes-the hekatonkheires that now walk the worlds are their lesser spawn. But these so-called “lesser” titans remain almost unimaginably powerful themselves. They have no knowledge of why their forgotten ancestors were originally banished, and so they wander in search of answers, all the while destroying entire worlds. They are warped engines of mayhem, their existence based wholly on the devastation of life and anything that might remind them of their age-old war against the gods, having inherited only the haunting ghosts of such memories from their ancestors.
@@ -85,7 +87,7 @@ A hekatonkheires can only be called via mighty spells such as gate if a conjurer
 Each hekatonkheires has 50 heads and 100 arms so that one is never caught off guard. The stones that it hurls with its 100 hands are as big as boulders, and those who have seen a hekatonkheires hurl such rocks and lived to tell the tale have said that it is as though an entire mountain is falling from the sky. In addition to their unworldly strength, hekatonkheires are known for their awesome control over the powers of lightning and thunder, and an individual hekatonkheires’s arrival is often prefaced by an abrupt and tumultuous storm in the area. Like all titans, hekatonkheires are immortal, and do not die unless they are slain.
 
 A hekatonkheires is 50 feet tall and weighs 25 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hekatonkheires)
 ```encounter-table
 name: Hekatonkheires

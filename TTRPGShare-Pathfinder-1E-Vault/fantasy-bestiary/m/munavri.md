@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Munavri
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 34
 desc_short: Jade armor covers this lean albino humanoid, and her pale eyes have an eerie gleam.
 ```
-# Description
+## Description
 These pale humanoids, who hail from the distant shores of strange subterranean oceans, have long warred against the encroaching urdefhans (Pathfinder RPG Bestiary 2 276). Munavris pilot violet-sailed, intricately carved ivory ships across the inky black depths of underground oceans and are adept at lightless naval battles. They sometimes find allies among the dark folk, but such pacts are far from universal and are marked by distrust.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Munavri)
 ```encounter-table
 name: Munavri

@@ -1,25 +1,27 @@
 ---
-alias: Meld into Stone
+aliases: [Meld into Stone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Meld into Stone 
+## Meld into Stone
 
 **source**:: PRPG Core Rulebook pg. 312  
 **school**:: transmutation (earth)
 **level**:: cleric 3, druid 3, hunter 3, oracle 3, psychic 3, warpriest 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 10 min./level
 
-### Description 
+### Description
 
 *Meld into stone* enables you to meld your body and possessions into a single block of stone. The stone must be large enough to accommodate your body in all three dimensions. When the casting is complete, you and not more than 100 pounds of nonliving gear merge with the stone. If either condition is violated, the spell fails and is wasted.  
   

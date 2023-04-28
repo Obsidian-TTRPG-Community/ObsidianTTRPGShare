@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Joyful Thing
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 57
 desc_short: This sluglike humanoid has neither arms nor legs and is covered in spiked, rusted chains. Its lolling tongue drips with thick saliva.
 ```
-# Description
+## Description
 The most dedicated of Zon-Kuthon’s faithful sometimes undergo a brutal ritual in which their limbs are amputated and their nonvital organs are removed. This imbues the so-called Joyful Things with powers drawn from the Plane of Shadow but also makes them embodiments of pain, sacrifice, and the eternal torment that awaits Kuthites in the afterlife. These exemplars of the Midnight Lord’s glorious suffering hold positions of influence among other Kuthites, and any temple that hosts one or more Joyful Things is considered blessed by the god of darkness.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Joyful%20Thing)
 ```encounter-table
 name: Joyful Thing

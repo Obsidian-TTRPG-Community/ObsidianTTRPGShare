@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nihiloi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 86
 desc_short: A mass of black, bramble-like tentacles writhes from the back of this vague, shifting humanoid. Inky skin covers the creature, and ebon claws curve long and thin from the tips of its fingers. Numerous tendrils of wispy shadow hold the creature aloft while others rise above its shoulders in strange, wriggling wings.
 ```
-# Description
+## Description
 Violent xenophobes, the creatures typically called nihilois, devashades, or shadow lords pose a rising threat to interlopers into their umbral realm. In ages immemorial, these creatures enjoyed vast empires upon the mysterious Plane of Shadow, but through the millennia incursion by immigrants and interlopers have eroded their way of life and scattered their numbers. In the face of spellcasters from the Material Plane striding across their homeland-using it as little more than a umbral thoroughfare-and whole terrible races like kytons migrating to their native reaches, the nihilois have long retreated into the deepest darknesses of their realm. Yet as alien encroachment continues, slowly the nihilois have revealed themselves, and found to their surprise that they are powerful and feared.
 
 Nihilois-as the first travelers from Golarion termed them, believing them to be members of an ancient mythical race-resemble gaunt, vaguely humanoid creatures shrouded in ever-writhing shadow stuff with fountains of dark tendrils jutting from their backs. They often hold these thin limbs in tight bunches that appear like strange, dense wings, but unfurl them easily and with shocking speed to lash out against their enemies. Unable to vocalize words, nihilois are widely distrusted by creatures foreign to the Plane of Shadow. Even a pair of the shadowy natives is unsettling to those encountering them for the first time as they silently gesture and nod, holding secret councils few others can understand. Creatures frequently interacting with them know the nihilois have a shared name for their race, though since these creatures speak only telepathically, the term sounds more like the passage of massive wings than a word pronounceable in most sentient tongues.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nihiloi)
 ```encounter-table
 name: Nihiloi

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Chameleon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 186
 desc_short: Nearly invisible in its surroundings, this scaly lizard’s eyes dart about independently of each other.
 ```
-# Description
+## Description
 These large lizards have the ability to shift the pigments in their skin to match their surroundings. A giant chameleon is typically 11 feet long and weighs 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Chameleon)
 ```encounter-table
 name: Giant Chameleon

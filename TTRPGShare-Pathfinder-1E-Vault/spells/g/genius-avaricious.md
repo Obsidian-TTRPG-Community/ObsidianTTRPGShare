@@ -1,19 +1,21 @@
 ---
-alias: Genius Avaricious
+aliases: [Genius Avaricious]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Genius Avaricious 
+## Genius Avaricious
 
 **source**:: Pathfinder \#30: The Twice-Damned Prince pg. 69  
 **school**:: conjuration (creation) (evil)
 **level**:: arcanist 6, cleric 6, oracle 6, sorcerer 6, warpriest 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (valuable offerings; see text), F (one gold coin)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **effect**:: a vestige of the archdevil Mammon imbues a coin with a negotiable degree of power  
@@ -21,7 +23,7 @@ alias: Genius Avaricious
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Casting this spell constitutes performing a rite of sacrifice to the archdevil Mammon, making an offering to the Lord of Erebus and channeling a measure of his disembodied might into a single coin. The power and abilities of this vestige correspond directly to the value of the offering, allowing for three distinct effects.  
   

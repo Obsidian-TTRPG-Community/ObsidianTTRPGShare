@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Fly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 84
 desc_short: Bristling with coarse hairs, this enormous fly’s legs twitch just before it launches into the air on buzzing wings.
 ```
-# Description
+## Description
 Much like their tiny cousins, giant flies feed upon carrion. Wholly monstrous, these disgusting creatures have been known to sometimes attack still-living foes, particularly when they are hungry or living creatures disturb their meals. Some species of giant fly bear their larva live, ejecting piles of undulating giant maggots from their engorged abdomens rather than laying eggs in decaying corpses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Fly)
 ```encounter-table
 name: Giant Fly

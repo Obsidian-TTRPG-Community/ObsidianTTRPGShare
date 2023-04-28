@@ -1,25 +1,27 @@
 ---
-alias: Orchid's Drop
+aliases: ["Orchid's Drop"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Orchid's Drop 
+## Orchid's Drop
 
 **source**:: Inner Sea Magic pg. 59  
 **school**:: transmutation
 **level**:: alchemist 3, investigator 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a much-diluted drop of sun orchid nectar worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level
 
-### Description 
+### Description
 
 Alchemists have tried for centuries to recreate Artokus Kirran’s feat of genius that created the *sun orchid elixir*. Although they have yet to unlock the elixir’s exact formula, their efforts have not been entirely wasted. One by-product of their experiments was the *orchid’s drop* formula. This extract, distilled from a much-diluted drop of the nectar of a sun orchid flower, can transform an alchemist’s mutagen into a potent healing tonic.  
   

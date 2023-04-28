@@ -1,25 +1,27 @@
 ---
-alias: Paragon Surge
+aliases: [Paragon Surge]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Paragon Surge 
+## Paragon Surge
 
 **source**:: Advanced Race Guide pg. 48  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 3, arcanist 3, bloodrager 3, cleric 3, investigator 3, magus 4, medium 3, oracle 3, paladin 4, redmantisassassin 3, sorcerer 3, warpriest 3, witch 3, wizard 3 (half-elf)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal (half-elf only)  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. Unlike with most polymorph effects, your basic form does not change, so you keep all extraordinary and supernatural abilities of your half-elven form as well as all of your gear.  
   

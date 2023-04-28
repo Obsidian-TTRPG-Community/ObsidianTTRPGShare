@@ -1,19 +1,21 @@
 ---
-alias: Snow Shape (Ulfen)
+aliases: [Snow Shape (Ulfen)]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Snow Shape (Ulfen) 
+## Snow Shape (Ulfen)
 
 **source**:: Humans of Golarion pg. 29  
 **school**:: transmutation (water)
 **level**:: arcanist 2, cleric 2, druid 1, hunter 1, oracle 2, redmantisassassin 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a miniature shovel)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: snow or snow-sculpted object touched, up to 5 cubic ft. + 1 cubic ft./level  
@@ -21,7 +23,7 @@ alias: Snow Shape (Ulfen)
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 In frozen northern lands, where the earth may be hidden beneath heavy drifts of snow, Ulfen druids developed a variation of *stone shape* that other spellcasters have since learned.  
   

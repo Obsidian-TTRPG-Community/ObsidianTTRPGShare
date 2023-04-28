@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Heresy Devil (Ayngavhaul)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 56
 desc_short: Seemingly fused with a monstrous iron throne, this impossibly corpulent being floats several feet off the ground.
 ```
-# Description
+## Description
 Bloated scholars of despair, ayngavhauls collect, create, and spread heresies and apocrypha, sowing disbelief and corruption among all who would seek their foul wisdom.
 
 Ayngavhauls are roughly ovular in form, about 10 feet tall with their rolls of wet gristle spreading 13 feet wide.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Heresy%20Devil%20(Ayngavhaul))
 ```encounter-table
 name: Heresy Devil (Ayngavhaul)

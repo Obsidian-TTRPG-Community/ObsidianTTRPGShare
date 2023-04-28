@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hishandura
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 82
 desc_short: This muscular fiend has two vertically mirrored faces, four arms, and a quartet of sinister punching daggers
 ```
-# Description
+## Description
 Ages ago, a short-sighted god sought to punish his flock for a perceived slight, infusing a champion with a fragment of his power and sending it to wreak havoc. The champion did as commanded, tearing apart the faithful and showering their city with blood. The deity heard the tearful cries of the mortals, pleading for mercy and insisting that any kindly god would never visit such hatred upon his people. The god felt an upwelling of shame for having engineered such violence, but rather than accept responsibility or undo the damage, the god appeared before the city and forsook the divine champion, insisting that it was a raving beast sent by some less caring patron than himself. Empowered by their lying god’s words and magic, the people praised him, rallied, and killed the champion. From this act of betrayal-and the remains of the slaughtered champion-rose the first hishandura.
 
  Hishanduras are 13 feet tall and weigh 1,800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hishandura)
 ```encounter-table
 name: Hishandura

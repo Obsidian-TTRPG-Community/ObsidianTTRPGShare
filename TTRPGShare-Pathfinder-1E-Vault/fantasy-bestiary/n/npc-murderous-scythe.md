@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Murderous Scythe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
   - name: NPC Codex
     desc: 210
 ```
-# Description
+## Description
 Many of these murderers serve as assassins for dark druid circles or dominate savage humanoid tribes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Murderous%20Scythe)
 ```encounter-table
 name: NPC Murderous Scythe

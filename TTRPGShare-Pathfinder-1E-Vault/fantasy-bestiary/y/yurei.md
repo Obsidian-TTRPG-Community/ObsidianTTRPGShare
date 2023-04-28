@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yurei
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 286
 desc_short: Long black hair obscures the face of this pale woman. With each motion, her body twitches and jerks.
 ```
-# Description
+## Description
 When a person dies a violent death in the grip of extreme emotion, such as in a blinding rage or in overwhelming sorrow, she may return from the dead as a twisted and horrific undead creature known as a yurei. These restless spirits remain consumed by the emotional torment that pervaded their demise, and can feel a measure of peace only while causing other creatures to suffer as they did. To accomplish this, they haunt the people and places they knew in life in search of fresh victims for their painful grasp. Regardless of whether she received a proper burial or not, a yurei always appears dressed in the remnants of funereal clothing, with her face obscured by long black hair. Often, the restless spirit seems to be dripping wet or caked with mud or filth, or displays other distressing signs of neglect. Her body can also appear contorted or disjointed, reflecting the pain that twists her very existence. When a yurei uses nightmare, she typically creates dreams wherein the target is placed in the role of her murderer, so it may suffer her vengeance from beyond the grave.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yurei)
 ```encounter-table
 name: Yurei

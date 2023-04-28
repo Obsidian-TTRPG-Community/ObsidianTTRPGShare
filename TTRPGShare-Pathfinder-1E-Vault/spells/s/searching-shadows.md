@@ -1,19 +1,21 @@
 ---
-alias: Searching Shadows
+aliases: [Searching Shadows]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Searching Shadows 
+## Searching Shadows
 
 **source**:: Inner Sea Intrigue pg. 62  
 **school**:: illusion (shadow) (shadow)
 **level**:: arcanist 2, bard 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: shadows in a 10-foot-radius spread  
@@ -21,7 +23,7 @@ alias: Searching Shadows
 **saving-throw**:: Reflex partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Strands of shadow probe an area, searching for a creature or object you specify by shape, size, or texture. Each round, the shadows attempt a Perception check on the squares they touch with a total bonus equal to your caster level + your Charisma or Intelligence modifier, whichever is higher. You can move the shadows up to 30 feet or change the search criteria as part of concentrating on the spell. Whenever the shadows come into contact with a creature with spell resistance, you must attempt a caster level check to overcome its spell resistance. If you fail, the spell ends.  
   

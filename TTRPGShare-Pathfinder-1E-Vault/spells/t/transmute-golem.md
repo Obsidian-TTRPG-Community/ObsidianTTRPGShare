@@ -1,19 +1,21 @@
 ---
-alias: Transmute Golem
+aliases: [Transmute Golem]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Transmute Golem 
+## Transmute Golem
 
 **source**:: Arcane Anthology pg. 22  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, arcanist 9, investigator 6, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 8 hours  
 **components**:: V, S, M (powdered metals with a variable cost, see text)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: golem touched  
@@ -21,7 +23,7 @@ alias: Transmute Golem
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You turn one type of golem into another. The golem must be willing-it must be commanded to transform by its master or must be a creature able to make informed decisions that opts to submit to the spell. You must provide various powdered metals with a value equal to 150% of the difference in creation costs between the old and new type of golem, even if the new golem type is cheaper to create. Both types of golems must share the same subtypes, if any. You cannot transmute a golem into a new type of golem with a CR higher than your caster level.  
   

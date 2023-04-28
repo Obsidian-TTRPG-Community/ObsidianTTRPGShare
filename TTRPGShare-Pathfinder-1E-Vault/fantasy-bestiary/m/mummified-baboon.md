@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mummified Baboon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: Pathfinder No. 81: Shifting Sands
     desc: 84
 ```
-# Description
+## Description
 In Ancient Osirion, baboons were associated with the god Thoth, and were often depicted in art with crescent moons on their heads. Ancient Osirians kept baboons as pets, and old inscriptions show them being led around on leashes or climbing trees to pick dates and figs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mummified%20Baboon)
 ```encounter-table
 name: Mummified Baboon

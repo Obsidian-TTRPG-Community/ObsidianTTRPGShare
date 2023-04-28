@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Fomorian Titan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: Bestiary 4
     desc: 261
 ```
-# Description
+## Description
 Fomorian titans were the first titans created by the gods. In their pride, the titans intruded on the domain of their masters and created life of their own, so they too might be worshiped. The gods were forced to battle their creations, and though they won, they could not bring themselves to destroy the fomorians, and instead shackled the titans in armor that hid their beauty and imprisoned them in secret prisons across the multiverse.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Fomorian%20Titan)
 ```encounter-table
 name: Mythic Fomorian Titan

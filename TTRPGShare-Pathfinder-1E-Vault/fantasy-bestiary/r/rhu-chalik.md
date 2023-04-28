@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rhu-chalik
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 86
 desc_short: Thin tendrils trail from this misshapen ovoid. Its underside holds a gray orb that resembles a bulging, lidless eye.
 ```
-# Description
+## Description
 A rhu-chalik, also called a void wanderer, is an alien entity that scouts through space on behalf of its conquering masters. In addition, this aberration also collects the memories of interesting creatures in the universe into a vast repository of knowledge that their masters use to slowly unravel all the secrets of existence.
 
  Rhu-chaliks serve their masters tirelessly, and are as patient as they are long-lived. They rarely make an uncalculated move, and seek only the most prized intellects to cast into the dark beyond for their masters’ delectations. When exploring distant worlds, rhu-chaliks are not social beings, and they avoid other rhu-chaliks so their predations won’t cause too much overlap in the mind collections of their masters. However, back in their native space, rhu-chaliks number in the billions, and the creatures feed off a countless number of disembodied minds.
 
  A rhu-chalik is approximately 3 feet across and weighs only 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rhu-chalik)
 ```encounter-table
 name: Rhu-chalik

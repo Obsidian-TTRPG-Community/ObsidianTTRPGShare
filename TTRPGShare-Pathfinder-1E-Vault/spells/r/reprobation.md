@@ -1,19 +1,21 @@
 ---
-alias: Reprobation
+aliases: [Reprobation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Reprobation 
+## Reprobation
 
 **source**:: Ultimate Magic pg. 234  
 **school**:: transmutation (curse, see text\]
 **level**:: cleric 5, druid 5, hunter 5, inquisitor 4, oracle 5, paladin 4, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature of your faith  
@@ -21,7 +23,7 @@ alias: Reprobation
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cast the target out of your religion as a curse and punishment for acts or misdeeds against the tenets of your faith. This has three effects.  
   

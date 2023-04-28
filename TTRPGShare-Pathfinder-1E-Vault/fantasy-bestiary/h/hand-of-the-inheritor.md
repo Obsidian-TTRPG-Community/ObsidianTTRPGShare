@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hand of the Inheritor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 86
 desc_short: This tall angel has a halo of spinning blades, and is clad is radiant golden armor and equally radiant shield.
 ```
-# Description
+## Description
 The Hand of the Inheritor is a warrior angel, always ready to answer Iomedae’s call whenever she must directly intervene on Golarion. With his angelic speed and might, he leads the charge when the Inheritor’s celestial armies must go to war. A veteran of countless sorties into the Abyss, the Hand fights with a song of battle on his lips and unbreakable courage in his heart. The Hand stands 9 feet tall and weighs 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hand%20of%20the%20Inheritor)
 ```encounter-table
 name: Hand of the Inheritor

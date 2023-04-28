@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 132
 ```
-# Description
+## Description
 Fecund and secretive, rats are omnivorous rodents that particularly thrive in urban areas.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rat)
 ```encounter-table
 name: Rat

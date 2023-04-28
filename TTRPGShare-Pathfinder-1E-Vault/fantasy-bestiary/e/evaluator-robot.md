@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Evaluator Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 90
 desc_short: With wings and an unearthly glow, this mechanical being could easily be mistaken for an angel.
 ```
-# Description
+## Description
 Androffans, the race responsible for the presence of robots on Golarion, were a spacefaring people who visited dozens of worlds. Masters of engineering, they created robots that could perform a wide array of tasks, even trusting their creations to perform complex surgeries on the Androffans’ own organic forms. In the course of their interplanetary explorations, the Androffans quickly learned that not every world was ready to comprehend the awesome experience of leaving one’s home planet to visit others. Not wanting to risk valuable crew members, the Androffans created evaluator robots as an alternative to sending a shuttle mission to alien planets and interacting in person. When sensors aboard Androffan ships orbiting foreign worlds discovered other humanoid species, evaluator robots would be dispatched to assess the planets’ alien cultures.
 
 Taking forms designed to be recognizable to a planet’s general populace, evaluator robots would drop from orbiting surveillance ships onto alien worlds to collect data so that their masters could determine the readiness of the planets’ inhabitants to accept the existence of creatures from other worlds. Androffans also used evaluator robots to determine how violent or superstitious the indigenous populations were so that they could carefully plan direct contact. Evaluator robots were fashioned into pleasing and majestic forms to command respect and admiration from the humanoids they interacted with, and were usually made slightly taller than the planet’s primary race so as to seem properly impressive. These robots’ advanced construction utilizes sophisticated lightweight materials, making their durable frames weigh in under 400 pounds. The model presented here is the most common design-a radiant humanoid angel with gleaming feathers of brushed metal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Evaluator%20Robot)
 ```encounter-table
 name: Evaluator Robot

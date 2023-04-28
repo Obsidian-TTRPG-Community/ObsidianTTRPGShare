@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troggle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 160
 desc_short: This leathery creature has a lanky, ogre-like shape, but walks on all fours. Its claws, teeth, tail, and gait give it a degenerate , bestial appearance.
 ```
-# Description
+## Description
 These dim-witted creatures are a mongrel cross between a troll and an ogre, combining the worst features of each. They usually act like animals and move on all fours, but can rear up on their hind legs to attack with their sharp claws and vicious bites. Some ogres keep them as pets, treating them as exceptionally stupid but hilarious kinfolk. Trolls usually kill troggles on sight, and have been known to band together to wipe out entire ogre clans that possess troggles.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troggle)
 ```encounter-table
 name: Troggle

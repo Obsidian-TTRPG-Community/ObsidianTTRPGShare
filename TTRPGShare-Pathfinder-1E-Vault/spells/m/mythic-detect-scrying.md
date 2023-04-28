@@ -1,19 +1,21 @@
 ---
-alias: Mythic Detect Scrying
+aliases: [Mythic Detect Scrying]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Detect Scrying
+## Mythic Detect Scrying
 
 **source**:: Mythic Adventures pg. 90  
 **school**:: divination
 **level**:: arcanist 4, bard 4, inquisitor 4, medium 3, mesmerist 4, occultist 4, psychic 4, shaman 4, skald 4, sorcerer 4, spiritualist 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of mirror and a miniature brass hearing trumpet)
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: 40-ft.-radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Detect Scrying
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect. The spell's area radiates from you and moves as you move. You know the location of every magical sensor within the spell's area.  
   

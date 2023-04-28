@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Samsaran
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 230
 desc_short: This serene-looking slender young man has pale blue skin and solid black eyes, and is dressed in simple robes.
 ```
-# Description
+## Description
 Samsarans are a race of humanoids whose spirits naturally reincarnate into another samsaran upon death. They have dark hair, pale bluish skin, and eyes with no visible pupil or iris. A samsaran’s blood is clear like water.
 
 Each samsaran is born with the knowledge that it has lived before, and shall continue onward after death through the cycle of reincarnation. When a samsaran dies, its body fades from sight, and another samsaran child appears somewhere and matures at the normal rate. Samsarans can reproduce with humans and produce true human offspring.
 
 Typical samsarans pursue simple, ascetic lives apart from mainstream society. They live in small isolated farming communities as individuals or couples, with older samsarans adopting newly manifested children. Some work as consultants, mediators, prophets, or seers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Samsaran)
 ```encounter-table
 name: Samsaran

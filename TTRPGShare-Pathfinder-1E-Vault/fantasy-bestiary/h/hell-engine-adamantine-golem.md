@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hell Engine Adamantine Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 50
 desc_short: Wicked spikes and infernal runes decorate this black metal construct’s armor. Unholy flames billow from industrial stacks atop its crown and back.
 ```
-# Description
+## Description
 A hell engine is a construct fueled by an infernal contract, bypassing the complex magic and craftsmanship needed to animate a golem or similar engine of destruction. Artificers who lack the skill or magical aptitude to craft constructs on their own may be tempted to use the power of Hell to make up for their shortcomings, surrendering their souls for the chance to see their masterpieces brought to horrifying life.
 
  Although a hell engine lacks the creativity and cunning of a true devil, contracting an infernal construct grants certain advantages over a bound outsider. A hell engine’s mindless neutrality renders it resistant to anarchic or holy attacks that would cripple a devil, making it a valuable tool against celestial and chaotic forces. Combined with the construct’s ability to banish hostile outsiders and replace them with additional devils, these war machines earn a distinguished place as shock troops in infernal armies and guardians of Hell’s most secure vaults.
 
  The sample hell engine above uses an adamantine golem as the base creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hell%20Engine%20Adamantine%20Golem)
 ```encounter-table
 name: Hell Engine Adamantine Golem

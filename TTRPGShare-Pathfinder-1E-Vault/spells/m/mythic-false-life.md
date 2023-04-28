@@ -1,25 +1,27 @@
 ---
-alias: Mythic False Life
+aliases: [Mythic False Life]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic False Life
+## Mythic False Life
 
 **source**:: Mythic Adventures pg. 93  
 **school**:: necromancy
 **level**:: alchemist 2, arcanist 2, bloodrager 2, investigator 2, medium 2, mesmerist 2, occultist 2, psychic 2, shaman 2, sorcerer 2, spiritualist 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of blood)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level or until discharged; see text
 
-### Description 
+### Description
 
 You harness the power of unlife to grant yourself a limited ability to avoid death. While this spell is in effect, you gain temporary hit points equal to 1d10 + 1 per caster level (maximum +10).
 

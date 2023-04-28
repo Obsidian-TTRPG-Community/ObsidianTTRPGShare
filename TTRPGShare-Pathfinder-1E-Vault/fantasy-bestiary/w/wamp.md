@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wamp
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 90
 desc_short: This crimson-footed, nine-legged monstrosity has an egg-shaped body covered in dirty white fur. Its eyeless face, piglike snout, and toothy maw make for a disturbing visage.
 ```
-# Description
+## Description
 Wamps dwell in the dead cities of the Dreamlands, particularly within necropolises or undead-haunted graveyards, where they can hunt their favored prey-unliving creatures with decaying flesh-with ease. A wamp is a vaguely arachnid creature, albeit one with nine legs that end in webbed feet colored a brilliant red, as if the creature had just finished wading through a pool of fresh gore. The wamp’s face combines the least attractive features of a pig and a bat, but without the eyes. Covered with bristly pale fur save for their crimson feet, wamps often invite comparison to blood-smeared bones due to their coloration. Wamps often chuckle and chortle as they draw near their prey, eschewing ambush tactics in favor of a more disturbing opening volley of mockery designed to let their victims know that they have been marked for death-yet wamps are not foolish. Against canny foes, wamps can be as silent as the grave before springing to the attack.
 
 A wamp’s body is 4 feet in diameter, but its 3-foot-long limbs give it a gangly leg span of 8 feet. It weighs 300 pounds and typically carries with it the faint and unsettling stench of rotting flesh.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wamp)
 ```encounter-table
 name: Wamp

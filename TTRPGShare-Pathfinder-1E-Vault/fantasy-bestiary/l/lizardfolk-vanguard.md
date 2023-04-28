@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lizardfolk Vanguard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Monster Codex
     desc: 142
 ```
-# Description
+## Description
 Some warriors enter war-trances to increase their prowess.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lizardfolk%20Vanguard)
 ```encounter-table
 name: Lizardfolk Vanguard

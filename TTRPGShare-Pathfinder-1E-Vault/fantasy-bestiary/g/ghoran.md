@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghoran
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 14
 desc_short: The humanoid creature’s taut green shell extends like a cowl from chin to brow, wreathing a face of brilliant flower petals.
 ```
-# Description
+## Description
 Ghorans arose from plant life created by advanced druidic magic to be an especially hardy and adaptive food source for humans. Over the centuries, the plants evolved sentience and ambulatory bodies that mimicked the appearance of humanoids as a method to discourage their enemies from hunting them and improve their chances of survival. Their creators did not imbue them with the ability to create more of the ghorus seeds that give them life, so ghorans are fanatically protective of these seeds and consider destroying them the worst of crimes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghoran)
 ```encounter-table
 name: Ghoran

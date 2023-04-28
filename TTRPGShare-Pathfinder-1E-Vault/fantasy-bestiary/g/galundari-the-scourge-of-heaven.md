@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Galundari, the Scourge of Heaven
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 14
 desc_short: This towering, burning demon wears black, spiky armor and carries two weapons-a jagged sword and a whip of flames.
 ```
-# Description
+## Description
 Few balor lords have achieved the notoriety and power of Galundari, even though it has been centuries since the balor lord was lost to the Nemesis Well and longer still since he was imprisoned in the artifact that now bears his name. Indeed, it was this notoriety that compelled Nex to seek the balor’s aid, over 56 centuries ago, in the creation of the Lens of Galundari (Pathfinder Campaign Setting: Artifacts & Legends 30)-a magical lens akin to others that powered the wizard’s demon ships, but that would be much more potent than its lesser copies. Nex lured Galundari into the lens with lies and false promises, and the balor has remained trapped within the lens ever since.
 
 When Pathfinder Durvin Gest threw the Lens of Galundari into the Nemesis Well in 4332 ar, many believed that the time of the mighty balor lord had passed forever. Yet Galundari still lives, and even now the last few of his still-loyal minions toil in far corners of the Great Beyond and elsewhere in the universe, seeking the location of the far side of the Nemesis Well so that their master may be released. In his time, Galundari was even more powerful than the creature presented above, but over the centuries of imprisonment within the lens, he has lost all of his mythic power. What remains is still a formidable foe, and the Scourge of Heaven is one of the few of his kind to possess multiple unique balor lord powers. Galundari earned his appellation for his countless successful raids against the fortresses of Heaven itself. Some demonologists maintain that Nex was only able to deceive Galundari with the hidden aid of a vengeful solar, and that in trapping the Scourge of Heaven he pried strange and impossible favors from Heaven itself.
 
 Galundari requires the sacrifice of nothing less than a planetar (minimum CR of 18) when conjured-the murder of the planetar must be performed by the conjurer in Galundari’s presence, and the angel must be conscious when the murder is performed. It’s a DC 35 check to research Galundari, but as long as he remains imprisoned in the Lens of Galundari (itself still lost in the Nemesis Well), he cannot be conjured at all. Assuming the balor lord can be freed, his skill at creating magical armor, weapons, and wondrous items is as significant as his skill in combat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Galundari%2C%20the%20Scourge%20of%20Heaven)
 ```encounter-table
 name: Galundari, the Scourge of Heaven

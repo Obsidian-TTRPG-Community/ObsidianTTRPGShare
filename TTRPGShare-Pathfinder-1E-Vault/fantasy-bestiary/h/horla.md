@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Horla
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 158
 desc_short: Depression and ennui accompany a barely perceptible sensation of something cold and smooth brushing against the skin.
 ```
-# Description
+## Description
 Horlas are native to the Ethereal Plane. Although they have no inborn ability to traverse the boundaries between planes, all horlas seek ways to slip onto the Material Plane so they can feed on the hopes and dreams of humanoids. Once on the Material Plane, a horla selects a favored host to plague while remaining invisible, gaining nourishment by consuming hope and leaving the host wracked with ennui. The horla slowly drives its host mad by forcing him into increasingly destructive acts, yet it is always careful to issue its commands so that the repercussions are what cause lasting harm to a victim’s social life or relationships rather than the specific acts. 
 
 When not invisible, a horla appears as spherical mass with several tentacles. A typical horla weighs 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Horla)
 ```encounter-table
 name: Horla

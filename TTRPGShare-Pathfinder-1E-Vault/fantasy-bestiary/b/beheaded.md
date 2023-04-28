@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Beheaded
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 17
 desc_short: A decaying humanoid head floats silently and ominously, its graying teeth eerily clattering.
 ```
-# Description
+## Description
 A beheaded is a severed head or skull animated as a mindless undead sentinel that silently floats at eye level as it lies in wait for living prey or is sent out into the lands of the living to terrorize everyone it finds. A beheaded set loose near populated areas thumps ominously against shut doors and windows, biding its time until someone responds to the incessant knocking. The beheaded then assaults this victim.
 
 Beheaded also guard grim crypts, abattoirs, and hideouts of murders who like to keep reminders of their past sins close at hand. Beheaded come in many varieties, usually based on the creature the head came from. A beheaded prefers to float at head height so it can more easily attack the face, neck, and shoulders of its victim.
 
 A neutral evil spellcaster can gain a beheaded as a familiar at 3rd level by taking the Improved Familiar feat. A beheaded familiar loses the mindless trait and has an Intelligence score appropriate for its master’s level.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Beheaded)
 ```encounter-table
 name: Beheaded

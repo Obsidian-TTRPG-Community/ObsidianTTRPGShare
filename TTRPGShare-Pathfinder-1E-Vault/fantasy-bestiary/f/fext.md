@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fext
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 88
 desc_short: This creature’s pallid skin and dead, vacant eyes belie its healthy, powerful physique. It is clad in fearsome armor.
 ```
-# Description
+## Description
 Any good general forbids mention of fexts among his ranks, but such strictures do little to prevent soldiers from whispering tales of undying officers leading enemy units.
 
  These supernatural officers almost never seem to fall in battle, and when they do, they return for the next clash unfazed. Soldiers whisper that these deathless commanders are vulnerable only to glass weapons. Stories of fexts, usually dismissed as camp folktales derived from soldiers’ frustration at failed campaigns and lost battles, are most frighteningly true-a truth living officers keep from the normal rank and file, for it takes a truly callous leader to send his soldiers against an unkillable foe. While these abominations often serve corrupt monarchs or power-hungry and desperate tyrants, some fexts infiltrate good armies and act as double agents, defying their nation’s ideals. They use politics and miscommunication to distort the truth of their battlefield atrocities and cow those under their command into obedience.
 
  Though a fext normally acts as a commander on the battlefield, when engaged in combat, it favors its martial prowess, intermingling quick strikes and deadly blows with disruptive curses and its energy drain ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fext)
 ```encounter-table
 name: Fext

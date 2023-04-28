@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Bramble
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 48
 desc_short: A tremendous bramble of intertwined bushes rises from a sizable pile of bones heaped at its roots, and its thorny flowers drip blood.
 ```
-# Description
+## Description
 These aggressive, ambulatory brambles closely resemble large patches of normal bushes, a similarity they take advantage of with deadly efficacy. Although they are autotrophic, blood brambles also gain water and nutrients by consuming the blood of living creatures. They are avid hunters, though they are not known to be territorial. On rare occasions, they may take up permanent residence, but only in regions where both sunlight and prey remain plentiful, such as along trade routes. 
 
 Blood brambles attack by rushing into their opponent’s space and weakening individuals by mercilessly thrashing them with thick, spiny vines. 
 
 A typical blood bramble is 12 feet wide and has a height of 7 feet. Its thorny flowers are most often a deep red, though a variety of different colors have been reported.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Bramble)
 ```encounter-table
 name: Blood Bramble

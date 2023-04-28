@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tooth Fairy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 262
 desc_short: This gaunt fairy has tattered ears, black eyes, and a huge mouth filled with mismatched teeth. It carries an oversized pair of pliers.
 ```
-# Description
+## Description
 Tooth fairies are fey created when a willful child’s tooth (or, rarely, a whole child) is buried in a place with strong connections to the mysterious realm of the fey. Wicked and capricious, tooth fairies delight in spreading fear and pain, and have a perverse need to steal the teeth of humanoid creatures.
 
 Each night, gangs of tooth fairies stalk humanoid settlements, using their magic to confuse and distract their victims, and reveling in the looks of horror on their victims’ faces as the fey suddenly appear out of the darkness with their dirty, bloody pliers. The fairies then lull their targets to sleep and get to work at claiming their prizes. Some cautious fairies bite their targets to paralyze them and ensure the victims can’t wriggle away from the fairy’s grasping pliers; others enjoy the sounds of creatures awakening to their own screams as the fairy torments them with harsh pinches and painful tugs on fingers, teeth, or eyelids.
 
 Tooth fairies use stolen teeth either to replace their own lost teeth (if the stolen teeth are small) or to decorate their dwellings, which usually lie inside abandoned buildings or knotholes in trees. Used as stools, carved into minuscule sculptures, or worn as crowns, the prized teeth serves as trophies of their successful raids.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tooth%20Fairy)
 ```encounter-table
 name: Tooth Fairy

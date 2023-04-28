@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Human Zombie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 288
 desc_short: This walking corpse wears only a few soiled rags, its flesh rotting off its bones as it stumbles forward, arms outstretched.
 ```
-# Description
+## Description
 Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like animate dead. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
 
 Zombies are unthinking automatons, and can do little more than follow orders. When left unattended, zombies tend to mill about in search of living creatures to slaughter and devour. Zombies attack until destroyed, having no regard for their own safety.
 
 Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using animate dead. Such zombies are always of the standard type, unless the creator also casts haste or remove paralysis to create fast zombies, or contagion to create plague zombies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Human%20Zombie)
 ```encounter-table
 name: Human Zombie

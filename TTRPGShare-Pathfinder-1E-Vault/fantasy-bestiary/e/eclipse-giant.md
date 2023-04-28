@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eclipse Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 121
 desc_short: Symbolic representations of the occultation of heavenly bodies decorate the dark gray skin of this massive giant.
 ```
-# Description
+## Description
 While these massive giants might appear brutish, they are actually esoteric wanderers and thinkers who take very little notice of the world around them. Instead, their attention is fixated on the heavenly bodies, as they search for the empowering presence of solar or lunar eclipses. While in their search for such cosmological events, eclipse giants are uncaring and may be obliviously destructive, as they are quite large, and they don’t watch where they step. While in the presence of an eclipse, however, an eclipse giant becomes truly active, unlocking an inspired inner self that varies from giant to giant. While one eclipse giant might enter a violent frenzy and rage against the world and other creatures, another might produce a fragment of writing that will one day become one of the greatest plays of her generation, and another might solve a complex formula that predicts the celestial movements of the planets.
 
  Eclipse giants stand 40 feet tall and weigh 30,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eclipse%20Giant)
 ```encounter-table
 name: Eclipse Giant

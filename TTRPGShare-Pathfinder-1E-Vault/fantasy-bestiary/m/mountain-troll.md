@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mountain Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 62
 desc_short: This enormous, stooped creature has powerful limbs; a mane of gritty brown fur; and a ferocious, tusked underbite.
 ```
-# Description
+## Description
 Though grotesque, charmless, and prone to fits of violence, mountain trolls are not inherently evil, nor do they always attack intruders on sight. A mountain troll prefers to withdraw and observe before entering combat, lumbering forth to attack only if intruders make clear their intentions to harm it or its allies, or if the newcomers seem to be encroaching upon the troll’s territory rather than simply passing through. Once enraged, a mountain troll is a savage opponent, calling upon its native strength and alliances with elementals to bury its opponents in stone or spread their entrails across the slopes.
 
 Mountain trolls prefer to live in narrow ravines or shallow caves that allow them to look out over the landscape. They sometimes knuckle-walk like a gorilla, but when angered they rear up to their full height of nearly 30 feet. Mountain trolls have a close association with the First World, similar to that possessed by gnomes, which grants them magical abilities and unusual patience. They are quick to forge alliances with fey, and while they see smaller trolls as sadists, they nonetheless feel a sort of familial responsibility. Lesser trolls often capitalize upon mountain trolls’ generosity, but take care to abide by their larger cousins’ rules when sheltering in their homes. Mountain trolls have even been known to aid explorers or give advice, provided they are treated with respect.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mountain%20Troll)
 ```encounter-table
 name: Mountain Troll

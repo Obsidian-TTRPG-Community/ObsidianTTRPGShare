@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Hellgrammite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 83
 desc_short: This long, insectile creature has massive mandibles and dozens of segmented legs extend from its sides.
 ```
-# Description
+## Description
 While these giant insects have a reputation for being highly ferocious predators, they are actually just the larval form of large but mostly harmless dragonfly-like insects.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Hellgrammite)
 ```encounter-table
 name: Giant Hellgrammite

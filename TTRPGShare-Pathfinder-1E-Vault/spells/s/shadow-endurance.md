@@ -1,19 +1,21 @@
 ---
-alias: Shadow Endurance
+aliases: [Shadow Endurance]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Endurance 
+## Shadow Endurance
 
 **source**:: Agents of Evil pg. 31  
 **school**:: illusion (shadow) (shadow)
 **level**:: arcanist 6, bard 5, mesmerist 5, shaman 5, skald 5, sorcerer 6, spiritualist 5, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a fetchling’s tooth)
 
-### Effect 
+### Effect
 
 **range**:: personal  
   
@@ -21,7 +23,7 @@ alias: Shadow Endurance
 **saving-throw**:: Will disbelief (if interacted with), varies, see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 You conjure protective wisps of darkness made from shadow. If you are reduced below 0 hit points or rendered unconscious, *shadow endurance* immediately discharges, shunting your injured body into a hidden alcove on the Shadow Plane. You immediately stabilize, but cannot awaken or take any further actions until the second duration expires.  
   

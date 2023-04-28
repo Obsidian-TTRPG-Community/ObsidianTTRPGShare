@@ -1,19 +1,21 @@
 ---
-alias: Light of Iomedae
+aliases: [Light of Iomedae]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Light of Iomedae 
+## Light of Iomedae
 
 **source**:: Inner Sea Magic pg. 58  
 **school**:: conjuration (good, light)
 **level**:: cleric 3, inquisitor 3, oracle 3, paladin 2, warpriest 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: all undead in a 10-foot-radius spread  
@@ -21,7 +23,7 @@ alias: Light of Iomedae
 **saving-throw**:: Will partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 With this spell, you create shafts of blue light that illuminate all undead creatures in the area. Affected undead take a -20 penalty on all Stealth checks. Invisible undead are not made visible by this effect, but the light does make it easy to pinpoint the exact squares in which such undead are located (they still retain the 50% miss chance granted by invisibility). The *light of Iomedae* increases light levels by one step in a 5-foot radius around an affected undead creature. Once an undead is affected, it remains illuminated as long as remains within the spell’s range, even if it leaves the spell’s original radius, until the spell’s duration ends.  
   

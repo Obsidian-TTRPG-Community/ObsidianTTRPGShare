@@ -1,19 +1,21 @@
 ---
-alias: Crimson Confession
+aliases: [Crimson Confession]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Crimson Confession 
+## Crimson Confession
 
 **source**:: Advanced Class Guide pg. 179  
 **school**:: abjuration
 **level**:: arcanist 2, occultist 2, psychic 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: or Area object touched or up to 1 sq. ft.  
@@ -21,7 +23,7 @@ alias: Crimson Confession
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You ward an object or an area with your personal rune or mark. You can choose for the writing to be visible or invisible, and it doesn’t harm the material upon which it is placed. A *detect magic* spell causes an invisible mark to glow and be visible. If any creature other than you touches the warded object or area and fails a Fortitude save, its skin turns bright red for 1 hour per level. This coloring cannot be washed away, but it can be dispelled.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kreegwood Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 48
 desc_short: No loving god would craft this man’s malformed limbs and jagged teeth. His clothes and oversized hammer follow the same ill-measured design.
 ```
-# Description
+## Description
 Deep within the gnarled, lightless depths of Varisia’s Kreegwood, a degenerate offshoot of ogrekin stalk trespassers for food, entertainment, and far worse. The backwoods mutants are territorial recluses who thankfully stay within their own domains, possessed as they are with a deep distrust of strangers and a superstitious hatred of the outside world. Ugly and unlikable even by ogrekin standards, these creatures lack any of the beauty or compassion of their humanoid parents, leaning heavily toward the ogres with whom they sometimes breed. They’ve honed their survival skills through self-sufficiency and isolation and walk quietly through the trees, quickly overwhelming woodcutters, hunters, and trappers unfortunate enough to cross the ever-shifting borders of the stalkers’ territories.
 
 Kreegwood stalkers are potent warriors-capable of dealing catastrophic damage with a single blow-and train their increasingly inbred descendents to be brutally effective with oversized weapons. Kreegwood stalkers like to fell large trees near paths through their forests to redirect travelers into ambushes at dead ends, switchbacks, and briars. When bloodied but not defeated, these ogrekin fall back into nearby overgrown woods and stalk their prey unseen. They stay ahead of savvy enemies so they can build snares, rile up wild animals, and drop impromptu avalanches of massive trees or stones upon foes.
 
 Kreegwood stalkers quickly evaluate the health of subdued quarry. Any creature that’s still breathing is bound or shackled before its wounds are treated-a slave or meal for later is far more valuable than a corpse, and keeps far longer as provisions. When all other enemies are defeated, the ogrekin hoist their bound captives onto the hafts of their huge hammers and carry these victims off to be kept with the rest of the stalkers’ unfortunate prey. Of all of Golarion’s ogrekin, stalkers are the most sentimental, frequently taking spoils of victory from those they’ve defeated. Kreegwood homes are grotesque affairs, built in the fashion of human cabins but decorated with the bones, teeth, and skin of victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kreegwood%20Stalker)
 ```encounter-table
 name: Kreegwood Stalker

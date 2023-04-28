@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spider Eater
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 255
 desc_short: This strange beast resembles a wasp the size of a horse, but with the head of a spider and two long appendages ending in pincers.
 ```
-# Description
+## Description
 An amalgam of dangerous creatures, this predator, as its name suggests, prefers to hunt and feed upon spiders. Their greatest boon to spider hunting, aside from their stinger, ability to fly, and strong pincers, is their ability to slip through the stickiest of webs in order to get to their prey. Unfortunately for other creatures, when a spider eater is denied its preferred prey, it seeks out any living creature it can find to serve as a host for its ravenous young.
 
 When hunting, a spider eater drops from the air onto its victim, stinging the prey with its barbed tail. The creature then returns to the air and hovers, waiting for its venom to take hold. Once the opponent succumbs to paralysis, the spider eater lands again, either to feed or implant its egg.
@@ -64,7 +66,7 @@ When hunting, a spider eater drops from the air onto its victim, stinging the pr
 Although more intelligent than the typical beast, to the point where it can understand a language (usually Aklo), the spider eater is relatively slow-witted. Nevertheless, it is intelligent enough that it resists training-those who seek to ally with spider eaters must befriend them via diplomacy and gifts of spiders to feed upon or implant eggs into, or via intimidation and coercion.
 
 A spider eater measures roughly 14 feet long and stands 6 feet tall. The creature has a wingspan just over 20 feet and weighs almost 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spider%20Eater)
 ```encounter-table
 name: Spider Eater

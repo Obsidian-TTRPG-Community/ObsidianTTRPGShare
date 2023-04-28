@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: White-Eyed Torturer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 27
 desc_short: A scorpion’s claw and twisted goat legs, all stitched into place with ragged black thread, replace three of this wild-haired man’s limbs.
 ```
-# Description
+## Description
 The self-mutilated white-eyed torturer carves into humanoid flesh with deviant glee and bestial hands, eager to learn the limits of anatomy. Armed with cutting implements, pliers, clamps, and perhaps even aberrant claws, this twisted surgeon goes about his work modifying his patients and himself. To this derro, his subject is at best a beast, and as his victim’s screams echo through the nearby fungus-lined tunnels, other derros become drawn to the song and wait eagerly outside the torturer’s laboratory to see what wonder he has created.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=White-Eyed%20Torturer)
 ```encounter-table
 name: White-Eyed Torturer

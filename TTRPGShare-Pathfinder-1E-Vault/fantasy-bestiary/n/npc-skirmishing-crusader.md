@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Skirmishing Crusader
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: NPC Codex
     desc: 113
 ```
-# Description
+## Description
 A skirmishing crusader often serves as a scout in the army of a noble, or roams the boundaries of civilization, working with rangers to hold the line against evil. She spends her life in the wilds, and as a result can often be awkward and crass.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Skirmishing%20Crusader)
 ```encounter-table
 name: NPC Skirmishing Crusader

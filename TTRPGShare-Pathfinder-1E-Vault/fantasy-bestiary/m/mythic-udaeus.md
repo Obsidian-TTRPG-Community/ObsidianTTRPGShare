@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Udaeus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 267
 desc_short: This armored humanoid has skin resembling white bone, carved with images of weapons and dragons.
 ```
-# Description
+## Description
 An udaeus (plural udaeoi) is a fierce humanoid who’s obsessed with perfecting its skills at war. The first udaeoi were obedient warriors created by a deity out of dragon teeth, but now they are a distinct race and capable of reproducing on their own. Though an udaeus loves combat and is eager to demonstrate its abilities, it is violent only when it’s in an honorable battle; only a desperate or manipulated udaeus would resort to thuggery.
 
 Udaeoi resemble tall, athletic humans with bone-white skin and black hair. They mark themselves with tattoos or brands, usually of weapons, dragons, or battle scenes. When an udaeus hardens its flesh with its innate magic, these markings look like carvings and cracks in a marble statue. Udaeoi might hire themselves out as mercenaries or serve as soldiers in a local army. Udaeoi prefer to fight alongside their own kind, and a squadron usually comprises members of the same fighting company or family unit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Udaeus)
 ```encounter-table
 name: Mythic Udaeus

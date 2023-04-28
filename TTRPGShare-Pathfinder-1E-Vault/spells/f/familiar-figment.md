@@ -1,19 +1,21 @@
 ---
-alias: Familiar Figment
+aliases: [Familiar Figment]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Familiar Figment 
+## Familiar Figment
 
 **source**:: Animal Archive pg. 24  
 **school**:: illusion (figment)
 **level**:: arcanist 2, redmantisassassin 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: your familiar  
@@ -21,7 +23,7 @@ alias: Familiar Figment
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create an illusory duplicate of your familiar that moves erratically around your familiar’s space, frequently moving through the familiar’s body with a blurring effect that makes it indistinguishable from the real creature. Attacks against the familiar have a 50% miss chance; attacks that miss instead target the familiar figment, which reacts as if damaged as appropriate to the attack but unlike a *mirror image* is not destroyed when struck. This spell does not grant your familiar concealment or prevent it from being targeted by spell effects that do not require an attack roll.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Detonate
+aliases: [Detonate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detonate 
+## Detonate
 
 **source**:: Advanced Player's Guide pg. 215  
 **school**:: evocation (acid, cold, electricity, or fire)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, investigator 4, magus 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: 30 ft.  
 **area**:: 30-ft.-radius spread centered on you  
@@ -21,7 +23,7 @@ alias: Detonate
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body.  
   

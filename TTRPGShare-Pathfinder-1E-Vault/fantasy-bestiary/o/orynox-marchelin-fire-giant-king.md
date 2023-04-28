@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orynox Marchelin, Fire Giant King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 21
 desc_short: This stocky giant has a flaming mane and facial hair, his massive armor and fiery glaive indicating his prowess as a warrior.
 ```
-# Description
+## Description
 Orynox Marchelin has ruled the fire giant realm of Kragnaroth in the Mindspin Mountains east of Varisia since his father’s death in 4631 ar, and has proven himself as one of the kingdom’s finest and most brutal leaders yet. None are excluded from his wrath, and since he took the throne he has killed no fewer than five of his own wives, whether for supposed adultery, insolence, or merely catching him in the wrong mood. Regardless, all fire giantesses within Kragnaroth swoon over the chance of wedding the fierce and ruthless warlord.
 
 Though Orynox seeks to begin a campaign that would expand his empire further across the Mindspin Mountains both south and east, his advisors have noted their king seems especially preoccupied by his latest queen, Hregana Marchelin (LE fire giant barbarian 2/fighter 5), a talented warrior who traveled from distant lands to the south to seek Orynox’s hand in marriage, and who has proven to be his most formidable wife yet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orynox%20Marchelin%2C%20Fire%20Giant%20King)
 ```encounter-table
 name: Orynox Marchelin, Fire Giant King

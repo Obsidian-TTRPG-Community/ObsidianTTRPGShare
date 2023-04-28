@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Reptoid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 202
 desc_short: This gaunt, scaled humanoid has reptilian eyes, a barely perceptible nose, and a wide, lipless mouth filled with sharp teeth.
 ```
-# Description
+## Description
 Reptoids are bipedal reptiles from another planet, or perhaps even another plane-they refuse to reveal their origins to humanoids, even under duress. Disguised as members of others races, the reptoids seek positions of power in order to secretly prepare for an invasion from their homeworld. Even those who are aware of reptoids in their midst can never be truly sure who is real and who is an alien, as these creatures are often adept at enchantment and psychic magic, which they use to cover the tracks of their deceptions and to ensure the complacency or even collusion of their soon-to-be thralls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Reptoid)
 ```encounter-table
 name: Reptoid

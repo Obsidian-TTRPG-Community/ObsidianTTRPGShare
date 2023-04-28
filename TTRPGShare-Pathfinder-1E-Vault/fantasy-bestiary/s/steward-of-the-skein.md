@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Steward of the Skein
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 90
 desc_short: Skulls adorn the armor of this winged woman. Her helm reveals nothing of her features but a pair of glowing eyes.
 ```
-# Description
+## Description
 The Steward of the Skein is Pharasma’s foremost agent, a mighty warrior sent to restore the balance of fate, announce auspicious births or deaths, or stem a rising tide of undeath. She often appears as an incorporeal shade, making a pronouncement and then fading away, though countless creatures over the eons have fallen under her armored fists. She stands about 7 feet tall but weighs a mere 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Steward%20of%20the%20Skein)
 ```encounter-table
 name: Steward of the Skein

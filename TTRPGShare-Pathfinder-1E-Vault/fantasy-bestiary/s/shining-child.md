@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shining Child
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 245
 desc_short: Surrounded by a nimbus of near-blinding light, this strange creature looks something like an emaciated child with clawed hands.
 ```
-# Description
+## Description
 Creatures of burning light and strange geometry, shining children are a terror to behold. Beyond the flares of energy that constantly burst from their forms (particularly in beam-like gouts from their eyes and mouths), the creatures are vaguely humanoid, with strange hands that each bear four fingers. Occasionally summoned by powerful wizards in search of rare arcane knowledge, the shining children (who disdain individual names) communicate via telepathy, a psychic roar like metal tearing that sometimes resolves into strained and raspy words.
 
 Though they harbor many secrets, their greatest secret may be their own origin. Numerous theories abound-that the shining children are beings from another dimension, avatars of a dying star grown sentient, or creatures of light battling living darkness at the edge of reality. A shining child stands just over 4-1/2 feet tall and weighs 85 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shining%20Child)
 ```encounter-table
 name: Shining Child

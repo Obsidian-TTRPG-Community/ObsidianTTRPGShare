@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Overseer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 86
 desc_short: One arm of this six-limbed clockwork construct ends in a broad fist, and the other extends into an articulated metal lash.
 ```
-# Description
+## Description
 What clockwork creatures boast in both strength and resilience, they often lack in nuance and strategy. Most machinists are content to command their constructs directly when seeking tactical precision, but only a few artificers have the technical expertise needed to create a mechanical lieutenant capable of reasoning and adapting in its master’s absence. Known as clockwork overseers, these constructs boast extraordinarily complex programming that far exceeds the basic command vocabulary of other clockwork creatures. This allows clockwork overseers to store hundreds or even thousands of commands, which they can parse and sort quickly enough to simulate an intelligent creature’s adaptive thinking-at least regarding combat strategy and moderately complex tasks of coordinating construct laborers. These functions fall short of true thought, and clockwork overseers are incapable of language, emotion, higher thinking, or symbolic reasoning beyond specific sounds and statements they might parrot on command.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Overseer)
 ```encounter-table
 name: Clockwork Overseer

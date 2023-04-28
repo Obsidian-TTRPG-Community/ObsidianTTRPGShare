@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Leanan Sidhe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 180
 desc_short: This serene woman has pointed ears and flowing crimson hair, and wears an elegant dress and a crown of twigs.
 ```
-# Description
+## Description
 Leanan sidhe are regal fey who pride themselves as patrons of the arts. By establishing a magical link with a talented mortal performer or artist, the leanan sidhe enhances her target’s skill, but slowly feeds on his life energy. Many tragic stories of talented artists who have a creative burst and then fall into obscurity or suddenly die can be attributed to the inf luence of these creatures. A leanan sidhe prefers to avoid direct combat and relies on her minions and devotees to protect her-all of whom hope to become her next special project, despite the cost of this arrangement.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Leanan%20Sidhe)
 ```encounter-table
 name: Mythic Leanan Sidhe

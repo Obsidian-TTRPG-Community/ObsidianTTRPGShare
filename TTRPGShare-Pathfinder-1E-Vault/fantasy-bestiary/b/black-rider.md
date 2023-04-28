@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Black Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 53
 desc_short: A man with curling ram’s horns sits astride a snorting, stamping black warhorse, gripping a dark, battle-worn spear.
 ```
-# Description
+## Description
 The Black Rider has the most forbidding appearance of the Three Riders. He always appears in a frightening form when called to service. His judgments are the least recorded in history, as they are all performed under the cover of night, and many Irriseni citizens blame other vicious creatures and strange occurrences for the disappearance of their fellow citizens.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Black%20Rider)
 ```encounter-table
 name: Black Rider

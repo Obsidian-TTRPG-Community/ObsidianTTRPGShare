@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 113
 desc_short: This sleek aquatic mammal has a pair of flippers, a powerful tail, and a muzzle full of small, sharp teeth.
 ```
-# Description
+## Description
 Sleek-bodied aquatic mammals, seals spend the majority of their lives in the water, whether in the harbors of tropical ports or amid wandering icebergs. They prefer rocky beaches, upon which they rest and raise their young, and from which they dive to hunt fish, sea birds, squid, and other small aquatic creatures. They are well known for their vocal communications consisting of barks, grunts, and flipper slaps-a trait that causes many humanoids to remark on their intelligence and the ease with which they can be trained.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seal)
 ```encounter-table
 name: Seal

@@ -1,19 +1,21 @@
 ---
-alias: Mage's Sword
+aliases: ["Mage's Sword"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mage's Sword 
+## Mage's Sword
 
 **source**:: PRPG Core Rulebook pg. 307  
 **school**:: evocation (force)
 **level**:: arcanist 7, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a miniature platinum sword worth 250 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one sword  
@@ -21,7 +23,7 @@ alias: Mage's Sword
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell brings into being a shimmering, sword-like plane of force. The sword strikes at any opponent within its range, as you desire, starting in the round that you cast the spell. The sword attacks its designated target once each round on your turn. Its attack bonus is equal to your caster level + your Intelligence bonus or your Charisma bonus (for wizards or sorcerers, respectively) with an additional +3 enhancement bonus. As a force effect, it can strike ethereal and incorporeal creatures. It deals 4d6+3 points of force damage, with a threat range of 19-20 and a critical multiplier of ×2.  
   

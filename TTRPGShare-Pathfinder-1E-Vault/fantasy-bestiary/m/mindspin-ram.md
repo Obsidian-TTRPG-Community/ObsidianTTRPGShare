@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mindspin Ram
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 82
 desc_short: This stark white ram’s curved horns appear to have sharp thorns studding every inch of their surface.
 ```
-# Description
+## Description
 The hardy Mindspin rams are found only in the high peaks of the Mindspin Mountains, where their stark white fur helps them blend into snowbanks to escape the giants and trolls that are prevalent in the area. They take another of their names, “rosethorn rams,” from their dangerous horns, which are covered in sharp growths resembling short thorns, and can cause deep, bleeding wounds that slow foes down until the rams can flee or finish would-be hunters with their sharp hooves. The rams’ thorny horns also enable them to strip bark from trees for sustenance during difficult winters.
 
 Rigidly adapted to the snowy peaks of their mountain range, the rams are fiercely territorial and protective of the caves in which they make their dens. During breeding season, they become especially aggressive, venturing out to chase off predators and using their deadly horns to drive away competition. Even mountain trolls avoid direct confrontation with the rams at these times, preferring instead to cave in the creatures’ dens, then pick through the rubble to gobble up the whole family. Mindspin rams are 4 feet tall and 6 feet long, and weigh up to 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mindspin%20Ram)
 ```encounter-table
 name: Mindspin Ram

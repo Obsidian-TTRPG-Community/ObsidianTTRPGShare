@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frost Fir
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 84
 desc_short: The faint scent of pine sap accompanies this vaguely tree-shaped creature, which stands on two towering trunklike legs. Its arms resemble the branches of a snow-laden conifer.
 ```
-# Description
+## Description
 Little known outside the colder climes and higher elevations of the world, the malevolent tree creatures known as frost firs keep to themselves and disdain any who intrude upon their forested realms. Prevailing theories among scholars suggest the species descended from treants long ago, a derivative offshoot with an exclusive affinity for evergreen trees. But despite sharing a common language, frost firs actually disdain treants, citing philosophical differences. This revelation has caused others to posit that frost firs originated as an entirely separate species, born of the enigmatic First World where plants walk and speak as freely as other creatures.
 
 The grim-minded frost firs are as cold and impassive as the windswept ice and rocks they call home. They care little for other creatures or societies, keeping their distance at all times and actively driving away any who dare to approach their groves during a reproductive cycle. Frost firs also have an especial hatred for those who create or rely upon open flames for warmth. Northern travelers often tell tales of frost fir attacks on their caravans, usually initiated with a smothering, snowy assault on any campfires. These attacks always come at night, and the frost firs never relent until such interlopers completely withdraw from their lands.
 
 Frost firs make staunch combatants, specializing in stealthy forms of guerrilla warfare. They often utilize pit traps to capture the unwary, or draw their victims into ambushes facilitated by their ability to appear as normal trees. After grappling and pinning opponents, frost firs often take them prisoner and escort them back to a frost fir grove to be butchered and used to fertilize the soil for frost fir young. Frost firs craft any remaining bones into crude trophies and gruesome signposts marking their territory and warning away others. As a result, few species treat with frost firs, and any act of Diplomacy with them automatically faces a starting attitude of unfriendly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frost%20Fir)
 ```encounter-table
 name: Frost Fir

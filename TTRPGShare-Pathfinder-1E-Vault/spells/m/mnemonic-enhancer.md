@@ -1,25 +1,27 @@
 ---
-alias: Mnemonic Enhancer
+aliases: [Mnemonic Enhancer]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mnemonic Enhancer 
+## Mnemonic Enhancer
 
 **source**:: PRPG Core Rulebook pg. 315  
 **school**:: transmutation
 **level**:: wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a piece of string, and ink consisting of squid secretion mixed with black dragon's blood), F (an ivory plaque worth 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: instantaneous
 
-### Description 
+### Description
 
 Casting this spell allows you to prepare additional spells or retain spells recently cast. Pick one of these two versions when the spell is cast.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Chain of Perdition
+aliases: [Chain of Perdition]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Chain of Perdition 
+## Chain of Perdition
 
 **source**:: Ultimate Combat pg. 225  
 **school**:: evocation (force)
 **level**:: arcanist 3, bloodrager 3, cleric 3, oracle 3, psychic 3, sorcerer 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (chain link)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 10-ft. chain  
@@ -21,7 +23,7 @@ alias: Chain of Perdition
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A floating chain of force with hooks at each end appears within an unoccupied space of your choosing within range. This chain is a Medium object that has a 10-foot reach. Physical attacks cannot hit or harm the *chain of perdition*, but *dispel magic*, *disintegrate*, a *sphere of annihilation*, or a *rod of cancellation* affects it normally. The chain’s AC against touch attacks is 10 + your Charisma modifier (sorcerer), Intelligence modifier (wizard), or Wisdom modifier (cleric).  
   

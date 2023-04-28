@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leucrotta
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 82
 desc_short: This freakish beast has the head of a badger, the hooves of a stag, and a wide mouth with sharp ridges of bone instead of teeth.
 ```
-# Description
+## Description
 Reputed to be descended from hyenas and a demon lord, these creatures are intelligent and cruel, using their astounding vocal mimicry to lure foolish and unsuspecting creatures to where the pack can torment them at its leisure before finally devouring them.
 
 Five feet tall at the shoulder, its tawny fur often coated with dried and clotted filth, the leucrotta is a powerful beast weighing over 800 pounds. The sharp bone ridges that line its oversized jaws instead of teeth are incredibly durable and, combined with massive jaw muscles, allow its bite to shear through bone and even steel. Leucrottas consume their prey gear and all; they vomit up what they cannot digest and pick through the debris in search of valuable items that might help them lure in prey.
 
 Leucrottas sometimes lead packs of gnolls, or even of their bestial cousins the crocottas (see below). They refuse to let themselves be used as beasts of burden, but sometimes allow favored gnoll companions to ride them into battle as steeds. The leucrotta in a gnoll pack generally thinks of itself as the leader of that group, and treats any established gnoll chieftain poorly in an attempt to goad that gnoll into attacking it. Those leucrottas that succeed in slaying a gnoll leader typically find it much easier to assume the role of tribal leader.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leucrotta)
 ```encounter-table
 name: Leucrotta

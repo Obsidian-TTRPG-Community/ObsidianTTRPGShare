@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightwing
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 203
 desc_short: This enormous, bat-like creature is shaped from utter darkness, its eyes tiny red stars in the blackest night.
 ```
-# Description
+## Description
 The least of the known types of nightshade, the nightwing is nevertheless a deadly foe. Nightwings often serve more powerful nightshades as aerial support. These nightshades are also the most likely to be found serving a non-undead master-nightwings are often used by powerful mortals as guardians or sentinels. Despite this, nightwings still hope to someday slay any master they serve. They enter servitude primarily as a method of aiding a destructive or murderous mortal in their task of mass murder; once this task is over, or if at any point the nightwing believes its master is slacking in its murderous duties, the nightwing is swift to turn on its one-time ally.
 
 A nightwing found on the Material Plane not in the employ of a more powerful master is typically encountered in rugged terrain where there are numerous locations that can provide shelter when the sun rises. The monsters prefer caves and abandoned buildings for this purpose.
 
 A nightwing’s body is 20 feet long, but its wingspan is 80 feet. It weighs 4,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightwing)
 ```encounter-table
 name: Nightwing

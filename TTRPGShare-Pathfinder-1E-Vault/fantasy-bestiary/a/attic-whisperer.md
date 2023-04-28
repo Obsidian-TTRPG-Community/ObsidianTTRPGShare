@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Attic Whisperer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 92
 desc_short: This thing resembles a gray, emaciated child, with cobwebs and dust for clothes and a fox skull for a head. 
 ```
-# Description
+## Description
 An attic whisperer spawns as the result of a lonely or neglected child’s death. Rather than animating the body of the dead youth, the creature rises from an amalgam of old toys, clothing, dust, and other objects associated with the departed-icons of the child’s neglect. The widely varying materials that fuse together to form these creatures lead to attic whisperers with vastly different appearances. Attic whisperers linger in the places where they were formed, typically old homes, orphanages, schools, debtors’ prisons, workhouses, and similar places where children might be discarded. When an attic whisperer first forms, it does so without a skull-this does not impact the creature’s abilities in any way, but it usually seeks out a small animal’s skull as a form of decoration soon after it manifests. 
 
 An attic whisperers haunts shadowy, forgotten places like old buildings and dilapidated institutions, places that were once homes to both young children and subtle evils. Hiding in drafty attics and moldy basements, an attic whisperer might lie dormant for decades while the quick go about their lives-often a scant floor away. The coming of a new child, though, rekindles some hope in the creature, its animating spirits motivated by loneliness, and ever seeking comfort and companionship. Once an attic whisperer finds a potential playmate, it does all it can to ensure it will never be lonely again by attempting to lure its friend to it, singing nursery rhymes, leaving trails of old toys, or calling out in the stolen voices of other children. 
 
 Destroying an attic whisperer reduces it to its component parts, usually consisting of dusty junk left to molder in the attics of old houses, though a few items, such as china dolls, small lockets, music boxes, precious marbles, fine teacups, sculpted metal soldiers, or the like, may have some value.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Attic%20Whisperer)
 ```encounter-table
 name: Attic Whisperer

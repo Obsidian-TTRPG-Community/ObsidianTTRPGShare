@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slimy Demodand
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 70
 desc_short: This muscular, frog-headed humanoid has tattered flesh hanging from its batlike wings and is covered in a viscous slime.
 ```
-# Description
+## Description
 Slimy demodands are more muscular than shaggy demodands, but aren’t as lithe or quick as their tarry brethren. They have froglike heads, similar to those of the shaggy demodands, but their constantly darting eyes give them a more feral look. A slimy demodand stands 6 feet tall and weighs 500 pounds.
 
 Slimy demodands often serve as shock troops in demodand armies, but they are also frequently put in charge of gathering and keeping slaves. Slimy demodands have no magical mind control powers, but prefer to rely upon intimidation and physical threats anyway to manage their slaves and keep them in line.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slimy%20Demodand)
 ```encounter-table
 name: Slimy Demodand

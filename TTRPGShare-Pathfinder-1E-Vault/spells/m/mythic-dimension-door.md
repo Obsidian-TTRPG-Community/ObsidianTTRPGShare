@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dimension Door
+aliases: [Mythic Dimension Door]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dimension Door
+## Mythic Dimension Door
 
 **source**:: Mythic Adventures pg. 91  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 4, bard 4, magus 4, medium 3, mesmerist 4, occultist 4, psychic 4, skald 4, sorcerer 4, spiritualist 4, summoner 3, summoner (unchained) 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: you and touched objects or other touched willing creatures  
@@ -21,7 +23,7 @@ alias: Mythic Dimension Door
 **saving-throw**:: none and Will negates (object)
 **spell-resistance**:: no and yes (object)
 
-### Description 
+### Description
 
 You instantly transfer yourself from your current location to any other spot within range. You always arrive at exactly the spot desired-whether by simply visualizing the area or by stating direction. After using this spell, you can't take any other actions until your next turn. You can bring along objects as long as their weight doesn't exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.  
   

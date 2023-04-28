@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogre King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
   - name: Monster Codex
     desc: 159
 ```
-# Description
+## Description
 Few ogres live long enough to amass great power-which makes an army commanded by a powerful ogre king or queen a terrifying force to behold.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogre%20King)
 ```encounter-table
 name: Ogre King

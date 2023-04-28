@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 166
 desc_short: This humanoid is mostly hidden behind plates of elaborate golden armor, the spaces in between revealing flesh of black stone.
 ```
-# Description
+## Description
 Behemoths of onyx and golden armor, maruts shake the ground when they walk, each thunderous step ringing a death knell for those they’ve come to take. Rarely seeming to hurry, a marut’s onslaught is deliberate, purposeful, and relentless. Its quarry may impede it or flee, running for decades or centuries, but from the initial meeting onward, the target must always look over its shoulder with the knowledge that, like death itself, the marut is ever at its heels, slowly but surely approaching, bringing balance through inevitable oblivion.
 
 Maruts primarily target those mortal souls who have artificially extended their lifespans beyond what is feasible for their race, such as liches and other powerful magic users. Extraordinary but natural means of cheating death are sometimes also punished, such as the magistrate who murders an entire starving town to save himself, or those who foresee their own deaths via divination magic and are therefore able to avoid them.
 
 Although they are capable of speaking eloquently in any language, and frequently gather vast amounts of information from those who are intimidated by their mere presence, maruts rarely engage in conversation or strategic alliances with mortals. Even on the battlefield, the juggernauts prefer to remain silent, knowing that their targets are already aware of their own transgressions and that all mortals secretly harbor dreams of immortality.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marut)
 ```encounter-table
 name: Marut

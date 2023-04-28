@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nymph Water Strider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
     desc: 273
 desc_short: These small, immature water insects are easily supported by the water’s surface tension.
 ```
-# Description
+## Description
 A nymph water strider is an immature specimen of the giant water strider-more mature than a caterpillar but not yet an adult. Over the next several months it eats and molts, increasing in size with each molt until it becomes Large and is fully adult. These creatures are shy and more skittish than adults.
 
 Lizardfolk hunt wild nymph water striders, and consider them a wonderful delicacy. Boggards and gripplis raise them as food animals, but something about the domestication process makes such nymphs unappealing to lizardfolk. In the wild they frantically flee other creatures that approach them, making them difficult to hunt or corral. Many boggard, lizardfolk, and grippli tribes consider capturing a live nymph a rite of passage to adulthood.
 
 A nymph water strider isn’t suitable as a mount for any Large or smaller creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nymph%20Water%20Strider)
 ```encounter-table
 name: Nymph Water Strider

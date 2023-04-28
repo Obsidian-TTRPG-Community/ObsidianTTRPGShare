@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shinigami
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 244
 desc_short: This emaciated, robed humanoid wields a scythe made of bone to match the skeletal wings that protrude from its shoulders.
 ```
-# Description
+## Description
 Feared as truly impartial and merciless harbingers of death, shinigamis are relentless in their pursuit of dispensing quick and just deaths upon those who would seek to disrupt the delicate balance of life. Unlike other, more sinister bringers of doom, shinigamis do not take pleasure in their work and do not seek to impose suffering-although there are exceptions. Some individuals, aptly described by their kin as “rogue shinigamis,” subscribe to either more merciful or more despicable forms of execution, and are either lawful good or lawful evil. Victims who have had their lives spared by kind shinigamis praise the angels of death for their clemency and willingness to listen to the victims’ plight, while other dastardly survivors have successfully cheated or bribed their way out of death by manipulating credulous or less honorable shinigami. A shinigami is 9 feet tall and weighs 130 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shinigami)
 ```encounter-table
 name: Shinigami

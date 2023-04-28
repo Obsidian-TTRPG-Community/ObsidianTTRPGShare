@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 142
 desc_short: This being resembles a powerful giant with hairless blue-green skin, deep blue eyes, flamboyant eyebrows, and pearlescent teeth.
 ```
-# Description
+## Description
 Marids are genies from the Plane of Water. The most powerful of all the genie races, they are said to possess the strength of the ocean’s currents and teeth made of pearl. A marid stands about 16 feet tall and weighs nearly 2,500 pounds.
 
 The marids are perhaps the most unpredictable and capricious of the genies, a quality that the others (particularly shaitans) find to be both aggravating and embarrassing to the entire genie culture. Many marids become dancers, storytellers, performers, or other types of artists, and often travel to the Material Plane in disguise to seek out new audiences.
 
 A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3/day-cone of cold, ice storm; 1/day-elemental swarm (water elementals only), permanent image. A noble marid’s caster level for its spell-like abilities is 20th. Noble marids are CR 11.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marid)
 ```encounter-table
 name: Marid

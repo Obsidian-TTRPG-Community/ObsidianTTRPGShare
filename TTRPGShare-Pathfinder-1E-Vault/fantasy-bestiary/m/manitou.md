@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Manitou
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 192
 desc_short: An invisible presence suggests the shape of a giant-sized person, surrounded by a rhythm of subtle noises from the natural world.
 ```
-# Description
+## Description
 A manitou is a powerful, benevolent spirit of nature that safeguards entire regions from danger, heals the sick and wounded, and preserves the balance among all creatures. When not invisible, a manitou looks like a powerfully built, long-haired humanoid with skin made of tree bark and rose quartz. A manitou stands 20 feet tall and weighs over 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Manitou)
 ```encounter-table
 name: Manitou

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jinmenju
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 86
 desc_short: A low hum surrounds this huge, gnarled tree. The rotten fruits that hang from its sickly branches look vaguely like human heads.
 ```
-# Description
+## Description
 Jinmenjus are trees that grow in hilly regions far from civilized lands, and prey on those who come too close. They are remarkably intelligent and crafty, and use both scent and magical compulsion to lure prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jinmenju)
 ```encounter-table
 name: Jinmenju

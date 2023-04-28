@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wendigo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 88
 desc_short: This hideous shape has the head of a feral elk with jagged teeth and sharp antlers. Its humanoid legs end in blackened, burnt stumps.
 ```
-# Description
+## Description
 Beings of ancient evil, wendigos haunt the minds of mortals, driving them to desperation and, ultimately, cannibalistic madness. They enjoy whittling down prey before they strike, trailing victims for days, even weeks, while plaguing their journeys with nightmares and foul weather.
 
 Tribal humanoids sometimes worship wendigos as gods, bringing them live sacrifices or attempting to appease the creatures by engaging in ritual cannibalism. They mark a wendigo’s territory with fetishes and dress in the furs and hides of whatever animal it most closely resembles. Wendigos take little interest in the practices of their worshipers, and view them only as an ample supply of victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wendigo)
 ```encounter-table
 name: Wendigo

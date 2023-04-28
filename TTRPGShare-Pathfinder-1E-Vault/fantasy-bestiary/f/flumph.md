@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flumph
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 39
 desc_short: This pale, jellyfish-like creature floats gently in the air, two long eyestalks extending from either side of its puckered mouth.
 ```
-# Description
+## Description
 Come from distant stars to protect unprepared worlds from cosmic horrors, flumphs are jellyfish-like creatures that float in the air and hunt with acidic spikes growing from their undersides. Gentle at heart, flumphs understand that their appearance often terrifies viewers, and thus conceal themselves and observe neighboring settlements from afar, only revealing themselves when absolutely necessary. They also know full well the limitations of their fragile forms, and rather than directly opposing the horrors they seek to defeat, they prefer to recruit and advise heroes to tackle these dangerous tasks instead.
 
 Flumphs float and speak via a constant flow of air through tiny pores in their white bodies, emitting a rhythmic puffing whenever they’re aloft. Typical flumphs weigh 15 pounds and are 3 feet across. Flumphs deeply revere dreams, seeing them as omens and portents. While they normally mate and reproduce on the world of their birth, flumphs occasionally engage in a ritual called the Seeding, in which seed pods are flung into outer space in order to provide other planets with guardians.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flumph)
 ```encounter-table
 name: Flumph

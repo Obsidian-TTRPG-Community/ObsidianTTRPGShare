@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Voidstick Zombie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 90
 desc_short: This shambling humanoid’s taut gray skin shows signs of arcane symbols now faded with age and decay. Long, darkwood spikes riddle its body; every inch of flesh is staked and violated. A palpable aura of entropy and despair hangs over the sorry, perforated creature.
 ```
-# Description
+## Description
 The voidstick zombie is the hateful creation of wicked shamans and necromancers, who use voidsticks to animate the dead. One voidstick is required for every Hit Die possessed by the base creature. These vile devices, each of which is 6 to 10 inches in length, are pierced through the living or dead body of a creature, pumping the dark energy of the void into its form. Packed with the bitter entropy of negative energy, the creature rises, seeking out the life force of others with endless sadness and insane determination. Its single goal is to extinguish life and smother any source of positive energy. Multiple voidsticks in a creature’s form feed one another, augmenting their standard abilities and imbuing the touch of the voidstick zombie with the power to drain life from anything it touches. The zombie becomes almost a sliver of the void itself, existing in a state of such negative power that its very proximity can tamper with other creatures’ abilities to summon the powers of the Positive Energy Plane, and with the perpetual sadness that numbs its own intellect it gains the power to enhance and influence other creatures that depend on negative energy.
 
 These sad creatures, wracked with soulless negative energy, constantly hunger for destruction, delighted at every chance they get to snuff the spark of life from the living. They hunt the islands throughout the Shackles, especially the Cannibal Isles, where their creation began long before its current inhabitants made their home there.
@@ -60,7 +62,7 @@ These sad creatures, wracked with soulless negative energy, constantly hunger fo
 As the brutal and savage kuru people of the Cannibal Isles explored the ruins of Ghol-Gan, they discovered the foul magic involved with the voidsticks, and as they turned to barbarism and cannibalism, their shamans carved these devices and created the first voidstick zombie seen on Golarion in thousands of years. The kuru use voidstick zombies for war against each other and to serve as ruthless hunters, culling humanoids who wander too close to their blood-drenched islands. Kuru shamans create the vile voidsticks in order to enhance their own necromantic strength as well as to animate voidstick zombies. In some tribes it is seen as a great honor to be transformed into one of these powerful creatures, and some aged shamans on the eve of their death elect to undergo this transformation instead of becoming a ritual meal for their tribes.
 
 Since the rediscovery of voidsticks, those interested in necromancy and the creation of new undead have sent emissaries to the Shackles eager to buy them. These enterprising necromancers experiment with the devices and unleash voidstick zombies into Avistan and Garund to fulfill their murderous intent.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Voidstick%20Zombie)
 ```encounter-table
 name: Voidstick Zombie

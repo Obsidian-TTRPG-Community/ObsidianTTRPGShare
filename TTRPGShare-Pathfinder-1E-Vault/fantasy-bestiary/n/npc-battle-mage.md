@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Battle Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
   - name: NPC Codex
     desc: 179
 ```
-# Description
+## Description
 These mercenary wizards are able to fill many roles, and demand a high fee for their versatility.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Battle%20Mage)
 ```encounter-table
 name: NPC Battle Mage

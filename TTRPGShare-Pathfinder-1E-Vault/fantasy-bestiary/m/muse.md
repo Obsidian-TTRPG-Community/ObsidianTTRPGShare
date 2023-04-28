@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Muse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 179
 desc_short: This beautiful, woman moves with impossible grace, a knowing smile on her lips.
 ```
-# Description
+## Description
 Muses are the fey incarnation of inspiration, rousing poets, musicians, and artists to greater works of beauty.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Muse)
 ```encounter-table
 name: Muse

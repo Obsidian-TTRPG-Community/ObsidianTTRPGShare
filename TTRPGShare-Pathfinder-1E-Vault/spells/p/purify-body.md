@@ -1,19 +1,21 @@
 ---
-alias: Purify Body
+aliases: [Purify Body]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Purify Body 
+## Purify Body
 
 **source**:: Healer's Handbook pg. 9  
 **school**:: conjuration (healing)
 **level**:: alchemist 4, cleric 4, medium 4, oracle 4, paladin 4, psychic 5, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Purify Body
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You align the target’s chakras and soothe any unwanted imperfections found within its physical form, leaving its body pristine and without any pain or weakness.  
   

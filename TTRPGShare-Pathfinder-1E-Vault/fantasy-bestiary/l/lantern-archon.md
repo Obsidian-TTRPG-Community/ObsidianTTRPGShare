@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lantern Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 20
 desc_short: Shedding a warm and calming radiance, this orb of light moves with a preternatural silence and otherworldly grace.
 ```
-# Description
+## Description
 Friendly and curious beings, lantern archons eagerly converse with and assist other creatures. Their bodies, however, are merely globes of spiritual purity and pale light, and though they might interact with their surroundings through pure force of will, such interaction proves too weak to help with most physical tasks. Their evasive natures make them exceptional at scouting-at least in areas where strange lights aren’t unusual-relaying messages, and overwhelming enemies with surprise and group tactics. Although they appear fragile, their forms guard them against all but the most profane attacks.
 
 A lantern archon always glows, usually as bright as a torch. They have total control over the color of light they shed, and take great pleasure in modulating their colors and brightness in time to music or to entertain other creatures. Most lantern archons speak in airy, echoing voices, with tones that range from somber whispers to hurried chirping. Often, their light fluctuates along with their words or tones, punctuating their speech with sparks of light or gentle pulses. As a swift action, a lantern archon can dampen its light to that of a candle for 1 round. Only death can extinguish this light. As lantern archons never sleep or eat, they make excellent watchers and guardians. Lantern archons light many settlements in the celestial realms in lieu of mundane or magical illumination, serving as disguised sentinels always watchful for approaching evil.
 
 Small but fast and zealous, lantern archons make excellent support troops in celestial armies, swarming over weak opponents or teleporting en masse to flanking positions to cut off reinforcements or escape routes. These miniature archons work well together and know that there is great strength in numbers, uniting in times of need and desperation to form gestalts with greater control over their surroundings. Especially brave lantern archons might eventually be promoted into a more powerful kind of archon, but most are content with their status.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lantern%20Archon)
 ```encounter-table
 name: Lantern Archon

@@ -1,19 +1,21 @@
 ---
-alias: Discern Value
+aliases: [Discern Value]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Discern Value 
+## Discern Value
 
 **source**:: Dungeoneer's Handbook pg. 30  
 **school**:: divination
 **level**:: arcanist 3, bard 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (platinum monocle worth 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Discern Value
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can quickly analyze the monetary value of objects and identify which are most valuable to an average trader. You must specify a minimum value to detect when you cast this spell (such as 1 gp, 100 gp, or 1,000 gp). The amount of information revealed depends on how long you study a particular area or subject.  
   

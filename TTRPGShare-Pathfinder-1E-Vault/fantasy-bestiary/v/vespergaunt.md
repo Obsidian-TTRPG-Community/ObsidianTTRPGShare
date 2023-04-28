@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vespergaunt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 58
 desc_short: This amorphous mass of eyes, tentacles, and protoplasm exudes thick, roiling clouds of green vapor.
 ```
-# Description
+## Description
 Often called “heresy oozes,” vespergaunts are emissaries of the horrible god-things of deep space and are found primarily on befouled, remote planets. 
 
 A vespergaunt is 8 feet tall and 6 feet wide, and weighs just 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vespergaunt)
 ```encounter-table
 name: Vespergaunt

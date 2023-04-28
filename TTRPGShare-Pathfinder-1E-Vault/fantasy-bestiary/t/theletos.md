@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Theletos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 14
 desc_short: Four bandy limbs, each splitting at the elbow into two three-fingered forearms, emerge from this creature’s crystalline body. 
 ```
-# Description
+## Description
 The strange theletos is the guardian of the duality between freedom and fate. Slavery is no more of an issue to a theletos than is true freedom, but without one, the other cannot exist. In areas where slavery is rife, a theletos might aid in freeing some slaves, while in regions where slavery has been abolished, this strange being works to subjugate many creatures with its own mind-controlling spell-like abilities-often encouraging them to further undertake acts of slavery themselves. The theletos is also a guardian of fate and prophecy, and while for some creatures it might allow glimpses of futures, others who peer into the future almost seem to cause the aeon physical pain. The theletos cannot explain why one seer might be allowed to divine futures while another should not-it knows only that some prophets should be denied this pursuit. 
 
 A theletos is 5 feet tall and weighs 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Theletos)
 ```encounter-table
 name: Theletos

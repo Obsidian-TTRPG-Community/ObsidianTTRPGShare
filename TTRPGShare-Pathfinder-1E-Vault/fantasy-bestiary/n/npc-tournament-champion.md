@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tournament Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
   - name: NPC Codex
     desc: 201
 ```
-# Description
+## Description
 These half-elves travel from fair to fair, entertaining crowds with archery prowess, arcane flourishes, and epic ballads.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tournament%20Champion)
 ```encounter-table
 name: NPC Tournament Champion

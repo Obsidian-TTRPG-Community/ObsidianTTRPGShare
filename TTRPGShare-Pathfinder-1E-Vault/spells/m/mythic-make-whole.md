@@ -1,19 +1,21 @@
 ---
-alias: Mythic Make Whole
+aliases: [Mythic Make Whole]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Make Whole
+## Mythic Make Whole
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: transmutation
 **level**:: arcanist 2, cleric 2, occultist 2, oracle 2, psychic 2, redmantisassassin 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one object up to 10 cu. ft./level or one construct creature of any size  
@@ -21,7 +23,7 @@ alias: Mythic Make Whole
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 This spell functions as *mending*, except that it repairs 1d6 points of damage per level when cast on a construct creature (maximum 5d6).  
   

@@ -1,19 +1,21 @@
 ---
-alias: Tsunami
+aliases: [Tsunami]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Tsunami 
+## Tsunami
 
 **source**:: Advanced Player's Guide pg. 251  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 9, druid 9, shaman 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level  
@@ -21,7 +23,7 @@ alias: Tsunami
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a massive wave of water that then moves in a straight line across water or land-you select the direction the wave travels (which must be perpendicular to its width), but once set in motion, the wave cannot change course. Over the surface of open water, the wave travels at a speed of 60 feet per round-on land or underwater, the wave travels at a speed of 30 feet per round.  
   
@@ -31,7 +33,7 @@ Objects struck by a tsunami are swept up if they are Huge or smaller and are car
   
 A solid barrier that is taller than the tsunami that is not destroyed by the wave stops that portion of the wave from continuing onward, leaving a gap in the wave as the rest of it continues forward.
 
-## Mythic Tsunami 
+## Mythic Tsunami
 
 **source**:: Mythic Adventures pg. 110  
 The wave increases to 20 feet wide per caster level and 3 feet tall per caster level. The damage dealt to those struck by the wave increases to 12d6 points of bludgeoning damage. Add your tier to the wave’s special combat maneuver check. The damage dealt to those that fail to escape the wave increases to 6d8 points of bludgeoning damage.  

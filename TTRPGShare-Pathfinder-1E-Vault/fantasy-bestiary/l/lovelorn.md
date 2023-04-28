@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lovelorn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 182
 desc_short: Eight legs of shattered bone emerge from this sickly, pulsating heart, holding it aloft like a spider. Blood oozes from the glistening organ.
 ```
-# Description
+## Description
 Vicious creatures driven by misery and suffering, lovelorns arise from the souls of those who die when love takes a tragic turn-star-crossed lovers who committed suicide and victims of abusive relationships and violent family confrontations. In death, the stubborn spirit fixates solely on its heart, animating the dead organ and bursting free from its body, dedicated to unmaking everything it cared for in life. 
 
 Although these distressing undead monsters enjoy the sensation of using their fangs on living tissue, lovelorns thrive on feelings of misery rather than flesh, and their mere presence corrupts an area into a maze of despair and deadly traps. They may stalk and murder ex-lovers, but they just as often lurk in a home or community to seed misfortune and contempt, and feast upon the resulting anger and sadness. Their small size and ability to meddle with the memories and emotions of the living allow them to remain hidden for years, or even haunt a single family for generations. 
 
 A lovelorn’s central body is almost twice the size of a healthy human heart, with 7 to 10 bone legs that stretch up to 2 feet long and resemble those of a spider
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lovelorn)
 ```encounter-table
 name: Lovelorn

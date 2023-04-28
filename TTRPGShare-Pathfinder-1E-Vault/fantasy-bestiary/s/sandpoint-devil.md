@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sandpoint Devil
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 39
 desc_short: This mangy horselike beast walks perversely upright. Wings, a dragon’s tail, and a fanged mouth complete its vile appearance.
 ```
-# Description
+## Description
 The legendary Sandpoint Devil has haunted the lands around its namesake town on the western Varisian coast for well over a decade. It most commonly appears on misty, moonless nights, sometimes leaving behind strange clues to its passing, such as brimstone-smelling hoofprints in odd places (such as along the eaves of a steep roof ).
 
 A thief of livestock, kidnapper of children, and bringer of woes-countless tales surround the beast. Some explain away the creature as an ancient, wizard-warped beast from a forgotten age. Others hold that the monster was borne by a cursed witch who broke an oath with a devil. Yet perhaps the most disturbing rumors point to the possibility that the creature is but one of many that dwell in the wilds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sandpoint%20Devil)
 ```encounter-table
 name: Sandpoint Devil

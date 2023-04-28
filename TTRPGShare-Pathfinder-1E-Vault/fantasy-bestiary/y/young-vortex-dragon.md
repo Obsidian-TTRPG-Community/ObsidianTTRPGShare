@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Vortex Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 74
 desc_short: This dragon twists and whips with near untraceable speed. Its horns, crests along its neck, and wings emit a glow like starlight.
 ```
-# Description
+## Description
 Vortex dragons are the undisputed masters of travel across the galaxies, serving as messengers and observers for the greatest outer dragons and godlike entities in the great beyond.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Vortex%20Dragon)
 ```encounter-table
 name: Young Vortex Dragon

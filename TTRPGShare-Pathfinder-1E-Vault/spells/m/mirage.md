@@ -1,19 +1,21 @@
 ---
-alias: Mirage
+aliases: [Mirage]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mirage 
+## Mirage
 
 **source**:: Ultimate Wilderness pg. 232  
 **school**:: illusion (figment)
 **level**:: bard 3, druid 3, hunter 3, mesmerist 3, occultist 3, psychic 3, ranger 3, skald 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (a pinch of sand and a drop of water)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: one 40-ft.-cube/level (S)  
@@ -21,7 +23,7 @@ alias: Mirage
 **saving-throw**:: Will disbelief (see below)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create an image of a pool of water, a group of standing stones, a cove, an island, or another simple land formation over a stretch of flat land or water. The image is purely visual, and structures, equipment, and creatures within the area are not hidden or changed in appearance.  
   

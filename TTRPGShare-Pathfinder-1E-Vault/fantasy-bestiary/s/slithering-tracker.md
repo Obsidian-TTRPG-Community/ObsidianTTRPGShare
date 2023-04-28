@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slithering Tracker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 250
 desc_short: A long, moist streak along the dark stone suddenly undulates like a serpent and then rises up to attack.
 ```
-# Description
+## Description
 An alien inhabitant of the dark underworld, the slithering tracker is a glistening creature of transparent ooze, typically about 3 inches thick and at least 3 feet in diameter. When still, it looks like a wet patch of stone or a patch of condensation on a wall. Comparatively slow moving, the slithering tracker relies on its transparency and knack for ambushing to surprise prey.
 
 Once a slithering tracker has paralyzed a living creature, it flows over an exposed patch of flesh, grabbing on and draining blood from the victim. A slithering tracker can drain a human-sized creature of its blood with shocking swiftness, leaving only a desiccated carcass behind. A slithering tracker can go some time between meals, but never turns down easy prey. The larger a slithering tracker grows, the more voracious its appetite becomes, until, after a particularly large feeding, the creature splits into two smaller slithering trackers that eventually go their separate ways in search of feeding territory.
@@ -58,7 +60,7 @@ Once a slithering tracker has paralyzed a living creature, it flows over an expo
 Slithering trackers are not harmed by bright light, but still prefer to avoid areas of intense illumination or natural sunlight, and so only venture aboveground at night. They prefer the cool, damp environment of their native caves and tunnels.
 
 Although intelligent and cunning, slithering trackers are entirely alien creatures. They do not possess any language of their own, although they can usually understand the dominant language of the region they dwell in-usually Undercommon. Some underworld inhabitants do manage to forge alliances with slithering trackers, or at least exist with them in symbiosis by providing the creatures with easy and regular prey, but as one can never truly know a slithering tracker’s desires or motivations, such alliances are dangerous to rely upon.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slithering%20Tracker)
 ```encounter-table
 name: Slithering Tracker

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Puffin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 11
 desc_short: This squat, black-and-white bird has a bright red-and-black beak.
 ```
-# Description
+## Description
 These short-winged and short-tailed birds favor cold rocky islands. They dine primarily on fish. Their beak retains its color through the mating season, and then the color is shed off, revealing a smaller, muted beak.
 
  Puffins are about a foot long and weigh close to 1 pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Puffin)
 ```encounter-table
 name: Puffin

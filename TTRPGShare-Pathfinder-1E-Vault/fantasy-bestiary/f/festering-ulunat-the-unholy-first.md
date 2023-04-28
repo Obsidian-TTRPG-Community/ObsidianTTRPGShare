@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Festering Ulunat (The Unholy First)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
   - name: Pathfinder No. 84: Pyramid of the Sky Pharaoh
     desc: 64
 ```
-# Description
+## Description
 Ulunat’s carapace towers above Sothis, creating what is now known as the Black Dome. The most exclusive part of the city, the Black Dome shields its district from the sun’s blazing heat and the desert’s blistering sandstorms. Beneath the Black Dome sit palaces and monuments, the most important of which is the seat of Sothis’s government and the home of the Ruby Prince.
 
  The stories from the beginning of the First Age of Osirion claim that Azghaad killed Ulunat-some even say that he achieved this feat with the divine help of Nethys-but the truth is that the Spawn of Rovagug are unkillable. After a lengthy and dangerous battle, Azghaad banished Ulunat to a pocket realm beneath the place where its bloated shell still stands. In this realm, under the oldest and largest settlement in Osirion, Ulunat sleeps.
@@ -72,7 +74,7 @@ Ulunat’s carapace towers above Sothis, creating what is now known as the Black
  Before this ancient conflict, the great beast emerged from the Pit of Gormuz and thundered across Golarion. As Ulunat neared what is now Sothis, cultists of Rovagug channeling the power of raw chaos in a massive ritual- chanting cacophonous praises to the Rough Beast- opened a direct link between Ulunat and Rovagug. Empowered by this divine connection, Ulunat grew to an immense size and charged across the land, trampling everything in its path.
 
  Now, thousands of years later, the Unholy First has begun to stir in its prison. Numerous past attempts to free the Unholy First have failed, and most of these were hidden from the public and Osirion’s official history in hopes that the proper method for freeing Ulunat would remain unknown. However, this doesn’t stop cultists and doomsayers from trying to bring back the terrible beast.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Festering%20Ulunat%20(The%20Unholy%20First))
 ```encounter-table
 name: Festering Ulunat (The Unholy First)

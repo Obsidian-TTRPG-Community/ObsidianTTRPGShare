@@ -1,19 +1,21 @@
 ---
-alias: Heat Metal
+aliases: [Heat Metal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Heat Metal 
+## Heat Metal
 
 **source**:: PRPG Core Rulebook pg. 294  
 **school**:: transmutation (fire)
 **level**:: druid 2, hunter 2, occultist 2, psychic 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart, or 25 lbs. of metal/level, all of which must be within a 30-ft. circle  
@@ -21,7 +23,7 @@ alias: Heat Metal
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 *Heat metal* causes metal objects to become red-hot. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw bonus unless its own is higher.  
   
@@ -44,7 +46,7 @@ Any cold intense enough to damage the creature negates fire damage from the spel
   
 *Heat metal* counters and dispels *chill metal*.
 
-## Mythic Heat Metal 
+## Mythic Heat Metal
 
 **source**:: Mythic Adventures pg. 97  
 The damage dealt increases to 1d8 points of fire damage on rounds 2 and 6 and to 2d8 points of fire damage per round on rounds 3 through 5. On any round in which a creature takes fire damage from this spell, that creature must succeed at a Reflex save or catch on fire (*Core Rulebook* 444).

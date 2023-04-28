@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cruel Instructor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
   - name: NPC Codex
     desc: 32
 ```
-# Description
+## Description
 Cruel instructors teach great knowledge, but in the most belittling manner.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cruel%20Instructor)
 ```encounter-table
 name: NPC Cruel Instructor

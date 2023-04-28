@@ -1,19 +1,21 @@
 ---
-alias: Enervation
+aliases: [Enervation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Enervation 
+## Enervation
 
 **source**:: PRPG Core Rulebook pg. 277  
 **school**:: necromancy
 **level**:: arcanist 4, bloodrager 4, mesmerist 4, sorcerer 4, spiritualist 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: ray of negative energy  
@@ -21,7 +23,7 @@ alias: Enervation
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You point your finger and fire a black ray of negative energy that suppresses the life force of any living creature it strikes. You must make a ranged touch attack to hit. If you hit, the subject gains 1d4 temporary negative levels (see Special Abilities). Negative levels stack.  
   
@@ -29,7 +31,7 @@ Assuming the subject survives, it regains lost levels after a number of hours eq
   
 An undead creature struck by the ray gains 1d4 × 5 temporary hit points for 1 hour.
 
-## Mythic Enervation 
+## Mythic Enervation
 
 **source**:: Mythic Adventures pg. 93  
 The number of negative levels inflicted increases to 1d6, and the target is sickened for 24 hours. An undead creature struck by the ray gains 1d6 × 5 temporary hit points for a number of hours equal to your caster level.  

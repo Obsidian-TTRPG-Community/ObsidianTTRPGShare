@@ -1,19 +1,21 @@
 ---
-alias: Black Spot
+aliases: [Black Spot]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Black Spot 
+## Black Spot
 
 **source**:: Pirates of the Inner Sea pg. 28  
 **school**:: necromancy
 **level**:: arcanist 5, cleric 4, oracle 4, sorcerer 5, warpriest 4, witch 4, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Black Spot
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 The *black spot* is a specific and feared pirate curse. An intangible, illusory black spot manifests above the target’s head and remains until the target dies or the curse is lifted. The *black spot* cannot be covered or hidden by any means, including other illusions.  
   

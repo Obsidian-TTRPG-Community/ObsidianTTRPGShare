@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yamasoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,13 +79,13 @@ sources:
     desc: 66
 desc_short: Writhing, hook-covered tentacles unfurl from this behemoth’s body, at the center of which gapes a maw with a red eye in its throat.
 ```
-# Description
+## Description
 Yamasoth, known also as the Polymorph Plague, dwells in the endless cavern realm of Sekatar- Seraktis in the Abyss. Constantly at war with bickering balor lords and other powerful demons, Yamasoth has held his own as the lord of the Abyss’s largest, most centralized region: the Kingdom of New Flesh. The “new flesh” in question consists of the qlippoth lord’s subjects- men and women from countless worlds who may have been kings and queens at one time, but here are nothing more than base monsters, vermin, and beasts to serve at Yamasoth’s whim. Some he feeds upon. Others he keeps for his harem. But the bulk of the denizens of the Kingdom of New Flesh are soldiers. In this army, other qlippoth serve as commanders and generals, particularly Yamasoth’s favored minions, the gongorinans (see page 90).
 
 Unlike most qlippoth, Yamasoth does not necessarily prefer to kill but rather to transform. A human who sins and dies produces a soul that fuels the demonic horde, but a dumb beast or feral monster who dies is merely carrion. By transforming free-willed mortals into monsters, Yamasoth’s Army of the New Flesh only becomes more capable of ending worlds. Yamasoth’s centuries-long alliance with Runelord Alaznist may have eventually resulted in such an assault on Golarion, but the devastation of Earthfall ended those plans before Yamasoth’s burgeoning realm could finalize its gestation-proof that even in the greatest of disasters, some good is wrought.
 
 Yamasoth’s interest in transformations goes far beyond mere polymorphing. The qlippoth lord is also fascinated by the act of fleshwarping and reworking life into new forms of mutants. Rumors state that the nature of the experiments that take place deep in the Kingdom of New Flesh closely mimic those the daemons performed in the Abyss so long ago that resulted in the first demons. In fact, some dissident demonologists claim Yamasoth himself is a nascent demon lord, and is in fact that first, primal demon born of daemonic tampering with Abyssal quintessence and sinful souls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yamasoth)
 ```encounter-table
 name: Yamasoth

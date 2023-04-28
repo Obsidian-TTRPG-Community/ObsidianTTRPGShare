@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kuchrima
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 80
 desc_short: This vaguely humanoid creature has a vulture’s head and wings for arms, and wields an enormous bow in its taloned feet. 
 ```
-# Description
+## Description
 These foul creatures are a disgusting cross between humanoids and condors. Also known as the Eaters of the Dead, the kuchrimas are the lowest order of the lamia-kin, lacking even standard lamias' capability for spell-like abilities. They not only serve the function of common soldiers and scouts, but are also left to take care of the disposal of bodies, garbage, and other waste-most of which they feed upon. This habit results in their foul appearance and disease-ridden bite. Kuchrimas often wield giant bows in their powerful talons, holding the weapon in one talon and pulling the bowstring with the other in order to fire arrows with devastating effect.
 
  Kuchrimas have much in common with the condors they resemble, and are opportunistic hunters and scavengers. Bands of kuchrima hunters might f ly dozens of miles from their communal aerie, using their keen sight to locate prey both small and large. In the extreme mountainous areas they inhabit, such meals often take the form of giant rams, mountain aurochs, and even the occasional mountaineer, though these disgusting creatures prefer their meals dead and rotting.
 
  Kuchrimas dwell principally in the thin air among the upper peaks of desolate mountain ranges, where they have gathered in enclaves or “gluttonies.” They have lived in a state of static barbarism since the diaspora following the fall of the Thassilonian Empire. In the thousands of years since that civilization's collapse, these lamia-kin have migrated to many mountainous regions throughout Golarion. These disease-ridden hunters strive to remain well out of sight of landbound races, which they mistrust and fear in numbers. Should a new runelord or powerful harridan come into power and manage to locate these disparate gluttonies, however, the kuchrimas could be gathered into a formidable airborne force once again.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kuchrima)
 ```encounter-table
 name: Kuchrima

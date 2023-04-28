@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Crawler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 84
 desc_short: This furred creature has long tentacles that are covered in ridges and suction discs in place of arms, legs, and a tail.
 ```
-# Description
+## Description
 With arms reminiscent of a sea star or an octopus and the bodies of lemurs, sea crawlers range all over Azlant’s coasts. Sea crawlers sometimes eat fruit, but most prefer meat, lying in shallow waters and ambushing prey. A sea crawler is 5 feet long and weighs 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Crawler)
 ```encounter-table
 name: Sea Crawler

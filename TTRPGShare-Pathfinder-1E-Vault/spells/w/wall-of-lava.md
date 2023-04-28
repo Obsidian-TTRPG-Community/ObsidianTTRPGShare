@@ -1,19 +1,21 @@
 ---
-alias: Wall of Lava
+aliases: [Wall of Lava]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wall of Lava 
+## Wall of Lava
 
 **source**:: Advanced Player's Guide pg. 255  
 **school**:: conjuration (creation) (earth, fire)
 **level**:: arcanist 8, druid 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a chunk of dried lava)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: lava wall whose area is up to one 5-ft. square/level (S)  
@@ -21,7 +23,7 @@ alias: Wall of Lava
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell creates a vertical *wall of lava* that is 1 inch thick for every 4 caster levels and composed of up to one 5-foot square per level. A *wall of lava’s* maximum height cannot exceed half of its width (with a minimum height of 5 feet). The wall cannot be conjured so that it occupies the same space as a creature or object. A section of a *wall of lava* can be destroyed by damage (hardness 4, hp 90), but if a section is destroyed, the remaining lava in the wall immediately fills in any such hole created, reducing the wall’s overall size by one 5-foot square but remaining a contiguous barrier. Each time a weapon strikes a *wall of lava*, it takes 2d6 points of fire damage (or the creature who strikes the wall takes 2d6 fire damage if the attack was via an unarmed strike or natural attack).  
   

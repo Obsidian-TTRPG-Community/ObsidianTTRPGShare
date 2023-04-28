@@ -1,19 +1,21 @@
 ---
-alias: Detect Desires
+aliases: [Detect Desires]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Desires 
+## Detect Desires
 
 **source**:: Ultimate Intrigue pg. 211  
 **school**:: divination (mind-affecting)
 **level**:: antipaladin 2, arcanist 3, bard 2, cleric 3, inquisitor 3, medium 2, mesmerist 3, oracle 3, paladin 3, psychic 2, skald 2, sorcerer 3, spiritualist 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (a medallion)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Desires
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as per *detect thoughts*, except you sense significant desires of creatures with an Intelligence score of 1 or higher, regardless of whether they are conscious or not.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Treerazer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,13 +77,13 @@ sources:
     desc: 88
 desc_short: The twenty-foot-tall winged saurian demon wields an acid-dripping axe. Two red eyes glow above a tooth-filled beak.
 ```
-# Description
+## Description
 Treerazer, the self-styled Lord of the Blasted Tarn, was once the favored minion and lieutenant (some even say child) of Cyth-V’sug, Demon Lord of Fungus and Parasites. After a failed attempt to wrest that crown away from Cyth-V’sug, Treerazer fled to the Material Plane. Cyth-V’sug was unable (or perhaps only unwilling) to pursue, but took steps to ensure that Treerazer would remain there by exiling him, transforming Treerazer into a native outsider and severing his bond to the Abyss-if the Lord of the Blasted Tarn is slain, his animus will not return to the Abyss and reform. Death, to Treerazer, is a permanent thing.
 
 Treerazer arrived on Golarion near the end of the Age of Darkness, and found the savaged planet much to his liking-so much so that the sting of exile was somewhat ameliorated. He spent many centuries wandering the remote corners of Golarion before finally coming upon the abandoned elven nation of Kyonin in 2497 ar. In the Sovyrian Stone, he found an artifact that he believed he could use to reinstate his Abyssal link and, perhaps, even uproot the entire nation and refocus the portal from Sovyrian to the Abyss, thereby reclaiming his position there and taking one more step toward revenge against Cyth-V’sug. Yet the elves sensed his tamperings and returned to confront the demon. A terrific battle resulted, and while the elves were able to drive Treerazer out of Iadara and into southern Kyonin, they were unable to slay him or force him out completely-they merely concentrated his power in a smaller region. Instead, the elves “walled off ” this region, a perverted realm known today as the Tanglebriar. Treerazer lurks at the Tanglebriar’s heart to this day, the greatest bogeyman in elven mythology and a very real and constant threat to the nation’s security.
 
 Treerazer begins most combats by casting time stop and raising an antiplant shell to prevent plant creatures (including creatures under the effect of his aura of corruption) from approaching. If he has time, he also creates walls of thorns and summons demons (usually four nalfeshnees and 12 hezrous). In melee, Treerazer gleefully takes up Blackaxe and makes full attacks against the closest foe, or Greater Vital Strikes if he’s forced to move or charge. During the first 3 rounds of combat, he targets obvious spell effects with quickened greater dispel magic. If Treerazer is reduced to fewer than 150 hit points, he teleports back to his fortress, Witchbole, to recover and plan his revenge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Treerazer)
 ```encounter-table
 name: Treerazer

@@ -1,19 +1,21 @@
 ---
-alias: Detect Magic
+aliases: [Detect Magic]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Magic 
+## Detect Magic
 
 **source**:: PRPG Core Rulebook pg. 267  
 **school**:: divination
 **level**:: adept 0, arcanist 0, bard 0, cleric 0, druid 0, hunter 0, inquisitor 0, magus 0, medium 0, mesmerist 0, occultist 0, oracle 0, psychic 0, shaman 0, skald 0, sorcerer 0, spiritualist 0, summoner 0, summoner (unchained) 0, warpriest 0, witch 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Magic
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.  
   
@@ -58,4 +60,3 @@ Outsiders and elementals are not magical in themselves, but if they are summoned
 | **Faint**                       | **Moderate**   | **Strong** | **Overwhelming** |                     |
 | Functioning spell (spell level) | 3rd or lower   | 4th-6th    | 7th-9th          | 10th+ (deity-level) |
 | Magic item (caster level)       | 5th or lower   | 6th-11th   | 12th-20th        | 21st+ (artifact)    |
-

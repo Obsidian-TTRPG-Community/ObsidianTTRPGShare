@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Galluvix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 84
 desc_short: This curious-looking creature has the body and plumage of a rooster but sports the cunning features of a fox from the neck up.
 ```
-# Description
+## Description
 A galluvix is a puckish magical creature that resembles a cross between a fox and a flamboyant rooster. Cunning, stealthy, and a bit slothful, galluvixes see no reason to hunt wild game when they can simply infiltrate nearby chicken coops and eat their fill. If confronted, a galluvix defends itself with a shrieking magical bark and then flees. When not on the prowl, however, they are social creatures that sometimes bond with humanoids who are willing to lavish them with attention and meals. A galluvix often rewards these individuals with the gift of a magical egg.
 
  A typical galluvix is about 2 feet tall and weighs about 10 pounds. Galluvixes show great variety in both fur color and plumage, with the males displaying particularly showy tail feathers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Galluvix)
 ```encounter-table
 name: Galluvix

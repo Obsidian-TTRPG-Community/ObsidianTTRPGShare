@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tataka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,13 +79,13 @@ sources:
     desc: 230
 desc_short: This towering, blue-skinned woman has backward-facing hands and a feral, animal-like visage with exaggerated features.
 ```
-# Description
+## Description
 Tataka rakshasas are the least subtle and largest of their kind. They are philosophers and fanatics, loyal servants of the rakshasa immortals. Their familiarity with religion and its trappings makes them excellent corruptors and blasphemers. Such rakshasas might assault sacred sites or rituals directly so as to foil good works and slay holy people. A tataka holds all religions in contempt save the worship of rakshasas, and it openly mocks and assaults any who dare believe otherwise.
 
 Tataka rakshasas are more than zealots, though, and they train from an early age in martial arts-their strikes can break bones as surely as any unarmed strike from a monk or other practitioner of such styles of combat.
 
 A typical tataka is 12 feet tall and weighs 1,300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tataka)
 ```encounter-table
 name: Tataka

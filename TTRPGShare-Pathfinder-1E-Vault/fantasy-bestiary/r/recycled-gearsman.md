@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Recycled Gearsman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 52
 desc_short: Plates of mismatched metal cover gaps in the burnished brass armor encasing this construct. Exposed wires hang from its creaking joints, and its glowing glass eye appears to be cracked.
 ```
-# Description
+## Description
 A skilled artificer can revitalize a ruined construct by jury-rigging the pieces left intact. The patchwork nature of a recycled construct renders it fragile and leaves key circuitry exposed.
 
  The sample recycled construct above uses a gearsman as the base creature. The sample recycled gearsman is treated as if it received one glitch during construction reducing its bonus hit points by 5.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Recycled%20Gearsman)
 ```encounter-table
 name: Recycled Gearsman

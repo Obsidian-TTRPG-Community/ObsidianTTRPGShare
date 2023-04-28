@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Belostomatid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 14
 desc_short: Six powerful legs, each ending in a hooked claw, jut from the shield-like body of this horse-sized insect.
 ```
-# Description
+## Description
 The giant belostomatid is an ambush predator that lurks in shallow water and hides amid floating snags and debris. Smaller versions of these insects are known colloquially as “toebiters,” yet this version of the creature is the size of a horse and can sever the leg of a human in one bite.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Belostomatid)
 ```encounter-table
 name: Giant Belostomatid

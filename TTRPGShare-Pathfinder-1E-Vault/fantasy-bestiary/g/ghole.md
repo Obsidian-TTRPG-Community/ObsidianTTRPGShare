@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghole
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 132
 desc_short: The hulking form has a long, vulturelike neck ending in a head with a disgusting, one-eyed visage.
 ```
-# Description
+## Description
 Gholes are foul denizens of the wilderness that feed upon rotten meat. Their ability to restore flesh to even the most ancient of skeletal remains allows them to harvest flesh from ruins long forgotten by the living. Many gholes keep their favorite skeletons handy to repeat beloved meals, while others hoard ancient skeletons and savor the flavor of restored flesh in a grisly mockery of a gourmand’s appreciation of well aged wine or cheese. Many attempt to capture sick victims alive only to imprison them-sepulchers or crypts make for favorite prisons-so they perish of their sickness and thus provide the most delicious meal possible for the foul creature. 
 
 A typical ghole is 6 feet tall and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghole)
 ```encounter-table
 name: Ghole

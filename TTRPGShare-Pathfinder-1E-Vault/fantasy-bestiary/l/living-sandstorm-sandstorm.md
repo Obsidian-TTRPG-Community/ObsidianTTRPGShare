@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Sandstorm (Sandstorm)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: Pathfinder No. 83: The Slave Trenches of Hakotep
     desc: 86
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Sandstorm%20(Sandstorm))
 ```encounter-table
 name: Living Sandstorm (Sandstorm)

@@ -1,19 +1,21 @@
 ---
-alias: Plant Growth
+aliases: [Plant Growth]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Plant Growth 
+## Plant Growth
 
 **source**:: PRPG Core Rulebook pg. 322  
 **school**:: transmutation
 **level**:: druid 3, hunter 3, ranger 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target or Area** see text  
@@ -21,7 +23,7 @@ alias: Plant Growth
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Plant growth* has different effects depending on the version chosen.  
   

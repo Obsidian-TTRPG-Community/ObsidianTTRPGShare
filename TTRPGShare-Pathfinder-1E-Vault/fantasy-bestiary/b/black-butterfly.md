@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Black Butterfly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,13 +82,13 @@ sources:
     desc: 112
 desc_short: This living silhouette of a graceful woman has white hair and eyes. Her butterfly wings shimmer with twinkling stars.
 ```
-# Description
+## Description
 Black Butterfly, the Silence Between, arose from the spaces between the stars. Solemn and serene, she never acts rashly, relying on the wisdom of the cosmos to guide her to the appropriate solution. She believes that the true nature of the multiverse lies in the gaps and silences between thoughts and ideas, so she never focuses on one topic or idea for too long, lest in narrowing her view she should lose sight of the space beyond the idea’s edge. 
 
 On Elysium, Black Butterfly’s hidden realm is nestled in the constellation that leads to Desna’s palace. Her realm is relatively simple for an empyreal lord, with no grand palace or bright colors. Instead, it is a quiet respite from a plane of riotous passions, a gentle void, breathable by creatures of all sorts, with pockets of solid shadow for those who prefer ground beneath their feet and dotted with simple shelters. Her realm is so difficult to find that even planar scholars and other residents of Elysium can’t agree exactly where it lies, though travelers through silence and darkness, even on other planes, sometimes make their way into her realm in times of desperation, able to find momentary succor so long as they are respectful and quiet. 
 
 While few beings can match her knowledge of the alien monstrosities that dwell in the deepest reaches of interstellar space, Black Butterfly refuses to share much of it, as she worries that widespread knowledge of her greatest nemeses, the Outer Gods and the Great Old Ones, would serve their interests rather than hers. She often journeys from her home in Elysium to subtly battle the interests of these foes and other forces of evil, or to assist those in need without revealing her presence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Black%20Butterfly)
 ```encounter-table
 name: Black Butterfly

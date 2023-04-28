@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deep One Hybrid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 70
 desc_short: This elderly man’s wide-mouthed, staring countenance and webbed hands suggest a sinister taint in his bloodline.
 ```
-# Description
+## Description
 Deep one hybrids are the spawn of humans and deep ones. They are most comfortable with others of their kind, and typically cluster in small, insular settlements where they can assume positions of authority. They keep any humans within their towns subservient and cowed, making sure those other residents know better than to act against local laws. Though deep ones are devoutly religious, they usually cloak their true beliefs under a facade of more conventional worship, believing that by doing so they can avoid suspicion from visitors and nearby societies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deep%20One%20Hybrid)
 ```encounter-table
 name: Deep One Hybrid

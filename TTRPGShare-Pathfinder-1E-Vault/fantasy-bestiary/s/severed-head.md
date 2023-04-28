@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Severed Head
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,9 +40,9 @@ sources:
     desc: 82
 desc_short: This humanoid head floats silently and ominously, bits of flesh still hanging from its face and graying teeth clattering slightly as it bobs in the air.
 ```
-# Description
+## Description
 Beheaded are f loating skulls or severed heads whose bodies have long since abandoned them, either in the moment of death or long after. Reanimated via dark magic, these horrors are usually created as mindless sentinels for dungeons or lairs. Beheaded silently hover at about eye-level, often making them the last thing a casual wanderer or careless villager in an infested area ever sees.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Severed%20Head)
 ```encounter-table
 name: Severed Head

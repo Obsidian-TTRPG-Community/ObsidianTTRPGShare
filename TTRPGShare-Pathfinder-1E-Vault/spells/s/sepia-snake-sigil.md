@@ -1,19 +1,21 @@
 ---
-alias: Sepia Snake Sigil
+aliases: [Sepia Snake Sigil]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sepia Snake Sigil 
+## Sepia Snake Sigil
 
 **source**:: PRPG Core Rulebook pg. 339  
 **school**:: conjuration (creation) (force)
 **level**:: arcanist 3, bard 3, occultist 3, skald 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (powdered amber worth 500 gp and a snake scale)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one touched book or written work  
@@ -21,7 +23,7 @@ alias: Sepia Snake Sigil
 **saving-throw**:: Reflex negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause a small symbol to appear in the text of a written work. The text containing the symbol must be at least 25 words long. When anyone reads the text containing the symbol, the *sepia snake sigil* springs into being, transforming into a large sepia serpent that strikes at the reader, provided there is line of effect between the symbol and the reader.  
   

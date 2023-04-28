@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Chelish Opera Singer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 14
 ```
-# Description
+## Description
 Cheliax’s most talented opera singers augment their stagecraft with magical talents, lending a supernatural potency to their performances. As well, though stage battles bear only the pretense of danger, many singers study with fencing masters to hone the verisimilitude of their swordplay. Between their talents and often heated tempers, Chelish opera singers can be dangerous people to cross.
 
 Because of the long and rich history of Chelish opera, many of its most esteemed performers are well versed in the subjects of the operas, from the exploits of royalty in the nation’s past to generals and heroes from famous battles of the Everwar, the Shining Crusade, and even the more recent Goblinblood Wars. Traditional Chelish opera, also called High Chelish opera, was written in Azlanti-the native tongue of Aroden; most operas written since the rise of the House of Thrune are instead penned in Infernal.
 
 Chelish opera singers have no overarching guild. Individuals may belong to performing companies or work independently. Their motivations also vary widely. Some singers seek mastery of and recognition for their craft; others seek inf luence within Chelish society, or use their fame in pursuit of romantic trysts. Famous performers rub shoulders with the most rarified circles of the Chelish elite, and many singers milk these contacts for information, either to increase their own self-importance or to broker secrets to the Chelish underworld.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Chelish%20Opera%20Singer)
 ```encounter-table
 name: NPC Chelish Opera Singer

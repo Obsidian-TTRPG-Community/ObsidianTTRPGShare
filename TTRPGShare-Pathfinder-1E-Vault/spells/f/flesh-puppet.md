@@ -1,19 +1,21 @@
 ---
-alias: Flesh Puppet
+aliases: [Flesh Puppet]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Flesh Puppet 
+## Flesh Puppet
 
 **source**:: Horror Adventures pg. 117  
 **school**:: necromancy (evil)
 **level**:: antipaladin 2, arcanist 4, cleric 3, occultist 3, oracle 3, shaman 3, sorcerer 4, spiritualist 3, warpriest 3, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (an onyx worth 25gp and a silken string)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one corpse touched  
@@ -21,7 +23,7 @@ alias: Flesh Puppet
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You animate one corpse that has been dead no more than 48 hours. It rises as a zombie (*Pathfinder RPG Bestiary 288*) that is magically tethered to you and obeys your commands. As noted in *animate dead*, you can’t control more than 4 HD per caster level worth of undead in total, nor can a single casting create more than 2 HD per caster level.  
   
@@ -32,4 +34,3 @@ An ephemeral string connects you to the zombie. Through this string, you have a 
 The string connecting you and the zombie is nearly invisible. A DC 30 Perception check is required to detect it. It has hardness 0 and 1 hp. The length of string you can create is 100 feet + 10 feet per caster level you have. The string snaps if you and the zombie move farther apart than this length, though the zombie won’t move out of range unless forced to do so or unless you command it to do so. If the string to the zombie is severed, the spell immediately ends. The ephemeral string can pass through physical barriers, but not barriers of magical force, and it can be damaged as though it were a physical object.  
   
 When this spell ends, the zombie immediately reverts back to a normal corpse. The spell ends automatically if you cast *flesh puppet* or *flesh puppet horde* on a new corpse.
-

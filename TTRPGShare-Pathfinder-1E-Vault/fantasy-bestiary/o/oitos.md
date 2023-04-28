@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oitos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 249
 desc_short: The golden bones of this magnificent skeleton are clad in monstrous face-skins sewn into a cape and skirt adorned with gold pendants.
 ```
-# Description
+## Description
 What is perfection without splendor? Oitos kytons know there is much more to seduction than audacities of the flesh. Oitoses tempt souls to drift willingly into their clutches. They have more discerning tastes than many of their brethren, though, seeking specific targets, whether those with a certain “flavor” of mortal experience or outsiders of particular magnificence. Tearing away their victims’ tawdry flesh, they exalt in the clean grandeur of bone gilded with precious metals. They present themselves as living treasures-beings capable of fulfilling the promise of any reward and embodiments of glories to come.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oitos)
 ```encounter-table
 name: Oitos

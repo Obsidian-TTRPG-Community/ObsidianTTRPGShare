@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hag Eye Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 140
 desc_short: A single eye stares unblinking from an amorphous blob. A transparent pseudopod extends from the mass, ready to strike. 
 ```
-# Description
+## Description
 Some hags create hag eye oozes to serve as scouts and spies, favoring them over humanoid servants due to the ease of control. With their ability to blend in with their surroundings and climb nearly any surface, these creatures patrol the hag’s lair and surrounding territory. Hag eye oozes seem to be imbued with a sliver of the cautious side of their creator’s personality, watching intruders from a distance and avoiding combat unless directed to attack. Once given a command, these creatures pursue their goal mindlessly until a countermand is given. 
 
 Hag eye oozes have gelatinous, transparent bodies that can sometimes grow larger than 5 cubic feet, though most are smaller, taking up roughly half that space. To date, no specimens have been found weighing more than 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hag%20Eye%20Ooze)
 ```encounter-table
 name: Hag Eye Ooze

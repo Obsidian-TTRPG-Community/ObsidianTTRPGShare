@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abaddon Gigas
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 86
 desc_short: This lurching mass of spiked iron armor, rotting translucent flesh, and twisted black thorns resembles a dead giant with the head of an oversized boar.
 ```
-# Description
+## Description
 Abaddon gigas are megalithic extraplanar giants that roam Abaddon and embody the same vile energies that permeate that plane. Their cruel forms and unusual powers give them nefarious reputations, and few giant hunters-even among those who traverse the Great Beyond-would willingly seek out one of these monstrosities.
 
 An Abaddon gigas stands over 50 feet tall and weighs 30 tons, not including the weight of its enormous armor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abaddon%20Gigas)
 ```encounter-table
 name: Abaddon Gigas

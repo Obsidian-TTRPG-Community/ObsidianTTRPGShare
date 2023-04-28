@@ -1,19 +1,21 @@
 ---
-alias: Hurricane Blast
+aliases: [Hurricane Blast]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hurricane Blast 
+## Hurricane Blast
 
 **source**:: Pathfinder \#24: The Final Wish pg. 60  
 **school**:: evocation (air)
 **level**:: arcanist 4, druid 3, hunter 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -22,7 +24,7 @@ alias: Hurricane Blast
 **saving-throw**:: Reflex negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell creates a severe blast of air (approximately 50 mph) that originates from you, affecting all creatures in the burst.  
   

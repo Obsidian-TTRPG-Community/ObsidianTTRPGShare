@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Llama
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 28
 desc_short: This shaggy, hoofed quadruped sports an elongated neck and large, crooked teeth.
 ```
-# Description
+## Description
 Perhaps llamas’ most distinctive feature is their long necks. Rival males violently bump their necks against one another during fights for dominance among the herd, but overall these social animals are remarkably tame.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Llama)
 ```encounter-table
 name: Llama

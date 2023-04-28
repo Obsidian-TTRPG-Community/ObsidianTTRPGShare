@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rock Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 272
 desc_short: This bulky creature has beady eyes, and rocky skin studded with small crystals. Its jutting underbite holds large, crystalline teeth.
 ```
-# Description
+## Description
 Rock trolls are relatives of normal trolls and ice trolls, but make their lairs far beneath the earth in underground caverns. They rarely venture forth from their subterranean lairs, for they have a weakness unknown in other troll subspecies-the light of the sun turns them to solid stone. Rock trolls have stony skin studded with crystals, but otherwise display typical troll characteristics-hunched posture, long arms, a large underbite, and powerful regenerative abilities. Because of the crystalline nature of their skin, however, rock trolls prove more susceptible to sonic damage than other trolls, but they are able to regenerate even wounds dealt by fire. Rock trolls are larger and stronger than normal trolls, typically standing 15 to 16 feet tall in height, and weighing upward of 1,200 pounds.
 
 Rock trolls are fond of humanoid flesh, but eat whatever food they can get their claws on. Most underground creatures go out of their way to avoid rock trolls, as the ravenous creatures will eat anything that passes through their territory, as long as it is at least marginally edible. Rock trolls also occasionally eat rocks and minerals, though such fare seems to do little to soothe their voracious hungers. Instead, these minerals supplement the trolls’ diet, strengthening their skin, teeth, and claws. Deposits of certain crystals seem especially tasty to rock trolls, and a rock troll who finds such a collection will often gorge himself on the crystalline delicacies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rock%20Troll)
 ```encounter-table
 name: Rock Troll

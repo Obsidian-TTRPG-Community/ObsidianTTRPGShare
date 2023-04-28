@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Somalcygot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 29
 desc_short: Four long antennae stretch from the face of this giant, multi-eyed f latworm. From its spiny, chitinous body emerge four tentacles.
 ```
-# Description
+## Description
 Somalcygots are incredibly territorial; each claims roughly a mile-radius patch of desolate surface on a moon, asteroid, or similar airless terrestrial environment as its chosen hunting ground, and enters another’s territory only to mate. Somalcygots can digest nearly any organic matter, but because they usually live on barren terrain, they often go for long intervals without a meal. In order to preserve energy between meals, a somalcygot enters a trancelike hibernation during which it burrows in circles beneath the surface of its territory with unthinking repetition. When it detects another creature nearby, the somalcygot awakens and enters a frenzy to capitalize on the rare meal, fighting relentlessly until the prey either dies or escapes. Only rarely do somalcygots pursue prey beyond the boundaries of their claimed hunting grounds, a tendency that serves both to preserve the creature’s energy and to avoid needless conf lict with other somalcygots that claim neighboring regions.
 
  A typical adult somalcygot is 16 feet long and weighs 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Somalcygot)
 ```encounter-table
 name: Somalcygot

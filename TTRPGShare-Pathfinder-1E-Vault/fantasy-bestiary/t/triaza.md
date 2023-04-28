@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Triaza
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 56
 desc_short: This humanoid figure is garbed only in leather straps wrapped around her translucent skin, as well as scattered pieces of armor. She wields a wicked two-pronged blade.
 ```
-# Description
+## Description
 Triaza is the leader of a cult of urdefhans in Varisia’s Kodar Mountains that emerged from the Darklands following a failed mission for her malefactor. She led her fellow cultists upward rather than face the repercussions of her failure. Now firmly entrenched in a network of surface caverns, Triaza and her cult prey on those passing to and from the nearest major settlement-the human city of Riddleport.
 
 Triaza indulges the dark appetites of her underlings, even allowing her few skaveling bat riders to make short flights to pick off stragglers on the nearby roads. She has few concerns about the adventurers and mercenaries of Riddleport who investigate the attacks, but worries significantly more about retaining power. Triaza keeps the members of her cult pacified by allowing them various means of venting their depraved and violent desires, yet still worries about her tenure as ruler, given that her cult is now cut off from the rest of urdefhan society. A time may come when her underlings decide she is not fit to lead, and instead plot to push her to pair with a daemon to continue the propagation of the cult. She has no solid arguments against the importance of increasing their numbers, but is loath to accede to a plan that would take her away from the bountiful death-dealing opportunities offered by the surface world, which are the only activities in which she finds any pleasure or fulfillment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Triaza)
 ```encounter-table
 name: Triaza

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 267
 desc_short: The pint-sized humanoids who make up this chattering, shrieking mob hold jagged swords and bare jagged teeth.
 ```
-# Description
+## Description
 A troop of goblins is a frenzied mass of gnashing teeth, thrashing limbs, and wildly swinging knives. Goblins in a troop gain bravery in numbers and eagerly assault creatures they should have no business attacking. Horses and dogs are particularly hated targets and, if present, generally endure the brunt of the goblin troop’s attention.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Troop)
 ```encounter-table
 name: Goblin Troop

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Wolverine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 279
 desc_short: This terrible wolverine is as large as a bear, its jaws and claws oversized and brutal, its eyes dark and filled with rage.
 ```
-# Description
+## Description
 Dire wolverines tend to be even more territorial than their smaller wolverine cousins, and they defend to the death the areas where they choose to live, often selecting humanoid-settled regions as their own and then fearlessly tearing the settlements apart. Dire wolverines grow to about 12 feet in length and can weigh as much as 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Wolverine)
 ```encounter-table
 name: Dire Wolverine

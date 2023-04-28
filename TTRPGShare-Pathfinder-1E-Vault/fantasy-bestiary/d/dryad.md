@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dryad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 116
 desc_short: This strange, beautiful woman has flesh that seems made of wood and vibrant hair that resembles leaves and blossoms.
 ```
-# Description
+## Description
 Dryads are tree-fey who prefer secluded woodlands far from humanoids in need of lumber. Dryads’ main interests are their own survival and that of their beloved forests, and they have been known to magically coerce passersby into aiding them in tasks they cannot complete. They are more likely to be friendly to non-evil druids and rangers, as they recognize a mutual respect for or empathy with nature.
 
 Dryads are benign guardians of trees, and though they can do little in the way of direct violence, they can trap and disable threats to their homes or turn enemies into allies. Some keep one or more charmed humanoids in their territory to fend off or lead away attackers. Incapacitated foes are typically dragged to the edge of the forest by the dryad’s allies and left there, but evil or overtly hostile ones are killed once combat is over.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dryad)
 ```encounter-table
 name: Dryad

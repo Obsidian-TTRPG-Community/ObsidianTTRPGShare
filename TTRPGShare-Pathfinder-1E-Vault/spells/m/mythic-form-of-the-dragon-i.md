@@ -1,19 +1,21 @@
 ---
-alias: Mythic Form of the Dragon I
+aliases: [Mythic Form of the Dragon I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Form of the Dragon I
+## Mythic Form of the Dragon I
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, arcanist 6, investigator 6, magus 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a scale of the dragon type you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Mythic Form of the Dragon I
 **saving-throw**:: see below
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You become a Medium chromatic or metallic dragon. You gain a +4 size bonus to Strength, a +2 size bonus to Constitution, a +4 natural armor bonus, fly 60 feet (poor), darkvision 60 feet, a breath weapon, and resistance to one element. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). Your breath weapon and resistance depend on the type of dragon. You can only use the breath weapon once per casting of this spell. All breath weapons deal 6d8 points of damage and allow a Reflex save for half damage. In addition, some of the dragon types grant additional abilities, as noted below.  
   

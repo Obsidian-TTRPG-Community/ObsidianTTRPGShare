@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Swampwalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: NPC Codex
     desc: 132
 ```
-# Description
+## Description
 The swampwalker is a savage predator of the stinking marsh. He is familiar with its threats and uses them as tools to defeat his opponents.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Swampwalker)
 ```encounter-table
 name: NPC Swampwalker

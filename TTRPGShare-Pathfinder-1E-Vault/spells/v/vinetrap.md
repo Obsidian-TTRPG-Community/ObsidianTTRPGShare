@@ -1,19 +1,21 @@
 ---
-alias: Vinetrap
+aliases: [Vinetrap]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Vinetrap 
+## Vinetrap
 
 **source**:: Chronicle of the Righteous pg. 51  
 **school**:: conjuration
 **level**:: cleric 8, druid 8, oracle 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: radius spread of up to 10 ft./level, 90 ft. high  
@@ -21,7 +23,7 @@ alias: Vinetrap
 **saving-throw**:: Reflex negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Vines choked with thorns, blossoms, leaflets, and other floral debris burst to life on and around the subject of this spell, winding around limbs and armor and making it progressively more difficult for the subject to maneuver. When this spell is cast, the subject may attempt a Reflex save. Success indicates that the vines fail to take root and the spell has no effect. On a failed save, the subject’s base speed is immediately reduced by 5 feet. Each round thereafter, the subject must make another successful Reflex save or his speed is reduced by another 5 feet. This occurs each round until he is reduced to a speed equal to half of what it was before the spell was cast.  
   

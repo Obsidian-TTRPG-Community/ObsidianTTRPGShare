@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Cockroach
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 58
 desc_short: A dog-sized cockroach skitters forth, greedily clicking its filth-slicked mandibles. 
 ```
-# Description
+## Description
 SpeciesCRSizeHD Giant hissing cockroach1Medium2 Venomroach3Large3 Spitting cockroach6Huge6 Sawback cockroach9Gargantuan8 Dragonroach12Colossal10 
 
 Much like their smaller kin, giant cockroaches are extremely adaptive and exist in any place they can find a ready source of food. Giant cockroaches are not normally very violent, but readily attack if threatened or if food becomes scarce. 
 
 A number of species of giant cockroach exist, as summarized on the table above. Most of these variants have additional abilities, such as poison stings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Cockroach)
 ```encounter-table
 name: Giant Cockroach

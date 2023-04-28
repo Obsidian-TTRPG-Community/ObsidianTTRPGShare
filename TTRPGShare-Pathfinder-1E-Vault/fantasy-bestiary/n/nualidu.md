@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nualidu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 82
 desc_short: Clear, flowing water forms the arms and the lower half of this angelic, elflike being.
 ```
-# Description
+## Description
 Though among the most capricious and mercurial of azatas, nualidus are strongly protective of natural waterways across the multiverse. They despise polluters and those who use water to cause pain and suffering, such as the captains of slave ships. This attitude remains constant, despite nualidus’ tendency to make and break relationships with others in moments.
 
  These azatas are constantly on the move, rarely staying in one place for very long. Their persistent need to travel makes it difficult for nualidus to complete any but the simplest of tasks in an amount of time most mortals would find acceptable, but nualidus have long memories. An individual nualidu might return to a location hundreds of years later to finish a job they started, even if everyone else involved long ago forgot or died of old age. Nualidus also act similarly in combat, flowing between opponents and across the terrain, only to flee if they become bored. They rely heavily on their natural powers and spell-like abilities to shove foes around the battlefield.
 
  Nualidus are made recognizable by the elemental water making up much of their lithe, sylvan forms, which draw down into long, serpentine tails. This water constantly churns; no matter what kind of surface a nualidu travels across, their waters remain clean and fresh. A nualidu’s hair color ranges from the sparkling blue of tropical waters to seafoam green, and matches that of their twinkling eyes. A typical nualidu stands a little over 5 feet tall and is quite slender, weighing only 130 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nualidu)
 ```encounter-table
 name: Nualidu

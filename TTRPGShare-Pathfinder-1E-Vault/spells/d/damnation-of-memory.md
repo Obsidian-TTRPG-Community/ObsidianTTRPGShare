@@ -1,19 +1,21 @@
 ---
-alias: Damnation of Memory
+aliases: [Damnation of Memory]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Damnation of Memory 
+## Damnation of Memory
 
 **source**:: Inner Sea Races pg. 218  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: bard 6, skald 6 (Garundi)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 hour  
 **components**:: V, S, F (a massive, flawless gemstone worth 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: all living creatures within range  
@@ -21,7 +23,7 @@ alias: Damnation of Memory
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You name one creature and excise all memory of that creature’s involvement in events the targets remember. The targets either forget who exactly performed the named creature’s deeds or assume some other individual performed them. Alternatively, you can name either one event lasting no more than 10 minutes per caster level or a single topic (defined at the GM’s discretion) such as a shameful secret of the king that was recently revealed or a small revolt that was quelled messily, and erase all recollection of that subject from the minds of all creatures within the area. Memory of facts and topics that are common knowledge (information with a Knowledge check DC of 10 or less) cannot be stolen via this spell.  
   

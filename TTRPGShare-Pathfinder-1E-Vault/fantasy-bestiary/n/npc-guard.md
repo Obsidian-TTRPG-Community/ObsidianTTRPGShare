@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Guard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 267
 ```
-# Description
+## Description
 A guard’s job is to protect others and respond to trouble. Whether sentries in a fort, members of a city or town watch, caravan guards, or bodyguards for a nervous merchant, guards are trained to look for intruders or suspicious activity and respond with steel if violence is necessary. Most operate in pairs or larger groups, allowing one to run for help if the group is outmatched.
 
 The above stat block represents a professional guard or soldier who has seen many battles (unlike guards, soldiers do not generally carry manacles). Their armor and weapons may belong to their employer (or the army), but career guards buy high-quality armor and weapons of their own, making sure to retain enough mobility to chase down attackers. To create a lower-ranking officer, apply the advanced creature simple template to this stat block.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Guard)
 ```encounter-table
 name: NPC Guard

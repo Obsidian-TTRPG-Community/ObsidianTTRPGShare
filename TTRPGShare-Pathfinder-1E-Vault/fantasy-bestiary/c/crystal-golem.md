@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crystal Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 126
 desc_short: This burly humanoid figure is cut from blue crystal that shines with an inner light.
 ```
-# Description
+## Description
 Crystal golems cannot speak, instead emitting a constant hum of psychic energy. A crystal golem is 10 feet tall and weighs 1,800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crystal%20Golem)
 ```encounter-table
 name: Crystal Golem

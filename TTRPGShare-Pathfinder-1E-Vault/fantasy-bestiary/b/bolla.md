@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bolla
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 88
 desc_short: This immense serpent is covered in dull red fur; the four vestigial legs sprouting from its sides don’t quite touch the ground.
 ```
-# Description
+## Description
 Resembling immense serpents or wingless dragons, bollas are remorseless gluttons that spend much of their time hibernating in remote mountain ranges. They have little concern for other creatures except as food, but particularly prize the taste of intelligent prey. Fortunately, the creatures are as lazy as they are hungry; despite their aggressive dispositions, they rarely rouse themselves from their mountain lairs to assail the smorgasbord of civilization.
 
  Bollas have exceptionally keen vision, thanks to their silvery compound eyes. When disturbed, they often feign sleep or sluggishness to lure intruders close before lashing out with surprising speed. Their bite inflicts a magical lethargy on foes, making targets easy meals for the gluttonous beasts.
 
  A typical bolla is 30 feet long and weighs 2 tons. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bolla)
 ```encounter-table
 name: Bolla

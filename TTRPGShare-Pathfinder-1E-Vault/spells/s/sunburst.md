@@ -1,19 +1,21 @@
 ---
-alias: Sunburst
+aliases: [Sunburst]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sunburst 
+## Sunburst
 
 **source**:: PRPG Core Rulebook pg. 355  
 **school**:: evocation (light)
 **level**:: arcanist 8, druid 8, shaman 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (sunstone and fire source)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: 80-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Sunburst
 **saving-throw**:: Reflex partial; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Sunburst* causes a globe of searing radiance to explode silently from a point you select. All creatures in the globe are blinded and take 6d6 points of damage. A creature to which sunlight is harmful or unnatural takes double damage. A successful Reflex save negates the blindness and reduces the damage by half.  
   

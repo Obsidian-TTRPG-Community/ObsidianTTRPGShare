@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Derhii
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 28
 desc_short: Powerful black wings beat from the back of this large ape, which carries a wickedly curved sword in its simian hands.
 ```
-# Description
+## Description
 The derhii, or flying ape, is a carnivorous and dangerous form of the gentler earthbound ape. Derhii resemble gorillas with the enormous black-and-gray wings of buzzards or vultures. They stand 9 feet tall and weigh 400 pounds.
 
 Derhii form relatively small groupings known as troops, which usually consist of a single adult male, several adult females, and their offspring. Occasionally, multiple males or females band together in single-gender troops with no young, but such groupings are usually formed for a specific purpose, such as hunting, raiding, or war, and break up when they have fulfilled that purpose. Multiple troops of derhii form large primitive tribes, usually under the rule of a single powerful chieftain.
@@ -64,7 +66,7 @@ Derhii form relatively small groupings known as troops, which usually consist of
 Derhii often roost in jungle canopies and in cliff dwellings, preferring nests woven in tall trees or cliff-side caves high above ground level. From these roosts, derhii sometimes demand tribute from lesser apes, while allying themselves with even more powerful flying creatures, such as dragons or dragonnes. Occasionally, derhii can be found inhabiting crumbling and overgrown ruins hidden deep in the jungle.
 
 Derhii are carnivorous by nature and hunters by preference, attacking prey from high above with javelins thrown from their powerful arms before descending to finish things off with their blades, but when meat is scarce, they eat fruits and roots or whatever else they can forage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Derhii)
 ```encounter-table
 name: Derhii

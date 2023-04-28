@@ -1,19 +1,21 @@
 ---
-alias: Mythic Meteor Swarm
+aliases: [Mythic Meteor Swarm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Meteor Swarm
+## Mythic Meteor Swarm
 
 **source**:: Mythic Adventures pg. 101  
 **school**:: evocation (fire)
 **level**:: arcanist 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: four 40-ft.-radius spreads, see text  
@@ -21,7 +23,7 @@ alias: Mythic Meteor Swarm
 **saving-throw**:: none or Reflex half, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Meteor swarm* is a very powerful and spectacular spell that is similar to *fireball* in many aspects. When you cast it, four 2-foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Razor Fern
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -35,12 +37,12 @@ sources:
     desc: 205
 desc_short: This vaguely human-shaped plant slashes out with dangerouslooking barbed fronds.
 ```
-# Description
+## Description
 Organization solitary, pair, or thicket (3-8)
 Treasure noneSpecial AbilitiesFrond (Ex) A razor fern’s fronds are primary natural attacks that deal slashing damage.
 
 Shielding Frond (Ex) A razor fern can deflect incoming attacks as a move action, gaining it a +2 shield bonus to its AC until the beginning of its next turn.DescriptionRazor ferns are ambulatory ambush predators with rigid leaf structures that can open painful wounds. Although they prefer to prey on small forest creatures, a razor fern won’t hesitate to slash at a larger target while that creature sleeps or is otherwise distracted.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Razor%20Fern)
 ```encounter-table
 name: Razor Fern

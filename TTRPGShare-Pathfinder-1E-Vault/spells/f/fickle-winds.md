@@ -1,19 +1,21 @@
 ---
-alias: Fickle Winds
+aliases: [Fickle Winds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fickle Winds 
+## Fickle Winds
 
 **source**:: Ultimate Magic pg. 219  
 **school**:: transmutation (air)
 **level**:: arcanist 5, cleric 5, druid 5, hunter 3, oracle 5, ranger 3, sorcerer 5, spiritualist 5, warpriest 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a tiny fan and an exotic feather)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one or more Medium creatures/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Fickle Winds
 **saving-throw**:: none (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a mobile cylinder of wind encompassing every target of the spell and protecting them as *wind wall*, but not interfering with them in any way. For example, arrows and bolts fired at the targets are deflected upward and miss, but the targets’ own arrows or bolts pass through the wall as if it were not there.  
   

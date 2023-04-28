@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yellow Musk Creeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 285
 desc_short: Coiling around several human skeletons, this wet green plant’s sickly flowers smoke with a nasty yellow vapor.
 ```
-# Description
+## Description
 The yellow musk creeper is a hideous plant that grows in haunted graveyards, grisly battlefields, and other places where death hangs heavy in the air and thick in the soil. The yellow musk creeper’s method of procreation is singularly frightful-it slays the living, infests them with its seeds and pollen, then animates them as zombies. These zombies serve the plant as a guardian for several days, but when new zombies are created, older ones wander off into the surrounding wild, collapsing and breaking apart within 2d6 days to give seed to a new yellow musk creeper.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yellow%20Musk%20Creeper)
 ```encounter-table
 name: Yellow Musk Creeper

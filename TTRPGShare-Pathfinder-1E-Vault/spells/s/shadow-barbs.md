@@ -1,19 +1,21 @@
 ---
-alias: Shadow Barbs
+aliases: [Shadow Barbs]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Barbs 
+## Shadow Barbs
 
 **source**:: Inner Sea Magic pg. 59  
 **school**:: illusion (shadow) (darkness)
 **level**:: arcanist 4, cleric 4, inquisitor 4, oracle 4, redmantisassassin 4, sorcerer 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a single link from a spiked chain)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: spiked chain-like shadowy weapon  
@@ -21,7 +23,7 @@ alias: Shadow Barbs
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell, developed originally by priests of Zon-Kuthon in Nidal’s early years, has recently crossed the boundary between divine and arcane magic. Although it still bears some of the stigma of being associated with the Midnight Lord, it’s rapidly becoming a favorite spell of magi and other martially minded arcane spellcasters.  
   

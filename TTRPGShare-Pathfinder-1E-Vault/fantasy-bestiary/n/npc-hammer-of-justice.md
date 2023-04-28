@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Hammer of Justice
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 114
 ```
-# Description
+## Description
 A hammer of justice lives to crush evil with his divinely enhanced weapon, and is beholden to none but his god.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Hammer%20of%20Justice)
 ```encounter-table
 name: NPC Hammer of Justice

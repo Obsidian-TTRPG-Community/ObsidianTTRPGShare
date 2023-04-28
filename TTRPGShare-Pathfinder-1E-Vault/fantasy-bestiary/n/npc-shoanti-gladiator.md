@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shoanti Gladiator
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 59
 desc_short: This shaven-headed brute wields a massive spiked hammer and bears scars from dozens of battles.
 ```
-# Description
+## Description
 Easily the most popular public venue in Magnimar, the massive hippodrome known as Serpent’s Run hosts a number of spectacles and events year-round to entertain both the citizens of Magnimar and visitors to the city. In addition to magic performances, circus acts, and sporting events, this enormous arena also plays host to the most impressive mock gladiatorial battles in western Varisia. Competitions take the form of duels or massive battles royal wherein participants use lethal weapons to deal their opponents felling blows.
 
 Many of the most successful gladiators in Magnimar are of Shoanti descent. Their unique fighting style and unusual weapons bring numerous spectators to gladiatorial events, and their strength, skill, and fearlessness make them exciting to watch. Outside the ring, Shoanti gladiators live well. Tavern owners gift brawlers with free drinks and meals after a successful bout, and canny bartenders often sponsor gladiatorial warriors, using their local celebrity to drum up more business and set their establishment apart from the rest. Such subsidized fighters are usually garnered from among the many toughs that frequent Magnimar’s dives, and one can never be sure when an accidental bar brawl might turn into a potential business opportunity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shoanti%20Gladiator)
 ```encounter-table
 name: NPC Shoanti Gladiator

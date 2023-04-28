@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nixudaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 88
 desc_short: This four-armed fiend has blue-green skin covered in white scars. Its two upper arms end in long, barbed whips of calloused flesh.
 ```
-# Description
+## Description
 Nixudaemons, or “toil daemons,” epitomize death by exploitation and extreme exertion. These fiends savor the moment when a desperate scholar collapses while putting in long, unappreciated hours, or when a galley slave finally succumbs to the lash. They drive burdened subjects before them to great effect, even resurrecting fallen servants for a brief time to complete vital tasks. Their skill for squeezing the last bit of energy from those under their supervision makes them invaluable to slavers, who pay the daemons in coin, information, and souls for their aid.
 
 Nixudaemons exemplify the cruelty and disdain all daemonkind display toward the living. They lash out at their subjects, whipping the life out of them slowly. If it serves the daemon’s purposes, or if time allows for another game of torture, a nixudaemon will revive its subject for another day. Typically, a nixudaemon uses this ability to incite a band of slaves to work harder; it dominates the weakest members of the workers to temporarily bolster them, then saps their last ounce of strength before discarding them as spent husks.
 
 Most nixudaemons stand 10 feet tall and weigh 600 pounds. Sages report that the fiends grow larger and stronger as they age, absorbing the weariness of their victims over centuries. The greatest toil daemons are said to tower over their younger cousins, growing additional whip-arms and learning powerful spells that exhaust or even kill those who dare offend them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nixudaemon)
 ```encounter-table
 name: Nixudaemon

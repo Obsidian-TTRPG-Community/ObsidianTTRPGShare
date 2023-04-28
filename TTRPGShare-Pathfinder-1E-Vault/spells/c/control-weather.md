@@ -1,19 +1,21 @@
 ---
-alias: Control Weather
+aliases: [Control Weather]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Control Weather 
+## Control Weather
 
 **source**:: PRPG Core Rulebook pg. 261  
 **school**:: transmutation
 **level**:: arcanist 7, cleric 7, druid 7, oracle 7, shaman 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes; see text  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 2 miles  
 **area**:: 2-mile-radius circle, centered on you; see text  
@@ -21,7 +23,7 @@ alias: Control Weather
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. You can call forth weather appropriate to the climate and season of the area you are in. You can also use this spell to cause the weather in the area to become calm and normal for the season.  
   
@@ -42,10 +44,9 @@ You control the general tendencies of the weather, such as the direction and int
   
 A druid casting this spell doubles the duration and affects a circle with a 3-mile radius.
 
-## Mythic Control Weather 
+## Mythic Control Weather
 
 **source**:: Mythic Adventures pg. 89  
 The casting time changes to 1 standard action, and the duration doubles. The weather changes after a number of rounds equal to 11 - your tier.  
   
 **Augmented (6th)**: If you expend two uses of mythic power, you can create weather of any type regardless of the season, and the weather changes after 1 round.
-

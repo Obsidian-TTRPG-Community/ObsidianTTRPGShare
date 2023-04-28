@@ -1,19 +1,21 @@
 ---
-alias: Mythic Prismatic Spray
+aliases: [Mythic Prismatic Spray]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Prismatic Spray
+## Mythic Prismatic Spray
 
 **source**:: Mythic Adventures pg. 104  
 **school**:: evocation
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped burst  
@@ -21,7 +23,7 @@ alias: Mythic Prismatic Spray
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell causes seven shimmering, multicolored beams of light to spray from your hand. Each beam has a different power. Creatures in the area of the spell with 8 HD or less are automatically blinded for 2d4 rounds. Every creature in the area is randomly struck by one or more beams, which have additional effects.  
   

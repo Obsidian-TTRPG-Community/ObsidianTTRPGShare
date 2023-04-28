@@ -1,19 +1,21 @@
 ---
-alias: Calm Emotions
+aliases: [Calm Emotions]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Calm Emotions 
+## Calm Emotions
 
 **source**:: PRPG Core Rulebook pg. 252  
 **school**:: enchantment (compulsion) (emotion, mind-affecting)
 **level**:: bard 2, cleric 2, inquisitor 2, mesmerist 2, occultist 2, oracle 2, psychic 2, sahirafiyun 2, shaman 2, skald 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: creatures in a 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Calm Emotions
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell calms agitated creatures. You have no control over the affected creatures, but *calm emotions* can stop raging creatures from fighting or joyous ones from reveling. Creatures so affected cannot take violent actions (although they can defend themselves) or do anything destructive. Any aggressive action against or damage dealt to a calmed creature immediately breaks the spell on all calmed creatures.  
   

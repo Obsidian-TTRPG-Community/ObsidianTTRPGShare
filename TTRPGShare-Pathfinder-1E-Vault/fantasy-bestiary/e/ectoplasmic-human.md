@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ectoplasmic Human
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 82
 desc_short: This slimy, shifting mass has the shape of a humanoid, but is made out of what appears to be some form of sticky rope or cloth.
 ```
-# Description
+## Description
 Drawn from energies of the Ethereal Plane, ectoplasm is a vile substance resembling thick tangles of slimy linen or dripping goo. It shapes itself into the form of an undead creature, creating a host for a soul unfortunate enough to be confined within it. The existence of an ectoplasmic being is a cruel one, and few souls willingly choose this painful form of undeath.
 
 An ectoplasmic creature is approximately the same size as the body it inhabited in life, though it weighs nearly twice as much, as the ropes of undead matter that compose its body are signif icantly heavier than most living flesh.
@@ -70,7 +72,7 @@ Whenever in contact with surfaces (including walls they pass through), ectoplasm
 Ectoplasmic beings can inhabit any location, regardless of environment or climate. The horrors tend to prowl the areas in which they died, and rarely venture outside these areas, as though they were anchored there.
 
 Though these entities rarely coordinate complicated actions with others of their kind, they seem to do so unintentionally at times. Their unnatural strength makes ectoplasmic creatures formidable combatants, which those not familiar with fighting ectoplasmic creatures would expect by looking at them. Fortunately for the wary, the sticky ectoplasm that trails behind these undead monsters is a clear indicator of their presence, and most experienced clerics can identify the substance at a glance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ectoplasmic%20Human)
 ```encounter-table
 name: Ectoplasmic Human

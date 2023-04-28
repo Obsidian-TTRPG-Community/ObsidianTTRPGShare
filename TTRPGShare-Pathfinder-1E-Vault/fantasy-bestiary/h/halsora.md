@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Halsora
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 104
 desc_short: This small, plantlike creature is a bulging mass of viselike muscle with sunken eyes that constantly drip viscous, black tears.
 ```
-# Description
+## Description
 Vegepygmies transformed by the vile fleshwarping process become halsoras, creatures twice cursed. The alchemical torture they undergo seems minor compared to what other fleshwarps suffer-it merely increases the mass and strength of the vegepygmy and deforms its eyes so they secrete acid. The process has a more interesting effect on the residual and previously inert russet mold within the body of the host vegepygmy. Mutating the mold, it creates a deadly spore that courses through the halsora’s insides, is slowly excreted through the fingertips, and clumps on the claws of the creature.
 
 Though their sunken eyes and constant stream of acidic tears often make these creatures seem pitiful, they are fierce bundles of rage and self-hatred. The conditioning of the fleshwarpers causes them to attack and infect any enemy of the drow they come in contact with, but what’s left of their consciousness rages against the mutated spores they carry. Worse still, many drow use these creatures to hunt down and even infect other tribes of vegepygmies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Halsora)
 ```encounter-table
 name: Halsora

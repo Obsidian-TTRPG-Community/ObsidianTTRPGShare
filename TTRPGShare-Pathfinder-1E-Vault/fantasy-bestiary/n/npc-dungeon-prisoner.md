@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dungeon (Prisoner)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -33,13 +35,13 @@ sources:
   - name: GameMastery Guide
     desc: 270
 ```
-# Description
+## Description
 Prisoners are hapless wretches who have spent uncounted years locked away in the deepest cells. Battered and bruised, their minds assaulted by the endless imprisonment and the mad ravings of weak-minded cellmates, prisoners endure through sheer force of will and the hope that one day they shall see their freedom. Prisoners may be found in town jails, large prisons, or underground dungeons, either as convicted criminals, political prisoners, or wretched captives.
 
 Prisoners can be used for escaped convicts, beggars, galley slaves, shipwreck survivors, escaped slaves, or similar outlaws or desperate folk. Giving a prisoner the Throw Anything feat makes a prisoner skilled with improvised melee and ranged weapons. Giving him a Skill Focus feat makes an expert being held prisoner for his skill or knowledge, perhaps someone the PCs are hired to rescue. Prisoners might have Great Fortitude, Iron Will, or Lightning Reflexes to represent the hardships they have overcome.
 
 Prisoners may be found alone or in a work gang of a half-dozen under the watchful eye of a slaver (CR 6). Five prisoners can serve as the crazed flock of a cultist (CR 7). A dozen prisoners outfitted with pitchforks and other farm implements makes an angry peasant mob (CR 9).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dungeon%20(Prisoner))
 ```encounter-table
 name: NPC Dungeon (Prisoner)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gashadokuro
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 84
 desc_short: The bones and skulls of countless smaller creatures dribble from the joints and rib cage of this massive skeleton.
 ```
-# Description
+## Description
 Gashadokuros are enormous skeletons that come into being as a result of mass starvation. The victims of such a tragedy fuse together into an undead colossus that continues to hunger even in death. A gashadokuro uses its feral instincts to hunt living creatures, forever seeking to sate its ineradicable, collective memory of starvation.
 
 A typical gashadokuro is 30 feet tall and weighs up to 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gashadokuro)
 ```encounter-table
 name: Gashadokuro

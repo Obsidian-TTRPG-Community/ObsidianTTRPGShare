@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ringhorn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 82
 desc_short: The horns of this goatlike deer grow up and curve around into a pair of massive, spiraling rings atop its head.
 ```
-# Description
+## Description
 The most populous of the Nesmian Plains’ half-dozen species of ibex, ringhorns are sturdy herbivores that populate the gullies, scrublands, and foothills of central Avistan. Surefooted to the extreme, ringhorns prance across sheer, rocky walls and over rough scree to avoid predators and migrate to new feeding grounds. Ringhorns are sexually dimorphic, with females growing up to 150 pounds and 4 feet tall at the shoulder, while males are slightly shorter but bulkier. They mate in the spring and bear a single calf in late summer, when their vast herds dominate entire valleys for months before they break apart into smaller groups and retreat into the mountains and canyons to wait out the winter.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ringhorn)
 ```encounter-table
 name: Ringhorn

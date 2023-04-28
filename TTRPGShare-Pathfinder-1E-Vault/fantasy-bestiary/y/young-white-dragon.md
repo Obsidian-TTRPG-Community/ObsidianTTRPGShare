@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young White Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 100
 desc_short: This dragon’s scales are a frosty white. Its head is crowned with slender horns, with a thin membrane stretched between them.
 ```
-# Description
+## Description
 Although most consider it to be the weakest and most feral of the chromatic dragons, the white dragon makes up for its lack of cunning with sheer ferocity. White dragons dwell on remote, frozen mountaintops and in arctic lowlands, making their home in glittering caves full of ice and snow. They prefer their meals completely frozen.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20White%20Dragon)
 ```encounter-table
 name: Young White Dragon

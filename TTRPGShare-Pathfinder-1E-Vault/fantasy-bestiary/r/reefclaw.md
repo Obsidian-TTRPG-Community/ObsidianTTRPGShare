@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Reefclaw
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 88
 desc_short: Blood-red spines run the length of this frightening creature, which resembles a lobster in the front and an eel in the back.
 ```
-# Description
+## Description
 Reefclaws are vicious predators. They possess greater intelligence than animals, but rely mainly on their strength and instincts to survive. They hunt fish, giant crabs, dolphins, and even land-dwelling creatures that come within a hundred paces of the water.
 
 In populated areas, reefclaws prey on beachcombers, divers, and fishermen, sometimes abandoning their usual solitary nature and coordinating attacks with other reefclaws. The creatures must be wary, however, because in some regions, these abominations find their way to the dinner plate. Brave fishermen troll bays and coastlines infested with reefclaws, baiting the creatures with fresh meat and then harvesting their powerful claws with axes.
@@ -62,7 +64,7 @@ In populated areas, reefclaws prey on beachcombers, divers, and fishermen, somet
 Reefclaws cannot speak, but the creatures understand the languages used by humanoids near their hunting grounds. They use this knowledge in order to avoid fishermen and coordinate attacks. Reefclaws keep no treasure, instead savoring the taste of flesh and crunch of bone and shell as much as a miser covets his gold.
 
 A typical reefclaw reaches approximately 3-1/2 feet long at adulthood and weighs 70 pounds. Females gather to breed once every 2 to 3 years, engaging in a predatory hunt for a male and leaving him shredded to pieces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Reefclaw)
 ```encounter-table
 name: Reefclaw

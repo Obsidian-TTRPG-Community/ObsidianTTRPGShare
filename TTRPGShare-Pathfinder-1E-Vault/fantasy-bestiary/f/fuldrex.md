@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fuldrex
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 84
 desc_short: This minuscule, fleshy plant creature has mottled, green-andblack skin and tiny eyes that peer malevolently from beneath layers of dripping, fungal hair.
 ```
-# Description
+## Description
 Fuldrexes are mean, territorial creatures that, despite naturally taking the shape of small humanoids, seem to share more physical characteristics with fungi than anything else. Layers of thin, spotted, fibrous flesh cover their bodies like skin; their chubby fingers seem more like mushroom stalks than digits; and where hair might normally grow instead drips lacy growths that would seem more at home growing along the walls of a cave. Fuldrexes crave warm, dark, isolated places, and react violently when disturbed. The exception is when a much more powerful creature-particularly a fungal creature (see pages 116-117 of the Pathfinder RPG Bestiary 4)-enters their demesne with an overwhelming display of might. In this case, the cowardly and dull creatures are apt to prostrate themselves before their better, vowing to serve and venerate it as other creatures might worship a deity.
 
  Fuldrexes are notorious shapechangers that can appear to be naturally occurring fungi whenever they wish. They often use this ability to blend in with their surroundings before ambushing their enemies, or simply to fade from sight when a major threat barrels their way. In its natural form, a fuldrex stands 2-1/2 feet tall and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fuldrex)
 ```encounter-table
 name: Fuldrex

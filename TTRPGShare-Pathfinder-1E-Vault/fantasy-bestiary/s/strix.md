@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Strix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 82
 desc_short: Monstrous black-feathered wings cloak this leanly muscled, onyx-skinned humanoid.
 ```
-# Description
+## Description
 Strix fiercely defend both land and air in their mountain territories. Deadly but wise, strix would prefer to live quietly amid the towers of Devil’s Perch in Cheliax, yet time and tradition have taught them the wingless peoples of the shores and lowlands cannot be trusted, and that only fear and bloodshed will protect their homes. Fortunately, the strix excel in this regard.
 
 Strix have learned to hate humans. Although the source of this hatred is unclear to all but the strix, it most likely comes from centuries of bloody invasions into their lands, disastrous first encounters, or an even older grudge.
 
 On average, strix stand just over 6 feet tall, with males and females being roughly the same size. Sharply pointed ears, pupilless eyes, and slitted nostrils distinguish the race, though their 12-foot wingspans prove most distinctive. An adult strix weighs around 170 pounds. Most strix live to be about 40 years old, with the eldest reaching ages of up to 60.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Strix)
 ```encounter-table
 name: Strix

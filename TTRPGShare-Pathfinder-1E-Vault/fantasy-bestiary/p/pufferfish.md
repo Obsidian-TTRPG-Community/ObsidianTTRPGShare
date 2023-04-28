@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pufferfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 25
 desc_short: This spotted fish has pronounced eyes, a wide mouth, and tiny, brightly colored spikes protruding from its body.
 ```
-# Description
+## Description
 Pufferfish are a category of poisonous fish that dwell in warm coastal waters. Pufferfish have the ability to rapidly fill their stomachs with water or air, causing their bodies to balloon out and make the poisonous spikes on their skin more pronounced, while increasing their apparent size to frighten predators. While certain aquatic sharks and other animals have adapted to eat pufferfish, the puffer’s tetrodotoxin (typically delivered via the spines on the fish’s skin, though prevalent throughout its organs as well) remains highly poisonous to humans and most mammals who must be careful if they wish to eat one of these fish.
 
  Pufferfish come in a variety of sizes and types, and most range from 6 inches to 2 feet in length and weigh between 5 and 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pufferfish)
 ```encounter-table
 name: Pufferfish

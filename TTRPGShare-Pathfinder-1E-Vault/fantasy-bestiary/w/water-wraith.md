@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Water Wraith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 59
 desc_short: This eight-legged lizard has a round, lamprey-like mouth full of teeth, and its scales slowly change color to match its surroundings.
 ```
-# Description
+## Description
 Water wraiths are eight-legged amphibious lizards indigenous to the Mwangi Expanse with the ability to change their color at will. This chameleon-like ability, combined with their superior intelligence, makes them coveted as exotic pets or guard animals. They are imported throughout Garund for those virtues. Patient and cunning hunters, water wraiths prefer to lie still in ponds and rivers until their prey comes within range. When an unfortunate creature does, these fearless hunters strike, their webbed claws propelling them quickly forward either on land or in water. Once their toothy, eel-like mouths attach to victims, water wraiths quickly begin to bleed them dry.
 
 Water wraiths depicted here represent the upper end of size limitations for captive specimens. In captivity, these creatures are deliberately kept underfed and rarely grow beyond 2 feet in length. Water wraiths encountered wild in the Mwangi wetlands, or kept on an unrestricted diet, grow to even more massive sizes.
 
 Strange superstitions are born out of water wraiths’ color-changing powers. This changeability is not just an automatic defensive response, but can be a matter of selfexpression, or even strategy and tactics on the part of the creature. Water wraiths often express likes and dislikes with an outward display of color: bright red is frequently associated with hunger, and dull green represents dislike or lack of interest. Some small communities in Katapesh and Osirion actually utilize water wraiths in a primitive system of jurisprudence. The authorities release the accused into a pen with the creatures, then interpret the reactions of the lizards as signs of guilt or innocence. All too frequently, the wraiths declare the accused innocent by virtue of being delicious. Water wraiths find fullblooded elves to be unpalatable, but show no aversion to their half-elven cousins. Water wraiths are not limited to changing color in response to base drives, however. Sneaky and cunning, they do not hesitate to blend into their surroundings despite their emotional state if it affords them an advantage in hunting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Water%20Wraith)
 ```encounter-table
 name: Water Wraith

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moldwretch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 191
 desc_short: This deformed mold creature has long, dragging arms and an even longer tentacle growing out of its back that spews clouds of spores.
 ```
-# Description
+## Description
 While they are usually reclusive and aren’t actively malevolent, moldwretches often come into conflict with adventurers who clear away patches of mold during dungeon exploration. They get along well with vegepygmies, but loathe and fear fungus queens (see page 130). A moldwretch is only 3 feet tall but is very dense and weighs 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moldwretch)
 ```encounter-table
 name: Moldwretch

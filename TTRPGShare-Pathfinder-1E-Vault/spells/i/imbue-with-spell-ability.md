@@ -1,19 +1,21 @@
 ---
-alias: Imbue with Spell Ability
+aliases: [Imbue with Spell Ability]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Imbue with Spell Ability 
+## Imbue with Spell Ability
 
 **source**:: PRPG Core Rulebook pg. 299  
 **school**:: evocation
 **level**:: cleric 4, oracle 4, shaman 4, spiritualist 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched; see text  
@@ -21,7 +23,7 @@ alias: Imbue with Spell Ability
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You transfer some of your currently prepared spells, and the ability to cast them, to another creature. Only a creature with an Intelligence score of at least 5 and a Wisdom score of at least 9 can receive this boon. Only cleric spells from the schools of abjuration, divination, and conjuration (healing) can be transferred. The number and level of spells that the subject can be granted depends on its Hit Dice; even multiple castings of *imbue with spell* ability can't exceed this limit.  
   

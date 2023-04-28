@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Steam Hog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 64
 desc_short: This massive warthog is outfitted with all manner of steel armor and unnatural augmentations, including a pair of razorsharp metal tusks.
 ```
-# Description
+## Description
 The military advancements of fire giants aren’t restricted only to arms and armor-just as ore is dredged from the mountains for these giants’ cruel forges, animals are culled from the wilds to serve as fire giant weaponry. In addition to using hell hounds, red dragons, and other fiery fauna for their brutal campaigns, fire giants have created several unique species of war beasts all their own. Chief among these amalgamations of flesh and steel are the malformed swine known as steam hogs-enormous snorting brutes charged with heading the front lines of fire giant armies, each one capable of laying low an entire platoon of enemy soldiers.
 
  While fire giants are more than capable of crafting new armor for their steam hogs, they take great pleasure in bedecking their prized war beasts with the reforged arms and armor of their vanquished foes. In this way, the armor and accoutrements of a veteran steam hog serve as a record of the battles and wars the beast has fought in. When such a steam hog falls in battle, its armor-and thus its history-are often kept by sentimental fire giant handlers as treasured heirlooms. Steam hogs average 16 feet long from snout to tail and 8 feet tall at the shoulder. They can weigh up to 3 tons, or 4 tons when equipped with adamantine scale barding.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Steam%20Hog)
 ```encounter-table
 name: Steam Hog

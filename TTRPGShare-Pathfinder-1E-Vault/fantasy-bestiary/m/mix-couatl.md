@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mix Couatl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
     desc: 84
 desc_short: Dark scales marked with shining spots resembling stars cover this winged serpent. Faint red stripes span the length of its body.
 ```
-# Description
+## Description
 Mix (pronounced “meesh”) couatls are a variety of couatl known for their ability to grant guidance and knowledge to fledgling societies. They seek out less established tribes and villages and offer their knowledge to help such settlements flourish. A mix couatl can offer a variety of knowledge depending on the nature of the settlement and its people. To some, they offer knowledge of new farming and hunting techniques, while others are taught more esoteric knowledge, like the arcane arts. While nurturing a settlement, a mix couatl typically acts as its protector, keeping at bay any foes that would disrupt the growth of the people. A typical mix couatl is 12 feet long with a wingspan of 15 feet and weighs 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mix%20Couatl)
 ```encounter-table
 name: Mix Couatl

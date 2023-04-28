@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gale Spirit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 86
 desc_short: This translucent, floating head has a bluish tinge and a humanoid face twisted in an enraged scowl.
 ```
-# Description
+## Description
 Gale spirits are the remnants of wicked individuals who have fallen a great distance through the air-usually from bridges or mountainsides-and died alone, broken on the ground, while cursing the world for leaving them to their terrible demise. These malicious creatures haunt the places of their deaths, hungrily seeking victims with whom they can share their fate. Although they are not typically friendly with any creatures, even others of their kind, gale spirits do occasionally work with each other in combat; the result is often a terrible, haunted place of howling winds and spooky terrain that is as unnerving as it is deadly.
 
 Gale spirits resemble 2-foot-tall, disembodied heads with twisted features that are eerily similar to those the creatures had in life.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gale%20Spirit)
 ```encounter-table
 name: Gale Spirit

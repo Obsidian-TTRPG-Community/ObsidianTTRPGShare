@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Guardian Doll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 58
 desc_short: This strange doll is clad in traditional Irriseni peasant clothing, and its eyes glisten with a disturbing curiosity.
 ```
-# Description
+## Description
 Guardian dolls are constructs created by the White Witches to serve as spies and sentries at places that require evervigilant wardens-especially the wintry nation’s borders. Similar to soulbound dolls (Pathfinder RPG Bestiary 2 255), these strange automatons are infused with fragments of the souls of living beings slain during the dolls’ creation. The doll is sentient, and though a small part of the soul’s original personality remains, the witchery employed largely strips it of its individuality. Many guardian dolls sit inside another form of construct-a sentinel hut- and stand vigil at one of Irrisen’s borders and monitoring those who would enter. Others are sent on scouting missions or to spy on targets, usually posing as inanimate dolls to hide their true nature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Guardian%20Doll)
 ```encounter-table
 name: Guardian Doll

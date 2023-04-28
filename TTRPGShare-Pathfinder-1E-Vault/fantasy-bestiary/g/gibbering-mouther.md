@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gibbering Mouther
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 153
 desc_short: This horrid mass of eyes, mouths, and formless flesh stares in all directions, its countless maws yammering ceaselessly.
 ```
-# Description
+## Description
 Disgusting, loathsome, and hungry-these are the only words that properly describe the gibbering mouther. A foul beast that lurks in underground caves, sewers, and nightmares, mouthers have no societal, ecological or religious significance other than their ability to drive those that listen to them mad. Some scholars believe that gibbering mouthers are a lesser variant of the much more dangerous shoggoth, while others theorize they are a punishment by some powerful being or deity inflicted on those who have offended it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gibbering%20Mouther)
 ```encounter-table
 name: Gibbering Mouther

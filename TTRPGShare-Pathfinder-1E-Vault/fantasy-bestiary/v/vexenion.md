@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vexenion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 86
 desc_short: This blood-red tumorous mass has a shifting cluster of waving tentacles sprouting from its amorphous form, its body pulsating with a horrid vitality.
 ```
-# Description
+## Description
 The Abyssal realm of Sekatar-Seraktis is a byword for chaos, contested by 13 different potential rulers split between bickering <%MONSTESR%Balor">balor lords, vavakias, and vrolikais, yet all leave the portion of the plane claimed by the qlippoth lord Yamasoth alone. The Kingdom of New Flesh is populated by the unholy experiments of the qlippoth lord, ravenous monstrosities who feed upon one another and any other beings so foolish or unlucky as to wind up in this accursed place. Some of the most fecund of these experiments are called vexenions, and they have proliferated across the Abyss. These abominations have the appearance of enormous bloated, pulsating tumors, mouthless, armed with muscular tentacles sprouting from their glistening form and gifted with bulging eyes capable of protruding from their bodies and just as quickly disappearing into their shuddering wet flesh.
 
  A vexenion feeds on flesh by physically absorbing creatures into its own amorphous form through its membranous skin. The ingested creature is slowly dissolved by the qlippoth’s acid. Once the flesh is consumed, the victim’s bones and other indigestible parts are expelled, and the vexenion moves on to its next meal, forever hunting, forever hungry.
@@ -82,7 +84,7 @@ The Abyssal realm of Sekatar-Seraktis is a byword for chaos, contested by 13 dif
  Despite their hideous, almost ooze-like appearance, vexenions are intelligent creatures. They lack the apparatus for speech but delight in telepathically sharing their hungers and the flavors of their food with others around them, impassively inquiring about their victim’s favored flavors and meals. The vexenion’s unsettling habit of sharing the flavors of a creature it feeds upon with that creature as it digests them is perhaps the qlippoth’s most sadistic trait.
 
  Temples of Yamasoth and other places where his otherworldly and malign presence has infected the world, such as the deeper levels of Hollow Mountain, are no stranger to the predations of the vexenion. Dungeon complexes are well loved by these qlippoth, and despite their prodigious size, their malleable bodies allow them to slither and squirt and force themselves through narrow confines-provided their bodies are not currently engorged upon a still-solid and still-struggling meal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vexenion)
 ```encounter-table
 name: Vexenion

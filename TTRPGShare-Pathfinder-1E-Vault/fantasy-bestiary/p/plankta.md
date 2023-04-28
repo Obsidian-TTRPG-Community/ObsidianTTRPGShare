@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plankta
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 195
 desc_short: The shattered remnants of buildings and statues can be seen in this shuddering mass of wet, rugged rock.
 ```
-# Description
+## Description
 Planktas are stony creatures formed from the shattered remnants of ancient island civilizations devastated and inundated by natural or magical cataclysms, and given life by unleashed magical energies and the anguished spirits of those lost in the tragedies that formed the planktas.
 
  These massive, rocky aberrations dwell in the seas. They burn with hatred for the ships and cities of empires that still stand, and seek to ruin such foes in the hope of creating more planktas, though this bizarre attempt at reproduction rarely succeeds.
 
  Some planktas are nomadic, wandering in search of prey, but others lurk in busy sea-lanes or narrow straits to shatter and sink ships attempting to pass.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plankta)
 ```encounter-table
 name: Plankta

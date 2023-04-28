@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Earth Yai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 88
 desc_short: Jagged cracks and pebbled growths mar the surface of this three-eyed giant’s rocky skin, making it appear to have burst forth from rugged stone.
 ```
-# Description
+## Description
 Although they possess the rocky physiques and near indestructibility of stone giants, earth yai scorn that race’s humble ambitions, and instead prove as brutal and destructive as avalanches. For them, physical force and destruction are the ultimate demonstration of power. This belief doesn’t necessarily require them to be the strongest or to go on gory rampages, though. After all, what is mere strength if a soldier can fire a catapult that brings down an entire tower, or an emperor can give the decree beginning a war that ravages an entire empire, using both their tools and words to sow ruin. Such ability to cause calamity grants one power over others; those who have the potential to cause the greatest devastation have the greatest power. Earth yai endlessly seek to hold the greatest power, leading many to become brutal warlords or bandit kings, but some to embrace more subtle, longterm machinations in their pursuit of gradual and farreaching ruin.
 
 In its natural form, an earth yai stands 16 feet tall and weighs 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Earth%20Yai)
 ```encounter-table
 name: Earth Yai

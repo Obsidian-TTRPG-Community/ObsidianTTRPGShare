@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dallo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 82
 desc_short: This squat, grunting creature stinks of musk and earth. Leathery plates and black horns protect its woolly underside.
 ```
-# Description
+## Description
 Sometimes called dwarf goats or dwarf boars, dallos are more closely related to surface sloths and armadillos. These stocky, stubborn animals originate from smaller, more skittish species that inhabit the caverns of Sekamina, but they were domesticated by dwarves long before Earthfall and brought along in the Quest for Sky. Dwarves, duergar, and svirfneblin all raise herds of the bleating creatures for meat, leather, and the warm wool that coats their soft bellies.
 
  Populations of feral dallos occupy many of the larger caverns of Nar-Voth, feeding on nearly anything from fungus to many poisonous molds and plants. They make up the bottommost level of the food chain, providing sustenance for countless predators and scavengers of the Darklands and fertilizing subterranean flora with their droppings. Though their large horns and leathery plates provide some protection from danger, dallos’ real secret to success is their prodigious reproduction rate; a mother can give birth to up to a half-dozen calves at a time, which grow to adulthood in just a few months.
 
  A domesticated dallo measures 3 feet from snout to tail and weighs 60 pounds. Feral dallos can grow much larger.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dallo)
 ```encounter-table
 name: Dallo

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Balor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 58
 desc_short: This winged fiend’s horned head and fanged visage present the perfection of the demonic form, fire spurting from its flesh.
 ```
-# Description
+## Description
 When folk whisper frightened tales of the demonic, what most envision is a towering figure of fire and flesh, a horned nightmare armed with flaming whip and sword flying through the night in search of its latest victim. The demon these folk fear is the balor, and that fear is justly placed, for few demons can match the mighty balor in strength or brutality.
 
 On the Abyss, most balors serve demon lords as generals or captains (those balors who don’t are even more potent, and are known as balor lords-see below). A balor typically commands vast legions of demons, and while it often lets these slavering and eager minions fight its battles, the balor is far from a coward. If presented with an opportunity to join a fight, few balors choose to resist.
@@ -81,7 +83,7 @@ On the Abyss, most balors serve demon lords as generals or captains (those balor
 In combat, a balor relies upon its spell-like abilities to fight foes wise enough to avoid melee range, favoring destructive powers like fire storm or implosion and saving dominate monster for use against the rare foe it would prefer to capture alive. A balor usually uses telekinesis to disarm ranged weapons or pull foes into melee-with the use of a quickened telekinesis, a balor can use the latter tactic and still inflict a full-round attack on a hapless foe. A balor reduced to fewer than 50 hit points almost always seeks to flee via teleportation, but if that and flight prove impossible it seeks to position itself such that, if it is slain, its death throes are as devastating as possible to the enemy host.
 
 A balor stands 14 feet in height and weighs 4,500 pounds. Only the cruelest mortal souls can fuel the creation of a balor-unlike in the cases of most other demons, it often takes multiple souls of powerful villains to trigger the birthing of a new balor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Balor)
 ```encounter-table
 name: Balor

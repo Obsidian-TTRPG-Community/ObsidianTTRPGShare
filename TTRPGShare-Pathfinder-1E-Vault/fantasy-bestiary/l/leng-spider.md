@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leng Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 176
 desc_short: This immense purple spider has a legspan of nearly forty feet and a hideously bloated body, yet still moves with fluid grace.
 ```
-# Description
+## Description
 The spiders of Leng have long warred with that realm’s more humanoid denizens, yet this does not make the spiders allies of sane life. These spiders see themselves as deserving of true positions of power, and the only creatures they suffer to live apart from their kin are their magically controlled slaves. Fortunately, the spiders have no intrinsic way to travel to the Material Plane, and must use portals or other methods to visit this world. Artistic trap builders, Leng spiders construct lairs of dangerous and haunting beauty made of webs and other materials found nearby.
 
 A Leng spider’s body is 18 feet long and weighs 6,000 pounds. Most leng spiders possess only 7 legs, but some possess 9, 11, or only 5-they never possess an even number.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leng%20Spider)
 ```encounter-table
 name: Leng Spider

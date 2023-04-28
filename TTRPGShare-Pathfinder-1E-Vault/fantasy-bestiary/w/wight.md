@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 276
 desc_short: The flesh of this walking corpse is rotting and putrid, its body skeletal in places and its eye sockets glowing with red light.
 ```
-# Description
+## Description
 Wights are humanoids who rise as undead due to necromancy, a violent death, or an extremely malevolent personality. In some cases, a wight arises when an evil undead spirit permanently bonds with a corpse, often the corpse of a slain warrior. They are barely recognizable to those who knew them in life; their flesh is twisted by evil and undeath, the eyes burn with hatred, and the teeth become beast-like. In some ways, a wight bridges the gap between a ghoul and a spectre-a warped animated corpse whose touch steals living energy.
 
 As undead, wights do not need to breathe, so they are sometimes found underwater, though they are not particularly good swimmers unless they were originally swimming creatures such as aquatic elves or merfolk. Underwater wights prefer low-ceilinged caves where their limited swimming isn’t as much of a liability.
@@ -63,7 +65,7 @@ Brute Wight (CR 5): Giants that are killed by wights become hunchbacked, simple-
 Cairn Wight (CR 4): Some societies deliberately create these specialized wights to serve as guardians for barrows or other burial sites. A cairn wight is an advanced wight that fights with a weapon, typically a sword, that channels its energy drain attack and affects creatures damaged by the weapon as if they had been struck by the wight’s slam attack.
 
 Frost Wight (CR 4): Wights created in cold environments sometimes become pale undead with blue-white eyes and ice in their hair. Frost wights have the cold subtype and their slam attacks deal 1d6 cold damage in addition to the normal effects. A creature touching a frost wight with natural weapons or unarmed strikes takes 1d6 cold damage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wight)
 ```encounter-table
 name: Wight

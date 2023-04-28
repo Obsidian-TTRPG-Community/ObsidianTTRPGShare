@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lipika
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 8
 desc_short: Shrouded in a dark cloak, this featureless humanoid has four forearms that each split off at the elbow, and an eye on each of its eight palms.
 ```
-# Description
+## Description
 Lipikas-also known as the Lords of Karma-are among the highest order of aeons. Unlike other aeons, their duality springs not from opposition but from understanding that all actions and reactions are the crests and troughs of the same cosmic wave. While it may seem to a casual observer that the Lords of Karma simply wander the universe looking for random events of importance, from the momentous to the mundane, what they are actually observing is the rhythm of causality, the way that one action becomes another and affects everything in the grand scheme of reality. Whatever they find, they inscribe in the cosmic memory of all aeons, and occult scholars believe that this cosmic memory finds its way to the Akashic Record (Pathfinder RPG Occult Adventures 244), deep within the heart of the Astral Plane.
 
  These powerful creatures not only observe and report; they also meddle. Lipikas consider themselves the judges of willful karma, sometimes manipulating the cycle of mortal lives and reincarnations. This often leads to friction with psychopomps, other agents of Purgatory, and those who would steal, use, or destroy souls-such as daemons and night hags. The reason for the aeons’ interest is difficult to ascertain. There seems to be no overriding philosophy concerning the nature or purpose of the souls lipikas manipulate. This has led many occult scholars to theorize that the lipikas’ connection to the Akashic Record is more direct, going so far as to suggest that these aeons are its agents.
@@ -80,7 +82,7 @@ Lipikas-also known as the Lords of Karma-are among the highest order of aeons. U
  On rare occasions these aeons appear and create conf licts, claiming that great damage to the multiverse is being done by actions taken by a civilization-actions that are often so minute their consequences might seem arbitrary to the subjects of the aeon’s attention. Worse still, the appearance of a lipika can herald the coming of even greater displays of aeon power. Sages of occult lore theorize that the information lipikas inscribe into the Akashic Record directly informs the agenda of the concept or entity known as the Monad, and that this information is disseminated to pleromas (Pathfinder RPG Bestiary 2 12)-more powerful aeons who are direct representatives of the Monad. If this theory is correct, the information scribed by lipikas is of grave consequence to entire civilizations, as pleroma aeons are tasked with acts of creation and destruction that can sometimes impact entire worlds. Those who subscribe to more traditional theories of the multiverse see the connection between lipikas and pleromas in more direct terms. If a lipika cannot accomplish its goals, it calls in a pleroma to enact the strange and inexplicable will of the aeons, often to devastating ends. However, the goals of lipikas are typically so abstract that their intervention often seems random, and few mortals have figured out how to placate them.
 
  Lipikas stand about 13 feet tall but rarely weigh more than 200 pounds-their bodies seem to be hollow. Little distinguishes one lipika from another except the patterns upon their forearms and the colors of their palm-eyes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lipika)
 ```encounter-table
 name: Lipika

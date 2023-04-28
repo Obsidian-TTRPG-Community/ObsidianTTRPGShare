@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leprechaun
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 177
 desc_short: This small humanoid has pointed ears, green eyes, and a wicked grin. He carries a bottle in one hand and a club in the other.
 ```
-# Description
+## Description
 Leprechauns are small, fun-loving tricksters. They are most commonly found in forests and share the close connection with nature that is possessed by most fey creatures. Leprechauns love playing tricks on unknowing passersby-almost as much as they love a fine bottle of wine and a plateful of hot food in their bellies. They often steal something of worth from adventurers just to provoke a chase. Using their ability to disappear at will to its full potential, they wait until their victims appear to be about to give up the chase before reappearing once more to let the chase resume. They are not greedy creatures, and eventually drop what they’ve stolen, slipping away while their angry pursuers claim the lost property. The exception is gold-leprechauns love gold and often hoard it in secret, hidden places. It is rumored that a person who finds a gold coin in the forest and returns it to the leprechaun that dropped it will be granted a wish as a reward. Unfortunately, these rumors are false-likely perpetuated by the leprechauns themselves in order to trick others into bringing them gold.
 
 Leprechauns prefer not to kill other creatures unless the ones attacking them are malicious or known enemies of the forest or fey. They often use their powers to befuddle and annoy evil folk, tricking creatures such as goblins and orcs into thinking a forest is haunted.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leprechaun)
 ```encounter-table
 name: Leprechaun

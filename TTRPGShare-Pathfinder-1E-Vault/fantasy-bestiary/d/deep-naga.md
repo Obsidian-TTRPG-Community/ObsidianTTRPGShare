@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deep Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 90
 desc_short: This creature’s massive, serpentine body is covered in dark purple scales. Its humanoid head has a wide mouth filled with fangs.
 ```
-# Description
+## Description
 More bestial than their surface cousins, deep nagas jealously guard their lairs in the lightless depths of the Darklands. Deep nagas live near ley lines and other places of power because they hunger for magical energy, which they are able to siphon from their surroundings. Their volatile natures make them dangerous to deal with, but creatures who manage to appease them can earn safety within their territory. Most deep nagas measure 40 feet in length and weigh 1,800 pounds.
 
  Some deep nagas are infused from birth with energy native to another plane of existence. These variant deep nagas replace their breath weapon damage with one of the following damage types: acid, cold, electricity, fire, or negative energy. They set up lairs in places where the borders between planes are thin rather than along ley lines, and their appearances often reflect the influence of those elemental planes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deep%20Naga)
 ```encounter-table
 name: Deep Naga

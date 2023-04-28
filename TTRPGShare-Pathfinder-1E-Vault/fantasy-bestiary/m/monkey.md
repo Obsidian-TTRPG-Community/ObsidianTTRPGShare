@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Monkey
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 132
 ```
-# Description
+## Description
 Monkeys are highly social creatures. They spend the majority of their day searching for food.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Monkey)
 ```encounter-table
 name: Monkey

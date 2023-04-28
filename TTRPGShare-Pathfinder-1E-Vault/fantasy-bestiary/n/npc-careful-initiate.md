@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Careful Initiate
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 96
 ```
-# Description
+## Description
 Neophyte monks are often eager to prove their mettle in battle, but just as often their strict training means they tend to act tentatively when deprived of their master’s guidance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Careful%20Initiate)
 ```encounter-table
 name: NPC Careful Initiate

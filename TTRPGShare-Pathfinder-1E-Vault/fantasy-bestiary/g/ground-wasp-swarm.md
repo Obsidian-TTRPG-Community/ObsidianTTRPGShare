@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ground Wasp Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 88
 desc_short: Thousands of yellow and black wasps form a thick cloud that swirls with savage bites and venomous stings.
 ```
-# Description
+## Description
 Ground wasps live in colonies dug into the ground, and even inhabit cracks and hollow spaces within tombs and ruins. These social insects leave their nests only to hunt (or defend the nest), often lurking just within the entrance and relying on their tremorsense to detect nearby creatures. When a creature gets too near their nest, the wasps stream out of hiding and attack.
 
 Many varieties of ground wasps are parasitic, and attack large creatures as a means of reproduction, as well as in defense. Ground wasps have a paralytic poison, and once a victim has sustained dozens of stings, its body goes limp. Once its prey is incapacitated, a ground wasp swarm descends on the still-living creature and lays hundreds of eggs just beneath its skin. Some ground wasps swarm for food in a similar fashion. Mature ground wasps don’t eat much flesh themselves, but they often take down prey so they can retrieve food for their growing larvae.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ground%20Wasp%20Swarm)
 ```encounter-table
 name: Ground Wasp Swarm

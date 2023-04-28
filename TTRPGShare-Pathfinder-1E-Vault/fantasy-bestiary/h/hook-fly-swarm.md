@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hook Fly Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 60
 desc_short: The tiny, buzzing insects that make up this cloud have distinctive bloated bodies and sharp, if miniscule, proboscises.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hook%20Fly%20Swarm)
 ```encounter-table
 name: Hook Fly Swarm

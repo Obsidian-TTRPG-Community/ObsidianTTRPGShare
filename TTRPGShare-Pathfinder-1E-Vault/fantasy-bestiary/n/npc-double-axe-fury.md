@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Double Axe Fury
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 16
 ```
-# Description
+## Description
 This half-orc barbarian savagely rips though weaker opponents with unquenchable bloodlust.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Double%20Axe%20Fury)
 ```encounter-table
 name: NPC Double Axe Fury

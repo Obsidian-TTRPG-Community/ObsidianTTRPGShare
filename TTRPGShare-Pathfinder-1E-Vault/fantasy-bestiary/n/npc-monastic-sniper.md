@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Monastic Sniper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 104
 ```
-# Description
+## Description
 Both archers and diplomats, monastic snipers consider a well-placed warning shot the ideal method to open the channels of diplomacy from a position of power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Monastic%20Sniper)
 ```encounter-table
 name: NPC Monastic Sniper

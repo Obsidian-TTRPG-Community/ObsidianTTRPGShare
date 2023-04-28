@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skittergoat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 82
 desc_short: This small goat has sharp horns that wrap around its head to point forward, making it resemble a tiny bull.
 ```
-# Description
+## Description
 This breed of small goats, which dines almost exclusively on ankheg eggs, was only recently discovered living among the low hills and valleys of the Skittermounds. The skittergoats have adapted to life alongside the ankhegs with whom they share their environment: their agility allows them to slip through small spaces in search of eggs, and their speed makes them quite adept at escaping the grasp of angry ankheg mothers. Their relatively docile nature and ability to pierce ankheg eggs with their sharp horns have led to high demand for domesticated skittergoat companions among rangers searching for ankheg nests.
 
 Skittergoats don’t often form large herds, since foraging for ankheg eggs is most effectively done alone. A mating pair of skittergoats will generally pair for life, with the female ranging out in search of food while the male stays near the den to protect the young. Mothers regurgitate food for their young after returning from a hunt.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skittergoat)
 ```encounter-table
 name: Skittergoat

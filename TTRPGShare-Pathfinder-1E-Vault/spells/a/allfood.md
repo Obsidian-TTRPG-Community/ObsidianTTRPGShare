@@ -1,19 +1,21 @@
 ---
-alias: Allfood
+aliases: [Allfood]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Allfood 
+## Allfood
 
 **source**:: Advanced Player's Guide pg. 201  
 **school**:: transmutation
 **level**:: hunter 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a pinch of salt and pepper)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: object touched, weighing up to 5 lbs./level  
@@ -21,7 +23,7 @@ alias: Allfood
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You can transform one object, weighing up to 5 lbs. per caster level, into an edible substance that any living creature can chew, swallow, and safely digest. This allfood always has a bland taste and slightly gooey consistency when chewed regardless of its original nature. One pound of *allfood* provides enough sustenance to support a Medium creature for an entire day.  
   

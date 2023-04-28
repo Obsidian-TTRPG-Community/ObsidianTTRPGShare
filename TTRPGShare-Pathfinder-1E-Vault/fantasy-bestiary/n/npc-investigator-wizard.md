@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Investigator Wizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: NPC Codex
     desc: 179
 ```
-# Description
+## Description
 The investigator mage works with city guards to investigate crimes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Investigator%20Wizard)
 ```encounter-table
 name: NPC Investigator Wizard

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Creeper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 53
 desc_short: Filthy, reeking black rags wrap this small humanoid from head to toe, leaving only its hands and pale white nose visible.
 ```
-# Description
+## Description
 Dark creepers lurk in the black places deep below the surface of the world, venturing forth at night or into neighboring societies when the urge to steal and cause mayhem grows too great to resist. Endless layers of filthy, moldering black cloth shroud these small creatures, leading some to believe that the creature inside is smaller still. Usually encountered in groups, dark creepers flee from bright light, but are quite brave in the dark.
 
 Dark creepers stand just under 4 feet tall and weigh 80 pounds. Their flesh is pale and moist, and their eyes are milky white. Dark creepers exude a foul stench of sweat and spoiled food, owing primarily to the fact that they never take off their clothing-instead piling on new layers when the outermost one grows too ragged.
 
 For all the mayhem and trouble a pack of dark creepers can cause, this is nothing compared to the dangers a tribe led by the taller, even more sinister dark stalkers represents. Dark creepers treat their tall, lithe masters almost like gods, presenting them with offerings and obeying their every whim. Invariably, several dark stalkers serve as leaders to dark creeper tribes, with all of the tribe’s heavy work and labor falling on the diminutive shoulders of the creepers, freeing the dark stalkers for their own decadent pleasures. Yet the dark creepers themselves see no inherent imbalance in this arrangement-to a dark creeper, a life in the servitude of a dark stalker is a life fulfilled.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Creeper)
 ```encounter-table
 name: Dark Creeper

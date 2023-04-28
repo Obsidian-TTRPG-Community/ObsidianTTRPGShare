@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ice Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 161
 desc_short: This icy statue stands a head taller than a normal human. A rime of frost coats it, and razor-sharp shards of ice adorn its limbs.
 ```
-# Description
+## Description
 Ice golems are humanoid automatons formed of carved ice. Their appearance can range from roughly chiseled figures of ice and snow to elaborately detailed ice sculptures and beautiful crystalline statues.
 
 Ice golems cannot speak, and move with the sound of cracking and popping ice. An ice golem stands 7 feet tall and weighs 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ice%20Golem)
 ```encounter-table
 name: Ice Golem

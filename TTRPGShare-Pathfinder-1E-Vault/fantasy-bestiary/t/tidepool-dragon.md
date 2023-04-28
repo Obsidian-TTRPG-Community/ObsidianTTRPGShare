@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tidepool Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 82
 desc_short: This small draconic creature seems better suited for the waves than wind, its wings sweeping along its body like massive fins. Light from the water refracts off its resilient-looking cerulean hide as it snaps crustacean-like claws.
 ```
-# Description
+## Description
 Aquatic dragons similar in size and fickleness to faerie dragons and pseudodragons, tidepool dragons rule as whimsical tyrants over miniature realms comprising coral forests, sand dune mountains, and low-tide menageries. Preferring to inhabit coastal regions throughout the world’s warmer climes, these dragon-kin make their lairs amid balmy lagoons and hidden coves, favoring any seaside setting devoid of stronger predators. A combination of chitinous shell-similar in shade to that of a blue crab-and scales the color of clear tropical waters covers every tidepool dragon, the shade deepening through twilight hues to a shade as dark as a ocean abyss.
 
 Tidepool dragons typically measure about 2 feet long and weigh approximately 14 pounds. They are known to live for about 300 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tidepool%20Dragon)
 ```encounter-table
 name: Tidepool Dragon

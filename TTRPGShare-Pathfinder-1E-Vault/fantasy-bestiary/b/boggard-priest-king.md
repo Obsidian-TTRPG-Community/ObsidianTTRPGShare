@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggard Priest-King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: Monster Codex
     desc: 15
 ```
-# Description
+## Description
 Boggard priest-kings are the undisputed lords of their tribes, interpreting the wills of their dark patron deities (wills that are often suspiciously similar to what the priest-kings themselves desire). Grotesquely large, a boggard priest-king is usually the tribe’s most capable combatant, and acts as a champion when needed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggard%20Priest-King)
 ```encounter-table
 name: Boggard Priest-King

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ourdivar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 86
 desc_short: The upper body of this creature is that of a multicolored bestial humanoid, while its lower section ends in a serpentine tail.
 ```
-# Description
+## Description
 Ourdivars are spontaneously formed when called forth via spells like lesser planar ally. They toil at the behest of their conjurer creators, acting as tools of chaos across the planes. 
 
 An ourdivar is 12 feet long and weighs 700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ourdivar)
 ```encounter-table
 name: Ourdivar

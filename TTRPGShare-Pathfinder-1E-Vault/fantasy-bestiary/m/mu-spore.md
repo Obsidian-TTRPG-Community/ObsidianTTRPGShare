@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mu Spore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 195
 desc_short: Tentacles and eyes cover this floating, fungoid monster, and its vast mouth opens like a toothy cavern.
 ```
-# Description
+## Description
 A mu spore is a thankfully rare plant of vast power and strange intellect. The smallest of mu spores (such as the one presented here) are never less than a hundred feet long from tentacle tip to tentacle tip, and weigh a minimum of 200,000 pounds. Yet despite their vast bulk, mu spores are capable of flying with an uncommon grace, venting jets of foul-smelling spores to guide their flight through the air.
 
 Mu spores dwell in vast caverns, but sometimes drift up to the surface through immense pits or tunnels-they have no fear of sunlight, but prefer nocturnal habits. Mu spores are more than just ravenous eaters of nations-they possess uncommon intellects, and if peaceful contact can be made, their knowledge can be quite valuable. Even more valuable, to many debased alchemists, are the strange secretions and spores they emit, for these rare materials can be brewed into the strangest of drugs and elixirs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mu%20Spore)
 ```encounter-table
 name: Mu Spore

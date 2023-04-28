@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Aloof Archer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: NPC Codex
     desc: 269
 ```
-# Description
+## Description
 An aloof archer is disdainful of the archery skill of non-elves. Despite their heavy armor, aloof archers are remarkably stealthy. Unlike the elven scouts who move through the brush and harass invaders, these archers make up the ranged support of elven armies, firing over their comrades’ heads into the thick of enemy forces, creating a hail of deadly arrows.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Aloof%20Archer)
 ```encounter-table
 name: NPC Aloof Archer

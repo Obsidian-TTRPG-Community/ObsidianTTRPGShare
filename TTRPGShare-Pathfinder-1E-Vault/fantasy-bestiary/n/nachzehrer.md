@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nachzehrer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 90
 desc_short: This spindly-limbed horror has pale eyes, bony fingers that end in dirty claws, papery skin, and long, sharp fangs protruding from a breathless mouth.
 ```
-# Description
+## Description
 The inspiration of much fear and dread among forest-dwellers, nachzehrers are better known as fey vampires in the woodland regions where they typically dwell. Human locals often confuse them for true vampires, though in reality nachzehrers are a form of monstrous cousin to those hated undead. They rise from the fey victims of virulent disease; the more evil a pestilence’s origin, such as from an Abyssal blight, the more likely fey who succumb are to return as nachzehrers. Unlike true vampires, nachzehrers cannot create spawn, though their aggressiveness toward and hatred of the living is just as intense as those fabled horrors.
 
  Tragically, nachzehrers typically rise from good or neutral fey, such as dryads, huldras, nymphs, and nereids. Their appearances are sick parodies of the forms they took in life. Their graceful limbs become spindly and bony, their skin becomes thin and papery, and their delicate teeth sharpen into wicked fangs. Nachzehrers are typically 5-1/2 feet tall and weigh about 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nachzehrer)
 ```encounter-table
 name: Nachzehrer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Outlaw Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 267
 desc_short: Over two dozen men and women clad in chain shirts and leather armor brandish their knives and swords menacingly.
 ```
-# Description
+## Description
 While individually not much of a threat, these low-level fighters turn into a serious menace to travelers on remote roads when they work together as a troop.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Outlaw%20Troop)
 ```encounter-table
 name: Outlaw Troop

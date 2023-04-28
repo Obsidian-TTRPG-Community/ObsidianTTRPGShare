@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Carnivorous Blob
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 51
 desc_short: Rolling and twitching like a massive wad of translucent ooze, this crimson blob reaches out amorphous pseudopods in all directions. 
 ```
-# Description
+## Description
 While sages debate whether the first carnivorous blobs were created by a mad wizard, formed in foul fleshwarping vats in some sinister city, or traveled to this world trapped in the core of a meteor, there is one thing they all agree on-none wish to get close enough to study the monstrosity. 
 
 Carnivorous blobs move like a typical ooze, rolling out blobs of its fleshy material in haphazard directions, and pulling its bulk across the ground, up walls, and even through the water. If a carnivorous blob goes for more than 24 hours without a source of food, it drops into a sort of hibernation, resembling nothing so much as a pool of gelatinous blood. The creature springs to life quickly and hungrily as soon as any living prey comes within range of its senses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Carnivorous%20Blob)
 ```encounter-table
 name: Carnivorous Blob

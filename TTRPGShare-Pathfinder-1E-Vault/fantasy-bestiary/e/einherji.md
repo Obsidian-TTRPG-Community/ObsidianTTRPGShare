@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Einherji
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 84
 desc_short: Holding a massive battleaxe and shield, this tall, helmed warrior is grim and fierce.
 ```
-# Description
+## Description
 Some warriors who die glorious deaths in battle find that there is a call for their skill and prowess even after death. Chosen by valkyries (Pathfinder RPG Bestiary 3 277) from among the slain on the battlefield, they become einherjar, outsiders who fight for the gods and other powerful extraplanar beings in battles across the multiverse.
 
 Like valkyries, einherjar can serve a variety of deities, not just gods of war, conf lict, and valor, but also those of love, beauty, life, and others not thought of as combative. Einherjar pride themselves on prowess in battle, and forever seek to prove themselves by challenging worthy foes.
 
 Einherjar can be either male or female, and normally appear as muscled, battle-hardened humans, dwarves, or elves. A typical einherji stands 7 feet tall and weighs around 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Einherji)
 ```encounter-table
 name: Einherji

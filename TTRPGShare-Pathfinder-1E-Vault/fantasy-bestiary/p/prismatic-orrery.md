@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Prismatic Orrery
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 53
 desc_short: A series of metal rings rotates around a giant prismatic sphere.
 ```
-# Description
+## Description
 The automated orrery atop the Prismatic Lantern takes no defensive actions against intruders except when attacked or if commanded to do so by the wielder of a crystal control rod.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Prismatic%20Orrery)
 ```encounter-table
 name: Prismatic Orrery

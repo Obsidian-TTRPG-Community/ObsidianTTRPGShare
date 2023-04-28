@@ -1,19 +1,21 @@
 ---
-alias: Mythic Draconic Reservoir
+aliases: [Mythic Draconic Reservoir]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Draconic Reservoir
+## Mythic Draconic Reservoir
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: evocation (acid, cold, electricity, or fire)
 **level**:: alchemist 3, arcanist 3, bloodrager 3, investigator 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a scale from dragon that produces the energy you seek to absorb)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Draconic Reservoir
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 *Draconic reservoir* functions as *protection from energy*, absorbing 6 points of one type of energy damage per caster level (acid, cold, electricity, or fire, maximum 60 points). Each round, as a swift action, the subject can release 1d6 points of the absorbed energy and apply it to any melee attack, as if using an *acidic*, *flaming*, *frost*, or *shock* weapon. The first creature the subject strikes with this attack takes the energy damage in addition to any other consequences of the attack. Releasing energy in this way does not “free up” space to absorb still more energy; the maximum amount of energy the spell can absorb remains fixed. The subject cannot release more energy than he currently has absorbed. Once the subject has absorbed all the energy allowed by the spell, he takes damage as normal from that energy type. Once the energy has been released, the spell is discharged.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Telekinetic Sphere
+aliases: [Telekinetic Sphere]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Telekinetic Sphere 
+## Telekinetic Sphere
 
 **source**:: PRPG Core Rulebook pg. 358  
 **school**:: evocation (force)
 **level**:: arcanist 8, psychic 7, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a crystal sphere and a pair of small magnets)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: 1-ft.-diameter/level sphere, centered around creatures or objects  
@@ -21,7 +23,7 @@ alias: Telekinetic Sphere
 **saving-throw**:: Reflex negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 This spell functions like *resilient sphere*, but the creatures or objects caught inside the globe created by the spell are made nearly weightless. Anything contained within a *telekinetic sphere* weighs only one-sixteenth of its normal weight. You can telekinetically lift anything in the sphere that normally weighs 5,000 pounds or less. The telekinetic control extends from you out to medium range (100 feet + 10 feet per caster level) after the sphere has succeeded in encapsulating its contents.  
   

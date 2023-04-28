@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Tarantula
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 256
 desc_short: A massive tarantula covered in bristly hairs strides forward with deliberate steps, its eight eyes scanning for prey.
 ```
-# Description
+## Description
 No description provided.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Tarantula)
 ```encounter-table
 name: Giant Tarantula

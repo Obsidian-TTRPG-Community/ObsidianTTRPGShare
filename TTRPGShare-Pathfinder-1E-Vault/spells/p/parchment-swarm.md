@@ -1,19 +1,21 @@
 ---
-alias: Parchment Swarm
+aliases: [Parchment Swarm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Parchment Swarm 
+## Parchment Swarm
 
 **source**:: Occult Adventures pg. 180  
 **school**:: transmutation
 **level**:: arcanist 5, magus 5, occultist 4, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S, M (blank parchment or magic scroll; see text)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Parchment Swarm
 **saving-throw**:: Reflex half, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 When you cast this spell, you quickly tear a parchment into shreds, releasing the flying fragments to swarm around a target creature and deliver thousands of tiny paper cuts. Using normal parchment, the spell deals 1d6 points of magical slashing damage per caster level (maximum 15d6).  
   

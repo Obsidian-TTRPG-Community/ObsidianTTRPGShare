@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tauhoti
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 63
 desc_short: This fluffy squirrel has a round body with long tufts atop its ears.
 ```
-# Description
+## Description
 Tauhotis are ground squirrels famed for their humanoid-like proclivity for trading with other animals. Tauhotis avidly cache food across a wide territory during warmer seasons so they have ample food to eat during the winter. Though tauhotis share their plentiful larders with other animals in distress, this is no gift. A tauhoti can remember the scent and appearance of hundreds of animals, and it recalls which ones have taken or given it food. The following season, the tauhoti watches for its debtors, at first chirping at them and then nipping them until they provide some repayment. Some birds and mammals maintain mutual relationships with tauhotis, bringing them offerings of hard-to-access food either in exchange for something else the tauhoti has or to gain the rodent’s assistance in burying a morsel for later. Tauhotis’ mercantile habits are endearing to most Drumans. It’s a common belief that anyone who can maintain a tauhoti as a pet is trustworthy, for the rodents practically never forget a slight and eagerly reward upstanding companions. Selective breeding has produced an albino variety that especially appeals to Kalistocrat owners.
 
  A spellcaster can select a tauhoti as a familiar. As a special ability the master gains a +3 bonus on one Profession check of her choice, selected when gaining the familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tauhoti)
 ```encounter-table
 name: Tauhoti

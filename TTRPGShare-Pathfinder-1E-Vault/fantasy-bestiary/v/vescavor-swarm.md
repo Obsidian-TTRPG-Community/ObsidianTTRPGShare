@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vescavor Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 50
 desc_short: With a gibbering chorus, hundreds of toothy insects swarm together, their heads nothing more than maws filled with a sickly green glow.
 ```
-# Description
+## Description
 Once found only in the lightless crevices and shrieking half-live jungles of the Abyss, the yammering, gluttonous vermin of the Abyss called vescavors crawl through portals into the Material Plane to feed and spawn. Ruled by enormous, hideous queens who direct their swarms in finding food and destroying foes with the help of pheromones and mental commands, vescavor swarms devour objects, creatures, and structures alike. Their hunger is insatiable and carries with it the terrors of the Abyss itself, warping the minds of even those creatures who escape the vescavors’ maws. Only adamantine can endure their gnashing teeth, and a swarm of vescavors that descends upon a settlement devours everything and leaves nothing behind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vescavor%20Swarm)
 ```encounter-table
 name: Vescavor Swarm

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Personification of Fury
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 88
 desc_short: Jagged bolts of lightning crackle within this massive and vaguely humanoid storm cloud.
 ```
-# Description
+## Description
 Gozreh’s herald, Personification of Fury, is a living elemental storm of air and water. It may once have been an actual storm given independent life and intelligence, but it does not remember anything before awakening in the service of Gozreh. Its powers allow it to shift itself fully into air or water or even to assume the form of a beast, though it is most comfortable in its dual-material elemental shape. As a living storm, the herald can provide life-sustaining water, whisk others to safety, save mortals from drowning, or rain down watery death upon the enemies of Gozreh. It is comfortable doing any of these things, and has no objection to taking lives- even innocent lives, if this serves the will of Gozreh. With Gozreh’s permission, it sometimes acts as an intermediary between rival elemental forces.
 
 The Herald of Gozreh rises to nearly 25 feet in height, and its changeable form usually weighs approximately 1 ton.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Personification%20of%20Fury)
 ```encounter-table
 name: Personification of Fury

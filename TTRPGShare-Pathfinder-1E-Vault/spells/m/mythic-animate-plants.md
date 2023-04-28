@@ -1,19 +1,21 @@
 ---
-alias: Mythic Animate Plants
+aliases: [Mythic Animate Plants]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Animate Plants
+## Mythic Animate Plants
 
 **source**:: Mythic Adventures pg. 84  
 **school**:: transmutation
 **level**:: druid 7, shaman 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one Large plant per three caster levels or all plants within range; see text  
@@ -21,7 +23,7 @@ alias: Mythic Animate Plants
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You imbue inanimate plants with mobility and a semblance of life. Each animated plant then immediately attacks whomever or whatever you initially designate as though it were an animated object of the appropriate size category. You may animate one Large or smaller plant, or a number of larger plants as follows: a Huge plant counts as two Large or smaller plants, a Gargantuan plant as four, and a Colossal plant as eight. You can change the designated target or targets as a move action, as if directing an active spell.  
   

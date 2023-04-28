@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Myrmecoleon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 198
 desc_short: This towering beetle-like horror has thick carapace segments and massive mandibles that leak sizzling acid.
 ```
-# Description
+## Description
 This monstrous, insect-like beast resembles a huge beetle with gleaming black armored plates. Around its head and neck the chitin forms a great mane of jagged spikes. Its insides swirl with acidic juices.
 
 Myrmecoleons live in remote areas where they claim large territories of wilderness as their hunting grounds. They’re often drawn to far-flung ancient ruins and sites of mythic power, and sometimes act as guardians of such places. This has led some sages to theorize that some myrmecoleons aren’t born but are spontaneously created by sites thrumming with mythic power.
@@ -59,7 +61,7 @@ Myrmecoleons live in remote areas where they claim large territories of wilderne
 These creatures only rarely interact with others of their kind-and these interactions usually end in brutal and destructive death matches. Myrmecoleons are cannibals and readily eat those they defeat. When fighting, these insects put on great displays to intimidate rivals or other threats.
 
 Myrmecoleons are known to roll in the corpses of their prey, impaling the bodies upon their carapaces and leaving them there to rot. Why they perform this gruesome act remains unknown. Those who have studied the creature to understand its rudimentary intelligence hypothesize that it might be some sort of a display to showcase its strength to others of its kind, or even be one part of an elaborate mating ritual.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Myrmecoleon)
 ```encounter-table
 name: Mythic Myrmecoleon

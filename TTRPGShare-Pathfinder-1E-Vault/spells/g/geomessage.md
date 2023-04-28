@@ -1,19 +1,21 @@
 ---
-alias: Geomessage
+aliases: [Geomessage]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Geomessage 
+## Geomessage
 
 **source**:: Villain Codex pg. 237  
 **school**:: illusion (figment)
 **level**:: arcanist 4, bard 3, hunter 3, medium 3, occultist 3, ranger 3, skald 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a scrap of vellum)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: surface touched  
@@ -21,7 +23,7 @@ alias: Geomessage
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create a written message of 50 words or fewer, or else an image, a drawing, or a similar diagram. The figment hangs invisible and obscured upon the target surface for the duration of the spell. Another casting of *geomessage* is needed to cause the figment to arrange itself into the intended message.  
   

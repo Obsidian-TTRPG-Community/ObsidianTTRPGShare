@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Werebat (Human Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 88
 desc_short: This furred humanoid has protruding fangs and thin membranes of tissue connecting its arms to its sides.
 ```
-# Description
+## Description
 Werebats are hybrids of vampiric bats and humanoids, possessed of a ravenous bloodlust. As opposed to vampires, with which werebats are often confused, these lycanthropes are often more savage and less calculating than the shapeshifting undead. As though to prove a point, some werebats go out of their way to take down powerful vampire lords and commandeer the vampires’ positions- though many also become slaves to such undead after underestimating their prowess.
 
 Natural werebats typically look like normal members of their humanoid parent race, though they often have dark hair, lithe frames, severe features, and slightly pointed ears. They typically stand taller than normal for their race, but weigh significantly less.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Werebat%20(Human%20Form))
 ```encounter-table
 name: Werebat (Human Form)

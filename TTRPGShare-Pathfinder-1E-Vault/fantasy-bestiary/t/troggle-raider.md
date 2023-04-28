@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troggle Raider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 160
 desc_short: This troggle wears filthy studded leather armor and a dog collar, and carries a powerful bow on its back.
 ```
-# Description
+## Description
 Some troggles exhibit natural skill for hunting and tracking, and their ogre masters take advantage of these talents to create fast, deadly pets that excel at finding and killing humans for the stewpot.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troggle%20Raider)
 ```encounter-table
 name: Troggle Raider

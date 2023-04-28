@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Satyr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 241
 desc_short: This handsome, grinning man has the furry legs of a goat and a set of curling ram horns extending from his temples.
 ```
-# Description
+## Description
 Satyrs, known in some regions as fauns, are debauched and hedonistic creatures of the deepest, most primeval parts of the woods. They adore wine, music, and carnal delights, and are renowned as rakes and smooth-talkers, wooing unwary maidens and shepherd boys and leaving a trail of awkward explanations and unplanned pregnancies in their wakes.
 
 Though their bodies are almost always those of attractive and well-built men, much of the satyrs’ talent for seduction lies in their talent for music. With the aid of his eponymous pipes, a satyr is capable of weaving a wide variety of melodic spells designed to enchant others and bring them in line with his capricious desires.
 
 In addition to their constant frolicking, satyrs often act as guardians of the creatures in their forest homes, and any who manage to turn the satyr’s lust to wrath are likely to find themselves facing down dangerous animals surrounding the faun. Still, while satyrs tend to value their own amusement well above the rights of others, they bear no ill will toward those they seduce. Children born from such encounters are always full-blooded satyrs, and are generally spirited away by their riotous kin soon after birth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Satyr)
 ```encounter-table
 name: Satyr

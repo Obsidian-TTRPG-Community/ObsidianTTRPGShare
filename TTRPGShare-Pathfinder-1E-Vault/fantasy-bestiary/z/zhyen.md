@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zhyen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 30
 desc_short: This short, genie-like creature floats in midair, barely a foot tall but possessing no legs with which to determine its true height. Wisps of elemental light trail from its eyes, and it bows, ready to serve.
 ```
-# Description
+## Description
 The zhyen is a minor genie that serves as a messenger and servant to greater beings. Despite knowledge of their superior genie status as compared to mortal spellcasters, they often serve as familiars to powerful mages, especially the genie-friends known as daivrat (see page 20). They can be summoned with the summon monster II spell.
 
 Each zhyen appears as a miniature djinni from the waist up, broadly muscular and attractive. Beneath the waist, the zhyen has no form at all, instead dissipating into a “tail” of the genie’s favored element: a wisp of mist for air, a flowing wave for water, a trail of flame for fire, or a seemingly endless shower of stone for earth. This appearance is reflected in the skin tone of the zhyen as well, but has no influence on the genie’s powers or abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zhyen)
 ```encounter-table
 name: Zhyen

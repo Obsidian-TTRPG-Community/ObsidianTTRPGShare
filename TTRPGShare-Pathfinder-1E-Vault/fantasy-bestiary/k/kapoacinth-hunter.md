@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kapoacinth Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 84
 desc_short: The stone statue of a menacing fiend crouches here, as though ready to spring to life and devour innocent passersby. Then it moves-to do just that.
 ```
-# Description
+## Description
 Many races adorn their buildings and structures with carved gargoyles to make them look more fearsome, to ward off evil spirits, or in the hope of making real gargoyles think another tribe is already occupying the area. Many magic-users also create constructs in the shapes and forms of gargoyles, emulating those creatures’ ability to blend in with stone structures and taking advantage of the pervasiveness of sculpted gargoyles to create stealthy protectors and watchdogs.
 
 Many spellcasters construct gargoyle guardians that have special abilities, making them even more capable and vigilant sentinels.
 
 Gargoyle Sentry (+0 CR): These gargoyle guardians are created with eyes of citrine linked to a 1-footdiameter orb of the same stone. The orb always displays what the gargoyle guardian sees, though without the construct’s darkvision or low-light vision. If the gargoyle sentry is destroyed, its eyes and the linked orb shatter into worthless dust.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kapoacinth%20Hunter)
 ```encounter-table
 name: Kapoacinth Hunter

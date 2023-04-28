@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Noble Crusader
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: NPC Codex
     desc: 46
 ```
-# Description
+## Description
 The noble crusader battles the forces of chaos, usually at the behest of a local monarch.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Noble%20Crusader)
 ```encounter-table
 name: NPC Noble Crusader

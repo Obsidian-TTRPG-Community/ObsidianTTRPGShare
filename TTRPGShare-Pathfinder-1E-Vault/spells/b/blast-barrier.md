@@ -1,19 +1,21 @@
 ---
-alias: Blast Barrier
+aliases: [Blast Barrier]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Blast Barrier 
+## Blast Barrier
 
 **source**:: Inner Sea Magic pg. 52  
 **school**:: transmutation (sonic)
 **level**:: arcanist 3, druid 4, hunter 3, ranger 3, redmantisassassin 3, sorcerer 3, witch 4, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (handful of snow, earth, or gravel)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5ft./2 levels)  
 **effect**:: 1-ft.-thick wall up to 10 ft. high by 20 ft. wide  
@@ -21,7 +23,7 @@ alias: Blast Barrier
 **saving-throw**:: Reflex half (see below)
 **spell-resistance**:: yes (see below)
 
-### Description 
+### Description
 
 Originally used by the winter witches on the field of battle in the early days of Irrisen, *blast barrier* has entered the oral traditions of many northern barbarian tribes as legends of winter witches possessing powers to bend the very ground of a battlefield to their will. *Blast barrier*, however, has proven to be an exceptionally versatile spell as far as terrains are concerned, for it works equally well in swamps, deserts, or any region where the ground is soft or easy to shape.  
   

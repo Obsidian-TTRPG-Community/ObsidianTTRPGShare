@@ -1,19 +1,21 @@
 ---
-alias: Ego Whip III
+aliases: [Ego Whip III]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ego Whip III 
+## Ego Whip III
 
 **source**:: Occult Adventures pg. 169  
 **school**:: enchantment (compulsion) (emotion, mind-affecting)
 **level**:: psychic 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,6 @@ alias: Ego Whip III
 **saving-throw**:: Will partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This functions as *ego whip I*, but the target takes a -6 penalty to the chosen ability score and is staggered for 1d6 rounds on a failed Will save. This spell can be undercast.
-

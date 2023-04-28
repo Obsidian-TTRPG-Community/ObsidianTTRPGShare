@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ugothokra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 88
 desc_short: This partially mechanical, partially organic spider moves with a skittering lurch. A single crystalline eye glares from its hideous face.
 ```
-# Description
+## Description
 One of many artificially engineered species grown and molded in Dominion of the Black labs, ugothokras were designed specifically to spread contagions through organic enemy ranks. Immune to disease, ugothokras have small bodies that are capable of hosting a limitless number of contagions within their blood.
 
 Ugothokras are incapable of reproduction, and when additional ones are required by the Dominion of the Black, replacements are constructed from organic and cybernetic components. The construction facilities typically operate within the organic walls of Dominion installations, the little beasts crawling out from birthing tubes protruding from their semi-organic incubators. These incubators are of widely varying size and capacity. Smaller versions, possessing no more than two birthing tubes, can produce an ugothokra every hour if provided the proper nutrients (typically curdled flesh harvested from victims of flesh ripen fever), fed to it through the living walls in which the incubator is nestled. Significantly larger incubators with dozens of birthing tubes have been reported, their size limited only by the resources needed to create more offspring.
@@ -77,7 +79,7 @@ A newborn ugothokra is completely autonomous and fully functional. While ugothok
 Rumors of variant ugothokras abound, including swarms or larger varieties, and those possessing even more potent and deadly diseases. Given the prodigious industry of the Dominion of the Black, such rumors hardly seem far fetched.
 
 An ugothokra stands only about 2 1/2 feet tall, with a leg span approaching 6 feet. Most weigh around 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ugothokra)
 ```encounter-table
 name: Ugothokra

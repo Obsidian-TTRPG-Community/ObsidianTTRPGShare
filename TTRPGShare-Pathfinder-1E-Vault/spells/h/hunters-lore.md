@@ -1,25 +1,27 @@
 ---
-alias: Hunter's Lore
+aliases: ["Hunter's Lore"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hunter's Lore 
+## Hunter's Lore
 
 **source**:: Inner Sea Magic pg. 56  
 **school**:: divination
 **level**:: hunter 2, inquisitor 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a scrap of paper torn from a book about monsters)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 Inquisitors and rangers alike learned long ago that knowledge of an enemy grants power over that enemy. This spell was created so that almost any enemy could have its vulnerabilities known and exploited.  
   

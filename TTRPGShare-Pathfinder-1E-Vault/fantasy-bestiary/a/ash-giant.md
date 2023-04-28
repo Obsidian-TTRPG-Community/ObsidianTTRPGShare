@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ash Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 126
 desc_short: Towering above a typical human, this misshapen giant’s pale flesh is covered in purulent sores and bulbous tumors.
 ```
-# Description
+## Description
 Whether because of disruptive magic, unearthed deep elements, or alien technology that fell calamitously from the sky, ash giants are victims of their barren terrains. Yet they somehow survive and even thrive in these desperate lands. Ash giants have an uncanny ability to bond with the enormous and often mutated vermin they share the landscape with, and sometimes use the largest of these creatures as mounts.
 
 Ash giants are brash and violent, and their humor is incredibly dark. Killing someone through a prank is just as funny as tripping a friend while on a hunt. While not inherently evil, lifetimes of being antagonized by other tribes have practically bred violence into their minds.
 
 Ash giants are 10 feet tall and weigh 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ash%20Giant)
 ```encounter-table
 name: Ash Giant

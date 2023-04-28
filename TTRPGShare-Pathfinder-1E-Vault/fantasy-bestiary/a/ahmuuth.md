@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ahmuuth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 303
 desc_short: This somberly dressed humanoid wears an ominous mask. Gravestones float near it like heavy shields.
 ```
-# Description
+## Description
 An ahmuuth is a servitor of Pharasma who is responsible for helping mortals destroy undead and dispatch renegade souls evading the goddess’s judgment. Unlike morrigna psychopomps (Bestiary 4 219), who hunt lost or corrupted souls on their own, ahmuuths work with mortal worshipers of Pharasma and try to usher creatures like ghosts to peaceable final ends-when they can. When they can’t, they have no qualms about forcing wayward spirts to face their goddess’s judgement. An ahmuuth looks like a humanoid wearing an owl mask, and is always accompanied by floating gravestone shards that act as a shield. Like owls, ahmuuths are silent stalkers, revealing themselves only at the moment of attack. Ahmuuths stand just over 6 feet tall and weigh approximately 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ahmuuth)
 ```encounter-table
 name: Ahmuuth

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xanthos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 282
 desc_short: This elephant-sized equine creature has bright red skin, fangs, six eyes, and armored plates on its head, neck, and back.
 ```
-# Description
+## Description
 A xanthos is a strange creature, part equine, part reptile. Bred as mounts by a long-dead race of alien plane-jumping explorers, xanthoi have a remarkable intelligence and the ability to teleport themselves and their riders over long distances. The race that created xanthoi has since died off or left for remote destinations, and the remaining xanthoi have lost many of their former powers, but they still have a driving need to explore worlds and planes. Xanthoi are omnivores but can survive on vegetable matter.
 
 A xanthos memorizes geography, flora, and fauna in case its lost masters ever return. In its travels, it may seek out powerful adventurers to form a mutual alliance of curiosity and friendship, and continue its explorations in their company. Each xanthos has a specif ic interest, and its desire to examine and catalog might be inconvenient or irrelevant to an adventurer’s desires.
@@ -62,7 +64,7 @@ A xanthos memorizes geography, flora, and fauna in case its lost masters ever re
 Xanthoi avoid using their abilities to interfere or help with wars, planar invasions, and natural disasters, as they believe doing so violates an ancient code limiting their actions to observation and memorization rather than inf luencing events. They are more likely to flee than to fight unless fleeing would leave their friends stranded or in danger.
 
 A xanthos is 13 feet tall at the shoulder and weighs 15,000 pounds. Its sloping, armored back is not particularly comfortable for humanoids to sit on, but is well suited for bearing a howdah that can hold up to four Medium or Small creatures. It may accept a howdah, but doesn’t tolerate being treated as a beast of burden.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xanthos)
 ```encounter-table
 name: Xanthos

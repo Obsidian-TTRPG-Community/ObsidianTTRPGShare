@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC City Watch (Watch Captain)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
   - name: GameMastery Guide
     desc: 261
 ```
-# Description
+## Description
 Watch captains are stern and canny veterans, experienced soldiers who have seen it all on the battlefield and lived to tell the tale. Quick of mind and naturally suspicious, they are thorough and professional in leading investigations yet also tactful when dealing with highborn and lowborn alike.
 
 Watch captains might also be used as high-ranking officers or low-ranking generals in an army, while a single watch captain can serve as the castellan of a fortress. Replacing the halberd and Improved Trip feat with a ranseur and Improved Disarm creates a watch captain who disarms opponents instead of tripping them.
 
 Watch captains may be encountered leading an investigative team of a guard officer and a battle mage (CR 8) or leading larger patrols in force (CR 8 for one patrol of an officer and four guards; +1 CR per additional patrol). A watch captain might also be encountered as the non-noble companion of a holy warrior or knight (CR 8).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=City%20Watch%20(Watch%20Captain))
 ```encounter-table
 name: NPC City Watch (Watch Captain)

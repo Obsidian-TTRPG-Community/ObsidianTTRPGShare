@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Serpent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 244
 desc_short: Spine-frilled neck arching up from the water like a snake ready to strike, this ship-sized serpent hisses a challenge.
 ```
-# Description
+## Description
 Tales of immense sea serpents have colored the accounts of seagoing folk since the first ship sailed beyond sight of land. Yet proof of these immense and elusive creatures is remarkably difficult to come by, for not only is the ocean vast and the true sea serpent rare, but these creatures are quite adept at both avoiding capture and destroying ships bent on such a daunting task. Due to the sea serpent’s hermitic nature, many sailors take to ascribing the sighting of such a beast to an omen, although whether the sighting portends peril or providence depends as much upon the ship’s morale as it does anything else-the sea serpent itself has little interest in prophecy, and only its hunger determines how dangerous its proximity to a curious ship can be.
 
 Although sea serpents are little more than animals, they possess about them an air of mysticism that even old salts and cynics are forced to admit quickens the heart and buoys (or sinks) the spirit. Reports of sea serpent sightings are just as likely to encourage travel as they are to cause panic among seafarers, as explorers and adventurers flock to the site in hopes of sighting such a legendary creature.
 
 Typical sea serpents are 60 feet in length and weigh 4,500 pounds, but their upward size limit is unknown. Certainly, the sea is a vast and mysterious place more than capable of supporting whales and other such leviathans, and tales of sea serpents that exceed lengths of 300 feet or more are not unheard of. You can generate statistics for a sea serpent of such tremendous size by applying the advanced simple template or the giant simple template to the statistics presented here. Alternatively, you can advance this sea serpent to Colossal size, increasing its Hit Dice to 25 and its CR to 18.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Serpent)
 ```encounter-table
 name: Sea Serpent

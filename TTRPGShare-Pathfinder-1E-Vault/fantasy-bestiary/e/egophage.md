@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Egophage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 26
 desc_short: Eight tentacles ending in claws grow from the base of this glistening and gruesome floating brain.
 ```
-# Description
+## Description
 When an intellect devourer gorges heavily on midnight milk (Pathfinder Campaign Setting: Lost Cities of Golarion 11), it sometimes develops increased psychic abilities, including the ability to fly, and has its stubby clawed legs stretch into tentacles. These sinister aberrations are called egophages, and delight in wearing other creatures like suits to fulfill their demented whims and schemes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Egophage)
 ```encounter-table
 name: Egophage

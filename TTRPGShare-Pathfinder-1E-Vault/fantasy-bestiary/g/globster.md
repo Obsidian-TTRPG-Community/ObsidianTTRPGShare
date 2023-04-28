@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Globster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 131
 desc_short: This grotesque mass of blubber and rancid flesh piles up hideously upon itself, opening a vast maw filled with teeth.
 ```
-# Description
+## Description
 A globster is a living collection of half-digested parts from large sea creatures such as whales and squid. Passersby usually discover it by smell long before they see it. Many unfortunate folk who happen upon a globster mistake it for the carcass of a beached sea animal, getting too close before discovering the seemingly dead creature is very much alive. For a time, sages believed globsters were undead-that they were simply undulating wads of rotting flesh animated with a drive to feed. However, globsters are actually living creatures.
 
 Globsters usually wash up on a beach or float to the shore to feed on terrestrial stock for a few hours before returning to the safety of water. Some say the tides and phases of the moon are to blame for the times globsters come to land to feed. Globsters reproduce by mixing parts of their own foul bodies with the poorly digested remains of their meals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Globster)
 ```encounter-table
 name: Globster

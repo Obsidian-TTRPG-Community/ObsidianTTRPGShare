@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pirate (Smuggler)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 57
 desc_short: This shady-looking sailor has a knowing glint in his eyes, which shift from side to side as he evaluates his surroundings.
 ```
-# Description
+## Description
 Smugglers sneak their ill-gotten gains past nosey port functionaries as well as naval inspections and blockades, and are typically stealthy rapscallions, marvelously gifted beguilers, and nimblefingered pickpockets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pirate%20(Smuggler))
 ```encounter-table
 name: NPC Pirate (Smuggler)

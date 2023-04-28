@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lava Child
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 43
 desc_short: This squat, clawed humanoid is hunched and pink-skinned, with an oversized head. Its face is that of a fanged and insane human baby, and its mouth opens far wider than it should.
 ```
-# Description
+## Description
 Lava children are ill-tempered creatures created by shaitan genies. Shaped like stunted humanoids with the hideous heads of fanged infants, they prefer to reside in volcanoes. Typical lava children are 5 feet tall and 450 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lava%20Child)
 ```encounter-table
 name: Lava Child

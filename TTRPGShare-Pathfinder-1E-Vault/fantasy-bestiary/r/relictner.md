@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Relictner
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 86
 desc_short: This withered, decrepit dwarf has crumbling skin and wears ancient leather armor but moves with eerie agility.
 ```
-# Description
+## Description
 A relictner mortic is two entities in one: a vicious, grasping curse and its half-undead dwarven host. The hosts resemble gaunt, prematurely aged dwarves, their hair gray and ragged, their faces nothing but masses of wrinkles. The curse, however, is a strong and subtle thing, rotting and weathering everything the relictner sees or touches until only ruins are left. Outcast and eternally bitter, most relictners remove themselves to abandoned halls and forgotten ruins that they remake into shrines of mortal despair, filling their new homes with traps and pitfalls to snare the unwary.
 
  A typical relictner stands about 4 feet tall and weighs 125 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Relictner)
 ```encounter-table
 name: Relictner

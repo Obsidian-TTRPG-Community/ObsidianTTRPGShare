@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cannibal Zealot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 61
 desc_short: Crude designs painted in what can only be dried blood cake the face and the hide clothing of this rugged-looking human, whose grinning mouth is filled with sharp, filed teeth.
 ```
-# Description
+## Description
 These Koboto cannibals have lived in the harsh, rain-scoured jungles of the Sodden Lands their entire lives. From a young age, these warriors have been indoctrinated into the worship of Sar-Gorog, the Three Feasters of Koboto lore. Worship of this pantheon, they believe, is all that protects their people from devastation by monsters and weather. Cannibalism is a sacred rite in the worship of the Three Feasters, and the Koboto believe that consuming the flesh of their enemies grants them strength and power. These warriors rarely rush into combat without some consideration and preparation. They prefer to cast preparatory spells such as shield of faith and weapon of awe if time permits. Their preferred method of combat is ambush; they use Stealth and attempt to approach their enemies undetected. The cannibals prefer to incapacitate their enemies using hold person or tanglefoot bags so they can tie up and eventually cook and eat their victims; a living prisoner spoils less quickly than a decaying corpse. If open combat becomes necessary, these zealots let the ferocious rage of the Three Feasters overtake them and don’t back down until they or their enemies are dead.
 
 These zealots follow Jitikai out of habit rather than slavish devotion. Jitikai increasingly favors her juju zombies over her living followers, and has forbidden the zealots from consuming any corpses in Mifutu’s tomb. The zealots are starting to discuss-in hushed tones-whether perhaps they ought to desert Jitikai and find another witch doctor to serve.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cannibal%20Zealot)
 ```encounter-table
 name: NPC Cannibal Zealot

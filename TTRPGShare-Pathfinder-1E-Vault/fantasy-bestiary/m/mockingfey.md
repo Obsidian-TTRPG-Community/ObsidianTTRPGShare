@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mockingfey
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,7 +55,7 @@ sources:
     desc: 31
 desc_short: This tiny avian has the head of a humanoid and the body of a brilliantly colored parrot.
 ```
-# Description
+## Description
 Mockingfey originally stem from the otherworldly realm of the fey, where they’re regarded as entertainment by locals and nuisances by visitors, who are the usual butt of the creatures’ pranks. The pint-sized fey often congregate in large colonies called japes or “mockingdells,” inhabiting the trees near a commonly traversed path or meadow. When an intelligent creature enters the grove, one of the bird-sprites flies down to perch on the traveler’s shoulder or some nearby vantage. It then promptly uses its mock ability to appear as a perfect, miniature version of the creature in question, proceeding to cavort and imitate the newcomer in a most convincing and unflattering manner, mimicking the creature’s tone but chattering only gibberish. 
 
 This gibberish is not solely for comic effect. While mockingfey are eager (if distractible) students in most matters and can speak and understand Sylvan when necessary, they generally refuse to use verbal language of any sort, believing that words unnecessarily constrain whatever they wish to describe. Instead, they communicate through gestures, pantomime, and elaborate dances. 
@@ -63,7 +65,7 @@ While many people find mockingfey’s antics irritating, the little creatures ca
 Mockingfey can serve spellcasters as familiars, and often enjoy the opportunity such servitude affords to travel and see the world with the safety and protection provided by an allied spellcaster. Illusionists and other spellcasters who seek such puckish familiars often find them worth the resulting hassle-if just barely. A spellcaster must have the Improved Familiar feat, be chaotic neutral, and have a caster level of 4th or higher to gain a mockingfey familiar. 
 
 A mockingfey is 8 inches tall and weighs 2 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mockingfey)
 ```encounter-table
 name: Mockingfey

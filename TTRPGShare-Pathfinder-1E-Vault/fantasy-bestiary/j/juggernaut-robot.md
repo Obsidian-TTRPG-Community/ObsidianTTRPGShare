@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juggernaut Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 88
 desc_short: This towering mechanical humanoid stares down from a soulless violet eye. Its metallic fists crackle with electricity.
 ```
-# Description
+## Description
 Easily the rarest of all robots in Numeria, these metallic monstrosities wreak havoc upon those who trespass upon the remnants of the strange vessel that crashed into Golarion’s crust eons ago. The original reasons behind the creation of such titanic constructs remains a mystery. However, the Technic League quickly surmised that these metal giants excelled at rendering other Numerian technology inert, which may give clues to the constructs’ purpose. Wrought from a strange metallic alloy similar to iron and containing bizarre electronics and delicate sensors, the juggernaut rises to a height of 50 feet and weighs well over 100 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juggernaut%20Robot)
 ```encounter-table
 name: Juggernaut Robot

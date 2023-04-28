@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Hydra
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 204
 desc_short: This seven-headed serpent has serrated fangs, and moves with incredible speed despite its massive bulk.
 ```
-# Description
+## Description
 A mythic hydra is a deadly combination of bites, lunges, speed, and durability. Descended from the very first of its kind, it may run wild. Or created whole by some divine agent, it could be placed as a guardian of a sacred site or a portal to the underworld. Some mythic hydras are reputed to have poisonous breath and blood, or to be so toxic that they corrupt the ground they crawl upon.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Hydra)
 ```encounter-table
 name: Mythic Hydra

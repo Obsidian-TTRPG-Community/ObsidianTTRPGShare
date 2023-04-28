@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wraith
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 281
 desc_short: This ghostly creature is little more than a dark shape with two flickering pinpoints of light where its eyes should be.
 ```
-# Description
+## Description
 Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wraith)
 ```encounter-table
 name: Wraith

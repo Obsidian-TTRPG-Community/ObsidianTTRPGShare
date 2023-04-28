@@ -1,19 +1,21 @@
 ---
-alias: Mythic Lightning Bolt
+aliases: [Mythic Lightning Bolt]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Lightning Bolt
+## Mythic Lightning Bolt
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: evocation (electricity)
 **level**:: adept 3, arcanist 3, bloodrager 3, magus 3, occultist 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (fur and a glass rod)
 
-### Effect 
+### Effect
 
 **range**:: 120 ft.  
 **area**:: 120-ft. line  
@@ -21,7 +23,7 @@ alias: Mythic Lightning Bolt
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips.  
   

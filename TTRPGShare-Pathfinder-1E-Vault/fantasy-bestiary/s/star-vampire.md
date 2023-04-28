@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Star Vampire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 90
 desc_short: An unnatural tittering issues forth from the fanged maw of this floating mass of talon-tipped tentacles, all as red as freshly spilled blood.
 ```
-# Description
+## Description
 Star vampires descend upon worlds to feed upon the blood of the living. Naturally invisible, star vampires expose their offensive shapes when they feed, for the blood they gorge upon infuses their bodies with a glistening crimson hue. Tangled masses of writhing feelers surrounding toothy maws, star vampires can extend three long tentacles tipped with talons to lacerate foes, allowing the aberrations to drink the blood from the air with thousands of tiny feeding tendrils.
 
 A star vampire is approximately 10 feet in diameter, yet weighs a mere 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Star%20Vampire)
 ```encounter-table
 name: Star Vampire

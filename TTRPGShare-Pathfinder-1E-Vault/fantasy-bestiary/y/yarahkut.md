@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yarahkut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 84
 desc_short: Metallic plating and stone make up this creature’s body. Sharpened brass wings stretch from its back, and its head bears three faces.
 ```
-# Description
+## Description
 Yarahkuts are inevitables (Pathfinder RPG Bestiary 2 161) tasked with preventing magic and technology throughout the cosmos from falling into the wrong hands. Their mandate is to track objects that could disrupt the development of cultures that are not yet ready to wield such power. In most cases, yarahkuts monitor the movement of advanced technologies and magical items from lost civilizations, ensuring they aren’t introduced to regions where they could have a disruptive impact.
 
 Noted for their intricate brass wings, yarahkuts have superb control of these appendages and are able to use them as effective weapons. Three identical faces surround a yarahkut’s head, staring impassively in separate directions with glowing golden eyes. Of its two sets of arms, one set bears claws for combat, while the remaining set is more humanoid and is used to manipulate objects-including those items it confiscates. A yarahkut stands 11 feet tall and weighs 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yarahkut)
 ```encounter-table
 name: Yarahkut

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin Lieutenant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Monster Codex
     desc: 119
 ```
-# Description
+## Description
 In addition to leading squadrons, hobgoblin lieutenants are assigned elite missions that call for stealth-particularly scouting missions and sabotage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin%20Lieutenant)
 ```encounter-table
 name: Hobgoblin Lieutenant

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yaenit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 29
 desc_short: Patches of fur adorn the sickly flesh of this gangly but muscular hyena-headed humanoid.
 ```
-# Description
+## Description
 Violent progenitors of Lamashtu’s earthly broods, the yaenit demons’ purpose is to protect Lamashtu’s priestesses and their unholy spawn. Yaenits rise from the souls of evil mortals who in life were exceptionally cruel bullies and tormentors. Their resemblance to gnolls is no coincidence, as many yaenits form from the spirits of gnolls in the Abyss. Gnolls, for their part, revere yaenits as embodiments of Lamashtu’s will, and worship these demons as representatives of both the Mother of Monsters and her unholy designs for her devoted gnoll followers. 
 
 Terrifying predators, yaenits’ deceptively stooped and gangly physiques belie the 300 pounds of knotted and powerful muscle tied to their solid black bones. A yaenit is 6-1/2 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yaenit)
 ```encounter-table
 name: Yaenit

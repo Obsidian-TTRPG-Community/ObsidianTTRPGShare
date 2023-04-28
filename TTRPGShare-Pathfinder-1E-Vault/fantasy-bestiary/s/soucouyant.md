@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soucouyant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 61
 desc_short: This walking nightmare resembles a white-haired old woman who looks as though she has been skinned alive, her bloody muscles and sinews pulsing grotesquely.
 ```
-# Description
+## Description
 Soucouyants are insidious monsters also known as blood crones. They prefer to live near small humanoid societies, assuming the appearance of a wizened old woman. It is only at night that she assumes her true form, when her wrinkled skin peels back and reveals the monstrosity that lurks within, which seeks the blood of those sleeping, unsuspecting neighbors who know her merely as the eccentric widow living at the edge of town. Soucouyants prefer to capture victims for their cruel experiments when possible, and drain such unfortunates of their blood over a course of days or even weeks to sate their sanguinary appetites.
 
 A typical soucouyant is 6 feet tall and weighs 120 pounds. The most powerful soucouyants take it upon themselves to further their spellcasting abilities, and usually possess levels as witches.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soucouyant)
 ```encounter-table
 name: Soucouyant

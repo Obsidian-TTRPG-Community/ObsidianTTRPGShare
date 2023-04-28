@@ -1,25 +1,27 @@
 ---
-alias: Augury
+aliases: [Augury]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Augury 
+## Augury
 
 **source**:: PRPG Core Rulebook pg. 245  
 **school**:: divination
 **level**:: cleric 2, medium 2, occultist 2, oracle 2, psychic 2, sahirafiyun 2, shaman 2, spiritualist 2, warpriest 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (incense worth at least 25 gp), F (a set of marked sticks or bones worth at least 25 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: instantaneous
 
-### Description 
+### Description
 
 An *augury* can tell you whether a particular action will bring good or bad results for you in the immediate future.  
   

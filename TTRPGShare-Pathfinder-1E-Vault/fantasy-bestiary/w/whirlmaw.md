@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Whirlmaw
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 60
 desc_short: This creature glides on undulating folds of leathery skin. Its spinning, circular mouth is lined with rows of razor-sharp teeth.
 ```
-# Description
+## Description
 Predators of the deep desert, whirlmaws are just one of the many dangers posed to those who travel the dry wastes of inner Rahadoum. Little more than flying eaters, these creatures rise singly or in flights, and attack all other living creatures that enter their territory. They are equally at home nestled in shallow burrows beneath sand dunes or resting in the rocky crevices of mountains. When they hunt, they soar upon the high thermals and keep an eye out for potential prey through the stony orbs that serve as their eyes.
 
 These bizarre hunters prefer to burrow into the torsos of their victims and consume the blood-rich organs, leaving the corpses’ peripheral parts for scavengers. Few that encounter these vicious predators live to tell of it. The skeletal remains of whirlmaws’ victims can be identified by the suspiciously circular sections of their torsos missing where the creatures burrowed through and consumed the flesh, bone, and organs in their entirety.
 
 The green, gemlike eyes of a whirlmaw are prized by those who seek exotic and dangerous treasures in the desert. It is speculated by some that these mystical orbs are the source of the whirlmaw’s natural fire immunity, and alchemists and wizards often use them as components in creating magic items that bestow that form of energy resistance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Whirlmaw)
 ```encounter-table
 name: Whirlmaw

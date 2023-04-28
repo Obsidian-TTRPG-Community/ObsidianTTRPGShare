@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Guardian Scroll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 82
 desc_short: This innocuous-looking scroll f lits about with serpentine grace, baring its razor-sharp edges.
 ```
-# Description
+## Description
 Guardian scrolls are deceptive constructs created from enchanted paper or papyrus, designed to protect the lairs, libraries, and sacred texts of magical practitioners. When an intruder enters a proscribed area or touches a prohibited object without first speaking a password or otherwise signaling permission to enter, the guardian scroll attacks. At rest, guardian scrolls appear identical to any number of different types of magical or nonmagical scrolls. When a guardian scroll becomes active, it rises in the air and unfurls to a length of almost 4 feet. It wafts through the air with casual ease as it approaches its target. When it attacks, it stiffens its edges, making them blade-sharp. It races past its target and draws its entire length across any exposed f lesh, leaving a long, deep, and painful slash that bleeds badly afterward. This is not the scroll’s only means of attack, however. It can also wrap itself around a Medium or smaller creature in the blink of an eye, constricting it. While the strength of its constriction is not as intense as that of a giant snake, the guardian scroll is intelligent enough to strategically wrap itself around the face of its target to blind and asphyxiate the creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Guardian%20Scroll)
 ```encounter-table
 name: Guardian Scroll

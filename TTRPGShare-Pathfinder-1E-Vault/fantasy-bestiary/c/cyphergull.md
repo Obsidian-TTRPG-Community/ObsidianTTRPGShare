@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cyphergull
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 82
 desc_short: The eyes of this large gull glow eerily blue. Gray feathers cover much of its robust body, and its long, black-tipped wings are marked with enigmatic symbols. The bird’s yellow bill is heavy and hooked, and its webbed feet bear sharp talons.
 ```
-# Description
+## Description
 The noisy, enigmatic cyphergulls are a common sight in the coastal city of Riddleport, where they often circle above the ancient rune-carved Cyphergate as if they own it. Their appearance and behavior greatly resembles those of their mundane cousins-seagulls-but they are far more intelligent, and their connection to Riddleport’s ancient Thassilonian stone arch grants them many magical abilities.
 
  A cyphergull is a little over 2 feet long, has a wingspan of up to 5 feet, and weighs 3 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cyphergull)
 ```encounter-table
 name: Cyphergull

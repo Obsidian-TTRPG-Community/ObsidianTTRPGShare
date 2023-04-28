@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rusalka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 232
 desc_short: This beguiling female figure is partly obscured by long flowing hair that dances and flows around her as if she were underwater.
 ```
-# Description
+## Description
 Rusalkas are cruel and bitter fey who inhabit waterways near humanoid settlements. Although rusalkas are not undead, some persist in believing that these fey form from the spirits of those who met a sinister end in the water. Rusalkas do little to dissuade such rumors. Rusalkas are fond of keeping a few charmed monsters or powerful humanoids nearby to aid in their defense or for other forms of cruel and humiliating entertainment, but quickly grow bored with such pets. When this occurs, rusalkas generally murder the creatures and seek more interesting replacement pets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rusalka)
 ```encounter-table
 name: Rusalka

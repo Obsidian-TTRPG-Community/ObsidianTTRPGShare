@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jorogumo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 156
 desc_short: Eight spindly spider legs, flocked with coarse black hairs, stretch from the back of this otherwise beautiful black-haired woman.
 ```
-# Description
+## Description
 Jorogumos are seductive schemers who secret themselves away in isolated mountain valleys where they lure travelers, especially men, to their dooms. Exclusively female, jorogumos must mate with humanoids to produce fertile eggs. After copulation, a jorogumo paralyzes her partner by poisoning him into a coma. She lays a single egg within the father’s body, then cocoons the corpse and hides the victim. Periodic visits to re-poison the victim ensure his coma lasts for the 2d4 days required for the young jorogumo to hatch and feed. Jorogumos are enthusiastic enemies of tengus and attack them on sight-they never take tengus as “mates.”
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jorogumo)
 ```encounter-table
 name: Jorogumo

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gegenees
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 118
 desc_short: Tattoos cover the blue skin of this towering, six-armed giant, and large tusks jut from his lower jaw.
 ```
-# Description
+## Description
 The gegenees are a race of six-armed giants who dwell in lands far from civilization. They prefer weapons such as clubs and spears, dress in skins and furs, and embellish their bodies with elaborate tattoos and ritual scarification. Though not malevolent, gegenees are territorial, superstitious, and exceptionally xenophobic. They have an innate distrust for arcane spellcasters in particular, and gegenees with innate sorcerous talents are quickly exiled from their clans.
 
  Gegenees tattoos are stylized patterns that tell the story of the individual as well as the histories of that gegenees’s most honored forebears. Consequently, gegenees are particularly infuriated by creatures that attempt to copy their tattoo patterns for aesthetic purposes, as this is tantamount to laying claim to the family legacies of the gegenees.
@@ -58,7 +60,7 @@ The gegenees are a race of six-armed giants who dwell in lands far from civiliza
  Each gegenees clan is guided by a chieftain, who is advised by the venerable mothers- the clan’s three oldest and most revered women. Possessing great wisdom and supernatural gifts, the venerable mothers are also blind, for they pluck out their eyes to prove their devotion to the clan. Their every word is considered sacrosanct.
 
  Gegenees are 21 feet tall and weigh 14,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gegenees)
 ```encounter-table
 name: Gegenees

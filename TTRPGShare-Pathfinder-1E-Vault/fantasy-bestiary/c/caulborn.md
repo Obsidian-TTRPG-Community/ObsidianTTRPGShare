@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caulborn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 62
 desc_short: This creature has a split-jawed mouth, a hoodlike growth on its head, and two hideously elongated fingers on each hand.
 ```
-# Description
+## Description
 Caulborn are a race of telepathic prophets and historians who subsist on the psychic energy of others. They wander the planes in search of new facts and concepts to add to the pulsating brain-sacks that serve as their collective memories. When a band of caulborn find a particularly interesting site, they settle down to dwell there for many years until they feel that they have learned all there is to know about the location.
 
 A caulborn is literally a creature of the mind. Its body is self-sustaining, and it exists solely to record and catalogue new thoughts. While they are not evil, caulborn have little interest in alliances or friendship with other races.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caulborn)
 ```encounter-table
 name: Caulborn

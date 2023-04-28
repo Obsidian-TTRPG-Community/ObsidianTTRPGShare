@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Night Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 215
 desc_short: Grisly fetishes and the rags of once fine clothes hang off the corpse-thin frame of this horrifying, sharp-fanged crone.
 ```
-# Description
+## Description
 Terrifying murderesses and greedy soul brokers, night hags prey upon mortals while they’re most vulnerable. Preferring to kill their prey slowly, haunting their dreams night after night, these hags trap the tormented souls of their victims within dark gems so they might be sold in the infernal markets of the outer planes. Night hags vary widely in appearance, standing between 5-1/2 and 7 feet tall, and weighing from 150 to 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Night%20Hag)
 ```encounter-table
 name: Night Hag

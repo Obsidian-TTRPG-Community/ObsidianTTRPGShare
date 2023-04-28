@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Four-Armed Mudra Skeleton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -36,9 +38,9 @@ sources:
     desc: 86
 desc_short: Bones rattle against cracked bones as this ancient, fleshless corpse clatters forth.
 ```
-# Description
+## Description
 Sometimes called “whirlwind skeletons,” a mudra skeleton’s Dexterity increases by +4 (instead of +2), and it gains Multiweapon Fighting and Weapon Finesse as bonus feats.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Four-Armed%20Mudra%20Skeleton)
 ```encounter-table
 name: Four-Armed Mudra Skeleton

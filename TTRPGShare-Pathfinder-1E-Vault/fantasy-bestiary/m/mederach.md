@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mederach
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 88
 desc_short: This towering spider has multifaceted, shining eyes, eight legs that are each tipped with silver, and massive mandibles.
 ```
-# Description
+## Description
 Natives of Elysium, mederachs are the kind and good counterparts to the bebiliths that lurk in the Abyss and prey upon demonic flesh. Mederachs once spent all of their time on their home plane, serving as healers and teachers to the azatas, angels, titans, and others creatures alongside which they lived; among themselves, mederachs delighted in discussing the nuances of the honest virtues they held in such high esteem, including kindness, charity, and mercy.
 
 As societies formed on the Material Plane, mederachs heard tales of mortals’ changeable morality with interest and concern. Mortals, they came to believe, have souls that are inherently good, but that are also easily corrupted when exposed to prolonged suffering or extraplanar evil forces. During the Age of Darkness, mederachs heard of the various misfortunes and evils that had descended upon the lands of Golarion, including the falling of the Starstone, the collapse of major empires, and the rampages of the nascent demon lord Treerazer. Believing that these events would imperil the souls of all the world’s mortals, mederachs began experimenting with plane-shifting; once they honed this ability, they began making regular forays to Golarion to aid good creatures in the fight against overwhelming evil. Now, in addition to embarking on these missions, mederachs also sometimes travel to the source of such evil plots-often the Abyss-and work on mortals’ behalf there. However, no matter where their journeys take them, mederachs always keep in mind their belief that most evil can be redeemed, and so they seek to subdue their enemies and turn them toward good whenever possible instead of destroying them outright.
 
 Mederachs are typically 10 feet tall and weigh about 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mederach)
 ```encounter-table
 name: Mederach

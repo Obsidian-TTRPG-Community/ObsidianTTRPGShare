@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mummy Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
     desc: 84
 desc_short: Dirty linen strips swathe this emaciated, once-noble figure from head to toe. Its eyes burn with unholy light.
 ```
-# Description
+## Description
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less widespread. In certain ancient lands, such blasphemous techniques have been ref ined through centuries of ceremony and countless deaths, giving rise to mummies of terrible power. On rare occasions, if the deceased was of great rank and exceeding malevolence, he might undergo such elaborate rituals, rising from his tomb as a fearful mummy lord. Similarly, a ruler known for his malice or who died in a moment of great rage might spontaneously arise as such a vengeful despot. Regardless of the exact circumstances of his resurrection, a mummy lord retains the abilities he had in life, becoming a creature consumed by the desire to restore his rule and dominate both the living and dead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mummy%20Lord)
 ```encounter-table
 name: Mummy Lord

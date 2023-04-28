@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Jinkin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 82
 desc_short: Grimacing like a maniac, this lean little bat-eared horror displays a mouth full of needle-like teeth and glowing, orange eyes.
 ```
-# Description
+## Description
 Sneaky and sadistic, jinkins are hideous gremlins that inhabit the dark places underground. Well acclimated to the shadows, they hide in cramped quarters and attack larger creatures when they’re strategically positioned. Jinkins commonly work with or near larger or more powerful creatures; these larger creatures provide cover for the jinkins’ trickery. They use dimension door to exit any battle that goes badly, taking any stolen goods with them.
 
 Jinkins delight in leading larger creatures into dangerous caves or pits, usually by lunging out of the shadows to make a single sneak attack against a creature and then running away, taking care while “fleeing” to remain visible to their target so that they can lure the victim into a trap.
@@ -72,7 +74,7 @@ One of the most direct and unwelcome revenges of the jinkins is the destruction 
 Dwarves in particular hate jinkins, with numerous tales in their folklore telling of tragedy at the hands of the gremlins. The loathing is largely mutual.
 
 The average jinkin stands almost 2 feet tall and weighs about 13 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jinkin)
 ```encounter-table
 name: Jinkin

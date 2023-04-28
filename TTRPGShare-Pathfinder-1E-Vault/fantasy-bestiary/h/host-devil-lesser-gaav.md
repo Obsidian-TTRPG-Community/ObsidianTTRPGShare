@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Host Devil, Lesser (Gaav)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 58
 desc_short: This tangle of scaly avian limbs furiously beats its double pair of vulture-like wings, keeping its fiendish, horned skull-head aloft. As fetid breath rises from its repulsive, fly-covered visage, clawed arms work together to slash the air with a vicious-looking spear.
 ```
-# Description
+## Description
 Hunters of souls, host devils retrieve Hell’s most elusive property. Whether souls that have long evaded capture upon the plains of Avernus, damned beings who have somehow managed to escape Hell, or creatures that have reneged upon infernal contracts, vast flocks of these winged fiends swarm from the Pit to recover their prey. Rarely seen alone, host devils travel in great swarms that often number in the thousands. Amid these great hosts flap the swarm leaders, the magaav, fierce mockeries of the angelic form capable of directing and redirecting massive columns of their brethren like the brain of a single colossal infernal beast.
 
  Gaavs stand 4 feet tall and weigh approximately 110 pounds, their wingspans stretching to just over 6 feet wide. Magaavs stand 5-1/2 feet tall and weigh 150 pounds, with wingspans reaching 10 feet across.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Host%20Devil%2C%20Lesser%20(Gaav))
 ```encounter-table
 name: Host Devil, Lesser (Gaav)

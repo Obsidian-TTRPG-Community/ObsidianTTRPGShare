@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juggernaut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 162
 desc_short: This oppressive construct rumbles forth on deadly rollers, crushing everything in its path.
 ```
-# Description
+## Description
 Juggernauts protect locations dedicated to a particular faith, their massive forms infused with divine energy that animates them and infuses them with their deity’s power. Some faiths use a juggernaut as a mobile shrine, anointing it with sacred materials and offering prayers to the divine.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juggernaut)
 ```encounter-table
 name: Juggernaut

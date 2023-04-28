@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sin Seeker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 88
 desc_short: This strange flying creature is the size of a house cat and has tender pink skin and the stubbed features of a pig. Its porcine face is eyeless and its nose never stops sniffing at the air.
 ```
-# Description
+## Description
 Believed to have been bred centuries ago by zealous priests and inquisitors, sin seekers are living creatures with a supernatural ability to detect the scent of varying degrees of morality. Originally small forest swine known for their acute senses of smell, these unfortunate creatures were subjected to a magical mutation similar in practice to fleshwarping. The priests’ goal was to use these new creations to sniff out the supporters of rival faiths, identifying them by their hidden sins.
 
 In the centuries following their initial creation, various sects throughout Golarion maintained small sin seeker breeding programs. Many of these were aimed at culling impious members from the ranks of the clergy, though many evil sects used sin seekers as torture and interrogation aids. Today, small populations of sin seekers still survive in monasteries throughout Golarion, and adventurers of all alignments continue to keep them as familiars. Sin seekers are usually about 12 to 18 inches long, with a 2-foot wingspan. They weigh between 3 and 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sin%20Seeker)
 ```encounter-table
 name: Sin Seeker

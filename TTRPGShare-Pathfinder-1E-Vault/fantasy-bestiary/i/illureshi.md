@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Illureshi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,9 +80,9 @@ sources:
     desc: 57
 desc_short: This anemic protean wears a wizard’s robe and garish jewelry.
 ```
-# Description
+## Description
 Illureshis embody chaos through sorcery, traveling the planes as chatty and whimsical masters of arcane magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Illureshi)
 ```encounter-table
 name: Illureshi

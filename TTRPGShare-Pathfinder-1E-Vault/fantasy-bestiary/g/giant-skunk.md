@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Skunk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 247
 desc_short: Snarling and ferocious, this horse-sized skunk emits a frightening growl as it smashes through the undergrowth.
 ```
-# Description
+## Description
 Much larger than their passive cousins, giant skunks are an aggressive lot. Having a greater bulk to maintain, giant skunks feed on creatures beyond just grubs and insects, often hunting small mammals and reptiles by night in addition to giant versions of insects. While giant skunks are dangerous to nearby settlements, farmers find a positive aspect in their presence, valuing the creatures’ taste for giant insects and other more dangerous vermin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Skunk)
 ```encounter-table
 name: Giant Skunk

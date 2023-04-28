@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Japalisura
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 84
 desc_short: This lithe, six-armed humanoid has tusks that curve from his chin and carries a pair of bows.
 ```
-# Description
+## Description
 Thinking her divine realm so glorious that all must envy it, a goddess once sought a powerful oracle to identify her enemies. The oracle told her that she had no reason to fear invaders, for her death and ruin would come from the covetous barbs of enemies within. Distressed, the goddess returned to her palace, scoured her halls for any such traitors, and at last came upon her three demigod children practicing archery. Certain that her children would one day slay her, she tore them to pieces and cast their bodies and bows far from her realm. The first japalisura formed from these eviscerated remains.
 
  A japalisura is 7 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Japalisura)
 ```encounter-table
 name: Japalisura

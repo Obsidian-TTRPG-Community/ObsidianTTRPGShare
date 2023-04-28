@@ -1,19 +1,21 @@
 ---
-alias: Trade Items
+aliases: [Trade Items]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Trade Items 
+## Trade Items
 
 **source**:: Ultimate Intrigue pg. 226  
 **school**:: conjuration (teleportation)
 **level**:: arcanist 4, bard 3, mesmerist 3, skald 3, sorcerer 4, summoner 3, summoner (unchained) 3, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (any held object weighing no more than 5 lbs./level)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one object weighing no more than 5 lbs./level  
@@ -21,7 +23,7 @@ alias: Trade Items
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You cause the target object and the object used as a focus for the spell to immediately swap places. The target object appears in your hand (or falls to the ground in your square if you are unable to hold it). The stronger the connection between the two objects, the more difficult the spell is to resist, as indicated on the table below. The modifiers are cumulative.  
   

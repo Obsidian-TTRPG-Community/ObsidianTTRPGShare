@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yithian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 286
 desc_short: This bizarre creature has a conical body topped with four tentacles tipped with pincers, tubes, and a tentacled, spherical head.
 ```
-# Description
+## Description
 Untold eons ago, the yithians inhabited a dying world. To escape their doomed planet, they cast their minds through time and space, eventually coming to rest in the strange, alien bodies they possess today. While these strange beings now reside in a distant galaxy, the yithians make use of their ability to astrally project to explore other planets, eager to find new worlds to explore.
 
 When a yithian arrives upon a new world, it often swaps minds with the creatures it encounters there so as to experience that world as if it were a native. Those who spend time in a yithian’s body rarely tell of the strange times they have experienced, for yithians guard themselves well, and leave those they use in this manner amnesiacs who remember the truth only as fragmentary nightmares.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yithian)
 ```encounter-table
 name: Yithian

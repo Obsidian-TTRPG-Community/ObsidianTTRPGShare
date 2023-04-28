@@ -1,19 +1,21 @@
 ---
-alias: Teratoid Caress
+aliases: [Teratoid Caress]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Teratoid Caress 
+## Teratoid Caress
 
 **source**:: Pathfinder Comics \#10 pg. 27  
 **school**:: conjuration (calling) (chaotic, curse, evil)
 **level**:: cleric 3, oracle 3, warpriest 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: 1 living non-evil creature  
@@ -21,7 +23,7 @@ alias: Teratoid Caress
 **saving-throw**:: Fortitude partial
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 With a gentle caress, you infuse the creature touched with a blight of energy from the Abyss that feeds upon goodness and transforms flesh into monstrous deformity. The target can resist a *teratoid caress* with a successful Fortitude save, but even on a successful save, the target becomes sickened for 1 round by the vile energies.  
   

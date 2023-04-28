@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Breathless Orchid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 58
 desc_short: This colorful plant has long, thin leaves and three prominent, bright pink pistils that reach elegantly toward the sky.
 ```
-# Description
+## Description
 Breathless orchids are beautiful but predatory plants that feed off the oxygen present in the blood and lungs of breathing creatures. Sometimes, breathless orchids live atop other plants, slowly leeching the oxygen they produce. However, these plants prefer to accost air-breathing creatures, as they find such beings’ oxygen much more enriching, and thus the orchids absorb air from them far more quickly. These plants’ brilliant colors serve to lure unsuspecting creatures within striking distance, and also indicate how well the plants have recently fed. Breathless orchids that boast the brightest and most beautiful colors have surely gorged themselves recently on the dying gasps of several creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Breathless%20Orchid)
 ```encounter-table
 name: Breathless Orchid

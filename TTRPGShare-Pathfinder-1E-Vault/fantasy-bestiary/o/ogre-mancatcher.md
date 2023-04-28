@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogre Mancatcher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Monster Codex
     desc: 156
 ```
-# Description
+## Description
 Ogre mancatchers and gluttons are welcome at all campfires for their amazing wrestling ability, funny stories, delicious baby jam, and skill at catching tasty humans. When one visits, she is offered first pick of food and mates.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogre%20Mancatcher)
 ```encounter-table
 name: Ogre Mancatcher

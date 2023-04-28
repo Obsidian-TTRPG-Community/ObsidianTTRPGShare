@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bodythief
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 20
 desc_short: This immense plant has jaws inside its central flower and vines that thresh the air. Its ovular seedpods throb like beating hearts.
 ```
-# Description
+## Description
 Plants of frightfully advanced intellect, bodythieves cannot abide the irrationalities of other intelligent life, particularly emotions. They seek to create a world of perfect order by replacing other life forms with nearly perfect duplicates spawned by the bodythief itself. Indeed, these duplicates improve on the originals, as they can communicate telepathically with the bodythief, and they lack wasteful emotions. Individual bodythieves vary as to their specific plans for building a perfect society of duplicates. A common, though recognized, flaw in their plans is the infertility of their duplicates. To maintain a stable society, the bodythieves must capture creatures to replace the inevitable loss of healthy duplicates.
 
 Bodythieves are nearly immobile, though they can drag themselves along with their vines in extremis. When they must move large distances, they enlist the aid of their spawn.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bodythief)
 ```encounter-table
 name: Bodythief

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Modify Memory
+aliases: [Mythic Modify Memory]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Modify Memory
+## Mythic Modify Memory
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: bard 4, medium 4, mesmerist 4, psychic 5, skald 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round; see text  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Mythic Modify Memory
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You reach into the subject's mind and modify as many as 5 minutes of its memories in one of the following ways.
 

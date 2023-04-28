@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cernunnos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -102,7 +104,7 @@ sources:
     desc: 88
 desc_short: This tall, graceful person has elven features, the horns of a majestic stag and a piercing, ageless stare.
 ```
-# Description
+## Description
 Cernunnos is a powerful empyreal lord who embodies the primeval force of nature as well as its wildness. He surrounds himself with counselors and advisors from all of the celestial races. Although he rarely makes a rash decision, he occasionally lets anger overwhelm his better judgment, even going so far as to swear personal vendettas against specific demon lords or archdevils. A peerless archer and hunter, in such moments of vengeance Cernunnos is tempted to visit Hell or the Abyss to personally exact his revenge.
 
 His preference for decisive action against enemies puts Cernunnos at odds with Korada. Though Cernunnos agrees that even the wickedest souls can seek redemption, he worries that lives would be lost in the time it would take to allow a fiend to seek enlightenment.
@@ -114,7 +116,7 @@ On Elysium, Cernunnos dwells in an expansive palace constructed of interwoven tr
 When not in Elysium, Cernunnos works with other celestial races to stem the spread of evil throughout the cosmos. Recognizing that-despite his power-he is still only one person, the Horned Lord uses his abilities to strengthen and bolster those already allied against darkness, training marshals and emissaries to work as his agents in the mortal and fey worlds. He favors druids and rangers-archers in particular-among his devotees.
 
 In combat, Cernunnos uses stealth and range to draw enemies to terrain of his choosing. The Empyreal Lord then uses his magic to further shape the battlefield to hamper his foes before closing for melee.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cernunnos)
 ```encounter-table
 name: Cernunnos

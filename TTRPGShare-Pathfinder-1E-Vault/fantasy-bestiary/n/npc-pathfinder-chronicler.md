@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pathfinder Chronicler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 42
 ```
-# Description
+## Description
 Like many other Pathfinders, those who call themselves chroniclers explore the ancient and dangerous places of the world primarily to earn fame and renown for their discoveries. For a Pathfinder chronicler, quill and parchment are more crucial and valued than anything else carried on the road. After all, a weapon of choice, holy symbol, or lucky talisman won’t tell the tale of adventure and discovery, nor earn the Pathfinder a place in the illustrious pages of the Pathfinder Chronicles.
 
 Whether traveling alone on a mission or as part of a team of fellow field agents, Pathfinder chroniclers make a valuable addition to the Society, and have even been known to offer their services to non-Pathfinder adventurers should their paths cross and the chance for fame and exploration is ripe. In addition to crafting new tales of their own exploits, many Pathfinder chroniclers can serve as invaluable fonts of information, lost lore, and advice on how to get out of (and, if needed, into) a particularly sticky situation. Because their travels take them throughout the world, there are few places in the Inner Sea where one couldn’t happen upon a helpful Pathfinder chronicler.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pathfinder%20Chronicler)
 ```encounter-table
 name: NPC Pathfinder Chronicler

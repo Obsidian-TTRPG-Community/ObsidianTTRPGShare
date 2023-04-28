@@ -1,19 +1,21 @@
 ---
-alias: Heal Mount
+aliases: [Heal Mount]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Heal Mount 
+## Heal Mount
 
 **source**:: PRPG Core Rulebook pg. 294  
 **school**:: conjuration (healing)
 **level**:: paladin 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: your mount touched  
@@ -21,6 +23,6 @@ alias: Heal Mount
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *heal*, but it affects only the paladin's special mount (typically a horse).

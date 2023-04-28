@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adaptive Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 90
 desc_short: The color and texture of this massive, metallic ooze shift whenever it touches something.
 ```
-# Description
+## Description
 Adaptive oozes are composed of an amorphous substance that flows like liquid metal, but they can harden this form to a consistency resembling tempered steel. When adaptive oozes attack, they form pseudopods that strike out at targets and take on characteristics of weapons the oozes have recently been struck by. They can also assimilate different energies into their forms, becoming immune to them and even reproducing them for a limited time. Adaptive oozes can break down both organic and inorganic substances and incorporate those materials into their bodies to grow their mass. They are especially drawn to organic creatures that have more complex compositions. However, their digestive process is very slow, so they need to disable creatures that might fight back or attempt to flee. Adaptive oozes go through a cycle of accumulating mass until they split into two in order to propagate, after which the cycle begins anew. Adaptive oozes that have just split begin life with the young creature simple template. Adaptive oozes that are in resource-rich areas can accumulate mass very rapidly, gaining the giant creature simple template before they reach the end of their reproductive cycle. These huge adaptive oozes can split into more than two parts when they divide.
 
  Adaptive oozes can achieve a height of 8 feet, taking on an almost spherical form when stationary, and weigh about 2,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adaptive%20Ooze)
 ```encounter-table
 name: Adaptive Ooze

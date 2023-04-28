@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Winter Wolf
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 222
 desc_short: This giant wolf ’s fur is so white it’s almost blinding to behold.
 ```
-# Description
+## Description
 A mythic winter wolf is usually a leader among its kind. Many form alliances with frost giants or ice witches for mutual benefit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Winter%20Wolf)
 ```encounter-table
 name: Mythic Winter Wolf

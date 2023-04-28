@@ -1,25 +1,27 @@
 ---
-alias: Horrific Doubles
+aliases: [Horrific Doubles]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Horrific Doubles 
+## Horrific Doubles
 
 **source**:: Horror Adventures pg. 120  
 **school**:: illusion (figment)
 **level**:: arcanist 4, bard 4, bloodrager 4, medium 3, mesmerist 3, psychic 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 You create several illusory doubles of yourself, where you and each image all seem slightly off or wrong in appearance. Treat this spell as *mirror image*, except as noted.  
   

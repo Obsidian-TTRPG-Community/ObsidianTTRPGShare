@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deep Sea Serpent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 240
 desc_short: This enormous, water-dwelling serpent has bright, bulging eyes and rounded jaws filled with long, jagged teeth.
 ```
-# Description
+## Description
 An enormous monstrosity that makes its home in the darkest depths of the ocean’s trenches, the deep sea serpent is as elusive as it is terrifying, the nightmare of sailors making their ways over the vast and seemingly bottomless waters. A deep sea serpent is rarely seen unless it wishes to be seen, and the beast usually has its own mysterious reasons for occasionally coming to the surface. At other times, those reasons are gruesomely obvious-the deep sea serpent rises to the surface to crush ships and devour sailors who tumble from the freshly shattered hulls.
 
 It is thought that in incredibly remote parts of the underwater world, even more powerful deep sea serpents exist, beasts with supernatural luminous lures that can be used to blind foes, or with the ability to create overwhelming blasts of electricity that stun or even outright slay prey with a single stroke. Yet perhaps the most unnerving are the rumors of deep sea serpents that possess a remarkable intelligence. Such creatures, if they even exist, are rarely if ever seen near the surface-both their naturally elusive natures and the remote reality of their habitats mean that ensuring the veracity of these claims requires truly extraordinary efforts.
 
 A typical deep sea serpent measures 50 feet long and weighs 35,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deep%20Sea%20Serpent)
 ```encounter-table
 name: Deep Sea Serpent

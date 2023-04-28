@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Devilfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 80
 desc_short: This purple, seven-armed octopoid monstrosity is the size of a horse, with hook-lined tentacles and cold, blue eyes. 
 ```
-# Description
+## Description
 Although the devilfish superficially resembles a seven-armed octopus, it is an altogether different creature. Possessing a rudimentary intellect, a devilfish can understand and even speak a few words and phrases in various languages, although when it speaks, it has a tendency to mix languages together, making it somewhat difficult to understand for anyone who doesn’t speak all the languages known by the devilfish. 
 
 More than those of a mere animal, the devilfish’s intelligence and several of its abilities are gifts from a fiendish legacy-most sages believe that the original devilfish were once outsiders from the Abyss, and that over the course of thousands of years they became true natives of the Material Plane’s oceans. Rumors of far more intelligent devilfish dwelling in the deepest ocean trenches persist, although if these rumors are true, these deep-dwelling devilfish do not often come to the surface. 
 
 A devilfish is 10 feet long and weighs 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Devilfish)
 ```encounter-table
 name: Devilfish

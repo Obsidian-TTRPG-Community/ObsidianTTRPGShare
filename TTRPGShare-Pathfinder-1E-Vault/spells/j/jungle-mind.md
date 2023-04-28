@@ -1,19 +1,21 @@
 ---
-alias: Jungle Mind
+aliases: [Jungle Mind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Jungle Mind 
+## Jungle Mind
 
 **source**:: Faiths and Philosophies pg. 28  
 **school**:: divination (scrying)
 **level**:: druid 5, hunter 4, oracle 5, ranger 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Jungle Mind
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You merge your mind into the jungle’s social hierarchy, mystically establishing yourself as a master of wild beasts and an apex predator. You attain knowledge about the general animal population in a radius of 1 mile as *commune with nature*, and you then select one type of animal (such as birds, cats, snakes, or fish). For the duration of the spell, you can sense the location, movement, and size of creatures of this type in the area, though you can’t discern species or individual identity. In addition, you improve the starting attitude of animals of the chosen type by one step for the duration of the spell.  
   

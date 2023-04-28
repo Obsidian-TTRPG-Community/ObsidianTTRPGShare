@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Aspis Consortium Spy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 9
 ```
-# Description
+## Description
 Information confers advantage, and advantage confers profit. To maintain its advantage over competitors in trade and exploration, the Aspis Consortium makes use of spies cleverly placed in inf luential businesses, governments, and households. A given spy’s assignment may be a deepcover role lasting for years, or may last for just a few critical days or even hours. Some spies maintain only a single cover identity. Others make use of several in a single day.
 
 The paramount responsibility of Aspis Consortium spies is to escape notice, so they favor innocuous personas such as household servants. Aspis spies stay vigilant at all times for tidbits of valuable information, and what they can’t overhear, they steal. Information is typically passed on through coded drops at prearranged locations to maintain cover. Many spies go for months or years between meetings with their handlers.
 
 A secondary task for spies is sabotage. The right poison in a meal can leave the competition incapacitated on the eve of a momentous expedition, and critical items can be damaged or misplaced. Aspis Consortium spies also arrange for false information to fall into enemies’ hands, manipulating their rivals into expensive and timeconsuming errors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Aspis%20Consortium%20Spy)
 ```encounter-table
 name: NPC Aspis Consortium Spy

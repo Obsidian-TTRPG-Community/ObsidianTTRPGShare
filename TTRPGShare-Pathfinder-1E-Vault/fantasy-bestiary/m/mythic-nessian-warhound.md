@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Nessian Warhound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 203
 desc_short: This brawny hound is wreathed in flames, and its footsteps leave burning prints that sputter and smoke.
 ```
-# Description
+## Description
 A mythic hell hound is a prince among the wolves of Hell, feral but still subservient to the archdevils. Allowed to run wild, they are the original creatures from which the “tamer” common hell hounds were made.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Nessian%20Warhound)
 ```encounter-table
 name: Mythic Nessian Warhound

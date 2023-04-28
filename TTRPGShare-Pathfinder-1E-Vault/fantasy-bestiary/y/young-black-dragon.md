@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Black Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
     desc: 92
 desc_short: Hissing green acid drips from the fanged maw of this black-scaled, horned dragon.
 ```
-# Description
+## Description
 Lording over the darkest swamps and marshes, black dragons are the undisputed masters of their domain, ruling through cruelty and intimidation. Those who dwell within a black dragon’s reach live in fear. Black dragons tend to make their lairs in remote parts of the swamp, preferably in caves at the bottom of dark and fetid pools. Inside, they pile up their filthy treasure and sleep amid the roots and muck. Black dragons prefer their food a bit rotten and will often allow a meal to sit in a pool for days before consuming it. Black dragons prefer treasures that do not rot or decay, making their hoard, full of coins, gemstones, jewelry, and other objects made from stone or metal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Black%20Dragon)
 ```encounter-table
 name: Young Black Dragon

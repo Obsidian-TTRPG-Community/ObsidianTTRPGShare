@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Taotieh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 260
 desc_short: This white marble statue resembles a large feline, but its body and face are covered in decorative etchings and runes.
 ```
-# Description
+## Description
 Symbols of power but also of gluttony, taotiehs are guardian constructs formed of stone and built around a pocket of extradimensional space. Taotiehs are used to ward sacred or secluded areas from enemies and trespassers. Their semblance to tigers extends even to the animal’s abilities in combat, as taotiehs are feared for their vicious attacks. The extradimensional space at the core of a taotieh allows the construct to swallow opponents of its own size and then shunt its victims into an airless pocket of space inside. A creature capable of existing without air could well spend an eternity inside a taotieh if it couldn’t smash its way out or escape via plane-traversing magic, in which case it must wait for outside forces to slay its captor. Tales abound of great treasures and even greater dangers being unleashed upon a taotieh’s destruction.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Taotieh)
 ```encounter-table
 name: Taotieh

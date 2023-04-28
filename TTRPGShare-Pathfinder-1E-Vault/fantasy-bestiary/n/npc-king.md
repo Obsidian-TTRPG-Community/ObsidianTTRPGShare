@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC King
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,7 +45,7 @@ sources:
   - name: NPC Codex
     desc: 255
 ```
-# Description
+## Description
 Though once an even-tempered and capable ruler, the king tires of the responsibilities of the crown and reflects fondly on his days as a questing noble knight, free of court intrigue and stifling castle walls. Petitioners who bore or offend him risk arousing his anger, as do sycophants and hangers-on. He admires soldiers, knights, and adventurers, though he doesn’t tolerate disrespect of himself, his family, or his country.
 
 If the king has a suitable heir (and therefore can afford to take minor risks with his own life), he may sate his desire for fresh air and action by going on hunting trips, accompanied by a select group of nobles and trusted guards. Player characters who earn his goodwill may be invited to these outings, but should be wary of outshining the king’s skill at riding or hunting. The king giving unexpected attention to the PCs may anger other nobles and provide roleplaying and campaign plot opportunities.
@@ -51,7 +53,7 @@ If the king has a suitable heir (and therefore can afford to take minor risks wi
 Note that much of the king’s wealth is in the form of royal regalia, such as a crown and royal seal. These items are easily recognized as royal property and any non-noble caught with them is assumed to be a thief. The king also has access to other jewelry and clothing that belongs to the official regalia of his office (such as crown jewels), which may be worth thousands of gold pieces or more.
 
 The above stat block can also be used for a queen, adventuring prince or princess, or a (non-spellcaster) ruler of a powerful religious institution (especially in lands where it is customary for younger sons or daughters to become clergy).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=King)
 ```encounter-table
 name: NPC King

@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Jack-o'-Lantern"
 statblock: inline
-tags: monster
-name: Jack-o'-Lantern
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 160
 desc_short: A carved pumpkin sits atop a writhing mass of thick ropey vines. Sinister flames dance within its leering, crudely carved face.
 ```
-# Description
+## Description
 Jack-o’-lanterns are semi-intelligent plant creatures spawned by fell magic and driven to burn and consume living flesh. Though they are mobile, jacko’- lanterns prefer to remain in one spot until their food supplies run out. They typically lair within pumpkin patches, where they lie in wait and use their pumpkin form ability to ambush unsuspecting prey.
 
 Jack-o’-lanterns have been known to grow where the corpse of a powerful evil witch or wicked fey was buried, though this form of reproduction sometimes takes decades. Jack-o’-lanterns can also reproduce on their own. Immediately after killing and devouring an intelligent being, a jack-o’-lantern excretes its victim’s remains as a smoldering, paste-like slurry that quickly sinks into the ground. One day later, 1d3 fully mature-and ravenous-jacko’-lanterns emerge from the tainted soil.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Jack-o%27-Lantern)
 ```encounter-table
 name: Jack-o'-Lantern

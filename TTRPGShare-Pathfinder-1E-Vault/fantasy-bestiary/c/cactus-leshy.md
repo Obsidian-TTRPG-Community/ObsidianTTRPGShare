@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cactus Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 86
 desc_short: A prickly cactus’s arms are covered in vicious spines.
 ```
-# Description
+## Description
 Most cactus leshys prefer a quiet, slow-paced life under the hot desert sun, where they tend to other cacti and conserve their energy until the rains return. Their first response to visitors tromping around near them is often a terse warning, or even an insult. While they are initially surly and taciturn, cactus leshys may befriend travelers who show them respect and are willing to put up with their bitingly sarcastic sense of humor. These leshys are fiercely loyal allies, willing to drain away the vitality of their own bodies in order to protect and nourish allies who are less capable of surviving in the unforgiving desert.
 
 When rainfall comes to the desert, cactus leshys become active and cheerful. On these rare occasions, they welcome visitors and help travelers find places where the water is likely to linger. That is not to say that these creatures would prefer to live in a wetter climate-after a few weeks away from the desert, cactus leshys complain vociferously about how hard it is to stave off rot in mushy soil.
@@ -68,7 +70,7 @@ When rainfall comes to the desert, cactus leshys become active and cheerful. On 
 A variant cactus leshy called a pesh leshy, or peshy, thrives in the deserts of Katapesh, where cacti that produce the drug pesh (Pathfinder RPG GameMastery Guide 237) are a prized crop. These leshys’ fruit provides the effects of a dose of the drug instead of a goodberry spell. Peshys are more social than typical cactus leshys, and they work in harmony with farmers who tend their own small farms. Large commercial farms are more divisive, with some peshys supporting the proliferation of their charges and others seeing the industry as a perversion of their gift.
 
 The shapes of cactus leshys’ bodies are as varied as the shapes of cactus plants themselves, but they all have two or more branches that they can use to carry objects and to stab their enemies. A typical cactus leshy is between 2 and 3 feet tall and weighs up to 120 pounds when fully hydrated.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cactus%20Leshy)
 ```encounter-table
 name: Cactus Leshy

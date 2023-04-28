@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Royal Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 88
 desc_short: This snake-bodied creature has five necks, each with a regal, humanoid face in a cobralike hood.
 ```
-# Description
+## Description
 Regal and proud, royal nagas haunt lost cities and forgotten kingdoms, guarding ancient treasures for their own inscrutable reasons. A royal naga’s five faces are sharp and fierce, taking on a terrifying countenance when it becomes angered. Bespeaking their innate pride and vanity, royal nagas adorn their serpentine hoods and faces with elaborate and valuable piercings, crowns, or other precious accessories. Royal nagas are 18 feet long, and often weigh more than 750 pounds.
 
 Royal nagas tend to be stern in nature and commanding in speech. Although naturally sociable, they are distrustful of strangers and seem to have great difficulty speaking to other creatures as equals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Royal%20Naga)
 ```encounter-table
 name: Royal Naga

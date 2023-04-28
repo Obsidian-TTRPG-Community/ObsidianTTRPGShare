@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Formian Worker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 113
 desc_short: This small, centaurlike ant creature bears a huge, bulging sack on its armored back.
 ```
-# Description
+## Description
 These lowest-caste formians stand a little taller than a large dog, and their small mandibles are better equipped for slicing leaves and cutting fruit from the vine than carving into flesh. Regardless, many humanoids find the sight of these centaurlike ant creatures intimidating. Their iridescent chitin is nearly featureless, marked only by small scarring as they age and a series of markings on their chest. A few more accomplished formian workers bear small gems proudly glued to their carapace, tokens granted them by taskmasters for particularly impressive accomplishments.
 
 Formian workers are the backbone of the hive. They produce and harvest all food, perform all mining and tunneling, aid the taskmasters in the crafting of goods, and perform all other menial labor. Formian workers grow fast and learn quickly within the hive mind. Shortly after it leaves its larval stage, a formian is assigned to a senior worker who teaches it a trade, and by the end of the second year, a formian worker is a productive member of the hive. Workers live 20-30 years, and older workers are assigned lighter or more skilled work in order to give them capacity to train the young formian workers.
@@ -55,7 +57,7 @@ Formian workers are the backbone of the hive. They produce and harvest all food,
 Workers are hatched in large batches and given a clutch name, usually based on a well-regarded formian of the previous generation. Only when they leave their larval stage are workers given a unique number carved into their carapaces, which is used in place of an individual name. Workers parrot the taskmasters in many things; they denote accomplishments on their carapaces and even have duels (though duels among workers almost never involve death). Rarely, a particularly remarkable worker will be called out for special attention by their taskmaster, and these workers are presented to the queen and given a proper name of their own.
 
 Workers flee from combat unless they are ordered by a taskmaster or myrmarch to attack intruders. If a hive is invaded, formian workers might be used as diversions or to undermine or collapse tunnels on invading enemies. If forced into a direct fight, they usually spend most of their efforts assisting a warrior or myrmarch, though they make good use of mining picks or alchemist’s fire if they are cornered.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Formian%20Worker)
 ```encounter-table
 name: Formian Worker

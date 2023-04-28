@@ -1,19 +1,21 @@
 ---
-alias: Track Ship
+aliases: [Track Ship]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Track Ship 
+## Track Ship
 
 **source**:: Pirates of the Inner Sea pg. 29  
 **school**:: divination (scrying)
 **level**:: arcanist 2, bard 2, cleric 2, oracle 2, skald 2, sorcerer 2, warpriest 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (piece of ship)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **effect**:: magical icon  
@@ -21,7 +23,7 @@ alias: Track Ship
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 In order to cast this spell, you must have a piece of the ship you wish to track. Merchants often preserve slivers from their trade ships specifically for this purpose. You also need a nautical chart.  
   

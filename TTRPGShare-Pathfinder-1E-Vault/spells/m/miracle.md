@@ -1,19 +1,21 @@
 ---
-alias: Miracle
+aliases: [Miracle]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Miracle 
+## Miracle
 
 **source**:: PRPG Core Rulebook pg. 314  
 **school**:: evocation
 **level**:: cleric 9, oracle 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S; see text
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **Target, Effect, or Area** see text  
@@ -21,7 +23,7 @@ alias: Miracle
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You don't so much cast a *miracle* as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.  
   

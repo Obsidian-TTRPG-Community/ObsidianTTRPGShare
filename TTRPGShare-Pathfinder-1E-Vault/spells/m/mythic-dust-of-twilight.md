@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dust of Twilight
+aliases: [Mythic Dust of Twilight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dust of Twilight
+## Mythic Dust of Twilight
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: conjuration (darkness)
 **level**:: arcanist 2, bard 2, bloodrager 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (coal dust)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: creatures and objects in a 10-ft. spread  
@@ -21,7 +23,7 @@ alias: Mythic Dust of Twilight
 **saving-throw**:: Fortitude negates (fatigue only)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as *dispel magic*). Creatures in the area must make a Fortitude save or become fatigued.
 

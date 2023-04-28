@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hyena
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 179
 desc_short: This hyena is covered in shaggy, tan-colored fur with black and brown stripes.
 ```
-# Description
+## Description
 Hyenas are pack hunters infamous for their cunning and their unnerving, laughter-like vocalizations. They are largely scavengers, but aren’t above supplementing their diet of carrion with fresh prey.
 
 Hyenas tend to hunt alone, but when hunting as a pack they typically send one or two members against a foe’s front while the rest of the pack circles and attacks from behind.
 
 Many of the savage humanoid races, particularly gnolls, use hyenas as guard dogs. Such hyenas typically wear leather barding and are trained from birth to be vicious and savage-many such creatures are advanced hyenas.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hyena)
 ```encounter-table
 name: Hyena

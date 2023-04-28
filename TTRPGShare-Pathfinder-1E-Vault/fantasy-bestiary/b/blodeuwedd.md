@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blodeuwedd
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 80
 desc_short: Clothed in verdant lichen and flowers of broom, meadowsweet, and oak, this shapely maiden has skin of velvety moss and living grass for hair. An eldritch serenity graces her countenance as she approaches, her outstretched, root-like hands brushing the tips of the tallest grass-the wind itself whispers around her feet as patches of clover, heather, and milkweed mark her every step.
 ```
-# Description
+## Description
 The mysterious blodeuwedds stand apart from dryads, their tree-bound sisters of the forest, instead watching over the open plains and prairies. They frequently guard the approaches to primeval, fey enclaves as well as various gateways and entry points into the First World-a task they take very seriously. Blodeuwedds hide such regions behind veils of illusion and trickery, quietly observing anyone passing through their lands, and occasionally sending mysterious messages to warn them away or to summon allies that can drive them out. Even when not standing sentinel over a point of otherworldly importance, blodeuwedds find spots of particular natural beauty, transforming such fields-usually only a few acres in size-into sites of unearthly lushness and natural wonder. A typical blodeuwedd stands a little over 5 feet tall, weighs 120 pounds, and may live up to 800 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blodeuwedd)
 ```encounter-table
 name: Blodeuwedd

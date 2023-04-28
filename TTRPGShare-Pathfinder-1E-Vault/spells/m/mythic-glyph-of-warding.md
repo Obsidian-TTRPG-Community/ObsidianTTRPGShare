@@ -1,19 +1,21 @@
 ---
-alias: Mythic Glyph of Warding
+aliases: [Mythic Glyph of Warding]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Glyph of Warding
+## Mythic Glyph of Warding
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: abjuration
 **level**:: cleric 3, inquisitor 3, oracle 3, warpriest 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (powdered diamond worth 200 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **Target or Area** object touched or up to 5 sq. ft./level  
@@ -21,7 +23,7 @@ alias: Mythic Glyph of Warding
 **saving-throw**:: see text
 **spell-resistance**:: no (object) and yes; see text
 
-### Description 
+### Description
 
 This powerful inscription harms those who enter, pass, or open the warded area or object. A *glyph of warding* can guard a bridge or passage, ward a portal, trap a chest or box, and so on.  
 You set all of the conditions of the ward. Typically, any creature entering the warded area or opening the warded object without speaking a password (which you set when casting the spell) is subject to the magic it stores. Alternatively or in addition to a password trigger, glyphs can be set according to physical characteristics (such as height or weight) or creature type, subtype, or kind. Glyphs can also be set with respect to good, evil, law, or chaos, or to pass those of your religion. They cannot be set according to class, HD, or level. Glyphs respond to invisible creatures normally but are not triggered by those who travel past them ethereally. Multiple glyphs cannot be cast on the same area. However, if a cabinet has three different drawers, each can be separately warded.  

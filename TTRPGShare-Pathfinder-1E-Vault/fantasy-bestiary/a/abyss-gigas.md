@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abyss Gigas
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 27
 desc_short: This ebon-skinned monstrosity has a gaping maw with  boar-like tusks and a wide nose beneath a furrowed brow that lacks any sort of eyes or visible visual organs. Its corded muscles twist and writhe beneath its smooth, hairless jet hide, giving its frame a gnarled, unbalanced asymmetry. It moves with a loping gait, however, and wears its armor, composed of thick, welded plates, effortlessly.
 ```
-# Description
+## Description
 Spawned from titans who took refuge in the rifts of the Abyss, the Abyss gigas roam the wastes between the once-mighty titan fortresses. These powerful beings do not typically dwell among their own kind, preferring instead to enslave lesser beings-demons and captured planar travelers-and rule over them as despotic tyrants. Many Abyss gigas serve more powerful demon lords in turn.
 
 When more than one of the thankfully rare Abyss gigas live near each other, they exist in a state of perpetual warfare, sending forth wave after wave of their minions in battle. In these situations, only rarely do the gigas masters ever face each other and come to blows, and even then never to the death, as they are aware of the fragile existence of their nearly extinct race. When facing other opponents, however, an Abyss gigas is a fearsome foe, battling to the death to prove the superiority of its ancient line.
@@ -70,7 +72,7 @@ When more than one of the thankfully rare Abyss gigas live near each other, they
 When encountered on the Material Plane, Abyss gigas are fond of taking control of companies of giants and compelling them to do their bidding, feeling at once both a distant kinship and a sense of domineering superiority. Frost giant cults of Kostchtchie are frequent recipients of this sort of attention.
 
 Abyss gigas stand over 50 feet tall and weigh 25 tons or more, not including the weight of their Abyss-forged armor and weapons of adamantine. Abyss gigas usually favor the weapons of their demonic patrons. For example, followers of Kostchtchie often wield giant warhammers in both hands, servants of Lamashtu carry falchions, and those serving Urxehl use spiked greatclubs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abyss%20Gigas)
 ```encounter-table
 name: Abyss Gigas

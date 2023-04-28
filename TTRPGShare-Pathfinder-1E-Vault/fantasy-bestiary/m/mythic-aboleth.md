@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Aboleth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 178
 desc_short: A foul mist surrounds this huge, three-eyed, tentacled fish creature, and plates of hardened slime guard its body.
 ```
-# Description
+## Description
 A mythic aboleth has exceptional magic, usually gained by staying alive long enough to see some of its dark experiments through to fruition. Brooding and brilliant, it seeks to conquer the dry lands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Aboleth)
 ```encounter-table
 name: Mythic Aboleth

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psoglav
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 215
 desc_short: This one-eyed, wolf-headed creature walks upright on two hoofed feet. It bares metal fangs while a thin, ratlike tail twitches behind it.
 ```
-# Description
+## Description
 Horrific, ravenous creatures that dwell underground but are all too eager to venture forth to the world above, psoglavs terrorize the living and desecrate the dead, all to sate their hunger for flesh. The creatures are a horrible amalgam of different animal and humanoid parts-a one-eyed wolf ’s head with teeth made of iron, a human’s torso with vicious, clawed hands, and elongated horselike legs upon which it walks upright. 
 
 These foul monsters have the fearsome reputation for annihilating small villages and clearing out graveyards as they hunt for food. Though they feed on any humanoids they can find, they prefer to hunt humans, whose flesh grants them a dark boon when they eat it. Victims of a psoglav attack may survive the ordeal, but they can suffer the effects of the creature’s cursed bite for months or even years. 
@@ -62,7 +64,7 @@ These foul monsters have the fearsome reputation for annihilating small villages
 Psoglavs prefer to make their lairs in the upper reaches of deep caverns near trade routes or clusters of villages to ensure a steady supply of victims. They prefer lairing in caverns that hold large numbers of gemstones. Whether they are actually attracted to the gems or simply use such treasures as bait is unclear, but psoglavs often collect gems and jewelry from the bodies they dig up, so their lairs may house a great deal of wealth. Some psoglavs even carry valuable trinkets with them; magical rings and jewelry are popular prizes for these creatures, even when the monsters don’t fully comprehend the use of the items in question. 
 
 A typical psoglav stands 6 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psoglav)
 ```encounter-table
 name: Psoglav

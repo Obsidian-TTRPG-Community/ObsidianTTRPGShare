@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Roiling Oil
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 210
 desc_short: This viscous heap slides like an inky spill. It’s the color of a starless night sky, and a thick odor permeates the air around it.
 ```
-# Description
+## Description
 A magical compound of pitch and alchemist’s fire, roiling oil is a volatile and dangerous ooze. It hunts in subterranean tunnels and even city sewer systems and waterways for animal and vegetable material to consume. Thick, viscous, and resembling a glistening spread of black wax, roiling oil moves slowly across f lat surfaces and up walls to find prey it can batter with its greasy pseudopods. When a patch of roiling oil attacks, the process of stretching and shifting its form to strike exposes portions of its interior mass to oxygen. This interaction creates a pungent odor of oil and rancid fat. A roiling oil’s strikes slather its targets in an equally malodorous film capable of overwhelming victims with nausea. A roiling oil prefers to fully coat its prey in this substance before it kills and devours them. Even more dangerous, however, is the fact that creatures attempting to burn away a roiling oil only make it more lethal. Even the smallest spark or f lame can turn this voracious ooze into a moving inferno against which only cold or strong wind act as any protection. The ooze itself feels no pain from the f lames and isn’t impeded by them, but such attempts can result in burns to everyone and everything else in the area.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Roiling%20Oil)
 ```encounter-table
 name: Roiling Oil

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mustelidal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 84
 desc_short: The head of this muscular, furry humanoid figure is that of an angry badger; it looks ready to strike at a moment’s notice.
 ```
-# Description
+## Description
 Tenacious warriors, mustelidals are the protectors of the good and neutral burrowing creatures of the universe, fending off such evil underground threats as neothelids, purple worms, and shaitans. These agathions are difficult to kill and see defeat in battle as little more than an annoying roadblock delaying their eventual victory.
 
 Mustelidals look like humanoid badgers with black fur and a white stripe running from the crowns of their heads all the way down their backs. They often wear open yet loose-fitting clothing that shows off their toned physiques and allows them more freedom of movement in battle. They prefer to dress in deep, rich browns accented with warm colors, such as yellows and oranges. An average mustelidal stands 5-1/2 feet tall and weighs 180 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mustelidal)
 ```encounter-table
 name: Mustelidal

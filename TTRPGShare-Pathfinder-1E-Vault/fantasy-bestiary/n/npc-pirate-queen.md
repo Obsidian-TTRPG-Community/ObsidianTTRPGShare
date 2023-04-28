@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pirate Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 133
 ```
-# Description
+## Description
 The pirate queen is a deadly foe, whether she’s encountered in a scummy port town or out on the high seas, flying the black flag. She keeps a full crew of unruly, vicious buccaneers in line, and rewards them with the treasure and carnage they crave.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pirate%20Queen)
 ```encounter-table
 name: NPC Pirate Queen

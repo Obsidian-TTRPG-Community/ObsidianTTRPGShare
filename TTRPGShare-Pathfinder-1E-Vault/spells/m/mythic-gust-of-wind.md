@@ -1,19 +1,21 @@
 ---
-alias: Mythic Gust of Wind
+aliases: [Mythic Gust of Wind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Gust of Wind
+## Mythic Gust of Wind
 
 **source**:: Mythic Adventures pg. 97  
 **school**:: evocation (air)
 **level**:: arcanist 2, bloodrager 2, druid 2, hunter 2, magus 2, occultist 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **effect**:: line-shaped gust of severe wind emanating out from you to the extreme of the range  
@@ -21,7 +23,7 @@ alias: Mythic Gust of Wind
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates a severe blast of air (approximately 50 mph) that originates from you, affecting all creatures in its path. All flying creatures in this area take a -4 penalty on Fly skill checks. Tiny or smaller flying creatures must make a DC 25 Fly skill check or be blown back 2d6 × 10 feet and take 2d6 points of damage. Small or smaller flying creatures must make a DC 20 Fly skill check to move against the force of the wind.  
   

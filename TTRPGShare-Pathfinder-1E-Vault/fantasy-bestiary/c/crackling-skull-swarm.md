@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crackling Skull Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 90
 desc_short: This mass of floating skulls lingers in the air with a haunting presence. A constant clattering emanates from the dreadful mass.
 ```
-# Description
+## Description
 Clacking skulls are a unique type of beheadedB4 that constantly chatter. This incessant noise can cause other skulls to rise as clacking skulls.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crackling%20Skull%20Swarm)
 ```encounter-table
 name: Crackling Skull Swarm

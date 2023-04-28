@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Furious Crusader
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
   - name: NPC Codex
     desc: 125
 ```
-# Description
+## Description
 The furious crusader is a compact bundle of holy power with a chip on his shoulder.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Furious%20Crusader)
 ```encounter-table
 name: NPC Furious Crusader

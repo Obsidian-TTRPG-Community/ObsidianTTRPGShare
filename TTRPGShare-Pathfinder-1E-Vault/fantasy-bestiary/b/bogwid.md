@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bogwid
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 84
 desc_short: This nightmare shambles along the ground on eight muscular tentacles that leave behind a clear viscous residue stinking of putrefaction. Its amphibian skin is moist, green-black, and covered in warts and protuberances. On its back, dozens of fistsized pustules shift and pulsate with nauseating vitality, like sentient oily bubbles threatening to burst.
 ```
-# Description
+## Description
 Aberrant beasts of ancient origin, bogwids are loathsome, skulking predators that inhabit the gloomy swamps and damp subterranean places of the world. Looking like a bloated, eight-limbed, greenish-black mix of frog and tentacled beast, this asexual creature is most notorious for the larvae it carries on its back.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bogwid)
 ```encounter-table
 name: Bogwid

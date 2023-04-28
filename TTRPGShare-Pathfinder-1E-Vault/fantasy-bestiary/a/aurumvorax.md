@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aurumvorax
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 35
 desc_short: Powerful muscles ripple beneath the golden fur of this small yet fearsome eight-legged beast. 
 ```
-# Description
+## Description
 Aurumvoraxes are very aggressive creatures, and lead solitary lives except when they mate. Adults typically claim the hunting area within a mile of their warrens, ruthlessly driving away other predators. In addition to fresh meat, aurumvoraxes are fond of gnawing on metals (particularly gold and copper), though whether they do this to sharpen their teeth or because of some nutritional need is unknown. Aurumvorax warrens can stretch for thousands of feet, often winding deep into the earth. The avaricious appetite of aurumvoraxes has earned them the appellation "golden gorger" among dwarves, who have lost more than a few miners to the dangerous beasts. 
 
 In battle, an aurumvorax latches onto its victim with its jaws and gouges savage wounds with its claws. It rarely looses its grip before it or its foe is dead. It typically attacks the nearest living creature regardless of size, and ignores any wounds it suffers at the hands of others until its prey is dead. 
@@ -57,7 +59,7 @@ A typical aurumvorax is only 3 feet long but weighs more than 200 pounds, for it
 Adult aurumvoraxes are impossible to train, but their offspring are valued for training as guard beasts. A healthy aurumvorax kit can be sold for 5,000 gp or more to a discerning buyer. Female aurumvoraxes rarely give birth to more than one offspring at a time, and are ferociously protective of their young. 
 
 An aurumvorax drags its prey back to its lair to consume at its leisure, and its bone-midden often contains valuable belongings from past kills. Uneaten precious metals, discarded gems, and well-chewed metal items can also be found in its warrens. Despite its metallic coloration, an aurumvorax is not vulnerable to attacks that target metal, such as heat metal or the touch of a rust monster-in fact, aurumvoraxes easily kill and eat rust monsters, and some dwarf clans use aurumvorax pets to protect their storehouses against them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aurumvorax)
 ```encounter-table
 name: Aurumvorax

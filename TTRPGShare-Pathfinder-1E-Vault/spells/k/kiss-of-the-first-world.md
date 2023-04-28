@@ -1,19 +1,21 @@
 ---
-alias: Kiss of the First World
+aliases: [Kiss of the First World]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Kiss of the First World 
+## Kiss of the First World
 
 **source**:: Inner Sea Magic pg. 58  
 **school**:: transmutation
 **level**:: bard 4, druid 4, hunter 4, skald 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (diamond dust worth 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: living or undead creature touched  
@@ -21,7 +23,7 @@ alias: Kiss of the First World
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell-a favorite of fey spellcasters-is traditionally bestowed with a kiss, though all that’s really required to gift someone with a *kiss of the First World* is a touch. This spell infuses a living creature with a surge of positive energy from the First World, filling the target with the raw energies of life. The exact effects of this spell vary, depending on the nature of the creature touched. Constructs are immune to the effects of this spell.  
   

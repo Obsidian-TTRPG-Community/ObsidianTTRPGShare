@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggard Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: Monster Codex
     desc: 10
 ```
-# Description
+## Description
 Most boggard champions forsake tactics in favor of mayhem. In magic-deficient tribes, champions are often second only to priest-kings in status.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggard%20Champion)
 ```encounter-table
 name: Boggard Champion

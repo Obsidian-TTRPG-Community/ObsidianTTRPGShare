@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Giant Slayer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 17
 ```
-# Description
+## Description
 Giant slayers seek out giants and cut them down. Raging with enmity for their prey, they allow no other creatures to get between them and their hated foes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Giant%20Slayer)
 ```encounter-table
 name: NPC Giant Slayer

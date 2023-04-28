@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ravener
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 78
 desc_short: The ground quakes as a colossal, elephantine beast of rocky, armored plates presses forward. Elaborate horns crown its head, and multiple rock-encrusted tusks jut from its toothy maw. With a bellowing roar, the creature shakes its massive head in challenge, then paws the ground and charges.
 ```
-# Description
+## Description
 Ravener behemoths walk the land as the ultimate consumers of all things. This includes every manner of beast, plant, and mineral caught in their path. They indiscriminately fill their five ever-hungry stomachs by cutting wide swaths through tangled jungles, digging through mountains for precious ores, and razing settlements and strongholds to get at those sheltering inside. Sometimes they even ply shallow coastal waters, capsizing ships to feast upon their crews and any other predators drawn by the smell of blood in the water.
 
 Monstrously massive, a ravener behemoth stands nearly 60 feet tall on four thick, trunk-like legs and measures up to 80 feet long. Multiple horns and tusks sprout from its face and head, helping it root through even the hardest soil and rocks in search of food. It quickly reduces anything stronger into rubble with its earth-shattering roar and stomping feet. A rocky hide grown from the many minerals it routinely consumes protects it from harm even as lichen, small plants, and trees take root along its back, out of reach of its ravenous mouth. Divine blessings bequeathed by the gods ensure only the most powerful spells or adamantine weapons can lay a behemoth low. As a result, the ravener behemoth fears nothing and eats everything.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ravener)
 ```encounter-table
 name: Ravener

@@ -1,19 +1,21 @@
 ---
-alias: Absorbing Inhalation
+aliases: [Absorbing Inhalation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Absorbing Inhalation 
+## Absorbing Inhalation
 
 **source**:: Advanced Race Guide pg. 160  
 **school**:: transmutation (air)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, druid 4, hunter 4, investigator 4, redmantisassassin 4, sahirafiyun 4, sorcerer 4, wizard 4 (sylph)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one cloud-like effect, up to one 10-ft. cube/level  
@@ -21,7 +23,7 @@ alias: Absorbing Inhalation
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas, fog, smoke, mist, or similar cloud-like effect. If the targeted cloud is a magical effect, you must succeed at a caster level check (DC 11 + the effect’s caster level) to inhale it. Inhaling the cloud removes it from the area, leaving normal air in its place. If the cloud is too large for you to affect with a single casting of this spell, you may instead inhale a portion of the cloud, but you must inhale the portion of the cloud closest to you. This spell has no effect on gaseous creatures. It can only affect an instantaneous-duration cloud (such as a breath weapon) if you ready an action to cast the spell in response.  
   

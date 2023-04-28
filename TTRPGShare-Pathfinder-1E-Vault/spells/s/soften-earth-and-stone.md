@@ -1,19 +1,21 @@
 ---
-alias: Soften Earth and Stone
+aliases: [Soften Earth and Stone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Soften Earth and Stone 
+## Soften Earth and Stone
 
 **source**:: PRPG Core Rulebook pg. 345  
 **school**:: transmutation (earth)
 **level**:: druid 2, hunter 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: 10-ft. square/level; see text  
@@ -21,7 +23,7 @@ alias: Soften Earth and Stone
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 When this spell is cast, all natural, undressed earth or stone in the spell's area is softened. Wet earth becomes thick mud, dry earth becomes loose sand or dirt, and stone becomes soft clay that is easily molded or chopped. You affect a 10-foot square area to a depth of 1 to 4 feet, depending on the toughness or resilience of the ground at that spot. Magical, enchanted, dressed, or worked stone cannot be affected. Earth or stone creatures are not affected.  
   

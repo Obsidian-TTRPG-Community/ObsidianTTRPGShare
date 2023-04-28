@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warped One
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
     desc: 62
 desc_short: This insane, twisted, humanoid-shaped tangle of limbs and gnashing teeth thrashes and howls, all too eager to wreak havoc. 
 ```
-# Description
+## Description
 Demons form from the interaction of sinful human souls upon the fecundity of the Abyss itself, but this is not the only way the demonic plane creates life. In certain parts of this blasphemous realm, non-sinful souls or even living humanoids can be overwhelmed and transformed into demon-like creatures. So powerful are the energies corrupting and warping these humanoids that chaotic force continues to leak from their creations and continuously affect the creatures’ flesh-forever twisting and mutating them in endless agony. These poor victims have been transformed into warped ones. 
 
 No two warped ones look exactly alike, although they all share certain common features. They always appear as two to four demonic humanoids awkwardly fused together into a single human-sized monstrosity. While they can have several limbs, they always have four that sport particularly sharp talons. Once a warped one enters combat, the excitement of imminent bloodshed (both that of its victims and of itself ) causes the entropic energies within it to change and mutate. A fight against a warped one is a harrowing experience, for not only do the warped one’s physical traits change continuously, these mutations affect and cripple those nearby in devastating ways. 
 
 As using a warped one in combat adds lots of additional dice rolls to encounters, you may want to “synchronize” their fleshwarping and warp-field abilities when using multiple warped ones in battles, so each round they all exhibit the same trait and their warp fields all have the same effect. A warped one is 7 feet tall and weighs 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warped%20One)
 ```encounter-table
 name: Warped One

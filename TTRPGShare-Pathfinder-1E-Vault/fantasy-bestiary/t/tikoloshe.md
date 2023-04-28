@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tikoloshe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 88
 desc_short: The water churns and splashes as a small, stocky humanoid surges forth, gnashing rows of needle-like teeth, its eye sockets merely deep gouges. As if it were one with the water itself, it darts quickly forward, shouting curses and swinging its fists.
 ```
-# Description
+## Description
 Cruel and spiteful, tikoloshe (singular and plural) are small undead that haunt tropical waterways and jungles, preying on travelers and villagers alike with their magical abilities and appetite for harm. Tikoloshe stand no higher than a gnome or a human child, but their bodies are dense and muscular; many have large potbellies and arms long enough for their knuckles to score the dirt as they walk. Their creation leaves them with blackened, eyeless sockets, but tikoloshe can “see” using their giant, bat-like ears. Their skin is smooth and shines whether wet or dry. Tikoloshe are genderless; they stand about 4 feet tall and weigh almost 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tikoloshe)
 ```encounter-table
 name: Tikoloshe

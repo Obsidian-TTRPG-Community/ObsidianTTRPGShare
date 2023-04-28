@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Prophet of Baphomet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 45
 desc_short: This white-maned minotaur’s gilt-edged robes project elegance and terror in equal measure. The cloud of heady incense about her form doesn’t conceal the distinct scent of brimstone.
 ```
-# Description
+## Description
 Just as minotaurs believe they’re direct descendants of Baphomet, minotaur prophets consider themselves his ideal mortal servitors. Prophets favor cunning gambits and manipulation over direct confrontation, and toy with captives and even their own cultists. Prophets also honor the Lord of the Labyrinth’s more bestial interests; worshipers and enemies alike often fall victim to a prophet’s monstrous appetite for flesh.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Prophet%20of%20Baphomet)
 ```encounter-table
 name: Prophet of Baphomet

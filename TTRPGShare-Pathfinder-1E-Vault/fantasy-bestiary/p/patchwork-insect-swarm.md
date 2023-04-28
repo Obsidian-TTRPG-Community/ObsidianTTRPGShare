@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Patchwork Insect Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 86
 desc_short: This collection of insects is composed of a variety of centipedes, beetles, and other bugs, each of which bears humanoid arms, legs, eyes, or even faces.
 ```
-# Description
+## Description
 These grotesque creatures appear in a variety of forms, usually taking the general shape of an insect or other vermin, but with hideous and disconcerting limbs. Most common are humanoid arms and legs in place of the usual limbs, but some of these disgusting creatures have human eyes, ears, or entire heads or faces. Elven ears or dwarven beards appear occasionally, though they are not nearly as common as human traits. There are even tales of goblin-headed beetles roving the Chitterwood of southern Isger in vast packs, singing insane songs as they devour their prey.
 
 Scholars who have had an opportunity to study these creatures up close speculate that they are actually created by some strange form of fungus or parasite that grows a humanlike skin over the existing chitin of the vermin involved. The incredible coincidence of the resemblance to human forms makes the influence of occult magic a strong possibility, but there is no record of the history of these monstrous creatures that might reveal the truth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Patchwork%20Insect%20Swarm)
 ```encounter-table
 name: Patchwork Insect Swarm

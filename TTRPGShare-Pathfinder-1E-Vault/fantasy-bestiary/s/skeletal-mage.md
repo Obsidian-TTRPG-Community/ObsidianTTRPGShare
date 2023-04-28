@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skeletal Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: Pathfinder No. 44: Trial of the Beast
     desc: 86
 ```
-# Description
+## Description
 Skeletal mages are minor spellcasters (typically 5th-level or less) who have retained both their intelligence and their spellcasting abilities. These variant skeletal champions gain Silent Spell as a bonus feat. Like skeletal champions, skeletal mages cannot be created with animate dead-they only arise under rare conditions or through ancient, esoteric rituals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skeletal%20Mage)
 ```encounter-table
 name: Skeletal Mage

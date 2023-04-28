@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sinspawn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 90
 desc_short: This hairless humanoid lurches on back-bent, dog-like legs, its hideous mouth flanked by tiny arms with three-fingered hands.
 ```
-# Description
+## Description
 Sinspawn are corrupted products of magic used by spellcasters in a past era as shock troops for their armies. Literally the embodiment of a sin made flesh, they are sentient abominations of distilled ectoplasm imprinted with the soul-image of slain creatures that possessed an abundance of a particular sin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sinspawn)
 ```encounter-table
 name: Sinspawn

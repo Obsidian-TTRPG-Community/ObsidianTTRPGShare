@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Mature Adult Blue Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
   - name: Mythic Adventures
     desc: 188
 ```
-# Description
+## Description
 A mythic blue dragon has powers over weaker minds, allowing it to influence events far from its lair. Its magic also influences sand and dust, giving it mastery over the aspects of its desert home.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Mature%20Adult%20Blue%20Dragon)
 ```encounter-table
 name: Mythic Mature Adult Blue Dragon

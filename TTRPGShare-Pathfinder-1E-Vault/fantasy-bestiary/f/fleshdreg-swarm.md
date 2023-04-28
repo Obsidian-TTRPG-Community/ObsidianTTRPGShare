@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fleshdreg Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 83
 desc_short: Hundreds of wads of squirming flesh with flailing appendages move together in a cluster of teeth and claws.
 ```
-# Description
+## Description
 Fleshdreg swarms form from scraps and leftovers of malformed fleshdregs and incomplete sinspawn. These foul, misshapen creatures pour out of runewells by the hundreds, seeking sinful flesh to destroy. Little more than pests, these swarms attack indiscriminately. Some malfunctioning runewells and other fleshvats produce nothing more these days than swarm upon swarm of these pests.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fleshdreg%20Swarm)
 ```encounter-table
 name: Fleshdreg Swarm

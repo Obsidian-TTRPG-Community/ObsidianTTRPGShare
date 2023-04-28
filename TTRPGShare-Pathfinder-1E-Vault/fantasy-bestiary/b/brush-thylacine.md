@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brush Thylacine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 86
 desc_short: This odd creature is about the size of a dog, but it has the slender build of a cat, heavy whiskers, and dark stripes down its back. Its long tail flips about, smacking the ground as it scans the woods. It yips and bays in a complex pattern, offering warning to anything that may cross its path.
 ```
-# Description
+## Description
 Thylacines are large marsupial carnivores. They typically hunt alone, only occasionally forming small packs. Thylacines hunt at night, and rest during the day in nests hidden away from the world in hollowed trees or bushes. Farmers fear the creatures, blaming all manner of problems on them. However, thylacines are quite shy and antisocial, and usually avoid human settlements. Because of their odd, almost hybrid appearance, thylacines have a far harsher reputation than they probably should, playing a sort of bogeyman role in farming communities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brush%20Thylacine)
 ```encounter-table
 name: Brush Thylacine

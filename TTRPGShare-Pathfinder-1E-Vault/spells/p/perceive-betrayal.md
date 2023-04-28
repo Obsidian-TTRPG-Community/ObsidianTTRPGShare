@@ -1,25 +1,27 @@
 ---
-alias: Perceive Betrayal
+aliases: [Perceive Betrayal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Perceive Betrayal 
+## Perceive Betrayal
 
 **source**:: Heroes of the High Court pg. 25  
 **school**:: divination
 **level**:: arcanist 7, cleric 6, inquisitor 4, oracle 6, sorcerer 7, warpriest 6, witch 6, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (12 drops of blood), F (a silver circlet worth 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level
 
-### Description 
+### Description
 
 By donning a silver circlet anointed with blood, you gain the ability to sense traitorous intent toward a single person to whom you defer, designated when you cast the spell. The spell alerts you when a creature with traitorous intent is within 200 feet, although it doesn’t identify the source. By concentrating, you can learn the strength of the greatest threat, based on the following categories.  
   

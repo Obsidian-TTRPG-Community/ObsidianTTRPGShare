@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cetus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 54
 desc_short: This enormous scaled serpent has the head of a shark, powerful claws, and a maw wide enough to swallow a small ship.
 ```
-# Description
+## Description
 Masters of the oceans, the enigmatic cetuses are mighty but slow-witted dragons who demand tribute of any who would dare enter their domain. A cetus’s length and weight are immense, their dizzying coils proving almost impossible to count. Sailors have long told tales of these great creatures, noting that they are almost unstoppable unless they can be turned to stone and left to sink into the ocean depths.
 
 Cetuses prefer to fight their enemies on or under the water, but can leap unexpectedly high to attack foes who dare to take to the air.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cetus)
 ```encounter-table
 name: Cetus

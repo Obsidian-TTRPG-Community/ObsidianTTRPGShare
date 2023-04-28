@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pixie Circle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 90
 desc_short: Heart-shaped leaves and drooping clusters of purple and pink flowers emitting a faint scent of honey and fruit drape over the bone-white trees of a dead grove buried under heavy vines.
 ```
-# Description
+## Description
 The pixie circle is an aggressive invasive species that opportunistically drains energy from nearby plant and animal life to fuel its teleporting abilities. It uses these abilities to remove potential threats from its habitat, typically teleporting creatures away when it is threatened or hurt. These sturdy vines are resistant to heat, cold, and drought conditions, and an infestation is notoriously difficult to root out once it has taken hold. A mature pixie circle measures 20 feet in diameter and is always in flower regardless of the season.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pixie%20Circle)
 ```encounter-table
 name: Pixie Circle

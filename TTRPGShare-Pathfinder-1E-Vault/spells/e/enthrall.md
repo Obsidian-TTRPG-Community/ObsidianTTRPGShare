@@ -1,19 +1,21 @@
 ---
-alias: Enthrall
+aliases: [Enthrall]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Enthrall 
+## Enthrall
 
 **source**:: PRPG Core Rulebook pg. 278  
 **school**:: enchantment (charm) (language-dependent, mind-affecting, sonic)
 **level**:: bard 2, cleric 2, inquisitor 2, mesmerist 2, oracle 2, psychic 2, shaman 2, skald 2, warpriest 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: any number of creatures  
@@ -21,7 +23,7 @@ alias: Enthrall
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 If you have the attention of a group of creatures, you can use this spell to hold them enthralled. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw.  
   

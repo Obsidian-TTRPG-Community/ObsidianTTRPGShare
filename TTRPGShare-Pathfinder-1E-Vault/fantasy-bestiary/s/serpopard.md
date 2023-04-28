@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Serpopard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 86
 desc_short: The muscles beneath the spotted fur of this sleek feline tense, poised to pounce. Its long, sinuous neck stretches over twice the length of its body, ending in a snarling leopard’s head.
 ```
-# Description
+## Description
 Avistani naturalists named this creature serpopard because they saw it as possessing features of both a leopard and a serpent, though this creature is also widely known by its Osiriani name sedja, meaning “one who travels from afar.” Serpopards earn this appellation because of their supernatural ability to leap from one dune to another, an ability they call “stepping between the dunes.”
 
 Some scholars speculate that the pharaohs of old bred this ability into the serpopards in order to create scouts and messengers able to cross the harsh terrain of their vast empires quickly and efficiently, but this creature is not one that has been created or influenced by humankind. Though rare, serpopards are naturally occurring beasts native to the deserts of northern Garund. Superstitious folk who believe that the gods’ hands touch everything beneath the blistering Osirian sun see the serpopard as a cursed creature, marked with snakelike features by Apep and forced to wander eternally through the desert, never to find rest or sanctuary. On the other hand, carvings on ceremonial plates, on uncovered artifacts, and in ruined temples make it clear that the god-kings of Ancient Osirion once kept serpopards as pets or servants, as depictions of these creatures in the oldest of Osirion’s ruins often show them chained or collared, bowing obediently to human masters.
 
 Serpopards stand approximately 3 feet tall at the shoulder; when their necks are fully extended, they can measure up to 20 feet long from nose to tail. Serpopards weigh anywhere from 150 to 200 lbs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Serpopard)
 ```encounter-table
 name: Serpopard

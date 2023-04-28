@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yangethe
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,11 @@ sources:
     desc: 63
 desc_short: This six-eyed horror is vaguely shaped like a dead tree, but one with claws and tentacles and spidery legs.
 ```
-# Description
+
+## Description
 One of the countless creatures bred and engineered by eldritch horrors from beyond the stars, yangethes have, over the eons, developed keen intellects and desires of their own. Unless slain by violence, a yangethe is immortal.
-# Source Link
+
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yangethe)
 ```encounter-table
 name: Yangethe

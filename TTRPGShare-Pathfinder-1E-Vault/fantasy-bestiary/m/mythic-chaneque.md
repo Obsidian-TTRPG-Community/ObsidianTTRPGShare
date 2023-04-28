@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Chaneque
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 28
 desc_short: This creature appears to be a cross between a pixie and a bat with charred flesh. Around its waist dangle tiny fairy skull trophies.
 ```
-# Description
+## Description
 These insidiously malicious fey lurk in the untainted depths of primeval forests. As nocturnal creatures, chaneques spend their days burrowed into the highest hollows of rotten trees. When night falls, they unfurl themselves from their resting places to hunt the forests for fairy heads and mortal souls.
 
 Chaneques are ambush predators, preferring to stalk their prey to study its habits before attacking. Despite being a clumsy flyer, the batlike chaneque maneuvers well in the forest canopy, leaping about and using its winglike skin folds to glide from tree to tree, just waiting for an opportune moment to strike. When a chaneque attacks, it pops out without warning, attempting to startle victims before pelting them with tiny skulls capable of stealing their souls.
@@ -66,7 +68,7 @@ These skulls are created in a special ritual that involves nearly all of the cha
 Once a chaneque uses the skull as a weapon, it then collects the foul instrument and uses it to control the victim of its attack. Chaneques typically enjoy sending the victim off on some false and fruitless quest to recover his soul in a far-off location, while in reality the chaneque simply buries the skull in some unknown region of the forest. Those who fall prey to a chaneque’s attack are doomed to walk aimlessly about the woods, vacant and driven only by the purpose set out by the chaneque, until they starve to death or fall prey to wild beasts.
 
 A typical chaneque stands about 3 feet tall, with blackish-red, rubbery flesh. It has long, filthy claws it uses to cling to trees. Between the creature’s legs and arms hang wide, webbed flaps it uses for gliding. A chaneque also has long, ridged, batlike ears and needlelike teeth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Chaneque)
 ```encounter-table
 name: Mythic Chaneque

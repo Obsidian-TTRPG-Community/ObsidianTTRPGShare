@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 44
 desc_short: This hideous monstrosity looks like an enormous curled maggot, varicolored like deeply bruised flesh. Three flailing tentacles adorn each side of the thing’s huge, pulsating mouth, and five more arch from its hindquarters.
 ```
-# Description
+## Description
 Millennia ago, when the repugnant cyclops empire of Ghol-Gan populated the Shackles, its foul and alien gods sent powerful servants from beyond to act as their intermediaries, guiding and corrupting the empire until its ignominious collapse, at which point the gods and their minions fled Golarion altogether. However, one of these vile servants remained even after Ghol-Gan’s collapse, a wretched horror known as the Blood Queen. It has dwelt for centuries in its foul subterranean chamber in a ruined Ghol-Gan temple called Ganagsau in the Cannibal Isles, and it was this blasphemous being who transformed the kuru into the degenerate race they are today, convincing them that it is a living goddess worthy of their veneration. The Blood Queen has a kuru high priest who goes by the name Bukrugsor, and this devoted thrall sees to it that his dark patron is brought regular sacrificial victims and offerings of blood.
 
 The Blood Queen has no eyes, per se-rather, what look like angry pustules all over its bloated body act as sensory organs. In addition, it is able to see and hear the world through the various kuru surrogates its followers have interspersed throughout the Cannibal Isles. Its grotesque mouth is capable of articulating a number of languages, though if it deigns to speak with a creature it usually does so via its telepathy. While the Blood Queen uses the short tentacles that extend from its mouth to devour prey and sacrificial offerings, the tentacles that emanate from its hindquarters are long, muscular, and tipped with bonelike stingers that allow it to manipulate objects and electrify victims.
 
 The Blood Queen is nearly immobile, being a massive, swollen beast that sits in the middle of a huge underground temple chamber in its ruined cathedral. While it may slowly undulate its bulk in one direction or another, in the years since its appearance on Golarion, the Blood Queen has grown far too large to fit through any of the limestone chamber’s exits. Only the Blood Queen’s high priest, those destined to become surrogate kuru, or sacrifices to the behemoth monster are allowed within this foul throne room. Sometimes unwilling sacrifices are dropped into the chamber from a hole in the ceiling and the exits are sealed so that the Blood Queen may toy with its food before it feeds. A being of monumental evil, the Blood Queen expresses its rage at its divine abandonment by spreading as much pain and havoc as it can. Whether it ever escapes its ancient, self-made prison remains to be seen, though all right-thinking creatures that know of its existence shudder at the prospect.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Queen)
 ```encounter-table
 name: Blood Queen

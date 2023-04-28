@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hobgoblin Battlefield Zealot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: Monster Codex
     desc: 118
 ```
-# Description
+## Description
 Zealots generally use their magic to aid their allies and provide healing, knowing that keeping their tougher allies in good health makes for a stronger army.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hobgoblin%20Battlefield%20Zealot)
 ```encounter-table
 name: Hobgoblin Battlefield Zealot

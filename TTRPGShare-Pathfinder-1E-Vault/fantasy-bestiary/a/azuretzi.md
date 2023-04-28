@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Azuretzi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 86
 desc_short: Brilliant blue scales with purple highlights cover this sinuous creature’s body, and its slender reptilian maw is filled with tiny, sharp teeth.
 ```
-# Description
+## Description
 Azuretzis, which are also known as mockery wyrms, enjoy vexing spellcasting creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Azuretzi)
 ```encounter-table
 name: Azuretzi

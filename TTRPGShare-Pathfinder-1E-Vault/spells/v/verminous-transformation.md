@@ -1,25 +1,27 @@
 ---
-alias: Verminous Transformation
+aliases: [Verminous Transformation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Verminous Transformation 
+## Verminous Transformation
 
 **source**:: Horror Adventures pg. 130  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, investigator 6, shaman 7, witch 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a handful of bat wings, insects, and rat tails)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 You partially transform your body into a swarm of bats, insects, rats, and spiders. As a standard action, you can send out a piece of your body to attack up to four Medium or smaller creatures (or one larger creature) within 10 feet of you. The creatures take 4d6 points of damage and must succeed at a Fortitude save or take 1d3 points of Constitution damage and 1d3 points of Strength damage; the ability damage is a poison effect. Abilities that protect against swarm attacks apply to this damage and spell resistance applies.  
   

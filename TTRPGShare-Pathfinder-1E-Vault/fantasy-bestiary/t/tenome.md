@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tenome
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 90
 desc_short: This wrinkled, pale humanoid has an eyeless head and a wide, fanged mouth; its eyes glare freakishly from the palms of its hands.
 ```
-# Description
+## Description
 Tenomes are hideous predators that stalk the fringes of civilization, ambushing travelers and invading the homes of rural families to feast on their bones. They typically try to get close to their victims before attacking, hiding the monstrous elements of their appearance with hooded cloaks or voluminous robes, or lying in wait along darkened trails. They avoid attacking groups that heavily outnumber them, preferring to patiently track potential prey and strike when they can take victims one at a time. 
 
 Nocturnal creatures, tenomes often travel miles from their lairs under the cover of night to terrorize rural communities. They typically rotate their hunting grounds and try to cover their tracks when farmers organize to defend their lands or locate the tenomes’ lairs. Their preferred diet of liquefied bones results in hideous corpses that can cause incredible fear in communities, and tenomes know this-they often seek to leave their boneless victims on display where they know the disgusting bodies will soon be found to deter pursuit. 
 
 Certain folktales suggest that tenomes originated as a supernatural punishment for a community that did not adequately care for its elderly. Whatever their true genesis was, these frightening monsters can now be found throughout the world, although they prefer to dwell in the fringes of urban regions. A tenome stands between 5 and 6 feet tall and weighs around 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tenome)
 ```encounter-table
 name: Tenome

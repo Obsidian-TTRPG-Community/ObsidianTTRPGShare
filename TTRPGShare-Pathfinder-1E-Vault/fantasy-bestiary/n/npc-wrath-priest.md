@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Wrath Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: NPC Codex
     desc: 49
 ```
-# Description
+## Description
 The wrath priest serves the primordial god of disaster and destruction, striking down innocents and enemies with fire, blade, and hatred. He is a quintessential nihilist, and can not be bought or reasoned with except as it furthers his god’s horrific ends.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Wrath%20Priest)
 ```encounter-table
 name: NPC Wrath Priest

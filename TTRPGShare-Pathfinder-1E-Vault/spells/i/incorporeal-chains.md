@@ -1,19 +1,21 @@
 ---
-alias: Incorporeal Chains
+aliases: [Incorporeal Chains]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Incorporeal Chains 
+## Incorporeal Chains
 
 **source**:: Occult Adventures pg. 174  
 **school**:: evocation (force)
 **level**:: psychic 6, spiritualist 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one incorporeal creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Incorporeal Chains
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You summon ghostly chains to bind incorporeal creatures. The chains’ CMB is equal to your caster level + your Intelligence modifier. Roll only once for the entire spell effect and apply the result to all targeted incorporeal creatures.  
   

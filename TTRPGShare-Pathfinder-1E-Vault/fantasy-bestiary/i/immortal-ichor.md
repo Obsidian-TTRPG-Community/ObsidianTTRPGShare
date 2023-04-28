@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Immortal Ichor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 156
 desc_short: This strange-almost beautiful-purple ooze thrums with powerful energy and glows with an eerie light.
 ```
-# Description
+## Description
 An immortal ichor is an intelligent mass of blood from a dead evil deity. Blessed with profane powers and the will to dominate other creatures, these oozes are a threat to all living things. The rare few that exist are banished underground or sealed away in chambers that block their magical abilities. Over time these seals break or erode, allowing a trickle of an ooze’s substance to escape and giving it a narrow aperture to exert its power through. Retaining vague memories of the god it was taken from, an immortal ichor uses its minions to find a body to possess, and either sets itself up as a godling or tries to find a way to revive its divine source.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Immortal%20Ichor)
 ```encounter-table
 name: Immortal Ichor

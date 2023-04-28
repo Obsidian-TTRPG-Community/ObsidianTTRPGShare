@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spirit Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 213
 desc_short: Yellowed, venom-dripping fangs fill the human-like mouth of this sinister serpentine monstrosity.
 ```
-# Description
+## Description
 Morbid-minded and wretched to look upon, spirit nagas are the witches of the naga race, hateful outcasts long shunned for their dark powers and loathsome ways. A typical spirit naga is slender, with the scales of a venomous serpent and a tangle of greasy hair framing their pale faces. Most measure 14 feet long but weigh less than 300 pounds.
 
 Spirit nagas delight in places of death and desolation. Battle-scarred ruins, untended graveyards, despoiled forests, and tangled swamps all attract these repulsive creatures. Where guardian nagas favor places of innate sanctity, spirit nagas seek out places of fundamental corruption, sites they believe to be imbued with dark magics. The crypts of long-dead tyrants, the death places of great heroes, and the ruins of nefarious keeps all attract these wretched serpents.
@@ -69,7 +71,7 @@ Spirit nagas delight in places of death and desolation. Battle-scarred ruins, un
 Most spirit nagas believe themselves to be the inheritors of some mysterious dark favor, seeing their innate magical talents as evidence of such. Most commune with vague powers of death and devastation, working profane rites and seeking grotesque auguries from cultic forces. To aid them, spirit nagas often use their enchanting gaze, changing victims into fawning fanatics and would-be sacrifices.
 
 Spirit nagas occasionally band together in small groups-some seeming to mimic the covens of hags. While a particular plot or foe might bring these deadly serpents together for a short time, spirit nagas are loyal only to themselves, and such alliances always end in deadly betrayal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spirit%20Naga)
 ```encounter-table
 name: Spirit Naga

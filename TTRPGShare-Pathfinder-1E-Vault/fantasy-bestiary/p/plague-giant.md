@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Plague Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 134
 desc_short: This oversized humanoid is dressed in tattered rags that don’t quite cover its diseased body.
 ```
-# Description
+## Description
 Plague giants resemble enormous lepers or plague sufferers, yet they are not so much victims of disease as they are servants of sickness. Most plague giants worship the Horseman of Pestilence or other deities associated with disease, and they have no fear of sickness themselves. Pestilence spreads wherever the plague giants dwell, and thus they are shunned by most humanoids. Sometimes, however, plague giants lead daemon cults consisting of diseased humanoids who were ostracized by their own kind. It seems likely that plague giants were once some other form of giant before they turned to daemon worship, though no other race of giant will claim them as wayward children. Plague giants themselves find such rumors particularly distasteful, and point out that they are much more than this, reasoning that when a “lesser giant” gets sick, it doesn’t suddenly transform into a plague giant. 
 
 The average plague giant is 24 feet tall and weigh 15,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Plague%20Giant)
 ```encounter-table
 name: Plague Giant

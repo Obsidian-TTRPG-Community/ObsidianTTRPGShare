@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zuishin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 165
 desc_short: Within this elaborate suit of armor can be seen the partial form of a determined warrior.
 ```
-# Description
+## Description
 While all kami are enemies of oni, none are so fervent as the zuishin. Known also as shrine kami, zuishin take as their wards gates, doorways, religious places, and the spiritual archways known as torii, ensuring that the gates are respected. Zuishin can use many weapons, but tend to favor the bow. A zuishin treats its equipment with utmost care, viewing weapons as extensions of itself. It never discards its bow voluntarily; if the weapon is ever lost or destroyed, a zuishin can craft a new one in a month.
 
 Zuishin treat other kami with respect, and are always willing to lend a helping hand. Creatures other than kami must earn a zuishin’s trust before receiving its aid, and do so by honoring the gate it guards or providing an offering to the kami, such as a tree branch or other small piece of nature.
 
 Zuishin manifest as suits of armor with a partly manifest warrior within, and wield glowing weapons. They stand 5 feet tall and weigh 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zuishin)
 ```encounter-table
 name: Zuishin

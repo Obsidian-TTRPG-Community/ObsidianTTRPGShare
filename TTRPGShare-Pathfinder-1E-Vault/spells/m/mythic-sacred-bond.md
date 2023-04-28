@@ -1,19 +1,21 @@
 ---
-alias: Mythic Sacred Bond
+aliases: [Mythic Sacred Bond]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Sacred Bond
+## Mythic Sacred Bond
 
 **source**:: Mythic Adventures pg. 106  
 **school**:: conjuration (healing)
 **level**:: cleric 3, inquisitor 2, oracle 3, paladin 2, warpriest 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)
 
-### Effect 
+### Effect
 
 **range**:: touch; see text  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Sacred Bond
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 To use this spell, you first touch the intended recipient, creating a sympathetic field of healing energies between you. Once the spell has been cast, you and the target may cast conjuration (healing) spells with a range of touch upon each other so long as you are within close range (25 ft. + 5 ft./2 levels). Should either you or the target remove your bracelet, the spell immediately ends.
 

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baboon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 212
 desc_short: A hairy, stout animal with opposable thumbs, this creature has a pronounced muzzle and bright red buttocks.
 ```
-# Description
+## Description
 Baboons are known for their aggressive nature and distinctive build, including a canine-like maw filled with sharp teeth, strong jaw muscles, a short tail, and prominent calluses on their brightly colored and protruding buttocks. Though they are primarily vegetarians, baboons are known to eat fish, insects, shellfish, and other small creatures. Ferociously territorial, baboons are quick to rise and defend their homes from any sort of intruders.
 
 A baboon is 3 feet tall and weighs 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baboon)
 ```encounter-table
 name: Baboon

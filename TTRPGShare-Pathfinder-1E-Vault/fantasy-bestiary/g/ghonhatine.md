@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghonhatine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 84
 desc_short: Even hunched and creeping upon all fours, this reptilian behemoth towers over its prey, its protruding teeth snapping wildly.
 ```
-# Description
+## Description
 Troglodytes forced to undergo fleshwarping by the drow, ghonhatines harken to what troglodytes might have been in savage prehistory. They stand over 10 feet tall (hunched to about 8 feet) and weigh upward of 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghonhatine)
 ```encounter-table
 name: Ghonhatine

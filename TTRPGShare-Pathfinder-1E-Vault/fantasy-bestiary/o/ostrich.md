@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ostrich
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 55
 desc_short: This human-sized bird has a long neck and legs sprouting from a round body covered in fluffy gray feathers.
 ```
-# Description
+## Description
 Adult female ostriches average 6 feet tall and weigh about 220 pounds, with males averaging 7 to 9 feet and 250 pounds. Although they are likely to flee from predators when they can, ostriches are more than willing to stand and fight when trapped or defending their chicks; they’re known to kick even lions to death in defense of their young.
 
 A trained ostrich has a market price of 80 gp, whereas an egg is worth 25 gp. Because it’s bipedal, an ostrich requires an exotic saddle.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ostrich)
 ```encounter-table
 name: Ostrich

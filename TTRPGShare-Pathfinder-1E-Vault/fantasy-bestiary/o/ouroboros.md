@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ouroboros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 206
 desc_short: This serpentine creature chews at its own tail. Its body consists of a multitude of entangled serpents with countless hissing jaws.
 ```
-# Description
+## Description
 The ouroboros-the serpent that eternally consumes itself- occupies a place in the mythology of many civilizations, yet few suspect that these legends are inspired by a real and terrifying race of creatures. Living ouroboroses dwell on the Astral Plane, where they are content to drift aimlessly through the silvery void. 
 
 Ouroboroses are capable of tremendous devastation, yet they have little reason to seek out such violence. They are each a world unto themselves, autonomous and reliant on no other creature for their sustenance or livelihood. An ouroboros can exist forever, constantly eating itself and replenishing its body with its own infinity. Barely sentient, an ouroboros has a powerful, almost pathological will to survive, which drives it to destroy any and all creatures that pose even the slightest threat to its well-being. This propensity to attack without clear provocation or warning has given ouroboroses a reputation for being engines of mindless destruction. 
@@ -76,7 +78,7 @@ An ouroboros’s most striking feature is its ability to almost instantly grow n
 While ouroboroses seem mindless, they have crude intellects and can understand speech. Yet whatever motives the ouroboroses have for hiding away on the Material Plane are unclear. Most find their way to this reality by accident, tumbling through rents in reality from the Astral Plane or perhaps conjured here by powerful magic wielded by mad spellcasters eager to unleash devastation upon the world. 
 
 An ouroboros is usually coiled into a circle roughly 50 feet in diameter. It weighs 260 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ouroboros)
 ```encounter-table
 name: Ouroboros

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gare Linnorm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 84
 desc_short: An enormous draconic head rises up atop a massive serpentine neck wider than a galleon’s mainmast. Seemingly endless coils break the water’s surface around it, only hinting at the monster’s terrifying size, as it opens its steam-shrouded maw with a hiss.
 ```
-# Description
+## Description
 So named for a northern word for “river,” a gare linnorm’s body resembles that of a gigantic serpent, save for two muscular forelimbs. The creature’s head is long and angular, with crests that it uses to break through ice in its never-ending search for food. A gare linnorm’s hide is a dull gray color akin to tarnished silver, with a slightly paler underbelly. Unlike many linnorms, a gare linnorm has a smooth hide, allowing it to slip easily through water and ice holes.
 
 A gare linnorm can grow as long as 60 feet, typically weighs 11,000 pounds, and can live for over 1,000 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gare%20Linnorm)
 ```encounter-table
 name: Gare Linnorm

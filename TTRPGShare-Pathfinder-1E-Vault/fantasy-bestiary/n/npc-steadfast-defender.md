@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Steadfast Defender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: NPC Codex
     desc: 100
 ```
-# Description
+## Description
 Steadfast defenders often serve as guards in monasteries and as bodyguards for important dignitaries.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Steadfast%20Defender)
 ```encounter-table
 name: NPC Steadfast Defender

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Duergar Ironclad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 32
 desc_short: This bulky, gray-skinned dwarf is armored like a fortress.
 ```
-# Description
+## Description
 Bred in the steam vents of Diepkamer, ironclads are as unfeeling as the metallic casings that entomb them. These duergar are known to chain themselves to one another and anchor their iron boots to the very structures they defend.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Duergar%20Ironclad)
 ```encounter-table
 name: NPC Duergar Ironclad

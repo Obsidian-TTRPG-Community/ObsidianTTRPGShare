@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abhominal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 84
 desc_short: This gaunt humanoid has pale, translucent skin and is arched backward, scuttling on its hands and feet. A mass of barbed, black tentacles extends from its exposed abdomen.
 ```
-# Description
+## Description
 Abhominals are a result of a failed experiment in which an aboleth employed ancient Azlanti technology to alter sentient humanoids. Though the test subjects died during their transformation, the strange energies involved animated them as undead horrors bound to serve their aboleth creator. These abominations share a hive mind, chattering telepathically with each other to determine a common purpose. All of them can be called into action instantly if their aboleth master issues a telepathic command, the dominating words reverberating from one connected mind to another. Abhominals hunger for the life energy of living beings, but their masters can keep their hunger in check in order to make them hunt new subjects to use in further experiments (who might end up sharing the fate of their captors).
 
  The midsection of an abhominal rises to a height of about 2-1/2 feet, though its barbed tentacles go much higher than that. They weigh over 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abhominal)
 ```encounter-table
 name: Abhominal

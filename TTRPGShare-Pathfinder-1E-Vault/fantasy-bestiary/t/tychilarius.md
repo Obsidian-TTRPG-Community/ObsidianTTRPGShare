@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tychilarius
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,7 +79,7 @@ sources:
     desc: 56
 desc_short: A host of tentacles-some tipped with eyes and others ending in mouths-flail around a massive spiraling maw ringed with thousands of teeth.
 ```
-# Description
+## Description
 Golarion first heard the name Tychilarius thousands of years ago, when various Garundi tribes gathered in the nascent nation of Osirion and began to build the great empire that would one day arise there. Little information regarding Tychilarius from this bygone era survives to the current day, and what has resurfaced is contradictory and vague. What is known is that Tychilarius is a powerful leader in the Dominion of the Black, a starfaring association of creatures from the Dark Tapestry.
 
 While Tychilarius’s relationship with the early Osirians seems to have been primarily antagonistic, there is evidence that a few cults formed around the being. Many scholarly texts claim that these early cultists gave Tychilarius the appellation “The Drowned God.” That title, however, is a misnomer, for while Tychilarius is aquatic and extremely powerful, it can’t grant spells and is not a god. In truth, the appellation is a mistranslation made by a scholar-cultist who was less than savvy about the intricacies of the Dominion of the Black’s use of language. Older texts suggest that the closest accurate approximation of this being’s title is “They Drown the Gods in Oblivion.” Modernday scholars, theologians, and would-be worshipers simply use the name “Tychilarius.” The name by which the early Osirian cultists addressed the creature has been lost to history, and most extant records suggest that they referred to the focus of their worship primarily by epithets.
@@ -91,7 +93,7 @@ Tychilarius is believed to be immortal, and has traveled throughout the cosmos. 
 Cultists such as the Night Heralds have performed hundreds of rituals over the years to call Tychilarius back to this world, but to date none have succeeded. Despite these failures, the Night Heralds remain unfazed and continue their dark work. In recent years, a cell of Night Herald cultists uncovered a supposed relic that would draw Tychilarius from its prison into the body and mind of another being. Though the ritual failed and most of the cultists were slain, rumors insist the attempt was almost a success. Admittedly, these tales mostly circulate among other cultists eager to succeed where their predecessors failed. True or not, these claims have spurred an increase in such activity by the Night Heralds. While none have yet managed to free Tychilarius, their attempts have summoned a host of lesser, but still dangerous, malevolent creatures.
 
 Many scholars study beings such as Tychilarius out of simple curiosity or-especially among theologians of goodly churches-with an eye toward protecting the world from the ravages of these creatures. Yet the most knowledge of Tychilarius rests in the hands of those who study the Dominion of the Black and among the members of the Night Heralds, who hope to attract the attention of the creatures in the Dark Tapestry and bring about the end of Golarion. In addition to delving into this forbidden knowledge themselves, such cultists do what they can to eliminate it from the libraries of those who might use it to keep Tychilarius sealed away, stealing and destroying documents and even murdering scholars. If they ever successfully open the door to Tychilarius’s prison, Golarion will certainly fall under the glaring eye of the Dominion, and it would be only a matter of time before the Dominion of the Black’s organic starships begin dropping to the planet’s surface.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tychilarius)
 ```encounter-table
 name: Tychilarius

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ximtal
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 244
 desc_short: A rat’s head sprouts from the front of a crab-like body, and two tentacular tails ending in hands erupt from the towering bulk.
 ```
-# Description
+## Description
 While psychopomps usher mortal souls to the proper judgment, sahkils have no care for souls and want to only torment and frighten mortals, often toying with their feelings of unease about their very mortality. Sahkils want to remind mortals that they are just that-mortal and alone in a complex and dangerous universe. Ximtals feed on the fear of not belonging, and on the fear of isolation from the rest of a community or society. A ximtal stands 14 feet tall and weighs nearly 1,000 pounds. 
 
 Ximtals are manipulative schemers by nature. Having no concern whatsoever for any law, and feeling only contempt for joy and freedom as well as a total disdain for the overarching principles of society, a ximtal uses any insecurities and other weaknesses it perceives in order to slowly erode positive thoughts and actions and keep strong-willed mortals from acting on beliefs that would aid the greater good. They foster the vulgar and abusive voices in all sides of a conflict, subjecting the sensible and sensitive to ill treatment from the loud and malignant. These sinister outsiders instill feelings of dread and hopelessness, and make people feel as if they were alone and unacknowledged even in the presence of their friends and allies.
@@ -83,7 +85,7 @@ Ximtals are manipulative schemers by nature. Having no concern whatsoever for an
 More subtly, ximtals sometimes focus their attention on friends and allies of the truly virtuous-their ultimate targets-to indirectly discredit these paragons. In these cases, ximtals encourage associates of a target to misrepresent the target’s intended cause. They work their way into the minds and ideologies of people who focus their actions on advertising their ideals and motivations; they gradually corrupt such folk, leading them to treat other voices with barely concealed aggression and contempt and make hasty decisions that run counter to their final goals. Eventually, the ximtals hope, these agents of discord will subvert the paragon’s message and mire her in despair and isolation. 
 
 Ximtals tend to remain isolated from others of their kind. They don’t often cooperate to target a certain individual or cause unless it holds some fascination specific to individual ximtals or sahkils. Instead, they spread themselves out through the multiverse to focus on divergent ideologies or selective societal crusades. Despite their tendency to be alone, some ximtals work in partnerships with pakalchis (Pathfinder RPG Bestiary 5 216), as pakalchis focus on breaking down the bonds of friendship. Working in parallel, these two types of sahkil can destroy not only friendships, but entire families or organizations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ximtal)
 ```encounter-table
 name: Ximtal

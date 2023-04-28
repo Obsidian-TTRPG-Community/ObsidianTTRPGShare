@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Octopus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 219
 desc_short: A storm of tentacles, each twenty feet in length, flails with deadly precision from the leathery body of this gigantic octopus.
 ```
-# Description
+## Description
 The giant octopus is a true monster capable of catching and eating sharks, humans, or anything else it can grab with its tentacles.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Octopus)
 ```encounter-table
 name: Giant Octopus

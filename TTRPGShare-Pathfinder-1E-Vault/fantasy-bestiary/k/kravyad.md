@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kravyad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 59
 desc_short: Glowing motes of electricity dance over this massive ursine creature’s hairless hide.
 ```
-# Description
+## Description
 The result of strange magics that rose in the aftermath of the rise of the Eye of Abendego, the always ravenous kravyads constantly travel in search of new prey. They are drawn to shipwrecks, flooded battlefields, and regions experiencing calamitous thunderstorms. A particularly starving kravyad will resort to eating nearly anything, and as such, a kravyad’s “treasure” typically consists of swallowed items that it failed to digest.
 
  Though intelligent and capable of brutish speech in Aquan, a kravyad is driven mainly by its excessive gluttony. Those seeking to coerce a kravyad into service must rely on either mental enslavement or shows of strength-combined with a steady supply of electrocuted corpses.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kravyad)
 ```encounter-table
 name: Kravyad

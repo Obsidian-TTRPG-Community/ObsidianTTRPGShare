@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sacred Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: NPC Codex
     desc: 55
 ```
-# Description
+## Description
 The sacred guardian serves the goddess of beauty and love. He protects a holy site, preferring to deflect and warn rather than harm or destroy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sacred%20Guardian)
 ```encounter-table
 name: NPC Sacred Guardian

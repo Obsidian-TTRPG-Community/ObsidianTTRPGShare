@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yeti
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 287
 desc_short: This creature stands like a man, yet is half again the height of most men and covered with a coat of thick white fur.
 ```
-# Description
+## Description
 Mysterious and rarely seen (save by victims), the yeti is a towering denizen of the loneliest and tallest mountain peaks. Those who dwell upon the lower reaches of such storied slopes whisper tales of “abominable snowmen” who come down from the heights to raid, taking livestock or even humans as prey and leaving behind only monstrous barefoot tracks in the bloodstained snow.
 
 Although yeti stories are accurate in their portrayals of fierce, stealthy, and immensely strong creatures, they are not when it comes to ascribing the yeti’s temperament and source. They dwell in small tribes atop their distant mountains, where they are sheltered from contact with most other races. Those with violent or cruel natures are usually forced out of tribes to live lonely lives as exiles, and without the support of a tribe such yeti are often driven to raiding lowlander settlements, thus perpetuating the myth of the yeti as a demon made flesh.
 
 The source of such cruel madness can often be traced to a singular source-proximity to strange, eldritch dimensions. The yetis’ mountain lairs rise high in places where the boundaries between this world and others rasp thin. It is unclear if the yeti are invaders from these dimensions or Material Plane natives influenced by otherworldly realms, but it seems certain that whatever their origins, the yeti are no friends to those who dwell beyond, and may even act as guardians against intrusions from such strange worlds into the Material Plane.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yeti)
 ```encounter-table
 name: Yeti

@@ -1,25 +1,27 @@
 ---
-alias: Swallow Poison
+aliases: [Swallow Poison]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Swallow Poison 
+## Swallow Poison
 
 **source**:: Ultimate Intrigue pg. 226  
 **school**:: transmutation
 **level**:: alchemist 5, druid 5, hunter 5, investigator 5, shaman 5, witch 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level or until discharged
 
-### Description 
+### Description
 
 A special gland grows on the inside of your throat, which absorbs any poisons that you ingest, and can be used to expel them in a toxic spray. Any time you consume ingested poison during the spell’s duration, you can roll a caster level check against the poison’s save DC in order to harmlessly absorb the poison, ignoring its effects. The spell can absorb up to 1 dose of poison per 3 caster levels, after which the gland is unable to process any more poison, and any further doses of ingested poison affect you normally.  
   

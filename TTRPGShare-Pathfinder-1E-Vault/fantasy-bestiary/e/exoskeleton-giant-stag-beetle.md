@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Exoskeleton Giant Stag Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,11 +42,11 @@ sources:
     desc: 84
 desc_short: The tattered remains of a dead insect rumble to life, creaking and clattering forward on dry, brittle legs.
 ```
-# Description
+## Description
 Found skittering through forgotten tombs, crawling through deep forests, and filling damp caverns, exoskeletons are animated carapaces of arthropods and other vermin. Most exoskeletons are the intentional creations of necromancers, but some of these undead monstrosities arise spontaneously from places awash with negative energy or are created by malfunctioning artifacts. Sometimes, the simple act of feeding on freshly destroyed undead creatures is enough to transform an insect into an exoskeleton upon its eventual death. Though exoskeletons are just as mindless as they were when they were living, they have become infused with an evil instinct in their new unlife that drives them to relentlessly attack all living creatures on sight, exploding in a burst of dusty remains when destroyed. 
 
 A spellcaster can create an exoskeleton using animate dead. An exoskeleton can be created from a mostly intact dead vermin that has an exoskeleton. This includes arachnids, crustaceans, insects, and even some mollusks, but not soft-bodied vermin such as jellyfish and leeches.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Exoskeleton%20Giant%20Stag%20Beetle)
 ```encounter-table
 name: Exoskeleton Giant Stag Beetle

@@ -1,19 +1,21 @@
 ---
-alias: Flesh to Ooze
+aliases: [Flesh to Ooze]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Flesh to Ooze 
+## Flesh to Ooze
 
 **source**:: Dungeon Denizens Revisited pg. 19  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (alchemical reagents worth 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1 creature or see text  
@@ -21,7 +23,7 @@ alias: Flesh to Ooze
 **saving-throw**:: Fortitude negates, Will partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This functions like *baleful polymorph*, except the target becomes an ooze. A creature of 3 HD or less becomes a gray ooze, 4-9 HD becomes a gelatinous cube or ochre jelly, and 10+ HD becomes a black pudding. Alternatively, instead of a creature you may target a quantity of inert flesh (such as that created by the *stone to flesh* spell) of sufficient mass, which becomes an ooze of your choice.  
   

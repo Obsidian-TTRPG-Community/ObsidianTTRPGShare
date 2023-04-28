@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leopard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,11 +44,11 @@ sources:
     desc: 40
 desc_short: With each graceful step, this leopard’s steely muscles ripple beneath its spotted fur.
 ```
-# Description
+## Description
 Leopards are 4 feet long and weigh 120 pounds. The statistics presented here can describe any feline of similar size, such as jaguars, panthers, and mountain lions-what differentiates these big cats from the similarly sized cheetah is primarily their habitats-leopards and their kin prefer to hunt at night and ambush their prey from above, pouncing down from trees or high rocks.
 
 Leopards eat almost any animal they can run down and catch, preferring Small prey but capable of downing Large herbivores or surviving on rodents, birds, and insects. Healthy leopards are generally not aggressive toward humanoids, and if they aren’t hungry and don’t feel threatened, it is possible to approach closely without a hostile reaction. Yet a leopard that settles in an area bordered by humanoid civilization can easily and swiftly become a dangerous predator.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leopard)
 ```encounter-table
 name: Leopard

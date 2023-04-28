@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Paguroida
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 86
 desc_short: This crab-like creature has the torso and head of a human, one arm ending in a massive claw, and another arm wielding a scimitar. It scuttles on six legs that emerge from beneath a massive shell with glinting metal and gems embedded into its surface.
 ```
-# Description
+## Description
 Believed to have been created by the aboleths in ages long past as part of the alghollthus’ experiments on the murajau, paguroidas are reclusive, hermit crab-like monstrous humanoids who live in hidden grottoes and seaside estuaries, typically on isolated or remote coastlines. One of their upper limbs terminates in a humanoid hand, while the other ends in a large pincer capable of gripping and crushing prey. A paguroida’s face is similar to that of a crab, with protruding eyestalks and a wide mandible-filled mouth, though its torso is distinctly humanoid in shape and size. A typical paguroida stands 7 feet tall and weighs 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Paguroida)
 ```encounter-table
 name: Paguroida

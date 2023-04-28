@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Haniver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 76
 desc_short: This small, bizarre humanoid creature has finlike wings, strange yellow skin, and tiny black eyes burning with malevolence.
 ```
-# Description
+## Description
 Haniver gremlins haunt the stories of sailors and fishing communities, featuring prominently in parables told to naughty children by disapproving parents. A thousand such tales exist, each a variation on a common theme-the gremlins flap up from the sea, startle nasty fishermen or disobedient youths, and make off with their trinkets. Yet as is rarely the case with such tales, nearly every word of these stories-no matter how unlikely or comic- proves near to the truth. Strange, capricious fey creatures that enjoy skimming whitecaps, flipping over solitary horseshoe crabs, and suicidally teasing dolphins and sharks, hanivers endlessly indulge a mad racial curiosity. Such is their obsession that every haniver must know what is under every rock, in every basket, and beneath every hat.
 
 Should they like what they find, they typically attempt to make off with it, clinging to their prize like a beloved heirloom until the next curiosity or shiny treasure catches their attention. Hanivers have no concept of worth, though they know much of desirability, and might hang onto an item they would otherwise discard in moments if another creature-or former owner-expresses desire for it. The gremlins don’t steal out of any sense of maliciousness, but rather out of curiosity and self ishness. The most intelligent occasionally even believe that they’re trading, and leave behind old “treasures”-often strange or natural items that barely fit the description-in place of things they’ve claimed. Regardless, folklore advises those who have something stolen by a haniver to simply abandon it rather than face the frustration of attempting to rescue it-hence the tendency of sailors to blame the hanivers whenever something goes missing.
 
 Hanivers possess flat, leathery bodies with only a few thin bones. Most stand little more than a foot tall and 1-1/2 feet across, and weigh less than 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Haniver)
 ```encounter-table
 name: Haniver

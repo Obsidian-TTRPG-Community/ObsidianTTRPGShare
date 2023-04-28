@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marble Sentinel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
     desc: 90
 desc_short: Crouched on six jointed metal legs, this large humanoid head crafted from polished marble gazes intently with its glowing green eyes.
 ```
-# Description
+## Description
 Marble sentinels were prized for their ability not only to detect intruders, but also to restrain them with paralyzing bolts. This ability only lasts temporarily, so the creator or other creature the sentinel is keyed to would have to receive the alert and mobilize her guards to properly subdue and restrain any trespassers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marble%20Sentinel)
 ```encounter-table
 name: Marble Sentinel

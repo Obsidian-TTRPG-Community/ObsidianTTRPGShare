@@ -1,19 +1,21 @@
 ---
-alias: Animate Objects
+aliases: [Animate Objects]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Animate Objects 
+## Animate Objects
 
 **source**:: PRPG Core Rulebook pg. 242  
 **school**:: transmutation
 **level**:: bard 6, cleric 6, occultist 6, oracle 6, psychic 6, skald 6, warpriest 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one Small object per caster level; see text  
@@ -21,7 +23,7 @@ alias: Animate Objects
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.  
   
@@ -31,7 +33,7 @@ This spell cannot affect objects carried or worn by a creature.
   
 *Animate objects* can be made permanent with a *permanency* spell.
 
-## Mythic Animate Objects 
+## Mythic Animate Objects
 
 **source**:: Mythic Adventures pg. 84  
 Animated objects you create with this spell get the maximum number of hit points per level, gain a +4 bonus to their Strength ability scores, and have 1-1/2 times the normal number of construction points.

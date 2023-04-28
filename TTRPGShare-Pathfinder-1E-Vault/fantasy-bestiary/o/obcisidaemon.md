@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Obcisidaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,7 +74,7 @@ sources:
     desc: 50
 desc_short: This massive fiend has eagle wings, a tusked canine face, and a muscular frame. It wields an immense, cruel-looking halberd.
 ```
-# Description
+## Description
 The towering and devastating obcisidaemon personifies the darkest elements of war. Obcisidaemons strip away the veneer of honor and battlefield glory and the complexity of wartime tactics, leaving behind only the brutal and violent truth of conflict at its core, and then divest it of any humanity to reveal naught but scorched earth and genocide. Reflecting the disgraceful values of ethnic cleansing, depopulation, and all other forms of the clinical, systematic obliteration of civilian populations, obcisidaemons are among the most powerful members of daemonkind. These paragons of inhumanity arrive in the heart of great cities and leave wastelands of rubble and ashes in their wakes. Where an obcisidaemon walks, not even the ghosts of the dead remain to lament the destruction, for the daemon wipes out not only innocent individuals, but also their entire histories and bloodlines, ensuring that no future exists for its victims in any sense of the word. 
 
 When a mortal commits an act of genocide in life and goes to Abaddon in death, it has a chance of forming into an obcisidaemon if it survives long enough as a member of the hunted. Such individuals rarely have trouble managing the unforgiving wastes, as they have already proven willing to destroy any and all possible allies in order to ensure their own survival, making betrayal an impossibility and solitude an inevitability. A vicious soul that eventually develops into an obcisidaemon becomes a lone, wandering mass of slaughter that acts as a harbinger of undiscriminating and unforgiving death to all who dare stand in its path. In life, the soul perhaps desired to kill only a particular chosen population; as an obcisidaemon, however, the being seeks the obliteration of all mortals. 
@@ -84,7 +86,7 @@ Devoted to the wanton, systematic slaughter of all mortal life, most obcisidaemo
 Some obcisidaemons serve no particular member of the Four Horsemen, instead choosing to function as independent agents of genocide and endless eons of wartime slaughter. These nomadic, self-serving beings wander from plane to plane, laying waste to one civilization after another. Some obcisidaemons intentionally spread their true names to the Material Plane, hoping for a foolish evil summoner to call upon them, knowing that no mere mortal could control their awesome power. Such summoners often end up among the first souls to be devoured and woven into the cloud of tormented spirits that cloaks the rampaging obcisidaemon. 
 
 Obcisidaemons stand 25 feet tall, have wingspans of 30 feet, and weigh over 15,000 pounds, but rumors whisper of specimens that are nearly three times this size.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Obcisidaemon)
 ```encounter-table
 name: Obcisidaemon

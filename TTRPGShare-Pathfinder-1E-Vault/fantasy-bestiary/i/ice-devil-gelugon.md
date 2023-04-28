@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ice Devil (Gelugon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 77
 desc_short: A pair of frozen, multifaceted eyes coldly judge all before this towering, insectile monstrosity.
 ```
-# Description
+## Description
 It is said that each ice devil-known as gelugons among the ranks of devilkind-bears within its chest a stolen, frozen mortal heart, which allows it to make decisions free of all emotion. Born on the icy layer of Cocytus, Hell’s seventh layer, most ice devils migrate to Caina, the eighth layer, where they plot world-damning machinations from courts of freezing steel. Although they are perhaps the most alien and monstrous in appearance of all devils, few breeds are accorded greater respect.
 
 In combat, a gelugon prefers to let its minions engage foes in melee so that it can hang back and appraise the foe’s tactics, strengths, and weaknesses. The ice devil supports its minions with its spell-like abilities, always taking care to avoid impacting its minions in the area of effect of its spells-this not from any sense of camaraderie, only a cold and logical truth that its allies can survive longer in a fight if they are not exposed to friendly fire.
 
 Gelugons stand at 12 feet tall, and weigh approximately 700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ice%20Devil%20(Gelugon))
 ```encounter-table
 name: Ice Devil (Gelugon)

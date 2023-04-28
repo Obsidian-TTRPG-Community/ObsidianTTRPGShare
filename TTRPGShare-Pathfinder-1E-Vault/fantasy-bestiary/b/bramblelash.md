@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bramblelash
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 84
 desc_short: A blue-green vine covered with stiff, verdant leaves and barbed thorns protrudes from this hedge.
 ```
-# Description
+## Description
 The bramblelash uses its sharp leaves and thorns to cut animals that stray too close to its patch. Its victims’ blood (and the carcasses of those that don’t escape) enriches the soil and enables the bramblelash to thrive. The carnivorous plant won’t pursue fleeing animals, and its slow speed would make such a course of action fruitless in any case. The bramblelash is content to bleed enemies and then feed off their organic contribution while they escape.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bramblelash)
 ```encounter-table
 name: Bramblelash

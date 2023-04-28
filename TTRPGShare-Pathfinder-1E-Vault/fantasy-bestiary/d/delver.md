@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Delver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 15
 desc_short: This fleshy, slug-like creature has two long pseudopods that end in lumps of hard, callused flesh, and its whole body sizzles with acidic slime as it slides forward through melting stone.
 ```
-# Description
+## Description
 Delvers are enormous gastropods covered with corrosive slime and designed for burrowing through stone. Fifteen feet long and weighing several tons, they are most commonly encountered deep below ground, particularly near underground water sources. Surprisingly intelligent, these juggernauts exist to tunnel, surviving off metals- which they find intoxicating, and sometimes maddening- and leaving behind smooth, 10-foot-diameter passages.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Delver)
 ```encounter-table
 name: Delver

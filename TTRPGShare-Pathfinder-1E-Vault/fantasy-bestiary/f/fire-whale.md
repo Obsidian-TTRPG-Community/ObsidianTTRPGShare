@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fire Whale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 128
 desc_short: Waves of searing heat ripple from the stony, gem-encrusted hide of this enormous whalelike beast.
 ```
-# Description
+## Description
 Fire whales are titanic beasts native to the Elemental Plane of Fire, but their natural ability to traverse the planes means they are seen across all the Elemental Planes and Material Plane. They travel in great pods, singing and feeding off whatever bits of metal and mineral catch their eyes, which their inner foundries refine into a glorious array of gems. The vast bounty of wealth their bellies contain has enticed the efreet to hunt fire whales for untold ages, and the enormous creatures return that antagonism by aggressively attacking genies of all types on sight. 
 
 Though most at home in the searing heat of their native plane, fire whales can survive and even flourish on other planes. On the Material Plane, fire whales splash in the molten hearts of volcanoes, skim through the clouds, or cavort through deep ocean trenches as the whim strikes them. Their inner fires boil water, protecting them from the freezing cold of the ocean depths. The heat of their bodies even melts stone, allowing them to burrow through rock after a fashion.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fire%20Whale)
 ```encounter-table
 name: Fire Whale

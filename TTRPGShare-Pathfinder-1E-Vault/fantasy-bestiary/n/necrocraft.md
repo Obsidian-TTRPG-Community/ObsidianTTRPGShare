@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Necrocraft
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -85,11 +87,11 @@ sources:
     desc: 200
 desc_short: Thick muscle and jutting bone from multiple corpses fused together form a winged, humanlike predator.
 ```
-# Description
+## Description
 A necrocraft is a medley of undead body parts and corpses grafted together with dark magic to create a single animated undead creature with abilities based on its component pieces and the surgical and necromantic talents of its creator. Necrocrafts are better suited for brute force than delicate manipulation, and most creators build larger hulks rather than smaller, more agile (and fragile) necrocrafts. Though necrocrafts can be of virtually any size and can be made up of undead bodies or parts of any size, a typical Medium specimen is 7 feet tall and weighs 250 pounds.
 
 The details of the ritual to create a necrocraft vary greatly, and depend on the particular undead parts used and the intended size of the resulting creature. The final anatomy of the creation largely depends on the master’s artistry, creativity, and personal preferences-as well as any specific goals it has in mind for the creature. For example, a necrocraft’s “teeth” could actually be dozens of clawed ghoul talons, or its eyes and mouth might be located in its chest rather than in a distinct head.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Necrocraft)
 ```encounter-table
 name: Necrocraft

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ibshaunet
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 58
 desc_short: This nightmarish serpentine creature bears crackling wings of chaotic energy and bristling fins of insubstantial fire.
 ```
-# Description
+## Description
 Ibshaunet proteans are rarely seen engines of destruction.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ibshaunet)
 ```encounter-table
 name: Ibshaunet

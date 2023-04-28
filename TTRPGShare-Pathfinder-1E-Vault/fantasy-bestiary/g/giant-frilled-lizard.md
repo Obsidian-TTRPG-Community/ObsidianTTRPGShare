@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Frilled Lizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 194
 desc_short: This bright-eyed lizard is larger than a horse. As it hisses in anger, a brightly colored frill extends around its neck.
 ```
-# Description
+## Description
 This lizard is a true behemoth-an apex predator found in tropical regions. Many species of giant lizard exist-other species lack this lizard’s intimidating charge special ability but might have other special attacks like grab, trip, constrict (with a bite), or pounce.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Frilled%20Lizard)
 ```encounter-table
 name: Giant Frilled Lizard

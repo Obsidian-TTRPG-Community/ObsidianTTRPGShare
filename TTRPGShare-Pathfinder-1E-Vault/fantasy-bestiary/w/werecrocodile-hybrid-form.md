@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Werecrocodile (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 90
 desc_short: Standing taller than a man, this humanoid figure wears filthcovered rags over its scaly form.
 ```
-# Description
+## Description
 Werecrocodiles merge the ruthless determination of a crocodile with the intelligence and adaptability of a humanoid. This fusion creates a maliciously cunning creature with no doubt of its own martial superiority.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Werecrocodile%20(Hybrid%20Form))
 ```encounter-table
 name: Werecrocodile (Hybrid Form)

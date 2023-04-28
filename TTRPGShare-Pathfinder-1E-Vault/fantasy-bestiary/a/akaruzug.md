@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akaruzug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 82
 desc_short: This stony guardian has been sculpted in the shape of a grim, horned angel, and a crucified corpse has been affixed to its chest.
 ```
-# Description
+## Description
 Akaruzugs are blasphemous constructs coveted by those who revel in the torment of their victims. Crafted in the appearance of grim, towering angels and creatures of warped beauty, these creations stand in mockery of light, life, and all that is good. By their very existence- powered by souls trapped in torment-they spread death and despair.
 
  Most akaruzugs are 15 feet tall or larger, and weigh upward of 3 tons, depending on the materials used in their creation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akaruzug)
 ```encounter-table
 name: Akaruzug

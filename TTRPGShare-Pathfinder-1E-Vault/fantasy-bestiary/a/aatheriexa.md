@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aatheriexa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 7
 desc_short: A tangle of thin, tentacle-like eyestalks floats in the air, its innumerable unblinking eyes each projecting an air of cruelty.
 ```
-# Description
+## Description
 Aatheriexas were once a race of conquerors and slavers, but since the destruction of their homeworld, the survivors have wandered the cosmos. Exceedingly cruel, they find perverse pleasure in tormenting those they capture, using them as disposable bodyguards or subjecting them to sadistic magic experiments.
 
  An aatheriexa’s fleshy pink center is roughly 2 feet in diameter, and features a maw of gnashing teeth. Its grasping eye-tentacles hang down like the leaves of a weeping willow and extend its effective diameter to 5 feet. Aatheriexas weigh approximately 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aatheriexa)
 ```encounter-table
 name: Aatheriexa

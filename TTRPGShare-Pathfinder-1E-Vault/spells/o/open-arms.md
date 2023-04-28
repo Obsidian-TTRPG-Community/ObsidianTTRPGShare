@@ -1,19 +1,21 @@
 ---
-alias: Open Arms
+aliases: [Open Arms]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Open Arms 
+## Open Arms
 
 **source**:: Arcane Anthology pg. 21  
 **school**:: transmutation
 **level**:: arcanist 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 immediate action  
 **components**:: V, S, F (a magical or masterwork melee weapon)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: melee weapon touched  
@@ -21,7 +23,7 @@ alias: Open Arms
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cast this spell in response to a specific cavalier’s challenge (*Pathfinder Roleplaying Game: Advanced Player’s Guide* 32), inquisitor’s judgment (*Advanced Player’s Guide* 38), or smite (such as a paladin’s smite evil) declared against you by an enemy creature. It can also be cast if a creature uses a spell that causes you to qualify as the creature’s favored enemy when you normally wouldn’t, such as *instant enemy* (*Advanced Player’s Guide* 229).  
   

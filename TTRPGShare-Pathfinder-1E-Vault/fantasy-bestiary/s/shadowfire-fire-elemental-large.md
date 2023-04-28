@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadowfire Fire Elemental (Large)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 157
 desc_short: Burning with a wispy blue-and-purple flame, this ghostly creature has a roughly humanoid shape and stands nearly ten feet tall.
 ```
-# Description
+## Description
 Created through rituals that suffused elemental fire with the dark corruption of shadow, shadowfire creatures were spawned from the evil cult led by Yarrix (see page 103). Cruelly transformed from their true forms by their ancient creators, they flicker between existence and nothingness, reality and oblivion, feeding on pain and flame and the screams of those who dare stand against them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadowfire%20Fire%20Elemental%20(Large))
 ```encounter-table
 name: Shadowfire Fire Elemental (Large)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hangman Tree
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 152
 desc_short: This sinister tree looms above a field strewn with bones. Numerous leafy vines, their tips looped into nooses, hang from its branches.
 ```
-# Description
+## Description
 The hangman tree prefers to lie in wait near remote forest tracks and game trails, waiting for victims to wander by. These carnivorous plants are incredibly patient, and can wait for months in a single location for food to approach. When prey does draw near, the tree’s vines lash like striking snakes. The tree often uses its pull ability to hoist grappled foes 10 to 15 feet in the air so that they are out of reach of allies while they slowly strangle. The tree generally only swallows one foe whole at a time, letting its other captured victims dangle and ripen until it is ready to feed on them.
 
 A hangman tree is 30 feet tall and weighs 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hangman%20Tree)
 ```encounter-table
 name: Hangman Tree

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sapphire Jellyfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 155
 desc_short: This tremendous, translucent jellyfish glows with blue internal light, and the water around its bell vibrates with an electrical charge.
 ```
-# Description
+## Description
 Like other giant jellyfish, a sapphire jellyfish is an active hunter. It stores powerful electrical charges in its domelike bell, which is 16 feet in diameter. Its sensory tentacles can trail for twice that length, but the dangerous toxic tentacles are positioned within about 20 feet of the creature’s bell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sapphire%20Jellyfish)
 ```encounter-table
 name: Sapphire Jellyfish

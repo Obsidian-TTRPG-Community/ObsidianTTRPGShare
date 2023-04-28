@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sire Devil (Patraavex)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 59
 desc_short: This fiend is a horrendous amalgamation of snapping claws and writhing tendrils with a disgusting fanged mouth running vertically across its torso.
 ```
-# Description
+## Description
 Patraavexes are the progenitors of many of the Material Plane’s tieflings. Seeking mortals who either want hellspawn children or are willing to bear an infernal taint on their bloodlines in exchange for the devil’s offerings, a sire devil lives to insinuate hell’s influence into the mortal population. Patraavexes use their shapechanging ability as a bargaining chip with potential mates, who put their immediate pleasure above the long-lasting ramifications of corrupting their bloodlines with an infernal taint. Patraavexes may not be completely honest with their targets about the price of their companionship, especially when they hope to introduce tieflings into a population where their appearance would cause a stir. In some cases, sire devils are contracted by mortals to secretly corrupt another person’s bloodline, generally as a means of political and social sabotage.
 
 A typical sire devil is 7 feet tall and weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sire%20Devil%20(Patraavex))
 ```encounter-table
 name: Sire Devil (Patraavex)

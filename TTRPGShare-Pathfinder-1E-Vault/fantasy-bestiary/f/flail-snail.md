@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flail Snail
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 33
 desc_short: This enormous snail has a brightly colored shell and four tentacles on its head, each tipped with a mace-like club.
 ```
-# Description
+## Description
 Flail snails are intelligent gastropods that subsist on fungus, mold, and vermin, though they may attack larger creatures in self-defense. Known for their magic-warping shells and club-like tentacles, flail snails roam slowly through subterranean caverns writing great epics in their slime trails.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flail%20Snail)
 ```encounter-table
 name: Flail Snail

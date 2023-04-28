@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kelpie’s Wrath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 86
 desc_short: The skull of some many-fanged sea monster adorns the bow of this ominous pirate vessel, a grim ship made all the more disturbing by its apparent lack of a crew.
 ```
-# Description
+## Description
 Besmara’s herald is Kelpie’s Wrath, a haunted ship that is a living being. It looks like a storm-battered pirate vessel with the skull and spine of some great sea creature mounted on the prow, with eerie lights f lickering on its deck and streaming from its masts. The ship is the source of many horror tales of abandoned ships found in the ocean or spectral ships crewed by ghosts, but it is actually an independent creature with a malign, vengeful intelligence. On the rare occasions when it comes to the mortal seas at Besmara’s bidding, it usually does so to punish some buccaneer for a horrid blasphemy against the Pirate Queen. Far more often it is left to its own devices, sailing mortal waters, the Ethereal or Astral Planes, or strange dreamrealms in search of plunder, danger, and glory.
 
 The ship’s origins are mysterious and legends about it are contradictory. In some stories it was originally the f lagship of a notorious pirate king who swore to forever serve Besmara, and when he finally died she merged his spirit with his ship so he could continue his service. Other tales tell of a demon-tainted kelpie that grew to a monstrous size and was kept as a beloved pet by the goddess like a mad dog until it was slain by adventurers and resurrected in this form to continue its predations. Still others speak of a devout priest-captain of Besmara who swore to bed no other woman so he could service the goddess in the afterlife, but then fell in love with a girl in a coastal village; according to this tale, the goddess cursed the priest to always roam the sea and never touch land so he would always pine for the love he could not have. The ship does not answer queries about its origin, and if pressed on the matter it has a habit of grabbing its interrogators, diving hundreds of feet under the water, and casually watching them gasp out the last of their air before it tears them limb from limb.
 
 The ship is completely animate and needs no crew- it can tie and release its lines; raise, lower, and adjust its sails; open or close all of its doors; and so on. It moves about foreign objects (such as cargo) using telekinesis, and it sometimes does the same to its rare passengers, slamming doors on hands or throwing people overboard if it feels a lack of respect. Though it has a wheel and rudder, it resists mortal attempts to steer it as if it were a mundane ship- something it considers very disrespectful.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kelpie%E2%80%99s%20Wrath)
 ```encounter-table
 name: Kelpie’s Wrath

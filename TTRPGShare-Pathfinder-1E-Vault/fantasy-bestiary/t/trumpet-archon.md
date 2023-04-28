@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trumpet Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,11 +80,11 @@ sources:
     desc: 21
 desc_short: Lithe and beautiful, with skin the color of marble, this being hovers upon powerful, white wings and radiates a sense of serenity.
 ```
-# Description
+## Description
 Messengers of good deities and mighty celestials, trumpet archons serve as the vanguard of divine armies and rally the legions of heaven to war. When lawful good deities have the need to communicate directly with a group of mortals, they often send trumpet archons to act as their intermediaries. Trumpet archons speak with clear, musical voices. Their otherworldly eyes are white and pupilless.
 
 All trumpet archons carry a gleaming magical trumpet or horn with which they create wondrous music, sound calls to other archons, paralyze enemies, or defend the virtuous. They typically adorn their trumpet with the standard of their liege.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trumpet%20Archon)
 ```encounter-table
 name: Trumpet Archon

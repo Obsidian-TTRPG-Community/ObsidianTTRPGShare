@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wood Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 164
 desc_short: This human-sized automaton resembles a crude humanoid figure made of cast-off pieces of wood.
 ```
-# Description
+## Description
 A wood golem is carved from rare woods, assembled into a roughly humanoid body with articulated limbs. Their creators usually leave their bodies almost unfinished, with individual pieces of lumber and unworked wood apparent and obvious as part of their construction. A wood golem stands 6-1/2 feet tall and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wood%20Golem)
 ```encounter-table
 name: Wood Golem

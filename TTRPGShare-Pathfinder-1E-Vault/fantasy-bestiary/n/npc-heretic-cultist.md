@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Heretic (Cultist)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
   - name: GameMastery Guide
     desc: 278
 ```
-# Description
+## Description
 Cultists are members of secret societies, meeting hooded and masked in dark masses and unspeakable, blasphemous rites. They gather the lay cult members and lead them in their maledictions, channeling for them the shadowed powers of the nether planes.
 
 Cultists can be found leading small cult cells or congregations of a half-dozen farmers, shipmates, bloodthirsty cannibals, or even misguided acolytes (CR 5). A pair of cultists might lead a larger cult of nine doomsayers or initiates (CR 8).
 
 Cultists might also serve as disciples of more powerful spellcasters. A pair of cultists can be acolytes of an evil medium (CR 6), three cultists might be apprenticed to a shaman (CR 7), four could follow a conjurist (CR 8), or up to a dozen cultists might follow a cult leader (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Heretic%20(Cultist))
 ```encounter-table
 name: NPC Heretic (Cultist)

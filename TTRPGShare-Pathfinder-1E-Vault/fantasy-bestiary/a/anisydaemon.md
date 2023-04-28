@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Anisydaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,11 +77,11 @@ sources:
     desc: 84
 desc_short: This fiend has pitch-black, rubbery skin pulled taut over an immense frame. Arms tipped with glistening claws hang past the creature’s knees, and two constantly whispering mouths rest on its eyeless face.
 ```
-# Description
+## Description
 Anisydaemons, or “worry daemons,” represent death by stress and anxiety. Their work can be seen in the artisan who drives herself to death because she fears her work will never be good enough, or through the husband making himself sick wondering if his partner secretly has a lover and analyzing every detail of every interaction until his mind can no longer take the strain.
 
  Anisydaemons average around 14 feet tall and weigh about 1 ton. Occasionally, some anisydaemons reach truly monstrous sizes after coaxing countless victims to their deaths. These fiends often grow additional mouths on other parts of their bodies, such as their hands or torsos, which magnify the power of their psychic whispers. Despite their bulk, those attempting to escape an anisydaemon discover the fiends can squeeze into impossibly small spaces in pursuit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Anisydaemon)
 ```encounter-table
 name: Anisydaemon

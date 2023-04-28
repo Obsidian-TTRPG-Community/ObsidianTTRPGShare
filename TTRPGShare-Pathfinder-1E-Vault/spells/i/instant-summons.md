@@ -1,19 +1,21 @@
 ---
-alias: Instant Summons
+aliases: [Instant Summons]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Instant Summons 
+## Instant Summons
 
 **source**:: PRPG Core Rulebook pg. 301  
 **school**:: conjuration (summoning)
 **level**:: arcanist 7, psychic 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (sapphire worth 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **target**:: one object weighing 10 lbs. or less whose longest dimension is 6 ft. or less  
@@ -21,7 +23,7 @@ alias: Instant Summons
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You call some nonliving item directly to your hand from virtually any location.  
   
@@ -32,4 +34,3 @@ If the item is in the possession of another creature, the spell does not work, b
 The inscription on the gem is invisible. It is also unreadable, except by means of a *read magic* spell, to anyone but you.  
   
 The item can be summoned from another plane, but only if no other creature has claimed ownership of it.
-

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Master Storycrafter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: NPC Codex
     desc: 234
 ```
-# Description
+## Description
 These chroniclers travel with intrepid adventurers to record tales of their exploits.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Master%20Storycrafter)
 ```encounter-table
 name: NPC Master Storycrafter

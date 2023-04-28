@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kamadan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 158
 desc_short: This large leopard has six colorful snakes, hissing and ready to strike, sprouting from its shoulders.
 ```
-# Description
+## Description
 Kamadans are wicked hunters that enjoy stalking and toying with prey, especially when their quarry is relatively intelligent. When a kamadan attacks, it first uses its soporific breath, then pounces on any targets that remain awake. Kamadans stand about 3 feet at the shoulder, about 9 feet long and weighing up to 500 pounds.
 
 Although kamadans are certainly magical creatures, they share many psychological and sociological traits with other big cats. Even when hunting alone to avoid competition, a kamadan is often a member of a larger pride. In areas where wildlife or natives are more powerful, kamadan packs are more likely to hunt as a unit.
@@ -62,7 +64,7 @@ Though the above statistics represent the most common breed of kamadan, two rare
 Dusk Kamadan (CR +1): A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the advanced creature template, and its snakes have a poisonous bite: Snakes-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Con; cure 2 consecutive saves.
 
 Polar Kamadan (CR +2): A polar kamadan has white fur with black spots like a snow leopard. Its snakes are furred as well. A polar kamadan has the advanced creature template and batlike wings that grant it a fly speed of 60 ft. (average). The breath weapon of a polar kamadan is particularly cold-those who succumb to it also suffer 1d4 points of Dexterity damage from numbness.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kamadan)
 ```encounter-table
 name: Kamadan

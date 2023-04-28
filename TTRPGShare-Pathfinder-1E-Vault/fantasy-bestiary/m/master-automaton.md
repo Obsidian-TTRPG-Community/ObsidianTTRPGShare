@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Master Automaton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 26
 desc_short: This construct is covered with elaborate markings. Its arms end in tremendous hooks, and the core in its head glows with light.
 ```
-# Description
+## Description
 Master automatons are the most powerful among their kind. The highest-ranking leaders of the Artificer Conclave reserved these frames for themselves, intent on using their power to keep the rest of the automatons, and the other masters, in check. Most master automatons did not enter combat, instead choosing to serve as strategists and advisors.
 
  While every master automaton is customized to serve the needs of the Conclave, they all command the same basic abilities. Most notable is their ability to detect and destroy automaton cores, an ability developed in case it became necessary to stop rogue automatons. Each master’s frame is created with an arcane resonance that matches that found in automaton cores, allowing a master automaton to destroy and consume a core with ease. An unexpected side effect of this destruction process, however, is that a master absorbs the destroyed core’s energy, which empowers the master.
@@ -84,7 +86,7 @@ Master automatons are the most powerful among their kind. The highest-ranking le
  Today, the masters hide among the planes, mostly in especially remote or dangerous areas. Very few masters remain on Golarion. These masters resurface only when they find leads on a large collection of automaton cores or a particularly powerful automaton, biding their time until the perfect moment to strike. A few masters did not fall prey to avarice, though, and instead serve as advisors to particularly powerful beings, such as great rulers or powerful mages, hoping to steer them away from Jistka’s past mistakes. Others still continue their search for knowledge, exploring the multiverse at their leisure to collect new knowledge and meet new personalities. Of particular note is the master automaton Anquira, who makes it very public that she is on a quest to speak with the other masters in the hopes of piecing together the lost knowledge of automaton creation to help restore the automatons to their original forms.
 
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Master%20Automaton)
 ```encounter-table
 name: Master Automaton

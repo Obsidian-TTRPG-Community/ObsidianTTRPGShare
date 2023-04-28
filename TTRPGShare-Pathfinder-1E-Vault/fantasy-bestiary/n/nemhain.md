@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nemhain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 29
 desc_short: A cloud of translucent humanoid spirits whirls around this ghostly desiccated corpse.
 ```
-# Description
+## Description
 A nemhain is formed when a soul deliberately assumes undead status as a means of protecting a person, object, place, or ideal. Often, a devoted priest or ally volunteers herself and her (often unwitting) kin for transformation into a nemhain in order to continue protecting her home even beyond her death. The blasphemous rituals used to create nemhains are often believed to have been lost.
 
  While most nemhain aspirants are evil to begin with-such individuals are often members of cults worshiping deities of lost or forbidden secrets- occasionally a goodly creature considers protecting a site worthy of a corrupted, tortured existence. Such an act, however well intentioned, is destined to damn her for all eternity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nemhain)
 ```encounter-table
 name: Nemhain

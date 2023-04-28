@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eygreas
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 44
 desc_short: This monstrous, snaked-haired creature has the upper body of a bronze-skinned woman and the lower body of an enormous serpent.
 ```
-# Description
+## Description
 At a young age, Eygreas learned from her mother-a strong-willed medusa by the name of Litiasha-that she was the daughter of a powerful boggard priestking. When the tribe of boggards ambushed Litiasha several years after Eygreas’s birth, demanding that the medusa release her brazen daughter to them to be sacrif iced on an altar to Gogunta, Litiasha barely had time to petrify more than half of the boggard warriors before she was overwhelmed and abducted by them, and sacrif iced in her daughter’s place. Eygreas barely escaped the onslaught; the traumatic event spurred within her a burning hatred for the froglike denizens of the swamp, and so she honed her skill with her bow and devoted her life to hunting the tribe that had killed her kin. After stealthily slaughtering all of the boggards with her arrows and gaze-and thus removing her only driving motivation-she fell into a realm of madness and bitter isolation.
 
 Now, the brazen medusa stalks the Thassilonian ruins that dot the southern Mushfens, seeking some sort of artifact or piece of history that will once again give meaning to her life, all the while butchering any she comes across with little regard to their motives or means. Though her memory is mostly shattered, her skill at hunting remains sharp, and she seeks solace from the chaos of her mind by stalking her prey and feasting on their corpses. Still, though she does not remember why, the sight of the toady people of the swamp enrages her to no end, and the only thing that will stop Eygreas from pursuing her current target is the opportunity to hunt a boggard instead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eygreas)
 ```encounter-table
 name: Eygreas

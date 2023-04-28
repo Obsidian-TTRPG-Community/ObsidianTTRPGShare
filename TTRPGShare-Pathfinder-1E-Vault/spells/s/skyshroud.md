@@ -1,19 +1,21 @@
 ---
-alias: Skyshroud
+aliases: [Skyshroud]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Skyshroud 
+## Skyshroud
 
 **source**:: Heroes of the Darklands pg. 9  
 **school**:: divination (scrying)
 **level**:: arcanist 3, bard 3, cleric 3, oracle 3, skald 3, sorcerer 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, F (a jar of earth from the surface)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level); see text  
 **effect**:: hemisphere that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Skyshroud
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 The caster designates the area of a hemisphere within the spell’s range. If a solid object would block the creation of the hemisphere (such as a ceiling or wall), the spell instead conforms to the geometry of the location up to the maximum area of effect for the spell. The hemisphere displays an image of the sky as it appears directly above where the spell was cast. This effect bypasses natural impediments, such as rock or stone, that would obstruct the targeted location from the sky.  
   

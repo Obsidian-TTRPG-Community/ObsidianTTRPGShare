@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Blood Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 130
 desc_short: A tower of blood in humanoid form sloshes within the clotted surface that holds it in a stable form.
 ```
-# Description
+## Description
 A blood golem is an animate mass of living blood. It can creep about in liquid form like an ooze, or create a thick skin made up of coagulated blood that allows it to walk upright like a person.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Blood%20Golem)
 ```encounter-table
 name: Blood Golem

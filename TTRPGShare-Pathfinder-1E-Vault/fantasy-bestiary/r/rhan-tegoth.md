@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rhan-Tegoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,13 +78,13 @@ sources:
     desc: 146
 desc_short: This six-legged, spiderlike monstrosity has a bloated abdomen and a hideous face from which three bulbous eyes glare.
 ```
-# Description
+## Description
 The strange and silent Great Old One known as the Herald of the End Times has spent most of its existence in hibernation, waking for short periods of time after his worshipers rouse him or as the result of singular cosmic events. These periods of wakefulness never last for long, but ancient texts speak of a time when Rhan-Tegoth shall waken fully from his slumber, heralding the dawn of the end of all worlds. 
 
 While records of Rhan-Tegoth’s waking periods and his activities during those times are rare and unreliable, rumors still persist of certain chants and rituals that are capable of temporarily waking the Great Old One from his slumber. What reasons might exist for stirring Rhan-Tegoth from his sleep can only be guessed at, for the Great Old One will usually simply consume any foolish enough to rouse him from slumber. 
 
 Rhan-Tegoth appears as an aquatic arthropod in shape, yet closer inspection leaves no doubt in the viewer’s mind of the Great Old One’s truly alien nature. His body measures 10 feet from tip to tip, and his legs span 24 feet. The Great Old One weighs 2,000 pounds, but this weight increases to 10 times this amount when he is in statue form. The fact that countless statues of Rhan-Tegoth exist makes it difficult to determine which of them is in fact the actual slumbering god, so care should be taken in proximity of any depiction of the Herald of the End Times.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rhan-Tegoth)
 ```encounter-table
 name: Rhan-Tegoth

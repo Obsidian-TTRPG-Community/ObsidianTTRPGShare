@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Paracletus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 11
 desc_short: A small cluster of shimmering lights floats in the air, orbited by multiple vibrant crystals and gemstones. 
 ```
-# Description
+## Description
 While mortals possess the gift of free will, both logic and emotion influence their decisions. The paracletus serve the aeons as agents who connect with mortals and study the influence of emotions (particularly the dualistic nature of raw emotion) upon mortal behavior. They wander the planes seeking mortals with particularly strong emotional or logical capabilities (characters with high Charisma or Intelligence scores). Once a paracletus locates such a creature, the paracletus remains nearby, studying the target’s relationship with emotional and logical input and choices. Often, the paracletus will use its emotion aura on the target in order to study how outside influences affect the subject. Unfortunately for the target creature, whether or not the paracletus uses a helpful or harmful effect is, for all intents and purposes, a matter of random chance-even though to the paracletus’s complex reasoning, nothing is left to actual random chance. 
 
 If presented the option, a paracletus avoids direct combat, and uses its emotion aura to influence situations. If pressed to defend itself, it flies at opponents, slamming into them and discharging an electrical jolt of energy in addition to buffeting with its crystalline components. The crystals that orbit a paracletus are solidified aspects of logic, while the swirling vapors and lights that make up its central mass are manifestations of raw emotion-when a paracletus is slain, both the crystals and vapors fade away into nothingness. 
@@ -72,7 +74,7 @@ If presented the option, a paracletus avoids direct combat, and uses its emotion
 A paracletus can be chosen as a familiar by a 7th-level neutral spellcaster who has the Improved Familiar feat. A paracletus familiar does not abandon its mission to observe emotions and logic at play, but it does follow its master’s orders-this is one situation where the application of a paracletus’s emotion aura need not be random. 
 
 Although the central mass of a paracletus’s body appears to be made of light and energy, it is in fact solid, and feels strangely like electrified flesh to the touch.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Paracletus)
 ```encounter-table
 name: Paracletus

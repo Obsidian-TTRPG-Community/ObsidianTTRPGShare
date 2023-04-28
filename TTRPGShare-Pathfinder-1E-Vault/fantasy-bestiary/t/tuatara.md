@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tuatara
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: Bestiary 4
     desc: 97
 ```
-# Description
+## Description
 Tuataras are cousins to true lizards. They mostly live on primordial islands where mammals have never established a foothold.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tuatara)
 ```encounter-table
 name: Tuatara

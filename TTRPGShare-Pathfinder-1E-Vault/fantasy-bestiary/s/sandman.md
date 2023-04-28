@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sandman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 236
 desc_short: A whirling cloud of fine desert sand piles up upon itself, forming into the shape of a humanoid figure.
 ```
-# Description
+## Description
 Stealthy and unpredictable, the sandman is a terror to all travelers in the desert, whether they be traders, messengers, or adventurers. When at rest, sandmen resemble ordinary piles of sand, blending in perfectly with barren surroundings or ancient tombs. They rely on their soporific powers in most situations, putting their enemies to sleep and killing their unconscious opponents or dragging them back to their summoner.
 
 Although they themselves are elementals, sandmen don’t typically associate with other elementals, seeing their unquestioning obedience as weak. Sandmen pride themselves as free thinkers, and when given a task by a summoner, often interpret the task as they see fit. Because of their arrogance, usually only the most confident or most desperate mages bother with sandmen. It is not uncommon for sandmen to voluntarily stay on the Material Plane, fiendishly playing with its inhabitants as they wreak silent havoc.
 
 A sandman takes the form of a rough humanoid about 6 feet tall. Its shape is never quite certain, and its animate muscles constantly shift and flex as it pummels its targets. Sandmen can manipulate their bodies in many ways, but prefer to keep their legs and feet in the form of dusty clouds of sand, so as to easily maneuver about in their preferred environments. Some of these creatures pride themselves on their ability to control their shapes. Just as a mortal artist might sculpt incredible works of art from stone with a chisel, so do these artist sandmen sculpt their own bodies into works of art. Some enjoy using this ability to reshape their appearance to mimic that of their conjurer or their enemies, allowing them an additional level of theatrics by either assuming a beautiful form or by allowing their form to melt away in a hideous manner. Given the combination of their quick imaginations and their natural penchant for cruelty, most sandmen tend to opt for the latter method of tormenting their foes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sandman)
 ```encounter-table
 name: Sandman

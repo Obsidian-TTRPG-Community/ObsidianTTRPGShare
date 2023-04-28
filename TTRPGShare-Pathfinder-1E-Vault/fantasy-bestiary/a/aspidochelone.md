@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aspidochelone
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 78
 desc_short: The ground shudders and the seabirds take to wing with piercing cries of alarm. What once appeared to be a small, rocky island reveals itself to be a creature of titanic proportions as an enormous tail lifts ominously from the water. With a thunderous crash, it slams down, sending the island plunging beneath the waves.
 ```
-# Description
+## Description
 A legendary creature of the sea, aspidochelones are eldritch whales of titanic size. When floating near the surface of the water, aspidochelones have frequently been mistaken by desperate sailors for small islands due to the craggy, mottled flesh of their steeply humped backs. Yet, upon tethering their boats to the whale’s tough hide and lighting a fire to ward off the cold, many castaways discover to their horror that the spur of land they have beached upon is in fact an enormous creature. This realization comes too late for many unfortunate souls as the creature plunges beneath the waves, dragging trespassers down with it.
 
 An aspidochelone appears to be a huge whale with an extraordinarily thick, rock-like hide. From tail to snout, the creature generally measures more than 500 feet in length, and weighs upward of 100,000 tons. Few ever see an aspidochelone for what it actually is, however, having only glimpsed the pitted and uneven skin of its topside. As seabirds and other creatures come to rest upon the hibernating creature, they carry with them plant seeds and dirt. Over time, the accumulated plants and wildlife gives an aspidochelone the appearance of a small, densely inhabited island.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aspidochelone)
 ```encounter-table
 name: Aspidochelone

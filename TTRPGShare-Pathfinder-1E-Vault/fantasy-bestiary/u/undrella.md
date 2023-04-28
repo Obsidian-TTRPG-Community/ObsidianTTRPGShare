@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Undrella
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 27
 desc_short: This fierce and feral-looking woman has huge wings and clawed hands and feet, and carries a wicked-looking longbow.
 ```
-# Description
+## Description
 Undrella is something of an anomaly: a harpy who grew so used to living alongside the other monsters in the ruined town of Kelmarane that she remained when a group of heroes from the civilized races moved in and resettled the area. When the region was later plagued by a powerful efreeti named Jhavhul, she found herself thrust from her adopted home and community, and swore bloody vengeance with a fury that only a harpy can muster. Though those events are now in the past, she still wears the scars of the conf lict-both physically and emotionally-and is now nearly as alien to her own kind as she is to all others.
 
 A crack shot with her longbow-enhanced with the powers of frost during her quest for vengeance against the efreeti-Undrella is a terror on the wing, both for her well-placed missiles and her dangerously enchanting song. When confronted in person, Undrella quickly displays the narcissism that defines her personality, and is tolerant of others only so long as they flatter her, while at the same time turning every phrase into a sexual innuendo. As far as she’s concerned, she’s irresistible to creatures of all species, and though she may not kill all of the creatures she mates with, any who dare refuse her are quick to learn that the only thing more dangerous than a harpy’s affection is her wrath.
 
 For more information on Undrella, see the Legacy of Fire Adventure Path.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Undrella)
 ```encounter-table
 name: Undrella

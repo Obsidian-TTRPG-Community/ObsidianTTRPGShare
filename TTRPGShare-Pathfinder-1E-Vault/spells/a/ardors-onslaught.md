@@ -1,19 +1,21 @@
 ---
-alias: Ardor's Onslaught
+aliases: ["Ardor's Onslaught"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ardor's Onslaught 
+## Ardor's Onslaught
 
 **source**:: Planar Adventures pg. 39, Champions of Balance pg. 26  
 **school**:: evocation
 **level**:: cleric 4, inquisitor 4, oracle 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Ardor's Onslaught
 **saving-throw**:: Will partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You unleash the power of zealous conviction to smite your enemies with a burst of pulsing metallic energy. Only creatures with a neutral alignment component are harmed by the spell.  
   

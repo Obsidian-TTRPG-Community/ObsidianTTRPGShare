@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dapsara
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 309
 desc_short: This otherworldly dancer moves with incredible grace. A second pair of ghostly arms complement the motions of her physical arms.
 ```
-# Description
+## Description
 A dapsara is a physical representative of beauty and grace. Each studies one type of music, dance, poetry, or singing, and together they create elaborate performances for Shelyn and the other inhabitants of Nirvana. Some come to the Material Plane to be muses for mortals and still others protect sacred theaters and places of great natural beauty. They prefer to remain hidden, either in gaseous form, invisibly, or both, so they can advise and watch over the mortal world on behalf of the goddess.
 
 A dapsara in her natural form looks like a beautiful humanoid woman (usually an elf or human), sometimes with an unusual skin color such as jade green or sky blue, but she can take the shape of any humanoid or any gender. She typically uses her second pair of arms to play musical instrument or assist some other type of performance, such as holding a sheet of lyrics for a song or manipulating a cloak or dress to look like wings or flowing wind. A dapsara is a mediocre flier and normally only uses her flight to augment a performance or to garner attention. A dapsara can use many kinds of weapons, but prefers to use magic to confound and defeat opponents; in a pinch, she can attack with all four arms.
@@ -74,7 +76,7 @@ A dapsara in her natural form looks like a beautiful humanoid woman (usually an 
 Although these servitors of Shelyn respect and revere art is all of its forms, they especially delight in performance art, song, dance, and other arts of the moment. They delight in the intimacy of sharing beauty with a limited group and knowing that a single masterful performance will never be reproduced in exactly the same way. They will also go far to help servants of Shelyn recover lost works of art, so long as they get to attend the eventual exhibition.
 
 Dapsaras stand about 5-1/2 feet tall and weigh about 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dapsara)
 ```encounter-table
 name: Dapsara

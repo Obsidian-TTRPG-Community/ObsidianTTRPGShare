@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tripurasura
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 24
 desc_short: This tiny monstrosity has the body of a well-muscled man, a crown of frilled horns, and eyes that glow like rubies.
 ```
-# Description
+## Description
 Tripurasuras, or sly ones, are among the weakest asuras, manifestations not of divine mistakes but instead creations of the most powerful of asuras exhibiting their loathing of the gods by creating blasphemous mockeries of their creations. A newly created tripurasura most commonly exists for one of two reasons: to give an asurendra sage the raw materials it needs to create more powerful asuras, or to seek out mortals-especially mortal spellcasters-to recruit into the asura cause.
 
 Using its power to assume a pleasing or innocuous form, a tripurasura wanders the world, seeking pious mortals to corrupt. When it encounters a promising spellcaster (typically one who has some sort of link to a church or religion, but not necessarily a divine spellcaster), the tripurasura presents itself as an apprentice, pilgrim, or other type of curious student eager to learn from the spellcaster. The tripurasura keeps its true nature and its powers hidden, and seeks opportunities to steer its “master” away from decisions it might have made in good conscience to acts that promote the collapse of religious belief, faith, and society. When, as it inevitably does, the wayward spellcaster runs afoul of justice or is confronted by those seeking revenge, the tripurasura fades away to watch the final stage of the spellcaster’s fall from grace, then seeks a new victim in another city or region.
 
 Some spellcasters, on the other hand, actually seek out these tiny fiends to employ as familiars. A tripurasura greatly values these opportunities, since it need not abandon its master once its work is done and can continue to spread its agenda for as long as its master survives. A spellcaster must be lawful evil, at least 7th level, and have the Improved Familiar feat to gain a tripurasura as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tripurasura)
 ```encounter-table
 name: Tripurasura

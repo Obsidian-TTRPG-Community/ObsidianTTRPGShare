@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deeplit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 53
 desc_short: This granite-skinned humanoid stands as tall as a dwarf, though a flickering flame hovers where its head should be.
 ```
-# Description
+## Description
 Deeplits spawn from unfortunate creatures lost underground. Many were dwarves who fell during the Quest for Sky, but miners and explorers may also succumb to similar fates. Deeplits dig through caves and mines, yearning to see sunlight one last time, but are cursed to repeat the same confused paths they followed in life.
 
 Deeplits paradoxically crave the light other undead despise. Thanks to their long exposure to lightless realms, deeplits find bright lights euphoric.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deeplit)
 ```encounter-table
 name: Deeplit

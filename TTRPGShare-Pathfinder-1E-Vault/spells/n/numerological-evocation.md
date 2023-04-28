@@ -1,19 +1,21 @@
 ---
-alias: Numerological Evocation
+aliases: [Numerological Evocation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Numerological Evocation 
+## Numerological Evocation
 
 **source**:: Occult Mysteries pg. 51  
 **school**:: evocation
 **level**:: arcanist 3, magus 3, sorcerer 3, witch 4, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **target**:: see text  
@@ -21,7 +23,7 @@ alias: Numerological Evocation
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You can use the Path of Numbers to calculate the latent magical energies all around you and fire customized rays of elemental energy that damage nearby targets. Roll 1d6 per 2 caster levels you possess. This is your dice pool. You will use each die in the pool exactly once to customize *numerological evocation*. Choose a number of dice in the pool, and match their results to the values in the first column of the Eight Basic Energies table to determine the types of energy damage the spell deals. You can allocate any number of dice in this manner, provided you still have enough dice remaining for the subsequent steps.  
   

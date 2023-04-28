@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Acrididaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 61
 desc_short: This wicked creature has the claws and mandibles of an enormous insect, and its lower body is made entirely of swarming locusts.
 ```
-# Description
+## Description
 Servitors of the Horseman of Famine, acrididaemons travel in sky-darkening swarms that spread abject terror into the hearts of mortals they encounter. Part humanoid and part swarm, acrididaemons devour everything they can.
 
 These roaming terrors call no place home aside from the desolation of Abaddon. They wander the planes ravaging everything in their wake, and quickly abandon their ruined targets, like the parasitic paragons they were created to be.
 
 Acrididaemons delight in the suffering their predations bring. Though they often favor tactics that result in the devastation of whole settlements, it is not uncommon for one of these daemons to take a single creature prisoner. They enjoy slowly starving captives to death in forlorn redoubts where rescue is beyond hope.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Acrididaemon)
 ```encounter-table
 name: Acrididaemon

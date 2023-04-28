@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: House Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 474
 desc_short: The eyes of this purple-scaled dragon glint with a mischievous intelligence and the sting of its tail has a silvery sheen.
 ```
-# Description
+## Description
 The Korvosan house drake is not a true drake, but rather an unusual local variant of the more common pseudodragon-an example of how a creature placed under extreme conditions might adapt and evolve to grow stronger. In this case, house drakes are the result of brutal and violent predations upon their pseudodragon ancestors by Korvosa’s imps, who began to become a true infestation in the early years after the Acadamae was founded and its students began accidently releasing the little devils into the urban wilds after failing to claim them as familiars. These imps found Korvosa’s indigenous pseudodragons to be a delightful (and delicious) population to torment, for there was little that the pseudodragons could do against an imp’s defenses.
 
  It wasn’t long before the most able, wise, and stubborn of the city’s pseudodragons began fighting back, chewing on silver coins to build up traces of the metal in their teeth and stings to be able to penetrate their enemy’s supernatural skin, focusing their studies on magic to see through impish invisibility and recover from the constant fights, and gorging on fat dream spiders to develop a befuddling breath weapon. The evolution of the pseudodragon into the house drake took only a few generations, quickly enough that many scholars suspect the outside influence of a mysterious patron of some supernatural source.
 
  A 7th-level chaotic good spellcaster with the Improved Familiar feat can gain a house drake as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=House%20Drake)
 ```encounter-table
 name: House Drake

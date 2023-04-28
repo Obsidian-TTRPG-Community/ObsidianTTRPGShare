@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Griffon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 202
 desc_short: This majestic beast combines the features of a sleek black eagle and the strong, lean musculature of a panther.
 ```
-# Description
+## Description
 A mythic griffon is a superior specimen-perhaps augmented by magic, blessed by a nature goddess, or the descendant of an exceptional line of mighty griffons dating back to the first of its kind. Stronger and faster than other griffons, it is aware of its superiority (even though it is no more intelligent than a non-mythic griffon) and will only consent to a truly heroic rider who respects it as an equal rather than as a mere steed.
 
 If approached by a suitable rider, a mythic griffon is no more difficult to train than a non-mythic griffon. The eggs of a mythic griffon usually sell for twice as much as those of a common griffon, though there is no way to tell if a particular hatchling is mythic until it is several weeks or months old. Mythic griffons are extremely protective of their mates, eggs, and offspring, and may spend the rest of their lives in the search for vengeance against thieves or murderers- even working with lesser beings as allies or riders.
@@ -59,7 +61,7 @@ If approached by a suitable rider, a mythic griffon is no more difficult to trai
 A mythic griffon who cannot find a suitable griffon mate may consort with unicorns, awakened horses, or mythic horses or unicorns. The offspring of such unions is usually a hippogriff (Pathfinder RPG Bestiary 2 156), but in rare cases is a mythic hippogriff. Because of prejudice against a hippogriff’s animal-level intelligence, a mythic griffon usually leaves its offspring once they are grown.
 
 A mythic griffon can carry up to 400 pounds as a light load, 800 pounds as a medium load, and 1,200 pounds as a heavy load.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Griffon)
 ```encounter-table
 name: Mythic Griffon

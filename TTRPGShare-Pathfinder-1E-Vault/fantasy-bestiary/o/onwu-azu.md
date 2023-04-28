@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Onwu Azu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 63
 desc_short: This oversized piranha bursts from the water, spreading broad fins as it takes to the air to sate its hunger.
 ```
-# Description
+## Description
 Onwu azus are a species of saltwater flying fish that grow to a hefty size and have a taste for the blood of warmblooded animals. They’re similar to giant flying piranha, and their name roughly translates to “flying death” in the dialect of Polyglot spoken along the coasts of the western Mwangi Expanse.
 
 Like salmon, onwu azus are born in rivers and migrate downstream to the ocean during their adolescence. There, they grow to their adult size and develop the ability to swim at incredible speeds and use their wing-like pectoral fins to glide above the waves. Onwu azus return to the river where they were born to reproduce, and die shortly afterward.
@@ -58,7 +60,7 @@ Onwu azus use their glide ability to hunt prey, and although they are capable of
 More than one pirate has been knocked from his ship by a surprise onwu azu attack. Rather than just leaping to take a bite of air-breathing prey, the fish will often bull rush prey on either a coast or ship’s deck, intending to knock it into the waiting mouths of the school below. Shallow inlets and river mouths in the paths of spawning onwu azus are often littered with the remains sailors and explorers who ran afoul of these deadly fish. Adventurers who find treasure in such areas would do well to wonder what killed any corpses lying beside loot and take appropriate precautions.
 
 Onwu azus grow to over 4 feet in length with fin-spans of over 6 feet, and can weigh close to 90 pounds. Their skin is generally dark blue or brown, and their pectoral fins are a scintillating red that shimmers in the sun with a kaleidoscope of colors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Onwu%20Azu)
 ```encounter-table
 name: Onwu Azu

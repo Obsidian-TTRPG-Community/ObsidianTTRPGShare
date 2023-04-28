@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Snake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 59
 desc_short: This scaly blue-green snake skims the surface of the water in a sinuous ballet of muscle and agility.
 ```
-# Description
+## Description
 This nasty water-dwelling creature is a particular bane to fisherfolk in tropical seas, occasionally getting caught up in their nets and striking angrily at unwary sailors as they spill their catch out onto the deck. The sea snake tends to follow schools of fish and pick off stragglers, choosing to hunt smaller prey instead of larger foes and only attacking more formidable enemies if it feels threatened. A sea snake’s anatomy is particularly well adapted to its environment, and its single lung takes up its entire length.
 
 The average sea snake is 4 feet long from tail to head and weighs 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Snake)
 ```encounter-table
 name: Sea Snake

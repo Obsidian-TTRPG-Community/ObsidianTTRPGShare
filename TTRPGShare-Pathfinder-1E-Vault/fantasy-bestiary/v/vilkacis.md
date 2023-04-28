@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vilkacis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 84
 desc_short: Within a swirling mass of frigid air manifests the form of a bestial specter. Claws the size of daggers lash menacingly before its half-bestial, half-humanoid form, and its narrow eyes glow with a smoldering malevolence.
 ```
-# Description
+## Description
 Beings of pure malevolence and destruction, vilkacis arise from the souls of the most desperate and brutal werewolves as spirits burning with the need for bloodshed and vengeance. Specters of savagery escaped from remains tainted by lycanthropy, vilkacis desire to wear mortal f lesh and again revel in the vicious ecstasy of hunting and killing. Some see these beings as malign manifestations of the lycanthropic curse-the spirits of the infamous aff liction itself-while others know them as the deathly continuance of lives consumed by lycanthropy. In either case, these ravenous spirit-beasts seek only to garb themselves in the skins of deadly hunters and revel in bloodshed once more.
 
 Vilkacis typically look like more savage versions of the werewolves they were in life, appearing in their hybrid forms with exaggerated fangs and claws.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vilkacis)
 ```encounter-table
 name: Vilkacis

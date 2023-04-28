@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soul Eater
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 254
 desc_short: Two elongated and deathly pallid arms protrude from this creature’s smoky body as it slithers silently through the air.
 ```
-# Description
+## Description
 Summoned forth from the inky swamps of Abaddon, a soul eater is an extraplanar entity devoid of emotion or reason and possessing a hunger that may only be sated by devouring the souls of the living. The very nature of a soul eater makes it an ideal and terrifyingly efficient tool of death, and it is for this reason they are often conjured by vile spellcasters pursuing morbid agendas. Even when not seeing to the heinous commands of a sinister magic user, the soul eater prowls and hunts, constantly seeking living souls upon which to gorge itself.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soul%20Eater)
 ```encounter-table
 name: Soul Eater

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Feisty Hotspur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: NPC Codex
     desc: 217
 ```
-# Description
+## Description
 Anyone who questions the martial prowess of halflings should keep quiet around feisty hotspurs, as these diminutive bravos excel at poking holes in large people who underestimate them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Feisty%20Hotspur)
 ```encounter-table
 name: NPC Feisty Hotspur

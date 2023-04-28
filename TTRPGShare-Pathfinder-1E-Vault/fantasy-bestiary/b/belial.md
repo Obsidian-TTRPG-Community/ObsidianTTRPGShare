@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Belial
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,11 +81,11 @@ sources:
     desc: 20
 desc_short: One half of this figure’s body is gleaming and beautiful with an angelic wing, while the other is scaled, scarred, and blackened.
 ```
-# Description
+## Description
 Belial, the Pale Kiss, was created by Asmodeus as an object of adoration, a being that would be perfect in form and face in the eyes of every creature. The Prince of Devils granted Belial virtually unlimited malleability of form, enabling them to become whatever and whomever might be most alluring to those the archdevil encountered, along with a boundless imagination to create inspirational art and implements of war. Belial finds equal bliss in pleasure and in pain and revels in the act of creation, whether of innovations in magical or martial fields. The Pale Kiss designs new weapons for the legions of Hell, shapes new manifestations of magic for the minions of devilry to unleash upon foes, and even spawns entirely new races of infernal servitors, though the fiend cares little for creations once birthed, swiftly moving on to new interests. 
 
 Belial’s true natural form is unknown to all but Asmodeus, who has not shared even with Belial the secret of the archdevil’s infernal genesis. The Pale Kiss changes shape almost constantly, at times seemingly without conscious thought. In council with the other lords of Hell, Belial typically appears as a delicately built humanoid between 5 and 6 feet tall with pale skin and hair but burning eyes, with one half of their body shining and angelic and the other as scarred, misshapen, and grotesque as the most hideous malebranche. Their weapons and gear are always finely crafted, though marred where they defaced them in their erratic rages. Belial’s carnal lust is both expansive and insatiable, and they freely shift form, species, and gender when engaging with mortal and immortal lovers across the universe, leaving innumerable halffiends of every description in their wake.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Belial)
 ```encounter-table
 name: Belial

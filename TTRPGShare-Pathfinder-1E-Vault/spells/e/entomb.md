@@ -1,19 +1,21 @@
 ---
-alias: Entomb
+aliases: [Entomb]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Entomb 
+## Entomb
 
 **source**:: Heroes of the Darklands pg. 20  
 **school**:: transmutation (earth)
 **level**:: arcanist 8, druid 8, shaman 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (a pristine geode worth at least 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: up to three 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Entomb
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You designate an aboveground area and send it deep within the earth. During the casting of this spell, the chosen area is rocked by minor tremors that alert nearby creatures to the impending danger. Once the spell is complete, the chosen area is drawn into the earth and buried in a self-contained vault, with the uppermost point at a depth of up to 10 feet per caster level below the surface. The surrounding atmosphere and all creatures within the selected area at the end of the spell’s casting time are entombed in this vault.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hupia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 168
 desc_short: Dressed in filthy rags, this undead woman lacks any facial features. Ragged talons grow from her dirty fingers.
 ```
-# Description
+## Description
 Hupias are drawn to their past lives by a yearning to live again. In trying to return to their previous lives, they seek to fool friends and loved ones with tales of how they were away traveling for a long time or were busy with something else and forgot to tell everyone that they’d be gone. The ruse rarely holds up, and once the loved ones discover the truth, the results are tragic at best. Most hupias are unable to work themselves back into the life they had due to their indistinct memories and lack of understanding that they are actually dead. 
 
 Even though they don’t need to eat, many hupias still ingest the foods they loved when they were living. They seek out their favorites, even wandering into villages in order to procure them. Many hupias from tropical regions, where they are most plentiful, still love the taste of tropical fruits, specifically guava. 
 
 Some groups of hupias form their own communities. These small settlements are typically secluded in deep jungles, well away from where they might be discovered, though they are often within a day’s walk from where many of the hupias resided in life. In these bizarre communities, hupias carry out mundane tasks in perpetuation of the semblance of a settlement, hoping they appear normal to outsiders who might happen by
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hupia)
 ```encounter-table
 name: Hupia

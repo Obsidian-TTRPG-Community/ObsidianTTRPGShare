@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dragonhide Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
     desc: 42
 desc_short: This massive, hunched monstrosity has a hide that appears to be a mix of reptilian scales of various colors.
 ```
-# Description
+## Description
 A dragonhide golem is a terrifying humanoid monstrosity created from the body of a giant with all manner of parts from dragon corpses grafted onto it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dragonhide%20Golem)
 ```encounter-table
 name: Dragonhide Golem

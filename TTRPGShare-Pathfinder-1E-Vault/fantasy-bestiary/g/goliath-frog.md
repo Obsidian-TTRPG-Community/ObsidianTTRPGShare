@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goliath Frog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 117
 desc_short: This massive, mottled amphibian glistens with slime, and its tongue drips with saliva.
 ```
-# Description
+## Description
 These hulking frogs haunt warm marshlands and river shallows where thick undergrowth can conceal them. They are dangerous, aggressive predators that gorge themselves on smaller creatures or team up to bring down larger prey. They often climb to the low branches of ancient, mossy trees, picking off prey from the wetland’s floor before their existence is even suspected.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goliath%20Frog)
 ```encounter-table
 name: Goliath Frog

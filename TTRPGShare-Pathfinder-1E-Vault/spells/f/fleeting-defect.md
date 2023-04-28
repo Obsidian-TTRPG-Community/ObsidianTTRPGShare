@@ -1,19 +1,21 @@
 ---
-alias: Fleeting Defect
+aliases: [Fleeting Defect]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fleeting Defect 
+## Fleeting Defect
 
 **source**:: Black Markets pg. 31  
 **school**:: transmutation
 **level**:: arcanist 2, bard 2, bloodrager 2, magus 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one solid object that does not have the broken condition, or one construct  
@@ -21,7 +23,7 @@ alias: Fleeting Defect
 **saving-throw**:: Fortitude negates (harmless, object), see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause a single object to temporarily gain the broken condition. The target must be a single solid object, regardless of its composition, weighing up to 10 pounds per caster level. Attended objects are allowed a Fortitude save. When this spell ends, the object reverts to its original quality. An item destroyed while under the effects of this spell remains destroyed when this spell ends.  
   

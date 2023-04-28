@@ -1,19 +1,21 @@
 ---
-alias: Create Demiplane, Greater
+aliases: [Create Demiplane, Greater]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Create Demiplane, Greater 
+## Create Demiplane, Greater
 
 **source**:: Ultimate Magic pg. 213  
 **school**:: conjuration (creation)
 **level**:: arcanist 9, cleric 9, oracle 9, psychic 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 6 hours  
 **components**:: V, S, F (a forked metal rod worth at least 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: extradimensional demiplane, up to 20 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Create Demiplane, Greater
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as *create demiplane*, except the area is larger and you can add more features to the plane. You can use this spell to expand a demiplane you created with *lesser create demiplane* or *create demiplane* (you do not need to create an entirely new plane using this spell), in which case it has a duration of 1 day/level. Alternatively, when cast within your demiplane, you may add to your demiplane (or remove from it) one of the following features (or any of the features described in create demiplane) with each casting of the spell, in which case it has an instantaneous duration.  
   

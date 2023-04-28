@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Temple (Priest)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: GameMastery Guide
     desc: 305
 ```
-# Description
+## Description
 A priest is a leader within his church, spreading the faith by any means necessary, even through conversion at swordpoint when argument fails. A priest can be a crusader, warpriest, or divine champion. A priest might be advisor to a noble (CR 10), or travel with a retinue of a dozen temple guards (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Temple%20(Priest))
 ```encounter-table
 name: NPC Temple (Priest)

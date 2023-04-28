@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Holy Archer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 114
 ```
-# Description
+## Description
 Few expect honorable archers to be paladins, since they do not fit the typical image. Other paladins sometimes look down on these archers for shunning close combat, but they care only about efficiency in protecting their flocks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Holy%20Archer)
 ```encounter-table
 name: NPC Holy Archer

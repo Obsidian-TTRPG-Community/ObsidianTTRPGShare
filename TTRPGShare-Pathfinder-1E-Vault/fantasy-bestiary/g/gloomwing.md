@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gloomwing
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 133
 desc_short: This immense moth has huge purple wings marked with spiraling black patterns that seem to shift and writhe.
 ```
-# Description
+## Description
 Gloomwings are strange, moth-like natives of the Plane of Shadow. Despite their appearance, they are not vermin and possess a crude but serviceable intelligence. While gloomwings can be conjured via spells like lesser planar ally or lesser planar binding to serve as guardians or even mounts, occasionally a gloomwing will slip through a tear in the fabric of the planes and make the journey to the Material Plane on its own. A gloomwing loose on the Material Plane is active for 2 to 3 hours at dawn and again for 2 to 3 hours at dusk, preferring to spend the remaining hours of the day hiding in abandoned buildings, caves, or deep canyons or foliage where the shadows are thickest. During its periods of activity, it flies through the sky on the hunt for creatures to attack and implant its eggs in-the gloomwing does not need to eat, leaving this urge to propagate its species as its primary drive.
 
 For all the dangers a gloomwing presents, it is the creature’s young that pose the gravest threat. These creatures are known as tenebrous worms, and despite being the larval form of the adult gloomwing, are much more dangerous creatures. The fact that a gloomwing can lay several eggs a day if presented with enough living hosts makes them dangerous not for what they can inflict themselves, but for what they can spawn.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gloomwing)
 ```encounter-table
 name: Gloomwing

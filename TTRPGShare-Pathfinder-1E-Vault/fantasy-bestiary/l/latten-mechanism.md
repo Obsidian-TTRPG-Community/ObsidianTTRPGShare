@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Latten Mechanism
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 84
 desc_short: This clockwork termite is the size of a rhinoceros and has an oversized head with a humanoid face on it. Multiple apertures along its body sprout tool-wielding limbs, and a human-sized hatch on its abdomen chitters and clicks like a menacing maw.
 ```
-# Description
+## Description
 Latten Mechanism is a defender of constructs and crafters, a living siege engine who prefers the solitude of research and invention to the distractions of battle. Given a massive insectile form to allow it to perform all of its necessary functions, Latten Mechanism’s only humanlike feature is the androgynous face built into the top of its insectile head. Able to tear open castle gates, create iron walls, scoop up enemies and crush them in its body, reshape the very earth it stands on, and form complex objects out of raw materials or thin air, Latten Mechanism is a versatile engine of creation and destruction guided by a mechanical conscience that values constructs as much as it does intelligent living creatures.
 
 The herald sees itself as a protective parent of all constructs, especially intelligent ones, and never uses its powers to destroy artificial beings unless it has no other choice; it prefers to neutralize or sideline these opponents until it has the opportunity to reprogram or repurpose them. Much as a true champion of freedom loathes charm spells for temporarily enslaving a person’s free will, Latten Mechanism believes spells such as control construct are a violation of a sentient construct’s free will, and only uses them as a last resort to peacefully end a threat. When confronted by a dangerous construct in an enemy’s service, Latten Mechanism has been known to render the construct helpless and flee with it, returning to deal with the construct’s master at a later time. The herald is a legend among intelligent constructs, and many come to Brigh’s faith after witnessing or experiencing its generosity and leniency.
@@ -78,7 +80,7 @@ The herald sees itself as a protective parent of all constructs, especially inte
 The herald doesn’t speak in battle, as it prefers to fool its opponents into mistaking it for a mindless clockwork foe. Outside of combat, it’s curious about its allies’ inventions and crafting projects, and it can provide many insights into how the ally might overcome various obstacles to achieve greater successes (although it sometimes needs a few minutes to update its mind with knowledge suitable for the conversation). It can speak equally well out of its termite or humanoid mouth, and sometimes uses both in the same conversation, adding deep emphasis to certain words with its inhuman vocal apparatus. Both voices have a metallic, echoing twang.
 
 The herald’s proper name is Latten Mechanism, although it answers to either part of its name individually, or even if its name is used as a title (“the Latten Mechanism”). Its programming allows it to recognize flattery, insults, and threats, although it doesn’t really understand the motivations for such things. The easiest way to anger it is to treat it like an unfeeling, unthinking machine or suggest that it could be parceled into useful parts (in the same way that a dragon would object to a casual discussion of how its hide could be made into armor).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Latten%20Mechanism)
 ```encounter-table
 name: Latten Mechanism

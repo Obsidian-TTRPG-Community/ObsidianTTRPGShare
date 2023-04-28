@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sailor (First Mate)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: GameMastery Guide
     desc: 295
 ```
-# Description
+## Description
 A first mate is the loyal assistant to a ship’s captain. He oversees duties and discipline aboard ship, feared but always respected; he is able to entertain with a sea shanty one moment and ply his trusty lash or flashing cutlasses the next. A first mate could also be the warden of an exotic island prison. Away from their ships, first mates can be found with a traveling merchant quartermaster (CR 9), or a captain (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sailor%20(First%20Mate))
 ```encounter-table
 name: NPC Sailor (First Mate)

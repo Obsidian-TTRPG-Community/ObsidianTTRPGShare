@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chelarac
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 80
 desc_short: This monstrous creature appears to be an enormous spider with a humanlike head. Sickly blisters holding squirming young cover the creature’s abdomen.
 ```
-# Description
+## Description
 Chelaracs appear as enormous spiders that have a human head with spiderlike mouthparts. They are usually a greenish-yellow hue, and their abdomen is covered in dozens of fluid-filled sacs in which their young gestate. A typical chelarac stands 7 feet tall, has a leg span of 10 feet, and weighs over 800 pounds.
 
  Chelaracs are dangerous monsters that become even more dangerous as the fight goes on. Thankfully, these reclusive creatures live in isolated lairs underground or within ruins far from regular foot traffic. Some adventurers initially mistake chelaracs for araneas, often underestimating their danger.
@@ -64,7 +66,7 @@ Chelaracs appear as enormous spiders that have a human head with spiderlike mout
  A chelarac can choose when to release a broodling and can keep one in its brood sac for an indefinite amount of time. A broodling grows to its young stage and then remains in stasis until the chelarac hatches it or the sac is ruptured. Young chelaracs rarely spend more than a day with their parent before scuttling off into the darkness to find their own lair. Broodlings grow at a surprising rate, reaching full adulthood in a matter of months. Newly hatched broodlings are less reticent to share their stored memories, and strangers can more easily ask these young monsters for information.
 
  An obscure text written by a Darklands alchemist includes a formula to make a substance that can be combined with the blood of a chelarac. The text claims that if the alchemist mixes this substance with the chelarac’s blood and drinks the resulting concoction, the drinker is able to access a wealth of memories that were siphoned and stored in the monster’s mind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chelarac)
 ```encounter-table
 name: Chelarac

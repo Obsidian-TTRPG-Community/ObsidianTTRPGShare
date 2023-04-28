@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vulnudaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 63
 desc_short: A bloody, tooth-filled mouth that looks almost like a horrific gash gasps in the neck of this pale, childlike horror.
 ```
-# Description
+## Description
 These deceptive daemons personify death resulting from murder accented with betrayal. Most often formed from the souls of evil creatures killed by family or friends, vulnudaemons spread their insanity throughout the worlds by deceiving and killing all creatures they meet.
 
 Vulnudaemons stalk their prey, infecting them with a sense of impending doom and watching their reactions, learning their responses before attacking and savoring their death. These daemons serve as excellent assassins, hiding in the shadows before debilitating their enemies, or striking from the protection of invisibility in order to deliver the killing blow. When facing stronger enemies, vulnudaemons seek to wear them down through a series of attacks, nicking at them and darting off, then repeating the process until their opponents bleed out.
@@ -66,7 +68,7 @@ Vulnudaemons stalk their prey, infecting them with a sense of impending doom and
 Vulnudaemons often find themselves called to the Material Plane by cultists of deities associated with murder and assassination. These cultists often see vulnudaemons as sacred creatures favored by their deity, and rather than simply use the daemons as assassins, cultists often grant them a shocking degree of freedom to wander the region as they will, picking victims to fit their own agendas and murdering whomever they wish. Cultists who conjure vulnudaemons into the world usually take care to show the daemons a secret hand sign or other code that members of the cult can show them, lest the monsters decide to target one of the believers for an attack. Whether or not an accidentally targeted cultist has the time to flash her safety sign to the daemon should the creature attack her at a later date is, of course, another matter.
 
 Vulnudaemons stand 3 feet tall and weigh 25 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vulnudaemon)
 ```encounter-table
 name: Vulnudaemon

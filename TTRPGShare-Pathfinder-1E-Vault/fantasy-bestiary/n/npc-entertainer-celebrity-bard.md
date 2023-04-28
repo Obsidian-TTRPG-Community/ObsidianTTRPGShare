@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Entertainer (Celebrity Bard)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: GameMastery Guide
     desc: 273
 ```
-# Description
+## Description
 A celebrity bard is a legendary performer, and the wealthy and powerful clamor for her to grace them with a performance. Celebrity bards often entertain at the request of a queen or general (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Entertainer%20(Celebrity%20Bard))
 ```encounter-table
 name: NPC Entertainer (Celebrity Bard)

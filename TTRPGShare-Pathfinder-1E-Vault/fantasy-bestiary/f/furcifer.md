@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Furcifer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 90
 desc_short: Twisting vines and vibrant flowers grow from the back of this titanic, multicolored reptile. A sickly-sweet scent fills the swirling air around it.
 ```
-# Description
+## Description
 Standing as tall as a house and draped in intoxicating blossoms, the furcifer is a bizarre synthesis of reptile and plant born from enormous surges of positive energy. Despite their inviting, vibrant hides, furcifers are ravenous predators, capable of warping the world around them into almost any placid scene and concealing themselves from ordinary senses. These abilities make them extraordinary ambush predators, and parties of human-sized travelers are easily picked off one by one from above thanks to the clever reptilian hunters’ long, prehensile tongues.
 
  Lazy and patient, these large reptiles sometimes lull whole caravans into complacency, letting them linger in false wonderlands for days or weeks as the furcifer picks off its prey one at a time. Furcifers are cantankerous and stubborn, and dispense with all subtlety to pursue prey relentlessly if it escapes their illusory paradise.
 
  Furcifers on average stand over 15 feet tall and 35 feet long thanks to their long, curled tails. Furcifers weigh up to 6-1/2 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Furcifer)
 ```encounter-table
 name: Furcifer

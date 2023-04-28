@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Bronze Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 104
 desc_short: This sleek dragon is covered in dull metallic scales that range in color from shining bronze to mottled blue.
 ```
-# Description
+## Description
 Bronze dragons have been known to ally with travelers and adventurers if the cause and reward is right and just. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Bronze%20Dragon)
 ```encounter-table
 name: Young Bronze Dragon

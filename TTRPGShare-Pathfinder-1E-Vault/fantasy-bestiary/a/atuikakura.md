@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Atuikakura
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 32
 desc_short: This enormous red wormlike creature has several rows of white spines and a circular mouth filled with hooked teeth.
 ```
-# Description
+## Description
 Atuikakuras are typically content to dwell placidly at the bottom of deep bays or oceans. They are easily startled by large objects and creatures, and enjoy entwining themselves around driftwood and other solid objects and resting there beneath the waterline, which can lead to rare attacks on ships or other surface dwellers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Atuikakura)
 ```encounter-table
 name: Atuikakura

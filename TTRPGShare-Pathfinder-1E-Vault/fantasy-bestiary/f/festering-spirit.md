@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Festering Spirit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 98
 desc_short: This ghostlike creature reeks of the grave and drips with putrescent goo.
 ```
-# Description
+## Description
 A festering spirit arises when a vile person’s corpse is put in a mass grave, or when such a person is buried, exhumed, and placed in a charnel house or ossuary. The lingering hatred and evil of the dead mixes with the worst remnants of dozens of other people, creating a frustrated incorporeal shade of sickness, hate, and rot. Powerful mortals might arise as multiple festering spirits, each spawned from a different aspect of the original creature’s personality.
 
 A festering spirit can’t travel more than a mile from its remains. When left alone for long periods, a festering spirit usually wanders the halls and rooms near its burial site, destroying things, indulging in pranks, or trying to eat and drink anything it finds palatable (which falls through its incorporeal body to no effect). Its senses can barely detect these treats, though some adventurers report that strong alcohol and spicy foods can distract the spirit as it savors these sensations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Festering%20Spirit)
 ```encounter-table
 name: Festering Spirit

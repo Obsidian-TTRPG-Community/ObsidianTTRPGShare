@@ -1,19 +1,21 @@
 ---
-alias: Apparent Master
+aliases: [Apparent Master]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Apparent Master 
+## Apparent Master
 
 **source**:: Guardians of Dragonfall pg. 32  
 **school**:: enchantment
 **level**:: arcanist 5, bard 4, skald 4, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one construct; see text  
@@ -21,7 +23,7 @@ alias: Apparent Master
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This charm makes a construct regard you as its master. The spell only affects mindless constructs that are attuned to the commands of a master, such as animated objects, golems, retrievers, and shield guardians. All constructs with Intelligence scores, even those that explicitly follow the commands of their creator, such as an homunculus, are unaffected. If the construct is currently being threatened or attacked by you or your allies it receives a +5 bonus on its saving throw.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wolliped (Combat Trained)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 90
 desc_short: This shaggy, multi-legged creature has a flattened face with wide nostrils and four eyes. Ivory tusks jut downward from its mouth. 
 ```
-# Description
+## Description
 Believed to be native to the Parapet Mountains, wollipeds were among the first beasts of burden domesticated by Triaxians. Some claim wollipeds weren’t domesticated initially to be working animals, but rather were herded and bred for their extremely warm and plentiful fleece. In any case, Triaxians have a long history of using these magnificent animals for many purposes, even employing them as mounts in battle. A typical wolliped stands between 5 and 6 feet at the front shoulder and weighs upward of 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wolliped%20(Combat%20Trained))
 ```encounter-table
 name: Wolliped (Combat Trained)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warmonger Devil (Levaloch)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
     desc: 60
 desc_short: Armored like an infernal knight upon some monstrous steed, this fiend of iron and nails scuttles upon six bladed, beetle-like legs.
 ```
-# Description
+## Description
 Fearsome giants of steel and blades, levalochs serve the armies of Hell as potent warriors and tenacious hunters. They stand just over 10 feet tall and weigh 1 ton.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warmonger%20Devil%20(Levaloch))
 ```encounter-table
 name: Warmonger Devil (Levaloch)

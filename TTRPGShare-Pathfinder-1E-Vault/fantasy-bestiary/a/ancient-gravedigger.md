@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ancient Gravedigger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: Monster Codex
     desc: 86
 ```
-# Description
+## Description
 Years of digging up graves have given this ancient ghoul an affinity for earth magic. Powerful spellcasting ghouls usually rise to positions of leadership, and in his ghoul city, this gravedigger is a high-ranking member of the ruling elite.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ancient%20Gravedigger)
 ```encounter-table
 name: Ancient Gravedigger

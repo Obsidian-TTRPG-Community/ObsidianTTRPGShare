@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akvan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,7 +77,7 @@ sources:
     desc: 84
 desc_short: Ornate armor covers this hulking creature, rocky protrusions jutting from its hide and fierce horns crowning its broad head.
 ```
-# Description
+## Description
 Akvans number among the most physically powerful and openly destructive servants of Ahriman, directly carrying out his ancient plans for oblivion. Their twisted minds bend toward desolation, ruin, and blasphemy, and their hatred of the gods of creation and beings renowned for inspiring art and wonder knows few equals. Whereas most divs turn their cruelty and vengefulness exclusively upon mortals, akvans broaden the scope of their hatred to encompass geniekind as well.
 
 Akvans seek out wonders to destroy-monuments from lost ages that have long inspired awe and pride or beings and establishments said to be invincible. While divs typically spread their taint through more subtle ways, akvans target symbols for destruction, bringing down not just stone and mortar but hopes and dreams. Additionally, these masters of destruction promote the creation of new horrors, transforming their most hated victims, genies, into nightmares known as ghuls. Thus, an akvan’s evil does not end with its victim’s death, as slain genies arise from the battlefield-or are belched up from an akvan’s gullet-as blasphemous undead servants. These undead minions serve their terrifying master and, over the ages, gather around it as an army of profane slaves.
@@ -83,7 +85,7 @@ Akvans seek out wonders to destroy-monuments from lost ages that have long inspi
 Hatred and hunger for genies and those allied with them constitute the racial compulsion to which all akvans bow. These divs always go out of their way to hunt, destroy, and consume any genie they encounter. While wise enough to not waste their lives in combat against foes obviously more powerful then they, akvans seek to bring low any such opponents, if not by brute strength, then by guile.
 
 Akvans stand approximately 40 feet tall and weigh over 30,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akvan)
 ```encounter-table
 name: Akvan

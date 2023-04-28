@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Death Dealer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: NPC Codex
     desc: 24
 ```
-# Description
+## Description
 These fearsome killers seek to feed their dark gods with the souls of those they slice apart with their powerful scythes-weapons powerful enough to cut through both flesh and spirit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Death%20Dealer)
 ```encounter-table
 name: NPC Death Dealer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tenebrous Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 260
 desc_short: This pallid beast clatters upon dozens of small legs. Writhing bristles twitch on its back, and its shadow seems strangely mobile.
 ```
-# Description
+## Description
 The caterpillar-like tenebrous worm is a voracious predator that hungers for mortal flesh. The tenebrous worm is the larval stage of the gloomwing (see page 133)-but in a strange reversal, these younger creatures are more dangerous than the adults they grow into. A native of the Plane of Shadow, a tenebrous worm hatches from the body of an unfortunate creature that has been implanted with an egg by a gloomwing. The tenebrous worm is fully grown upon hatching, and immediately begins to scour its environs for flesh to consume.
 
 Although the tenebrous worm tends to be relatively pale-colored, its internal organs seethe and roil with shadowy energies and dark fluids. As the creature feeds, these shadowy innards begin to grow out of its body, forming strange bristle-like filaments of semisolid shadowstuff not only capable of piercing the flesh of those who would attack the worm, but also possessing a deadly paralytic poison. Additional shadowy fluids constantly seep from the worm’s mandibles-when it bites prey, these fluids melt flesh into shadows that the creature can then consume. When a tenebrous worm feeds on enough of this shadowy flesh, the creature seeks out a secluded, shady area (typically just within a cave entrance or in a ruined building) and spins a shadowy cocoon around itself. A tenebrous worm’s cocoon exudes the effects of a darkness spell (CL 8th), muting the surrounding light. After a period of several days, the cocoon tears open and a fully grown gloomwing emerges, ready to seek a host for its eggs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tenebrous%20Worm)
 ```encounter-table
 name: Tenebrous Worm

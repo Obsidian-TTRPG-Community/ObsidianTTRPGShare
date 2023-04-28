@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Goblin Snake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 88
 desc_short: A gray, lipless goblin head with serpent’s fangs sits atop the sinuous black body of this greasy-scaled snake.
 ```
-# Description
+## Description
 Tenacious predators and bullies, goblin snakes are shrill, impulsive, and endlessly hungry. When their instinctual cunning takes hold, however, these maniacal creatures exhibit all the stealth and deadly cunning of serpents coupled with the capricious destructiveness of goblins.
 
 Cruel and selfish, goblin snakes care for little more than their next meals and indulging their unfounded arrogance. Like goblins, they can easily eat their body weight in food daily, but goblin snakes are also lazy, and are more likely to settle for easy meals rather than ones they must work to find. As a result, goblins snakes eat almost anything within reach and readily available, from carrion to rubbish (the source of their horrendous and nauseating breath). Goblin snakes delight in fresh meat, but strongly prefer having others bring it to them over hunting and killing it themselves.
@@ -59,7 +61,7 @@ Enjoying the company of snakes, goblin snakes are often accompanied by several s
 Although goblin snakes are not as smart as goblins, their terrifying shape allows them to take positions of inflated prominence within goblin society. Fearful goblins typically defer to the beasts, which well suits the goblin snakes’ innate arrogance and sense of superiority. Goblin snakes affiliated with goblin tribes usually treat their goblin associates as servants at best and slaves at worst.
 
 Goblin snakes share goblins’ fear of horses (who could easily step on and crush an unwary goblin snake) and love of fire (though their lack of arms gives them little opportunity to indulge in arson), but they are not as superstitious as goblins. Goblin snakes eagerly embrace magic if given the opportunity, and it is not uncommon for a goblin snake with adept, cleric, oracle, or sorcerer class levels to serve as a goblin tribe’s shaman or high priest.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Goblin%20Snake)
 ```encounter-table
 name: Goblin Snake

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Saltwater Crocodile
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 85
 desc_short: This crocodile is nearly half again as large as a normal crocodile, and seems to smile with its long, toothed mouth as it lunges forward.
 ```
-# Description
+## Description
 Native to tropical saltwater estuaries and the freshwater rivers that feed them, saltwater crocodiles are among the largest form of non-primordial crocodilian on Golarion. Adult saltwater crocodiles can reach lengths upward of 20 feet and weights of over 2,000 pounds, and are typically more lethargic than their smaller kin, spending their days sunning themselves on land or in shallow water and hunting at night.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Saltwater%20Crocodile)
 ```encounter-table
 name: Saltwater Crocodile

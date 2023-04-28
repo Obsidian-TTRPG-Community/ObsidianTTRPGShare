@@ -1,19 +1,21 @@
 ---
-alias: Weird
+aliases: [Weird]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Weird 
+## Weird
 
 **source**:: PRPG Core Rulebook pg. 369  
 **school**:: illusion (phantasm) (emotion, fear, mind-affecting)
 **level**:: arcanist 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: any number of creatures, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Weird
 **saving-throw**:: Will disbelief, then Fortitude partial; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *phantasmal killer*, except it can affect more than one creature. Only the affected creatures see the phantasmal creatures attacking them, though you see the attackers as shadowy shapes.  
   

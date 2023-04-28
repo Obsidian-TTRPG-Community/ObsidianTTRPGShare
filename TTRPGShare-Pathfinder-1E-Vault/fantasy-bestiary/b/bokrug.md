@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bokrug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,11 +82,11 @@ sources:
     desc: 136
 desc_short: This great reptilian monster is an aquatic lizard with a beard of tentacles and a sting-tipped tail.
 ```
-# Description
+## Description
 Bokrug, the Water Lizard, dwells in a distant and forsaken corner of the Dimension of Dreams, in a land that was once heavily populated but is now a desolate and barren realm surrounding a nameless lake-a realm once ruled by mighty human empires, but now ruled only by the hideous amphibian minions of the Water Lizard. Bokrug himself is a vast creature, a vaguely iguana-shaped monster with a beard of writhing tendrils and a long tail tipped with a stinger. The scales that cover his body hide long spines that Bokrug can extend or retract with near lightning speed.
 
 Bokrug spends the majority of his time slumbering far down in the depths of his submerged lair. No rivers feed the lake, nor does it drain into the sea. Yet the still, ominous waters are neither stale nor brackish, implying that they connect somewhere deep underground, and. By way of these dark, secret waterways, Bokgrug has access to the lakes and rivers of the Dimension of Dreams, and his ability to plane shift allows him access to other realms as he wills.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bokrug)
 ```encounter-table
 name: Bokrug

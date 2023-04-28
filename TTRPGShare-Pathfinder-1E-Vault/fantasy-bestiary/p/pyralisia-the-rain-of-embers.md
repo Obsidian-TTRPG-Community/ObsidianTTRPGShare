@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pyralisia, the Rain of Embers
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 50
 desc_short: This giant ebon bird is streaked in lines of fiery embers and red lightning, clouds of black smoke billowing behind it.
 ```
-# Description
+## Description
 Pyralisia, often called “the Rain of Embers,” was considered one the strongest and most benevolent phoenixes of Avistan in the early years of the Age of Lost Omens. She rose to prominence during the First Mendevian Crusade by leading the charge against a marilith general and her legion of minions. During the Second Crusade, Pyralisia oversaw the erection of several of the wardstones that kept the Worldwound’s demonic hordes contained near the crusader citadel of Drezen. But when an Abyssal rift opened near the wardstone line before the final menhirs were in place, the entire crusade stood on the brink of failure. Without hesitation, Pyralisia threw her body into the yawning chasm, blocking the demons’ escape and using her body to absorb the torrents of tainted fire bursting forth.
 
 Pyralisia’s heroic act was not enough, however, and the dark energy pouring from the rift slew her quickly. When she resurrected from her ashes, the Abyssal flames bonded with Pyralisia and corrupted her, instilling her body with dark, negative energy and trapping the Rain of Embers in a body utterly consumed by evil.
 
 Now, Pyralisia prowls the Worldwound, hunting crusaders and demons alike in her vengeful anger. Phoenixes contend that if she could be killed, Pyralisia’s self-resurrection would cleanse her of this malignancy and restore her true goodness. But so far, few have faced Pyralisia and lived to tell the tale. Those phoenixes that have tried to defeat her found themselves outmatched by the new power of Pyralisia’s black fire, their own flames as useless against her as against any other of their kind. The phoenix Garidor-Pyralisia’s mate prior to her corruption-anxiously watches the roads leading into Mendev, seeking powerful crusaders or adventurers to aid him in destroying his beloved before her perversion becomes permanent.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pyralisia%2C%20the%20Rain%20of%20Embers)
 ```encounter-table
 name: Pyralisia, the Rain of Embers

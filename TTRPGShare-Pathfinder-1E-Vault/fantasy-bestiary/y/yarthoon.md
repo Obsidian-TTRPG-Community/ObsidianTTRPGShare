@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yarthoon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 174
 desc_short: This immense pale blue worm raises one end of its body like a serpent, its many-toothed maw opening amid a ring of glowing eyes.
 ```
-# Description
+## Description
 Yarthoon is among the least powerful of the kaiju, yet even she is of staggering size and capable of unleashing devastation on an apocalyptic scale. Known as the Moon Grub to kaiju scholars, Yarthoon does indeed dwell upon the moon itself, where she spends much of her time in a frozen reach of ice and snow, created, in part, by her presence and the effects of her freezing breath over the course of centuries. (Note that although Yarthoon’s exhalations fill the region with freezing mist, the Moon Grub herself has no need to breathe and can exist comfortably in the vacuum of space.) 
 
 Were Yarthoon content to remain upon the moon, there would be little known about the frozen kaiju; unfortunately, the larger world her home orbits is a constant fascination for her. Indeed, certain events have been known to specifically attract Yarthoon’s attention, whether they’re intentional calls such as powerful rituals led by apocalyptic cultists, or accidental lures that occur when powerful effects of magical cold occur. The exact nature of these attractions varies, and even the most learned scholars argue over what exactly it is that draws Yarthoon to visit the world. None, however, dispute the devastation Yarthoon unleashes, if unintentionally, when she visits the world. Unlike many kaiju, Yarthoon seems not to purposefully seek out civilizations to destroy, but her immense size and her freezing breath wreak havoc nonetheless. Fortunately, Yarthoon’s visits to the world typically last for only a few days before she slithers off into the sky like an eel swimming through water to return to her den on the moon. 
@@ -77,7 +79,7 @@ Yarthoon has a complex relationship with Mogaru, the Final King (Pathfinder RPG 
 Although Yarthoon is the least powerful of the known kaiju, the Moon Grub has been remarkably resilient. Time and time again, Yarthoon has returned after suffering what seemed to be a complete defeat, at either the hands of powerful heroes or the claws and fangs of fellow kaiju. Scholars of these immense monsters have theorized that Yarthoon may not be a unique creature, and that in its hidden lair on the moon, multiple Moon Grubs writhe and dream. Others posit that Yarthoon is but the larval stage of a kaiju, and that while only one may live at any time, numerous other eggs lie in a hidden crèche on the moon, waiting to hatch and release replacement Moon Grubs as needed. 
 
 Yarthoon is 250 feet long from head to tail and weighs 14,000 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yarthoon)
 ```encounter-table
 name: Yarthoon

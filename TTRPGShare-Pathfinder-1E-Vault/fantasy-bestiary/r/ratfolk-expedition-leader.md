@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratfolk Expedition Leader
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
   - name: Monster Codex
     desc: 180
 ```
-# Description
+## Description
 Many nomadic ratfolk take on jobs that require travel.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratfolk%20Expedition%20Leader)
 ```encounter-table
 name: Ratfolk Expedition Leader

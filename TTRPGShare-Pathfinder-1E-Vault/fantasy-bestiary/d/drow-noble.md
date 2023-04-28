@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drow Noble
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 115
 ```
-# Description
+## Description
 Although related to the elves, the drow are a vile and evil cousin at best. Sometimes called dark elves, these cunning creatures prowl the caves and tunnels of the world below, ruling vast subterranean cities through fear and might. Worshiping demons and enslaving most races they encounter, the drow are among the underworld’s most feared and hated denizens.
 
 Drow are shorter and a bit more slender than their surface-dwelling kin, but they are otherwise physically similar. Drow have dark skin, ranging from black to a hazy purple hue. Most drow have white or silver hair and white or red eyes, but other colors are not unheard of.
@@ -76,7 +78,7 @@ Drow are shorter and a bit more slender than their surface-dwelling kin, but the
 Drow society is ruled over by powerful nobility, themselves governed by sadistic and dangerous matriarchs who constantly plot and scheme against rival houses and lesser kin within their own families. The majority of drow are the common soldiers and decadent citizenry, with base stats as presented here-drow nobles are more powerful and dangerous, and are detailed below.
 
 In combat, drow are thoroughly ruthless, with little regard for fairness or mercy. They prefer to attack from ambush or to lure enemies into situations where they clearly have the upper hand. If things turn against them, drow are quick to flee, leaving slaves and minions to cover their escape.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drow%20Noble)
 ```encounter-table
 name: Drow Noble

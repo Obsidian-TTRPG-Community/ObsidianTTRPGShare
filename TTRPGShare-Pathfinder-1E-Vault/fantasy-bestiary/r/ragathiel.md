@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ragathiel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,13 +81,13 @@ sources:
     desc: 114
 desc_short: This towering angelic general has five wings of fire, a flaming bastard sword, and resplendent golden armor.
 ```
-# Description
+## Description
 Ragathiel is the son of the archdevil Dispater (see page 22) and a demigoddess of flame. He rejected his father’s evil, losing his sixth wing to the archdevil’s wrath, and escaped to Heaven, where he spent several millennia attempting to prove himself to the heavenly hosts and the other empyreal lords. Though many empyreal lords still find him far more bloodthirsty than they would prefer, the many centuries have proven Ragathiel’s honor, loyalty, and determination time and again, and the other empyreal lords have come to trust his word completely. 
 
 Now Ragathiel leads the war against Hell as the General of Vengeance. He is not content to plan from the sidelines and allow his forces to succeed or fail on the strength of his strategies alone. Instead, he leads by example from the forefront of his army, a shining figure of golden flame daring any foe to confront him and hewing through the ranks of devils to create a vulnerable area in the otherwise perfect infernal formation where his own armies then strike. Thus far, his strategy has served him well, as the archdevils prefer self-preservation to risking themselves in a direct confrontation with the General of Vengeance-but it won’t take too many more successful forays before Barbatos (see page 18) moves to take decisive action, possibly bolstered by the forces of Ragathiel’s father, Dispater. 
 
 Ragathiel’s domain is a magnificent, towering fortress of steel and silver that stands upon the lower slopes of Heaven. The domain is simply named Ragathiel’s Fortress, as the General of Vengeance has no use for a fancier appellation. There is beauty to be found in the fortress’s design, but it is the sort of beauty and elegance of design and functionality that would be lauded by engineers and military tacticians, rather than artists and poets; Ragathiel specifically built his fortress to withstand a thousand-year siege and prevent ingress into Heaven for that entire duration, even by hosts of enemies that, like most evil outsiders, have access to teleportation magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ragathiel)
 ```encounter-table
 name: Ragathiel

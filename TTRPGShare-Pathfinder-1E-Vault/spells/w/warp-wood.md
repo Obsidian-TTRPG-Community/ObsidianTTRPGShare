@@ -1,19 +1,21 @@
 ---
-alias: Warp Wood
+aliases: [Warp Wood]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Warp Wood 
+## Warp Wood
 
 **source**:: PRPG Core Rulebook pg. 368  
 **school**:: transmutation
 **level**:: druid 2, hunter 2, occultist 2, shaman 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1 Small wooden object/level, all within a 20-ft. radius  
@@ -21,7 +23,7 @@ alias: Warp Wood
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You cause wood to bend and warp, permanently destroying its straightness, form, and strength. A warped door springs open (or becomes stuck, requiring a Strength check to open, at your option). A boat or ship springs a leak. Warped ranged weapons are useless. A warped melee weapon causes a -4 penalty on attack rolls.  
   

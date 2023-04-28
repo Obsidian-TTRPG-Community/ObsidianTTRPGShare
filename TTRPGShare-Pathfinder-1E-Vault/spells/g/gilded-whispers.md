@@ -1,19 +1,21 @@
 ---
-alias: Gilded Whispers
+aliases: [Gilded Whispers]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Gilded Whispers 
+## Gilded Whispers
 
 **source**:: Pathfinder Society Field Guide pg. 57  
 **school**:: divination
 **level**:: arcanist 3, cleric 4, oracle 4, sorcerer 3, warpriest 4, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (100 gp of powdered gemstones)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: a gold or platinum coin  
@@ -21,7 +23,7 @@ alias: Gilded Whispers
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 Developed by priests of Abadar to catch thieves and skimmers, *gilded whispers* later spread to other faiths and was adapted to the arcane arts through the combined efforts of Aram Zey and Kreighton Shaine. Pathfinders most commonly use this spell to track bribes and illicit purchases back to their ultimate source, especially when they suspect the influence of Aspis Consortium agents.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Android Impostor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 46
 desc_short: Intricate tribal tattoos cover the skin of this greataxe-wielding Kellid warrior.
 ```
-# Description
+## Description
 This android has managed to infiltrate a Kellid tribe, and impersonates a barbarian. In battle, he feigns a berserker rage by using his martial skills and Power Attack. Intricate tribal tattoos obscure his circuitry-tattoos, and he takes care to never use his nanite surge in sight of others. Supplies from his disguise kit conceal his pale flesh and metallic irises, and because he knows that open wounds could expose him by revealing the pale color of his blood, he ensures the blood of his enemies coats him first.
 
 The Kellid infiltrator has grown close to his tribe, especially his brothers and sisters in battle. He fears their hurt and rejection as much as their anger should they discover his secret. At the same time, he feels racial solidarity with fellow androids, and does not tolerate antagonism toward his kind. He may work to spread the message of acceptance of androids and other aliens among the generally superstitious and insular Kellids of Numeria.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Android%20Impostor)
 ```encounter-table
 name: NPC Android Impostor

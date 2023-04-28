@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Military (Cavalry)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
   - name: GameMastery Guide
     desc: 287
 ```
-# Description
+## Description
 Cavalry are the pursuit and shock troops of professional armies, relying on speed and reach to savage the flanks of enemy formations while protecting their mounts, or running down and grinding underfoot enemies who become isolated from their fellows. They are also skilled mounted archers, firing volleys of arrows at opposing forces, then riding out of range of return fire.
 
 Cavalry make excellent royal couriers, elite guards for nobility, well-equipped scouts and outriders for an army, or knights errant more interested in gold and glory than chivalry.
 
 A single cavalryman may travel with a squad of six foot soldiers (CR 6) or lead a troop of four caravan guards (CR 7). Cavalry are usually grouped in lances of four (CR 9), often with a guide or knight officer (CR 10). Four or five cavalry might also serve as a mounted honor guard for a mayor, noble, or merchant prince (CR 11 or 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Military%20(Cavalry))
 ```encounter-table
 name: NPC Military (Cavalry)

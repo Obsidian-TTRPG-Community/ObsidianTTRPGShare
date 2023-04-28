@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Remorhaz
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 233
 desc_short: An immense centipede-like beast erupts from the snow, rows of chitinous plates on its back glowing red-hot.
 ```
-# Description
+## Description
 In a world of ice and snow, the remorhaz is particularly feared for the terrible fires that burn within its body. These internal fires cause the armor plates along its back to glow red-hot when the creature is particularly angry, excited, or in pain. Creatures adapted to arctic regions are often particularly vulnerable to fire, making the remorhaz’s primary defense an incredibly potent one and securing its role as a dangerous predator in such frozen reaches.
 
 Remorhazes dwell in extensive warrens carved into the hearts of glaciers. The beasts use their heat to melt tunnels through ice, tunnels whose smooth glassy sides swiftly refreeze in their wake to create uncommonly stable and numerous mazes.
@@ -55,7 +57,7 @@ Remorhazes dwell in extensive warrens carved into the hearts of glaciers. The be
 Although the remorhaz has much in common superficially with lesser vermin, the beast is surprisingly intelligent. While not capable of speech, the typical remorhaz has a good grasp of the Giant tongue, and tribes of giants often use this to their advantage to secure allegiances with the great beasts. Frost giants are particularly obsessed with them, for those giants who brave the cruel and deadly burns a remorhaz can inflict to become “worm friends” gain a potent weapon to use against their enemies-an assassin capable of burrowing up through the floor of a glacial keep to strike directly against a frost giant’s greatest weakness: fire. Other giants use the beasts as living forges, for their backs are hot enough to melt metal.
 
 A remorhaz is 25 feet long and weighs 10,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Remorhaz)
 ```encounter-table
 name: Remorhaz

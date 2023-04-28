@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nochlean
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 84
 desc_short: This gaunt, clawed faerie creature wears simple, homespun clothing and a malicious grin. Its oversized ears stick out from the sides of its head, and it wears its long earlobes like a scarf.
 ```
-# Description
+## Description
 Predatory fey that delight in vandalizing homes, murdering pets, and stealing children, nochleans resemble incredibly thin, gangly humanoids with coarse black hair, large yellow eyes, and wickedly sharp claws. Their most recognizable features, however, are their extraordinary large ears. A nochlean’s earlobes are several feet long, and it usually keeps them wrapped around its neck like a scarf or draped over its hands to conceal its claws from casual notice.
 
  Nochleans enjoy their wicked activities, frequently tittering from the shadows as they plan to raid a home, murder livestock, or lure away a lonely child. Nochleans are bold and crafty schemers who attack only when they feel like they have the advantage. A nochlean’s careful plans evaporate in the presence of music, however, as the notes echoing around in their large ears affect them in erratic ways. Most nochleans flee from any source of music, and many tales tell of lone travelers unknowingly repelling the lurking creatures with casual whistling.
 
  A nochlean stands 5-1/2 feet tall and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nochlean)
 ```encounter-table
 name: Nochlean

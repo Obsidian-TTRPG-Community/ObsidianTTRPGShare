@@ -1,19 +1,21 @@
 ---
-alias: Geb's Hammer
+aliases: ["Geb's Hammer"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Geb's Hammer 
+## Geb's Hammer
 
 **source**:: Inner Sea Magic pg. 55  
 **school**:: necromancy
 **level**:: arcanist 4, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a leather glove coated in dried embalming herbs)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: sphere of undead remains composed of 3 or more destroyed undead  
@@ -21,7 +23,7 @@ alias: Geb's Hammer
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Centuries of war with Nex trained the necromancers of Geb to extract every last resource from the mindless undead that make up most of Geb’s rank-and-file troops.  
   

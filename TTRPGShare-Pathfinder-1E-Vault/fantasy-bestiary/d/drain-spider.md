@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drain Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 477
 desc_short: This brown spider’s body is fist-sized, yet its long, spindly legs and oversized fangs make it appear quite fearsome.
 ```
-# Description
+## Description
 Already a tiny creature, the drain spider has the ability to compress its legs and body even further, allowing it to lurk in pipes, niches, and (its favorite hideout) sink or tub drains with ease. The sewers below Korvosa are infested with drain spiders in certain places. In the wild, drain spiders prefer to hunt in swamps or along river banks, but they have adapted readily to urban life in Korvosa and now infest numerous nooks and crannies in the city’s lowerclass quarters, particularly along the waterfronts.
 
  A variant of the drain spider, known as the shingle spider, exists in Korvosa as well. Shingle spiders dwell in the upper reaches of the city, particularly enjoying the chimneys and gutters of abandoned buildings as a place to make their nests. Shingle spiders retain the drain spider’s water skating ability, although they rarely have the opportunity to use it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drain%20Spider)
 ```encounter-table
 name: Drain Spider

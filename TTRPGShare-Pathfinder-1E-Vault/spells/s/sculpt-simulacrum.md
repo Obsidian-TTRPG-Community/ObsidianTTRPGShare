@@ -1,19 +1,21 @@
 ---
-alias: Sculpt Simulacrum
+aliases: [Sculpt Simulacrum]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sculpt Simulacrum 
+## Sculpt Simulacrum
 
 **source**:: Ultimate Magic pg. 236  
 **school**:: transmutation
 **level**:: arcanist 2, psychic 2, redmantisassassin 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: simulacrum touched  
@@ -21,6 +23,6 @@ alias: Sculpt Simulacrum
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create cosmetic changes to a *simulacrum*, similar to *disguise self*, except the changes are physical rather than illusory. This does not change any of the simulacrum’s abilities.

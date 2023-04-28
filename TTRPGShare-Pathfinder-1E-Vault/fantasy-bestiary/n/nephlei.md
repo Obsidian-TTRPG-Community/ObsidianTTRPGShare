@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nephlei
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 60
 desc_short: A mighty woman of refined beauty hovers in the air, her skin whorled with blue markings.
 ```
-# Description
+## Description
 Often referred to as cloud nymphs, nephleis are outsiders who resemble those fey, but are formidable and inscrutable in their own right. Nephleis are solitary beings who build complex lairs within towering cloud formations on the Plane of Air. A typical nephlei stands 10 feet tall and weighs approximately 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nephlei)
 ```encounter-table
 name: Nephlei

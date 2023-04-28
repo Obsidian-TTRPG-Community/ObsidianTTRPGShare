@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Animate Dream
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 29
 desc_short: This indistinct figure suddenly takes on a nightmarish shape, not quite human or animal or fiend. 
 ```
-# Description
+## Description
 From time to time, when a powerfully imaginative sleeper wakes from a particularly vivid or unusual dream, a fragment of that dream lingers on the Ethereal Plane. To survive, this animate dream needs the power of living will, imagination, and emotion to sustain it. An animate dream seeks out mortal minds, appearing as a shadowy and often frightful dream figure. Its true appearance is vague and nebulous, but it reacts to the fears and emotions of those around it, taking on a nightmarish appearance that differs for each viewer. 
 
 An animate dream can find satisfaction and sustenance by passing one of its ghostly limbs through a mortal’s body-the act infusing the mortal with negative energy that sates the animate dream’s unnatural hunger. But by forcing a creature into a state of sleep, terror, or both, the animate dream can gain a much more satisfying meal, feeding on the emotions released in such states. It uses its spell-like abilities to this end, for each creature it harms with its nightmares, drives temporarily insane with confusion or fear, or outright slays with phantasmal killer provides the monster with more nourishment. An animate dream forced to go for a long period of time without feeding does not starve to death, but does grow increasingly feral and violent in nature. 
 
 Animate dreams sometimes associate with other creatures from the Ethereal Plane or that have associations with dreams and nightmares, such as night hags, phase spiders, and xills. Sometimes these alliances are mutually beneficial, but in many cases the animate dreams are treated as slaves. Night hags in particular like enslaving animate dreams, and sometimes use their essence as a component in creating heartstones.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Animate%20Dream)
 ```encounter-table
 name: Animate Dream

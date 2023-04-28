@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kobold Blade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
   - name: Monster Codex
     desc: 130
 ```
-# Description
+## Description
 Kobold warriors are more prudent than brave. They usually opt to attack from hiding with ranged weapons, and move into melee only when absolutely necessary-such as when the chief doesn’t give them any other option.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kobold%20Blade)
 ```encounter-table
 name: Kobold Blade

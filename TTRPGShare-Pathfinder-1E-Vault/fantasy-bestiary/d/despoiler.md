@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Despoiler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 56
 desc_short: Three spears of obsidian energy skewer this cadaverous figure.
 ```
-# Description
+## Description
 Created from the remains of good clerics, despoilers sometimes guard desecrated sacred sites.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Despoiler)
 ```encounter-table
 name: Despoiler

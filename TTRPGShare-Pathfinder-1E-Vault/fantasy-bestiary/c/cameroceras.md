@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cameroceras
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 49
 desc_short: Emerging from the open end of a long, conical shell, this huge creature’s unblinking eyes peer from above a mass of tentacles.
 ```
-# Description
+## Description
 A primordial ambush predator often found in the depths where sunlight is too dim to support much plant life, the cameroceras is a grave danger to anyone who dares explore the ocean. A cameroceras can survive up to 1 mile beneath the surface, for its shell is strong enough to resist the water’s pressure at such depths, though it cannot survive for long at greater depths. At times, hunger drives these beasts to higher, brighter waters. When a cameroceras enwraps prey in its tentacles, it can pull the helpless creature into its shell while sinking to the sea floor to feed at its leisure.
 
 The average cameroceras is 25 feet long, the majority of which is its long shell. Because much of a cameroceras’s shell is hollow, most specimens weigh only around 2,000 pounds. In addition to its grabbing tentacles, a cameroceras has four specialized tentacles that grant it a keen sense of smell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cameroceras)
 ```encounter-table
 name: Cameroceras

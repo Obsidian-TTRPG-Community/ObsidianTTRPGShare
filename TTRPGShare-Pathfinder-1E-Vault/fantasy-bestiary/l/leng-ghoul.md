@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leng Ghoul
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 120
 desc_short: This semi-canine humanoid has rancid green flesh and hoof like feet, yet its eyes sparkle with the gleam of intelligence.
 ```
-# Description
+## Description
 The ghouls of the nightmare dimension of Leng are far more powerful and more intelligent than their lesser kin that haunt and caper in the lonely graveyards of the Material Plane, yet they are also more prone to discussion and debate with intruders. Ghoul warrens that burrow deep enough can inexplicably cross over from this world to Leng, allowing the ghouls of that realm access to this world. Leng ghouls delight in feasting on dead flesh and consider themselves gourmets of rot and decay, treating a full coffin as a sumptuous banquet table.
 
  Leng ghouls maintain complex societies and extensive warrens when they colonize reaches of the Material Planes, digging deep below the surface graveyards they choose to haunt. These creatures are not only driven to gather victims to slaughter and bodies to ripen-they also seek out forbidden texts and magical scrolls to augment their ever-increasing stores of knowledge, which often rival the greatest of wizardly libraries in size, although their subject matter tends to be limited to necromancy and the study of forbidden rites. A Leng ghoul can sometimes be convinced to let a particularly delicious-looking intruder go (relatively) unharmed in exchange for new lore.
 
  Although most Leng ghouls venerate the Great Old Ones or Outer Gods (they have a particular affinity for Nyarlathotep), a rare few of these creatures retain more of their humanity than merely their living intellect. These unique few drift away from evil in their pursuit of magical lore-while they still hunger for dead flesh, many try their best to feed only on those who died naturally or willingly offer themselves up to the carrion feast in return for favors. While many eventually succumb to the temptation to feed on fresh kills in time, a rare few manage to maintain nonevil alignments. Such rare ghouls also retain some or all of the class levels they had in life, transferring those levels onto their new undead forms. The bulk of these Leng ghouls have levels as arcane spellcasters or rogues, since those who were once divine spellcasters, or otherwise religious in life, tend to be wholly devoted to gods of evil and decay.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leng%20Ghoul)
 ```encounter-table
 name: Leng Ghoul

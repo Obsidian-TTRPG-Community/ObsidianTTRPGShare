@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Karumzek
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 301
 desc_short: This human-sized spider has a red eyes, spindly legs, and cloaklike folds of black flesh that obscure its head.
 ```
-# Description
+## Description
 A karumzek is a specialized servitor of Norgorber-one focused on Blackfingers, the god’s aspect dealing with alchemy, experimentation, and poison. Despite this focus, a karumzek is as fond of murder as a devotee of Father Skinsaw, as covetous of material goods as a follower of the Gray Master, and as careful with secrets as one who worships the Reaper of Reputation. When left to its own devices, a karumzek spends its time crafting poisons, drugs, and other strange concoctions, and is usually armed with several common alchemical weapons-typically acid, alchemist’s fire, smokesticks, and thunderstones.
 
 Karumzeks enjoy working with mortal servants of Norgorber in order to meet their dark deity’s goals. Though karumzeks aren’t decidedly brilliant, their inhuman minds and outsider nature often allow them to devise strategies that a mortal humanoid wouldn’t normally conceive of. They use their miniature spider form to watch their enemies or spy on their rivals’ labs. They also keep to their inconspicuous spider forms to scout ahead when working with groups of cultists, though they quickly revert to their true forms if threatened. Karumzeks enjoy the opportunity to sample concoctions crafted by mortals, slurping and regurgitating drugs and poisons as if noisily sampling a flight of fine wines. Karumzeks have a crude and alien sense of humor, and enjoy making mortals feel uncomfortable or disgusted. They tell foul jokes while in the company of human cultists and put on unnerving performances, such as using vomit swarm and claiming the swarms of spiders are its own pre-sentient young.
 
 A karumzek stands about 5 feet tall and weighs around 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Karumzek)
 ```encounter-table
 name: Karumzek

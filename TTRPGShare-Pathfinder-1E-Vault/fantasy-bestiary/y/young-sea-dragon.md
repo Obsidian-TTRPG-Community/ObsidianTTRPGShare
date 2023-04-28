@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Sea Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 96
 desc_short: The long, undulating body of this serpentine dragon rolls and bends with scales the color of the ocean’s waves.
 ```
-# Description
+## Description
 Infused with the power of waves and storms, sea dragons-or jiaolungs, as they are known in many lands-are draconic protectors of oceans and their creatures. Possessing tempestuous natures, sea dragons wander widely, sometimes claiming thousands of miles of ocean and coastlines as their protectorates.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Sea%20Dragon)
 ```encounter-table
 name: Young Sea Dragon

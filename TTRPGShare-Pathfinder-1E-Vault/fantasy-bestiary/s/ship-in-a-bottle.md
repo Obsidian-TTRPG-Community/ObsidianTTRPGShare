@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ship in a Bottle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 86
 desc_short: A model sailing ship in a display bottle the size of a boot sails the air on vaporous waves. Speckles of water move about the deck like a crew, arming a miniature ballista and preparing to take aim.
 ```
-# Description
+## Description
 A ship in a bottle signifies patience and devotion. Parts are assembled through an obstinate hole to create the illusion of something impossible. The average model maker devotes months of delicate handling and blinding eyestrain to its creation. Most ships in bottles are built by sea captains and modeled after their vessels. As the devotion of a captain to his ship compares to that of a marriage, a ship in a bottle could be seen as the offspring of that relationship. This devotion is palpable well beyond the Material Plane.
 
 Water sprites, tiny elemental spirits from the Plane of Water, see boats as perversions enabling landlubbers’ insistence on venturing where they do not belong. These water spirits commandeer ships in bottles and sail them through the air to chase off the sailors who invade the high seas. Even if the ship in a bottle is destroyed, the water spirit at the helm claims victory, having effectively forced a captain to destroy his offspring.
 
 A ship in a bottle is about 1 foot long and weighs about 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ship%20in%20a%20Bottle)
 ```encounter-table
 name: Ship in a Bottle

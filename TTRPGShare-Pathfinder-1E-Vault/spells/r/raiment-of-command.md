@@ -1,19 +1,21 @@
 ---
-alias: Raiment of Command
+aliases: [Raiment of Command]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Raiment of Command 
+## Raiment of Command
 
 **source**:: Rise of the Runelords Anniversary Edition pg. 418, Pathfinder \#5: Sins of the Saviors pg. 61  
 **school**:: illusion (glamer)
 **level**:: arcanist 2, bard 2, redmantisassassin 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Raiment of Command
 **saving-throw**:: Will
 **spell-resistance**:: No
 
-### Description 
+### Description
 
 You are cloaked in an illusion of authority. Others perceive you to be a legitimate figure of authority, such as a higher-ranking official, a religious figure, or a more powerful warrior. This illusion grants you a +5 bonus on all Diplomacy and Intimidate checks. If you attempt to disguise yourself as a specific authority figure whom you have met in person, you gain a +10 competence bonus on the Disguise check and any Bluff check related to impersonating that authority figure.  
   

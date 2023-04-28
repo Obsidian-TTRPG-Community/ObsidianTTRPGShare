@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flytrap Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 156
 desc_short: This cluster of flytraps has a vaguely humanoid shape. The beady eyes atop the largest flytrap glare menacingly.
 ```
-# Description
+## Description
 Most leshys are peaceful creatures that focus their efforts on tending the natural region around them. While flytrap leshys do not leave their homes to pick fights, they relish the opportunity to attack intruders. These carnivorous plants tend to attack before asking questions. While they rarely work together with other creatures, the aggressive creatures eagerly collaborate with others of their kind. They fight best in teams, and coordinate with each other so seamlessly that a group of f lytrap leshys is nearly indistinguishable from a single creature-an illusion that the similarity between a flytrap leshy’s head and hands only compounds. While a typical flytrap leshy has one head and two hands, more powerful flytrap leshys exist with greater numbers of heads and hands.
 
  Cantankerous flytrap leshys represent the harsh and seemingly cruel aspects of the natural cycle that are ultimately needed for the greater well-being of all creatures. When necessary to protect their homes, flytrap leshys start controlled fires, relying on their fire resistance to wade through the flames.
@@ -69,7 +71,7 @@ Most leshys are peaceful creatures that focus their efforts on tending the natur
  Unlike most of their kind, flytrap leshys eat f lesh and are not picky about the kind of meat that they consume. They particularly savor insects, and one of the few ways to placate a flytrap leshy is to offer it a rare or unusual insect to consume.
 
  A typical flytrap leshy is 2 feet tall and weighs 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flytrap%20Leshy)
 ```encounter-table
 name: Flytrap Leshy

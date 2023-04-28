@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ancient Rift Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 107
 desc_short: This dark-scaled dragon has massive claws, and foul-smelling acid drips from its saber teeth.
 ```
-# Description
+## Description
 Wherever they go, rift dragons leave behind shattered ruins. These scaled terrors often intimidate local humanoid groups into worshiping them as demigods of destruction.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ancient%20Rift%20Dragon)
 ```encounter-table
 name: Ancient Rift Dragon

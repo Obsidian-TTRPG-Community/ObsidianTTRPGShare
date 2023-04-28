@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Glimmerhollow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 88
 desc_short: An acidic tang fills the air of this small, glittering cave. Several extremely sharp formations are as large as a human head.
 ```
-# Description
+## Description
 Travelers on the Plane of Earth or in the Darklands may be familiar with carnivorous crystals-crystalline oozes that prey on living creatures to gruesomely hasten their own reproduction. Less known, even among the greatest planar scholars, is that carnivorous crystals are not the only oozes that hail from the Plane of Earth and gain sustenance from living things.
 
 Unlike their more aggressive cousins, the carnivorous geodes known as glimmerhollows rely entirely on the enticement of rich mineral deposits to attract prey. They still leach minerals from the earth around them for food, but they use some of those minerals to grow wondrous crystal formations. Creatures that lust after such treasures, either for wealth or for food, find that the glimmerhollow relishes the minerals in their bodies above all else.
 
 A mature glimmerhollow can cover the inside of a 10-foot cube and weighs a staggering 100,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Glimmerhollow)
 ```encounter-table
 name: Glimmerhollow

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cinderghost
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 53
 desc_short: In the midst of a swirling cloud of desiccated ashes is the vague shape of a humanoid, with hollow, unblinking eyes that flicker like dying embers.
 ```
-# Description
+## Description
 Native denizens of the Plane of Fire assiduously avoid the many vast, ashen wastes in this realm that are colloquially known as the cinderplains. Those whose foes catch them in such places often beg or bribe their enemies to allow them to battle elsewhere, fearful of the terrible undead that might lurk nearby and the terrible fate that awaits those who fall prey to them.
 
  Called cinderghosts, these monsters arise from intelligent creatures that die in the cinderplains. Cinderghosts largely keep the shapes and features they had in life, and therefore typically look vaguely humanoid, though they appear to be made of ashes with cracks through which sullen flame shows. They often trail long wakes of ashes behind them.
@@ -59,7 +61,7 @@ Native denizens of the Plane of Fire assiduously avoid the many vast, ashen wast
  Cinderghosts’ touch can suck the moisture out of living creatures, turning them into twisted, mummified corpses that easily catch fire. The air around cinderghosts crackles with heat.
 
  Though they rarely speak, cinderghosts seem to retain some intelligence, for they stalk living creatures with malice and determination. They wait until their prey can be caught asleep or unaware and consign their victims to the same fate they suffered.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cinderghost)
 ```encounter-table
 name: Cinderghost

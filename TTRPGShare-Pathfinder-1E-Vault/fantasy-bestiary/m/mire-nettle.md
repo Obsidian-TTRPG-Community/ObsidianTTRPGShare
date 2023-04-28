@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mire Nettle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
     desc: 188
 desc_short: The sawtooth edges of this plant’s glistening, triangular leaves weave around stalks adorned with needlelike spines.
 ```
-# Description
+## Description
 This small, carnivorous stinging nettle commonly grows in mires. It preys mostly on amphibians, fish, and small mammals, though they have been known to attack and kill much larger prey, especially when hunting in groups. Mire nettles are infamous for their hollow, needlelike thorns, which contain a natural toxin that causes extreme pain. While not lethal in and of itself, the pain caused by the toxins is intensely overwhelming. 
 
 Those who are actively on the lookout can attempt a DC 12 Knowledge (nature) check to identify them by their triangular, jagged-edged leaves. 
 
 While most consider mire nettles a nuisance, certain humanoids make use of them. Some cultivate the plants to mark territorial boundaries, while others repurpose the toxic thorns to make blowgun darts or use them in snares or traps. A few tribes incorporate them for rituals in which young members of the tribe must endure hours of pain from the nettle’s toxin as a rite of passage into adulthood. A creature can harvest 1d4 doses of mire nettle toxin from a freshly slain plant with a successful DC 20 Survival check. Mire nettle toxin retains its potency for 6 hours after the plant’s death, but certain alchemical processes (requiring a successful DC 20 Craft [alchemy] check, 30 minutes of work, and the expenditure of 50 gp of reagents per dose) can extend the potency of the toxin to 1 week.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mire%20Nettle)
 ```encounter-table
 name: Mire Nettle

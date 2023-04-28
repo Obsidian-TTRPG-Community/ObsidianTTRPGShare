@@ -1,25 +1,27 @@
 ---
-alias: Sonic Form
+aliases: [Sonic Form]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sonic Form 
+## Sonic Form
 
 **source**:: Advanced Class Guide pg. 193  
 **school**:: transmutation (polymorph) (sonic)
 **level**:: alchemist 6, arcanist 6, bard 6, investigator 6, psychic 6, skald 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a pinch of dust gathered from a gravestone or a sacred shrine)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level
 
-### Description 
+### Description
 
 Upon casting this spell, you keep your relative shape, but you and your equipment are transformed into semisolid sound. While in this sonic form, you take no penalties for squeezing, and you can move through spaces without penalty as if you were a creature three size categories smaller. You can make a melee touch attack once per round that deals 1d6 points of sonic damage + 1 point per caster level. You are considered incorporeal (although you cannot move through solid objects). Any nonmagical attacks you make deal half damage. Magical attacks are unaffected, and you can use your magic items and other equipment as normal.  
   

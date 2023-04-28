@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Owl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 213
 desc_short: This enormous owl has a silent gracefulness and wisdom about it despite its considerable size.
 ```
-# Description
+## Description
 The noble giant owl roosts in the tallest trees or in high caves near its forest home. No mere animals, giant owls pride themselves as intellectuals and keen judges of character. Little passes a giant owl’s notice in its home forest. What it doesn’t observe directly, it learns from its wide network of animal informants. Giant owls view themselves more as watchers than participants, rarely interfering in the affairs of others barring a threat to their homes. Giant owls stand 18 feet tall and have 30-foot wingspans, yet they rarely weigh over 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Owl)
 ```encounter-table
 name: Giant Owl

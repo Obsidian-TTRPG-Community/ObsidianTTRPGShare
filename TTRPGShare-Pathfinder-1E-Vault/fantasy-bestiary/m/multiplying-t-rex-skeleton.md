@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Multiplying T-Rex Skeleton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
   - name: Pathfinder No. 44: Trial of the Beast
     desc: 87
 ```
-# Description
+## Description
 A multiplying skeleton reassembles itself into smaller skeletons when it is destroyed. As these smaller skeletons are themselves destroyed, they continue to multiply into even more skeletons. Once the skeleton’s Hit Dice can no longer be halved or the resulting skeletons would be Tiny or smaller, the skeletons are finally destroyed. Multiplying skeletons can be created using animate dead, but they count as twice their normal number of Hit Dice per casting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Multiplying%20T-Rex%20Skeleton)
 ```encounter-table
 name: Multiplying T-Rex Skeleton

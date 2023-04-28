@@ -1,19 +1,21 @@
 ---
-alias: Bilocation
+aliases: [Bilocation]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Bilocation 
+## Bilocation
 
 **source**:: Occult Adventures pg. 158  
 **school**:: conjuration (creation)
 **level**:: arcanist 9, psychic 8, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one duplicate  
@@ -21,7 +23,7 @@ alias: Bilocation
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 The spell creates an identical copy of you, along with everything you wear and carry, anywhere you choose within range; you exist in two places at once until the spell ends. You and the duplicate use the same statistics and share the same resources. If the duplicate takes damage, for example, you deduct the damage from your hit point total. Similarly, if your duplicate expends a charge or daily use from a magic item you both wield, the charge or daily use is expended from the item you carry. If you or the duplicate drops or gives away something you’re carrying, the item disappears from the other body as well. This spell doesn’t duplicate artifacts; any you possess remain on you.  
   
@@ -34,4 +36,3 @@ The two bodies are affected by attacks, spells, and effects as though they were 
 Any magical effect with a duration affecting you has its duration halved while you’re bilocating. For example, the *hold person* spell mentioned above would lose 2 rounds’ worth of duration per round until your duplicate disappeared. If you were under an *eagle’s splendor* effect that had 1 minute remaining when you cast *bilocation*, the effect would end after 5 rounds instead of 10. An effect shortened in this way lasts a minimum of 1 round total, and if an effect that lasts an odd number of rounds has 1 round remaining, it has its full effect on both of your bodies for that round.  
   
 When the spell ends, you decide whether you or your duplicate disappears. If you disappear, you become your duplicate. If you are carrying artifacts when you do this, they transfer with your consciousness.
-

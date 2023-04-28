@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spine Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 312
 desc_short: This dragon bears a forest of razor-sharp crystalline spines. Its wings are transparent and seem almost to be made of glass.
 ```
-# Description
+## Description
 Particularly notorious in the badlands of Numeria, spine dragons are similar in appearance to true dragons, but do not progress through draconic age categories. Their abilities and defenses make them singularly adept at handling the alien threats and strange constructs that lurk in this realm, and as a result, spine dragons have become one of Numeria’s most successful predators.
 
 Of course, a spine dragon is much more than a predator. As with many true dragons, spine dragons are particularly vain and enjoy being groveled to. It’s not uncommon for them to assume the role of god for ignorant tribes of giants. They also have a particular love of crystalline treasure and magic items-a spine dragon’s horde is usually sparse on the classic “carpet of coins” but just as valuable overall in content as those of true dragons.
 
 A spine dragon is 60 feet long and 20 feet high, and weighs 16,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spine%20Dragon)
 ```encounter-table
 name: Spine Dragon

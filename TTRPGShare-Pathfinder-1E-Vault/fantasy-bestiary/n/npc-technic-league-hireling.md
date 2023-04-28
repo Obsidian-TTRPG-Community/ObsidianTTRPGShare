@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Technic League Hireling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 61
 desc_short: This woman’s once-fine garments are tattered and stained with unnatural fluids, but her protective gear is carefully maintained.
 ```
-# Description
+## Description
 Long experience with the threats of Silver Mount often leaves Technic League members reluctant to risk their own lives in exploration. Rather, when they gain access to a new chamber in the Mount or other trove of lost technology, they sometimes rely on hirelings and specialized slaves. Also called canaries, metal rats, and silver divers, these delvers are valued for their skill but still seen as expendable. While most hire on voluntarily, offering their services in exchange for coin and adventure, some are adventurers who were caught trespassing in the Technic League’s domain, and now pay for their continued existence with this risky form of servitude.
 
 Hirelings are searched for any sign of contraband whenever they exit the Mount. Attempts to hide technology bring harsh, public punishment as a warning to others. The Technic League secretly implants tracking devices in most metal rats to prevent them from escaping with technological secrets, attributing the scar to injections given to protect against exotic plagues and poisons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Technic%20League%20Hireling)
 ```encounter-table
 name: NPC Technic League Hireling

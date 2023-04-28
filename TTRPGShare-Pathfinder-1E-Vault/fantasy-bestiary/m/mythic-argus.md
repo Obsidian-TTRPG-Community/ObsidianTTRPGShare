@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Argus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 13
 desc_short: This misshapen giant is covered in horns, tumorous tentacles, unsightly warts, and strange, staring eyes.
 ```
-# Description
+## Description
 An argus is an ancient creature related to the titans (Pathfinder RPG Bestiary 2 266-267), transformed by a deity into a vigilant and restless sentry, usually as a punishment for some affront or rebellion. Within its hideous and misshapen body lies a lonely heart that craves music and beauty to comfort it in its forlorn and unending vigil. It might talk peaceably with visitors if they promise to sing songs or tell stories (and it believes its guests don’t intend to harm it or steal what it guards). If insulted or mocked, an argus is quick to anger, dispatching foes so it can go back to brooding in peace.
 
 An argus stands 25 feet tall and weighs 18,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Argus)
 ```encounter-table
 name: Mythic Argus

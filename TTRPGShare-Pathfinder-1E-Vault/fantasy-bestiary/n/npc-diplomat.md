@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Diplomat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
   - name: NPC Codex
     desc: 253
 ```
-# Description
+## Description
 Exposed since birth to the contentious relationships between disparate races and nationalities, the diplomat found her calling in resolving the differences of others. Her half-elven lifespan means she has dealt with three or more generations of human nobility in various countries and is well versed in evolving etiquette. Slow-burning feuds and several attempts on her life have made her cautious and patient in her work.
 
 Some of her remaining wealth is in the form of jewelry appropriate to her station (worth approximately 50 gp).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Diplomat)
 ```encounter-table
 name: NPC Diplomat

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mandragora
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 84
 desc_short: This filthy creature resembles a small, wide-mouthed fat child made from leaves, vines, tree bark, dirt, and pallid tubers.
 ```
-# Description
+## Description
 A mandragora rises spontaneously from a mandrake root that has drawn nutrition from the corpse or ichor of a demon. A typical mandragora stands at just over 3 feet tall and only weighs 30 pounds. However, its size hides the creature’s fantastic strength and brutality. When a mandragora attacks, its fingers grow into whipping, thorny vines nearly 10 feet long, with which it makes its slam attacks.
 
 A mandragora rarely strays far from its lair amid tangled roots or vines, but when it encounters any other creature, it attacks regardless of the odds. However, a mandragora can usually recognize druids and does not attack them or their animal companions unless they attack it first. It has no qualms about attacking a druid’s allies.
@@ -65,7 +67,7 @@ A mandragora rarely strays far from its lair amid tangled roots or vines, but wh
 When mandragora poison is mixed with its thick, gooey, sap-like blood and 1,000 gp worth of alchemical reagents, the resulting fluid can be used as a focus for the scrying spell. The fluid only lasts for the duration of the spell’s casting time and resulting effects but the subject of the spell takes a -4 penalty on the save to resist it.
 
 A mandrake root that is growing on or near a demon’s corpse or ichor has a 2% chance of awakening as a mandragora within a day of first absorbing the tainted material. A creature that wants to create a mandragora can do so with alchemy; the process requires a day of work, a mandrake root, several pints of ichor or the body of a demon of CR 6 or above, and a successful DC 25 Craft (alchemy) check. The newly created mandragora is hostile, even to its creator.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mandragora)
 ```encounter-table
 name: Mandragora

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elasmosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
     desc: 84
 desc_short: Long-necked and long-tailed, this large, predatory reptile glides through the water on four powerful flippers.
 ```
-# Description
+## Description
 The sleek elasmosaurus is a long-necked, aquatic reptile. Although not technically a dinosaur, they and their kind are often found hunting in oceans and lakes in areas where dinosaurs are more common. You can create statistics for smaller, similar aquatic reptiles (such as the pleisosaurus) by applying the young simple template to the statistics presented above. An elasmosaurus is 45 feet long and weighs 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elasmosaurus)
 ```encounter-table
 name: Elasmosaurus

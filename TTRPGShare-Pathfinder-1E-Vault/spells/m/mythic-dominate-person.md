@@ -1,19 +1,21 @@
 ---
-alias: Mythic Dominate Person
+aliases: [Mythic Dominate Person]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Dominate Person
+## Mythic Dominate Person
 
 **source**:: Mythic Adventures pg. 92  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 5, bard 4, mesmerist 4, occultist 5, psychic 5, shaman 5, skald 4, sorcerer 5, spiritualist 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one humanoid  
@@ -21,7 +23,7 @@ alias: Mythic Dominate Person
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the subject's mind.  
   

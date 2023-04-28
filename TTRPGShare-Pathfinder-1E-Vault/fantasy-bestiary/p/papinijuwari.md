@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Papinijuwari
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 188
 desc_short: This imposing one-eyed giant wears fragments of crude armor and a breechcloth adorned with skulls. Its breath reeks of pestilence.
 ```
-# Description
+## Description
 Racing across the skies and preying on diseased humanoids of all kinds, the merciless, cyclopean papinijuwaris are the hated cousins of cloud giants. Even evil cloud giants regard papinijuwaris with disdain, as their hunting practices offend the more “refined” giants’ delicate sensibilities.
 
  Papinijuwaris are agents of death and pestilence, feeding off of the suffering they help to spread. In some humanoid cultures, the sight of a shooting star heralds the arrival of the dreaded papinijuwaris, who invisibly stalk through settlements at night, hastening the progression of diseases.
 
  A full-grown papinijuwari stands about 20 feet tall and weighs nearly 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Papinijuwari)
 ```encounter-table
 name: Papinijuwari

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cyclops
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 52
 desc_short: A single huge eye stares from the forehead of this nine-foot-tall giant. Below this sole orb, an even larger mouth gapes like a cave.
 ```
-# Description
+## Description
 Many thousands of years ago, the solemn cyclopes ruled vast kingdoms, yet today their glories are long forgotten. What few cyclopes survive seldom aspire higher than protecting their lairs and seeking out their next meals. This latter task occupies a great deal of their focus, for the monstrous appetites and vacuous hunger of the cyclopes control the race’s destiny and may have led to their original downfall so long ago.
 
 The average cyclops stands 9 feet tall and weighs 600 pounds. Both males and females are almost completely bald, with stringy patches of dark hair occasionally hanging down from above the ears. A bushy, expressive brow couples with a cyclops’s massive eye to make the creature’s attitude easily known.
@@ -59,7 +61,7 @@ The average cyclops stands 9 feet tall and weighs 600 pounds. Both males and fem
 Cyclopean history is a vanishing thing inscribed on the crumbling walls of vine-choked lost cities that fell long before even the rise of the elves, when dragons and giants ruled a landscape unspoiled by the petty ephemeral races that rule today. Because things have fallen so far, a given cyclops is less likely to know the near-mythic triumphs of lost ages than even a semi-educated human.
 
 Ancient records, the oral traditions of other giantish races, and the scattered accounts of tribal natives of the southern jungles speak of much larger, more primal “great cyclopes,” imposing titans with shaggy legs and a massive horn above an inquisitive eye. These creatures are thought to have been either the leaders or the war beasts of the ancient race, and modern cyclopes honor them as elusive, destructive living gods.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cyclops)
 ```encounter-table
 name: Cyclops

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Quickwood
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 228
 desc_short: Were it not for the image of a sinister face peeking out from its dark gray bark, this would look like any other ragged oak tree.
 ```
-# Description
+## Description
 These carnivorous plants prize human and elven flesh, but eat anything they manage to catch. Quickwoods typically explore an area, taking note of any oak trees, and then root themselves and wait for prey to wander by. They use their oaksight ability to maintain constant surveillance of their hunting grounds and send their roots out to drag likely prey back to them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Quickwood)
 ```encounter-table
 name: Quickwood

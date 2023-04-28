@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Seahorse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 234
 desc_short: This sea creature resembles a cross between fish and horse; it has small fins on its flanks and a gracefully curled tail.
 ```
-# Description
+## Description
 Giant seahorses are bear-sized versions of the common, harmless seahorse. Naturally docile and skittish, seahorses are easily trained to be mounts but are difficult to train for combat. They provide a smoother but slower ride than sharks or hippocampi.
 
 A giant seahorse is considered a quadruped for the purpose of carrying capacity. A light load for a giant seahorse is up to 500 pounds, a medium load is 1,000 pounds, and a heavy load is 1,600 pounds. It can drag 8,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Seahorse)
 ```encounter-table
 name: Giant Seahorse

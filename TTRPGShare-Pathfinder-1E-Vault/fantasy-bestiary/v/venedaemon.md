@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Venedaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,11 +79,11 @@ sources:
     desc: 60
 desc_short: Tentacles protrude from the robes of this floating hooded figure in place of arms and legs. Its face is a disturbing, toothless maw.
 ```
-# Description
+## Description
 The venedaemon personifies death by magic, and so has an inborn talent for all manner of sorcery. Though as hungry for souls as any other member of its daemonic kin, the venedaemon thirsts equally for intangible wealth through the acquisition of knowledge. 
 
 Venedaemons are gaunt, and despite standing close to 7 feet tall, they rarely weigh more than 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Venedaemon)
 ```encounter-table
 name: Venedaemon

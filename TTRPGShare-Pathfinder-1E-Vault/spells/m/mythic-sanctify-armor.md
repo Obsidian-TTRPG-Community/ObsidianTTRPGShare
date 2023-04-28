@@ -1,19 +1,21 @@
 ---
-alias: Mythic Sanctify Armor
+aliases: [Mythic Sanctify Armor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Sanctify Armor
+## Mythic Sanctify Armor
 
 **source**:: Mythic Adventures pg. 106  
 **school**:: abjuration (good)
 **level**:: inquisitor 4, paladin 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: armor touched  
@@ -21,7 +23,7 @@ alias: Mythic Sanctify Armor
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5/evil.  
   

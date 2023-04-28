@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nymph
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
     desc: 217
 desc_short: A delicate figure rises from the water, her long ears tapering to points above her head, her beauty painful in its perfection.
 ```
-# Description
+## Description
 Many have lost their lives in vain search of the beauty of the nymph, and many more to the madness and obsession their grace has upon minds and bodies unprepared for their companionship. Yet the nymph herself is not a cruel creature-a guardian of nature’s purest places and most beautiful realms, she treats those who respect her and her abode with kindness, and may even favor someone who takes her fancy with magical gifts. Yet those who would seek to abuse or harm her or her home quickly find that behind her beauty is a fierce protector more than capable of defending her charge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nymph)
 ```encounter-table
 name: Nymph

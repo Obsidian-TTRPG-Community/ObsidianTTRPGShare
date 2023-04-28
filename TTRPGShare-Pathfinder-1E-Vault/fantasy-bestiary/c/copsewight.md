@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Copsewight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 80
 desc_short: The twisted, leafless branches of this dead tree still bear bright red fruit, each one shriveled and covered in splotches of black rot.
 ```
-# Description
+## Description
 Many cultures believe that all of nature is alive, animated by a spiritual force that flows through plants and animals alike. This leads to the concept that all things are connected, and that imbalances in nature are at the heart of the greatest environmental disasters, especially when those imbalances are caused by the carelessness or cruelty of civilized races. Whatever their source, some imbalances lead to the creation of even greater horrors, like the blighted copsewight.
 
 Copsewights are formed from trees that died of magical or supernatural blight. They appear to be normal dead trees, except for the bright red fruits that seem to be rotting where they hang on the tree’s branches. Copsewights have an instinctual intelligence and try to maintain the appearance of being nothing more than dead trees until their victims are within reach.
 
 A copsewight is 30 feet tall and weighs 12,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Copsewight)
 ```encounter-table
 name: Copsewight

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thoqqua
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 262
 desc_short: This creature’s thick, serpentine body is protected by dense, horny plates. A visible haze of heat rises from its red-hot scales.
 ```
-# Description
+## Description
 Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, even solid rock. Thoqquas are native to the vast ash deserts and lava fields where the Plane of Fire abuts the Plane of Earth. There they consume ore and minerals, which their furnace-like bodies then smelt into armor plates that grant the creatures their natural armor-as outsiders, these creatures have no need to eat to survive, but a “starving” thoqqua generally has a lower natural armor bonus than a healthy one.
 
 A thoqqua’s frontmost body segment tapers into a straight, horn-like beak that glows with a blistering heat. Steam and smoke constantly hiss from its joints, and from a distance a thoqqua can be mistaken for a strange metallic construct. Adult thoqquas are 5 feet long and weigh 200 pounds.
@@ -56,7 +58,7 @@ A thoqqua’s frontmost body segment tapers into a straight, horn-like beak that
 Their fiery tempers make thoqquas dangerous to approach-they attack without thinking when startled or frustrated. If a thoqqua does not immediately chase away humanoids within its territory, then it gradually comes to view that settlement as property, and even guards it.
 
 Mephits seem to understand the thoqqua thought process, and occasionally broker deals with the simple-minded worms. The mephits say that the mountain-sized ancestors of modern thoqquas were servants of the elemental lords, and dug the first volcanoes in the young worlds of the Material Plane. These progenitor worms then retired to the worlds’ cores, where their heat warms the planets even today. Thoqquas on the Material Plane do indeed congregate around volcanoes-though whether this is to protect a mineral-rich food site or a sacred place is unknown.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thoqqua)
 ```encounter-table
 name: Thoqqua

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Prayer
+aliases: [Mythic Prayer]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Prayer
+## Mythic Prayer
 
 **source**:: Mythic Adventures pg. 104  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: cleric 3, inquisitor 3, oracle 3, paladin 3, warpriest 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 40 ft.  
 **area**:: all allies and foes within a 40-ft.-radius burst centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Prayer
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a -1 penalty on such rolls.
 

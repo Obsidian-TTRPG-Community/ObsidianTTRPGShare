@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tundra Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 45
 desc_short: This churning mound of snow-like material has several large red eyes and four tentacles tipped with icy stingers.
 ```
-# Description
+## Description
 Tundra blights dwell in the frozen reaches of the world, bringing their freezing domains to borderland settlements. 
 
 Tundra blights are 7 feet across and weight 450 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tundra%20Blight)
 ```encounter-table
 name: Tundra Blight

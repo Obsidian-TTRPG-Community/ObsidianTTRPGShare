@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Centaur Charger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 9
 desc_short: An imposing wall of steel, corded muscle, and blood-stained banners, this centaur wields a lance and shield with the majesty and prowess of any human knight.
 ```
-# Description
+## Description
 At the forefront of any centaur army, these idolized warriors epitomize centaur efficacy and glory on the battlefield. When centaurs demand that a conflict be settled by a trial of champions, they select a charger as their champion more often than not. Galloping on ironclad hooves, these shock troops blast into their enemies and trample foes in a spray of crimson gore-a gruesome display that’s enough to slake almost anyone’s thirst for violence. Even young colts and fillies play at being these heroes and leaders during their childhood games. Their prowess is legendary, clans sing of their deeds, and their funeral pyres burn the brightest.
 
  The relative rarity of steel tools among centaurs-with most tribes reluctant to settle down long enough to mine, smelt, or forge metal goods-speaks to the prestige afforded to chargers. Theirs is a lifestyle almost entirely dependant on the settled races they so often clash against. Many chargers depend on elven communities to outfit them, in exchange for using their martial skills to protect a settlement, hunt a menacing beast, or serve short terms as escorts or-most humiliatingly-mounts. Rarer but more terrifying are chargers outfitted by dwarves, who hone their combat skills in dwarven surface wars against orcs and giants.
 
  These warriors also serve their tribes as advisors. While they lack the skills to effectively lead in peacetime, they may assume control temporarily and without question when outside threats press into centaur lands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Centaur%20Charger)
 ```encounter-table
 name: Centaur Charger

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Seer (Medium)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
   - name: GameMastery Guide
     desc: 299
 ```
-# Description
+## Description
 augury, speak with dead, or gentle repose at no charge, or magical healing at a 10% discount.
 
 A medium is a speaker who bridges the worlds of the living and the dead. She proclaims rest and blesses gravesites, ushering in birth and consigning the dead to the ground, yet it is also her seance that recalls the shades of the lost and ensures the continuity of a community’s past, present, and future.
@@ -62,7 +64,7 @@ A medium is a speaker who bridges the worlds of the living and the dead. She pro
 A medium could be a village priestess or wise woman, or can simply be used as a generic wandering cleric, or one of many low-to-mid-level priests staff ing a temple.
 
 A medium might be accompanied by two acolytes or a doomsayer (CR 5), or two cultists (CR 6). A medium and hedge wizard (CR 6), hermit (CR 7), or conjurist (CR 7) could preside over a forest oracle or be traveling mendicant mystics. A medium and two acolytes might accompany a priest (CR 9), while five or six mediums could form the entourage for a saint (CR 12) or high priest (CR 13).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Seer%20(Medium))
 ```encounter-table
 name: NPC Seer (Medium)

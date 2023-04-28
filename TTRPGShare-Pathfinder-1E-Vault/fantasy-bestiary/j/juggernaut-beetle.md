@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Juggernaut Beetle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 52
 desc_short: This massive insect lumbers ominously, waving scythe-like mandibles that reek of acid.
 ```
-# Description
+## Description
 One duergar steers a juggernaut while two riders attack.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Juggernaut%20Beetle)
 ```encounter-table
 name: Juggernaut Beetle

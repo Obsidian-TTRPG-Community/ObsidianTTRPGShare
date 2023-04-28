@@ -1,25 +1,27 @@
 ---
-alias: Mythic Harrowing
+aliases: [Mythic Harrowing]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Harrowing
+## Mythic Harrowing
 
 **source**:: Mythic Origins pg. 12  
 **school**:: divination
 **level**:: arcanist 3, bard 3, shaman 3, skald 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (a Harrow deck)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
 **duration**:: 1 day/level or until fulfilled
 
-### Description 
+### Description
 
 You use a Harrow deck to tell a fortune for yourself or someone else. If you cast *harrowing* on another creature, you must remain adjacent to the target for the duration of the casting time. A harrowing must describe one set of events or course of action (for example, “hunting down the pirate king,” or “traveling to Viperwall to search for a magic sword”) that the target of the spell intends to undertake at some point during the spell’s duration.  
   

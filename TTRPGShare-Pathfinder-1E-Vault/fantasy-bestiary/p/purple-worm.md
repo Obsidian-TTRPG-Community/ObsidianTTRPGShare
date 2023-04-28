@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Purple Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,7 +47,7 @@ sources:
     desc: 230
 desc_short: This enormous worm is covered with dark purple plates of chitinous armor. Its giant, tooth-filled mouth is the size of an ox.
 ```
-# Description
+## Description
 Purple worms are giant scavengers that inhabit the deepest regions of the world, consuming any organic material that they encounter. They are notorious for swallowing their prey whole. It is not uncommon to hear of a group of adventurers vanishing down the ravenous maw of a purple worm, screaming as they disappear one by one.
 
 Although they seek to consume living creatures, purple worms also consume vast amounts of dirt and minerals as they burrow underground. The insides of a purple worm may contain a considerable number of gemstones and other items able to withstand the corrosive acid inside its gullet. In areas filled with valuable minerals, such as those near dwarven mines, the natural tunnels created by burrowing purple worms are often filled with vast amounts of unrefined ores.
@@ -53,7 +55,7 @@ Although they seek to consume living creatures, purple worms also consume vast a
 A purple worm usually claims a large underground cavern as its den, and while it returns here to rest and digest food, it spends the majority of its time on the prowl, burrowing through the endless dark or slithering along established tunnels in the constant drive to feed its immense hunger. Although not completely mindless, purple worms are rather stupid. They make popular guardians for those who have the magic to control them or a chamber in their lair large enough to hold one captive.
 
 Although the deep-dwelling purple worm is the most common of its ilk, variant immense worms of differing colors dwell in other remote wildernesses. A sleek, mottled blue-and-green variant of the giant worm dwells in deep underground lakes or tropical seas (this variant loses its burrow speed but increases its swim speed to 40 feet). A deep crimson variant of even greater size dwells in remote badlands and rocky deserts (this variant is never less than Colossal in size). Other species doubtless remain to be discovered in the far corners of the world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Purple%20Worm)
 ```encounter-table
 name: Purple Worm

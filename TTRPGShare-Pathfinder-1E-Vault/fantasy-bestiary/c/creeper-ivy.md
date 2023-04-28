@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Creeper Ivy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 194
 desc_short: The creeping tendrils of this plant creature guide its way up tree trunks and walls.
 ```
-# Description
+## Description
 Climbing ivy thrives in dense forests and urban landscapes, where it can easily relocate to maximize its exposure to the sun. Surprisingly fast for a plant, creeper ivy is territorial and lashes out at creatures that threaten or shade it. It also scavenges when the opportunity presents itself, sometimes drawing nutrition from carrion or even unguarded eggs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Creeper%20Ivy)
 ```encounter-table
 name: Creeper Ivy

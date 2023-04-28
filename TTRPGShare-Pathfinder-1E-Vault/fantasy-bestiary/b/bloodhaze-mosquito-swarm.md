@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bloodhaze Mosquito Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 84
 desc_short: A high-pitched whine issues forth from the haze of this surging crimson cloud. Within, thousands of tiny forms whir in agitation, each a tiny insect with a needle-like proboscis.
 ```
-# Description
+## Description
 Thousands of species of insects make their home within the shelter of the Mwangi Expanse, but few elicit as much dread as the voracious bloodhaze mosquito. Migratory in nature, these ravenous insects amass in great numbers, forming swarms capable of feasting on the blood of humanoids and beasts alike. Perhaps worse, the crimson parasites carry a debilitating disease known for sapping the vitality of its victims. Because of this potent mix of teeming esurience and virulent pestilence, bloodhaze mosquitoes panic almost any community they threaten. Legends describe crimson clouds decimating entire populations on their flight from breeding pool to jungle interior. Only high winds, drought, and torrential rain consistently keep them at bay. Thankfully, the swarms also wax and wane with fluctuations in local prey populations. In combination with the mosquitoes’ relatively short lifespan, competition for food helps keep their numbers under marginal control.
 
 A typical bloodhaze swarm contains more than 10,000 flying mosquitoes. Individually, each mosquito is smaller than a child's fingernail, yet together they form a terrifying assault. Their iridescent wings can refract light, creating a shimmering effect as they move in unison. This effect proves disconcerting to most animals, which wisely flee such clouds, their panic often alerting other jungle inhabitants to the swarm’s presence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bloodhaze%20Mosquito%20Swarm)
 ```encounter-table
 name: Bloodhaze Mosquito Swarm

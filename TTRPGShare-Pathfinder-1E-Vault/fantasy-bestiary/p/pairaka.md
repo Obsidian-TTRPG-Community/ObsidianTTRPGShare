@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pairaka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 84
 desc_short: Blue-skinned and draped in revealing attire, this humanoid fiend has a sultry gaze suggesting all manner of debased pleasures.
 ```
-# Description
+## Description
 A sensual pairing of seduction and destruction, pairakas embody the corruptive nature of unbridled lust. Pairakas spend little time in their true form while on the Material Plane, choosing to cloak themselves instead in alluring forms to seduce potential victims, ruin relationships, and foment obsession. In its true form, a pairaka’s body is a foul landscape of blazing rashes, oozing pustules, and taut blisters suggestive of the corruptions it harbors, bodily and spiritually.
 
 Pairakas pride themselves on perversion. They love nothing more than turning lovers against one another or destroying the bonds of friendship. Pairakas feed off this slow torment and savor each broken heart or disappointment. They use lust and sexuality as their primary tools, wielding taboos and carnal appetites to sever once-friendly relationships. Pairakas also use their seduction to spread disease, charming victims into physical contact.
@@ -74,7 +76,7 @@ Pairakas pride themselves on perversion. They love nothing more than turning lov
 Just as all other divs suffer a weakness, pairakas cannot stand the color red. They never wear the color or enter a place that is painted red, and they always attack creatures that are garbed in clothes of a crimson hue first.
 
 Pairakas stand 6 feet tall and weigh around 150 pounds. Their skin color varies widely between individuals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pairaka)
 ```encounter-table
 name: Pairaka

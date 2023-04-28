@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Atomie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,7 +57,7 @@ sources:
     desc: 27
 desc_short: This miniscule, green-skinned humanoid wields a needle-thin rapier. A pair of dragonfly wings holds the wee creature aloft.
 ```
-# Description
+## Description
 Atomies perceive themselves as larger than they actually are. Like pups standing up to a full-grown cur, atomies never back down from aggression, and take tremendous pride in defeating and humiliating foes larger than themselves. Atomies find great pleasure in shoring up the odds in a fight against larger foes. They make use of their reduce person spell-like ability as an offensive measure, hoping to shock and humiliate humanoid opponents, giving them a chance to make a killing jab. Atomies employ their invisibility spell-like ability to get in close and make sneak attacks before darting back out of reach.
 
 In lands thick with fey, atomies often serve as border sentries or bodyguards to nymphs, dryads, or other more powerful fey creatures. While atomies prove only passable in their ability to defend such creatures, other fey accept their fealty out of respect and perhaps with a bit of mirth as well. Atomies enjoy their time as honor guards, but often grow bored and leave their posts in search of adventure.
@@ -63,7 +65,7 @@ In lands thick with fey, atomies often serve as border sentries or bodyguards to
 These nimble creatures adore swordplay and practice with their blades endlessly. Atomies often travel their lands seeking adventure tinged with mischief. Sensitive to bullying and oppression, atomies revel in turning the tables on a cruel mayor or tormenting dishonorable mercenary bands. Atomies, enamored with tales of epic duels and the defeat of great evils, sometimes follow adventuring parties and eavesdrop on their nightly tales by the campfire. If a warrior in the group tends to boast of his swordplay, an atomie rarely resists the urge to humble him by sabotaging his equipment or invisibly reducing him and challenging him to a duel.
 
 Atomies get along well with grigs, and it is not uncommon to see the two types of creatures banding together for defense or companionship. Some sages claim the two creatures share a past link, pointing out their similar insectile wings. Anyone questioning an atomie or grig about this theory is greeted with bouts of shrill tiny laughter. An atomie stands just under a foot tall and weighs 2 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Atomie)
 ```encounter-table
 name: Atomie

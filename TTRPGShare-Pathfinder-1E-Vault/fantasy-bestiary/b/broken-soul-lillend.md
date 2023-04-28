@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Broken Soul Lillend
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,13 +75,13 @@ sources:
     desc: 24
 desc_short: Once a beautiful celestial with the torso of a winged woman and a snakelike body below, this creature is a mess of blood and scars.
 ```
-# Description
+## Description
 A broken soul is torment and pain made manifest. Tortured to the extremes of both physical and mental endurance, and then taken beyond those barriers, a broken soul gains extraordinary reserves of fortitude and resilience as well as the ability to inflict a measure of its own terrible suffering on others.
 
 Each broken soul has a unique appearance, the torture it has endured plainly visible on its body. Its skin is a mass of scar tissue, marred with bruises that do not fade and scored with countless scars. In some cases, a broken soul’s flesh has been flayed away, revealing the musculature and bone underneath. Weeping sores and open cuts cover a broken soul’s body, wounds that never fully heal. Its limbs are often twisted, the result of broken bones that were never set properly, and it might be missing fingers, toes, ears, or other appendages. A broken soul’s existence is one of unending suffering, and the constant pain often drives the creature irrevocably mad. In their insanity, these unfortunates hate all other creatures and seek to inflict their wounds and their agony on all they encounter.
 
 The creation of a broken soul can happen in a number of ways. Some broken souls arise spontaneously, the result of horrific treatment at the hands of cruel abusers. With no way to escape their torment, these creatures embrace the pain and anguish and transcend them, making them a part of their very being. In so doing, they become something both more and less than they were. Other broken souls are purposefully created out of helpless prisoners by sadistic torturers through a harrowing gauntlet of mental and physical torments. By breaking a creature’s mind and body, these torturers hope to create guardians or servants whose loyalty is ensured by the constant pain they must endure. Even more harrowing, some broken souls take it upon themselves to create more of their kind, fashioning gruesome works of living, mutilated art in an effort to share their suffering. These “artists” often turn on their own torturers first, perfecting their skills on those who created them before turning their attention to any other unfortunate creatures they can find.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Broken%20Soul%20Lillend)
 ```encounter-table
 name: Broken Soul Lillend

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Muhuru
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 196
 desc_short: This reptilian beast has large fangs, a club-tipped tail, and a large, finlike sail on its back that shimmers radiantly in the light.
 ```
-# Description
+## Description
 Muhurus are elusive creatures that dwell in the most remote reaches of the world’s jungles. They are so difficult to find that many scholars do not believe they exist, yet the fantastic tales of their amazing, reflective dorsal fins draw explorers and trophy hunters from far and wide in the hope of finding even a single specimen. 
 
 Muhurus are often considered to be nature spirits. Locals point to the creatures’ ability to move through the densest parts of the forest without a trace as evidence of their otherworldly nature. At the very least, they believe muhurus are favored by the spirits of nature, and they do not take kindly to those who wish to kill such beasts for nothing more than sport. 
 
 Muhurus are certainly able to defend themselves, of course. The massive beasts shake the earth with their very step and can knock opponents to the ground with one slap of their spiked tails. They also use their prismatic fins as potent weapons to blind their enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Muhuru)
 ```encounter-table
 name: Muhuru

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nue
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 204
 desc_short: Materializing out of a noxious black cloud, this beast has the head of a fanged monkey and the body of a tiger with a viper as a tail.
 ```
-# Description
+## Description
 This strange creature has the body of a tiger, the head of a fanged monkey, and a poisonous viper for a tail. Though some call it a chimera and treat it as an exotic specimen of that creature, it is a completely different breed of beast.
 
 Intelligent enough to enjoy cruelty as well as inflicting terror upon its prey, a nue delights in toying with its victim before dealing the killing blow. Often, a nue will select a target and plague it with nightmares before it even attempts an act of violence, wearing down the victim with dreadful dreams and phantasmagoric terrors. Once its prey is thoroughly exhausted, the nue will finally steal into the victim’s sleeping chambers and engage in combat, paralyzing its target with its magic and infecting its prey with both disease and poison, letting the victim writhe in pain before succumbing to death.
@@ -66,7 +68,7 @@ A nue’s ghastly appearance in physical form is only made eerier by its ability
 Some legends suggest that nues are the spirits of children warped into twisted forms to spread paranoia, exhaustion, and fear among former friends and family. According to these stories, such a cursed child wreaks terror upon its friends and relatives until they are all either dead or driven mad by fear. Then, the creature moves on, seeking more challenging kills to sate its vicious hunger. The greatest joy a nue can feel is snuffing the life of a once-strong and proud target that has been brought low by its debilitating attacks.
 
 A nue is 9 feet long and weighs 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nue)
 ```encounter-table
 name: Nue

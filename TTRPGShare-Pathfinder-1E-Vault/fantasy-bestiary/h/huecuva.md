@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Huecuva
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 12
 desc_short: Rotting vestments hang across the withered flesh of this walking corpse, and its mouth hangs open in a silent scream.
 ```
-# Description
+## Description
 Huecuvas are the risen corpses of heretical clerics who blasphemed and renounced their deities before meeting death. In unlife, they hate and seek to destroy those pious souls who keep their vows. Although easily mistaken for zombies or even skeletons, huecuvas have a spark of intelligence that makes them cunning and deceptive foes. During daylight hours, a huecuva becomes shrouded in an illusion that causes it to appear as it did in life-at these times, a huecuva might seek to infiltrate society to dwell among those it hates. When night falls, it emerges to seek out its prey. Fortunately for the living, the typical huecuva has only fragments of intellect remaining, so it is usually not long before the undead creature makes an error of judgment or simply reveals itself for the monster it is.
 
 Most huecuvas remember little of their former lives except for the blasphemies that led them to their cursed fates. They often find themselves drawn to the ruins of old temples, where they rage against or seek hopeless absolution from the deities who so afflicted them. Huecuvas sometimes work in concert with other undead creatures that share the same area.
 
 While most huecuvas arise when a god rejects a heretic priest’s soul, forcing the slain to rise as horrible undead, a huecuva can also be created with create undead. The caster must be at least 11th level, and the body to be transformed must have been an evil cleric in life. The spell can be used to create a huecuva using the body of a nonevil cleric, but doing so requires a DC 20 caster level check.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Huecuva)
 ```encounter-table
 name: Huecuva

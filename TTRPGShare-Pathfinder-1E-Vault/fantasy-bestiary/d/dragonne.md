@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dragonne
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 10
 desc_short: This creature has the features of a lion but the wings and scales of a brass dragon, and a wild mane matching its scales.
 ```
-# Description
+## Description
 Possessing the savage instincts of lions with the cunning of brass dragons, dragonnes combine the fiercest features of these noble creatures into predators both awe-inspiring and deadly.
 
 The origin of dragonnes generates endless speculation. The odds of these creatures being direct crossbreeds of dragons and lions are quite remote, for numerous reasons: the two creatures rarely share the same territories; few creatures as clever as brass dragons would choose to mate with simple lions; and dragonne abilities differ significantly from those of metallic dragons. While otherworldly breeding experiments and magical mishaps remain possibilities, few satisfying explanations make themselves apparent.
@@ -60,7 +62,7 @@ Although many creatures rightly fear these ferocious hunters, few dragonnes are 
 Despite their deadliness, dragonnes form strong bonds with those they consider members of their pride, sometimes even adopting creatures of other races. A character with the Leadership feat can take a dragonne as a cohort. Such characters must have an effective leadership level of 10th. Most dragonne cohorts gain levels in barbarian, fighter, or ranger.
 
 A dragonne measures between 10 and 12 feet long and weighs up to 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dragonne)
 ```encounter-table
 name: Dragonne

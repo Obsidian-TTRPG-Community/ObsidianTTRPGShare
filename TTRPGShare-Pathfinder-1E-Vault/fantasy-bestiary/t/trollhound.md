@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trollhound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 88
 desc_short: Foul-smelling fluids ooze from weeping sores across the scaly skin of this squat, powerful, and vaguely canine beast.
 ```
-# Description
+## Description
 Slavering and voracious, trollhounds seem to be trolls in smaller canine form, and indeed, are often found as pets among gangs and tribes of trolls. Requiring vast amounts of food to fuel their regenerative metabolisms, packs of wild trollhounds range far and wide through the mountains of the north, their ravenous hunger driving them to hunt and consume any prey they can track down and kill.
 
 A typical trollhound stands 4 feet tall at the shoulder, has short but powerful legs, and weighs around 350 pounds. A trollhound’s skin is somewhat scaly, with patches of rough, greenish-black fur. It has oversized jaws with a pronounced underbite, and its eyes are normally a dull, hateful orange.
@@ -59,7 +61,7 @@ Trollhounds are believed to be the outcome of infusing particularly ferocious wo
 Trollhounds are fearless on the hunt and in combat, relying on their ability to regenerate to carry them through. Not even the threat of fire is enough to repel them, as the beasts are too dull to recognize the danger it poses. Nevertheless, fire is one of the most effective tools in combating trollhounds, and canny hunters know to burn every last remnant of a slain trollhound, for as is true of trolls, even the smallest piece of trollhound flesh can eventually regrow back into a full-sized beast.
 
 Trollhounds are most often found in the company of trolls, who breed the beasts as hunters, guards, pets, and food. Trollhounds seem to have an affinity for their savage masters, and tamed trollhounds always regard trolls as alpha members of the pack. A trollhound will never attack a troll without cause-although trolls often enjoy violent roughhousing with these creatures nonetheless.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trollhound)
 ```encounter-table
 name: Trollhound

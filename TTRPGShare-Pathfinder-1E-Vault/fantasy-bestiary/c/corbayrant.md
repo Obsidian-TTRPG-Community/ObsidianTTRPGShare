@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Corbayrant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 84
 desc_short: This enormous scorpion-like creature has legs like jagged bark and a moss-colored body. It barbed tail drips foul-smelling venom and its wide mouth has multiple hinged jaws.
 ```
-# Description
+## Description
 An ambush predator that conceals itself among tall trees, corbayrants are bizarre amalgamations of insect and plant. Appearing somewhat like an oversized scorpion with barbed spines in place of claws, corbayrants have an exoskeleton made of thick layers of bark and moss. With their segmented limbs fully extended, their legs resemble tree trunks and their mossy underside blends in with the forest canopy. A corbayrant keeps its long tail curved above its body, its barbed stinger dripping viscous venom like tree sap. Corbayrants lack eyes, but they perceive their surroundings through a combination of sound and changes in air pressure.
 
  A corbayrant’s spiny forelegs deliver a magical paralytic toxin that causes afflicted victims to sprout barbs that can transmit the paralysis to others. A corbayrant rarely waits for this paralysis to run its course, as it prefers to snatch up paralyzed victims in its large quadrisecting mouth and swallow them whole. The creature’s abdomen contains sharp thorns that exude the same paralytic toxin as its spines, which keep its prey immobile while it is being digested.
@@ -74,7 +76,7 @@ An ambush predator that conceals itself among tall trees, corbayrants are bizarr
  A thin, miasmic cloud surrounds corbayrants. Although visually indistinguishable from ordinary forest mist, this cloud suppresses creatures’ resistances to paralysis and poisons, making the creature a far more effective hunter.
 
  A typical corbayrant stands 19 feet tall and weighs nearly 3 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Corbayrant)
 ```encounter-table
 name: Corbayrant

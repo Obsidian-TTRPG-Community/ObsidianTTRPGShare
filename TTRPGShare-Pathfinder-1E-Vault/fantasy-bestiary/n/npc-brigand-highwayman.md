@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Brigand (Highwayman)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: GameMastery Guide
     desc: 259
 ```
-# Description
+## Description
 Highwaymen are notorious outlaws or flamboyant criminals who flaunt the law, prey upon innocent travellers, and revel in the discomf iture their predations have upon the local constabulary. Highwaymen love deception and trickery and elevate taunting to an art form. For highwaymen, the humiliation of an enemy can be more important than a successful heist. Highwaymen can be used as expert spies or scouts, or even as agile gladiators.
 
 Two highwaymen might be the bodyguards of a guildmaster (CR 11), while a trio of highwaymen may serve as the henchmen of a bandit lord or bounty hunter (CR 12). A lone highwayman may lead a gang of a dozen bandits (CR 8) or travel with a minstrel and a pair of cavalry for his gang (CR 9).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Brigand%20(Highwayman))
 ```encounter-table
 name: NPC Brigand (Highwayman)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Iophanite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 293
 desc_short: This disc of flying metal is about the size of a wagon wheel and burns with yellow-white flame.
 ```
-# Description
+## Description
 Iophanites comprise a unique classification of messenger angel in service to Iomedae. Energetic, enthusiastic, impulsive, and outgoing, it constantly looks for ways to aid the forces of righteousness in the wars against fiends and villainy. As a being of pure righteous spirit in a burning physical form, an iophanite is often confused for an exotic form of harbinger or lantern archon. Its form is slightly mutable, and it can deform itself into an oval curved like a shield, or manifest simple tendrils to manipulate objects or lash out at opponents. When interacting with mortals, an iophanite usually manifests ripples of flames or pulses of light that thrum in time with its speaking. Most creatures have a difficult time telling iophanites apart, but these angels can always recognize each other.
 
 Iophanites are talkative and have excellent memories, making them naturally inclined to carry news, battle orders, and other critical information. Their bodies are hot to the touch, but do not ignite combustibles unless the iophanite wishes it, allowing it to carry scrolls or other flammable goods without risk of destroying them. Of the lawful angels, they tend to be the most creative in terms of working around rules and the most forgiving of others’ failures. They are also inclined to serve as the guardians of mortals, being mindful of virtuous and selfsacrificing heroes who might be destined for greatness in much the same way Iomedae herself was.
 
 Iophanites measure exactly 5 feet in diameter and weigh 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Iophanite)
 ```encounter-table
 name: Iophanite

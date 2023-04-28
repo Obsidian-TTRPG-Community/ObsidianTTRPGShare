@@ -1,19 +1,21 @@
 ---
-alias: Shadow Walk
+aliases: [Shadow Walk]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow Walk 
+## Shadow Walk
 
 **source**:: PRPG Core Rulebook pg. 341  
 **school**:: illusion (shadow) (shadow)
 **level**:: alchemist 6, arcanist 6, bard 5, investigator 6, mesmerist 5, skald 5, sorcerer 6, spiritualist 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: up to one touched creature/level  
@@ -21,7 +23,7 @@ alias: Shadow Walk
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 To use the *shadow walk* spell, you must be in an area of dim light. You and any creature you touch are then transported along a coiling path of shadowstuff to the edge of the Material Plane where it borders the Plane of Shadow. The effect is largely illusory, but the path is quasi-real. You can take more than one creature along with you (subject to your level limit), but all must be touching each other.  
   

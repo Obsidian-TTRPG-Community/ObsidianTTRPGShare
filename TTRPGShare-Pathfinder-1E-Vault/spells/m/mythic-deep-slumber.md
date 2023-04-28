@@ -1,19 +1,21 @@
 ---
-alias: Mythic Deep Slumber
+aliases: [Mythic Deep Slumber]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Deep Slumber
+## Mythic Deep Slumber
 
 **source**:: Mythic Adventures pg. 90  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 3, bard 3, mesmerist 3, occultist 3, psychic 3, sahirafiyun 3, shaman 3, skald 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (fine sand, rose petals, or a live cricket)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: one or more living creatures within a 10-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Mythic Deep Slumber
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *sleep*, except that it affects 10 HD of targets.
 

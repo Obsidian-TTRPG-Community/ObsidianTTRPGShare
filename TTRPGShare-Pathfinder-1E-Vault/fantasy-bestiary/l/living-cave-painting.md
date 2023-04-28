@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Cave Painting
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 88
 desc_short: The painted ochre lines of this stylized bison seem to shift and flow, giving the primitive drawing an eerie sense of life and otherworldly majesty.
 ```
-# Description
+## Description
 Little is known of the primitive tribes that preceded the great mortal civilizations of the Age of Legends. They possessed no written language and built few lasting structures, so little of their culture exists to this day. Yet some evidence of these ancient peoples can be found, hidden away in deep, remote caves protected from the ravages of time. The simple paintings and sculptures found in these caves speak to the primal roots of the human experience, and they’re treasured in the modern world as pieces of art nearly as much as they are considered historical artifacts. Yet those who wish to explore these caverns or retrieve such relics must be cautious. Ancient guardians haunt the dark places in the earth, hiding among the paintings, waiting to strike down those foolish enough to disturb their millennia-long rest.
 
 These guardians are the living cave paintings, ancient works of art animated by strange magic at the dawn of human civilization. They lack true bodies, and instead exist as two-dimensional beings painted across cave walls in ocher and charcoal. Living cave paintings most often depict herd animals such as aurochs, bison, horses, or rhinoceroses, or megafauna such as megaloceros that forms herds. Some others depict predatory creatures, human figures, or even animal-human hybrids.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Cave%20Painting)
 ```encounter-table
 name: Living Cave Painting

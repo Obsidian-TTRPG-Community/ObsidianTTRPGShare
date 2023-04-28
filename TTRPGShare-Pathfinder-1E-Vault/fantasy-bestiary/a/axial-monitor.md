@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Axial Monitor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 82
 desc_short: This imposing creature stands on three legs, with a body like three torsos fused together. These torsos are topped with a single head bearing three faces, each set in a bland, serene expression.
 ```
-# Description
+## Description
 The Eternal City of Axis lies at the center of the multiverse, holding the very fabric of reality in some semblance of order through the constant calculations of the axiomite Godmind. Yet even a city of order such as Axis, open as it is to visitors from across the planes, must deal with its own internal law and order on a daily basis. The Axial monitors are tasked with preventing disturbances of order and, when crimes do occur, investigating them to bring the perpetrators to justice.
 
  Each Axial monitor has the same unusual form: its large, hairless head bears three faces set equidistantly around it, each expression the picture of bland serenity. These faces appear roughly humanoid but are completely smooth, without contours for a brow, nose, or mouth, as though its faces were painted on canvas. The creature’s triangular torso has three shoulders, each with two powerful arms. Two pairs of its arms are humanoid, while the third set is mismatched, with one a long, undulating tentacle and the other an articulated limb of banded iron ending in a maul-like head. Below its waist, the creature’s body divides into a tripod of legs, each ending in a long foot.
@@ -81,7 +83,7 @@ The Eternal City of Axis lies at the center of the multiverse, holding the very 
  Axial monitors only attack those presenting a disturbance to Axis’s order, whether through the commission of a crime or another civil malfeasance. They call for surrender before a fight and prefer to subdue opponents rather than slay them. Their mandate is to bring prisoners into their dispatch stations so they can be examined and interrogated, and the reasons for their disturbance identified and measured in formal reports. These reports are provided directly to the Godmind, which calculates the mathematically ideal method to counteract and prevent any such future disturbances. After incarceration and calculation, an offender is either set free or transferred to one of the city’s rehabilitative prisons under escort by Axial monitors. Although they follow this same process for nearly all creatures, the Axial monitors show no mercy or leniency to proteans and always attack these embodiments of disorder with lethal force on sight.
 
  Axial monitors are 12 feet tall and weigh 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Axial%20Monitor)
 ```encounter-table
 name: Axial Monitor

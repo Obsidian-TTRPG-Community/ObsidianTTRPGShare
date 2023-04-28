@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Cockatrice
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 180
 desc_short: This beast is an unsettling combination of chicken and lizard, and its claws, beak, and wattles seem made of stone.
 ```
-# Description
+## Description
 A mythic cockatrice is infused with stone, perhaps because of some aspect of its aging process, or its body has absorbed minerals from countless stony foes, or its incessant grooming has slowly petrified its own flesh. Even more aggressive and territorial than non-mythic kin, a mythic cockatrice recklessly attacks anything that intrudes on its territory.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Cockatrice)
 ```encounter-table
 name: Mythic Cockatrice

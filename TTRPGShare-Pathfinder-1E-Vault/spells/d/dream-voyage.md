@@ -1,19 +1,21 @@
 ---
-alias: Dream Voyage
+aliases: [Dream Voyage]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dream Voyage 
+## Dream Voyage
 
 **source**:: Occult Adventures pg. 167  
 **school**:: conjuration (teleportation) (mind-affecting)
 **level**:: psychic 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you and one creature/level  
@@ -21,7 +23,7 @@ alias: Dream Voyage
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions as *dream travel*, but you and your companions travel through the Dimension of Dreams in a fantastical vehicle of your own devising that halves the travel time. Only you can pilot the vessel, and you can do so even if you aren’t inside it. Your psychic vehicle buffers minds from the intense emotional tides of the Dimension of Dreams, rendering everyone inside immune to harmful emotion and fear effects. Unlike with *dream travel*, there is no chance the vessel arrives off target. In addition, you need not have met the target creature, but in that case you must have at least a reliable description of it. However, if you attempt to travel there with insufficient or incorrect information, you do need to roll, using the false identity entry from *dream travel*.  
   

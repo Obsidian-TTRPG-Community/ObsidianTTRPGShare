@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Narrik
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 56
 desc_short: Glossy eyespots bulge from the neck of this long-limbed figure. Jagged teeth line the open mouth in its chest.
 ```
-# Description
+## Description
 In the lightless tunnels leading between Darklands settlements and to surface entrances, packs of narriks stalk their favored prey: terrified sentient beings. Their bodies are bizarre, alchemical laboratories that naturally produce a cocktail of potent venom and hallucinogenic pheromones, as well as a sticky saliva in which they trap their victims. Nearly blind, a narrik’s cluster of eyespots atop its body allows it to only detect light and movement, and the aberration hunts almost entirely by scent, especially savoring the heady aroma of terror.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Narrik)
 ```encounter-table
 name: Narrik

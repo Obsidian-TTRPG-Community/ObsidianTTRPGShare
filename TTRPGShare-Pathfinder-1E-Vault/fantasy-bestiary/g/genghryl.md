@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Genghryl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 86
 desc_short: A mix of burly and slender tentacles extend from the body of this large, wormlike creature. Rows of frightful fangs line the maw beneath its sharp beak.
 ```
-# Description
+## Description
 Genghryls are subterranean, wormlike creatures that use specialized tentacles to lure and weaken their prey. Genghryls are to verdant lands what seaweed sirens are to shipping lanes or wolves-in-sheep’s-clothing are to plentiful woodlands-a menace.
 
 A genghryl’s mottled, pinkish-brown body is about 3 feet wide at the front and tapers down to its tail, resembling a hideous segmented worm. Its head consists of a tooth-lined opening behind a sharp beak, which is surrounded by four powerful tentacles and three black eyes spaced evenly around it. A number of longer, thinner tentacles sprout from the segment just behind the genghryl’s head. The older and larger the genghryl, the more tentacles it has.
 
 An adult genghryl weighs approximately 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Genghryl)
 ```encounter-table
 name: Genghryl

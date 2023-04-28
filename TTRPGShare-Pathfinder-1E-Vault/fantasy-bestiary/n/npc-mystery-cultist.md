@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mystery Cultist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 55
 desc_short: Every step this fashionable Varisian takes seems like part of a dance, her dozens of strange baubles tinkling with her every movement.
 ```
-# Description
+## Description
 Just as the legendary Mistress Ordellia Whilwren once prayed to a mysterious angel to save Magnimar from a devastating deluge, other dwellers of the city have likewise devoted themselves to holy figures, including angels, azatas, and agathions. Called “mystery cultists” by most Magnimarians because of their small numbers and esoteric manner of worship, the dedicated followers of the empyreal lords keep to themselves and rarely proselytize. Most mystery cults hold at least one of Magnimar’s numerous monuments in high esteem, whether for their importance in local traditions or their part in Varisian legends. Practitioners of these religions often congregate around structures such as the Arvensoar, the Irespan, or the Mistress of Angels to practice their faith, sometimes forming assemblies of over a hundred worshipers. Although the cults’ gatherings can occasionally be disruptive to the flow of traffic throughout the City of Monuments, Magnimar’s leaders do little to dissuade the cults’ practices, which are almost wholly harmless and serve to promote life, freedom, and other righteous virtues.
 
 Three of the most commonly worshiped figures among the mystery cults of Magnimar are the empyreal lords Ashava, Soralyon, and Ylimancha (see page 25 for more information on these empyreal lords), though smaller cults to other celestial beings are not uncommon in the City of Monuments.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mystery%20Cultist)
 ```encounter-table
 name: NPC Mystery Cultist

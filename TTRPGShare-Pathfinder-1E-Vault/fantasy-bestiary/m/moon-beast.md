@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moon-Beast
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 195
 desc_short: This creature has a pale, froglike appearance with clawed hands, no eyes, a wide mouth, and a snout ending in pink tentacles.
 ```
-# Description
+## Description
 Moon-beasts have no voice or eyes, yet they “see” more than most and can project their thoughts into the very minds of those they wish to communicate with. These monstrosities hail not from any physical moon, but rather from the shared satellite of all slumbering minds in the Dimension of Dream beyond the wall of sleep. Here, the moon-beasts raise stone cities on the oily shores of night-black seas found upon the dark side of the dreaming moon, from which they launch long, dark galleys crewed by not-quite-human slaves that sail through the void of space down to the seas of the Dimension of Dream to seek new slaves and stranger, more sinister wares.
 
 Moon-beasts are slavers, first and foremost. They use their spell-like abilities to curb rebellion or to quickly gain minions, but much prefer using physical and mental regimens of torment and reconditioning to break the spirit of their captives. They often work with the denizens of Leng, a metaphysically nearby dimension of nightmare and madness, although as often as not these planar neighbors serve the moon-beasts merely as slaves.
@@ -73,7 +75,7 @@ Moon-beasts are slavers, first and foremost. They use their spell-like abilities
 Worshipers of ageless entities from beyond the stars, moon-beasts are often compelled to travel to the Material Plane for strange and frightening causes, not the least of which is gathering suitable sacrifices for their mysterious and demanding lords.
 
 A moon-beast is 9 feet long and weighs 800 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moon-Beast)
 ```encounter-table
 name: Moon-Beast

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duergar Tyrant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 23
 desc_short: The dull gray skin of this dwarf ripples with kinetic power.
 ```
-# Description
+## Description
 One in a hundred births brings forth a duergar bestowed with powerful psychic gifts. When such children grow into their powers, they often become authoritarian members of their clans known as tyrants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duergar%20Tyrant)
 ```encounter-table
 name: Duergar Tyrant

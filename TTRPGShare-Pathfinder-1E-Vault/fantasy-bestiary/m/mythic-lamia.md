@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Lamia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -77,9 +79,9 @@ sources:
     desc: 205
 desc_short: This creature has the head and upper body of a beautiful woman, the lower body of a lion, and long, serpentine tail.
 ```
-# Description
+## Description
 A mythic lamia dabbled in dark pacts or strange magic in an attempt to break the ancient curse that gives her a monstrous form, but instead gained the ability to change her shape as well as other magical abilities. Impressed by her progress but angered by her lack of complete success, she continues her research and plotting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Lamia)
 ```encounter-table
 name: Mythic Lamia

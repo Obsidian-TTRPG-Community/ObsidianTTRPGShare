@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aphorite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 224
 desc_short: The shimmering flesh of this gold-skinned figure flashes with points of light that seem, at times, to create strange runic shapes.
 ```
-# Description
+## Description
 The primary inhabitants of the perfect city of Axis are the race known as axiomites, outsiders born of lawful neutral souls whose primary focus is to serve Axis in one of three ways: the construction and tending of inevitables, the expansion and maintenance of the city itself, and exploring and calculating the laws and constants that underpin all reality in hopes of using this knowledge to bring order to the Great Beyond.
 
  But the axiomites are ill-suited to interactions with mortals. As creatures of pure order, they find it difficult to deal with creatures who have the free will to choose their own destinies and to interpret (or even willfully ignore) laws. Ancient axiomites long pondered a solution to problematic encounters with visitors from the Material Plane. The answer they arrived at was the creation of a new form of life-a melding of their own perfection of order with the unpredictable and fragile bodies and minds of mortal humanoids.
@@ -72,7 +74,7 @@ The primary inhabitants of the perfect city of Axis are the race known as axiomi
  Most aphorites, no matter the culture they are raised in, eventually experience a longing to see the world beyond the boundaries of their birthplace. Be it by choice or chance, aphorites seem predisposed to the life of an adventurer. Always seeking to better understand not only the world, but themselves as well, aphorites excel when they are placed in situations where their intellects might shine. Being both cunning of mind and naturally strong, aphorites gravitate toward classes which blend the arts of spellcasting and combat, such as magus or warpriest.
 
  Aphorite names typically reflect the society they are raised in, so an aphorite raised among humans would have a name befitting a human child, while an aphorite raised by dwarves would have a name drawn from dwarven heritage.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aphorite)
 ```encounter-table
 name: Aphorite

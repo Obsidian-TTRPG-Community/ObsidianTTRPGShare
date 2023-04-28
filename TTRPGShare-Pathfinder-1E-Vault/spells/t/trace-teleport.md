@@ -1,19 +1,21 @@
 ---
-alias: Trace Teleport
+aliases: [Trace Teleport]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Trace Teleport 
+## Trace Teleport
 
 **source**:: Ultimate Intrigue pg. 226  
 **school**:: divination
 **level**:: arcanist 5, psychic 4, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a magnifying lens)
 
-### Effect 
+### Effect
 
 **range**:: 40 feet  
 **area**:: 40-ft.-radius emanation centered on you  
@@ -21,7 +23,7 @@ alias: Trace Teleport
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You immediately become aware of any teleportation effects that begin or end within the spell’s area. The spell’s area radiates from you and moves as you move. You know the exact origin point of any teleportation effect that originates within the spell’s area, and the exact end point of any teleportation effect that terminates within the spell’s area. Further, you can detect the lingering traces of any teleportation effect that occurred up to 1 hour previously, in the same fashion. You intuitively know, to the nearest minute, when the teleportation effect occurred.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pharmakos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 475
 desc_short: The body of this monstrous creature is a foul mass of sore-covered flesh, a blubbery worm with the upper torso of a deformed man.
 ```
-# Description
+## Description
 When a worshiper of an evil god forsakes his faith, the deity being spurned sometimes takes note. In such a case, the betraying worshiper may not have the luxury of living the rest of his life and putting off divine punishment until some point after death. Sometimes, the god is so offended that the infidel is transformed into a pharmakos. While a pharmakos has much power, the metamorphosis into such a cursed creature is rarely one a worshiper seeks, for the pain and humiliation of the punishment is significant. That the altered worshiper can go on to serve the deity as a powerful guardian is of a secondary concern to the god in most cases, and regardless, when a pharmakos finally meets the end of its pain-filled life, then true divine punishment begins.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pharmakos)
 ```encounter-table
 name: Pharmakos

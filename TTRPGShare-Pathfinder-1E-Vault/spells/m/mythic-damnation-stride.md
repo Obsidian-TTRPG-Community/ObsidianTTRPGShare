@@ -1,19 +1,21 @@
 ---
-alias: Mythic Damnation Stride
+aliases: [Mythic Damnation Stride]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Damnation Stride
+## Mythic Damnation Stride
 
 **source**:: Mythic Adventures pg. 90  
 **school**:: conjuration (teleportation) (fire)
 **level**:: arcanist 5, sorcerer 5, summoner 4, summoner (unchained) 4, witch 5, wizard 5 (tiefling)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: you (teleportation) and creatures within a 10-foot-radius burst (burst of flame) (see text)  
@@ -21,7 +23,7 @@ alias: Mythic Damnation Stride
 **saving-throw**:: Reflex half, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *dimension door*, except you leave behind a burst of fire. Choose one corner of your starting square. A 10-foot-radius burst of flame explodes from that corner the moment you leave, dealing 4d6 points of fire damage.
 

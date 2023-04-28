@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Locust
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 183
 desc_short: The mandibles of this enormous grasshopper churn and grind as it quests for food.
 ```
-# Description
+## Description
 Giant locusts have a hunger akin to their smaller cousins, but only rarely do they gather in the endless numbers of their tiny kin.
 
 A mature giant locust measures just over 4 feet long and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Locust)
 ```encounter-table
 name: Giant Locust

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rope Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 211
 desc_short: This small dragon, which appears to be composed of coils of rope, bristles with frayed filaments.
 ```
-# Description
+## Description
 The rope dragon is a strange and capricious shapeshifting trickster that sneaks about, disguising itself as and hiding among ordinary rope. Rope dragons most commonly use their abilities to sneak into bakeries, confectionaries, and the food stores of the wealthy in order to steal sweet and expensive foods and escape undetected. A rope dragon reserves its other main use of its shapeshifting talents- setting up pranks and traps-for those who attempt to seek out or capture it, usually after the dragon has had its way with their pantries. Those who offer food willingly to a rope dragon, or at least don’t mind the dragon’s pilfering ways, are rarely the victims of the dragon’s whimsy, and may find that when their lives or livelihoods are truly threatened, their small draconic ally uses its tricks and traps to protect them.
 
  Rope dragons rarely interact with their own kind except to mate, but they sometimes grow curious about other places and sneak along with travelers, wanderers, or adventurers by pretending to be part of that most iconic piece of adventuring gear: the 50-foot rope. While this may cause the rope dragon’s unwitting transporter to experience an inexplicably dwindling food supply, in the end, a rope dragon doesn’t want to be left in some monster’s lair. The carrier of a rope dragon is in for a real surprise when she gets into a f ight that she can’t win on her own and her rope comes to life to assist in fending off the monster. Rope dragons dislike it when other creatures become aware of their existence, however, so a rope dragon abandons such an adventurer at the first opportunity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rope%20Dragon)
 ```encounter-table
 name: Rope Dragon

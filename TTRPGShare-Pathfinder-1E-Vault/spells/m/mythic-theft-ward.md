@@ -1,19 +1,21 @@
 ---
-alias: Mythic Theft Ward
+aliases: [Mythic Theft Ward]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Theft Ward
+## Mythic Theft Ward
 
 **source**:: Mythic Adventures pg. 110  
 **school**:: abjuration
 **level**:: arcanist 1, cleric 1, inquisitor 1, mesmerist 1, oracle 1, sorcerer 1, warpriest 1, witch 1, wizard 1 (tengu)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one object  
@@ -21,7 +23,7 @@ alias: Mythic Theft Ward
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 You ward a single object in your possession against theft. You gain a +10 bonus on Perception checks to notice someone trying to take the object from you.
 

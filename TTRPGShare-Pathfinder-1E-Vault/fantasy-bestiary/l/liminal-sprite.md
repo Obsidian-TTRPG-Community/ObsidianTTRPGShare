@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Liminal Sprite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
     desc: 158
 desc_short: This creature resembles an elven courtier in miniature, dressed in the latest fashion and mothlike wings on its back.
 ```
-# Description
+## Description
 An ancestral curse hangs over liminal sprites that prevents them from sleeping either inside a building or outside in the open. Fortunately for these sprites, a loophole exists that allows them to find rest within the external features of a building. As a result, liminal sprites make their homes under eaves, porches, and staircases.
 
  Liminal sprites are fascinated by the arts, philosophy, and social intrigues of humanoids, which they experience vicariously from their hiding places, and with which they are often moved to interfere. They use their magic to bind the tongues of the witty and steal thoughts from the wise, returning them only after the moment in which they would have been useful has passed, thus adding insult to injury.
@@ -67,7 +69,7 @@ An ancestral curse hangs over liminal sprites that prevents them from sleeping e
  The sprites must be subtle, however, lest their unwitting hosts turn against them. They especially fear domestic animals turned loose near their hideaways. On the other hand, a homeowner who appeases the sprite with f lattery and gifts finds his own eloquence improved. A 7th-level chaotic spellcaster can gain a liminal sprite as a familiar with the Improved Familiar feat, though she must take pains to find her familiar a suitable place to rest each night.
 
  Liminal sprites stand 1 to 1-1/2 feet tall, and their mothlike wings stretch to a similar distance. Liminal sprites follow the local fashions of their city, modeling their clothes after those worn by nobles and celebrities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Liminal%20Sprite)
 ```encounter-table
 name: Liminal Sprite

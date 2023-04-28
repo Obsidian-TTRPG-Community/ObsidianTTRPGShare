@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Faceless Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 88
 desc_short: This hairless, leathery biped has a face dominated by grotesque and unsettling whorls and slits instead of actual features.
 ```
-# Description
+## Description
 Ugothols (as faceless stalkers call themselves) are one of the many tools created and then discarded by the aboleths in their long war against the surface dwellers. Scorned by their former masters when the scheme for which they were designed unraveled, the faceless stalkers fled into swamps, marshes, or any other dark, wet places they could find-the closest they could come to the aquatic cities they once considered home.
 
 Originally designed to serve as spies that could walk uncontested among the air-breathing races, faceless stalkers adopt new forms by reshaping their skin and contorting their rubbery bodies. This painful process takes approximately 10 uninterrupted minutes-an ugothol typically seeks a private place to do it, avoiding even others of its own kind. The sensation of returning to its true form is quite exhilarating and results in a momentary burst of euphoria.
 
 Faceless stalkers cannot digest solid food even when in the form of a creature with a mouth. Instead, they subsist on liquids, including blood. In their natural forms, they have three hollow tongues which they use to penetrate and lap blood from their victims. Since they have no particular skill at grappling foes, most ugothols wait until a victim is helpless or asleep before attempting to drink its blood-although the best is when a victim is helpless but conscious during the process, so that the faceless stalker can “play with its food” by having grisly and cruel conversations with it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Faceless%20Stalker)
 ```encounter-table
 name: Faceless Stalker

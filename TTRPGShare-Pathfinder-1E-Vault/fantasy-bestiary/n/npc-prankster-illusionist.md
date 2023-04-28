@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Prankster Illusionist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,9 +80,9 @@ sources:
   - name: NPC Codex
     desc: 185
 ```
-# Description
+## Description
 These irreverent illusionists are the bane of humorless adventurers. Their tricks are sometimes mistaken for enemy attacks, and even in dangerous situations, their own amusement comes first.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Prankster%20Illusionist)
 ```encounter-table
 name: NPC Prankster Illusionist

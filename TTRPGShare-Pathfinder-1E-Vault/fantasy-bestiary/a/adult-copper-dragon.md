@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Copper Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 106
 ```
-# Description
+## Description
 This whimsical dragon spends most of its time in combat trying to annoy and frustrate its enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Copper%20Dragon)
 ```encounter-table
 name: Adult Copper Dragon

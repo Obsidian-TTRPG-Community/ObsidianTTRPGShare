@@ -1,19 +1,21 @@
 ---
-alias: Prismatic Spray
+aliases: [Prismatic Spray]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Prismatic Spray 
+## Prismatic Spray
 
 **source**:: PRPG Core Rulebook pg. 325  
 **school**:: evocation
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped burst  
@@ -21,7 +23,7 @@ alias: Prismatic Spray
 **saving-throw**:: see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell causes seven shimmering, multicolored beams of light to spray from your hand. Each beam has a different power. Creatures in the area of the spell with 8 HD or less are automatically blinded for 2d4 rounds. Every creature in the area is randomly struck by one or more beams, which have additional effects.  
   
@@ -39,7 +41,7 @@ This spell causes seven shimmering, multicolored beams of light to spray from yo
 | 8             | Struck by two rays | Roll twice more, ignoring any "8" results                                                                      |
 | \*See poisons |                    |                                                                                                                |
 
-## Mythic Prismatic Spray 
+## Mythic Prismatic Spray
 
 **source**:: Mythic Adventures pg. 104  
 The spell automatically blinds creatures with up to 12 Hit Dice instead of 8 Hit Dice. Attempt one bull rush combat maneuver and apply its results to each creature in the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush doesn’t provoke an attack of opportunity.  

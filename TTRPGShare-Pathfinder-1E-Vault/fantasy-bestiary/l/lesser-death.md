@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lesser Death
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 134
 desc_short: One bleached-bone hand of this robed, skeletal figure grasps a massive, curved scythe.
 ```
-# Description
+## Description
 Lesser deaths are the weaker cousins of grim reapers. It is whispered among dark cabals and occult fellowships that the first soul unshackled from its mortal coil faced its final judgment with scorn and defiance. This creature was so outraged by the metaphysical order of the multiverse that it became a kind of rogue deity dedicated to the ending of all other lives. Particularly powerful creatures killed by this unforgiving deity become the servants of their slayer, spreading death wherever they wander. The least powerful of these lethal servants are called lesser deaths.
 
  The first creators of the decks of many things captured some of these twisted lesser deaths long ago and bound them to those artifacts. This handful of treacherous artifacts calls forth a lesser death instead of a dire wraith when the skull card is drawn. The vast majority of lesser deaths are not bound within artifacts, though, and are free to wander the multiverse, spreading doom wherever possible. Their choices of victims sometimes seem capricious, and have birthed myriad rumors regarding their nature and purpose. Some claim that these creatures serve the whims of a hidden force in the multiverse, while others claim they select their victims according to some dark logic that only they fathom. While these creatures possess a wicked intelligence, they converse with no one and use their haunting rasps only rarely, in mockery of those who would defy them. On rare occasions, a group of these creatures converges and works together to deal death to a particularly powerful foe. When they do, they often come riding advanced albino cauchemars in a terrifying stampede, trampling the life from any who would impede their dread work.
 
  A lesser death appears much like a typical grim reaper, though those who have encountered both claim that it’s impossible to mistake one for the other, as lesser deaths lack the hopeless gravity of true grim reapers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lesser%20Death)
 ```encounter-table
 name: Lesser Death

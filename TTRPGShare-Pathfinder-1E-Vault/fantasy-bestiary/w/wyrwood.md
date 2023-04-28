@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wyrwood
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,13 +48,13 @@ sources:
     desc: 280
 desc_short: Though obviously a wooden construct, this small, nimble creature moves fluidly and purposefully.
 ```
-# Description
+## Description
 This relatively young race was created by a cabal of wizards who needed nimble and skilled construct servants to do their dirty work. This cabal was interested in creating magical machines, so they built their tools to be small, agile, and clever. Over time, the cabal pushed the limits too far and created minions with free will, and these first wyrwoods began to question why they were involved in their masters’ petty intrigues. When the wizards forced the wyrwoods to fight each other as proxies for the wizards themselves, the constructs instead killed their creators and stole the notes on how to create more of their kind, allowing them to perpetuate their race.
 
 Wyrwoods are secretive and somewhat xenophobic, and can seem cold and calculating to others-a trait that could earn respect or enmity, depending on the audience. Purely rational and unemotional, wyrwoods see the survival of their race as their primary goal. Even the rare wyrwood who understands the point of empathy and altruism sees such concepts as mere tools to help ensure its own survival or that of its people. All wyrwoods know how to create more of their kind, and they keep the details of their construction process secret from other creatures to make sure their race is never again enslaved.
 
 Most wyrwoods are wizards or rogues. The few who are inclined to worship tend to revere lawful deities with strict codes of behavior, which they follow to the letter rather than the spirit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wyrwood)
 ```encounter-table
 name: Wyrwood

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warmaze Disciples Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
   - name: Pathfinder No. 117: Assault on Longshadow
     desc: 90
 ```
-# Description
+## Description
 Kosseruk’s philosophy of war as a labyrinth has earned her many followers among the Ironfang Legion’s minotaurs. The most dedicated of these are the Warmaze Disciples. While most Warmaze Disciples have training as barbarians, they eschew the mindless violence associated with that role and focus on honing their rage to a deadly point.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warmaze%20Disciples%20Troop)
 ```encounter-table
 name: Warmaze Disciples Troop

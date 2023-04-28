@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mobat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 42
 desc_short: This bat has a wingspan the length of two humans, over-sized ears, and a squat, upturned snout with rows of needle-like teeth. 
 ```
-# Description
+## Description
 Mobats are magical giant bats with wolfish grins and immense wingspans. Survivors of a lost era, they are rarely seen beyond the dark forests and deep caves they haunt. Although mobats are omnivores, they vastly prefer the flavor of fresh meat over that of other prey. 
 
 Mobats’ fur varies in coloration, from deep auburn to almost black, and their skin is black. A mobat’s wingspan is 15 feet across, and it weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mobat)
 ```encounter-table
 name: Mobat

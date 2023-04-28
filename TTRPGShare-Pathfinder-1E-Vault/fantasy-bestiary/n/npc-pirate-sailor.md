@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pirate (Sailor)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 57
 desc_short: This rugged character is clad in colorful, mismatched clothing, his hair tied back in a bandana.
 ```
-# Description
+## Description
 The average pirate is a free-spirited renegade who would have great difficulty surviving in the cultured depths of polite, civilized society. Rogues and fighters typically make up the majority of a pirate ship’s crew of sailors, as they possess both the skill and brawn necessary for day-to-day raids and heists. These colorful, adventurous characters chafe at society’s laws and restrictions, and the exciting life of the buccaneer is well suited to pirates’ ferocious independence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pirate%20(Sailor))
 ```encounter-table
 name: NPC Pirate (Sailor)

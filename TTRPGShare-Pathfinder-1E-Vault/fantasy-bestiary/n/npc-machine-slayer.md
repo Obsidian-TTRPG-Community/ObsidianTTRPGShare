@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Machine Slayer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 51
 desc_short: Battered scraps of metal hang from this battle-scarred archer’s necklace, trophies of the fierce Kellid’s many mechanical kills.
 ```
-# Description
+## Description
 To feed his tribe, he learned to hunt. To keep them safe, he learned to hunt machines. This Kellid ranger learned the secrets of fighting the metal monstrosities of Numeria from the greatest hunters of his tribe, and now he has surpassed and outlived them all. He leads his fellow warriors in battle against the robots, fighting with warhammer and arrowheads crafted from skymetal claimed from his foes’ remains. Whether the machines act independently or serve the hated Technic League matters not-all pose a threat to the tribe.
 
 Of late, rumors have reached the tribe of machines crafted into human form, sent to infiltrate the surviving free tribes and destroy them from within. The machine slayer keeps a close eye on strangers, any of whom might be machines pretending to be humans. Odd behavior risks a deadly response. He would rather mistakenly kill a stranger than risk the lives of his kinfolk.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Machine%20Slayer)
 ```encounter-table
 name: NPC Machine Slayer

@@ -1,19 +1,21 @@
 ---
-alias: Ectoplasmic Hand
+aliases: [Ectoplasmic Hand]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ectoplasmic Hand 
+## Ectoplasmic Hand
 
 **source**:: Occult Origins pg. 30  
 **school**:: evocation
 **level**:: occultist 5, psychic 5, spiritualist 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one ectoplasmic appendage  
@@ -21,7 +23,7 @@ alias: Ectoplasmic Hand
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You draw forth a ghostly, animated hand through the ectoplasmic veil to manipulate objects, attack creatures, and deliver touch spells at a distance. The hand remains tethered to you by tendrils of ectoplasm. The *ectoplasmic hand* and its tether have hardness 10 and hit points equal to 10 + your caster level. The tether can be damaged or sundered anywhere along its length, ending the spell. The *ectoplasmic hand* has improved evasion, uses your save bonuses, and has an AC of 24 (+6 natural armor, +8 size). The *ectoplasmic hand* moves up to 30 feet per round, and on each of your turns you can spend a move action to move it an additional 30 feet. If you spend a swift action, the *ectoplasmic hand* can make an attack using your base attack bonus, modifying its attack rolls and damage rolls with your spellcasting ability score (the ability score that determines your spell save DCs). It deals 1d6 points of damage with a slam attack, and it can wield any light or one-handed weapon. The *ectoplasmic hand* threatens and can flank targets.  
   

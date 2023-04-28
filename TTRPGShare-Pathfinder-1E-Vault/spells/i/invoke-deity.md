@@ -1,25 +1,27 @@
 ---
-alias: Invoke Deity
+aliases: [Invoke Deity]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Invoke Deity 
+## Invoke Deity
 
 **source**:: Planar Adventures pg. 41  
 **school**:: transmutation \[see text\]
 **level**:: antipaladin 4, cleric 6, hunter 4, inquisitor 6, medium 4, occultist 6, oracle 6, paladin 4, ranger 4, warpriest 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (incense worth 1,000 gp), F (a bejeweled holy symbol of your patron deity worth 2,500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 10 minutes/level
 
-### Description 
+### Description
 
 By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits from the list below, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. At any point during the duration of this spell, you can change which domain benefit you gain by concentrating for 1 round-this provokes attacks of opportunity and reduces the remaining duration of the spell by 10 minutes. If you have less than 10 minutes of the spell’s duration remaining, you cannot change the selected domain in this way. If you change your domain, all ongoing effects from your previously chosen domain end.  
   

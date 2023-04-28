@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghatanothoa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,9 +80,9 @@ sources:
     desc: 84
 desc_short: An insane tangle of eyes and mouths, arms and legs, tentacles and worse rises up upon itself, a mountain of madness come to life.
 ```
-# Description
+## Description
 Ghatanothoa is a horrific monstrosity who, fortunately, is imprisoned on an island on a distant world. Yet even an image of this Great Old One has the potential to wreak havoc and destroy lives. Ghatanothoa’s form is singularly repulsive-a tangle of arms, legs, eyes, mouths, and other body parts capable of shifting its composition at a whim, yet always retaining a definite and abhorrent shape.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghatanothoa)
 ```encounter-table
 name: Ghatanothoa

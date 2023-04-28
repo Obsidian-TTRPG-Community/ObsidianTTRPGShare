@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gishvit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 84
 desc_short: A set of insectile legs emerges from this book, sharp teeth ring the tome’s edges, and a ribbon bookmark protrudes menacingly from its open pages.
 ```
-# Description
+## Description
 Sometimes referred to as “lore roaches” by scholars familiar with the Outer Planes, gishvits are natural inhabitants of the lawful plane of Axis. Often associated with the native axiomites and scrivenites, gishvits occupy a mundane role on Axis, maintaining vast stores of knowledge within their booklike bodies. Transcribing knowledge from living creatures, a gishvit stores information in its body in the form of written text, preserving the acquired knowledge within itself. Because of this unique method of information gathering, gishvits are treasured by information brokers and spellcasters on the Material Plane.
 
  A gishvit varies between 1 to 2 feet in length, often weighing no more than 8 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gishvit)
 ```encounter-table
 name: Gishvit

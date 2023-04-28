@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Obambo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 82
 desc_short: This spectral creature looks like a scarred and shriveled ruin of an ancient tribal elder, with skin caked with dirt and moss, and long white hair tangled with sticks. Sharp teeth fill its cackling mouth, and its eyes are tiny but bright and piercing. Jungle vines weave through its ghostly body, which appears stuffed with decaying leaves and other plant matter.
 ```
-# Description
+## Description
 When a person wise in the lore of the jungle dies and is not buried or given a funeral, the jungle itself may embrace her spirit, creating an obambo (“forsaken one”). The embittered spirit seeps into the ground, the roots of plants, and the crawling things beneath, becoming one with the jungle itself. An obambo is cunning, spiteful, and treacherous, but it remembers its old role of teacher and storyteller, a duty and an obligation it both loves and loathes. While dealing with an obambo is dangerous, they are known to assist those in need, if supplicants can meet the obambo’s price.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Obambo)
 ```encounter-table
 name: Obambo

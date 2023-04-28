@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: "Trompe l'Oeil"
 statblock: inline
-tags: monster
-name: Trompe l'Oeil
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 242
 desc_short: The painting depicts a well-dressed nobleman. The style is so realistic it appears as if he could step out of the frame at any moment.
 ```
-# Description
+## Description
 Trompe l’oeil creatures are life-sized portraits animated by powerful magic or occult phenomena. Able to move and talk, these constructs can also step out of their frames to become three-dimensional beings. Born from artistic masterpieces, trompe l’oeils can easily pass for their original models, though close examination reveals that they are not flesh and blood, but only layers of paint. Trompe l’oeils can be created to act as guardians and spies, or on occasion, a painting will animate spontaneously. Rarely, a portrait is so lifelike, a nascent spirit is able to inhabit it. Believing itself to be as good as or better than the original, such a trompe l’oeil seeks to eliminate and replace the painting’s subject.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trompe%20l%27Oeil)
 ```encounter-table
 name: Trompe l'Oeil

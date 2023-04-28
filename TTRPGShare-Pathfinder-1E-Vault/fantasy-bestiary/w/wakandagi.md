@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wakandagi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,7 +60,7 @@ sources:
     desc: 273
 desc_short: This antlered beast combines the features of an elegant deer and a slithering serpent.
 ```
-# Description
+## Description
 Ardent defenders of large f lowing rivers and the branching tributaries that accompany them, wakandagis swim through wild, untouched lands, valiantly working to guard them from those who would over-settle their banks, spoil their purity, and take from their bounty without consideration for the needs of the river or the other creatures that inhabit it. When destructive creatures poison the rivers or humanoids draw too many fish from their waters, wakandagis are roused to confront the despoilers, either to force them to f lee or to end their destruction by any means necessary.
 
  While a wakandagi’s anger is fierce, it is not easily roused. Simple fishing expeditions and the occasional traveler are left in peace; only those doing extreme and malicious damage to the rivers in a wakandagi’s territory provoke it, and the creature attacks only after great deliberation. While these majestic beasts are rarely encountered by humans, tales around the fires of fish camps and within the relative safety of riverside taverns claim that, when riled, a wakandagi will come screaming out from within a veil of clinging mist, scattering foes, capsizing boats, and spitting its water bombs, which can render a foe unconscious. Any creature straying too close to the beast falls victim to its branching antlers.
@@ -66,7 +68,7 @@ Ardent defenders of large f lowing rivers and the branching tributaries that acc
  The other, less destructive tales involving wakandagis portray them as considerate and kind-hearted beasts, sometimes f looding a burning field to save a crop of corn, pushing a sinking boat to shore to save the crew, or even saving a child bitten by a viper while playing in the river.
 
  A wakandagi stands 9 feet at the shoulder, stretches 18 feet from nose to tail, and weighs 2,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wakandagi)
 ```encounter-table
 name: Wakandagi

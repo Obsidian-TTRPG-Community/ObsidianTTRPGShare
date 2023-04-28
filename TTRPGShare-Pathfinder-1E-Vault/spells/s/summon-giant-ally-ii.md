@@ -1,19 +1,21 @@
 ---
-alias: Summon Giant Ally II
+aliases: [Summon Giant Ally II]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Summon Giant Ally II 
+## Summon Giant Ally II
 
 **source**:: Inner Sea Races pg. 223  
 **school**:: conjuration (summoning) \[see text\]
 **level**:: druid 7 (Kellid)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (bit of cloth from a giant’s bag)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one or more giants  
@@ -21,7 +23,6 @@ alias: Summon Giant Ally II
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions as *summon giant ally I*, except you can summon one desert, fire, frost, or jungle giant or 1d3 cave, hill, marsh, river, slag, stone, or wood giants.
-

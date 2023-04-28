@@ -1,19 +1,21 @@
 ---
-alias: Silt Sphere
+aliases: [Silt Sphere]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Silt Sphere 
+## Silt Sphere
 
 **source**:: Blood of the Sea pg. 21  
 **school**:: illusion (glamer)
 **level**:: arcanist 3, bard 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a smooth stone)
 
-### Effect 
+### Effect
 
 **range**:: 20 ft.  
 **effect**:: 20-ft.-radius centered on you  
@@ -21,7 +23,7 @@ alias: Silt Sphere
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell generates an illusory silt cloud that drifts around you and moves with you. The cloud provides total concealment to creatures within it (including you) when the spell is cast. Creatures moving into the cloud after the spell is cast gain concealment (but not total concealment) due to the illusion. Any creatures within the cloud can see each other normally and can see out from within the cloud as though it were transparent. If a creature other than you that has total concealment due to the cloud makes an attack against any foe, it loses total concealment and gains concealment instead. If you make an attack against any creature, the spell ends.  
   

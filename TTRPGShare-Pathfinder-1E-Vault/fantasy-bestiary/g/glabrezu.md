@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Glabrezu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 61
 desc_short: Four arms grace the torso of this towering monstrosity. The monster’s eyes shine with a mix of intelligence and cruelty.
 ```
-# Description
+## Description
 Whereas the succubus is a demon that works her wiles by exploiting the physical lusts and needs of her prey, the glabrezu is a tempter of a different sort. Ferocious and bestial in form, the glabrezu is in fact a master of trickery and lies. With its ability to cloak its true form in pleasant illusions, the glabrezu uses its magic to grant wishes to mortal humanoids as a method of rewarding those who succumb to its guile and deceit. A wish granted by a glabrezu always fulfills the wisher’s need in the most destructive way possible-although such methods might not be immediately apparent. A struggling weaponsmith might wish for fame and skill at his craft, only to find that his best patron is a cruel and sadistic murderer who uses the weapons to further his destructive desires. A lonely man who wishes for a companion might have his wish granted in the form of a lost love returned to “life” as a vampire, and so on-the glabrezu is nothing if not creative in addressing a mortal’s desires.
 
 A glabrezu stands 18 feet tall and weighs just over 6,000 pounds. These treacherous demons form from the souls of the treasonous, the false, and the subversive-souls of mortals who, in life, bore false witness or used treachery and deceit to ruin the lives of others.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Glabrezu)
 ```encounter-table
 name: Glabrezu

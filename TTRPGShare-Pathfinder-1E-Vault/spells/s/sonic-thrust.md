@@ -1,19 +1,21 @@
 ---
-alias: Sonic Thrust
+aliases: [Sonic Thrust]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sonic Thrust 
+## Sonic Thrust
 
 **source**:: Ultimate Magic pg. 239  
 **school**:: evocation (sonic)
 **level**:: arcanist 5, bard 4, psychic 5, skald 4, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: see text  
@@ -21,7 +23,7 @@ alias: Sonic Thrust
 **saving-throw**:: Will negates (object) or none (see text)
 **spell-resistance**:: yes (object) (see text)
 
-### Description 
+### Description
 
 You produce a sweeping rush of sound that can hurl creatures or objects away from you, like the violent thrust version of *telekinesis*. You can hurl one object or creature per caster level (maximum 15) that is within range; it flies in a straight line away from you. Any objects of creatures thrown must be within 10 feet of each other. You can hurl a total weight of up to 25 pounds per caster level (maximum 375 pounds at 15th level).  
   

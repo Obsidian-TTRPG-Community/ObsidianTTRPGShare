@@ -1,19 +1,21 @@
 ---
-alias: Secret Sign
+aliases: [Secret Sign]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Secret Sign 
+## Secret Sign
 
 **source**:: Black Markets pg. 25  
 **school**:: illusion (glamer)
 **level**:: arcanist 2, bard 1, inquisitor 1, shaman 1, skald 1, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a lemon peel)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature or object  
@@ -21,7 +23,7 @@ alias: Secret Sign
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 You invisibly inscribe a small mark or short message (no more than 25 words) on a creature or object, similar to the way *arcane mark* works. The sign can be no more than 6 inches across, and if it’s a written message, it can be in any language you can read and write at the time of the spell’s casting. As you cast the spell, you can define one auditory, olfactory, tangible, or visual criterion-such as all creatures wearing green bands on their left arms or only creatures who smell of lavender or only orcs-that allows designated creatures within 30 feet to see the *secret sign*.  
   

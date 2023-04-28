@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mi-go
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 86
 desc_short: This unnaturally graceful creature has a bulbous fungoid lump for a head, spiny insectoid wings, and a tangle of spiky, clawed legs.
 ```
-# Description
+## Description
 Mi-go are both scientists and colonists-extraterrestrial travelers from deep space who view the universe as a canvas to be mastered and controlled. Their numbers on any particular planet can vary, but taken on a galactic scale, are mind-numbing in scope.
 
 Although a mi-go’s shape might suggest it is an arthropod, the creature is in fact a highly evolved form of extraterrestrial fungus. Mi-go communicate via a combination of clicking pincers and subtle shifts in the coloration of their bulbous heads.
 
 A typical mi-go is roughly the size of a human, but weighs only 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mi-go)
 ```encounter-table
 name: Mi-go

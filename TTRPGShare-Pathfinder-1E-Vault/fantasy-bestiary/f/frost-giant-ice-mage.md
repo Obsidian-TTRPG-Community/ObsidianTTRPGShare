@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frost Giant Ice Mage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
   - name: Monster Codex
     desc: 72
 ```
-# Description
+## Description
 Ice mages inherit the magic of the icy north. While some are tricksters and manipulators-perhaps using enlarge person to grow to Huge size and trick travelers into thinking they’re cloud giants-many act as support and artillery for their tribe’s raiders, killing at a distance with the power of a storm or increasing their allies’ size and ferocity. As powerful as sorcerers may be, frost giant society still places more value in physical strength and melee prowess, meaning sorcerers are usually advisors rather than leaders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frost%20Giant%20Ice%20Mage)
 ```encounter-table
 name: Frost Giant Ice Mage

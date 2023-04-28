@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Thrune Agent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 57
 ```
-# Description
+## Description
 Ostensibly the agents of the government of Cheliax, those who serve the ruling House of Thrune are more accurately the eyes, ears, and muscle of Queen Abrogail II herself. Though the Chelish government has few qualms against performing evil acts in the name of maintaining the law and the nation’s place in the Inner Sea region, some actions are performed less in Cheliax’s best interest than they are in the interest of for family that rules the nation. Whether acting as spies among rival noble houses or suspected rebel groups, serving as enforcers of the will of the House of Thrune, or simply making sure they’re seen violently carrying out the orders of Her Infernal Majestrix to intimidate the populace, Thrune agents are feared throughout Cheliax and beyond. Some claim that to become a trusted agent of the House of Thrune, prospective agents must enter into three distinct infernal pacts, binding the mind, soul, and body to Abrogail to ensure loyalty.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Thrune%20Agent)
 ```encounter-table
 name: NPC Thrune Agent

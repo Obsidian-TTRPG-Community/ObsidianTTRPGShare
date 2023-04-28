@@ -1,19 +1,21 @@
 ---
-alias: Ectoplasmic Eruption
+aliases: [Ectoplasmic Eruption]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ectoplasmic Eruption 
+## Ectoplasmic Eruption
 
 **source**:: Occult Adventures pg. 168  
 **school**:: evocation
 **level**:: psychic 7, spiritualist 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 30-ft.-radius burst  
@@ -21,7 +23,7 @@ alias: Ectoplasmic Eruption
 **saving-throw**:: Reflex half and Will partial, see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 A cascading avalanche of pale, swirling ectoplasmic matter erupts from a point you select. All creatures in the area when the spell is cast take 6d6 points of bludgeoning damage and are entangled for a number of rounds equal to your caster level. This spell passes between planes, so it affects ethereal and incorporeal creatures normally.  
   

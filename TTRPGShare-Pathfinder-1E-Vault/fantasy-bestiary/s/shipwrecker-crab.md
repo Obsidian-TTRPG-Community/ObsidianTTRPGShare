@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shipwrecker Crab
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 60
 desc_short: Claws the size of rowboats dominate the form of this massive crab. Barnacles and sea grass cling to the creature’s thick shell.
 ```
-# Description
+## Description
 A bane to all vessels traveling the seas, shipwrecker crabs can ruin the career of a merchant captain in minutes, destroying her ship, dumping its cargo into the waters below, and plucking her drowning crew from the wreckage for food.
 
 Shipwrecker crabs live most of their lives in shallow seas, coming near the coast or surface to hunt and feed.
 
 A shipwrecker crab measures 50 feet across, with two long arms capable of extending a further 30 feet each, and weighs 6 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shipwrecker%20Crab)
 ```encounter-table
 name: Shipwrecker Crab

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Mislead
+aliases: [Mythic Mislead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Mislead
+## Mythic Mislead
 
 **source**:: Mythic Adventures pg. 101  
 **school**:: illusion (figment, glamer)
 **level**:: alchemist 6, arcanist 6, bard 5, investigator 6, magus 6, mesmerist 5, occultist 5, psychic 6, skald 5, sorcerer 6, spiritualist 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **Target/Effect** you/one illusory double  
@@ -21,7 +23,7 @@ alias: Mythic Mislead
 **saving-throw**:: none or Will disbelief (if interacted with); see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You become invisible (as *greater invisibility*, a glamer), and at the same time, an illusory double of you (as *major image*, a figment) appears. You are then free to go elsewhere while your double moves away. The double appears within range but thereafter moves as you direct it (which requires concentration beginning on the first round after the casting). You can make the figment appear superimposed perfectly over your own body so that observers don't notice an image appearing and you turning invisible. You and the figment can then move in different directions. The double moves at your speed and can talk and gesture as if it were real, but it cannot attack or cast spells, though it can pretend to do so.  
   

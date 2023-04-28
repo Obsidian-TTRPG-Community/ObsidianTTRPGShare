@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Erinat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 56
 desc_short: The pockets of this urchin are stuffed with worthless objects.
 ```
-# Description
+## Description
 Erinat gremlins are obsessed with conflict and discord. They love nothing more than starting fights-the more inane and pointless the struggle, the better. Erinat gremlins typically use alter self to take the appearance of unfed, unwashed humanoid children as appropriate to their surroundings, allowing the gremlins to move freely through settlements (and accuse anyone who attempts to stop their malicious conduct of trying to kidnap them). Erinats don’t care who wins the fights they start; they simply wish to be entertained by the largest brawls they can arrange. The mischievous gremlins delight in creating chaos, and are prone to making outrageous claims in the hope of sparking riots, aided by forcing bystanders to attack each other with random, often ridiculous objects.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Erinat)
 ```encounter-table
 name: Erinat

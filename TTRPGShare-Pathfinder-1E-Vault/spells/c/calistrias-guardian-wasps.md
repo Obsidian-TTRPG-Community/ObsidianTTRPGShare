@@ -1,19 +1,21 @@
 ---
-alias: Calistria's Guardian Wasps
+aliases: ["Calistria's Guardian Wasps"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Calistria's Guardian Wasps 
+## Calistria's Guardian Wasps
 
 **source**:: Inner Sea Intrigue pg. 58  
 **school**:: conjuration (summoning)
 **level**:: arcanist 3, druid 3, hunter 3, psychic 3, ranger 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes; see text  
 **components**:: V, S, M (a glob of spiced honey)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: Swarm of wasps that builds a nest; see text  
@@ -21,7 +23,7 @@ alias: Calistria's Guardian Wasps
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You summon a wasp swarm (*Pathfinder RPG Bestiary 275*) that builds a 10-foot-by-10-foot nest in the place you designate-typically under the eaves of a house, amid the rafters of a tavern, or in another obscured place. The wasp swarm takes the spell’s casting time to build its nest; if the swarm is disrupted in any way (such as by being attacked) before you finish casting this spell, the wasps disappear and the spell fizzles.  
   

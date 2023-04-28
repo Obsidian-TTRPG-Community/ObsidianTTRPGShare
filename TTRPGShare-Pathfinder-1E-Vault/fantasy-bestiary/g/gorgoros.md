@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gorgoros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 228
 desc_short: Numerous writhing, coiling tails support this serpent-headed beast. Its three eyes glow a sickly yellow.
 ```
-# Description
+## Description
 The gorgoros delights in petrifying living creatures to serve as material for twisted artistic endeavors. These fiends emerge from walls to petrify and devour, and use their stone-altering magic to reshape battlefields-or petrified foes. Their grotesque art, made from resculpted victims, is short-lived; while gorgoroses don’t require sustenance, they enjoy feeding on the statues they create. Even those who avoid petrification may not escape unscathed; it is rumored that the daughters of survivors are born with petrifying gazes and serpents for hair. Blasphemous whispers hint that this is how medusas originated. 
 
 A gorgoros measures a full 15 feet in length and weighs 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gorgoros)
 ```encounter-table
 name: Gorgoros

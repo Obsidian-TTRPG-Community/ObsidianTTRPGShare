@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forsaken Defender
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 87
 desc_short: This undead soldier carries a heavy-looking pickaxe in one hand and a short sword in the other.
 ```
-# Description
+## Description
 Long ago, these defense specialists planned and supervised the construction of field fortifications for the Jistka Imperium. Now powered by unholy energies, they can create impromptu defenses in the blink of an eye.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forsaken%20Defender)
 ```encounter-table
 name: Forsaken Defender

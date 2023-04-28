@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leopard Slug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 30
 desc_short: This dark-yellow, hand-length slug is covered in a pattern of black spots and stripes.
 ```
-# Description
+## Description
 Leopard slugs are distinctive due to their unique spotted coloration, which calls to mind the pelt of a leopard. This characteristic pattern allows leopard slugs to blend in with foliage and stones in the forest environments they call home. Occasionally, one can find more colorful varieties of leopard slug (such as bright yellow, flaming red, or fluorescent orange), bred specifically as pets or familiars by the esoteric masters who prefer such creatures. Although many find them disgusting, leopard slugs are completely harmless and award no XP if slain.
 
  Leopard slugs are about 6 inches long and weigh less than a pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leopard%20Slug)
 ```encounter-table
 name: Leopard Slug

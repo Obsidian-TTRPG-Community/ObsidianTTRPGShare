@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brijidine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 37
 desc_short: This beautiful woman has flesh made of lava. She soars through the sky on a trail of fire. 
 ```
-# Description
+## Description
 Brijidines are passionate, powerful azatas attuned to the powers of earth and fire. They love basking in volcanoes, writing poetry, tending to sick creatures, and pursuing spicy recipes. The quickest way to befriend a brijidine is to present her with a fireproof copy of an exotic poem or a bag of rare peppers. Though their power is tied to primal destruction, they are quick-witted and love clever wordplay, whether in a sonnet or a dirty limerick. 
 
 The brijidine sees fire as a form of purity, a marked difference from its classical association with devastation and destruction. To a brijidine, the existence of hellfire is the rankest blasphemy, and while many azatas look to the demons of the Abyss as their greatest enemies, it is among the devils of Hell that most brijidines find focus for their anger. The fact that devils are immune to fire, the brijidine’s greatest strength, frustrates and angers these azatas all the more, forcing them to become far more imaginative and creative in their tactics when facing such foes. A brijidine stands 5-1/2 feet tall and weighs 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brijidine)
 ```encounter-table
 name: Brijidine

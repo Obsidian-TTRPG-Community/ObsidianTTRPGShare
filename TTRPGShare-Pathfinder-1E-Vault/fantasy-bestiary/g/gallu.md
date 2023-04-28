@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gallu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 44
 desc_short: This horned, winged, wolf-headed demon has bone-white flesh onto which have been riveted plates of spiky armor. 
 ```
-# Description
+## Description
 On the endless battlefields of the Abyss, the demon lords’ vast armies clash and tear at each other in horrific displays of warfare and bloodshed. These conflicts often arise from border disputes between demonic realms, or when one demon lord finds an excuse to attack another. But many of these immense wars have no good reason at all, for gallus eagerly foment war for war’s sake; they are master engineers of martial strife. These hateful, destructive demons arise from the souls of warmongers and war profiteers-nefarious leaders, corrupt priests, or subversive merchants who used their power to perpetuate existing wars or even to trigger new ones, all for the express purpose of personal gain or sadistic pleasure. 
 
 Known to some as warmonger demons, the gallus are not as enormous as many of the other powerful demons; despite their near-human size, however, they are among the deadliest of demonkind. Standing 8 feet tall and weighing 450 pounds, these creatures have wolf like (but hairless) horned heads, batlike wings, and pale flesh. Their feet end in hooves, and their tails resemble those of lions. Gallus can assume humanoid shape as well, and typically do so when interacting with mortals, allowing them to more easily sow seeds of war among those they interact with. 
@@ -81,7 +83,7 @@ Known to some as warmonger demons, the gallus are not as enormous as many of the
 These demons are relatively difficult to summon- gate spells can conjure them from the Abyss, but few other mortal spells can call them forth. As a result, most gallus encountered outside the Abyss have traveled there via portals or similar methods. Gallus are innately crafty creatures; when coming to a new world, they resist their natural urges to destroy in favor of infiltration. Extraordinarily patient, they can spend decades or more in disguise as they subtly build their inf luence and acquire positions of power; they then use those positions to incite government officials and other powerful individuals to wage war on their neighbors. Only when the hostilities have completely devastated their host, leaving it in smoking ruins, do gallus shed their human flesh and appear in their true form to gloat and torment the conflict’s few survivors before moving on to seek fresh victims. 
 
 In the Worldwound, gallus serve an additional role as commanders in the numerous demonic armies. Many control multiple divisions, each led by a marilith general, and report in turn to one of the Worldwound’s leaders, like Khorramzadeh, Areelu, or Aponavicius. But not all of the Worldwound’s gallus command armies. Those who serve Baphomet primarily utilize their deceptive natures to infiltrate various Mendevian mercenary orders, Mammoth Lord barbarian tribes, settlements on the fringes of more civilized lands, and other factions arrayed against the Worldwound. From within those groups, they serve as advisors, urging those they’ve infiltrated into launching ill-timed or poorly planned attacks on their demonic foes. These gallus occasionally feed their humanoid “allies” legitimate intelligence about demonic fortifications or troop movements, knowing that a little truth can go a long way in encouraging mortals to act upon their more violent urges.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gallu)
 ```encounter-table
 name: Gallu

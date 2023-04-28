@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kuwa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 208
 desc_short: This golden-skinned fiend has horns, fangs, and bulging eyes. It grips a spiked club in its four-fingered claws.
 ```
-# Description
+## Description
 While the majority of oni tend to be larger than life, and thus often end up having associations with giants and other enormous humanoids, not all of them are born into physical bodies that match their boundless appetites for cruelty. The kuwa are an example of this, for they are oni who clothe themselves in human flesh. While their true forms remain unmistakably fiendish, with golden skin, claws, and monstrous visages with short sharp horns, kuwa are most at home living in disguise among humans. As with most oni, they generally avoid their own kind, and instead seek positions of power in human cities, often as guard captains, guildmasters (particularly of thieves’ guilds), and aristocrats. Most kuwa avoid taking on the role of a spellcaster unless they possess class levels in an appropriate class. Likewise, all but the most ambitious kuwa avoid positions of true authority, such as king or mayor. Kuwa are most comfortable in the upper echelon of command, but avoid positions so important that they have too many eyes on them. To a kuwa, a position of leadership that doesn’t allow frequent abuse of that power is a waste, and by aiming for less publicly visible positions, the kuwa increases its opportunities for such abuse.
 
 Once a kuwa secures a position in a human society, the accumulation of wealth becomes its primary motivation. A kuwa wants to live a life of decadence and sensual pleasure, and like any oni, it wants to propagate its own kind. Its strength and magical powers enable it to easily dominate normal folk, allowing it to gather groups of thuggish, like-minded humans to lead in banditry and worse.
 
 A typical kuwa stands about 6 feet in height and weighs 190 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kuwa)
 ```encounter-table
 name: Kuwa

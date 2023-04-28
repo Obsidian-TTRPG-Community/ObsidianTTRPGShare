@@ -1,19 +1,21 @@
 ---
-alias: Antilife Shell
+aliases: [Antilife Shell]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Antilife Shell 
+## Antilife Shell
 
 **source**:: PRPG Core Rulebook pg. 242  
 **school**:: abjuration
 **level**:: cleric 6, druid 6, hunter 6, oracle 6, psychic 6, shaman 6, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **area**:: 10-ft.-radius emanation, centered on you  
@@ -21,7 +23,7 @@ alias: Antilife Shell
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You bring into being a mobile, hemispherical energy field that prevents the entrance of most types of living creatures.  
   

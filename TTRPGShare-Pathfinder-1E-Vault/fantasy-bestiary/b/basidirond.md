@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Basidirond
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 28
 desc_short: This strange plant consists of four spidery stalks, long green tendrils, and an inverted bell-shaped cap filled with spores.
 ```
-# Description
+## Description
 The strange fungal basidirond is a deadly plant monster that feeds on mineral-rich moisture, be it runoff from cave walls or fresh blood. By ensuring a constant flow of nutritious moisture, canny cave dwellers can use basidironds as guardians for their lairs, although they must take care to avoid the plant’s hunting routes lest they become its latest victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Basidirond)
 ```encounter-table
 name: Basidirond

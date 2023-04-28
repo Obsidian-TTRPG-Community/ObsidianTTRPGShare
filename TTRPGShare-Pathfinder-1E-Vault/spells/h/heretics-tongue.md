@@ -1,19 +1,21 @@
 ---
-alias: Heretic's Tongue
+aliases: ["Heretic's Tongue"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Heretic's Tongue 
+## Heretic's Tongue
 
 **source**:: Pathfinder \#107: Scourge of the Godclaw pg. 72  
 **school**:: enchantment (mind-affecting)
 **level**:: cleric 5, inquisitor 5, mesmerist 6, oracle 5, warpriest 5 (Geryon)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: living creature  
@@ -21,7 +23,7 @@ alias: Heretic's Tongue
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You fill your target’s mind with blasphemous knowledge. If the target fails its saving throw, it cannot cast spells or use spell-like abilities for the duration of the spell. Divine spellcasters whose power derives from the worship of a single deity (most clerics, paladins, and warpriests) have the potential to suffer worse. When targeting a divine spellcaster, you can designate an alignment. If the named alignment coincides with either the spellcaster’s alignment or that of her deity, the divine spellcaster loses access to all supernatural and spell-like class abilities granted by the associated class for the spell’s duration-blessings, domain powers, channel energy, smite evil, etc.  
   

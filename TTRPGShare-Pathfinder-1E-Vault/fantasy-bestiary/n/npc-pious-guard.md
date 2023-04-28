@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pious Guard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
   - name: NPC Codex
     desc: 117
 ```
-# Description
+## Description
 These paladins often serve as guards, or administer justice for judges and merchants who perform good works for the god of cities. Often, entire units of these paladins are formed to protect holy places in large cities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pious%20Guard)
 ```encounter-table
 name: NPC Pious Guard

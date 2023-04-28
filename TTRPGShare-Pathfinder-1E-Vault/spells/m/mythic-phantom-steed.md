@@ -1,19 +1,21 @@
 ---
-alias: Mythic Phantom Steed
+aliases: [Mythic Phantom Steed]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Phantom Steed
+## Mythic Phantom Steed
 
 **source**:: Mythic Adventures pg. 103  
 **school**:: conjuration (creation)
 **level**:: arcanist 3, bard 3, bloodrager 3, magus 3, occultist 3, skald 3, sorcerer 3, spiritualist 3, summoner 2, summoner (unchained) 2, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.  
 **effect**:: one quasi-real, horselike creature  
@@ -21,7 +23,7 @@ alias: Mythic Phantom Steed
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure a Large, quasi-real, horselike creature (the exact coloration can be customized as you wish). It can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it.  
   

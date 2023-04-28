@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mechanical Efreeti
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,11 +41,11 @@ sources:
     desc: 22
 desc_short: This crimson-skinned genie has an artificial, sculpted appearance.
 ```
-# Description
+## Description
 Mechanical genies are best used as stationary guards rather than scouts, and are often placed in pairs so they can wind each other up. They stand 2 feet tall and weigh around 8 pounds.
 
  The most common mechanical genie is that presented above. A mechanical efreeti has a face sculpted into a permanent scowl and an inner boiler to heat its large fists.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mechanical%20Efreeti)
 ```encounter-table
 name: Mechanical Efreeti

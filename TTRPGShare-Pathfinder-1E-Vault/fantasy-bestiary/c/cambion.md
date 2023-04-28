@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cambion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 84
 desc_short: This red-skinned, demonic humanoid has a forked tongue, and a pair of black horns sprout from its brow.
 ```
-# Description
+## Description
 When an incubus procreates with a humanoid in the Abyss, and the mortal parent resides on that plane throughout the pregnancy, the gestating child absorbs enough Abyssal energy to be born not as a half-demon, but as a type of humanoid demon known as a cambion.
 
 Cambions are true outsiders. The majority of cambions have red skin, horns on their heads, and cloven hooves for feet-the fiendish aspects of cambions’ appearance don’t range as widely as those of tieflings. A typical cambion stands 6 feet tall and weighs 190 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cambion)
 ```encounter-table
 name: Cambion

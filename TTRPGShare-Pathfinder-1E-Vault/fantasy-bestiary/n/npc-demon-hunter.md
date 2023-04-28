@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Demon Hunter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
   - name: NPC Codex
     desc: 127
 ```
-# Description
+## Description
 The demon hunter has sworn to battle the hordes of the Abyss. Though the demons constantly tempt her and try to lead her from her path, she remains resolute-though somewhat paranoid and difficult to befriend because of the number of allies she’s seen slain.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Demon%20Hunter)
 ```encounter-table
 name: NPC Demon Hunter

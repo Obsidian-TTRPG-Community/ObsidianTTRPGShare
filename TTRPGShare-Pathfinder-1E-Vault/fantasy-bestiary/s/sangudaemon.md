@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sangudaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,9 +70,9 @@ sources:
     desc: 54
 desc_short: This human-sized, serpent-headed spider seems to be made of clotted blood, its dragonfly-like wings dripping crimson streamers.
 ```
-# Description
+## Description
 Sangudaemons personify death by blood loss. Perhaps more so than any other caste of daemon, the sangudaemon enjoys the hunt for prey, whether that prey is petitioner, mortal, or anything else that bleeds. That the souls of those who perish to a sangudaemon’s wrath are consigned to Abaddon makes these daemons particularly hated by those who hold the supernatural cycle of the soul’s journey sacred. A sangudaemon is about 5 feet long and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sangudaemon)
 ```encounter-table
 name: Sangudaemon

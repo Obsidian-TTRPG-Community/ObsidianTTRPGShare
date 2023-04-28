@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Rakshasa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
     desc: 215
 desc_short: Fine jewelry and clothing accentuate this tiger-headed figure’s striped fur and formidable fangs.
 ```
-# Description
+## Description
 A mythic rakshasa is a natural mind reader and uses its abilities to tempt great heroes into failure and ruin-all toward to ultimate goal of seeding an entire civilization’s destruction.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Rakshasa)
 ```encounter-table
 name: Mythic Rakshasa

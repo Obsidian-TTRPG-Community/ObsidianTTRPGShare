@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stymphalides Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 88
 desc_short: This cloud of long-necked birds rises into the air, screeching in a cacophony reminiscent of klaxons and clanging tools. As these avians flit among one another, their feathers glint with a metallic gleam, reflecting even the dimmest light back a hundredfold through a dim haze of blood.
 ```
-# Description
+## Description
 Man-eating birds of prey, the rare creatures known as stymphalides stalk the arid plains and coastlines of Golarion in ravenous swarms, shredding warm-blooded animals and unwary travelers with their bladed feathers and dagger-like beaks. From a distance, stymphalides might easily be mistaken for cranes, ibises, or other longnecked birds, though in full sunlight their gleaming feathers and the haze of blood lingering from past meals are impossible to mistake.
 
 Peculiarly, the feathers and beak of a stymphalides are made of steel, similar to the metallic hide of a gorgon. The wings of stymphalides are as sharp as knives and often lacerate their prey as the birds swarm and beat their wings against their unfortunate victims’ skin. Similarly, their beaks are supernaturally sharp and can pierce the tough hides of animal prey or the armor of those warriors foolish enough to hunt the creatures. Even if a victim of a stymphalides swarm’s frenzied attacks manages to fend off the vicious creatures, the wounds caused by the birds continue to bleed long after being inflicted, and the victim often perishes from loss of blood before ever reaching help.
 
 Most stymphalides stand approximately 2-1/2 feet tall and weigh little more than 40 pounds. Although mean-tempered and territorial, lone stymphalides prove relatively harmless, thus traveling in swarms of several dozen, relying on strength of numbers to bring down large or dangerous prey. Many tales also tell of enormous breeds of these monstrous birds, powerful enough to prey upon wyverns. These giant stymphalides are said to grow up to 13 feet tall and weigh over 250 pounds, with wingspans reaching upward of 25 feet. Such gigantic stymphalides are rarely seen, preferring to lurk upon desolate cliffs or even amid harsh extraplanar realms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stymphalides%20Swarm)
 ```encounter-table
 name: Stymphalides Swarm

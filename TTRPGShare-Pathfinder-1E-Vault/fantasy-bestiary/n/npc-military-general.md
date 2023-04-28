@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Military (General)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
   - name: GameMastery Guide
     desc: 287
 ```
-# Description
+## Description
 Generals are the masters of the battlef ield, expert and veteran soldiers who conceive and execute tactical plans and inspire their troops on to victory. Generals may command from a rearward vantage point, but when needed, may dive into the fray with sword in hand to turn the tide through sheer puissance. Generals can be used as arena champions, masters of fighting schools, or elite warriors trained to fight with or against spellcasters. A general is usually accompanied by a knight adjutant, with a lance of four cavalry as bodyguards and messengers (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Military%20(General))
 ```encounter-table
 name: NPC Military (General)

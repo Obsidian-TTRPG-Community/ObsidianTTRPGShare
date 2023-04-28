@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Termagant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 24
 desc_short: This hovering iron maiden heaves forth a monstrously pregnant mass of tortured limbs and raw tentacles.
 ```
-# Description
+## Description
 Coddling, cooing mothers of nails and aberrant life, kyton termagants seek to make all living creatures adopted members of their malformed brood. That most of their purposefully deformed progeny die shortly after coming into their care only compels termagants to search farther for sturdier beings better suited to the honor of becoming their misshapen children.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Termagant)
 ```encounter-table
 name: Termagant

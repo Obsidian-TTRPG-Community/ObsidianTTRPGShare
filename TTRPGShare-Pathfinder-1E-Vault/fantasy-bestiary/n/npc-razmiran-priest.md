@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Razmiran Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 46
 ```
-# Description
+## Description
 Razmiran priests serve the same role as the clergy of most religions: spreading their faith and punishing heresy. Razmir’s priests are quick to unleash their power on any who deny his divinity, or worse, who actually have evidence that would expose his ruse. Though they are primarily isolated in the nation of Razmiran itself, priests of the Living God have begun travelling throughout Avistan, particularly the nations on Lake Encarthan, with increasing regularity, leading some to believe that Razmir has some sinister plan in the works beyond simply converting more followers into the fold through intimidation and force.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Razmiran%20Priest)
 ```encounter-table
 name: NPC Razmiran Priest

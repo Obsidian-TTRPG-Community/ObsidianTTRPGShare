@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sand Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 46
 desc_short: This towering creature appears to be made entirely of sand, with pockets of soft earth and rock reinforcing its tall, humanoid form.
 ```
-# Description
+## Description
 A sand golem is an animate mass of living sand, soft earth, and rocks first employed during the early period of the Jistka Imperium as the original defenders of the city’s many golemwork factories. Given the readily available crafting resources and plentiful artificers, the golems made effective and inexpensive additions to the Jistkans’ menagerie of creations. As time went on, Jistkan golem crafters also found that these golems proved equally useful on the front lines of battle. However, as Jistkan enemies began utilizing creatures from beyond the Material Plane, sand golems were eventually phased out in favor of bigger, more dangerous beings with far greater abilities. As conflicts with their neighbors eventually broke and scattered the Jistka Imperium, the knowledge of how to create these golems was lost to the sands of time.
 
  Hundreds of years later, Osiriani golem crafters delving into uncovered Jistkan catacombs eventually stumbled upon the knowledge of creating sand golems. Though the process was archaic, these crafters were able to once more produce new sand golems. When the time came to put their newly found treasure to the test, the artificers knew the perfect trial for their unearthed creations: defensive sentries in the scorching desert surrounding many of Osirion’s cities. When enemies approached, the sand golems coalesced from the nearby sand and made quick work of trespassers and potential invaders, proving a brilliant success.
@@ -62,7 +64,7 @@ A sand golem is an animate mass of living sand, soft earth, and rocks first empl
  Sand golems, like other constructs, obey their creators’ commands to the best of their ability. Should the creator die, or should the golem’s commands be unattainable, the sand golem goes rogue. The creature is still completely functional, but it follows no commands or orders from anyone. Over the course of time, many sand golems have gone rogue, and plenty still roam the harsh deserts of northern Garund.
 
  Though sand golems are usually encountered alone, particularly demanding tasks might cause their masters to send a gang of sand golems to complete the mission. A sand golem is 10 feet tall and weighs 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sand%20Golem)
 ```encounter-table
 name: Sand Golem

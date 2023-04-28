@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vydrarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 62
 desc_short: Seeping spines cover the inky scales of this long, sinuous beast, its twin serpent heads writhing at the ends of its swaying necks.
 ```
-# Description
+## Description
 The terrifying creature known as the vydrarch is most well known among Magnimarians from the famous tales of the legendary paladin Alcaydian Indros battling the beast on the shores of what would become Magnimar. The vydrarch was originally thought to be an entirely unique creature, but in recent years, reports from sailors journeying across the Steaming Sea and the remains of wrecked ships washing ashore have hinted at the existence of other such beasts. Vydrarchs live solely for the thrill of destruction and chaos, but what elder force could have created such a monster is unknown. Their dual heads act in tandem to destroy vessels and devour cargo, but survivors of such attacks claim that the heads can act independently of one another if need be, occasionally talking or even arguing among themselves.
 
 A vydrarch is 40 feet long from tail to head and weighs 10 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vydrarch)
 ```encounter-table
 name: Vydrarch

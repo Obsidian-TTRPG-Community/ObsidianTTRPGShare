@@ -1,19 +1,21 @@
 ---
-alias: Mythic Invisibility
+aliases: [Mythic Invisibility]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Invisibility
+## Mythic Invisibility
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: illusion (glamer)
 **level**:: adept 2, alchemist 2, antipaladin 2, arcanist 2, bard 2, inquisitor 2, investigator 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, redmantisassassin 2, skald 2, sorcerer 2, spiritualist 2, summoner 2, summoner (unchained) 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (an eyelash encased in gum arabic)
 
-### Effect 
+### Effect
 
 **range**:: personal or touch  
 **target**:: you or a creature or object weighing no more than 100 lbs./level  
@@ -21,7 +23,7 @@ alias: Mythic Invisibility
 **saving-throw**:: Will negates (harmless) or Will negates (harmless, object)
 **spell-resistance**:: yes (harmless) or yes (harmless, object)
 
-### Description 
+### Description
 
 The creature or object touched becomes invisible. If the recipient is a creature carrying gear, that vanishes, too. If you cast the spell on someone else, neither you nor your allies can see the subject, unless you can normally see invisible things or you employ magic to do so.  
   

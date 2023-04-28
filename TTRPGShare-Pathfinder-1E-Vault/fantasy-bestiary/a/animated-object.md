@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Animated Object
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 14
 desc_short: The skeleton locked within rattles as this animated cage lurches forward on chain legs in search of new prisoners.
 ```
-# Description
+## Description
 An animated object is not simply one monster, but a whole category. The stats presented here are for a Medium animated object (with 2 CP that have not been spent to gain additional abilities), but any object can become animated, most commonly via the spell animate objects. Permanent animated objects can be built using the Craft Construct feat. Unless an animated object uses a Construction Point to be made of another material, all animated objects are made of wood or material of equivalent hardness. Creating an animated object of a different size than Medium can be done simply by adjusting the object’s size (and thus adjusting its Strength, Dexterity, natural armor bonus, and size modifier to attack and AC as detailed on page 296) and Hit Dice.
 
 SizeSample ObjectHDCPCR TinyCandelabra1d1011/2 SmallChair2d10+1012 MediumCage3d10+2023 LargeStatue4d10+3035 HugeWagon7d10+4047 GargantuanCatapult10d10+6059 ColossalShip13d10+80611
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Animated%20Object)
 ```encounter-table
 name: Animated Object

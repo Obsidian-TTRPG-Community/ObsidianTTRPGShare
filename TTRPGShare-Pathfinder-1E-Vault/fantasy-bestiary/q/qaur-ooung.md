@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Qaur-Ooung
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,7 +82,7 @@ sources:
     desc: 236
 desc_short: The sides of this tentacled monstrosity-part jellyfish, part mushroom forest-swell with opaque, pulsing blisters.
 ```
-# Description
+## Description
 Immense Oaur-Ooung is a horrifically prolific source of soldiers for the qlippoth’s war against mortals. It is from this qlippoth lord that a significant number of the Abyss’s qlippoth hordes emerge. If through some chance event Oaur-Ooung were permanently slain, the production of qlippoth by the Abyss would not cease entirely, but it would diminish by a noticeable amount-at least, until the Abyss churned out some sort of equally vile and fecund replacement for the slain qlippoth lord. 
 
 Oaur-Ooung’s Abyssal sanctum is a poisoned ocean with no shoreline. Here and there in its inky depths, submerged mountaintops reach in vain for the churning sea’s surface, and leviathans swim through the vastness. Oaur-Ooung is the largest among them, but she keeps no lair as her own, content to drift through the eternal ocean spawning qlippoth large and small. Some are drowned, some she consumes, but enough escape her clutches and the ocean’s depths to make their way elsewhere into the Abyss, often via churning vortices to other realms. 
@@ -88,7 +90,7 @@ Oaur-Ooung’s Abyssal sanctum is a poisoned ocean with no shoreline. Here and t
 Sometimes, the creatures born from OaurOoung’s blisterwombs are particularly powerful; it’s rumored that at least one of the Abyss’s demon lords began its existence as a qlippoth lord emerging from Oaur-Ooung. Those few who have recently seen Oaur-Ooung (and survived) claim that a blisterwomb of unprecedented size boils on her flank, suggesting that she is about to spawn something of immense power. What this new addition to the Abyss might be and what form it might take is unknown, but it surely bodes ill for mortal life on countless worlds. 
 
 Oaur-Ooung’s body is 120 feet long, but her central tentacular stalk can unfurl to a length of miles for brief moments to lash out at creatures that have the distinct misfortune of having attracted her attention.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Qaur-Ooung)
 ```encounter-table
 name: Qaur-Ooung

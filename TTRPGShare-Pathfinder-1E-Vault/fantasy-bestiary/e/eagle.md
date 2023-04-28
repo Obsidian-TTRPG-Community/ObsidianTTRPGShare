@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Eagle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,7 +43,7 @@ sources:
     desc: 118
 desc_short: This magnificent bird of prey has dark feathers save for those on its head, which are pure white.
 ```
-# Description
+## Description
 Among the most majestic of raptors, these predatory birds pluck fish from streams and lakes, drop down on rodents and small mammals in alpine meadows, and have even been known to pull young mountain goats from the assumed safety of their cliffs.
 
 These creatures, like all birds of prey, have powerful clawed talons and sharp, hooked beaks perfect for tearing flesh. Their enhanced eyesight allows them to spot prey from great distances, and they typically hunt in wide circling patterns high above the ground.
@@ -49,7 +51,7 @@ These creatures, like all birds of prey, have powerful clawed talons and sharp, 
 Eagles typically build their massive nests in the tops of tall trees or among the rocky crags of steep cliffs. During breeding season, an eagle lays two eggs, but only one chick normally survives, as the stronger of the two usually kills and eats the weaker.
 
 Eagles generally weigh between 8 and 15 pounds, with a wingspan of up to 7 feet, depending on the species.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Eagle)
 ```encounter-table
 name: Eagle

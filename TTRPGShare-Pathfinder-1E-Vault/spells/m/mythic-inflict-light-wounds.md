@@ -1,19 +1,21 @@
 ---
-alias: Mythic Inflict Light Wounds
+aliases: [Mythic Inflict Light Wounds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Inflict Light Wounds
+## Mythic Inflict Light Wounds
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: necromancy
 **level**:: antipaladin 1, cleric 1, inquisitor 1, occultist 1, oracle 1, shaman 1, spiritualist 1, warpriest 1, witch 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Inflict Light Wounds
 **saving-throw**:: Will half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 When laying your hand upon a creature, you channel negative energy that deals 1d8 points of damage + 1 point per caster level (maximum +5).  
   

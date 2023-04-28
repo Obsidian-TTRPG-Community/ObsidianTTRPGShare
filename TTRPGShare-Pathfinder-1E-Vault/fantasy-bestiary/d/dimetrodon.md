@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dimetrodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 78
 desc_short: The massive sail on the back of this squat reptilian creature flexes and twitches as the beast stalks forward.
 ```
-# Description
+## Description
 A dimetrodon is a quadrupedal reptile similar in shape to a crocodile, but with a blunter snout filled with jagged, sharp teeth. Its most distinguishing feature is the massive sail that runs the length of its back. By extending or contracting the fin, the cold-blooded reptile can control its body temperature with ease. While they are not technically dinosaurs, dimetrodons are still often found dwelling in regions inhabited by such creatures.
 
 A fully grown adult dimetrodon can reach a length of up to 15 feet and weigh upward of 2,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dimetrodon)
 ```encounter-table
 name: Dimetrodon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Almiraj
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
     desc: 8
 desc_short: This oversized rabbit has a single long, pearlescent horn protruding from its crown.
 ```
-# Description
+## Description
 The almiraj is a surprisingly dangerous predator. Almirajes’ strong affinity with witches, magical gore attacks, and susceptibility to hexes suggest they have arcane origins, perhaps the result of experiments by witches seeking to deliberately create a new kind of familiar.
 
 Reminiscent of a unicorn horn, an almiraj’s most prominent feature serves as both a deterrent and deadly weapon. The almiraj uses its horn to hunt, stalking and spearing prey on the brutal appendage. The horn’s unique magical properties have the gruesome side effect of forcing the almiraj to consume its prey while it still lives, before it turns to stone- when hunting smaller creatures, the almiraj strikes to slow its prey through blood loss and to disable it by maiming its limbs. Occasionally, an enterprising individual will hunt an almiraj for its horn, but success is limited since almirajes are exceptionally vicious, stealthy, and athletic targets- their acrobatic leaps bring their horns within reach of the vital organs of much larger creatures.
@@ -62,7 +64,7 @@ Almirajes are fiercely territorial, although they flee if unable to fight on the
 It’s unclear how almirajes reproduce, since females are rare and the creatures are always encountered alone. Records indicate that they live for 40 to 60 years and some communities are able to build respectful, if wary, relationships with them.
 
 Almirajes are particularly popular with witches as familiars. Spellcasters of any alignment with the Improved Familiar feat can gain an almiraj as a familiar at 5th level.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Almiraj)
 ```encounter-table
 name: Almiraj

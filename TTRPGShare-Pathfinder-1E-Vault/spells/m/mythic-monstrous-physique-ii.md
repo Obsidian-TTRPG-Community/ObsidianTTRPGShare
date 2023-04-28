@@ -1,25 +1,27 @@
 ---
-alias: Mythic Monstrous Physique II
+aliases: [Mythic Monstrous Physique II]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Monstrous Physique II
+## Mythic Monstrous Physique II
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 4, arcanist 4, bloodrager 4, investigator 4, magus 4, redmantisassassin 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 This spell functions as *monstrous physique I*, except it also allows you to assume the form of a Tiny or Large creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, scent, freeze, grab, leap attack, mimicry, pounce, sound mimicry, speak with sharks, and trip. If the creature has the undersized weapons special quality, you gain that quality.  
   

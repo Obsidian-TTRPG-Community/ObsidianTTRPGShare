@@ -1,19 +1,21 @@
 ---
-alias: Heroic Fortune, Mass
+aliases: [Heroic Fortune, Mass]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Heroic Fortune, Mass 
+## Heroic Fortune, Mass
 
 **source**:: Advanced Player's Guide pg. 324  
 **school**:: evocation
 **level**:: bard 4, cleric 5, oracle 5, skald 4, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF, M (diamond dust worth 1,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one or more creatures, no two of which can be more than 30 ft. apart  
@@ -21,6 +23,6 @@ alias: Heroic Fortune, Mass
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *heroic fortune*, except as noted above.

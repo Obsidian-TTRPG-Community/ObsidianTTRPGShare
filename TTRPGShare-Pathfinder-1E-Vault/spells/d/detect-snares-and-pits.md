@@ -1,19 +1,21 @@
 ---
-alias: Detect Snares and Pits
+aliases: [Detect Snares and Pits]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Snares and Pits 
+## Detect Snares and Pits
 
 **source**:: PRPG Core Rulebook pg. 268  
 **school**:: divination
 **level**:: druid 1, hunter 1, occultist 1, ranger 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Snares and Pits
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can detect simple pits, deadfalls, and snares as well as mechanical traps constructed of natural materials. The spell does not detect complex traps, including trapdoor traps.  
   

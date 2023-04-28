@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gourd Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 178
 desc_short: This little plant man walks on legs like tangled vines and has a pumpkin carved with eyes and a mouth for a head.
 ```
-# Description
+## Description
 With tangles of leafy vines for limbs and a carved gourd for a head, gourd leshys present a rather comical appearance. Intimately connected with the harvest season, gourd leshys see to the health and sustainable harvest of crops, especially vegetables and grains.
 
 Superstition and love of rituals run deep in gourd leshys. They do their best to exactly reproduce what worked before with every trivial activity, and change seemingly random details when attempting tasks they previously failed. Gourd leshys collect random odds and ends as good luck charms, ranging from polished stones to bird feathers to tarnished coins. Credulous to a fault, gourd leshys believe nearly anything they hear from those they trust. However, their admittedly hollow heads still hold memories, and a gourd leshy betrayed rarely forgets.
 
 As gourd leshys aren’t particularly strong, they often fight dirty. One favorite trick is to wait for an enemy to come within striking distance while in gourd form so that they can assume their true form and make a sneak attack in the same round.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gourd%20Leshy)
 ```encounter-table
 name: Gourd Leshy

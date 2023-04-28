@@ -1,19 +1,21 @@
 ---
-alias: Mythic Black Tentacles
+aliases: [Mythic Black Tentacles]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Black Tentacles
+## Mythic Black Tentacles
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: conjuration (creation)
 **level**:: arcanist 4, bloodrager 4, magus 4, psychic 4, sorcerer 4, spiritualist 4, summoner 3, summoner (unchained) 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (octopus or squid tentacle)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Mythic Black Tentacles
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell causes a field of rubbery black tentacles to appear, burrowing up from the floor and reaching for any creature in the area.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Glacier Toad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 268
 desc_short: This improbably large toad has pale blue flesh and a body covered with jagged, icy growths.
 ```
-# Description
+## Description
 Glacier toads are strange, magical cousins of the more common giant toads. None can say for certain whether they were bred, or evolved from exposure to elemental energies. Glacier toads have no practical use for most treasure, but have a fondness for shiny objects like gems and glowing items.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Glacier%20Toad)
 ```encounter-table
 name: Glacier Toad

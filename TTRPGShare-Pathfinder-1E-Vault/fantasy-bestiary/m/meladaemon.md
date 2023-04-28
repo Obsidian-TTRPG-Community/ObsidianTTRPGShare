@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Meladaemon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 30
 desc_short: This foul creature looks like an emaciated humanoid with the head of a jackal. 
 ```
-# Description
+## Description
 As personifications of death from starvation and thirst, these withered fiends spend their time destroying resources and spreading hunger. Deacons of the Horseman of Famine, these creatures visit worlds throughout the planes, destroying acres of crops and slaughtering livestock in order to harvest souls for their honored master. Meladaemons delight in the slow death of starvation, going so far as to experiment with various bodily deficiencies and mortal weaknesses. Arrogant and utterly bound to their patron, meladaemons rarely work with others of their kind and never serve any of the other three Horsemen except in the rarest of circumstances. 
 
 Meladaemons stand approximately 12 feet tall and weigh 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Meladaemon)
 ```encounter-table
 name: Meladaemon

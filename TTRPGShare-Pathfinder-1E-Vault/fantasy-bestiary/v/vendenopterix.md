@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vendenopterix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 281
 desc_short: This elven woman’s allure is obfuscated by her ragged insectile wings and long, clawlike nails.
 ```
-# Description
+## Description
 Beautiful, seductive, and ruthless, vendenopterixes are servitors of Calistria tasked with hunting down and punishing enemies of the faith. Though they typically take female form, vendenopterixes are comfortable taking the shape of any gendered humanoid (including polygendered creatures) but avoid genderless shapes. A vendenopterix’s purpose is to punish, but not necessarily to kill. She may be tasked with exposing a creature’s secrets or convincing a creature to do so itself in an embarrassing way, and she is just as likely to drain her victim’s mental facilities until it acts like a buffoon or clod as she is to poison her target so it appears to be aff licted with (or even dying from) a venereal pox. Vendenopterixes stand about 6 feet tall and range in weight from a slender 140 pounds to a curvaceous 240.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vendenopterix)
 ```encounter-table
 name: Vendenopterix

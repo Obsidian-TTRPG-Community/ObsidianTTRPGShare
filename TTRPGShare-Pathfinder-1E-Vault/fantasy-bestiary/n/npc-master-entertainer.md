@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Master Entertainer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,7 +54,7 @@ sources:
   - name: NPC Codex
     desc: 265
 ```
-# Description
+## Description
 Accomplished as an acrobat, clown, dancer, juggler, and piper, a master entertainer augments her performance with magical effects for audiences that pay high enough ticket prices. Odd-looking even by gnome standards, she is adept at making herself appear male or female, a human or elf child, or even something monstrous like a goblin or tiefling. When augmented by her magic cap, the disguise is instantaneous and flawless. It is often her practice to create a mundane disguise, then use the cap to create an identical disguise over it, so that any who magically detect or penetrate the disguise see the same thing underneath, leading them to believe their magic is erratic.
 
 If working for a wealthy patron, she uses her funding to create surreal and amusing backdrops, stages, and costumes, sometimes with colors only visible to certain races, or concealing words and images that appear only when viewed with darkvision. She uses these props to perform whimsical narratives that are suitable for children, but that can easily be altered into something haunting, disturbing, or even erotic or blasphemous with a word from her employer. She has been known to employ illusionists to add or subtract elements from a performance, or (like her habit with disguises) create identical illusions on top of actual scenery, perhaps altering it slightly to give the performance a sense of heightened unreality.
@@ -62,7 +64,7 @@ Because of her experience traveling with unsavory characters, she has no qualms 
 She may travel alone or as part of a troupe of actors or musicians (use the journeyman carpenter stat block, expert 4), tavern singers (bards 1), street performers (bards 2), or laborers (use the ruffian stat block, commoner 7). During most of her travels she is content to cavort and entertain, but from time to time she sneaks out to burgle or rob the rich and split the money with her companions.
 
 The above stat block can be used for any kind of skilled nonmagical performer or artisan, such as an actor, musician, painter, or singer. Alter the NPC’s magic items to suit the particular role; for example, scrolls of eagle’s splendor instead of scrolls of cat’s grace.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Master%20Entertainer)
 ```encounter-table
 name: NPC Master Entertainer

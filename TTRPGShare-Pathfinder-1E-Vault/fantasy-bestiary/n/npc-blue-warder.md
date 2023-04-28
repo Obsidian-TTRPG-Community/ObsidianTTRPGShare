@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Blue Warder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 13
 ```
-# Description
+## Description
 The libraries of the ancient subterranean dwarf fortress of Tar-Kazmukh in the Five Kings Mountains hold the accumulated arcane lore of the dwarven race. Tasked with the security of this store of knowledge are the Blue Warders, dwarven librarians and spell-weavers. Each Blue Warder is tattooed in counter-sigils that permit passage through the innumerable wards and other magical defenses of the library; the number and complexity of a dwarf ’s tattoos increase with age and responsibility, allowing access to ever-deeper chambers within the repository and unlocking progressively more secret collections to the Warder.
 
 The Blue Warders also act as escorts for patrons of the library, guiding them through the facility, a labyrinthine maze of tunnels confusing even to those of dwarven blood. They show special favoritism in both priority and access to the Sage’s Guild of Tar- Kazmukh, an organization that’s dedicated to the study of all things arcane and planar. Despite their racial and local loyalties, though, the Blue Warders are generally happy to escort those of other races or with allegiances to other scholarly organizations through the library, provided such visitors come to them in peace and with a polite request. However, they reserve the right to deny access to anyone they deem an enemy of their people-and to any who are too rude or presumptuous.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Blue%20Warder)
 ```encounter-table
 name: NPC Blue Warder

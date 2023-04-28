@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forest Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 41
 desc_short: This mass of dark green protoplasm hangs thick and wet from the branches, and its long tentacles are tipped with thorny claws.
 ```
-# Description
+## Description
 Forest blights’ constant urges to seek out and destroy civilization drive them toward isolated lumber camps, wilderness trade routes, and forest settlements. Forest blights are particularly fond of sending plant monsters to do their bidding, and their innate cruelty often compels them to allow one or two survivors to escape their clutches to act as a lure, drawing perspective heroes to attempt foolish acts of retribution against the powerful and egotistical oozes. Forest blights are always eager to add new would-be saviors to their collections of transformed trees, after all. 
 
 A forest blight is 7 feet across and weighs 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forest%20Blight)
 ```encounter-table
 name: Forest Blight

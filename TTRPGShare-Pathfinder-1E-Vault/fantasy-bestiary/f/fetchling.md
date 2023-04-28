@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fetchling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 123
 desc_short: This gaunt man appears drained of color, like a person viewed at twilight or in a dark alley.
 ```
-# Description
+## Description
 Fetchlings are descended from generations of humans trapped on the Plane of Shadow. Infused with the essence of that plane, they are more and less than human, and often serve as middlemen in planar trade and politics. Other than their yellow eyes, their flesh has no color-it is either stark white, midnight black, or a shade of gray. On the Material Plane, they conceal themselves with heavy clothing or dim light so they can work without prejudice. The name “fetchling” is a human word; their own name for their race is kayal, meaning “shadow people.”
 
 A fetchling stands 6 feet tall, but is generally lithe and wiry of frame, weighing only 150 pounds. Fetchlings live as long as half-elves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fetchling)
 ```encounter-table
 name: Fetchling

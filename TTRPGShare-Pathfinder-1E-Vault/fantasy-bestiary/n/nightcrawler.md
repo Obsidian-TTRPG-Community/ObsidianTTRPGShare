@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightcrawler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 200
 desc_short: This immense worm is covered with plates of dead-black, chitinous armor. Its toothy maw yawns like a cave.
 ```
-# Description
+## Description
 Although the nightcrawler might appear to be little more than an immense and frightening vermin, with its centipede-like body and numerous glowing eyes, it is actually incredibly intelligent. When not cleansing the deep caverns of life, the nightcrawler spends its time plotting how best to carry out its own private stages of the overall nightshade plan to expunge life from all worlds, conferring with its undead minions and, when necessary, observing living creatures from afar while invisible to learn about hidden enclaves that its depredations might otherwise have missed.
 
 It would be one thing if the nightcrawlers remained in the deep caverns, for these regions are rife with foul life the world is better off without. Yet unfortunately for those who dwell upon the surface, nightcrawlers often crawl up through the tunnels to bring their devastation to the night above. Although they always retreat underground before the first tentative rays of dawn color the eastern skies, they can spread an incredible amount of ruin in the span of a few short hours each night.
 
 A nightcrawler is 60 feet long and weighs 10,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightcrawler)
 ```encounter-table
 name: Nightcrawler

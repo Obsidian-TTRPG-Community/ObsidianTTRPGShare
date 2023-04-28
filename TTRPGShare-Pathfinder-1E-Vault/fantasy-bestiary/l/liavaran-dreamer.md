@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Liavaran Dreamer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 31
 desc_short: This amorphous creature resembles a golden-hued jellyfish that floats through the air, fleshy tentacles dangling down in a line.
 ```
-# Description
+## Description
 According to the oral traditions of the jellyfish-like, spacefaring Brethedans (Pathfinder RPG Bestiary 4 23), their kind sent a large convoy to colonize the gas giant Liavara ages ago. None of them ever returned or sent word of their success, and when a second flotilla of Brethedans set out to learn what had become of their kin, they found only the colonists’ feral descendants. These “dreamers” had become intimately attuned to Liavara’s dense network of ley lines, which lulled them into a persistent meditative trance. The few taken back to Bretheda, however, have proven that the dreamers can attune to any planet’s ley lines. Anyone who attempts to make mental contact with them may find himself lulled into the same trance the dreamers experience. For the most part, the dreamers seem content merely to drift along the ley lines, but awakening them from the lines’ peaceful melodies spurs most dreamers into violent furies. Brethedans as a whole have treated their cousins respectfully-almost reverently-granting them ample space in which to meander and feed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Liavaran%20Dreamer)
 ```encounter-table
 name: Liavaran Dreamer

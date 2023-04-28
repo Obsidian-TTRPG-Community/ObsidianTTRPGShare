@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pod-Spawned Guard Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,10 +50,10 @@ sources:
     desc: 20
 desc_short: A creature with the pod-spawned template is a duplicate created by the bodythief. It resembles the original and has all its memories, but can’t exhibit sincere emotion.
 ```
-# Description
+## Description
 A creature with the pod-spawned template is a duplicate created by the bodythief. It resembles the original and has all its memories, but can’t exhibit sincere emotion.
  Pod-spawned creatures can’t reproduce and remain the same apparent age as their original at the time of replacement.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pod-Spawned%20Guard%20Captain)
 ```encounter-table
 name: Pod-Spawned Guard Captain

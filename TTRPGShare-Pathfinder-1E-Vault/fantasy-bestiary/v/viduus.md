@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Viduus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 41
 desc_short: This dour being has a mostly humanoid form with its lower body wrapped in a cocoon-like husk.
 ```
-# Description
+## Description
 Viduuses occupy the many libraries and scriptoriums of the Boneyard, where they catalog the comings and goings of extraordinary souls: their lives, deeds, deaths, and secrets. Existence holds many mysteries, and those mortals who had brushes with the extraordinary have their tales and confessions recorded by these semi-cocooned scholars and added to the volumes of the Boneyard’s expansive libraries. Although pretentious in the extreme, viduuses prove quite knowledgeable about many historical and planar secrets, and what they don’t know they generally have a decent idea of how to research, potentially summoning assistants from across the planes to aid them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Viduus)
 ```encounter-table
 name: Viduus

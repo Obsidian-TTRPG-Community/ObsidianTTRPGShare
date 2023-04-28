@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Libitinarii
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 84
 desc_short: This willowy, blue-skinned figure wears robes of draped chains. Its exposed skin is pierced with lengths of razor-sharp, bloodstained icicles.
 ```
-# Description
+## Description
 Libitinariis form from the souls of cold-obsessed spellcasters, wicked taxidermists, torturers partial to using frostbite to torment their victims, and other evil beings obsessed with inflicting pain through the perfect preservation of cold. They roam the Shadow Planes’ frozen reaches seeking to further their craft. Most serve Inkariax, the kyton demagogue known as the White Death, who seeks to preserve the fleetingness of perfection with his icy-fingered grasp. Indeed, the demagogue’s favored servants almost entirely consist of libitinariis.
 
  Other libitinariis serve Doloras, the demigoddess of dispassion, detachment, and pain, who many kytons believe was the infernal patroness that released their kind from Hell eons ago. In some cases, libitinariis pay homage to both unholy deities, for the two churches share more in common than not. Certainly Inkariax and his worshippers pay homage to the fell queen, and so many libitinariis consider deference to her a matter of course.
@@ -76,7 +78,7 @@ Libitinariis form from the souls of cold-obsessed spellcasters, wicked taxidermi
  Libitinariis’ bodies seem humanoid, though their skin ranges in color from powder to navy blue. Their lips, ears, fingers, and toes are deep black, as if horribly frostbitten. Libitinariis often wear robes of draping chains, though most prominent on their persons are the horrific icicles that pierce their flesh. Although they are as adept at wielding traditional weapons as any humanoid, they typically favor using these icicles as thrown weapons.
 
  Libitinariis are roughly 5 feet tall and typically weight from 90 to 140 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Libitinarii)
 ```encounter-table
 name: Libitinarii

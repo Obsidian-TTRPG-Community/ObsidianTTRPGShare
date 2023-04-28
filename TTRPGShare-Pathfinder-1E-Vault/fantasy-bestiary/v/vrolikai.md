@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vrolikai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 81
 desc_short: This black-skinned, bat-winged demon has four arms; a long, thin tail; and a leering, fanged face with dead, white eyes. 
 ```
-# Description
+## Description
 A vrolikai is 14 feet tall but weighs only 500 pounds. Unlike other demons, it does not form from a sinful soul-it instead manifests from a nabasu demon that returns to the Abyss after growing to maturity on the Material Plane. Not all nabasus survive this transformation, but those who do become powerful indeed-vrolikai usually rule large regions of unclaimed Abyssal land, and often serve as assassins or ambassadors to demon lords in need of an agent in a distant realm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vrolikai)
 ```encounter-table
 name: Vrolikai

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ceru
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,13 +61,13 @@ sources:
     desc: 9
 desc_short: This pint-sized creature resembles a tiny blue elephant no larger than a house cat. Its feet, tail, and ears are clawed and spiked.
 ```
-# Description
+## Description
 Cerus are artificial creatures created through the fusion of alchemy and magic in the Impossible Kingdoms of Vudra, where they are regarded as amazing pets for the rich and powerful. A single ceru fetches at least 300 gp from Vudrani specialty merchants. Most cerus are sterile, and so the rare breeding pair commands an additional +1,000 gp beyond the cost of two non-breeding cerus. Many breeders would rather kill their breeding stock (or murder would-be thieves) than lose control of their exclusivity.
 
 Cerus do not yet exist outside of exotic merchant stalls and strange arcane laboratories. Rumors persist of an alchemical formula allowing the creation of a firstgeneration ceru that is reliably fertile. This revelation is bound to spur a race among arcanists to find the formula and introduce these creatures to the Inner Sea region in much greater numbers. A spellcaster of 7th level or higher can bond with a ceru via the Improved Familiar feat.
 
 Upon reaching maturity, a ceru’s body is 1 foot long and weighs 12 pounds. The rare fertile female ceru bears only one litter per year, no matter how frequently bred, with typically no more than one to three offspring.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ceru)
 ```encounter-table
 name: Ceru

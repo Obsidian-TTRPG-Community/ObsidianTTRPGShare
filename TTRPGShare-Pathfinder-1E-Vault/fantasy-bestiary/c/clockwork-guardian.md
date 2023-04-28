@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 61
 desc_short: This human-shaped construct has a helm-like head with a single crystalline eye. One arm ends in a large shield-like sheet of metal.
 ```
-# Description
+## Description
 Clockwork guardians are dedicated to the art of defense. They work best when they operate in small groups, under orders to defend specific locations from intruders. Their standard operating procedure is to force foes out of their respective holdings by use of overwhelming force. 
 
 A clockwork guardian is 7 feet tall and weighs 750 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Guardian)
 ```encounter-table
 name: Clockwork Guardian

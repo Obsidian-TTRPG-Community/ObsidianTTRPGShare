@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dweomercat Cub
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 82
 desc_short: Its coat shining vividly, this majestic tiger looks exotic and otherworldly. It gazes with piercing yellow eyes and stands calmly, as though fearless.
 ```
-# Description
+## Description
 Powerful and regal, dweomercats stalk the First World, preying upon lesser creatures, but more voraciously hunting new and ever stranger sources of magic. Beings as much composed of sculpted arcane eddies as of flesh and blood, these capricious felines flourish along the intangible ley lines of their home realm, drinking in its weird powers as a plant thrives on light. Yet even more potent than their thirst for magic and the euphoria they draw from being in proximity to the reshaping of reality is dweomercats’ racial curiosity, which leads them endlessly across the First World-and often beyond.
 
 The average adult dweomercat is about 4 feet tall and 7 feet long, weighing over 250 pounds, while their cubs are approximately 1 foot tall and weigh no more than 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dweomercat%20Cub)
 ```encounter-table
 name: Dweomercat Cub

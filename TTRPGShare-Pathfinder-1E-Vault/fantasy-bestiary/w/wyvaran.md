@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wyvaran
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 281
 desc_short: This dragonlike humanoid brandishes its spear, spreads its wings, and shows its fangs in a angry snarl.
 ```
-# Description
+## Description
 These creatures are the result of magical draconic experiments at crossbreeding wyverns and kobolds. Wyvarans are fiercely territorial creatures loyal to their kin and tribe, and allow no interlopers into their lands without good reason or proper tribute. Each defends its personal property, and seeks revenge on any who dare steal from it. Most evil and neutral wyvarans primarily concern themselves with expanding their territory and wealth.
 
 Many civilized races dismiss wyvarans as fast, dumb, selfish brutes. However, a creature who respects the wyvarans’ rules about their property finds that they make steadfast and loyal allies. Adventuring wyvarans often view their companions as clutchmates, and are willing to take great risks to protect them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wyvaran)
 ```encounter-table
 name: Wyvaran

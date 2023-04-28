@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spartolos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 88
 desc_short: A skeleton clad in tarnished armor clatters in its grim march. A polished bronze breastplate, greaves, and helmet dutifully remain to protect this felled warrior, while its naked, skeletal hands still clutch a short spear and a round bronze shield. Yet, beneath its decrepit armor and moldering bones, a deftness and deadly intent linger on, embodied in a hellish light smoldering in its shadowed eye sockets.
 ```
-# Description
+## Description
 Raised from the corpses of famed warriors and legendary legionaries, spartoi (singular “spartolos”) walk again, dragged from death to do battle once more. Greater than mere unthinking corpses, like skeletal champions spartoi carry with them some vestige of their past lives and experiences. Yet what sets them apart from lesser undead are their retained caginess and knowledge of tactics, allowing them to function with deadly efficiency in troops of their brethren. Sometimes called the “sown men,” spartoi hold a fundamental connection to the near-mythical magical items known as a spartoi seeds, teeth that when planted in the earth summon forth these undead, fully armed and ready for command. Although ancient versions of these items prove especially rare, the well-known nature of their myth has led to dozens of modern versions being created and, with them, a rise in the appearance of spartoi.
 
 A typical spartolos stands about 5-1/2 to 6-1/2 feet tall, weighing approximately 70 pounds with its full compliment of equipment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spartolos)
 ```encounter-table
 name: Spartolos

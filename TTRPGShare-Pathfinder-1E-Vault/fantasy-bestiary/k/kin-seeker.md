@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kin Seeker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 50
 desc_short: Bone-studded joints and gangly, twisted limbs mark this heap of orc-shaped flesh.
 ```
-# Description
+## Description
  Abandoned by her orc parents, a kin seeker wants a family and scours the wilderness for new companions to share in her malformed misery. She eagerly serves a family of ogres or abducts other orcs to assemble her brood. Her boar is friend, pet, and sibling in equal measure.
 
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kin%20Seeker)
 ```encounter-table
 name: Kin Seeker

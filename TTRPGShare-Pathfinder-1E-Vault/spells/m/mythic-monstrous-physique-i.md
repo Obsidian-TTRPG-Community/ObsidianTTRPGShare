@@ -1,25 +1,27 @@
 ---
-alias: Mythic Monstrous Physique I
+aliases: [Mythic Monstrous Physique I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Monstrous Physique I
+## Mythic Monstrous Physique I
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 3, arcanist 3, bloodrager 3, investigator 3, magus 3, redmantisassassin 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 When you cast this spell, you can assume the form of any Small or Medium creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, and scent. If the form you assume has the aquatic subtype, you gain the aquatic and amphibious subtypes.  
   

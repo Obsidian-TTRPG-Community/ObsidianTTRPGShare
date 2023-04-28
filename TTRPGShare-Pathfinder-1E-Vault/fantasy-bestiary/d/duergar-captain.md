@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Duergar Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: Monster Codex
     desc: 50
 ```
-# Description
+## Description
 Veteran soldiers among the duergar lead groups of warriors or form their own elite strike forces. These soldiers always use enlarge person before combat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Duergar%20Captain)
 ```encounter-table
 name: Duergar Captain

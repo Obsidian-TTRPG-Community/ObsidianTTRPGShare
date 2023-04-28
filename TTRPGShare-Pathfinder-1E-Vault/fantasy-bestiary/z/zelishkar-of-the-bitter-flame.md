@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zelishkar of the Bitter Flame
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 62
 desc_short: This fiendish figure appears to be shaped from pure flame with a feline face. Three wicked tongues dart from the creature’s mouth.
 ```
-# Description
+## Description
 The dread Zelishkar of the Bitter Flame is a figure much feared on the crumbling plains of Abaddon and across the multiverse. A monstrous feline in shape but seemingly sculpted of lurid crimson flame, Zelishkar is girded with a crest and cuirass of infernally strengthened obsidian, shaved to razor thinness yet losing none of its terrible strength. His eyes are jet-black pits that mirror his armor, though pinpoints of awful orange radiance gleam deep within. He is surrounded always by a heat shimmer that diffuses his blinding radiance. Zelishkar is reputed to sense the presence of his prey by the tiniest variations in temperature, tracking the movements of creatures both seen and unseen before he pounces. His own fires burn with a hellish uncleanness, tainting even those who thought themselves proofed against his flames and rapidly consuming their body and soul, leaving nothing behind but befouled ashes.
 
 Zelishkar is feared as much for his incisive tactical acumen as for his dreadful and terrifying powers in close combat. He has single-handedly withered and despoiled cities and farmlands when summoned in the name of his daemonic mistress-Szuriel, patron of war and suffering. She forged Zelishkar’s form in the deepest pits of the Cinder Furnace as her terrifying harbinger, embodying the hopeless misery of funeral pyres that consume and cremate the dead in the wake of the war that she brings. He proved so adept that she judged him worthy to transcend his purpose, and he has come to embody all of the hateful and sadistic purposes that fire serves. His name is invoked now by torturers and inquisitors alike as they consign their hapless captives to the ultimate agonies of being burned alive, and even by arsonists both petty and grand. All twisted souls who love nothing more than to see the world burn offer up silent praises to Zelishkar in their hearts; even if they never speak his name, the hate that burns within them is a sweet savor in his nostrils.
@@ -81,7 +83,7 @@ Zelishkar is feared as much for his incisive tactical acumen as for his dreadful
 Zelishkar was summoned to Golarion in ancient times, during the height of Osirion’s empire, and he led legions of flaming minions against the enemies of the Pharaoh of Forgotten Plagues, notably the Jistka Imperium. In a twist of supreme hubris, the Pharaoh of Forgotten Plagues turned against his summoned ally after several successful campaigns, and chose Zelishkar to be the test subject of his grandest experiment yet. The Osirian king had just finished construction of a grand labyrinth south of the Alamein Peninsula, and in a display of prideful foolishness ordered Zelishkar to be imprisoned within to prove the infallibility of his maze. It took the efforts of an entire army of summoned genies to lock the daemonic harbinger away beneath the desert’s churning sands, but his imprisonment was absolute with the aid of an ancient efreeti and a legendary artifact known as the Bottle of the Bound.
 
 Through all the long millennia since, Zelishkar and the remnant of his host have remained imprisoned beneath the Labyrinth of Shiman-Sekh, the city founded by the Song Pharaoh upon her victory over the Pharaoh of Forgotten Plagues years after Zelishkar’s detention. He has emerged from his prison but once, when Szuriel and the ironically named Incorruptible Pharaoh joined to loose his fiery fury upon one of the sky-cities of Shory. His destructive rampage could not be contained, however, and he devastated several cities and oases of western Osirion before he and his host were finally bound back within their prison. There he remains, plotting burning vengeance upon Osirion and all of Golarion for his ages of durance vile.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zelishkar%20of%20the%20Bitter%20Flame)
 ```encounter-table
 name: Zelishkar of the Bitter Flame

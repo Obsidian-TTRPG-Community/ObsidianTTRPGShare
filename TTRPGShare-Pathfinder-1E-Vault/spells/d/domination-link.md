@@ -1,19 +1,21 @@
 ---
-alias: Domination Link
+aliases: [Domination Link]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Domination Link 
+## Domination Link
 
 **source**:: Blood of the Night pg. 30  
 **school**:: divination (mind-affecting)
 **level**:: arcanist 3, bard 3, inquisitor 3, skald 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F/DF (a copper piece)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Domination Link
 **saving-throw**:: Will negates, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell functions like *detect thoughts*, with the additional ability to find echoes of the thoughts of a creature mentally controlling the target. For example, if the target has been dominated by a vampire, you can use evidence left in the target’s mind to learn about that vampire. Each minute you concentrate on the spell, you can learn your choice of one of the following pieces of information.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Motes of Dusk and Dawn
+aliases: [Motes of Dusk and Dawn]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Motes of Dusk and Dawn 
+## Motes of Dusk and Dawn
 
 **source**:: Blood of Shadows pg. 28  
 **school**:: evocation (darkness, light)
 **level**:: arcanist 3, bard 3, magus 3, medium 3, mesmerist 3, occultist 3, psychic 3, shaman 3, skald 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: Up to four motes, all within a 10-ft.-radius area  
@@ -21,7 +23,7 @@ alias: Motes of Dusk and Dawn
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 When you cast this spell, you create up to four motes that shed light or darkness in a 20-foot-radius, increasing or decreasing the illumination level by up to two categories. You decide whether each individual mote sheds light or darkness when the spell is cast.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grioth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 62
 desc_short: This silent batlike humanoid has a long, ratlike tail and four narrow eyes.
 ```
-# Description
+## Description
 Grioths inhabit rogue planets cast away from their stars-often, they travel to other worlds via powerful magic portals during eclipses to pillage resources rare on their frozen homeworlds. Many of these evil creatures are known for their devotion to the Outer God Nyarlathotep (whom they worship in his guise as the Haunter of the Dark), and it isn’t uncommon for colonies of grioths to be led by clerics.
 
  Grioths speak a language composed of squeaks, clicks, and other nonsensical animal noises-they are capable of speaking other languages, but do so in raspy, dry voices. They favor weaponry crafted from metals that synergize with their psychic powers.
 
  The grioth race is prone to mutations, their forms twisted by eldritch forces into lumbering giants or deformed horrors. The most powerful of their kind often possess great physical prowess, as well as unique psychic magic or spell-like abilities that aid them in ruling their dark spire cities and in their constant wars against entities even more alien than themselves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grioth)
 ```encounter-table
 name: Grioth

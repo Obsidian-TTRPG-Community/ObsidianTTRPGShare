@@ -1,19 +1,21 @@
 ---
-alias: Balance of Suffering
+aliases: [Balance of Suffering]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Balance of Suffering 
+## Balance of Suffering
 
 **source**:: Healer's Handbook pg. 8  
 **school**:: conjuration (healing)
 **level**:: cleric 6, inquisitor 6, occultist 6, oracle 6, shaman 6, spiritualist 6, warpriest 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1 living creature and another single living or undead creature  
@@ -21,7 +23,7 @@ alias: Balance of Suffering
 **saving-throw**:: Will half; see text
 **spell-resistance**:: yes; see text
 
-### Description 
+### Description
 
 You borrow life force from a living creature and infuse it into another living creature, potentially wreaking destruction on the former and bolstering the life of the latter.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Incutilis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 84
 desc_short: This strange nautilus drags itself forward on oversized tentacles, its crimson-streaked flesh textured like the surface a brain.
 ```
-# Description
+## Description
 A strange sort of sea creature that appears to be an oversized cephalopod, an incutilis hides a significant intelligence behind its unassuming appearance. Though most incutilises live their entire lives within the deepest trenches of the darkest seas, some venture to the border between water and land, taking terrible control over land-dwelling flesh with an alien disregard for sentient life. Because of their aquatic physiologies, their ability to cross this border and travel on land is limited. These aberrations overcome this hurdle with a lethal solution, slaying land dwellers and commandeering their flesh to bear the incutilis on shore.
 
 Although incutilises can live as bottom feeders, they prefer not to scavenge. Their favorite foods seem to be larger sea creatures-sharks, whales, and sentient ocean dwellers-and they make no distinction between the living and the dead. Incutilises exhibit strong self-preservation compulsions, going out of their way to avoid dangerous predators. When one is on land and its zombie puppet is destroyed, it attempts to flee to the nearest body of water.
 
 An incutilis weighs about 25 pounds (30 with its shell) and measures 4 feet from the tips of its longest tentacles to the top of its shell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Incutilis)
 ```encounter-table
 name: Incutilis

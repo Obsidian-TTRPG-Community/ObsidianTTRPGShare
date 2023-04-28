@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vermlek
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 54
 desc_short: A hideous, pale, wormlike head pushes violently up and out of a corpulent man’s body.
 ```
-# Description
+## Description
 Vermleks form from the souls of those who habitually violated the dead in life, such as grave robbers, necromancers, and necrophiles. Demonic armies often use them as disposable troops in war, with vermleks inhabiting the bodies of slain humanoid enemies to infiltrate and destroy any surviving humanoids from within their own society. When inhabiting bodies, vermleks tend to mutter and mumble rather than speaking clearly, as they know that a keen eye that peers into the body’s mouth can swiftly discern the horrible truth within. 
 
 Despite the fact that they are often used as battleground troops, vermleks have little taste for war and, left alone, prefer to live in hiding among humanoids on the Material Plane. There, disguised as laborers like gravediggers or dung sweepers, they can revel in their ghoulish, taboo lusts. 
 
 Outside of a host body, a vermlek appears as a worm with four long tails, each of which ends in a tangle of filaments. In this form, the demon is 7 feet long and weighs 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vermlek)
 ```encounter-table
 name: Vermlek

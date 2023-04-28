@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Solar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -91,7 +93,7 @@ sources:
     desc: 12
 desc_short: This towering humanoid creature has shining topaz eyes, metallic skin, and three pairs of white wings.
 ```
-# Description
+## Description
 Solars are the greatest type of angel, usually serving at the right hand of a deity or championing a cause that benefits an entire world or plane. A typical solar looks roughly human, though some physically resemble other humanoid races and a rare few have even more unusual forms. A solar stands about 9 feet tall and weighs about 500 pounds, with a strong, commanding voice that is impossible to ignore. Most have silvery or golden skin.
 
 Blessed with an array of magical powers and the spellcasting abilities of the most powerful clerics, solars are powerful opponents capable of single-handedly slaying mighty evils. They are the greatest trackers among the celestials, the most masterful of which are said to be able to track the days-old wake of a pit fiend flying through the Astral Plane. Some take on the mantle of monster-slayers and hunt powerful fiends and undead such as devourers, night hags, night shades, and pit fiends, even making forays into the evil planes and the Negative Energy Plane to destroy these creatures at their source before they can bring harm to mortals. A few very old solars have succeeded at this task and bear slayer-names of dread creatures that are now extinct by the solar’s hand.
@@ -107,7 +109,7 @@ Unlike other angels, most solars are created from an amalgam of good souls and r
 Solars who spend a long time in the Material Plane, especially those in the guise of mortals, are sometimes the source of half-celestial or aasimar bloodlines in mortal families, due either to romantic dalliances or simply the mortals’ proximity to celestial energy. Actual offspring are rare, and when they occur, it is always a mortal mother that bears the child-while solars can appear as either sex, the gods have not granted them the capacity for pregnancy or motherhood. Indeed, this fundamental truth is often what drives a solar to seek out a mortal lover. Since begetting a child upon a mortal is generally frowned upon by other solars, a solar father rarely interacts directly with the fate of his lover or child, so as to avoid bringing shame upon himself or his responsibilities. Yet such solars still watch over their progeny from afar, and in times of peril, they might even be moved to intercede to aid one of their endangered children, albiet in subtle and mysterious ways.
 
 All angels respect the power and wisdom of solars, and though these mightiest of angels usually work alone, they sometimes command multiple armies led by planetars, acting as great field marshals for massive incursions against the legions of Hell or the hordes of the Abyss.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Solar)
 ```encounter-table
 name: Solar

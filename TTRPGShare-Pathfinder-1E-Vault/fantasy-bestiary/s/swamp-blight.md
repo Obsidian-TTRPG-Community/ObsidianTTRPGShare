@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Swamp Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 44
 desc_short: A cloud of mosquitoes churns around this quivering blob, its body studded with red eyes and its five tentacles tipped with stingers.
 ```
-# Description
+## Description
 Swamp blights rule over large swaths of boggy land, populating their realms with the mummified forms of those they have slaughtered or who have fallen prey to their domains’ denizens. These mummies are the swamp blights’ preferred weapon against nearby settlements, and the mummies typically seek to drag the unconscious bodies of their victims back to be killed within their masters’ cursed swamplands so the bodies rise as new mummies to bolster the sodden, undead army. Yet even these undead eventually fall prey to the blights’ unwillingness to share their realms. 
 
 A swamp blight is 7 feet across and weighs 540 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Swamp%20Blight)
 ```encounter-table
 name: Swamp Blight

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Golden Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 29
 desc_short: This gilded statue appears to be crafted of solid gold plates, its shining visage carved with exquisite detail into an eerie replica of a human face. 
 ```
-# Description
+## Description
 Golden guardians are humanoid automatons formed of iron, steel, and most of all, gold. Their appearance can range from rough, lumpy humanoid shapes to statue-shaped conglomerations of gold coins to exquisitely detailed gilded statues with eerily accurate human faces. Golden guardians are powered by a fiery, molten core of pure gold, which radiates a shimmering heat.
 
 Golden guardians cannot speak, and move with the sound of metal scraping on metal. A golden guardian stands 7 feet tall and weighs 1,500 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Golden%20Guardian)
 ```encounter-table
 name: Golden Guardian

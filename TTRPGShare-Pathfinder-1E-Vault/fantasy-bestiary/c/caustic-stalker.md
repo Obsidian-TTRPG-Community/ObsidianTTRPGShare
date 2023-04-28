@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caustic Stalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 153
 desc_short: Reaching hands, a fierce and eerie visage, and a powerfully abrasive stench all stem from this hissing cloud of churning gases.
 ```
-# Description
+## Description
 Though caustic stalkers arise from pockets of poisonous gas in the Plane of Air, they far prefer to congregate amid the great heat and pressure where the Plane of Earth and Plane of Fire meet. These conditions are also common in the depths of many worlds on the Material Plane. Caustic stalkers are usually content to drift amid the searing rocks and toxic fumes of volcanic depths, but occasionally emerge into more spacious areas. When they emerge, they are quick to lash out at anything that disturbs their explorations, especially if the area is windy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caustic%20Stalker)
 ```encounter-table
 name: Caustic Stalker

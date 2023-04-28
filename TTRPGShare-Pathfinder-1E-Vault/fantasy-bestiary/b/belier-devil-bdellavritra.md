@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Belier Devil (Bdellavritra)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 84
 desc_short: This amphisbaenic monstrosity has the body of a slug with a leech’s mouth at one end and a knot of three human heads at the other. 
 ```
-# Description
+## Description
 Masterful possessors and foul manipulators, belier devils are among the most feared masterminds of Hell. Known as bdellavritras to devilkind, these worm-like fiends avoid physical confrontation. Instead, they target influential individuals for possession, using them to manipulate events by proxy. If their schemes are uncovered, the devils retaliate with all the power at their host bodies’ disposal. 
 
 A bdellavritra’s voice can emanate from its worm-like maw, from any of its human-like mouths, or from all four at once, as it desires. Each mouth has its own distinct voice, often pleasing to the human ear. Bdellavritras typically reach lengths of 16 feet from worm-mouth to human heads, and weigh 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Belier%20Devil%20(Bdellavritra))
 ```encounter-table
 name: Belier Devil (Bdellavritra)

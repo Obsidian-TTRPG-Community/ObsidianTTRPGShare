@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scitalis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 222
 desc_short: This ophidian dragon’s scales and frills form a brightly colored pattern, backlit like stained glass by the creature’s inner glow.
 ```
-# Description
+## Description
 Scitalises are horned dragons with long, ophidian bodies; beautiful, many-colored frills; and thin, tapered horns. Their heavy scales have an elliptical shape, and grow ragged and thicker as the scitalises age. A scitalis glows from within, its scales and frill lighting up like a stained-glass window and projecting mesmerizing patterns that the dragon uses while hunting.
 
  Scitalises covet territory and food more than the gold and gems that true dragons prize. They live in caves, forest grottoes, and rocky crags, and mark their territories with a combination of musk and their sour, bile-scented sedative. Scitalises often range up to 5 miles from their nests every few days to hunt large herd animals and livestock. Lacking forelegs with which to tear apart a meal, scitalises allow their kills to ripen for a day or so in their lairs before eating them. They keep some treasure and can be bribed, burying what they do attain in the walls and f loors of their nests.
@@ -57,7 +59,7 @@ Scitalises are horned dragons with long, ophidian bodies; beautiful, many-colore
  Scitalises lay clutches of one to three eggs, and males and females share duties guarding the nest. The pair remains together until the juveniles reach maturity after 2 years. These eggs sell for 5,000 gp in large cities, and juveniles can command prices of 8,000 gp. Scitalises coexist with wyverns, but detest basilisks and griffons, which regularly devour the scitalises’ eggs when they run across them.
 
  An average scitalis is between 14 and 18 feet long and weighs approximately 2,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scitalis)
 ```encounter-table
 name: Scitalis

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Isonade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 147
 desc_short: This massive horror looks like a shark protected by a crab carapace, with a tail, flanks, and pectoral fins covered in cruel hooks.
 ```
-# Description
+## Description
 The dreaded isonade is a silent killer. Many a sailor has spotted a dark shape in the waters below, only to turn around in time to see his mate being dragged overboard, impaled on a spiny tail. A ship’s captain who plans to sail through an isonade’s waters often takes on extra crew, knowing that at least a few crew members might simply disappear over the side before they reach port. Though few alive have ever seen the monster’s full body, a great many sailors have caught a glimpse of its hooked carapace as it drags a skewered sailor down to the inky depths.
 
  Mercifully, isonades spend much of their existence in hibernation. When an isonade is preparing to hibernate, the population in its area of the ocean drops drastically while the beast consumes huge quantities of food. Though an isonade will eat just about anything that bleeds, it favors massive beasts to minimize time spent hunting-such as giant squid or whales-though it will resort to eating hundreds of fish once larger prey grow scarce. It’s also intelligent enough to know that a seafaring vessel contains a large quantity of warm and screaming snacks all isolated in one convenient place. An isonade can hibernate for hundreds of years, waking only when its vast store of food has been exhausted or when startled by a natural disaster, such as an earthquake or volcanic eruption.
@@ -58,7 +60,7 @@ The dreaded isonade is a silent killer. Many a sailor has spotted a dark shape i
  Because of this long hibernation, rumors of isonades are often exaggerated and relegated to myth, making their exact territories hard to predict when they awaken once again. The isonade’s eating cycle provides indicators of its return. An abundance of fish in a region can signal a hungry isonade’s territory, as sudden explosions in the fish population sometimes occur when these beasts begin devouring the region’s larger predators. An isonade shakes off its torpor by eating the large, slow animals in the depths, but inevitably circles upward as its appetite grows.
 
  An isonade can live for over 10,000 years, and can grow to over 70 feet in length. An adult isonade weighs approximately 300,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Isonade)
 ```encounter-table
 name: Isonade

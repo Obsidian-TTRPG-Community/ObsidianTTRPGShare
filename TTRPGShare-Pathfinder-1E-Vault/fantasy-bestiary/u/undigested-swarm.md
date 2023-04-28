@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Undigested Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 258
 desc_short: This brown-and-yellow sludge appears to be made of multiple smaller globules churning in a disgusting communal mass.
 ```
-# Description
+## Description
 Whereas individual undigested are more of a nuisance than a threat to adventurers, a swarm of such creatures can be dangerous to even experienced adventurers. An undigested swarm comprises hundreds of individual undigested. Driven by insatiable hunger, they fall upon and consume any living creatures crossing their path, surrounding the unfortunate victims and drenching them in acidic slime, digesting their still-living prey even before the screaming ends.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Undigested%20Swarm)
 ```encounter-table
 name: Undigested Swarm

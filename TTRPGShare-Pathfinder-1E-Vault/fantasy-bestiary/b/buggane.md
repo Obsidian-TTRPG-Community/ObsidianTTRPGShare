@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Buggane
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 26
 desc_short: This hairless, hunchbacked giant has cruel tusks and two enormous, blunt-clawed fists that look strong enough to shatter stone.
 ```
-# Description
+## Description
 Bugganes are a race of blind, hairless giants that dwell deep underground. Distantly related to ogres, bugganes share their surface-dwelling cousins’ appetite for the flesh of sentient beings, and are coldly efficient killers who tenaciously stalk their prey in absolute silence. Bugganes pursue and slay those who trespass into their well-marked territories, carrying their victims back to their lairs where they are unceremoniously consumed by the entire clan.
 
 Dull-witted and savage, bugganes disdain the use of even the most primitive weapons and tools. They rely on their tusks and claws, all of which are capable of shredding flesh, bone, and solid rock with equal ease. Their useless, mole-like eyes react painfully to bright light. A typical buggane stands between 8 and 9 feet tall and weighs 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Buggane)
 ```encounter-table
 name: Buggane

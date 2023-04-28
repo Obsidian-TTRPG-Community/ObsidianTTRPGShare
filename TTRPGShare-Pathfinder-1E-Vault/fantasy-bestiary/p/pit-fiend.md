@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pit Fiend
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 80
 desc_short: A pair of gigantic, flame-seared wings and eyes smoldering like embers give this towering devil a truly horrific appearance.
 ```
-# Description
+## Description
 Rulers of infernal realms, generals of Hell’s armies, and advisors to the archfiends, pit fiends embody the awesome and terrible pinnacle of devilkind. Massive, physically indomitable, and possessed of ingenious evil intellects, these diabolical tyrants hold great autonomy whether in their service to the archfiends, in their rule of vast infernal fiefdoms, or in subjugation of mortal worlds. Thick muscles cling to their gigantic frames, armored over by dense, bladed scales capable of deflecting all but the most potent assaults. Fangs as thick as daggers fill their maws, bestial visages disguising some of the most insidious minds in Hell. Born within the depths of Nessus, the ninth and deepest layer of Hell, pit fiends are raised from the ranks of cornugons and gelugons by the archdevils and their dukes alone. While many travel to higher layers and far from Hell to command infernal legions, most remain in Nessus serving in the courts of Hell’s elite or in dark councils with unknowable purposes. Pit fiends always stand over 14 feet tall, with wingspans in excess of 20 feet and weights over 1,000 pounds.
 
 Pit fiends are masters of fire and prefer lands bathed in flame. In Hell, this predisposes them to Avernus, Dis, Malebolge, Nessus, and Phlegethon the layers most likely to harbor their burning temple-citadels. Fanatics obsessed with diabolical superiority and ironclad obedience, pit fiends left to their own devices raise massive armies, scouring the pits of Hell for the most depraved lemures to transform into true fiends. When convinced they’ve formed the perfect legions, they turn their attentions to vulnerable demiplanes and mortal worlds, eyeing them for infernal domination and the glory of conquest. While obedient to the hierarchies of their kind, they are also strict in their enforcement, and should a pit fiend find itself subservient to a master unfit to rule, it holds itself duty bound to cast down such an incompetent lord. Thus, whether as masters or servants, pit fiends embody the will of Hell’s merciless law and assure that only the strongest of devilkind flourish (or dare to).
 
 Only the most powerful of mortal spellcasters can or dare summon a pit fiend. These devils’ reactions to summoning are deliberate and swift, usually typified by overwhelming rage that such insignificant beings would waste their immortal time. Those that cannot weather the devils’ burning rage are slain-their souls typically racing the pit fiends back to Hell. Those who manage to keep control of the greater devils, though, intrigue them. A pit fiend might dutifully serve a mortal master for centuries, but its goal is always the same: to further corrupt the mortal soul, assure its absolute damnation, and when the mortal inevitably dies, claim its soul and begin the process of creating a perfectly corrupt lemure servant. Pit fiends know they are immortal and are intelligent enough to indulge in impossibly disciplined patience. As such, the eldest pit fiends see in their legions the faces of countless fools who once presumed themselves the devils’ masters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pit%20Fiend)
 ```encounter-table
 name: Pit Fiend

@@ -1,19 +1,21 @@
 ---
-alias: Sotto Voce
+aliases: [Sotto Voce]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sotto Voce 
+## Sotto Voce
 
 **source**:: Faction Guide pg. 61  
 **school**:: necromancy (fear, mind-affecting, sonic)
 **level**:: arcanist 0, bard 1, cleric 0, oracle 0, skald 1, sorcerer 0, warpriest 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one humanoid creature of 4 HD or less  
@@ -21,7 +23,7 @@ alias: Sotto Voce
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread. The affected creature must make a Will save or be shaken for 1 round.  
   

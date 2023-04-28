@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Knight of Ozem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 34
 ```
-# Description
+## Description
 Formed to battle the threat of the Whispering Tyrant, the Knights of Ozem stand in unf linching defense of Lastwall and against undead wherever they may rise. Once they owed allegiance to Arazni, but with her fall and the demise of Aroden, the order has transferred its allegiance to Iomedae, herself a leader of the knights during her mortal days.
 
 Though much of the attention of Lastwall has turned to Belkzen, the knights argue for eternal vigilance against the possibility of the Whispering Tyrant’s escape from Gallowspire or the rise of one of his many lieutenants. Besides this unending watch, the Knights of Ozem search for the bloodstones of Arazni, canopic jars said to contain the organs of the Harlot Queen’s mortal frame. With or without the bloodstones, they seek the final destruction of their lost patron, that her soul might at last find eternal rest. If anything can move a Knight of Ozem to bend his oaths, it is the hope of freeing Arazni from Geb’s sinister control.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Knight%20of%20Ozem)
 ```encounter-table
 name: NPC Knight of Ozem

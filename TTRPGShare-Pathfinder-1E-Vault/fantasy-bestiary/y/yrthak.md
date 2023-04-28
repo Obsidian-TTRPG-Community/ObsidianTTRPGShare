@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yrthak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,11 +57,11 @@ sources:
     desc: 290
 desc_short: This flying reptile has large, leathery wings and a vibrantly colored crest on its horned, narrow-snouted head.
 ```
-# Description
+## Description
 Swift, cunning, and perpetually ravenous, the yrthak terrorizes the barren wastelands in which it makes its home, swooping down from on high to blast prey with bursts of pure sound. Though technically blind, as its eyes are tiny and barely capable of vision beyond a few feet, the yrthak senses its surroundings via acute hearing and echolocation. While its powerful jaws and claws are equally capable of taking down opponents, the yrthak generally prefers to wheel through the sky on its membranous wings, firing bolt after bolt of sound into its prey, and exulting in the thrill of the hunt. An adult yrthak is 20 feet long and weighs 1,500 pounds.
 
 Yrthaks spend most of their time aloft-a yrthak hunt often lasts several days, with the yrthak skimming roughly 100 feet over the ground in its wide-ranging search for live prey, only resorting to grazing on carrion in direst need. While they have near-human intelligence, yrthaks generally do not seem interested in forming societies of their own-although the sight of a clutch of yrthaks tormenting a captured morsel might seem to indicate otherwise.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yrthak)
 ```encounter-table
 name: Yrthak

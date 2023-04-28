@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Undine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 275
 desc_short: This blue-haired, blue-skinned man moves with a liquid grace. His ears are fin-like, and his hands and feet are webbed.
 ```
-# Description
+## Description
 Undines are humans whose ancestry includes elemental beings of water, such as marids. This connection with the Plane of Water is most noticeably manifested in their coloration, which tends to mimic that of lakes or oceans-all undines have limpid, blue eyes, and their skin and hair can range from pale blue-white to the 
 
 deep blue or green of the sea.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Undine)
 ```encounter-table
 name: Undine

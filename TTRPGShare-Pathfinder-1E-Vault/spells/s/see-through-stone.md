@@ -1,19 +1,21 @@
 ---
-alias: See Through Stone
+aliases: [See Through Stone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# See Through Stone 
+## See Through Stone
 
 **source**:: Dwarves of Golarion pg. 25  
 **school**:: divination
 **level**:: druid 4, hunter 3, ranger 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: See Through Stone
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You gain the ability to see through solid rock as if it were transparent glass. You may see through 1 foot of stone per caster level. You see within the stone as if you were looking at the area in normal light, even if there is no illumination, though low-light vision and darkvision have no effect on your ability to see through stone. Metal at least 1 inch thick or wood or dirt at least 3 feet thick blocks your vision.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pegasus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 225
 desc_short: This magnificient horse has great bird-like wings upon its back and moves with a quiet and proud grace.
 ```
-# Description
+## Description
 The pegasus is a magnificent winged horse that sometimes serves the cause of good. Though highly prized as aerial steeds, pegasi are wild and shy creatures not easily befriended. A typical pegasus stands 6 feet high at the shoulder, weighs 1,500 pounds, and has a wingspan of 20 feet. Most pegasi are white, though occasionally one is hatched with conventional horse colors and markings.
 
 The pegasus is, despite its appearance, as intelligent as a human. As such, those who try to train a pegasus to serve as a mount find the pegasus to be recalcitrant and even violent. A pegasus cannot speak, but it understands Common and greatly prefers the company of a good companion. The proper method to convince a pegasus to serve as a mount is to befriend it with diplomacy, favors, and good deeds. A pegasus is generally indifferent to a good-aligned creature, unfriendly to a neutral one, and hostile to an evil one-before a pegasus will serve as a mount, a pegasus must be made helpful via Diplomacy checks or other means. Riding a pegasus requires an exotic saddle or no saddle at all, as a regular saddle’s straps interfere with the creature’s wings. A pegasus can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check. Trained pegasi are not afraid of combat, and the rider does not need to make a Ride check each round merely to control his mount.
@@ -61,7 +63,7 @@ Pegasi mature at the same rate as horses. Professional trainers charge 1,000 gp 
 A light load for a pegasus is up to 300 pounds; a medium load, 301-600 pounds; and a heavy load, 601-900 pounds.
 
 In some pegasi, the blood of a mighty heroic stallion ancestor runs strong. These champions have the lifespan of a human, the advanced template, perfect flight maneuverability, fire resistance 10, a +4 racial bonus on saving throws against poison, and an immunity to petrification attacks. Some are able to speak a few words in Common or Celestial. They are fully aware of their superiority over common horses and pegasi, and need no training to fly with a rider, but only allow themselves to be ridden by great heroes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pegasus)
 ```encounter-table
 name: Pegasus

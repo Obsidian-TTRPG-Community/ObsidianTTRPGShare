@@ -1,19 +1,21 @@
 ---
-alias: Rumormonger
+aliases: [Rumormonger]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Rumormonger 
+## Rumormonger
 
 **source**:: Ultimate Intrigue pg. 224  
 **school**:: divination
 **level**:: bard 2, inquisitor 2, medium 1, mesmerist 2, psychic 3, skald 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **effect**:: 1 rumor  
@@ -21,7 +23,7 @@ alias: Rumormonger
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You utter a brief anecdote or bit of news as the verbal component of this spell and track its progress through a social gathering or other crowd. When someone who heard the rumor directly from you and repeated the rumor is within your range, they glow silver to your sight, though this glow doesn’t occur if the creature is in disguise (unless it was in the same disguise at the time of casting). You can choose to follow the rumor by selecting any such creature in range, at which point the creatures who heard the rumor from you no longer glow silver, and now the creatures who heard the rumor from your chosen creature glow silver instead. You can follow the rumor’s path until you reach a creature that heard the rumor but didn’t repeat it (or repeated it incorrectly). The glow identifies only creatures who heard the same information you conveyed. Minor cosmetic changes in the rumor don’t interrupt the chain, but when the rumor no longer resembles the information you imparted, the trail stops and the spell ends.  
   

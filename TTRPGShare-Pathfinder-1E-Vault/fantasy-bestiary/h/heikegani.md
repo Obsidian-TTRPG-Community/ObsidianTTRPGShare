@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Heikegani
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,10 +53,10 @@ sources:
     desc: 141
 desc_short: The carapace of this large crab resembles a scowling face, its eyes seething with an ancient fury.
 ```
-# Description
+## Description
 Samurai are renowned for their resolve, but sometimes a samurai becomes so obsessed with her purpose that her soul can’t depart from the Material Plane upon her death. Unable to seek eternal rest, and unwilling to become undead in the pursuit of vengeance, the samurai’s soul instead finds a suitable host in which to continue its existence. A heikegani is the effect of such a joining: a tragic, furious symbiosis of the soul of a dead samurai and the body of a crustacean. This usually occurs when the samurai dies near a crab habitat and her soul imprints upon a newly hatched crab zoea. Magic is always involved, either because the death happened in a high-magic environment or because the samurai was dealt a magical deathblow. A heikegani is especially vicious when young, and kills other crabs and marine creatures it encounters until it develops the ability to travel onto land. Each time the heikegani molts, its new shell comes to more closely resemble an angry demonic face.
  The soul of a heikegani has very few of its memories from life, but retains its single-minded sense of purpose and honor, and is quick to challenge those it meets to mortal combat. A heikegani believes it has been reincarnated, but in reality it never passed on to be judged. The unnatural genesis of a heikegani causes it great agony, and the dangerous crustacean scuttles along the shores, seeking foes that it can defeat in honorable combat so its soul can finally be put to rest.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Heikegani)
 ```encounter-table
 name: Heikegani

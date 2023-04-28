@@ -1,19 +1,21 @@
 ---
-alias: Prismatic Wall
+aliases: [Prismatic Wall]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Prismatic Wall 
+## Prismatic Wall
 
 **source**:: PRPG Core Rulebook pg. 325  
 **school**:: abjuration
 **level**:: arcanist 8, psychic 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: wall 4 ft./level wide, 2 ft./level high  
@@ -21,7 +23,7 @@ alias: Prismatic Wall
 **saving-throw**:: see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 *Prismatic wall* creates a vertical, opaque wall-a shimmering, multicolored plane of light that protects you from all forms of attack. The wall flashes with seven colors, each of which has a distinct power and purpose. The wall is immobile, and you can pass through and remain near the wall without harm. Any other creature with less than 8 HD that is within 20 feet of the wall is blinded by the colors for 2d4 rounds if it looks at the wall.  
   

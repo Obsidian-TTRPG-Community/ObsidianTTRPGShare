@@ -1,19 +1,21 @@
 ---
-alias: Move Earth
+aliases: [Move Earth]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Move Earth 
+## Move Earth
 
 **source**:: PRPG Core Rulebook pg. 316  
 **school**:: transmutation (earth)
 **level**:: arcanist 6, druid 6, hunter 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: see text  
 **components**:: V, S, M (clay, loam, sand, and an iron blade)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: dirt in an area up to 750 ft. square and up to 10 ft. deep (S)  
@@ -21,7 +23,7 @@ alias: Move Earth
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Move earth* moves dirt (clay, loam, sand, and soil), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.  
   
@@ -33,7 +35,7 @@ The spell cannot be used for tunneling and is generally too slow to trap or bury
   
 This spell has no effect on earth creatures.
 
-## Mythic Move Earth 
+## Mythic Move Earth
 
 **source**:: Mythic Adventures pg. 102  
 This spell can move earth much more quickly, with each full round of casting allowing you to reshape a 25-foot-square area up to 10 feet deep. All creatures on or under the ground within that area are knocked prone and moved to the closest square outside the area being shaped. A successful Reflex save prevents a creature from being knocked prone, but it’s still moved.

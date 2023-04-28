@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Combusted
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 16
 desc_short: This creature’s vestments are charred black and fused together, and its flesh is a raging inferno surrounded by greasy black smoke.
 ```
-# Description
+## Description
 Most scholars of the strange consider accounts of spontaneous combustion to be nothing more than superstitious folktales. But those with a deep understanding of the occult know it is indeed possible for a person to feel a sudden fever come on, only to find the heat within her body rising to incredible levels until she bursts into flames and perishes, leaving behind only a charred corpse. The sudden and violent deaths of such individuals make it easier for dark powers to reanimate their bodies, and sometimes for the victims to return from the dead on their own. 
 
 However they return, the undead creatures known as combusted all suffer the telltale signs of their demise: their corpses constantly burn and their desiccated flesh is never fully consumed by the flames. Roiling clouds of smoke, thick with the stench of burning skin and hair, surround them at all times, and may reveal their presence from over a mile away. These shambling horrors can arise at any location that has a particular affinity for undead, but they have been known to wander into nearby bodies of water in an attempt to extinguish the flames that took their lives, though they never attempt such self destructive acts when affronted by the presence of the living. 
 
 A typical combusted stands the same height as the creature it was in life, but weighs less than half as much, since so much of its body and musculature has burned away to ashes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Combusted)
 ```encounter-table
 name: Combusted

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Owb
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 210
 desc_short: This thing looks like a skeletal human torso coated in liquid shadow, obscuring its bones but clearly revealing its shape.
 ```
-# Description
+## Description
 An owb is a sinister visitor from the Shadow Plane, a creature resembling a humanoid torso draped in darkness. Alien in nature, this mysterious shade never speaks audible words, but it constantly uses its telepathy to project mumbles of curses and threats into the minds of those it encounters.
 
 The race’s closest relationship is with the dark folk, who worship owbs as proxies to gods of the shadows. Most dark folk believe the first of their kind were created by owbs-or more powerful owb-like beings.
@@ -74,7 +76,7 @@ An owb usually keeps its presence hidden from mortals. Lurking nearby, the shado
 An owb loves manipulation and runs conspiratorial plots involving denizens of the Shadow Plane and those of the Material Plane. An owb or cabal of owbs may control entire clans of dark folk, and use them as spies and pawns in some inscrutable plan.
 
 Though most of an owb’s form measures only 3-1/2 feet tall, it typically floats so its head is level with that of a Medium humanoid. Deceptively light, an owb weighs only 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Owb)
 ```encounter-table
 name: Owb

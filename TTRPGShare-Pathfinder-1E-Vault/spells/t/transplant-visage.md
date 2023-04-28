@@ -1,25 +1,27 @@
 ---
-alias: Transplant Visage
+aliases: [Transplant Visage]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Transplant Visage 
+## Transplant Visage
 
 **source**:: Inner Sea Gods pg. 244  
 **school**:: transmutation (evil)
 **level**:: alchemist 5, antipaladin 4, arcanist 5, cleric 4, inquisitor 4, investigator 5, magus 5, oracle 4, shaman 4, sorcerer 5, warpriest 4, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (one corpse)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: permanent
 
-### Description 
+### Description
 
 This spell allows you to add a creature’s stolen face to or remove such a face that you’ve already applied from your own. Before casting this spell, you must remove the face and eyes of a creature that has been dead no longer than 1 minute per caster level and place it over your own. Once you cast *transplant visage*, the creature’s stolen skin magically melds with your own, making the expressions and eye color on your new face seem perfectly natural. Your new appearance grants you a +10 bonus on Disguise checks. Because the alteration made by *transplant visage* is permanent, there is no residual magical aura, and your new appearance is not recognized by detect spells. *Transplant visage* may be cast innumerable times, allowing a single caster to wear layers upon layers of stolen faces. However, only the topmost face is visible at any one time.  
   

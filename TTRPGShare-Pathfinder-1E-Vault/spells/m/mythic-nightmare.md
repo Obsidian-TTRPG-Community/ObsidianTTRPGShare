@@ -1,19 +1,21 @@
 ---
-alias: Mythic Nightmare
+aliases: [Mythic Nightmare]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Nightmare
+## Mythic Nightmare
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: alchemist 5, arcanist 5, bard 5, investigator 5, medium 4, mesmerist 5, psychic 5, skald 5, sorcerer 5, spiritualist 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: unlimited  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Mythic Nightmare
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You send a hideous and unsettling phantasmal vision to a specific creature that you name or otherwise specifically designate.  
   

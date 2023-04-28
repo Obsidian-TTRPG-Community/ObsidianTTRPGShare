@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Awakened Agent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,11 +72,11 @@ sources:
     desc: 33
 desc_short: Raiment made from monstrous sea creatures conceals the sallow complexion and strange sores of this sickly gillman. Abnormal muscles and joints flex just beneath his flesh.
 ```
-# Description
+## Description
 Occasionally, the programming locked within a Low Azlanti’s mind triggers in a very overt way. While some fall quickly to violent madness, the most selfaware members of the race quickly realize the meaning of the change within themselves, and some of these gillmen choose to embrace their roles as servants of deep-dwelling masters. The will of the aboleths is ancient, unyielding, and potent enough to reach out to them even across 5,000 years, after all-what mere humanoid could deny such a glorious and timeless master?
 
 Awakened agents gather data about the surface world and use their influence over other Low Azlanti to complete whatever tasks are doled out by their aboleth masters. Many lead cults, ostensibly leading their people in the worship of “hidden Azlanti gods” or “newly risen ocean spirits”-their congregations never realize they bow to the very foes who laid their ancient empire low. Some awakened agents teeter on the brink of madness, never fully understanding the purpose behind their own actions. Others carry out their assignments in the belief that everything they do is absolutely necessary for the well-being of their race-sacrificing the world to guarantee their people a role as favored pets. Aboleths frequently trust these skilled servants with strange and advanced magic, such as the mind-warping masters’ call amulets (see page 29).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Awakened%20Agent)
 ```encounter-table
 name: Awakened Agent

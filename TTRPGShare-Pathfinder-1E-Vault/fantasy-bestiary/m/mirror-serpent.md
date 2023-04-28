@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mirror Serpent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 86
 desc_short: The body of this enormous serpent is covered in mirrorlike scales, and a pair of luminous blue eyes gazes from a horned head that ends in an elongated, toothy snout.
 ```
-# Description
+## Description
 Mirror serpents are large snakelike beasts that soar as easily through air as they do water. Ages ago, Azlanti sorcerers employed these serpents to guard their sanctums and vaults. Over the millennia since Earthfall, mirror serpents have grown feral and fiercely territorial. Because they lack the ability to reproduce and grow their number, mirror serpents are quite rare. The arcane knowledge of their creation rituals hasn’t resurfaced in the current age; if anyone has discovered it, they have kept it a closely guarded secret. Most surviving mirror serpents reside within the ruins of Azlant, staying near the places they were once tasked to guard. Their original purpose as sentinels has imprinted on them a fascination for treasure. Mirror serpents typically live several centuries, unless they suffer a violent fate, but death does not necessarily spell an end to their existence, which is a constant cycle of death and rebirth. Mirror serpents grow much larger and wiser as they age beyond their first century.
 
  A mirror serpent’s body stretches out to a length of 15 feet and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mirror%20Serpent)
 ```encounter-table
 name: Mirror Serpent

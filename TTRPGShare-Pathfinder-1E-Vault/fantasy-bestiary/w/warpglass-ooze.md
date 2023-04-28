@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warpglass Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 88
 desc_short: This watery puddle reflects a distorted image of its surroundings, as though it were a window to another reality.
 ```
-# Description
+## Description
 A menace featured in Varisian folk tales, warpglass oozes lurk in marshes and forests, masquerading as a simple puddle or stretching across the surface of a larger body of water. Tales say that a traveler can indeed see her future in the reflections of a warpglass ooze... if she can survive the creature’s enchanting magic and acidic caress. In fact, creatures that look upon these ambush predators do see a warped reflection of themselves-possibly dressed as a regal knight, weeping over an open grave, or holding aloft a valuable bauble-though there is no evidence the images are founded in reality.
 
  Warpglass oozes aren’t particularly intelligent, but they are patient, favoring subtlety over brute combat. The oozes enthrall their prey with fanciful images, compelling their victims to touch its acidic surface so the ooze can break down and digest the victim’s flesh. A warpglass ooze’s images might be whimsical or terrifying, but they always feature the viewing creature reflected in the ooze’s surface. Creatures that shake off the ooze’s compulsion find their minds lingering on the distorted reflections as they attempt to meet-or avoid-the fate they witnessed. If attacked, warpglass oozes extrude knots of protoplasm to bludgeon foes, but they often retreat in the face of powerful opposition. Warpglass oozes typically don’t pursue escaping prey as long as other food sources remain available, but if hungry enough, an ooze may follow a solitary creature.
 
  A typical warpglass ooze is about 4 feet in diameter and a few inches thick, and it weighs about 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warpglass%20Ooze)
 ```encounter-table
 name: Warpglass Ooze

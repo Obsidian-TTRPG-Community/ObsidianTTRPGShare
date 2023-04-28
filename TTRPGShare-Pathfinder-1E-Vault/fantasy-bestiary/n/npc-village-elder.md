@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Village Elder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
   - name: NPC Codex
     desc: 258
 ```
-# Description
+## Description
 As a respected person in her community, an elder takes it upon herself to stand up to any troublemakers in her village despite her advancing years. She maintains a fine political balance between the clergy, merchants, and commoners in her town, using diplomacy and information to defuse arguments.
 
 If anyone attacks the elder, she calls for guards (warriors 3) and recruits (warriors 1) to protect her, and most other townsfolk call for additional help if they can not or dare not assist her directly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Village%20Elder)
 ```encounter-table
 name: NPC Village Elder

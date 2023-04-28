@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sodden Drauger Troop
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 91
 desc_short: This mob of undead is draped in soggy seaweed.
 ```
-# Description
+## Description
 When a large number of individuals drown, such as an entire ship’s crew, they join into a mob of sodden draugr.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sodden%20Drauger%20Troop)
 ```encounter-table
 name: Sodden Drauger Troop

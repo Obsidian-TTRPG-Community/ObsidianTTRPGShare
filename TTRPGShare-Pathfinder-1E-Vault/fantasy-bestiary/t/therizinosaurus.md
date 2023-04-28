@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Therizinosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 84
 desc_short: This feathered bipedal saurian looks somewhat comical-save for its outlandish sword-sized claws.
 ```
-# Description
+## Description
 At first glance, this dinosaur’s massive claws may well convince observers that it is a predator, but the therizinosaurus is in fact an omnivore. Nonetheless, the therizinosaurus has a foul temper and is both easily angered and difficult to spook. With its deep-cutting claws, the therizinosaurus is more than a match for even the mightiest of predatory dinosaurs. A therizinosaurus is 35 feet long and weighs 13,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Therizinosaurus)
 ```encounter-table
 name: Therizinosaurus

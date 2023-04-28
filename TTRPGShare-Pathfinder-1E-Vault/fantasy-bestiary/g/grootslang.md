@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grootslang
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 84
 desc_short: This enormous beast has the combined features of an elephant and a serpent. Its tremendous maw sports six frightening tusks.
 ```
-# Description
+## Description
 Legends claim that the grootslang is a primordial creature as old as the world itself. Such tales state that in those ancient days, the gods-new to the crafting of things-made a terrible mistake in the grootslang’s creation, for they gave it tremendous strength, cunning, and intellect. Upon realizing their mistake, the gods split the grootslang into separate creatures and thus created the first elephants and the first snakes. But one of the original grootslangs escaped, and from this first sire all other grootslangs were born. Scholars debate the veracity of such stories, and have looked to either biological or magical explanations of the creature’s origins, but nevertheless bards and sages alike agree that the grootslang’s fearsome reputation is well deserved.
 
 A grootslang’s thick, leathery hide has a metallic sheen and a dull copper color, shot through with thin veins of green. Both males and females grow to a length of 60 feet and stand 20 feet tall. Little differentiation exists between sexes save for a lighter green hue to the female’s hide. Grootslangs can weigh 20 tons and live up to 500 years.
 
 All grootslangs covet gems, particularly diamonds, and despite the creatures’ lust for cruelty, victims can often bargain for their freedom by offering a grootslang enough precious gems.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grootslang)
 ```encounter-table
 name: Grootslang

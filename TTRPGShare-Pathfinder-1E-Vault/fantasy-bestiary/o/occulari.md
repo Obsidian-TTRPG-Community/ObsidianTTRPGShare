@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Occulari
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 57
 desc_short: Bundles of viscera hang from the hundreds of levitating eyes in this mass. Jagged teeth protrude from each eyelid, forming makeshift fanged maws.
 ```
-# Description
+## Description
 Occularis are amalgams of grotesquely mutated eyes. Motivated by their desire to see all things, they hunt down hosts for their component parts and use them to experience the wider world. Many covet the sights that the aboveground world offers, while others work as spies for intellect devourers, who provide these hideous swarms with a sense of purpose and ample prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Occulari)
 ```encounter-table
 name: Occulari

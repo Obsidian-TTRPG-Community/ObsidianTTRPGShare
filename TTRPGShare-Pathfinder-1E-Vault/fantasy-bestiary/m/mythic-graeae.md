@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Graeae
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 134
 desc_short: Haggard and hunched, this blind and snaggletoothed crone guides herself by a gruesomely bloated eyeball she clutches in her claws.
 ```
-# Description
+## Description
 A graeae is a haglike creature, though more human in appearance. Some describe them as emissaries of the gods, while others believe graeaes to be physical manifestations of fate.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Graeae)
 ```encounter-table
 name: Mythic Graeae

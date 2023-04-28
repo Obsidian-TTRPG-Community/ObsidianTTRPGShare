@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Galvo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 88
 desc_short: This creature is composed of dozens of electric eels tightly knotted into a slithering, humanoid shape, crackling with energy.
 ```
-# Description
+## Description
 In sunless ocean trenches, aberrant fleshcrafters created the first galvos to serve as soldiers in their war against the sahuagin and skum. Since those days, galvos have moved beyond their darkened trenches, breeding and expanding into shallower, warmer waters. In recent years, they have come closer to civilizations, preying on coastal communities.
 
 A galvo can live both in the water and on land, and frightening stories tell of galvos springing up from the water to strike at prey both on ships and on beaches. A true horror to look upon, a galvo averages 7 feet tall and weighs around 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Galvo)
 ```encounter-table
 name: Galvo

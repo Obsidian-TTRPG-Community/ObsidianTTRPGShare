@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Derro Bodysnatcher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 26
 desc_short: Wily and well groomed, this diminutive blue-tinged man exudes detached patience. A wicked-looking crossbow and blood-stained manacles enhance his aura of quiet menace.
 ```
-# Description
+## Description
 These master infiltrators creep through dark alleys and shadowy corners looking to waylay victims and drag them to Nar-Voth. Bodysnatchers prefer marginalized targets who walk the streets alone: criminals, the homeless, addicts, and any person few others would miss. Well studied in nonlethal tactics, bodysnatchers switch to deadly force only if their presence is exposed. When detected, these kidnappers usually break off pursuit, knowing all too well that they can plan another attempt during the next starless night. Abandoned targets usually then shout maniacal warnings, telling and retelling of their encounters with a race of unblinking nightmares that dwell below the city streets. Unfortunately, most of these testimonials fall on deaf ears. Derros depend on this surface-world indifference to conceal their nocturnal expeditions and keep their slave pens stocked.
 
 When the moon and stars above shine too brightly, derros forgo the surface and turn upon their Darklands neighbors, abducting dwarven miners, dark folk cultists, and even the rare lone drow. Only kobolds-for reasons that remain largely mysterious even to other derros-escape these hunters’ sights. Derros consider the stock of subterranean races common at best and tainted at worst, but a steady supply of captives is needed for slave labor and as subjects of experiments, so even second-rate bodies will suffice in lean times.
 
 When derros grow brazen enough to take multiple specimens, they target complete households. Bodysnatchers are unparalleled in their ability to pluck victims from secure havens. Since news of an entire family’s disappearance creates a stir, derros often direct such operations toward a settlement’s rural outskirts and make it look like their marks were the victims of raiding bandits or a wild beast. Sometimes bodysnatchers even provide such cover themselves, dragging captured monsters with them from the depths to rampage through a home once their own work is complete, covering up any trace of derro involvement and leaving a delightful surprise for any concerned citizens who rush to their neighbors’ aid.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Derro%20Bodysnatcher)
 ```encounter-table
 name: Derro Bodysnatcher

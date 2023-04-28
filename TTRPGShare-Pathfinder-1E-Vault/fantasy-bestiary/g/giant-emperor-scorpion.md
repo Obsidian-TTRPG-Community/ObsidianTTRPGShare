@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Emperor Scorpion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 232
 desc_short: This massive scorpion erupts from the sand, its giant pincers snapping and its tail stinger swaying threateningly.
 ```
-# Description
+## Description
 A giant emperor scorpion is an ambush predator, burying itself in soil or sand until prey approaches.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Emperor%20Scorpion)
 ```encounter-table
 name: Giant Emperor Scorpion

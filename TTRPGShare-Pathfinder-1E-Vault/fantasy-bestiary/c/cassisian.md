@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cassisian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 26
 desc_short: This finely crafted golden helm is decorated with intricate filigree, and flutters gracefully through the air on feathered wings. 
 ```
-# Description
+## Description
 Cassisians are the weakest sort of angel, but are absolutely dedicated to the cause of good. They serve as messengers for more powerful angels, and on the Material Plane they are often bound to good mortals to serve as familiars, acting as spiritual guides, reciting platitudes and quoting scripture from various benign faiths and philosophies (some forgotten for centuries). A 7th-level lawful good with the Improved Familiar feat can select a cassisian as a familiar. 
 
 A cassisian’s true form is a helmet possessing a pair of bird’s wings. The exact style of helmet varies by the deity the angel serves-most appear to be steel with angular cheek-plates, though some resemble bascinets, skullcaps, great helms, or even samurai helmets, and a few older cassisians appear to be bronze or even leather. Though cassisians can assume other forms (that of a child-sized angelic humanoid wearing a proportional helmet matching the cassisians’ true form, a dove, a dog, or a fish), they find it strange and rarely stay in that form for more than a few minutes. 
 
 Typically formed from the souls of trustworthy and pious soldiers, some cassisians arise spontaneously from the spiritual fragments of great angels destroyed while defending the celestial planes against fiendish incursions. In many cases, the lowly cassisian retains fragments of its previous life’s memories, and friends of that old soul may visit with the cassisian to reminisce with what remains. Unfortunately, the reincarnated angel’s memories are more like something memorized from a book, and lack the character and camaraderie the friends expect.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cassisian)
 ```encounter-table
 name: Cassisian

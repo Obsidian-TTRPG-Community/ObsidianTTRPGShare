@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kitsune
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 175
 desc_short: This elegantly dressed woman has the head and bushy tail of well-groomed fox.
 ```
-# Description
+## Description
 Wily but noble, kitsune are a race of shapechanging foxfolk. Each Kitsune has two shapes-a slender and attractive human form and its true form of an anthropomorphic fox. In either form, it displays physical grace and natural beauty. Most kitsune have ruddy, auburn fur and salient amber or pale blue eyes, though some are born with black, gray, or even white fur. White-furred kitsune are revered for their close connection to their spirit ancestors and typically raised as oracles.
 
 Quick-witted and nimble, kitsune delight in the creative arts, particularly riddles, storytelling, pranks, and tall tales, and have garnered a well-deserved reputation and duplicitous tricksters. They are a good-natured folk and greatly value friendship.
 
 When encountered outside human settlements, kitsune tend to live in small and remote villages run by elders of ancestral clans. In human settlements, kitsune usually remain in human form to avoid conflict.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kitsune)
 ```encounter-table
 name: Kitsune

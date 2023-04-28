@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wild Hunt Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 281
 desc_short: Green smoke billows from the bared teeth and flared nostrils of this muscular, sharp-eared hound.
 ```
-# Description
+## Description
 Wild hunt hounds are expert trackers that take the lead against elusive prey. When left to their own devices, they seek out creatures that are notoriously difficult to track, collecting minor trinkets as trophies of their achievements (using their mage hand ability to carry their prizes home or to adorn themselves if possible). While they can be competitive when engaged in separate tasks, wild hunt hounds working together on a hunt never allow these rivalries to become a distraction. 
 
 These fey hounds are never truly alone, as they are always surrounded with green mist composed of fragments of the spirits of the wild hunt’s victims. Stripped of all thoughts beyond a desire to chase and hunt, this fog eagerly answers the hound’s baying call and forms into dogs that loyally fight at the hound’s side. 
 
 Although the hounds of the wild hunt may seem outwardly to be mere animals, they are quite intelligent. Wild hunt hounds are fond of taking advantage of their bestial appearance, and when left as guardians or allowed to wander freely, make excellent spies among those who don’t recognize the creatures’ ability to understand language. When not tracking a quarry, wild hunt hounds enjoy relaxing and capering in any natural environment-but even in their play they engage in complex pursuits, testing each other’s ability to track and evade simultaneously.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wild%20Hunt%20Hound)
 ```encounter-table
 name: Wild Hunt Hound

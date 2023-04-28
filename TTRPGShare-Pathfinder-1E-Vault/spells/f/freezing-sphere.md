@@ -1,19 +1,21 @@
 ---
-alias: Freezing Sphere
+aliases: [Freezing Sphere]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Freezing Sphere 
+## Freezing Sphere
 
 **source**:: PRPG Core Rulebook pg. 287  
 **school**:: evocation (cold)
 **level**:: arcanist 6, magus 6, occultist 6, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a small crystal sphere)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **Target, Effect, or Area** see text  
@@ -21,7 +23,7 @@ alias: Freezing Sphere
 **saving-throw**:: Reflex half; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Freezing sphere* creates a frigid globe of cold energy that streaks from your fingertips to the location you select, where it explodes in a 40-foot-radius burst, dealing 1d6 points of cold damage per caster level (maximum 15d6) to each creature in the area. A creature of the water subtype instead takes 1d8 points of cold damage per caster level (maximum 15d8) and is staggered for 1d4 rounds.  
   

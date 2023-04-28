@@ -1,19 +1,21 @@
 ---
-alias: Mythic Breath of Life
+aliases: [Mythic Breath of Life]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Breath of Life
+## Mythic Breath of Life
 
 **source**:: Mythic Adventures pg. 87  
 **school**:: conjuration (healing)
 **level**:: cleric 5, oracle 5, shaman 5, spiritualist 5, warpriest 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Breath of Life
 **saving-throw**:: Will negates (harmless) or Will half, see text
 **spell-resistance**:: yes (harmless) or yes, see text
 
-### Description 
+### Description
 
 This spell cures 5d8 points of damage + 1 point per caster level (maximum +25).  
   

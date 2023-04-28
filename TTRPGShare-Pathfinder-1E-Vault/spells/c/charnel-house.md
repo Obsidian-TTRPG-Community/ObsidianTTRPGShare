@@ -1,19 +1,21 @@
 ---
-alias: Charnel House
+aliases: [Charnel House]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Charnel House 
+## Charnel House
 
 **source**:: Horror Adventures pg. 111  
 **school**:: illusion (shadow) (evil, shadow)
 **level**:: antipaladin 3, arcanist 5, cleric 5, mesmerist 5, oracle 5, psychic 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (one Tiny or larger living creature)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: 20-ft. cube (S)  
@@ -21,7 +23,7 @@ alias: Charnel House
 **saving-throw**:: Will parital
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 By sacrificing a living creature, you create the grisly illusion of viscera and gore splattered about the nearby area. When the casting time is complete, the walls drip with blood and the floor is slick with unidentifiable lumps of meat and other signs of a massacre. Anyone entering the area must attempt a Will save or be sickened for 1d6 rounds. This is a mind-affecting effect. If a creature succeeds at its save, it can see the semi-real nature of the illusion.  
   

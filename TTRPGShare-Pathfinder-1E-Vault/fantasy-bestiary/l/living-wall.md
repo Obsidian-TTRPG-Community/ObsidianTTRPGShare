@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Living Wall
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 182
 desc_short: This gruesome wall is made stacked corpses mortared together into an unyielding mass of grasping limbs, topped with a dragon skull.
 ```
-# Description
+## Description
 A living wall is a construct built out of the bodies of many creatures and mortared together with liquefied flesh. Like a gelatinous cube, it fills an entire 10-foot square, allowing it to completely block a hallway. Several living walls placed next to one another can obstruct an entire room. Its normal method of attack is to creep into range to make slam attacks, then push opponents against other walls and crush them to death. Living walls follow basic orders and are normally used to block access to certain parts of their creator’s lair-to get through a living wall, it must be killed and hacked apart to create a space other creatures can pass through. Living walls can be ordered to stack themselves on top of each other to reach higher ceilings, but this requires a ramp to allow one to climb onto the other.
 
 A living wall rises 8 to 10 feet high and weighs 4,000 pounds. The appearance of each one varies wildly depending on the creatures used to make up its constituent parts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Living%20Wall)
 ```encounter-table
 name: Living Wall

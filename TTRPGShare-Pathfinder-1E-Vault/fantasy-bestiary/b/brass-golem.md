@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brass Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 84
 desc_short: This towering brass statue, built to resemble an evil horned humanoid, carries a gigantic curved sword in its metal fists.
 ```
-# Description
+## Description
 Implacable automatons of elemental fire and extraplanar brass, brass golems stand sentinel over the palaces, treasuries, and harems of their creators. Brass golems are 24 feet tall and weigh 18,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brass%20Golem)
 ```encounter-table
 name: Brass Golem

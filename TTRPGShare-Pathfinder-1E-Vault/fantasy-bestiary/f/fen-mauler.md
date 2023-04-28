@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fen Mauler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 127
 desc_short: This figure looms within the shadows. The bones and teeth of countless creatures clatter from tangles within its matted, reeking fur.
 ```
-# Description
+## Description
 Long ago, in the wake of terrible calamity, some populations of sasquatches embraced terrible rites and dark bargains to protect their homes, becoming fen maulers. While sasquatches only resort to violence when threatened, fen maulers revel in bloodshed and vindictive belligerence. All but invisible within their shadowy domains, fen maulers stalk victims for hours or days at a time, until they corner their lost and panicked prey and force a final, deadly confrontation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fen%20Mauler)
 ```encounter-table
 name: Fen Mauler

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Torble
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 84
 desc_short: This scuttling thing looks at first glance like a colorful, animate blob of slime, but its thin insectoid legs and eyestalks suggest it is a more advanced creature. Its antennae-like appendages wave about curiously, and its multiple legs carry forth its transparent, hand-sized body at a surprisingly swift scuttle.
 ```
-# Description
+## Description
 Torbles (called “chordoplasms” by scholars of strange fauna and “ooze bugs” by many others) are strange and fascinating creatures, curious in ways beyond what their simple forms might suggest. These strangely colored creatures resemble a cross between a tiny ooze and an insect. They typically have a bulbous, beetle-like translucent body, six legs, and long eyestalks with primitive sensory knobs on the end. Usually they take on green, gray, or pink shades, though they may be any color. Older torbles often tend toward the colors of large ooze predators such as ochre jellies, black puddings, or the colorless gelatinous cubes, though any relationship between them is unclear. The creature’s interior may be clear or cloudy, and has the same consistency and properties of the fluid that surrounds the brains of lower animals. After the creature feeds, however, its color temporarily changes to match the color of its meal-which sometimes remains visible for hours. Although a torble has no true organs, it has a stiff bundle of fibrous nerve tissue running the length of its body that helps hold its shape. When it rests, it retracts its antennae and legs into its body, similar to how a snail or slug withdraws its eyestalks when threatened.
 
 A typical ooze bug is about 7 inches long and 5 inches wide, and weighs about 1 pound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Torble)
 ```encounter-table
 name: Torble

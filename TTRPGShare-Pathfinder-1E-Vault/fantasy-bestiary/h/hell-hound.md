@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hell Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 173
 desc_short: This creature resembles a thin, lanky wolf with reddish-brown fur, white claws, and burning, fiery red eyes.
 ```
-# Description
+## Description
 A typical hell hound stands 4-5 feet tall at the shoulder and weighs 120 pounds. Efficient hunters, a favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving prey toward the rest of the pack with their fiery breath. If the prey doesn’t run, the pack closes in. Hell hounds track fleeing creatures relentlessly.
 
 Hell hounds are particularly favored by fire giants, as the creatures are immune to fire and share the fire giant’s sense of cruelty when it comes to handling intruders. Only when a fire giant goes too far toward treating a relatively intelligent hell hound like a pet do such alliances begin to falter.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hell%20Hound)
 ```encounter-table
 name: Hell Hound

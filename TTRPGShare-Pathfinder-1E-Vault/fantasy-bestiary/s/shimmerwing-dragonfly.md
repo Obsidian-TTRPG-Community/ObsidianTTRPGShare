@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shimmerwing Dragonfly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 206
 desc_short: This sizable insect has a slender body and two pairs of long, elegant, iridescent wings.
 ```
-# Description
+## Description
 Shimmerwing dragonflies are agile flying insects that prey on other flying creatures. With a wingspan of nearly 3 feet, these dragonflies can even capture and eat small birds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shimmerwing%20Dragonfly)
 ```encounter-table
 name: Shimmerwing Dragonfly

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nuckelavee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 88
 desc_short: This skinless creature resembles a horse and its humanoid rider, fused into a single hideous being of rage and sickness.
 ```
-# Description
+## Description
 The dreaded nuckelavee is a manifestation of pollution and filth, be it the natural decay of a red tide or the intrusive pollution of sewage and other urban waste. A nuckelavee is a living irony-a carrier of disease and a spreader of corruption that unleashes its wrath against other sources that bring corruption into the world. The corruption spread by nuckelavees only serves to further their own sense of self-loathing and overall rage. While nuckelavees might, incidentally, carry out vengeance for the victims of such pollution, defending the denizens of their rivers, swamps, and bogs is not their primary drive, for they revel in inflicting the very corruption they hate and enjoy little more than watching their enemies sicken and die.
 
 Folktales tell of talismans to carry-fetishes of seaweed garlands, horsehair soaked in brine, or vials of sanctified seawater-or of prayers to recite to ward away nuckelavees or convince them the bearer is innocent. In truth, however, these old solutions offer no protection from the vile plague-bearers.
 
 A nuckelavee is the same size as a horse.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nuckelavee)
 ```encounter-table
 name: Nuckelavee

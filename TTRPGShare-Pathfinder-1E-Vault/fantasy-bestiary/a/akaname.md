@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akaname
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 16
 desc_short: This short, spindly creature has warty, brown-red skin and large black eyes. Its long, muscular tongue drags on the ground beneath it.
 ```
-# Description
+## Description
 Akanames, or filth lickers, are grotesque beings that live in sewers and dank caves. At night, they creep into humanoid settlements in search of their favorite food: the grime that accumulates in abandoned or unwashed houses. They are especially fond of the filth in unsanitary baths and toilets. Akanames are shy and avoid humanoids, but dislike being disturbed while they feed, and are known to attack individuals who get up to relieve themselves in the dark of night.
 
 Most akanames are solitary scavengers, claiming a single town or city borough as their territory. Akanames hold an almost religious reverence for otyughs, and the presence of one of the massive aberrations can attract several akanames to a single location. During their nightly feedings, zealous akanames gather filth to bring back as offerings to their otyugh. In addition to serving as an object of worship, the otyugh also provides protection for the akanames’ communal lair.
@@ -61,7 +63,7 @@ Akanames resemble goblins with warty, reddish-brown skin and greasy, often patch
 An akaname’s most distinctive feature is its grotesque tongue, which is as long as the creature is tall. Akanames drag their tongues along the ground to lick up filth, but they can also use them to manipulate objects or bludgeon their opponents. The filth an akaname eats collects in the folds and grooves of its tongue, making it an effective carrier of disease.
 
 A rare few akanames grow to be human size. These creatures gain the giant simple template and their tongue attack has a reach of 10 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akaname)
 ```encounter-table
 name: Akaname

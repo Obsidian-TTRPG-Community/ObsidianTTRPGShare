@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Weasel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 82
 desc_short: The predatory nature of this wolf-sized creature is revealed by its long teeth, sleekly muscular body, and belligerent hiss.
 ```
-# Description
+## Description
 Like their smaller cousins, giant weasels have long, slender bodies and short legs, and come in a variety of colors from reddish brown to snowy white. Giant weasels are active and tenacious predators, and have a reputation for being as clever as they are quick. Both highly aggressive and extremely territorial, they frequently attack creatures that are much larger than they are.
 
 Giant weasels are often trained to serve as guards and mounts by various Small humanoids. Adult giant weasels can grow to be 5 feet long, stand as high as 2-1/2 feet tall at the shoulder, and weigh up to 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Weasel)
 ```encounter-table
 name: Giant Weasel

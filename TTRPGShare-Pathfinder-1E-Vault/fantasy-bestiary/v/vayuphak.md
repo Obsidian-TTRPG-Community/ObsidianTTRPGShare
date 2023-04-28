@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vayuphak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 8
 desc_short: This blue-skinned humanoid has two pairs of ebony wings protruding from its waist. Talon-like nails grace its hands.
 ```
-# Description
+## Description
 Vayuphaks, or “golden ones,” are asuras who serve as guardians and stewards of desecrated holy places. Whenever asuras descend to pollute a sanctified place, vayuphaks remain behind, defending the once-sacred site from those who might reclaim it. Many make twisted mockeries out of their conquests, forming tainted kingdoms and faithless monasteries that ape the edifices of the virtuous who once occupied the area, compounding the pain of loss with outrage at their vicious parodies. Otherwise, vayuphaks spend much of their vigil in silent meditation, honing their thoughts and minds into deadly weapons. They are fearsome when roused to battle, though they prefer insinuating themselves into opponents’ minds over direct, physical confrontation.
 
 Legends claim vayuphaks were created from a divine servant who was tasked with guarding a treasure that signified the deity’s favor. After countless followers of the god slaughtered each other while attempting to obtain the prize, the enraged deity cursed the artifact so that all who looked upon it would be driven mad. The unwitting divine servant was the first victim, and wracked with madness, he claimed the treasure for himself and fled. The first vayuphaks sprung from his fevered dreams and selfloathing, and it is whispered these asuras still stand guard over both the dreaming servant and the cursed relic.
 
 Vayuphaks stand 7 feet tall and weigh 120 pounds, though rumors tell of powerful vayuphaks growing to giant sizes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vayuphak)
 ```encounter-table
 name: Vayuphak

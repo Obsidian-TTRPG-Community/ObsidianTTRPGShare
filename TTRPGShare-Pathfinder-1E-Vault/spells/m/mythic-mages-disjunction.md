@@ -1,19 +1,21 @@
 ---
-alias: Mythic Mage's Disjunction
+aliases: ["Mythic Mage's Disjunction"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Mage's Disjunction
+## Mythic Mage's Disjunction
 
 **source**:: Mythic Adventures pg. 100  
 **school**:: abjuration
 **level**:: arcanist 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: all magical effects and magic items within a 40-ft. radius burst, or one magic item (see text)  
@@ -21,7 +23,7 @@ alias: Mythic Mage's Disjunction
 **saving-throw**:: Will negates (object)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 All magical effects and magic items within the radius of the spell, except for those that you carry or touch, are disjoined. That is, spells and spell-like effects are unraveled and destroyed completely (ending the effect as a *dispel magic* spell does), and each permanent magic item must make a successful Will save or be turned into a normal item for the duration of this spell. An item in a creature's possession uses its own Will save bonus or its possessor's Will save bonus, whichever is higher. If an item's saving throw results in a natural 1 on the die, the item is destroyed instead of being suppressed.  
   

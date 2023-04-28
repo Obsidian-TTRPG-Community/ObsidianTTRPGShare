@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spawn of Yog-Sothoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,7 +59,7 @@ sources:
     desc: 30
 desc_short: The shape of this creature gives the impression of a squirming mass accompanied by an indescribable monstrous stench.
 ```
-# Description
+## Description
 The spawn of Yog-Sothoth are begotten upon the world as the results of vile rituals in which cultists call down the essence of Yog-Sothoth, an Outer God from beyond the stars (see page 135) to impregnate a humanoid creature. The Outer God is not of this dimension or world; only by incorporating flesh and bone of a mortal can its spawn exist. Upon death, a spawn’s flesh rapidly melts until nothing remains but a crusty stain. Although the spawn of Yog-Sothoth are naturally invisible, they exude a hideous, unforgettable stench that alerts others to their presence.
 
 Ancient legend holds that the spawn of Yog-Sothoth are inflicted upon a world to clear it of all sane life and to prepare the way for the return of the Great Old Ones. But it’s just as likely that the carnage and mayhem it brings upon the world is due to its ravenous and constant hunger for blood as any agenda from masters beyond the stars.
@@ -65,7 +67,7 @@ Ancient legend holds that the spawn of Yog-Sothoth are inflicted upon a world to
 A spawn of Yog-Sothoth grows quickly to Large size, but if it continues to feed, it also continues to grow, albeit at a lesser rate. A truly ancient spawn of Yog-Sothoth can be the size of a barn or even a small hill.
 
 Not all spawn of Yog-Sothoth are massive or inhuman. Some (often twins to their more monstrous kin) remain roughly humanoid in shape and size, although their deformities still require them to wear disguises or layers of baggy clothing if they want to walk unchallenged in civilized regions. These sinister creatures have a wide range of strange and unusual abilities and appearances, and are usually spellcasters-typically oracles with the dark tapestry mystery (Pathfinder RPG Ultimate Magic 54) or sorcerers with the aberrant bloodline.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spawn%20of%20Yog-Sothoth)
 ```encounter-table
 name: Spawn of Yog-Sothoth

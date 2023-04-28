@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Soulbound Shell
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 249
 desc_short: This white statue of a bald human is marbled with glowing green veins of energy.
 ```
-# Description
+## Description
 A soulbound shell is the perfected version of a soulbound mannequin, allowing the soul to retain its spellcasting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Soulbound%20Shell)
 ```encounter-table
 name: Soulbound Shell

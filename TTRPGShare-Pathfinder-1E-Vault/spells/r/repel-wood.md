@@ -1,19 +1,21 @@
 ---
-alias: Repel Wood
+aliases: [Repel Wood]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Repel Wood 
+## Repel Wood
 
 **source**:: PRPG Core Rulebook pg. 333  
 **school**:: transmutation
 **level**:: druid 6, hunter 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: 60-ft. line-shaped emanation from you  
@@ -21,7 +23,7 @@ alias: Repel Wood
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Waves of energy roll forth from you, moving in the direction that you determine, causing all wooden objects in the path of the spell to be pushed away from you to the limit of the range. Wooden objects larger than 3 inches in diameter that are fixed firmly are not affected, but loose objects are. Objects 3 inches in diameter or smaller that are fixed in place splinter and break, and the pieces move with the wave of energy. Objects affected by the spell are repelled at the rate of 40 feet per round.  
   
@@ -29,7 +31,7 @@ Objects such as wooden shields, spears, wooden weapon shafts and hafts, and arro
   
 The waves of energy continue to sweep down the set path for the spell's duration. After you cast the spell, the path is set, and you can then do other things or go elsewhere without affecting the spell's power.
 
-## Mythic Repel Wood 
+## Mythic Repel Wood
 
 **source**:: Mythic Adventures pg. 105  
 The casting time changes to 1 immediate action. You may cause one affected wooden object up to 5 inches in diameter to splinter and break.  

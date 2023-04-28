@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Black Spot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 88
 desc_short: The spines of this sizable sea urchin bristle, revealing a strange, multipart beak gnashing in their midst.
 ```
-# Description
+## Description
 Though not actually intelligent, black spots are terrifyingly adept at locating prey and potential threats, leaping forth from tide pools in great bounds to skewer their victims. However, the true danger of a black spot urchin comes not from its gnashing, star-shaped beak or its needle-pointed spines, but rather from its weird magical nature.
 
 Instead of simply poisoning those it punctures, a black spot urchin in fact curses them, inhibiting their ability to swim. How exactly black spots came by such a strange ability and what they gain from drowning their victims days or even years after first encountering them are anyone’s guess, but sailors stung by one of the beasts often refuse to go to sea again for fear of their lives.
 
 A black spot urchin is typically several feet in diameter, but is mostly made of its long spines and so weighs only a few pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Black%20Spot)
 ```encounter-table
 name: Black Spot

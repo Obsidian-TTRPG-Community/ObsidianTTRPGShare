@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forsaken Foot Soldier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 87
 desc_short: This withered corpse carries a sharpened spear and has a small shield strapped to its emaciated arm.
 ```
-# Description
+## Description
 The greatest strength of the rank-and-file soldiers of the Jistka Imperium was their ability to work as a cohesive unit in stressful situations. Now powered by unholy energies, these legionnaires’ loyalty transcends even death. Wherever groupings of forsaken legionnaires are found, there is always a solid number of foot soldiers, which still serve as the elite backbone of Jistkan companies even though they have long been forgotten.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forsaken%20Foot%20Soldier)
 ```encounter-table
 name: Forsaken Foot Soldier

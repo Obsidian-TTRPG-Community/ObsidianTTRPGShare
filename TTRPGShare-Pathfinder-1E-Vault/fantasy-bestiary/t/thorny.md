@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thorny
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
     desc: 63
 desc_short: This mass of plant matter has the general shape and build of an oversized dog. Lacking a head of any kind, its bulk is covered in jagged thorns protruding from its fungal surface.
 ```
-# Description
+## Description
 Known by many as “vegepygmy hounds,” these masses of fungal matter dwarf their diminutive vegepygmy kin, but still maintain a strong sense of loyalty to them. Named for the vicious thorns that adorn their backs, thornies infect their prey with a weak paralytic toxin, making the prey susceptible to capture. Creatures infected by russet mold while thorny poison lingers in their systems have a small chance of producing thorny offspring.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thorny)
 ```encounter-table
 name: Thorny

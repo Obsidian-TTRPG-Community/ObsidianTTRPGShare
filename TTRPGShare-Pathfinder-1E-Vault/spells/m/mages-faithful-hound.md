@@ -1,19 +1,21 @@
 ---
-alias: Mage's Faithful Hound
+aliases: ["Mage's Faithful Hound"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mage's Faithful Hound 
+## Mage's Faithful Hound
 
 **source**:: PRPG Core Rulebook pg. 306  
 **school**:: conjuration (creation)
 **level**:: arcanist 5, sorcerer 5, spiritualist 5, summoner 4, summoner (unchained) 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: phantom watchdog  
@@ -21,7 +23,7 @@ alias: Mage's Faithful Hound
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure up a phantom watchdog that is invisible to everyone but yourself. It then guards the area where it was conjured (it does not move). The hound immediately starts barking loudly if any Small or larger creature approaches within 30 feet of it. (Those within 30 feet of the hound when it is conjured may move about in the area, but if they leave and return, they activate the barking.) The hound sees invisible and ethereal creatures. It does not react to figments, but it does react to shadow illusions.  
   

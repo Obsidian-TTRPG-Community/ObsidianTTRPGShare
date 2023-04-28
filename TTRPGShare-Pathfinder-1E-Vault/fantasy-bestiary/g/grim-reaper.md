@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grim Reaper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 86
 desc_short: This tall, cloaked figure stares out from the black hood that covers its head. It wields an enormous scythe in its skeletal, bone-white hands, looking as though it is freezing the very air around it.
 ```
-# Description
+## Description
 Known by many names throughout nearly all cultures, grim reapers are the personifications of death and all the pain and fear associated with that state. They are universally feared by the living as harbingers of destruction and masters of all that has already passed from life. These hooded beings travel through the planes with the sole intent of bringing about the end of life, slaying with a deliberateness inscrutable to all but themselves.
 
 While grim reapers are the most feared of their kind, they are not alone. The towering, ghostlike grim reapers are served by minor reapers, corporeal servitors that enact their master’s dreadful will and meet out death’s unrelenting touch. A grim reaper is 15 feet tall and, as an incorporeal creature, has no physical weight except for its equipment. Minor reapers stand 7 feet tall and weigh approximately 70 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grim%20Reaper)
 ```encounter-table
 name: Grim Reaper

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Julunggali
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 164
 desc_short: Resplendent lilac and white scales adorn this gigantic serpent. A number of sharp, short horns crown its head.
 ```
-# Description
+## Description
 A julunggali is a semidivine entity. It watches over sacred and mystical places of the world, as well as the remote tribes that respect these locations. Young tribal warriors present themselves to the julunggali for its blessing, a vision quest, or other rite of passage necessary to become an adult in the community.
 
 A julunggali is wise and can be entreated to perform helpful tasks, such as carving new river channels or pulling water into dry wells. But it is also vengeful, and has been known to punish those who break social taboos or intrude upon sacred places without permission. Those who have undergone rites of passage chosen for them by the julunggali face the harshest repercussions if they act wrongly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Julunggali)
 ```encounter-table
 name: Mythic Julunggali

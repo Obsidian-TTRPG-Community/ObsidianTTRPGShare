@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hiracapath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 88
 desc_short: Silvery armor in the shape of a powerful ram barely contains the brilliant radiance shining from within it, and curling, steel horns emerge from its helm.
 ```
-# Description
+## Description
 Hiracapaths are inhabitants of Heaven-outsiders formed from the celestial plane-but they are not true angels or archons. They exist below the lowest tiers of Heaven’s hierarchy and are commanders of celestial animals, holding no official place among Heaven’s formal ranks or society. They dwell primarily at the base of the mountain that makes up the plane, wandering the idyllic realm alone or in great, golden herds. Despite their placid appearances, hiracapaths act as Heaven’s watchdogs, running down any discovered interlopers and dragging them before more formal authorities for judgment. To hiracapaths, this arrangement is not lopsided; rather, it’s preferable, as it allows them to indulge in their natural affinity for tracking intruders while remaining outside of the official celestial hierarchy, which they find too complex and unappealing, when they even consider the matter at all.
 
 In its natural form, a hiracapath is as an intangible cloud of soulstuff and celestial energy. Heaven itself provides each glorious creature with silver and steel armor to give it both form and purpose. Clad in gleaming plates, a hiracapath stands 9 feet tall and weighs almost 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hiracapath)
 ```encounter-table
 name: Hiracapath

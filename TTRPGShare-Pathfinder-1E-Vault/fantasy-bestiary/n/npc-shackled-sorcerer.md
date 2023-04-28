@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Shackled Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 60
 desc_short: Clad in multicolored silks, this fierce-looking woman seems ready to unleash devastating sorcery upon enemy vessels and water-dwelling monsters alike.
 ```
-# Description
+## Description
 For the vast majority of ships, the shackled sorcerer provides the main artillery in skirmishes, sending sheets of flame at enemy vessels or targeting burly, hostile sailors with blasts of arcane might from the rear of a boarding party. Most buccaneers give their sorcerers a wide berth, knowing their destructive power, and thus sorcerers sometimes find themselves ostracized from the rest of their crewmates, misunderstood by their less gifted and more superstitious compatriots. In battle, however, pirates do all they can to protect their magicwielding allies from harm, knowing that their powers can mean the difference between victory and swinging from a gibbet.
 
 The majority of shackled sorcerers are considered officers, but they rarely assume traditional positions of authority such as a captain’s first mate. Instead, they are considered advisers as well as weapons, and powers such as the ability to locate treasure or change the direction of the winds are highly prized among sea-faring magicwielders. While the bloodlines of shackled sorcerers are often connected in some way with life at sea-including the Aquatic or Stormborn bloodlines-any gifted arcane casters who can hurl destruction are welcomed aboard most ships.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Shackled%20Sorcerer)
 ```encounter-table
 name: NPC Shackled Sorcerer

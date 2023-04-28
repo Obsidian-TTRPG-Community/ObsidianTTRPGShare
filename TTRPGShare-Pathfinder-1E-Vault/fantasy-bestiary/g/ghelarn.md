@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghelarn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 86
 desc_short: Purple tentacles emerge from a white, coral-like rock formation, tracing whirled patterns in the surrounding sand.
 ```
-# Description
+## Description
 Born on the desert plain of an alien world, the softbodied ghelarn is a non-aquatic arthropod living within a shell-like exoskeleton manufactured from its own hardened secretions. This outer carapace contains many perforations, similar to dry coral or air-blasted stone, providing ample room from which the ghelarn can extend its outer extremities and explore the world. Chief among these appendages are two main tentacles that it uses to pull itself through the upper layers of sand within its native home, burrowing just below the surface while its hardened carapace remains above ground. As a result, ghelarns give the impression of ambulatory stone formations when traveling, but they can also abandon their shells entirely and delve deeper into the sand to avoid predators.
 
 Patient, quiet creatures, ghelarns prefer to ambush prey, waiting until suitable meals wander within reach of their tentacles or into the sticky quagmires they create just below the surface around their nesting grounds. Helpless victims soon find themselves pulled into the sand as the ghelarn extends invasive tendrils from its lower body. These lesser tentacles slowly bleed away moisture from anyone trapped in the ooze, leaving behind little more than dried husks and bones for scavengers to find, along with whatever equipment such victims may have carried.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghelarn)
 ```encounter-table
 name: Ghelarn

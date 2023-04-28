@@ -1,19 +1,21 @@
 ---
-alias: Mythic Arcane Cannon
+aliases: [Mythic Arcane Cannon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Arcane Cannon
+## Mythic Arcane Cannon
 
 **source**:: Mythic Adventures pg. 84  
 **school**:: transmutation
 **level**:: arcanist 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F (an ornate miniature cannon forged with a drop of your blood that costs 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one magically animated cannon  
@@ -21,7 +23,7 @@ alias: Mythic Arcane Cannon
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Your focus becomes a Medium *arcane cannon* that appears in an unoccupied square within the spell’s range. If no unoccupied square is within range, the spell fails. The cannon comes into existence loaded. Each round thereafter, the cannon can either fire or load. A cannon must be loaded to fire. You do not need to supply ammunition for the cannon.  
   

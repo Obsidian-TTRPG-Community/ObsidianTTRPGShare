@@ -1,19 +1,21 @@
 ---
-alias: Green Caress
+aliases: [Green Caress]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Green Caress 
+## Green Caress
 
 **source**:: Horror Adventures pg. 119  
 **school**:: transmutation
 **level**:: druid 6, hunter 4, ranger 4, shaman 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (pinch of moss or a kudzu leaf)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one living creature  
@@ -21,7 +23,7 @@ alias: Green Caress
 **saving-throw**:: Fortitude partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cause the target to transform into a plant over time. You must succeed at a melee touch attack to infect the target. If the target succeeds at its Fortitude saving throw, it takes 1d4 points of ability damage to each physical ability score (Strength, Dexterity, and Constitution) and the spell ends. If the target fails its saving throw, it takes 1d4 points of ability damage to each physical ability score immediately and continues to take 1d4 points of ability damage to each of its physical ability scores every day, until the spell expires. It can’t recover this ability damage as long as the spell lasts, even with magic. While the spell continues, the target takes on physical plant characteristics as appropriate to the environment. It begins to diminish in height and its skin turns plantlike. For example, the target’s skin might turn green and its hair is slowly replaced with grass or leaves or the target’s skin might become smooth, pale, and flabby as the creature transforms into a large mushroom in an underground environment.  
   

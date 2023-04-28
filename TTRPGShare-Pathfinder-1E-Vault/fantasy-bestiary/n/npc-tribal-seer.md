@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tribal Seer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
   - name: NPC Codex
     desc: 181
 ```
-# Description
+## Description
 The tribal seer speaks to hostile spirits and interprets omens that affect her tribe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tribal%20Seer)
 ```encounter-table
 name: NPC Tribal Seer

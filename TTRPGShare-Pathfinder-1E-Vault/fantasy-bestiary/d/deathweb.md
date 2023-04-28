@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deathweb
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 79
 desc_short: This animated husk from an enormous spider seems filled with thousands of living spiders that fall from its body like drops of blood.
 ```
-# Description
+## Description
 A deathweb is the undead exoskeleton of a massive spider animated with the vilest necromancy. The spells that create this monstrosity bind to it thousands of normal spiders, which together form the mind of the undead beast like an arachnid hive. These smaller spiders live in and direct their exoskeleton home, working together to swarm around the deathweb and weave its web sheets.
 
 The exoskeleton of a deathweb is cracked and full of holes to allow the resident spiders easy passage into and out of it. Although the exoskeleton can be up to 10 feet long, the largest spiders within are only 6 inches in length. The variety in the sizes of the internal spiders allows them to ably move all parts of the exoskeleton, giving the massive carapace amazing dexterity and swiftness, as well as cleverness, perception, and presence.
@@ -62,7 +64,7 @@ The exoskeleton of a deathweb is cracked and full of holes to allow the resident
 These capabilities make deathwebs resourceful and frightening opponents, especially when adversaries mistake them for normal monstrous arachnids or mindless undead. Because of their ability to squeeze into tight surroundings, deathwebs may be found lurking in all manner of niches.
 
 Deathwebs lair where they can build webs to trap passersby, such as among thick trees or in caves or tunnels. The creatures don’t actively collect valuables, but they kill indiscriminately to feed the multitude of spiders within. Webs in a deathweb’s lair are thus likely to contain valuables despite the creature’s lack of interest in wealth.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deathweb)
 ```encounter-table
 name: Deathweb

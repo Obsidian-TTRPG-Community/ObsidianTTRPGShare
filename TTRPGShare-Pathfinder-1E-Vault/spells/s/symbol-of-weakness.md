@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Weakness
+aliases: [Symbol of Weakness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Weakness 
+## Symbol of Weakness
 
 **source**:: PRPG Core Rulebook pg. 357  
 **school**:: necromancy
 **level**:: arcanist 7, cleric 7, occultist 5, oracle 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Weakness
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that every creature within 60 feet of a *symbol of weakness* instead suffers crippling weakness that deals 3d6 points of Strength damage.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Levitate
+aliases: [Mythic Levitate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Levitate
+## Mythic Levitate
 
 **source**:: Mythic Adventures pg. 99  
 **school**:: transmutation
 **level**:: alchemist 2, arcanist 2, investigator 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, redmantisassassin 2, shaman 2, sorcerer 2, spiritualist 2, summoner 2, summoner (unchained) 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a leather loop or golden wire bent into a cup shape)
 
-### Effect 
+### Effect
 
 **range**:: personal or close (25 ft. + 5 ft./2 levels)  
 **target**:: you or one willing creature or one object (total weight up to 100 lbs./level)  
@@ -21,7 +23,7 @@ alias: Mythic Levitate
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Levitate* allows you to move yourself, another creature, or an object up and down as you wish. A creature must be willing to be levitated, and an object must be unattended or possessed by a willing creature. You can mentally direct the recipient to move up or down as much as 20 feet each round; doing so is a move action. You cannot move the recipient horizontally, but the recipient could clamber along the face of a cliff, for example, or push against a ceiling to move laterally (generally at half its base land speed).  
   

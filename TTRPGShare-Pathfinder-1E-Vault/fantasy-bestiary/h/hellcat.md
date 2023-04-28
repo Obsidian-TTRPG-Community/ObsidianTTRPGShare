@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hellcat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 153
 desc_short: This eerie beast appears to be the animated skeleton of a huge fanged cat, its bones glowing with fire and seething with smoke.
 ```
-# Description
+## Description
 The hellcat is a devious predator native to the fiery pits of Hell. While the hellcat is not a devil itself, it often acts as a guardian or mount for devils. Some might assume that hellcats serve devils as pets, but since hellcats are as intelligent as humans, they take offense to the idea that they might be anyone’s pet.
 
 On its own, a hellcat prefers to spend its time hunting and stalking prey. While the hellcat, as an outsider, need not eat to survive, it does enjoy eating for pleasure, often leaving significant portions of its kills behind for others to find. A hellcat that enters into an alliance with a devil is often used as a sort of hunter as a result. Human mortals can use spells like planar ally or planar binding to conjure hellcats for similar purposes. Those who do so are well advised to treat the hellcat with respect, for should any master prove too haughty with his hellcat or treat it as a dumb animal, the hellcat nurtures a lasting grudge. In such instances, the hellcat goes to great lengths to plan and coordinate revenge on the spellcaster, hoping to satisfy its own pride and to provide a lesson and example to all those who would deal with their kind.
@@ -64,7 +66,7 @@ Though incapable of speech themselves, hellcats understand the Infernal tongue o
 The hellcat is only clearly visible in dim light, at these times appearing as a skeletal dire tiger with hellish flames burning and flickering along the surface of its bones. Despite this eerie appearance, the hellcat is neither undead nor an elemental creature. The “fires” are actually its blood coursing through transparent flesh. In bright light, the hellcat’s entire body fades away into obscurity, while in darkness its glowing blood is muted.
 
 Hellcats are as large as tigers, measuring 9 feet long and weighing 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hellcat)
 ```encounter-table
 name: Hellcat

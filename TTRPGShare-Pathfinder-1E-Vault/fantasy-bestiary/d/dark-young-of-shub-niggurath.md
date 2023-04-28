@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Young of Shub-Niggurath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 78
 desc_short: The lumbering bulk of a treelike monster lurches out of the mist, its branches tentacles, its roots ending in hooves, and its trunk decorated with numerous drooling maws.
 ```
-# Description
+## Description
 The Elder God known in whispered circles as Shub- Niggurath is reputed to have a thousand young, when in fact her spawn are myriad. Yet some of her children are more fecund and successful than others, and the monstrosities known as her dark young are perhaps the best known of this legion of monstrosities.
 
 In combat, a dark young usually starts by using entangle and command plants to seize control of the surrounding terrain-its ability to constantly use freedom of movement affords it mobility through such regions, allowing it to move through the areas and select its prey with ease. Intelligent and canny, dark young know that spellcasters are more difficult to affect with insanity, and save that spell-like ability for use against rogues, fighters, and similar foes. Flight offers no guarantee of safety from the dark young, for they can pursue their foes through the air as surely as across land.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Young%20of%20Shub-Niggurath)
 ```encounter-table
 name: Dark Young of Shub-Niggurath

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Infernal Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 102
 desc_short: Cruel horns frame this dragon’s head. Its body glows faintly with malicious heat.
 ```
-# Description
+## Description
 Infernal dragons delight in recruiting large entourages of overly ambitious mortals who gladly debase themselves in exchange for influence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Infernal%20Dragon)
 ```encounter-table
 name: Young Infernal Dragon

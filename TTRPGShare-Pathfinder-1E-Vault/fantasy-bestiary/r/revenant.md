@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Revenant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 90
 desc_short: This shambling corpse is twisted and mutilated. Fingers of sharpened bone reach out with malevolent intent.
 ```
-# Description
+## Description
 Fueled by hatred and a need for vengeance, a revenant rises from the grave to hunt and kill its murderer. Devoid of any compassion, emotion, or logic, a revenant has but one purpose, and cannot rest until it has found vengeance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Revenant)
 ```encounter-table
 name: Revenant

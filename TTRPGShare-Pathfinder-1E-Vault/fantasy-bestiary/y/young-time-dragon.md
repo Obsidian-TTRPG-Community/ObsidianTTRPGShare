@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Time Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 70
 desc_short: This dragon’s cracked scales creak with frightening, patient power. Some of its horns are ancient and brittle, others new and pristine.
 ```
-# Description
+## Description
 Guardians of history, time dragons are the most powerful of the outer dragons. Watchers and waiters, time dragons guard the universe against those that would interfere with the natural temporal order.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Time%20Dragon)
 ```encounter-table
 name: Young Time Dragon

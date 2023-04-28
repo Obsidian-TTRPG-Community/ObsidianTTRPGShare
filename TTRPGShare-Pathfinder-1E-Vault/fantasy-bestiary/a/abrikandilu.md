@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abrikandilu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 42
 desc_short: This deformed, horned, hunchbacked humanoid has a forked, ratlike tail and two thumbs on each taloned hand.
 ```
-# Description
+## Description
 Known as wrecker demons, abrikandilus delight in destroying beauty, be it by rending a fine painting to shreds, reducing a magnificent statue to rubble, or scarring a lovely face. Abrikandilus are formed from the souls of mortals who vandalized art or defaced objects of exquisiteness, particularly those whose acts of destruction were born from jealousy. All abrikandilus loathe only one thing more than beauty-their own reflections. Curiously, the faces of other abrikandilus do not vex a wrecker demon, but the sight of its own deformed shape drives an abrikandilu into a furious, brutish anger, impelling it to focus all of its energy on breaking the object, usually a mirror, in which it can see itself.
 
 Abrikandilus are often used as ground troops in demonic wars, for they are excellent grunts on the battlefield and don’t require weapons or armor to excel at combat. Their penchant for demolishing works of art functions as an additional demoralizing element in battle, for even when abrikandilus are defeated, the damage they have dealt endures as a constant reminder of the value of what they destroyed.
 
 An abrikandilu stands 4 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abrikandilu)
 ```encounter-table
 name: Abrikandilu

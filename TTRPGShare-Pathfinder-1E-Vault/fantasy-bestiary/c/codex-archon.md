@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Codex Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 24
 desc_short: This enormous book has wings of glowing light and an angelic figure on the cover that gazes out watchfully as though alive.
 ```
-# Description
+## Description
 A codex archon embodies Heavenly knowledge and the refinement of the mind. It serves in the libraries and archives of Heaven, and as keeper and carrier of records for Heaven’s field armies. Codex archons seek out any opportunity to add to their formidable collections of information with zealous dedication, although they do not neglect to offer their insights to those they encounter who might use such knowledge for the greater good or for personal growth.
 
  Most codex archons specialize in a single subject, such as one plane of existence, one type of creature, or one aspect of mortal life. In general, each codex archon chooses a favored enemy and Knowledge skill closely linked to each other, such as humanoid (human) and Knowledge (local) or Knowledge (nobility). Although a codex archon’s expertise allows it to more easily slay creatures of the type it studies, it usually prefers to avoid violence and uses its knowledge to coax more information out of creatures it meets. A spellcaster who calls or summons a codex archon can generally conjure one with whatever specialization she seeks unless the foe or topic is one that is little known to the forces of Heaven or an unorthodox combination (GM’s discretion). Though they prefer their heavenly homes to the chaotic Material Plane, summoned codex archons may deign to serve for a time as assistants or even instructors in mortal libraries, academies, and temples.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Codex%20Archon)
 ```encounter-table
 name: Codex Archon

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Contagion
+aliases: [Mythic Contagion]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Contagion
+## Mythic Contagion
 
 **source**:: Mythic Adventures pg. 89  
 **school**:: necromancy (disease, evil)
 **level**:: adept 3, antipaladin 3, arcanist 4, bloodrager 4, cleric 3, druid 3, hunter 3, oracle 3, sorcerer 4, warpriest 3, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Contagion
 **saving-throw**:: Fortitude negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 The subject contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is contracted immediately (the onset period does not apply). Use the disease's listed frequency and save DC to determine further effects. For more information see Diseases.
 

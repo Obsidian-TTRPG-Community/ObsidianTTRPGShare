@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wereboar (Hybrid Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 182
 desc_short: This potbellied creature has the body of a man and the head of a crazed boar. Large tusks jut from his upper jaw.
 ```
-# Description
+## Description
 In their humanoid forms, wereboars tend to be stout with upturned noses, bristly hair, and a noticeable overbite. They usually have red, brown, or black hair, though a few are golden blond, pale blond, or even bald. Chin whiskers are common, but males often can’t grow full beards. Because they can be stubborn and aggressive when riled up, wereboars usually live in their own communities rather than mixing with non-lycanthropes; a wereboar’s farm or ranch doesn’t look out of the ordinary. Wereboars tend to have large families with many children.
 
 Many wereboars are known to have especially bad tempers, rivaling those of murderous werewolves, and even other lycanthropes tend to avoid them. This suits the wereboars fine, especially as some weretigers and werewolves have been known hunt young wereboars.
 
 Note that the statistics presented here for wereboars assume that the creatures are in their barbarian rage-if the creatures are encountered at another time, simply adjust their statistics accordingly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wereboar%20(Hybrid%20Form))
 ```encounter-table
 name: Wereboar (Hybrid Form)

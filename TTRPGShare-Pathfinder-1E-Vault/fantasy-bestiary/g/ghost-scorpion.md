@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghost Scorpion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 237
 desc_short: This outsized scorpion has a translucent shell, allowing one to see through to the creature’s internal organs.
 ```
-# Description
+## Description
 So named for their eerie, translucent carapaces, ghost scorpions are nocturnal desert hunters. A ghost scorpion’s body is 3 feet long with a 3-foot long tail, and it weighs 45 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghost%20Scorpion)
 ```encounter-table
 name: Ghost Scorpion

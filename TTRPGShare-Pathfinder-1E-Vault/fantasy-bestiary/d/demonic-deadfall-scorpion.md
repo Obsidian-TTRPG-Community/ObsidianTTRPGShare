@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Demonic Deadfall Scorpion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 52
 desc_short: This oversized vermin bears demonic features and the unmistakable glint of intelligence in its eyes. 
 ```
-# Description
+## Description
 Deskari’s influence upon the Worldwound’s verminous life cannot be ignored for long by visitors to this tainted land. While some giant vermin have resisted Deskari’s influence, most have succumbed to it. Such creatures are almost always encountered along the Worldwound’s periphery. As one travels deeper into the blighted land, the immense insects, spiders, and other vermin encountered in the canyons and rivers take on an increasingly unsettling intelligence and demonic features. In many ways, these demonic vermin are no longer true denizens of the Material Plane-they are, after a fact, what happens when the chaos and evil of the Abyss infuse a mindless creature. They are the unholy spawn of vermin-and mortal sins. 
 
 Countless variations of demonic vermin exist in the forbidding wasteland that is the Worldwound. When a nest of similar monsters is encountered, they all typically share the same demonic powers and traits, but another nest of the same species could exhibit entirely different abilities, depending on the nature of the Abyssal energies that have corrupted and transformed them. Uncorrupted giant vermin that wander into or are otherwise brought into the Worldwound do not immediately fall victim to this vile transformation, but several months of exposure can, at the GM’s whim, cause such creatures to spontaneously transform into one of these hideous monstrosities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Demonic%20Deadfall%20Scorpion)
 ```encounter-table
 name: Demonic Deadfall Scorpion

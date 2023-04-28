@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Warcat of Rull
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 63
 desc_short: This massive catlike creature has the lithe grace of a feline despite a shell-like armor of segmented plates.
 ```
-# Description
+## Description
 Warcats of Rull are massive creatures with the shapes and habits of great cats but the armored skin of armadillos. Weighing 4,000 pounds and stretching 25 feet from nose to the base of its tail, a warcat of Rull is a dangerous predator with a large territory. Wild warcats of Rull hunt alone or with a single mate, and have been known to take down prey ranging from megafauna to giants and even young dragons. The Ice Tooth orc clan catches warcats of Rull as cubs and trains them to serve the clan. These beasts often act as mounts for the clan’s champions, who ride them into battle against warriors from the Realm of the Mammoth Lords.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Warcat%20of%20Rull)
 ```encounter-table
 name: Warcat of Rull

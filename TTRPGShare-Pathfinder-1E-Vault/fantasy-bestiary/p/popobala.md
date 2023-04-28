@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Popobala
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,11 +70,11 @@ sources:
     desc: 84
 desc_short: This brawny, sallow-skinned figure is muscular but lean, with batlike wings and a single hideous eye in its noseless face.
 ```
-# Description
+## Description
 The popobala is a much-feared shapeshifter that haunts and hunts warm coastal lands, roaming night and day to terrorize and spread anarchy and unrest while slaking its insatiable twin urges for violence and prurience. Shifting freely between bat, human, and its natural form, the popobala is most dreaded for its mesmeric charms, but it is more than capable of engaging in savage bloodletting against those who anger it. Popobalas are attracted to chaos, anarchy, and unrest, as the intensity of emotions and uncertainty inflames its already fierce urges. War, changes of government, and religious or ethnic strife or persecution-all of these excite a popobala, and if a society remains too settled and stable, the beast is never above fomenting unrest through its own predations.
 
 A typical popobala is 5 feet tall with a 12 foot wingspan. It weighs only 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Popobala)
 ```encounter-table
 name: Popobala

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Great White Whale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 282
 desc_short: This immense whale has an enormous, box-shaped head over a massive, toothy maw. Its rough white hide is laced with scars.
 ```
-# Description
+## Description
 Legendary in size and temper, great white whales are far more aggressive than their smaller kin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Great%20White%20Whale)
 ```encounter-table
 name: Great White Whale

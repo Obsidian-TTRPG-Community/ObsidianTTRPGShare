@@ -1,19 +1,21 @@
 ---
-alias: Secret Page
+aliases: [Secret Page]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Secret Page 
+## Secret Page
 
 **source**:: PRPG Core Rulebook pg. 338  
 **school**:: transmutation
 **level**:: arcanist 3, bard 3, mesmerist 3, occultist 3, redmantisassassin 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (powdered herring scales and a vial of will-o'-wisp essence)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: page touched, up to 3 sq. ft. in size  
@@ -21,7 +23,7 @@ alias: Secret Page
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Secret page* alters the contents of a page so that it appears to be something entirely different. The text of a spell can be changed to show another spell of equal or lower level known by the caster. This spell cannot be used to change a spell contained on a scroll, but it can be used to hide a scroll. *Explosive runes* or *sepia snake sigil* can be cast upon the *secret page*.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lyrakien
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 86
 desc_short: This tiny woman has a lithe form with delicate butterfly wings. She is surrounded by sparkling lights and gentle rainbow arcs. 
 ```
-# Description
+## Description
 Lyrakien are divine musicians and messengers, mainly in the employ of deities of travel and natural wonders. They love to explore and visit beautiful places, especially locations with excellent views of rainbows, moonlight, and the stars. Whimsical and joyous, they love contests of song, dance, and knowledge, and keep journeys happy by distracting their companions from weary feet and stale food. Mortals who please them with excellent tales and new songs may be rewarded with elaborate maps, forgotten shortcuts, or rambling directions to hidden locations that hold lost magic. 
 
 Lyrakien are light-hearted creatures, but they are very protective of breathtaking natural locations. Often called “glistenwings” by gnomes and halflings, lyrakien are frequently mistaken for fey-while they are generally friendly with true fey, their origin is the plane of Elysium. Like other azatas, they grow restless if they stay in one place too long. A chaotic good 7th-level spellcaster can gain a lyrakien as a familiar if she has the Improved Familiar feat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lyrakien)
 ```encounter-table
 name: Lyrakien

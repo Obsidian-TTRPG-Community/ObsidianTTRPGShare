@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thawn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 84
 desc_short: A hulking humanoid cloaked in ragged cloth limps forward, its malformed, tumorous arms ending in claws the length of scythe blades. From beneath its rags droop lengths of loose flesh and a strangled wheezing issues from its deformed lips.
 ```
-# Description
+## Description
 Grotesque nomads native to wretched plains and barren hills, thawns seem to bear the curse of both nature and the divine. Ogre-like in stature and dimwittedness, these monstrously ugly humanoids bear fold upon fold of sagging, excess flesh, draping them in wrinkled, poxriddled hides. This wretched appearance, in tandem with their great size and monstrous claws, leads most creatures to shun them. Indeed, even thawns find one another repulsive, creating a barely tolerable society of universal mistrust and loathing.
 
 Thawns average 9 feet tall and their excess skin pushes their average weight to 700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thawn)
 ```encounter-table
 name: Thawn

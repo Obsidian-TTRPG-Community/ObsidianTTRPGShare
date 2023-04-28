@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tarrasque
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 262
 desc_short: This immense reptilian beast towers over its surroundings, all teeth and horns and claws and thrashing spiked tail.
 ```
-# Description
+## Description
 The Tarrasque, referred to in ancient texts as the “Armageddon Engine,” is the greatest of Rovagug’s spawn. Its previously recorded devastation of Ninshabur and Avistan occurred in -632 AR, and culminated in the destruction of the flying Shory city of Kho. It was sealed away in a cavern somewhere in the Inner Sea region. Although the location of this cavern has been lost, rumors of possible locations include nearly every mountainous region, the Mwangi Expanse, and even under the Isle of Kortos itself.
 
 The statistics presented here for the Tarrasque differ slightly from those in the Bestiary-this version more accurately represents the Tarrasque as the mightiest of Rovagug’s spawn.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tarrasque)
 ```encounter-table
 name: Tarrasque

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kastamut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,13 +71,13 @@ sources:
     desc: 86
 desc_short: This squat figure seems to be a clockwork approximation of a dwarf, crafted from dark bronze or a strange steel alloy. Its eyes glow with a piercing white light.
 ```
-# Description
+## Description
 Many know how the axiomites, entities of pure law who dwell in the Eternal City of Axis, forged the first and greatest of the inevitables-living constructs to wage war against the proteans and the unbridled chaos of the Maelstrom. Yet, even as the laws governing the multiverse have been altered over time, so too has the role of the inevitables changed. Beyond defending Axis’s borders, inevitables were tasked with seeking out threats to the order of all things. To fulfill these missions, the axiomites created many more types of inevitables. Among the lesser known are the kastamuts, charged with protecting the traditions of cultures spread across the Great Beyond.
 
  Like kolyaruts, kastamuts are humanoid in shape. However, kastamuts are shorter and stockier, giving the appearance of a dwarf-or an artistic impression of a dwarf-crafted in flowing curves and planes from dark bronze or gold-tinged steel. Unlike kolyaruts, kastamuts make no effort to disguise their identities when dealing with mortals. Depending on how long a kastamut has been in service, dents or cracks may mar its metallic shell, evidence of past battles against rebels and renegades.
 
  A typical kastamut stands about 5 feet tall and weighs approximately 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kastamut)
 ```encounter-table
 name: Kastamut

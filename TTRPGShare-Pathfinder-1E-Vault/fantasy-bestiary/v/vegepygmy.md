@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vegepygmy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
     desc: 273
 desc_short: Short, thin, and green, this small humanoid wields a spear. Tendrils of fungus dangle from its arms, midsection, and legs.
 ```
-# Description
+## Description
 Vegepygmys are created by a dangerous fungus known as russet mold-creatures slain by russet mold serve as incubators for the mold’s spores, and a day later, the dead body bursts to release 1d6 fully grown vegepygmys. A vegepygmy has no real relation to the body from which it emerges, but the creature may yet retain a strange sort of reverence for its “birth corpse” and carry with it a grisly memento from the body, typically a few bones or teeth. Often, a vegepygmy uses such bones to craft a crude spear or some other weapon.
 
 Vegepygmy tribes live in tightly knit communities and fiercely guard their patches of russet mold. Vegepygmies cannot speak-they communicate via a crude language of rhythmic taps, beats, and clicks. Hunting parties echo these exchanges through the caves they travel. Vegepygmies stand 2 to 4 feet tall and weigh between 15 to 45 pounds.
 
 Approximately 1 in 20 vegepymies are chieftains. A vegepygmy chieftain is an advanced vegepygmy (often one with class levels) that carries an infestation of russet mold spores in its flesh. A vegepygmy chieftain infects any creature it hits with its natural weapons with russet mold spores (see below).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vegepygmy)
 ```encounter-table
 name: Vegepygmy

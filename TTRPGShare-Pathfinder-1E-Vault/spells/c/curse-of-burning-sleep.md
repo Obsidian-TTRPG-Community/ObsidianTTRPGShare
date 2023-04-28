@@ -1,19 +1,21 @@
 ---
-alias: Curse of Burning Sleep
+aliases: [Curse of Burning Sleep]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Curse of Burning Sleep 
+## Curse of Burning Sleep
 
 **source**:: Advanced Class Guide pg. 179  
 **school**:: transmutation (curse, fire)
 **level**:: arcanist 4, psychic 4, redmantisassassin 4, shaman 4, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a feather and a drop of oil)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Curse of Burning Sleep
 **saving-throw**:: Will negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You place a curse upon the target that triggers 1 hour after the next time it falls asleep. When the curse is triggered, the creature bursts into flame, taking 1d6 points of fire damage per 2 caster levels (maximum 8d6). Furthermore, it catches on fire, taking 2d6 points of fire damage per round at the end of its turn each round until the creature dies or is quenched as normal (*Pathfinder RPG Core Rulebook* 444). If the target is still asleep, the fire damage from this spell wakes it.  
   

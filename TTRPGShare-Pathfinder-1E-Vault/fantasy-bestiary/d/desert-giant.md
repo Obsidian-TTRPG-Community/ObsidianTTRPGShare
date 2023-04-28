@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Desert Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 128
 desc_short: Loose robes conceal the sand-etched features of this lanky giant. In each hand he grips a scimitar nearly the length of a human.
 ```
-# Description
+## Description
 Desert giants rove the stark and majestic sands, rarely dwelling in permanent camps. They roam from oasis to oasis, sleeping beneath the stars or in easily dismantled yurts, breaking camp as whim strikes or when food sources grow scarce.
 
 Desert giants stand 15 feet tall on average, but have slender builds and rarely weigh more than 2,000 pounds, a fact that greatly contributes to their grace and speed. The giants favor loose robes with keffiyehs for protection from the scouring desert winds, as well as traveling leathers worn beneath the robes. They require little water, and are able to survive for as long as 2 weeks on food alone. When such goods are available, they drink water, milk, and juices in prodigious amounts, but they spurn beer, wine, and stronger spirits. The bulk of their diet comes from figs, olives, and similar bounty of the oases, supplemented by meat if required. The eldest desert giants live as long as 300 years.
 
 Despite their nomadic ways, desert giants guard their territory fiercely, driving away all interlopers, whether intelligent or bestial.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Desert%20Giant)
 ```encounter-table
 name: Desert Giant

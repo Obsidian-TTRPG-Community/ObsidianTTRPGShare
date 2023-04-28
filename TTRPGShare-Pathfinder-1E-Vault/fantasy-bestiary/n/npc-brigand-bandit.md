@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Brigand (Bandit)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -37,7 +39,7 @@ sources:
   - name: GameMastery Guide
     desc: 258
 ```
-# Description
+## Description
 Bandits are the scourge of the highway, robbing the rich and poor alike. Freebooting scoundrels simply out for a good time, bandits care only about themselves and their band of rogues. They accost and shake down innocent travelers, hijack poorly-guarded merchant caravans, charge tolls at remote bridges, or simply plunder isolated farmsteads and villages.
 
 Bandits can be deserters from an army, disaffected huntsmen, rootless drifters with no taste for hard work, cattle rustlers or horse thieves, or even folk-hero freedom fighters who rob from the rich to feed the poor.
@@ -45,7 +47,7 @@ Bandits can be deserters from an army, disaffected huntsmen, rootless drifters w
 Bandits can be used as low-level archer soldiers (N alignment, replace Dodge feat with Weapon Focus [longbow]) or crossbowmen (replace longbow with light or heavy crossbow), or as guards manning city walls (LN alignment, replace rapiers with longswords and replace Dodge feat with Weapon Focus [longsword]). They can also be used as bored young nobles or dandies out on a hunt or as low-level scouts or outriders.
 
 Bandits are usually found in pairs (CR 1) or in a gang of a dozen accompanying a highwayman (CR 8). They often make up the rank-and-file members of a bandit lord’s gang (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Brigand%20(Bandit))
 ```encounter-table
 name: NPC Brigand (Bandit)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Cultist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,7 +61,7 @@ sources:
   - name: NPC Codex
     desc: 249
 ```
-# Description
+## Description
 The cultist is a smiling friend to all in her community, so few suspect she leads a second life dedicated to ushering in the apocalypse. The cultist spins falsehoods to conceal her true motives, presenting herself as a pious woman of the church, a research assistant for a sage, or the demure wife of the mayor or a local merchant-any role where she can be known but does not wield power, and is therefore not suspected of having any ambition. She uses her magic to spy on townsfolk, punish her enemies and those who would thwart her plans, direct suspicion away from her onto a scapegoat, and sow confusion and panic among the townsfolk so she can manipulate them more easily. If discovered using magic, she pretends to be less successful at it than she truly is and asks the witnesses not to tell her superiors of it, as they would disapprove and punish her for it.
 
 Whether she serves demons, the god of destruction, or strange beings from the outer darkness, the cultist eagerly anticipates the ruin of the world. Much of her work involves placing secret marks around her village, sacrificing animals, burning strange herbs, and uttering guttural chants, all of which help power the apocalypse ritual taught to her by her dark masters. The culmination of these acts almost certainly requires human sacrifice-whether a direct act with a knife or a subtle massacre such as a burning building-and perhaps a celestial conjunction between stars and planets invisible to the naked eye.
@@ -67,7 +69,7 @@ Whether she serves demons, the god of destruction, or strange beings from the ou
 The cultist may believe the masters of the apocalypse will reward her with power or divinity when the time comes, or will grant her a quick and merciful death. She may wish to see the world burn for some slight against her by a rival or lover, or simply because the secret madness within her throbs at the idea of such wanton destruction.
 
 Her minions in town include secret alliances with enforcers (adepts 5), ruffians (commoners 7), or even a traitor (commoner 10). The members of this conspiracy may not know each other’s identities, or may believe that someone other than the cultist is in charge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Cultist)
 ```encounter-table
 name: NPC Cultist

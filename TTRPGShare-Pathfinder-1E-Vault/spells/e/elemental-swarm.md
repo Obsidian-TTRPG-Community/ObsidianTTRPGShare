@@ -1,19 +1,21 @@
 ---
-alias: Elemental Swarm
+aliases: [Elemental Swarm]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Elemental Swarm 
+## Elemental Swarm
 
 **source**:: PRPG Core Rulebook pg. 277  
 **school**:: conjuration (summoning)
 **level**:: druid 9, shaman 9, witch 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: two or more summoned creatures, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Elemental Swarm
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose any plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.  
   

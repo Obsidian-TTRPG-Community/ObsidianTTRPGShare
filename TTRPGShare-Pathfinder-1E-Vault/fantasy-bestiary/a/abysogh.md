@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abysogh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 84
 desc_short: The footsteps of this pale titan cause the very earth to shudder. Each muscle in its body is pulled taut as if in perpetual convulsion.
 ```
-# Description
+## Description
 Rather than collecting rocks like ordinary giants, abysoghs enjoy collecting living creatures, and love nothing more than flinging a screaming human or horse at enemies.
 
 Legends tell of a small cult of foolish storm giants who dug around the Pit of Gormuz in a misguided attempt to free lost Ranginori, and struck a flow of horrific blood from Rovagug or one of his spawn. Contaminated by the blood, the cultists emerged as horribly mutated creatures of hate and destruction. Nearly unstoppable in their mindless rage, they now live only to slaughter and destroy.
 
 An abysogh stands at least 40 feet tall and weighs approximately 70 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abysogh)
 ```encounter-table
 name: Abysogh

@@ -1,19 +1,21 @@
 ---
-alias: Alleviate Corruption
+aliases: [Alleviate Corruption]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Alleviate Corruption 
+## Alleviate Corruption
 
 **source**:: Horror Adventures pg. 108  
 **school**:: abjuration
 **level**:: cleric 6, occultist 6, psychic 6, shaman 6, spiritualist 6, warpriest 6, witch 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M (rare herbs, incense, and jewels worth 500 gp/the target's character level or HD)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature other than yourself  
@@ -21,7 +23,7 @@ alias: Alleviate Corruption
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You combat the rising corruption (see page 14) in another creature or advance the long-term process of exorcising it entirely. This spell has two purposes, and you choose which application to use at the time of casting.  
   

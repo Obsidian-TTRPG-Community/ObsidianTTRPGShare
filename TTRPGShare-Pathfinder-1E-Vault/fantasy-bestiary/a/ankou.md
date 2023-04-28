@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ankou
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
     desc: 80
 desc_short: Cloaked by wings of darkness, this horrific, skeletal creature appears to burn from within.
 ```
-# Description
+## Description
 Ankous are assassins for powerful fey nobles, sent to kill, terrify, and torture. They never speak, only telepathically whisper their lord’s verdict to victims. A typical ankou is 10 feet tall and has an 8-foot wingspan, but weighs less than 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ankou)
 ```encounter-table
 name: Ankou

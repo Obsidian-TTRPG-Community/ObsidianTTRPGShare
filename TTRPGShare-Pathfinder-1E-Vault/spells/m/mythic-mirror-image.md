@@ -1,25 +1,27 @@
 ---
-alias: Mythic Mirror Image
+aliases: [Mythic Mirror Image]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Mirror Image
+## Mythic Mirror Image
 
 **source**:: Mythic Adventures pg. 101  
 **school**:: illusion (figment)
 **level**:: adept 2, arcanist 2, bard 2, bloodrager 2, magus 2, medium 2, mesmerist 2, occultist 2, psychic 2, redmantisassassin 2, skald 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level
 
-### Description 
+### Description
 
 This spell creates a number of illusory doubles of you that inhabit your square. These doubles make it difficult for enemies to precisely locate and attack you.  
   

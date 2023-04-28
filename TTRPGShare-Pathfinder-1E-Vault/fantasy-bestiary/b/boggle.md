@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Boggle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 51
 desc_short: This small, goatlike man has curved horns, hoofed feet, and a ratlike tail.
 ```
-# Description
+## Description
 Boggles are frenetic and capricious fey who love to run and cavort through the woods, pulling pranks on animals, people, monsters, and their fellow fey. What these country cousins to bogeymen love more than anything, though, is the humor and laughter of mortals. When bored, a boggle randomly selects a person or family to befriend and begins a campaign of pranks and teasing; the boggle usually neglects to introduce itself to these new friends, remaining hidden to heighten the growing panic and make the game more hilarious. Its innate magic creates strange lights and sounds and causes erratic behavior, adding to the mortals’ dread. 
 
 A boggle stands 3 feet tall and weighs 55 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Boggle)
 ```encounter-table
 name: Boggle

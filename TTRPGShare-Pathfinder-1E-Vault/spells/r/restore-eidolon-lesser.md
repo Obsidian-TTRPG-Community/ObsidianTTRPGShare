@@ -1,19 +1,21 @@
 ---
-alias: Restore Eidolon, Lesser
+aliases: [Restore Eidolon, Lesser]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Restore Eidolon, Lesser 
+## Restore Eidolon, Lesser
 
 **source**:: Ultimate Magic pg. 235  
 **school**:: conjuration (healing)
 **level**:: summoner 2, summoner (unchained) 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 3 rounds  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: eidolon touched  
@@ -21,7 +23,6 @@ alias: Restore Eidolon, Lesser
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions as *lesser restoration*, except it only affects an eidolon.
-

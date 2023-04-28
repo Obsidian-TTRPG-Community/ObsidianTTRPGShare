@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cloaker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 47
 desc_short: This ray-like creature opens a toothy maw and leers with glaring red eyes. Behind it whips a menacing tail of segmented bone.
 ```
-# Description
+## Description
 Resembling hideously evil flying manta rays, cloakers are mysterious and paranoid creatures. A typical specimen has an 8-foot wingspan and weighs 100 pounds.
 
 A cloaker’s motives are hidden and confusing, and they distrust even their own kind. Their strange shape allows them to disguise themselves as a variety of cloaks, tapestries, and other mundane objects, and stories linger of cloakers that ally with other creatures, hitching a ride on their backs and aiding in their ally’s protection for their own inscrutable reasons. A rare few are priests of ancient gods, leading cults of cloakers and skum to undertake all manner of hideous rites and working toward singularly sinister goals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cloaker)
 ```encounter-table
 name: Cloaker

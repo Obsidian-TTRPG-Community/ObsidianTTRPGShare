@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thrasfyr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 263
 desc_short: Neither quite bear nor bull nor serpent, this immense, six-legged creature is bound in chains and covered with scintillating red scales.
 ```
-# Description
+## Description
 The legendary thrasfyr is one of the Tane-a group of powerful monsters created by godlike beings from the primal world of the fey. A thrasfyr without a master prefers to dwell in rugged hilly regions, where it spends most of its time slumbering and dreaming-it is said that all thrasfyrs dream of themselves as graceful and beautiful fey, for legends say that the first thrasfyrs were created from such creatures as a form of punishment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thrasfyr)
 ```encounter-table
 name: Thrasfyr

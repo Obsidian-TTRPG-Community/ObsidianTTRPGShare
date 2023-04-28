@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Servant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 56
 desc_short: This four-armed, human-sized clockwork construct balances on three legs that rise into a central body.
 ```
-# Description
+## Description
 Since clockwork engineers can’t always be present to make sure their devices are working at full capacity, the clockwork servant was invented to serve that role. Clockwork servants excel at repairing themselves and other clockworks on the battlefield, proving useful for skirmishes and campaigns alike.
 
 Rumors of clockwork servants with magically imparted intelligence persist among explorers of certain strange ruins-while no smarter than the average human, such “awakened” clockwork servants have skills and feats as appropriate for their Hit Dice (Disable Device +7, Perception +2, and Skill Focus [Disable Device] for most intelligent clockwork servants), and are said to serve in more complex roles than mere repair workers. An intelligent clockwork has an Intelligence score of 11 and can speak one language.
 
 Clockwork servants are about 5 feet tall and weigh over 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Servant)
 ```encounter-table
 name: Clockwork Servant

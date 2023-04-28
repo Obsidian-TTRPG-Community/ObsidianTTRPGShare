@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gancanagh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 38
 desc_short: This incredibly handsome man’s pointed ears and otherworldly grace betray an inhuman beauty.
 ```
-# Description
+## Description
 Male azatas of extraordinary and radiant beauty, gancanaghs are Elysium’s knights-errant, but they are best known as inveterate wooers of mortals and immortals alike. While gancanaghs are incorrigible flirts, a gancanagh’s true attention tends to alight on one man or woman at a time, and he throws himself into wooing and courting his current target, into a brief but earnest fling before his quicksilver passions change yet again.
 
 Gancanaghs hate succubi and incubi more than anything else, as they feel that the mere existence of such creatures profanes the spirit of romance with the shadow of the demons’ seduction and violence, leading good people who share the gancanagh’s flirtatious and open nature to be compared to evil creatures. One can give a gancanagh no greater offense than to mistake him for an incubus, and more than one hotheaded gancanagh has challenged a misinformed paladin or other ally of good to a duel over such an insult.
 
 While many gancanaghs carry whimsical-looking pipes because they like the way they look, they can’t stand smoke, and so rarely make use of them. A gancanagh’s flute, on the other hand, is a cherished possession, as they enjoy both the beauty of the music and its ability to sway the heart. A typical gancanagh stands 6 feet tall but weighs only 130 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gancanagh)
 ```encounter-table
 name: Gancanagh

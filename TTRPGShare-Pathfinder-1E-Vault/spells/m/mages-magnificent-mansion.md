@@ -1,19 +1,21 @@
 ---
-alias: Mage's Magnificent Mansion
+aliases: ["Mage's Magnificent Mansion"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mage's Magnificent Mansion 
+## Mage's Magnificent Mansion
 
 **source**:: PRPG Core Rulebook pg. 307  
 **school**:: conjuration (creation)
 **level**:: arcanist 7, psychic 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a miniature ivory door, a piece of polished marble, and a silver spoon, each worth 5 gp)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: extradimensional mansion, up to three 10-ft. cubes/level (S)  
@@ -21,7 +23,7 @@ alias: Mage's Magnificent Mansion
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You conjure up an extradimensional dwelling that has a single entrance on the plane from which the spell was cast. The entry point looks like a faint shimmering in the air that is 4 feet wide and 8 feet high. Only those you designate may enter the mansion, and the portal is shut and made invisible behind you when you enter. You may open it again from your own side at will. Once observers have passed beyond the entrance, they are in a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.  
   

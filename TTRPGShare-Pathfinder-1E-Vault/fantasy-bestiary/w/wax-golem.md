@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wax Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 90
 desc_short: This eerily expressionless woman has a glistening quality about her, as though she’s covered in an oily sheen.
 ```
-# Description
+## Description
 A wax golem is an exact replica of a particular person, composed completely of wax. While skilled artists pride themselves on their ability to make wax sculptures look lifelike, builders of wax golems go one step further and actually bring their art to life. Though eerily silent and unblinking, well-built wax golems bear such striking similarity to the subjects they are modeled after that some golems begin to think they are in fact that person.
 
 A wax golem can be constructed to resemble any person or creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wax%20Golem)
 ```encounter-table
 name: Wax Golem

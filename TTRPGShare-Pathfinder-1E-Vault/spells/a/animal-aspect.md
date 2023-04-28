@@ -1,19 +1,21 @@
 ---
-alias: Animal Aspect
+aliases: [Animal Aspect]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Animal Aspect 
+## Animal Aspect
 
 **source**:: Ultimate Combat pg. 222  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 2, arcanist 2, bloodrager 2, druid 2, hunter 2, investigator 2, magus 2, psychic 2, ranger 2, redmantisassassin 2, sorcerer 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a part of the animal)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Animal Aspect
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 You gain some of the beneficial qualities of an animal. Your base form is largely unchanged and your size is unaltered, but some of your body parts are altered. Armor or gear you are wearing adjusts to your new shape for the duration of the spell. When you cast *animal aspect*, choose one of the following animals to gain the associated benefits. You can only have one *animal aspect* or *greater animal aspect* spell active on you at a time.  
   
@@ -39,8 +41,7 @@ You gain some of the beneficial qualities of an animal. Your base form is largel
   
 *Tree Lizard*: Your hands and feet gain climbing claws and climbing pads. You gain a climb speed equal to half your normal speed and all the benefits of having a natural climb speed.
 
-## Mythic Animal Aspect 
+## Mythic Animal Aspect
 
 **source**:: Mythic Adventures pg. 84  
 You gain low-light vision, a +2 size bonus to the physical ability score of your choice, and a +1 enhancement bonus to your natural armor. Alternatively, you may cast the non-mythic form of this spell on a touched willing creature.
-

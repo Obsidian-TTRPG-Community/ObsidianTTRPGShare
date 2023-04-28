@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire Savage
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
   - name: Monster Codex
     desc: 241
 ```
-# Description
+## Description
 With razor-sharp fangs and the ability to drain the life out of his opponents, a vampire savage is a frightening sight to behold. This vampire tears his victims apart even as he bleeds them dry-savoring every scream he causes, enjoys the last heartbeat of each victim, and laughs at adventurers who dare to try stopping his murderous rampage. Because the vampire savage mangles the bodies of his victims so badly, many believe that his killings are the work of a wild animal. The carnage he leaves in his wake stands as an easy trail for a hunter to follow, but those would-be vampire slayers who get too close are not usually seen again.
 
  This sort of vampire often takes control of a violent tribe of orcs, gnolls, and similar creatures, driving them into a frenzy and demanding blood sacrifices from them to appease his appetite.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire%20Savage)
 ```encounter-table
 name: Vampire Savage

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Power Word Blind
+aliases: [Mythic Power Word Blind]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Power Word Blind
+## Mythic Power Word Blind
 
 **source**:: Mythic Adventures pg. 103  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 7, mesmerist 6, psychic 7, sorcerer 7, witch 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature with 200 hp or less  
@@ -21,7 +23,7 @@ alias: Mythic Power Word Blind
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You utter a single word of power that causes a creature to become blinded, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 201 or more hit points is unaffected.  
   

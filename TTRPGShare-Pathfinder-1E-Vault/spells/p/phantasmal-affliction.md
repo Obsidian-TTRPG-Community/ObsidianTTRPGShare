@@ -1,19 +1,21 @@
 ---
-alias: Phantasmal Affliction
+aliases: [Phantasmal Affliction]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantasmal Affliction 
+## Phantasmal Affliction
 
 **source**:: Ultimate Intrigue pg. 221  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 3, mesmerist 2, psychic 3, sorcerer 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of cod liver oil)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: living creature  
@@ -21,7 +23,7 @@ alias: Phantasmal Affliction
 **saving-throw**:: Will disbelief, then Fortitude or Will negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cause the creature to believe she has a debilitating affliction. The target can attempt a Will save to recognize the affliction as unreal. If that save fails, the creature suffers an imaginary affliction of your choice.  
   

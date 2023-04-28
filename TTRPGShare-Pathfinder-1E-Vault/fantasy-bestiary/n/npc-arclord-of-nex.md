@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Arclord of Nex
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 6
 ```
-# Description
+## Description
 Claiming to be descended from the wizard Nex’s household servants, the Arclords see it as their solemn duty to further the archmage’s goals in his absence. Over time, the exact details of these goals have evolved as Arclords have uncovered and analyzed additional texts penned by Nex, though more often than not they jealously guard these documents, making it difficult for outsiders to determine whether members of the secretive society of mages are staying true to their cause or subtly manipulating their findings for their own inscrutable purposes.
 
 Among the most famous techniques of the Arclords is their ability to open a third eye upon the forehead. Intense willpower is required to keep this eye open. Few can maintain the eye for more than a few minutes, yet in that time even a basic practitioner can sense the presence and flow of magic as no other. Especially talented Arclords can analyze enchantments almost instantly and even see through the most convincing illusions while benefiting from this magical sight.
@@ -86,7 +88,7 @@ The highest concentration of Arclords in the Inner Sea is in Nex, where the orga
 Perhaps in response to their failures in executing large, sweeping changes, most Arclords now pursue a more subtle agenda of integrating arcane magic directly into the cities and cultures of the Inner Sea, thus building a growing dependence upon their services, research, and insights. As a result, they consider courtly skills of diplomacy, etiquette, and composure second in importance only to their magical studies; these earn them inf luence they could never maintain through direct force.
 
 Even so, the Arclords crave the influence and power to accomplish several key goals. First, they long to regain their control over the Nex, and thereby gain uncontested access to its resources instead of having to negotiate with the Council of Three and Nine. With such means at their disposal, they might finally eradicate the country of Geb and its namesake necromancer-a task they are certain Nex himself would appreciate. Finally, the Arclords publicly express an interest in finding the wizard Nex and restoring him to power. This claim is bandied about only to reinforce the Arclords’ political mandate and power, however, as doing so would certainly rob the Arclords of their autonomy, among other unforeseeable consequences.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Arclord%20of%20Nex)
 ```encounter-table
 name: NPC Arclord of Nex

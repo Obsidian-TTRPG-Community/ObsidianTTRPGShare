@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lizardfolk Sorcerer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
   - name: Monster Codex
     desc: 146
 ```
-# Description
+## Description
 Lizardfolk sorcerers can have any bloodline, but most claim (rightly or not) that their magic is the result of ancient interbreeding with majestic dragons. With the blood of dragons coursing through her veins, the sorcerer is respected and feared by members of her tribe. They could see her as an omen-of good or ill-and might send her away to live on the outskirts of tribal land if she can’t quickly learn to control her powers. Nevertheless, though the sorcerer might stand apart from the rest of her tribe, she almost always comes to her kin’s defense in their times of need.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lizardfolk%20Sorcerer)
 ```encounter-table
 name: Lizardfolk Sorcerer

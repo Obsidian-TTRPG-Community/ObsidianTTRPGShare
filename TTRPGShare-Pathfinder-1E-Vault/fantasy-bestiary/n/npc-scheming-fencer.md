@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Scheming Fencer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: NPC Codex
     desc: 86
 ```
-# Description
+## Description
 Cosmopolitan patrons hire scheming fencers as either bodyguards or enforcers. Groups of these warriors can also serve as soldiers, guards, and protectors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Scheming%20Fencer)
 ```encounter-table
 name: NPC Scheming Fencer

@@ -1,19 +1,21 @@
 ---
-alias: Detect Demon
+aliases: [Detect Demon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Detect Demon 
+## Detect Demon
 
 **source**:: Demon Hunter's Handbook pg. 26  
 **school**:: divination
 **level**:: cleric 1, inquisitor 1, oracle 1, paladin 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped emanation  
@@ -21,7 +23,7 @@ alias: Detect Demon
 **saving-throw**:: none (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You sense the presence of a specific kind of evil-that of demons, their servants, and the Abyss. The amount of information revealed depends on how long you study a particular area or subject.  
   

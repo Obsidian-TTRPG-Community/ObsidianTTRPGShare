@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Rot Grub
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 78
 desc_short: This twitching, pale maggot is the size of a large dog. A circular mouth quivers and gasps at one end of its pulsating body.
 ```
-# Description
+## Description
 Rot grubs are foul, nauseating parasites that feed on flesh and use corpses as nests in which to grow. While a rot grub can derive nourishment from dead flesh, its true hunger is for the flesh of the living. Thankfully, rot grub swarms occur only rarely, as they require the infested carcass of a Huge or larger creature and many weeks to build up the numbers necessary to constitute a swarm.
 
 In some cases, a rot grub continues to feed and grow, eventually reaching enormous size as a giant rot grub.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Rot%20Grub)
 ```encounter-table
 name: Giant Rot Grub

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Angel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 58
 desc_short: Brass, bronze, and silver components adorn this angelic figure. Moving gears are visible within the gaps of its metallic body.
 ```
-# Description
+## Description
 Clockwork angels are usually built in accord with divine agencies to serve as defenders of holy sites, but are themselves not intrinsically agents of goodness. Indeed, certain evil sects enjoy the irony of constructing beatific “fauxangels” to guard their profane temples. In such cases, a clockwork angel’s appearance is often augmented with grisly additions meant to blaspheme against enemy faiths, yet such changes are largely cosmetic and have no effect on the creature’s statistics. 
 
 Clockwork angels are constructed around a spark of life harnessed from the Positive Energy Plane, which imbues them with a sort of artificial life and further bolsters their potency. A clockwork angel stands 7 feet tall and weighs 450 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Angel)
 ```encounter-table
 name: Clockwork Angel

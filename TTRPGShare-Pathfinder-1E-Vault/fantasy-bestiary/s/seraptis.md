@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Seraptis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 58
 desc_short: This woman’s flesh is pale and clammy, as if her body had been drained of blood from the fanged slashes on her four arms.
 ```
-# Description
+## Description
 Seraptis demons form from souls of those who inspired widespread despair or destruction by committing suicide.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Seraptis)
 ```encounter-table
 name: Seraptis

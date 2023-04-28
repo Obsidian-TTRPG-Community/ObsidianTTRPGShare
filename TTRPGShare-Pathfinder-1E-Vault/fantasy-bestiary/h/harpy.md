@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Harpy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,7 +46,7 @@ sources:
     desc: 172
 desc_short: Save for the tattered wings and taloned feet, this creature resembles a feral woman with a wild look about her.
 ```
-# Description
+## Description
 Often viewed as vicious and corrupted creatures, harpies know how creatures think and act. This understanding gives them an advantage when it comes to finding their favorite meals. While creatures of the wild easily fall victim to their captivating songs, these vile bird-women prefer their meals spiced with complex sentient thoughts. Easy prey makes for a boring meal.
 
 While ultimately savage and without remorse for their actions, a number of harpies live close to humanoid societies and enjoy parlaying with creatures that they see as potential meals.
@@ -52,7 +54,7 @@ While ultimately savage and without remorse for their actions, a number of harpi
 Harpies tend to wear baubles and trinkets stolen from their victims, as they like to indulge in the shiny ornaments of mankind. Up close, these creatures reek with the stench of consumed victims, and they rarely let creatures not yet captivated too near, lest they smell the gore and decay upon their feathers. For this reason, many harpies wear perfumes and scented oils.
 
 Harpies appear wildly different in different lands. Some seem like an amalgam of vultures and women, while others bear the regal markings of hawks or falcons in their feathers. Rare clutches of harpies in isolated and tropical parts of the world even have colorful feathers akin to parrots.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Harpy)
 ```encounter-table
 name: Harpy

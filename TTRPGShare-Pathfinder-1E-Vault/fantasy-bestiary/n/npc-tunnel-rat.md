@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tunnel Rat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
   - name: NPC Codex
     desc: 130
 ```
-# Description
+## Description
 A tunnel rat patrols twisting passages underground.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tunnel%20Rat)
 ```encounter-table
 name: NPC Tunnel Rat

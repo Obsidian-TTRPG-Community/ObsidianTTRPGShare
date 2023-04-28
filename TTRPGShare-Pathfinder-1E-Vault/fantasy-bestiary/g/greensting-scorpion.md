@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Greensting Scorpion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 118
 desc_short: Though its pincers seem too small to harm anything larger than an insect, this scorpion’s stinger still appears dangerous.
 ```
-# Description
+## Description
 Deadly greensting scorpions normally live in forests, though they can survive nearly anywhere.
 
 A greensting scorpion familiar grants a +4 bonus on Initiative checks so long as the familiar is within 1 mile of the spellcaster. A greensting scorpion familiar loses the mindless trait and has an Intelligence score appropriate for its master’s level.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Greensting%20Scorpion)
 ```encounter-table
 name: Greensting Scorpion

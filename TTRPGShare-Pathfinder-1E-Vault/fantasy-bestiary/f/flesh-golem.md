@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Flesh Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 160
 desc_short: A hideous monstrosity crafted from body parts stitched together with thick string, wire, and metal staples lurches to horrific life.
 ```
-# Description
+## Description
 A flesh golem is a ghoulish collection of stolen humanoid body parts, stitched together into a single composite form. Its cadaverous flesh has a sickly green or yellowish tint. A flesh golem wears whatever clothing its creator desires, usually just a ragged pair of trousers. It has no possessions and no weapons. A flesh golem stands 8 feet tall and weighs 500 pounds.
 
 A flesh golem cannot speak, although it can emit a hoarse roar of sorts. It walks and moves with a stiff-jointed gait, as if not in complete control of its body.
 
 Although most flesh golems are mindless, there are persistent rumors of unusual golems who somehow retain the memories of a previous life. The head (and thus brain) of such flesh golems must be just the right combination of fresh and (in its previous life) strong-willed, and even then luck and chance during the golem’s creation seem just as important in retaining the creature’s mind. Certainly most who construct flesh golems prefer mindless slaves over free-willed creations, and as a result intelligent flesh golems are rare indeed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Flesh%20Golem)
 ```encounter-table
 name: Flesh Golem

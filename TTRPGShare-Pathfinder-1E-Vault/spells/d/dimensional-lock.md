@@ -1,19 +1,21 @@
 ---
-alias: Dimensional Lock
+aliases: [Dimensional Lock]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dimensional Lock 
+## Dimensional Lock
 
 **source**:: PRPG Core Rulebook pg. 270  
 **school**:: abjuration
 **level**:: arcanist 8, cleric 8, oracle 8, psychic 8, sorcerer 8, summoner 6, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-ft.-radius emanation centered on a point in space  
@@ -21,13 +23,13 @@ alias: Dimensional Lock
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a shimmering emerald barrier that completely blocks extradimensional travel. Forms of movement barred include *astral projection*, *blink*, *dimension door*, *ethereal jaunt*, *etherealness*, *gate*, *maze*, *plane shift*, *shadow walk*, *teleport*, and similar spell-like abilities. Once *dimensional lock* is in place, extradimensional travel into or out of the area is not possible.  
   
 A *dimensional lock* does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms. Also, the spell does not prevent summoned creatures from disappearing at the end of a summoning spell.
 
-## Mythic Dimensional Lock 
+## Mythic Dimensional Lock
 
 **source**:: Mythic Adventures pg. 91  
 The spell doesn’t interfere with your extradimensional travel spells and effects.  

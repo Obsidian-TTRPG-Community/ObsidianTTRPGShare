@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Silver Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,9 +63,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 110
 ```
-# Description
+## Description
 Of all the dragons, silvers are the most courageous, holding themselves to a chivalrous code to help the weak, defeat evil, and behave in an honorable manner.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Silver%20Dragon)
 ```encounter-table
 name: Adult Silver Dragon

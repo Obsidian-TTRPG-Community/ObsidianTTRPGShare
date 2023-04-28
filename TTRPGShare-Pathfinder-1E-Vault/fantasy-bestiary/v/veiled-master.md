@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Veiled Master
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -94,7 +96,7 @@ sources:
     desc: 56
 desc_short: This monstrosity has six eyes and six long tentacles-four that end in glowing spheres, and two with what look like hands.
 ```
-# Description
+## Description
 Aboleths are among the oldest of the world’s denizens, creatures that can trace back their presence in the deepest reaches of the world’s oceans to times far before humanity came to dwell upon the globe-or before even most deities turned their attention to this tiny sphere of water and stone. In those ancient times, only elder forces and eldritch entities knew of the world. Even the gods were dismissed and ignored by the aboleth race, for while they were not gods as are known today, aboleths knew themselves capable, given time, of anything the gods could accomplish. And the aboleths have always had time. 
 
 During an ancient era, when aboleths manipulated humanity like puppets, some of their kind disguised themselves to walk among their pets, veiling themselves with magic to appear as humanoids. These were the veiled masters-if one were to foolishly attempt to impose human hierarchies upon this alien race, veiled masters would be considered the nobility among their aboleth kin. In truth, while aboleths do treat veiled masters with utmost respect and defer to their decisions, they are not regarded as the rulers of the race. Stranger and still more dangerous entities rule over veiled masters from the deepest trenches below the sea. 
@@ -104,7 +106,7 @@ Aboleths are undoubtedly skilled at domination and illusion, but veiled masters 
 Today, veiled masters live on. They walk among the humanoid races again, watching and waiting. The time to teach a new lesson draws ever closer. 
 
 The average veiled master measures 14 feet in length and weighs 1,500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Veiled%20Master)
 ```encounter-table
 name: Veiled Master

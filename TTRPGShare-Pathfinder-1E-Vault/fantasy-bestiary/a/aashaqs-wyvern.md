@@ -1,7 +1,9 @@
 ---
+created: 2023-04-28
+name: [Aashaq's Wyvern]
 statblock: inline
-tags: monster
-name: Aashaq's Wyvern
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 42
 desc_short: This light purple dragon has immense wings and a bifurcated tail, each end tipped with a hooked stinger. Heavy smoke drips from the beast’s nostrils and jaws.
 ```
-# Description
+## Description
 Aashaq’s wyverns resemble the typical wyverns commonly found throughout the Inner Sea region in many regards, but they have been warped by magic. Unlike their more mundane cousins, these wyverns have bifurcated tails that allow for two stinging attacks, and are able to emit a noxious blast of gas that burns and blinds those in its path. Aashaq’s wyverns reside in the natural caves that honeycomb the cliffs of Dahak’s Teeth, and were common wyverns until the evil dragon Aashaq commandeered the islands. Seeing these beasts as the perfect deacons for her dark cult, Aashaq twisted the very fabric of the wyverns until she settled upon the form now most commonly encountered on Dahak’s Teeth. Their very name is indicative of the wyverns’ servitor status, and they are occasionally even ridden as mounts by Dahak cultists.
 
 Aashaq gives her wyvern minions a remarkable amount of freedom, but most never stray too far from the three islands that make up Dahak’s Teeth. Mariners who make their way past the dreaded isles know to watch out for the beasts, which assail unprepared ships from both sky and water in order to feed upon their crews and capture their cargo for Aashaq. The corrupting inf luence of Aashaq’s chaotic manipulations has also provided these unpredictable creatures with resistance to acid, fire, and magic.
 
 A typical Aashaq’s wyvern is 18 feet in length (including its bifurcated tail) and weighs 2,500 pounds. Their scales can vary in tint, but are usually purple. Though only slightly more intelligent than their common kin, the Dahak-worshiping wyverns enjoy lording their “superior” status over the lesser specimens found on other islets.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aashaq%27s%20Wyvern)
 ```encounter-table
 name: Aashaq's Wyvern

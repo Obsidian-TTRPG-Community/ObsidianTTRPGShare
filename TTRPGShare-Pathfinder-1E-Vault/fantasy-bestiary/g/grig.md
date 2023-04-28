@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grig
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 147
 desc_short: Perched on the prickly legs of a cricket, this tiny creature has gossamer wings and the upper body of an elven woman.
 ```
-# Description
+## Description
 Grigs are tiny fey with the upper bodies of elf-like sprites and cricket bodies below. Their humanoid features vary wildly in individual appearance, but they usually wear their brown, silver, or green hair long and uncombed. In most cases, grigs’ skin bears gold or green stripes or markings, and their legs are brightly colored. They prefer to eschew clothes entirely, wearing clothing only when such apparel has desirable magical effects. Grigs stand 1-1/2 feet tall, and weigh just under 10 pounds.
 
 Grigs make their homes in thick woods alongside rolling hills, often near bodies of water. In every grig community may be found a clearing where the group observes the moon during its many lunar holidays.
@@ -64,7 +66,7 @@ Grigs make their homes in thick woods alongside rolling hills, often near bodies
 Despite their tiny size, grigs are eager to confront evil and vanquish ugliness-as a result, grigs often find themselves in trouble. They rarely attack directly, instead preferring the element of surprise. In combat, grigs maintain their distance and either depend on their spell-like abilities or fire their longbows from afar. Grigs use their movement to their advantage, frequently jumping about their enemies or flying beyond their reach.
 
 Gigs excel at music, and can create lively ditties simply by sawing their legs against their bodies. Grig music often stirs people to dance, even when the grigs don’t enhance their music with supernatural compulsions. In addition to loving music, grigs enjoy the visual arts, especially paintings and sketches, and they often decorate their homes with bright colors and delightful images.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grig)
 ```encounter-table
 name: Grig

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Witchfire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 84
 desc_short: Bathed in sickly green flames, this insubstantial specter of a beautiful young woman floats just off the ground.
 ```
-# Description
+## Description
 When an exceptionally vile hag or witch dies with some malicious plot left incomplete, or proves too horridly tenacious to succumb to the call of death, the foul energies of these wicked old crones sometimes spawn incorporeal undead known as witchfires. These ghostly creatures appear much as they did in life, although the grotesque undead energy that births them makes them appear young and attractive and wreathes their insubstantial bodies in a powerful aura of sickly green flame, a ghostly fire referred to as “witchflame” in local legends.
 
 Strings of will-o’-wisps are often found in the immediate vicinity of witchfires and are typically led by the undead, leading scholars to speculate that the creatures feed off of a witchfire’s flames 
 
 and fury.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Witchfire)
 ```encounter-table
 name: Witchfire

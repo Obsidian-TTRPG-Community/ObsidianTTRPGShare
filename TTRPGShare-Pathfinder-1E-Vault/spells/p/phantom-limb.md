@@ -1,19 +1,21 @@
 ---
-alias: Phantom Limb
+aliases: [Phantom Limb]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Phantom Limb 
+## Phantom Limb
 
 **source**:: Occult Origins pg. 31  
 **school**:: necromancy
 **level**:: psychic 6, spiritualist 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Phantom Limb
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates a semi-visible psychic manifestation that allows a creature to replace a missing body part or parts. This could be as simple as a missing finger or toe or as complex as one or more limbs or even a set of wings. The creature can use these ghostly appendages exactly as if they were the creature’s own limbs, including any natural attacks or other special abilities. This includes any extraordinary abilities granted by the appendages, but not supernatural ones.  
   

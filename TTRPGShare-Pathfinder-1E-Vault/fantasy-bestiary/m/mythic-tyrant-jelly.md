@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Tyrant Jelly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 266
 desc_short: This amber-colored ooze contains the preserved larva of a giant insect, almost like a monstrous brain.
 ```
-# Description
+## Description
 When an ochre jelly infiltrates a colony of giant bees or wasps and consumes a queen egg, a strange reaction sometimes occurs between the jelly’s fluids and the egg, resulting in a tyrant jelly-an intelligent ooze using an immature insect as a primitive brain. The tyrant jelly has unusual powers over vermin, and quickly takes control of the colony, sending its drones to gather food to sate its unnatural hunger. Other vermin are attracted to the scent of these creatures, and then fall under the tyrant’s sway-a colony often has giant bees, centipedes, spiders, and wasps working together.
 
 A tyrant jelly’s primary interests are food and survival. Magic or telepathy might allow a creature to bargain with it, exchanging food for its cooperation. Some insect cults hunt tyrant jellies, believing their strange substance has properties similar to a giant bee’s royal jelly (Pathfinder RPG Bestiary 2 43) or can increase the intelligence of other vermin.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Tyrant%20Jelly)
 ```encounter-table
 name: Mythic Tyrant Jelly

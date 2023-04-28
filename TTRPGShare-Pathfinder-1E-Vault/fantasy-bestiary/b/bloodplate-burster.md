@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bloodplate Burster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 84
 desc_short: Withered, fleshy leaves the color of dried blood lie like armored plates across the top of this imposing creature’s bulbous form. Thick, serpentine strands run the length of its rigid, fibrous skin.
 ```
-# Description
+## Description
 Fearsome subterranean predators, bloodplate bursters are naturally armored rhizomes that resemble long and tapered ginger roots. A hunting adult’s bulbous back is covered by shingled layers of withered, spade-shaped leaves. Thick sheets of fibrous growth coat its lower body, from which sprout hundreds of pale, finger-width cilia. Vines like the rigging of a ship run from its sightless “head” toward its posterior, and fist-sized stomata peek from leaves and appendages across its form.
 
  Bloodplate bursters are known for their sudden, terrifying appearances. The first sign of a burster is often a pack animal’s panicked cry. The monster’s hissing emergence is usually followed shortly by its target’s viscerally explosive death.
 
  An average adult bloodplate burster is over 6 feet tall and 12 feet long and weighs around 6,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bloodplate%20Burster)
 ```encounter-table
 name: Bloodplate Burster

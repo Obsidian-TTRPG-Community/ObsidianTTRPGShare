@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Green Hag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 167
 desc_short: Knots of dark, moldering hair spill over the features of this sickly, thin, green-skinned crone.
 ```
-# Description
+## Description
 Terrifying crones known to haunt foul swamps and tangled forests, green hags harbor an intense hatred for all beauty and purity. Making use of their varied deceptive abilities, these crones delight in murdering innocents, unhinging noble minds, and debasing the pure of heart. They are particularly fond of using disguise self to assume the forms of alluring young maidens and then seducing young men away from their lovers or families. In this form, they can infect such noble and upstanding citizens with all manner of debauchery and scandal. Some green hags prefer to reveal their true natures to their lovers at a moment precisely engineered to drive the man mad with horror and shame. Others drag out their dalliances and do what they can to utterly ruin the lives of the men they seduce before showing the broken shell that remains the truth. In the end, the luckiest of these unfortunate lovers end up being eaten by their green hag companions-for the unlucky, their final doom can be much worse, for the cruel imagination of the green hag is vast.
 
 A typical green hag stands between 5 and 6 feet tall and weighs just under 160 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Green%20Hag)
 ```encounter-table
 name: Green Hag

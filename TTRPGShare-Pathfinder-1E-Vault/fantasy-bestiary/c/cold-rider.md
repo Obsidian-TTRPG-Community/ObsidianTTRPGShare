@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cold Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 29
 desc_short: Jagged, twisting antlers of dark blue ice crown the helm of this ice-armored humanoid figure.
 ```
-# Description
+## Description
 Cold riders are terrifying armored majesties, clad in cloaks of frost with a pair of large crystal-blue antlers cresting their almost skeletal heads. Their icy armor and weapons are as much a part of them as their frozen flesh. Cold riders delight in perversion, slaughter, and the corruption of other fey. They prefer undead or cold-resistant steeds, but even when they have no access to such, their phantom steed spell-like ability ensures they never go long without a mount.
 
 Cold riders are 7 feet tall, though their antlers easily add another 2 feet to their height. They weigh 300 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cold%20Rider)
 ```encounter-table
 name: Cold Rider

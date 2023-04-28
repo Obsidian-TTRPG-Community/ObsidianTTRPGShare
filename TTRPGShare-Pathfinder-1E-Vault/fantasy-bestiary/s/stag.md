@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,11 +41,11 @@ sources:
     desc: 150
 desc_short: Majestic and graceful, this powerful animal has branching antlers atop it head.
 ```
-# Description
+## Description
 True masters of the wild, deer gracefully glide through meadows and among the thickets of the deepest forests. Found in all climates and most terrains, deer form tightly knit herds for protection. These creatures fall victim to predators, and many humanoids hunt the animals for food and hides. They’re not picky eaters, and consume all manner of plant material. In areas where humanoids live, deer can become pests as they graze in fields and destroy gardens in search of food.
 
 The stat block shown above represents a male deer (a stag). Unlike caribou and other similar animals, female deer only rarely grow antlers, thus they lack gore attacks. Stags are approximately 6 feet long from nose to tail and weigh up to 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stag)
 ```encounter-table
 name: Stag

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Hateful Scourge
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,9 +82,9 @@ sources:
   - name: NPC Codex
     desc: 76
 ```
-# Description
+## Description
 These powerful druids see civilization as a pestilence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Hateful%20Scourge)
 ```encounter-table
 name: NPC Hateful Scourge

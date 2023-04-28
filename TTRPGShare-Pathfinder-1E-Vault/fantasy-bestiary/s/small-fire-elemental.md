@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Small Fire Elemental
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
     desc: 124
 desc_short: This creature looks like a living, mobile bonfire, tongues of flame reaching out in search of things to burn.
 ```
-# Description
+## Description
 Fire elementals are quick, cruel creatures of living flame. They enjoy frightening beings weaker than themselves, and terrorizing any creature they can set on fire.
 
 A fire elemental cannot enter water or any other nonflammable liquid. A body of water is an impassible barrier unless the fire elemental can step or jump over it or the water is covered with a flammable material (such as a layer of oil).
@@ -47,7 +49,7 @@ A fire elemental cannot enter water or any other nonflammable liquid. A body of 
 Fire elementals vary in appearance-they usually manifest as coiling serpentine forms made of smoke and flame, but some fire elementals take on shapes more akin to humans, demons, or other monsters in order to increase the terror of their sudden appearance. Features on a fire elemental’s body are made by darker bits of flame or patches of semi-stable smoke, ash, and cinders.
 
 Elemental Height Weight Small4 ft.1 lb. Medium8 ft.2 lbs. Large16 ft.4 lbs. Huge32 ft.8 lbs. Greater36 ft.10 lbs. Elder40 ft.12 lbs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Small%20Fire%20Elemental)
 ```encounter-table
 name: Small Fire Elemental

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Heretic
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
   - name: NPC Codex
     desc: 247
 ```
-# Description
+## Description
 The heretic seeks to convert the faithful away from a church that blinds them with lies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Heretic)
 ```encounter-table
 name: NPC Heretic

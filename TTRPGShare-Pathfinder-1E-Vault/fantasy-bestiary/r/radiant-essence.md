@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Radiant Essence
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 90
 desc_short: Shimmering knots whirl and twist around a shining nucleus in this mound of golden-yellow slime.
 ```
-# Description
+## Description
 When a particularly powerful good-aligned outsider gives its life defending a holy location on the Material Plane, remnants of its pure spirit can be weighted down with worldly matter. Most good-aligned outsiders never contribute to a radiant essence, as their holy energy is drawn back to the good Outer Planes in death, but the most righteous and powerful among them might leave behind a bit of their zealous spirit that hungers to continue its crusade against evil. When the remnants of several such outsiders pool and coalesce into a combination of spiritual residue and holy energy, an energetic, shimmering sludge called a radiant essence emerges. Unintelligent but driven to destroy evil, radiant essences are an enigmatic force for goodness. Some servants of benevolent deities actively collect radiant essences from the Material Plane, using their protomatter in the creation of powerful celestial champions; but others allow these oozes to stay on the Material Plane as protectors of sacred areas. Alchemist-priests have long sought formulae to recreate these oozes but cannot replicate the process of their creation; devout scholars posit that the will of the divine prevents mortal creation of such holy matter.
 
  Like many oozes, radiant essences are comprised primarily of caustic matter, but this substance is infused with holy energy that causes them to shine with a soft, glowing light. Radiant essences sense their environment by vibration and air pressure, supplemented by their instinctive knowledge of whether nearby creatures are fundamentally wicked.
 
  A radiant essence is normally 8 feet in diameter and between 8 and 12 inches thick. It weighs approximately 1-1/2 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Radiant%20Essence)
 ```encounter-table
 name: Radiant Essence

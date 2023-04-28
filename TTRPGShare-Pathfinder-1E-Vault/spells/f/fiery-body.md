@@ -1,25 +1,27 @@
 ---
-alias: Fiery Body
+aliases: [Fiery Body]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Fiery Body 
+## Fiery Body
 
 **source**:: Advanced Player's Guide pg. 221  
 **school**:: transmutation (fire)
 **level**:: arcanist 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 This spell transforms your body into living flame. You and your equipment are immune to fire damage. In fact, every time you would normally take damage from fire, you are instead healed of damage at a rate of 1 point per 3 points of damage the fire attack would have normally inflicted. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells that affect your physiology or respiration. You take only half damage from acid or electricity. You take 150% as much damage from cold than normal.  
   

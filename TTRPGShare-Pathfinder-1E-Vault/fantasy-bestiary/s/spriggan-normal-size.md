@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spriggan (Normal Size)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 257
 desc_short: Flecks of saliva drip from the corners of this filthy and ill-smelling humanoid, and his large pointed ears twitch at every sound.
 ```
-# Description
+## Description
 When the gnomes first traveled to the mortal realm from the distant land of the fey, some found the Material Plane so strange and terrifying that they lost their sense of joy. Seeing only the threats of the new world but none of its wonders, they grimly resolved to survive no matter the cost. Their innate magic responded to this twisted goal by reshaping them in mind and body over the course of many generations, transforming them into the creatures known as spriggans. Love, happiness, and beauty have no meaning for these poor souls, so they lead lives of violence and malice. The best they can manage in place of positive emotions is a muted satisfaction when they make another suffer.
 
 Spriggans resemble ugly gnomes with an alien, feral appearance. Many are gaunt and haggard. When magically enlarged, they look the same except much more hale and muscular.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spriggan%20(Normal%20Size))
 ```encounter-table
 name: Spriggan (Normal Size)

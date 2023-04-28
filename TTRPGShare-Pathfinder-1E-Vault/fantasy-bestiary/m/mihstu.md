@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mihstu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 190
 desc_short: A miasmal form roils as barbed tentacles emerge from the central mass, coalescing into razor-sharp talons and claws.
 ```
-# Description
+## Description
 The deadly mihstus hail from the Plane of Air. When they come to the Material Plane, they prefer to inhabit dank dungeon corridors, abandoned ruins, and the forgotten corridors of lost civilizations. Scholars dispute what drives the ambitions of these creatures, or even what they seek on the Material Plane, but all agree that they are deadly combatants and merciless hunters. Their semi-solid bodies appear to be composed of a strange, white smoke, and they can shape their vaporous bodies at will to seep through small cracks and openings in pursuit of prey. When attacking, they coalesce the tips of their misty tentacles into wickedly barbed talons, slashing at opponents with these razor-sharp appendages. Mihstus rely on their insubstantial nature to close with opponents quickly, engulfing the nearest threat while continuing to attack any who seek to deprive them of their chosen victim. When a mihstu manages to embrace a foe with its body, it drains away the creature’s vital fluids at an alarming rate. These fluids churn in the creature’s body for a few rounds before spattering against nearby walls or on the floor-the mihstu seems to gain no nourishment from these fluids, so this attack may be nothing more than a favorite method of cruelty.
 
 Mihstus are immortal unless slain by violence, and if properly bargained with, these deadly outsiders can actually be intriguing sources of information. Mihstus are normally interested in little more than stalking and consuming prey, and as a result only tend to provide reliable information or cooperate when supplied with intriguing victims to pursue and destroy. Nefarious creatures such as rakshasas and evil cloud giants often utilize mihstus as trackers and assassins, or sometimes employ them as guards in the forgotten corridors of their lairs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mihstu)
 ```encounter-table
 name: Mihstu

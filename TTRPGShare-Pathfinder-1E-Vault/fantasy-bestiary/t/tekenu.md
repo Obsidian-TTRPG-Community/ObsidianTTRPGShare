@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tekenu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 90
 desc_short: A collection of cast-off organs rolls and squeezes against itself, forming a writhing mass of viscera that hovers in the air.
 ```
-# Description
+## Description
 Guardians of long-abandoned tombs, tekenu are the result of a vile practice that instills the discarded piles of flesh left over from the mummification process with an unholy awareness. Separated from the sacred organs placed in canopic jars, tekenus attempt to reconnect with their counterparts among the living by killing creatures so that they can absorb intestines, livers, lungs, and stomachs into their squirming forms-a process that grants the undead creature additional powers.
 
 Tekenus have been known to hide inside canopic jars collected from excavations (cleverly pulling the lid closed), attacking passersby like a trapdoor spider. Adventurers searching through lost reliquaries and tombs of ancient Osirion commonly call these foul creatures “gutswarms”; however, the name scholars give them is derived from an ancient Osirian term for the cast off remains of mummification rituals. A tekenu has an ever-changing form roughly 3 feet long and 2 feet wide, essentially the size of a robust humanoid’s torso and abdomen. The mass weighs about 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tekenu)
 ```encounter-table
 name: Tekenu

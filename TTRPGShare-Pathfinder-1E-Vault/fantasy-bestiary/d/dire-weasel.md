@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Weasel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 275
 desc_short: This bear-sized predator is long and low-slung. Its soft fur and intelligent expression contrast with its glistening fangs.
 ```
-# Description
+## Description
 Common in a variety of environments and climates, dire weasels are larger relatives of normal weasels. They’re relentless predators known for their fearless nature and killing frenzies, and are dangerous to farmsteads and settlements-they not only prey on cattle and horses, but also target humanoids. Those that do often become obsessed with the taste of that flesh and hunt such prey exclusively.
 
 Sometimes, dire weasels are trained to be mounts by evil humanoids- usually by bugbears or hobgoblins.
 
 Measuring 12 feet long, a dire weasel stands 4 feet tall at the shoulder and weighs around 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Weasel)
 ```encounter-table
 name: Dire Weasel

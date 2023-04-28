@@ -1,19 +1,21 @@
 ---
-alias: Creeping Ice
+aliases: [Creeping Ice]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Creeping Ice 
+## Creeping Ice
 
 **source**:: Advanced Class Guide pg. 178  
 **school**:: evocation (cold)
 **level**:: arcanist 4, druid 4, hunter 4, sorcerer 4, summoner 3, summoner (unchained) 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: anchored plane of ice, up to one 10-ft. square/level  
@@ -21,7 +23,7 @@ alias: Creeping Ice
 **saving-throw**:: Reflex negates (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell covers the floor, the ground, or some other calm horizontal surface (such as a placid lake or a gentle river) with a sheet of slowly growing ice. The initial sheet of ice cannot form in an area occupied by physical objects or creatures. Its surface must be smooth and unbroken when created. The ice is hard, strong, and opaque, and is 1 inch thick per caster level. The ice is strong enough to support the weight of a typical horse, making it possible for creatures to cross a body of water.  
   

@@ -1,19 +1,21 @@
 ---
-alias: Root
+aliases: [Root]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Root 
+## Root
 
 **source**:: Paizo Blog - Ultimate Cantrips pg. 0  
 **school**:: transmutation (earth)
 **level**:: arcanist 0, sorcerer 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a pinch of dirt)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -21,7 +23,7 @@ alias: Root
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell strengthens the subject’s connection to the ground below, bolstering its defense against combat maneuvers. It gains a +2 insight bonus to its CMD to resist being moved or tripped and a +2 competence bonus on all Acrobatics checks made to balance or remain standing on earth, sand, stone, or a similar rocky substance.  
   

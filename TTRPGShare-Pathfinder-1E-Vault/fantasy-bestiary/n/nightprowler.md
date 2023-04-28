@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightprowler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 90
 desc_short: This bulky predator’s feline form is cloaked in shadows, save for its red eyes, which glow with a baleful hatred.
 ```
-# Description
+## Description
 Only a fool would underestimate the danger presented by the hateful nightprowler, despite its position as the least powerful of the undead monsters collectively known as nightshades. The bestial nightprowler is a fearsome opponent armed with the same cruel and calculating intelligence possessed by all nightshades.
 
 Nightprowlers are feline quadrupeds that seem to be composed of living shadow. Their eyes, like the eyes of all nightshades, glow with red light. A nightprowler is 16 feet long from head to tail and weighs 8,000 pounds. Nightprowlers have all the nightshade traits found on page 308 of Pathfinder RPG Bestiary 2, except that they have darksense out to only 30 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightprowler)
 ```encounter-table
 name: Nightprowler

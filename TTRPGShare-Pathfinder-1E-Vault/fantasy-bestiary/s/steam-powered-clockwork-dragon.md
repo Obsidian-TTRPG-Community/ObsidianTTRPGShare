@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Steam-Powered Clockwork Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 62
 desc_short: Puffs of steam, quiet hissing, and a whirring of gears accompany this massive metal dragon.
 ```
-# Description
+## Description
 Though some scholars may argue about who exactly created the first steam-powered clockwork, the secret of their manufacture is now out. Savvy engineers have started to create faster and more powerful clockwork contraptions in the form of marvels blending arcane heat sources with large boilers to create pressured steam that powers the complex constructs.
 
  The steam-powered clockwork dragon presented here is built using the clockwork dragon. See that entry for full descriptions of its base abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Steam-Powered%20Clockwork%20Dragon)
 ```encounter-table
 name: Steam-Powered Clockwork Dragon

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,11 +78,11 @@ sources:
     desc: 113
 desc_short: The dry rasping of spidery legs brings this hideous monstrosity into view-a nightmarish, centaurian fusion of drow and spider.
 ```
-# Description
+## Description
 Created from the body of a drow, warped and mutated through special poisons and elixirs to take on the characteristics of a giant spider, the drider is a dangerous creature.
 
 Driders are sexually dimorphic. A female drider’s lower spider body is sleek and graceful, often similar to a black widow’s body, while its upper drow torso retains its alluring curves and beautiful face (with the exception of sharp, poisonous fangs). A male drider’s lower body is bulky like a tarantula, while its upper body is wiry and bears a hideous face more spider than drow, complete with fanged mandibles.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drider)
 ```encounter-table
 name: Drider

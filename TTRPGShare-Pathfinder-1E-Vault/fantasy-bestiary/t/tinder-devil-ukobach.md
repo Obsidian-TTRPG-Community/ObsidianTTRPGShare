@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tinder Devil (Ukobach)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 86
 desc_short: The light of a flaming pitchfork illuminates a creepily malformed little man, his red skin scarred and raw like the victim of horrific burns. Although barely taller than a child, his features mock those of a terrible old man with an oversized head, knife-like nose, and crazed round eyes flickering with wild flames.
 ```
-# Description
+## Description
 Maniacal and clever, ukobachs embody the tenacity and ever advancing genius of Hell. Legions of these tiny devils labor throughout the it, and from their efforts rise new heresies and tools of depravity. They revel in the fires of Hell and manipulate them not toward destruction, but to the creation of ever greater and more innovative diabolical ends. The keepers of Hell’s furnaces, they delight in their mad work, breaking only to torment the damned with their burning tools or newest inventions.
 
 Ukobachs stand approximately 3-1/2 feet tall and weigh 70 pounds on average. Their fire pokers are fundamentally tied to their beings and disintegrate in a flash of cinders and ash upon the devil’s death. These tools hold up to 10 fistsized embers, which an ukobach can fling at its enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tinder%20Devil%20(Ukobach))
 ```encounter-table
 name: Tinder Devil (Ukobach)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Crystal Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 98
 desc_short: This brilliantly colored dragon has scales, teeth, and claws made of multicolored crystal, and its wings are sheets of flexible glass. 
 ```
-# Description
+## Description
 Crystal dragons are generally good-natured, though their incredible vanity sometimes causes them to seem aloof and cocky. Any perceived insult against its appearance is all but assured to send a crystal dragon into a rage-which is a problem, as most crystal dragons are prone to seeing insults even where none are intended. Crystal dragons prefer underground lairs, and often go for decades or even centuries without emerging from their extensive cavern lairs onto the surface world above. 
 
 Crystal dragons tend to be exacting and even obsessive-compulsive, their personalities mirroring the precise and ordered nature of the facets of their scales. A crystal dragon’s lair is a well-ordered place-these dragons find the very idea of the classic sprawl of a dragon’s hoard to be shameful.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Crystal%20Dragon)
 ```encounter-table
 name: Young Crystal Dragon

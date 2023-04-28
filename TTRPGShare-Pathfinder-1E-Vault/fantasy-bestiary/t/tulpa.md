@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tulpa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 254
 desc_short: A gray-skinned humanoid with oddly unremarkable features f loats ponderously in mid-air.
 ```
-# Description
+## Description
 Tulpas are constructed of ideas and imagination. Beings of pure thought (some theorize that they are made of the same mysterious substance as the Astral Plane), tulpas are made physical by a powerful mind that is either psychically attuned or has some amount of latent psychic power.
 
  The exact process that creates a tulpa is not well understood. Sometimes such beings come about after years of practice and meditation followed by an occult ritual. Other times they seem to appear spontaneously, often after their creators suffer traumatic experiences. More often than not, in these latter cases, the creators are children. Such a child witnesses something horrific or far too strange for her nascent imagination to comprehend, and ends up creating an imaginary friend to help her sort through the event and protect her from other potential dangers. While most of these imaginary friends are nothing more than figments of her mind, every so often they manifest as tulpas. Some such tulpas are noble creatures that protect the child who created them, but just as many are malicious entities that subtly torment the child or lead her astray.
 
  While a tulpa is a creature of thought created by the imagination of another being, it has a will and a mind of its own. This often leads to conf lict between a tulpa and its creator. In order to protect itself from banishment or worse, a tulpa often attempts to compel others to think and concentrate on its existence. This allows the tulpa to create havens of other “creators” in case its original creator forgets about the tulpa or becomes incapacitated. Nonetheless, even a sadistic tulpa or a tulpa with an actively belligerent creator must protect its creator’s life in order to preserve its own existence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tulpa)
 ```encounter-table
 name: Tulpa

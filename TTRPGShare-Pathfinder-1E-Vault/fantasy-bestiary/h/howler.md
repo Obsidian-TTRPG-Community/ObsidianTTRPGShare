@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Howler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 159
 desc_short: This vile predator has a hide as thick and tough as leather. Wicked ebony quills run from its head, tail, and back.
 ```
-# Description
+## Description
 The howler is a native to the Abyss, an Outer Plane where madness is the norm and cruelty is expected and often rewarded. The howler prowls these Abyssal realms, serving the role of a hungry predator like a lion or tiger, save for the fact that the typical howler is much more intelligent than a big cat. Worse, howlers have little interest in eating their prey-they need not feed to live, but rather enjoy the process of stalking, mauling, and killing living creatures. In a way, the act of inflicting intense pain and madness upon mortal life is what fills a howler’s life instead of the desire to feed.
 
 The howler’s mane of razor-sharp quills makes it a poor choice of mount for most creatures, but it serves quite well as a guardian or sentinel-especially for outsiders, who may not enjoy the creature’s constant howling, but aren’t adversely affected by the supernatural sounds. When a howler sees prey, the tenor of its howls changes-howlers cannot speak, but they can use their howls to communicate quite a bit of information if required. They understand the Abyssal tongue, and when serving demons as guardians, their howls can not only alert their masters to the presence of intruders, but also to their number, appearance, and weaknesses.
 
 A howler is about the size of a tiger-12 feet from snout to tail and weighing 6,000 pounds. They are normally pale in color, with darker quills and milky eyes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Howler)
 ```encounter-table
 name: Howler

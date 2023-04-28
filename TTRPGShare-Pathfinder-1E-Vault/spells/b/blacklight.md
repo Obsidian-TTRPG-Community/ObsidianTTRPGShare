@@ -1,19 +1,21 @@
 ---
-alias: Blacklight
+aliases: [Blacklight]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Blacklight 
+## Blacklight
 
 **source**:: Pathfinder Campaign Setting pg. 206  
 **school**:: evocation (darkness)
 **level**:: arcanist 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: 20-ft.-radius emanation  
@@ -21,7 +23,7 @@ alias: Blacklight
 **saving-throw**:: Will negates or none (object)
 **spell-resistance**:: yes or no (object)
 
-### Description 
+### Description
 
 You create an area of total darkness. The darkness is impenetrable even to darkvision, but you can see normally within it. Creatures outside the spell’s area, even you, cannot see through it.  
   

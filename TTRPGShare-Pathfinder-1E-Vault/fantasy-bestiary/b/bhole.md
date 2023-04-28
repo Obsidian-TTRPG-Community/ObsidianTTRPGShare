@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bhole
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,13 +57,13 @@ sources:
     desc: 84
 desc_short: This titanic worm heaves its endless bulk into the air, raising one end as if ready to strike with a massive set of hooked jaws.
 ```
-# Description
+## Description
 Known on some worlds as dholes, bholes are among the largest of living creatures, wormlike leviathans of such size that few can claim to have seen one wholly from head to tail, and those who do suffer from madness or other aff lictions that cause others to doubt these tales. The coloration of these creature ranges widely, from dark blues and purples to pale grays, yellows, or white. A bhole’s cavernous mouth consists of long, bony jaws that extend and unfold from the creature’s head when it feeds.
 
 Bholes are incredibly long-lived-those that exist in remote worlds or in other dimensions have done so for countless eons. The bholes themselves seem to have no interest in their history, perhaps as a result of their limited intellect, but they can live forever, barring death by violence.
 
 Regions inhabited by bholes are always wastelands. Bholes seem able to eat and digest anything and everything, and in time can reduce a huge area to just a honeycombed network of immense tunnels. These regions swiftly collapse in on themselves, leaving rubblefilled pits of terrifying size.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bhole)
 ```encounter-table
 name: Bhole

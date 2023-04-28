@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orsatka
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 252
 desc_short: This hulking bear-headed fiend has a mouth full of fangs and clawed, six-fingered hands with too many knuckles.
 ```
-# Description
+## Description
 Often called “fiend killers” by those acquainted with their bruising ways, orsatkas are among the least subtle of rakshasas. Orsatkas arise from those who committed acts of senseless brutality on a massive scale. They are cruelty and brute force incarnate; instead of having incredible spellcasting power, orsatkas have the capability to inflict devastating damage. Rakshasas’ typical affinity for magic manifests in orsatkas as an uncanny way of sniffing out their enemies, regardless of the abjurations and illusions those foes might use to protect themselves. When not disguised, orsatkas resemble huge, muscle-bound humans with bearlike heads, which sometimes boast thick, red-tinted fur.
 
  Orsatkas are about 7 feet tall and weigh around 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orsatka)
 ```encounter-table
 name: Orsatka

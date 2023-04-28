@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wrackworm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,7 +67,7 @@ sources:
     desc: 250
 desc_short: This immense, wormlike creature piles its coils upon itself, exposing four scythe-shaped claws and a massive fanged mouth.
 ```
-# Description
+## Description
 Wrackworms are a parasitic blight upon the planes that glut on the flesh of Rovagug, the imprisoned god of destruction, and their all-consuming hunger grows with every nibble of the Rough Beast’s tainted essence. Rovagug himself is not harmed by the wrackworms gnawing on his flanks, but now and then, the chewing grows irritating enough that the Rough Beast gives a mighty shudder that hurls the wrackworms aside, whereupon their massive jaws reflexively gnaw holes into the underlying reality of the Dead Vault, allowing the immense monsters to burrow into other planes and spread far and wide throughout the Great Beyond. No wrackworm ever returns to the Dead Vault once it burrows out of it, and their violent emergence from the prison demiplane does not seem to undermine that reality’s function as a prison, but many worry that, in time, the constant burrowing exit of the wrackworms may damage the Dead Vault enough that Rovagug himself may be able to finally escape.
 
  Each wrackworm is a towering hulk of segmented plates, an earthworm grown to titanic size. Its eyeless head is almost all mouth, with a gigantic maw filled with needle teeth. From its sides spring four long, chitinous limbs, each tipped with a razor-sharp scythe of hardened bone. At the caudal end of the worm is a long stinger like that of a scorpion, dripping with a flesh-ravaging toxin. Despite its bulk and sluggishness, a wrackworm moves with great swiftness when it wants to, darting forward to sink its fangs into a fleeing morsel or bothersome archer.
@@ -77,7 +79,7 @@ Wrackworms are a parasitic blight upon the planes that glut on the flesh of Rova
  Some planar scholars claim to see a pattern in the wrackworms’ boring of the planes. The treatises of these fanatical scholars posit that the worms are gnawing in precise patterns as part of a qlippoth plot to unmake the very fabric of the planes, unweaving all of reality to finish what the Rough Beast cannot as long as he remains trapped within the Dead Vault. Wrackworm infestations are also reputed to exist in the deepest parts of the Abyss, in a realm known as the Spiral Path, raising questions about a link to the demon lord Yhidothrus-himself a mighty wormlike beast.
 
  A wrackworm is 80 feet long when fully uncoiled and weighs 30,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wrackworm)
 ```encounter-table
 name: Wrackworm

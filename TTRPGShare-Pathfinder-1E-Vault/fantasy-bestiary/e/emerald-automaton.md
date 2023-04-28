@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Emerald Automaton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 154
 desc_short: An eerie green glow shines through the seams of this mechanical creature’s armor.
 ```
-# Description
+## Description
 Like other constructs, an emerald automaton is a mindless, unliving machine that exists only to follow the orders of its creator. It is a capable soldier and can wield almost any weapon its creator chooses to provide it, fighting until it or its target is destroyed.
 
 In combat, emerald automatons often wield polearms and make use of their reach. When multiple automatons are fighting together, it’s common for one to sunder a target’s shield or weapon and the rest to gang up against the target. Getting inside the reach of an emerald automaton is no guarantee of safety-the constructs are quite strong, and can strike with a powerful slam attack at need. When badly damaged, an emerald automaton begins to emit crackling green sparks of electricity that can severely shock nearby creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Emerald%20Automaton)
 ```encounter-table
 name: Emerald Automaton

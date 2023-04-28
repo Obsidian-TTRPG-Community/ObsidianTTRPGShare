@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cynosphinx
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 84
 desc_short: A jackal’s head draped in a tattered headdress extends from a winged, leonine body.
 ```
-# Description
+## Description
 Cynosphinxes are hoarders of secret knowledge and guardians of abandoned ruins. Those who intrude upon the realm of a cynosphinx and fail to offer a tribute of secret knowledge provoke the beast to savage anger. Whereas androsphinxes barter information for the sake of achieving enlightenment, cynosphinxes strive to learn secrets to gain power over others. Often, a cynosphinx enters a parley hoping to secretly learn clandestine information with its ability to read its target’s thoughts, steering the conversation toward such topics with leading questions. Quick to anger, the cynosphinx kills those it feels are inferior, knowing that it still has the opportunity to converse with the trespasser after its death. If the knowledge it seeks is relayed during clever, amusing conversation, the sphinx rewards the provider with invaluable clues to a desired object or location, or simply safe passage through its territory, though the cynosphinx rarely shares any of its own secrets willingly. A cynosphinx stands 12 feet tall at its powerful shoulders. Built of muscular flesh and sinew, a cynosphinx weighs roughly 1,200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cynosphinx)
 ```encounter-table
 name: Cynosphinx

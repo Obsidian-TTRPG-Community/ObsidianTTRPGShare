@@ -1,19 +1,21 @@
 ---
-alias: Hallucinatory Decor
+aliases: [Hallucinatory Decor]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hallucinatory Decor 
+## Hallucinatory Decor
 
 **source**:: Disciple's Doctrine pg. 19  
 **school**:: illusion (glamer)
 **level**:: arcanist 3, bard 3, mesmerist 3, psychic 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: one 10-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Hallucinatory Decor
 **saving-throw**:: Will disbelief (if interacted with)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You transform the decor of a courtyard, structure, or other edifice to meet your highest standards and personal tastes. Objects and architectural elements remain in the same configuration-a chair remains a chair-but can look, sound, and smell like a different physical material and artistic style. You cannot change the appearance of natural terrain, but landscaped areas such as a garden or orchard can be affected. This spell functions in all other ways as *hallucinatory terrain*.  
   

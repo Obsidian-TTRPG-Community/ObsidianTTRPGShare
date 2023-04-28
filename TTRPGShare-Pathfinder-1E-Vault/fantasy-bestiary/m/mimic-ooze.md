@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mimic Ooze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 90
 desc_short: The body of this humanoid-shaped ooze is composed of an oily, black liquid. Its body ripples as it moves, and tendrils of hair flow around its expressionless face.
 ```
-# Description
+## Description
 Mimic oozes consist of deep-black liquid that has taken on a humanoid form. The liquid dissolves organic matter rapidly, which can pose a serious threat to any creatures that come into contact with it.
 
  Not only can these mimic oozes learn the behavior of other creatures, but they can even imitate it as well. If a mimic ooze comes into contact with a creature physically, it envelops and consumes that victim, leaving behind nothing but a clean skeleton and any durable gear that the creature was carrying. As a mimic ooze absorbs a victim, it takes on some echoes of its mannerisms and thoughts as well as the target’s outward features, which contribute to the ooze’s primitive, chaotic mind. These jumbled shadows of thought fall second to the impulse that mimic oozes have to devour sentient humanoids.
 
  Mimic oozes either stalk creatures they notice nearby, waiting for a chance to close the distance between them, or lie in wait for their prey to come near. Once a mimic ooze has enshrouded a creature, it doesn’t release its victim unless forced to do so. It’s rumored that more advanced mimic oozes have been able to form more coherent minds, though these are still alien in their function and purpose.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mimic%20Ooze)
 ```encounter-table
 name: Mimic Ooze

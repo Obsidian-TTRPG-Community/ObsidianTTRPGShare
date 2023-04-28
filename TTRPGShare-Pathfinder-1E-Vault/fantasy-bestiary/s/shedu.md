@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shedu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 2543
 desc_short: This noble creature stands strong and tall with the body of a powerful bull and the head of a wise-looking human.
 ```
-# Description
+## Description
 Shedus live far from the hustle and bustle of humanity in harsh deserts. There they populate caves, ruins, or ancient temples reclaimed from the shifting sands. In these places of refuge, shedus contemplate the struggle between good and evil throughout the universe. Tireless vehicles of good and kindness, shedus fight against outsiders who corrupt and threaten humanity. Skilled in healing, shedus focus on eliminating plagues, even hunting down outsiders and undead working in that destructive medium.
 
 Shedus rarely make their homes near each other. This is not out of any sort of animosity, but rather from a feeling that having two or more shedus within close proximity wastes the opportunity to provide aid to a larger region. When a shedu roams through the lands of another, it always seeks out the local shedu for an opportunity to talk and share knowledge over the course of 3 days. After this period, the visiting shedu departs with a new perspective and more points to ponder in its eternal struggle against the evils of the world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shedu)
 ```encounter-table
 name: Shedu

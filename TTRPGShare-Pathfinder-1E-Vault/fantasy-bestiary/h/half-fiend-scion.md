@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Half-Fiend Scion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
     desc: 63
 desc_short: The scent of death pours from this disheveled woman. Leather straps dotted with iron buckles bind her lean form.
 ```
-# Description
+## Description
 Urdefhans never forget who created them, and they spend their lives awaiting the day they will be destroyed and returned to Abaddon for an eternity of torment. Their frequent interactions with daemons occasionally spawns reality-warping half-blood children who rise to positions of great power in urdefhan society-if they manage to survive.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Half-Fiend%20Scion)
 ```encounter-table
 name: Half-Fiend Scion

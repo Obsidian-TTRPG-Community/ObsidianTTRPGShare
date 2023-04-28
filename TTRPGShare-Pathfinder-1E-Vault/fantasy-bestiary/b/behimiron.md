@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Behimiron
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 224
 desc_short: This monstrous fiend resembles a titan beetle with a sagging, elephantine hide stretched over its spiny carapace.
 ```
-# Description
+## Description
 Behimirons are unholy creatures born from the corruption of death itself. In a profane parody of natural birth, they slay living beings in order to use the corpses as incubators for their insectoid spawn. As with all qlippoth, behimirons are concerned more with the demons infesting the Abyss than with mortal life, and prefer butchering demons to serve as hosts for their spawn. 
 
 A behimiron’s body measures 15 feet across, or 20 feet with trunk and antennae, and it weighs over 6 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Behimiron)
 ```encounter-table
 name: Behimiron

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Magaambya Arcanist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 35
 ```
-# Description
+## Description
 The scholars of the ancient Mwangi magic academy known as the Magaambya follow an ancient tradition that dates back to the Age of Destiny. In the jungles of central Garund, Old-Mage Jatembe and his Ten Magic Warriors brought civilization back to the Inner Sea, pulling humanity out of the Age of Darkness. Believing powers of arcane magic should be employed for the betterment of the world, Jatembe and his acolytes founded the Magaambya to teach others the secrets he learned.
 
 Millennia later, the righteous wizards, sorcerers, bards, magi, and witches who study at Garund’s premier magical institution blend the careful study of ancient, eldritch secrets with the raw force of nature, often adopting spells used by druids to combat evil. The Magaambya doesn’t require its students to be good, but does expel those they discover to be evil. They take in scholars from throughout the Inner Sea in hopes of sharing their light and knowledge with the rest of the world. Through careful study and the practice of honored traditions, they believe, the study of magic will promote goodwill in the students and will help arcanists achieve a sense of enlightenment.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Magaambya%20Arcanist)
 ```encounter-table
 name: NPC Magaambya Arcanist

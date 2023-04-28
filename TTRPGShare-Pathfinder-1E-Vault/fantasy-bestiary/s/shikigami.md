@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shikigami
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 163
 desc_short: This tiny, crudely carved statue of a robed man has glowing runes running across its surface.
 ```
-# Description
+## Description
 Shikigami are the least of the kami, yet they make up for their lowly status with their loyalty and bravery. Unlike most other well-known types of kami, shikigami are more often associated with rural and urban regions than with natural settings. These kami are the protectors of the minor works of civilization-things like milestones, waymarkers, tiny garden statues, and other relatively mundane works of art crafted by humanoid hands.
 
 No two shikigami look exactly alike, as befits a race of kami that associates with such a wide range of wards. While all shikigami have the ability to merge with their wards, these kami are also fond of spending time in their physical forms, watching over their wards either invisibly or in the form of a tiny statue. In combat, a shikigami fights with whatever objects it finds at hand. Although relatively weak, these improvised weapons have an uncanny knack for hitting harder than they should.
@@ -69,7 +71,7 @@ No two shikigami look exactly alike, as befits a race of kami that associates wi
 Shikigami are as friendly and curious as other kami, but they are quick to leave an area they see as being polluted by ideals that disrupt the virtues of nature. When they do, they generally take their wards with them. They do not engage humanoids who desecrate the environment, but their absence leaves a profound mark on the morale of perceptive villagers. Should the shikigami leave, town officials who know the function of the miniature kami are quick to change policies in their community to reflect a more naturalistic approach, hoping to rekindle the relationship between shikigami and people, lest the community fall into the disfavor of more powerful and less passive kami.
 
 Shikigami typically stand 2 feet tall and weigh 30 pounds, or 50 pounds when taking their statue forms. A spellcaster must have the Improved Familiar feat, an alignment of lawful neutral, and an arcane caster level of 7th or higher to gain a shikigami familiar. Whenever a shikigami becomes a familiar, it treats its master as its ward.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shikigami)
 ```encounter-table
 name: Shikigami

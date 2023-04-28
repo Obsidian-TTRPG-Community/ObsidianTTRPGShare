@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Korada
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,7 +76,7 @@ sources:
     desc: 90
 desc_short: This serene, acrobatic man has stiff sideburns, a beard like a monkey, and three golden-furred tails.
 ```
-# Description
+## Description
 Korada is the champion of peace, kindness, and forgiveness. While he loves and respects his fellow empyreal lords for their tireless fight against wickedness, Korada believes good’s final triumph will come from the redemption of evil creatures rather than their destruction. Honest, joyful, and clever, the Open Hand of Harmony dispenses wisdom with warmth and humility, and freely shares the secrets he has amassed over ages of study and meditation. Korada’s dedication to philosophy and introspection have garnered him the ability to read the diverse threads of the world, see their nearly limitless connections, and then act on them with uncanny foresight. With neither the naïvety of youth nor the jaded weariness of age, Korada is a perfect balance of sentient intelligence and animal instinct, at home wherever he is.
 
 Though he can assume many forms, Korada’s true appearance is a slender, athletic man wearing a simple monk’s robe. He has a golden monkey-like beard and sideburns, three monkey tails, and a light layer of downy golden fur covering the rest of his body.
@@ -90,7 +92,7 @@ Korada’s reputation for peace and martial skill earned him the role of the dip
 Although Korada is usually serene and gentle, he has a mischievous side and has been known to poke fun at or harass his opponents like a capricious monkey. He combines his skill in battle and gift for trickery to lead dangerous opponents away from innocents or into places where they can more easily be captured or subdued.
 
 That said, Korada abhors violence, and he prefers to make nonlethal attacks (using his primal aura and tranquil master abilities), disabling foes so he can speak to them of their weakness. He dispatches mindless opponents without hesitation, not wanting to waste energy debating or persuading a thing empty of thoughts and incapable of making moral choices. He challenges enemy leaders to single combat if doing so would prevent violence between other combatants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Korada)
 ```encounter-table
 name: Korada

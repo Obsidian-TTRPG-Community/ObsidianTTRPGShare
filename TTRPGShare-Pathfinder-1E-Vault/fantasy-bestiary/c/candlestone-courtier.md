@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Candlestone Courtier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,9 +62,9 @@ sources:
     desc: 52
 desc_short: This willowy, lavender-skinned stranger looks like he is dressed for an extravagant ball, and carries himself with a dancer’s grace.
 ```
-# Description
+## Description
 Candlestone courtiers are emissaries of Queen Frilogarma and the Court of Ether. Venturing up from their Darklands domain, they make deals to the benefit of their queen, forge secret alliances with citizens of foreign lands, and inveigle mortals into endless revels in the inverted fey city while sapping the vitality of their victims to sate their alien appetites. Candlestone courtiers prefer to employ trickery and extortion over direct violence, but don’t shy away from a fight if it is the fastest way to get what they want.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Candlestone%20Courtier)
 ```encounter-table
 name: Candlestone Courtier

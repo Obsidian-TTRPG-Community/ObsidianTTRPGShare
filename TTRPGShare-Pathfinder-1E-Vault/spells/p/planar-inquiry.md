@@ -1,19 +1,21 @@
 ---
-alias: Planar Inquiry
+aliases: [Planar Inquiry]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Planar Inquiry 
+## Planar Inquiry
 
 **source**:: Adventurer's Guide pg. 125, Arcane Anthology pg. 14  
 **school**:: conjuration (calling)
 **level**:: arcanist 3, cleric 3, druid 3, hunter 3, inquisitor 3, oracle 3, shaman 3, sorcerer 3, summoner 3, summoner (unchained) 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (offerings worth 100 gp per HD of the creature called)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one called outsiders who ansswers questions  
@@ -21,7 +23,7 @@ alias: Planar Inquiry
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Although he was hardly the first to turn to the Outer Planes for answers, Jatembe’s dealings with outsiders in his pursuit of enlightenment are legendary, and the Magaambya credits the Old-Mage with the creation of this spell.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Mercenary (Bounty Hunter)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
   - name: GameMastery Guide
     desc: 283
 ```
-# Description
+## Description
 Bounty hunters rarely hunt animals or beasts. Instead, they make not only sport but a lucrative business of capturing humanoid targets at the behest of wealthy patrons. Bounty hunters often work alone, but may lead a press gang of a sellsword, torturer, and two slavers (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Mercenary%20(Bounty%20Hunter))
 ```encounter-table
 name: NPC Mercenary (Bounty Hunter)

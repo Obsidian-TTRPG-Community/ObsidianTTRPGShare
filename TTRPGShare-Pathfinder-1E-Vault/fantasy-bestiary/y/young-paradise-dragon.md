@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Paradise Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 104
 desc_short: This sleek dragon carries itself with regal dignity. Its eyes glow with heavenly light.
 ```
-# Description
+## Description
 Paradise dragons create holy sanctums of light and harmony to shield their followers from the multiverse's evil.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Paradise%20Dragon)
 ```encounter-table
 name: Young Paradise Dragon

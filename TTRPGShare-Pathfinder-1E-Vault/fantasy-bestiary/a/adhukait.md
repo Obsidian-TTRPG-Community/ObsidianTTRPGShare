@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adhukait
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,7 +71,7 @@ sources:
     desc: 82
 desc_short: A pair of spiked fiends, interwoven through bodily cavities and impaling limbs, spin in a dance with their twin curved knives.
 ```
-# Description
+## Description
 Known also as the twinned ones, adhukaits are warrior asuras, specialized at quick raids designed for theft, assassination, or kidnapping. An adhukait is adept at infiltration and escape. In killing, the fiend is brutally efficient unless it wishes to prolong pain to demoralize or enrage its enemies.
 
 Although an adhukait appears to be two connected creatures, it is one entity with two minds. The creature’s personality and purpose is as unified as its bizarre form. An adhukait is 6 feet tall. It weighs 330 pounds.
@@ -77,7 +79,7 @@ Although an adhukait appears to be two connected creatures, it is one entity wit
 Adhukaits prefer desolate spots as lairs, especially those that recall past terror or sorrow. In such dens, they keep trophies from their engagements as focuses for meditation and objects of study. Adhukaits also keep treasures stolen from temples and holy places. While at rest, adhukaits remain near any ill-gotten items to ensure no meddling magician can locate the lost objects.
 
 Legend holds that the first adhukaits emerged from the shattered remains of two godlike brigands. These burglars, their names long since lost to history, attempted to raid a celestial hall. The resident deity and his or her servants slew the thieves, crushed their bodies together into one, and hurled their remains to the earth. As their crumbling, entwined bodies struck the world, they caused terrible earthquakes and tsunamis that slew thousands of innocents-including many worshipers of the headstrong deity who accidentally caused the devastation. The first adhukaits grew from the shattered, mingled remains of these brigands, rising from the blasted crater to serve the asuras as elite soldiers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adhukait)
 ```encounter-table
 name: Adhukait

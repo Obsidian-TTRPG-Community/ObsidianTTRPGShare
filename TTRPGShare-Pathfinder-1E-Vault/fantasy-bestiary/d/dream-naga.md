@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dream Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 35
 desc_short: This large, flying serpent has a humanoid head outlined by a colorful, frilled hood.
 ```
-# Description
+## Description
 Inhabitants of the Dimension of Dreams, dream nagas fly through dreamscapes as part of an unknowable plan to alter the destiny of the multiverse. Most creatures that encounter dream nagas do so while they sleep, as their dreams provide convenient shortcuts for the dream nagas’ paths through the various dreamscapes. Even after these dreamers awaken, the sight of these beautiful creatures remains ingrained in their minds. Many cultures consider seeing a dream naga a sign of a special destiny. But when a dreaming creature gains the full attention of a dream naga, it is no mere chance encounter. For convoluted and arcane reasons that only they truly understand, dream nagas enter dreams and interact with the sleepers-sometimes relaying knowledge to the sleepers, and other times tormenting them. Such dream encounters often don’t make sense to the dreaming creature until some point far in the future, if ever.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dream%20Naga)
 ```encounter-table
 name: Dream Naga

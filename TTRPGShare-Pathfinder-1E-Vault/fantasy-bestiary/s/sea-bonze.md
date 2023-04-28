@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Bonze
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 239
 desc_short: Massive and blacker than the darkest depths of the sea, this colossal watery form glares with two immense, hate-filled eyes.
 ```
-# Description
+## Description
 The ocean knows few terrors as unnatural and horrific as the sea bonze. This undead goliath dwells near established shipping lanes or offshore from coastal settlements, where it lurks just beneath the surface of the water until it can strike unsuspecting boats in the dead of night. Sailors often advise launching ocean voyages only during the day on the assumption that doing so might protect them from the sea bonze’s attention, but such tactics make little difference to the creature itself, which will trail a particular ship until after dusk, sometimes for hundreds of miles, only to lurch out of the water and lay waste to an entire ship.
 
 Sea bonzes are formed from the combined despair and horror of death at sea, such as when a ship sinks and its entire crew drowns. No single restless soul empowers a sea bonze-it combines the anger and doom of all who die in such close proximity. Reawakened as mammoth ship-wreckers, these angry spirits have no memory of their past lives, and seek to inflict the doom they suffered on others who ply the seas. Their hatred does not make them mindless, however, and more than one lucky crew member has talked her entire ship’s way out of total annihilation. Sea bonzes have an unusual respect for those with wit and guile, and will sometimes consider sparing those they deem worthy of their esteem. Those who try to defend themselves with brawn and weapons, however, receive no mercy from the enormous monsters.
 
 A sea bonze’s flesh is black and leathery like that of a squid, and appears at first glance to be made out of the black waters of the ocean itself. The entire creature is featureless and smooth, making its empty visage all the more horrifying.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Bonze)
 ```encounter-table
 name: Sea Bonze

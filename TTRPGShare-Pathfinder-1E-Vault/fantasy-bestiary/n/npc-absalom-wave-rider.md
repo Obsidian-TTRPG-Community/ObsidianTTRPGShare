@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Absalom Wave Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 3
 ```
-# Description
+## Description
 The knights of Absalom’s Wave Riders are legendary in naval circles across the Inner Sea region. Trained to ride hippocampus mounts by the gillmen of Escadar on the Isle of Erran, the knights move swiftly and work in small groups to patrol Absalom’s harbor and surrounding waters. The Wave Riders defend local ships from monsters that are summoned by enemies or that rise from the depths of their own accord, and use their speed and maneuverability to observe and occasionally harass enemy ships. Though they lack a heavy cavalry’s capabilities, Wave Riders are adept at approaching smaller ships and boarding before the lookouts even know they are there. Usually, only those who would harm Absalom by way of the sea need fear the Wave Riders, but they also aren’t above assisting with anti-smuggling raids from time to time.
 
 Many of Escadar’s gillmen serve in the sea cavalry. Though the Wave Riders value the gillmen’s natural abilities, some in Absalom question the wisdom of trusting the Low Azlanti, pointing to their worship of the inhuman idols found among Escadar’s ruins and rumors that they serve aboleth masters. No nefarious plot has yet surfaced, however. Statistics for hippocampi can be found on page 155 of Pathfinder RPG Bestiary 2.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Absalom%20Wave%20Rider)
 ```encounter-table
 name: NPC Absalom Wave Rider

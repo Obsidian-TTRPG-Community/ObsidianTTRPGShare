@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gammenore
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 84
 desc_short: Spikes of ice jut from the carapace of this stocky crustacean. It scuttles sideways on its eight legs with surprising speed, while its two pincers-one small and sharp, the other monstrously large-flex in anticipation of combat.
 ```
-# Description
+## Description
 The gammenore is a prime example of how Triaxian fauna has adapted to survive the planet’s long, cruel winters. While other creatures struggle to survive the planet’s decades-long season of cold and ice, the gammenore thrives, turning the might of winter into the very tools of its survival.
 
 Absent its icy armor, the gammenore looks like a large, blue-and-white-shelled crustacean. It has a rather wide, oval-shaped carapace, a pair of powerful pincers, and four pairs of strong, articulated legs.
 
 A gammenore’s two pincers serve very different purposes. The primary claw is monstrously large and extremely strong, and is used to break through ice and crush the gammenore’s prey. The other claw is smaller, less cumbersome, and sharp enough to rend flesh and bone. The gammenore uses this smaller claw to tear its victims into pieces small enough to eat, and to perform any manipulations too delicate for the large claw. Its eyes are located on short stalks that rise from the front of its carapace, allowing it to see even when encased in its shell of ice. A gammenore is approximately 8 feet wide, and weighs between 2,000 and 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gammenore)
 ```encounter-table
 name: Gammenore

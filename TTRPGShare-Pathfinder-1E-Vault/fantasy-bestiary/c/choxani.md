@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Choxani
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 59
 desc_short: This faceless, spindly humanoid has dragonfly wings, and its woody skin is covered in shifting colors and patterns.
 ```
-# Description
+## Description
 Also called “picture people,” choxani embody those aspects of nature that resemble other things, from a chameleon changing color to a cloud blown into the shape of a dog. Choxani see these moments of representation as proof of the plan underlying all reality, and honor them with religious fervor. They communicate primarily through hand gestures and their constantly changing markings, which can form text or images. When eating, the colors on their fingers or faces stretch out into funnels, sucking in the colors of other organisms and leaving them lifeless gray husks. A typical choxani is 7 feet tall and 150 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Choxani)
 ```encounter-table
 name: Choxani

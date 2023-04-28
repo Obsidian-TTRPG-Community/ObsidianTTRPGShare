@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mogaru
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,7 +69,7 @@ sources:
     desc: 170
 desc_short: This towering saurian lumbers on its hind legs, its twin tails thrashing and the spines on its back glowing with red energy.
 ```
-# Description
+## Description
 Mogaru, known as the Final King to kaiju scholars, or simply as King Mogaru, is one of the most destructive of his kind. Although not the most powerful kaiju (a sobering thought in and of itself ), Mogaru is certainly the most active of the known kaiju. Additionally, Mogaru seems to be as eager to rampage through the works of humanity as he is to attack and kill other kaiju, making him something of a mixed blessing to kaiju-threatened cities. While the prospect of an attack by Mogaru is the stuff of nightmares, the possibility of his intervention during a different kaiju attack is the stuff of hope, though the damage dealt to a city during its defense may be significant. Mogaru appears as a towering dinosaur with twin tails, spines that glow red as he uses his breath weapon, and two powerful clawed forearms.
 
 King Mogaru dwells in the depths of a tropical jungle, sleeping silently at the bottom of an unusually deep lake until roused. Legends hold that Mogaru was born of the world itself, either formed from the spirits of countless plants and animals resulting from ages of hunting and predation by humanoids for food or sport, or formed from the souls of the countless slain in an ancient apocalypse or war that devastated one of the first of the world’s empires. Regardless of the actual cause, the birth of Mogaru in these legends seems to be the same-soon after another kaiju, Lord Varklops, emerged from an erupting volcano, Mogaru rose to oppose the Thrice-Headed Fiend in a vast battle that nearly slew Varklops while devastating an entire nation in the process. Mogaru is also rumored to have slain no fewer than a dozen other kaiju, including Agmazar the Star Titan, now believed to be the only undead kaiju in existence.
@@ -75,7 +77,7 @@ King Mogaru dwells in the depths of a tropical jungle, sleeping silently at the 
 Of particular note is the curious fact that Mogaru exhibits a particularly unique interest in song. Legends of skilled singers being able to save their cities with a single mournful paean to the kaiju, or of vengeful bards using their craft to waken the monster from his lair to send him on a rampage are common along coastal regions with a history of kaiju attacks, and in such regions renowned singers are well respected for this ability to inf luence one of the world’s most destructive creatures. Kaiju scholars suspect that song manages to penetrate Mogaru’s memories of some primeval event, but the reasons for the kaiju’s reaction to the song are its own.
 
 Mogaru stands 140 feet high and weighs 20,000 tons, and is nearly 300 feet long from nose to tail.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mogaru)
 ```encounter-table
 name: Mogaru

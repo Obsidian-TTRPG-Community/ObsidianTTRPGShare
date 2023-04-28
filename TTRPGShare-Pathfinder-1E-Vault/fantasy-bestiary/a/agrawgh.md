@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Agrawgh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 52
 desc_short: This bronze-ringed serpent has silvery skin and razor-sharp teeth that barely conceal the acid bubbling at the back of its mouth.
 ```
-# Description
+## Description
 Burrowing creatures whose bodies sport a number of bronze rings that allow them to carve perfectly uniform tunnels, these natives of the Plane of Earth use their impressive distended mouths to chew through dirt and stone, digesting the inorganic material with their powerful stomach acid. Agrawghs are typically 15 to 20 feet in length and weigh almost 2,500 pounds each.
 
  According to legend, the Crystalline Queen- Sairazul, the benevolent but now-trapped elemental lord-created the first agrawghs to dig tunnels that would attract extraplanar races to the Plane of Earth. Many of the plane’s existing caverns are the result of agrawghs’ wanderings, and some even speculate that the immense tunnel known as the Vent are the result of numerous agrawghs working in concert.
 
  Agrawghs can speak Terran, as well as many common tongues. Unlike xorns, agrawghs care little for material wealth, but they are known for offering their services as diggers in exchange for the ability to travel to previously unvisited locales. Throughout history, a few spellcasters have called agrawghs to the Material Plane to assist in massive excavations. An agrawgh can be summoned as an alternative option for the summon monster V spell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Agrawgh)
 ```encounter-table
 name: Agrawgh

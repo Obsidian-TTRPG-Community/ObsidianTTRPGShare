@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ib Shade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 86
 desc_short: The curious ears and flabby lips of this sickly green humanshaped ghostly creature frame its froglike face, yet only empty sockets stare from where its eyes should be.
 ```
-# Description
+## Description
 Untold eons ago, in the land of Mnar in the Dreamlands, a strange race of amphibian humanoids (rumored to have descended from the depths of space) built a city of gray stone-naming it Ib-on the shores of a deep lake to and from which no river or stream flowed. These beings dwelt in Ib for ages, worshiping their deity Bokrug and performing their own curious rites and rituals until they were slaughtered by humans who were disturbed by the creatures’ strange appearances and frightening deity. One thousand years later, the ghosts of this slaughtered race rose from the waters of that lake and descended upon the human city of Sarnath, bringing with them a terrible doom that brought death to all and wiped the mighty metropolis from existence, leaving only a swampy shoreline in its wake with the rising of the next sun.
 
 An Ib shade is a nauseating green color. Its hands and feet are webbed and its body limber and lithe, with a sunken belly. The shade’s face is froglike, with wide, flabby lips, but it has no eyes in its overly large eye sockets. Its ears are long and taper to two distinct points that protrude backward from the skull at an angle, with a third point descending downward to the shoulder in place of an earlobe.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ib%20Shade)
 ```encounter-table
 name: Ib Shade

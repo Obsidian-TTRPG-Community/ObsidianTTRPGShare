@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Sovereign Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: Bestiary 3
     desc: 100
 ```
-# Description
+## Description
 Guardians of balance, sovereign dragons, or lungwangs as they are also known, were placed in the skies by the gods themselves to safeguard harmony in the world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Sovereign%20Dragon)
 ```encounter-table
 name: Adult Sovereign Dragon

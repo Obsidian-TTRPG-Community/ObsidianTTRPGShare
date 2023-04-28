@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wild Hunt Archer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 279
 desc_short: This lithe, androgynous humanoid has pointed ears, glowing green eyes, and six fingers on each slender hand.
 ```
-# Description
+## Description
 Wild hunt archers are methodical hunters who fire their bows with uncanny accuracy. Since wild hunt archers tend to be slower on foot than most of their companions, they will often rely on wild hunt horses to provide increased mobility. Rather than carrying normal arrows, they can produce arrows from magical quivers-these quivers do not function in this manner for anyone other than wild hunt archers. Rarely, they carry specific slaying arrows to augment particularly dangerous hunts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wild%20Hunt%20Archer)
 ```encounter-table
 name: Wild Hunt Archer

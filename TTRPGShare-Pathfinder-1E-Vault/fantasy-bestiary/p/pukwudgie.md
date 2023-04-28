@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pukwudgie
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 223
 desc_short: A merging of an emaciated man and a porcupine, this sinister creature smells of death and decay.
 ```
-# Description
+## Description
 The vile pukwudgie is a small, hunchbacked humanoid covered with long, sharp quills. These quills, like those of a porcupine, help protect the small creature but are also dangerous offensive weapons, for the quills hold a deadly poison that animates those it slays as zombies. This necromantic nature, along with their penchant for torment and sadistic ways, makes pukwudgies evil to the core. A pukwudgie stands 3-1/2 feet tall and weighs a little more than 30 pounds.
 
 Pukwudgies are frequently found in the company of undead. This retinue usually consists of zombies and skeletons created via their poisonous quills ability or their ability to animate dead bodies. They have a strong preference for animating the bodies of dead animals over other creatures, and often use undead animals as mounts.
 
 A pukwudgie usually stays away from well-traveled areas and humanoid settlements, but may sometimes slip into small villages in the night to steal children. The little horrors enjoy the tender flesh of newborn babies immensely, and are often willing to go through great personal risk to secure infantile repasts when they are available. Their delight in arson only further makes them a bane of small villages.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pukwudgie)
 ```encounter-table
 name: Pukwudgie

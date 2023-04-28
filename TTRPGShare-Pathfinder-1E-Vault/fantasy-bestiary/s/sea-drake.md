@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sea Drake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 109
 desc_short: Not quite sea serpent or dragon, this vicious beast is covered with shiny blue-green scales. Its arms serve as both wings and flippers. 
 ```
-# Description
+## Description
 While obviously the product of draconic inbreeding, the heritage of sea drakes is less clear than that of other drakes. Among the strongest of the drakes, sea drakes still lack the mental acuity of their true dragon forebears, though they remain as brutally cunning as other drakes. Although amphibious, sea drakes spend the majority of their time in shallow coastal waters. 
 
 Sea drakes are up to 14 feet long from their noses to the tips of their powerful tails. They weigh 2,000 pounds. 
 
 The most solitary of all drakes, sea drakes prefer to hunt alone. Occasionally, however, they band together in packs to hunt larger prey. Such rampages can be a significant danger to coastal shipping.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sea%20Drake)
 ```encounter-table
 name: Sea Drake

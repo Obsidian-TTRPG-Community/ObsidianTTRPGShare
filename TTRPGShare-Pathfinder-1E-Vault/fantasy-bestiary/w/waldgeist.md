@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Waldgeist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 90
 desc_short: An expression of intense malevolence crosses the face of this small, insubstantial spirit, which looks unsettlingly like that of a gnome.
 ```
-# Description
+## Description
 A waldgeist arises when a gnome who was a woodlands dweller or who had a deep spiritual connection with such an area dies while in a large forest. The gnome’s spirit is twisted and bound to the trees, infused with hatred of living intruders and a need to protect the area that sustains it. A waldgeist appears as a translucent gnomelike figure surrounded by a faint, green glow, its facial features full of anger and malice.
 
  Waldgeists become incredibly violent when faced with creatures that intrude upon their homes or that they see as threats. In combat, waldgeists attack using the forest itself, entwining despoilers’ legs with roots and vines, and animating nearby trees to smash intruders with thick branches. A waldgeist is typically 3-1/2 feet tall.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Waldgeist)
 ```encounter-table
 name: Waldgeist

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Lunar Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: Bestiary 4
     desc: 66
 ```
-# Description
+## Description
 Lunar dragons frequently interact with mortals, spending long hours watching the activities occurring on planets that interest them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Lunar%20Dragon)
 ```encounter-table
 name: Adult Lunar Dragon

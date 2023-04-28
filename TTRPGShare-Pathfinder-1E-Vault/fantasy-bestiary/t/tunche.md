@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tunche
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 265
 desc_short: Standing on three legs, this creature is a mix of dangerous jungle animals and plants fused into one deadly predator.
 ```
-# Description
+## Description
 A tunche is a bizarre forest creature with twisted feline legs, a dense body resembling jungle undergrowth, clawed arms like those of a praying mantis, and a head resembling a cross between a monstrous spider’s head and a jungle orchid. Although it has plant and animal features, a tunche is neither plant nor animal and is immune to effects that specifically target such creatures. Considering itself the ultimate protector of the jungle, a tunche prowls its domain in search of any who might despoil this vibrant and lush environment. If a tunche encounters travelers who treat the jungle with proper respect, it might simply observe them or demand an offering in exchange for allowing them to pass through its territory.
 
 A tunche especially enjoys toying with its victims, using its magic to confuse and mislead its opponents. A tunche rarely kills a foe without toying with it first, unless the target is actively harming plants or animals.
 
 A tunche stands 20 feet tall and weighs 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tunche)
 ```encounter-table
 name: Tunche

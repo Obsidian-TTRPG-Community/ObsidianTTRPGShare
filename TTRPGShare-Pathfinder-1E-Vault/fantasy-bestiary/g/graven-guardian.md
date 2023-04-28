@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Graven Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 140
 desc_short: This jackal-headed, brightly painted clay statue animates and lurches forward, hefting a wickedly hooked sword.
 ```
-# Description
+## Description
 Graven guardians are human-sized constructs of clay, stone, wood, or similar materials, crafted and painted to resemble a deity or a deity’s favored servants. When not in motion, a graven guardian appears identical to a temple or crypt’s statue, but while active, graven guardians look extremely lifelike.
 
 Graven guardians are inexorably tied to a specific deity’s faith. While unintelligent and thus lacking any real personality, a graven guardian has the ability to recognize fellow worshipers or minions of its deity and does not treat them as enemies unless they first attack. This recognition does not extend so far as to allow these worshipers (or those cunningly disguised as worshipers) to give a graven guardian new orders. As with all constructs, a graven guardian follows only the orders of its creator.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Graven%20Guardian)
 ```encounter-table
 name: Graven Guardian

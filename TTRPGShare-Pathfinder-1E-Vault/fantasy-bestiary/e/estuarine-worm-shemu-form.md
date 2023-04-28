@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Estuarine Worm (Shemu Form)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: Pathfinder No. 82: Secrets of the Sphinx
     desc: 86
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Estuarine%20Worm%20(Shemu%20Form))
 ```encounter-table
 name: Estuarine Worm (Shemu Form)

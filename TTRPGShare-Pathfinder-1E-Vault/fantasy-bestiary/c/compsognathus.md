@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Compsognathus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
     desc: 90
 desc_short: This small reptile has a snake-like neck and head, a bird-like body with strong legs for running, and a whip-like tail. 
 ```
-# Description
+## Description
 The compsognathus is a small dinosaur that moves in swift, darting motions. Its bite injects a venom that causes numbness and weakness, a trait that the animal uses to bring down larger prey. A compsognathus measures 3 feet long and weighs 15 pounds. 
 
 These dinosaurs can serve spellcasters as a familiar. A compsognathus familiar grants its master a +4 bonus on Initiative checks.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Compsognathus)
 ```encounter-table
 name: Compsognathus

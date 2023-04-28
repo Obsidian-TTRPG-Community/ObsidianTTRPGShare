@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Mistress of the Fen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 56
 desc_short: This arching, reptilian creature has an elongated neck and short fins. Its jagged teeth hint at its primordial nature, and the abundant plant growth covering its body suggests both fertility and rot.
 ```
-# Description
+## Description
 She has dwelled beneath the fen for centuries, an elemental thing of the choking, rotting lands she cradles like a newborn babe. The changeling witches who worship here gave the Mistress of the Fen her name, and ask her to teach them the secret whispered words of wild places, calling to her in the dark and drowning sacrifices in her name. Though they were born to the same despicable hag mother, the witches were raised by the orm. They are beautiful beyond compare, and they use their allure and wiles to draw travelers to their swampy home. Invariably, such victims end up in the waiting jaws of the Mistress of the Fen.
 
 Those who live on the edges of the fen avoid the place despite the lure of easy fishing and lost funeral barges said to be crammed with treasure. They know of the Mistress, her followers, and her sacrifices. Many suspect it was the changelings who gave the orm her powers over rot and fecundity, but the witches deny this, claiming that the Mistress has always possessed such gifts. Their chants can be heard at all times across the murky waters of the swamp, and on moonless nights, one can catch a glimpse of the changelings as they take turns kissing the fetid jaws of their revered mother and drinking in her pestilence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Mistress%20of%20the%20Fen)
 ```encounter-table
 name: The Mistress of the Fen

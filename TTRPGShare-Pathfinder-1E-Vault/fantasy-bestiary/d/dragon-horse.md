@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dragon Horse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 104
 desc_short: The glossy alabaster coat of this noble horse ripples with muscles, while its hooves shimmer with pale blue energy. 
 ```
-# Description
+## Description
 Despite their name, dragon horses are not related to dragons. These noble creatures gain their name from their ability to fly through the air without wings and to create different effects with their misty breath. 
 
 Dragon horses are solitary creatures, spending most of their time up among the clouds and rarely setting hoof to solid ground. A mated pair of dragon horses remains together to raise its young, but otherwise individuals prefer to be on their own. They are fierce and reclusive, but peaceful and even playful under the right circumstances. Dragon horses sometimes offer aid and assistance to decent folk in need, taking care to use their ability to know alignment to avoid accidentally providing aid to evil creatures, whom they despise. 
@@ -62,7 +64,7 @@ Dragon horses are solitary creatures, spending most of their time up among the c
 Dragon horse foals are highly prized as potential steeds, but as dragon horses are highly intelligent creatures, they cannot be trained as if they were animals. Instead, one who seeks a dragon horse mount must use diplomacy to secure the creature’s aid. 
 
 Peaceful creatures by nature, dragon horses prefer to avoid combat by flying away. When they are forced to fight (often in response to an evil creature’s mayhem), they attempt to deal nonlethal damage to all but evil-aligned foes, leaving any unconscious opponents unharmed. Those who have chosen evil ways may sometimes receive the same mercy, in the hope that it helps them see the light, but innately evil foes are dispatched as quickly and cleanly as possible.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dragon%20Horse)
 ```encounter-table
 name: Dragon Horse

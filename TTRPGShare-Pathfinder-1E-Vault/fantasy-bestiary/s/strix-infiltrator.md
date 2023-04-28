@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Strix Infiltrator
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 54
 desc_short: Seemingly human at first glance, this feathered woman conceals wings beneath a heavy cloak.
 ```
-# Description
+## Description
 Most members of this avian race balk at the idea of blending in with humans, but that is exactly the goal of strix infiltrators. Their magnificent plumage is clipped and stuffed under bulky garments in their efforts to pass as humans, and they learn the clumsy speech and blunt gestures of their enemies to better walk among foes and learn their secrets. Few succeed perfectly without the aid of magic, though, so infiltrators also study the ancient concoctions used by their people for years, turning the arts of hunting and healing to deception and murder.
 
 Hearing the droning voices of humanity, seeing their featherless, leathery flesh, and dealing with their smell wears on any strix, but being unable to stretch one’s wings and take flight when instinct calls for it is a chronic torture infiltrators must endure. Despite this discomfort, these quiet spies understand that of all the campaigns launched against the human settlements that encroach upon their territory, none is more important to maintaining the strix way of life than theirs. Posing as a friend and sometimes more to their despised foes, infiltrators keep a close and personal eye on their neighbors and position themselves for success in espionage and sabotage. The occasional assassination mission provides a small reward for their pain.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Strix%20Infiltrator)
 ```encounter-table
 name: Strix Infiltrator

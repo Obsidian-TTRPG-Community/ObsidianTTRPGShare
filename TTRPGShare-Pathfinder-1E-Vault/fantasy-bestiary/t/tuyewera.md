@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tuyewera
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 86
 desc_short: The figure that crawls up from the grave may have once been a living man, but it is now wholly a monster. Its flesh crawls with worms and seeps with decay, allowing bones and internal organs to slip through hideous tears here and there. Its jaw distends and a long tongue whips out, almost like a tentacle. Its legs have been severed at the knee, forcing it to scrabble forward on all fours like some deranged beast.
 ```
-# Description
+## Description
 The tuyewera is a hideous creation designed to serve not only as a stealthy minion but also as a monstrous assassin. Invisible during the day, a tuyewera can be sent into an enemy’s lair to perform any number of missions desired by its creator or master. A tuyewera that lacks a master is a free-willed undead-in wilderness regions, it wanders aimlessly, constantly searching for signs of civilization. If it finds such signs, it invariably seeks out a graveyard and lurks in hiding, waiting for a new body to be buried so that it can burrow into the grave and steal the corpse’s tongue at the first opportunity. The tuyewera then stalks the region, looking for mourners of the dead person to lure into a secluded area and suffocate, before stealing their tongues to repeat the process.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tuyewera)
 ```encounter-table
 name: Tuyewera

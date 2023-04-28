@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Red Wyrm Ravener
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,13 +80,13 @@ sources:
     desc: 230
 desc_short: This immense skeletal dragon rears up to its full, towering height, bones glowing and shimmering with vile green energy.
 ```
-# Description
+## Description
 Most evil dragons spend their lifetimes coveting and amassing wealth, but when the end draws near, some come to realize that all the wealth in the world cannot forestall death. Faced with this truth, most dragons vent their frustration on the countryside, ravaging the world before their passing. Yet some seek a greater solution to the problem and decide instead to linger on, hoarding life as they once hoarded gold. These foul wyrms attract the attention of dark powers, and through the blackest of necromantic rituals are transformed into undead dragons known as raveners.
 
 Although its body quickly rots away, a ravener does not care for the needs of the flesh. It seeks only to consume life, be it from wild animals, would-be dragonslayers, or even other dragons. A ravener is often on the move, changing lairs frequently as its territories become devoid of life.
 
 The ravener presented here is built from a red dragon wyrm.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Red%20Wyrm%20Ravener)
 ```encounter-table
 name: Red Wyrm Ravener

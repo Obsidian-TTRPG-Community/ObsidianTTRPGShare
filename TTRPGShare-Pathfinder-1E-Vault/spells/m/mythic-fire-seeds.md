@@ -1,19 +1,21 @@
 ---
-alias: Mythic Fire Seeds
+aliases: [Mythic Fire Seeds]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Fire Seeds
+## Mythic Fire Seeds
 
 **source**:: Mythic Adventures pg. 94  
 **school**:: conjuration (creation) (fire)
 **level**:: druid 6, hunter 6, shaman 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (acorns or holly berries)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: up to four acorns or up to eight holly berries  
@@ -21,7 +23,7 @@ alias: Mythic Fire Seeds
 **saving-throw**:: none or Reflex half; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Depending on the version of fire seeds you choose, you turn acorns into splash weapons that you or another character can throw, or you turn holly berries into bombs that you can detonate on command.  
   

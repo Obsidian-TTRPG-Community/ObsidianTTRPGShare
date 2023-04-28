@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Aurochs
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 174
 desc_short: This large, horned bull has a dirty black hide and an aggressive temper. Its horns are wide and sharp.
 ```
-# Description
+## Description
 Aurochs (both singular and plural) are large herd animals similar to domesticated cattle.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Aurochs)
 ```encounter-table
 name: Aurochs

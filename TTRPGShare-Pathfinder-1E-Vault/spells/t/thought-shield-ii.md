@@ -1,25 +1,26 @@
 ---
-alias: Thought Shield II
+aliases: [Thought Shield II]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Thought Shield II 
+## Thought Shield II
 
 **source**:: Occult Adventures pg. 189  
 **school**:: abjuration
 **level**:: psychic 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 immediate action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round
 
-### Description 
+### Description
 
 This functions as *thought shield I*, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be undercast.
-

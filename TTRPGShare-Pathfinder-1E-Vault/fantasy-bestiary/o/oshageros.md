@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oshageros
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 212
 desc_short: This crocodile-jawed creature has two talon-tipped hands and luminescent tentacles extending from its back.
 ```
-# Description
+## Description
 Oshageroses exist to destroy or ward away creatures seen as antithetical to true chaos. 
 
 An oshageros is 8 feet long and weighs 220 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oshageros)
 ```encounter-table
 name: Oshageros

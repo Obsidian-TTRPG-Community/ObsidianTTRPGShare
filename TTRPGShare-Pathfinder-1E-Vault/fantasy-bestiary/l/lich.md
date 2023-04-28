@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lich
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,11 +71,11 @@ sources:
     desc: 188
 desc_short: Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.
 ```
-# Description
+## Description
 Few creatures are more feared than the lich. The pinnacle of necromantic art, the lich is a spellcaster who has chosen to shed his life as a method to cheat death by becoming undead. While many who reach such heights of power stop at nothing to achieve immortality, the idea of becoming a lich is abhorrent to most creatures. The process involves the extraction of the spellcaster’s life-force and its imprisonment in a specially prepared phylactery-the spellcaster gives up life, but in trapping life he also traps his death, and as long as his phylactery remains intact he can continue on in his research and work without fear of the passage of time.
 
 The quest to become a lich is a lengthy one. While construction of the magical phylactery to contain the spellcaster’s soul is a critical component, a prospective lich must also learn the secrets of transferring his soul into the receptacle and of preparing his body for the transformation into undeath, neither of which are simple tasks. Further complicating the ritual is the fact that no two bodies or souls are exactly alike-a ritual that works for one spellcaster might simply kill another or drive him insane. The exact methods for each spellcaster’s transformation are left to the GM’s discretion, but should involve expenditures of hundreds of thousands of gold pieces, numerous deadly adventures, and a large number of difficult skill checks over the course of months, years, or decades.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lich)
 ```encounter-table
 name: Lich

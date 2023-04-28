@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Merchant (Merchant Prince)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: GameMastery Guide
     desc: 285
 ```
-# Description
+## Description
 Merchant princes are the captains of commerce, canny mercantilists who deal with nation-spanning trade contracts in bulk commodities as well as backroom deals over baubles of great price. They are clever negotiators and can serve as highly skilled spies, diplomats, or charlatans emulating true magicians. A merchant prince often retains a sellsword as a bodyguard (CR 10).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Merchant%20(Merchant%20Prince))
 ```encounter-table
 name: NPC Merchant (Merchant Prince)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Saguaroi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 229
 desc_short: This humanoid plant creature has the prickly hide of a cactus, and smaller cactuses seemingly sprout from its flesh.
 ```
-# Description
+## Description
 Saguarois, also called cactusfolk by desert-dwelling humanoids, make their homes in rocky badlands, hot scrublands on the edge of vast deserts, and sandy dunes baked by the sun. They are generous but territorial, offering aid to travelers who brave the blistering deserts-often in the form of their own watery blood-but don’t tolerate guests who overstay their welcome. Civilization rarely attempts to push far into the deserts, leaving these creatures relatively isolated from other intelligent races. In cases where belligerent settlements threaten the way of life for tribes of saguarois, however, the cactusfolk respond with terrifying violence.
 
 Saguarois live in small nomadic tribes, traveling under the life-giving sun by day and rooting themselves each night in places where they can draw minerals from the pebbly and sandy soil and absorb water. Saguarois produce flowers once a year that go to seed and grow into young saguarois if the adult creatures properly care for them. If planted, a seed must be attended by one or more saguarois over the course of a year before the infant saguaroi sprouts.
 
 After sprouting, it takes 4 years before the infant saguaroi can uproot itself and move about, and decades more to reach maturity. Some saguarois have lived for hundreds of years, and these old cactusfolk often sprout additional limbs or strange twisting growths stretching out from their cylindrical torsos. Usually these additional limbs and growths are nonfunctional, but significantly advanced saguarois have been known to learn how to use them as if they were their primary arms and legs.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Saguaroi)
 ```encounter-table
 name: Saguaroi

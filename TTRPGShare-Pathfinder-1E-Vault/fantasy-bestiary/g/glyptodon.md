@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Glyptodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
     desc: 186
 desc_short: This armored creature has a bony, turtle-like shell from which protrude short limbs, a blunt head, and a short spiky tail.
 ```
-# Description
+## Description
 The glyptodon is often hunted for the value of its outer armor, made up of bony plates in turn composed of many smaller, knobby “scales.” The creature is quite capable of defending itself with swipes from its deadly claws, as its ill-tempered nature often urges it to do.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Glyptodon)
 ```encounter-table
 name: Glyptodon

@@ -1,25 +1,27 @@
 ---
-alias: Mythic Beast Shape I
+aliases: [Mythic Beast Shape I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Beast Shape I
+## Mythic Beast Shape I
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 3, arcanist 3, bloodrager 3, investigator 3, magus 3, redmantisassassin 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 min./level (D)
 
-### Description 
+### Description
 
 When you cast this spell, you can assume the form of any Small or Medium creature of the animal type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, and scent.  
   

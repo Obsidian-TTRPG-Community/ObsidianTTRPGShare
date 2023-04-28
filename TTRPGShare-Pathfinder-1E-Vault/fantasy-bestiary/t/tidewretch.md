@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tidewretch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 90
 desc_short: This ancient, empty-eyed woman appears to have flesh made from damp, rotting wood, and sparse clumps of seaweed serve as her hair.
 ```
-# Description
+## Description
 Tidewretches are undead dryads whose trees have died and become waterlogged driftwood. The dead state of the tree to which a tidewretch is bound is reflected in her disfigured appearance, especially her wrinkled and cracked wooden skin. Bits and pieces of the tidewretch have completely rotted away, leaving nothing but scar-like holes in her decomposing flesh. A tidewretch’s fingers have sharpened into claws, and her eyes have become cold and dark. Tidewretches are home to hosts of parasites, and small insects can be seen skittering in and out of their cracked skin. When alone, tidewretches regularly weep tears of dirty water in lament for their fallen trees.
 
  Tidewretches are usually around 5 feet tall and weigh about 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tidewretch)
 ```encounter-table
 name: Tidewretch

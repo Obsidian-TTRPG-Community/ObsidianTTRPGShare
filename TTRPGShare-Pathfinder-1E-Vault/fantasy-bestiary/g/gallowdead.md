@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gallowdead
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 119
 desc_short: This skeletal horror staggers under the weight of the massive hook and chain impaling the bones of its midsection.
 ```
-# Description
+## Description
 Some tyrants execute criminals, traitors, or those who dare insurrection on the end of hooked and spiked chains. Leaving the criminal to painfully hang and rot sends a message to those who would dare commit the same crimes. Sometimes such savage deaths have a strange and terrible consequence: the victim rises, grabs the instrument of its execution, and becomes a servant of those who condemned it.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gallowdead)
 ```encounter-table
 name: Gallowdead

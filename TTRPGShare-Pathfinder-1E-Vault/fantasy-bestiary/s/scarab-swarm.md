@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Scarab Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 89
 desc_short: This mass of iridescent blue-black insects emits a foul stench and carries with it a cloud of filthy dust.
 ```
-# Description
+## Description
 Scarab beetles often mass in swarms and terrorize remote desert regions. These vermin are a threat to ancient tombs as they chew their way through the interred.
 
  A scarab swarm comprises thousands of scarab beetles, each filthy from its constant contact with dung and carrion. Normally inattentive toward other creatures, scarab swarms subject those who get in their way to thousands of sharp bites as well as an infectious disease. Indeed, the bites of a scarab swarm are the least of their victims’ worries, as the disease they carry claims far more lives than their hunger.
 
  Some religious scholars theorize that scarabs are prone to swarming because they’re drawn to the same malign energy that causes undead to rise, though most people regard this explanation as pure superstition. Some worshipers of gods of death see the arrival of a scarab swarm as a portent of ill fortune.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Scarab%20Swarm)
 ```encounter-table
 name: Scarab Swarm

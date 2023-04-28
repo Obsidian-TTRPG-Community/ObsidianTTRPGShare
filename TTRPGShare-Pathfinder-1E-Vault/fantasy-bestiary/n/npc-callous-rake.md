@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Callous Rake
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: NPC Codex
     desc: 112
 ```
-# Description
+## Description
 The callous rake is a young paladin exhibiting unpaladinlike behavior. If unchecked, these habits become the first step toward disgrace.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Callous%20Rake)
 ```encounter-table
 name: NPC Callous Rake

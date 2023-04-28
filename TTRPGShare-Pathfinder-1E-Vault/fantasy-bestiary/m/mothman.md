@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mothman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,11 +62,11 @@ sources:
     desc: 88
 desc_short: A shroud of dark wings cloaks this thin, humanoid shape. Two monstrous red eyes glare malevolently from its narrow face.
 ```
-# Description
+## Description
 Little is known of these strange creatures, save that when they appear, calamity follows. Mothmen see themselves as agents of fate, exhibiting extraordinary powers to guide the hands of destiny. More often than not, citizens encounter a mothman and never recall the meeting, yet fall right into the creature’s obscure plans.
 
 Mothmen stand almost 7 feet tall and weigh 100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mothman)
 ```encounter-table
 name: Mothman

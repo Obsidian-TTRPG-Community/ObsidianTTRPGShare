@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dread Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 234
 desc_short: Majestic in manner, this woman is clad in ornate plate armor and has a haunted look deep in her eyes.
 ```
-# Description
+## Description
 Dread lords are intrinsically tied to the territories they inhabit, either through ancestry or by claiming them in costly battle. Ambitious and cunning in their pursuit of land and glory, once dread lords attain their goals of conquest, they transition into tragic figures. They might find themselves hollow once their dreams are fulfilled, having nothing else to strive for, or could becoming heartless toward their charges, seeing them as ungrateful for all the lord sacrificed.
 
  Some lords come into power through vile deeds and become targets of powerful curses wreaked by people they wronged or powerful divine entities that demand retribution. These despicable creatures are transformed into brooding immortals known as cursed lords. Regardless of how they rose to rule over their lands, their dark domains are dangerous and haunted places, as described beginning on page 159.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dread%20Lord)
 ```encounter-table
 name: Dread Lord

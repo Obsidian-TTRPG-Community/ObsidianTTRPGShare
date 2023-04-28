@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Frontier (Trapper)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
   - name: GameMastery Guide
     desc: 276
 ```
-# Description
+## Description
 Trappers are roving hunters who wander the woods. They take any animal they can safely hunt or trap, but they are best known as the heart of the fur trade, making a variety of handcrafted but deadly effective traps to catch the unwary beasts of the forest. Trappers could be used as royal game wardens, as scouts, or as hunters for a nomadic tribe.
 
 Trappers are typically loners but will sometimes pair up with another trapper (CR 5), a monster hunter (CR 6), or a beast master (CR 7) for companionship.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Frontier%20(Trapper))
 ```encounter-table
 name: NPC Frontier (Trapper)

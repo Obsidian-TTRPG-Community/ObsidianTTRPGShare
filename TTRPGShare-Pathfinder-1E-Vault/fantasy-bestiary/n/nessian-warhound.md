@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nessian Warhound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 173
 desc_short: This creature resembles a powerfully built wolf the size of a large draft horse, with ebony fur and burning, fiery red eyes.
 ```
-# Description
+## Description
 All are fitted with shirts of fire-scorched barding, and the loyal beasts obey their master perfectly.
 
 They are fearsome, snarling horrors in combat.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nessian%20Warhound)
 ```encounter-table
 name: Nessian Warhound

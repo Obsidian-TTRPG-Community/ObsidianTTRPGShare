@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Synesis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 3
 desc_short: A pair of three-fingered arms sprouts from either end of this hourglass-shaped creature composed of cosmic starstuff.
 ```
-# Description
+## Description
 Although mortals have learned to control tiny fragments of their worlds through magic and technology, only a mastery over their instinctive urges prevents them from destroying the fabric of the planes in the process. Synesis aeons oversee this fine balance. At times, they serve as dispassionate muses to great thinkers, facilitating discoveries and pushing cultures to new heights. In the blink of an eye, however, a synesis might destroy a philosopher whose hypotheses could one day threaten the balance. Synesis aeons often gravitate toward powerful psychic spellcasters, steering them toward actions that stave off planar entropy or serve even more esoteric goals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Synesis)
 ```encounter-table
 name: Synesis

@@ -1,19 +1,21 @@
 ---
-alias: Cursed Earth
+aliases: [Cursed Earth]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Cursed Earth 
+## Cursed Earth
 
 **source**:: Ultimate Magic pg. 215  
 **school**:: necromancy (curse, evil)
 **level**:: arcanist 9, cleric 9, oracle 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (powdered onyx 10,000 gp), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 1-mile radius emanating from the touched point  
@@ -21,7 +23,7 @@ alias: Cursed Earth
 **saving-throw**:: none (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You lay a terrible curse upon the land, blighting those who live and die there. Choose one of the following effects.  
   

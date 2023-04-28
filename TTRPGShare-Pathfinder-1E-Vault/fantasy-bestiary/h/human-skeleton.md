@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Human Skeleton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 250
 desc_short: The pile of bones suddenly stirs, rising up to take on a human shape. Its long, bony fingers reach out to claw at the living.
 ```
-# Description
+## Description
 Skeletons are the animated bones of the dead, brought to unlife through foul magic. While most skeletons are mindless automatons, they still possess an evil cunning imparted to them by their animating force-a cunning that allows them to wield weapons and wear armor.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Human%20Skeleton)
 ```encounter-table
 name: Human Skeleton

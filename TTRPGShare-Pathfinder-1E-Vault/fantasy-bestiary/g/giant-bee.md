@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Bee
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,11 +47,11 @@ sources:
     desc: 43
 desc_short: Striking yellow and black markings and a coat of bristling hairs cover this immense bee. Its stinger is the size of a dagger blade. 
 ```
-# Description
+## Description
 Like their smaller cousins, giant bees fill their ecological niche by playing matchmaker for a vast array of flowering plant life. As a giant bee feeds on plant nectars, clumps of pollen attach to the coarse hairs covering its body and legs. 
 
 Giant bees grow to approximately 5 feet in length, with a similar wingspan. These creatures weigh 60 pounds and live in their adult form for nearly 10 years. Giant bees’ stingers are not barbed like those of their diminutive counterparts, so these creatures can sting foes repeatedly and do not die after one sting.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Bee)
 ```encounter-table
 name: Giant Bee

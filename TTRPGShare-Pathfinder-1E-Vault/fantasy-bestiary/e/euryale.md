@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Euryale
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -102,13 +104,13 @@ sources:
     desc: 120
 desc_short: This creature has the upper body of a woman, the lower body of a snake, and a mass of undulating cobras for hair.
 ```
-# Description
+## Description
 Euryales are powerful medusa matriarchs and among the most favored agents of Lamashtu, the Mother of Monsters. Long ago, Lamashtu tricked these medusa forebears with a gift that tainted and empowered them into becoming beings of madness and evil, twisting them into forms even more monstrous than their medusa sisters. Euryales delight in destroying their foes in ways they find particularly cruel, such as transforming one of a pair of lovers into a statue and then commanding the statue to destroy the still-living lover. Because of the oracular powers of these creatures, there are tales of desperate folk who seek out euryales for answers, but these tales invariably end poorly-those few petitioners who receive the answers they seek find they would have been better off never knowing. In most cases, an encounter with a euryale is destined for disaster. However, they are endlessly fascinated by poisons, so a creature that can satisfy a euryale’s curiosity by teaching it new poison lore (a daunting task in its own right) can likely avoid destruction in a chance meeting. Euryales find themselves distant from medusa society, unless they hold together a cult of fawning medusas by force. While they occasionally form triumvirates among themselves, they are more likely to find companionship among like-minded zealots of other races, particularly lamia matriarchs (Pathfinder RPG Bestiary 2 175) or mariliths. 
 
 Most euryales willingly embrace the taint of madness and lovingly serve the Mother of Monsters, but there are some who seek to eschew it, whether simply to be free of Lamashtu’s influence and live an evil life more like that of a normal medusa, or to follow a path of redemption. These rare heretical euryales have alignments other than chaotic evil as well as additional powers gained through their struggle to control their own destinies. Typically they advance by Hit Dice, although it’s also fairly common for them to take up to 2 oracle levels to improve their oracle spellcasting and to represent the curse the Mother of Monsters inflicted upon them for daring to cross her. 
 
 A euryale is 7 feet tall and weighs 460 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Euryale)
 ```encounter-table
 name: Euryale

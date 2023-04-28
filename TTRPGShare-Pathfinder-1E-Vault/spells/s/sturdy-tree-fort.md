@@ -1,19 +1,21 @@
 ---
-alias: Sturdy Tree Fort
+aliases: [Sturdy Tree Fort]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sturdy Tree Fort 
+## Sturdy Tree Fort
 
 **source**:: Ultimate Wilderness pg. 236  
 **school**:: transmutation
 **level**:: druid 5, hunter 4, ranger 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, F (a nail, a rope, and a short wooden plank)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **effect**:: one large tree and a sturdy wooden house  
@@ -21,7 +23,7 @@ alias: Sturdy Tree Fort
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause a large tree to grow in the 5-foot square you touch. The tree has 1 foot of thickness for every 4 caster levels you have, and it can grow to any height you designate, up to 5 feet high per caster level you have. If there is a ceiling or other barrier overhead, the maximum height of the tree cannot exceed the space available. At any point along the tree’s height, you can create a sturdy wooden building that fills one 10-foot cube for every 4 caster levels you have. All portions of the structure must be adjacent to the trunk of the tree (or can have the tree trunk extend up through their spaces), but otherwise these cubes need not be contiguous. If you place the cubes so that they are contiguous, the buildings merge together, complete with ladders connecting different vertical levels. The fort is magically supported, but if the tree it is attached to is destroyed, the structure is destroyed as well (the tree has hardness 5 and 20 hp per caster level you have).  
   

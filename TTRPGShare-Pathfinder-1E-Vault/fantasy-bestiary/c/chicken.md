@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chicken
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 112
 desc_short: This fowl has a compact body, a short beak flanked by red wattles, and a crimson comb on the crown of its head.
 ```
-# Description
+## Description
 Chickens are prized for the hearty breakfast meals they provide if properly fed and cared for. Chickens are highly social creatures that raise their young communally. They’re picky about the spots where they roost, and a hen rarely strays from a particular nest once she’s laid her eggs there. A fertilized chicken egg hatches into a chick after roughly 3 weeks of incubation.
 
  In addition to their quick reproductive cycles, chickens have the ability to thrive on simple foods, and they are valued in both rural farming communities and metropolitan areas for their delicious and nutrient-rich eggs and meat. A hen bred for laying eggs can produce up to one egg every 24 hours.
 
  A chicken is about 1 foot tall and weighs 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chicken)
 ```encounter-table
 name: Chicken

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Night Scale Assassin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 56
 desc_short: This lithe half-elven woman wields a hand crossbow and is bedecked in dark leather that blends in with the shadows.
 ```
-# Description
+## Description
 Magnimar has its share of criminal elements, but the Night Scales claim to rule the city’s cutthroat underworld. Their various operations and misdeeds include smuggling, extortion, theft, and even outright murder every now and then. Members of the Night Scales range from toughs to pickpockets to con artists, following a strict hierarchy of power based on skill as much as social connections. Among these ranks, the Night Scale assassins are perhaps the most feared members of the thieves’ guild. Such assassins are responsible for taking care of nosy adventurers or pesky guards who don’t know to mind their own business. Night Scale assassins work to silence some of Magnimar’s mouthiest nobles as well as its uncorrupted political figures, and it is rumored that if one can get a hold of the shadowy gang, private parties might be able to arrange an assassination for a steep price.
 
 A Night Scale assassin puts much care and time into surveying her targets. She tails them over the course of a week, noting where they go to market, what time they wake up, and whom they talk to on a regular basis. This wealth of information allows the assassin to choose the perfect time and place for an unsuspecting hit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Night%20Scale%20Assassin)
 ```encounter-table
 name: NPC Night Scale Assassin

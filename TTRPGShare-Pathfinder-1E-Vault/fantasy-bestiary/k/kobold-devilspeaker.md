@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kobold Devilspeaker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,9 +78,9 @@ sources:
   - name: Monster Codex
     desc: 134
 ```
-# Description
+## Description
 Kobold priests are charged with ensuring both the spiritual and the physical welfare of a kobold tribe. Though some priests serve the dragon gods, many pay homage to Asmodeus, seeing in Hell the perfect embodiment of a lawful evil society. These devilspeakers believe a tribe should work like a well-oiled machine, and while kobolds’ natural cowardice sometimes gets in the way, devilspeakers keep their warriors fighting bravely-whether the troops like it or not. Devilspeakers keep spells like animate dead handy, turning fallen kobold warriors into zombies. These kobold zombies effectively soften up invading adventurers, and dig tirelessly in the mines.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kobold%20Devilspeaker)
 ```encounter-table
 name: Kobold Devilspeaker

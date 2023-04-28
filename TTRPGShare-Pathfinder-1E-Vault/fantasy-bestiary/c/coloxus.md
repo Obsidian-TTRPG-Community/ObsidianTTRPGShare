@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coloxus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,7 +66,7 @@ sources:
     desc: 72
 desc_short: This figure would be the picture of elegance and refinement were it not for its grotesque fly head and shivering insectile wings.
 ```
-# Description
+## Description
 Coloxus demons, known also as fly demons, resemble humans with the head of a fly and twin pairs of gossamer wings. Even their smallest movements and gestures seem infused with manic quickness and alertness. A coloxus prefers to wear opulent clothing and jewels that would rival the wealthiest nobility of any race. A coloxus is 6 feet tall and weighs 150 pounds.
 
 Ironically-given their grotesque, insectile appearance-coloxus demons are demons of vanity. They are formed from the souls of narcissistic mortals responsible for disasters or tragedy through their careless self-absorption.
@@ -72,7 +74,7 @@ Ironically-given their grotesque, insectile appearance-coloxus demons are demons
 Despite their foul appearance, coloxus demons consider themselves cultured and elite. They are unusually patient and well mannered for demons, and as a result are often used as emissaries, diplomats, and negotiators by marilith generals, balors, and even demon lords. Even when facing hated foes, coloxus demons are the epitome of courtesy, but such manners are always a deceitful veneer, masking the creatures’ efforts to gain the upper hand.
 
 Evil mortal spellcasters are fond of conjuring coloxus demons for similar roles, but the monsters also work well as assassins. Even in this role, a coloxus is dignified and polite. Only when presented with a reflection of itself does the normally civilized coloxus show its true demonic colors-any creature foolish enough to trick a coloxus into looking at a mirror finds herself the eternal foe of an insulted and scandalized demon.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coloxus)
 ```encounter-table
 name: Coloxus

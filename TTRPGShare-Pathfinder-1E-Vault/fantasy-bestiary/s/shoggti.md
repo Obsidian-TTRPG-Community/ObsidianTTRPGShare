@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shoggti
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,13 +70,13 @@ sources:
     desc: 225
 desc_short: This pale creature has four suckered arms that end in pincers. A gnashing maw gapes in its head between two staring eyes.
 ```
-# Description
+## Description
 The shoggti are masters of mind manipulation, capable of seizing control of the thoughts of others and charming them into docile allies. They invade other realms in slaver bands, seeking out creatures to capture alive and return to the Abyss as charmed slaves-the fates of these poor souls is unknown, but likely has something to do with the qlippoth drive to reclaim the Abyss as their own.
 
 Although a shoggti lacks proper hands, it is capable of performing incredibly dextrous manipulations with the pincers at the tips of its tentacles. It cannot wield weapons in these pincers, but it can utilize magic items like wands, rods, staves, and the like. Shoggti are fond of wands in particular, particularly those that create mind-affecting effects that are easy to inflict on victims of their braincloud ability.
 
 A shoggti’s body is an egg-shaped mass about 8 feet long-its tentacles are about 8 feet long as well. The whole creature weighs 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shoggti)
 ```encounter-table
 name: Shoggti

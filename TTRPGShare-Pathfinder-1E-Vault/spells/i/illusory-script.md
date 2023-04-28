@@ -1,19 +1,21 @@
 ---
-alias: Illusory Script
+aliases: [Illusory Script]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Illusory Script 
+## Illusory Script
 
 **source**:: PRPG Core Rulebook pg. 299  
 **school**:: illusion (phantasm) (mind-affecting)
 **level**:: arcanist 3, bard 3, mesmerist 3, occultist 3, psychic 3, redmantisassassin 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute per page  
 **components**:: V, S, M (lead-based ink worth 50 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one touched object weighing no more than 10 lbs.  
@@ -21,7 +23,7 @@ alias: Illusory Script
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You write instructions or other information on parchment, paper, or any suitable writing material. The *illusory script* appears to be some form of foreign or magical writing. Only the person (or people) designated by you at the time of the casting can read the writing; it's unintelligible to any other character.  
   

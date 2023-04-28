@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frost Giant Jarl
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
   - name: Monster Codex
     desc: 75
 ```
-# Description
+## Description
 Jarls rule their tribes and subordinates with an iron fist-or a hammer to the skull. Jarls take and hold their positions through force. While many might wish to see their stations pass on to their progeny, heredity carries little weight in frost giant society, and jarls understand that their children can assume power only by violently seizing it. As a result, frost giant jarls are hard on their children, encouraging sibling rivalries in hopes that one child will eventually prove strong enough to rule.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frost%20Giant%20Jarl)
 ```encounter-table
 name: Frost Giant Jarl

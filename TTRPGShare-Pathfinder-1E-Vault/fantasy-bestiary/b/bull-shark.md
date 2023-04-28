@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bull Shark
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,11 +42,11 @@ sources:
     desc: 241
 desc_short: This sleek, gray predator weaves back and forth through the water with savage grace.
 ```
-# Description
+## Description
 This shark is named for its stocky shape, flat snout, and aggressively territorial behavior. Its natural environment brings it close to humanoid prey, and it has been known to attack fishers, swimmers, rafts, and canoes. Though it prefers salt water, it can tolerate fresh water, and can leap over obstacles like low rapids. These qualities make it a terrifying aquatic predator that can travel dozens of miles up rivers in search of prey, striking in secluded swimming holes and placid lakes.
 
 A bull shark is over 7 feet long and weighs roughly 250 pounds. Female bull sharks are slightly larger than males.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bull%20Shark)
 ```encounter-table
 name: Bull Shark

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sentinel Hut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 60
 desc_short: This strange windowless cabin, with a steep thatched roof and a single door painted red, stands on an enormous pair of knobby legs.
 ```
-# Description
+## Description
 Though few have seen Baba Yaga’s Dancing Hut and lived to tell the tale, many scholars believe that these bizarre constructs, created by the White Witches of Irrisen, were modeled after their mother’s miraculous artifact. Used primarily as sentinels on Irrisen’s borders, these quaint hovels on stilt-like legs surprise passersby when they move in an almost comical dancing strut.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sentinel%20Hut)
 ```encounter-table
 name: Sentinel Hut

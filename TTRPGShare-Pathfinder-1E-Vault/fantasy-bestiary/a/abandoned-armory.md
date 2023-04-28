@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Abandoned Armory
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 82
 desc_short: This aggregation of weapons, armor, and other tools of war looms like a slow avalanche of twisted iron and eldritch sparks.
 ```
-# Description
+## Description
 An abandoned armory is an animated mass of weapons and armor, both magic and mundane, as well as spell-imbued items of offensive utility. Moving with uncanny locomotion, these constructs scour battlefields seeking objects of war that once held special significance to previous owners who were slain in combat. Due to the faint psychic imprints of the slain combatants from which they collect these artifacts, abandoned armories make it their mission to reunite the items with their past owners or find new owners worthy of wielding their finds. This process proves to be fatal, however, as the constant psychic echoes cause an abandoned armory to believe everyone is unworthy and slay them in hopes of finding a new suitable owner for that individual’s equipment. This behavior has led abandoned armories to become something to be feared on the battlefield as they tear through an area, slaying every combatant they encounter.
 
  An abandoned armory is roughly 15 feet wide, cresting up to 20 feet tall, and weighs about 15 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Abandoned%20Armory)
 ```encounter-table
 name: Abandoned Armory

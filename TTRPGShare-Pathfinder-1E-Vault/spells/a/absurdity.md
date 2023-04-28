@@ -1,19 +1,21 @@
 ---
-alias: Absurdity
+aliases: [Absurdity]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Absurdity 
+## Absurdity
 
 **source**:: Horror Adventures pg. 108  
 **school**:: illusion (phantasm) (emotion, mind-affecting)
 **level**:: bard 2, medium 2, mesmerist 2, psychic 2, skald 2, spiritualist 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: up to one creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Absurdity
 **saving-throw**:: Will negates
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Your targets perceive intimidation and threats as laughably absurd. A character attempting to intimidate your targets is instead perceived as having exaggerated facial features or babbling and awkward speech. Effects that impose fear conditions become objects of ridicule, with the targets making fun of the source of the object as it attempts to scare them.  
   

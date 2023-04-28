@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Snapping Turtle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 273
 desc_short: A thick shell encases this reptile’s body, from which only its tail, its feet, and a head fitted with powerful jaws emerge.
 ```
-# Description
+## Description
 Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master  a +2 bonus on all Fortitude saves.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Snapping%20Turtle)
 ```encounter-table
 name: Snapping Turtle

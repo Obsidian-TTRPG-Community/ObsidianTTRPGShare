@@ -1,25 +1,27 @@
 ---
-alias: Blink
+aliases: [Blink]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Blink 
+## Blink
 
 **source**:: PRPG Core Rulebook pg. 250  
 **school**:: transmutation
 **level**:: arcanist 3, bard 3, magus 3, psychic 3, redmantisassassin 3, skald 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 You “blink” quickly back and forth between the Material Plane and the Ethereal Plane and look as though you're winking in and out of reality at random. *Blink* has several effects, as follows.  
   
@@ -43,7 +45,7 @@ An ethereal creature can see and hear the Material Plane, but everything looks g
   
 Force effects and abjurations affect you normally. Their effects extend onto the Ethereal Plane from the Material Plane, but not vice versa. An ethereal creature can't attack material creatures, and spells you cast while ethereal affect only other ethereal things. Certain material creatures or objects have attacks or effects that work on the Ethereal Plane. Treat other ethereal creatures and objects as material.
 
-## Mythic Blink 
+## Mythic Blink
 
 **source**:: Mythic Adventures pg. 86  
 You may spend a move action to remain corporeal or incorporeal until the end of your turn (you automatically resume blinking at the end of your turn).  

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skaveling Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 61
 desc_short: Additional straps and hooks concealed beneath this muscular horror’s cloak secure it to the saddle of the rotting, flapping undead monstrosity he rides.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skaveling%20Rider)
 ```encounter-table
 name: Skaveling Rider

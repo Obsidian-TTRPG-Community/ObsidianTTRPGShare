@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sewer Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 232
 desc_short: This creature looks like a lanky, underfed troll. Its oversized claws drag along the ground, and its large eyes glow with inner light.
 ```
-# Description
+## Description
 Sewer trolls are close relations to both common trolls and scrags. They are much smaller, however, only weighing around 200 pounds and reaching up to 6 feet tall. Like normal trolls, sewer trolls possess regenerative powers that allow them to recover from almost any wound and even regrow limbs, though these powers can be thwarted by fire or acid. Their regeneration is significantly slower than a normal troll’s, however.
 
 Unlike the eyes of normal trolls, sewer trolls’ eyes are so sensitive to light that they are momentarily blinded by bright lights. Their eyes absorb ambient light, which damages the slimy membrane that covers them. As the membrane regenerates, a strange reaction causes the eyes to glow orange.
@@ -62,7 +64,7 @@ Sewer trolls can eat almost anything, but prefer fresh meat, and like normal tro
 Sewer trolls tend to lair underground in areas with a large prey population or ample sources of other nutrients. While sewer trolls are common in some of the immense caves deep underground, their name derives from their lairs under the cities of the surface world. A major city often hosts dozens of the creatures, living in small family groups or lairing on their own. They rarely leave the sewers because of their light blindness, but they have been known to hide just below sewer grates and snatch children who walk too close. In times of desperate hunger, sewer trolls may leave the sewers, invariably at night. They stick to the shadows and ambush lone walkers, or sneak through windows to snatch babies from their cribs. Sewer trolls outside of their native environment are easily scared, but woe to the unprepared foe who follows them back into the sewers.
 
 Sewer trolls sometimes join groups of normal trolls or, being semiaquatic, groups of scrags, to benefit from safety in numbers. Their smaller size and weakness mean they’re often bullied by their more dangerous cousins, but many sewer trolls accept this as inevitable. They typically have to do menial chores, like collecting rodents to eat if bigger game is scarce, or being the first to venture into unexplored caves, in exchange for protection.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sewer%20Troll)
 ```encounter-table
 name: Sewer Troll

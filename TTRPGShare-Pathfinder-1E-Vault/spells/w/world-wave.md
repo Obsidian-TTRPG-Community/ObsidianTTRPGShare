@@ -1,19 +1,21 @@
 ---
-alias: World Wave
+aliases: [World Wave]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# World Wave 
+## World Wave
 
 **source**:: Advanced Player's Guide pg. 256  
 **school**:: transmutation (earth, water)
 **level**:: arcanist 9, druid 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **effect**:: see text  
@@ -21,7 +23,7 @@ alias: World Wave
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You cause any sort of natural terrain (including water, forest, desert, tundra, and so on) to surge beneath your feet and safely propel you with devastating force over great distances. This wave of terrain undulates as it passes over the world, harmlessly lifting or stretching objects, creatures, and phenomena with a connection to nature but tearing through and damaging anything else it encounters. When you cast the spell you must choose the wave’s type, either a tsunami or a swell. If you choose a tsunami, you create a 30-foot-high tidal wave of earth or water hurtling across the landscape that lasts for 1 round per level. If you choose a swell, you create a more controlled and gentle 5-foot-high wave that lasts for 1 hour per level. Regardless of its form or composition, the crest of the wave extends 10 feet in front of and behind you, and 5 feet per level to both your left and right. You can stand or sit on the crest of this wave without any fear of falling off it and can even lie down and sleep (or take any other actions you could take if standing on solid ground) as it travels. You can grant up to one additional creature per level the ability to safely accompany you on this wave.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lythirium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 86
 desc_short: This wolflike creature’s body is composed of thick vines, fine vegetation that almost resembles fur, and enormous thorns. Its eyes shine with a green glow, and prickly vines cover the immense, antlerlike growths on its head.
 ```
-# Description
+## Description
 Savage hunters of those who would harm their habitats, lythiriums prowl Golarion’s densest forests, seeking to protect the wild, untouched natural growth they hold sacred. While they have lived on the Material Plane for millennia, lythiriums are actually descended from primordial beasts native to the First World-creatures that fused plant and animal so seamlessly they seemed both and neither simultaneously. Peering out of seedpod eyes that radiate a soft green glow, lythiriums have exceptionally keen senses; they are not shy about preserving their forests, and they deliver their warnings in rasping voices reminiscent of leaves blowing across the earth.
 
  At its haunches, a lythirium measures 6 feet in height, with thorns, vines, and flowering blossoms inching ever higher. Its massive body is a matrix of vines, roots, and fine, furry moss and lichens. Immense branches shape its powerful chest and limbs. From thorny head to tail, a lythirium measures 9 feet in length; it can weigh as much as 900 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lythirium)
 ```encounter-table
 name: Lythirium

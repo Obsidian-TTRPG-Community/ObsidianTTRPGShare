@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Star-Spawn of Cthulhu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 90
 desc_short: A mountainous form, this hideous creature is humanoid in general shape, but its hateful face is a writhing mass of tentacles.
 ```
-# Description
+## Description
 Of all the strange and malefic denizens of the void between the stars, few cause the same terror as this titanic race. They hail from a mad star whose light cannot be seen by conventional telescopes, and the smallest of these behemoths stand nearly 30 feet in height. Humanoid in shape, their immense bodies have rubbery flesh that seems to wriggle and seethe like a half-solidified ooze. Tremendous draconic wings, murderous taloned hands, and a tentacled visage that evokes the alien gaze of an octopus complete the being’s monstrous shape. This malevolent race has a name, yet it is no name known to the sane. Among mortal scholars, they are known merely by the name of their greatest priest-they are the starspawn of Cthulhu.
 
 The star-spawn of Cthulhu have a strange, mutable anatomy-their form is not fixed. They can absorb parts of their bodies or enlarge others at will, a trait they often use on their claws or tentacles to dramatically extend their reach in combat beyond what might normally be possible for a creature of the same shape and size. Despite this mutable shape, the star-spawn’s forms generally don’t deviate far from that of an octopus-headed, winged humanoid, likely because of the powerful links their otherworldly minds have to their overlord and master, who lies dead but dreaming in the lost city of R’lyeh.
@@ -84,7 +86,7 @@ The fact that the star-spawn’s plans to bring about the eradication of life sp
 The star-spawn of Cthulhu war with many other strange races out of time and space, including elder things (see page 85) and the servitors of other Great Old Ones (see page 135). They have also been known to use these creatures-and other races such as the mi-go-as pawns, slaves, or minions to promote their immortal agenda.
 
 Though the star-spawn themselves hail from a distant world deep in the void and can be found on countless other realms as gods and monsters, their lord Cthulhu (see page 138) dwells upon a distant planet far removed from any commonly visited world. Yet while Cthulhu lies imprisoned in the corpse-city of R’lyeh deep under a great ocean, his dreams resonate still in the minds of his starspawn, and from there touch upon the dreams of many slumbering poets and philosophers on countless worlds. Guided by their knowledge of their master’s great plan, and updated by his far-reaching dreams, the star-spawn of Cthulhu proceed inevitably toward their goals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Star-Spawn%20of%20Cthulhu)
 ```encounter-table
 name: Star-Spawn of Cthulhu

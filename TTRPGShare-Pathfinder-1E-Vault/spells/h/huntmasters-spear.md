@@ -1,19 +1,21 @@
 ---
-alias: Huntmaster's Spear
+aliases: ["Huntmaster's Spear"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Huntmaster's Spear 
+## Huntmaster's Spear
 
 **source**:: Monster Hunter's Handbook pg. 30  
 **school**:: transmutation
 **level**:: antipaladin 1, bloodrager 2, druid 2, hunter 1, inquisitor 2, magus 2, occultist 2, paladin 1, ranger 1, shaman 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M/DF (see text)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: nonmagical spear touched  
@@ -21,7 +23,7 @@ alias: Huntmaster's Spear
 **saving-throw**:: Will negates (harmless, object)
 **spell-resistance**:: yes (harmless, object)
 
-### Description 
+### Description
 
 Choose one creature type (and subtype, if applicable) from the ranger’s favored enemy list. When you cast this spell, the targeted spear hums with destructive energy and functions as a *+1 spear* against creatures of the selected type.  
   

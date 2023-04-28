@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: King Ragworm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 86
 desc_short: This enormous segmented worm shimmers with iridescent colors, and large bristles run along its sides.
 ```
-# Description
+## Description
 The giant king ragworm, found in the far depths of the ocean, is among the largest of the sea worms. It creates a slime-lined burrow in the ocean floor, where it resides most of the time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=King%20Ragworm)
 ```encounter-table
 name: King Ragworm

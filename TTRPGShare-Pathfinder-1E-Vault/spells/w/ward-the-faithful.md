@@ -1,19 +1,21 @@
 ---
-alias: Ward the Faithful
+aliases: [Ward the Faithful]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ward the Faithful 
+## Ward the Faithful
 
 **source**:: Advanced Player's Guide pg. 256  
 **school**:: abjuration
 **level**:: inquisitor 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: 10-ft.-radius emanation from touched creature  
@@ -21,7 +23,7 @@ alias: Ward the Faithful
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 All creatures within the area who worship the same god as you gain a +2 deflection bonus to AC and a +2 resistance bonus on all saves. At 12th level, these bonuses increase to +3. At 18th level, the bonuses increase to +4.  
   

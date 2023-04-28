@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thoxel Demon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 86
 desc_short: Dead white scars and raw red flesh crisscross this creature’s scorched and sallow skin as though it has been flogged and branded a thousand times.
 ```
-# Description
+## Description
 Able to take the shape of rank-and-file soldiers and infect military ranks like a cancer, thoxels-also known as insubordination demons-spend every drop of their malice to break down the cooperative spirit of those who fight together. Among mortal soldiers, thoxels whisper disparaging words about commanders, talk in hushed tones about the danger of upcoming battles, or belittle other soldiers’ accomplishments. Many great battles are said to have been lost because of the presence of these subtle but murderous demons within an army’s ranks. They represent a passion to kill as they please without caring about order, control, or their allies. Despite their skill at martial exploits, thoxels are lazy and untrustworthy creatures. Thoxel demons are 6 feet tall and weigh 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thoxel%20Demon)
 ```encounter-table
 name: Thoxel Demon

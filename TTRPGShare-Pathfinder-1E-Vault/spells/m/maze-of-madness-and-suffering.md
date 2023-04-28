@@ -1,19 +1,21 @@
 ---
-alias: Maze of Madness and Suffering
+aliases: [Maze of Madness and Suffering]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Maze of Madness and Suffering 
+## Maze of Madness and Suffering
 
 **source**:: Horror Adventures pg. 122  
 **school**:: conjuration (teleportation) (evil, mind-affecting)
 **level**:: arcanist 9, psychic 9, sorcerer 9, witch 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (an ornate puzzle box worth 1,000 gp and soaked in fresh blood)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Maze of Madness and Suffering
 **saving-throw**:: Will partial, see below
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell works like *maze*, except the DC of the Intelligence check to escape is 22 and each round a creature remains in the maze a different effect occurs depending on which section of the maze it is in. Roll on the following table each time the creature attempts an Intelligence check to escape the maze to see which part of the maze it wanders through; if a creature doesn’t attempt an Intelligence check, it stays in the same section and suffers that section’s effects. Any conditions or damage taken persist for the listed duration even if the creature exits the maze before then, but conditions don’t stack with themselves.
 

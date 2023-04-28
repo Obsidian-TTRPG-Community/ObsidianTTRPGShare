@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Toad
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 268
 desc_short: Stubby warts dot the skin of this horse-sized brown toad. Its throat bulges and ripples as though about to croak.
 ```
-# Description
+## Description
 Most giant toads live in dryer areas after maturing, returning to the water only to mate and give birth.
 
 Giant toad companions are identical to giant frog companions (Pathfinder RPG Bestiary 135), save that they lack the frog’s tongue and pull abilities. Instead, they gain the poison skin ability at 4th level.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Toad)
 ```encounter-table
 name: Giant Toad

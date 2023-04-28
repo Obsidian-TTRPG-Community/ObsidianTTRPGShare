@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Azgenzak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 82
 desc_short: This undulating, amorphous sac is a turgid, brown-black mass scarcely hiding a seething jumble of rounded subcutaneous masses churning within. One end opens into a yawning maw, revealing a fiery cauldron of innumerable, lidless eyeballs of every size, shape, and color, each wreathed in sooty orange flame. 
 ```
-# Description
+## Description
 Azgenzaks, also called more prosaically “sacks of burning eyes,” are shapeless predators of unfathomable appetites and undeniable malevolence. They might have congealed into existence within some forgotten crack of the Outer Rifts, escaping (or being set loose) into the Material Plane ages ago. However, many theorize that these beings are entirely natural, primeval creatures that fell into savagery or never evolved from their primitive state in the first place. Azgenzaks are roughly 8 feet in diameter and weigh over 800 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Azgenzak)
 ```encounter-table
 name: Azgenzak

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xulgath
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 61
 desc_short: A rigid crest runs from the head of this bipedal lizard to the tip of its long tail, and oil glistens on its scales.
 ```
-# Description
+## Description
 Xulgaths are the proud remnants of Golarion’s oncemighty troglodyte empires. While their kin have become degenerate cave dwellers, xulgaths live in cities along the lakes of Deep Tolguth. Though not the original inhabitants of these strange cities, the xulgaths zealously guard their homes from intruders. They are particularly fanatical in the defense of their central temple, a 900-foot-tall ziggurat built upon an island directly beneath Deep Tolguth’s false sun. Outsiders claim that a connection exists between the sun and the temple, and attribute the xulgaths’ intelligence and powers to this mysterious link.
 
 Xulgaths use the great beasts of Deep Tolguth as mounts and guardians, and the surrounding tribes of primitive humanoids as a source of food and slaves. Xulgaths never take troglodyte slaves, preferring instead to slaughter their miserable kin on sight. They are patient and cruel, and believe it is only a matter of time before their dark gods arise and help them reclaim their fallen empire.
 
 A typical xulgath stands nearly 6 feet tall and weighs about 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xulgath)
 ```encounter-table
 name: Xulgath

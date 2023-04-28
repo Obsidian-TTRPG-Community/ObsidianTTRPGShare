@@ -1,19 +1,21 @@
 ---
-alias: Infuse Decay
+aliases: [Infuse Decay]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Infuse Decay 
+## Infuse Decay
 
 **source**:: Curse of the Crimson Throne (PFRPG) pg. 453  
 **school**:: necromancy (evil)
 **level**:: arcanist 4, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, F (a set of fine mortician's tools worth 100 gp)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **area**:: corporeal undead touched; see text  
@@ -21,7 +23,7 @@ alias: Infuse Decay
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions as per imbue with spell ability, except it can only target corporeal undead creatures, and can only transfer touch spells. The number and level of spells the subject can be granted depends on the undead creature’s Hit Dice; even multiple castings of infuse decay can’t exceed this limit.  
   

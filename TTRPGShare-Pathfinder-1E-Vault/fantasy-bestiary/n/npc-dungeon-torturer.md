@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Dungeon (Torturer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
   - name: GameMastery Guide
     desc: 271
 ```
-# Description
+## Description
 Torturers, hated by nearly everyone, are kept in the dark corners of tyrannical lords’ castles to subject their prisoners to unspeakable torments with fire, acid, persuasion, intimidation, delicate instruments, or even their bruising fists. Sometimes these encounters are quests for truth, other times merely grim entertainments, but they always involve inflicting pain.
 
 Torturers can be used as pit fighters, royal headsmen, gladiatorial trainers, or drill sergeants in cruel armies. Torturers might also be sadistic castle guards or even members of the city watch in especially brutal cities. The dungeons beneath a temple to an evil god could also have torturers on hand for sacred rituals.
 
 A torturer often has a turnkey or a pair of street thugs as brutish assistants (CR 6). Some torturers are accompanied by four guards or two slavers instead (CR 7). A torturer might be paired with a slayer (CR 9), or two torturers could serve a guild master (CR 11).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Dungeon%20(Torturer))
 ```encounter-table
 name: NPC Dungeon (Torturer)

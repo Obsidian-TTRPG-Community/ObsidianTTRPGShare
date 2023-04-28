@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Champion Automaton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 22
 desc_short: This large construct has arms that end in massive pincers, and the core in the center of its head glows with an unrivaled ferocity.
 ```
-# Description
+## Description
 Of all the warriors of the Artificer Conclave, champion automatons are the best suited for combat. Before the empire’s collapse, champion automatons served on the front lines of the Jistka Imperium’s armies, facing the empire’s foes head-on. Although champion automatons were not invincible, most who encountered one, let alone a battalion of them, were quick to face defeat.
 
  Champion automatons are enormous constructs typically made from a combination of magically treated stone and metal, which allows them to withstand the powerful blows typically encountered in battle. Although these bodies are extremely heavy, the magical energies that power them allow the automatons to move as quickly as most other combatants, if not faster. A typical champion automaton is 14 feet tall and weighs 2 tons, though the Artificer Conclave created some bigger champion automatons to take on the largest enemy genies, with some reaching as much as 40 feet in height.
@@ -84,7 +86,7 @@ Of all the warriors of the Artificer Conclave, champion automatons are the best 
  Many champion automatons abandoned their posts once the Jistka Imperium’s demise was a certainty. Those who remained eventually faced destruction on the battlefield. The rest sought other fights, traveling to the far corners of Golarion-an effort that continues to this day. Historical footnotes mention terrifying constructs jumping into great battles, seemingly without an agenda. These mysterious constructs would fight against whichever side seemed strongest, only to depart as quickly as they arrived once they appeared satisfied with the outcome of the battle. Even today, these champion automatons show up in areas such as the Worldwound, the furthest depths of the Darklands, Iscadero Island in Arcadia, and the Valashmai Jungle in Tian Xia.
 
  Of the champion automatons that left Golarion, most now reside in the city of Axis, finding satisfaction in their existence and taking on more subdued lives in the planar city when not seeking battle on the planes. Occasionally, these automatons join inevitables in their missions, serving as additional muscle when the outsiders need assistance but wish to avoid pulling other inevitables away from their duties. Champion and stalker automatons frequently cross paths in Axis, as their automaton cores have a tendency to subtly pull towards each other, and they often meet up to spar or trade old tales of battles long forgotten by history. One group of champions and stalkers unites once a decade to host a simple tournament on the outskirts of Axis. The tournament invites all combatants within the city to test their prowess against the automatons, with the winner awarded the title of a lost Jistkan hero.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Champion%20Automaton)
 ```encounter-table
 name: Champion Automaton

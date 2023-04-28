@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Expert Bodyguard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 269
 ```
-# Description
+## Description
 A bodyguard carries many scars from attempts on her employer’s life. Unlike a common guard or even a grizzled old mercenary, she is willing to die to protect her charge if that is the only way to keep him safe. If given the option to sacrifice her own life to save him or flee to save herself, she’ll choose the former.
 
 A skilled bodyguard focuses her attention on her employer and any potential threats to his safety. She searches rooms before he enters, frisks unexpected guests for weapons, and may drive his chariot or employ common guards she trusts to do so.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Expert%20Bodyguard)
 ```encounter-table
 name: NPC Expert Bodyguard

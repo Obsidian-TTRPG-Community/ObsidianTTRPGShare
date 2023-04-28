@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hollow Serpent
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 149
 desc_short: An unseen breeze stirs the desiccated scales of this immense snakeskin, causing the shedding’s frayed, dried edges to flutter with a semblance of life. Pinpoints of unholy green light flare behind the intact eye lenses as the head starts to rise. The same glow behind those long-dead eyes illuminates a gaping mouth and bony fangs. Then a terrifying, painful hiss assaults your mind as the serpent slithers forward with a silent, unearthly grace.
 ```
-# Description
+## Description
 Among the many manifestations of serpentfolk faith, the hollow serpent represents one of the most horrific harbingers of doom. Serpentfolk legend suggests Ydersius created the first hollow serpents as protectors and guardians for their underground enclaves. But serpentfolk priests soon learned how to make more, worshiping and cultivating the skin sheddings of monstrously giant snakes with rituals to turn them into engines of destruction. Capable of laying waste to entire regions, the hollow serpents used their life-draining coils to slay the enemies of the serpentfolk, proving particularly effective against the Azlanti empire in the early years of the serpentfolk’s age-long struggle against humanity. Eventually, however, the Azlanti learned to combat these skins with positive energy and fire. With the retreat of the mighty snake-god and his people into the shadows of the Darklands, serpentfolk priests have hoarded the most potent of these defenders as guardians of the hibernation chambers of the serpentfolk elite.
 
 A typical hollow serpent measures a little over 15 feet long and weighs 500 pounds. A lesser hollow serpent is 7 feet long and weighs just 90 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hollow%20Serpent)
 ```encounter-table
 name: Hollow Serpent

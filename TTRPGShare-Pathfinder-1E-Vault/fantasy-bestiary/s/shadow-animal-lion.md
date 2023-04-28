@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Animal Lion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 60
 desc_short: This lion has washed-out coloration and a sharp shadow that extends an unnaturally long distance from its claws.
 ```
-# Description
+## Description
 Dread energies from the Plane of Shadow have leaked into the countryside of Nidal for thousands of years, pooling in shadowed groves and along darkened hillsides. Although normal animals shun these shadow-haunted regions, hunger or adversity sometimes compels a creature to enter them. Some animals who do so are wholly transformed by these energies, becoming shadow animals.
 
  Shadow animals are more than mere animals, becoming hunters bleached of bright colors and commanding unusual predatory powers. Even herbivores that undergo this transformation become short tempered and dangerous.
 
  Shadow animals have the brute cunning to understand spoken language, but they generally cannot speak.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Animal%20Lion)
 ```encounter-table
 name: Shadow Animal Lion

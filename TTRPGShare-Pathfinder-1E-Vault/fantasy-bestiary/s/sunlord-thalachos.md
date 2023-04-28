@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sunlord Thalachos
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,9 +74,9 @@ sources:
     desc: 86
 desc_short: This platinum-skinned, four-armed angelic being glows with the power of the sun. He bears two flaming scimitars and a bow.
 ```
-# Description
+## Description
 Sunlord Thalachos is Sarenrae’s favorite angel, serving as her liaison to the mortal world, the hosts of astral devas, and the ranks of other celestial rulers. He is the champion of the Dawnflower and her favorite weapon against the spawn of Rovagug. The herald stands 8 feet tall and weighs 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sunlord%20Thalachos)
 ```encounter-table
 name: Sunlord Thalachos

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Whisperfall Vulture
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 56
 desc_short: This dark-winged vulture has a wickedly hooked beak stained with bright red blood.
 ```
-# Description
+## Description
 This relative of the common vulture is most often found in the region of Whisperfall Pass. Unlike its scavenging cousin, the Whisperfall vulture is a hunter, taking down rabbits and other small game with ease thanks to its speed and surprising agility. Hungry flocks of these birds of prey can even take down a human adult by sheer force of numbers.
 
  Whisperfall vulture eggs are a delicacy, and those who can find and claim them can make a good amount of money selling them to merchants in Urgir.
 
  A mature Whisperfall vulture has an 8-foot-long wingspan and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Whisperfall%20Vulture)
 ```encounter-table
 name: Whisperfall Vulture

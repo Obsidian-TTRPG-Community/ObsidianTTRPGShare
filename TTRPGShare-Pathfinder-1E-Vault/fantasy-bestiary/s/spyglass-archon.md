@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spyglass Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 61
 desc_short: The movements of this black-skinned humanoid are unnaturally quiet, clearly belonging to one used to slinking unseen and unheard through dark places. Ebon wings and a matching mask complete this figure’s stealthy appearance. 
 ```
-# Description
+## Description
 Spyglass archons act as spies in the interests of Heaven. Though as lawful as any of their kin, spyglass archons use guile and stealth to uncover evil’s plans and bring reports back to Heaven. Unlike hound archons, who act more as military scouts and sentinels, spyglass archons infiltrate enemy strongholds and observe agents of evil from scarcely an arm’s-breadth away. 
 
 Spyglass archons believe in law as strongly as they do in good, and are careful to act lawfully in their search for information. In places where law forbids a spyglass archon from entering a building and eavesdropping, it may hide in the shadows of public areas or conceal itself near windows to watch for evidence of evildoing. Once an archon has sufficient information to report, it returns to Heaven, where it shares its findings with its superiors. 
@@ -70,7 +72,7 @@ Since their tasks require discretion, spyglass archons train in multiple discree
 Souls that become spyglass archons are solitary by nature, so they have few qualms about the isolation entailed by work. Most of their missions require intense concentration and skill, and are most easily undertaken by a single individual, but 2 spyglass archons might work together on extremely difficult, multipart missions. 
 
 Spyglass archons are just over 5 feet tall and weigh almost 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spyglass%20Archon)
 ```encounter-table
 name: Spyglass Archon

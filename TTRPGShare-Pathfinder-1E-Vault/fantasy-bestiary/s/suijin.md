@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Suijin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 88
 desc_short: This massive, serpentine carp explodes forth from the water, its rainbow-colored scales gleaming in the sunlight and glossy eyes bright with good-natured intelligence.
 ```
-# Description
+## Description
 Suijins are the kami of lakes, ponds, springs, and wells. When they are not merged with their wards, these spirits of nature resemble giant carp or sea serpents, usually beautiful specimens with rainbow scales. While they are as benevolent and well meaning as all other kami, suijins are often mistaken for beasts of the waters they inhabit, and are thus feared by superstitious or simple-minded creatures. Those who encounter suijins know better than to believe such unfounded fears, however, as the kami often only emerge from their wards in order to protect innocent creatures in trouble near its waters. Considered reclusive even by other kami, a suijin usually tries to protect creatures within its wards by covert means if at all possible, slowing the f low of its waters’ currents or pushing struggling creatures to shore via magic. Suijins are infinitely patient, and though most enjoy helping creatures, those in more remote regions are just as content to simply exist among their waters, protecting their wards from those who would seek to defile them. The general attitude among most suijins is often one of simple acceptance of things as they are, based on the belief that all things are f luid and subject to change; even the largest lakes are bound to recede or expand, and even the most eternal kami are not entirely permanent, a point proven by the vicious oni.
 
 In its true form, a typical suijin is 15 feet long and weighs about 1,200 pounds, though numerous rumors suggest that lesser and greater suijins do exist in some parts of the world, typically residing in bodies of water that are proportionate to the kami’s size and power.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Suijin)
 ```encounter-table
 name: Suijin

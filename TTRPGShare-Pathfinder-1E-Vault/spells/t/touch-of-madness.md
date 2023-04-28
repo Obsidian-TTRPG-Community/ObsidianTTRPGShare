@@ -1,18 +1,20 @@
 ---
-alias: Touch of Madness
+aliases: [Touch of Madness]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Touch of Madness 
+## Touch of Madness
 
 **source**:: Pathfinder Campaign Setting pg. 207  
 **school**:: enchantment (mind-affecting)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creature touched  
@@ -20,6 +22,6 @@ alias: Touch of Madness
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 On a successful touch attack, you daze a creature that fails a save.

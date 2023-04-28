@@ -1,25 +1,27 @@
 ---
-alias: Mythic Monstrous Physique III
+aliases: [Mythic Monstrous Physique III]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Monstrous Physique III
+## Mythic Monstrous Physique III
 
 **source**:: Mythic Adventures pg. 102  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 5, arcanist 5, investigator 5, magus 5, sorcerer 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of the creature whose form you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level (D)
 
-### Description 
+### Description
 
 This spell functions as *monstrous physique II*, except it also allows you to assume the form of a Diminutive or Huge creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, blood frenzy, cold vigor, constrict, ferocity, freeze, grab, horrific appearance, jet, leap attack, mimicry, natural cunning, overwhelming, poison, pounce, rake, sound mimicry, speak with sharks, trample, trip, and web. If the creature has the undersized weapons special quality, you gain that quality.  
   

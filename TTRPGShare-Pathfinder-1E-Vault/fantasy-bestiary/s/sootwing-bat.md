@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sootwing Bat
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 88
 desc_short: This batlike creature has jagged points at the tips of its wings and a long, lashing tongue.
 ```
-# Description
+## Description
 Ghoul spellcasters use these smaller cousins to skavelings as familiars. An evil spellcaster can gain a sootwing bat as a familiar at 5th level by taking the Improved Familiar feat. A sootwing bat familiar grants its master a +1 bonus to channel resistance (if the master has any).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sootwing%20Bat)
 ```encounter-table
 name: Sootwing Bat

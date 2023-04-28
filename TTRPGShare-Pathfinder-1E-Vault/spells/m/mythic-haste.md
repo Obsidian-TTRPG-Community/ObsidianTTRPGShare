@@ -1,19 +1,21 @@
 ---
-alias: Mythic Haste
+aliases: [Mythic Haste]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Haste
+## Mythic Haste
 
 **source**:: Mythic Adventures pg. 97  
 **school**:: transmutation
 **level**:: alchemist 3, arcanist 3, bard 3, bloodrager 3, investigator 3, magus 3, medium 2, occultist 3, psychic 3, redmantisassassin 3, skald 3, sorcerer 3, spiritualist 3, summoner 2, summoner (unchained) 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a shaving of licorice root)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/level, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Mythic Haste
 **saving-throw**:: Fortitude negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 The transmuted creatures move and act more quickly than normal. This extra speed has several effects.  
   

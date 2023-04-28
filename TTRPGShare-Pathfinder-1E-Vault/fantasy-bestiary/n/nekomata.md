@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nekomata
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 201
 desc_short: This oversized house cat has two twitching tails and a malevolent gleam in its eyes.
 ```
-# Description
+## Description
 According to legend, when a house cat lives beyond its normally allotted years, it changes. The cat’s tail splits and the beast becomes a malevolent spirit capable of casting evil spells and taking on humanoid form. It uses these abilities to prey upon mortals, starting with the family that once cared for the cat. 
 
 Nekomatas are cruel, vindictive spirit-creatures that seek to destroy households from within by sowing fear and discord, breaking bonds of love and friendship, and spreading mental and physical illness. A nekomata often starts its campaign of destruction by secretly killing and eating a household servant and then taking on the servant’s appearance. In such a guise, the creature can infiltrate the home and begin working all kinds of mischief, using its innate magical abilities to terrorize the home’s residents, often while enjoying all the comforts that home provides. Ultimately, the nekomata’s goal is to ruin the health and reputation of the head of the house before killing every member of the family. Once its vile work is done, the creature moves on to find another home to destroy. In its true form, a nekomata appears as a two-tailed house cat about 7 feet long and weighing 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nekomata)
 ```encounter-table
 name: Nekomata

@@ -1,25 +1,27 @@
 ---
-alias: Possession Trap
+aliases: [Possession Trap]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Possession Trap 
+## Possession Trap
 
 **source**:: Undead Slayer's Handbook pg. 19  
 **school**:: necromancy
 **level**:: arcanist 5, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a gem or crystal worth at least 500 gp)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 24 hours or until activated (see text); 1 round/level
 
-### Description 
+### Description
 
 You place a protective ward over your spirit that ensnares creatures attempting to possess you. Should a creature attempt to possess you (such as via *magic jar* or a similar effect) while you are under the effects of *possession trap*, that creature must first succeed at a Will save or its possession attempt is ruined and its spirit is shunted into this spell’s focus gem. The trapped creature is contained within the focus gem for 1 round per caster level, acting as though it were trapped in a *magic jar* for the duration of this effect. This effect fails if you are not carrying the focus gem during the time of the possession attempt.  
   

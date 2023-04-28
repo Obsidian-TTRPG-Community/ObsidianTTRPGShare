@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Minotaur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 210
 desc_short: With eyes blazing red and magical runes glowing on its horns, this mighty beast has the body of a man and the head of a bull.
 ```
-# Description
+## Description
 A mythic minotaur is but one or two generations removed from the original curse-born minotaurs that founded their race. Once created to punish to those who disobey or circumvent the orders of the gods, they use their innate magic to imprison, stalk, and consume humanoids-especially the descendants of the royal line whose blasphemy inspired the creation of this new race. Some mythic minotaurs are worshiped as demigods by primitive or fear-stricken humanoids, and accept sacrifices of young men and women to sate their hunger. They usually have custom armor and weapons appropriate for their large, inhuman frames, offered as gifts by worshipers or made by enslaved blacksmiths.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Minotaur)
 ```encounter-table
 name: Mythic Minotaur

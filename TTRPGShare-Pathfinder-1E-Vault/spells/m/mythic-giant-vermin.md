@@ -1,19 +1,21 @@
 ---
-alias: Mythic Giant Vermin
+aliases: [Mythic Giant Vermin]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Giant Vermin
+## Mythic Giant Vermin
 
 **source**:: Mythic Adventures pg. 96  
 **school**:: transmutation
 **level**:: cleric 4, druid 4, hunter 4, oracle 4, shaman 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: 1 or more vermin, no two of which can be more than 30 ft. apart  
@@ -21,7 +23,7 @@ alias: Mythic Giant Vermin
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You turn a number of normal-sized centipedes, scorpions, or spiders into their giant counterparts. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider). The number of vermin which can be affected by this spell depends on your caster level, as noted on the table below.  
   

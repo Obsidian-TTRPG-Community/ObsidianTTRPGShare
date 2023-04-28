@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Marine Crocodile
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 85
 desc_short: This fishlike reptile has a thin, streamlined snout filled with needlelike teeth and a long, flat tail that it uses to propel itself through the water.
 ```
-# Description
+## Description
 The marine crocodile resembles its land-based cousins in general body shape and size, though its legs are a hybrid of webbed feet and nascent fins. Its long tail is thinner and flatter than those of traditional crocodilians, allowing the marine crocodile to swim with alarming speed as it whips its tail back and forth.
 
 Marine crocodiles generally remain in warm, shallow oceans and seas. They spend most of their time at sea hunting fish, sea mammals, aquatic humanoids, and monstrous humanoids like merfolk, sahuagin, and locathahs. Only when breeding and laying eggs do marine crocodiles venture onto land (where they are slow and clumsy), before returning to the sea.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Marine%20Crocodile)
 ```encounter-table
 name: Marine Crocodile

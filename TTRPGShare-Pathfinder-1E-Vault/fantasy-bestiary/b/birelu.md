@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Birelu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,13 +65,13 @@ sources:
     desc: 82
 desc_short: This figure seems caught at the moment of transformation between human and animal. Though its bearded face seems like a man’s, its head is crowned with a rack of antlers, and its hunched body is covered in patches of sleek black fur.
 ```
-# Description
+## Description
 In ages past, humans didn’t live apart from nature as they do now. They had no cities, no farms, and no metal tools. In this primitive time, humans lived as beasts, hunting and foraging in the savage wild, living and dying by the cruel whims of nature. To these early humans, a successful hunt sometimes meant the difference between the life of the tribe and utter extinction. For this reason, the land and the animals who lived on it commanded great respect among the tribes. The environment represented more than just food or clothing or territory; it was an ally, an enemy, or even a god unto itself.
 
 There was need in those days for people who could pass from the physical world and into the world of the spirits, where they could intercede with the spirits of the land and the animals to ensure the tribe’s survival. From this need came the birelus, manifestations of humankind’s desire to bridge the boundary between humans and nature. These ancient beings served as guardians and travelers of the paths between worlds.
 
 A birelu seems to both stand upright and walk upon all fours at the same time, its form shifting and flowing incomprehensibly between the two poses. Even while partially hunched in this manner, a birelu stands over 7 feet tall when in its natural state.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Birelu)
 ```encounter-table
 name: Birelu

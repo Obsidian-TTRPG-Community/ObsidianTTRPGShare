@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Entertainer (Storyteller)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
   - name: GameMastery Guide
     desc: 272
 ```
-# Description
+## Description
 A storyteller is a traveling raconteur, a collector and performer of tall tales, epic poems, and ancient history. They move from town to town reciting their repertoire and picking up new bits of lore and gossip to pass on at the next town. Taverns and inns frequently contain a storyteller entertaining patrons, but storytellers can also be found performing on the street or in market squares. A storyteller could be used as a town crier or herald, or as a revolutionary or rabble-rouser working to stir up public opinion.
 
 A storyteller can be found working for a barkeep (CR 4) or traveling with an out-of-work caravan guard (CR 3).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Entertainer%20(Storyteller))
 ```encounter-table
 name: NPC Entertainer (Storyteller)

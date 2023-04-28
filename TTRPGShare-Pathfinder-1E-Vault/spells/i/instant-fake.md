@@ -1,19 +1,21 @@
 ---
-alias: Instant Fake
+aliases: [Instant Fake]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Instant Fake 
+## Instant Fake
 
 **source**:: Ultimate Intrigue pg. 217  
 **school**:: illusion (figment)
 **level**:: arcanist 4, bard 3, hunter 3, inquisitor 3, magus 4, mesmerist 3, occultist 3, ranger 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a piece of costume jewlery)
 
-### Effect 
+### Effect
 
 **range**:: 1 object touched  
 **target**:: one object weighting no more than 1 lb./level  
@@ -21,7 +23,7 @@ alias: Instant Fake
 **saving-throw**:: Will disbelief (if interacted with)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create an illusory duplicate of the target item. If you hold the charge on this spell, you can deliver it while touching an object you steal with Sleight of Hand or a steal^APG^ combat maneuver; in this case, the illusion phases into existence exactly as you remove the genuine article, allowing you to instantaneously replace a protected or guarded item with no change in appearance, weight, or other factors.  
   

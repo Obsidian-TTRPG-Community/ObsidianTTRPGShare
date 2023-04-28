@@ -1,19 +1,21 @@
 ---
-alias: Awaken
+aliases: [Awaken]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Awaken 
+## Awaken
 
 **source**:: PRPG Core Rulebook pg. 245  
 **school**:: transmutation
 **level**:: druid 5, hunter 5, shaman 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 24 hours  
 **components**:: V, S, M (herbs and oils worth 2,000 gp), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: animal or tree touched  
@@ -21,7 +23,7 @@ alias: Awaken
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You awaken a tree or animal to human-like sentience. To succeed, you must make a Will save (DC 10 + the animal's current HD, or the HD the tree will have once awakened). The awakened animal or tree is friendly toward you. You have no special empathy or connection with a creature you awaken, although it serves you in specific tasks or endeavors if you communicate your desires to it. If you cast *awaken* again, any previously awakened creatures remain friendly to you, but they no longer undertake tasks for you unless it is in their best interests.  
   

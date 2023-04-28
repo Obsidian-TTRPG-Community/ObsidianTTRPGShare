@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wallaby
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,11 +43,11 @@ sources:
     desc: 27
 desc_short: This bipedal mammal has a long tail, short arms, and long, limber legs that afford a strange hopping gait.
 ```
-# Description
+## Description
 Wallabies are squat mammals that are often mistakenly identified as small kangaroos. Like all marsupials, wallabies carry their newborn young in pouches at the front of their bodies. The wallaby defends itself using its strong hind legs, which it can launch quickly from under its body to deliver a powerful kick that sends would-be predators reeling.
 
  A wallaby stands about 2 feet tall and weighs 20-40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wallaby)
 ```encounter-table
 name: Wallaby

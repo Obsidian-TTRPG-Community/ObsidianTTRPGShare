@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vorvorak
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,13 +72,13 @@ sources:
     desc: 90
 desc_short: A crocodilian head surmounts this creature’s draconic body. Thick scales cover its mottled brown and green hide, and a muscular tail sways menacingly behind it.
 ```
-# Description
+## Description
 Vorvoraks are large, intelligent crocodilians with shadowy magical powers. These reclusive creatures most often make their lairs in the abandoned canals that crisscross the Taldan plains. More commonly known as “canal dragons” or “brown dragons,” vorvoraks are unrelated to true dragons and lack the many abilities and resistances of those more famous creatures. Even so, vorvoraks present a danger to those who intrude upon their claimed territories.
 
  A vorvorak’s body is roughly the shape of a dragon, while its head is that of a crocodile. What can appear at first to be wings on its back are in fact a pair of hard fins. A vorvorak’s scales are usually muddy brown in color, occasionally accented with moss-green spots or stripes.
 
  An average vorvorak is 24 feet long from nose to tail and weighs around 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vorvorak)
 ```encounter-table
 name: Vorvorak

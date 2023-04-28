@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bone Ship
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,7 +65,7 @@ sources:
     desc: 44
 desc_short: Muscle holds together the large bones that form the hull of this ship. Rotting sails hang from masts crafted from gigantic spines.
 ```
-# Description
+## Description
 Predators of the oceans, the hulking undead monstrosities known as bone ships leave devastation in their bloody wakes. Formed from the collective consciousnesses of dead sailors bound within the bleached bones of giant aquatic creatures, bone ships hunt the seas without mercy, destroying ships and slaying the living wherever they are encountered. Bone ships stalk their prey with tenacious intelligence and single-minded purpose. They often trail their quarry for days, relishing the terror their sudden appearance on the horizon causes, and have even been known to continue the chase on land, the many bones of their hulls pulling them over the ground. Bone ships do not care for plunder, seeking only to add more victims to their unholy crews.
 
 The creation of a bone ship can occur in many different ways. Some bone ships arise as servants of evil gods, pawns to their vile wills. Certain powerful necromantic rituals can also create bone ships. Such rituals typically require those performing them to sacrifice dozens of humanoid creatures and trap the victims’ souls. Other bone ships result from ships being destroyed in horrific and catastrophic events. The souls of the sailors who died in such a disaster, unable to find peace, slowly form a bone ship on the ocean’s bottom before rising to the surface to take vengeance on the living. No matter how they’re created, bone ships retain jumbled memories of the previous lives of the souls bound to them-though all bone ships attack any creatures they encounter, each ship’s unique origin and collection of souls burns a particular objective into its very nature. A bone ship created by an evil god might target ships bearing the flags of an opposing faith or enemy of that god, while a bone ship created in a ritual is ingrained with a specific purpose that forces it to enact its creator’s will. Certain bone ships viciously target ships from one or more nations, either those from the dead sailors’ former nation if they seek revenge, or those from a rival nation the sailors hated in life.
@@ -73,7 +75,7 @@ Over time, legends and stories about a bone ship’s capacity for destruction ar
 No living crew-or even other undead creatures-have ever been seen sailing in a bone ship. These undead ships operate independently, and don’t form alliances even with others of their kind. Merely attempting to communicate with a bone ship is dangerous, as even such means as telepathy produce only the howling voices of the suffering, ghostly crew, spreading their insanity to those foolish enough to contact them.
 
 Though a bone ship is a single creature, the numerous souls it contains create a hive mind. A bone ship can reshape certain aspects of its hull by using its knotted muscle to move the bones within it. This transformative ability allows a bone ship to quickly sprout cannons from its hull that can attack in any direction, and each ship keeps a collection of bones and debris within its own body to use as ammunition. It can also tap into the unholy energy giving it unlife to fire a devastating beam of negative energy at its enemies, and those who close with a bone ship find that even its hull has the ability to drain away life force.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bone%20Ship)
 ```encounter-table
 name: Bone Ship

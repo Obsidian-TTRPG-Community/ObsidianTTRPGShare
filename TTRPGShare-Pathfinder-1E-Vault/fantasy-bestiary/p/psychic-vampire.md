@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Psychic Vampire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 58
 desc_short: This fearfully thin man’s skin is tinged with an ashen hue, and his vivid, black eyes burn with a hungry focus.
 ```
-# Description
+## Description
 Much like their more bestial cousins, psychic vampires are undead abominations driven by a terrible hunger. However, unlike vampires and nosferatu, who feed on blood, psychic vampires hunger for the occult energy that fuels the spells of psychic spellcasters. Some scholars confuse psychic vampires with the rare vetala breed of vampires or call them “vetalaranas,” as they steal a more refined form of spiritual energy. For their part, psychic vampires consider vetalas a dying bloodline, and as their own influence increases, they strike against their corpse-possessing kin with impunity.
 
 A psychic vampire is usually born when a creature with psychic potential dies in a state of denial, stubbornly clinging to the material world through sheer willpower. As it dies, the creature attempts to draw on its own psychic energy and that of any living beings around it in order to cling to its mortal existence. It inevitably fails, but if its will is strong enough, it rises again. No longer able to sustain itself using its own mental energy, it hungers for the energy of others. Psychic vampires can’t create spawn, and thus their numbers remain relatively small.
@@ -69,7 +71,7 @@ A psychic vampire is usually born when a creature with psychic potential dies in
 A hungry psychic vampire appears in shades of gray, but when it has gorged on psychic energy, it becomes flushed with natural colors once again, and if it’s careful, it might pass for a living creature. Although sunlight doesn’t harm psychic vampires, they avoid it because their unnatural grayness gives away their true nature. Religious mantras and superstitious antics have no effect on psychic vampires other than to amuse them greatly, although psychic vampires who were religious in life might expect those practices to hold power over them in their undead state and react with fear until they realize the mantras can’t harm them. The only thing that can give a psychic vampire pause is lack of fear in its victims.
 
 The home of a psychic vampire looks deceptively normal, holding fresh food and other supplies that undead creatures don’t need in abundant supply. The fresh food is more than a facade, however; the psychic vampires have it fed to their captives to keep these captives fit for use as possessed bodies and reserves of psychic energy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Psychic%20Vampire)
 ```encounter-table
 name: Psychic Vampire

@@ -1,19 +1,21 @@
 ---
-alias: Hungry Earth
+aliases: [Hungry Earth]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hungry Earth 
+## Hungry Earth
 
 **source**:: Monster Codex pg. 81  
 **school**:: transmutation
 **level**:: arcanist 5, druid 5, hunter 5, sorcerer 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **area**:: 20-foot-radius spread  
@@ -21,7 +23,7 @@ alias: Hungry Earth
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 The ground attempts to pull creatures beneath its surface as if hungry for the flesh of mortals.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Refined Reaver
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: NPC Codex
     desc: 23
 ```
-# Description
+## Description
 Refined reavers mix their savage fury with more refined and civilized weapon attacks and maneuvers, dipping in and out of rage when it suits their purpose. They often work well with groups of allies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Refined%20Reaver)
 ```encounter-table
 name: NPC Refined Reaver

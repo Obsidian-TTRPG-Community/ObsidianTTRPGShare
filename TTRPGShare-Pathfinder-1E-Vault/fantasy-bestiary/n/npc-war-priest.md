@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC War Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
   - name: NPC Codex
     desc: 44
 ```
-# Description
+## Description
 The dwarven war priest serves the god of strength, and uses her divine powers for the glory of war itself.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=War%20Priest)
 ```encounter-table
 name: NPC War Priest

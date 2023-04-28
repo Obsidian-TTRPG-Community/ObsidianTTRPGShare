@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghaele
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -88,9 +90,9 @@ sources:
     desc: 25
 desc_short: This elegantly armored sentinel stands alert, her eyes radiating divine light and her noble blade crackling with power.
 ```
-# Description
+## Description
 Ghaeles are the most knightly of the azatas, hunting fiends, dragons, and undead with equal vigor. Most appear like idealized humans or elves and are quick to smile-and equally quick to strike against those they perceive as wicked.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghaele)
 ```encounter-table
 name: Ghaele

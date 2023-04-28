@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sarcovalt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -68,7 +70,7 @@ sources:
     desc: 313
 desc_short: This horse-sized housefly has a vulture’s neck growing out of its body, capped with a fleshless vulture skull.
 ```
-# Description
+## Description
 Sarcovalts are disgusting carrion-eating servants of Urgathoa that pick over the filth and the remnants of devoured souls in her planar realm. They have little personal identity and barely remember events more than a few hours old. While they are intelligent enough to converse and recognize their own kind, other servitors of the Pallid Princess, and daemons, they tend to think of other creatures as either threats or food. Sarcovalts sometimes work together to kill larger prey, but are usually content to eat scraps left behind by more powerful outsiders.
 
 A sarcovalt resembles an enormous fly with a vulture’s neck-but instead of a fleshy head, its head is the naked skull of a vulture with glistening black eyes. When its skull is detached, its bald neck ends in a stump of tattered flesh. It savors the opportunity to drink blood, but cannot swallow it, and therefore its skull is normally painted with the life-f luid of its victims. In their eagerness to shred bodies, especially living flesh, these eager scavengers often get small treasure like amulets, rings, and other equipment worn close to the body trapped within their skulls. After letting such items rattle around in their heads for a few days, they unceremoniously vomit them up coated in the vile remains of their last several meals. Sarcovalts use their skulls similarly to how psychopomps wear masks, and the first sarcovalts might have been created in mockery of Pharasma’s servants.
@@ -76,7 +78,7 @@ A sarcovalt resembles an enormous fly with a vulture’s neck-but instead of a f
 Servants of Urgathoa frequently summon sarcovalts to serve either as scouts and sentinels, or as menaces to sow fear and disease in places they seek to terrorize. In the best cases, a single sarcovalt can spread disease resulting in the deaths of dozens, giving Urgathoa’s priests ample bodies to raise as undead or use in more terrible plots when they reveal themselves.
 
 Sarcovalts measure 2 feet long and weigh 5 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sarcovalt)
 ```encounter-table
 name: Sarcovalt

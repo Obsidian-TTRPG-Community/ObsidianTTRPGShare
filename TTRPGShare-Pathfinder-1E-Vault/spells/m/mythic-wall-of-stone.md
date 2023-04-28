@@ -1,19 +1,21 @@
 ---
-alias: Mythic Wall of Stone
+aliases: [Mythic Wall of Stone]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Wall of Stone
+## Mythic Wall of Stone
 
 **source**:: Mythic Adventures pg. 112  
 **school**:: conjuration (creation) (earth)
 **level**:: adept 5, arcanist 5, cleric 5, druid 6, hunter 6, magus 5, occultist 5, oracle 5, shaman 6, sorcerer 5, summoner 4, summoner (unchained) 5, warpriest 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a small block of granite)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: stone wall whose area is up to one 5-ft. square/level (S)  
@@ -21,7 +23,7 @@ alias: Mythic Wall of Stone
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell creates a wall of rock that merges into adjoining rock surfaces. A *wall of stone* is 1 inch thick per four caster levels and composed of up to one 5-foot square per level. You can double the wall's area by halving its thickness. The wall cannot be conjured so that it occupies the same space as a creature or another object.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Archelon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,13 +45,13 @@ sources:
     desc: 192
 desc_short: The shell of this immense sea turtle easily spans 12 feet in length. Its narrow head ends in a hooked beak.
 ```
-# Description
+## Description
 An ancient relative of the smaller leatherback sea turtle, the archelon can grow up to 13 feet long and 16 feet from flipper to flipper. Weighing as much as 5,000 pounds, the archelon has an exceedingly powerful bite, and doesn’t hesitate to use it to deter aquatic nuisances.
 
 Like other sea turtles, female archelons come ashore to lay and bury their eggs in sandy beaches, preferably facing deep water and without coral reefs. Once done, they return to the sea, leaving their eggs defenseless.
 
 These creatures are often used by coastal tribes as guardians and escorts from island to island. Aquatic creatures, particularly locathah, often use them as beasts of burden, but their relatively slow swim speed makes them poor mounts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Archelon)
 ```encounter-table
 name: Archelon

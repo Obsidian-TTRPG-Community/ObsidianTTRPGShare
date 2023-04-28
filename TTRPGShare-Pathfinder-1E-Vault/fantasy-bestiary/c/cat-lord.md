@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cat Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,13 +67,13 @@ sources:
     desc: 14
 desc_short: This dark-skinned woman’s languid movements are grace personified, her sparkling eyes those of a cat.
 ```
-# Description
+## Description
 When the gods of nature or powerful spirits desire a champion to defend the animal world, they invest a token of their power in a chosen vessel-be it animal or humanoid. Traditionally, only one animal lord for a specific animal species is active on a world at any one time, although sometimes, when an extant animal lord strays from its charge or otherwise fails, the force that created it might create a replacement to send against the fallen animal lord to challenge it in a combat to the death, with the victor claiming the right to rule or a chance at redemption.
 
 An animal lord does not dwell among humanity-the wild is its domain. How an animal lord interacts with a humanoid society largely depends on how that society treats the animals of that lord’s affinity. Societies that honor and respect those animals, even if they use the animals as a food source, earn the animal lord’s (sometimes grudging) respect, but those who abuse or otherwise harm animals of that lord’s species find a powerful and ardent enemy in the lord.
 
 The cat lord above uses a leopard as the base animal-this particular cat lord represents a newly created animal lord. The longer an animal lord exists, the higher its level should be.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cat%20Lord)
 ```encounter-table
 name: Cat Lord

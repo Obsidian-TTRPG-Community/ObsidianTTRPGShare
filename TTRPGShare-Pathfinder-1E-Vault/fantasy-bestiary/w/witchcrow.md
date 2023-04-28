@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Witchcrow
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 277
 desc_short: With a raucous cry and a flurry of feathered wings, this jet-black bird takes to the air, an unnatural gleam in its otherworldly eyes.
 ```
-# Description
+## Description
 The dreaded witchcrow, renowned as a harbinger of ill deeds and misfortune, preys on the weak and spies on the unwary. Clever, manipulative, and avaricious in the extreme, these foul birds have no conscience and know no fear. Witchcrows strive to steal not only victims’ most cherished possessions, but their hopes and dreams as well. They delight in bringing anguish, sowing doubt even as they feign friendly advice designed to tear down alliances, dupe the gullible, and compromise the virtuous. Despite their deceptive nature, witchcrows can also hold valuable information-or come by such if paid to retrieve it.
 
 Witchcrows value arcane magic above all else, not simply as practitioners-the birds certainly have their own innate talent for witchcraft-but also as collectors. In exchange for their services or valuable information, witchcrows trade for scrolls, potions, and other lesser magic items. Even if such items go unoffered, an intense covetous streak drives witchcrows to pilfer these things if they sense them among a bargainer’s possessions. Often, they single out arcane casters as targets for thievery, closing on casters from a distance with their vanish ability and executing flyby attacks to snatch away any baubles they desire. They carry such loot back to their nests to proudly share stories of their daring raids under the preening adulation of their peers. Prolonged spellcasting (casting spells with a casting time greater than 1 round) often attracts witchcrows in the area. They stalk spellcasters in groups, watching for opportunities to steal from them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Witchcrow)
 ```encounter-table
 name: Witchcrow

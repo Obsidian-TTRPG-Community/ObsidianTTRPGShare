@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Strix Voyager
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 55
 desc_short: The attire of this winged man, whose wooden mask is carved into an eerie smile, is devoid of the stark-white bones commonly worn by his people.
 ```
-# Description
+## Description
 Oddities found high atop the spire nests of Ciricskree, these masked visitors bring hope to the fading itarii-the Strix word for their race-of Devil’s Perch. While welcomed as family, voyagers are not born amid their clutches, claiming instead to have flown across the western ocean. Draped in the mysterious regalia of the ancients, the newcomers supposedly hail from the Island of the Gods, a place of legend known only to the oldest rokoa. They entertain and inspire the curious locals who crowd around the roost with tales of their mythical homeland and promises of a return to glory. Most voyagers’ tales describe strix ancestors sitting as equals beside a lost race of men and powerful elves, but then facing a mysterious exile on the winds of a green storm. The validity of their claims is open to debate, but the fact remains that the strix cannot account for the location of the bones of these visitors’ ancestors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Strix%20Voyager)
 ```encounter-table
 name: Strix Voyager

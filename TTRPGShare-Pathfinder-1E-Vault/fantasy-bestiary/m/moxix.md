@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moxix
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,7 +73,7 @@ sources:
     desc: 32
 desc_short: This strange, four-armed fiend appears to be constructed completely out of stone. Dried blood stains its body.
 ```
-# Description
+## Description
 Moxix, the Drinker of Human Hopes, is a unique demon bound to the mysterious isle called Yoha’s Graveyard in the Shackles. Appearing as an eldritch four-armed statue of weathered gray stone, Moxix has a single emerald eye centered in his horrible face. A nest of twisted horns rests atop his head, and his fangf illed maw is perpetually stained with blood. Those courageous explorers traveling to his seemingly idyllic isle are driven mad by strange visions and dreams, or by inscrutable but disturbing carvings, idols, and glyphs that litter the island. Even if they withstand the island’s maddening magic, adventurers in search of legendary lost riches may confront Moxix himself and be scourged of mind, body, and soul. Moxix’s baleful presence and malevolent awareness leer from every crudely carved icon, relief, and idol bearing his likeness, bringing with them a tinge of insanity and a ravenous hunger for human flesh. Ghosts and pentagram-branded cannibals and lunatics are all that remain of ill-fated expeditions to Yoha’s Graveyard. 
 
 Moxix found his first worshipers among the terrible cyclopes of Ghol-Gan as their civilization fell into ruin. As the one-eyed giants slipped more and more into depravity and violence, they began worshiping foul, otherworldly creatures their brothers and sisters brought up from the vaults of the Darklands after their exposure to the serpentfolk’s wicked ways. Among the dozens of fiendish icons was Moxix, who came into inf luence among the cyclopes as their practice of sacrifice and cannibalism increased. It was at this time Moxix became known as the Drinker of Human Hopes. The ancient Ghol-Gan cyclopes fed him hundreds of captured humans, most of whom were of Azlanti descent. In one instance early in his time among the Ghol-Gan cyclopes, Moxix’s followers captured an entire Azlanti embassy and fed them to the strange demon one by one while their companions watched in horror. Some say the sacrifices’ spirits still inhabit the region, their wailing cries drifting through the hills and jungles of the haunted island.
@@ -79,7 +81,7 @@ Moxix found his first worshipers among the terrible cyclopes of Ghol-Gan as thei
 As his reign of blood began to spread from its base in southern Ghol-Gan, a raging contingent of rival cyclopes from elsewhere in the failing empire raided the demon-worshiping clan dedicated to Moxix, bringing both brute strength and the magic of powerful shamans and oracles to bear against it. The battle raged for 2 days, and in the end an oracle sacrificed her life in a final ploy to destroy Moxix. However, the oracle only succeeded in binding him to the high mountain peak that would one day become the island known as Yoha’s Graveyard.
 
 To this very day, Moxix remains trapped in his island domain, ever eager to draw creatures to the ziggurat he calls home. There he delights in turning people to cannibalism, destruction, and insanity. Obscuring and disease-laden mists swirl around the island, keeping its lands hidden and protected from trespassers. Once per year, however, on the first full moon after the rainy season, the mists part for a single night. Some explorers have mounted expeditions to Moxix’s island during these events, but as of yet, no one has returned the same person she used to be; all bear the mark of insanity Moxix stamps on their being.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moxix)
 ```encounter-table
 name: Moxix

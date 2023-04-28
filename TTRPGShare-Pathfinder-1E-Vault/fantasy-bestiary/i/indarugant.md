@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Indarugant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 86
 desc_short: Taut, leathery skin clings to the skeleton of this giant, whose hide garments only partially conceal the simple geometric tattoos and ancient battle scars that decorate his flesh.
 ```
-# Description
+## Description
 In times of need, the taiga giants of Varisia turn to the spirits of their ancestors for aid, relying on signs and omens from the spirit world to guide them out of danger. Yet sometimes the power and insight of these ancestral spirits is not enough. When invaders overhunt the land, when disease and pestilence run rampant, or when war and slavery threaten to decimate whole tribes, some giants seek a different sort of aid-one that comes at a far higher price. High above the snow line, trapped within ancient glacial floes, the indarugants wait to be unleashed so they might once again bring disaster and ruin to the enemies of their tribes.
 
 Most indarugants resemble the desiccated corpses of taiga giants, though other types of giants may become indarugants as well. After taiga giants, stone giants are the most likely to follow through with this ritual, though by doing so they risk being shunned by neighboring tribes.
 
 Indarugants stand 20 feet tall, but weigh only 3,000 pounds due to the lack of water in their shriveled, skeletal bodies. The ritual that creates an indarugant involves marking and maiming the body of the candidate, and many still bear these fading tattoos and ancient scars.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Indarugant)
 ```encounter-table
 name: Indarugant

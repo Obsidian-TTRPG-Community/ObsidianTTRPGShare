@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Kakapo
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,11 +48,11 @@ sources:
     desc: 24
 desc_short: This rotund parrot has vibrant green-and-black feathers, a short hooked beak, and an array of white whiskers.
 ```
-# Description
+## Description
 The kakapo is a small, flightless parrot native to tropical islands. Primarily nocturnal creatures, the birds come out at night to forage for fruits, nuts, plants, and seeds. Kakapos can live to be over 100 years old, breeding only two or three times per decade.
 
 A kakapo is roughly 2 feet long from beak to tail tip and can weigh up to 9 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Kakapo)
 ```encounter-table
 name: Kakapo

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pirate Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 56
 desc_short: This confident-looking bearded man is dressed in rich and flamboyant clothing, an ornate, sheathed rapier at his side.
 ```
-# Description
+## Description
 In addition to being a sailor of consummate ability and a cunning strategist, a successful captain of a pirate ship must possess a number of skills that enable him to lead a crew of independent-minded ruffians who don’t relish taking anyone’s orders. A judicious application of diplomacy, intimidation, charm, and inducement is necessary to maintain one’s position as captain, and while most pirate captains are elected by their crews, they are just as easily unelected, either by vote or a well-placed blade.
 
 Pirate captains are typically both fighters and rogues, as the occupation necessitates a strong arm as well as a firm grasp over various skills. Clerics also make for potent leaders, their ability to confront various perils emboldened by their comprehension of divine powers as well as magical anomalies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pirate%20Captain)
 ```encounter-table
 name: NPC Pirate Captain

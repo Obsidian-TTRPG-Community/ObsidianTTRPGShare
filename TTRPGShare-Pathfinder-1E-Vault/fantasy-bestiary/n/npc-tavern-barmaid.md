@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tavern (Barmaid)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -39,7 +41,7 @@ sources:
   - name: GameMastery Guide
     desc: 302
 ```
-# Description
+## Description
 Barmaids are serving wenches, dancing girls, and even harried cooks in inns and taverns throughout the cities and towns of the world. Although usually young, some barmaids are older goodwives working in the family business.
 
 A barmaid might also be used as a farmer’s, fisherman’s, or shopkeep’s wife, or any type of servant, whether in an inn or a noble’s manor. Changing a barmaid’s Profession skills can create any type of servant needed. Profession (courtesan) creates an inexperienced prostitute, or simply a serving girl who works in a brothel.
@@ -47,7 +49,7 @@ A barmaid might also be used as a farmer’s, fisherman’s, or shopkeep’s wif
 While skilled in improvised weapons, changing a barmaid’s feats can create a servant with other useful skills. Alertness or Skill Focus (Perception) makes a barmaid good at overhearing conversations, while a barmaid working in a dangerous dive might carry a concealed dagger and have the Improved Unarmed Strike and Weapon Finesse feats.
 
 A typical small tavern may have only a barkeep and a pair of barmaids (CR 4), while a large inn might have half a dozen barmaids serving the barkeep, with a street thug bouncer for protection (CR 6). A barmaid is often found in the company of a pair of farmers or shipmates (CR 2) or a noble scion (CR 3), or two barmaids might serve a pair of drunkards, street thugs, or vagabonds (CR 4).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tavern%20(Barmaid))
 ```encounter-table
 name: NPC Tavern (Barmaid)

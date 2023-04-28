@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Poppet, Small
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -31,11 +33,11 @@ sources:
   - name: Adventurer's Armory 2
     desc: 31
 ```
-# Description
+## Description
 Small poppets are the size of human toddler, standing about 2 feet tall and weighing approximately 30 pounds.
 
  Small poppets are more durable but more expensive than typical poppets. They can also gain augmentations, but the extra material required doubles an augmentation’s cost.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Poppet%2C%20Small)
 ```encounter-table
 name: Poppet, Small

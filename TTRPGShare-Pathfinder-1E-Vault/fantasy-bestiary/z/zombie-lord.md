@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zombie Lord
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 91
 desc_short: Gore stains this creature’s tattered clothes, grimly appropriate garments for the rotting corpse inside.
 ```
-# Description
+## Description
 Zombie lords are the fleshy counterparts of skeletal champions-intelligent, cunning, and envious of creatures whose bodies aren’t rotting away. Despite their decaying flesh, they are not slow like common zombies, and can easily pursue fleeing prey. Zombie lords are more powerful than common zombies and retain their class levels.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zombie%20Lord)
 ```encounter-table
 name: Zombie Lord

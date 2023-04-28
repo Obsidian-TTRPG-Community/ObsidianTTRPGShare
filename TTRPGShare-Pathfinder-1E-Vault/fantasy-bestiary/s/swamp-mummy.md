@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Swamp Mummy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 178
 desc_short: Clad in the shreds of its original garments, this withered and leathery corpse has dark, empty eye sockets.
 ```
-# Description
+## Description
 Strangled into unlife in the filth and muck of the deep mire, swamp mummies haunt the festering depths of isolated, desolate fenlands.
 
  Some swamp mummies are cursed by dark powers to return to unlife, while others are the victims of sacrifices or criminal executions in which the bodies were thrown into a peat bog. The nature of the death and the emotional power of the victim are both contributing factors as to whether or not the victim crawls from its swampy grave as a swamp mummy.
@@ -56,7 +58,7 @@ Strangled into unlife in the filth and muck of the deep mire, swamp mummies haun
  Swamp mummies-also often called bog or peat mummies-rarely, if ever, leave their marshy realms. Those that do most often venture forth from the swamp to take revenge on their slayers. While most swamp mummies are motivated by vengeance, many fulfill these dark yearnings in a more general sense. Filled with wrath and hatred for the living, they mercilessly attack any living creatures that dare to venture into their dismal domains. Their agonized moans echo over their putrid homes, driving away the natural animals dwelling therein and often alerting travelers to the relentless danger.
 
  Swamp mummies delight in infecting living foes with bog rot, believing that adding their victims’ essence to their gloomy domains expands their power. After battle, they carry away the bodies of their fallen victims to sink them in deep, isolated pools. Thus, even enemies that escape the bog rot become one with the swamp mummy’s home. Most swamp mummies are Medium humanoids, typically arising from the submerged corpses of human, lizardfolk, or elven victims-though instances of swamp mummies arising from the corpses of other races is not unknown.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Swamp%20Mummy)
 ```encounter-table
 name: Swamp Mummy

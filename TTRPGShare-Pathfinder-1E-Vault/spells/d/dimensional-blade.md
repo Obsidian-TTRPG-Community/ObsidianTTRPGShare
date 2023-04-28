@@ -1,25 +1,27 @@
 ---
-alias: Dimensional Blade
+aliases: [Dimensional Blade]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dimensional Blade 
+## Dimensional Blade
 
 **source**:: Melee Tactics Toolbox pg. 30  
 **school**:: transmutation
 **level**:: antipaladin 4, arcanist 6, bloodrager 4, cleric 6, inquisitor 5, magus 5, oracle 6, paladin 4, sorcerer 6, warpriest 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round
 
-### Description 
+### Description
 
 This spell gives you the power to turn one melee weapon in your hand into a two-dimensional object with length and height but no width. A sword becomes a flat image of a sword, a mace is reduced to a flat outline, and so on. The magic of the spell allows the weapon to be wielded by you normally, creating just enough depth to grasp it.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Demon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 67
 desc_short: Only this shadowy bat-winged demon’s teeth and claws have any sense of physicality to them-the rest is lost in darkness.
 ```
-# Description
+## Description
 Tales of demonic possession are common, used often by the ignorant to explain strange or violent behavior. While the majority of such cases are merely manifestations of madness or derangement, those that are legitimate possessions are often the work of shadow demons.
 
 Unlike many demons, shadow demons are incorporeal. When a particularly envious and evil mortal soul is pulled into the Abyss, it is transformed, split apart, and combined with other souls until what emerges is little more than jealous malevolence without the impediment of a physical body.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Demon)
 ```encounter-table
 name: Shadow Demon

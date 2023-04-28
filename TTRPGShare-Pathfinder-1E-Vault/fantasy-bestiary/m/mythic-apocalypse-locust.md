@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Apocalypse Locust
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 12
 desc_short: An unnerving, buzzing drone emerges from a creature resembling a tortured human half transformed into a giant, winged scorpion.
 ```
-# Description
+## Description
 Apocalypse locusts are damned humans twisted and fused into the form of massive, fiendish insects. They delight in torturing living creatures, drawing out the torment for as long as possible. Though these creatures have average intelligence, they are consumed by hatred and eternal pain, and therefore lack any kind of empathy or sanity. Apocalypse locusts particularly enjoy watching holy warriors suffer their hallucinatory stings.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Apocalypse%20Locust)
 ```encounter-table
 name: Mythic Apocalypse Locust

@@ -1,19 +1,21 @@
 ---
-alias: Shadow of Doubt
+aliases: [Shadow of Doubt]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shadow of Doubt 
+## Shadow of Doubt
 
 **source**:: Inner Sea Races pg. 222  
 **school**:: enchantment (compulsion) (darkness, emotion, evil, mind-affecting)
 **level**:: antipaladin 4, bard 4, skald 4 (Tiefling)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature/3 levels  
@@ -21,7 +23,7 @@ alias: Shadow of Doubt
 **saving-throw**:: Will partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a shadowy aura of doubt fueled by a foe’s own inner flaws. Targets perceive all illumination as if it were one light level darker, to a minimum light level of darkness (not supernatural darkness), even on a successful saving throw.  
   

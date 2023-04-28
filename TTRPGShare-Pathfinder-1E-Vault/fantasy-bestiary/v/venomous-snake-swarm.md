@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Venomous Snake Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
     desc: 82
 desc_short: Venomous snakes slither and crawl over each other in a furious mass, their poison-dripping fangs glinting in the light.
 ```
-# Description
+## Description
 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Venomous%20Snake%20Swarm)
 ```encounter-table
 name: Venomous Snake Swarm

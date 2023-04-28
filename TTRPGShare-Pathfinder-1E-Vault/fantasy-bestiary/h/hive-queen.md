@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hive Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 236
 desc_short: Black, chitinous armor covers this enormous insectile creature. Caustic saliva drips from its mandibles.
 ```
-# Description
+## Description
 A hive queen is an engine of destruction created through advanced fleshwarping procedures. Normally hive queens are dormant, concerned only with the creation of eggs. However, when threatened, the queen aggressively defends her clutch. If she survives her colony’s destruction, she rampages and destroys everything in her path until she can find another suitable location in which to begin again. 
 
 A hive queen is 17 feet tall and weighs 2,100 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hive%20Queen)
 ```encounter-table
 name: Hive Queen

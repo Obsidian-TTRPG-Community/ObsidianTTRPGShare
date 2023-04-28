@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Draugr
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 110
 desc_short: This barnacle-encrusted walking corpse looks like a zombie, but is dripping with water and gives off a nauseating stench. 
 ```
-# Description
+## Description
 Draugr smell of decay and the sea, and drip water wherever they go. These foul beings are usually created when humanoid creatures are lost at sea in regions haunted by evil spirits or necromantic effects. The corpses of these drowned sailors cling fiercely to unlife, attacking any living creatures that intrude upon them. Their attacks smear rancid flesh, rotting seaweed, and swaths of vermin on whatever they hit. 
 
 In the case of draugr who manifest when an entire ship sinks, these undead usually stay with the wreck of their ship. Some draugr may be found under the control of aquatic necromancers, while others may wander the seas as undead pirates aboard ghost ships.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Draugr)
 ```encounter-table
 name: Draugr

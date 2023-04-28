@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Amalya
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 8
 desc_short: This lithe, otherworldly woman has with deep brown eyes and dark green hair that cascades past her waist. She’s adorned in trinkets made from a great white pine’s needles and cones. 
 ```
-# Description
+## Description
 A still untainted fey in the northern stretch of the Shudderwood, Amalya is a bastion of nature among a perverse land, where denizens are beginning to succumb to the Worldwound’s demonic hordes. To survive, she has formed a particularly close bond with her natural surroundings. She’s studied the earth’s struggle to survive against the Worldwound’s onslaught; this scholarly curiosity has granted her powerful spells that she uses to protect herself, her tree, and the forest’s remaining natural creatures. Given the danger she faces daily, Amalya is better at hiding than most dryads-however, the prevalence of half-fiends and other unspeakably abhorrent creatures also makes her a pragmatist of the highest order. She allies with like-minded adventurers who can stave off these threats more readily than others do of her kind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Amalya)
 ```encounter-table
 name: Amalya

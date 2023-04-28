@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lamp Blighter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,11 +76,11 @@ sources:
     desc: 90
 desc_short: This creature looks like a tiny, stooped elf with gray skin, cruel claws, and glossy purple moth wings. Its mirthless grin exposes sharp teeth, and a bloody string of humanoid eyeballs adorns its neck.
 ```
-# Description
+## Description
 Twisted in mind and form, lamp blighters have been corrupted by their own hatred for civilization and its encroachment upon lands that were once wild. Named for their practice of darkening lamps to draw victims close and also their love of ripping out eyes with their vicious claws, they take out this hatred upon inhabitants of border villages and towns, amplifying fear of the dark in the places they bedevil.
 
  Lamp blighters stand 2 feet tall fully when upright, though they are usually hunched over and flying at eye level of their victims, and they weigh about 20 pounds. 
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lamp%20Blighter)
 ```encounter-table
 name: Lamp Blighter

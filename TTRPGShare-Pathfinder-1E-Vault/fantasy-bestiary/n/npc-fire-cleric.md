@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Fire Cleric
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
   - name: NPC Codex
     desc: 52
 ```
-# Description
+## Description
 The fire cleric serves infernal or elemental powers and uses his magic to purge weakness from the world.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Fire%20Cleric)
 ```encounter-table
 name: NPC Fire Cleric

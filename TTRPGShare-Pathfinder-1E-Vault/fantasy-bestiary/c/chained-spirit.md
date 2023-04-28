@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chained Spirit
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 78
 desc_short: This humanoid figure’s body fades into mist below the hips, while its upper, ghostly torso is bound in lengths of writhing chains.
 ```
-# Description
+## Description
 A chained spirit is the tormented soul of one who was charged, cursed, or honor-bound to guard a certain place or object, only to be slain in the course of such duty. Such a dishonored spirit returns as a misty approximation of its living form, except now burdened by loops of constricting chains and inescapable locks, all representing its bonds of duty. Reaching out with these chains, these tormented undead claim allies, binding other unwilling sentinels to the same charge with which they are eternally cursed.
 
  Among the rarest known manifestations of undead, the chained spirit can exist only in an area of extreme misery combined with a potent source of necromantic energy. In the case of Scarwall, the castle’s history of violence, combined with the vengeful attention of Zon-Kuthon, made the castle the perfect cradle for the generation of a chained spirit. Others may well exist on Golarion, or could yet come to manifest, but at this point, the chained spirit of Scarwall may be the only one of its kind.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chained%20Spirit)
 ```encounter-table
 name: Chained Spirit

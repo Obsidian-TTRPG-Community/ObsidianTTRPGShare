@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Guardian Naga
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 212
 desc_short: A contemplative humanoid face framed by a cobra-like hood adorns the body of this long, brightly colored serpent.
 ```
-# Description
+## Description
 Although ferocious in shape, with radiant scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as dutiful protectors of places of fundamental power and sanctity. Their scales often bear elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga stretches 14 feet long and weighs approximately 350 pounds.
 
 While many guardian nagas adhere to the exotic practices of ancient or forgotten faiths, others are merely drawn to sites of innate wonder-towering waterfalls, natural spires, mountaintop temples-minding them out of their own senses of duty and reverence. Often these nagas join a living faith, serving as protectors of sanctuaries or ancient treasures. A pair of nagas might take up residence near a site they deem worthy of protection, hatching a brood and raising their offspring there. When the young grow to adulthood, they have the choice of departing to seek their own homes or staying to protect their elder’s charge. Sometimes, a guardian naga protecting a ruin or temple is but the current protector in a line of sentinels stretching back centuries. Such sentinels often take the same name as their forebears to appear as a single, exceptionally long-lived figure.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Guardian%20Naga)
 ```encounter-table
 name: Guardian Naga

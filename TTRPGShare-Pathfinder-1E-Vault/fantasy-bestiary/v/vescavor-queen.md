@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vescavor Queen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
     desc: 90
 desc_short: This verminlike creature has iridescent, membranous wings and its many sharp teeth drip with noxious slime.
 ```
-# Description
+## Description
 Appearing as an amalgam of twisted, unnatural insects, a vescavor queen is a hideous sight to behold, even among the terrifying denizens of the Abyss. Not only is a queen’s bite stronger than that of its spawn, but the queen can also spit acid at opponents, and its arms end in scything claws poised to rend through f lesh and armor. Vescavor swarms instinctively obey a queen, eagerly seeking out those foes marked by the queen’s attacks. A vescavor queen measures roughly 10 feet from head to tail, and weighs nearly 500 pounds- more when carrying a brood.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vescavor%20Queen)
 ```encounter-table
 name: Vescavor Queen

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Leech Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
     desc: 187
 desc_short: A mass of wriggling black creatures each the size of a man’s finger stirs the stagnant water before enveloping its victim.
 ```
-# Description
+## Description
 This horrifying cloud of ravenous, blood-draining parasites eschews the stealth of a lone leech’s methods in favor of swift and merciless feeding.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Leech%20Swarm)
 ```encounter-table
 name: Leech Swarm

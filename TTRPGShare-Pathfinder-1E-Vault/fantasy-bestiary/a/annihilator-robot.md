@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Annihilator Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 43
 desc_short: The tip of this towering, scorpion-like construct’s tail thrums with otherworldly energy.
 ```
-# Description
+## Description
 The enormous and formidable annihilator robots roam old ruins and wastelands, ridding them of all life and civilization. They smash structures, slaughter creatures both sentient and bestial, and scorch plant life to ashes. When rampaging, an annihilator indiscriminately destroys rather than following the meticulous approach many other robots take with their work. Despite the destruction they wreak, annihilators often gather up those who survive their assaults, collecting the dying and unconscious from battlefields and bringing them to a set location. Their purpose for keeping these battered but still-living prisoners is unknown.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Annihilator%20Robot)
 ```encounter-table
 name: Annihilator Robot

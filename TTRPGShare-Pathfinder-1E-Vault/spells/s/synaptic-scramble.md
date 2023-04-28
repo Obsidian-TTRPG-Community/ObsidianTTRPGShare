@@ -1,19 +1,21 @@
 ---
-alias: Synaptic Scramble
+aliases: [Synaptic Scramble]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Synaptic Scramble 
+## Synaptic Scramble
 
 **source**:: Occult Adventures pg. 187  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: mesmerist 3, psychic 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Synaptic Scramble
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You scramble the synaptic connections of your target, causing it to lose the ability to coherently communicate and to take unintended actions when it meant to perform others. The target cannot effectively communicate while under the spell’s influence, and thus cannot engage in acts like speaking, attempting Bluff checks to pass secret messages, writing, or using telepathy, although the spell doesn’t prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.  
   

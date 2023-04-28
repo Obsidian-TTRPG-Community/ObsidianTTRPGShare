@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nightgaunt
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,7 +58,7 @@ sources:
     desc: 90
 desc_short: This lanky ebon humanoid has batlike wings, horns, and a long prehensile tail, but lacks a face.
 ```
-# Description
+## Description
 Nightgaunts haunt the deepest and darkest chasms of dreams. They lurk in the shadows that loom at the edges of sane slumber, but are ready at any moment to snatch a blithe dreamer away, carrying it off into realms of endless nightmare and tickling it terribly all the way. They appear as stooped, emaciated humanoids, yet possess a remarkable strength in their sinewy limbs. With inky black skin, batlike wings, a long spiny tail, and demonic horns protruding from its skull, a nightgaunt is a fearsome foe-yet the lack of any facial features is what makes it truly nightmarish.
 
 A typical nightgaunt would stand 7 feet tall if fully upright, and weighs 175 pounds.
@@ -64,7 +66,7 @@ A typical nightgaunt would stand 7 feet tall if fully upright, and weighs 175 po
 Nightgaunts feed on emotions, preferring despair, horror, and nervous laughter. They enjoy carrying their prey high over the mountains, tickling their prey to create a mix of emotions, and finally dropping their victims in remote areas where other monsters can stalk and kill them. Some creatures pay nightgaunts to serve as guardians or carry them from place to place, though the nightgaunts are prone to turn on their employers at the smallest slight.
 
 Most nightgaunts have little interest in anything other than sating their hunger on sleepers, and gather in colonies to entertain each other by sharing emotionmemories through strange caresses. They sometimes war with the other creatures found in their desolate realms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nightgaunt)
 ```encounter-table
 name: Nightgaunt

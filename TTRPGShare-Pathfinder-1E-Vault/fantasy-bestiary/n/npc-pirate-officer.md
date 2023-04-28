@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Pirate Officer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 56
 desc_short: Armed with a rapier and wearing leather armor, this half-elf possesses an amiable demeanor and a lute at her side.
 ```
-# Description
+## Description
 Officers are the captain’s most trusted mates, individuals who see to it that their leader’s orders are obeyed and ensure the ship’s safety and autonomy. Many officers are either bards or fighters, though any seasoned buccaneer who gains the captain’s trust may take on such a role. Dealing directly with grievances, identifying troublemakers, meting out punishments, and advising the captain are all part of a pirate officer’s daily duties.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Pirate%20Officer)
 ```encounter-table
 name: NPC Pirate Officer

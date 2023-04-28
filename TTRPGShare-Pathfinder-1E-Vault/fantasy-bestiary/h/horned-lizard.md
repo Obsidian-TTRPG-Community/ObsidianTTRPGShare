@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Horned Lizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 197
 desc_short: The blunt snout of this lizard bears bony horns, and its flat, round body is adorned with many spines.
 ```
-# Description
+## Description
 Despite their sluggish, toad-like appearance, these creatures are reptiles with dry, spiny skin adapted to prevent water loss in their native desert environment. They are typically found sunning themselves on rocks during all but the hottest parts of the day, retreating beneath the shade of ridges or rocks when the sun is directly overhead. Their main method of defense is to avoid detection, but when their desert coloration fails to fool predators, they attempt to flee or use their other defensive methods, such as their unique ability to rupture blood vessels in their eyes so they can spray noxious blood at approaching predators. Due to their fierce defensive displays, horned lizards are often thought to be overly aggressive, though people who keep them as pets or familiars know that they can be affectionate creatures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Horned%20Lizard)
 ```encounter-table
 name: Horned Lizard

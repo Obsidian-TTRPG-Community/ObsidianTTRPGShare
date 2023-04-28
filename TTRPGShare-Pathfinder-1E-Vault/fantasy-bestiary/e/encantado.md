@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Encantado
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 110
 desc_short: This graceful creature combines the features of a human and a river dolphin.
 ```
-# Description
+## Description
 When warm, humid nights in the jungle turn into jubilant celebrations, one can be sure that an encantado can be found nearby. These fey live on the fringes of humanoid societies. They are attracted to parties, and change form into attractive humanoids to infiltrate celebrations. Skilled musicians and dancers, encantados blend in to the festivities seamlessly. When encantados shapeshift, their blowholes are still present, so they usually wear hats or wigs, or arrange their hair into elaborate coiffures, to conceal this feature. When in dolphin form, encantados can still manipulate objects with their flippers as if the flippers were hands.
 
  Many encantados are kind creatures who want only to celebrate joy, but others take their inclinations to influence others to an extreme, kidnapping the objects of their obsession and taking them away to their river dens. Some suffer from extreme narcissism.
 
  Encantados often take levels in bard or druid, while some cruel encantados become enchanters or mesmerists.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Encantado)
 ```encounter-table
 name: Encantado

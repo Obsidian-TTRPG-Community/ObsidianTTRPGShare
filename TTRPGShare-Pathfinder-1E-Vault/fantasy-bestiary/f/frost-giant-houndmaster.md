@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frost Giant Houndmaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,9 +75,9 @@ sources:
   - name: Monster Codex
     desc: 74
 ```
-# Description
+## Description
 A houndmaster is responsible for the care of the tribe’s pets, frequently polar bears, wolves, and winter wolves. She is fond of pitting her charges against each other, allowing the packs to establish a functional hierarchy and ensuring that only the strongest survive to breed. Some houndmasters choose these pack leaders as animal companions.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frost%20Giant%20Houndmaster)
 ```encounter-table
 name: Frost Giant Houndmaster

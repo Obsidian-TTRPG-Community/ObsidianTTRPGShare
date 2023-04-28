@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ambergrim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,11 +50,11 @@ sources:
     desc: 80
 desc_short: A crown of rough gems encircles the top of this sleek, orangebrown glob as it rolls forward, the detritus of the forest churning within.
 ```
-# Description
+## Description
 Creeping masses of honey-colored slime, ambergrims are scavengers and collectors of the forest, rolling up unwanted bits of undergrowth and unsuspecting animals to preserve for later in timeless stockpiles hidden throughout their domains. Little more than aggressive, human-sized globs of sap and resin, they hunt by the twin graces of surprise and their incredibly sticky bodies, which naturally adhere to other creatures and draw them deeper into the ambergrims’ bulk. The oozes’ name describes both their rich, warm coloration as well as their ability to immobilize their prey within soft, amber-like capsules, which they can harden into tough cocoons to preserve food for later. Anything from rabbits to unwary human travelers is fit fodder for these oozes’ endless hunger.
 
  Ambergrims vary immensely in size and coloration depending on their environment and parentage, but the most common are roughly 4 feet across and weigh around 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ambergrim)
 ```encounter-table
 name: Ambergrim

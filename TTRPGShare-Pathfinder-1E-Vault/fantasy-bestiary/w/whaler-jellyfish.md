@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Whaler Jellyfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 169
 desc_short: This enormous, translucent blob trails a mass of six immense tentacles and a central forest of tendrils below its body.
 ```
-# Description
+## Description
 The largest of all known jellyfish, whaler jellyfish are able to rapidly paralyze and kill prey as large as whales-hence their name. This deep blue creature’s pale bell can sometimes be mistaken for a bank of fog when viewed from afar as it drifts on the surface of the sea, lying in wait patiently for its next meal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Whaler%20Jellyfish)
 ```encounter-table
 name: Whaler Jellyfish

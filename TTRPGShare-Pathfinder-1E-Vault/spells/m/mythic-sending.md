@@ -1,19 +1,21 @@
 ---
-alias: Mythic Sending
+aliases: [Mythic Sending]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Sending
+## Mythic Sending
 
 **source**:: Mythic Adventures pg. 107  
 **school**:: evocation
 **level**:: alchemist 5, arcanist 5, cleric 4, inquisitor 4, investigator 5, medium 3, mesmerist 3, occultist 4, oracle 4, psychic 4, shaman 4, sorcerer 5, spiritualist 5, summoner 4, summoner (unchained) 5, warpriest 4, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M/DF (fine copper wire)
 
-### Effect 
+### Effect
 
 **range**:: see text  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Mythic Sending
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You contact a particular creature with which you are familiar and send a short message of 25 words or less to the subject. The subject recognizes you if it knows you. It can answer in like manner immediately. A creature with an Intelligence score as low as 1 can understand the sending, though the subject's ability to react is limited as normal by its Intelligence. Even if the sending is received, the subject is not obligated to act upon it in any manner.  
   

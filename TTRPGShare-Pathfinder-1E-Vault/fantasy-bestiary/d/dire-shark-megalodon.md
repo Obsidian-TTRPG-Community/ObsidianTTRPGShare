@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dire Shark (Megalodon)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 247
 desc_short: Large as a dragon, this shark’s jaws open to reveal a cavernous, tooth-lined gullet capable of swallowing a horse whole.
 ```
-# Description
+## Description
 The true nightmare of the sea is the megalodon, a shark that represents the pinnacle of this species’ evolution. Horrifying in its immense size and ruinous appetite, the megalodon is certainly the beast behind many legends of enormous fish who swallow ships whole. A megalodon is 60 feet long and weighs 100,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dire%20Shark%20(Megalodon))
 ```encounter-table
 name: Dire Shark (Megalodon)

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Hold Portal
+aliases: [Mythic Hold Portal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Hold Portal
+## Mythic Hold Portal
 
 **source**:: Mythic Adventures pg. 98  
 **school**:: abjuration
 **level**:: arcanist 1, occultist 1, psychic 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **target**:: one portal, up to 20 sq. ft./level  
@@ -21,7 +23,7 @@ alias: Mythic Hold Portal
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A *knock* spell or a successful *dispel magic* spell can negate a *hold portal* spell.  
   

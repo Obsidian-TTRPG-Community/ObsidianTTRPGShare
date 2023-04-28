@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,11 +58,11 @@ sources:
     desc: 62
 desc_short: Two emerald crystal eyes stare out from this artificial hound’s brass-, bronze-, and iron-forged body.
 ```
-# Description
+## Description
 Clockwork hounds are artificial approximations of canine companions that operate much like their living counterparts but never die of natural causes. They can work in packs or alone, in accordance with the instructions imparted by their operators. Whether their operators are alive or dead is of little consequence to these constructs, which proceed based on the last instructions provided. 
 
 Like clockwork soldiers (Pathfinder RPG Bestiary 3 57), clockwork hounds have long activity cycles due to the lessened winding requirements of their lighter frames. Their chest cavities are used to storage goods instead of for reinforcement. They are used primarily for delivery missions, but work equally well as retrievers. They’re occasionally used for sentry duty, or more rarely, defense, and are most often seen in the company of similarly tasked constructs such as clockwork soldiers and guardians. A clockwork hound stands 2-1/2 feet tall at its shoulders and weighs 300 pounds
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Hound)
 ```encounter-table
 name: Clockwork Hound

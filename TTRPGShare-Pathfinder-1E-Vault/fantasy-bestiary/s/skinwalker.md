@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skinwalker
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 233
 desc_short: This man seems human at first, but a closer look reveals he has claws and sharp teeth.
 ```
-# Description
+## Description
 Most people believe that skinwalkers are half-breeds of lycanthropes, or that they possess a weaker version of the curse of lycanthropy. However, skinwalker shamans claim that their people were chosen by the gods as a bridge between humanity and animals. Either way, skinwalkers resemble humans much of the time, but they have the uncanny ability to transform into bestial humanoids with powerful and fearsome aspects of animals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skinwalker)
 ```encounter-table
 name: Skinwalker

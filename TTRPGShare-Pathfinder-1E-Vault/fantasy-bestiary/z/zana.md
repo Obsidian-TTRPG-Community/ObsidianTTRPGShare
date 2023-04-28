@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Zana
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,9 +67,9 @@ sources:
     desc: 90
 desc_short: This stunningly beautiful and athletic woman has skin of various shades of gray. She wears a pearlescent breastplate and wields a shimmering longspear.
 ```
-# Description
+## Description
 From Cheliax to the Mwangi Expanse to far-flung Tian Xia, nearly every culture on Golarion has legends about fierce and beautiful fey warriors who defend their wild, lofty homes and the innocents who visit them. These wondrous, protective spirits are called zanas, the guardians of the mountains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Zana)
 ```encounter-table
 name: Zana

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mngwa
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,11 +68,11 @@ sources:
     desc: 173
 desc_short: This jungle cat has a dark coat of striped fur, glossy black teeth and claws, and a black mane.
 ```
-# Description
+## Description
 Mngwas are the incarnation of malevolent jungle spirits, driven by anger directed toward their focus of hate-a specific creature, family, or community who has despoiled the jungle or desecrated a sacred site. A mngwa exists only between sunset and sunrise. Each day at sunset the mngwa materializes near the spot on which it first manifested, and each day at sunrise the mngwa fades back into nothingness. Legendary for their skill at evading hunters, mngwas sometimes haunt a region for centuries, continuing to stalk the members of large tribes or extended families responsible for some ancient transgression.
 
  Mngwas average 15 feet in length and weigh 3,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mngwa)
 ```encounter-table
 name: Mngwa

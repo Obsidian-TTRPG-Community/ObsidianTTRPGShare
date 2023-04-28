@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Trapper
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
   - name: Misfit Monsters Redeemed
     desc: 50
 ```
-# Description
+## Description
 Female lurking rays, known as trappers, are the masterminds of their race. Too large to fly (and often gravid with wriggling young), the intelligent trappers scrape themselves out depressions in the floor of regularly traveled chambers and then lie in them, changing their coloration and texture perfectly to blend with the rest of the floor, and sometimes even creating protrusions in the shape of items they know to be valuable to their prey creatures. When a lulled individual steps onto the trapper’s surface, the ray twists itself up around it, smothering and beating its victim senseless before drawing it into its maw for slow digestion.
 
 Though quite intelligent even by human standards, trappers devote almost all of their mental faculties to perfectly remembering every sensory detail about their surroundings in order to make their chameleon-like disguises all the more cunning and difficult for their prey to resist.
 
 Trappers can grow to be 15 feet from tip to tip, and weigh nearly 2,000 pounds when fully fed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Trapper)
 ```encounter-table
 name: Trapper

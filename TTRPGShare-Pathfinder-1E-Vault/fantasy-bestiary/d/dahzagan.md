@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dahzagan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 59
 desc_short: This winged horror has the upper body of a feral, bloody-mouthed female orc warrior and the lower body of a giant wolf.
 ```
-# Description
+## Description
 Servants of the orc pantheon, dahzagans are colloquially known as “orc valkyries” and are seen by many orcs as the midwives of their gods. These wild, bloodlust-driven warriors possess centaurlike builds with oversized wolf bodies below the waist and large, batlike wings growing from their lupine backs. When especially strong, brutal, or savage orcs die in battle, dahzagans are sent to the Material Plane to fetch the warriors’ souls and bear them to their gods. The warriors are then reincarnated as even greater orcs and returned to the Material Plane to avenge their own deaths.
 
 Completely feral on the field of battle, dahzagans serve their gods loyally, usually taking on aspects of the deities to whom they are sworn. While most dahzagans serve orc gods, there are rumors of a rare few sworn to Gorum.
@@ -69,7 +71,7 @@ Completely feral on the field of battle, dahzagans serve their gods loyally, usu
 Dahzagans are also seen as the spiritual mothers of “cross-souls”-female warriors believed to be reincarnations of male orc champions. While male orcs often use the idea to explain the existence of capable female warriors and leaders, many female orcs resent the practice, and instead see dahzagans’ gender as a symbol of female orc strength.
 
 The average dahzagan is 8 feet tall and weighs 2,300 pounds or more.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dahzagan)
 ```encounter-table
 name: Dahzagan

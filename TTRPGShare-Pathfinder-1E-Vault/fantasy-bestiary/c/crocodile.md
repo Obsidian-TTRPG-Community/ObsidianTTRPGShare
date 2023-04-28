@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Crocodile
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 51
 desc_short: This reptile lunges out of the placid water with shocking speed. Its jaw gapes open in a roar, its powerful tail lashing behind.
 ```
-# Description
+## Description
 A crocodile is a primeval reptile that dwells in swamps or along the banks of rivers, a habitat that often puts it in violent contact with unsuspecting prey that come to the water’s edge to drink.
 
 The typical crocodile is 14 feet long and weighs 1,400 pounds, but larger species exist. You can use these statistics for similar creatures, such as alligators.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Crocodile)
 ```encounter-table
 name: Crocodile

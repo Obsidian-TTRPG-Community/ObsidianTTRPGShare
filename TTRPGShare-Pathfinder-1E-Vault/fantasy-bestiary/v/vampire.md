@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vampire
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,9 +76,9 @@ sources:
     desc: 270
 desc_short: This alluring, raven-haired beauty casually wipes a trickle of blood from a pale cheek, then smiles to reveal needle-sharp fangs.
 ```
-# Description
+## Description
 Vampires are undead humanoid creatures that feed on the blood of the living. They look much as they did in life, often becoming more attractive, though some have a hardened, feral look instead.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vampire)
 ```encounter-table
 name: Vampire

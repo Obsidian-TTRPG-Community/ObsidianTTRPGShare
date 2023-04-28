@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orphne
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 58
 desc_short: Pale skin and dark features frame this starkly beautiful creature, which is surrounded by a palpable aura of death.
 ```
-# Description
+## Description
 Often exiled from the First World for their experimentation with necromancy and disregard for boundaries, orphnes are elegant and sadistic fey obsessed with death, pain, and undeath. Blessed with the ability to channel negative energy, their presence sustains the dead and withers living things. They surround themselves with undead chattel of their own creation, and they often serve powerful undead masters in turn.
 
 Orphne adore art, music, and all the finest luxuries in life, but abuse and suffering truly sustain them. They love to be cared for and appreciated like the beatific creatures they see themselves as, and can quickly turn to anger when not treated as such. Orphne are immeasurably cruel, and without oversight, their lives gravitate towards hurting others for their own amusement, pulling the wings off songbirds or scarring mortal captives in artistic ways. They delight in watching creatures that were once full of life decay into shells of corruption or undeath.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orphne)
 ```encounter-table
 name: Orphne

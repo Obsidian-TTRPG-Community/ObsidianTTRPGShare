@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mimic
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 205
 desc_short: What appeared to be a chest filled with treasure comes to life as it grows long, glistening tentacles and a number of sharp teeth.
 ```
-# Description
+## Description
 Mimics are thought to be the result of an alchemist’s attempt to grant life to an inanimate object through the application of an eldritch reagent, the recipe for which is long lost. Over time, these strange but clever creatures have learned the ability to transform themselves into simulacra of man-made objects, particularly in locations that have infrequent traffic by small numbers of creatures, thus increasing their odds of successfully attacking their victims.
 
 Though mimics are not inherently evil, some sages believe that mimics attack humans and other intelligent creatures for sport rather than merely for sustenance. The desire to completely fool others is thought to be a part of their being, and their surprise attacks against others are a culmination of those desires.
 
 A typical mimic has a volume of 150 cubic feet (5 feet by 5 feet by 6 feet) and weighs about 900 pounds. Legends and tales speak of mimics of much greater sizes, with the ability to assume the form of houses, ships, or entire dungeon complexes that they festoon with treasure (both real and false) to lure unsuspecting food within.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mimic)
 ```encounter-table
 name: Mimic

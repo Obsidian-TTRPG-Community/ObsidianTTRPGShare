@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Tube Worm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 249
 desc_short: Several thin tendrils extend aggressively from the open tip of this red tube made of a coralline substance.
 ```
-# Description
+## Description
 The giant tube worm resides entirely within its constructed, armored tube. It extends its stinging tendrils out into the water to search for prey. This and the hookfang are but two varieties of the giant sea worm-some grow much larger, such as the gargantuan reef worm or the truly colossal trench worm. Others, like the brine worm and the crimson worm, are much smaller.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Tube%20Worm)
 ```encounter-table
 name: Giant Tube Worm

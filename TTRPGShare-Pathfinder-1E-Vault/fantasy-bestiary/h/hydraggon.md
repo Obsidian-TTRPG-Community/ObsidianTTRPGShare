@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hydraggon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
     desc: 229
 desc_short: This eellike monstrosity has a gaping, fanged mouth from which lolls a long, red tongue split into three tendrils, two of which wield weapons.
 ```
-# Description
+## Description
 The hydraggon is a strange qlippoth that has mastered the use of weapons, despite its lack of hands. These creatures enjoy swimming in the waters of the River Styx, and their immunity to mind-affecting effects shields them from the river’s memory draining properties. 
 
 A hydraggon is 7 feet long and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hydraggon)
 ```encounter-table
 name: Hydraggon

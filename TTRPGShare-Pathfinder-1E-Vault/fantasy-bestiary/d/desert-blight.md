@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Desert Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 40
 desc_short: A roiling mass of orange-brown sludge studded with gleaming red eyes brandishes its lashing tentacles.
 ```
-# Description
+## Description
 Desert blights are personifications of blistering heat, thirst, and the bleached bones of all creatures that have ever died among arid dunes. They are particularly fond of forging alliances of convenience with free-willed mummies and other desert undead to combine their power and scourge the living from their already harsh domain. Often, a desert blight sets itself up as the mastermind behind the scenes, urging its undead allies to march upon the living realms while it remains safe in the deeper reaches of the wasteland. Although desert blights have no inborn method of creating new undead minions and allies to replace those inevitably lost in such wars, they understand that in the great deserts of the world, there is no shortage of lost cities to recruit replacement troops from as the need arises. The most canny desert blights seek to dominate necromancers to help bolster their armies. 
 
 A desert blight measures 5 feet in diameter and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Desert%20Blight)
 ```encounter-table
 name: Desert Blight

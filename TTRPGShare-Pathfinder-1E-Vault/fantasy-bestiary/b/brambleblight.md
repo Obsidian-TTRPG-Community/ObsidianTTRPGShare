@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Brambleblight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 84
 desc_short: Two long vines covered in sharp thorns protrude from what appears to be a massive rotting bundle of barbs that’s topped with a heap of berry-red eyes.
 ```
-# Description
+## Description
 A stain on the land it infests, a brambleblight slowly alters its environment, infecting the local vegetation with sickness through its blight aura. When the native vegetation dies, the area becomes choked with slashing plants tangled together much like a giant briar patch. It is within this prickly terrain that the brambleblight dwells. Where most would find themselves at the mercy of the hungry barbs found within this thorn-filled region, the brambleblight traverses this area with ease. A brambleblight is a deviant thing of decay, a tangle of rotting vegetation rising in a roughly pyramidal heap, crowned with an asymmetrical cluster of berry-red eyes. Its main body resembles a bundle of fetid mulch with several thorn-covered branches spilling forth like the intestines of a gutted pig. These branches provide the plant with locomotion akin to that of a slithering serpent.
 
 A brambleblight typically covers an area about 10 feet in diameter. From the creature’s base to its crown of crimson eyes, it piles upon itself to a height of no more than 10 feet. A brambleblight weighs about 500 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Brambleblight)
 ```encounter-table
 name: Brambleblight

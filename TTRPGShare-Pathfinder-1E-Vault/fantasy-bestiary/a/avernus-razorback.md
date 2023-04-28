@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Avernus Razorback
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,11 +54,11 @@ sources:
     desc: 84
 desc_short: The coarse, ebon fur of this massive boar is mottled with patches of crimson. Its eyes are blood red and its jagged tusks seem more like obsidian than bone.
 ```
-# Description
+## Description
 Infernal scholars have long debated the origin of the Avernus razorback. Some claim the beasts came into being fully formed as a manifestation of the malice and hate birthed by the unforgiving landscape of Hell’s first layer. Others theorize an infernal duke or archdevil once led a massive herd of daeodons to Avernus from the Material Plane to drink from the River Styx and feed on the foul reeds growing amid the waters of Eridanos; over countless generations, these fell influences infused the survivors with the essence of Hell.
 
 Whatever the genesis of these beasts, they now roam Avernus in huge packs that even most devils avoid. Powerful and fierce, they are territorial animals with a ravenous hunger for both plant and animal life. Their strange Hell-empowered digestion not only devours the body, but also obliterates the soul, ripping a creature’s very life essence out of the multiverse entirely-a fate that scares even the denizens of Hell.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Avernus%20Razorback)
 ```encounter-table
 name: Avernus Razorback

@@ -1,25 +1,27 @@
 ---
-alias: Water Shield
+aliases: [Water Shield]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Water Shield 
+## Water Shield
 
 **source**:: Pathfinder \#24: The Final Wish pg. 61  
 **school**:: evocation (acid, water)
 **level**:: arcanist 4, cleric 4, druid 3, hunter 3, oracle 4, sorcerer 4, warpriest 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (1 cup of water)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 round/level (D)
 
-### Description 
+### Description
 
 This spell surrounds you in a spout of clear acid that aids in deflecting attacks and damages creatures that attack you in melee. The constantly upward-rushing waters grant you a measure of protecting, shielding you so you only take half damage from acid and fire-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful save.  
   

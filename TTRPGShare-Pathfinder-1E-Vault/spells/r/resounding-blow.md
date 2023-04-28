@@ -1,19 +1,21 @@
 ---
-alias: Resounding Blow
+aliases: [Resounding Blow]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Resounding Blow 
+## Resounding Blow
 
 **source**:: Advanced Player's Guide pg. 238  
 **school**:: evocation (sonic)
 **level**:: antipaladin 4, inquisitor 5, paladin 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 swift action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Resounding Blow
 **saving-throw**:: Fortitude partial, see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You must have a melee weapon in hand to cast this spell. On a successful melee attack, your weapon resounds with a thunderous clash. The target takes 1d6 points of sonic damage. Your weapon is not harmed by this attack.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Snallygaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,7 +52,7 @@ sources:
     desc: 88
 desc_short: This lean, scaly beast has broad wings, horns, a single eye, and writhing tentacles within its sharp, toothy beak.
 ```
-# Description
+## Description
 The snallygaster is a hideous amalgamation of lizard and bird that preys on unwary travelers. Its claws and beak have an almost metallic sheen to them, hinting at their sharpness and strength. Black stripes run the length of its scaly blue hide all the way to the tip of its long, sinuous tail. The snallygaster’s serpentine neck terminates at a small, birdlike head with a single eye set in the center of the forehead. In place of a tongue, its long throat contains a slobbering mass of tentacles that twist and squirm grotesquely whenever the creature extends them.
 
 A typical snallygaster measures 9 feet from the tip of its tail to the point of its beak, with a wingspan of 15 feet and a weight of approximately 200 pounds.
@@ -58,7 +60,7 @@ A typical snallygaster measures 9 feet from the tip of its tail to the point of 
 The snallygaster is an ambush predator, attacking its prey from above. Once it spots a potential victim, it dives toward its unsuspecting foe, using the fall to build up momentum. Once its foe lies dead or unconscious, the snallygaster uses its tonguelike tentacles to slurp up the victim’s blood. The only thing a snallygaster craves more than blood is alcohol, and it spends much of each autumn scouring its territory for fermenting fruit, on which it gorges itself until thoroughly inebriated. Intoxicated snallygasters are extremely aggressive.
 
 Snallygasters prefer to nest in wooded, mountainous regions. They are primarily active during the day, which they spend searching for food or scaring off rivals. Whether or not a female snallygaster finds a mate, it lays one to two eggs per year.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Snallygaster)
 ```encounter-table
 name: Snallygaster

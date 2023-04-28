@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Geryon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,11 +81,11 @@ sources:
     desc: 24
 desc_short: This tripartite being has three humanoid bodies engulfed from the waist down by a tangle of three immense serpents.
 ```
-# Description
+## Description
 Geryon, the source of blasphemies, has ruled in Hell longer than any other archdevil. When Asmodeus and his legions migrated to Hell, Geryon reigned as an asura rana, an emperor among divine mistakes. After bargaining with Asmodeus, Geryon betrayed its brethren, assuring devilkind’s stranglehold over Hell and cementing its continued rule over the bleak marshes of Stygia. Ever since, Geryon has numbered among Hell’s greatest and most enigmatic rulers, a connoisseur of impossible truths and a font of heresies. 
 
 Geryon is a knot of three 20-foot-long, scaled worms. From its maws it can partially regurgitate and speak with the voices of any being it has ever devoured-be they mortals, fiends, or stranger eldritch beings. As a result of its covenant with Asmodeus, Geryon is now a true devil.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Geryon)
 ```encounter-table
 name: Geryon

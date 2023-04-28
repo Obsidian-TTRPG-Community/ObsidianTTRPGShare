@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hodag
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 84
 desc_short: Spikes cover the body of this vaguely reptilian creature. Its fearsome face features dagger-sharp teeth and glowing red eyes.
 ```
-# Description
+## Description
 As stout as a bull with a reptile’s scaly, spiked body, hodags are legendary forest predators that hunt along the edges of civilization in thick woods. Green, gray, and black scales cover the beasts, helping them blend in amid underbrush, and sharp spikes stand along their backs and run down their powerful, dangerous tails. Loggers share stories of being followed by hodags and seeing their glowing red eyes in the otherwise oppressive darkness of the deep forest. In the wintertime, when snow and ice blankets the region, hodags grow a foul-smelling coat of greasy, dark brown fur that sprouts in tufts from between their scales.
 
 Many believe that hodags are not simply strong beasts but rather unique and specific terrors that have lived and hunted certain woodlands for ages. Others living near such wildernesses, however, consider hodags a myth, nothing more than the sort of tall tale that is typical of excitable rural folk. A male hodag measures 10 feet long and weighs 700 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hodag)
 ```encounter-table
 name: Hodag

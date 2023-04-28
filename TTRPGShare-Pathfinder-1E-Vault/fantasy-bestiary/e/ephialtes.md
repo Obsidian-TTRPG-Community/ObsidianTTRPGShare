@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ephialtes
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 86
 desc_short: Amid a roiling cloud of deepest dark, the rattle of chains and heavy footfalls announce a being of immense size. An infernal, gasping hiss draws the darkness back, revealing a tortured, four-legged fiend of exposed bone and ragged flesh draped in chains. Barbs and hooks hang from these wrought iron bands, matching the fiend’s tail as they writhe like snakes in search of prey.
 ```
-# Description
+## Description
 Sadistic hunters and tormentors of all living souls, ephialtes kytons usually roam the planes in service to the lords of Hell and Shadow, but occasionally in pursuit of their own fell interests. They ruthlessly abduct the innocent and retrieve the damned, dragging their victims into the fires of Hell or the gnashing, wailing dark of the Plane of Shadow. They have no fear, tracking their chosen prey regardless of distance or challenge, and shackle dragons, giants, and humanoids alike for their eternal torturous rewards.
 
 Ephialtes kytons travel in silent grace while cloaked in darkness, but drop their stealthy veils when ready to intimidate those they’ve come to collect or punish. Then, their frightening gaze matches the deadly intent of the chains piercing their flesh. These animated, wrought iron bands serve as protection and weapons in the hands or claws of all kytons, but may also bind and lash their victims to the ephialtes’ ever-bleeding hide to carry them into the Great Beyond. A typical ephialtes stands 25 feet tall and weighs over 15 tons with the combined burden of their deadly chains.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ephialtes)
 ```encounter-table
 name: Ephialtes

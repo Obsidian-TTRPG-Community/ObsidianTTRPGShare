@@ -1,19 +1,21 @@
 ---
-alias: Shard of Chaos
+aliases: [Shard of Chaos]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Shard of Chaos 
+## Shard of Chaos
 
 **source**:: Ultimate Magic pg. 237  
 **school**:: evocation (chaotic)
 **level**:: cleric 2, oracle 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: dart-shaped projectile of chaotic energy  
@@ -21,7 +23,7 @@ alias: Shard of Chaos
 **saving-throw**:: Will partial (see text)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You hurl a multicolored shard of congealed chaos from your holy symbol, affecting any one target in range as a ranged touch attack.  
   

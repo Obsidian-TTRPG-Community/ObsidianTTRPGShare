@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Entertainer (Minstrel)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
   - name: GameMastery Guide
     desc: 273
 ```
-# Description
+## Description
 A minstrel is a professional bard, an accomplished performer used to playing at festivals and lordly tables. He is a versatile performer but specializes in song, story, and especially the playing of the lute, lyre, harp, and other stringed instruments.
 
 A minstrel down on his luck might play for a barkeep (CR 6). Two minstrels could be the apprentices of a celebrity bard (CR 11), while a troupe of three minstrels might play for a noble (CR 10) or even a king and queen (CR 15).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Entertainer%20(Minstrel))
 ```encounter-table
 name: NPC Entertainer (Minstrel)

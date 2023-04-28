@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Apocalypse Horse
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -72,11 +74,11 @@ sources:
     desc: 12
 desc_short: Little more than a walking corpse, this frightful horse’s hide stretches tight over its bones.
 ```
-# Description
+## Description
 The apocalypse horse is less a particularly puissant nightmare or powerful equine daemon than a living extension of one of the Four Horsemen. There only four at any time: the white horse of Pestilence, the pale horse of Death, the red horse of War, and the black horse of Famine. While for the most part the Horsemen use their mounts themselves, they have been known to lend these mounts to favored daemonic or mortal servitors. The four apocalypse horses have also been known to travel the Material Plane or other planes on their own or in a group, often as a precursor to more direct attention to a world from the Horsemen. While each of the four apocalypse horses have similar statistics overall, they have unique abilities and personalities suited to their specific theme. 
 
 An apocalypse horse is similar in size to a large horse, standing 7 feet tall at the shoulder and weighing 1,500 pounds despite its nearly skeletal frame.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Apocalypse%20Horse)
 ```encounter-table
 name: Apocalypse Horse

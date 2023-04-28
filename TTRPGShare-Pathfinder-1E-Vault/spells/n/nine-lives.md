@@ -1,19 +1,21 @@
 ---
-alias: Nine Lives
+aliases: [Nine Lives]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Nine Lives 
+## Nine Lives
 
 **source**:: Advanced Race Guide pg. 95  
 **school**:: abjuration
 **level**:: cleric 8, oracle 8, witch 8 (catfolk)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a cat's whisker)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one creature touched  
@@ -21,7 +23,7 @@ alias: Nine Lives
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 Despite its name, this powerful ward does not grant the target multiple lives, but rather gives the target the ability to get out of trouble and relieves harmful effects and conditions. For the spell’s duration, the target can use any of the following abilities as an immediate action, but only up to a total of nine times, at which point the spell ends.  
   

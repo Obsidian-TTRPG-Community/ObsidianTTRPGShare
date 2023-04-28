@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bastion Archon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -99,7 +101,7 @@ sources:
     desc: 226
 desc_short: This massive, four-armed figure is protected by thick layers of rocky armor. Its face is a shimmering, pulsating globe of holy light.
 ```
-# Description
+## Description
 Though bastion archons are among Heaven’s most powerful defenders, their formation results from the intertwining of lesser archons, starting with the least of them all, lantern archons. Rarely, when a group of at least nine lantern archons is turned back by an overwhelming invading force of fiends, the group can use their gestalt ability to form a whirling globe that stands its ground.
 
 This brave act of defiance usually lasts only half a minute, buying the lantern archons’ allies time to escape before the gestalt is overcome. In such dire situations, a nearby shield archon-a combatant of Heaven more suited to serving as a bulwark against tides of evil-can transpose itself with the squad of lantern archons, using teleportation to take their place. But this interaction of abilities has unpredictable outcomes, and rarely, rather than swapping places, the two entities meld in a brilliant flash of light that sends nearby evil outsiders reeling, leaving a crater with a nascent bastion archon lodged in its center. The bastion archon is initially stuck in the ground where it formed, but it retains many of its component creatures’ defensive and offensive abilities. If it survives, it eventually pulls together a huge, four-armed body from the surrounding terrain until it is clad in the stone of the Holy Mountain itself, in the process becoming infused with power greater than that of any other archon. A fully formed bastion archon stands 30 feet tall and weighs 15 tons.
@@ -113,7 +115,7 @@ The one threat most likely to stir a bastion archon from its typically rigid met
 Bastion archons hold in reserve an explosive last resort in the event they are felled in battle: an explosion of light that destroys the archon, heals its allies, and consecrates the ground around it. This final sacrifice gives its (likely overwhelmed) allies a last-ditch chance at victory, and the site of a bastion archon’s death is often thereafter considered a sacred place of remembrance.
 
 A particularly unusual bastion archon by the name of Anvil Fist serves in the deepest caverns of the Forgeheart in Heaven, patrolling without end to keep invaders from the Abyss at bay. Anvil Fist is one of the longest-serving of its kind, and it has recently begun to act strangely, wandering into empty tunnels and staying there for days, speaking only in vague aphorisms when questioned. Some worry that Anvil Fist’s millennia-long battle against chaotic abominations has begun to destabilize the archon, while others believe its uncharacteristic behaviors are the result of a qlippoth lord’s vile machinations. Still others theorize that Anvil Fist may be nearing an apotheosis to something greater, perhaps becoming the first incarnation of an archon of power akin to the mightiest balor lords, infernal dukes, or veranallia azata elders.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bastion%20Archon)
 ```encounter-table
 name: Bastion Archon

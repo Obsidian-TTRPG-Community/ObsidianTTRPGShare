@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hive Brute
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 56
 desc_short: This hulking, four-legged beast has thick, chitinous plates covering its body. Steaming acid drips from its snapping maw.
 ```
-# Description
+## Description
 At the center of the Uskwood, the Shades of the Uskwood keep a hive queen imprisoned in a magical cell, yet her influence is not so easily contained. Near the Uskheart, the queen’s spawn are very common. Most of these creatures are hive warriors, hive-corrupted humanoids, or animals with the hive creature simple template, but sometimes they are different creatures altogether. Animals or other monstrous beasts that reject their role as incubation vessels for hive larvae sometimes instead become powerful hive creatures in their own right.
 
  Often found wandering the Uskwood alone or in pairs rather than as part of the central hive near Uskheart, hive brutes lack the intelligence and cunning of their kin, but they make up for the deficit with more primal physical abilities. When in a large group of other hive creatures, brutes assist both workers and warriors in their tasks, serving as beasts of burden and war beasts in equal measure.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hive%20Brute)
 ```encounter-table
 name: Hive Brute

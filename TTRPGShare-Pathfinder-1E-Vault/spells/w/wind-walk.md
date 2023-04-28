@@ -1,19 +1,21 @@
 ---
-alias: Wind Walk
+aliases: [Wind Walk]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wind Walk 
+## Wind Walk
 
 **source**:: PRPG Core Rulebook pg. 369  
 **school**:: transmutation (air)
 **level**:: alchemist 6, cleric 6, druid 7, investigator 6, oracle 6, shaman 7, warpriest 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: you and one touched creature per three levels  
@@ -21,7 +23,7 @@ alias: Wind Walk
 **saving-throw**:: no and Will negates (harmless)
 **spell-resistance**:: no and yes (harmless)
 
-### Description 
+### Description
 
 You alter the substance of your body to a cloudlike vapor (as the *gaseous form* spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.  
   

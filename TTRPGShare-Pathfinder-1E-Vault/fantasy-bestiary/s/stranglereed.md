@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Stranglereed
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 90
 desc_short: This tangled mass of thick reeds extends from a bulbous pod split by a wide, thorn-toothed maw.
 ```
-# Description
+## Description
 Stranglereeds f loat motionless in calm lakes and rivers, waiting for prey to approach before lashing out with thick tendrils, grabbing their targets by the throat. Once the stranglereed has secured its prey, it pulls the victim beneath the surface of the water and directs the meal into it’s “mouth,” a submerged circular orifice ringed with gnashing barbs and thorns. Exceptionally voracious, the stranglereed never stops feeding, and in desperate times, the industrious plant can leave the water brief ly in order to hunt on land. These vicious plants may even chase slower prey if it breaks free of their tendrils, but fortunately, a stranglereed can spend only a limited amount of time out of water. Each stranglereed resembles a patch of normal reeds that covers a roughly circular 10-foot-diameter area, while its large, mawed central pod normally hides beneath the water’s surface. A stranglereed weighs 800 pounds.
 
  A stranglereed reproduces by expelling seeds that f loat on air currents, much like dandelion f luff. Those that land on dry earth soon die or become meals for birds and other small animals, but those that land in water grow into full-sized stranglereed stalks within 1 month. A large body of water can be home to multiple stranglereeds, but only if the food supply can meet their demands.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Stranglereed)
 ```encounter-table
 name: Stranglereed

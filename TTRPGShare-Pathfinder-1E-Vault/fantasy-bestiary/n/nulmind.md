@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nulmind
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 184
 desc_short: This thick ribbon of fungus somewhat resembles a caterpillar. Its folds pulse with an eerie, golden incandescence.
 ```
-# Description
+## Description
 The tremendously dangerous nulmind is a fungal creature believed by many sages to have extraterrestrial origins. It is drawn to areas of innate magical power or populated by spellcasters, feasting off the magic in the area while slowly wearing down the inhabitants’ mental faculties with mind-numbing thoughts and images. Users of psychic magic prove to be favored targets, as their mental energy is especially empowering to the fungi. A creature that succumbs to a nulmind’s mind drain aura might eventually become enslaved to the fungus’s alien will, the nulmind using such unfortunate creatures to draw in further prey. A creature enslaved in this way is incapable of seeing to even its own basic needs, becoming a simple extension of the nulmind’s need to feed.
 
  Left unchecked, a nulmind rapidly depletes the local wildlife, as its mindless servants starve to death. Animal life provides very little sustenance for the creature, and a nulmind inevitably works to find richer sources of intelligence and spell power to devour. This sometimes leads the fungus to communities on the border of its forest or to gravitate toward woodland-bound druidic circles. Because of this, druid enclaves often actively hunt and destroy these creatures before they can wreak havoc on the local ecosystem. Despite the fungi’s plantlike nature, most druidic communities view nulminds as anathema to the natural order.
@@ -70,7 +72,7 @@ The tremendously dangerous nulmind is a fungal creature believed by many sages t
  Nulminds are fortunately rare, with no documented culture or organization. These creatures rarely work well in concert, as each is ultimately selfish and sees only to its own needs, draining even its fellows without hesitation. Despite their insatiability, nulminds seem to lack a taste for the mental energy of fey creatures. While the fungi still defend themselves against fey creatures, they go out of their way to avoid areas where such creatures live.
 
  A nulmind moves by compressing and shifting its body, creeping slowly like a caterpillar. A nulmind is about 3 feet long and weighs 50 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nulmind)
 ```encounter-table
 name: Nulmind

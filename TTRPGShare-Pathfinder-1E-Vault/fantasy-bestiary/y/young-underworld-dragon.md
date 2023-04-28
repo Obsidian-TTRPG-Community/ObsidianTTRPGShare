@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Underworld Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 102
 desc_short: This serpentine dragon has skin the color of deep volcanic rock, enormous claws, and jagged, stonelike horns and scales.
 ```
-# Description
+## Description
 Underworld dragons-also called futsanglungs-are calculating, greedy creatures that carve great labyrinthine tunnels beneath the world, defending their hidden treasures. Preferring the earth to the heavens, they channel the fires of the world’s core within their twisting, stonelike bodies and through flaming breath hot enough to turn granite into slag.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Underworld%20Dragon)
 ```encounter-table
 name: Young Underworld Dragon

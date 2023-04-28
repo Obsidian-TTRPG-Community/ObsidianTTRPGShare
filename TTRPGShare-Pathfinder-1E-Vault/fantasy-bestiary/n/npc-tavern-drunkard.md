@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Tavern (Drunkard)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -38,13 +40,13 @@ sources:
   - name: GameMastery Guide
     desc: 303
 ```
-# Description
+## Description
 As ubiquitous as the barkeeps and serving wenches who serve them, drunkards may be found in almost every tavern in every town. Drunkards are wine-sodden louts who frequent pubs far too often, sousing away their meager earnings and often becoming surly and belligerent, especially against those from outside their home community. These are the men who leap up to start or join bar brawls, provided they’re not passed out in the corner, sleeping off their latest binge.
 
 Drunkards might be used as common sailors on shore leave, young country boys visiting town for the first time who can’t hold their liquor, or drunk and disreputable offduty guardsmen. A drunkard could even be used as a surly barkeep who samples his own wares a little too often.
 
 A drunkard may be found alone, or a pair of down-ontheir- luck drunkards might try to mug lone vagabonds for coin for their next drink (CR 3). A table of four drunkards might be sitting in a tavern (CR 5), possibly with a barkeep (CR 6), or perhaps listening to tales from a trapper (CR 6) or minstrel (CR 7). A pair of drunkards might also be found carousing on the street with a couple of shipmates (CR 4), two caravan guards on leave (CR 5), or a pair of slovenly prostitutes (CR 5), or trying to buy some illicit substances from a dealer (CR 5).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Tavern%20(Drunkard))
 ```encounter-table
 name: NPC Tavern (Drunkard)

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Augur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,7 +63,7 @@ sources:
     desc: 171
 desc_short: A single eye peers from behind the armor plates and keen-edged blades that compose the cage-like exterior of this tiny flying orb.
 ```
-# Description
+## Description
 Gory sentinels with a lust for flesh and the myriad bodily fluids contained within, augurs number among the most common-as well as most despicable-kytons on the Plane of Shadow. Having given up their humanoid bodies in favor of the more stealthy and wretched guise of a singular large eye armored in bloodied metal plates, augurs act as spies and sycophants for more powerful kytons. Their miniscule size, sturdy exterior, and unnerving gazes make them ideally equipped for dangerous reconnaissance missions to the Material Plane, where the augurs are able to scout out potential raiding locations or spot vulnerable, lone travelers before their more powerful kyton brethren cross the planes to attack.
 
 While their usefulness in tasks of stealth and guile makes augurs deadly companions, their insatiable lust for blood often proves their ultimate downfall. Augurs, like most kytons, find themselves in a heightened state of arousal when witness to the destruction of flesh, but the extent to which these muscular orbs find pleasure in blood is far more treacherous than their more disciplined peers. Many augurs cannot help but indulge themselves when exposed to gore-rolling within and dipping their blades into freshly spilled pools-an unfortunate trait which has led many careless augurs to their capture or doom.
@@ -71,7 +73,7 @@ An augur’s gruesome appearance is not always self-inflicted. They are sometime
 A lawful evil spellcaster can gain an augur as a familiar at 7th level by taking the Improved Familiar feat.
 
 A typical augur kyton is 1 foot in diameter and weighs 30 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Augur)
 ```encounter-table
 name: Augur

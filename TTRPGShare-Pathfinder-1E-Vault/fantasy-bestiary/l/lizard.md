@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lizard
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 131
 ```
-# Description
+## Description
 Lizards can be found in any temperate or tropical climate. When confronted with predators, a lizard flees and hides.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lizard)
 ```encounter-table
 name: Lizard

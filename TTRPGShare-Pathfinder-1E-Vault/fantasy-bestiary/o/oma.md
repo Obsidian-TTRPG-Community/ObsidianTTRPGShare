@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Oma
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,11 +55,11 @@ sources:
     desc: 62
 desc_short: This whale-like creature floats ponderously, arcs of brilliant energy filling its mouth and rolling down its body.
 ```
-# Description
+## Description
 Oma soar through gas giants and the vast gulfs between planets on magical electromagnetic fields, feeding on cosmic materials strained from planetary rings and atmospheres with their energy baleen. Anything ingested by an oma is eventually sequestered in a surprisingly habitable second stomach before being excreted, and some alien creatures use oma as living starships, using telepathy to guide the colossi through the void.
 
 A typical oma is 150 feet long and weighs 250 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Oma)
 ```encounter-table
 name: Oma

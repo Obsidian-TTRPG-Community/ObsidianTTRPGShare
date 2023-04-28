@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Courage Heart
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,13 +75,13 @@ sources:
     desc: 84
 desc_short: This woman with vaguely half-elven features wears a wooden breastplate and wields a wooden morningstar in one hand. In her other hand she holds a thorny red rose; blood from that hand trickles down her arm.
 ```
-# Description
+## Description
 Courage Heart is a weapon against tyranny and a mighty spark that kindles the fires of hope in mortal hearts. Once a mortal ranger in the service of Milani, she was an early champion of Galt’s Red Revolution when its purpose was to depose evil Chelish nobles, but when that movement become more about chaos and vengeance, she fought against it instead. Eventually branded a Chelish sympathizer by the Revolutionary Council, she allowed herself to be captured in order to allow her allies to escape. She was executed with a final blade, which trapped her soul within it.
 
 Milani, having spent a century communicating directly with her followers, saw the merits of having a divine champion like other deities, and plucked the woman’s soul from the artifact and made her a herald. Now the martyred hero keeps her original name secret so her living relatives in Galt do not become targets by association, and calls herself Courage Heart. Her mission is twofold: to attack the powerful enemies of the church (especially immortal undead who would subjugate the common folk and conjured outsiders used to strike fear into mortal hearts), and to inspire hope among mortals so they can find the strength to turn against tyrants.
 
 As Courage Heart opposes slavery and unjust imprisonment, she has made it her personal crusade to steal all the final blades and free the souls within them. Milani must look at the bigger picture, so the herald has to make progress toward this goal when she can. Courage Heart has been trying to get Pharasma’s herald, the Steward of the Skein, to join her cause, as preventing souls from reaching the Boneyard is of interest to the Lady of Graves, but that herald’s strange nature and the recent creation of the final blades (relative to the history of civilization) means she has made little headway in establishing that alliance to date.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Courage%20Heart)
 ```encounter-table
 name: Courage Heart

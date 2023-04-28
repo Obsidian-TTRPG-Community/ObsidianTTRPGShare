@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ekekeh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 60
 desc_short: This creature looks like a gilled dolphin with a row of spiral horns down its back, arcs of electricity crackling between them.
 ```
-# Description
+## Description
 Ekekehs are intelligent aquatic creatures similar to dolphins, with a row of horns that runs down their backs. Filled with organic metal deposits, these horns both sense the electrical fields of living creatures and channel the ekekehs’ own energy into devastating attacks. Contemplative and fun-loving, ekekehs hold themselves up as proof that humanoids don’t have a monopoly on civilization. While at home in the open ocean, ekekehs also build grand underwater cities, working magic and employing tools via the same limited telekinetic abilities that allow them to float over dry land, where their gills process air as well as water. The slow speed and limited maneuverability of this flight strikes most ekekehs as terribly boring, if not downright embarrassing, yet it is still common for residents of coastal cities to see ekekehs floating slowly through the marketplace, their belongings stuffed into specially fitted packs or dangling from broad leather utility belts. 
 
 An average ekekeh is 10 feet long and weighs 1,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ekekeh)
 ```encounter-table
 name: Ekekeh

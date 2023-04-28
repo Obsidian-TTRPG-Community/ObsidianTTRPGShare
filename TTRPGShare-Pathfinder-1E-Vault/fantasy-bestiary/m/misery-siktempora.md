@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Misery Siktempora
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -74,13 +76,13 @@ sources:
     desc: 90
 desc_short: This armless creature has a woman’s torso supported by six spidery legs. It lacks a mouth or nose, and its gaze conveys a furious misery.
 ```
-# Description
+## Description
 All emotion goes somewhere; that energy does not simply vanish, sent into the void to be lost. Feelings lurch between places and congeal in the endless corners of time. The things they birth have many names, but are collectively known as siktemporas. Most siktemporas never leave the Dimension of Time, dwelling forever in their own isolated mindscape-like fugues, where they bask in the emotions that created them. Yet among the siktemporas, one variety has a penchant for traveling beyond the eerie borders of its home dimension-those born of misery.
 
  Misery siktemporas are personifications of silent suffering. Hideous to behold, wracked in such constant pain that they can endure any agony, and with alien minds incapable of forming any other thought apart from various forms of self-loathing and despair, misery siktemporas find themselves drawn out of the Dimension of Time to seek out those who spawned them and inflict miserable vengeance.
 
  A misery siktempora vaguely resembles a slender human with a body wrapped in black rags and scarfs. It has no arms, and its six exceptionally long spiderlike legs each end in a nearly skeletal looking claw. It has only empty black eye sockets in its narrow faces-no mouth, ears, or nose-and from those empty sockets trail constant rivers of black tears.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Misery%20Siktempora)
 ```encounter-table
 name: Misery Siktempora

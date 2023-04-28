@@ -1,19 +1,21 @@
 ---
-alias: Meticulous Match
+aliases: [Meticulous Match]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Meticulous Match 
+## Meticulous Match
 
 **source**:: Ultimate Intrigue pg. 220  
 **school**:: divination
 **level**:: arcanist 4, bard 3, hunter 3, inquisitor 3, occultist 3, ranger 3, skald 3, sorcerer 4, witch 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: two objects touched  
@@ -21,7 +23,7 @@ alias: Meticulous Match
 **saving-throw**:: Fort negates (object)
 **spell-resistance**:: yes (object)
 
-### Description 
+### Description
 
 You compare two similar items and know if they are identical to one another or not. The spell can indicate an identical match, a categorical match, or no match. For instance, blood samples are identical if they are from the same creature. They are categorical if they are from the same species. There is no match if they are from different species, or if one sample is merely stage blood.  
   

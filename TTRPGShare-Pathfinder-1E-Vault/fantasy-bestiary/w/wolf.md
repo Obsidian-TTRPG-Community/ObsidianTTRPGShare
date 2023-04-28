@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wolf
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,9 +43,9 @@ sources:
     desc: 278
 desc_short: This powerful canine watches its prey with piercing yellow eyes, darting its tongue across sharp white teeth.
 ```
-# Description
+## Description
 Wandering alone or in packs, wolves sit at the top of the food chain. Ferociously territorial and exceptionally wide-ranging in their hunting, wolf packs cover broad areas. A wolf’s wide paws contain slight webbing between the toes that assists in moving over snow, and its fur is a thick, water-resistant coat ranging in color from gray to brown and even black in some species. Its paws contain scent glands that mark the ground as it travels, assisting in navigation as well as broadcasting its whereabouts to fellow pack members. Generally, a wolf stands from 2-1/2 to 3 feet tall at the shoulder and weighs between 45 and 150 pounds, with females being slightly smaller.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wolf)
 ```encounter-table
 name: Wolf

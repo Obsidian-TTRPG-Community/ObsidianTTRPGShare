@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Executioner Devil (Munagola)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,9 +59,9 @@ sources:
     desc: 247
 desc_short: Corded muscles ripple under this massive devil’s red skin as her black wings beat overhead and her black eyes smolder like coals.
 ```
-# Description
+## Description
 Rare but long-existing members of devilkind, munagolas are the result of the single-minded ambition of Eiseth, the Erinyes Queen and Hell’s Valkyrie. Shortly after she established her realm in Dis, Eiseth set about creating an army worthy of her rage and might. The result of fleshwarping and infernal tinkering that defies even the archdevils’ scrutiny, munagolas combine the aerial strength and craftiness of erinyes with the sheer brute force of barbed devils, bone devils, and even pit fiends. It takes centuries to create one munagola from a progenitor erinyes, but once she’s transformed, the devil is even stronger, more furious, and more determined to conquer Hell on Eiseth’s behalf than ever before.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Executioner%20Devil%20(Munagola))
 ```encounter-table
 name: Executioner Devil (Munagola)

@@ -1,19 +1,21 @@
 ---
-alias: Mythic Wall of Thorns
+aliases: [Mythic Wall of Thorns]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Wall of Thorns
+## Mythic Wall of Thorns
 
 **source**:: Mythic Adventures pg. 112  
 **school**:: conjuration (creation)
 **level**:: druid 5, hunter 5, shaman 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: wall of thorny brush, up to one 10-ft. cube/level (S)  
@@ -21,7 +23,7 @@ alias: Mythic Wall of Thorns
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 A *wall of thorns* spell creates a barrier of very tough, pliable, tangled brush bearing needle-sharp thorns as long as a human's finger. Any creature forced into or attempting to move through a *wall of thorns* takes piercing damage per round of movement equal to 25 minus the creature's AC. Dexterity and dodge bonuses to AC do not count for this calculation. (Creatures with an AC of 25 or higher, without considering Dexterity and dodge bonuses, take no damage from contact with the wall.)  
   

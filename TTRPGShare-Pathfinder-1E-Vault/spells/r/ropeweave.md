@@ -1,19 +1,21 @@
 ---
-alias: Ropeweave
+aliases: [Ropeweave]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Ropeweave 
+## Ropeweave
 
 **source**:: Ultimate Wilderness pg. 233  
 **school**:: transmutation
 **level**:: hunter 2, occultist 2, ranger 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, F (a rope)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one rope  
@@ -21,7 +23,7 @@ alias: Ropeweave
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You cause the target rope to grow in length and weave itself into one of several forms, each of which can support up to 1,000 pounds, plus 200 pounds per caster level (maximum 3,000 pounds at 10th level). Only one type of construction can be created with each casting of the spell, and the creation remains stationary unless destroyed.  
   

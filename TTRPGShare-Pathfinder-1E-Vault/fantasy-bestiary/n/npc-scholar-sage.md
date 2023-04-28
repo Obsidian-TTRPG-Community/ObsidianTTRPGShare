@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Scholar (Sage)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: GameMastery Guide
     desc: 297
 ```
-# Description
+## Description
 A sage is an academic of the first order. Both a polyglot and polymath, a sage can be consulted to answer any number of questions by anyone wealthy enough to afford her considerable fees. A sage is often accompanied by a merchant prince who procures all the research materials she desires (CR 12), and together they may sit on the small council of a queen (CR 13) or king (CR 15).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Scholar%20(Sage))
 ```encounter-table
 name: NPC Scholar (Sage)

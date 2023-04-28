@@ -1,19 +1,21 @@
 ---
-alias: Sand Table
+aliases: [Sand Table]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Sand Table 
+## Sand Table
 
 **source**:: Villain Codex pg. 165  
 **school**:: divination
 **level**:: arcanist 4, bard 3, hunter 3, medium 3, ranger 3, skald 3, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (handful of sand)
 
-### Effect 
+### Effect
 
 **range**:: see text  
   
@@ -21,7 +23,7 @@ alias: Sand Table
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Sand table* allows you to create a scale model of the battlefield surrounding your position, showing numbers of troops, their relative positions, and their movement as if you were observing from a great height overhead (1,000 feet up). You cast the spell upon a table or other flat surface and cause the model to appear upon a 5-foot-by-5-foot section of that table or surface. It reflects accurate terrain and topography, though it doesn’t identify fine topographical features or concealed or hidden topography. It also indicates all normally visible Small or larger creatures within the area of effect, but it doesn’t provide identifying characteristics of those creatures; each creature appears as an indistinct speck, under 1 millimeter in each dimension.  
   

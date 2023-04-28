@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Forsaken Lich
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 82
 desc_short: This horribly withered creature moves in jerks and twitches as if constantly wracked with pain. Waves of shadow undulate through the creature’s body, emerging like appendages from just beneath its dry, stretched skin.
 ```
-# Description
+## Description
 The means of attaining lichdom are extremely personal for mortal spellcasters, fraught with misinformation and peril. The smallest miscalculation in the potion of lichdom's formula or most minute flaw in one's phylactery can interrupt the process that infuses one's mortal soul with overwhelming arcane and negative energies. Other times, an inexperienced wizard attempts the transformation, or erroneously consumes a formula produced for another spellcaster, instantly dying from the backlash of potent forces or condemning himself to a terminal but far more terrible end.
 
 In these sorrowful cases, the process traps the soul of the would-be lich outside a phylactery that will not accept it and a body that has rejected it. The potent arcane forces tampered with by the lich's failed creation also find themselves unleashed but uncontrolled, surrounding the newly formed abomination, empowering it but also slowly consuming its essence.
 
 This creature, known as a forsaken lich, is granted the undeath it sought in life, but in a terrifyingly temporary fashion. For the miscalculations of its ambitions, the creature's once-vibrant body shrivels and decays like that of a lich, but becomes a lifeless shell manipulated by the malicious soul and unchecked magical storm that envelop it, forces that control the corpse's actions almost like a marionette. Yet this doom is temporary for nearly all who attempt this foul transition. With the soul unbound from the body and both spirit and corpse exposed to destructive arcane tides, both are slowly eroded. After 1d10 days, the forsaken lich's body and soul are both consumed like a lit candle, eventually reduced physically to ashes, and spiritually to nothing-its essence utterly annihilated, scoured from existence for all time.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Forsaken%20Lich)
 ```encounter-table
 name: Forsaken Lich

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Calikang
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 80
 desc_short: This blue-skinned, six-armed giant lurches to life, its armor and twin swords glittering with jewels.
 ```
-# Description
+## Description
 The calikang is a much sought-after guardian of treasuries, harems, and fortifications. Legend holds that, an untold number of eons ago, one of the thousand deities of Vudra failed at a task, and the first calikangs were born from that god’s severed fingers. Calikangs have powerful sense of guilt and shame over their divine source’s ancient failings, and they believe that if enough calikangs protect worldly holdings from robberies or destruction, this inherited sin will someday be wiped clean.
 
 Calikangs are 14 feet tall and weigh 4,000 pounds. They can live for 200 years- though many extend their lives beyond this via suspended animation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Calikang)
 ```encounter-table
 name: Calikang

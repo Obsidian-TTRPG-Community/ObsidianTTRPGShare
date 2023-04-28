@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Man-Eating Aurochs
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 88
 desc_short: No ordinary bovine, this hulking beast has bloodstained horns and sharpened teeth. Its eyes show a malign intelligence.
 ```
-# Description
+## Description
 Scholars will explain that though many animals fight to defend their territory and their young, only a few apex predators hunt humanoids for food. Yet any villager across the Inner Sea region can recount tales about maneating beasts that once lurked in the local wilderness (and might still). Any sort of animal can become a man-eater, from known predators to seemingly harmless herbivores. Though the creatures and locations may change, certain elements remain the same in tales of man-eating animals. Having tasted human flesh, these animals can’t be sated by any other type of food. Man-eaters have terrible bites, and hunters’ arrows bounce off their hides. Man-eaters are unusually bold, no longer frightened by human presence like their kin. Yet they are also canny, employing tactics no mere animal could conceive. Man-eaters appear able to understand human speech, and some of the more fanciful stories even claim the animals can speak.
 
 A man-eating animal can be distinguished from its common relatives by its carnivorous teeth, enlarged jaws, and the glint of intelligence in its eyes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Man-Eating%20Aurochs)
 ```encounter-table
 name: Man-Eating Aurochs

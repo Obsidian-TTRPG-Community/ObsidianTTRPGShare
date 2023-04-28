@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Unicorn
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 269
 desc_short: This magnificent beast looks like a white horse, but with a goat’s beard and a single long ivory horn on its brow.
 ```
-# Description
+## Description
 Unicorns are fierce, intelligent creatures of the forest, noble beasts who keep their own counsel and typically appear only to defend their homes against evil. They universally shun all creatures except for good-aligned fey, good-aligned humanoid women, and the woodlands’ native animals, though they may fight alongside other good creatures against common enemies. A typical unicorn is 8 feet long and 5 feet tall at the shoulder, weighing 1,200 pounds.
 
 Unicorns mate for life, and the pairs generally make their homes in specific glades or dells within the vast forests they protect (these regions can cover anywhere from a few dozen square miles to hundreds). They allow good and neutral creatures to pass through, hunt for food, or reside in their woods unharmed, but evil creatures and those who damage the local ecosystem more than necessary through sport hunting or commercial logging are swiftly driven out or killed. On rare occasions, lone unicorns without mates or whose partners have been slain have been known to adopt young women of exceptionally pure virtue as surrogates, allowing the women to ride on their backs and becoming their guardians and protectors for life. This bond generally ends amiably if the woman becomes more committed to someone else-such as a lover or child-giving rise to the myth that unicorns only befriend virgins.
 
 A unicorn’s horn is the focus for its powers, and in order to use its spell-like abilities on other creatures the unicorn must touch them with it. Evil creatures greatly value unicorn horns as reagents for healing potions and other dark rites, and a single powdered unicorn horn counts as 1,600 gp when used as a component for crafting healing magic.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Unicorn)
 ```encounter-table
 name: Unicorn

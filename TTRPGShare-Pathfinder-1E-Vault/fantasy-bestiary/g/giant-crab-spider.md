@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Crab Spider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,9 +49,9 @@ sources:
     desc: 254
 desc_short: This pale yellow spider’s legs protrude on either side, giving it a very distinctive stance. The thing is the size of a large dog.
 ```
-# Description
+## Description
 Giant crab spiders are dangerous ambush predators that live in dense forest vegetation. Though crab spiders are not web spinners, they are truly gifted climbers and use this talent to clamber up into places where they can observe wide areas from on high. Named for their curious scuttling walk and wide-legged stance, giant crab spiders are rarely larger than a typical adult halfling.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Crab%20Spider)
 ```encounter-table
 name: Giant Crab Spider

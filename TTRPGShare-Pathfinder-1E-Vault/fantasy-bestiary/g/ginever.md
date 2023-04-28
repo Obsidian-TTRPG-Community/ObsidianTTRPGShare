@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ginever
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 58
 desc_short: This lanky, yellow-eyed drunk sways unsteadily, draped in the stink of barley and fermentation.
 ```
-# Description
+## Description
 Ginevers are cruel human-seeming creatures suffused with liquor and spite. Sometimes called “gin devils,” they haunt dive bars and tumbledown slums, living in the shadow of civilization. They are eager carnivores, and while they can sate themselves on any meat, they prefer the taste of flesh marinated for months in sweet, soothing alcohol-a diet that frequently brings them into contact with the dregs of society.
 
 Ginevers are newer arrivals in Taldor, apparently hailing from Casmaron where they have hunted for thousands of years. They claim to be the sacred children of a vile foreign god of fermentation, though Qadiran tales describe them as bandits and vagabonds cursed for their gluttony. Given that ginevers are both argumentative and prone to exaggeration, the truth of their origins is likely lost to history.
 
 Their near-human appearance allows ginevers to blend into society, avoiding notice so long as they control their appetites and avoid scrutiny. With this natural camouflage, they may have dwelled in city shadows for far longer than is known, only emerging in greater numbers as Taldor declines. While a ginever’s gaze can transform even water into some form of alcohol, the magically created spirits are of low, burning quality, and so what little coin the ginever collects is quickly spent on high-quality ales, liquors, and wines.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ginever)
 ```encounter-table
 name: Ginever

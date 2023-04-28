@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adult Bliss Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
     desc: 90
 desc_short: This serene dragon’s feathered form emits a comforting warmth.
 ```
-# Description
+## Description
 Bliss dragons are self-appointed wardens of wildlife and wilderness, sometimes even displacing fey and magical beasts whose ethics fall short of the dragons’ high standards. Bliss dragons often sequester refugees in their extraplanar glades, granting sanctuary and healing to those in need.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adult%20Bliss%20Dragon)
 ```encounter-table
 name: Adult Bliss Dragon

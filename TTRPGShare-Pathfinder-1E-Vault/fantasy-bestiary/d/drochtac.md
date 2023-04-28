@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drochtac
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,7 +50,7 @@ sources:
     desc: 59
 desc_short: An inordinate number of sinewy limbs, each terminating in clawed feet, protrude from the sides of this slithering creature. Its face is disturbingly demonic.
 ```
-# Description
+## Description
 Drochtacs are evil fey that, given their mottled skin and many limbs, are almost verminlike in appearance. These creatures move in an undulating motion, with each pair of a drochtac’s feet taking turns dragging its body along the ground. Although a drochtac looks emaciated, the muscles between its ribs are powerful and allow the creature to quickly stretch its body like a spring. This enables the creature to attack targets far beyond its apparent reach, often to the shock and terror of its enemies. Unfortunately for drochtacs’ prey, these vicious fey can survive in a wide variety of climates.
 
 The flesh of a drochtac contains vomit-inducing chemicals that, when ingested, cause nausea in most living creatures. For this reason, these fey creatures have few natural enemies. Rather, drochtacs are patient ambush predators that prefer to catch creatures close to their own size. Drochtacs prefer to make meals out of intelligent creatures, as they find this prey requires them to employ more advanced hunting and stalking skills than when they’re hunting animals or other low-intelligence creatures.
@@ -56,7 +58,7 @@ The flesh of a drochtac contains vomit-inducing chemicals that, when ingested, c
 Also, despite their violent natures, drochtacs are curious creatures that enjoy talking to their victims before killing them. Sometimes, although rarely, drochtacs keep their prey alive for weeks if the victims can keep them entertained with stories (and the fey creatures can find something else to eat). When very hungry, however, they often do not even bother to kill their paralyzed victims before they start eating them.
 
 Drochtacs often stalk small parties of travelers or lost wanderers, waiting for just the right time to strike; in this way, they ensure that their hunting skills stay sharp. Their metabolisms are slow; and after gorging on a creature of suitable size, a drochtac can go for weeks without eating. When they’re not hunting, drochtacs lair in secluded ravines, inside the hollows of large trees, or in caves or other places abandoned by larger predators. Drochtacs also use such places to bear and rear their offspring, turning once peaceful spots into terrifying dens of many-legged young.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drochtac)
 ```encounter-table
 name: Drochtac

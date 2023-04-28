@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ghoul Hound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,11 +49,11 @@ sources:
     desc: 33
 desc_short: This canine creature has sallow, dead skin stretched tight across
 ```
-# Description
+## Description
 Ghouls keep ghoul hounds much as humans keep hunting dogs-some ghouls view these vicious beasts as little more than tools, while more sentimental ghouls treat them as favored pets. Ghoul hounds obediently follow their ghoul masters.
 
  Grathkoll (CR 2): A larger breed of ghoul hound, the grathkoll can be ridden by a Medium creature. A grathkoll is a ghoul hound with the giant simple template and a +10 bonus to its base land speed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ghoul%20Hound)
 ```encounter-table
 name: Ghoul Hound

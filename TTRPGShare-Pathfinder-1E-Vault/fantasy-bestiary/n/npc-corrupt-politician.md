@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Corrupt Politician
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,7 +56,7 @@ sources:
     desc: 53
 desc_short: This woman wears colorful clothing of fine cut and cloth, and carries a satchel of documents.
 ```
-# Description
+## Description
 The representative democracy that stands as Andoran’s form of government is unusual in the lands of Golarion. In many respects, Andoren society is a model of liberty and equality among races and classes, a meritocracy wherein established castes of hereditary aristocracy have been set aside in favor of letting the best and brightest rise like cream to the top. Many serve with a true heart of civic duty, doing their best to raise the fortunes of all in their land.
 
 Others, however, seek public office not for the benefit of the nation’s general welfare, but rather for their own selfish interests. While most politicians in Andoran truly wish to serve their fellow citizens, it is inevitable that such power occasionally falls into the hands of the corrupt and greedy. Many corrupt politicians seek out office hoping to use its power to increase their own wealth and prestige, while others are slowly seduced by the ease with which their power allows them to cut corners, demand favors, and solve personal problems with wealth they hold in trust for the good of their constituents.
@@ -64,7 +66,7 @@ Politicians who have abandoned their public trust have numerous opportunities to
 Some corrupt politicians even convince themselves that such actions are necessary so they can gain the political power to do good in “important” matters. This self-serving belief allows such politicians to convince themselves that using their positions to assist with illegal smuggling, racketeering, gambling, and abuse of the political process is an acceptable cost of winning support for building orphanages and feeding the poor. Only a few corrupt politicians stoop to violence and extortion, though many who wish to restrict themselves to “victimless” crimes find themselves involved in ever-darker deeds as their careers progress.
 
 Those fallen politicians who believe they do little true harm can sometimes be redeemed. A few turn their backs on their criminal allies upon seeing the damage done by their perversion of the democratic system, while others must be threatened with potential exposure or prosecution before changing their ways.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Corrupt%20Politician)
 ```encounter-table
 name: NPC Corrupt Politician

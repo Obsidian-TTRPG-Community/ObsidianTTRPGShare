@@ -1,19 +1,21 @@
 ---
-alias: Emotive Block
+aliases: [Emotive Block]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Emotive Block 
+## Emotive Block
 
 **source**:: Occult Adventures pg. 169  
 **school**:: enchantment (compulsion) (emotion, mind-affecting)
 **level**:: mesmerist 2, psychic 3, spiritualist 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature  
@@ -21,7 +23,7 @@ alias: Emotive Block
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create an emotional block in the target’s mind, adding an emotion component to each spell or spell-like ability he uses. This is in addition to any other components the spell already requires, and doesn’t replace the somatic component. The target’s spelllike abilities require this emotion component, even though they normally don’t need spell components.  
   

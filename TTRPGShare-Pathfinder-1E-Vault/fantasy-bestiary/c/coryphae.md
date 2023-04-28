@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Coryphae
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 52
 desc_short: A crown of softly glowing crystals caps the head of this hauntingly beautiful, midnight-black figure.
 ```
-# Description
+## Description
 In the elegant, darkly beautiful courts of the fey, coryphaes entertain and protect their rulers. They live to refine their dances, honing their skills and forever in search of a liege worthy of such boundless dedication and perfection. When faced with enemies or forced onto the battlefield, coryphaes can cleverly use their courtly dancing skills to wreak havoc on the minds and bodies of their bewildered opponents.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Coryphae)
 ```encounter-table
 name: Coryphae

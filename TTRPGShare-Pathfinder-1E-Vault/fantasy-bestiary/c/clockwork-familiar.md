@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Familiar
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 86
 desc_short: This tiny metallic creature is shaped like a raven, gears and belts whirring beneath its shining, articulated plates.
 ```
-# Description
+## Description
 For those who fuse magic with machinery, the best familiar is the one the caster creates herself, breathing life into a clockwork mechanism of her own design. A spellcaster can gain a clockwork familiar at 7th level by taking the Improved Familiar feat. A typical clockwork familiar is 2 feet tall or long and weighs 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Familiar)
 ```encounter-table
 name: Clockwork Familiar

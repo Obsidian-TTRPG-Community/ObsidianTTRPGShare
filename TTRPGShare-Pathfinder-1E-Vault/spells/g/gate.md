@@ -1,19 +1,21 @@
 ---
-alias: Gate
+aliases: [Gate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Gate 
+## Gate
 
 **source**:: PRPG Core Rulebook pg. 287  
 **school**:: conjuration (creation or calling)
 **level**:: arcanist 9, cleric 9, oracle 9, psychic 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (see text)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: see text  
@@ -21,7 +23,7 @@ alias: Gate
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Casting a *gate* spell has two effects. First, it creates an interdimensional connection between your plane of existence and a plane you specify, allowing travel between those two planes in either direction.  
   
@@ -44,4 +46,3 @@ If you choose to exact a longer or more involved form of service from a called c
 Failure to fulfill the promise to the letter results in your being subjected to service by the creature or by its liege and master, at the very least. At worst, the creature or its kin may attack you.  
   
 *Note*: When you use a calling spell such as gate to call an air, chaotic, earth, evil, fire, good, lawful, or water creature, it becomes a spell of that type.
-

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Young Lunar Dragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,9 +60,9 @@ sources:
     desc: 66
 desc_short: A shimmering halo surrounds this regal dragon’s spine-crowned head, and its vast wings ripple like milky gossamer lit by the moon.
 ```
-# Description
+## Description
 Lunar dragons frequently interact with mortals, spending long hours watching the activities occurring on planets that interest them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Young%20Lunar%20Dragon)
 ```encounter-table
 name: Young Lunar Dragon

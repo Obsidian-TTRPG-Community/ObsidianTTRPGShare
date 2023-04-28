@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Valharut
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
     desc: 237
 desc_short: This four-armed faceless woman has flesh that appears to be made of pale marble veined with traceries of blue lines.
 ```
-# Description
+## Description
 Valharut inevitables are champions in Axis’s ongoing war with the Maelstrom and its protean natives. Unlike other inevitables, the valharut is not designed to protect or maintain a specific universal constant or planar law, but rather to act as a soldier against the ever-encroaching forces of chaos. As such, valharuts are more often seen outside of Axis, battling enemies of law under the direct orders of their axiomite superiors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Valharut)
 ```encounter-table
 name: Valharut

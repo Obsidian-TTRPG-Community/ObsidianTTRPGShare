@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tattoo Guardian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 54
 desc_short: This beautiful, impossibly intricate tattoo appears to swirl and move along its wearer’s skin.
 ```
-# Description
+## Description
 Many cultures across Golarion employ tattoos as symbols of protection, but to those fortunate enough to be wearers of tattoo guardian, the protection is far more than symbolic. Fiercely loyal and protective of its ward, a tattoo guardian leaves its wearer’s skin to fight any who would harm her. Tattoo guardians are common in the courts of Tian Xia, where wealthy courtiers pay kings’ ransoms for protection against assassins hired by their rivals, and in Varisia, where the arts of tattooing and magic have long intertwined. Certain Garundi arcane universities are known to provide senior students of summoning and other dangerous fields of magic with vigilant tattoos to protect them from accidental harm. Temples of virtuous deities might also ink guardians upon the skins of high-level clergy such as healers or prophets who are not skilled in battle magic. Such tattoo guardians often use the iconography of the religion for their forms: a revered Sarenite healer might be adorned with a fiery phoenix that flares into life if she is threatened, while a Caydenite cleric especially skilled in brewing libations might bear a cayhound across his shoulders.
 
 The ink used in the construction of a tattoo guardian is amorphous, able to change shape and harden to become as sharp and solid as steel. Should its wearer be threatened, the guardian withdraws its ink from the wearer’s flesh and hardens it into a thin blade, then rises from the wearer’s skin to interpose itself between her and her attackers. Even though a tattoo guardian can completely separate itself from its wearer, it rarely strays far from her, even in the midst of battle.
 
 The guardian and its wearer share a magical bond; should it fail in its duty, a tattoo guardian typically selfdestructs, the once-sentient ink melding with its former master’s blood. In rare cases, the guardian might gain some fragment of its dying master’s sentience and go out into the world instead. Sadly, most of these creatures are driven completely insane by the process, and are unable to pursue goals more complicated than revenge against their masters’ killers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tattoo%20Guardian)
 ```encounter-table
 name: Tattoo Guardian

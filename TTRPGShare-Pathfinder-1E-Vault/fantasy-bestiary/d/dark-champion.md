@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Dark Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 62
 desc_short: This gaunt humanoid’s body is entirely cased in black plate armor. Its open-faced helm reveals its pale skin and shallow, fleshy hollows where its eyes should be.
 ```
-# Description
+## Description
 The rare dark folk children born without eyes are assigned to the dark champion caste and begin a life of rigor, privation, and martial training. Their armor is typically bolted to their bodies in sections and removed only rarely. Most other dark folk appreciate the discipline and might of dark champions, but they treat them with wary respect.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Dark%20Champion)
 ```encounter-table
 name: Dark Champion

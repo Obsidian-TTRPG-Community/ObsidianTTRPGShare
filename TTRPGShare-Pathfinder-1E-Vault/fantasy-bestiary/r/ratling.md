@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratling
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,7 +64,7 @@ sources:
     desc: 86
 desc_short: This ratlike creature has tiny human hands in place of its front paws, and an unnerving human face with a toothy mouth.
 ```
-# Description
+## Description
 The ratling is a hideous amalgamation of rat and human: a long-haired rodent with handlike front paws and a face reminiscent of the face of a leering old man. Within the ratling’s humanoid mouth are long, yellow incisors more akin to those one might find in the jaws of a rat.
 
 Ratlings are carnivores. While they can subsist on grubs, other rodents, and carrion, they prefer living food and fresh blood, particularly that of humanoid children and elderly folk. They also have a sense for magic, and lurk around temples and universities searching for scraps of knowledge or overlooked books and scrolls to steal.
@@ -74,7 +76,7 @@ Elder ratlings often gain the advanced simple template or levels in cleric, orac
 A chaotic evil spellcaster can gain a ratling as a familiar at 7th level by taking the Improved Familiar feat. A ratling familiar gains commune once per week as a spell-like ability, which it can use on its master’s behalf. The master usually allows the familiar to drink her blood at least once per week.
 
 A ratling measures just over 2 feet long (although half that length is its long, ratty tail) and weighs 10 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratling)
 ```encounter-table
 name: Ratling

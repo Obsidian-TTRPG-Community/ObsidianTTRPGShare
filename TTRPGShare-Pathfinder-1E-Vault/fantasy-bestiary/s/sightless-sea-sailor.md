@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Sightless Sea Sailor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 60
 desc_short: The smell of brine mingles with the sickly stench of uncured leather that surrounds this ferocious buccaneer.
 ```
-# Description
+## Description
 Urdefhan culture relies on the forceful maintenance of authority, and many of the urdefhans’ farthest-flung conquests see brutal enforcement of their will thanks to the arterial link of the Sightless Sea. Many urdefhans crew ocean-going vessels for their people, treading a thin line between marines and pirates. Their crimson-sailed ships ply the Sightless Sea deep below Golarion’s surface to impose daemonic law on foreign shores, press other sailors into service-albeit briefly before working or torturing them to death-and sink any vessel that shows the audacity to resist being boarded and “inspected.” Inclined as they are towards suffering (both their own and that of others), some independent urdefhans also sail the Sightless Sea and other bodies of water in the Darklands as freebooters or traders, but only the most depraved, strongest, and most foolhardy of other races would dare sign on with such a grotesque crew.
 
 Thanks to their years spent on rolling decks and in tight quarters, urdefhan sailors are faster and more dexterous than the landlubber soldiers of their empire, and all the more vicious and desperate in battle for their lack of overwhelming reinforcements. Their vessels, which are freely traded between urdefhans whenever they find port, are floating sanctuaries of disease and torture and are chronically undersupplied. Crew members eat only by claiming the cargo and passengers aboard the enemy ships they raid; conveniently, to the urdefhans, everyone is an enemy. When these stolen supplies run dry, crew members readily devour the flesh of weaker shipmates to continue their grim voyages of theft, conquest, and slaughter.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Sightless%20Sea%20Sailor)
 ```encounter-table
 name: Sightless Sea Sailor

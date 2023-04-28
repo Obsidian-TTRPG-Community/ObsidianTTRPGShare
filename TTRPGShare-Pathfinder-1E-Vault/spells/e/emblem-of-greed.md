@@ -1,19 +1,21 @@
 ---
-alias: Emblem of Greed
+aliases: [Emblem of Greed]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Emblem of Greed 
+## Emblem of Greed
 
 **source**:: Arcane Anthology pg. 20  
 **school**:: transmutation (polymorph)
 **level**:: arcanist 6, cleric 6, inquisitor 6, magus 6, medium 6, oracle 6, shaman 7, sorcerer 6, warpriest 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a masterwork or magical melee weapon)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: 1 masterwork melee weapon touched  
@@ -21,7 +23,7 @@ alias: Emblem of Greed
 **saving-throw**:: none (object)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You transform one melee weapon into a burning glaive similar to the ones wielded by the runelords of old. The target of your spell must be a masterwork or magical melee weapon appropriate to your size. The weapon becomes a glaive appropriate to your size and has a +1 enhancement bonus and the *flaming* weapon special ability. When wielding the glaive, you are considered proficient with it and use your caster level as your base attack bonus (which may give you multiple attacks). When you reach caster level 14th, the glaive gains the *spell-storing* weapon special ability. When you reach caster level 17th, it loses the *flaming* weapon special ability, and gains the *flaming burst* weapon special ability. The glaive’s enhancement bonus increases to +2 at caster level 15th, and +3 at caster level 19th.  
   

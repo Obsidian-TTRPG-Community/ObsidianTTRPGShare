@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Nyogoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 224
 desc_short: This appears to be a mass of floating intestines tangled around a fanged mouth-the tips of its coils also end in toothy maws.
 ```
-# Description
+## Description
 The nyogoth’s role on the Abyss is that of a scavenger. Essentially mobile clumps of buoyant intestines, these writhing creatures squirt through the air in convulsive movements like an octopus gliding through water, and are constantly on the search for anything smaller than one of their many mouths (either the relatively small ones that pinch and gasp at the tips of their intestinal limbs or the larger gaping one at their cores). They can subsist on the waste and filth left behind by other denizens of the Abyss, but particularly enjoy feeding on still-living creatures.
 
 Despite their seemingly lowly role in Abyssal ecosystems, the nyogoths are far from stupid beasts. Most are nearly as intelligent as the average human, and are capable of solving relatively complex problems when it comes to securing the next meal. As outsiders, nyogoths do not need to eat to survive, yet this does not exempt them from hunger-a nyogoth that goes for longer than 12 hours without a meal becomes increasingly violent and erratic. Such a “starving” nyogoth typically fights to the death when the prospect of food is available, and may even resort to self-cannibalism, drinking its own spurting digestive juices from its wounds in a nauseating display.
 
 A typical nyogoth is 5 feet in diameter and weighs 260 pounds, although they are known to grow much larger.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Nyogoth)
 ```encounter-table
 name: Nyogoth

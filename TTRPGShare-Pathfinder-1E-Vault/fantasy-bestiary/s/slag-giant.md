@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Slag Giant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 129
 desc_short: Soot, ash, and coal dust streak this giant’s rust-colored skin. Her eyes hold a look of both determination and detachment.
 ```
-# Description
+## Description
 Magically crafted and crossbred from fire giants and stone giants by ancient wizards, slag giants are among the foremost artisans and crafters of giantkind. Proportioned more like stone giants than fire giants, slag giants have long limbs with lean muscles; they stand 14 feet tall and weigh 3,000 pounds. Slag giants’ skin color ranges from a deep and ruddy hue to a rusty orange. Their hair is black, gray, or white, though males and females both tend to keep their hair cropped close or shaved off. Slag giants can live to be 400 years old.
 
 Slag giants usually evince a cold, detached attitude about everything other than their work. Their inherent understanding of metalworking and resistance to fire allow them to craft arms and armor from inside their huge forges, sometimes working the metal with their bare hands. Small families of slag giants often ally with clans of other giants, providing masterwork armor and weapons in exchange for ore and the freedom to practice their crafting skills in peace. Even militaristic fire giants (who pride themselves on their strength and martial prowess) respect the fine work of the weaker slag giants, and usually attempt to ally with the artisans rather than enslaving them.
 
 Slag giant settlements usually consist of several stone homes (built from or surrounded by forge slag) with built-in forges and large, smoking chimneys. Most are in hills or mountains, but they can be found anywhere there is a ready supply of iron ore. Although they prefer creation to combat, slag giants are brutal and efficient fighters, capable of destroying an enemy’s weapons or armor in a few precise blows. They often let opponents retreat if it gives the giants the opportunity to collect any broken weapons and armor as salvage. If approached peacefully, they are willing to barter or sell their goods, though they usually don’t have human-sized items on hand. Trespassers who carelessly or wantonly destroy a slag giant’s work or foul its forge usually end up in the fire. Most settlements have several giantsized breastplates the residents can don if they expect a serious fight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Slag%20Giant)
 ```encounter-table
 name: Slag Giant

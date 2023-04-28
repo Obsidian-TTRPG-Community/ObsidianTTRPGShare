@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Slug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,13 +53,13 @@ sources:
     desc: 254
 desc_short: This massive, gray-brown slug leaves a viscous trail of slime in its wake as a long rasping tongue tastes the air for prey.
 ```
-# Description
+## Description
 No simple garden pests, giant slugs pose a serious threat to those caught in their path. Folk who dwell near swamps and other regions that support giant slugs risk losing livestock and even their homes to these enormous beasts. Giant slugs constantly wander in search of food, their preference being fleshy organic material, which they slice into smaller, easily gulped chunks with their rasp-like tongues.
 
 What strange influence might have caused the first giant slugs to grow to such monstrous proportions is unknown, but today, giant slugs breed true and birth their oversized offspring after a fleshy, squirming courtship ritual. After mating, a female giant slug lays just over a hundred eggs, each approximately a foot in diameter. The mother slug guards this clutch fiercely and aggressively attacks any creatures that wander too close. Giant slugs inhabiting swamps aboveground mate once a year, and those who live in the area know better than to go into the swamps during this month.
 
 Deep below ground, some subterranean races use giant slugs as mounts or guardians. Creatures like mites, who have a strange empathy with vermin, can be used to keep giant slugs docile, but in most cases, those who would use giant slugs must do so with great care, keeping them well fed until they are needed for battle. Frightened whispers report armies of troglodytes using giant slugs as siege mounts. One particularly disturbing tale mentions a vast underground cavern inhabited by scores of skum and aboleth-controlled aquatic giant slugs with strange, mind-numbing abilities infused into their acidic saliva.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Slug)
 ```encounter-table
 name: Giant Slug

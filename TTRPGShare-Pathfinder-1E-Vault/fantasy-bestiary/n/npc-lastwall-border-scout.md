@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Lastwall Border Scout
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,9 +54,9 @@ sources:
   - name: Castles of the Inner Sea
     desc: 10
 ```
-# Description
+## Description
 Travelers roaming the plains between Lastwall and Belkzen may accidentally encounter scouts from Everstand sent to watch the borderlands, though such border rangers are masters of stealth and are rarely seen unless they wish to be.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Lastwall%20Border%20Scout)
 ```encounter-table
 name: NPC Lastwall Border Scout

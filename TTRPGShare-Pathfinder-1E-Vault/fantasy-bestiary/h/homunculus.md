@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Homunculus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,13 +50,13 @@ sources:
     desc: 176
 desc_short: This vaguely humanoid creature is about the size of a cat but looks more like a toothy, winged devil.
 ```
-# Description
+## Description
 A homunculus is a miniature servant created by a spellcaster from his own blood. They are weak combatants but make effective spies, messengers, and scouts. A homunculus’s creator determines its precise features; some are more refined looking, but most creators don’t bother to improve the creature’s appearance beyond the minimum necessary for functioning.
 
 Homunculi are little more than tools designed to carry out assigned tasks. They are extensions of their creators, sharing the same alignment and basic nature. A homunculus never willingly travels more than a mile from its master, though it can be removed forcibly. If this occurs, the creature does everything in its power to return to this range, as it cannot communicate with its master beyond this distance. An attack that destroys a homunculus deals 2d10 points of damage to its master. If the creature’s master is slain, the homunculus goes insane-it loses its Intelligence score, all feats, and all skill ranks, and generally claims the immediate surroundings as its domain, mindlessly attacking any who intrude upon its lair.
 
 On rare occasions, a homunculus freed from its servitude rises above its master’s original intent and becomes more than a half-insane construct guardian of a long-forgotten lair. In some cases, a homunculus might even come to see itself as the rightful heir to its master’s legacy, or even the reincarnated spirit of the master himself.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Homunculus)
 ```encounter-table
 name: Homunculus

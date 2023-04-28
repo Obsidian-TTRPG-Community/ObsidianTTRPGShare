@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spirit Oni
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 209
 desc_short: This evil-looking animated mask shows the face of a horned fiend, its eyes popping and its leering smile full of fangs.
 ```
-# Description
+## Description
 Most oni that emerge on the Material Plane do so into a new body of humanoid flesh, yet this is not the case for all oni. Periodically, when an evil spellcaster wishes to engage the servitude of an oni as a familiar, the result is something relatively unusual-an oni made flesh directly from its spiritual form rather than one who takes the features of a humanoid as its own.
 
 Any lawful evil 7th-level spellcaster who takes the Improved Familiar feat can gain a spirit oni as a familiar. The ritual to gain such a familiar requires the spellcaster to craft a particularly fiendish and fierce-looking oni mask-this does not require a Craft check or any additional expenditure of gold, and is assumed to be part of the overall ritual for securing the familiar. When the ritual is complete a raw oni spirit is lured into the mask, which immediately transforms it into the animate, living creature presented here.
@@ -68,7 +70,7 @@ Any lawful evil 7th-level spellcaster who takes the Improved Familiar feat can g
 While the ritual binds the oni to its new master, it also robs the oni of its immediate chance to achieve a human form. As a result, spirit oni are foul-tempered and cantankerous creatures, even to their masters. They must be regularly reprimanded and disciplined, lest their jealousy and bitterness get the better of them.
 
 When a spirit oni’s master dies, the spirit oni gains free will and the ability to make its own choices-but the spirit oni’s innate cowardice and dishonor usually prevents it from taking its own life in hopes of returning to true spirit form and then returning as a proper oni. Rather than extinguishing themselves, such masterless spirit oni seek out more powerful oni and offer their services to their superiors, in hopes that they might someday be granted a promotion from their lowly state to something more befitting their egos and desires.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spirit%20Oni)
 ```encounter-table
 name: Spirit Oni

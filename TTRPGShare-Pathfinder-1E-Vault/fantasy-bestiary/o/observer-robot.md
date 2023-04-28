@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Observer Robot
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 88
 desc_short: This small robot is reminiscent of a beetle with a pair of pincers extending from the front of its body.
 ```
-# Description
+## Description
 Designed for reconnaissance, observer robots are deployed to serve as the eyes and ears of their controllers. Because they’re intelligent and able to make their own decisions, observer robots are suited for exploring without supervision, recording their observations so that they can relay the images and sounds to their creators. The outer hull of an observer robot and its wings are covered in a network of tiny screens that can display images of the robots’ surroundings, which grants the observer robot a form of camouflage that allows it to clandestinely observe its subjects.
 
 The statistics above represent the most common observer robots, but some models have enhanced senses that allow them to see in darkness or see invisible creatures. Some even have olfactory sensors that effectively smell their environment and test the surrounding air for impurities that would harm their creators. Observer robots deployed in hostile environments might be outfitted with more formidable weaponry than the standard stun gun and laser torch.
 
 An observer robot is approximately 20 inches long and weighs 8 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Observer%20Robot)
 ```encounter-table
 name: Observer Robot

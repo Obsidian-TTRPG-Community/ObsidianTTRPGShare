@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Botfly
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 59
 desc_short: This foot-long, gray-and-black-striped insect looks like a cross between a bee and f ly, with an oversized head and bulbous eyes.
 ```
-# Description
+## Description
 Botf lies are perhaps the most disgusting vermin native to the Expanse. Explorers tell sickening tales of removing maggots from living hosts-or worse, comrades eaten alive by larvae. Once a botf ly finds a warm-blooded host, it uses its proboscis to insert eggs into the host’s f lesh. When the eggs hatch, the larvae feed upon the host until they mature into adult f lies and exit.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Botfly)
 ```encounter-table
 name: Giant Botfly

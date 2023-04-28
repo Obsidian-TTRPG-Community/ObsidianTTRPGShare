@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Coliseum (Beast Master)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,13 +46,13 @@ sources:
   - name: GameMastery Guide
     desc: 263
 ```
-# Description
+## Description
 Beast masters are exotic warriors and beast-tamers who delight the crowds with the help of their wild accomplices, as they are matched in tandem against larger beasts. This often ends poorly for their animal companion, but there are always more beasts to tame and train. Beast masters can be used as lower-level bounty hunters (fighting with paired saps), royal gamekeepers, or big game hunters in the wild.
 
 Typical animal companions for beast master gladiators include apes, bears, big cats, crocodiles, dinosaurs, hyenas, monitor lizards, rhinoceroses, and wolves. Beast masters mounted on roc animal companions can make an elite aerial strike force.
 
 Beast masters and their animal companion may be encountered alone, hunting or simply swapping stories with a monster hunter and a trapper (CR 8), or as a trio working with a bounty hunter (CR 12).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Coliseum%20(Beast%20Master))
 ```encounter-table
 name: NPC Coliseum (Beast Master)

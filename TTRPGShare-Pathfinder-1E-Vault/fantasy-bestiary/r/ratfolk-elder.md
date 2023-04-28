@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ratfolk Elder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
   - name: Monster Codex
     desc: 183
 ```
-# Description
+## Description
 Since ratfolk have short lifespans, they heed the wisdom of those who attain old age. Many ratfolk aspire to become elders from a very young age, and try to get their hands on books and histories when they go into trade, intending to later study them. Often, aspiring leaders pursue the healing arts to keep the rest of the warren healthy-and to ensure they live long enough to pass on their knowledge.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ratfolk%20Elder)
 ```encounter-table
 name: Ratfolk Elder

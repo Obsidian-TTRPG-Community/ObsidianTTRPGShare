@@ -1,25 +1,27 @@
 ---
-alias: Seamantle
+aliases: [Seamantle]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Seamantle 
+## Seamantle
 
 **source**:: Advanced Player's Guide pg. 241  
 **school**:: conjuration (creation) (water)
 **level**:: arcanist 8, druid 8, sorcerer 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a cup of water)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 You sheathe yourself within a churning column of pure elemental water up to 30 feet high that fills your space. You gain a swim speed equal to your land speed and can see, hear, and breathe normally within the *seamantle*, but attacks against you are treated as if you were under the surface of the water. You gain improved cover (+8 cover bonus to AC, +4 bonus on Reflex saves) against foes that do not have *freedom of movement* effects. The cover granted by the *seamantle* does not enable you to make Stealth checks or prevent attacks of opportunity. Magical attacks against you are unaffected unless they require attack rolls or state that they do not function underwater (such as *cloudkill*).  
   

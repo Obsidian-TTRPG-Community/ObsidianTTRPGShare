@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spinosaurus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,9 +45,9 @@ sources:
     desc: 79
 desc_short: This titanic saurian has a crocodilian snout, powerful front claws, and a colorful sail-like ridge that runs down its back.
 ```
-# Description
+## Description
 Larger even than the tyrannosaurus, the spinosaurus is 60 feet long and weighs 25,000 pounds or more. It hunts primarily along coastal and river shorelines.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spinosaurus)
 ```encounter-table
 name: Spinosaurus

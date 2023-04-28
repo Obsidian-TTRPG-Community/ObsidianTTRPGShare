@@ -1,19 +1,21 @@
 ---
-alias: Infernal Challenger
+aliases: [Infernal Challenger]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Infernal Challenger 
+## Infernal Challenger
 
 **source**:: Adventurer's Guide pg. 98, Path of the Hellknight pg. 60  
 **school**:: conjuration (calling) (lawful)
 **level**:: arcanist 3, cleric 3, oracle 3, sorcerer 3, summoner 3, summoner (unchained) 3, warpriest 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, F/DF (an iron badge or medallion)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **effect**:: one called bearded devil and testing ground; see text  
@@ -21,7 +23,7 @@ alias: Infernal Challenger
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 This spell summons a bearded devil, causing it to appear where you designate. The area within a 50-foot radius of where the devil appears is ringed with a smoldering, red glow. This area is the testing ground. To successfully cast this spell, no creature other than the devil’s challenger (see below) can be within this area while the spell is being cast.  
   

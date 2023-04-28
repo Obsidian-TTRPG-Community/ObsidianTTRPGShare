@@ -1,19 +1,21 @@
 ---
-alias: Wicker Horse
+aliases: [Wicker Horse]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Wicker Horse 
+## Wicker Horse
 
 **source**:: Villain Codex pg. 177  
 **school**:: conjuration (creation)
 **level**:: occultist 2, shaman 2, summoner 2, summoner (unchained) 2, witch 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes; see text  
 **components**:: V, S, M/DF (a reed or twig)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **effect**:: a horselike wicker construct  
@@ -21,7 +23,7 @@ alias: Wicker Horse
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Reeds, grasses, creepers, or thin tree branches (your choice) that you touch animate, twisting and bending to form a wicker horse complete with a riding saddle. The object is animated, but retains a wickerlike appearance.  
   

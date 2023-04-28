@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Moon Dog
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,11 +75,11 @@ sources:
     desc: 174
 desc_short: This sleek, white-furred hound stands three feet tall at the shoulder. It paws resemble hands and its face seems preternaturally wise.
 ```
-# Description
+## Description
 Moon dogs are extraplanar hounds that live in nomadic packs on Elysium, traveling and hunting planar menaces where they please. Often their hunts will take them to the Astral Plane or the Ethereal Plane, and sometimes to the remote wildernesses of the Material Plane. More often than not, they enter the Material Plane to combat irruptions of evil outsiders plaguing innocent mortals. When they do so, they often ally with powerful celestials, serving amid their forays as scouts and wise council.
 
  Moon dogs can stand erect and wield weapons if desired, but they prefer the speed and mobility of traveling on all fours. Most moon dogs stand approximately 5 feet tall and weigh about 125 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Moon%20Dog)
 ```encounter-table
 name: Moon Dog

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Osirionologist
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,11 +59,11 @@ sources:
     desc: 59
 desc_short: This human adventurer wears a long, light-colored leather coat, a wide-brimmed hat, and a belt that keeps her tools, sheathed weapons, and vials within easy reach.
 ```
-# Description
+## Description
 An Osirionologist is a scholar who specializes in the study of Ancient Osirion. Because this lost civilization accomplished wonders unmatched by current magical and engineering knowledge and did so very suddenly after a starkly primitive beginning, many Osirionologists- including scholars, collectors, and power-hungry magical researchers from Andoran, Cheliax, Absalom, Osirion, Qadira, Katapesh, and beyond-obsess over discovering how these wonders came about.
 
 Osirionologists are often amenable to working with Pathfinders exploring the ruins of Ancient Osirion as long as they feel their academic agendas are respected. They also work as hired experts for the Aspis Consortium so they can undertake otherwise unaffordable expeditions. Naturally, most Osirionologists place their own motivations above those of their allies, and can be trusted only so long as they are moving toward their goals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Osirionologist)
 ```encounter-table
 name: NPC Osirionologist

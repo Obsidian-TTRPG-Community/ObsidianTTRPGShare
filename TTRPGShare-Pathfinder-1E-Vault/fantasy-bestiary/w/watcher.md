@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Watcher
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,7 +72,7 @@ sources:
     desc: 246
 desc_short: This enormous black insectile creature moves with an almost nauseating grace as it watches with its single red eye.
 ```
-# Description
+## Description
 The watchers of Jandelay are bizarre and enigmatic creatures, inscrutable to most mortals, particularly since Jandelay itself is so unknown. Watchers lurk in worlds on the brink of destruction in order to observe events as they unfold and to catalogue and prepare a piece of the worlds for eternal enshrinement in Jandelay. Watchers mostly perform this work unseen, regularly setting beacons and, rarely, putting objects or beings into stasis in order to bring them along to Jandelay. Watchers have no desire to accelerate apocalypses before their appointed times, but they are drawn to action when would-be heroes or saviors take extreme measures to prevent a calamity.
 
 On Jandelay, watchers move from region to region, building alabaster spires and creating other objects and edifices upon the interstitial fields, depending on their favored crafts. Left alone, a watcher might spend centuries crafting a single object, only to lose interest in its work immediately after completing the task.
@@ -80,7 +82,7 @@ When faced with a particular threat or curiosity, watchers naturally organize in
 Prehensile filaments nestled amid the sharp talons at the tip of each leg allow watchers to perform precision motions as necessary. A watcher’s peculiar brand of air walk keeps its main body upright even if all of its legs are occupied, allowing it to attack with all six legs and protecting it from attempts to trip it.
 
 Watchers stand 30 feet tall atop their insectile legs, and weigh 6 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Watcher)
 ```encounter-table
 name: Watcher

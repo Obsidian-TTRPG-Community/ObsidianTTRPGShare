@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Heart Thief
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 57
 desc_short: Dozens of antlers crown this slender biped’s masked head. Its wicked claws clutch a bloodstained sack.
 ```
-# Description
+## Description
 Originally created by Curchanus as both shepherds and stewards for his many animals, these creatures were corrupted by Lamashtu when she slew their god. Their true name and purpose abandoned, they have existed from that point on as heart thieves, tormenters of the deep forest who enjoy slaughtering any who dare wander their woods.
 
  A heart thief follows its prey from afar, harassing its targets for days or even weeks at a time. Only once its quarry is exhausted from unprovoked animal attacks and waylaid by snares and traps will a heart thief make itself known, attacking with a company of feral beasts. Lone hunters slain by a heart thief often rise as baykoks after enduring painful torments.
 
  Those who manage to flee are fortunate indeed, for those who remain are subjected to the heart thief ’s curious and horrific practice of harvesting organs from sentient creatures. What heart thieves do with these macabre collections remains a mystery, but it’s agreed that they are not used for consumption, for the most prolific heart thieves carry multiple sacks, each stuffed to bursting with rotting hearts.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Heart%20Thief)
 ```encounter-table
 name: Heart Thief

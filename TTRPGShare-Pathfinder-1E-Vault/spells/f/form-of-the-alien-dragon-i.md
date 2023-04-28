@@ -1,19 +1,21 @@
 ---
-alias: Form of the Alien Dragon I
+aliases: [Form of the Alien Dragon I]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Form of the Alien Dragon I 
+## Form of the Alien Dragon I
 
 **source**:: Legacy of Dragons pg. 29  
 **school**:: transmutation (polymorph)
 **level**:: alchemist 6, arcanist 6, magus 6, psychic 7, sorcerer 6, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a scale of the dragon type you plan to assume)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
@@ -21,7 +23,7 @@ alias: Form of the Alien Dragon I
 **saving-throw**:: see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You become a Medium esoteric or outer dragon. Psychics can choose from the esoteric dragon (astral, dream, etheric, nightmare, or occult) forms only. You gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, a +4 natural armor bonus, a fly speed of 60 feet (poor), darkvision with a range of 60 feet, a breath weapon, and resistance to one form of energy or effect. You also gain one bite attack (1d8), two claw attacks (1d6), and two wing attacks (1d4). Your breath weapon and resistance depend on the type of dragon. You can use the breath weapon only once per casting of this spell. All breath weapons deal 6d8 points of damage unless noted otherwise and allow a Reflex save to halve the normal damage. In addition, some of the dragon types grant additional abilities, as noted below.  
   
@@ -44,4 +46,3 @@ You become a Medium esoteric or outer dragon. Psychics can choose from the esote
 **Void Dragon**: 30-foot cone of cold, cold resistance 20, +4 bonus on saves vs. emotion spells and effects.  
   
 **Vortex Dragon**: 30-foot cone of fire, fire resistance 30, vulnerability to cold.
-

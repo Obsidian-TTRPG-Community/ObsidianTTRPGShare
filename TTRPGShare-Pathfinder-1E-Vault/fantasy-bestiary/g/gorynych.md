@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gorynych
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 137
 desc_short: This sleek, three-headed dragon rears up on its hind legs, wings spread and flames licking out from behind three sets of fangs.
 ```
-# Description
+## Description
 This sinister beast threatens entire countrysides with its plundering actions. No friend to its true dragon cousins, a gorynych sometimes threatens green and black dragons for mastery of their lands. A gorynych seeks out young dragons that have only established small hoards, killing the rival creatures and claiming their treasures as its own. It dominates drakes and wyverns, but true dragons consider it a repulsive throwback to an ancient line of mutants and deviants.
 
 Motivated by greed, gluttony, and unnatural lust, a gorynych lives to collect treasure, feast as often as possible, and chase after humanoid maidens, using alter self and charm person as necessary. Gorynyches are particularly creative with the use of their limited wishes in duplicating other spell effects to secure their desires and complete their hideous tasks.
 
 When not busily stalking young dragons in order to steal their hoard or selecting maidens to kidnap, most gorynyches search out ancient ruins. There they install themselves as guardians, sometimes even gathering whole tribes of monstrous humanoids to act as their servants.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gorynych)
 ```encounter-table
 name: Gorynych

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Balravnus, Lord of the Deep Pools
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 26
 desc_short: This lumbering toadlike demon wields a blood-soaked halberd in its powerful hands-one of those hands is clad in a rusting jagged gauntlet, while on the beast’s misshapen head perches a leering helm made of greasy green metal.
 ```
-# Description
+## Description
 In the final days of Thassilon, Runelord Alaznist knew that time was running out to strike a fatal blow against her hated enemy, Karzoug. The thought that she must retreat from a world in which Karzoug still lived haunted her dreams-what if her enemy woke before her in the ages to come? Alaznist contacted countless demons in those final hours, working desperately to transform her lair into an impregnable fortress guarded by the most horrific fiends she could command. As a result, even today, more than 10,000 years later and with Alaznist’s empire long sunken under the waters of the Varisian Gulf, her fortress of Hollow Mountain remains a deadly realm ruled by giants, fleshwarped mutants, demons, and worse.
 
 Balravnus was originally nothing more than a hezrou conjured to guard one of the immense laboratories hidden within Hollow Mountain. Bound to service, Balravnus endured for millennia before a foolish Varisian sorcerer attempted to wrest control of the hezrou to aid in his explorations of Hollow Mountain. The sorcerer managed to break the wards and seized control of Balravnus, and for a few days the hezrou enjoyed a change of scenery even if he remained as bound to an arcane spellcaster’s will as ever before. Then the sorcerer stumbled upon the den of a gibbering mouther the size of an elephant. The creature slew the sorcerer, and Balravnus immediately teleported back to the laboratory he had served as a guardian for rather than face the monster.
@@ -70,7 +72,7 @@ Equipping himself with the choicest bits of treasure from the lab, including a h
 It was a simple matter for the hezrou to seize control of the troglodytes by pretending to be a manifestation of their deity, Yamasoth, who the demon has since come to learn once dwelt in even deeper chambers further underground. The hezrou initially intended to study the mutants and master the art of fleshwarping, but he soon came to realize he was more interested and gratified simply ruling over the troglodytes. Today, Balravnus has entirely abandoned intellectual pursuits and become a barbaric leader of a society of mutated freaks. The demon idly considers taking his army into other levels of Hollow Mountain to expand his empire, but after so many centuries, Balravnus has developed a keen sense of patience.
 
 When conjured, Balravnus prefers offerings of magical elixirs, particularly unique ones he has never sampled before. The hezrou is also partial to potent doses of various drugs. It’s a DC 28 check to research Balravnus.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Balravnus%2C%20Lord%20of%20the%20Deep%20Pools)
 ```encounter-table
 name: Balravnus, Lord of the Deep Pools

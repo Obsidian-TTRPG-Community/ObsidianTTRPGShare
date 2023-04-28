@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Bullying Brawler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
   - name: NPC Codex
     desc: 96
 ```
-# Description
+## Description
 Bullying brawlers are often sent to confront those who cross an order of monks. They are relentless in their pursuit of vengeance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Bullying%20Brawler)
 ```encounter-table
 name: NPC Bullying Brawler

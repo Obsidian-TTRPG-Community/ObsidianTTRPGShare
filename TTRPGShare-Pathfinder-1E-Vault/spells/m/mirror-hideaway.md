@@ -1,19 +1,21 @@
 ---
-alias: Mirror Hideaway
+aliases: [Mirror Hideaway]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mirror Hideaway 
+## Mirror Hideaway
 
 **source**:: Advanced Class Guide pg. 188  
 **school**:: transmutation
 **level**:: arcanist 2, occultist 2, psychic 2, redmantisassassin 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a glass or metal marble and a twisted loop of parchment)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: one mirror  
@@ -21,7 +23,7 @@ alias: Mirror Hideaway
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You transform a mirror into a portal to an extradimensional space. The space can hold as many as eight Medium creatures. Creatures that enter this space are hidden and beyond the reach of spells (including divinations), unless those spells work across planes. If the mirror is covered (such as by a cloth, or by being placed face down or against a wall), the portal becomes inactive. If the mirror is broken or moved more than 5 feet from where it was when you cast the spell, the spell ends; any creatures within the extradimensional space are expelled from it (see below) and become nauseated for 1d6 rounds.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wolverine
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 279
 desc_short: This stocky, muscular mammal is the size of a badger, its snarling lips revealing a mouth full of yellow teeth.
 ```
-# Description
+## Description
 Wolverines are territorial, especially when it comes to food, and have been known to defend their kills against much larger predators, such as black bears. They are fearsome opponents, launching into a frenzy when wounded. They tend to give off a very strong, unpleasant musk smell when angry.
 
 Armed with powerful jaws, strong legs, and a thick hide, wolverines are remarkably strong for their size. They are reckless in battle and throw themselves at their foes, clawing and biting furiously.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wolverine)
 ```encounter-table
 name: Wolverine

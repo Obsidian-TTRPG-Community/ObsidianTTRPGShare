@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pseudodragon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 229
 desc_short: This housecat-sized miniature dragon has fine scales, sharp horns, wicked little teeth, and a tail tipped with a barbed stinger.
 ```
-# Description
+## Description
 Pseudodragons are tiny cousins of true dragons, and are playful but shy. They often only vocalize in chirps, hisses, growls, and purrs, but can communicate telepathically with any intelligent creature. If approached peacefully and offered food, they are usually willing to share information about what they’ve seen in their territory, but threats or violence make them flee.
 
 Pseudodragons are carnivores, devouring insects, rodents, small birds, and snakes, though they sometimes eat eggs, and most also enjoy butter, cheese, and fish. They either hunt on the ground like lizards or look for prey on the wing like a raptor. As smart as a typical humanoid, they do not enjoy being treated as pets and prefer being treated as friends. They are wary of evil folk but can bond with sorcerers and wizards as familiars, and some have befriended druids and rangers or partnered with good dragons as scouts. Pseudodragons will serve as familiars if they approve of a spellcaster’s personality (and if the spellcaster takes the Improved Familiar feat), but often also bond with those whose company they enjoy or who have proven themselves true friends. A pseudodragon might follow another character in this manner for days, weeks, years, or even a lifetime if the creature is treated well, provided with food, and generally well-loved.
 
 Upon reaching adulthood, a pseudodragon’s body is about 1 foot long with a 2-foot tail, and weighs about 7 pounds. A pseudodragon egg is the size of a chicken egg, but leathery and spotted brown, and a mating female lays 2-5 eggs every spring. A clutch of pseudodragons (the collective noun-not to be confused with pseudodragons from the same brood of eggs) usually consists of a mated pair and several near-adult offspring.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pseudodragon)
 ```encounter-table
 name: Pseudodragon

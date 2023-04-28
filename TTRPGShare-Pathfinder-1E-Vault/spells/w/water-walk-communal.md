@@ -1,19 +1,21 @@
 ---
-alias: Water Walk, Communal
+aliases: [Water Walk, Communal]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Water Walk, Communal 
+## Water Walk, Communal
 
 **source**:: Ultimate Combat pg. 249  
 **school**:: transmutation (water)
 **level**:: cleric 2, hunter 2, oracle 2, psychic 4, ranger 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: creatures touched  
@@ -21,6 +23,6 @@ alias: Water Walk, Communal
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 This spell functions like *water walk*, except you divide the duration in 10-minute intervals among the creatures touched.

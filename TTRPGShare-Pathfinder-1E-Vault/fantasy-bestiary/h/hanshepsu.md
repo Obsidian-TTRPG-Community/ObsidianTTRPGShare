@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hanshepsu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,7 +77,7 @@ sources:
     desc: 84
 desc_short: This muscular warrior is carefully sculpted from clay and has a large scarab beetle in place of its head.
 ```
-# Description
+## Description
 Strangely intelligent constructs, the earliest hanshepsus were created during Osirion’s First Age. Hanshepsus were originally built to serve as elite soldiers that never tired, didn’t need to be fed, and were impervious to common attacks. Using secrets stolen from Jistkan golem crafters, Osirion’s own artificers designed hanshepsus to equalize the battlef ield in their clashes against the Jistka Imperium as the two nations carved up northern Garund. Throughout the conf lict, hanshepsus fought in dozens of battles, each time turning the tide in favor of Osirion’s forces as they marched ahead of regular, human soldiers through the hot sands of what is now Thuvia. Hanshepsus stand as tall as an adult human. While they appear lean and muscular, their clay bodies give them additional heft, causing them to weigh in at around 300 pounds.
 
 The process of creating a hanshepsu requires the sacrifice of a willing humanoid to provide not only the life force needed to animate the construct’s body, but also the creature’s intelligence. This allows the hanshepsu to make calculated decisions on the battlefield, and some even commanded humanoid units during battles, implementing clever tactics amid the fray.
@@ -87,7 +89,7 @@ Despite their lack of personality, some hanshepsus retain traces of their mortal
 Few hanshepsus have been found in the current age, and they are rarely discovered in large numbers. The process of creating hanshepsus was expensive and required a willing sacrif ice, so only the best and brightest warriors were transformed into these constructs. Because of this, modern scholars believe that fewer than 5,000 hanshepsus were created before the practice fell out of favor, and with the march of time, less than 10 percent of that estimation are believed to be still functional.
 
 Hanshepsus work best when assembled in a unit with other hanshepsus. They work in concert, taking physical cues from one another and rarely needing to verbally communicate. When not charged with leading or when fighting alongside a unit containing humanoids, hanshepsus barely regard other creatures. When at rest, they simply wait for new commands. In fighting units, hanshepsus were often at the front lines of a battle, and they used their increased strength and superior defenses to drive a wedge into enemy units and scatter their ranks, allowing the humanoid soldiers behind them to easily pick off the dispersed soldiers.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hanshepsu)
 ```encounter-table
 name: Hanshepsu

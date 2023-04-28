@@ -1,19 +1,21 @@
 ---
-alias: Mythic Bless
+aliases: [Mythic Bless]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Bless
+## Mythic Bless
 
 **source**:: Mythic Adventures pg. 85  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: adept 1, cleric 1, inquisitor 1, oracle 1, paladin 1, shaman 1, warpriest 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 50 ft.  
 **area**:: The caster and all allies within a 50-ft. burst, centered on the caster  
@@ -21,7 +23,7 @@ alias: Mythic Bless
 **saving-throw**:: none
 **spell-resistance**:: yes (harmless)
 
-### Description 
+### Description
 
 *Bless* fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.  
   

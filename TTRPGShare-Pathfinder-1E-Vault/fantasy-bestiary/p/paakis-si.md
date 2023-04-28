@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Paakis-Si
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -52,13 +54,13 @@ sources:
     desc: 45
 desc_short: A wicked scar runs the length of this blue-eyed, apish humanoid’s face, and he wields a dislodged tree trunk as a club.
 ```
-# Description
+## Description
 Travelers passing by the Churlwood in Varisia might hear tales of a longlived sasquatch who has inhabited the woods for almost 50 years now. Trackers recognize the sasquatch’s unique trail thanks to a birth defect that left the sasquatch with a distinctive gait. Locals in the area refer to the sasquatch by nicknames such as “Old Limpy,” but the Shoanti call the honored being Paakis-si.
 
 Many among the Shoanti claim that Paakis-si has lived for thousands of years. They poetically describe Paakis-si as more nature spirit than living creature, a guardian of the woods who protects the natural creatures and punishes those who would seek to despoil the sacred land. The scar that runs across his face and the soul-piercing gaze of his cerulean eyes lends evidence to the Shoanti’s fables, and those who encounter the legendary sasquatch know he is no ordinary member of his elusive species. The magical tree branch he wields as a deadly club lends further evidence to such claims, and many believe the ancient being found his weapon at the same time he received his characteristic scar.
 
 Those who have caught a glimpse of Paakis-si report that the sasquatch appears extremely healthy and vital for a semicentennial, and whether he is actually a thousandyear- old nature spirit or just an unusually long-lived and wise sasquatch is left up to debate. Travelers passing near to or through the Churlwood often consider it a lucky omen to spot Paakis-si’s signature footprints.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Paakis-Si)
 ```encounter-table
 name: Paakis-Si

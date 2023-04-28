@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ogrekin
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 204
 desc_short: Its body twisted and deformed, this lumbering giant has tiny eyes and a mouth of jagged teeth presented in a furious roar.
 ```
-# Description
+## Description
 The result of an unfortunate union between an ogre and a humanoid, the ogrekin (or half-ogre) is cursed with horrific malformations due to its tragic ancestry. Shunned by both parents, ogrekin tend to form unstable clans of their own, often resorting to inbreeding to sustain the collective. While good-natured ogrekin are not entirely unheard of, they are far and few between.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ogrekin)
 ```encounter-table
 name: Ogrekin

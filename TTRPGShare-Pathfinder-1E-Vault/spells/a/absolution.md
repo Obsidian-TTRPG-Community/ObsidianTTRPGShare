@@ -1,19 +1,21 @@
 ---
-alias: Absolution
+aliases: [Absolution]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Absolution 
+## Absolution
 
 **source**:: Ultimate Intrigue pg. 203  
 **school**:: abjuration
 **level**:: cleric 4, oracle 4, paladin 4, warpriest 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 round  
 **components**:: V, S, M (a vial of holy water), DF
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Absolution
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You purge impure thoughts from the target’s mind and fill him with exultant relief at the forgiveness of his sins. *Absolution* ends all charm or compulsion effects affecting the target (including harmless compulsions, such as *heroism*) as per *break enchantment*. If the target was forced to perform any actions contrary to his alignment, monk vows, paladin oath, or similar code of conduct by that charm or compulsion effect, that action doesn’t cause him to lose access to class abilities, including divine spellcasting.  
   

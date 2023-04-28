@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ichkoh
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 243
 desc_short: This monstrosity looks like a massive cockroach made from putrid hair. A humanoid face leers in place of an insectile head.
 ```
-# Description
+## Description
 Ichkohs savor the fear of the failure of the flesh, and enjoy tormenting those who take pride in their bodies. When an ichkoh selects victims, it torments them with the knowledge of how they failed to maintain their bodies in their youth. Sometimes an ichkoh pursues a single creature for years, encouraging increasingly self-destructive behavior that, if allowed to continue, can drive a victim to suicide. 
 
 An ichkoh stands 6 feet tall and weighs 140 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ichkoh)
 ```encounter-table
 name: Ichkoh

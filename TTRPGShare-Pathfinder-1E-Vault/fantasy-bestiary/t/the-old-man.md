@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The Old Man
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,13 +64,13 @@ sources:
     desc: 86
 desc_short: This bald old human man has long white eyebrows and an even longer white beard. He carries a staff adorned with metal rings.
 ```
-# Description
+## Description
 The Old Man is the herald of Irori, a teacher, mentor, guide, and trainer in the service of the god of knowledge, history, and self-perfection. He can be patient or irate, confusing or enlightening, lenient or strict, depending on what his students need. He often wanders Golarion as a mortal man, bereft of his supernatural powers, instructing others and leading by example. If attacked when in this limited shape, he usually allows himself to be beaten or killed, especially if his “death” would provide a powerful lesson to an important student. If slain as a mortal, he simply reincarnates in his celestial form, unharmed, and never bears a grudge about it.
 
 The Old Man’s true form is that of an elderly human man, perhaps of Tien or Vudrani ancestry but never clearly identifiable as such. He is typically bald and wiry, and usually wears a long white moustache or beard. Though he appears frail and sometimes supports himself with a cane, crutch, or staff, he is incredibly strong and can move with an alien grace when he so chooses. He may dress in a simple robe, an elaborate ceremonial garment, or a simple loincloth. He is often accompanied by one of five animals: a turtle, monkey, ox, rooster, or pig.
 
 When not acting on Irori’s behalf, the Herald of Irori keeps busy with tending to animals, planting gardens, meditating, practicing martial arts forms, swimming, and quipping with students. The Herald of Irori stands just over 5 feet tall and weighs about 120 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=The%20Old%20Man)
 ```encounter-table
 name: The Old Man

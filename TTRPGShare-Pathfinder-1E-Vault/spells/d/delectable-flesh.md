@@ -1,19 +1,21 @@
 ---
-alias: Delectable Flesh
+aliases: [Delectable Flesh]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Delectable Flesh 
+## Delectable Flesh
 
 **source**:: Ultimate Wilderness pg. 19  
 **school**:: transmutation (mind-affecting, polymorph)
 **level**:: arcanist 6, druid 7, shaman 7, sorcerer 6, witch 6, wizard 6 (Ghoran)
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: all creatures in a 15-foot-radius burst centered on a single living creature  
@@ -21,7 +23,7 @@ alias: Delectable Flesh
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 Choose a creature within range as the object of hunger. All other creatures within 15 feet of the target that can see or smell the target’s delectable flesh must succeed at a Will save or spiral into a depraved state from which they gain a single purpose-to consume as much of the target’s delicious flesh as possible. The creature chosen as the target of this spell is not affected by this depravity.  
   

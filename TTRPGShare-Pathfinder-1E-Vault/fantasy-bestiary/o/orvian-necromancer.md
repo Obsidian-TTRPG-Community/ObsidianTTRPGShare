@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Orvian Necromancer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -79,9 +81,9 @@ sources:
     desc: 62
 desc_short: An elegant leather gown, skull-shaped studs, and a silken veil conceal much of this humanoid’s transparent flesh.
 ```
-# Description
+## Description
 In their philosophy on life’s futility, urdefhans see being raised as an undead as a suitable punishment for enemies since it wrenches their souls from the sweet oblivion that awaits them beyond and forces their continued suffering on the Material Plane. Necromancers flourish among urdefhans, serving as jailers, mercenaries, and labor contractors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Orvian%20Necromancer)
 ```encounter-table
 name: Orvian Necromancer

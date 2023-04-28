@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lemming
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
     desc: 10
 desc_short: This small, plump rodent has a calico mix of color and a short tail.
 ```
-# Description
+## Description
 These herbivores scurry about colder regions chewing on bulbs, grasses, roots, and shoots. They do not hibernate, but they do burrow for shelter and warmth.
 
  Lemmings grow to be as large as 6 inches from their noses to their short tails.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lemming)
 ```encounter-table
 name: Lemming

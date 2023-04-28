@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Drow Priest
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,9 +82,9 @@ sources:
   - name: Monster Codex
     desc: 36
 ```
-# Description
+## Description
 Having manipulated and assassinated her way into the middle ranks of her church, the drow priest uses her powers to eliminate rivals as she continues her climb. The drow religious orders are just as cutthroat as every other aspect of drow society. Their priests see the ability to out-scheme one’s foes as a sign of the unholy favor of their demonic patrons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drow%20Priest)
 ```encounter-table
 name: Drow Priest

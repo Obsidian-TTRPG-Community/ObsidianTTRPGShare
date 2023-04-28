@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Baetriov
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,9 +65,9 @@ sources:
     desc: 56
 desc_short: Clad in the finest silks, this noblewoman has cheeks that are flush with vitality, though her eyes speak to great age and danger.
 ```
-# Description
+## Description
 Baetriovs are unique occult vampires who use ancient vile rituals to store their life force in a pool of blood, which must be periodically refreshed by human sacrifice. So long as their blood wells remain fresh and intact, baetriovs can remain forever young and handsome, gathering cults of personality to provide new victims.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Baetriov)
 ```encounter-table
 name: Baetriov

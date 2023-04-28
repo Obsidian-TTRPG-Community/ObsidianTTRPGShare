@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lusca
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 53
 desc_short: This beast has three sharklike heads on short, scaly necks, while its lower body appears to be that of an octopus.
 ```
-# Description
+## Description
 Luscas are among the most feared predators in the open ocean-their snapping shark heads and writhing tentacles spell the end for many crews. A lusca’s presence can first be felt in the air, as its body naturally conducts electricity. Sailors who have encountered the being and survived claim that thunderclouds seem to roll in alongside the creature and strange electrical f ires dance in the air before it attacks, lending an eerie aura of foreboding to the oncoming assault. Ravenous and unpredictable, a lusca claims wide swaths of territory in order to maximize the number of ships it can sink and crews it can feast upon; luscas brook no other large predators in their claimed territory, and battle even mighty krakens for control. They are equally territorial with their own kind, and an encounter between two luscas, except to mate, almost always ends with one dead or driven off. While luscas prefer to make quick meals of the sailors onboard a ship, they will eat just about any aquatic creature, and even giant octopuses and whales know to steer clear of a hungry lusca’s vicinity.
 
  The average lusca is 90 feet from tentacle to snout and weighs 3,800 pounds. Legends tell of even larger luscas that can sink Colossal ships.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lusca)
 ```encounter-table
 name: Lusca

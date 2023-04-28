@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tenebrous Blight
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 55
 desc_short: This huge, fungal growth has a stalk as black as the shadows, and dark motes float in the air around its enormous cap.
 ```
-# Description
+## Description
 Tenebrous blights threaten the deepest caverns of the Darklands and places where the veil between the Material Plane and the Plane of Shadow is thin. Tenebrous blights instinctively attack any creatures that disturb them, weakening intruders with the harrowing effects of their spores and lashing out with their shadowy tendrils. Xulgaths (see page 61) are the only known creatures that can safely disturb a tenebrous blight’s spores-a sideeffect of the reptilian humanoids’ psychogenic secretions. Xulgaths often use tenebrous blights as guardians and obstacles to impede trespassers in their territory. Tenebrous blights are 25 feet tall and weigh 4,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tenebrous%20Blight)
 ```encounter-table
 name: Tenebrous Blight

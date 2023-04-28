@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Utukku
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,11 +66,11 @@ sources:
     desc: 230
 desc_short: Wriggling tendrils surround this creature’s single eye where a face should be, and sucker-tipped tentacles stretch from its shoulders.
 ```
-# Description
+## Description
 The utukku specializes in a viciously subtle method of removing sinful souls from the cycle of mortal life. When an utukku builds a cult, it teaches its followers that if they follow its teachings, they will be rewarded not via transformation into a powerful outsider, but by assimilation into the Great Beyond itself. What greater glory than to be immortal as a fundamental part of reality? The souls of devout utukku cultists, as wicked and destructive as they were in life, do not transform into outsiders upon being judged, but instead form into new quintessence that then merges with the Abyss. In this way, these souls bolster the Abyss while simultaneously starving demonkind of the new souls they need to grow in number. 
 
 In its true shape, an utukku stands 7 feet tall and weighs 200 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Utukku)
 ```encounter-table
 name: Utukku

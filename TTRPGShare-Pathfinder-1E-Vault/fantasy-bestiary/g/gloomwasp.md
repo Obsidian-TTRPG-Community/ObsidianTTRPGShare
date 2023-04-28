@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gloomwasp
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 55
 desc_short: The stinger and antennae of this dog-sized wasp pulsate with a dim, violet light.
 ```
-# Description
+## Description
 Infused with shadow magic and wielding light as a weapon, these aggressive hunters prowl the endless, twisting caverns and canyons of Sekamina. Gloomwasps are the result of giant vermin exposed to the flesh-altering radiations of the Darklands, becoming vibrantly colorful if highly toxic additions to the strange ecosystem that thrives below Golarion’s surface. They hunt by using their natural glow to attract curious creatures and travelers, then lash out with beams of energy. Gloomwasps often need only strike their victims a few times, then follow them for days while the lingering radiation slowly saps their prey’s ability to flee or fight back.
 
 Surprisingly intelligent and tenacious, a small band of migrating gloomwasps can quickly become a full infestation. They build faintly radioactive nests high into cave ceilings, narrow tunnels, and hollow rock formations, where they nurse their drab, rat-sized grubs on a steady diet of regurgitated blood. The grubs eventually seal themselves within hexagonal cells, emerging weeks later as adult gloomwasps.
 
 While relatively fragile, gloomwasps’ intelligence makes them formidable. They communicate with a system of dance, light flashes, and pheromones, and work together effectively to overwhelm prey of superior size and strength, including humanoids.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gloomwasp)
 ```encounter-table
 name: Gloomwasp

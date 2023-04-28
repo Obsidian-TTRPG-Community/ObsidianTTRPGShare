@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Griffon Rider
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -55,9 +57,9 @@ sources:
   - name: NPC Codex
     desc: 85
 ```
-# Description
+## Description
 Griffon riders patrol the skies around remote elven enclaves. Rare individuals serve powerful spellcasters or serve as mercenary shock troops.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Griffon%20Rider)
 ```encounter-table
 name: NPC Griffon Rider

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Elephant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,9 +44,9 @@ sources:
     desc: 128
 desc_short: These thick-skinned animals bear large ivory tusks flanking a long, prehensile snout.
 ```
-# Description
+## Description
 These large land animals, majestically wandering the plains in tightly knit family herds, are symbols of wisdom and strength. Having few natural predators, elephants are sometimes hunted for their ivory tusks. These tusks often become jewelry, statuettes, and trinkets for the wealthy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Elephant)
 ```encounter-table
 name: Elephant

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Frostfallen Mammoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 84
 desc_short: This frozen mammoth erupts into movement, its bones armored with plates of ice and eyes burning with cold flames.
 ```
-# Description
+## Description
 Frostfallen creatures are mindless undead infused with icy cold and animated by a hatred for all living things. Their bodies radiate a devastating chill that cloaks them in patches of ice that act as armor. Frostfallen creatures appear otherwise as they did at the time of their reanimation, except for a cold gleam in the eyes.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Frostfallen%20Mammoth)
 ```encounter-table
 name: Frostfallen Mammoth

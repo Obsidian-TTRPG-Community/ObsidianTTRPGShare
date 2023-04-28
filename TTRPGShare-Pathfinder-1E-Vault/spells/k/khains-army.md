@@ -1,19 +1,21 @@
 ---
-alias: Khain's Army
+aliases: ["Khain's Army"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Khain's Army 
+## Khain's Army
 
 **source**:: Inner Sea Magic pg. 57  
 **school**:: necromancy (evil)
 **level**:: arcanist 5, cleric 5, oracle 5, sorcerer 5, warpriest 5, witch 5, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M/DF (a handful of ghoul’s teeth)
 
-### Effect 
+### Effect
 
 **range**:: 5 feet  
 **effect**:: 1d4+1 ghouls and 1 ghast  
@@ -21,7 +23,7 @@ alias: Khain's Army
 **saving-throw**:: Fortitude half (see text)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 Originally created by the priest-king of Nemret Noktoria, the ghoul Kortash Khain, for use by his minions to bolster their forces in battles against their enemies, Khain’s army has become a favorite of many necromancers throughout Osirion and beyond. By scattering a handful of ghoul’s teeth across the ground, you cause 1d4+1 ghouls led by a single ghast to rise up from the ground around you. The ghouls and their ghast leader must appear in squares adjacent to you, but after that they follow your spoken commands unerringly.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Polevik
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -65,11 +67,11 @@ sources:
     desc: 90
 desc_short: Toadstools, puff balls, and other bizarre fungal growths sprout from this small, hunchbacked man’s mold-streaked body. His beady eyes burn with paranoia and malice.
 ```
-# Description
+## Description
 The secretive and suspicious poleviks cultivate gardens of fungi in deep bogs and caves far from civilization, jealously guarding the secrets of their fungal alchemy from the rest of the world. Once natives of the First World, they retain some of that plane’s potent life energy, which specifically encourages the growth of fungi and molds. This enables them to turn their own spry and twisted bodies into fertile ground in which to cultivate their signature puffball weapons.
 
 Averaging a few inches shy of 4 feet tall and weighing approximately 115 pounds, individuals can vary in size depending on the number and size of fungal growths that they nurture upon their bodies. They rarely live beyond 300 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Polevik)
 ```encounter-table
 name: Polevik

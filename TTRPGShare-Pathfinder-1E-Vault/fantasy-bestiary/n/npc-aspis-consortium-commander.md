@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Aspis Consortium Commander
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 8
 ```
-# Description
+## Description
 These agents of the Aspis Consortium typically hold silver rank within that organization. Many coordinate field operations for the Aspis Consortium, managing lower-level minions such as bronze agents and mercenaries. Some, however, act as regional overseers instead, guiding a network of small, local Aspis contingents. Aspis Consortium commanders exercise considerable autonomy in the execution of their tasks, but by the same token, they bear the brunt of the responsibility for their subordinates’ failures.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Aspis%20Consortium%20Commander)
 ```encounter-table
 name: NPC Aspis Consortium Commander

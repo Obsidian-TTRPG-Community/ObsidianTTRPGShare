@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shamira
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -83,11 +85,11 @@ sources:
     desc: 74
 desc_short: This crimson-haired demonic woman has wings of fire. She carries a slender bow made of flames.
 ```
-# Description
+## Description
 Shamira, the Ardent Dream, is the nominal ruler of the isle of Alinythia, and by extension the city of Alushinyrra, but with the honor of ruling the largest of the Midnight Isles comes with an unwritten caveat-Nocticula’s palace overlooks the city from its own isle. While this position is one that Shamira revels in, and one that has afforded her no small amount of inf luence (indeed, it’s helped to propel her into the ranks of nascent demon lords), the Ardent Dream knows that her mistress watches over her always, and surely regards her not only as a valued lover, companion, and minion, but also as the closest thing Nocticula has to competition. Of course, Shamira does keep an eye out for any opportunity she has to erode some of Nocticula’s power, for someday she hopes to wear Nocticula’s crown.
 
 Shamira is unique in her appearance. Even before she became a nascent demon lord, her burning wings and flowing crimson hair marked her as a succubus of power. Close-lipped about her history, she appeared in Nocticula’s palace one moonrise and seduced the Lady in Shadow, thus earning the position of Lady of Alinythia. (Nocticula banished Shamira’s predecessor, an incubus named Ziforian, to the sewers below the city, where he may yet lurk.) None in the Abyss recall this majestic and unmistakable succubus in the city before her arrival in Nocticula’s boudoir. Shamira does little to quell rumors that her previous home was a much loftier place than the Abyss, and her resemblance to the deity Sarenrae provides endless speculation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shamira)
 ```encounter-table
 name: Shamira

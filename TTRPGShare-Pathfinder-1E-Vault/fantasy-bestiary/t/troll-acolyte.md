@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troll Acolyte
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,9 +66,9 @@ sources:
   - name: Monster Codex
     desc: 226
 ```
-# Description
+## Description
 A troll acolyte has tested her devotion to a demon lord by searing her flesh with acid and fire so it must heal naturally, without regeneration.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troll%20Acolyte)
 ```encounter-table
 name: Troll Acolyte

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Simian Sharpshooter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 13
 desc_short: This long-furred ape-person wears a battered snakeskin poncho and carries a worn musket.
 ```
-# Description
+## Description
 A decade ago, intent on impressing the Gorilla King, a tribe of charau-ka crossed the Brazen Peaks and raided Alkenstar’s Dongun Hold, a dwarven citadel loaded with the Grand Duchy’s prized firearms. They suffered severe casualties but absconded with scores of guns. Ruthazek then handpicked several dozen promising ape-men to master the weapons, creating an elite caste of assassins, monster wranglers, and bounty hunters. Many warriors managed to survive this unorthodox training and now wander the jungle at Ruthazek’s command, eliminating Usaro’s enemies, retrieving fugitive slaves, and stocking the beast pits. The Gorilla King takes a special joy in sending his technological marvels to eliminate mages and healers.
 
  Rather than confronting foes directly, sharpshooters take aim from above, disappearing into the wilderness long before victims can muster a counterattack. They show no remorse and chase wounded targets through the jungle for miles with relentless determination. Priests of Angazhan instilled a strong sense of survival in these sharpshooters, who show surprising restraint for charau-ka. The telltale frenzy of their kin surfaces only when enemies draw close to these gunslingers, and several have broken their muskets bludgeoning foes to death, only to suffer horrible reprimands for their carelessness. Those who keep their rage tempered travel far beyond the borders of the Gorilla King’s realm, searching Golarion for anything their sovereign requires. Loyal to the very core, these charau-ka never reveal what they seek until it lies within their sights.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Simian%20Sharpshooter)
 ```encounter-table
 name: Simian Sharpshooter

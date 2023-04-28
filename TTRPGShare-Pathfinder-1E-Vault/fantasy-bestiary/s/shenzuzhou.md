@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shenzuzhou
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 29
 desc_short: This hulking headless corpse clutches a massive axe in each fist. A grotesquely skinned face stretches across the creature’s chest. 
 ```
-# Description
+## Description
 Malevolent spirits looking to bolster their armies often look no farther than the burial grounds of giant tribes, where hardy corpses are typically left unguarded and forgotten. After a giant is animated, it is beheaded in a gruesome ritual, the stump of its neck is cauterized into a blackened lump of scar tissue, and a twisted face manifests across its torso. What was once a fearsome giant is now a shenzushou. It loses the ability to speak and eat and can do nothing but obey the commands of whoever possesses its head-often the necromancer or oni that created it. 
 
 Thrall shenzushous are nowhere near as terrible as those shenzushous whose heads have been destroyed or transported to another plane. These latter creatures run aimlessly through the land, ever searching for new heads and the control they believe attaining them will bring over the monsters’ damned existences. Seeking to steal their victims’ heads for themselves, shezuzhous decapitate their kills, keeping grisly collections of heads from the victims they have slain. 
 
 Even without their heads, shenzuzhous stand over 8 feet tall. Cords of thick muscle twist beneath the creatures’ hairless gray corpse-flesh. Their skin is cold to the touch and their wounds do not bleed. A shenzuzhou carries little else except for its weapons and the heads of its victims, strung together by their hair and hung from its belt.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shenzuzhou)
 ```encounter-table
 name: Shenzuzhou

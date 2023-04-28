@@ -1,19 +1,21 @@
 ---
-alias: Mythic Cone of Cold
+aliases: [Mythic Cone of Cold]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Cone of Cold
+## Mythic Cone of Cold
 
 **source**:: Mythic Adventures pg. 89  
 **school**:: evocation (cold)
 **level**:: arcanist 5, magus 5, occultist 5, shaman 6, sorcerer 5, witch 6, wizard 5
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a small crystal or glass cone)
 
-### Effect 
+### Effect
 
 **range**:: 60 ft.  
 **area**:: cone-shaped burst  
@@ -21,7 +23,7 @@ alias: Mythic Cone of Cold
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 *Cone of cold* creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).
 

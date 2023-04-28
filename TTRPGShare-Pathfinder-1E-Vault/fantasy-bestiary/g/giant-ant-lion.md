@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Ant Lion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 5
 desc_short: This gigantic burrowing insect has an oversized abdomen. A terrifying set of long, hooked mandibles protrudes from its head.
 ```
-# Description
+## Description
 Perils of the desert depths, giant ant lions construct traps from the shifting sands. These beasts lurk at the base of these pits, half buried and patiently awaiting unwary prey.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Ant%20Lion)
 ```encounter-table
 name: Giant Ant Lion

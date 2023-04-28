@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chavazvug
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,13 +78,13 @@ sources:
     desc: 232
 desc_short: This towering, steaming mass of slithering entrails drags ropes of mouthed intestines below his five spidery legs.
 ```
-# Description
+## Description
 Chavazvug appears as a towering mound of greasy, slithering intestines and internal organs held aloft by five long, slender legs that taper to razor-sharp points. Twitching coils and ropes of entrails dangle below the shuddering bulk, and the entire thing steams and glows with heat. Known as the Crawling Inferno, the very touch of this immense qlippoth lord can set flesh alight and his presence can cause living creatures normally immune to fire to burn alive. Chavazvug stands 50 feet high and weighs 20,000 pounds. 
 
 Unlike other qlippoth lords, Chavazvug has chosen to focus on battling demons themselves rather than the sinful souls that spawn them. This makes Chavazvug the least antagonistic of the known qlippoth lords to mortal worshipers, yet the qlippoth lord remains uncaring in the long term for the health and prosperity of “lesser beings” that worship him. 
 
 Chavazvug’s Abyssal sanctum is a vast, crater strewn wasteland in an immense underground cavern deep in the Abyss. Many of these craters are filled with bile and seepage, boiling hot lakes in which strange creatures roil and froth. New craters form constantly as portions of the ceiling miles above fall and plummet to impact the floor. In time, the constantly collapsing ceiling may well cause subsidence in other demonic realms far above, or even break through into the Astral Plane, at which point cultists of Chavazvug hold that their god will rise in power to become a deity.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chavazvug)
 ```encounter-table
 name: Chavazvug

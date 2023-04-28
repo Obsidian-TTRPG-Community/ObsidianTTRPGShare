@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shoggoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,11 +63,11 @@ sources:
     desc: 29
 desc_short: This immense mound of black slime thunders forward, eyes and mouths and even stranger things forming in its heaving bulk.
 ```
-# Description
+## Description
 Although even lunatics and doom-saying prophets desperately claim the monstrous shoggoth is nothing more than a drug-induced vision or thankfully unreal nightmare, the truth is altogether more dire. The shoggoths exist, although they keep to the deepest of ocean trenches or the most remote of forgotten caverns and ruins, emerging only rarely to spread madness and destruction in their slime-caked wakes.
 
 The first shoggoths were created in eons past, long before the first gods turned their attentions to the Material Plane. Some hold that the aboleths engineered them, while certain strange texts hint of a race even older that engineered the first shoggoths as slaves. Eventually, these dread beasts developed enough intelligence to rebel against their creators, and now they lurk, patient but potent, in the lightless deep.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shoggoth)
 ```encounter-table
 name: Shoggoth

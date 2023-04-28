@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Choking Shade
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 82
 desc_short: A vague humanoid shape composed of whirling dust and shards of bone hovers menacingly in the air.
 ```
-# Description
+## Description
 There is nothing quite like the desperation of a suffocating creature, frantic for one last, sweet breath of air to fill deprived, aching lungs; it is a terrible way to die. There are so many ways to die of suffocation: asphyxiation in a fire, being buried alive, crucifixion, disease, drowning, strangulation-the list seems endless. Sometimes, the terrible imminence filling a person as life ends in so cruel a manner is enough to cause the doomed soul to rise from death as a choking shade.
 
  Choking shades animate into a swirling swarm of ashes, bone shards, dirt, and dust, assuming a facsimile of a humanoid form. They have a brutish intelligence and are drawn with envy to the breath of living creatures, attacking them on sight. In addition to the dust of the grave, these hateful spirits carry with them the overwhelming fear that accompanied them in their suffocating deaths, and this aura infects those who are near them with this same terror. Choking shades can take advantage of those affected by their fearful auras (or those already under the influence of a fear effect): they enter the victim’s lungs, carrying their dusty remains with them, threatening unwilling hosts with the same awful deaths that they endured. Anyone slain by the choking essence of these undead creatures rises as one of their number, seeking retribution for all who are still afforded the freedom to breathe, a luxury taken for granted by the living.
 
  Though choking shades have some measure of intelligence and understand the languages they knew in life, their unreasoning hatred of the living makes communication with them impossible: these spirits would much rather make even a futile assault on the lungs of the living than engage in any form of communication.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Choking%20Shade)
 ```encounter-table
 name: Choking Shade

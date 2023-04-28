@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Vault Builder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -88,9 +90,9 @@ sources:
     desc: 159
 desc_short: This towering, spindly, four-armed entity appears to be made of stone and crystal, yet it moves with a fluid grace.
 ```
-# Description
+## Description
 Xiomorns comprise two castes: the four-legged mythic Vault Builders and the two-legged non-mythic Vault Keepers. Both are among the most ancient forms of life-primeval elemental beings who travel to raw, new worlds upon the Material Plane, pursuing strange ecological investigations into the nature of life. The worlds these enigmatic beings have visited feature strange ruins in remote regions and immense, vault-like caverns deep underground where ecologies that shouldn’t exist flourish. Xiomorns have little interest in protecting a world’s indigenous life, except as necessary for their experiments’ goals, and wage war against such races when native empires encroach upon the xiomorns’ experimental realms.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Vault%20Builder)
 ```encounter-table
 name: Mythic Vault Builder

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Siabrae
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,11 +82,11 @@ sources:
     desc: 58
 desc_short: This petrified skeleton is clad in rotting furs. Stone antlers grow from the crown of its skull, and its eyes are polished white orbs.
 ```
-# Description
+## Description
 When druids are faced with threats to the natural world, they are steadfast and, at times, relentless in their defense of the land. Even in the face of overwhelming odds-an incursion of demons from the Abyss, a creeping plague of necromantic corruption, an unstoppable blight of magical radiation, or a similar supernatural threat to the natural world-some sects of druids refuse to give up or abandon their duties. In these tragic cases, the desperate druids adopt the blasphemous tactic of accepting the corruption into themselves and becoming powerful undead guardians. They fight on not only against the original source of the corruption, but against all living creatures, for these druids become siabraes, and are filled with bitterness and hatred for all others-particularly other druids, whom they regard as cowards. 
 
 Siabraes do not form spontaneously; they arise only as the result of the this horrific ritual (see here for full rules on rituals).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Siabrae)
 ```encounter-table
 name: Siabrae

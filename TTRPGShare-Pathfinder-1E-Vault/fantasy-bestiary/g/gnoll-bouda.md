@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gnoll Bouda
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -70,9 +72,9 @@ sources:
   - name: Monster Codex
     desc: 99
 ```
-# Description
+## Description
 Though she sees after the pack, a bouda is an unknowable and cryptic being even to gnolls who grew up with her, for arcane magic remains largely a mystery to gnolls, and most avoid it. Because a bouda’s expertise seems so alien and odd, a witch must prove her toughness before she is accepted as a revered bouda.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gnoll%20Bouda)
 ```encounter-table
 name: Gnoll Bouda

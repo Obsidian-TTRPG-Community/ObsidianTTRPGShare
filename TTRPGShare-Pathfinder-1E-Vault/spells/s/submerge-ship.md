@@ -1,19 +1,21 @@
 ---
-alias: Submerge Ship
+aliases: [Submerge Ship]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Submerge Ship 
+## Submerge Ship
 
 **source**:: Pathfinder \#56: Raiders of the Fever Sea pg. 70  
 **school**:: transmutation
 **level**:: arcanist 7, cleric 7, oracle 7, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S, M/DF (a glass marble or piece of soap)
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: 1 sailing vessel  
@@ -21,7 +23,7 @@ alias: Submerge Ship
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 When this spell is cast upon a vessel, the ship is surrounded by a protective bubble of constantly replenishing, breathable air and sinks beneath the waves. For the duration of the spell, the ship can travel beneath the water as easily as it did above. While under the effects of this spell, the ship has magical propulsion that gives it a maximum speed of 120 feet and an acceleration of 30 feet (see the *Skull & Shackles Player’s Guide* for details). The ship’s pilot uses the normal sailing skill to control the ship while under this spell’s effects, and can command it to dive and ascend as part of the vessel’s normal movement. Despite the magical propulsion, the ship still requires its crew to perform its normal functions.  
   

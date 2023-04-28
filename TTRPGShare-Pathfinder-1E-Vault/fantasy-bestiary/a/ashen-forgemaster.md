@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ashen Forgemaster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,11 +80,11 @@ sources:
     desc: 84
 desc_short: This hulking, serpentine creature resembles an oversized salamander devoid of color. Its flesh is pockmarked with coal-like scales and metallic piercings, and it carries a fearsome spear.
 ```
-# Description
+## Description
 Ashen forgemasters are massive, undead salamanders tasked with eternally toiling at a forge, crafting armor and weapons. They begin their lives as living salamanders but are bound to a forge, continuing their work eternally, long into their undeath. Centuries spent in seclusion erodes their personality, and they eventually grow into paranoid, violent, and sadistic creatures. Forgemasters surround themselves with the weapons and armor they have crafted over the years, the designs and shapes of which grow more bizarre as the forgemaster’s delusions grow.
 
  An ashen forgemaster stands between 9 and 12 feet tall and weighs about 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ashen%20Forgemaster)
 ```encounter-table
 name: Ashen Forgemaster

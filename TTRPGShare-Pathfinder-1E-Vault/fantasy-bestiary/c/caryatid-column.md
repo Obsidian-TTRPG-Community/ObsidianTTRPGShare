@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Caryatid Column
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 8
 desc_short: With its feet planted firmly together, this marble statue of a female warrior holding a stone sword rises up to support the ceiling.
 ```
-# Description
+## Description
 Caryatid columns are the lesser cousins of true golems, constructs created by spellcasters to guard objects or areas. Unlike true golems, caryatid columns cannot be made into shield guardians, but they are often used in greater numbers because of their relatively inexpensive creation cost. Each caryatid column is programmed to guard an object or area when created, and once set, this command cannot be changed. Caryatid columns are often given specific parameters concerning whom to ignore and whom to attack, but since they have no special form of detection, such restrictions can be overcome with disguises if the parameters are known.
 
 A caryatid column stands 7 feet tall and weighs 1,500 pounds. Caryatid columns are always equipped with a masterwork weapon that appears to be made out of stone as long as the construct remains in statue form. The weapon can be recovered after a caryatid column has been defeated. Arming a caryatid column with magical weapons is expensive but feasible-even the most powerful of magic weapons appear as nothing more than stone when held by a caryatid column. Since a weapon held in this manner does not radiate magic, many use this trait as a method to hide potent or powerful weapons from both casual observation and study via detect magic. True seeing reveals such disguised weapons for what they really are. Often, only particularly powerful caryatid columns (typically those with advanced Hit Dice, but rarely those made much larger than Medium size) are entrusted with the care and protection of such weapons. Of course, the constructs themselves make full use of any magic weapons they are given to guard.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Caryatid%20Column)
 ```encounter-table
 name: Caryatid Column

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fachen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 88
 desc_short: This half-bodied monstrosity with a toothy mouth and stringy hair hops about on its single leg with unusual grace.
 ```
-# Description
+## Description
 The fearsome fachen’s terrifying visage paralyzes all but the most intrepid that happen across its hopping path. Reports disagree on just what it is about the fachen that turns one’s blood to ice-the single leg and foot that somehow don’t impair the being’s balance or speed, the seemingly toostrong arm jutting from the center of the creature’s torso, or the lone, bulbous eye leering maliciously at its wouldbe prey. Most likely it’s a combination of all of these things mixed with the unrelenting rage and savagery that seems to ooze from its every pore.
 
 Though the fachen’s grotesque approximation of a humanoid form could be enough to scare a traveler witless on its own, no single part of the abomination’s appearance induces fear like that of its mouth, a snarling and snapping thing filled with two full rows of long, sharp teeth-a mouth that looks like a cage out of a foul nightmare. Constantly gnashing or chomping in the air, it delivers grievous wounds to those who don’t flee this terrible creature.
@@ -57,7 +59,7 @@ Though the fachen’s grotesque approximation of a humanoid form could be enough
 Though they’re able to speak, fachens do so only to curse at those they encounter. These barbaric creatures have no discernible culture, and sages and naturalists are still puzzled as to how they even reproduce. It almost seems as if they are pure rage that spontaneous takes on a hideous natural form.
 
 A typical fachen stands just short of 6 feet tall, and despite appearing to be half a person, weighs around 150 pounds because of its muscle mass. Though it isn’t a very large creature, its fearsome composition and the aura of fear it exudes give it a presence that makes it seem much greater than its actual size.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fachen)
 ```encounter-table
 name: Fachen

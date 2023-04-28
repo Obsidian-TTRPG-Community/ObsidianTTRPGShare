@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Astral Deva
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 10
 desc_short: This tall, human-like creature has long, feathery wings and a gentle inner radiance that makes it difficult to look directly at.
 ```
-# Description
+## Description
 Astral devas are messengers of the gods of good. They watch over planar travelers and sponsor powerful mortals, pushing them to take on good causes. A typical astral deva looks human except for its wings, though some look like other humanoid races and a rare few have even more unusual forms. An astral deva is 7-1/2 feet tall and weighs 250 pounds.
 
 Astral devas are usually created by deities from the souls of good mortals, though some souls spontaneously transform into astral devas without the intervention of a deity. Their skills and abilities make them excellent scouts and elite agents for celestial armies. They often carry long, flowing scrolls upon which are writ messages and judgments from the gods. An astral deva’s scrolls frequently contain hints of prophecies and major events yet to come, and as such the devas are fiercely protective of the contents of these scrolls and let none, not even other astral devas, peruse them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Astral%20Deva)
 ```encounter-table
 name: Astral Deva

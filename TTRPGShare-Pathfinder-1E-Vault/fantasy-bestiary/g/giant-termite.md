@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Termite
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,9 +47,9 @@ sources:
     desc: 242
 desc_short: This pony-sized insect has long black mandibles and a banded abdomen of white.
 ```
-# Description
+## Description
 Giant termites are social, burrowing insects that create immense earthen mounds the size of cathedrals to house their large colonies. The colony splits into small groups to take on various tasks, like hunting food or collecting dirt and clay to expand the colony’s mound. They are destructive pests, consuming plant matter and destroying wooden structures, but they consume meat as well if creatures interfere with their cycle of demolition and construction. Termites also use their acid to render animals into glue to reinforce the mound.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Termite)
 ```encounter-table
 name: Giant Termite

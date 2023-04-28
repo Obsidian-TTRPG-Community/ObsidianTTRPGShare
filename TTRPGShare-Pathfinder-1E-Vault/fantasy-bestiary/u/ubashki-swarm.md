@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ubashki Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,11 +53,11 @@ sources:
     desc: 19
 desc_short: No flavor text
 ```
-# Description
+## Description
 The deathless guardians of Osirion’s pre-Keleshite tombs are primarily the restless spirits of pharaohs, their loyal honor guards, and sometimes even mummified beasts. The emperors of Ancient Osirion occasionally demanded to be buried next to particularly favored pets, which were carefully sacrificed and embalmed. Famous examples include Zahur II’s desert-acclimated firefoot fennecs, the toothed akh-birds of Menedes V, and the Dream Pharaoh’s unsightly six-legged hounds. Perhaps no beasts were trusted into the afterlife so much as felines, however, who were almost without exception buried alongside deceased pharaohs or at the very least inscribed into their burial chamber walls. Those cats that rose from the dead- either because of the foul magical energies of a pharaoh’s crypt or thanks to the necromantic magic of a restless undead pharaoh herself-were known as ubashki.
 
 Ubashki were prized for being stealthy, agile, and preternaturally perceptive sentries that made for effective spies and watch guards for the tombs of Osirian god-kings. Emperors often filled their crypts with the bodies of strangled and mutilated cats before they themselves were entombed, believing that a feline’s suffering in life would translate to strength in undeath. Whether or not such theories were true is up for debate, but those felid creatures that did rise from death with their masters were indeed beasts to be reckoned with, and a sizeable pack of the mummified things could very well spell the end for would-be tomb raiders. Ranging from tiny housecats to desert-roaming mountain lions, the feline enshrined with a deceased pharaoh varied in type depending on the predilections of its master, but all were known to be signif icantly more powerful than their living iterations.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ubashki%20Swarm)
 ```encounter-table
 name: Ubashki Swarm

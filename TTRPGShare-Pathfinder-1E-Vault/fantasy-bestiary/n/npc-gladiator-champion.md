@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Gladiator Champion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,7 +45,7 @@ sources:
   - name: NPC Codex
     desc: 271
 ```
-# Description
+## Description
 The gladiator champion rose up from hopeless slavery to great fame, winning match after match with luck, skill, and the approval of the crowd. He has defeated single opponents and dozens of warriors at once, fought tigers and strange beasts, and even battled a minotaur and things that have no name in any human tongue.
 
 Now at the top of his game, the champion fights every public battle as if a grand audience were watching. Though he is still a slave, he is a valued slave with thousands of fans, and his owner is careful to not put him in matches where he will likely be slain. The gladiator lives for the fighting, the glory, the wet heat of his opponent’s blood, and the noise of the joyous crowd. Within the halls of the gladiators he lives like a prince, albeit a prince bound with a thin golden chain that he cannot break on his own.
@@ -55,7 +57,7 @@ The longer he remains a gladiator, the more this voice of fear speaks to him. He
 Above all, the gladiator wants to survive. If he is losing a fight-even a public one-and has reason to believe his opponent will be merciful, he surrenders rather than fighting to the death.
 
 This stat block can also be used for a retired military hero, tribal champion, or loyal retainer of a noble family. If used for this purpose, change his melee weapon choices and his armor to alternatives that are more suitable for his revised role.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Gladiator%20Champion)
 ```encounter-table
 name: NPC Gladiator Champion

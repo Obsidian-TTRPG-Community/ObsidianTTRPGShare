@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Sail Master
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
   - name: NPC Codex
     desc: 62
 ```
-# Description
+## Description
 Mastery of the wind and weather is a boon on any ship, and many northern druids thus serve as captains, navigators, and battle support.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Sail%20Master)
 ```encounter-table
 name: NPC Sail Master

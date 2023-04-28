@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Gravebound
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 128
 desc_short: This humanoid figure has two impossibly deep pits where its eyes should be, and long claws that stretch toward the ground.
 ```
-# Description
+## Description
 Gravebound are hateful creatures formed when the souls of people who were buried alive return, animating grave dirt to form new bodies. Obsessed with their own deaths, gravebound can’t travel far from their resting places, but they seethe with the need to inflict their fate upon others. A gravebound digs graves and attempts to bury victims alive in them, and wounds taken at its hands can cause a victim to appear to be dead. Each gravebound arises with a shovel attached to its back-a mark of its obsession- and those who slay a gravebound can take the shovel to assist buried allies before they suffocate.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Gravebound)
 ```encounter-table
 name: Gravebound

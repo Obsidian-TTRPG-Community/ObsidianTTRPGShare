@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thais
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,9 +73,9 @@ sources:
     desc: 86
 desc_short: This defiant, angelic woman has two black wings and three white wings, and bears a crystalline halberd.
 ```
-# Description
+## Description
 Cayden Cailean’s herald Thais is a personification of freedom and courage. She typically appears as a 15-foot-tall, angelic woman, but can change her size to be anywhere from 4 feet to 32 feet tall. She is always portrayed carrying her signature weapon, a crystalline halberd called Tyranny’s Foil borrowed from Milani’s armory. Three times per day as a standard action, she can use the weapon to open all nonmagical doors and break all nonmagical chains within 30 feet.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thais)
 ```encounter-table
 name: Thais

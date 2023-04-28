@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Street (Dealer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -42,13 +44,13 @@ sources:
   - name: GameMastery Guide
     desc: 301
 ```
-# Description
+## Description
 Dealers are purveyors of drugs, toxins, poisons, and all manner of proscribed and questionable alchemical substances. Operating from hidden laboratories and kitchens, they import and concoct their wares to rule the streets through the power of their sweet seduction. (See page 236 for a variety of drugs dealers might push.)
 
 Dealers can be used as low-level poisoners and assassins, traveling charlatans or snake-oil salesmen, or even semihonest alchemists, apothecaries, and street physicians.
 
 A corrupt dealer may work together with a slaver and two prostitutes to lure and kidnap victims (CR 6) or run a gang of four beggars and four pickpockets (CR 7). A dealer might partner with an unscrupulous shopkeep (CR 4) or sleazy barkeep (CR 5), or may be engaged in illicit business with a noble scion (CR 5). A dealer might also be accompanied by two street thugs for protection (CR 5). An honest dealer might be apprenticed to a hedge wizard (CR 5).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Street%20(Dealer))
 ```encounter-table
 name: NPC Street (Dealer)

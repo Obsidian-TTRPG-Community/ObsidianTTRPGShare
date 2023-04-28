@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lampadarius
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,13 +69,13 @@ sources:
     desc: 315
 desc_short: Ragged wounds on one side of this leather-clad humanoid’s face and body mark the transition between flesh and shifting shadowstuff.
 ```
-# Description
+## Description
 A kyton lampadarius is a servitor of the Midnight Lord who, instead of continually replacing parts of its body with those of other creatures, embraced the will of Zon-Kuthon by cutting away its flesh and replacing the lost parts with burning darkness from the Shadow Plane. Walking a fine line between outsider and undead, a lampadarius balances the freezing pain of its new body parts with the burning pleasures of its remaining flesh, continually indulging both as it gains power. It yearns to attain a perfect body of true shadows, yet pines for it missing flesh and the potential for sensation lost.
 
 A lampadarius resembles a common evangelist kyton (Pathfinder RPG Bestiary 185) with many old and new wounds, but instead of it being wrapped in chains, entire limbs and half of its face are nothing more than shifting shadow. Individuals have vastly varied appearances-some have a shadowy right arm, others a shadowy left, some replace both limbs on the same side, others alternate which limbs are replaced-but all have some portion of the face removed. All are very close to being half-shadow, as a lesser amount is insufficient to grant them power, and too much converts them to some other kind of shadow-creature.
 
 Lampadariuses stand just under 6 feet tall and weigh about 80 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lampadarius)
 ```encounter-table
 name: Lampadarius

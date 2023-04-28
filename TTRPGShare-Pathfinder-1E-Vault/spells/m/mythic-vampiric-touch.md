@@ -1,19 +1,21 @@
 ---
-alias: Mythic Vampiric Touch
+aliases: [Mythic Vampiric Touch]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Vampiric Touch
+## Mythic Vampiric Touch
 
 **source**:: Mythic Adventures pg. 111  
 **school**:: necromancy
 **level**:: antipaladin 3, arcanist 3, bloodrager 3, magus 3, medium 3, mesmerist 3, psychic 3, sorcerer 3, spiritualist 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: touch  
 **target**:: living creature touched  
@@ -21,7 +23,7 @@ alias: Mythic Vampiric Touch
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You must succeed on a melee touch attack. Your touch deals 1d6 points of damage per two caster levels (maximum 10d6). You gain temporary hit points equal to the damage you deal. You can't gain more than the subject's current hit points + the subject's Constitution score (which is enough to kill the subject). The temporary hit points disappear 1 hour later.
 

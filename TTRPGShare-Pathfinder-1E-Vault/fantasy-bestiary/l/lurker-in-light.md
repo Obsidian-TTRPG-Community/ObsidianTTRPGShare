@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lurker in Light
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,7 +68,7 @@ sources:
     desc: 58
 desc_short: This large-eyed humanoid looks like a glowing, emaciated elven child save for its small, transparent wings.
 ```
-# Description
+## Description
 Malicious and alien fey, lurkers in light venture to the Material Plane to perpetrate strangely targeted mischief, stealing and killing according to a logic or system of justice only they understand. Gnomes in particular seem to incur these unexplained attacks, leading some to believe that lurkers may be agents of ancient and vengeful forces. Creatures of the light, lurkers are visible only in dim illumination, with anything brighter than a flickering torch making them completely invisible, even as they savage their enemies-a prospect terrifying to those civilized races that equate light with safety.
 
 A lurker in light turns conventional wisdom on its head, for they detest darkness and the creatures that dwell in it, yet they themselves are sadistic and evil. They particularly hate darkmantles, dwarves, and creatures from the Plane of Shadow, and given the time, they enjoy torturing such creatures to death if they can capture them alive.
@@ -74,7 +76,7 @@ A lurker in light turns conventional wisdom on its head, for they detest darknes
 If killed, a lurker in light disintegrates over the course of several minutes into 2d6 pounds of dust that radiates faint evocation magic and glows for 1d6 days with a cold light equal to that provided by a candle. This dust damages shadows as if it were holy water, with a pound of dust equal to one flask of holy water.
 
 A lurker in light is 3 feet tall, but weighs only 20 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lurker%20in%20Light)
 ```encounter-table
 name: Lurker in Light

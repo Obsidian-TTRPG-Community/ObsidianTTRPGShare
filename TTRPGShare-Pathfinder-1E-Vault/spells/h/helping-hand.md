@@ -1,19 +1,21 @@
 ---
-alias: Helping Hand
+aliases: [Helping Hand]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Helping Hand 
+## Helping Hand
 
 **source**:: PRPG Core Rulebook pg. 295  
 **school**:: evocation
 **level**:: cleric 3, medium 2, oracle 3, psychic 3, spiritualist 3, warpriest 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 5 miles  
 **effect**:: ghostly hand  
@@ -21,7 +23,7 @@ alias: Helping Hand
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You create the ghostly image of a hand, which you can send to find a creature within 5 miles. The hand then beckons to that creature and leads it to you if the creature is willing to follow.  
   

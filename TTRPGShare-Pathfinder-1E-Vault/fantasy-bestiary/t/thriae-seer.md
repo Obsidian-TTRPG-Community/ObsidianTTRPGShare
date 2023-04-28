@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Thriae Seer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 264
 desc_short: Lithe and beautiful, this half-bee, half-woman creature wears elaborate makeup and wields an ornate staff.
 ```
-# Description
+## Description
 Sought after for their wisdom and guidance as well as their enchanting beauty, thriae seers are among the most spiritually gifted members of their colony. Their prowess for foretelling the future and deciding upon the soundest courses of action in dire situations earns them respect from other thriae as well as outsiders from other societies, and seers wield their gift with a stoic humbleness. Nonetheless, most seers expect an offering before they will grant an audience a divination. These offerings usually consist of ornate jewelry and sums of gold, though some seers desire the company of humanoid male or female consorts, many of whom gladly oblige the captivating seer with their presence.
 
 While their combative abilities mainly comprise their magical powers and they appear at first glance to be thin and frail, seers still possess the trademark strength and resilience of all thriae.
@@ -68,7 +70,7 @@ While their combative abilities mainly comprise their magical powers and they ap
 Thriae seers spend most of their time meditating in one of the many chambers in the colony’s hive dedicated to such activities. Consuming large amounts of their queen’s merope to enhance their powers of divination, seers ponder the best solutions to their colony’s problems, and often act as a sort of spiritual political council for the queen. If a particularly wealthy group of outsiders has sought the counsel of several thriae seers, this council of prophetesses will combine their powers in order to read a difficult divination.
 
 Thriae seers are 6 feet from head to toe and weigh 150 pounds. The thriae seer presented here represents the least of her kind. Many thriae seers take levels of monk or rogue so as to be even more adept at protecting their queen. Thriae oracles and sorcerers are also relatively common-such thriae are particularly valued by their hive for their magical abilities.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Thriae%20Seer)
 ```encounter-table
 name: Thriae Seer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ichthyocentaur
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 146
 desc_short: This creature has an athletic human torso from the waist up, but its lower body consists of two hoofed forelegs trailing into a finned tail.
 ```
-# Description
+## Description
 Ichthyocentaurs, hybrids of hippocampi and more common merfolk, possess a culture that centers around communal growth fostered by mentoring and trading knowledge, songs, and services with small communities of the sea and coast. They idolize both memorable courage and wise stewardship. Ichthyocentaur warriors are known to challenge adventurers simply as a test of mettle and to offer guidance to respectful opponents whether the fight is lost or won. The leaders of ichthyocentaur tribes are usually bards, clerics, or oracles.
 
  Most ichthyocentaurs are nomads, migrating across coastlines and sea lanes along ancient routes and largely living off what they catch. They prefer to avoid larger civilizations for fear of conquest but often form mutually beneficial arrangements with tritons, coast-dwelling satyrs, and insular coastal elf communities. Elder members of the tribe often seek out powerful magical beings such as seilenoi and sphinxes from which to learn. Most ichthyocentaurs worship deities of nature, beauty, and passion, as well as godlike elder fey.
@@ -59,7 +61,7 @@ Ichthyocentaurs, hybrids of hippocampi and more common merfolk, possess a cultur
  Although they are amphibious and often form relationships with terrestrial creatures, ichthyocentaurs are only able to move on land with difficulty and rarely travel out of sight of the water. They determine their carrying capacity as if they were a quadruped despite having only two legs.
 
  An average ichthyocentaur stands just over 5 feet tall when propped up by its legs and tail, is nearly 15 feet long from head to tail tip, and weighs over 1,700 pounds, but tribes from different areas vary significantly in build and size.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ichthyocentaur)
 ```encounter-table
 name: Ichthyocentaur

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Fading Fox
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -48,9 +50,9 @@ sources:
     desc: 60
 desc_short: This regal fox’s coat shifts subtly between silver, red, and dull brown as it walks.
 ```
-# Description
+## Description
 “Smarter than my own children,” is the common refrain from those nobles who’ve pitted their hunting skills against the fading fox. Agile, alert, and clever, these handsome beasts find few traps or enclosures they can’t escape-and few gardens or larders they can’t enter. To aristocratic hunters, they represent the ultimate quarry to track, leaving no footprints, running confusing trails, and easily vanishing from sight, but to the common people of western Taldor, fading foxes have become a surprisingly common and persistent pests they have neither the ability nor the permission to trap.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Fading%20Fox)
 ```encounter-table
 name: Fading Fox

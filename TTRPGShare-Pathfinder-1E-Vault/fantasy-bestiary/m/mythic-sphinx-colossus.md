@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mythic Sphinx Colossus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,9 +68,9 @@ sources:
     desc: 56
 desc_short: This stone edifice resembles a lion with a regal human face, garbed in royal clothing.
 ```
-# Description
+## Description
 A sphinx colossus is an ancient relic carved by priests and god-kings to protect their secrets. A sphinx colossus stands roughly 60 feet tall and weighs about 220,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=Sphinx%20Colossus)
 ```encounter-table
 name: Mythic Sphinx Colossus

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grisantian Lion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,11 +56,11 @@ sources:
     desc: 86
 desc_short: This massive lion’s fur and skin shimmer with a golden sheen.
 ```
-# Description
+## Description
 Taldan legends tell of the grogrisant, a golden-furred leonine beast that First Emperor Taldaris killed in the early days of the empire. The grogrisant has reappeared throughout history to test great Taldan heroes, and scholars disagree as to whether this is the same ageless mythic beast or a rare race of creatures. In either case, the mighty grogrisant has sired powerful offspring among the dire lions of the Whistling Plains north of the World’s Edge Mountains. Their legendary heritage evident in their great size, lustrous hide, and rending claws, grisantian lions stalk the plains and mountains of northern Taldor. Haughty and powerful, grisantian lions seek easy meals but cannot resist an opportunity for a challenging fight, hurling themselves against large foes such as mammoths and giants to demonstrate their formidable attacks and supernatural resilience.
 
  A grisantian lion stands 14 feet tall at the shoulder and weighs around 8,000 pounds. Female grisantian lions are slightly larger than males.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grisantian%20Lion)
 ```encounter-table
 name: Grisantian Lion

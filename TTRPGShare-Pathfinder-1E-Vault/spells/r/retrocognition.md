@@ -1,25 +1,27 @@
 ---
-alias: Retrocognition
+aliases: [Retrocognition]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Retrocognition 
+## Retrocognition
 
 **source**:: Occult Adventures pg. 185  
 **school**:: divination
 **level**:: arcanist 7, medium 3, occultist 3, psychic 5, sorcerer 7, wizard 7
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 minute  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: concentration, up to 1 minute/level
 
-### Description 
+### Description
 
 This spell allows you to gain psychic impressions from past events that occurred in your current location. Retrocognition reveals psychic impressions from events that occurred over the course of the last hour throughout the first minute of the duration, followed by impressions from the next hour back the next minute you concentrate, and so on. If a psychically traumatic or turbulent event happened during that time period, you must succeed at a concentration check (DC = 20, 30, or 40, depending on the severity of the psychic disturbance) or lose concentration on the spell.  
   

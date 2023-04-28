@@ -1,19 +1,21 @@
 ---
-alias: Mythic Web
+aliases: [Mythic Web]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Web
+## Mythic Web
 
 **source**:: Mythic Adventures pg. 112  
 **school**:: conjuration (creation)
 **level**:: adept 2, arcanist 2, magus 2, sorcerer 2, witch 2, wizard 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (spider web)
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **effect**:: webs in a 20-ft.-radius spread  
@@ -21,7 +23,7 @@ alias: Mythic Web
 **saving-throw**:: Reflex negates; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 *Web* creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spiderwebs but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within a web become grappled by the sticky fibers. Attacking a creature in a web doesn't cause you to become grappled.  
   

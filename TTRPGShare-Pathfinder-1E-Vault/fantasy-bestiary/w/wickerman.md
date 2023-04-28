@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Wickerman
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,9 +58,9 @@ sources:
     desc: 277
 desc_short: This humanoid-shaped colossus is a towering fury of burning wicker and wood.
 ```
-# Description
+## Description
 A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones are used for sacrifices to gods or nature faiths, and the constructs to terrify a faith’s enemies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Wickerman)
 ```encounter-table
 name: Wickerman

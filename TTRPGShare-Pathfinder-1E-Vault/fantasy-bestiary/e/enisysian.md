@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Enisysian
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -66,13 +68,13 @@ sources:
     desc: 88
 desc_short: Three lidless eyes with vertical pupils stare out from a small umbrella-shaped creature. It moves about using squirming tentacles, each moving independently in a mesmerizing motion.
 ```
-# Description
+## Description
 Of all the races of alghollthus, none are as poorly understood by the scholars of the surface world as the enisysians. Their very existence is only a rumor, kept a closely guarded secret by an elite group of veiled masters known as the Fifth Dictum. These individuals coexist with enisysians in an asymmetrical physical and psychic symbiosis. In exchange for their protection, the much weaker enisysians grant their veiled master hosts not only increased mental capacity but also the ability to use their powers to influence other alghollthus. This relationship is far from equal, however, as the enisysians have been bred to be subservient to their masters for thousands of years, directly in opposition to the second dictum of their people: an alghollthu is to control. It should therefore never be controlled. Members of the Fifth Dictum rightly fear that should it become known that they created a race of alghollthu slaves, their kind would quickly turn against them.
 
  Enisysians were first created during the Age of Darkness from aboleth stock by the Fifth Dictum as a response to the cataclysm of Earthfall. These veiled masters had been vocal opponents of the human experiment (as they called the Azlanti civilization) from the beginning, believing that the humanoids were too free willed and unpredictable to be of lasting use. The destruction that Earthfall caused not only to the surface races but also to the alghollthu civilization at the time confirmed their worst fears. In the ruins of their broken cities, the Fifth Dictum began secretly fleshwarping the enisysians in order to give themselves the power to intervene against their own kin and prevent such a disastrous decision from ever being made again. Over the following millennia, however, members of the Fifth Dictum have grown arrogant, and they now believe themselves to be the true masters of alghollthu culture.
 
  A typical enisysian is about 3 feet in length and weighs approximately 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Enisysian)
 ```encounter-table
 name: Enisysian

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Formian Warrior
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,7 +53,7 @@ sources:
     desc: 112
 desc_short: Armored from head to toe in gleaming black-and-red chitin, this insectile warrior’s tail ends in a wickedly barbed stinger.
 ```
-# Description
+## Description
 Composing the fighting caste of the hive, formian warriors grow from grubs hatched in the flesh of carnivores and similar fierce creatures. All are sterile females, although in rare circumstances they spontaneously become fertile after the death of their queen. In the rigid hierarchy of the formian hive, they rank above the worker caste and below all others. Allowed independent initiative to better hone their battle skills, formian warriors have more latitude in following commands than many other formians. Owing to this latitude, formian warriors are more likely to chafe under hive strictures than workers and taskmasters.
 
 All formian warriors ultimately answer to the myrmarch caste and, through them, to the queen. Beneath this layer of command, the warriors have a command structure of their own. Formian warriors advance in rank through a complicated formula that references their achievements in battle, personal prowess, and years of service to the hive.
@@ -61,7 +63,7 @@ Formian warriors engrave their chitin with insignia depicting their rank and not
 Formian warriors stand 7 feet tall and weigh 200 pounds. Their carapaces resemble suits of armor as much as insects’ exoskeletons but cannot be enhanced with magic as if they were armor. The striped patterns of a formian warrior vary from individual to individual, although formians belonging to the same hive usually bear similar markings.
 
 Warriors mature quickly and have short life spans, becoming too infirm to fight around 15 years of age. Old warriors are expected to end their lives for the good of the hive, either by taking on a fatal mission or through voluntary starvation. A few of the most exceptional warriors receive permission to live out their remaining years as teachers and drill instructors, passing their skills on to new generations of formian warriors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Formian%20Warrior)
 ```encounter-table
 name: Formian Warrior

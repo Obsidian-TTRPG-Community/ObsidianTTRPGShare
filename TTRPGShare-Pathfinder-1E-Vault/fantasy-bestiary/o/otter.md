@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Otter
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
   - name: Bestiary 3
     desc: 113
 ```
-# Description
+## Description
 Otters are curious and playful, and enjoy investigating new objects, sliding down wet rocks, and other simple games.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Otter)
 ```encounter-table
 name: Otter

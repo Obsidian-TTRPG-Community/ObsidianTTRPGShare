@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yithian Elder
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -73,7 +75,7 @@ sources:
     desc: 62
 desc_short: This creature’s conical body bears four rubbery appendages: two end in strong pincers, another ends in a cluster of four trumpetlike organs, and yet another is attached to a round head with three eyes that glow with ancient, forbidden power.
 ```
-# Description
+## Description
 Yithians are beings from a galaxy far removed from Golarion across space and time. Their unusual biology is disturbing to behold. Their bodies are conical, roughly 10 feet tall and 10 feet wide at the base, and covered with a layer of rubbery flesh. Four thick appendages extend from a yithian elder’s body, stretching to a length of almost 10 feet or retracting until they nearly disappear. Two of these limbs end in pincers that serve both as hands and as a means of communication via a complex system of gestures, clicks, and scraping sounds. Another appendage ends in a grouping of four tapered organs, through which yithians consume liquefied vegetable and synthetic nourishment-yithians eat no meat in this form. The fourth appendage, atop the cone, bears the creature’s round head, which holds three large eyes spaced evenly around it. In addition to the eight tentacles that dangle from the bottom of all yithians’ heads, a yithian elder has a “crown” of five antennae sprouting from the top of its head.
 
 In the distant past of their civilizations, yithians made such great advances in science and metaphysics that they learned to fling their minds across the vastness of the multiverse and inhabit the bodies of other beings, even those of creatures living millions of years in the past or future. While the yithian uses the displaced creature’s body to experience alien worlds and times, the displaced mind is held in the yithian’s body. Cooperative subjects who share what they know of their own worlds can move with a certain amount of freedom about the yithians’ cyclopean cities. Even those who are forced to exchange their minds with yithians can, if well-behaved, learn a great deal about their hosts’ culture, which is strictly organized, largely free of crime, and almost entirely focused on the exploration of science and art, though yithians possess a bizarre aesthetic in keeping with their alien natures and nearly unlimited knowledge.
@@ -83,7 +85,7 @@ In displaced creatures’ bodies, yithian elders gather information about other 
 Yithian metropolises rest atop sealed tunnels-closely guarded with powerful weapons-that contain dreaded enemies of which the yithians never speak. Yithians already know their enemies will one day burst forth from their sealed tunnels and destroy them. Before that happens, the yithians plan to send their minds forward and inhabit a new race of beings-avoiding their own destruction, even as they doom the race whose minds they displace.
 
 A yithian elder weighs about 4,000 pounds and can live up to 5,000 years.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yithian%20Elder)
 ```encounter-table
 name: Yithian Elder

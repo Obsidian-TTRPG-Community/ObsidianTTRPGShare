@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pteranodon
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,11 +43,11 @@ sources:
     desc: 85
 desc_short: This flying reptile has two huge wings and a distinctive backward-sweeping crest decorating its head.
 ```
-# Description
+## Description
 The pteranodon is not itself a dinosaur but rather a large flying reptile that is often found in areas dinosaurs are common. Its flight lacks grace, so it lands on the ground to fight foes it can’t carry away.
 
 A pteranodon has a wingspan of 30 feet but only weighs 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pteranodon)
 ```encounter-table
 name: Pteranodon

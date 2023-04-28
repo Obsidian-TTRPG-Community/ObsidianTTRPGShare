@@ -1,25 +1,27 @@
 ---
-alias: Apsu's Shining Scales
+aliases: ["Apsu's Shining Scales"]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Apsu's Shining Scales 
+## Apsu's Shining Scales
 
 **source**:: Legacy of Dragons pg. 28  
 **school**:: evocation (draconic, good)
 **level**:: alchemist 3, arcanist 3, bloodrager 3, medium 3, sorcerer 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a drop of mercury)
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 minute/level
 
-### Description 
+### Description
 
 You envelop your body with silver radiance that manifests as scales surrounding your body, granting you a +5 armor bonus to your AC and causing your natural attacks and unarmed strikes to bypass damage reduction as if they were good and silver weapons.  
   

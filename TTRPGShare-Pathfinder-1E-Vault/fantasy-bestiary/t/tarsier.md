@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Tarsier
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,11 +51,11 @@ sources:
     desc: 208
 desc_short: This small, furry creature has enormous glossy eyes, long legs, and elongated fingers.
 ```
-# Description
+## Description
 The tarsier is a carnivorous tree-climbing primate. The animal’s neck is flexible, allowing its head to swivel around 180 degrees. Tarsiers hunt at night, silently waiting for insects and other small animals to fly or crawl by so they can jump at the prey and catch it. These shy animals live up to 12 years.
 
  The length of a tarsier from its head to the tip of its tail is about 1 to 1-1/2 feet, but when clinging to a tree, a tarsier appears to be about the size of a human’s fist. A tarsier weighs about 4 ounces.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Tarsier)
 ```encounter-table
 name: Tarsier

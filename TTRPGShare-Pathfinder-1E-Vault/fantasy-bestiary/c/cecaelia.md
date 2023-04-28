@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Cecaelia
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,13 +52,13 @@ sources:
     desc: 49
 desc_short: In place of legs, this handsome humanoid sports an octopus’s eight writhing tentacles.
 ```
-# Description
+## Description
 Cecaelias are intelligent human-octopus hybrids that hunt coastlines and ocean reefs. A cecaelia’s humanoid upper body varies individually but generally reflects the features of the inhabitants of the nearest humanoid settlements. Sages think this is an adaptive trait, akin to an octopus’s natural camouflage, allowing cecaelias to mutate within one to two generations to blend in with humanoids sharing their territory. Cecaelia stand 6 feet tall on land, and weigh just over 200 pounds. They generally live to be 60 years old.
 
 Cecaelias don’t normally wear clothes, but often carry woven seaweed backpacks. They prefer not to wear armor, though when they do, they prefer light, flexible varieties. Tattoos are a common form of decoration as well.
 
 Cecaelias are inquisitive creatures, but wary of strangers, and are quickly frustrated by wordy attempts at diplomacy-which they nearly always view as attempts at deception. As allies, they can be valuable to coastal communities since they often dig up treasures from the seabed that they then trade for fragments of polished glass or bits of “land fare,” as they refer to food not taken from the sea.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Cecaelia)
 ```encounter-table
 name: Cecaelia

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Great White Shark
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 84
 desc_short: This immense silvery beast is a majestic specimen, its gigantic jaws lined with rows of serrated teeth.
 ```
-# Description
+## Description
 The great white shark is one of the largest predatory fish in the ocean, and preys on seals, small whales, seabirds, dolphins, and turtles. Its strength and speed even allow it to leap out of the water to reach prey on land, rafts, or boats.
 
 Though fierce and ruthless, great white sharks are often careful when they encounter a new type of prey. They make many biting passes to evaluate the threat their quarry poses.
 
 An adult great white shark is 20 feet long and weighs 5,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Great%20White%20Shark)
 ```encounter-table
 name: Great White Shark

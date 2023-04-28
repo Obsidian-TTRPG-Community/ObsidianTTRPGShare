@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Spiroskek
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -56,13 +58,13 @@ sources:
     desc: 59
 desc_short: The rear limbs of this elk-sized insectoid loop into a large, chitinous sphere, and it nimbly propels itself forward with balance and grace.
 ```
-# Description
+## Description
 Wise Darklands-dwellers learn to listen for the faint, eerie “skek-kek-kek” noise that a prowling spiroskek’s wheel-limb makes. These insectile carnivores of Nar-Voth stalk a variety of intelligent prey, and generations of devouring derros, duergar, and fey has imparted the creatures with a measure of illusory magic. They are clever ambush predators, capable of phenomenal bursts of speed. Once their prey has been wounded, a pack follows like vultures, waiting for their anticoagulant saliva to bleed a creature dry before moving in to feast. Many spiroskeks target slaver parties, taking advantage of the meat that arrives bound or hobbled; duergar especially hate the beasts.
 
 Spiroskeks are clever, but have little culture. They communicate in a language of mandible clicks and bodily gestures, which they use to give warnings and exchange tales of successful hunts. Normally loyal to their nests, spiroskeks consider most other creatures-even others of their kind-either enemies or prey.
 
 Spiroskeks are 5 to 6 feet tall and weigh approximately 170 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Spiroskek)
 ```encounter-table
 name: Spiroskek

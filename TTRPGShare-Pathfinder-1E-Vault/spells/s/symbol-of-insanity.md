@@ -1,19 +1,21 @@
 ---
-alias: Symbol of Insanity
+aliases: [Symbol of Insanity]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Symbol of Insanity 
+## Symbol of Insanity
 
 **source**:: PRPG Core Rulebook pg. 356  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 8, cleric 8, occultist 6, oracle 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 
-### Effect 
+### Effect
 
 **range**:: 0 ft.; see text  
 **effect**:: one symbol  
@@ -21,7 +23,7 @@ alias: Symbol of Insanity
 **saving-throw**:: Will negates
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions like *symbol of death*, except that all creatures within the radius of the *symbol of insanity* instead become permanently insane (as the *insanity* spell).  
   

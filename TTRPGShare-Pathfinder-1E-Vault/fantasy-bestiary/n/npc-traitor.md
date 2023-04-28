@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Traitor
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,11 +46,11 @@ sources:
   - name: NPC Codex
     desc: 259
 ```
-# Description
+## Description
 A trusted and respected pillar of his community, a traitor keeps a kind face and speaks honeyed words, all the while betraying his people for his own selfish gain. In the long run, he doesn’t care who gets hurt or killed by his devious plans, as long as he is able to profit from it in terms of status or wealth.
 
 The traitor may have the village elder (commoner 8) under his thumb, or may keep several ruffians (commoners 7) at his beck and call. If allied with an evil cult, he may be able to get help from enforcers (adepts 5) or initiates (adepts 3) to enact his plans and keep a cultist (adept 10) on a short leash or at a safe distance.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Traitor)
 ```encounter-table
 name: NPC Traitor

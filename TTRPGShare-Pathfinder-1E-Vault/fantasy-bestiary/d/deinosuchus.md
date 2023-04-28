@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Deinosuchus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,11 +52,11 @@ sources:
     desc: 84
 desc_short: This immense reptile, an alligator of overwhelming size, emerges from the water with rapidly snapping jaws that grind menacingly between each bite.
 ```
-# Description
+## Description
 The largest of all known crocodilians, the 35- to 50-foot-long, 6-ton deinosuchus is a massive beast. This crocodilian possesses a shorter, rounder snout than the typical crocodile, and thus resembles a giant alligator. A patient hunter, the deinosuchus is all but invisible beneath the surface of the water. Only its nostrils breach the water’s surface, allowing the rest of its formidable mass to remain out of sight from even highly perceptive prey.
 
 In combat, the deinosuchus grinds its prey between its powerful jaws, knocking back other foes with its formidable tail while it snaps bones and tears the f lesh of its captured meal.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Deinosuchus)
 ```encounter-table
 name: Deinosuchus

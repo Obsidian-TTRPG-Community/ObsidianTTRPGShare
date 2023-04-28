@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Akata
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 80
 desc_short: This hairless blue lion has twin tentacular tails. Dozens more thick tentacles quiver and twitch where its mane should be. 
 ```
-# Description
+## Description
 Akatas hail from a strange, distant planet that long ago succumbed to a cataclysmic end. Countless akatas clung to fragments of the dead planet, entering hibernation and riding these asteroids until they eventually crashed upon a new planet-akatas’ cocoons protected them from the impact, and they soon awoke to seek out suitable hosts to spawn their young. Left untended, an akata scourge can quickly grow into a significant threat. A typical akata stands 3-1/2 feet tall and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Akata)
 ```encounter-table
 name: Akata

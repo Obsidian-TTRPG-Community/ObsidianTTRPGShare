@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Chimney Troll
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -57,13 +59,13 @@ sources:
     desc: 52
 desc_short: Filth and soot cover this large, emaciated humanoid’s pallid skin, and its beady black eyes glint with desperate hunger.
 ```
-# Description
+## Description
 Chimney trolls are gaunt, pale giants that skulk among the shadowy rooftops of towns and cities, searching for flames to heal their cursed wounds and flesh to sate their bellies. To claim the fire they need to survive, they twist their limbs into impossible positions, hiding in chimneys and sucking up the flames from frightened townsfolk’s hearths.
 
 By some cruel twist of fate or malicious necromancy, chimney trolls’ accursed bodies can heal wounds only if they consume the very substance trolls loathe most: fire. This desperate reliance on fire has made them anathema to their kin, who long ago drove them from their mountain homes and into civilized lands.
 
 Chimney trolls are 9 feet tall and weigh 350 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Chimney%20Troll)
 ```encounter-table
 name: Chimney Troll

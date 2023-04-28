@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clay Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 159
 desc_short: This lumbering figure is sculpted from soft clay. It wears filthy rags and crude jewelry, and its face is only vaguely humanoid.
 ```
-# Description
+## Description
 A clay golem wears no clothing except for a metal or stiff leather garment around its hips. It stands over 8 feet tall and weighs 600 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clay%20Golem)
 ```encounter-table
 name: Clay Golem

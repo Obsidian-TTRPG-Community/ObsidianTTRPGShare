@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Local Celebrity
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,9 +55,9 @@ sources:
   - name: NPC Codex
     desc: 27
 ```
-# Description
+## Description
 Celebrity bards love the spotlight and their throngs of admiring fans.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Local%20Celebrity)
 ```encounter-table
 name: NPC Local Celebrity

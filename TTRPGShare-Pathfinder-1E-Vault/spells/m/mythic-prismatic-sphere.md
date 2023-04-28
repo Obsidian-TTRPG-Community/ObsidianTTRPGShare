@@ -1,19 +1,21 @@
 ---
-alias: Mythic Prismatic Sphere
+aliases: [Mythic Prismatic Sphere]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Prismatic Sphere
+## Mythic Prismatic Sphere
 
 **source**:: Mythic Adventures pg. 104  
 **school**:: abjuration
 **level**:: arcanist 9, sorcerer 9, wizard 9
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **effect**:: 10-ft.-radius sphere centered on you  
@@ -21,7 +23,7 @@ alias: Mythic Prismatic Sphere
 **saving-throw**:: see text
 **spell-resistance**:: see text
 
-### Description 
+### Description
 
 This spell functions like *prismatic wall*, except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum.  
   

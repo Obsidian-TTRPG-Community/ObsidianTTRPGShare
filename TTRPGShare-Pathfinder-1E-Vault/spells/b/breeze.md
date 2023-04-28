@@ -1,19 +1,21 @@
 ---
-alias: Breeze
+aliases: [Breeze]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Breeze 
+## Breeze
 
 **source**:: Paizo Blog - Ultimate Cantrips pg. 0  
 **school**:: evocation (air)
 **level**:: arcanist 0, sorcerer 0, wizard 0
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a miniature fan)
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature or object  
@@ -21,7 +23,7 @@ alias: Breeze
 **saving-throw**:: Will negates (harmless)
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You create a light wind that blows against the target, from a direction of your choice. The breeze grants the subject a +2 bonus on saves against very hot conditions, severe heat, breath weapons, and saves against cloud vapors and gases (such as *cloudkill*, *stinking cloud*, and inhaled poisons). This spell does not function without air or underwater.  
   

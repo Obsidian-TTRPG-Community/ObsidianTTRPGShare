@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Adamantine Golem
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 134
 desc_short: This huge construct of black metal is all spikes and armor, save for several forge-like stacks that burn atop its crown and back.
 ```
-# Description
+## Description
 Made using one of the hardest and most precious substances, the adamantine golem is a deadly work of art. It can crush the life from foes that dare to get in its way and is nearly impossible to permanently destroy. The vast amount of adamantine required to build even one of these destructive golems is so significant that most worlds do not have enough resources, forcing the creator to travel to the Plane of Earth or remote Outer Planes simply to gather the raw materials needed to build the golem’s body.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Adamantine%20Golem)
 ```encounter-table
 name: Adamantine Golem

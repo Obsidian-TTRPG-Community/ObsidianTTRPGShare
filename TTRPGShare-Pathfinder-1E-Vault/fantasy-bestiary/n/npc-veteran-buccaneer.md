@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Veteran Buccaneer
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -43,11 +45,11 @@ sources:
   - name: NPC Codex
     desc: 267
 ```
-# Description
+## Description
 A veteran buccaneer lives to murder and plunder. Like a shark, she constantly hunts for prey. Buccaneers prefer easy targets like heavy, slow-moving merchant ships that quickly surrender their booty rather than fast military vessels that at best have a stockpile of weapons and at worst carry a full crew of angry sailors itching to spill pirate blood. Some buccaneers take only cargo, some take slaves, and some leave no survivors.
 
 Larger pirate vessels may have slave rowers (use the old sailor stat block, expert 2) who are prodded to the decks as reluctant fighters and living shields for the actual buccaneers; these slaves are easily replaced from surviving members of the opposing crew. A typical pirate captain uses the grizzled mercenary stat block (warrior 6) or has a PC class like the pirate king (fighter 15), pirate queen (ranger 10), or sea captain (druid 8).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Veteran%20Buccaneer)
 ```encounter-table
 name: NPC Veteran Buccaneer

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Herecite of Asmodeus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -75,9 +77,9 @@ sources:
     desc: 154
 desc_short: A palpable sense of despair clings to the rotting frame of this decaying man. Tears of blood run from his eye sockets, yet his expression is one of unquenched rage.
 ```
-# Description
+## Description
 Herecites are a particularly blasphemous form of undead created via an obscure ritual of sacrifice, wherein a priest of an evil god offers up at least five worshipers of a nonevil deity to her own deity. All of the sacrifices must worship the same deity. Upon the death of the sacrificed worshipers, their souls and bodies seethe and surge with negative energy, then melt away only to reform into a single entity-a herecite. Even the herecite’s appearance serves to support its heretical nature, for these foul creations always appear as undead versions of their prior god, even though now, in their new unlife, they are devoted worshipers of the god to whom they were sacrificed. Regardless of the size and shape of the worshipers sacrificed, or the mythological size of their prior deity, a herecite is a human-sized creature.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Herecite%20of%20Asmodeus)
 ```encounter-table
 name: Herecite of Asmodeus

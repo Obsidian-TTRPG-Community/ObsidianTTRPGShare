@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lotus Leshy
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -61,13 +63,13 @@ sources:
     desc: 157
 desc_short: A plant whose body resembles a blooming lotus flower exudes an air of serenity.
 ```
-# Description
+## Description
 Enigmatic lotus leshys are wise guardians of secluded ponds and lakes. They spend most of their time in meditation as lotus flowers, sometimes for decades at a time. Although lotus leshys spend most of their time floating in solitary ref lection, they do not shun the company of other creatures, and take humanoid form whenever they wish to speak. They find discussions of religion and philosophy particularly fascinating, and delight in fresh perspectives. Although they study deities of self-perfection and contemplation extensively, they do not revere such beings.
 
  Lotus leshys speak indirectly rather than providing specific answers. They maintain that contemplation and discussion are far more valuable than concrete answers, whose usefulness is limited to the question at hand. In addition, they believe those who receive direct answers are more likely to blindly accept the words of others rather than thinking for themselves. When confronted with impatience, lotus leshys return to their lotus form rather than engaging further. They avoid combat whenever possible, preferring to calm tempers with their tranquil auras or lull violent creatures to sleep with their soporific pollen.
 
  A typical lotus leshy stands 3 feet tall, and weighs 15 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lotus%20Leshy)
 ```encounter-table
 name: Lotus Leshy

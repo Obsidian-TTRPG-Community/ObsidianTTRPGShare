@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Svathurim
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 90
 desc_short: This hulking creature has the lower half of an eight-legged stallion and the upper half of a horned frost giant.
 ```
-# Description
+## Description
 Svathurims and frost giants consider each other allies and distant kin. The hindquarters of an adult svathurim are up to 10 feet tall and 16 feet long, while its giant trunk and head reach up to 18 feet in height. They typically weigh more than 5 tons and may live up to 500 years. Svathurims dwell in arctic regions, galloping along the shores of polar seas or between high mountain peaks, with individuals organized into clans headed by the strongest hunters.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Svathurim)
 ```encounter-table
 name: Svathurim

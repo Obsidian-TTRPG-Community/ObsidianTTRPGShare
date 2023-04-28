@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Gambler
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,9 +64,9 @@ sources:
   - name: NPC Codex
     desc: 30
 ```
-# Description
+## Description
 Gamblers lounge in dark corners of taverns and gambling dens, using their keen wits and talents to make a living.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Gambler)
 ```encounter-table
 name: NPC Gambler

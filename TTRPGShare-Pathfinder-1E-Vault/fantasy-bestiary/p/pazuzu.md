@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Pazuzu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -80,9 +82,9 @@ sources:
     desc: 50
 desc_short: Held aloft by four great feathered wings, this hawk-faced fiend has a scorpion’s tail and carries a black metal scepter.
 ```
-# Description
+## Description
 Pazuzu is among the oldest and most powerful of all demon lords. His Abyssal realm is located in one of that plane’s greatest rifts. This vertical realm includes an immense city, at the heart of which can be found Shibaxet, Pazuzu’s personal rookery and palace. Pazuzu appears as a four-winged, 15-foot-tall fiend. He takes great delight in corrupting mortals, particularly those of a pure heart and soul, offering them any one wish in return for nothing but their innocence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Pazuzu)
 ```encounter-table
 name: Pazuzu

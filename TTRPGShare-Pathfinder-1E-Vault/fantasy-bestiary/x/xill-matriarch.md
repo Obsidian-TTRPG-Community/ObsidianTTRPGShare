@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Xill Matriarch
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -51,9 +53,9 @@ sources:
     desc: 60
 desc_short: This flame-red, four-armed creature has large mandibles and numerous hornlike projections spike from its head.
 ```
-# Description
+## Description
 Xill matriarchs are paragons of their kind, having undergone a ritualistic metamorphosis involving the consumption of brain matter from xill egg hosts. The matriarchs possess powerful mental abilities, which they use to protect the young of their race.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Xill%20Matriarch)
 ```encounter-table
 name: Xill Matriarch

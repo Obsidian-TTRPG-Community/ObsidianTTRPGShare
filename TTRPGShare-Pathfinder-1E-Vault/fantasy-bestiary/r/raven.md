@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Raven
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -40,9 +42,9 @@ sources:
   - name: Pathfinder RPG Bestiary
     desc: 133
 ```
-# Description
+## Description
 The raven is an omnivorous scavenger that eats carrion, insects, food waste, berries, and even small animals.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Raven)
 ```encounter-table
 name: Raven

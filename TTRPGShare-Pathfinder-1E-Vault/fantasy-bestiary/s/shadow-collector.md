@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Shadow Collector
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 228
 desc_short: Shadows drip from the hands of this small, humanoid figure. Massive ears and elaborate eyebrows frame her youthful features.
 ```
-# Description
+## Description
 Shadow collectors feed on memories and regrets sifted from shadows. They often weave mortal shadows into certain magic items such as cloaks and gloves. Some shadow collectors con mortals into selling their shadows or resort to blatant theft; others prowl the Plane of Shadow and the Ethereal Plane for shadows that are already lost.
 
  Shadow collectors favor spaces like the edges of forests and foothills for the varied lighting and for the numerous places where they can f lank marks from hiding or surprise them with pits created by shadow conjuration.
 
  A typical shadow collector stands over 3 feet tall and weighs 40 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Shadow%20Collector)
 ```encounter-table
 name: Shadow Collector

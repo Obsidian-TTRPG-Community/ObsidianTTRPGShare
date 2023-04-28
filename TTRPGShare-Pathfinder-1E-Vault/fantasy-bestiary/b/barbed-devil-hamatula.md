@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Barbed Devil (Hamatula)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -63,11 +65,11 @@ sources:
     desc: 72
 desc_short: From the tip of its lashing tail to the serrated features of its fang-filled visage, this fiery-eyed sentinel bristles with barbs.
 ```
-# Description
+## Description
 Sentinels of the vaults of Hell, jailers of the darkest souls, and living weapons of the infernal forges, barbed devils-known as hamatulas to diabolists-enforce the strictures of the damned and safeguard the nefarious works of greater devils. A hamatula enjoys the feel of warm blood on its spines, and prefers to leap into melee when presented with an opportunity for battle.
 
 Hamatulas are collectors and organizers, and are favorite allies of greedy summoners as they often bring with them tempting treasures from Hell’s vaults or know the paths to deadly riches. Left to their own devices, the lairs of these devils often bear the pierced trophies of their past victims, hung like perverse bug collections on bloodied walls. Most barbed devils stand upward of 7 feet tall and weigh 300 pounds, though their leanly muscled bodies appear much larger due to the constantly growing and adjusting spines that protrude from their razor-sharp bodies.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Barbed%20Devil%20(Hamatula))
 ```encounter-table
 name: Barbed Devil (Hamatula)

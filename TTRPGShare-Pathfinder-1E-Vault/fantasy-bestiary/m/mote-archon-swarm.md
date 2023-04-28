@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Mote Archon Swarm
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,11 +73,11 @@ sources:
     desc: 88
 desc_short: Thousands of golden lights form a cloud, swirling gracefully around one another. Each light in the cloud is a glowing rune no bigger than a thumbnail.
 ```
-# Description
+## Description
 Mote archons are tiny, floating runes less than an inch across. Individually, they are benign and nearly mindless creatures, but mote archons are virtually never found alone, congregating naturally in groups of hundreds or thousands of their kind. Together, these swarms of mote archons have a unified personality and an overwhelming drive to comfort the sick and heal the injured. They are most often found on the battlefields of Heaven tending to injured angels and other archons, and never hesitating to defend creatures under their care. Angry mote archons oscillate rapidly until they ignite and swarm over enemies with fiery retribution.
 
 A mote archon swarm has no appreciable weight.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Mote%20Archon%20Swarm)
 ```encounter-table
 name: Mote Archon Swarm

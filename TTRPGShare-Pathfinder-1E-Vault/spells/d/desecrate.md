@@ -1,19 +1,21 @@
 ---
-alias: Desecrate
+aliases: [Desecrate]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Desecrate 
+## Desecrate
 
 **source**:: PRPG Core Rulebook pg. 265  
 **school**:: evocation (evil)
 **level**:: antipaladin 2, cleric 2, inquisitor 2, oracle 2, warpriest 2
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area), DF
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **area**:: 20-ft.-radius emanation  
@@ -21,7 +23,7 @@ alias: Desecrate
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell imbues an area with negative energy. The DC to resist negative channeled energy within this area gains a +3 profane bonus. Every undead creature entering a *desecrated* area gains a +1 profane bonus on all attack rolls, damage rolls, and saving throws. An undead creature created within or summoned into such an area gains +1 hit points per HD.  
   
@@ -33,7 +35,7 @@ If the area contains an altar, shrine, or other permanent fixture of a deity, pa
   
 *Desecrate* counters and dispels *consecrate*.
 
-## Mythic Desecrate 
+## Mythic Desecrate
 
 **source**:: Mythic Adventures pg. 90  
 Select one alignment component that you have (chaotic, evil, or lawful). Outsiders with the opposite alignment subtype of the chosen alignment component take a -1 penalty on attack rolls, damage rolls, and saves in the area.

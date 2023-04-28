@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Neh-Thalggu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,11 +69,11 @@ sources:
     desc: 197
 desc_short: This crab-like nightmare has a lamprey mouth, twitching eyes on its legs, and several blisters along its back that hold human brains.
 ```
-# Description
+## Description
 Known also as brain collectors, the alien neh-thalggus hail from distant worlds, traveling the gulfs of space on immense living ships that swiftly decay when they land upon a new world, leaving behind a deadly cargo of hungry monsters. Neh-thalggus are carnivores, but they do not digest humanoid brains they eat-rather, these brains lodge in one of several bulbous blisters on the creature’s back and help to increase its intellect.
 
 Some speculate that neh-thalggus encountered in this reality may merely be juveniles of their kind, perhaps exiled from their home worlds by greater kin until they can prove their worth on other worlds. Their brain collections may be a morbid form of currency in their home realm, or the thoughts in these brains may merely be fuel for a dark apotheosis into an even more sinister mature form.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Neh-Thalggu)
 ```encounter-table
 name: Neh-Thalggu

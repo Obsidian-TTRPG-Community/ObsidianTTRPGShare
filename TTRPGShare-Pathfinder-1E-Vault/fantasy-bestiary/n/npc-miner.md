@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Miner
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -44,9 +46,9 @@ sources:
   - name: NPC Codex
     desc: 256
 ```
-# Description
+## Description
 A miner labors long hours in the dark, and spends his earnings freely during rare visits to the surface.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Miner)
 ```encounter-table
 name: NPC Miner

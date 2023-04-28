@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Usaro Rebel
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,11 +60,11 @@ sources:
   - name: Inner Sea NPC Codex
     desc: 58
 ```
-# Description
+## Description
 The savage charau-ka of Usaro in the Mwangi Expanse worship the demon lord Angazhan and toil to bring him humanoid sacrifices. Although most charau-ka embrace their birth culture, handfuls of defectors flee the unforgiving monarchy. Also, if rumors are true, the ape-men have developed a technique for reincarnating sacrificed humans as charau-ka; those who retain their memories often flee the cacophonous city in horror. Even though they have turned their backs on Usaro, charau-ka rebels are rarely benevolent. For the defectors, self-serving opportunism replaces religious faithfulness. For the reincarnated, the Mwangi Expanse provides a seemingly limitless wilderness in which to eke out a living (and perhaps nurse bitter grudges for being abandoned by their allies after they were captured by the forces of Usaro) while avoiding the judgment of more civilized lands.
 
 When it serves their needs, some Usaro rebels are known to hire themselves out as guides through the Mwangi Expanse, often because the destination of their patrons is somewhere they too want to go.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Usaro%20Rebel)
 ```encounter-table
 name: NPC Usaro Rebel

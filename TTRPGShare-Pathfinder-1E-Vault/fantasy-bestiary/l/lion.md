@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Lion
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -45,13 +47,13 @@ sources:
     desc: 193
 desc_short: This great cat’s muscles flex visibly under its skin as it bares its fangs and shakes its thick mane of hair.
 ```
-# Description
+## Description
 Male lions are 5 to 8 feet long and weigh 330 to 550 pounds. Females are slightly smaller but use the same statistics.
 
 Lions are usually the top animal predators in their territories, though they resort to scavenging if convenient or necessary. They may kill other predators (such as leopards and hyenas) that encroach upon their haunts, but rarely eat these kills unless game is scarce. Most lions do not selectively hunt humanoids, but occasionally one learns what easy kills they are and becomes a man-eater.
 
 Lions prefer plains but can adapt to living in shallow caves as long as there’s a large and stable supply of prey to keep them fed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Lion)
 ```encounter-table
 name: Lion

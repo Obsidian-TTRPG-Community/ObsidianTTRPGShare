@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Froghemoth
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -53,13 +55,13 @@ sources:
     desc: 136
 desc_short: This immense, three-eyed frog-like creature rears up on powerful hind legs. In place of arms, four huge tentacles thrash and writhe.
 ```
-# Description
+## Description
 Thankfully rare, the froghemoth is one of the deep swampland’s most ferocious and monstrous predators. Capable of catching and eating dinosaurs and even dragons, the froghemoth is a frighteningly effective ambush hunter. When lying in wait for prey, the immense creature secrets itself in deep marsh pools and mud so that only the top of its eyestalk emerges from the surface. The froghemoth’s eyes are incredibly keen, but even more impressive is the monster’s tongue. Like a snake, a froghemoth can “taste” its surroundings with extraordinary accuracy.
 
 Scholars have long debated the origin of this strangely immense predator, arguing that its unusual senses, physiology, and resistances make it something more than an animal. Druids and other servants of the natural world agree-the froghemoth may act like an animal, but it never seems fully “comfortable” in its environs. Perpetually ill-tempered, a froghemoth often seems to kill simply for the sake of killing-vomiting up partially digested meals in favor of new prey when it encounters such. It’s not unheard of to find these strange creatures far from their normal habitations, as if the marsh didn’t agree with them and sent them wandering in search of a new home. Some sages argue that the froghemoth isn’t from this world at all, and that these wanderings are instinctual urges to seek out its true home-a home not represented by the strange world in which the beast finds itself trapped.
 
 A froghemoth is 22 feet tall at the shoulder and weighs 16,000 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Froghemoth)
 ```encounter-table
 name: Froghemoth

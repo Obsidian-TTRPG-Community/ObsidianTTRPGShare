@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Giant Blowfish
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 83
 desc_short: A blowfish the size of a horse drifts through the water, its quills the size of spears.
 ```
-# Description
+## Description
 These gigantic cousins of common blowfish, covered in poisonous spearlike quills, can reach up to 10 feet in size, and nearly double that when fully inflated.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Giant%20Blowfish)
 ```encounter-table
 name: Giant Blowfish

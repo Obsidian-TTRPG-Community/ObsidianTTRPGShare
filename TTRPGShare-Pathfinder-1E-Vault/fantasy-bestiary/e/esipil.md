@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Esipil
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,7 +62,7 @@ sources:
     desc: 213
 desc_short: This creature’s stout canine torso tops a slimy mass resembling an earthworm. Disgusting veins dangle from its face.
 ```
-# Description
+## Description
 Esipils prey upon the unease that comes from living among beasts. The civilized world has domesticated animals, but those creatures are just a step away from wild animals, and esipils make sure that humanoids who live around them remember that. They ingratiate themselves with humanoids (particularly neutral evil spellcasters who might take them on as familiars) by acting like loving pets. They then delight in aggressive episodes, barking and snapping until called down by their masters. They return to a fawning obedience for a time-until the next inevitable outburst.
 
  Instead of gnashing jaws, an esipil’s bite involves a lashing mass of f leshy veins and viscera that can grasp at its opponent. Esipils use this attack to distract their opponents, savaging entangled victims with their vicious claw attacks until their masters pull them away.
@@ -68,7 +70,7 @@ Esipils prey upon the unease that comes from living among beasts. The civilized 
  Although an esipil’s ability to frighten its victims is potent, it relies on its cause fear spell-like ability only when grossly outnumbered, outmatched, or greatly injured. Esipils like to fight and scrap with nearly anything, and prefer that their victims not simply f lee in terror, as they wish to savor the fear. Esipils use their telepathic abilities to harass would-be opponents into attacking them first, f linging mental taunts that are vulgar and disconcerting. Once they engage, they are resilient and dogged fighters. An esipil stands 1 foot tall at the shoulder, and its thin, wormlike body stretches nearly 3 feet long. An esipil weighs around 13 pounds.
 
  Though they make unruly companions, esipils actually enjoy serving those mightier than themselves, taking pride in their masters’ power, even if they continue to snap and snarl when given commands. A neutral evil spellcaster of at least 7th level who takes the Improved Familiar feat can select an esipil as a familiar.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Esipil)
 ```encounter-table
 name: Esipil

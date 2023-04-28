@@ -1,19 +1,21 @@
 ---
-alias: Mythic Chain Lightning
+aliases: [Mythic Chain Lightning]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Mythic Chain Lightning
+## Mythic Chain Lightning
 
 **source**:: Mythic Adventures pg. 87  
 **school**:: evocation (electricity)
 **level**:: arcanist 6, magus 6, occultist 6, sorcerer 6, witch 7, wizard 6
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, F (a bit of fur, a piece of amber, glass, or a crystal rod; plus one silver pin per caster level)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **target**:: one primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)  
@@ -21,7 +23,7 @@ alias: Mythic Chain Lightning
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlike *lightning bolt*, *chain lightning* strikes one object or creature initially, then arcs to other targets.  
   

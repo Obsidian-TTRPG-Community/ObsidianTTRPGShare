@@ -1,19 +1,21 @@
 ---
-alias: Controlled Fireball
+aliases: [Controlled Fireball]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Controlled Fireball 
+## Controlled Fireball
 
 **source**:: Ultimate Intrigue pg. 208  
 **school**:: evocation (fire, ruse)
 **level**:: arcanist 4, bloodrager 4, magus 4, occultist 4, sorcerer 4, wizard 4
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S, M (a ball of bat guano and sulfur)
 
-### Effect 
+### Effect
 
 **range**:: long (400 ft. + 40 ft./level)  
 **area**:: 20-foot-radius spread  
@@ -21,7 +23,7 @@ alias: Controlled Fireball
 **saving-throw**:: Reflex half
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 This spell functions as *fireball* except you can cause the bead of fire to originate from anywhere you can see within range. You can choose a number of squares within the area up to your Intelligence bonus (for magi, occultists, or wizards) or Charisma bonus (for bloodragers or sorcerers) to be struck by weaker flames; the controlled fireball deals minimum damage in those squares.  
   

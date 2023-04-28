@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Ardoc Moilant
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -64,13 +66,13 @@ sources:
     desc: 84
 desc_short: This massive metallic biped stands on thick legs. A wide, serrated shovel serves as the brute’s head, and iron pincers at the ends of its powerful arms snap open and shut.
 ```
-# Description
+## Description
 Ardoc moilants are hulking thaumaturgical workhorses created to move earth or perform other heavy labor. Efficient and powerful in their movements, Ardoc moilants carry out instructions with determination and a keen awareness that betrays a higher intelligence. The Ardoc family of Kaer Maga has achieved great success by mass-producing these constructs, which sell quickly due to their adaptability, durability, and ability to work for long periods with little need for oversight.
 
  Ardoc moilants are roughly humanoid in shape, with strong arms that end in massive gripping pincers. Moilants have large, shovel-shaped heads that they can lower to push aside dirt and stone. Of course, these tools that make the moilants so suited for heavy labor can also be used to make devastating attacks against those who interfere with their tasks.
 
  An Ardoc moilant is 25 feet tall and weighs 10 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Ardoc%20Moilant)
 ```encounter-table
 name: Ardoc Moilant

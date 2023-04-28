@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Korred
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,11 +61,11 @@ sources:
     desc: 173
 desc_short: This knobby-kneed, stunted humanoid, has a particularly thick beard and wild mane of hair, hiding most of its body from view.
 ```
-# Description
+## Description
 Korreds are an ancient fey race who like forested areas with nice, rocky ground. They resemble small, wild-haired humanoids with wild, knotted hair. Korreds especially like to dance in ancient stone circles within forest glades, often led by satyrs with panpipes. They are a shy race and do not take kindly to outsiders discovering them, even by accident. They almost always attack non-korreds who stumble into their territory, seeking to kill them or at least drive them off.
 
 Korred clothing normally consists of a simple leather apron, jerkin, or kilt, leaving their legs uncovered and their feet bare. Their clothes usually have a large pocket or pouch to hold their belongings. A korred’s hair and beard grow quickly, sometimes an inch a day, and the korred trims its hair when the locks become too unruly, saving the trimmings in its pocket so it can weave them into ropes for its animate rope spell-like ability.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Korred)
 ```encounter-table
 name: Korred

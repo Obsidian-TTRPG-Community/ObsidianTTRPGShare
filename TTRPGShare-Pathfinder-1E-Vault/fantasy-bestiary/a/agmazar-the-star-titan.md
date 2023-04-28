@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Agmazar the Star Titan
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,7 +71,7 @@ sources:
     desc: 46
 desc_short: Stony segments cover this towering colossus like armor plates. Though it looks lifeless, its four arms move with supple grace.
 ```
-# Description
+## Description
 Agmazar the Star Titan is a kaiju whose origins lie far from Golarion. It plummeted from the sky in 2456 by the Imperial Calendar (-44 ar) into the trackless green of the eastern Valashmai Jungles. Though many have searched for Agmazar’s landing place, none have found it and survived with suff icient strength or sanity to report precisely where it is.
 
 However, Agmazar’s entrance into the world hardly went unnoticed. In fact, its meteoric advent drew the attention of the great kaiju King Mogaru, who claimed the jungles at that time. In a cataclysmic battle that wiped out every living creature for miles, King Mogaru slew the invader from the stars and left the body burned and broken, after which he returned to his deep lake lair for a long rest.
@@ -81,7 +83,7 @@ After Agmazar had great victories, its overambitious creators launched it into s
 Confused by the richness of life on the planet and unable to escape Golarion’s gravity, Agmazar was taken by surprise by Mogaru’s onslaught. Its death activated its failsafe programming, but it found few undead within range of it senses. Though the kaiju destroyed undead wherever it found them, once it had exterminated all that it could find, it grew frustrated and its heart turned bitter.
 
 Agmazar now lies in wait most of the time, but lashes out even at the living if they disturb its watchful reverie. If a great necromantic power arises anywhere near Agmazar, it senses the threat and departs immediately to destroy it, treading a path of devastation as it seeks to fulfill the purpose it was given so long ago.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Agmazar%20the%20Star%20Titan)
 ```encounter-table
 name: Agmazar the Star Titan

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Skunk
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -46,9 +48,9 @@ sources:
     desc: 247
 desc_short: Built like a small badger, this creature has black fur with white stripes running from its face to its fluffy tail, which is raised in warning.
 ```
-# Description
+## Description
 These small mammals are well known to humanoids and forest creatures alike, with their distinctive black-and-white-striped markings and infamous scent glands. Creatures like big cats or wolves that normally would make a meal of such a small creature give skunks plenty of space, for they have learned well that the combination of black and white on a skunk’s back equates to a hideously overpowering stench.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Skunk)
 ```encounter-table
 name: Skunk

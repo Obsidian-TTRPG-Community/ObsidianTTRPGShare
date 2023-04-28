@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Burleev
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -71,13 +73,13 @@ sources:
     desc: 299
 desc_short: This creature looks like a humanoid skeleton with a complete set of internal organs. A violet glow replaces its missing flesh.
 ```
-# Description
+## Description
 A burleev is a planar explorer created by the power of Nethys. Some are his mortal petitioners assigned to this role after their death by a deliberate act of the god, whereas others are hapless visitors who were transformed by proximity to Nethys or certain parts of his realm. They serve as his eyes and ears on many planes, using their power to adapt to hostile environments and report their discoveries to his greater servitors. Each has a unique allotment of spells suited for its current task, and a burleev that has completed its service in one inhospitable location might be destroyed and recreated with a different array of arcane talents that suit it better for its next duty. The spells shown above represent those of a typical burleev.
 
 A burleev’s supernatural nimbus burns brightly with cold or heat, making it painfully cold or hot to the touch. As a burleev discovers information useful to the god of magic, the color of its aura increases in intensity. The eldest of these creatures, or those that have travelled far from Nethys’s realm in the Maelstrom for the longest, often burn like living pyres. These burleevs sometimes take sorcerer class levels as their magical power grows to match their ever-increasing knowledge. Should it later be crushed and reformed as part of its continuing duties, such a burleev retains much of its brightness and arcane might. A spellcaster whose research interests mirror those of a burleev can keep such an outsider’s attention for days, weeks, or longer so long as the mortal continues to make new and exciting discoveries.
 
 Burleevs stand around 6 feet tall and weigh roughly 80 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Burleev)
 ```encounter-table
 name: Burleev

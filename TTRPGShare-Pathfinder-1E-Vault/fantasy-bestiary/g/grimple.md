@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Grimple
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -60,13 +62,13 @@ sources:
     desc: 15
 desc_short: This putrid-looking humanoid bears a disquieting resemblance to a half-starved, mange-ridden opossum.
 ```
-# Description
+## Description
 Grimples are filthy urban scavengers that lurk beneath the eaves of abandoned buildings, clock towers, belfries, and steeples. Sickly-looking and ragged, they shed constantly as a result of the small parasites they host. Quick climbers, grimples also have loose flaps of skin that stretch between their arms and allow them to glide short distances.
 
 Grimples despise humans and show it by attacking drunks, unlocking stables, torturing guard dogs, and loosening hanging storefront signs so that they fall on people. This does not stop them from sometimes allying with humans and other humanoids, but such collaborations are always temporary, as a grimple is ever plotting betrayal. Although a grimple is often arrogant and overbearing, its ability to vomit at will (and propensity for doing so constantly) remains its most unappealing quality.
 
 Voracious omnivores, grimples feast off garbage. They frequently target inns, restaurants, and other places where they can scavenge a steady supply of food.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Grimple)
 ```encounter-table
 name: Grimple

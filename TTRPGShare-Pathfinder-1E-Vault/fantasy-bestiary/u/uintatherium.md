@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Uintatherium
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -41,13 +43,13 @@ sources:
     desc: 171
 desc_short: This large creature is built like a rhinoceros, but with fangs like a saber-toothed tiger and smaller hornlike ridges.
 ```
-# Description
+## Description
 Uintatheriums are large browsing herbivores that move through marshes, plucking aquatic plants from silty water with their large front teeth. They also use these front fangs for defense when confronted with a predator, and males- who have larger fangs-use them in mating displays. Females also fight with their teeth, though they prefer to intimidate foes into leaving them alone.
 
  While an uintatherium has a large, formidably protected skull, its brain is rather small. Dull-witted and slow to act, uintatheriums are not particularly dangerous to those who don’t intentionally provoke them, and they can be domesticated more easily than most megafauna.
 
  Uintatheriums stand nearly 6 feet tall at the shoulder and weigh over 2 tons.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Uintatherium)
 ```encounter-table
 name: Uintatherium

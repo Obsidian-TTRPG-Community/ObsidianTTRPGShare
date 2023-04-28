@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Krampus
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -76,7 +78,7 @@ sources:
     desc: 178
 desc_short: This hairy humanoid has the face of a demonic goat with legs to match. A long tongue hangs out of its fanged mouth.
 ```
-# Description
+## Description
 In frigid northern climes, celebrations and festivals are important to maintain a community’s morale, especially in the winter months when food is scarce and the days are short. Many of these holidays involve lighting cheery fires, forgiving grudges, decorating trees, and exchanging gifts. Unfortunately, in some areas, these times of merriment are tarnished by the looming specter of Krampus, a terrifying creature that hunts those it considers to be acting against the spirit of the times. However, thanks to Krampus’s twisted morality, it sees selfishness and incivility everywhere it goes. 
 
 Krampus is a tall, goatlike humanoid with large horns and a long tongue that constantly lolls out of one side of its mouth or the other. Though its natural attacks are powerful enough to break bones, Krampus also carries a set of iron chains that it uses to thrash and grapple its foes. The oversized bag it carries is often stained with the blood of its captured victims. Krampus stands 14 feet tall and weighs 1,000 pounds. 
@@ -90,7 +92,7 @@ For a while, Krampus was everything the druids wanted. It brought together the v
 The remainder of the druidic circle managed to locate the creature as it slept and shackled it in cold iron chains, believing it still retained a part of its fey nature. They were wrong. When Krampus awoke, the creature tore free from its restraints and used those same chains to beat the druids to death. It then retreated into the snow-blanketed forest for the remainder of the season. 
 
 Krampus returned year after year, growing stronger and more hideous with each winter solstice and gaining a taste for humanoid flesh. Even its periodic “death” at the hands of heroes did nothing to stop this cycle. Fortunately, while it could ravage the countryside all year long, for some reason it chooses to limit its predations to the winter months. Where it goes the rest of the year, no one has been able to discover.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Krampus)
 ```encounter-table
 name: Krampus

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Manu
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -62,11 +64,11 @@ sources:
     desc: 163
 desc_short: A toned, regal human radiates a shifting aura of many colors and murmuring voices that seem strangely familiar.
 ```
-# Description
+## Description
 Manus aspire to elevate members of a specific race or type of creature to enlightenment, adopting them collectively as special charges. Typically, this race or type of creature is chosen from those to whom the manu belonged during its most meaningful mortal incarnation, but this is not always the case.
 
  While most manus focus on a people’s enlightenment across a single Material Plane world, some ambitious manus follow their charges from world to world, continuing to elevate and guide them as they propagate among the stars. Manus are largely solitary, though they sometimes gather into tight-knit groups called rounds that coordinate efforts to guide their chosen peoples.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Manu)
 ```encounter-table
 name: Manu

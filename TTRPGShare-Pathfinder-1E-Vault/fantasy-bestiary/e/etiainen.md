@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Etiainen
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -58,13 +60,13 @@ sources:
     desc: 111
 desc_short: This vaguely humanoid-shaped roil of mist appears to be improbably solid.
 ```
-# Description
+## Description
 Etiainens are psychic amalgams of the past and the future, given form in a wispy, indistinct shape. It is believed these spirits are projections of strong psychic emanations from the past-usually the echoes of important people or the psychic residue of heroic deeds-and that they can manifest only in the presence of the psychic impressions and energies that attend the living. Once manifested, etiainens often act in confusing or even whimsical ways, opening and closing doors, attacking and stealing memories of those nearby, and creating a general sense of psychic discontent. They continue either until compelled to stop or until they use enough of their psychic magic to wink out of existence for a short period of time, returning only when the psychic impressions and energy of the local area allow them to manifest once again to repeat the cycle.
 
  An etiainen sometimes forges an involuntary connection with a creature that allows the spirit to perform actions in advance of the linked creature, leading to bizarre cases of deja vu for those nearby. For instance, a husband might hear the front door open and the sound of his wife's familiar footsteps walking toward him, only to discover that his wife has not yet returned home-But bafflingly, when she does come home, she carries out the same series of actions.
 
  Those who manage to successfully communicate with etiainens can sometimes compel the spirits to perform small tasks, though holding their attention requires great patience. For one who manages this difficult task, these spirits can sometimes act as intermediaries and messengers, or even spies. When acting in this fashion, an etiainen often appears as a strange, silent double of the creature it is serving. Etiainens can understand speech but cannot speak, and they rely on mindlinkto communicate. Because of the chaotic nature of these spirits, such fellowships are short lived, as the etiainen might at any time flit away on some strange flight of fancy.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Etiainen)
 ```encounter-table
 name: Etiainen

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Hive Warrior
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -50,9 +52,9 @@ sources:
     desc: 237
 desc_short: This creature is humanoid in shape, but covered with chitinous plating. Its head is elongated, and it has a long, bladed tail.
 ```
-# Description
+## Description
 Hive warriors guard colonies and serve as scouts for suitable hosts. Warriors sometimes range miles from their colony and drag victims back to be cocooned by hive workers. Hive warriors consider symbiosis with a hive creature to be both inevitable and beneficial and can’t fathom why most victims struggle against it. Hive workers have similar statistics, though they have the ability to secrete resin and sculpt that resin, rather than acid spit or rending mandibles.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Hive%20Warrior)
 ```encounter-table
 name: Hive Warrior

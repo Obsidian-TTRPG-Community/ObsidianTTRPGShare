@@ -1,19 +1,21 @@
 ---
-alias: Speak with Dead
+aliases: [Speak with Dead]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Speak with Dead 
+## Speak with Dead
 
 **source**:: PRPG Core Rulebook pg. 346  
 **school**:: necromancy (language-dependent)
 **level**:: cleric 3, inquisitor 3, medium 2, oracle 3, psychic 3, shaman 3, spiritualist 3, warpriest 3, witch 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 10 minutes  
 **components**:: V, S, DF
 
-### Effect 
+### Effect
 
 **range**:: 10 ft.  
 **target**:: one dead creature  
@@ -21,7 +23,7 @@ alias: Speak with Dead
 **saving-throw**:: Will negates; see text
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You grant the semblance of life to a corpse, allowing it to answer questions. You may ask one question per two caster levels. The corpse's knowledge is limited to what it knew during life, including the languages it spoke. Answers are brief, cryptic, or repetitive, especially if the creature would have opposed you in life.  
   

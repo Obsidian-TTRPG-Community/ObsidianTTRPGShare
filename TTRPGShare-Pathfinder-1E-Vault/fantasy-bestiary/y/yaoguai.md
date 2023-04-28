@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Yaoguai
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -67,9 +69,9 @@ sources:
     desc: 284
 desc_short: This creature is a mix of different animals fused together, with a bear’s torso and head, clawed ape legs, and a furred tentacle arm.
 ```
-# Description
+## Description
 A yaoguai is a monstrosity born of unnatural magic that combines several creatures into one body, creating a deformed, mismatched monster that slays and escapes its creator as soon as possible. No two yaoguai look the same, but most have similar abilities. Invariably, the torment of its genesis and the ongoing pain of its existence leave a yaoguai violently insane and prone to attacking at the slightest provocation.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Yaoguai)
 ```encounter-table
 name: Yaoguai

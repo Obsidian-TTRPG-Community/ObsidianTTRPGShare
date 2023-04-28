@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Rokurokubi
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -78,11 +80,11 @@ sources:
     desc: 90
 desc_short: This peasant woman sprouts a grotesquely long neck that coils about like a snake, with razor-sharp teeth filling her gaping maw.
 ```
-# Description
+## Description
 A rokurokubi is an evil hag-like creature who seeks to spread as much mayhem and despair as possible. Her skin ranges in hue from pale blue to muted green, so to disguise herself she must cover up her flesh with makeup and clothing, and retract her neck so it is no longer than a human’s.
 
 A rokurokubi can mate with almost any male humanoid, monstrous humanoid, or humanoid-shaped creature. Her offspring is always a rokurokubi. The mate is usually devoured once the rokurokubi tires of his presence.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Rokurokubi)
 ```encounter-table
 name: Rokurokubi

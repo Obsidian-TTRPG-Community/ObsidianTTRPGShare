@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: The First Owlbear
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,9 +51,9 @@ sources:
     desc: 213
 desc_short: This owlbear seems lean and especially mean, and moves with a spookily silent grace.
 ```
-# Description
+## Description
 Though created long ago, the very first owlbear still lives. Fecund, nomadic and cantankerous, the First Owlbear’s offspring are always owlbears, whether the mother is a bear, a giant owl, or an owlbear. He brings his “harem” of mates with him when he hunts, driving them off when he tires of their company or food becomes scarce.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MythicMonsterDisplay.aspx?ItemName=The%20First%20Owlbear)
 ```encounter-table
 name: The First Owlbear

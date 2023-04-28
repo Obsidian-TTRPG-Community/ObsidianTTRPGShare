@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Longboat Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,7 +49,7 @@ sources:
     desc: 60
 desc_short: This proud Ulfen captain stands alert on the deck of her dragonprowed longship, bow at the ready.
 ```
-# Description
+## Description
 A longship captain typically leads a crew of Ulfen raiders, and as such must be as adept at combat as she is at command and tactics. At sea or on land, her steely gaze and authoritative tone ensure that her crew follow her orders quickly and without argument. An accomplished sailor herself, she has the ability to motivate her crew to work in unison and give their best effort-and indeed, to fight and die as necessary. She knows the workings of her ship inside out, often having had a hand in its construction. If the ship needs repairs in the midst of a journey, she proves herself a skilled carpenter and sail maker.
 
 If a longship is caught in one of ferocious storms that frequently lash the Steaming Sea, the captain’s determination and shouted commands urging all hands to row for their lives are often the only things that prevent the ship from capsizing. Many longship captains prefer to follow coastlines, and at night have their boats seek safe harbor so that the crew can sleep in tents on the nearby shore-in such cases, the captain herself claims the privilege of the sleeping onboard, possibly with an honor guard or skeleton crew to prevent thieves or accidents. If an enemy attacks during the night, the high-walled hull of the ship can serve as an impromptu fortification.
@@ -57,7 +59,7 @@ In a naval battle, a longboat captain directs both the ship’s course and her c
 When engaged in coastal raiding, the captain supervises the planning of the attack. She often leads a reserve group of raiders to strike against the strongest points of resistance or cut off those trying to flee. Those assigned to the captain’s guard see the post as a mark of honor, as well as a chance for a greater share of the loot. 
 
 A powerful and prosperous captain is often known to have her vessel’s figurehead enchanted with the ability to spit out gouts of flame, or so that its eyes glow with an eerie light, casting fear into the hearts of enemies who see it bearing down on them.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Longboat%20Captain)
 ```encounter-table
 name: NPC Longboat Captain

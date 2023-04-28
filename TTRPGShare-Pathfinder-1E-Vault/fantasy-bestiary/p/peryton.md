@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Peryton
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,7 +51,7 @@ sources:
     desc: 86
 desc_short: This creature has a stag’s body, a hawk’s wings and talons, and the head of a slavering wolf with a rack of sharp antlers on its brow.
 ```
-# Description
+## Description
 Savage creatures of nightmare, perytons combine the features of stags, wolves, and great birds of prey. Though vicious beasts, perytons possess all the intelligence of a human. Perytons hunt any creature weaker than themselves, but prefer humanoid prey, as they particularly relish the taste of such creatures’ still-beating hearts.
 
 Perytons loathe all other creatures, even their own kind, and adult male perytons often attack one another on sight. However, strong females sometimes lead small family flocks composed of the alpha female, two or three weaker females, and up to six fledglings. The flock drives off males when they come of age, but females are allowed to join the pack when they mature, provided they swear allegiance to the alpha female. Unpaired males frequently attack such flocks in the hope of making off with a mate; failing that, they approach more peacefully, with offers of warm humanoid hearts (or even still-living victims) to attract females.
@@ -57,7 +59,7 @@ Perytons loathe all other creatures, even their own kind, and adult male peryton
 Perytons mate once per year. The mating ritual is short, brutal, and in the end often fatal for the male. Afterward, the female lays a single, foot-tall black egg, which hatches 7 months later.
 
 A peryton is 4 feet in length with a wingspan of 11 feet. It weighs 250 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Peryton)
 ```encounter-table
 name: Peryton

@@ -1,25 +1,27 @@
 ---
-alias: Hide Weapon
+aliases: [Hide Weapon]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Hide Weapon 
+## Hide Weapon
 
 **source**:: Dirty Tactics Toolbox pg. 30  
 **school**:: transmutation
 **level**:: antipaladin 1, arcanist 1, bloodrager 1, hunter 1, inquisitor 1, magus 1, ranger 1, sorcerer 1, wizard 1
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: personal  
 **target**:: you  
 **duration**:: 1 hour/level (D)
 
-### Description 
+### Description
 
 Upon casting this spell, a light or one-handed melee weapon in your hand melds with your flesh, accompanied by a disgusting sucking sound. The weapon disappears completely inside your arm, and thereafter for the duration of the spell, you can extend and retract the weapon as a move action.  
   

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Draugr Captain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,9 +56,9 @@ sources:
   - name: Isles of the Shackles
     desc: 62
 ```
-# Description
+## Description
 While most draugr captains were the masters of their ships in life, exceptions have been known to exist, particularly among lowly crew drudges who derived the most power from their transition to undeath. Such gifted individuals are usually seen by their fellow undead crew members as the rightful captains of the ghost ships they have come to command.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Draugr%20Captain)
 ```encounter-table
 name: Draugr Captain

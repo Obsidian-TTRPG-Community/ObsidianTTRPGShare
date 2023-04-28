@@ -1,19 +1,21 @@
 ---
-alias: Power Word Stun
+aliases: [Power Word Stun]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Power Word Stun 
+## Power Word Stun
 
 **source**:: PRPG Core Rulebook pg. 324  
 **school**:: enchantment (compulsion) (mind-affecting)
 **level**:: arcanist 8, psychic 8, sorcerer 8, witch 8, wizard 8
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V
 
-### Effect 
+### Effect
 
 **range**:: close (25 ft. + 5 ft./2 levels)  
 **target**:: one creature with 150 hp or less  
@@ -21,7 +23,7 @@ alias: Power Word Stun
 **saving-throw**:: none
 **spell-resistance**:: yes
 
-### Description 
+### Description
 
 You utter a single word of power that instantly causes one creature of your choice to become stunned, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 151 or more hit points is unaffected by *power word stun*.  
   
@@ -33,7 +35,7 @@ You utter a single word of power that instantly causes one creature of your choi
 | 51-100         | 2d4 rounds   |
 | 101-150        | 1d4 rounds   |
 
-## Mythic Power Word Stun 
+## Mythic Power Word Stun
 
 **source**:: Mythic Adventures pg. 104  
 Treat the target’s current hit point total as though it were lowered by 5 times your tier. For example, a 3rd-tier archmage casting this spell would affect a creature with 60 hp as though it had 45 hp, and the spell would last an additional 2d4 rounds.  

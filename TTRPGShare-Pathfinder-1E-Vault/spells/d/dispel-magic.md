@@ -1,19 +1,21 @@
 ---
-alias: Dispel Magic
+aliases: [Dispel Magic]
+created: 2023-04-27
+updated: 2023-04-28
 ---
 
-# Dispel Magic 
+## Dispel Magic
 
 **source**:: PRPG Core Rulebook pg. 272  
 **school**:: abjuration
 **level**:: antipaladin 3, arcanist 3, bard 3, cleric 3, druid 4, hunter 4, inquisitor 3, magus 3, medium 3, mesmerist 3, occultist 3, oracle 3, paladin 3, psychic 3, shaman 3, skald 3, sorcerer 3, spiritualist 3, summoner 3, summoner (unchained) 3, warpriest 3, witch 3, wizard 3
 
-### Casting 
+### Casting
 
 **casting-time**:: 1 standard action  
 **components**:: V, S
 
-### Effect 
+### Effect
 
 **range**:: medium (100 ft. + 10 ft./level)  
 **Target or Area** one spellcaster, creature, or object  
@@ -21,7 +23,7 @@ alias: Dispel Magic
 **saving-throw**:: none
 **spell-resistance**:: no
 
-### Description 
+### Description
 
 You can use *dispel magic* to end one ongoing spell that has been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, or to counter another spellcaster's spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can't be defeated by *dispel magic*. *Dispel magic* can dispel (but not counter) spell-like effects just as it does spells. The effect of a spell with an instantaneous duration can't be dispelled, because the magical effect is already over before the *dispel magic* can take effect.  
   
@@ -41,8 +43,7 @@ You automatically succeed on your dispel check against any spell that you cast y
   
 *Counterspell*: When *dispel magic* is used in this way, the spell targets a spellcaster and is cast as a counterspell. Unlike a true counterspell, however, *dispel magic* may not work; you must make a dispel check to counter the other spellcaster's spell.
 
-## Mythic Dispel Magic 
+## Mythic Dispel Magic
 
 **source**:: Mythic Adventures pg. 92  
 When used as a targeted dispel, this spell can end two spells affecting the target instead of just one. If the targeted dispel successfully dispels at least one spell, you heal 1d4 points of damage for every spell level of the dispelled spell. If you dispel two spells, this healing applies only to the highest-level spell dispelled. If you use this spell to counterspell, roll your dispel check twice and take the higher result.
-

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Troglodyte Chieftain
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -69,9 +71,9 @@ sources:
   - name: Monster Codex
     desc: 217
 ```
-# Description
+## Description
 Most ferocious troglodyte chieftains earn their positions by killing and eating their predecessors. Almost all chieftains practice some form of divine magic, and they must be strong-and cruel-to reign over their fractious, savage tribes. Troglodyte chieftains often wear fine metal items claimed from other creatures that they or their subjects have killed.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Troglodyte%20Chieftain)
 ```encounter-table
 name: Troglodyte Chieftain

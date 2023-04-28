@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Clockwork Gunslinger
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -49,13 +51,13 @@ sources:
     desc: 33
 desc_short: One of this slim construct’s arms ends in a whirling clockwork pistol, and a crystalline hourglass fits snugly between its pectoral armor plates.
 ```
-# Description
+## Description
 While clockwork gunslingers are found mostly in Alkenstar, prominent figureheads of foreign cities sometimes purchase custom-built models for their own protection. Clockwork gunslingers are efficient sharpshooters, eliminating foes before they can draw close enough to prove a threat. Their primary design is to serve as guards, either for a specific location, for a particular person, or patrolling bustling streets of a city, but their creators often use them for assistance on missions that involve extracting high-value targets from dangerous locations. The constructs’ standard operating procedure is to evaluate a situation and engage in combat only if their own safety or that of whatever they are guarding is threatened.
 
  Inside a clockwork gunslinger’s hardened chassis, a large cache of bullets and powder is automatically fed into its pistol. Custom clockwork gunslingers sometimes have specialty ammunition in place of bullets as well as other decorations, though this change carries with it a corresponding upcharge.
 
  A clockwork gunslinger stands 6 feet tall and weighs 400 pounds.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Clockwork%20Gunslinger)
 ```encounter-table
 name: Clockwork Gunslinger

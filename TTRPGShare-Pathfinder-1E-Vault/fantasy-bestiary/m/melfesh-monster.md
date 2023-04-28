@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Melfesh Monster
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -59,9 +61,9 @@ sources:
     desc: 84
 desc_short: Covered with mossy growths and creeping vines, this towering creature glides effortlessly across the ground. A hood of damp moss and crusty bark conceals the monster’s face.
 ```
-# Description
+## Description
 The sleepy town of Melfesh has endured threats ranging from a gang of displaced troglodytes causing havoc to the strained political ramifications of having a drawbridge controlling trade through southeastern Varisia, but none trouble the place like the Melfesh Monster. Miners working the foothills of the Fenwall Mountains and farmers in the countryside surrounding Melfesh speak in hushed tones of a strange and malevolent monster that haunts the area. Those who claim to have encountered the thing return from their encounters pale and ill, speaking of a bizarre plantlike creature with burning red eyes, and twisted limbs that shoot jets of flame. A stench like acrid, burning dung follows the monster. Some who encounter the creature stumble out of the woods addlepated, raving of a hovering creature and its fire and poisonous mist. Adults away from the safety of town aren’t the only ones terrorized by the creature, as parents use embellished stories of the Melfesh Monster to frighten children into behaving properly.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Melfesh%20Monster)
 ```encounter-table
 name: Melfesh Monster

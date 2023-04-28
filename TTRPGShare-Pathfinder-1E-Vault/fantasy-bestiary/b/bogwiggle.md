@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Bogwiggle
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -54,13 +56,13 @@ sources:
     desc: 86
 desc_short: This sallow-green beast appears to be an oversized tadpole that never fully matured, with two large, bulbous eyes bulging from either side of its head, and a gaping mouth revealing jagged fangs.
 ```
-# Description
+## Description
 Also known as toad-hounds, bogwiggles are the stunted, degenerate spawn of boggard priest-kings-these are the young who survived their meals of poisonous dragonf lies, but failed to develop properly. They appear to be dogsized tadpoles that have stopped halfway through the transformation to full-fledged frogs. A single set of long legs sprouts from a bogwiggle’s bulbous body, and a frilled, whiplike tail protrudes from its back. Barely more intelligent than ordinary dogs, bogwiggles spend the majority of their short, violent lives serving as hunting companions and guard animals for their capricious, toadlike masters.
 
 Bogwiggles can live up to 20 years, but because of swamp predators and the cruelty of their masters, most die long before reaching the age of 10. Bogwiggles always have the same skin tone as the boggards with which they live-typically gray, green, or black. Just as with boggards, bogwiggles lose their coloring as they age, and particularly old bogwiggles are often pale gray or almost white. The average bogwiggle is just under 3-1/2 feet long, not counting the tail-which itself is around 6 feet long. Most bogwiggles weigh roughly 65 pounds, but larger specimens have been reported by adventurers and scholars.
 
 Despite being mistreated by their boggard masters, bogwiggles have a curiously strong affinity for them, and are intensely loyal to their tribes. Some scholars theorize that this fealty is a primitive version of a boggard’s natural tribalism or religious inclinations, yet other observers have suggested that bogwiggles believe themselves capable of transformation into full boggards through unwavering devotion to their boggard superiors.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Bogwiggle)
 ```encounter-table
 name: Bogwiggle

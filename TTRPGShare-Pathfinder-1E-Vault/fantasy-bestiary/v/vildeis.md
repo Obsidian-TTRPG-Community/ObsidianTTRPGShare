@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: Vildeis
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -81,13 +83,13 @@ sources:
     desc: 92
 desc_short: This red-winged angel is blindfolded and wrapped with bloody bandages. What shows of her flesh is scarred with celestial runes.
 ```
-# Description
+## Description
 Also known as the Cardinal Martyr, Vildeis endlessly sacrifices herself in penitence for the sins of the multiverse, every battle against evil giving her body one more wound with which she might shed bloody tears for existence. When Vildeis emerged from the Heavens, she was a being of sublime beauty, but of a majesty so delicate that she couldn’t suffer the sight or even the thought of evil. Within an hour of her birth, she had put out her own eyes, refusing to even gaze upon a reality tainted by sin. Since the first self-inflicted wound marred her once-perfect body, she has struggled against evil in all its forms. Denying herself home or rest, Vildeis harrows the wildest reaches of the multiverse, driving back the expansions of foul realms and slaying those who would do wicked deeds.
 
 Vildeis has no home among the planes, and forgoes any comforts-even those as basic as shelter or company-so long as there is evil afoot in the multiverse. Such makes her one of the most aloof empyreal lords, but also one of the most storied. Across the planes, legends tell of pitched battles, desperate last stands, and near massacres turned in the favor of the innocent by the sudden appearance of Vildeis herself, bloody-winged and avenging. While such miraculous rescues have more to do with happenstance then omniscience, they nonetheless inf lame the passions of the righteous across countless worlds. Those who seek to encounter the empyreal lord of devotion, sacrifice, and scars must follow rumors of her passing, usually spoken by awed beings and crippled fiends along the fringes of reality’s darkest outlands.
 
 Nearly as well known as the Cardinal Martyr herself are her morbid trappings-miles of stained bandages, scars etched and re-etched in the shapes of celestial runes, and a dagger that drips with her blood as often as that of her enemies. Of these, her dagger Cicatrix is the most infamous, a black blade like a thorn dropped from some gigantic iron rose, which the empyreal lord used to blind herself. Tales tell that she uses her blade not just to slay the wicked and share her blindness, but to carve the runes that crisscross her body upon others, infusing them with the compulsion to battle evil even if previously there was no such desire.
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Vildeis)
 ```encounter-table
 name: Vildeis

@@ -1,7 +1,9 @@
 ---
-statblock: inline
-tags: monster
+created: 2023-04-28
 name: NPC Seer (Doomsayer)
+statblock: inline
+tags: [monster]
+updated: 2023-04-28
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
@@ -47,13 +49,13 @@ sources:
   - name: GameMastery Guide
     desc: 298
 ```
-# Description
+## Description
 Doomsayers are ranting demagogues who continuously predict doom, cataclysm, and ruin, crying in the town square and distributing pamphlets in literate communities. A doomsayer may build up a cult of personality, but they are happiest when they can ensure that others are miserable.
 
 Doomsayers can be used as primitive witch doctors or shamans, dark cultists, witches, or rough frontier “priests” in remote villages or other areas without organized clergy.
 
 A doomsayer often keeps a pair of acolytes or beggars as disciples (CR 3 or 4), or works with a group of three wanderers or cultists (CR 6). A doomsayer might also be apprenticed to a hedge wizard (CR 5), while an urban doomsayer could partner with a gang of four pickpockets (CR 4) who work the crowd that gathers to hear the doomsayer speak. Replacing Skill Focus (Intimidate) with Skill Focus (Heal) creates a lay healer who might be found with a pilgrim (CR 4).
-# Source Link
+## Source Link
 [Archives of Nethys](https://aonprd.com/NPCDisplay.aspx?ItemName=Seer%20(Doomsayer))
 ```encounter-table
 name: NPC Seer (Doomsayer)
