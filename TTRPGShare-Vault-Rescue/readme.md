@@ -4,10 +4,10 @@ Life happens. People get busy. We understand that, and offer you a place to put 
 
 Looking to Adopt or Volunteer? Check out the [**Project Thread**](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/issues/4).  
 
-## Vaults Currently in Need of a Coding Hand
+## Vaults Currently in Need of a Loving, Coding Home
 
-None
+*All Our Vaults Have Been Adopted Out!*
 
 ## A Big Thanks To Prior Contributors
 
-Pathfinder 2E SRD - @Arhyn on Obsidian Discord
+Pathfinder 2E - @Arhyn on Obsidian Discord
