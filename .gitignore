@@ -90,6 +90,7 @@ crash-*
 # Various Maintainers's Task Tracking file for TTRPG-Share Management
 # Sigrunixia
 The-Purple-Scale-Ledger.md
+/_Development
 
 # Editorconfigs, Linters, and Prettiers we have not decided on yet
 *.prettier*
