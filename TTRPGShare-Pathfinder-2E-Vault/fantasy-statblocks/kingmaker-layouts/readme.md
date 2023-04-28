@@ -1,8 +1,8 @@
 # Kingmaker and Kingmaker-Themed Pathfinder 2nd Edition Statblocks
 
-This folder includes some miscellaneous statblocks for Pathfinder 2e. All of these statblocks are modeled after the statblocks in the Kingmaker 2e Adventure Path. If you have not already, please read the [README-PF2E-Default-Layout](../Default_Layouts/README-PF2E-Default-Layout.md) page first.  
+This folder includes some miscellaneous statblocks for Pathfinder 2e. All of these statblocks are modeled after the statblocks in the Kingmaker 2e Adventure Path. If you have not already, please read the [README-PF2E-Default-Layout](../default-layout/README-PF2E-Default-Layout.md) page first.  
 
-![Release 1.3 of PF2E - Style-settings](../Default_Layouts/_attachments/PF2E-1.3-StyleSettings.gif)
+![Release 1.3 of PF2E - Style-settings](../default-layout/_attachments/PF2E-1.3-StyleSettings.gif)
 
 ## Statblock Layout Installation Guide
 
@@ -11,7 +11,7 @@ You will need the following items:
 
 Once you have those items, you will need to:
 1. Import the .json file into Fantasy Statblocks.
-2. Use the [PF2E-Kingmaker2E-Statblock-Checker](PF2E-Kingmaker-Layouts-Checker.md) to test that the statblock loads correctly.
+2. Use the [PF2E-Kingmaker2E-Statblock-Checker](pf2e-kingmaker-layout-tester.md) to test that the statblock loads correctly.
 
 ### Action
 

@@ -12,8 +12,7 @@ level: {{level}}
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2E Layout
 {{#if source}}source: "{{{source}}}"{{/if}}
 name: "{{{name}}}"
 level: "{{#if isNpc}}NPC {{else}}Creature {{/if}}{{level}}"

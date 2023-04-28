@@ -40,5 +40,6 @@ If I forgot someone, poke me - Sigrunixia
 
 
 ## Changelog
+- 2023-04-28: General Tidying Update.
 - 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins is used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
 - 2023-02-21: CLI Enabled Initial Load onto Share out of Testing Mode

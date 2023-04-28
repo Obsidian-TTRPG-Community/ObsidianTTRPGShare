@@ -26,7 +26,7 @@ It's made possible with a Javalent plugin who also deserves our thanks.
 ## Installation
 
 1. Copy the \*.md from the Templates folder into your Vaults template folder. 
-2. Copy the '[PF2e-Actions-Font](zzAttachments/PF2e-Actions-Font.css)' into  your `.obsidian/snippets` folder. 
+2. Copy the '[PF2e-Actions-Font](_attachments/pf2e-action-icons-font.css)' into  your `.obsidian/snippets` folder. 
 3. Enable the snippet. `Settings > Appearance > CSS Snippets > PF2e Actions Font > Enable`
 4. Refer to the [Actions Cheat Sheet](notes/Actions-Cheat-Sheet.md) and [Skill Actions Cheat Sheet](notes/Skill-Actions-Cheat-Sheet.md) to test out functionality of the icons.
 
