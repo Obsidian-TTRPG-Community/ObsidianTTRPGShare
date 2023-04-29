@@ -1,3 +1,5 @@
+name: Lint Filenames
+
 on:
   pull_request:
 
