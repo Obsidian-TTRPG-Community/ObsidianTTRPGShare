@@ -1,4 +1,5 @@
-Pathfinder 1E statblocks downloaded from Archives of Nethys via [https://github.com/c0d3rman/PathfinderMonsterDatabase](https://github.com/c0d3rman/PathfinderMonsterDatabase)
-and converted to statblock format via [https://github.com/djbrock/PFMonsterDB_to_TTRPG_statblock](https://github.com/djbrock/PFMonsterDB_to_TTRPG_statblock).
+# TTRPGShare Pathfinder 1E Vault
 
-Statblock format to use is provided in `Basic Pathfinder 1e Layout.json`. Created by @theschabi, with edits by @Sigrunixia and David J Brockley.
+This community vault is currently a work in progress. However, we have two of the major components done: Bestiary, and Spells. 
+
+Enjoy!

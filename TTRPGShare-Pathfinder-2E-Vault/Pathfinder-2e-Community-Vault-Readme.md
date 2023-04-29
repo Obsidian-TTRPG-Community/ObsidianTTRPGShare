@@ -1,13 +1,12 @@
 # Pathfinder 2E Community Vault
 
-> **Danger**: This Vault is still a Work in Progress. Updates will be Reported in Discord. 
 
-> **Note**: CSS testing in progress
 
 ## Plugins Required To Use This Vault
 
 - To read what [Relevant Path Links are](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/), and why they are used. 
 - [Admonition](https://github.com/valentine195/obsidian-admonition) by [Javalent](https://github.com/valentine195). 
+- [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks/) by Javalent
   Seriously, half the files will not be pretty unless you have this. 
 	- [pf2e-admonitions.json](pf2e-admonitions.json) to automatically load the admonition blocks. These have not been styled fully yet. They can be imported directly into Admonitions. 
 
@@ -40,5 +39,6 @@ If I forgot someone, poke me - Sigrunixia
 
 
 ## Changelog
+- 2023-04-28: Cleanup in preparation for major update
 - 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins is used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
 - 2023-02-21: CLI Enabled Initial Load onto Share out of Testing Mode
