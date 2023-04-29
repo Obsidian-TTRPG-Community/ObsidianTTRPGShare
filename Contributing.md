@@ -10,15 +10,17 @@ All contributions are subject to the **[Developer Certificate of Origin (DCO)](
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build. If our .gitignore does not filter out this content, submit a separate Pull Request to have that priority updated.
 
-2. Slugify your file names. Generally files are separated with a dash `-` and folders with an underscore `_`, however, we only are concerned that spaces are removed.
+2. Slugify your file names. 
+	1. Top-level Folders can be Camel-Case.
+	2. subfolders and beyond can-be-kebab-case.
 
-3. No special characters in file names.
+4. No special characters in file names.
 
-4. Include a general description of what you are submitting.
+5. Include a general description of what you are submitting.
 
-5. Licenses in this repository are MIT by default. If you operate under a different license, please include it with your submission.
+6. Licenses in this repository are MIT by default. If you operate under a different license, please include it with your submission.
 
-6. Wiki Links, while technically accepted, do prevent users from easily finding your linked content while outside the Obsidian Vault. Please consider using markdown links. 
+7. Markdown links with relevant paths please. This is to ensure that the file you give the user, will be workable once downloaded. 
 
 
 ### Optional
