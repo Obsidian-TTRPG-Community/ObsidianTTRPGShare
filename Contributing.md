@@ -1,6 +1,6 @@
 # Contributing to the TTRPG Share
 
-We're always happy to receive a pull request. See a typo? Feel free to fix it! No PR is too big or too small.
+We are always happy to receive a pull request. See a typo? Feel free to fix it! No PR is too big or too small.
 
 When contributing to this repository on larger content, please first ensure you have reviewed some of the other submissions in the area you want to submit content to, and have included a Read-Me in your submission.
 
@@ -8,9 +8,11 @@ All contributions are subject to the **[Developer Certificate of Origin (DCO)](
 
 ## Pull Request Required Practices
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a build. If our .gitignore does not filter out this content, submit a separate Pull Request to have that priority updated.
+1. Ensure any installation or build dependencies are removed before the end of the layer when doing a build. If our .gitignore does not filter out this content, submit a separate Pull Request to have that priority updated.
 
-2. Slugify your file names. Generally files are separated with a dash `-` and folders with an underscore `_`, however, we only are concerned that spaces are removed.
+2. Slugify your file names. 
+    1. Top-level Folders can be Camel-Case.
+    2. Sub-folders and beyond can/be-kebab-case.
 
 3. No special characters in file names.
 
@@ -18,7 +20,7 @@ All contributions are subject to the **[Developer Certificate of Origin (DCO)](
 
 5. Licenses in this repository are MIT by default. If you operate under a different license, please include it with your submission.
 
-6. Wiki Links, while technically accepted, do prevent users from easily finding your linked content while outside the Obsidian Vault. Please consider using markdown links. 
+6. Markdown links with relevant paths, please. This is to ensure that the file you give the user will be workable once downloaded. 
 
 
 ### Optional

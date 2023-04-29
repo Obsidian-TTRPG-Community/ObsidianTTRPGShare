@@ -8,7 +8,7 @@ These Pathfinder 1E statblocks were originally downloaded from Archives of Nethy
 
 In order to use these statblocks, you will need to install [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks/tree/main) for Obsidian. 
 
-Then, you will need to download [Basic Pathfinder 1e Layout](_attachments/Basic%20Pathfinder%201e%20Layout.json) and install it into Fantasy Statblocks. Instructions on how to install it into Fantasy Statblocks are found at it's [documentation site](https://plugins.javalent.com/statblocks/settings#Import%20from%20JSON).
+Then, you will need to download [Basic Pathfinder 1e Layout](_attachments/basic-pathfinder-1e-layout.json) and install it into Fantasy Statblocks. Instructions on how to install it into Fantasy Statblocks are found at it's [documentation site](https://plugins.javalent.com/statblocks/settings#Import%20from%20JSON).
 
 
 ### Attributions
