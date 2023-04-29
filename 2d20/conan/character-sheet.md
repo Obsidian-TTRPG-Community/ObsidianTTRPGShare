@@ -1,30 +1,34 @@
-#### Details
+---
+created: 2023-04-28
+updated: 2023-04-28
+---
+## Details
 |           | Entry |           | Entry |        | Entry |
 | --------- | ----- | --------- | ----- | ------ | ----- |
 | Age       |       | Homeland  |       | Caste  |       |
 | Trait     |       | Archetype |       | Nature |       |
 | Education |       | War Story |       |        |       |
 
-##### Appearance
+### Appearance
 
-##### Personality
+### Personality
 
-##### Languages
+### Languages
 
-#### Talents
+## Talents
 | Talent      | Skill | Rank | Effect |
 | ----------- | ----- | ---- | ------ |
 | Desert-born | Melee |      |        |
 | No Mercy    | Melee |      |        |
 | Subject     | -     | 1    |        |
 
-#### Points & Attributes
+## Points & Attributes
 
 | FP  | Renown | Standing | Total XP | Spent XP |
 | --- | ------ | -------- | -------- | -------- |
 | 3/3 |        |          | 0        | 0        |
 
-###### Attributes & Skills
+### Attributes & Skills
 
 | Skill            | XP  | Foc | TN  | Skill            | XP  | Foc | TN  |
 | ---------------- | --- | --- | --- | ---------------- | --- | --- | --- |
@@ -51,7 +55,7 @@
 **d6**: `dice: 1d6` **d6**: `dice: 1d6` **d6**: `dice: 1d6` **d6**: `dice: 1d6` **d6**: `dice: 1d6` **d6**: `dice: 1d6`
 (1: success; 2: 2 successes; 3&4: -, 5&6: success + effect)
 
-#### Combat
+## Combat
 
 | Ranged | Melee | Presence |
 | ------ | ----- | -------- |
@@ -66,19 +70,19 @@
 | ----- | --- | ---- | ------- | --- | ---- | ------- |
 | 10    | 10  |      |         | 10  | 10   | 0       |
 
-###### Armor Soak
+### Armor Soak
 | Head | R.Arm | L.Arm | Torso | R.Leg | L.Leg |
 | ---- | ----- | ----- | ----- | ----- | ----- |
 | 0    | 0     | 0     | 0     | 0     | 0     |
 Armor Qualities: 
 
 
-### Belongings
+## Belongings
 
 **Gold**: 13
 **Upkeep**: 4
 
 Battleaxe, Khopesh, a family heirloom of little more than sentimental value, a fine steed
 
-#### Notes
+### Notes
 

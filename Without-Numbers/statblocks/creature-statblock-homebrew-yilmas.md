@@ -4,7 +4,7 @@ _Note: This statblock comes with a custom Attribute Modifier Calculation as is n
 
 ## Usage
 
-1. Download [creature_block_homebrew_yilmas_json.json](../z_Resources/creature_block_homebrew_yilmas_json.json).
+1. Download [creature_block_homebrew_yilmas_json.json](creature_block_homebrew_yilmas_json.json).
 2. In Obsidian, go to Settings > TTRPG Statblocks.
 3. Under *Layouts*, click *Import from JSON*.
 4. Select the downloaded JSON file.
@@ -59,4 +59,4 @@ lair_actions:
 ## Screenshots
 
 This is what the above code should look like when rendered:
-![Statblock](../z_Resources/creature_block_homebrew_yilmas_png.png)
+![Statblock](creature_block_homebrew_yilmas_png.png)
