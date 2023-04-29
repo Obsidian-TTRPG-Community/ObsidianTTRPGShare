@@ -6,7 +6,7 @@
 
 **[Encumbered](../rules/conditions.md#Encumbered):** You are clumsy 1 (-1 to Dex checks including AC, Reflex saves, ranged attacks, Dex-based skill checks and DCs) and take a -10-foot penalty to your Speed (or all your speeds if you have special Speeds).	
 
-**[Enfeebled](../rules/conditions.md#Enfeebled):** You are physically weakened. Enfeebled includes a value. When you are [Enfeebled](../rules/conditions.md#Enfeebled) you take a status penalty equal to the condition value to Strength-based rolls and DCs, including Strength-based melee attack rolls, damage rolls, and Athletics check.
+**[Enfeebled](../rules/conditions.md#Enfeebled):** You are physically weakened. Enfeebled includes a value. When you are [Enfeebled](../rules/conditions.md#Enfeebled) you take a status penalty equal to the condition value to Strength-based rolls and DCs, including Strength-based mêlée attack rolls, damage rolls, and Athletics check.
 
 **[Flat-Footed](../rules/conditions.md#Flat-Footed):** You are unable to focus your full attention on defense. You take a –2 circumstance penalty to AC.
 

@@ -14,7 +14,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![Session Page](zzAttachments/Vix_Session.png)
+![Session Page](_attachments/Vix_Session.png)
 
 ## How to Use
 

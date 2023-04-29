@@ -16,7 +16,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![Adventure Page](zzAttachments/Vix_Adventure.png)
+![Adventure Page](_attachments/Vix_Adventure.png)
 
 ## How to Use
 

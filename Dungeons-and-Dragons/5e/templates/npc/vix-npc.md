@@ -16,7 +16,7 @@ Provide aesthetically interesting, consistent structure and templates to assist 
 
 ## How It May Look
 
-![](zzAttachments/Vix_NPC.png)
+![](_attachments/Vix_NPC.png)
 
 ## How to Use
 
