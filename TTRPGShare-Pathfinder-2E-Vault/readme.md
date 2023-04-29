@@ -1,14 +1,12 @@
 # Pathfinder 2E Community Vault
 
-
-
 ## Plugins Required To Use This Vault
 
 - To read what [Relevant Path Links are](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/), and why they are used. 
 - [Admonition](https://github.com/valentine195/obsidian-admonition) by [Javalent](https://github.com/valentine195). 
 - [Fantasy Statblocks](https://github.com/javalent/fantasy-statblocks/) by Javalent
   Seriously, half the files will not be pretty unless you have this. 
-	- [pf2e-admonitions.json](pf2e-admonitions.json) to automatically load the admonition blocks. These have not been styled fully yet. They can be imported directly into Admonitions. 
+- [pf2e-admonitions.json](pf2e-admonitions.json) to automatically load the admonition blocks. These have not been styled fully yet. They can be imported directly into Admonitions. 
 
 
 ## Directions for Sourcebooks
@@ -30,7 +28,7 @@ Most of the other content has a Readme inside its folder except for Spells-Datav
 This community vault has been brought to you by the efforts of many individuals. 
 
 - [eBullient](https://github.com/ebullient), for their [TTRPG-Covert-CLI](https://github.com/ebullient/ttrpg-convert-cli) which pulls the data from PF2ETools and converts it to Markdown Form.
-- [Javalent](https://github.com/valentine195), for their useful plugins helping make some of the painful parts of 
+- [Javalent](https://github.com/valentine195), for their useful plugins help make some of the painful parts of 
   this process much easier. 
 - [Sigrunixia](https://github.com/sigrunixia), eventually, for their over-spazzing on the CSS and getting the thing uploaded onto the Vault.
 - [Robinsving](https://github.com/robinsving), whose dataview spells will get re-added to the CLI spell format, soon. (I promise.)
@@ -40,5 +38,5 @@ If I forgot someone, poke me - Sigrunixia
 
 ## Changelog
 - 2023-04-28: Cleanup in preparation for major update
-- 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins is used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
+- 2023-03-02: Updated Broken Links, made relative to top-level folder thus enabling to be moved when consistent plugins are used. Merged Pathfinder 2E into TTRPGShare Pathfinder Vault.
 - 2023-02-21: CLI Enabled Initial Load onto Share out of Testing Mode
