@@ -11,7 +11,7 @@ name: Lint Code Base
 #############################
 on:
   push:
-    branches-ignore: [master, main]
+    # branches-ignore: [master, main]
     # Remove the line above to run when pushing to master
   pull_request:
     branches: [Dragonshare, Purple-Dragon, Lint-Tester, Dev-Test, Donations]
