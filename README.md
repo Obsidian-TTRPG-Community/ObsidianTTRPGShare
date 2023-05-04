@@ -1,6 +1,9 @@
-# ObsidianTTRPGShare
+# Obsidian TTRPG Share
 
 This is a repository for the downloading and sharing TTRPG elements that may be useful for **[Obsidian](https://obsidian.md)** TTRPG Users. We also utilize this repository as a headquarters to plan community building and philanthropy.
+
+## New as of May 2023
+The Obsidian TTRPG Share is now a part of the new Obsidian TTRPG Community. Carry On!
 
 ## New as of April 2023
 
@@ -10,26 +13,23 @@ Sluggification and Title Chasing has changed!
 
 **New:** `Without-Numbers/templates/character-sheet.md`
 
-## Goals
+## Goals / Mission Statement
 
-The ObsidianTTRPGShare currently maintains three goals:
+The ObsidianTTRPGShare now maintains the primary goal of Encouraging the collection and categorization of data shared on **[Obsidian Discord](https://discord.gg/obsidianmd)** that would otherwise become lost and forgotten over time.
 
-1. Encouraging the collection and categorization of data shared on **[Obsidian Discord](https://discord.gg/obsidianmd)** that would otherwise become lost and forgotten over time.
-2. Act as an incubator for refining those elements, so they may be added to the **[Obsidian TTRPG Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+TTRPG)**.
-3. Serve as a space for identifying and growing in-need TTRPG communities who lack adequate resources within the Obsidian Community through our **[SRD-to-Vault](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/issues/4)** Conversion Project.
-4. Maintain a **[Master Resources Wiki](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare/wiki)** of quality resources for TTRPG players and Game-Masters that coordinate well with Obsidian.
+Its secondary goals are to act as an incubator for refining those elements, so they may be added to the **[Obsidian TTRPG Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+TTRPG)**.
 
-## Please Contribute
+## Quest: Contribute
 
-This content is only possible through the combined efforts of fellow Table-Top Role-Playing Game enthusiasts who want to grow the community and make things fun for everyone. Want to give back? Please take the time to contribute your custom code, callouts, scripts, tables, and other useful items to this repository.
+This content is only possible through the combined efforts of fellow Table-Top Role-Playing Game enthusiasts who want to grow the community and make things fun for everyone. Want to give back? Please take the time to contribute your custom code, callouts, scripts, tables and other useful items to this repository.
 
->_If you are a contributor who also has a coffee link, please update the section below when submitting your pull request to be added to the die table._
+>_If you're a contributor who also has a coffee link, update the section below when submitting your pull request for it to be added to the die table._
 >
 >_Else-wise, @Sigrunixia will find it and add it, eventually._
 
 ## Feel Like Buying Coffees?
 
-If you have anyone you'd like to support, click their link below and buy them a coffee.
+If there is a contributor you would like to support, click their link below and buy them a coffee.
 
 Feeling lucky? How about a roll of the die instead?
 
