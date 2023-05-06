@@ -12,8 +12,7 @@ level: 1
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "GMG"
 name: "Acolyte Of Nethys"
 level: "Creature 1"

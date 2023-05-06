@@ -12,8 +12,7 @@ level: 0
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B2"
 name: "Blue-ringed Octopus"
 level: "Creature 0"

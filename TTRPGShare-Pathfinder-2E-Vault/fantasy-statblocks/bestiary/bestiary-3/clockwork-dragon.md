@@ -10,8 +10,7 @@ level: 16
 ---
 
 ```statblock
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B3"
 name: "Clockwork Dragon"
 level: "Creature 16"

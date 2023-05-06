@@ -13,8 +13,7 @@ level: 17
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B3"
 name: "Wyrmwraith"
 level: "Creature 17"

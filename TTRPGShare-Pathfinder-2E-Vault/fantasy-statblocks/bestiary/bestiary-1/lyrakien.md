@@ -12,8 +12,7 @@ level: 1
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B1"
 name: "Lyrakien"
 level: "Creature 1"
