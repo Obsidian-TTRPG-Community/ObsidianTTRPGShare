@@ -13,8 +13,7 @@ level: 19
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B2"
 name: "Ancient Cloud Dragon"
 level: "Creature 19"

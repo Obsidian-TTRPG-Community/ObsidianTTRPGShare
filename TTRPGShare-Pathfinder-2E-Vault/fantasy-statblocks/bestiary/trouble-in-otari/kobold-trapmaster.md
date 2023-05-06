@@ -12,8 +12,7 @@ level: 2
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "TiO"
 name: "Kobold Trapmaster"
 level: "Creature 2"

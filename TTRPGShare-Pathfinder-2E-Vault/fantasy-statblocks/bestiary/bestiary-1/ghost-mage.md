@@ -13,8 +13,7 @@ level: 10
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B1"
 name: "Ghost Mage"
 level: "Creature 10"

@@ -61,7 +61,7 @@ If you want the extra Kingmaker layouts, check out the [Kingmaker Layout README]
 
 ```statblock
 layout: Basic Pathfinder 2E Layout
-statblock: true
+
 source: "B3"
 name: "Clockwork Dragon"
 level: "Creature 16"

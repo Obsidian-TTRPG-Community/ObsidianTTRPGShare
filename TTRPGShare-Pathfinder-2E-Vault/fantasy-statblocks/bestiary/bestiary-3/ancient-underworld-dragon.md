@@ -12,8 +12,7 @@ level: 16
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B3"
 name: "Ancient Underworld Dragon"
 level: "Creature 16"

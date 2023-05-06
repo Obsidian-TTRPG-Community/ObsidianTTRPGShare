@@ -12,8 +12,7 @@ level: 18
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
 source: "B1"
 name: "Adamantine Golem"
 level: "Creature 18"
@@ -73,3 +72,10 @@ name: Adamantine Golem
 creatures:
   - 1: Adamantine Golem
 ```
+
+
+> [!cards|dataview] 
+> 
+> ```dataviewjs 
+> const bestiary = Array.from(app.plugins.plugins["obsidian-5e-statblocks"].bestiary.entries()).map(m => m[1]) 
+> ```

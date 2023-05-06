@@ -10,7 +10,7 @@ Use this section below once you have installed the statblock .json of choice and
 
 ```statblock
 layout: Pathfinder 2e Action
-statblock: true
+
 
 name: "Action Name"
 
@@ -36,7 +36,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 
 ```statblock
 layout: Pathfinder 2e Hazard
-statblock: true
+
 
 name: "Hazard Name"
 level: "Hazard ?"
@@ -85,7 +85,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 
 ```statblock
 layout: Pathfinder 2e Influence
-statblock: true
+
 
 name: "Creature Name"
 level: "Creature ?"
@@ -137,7 +137,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 
 ```statblock
 layout: Pathfinder 2e Misc
-statblock: true
+
 
 name: "Misc Name"
 level: "Misc ?"
@@ -180,7 +180,7 @@ sourcebook: "Lorem ipsum dolor sit amet"
 
 ```statblock
 layout: Pathfinder 2e Settlement
-statblock: true
+
 
 name: "Settlement Name"
 level: "Settlement ?"

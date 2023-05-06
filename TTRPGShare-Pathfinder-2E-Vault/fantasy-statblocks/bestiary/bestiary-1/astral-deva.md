@@ -10,8 +10,8 @@ level: 14
 ---
 
 ```statblock
-layout: Path2eBlock
-statblock: true
+layout: Basic Pathfinder 2e Layout
+
 source: "B1"
 name: "Astral Deva"
 level: "Creature 14"
