@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-difficulty-classes.png","id":"25985dc25ee571f6","x":-780,"y":-500,"width":319,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-encounter-adjustments.png","id":"940bef8cf0483283","x":-461,"y":-500,"width":308,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-structure-tables.png","id":"2727ba86e1ad082f","x":-153,"y":-500,"width":307,"height":479},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-move-skill-tables.png","id":"a7b840450402de78","x":154,"y":-500,"width":309,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-environmental-feature-tables.png","id":"54bf688349b483c6","x":463,"y":-500,"width":311,"height":479},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-simple-hazards.png","id":"7e7b1605c7d10580","x":-655,"y":20,"width":327,"height":500},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-miscellaneous-charts.png","id":"e8e1990ccf910dbc","x":-328,"y":20,"width":329,"height":500},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-item-bulk-tables.png","id":"fe6c3f7629709b85","x":1,"y":20,"width":344,"height":500},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-travel-tables.png","id":"7a0c1308aed1d277","x":345,"y":20,"width":315,"height":499},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-weapons-armor-shields.png","id":"d6bda89d1ce797e2","x":-780,"y":560,"width":408,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-weapons-1.png","id":"a6523bbdf6ac0fb4","x":-372,"y":560,"width":292,"height":479},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-weapons-2.png","id":"4e9c486028ddd7ab","x":-80,"y":560,"width":343,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-weapons-3.png","id":"14e7c70325d9971c","x":263,"y":560,"width":619,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-armor.png","id":"e31c8cc7a04be3e1","x":882,"y":560,"width":497,"height":480},
+		{"type":"file","file":"Pathfinder/2E/canvas-gm-tables/_attachments/img-animal-instincts-and-monk-stances.png","id":"2c0484f9d1821bf8","x":1379,"y":560,"width":555,"height":480}
+	],
+	"edges":[]
+}
