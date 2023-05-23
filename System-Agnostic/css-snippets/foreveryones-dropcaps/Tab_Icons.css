@@ -1,0 +1,62 @@
+/*
+This *.css allows you to drag a note into the riht or left pane and overwrite the default note icon with a custom icon
+ORIGINAL INSTRUCTIONS: https://forum.obsidian.md/t/sidebars-icons-file/46684/4
+USE THIS SITE TO PICK NEW ICON: https://forum.obsidian.md/t/sidebars-icons-file/46684/4
+Select Icon > Change Size to 18 > Change Colour (Dont use black) > Click Arrow on Copy SVG button > DataURL > Copy
+
+In the section below you need to update "Map" to match the name of your Note. 
+*="Map" will find any note that contains "Map" in the name.
+^="Map" will find any note that is titled "Map" exactly. 
+*/
+.workspace-tab-header[aria-label*="Map"]
+> .workspace-tab-header-inner
+> .workspace-tab-header-inner-icon
+> .svg-icon.lucide-file{
+    display: none;
+}
+/*
+In the section below you need to update "Map" to match the name of your Note. 
+*="Map" will find any note that contains "Map" in the name.
+^="Map" will find any note that is titled "Map" exactly. 
+*/
+.workspace-tab-header[aria-label*="Map"]
+> .workspace-tab-header-inner
+> .workspace-tab-header-inner-icon{
+/*
+This is the section that needs to be replaced when you want to change the icon 
+REPLACE BELOW ME WITH NEW ICON DataURL text
+*/
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='18' height='18'%3E%3Cpath d='M14.9352 7.20369L8.93524 4.20369L4 6.31879V18.9669L9.06476 16.7963L15.0648 19.7963L20 17.6812V5.03308L14.9352 7.20369ZM2 5L9 2L15 5L21.303 2.2987C21.5569 2.18992 21.8508 2.30749 21.9596 2.56131C21.9862 2.62355 22 2.69056 22 2.75827V19L15 22L9 19L2.69696 21.7013C2.44314 21.8101 2.14921 21.6925 2.04043 21.4387C2.01375 21.3765 2 21.3094 2 21.2417V5ZM6 11H8V13H6V11ZM10 11H12V13H10V11ZM15.9981 10.9374L17.2355 9.7L18.2962 10.7607L17.0588 11.9981L18.2962 13.2355L17.2355 14.2962L15.9981 13.0588L14.7607 14.2962L13.7 13.2355L14.9374 11.9981L13.7 10.7607L14.7607 9.7L15.9981 10.9374Z' fill='rgba(193,67,67,1)'%3E%3C/path%3E%3C/svg%3E");
+/* REPLCE ABOVE ME WITH NEW ICON DataURL text */
+background-size: 18px 18px; /* adopt this to your file tree font height */
+    transform: translate(0px, 5px); /* to position the icon */
+    background-repeat: unset;
+    display: flex;
+    height: 18px;
+    width: 18px;
+    margin: -10px 0px 0 0;
+}
+/* 
+If you want to set icons for multiple files you can simply copy the *.css again and make the neccessary changes
+*/
+.workspace-tab-header[aria-label^="Create New Notes"]
+> .workspace-tab-header-inner
+> .workspace-tab-header-inner-icon
+> .svg-icon.lucide-file{
+    display: none;
+}
+
+.workspace-tab-header[aria-label*="Create New Notes"]
+> .workspace-tab-header-inner
+> .workspace-tab-header-inner-icon{
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M14 14.252V22H4C4 17.5817 7.58172 14 12 14C12.6906 14 13.3608 14.0875 14 14.252ZM12 13C8.685 13 6 10.315 6 7C6 3.685 8.685 1 12 1C15.315 1 18 3.685 18 7C18 10.315 15.315 13 12 13ZM18.5858 17L16.7574 15.1716L18.1716 13.7574L22.4142 18L18.1716 22.2426L16.7574 20.8284L18.5858 19H15V17H18.5858Z' fill='rgba(193,67,67,1)'%3E%3C/path%3E%3C/svg%3E");background-size: 18px 18px; /* adopt this to your file tree font height */
+    transform: translate(0px, 5px); /* to position the icon */
+    background-repeat: unset;
+    display: flex;
+    height: 18px;
+    width: 18px;
+    margin: -10px 0px 0 0;
+}
+/*
+End of the *.css
+*/
