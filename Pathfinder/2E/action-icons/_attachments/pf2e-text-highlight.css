@@ -1,0 +1,14 @@
+/* This snippet will add a dark glue rectangle behind some text with the top corners rounders. 
+It is intended to recreate the "Level" fields that you see in core books in areas such as Feats
+To use, write some text and then place this behind it: {.hltr-level}
+Example{.hltr-level}
+The version above will add a blue highlight behind the text and cover the whole line. 
+==Example{.hltr-level}==
+The version above will only highlight the text and not the rest of the line.
+*/
+.hltr-level.hltr-level {
+  background-color: darkblue; /* change this to your background desired colour */
+  color: white; /* change this to your desired text colour */
+  border-radius: 0.3em 0.3em 0.0em 0.0em; /* This rounds the corners. You can increase the numbers to make them rounder */
+  padding: 0.2em 0.2em 0.0em 0.5em; /* This adds padding around the text.*/
+}
