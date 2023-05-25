@@ -8,7 +8,7 @@ __Dependencies__:
 
 *All content under Open Clipart is licensed under* [*__Creative Commons 1.0 License__*](https://creativecommons.org/publicdomain/zero/1.0/).
 
-__Thanks to__: [__Foreveryone1__](https://github.com/foreveryone1)
+__Thanks to__: [Foreveryone1](https://github.com/foreveryone1)__
 
 ## What It May Look Like
 
@@ -36,11 +36,15 @@ width: 150px;
 height: 150px;
 }
 ```
+## Caveats
 
-### Current Caveats
+If you have a theme in which case callout-content backgrounds are stripped/transparent, you will need to adjust the dropcap snippet to add it back in for the background.
 
-This snippet has been tested on Default, Minimal, ITS Theme, Ebullientworks, AnuPpuccin, Wyrd, and Shimmering Focus. It worked on every theme and you will find some slight variances on the spacing distance from the icon to the text as expected. However, it suffered from the same issue on dark backgrounds; the letter disappears.Here it is on AnuPpuccin, for example.
 
-![sigrunixia_dropcap_darktest1](_attachments/sigrunixia_dropcap_darktest1.png)
+```css
+.callout-content:has(.dropcap) {
+  background-color: your-color-here;
+  background-image: your-image-here; 
+}
 
-> __Note__: A callout background is underway for this dropcap CSS to be used for light and dark backgrounds, and is undergoing additional testing. This page will be updated when it is released.
+```
