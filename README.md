@@ -1,45 +1,26 @@
-# Obsidian TTRPG Share
+# Obsidian TTRPG Share Awesome List!
 
-This is a repository for the downloading and sharing TTRPG elements that may be useful for **[Obsidian](https://obsidian.md)** TTRPG Users. We also utilize this repository as a headquarters to plan community building and philanthropy.
+This is a repository for the listing of awesome reasources, and the downloading and sharing of system agnostic TTRPG elements that may be useful for **[Obsidian](https://obsidian.md)** TTRPG Users.
 
-## New as of May 2023
-The Obsidian TTRPG Share is now a part of the new Obsidian TTRPG Community. Carry On!
+> :construction: We're now splitting this repository apart to focus it more on the awesome list and system agnostic items. Please watch your step.
 
-## New as of April 2023
+## System Specific Repositories
 
-Sluggification and Title Chasing has changed!
 
-**Old:** `Without_Numbers/Templates/Character-Sheet.md`
+- [13th Age SRD](https://github.com/Obsidian-TTRPG-Community/13th-Age-SRD-Markdown)
+- [Bunkers & Badasses](https://github.com/Obsidian-TTRPG-Community/Bunkers-n-Badasses-Markdown)
+- [Cypher SRD Markdown](https://github.com/Obsidian-TTRPG-Community/Cypher-SRD-Markdown)
+- [DnD 3.5 SRD Markdown](https://github.com/Obsidian-TTRPG-Community/DnD-3.5-SRD-Markdown)
+- [D&D 5e Wiki](https://github.com/OldManUmby/DND.SRD.Wiki)
+- [D&D 5e Homebrew and Training SRD](https://github.com/Obsidian-TTRPG-Community/dnd5e-markdown)
+- [Ironsworn SRD](https://github.com/Obsidian-TTRPG-Community/Ironsworn-SRD-Markdown)
+- [Old School Essentials Wiki](https://github.com/OldManUmby/OSE.SRD.Wiki)
+- [Old School Essentials SRD and Homebrew](https://github.com/Obsidian-TTRPG-Community/Old-School-Essentials-Markdown)
+- [Pathfinder 1e SRD](https://github.com/Obsidian-TTRPG-Community/Pathfinder-1E-SRD-Markdown)
+- [Pathfinder 2e SRD](https://github.com/Obsidian-TTRPG-Community/Pathfinder-2E-SRD-Markdown)
+- [Stars Without Number Markdown](https://github.com/Obsidian-TTRPG-Community/Obsidian-SWN-Markdown)
+- [World Without Numbers Markdown](https://github.com/Obsidian-TTRPG-Community/Obsidian-WWN-Markdown)
 
-**New:** `Without-Numbers/templates/character-sheet.md`
+## Helpful Resources
 
-## Goals / Mission Statement
-
-The ObsidianTTRPGShare now maintains the primary goal of Encouraging the collection and categorization of data shared on **[Obsidian Discord](https://discord.gg/obsidianmd)** that would otherwise become lost and forgotten over time.
-
-Its secondary goals are to act as an incubator for refining those elements, so they may be added to the **[Obsidian TTRPG Hub](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+TTRPG)**.
-
-## Quest: Contribute
-
-This content is only possible through the combined efforts of fellow Table-Top Role-Playing Game enthusiasts who want to grow the community and make things fun for everyone. Want to give back? Please take the time to contribute your custom code, callouts, scripts, tables and other useful items to this repository.
-
->_If you're a contributor who also has a coffee link, update the section below when submitting your pull request for it to be added to the die table._
->
->_Else-wise, @Sigrunixia will find it and add it, eventually._
-
-## Feel Like Buying Coffees?
-
-If there is a contributor you would like to support, click their link below and buy them a coffee.
-
-Feeling lucky? How about a roll of the die instead?
-
-> **Roll**: 1d7
-
-|                           Column A                           | Column B                                |
-|:------------------------------------------------------------:|-----------------------------------------|
-| **[Josh Plunkett](https://www.patreon.com/join/JPlunkett?)** | **[Fate](https://ko-fi.com/fatebreak)** |
-|      **[Kepano](https://www.buymeacoffee.com/kepano)**       |                                         |
-|             **[SlRvb](https://ko-fi.com/slrvb)**             |                                         |
-|            **[Yilmas](https://ko-fi.com/yilmas)**            |                                         |
-|        **[Sigrunixia](https://ko-fi.com/sigrunixia)**        |                                         |
-|        **[Nicholevdh](https://ko-fi.com/nicolevdh)**         |                                         |
+- [Craftidore's Tavern](https://github.com/Obsidian-TTRPG-Community/The-Tavern) – A collection of Quests and writing resources for the curious Gamemaster.
