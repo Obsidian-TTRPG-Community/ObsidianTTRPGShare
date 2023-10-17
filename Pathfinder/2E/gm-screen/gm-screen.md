@@ -6,49 +6,49 @@ kanban-plugin: basic
 
 ## Conditions
 
-- [ ] [Conditions](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md)
-- [ ] [Blinded](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Blinded)
-- [ ] [Broken](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Broken)
-- [ ] [Concealed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Concealed)
-- [ ] [Clumsy](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Clumsy)
-- [ ] [Confused](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Confused)
-- [ ] [Controlled](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Controlled)
-- [ ] [Doomed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Doomed)
-- [ ] [Dazzled](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Dazzled)
-- [ ] [Deafened](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Deafened)
-- [ ] [Drained](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Drained)
-- [ ] [Encumbered](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Encumbered)
-- [ ] [Flat-footed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Flat-footed)
-- [ ] [Fatigued](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Fatigued)
-- [ ] [Friendly](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Friendly)
-- [ ] [Fleeing](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Fleeing)
-- [ ] [Helpful](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Helpful)
-- [ ] [Hidden](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Hidden)
-- [ ] [Frightened](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Frightened)
-- [ ] [Hostile](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Hostile)
-- [ ] [Dying](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Dying)
-- [ ] [Enfeebled](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Enfeebled)
-- [ ] [Immobilized](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Immobilized)
-- [ ] [Indifferent](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Indifferent)
-- [ ] [Fascinated](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Fascinated)
-- [ ] [Grabbed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Grabbed)
-- [ ] [Persistent Damage](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Persistent%20Damage)
-- [ ] [Invisible](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Invisible)
-- [ ] [Observed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Observed)
-- [ ] [Paralyzed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Paralyzed)
-- [ ] [Petrified](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Petrified)
-- [ ] [Prone](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Prone)
-- [ ] [Stunned](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Stunned)
-- [ ] [Quickened](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Quickened)
-- [ ] [Slowed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Slowed)
-- [ ] [Restrained](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Restrained)
-- [ ] [Stupefied](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Stupefied)
-- [ ] [Sickened](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Sickened)
-- [ ] [Unfriendly](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Unfriendly)
-- [ ] [Undetected](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Undetected)
-- [ ] [Unnoticed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Unnoticed)
-- [ ] [Unconscious](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Unconscious)
-- [ ] [Wounded](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Wounded)
+- [ ] [[Conditions]]
+- [ ] [[conditions#Blinded|Blinded]]
+- [ ] [[conditions#Broken|Broken]]
+- [ ] [[conditions#Concealed|Concealed]]
+- [ ] [[conditions#Clumsy|Clumsy]]
+- [ ] [[conditions#Confused|Confused]]
+- [ ] [[conditions#Controlled|Controlled]]
+- [ ] [[conditions#Doomed|Doomed]]
+- [ ] [[conditions#Dazzled|Dazzled]]
+- [ ] [[conditions#Deafened|Deafened]]
+- [ ] [[conditions#Drained|Drained]]
+- [ ] [[conditions#Encumbered|Encumbered]]
+- [ ] [[conditions#Flat-Footed|Flat-footed]]
+- [ ] [[conditions#Fatigued|Fatigued]]
+- [ ] [[conditions#Friendly|Friendly]]
+- [ ] [[conditions#Fleeing|Fleeing]]
+- [ ] [[conditions#Helpful|Helpful]]
+- [ ] [[conditions#Hidden|Hidden]]
+- [ ] [[conditions#Frightened|Frightened]]
+- [ ] [[conditions#Hostile|Hostile]]
+- [ ] [[conditions#Dying|Dying]]
+- [ ] [[conditions#Enfeebled|Enfeebled]]
+- [ ] [[conditions#Immobilized|Immobilized]]
+- [ ] [[conditions#Indifferent|Indifferent]]
+- [ ] [[conditions#Fascinated|Fascinated]]
+- [ ] [[conditions#Grabbed|Grabbed]]
+- [ ] [[conditions#Persistent Damage|Persistent Damage]]
+- [ ] [[conditions#Invisible|Invisible]]
+- [ ] [[conditions#Observed|Observed]]
+- [ ] [[conditions#Paralyzed|Paralyzed]]
+- [ ] [[conditions#Petrified|Petrified]]
+- [ ] [[conditions#Prone|Prone]]
+- [ ] [[conditions#Stunned|Stunned]]
+- [ ] [[conditions#Quickened|Quickened]]
+- [ ] [[conditions#Slowed|Slowed]]
+- [ ] [[conditions#Restrained|Restrained]]
+- [ ] [[conditions#Stupefied|Stupefied]]
+- [ ] [[conditions#Sickened|Sickened]]
+- [ ] [[conditions#Unfriendly|Unfriendly]]
+- [ ] [[conditions#Undetected|Undetected]]
+- [ ] [[conditions#Unnoticed|Unnoticed]]
+- [ ] [[conditions#Unconscious|Unconscious]]
+- [ ] [[conditions#Wounded|Wounded]]
 
 
 ## Rules
