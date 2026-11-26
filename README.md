@@ -24,3 +24,9 @@ This is a repository for the listing of awesome reasources, and the downloading 
 ## Helpful Resources
 
 - [Craftidore's Tavern](https://github.com/Obsidian-TTRPG-Community/The-Tavern) – A collection of Quests and writing resources for the curious Gamemaster.
+
+## Plugins
+
+- [Encounter Builder](https://github.com/WickedCreativeSystems/encounter-builder) – Build fights in a note against the 5E or Pathfinder 2e XP budget.
+- [Quick Initiative](https://github.com/WickedCreativeSystems/quick-initiative) – A light initiative tracker that keeps the whole fight as plain text in your note.
+- [Solo Oracle](https://github.com/WickedCreativeSystems/solo-oracle) – A solo oracle and GM emulator that writes every roll into the note.
